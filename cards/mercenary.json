@@ -1,0 +1,43 @@
+{
+  "word": "mercenary",
+  "pos": "adj. / n.",
+  "pron": "MER-suh-neh-ree",
+  "pron_note": null,
+  "means": "**Noun:** a soldier who fights for whoever pays him, not for a country or a cause.\n**Adjective:** motivated purely by money.\n\nThe insult isn't plain greed. *Greedy* means wanting more; **mercenary** means money has taken the place of a motive that should have been there — loyalty, conviction, love of the work. A greedy doctor overcharges; a mercenary doctor only treats you because you can pay. That's why it stings when applied to artists, lawyers, athletes, friends: it says the cheque is doing all the work.",
+  "trap": null,
+  "trick_line": "**Merce**nary hides **commerce** — he doesn't pick a side, he picks a buyer.",
+  "trick_unpack": "Same *merc-* as *commerce* and *merchant*: to him the war, the case, or the song is just stock to be sold.",
+  "sentences": [
+    "Renaissance city-states defended themselves with **mercenary** companies, who decamped the instant a richer prince made an offer.",
+    "He's not disloyal exactly — just **mercenary**; wave a bigger salary at him and he's gone by Friday."
+  ],
+  "in_the_wild": "**Deadpool**, \"the **Merc** with a Mouth\" — *merc* is short for mercenary, and the whole joke is that he'll take any job from anyone for the right fee.",
+  "etymology": "Latin **mercēs, mercēdis** = *\"wages, pay\"* → *mercēnārius*, \"a hired hand.\" Same *merc-* root as **commerce**, **merchant**, **market**, **mercantile** — all the language of buying and selling.\n\nThe odd cousin: **mercy**. Wages → *reward* → the reward God grants → *compassion*. (And **Mercedes** is Spanish for \"mercies,\" from the same word.)",
+  "one_line": "Motivated only by money; a soldier who fights for pay.",
+  "root": "mercēs, mercēdis (wages, pay)",
+  "root_family": [
+    "commerce",
+    "merchant",
+    "market",
+    "mercantile",
+    "mercy",
+    "merchandise"
+  ],
+  "confusables": [
+    "missionary",
+    "mercurial",
+    "mercantile"
+  ],
+  "sense_tags": [
+    "money-motivated",
+    "greedy",
+    "venal",
+    "hired-soldier",
+    "self-interested"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    9
+  ]
+}

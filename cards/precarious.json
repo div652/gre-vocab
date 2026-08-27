@@ -1,0 +1,41 @@
+{
+  "word": "precarious",
+  "pos": "adj.",
+  "pron": "pri-KAIR-ee-uhs",
+  "pron_note": null,
+  "means": "Dangerously unstable — liable to fall, collapse, or be taken away at any moment. Also: dependent on chance or on someone else's goodwill.\n\nThe danger isn't in the harm, it's in the **balance**. A *dangerous* road hurts you; a *precarious* ledge is perfectly fine right up until it isn't. The thing is holding — but nothing guarantees it keeps holding, and you don't control what does. That's why it fits both a boulder on a cliff edge and a job, a truce, or a bank balance: the common thread is a position you occupy only on sufferance.",
+  "trap": null,
+  "trick_line": "**You're not holding it up — you're *praying* it holds.**",
+  "trick_unpack": "The word is literally built on Latin *precari*, \"to pray,\" so a precarious position is one kept by prayer and permission rather than by any grip of your own.",
+  "sentences": [
+    "The ceasefire was **precarious**, sustained less by trust than by the exhaustion of both armies.",
+    "He balanced the last mug on a **precarious** tower of dishes and backed away very slowly."
+  ],
+  "in_the_wild": "Labour economists talk about **precarious work** — gig shifts, zero-hours contracts, rolling three-month renewals — and have coined **the precariat** for the class living on it. Same idea: you have the job only until someone else decides you don't.",
+  "etymology": "Latin **precārius** = *\"obtained by begging\"*, from **precārī**, *\"to pray, entreat\"* (root **prex, precis** = prayer). In Roman law a *precarium* was property you held purely at the owner's pleasure — revocable the instant he changed his mind. That legal sense (*held by another's favour*) drifted into the physical one (*liable to fall*).\n\nSame root: **pray**, **deprecate** (pray away → belittle), **imprecation** (a curse prayed down on someone).",
+  "one_line": "Unstable; liable to collapse at any moment.",
+  "root": "precārī (to pray, entreat), from prex, precis (prayer)",
+  "root_family": [
+    "pray",
+    "deprecate",
+    "imprecation",
+    "prayer"
+  ],
+  "confusables": [
+    "precocious",
+    "precious",
+    "pecuniary"
+  ],
+  "sense_tags": [
+    "unstable",
+    "risky",
+    "insecure",
+    "dependent",
+    "fragile"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    9
+  ]
+}

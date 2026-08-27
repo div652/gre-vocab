@@ -1,0 +1,41 @@
+{
+  "word": "arbitrary",
+  "pos": "adj.",
+  "pron": "AHR-bi-trair-ee",
+  "pron_note": "British: AHR-bi-truh-ree — the third syllable collapses to a schwa.",
+  "means": "Decided by personal whim or preference rather than by reason, rule, or system — and, at full strength, **power used without check or accountability**.\n\nTwo settings, and the GRE tests both. In maths or logic it's neutral bookkeeping: *let n be an arbitrary integer* just means \"any one, chosen without constraint.\" Everywhere else it's an **accusation**: to call a rule, a fine, or a deadline arbitrary is to say nobody can point to the principle behind it. Push it further and it turns political — *arbitrary rule*, *arbitrary arrest* — where the complaint is not randomness but **unchecked authority**, a ruler answerable only to his own say-so. That second sense is the one students miss when they file the word under \"random.\"",
+  "trap": null,
+  "trick_line": "**Arbitr**ary hides the **arbiter** — the referee's call stands, whether or not there's a rule behind it.",
+  "trick_unpack": "An arbitrary decision is one backed by nothing but the decider's authority, which is why the word slides so easily from \"random\" to \"tyrannical.\"",
+  "sentences": [
+    "The court struck down the regulation as **arbitrary and capricious**, finding no evidence the agency had weighed any evidence at all.",
+    "Why is the cutoff 500 words? Feels totally **arbitrary**."
+  ],
+  "in_the_wild": "Article 9 of the **Universal Declaration of Human Rights**: *\"No one shall be subjected to arbitrary arrest, detention or exile.\"* Not random arrests — arrests nobody has to justify.",
+  "etymology": "Latin **arbiter** = *\"judge, one called in to decide.\"* An *arbitrary* ruling is one resting on the arbiter's personal judgment alone — no rulebook above him.\n\nThat root pays out across the GRE: **arbiter** (the decider), **arbitrate** / **arbitration** (settle a dispute outside court), **arbitrary** (deciding by nothing but one's own will).",
+  "one_line": "Decided by whim or unchecked power, not by reason or rule.",
+  "root": "arbiter (judge, decider)",
+  "root_family": [
+    "arbiter",
+    "arbitrate",
+    "arbitration",
+    "arbitrator"
+  ],
+  "confusables": [
+    "arbitrate",
+    "arbitrable",
+    "arbitrage"
+  ],
+  "sense_tags": [
+    "capricious",
+    "unjustified",
+    "random",
+    "despotic",
+    "unchecked-power"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    7
+  ]
+}

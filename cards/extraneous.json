@@ -1,0 +1,43 @@
+{
+  "word": "extraneous",
+  "pos": "adj.",
+  "pron": "ek-STRAY-nee-uhs",
+  "pron_note": null,
+  "means": "Coming from **outside** and therefore **not belonging** — irrelevant to the matter at hand.\n\n*Extra* means there's more than you need; **extraneous** means it was never part of the job. A fourth paragraph restating your argument is superfluous; a paragraph about your childhood is extraneous. The word is a quiet dismissal — it says *this doesn't bear on the question*, which is colder than saying it's wrong. Register is formal and faintly clinical: editors, lawyers and scientists strip out extraneous detail, extraneous evidence, extraneous noise.",
+  "trap": "**extraneous ≠ erroneous.** *Erroneous* = **mistaken** (it's wrong). *Extraneous* = **irrelevant** (it may be perfectly true, it just doesn't belong here).",
+  "trick_line": "**extra + strange** — not merely spare, but a **stranger**: it came in from outside.",
+  "trick_unpack": "That's the whole nuance — extraneous material isn't excess of the right stuff, it's foreign matter that wandered in.",
+  "sentences": [
+    "The judge ruled the letters **extraneous** to the charge and refused to admit them.",
+    "Just answer the question — I don't need all the **extraneous** backstory about your flatmate."
+  ],
+  "in_the_wild": "Any lab report or psych study: you control for **extraneous variables** — the outside factors that sneak in and muddy your result.",
+  "etymology": "Latin **extrāneus** = *\"external, foreign,\"* from **extra** = *\"outside.\"*\n\nSame root, unrecognisably worn down through French: **strange** and **stranger** — literally *the outside one*. Also **estranged** (pushed outside) and **extraordinary** (outside the ordinary).",
+  "one_line": "Irrelevant; coming from outside and not belonging.",
+  "root": "extrāneus (external, foreign) ← extra (outside)",
+  "root_family": [
+    "strange",
+    "stranger",
+    "estranged",
+    "extraordinary",
+    "extra",
+    "external"
+  ],
+  "confusables": [
+    "erroneous",
+    "extemporaneous",
+    "extenuating"
+  ],
+  "sense_tags": [
+    "irrelevant",
+    "external",
+    "superfluous",
+    "off-topic",
+    "intrusive"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    13
+  ]
+}

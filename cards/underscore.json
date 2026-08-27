@@ -1,0 +1,41 @@
+{
+  "word": "underscore",
+  "pos": "v. / n.",
+  "pron": "UN-der-skor",
+  "pron_note": null,
+  "means": "**Verb:** to emphasize; to make a point impossible to miss.\n**Noun:** the line drawn under text — and the `_` key.\n\nOn the GRE it's almost always the verb, and the giveaway is *who* does the underscoring: usually not a person but an **event, a fact, a statistic**. A crash *underscores* the need for regulation. The word carries a quiet implication — the importance was already there; the event merely made it visible. That's what separates it from *stress* or *insist* (a speaker pushing) and from *exaggerate* (inflating). Underscoring adds no volume, just a pointing finger. Neutral, slightly formal, at home in editorials and reports.",
+  "trap": null,
+  "trick_line": "A **score** is a scratch — you *scratch a line under* the sentence you don't want skipped.",
+  "trick_unpack": "The mark itself does nothing to the sentence; it just makes the reader's eye stop there, which is exactly what the verb means.",
+  "sentences": [
+    "The committee's own data **underscored** the fragility of the system it had been defending for a decade.",
+    "Losing my keys twice in one week really **underscores** the fact that I need one place to put them."
+  ],
+  "in_the_wild": "It's the house verb of serious journalism — every news report ends with some version of *\\\"the incident underscores growing concerns about…\\\"*. Spot that sentence once and the word is yours.",
+  "etymology": "**Score** comes from Old Norse *skor* = *\"a notch, a cut.\"* Debts and points were once tallied by cutting notches into a stick — hence *keep score*, *settle a score*, and *scoreline*. **Under + score** = cut a line underneath.",
+  "one_line": "To emphasize; to make something impossible to overlook.",
+  "root": "skor (Old Norse: a notch, a cut)",
+  "root_family": [
+    "score",
+    "scoreline",
+    "settle a score",
+    "shear",
+    "share"
+  ],
+  "confusables": [
+    "underline",
+    "undermine",
+    "underwrite"
+  ],
+  "sense_tags": [
+    "emphasis",
+    "highlighting",
+    "reinforcing",
+    "drawing attention"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    6
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "apropos",
+  "pos": "adj. / prep. / adv.",
+  "pron": "ap-ruh-POH",
+  "pron_note": "The final s is silent (it's French) — never \"-POHZ\".",
+  "means": "**Adj.:** fitting, apt, **well-timed** — suited to what is happening right now.\n**Prep. (always *apropos of*):** with regard to, concerning.\n\n*Relevant* is a logical judgement; *apt* praises the accuracy of the fit. **Apropos** praises the **timing** — the remark landed at exactly the right moment in the conversation. It's an urbane, drawing-room word, imported whole from French and still wearing its accent, so it sounds cultivated in speech and slightly mannered in writing.",
+  "trap": "⚠️ **apropos ≠ apposite.** *Apposite* (**AP-uh-zit**) = strikingly well-chosen in **content** — an apposite quotation. *Apropos* = well-chosen for the **occasion**. An apposite line can still be raised at a terrible moment.",
+  "trick_line": "The word's home phrase is **\"apropos of nothing\"** — an apology issued precisely because it *isn't*.",
+  "trick_unpack": "People flag the exception because the default sense is *arising naturally from the moment*, so the idiom hands you the meaning and the usage together.",
+  "sentences": [
+    "The chairman's remark on succession was **apropos**, coming days before the founder's resignation.",
+    "**Apropos of** dinner — are we still doing Thursday, or has that quietly died?"
+  ],
+  "in_the_wild": "Woody Allen titled his 2020 memoir ***Apropos of Nothing*** — a book-length shrug at the idea that any of it was relevant.",
+  "etymology": "French **à propos** = *\"to the purpose,\"* from Latin **prōpositum**, from **pro-** (forward) + **pōnere** (to place).\n\nThat root places things forward everywhere: **propose, proposition, purpose, exponent, component, opponent, postpone**.",
+  "one_line": "Fitting and well-timed; or \"with regard to.\"",
+  "root": "pōnere, positum (to place) + pro- (forward)",
+  "root_family": [
+    "propose",
+    "proposition",
+    "purpose",
+    "exponent",
+    "component",
+    "opponent",
+    "postpone",
+    "deposit"
+  ],
+  "confusables": [
+    "apposite",
+    "appropriate",
+    "apostrophe"
+  ],
+  "sense_tags": [
+    "relevant",
+    "timely",
+    "fitting",
+    "concerning",
+    "apt"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    15
+  ]
+}

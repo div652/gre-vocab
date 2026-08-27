@@ -1,0 +1,45 @@
+{
+  "word": "distort",
+  "pos": "v.",
+  "pron": "di-STORT",
+  "pron_note": null,
+  "means": "To **twist something out of its true shape** — a face, a signal, an image — or to **misrepresent** facts, motives, or words by bending them away from the truth.\n\nThe key is that distortion works on something *real*. A lie invents; a distortion takes the actual quote, the actual statistic, the actual photograph, and warps it until it says something else. That's why it's the harder accusation to rebut — every piece is genuine, only the shape is wrong. Note also that the word is perfectly neutral in technical use: lens distortion, harmonic distortion, a distorted waveform. Nobody is being accused of anything.",
+  "trap": "⚠️ **distort ≠ contort.**\n- **contort** = twist into a grotesque *shape* — a contorted face, a contortionist's body. No deception implied.\n- **distort** = twist away from the *truth or the original*. Deception, or at least inaccuracy.",
+  "trick_line": "**A distorted guitar is still playing the right note — just bent out of shape. Same with distorted facts.**",
+  "trick_unpack": "Distortion never replaces the original, it deforms it — which is exactly what separates it from an outright fabrication.",
+  "sentences": [
+    "The committee accused the newspaper of **distorting** its findings, quoting a single sentence and omitting the paragraph that qualified it.",
+    "Stop **distorting** what I said — I said it was expensive, not that we couldn't afford it."
+  ],
+  "in_the_wild": "The **distortion pedal** every rock guitarist steps on — Linkin Park's whole sound runs through it. The pedal doesn't change the notes; it drives the signal until the clean waveform is crushed out of shape. That's the word, literally.",
+  "etymology": "Latin **dis-** (*apart*) + **torquēre, tortus** (*to twist*) — to twist apart.\n\n*Torquēre* is a workhorse root: **contort** (twist together), **extort** (twist money *out* of someone), **retort** (a reply twisted back at you), **tortuous** (full of twists), **torture**, **torque**, and legal **tort** — a \"twisted\" wrong.",
+  "one_line": "To twist out of true shape, physically or in meaning.",
+  "root": "torquēre, tortus (to twist)",
+  "root_family": [
+    "contort",
+    "extort",
+    "retort",
+    "tortuous",
+    "torture",
+    "torque",
+    "tort",
+    "torment"
+  ],
+  "confusables": [
+    "contort",
+    "extort",
+    "distend"
+  ],
+  "sense_tags": [
+    "misrepresent",
+    "twist",
+    "deform",
+    "bias",
+    "warp"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    15
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "alleviate",
+  "pos": "v.",
+  "pron": "uh-LEE-vee-ayt",
+  "pron_note": null,
+  "means": "To make pain, suffering, or a problem **less severe** — to take the edge off.\n\nThe word is honest about its limits: you alleviate a symptom, not the disease. *Cure*, *eliminate* and *resolve* claim the problem is gone; **alleviate** only claims the weight is lighter. That's why doctors, aid agencies and policy papers reach for it — it promises relief without promising a fix. Its objects are almost always unpleasant: pain, grief, hunger, poverty, congestion, boredom. You never alleviate a good thing.",
+  "trap": null,
+  "trick_line": "al-**LEVI**-ate — same **levi** as **levitate**: it lifts weight off you, it doesn't take the load away.",
+  "trick_unpack": "Lightening ≠ removing, which is exactly the difference between *alleviate* and *cure*.",
+  "sentences": [
+    "Morphine **alleviated** the worst of his pain, though the fracture itself went untreated for two more days.",
+    "A fan in the window **alleviated** the heat a bit, but honestly, it was still unbearable."
+  ],
+  "in_the_wild": "**Poverty alleviation** is the standard phrase in World Bank and NGO reports — chosen precisely because nobody is willing to say *poverty elimination*.",
+  "etymology": "Latin **levis** = *\"light (in weight)\"* → **levāre**, *\"to lift, lighten\"*; *ad-* + *levāre* = to lighten toward you.\n\nOne root, a whole GRE cluster: **elevate** (lift up), **levitate** (float), **levity** (lightness of mood), **relieve/relief** (lift the burden again), **lever** and **leverage** (lifting device), even **leaven** (what lifts the dough).",
+  "one_line": "To ease pain or hardship — lessen it, not cure it.",
+  "root": "levis / levāre (light in weight; to lift, lighten)",
+  "root_family": [
+    "elevate",
+    "levitate",
+    "levity",
+    "relieve",
+    "relief",
+    "lever",
+    "leverage",
+    "leaven"
+  ],
+  "confusables": [
+    "abbreviate",
+    "elevate",
+    "allay"
+  ],
+  "sense_tags": [
+    "easing-suffering",
+    "relief",
+    "lessening",
+    "partial-remedy"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    6
+  ]
+}

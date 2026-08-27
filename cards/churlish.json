@@ -1,0 +1,39 @@
+{
+  "word": "churlish",
+  "pos": "adj.",
+  "pron": "CHER-lish",
+  "pron_note": "The vowel is er as in her — not \"choor\".",
+  "means": "Rude, surly and **ungracious** — mean-spirited in a small, grudging way.\n\n*Rude* is a blunt fact; *churlish* is a judgement with a curled lip. It's rarely used for shouting or aggression — it's the pettiness of **bad grace**: grumbling about a free lunch, refusing a kind offer, withholding the thanks that clearly was owed. There's class contempt buried in it too, which is why the word itself sounds slightly snobbish, and why it lives most naturally in the mouth of someone being conspicuously reasonable: *\"I won't be churlish about it.\"*",
+  "trap": null,
+  "trick_line": "**Nobody is ever *called* churlish — you only hear \"it would be churlish not to.\"**",
+  "trick_unpack": "That stock phrase tells you the whole meaning: churlishness is ingratitude in the face of someone's generosity, not violence or open insult.",
+  "sentences": [
+    "Having been housed and fed for a week, it would be **churlish** to quibble about the draught in the spare room.",
+    "Don't be **churlish** — she baked it for you, just eat the cake and say thanks."
+  ],
+  "in_the_wild": null,
+  "etymology": "Old English **ceorl** = a *peasant*, the lowest rank of free man. The insult is pure class snobbery: the commoner is assumed to have coarse manners.\n\nThat's a whole GRE family built the same way — **villain** (Latin *villa*, a farmhand), **boorish** (Dutch *boer*, a farmer), **vulgar** (Latin *vulgus*, the crowd), **ignoble** (not nobly born). And the flattering half of the pattern: **gentleman**, **noble**, **courteous** (fit for a *court*).",
+  "one_line": "Rude and ungracious, especially about someone else's generosity.",
+  "root": "ceorl (Old English: peasant, lowest-rank freeman)",
+  "root_family": [
+    "churl",
+    "Carl / Charles (Germanic *karl*, \"man\")"
+  ],
+  "confusables": [
+    "boorish",
+    "surly",
+    "chary"
+  ],
+  "sense_tags": [
+    "rude",
+    "ungracious",
+    "surly",
+    "ingratitude",
+    "petty"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    11
+  ]
+}

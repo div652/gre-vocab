@@ -1,0 +1,40 @@
+{
+  "word": "bucolic",
+  "pos": "adj.",
+  "pron": "byoo-KOL-ik",
+  "pron_note": "Not BUCK-uh-lik — the first syllable is byoo, as in beautiful.",
+  "means": "Of the countryside, and **charmingly** so: green fields, grazing animals, unhurried quiet.\n\nThe word never describes farm work as work. *Agrarian* is economic, *rustic* is rough and a bit unpolished, *rural* is just a census category — **bucolic** is the countryside seen from outside and admired. It carries a faint whiff of the picturesque: someone calling a village bucolic is enjoying the view, not mucking out the barn. Occasionally used drily, exactly because that gap between the pretty picture and the actual mud is easy to poke at.",
+  "trap": null,
+  "trick_line": "**Bu**colic, **bo**vine — same cow. Bucolic is cow-country as *scenery*.",
+  "trick_unpack": "The *bou-* is Greek for ox, so the word literally means cowherd-ish — and cows in a field are the postcard, not the labour.",
+  "sentences": [
+    "The novel opens on a **bucolic** valley of hedgerows and slow rivers, all of which the railway will have swallowed by chapter nine.",
+    "Two days of **bucolic** bliss and then the Wi-Fi died and we drove straight back to the city."
+  ],
+  "in_the_wild": "Estate agents and travel brochures live on this word — \"bucolic charm\", \"bucolic setting\" is standard copy for any cottage with a field near it. If you've read a countryside listing, you've read *bucolic*.",
+  "etymology": "Greek **boûs** = *ox, cow* → **boukolos** = *cowherd*. The same **bou-** pays off elsewhere: **bovine** (cow-like), **bulimia** (*bous* + *limos*, \"ox-hunger\"), and **butter** (*bou-tyron*, cow-cheese).",
+  "one_line": "Charmingly rural — the countryside as a pretty picture.",
+  "root": "boûs (ox, cow) → boukolos (cowherd)",
+  "root_family": [
+    "bovine",
+    "bulimia",
+    "butter",
+    "boustrophedon"
+  ],
+  "confusables": [
+    "colic",
+    "bubonic"
+  ],
+  "sense_tags": [
+    "rural",
+    "pastoral",
+    "idyllic",
+    "countryside",
+    "picturesque"
+  ],
+  "register": "literary",
+  "connotation": "positive",
+  "groups": [
+    3
+  ]
+}

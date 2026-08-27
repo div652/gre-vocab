@@ -1,0 +1,46 @@
+{
+  "word": "homogeneous",
+  "pos": "adj.",
+  "pron": "hoh-muh-JEE-nee-us",
+  "pron_note": "Five syllables — the **-e-** before *-ous* is sounded: *-JEE-nee-us*, not *-JEE-nus*.",
+  "means": "Made up entirely of **the same kind of thing** — uniform in composition throughout, with no variation between the parts. Opposite of *heterogeneous*.\n\nThe word swings on context. In science and statistics it's flat description and often a virtue: a **homogeneous mixture**, a homogeneous sample, homogeneous variance. Applied to people — a homogeneous workforce, a homogeneous suburb — it becomes a quiet criticism, the polite word for *everyone here is the same*. Note also that it describes **composition, not quality**: a homogeneous group is all alike, not necessarily all good.",
+  "trap": "⚠️ **homogeneous ≠ homogenous.**\n- **homogeneous** (hoh-muh-JEE-nee-us) = *uniform in kind* — the everyday word.\n- **homogenous** (huh-MOJ-uh-nus) = a **biology** term: similar because of **shared ancestry**.\n\nThey're one letter apart and the shorter one is widely used as a sloppy misspelling of the longer. On the GRE, write the *-e-*.",
+  "trick_line": "**Homo- + genus = same genus** — everything in the batch is filed under one heading.",
+  "trick_unpack": "The biologist's *genus* is literally sitting inside the word, and the missing extra **-e-** is exactly what the fake-friend *homogenous* drops.",
+  "sentences": [
+    "Critics faulted the shortlist as **homogeneous** — six novels, all by writers from the same two universities.",
+    "Their playlists are weirdly **homogeneous**; every song sounds like it came off the same synth."
+  ],
+  "in_the_wild": "The **homogenized** milk in your fridge — the fat is broken up and spread evenly so the cream never rises to the top. Same root, and you can see what it means: one uniform liquid, no separate layers.",
+  "etymology": "Greek **homos** = *\"same\"* + **genos** = *\"kind, race.\"*\n\n*Homos* is a workhorse: **homonym** (same name), **homophone** (same sound), **homogenize**. Its partner **heteros** (*other*) gives you **heterogeneous**, **heterodox** — learn the pair and you get both halves of any GRE contrast sentence.",
+  "one_line": "All of one kind; uniform throughout, with no variation.",
+  "root": "homos (same) + genos (kind)",
+  "root_family": [
+    "homonym",
+    "homophone",
+    "homogenize",
+    "homologous",
+    "heterogeneous",
+    "genus",
+    "genre",
+    "genesis"
+  ],
+  "confusables": [
+    "homogenous",
+    "heterogeneous",
+    "homologous",
+    "homogenize"
+  ],
+  "sense_tags": [
+    "uniform",
+    "same-kind",
+    "undifferentiated",
+    "lacking-variety",
+    "consistent"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    1
+  ]
+}

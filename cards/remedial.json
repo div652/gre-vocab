@@ -1,0 +1,43 @@
+{
+  "word": "remedial",
+  "pos": "adj.",
+  "pron": "ri-MEE-dee-uhl",
+  "pron_note": null,
+  "means": "Intended to **correct a fault or make up a deficiency** — to fix something broken, or bring someone who has fallen behind up to the required standard.\n\nTwo registers, and the GRE plays on both. In technical, legal, and engineering prose it is coldly neutral: *remedial works*, *remedial action*, *remedial measures* — a defect exists, here is the repair. In education it is a euphemism that still stings: a **remedial** class isn't an ordinary class, it's the one for students who can't yet do what everyone else can. So the word quietly asserts that something was **substandard to begin with** — praise for the fix, diagnosis of the flaw.",
+  "trap": "⚠️ **remedial ≠ remediable.**\n- **remedial** = *doing* the fixing (a remedial course, remedial action)\n- **remediable** = *capable of being* fixed (the damage was remediable; the loss was **ir**remediable)",
+  "trick_line": "**re-MEDI-al** — you're being sent back for **medi**cine, and only the sick get medicine.",
+  "trick_unpack": "The buried *medi* gives you both halves at once: it's a cure, and being handed a cure means you were diagnosed as deficient.",
+  "sentences": [
+    "The tribunal ordered **remedial** measures at the plant: new filters, quarterly audits, and a full soil survey within the year.",
+    "Half the freshmen got dumped into **remedial** maths, which is a polite way of saying nobody learned algebra in high school."
+  ],
+  "in_the_wild": "Building sites and surveyors' reports everywhere carry the phrase **\"remedial works\"** — the standard professional label for repairs to something built wrong the first time.",
+  "etymology": "Latin **remedium** = *\"a cure\"*, from **re-** (back, again) + **medērī** (*to heal*).\n\nThat root pays out across the whole page: **remedy**, **medicine**, **medical**, **medicate** — all of it *healing*.",
+  "one_line": "Meant to fix a defect or bring a laggard up to standard.",
+  "root": "medērī (to heal)",
+  "root_family": [
+    "remedy",
+    "medicine",
+    "medical",
+    "medicate",
+    "medic"
+  ],
+  "confusables": [
+    "remediable",
+    "irremediable",
+    "remedy",
+    "medial"
+  ],
+  "sense_tags": [
+    "corrective",
+    "healing",
+    "below-standard",
+    "repair",
+    "compensatory"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    5
+  ]
+}

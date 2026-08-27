@@ -1,0 +1,42 @@
+{
+  "word": "amorphous",
+  "pos": "adj.",
+  "pron": "uh-MOR-fuhs",
+  "pron_note": null,
+  "means": "Without a definite shape — and, by extension, without definite structure: a blob, a fog, a committee with no chain of command, a draft with no argument.\n\nIn science it's purely descriptive: an **amorphous** solid (glass, plastic) is one whose atoms sit in no crystal lattice. Outside the lab it usually carries quiet criticism, but of a cool, diagnostic kind. *Vague* and *wishy-washy* complain about how something was expressed; **amorphous** says the thing itself has no edges yet — nobody has drawn the outline. It describes the object, not the speaker's irritation, which is exactly why it sounds clinical rather than cross.",
+  "trap": "⚠️ **amorphous ≠ amorous.** *Amorous* is Latin *amor*, \"love\" — full of desire. One letter-cluster apart, opposite worlds: an amorous glance, an amorphous plan.",
+  "trick_line": "**a-MORPH-ous** — nothing to *morph*, because there's no shape there to begin with.",
+  "trick_unpack": "Note where the word actually turns up: less often on clouds and jellyfish than on strategies, movements and first drafts whose outlines nobody has bothered to draw.",
+  "sentences": [
+    "The protest remained **amorphous** — no leaders, no demands, no obvious way for the government to negotiate with it.",
+    "Right now the plan's pretty **amorphous**; give me a week and I'll turn it into actual dates."
+  ],
+  "in_the_wild": "**Morpheus** in *The Matrix* is the same root — Greek *morphē*, \"form,\" the god who takes any shape in dreams. He's the one who tells Neo none of the shapes around him are real.",
+  "etymology": "Greek **a-** (*without*) + **morphē** (*form*). One root, a lot of GRE mileage: **metamorphosis** (change of form), **morpheme** (smallest unit of meaning-form), **anthropomorphic** (given human form), **polymorphous** (many forms), and **morphine** — named for **Morpheus**, the shape-shifting god of dreams.",
+  "one_line": "Shapeless; lacking clear form, structure or definition.",
+  "root": "morphē (form), with a- (without)",
+  "root_family": [
+    "metamorphosis",
+    "morpheme",
+    "anthropomorphic",
+    "polymorphous",
+    "morphine",
+    "morph"
+  ],
+  "confusables": [
+    "amorous",
+    "amoral"
+  ],
+  "sense_tags": [
+    "shapeless",
+    "unstructured",
+    "vague",
+    "formless",
+    "undefined"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    1
+  ]
+}

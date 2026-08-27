@@ -1,0 +1,43 @@
+{
+  "word": "diffuse",
+  "pos": "v. / adj.",
+  "pron": "dih-FYOOZ (v.) / dih-FYOOSS (adj.)",
+  "pron_note": "The verb ends in a z; the adjective hisses — the same split as abuse (v.) / abuse (n.).",
+  "means": "**Verb:** to spread something out over a wide area until it's evenly scattered — heat, light, scent, power, tension.\n**Adjective:** spread out, not concentrated; of writing or speech, **rambling and unfocused**.\n\nThe adjective is the GRE's favourite, and it's a put-down. Calling an essay *diffuse* doesn't mean it's empty — it means the material is all there but pooled nowhere, so no point ever lands. It's the opposite of **concise**, **cogent**, **trenchant**: not a lack of content, a lack of a centre.",
+  "trap": "⚠️ **diffuse ≠ defuse.**\n- **diffuse** = *spread it thin*\n- **defuse** = *pull the fuse out* — make a bomb, or a crisis, safe\n\nYou **defuse** tension. Writing \"diffuse the tension\" is one of the most common errors in English — and it's testable.",
+  "trick_line": "**Diffuse light has no beam; diffuse prose has no point.**",
+  "trick_unpack": "Either way the stuff is present and spread everywhere, which is exactly why nothing lands.",
+  "sentences": [
+    "The committee's report was so **diffuse** that a third reading still failed to surrender a thesis.",
+    "Turn the lamp on — that overhead light's too **diffuse** to read by."
+  ],
+  "in_the_wild": "The reed **diffuser** on someone's shelf is named for its job: it spreads scent evenly through the whole room instead of concentrating it in one spot. Same with a photographer's flash diffuser — it kills the harsh beam.",
+  "etymology": "Latin **dis-** (*apart*) + **fundere / fūsus** (*to pour*) — *poured apart*.\n\nThat pouring root runs everywhere: **confuse** (poured together), **profuse** (poured forth), **effusive** (gushing out), **infuse**, **transfusion**, **fusion**.",
+  "one_line": "Spread thin and unfocused; to scatter widely.",
+  "root": "fundere, fūsus (to pour)",
+  "root_family": [
+    "confuse",
+    "profuse",
+    "effusive",
+    "infuse",
+    "transfusion",
+    "fusion",
+    "refund"
+  ],
+  "confusables": [
+    "defuse",
+    "profuse",
+    "diffident"
+  ],
+  "sense_tags": [
+    "scattered",
+    "unfocused",
+    "verbose",
+    "dispersal"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    13
+  ]
+}

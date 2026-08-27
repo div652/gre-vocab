@@ -1,0 +1,42 @@
+{
+  "word": "pedantic",
+  "pos": "adj.",
+  "pron": "puh-DAN-tik",
+  "pron_note": null,
+  "means": "Excessively concerned with minor rules, technicalities, or the parading of one's learning — correcting the comma while the building burns.\n\nIt is always an insult. The behaviour it describes is identical to *meticulous* or *scrupulous*; the difference is entirely in whether the fuss was worth it. Praise the same person and you get \"rigorous\"; resent them and you get **pedantic**. Built into the word is a charge of misplaced priorities — the pedant is right about the small thing and wrong about what mattered, and rather enjoys the correction.",
+  "trap": "⚠️ **pedantic ≠ pedestrian.** Both are sneers, but different ones: **pedantic** = fussing over trivial details; **pedestrian** = dull, unimaginative, ordinary. A pedantic essay nitpicks; a pedestrian essay bores.",
+  "trick_line": "**Ped-ANT-ic** — he's picking over **ants** while you're pointing at the elephant.",
+  "trick_unpack": "The hidden *ant* is the size of the detail he's chosen to die on.",
+  "sentences": [
+    "His commentary on the poem was **pedantic** to the point of uselessness — six pages on the manuscript's punctuation, not a word on what the thing meant.",
+    "Sorry to be **pedantic**, but it's *fewer* people, not *less* people."
+  ],
+  "in_the_wild": "The internet's **\"well, actually…\"** reply — the guy who ignores your entire point to correct one detail in it. That is pedantry with a keyboard.",
+  "etymology": "From Italian **pedante**, \"schoolmaster\" — most likely tied to Greek **paid-, paidos** = *\"child.\"* The pedant is the schoolmaster who never left the classroom, still drilling rules at grown adults.\n\nThat root pays out widely: **pedagogy** (leading children), **pediatrician**, **encyclopedia** (a *circle of child-rearing*, i.e. general education).\n\n🚫 **Not the *ped-* of *pedal, pedestrian, pedestal*** — that's Latin *pes, pedis*, \"foot.\" Same-looking prefix, unrelated family.",
+  "one_line": "Fussing over trivial details or showing off learning.",
+  "root": "paid-, paidos (child)",
+  "root_family": [
+    "pedagogy",
+    "pedagogue",
+    "pediatrician",
+    "encyclopedia"
+  ],
+  "confusables": [
+    "pedestrian",
+    "pedagogic",
+    "didactic",
+    "pendant"
+  ],
+  "sense_tags": [
+    "nitpicking",
+    "trivial-detail",
+    "showing-off-learning",
+    "rule-bound",
+    "schoolmasterly"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    4
+  ]
+}

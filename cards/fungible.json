@@ -1,0 +1,41 @@
+{
+  "word": "fungible",
+  "pos": "adj.",
+  "pron": "FUN-juh-buhl",
+  "pron_note": "Soft g, as in *gem* — not the hard g of *fungus*.",
+  "means": "Interchangeable: each unit is **perfectly substitutable** for another of the same kind, so which particular one you get makes no difference. A dollar, a barrel of crude, a share of stock, a bushel of wheat.\n\nThe word is stronger than *similar* or *replaceable* — fungible things aren't merely alike, they're **indistinguishable for the purpose at hand**. It comes out of law and finance and still carries that clipped, contractual tone. Applied to things it's neutral bookkeeping; applied to **people** it turns cold fast: calling workers fungible says they're units, not individuals.",
+  "trap": null,
+  "trick_line": "Nobody's wedding ring is fungible. Their cash is.",
+  "trick_unpack": "The test is whether swapping in an identical unit would bother you at all — if yes, it isn't fungible.",
+  "sentences": [
+    "Under the terms of the warehouse receipt the grain was **fungible**: any ton in the silo discharged the obligation.",
+    "Management talks like engineers are **fungible** — swap one out, ship the same code."
+  ],
+  "in_the_wild": "**NFT** = *non-fungible token*. The whole point of the name: every other crypto coin is fungible (your Bitcoin = my Bitcoin), but an NFT is one specific, non-swappable item.",
+  "etymology": "Latin **fungī** = *\"to perform, discharge a duty\"* — from the phrase *fungī vice*, \"to serve in place of.\" That root also gives you **function**, **perfunctory** (going through the motions), and **defunct** (done performing).\n\n🚫 **Nothing to do with *fungus*.** Different Latin word, and the g is soft.",
+  "one_line": "Interchangeable — any one unit substitutes perfectly for another.",
+  "root": "fungī (to perform, discharge)",
+  "root_family": [
+    "function",
+    "perfunctory",
+    "defunct",
+    "functionary"
+  ],
+  "confusables": [
+    "frangible",
+    "fungal",
+    "feasible"
+  ],
+  "sense_tags": [
+    "interchangeable",
+    "substitutable",
+    "replaceable",
+    "economics",
+    "commodity"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    12
+  ]
+}

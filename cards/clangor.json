@@ -1,0 +1,40 @@
+{
+  "word": "clangor",
+  "pos": "n. (also v.)",
+  "pron": "KLANG-ger",
+  "pron_note": "Also said KLANG-er, dropping the second g. British spelling: clangour.",
+  "means": "A loud, harsh, **ringing** noise — metal striking metal, and going on for a while: bells, hammers, alarms, armour, machinery.\n\n*Din* and *racket* are generic; **clangor is specifically resonant and metallic**, a sound with a ring in its tail. It's also a literary word — nobody complains about the clangor of their neighbours, they complain about the noise. Writers reach for it when they want the reader to *hear* the sound, and it usually carries a hint of the industrial or the martial.",
+  "trap": "⚠️ **clangor ≠ clamor.** *Clangor* is metal ringing; *clamor* is voices shouting. A crowd clamors; the bells above it clangor.",
+  "trick_line": "**Clang** + **-or**: a clang that keeps going.",
+  "trick_unpack": "The word wears its own sound effect on the front, and the suffix stretches one strike into a sustained metallic din.",
+  "sentences": [
+    "The retreat was sounded, and the valley filled with the **clangor** of bells from every church still standing.",
+    "I woke at six to the **clangor** of someone unloading the dishwasher like it owed them money."
+  ],
+  "in_the_wild": "Poe's *The Bells* stacks both words in a single line — *\"In the clamor and the clangor of the bells!\"* — the alarm-bell stanza, all iron and panic.",
+  "etymology": "Latin **clangere** = *\"to resound\"*, used of trumpets and clashing metal — imitative, the Romans heard the same noise you do.\n\nThe useful part is what it is **not**: *clamor* comes from **clamare**, *\"to cry out\"* — the root behind **claim, exclaim, proclaim, claimant**. Metal *clangs*; mouths *claim*.",
+  "one_line": "A loud, harsh, ringing din of metal on metal.",
+  "root": "clangere (to resound, clang)",
+  "root_family": [
+    "clang",
+    "clangorous"
+  ],
+  "confusables": [
+    "clamor",
+    "clangour",
+    "languor",
+    "clanger"
+  ],
+  "sense_tags": [
+    "noise",
+    "metallic",
+    "din",
+    "harsh-sound",
+    "bells"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

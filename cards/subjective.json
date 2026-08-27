@@ -1,0 +1,44 @@
+{
+  "word": "subjective",
+  "pos": "adj.",
+  "pron": "suhb-JEK-tiv",
+  "pron_note": null,
+  "means": "Belonging to the observer rather than the observed — shaped by personal feeling, taste, or point of view. Also, in a stricter philosophical sense: **existing in the mind**, not out in the world.\n\nNote that it is not a polite word for *biased*. Bias is a distortion you could in principle correct; subjectivity is simply the fact that the judgment lives inside a particular head — pain, beauty, and \"too spicy\" are subjective without anyone being at fault. The negative charge only appears when someone deploys it as a verdict (\"that's purely subjective\"), meaning: *unverifiable, so it doesn't count as evidence.*",
+  "trap": null,
+  "trick_line": "**Ob**-ject = thrown *in front of you*, out there. **Sub**-ject = thrown *underneath* — the self doing the looking.",
+  "trick_unpack": "Objective facts sit outside where anyone can check them; subjective ones sit under your own skull where nobody else can get at them.",
+  "sentences": [
+    "Aesthetic judgment, Kant argued, is **subjective** and yet somehow demands the agreement of others.",
+    "Scoring interviews out of ten is hopelessly **subjective** — one panellist's \"confident\" is another's \"arrogant\"."
+  ],
+  "in_the_wild": "Doctors' notes are literally built on the split: the **SOAP** note opens with **S — Subjective** (what the patient reports: \"it burns at night\") before **O — Objective** (what the thermometer and the blood panel say).",
+  "etymology": "Latin **sub-** (*under*) + **jacere** (*to throw*) — the subject is what's \"thrown under\": a king's *subjects* live under his power, and the *subject* of a sentence sits under the action.\n\n**jacere** is a top-tier GRE root — *project* (throw forward), *eject*, *inject*, *reject* (throw back), *dejected* (thrown down), *conjecture* (throw ideas together), *trajectory* (the path of a throw), *abject* (thrown away).",
+  "one_line": "Based on personal feeling or viewpoint, not external fact.",
+  "root": "jacere, jactus (to throw)",
+  "root_family": [
+    "project",
+    "eject",
+    "inject",
+    "reject",
+    "dejected",
+    "conjecture",
+    "trajectory",
+    "abject",
+    "interject"
+  ],
+  "confusables": [
+    "objective",
+    "subjunctive"
+  ],
+  "sense_tags": [
+    "personal-viewpoint",
+    "opinion",
+    "inner-experience",
+    "unverifiable"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    6
+  ]
+}

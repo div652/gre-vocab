@@ -1,0 +1,46 @@
+{
+  "word": "diminutive",
+  "pos": "adj. / n.",
+  "pron": "dih-MIN-yuh-tiv",
+  "pron_note": null,
+  "means": "**Adjective:** extremely small; undersized.\n**Noun:** a word-form that signals smallness or affection — *piglet, kitchenette, Charlie, Annie*.\n\n*Tiny* is a plain measurement; **diminutive** is a formal, slightly appraising word, and it attaches to **people** far more often than to objects — a diminutive fighter, a diminutive grandmother. It carries a faint note of *this is smaller than you'd expect*, which is why it can read as charmed (\"her diminutive frame\") or as quietly patronising, depending on who's speaking. Note the shape: this is smallness of **stature**, not of importance — for that you'd want *trivial* or *negligible*.",
+  "trap": null,
+  "trick_line": "**dimin*utive*** hides **minute** — and *minute* (**my-NEWT**) means tiny.",
+  "trick_unpack": "The middle of the word is the answer, and the front half (*dimin-*) is *diminish*, so the word literally reads \"made smaller, to a minute size.\"",
+  "sentences": [
+    "At barely five feet, the **diminutive** conductor still commanded ninety players without raising her voice.",
+    "He drives this **diminutive** little hatchback that looks like it should come with batteries."
+  ],
+  "in_the_wild": "Every **-ie / -y nickname** is a diminutive in the grammatical sense: *Charlie, Annie, Katie, doggy*. English shrinks a word to make it small *and* fond — which is exactly the flavour the adjective carries too.",
+  "etymology": "Latin **minuere** = *\"to lessen\"* (from **minus**, \"less\"). One root, a whole GRE shelf: **diminish**, **diminution**, **minute** (tiny), **minimum**, **minor**, **minuscule**, and **minister** — originally the *lesser* one, the servant.",
+  "one_line": "Very small in stature; also a smallness-signalling word form.",
+  "root": "minuere (to lessen), from minus (less)",
+  "root_family": [
+    "diminish",
+    "diminution",
+    "minute",
+    "minimum",
+    "minor",
+    "minuscule",
+    "minister",
+    "mince"
+  ],
+  "confusables": [
+    "diminish",
+    "diminution",
+    "minuscule",
+    "minute"
+  ],
+  "sense_tags": [
+    "small",
+    "undersized",
+    "stature",
+    "tiny",
+    "grammar"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    5
+  ]
+}

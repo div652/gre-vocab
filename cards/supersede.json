@@ -1,0 +1,48 @@
+{
+  "word": "supersede",
+  "pos": "v.",
+  "pron": "soo-per-SEED",
+  "pron_note": null,
+  "means": "To **take the place of** something older, weaker, or out of date — and in doing so, to **cancel its authority**. The superseded thing isn't just less popular now; it no longer counts.\n\nTone is procedural and bureaucratic: rules, editions, models, treaties, software versions. Compare **supplant**, which carries scheming or force — you supplant a rival, you *oust* him. Nobody is elbowed aside in a supersede; the new thing simply arrives with better standing, and the old one quietly becomes waste paper.",
+  "trap": null,
+  "trick_line": "**Super + sede = *sit above*** — the new rule takes the old one's seat.",
+  "trick_unpack": "Once something sits in that seat, the previous occupant isn't merely demoted — it's void.",
+  "sentences": [
+    "The 1958 constitution **superseded** every ordinance passed under the provisional government.",
+    "Don't print that form — it's been **superseded**, there's a new one on the intranet."
+  ],
+  "in_the_wild": "Office and engineering life runs on it: the red **SUPERSEDED** stamp across an obsolete drawing, and the standard opening line of any policy memo — *\"This document supersedes all previous versions.\"*",
+  "etymology": "Latin **super** (*above*) + **sedēre** (*to sit*) — literally *to sit on top of*. That *sedēre* root is a GRE workhorse: **sedentary** (sitting), **sediment** (settling), **preside**, **reside**, **session**, **subsidy**, **assiduous** (sitting doggedly at it), **dissident** (sitting apart).\n\n🚫 **Note the spelling: -sede, not -cede.** *Precede, concede, recede* come from *cedere*, \"to go, to yield\" — different root. **Supersede** is the only English word ending in **-sede**; \"supercede\" is simply wrong.",
+  "one_line": "Replace something older, cancelling its authority.",
+  "root": "sedere (to sit)",
+  "root_family": [
+    "sedentary",
+    "sediment",
+    "sedate",
+    "preside",
+    "reside",
+    "session",
+    "subsidy",
+    "assiduous",
+    "dissident",
+    "insidious"
+  ],
+  "confusables": [
+    "supplant",
+    "supercede",
+    "precede",
+    "supervene"
+  ],
+  "sense_tags": [
+    "replace",
+    "obsolete",
+    "override",
+    "annul",
+    "displace"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    10
+  ]
+}

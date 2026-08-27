@@ -1,0 +1,43 @@
+{
+  "word": "placate",
+  "pos": "v.",
+  "pron": "PLAY-kayt",
+  "pron_note": "British speakers usually say pluh-KAYT, stressing the second syllable.",
+  "means": "To calm someone's anger or hostility, usually by giving them something — a concession, an apology, a token gesture.\n\nThe anger has to be there first. You can't placate a happy person; the word presupposes a grievance you are damping down. And it often carries a faint whiff of insincerity: the goal is to *stop the complaining*, not necessarily to fix what caused it. Companies placate angry customers with vouchers; governments placate critics with committees. Where **soothe** is warm and **pacify** can mean force, **placate** is transactional — you hand over something to buy quiet.",
+  "trap": null,
+  "trick_line": "**Placate** rhymes with **irate** — you only placate the irate.",
+  "trick_unpack": "The rhyme locks in the precondition: there must already be anger on the table, and you're paying something to make it go away.",
+  "sentences": [
+    "The minister offered a public inquiry, less to uncover the truth than to **placate** a press corps that had scented blood.",
+    "I brought her a coffee to **placate** her after I lost the keys again."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **placāre** = *\"to soothe, to calm,\"* a cousin of **placēre**, *\"to please.\"*\n\nThat root is worth memorising because it pays out across the exam: **placid** (calm), **complacent** (pleased with yourself), **implacable** (*not* able to be placated — an enemy no concession will soften), and **placebo**, which is literally Latin for *\"I shall please.\"*",
+  "one_line": "Calm someone's anger, usually by giving them something.",
+  "root": "placāre (to soothe), from placēre (to please)",
+  "root_family": [
+    "placid",
+    "implacable",
+    "complacent",
+    "placebo",
+    "complaisant"
+  ],
+  "confusables": [
+    "placid",
+    "placard",
+    "implacable",
+    "placebo"
+  ],
+  "sense_tags": [
+    "appeasing",
+    "soothing",
+    "conciliation",
+    "anger-management",
+    "concession"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    1
+  ]
+}

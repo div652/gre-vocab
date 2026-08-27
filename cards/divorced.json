@@ -1,0 +1,41 @@
+{
+  "word": "divorced",
+  "pos": "adj. (past part. of v. divorce)",
+  "pron": "dih-VORST",
+  "pron_note": "Two syllables, not three — the ending is a clean \"-st\", never \"di-VOR-sed\".",
+  "means": "Beyond the marriage sense: **completely separated or disconnected from** something — used of ideas, policies, people, institutions.\n\nThe GRE sense is a quiet accusation. Saying a theory is **divorced from** the evidence doesn't just report a gap; it implies the two *belonged together* and something has come unglued. That's the force the word carries that *unrelated* or *separate* don't — a marriage was supposed to be there. It's also near-permanently attached to **from**: things aren't just divorced, they're divorced *from* something.",
+  "trap": null,
+  "trick_line": "**Divorced always takes a *from* — and whatever follows *from* is what it should have stayed married to.**",
+  "trick_unpack": "\"Divorced from reality\" only stings because reality is the partner it walked out on.",
+  "sentences": [
+    "The commission's projections were so **divorced** from local conditions that the villagers laughed them out of the hall.",
+    "His whole budget is **divorced** from what stuff actually costs — has he been to a supermarket this decade?"
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **divertere** = *\"to turn apart\"* — **di-** (apart) + **vertere** (to turn). A divorce is literally two people turning away from each other.\n\n*Vertere* is a GRE workhorse: **divert, avert, revert, convert, subvert, adverse, versatile, vertigo** — every one of them is something turning.",
+  "one_line": "Completely cut off from something it ought to connect to.",
+  "root": "vertere (to turn) + di- (apart)",
+  "root_family": [
+    "divert",
+    "avert",
+    "revert",
+    "convert",
+    "subvert",
+    "adverse",
+    "versatile",
+    "vertigo",
+    "diverse"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "separated",
+    "disconnected",
+    "detached",
+    "out-of-touch"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    14
+  ]
+}

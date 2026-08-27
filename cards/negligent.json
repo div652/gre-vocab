@@ -1,0 +1,47 @@
+{
+  "word": "negligent",
+  "pos": "adj.",
+  "pron": "NEG-li-juhnt",
+  "pron_note": null,
+  "means": "Failing to give something the care it required — **and being at fault for it.**\n\n*Careless* describes a temperament; **negligent** delivers a judgement. The word presupposes a **duty owed** — a parent, a driver, a surgeon, a landlord — and says you fell below the standard that duty demanded. That's why it lives so naturally in courtrooms and disciplinary hearings: calling someone careless is a complaint, calling them negligent is an accusation of blame. It also implies *omission* rather than action: the negligent party didn't do something wrong so much as fail to do the right thing.",
+  "trap": "⚠️ **negligent ≠ negligible.**\n- **negligent** = *culpably careless*\n- **negligible** = *so small it can be ignored*\n\nA negligent engineer; a negligible difference. The shared root is real — both are things *not picked up* — but one blames a person, the other dismisses a quantity.",
+  "trick_line": "**Careless** is a habit; **negligent** is a verdict — you can only be negligent about something you were *supposed* to be doing.",
+  "trick_unpack": "Test it by asking \"who was owed the care?\" — if there's an answer, the word is *negligent*.",
+  "sentences": [
+    "The inquiry found the shipping line **negligent** in its maintenance of the hull, and liability followed within the hour.",
+    "I was **negligent** with the houseplants for about ten days and now I own six sticks."
+  ],
+  "in_the_wild": "Every insurance policy, rental agreement and terms-of-service you've ever clicked through contains a **gross negligence** clause — the carve-out saying the company still pays if it was *really* their fault.",
+  "etymology": "Latin **neglegere** = *nec* (\"not\") + *legere* (\"to pick up, gather, read\") — literally **to not pick something up**. What was lying there needing attention, you walked past.\n\n*legere* is a workhorse root: **legible**, **lecture**, **elect**, **select**, **collect**, **intelligent** (picking *between* things).\n\nBest of all, its exact opposite comes from the same place: **diligent** — the one who picks things up carefully.",
+  "one_line": "Carelessly failing a duty you owed — blameworthy, not merely sloppy.",
+  "root": "legere (to pick up, gather, read)",
+  "root_family": [
+    "diligent",
+    "negligible",
+    "neglect",
+    "legible",
+    "lecture",
+    "elect",
+    "select",
+    "collect",
+    "intelligent"
+  ],
+  "confusables": [
+    "negligible",
+    "neglectful",
+    "negligee",
+    "diligent"
+  ],
+  "sense_tags": [
+    "careless",
+    "dereliction",
+    "blameworthy",
+    "inattentive",
+    "duty"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    1
+  ]
+}

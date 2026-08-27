@@ -1,0 +1,43 @@
+{
+  "word": "surreptitious",
+  "pos": "adj.",
+  "pron": "sur-uhp-TISH-uhs",
+  "pron_note": "The spelling shows \"rept\", but nobody says sur-REP-tish-us — the stress lands on TISH.",
+  "means": "Done **in secret and by stealth**, specifically because open doing would be forbidden, punished, or embarrassing.\n\nScale is what separates it from its neighbours. **Covert** and **clandestine** are big secrecy — operations, cells, affairs, things planned to stay hidden. **Surreptitious** is small and quick: the glance at your phone under the table, the extra file copied to a USB stick, the bite taken from someone else's plate. It also carries a whiff of guilt that *discreet* doesn't — being discreet is tactful, being surreptitious means you'd have been stopped if anyone had looked up.",
+  "trap": "⚠️ **surreptitious ≠ serendipitous.** Similar length, similar *-itous* ending, opposite spirit: *surreptitious* is deliberately sneaky, *serendipitous* is a lucky accident.",
+  "trick_line": "Sur-**REPT**-itious hides a **reptile** — it moves without a sound, and you only notice afterwards.",
+  "trick_unpack": "The word is about the small silent slither, not the grand conspiracy — the thing that gets away with it while you're looking elsewhere.",
+  "sentences": [
+    "The clerk had for years made **surreptitious** alterations to the ledger, each too small to notice and too regular to be accident.",
+    "He took a **surreptitious** look at the answers while the invigilator was turned around."
+  ],
+  "in_the_wild": "**\"Surreptitious recording\"** is the fixed legal phrase for taping a conversation without telling the other person — the exact thing wiretap and one-party-consent laws are written about.",
+  "etymology": "Latin **sub-** (\"under\") + **rapere** (\"to seize, snatch\") → *surripere*, \"to snatch from underneath.\"\n\n**rapere** is a workhorse root: **rapid** (snatched away fast), **rapture** (seized by emotion), **rapacious** (grabbing greedily), **ravish**, and **usurp** (*usu* + *rapere* — to seize by use).",
+  "one_line": "Secret and sneaky, because open doing would be stopped.",
+  "root": "rapere (to seize, snatch) + sub- (under)",
+  "root_family": [
+    "rapid",
+    "rapture",
+    "rapacious",
+    "ravish",
+    "usurp",
+    "rapt"
+  ],
+  "confusables": [
+    "serendipitous",
+    "superstitious",
+    "subreption"
+  ],
+  "sense_tags": [
+    "secretive",
+    "stealthy",
+    "furtive",
+    "sneaky",
+    "concealment"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    14
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "prosaic",
+  "pos": "adj.",
+  "pron": "proh-ZAY-ik",
+  "pron_note": null,
+  "means": "**Dull, flat, unimaginative** — lacking poetry, colour, or wonder. Literally: *written in prose rather than verse*.\n\nThe charge is against imagination, not competence. A **prosaic** report can be accurate, well-organised and entirely correct, and still be lifeless. Where *banal* means worn out by repetition and *mundane* means of the everyday world, **prosaic** points at the flatness itself — of the writing, or of the explanation. Its most common move is deflation: the thrilling theory collapses and the prosaic truth stands there, which is that someone forgot to plug it in.",
+  "trap": null,
+  "trick_line": "**PROSE** is sitting right inside it — and prose is exactly what poetry is not.",
+  "trick_unpack": "Prosaic writing reads like a shipping manifest: nothing wrong with it, all the poetry drained out.",
+  "sentences": [
+    "His verse never rises above the **prosaic**: correct metre, sound grammar, and not one line you would carry home.",
+    "Everyone assumed sabotage, but the reason was **prosaic** — the cleaner had unplugged the server to charge her phone."
+  ],
+  "in_the_wild": "A newsroom staple: **\"the truth is rather more prosaic.\"** Whenever a headline promises a mystery and the article ends by explaining it away, that's the sentence doing the work.",
+  "etymology": "Latin **prosa ōrātiō** = *\"straightforward speech\"*, from **prorsus**, *\"straight ahead\"* (**pro-** + **versus**, \"turned forward\").\n\nThe contrast is physical: **verse** *turns* at the end of every line — like a plough turning at the end of a furrow — while prose just runs straight on. That **versus** root also gives you *verse, version, reverse, diverse, converse, versatile*.",
+  "one_line": "Dull and unimaginative; flat as prose, not poetry.",
+  "root": "prosa / prorsus (straightforward speech), from pro + versus (turned forward)",
+  "root_family": [
+    "verse",
+    "version",
+    "reverse",
+    "diverse",
+    "converse",
+    "versatile",
+    "vertigo"
+  ],
+  "confusables": [
+    "mosaic",
+    "prosody",
+    "prosy"
+  ],
+  "sense_tags": [
+    "dull",
+    "unimaginative",
+    "ordinary",
+    "matter-of-fact",
+    "unpoetic"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

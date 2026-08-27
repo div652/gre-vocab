@@ -1,0 +1,44 @@
+{
+  "word": "metaphorical",
+  "pos": "adj.",
+  "pron": "met-uh-FOR-i-kuhl",
+  "pron_note": "The stress shifts from the noun: MET-uh-for → met-uh-FOR-i-kuhl.",
+  "means": "Not literal — describing one thing **as if** it were another, so the truth lands in the image rather than in the facts. \"Drowning in paperwork\" is metaphorical; nobody is wet.\n\n*Figurative* is the umbrella (it covers simile, hyperbole, irony); *metaphorical* is the specific move of calling A a B outright. And in everyday speech the word usually arrives as a correction or a hedge — \"I meant it metaphorically\" is what you say when someone has taken you at face value and you need the meaning back without the claim.",
+  "trap": "⚠️ **metaphorical ≠ metaphysical.**\n- **metaphorical** = *figurative*, said by way of image\n- **metaphysical** = concerning ultimate reality — being, causation, existence\n\nA metaphorical death is a career ending. A metaphysical question is whether death ends you.",
+  "trick_line": "\"**Metaphorically speaking**\" = *keep the truth, drop the literal*.",
+  "trick_unpack": "The phrase people actually say it in tells you the job it does — it withdraws the factual claim while insisting the point still stands.",
+  "sentences": [
+    "The judge dismissed the analogy as **metaphorical** at best, noting that a contract is not, in law, a promise between friends.",
+    "Relax — when I said I'd kill him, that was **metaphorical**."
+  ],
+  "in_the_wild": null,
+  "etymology": "Greek **meta-** (*across*) + **pherein** (*to carry*) — a metaphor **carries meaning across** from one thing to another. It's the exact Greek twin of Latin *trans-* + *ferre* = **transfer**.\n\n*pherein* also gives **periphery** (carried around), **euphoria** (carrying well), **phosphorus** (light-bearer) — and **Christopher**, the \"Christ-bearer\" who in legend carried the child across the river.",
+  "one_line": "Figurative, not literal — true in image rather than in fact.",
+  "root": "pherein (to carry) + meta- (across)",
+  "root_family": [
+    "metaphor",
+    "periphery",
+    "euphoria",
+    "phosphorus",
+    "pheromone",
+    "amphora",
+    "Christopher",
+    "transfer"
+  ],
+  "confusables": [
+    "metaphysical",
+    "figurative",
+    "allegorical"
+  ],
+  "sense_tags": [
+    "figurative",
+    "symbolic",
+    "non-literal",
+    "comparison"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    13
+  ]
+}

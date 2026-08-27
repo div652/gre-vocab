@@ -1,0 +1,46 @@
+{
+  "word": "benign",
+  "pos": "adj.",
+  "pron": "bih-NINE",
+  "pron_note": "The g is silent — never \"ben-ig-n\". It comes back in benignant and malignant.",
+  "means": "Gentle and kindly in manner; harmless in effect; **medically, not cancerous**; of weather or conditions, mild and favourable.\n\nMost of its force is **negative** — it says what *isn't* there. A benign tumour isn't a healthy one, just one that won't kill you; a benign smile is pleasant but tells you nothing. Compare **benevolent**, which is active goodwill (someone *doing* good), and **benign**, which is mostly the absence of threat. That's why GRE passages use it for things that look dangerous and turn out not to be: a benign policy, a benign amendment, benign neglect.",
+  "trap": "⚠️ **benign ≠ benighted.** *Benighted* (bih-NYE-tid) means **ignorant, unenlightened** — from *night*, morally in the dark. Nothing to do with kindness: a benighted era is a backward one.",
+  "trick_line": "**benign rhymes with *fine* — and \"it's fine\" is exactly how much reassurance it gives.**",
+  "trick_unpack": "Fine isn't good, it's just not bad — which is the whole register of the word.",
+  "sentences": [
+    "The tribunal dismissed the clause as **benign**, a formality with no power to compel anyone.",
+    "The dog looks terrifying but he's completely **benign** — he'll just drool on you."
+  ],
+  "in_the_wild": "The word you wait for after a biopsy. **\"The results came back benign\"** is the good-news line in every hospital scene — and note what it actually promises: not cured, just not cancer.",
+  "etymology": "Latin **bene** = *\"well\"* (+ *gignere*, \"to be born\" — literally *well-born*, hence well-natured).\n\n**bene** is one of the best roots on the GRE: **benefit, benefactor, benevolent, benediction, beneficiary**. Its twin is **male-** = *badly*: **malign, malevolent, malediction, malefactor**. Learn the pair and you get twenty words — *benign* and *malign* are exact opposites, built the same way.",
+  "one_line": "Harmless or kindly; in medicine, not cancerous.",
+  "root": "bene (well) + gignere (to be born)",
+  "root_family": [
+    "benevolent",
+    "benefactor",
+    "benediction",
+    "beneficiary",
+    "benefit",
+    "malign",
+    "malevolent",
+    "malediction"
+  ],
+  "confusables": [
+    "benighted",
+    "benignant",
+    "malign",
+    "benevolent"
+  ],
+  "sense_tags": [
+    "harmless",
+    "kindly",
+    "mild",
+    "non-threatening",
+    "medical"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    2
+  ]
+}

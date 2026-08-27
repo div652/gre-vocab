@@ -1,0 +1,38 @@
+{
+  "word": "hodgepodge",
+  "pos": "n.",
+  "pron": "HOJ-poj",
+  "pron_note": "British spelling and pronunciation: hotchpotch, HOCH-poch.",
+  "means": "A **confused jumble of unrelated things** thrown together — objects, rules, styles, ingredients.\n\nThe word carries a verdict, not just a description. A **medley** is pleasing, a **mosaic** is artful, an **amalgam** is neutral and technical; a *hodgepodge* is the one where you can tell **nobody planned it**. It's informal and lightly contemptuous — you use it when the mixture is incoherent rather than rich. Calling a policy a hodgepodge says it grew by accident and should be rewritten from scratch.",
+  "trap": null,
+  "trick_line": "**Hodge** means nothing. **Podge** means nothing. Two junk syllables shoved together — exactly like the thing they name.",
+  "trick_unpack": "The word's own shape is the definition: random parts stuck together with no design.",
+  "sentences": [
+    "The building's façade is a **hodgepodge** of Gothic arches, Victorian brick, and a glass extension nobody has forgiven.",
+    "My fridge is a **hodgepodge** right now — half a lime, four sauces, and something in foil."
+  ],
+  "in_the_wild": "It's the standard word in American news writing for bad regulation: *\"a **hodgepodge** of state laws\"* — fifty rules that don't agree, made by fifty people who never spoke.",
+  "etymology": "Old French **hochepot** — *hocher* (\"to shake\") + *pot*: a stew you shake the pot to mix. English turned it into the rhyming *hotchpotch*, then softened it to *hodgepodge*. The meal is still in the meaning — everything in one pot, nothing distinguishable.",
+  "one_line": "A jumbled mix of unrelated bits, with no plan behind it.",
+  "root": "hochepot (Old French: hocher \"to shake\" + pot)",
+  "root_family": [
+    "hotchpotch",
+    "hotchpot"
+  ],
+  "confusables": [
+    "hotchpotch",
+    "hotchpot",
+    "hopscotch"
+  ],
+  "sense_tags": [
+    "mixture",
+    "disorder",
+    "jumble",
+    "incoherence"
+  ],
+  "register": "informal",
+  "connotation": "negative",
+  "groups": [
+    9
+  ]
+}

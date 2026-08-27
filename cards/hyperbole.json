@@ -1,0 +1,44 @@
+{
+  "word": "hyperbole",
+  "pos": "n.",
+  "pron": "hye-PER-buh-lee",
+  "pron_note": "Four syllables, never \"HYE-per-bohl\" — it ends \"-ee\", like catastrophe, epitome and Penelope.",
+  "means": "Deliberate, extravagant **exaggeration** used for effect and **not meant to be taken literally** — \"I've told you a million times,\" \"this bag weighs a ton.\"\n\nBecause the excess is out in the open, hyperbole isn't deception: nobody is supposed to believe it, so it sits closer to rhetoric than to lying. The word is faintly critical when you apply it to someone else's claim (\"that's hyperbole\") — you're saying they've overstated their case, not that they're dishonest. In literary or rhetorical talk it's fully neutral, just the name of a device.",
+  "trap": "⚠️ **hyperbole ≠ hyperbola.** *Hyperbole* is the exaggeration; a *hyperbola* is the open curve from geometry. Same Greek root, different subjects — and note **hyperbolic** does double duty for both.",
+  "trick_line": "**Hyper**bole is **hyper** — thrown so far over the top that no one is meant to believe it.",
+  "trick_unpack": "The visible excess is the point, which is why hyperbole counts as style rather than dishonesty.",
+  "sentences": [
+    "The senator's warning of \"the end of civilisation itself\" was **hyperbole**, and every reporter in the room knew it.",
+    "Calling a delayed train \"the worst day of my life\" is peak **hyperbole**, mate."
+  ],
+  "in_the_wild": "Bruno Mars, \"Grenade\" — *\"I'd catch a grenade for ya\"* — a whole chart-topping song built out of hyperbole.",
+  "etymology": "Greek **hyper** (*over*) + **ballein** (*to throw*) = \"to throw beyond.\" Overshoot the mark.\n\n**ballein** is a quietly huge GRE root: **ballistic** (thrown), **symbol** (thrown together), **parable** and **parabola** (thrown alongside), **problem** (thrown in front of you), **emblem**, **metabolism**.",
+  "one_line": "Deliberate over-the-top exaggeration, not meant literally.",
+  "root": "hyper (over) + ballein (to throw)",
+  "root_family": [
+    "ballistic",
+    "symbol",
+    "parable",
+    "parabola",
+    "problem",
+    "emblem",
+    "metabolism",
+    "hyperbolic"
+  ],
+  "confusables": [
+    "hyperbola",
+    "hyperbolic",
+    "hyperbaric"
+  ],
+  "sense_tags": [
+    "exaggeration",
+    "rhetoric",
+    "overstatement",
+    "figure-of-speech"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    7
+  ]
+}

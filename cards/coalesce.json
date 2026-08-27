@@ -1,0 +1,43 @@
+{
+  "word": "coalesce",
+  "pos": "v.",
+  "pron": "koh-uh-LES",
+  "pron_note": "Three syllables — not \"COAL-ess\". The \"coal\" is co- + al-.",
+  "means": "To come together and **merge into one whole** — droplets, factions, ideas, a plan.\n\nThe key is that the parts stop being separate. A crowd *gathers* and stays a crowd of individuals; things that **coalesce** fuse, and you can no longer pick out what went in. It's also gradual and usually unforced — nobody coalesces things, they coalesce. That's why it fits mercury beads, rival factions, and half-formed thoughts equally well, and why \"the committee coalesced the reports\" sounds wrong: use *merged* or *combined* when there's an agent doing the joining.",
+  "trap": "⚠️ **coalesce ≠ convalesce.**\n- **coalesce** = separate things *grow together*\n- **convalesce** = a sick person *gets better* (recuperate)\n\nFactions coalesce; patients convalesce.",
+  "trick_line": "**-esce = gradually becoming**: adol*esce*nt, conval*esce*, coal*esce*. Never a snap — always a process.",
+  "trick_unpack": "That Latin *-esc-* ending marks a slow becoming, which is exactly the nuance: coalescing is drift and fusion over time, not an instant merger.",
+  "sentences": [
+    "Over three decades the scattered guilds **coalesced** into a single national union.",
+    "Give me a day — the idea's still bits and pieces, it hasn't **coalesced** yet."
+  ],
+  "in_the_wild": "Election-night newsreading: when a primary field thins, commentators say the party is **coalescing around** a frontrunner — the rivals' support pooling into one bloc.",
+  "etymology": "Latin **com-** (\"together\") + **alescere** (\"to grow up\"), from **alere**, *\"to nourish.\"*\n\nSame root: **coalition** (groups grown together), **adolescent** (still growing up), **alimony** (money to nourish), **aliment**. Coalition is the giveaway — a coalition is literally what coalescing produces.",
+  "one_line": "To merge gradually into a single unified whole.",
+  "root": "alere, alescere (to nourish, to grow up)",
+  "root_family": [
+    "coalition",
+    "adolescent",
+    "alimony",
+    "aliment",
+    "alumnus"
+  ],
+  "confusables": [
+    "convalesce",
+    "coalition",
+    "acquiesce",
+    "collapse"
+  ],
+  "sense_tags": [
+    "merging",
+    "unifying",
+    "fusion",
+    "gradual-process",
+    "combining"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    3
+  ]
+}

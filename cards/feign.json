@@ -1,0 +1,41 @@
+{
+  "word": "feign",
+  "pos": "v.",
+  "pron": "FAYN",
+  "pron_note": "The g is silent — one syllable, rhyming with rain.",
+  "means": "To **put on a false appearance** of something — a feeling, a reaction, an illness, a state of mind you don't actually have.\n\nLying is done with words; feigning is done with **behaviour**. You don't feign a fact, you feign a *condition*: feign surprise, feign ignorance, feign indifference, feign sleep. That's why it carries a faint whiff of the stage — it implies a performance mounted for an audience, and it quietly assumes the pretender is composed enough to pull it off. Cooler and more literary than *fake it*; more deliberate than *pretend*, which children also do innocently.",
+  "trap": "⚠️ **feign ≠ feint.**\n- **feign** = *pretend to feel or have* something (feign a limp)\n- **feint** = *a deceptive move* meant to draw the opponent the wrong way (a boxer's feint to the body)\n\nBoth are deception; only *feint* is a manoeuvre.",
+  "trick_line": "**Feign a pain** — you can't *say* a headache, you have to *act* it.",
+  "trick_unpack": "The rhyme fixes the sound (silent g, FAYN) and the sense: feigning is a symptom performed, not a statement made.",
+  "sentences": [
+    "Summoned before the committee, he **feigned** a bewildered ignorance of the accounts he had himself prepared.",
+    "She **feigned** a coughing fit so she could duck out of the meeting early."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **fingere** = *\"to mould, to shape\"* — as a potter shapes clay — and from there, *to invent*. A feigned emotion is one you moulded yourself.\n\nSame root: **fiction**, **fictitious**, **figment**, **effigy** — all things shaped rather than found.",
+  "one_line": "To fake a feeling, illness, or reaction you don't have.",
+  "root": "fingere, fictum (to shape, mould, invent)",
+  "root_family": [
+    "fiction",
+    "fictitious",
+    "figment",
+    "effigy",
+    "feint"
+  ],
+  "confusables": [
+    "feint",
+    "fain",
+    "deign"
+  ],
+  "sense_tags": [
+    "pretending",
+    "deception",
+    "insincerity",
+    "simulation"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    10
+  ]
+}

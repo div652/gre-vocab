@@ -1,0 +1,41 @@
+{
+  "word": "arcane",
+  "pos": "adj.",
+  "pron": "ar-KAYN",
+  "pron_note": null,
+  "means": "Known or understood by **very few** — obscure, mysterious, the property of specialists or initiates.\n\nThe word carries a whiff of *restricted access*: arcane material isn't merely hard, it's **walled off**, whether by secrecy (rites, spells) or by sheer impenetrable specialism (the arcane provisions of the tax code). Two flavours, then — solemn and magical, or dry and faintly exasperated. When a journalist calls a rule arcane, they mean *needlessly* obscure, and someone should have simplified it years ago.",
+  "trap": "⚠️ **arcane ≠ archaic.**\n- **arcane** = *hidden* — few people understand it\n- **archaic** = *old* — nobody uses it any more\n\nA medieval spelling is archaic. A working rule nobody can decipher is arcane.",
+  "trick_line": "**Arcane** keeps its secrets in an **ark** — sealed, and only the initiated hold the key.",
+  "trick_unpack": "The point isn't difficulty but *access*: arcane knowledge is shut away, and you're on the outside of the box.",
+  "sentences": [
+    "Behind the tapestry lay a chamber of **arcane** symbols, meaningless to anyone outside the order.",
+    "Getting reimbursed involves some **arcane** three-form process only Priya in accounts actually understands."
+  ],
+  "in_the_wild": "Netflix's **Arcane** (the *League of Legends* series) — the title is doing real work: the plot turns on hextech, a hidden magic only a handful of people can wield or comprehend.",
+  "etymology": "Latin **arca** = *\"chest, strongbox\"* → **arcānus** = *\"shut in a box, secret.\"* Same **arca** gives English **ark** — Noah's, and the Ark of the Covenant, which only priests could approach.\n\nBehind it sits **arcēre**, *\"to shut in, keep away\"* — which also yields **coerce** (*co-* + *arcēre*, shut someone in) and **exercise** (*ex-* + *arcēre*, drive out).",
+  "one_line": "Understood by very few; obscure, secret, specialist",
+  "root": "arca (chest, box) / arcēre (to shut in)",
+  "root_family": [
+    "ark",
+    "arcanum",
+    "coerce",
+    "exercise"
+  ],
+  "confusables": [
+    "archaic",
+    "arcade",
+    "arcadian"
+  ],
+  "sense_tags": [
+    "obscure",
+    "secret",
+    "specialist",
+    "mysterious",
+    "esoteric"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    3
+  ]
+}

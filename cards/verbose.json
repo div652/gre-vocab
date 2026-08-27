@@ -1,0 +1,43 @@
+{
+  "word": "verbose",
+  "pos": "adj.",
+  "pron": "ver-BOHS",
+  "pron_note": null,
+  "means": "Using far more words than the job needs; wordy, padded, bloated.\n\nThe complaint is about the **prose, not the person**. Call someone *garrulous* or *loquacious* and you're describing a chatterbox; call their report *verbose* and you're describing a style problem — the ideas may be fine, but they arrive buried under three clauses of throat-clearing. It's the standard verdict on legal contracts, academic papers and consultants' slide decks, and it's cool and clinical rather than heated: an editor's word, not an insult shouted across a room.\n\nOne exception to the sting: in software, **verbose mode** is a neutral setting — you *want* the extra output.",
+  "trap": null,
+  "trick_line": "**Verb + -ose** — and *-ose* means \"full of\": grandi**ose** (full of grandeur), belli**cose** (full of war), verb**ose** (full of words).",
+  "trick_unpack": "Lock the suffix once and you get a free read on a whole family of GRE adjectives that all mean \"overloaded with the thing named.\"",
+  "sentences": [
+    "The judgment ran to four hundred **verbose** pages, of which perhaps twenty carried the reasoning.",
+    "Just tell me what broke — your emails are so **verbose** I never get to the point.\n"
+  ],
+  "in_the_wild": "Any command line: `curl -v`, `npm install --verbose`. The `-v` flag literally means \"print every last detail\" — the one place being verbose is a feature.",
+  "etymology": "Latin **verbum** = *\"word.\"* The family is huge and all of it is about words: **verb**, **verbal**, **verbatim** (word for word), **proverb**, **adverb**.",
+  "one_line": "Using far more words than the point requires.",
+  "root": "verbum (word)",
+  "root_family": [
+    "verb",
+    "verbal",
+    "verbatim",
+    "proverb",
+    "adverb",
+    "verbiage"
+  ],
+  "confusables": [
+    "verbal",
+    "verbatim",
+    "verbiage"
+  ],
+  "sense_tags": [
+    "wordy",
+    "long-winded",
+    "padded",
+    "prolix",
+    "speech-and-writing"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    3
+  ]
+}

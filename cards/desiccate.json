@@ -1,0 +1,38 @@
+{
+  "word": "desiccate",
+  "pos": "v.",
+  "pron": "DES-i-kayt",
+  "pron_note": null,
+  "means": "To dry out **completely** — to remove every trace of moisture, preserving the thing as a husk.\n\n*Dry* is a state; **desiccate** is a process taken to its limit. You don't desiccate a shirt on a radiator — you desiccate fruit, soil, a corpse. The result is shrivelled and rigid, but it *keeps*.\n\nThe figurative use is where the GRE lives: a **desiccated** prose style, a **desiccated** old don, a **desiccated** marriage — technically intact, emotionally drained of all juice. It's a sneer about lifelessness, not about aridity.",
+  "trap": "⚠️ **desiccate ≠ desecrate** (DES-uh-krayt). *Desiccate* = dry to a husk; *desecrate* = violate something sacred. A drought desiccates a field; a vandal desecrates a grave.",
+  "trick_line": "**Desiccate** doesn't dry something **off** — it dries something **out**.",
+  "trick_unpack": "Towels dry you off; a desiccant packet dries the whole box out until nothing living is left in it.",
+  "sentences": [
+    "Centuries in the sealed tomb had **desiccated** the body until the skin lay on the bone like paper.",
+    "Forty years of committee work had **desiccated** him — all procedure, no pulse."
+  ],
+  "in_the_wild": "Every shoebox, vitamin bottle and beef-jerky bag contains a little sachet marked **DESICCANT — DO NOT EAT**: silica gel, there to desiccate the air inside.",
+  "etymology": "Latin **siccus** = *\"dry\"*, with **de-** as an intensifier: *dry thoroughly*. That intensifying **de-** is why the word means total drying rather than mere dampness removed.",
+  "one_line": "To dry out completely; to drain of all moisture or vitality.",
+  "root": "siccus (dry)",
+  "root_family": [
+    "desiccant",
+    "siccative"
+  ],
+  "confusables": [
+    "desecrate",
+    "dissipate",
+    "dissect"
+  ],
+  "sense_tags": [
+    "drying",
+    "preservation",
+    "lifelessness",
+    "aridity"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    2
+  ]
+}

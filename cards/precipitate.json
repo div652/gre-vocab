@@ -1,0 +1,44 @@
+{
+  "word": "precipitate",
+  "pos": "v. / adj. / n.",
+  "pron": "pri-SIP-i-tayt",
+  "pron_note": "The verb ends **-tayt**; the adjective and noun end in a mumbled **-tuht** (pri-SIP-i-tuht).",
+  "means": "**Verb:** to bring something on **suddenly and ahead of its time** — *precipitated a crisis, precipitated his resignation*. In chemistry, to make a solid drop out of a solution.\n**Adj.:** headlong, rash — acting before thinking. **Noun:** the solid that dropped out.\n\nWhat you precipitate is nearly always bad, and usually not what you intended: the tension was already loaded, and your act merely tipped it over the edge. The word doesn't say you *created* the disaster — it says you *dropped* it early. As an adjective it's a quiet rebuke; precipitate action isn't decisive, it's undercooked.",
+  "trap": "⚠️ **precipitate ≠ precipitous.**\n- **precipitate** = *hasty*, rushed (of an act or a person)\n- **precipitous** = *steep*, sharply falling (of a cliff or a graph)\n\nA **precipitous** decline in sales; a **precipitate** decision to shut the factory.",
+  "trick_line": "**Precipitation** falls out of the sky unasked — to **precipitate** is to make something fall out early.",
+  "trick_unpack": "Same word you hear in every weather forecast: something comes down suddenly, and nobody chose the timing.",
+  "sentences": [
+    "The assassination did not cause the war so much as **precipitate** it, collapsing a decade of alliances into six weeks.",
+    "Don't do anything **precipitate** — sleep on it, then send the email."
+  ],
+  "in_the_wild": "Every forecast's **\"40% chance of precipitation\"** is this exact word — stuff dropping out of the sky on its own schedule, not yours.",
+  "etymology": "Latin **prae-** (*forth*) + **caput, capitis** (*head*) = **thrown head-first off a height**. That's the whole image: the **precipice** is the cliff you go over.\n\nThe *caput* family is worth owning: **capital, captain, decapitate, per capita, chapter** (*little head*, a section heading).",
+  "one_line": "To trigger something suddenly and early; or rashly hasty.",
+  "root": "caput, capitis (head) + prae- (forth, before)",
+  "root_family": [
+    "precipice",
+    "capital",
+    "captain",
+    "decapitate",
+    "per capita",
+    "chapter",
+    "capitulate"
+  ],
+  "confusables": [
+    "precipitous",
+    "precipice",
+    "participate"
+  ],
+  "sense_tags": [
+    "hasty",
+    "sudden",
+    "trigger",
+    "rash",
+    "cause"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    4
+  ]
+}

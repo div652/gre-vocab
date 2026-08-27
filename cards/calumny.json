@@ -1,0 +1,40 @@
+{
+  "word": "calumny",
+  "pos": "n.",
+  "pron": "KAL-uhm-nee",
+  "pron_note": "Adjective form: calumnious (kuh-LUM-nee-uhs) — stress moves.",
+  "means": "A **false statement made deliberately to destroy someone's reputation** — or the practice of making them.\n\n*Slander* is the courtroom word; *calumny* is the moral one. It carries the speaker's disgust with it: you don't call something calumny unless you think the victim is innocent and the accuser is vile. And unlike *rumour* or *gossip*, which can drift into being by accident, calumny is **aimed** — someone chose the lie and chose the target. Formal, faintly biblical, and best deployed when you want the accusation itself to sound shameful.",
+  "trap": "**calumny ≠ calamity.** *Calumny* is a slander; a *calamity* is a disaster. Similar rhythm, unrelated words — a calumny can *cause* a calamity, which is exactly why the exam likes the pair.",
+  "trick_line": "**Calumny** = a poisonous **column** — a lie set in print to ruin a name.",
+  "trick_unpack": "The sound hook holds the nuance: a column is written, published and deliberate, never an accidental slip of gossip.",
+  "sentences": [
+    "The biography rescues her from two centuries of **calumny**, showing that the letters used to condemn her were forged.",
+    "He didn't just disagree with me — he went around the office spreading outright **calumny** about my expenses."
+  ],
+  "in_the_wild": "Hamlet to Ophelia: *\"Be thou as chaste as ice, as pure as snow, thou shalt not escape **calumny**.\"* — i.e. innocence is no defence against a determined liar.",
+  "etymology": "Latin **calumnia** = *\"a false accusation, a trick,\"* from **calvī**, *\"to deceive.\"*\n\nThe surprise: **challenge** is the same word. *Calumnia* → Old French *chalenge*, which originally meant an accusation or false claim, before softening into \"a dare.\" So a challenge and a calumny are etymological twins — one kept the fight, the other kept the lie.",
+  "one_line": "A deliberate lie told to destroy someone's reputation.",
+  "root": "calvī (to deceive) → calumnia (false accusation)",
+  "root_family": [
+    "calumniate",
+    "calumnious",
+    "challenge"
+  ],
+  "confusables": [
+    "calamity",
+    "columny (nonword)",
+    "acrimony"
+  ],
+  "sense_tags": [
+    "slander",
+    "defamation",
+    "false-accusation",
+    "malice",
+    "reputation"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    2
+  ]
+}

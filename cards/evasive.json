@@ -1,0 +1,42 @@
+{
+  "word": "evasive",
+  "pos": "adj.",
+  "pron": "ih-VAY-siv",
+  "pron_note": null,
+  "means": "Avoiding a direct answer or a direct hit — dodging the question, the commitment, or the pursuer.\n\nTwo lives. **Of speech:** deliberately non-committal, and almost always a soft accusation — calling someone evasive implies they have something to hide but stops short of saying they lied. It's the word journalists, lawyers and interviewers reach for because it's damning yet legally safe. **Of movement:** neutral and technical — *evasive action*, *evasive manoeuvres*, what a pilot or a driver does to avoid a collision. No guilt in that sense at all.",
+  "trap": "⚠️ **evasive ≠ elusive.**\n- **evasive** = actively dodging you — *an evasive witness*\n- **elusive** = hard to catch or pin down, no intent required — *an elusive scent, an elusive cure*\n\nAn evasive suspect knows you're asking. An elusive memory isn't hiding on purpose.",
+  "trick_line": "Evasive people **evade**; elusive things **elude** — only one of them knows you're looking.",
+  "trick_unpack": "*Evasive* points at a choice being made, which is why it lands as a quiet accusation, while *elusive* is just a property of the thing itself.",
+  "sentences": [
+    "Pressed three times on what he had known and when, the minister grew **evasive**, retreating into the passive voice.",
+    "Every time I ask what he does for work he gets weirdly **evasive** and changes the subject."
+  ],
+  "in_the_wild": "**\"Evasive manoeuvres\"** — the standing order on the bridge in *Star Trek*, and the same phrase used in real aviation and driving for a hard swerve away from a collision. That's the innocent, physical sense of the word doing its day job.",
+  "etymology": "Latin **vadere** = *\"to go\"*, plus **ex-** = *\"out\"* → *evade*, \"to go out of the way.\"\n\nOne root, a whole GRE family: **evade** (go out of), **invade** (go into), **pervade** (go through — *a smell that pervades the house*). Fix *vadere = go* and all three unlock.",
+  "one_line": "Dodging a direct answer or a direct hit.",
+  "root": "vadere (to go)",
+  "root_family": [
+    "evade",
+    "invade",
+    "pervade",
+    "invasive",
+    "pervasive",
+    "evasion"
+  ],
+  "confusables": [
+    "elusive",
+    "allusive",
+    "illusive"
+  ],
+  "sense_tags": [
+    "avoiding",
+    "non-committal",
+    "concealing",
+    "dodging"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    10
+  ]
+}

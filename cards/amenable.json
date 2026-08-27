@@ -1,0 +1,40 @@
+{
+  "word": "amenable",
+  "pos": "adj.",
+  "pron": "uh-MEE-nuh-buhl",
+  "pron_note": "Also heard as uh-MEN-uh-buhl; both are accepted.",
+  "means": "**1.** Willing to go along with a suggestion; open to persuasion, easy to work with.\n**2.** *(of a thing)* Susceptible to a given treatment or method — **amenable to** analysis, surgery, compromise.\n\nAlmost always followed by **to**. Sense 1 describes low resistance, not enthusiasm: someone amenable doesn't push back, which is a step below *eager* and a step above *grudging*. It says nothing about whether they're warm — a cold, formal colleague can be perfectly amenable. Sense 2 is the workhorse of academic and medical prose, where it's coldly neutral: a problem amenable to modelling is simply one the method can get a grip on.",
+  "trap": "⚠️ **amenable ≠ amiable.** *Amiable* = friendly, likeable by nature (a disposition). *Amenable* = willing to comply, or open to a method (a response). A charming host is amiable; a colleague who accepts your timeline without a fight is amenable — and one can easily be either without being the other.",
+  "trick_line": "**Amen**-able — they say *amen* to your plan.",
+  "trick_unpack": "*Amen* means \"so be it\" — quiet assent rather than applause, which is exactly the temperature of the word.",
+  "sentences": [
+    "The tribunal found the minister **amenable** to reason once the political cost of refusal was made plain.",
+    "Ask him — he's usually **amenable** to swapping shifts if you give him a day's notice."
+  ],
+  "in_the_wild": "Standard in clinical language: a tumour is described as **amenable to resection**, meaning surgery can actually get at it. Same word you'd use for a cooperative patient — one sense about people, one about problems.",
+  "etymology": "Old French **amener** = *\"to lead to\"* (*à* + *mener*, to lead). Amenable is literally **able to be led** — which covers both senses: a person you can lead to your view, a problem you can lead to a solution. Same *mener* gives **demeanour** (how you conduct — lead — yourself) and **promenade** (a leading-forward, a stroll).\n\n🚫 **No connection to *amare*, \"to love.\"** That root gives *amiable, amicable, amorous* — the sound-alikes that cost marks.",
+  "one_line": "Willing to comply; open to a given method or treatment.",
+  "root": "mener / Latin minare (to lead, to drive)",
+  "root_family": [
+    "demeanour",
+    "promenade"
+  ],
+  "confusables": [
+    "amiable",
+    "amicable",
+    "amenity",
+    "malleable"
+  ],
+  "sense_tags": [
+    "compliant",
+    "willing",
+    "persuadable",
+    "susceptible",
+    "cooperative"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    2
+  ]
+}

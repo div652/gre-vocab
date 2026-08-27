@@ -1,0 +1,39 @@
+{
+  "word": "assuage",
+  "pos": "v.",
+  "pron": "uh-SWAYJ",
+  "pron_note": "Two syllables, not three — the -uage is \"swayj\", never \"swahzh\" or \"soo-ahj\".",
+  "means": "To **make a painful feeling less intense** — grief, guilt, fear, anger, hunger, thirst.\n\nThe object is almost always an *emotion*, not a person: you assuage someone's **fears**, but you mollify the angry **man**. And it's partial relief, not a cure — assuaged guilt is quieter guilt, still there. The register is formal and slightly consoling, the language of eulogies, diplomacy and financial press.",
+  "trap": null,
+  "trick_line": "**Assuage** near-rhymes with **a stage** — grief drops down a stage, it doesn't leave the stage.",
+  "trick_unpack": "The word promises reduction, never removal.",
+  "sentences": [
+    "Nothing the priest said could **assuage** her grief; it only made the silence afterwards easier to bear.",
+    "He bought her flowers to **assuage** his guilt about forgetting the anniversary."
+  ],
+  "in_the_wild": "Business-page boilerplate: *\"The central bank moved to **assuage** investor fears.\"* Whenever an institution is doing damage control, this is the verb the headline reaches for — always with *fears*, *concerns*, or *doubts*.",
+  "etymology": "Latin **ad-** (*to*) + **suavis** (*sweet*) — literally **to sweeten** something bitter. That root gives you **suave** (smooth, sweet-mannered) and, via the cousin verb *suadēre* \"to urge sweetly,\" **persuade**, **dissuade** and **suasion**. English **sweet** is the same ancient root.",
+  "one_line": "To ease a painful feeling — lessen it, not remove it.",
+  "root": "suavis (sweet)",
+  "root_family": [
+    "suave",
+    "suavity",
+    "persuade",
+    "dissuade",
+    "suasion",
+    "sweet"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "soothing",
+    "relieving",
+    "easing-pain",
+    "calming",
+    "satisfying-appetite"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    3
+  ]
+}

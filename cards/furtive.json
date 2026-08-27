@@ -1,0 +1,38 @@
+{
+  "word": "furtive",
+  "pos": "adj.",
+  "pron": "FER-tiv",
+  "pron_note": null,
+  "means": "Done quietly and quickly to avoid being noticed — sly, stealthy, hole-and-corner.\n\nThe word almost always carries guilt. *Covert* describes an operation and is neutral; *furtive* describes a **manner**, and the manner betrays the person: the darted glance, the hand sliding into a pocket, the tab closed too fast. A truly secret act is one nobody sees. A furtive act is one you *can* see — you just can't see what's behind it. That's why \"furtive\" in a sentence usually means the sneaking failed.",
+  "trap": null,
+  "trick_line": "**Fur**tive hides a **thief** — Latin *furtum*, \"theft\" — and what gives him away is the glance, not the goods.",
+  "trick_unpack": "Covert means nobody notices; furtive means somebody did, which is why the word always sounds like an accusation.",
+  "sentences": [
+    "Between courses he stole a **furtive** look at his watch, hoping the hostess would not see it.",
+    "Why are you being so **furtive** about the phone? Just show me the message."
+  ],
+  "in_the_wild": "Police stop-and-frisk reports are full of the phrase **\"furtive movements\"** — the officer's standard written justification for a search, and the exact reason civil-liberties lawyers attack it: a nervous glance isn't evidence of anything.",
+  "etymology": "Latin **fur** = *thief*, **furtum** = *theft*. A furtive person moves the way a thief moves.\n\nSame root, unexpectedly: **ferret** — Latin *furittus*, \"little thief,\" for the animal that slinks into burrows. Which is why you **ferret out** a secret.",
+  "one_line": "Sneaky in a way that shows — secretive and visibly guilty.",
+  "root": "fur, furtum (thief, theft)",
+  "root_family": [
+    "ferret",
+    "ferret out"
+  ],
+  "confusables": [
+    "fugitive",
+    "fervid"
+  ],
+  "sense_tags": [
+    "secretive",
+    "stealthy",
+    "sly",
+    "guilty",
+    "evasive"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    10
+  ]
+}

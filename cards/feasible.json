@@ -1,0 +1,45 @@
+{
+  "word": "feasible",
+  "pos": "adj.",
+  "pron": "FEE-zuh-buhl",
+  "pron_note": null,
+  "means": "Capable of being **done** — a plan that can actually be carried out with the time, money, and materials available.\n\nThe word judges *execution*, never merit. A feasible scheme may still be pointless, unethical, or doomed; all *feasible* certifies is that the mechanics work out. It's the vocabulary of engineers, planners, and budget committees — cool, measured, faintly grudging. \"That's feasible\" is not enthusiasm; it's a green light on the arithmetic.",
+  "trap": "⚠️ **feasible ≠ plausible.**\n- **feasible** = it can be *done* (plans, projects, routes)\n- **plausible** = it can be *believed* (excuses, theories, alibis)\n\nA plausible explanation, a feasible plan — swap them and the sentence breaks.",
+  "trick_line": "**Feasible answers \"can we?\" — never \"should we?\"**",
+  "trick_unpack": "A feasibility study asks whether the bridge can be built, not whether anyone wants it there.",
+  "sentences": [
+    "The committee concluded that a tunnel was technically **feasible** but ruinously expensive.",
+    "Sure, we could rewrite the whole thing by Friday — it's **feasible**, just miserable."
+  ],
+  "in_the_wild": "**Feasibility study** — the standard first phase of any construction, software, or startup project. If you've ever sat through a meeting about whether something *can* be built before anyone argues about whether it *should* be, you've met the word in its natural habitat.",
+  "etymology": "Old French **faisable**, \"doable,\" from **faire** ← Latin **facere** = *\"to do, to make.\"*\n\nThat root is a GRE goldmine: **facile** (easily done), **factotum** (does everything), **efficacious** (gets it done), **artifice**, **benefactor**, **deficient**, **feat**.",
+  "one_line": "Able to be done with the means available.",
+  "root": "facere (to do, to make)",
+  "root_family": [
+    "facile",
+    "factotum",
+    "efficacious",
+    "artifice",
+    "benefactor",
+    "deficient",
+    "feat",
+    "affair"
+  ],
+  "confusables": [
+    "plausible",
+    "viable",
+    "practicable",
+    "possible"
+  ],
+  "sense_tags": [
+    "doable",
+    "practical",
+    "achievable",
+    "workable"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    1
+  ]
+}

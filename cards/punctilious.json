@@ -1,0 +1,46 @@
+{
+  "word": "punctilious",
+  "pos": "adj.",
+  "pron": "punk-TIL-ee-uhs",
+  "pron_note": null,
+  "means": "Exact to the smallest detail — especially about **rules, procedure, and correct form**.\n\nA **meticulous** person is careful about the *work*; a **punctilious** one is careful about the *protocol* — the seating plan, the exact wording of the title, the order in which people are greeted. That's why the word tilts faintly fussy: it can praise a diplomat and mock a pedant with the same breath, and the reader usually knows which from the size of the stakes. Observing every point of etiquette at a state funeral is admirable; doing it at a barbecue is not.",
+  "trap": null,
+  "trick_line": "**Punctilious** hides **punctual** — and a punctual person is exact about *one* point, the time; a punctilious person is exact about *every* point.",
+  "trick_unpack": "Both words come from the same Latin \"point,\" so punctilious just extends on-the-dot precision from the clock to every rule of form.",
+  "sentences": [
+    "The ambassador was **punctilious** in matters of precedence, and would not begin the toast until each delegation had been named in its proper order.",
+    "He's so **punctilious** about the group chat rules that he'll correct your spelling before answering your question."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **punctum** = *\"a point\"* (from *pungere*, to prick), via Italian **puntiglio** = *\"a fine point of conduct.\"*\n\nThat root is a workhorse: **punctual** (on the point of time), **punctuate**, **punctuation**, **puncture**, **acupuncture**, **pungent** (a smell that pricks you).",
+  "one_line": "Exact about every small rule of correct form.",
+  "root": "punctum (a point), from pungere (to prick)",
+  "root_family": [
+    "punctual",
+    "punctuate",
+    "punctuation",
+    "puncture",
+    "acupuncture",
+    "pungent",
+    "punctilio"
+  ],
+  "confusables": [
+    "punctual",
+    "meticulous",
+    "fastidious",
+    "scrupulous",
+    "punctilio"
+  ],
+  "sense_tags": [
+    "precise",
+    "etiquette",
+    "exacting",
+    "fussy",
+    "formal-correctness"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    4
+  ]
+}

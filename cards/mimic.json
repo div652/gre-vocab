@@ -1,0 +1,41 @@
+{
+  "word": "mimic",
+  "pos": "v. / n. / adj.",
+  "pron": "MIM-ik",
+  "pron_note": "Verb forms sneak in a k: mimicked, mimicking.",
+  "means": "**Verb:** to copy someone's speech, gestures or appearance closely — usually to amuse or mock. **Noun:** someone good at it. **Adj.:** imitative, fake (*a mimic battle*).\n\nMimicking is **surface copying, and it points at its target**. *Imitate* is neutral and can be sincere; *emulate* is admiring — you copy the excellence, not the mannerisms. A mimic copies the tics: the vowel, the walk, the throat-clearing. That's why it slides so easily into ridicule — reproducing someone exactly is one of the oldest ways of making a room laugh at them.\n\nIt also has a straight technical sense with no mockery at all: in biology, a harmless hoverfly **mimics** a wasp; in engineering, one system **mimics** another's output.",
+  "trap": null,
+  "trick_line": "**mi-mic** — the word copies its own first two letters. So does the mimic.",
+  "trick_unpack": "The doubling is the definition: a mimic reproduces the surface of a thing, exactly and visibly.",
+  "sentences": [
+    "Certain harmless snakes survive by **mimicking** the banded colouring of far deadlier species.",
+    "He **mimicked** the manager's little cough so well that everyone stopped laughing when the manager walked in."
+  ],
+  "in_the_wild": "The mockingbird's scientific name is *Mimus polyglottos* — literally \"many-tongued **mimic**\". Its entire act is stealing other birds' songs.",
+  "etymology": "Greek **mimos** = *\"imitator, actor\"* — a performer who copied people on stage.\n\nOne root, a full family: **mime**, **pantomime**, **mimicry**, **mimetic**, and **mimeograph** (the old duplicating machine — literally a \"copy-writer\").",
+  "one_line": "To copy someone's voice or manner closely, often mockingly.",
+  "root": "mimos (imitator, actor)",
+  "root_family": [
+    "mime",
+    "pantomime",
+    "mimicry",
+    "mimetic",
+    "mimeograph"
+  ],
+  "confusables": [
+    "mime",
+    "mimetic"
+  ],
+  "sense_tags": [
+    "imitating",
+    "copying",
+    "mockery",
+    "impersonation",
+    "camouflage"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    13
+  ]
+}

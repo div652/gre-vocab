@@ -1,0 +1,35 @@
+{
+  "word": "diatribe",
+  "pos": "n.",
+  "pron": "DEYE-uh-treyeb",
+  "pron_note": "Three syllables, never \"dye-uh-TRIB.\"",
+  "means": "A **long, bitter, abusive attack in words** — spoken or written — against a person, group, or idea.\n\nTwo things define it: **length** and **venom**. A sharp insult isn't a diatribe; a diatribe goes on, and on, past the point where anyone is still persuaded. The word is almost always used *against* the speaker — calling something a diatribe concedes that it was forceful but denies that it was reasoned. A critic delivers a *critique*; a critic who has lost the room delivers a *diatribe*.",
+  "trap": null,
+  "trick_line": "**Die-a-tribe** — it drags on so long the whole tribe would rather die than hear the end.",
+  "trick_unpack": "The sound hook stores the two things that matter: it's an attack, and it's punishingly long.",
+  "sentences": [
+    "His resignation letter began as a courtesy and ended as a six-page **diatribe** against the board.",
+    "Ask him about parking and you'll get a twenty-minute **diatribe** about the council."
+  ],
+  "in_the_wild": "Standard press shorthand: a politician \"launched into a **diatribe** against the media.\" The verb *launch into* is the collocation to memorise — it's how the word almost always arrives.",
+  "etymology": "Greek **dia-** (*through*) + **tribein** (*to rub, wear away*) — a discourse that **rubbed away the hours**. In Greek it meant a learned lecture; English kept the length and dropped the learning.\n\nSame *tribein* gives **tribology**, the science of friction and wear.",
+  "one_line": "A long, bitter, abusive rant against someone or something.",
+  "root": "tribein (to rub, wear away)",
+  "root_family": [
+    "tribology",
+    "diatribe"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "verbal attack",
+    "rant",
+    "denunciation",
+    "invective",
+    "criticism"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    2
+  ]
+}

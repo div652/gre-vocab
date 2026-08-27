@@ -1,0 +1,43 @@
+{
+  "word": "immutable",
+  "pos": "adj.",
+  "pron": "ih-MYOO-tuh-buhl",
+  "pron_note": null,
+  "means": "Unchangeable — not just *unchanged*, but **incapable of being changed**, by anyone, ever.\n\nThat's the whole force of the word. \"Unchanging\" describes what has happened so far; **immutable** describes what *cannot* happen. It carries a note of law, physics, or scripture — the laws of nature, the terms of a contract, God, death, the past. Calling something immutable is a claim about its nature, so it's often used ironically or bitterly about things people wrongly believed were fixed: \"the supposedly immutable rules of the market.\"",
+  "trap": null,
+  "trick_line": "**Immutable = you can't *mutate* it.** The word is sitting right there in the middle.",
+  "trick_unpack": "Strip off *im-* (\"not\") and *-able*, and what's left is **mutate** — so an immutable thing is one no force can mutate.",
+  "sentences": [
+    "The court held that the treaty's borders were **immutable**, no matter which party won the coming election.",
+    "Look, the deadline's **immutable** — I can't move it, my boss can't move it, stop asking."
+  ],
+  "in_the_wild": "Any programmer says this daily: Python strings and Git commits are **immutable** — you never edit one, you only make a new one. Same for blockchain's selling point: an immutable ledger.",
+  "etymology": "Latin **mūtāre** = *\"to change\"* — one of the highest-yield GRE roots. It gives you **mutate**, **mutation**, **mutable** (the plain opposite: changeable, fickle), **permutation** (a rearrangement), **transmute** (change one substance into another — lead into gold), and **commute** (literally *change together* — hence changing a sentence to a lighter one, and changing your location daily).",
+  "one_line": "Unchangeable; fixed by its very nature.",
+  "root": "mūtāre (to change)",
+  "root_family": [
+    "mutate",
+    "mutation",
+    "mutable",
+    "permutation",
+    "transmute",
+    "commute",
+    "mutant"
+  ],
+  "confusables": [
+    "mutable",
+    "inimitable",
+    "immeasurable"
+  ],
+  "sense_tags": [
+    "unchangeable",
+    "fixed",
+    "permanent",
+    "absolute"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    7
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "diffident",
+  "pos": "adj.",
+  "pron": "DIF-i-duhnt",
+  "pron_note": "Stress falls on the first syllable — never *di-FID-ent*.",
+  "means": "Lacking confidence in yourself; hanging back, hesitant to speak up or claim what you could.\n\n*Modest* is a virtue and *shy* is a temperament, but **diffident** points at the cause: a person who doesn't trust their own ability, so they under-claim. The word usually comes from an observer, with a tinge of pity — the diffident candidate had the best answers and gave them apologetically. It's a quiet, well-mannered failure to assert, never rudeness or coldness.",
+  "trap": "**diffident ≠ indifferent.**\n- **diffident** = self-doubting, *wants* to matter but won't push\n- **indifferent** = couldn't care less\n\nA diffident student blushes when called on; an indifferent one shrugs.",
+  "trick_line": "**Con**fident = *with* trust. **Dif**fident = trust *away*. Same **fid**, flipped prefix.",
+  "trick_unpack": "Diffident isn't humility, it's confidence with the trust drained out — the ability is there, the belief isn't.",
+  "sentences": [
+    "Brilliant on paper and **diffident** in person, he let a junior colleague present the findings he had spent two years assembling.",
+    "She's not unfriendly, just **diffident** — you have to ask her twice before she'll tell you she wrote the whole thing."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **dis-** (*away*) + **fīdere** (*to trust*) — trust withheld, now withheld from yourself.\n\nThat **fid** root is a GRE goldmine: **confident** (with trust), **fidelity**, **fiduciary** (trusted with money), **infidel**, **perfidy** (treachery), **bona fide** (in good faith) — and **Fido**, the classic dog name, meaning \"I trust.\"\n\n🚫 **Not related to *indifferent***, which is *in- + differre*, \"to make no difference.\"",
+  "one_line": "Shy and self-doubting; hesitant to assert yourself.",
+  "root": "fīdere (to trust)",
+  "root_family": [
+    "confident",
+    "fidelity",
+    "fiduciary",
+    "infidel",
+    "perfidy",
+    "bona fide",
+    "affidavit"
+  ],
+  "confusables": [
+    "indifferent",
+    "dissident",
+    "deferential",
+    "confident"
+  ],
+  "sense_tags": [
+    "shy",
+    "self-doubting",
+    "unassertive",
+    "reticent",
+    "timid"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    3
+  ]
+}

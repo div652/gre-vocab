@@ -1,0 +1,39 @@
+{
+  "word": "documentary",
+  "pos": "adj. / n.",
+  "pron": "dok-yuh-MEN-tuh-ree",
+  "pron_note": null,
+  "means": "**Adj.:** consisting of or based on **written records** — contracts, ledgers, letters, receipts.\n**Noun:** a film built out of real footage and records rather than invented scenes.\n\nThe GRE almost always wants the adjective, and it lives in legal and historical prose: **documentary evidence** is what you can put in a folder, as opposed to *testimonial* evidence, which walks into court and talks. The word carries a quiet claim to reliability — a paper trail can't misremember or change its story. So calling a case \"documentary\" implies it rests on hard record, not on someone's account of events.",
+  "trap": null,
+  "trick_line": "A **documentary** shows you the footage; **documentary evidence** shows you the paperwork — either way, *here's the record, not my opinion*.",
+  "trick_unpack": "The familiar film sense and the exam sense are the same idea: something assembled out of actual documents rather than narrated from memory.",
+  "sentences": [
+    "The prosecution's case was almost entirely **documentary** — bank transfers, signed invoices, and a single incriminating email.",
+    "There's no **documentary** proof he ever worked here; we're going off what two people vaguely remember."
+  ],
+  "in_the_wild": "Lawyers split evidence into three buckets in everyday practice: **documentary** (the paperwork), **testimonial** (the witness), and **physical** (the object). Hear one, you've placed the word.",
+  "etymology": "Latin **docēre** = *\"to teach\"* → a **document** was originally a *lesson* or *proof*.\n\nThat root pays off across the GRE: **docile** (teachable, easily led), **doctrine** (what is taught), **indoctrinate** (to teach until it can't be questioned), **doctor** (originally a teacher), **docent** (museum guide who teaches you the room).",
+  "one_line": "Based on written records; also, a fact-based film.",
+  "root": "docēre (to teach)",
+  "root_family": [
+    "document",
+    "docile",
+    "doctrine",
+    "indoctrinate",
+    "doctor",
+    "docent"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "evidence",
+    "written-record",
+    "factual",
+    "legal-proof",
+    "film"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    13
+  ]
+}

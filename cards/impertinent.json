@@ -1,0 +1,46 @@
+{
+  "word": "impertinent",
+  "pos": "adj.",
+  "pron": "im-PER-tuh-nuhnt",
+  "pron_note": null,
+  "means": "Rude in a specific way: **overstepping your place**. An impertinent remark isn't crude or aggressive — it's presumptuous, a question or comment you had no standing to make.\n\nThe word carries rank with it. It's what a duchess calls a footman, a judge calls a lawyer, a parent calls a teenager — the speaker is claiming the higher position even as they complain. That makes it faintly arch and old-fashioned; used today it's often half-amused (\"an impertinent question, but I'll answer it\"). Compare plain *rude*, which is about manners, and *offensive*, which is about harm. Impertinence is about **boundaries**.\n\nA second, older sense survives in law and formal writing: **not pertinent, irrelevant.**",
+  "trap": "⚠️ **impertinent ≠ impudent.** Both mean cheeky, but *impertinent* is **out of place** — you asked what wasn't yours to ask. *Impudent* is **shameless** — you knew and didn't care. Impudence is bolder and brattier.",
+  "trick_line": "**IMPERTINENT** hides **PERTINENT** — it didn't pertain to you, so you shouldn't have asked.",
+  "trick_unpack": "The rudeness is one of relevance and standing, not of language — an impertinent question can be perfectly politely phrased.",
+  "sentences": [
+    "The witness was warned that further **impertinent** questions about the judge's private life would be struck from the record.",
+    "\"How much do you actually earn?\" — Sorry, that was **impertinent** of me, forget I asked."
+  ],
+  "in_the_wild": "In US federal court, Rule 12(f) lets a party move to strike \"redundant, immaterial, **impertinent**, or scandalous matter\" from a pleading — lawyers use the word every week, and always in the older sense: *irrelevant*.",
+  "etymology": "Latin **in-** (\"not\") + **pertinēre** (\"to reach through to, to belong to\") — literally *not belonging*. From not-belonging came out-of-place, and from out-of-place came out-of-line.\n\n*Pertinēre* is **per-** + **tenēre** (\"to hold\"), and *tenēre* is a GRE workhorse: **tenacious, tenure, tenant, retain, contain, untenable.**",
+  "one_line": "Rude by overstepping — a cheeky, out-of-line question.",
+  "root": "pertinēre (to belong to), from tenēre (to hold)",
+  "root_family": [
+    "pertinent",
+    "pertain",
+    "appertain",
+    "tenacious",
+    "tenure",
+    "tenant",
+    "retain",
+    "untenable"
+  ],
+  "confusables": [
+    "impudent",
+    "pertinent",
+    "impenitent",
+    "important"
+  ],
+  "sense_tags": [
+    "rude",
+    "presumptuous",
+    "disrespectful",
+    "irrelevant",
+    "overstepping"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

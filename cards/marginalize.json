@@ -1,0 +1,39 @@
+{
+  "word": "marginalize",
+  "pos": "v.",
+  "pron": "MAR-juh-nuh-lyze",
+  "pron_note": "British spelling: marginalise.",
+  "means": "To push a person, group, or idea to the **edge** — of a society, a conversation, a decision — so that they remain present but powerless and unheard.\n\nThe violence here is quiet. To **suppress** or **persecute** is to act on someone directly; to marginalize is to *leave them out* — no ban, no confrontation, just a steady demotion to irrelevance. It often has no single villain: institutions, habits and defaults marginalize people without anyone deciding to. That's why the passive — *marginalized* — is the form you meet most.",
+  "trap": null,
+  "trick_line": "**Margin** is sitting inside the word: still on the page, never in the text.",
+  "trick_unpack": "Marginalized people aren't erased — they're relegated to the blank strip at the edge, where nothing important gets printed.",
+  "sentences": [
+    "The reforms, however well intentioned, **marginalized** the very tenants they claimed to protect.",
+    "They didn't fire him — they just **marginalized** him: no meetings, no email chains, a desk by the printer."
+  ],
+  "in_the_wild": "**\"Marginalized communities\"** is now standard vocabulary in news reports, policy documents and HR training — the phrase is so fixed that you'll rarely see the word doing anything else in the wild.",
+  "etymology": null,
+  "one_line": "Push a person or group to the edges, treating them as unimportant.",
+  "root": "margo, marginis (edge, border)",
+  "root_family": [
+    "margin",
+    "marginal",
+    "marginalia",
+    "emarginate"
+  ],
+  "confusables": [
+    "marginal",
+    "marginalia"
+  ],
+  "sense_tags": [
+    "excluding",
+    "sidelining",
+    "powerlessness",
+    "social-status"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

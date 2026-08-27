@@ -1,0 +1,38 @@
+{
+  "word": "provincial",
+  "pos": "adj. / n.",
+  "pron": "pruh-VIN-shuhl",
+  "pron_note": null,
+  "means": "**Literally:** belonging to a province rather than the capital — *provincial government, provincial newspapers*.\n**On the GRE:** narrow in outlook, unsophisticated, limited to the concerns of one small place.\n\nThe insult is aimed at the *mind*, not the postcode. A provincial person may be perfectly clever and well-off; the charge is that their frame of reference stops at the town line, so they mistake local custom for universal truth. Note who is speaking: *provincial* is a word the centre uses about the edge, and it always carries a whiff of the metropolitan sneer — which is why it can make the speaker sound as snobbish as the target sounds narrow. Compare *parochial* (same idea, colder and more institutional) and *rustic* (about manner and setting, not mental horizon).",
+  "trap": "⚠️ **provincial ≠ provisional.**\n- **provincial** = *narrow-minded, from the sticks*\n- **provisional** = *temporary, pending confirmation* (a provisional government, a provisional offer)\n\nFour letters apart, nothing in common.",
+  "trick_line": "**A provincial has seen one province — and thinks it's the world.**",
+  "trick_unpack": "The word hides its own limit: one province is the whole map to them.",
+  "sentences": [
+    "Her novels were dismissed as **provincial** by critics who had never troubled to leave the capital.",
+    "He's not stupid, he's just **provincial** — anything past the county line may as well be the moon."
+  ],
+  "in_the_wild": "In France, everything outside Paris is *la province* — and when a Parisian calls something **provincial**, it is never a compliment. Same word, same sneer, in English.",
+  "etymology": "Latin **provincia** = a territory conquered by Rome and run by a governor — i.e. everywhere that *wasn't* Rome. The condescension is baked in from the start: Rome was where things happened, the provinces were where you got posted.\n\nThat single root gives **province, provincial, provincialism** — all of them measuring distance from the centre.",
+  "one_line": "Narrow-minded and unsophisticated; from outside the capital.",
+  "root": "provincia (conquered territory outside Rome)",
+  "root_family": [
+    "province",
+    "provincialism"
+  ],
+  "confusables": [
+    "provisional",
+    "parochial"
+  ],
+  "sense_tags": [
+    "narrow-minded",
+    "unsophisticated",
+    "insular",
+    "rural",
+    "limited-outlook"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    10
+  ]
+}

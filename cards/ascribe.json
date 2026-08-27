@@ -1,0 +1,51 @@
+{
+  "word": "ascribe",
+  "pos": "v.",
+  "pron": "uh-SKRYBE",
+  "pron_note": null,
+  "means": "To **assign** something — a cause, a quality, an authorship — **to a particular source**. Almost always in the frame *ascribe X to Y*.\n\nIt is the bookish, judgement-neutral word: you can ascribe a triumph or a disaster, a virtue or a vice, where *credit* and *blame* each pick a side. And it usually marks an **inference rather than a proven fact** — scholars ascribe a play to Marlowe because the style fits, not because they watched him write it. That hedge is why the word lives in history, criticism and law: it says *this is where I'm putting the responsibility*, not *this is settled*.",
+  "trap": "⚠️ **ascribe to ≠ subscribe to.** You **ascribe** a belief *to someone else* (you say it's theirs); you **subscribe** to a belief *yourself* (you hold it). \"I don't subscribe to that theory\" — not *ascribe*.",
+  "trick_line": "**A scribe** is sitting inside the word, writing your name next to the deed.",
+  "trick_unpack": "The scribe records who gets charged with it — good or bad — and he's going on the evidence, not a confession.",
+  "sentences": [
+    "Nineteenth-century editors **ascribed** the anonymous elegy to Coleridge on the strength of a single borrowed image.",
+    "Don't **ascribe** motives to me — I said the meeting was long, not that it was pointless."
+  ],
+  "in_the_wild": "Sociology's **\"ascribed status\"** vs *achieved status*: ascribed traits are the ones stamped on you at birth — caste, race, family name — assigned rather than earned. If you've seen the pair in a textbook or a policy piece, the sense is already locked.",
+  "etymology": "Latin **ad-** (\"to\") + **scrībere** (\"to write\") — literally *to write it onto someone's account*.\n\n*Scrībere* is a GRE workhorse: **describe** (write down), **prescribe** (write in advance — a doctor's order), **proscribe** (write someone's name on the banned list — outlaw them), **inscribe**, **subscribe**, **scripture**, **manuscript**.",
+  "one_line": "To attribute something to a particular cause, source, or author.",
+  "root": "scrībere (to write)",
+  "root_family": [
+    "describe",
+    "prescribe",
+    "proscribe",
+    "inscribe",
+    "subscribe",
+    "circumscribe",
+    "conscript",
+    "scripture",
+    "manuscript",
+    "scribble",
+    "postscript"
+  ],
+  "confusables": [
+    "subscribe",
+    "attribute",
+    "prescribe",
+    "proscribe",
+    "describe",
+    "imputes"
+  ],
+  "sense_tags": [
+    "attributing",
+    "assigning cause",
+    "authorship",
+    "credit or blame",
+    "inference"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    10
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "malign",
+  "pos": "v. / adj.",
+  "pron": "muh-LINE",
+  "pron_note": "The g is silent — it rhymes with *line*. (It comes back in **malignant**: muh-LIG-nunt.)",
+  "means": "**Verb:** to speak evil of someone — to say damaging, hostile things about them, usually behind their back and usually unfairly.\n**Adjective:** evil in nature or effect — *a malign influence*.\n\nCriticism is aimed at the work; **maligning** is aimed at the person, and it's cumulative — a steady drip of ill-speaking rather than one bad review. Unlike *slander*, it carries no legal machinery; unlike *vilify*, it doesn't have to be loud. And it leans hard toward the undeserved: when someone is maligned, the sentence usually implies they didn't have it coming.",
+  "trap": "⚠️ **malign ≠ malinger.**\n- **malign** = *badmouth* someone\n- **malinger** = *fake illness* to dodge work\n\nBoth start *mal-* and both are GRE regulars; only one involves a fictitious backache.",
+  "trick_line": "**MAL + ALIGN** — you quietly *align* everyone against him.",
+  "trick_unpack": "The word literally hides *align*, which catches the slow, behind-the-back work of turning a room's opinion bad.",
+  "sentences": [
+    "Historians have **maligned** the last emperor for two centuries, largely on the word of the men who deposed him.",
+    "Don't **malign** the guy — he actually covered your shift twice last month."
+  ],
+  "in_the_wild": "Sports and tech writing runs on one phrase: **\\\"the much-maligned midfielder,\\\"** *\\\"the much-maligned Vista.\\\"* Notice you never read *rightly maligned* — that \\\"much-\\\" is doing quiet defence work, hinting the pile-on was unfair.",
+  "etymology": "Latin **malignus** = *malus* (\"bad\") + the root of *gignere* (\"to be born\") — literally **\"born bad.\"** Its exact twin is **benign**, \"born good.\"\n\n*Malus* is a GRE goldmine: **malice**, **malevolent**, **malady**, **malfeasance**, **dismal**, even **malaria** (*mal'aria*, \"bad air\").",
+  "one_line": "To speak evil of someone, usually unfairly.",
+  "root": "malus (bad) + gignere/genus (to be born) → malignus, \"born bad\"",
+  "root_family": [
+    "benign",
+    "malice",
+    "malevolent",
+    "malady",
+    "malfeasance",
+    "malaria",
+    "dismal",
+    "malignant"
+  ],
+  "confusables": [
+    "malinger",
+    "malignant",
+    "benign",
+    "maim"
+  ],
+  "sense_tags": [
+    "defaming",
+    "badmouthing",
+    "harmful",
+    "evil-natured",
+    "unfair-criticism"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    7
+  ]
+}

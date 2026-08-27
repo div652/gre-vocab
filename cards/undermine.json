@@ -1,0 +1,40 @@
+{
+  "word": "undermine",
+  "pos": "v.",
+  "pron": "un-der-MYNE",
+  "pron_note": null,
+  "means": "To weaken something **gradually and from below** — to erode its support until it can no longer hold: someone's authority, a rival's credibility, public confidence, the premise of an argument.\n\nThe damage is slow, indirect, and usually **deniable**. *Sabotage* is a single destructive act; *attack* and *denounce* happen in the open, on the record. Undermining is the opposite posture — smiles in the meeting, doubts dropped in the corridor. Note also what it takes as an object: things that **stand on a foundation**. You undermine authority, trust, a case, a regime — not a person's arm or a rock.",
+  "trap": null,
+  "trick_line": "Nobody ever undermines you **to your face** — the digging happens underground.",
+  "trick_unpack": "The word carries its own method: covert, beneath notice, and visible only when the thing above finally falls.",
+  "sentences": [
+    "Each leaked memo further **undermined** the minister's claim that she had known nothing.",
+    "He kept **undermining** me in front of the team — never disagreeing outright, just \"clarifying\" everything I said."
+  ],
+  "in_the_wild": "*The Incredibles* ends with **The Underminer** drilling up through the street — a villain who literally attacks from below, named for exactly this word.",
+  "etymology": "The **mine** here isn't a coal mine — it's the siege tactic. Attackers dug a tunnel (*a mine*) under the castle wall, propped the roof with timber, then burned the props: the tunnel collapses, and the wall comes down with it. No breach, no battering ram — the wall simply loses what it was standing on.\n\nSame root gives you **landmine** and **minefield**: the buried threat you don't see until it goes off.",
+  "one_line": "To weaken gradually and covertly, from underneath.",
+  "root": "mine (to dig a tunnel under a fortification)",
+  "root_family": [
+    "mine",
+    "miner",
+    "landmine",
+    "minefield"
+  ],
+  "confusables": [
+    "undercut",
+    "underline"
+  ],
+  "sense_tags": [
+    "weaken",
+    "subvert",
+    "erode",
+    "covert",
+    "sabotage"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "sluggish",
+  "pos": "adj.",
+  "pron": "SLUG-ish",
+  "pron_note": null,
+  "means": "Moving, working, or reacting **more slowly than it should** — and lacking energy while it does.\n\nSlowness on its own is neutral; **sluggish** is slowness read as a *symptom*. A sluggish engine needs servicing, a sluggish market worries investors, a sluggish student worries a teacher. Nobody chooses to be sluggish, and nothing desirable is ever described that way — the word quietly diagnoses a fault, whether that's fatigue, congestion, or underperformance. It's mild, everyday criticism rather than contempt: closer to *underpowered* than to *lazy*.",
+  "trap": null,
+  "trick_line": "A **slow** Sunday sounds lovely. A **sluggish** Sunday sounds like you're coming down with something.",
+  "trick_unpack": "Swap the words in any sentence and *sluggish* always adds the sense that something is wrong.",
+  "sentences": [
+    "Trade across the region remained **sluggish** for a third consecutive quarter, defying every forecast of recovery.",
+    "My laptop's been so **sluggish** since the update that I've started making tea while it boots."
+  ],
+  "in_the_wild": "Business news runs on this word — \"**sluggish** growth,\" \"**sluggish** demand,\" \"a **sluggish** start to the quarter.\" It's the standard polite way to say *bad, but not yet a crisis*.",
+  "etymology": "From **slug**, which in Middle English (*slugge*) meant a **lazy person** — the slimy garden mollusc was named *after* the insult, not the other way round. Same root gives you **sluggard**, an old word for a habitual idler.",
+  "one_line": "Slow and low on energy, in a way that signals trouble.",
+  "root": "slug (Middle English slugge, \"lazy person\")",
+  "root_family": [
+    "slug",
+    "sluggard"
+  ],
+  "confusables": [
+    "sluggard"
+  ],
+  "sense_tags": [
+    "slow",
+    "lethargic",
+    "unresponsive",
+    "low-energy",
+    "underperforming"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    11
+  ]
+}

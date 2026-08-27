@@ -1,0 +1,42 @@
+{
+  "word": "construe",
+  "pos": "v.",
+  "pron": "kuhn-STROO",
+  "pron_note": null,
+  "means": "To **assign a particular meaning** to words or actions — to take them *as* meaning something.\n\nWhere *interpret* is broad and neutral (you interpret a poem, a dream, a dataset), **construe** shows up precisely where a reading is **contested or could go the other way**. It carries a whiff of the courtroom: someone is deciding which of two possible meanings a sentence or a gesture will officially bear. That's why it so often appears defensively — *\"don't construe my silence as consent\"*, *\"this shall not be construed as an admission\"*. If nothing is ambiguous, nobody needs to construe it.",
+  "trap": null,
+  "trick_line": "**con-S-TRUE** — out of an ambiguous phrase, you pick which reading is **true**.",
+  "trick_unpack": "The word literally hides *true* in it, and construing is the act of settling which meaning counts as the true one.",
+  "sentences": [
+    "The court **construed** the clause narrowly, holding that it covered damage to the building but not to its contents.",
+    "He asked if I was busy this weekend, and I stupidly **construed** that as an invitation."
+  ],
+  "in_the_wild": "Buried in almost every contract and terms-of-service you've ever scrolled past: *\"This Agreement shall be **construed** in accordance with the laws of...\"* — lawyers use the word constantly, because their whole job is fixing which reading wins.",
+  "etymology": "Latin **construere** = *con-* (\"together\") + **struere** (\"to build\") — literally *to build up*. You build a meaning out of the parts of a sentence.\n\nSame *struere* gives you **construct**, **structure**, **instruct** (build knowledge into someone), **obstruct**, **destroy**. Add *mis-* and you get **misconstrue**: you built the meaning wrong.",
+  "one_line": "To interpret ambiguous words or acts as meaning something particular.",
+  "root": "struere, structum (to build, pile up)",
+  "root_family": [
+    "construct",
+    "structure",
+    "instruct",
+    "obstruct",
+    "destruction",
+    "misconstrue"
+  ],
+  "confusables": [
+    "misconstrue",
+    "construct",
+    "constrain"
+  ],
+  "sense_tags": [
+    "interpreting",
+    "ambiguity",
+    "inference",
+    "legal-reading"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    2
+  ]
+}

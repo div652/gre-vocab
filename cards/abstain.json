@@ -1,0 +1,47 @@
+{
+  "word": "abstain",
+  "pos": "v.",
+  "pron": "ab-STAYN",
+  "pron_note": null,
+  "means": "To **deliberately hold back** from doing something you could perfectly well do — drinking, eating, speaking, voting.\n\nThe key is that it's chosen and usually sustained. You don't abstain because you can't; you abstain because you've decided not to, often on principle, health, or religious grounds. *Refrain* is a single moment of restraint (\"he refrained from replying\"); *abstain* is a standing policy (\"she abstained for a year\"). It also has a precise institutional sense: to formally decline to vote either way — present, counted, but neither yes nor no.",
+  "trap": null,
+  "trick_line": "**Ab-STAIN** — you stay *away* so it can't *stain* you. The stain was available; you declined it.",
+  "trick_unpack": "The hidden word \"stain\" locks in the flavour of self-denial by choice, not by inability.",
+  "sentences": [
+    "Three members voted in favour, two against, and the chairman **abstained**, unwilling to commit the board either way.",
+    "He's **abstaining** this month — no beer, no wine, nothing, and he's insufferable about it."
+  ],
+  "in_the_wild": "Any committee, parliament, or UN vote has three buttons: **Yes**, **No**, and **Abstain** — the official way to be present and still refuse to pick a side.",
+  "etymology": "Latin **abs-** (*away*) + **tenēre** (*to hold*) — literally *to hold yourself away from*.\n\nThat **tenēre** is a workhorse root: **contain, retain, detain, sustain, tenacious, tenet, tenure, tenable, abstinence**. Anything that grips or holds.",
+  "one_line": "Deliberately hold back from something, or decline to vote.",
+  "root": "tenēre (to hold) + abs- (away)",
+  "root_family": [
+    "abstinence",
+    "contain",
+    "retain",
+    "detain",
+    "sustain",
+    "tenacious",
+    "tenet",
+    "tenure",
+    "tenable"
+  ],
+  "confusables": [
+    "abstemious",
+    "abstinent",
+    "abstruse",
+    "sustain"
+  ],
+  "sense_tags": [
+    "self-restraint",
+    "refusal",
+    "voting",
+    "temperance",
+    "self-denial"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    4
+  ]
+}

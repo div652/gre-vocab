@@ -1,0 +1,42 @@
+{
+  "word": "sanguine",
+  "pos": "adj.",
+  "pron": "SANG-gwin",
+  "pron_note": "Ends in \"-gwin,\" not \"-gwine\" — it does not rhyme with wine.",
+  "means": "Cheerfully confident that things will turn out well — **especially when there's good reason to think they won't**.\n\nOptimism is the general word; **sanguine** is optimism with the volume down. It describes a settled temperament rather than a mood, and it almost always shows up against a backdrop of trouble: you are sanguine *about* the deficit, the diagnosis, the deadline. That's what gives it its edge — depending on the writer, it's either admirable composure or a polite way of saying someone hasn't grasped the danger. Formal, and common in finance and journalism (\"investors remain sanguine\").\n\nAn older, near-dead sense means *blood-red* or *ruddy-complexioned*, which is the bridge back to the root.",
+  "trap": "⚠️ **sanguine ≠ sanguinary.** Same blood root, opposite temperature: **sanguine** = cheerful and unworried; **sanguinary** = bloodthirsty, gory. A sanguine general expects to win; a sanguinary one enjoys the killing.",
+  "trick_line": "**Sanguine** starts with **sang** — while everyone else panics, he **sang**.",
+  "trick_unpack": "The calm cheerfulness is the whole point: sanguine isn't excitement, it's humming through a crisis.",
+  "sentences": [
+    "Despite two failed harvests, the old man remained **sanguine** about the estate's prospects, as though ruin were merely a rumour.",
+    "Markets have gone haywire and he's still **sanguine** about his pension — I wish I had his nerves."
+  ],
+  "in_the_wild": "It's the standard word of market commentary: any week you can find a headline saying investors are \"**sanguine** about inflation\" — always meaning *calm so far, possibly foolishly*.",
+  "etymology": "Latin **sanguis, sanguinis** = *blood*. Medieval medicine held that four bodily humours set your personality; the man with blood dominant was ruddy, warm and cheerful — the **sanguine** type. The temperament outlived the theory.\n\nSame root: **sanguinary** (bloodthirsty), **consanguineous** (related by blood), and the red wine punch **sangria**.",
+  "one_line": "Cheerfully confident, especially when things look bad.",
+  "root": "sanguis, sanguinis (blood)",
+  "root_family": [
+    "sanguinary",
+    "consanguineous",
+    "sanguineous",
+    "sangria",
+    "exsanguinate"
+  ],
+  "confusables": [
+    "sanguinary",
+    "consanguineous",
+    "saturnine"
+  ],
+  "sense_tags": [
+    "optimistic",
+    "confident",
+    "unworried",
+    "temperament",
+    "composed"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    8
+  ]
+}

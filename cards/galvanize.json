@@ -1,0 +1,37 @@
+{
+  "word": "galvanize",
+  "pos": "v.",
+  "pron": "GAL-vuh-nyze",
+  "pron_note": "British spelling: galvanise.",
+  "means": "To **shock someone into sudden action** — to jolt a person, crowd, or movement out of apathy and into doing something.\n\nThe force is a *jolt*, not a coaxing. You *encourage* a team over weeks; you **galvanize** them in a moment, usually with a speech, a crisis, or an outrage. It also implies the target was **inert beforehand** — you can't galvanize people who were already busy. And it's warm: the galvanizer is admired, whereas an **incite**-r is blamed. Politics, activism and business love it — *galvanize support*, *galvanize the base*, *galvanized into action*.",
+  "trap": null,
+  "trick_line": "**Nobody is ever galvanized and then just sits there.** The word is almost always followed by the doing: *galvanized into action*, *galvanized the crowd to march*.",
+  "trick_unpack": "Galvanize never describes a mood — only a trigger, so if nothing visibly happens next, it isn't the right word.",
+  "sentences": [
+    "The verdict **galvanized** a protest movement that had been dormant for a decade.",
+    "One furious email from the client **galvanized** the whole team — we shipped the fix by lunch."
+  ],
+  "in_the_wild": "**Galvanized** steel — buckets, nails, roofing sheets — is iron given a zinc coat by an electrical process named after the same man. The metal in your hardware store and the crowd in the speech share a root.",
+  "etymology": "From **Luigi Galvani**, the 18th-century Italian anatomist who made a dead frog's leg kick by touching it with metal — proof that electricity moves flesh. That twitch *is* the word: something lifeless, a current, sudden movement.\n\nSame man gives you **galvanic** and the **galvanometer**.",
+  "one_line": "To shock a person or group into sudden, decisive action.",
+  "root": "Luigi Galvani (18th-c. Italian anatomist, eponym)",
+  "root_family": [
+    "galvanic",
+    "galvanometer",
+    "galvanized (steel)",
+    "galvanism"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "motivating",
+    "sudden-action",
+    "stirring",
+    "energizing",
+    "rousing"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    8
+  ]
+}

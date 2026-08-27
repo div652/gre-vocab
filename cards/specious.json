@@ -1,0 +1,45 @@
+{
+  "word": "specious",
+  "pos": "adj.",
+  "pron": "SPEE-shuhs",
+  "pron_note": "Two syllables, not three — never \"SPESS-ee-us.\"",
+  "means": "Looking correct, reasonable or attractive **on the surface, but false underneath** — usually of an argument, claim or excuse.\n\nThe insult is aimed at the *polish*, not the crudeness. A stupid argument is just wrong; a **specious** one is well-dressed, moves smoothly, and takes a second reading to catch. It implies you almost fell for it — and often that the speaker built it that way on purpose. Formal, faintly withering: the word of a judge, a philosopher, or a reviewer who has just found the seam.",
+  "trap": "⚠️ **specious ≠ spurious.**\n- **specious** = *sounds* true, isn't — about the reasoning\n- **spurious** = fake, illegitimate in origin — about the thing itself\n\nA spurious quotation was never said. A specious argument was really made — it just doesn't survive contact.",
+  "trick_line": "**Spe-cious** rhymes with **suspi-cious** — if it lands too neatly, be suspicious: it's specious.",
+  "trick_unpack": "The word describes exactly the argument that feels a little too tidy to be true, and the rhyme is no accident — *suspicious* comes from the same \"look\" root.",
+  "sentences": [
+    "The defence rested on a **specious** distinction between advising the fraud and executing it, which the court dismissed in a single paragraph.",
+    "He gave me some **specious** reason about the traffic, and it took me an hour to realise he doesn't even own a car."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **specere** = *\"to look.\"* **Speciosus** meant *good-looking, showy* — and that's what **specious** meant in early English too: *beautiful*. The word then slid from \"looks good\" to **\"only looks good,\"** which is the whole definition in one move.\n\nSame root, huge family: **spectacle, inspect, conspicuous, perspective, specimen, species** — and **suspicious** (to look at from below).",
+  "one_line": "Plausible and polished on the surface, but actually false.",
+  "root": "specere (to look)",
+  "root_family": [
+    "spectacle",
+    "inspect",
+    "conspicuous",
+    "perspective",
+    "specimen",
+    "species",
+    "suspicious",
+    "respect"
+  ],
+  "confusables": [
+    "spurious",
+    "suspicious",
+    "species"
+  ],
+  "sense_tags": [
+    "plausible-but-false",
+    "deceptive",
+    "fallacious",
+    "superficial",
+    "misleading"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    6
+  ]
+}

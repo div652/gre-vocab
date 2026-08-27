@@ -1,0 +1,45 @@
+{
+  "word": "discreet",
+  "pos": "adj.",
+  "pron": "dih-SKREET",
+  "pron_note": "Identical in sound to *discrete* — the difference is only on the page.",
+  "means": "Careful about what you say and do, so as not to attract attention or give away something private; tactful.\n\nIt's a **compliment about judgment**, not a description of shyness. A *secretive* person seems to be hiding something; a **discreet** one is trusted *with* something. The word almost always implies a third party being protected — the client, the friend, the affair, the diagnosis. Note also the pairing with *inquiry* and *glance*: a **discreet** enquiry is one made so lightly that nobody realises a question was asked.",
+  "trap": "⚠️ **discreet ≠ discrete.**\n- **discreet** = *tactful, unobtrusive*\n- **discrete** = *separate, individually distinct* (discrete data, discrete units)",
+  "trick_line": "**In *discrete*, the T pushes the two E's apart — separated. In *discreet*, the E's stay together, keeping it between them.**",
+  "trick_unpack": "The spelling itself acts out the meaning: split E's for split things, huddled E's for a kept confidence.",
+  "sentences": [
+    "The family's solicitor made **discreet** enquiries, and no word of the settlement ever reached the press.",
+    "Can you be **discreet** about this? I haven't told my manager I'm interviewing."
+  ],
+  "in_the_wild": "Online checkouts promising **\\\"discreet packaging\\\"** — a plain brown box with no branding, protecting you from the neighbours rather than from thieves. That's the word in one image: not hidden, just not announced.",
+  "etymology": "Latin **discernere** = *\"to separate, to distinguish\"* (*dis-* apart + *cernere* to sift). Its participle *discretus* gave English **one** word that later split into two spellings — the sifting sense stayed with *discrete*, the sense of a person with good judgment went to *discreet*.\n\nThe root pays off elsewhere: **discern**, **discernment**, **concern**, **certain**, **secret** (*se-* + *cernere*, \"set apart\").",
+  "one_line": "Careful not to be noticed; tactfully protective of what's private.",
+  "root": "cernere, discernere (to sift, separate, distinguish)",
+  "root_family": [
+    "discrete",
+    "discern",
+    "discernment",
+    "discretion",
+    "secret",
+    "certain",
+    "concern",
+    "decree"
+  ],
+  "confusables": [
+    "discrete",
+    "indiscreet",
+    "discretion"
+  ],
+  "sense_tags": [
+    "tactful",
+    "prudent",
+    "unobtrusive",
+    "confidential",
+    "restrained"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    14
+  ]
+}

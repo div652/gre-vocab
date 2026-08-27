@@ -1,0 +1,42 @@
+{
+  "word": "proliferate",
+  "pos": "v.",
+  "pron": "pruh-LIF-uh-rayt",
+  "pron_note": null,
+  "means": "To **multiply rapidly** — to increase in number by producing more copies of itself. Also transitive: to *cause* something to spread that way (*to proliferate weapons*).\n\nThings don't proliferate by being added one at a time; they proliferate the way cells and rumours do — each one spawning the next, faster than anyone is tracking. That's why the word so often arrives with a faint note of alarm: *conspiracy theories proliferated*, *nuclear weapons proliferated*, *bubble-tea shops proliferated on one street*. It can be perfectly neutral in biology, but in ordinary use the implication is usually **out of hand**. *Increase* is a measurement; *proliferate* is a warning.",
+  "trap": null,
+  "trick_line": "**PRO-LIFE-rate** — the rate at which life makes more life.",
+  "trick_unpack": "The word literally hides *life* multiplying at a *rate*, which is exactly the runaway, self-copying growth it describes.",
+  "sentences": [
+    "Unregulated by the state, private militias **proliferated** across the border provinces within a single decade.",
+    "Ever since he got the label printer, little stickers have **proliferated** on every drawer in the kitchen."
+  ],
+  "in_the_wild": "The **Nuclear Non-Proliferation Treaty** — the whole international project of stopping nuclear weapons from *spreading to more and more countries*. If you know the treaty, you already know the word.",
+  "etymology": "Latin **prōlēs** = *\"offspring\"* + **ferre** = *\"to bear.\"* To proliferate is literally **to bear offspring** — hence the sense of self-copying rather than mere adding.\n\n*prōlēs* also gives **prolific** (producing lots) and **proletariat** (in Rome, the class so poor their only contribution to the state was children). *ferre* is everywhere: **transfer, confer, refer, fertile**.",
+  "one_line": "To multiply rapidly, each copy spawning more.",
+  "root": "prōlēs (offspring) + ferre (to bear)",
+  "root_family": [
+    "prolific",
+    "proletariat",
+    "transfer",
+    "confer",
+    "refer",
+    "fertile"
+  ],
+  "confusables": [
+    "prolific",
+    "prolix",
+    "proliferous"
+  ],
+  "sense_tags": [
+    "multiplying",
+    "rapid-increase",
+    "spreading",
+    "growth"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    6
+  ]
+}

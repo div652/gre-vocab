@@ -1,0 +1,46 @@
+{
+  "word": "explicable",
+  "pos": "adj.",
+  "pron": "EK-spli-kuh-buhl",
+  "pron_note": "Also stressed on the second syllable — ik-SPLIK-uh-buhl; both are standard.",
+  "means": "Capable of being explained or accounted for.\n\nThe word is quieter than it looks. **Explicable** doesn't mean *obvious* or *clear* — a thing can be baffling on the surface and still be explicable, because the claim is only that a satisfying account exists once you dig. It carries a faint tone of deflation: people reach for it to take the mystery *out* of something (\"her behaviour was entirely explicable, given the pressure she was under\"). Note also that the negative twin, *inexplicable*, is far commoner in speech; when the bare positive turns up, it's usually formal, argumentative, and defending a plain explanation against a dramatic one.",
+  "trap": null,
+  "trick_line": "You almost never meet it alone — it comes in as **\"perfectly explicable\"**, mopping up someone else's mystery.",
+  "trick_unpack": "Lock the collocation and you lock the tone: the word's job is to say *calm down, there's a reason*.",
+  "sentences": [
+    "The discrepancy in the accounts, alarming at first sight, proved **explicable** as a rounding error carried forward across three quarters.",
+    "Sure, he stormed out — which is pretty **explicable** when you've been in that meeting for four hours."
+  ],
+  "in_the_wild": "Standard move in science and audit writing: a result is dismissed as **\"explicable by chance alone\"** — the polite way of saying *nothing to see here*.",
+  "etymology": "Latin **ex-** (*out*) + **plicāre** (*to fold*) — to unfold something, spread the pleats flat so it can be read.\n\nThat fold-root is a GRE goldmine: **complicate** (fold together), **implicate** (fold someone in), **replicate** (fold back again), **pliable** (foldable), plus *deploy, display, employ* — all folding and unfolding in disguise.",
+  "one_line": "Able to be explained; there's a reason behind it",
+  "root": "ex- (out) + plicāre (to fold)",
+  "root_family": [
+    "complicate",
+    "implicate",
+    "replicate",
+    "duplicate",
+    "pliable",
+    "deploy",
+    "display",
+    "employ",
+    "explicate"
+  ],
+  "confusables": [
+    "inexplicable",
+    "explicit",
+    "explicate",
+    "implacable"
+  ],
+  "sense_tags": [
+    "explainable",
+    "accountable",
+    "intelligible",
+    "rational"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    7
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "apathy",
+  "pos": "n.",
+  "pron": "AP-uh-thee",
+  "pron_note": "The adjective shifts its stress: apathetic = a-puh-THET-ik.",
+  "means": "A **total absence of interest, emotion, or concern** — you don't care, and you can't be roused to.\n\nThe key is that apathy is *empty*, not hostile. Someone who hates a policy is engaged with it; someone apathetic won't look up from their phone. It's a flat, deadened state rather than a hot one, which is why it attaches so naturally to **voters, students, and burnt-out employees**. The word almost always carries a note of reproach — writers use it to accuse a public of not caring about something it should care about.",
+  "trap": "⚠️ **apathy ≠ antipathy.**\n- **apathy** = *a-* (without) feeling — the shrug\n- **antipathy** = *anti-* (against) feeling — the strong dislike\n\nApathy toward a candidate keeps you home; antipathy toward one gets you to the polls.",
+  "trick_line": "**Apathy is a shrug, not a scowl.**",
+  "trick_unpack": "The apathetic person hasn't taken a side — there's simply nothing there to push against.",
+  "sentences": [
+    "Widespread **apathy** among younger voters, more than any organised opposition, doomed the referendum.",
+    "I asked what he wanted for dinner and got a shrug — total **apathy**, as usual."
+  ],
+  "in_the_wild": "**\"Voter apathy\"** is the phrase every news anchor reaches for the morning after a low-turnout election — nobody was angry, they just stayed home.",
+  "etymology": "Greek **a-** (*without*) + **pathos** (*feeling, suffering*) = literally *feeling-less*.\n\nThat *pathos* unlocks a whole shelf: **sympathy** (feeling *with*), **empathy** (feeling *into*), **antipathy** (feeling *against*), **pathetic** (stirring feeling), **pathology** (the study of what you suffer from).",
+  "one_line": "Complete lack of interest or feeling; an uncaring shrug.",
+  "root": "pathos (feeling, suffering)",
+  "root_family": [
+    "sympathy",
+    "empathy",
+    "antipathy",
+    "pathetic",
+    "pathos",
+    "pathology",
+    "psychopath"
+  ],
+  "confusables": [
+    "antipathy",
+    "empathy",
+    "sympathy"
+  ],
+  "sense_tags": [
+    "indifference",
+    "unconcern",
+    "listlessness",
+    "emotionlessness",
+    "disengagement"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    15
+  ]
+}

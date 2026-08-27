@@ -1,0 +1,40 @@
+{
+  "word": "emulate",
+  "pos": "v.",
+  "pron": "EM-yuh-layt",
+  "pron_note": null,
+  "means": "To imitate someone **in order to match or surpass them** — copying with ambition behind it.\n\nThe word carries admiration and rivalry at once. *Imitate* is neutral and can be mindless; *mimic* and *ape* are faintly insulting, suggesting a copy with nothing behind it. **Emulate** always points upward: you emulate a mentor, a champion, a predecessor — someone whose level you want to reach. Praise the copier, not mock him.\n\n(Computing has borrowed it flatly: one machine **emulating** another just means reproducing its behaviour, no ambition involved.)",
+  "trap": "⚠️ **emulate ≠ simulate.**\n- **emulate** = actually *do what the model does*, to match it\n- **simulate** = *fake* it, or model it for study\n\nA flight simulator pretends to be a plane. An emulator genuinely runs the other machine's software.",
+  "trick_line": "**Emulate** rhymes with **elevate** — you copy someone to rise to their level.",
+  "trick_unpack": "The rhyme locks in the direction of the word: emulation is imitation aimed upward, at someone better than you.",
+  "sentences": [
+    "Successive Mughal emperors sought to **emulate** Akbar, and each fell short in a different way.",
+    "He started waking at five and reading two books a week, trying to **emulate** his older sister."
+  ],
+  "in_the_wild": "Playing old Nintendo or PlayStation games on a laptop means running an **emulator** — software pretending to be the original console, well enough to run its actual cartridges.",
+  "etymology": "Latin **aemulus** = *\"rival.\"* Not \"copier\" — **rival**. Emulation was born competitive: you match your rival's feat in order to beat it. That buried rivalry is exactly what separates *emulate* from *imitate* on the exam.",
+  "one_line": "Imitate someone in order to match or outdo them.",
+  "root": "aemulus (rival)",
+  "root_family": [
+    "emulation",
+    "emulous",
+    "emulator"
+  ],
+  "confusables": [
+    "simulate",
+    "imitate",
+    "immolate",
+    "ambulate"
+  ],
+  "sense_tags": [
+    "imitation",
+    "admiration",
+    "rivalry",
+    "aspiration"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    4
+  ]
+}

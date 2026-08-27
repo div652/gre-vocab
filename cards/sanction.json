@@ -1,0 +1,45 @@
+{
+  "word": "sanction",
+  "pos": "v. / n.",
+  "pron": "SANK-shuhn",
+  "pron_note": null,
+  "means": "**Verb:** to **officially approve** or authorise. **Noun (1):** that official approval. **Noun (2):** a **penalty** imposed to force compliance — usually plural: *sanctions*.\n\nIt is its own opposite, and the GRE loves that. Both senses come from the same idea: an authority laying down a binding rule, and either blessing what fits it or punishing what doesn't.\n\nRegister matters more than you'd think. *Sanction* is never casual approval — a friend doesn't sanction your haircut. It implies a body with the standing to permit: a government, a church, a governing council, a licensing board. And when it bites, it's coercive rather than merely punitive — sanctions are meant to *change behaviour*, not just express displeasure.",
+  "trap": null,
+  "trick_line": "Singular verb = permission; plural noun = punishment. *He sanctioned the raid* / *They imposed sanctions.*",
+  "trick_unpack": "Grammar disambiguates the contronym far more reliably than context does — if you see \"sanctions\" sitting there as a plural noun, it's the penalty sense almost every time.",
+  "sentences": [
+    "The committee declined to **sanction** the expedition, judging the route too hazardous to bear the institution's name.",
+    "Trade **sanctions** kicked in overnight and suddenly nobody could ship anything."
+  ],
+  "in_the_wild": "Any news bulletin about Russia, Iran or North Korea — \"fresh **sanctions**\" is one of the most-spoken phrases in international news, and it's always the punishment sense.",
+  "etymology": "Latin **sanctus** = *\"holy, made binding\"* (from *sancīre*, to consecrate). A sanction was originally a decree made sacred — untouchable, enforceable.\n\nThat root pays for itself: **saint**, **sacred**, **sanctuary**, **sanctify**, **sacrosanct**, and the GRE favourite **sanctimonious** (holier-than-thou).",
+  "one_line": "To officially approve — or, as a noun, to punish.",
+  "root": "sanctus / sancīre (holy, to make binding)",
+  "root_family": [
+    "saint",
+    "sacred",
+    "sanctuary",
+    "sanctify",
+    "sacrosanct",
+    "sanctimonious",
+    "sanctum"
+  ],
+  "confusables": [
+    "sanctify",
+    "sanctitude",
+    "sanctimonious",
+    "sanctum"
+  ],
+  "sense_tags": [
+    "approval",
+    "authorisation",
+    "penalty",
+    "contronym",
+    "coercion"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    7
+  ]
+}

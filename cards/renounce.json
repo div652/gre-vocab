@@ -1,0 +1,43 @@
+{
+  "word": "renounce",
+  "pos": "v.",
+  "pron": "ri-NOWNSS",
+  "pron_note": null,
+  "means": "To **formally and publicly give up** a claim, right, title, belief, or allegiance — and to say so out loud.\n\nThe word is a *declaration*, not a drift. You can quietly stop believing something; you **renounce** it only when you announce the break. That's what separates it from *abandon* (you just leave it behind) and *give up* (neutral, everyday). **Renounce** carries weight and witnesses: a monk renounces wealth, a prince renounces the throne, a militant renounces violence. There's usually a cost being paid on purpose.",
+  "trap": "⚠️ **renounce ≠ denounce.**\n- **renounce** = give up something **of your own** (a right, a faith, a claim)\n- **denounce** = publicly condemn **someone else**\n\nHe renounced his citizenship; the papers denounced him for it.",
+  "trick_line": "**Renounce** = **re-** + **announce**: you *announce* that you're giving it up.",
+  "trick_unpack": "The hidden \"announce\" is the whole nuance — renouncing is public and spoken, never a quiet fade.",
+  "sentences": [
+    "Upon taking the oath of citizenship, she **renounced** all allegiance to any foreign sovereign.",
+    "He didn't just quit the band — he went on air and **renounced** the whole thing."
+  ],
+  "in_the_wild": "The baptism scene in **The Godfather** — the priest asking Michael Corleone, *\"Do you renounce Satan?\"*, intercut with the murders he's ordering. The word is doing all the irony.",
+  "etymology": "Latin **re-** (\"back\") + **nuntiāre** (\"to report, announce\"), from **nuntius**, *a messenger* — so literally *to announce back*, to send word that you're done.\n\nThat root runs deep: **announce**, **denounce**, **pronounce**, **enunciate**, **annunciation**, and the **nuncio** (the Pope's ambassador — his messenger).",
+  "one_line": "Formally and publicly give up a claim, belief, or allegiance.",
+  "root": "nuntiāre (to announce), from nuntius (messenger)",
+  "root_family": [
+    "announce",
+    "denounce",
+    "pronounce",
+    "enunciate",
+    "annunciation",
+    "nuncio"
+  ],
+  "confusables": [
+    "denounce",
+    "announce",
+    "renege"
+  ],
+  "sense_tags": [
+    "giving-up",
+    "disavowal",
+    "public-declaration",
+    "rejection",
+    "abdication"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    12
+  ]
+}

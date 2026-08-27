@@ -1,0 +1,47 @@
+{
+  "word": "portend",
+  "pos": "v.",
+  "pron": "por-TEND",
+  "pron_note": null,
+  "means": "To be a **sign or warning** that something is going to happen — to foreshadow, to be an omen of.\n\nThe subject is almost never a person: *clouds, silence, a drop in sales, a cough* portend. Things portend; people predict. And what's portended is nearly always **bad** — you can *portend* civil war, collapse, or ruin, but \"portends a lovely afternoon\" reads as a joke. Weightier and more solemn than *suggest* or *indicate*, which are flatly neutral; broader than *foreshadow*, which belongs to plots and novels. It's the word news anchors reach for when they want dread without saying \"doom.\"",
+  "trap": "⚠️ **portend ≠ portentous.** *Portend* is the clean verb (\"this portends trouble\"). But **portentous**, its own adjective, has drifted: it usually now means **pompously self-important**, not ominous. A portentous speaker is a windbag, not a prophet.",
+  "trick_line": "**port-END** — whatever it points to is an *ending*, not a beginning.",
+  "trick_unpack": "The hidden **end** is your reminder that the word tilts negative: things portend collapse, famine, and war far more often than they portend anything good.",
+  "sentences": [
+    "The sudden withdrawal of foreign capital **portended** a crisis that the finance ministry spent a decade denying was coming.",
+    "That noise the engine's making? Nothing good, mate — it **portends** a very expensive Tuesday."
+  ],
+  "in_the_wild": "Standard market-commentary furniture: every recession cycle brings the headline *\"Does the inverted yield curve portend a recession?\"* — an impersonal signal, an unwelcome outcome, exactly the word's natural habitat.",
+  "etymology": "Latin **portendere** = *por-* (a form of *pro-*, \"forward\") + **tendere**, *\"to stretch\"* — the omen **stretches forward** into the future.\n\n*Tendere* is a GRE workhorse: **extend, contend, distend, tendon, tendency, intend** — and **pretend**, literally \"stretch out in front\" as a screen. Same stretch, different direction.",
+  "one_line": "To be an omen of — usually of something bad.",
+  "root": "tendere (to stretch), with por- (forward)",
+  "root_family": [
+    "portent",
+    "portentous",
+    "extend",
+    "contend",
+    "distend",
+    "tendon",
+    "tendency",
+    "intend",
+    "pretend"
+  ],
+  "confusables": [
+    "portent",
+    "portentous",
+    "purport",
+    "pretend"
+  ],
+  "sense_tags": [
+    "omen",
+    "foreshadow",
+    "warning",
+    "prophecy",
+    "doom"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    10
+  ]
+}

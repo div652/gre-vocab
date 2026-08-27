@@ -1,0 +1,39 @@
+{
+  "word": "elicit",
+  "pos": "v.",
+  "pron": "ih-LIS-it",
+  "pron_note": "For most speakers this is an exact homophone of illicit.",
+  "means": "To **draw out** a response, reaction, or piece of information from someone — by asking, prompting, or provoking.\n\nThe word assumes the thing was **already there, latent**, and needed coaxing into the open. That's what separates it from its neighbours: you *provoke* a reaction (aggressive), you *extract* a confession (force), but you **elicit** — skilfully, often quietly, usually by asking the right question. And it points at a person: you elicit a laugh, an answer, a confession, a groan. A chemical reaction isn't elicited.",
+  "trap": "⚠️ **elicit ≠ illicit.** Same sound, unrelated words.\n- **elicit** *(verb)* = draw out — *elicited a response*\n- **illicit** *(adjective)* = illegal, forbidden — *illicit substances*\n\nIf it's a thing you do, it's elicit. If it's a thing you'd get arrested for, it's illicit.",
+  "trick_line": "**E**licit **e**xtracts; **il**licit is **il**legal — like *illogical*, *illegible*, *immoral*.",
+  "trick_unpack": "That opening **il-** is the standard Latin negative prefix, so *illicit* is a \"not-allowed\" adjective, while the bare **e-** (\"out\") makes *elicit* the verb that pulls something out of a person.",
+  "sentences": [
+    "Under patient cross-examination, the barrister **elicited** an admission the witness had spent two years avoiding.",
+    "My joke **elicited** exactly one laugh in the whole room, and it was mine."
+  ],
+  "in_the_wild": "In software and product work the process of finding out what users actually need has a formal name: **requirements elicitation** — so called precisely because you can't just ask outright, you have to draw it out of them.",
+  "etymology": "Latin **ēlicere** = *ex-* (\"out\") + **lacere** (\"to lure, entice\") — literally *to lure it out*. The persuasion is baked into the word.\n\nThat same *lacere* shows up, via **dēlicere** (\"lure away\"), in **delight**, **delectable** and **delicious** — all things that entice you.\n\n🚫 **Not the root of *illicit*.** That's *licēre*, \"to be permitted\" — giving **licit**, **licence**, and (oddly) **leisure**. Identical sound, unrelated family.",
+  "one_line": "To draw out a response, reaction, or information from someone.",
+  "root": "lacere (to lure, entice); ex- (out)",
+  "root_family": [
+    "delight",
+    "delectable",
+    "delicious",
+    "delectation"
+  ],
+  "confusables": [
+    "illicit",
+    "solicit"
+  ],
+  "sense_tags": [
+    "draw out",
+    "provoke a response",
+    "extract information",
+    "questioning"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    9
+  ]
+}

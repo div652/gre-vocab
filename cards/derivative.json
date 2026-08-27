@@ -1,0 +1,39 @@
+{
+  "word": "derivative",
+  "pos": "adj. / n.",
+  "pron": "dih-RIV-uh-tiv",
+  "pron_note": null,
+  "means": "**Adj.:** taken from an existing source rather than invented — and therefore **unoriginal**.\n**Noun:** a thing that comes from something else (in finance, a contract whose value is drawn entirely from an underlying asset).\n\nAs criticism it is cold rather than angry. Calling a novel *derivative* is not calling it stolen or fake — the writer did the work, honestly. The charge is that everything worth noticing in it came from somewhere else, so there is nothing of the maker in it. Reviewers, examiners and critics reach for it precisely because it sounds measured: *plagiarised* is a legal accusation, *hackneyed* is a sneer, **derivative** is a diagnosis.",
+  "trap": null,
+  "trick_line": "**Derivative = *derive* + im*itative*** — it flows from a source, so it has no source of its own.",
+  "trick_unpack": "The insult is not theft but dependence: pull out what it borrowed and nothing is left standing.",
+  "sentences": [
+    "The jury praised her technique but found the collection **derivative**, a careful echo of designers who had shown a decade earlier.",
+    "It's not a bad album, it's just **derivative** — you can name the band behind every track."
+  ],
+  "in_the_wild": "A financial **derivative** — an option, a future — has no value of its own; every penny it is worth is drawn from the asset underneath it. That is the adjective in one object.",
+  "etymology": "Latin **dē-** (*away*) + **rīvus** (*stream*) → **dērīvāre**, *to draw water off from a channel*. A derivative work is a ditch led off someone else's river.\n\nSame root: **river**, **derive**, and — pleasingly — **rival**, from *rivales*, two people forced to share one stream.",
+  "one_line": "Unoriginal; drawn wholly from an earlier source.",
+  "root": "rivus (stream) → derivare (to draw off)",
+  "root_family": [
+    "derive",
+    "river",
+    "rival",
+    "riverine"
+  ],
+  "confusables": [
+    "derisive",
+    "derogative"
+  ],
+  "sense_tags": [
+    "unoriginal",
+    "imitative",
+    "secondhand",
+    "criticism"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    2
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "tenable",
+  "pos": "adj.",
+  "pron": "TEN-uh-buhl",
+  "pron_note": null,
+  "means": "Able to be **defended, held, or maintained** — of a position, theory, claim, or job.\n\nIt began as a military word (a fort you can hold against attack) and now lives mostly in argument: a tenable theory is one that survives cross-examination. Note how modest it is — tenable doesn't mean *true* or *convincing*, only that it hasn't yet been demolished. \"Her reading of the poem is tenable\" is a long way from praise; it means you can't quite disprove it. Applied to a job or a situation, it shifts to *survivable*: a position that can still be occupied without collapse.",
+  "trap": "⚠️ **tenable ≠ tenuous.**\n- **tenable** = holds up\n- **tenuous** = thin, flimsy, barely holding on\n\nThey look like cousins and are near-opposites: a tenuous argument is exactly the one that isn't tenable.",
+  "trick_line": "You'll almost always meet it wearing the **un-**: *his position became untenable, so he resigned.*",
+  "trick_unpack": "Define it backwards from the far commoner *untenable* — whatever can't be held is untenable, so tenable is the fort still standing.",
+  "sentences": [
+    "No **tenable** account of the manuscript's provenance has yet been offered, though three have been attempted.",
+    "Blaming the intern for a decision he made himself wasn't a **tenable** line and he knew it."
+  ],
+  "in_the_wild": "Political journalism runs on the negative: when a minister's \"position becomes **untenable**\", that's the standard press signal that a resignation lands within the week.",
+  "etymology": "Latin **tenēre** = *\"to hold\"* — one of the great GRE root-mines: **tenacious** (holding on), **tenant** (one who holds property), **tenure** (the holding of a post), **tenet** (a belief you hold), plus **retain, contain, sustain, detain, abstain**.",
+  "one_line": "Able to be defended or maintained under attack.",
+  "root": "tenēre (to hold)",
+  "root_family": [
+    "tenacious",
+    "tenant",
+    "tenure",
+    "tenet",
+    "retain",
+    "contain",
+    "sustain",
+    "detain",
+    "abstain"
+  ],
+  "confusables": [
+    "tenuous",
+    "tenacious",
+    "tenet",
+    "tangible"
+  ],
+  "sense_tags": [
+    "defensible",
+    "sustainable",
+    "argument",
+    "withstanding-scrutiny"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    12
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "panacea",
+  "pos": "n.",
+  "pron": "pan-uh-SEE-uh",
+  "pron_note": "Not puh-NAY-see-uh — the stress lands late, on the SEE.",
+  "means": "A single remedy that cures **all** diseases, fixes **all** problems — a universal solution.\n\nThe catch is how it's actually used: nine times out of ten the word arrives with a **negative attached**. Writers reach for *panacea* precisely to deny one exists — \"microfinance is no panacea,\" \"AI is not a panacea for education.\" Calling something a panacea straight-faced is almost always a setup for deflating it. So it carries a faint whiff of **overclaiming**: a *remedy* is modest and real, a *panacea* is the thing credulous people believe in.",
+  "trap": null,
+  "trick_line": "The word almost always comes wearing the word **\"no\"** in front of it: *no panacea.*",
+  "trick_unpack": "Learn the collocation, not just the definition — if you can hear \"it's no panacea,\" you've got both the meaning (cure-all) and the sceptical tone in one move.",
+  "sentences": [
+    "Land reform was presented to the villagers as a **panacea**, though it addressed neither drought nor debt.",
+    "Sure, a standing desk helps your back — but it's not some **panacea** for sitting on your laptop all day."
+  ],
+  "in_the_wild": "The Hippocratic Oath opens by swearing \"by Apollo Physician, by Asclepius, by **Hygieia**, by **Panacea**\" — two Greek healing goddesses whose names became English words: *hygiene* and *panacea*.",
+  "etymology": "Greek **pan** (*all*) + **akos** (*cure*) — literally \"all-cure.\"\n\n**pan-** is a workhorse prefix worth owning: **pandemic** (all the people), **panorama** (all the view), **pantheon** (all the gods), **panoply** (a full suit of armour → a complete array).",
+  "one_line": "A supposed cure-all for every problem.",
+  "root": "pan (all) + akos (cure)",
+  "root_family": [
+    "pandemic",
+    "panorama",
+    "pantheon",
+    "panoply",
+    "pandemonium"
+  ],
+  "confusables": [
+    "panoply"
+  ],
+  "sense_tags": [
+    "cure-all",
+    "remedy",
+    "universal-solution",
+    "overclaiming"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    11
+  ]
+}

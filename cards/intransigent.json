@@ -1,0 +1,45 @@
+{
+  "word": "intransigent",
+  "pos": "adj.",
+  "pron": "in-TRAN-si-juhnt",
+  "pron_note": "Also heard with a hard \"g\": in-TRAN-si-guhnt.",
+  "means": "Refusing absolutely to compromise, negotiate, or shift position.\n\nThis isn't ordinary stubbornness about anything at all — it's specifically a **refusal to move toward the other side**. It lives in the language of talks: unions and management, coalition partners, ceasefire negotiators. *Stubborn* is personal and can even be affectionate; *intransigent* is formal, cold, and almost always an accusation — the label you pin on the party who won't deal. Note too that it describes a **stance**, not a temperament: a normally flexible person can be intransigent on one issue.",
+  "trap": null,
+  "trick_line": "**In-TRANS-igent** — no **trans**it, no **trans**action: nothing crosses over.",
+  "trick_unpack": "The *trans* sitting in the middle is the giveaway — an intransigent party won't cross over to meet you, so no deal gets transacted.",
+  "sentences": [
+    "The talks collapsed after three days, each delegation blaming the **intransigence** of the other.",
+    "He's fine about everything else, but he's **intransigent** on the dog sleeping in the bed."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **transigere** = *\"to drive through to a settlement\"* — *trans* (across) + *agere* (to drive, to do). Stick **in-** (not) on the front and you have someone who will not be driven across to a settlement.\n\nThat *agere* is a GRE workhorse: **transact**, **agent**, **agenda**, **agile**, **exigent**, **ambiguous** (literally \"driving both ways\").",
+  "one_line": "Refusing utterly to compromise or negotiate.",
+  "root": "agere, actum (to drive, to do) — via transigere (to settle)",
+  "root_family": [
+    "transact",
+    "agent",
+    "agenda",
+    "agile",
+    "exigent",
+    "ambiguous",
+    "cogent",
+    "prodigal"
+  ],
+  "confusables": [
+    "intractable",
+    "intransitive",
+    "indigent",
+    "indignant"
+  ],
+  "sense_tags": [
+    "uncompromising",
+    "stubborn",
+    "negotiation",
+    "inflexible"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    7
+  ]
+}

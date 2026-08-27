@@ -1,0 +1,45 @@
+{
+  "word": "superficial",
+  "pos": "adj.",
+  "pron": "soo-per-FISH-uhl",
+  "pron_note": null,
+  "means": "Existing at or affecting only the **surface** — and by extension, going no deeper than appearances: shallow in thought, feeling, or attention.\n\nTwo lives, one idea. Literally it is neutral and even reassuring: a **superficial wound** is the good kind, a **superficial crack** won't bring the wall down. Figuratively it is a quiet insult — a *superficial reading*, a *superficial charm*, a *superficial person*. The sting isn't that they're wrong, it's that they stopped at the surface when there was more underneath. Milder and more clinical than *shallow*, which attacks the person; *superficial* usually attacks the **effort**.",
+  "trap": "⚠️ **superficial ≠ superfluous.**\n- **superficial** = only skin-deep\n- **superfluous** = more than needed, unnecessary\n\nA superficial edit skims the page; a superfluous edit shouldn't have been made at all.",
+  "trick_line": "**super + FICIAL — it never gets past the *face*.**",
+  "trick_unpack": "Whatever it touches, it stays *above the face* of the thing and never goes in.",
+  "sentences": [
+    "His knowledge of the treaty proved **superficial**: fluent on the preamble, silent on every clause that mattered.",
+    "We had a **superficial** chat about the weather and then both pretended we had somewhere to be."
+  ],
+  "in_the_wild": "In hospitals it's a compliment, not a jab — triage notes grade burns as **superficial** (first-degree, top layer only) before *partial-thickness* and *full-thickness*. Same word, zero insult: it just means the damage stayed on the surface.",
+  "etymology": "Latin **super** (*above*) + **facies** (*face, surface*) — literally \"on the face of it.\"\n\n**facies** is a workhorse root: **face**, **surface**, **facade** (a front with nothing behind it), **facet**, **deface**, **prima facie** (*at first face* — how it looks before you look harder).",
+  "one_line": "Only surface-deep; not going into the substance.",
+  "root": "facies (face, surface)",
+  "root_family": [
+    "face",
+    "surface",
+    "facade",
+    "facet",
+    "deface",
+    "prima facie",
+    "efface"
+  ],
+  "confusables": [
+    "superfluous",
+    "supercilious",
+    "artificial",
+    "specious"
+  ],
+  "sense_tags": [
+    "shallow",
+    "surface-level",
+    "cursory",
+    "appearances",
+    "lacking-depth"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    13
+  ]
+}

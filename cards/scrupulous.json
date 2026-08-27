@@ -1,0 +1,41 @@
+{
+  "word": "scrupulous",
+  "pos": "adj.",
+  "pron": "SKROO-pyuh-luhs",
+  "pron_note": null,
+  "means": "Taking great care to do what is **right** — honest, principled, refusing the shortcut even when nobody would notice. By extension, **painstakingly exact** in carrying something out.\n\nThe moral sense is the core one. *Meticulous* and *thorough* describe a standard of workmanship; **scrupulous** describes a conscience. A meticulous accountant gets the columns to balance; a scrupulous accountant won't fudge them. When it does mean \"exact\" — *scrupulous attention to detail* — it still carries a whiff of duty, of care owed rather than care taken.",
+  "trap": "⚠️ **scrupulous ≠ scurrilous.**\n- **scrupulous** = morally careful (high praise)\n- **scurrilous** = grossly abusive, slanderous (a *scurrilous* rumour)\n\nNear-identical shape, opposite moral verdict.",
+  "trick_line": "You meet **un**scrupulous far more often than *scrupulous* — and never about a tidy desk.",
+  "trick_unpack": "The common negative is always an accusation of dishonesty, which fixes the positive as *moral* care rather than mere neatness.",
+  "sentences": [
+    "The committee's report was **scrupulous** in acknowledging every dissenting voice, even those it went on to reject.",
+    "He's annoyingly **scrupulous** about splitting the bill — he'll work out who had the extra coffee."
+  ],
+  "in_the_wild": "Consumer-protection boilerplate runs on the negative: warnings about **unscrupulous** lenders, landlords, and brokers — the word regulators reach for when they mean \"will cheat you and sleep fine.\"",
+  "etymology": "Latin **scrūpulus** = *a small sharp pebble* — the kind in your shoe. From there it became the nagging little thing you can't ignore: a **scruple**, a prick of conscience.\n\nSo a scrupulous person is one who *feels the pebble* — who can't walk on past the small wrong. That also gives **scruple**, **unscrupulous**, **scrupulosity**.",
+  "one_line": "Painstakingly careful to do what is morally right.",
+  "root": "scrūpulus (small sharp stone; hence a nagging doubt)",
+  "root_family": [
+    "scruple",
+    "unscrupulous",
+    "scrupulosity",
+    "scrupulously"
+  ],
+  "confusables": [
+    "scurrilous",
+    "scrofulous",
+    "unscrupulous"
+  ],
+  "sense_tags": [
+    "conscientious",
+    "principled",
+    "thorough",
+    "moral-care",
+    "exacting"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    4
+  ]
+}

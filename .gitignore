@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Run artifacts - regenerable, and noisy in diffs
+failures.log
+.batch_id
+_probe.json
+cards/*.tmp
+
+# Rendered output is rebuilt from cards/ by render.py and build_app.py.
+# flashcards.html is deliberately NOT ignored - it is the deliverable, and
+# committing it is what lets GitHub Pages serve the app.
+out/*.md
+out/all.md
+
+# Personal study progress. Difficulty marks live in browser localStorage and are
+# exported here; they are yours, not part of the project.
+difficulty.json
+
+# Source spreadsheet - GregMat's paid product, kept out of version control.
+*.xlsx

@@ -1,0 +1,42 @@
+{
+  "word": "exculpate",
+  "pos": "v.",
+  "pron": "EKS-kul-payt",
+  "pron_note": "Also heard as eks-KUL-payt; both are accepted.",
+  "means": "To **clear someone of blame or guilt** — to show they weren't at fault.\n\nThis is a word of *evidence*, not of mercy. **Forgive** leaves the guilt in place and waives the punishment; **exculpate** removes the guilt itself, usually because a document, an alibi, or a witness proves the person didn't do it. It stops short of praise: to be exculpated is to be shown not-blameworthy, whereas to be **vindicated** is to be shown *right*. Register is formal and heavily legal — lawyers, inquiries, board reports. Its exact opposite, **inculpate**, is the word for evidence that points the finger back at you.",
+  "trap": "⚠️ **exculpate ≠ expurgate.** *Exculpate* frees a **person** from blame; *expurgate* strips the dirty bits out of a **text**. Same *ex-* opening, entirely different object.",
+  "trick_line": "**Ex**culpate takes the blame **ex**it; **in**culpate lets it **in**.",
+  "trick_unpack": "The prefix does all the work — the shared middle *culp* is the blame, and *ex-* / *in-* simply point it out of you or into you.",
+  "sentences": [
+    "The inquiry **exculpated** the engineers entirely, laying the failure at the door of the contractor who had signed off on the welds.",
+    "Don't try to **exculpate** yourself — I saw you eat the last slice."
+  ],
+  "in_the_wild": "**\"Exculpatory evidence\"** is the phrase every courtroom drama and true-crime podcast runs on: in the US, prosecutors are legally obliged to hand the defence anything exculpatory — evidence that clears the accused.",
+  "etymology": "Latin **ex-** (*out of*) + **culpa** (*fault, blame*).\n\n*Culpa* is a high-yield root: **culpable** (deserving blame), **culprit**, **inculpate**, **exculpatory**, and the confession **mea culpa** — literally *\"my fault.\"*",
+  "one_line": "To clear someone of blame, usually by evidence.",
+  "root": "culpa (fault, blame)",
+  "root_family": [
+    "culpable",
+    "culprit",
+    "inculpate",
+    "exculpatory",
+    "mea culpa"
+  ],
+  "confusables": [
+    "expurgate",
+    "explicate",
+    "inculpate",
+    "exonerate"
+  ],
+  "sense_tags": [
+    "clearing-blame",
+    "innocence",
+    "legal",
+    "absolution"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    10
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "dearth",
+  "pos": "n.",
+  "pron": "DERTH",
+  "pron_note": "Rhymes with earth, not with dear — one syllable.",
+  "means": "A **scarcity** of something needed or wanted — too little of it to go round.\n\nNot zero: a dearth is a *shortage*, where \"absence\" or \"void\" would mean none at all. It is formal, faintly literary, and almost always followed by *of* + an abstract noun — a dearth of evidence, of talent, of imagination. It also carries an implied judgement: the speaker thinks there *ought* to be more. **Lack** is flat and neutral; **dearth** editorialises.",
+  "trap": null,
+  "trick_line": "**Dear**th — when something is scarce, it becomes **dear** (costly).",
+  "trick_unpack": "The word is literally *dear* + *-th*, the same suffix that turns *warm* into *warmth*, so a dearth is a state of pricey scarcity, not outright nothing.",
+  "sentences": [
+    "The commission's report cited a **dearth** of reliable data on long-term outcomes.",
+    "There's a real **dearth** of decent coffee round here — it's petrol-station stuff or nothing."
+  ],
+  "in_the_wild": "It's a headline-writer's staple: \"a dearth of affordable housing,\" \"a dearth of qualified nurses.\" If you've read an op-ed complaining that there isn't enough of something, you've met it.",
+  "etymology": "Old English **dēore** = *\"costly, precious\"* + the suffix **-th**, which turns an adjective into the noun for its state: *warm → warmth, long → length, true → truth, strong → strength*. A dearth was originally a time when grain was **dear** — scarce, so expensive. The price meaning faded; the scarcity stayed.",
+  "one_line": "A shortage of something needed — scarcity, not total absence.",
+  "root": "dēore (Old English: costly, precious) + -th",
+  "root_family": [
+    "dear",
+    "dearly",
+    "endear"
+  ],
+  "confusables": [
+    "death",
+    "earth"
+  ],
+  "sense_tags": [
+    "scarcity",
+    "shortage",
+    "insufficiency",
+    "lack"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    7
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "lax",
+  "pos": "adj.",
+  "pron": "LAKS",
+  "pron_note": null,
+  "means": "Not strict enough; careless about rules, standards, or duties. Also, physically, **slack or loose** (a lax rope, lax muscles).\n\nThe word carries a quiet accusation. *Relaxed* is a compliment; **lax** is a complaint — it says the looseness is a **failure of duty**, that someone should have been holding the line and wasn't. It attaches to things that are supposed to be tight: lax security, lax enforcement, lax hygiene, lax discipline. Nobody is ever praised for being lax.",
+  "trap": null,
+  "trick_line": "**lax** sounds exactly like **lacks** — a lax guard *lacks* vigilance.",
+  "trick_unpack": "The homophone builds the criticism in: lax isn't just loose, it's loose because something required is missing.",
+  "sentences": [
+    "The inquiry found the regulator had been **lax** in enforcing rules it had itself written.",
+    "Their gym is so **lax** about memberships that I haven't scanned a card in months."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **laxus** = *\"loose, slack, wide.\"* The same root loosens a whole family: **relax** (loosen again), **release**, **laxity**, and **laxative** — a drug that literally loosens the bowels.\n\nSo if you can remember what a laxative does, you know what lax means: something that should be tight has been let go.",
+  "one_line": "Slack about rules or duties; carelessly not strict.",
+  "root": "laxus (loose, slack)",
+  "root_family": [
+    "relax",
+    "release",
+    "laxity",
+    "laxative"
+  ],
+  "confusables": [
+    "lacks",
+    "slack",
+    "laxity"
+  ],
+  "sense_tags": [
+    "negligent",
+    "permissive",
+    "not-strict",
+    "slack",
+    "careless"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

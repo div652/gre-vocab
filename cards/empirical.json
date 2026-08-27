@@ -1,0 +1,43 @@
+{
+  "word": "empirical",
+  "pos": "adj.",
+  "pron": "em-PEER-i-kuhl",
+  "pron_note": "Never stressed on the first syllable — not EM-pirical.",
+  "means": "Based on **observation, measurement, or experiment** rather than on theory, doctrine, or pure reasoning.\n\nThe word labels the *source* of a claim, not its truth. \"Empirical\" doesn't mean *correct* — it means *this came from going and looking*. Its opposite is **theoretical** or **a priori**, never *false*. In academic and professional writing it carries quiet prestige: **empirical evidence** is data you collected, as against a hunch, a model, or an anecdote. But the older flavour still surfaces on the GRE — an *empiric* was once a physician who worked by trial and error with no theory at all, so the word can shade toward crude, atheoretical rule-of-thumb.",
+  "trap": null,
+  "trick_line": "**Empirical hides a *pirate*** — and it's the same root. Pirates don't theorise; they go out and try it.",
+  "trick_unpack": "Both words come from Greek *peira*, \"a trial, an attempt\" — empirical knowledge is what you get by attempting the thing, not by reasoning about it in a chair.",
+  "sentences": [
+    "The elegance of the model was never in doubt; what it lacked was **empirical** support.",
+    "Stop arguing about which headline is better — just run the test and get some **empirical** data."
+  ],
+  "in_the_wild": "Every A/B test at work is empiricism in miniature: nobody's opinion about the button colour wins, the click data does.",
+  "etymology": "Greek **empeiria** = *\"experience,\"* from **peira** = *\"a trial, an attempt.\"*\n\nThat root pays out widely: **experience** and **experiment** (things you try), **expert** (someone who has tried it often), **peril** (a trial that might kill you) — and **pirate**, from *peiratēs*, \"one who makes attempts on\" ships.",
+  "one_line": "Based on observation and experiment, not on theory.",
+  "root": "peira (trial, attempt) → Greek empeiria (experience)",
+  "root_family": [
+    "experience",
+    "experiment",
+    "expert",
+    "peril",
+    "pirate",
+    "empiricism"
+  ],
+  "confusables": [
+    "imperial",
+    "empyrean",
+    "empiric"
+  ],
+  "sense_tags": [
+    "observation",
+    "evidence",
+    "experiment",
+    "experience",
+    "science"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    6
+  ]
+}

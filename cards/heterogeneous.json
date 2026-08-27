@@ -1,0 +1,48 @@
+{
+  "word": "heterogeneous",
+  "pos": "adj.",
+  "pron": "HET-uh-ruh-JEE-nee-uhs",
+  "pron_note": "Five syllables — the \"-ge-ne-ous\" is the bit people drop. A shorter variant *heterogenous* (huh-tuh-ROJ-uh-nuhs) exists but is safest avoided in writing.",
+  "means": "Made up of **parts that are unlike each other** — mixed in kind, not uniform. The opposite of *homogeneous*.\n\nThis is a word of **measurement, not celebration**. *Diverse* is warm and approving; *heterogeneous* is what a chemist, statistician or economist says while describing composition, and it carries no praise at all. In fact it often flags a *problem*: heterogeneous data won't pool, heterogeneous trial results mean the studies disagree, a heterogeneous class is hard to teach at one level.\n\nNote it describes the **whole**, never the parts — a population is heterogeneous; a single person in it is not.",
+  "trap": "⚠️ **heterogeneous ≠ heterodox.** Both start *hetero-*, both are GRE regulars.\n- **heterogeneous** = of *mixed kinds* (a composition)\n- **heterodox** = holding *unorthodox opinions* (a belief)\n\nA heterodox economist may study a heterogeneous market.",
+  "trick_line": "**Hetero**sexual = attracted to the **other** kind. **Heterogeneous** = made of **other** kinds — plural, unmixed, sitting there in visible layers.",
+  "trick_unpack": "You already know *hetero-* means \"other, different\" from a word you never have to look up, and *-geneous* is the *genus/genre* bit — \"kind.\"",
+  "sentences": [
+    "The committee's findings were undermined by the **heterogeneous** quality of the evidence: three rigorous trials, and eleven that were little more than anecdote.",
+    "Our team is pretty **heterogeneous** — two designers, a lawyer, and a guy who used to fly helicopters."
+  ],
+  "in_the_wild": "Every milk carton that says **homogenized**. Raw milk is heterogeneous — the cream floats to the top in a separate layer — so the dairy blasts it through fine nozzles until the fat is evenly dispersed and it becomes *homogeneous*. The word on the carton exists precisely because the default state was the other one.",
+  "etymology": "Greek **heteros** = *\"other, different\"* + **genos** = *\"kind, race, family.\"*\n\n**genos** is a goldmine: **genus, genre, generic, genesis, gender, genealogy, indigenous** — all \"kind/origin.\" And **heteros** pairs off against **homos** (*\"same\"*) across a whole set of GRE words: *heterogeneous / homogeneous, heterodox / orthodox, heterodyne / homonym*.\n\nLearn the two prefixes and you get both halves of every pair for free.",
+  "one_line": "Made of unlike parts; mixed in kind, not uniform.",
+  "root": "heteros (other) + genos (kind)",
+  "root_family": [
+    "heterodox",
+    "heterodoxy",
+    "homogeneous",
+    "genus",
+    "genre",
+    "generic",
+    "genesis",
+    "genealogy",
+    "indigenous",
+    "gender"
+  ],
+  "confusables": [
+    "heterodox",
+    "homogeneous",
+    "heterogenous",
+    "homogenous"
+  ],
+  "sense_tags": [
+    "mixed",
+    "varied",
+    "non-uniform",
+    "composition",
+    "diverse"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    5
+  ]
+}

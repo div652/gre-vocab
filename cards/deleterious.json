@@ -1,0 +1,36 @@
+{
+  "word": "deleterious",
+  "pos": "adj.",
+  "pron": "del-uh-TEER-ee-uhs",
+  "pron_note": null,
+  "means": "Harmful; causing damage, especially to health or wellbeing.\n\nThis is the lab-coat word for harm. *Destructive* is loud and *ruinous* is final, but **deleterious** harm is quiet and cumulative — the damage sleep debt does to your heart, the damage a policy does to a school system over a decade. It also carries an air of clinical detachment: a doctor, a scientist, or a report says \"deleterious effects.\" A person shouting at you does not.",
+  "trap": "⚠️ **deleterious ≠ delirious.** *Deleterious* = harmful. *Delirious* = wildly confused or wildly excited. Similar mouthfeel, unrelated meanings — a fever can leave you delirious, and the fever itself is deleterious.",
+  "trick_line": "**Delete**rious doesn't *erase* you — it **erodes** you.",
+  "trick_unpack": "The lookalike \"delete\" gets you to *harm*, and the correction — erode, not erase — gets you to the slow, accumulating kind of harm the word actually names.",
+  "sentences": [
+    "Prolonged exposure to low-level noise has a measurably **deleterious** effect on children's reading comprehension.",
+    "Three coffees after 8pm is a **deleterious** habit and I'm choosing not to think about it."
+  ],
+  "in_the_wild": "In genetics, every mutation gets sorted into one of three buckets: beneficial, neutral, or **deleterious**. It's the standard technical label — which is exactly why the word sounds like a paper rather than an insult.",
+  "etymology": "Greek **dēleisthai** = *\"to hurt, injure\"* → *dēlētērios*, \"noxious.\"\n\n🚫 **Nothing to do with *delete*.** That's Latin *delere*, \"to blot out\" (*deletion, indelible*). The resemblance is pure coincidence — useful as a hook, false as history.",
+  "one_line": "Harmful — quietly, cumulatively, in the clinical sense.",
+  "root": "dēleisthai (Greek: to hurt, injure)",
+  "root_family": [],
+  "confusables": [
+    "delirious",
+    "delete",
+    "deletion"
+  ],
+  "sense_tags": [
+    "harmful",
+    "damaging",
+    "health",
+    "noxious",
+    "detrimental"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    9
+  ]
+}

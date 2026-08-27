@@ -1,0 +1,43 @@
+{
+  "word": "perfidy",
+  "pos": "n.",
+  "pron": "PER-fi-dee",
+  "pron_note": "Adjective form: perfidious — per-FID-ee-uhs, stress shifts.",
+  "means": "Deliberate **breach of faith** — treachery by someone who was trusted, and who traded on that trust.\n\nYou cannot be perfidious to a stranger. The word requires a bond first — an ally, a spouse, a treaty, an oath — and it condemns the *violation of the bond*, not merely the lie. Next to it, *dishonesty* is petty and *deceit* is technique; perfidy is a moral verdict, delivered in a raised register. It belongs to statesmen, historians and courtroom rhetoric, and it carries real contempt: a lawyer says *perfidy* when *betrayal* isn't damning enough. In the laws of war it's a defined crime — feigning surrender in order to shoot.",
+  "trap": null,
+  "trick_line": "**Perfidy is fidelity with a *per-* bolted on** — the faith has to exist before it can be broken.",
+  "trick_unpack": "Spot the **fid** buried in the middle and you get both the meaning and the condition: no prior trust, no perfidy.",
+  "sentences": [
+    "The treaty was signed in the morning and the border crossed by night — an act of **perfidy** the smaller nation never forgave.",
+    "He smiled, took the credit for her slides, and called it teamwork; the **perfidy** was breathtaking."
+  ],
+  "in_the_wild": "**\"Perfidious Albion\"** — the centuries-old French sneer at England, meaning *the island that signs treaties and breaks them*. Still trotted out in European newspapers whenever Britain reneges on something.",
+  "etymology": "Latin **per-** (*through, to destruction*) + **fidēs** (*faith, trust*) — literally *faith wrecked*.\n\nThat root is a goldmine: **fidelity**, **infidel**, **confide**, **bona fide**, **affidavit**, **fiancé** (one pledged), and the Marines' **Semper Fi**. Even the classic dog's name **Fido** is Latin for *\"I trust.\"*",
+  "one_line": "Calculated betrayal by someone who was trusted.",
+  "root": "fidēs (faith, trust)",
+  "root_family": [
+    "fidelity",
+    "infidel",
+    "confide",
+    "bona fide",
+    "affidavit",
+    "fiancé",
+    "diffident",
+    "perfidious"
+  ],
+  "confusables": [
+    "pernicious",
+    "perfunctory"
+  ],
+  "sense_tags": [
+    "betrayal",
+    "treachery",
+    "broken-faith",
+    "disloyalty"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    8
+  ]
+}

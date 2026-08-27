@@ -1,0 +1,40 @@
+{
+  "word": "enervate",
+  "pos": "v.",
+  "pron": "EN-er-vayt",
+  "pron_note": "Adjective form: **enervated** / **enervating**.",
+  "means": "To **drain of energy, strength, or vitality** — to leave something or someone limp and incapable of effort.\n\nIts trap is optical: the word looks like *energize* and means the exact opposite. Note also what kind of weakening it describes. A punch doesn't enervate you; **August heat, chronic illness, or six months of committee meetings** do. It's a slow sapping of force, usually by conditions rather than by a person, and it's a formal, written word — you'd write that a bureaucracy *enervates* a workforce, but you'd say the meeting *wiped you out*.",
+  "trap": "⚠️ **enervate ≠ innervate.**\n- **e**nervate = *take the nerve out* — weaken\n- **in**nervate = *put nerves in* — supply an organ or muscle with nerves (medical)\n\nOne prefix apart, near-opposite in effect.",
+  "trick_line": "It opens like **energy** — but the **e-** is **ex-**, so the energy goes *out*.",
+  "trick_unpack": "Same first four letters as *energize*, opposite direction of travel, and the draining is gradual rather than sudden.",
+  "sentences": [
+    "The humidity of the delta enervated the garrison long before any enemy reached it.",
+    "Three hours of onboarding slides left the whole team enervated and useless for the rest of the day."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **ex-** (*out*) + **nervus** (*sinew, tendon*) — literally *\"to cut the sinews out.\"* To a Roman, *nervus* meant sinew before it meant nerve, so enervating an enemy meant hamstringing him: still standing, no longer able to push.\n\nSame root: **nerve, nervous, unnerve, innervate**.",
+  "one_line": "To drain of energy and vitality; to weaken gradually.",
+  "root": "nervus (sinew, tendon)",
+  "root_family": [
+    "nerve",
+    "nervous",
+    "unnerve",
+    "innervate"
+  ],
+  "confusables": [
+    "innervate",
+    "energize",
+    "invigorate"
+  ],
+  "sense_tags": [
+    "weakening",
+    "fatigue",
+    "loss-of-vitality",
+    "debilitation"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    4
+  ]
+}

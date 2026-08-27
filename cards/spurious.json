@@ -1,0 +1,36 @@
+{
+  "word": "spurious",
+  "pos": "adj.",
+  "pron": "SPYUUR-ee-uhs",
+  "pron_note": "The first syllable is \"spyoo\", not \"spur\" — never SPUR-ee-uhs.",
+  "means": "Not genuine; lacking any legitimate basis or origin. A **spurious** document is a forgery, a **spurious** claim rests on nothing, a **spurious** correlation is a pattern that isn't really there.\n\nIt's the vocabulary of dismissal. Calling an argument *false* engages with it; calling it **spurious** refuses to — you're saying it never had standing in the first place. And unlike *fraudulent* or *phony*, it doesn't require a liar: statistics throw up spurious results with nobody deceiving anyone. Cool, formal, faintly contemptuous — the word of judges, editors and scientists.",
+  "trap": "⚠️ **spurious ≠ specious.**\n- **spurious** = *not genuine* — no real basis, whether or not it looks convincing\n- **specious** = *deceptively convincing* — it does look good, and that's the problem\n\nA specious argument seduces you. A spurious one just doesn't hold up.",
+  "trick_line": "**Spur**ious claims deserve to be **spur**ned.",
+  "trick_unpack": "Same opening four letters, and it captures the tone — you don't rebut something spurious, you brush it aside.",
+  "sentences": [
+    "The court dismissed the petition as **spurious**, finding no evidence that the signatory had ever existed.",
+    "He gave some **spurious** excuse about traffic, but we'd all seen his car in the lot since nine."
+  ],
+  "in_the_wild": "**Spurious correlation** is the standard term in stats and data science — and Tyler Vigen's *Spurious Correlations* charts (US cheese consumption vs. deaths by bedsheet entanglement) made it a running internet joke.",
+  "etymology": "Latin **spurius** = *\"illegitimate, of unknown father.\"* A spurious child had no acknowledged parentage — and that's still exactly the accusation: a spurious quote, gospel or manuscript is one whose claimed origin is a lie.",
+  "one_line": "Not genuine; resting on no legitimate basis at all.",
+  "root": "spurius (illegitimate, of unknown father)",
+  "root_family": [],
+  "confusables": [
+    "specious",
+    "spurn",
+    "sporadic"
+  ],
+  "sense_tags": [
+    "false",
+    "illegitimate",
+    "baseless",
+    "counterfeit",
+    "deceptive"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    6
+  ]
+}

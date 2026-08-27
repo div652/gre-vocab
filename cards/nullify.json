@@ -1,0 +1,41 @@
+{
+  "word": "nullify",
+  "pos": "v.",
+  "pron": "NUL-uh-fye",
+  "pron_note": null,
+  "means": "To make something **legally void** — to strip it of force so it counts as if it never held any. Also: to **cancel out completely**, so the net effect is zero.\n\nWeaker words let something survive in reduced form: *undermine* leaves it standing but shaky, *reduce* leaves a remainder. **Nullify leaves nothing.** It carries the flavour of an authority striking a thing off the record — courts, referees, legislatures — or of two forces meeting and cancelling exactly. Note the arithmetic edge: a raise **nullified** by inflation isn't a smaller raise, it's no raise.",
+  "trap": null,
+  "trick_line": "**null + -ify** — not *weakened*, **zeroed**.",
+  "trick_unpack": "The word wears its meaning on its face: whatever gets nullified is set back to null, the way a form field goes blank rather than merely small.",
+  "sentences": [
+    "The Supreme Court **nullified** the statute, holding that the legislature had never possessed the power to pass it.",
+    "Two weeks of dieting, **nullified** by one wedding buffet."
+  ],
+  "in_the_wild": "Football commentary lives on this word: *\"the goal is nullified — the flag is up for offside.\"* Not a goal that counted less; a goal wiped off the scoreboard entirely.",
+  "etymology": "Latin **nullus** = *\"not any\"* (from *ne* + *ullus*, \"not even one\") + **-ficāre**, *\"to make\"* — literally *make-it-none*.\n\nSame root gives you **null**, **nullity**, **nil**, and — hiding behind a prefix — **annul** (*ad-* + *nullus*), which is exactly what a court does to a marriage: not end it, but declare it never legally existed.",
+  "one_line": "To make void; to cancel out completely.",
+  "root": "nullus (not any, none) + facere (to make)",
+  "root_family": [
+    "null",
+    "nullity",
+    "annul",
+    "nil",
+    "none"
+  ],
+  "confusables": [
+    "annul",
+    "nullity"
+  ],
+  "sense_tags": [
+    "cancel",
+    "invalidate",
+    "legal-void",
+    "counteract",
+    "negate"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    8
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "exhaustive",
+  "pos": "adj.",
+  "pron": "ig-ZAWS-tiv",
+  "pron_note": null,
+  "means": "Covering **every single case**, leaving nothing out.\n\nPut it on a scale: *careful* < *thorough* < **exhaustive**. Thorough means you did the job properly; exhaustive means there is literally nothing left to check — every file opened, every name on the list, every possibility eliminated. It describes **coverage, not effort**, and it is almost always praise: an exhaustive study, an exhaustive search, an exhaustive account. The faint shadow it can cast is excess — an exhaustive answer to a simple question is more than anyone wanted.",
+  "trap": "⚠️ **exhaustive ≠ exhausting.**\n- **exhaustive** = nothing was left out\n- **exhausting** = it wore you out\n\nAn exhaustive review may well be exhausting, but the words are making completely different claims.",
+  "trick_line": "**An exhaustive list is one nobody can add to.**",
+  "trick_unpack": "The test isn't how hard you worked — it's whether anything is left over.",
+  "sentences": [
+    "The commission's **exhaustive** inquiry ran to nine volumes and interviewed every surviving witness.",
+    "I did an **exhaustive** search of the flat and the keys are just gone."
+  ],
+  "in_the_wild": "Almost every job description ends with the same line: *\\\"This list of responsibilities is not **exhaustive**.\\\"* — HR code for *and anything else we think of later*.",
+  "etymology": "Latin **ex-** (*out*) + **haurīre** (*to draw water*) — to bail a well until it's dry. That's the whole word: an exhaustive search drains the subject dry; an **exhausted** person has been drained the same way; something **inexhaustible** can't be emptied no matter how much you take.",
+  "one_line": "Complete to the last case; nothing left out.",
+  "root": "haurīre (to draw water, drain)",
+  "root_family": [
+    "exhaust",
+    "exhaustion",
+    "inexhaustible"
+  ],
+  "confusables": [
+    "exhausting",
+    "exhaustible"
+  ],
+  "sense_tags": [
+    "thorough",
+    "complete",
+    "comprehensive",
+    "systematic"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    13
+  ]
+}

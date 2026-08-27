@@ -1,0 +1,40 @@
+{
+  "word": "overt",
+  "pos": "adj.",
+  "pron": "oh-VURT",
+  "pron_note": "OH-vurt (stress on the first syllable) is also standard, especially in the legal phrase \"an overt act.\"",
+  "means": "Done or shown **openly**, in plain view, with no attempt to disguise it.\n\nThe word is almost never wasted on things nobody would hide. You call something *overt* precisely because concealment was the expected option — **overt hostility**, **overt racism**, **overt surveillance**, an **overt act** of war. So it carries a faint charge: either the person has stopped bothering to pretend, or the openness is itself the point (a show of force meant to be seen). Neutral cousins like *open* or *obvious* have none of that undertone.",
+  "trap": "⚠️ **overt vs. covert** — one letter, opposite meanings.\n- **overt** = out in the open\n- **covert** = hidden, concealed\n\nThey are *not* a prefix pair. **Covert** comes from *cover*; **overt** comes from *open*. Unrelated roots that happened to collide.",
+  "trick_line": "**O**vert = **o**pen. **C**overt = **c**overed.",
+  "trick_unpack": "The first letter of each word is the first letter of its meaning, and *overt* is the one where the cover has been deliberately dropped.",
+  "sentences": [
+    "The tribunal held that stockpiling weapons on the border constituted an **overt** act of aggression, not a defensive precaution.",
+    "He didn't even try to hide it — that was **overt** favouritism and everyone in the room saw it."
+  ],
+  "in_the_wild": "Every spy film — *Bourne*, *Bond*, *Mission: Impossible* — runs on **covert** ops. *Overt* is the same job done where everyone can watch: the aircraft carrier parked off your coast rather than the man in your hotel.",
+  "etymology": "Old French **overt**, past participle of *ovrir* \"to open\" (modern French *ouvert*), from Latin **aperīre** = *to open*.\n\nSame root: **aperture** (an opening), **overture** (the piece that opens the opera; to *make overtures* is to open negotiations), **aperitif** (the drink that opens the meal).",
+  "one_line": "Done openly, undisguised — the opposite of covert.",
+  "root": "aperīre (to open)",
+  "root_family": [
+    "aperture",
+    "overture",
+    "aperitif"
+  ],
+  "confusables": [
+    "covert",
+    "avert",
+    "overtly"
+  ],
+  "sense_tags": [
+    "open",
+    "undisguised",
+    "visible",
+    "unconcealed",
+    "public"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    13
+  ]
+}

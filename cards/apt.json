@@ -1,0 +1,44 @@
+{
+  "word": "apt",
+  "pos": "adj.",
+  "pron": "APT",
+  "pron_note": null,
+  "means": "**1.** Fitting, exactly suited to the occasion — *an apt comparison*.\n**2.** Inclined or likely to — *apt to overreact*.\n**3.** Quick to learn — *an apt pupil*.\n\nAll three run off one idea: a good **fit**. Sense 2 is where the GRE plays. *Apt to* reports a tendency that follows from what someone is actually like, and it is neutral — *she's apt to work straight through the night*. *Liable to* and *prone to* both tilt toward the unwelcome; *apt to* carries no such verdict. Sense 1 is faintly formal, the word of a critic praising a well-chosen phrase.",
+  "trap": "⚠️ **apt ≠ adept.** *Apt* = well-suited, or quick to **learn** (potential). *Adept* = already highly **skilled** (achievement). An apt pupil may still botch the operation; an adept surgeon won't.",
+  "trick_line": "**Adapt** = make it fit. **Apt** = it already fits.",
+  "trick_unpack": "An apt remark fits the moment, an apt pupil fits the task of learning, and someone apt to be late has a tendency that fits their character.",
+  "sentences": [
+    "The eulogy closed with an **apt** line from Auden, so well chosen that the poem might have been written for him.",
+    "Don't put him on the early shift — he's **apt** to sleep straight through the alarm."
+  ],
+  "in_the_wild": "Stephen King's novella **Apt Pupil** (filmed in 1998 with Ian McKellen) — the title is sense 3: a schoolboy who turns out to be a disturbingly fast learner.",
+  "etymology": "Latin **aptus** = *\"fastened, fitted\"* (from *apere*, to fasten). The family is worth banking: **aptitude** (a natural fit for a task), **adapt** (make it fit), **inept** (*in-* + *aptus* = not fitted → hopeless at it), and **attitude**, which reached English via Italian *attitudine* from the same *aptitudo* — originally the posture a body was fitted into.\n\n🚫 **Not *adept*.** That's Latin *adipisci*, \"to attain\" — an *adeptus* was an alchemist who had already attained the secret. Similar sound, different root, different claim.",
+  "one_line": "Fitting; or inclined to; or quick to learn.",
+  "root": "aptus (fitted, fastened)",
+  "root_family": [
+    "aptitude",
+    "adapt",
+    "adaptation",
+    "inept",
+    "attitude",
+    "aptly"
+  ],
+  "confusables": [
+    "adept",
+    "inept",
+    "adapt",
+    "opt"
+  ],
+  "sense_tags": [
+    "fitting",
+    "suitable",
+    "inclined",
+    "tendency",
+    "quick-learning"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    15
+  ]
+}

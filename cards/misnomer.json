@@ -1,0 +1,40 @@
+{
+  "word": "misnomer",
+  "pos": "n.",
+  "pron": "mis-NOH-mer",
+  "pron_note": null,
+  "means": "A **name or term that is wrong or misleading** for the thing it's attached to — *\"jellyfish\"* is a misnomer, since it's neither jelly nor fish.\n\nThe word polices **labels, not facts**. A misnomer says the *name* is inaccurate; it makes no claim that people are fooled or that anything important is at stake. Tone is dry and mildly pedantic — the voice of someone correcting a caption, not exposing a lie. It carries no accusation of dishonesty: most misnomers are historical accidents nobody bothered to fix.",
+  "trap": "⚠️ **misnomer ≠ misconception.**\n- **misnomer** = the **name** is wrong (*\"peanut\" is a misnomer — it's a legume*)\n- **misconception** = the **belief** is wrong (*that peanuts are nuts is a misconception*)\n\n\"It's a misnomer that goldfish have three-second memories\" is the classic misuse — that's a misconception. No name is being challenged.",
+  "trick_line": "**mis-NOM-er — a mis-*nom*. *Nom* is French for *name*, as in *nom de plume*.**",
+  "trick_unpack": "Hear the *nom* buried in the middle and the word tells you it's the label that's wrong, not the idea.",
+  "sentences": [
+    "\"Civil war\" is something of a **misnomer** for a conflict fought largely by foreign mercenaries.",
+    "Calling that a starter salad is a **misnomer** — it's three olives and a leaf.\n"
+  ],
+  "in_the_wild": "Voltaire on the **Holy Roman Empire**: *\"neither holy, nor Roman, nor an empire.\"* Three misnomers in one name.",
+  "etymology": "Old French **mesnomer** = *mes-* (\"wrongly\") + **nommer** (\"to name\"), from Latin **nomen**, *name*.\n\nThat root is everywhere on the GRE: **nominate** (put a name forward), **nominal** (in name only), **nomenclature** (a naming system), **denomination**, **noun**, and **ignominy** (*ig-* + *nomen* — literally *namelessness*, i.e. disgrace).",
+  "one_line": "A name that's flatly wrong for the thing it names.",
+  "root": "nomen (name)",
+  "root_family": [
+    "nominate",
+    "nominal",
+    "nomenclature",
+    "denomination",
+    "ignominy",
+    "noun"
+  ],
+  "confusables": [
+    "misconception"
+  ],
+  "sense_tags": [
+    "naming",
+    "inaccuracy",
+    "labels",
+    "terminology"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    1
+  ]
+}

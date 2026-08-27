@@ -1,0 +1,46 @@
+{
+  "word": "invidious",
+  "pos": "adj.",
+  "pron": "in-VID-ee-uhs",
+  "pron_note": null,
+  "means": "Likely to **provoke resentment, envy or ill will** — and unfair in doing so. An *invidious comparison* is one that unjustly ranks people; an *invidious distinction* singles someone out for no defensible reason; an *invidious position* is one where whatever you choose, somebody ends up aggrieved.\n\nThe word points outward, at the **effect on other people**, not at the speaker's feelings. You are not invidious because you envy someone — you are invidious because your act breeds bad blood. It's a cool, formal word of criticism, favoured by judges, editorials and academics: it says *unfair and needlessly divisive* without ever raising its voice.",
+  "trap": "⚠️ **invidious ≠ insidious.**\n- **invidious** = causing resentment; unfair (Latin *videre*, to see — the envious look)\n- **insidious** = creeping, sneakily harmful (Latin *sedere*, to sit — an ambush lying in wait)\n\nAn invidious rule offends openly; an insidious disease works quietly.",
+  "trick_line": "**Invidious doesn't *feel* envy — it *causes* it.**",
+  "trick_unpack": "The envious person is the victim; the invidious act is what put the sour taste in their mouth.",
+  "sentences": [
+    "Ranking colleagues by a single crude metric draws **invidious** distinctions between people doing quite different jobs.",
+    "Don't ask me to pick a favourite nephew — that's an **invidious** question and I'm not falling for it."
+  ],
+  "in_the_wild": "**NVIDIA** took its name from Latin *invidia* — the founders wanted a brand rivals would envy, and the logo came out **green**. Same root, and the green-with-envy joke is baked in.",
+  "etymology": "Latin **invidere** = *\"to look against, to look at with the evil eye\"* → **invidia**, *envy*. From **in-** (against) + **vidēre** (to see) — the same *vidēre* behind **video, evident, vision, provide, visa**. And *invidia*, softened through French, is simply our word **envy**.",
+  "one_line": "Unfair in a way that stirs up resentment or envy.",
+  "root": "vidēre (to see); invidia (envy)",
+  "root_family": [
+    "envy",
+    "envious",
+    "video",
+    "evident",
+    "vision",
+    "provide",
+    "visa",
+    "prudent"
+  ],
+  "confusables": [
+    "insidious",
+    "envious",
+    "odious",
+    "iniquitous"
+  ],
+  "sense_tags": [
+    "unfair",
+    "resentment-provoking",
+    "discriminatory",
+    "envy",
+    "offensive"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    13
+  ]
+}

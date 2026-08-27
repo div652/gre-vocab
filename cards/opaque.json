@@ -1,0 +1,38 @@
+{
+  "word": "opaque",
+  "pos": "adj.",
+  "pron": "oh-PAYK",
+  "pron_note": "Two syllables, and the -que is just a hard \"k\". The noun shifts both stress and vowel: opacity = oh-PASS-uh-tee.",
+  "means": "**Literally:** not letting light through — frosted glass, thick paint, milk.\n\n**On the GRE, almost always figurative:** impossible to see into or understand. Opaque prose, an opaque ruling, an opaque procurement process.\n\nThe word implies a **total barrier, not a dim one**. *Obscure* means hard to make out — you squint and eventually get there. *Opaque* means the surface gives you nothing back. And because *transparency* is the civic virtue, calling an institution opaque is close to an accusation: the blockage looks chosen, not accidental.",
+  "trap": "⚠️ **opaque ≠ obtuse.** *Opaque* is the thing that can't be seen into; *obtuse* is the person who can't see. An opaque explanation defeats everyone; an obtuse listener misses a clear one.",
+  "trick_line": "**op-*aque* = op-*packed*** — packed so solid that no light, and no meaning, gets through.",
+  "trick_unpack": "The \"packed\" sound carries the key nuance: the block is complete, so nothing leaks out to help you.",
+  "sentences": [
+    "The committee's funding criteria remained **opaque**, and applicants were left to infer the rules from who had been rejected.",
+    "Sorry, I read your text four times and it's still completely **opaque** to me — what time are we meeting?"
+  ],
+  "in_the_wild": "The **opacity** slider in Instagram, Photoshop or Figma: drag it to 100% and the layer is opaque — you can't see a thing behind it.",
+  "etymology": null,
+  "one_line": "Blocking light; or impossible to see into or understand.",
+  "root": "opacus (shaded, darkened)",
+  "root_family": [
+    "opacity",
+    "opacify"
+  ],
+  "confusables": [
+    "obtuse",
+    "abstruse",
+    "obscure"
+  ],
+  "sense_tags": [
+    "hard-to-understand",
+    "impenetrable",
+    "concealment",
+    "unclear"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    4
+  ]
+}

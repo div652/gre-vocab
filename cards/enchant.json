@@ -1,0 +1,40 @@
+{
+  "word": "enchant",
+  "pos": "v.",
+  "pron": "en-CHANT",
+  "pron_note": "British: en-CHAHNT.",
+  "means": "To put under a **magic spell** — and, in everyday use, to **delight someone so completely that they seem spellbound**.\n\nBoth senses run at once, which is the whole point. *Please* and *charm* leave you in control; *enchant* takes the control away — the enchanted person is held, absorbed, not quite responsible for themselves. It's warmer and more helpless than *impress*, and softer and more sustained than *dazzle*, which flashes and fades. Slightly old-fashioned, faintly romantic: a landscape, a voice, a child, or a first meeting enchants you; a spreadsheet does not.",
+  "trap": null,
+  "trick_line": "**CHANT** is sitting in the middle of it — somebody sang, and you never got a vote.",
+  "trick_unpack": "Enchantment is something done *to* you, which is why the word implies surrender rather than mere approval.",
+  "sentences": [
+    "The old harbour town **enchanted** her: she had meant to stay two nights and stayed eleven.",
+    "Don't let him **enchant** you with that accent — he still hasn't paid rent."
+  ],
+  "in_the_wild": "Taylor Swift's **\"Enchanted\"** — *\"I was enchanted to meet you\"* — is the delight sense exactly: one meeting, and she's spellbound for the rest of the song.",
+  "etymology": "Latin **incantāre** = *\"to sing a spell upon\"* — *in-* (on) + **cantāre** (to sing). Magic was chanted, so the singing verb became the bewitching one.\n\n*cantāre* pays out widely: **chant**, **incantation**, **canticle**, **descant**, **accent**, and **recant** — literally *to sing back*, i.e. to take back what you said.",
+  "one_line": "To bewitch — or to delight as if by magic.",
+  "root": "cantāre (to sing)",
+  "root_family": [
+    "chant",
+    "incantation",
+    "canticle",
+    "descant",
+    "accent",
+    "recant",
+    "cantata"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "delight",
+    "magic",
+    "charm",
+    "spellbind",
+    "captivate"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    15
+  ]
+}

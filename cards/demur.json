@@ -1,0 +1,39 @@
+{
+  "word": "demur",
+  "pos": "v. (also n.)",
+  "pron": "dih-MER",
+  "pron_note": null,
+  "means": "To **raise an objection or hesitate** before agreeing — to balk, politely.\n\nThe force is deliberately low. A person who *refuses* has said no; a person who **demurs** has only signalled reluctance — a raised eyebrow, a \"well, I'm not sure that's quite right,\" a delay dressed as courtesy. It's the vocabulary of boardrooms, courts and diplomacy, where open refusal is rude but silence is consent. Often it's a way of not answering at all: *asked to comment, he demurred.*",
+  "trap": "⚠️ **demur ≠ demure.**\n- **demur** *(dih-MER, verb)* = object mildly, hesitate\n- **demure** *(dih-MYOOR, adj.)* = modest, shy, reserved in manner\n\nOne letter, different word class, different meaning. A demure guest might still demur.",
+  "trick_line": "**demur** ends in **-mur**, as in **murmur** — an objection *murmured*, never shouted.",
+  "trick_unpack": "That murmur captures the strength of it: audible disagreement, well short of a no.",
+  "sentences": [
+    "Counsel **demurred** at the judge's characterisation of the evidence, though he declined to press the point.",
+    "I asked if he'd cover my shift and he **demurred** — didn't say no, just went very quiet about it."
+  ],
+  "in_the_wild": "Standard press-conference shorthand: when a reporter asks a politician whether she'll run and the write-up says *\"she demurred,\"* it means she dodged without ever refusing.",
+  "etymology": "Latin **morari** = *\"to delay\"* (from *mora*, a delay), with **de-**. To demur was originally to **hold things up** — which is exactly why it still means hesitating rather than refusing.\n\nSame root: **moratorium** (an official delay), and the legal **demurrer** (a plea that stalls a case).",
+  "one_line": "To object mildly or hesitate rather than flatly refuse.",
+  "root": "morari (to delay), from mora (delay)",
+  "root_family": [
+    "moratorium",
+    "demurrage",
+    "demurrer"
+  ],
+  "confusables": [
+    "demure",
+    "deter",
+    "murmur"
+  ],
+  "sense_tags": [
+    "objecting",
+    "hesitating",
+    "reluctance",
+    "polite refusal"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    2
+  ]
+}

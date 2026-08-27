@@ -1,0 +1,45 @@
+{
+  "word": "antithesis",
+  "pos": "n.",
+  "pron": "an-TITH-uh-sis",
+  "pron_note": "Stress lands on TITH, not on \"anti\" — never AN-tee-THEE-sis. Plural: antitheses, an-TITH-uh-seez.",
+  "means": "**1.** The direct and complete opposite of something. **2.** In rhetoric, a figure that sets two contrary ideas in balanced, parallel phrasing.\n\n*Opposite* is a flat statement of fact; **antithesis** is a verdict. Calling someone the antithesis of professionalism doesn't just place them at the other end of a scale — it says they stand *against* the thing, that they define it by negation. The word carries debate-club formality, so it lands hardest in argument, criticism and manifesto, and it nearly always arrives in the frame \"the antithesis of ___.\"",
+  "trap": null,
+  "trick_line": "**Anti-thesis** — not merely *unlike* your thesis, but the counter-claim planted directly opposite it.",
+  "trick_unpack": "The word wears its meaning openly: a thesis with an enemy bolted to the front, which is why it implies opposition rather than mere difference.",
+  "sentences": [
+    "The committee's cautious, consensus-bound report was the **antithesis** of the bold reform its authors had promised.",
+    "Silent, minimalist, no logo anywhere — the place is the **antithesis** of a sports bar."
+  ],
+  "in_the_wild": "Armstrong's line from the Moon — *\"one small step for man, one giant leap for mankind\"* — is textbook **antithesis**: small against giant, man against mankind, in matched phrasing.",
+  "etymology": "Greek **anti-** (*against*) + **thesis** (*a placing*, from *tithenai*, \"to put\"). Literally *a setting-against*.\n\nThat *tithenai* root is a GRE workhorse: **thesis** (a position put forward), **hypothesis** (placed *under* as a supposition), **synthesis** (placed *together*), **parenthesis** (placed *beside*), **epithet** (a name placed *on*).",
+  "one_line": "The exact opposite; a deliberately contrasting counter-idea.",
+  "root": "tithenai (to place, to put) + anti- (against)",
+  "root_family": [
+    "thesis",
+    "hypothesis",
+    "synthesis",
+    "parenthesis",
+    "epithet",
+    "prosthesis",
+    "anathema"
+  ],
+  "confusables": [
+    "antithetical",
+    "antipathy",
+    "hypothesis",
+    "synthesis"
+  ],
+  "sense_tags": [
+    "opposite",
+    "contrast",
+    "rhetoric",
+    "opposition",
+    "negation"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    10
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "ephemeral",
+  "pos": "adj.",
+  "pron": "uh-FEM-uh-ruhl",
+  "pron_note": null,
+  "means": "Lasting a very short time; here and then gone.\n\nCompare the neighbours: **temporary** is administrative (a temporary badge), **transient** is clinical or technical (a transient fault), **fleeting** is emotional (a fleeting glance). **Ephemeral** is the literary one, and it usually carries a hint of admiration — the shortness is part of what makes the thing lovely. Cherry blossom, a sunset, a mood, internet fame. It also has a hard technical life in engineering (ephemeral storage, ephemeral keys, ephemeral containers), where it means *short-lived by design, don't rely on it*.",
+  "trap": "⚠️ **ephemeral ≠ ethereal.**\n- **ephemeral** = short-lived (about **time**)\n- **ethereal** = delicate, airy, otherworldly (about **texture**)\n\nA voice can be ethereal for three hours. That performance was ethereal, not ephemeral.",
+  "trick_line": "**Ephemeral doesn't complain about the brevity — it admires it.**",
+  "trick_unpack": "You call a rival's fame ephemeral to belittle it, but you call blossom ephemeral to praise it — the word leans wistful, not dismissive.",
+  "sentences": [
+    "The exhibition collected the **ephemeral** matter of a city — tickets, handbills, receipts — none of it meant to survive the week it was printed.",
+    "Don't get attached to that job title, mate, it's **ephemeral** — they reorg every six months."
+  ],
+  "in_the_wild": "Instagram and Snapchat **Stories** vanish after 24 hours — the tech press literally calls it *ephemeral content*, and the Greek root means \"lasting a day.\" The product and the etymology agree to the hour.",
+  "etymology": "Greek **epi** (*for*) + **hēmera** (*day*) = **ephēmeros**, \"lasting one day.\"\n\nSame root elsewhere: **ephemera** (tickets, flyers — printed matter never meant to be kept) and **ephemeris** (the day-by-day table of where the planets will be). And the mayfly's order is **Ephemeroptera** — the insect that famously gets one day of adult life.",
+  "one_line": "Lasting a very short time; fleeting, often beautifully so.",
+  "root": "hēmera (day)",
+  "root_family": [
+    "ephemera",
+    "ephemeris",
+    "Ephemeroptera"
+  ],
+  "confusables": [
+    "ethereal",
+    "empyreal",
+    "ephemera"
+  ],
+  "sense_tags": [
+    "fleeting",
+    "short-lived",
+    "transient",
+    "impermanent"
+  ],
+  "register": "literary",
+  "connotation": "neutral",
+  "groups": [
+    4
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "equivocate",
+  "pos": "v.",
+  "pron": "ih-KWIV-uh-kayt",
+  "pron_note": null,
+  "means": "To speak **deliberately ambiguously** in order to avoid committing yourself, conceal the truth, or leave yourself an escape hatch.\n\nThe key is that it isn't a lie. A liar says something false; an equivocator says something *technically defensible* that he knows you will read the wrong way. That's why the charge stings — it accuses you of both cowardice and calculation at once. The word is almost always hostile: nobody describes their own answer as equivocating.",
+  "trap": "⚠️ **equivocate ≠ vacillate.**\n- **equivocate** = waver in your **words** — say something slippery on purpose\n- **vacillate** = waver in your **mind** — genuinely can't decide\n\nA vacillator is indecisive. An equivocator has decided — to say nothing pinned down.",
+  "trick_line": "You already know **unequivocal** — \"no room for doubt.\" Equivocate is what's left when you take the *un-* off: the room for doubt, left in on purpose.",
+  "trick_unpack": "Everyone offers *unequivocal* support; the moment the support gets hedged, qualified and re-worded, you're watching someone equivocate.",
+  "sentences": [
+    "Pressed on whether he had authorised the payment, the minister **equivocated** for twenty minutes and conceded nothing.",
+    "Don't **equivocate** — are you coming to the wedding or not?"
+  ],
+  "in_the_wild": "*Macbeth* runs on this word — the drunk Porter jokes about \"an equivocator, that could swear in both the scales against either scale,\" and Macbeth dies realising the witches' promises were exactly that: true in a sense he never meant.",
+  "etymology": "Latin **aequus** (*equal*) + **vox, vocis** (*voice*) — a statement with **two equal voices**, pointing both ways at once.\n\nThat *voc-* root is a GRE workhorse: **vocal, vociferous, vocation** (a *calling*), **evoke, revoke, provoke, unequivocal**.",
+  "one_line": "To speak ambiguously on purpose, dodging commitment without quite lying.",
+  "root": "aequus (equal) + vox, vocis (voice)",
+  "root_family": [
+    "unequivocal",
+    "vocal",
+    "vociferous",
+    "vocation",
+    "evoke",
+    "revoke",
+    "provoke",
+    "equity"
+  ],
+  "confusables": [
+    "vacillate",
+    "prevaricate",
+    "equivocal",
+    "obfuscate"
+  ],
+  "sense_tags": [
+    "ambiguity",
+    "evasion",
+    "deception",
+    "hedging",
+    "non-commitment"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    3
+  ]
+}

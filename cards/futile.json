@@ -1,0 +1,44 @@
+{
+  "word": "futile",
+  "pos": "adj.",
+  "pron": "FYOO-tyle",
+  "pron_note": "British and older US: FYOO-tyle (rhymes with *tile*); most Americans say FYOO-tuhl.",
+  "means": "Incapable of producing any useful result — **doomed before it starts**, not merely unlucky.\n\n*Unsuccessful* reports an outcome; **futile** passes judgement on the whole attempt. Calling an effort futile says the failure was structural — the thing could never have worked — which is why it usually comes with an implied *so stop*. It carries a weary, slightly superior tone: the speaker can see the pointlessness that the person still trying cannot. Reserve it for effort. A **futile** gesture is one that changes nothing; a *trivial* one is small; a *fruitless* one merely came back empty this time.",
+  "trap": null,
+  "trick_line": "**F + utile** — the *f* kills the *utility* before the effort even begins.",
+  "trick_unpack": "That \"before\" is the whole nuance: a futile attempt isn't one that failed, it's one that was never going to work.",
+  "sentences": [
+    "Further negotiation proved **futile**; each delegation had arrived bearing terms the other had already refused twice.",
+    "Arguing with him about referees is **futile** — save your breath."
+  ],
+  "in_the_wild": "**\"Resistance is futile.\"** The Borg's line in *Star Trek* — the perfect use of the word, because they don't mean *you'll probably lose*, they mean *your losing is already decided*.",
+  "etymology": "Latin **futilis** = *\"leaky, that pours out easily\"* — said of a vessel that cannot hold what you put in it. From **fundere**, *\"to pour.\"* Pour all you like into a cracked jug; you end up with nothing.\n\nSame root, easy family: **fusion, infuse, profuse, effusive, refund, transfusion**.",
+  "one_line": "Doomed to achieve nothing; pointless no matter how hard you try.",
+  "root": "fundere, fusum (to pour) → futilis (leaky, worthless)",
+  "root_family": [
+    "fusion",
+    "infuse",
+    "profuse",
+    "effusive",
+    "refund",
+    "transfusion",
+    "diffuse"
+  ],
+  "confusables": [
+    "fertile",
+    "fatuous",
+    "feudal"
+  ],
+  "sense_tags": [
+    "pointless",
+    "doomed",
+    "ineffective",
+    "wasted-effort",
+    "hopeless"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    13
+  ]
+}

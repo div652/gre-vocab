@@ -1,0 +1,36 @@
+{
+  "word": "baroque",
+  "pos": "adj. / n.",
+  "pron": "buh-ROHK",
+  "pron_note": "British speakers often say buh-ROK, rhyming with \"rock.\"",
+  "means": "**Capital B:** the European style of art, architecture and music from roughly 1600–1750 — curling, gilded, dramatic, packed with detail.\n**Lowercase:** so elaborately ornamented that the ornament has taken over.\n\nUsed of the period, it's a neutral technical label. Used of anything else — prose, software, a plot, an excuse — it's a jab: the thing is *fussily* complex, decorated past the point of usefulness. Note the flavour: baroque complexity is decorative, almost showy, not merely difficult. A tax code is *byzantine* (tangled, bureaucratic); a sentence with six subordinate clauses and three metaphors is *baroque*.",
+  "trap": null,
+  "trick_line": "**baroque = \"broke\"** — the clean plain line, *broken up* with curlicues until it's buried.",
+  "trick_unpack": "The word sounds like *broke*, and that's the charge against it: simplicity broken into ornament for ornament's sake.",
+  "sentences": [
+    "The palace's **baroque** façade — cherubs, scrolls, gold leaf on every surface — left no square inch at rest.",
+    "His excuse got so **baroque** that by the third subplot I stopped believing any of it."
+  ],
+  "in_the_wild": "Vivaldi's *Four Seasons* and Bach's organ works **are** Baroque music — and you can hear the definition in them: trills, runs and curlicues stacked on top of a simple tune.",
+  "etymology": "Portuguese **barroco** = an *irregular, misshapen pearl* — valuable, but lumpy and asymmetrical rather than clean. Jewellers' slang became art critics' insult, then the name of a whole era. The pearl is the meaning in miniature: ornate, showy, not smooth.",
+  "one_line": "Ornate to the point of excess; the curling 1600s style.",
+  "root": "barroco (Portuguese: irregular pearl)",
+  "root_family": [],
+  "confusables": [
+    "brusque",
+    "rococo",
+    "byzantine"
+  ],
+  "sense_tags": [
+    "ornate",
+    "excessive",
+    "elaborate",
+    "decorative",
+    "complex"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    13
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "consensus",
+  "pos": "n.",
+  "pron": "kuhn-SEN-suhs",
+  "pron_note": null,
+  "means": "General agreement within a group — the settled collective position on a question.\n\nCrucially, it is **not unanimity**. A consensus is the sense of the room: most people agree, the holdouts stop objecting, and the group moves on without ever taking a formal tally. That's why committees, scientific bodies and newsrooms love the word — it claims collective authority (\"the scientific consensus\") without promising that every single person signed off. Slightly institutional in register; you reach, build, or break a consensus, and \"consensus of opinion\" is redundant padding.",
+  "trap": "⚠️ **consensus ≠ census.**\n- **consensus** = agreement felt in common\n- **census** = an official head*count*\n\nThe overlap is why people misspell it \"*concensus*\" — there is no *c* in the middle.",
+  "trick_line": "**Consensus** has **sense** in it, not **cens**us — it's a shared *sense*, not a headcount.",
+  "trick_unpack": "Nobody counts votes to reach a consensus; the group simply senses together that the matter is settled.",
+  "sentences": [
+    "After three days of negotiation the delegates arrived at a fragile **consensus** on emissions targets.",
+    "There's no **consensus** in this house about where we're going for dinner, and there never will be."
+  ],
+  "in_the_wild": "Every climate report and vaccine story leans on the phrase **\"the scientific consensus\"** — a claim that the field has broadly settled, deliberately not a claim that every scientist agrees.",
+  "etymology": "Latin **com-** (*together*) + **sentīre** (*to feel*) — literally *feeling together*.\n\nThat root is a GRE goldmine: **sense, sentiment, sentient, consent, assent, dissent, resent, sentinel**.\n\n🚫 **Not *census*.** That's Latin *censēre*, \"to assess\" — the same root as *censor* and *censure*. Similar look, unrelated word.",
+  "one_line": "General agreement across a group, short of unanimity.",
+  "root": "sentire (to feel)",
+  "root_family": [
+    "sense",
+    "sentiment",
+    "sentient",
+    "consent",
+    "assent",
+    "dissent",
+    "resent",
+    "sentinel"
+  ],
+  "confusables": [
+    "census",
+    "concensus",
+    "consent"
+  ],
+  "sense_tags": [
+    "agreement",
+    "collective opinion",
+    "group decision",
+    "accord"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    15
+  ]
+}

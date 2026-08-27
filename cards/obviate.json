@@ -1,0 +1,45 @@
+{
+  "word": "obviate",
+  "pos": "v.",
+  "pron": "OB-vee-ayt",
+  "pron_note": null,
+  "means": "To **make something unnecessary** — to head off a difficulty so completely that it never has to be dealt with.\n\nThe key is *pre-emption, not repair*. You don't obviate a problem you're already in; a clever design obviates the **need** for a fix before anyone reaches for one. *Prevent* stops a thing from happening; *obviate* goes further and cancels the requirement itself — the meeting isn't rescheduled, it's called off. Dry, formal, and overwhelmingly used with an abstract object: *the need, the requirement, the difficulty, the objection*.",
+  "trap": null,
+  "trick_line": "**Obviate** makes a need **obsolete** — same *ob-*, same result: no longer required.",
+  "trick_unpack": "It doesn't answer the question, it makes the question stop applying.",
+  "sentences": [
+    "The new evidence **obviated** any need for a second trial; the charges were dropped outright.",
+    "If you just put the spare key under the mat, that **obviates** this whole conversation."
+  ],
+  "in_the_wild": "Live in engineering and patent prose as a fixed phrase: **\\\"obviates the need for\\\"** — a new sensor obviates the need for manual calibration. If you see *obviate*, the words *the need for* are almost certainly next.",
+  "etymology": "Latin **ob-** (*in the way of*) + **via** (*road*) — to plant yourself across the road so the trouble never arrives.\n\n**via** is a workhorse root: **deviate** (off the road), **devious** (off-road, hence sneaky), **trivial** (*tri- + via*, the three-way crossroads where anyone might be standing — hence commonplace), **viaduct**, **previous**, **obvious**.\n\n**obvious** is the same *ob + via* — but there it means lying in the road where you can't miss it. Same root, opposite jobs: *obvious* is what's in your way; *obviate* is what gets in **its** way.",
+  "one_line": "To make something unnecessary by preventing it in advance.",
+  "root": "via (road, way)",
+  "root_family": [
+    "deviate",
+    "devious",
+    "trivial",
+    "viaduct",
+    "previous",
+    "obvious",
+    "convey",
+    "voyage"
+  ],
+  "confusables": [
+    "obfuscate",
+    "obviously",
+    "obliterate",
+    "abrogate"
+  ],
+  "sense_tags": [
+    "prevent",
+    "make unnecessary",
+    "pre-empt",
+    "forestall"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    8
+  ]
+}

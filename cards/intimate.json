@@ -1,0 +1,41 @@
+{
+  "word": "intimate",
+  "pos": "v. / adj. / n.",
+  "pron": "IN-tuh-mut (adj.) / IN-tuh-mayt (v.)",
+  "pron_note": "The part of speech changes the last syllable: you are IN-tuh-mut with a friend, but you IN-tuh-MAYT a suspicion.",
+  "means": "**Verb (the GRE sense):** to make something known **indirectly** — to hint, to suggest without stating.\n**Adjective:** closely personal, private, deeply familiar; also *detailed* (\"an intimate knowledge of the tax code\").\n\nThe verb is genteel and deliberate. *Imply* is the neutral logical relation; *insinuate* is sly and usually nasty; *hint* is casual. To **intimate** something is to place it delicately in the air so the other person picks it up — and so that you can deny ever having said it. It belongs to diplomats, board meetings and polite letters: the chairman *intimated* that he might not seek another term.",
+  "trap": null,
+  "trick_line": "**St**ate it and you're on record; **intim**ate it and you can still deny it.",
+  "trick_unpack": "Same *-ate* ending, half the volume — the intimated message was delivered without ever being said.",
+  "sentences": [
+    "In his resignation letter he **intimated**, without once naming the minister, that the decision had been taken above his head.",
+    "She never actually asked me to leave — she just **intimated** it, about six times, until I got the hint."
+  ],
+  "in_the_wild": "Department stores file lingerie under **\\\"Intimates\\\"** — the clothes worn innermost, closest to the skin. That is the root, literally.",
+  "etymology": "Latin **intimus** = *\"innermost,\"* the superlative of **intus** (*within*) — so an intimate friend is the one furthest inside the circle.\n\nThe verb comes from **intimāre**, *\"to put inside, to make known\"* — you get the thing inside the other person's head without putting it out loud.\n\nSame *within* root: **interior, internal, intrinsic, intestine**.",
+  "one_line": "To hint at something subtly; or deeply private and close.",
+  "root": "intimus (innermost), superlative of intus (within)",
+  "root_family": [
+    "interior",
+    "internal",
+    "intrinsic",
+    "intestine",
+    "interim"
+  ],
+  "confusables": [
+    "intimidate",
+    "insinuate"
+  ],
+  "sense_tags": [
+    "hinting",
+    "indirect",
+    "private",
+    "close",
+    "suggestion"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    4
+  ]
+}

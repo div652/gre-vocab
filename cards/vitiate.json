@@ -1,0 +1,41 @@
+{
+  "word": "vitiate",
+  "pos": "v.",
+  "pron": "VISH-ee-ayt",
+  "pron_note": "The -ti- is \"sh\", as in *initiate* — never \"vitty-ate\".",
+  "means": "To **spoil, impair, or corrupt** something — and, in legal use, to **render it invalid or void**.\n\nThe damage comes from *within* and from *one flaw*: a single bad ingredient, a single false premise, a single act of fraud, and the whole thing is no longer sound. You don't vitiate a wall by knocking it down; you vitiate an argument by smuggling one bad assumption into it. Compare **ruin** (total, physical) and **taint** (contaminated but still standing): *vitiate* sits between them — the thing survives in form but no longer works, or no longer counts. Formal and slightly bookish; it lives in law, philosophy, and criticism.",
+  "trap": null,
+  "trick_line": "**Vit**iate has a **vice** buried in it — one vice, and the whole thing is void.",
+  "trick_unpack": "*Vice* and *vitiate* are the same Latin root, and the sense is the same: one hidden fault is enough to cancel the whole.",
+  "sentences": [
+    "The study's conclusions were **vitiated** by a sampling error nobody caught until publication.",
+    "One dodgy signature and the whole deal's **vitiated** — we're back to square one."
+  ],
+  "in_the_wild": "The old legal maxim **\"fraud vitiates everything\"** (*fraus omnia vitiat*) — still quoted in contract cases: prove fraud anywhere in the agreement and the entire agreement collapses.",
+  "etymology": "Latin **vitium** = *\"fault, defect, blemish.\"* Same root as **vice** (a moral defect), **vicious**, and **vituperate** (to abuse someone verbally — literally \"to bring up their faults\").",
+  "one_line": "To spoil or corrupt something, destroying its validity.",
+  "root": "vitium (fault, defect)",
+  "root_family": [
+    "vice",
+    "vicious",
+    "vituperate",
+    "vitiation"
+  ],
+  "confusables": [
+    "vitriolic",
+    "vituperate",
+    "initiate"
+  ],
+  "sense_tags": [
+    "spoiling",
+    "corrupting",
+    "invalidating",
+    "impairing",
+    "legal-nullity"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    12
+  ]
+}

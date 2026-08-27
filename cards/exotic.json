@@ -1,0 +1,43 @@
+{
+  "word": "exotic",
+  "pos": "adj. / n.",
+  "pron": "ig-ZOT-ik",
+  "pron_note": "The x is a soft \"gz\", as in *exact* — not \"ek-SOT-ik\".",
+  "means": "Originating in a **distant foreign country**; by extension, **strikingly unusual or glamorous** because it comes from somewhere else.\n\nThe word only exists from the outsider's angle — nothing is exotic to itself. A mango is exotic in Oslo and breakfast in Mumbai. That built-in viewpoint is why *exotic* turns sour when applied to people: it flatters and distances in the same breath, treating a person as scenery. Applied to fruit, birds, or holidays it's warm and inviting; applied to a woman's face it now reads as condescending.\n\nTechnical uses strip the glamour out entirely and keep only \"non-native / non-standard\": an **exotic species** is an invasive weed, and an **exotic option** is just a derivative that isn't plain vanilla.",
+  "trap": "⚠️ **exotic ≠ esoteric.**\n- **exotic** = strange because it's from **outside** (Greek *exō*)\n- **esoteric** = obscure because it's known only to those **inside** (Greek *esō*, \"within\")\n\nTantric chanting is exotic to a tourist; the meaning of the chant is esoteric even to most locals.",
+  "trick_line": "**EXotic things EXited somewhere else to get here — which is why nothing is exotic at home.**",
+  "trick_unpack": "The *ex-* fixes the word's whole logic: it labels the traveller, not the thing, so the label says where *you* are standing.",
+  "sentences": [
+    "The conservatory housed a collection of **exotic** orchids, coaxed into flower under glass a thousand miles from the forests that bred them.",
+    "He came back from three weeks in Lisbon acting like he'd been somewhere **exotic**."
+  ],
+  "in_the_wild": "**Joe Exotic** of *Tiger King* — a man who named himself after the **exotic animals** (foreign, non-native, kept where they don't belong) that filled his zoo.",
+  "etymology": "Greek **exō** = *\"outside\"* → *exōtikos*, \"from abroad.\" The same root is stamped on a big, easy family: **exit**, **exodus**, **exterior**, **exoskeleton** (skeleton on the outside), **exogenous** (arising from outside), **exoplanet** (a planet outside our solar system).",
+  "one_line": "From far away — foreign, and strikingly so.",
+  "root": "exō (outside)",
+  "root_family": [
+    "exit",
+    "exodus",
+    "exterior",
+    "exoskeleton",
+    "exogenous",
+    "exoplanet"
+  ],
+  "confusables": [
+    "esoteric",
+    "erotic",
+    "exotica"
+  ],
+  "sense_tags": [
+    "foreign",
+    "unfamiliar",
+    "alluring",
+    "non-native",
+    "striking"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    15
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "foreseeable",
+  "pos": "adj.",
+  "pron": "for-SEE-uh-buhl",
+  "pron_note": null,
+  "means": "Able to be predicted, anticipated, or reasonably expected before it happens.\n\nThe word is less about what *will* happen than about what a sensible person *could have known* was likely — which is why it quietly assigns responsibility. A foreseeable consequence is one you don't get to be surprised by. And in *the foreseeable future*, it marks the stretch of time you can actually plan for: deliberately vague, usually shorter than it sounds, and a polite way of saying \"don't ask me for a date.\"",
+  "trap": null,
+  "trick_line": "**Foreseeable** keeps two homes: *the foreseeable future* and *reasonably foreseeable harm* — one is a hazy horizon, the other is a verdict.",
+  "trick_unpack": "Which home you're in sets the tone — planning talk is loose and hedged, liability talk means somebody should have seen it coming.",
+  "sentences": [
+    "The collapse was not a freak event but the **foreseeable** result of a decade of deferred maintenance.",
+    "Rent's going up and the trains still don't run, so I'm stuck at my parents' place for the **foreseeable** future."
+  ],
+  "in_the_wild": "In negligence law, entire cases turn on the phrase **\"reasonably foreseeable\"** — you're liable for the harm an ordinary person would have seen coming, and not for the freak accident nobody could. Insurers, engineers and safety reports all live on that one adjective.",
+  "etymology": null,
+  "one_line": "Able to be predicted or expected in advance.",
+  "root": "Old English fore- (before) + sēon (to see)",
+  "root_family": [
+    "foresight",
+    "forecast",
+    "forestall",
+    "forewarn",
+    "foreboding"
+  ],
+  "confusables": [
+    "foreseen",
+    "unforeseeable"
+  ],
+  "sense_tags": [
+    "predictable",
+    "anticipation",
+    "planning",
+    "liability"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    15
+  ]
+}

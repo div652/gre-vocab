@@ -1,0 +1,42 @@
+{
+  "word": "venal",
+  "pos": "adj.",
+  "pron": "VEE-nuhl",
+  "pron_note": null,
+  "means": "Open to bribery; able to be bought. Used of officials, judges, police, journalists, regimes — and of the conduct itself (*venal motives*, *a venal bargain*).\n\nNarrower and nastier than *corrupt*. A corrupt official might be lazy, cruel, or nepotistic; a **venal** one has a price list. The word says the person is merchandise — power, verdicts, coverage, all for sale to whoever pays. It's a formal, contemptuous word, the kind that shows up in leader columns about failing states.",
+  "trap": "⚠️ **venal ≠ venial.**\n- **venal** (VEE-nuhl) = *bribable, for sale*\n- **venial** (VEE-nee-uhl) = *minor, forgivable* — a venial sin, as opposed to a mortal one\n\nThey are near-opposites in weight: venal is damning, venial is a shrug. The extra **i** is the whole difference.",
+  "trick_line": "A **ven**dor sells goods; a **ven**al judge sells verdicts.",
+  "trick_unpack": "Same *ven-* = *sale*, so venal means the person themselves is on the market.",
+  "sentences": [
+    "The commission's report described a **venal** bureaucracy in which no permit moved without an envelope attached to it.",
+    "Half the refs in that league are **venal** — you can practically see the price tag on a penalty."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **vēnum** = *\"thing for sale\"*, giving **vēndere** (to sell). That root is sitting in plain sight in **vendor**, **vend**, and the **vending** machine — all straightforward commerce, until *venal* applies the same logic to a human being.\n\n🚫 **Not from *venia* (pardon)** — that's *venial*. And nothing to do with *vein* (Latin *vēna*), despite *venous* looking close.",
+  "one_line": "Corruptible; open to bribery, with a price.",
+  "root": "vēnum (sale), vēndere (to sell)",
+  "root_family": [
+    "vendor",
+    "vend",
+    "vending",
+    "vendible"
+  ],
+  "confusables": [
+    "venial",
+    "venous",
+    "penal",
+    "vernal"
+  ],
+  "sense_tags": [
+    "corrupt",
+    "bribable",
+    "mercenary",
+    "dishonest",
+    "for-sale"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    6
+  ]
+}

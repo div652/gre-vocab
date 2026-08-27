@@ -1,0 +1,43 @@
+{
+  "word": "invasive",
+  "pos": "adj.",
+  "pron": "in-VAY-siv",
+  "pron_note": null,
+  "means": "Entering and **spreading into** territory that isn't yours — a plant overrunning a habitat, a tumour pushing past its original tissue, a surgical instrument going inside the body, a question reaching into private life.\n\nThe key is that it isn't a single act but a **footprint**. *Intrusive* describes a disruption you notice and resent in the moment; *invasive* implies something has got in and is now taking over. Medically and ecologically it's a technical term with no anger in it (\"invasive procedure\", \"invasive species\"); applied to people it's an accusation — *invasive questions* means you have crossed into ground you had no right to enter.",
+  "trap": "⚠️ **invasive ≠ evasive.**\n- **invasive** = coming *in* where it's not wanted\n- **evasive** = slipping *away* from what it doesn't want\n\nAn evasive witness dodges the invasive question.",
+  "trick_line": "**Nothing invasive was ever invited — and it doesn't visit, it settles.**",
+  "trick_unpack": "The near-rhyme *invasive/invited* fixes the \"unwelcome\" half, and \"settles\" fixes the other half — invasive things spread and stay rather than merely barge in once.",
+  "sentences": [
+    "Introduced for erosion control, the vine proved catastrophically **invasive**, smothering forty thousand hectares of native forest within a decade.",
+    "Asking what I paid for the flat is a bit **invasive**, mate."
+  ],
+  "in_the_wild": "Every hospital brochure advertising **\"minimally invasive surgery\"** — keyhole instead of a full incision. The word is being measured there: how far in did they have to go.",
+  "etymology": "Latin **invadere** = *in-* (\"into\") + **vadere** (\"to go\"). Literally *to go in.*\n\n**vadere** is a quiet GRE workhorse: **evade** (go out of), **pervade** (go through — *a pervasive smell*), **wade** (go through water), and the whole *-vasive* family.",
+  "one_line": "Spreading in where it isn't wanted; intrusive, encroaching.",
+  "root": "vadere (to go)",
+  "root_family": [
+    "invade",
+    "evade",
+    "evasive",
+    "pervade",
+    "pervasive",
+    "wade"
+  ],
+  "confusables": [
+    "evasive",
+    "intrusive",
+    "pervasive"
+  ],
+  "sense_tags": [
+    "intrusive",
+    "encroaching",
+    "spreading",
+    "unwelcome",
+    "territorial"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

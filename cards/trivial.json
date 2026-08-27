@@ -1,0 +1,39 @@
+{
+  "word": "trivial",
+  "pos": "adj.",
+  "pron": "TRIV-ee-uhl",
+  "pron_note": null,
+  "means": "So small, ordinary or inconsequential that it isn't worth attention or effort.\n\n**Minor** concedes that a thing is small but real; **trivial** denies it any weight at all. It's a verdict rather than a measurement — call someone's objection trivial and you've dismissed it, not sized it. That sting is why \"*this isn't trivial*\" is a standard way of insisting something matters.\n\nOne neutral exception worth knowing: in maths, logic and programming, a **trivial case** or **trivial solution** just means the degenerate, obvious one (*x = 0*) — no insult, pure jargon.",
+  "trap": null,
+  "trick_line": "**TRIVIAL** = **TRIVIA** + al — pub-quiz facts: perfectly true, and nobody's life depends on them.",
+  "trick_unpack": "The hidden word carries the exact nuance — trivial things aren't false or tiny, they're simply not worth anyone's attention.",
+  "sentences": [
+    "The court held the breach **trivial**, awarding damages of a single pound.",
+    "Stop sweating the font — that's **trivial**, we ship tomorrow."
+  ],
+  "in_the_wild": "**Trivial Pursuit** — the board game built entirely out of facts that are fun to know and useless to have. Same root as *trivia*, and the name is the definition.",
+  "etymology": "Latin **trivium** = *tri-* (\"three\") + *via* (\"road\") — a fork where three roads met. That's the public street corner, so *trivialis* meant \"the sort of thing you hear at a crossroads\": common, vulgar, everyday chatter.\n\nThe **via** half is a workhorse: **deviate** (off the road), **devious**, **viaduct**, **convey**, and **obvious** — literally *ob viam*, \"lying in the road\" right in front of you.",
+  "one_line": "So small or ordinary it isn't worth your attention.",
+  "root": "via (road, way); tri- (three)",
+  "root_family": [
+    "trivia",
+    "deviate",
+    "devious",
+    "viaduct",
+    "convey",
+    "obvious",
+    "obviate"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "unimportant",
+    "dismissive",
+    "commonplace",
+    "negligible"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    8
+  ]
+}

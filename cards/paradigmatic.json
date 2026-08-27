@@ -1,0 +1,44 @@
+{
+  "word": "paradigmatic",
+  "pos": "adj.",
+  "pron": "pa-ruh-dig-MAT-ik",
+  "pron_note": "The g that stays silent in paradigm (PA-ruh-dyme) is fully pronounced here.",
+  "means": "Serving as **the model or defining case** of something — the example that sets the pattern everything else is compared against.\n\nIt sounds like praise but usually isn't. **Exemplary** commends; **paradigmatic** merely classifies — it says *this is the standard instance of the type*, and the type can be a disaster. A paradigmatic bureaucratic failure is still a failure. Register is academic: historians, critics and scientists reach for it when they want \"textbook case\" without sounding casual.",
+  "trap": null,
+  "trick_line": "**Exemplary** = the best example. **Paradigmatic** = *the* example.",
+  "trick_unpack": "One word hands out praise, the other just points at the case the whole pattern is built on.",
+  "sentences": [
+    "The Dreyfus affair remains the **paradigmatic** instance of a state closing ranks against inconvenient evidence.",
+    "That three-hour meeting with no decision was **paradigmatic** of this whole company."
+  ],
+  "in_the_wild": "**\"Paradigm shift\"** — Thomas Kuhn's phrase from *The Structure of Scientific Revolutions*, now thoroughly colonised by corporate slide decks. The paradigmatic case is whatever the current paradigm treats as normal.",
+  "etymology": "Greek **para-** (\"beside\") + **deiknynai** (\"to show\") → **paradeigma**, a thing *shown alongside* as the pattern to copy — exactly what a model does.\n\nThat **para-** runs through *parallel, paraphrase, parody, paramedic*; **deiknynai** is cousin to Latin *dicere*/*index*, the pointing-and-showing family behind *indicate* and *digit*.",
+  "one_line": "Serving as the defining model or textbook case of something.",
+  "root": "para- (beside) + deiknynai (to show) → paradeigma (pattern, model)",
+  "root_family": [
+    "paradigm",
+    "parallel",
+    "paraphrase",
+    "parody",
+    "deictic",
+    "index",
+    "indicate"
+  ],
+  "confusables": [
+    "pragmatic",
+    "paragon",
+    "paradigm"
+  ],
+  "sense_tags": [
+    "model-case",
+    "archetypal",
+    "typical",
+    "exemplary",
+    "pattern-setting"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    4
+  ]
+}

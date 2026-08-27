@@ -1,0 +1,43 @@
+{
+  "word": "partial",
+  "pos": "adj.",
+  "pron": "PAR-shuhl",
+  "pron_note": null,
+  "means": "Everyone knows sense 1: **incomplete, only a part** (*a partial refund*). The GRE wants senses 2 and 3.\n\n**2. Biased — favouring one side.** A *partial* judge, referee, or examiner has quietly taken a side. This is the fault that **impartial** denies. It's milder and cooler than *prejudiced* or *partisan*: partiality is a soft tilt, often unconscious, often affection-driven — the teacher who marks her favourite generously. It accuses you of leaning, not of hating.\n\n**3. *partial to* = fond of.** Only in that fixed phrase, and it's warm, mild, faintly understated: *I'm partial to a strong cup of tea.* Never \"I'm partial to my wife\" — it's for tastes, not loves.",
+  "trap": null,
+  "trick_line": "**Partial** hides **PART** — a partial judge *takes your part*.",
+  "trick_unpack": "To take someone's part is to side with them, which is exactly what the biased sense means — and the same lean, softened, gives you *partial to*.",
+  "sentences": [
+    "The defence argued that a juror who had lunched with the prosecutor could hardly be anything but **partial**.",
+    "Don't ask me to pick the winner — I'm shamelessly **partial** to the underdog."
+  ],
+  "in_the_wild": "You meet the negative daily: news outlets and jurors swear they are **impartial**, and referees are accused of partiality every weekend. That's the word doing real work — always as the thing being denied.",
+  "etymology": "Latin **pars, partis** = *\"part, side.\"* A part of something, and a side in a quarrel, are the same word — which is why *partial* means both \"incomplete\" and \"taking sides.\"\n\nThat root is everywhere: **party** (a side), **partisan** (a side-taker), **participate**, **impart**, **portion**, **apart**, **counterpart**.",
+  "one_line": "Biased toward one side; or, fond of something.",
+  "root": "pars, partis (part, side)",
+  "root_family": [
+    "partisan",
+    "party",
+    "participate",
+    "impart",
+    "portion",
+    "apart",
+    "counterpart",
+    "particle"
+  ],
+  "confusables": [
+    "impartial",
+    "partisan"
+  ],
+  "sense_tags": [
+    "biased",
+    "favoring",
+    "fondness",
+    "incomplete"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    10
+  ]
+}

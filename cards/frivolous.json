@@ -1,0 +1,37 @@
+{
+  "word": "frivolous",
+  "pos": "adj.",
+  "pron": "FRIV-uh-luhs",
+  "pron_note": null,
+  "means": "Not worth serious attention; lacking weight, purpose, or merit. Of a person: silly, given to trifles, unwilling to be serious.\n\nThe word is a verdict, not a description. *Trivial* just says a thing is small; **frivolous** says it had no business taking up the time it took — there is always an implied \"when you should have been doing something that mattered.\" It also splits cleanly by target: a frivolous **thing** (a purchase, a lawsuit, a complaint) is baseless or pointless; a frivolous **person** is flighty and can't be trusted with anything grave. Faintly disapproving in a well-mannered way — the reproach of someone too polite to say \"stupid.\"",
+  "trap": null,
+  "trick_line": "**Frivolous** = **frills** — pure decoration, nothing load-bearing.",
+  "trick_unpack": "Both start *fri-*, and a frill is the part of a garment you could cut off and lose nothing — which is exactly the charge the word makes.",
+  "sentences": [
+    "The court dismissed the suit as **frivolous** and ordered the plaintiff to pay costs.",
+    "We blew the whole afternoon on something completely **frivolous** and I regret nothing."
+  ],
+  "in_the_wild": "**\"Frivolous lawsuit\"** is the phrase you've heard on every legal drama and news segment — a case with no legal merit at all, which a judge can throw out and fine the lawyer for filing. That collocation carries the full meaning: not merely weak, but *undeserving of the court's time*.",
+  "etymology": "Latin **frivolus** = *\"worthless, trifling\"* — tied to **friāre**, *\"to crumble.\"* A frivolous argument crumbles the moment you lean on it.\n\nSame crumbling root gives GRE-worthy **friable** (*easily crumbled* — friable soil, friable rock).",
+  "one_line": "Not worth serious attention; silly, pointless, without merit.",
+  "root": "frivolus (worthless, trifling); cf. friāre (to crumble)",
+  "root_family": [
+    "frivolity",
+    "friable"
+  ],
+  "confusables": [
+    "frivolity"
+  ],
+  "sense_tags": [
+    "unserious",
+    "trivial",
+    "silly",
+    "without-merit",
+    "flighty"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

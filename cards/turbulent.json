@@ -1,0 +1,43 @@
+{
+  "word": "turbulent",
+  "pos": "adj.",
+  "pron": "TER-byuh-luhnt",
+  "pron_note": null,
+  "means": "**Violently disturbed and unstable** — churning, unpredictable motion. Used literally of air, water and weather (*turbulent seas*), and figuratively of periods, crowds, emotions and relationships (*a turbulent decade*, *a turbulent marriage*).\n\nThe force here is *disorder*, not malice. A turbulent situation isn't attacking anyone — it's heaving and unsettled, refusing to hold still, and nobody can predict what it does next. That's what separates it from *violent* (deliberate force) and *chaotic* (no pattern at all): turbulence has plenty of energy, just no stability. Applied to a person, it shades into \"unruly, troublemaking.\"",
+  "trap": "⚠️ **turbulent ≠ truculent.**\n- **turbulent** = *churning, unstable* — a state of disorder\n- **truculent** = *aggressively defiant, spoiling for a fight* — an attitude\n\nTurbulent seas; a truculent teenager.",
+  "trick_line": "**Turbulent** has **disTURB** buried in it — it doesn't hit you, it just won't sit still.",
+  "trick_unpack": "Same *turb-* as *disturb* and *perturb*: the word is about being unsettled and churned up, not about deliberate aggression.",
+  "sentences": [
+    "The republic emerged from a **turbulent** decade of coups, currency collapse and street violence with its institutions barely intact.",
+    "Their first year of marriage was pretty **turbulent** — three house moves and a lot of shouting."
+  ],
+  "in_the_wild": "Henry II's outburst about Thomas Becket — *\"Who will rid me of this **turbulent** priest?\"* — four knights took it literally and murdered the archbishop. Note the sense: Becket wasn't violent, he was *unruly and impossible to settle*.",
+  "etymology": "Latin **turba** = *\"a crowd, an uproar\"* — picture a mob, and you have the whole word. Gives you **disturb** (stir the crowd up), **perturb** (thoroughly unsettle), **turbid** (water clouded by churned-up sediment), and via *turbo* (a spinning top) even **turbine**.",
+  "one_line": "Violently unsettled and unstable — churning air, water, or times.",
+  "root": "turba (crowd, uproar)",
+  "root_family": [
+    "disturb",
+    "perturb",
+    "perturbation",
+    "turbid",
+    "turbine",
+    "turmoil"
+  ],
+  "confusables": [
+    "truculent",
+    "turbid",
+    "turgid"
+  ],
+  "sense_tags": [
+    "disorder",
+    "instability",
+    "agitation",
+    "unrest",
+    "unruly"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    9
+  ]
+}

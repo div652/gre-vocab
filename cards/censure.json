@@ -1,0 +1,41 @@
+{
+  "word": "censure",
+  "pos": "v. / n.",
+  "pron": "SEN-sher",
+  "pron_note": "Second syllable is \"sher,\" not \"sure\" — it does not rhyme with \"ensure.\"",
+  "means": "**Verb:** to condemn someone **formally and publicly** for misconduct. **Noun:** that condemnation itself.\n\nCensure is criticism with **institutional standing behind it** — a vote, a ruling, a signed statement from a body entitled to pass judgement. Your friend can criticise you; only a board, a court, a legislature or a professional association can censure you. And it stops at words: a censured official keeps the job and the salary but wears the mark permanently. That's the scale — heavier than *rebuke*, more public than *reprimand*, one step short of *expel*.",
+  "trap": "⚠️ **censure ≠ censor.**\n- **censure** = *condemn the person*\n- **censor** = *delete the message*\n\nA senator can be censured. A senator's speech can be censored.",
+  "trick_line": "**You get censured *by* a body, never by a person — it takes a vote.**",
+  "trick_unpack": "If nobody had to raise a hand for it, it's just criticism.",
+  "sentences": [
+    "The committee voted to **censure** the judge for accepting undisclosed gifts, though it stopped short of demanding his resignation.",
+    "He got off with a **censure** — a strongly worded letter in his file and absolutely nothing else."
+  ],
+  "in_the_wild": "The word surfaces in the news almost only in one setting: the US Congress voting to **censure** one of its own — a formal slap on the record that carries no fine, no removal, just the permanent black mark.",
+  "etymology": "Latin **censēre** = *\"to assess, to judge.\"* One root, four GRE words: **census** (counting), **censor** (suppressing), **censure** (condemning), **censorious** (habitually fault-finding).",
+  "one_line": "Formal public condemnation by an official body.",
+  "root": "censēre (to assess, to judge)",
+  "root_family": [
+    "census",
+    "censor",
+    "censorious",
+    "recension"
+  ],
+  "confusables": [
+    "censor",
+    "sensor",
+    "censer",
+    "censorious"
+  ],
+  "sense_tags": [
+    "condemnation",
+    "official-rebuke",
+    "disapproval",
+    "reprimand"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    3
+  ]
+}

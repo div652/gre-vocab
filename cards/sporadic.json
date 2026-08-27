@@ -1,0 +1,41 @@
+{
+  "word": "sporadic",
+  "pos": "adj.",
+  "pron": "spuh-RAD-ik",
+  "pron_note": null,
+  "means": "Happening at **irregular, scattered intervals** — now and then, here and there, with no pattern you could predict from.\n\nThe key isn't rarity, it's **irregularity**. *Periodic* rain comes on a rhythm; *sporadic* rain comes whenever. And the word usually carries a faint disappointment: it attaches to things that ought to be steady but aren't — sporadic attendance, sporadic effort, sporadic funding. Something is limping along rather than running.",
+  "trap": null,
+  "trick_line": "**Sporadic gunfire, sporadic applause, sporadic attendance** — always something that *should* be continuous and isn't.",
+  "trick_unpack": "Learn the word by its company: sporadic marks a broken, patchy version of something you expected to be sustained.",
+  "sentences": [
+    "Sporadic outbreaks of cholera continued along the river for a decade, flaring in one village while the next went untouched.",
+    "He goes to the gym sporadically — twice in January, then nothing until June."
+  ],
+  "in_the_wild": "The stock phrase of every news bulletin from a conflict zone: *\"sporadic fighting continued overnight\"* — meaning nobody can say when or where the next burst comes.",
+  "etymology": "Greek **sporas / sporad-** = *\"scattered\"*, from **speirein**, *\"to sow\"* — seed flung by hand lands wherever it lands.\n\nSame sowing root gives you **spore** and **diaspora** (*dia-* \"across\" + *speirein* = a people scattered abroad).",
+  "one_line": "Occurring irregularly and unpredictably, in scattered bursts.",
+  "root": "speirein (to sow, scatter); sporas/sporad- (scattered)",
+  "root_family": [
+    "spore",
+    "diaspora",
+    "sporangium"
+  ],
+  "confusables": [
+    "spasmodic",
+    "episodic",
+    "periodic",
+    "erratic"
+  ],
+  "sense_tags": [
+    "irregular",
+    "intermittent",
+    "scattered",
+    "unpredictable",
+    "infrequent"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    5
+  ]
+}

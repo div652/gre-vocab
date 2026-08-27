@@ -1,0 +1,41 @@
+{
+  "word": "collaborate",
+  "pos": "v.",
+  "pron": "kuh-LAB-uh-rayt",
+  "pron_note": null,
+  "means": "To **work jointly with others** on a shared piece of work — a paper, an album, a project.\n\nThe second sense is the one the GRE cares about: to **cooperate traitorously with an enemy** occupying your country. Same word, no separate spelling. *The mayor collaborated* in peacetime is praise; *the mayor collaborated* under occupation is an accusation of treason — and **collaborator** carries that stain even more strongly than the verb. Context alone decides which sense you're reading, so watch for war, occupation, or resistance nearby.",
+  "trap": "⚠️ **collaborate ≠ corroborate.**\n- **collaborate** = *work* with someone\n- **corroborate** = *confirm* someone's account with evidence\n\nA witness who corroborates your alibi supports it; a witness who collaborates with you helped commit the crime.",
+  "trick_line": "**Co-labour.** Every collaborator labours alongside someone — the only question is *whose side*.",
+  "trick_unpack": "The word itself is morally blank, which is exactly why it can mean both a co-author and a traitor.",
+  "sentences": [
+    "Historians still argue over how many officials actively **collaborated** with the occupying regime, and how many merely complied.",
+    "We **collaborated** on the deck for about three hours and honestly she did most of it."
+  ],
+  "in_the_wild": "Every \"feat.\" credit on Spotify is a **collab** — the shortening is so ordinary that the war sense catches people completely off guard on the exam.",
+  "etymology": "Latin **com-** (*together*) + **laborare** (*to work*), from **labor** (*toil*).\n\nThat root spreads wide: **labour**, **laboratory** (a workroom), **elaborate** (worked *out* in detail), **belabour** (to keep working at something past the point of use).",
+  "one_line": "Work jointly with someone — or with the enemy.",
+  "root": "laborare (to work)",
+  "root_family": [
+    "labour",
+    "laboratory",
+    "elaborate",
+    "belabour",
+    "laborious"
+  ],
+  "confusables": [
+    "corroborate",
+    "elaborate",
+    "cooperate"
+  ],
+  "sense_tags": [
+    "cooperation",
+    "joint-work",
+    "treason",
+    "complicity"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    14
+  ]
+}

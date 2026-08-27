@@ -1,0 +1,43 @@
+{
+  "word": "anomalous",
+  "pos": "adj.",
+  "pron": "uh-NOM-uh-luhs",
+  "pron_note": "Stress shifts from the noun: **an**omaly is AN-uh-muh-lee, but **anom**alous is uh-NOM-uh-luhs.",
+  "means": "Departing from what is standard, expected, or predicted by the pattern — irregular, off-model.\n\nThis is the lab-coat word for *odd*. **Weird** is a reaction, **aberrant** hints that something has gone morally or biologically wrong, but **anomalous** passes no judgement at all: it simply says *this case does not fit the model*. It also quietly assumes the model is sound and the case is the outlier — which is why a scientist calls a reading anomalous before deciding whether it's an error, a fluke, or a discovery.",
+  "trap": "⚠️ **anomalous ≠ analogous.**\n- **anomalous** = doesn't fit the pattern\n- **analogous** = parallel to something else, comparable\n\nAn anomalous result breaks the trend; an analogous case matches a different one.",
+  "trick_line": "**a-NOM-alous** — hear the stressed **NOM** as *norm* with the r rubbed out: the thing that won't sit on the norm.",
+  "trick_unpack": "It's a pure sound hook rather than the true root, but it locks in the key idea — the word labels something as off-pattern without calling it wrong.",
+  "sentences": [
+    "The committee flagged an **anomalous** spike in third-quarter revenue: no launch, no campaign, just a number that refused to fit the curve.",
+    "Look, one good week is **anomalous** — don't rebuild the whole strategy around it."
+  ],
+  "in_the_wild": "In *The Matrix Reloaded*, the Architect calls Neo **\\\"the anomaly\\\"** — the one variable the system's model can't account for. That's the word exactly: not evil, just unpredicted.",
+  "etymology": "Greek **an-** (*not*) + **homalos** (*even, level*), from **homos** = *\"same.\"* Literally *not level with the rest*.\n\nThat root gives you **homogeneous**, **homonym**, **homologous** — all \"same-ness\" words.\n\n🚫 **Not from *nomos* (law)**, despite the look of *autonomous* and *economy*. Anomalous breaks a *pattern*, not a rule.",
+  "one_line": "Not fitting the expected pattern; irregular, off-model.",
+  "root": "an- (not) + homalos (even, level), from homos (same)",
+  "root_family": [
+    "anomaly",
+    "homogeneous",
+    "homonym",
+    "homologous",
+    "anomie"
+  ],
+  "confusables": [
+    "analogous",
+    "autonomous",
+    "anonymous",
+    "anomie"
+  ],
+  "sense_tags": [
+    "irregular",
+    "outlier",
+    "unexpected",
+    "atypical",
+    "deviating"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    3
+  ]
+}

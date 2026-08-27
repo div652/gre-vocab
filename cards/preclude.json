@@ -1,0 +1,46 @@
+{
+  "word": "preclude",
+  "pos": "v.",
+  "pron": "prih-KLOOD",
+  "pron_note": null,
+  "means": "To **make something impossible in advance** — to rule it out before it can happen.\n\nThe force is structural, not personal. A person *forbids*; a fact, rule, clause, or condition **precludes**. Nobody has to refuse you — the possibility simply never exists. That's why it lives in formal registers: contracts, medicine, policy. Two shapes to know: *X precludes Y* (\"the injury precluded a comeback\") and *X precludes someone from doing Y*. The stock GRE collocation is **preclude the possibility of**.",
+  "trap": "⚠️ **preclude ≠ exclude.**\n- **exclude** = shut out something that exists (you're excluded *from* the party)\n- **preclude** = shut out the option before it arises (the schedule precluded a party at all)",
+  "trick_line": "**pre- + -clude** = *closed beforehand* — the door was locked before you ever walked up to it.",
+  "trick_unpack": "Because the closing happened in advance, no one ever had to turn you away — which is why *preclude* sounds impersonal rather than hostile.",
+  "sentences": [
+    "Her prior work for the regulator **precluded** her from advising the firm on the merger.",
+    "Sorry — the 6 a.m. flight kind of **precludes** any chance of me coming out tonight."
+  ],
+  "in_the_wild": "Contract and policy boilerplate runs on it: *\"Nothing in this Agreement shall **preclude** either party from…\"* Once you notice it, you'll see it in every terms-of-service page and insurance clause you skim past.",
+  "etymology": "Latin **prae-** (*before*) + **claudere** (*to shut*) — literally \"to shut in advance.\"\n\n*Claudere* is a workhorse root: **include** (shut in), **exclude** (shut out), **seclude** (shut apart), **conclude** (shut off the argument), **recluse** (one shut away), **closure**, **cloister**.",
+  "one_line": "To rule something out in advance; make it impossible.",
+  "root": "claudere (to shut, close)",
+  "root_family": [
+    "include",
+    "exclude",
+    "seclude",
+    "conclude",
+    "recluse",
+    "cloister",
+    "closure",
+    "occlude"
+  ],
+  "confusables": [
+    "exclude",
+    "precede",
+    "occlude",
+    "seclude"
+  ],
+  "sense_tags": [
+    "prevention",
+    "impossibility",
+    "ruling-out",
+    "barring",
+    "forestalling"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    11
+  ]
+}

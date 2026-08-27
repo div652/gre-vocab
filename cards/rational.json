@@ -1,0 +1,45 @@
+{
+  "word": "rational",
+  "pos": "adj.",
+  "pron": "RASH-uh-nuhl",
+  "pron_note": null,
+  "means": "Based on reason and logic rather than emotion or impulse; also, *sane* — in possession of one's reasoning faculty (\"he wasn't rational at the time\"). In maths, a **rational number** is one expressible as a ratio of two integers.\n\n*Reasonable* and *rational* are not the same praise. **Reasonable** is about fairness and moderation — a reasonable price, a reasonable person hears you out. **Rational** is about *process*: the conclusion follows from the premises. That's why a policy can be perfectly rational and still monstrous — cold arithmetic, correctly done. When someone says \"let's be rational about this,\" they usually mean *stop feeling and start calculating*.",
+  "trap": "⚠️ **rational ≠ rationale.**\n- **rational** *(adj., RASH-uh-nuhl)* = logical, sane\n- **rationale** *(noun, rash-uh-NAL)* = the stated reasons behind a decision\n\nYou give the **rationale** for a plan; you hope the plan is **rational**.",
+  "trick_line": "**Rational** has **ratio** sitting inside it — running the numbers, not the feelings.",
+  "trick_unpack": "A rational person works out the ratio; a *reasonable* one hears you out — one is arithmetic, the other is fairness.",
+  "sentences": [
+    "The committee's proposal was internally **rational** — every step followed from the last — and yet no one who read it could call it humane.",
+    "Give me one **rational** reason to drive four hours instead of taking the train."
+  ],
+  "in_the_wild": "Economics runs on the **rational actor** — the textbook consumer who always maximises his own payoff and never buys the shoes because they're pretty. Behavioural economics exists mostly to point out that no such person has ever been observed.",
+  "etymology": "Latin **ratio** = *\"reckoning, calculation, account\"* (from *reri*, to reckon). The counting sense is the original one, and it never left: a **rational** number is literally one you can write as a **ratio**.\n\nOne root, a whole shelf of words: **ratio, rate, ration** (a calculated share), **reason, rationale, ratify**.",
+  "one_line": "Guided by reason and logic, not emotion or impulse.",
+  "root": "ratio, rationis (reckoning, calculation) &lt; reri (to reckon)",
+  "root_family": [
+    "ratio",
+    "rate",
+    "ration",
+    "reason",
+    "rationale",
+    "ratify",
+    "rationalize"
+  ],
+  "confusables": [
+    "rationale",
+    "rationalize",
+    "reasonable",
+    "ration"
+  ],
+  "sense_tags": [
+    "reasoning",
+    "logic",
+    "sanity",
+    "calculation",
+    "level-headed"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    13
+  ]
+}

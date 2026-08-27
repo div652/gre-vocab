@@ -1,0 +1,42 @@
+{
+  "word": "anachronistic",
+  "pos": "adj.",
+  "pron": "uh-nak-ruh-NIS-tik",
+  "pron_note": "The noun shifts its stress: anachronism = uh-NAK-ruh-niz-um.",
+  "means": "Belonging to a different time period than the one it appears in — chronologically misplaced.\n\nIt cuts two ways. Neutrally, it's a **factual error**: a wristwatch on a gladiator, a character in 1850 mentioning a telephone. Judgementally, it's a **verdict on something that has outlived its era** — a rule, an institution, a job title that should have died decades ago. That second use is where the GRE lives, and it carries a dry contempt: calling a law anachronistic says it isn't just old, it's *absurd* that it survived. Note the direction — anachronistic things are almost always relics dragged forward, not things arriving too early.",
+  "trap": "⚠️ **anachronistic ≠ anarchistic.** *Anachronistic* = out of **time** (*chronos*). *Anarchistic* = against **rule** (*archos*). One letter's difference on the page, two unrelated roots.",
+  "trick_line": "**CHRON** sits right in the middle — a clock stuck in the wrong century.",
+  "trick_unpack": "Spot *chron* (as in *chronological*) inside the word and you've got the whole meaning: the timeline is off.",
+  "sentences": [
+    "The committee dismissed the dress code as an **anachronistic** relic of a workplace no one under fifty remembered.",
+    "Fax machines in a 2026 office? Completely **anachronistic**."
+  ],
+  "in_the_wild": "The **Starbucks cup left on the table in *Game of Thrones*** — a paper coffee cup in medieval Westeros, the most-screenshotted anachronism in television history.",
+  "etymology": "Greek **ana-** (*back*) + **chronos** (*time*) — literally \"back-timed.\"\n\n*Chronos* is a workhorse root: **chronic** (lasting over time), **chronology**, **chronicle**, **synchronise** (same-time), **chronometer**.",
+  "one_line": "Belonging to the wrong era; a survival from an earlier time.",
+  "root": "chronos (time)",
+  "root_family": [
+    "chronic",
+    "chronology",
+    "chronicle",
+    "synchronise",
+    "chronometer",
+    "chronological"
+  ],
+  "confusables": [
+    "anarchistic",
+    "anachronism",
+    "anomalous"
+  ],
+  "sense_tags": [
+    "outdated",
+    "time",
+    "misplaced",
+    "obsolete"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    2
+  ]
+}

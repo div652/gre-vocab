@@ -1,0 +1,42 @@
+{
+  "word": "reticent",
+  "pos": "adj.",
+  "pron": "RET-uh-suhnt",
+  "pron_note": "Noun form: reticence, RET-uh-suhns.",
+  "means": "Unwilling to speak freely; holding back what you think or know.\n\nThe restraint is specifically **verbal**. A reticent witness answers in three words and stops. Unlike *shy*, it implies nothing about nerves — a reticent person may be perfectly confident and simply choosing not to say. Unlike *secretive*, it carries no suspicion of a hidden agenda; it reads as reserve, discretion, even dignity. And unlike *taciturn*, which is a permanent temperament, reticence is usually **about a particular subject**: reticent *about* his war years, *on* the question of money.",
+  "trap": "⚠️ **reticent ≠ reluctant.**\n- **reticent** = holding back your **words**\n- **reluctant** = holding back your **agreement or action**\n\n\"He was reticent to sign\" is a very common misuse — he was *reluctant* to sign, and reticent *about why*.",
+  "trick_line": "**A reticent person won't give you their two cents.**",
+  "trick_unpack": "The idiom is about *offering an opinion*, which pins the word to speech rather than to action — the reluctant person won't do it, the reticent one won't discuss it.",
+  "sentences": [
+    "The minister remained **reticent** on the terms of the settlement, deflecting every question to a prepared statement.",
+    "He's fine talking about work, but ask about the breakup and he goes completely **reticent**."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **reticēre** = *\"to keep silent\"* — *re-* (back) + **tacēre** (to be silent).\n\nThat *tacēre* is worth banking: **tacit** (understood without being said), **taciturn** (habitually silent), **tacitly**. One root, four GRE words, all about the unspoken.",
+  "one_line": "Unwilling to speak freely; reserved about what he says.",
+  "root": "tacēre (to be silent)",
+  "root_family": [
+    "tacit",
+    "taciturn",
+    "taciturnity",
+    "tacitly",
+    "reticence"
+  ],
+  "confusables": [
+    "reluctant",
+    "recalcitrant",
+    "reverent"
+  ],
+  "sense_tags": [
+    "silent",
+    "reserved",
+    "uncommunicative",
+    "restrained",
+    "discreet"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    14
+  ]
+}

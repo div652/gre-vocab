@@ -1,0 +1,48 @@
+{
+  "word": "tractable",
+  "pos": "adj.",
+  "pron": "TRAK-tuh-buhl",
+  "pron_note": null,
+  "means": "Easy to manage, control, or deal with. Of a **person or animal**: obedient, easily led. Of a **problem**: solvable, workable with the tools you have.\n\nApplied to people it is faintly condescending — praise from the person holding the reins. A tractable employee isn't *enthusiastic*, just **compliant**; *docile* stresses gentleness, *pliable* stresses being reshaped, but *tractable* stresses being **steerable by someone else**. Applied to problems it loses all that and turns purely technical: a tractable equation is one that yields to method rather than defeating it. Its negative twin **intractable** — a stubborn person, an unsolvable problem, a chronic pain that won't respond to treatment — shows up on the GRE more often than the positive form.",
+  "trap": null,
+  "trick_line": "**Tractable = tract*or*-able** — you can tow it wherever you want.",
+  "trick_unpack": "The credit belongs to the driver, not the thing being pulled, which is exactly why calling a person tractable is a backhanded compliment.",
+  "sentences": [
+    "The new recruits proved unusually **tractable**, absorbing the drill without a murmur of complaint.",
+    "Break the whole thing into small chunks and suddenly it's a **tractable** problem."
+  ],
+  "in_the_wild": "Standard shop-talk in tech and research: a problem is **\"computationally tractable\"** if it can actually be solved in reasonable time — and **\"intractable\"** if the compute blows up. If you've sat in an engineering review, you've heard it.",
+  "etymology": "Latin **trahere, tractus** = *\"to pull, to drag.\"* Tractable = pullable.\n\nThat root drags a whole GRE family behind it: **tractor** (pulls), **traction** (grip that pulls), **attract** (pull toward), **retract** (pull back), **extract** (pull out), **subtract** (pull away), **protract** (drag out), **contract** (pull together), even **treaty** and **trace**.",
+  "one_line": "Easily led, managed, or solved.",
+  "root": "trahere, tractus (to pull, drag)",
+  "root_family": [
+    "tractor",
+    "traction",
+    "attract",
+    "retract",
+    "extract",
+    "subtract",
+    "protract",
+    "contract",
+    "abstract",
+    "treaty"
+  ],
+  "confusables": [
+    "intractable",
+    "traceable",
+    "retractable",
+    "tractile"
+  ],
+  "sense_tags": [
+    "compliant",
+    "manageable",
+    "docile",
+    "solvable",
+    "obedient"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    6
+  ]
+}

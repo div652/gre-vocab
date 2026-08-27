@@ -1,0 +1,42 @@
+{
+  "word": "acquiesce",
+  "pos": "v.",
+  "pron": "ak-wee-ES",
+  "pron_note": "Stress lands on the last syllable, not the second — never uh-KWEE-ess. Noun: acquiescence (ak-wee-ES-uhns).",
+  "means": "To go along with something — to accept, comply, or consent — **without protesting**, usually while privately unconvinced.\n\nThe word is doing two jobs at once: you said yes, and you didn't want to. *Agree* is active; *acquiesce* is the surrender of resistance — you stop pushing back and let it happen. That's why it usually carries a faint reproach: the person who acquiesces had grounds to object and chose silence instead. It's formal, and it's the standard verb for consent that is inferred from someone's failure to complain (courts, boards, treaties).\n\nOften followed by **in** or **to**: *acquiesced in the decision*.",
+  "trap": null,
+  "trick_line": "**Acqui-ESCE** hides **quie**t — you go quiet, and going quiet is taken as yes.",
+  "trick_unpack": "Acquiescence is consent made of silence rather than enthusiasm.",
+  "sentences": [
+    "The minority shareholders **acquiesced in** the merger, registering their misgivings in private and their assent in the minutes.",
+    "I didn't actually want pineapple on it — I just **acquiesced** because arguing about pizza at midnight felt insane."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **quiēs, quiētis** = *rest, quiet*, giving the verb **quiēscere**, \"to become still\" — plus *ad-* (\"to\"). To acquiesce is literally **to come to rest** about something: you stop struggling.\n\nThat root is a good haul: **quiet**, **quiescent** (dormant, inactive), **quiescence**, **requiem** (*requiēscat in pace* — \"may he rest in peace\"), and **tranquil**.",
+  "one_line": "To go along with something without protest.",
+  "root": "quiēs, quiētis (rest, quiet) → quiēscere (to become still)",
+  "root_family": [
+    "quiet",
+    "quiescent",
+    "quiescence",
+    "requiem",
+    "tranquil"
+  ],
+  "confusables": [
+    "acquire",
+    "acquit",
+    "quiescent"
+  ],
+  "sense_tags": [
+    "consent",
+    "compliance",
+    "passivity",
+    "submission",
+    "non-resistance"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    14
+  ]
+}

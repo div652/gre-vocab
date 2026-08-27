@@ -1,0 +1,45 @@
+{
+  "word": "compromise",
+  "pos": "n. / v.",
+  "pron": "KOM-pruh-myze",
+  "pron_note": null,
+  "means": "**Sense 1 (the everyday one):** a settlement where each side gives something up — or to reach one.\n**Sense 2 (the one the GRE tests):** to **damage, weaken, or expose to danger** — a reputation, an immune system, a password, a principle.\n\nThe two senses split cleanly by grammar. The **noun** is respectable: *a compromise* is what reasonable adults arrive at. The **participle** is never respectable: something **compromised** is tainted, breached, no longer trustworthy. And *to compromise oneself* means to have surrendered a principle in a way you can't take back — the word carries the faint smell of a deal made in private.",
+  "trap": "⚠️ **compromise ≠ comprise.**\n- **compromise** = *settle by concession*, or *endanger*\n- **comprise** = *consist of* (the committee comprises nine members)",
+  "trick_line": "**Hiding inside it is *promise* — a co-promise. Both sides promise away a piece; when *you* promise away a piece of yourself, you're compromised.**",
+  "trick_unpack": "The same act — giving part of something up — is a virtue between two parties and a defect within one.",
+  "sentences": [
+    "Chemotherapy **compromises** the immune system, leaving patients vulnerable to infections a healthy body would shrug off.",
+    "We **compromised**: he got the aisle seat, I got the armrest."
+  ],
+  "in_the_wild": "Every breach notification you've ever received — *\\\"your credentials may have been compromised\\\"* — is sense 2 doing its job: not *negotiated*, but *broken into and no longer safe*.",
+  "etymology": "Latin **com-** (*together*) + **promittere** (*to promise*) → a *compromissum*, the mutual promise two disputing parties made to accept an arbiter's ruling.\n\n**promittere** = *pro-* (forth) + *mittere* (to send), and *mittere* is a workhorse root: **mission, transmit, permit, dismiss, emit, remit, submit**.",
+  "one_line": "Settle by mutual concession; or damage, weaken, expose to danger.",
+  "root": "mittere, missum (to send)",
+  "root_family": [
+    "promise",
+    "mission",
+    "transmit",
+    "permit",
+    "dismiss",
+    "emit",
+    "remit",
+    "submit",
+    "intermittent"
+  ],
+  "confusables": [
+    "comprise",
+    "promise"
+  ],
+  "sense_tags": [
+    "concession",
+    "negotiation",
+    "endanger",
+    "weaken",
+    "integrity"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    13
+  ]
+}

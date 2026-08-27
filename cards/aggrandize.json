@@ -1,0 +1,41 @@
+{
+  "word": "aggrandize",
+  "pos": "v.",
+  "pron": "uh-GRAN-dyze",
+  "pron_note": "Noun form shifts: aggrandizement is uh-GRAN-diz-muhnt, not -dyze-ment.",
+  "means": "To increase someone's power, wealth, or standing — or, more often, to make them *appear* greater than they are.\n\nThe word rarely comes out neutral. When a general aggrandizes his territory, it's expansion at someone's expense; when a colleague aggrandizes himself in a meeting, it's puffery. Compare **enhance**, which improves the thing itself: aggrandizing usually inflates the *reputation* while the substance stays put. The most common form on the GRE is **self-aggrandizing** — the man who tells the story so that he ends up the hero of it.",
+  "trap": null,
+  "trick_line": "**GRAND** is sitting right there in the middle — to a-GRAND-ize is to make someone *grand*, usually grander than the facts allow.",
+  "trick_unpack": "The hidden word gives you the meaning, and the gap between \"grand\" and \"actually grand\" gives you the sneer.",
+  "sentences": [
+    "Every reform he proposed had the convenient effect of **aggrandizing** the office he happened to hold.",
+    "It was a team effort, but you'd never know it from his **self-aggrandizing** LinkedIn post."
+  ],
+  "in_the_wild": "**Self-aggrandizing** is a staple of political journalism — it's the standard polite way a columnist calls a politician's grand gesture an exercise in self-promotion.",
+  "etymology": "Latin **grandis** = *\"great, large,\"* with *ad-* (\"toward\") — literally *to make greater*, via French *agrandir*.\n\nOne root, a useful cluster: **grand**, **grandeur**, **grandiose** (impressively big, or absurdly pretending to be), **grandiloquent** (speaking in swollen language).",
+  "one_line": "To make greater in power, wealth, or apparent importance.",
+  "root": "grandis (great, large)",
+  "root_family": [
+    "grand",
+    "grandeur",
+    "grandiose",
+    "grandiloquent",
+    "aggrandizement"
+  ],
+  "confusables": [
+    "aggravate",
+    "grandiose"
+  ],
+  "sense_tags": [
+    "self-promotion",
+    "exaggeration",
+    "power",
+    "status",
+    "inflating"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    2
+  ]
+}

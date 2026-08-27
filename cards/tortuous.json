@@ -1,0 +1,45 @@
+{
+  "word": "tortuous",
+  "pos": "adj.",
+  "pron": "TOR-choo-uhs",
+  "pron_note": "Three syllables, not four — torturous (TOR-chuh-ruhs) has an extra one.",
+  "means": "Full of twists and turns — literally, of a road, river, or coastline; figuratively, of an argument, a negotiation, or a piece of prose that keeps doubling back on itself.\n\nOf a landscape it's purely descriptive. Turned on reasoning, it goes quietly disparaging: **tortuous** logic isn't just complex, it's *needlessly* complex — winding, hard to follow, and often faintly suspicious, as though the speaker is taking the long way round to avoid something. It says nothing about pain. A tortuous explanation is exhausting to follow; it isn't agony.",
+  "trap": "⚠️ **tortuous ≠ torturous.**\n- **tortuous** = *twisting* — a mountain road, a convoluted argument\n- **torturous** = *causing torture* — agonising\n\nA tortuous route is scenic. A torturous route is the one with no water and a broken ankle.",
+  "trick_line": "**Tortuous** is the road; **torturous** is the rack — the extra **r** is for *rack*.",
+  "trick_unpack": "Drop the second *r* and you drop the pain, leaving only the bends.",
+  "sentences": [
+    "The treaty emerged only after eighteen months of **tortuous** negotiation, each clause revisited a dozen times.",
+    "He gave me some **tortuous** excuse about a cousin, a car and a missing charger — I stopped following halfway through."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **torquēre, tortus** = *\"to twist.\"* The root is everywhere: **torque** (twisting force), **contort**, **distort**, **retort** (a reply twisted back at you), **extort** (twisting money out of someone), **torment**.\n\n**Torture** comes from the same root — twisting the body — which is exactly why the two words are so easy to confuse. They're cousins that split: one kept the twist, the other kept the pain.",
+  "one_line": "Full of twists and turns; convoluted, not painful.",
+  "root": "torquēre, tortus (to twist)",
+  "root_family": [
+    "torque",
+    "contort",
+    "distort",
+    "retort",
+    "extort",
+    "torment",
+    "torsion",
+    "torture"
+  ],
+  "confusables": [
+    "torturous",
+    "torpid",
+    "tortious"
+  ],
+  "sense_tags": [
+    "winding",
+    "convoluted",
+    "indirect",
+    "complex",
+    "circuitous"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    6
+  ]
+}

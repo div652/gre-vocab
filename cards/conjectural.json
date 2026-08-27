@@ -1,0 +1,46 @@
+{
+  "word": "conjectural",
+  "pos": "adj.",
+  "pron": "kuhn-JEK-chuh-ruhl",
+  "pron_note": "The *-tur-* is \"chuh\", as in *nature* — not \"tyoor\".",
+  "means": "Based on **guesswork or inference rather than evidence** — plausible, but unproven.\n\nThe word doesn't say *wrong*; it says *unsupported*. Where \"speculative\" hints at wishful reaching and \"baseless\" is an insult, **conjectural** is the cool academic label a historian or scientist attaches to a reconstruction they can't document: reasonable, honestly flagged, still air. Call someone's argument conjectural and you haven't refuted it — you've quietly demoted it from finding to hunch.",
+  "trap": null,
+  "trick_line": "**Con-JECT-ural — a guess in a tweed JACKet.**",
+  "trick_unpack": "The formal dress is the whole point: it's still a guess, just one wearing scholarly clothes.",
+  "sentences": [
+    "The dating of the manuscript remains **conjectural**; no colophon survives, and the scribe's hand matches nothing else in the archive.",
+    "Everything after \"he probably left around midnight\" is **conjectural** — you're making it up as you go."
+  ],
+  "in_the_wild": "**Goldbach's Conjecture**, **the Poincaré Conjecture** — in mathematics a *conjecture* is precisely a statement everyone believes and nobody has proved. Goldbach's has stood unproven since 1742.",
+  "etymology": "Latin **conicere** = *\"to throw together\"* (**com-** *together* + **jacere** *to throw*) — you fling scraps of evidence into a pile and see what shape they make.\n\n**jacere** is a GRE workhorse: **project** (throw forward), **eject**, **inject**, **reject** (throw back), **trajectory**, **dejected** (thrown down), **adjacent** (thrown near).",
+  "one_line": "Based on guesswork or inference, not on evidence.",
+  "root": "jacere, jactus (to throw)",
+  "root_family": [
+    "project",
+    "eject",
+    "inject",
+    "reject",
+    "trajectory",
+    "dejected",
+    "adjacent",
+    "interject",
+    "abject"
+  ],
+  "confusables": [
+    "conjecture",
+    "conjuncture",
+    "conjure"
+  ],
+  "sense_tags": [
+    "guesswork",
+    "unproven",
+    "inference",
+    "speculative",
+    "uncertain"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    8
+  ]
+}

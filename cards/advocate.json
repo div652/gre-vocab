@@ -1,0 +1,45 @@
+{
+  "word": "advocate",
+  "pos": "v. / n.",
+  "pron": "AD-vuh-kayt (v.) / AD-vuh-kut (n.)",
+  "pron_note": "The ending shifts with the job: you AD-vuh-KAYT for a cause, you are an AD-vuh-kut. Same split as separate, estimate, deliberate.",
+  "means": "**Verb:** to publicly plead for, argue in favour of, recommend a cause or course of action.\n**Noun:** the person doing the pleading — a champion, a supporter who speaks up (and in Scots and much European usage, literally a courtroom lawyer).\n\nThe word is louder than *support*. You can support something silently, in a poll or in your heart; to **advocate** it you have to open your mouth and take a public side. It also carries the flavour of speaking *on behalf of someone else* — the patient, the refugee, the defendant — which is why \"advocate\" attaches so naturally to the powerless. Note the preposition: you advocate *for* a person, but you simply advocate *a policy* (no \"for\" needed in careful prose).",
+  "trap": null,
+  "trick_line": "Hidden inside is **vocate** — *voice*. An advocate lends you theirs.",
+  "trick_unpack": "Support is silent; advocacy is audible, which is the whole difference between agreeing with a cause and advocating one.",
+  "sentences": [
+    "The commission's report **advocated** a phased withdrawal of the subsidy, over the objections of three of its own members.",
+    "She's been a fierce **advocate** for her brother ever since the school tried to quietly drop him from the programme."
+  ],
+  "in_the_wild": "**Playing devil's advocate.** It's a real Vatican job — the *advocatus diaboli* was the official appointed to argue *against* a proposed saint, hunting for reasons the candidate didn't deserve canonisation. Someone paid to plead the opposing side.",
+  "etymology": "Latin **ad-** (*to*) + **vocāre** (*to call*) — an advocate was someone **called to your side** in court.\n\nThat *vocāre* root is a GRE goldmine: **vocation** (a calling), **evoke** (call forth), **revoke** (call back), **provoke** (call forth anger), **invoke**, **convoke**, and **equivocate** (call it two ways at once).",
+  "one_line": "To publicly argue for something; one who pleads a cause.",
+  "root": "vocāre (to call)",
+  "root_family": [
+    "vocation",
+    "evoke",
+    "revoke",
+    "provoke",
+    "invoke",
+    "convoke",
+    "equivocate",
+    "vocal",
+    "irrevocable"
+  ],
+  "confusables": [
+    "abdicate",
+    "adjudicate"
+  ],
+  "sense_tags": [
+    "supporting",
+    "arguing",
+    "persuading",
+    "championing",
+    "legal"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    2
+  ]
+}

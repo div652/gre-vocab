@@ -1,0 +1,45 @@
+{
+  "word": "transient",
+  "pos": "adj. / n.",
+  "pron": "TRAN-zee-uhnt",
+  "pron_note": "Also heard as TRAN-shuhnt or TRAN-see-uhnt; all three are standard.",
+  "means": "**Adj.:** lasting only a short time; passing through rather than staying.\n**Noun:** a person who stays somewhere briefly — a short-stay guest, or (in American news and police usage) a drifter with no fixed address.\n\nOf all the \"short-lived\" words, this is the cold one. *Ephemeral* and *evanescent* are for sunsets and beauty; *fleeting* has a sigh in it. **Transient** is the word an engineer, a doctor, or a hotel manager uses — a transient voltage spike, a transient population, a transient fever. It reports impermanence as a fact, with no wistfulness attached, which is exactly what makes the noun sense sound so clinical when it's applied to a human being.",
+  "trap": "⚠️ **transient ≠ intransigent.** *Transient* = passing through. *Intransigent* = refusing to budge an inch. They share a look, not a root — and they're near-opposites in spirit.",
+  "trick_line": "**Trans-i-ent = in *transit*.** Anyone in transit is on the way somewhere else.",
+  "trick_unpack": "Same root, same idea — the thing is only passing through, which is a statement of logistics, not a lament.",
+  "sentences": [
+    "The town's population is largely **transient**: oil crews arrive in March and the streets are empty again by autumn.",
+    "Don't panic about the error message — it's **transient**, it clears itself after a reboot."
+  ],
+  "in_the_wild": "A **TIA** — *transient ischaemic attack*, the \"mini-stroke\" — is named for exactly this word: the blockage passes, the symptoms clear within minutes, and that's precisely why people ignore it.",
+  "etymology": "Latin **trans** (*across*) + **īre** (*to go*) → *transīre*, \"to pass through.\" The present participle *transiēns* is literally **\"going across.\"**\n\n**īre** is a workhorse root worth banking: **transit**, **transition**, **exit** (*ex-it* — \"he goes out\"), **itinerant**, **circuit**, **perish** (*per-īre*, \"to go through to the end\").",
+  "one_line": "Lasting only briefly; passing through rather than staying.",
+  "root": "īre, itum (to go)",
+  "root_family": [
+    "transit",
+    "transition",
+    "exit",
+    "itinerant",
+    "circuit",
+    "perish",
+    "initiate"
+  ],
+  "confusables": [
+    "transitory",
+    "intransigent",
+    "transcendent",
+    "translucent"
+  ],
+  "sense_tags": [
+    "temporary",
+    "fleeting",
+    "impermanent",
+    "passing-through",
+    "short-lived"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    6
+  ]
+}

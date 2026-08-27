@@ -1,0 +1,42 @@
+{
+  "word": "somnolent",
+  "pos": "adj.",
+  "pron": "SOM-nuh-luhnt",
+  "pron_note": null,
+  "means": "Two directions at once: **feeling drowsy**, and **causing drowsiness**. A somnolent student is nodding off; a somnolent lecture is what put him there.\n\nNot the same as *tired*, which implies exhaustion and effort. Somnolent is the thick, heavy, pleasant drowse — heat, a full stomach, a droning voice. It's a literary word, and it most often describes *atmospheres* rather than people: a somnolent village, a somnolent afternoon, where nothing has happened for a hundred years and nothing is about to.",
+  "trap": "⚠️ **somnolent ≠ indolent.**\n- **somnolent** = *sleepy* (can't stay awake)\n- **indolent** = *lazy* (won't be bothered)\n\nThe somnolent man wants to work but keeps drifting off; the indolent one is wide awake and simply isn't getting up.",
+  "trick_line": "**-olent** means *\"full of\"*: **red-olent** = full of smell, **vir-ulent** = full of poison, **somn-olent** = full of **sleep**.",
+  "trick_unpack": "Once you see the suffix as \"loaded with,\" the front half of the word tells you everything, and *somn-* is the sleep bit you already know from *insomnia*.",
+  "sentences": [
+    "The courtroom turned **somnolent** after lunch — even the stenographer's hands slowed.",
+    "Three hours of motorway and the hum of the engine had me **somnolent** at the wheel, so I pulled over for coffee."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **somnus** = *\"sleep.\"* The root is worth banking: **insomnia** (*in-* = not → no sleep), **somnambulist** (*+ ambulare*, to walk → sleepwalker), **somniferous** (*+ ferre*, to carry → sleep-bringing), and the old sleeping-pill brand **Sominex**.",
+  "one_line": "Sleepy and heavy-lidded — or the thing making you that way.",
+  "root": "somnus (sleep)",
+  "root_family": [
+    "insomnia",
+    "somnambulist",
+    "somniferous",
+    "insomniac"
+  ],
+  "confusables": [
+    "indolent",
+    "somnambulant",
+    "redolent",
+    "insolent"
+  ],
+  "sense_tags": [
+    "sleepy",
+    "drowsy",
+    "sluggish",
+    "sleep-inducing",
+    "torpid"
+  ],
+  "register": "literary",
+  "connotation": "neutral",
+  "groups": [
+    10
+  ]
+}

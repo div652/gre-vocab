@@ -1,0 +1,41 @@
+{
+  "word": "tantamount",
+  "pos": "adj.",
+  "pron": "TAN-tuh-mownt",
+  "pron_note": null,
+  "means": "Equivalent **in effect or seriousness** to something else — even if it isn't that thing literally. Always followed by **to**: *tantamount to treason, tantamount to a confession.*\n\nIt isn't a maths word. Nobody says two halves are tantamount to a whole; you say it when an act *technically isn't* the grave thing but **counts as** it. That gap is the whole point — the speaker is stripping away the technicality and naming what the act really amounts to. So it tends to arrive attached to something damning, in the voice of a prosecutor, an editorial, or a diplomat: refusing to answer was tantamount to admitting it.",
+  "trap": "⚠️ **tantamount ≠ paramount.** Same *-amount* ending, unrelated jobs: **tantamount to X** = *equal in effect to X*; **paramount** = *supreme, above all others* (*safety is paramount*). Paramount needs no \"to.\"",
+  "trick_line": "**Tant-amount** — it *amounts to* the same thing, and what it amounts to is usually bad.",
+  "trick_unpack": "The word **amount** is sitting inside it, and \"amounts to\" is exactly how you'd say it in plain speech — *walking out now amounts to quitting.*",
+  "sentences": [
+    "The court held that the company's silence, given its duty to disclose, was **tantamount** to fraud.",
+    "Asking him to babysit your cat is **tantamount** to giving the cat away — you're never seeing it again."
+  ],
+  "in_the_wild": "A newsroom and courtroom staple — *\"tantamount to a declaration of war,\" \"tantamount to an admission of guilt.\"* Notice it never introduces good news; hearing the collocation teaches you the tone.",
+  "etymology": "Anglo-French **tant amunter** = *\"to amount to as much\"* — *tant* (so much) + *amounter*, from Latin **ad montem**, *\"to the mountain,\"* i.e. to go up to a total.\n\nThat *mount* root pays out widely: **amount, surmount, insurmountable, paramount, mountain, mount**.",
+  "one_line": "Equal in effect to something graver, though not literally it.",
+  "root": "ad montem (to the mountain, to go up) → amounter",
+  "root_family": [
+    "amount",
+    "surmount",
+    "insurmountable",
+    "paramount",
+    "mount",
+    "mountain"
+  ],
+  "confusables": [
+    "paramount",
+    "tantalizing"
+  ],
+  "sense_tags": [
+    "equivalence",
+    "effectively",
+    "as-good-as",
+    "accusation"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    14
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "word": "robust",
+  "pos": "adj.",
+  "pron": "roh-BUST",
+  "pron_note": "Stress on the second syllable; some British speakers say ROH-bust.",
+  "means": "Strong and sturdy — but specifically **strong enough to keep working under stress**: a robust body, a robust economy, a robust argument, a robust system.\n\nThe word is about *withstanding*, not about size or force. A weightlifter is *powerful*; a system that survives bad input is *robust*. Nor is it *rigid* — a robust thing bends and keeps going where a brittle thing snaps. On the GRE it usually turns up in technical or economic prose (robust growth, robust findings, a robust defence of a theory), where it's a quiet compliment: this thing has been tested and held.\n\nTwo spillover senses worth knowing: of flavour, **full-bodied and strong** (robust coffee, a robust red wine); of debate or exercise, **vigorous, hearty, no-holds-barred**.",
+  "trap": null,
+  "trick_line": "**Robust = won't *bust*.**",
+  "trick_unpack": "The word literally ends in *bust*, and that's exactly the test — pile pressure on a robust thing and it refuses to break.",
+  "sentences": [
+    "The committee demanded a **robust** methodology — results that would survive being run again with different data.",
+    "He's eighty and still chopping wood; the man's absurdly **robust**."
+  ],
+  "in_the_wild": "Coffee packaging. Every bag promising a \"rich, **robust** flavour\" is selling you the full-bodied sense — strong, dark, no thinness to it.",
+  "etymology": "Latin **rōbur** = *\"oak\"*, and by extension *\"strength, hardness\"*. **Rōbustus** meant literally *\"oaken\"* — built of oak, hence tough.\n\nSame root gives you **corroborate**: *con-* (together) + *rōborāre* (to strengthen) — to strengthen a claim by putting more evidence beside it.",
+  "one_line": "Strong enough to withstand stress without breaking.",
+  "root": "rōbur (oak, strength)",
+  "root_family": [
+    "corroborate",
+    "corroboration",
+    "roborant"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "strength",
+    "resilience",
+    "durability",
+    "vigour",
+    "full-bodied"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    7
+  ]
+}

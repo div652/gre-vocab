@@ -1,0 +1,40 @@
+{
+  "word": "obscure",
+  "pos": "adj. / v.",
+  "pron": "uhb-SKYOOR",
+  "pron_note": null,
+  "means": "**Adjective:** (1) not clearly expressed — hard to make sense of; (2) not well known — small, forgotten, off the map.\n**Verb:** to cover, dim, or overshadow something so it can't be seen or understood clearly.\n\nBoth senses are the same idea: something is *in the way*. The adjective is usually flat and descriptive rather than hostile — *an obscure clause*, *an obscure Belgian poet* — though the \"little-known\" sense carries a faint sniff of insignificance when someone says *some obscure blog*. Compare the neighbours: **cryptic** implies the vagueness was deliberate, **arcane** implies you'd need specialist initiation, while *obscure* just reports that the light isn't getting through. The verb is the GRE's favourite — it often means to hide by *outshining*: a charming manner obscures a ruthless one.",
+  "trap": "⚠️ **obscure ≠ obtuse.**\n- **obscure** = the *thing* is unclear\n- **obtuse** = the *person* is slow to grasp it\n\nA badly drafted contract is obscure. The man who still can't follow it after four readings is obtuse.",
+  "trick_line": "**Obscure = a screen pulled across — over the *meaning* (can't follow it) or over the *name* (never heard of it).**",
+  "trick_unpack": "One word, one image, both senses: whatever's behind the screen is still there, you just can't get at it.",
+  "sentences": [
+    "The treaty's final article is deliberately **obscure**, and every signatory reads it to suit itself.",
+    "He kept quoting some **obscure** 90s band nobody at the table had heard of."
+  ],
+  "in_the_wild": "Thomas Hardy's novel **Jude the Obscure** — Jude is a stonemason who dreams of Oxford and dies unknown. The title *is* the definition: a life nobody ever heard of.",
+  "etymology": "Latin **obscurus** = *\"covered over, dark.\"* That's why the verb still means to *cover*, and the adjective means what's left when the light can't reach.\n\nSame root in **chiaroscuro** — the painter's technique of *chiaro* (light) against *oscuro* (dark).",
+  "one_line": "Unclear, or little known; to hide or overshadow.",
+  "root": "obscurus (covered over, dark)",
+  "root_family": [
+    "obscurity",
+    "obscurantism",
+    "chiaroscuro"
+  ],
+  "confusables": [
+    "obtuse",
+    "abstruse",
+    "obscene"
+  ],
+  "sense_tags": [
+    "unclear",
+    "little-known",
+    "conceal",
+    "dim",
+    "insignificant"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    13
+  ]
+}

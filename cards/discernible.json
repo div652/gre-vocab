@@ -1,0 +1,44 @@
+{
+  "word": "discernible",
+  "pos": "adj.",
+  "pron": "dih-SER-nuh-buhl",
+  "pron_note": "Also spelled discernable; -ible is the standard form.",
+  "means": "Able to be perceived, detected, or made out — visible, audible, or mentally recognisable.\n\nIts home is the **edge of perception**. Something *visible* is simply there to see; something **discernible** is only just there, and you had to look or listen carefully to catch it. That's why it lives so naturally in the negative — *no discernible effect*, *no discernible pattern* — which is the careful person's way of saying \"we examined it properly and found nothing,\" not merely \"there was nothing.\"",
+  "trap": "⚠️ **discernible ≠ discerning.**\n- **discernible** = *can be detected* — a property of the thing\n- **discerning** = *has sharp judgement* — a property of the person (a discerning critic, a discerning palate)",
+  "trick_line": "**No discernible difference** — the phrase it's practically married to.",
+  "trick_unpack": "The word is a verdict delivered after looking hard, so it always implies faintness and effort rather than plain visibility.",
+  "sentences": [
+    "Across twelve months of trials the drug produced no **discernible** improvement over the placebo.",
+    "Three weeks on the new keyboard and there's no **discernible** difference — I spent £200 on nothing."
+  ],
+  "in_the_wild": "The stock phrase of product reviews and audio forums: *\"no discernible difference between the lossless file and the 320kbps MP3\"* — i.e. we A/B'd it carefully and still couldn't hear it.",
+  "etymology": "Latin **cernere** = *\"to sift, to separate\"* — so *dis-cern* is to sift one thing apart from another, which is exactly the close-attention flavour the word keeps.\n\nSame root, big family: **discern**, **discrete** (kept separate), **secret** (*se-* apart + *cernere* = set apart), **concern**, **certain**.",
+  "one_line": "Faint but detectable; able to be made out with attention.",
+  "root": "cernere (to sift, separate, distinguish)",
+  "root_family": [
+    "discern",
+    "discrete",
+    "secret",
+    "concern",
+    "certain",
+    "decree"
+  ],
+  "confusables": [
+    "discerning",
+    "discernable",
+    "discrete",
+    "discreet"
+  ],
+  "sense_tags": [
+    "perceptible",
+    "detectable",
+    "faint",
+    "distinguishable",
+    "noticeable"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    5
+  ]
+}

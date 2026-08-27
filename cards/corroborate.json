@@ -1,0 +1,39 @@
+{
+  "word": "corroborate",
+  "pos": "v.",
+  "pron": "kuh-ROB-uh-rayt",
+  "pron_note": null,
+  "means": "To **support a claim with independent evidence** — a second witness, a document, a lab result that backs up what was already asserted.\n\nIt is a *supporting* word, not a *proving* word. Corroboration always arrives second: there must be a story on the table first, and the corroborating fact strengthens it without being the whole case. And it must come from elsewhere — your own repetition corroborates nothing. Register is formal: courtrooms, journalism, science. In plain speech people say *back up*.",
+  "trap": "⚠️ **corroborate ≠ collaborate.**\n- **corroborate** = *confirm* someone's account\n- **collaborate** = *work together* on something\n\nNear-identical sound, opposite jobs — the GRE loves this pair.",
+  "trick_line": "**Co-**rroborate: the *co-* means it takes someone **else** — you can never corroborate your own story.",
+  "trick_unpack": "That prefix carries the whole nuance: corroboration is by definition second-hand support, so a witness repeating himself adds nothing.",
+  "sentences": [
+    "Two independent laboratories **corroborated** the finding before the journal would print it.",
+    "Nice alibi — got anyone who can **corroborate** that?"
+  ],
+  "in_the_wild": "Every police procedural and courtroom drama runs on the line *\"Can anyone corroborate your story?\"* — which is also exactly how lawyers and journalists use it at work: one source is a rumour, two is a fact.",
+  "etymology": "Latin **robur** = *\"oak, hardwood, strength.\"* To corroborate is literally to **strengthen together** — you put an oak beam under someone's claim.\n\nSame root gives **robust** (oak-strong) and **roborant** (a strengthening tonic). 🚫 The *-labor-* in **collaborate** is a different root entirely (*labor*, \"work\") — that's why the two words mean unrelated things.",
+  "one_line": "To back up a claim with independent supporting evidence.",
+  "root": "robur, roboris (oak, strength)",
+  "root_family": [
+    "robust",
+    "roborant",
+    "corroboration"
+  ],
+  "confusables": [
+    "collaborate",
+    "corroded",
+    "elaborate"
+  ],
+  "sense_tags": [
+    "confirming",
+    "evidence",
+    "supporting",
+    "verification"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    4
+  ]
+}

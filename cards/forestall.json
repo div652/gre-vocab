@@ -1,0 +1,40 @@
+{
+  "word": "forestall",
+  "pos": "v.",
+  "pron": "for-STAWL",
+  "pron_note": "Two syllables, not three — there's no \"forest\" in it.",
+  "means": "To **head something off by acting first** — to prevent an anticipated event by taking steps in advance.\n\nThe word carries **foreknowledge and timing**. *Prevent* just reports the outcome; *forestall* says you saw it coming and moved early enough to block it. It's also quieter than *preempt* — preempting is a seizure, striking first to take what the other side wanted; forestalling is defensive, a door bolted before the knock. What you forestall is almost always unwelcome: a crisis, a lawsuit, an objection, a rival's next move.",
+  "trap": null,
+  "trick_line": "**fore + stall** — you put a **stall** in its path **before** it arrives.",
+  "trick_unpack": "The stall only works if you set it up ahead of time, which is exactly the foreknowledge the word insists on.",
+  "sentences": [
+    "To **forestall** any challenge to the succession, the regent had the rival claimants married off before the old king was buried.",
+    "I texted him first to **forestall** the whole \"you never call me\" speech."
+  ],
+  "in_the_wild": "Standard central-bank and headline language: rates are raised **to forestall inflation**, bailouts arranged **to forestall a run on the bank**. If you learn one collocation, learn *forestall a crisis*.",
+  "etymology": "Old English **foresteall** = *an ambush* — literally a \"standing (*steall*) in front of\" someone on the road. Medieval English law used **forestalling** for buying up goods before they reached the market, cornering the supply before anyone else could bid.\n\n**fore-** is a whole free family: *forecast, foresee, forewarn, foreboding* — all of them \"before.\"",
+  "one_line": "Head something off by acting before it can happen.",
+  "root": "Old English fore- (before) + steall (a standing, a place)",
+  "root_family": [
+    "forecast",
+    "foresee",
+    "forewarn",
+    "stall",
+    "install"
+  ],
+  "confusables": [
+    "forgo",
+    "forego"
+  ],
+  "sense_tags": [
+    "prevention",
+    "anticipation",
+    "preemption",
+    "timing"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    8
+  ]
+}

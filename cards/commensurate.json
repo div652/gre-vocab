@@ -1,0 +1,43 @@
+{
+  "word": "commensurate",
+  "pos": "adj.",
+  "pron": "kuh-MEN-suh-rut",
+  "pron_note": "Also kuh-MEN-shuh-rut. The -ate is a mumbled \"-rut\", never \"-ayt\".",
+  "means": "In proportion to something else — matching it in size, degree, or quality. Almost always followed by **with** (or sometimes **to**).\n\nIt isn't a synonym for *equal*. Equal things are the same amount; commensurate things are on the same **scale** — the punishment fits the crime, the pay fits the experience, the effort fits the reward. So the word carries a quiet judgement of fairness: saying a sentence was *not commensurate with* the offence is an accusation. It's formal, faintly bureaucratic, and lives in contracts, job ads, and sentencing remarks rather than in conversation.",
+  "trap": "**commensurate ≠ commiserate.** *Commensurate* = **proportionate** (measure). *Commiserate* = to **share someone's misery**, to sympathise (misery). Your bonus is commensurate with your sales; your friend commiserates when it turns out to be nothing.",
+  "trick_line": "com-**MENSUR**-ate = **co-measured** — the two things read the same on the same ruler.",
+  "trick_unpack": "The word has *measure* hiding in the middle of it, and the *co-* insists there must be two things being measured against each other — which is why it never stands alone but drags a \"with\" behind it.",
+  "sentences": [
+    "The court held that a decade in prison was in no way **commensurate** with the theft of a bicycle.",
+    "They want ten years' experience and offer an intern's wage — the salary is hardly **commensurate** with the job."
+  ],
+  "in_the_wild": "Every job ad that ends **\\\"salary commensurate with experience\\\"** — HR code for *we'll decide once we've seen you*.",
+  "etymology": "Latin **com-** (\"together\") + **mensura** (\"a measuring\"), from *metiri*, \"to measure.\"\n\nThat root pays out widely: **measure**, **dimension**, **mensuration**, **immense** (literally *un-measurable* — too big to measure), and **menstrual** (a monthly measure).",
+  "one_line": "Proportionate — matched in scale, size, or degree to something else.",
+  "root": "mensura / metiri (to measure)",
+  "root_family": [
+    "measure",
+    "dimension",
+    "immense",
+    "mensuration",
+    "commensurable",
+    "menstrual"
+  ],
+  "confusables": [
+    "commiserate",
+    "commensurable",
+    "commiserable"
+  ],
+  "sense_tags": [
+    "proportionate",
+    "matching",
+    "adequate",
+    "measured",
+    "fairness"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    9
+  ]
+}

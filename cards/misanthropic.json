@@ -1,0 +1,44 @@
+{
+  "word": "misanthropic",
+  "pos": "adj.",
+  "pron": "mis-uhn-THROP-ik",
+  "pron_note": "The noun shifts its stress: misanthrope = MIZ-uhn-throhp.",
+  "means": "Hating, distrusting, or wanting nothing to do with **humankind in general**.\n\nThe scope is what defines it: this isn't a grudge against your neighbour, it's a low opinion of the whole species — people are selfish, stupid, and best avoided. It's a settled worldview rather than a mood, which is why it sounds almost philosophical, and why it's often used with a grin (*a misanthropic old bachelor who feeds the cat and no one else*). Compare **hostile** (aimed at someone), **cynical** (doubts motives, still shows up), **antisocial** (avoids people without necessarily despising them).",
+  "trap": null,
+  "trick_line": "**Phil**anthropic loves *anthropos*; **mis**anthropic hates him — same humans, opposite prefix.",
+  "trick_unpack": "Both words point at humanity as a whole, so the misanthrope doesn't hate *you* — he hates humans, and you happen to be one.",
+  "sentences": [
+    "His later essays grew steadily more **misanthropic**, treating civilisation as a mistake that had merely taken a long time to become obvious.",
+    "Two days of airport queues and I was feeling pretty **misanthropic** by the end of it."
+  ],
+  "in_the_wild": "The **Grinch** is the pop-culture misanthrope in full: he doesn't have a quarrel with any particular Who, he just can't stand Whos.",
+  "etymology": "Greek **misein** (*to hate*) + **anthrōpos** (*human being*).\n\nBoth halves pay off elsewhere: *misein* gives **misogyny** (+ *gynē*, woman) and **misandry** (+ *anēr*, man); *anthrōpos* gives **anthropology**, **anthropomorphic**, and — with *philein*, to love — **philanthropy**, the exact mirror image.",
+  "one_line": "Hating humanity in general, not any one person.",
+  "root": "misein (to hate) + anthrōpos (human being)",
+  "root_family": [
+    "misogyny",
+    "misandry",
+    "misogamy",
+    "anthropology",
+    "anthropomorphic",
+    "philanthropy",
+    "anthropocentric"
+  ],
+  "confusables": [
+    "philanthropic",
+    "misogynistic",
+    "anthropomorphic"
+  ],
+  "sense_tags": [
+    "hatred",
+    "cynicism",
+    "antisocial",
+    "humanity",
+    "reclusive"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    1
+  ]
+}

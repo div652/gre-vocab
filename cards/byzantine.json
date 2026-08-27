@@ -1,0 +1,32 @@
+{
+  "word": "byzantine",
+  "pos": "adj.",
+  "pron": "BIZ-uhn-teen",
+  "pron_note": "Also biz-AN-tyne or BIZ-uhn-tyne — all three are standard. Capital B for the empire, small b for the figurative sense.",
+  "means": "Excessively complicated and convoluted — a system of rules, procedures or plots so tangled that no outsider can follow it.\n\n*Complex* is neutral and can be admiring; **byzantine** is always a complaint. It carries two charges at once: the thing is impossibly intricate, **and** the intricacy shields insiders — hidden channels, backroom deals, rules nobody will explain. A byzantine tax code isn't just hard; it's suspiciously hard.",
+  "trap": null,
+  "trick_line": "**BIZ**antine — a *biz* so knotted with rules and back channels that only insiders know how it really works.",
+  "trick_unpack": "The \"biz\" at the front pins both halves of the word: bureaucratic tangle plus insider scheming.",
+  "sentences": [
+    "The committee's **byzantine** approval process required eleven signatures, three of them from officials whose roles no one could define.",
+    "Getting a refund from them is **byzantine** — I've been transferred four times and I still don't know who's in charge."
+  ],
+  "in_the_wild": "Computer science has the **Byzantine Generals Problem** — and its offspring, *Byzantine fault tolerance*, the property blockchains brag about. The name was chosen precisely because it means generals sending contradictory, possibly treacherous messages that no one can untangle.",
+  "etymology": "From **Byzantium** — the Greek city Constantine rebuilt as Constantinople, capital of the Eastern Roman Empire (now Istanbul). Its court was legendary in the West for layered officialdom, elaborate ceremony and palace intrigue, so by the 1800s the empire's name became the adjective for that whole condition.\n\nThis is one of the rare words where the history *is* the definition: the Byzantine bureaucracy was byzantine.",
+  "one_line": "Maddeningly complicated, tangled with rules and hidden scheming.",
+  "root": "Byzantium (ancient Greek city, later Constantinople)",
+  "root_family": [],
+  "confusables": [],
+  "sense_tags": [
+    "complicated",
+    "convoluted",
+    "bureaucratic",
+    "devious",
+    "intricate"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    13
+  ]
+}

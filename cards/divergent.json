@@ -1,0 +1,40 @@
+{
+  "word": "divergent",
+  "pos": "adj.",
+  "pron": "dih-VER-junt",
+  "pron_note": "Also dye-VER-junt; both are standard.",
+  "means": "Moving apart from a common point; differing, branching off in another direction.\n\nThe word carries a **shared origin**: two things can only diverge if they started together. Opinions diverge after agreeing on the facts; species diverge from an ancestor; roads diverge from one junction. **Different** is a flat statement of unlikeness; **divergent** describes the *widening gap over time*. It is also cool and analytic — where *deviant* condemns and *heretical* accuses, *divergent* just measures the angle. Technical uses lean on the same picture: a **divergent** series never settles on a value, and **divergent thinking** is idea-generation that fans outward instead of narrowing to one answer.",
+  "trap": null,
+  "trick_line": "**Divergent** paths **veer** apart — but they have to leave from the same **verge**.",
+  "trick_unpack": "The *verg-* in the middle is the same *verge* as \"the verge of the road,\" and the sound hook to *veer* keeps the essential condition in view: a common starting point, then separation.",
+  "sentences": [
+    "The two economies grew along sharply **divergent** paths after 1990, despite starting from near-identical output.",
+    "We agree on the numbers — it's what to do about them where we're **divergent**."
+  ],
+  "in_the_wild": "Robert Frost's \"Two roads **diverged** in a yellow wood\" — the most quoted line in American poetry, and a perfect definition: one wood, one traveller, two paths peeling apart.",
+  "etymology": "Latin **dis-** (*apart*) + **vergere** (*to bend, incline, turn*). The root pays off across a family: **converge** = bend together, **verge** = the edge where a surface starts to bend away, *verge on* = incline toward.",
+  "one_line": "Moving apart from a shared starting point; differing.",
+  "root": "vergere (to bend, incline, turn)",
+  "root_family": [
+    "converge",
+    "verge",
+    "convergent",
+    "divergence"
+  ],
+  "confusables": [
+    "diverse",
+    "divert",
+    "deviant"
+  ],
+  "sense_tags": [
+    "differing",
+    "branching",
+    "separating",
+    "deviating"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    15
+  ]
+}

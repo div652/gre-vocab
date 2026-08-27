@@ -1,0 +1,37 @@
+{
+  "word": "recondite",
+  "pos": "adj.",
+  "pron": "REK-uhn-dyte",
+  "pron_note": "Also ri-KON-dyte; both are standard.",
+  "means": "Dealing with matter so obscure that only specialists know it: abstruse, arcane, deep in the weeds.\n\nThe difficulty isn't that the idea is *complicated* — it's that the subject is **remote**. A proof can be hard and still famous; a recondite topic is one almost nobody has occasion to encounter. Applied to a person or their scholarship it can be admiring (they've gone deep); applied to prose or an argument it's usually a jab — you've buried the point where no reader will follow.",
+  "trap": null,
+  "trick_line": "Recondite knowledge has ab**scond**ed — it's not too hard for you, it's too *hidden* from you.",
+  "trick_unpack": "Both words carry Latin *condere*, \"to stash away,\" so recondite marks facts that are out of sight rather than merely tough.",
+  "sentences": [
+    "His footnotes trail off into **recondite** disputes over sixth-century tax registers that perhaps forty people alive can follow.",
+    "Ask him about anything and you get some **recondite** fact about submarine cables — I have no idea where he picks this stuff up."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **recondere** = *\"to put back, store away, conceal\"* (**re-** back + **condere** to stow). The same *condere* gives you **abscond** — to slip off and hide yourself, exactly what recondite facts have done.",
+  "one_line": "Obscure, known only to specialists — hidden away, not merely hard.",
+  "root": "condere (to put away, stow, conceal)",
+  "root_family": [
+    "abscond",
+    "recondite"
+  ],
+  "confusables": [
+    "recondition"
+  ],
+  "sense_tags": [
+    "obscure",
+    "arcane",
+    "esoteric",
+    "specialist",
+    "difficult"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    4
+  ]
+}

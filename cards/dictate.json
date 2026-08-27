@@ -1,0 +1,48 @@
+{
+  "word": "dictate",
+  "pos": "v. / n.",
+  "pron": "DIK-tayt",
+  "pron_note": "Americans stress the first syllable for both verb and noun; many British speakers say dik-TAYT for the verb, DIK-tayt for the noun.",
+  "means": "**Verb:** (1) to speak words aloud so someone else can write or type them down; (2) to lay down terms, rules or conditions with authority — to impose rather than propose.\n**Noun:** an order or governing principle handed down (*the dictates of conscience, the dictates of fashion*).\n\nThe thread joining both senses is **one-way flow**: the person dictating supplies the words, the other party supplies only the pen. Sense (2) is the GRE sense and it carries no consultation — you *negotiate* terms but you *dictate* them, and calling someone's manner dictatorial is never a compliment. There is a third, cooler use where no person is in charge at all: *budget dictates the timeline*, *symptoms dictate treatment* — here it just means \"determines, leaves no choice,\" and the tone is flatly neutral.",
+  "trap": null,
+  "trick_line": "**Dictate** is what a **dictator** does — he talks, you take it down, nobody argues.",
+  "trick_unpack": "The two words are literally the same root, and the dictator image supplies the missing half of the definition: not just *speaking*, but speaking that cannot be answered back.",
+  "sentences": [
+    "The victors did not negotiate at Versailles; they **dictated** the terms and handed Germany a pen.",
+    "Look, I'm not trying to **dictate** how you spend your weekend — I just need the car back by six."
+  ],
+  "in_the_wild": "Microsoft Word and Google Docs both put a literal **Dictate** button in the toolbar — tap the mic, talk, and the machine plays scribe. That's sense (1) sitting in your ribbon every day.",
+  "etymology": "Latin **dicere, dictum** = *\"to say\"* → the frequentative **dictāre**, *\"to say over and over, to prescribe.\"*\n\nThis root is one of the best returns on investment in the whole GRE list: **verdict** (truly-said), **contradict** (speak against), **edict** (spoken out by authority), **predict**, **indict**, **benediction**, **diction**, **dictionary**, **dictum**, **dictator**.",
+  "one_line": "To speak for transcription; to impose terms with authority.",
+  "root": "dicere, dictum (to say)",
+  "root_family": [
+    "verdict",
+    "contradict",
+    "edict",
+    "predict",
+    "indict",
+    "benediction",
+    "diction",
+    "dictionary",
+    "dictum",
+    "dictator",
+    "abdicate"
+  ],
+  "confusables": [
+    "dictum",
+    "diktat",
+    "dedicate"
+  ],
+  "sense_tags": [
+    "command",
+    "impose",
+    "transcribe",
+    "authority",
+    "determine"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    14
+  ]
+}

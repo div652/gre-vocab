@@ -1,0 +1,46 @@
+{
+  "word": "abjure",
+  "pos": "v.",
+  "pron": "ab-JOOR",
+  "pron_note": null,
+  "means": "To **renounce, repudiate, or give up** something formally and solemnly — a belief, a claim, a loyalty, a habit — usually **on the record and under oath**.\n\nYou can *quit* a habit privately. To **abjure** it is to disown it out loud, in a way that binds you: a heretic abjures his heresy, a new citizen abjures foreign allegiance, a reformed man abjures drink. The word carries the weight of ceremony, and often a whiff of pressure — someone made you say it. Compare **renounce** (neutral, can be quiet) and **recant** (specifically taking back something you *said*); abjure covers what you *believed in* or *were bound to*.",
+  "trap": "⚠️ **abjure ≠ adjure.**\n- **abjure** = swear *away* — you reject it\n- **adjure** = swear *at* someone — you earnestly urge or command them\n\n*She abjured her old party; then she adjured her friends to leave it too.*",
+  "trick_line": "**Ab-** (away, as in *absent*, *abduct*) + **-jure** (swear, as in *perjure*) — you don't just drop it, you **swear it away**, out loud.",
+  "trick_unpack": "The *-jure* is what makes it public and binding: abjuring is a ceremony, not a quiet change of heart.",
+  "sentences": [
+    "The treaty obliged every signatory to **abjure** the use of force in settling territorial claims.",
+    "He's **abjured** caffeine about four times now, and the announcements are getting less convincing."
+  ],
+  "in_the_wild": "Galileo, hauled before the Inquisition in 1633, was forced to **abjure** his belief that the Earth moves around the Sun — kneeling, reading the renunciation aloud, in the classic textbook scene.",
+  "etymology": "Latin **ab-** (*away*) + **jūrāre** (*to swear*), from **jūs, jūris** = *law, oath*.\n\nThat root is a GRE goldmine: **perjure** (swear falsely), **jury** (sworn panel), **jurisdiction** (where your law speaks), **jurisprudence**, **conjure** (originally: swear together), and **abjure**'s twin **adjure**.",
+  "one_line": "To renounce something solemnly, usually under oath.",
+  "root": "jūrāre (to swear), from jūs, jūris (law, oath)",
+  "root_family": [
+    "perjure",
+    "jury",
+    "jurisdiction",
+    "jurisprudence",
+    "conjure",
+    "adjure",
+    "just"
+  ],
+  "confusables": [
+    "adjure",
+    "adjourn",
+    "abrogate",
+    "objurgate",
+    "abstain"
+  ],
+  "sense_tags": [
+    "renounce",
+    "forswear",
+    "disavow",
+    "oath",
+    "reject"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    3
+  ]
+}

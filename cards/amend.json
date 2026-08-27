@@ -1,0 +1,43 @@
+{
+  "word": "amend",
+  "pos": "v.",
+  "pron": "uh-MEND",
+  "pron_note": null,
+  "means": "To **alter something formally in order to correct or improve it** — a law, a motion, a contract, a statement, a tax return. Also of conduct: to *amend your ways*.\n\nThe key is that the original **survives**. Amending is patching, not scrapping: a bill that is amended is still that bill; a bill that is repealed is dead. Compare *revise* (neutral, any scale of change) and *rewrite* (start again) — **amend** is narrow, procedural, and usually official. It also carries a faint whiff of prior fault: you amend something because something in it was wrong.\n\nSeparately, the fossilised noun phrase **make amends** = to compensate someone for a wrong done.",
+  "trap": "⚠️ **amend ≠ emend.**\n- **amend** = change a document or your behaviour, usually to improve it\n- **emend** = correct actual errors in a *text* — a scholar's word for fixing a corrupt manuscript\n\nYou amend a constitution. You emend a typo in Chaucer.",
+  "trick_line": "**A-MEND** — the word has **mend** sitting inside it: you mend the flaw, you don't bin the thing.",
+  "trick_unpack": "Amending keeps the original intact and repairs a fault in it, which is exactly what mending means.",
+  "sentences": [
+    "The committee voted to **amend** the clause rather than strike it, softening the penalty from dismissal to suspension.",
+    "Fine, I'll **amend** my statement — the food wasn't terrible, it was just cold."
+  ],
+  "in_the_wild": "The **First Amendment**, the **Fifth**, the **Nineteenth** — the US Constitution has never been rewritten, only patched. Every amendment is a fix bolted onto a document that still stands.",
+  "etymology": "Latin **ēmendāre** = *\"to remove a fault\"* — from **ex-** (out) + **menda** (*a fault, a blemish*).\n\nThat root gives you **emend** and **emendation**, and — worn down through French — plain **mend** itself. All three are the same idea: take the flaw out.\n\n🚫 **Not related to *amenity*.** That's Latin *amoenus*, \"pleasant.\"",
+  "one_line": "to alter formally so as to correct or improve",
+  "root": "menda (fault, blemish); ēmendāre (to remove a fault)",
+  "root_family": [
+    "emend",
+    "emendation",
+    "mend",
+    "amends",
+    "mendacious (disputed cognate)"
+  ],
+  "confusables": [
+    "emend",
+    "mend",
+    "amends",
+    "amenity"
+  ],
+  "sense_tags": [
+    "correct",
+    "revise",
+    "improve",
+    "legislation",
+    "reform"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    14
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "indiscriminate",
+  "pos": "adj.",
+  "pron": "in-di-SKRIM-uh-nuht",
+  "pron_note": "The ending is \"-nuht,\" not \"-nayt\" — the verb discriminate ends dis-KRIM-uh-nayt, the adjective doesn't.",
+  "means": "Making no distinctions — choosing at random, or not choosing at all; sweeping up the innocent with the guilty, the good with the junk.\n\nThe word carries blame. *Random* is neutral, even mathematical; **indiscriminate** implies someone who *should* have sorted and didn't. That failure is the whole accusation — an indiscriminate reader devours anything with pages, indiscriminate praise is worthless because it's handed to everyone, and indiscriminate shelling is a war crime precisely because it doesn't ask who's standing there. Strongest in contexts of harm, but usable lightly for anyone with no filter.",
+  "trap": "**indiscriminate ≠ indiscreet.** *Indiscriminate* = makes no distinctions (takes everything). *Indiscreet* = keeps no secrets (says everything). Both are lapses of judgement, but one is a bad filter on intake, the other a bad filter on output.",
+  "trick_line": "A **discriminating** palate picks; an **indiscriminate** one eats whatever's on the table.",
+  "trick_unpack": "Strip the *in-* and you get the connoisseur who sorts carefully — so *indiscriminate* is the refusal, or inability, to sort at all.",
+  "sentences": [
+    "The tribunal condemned the **indiscriminate** shelling of the district, which spared neither hospital nor school.",
+    "He's an **indiscriminate** swiper — right on everyone, then acts surprised when the dates go badly."
+  ],
+  "in_the_wild": "The standing phrase in war reporting and UN statements: **\"indiscriminate attacks on civilians.\"** It's the technical charge — the weapon couldn't distinguish a soldier from a child, and was fired anyway.",
+  "etymology": "Latin **cernere** = *\"to sift, to separate\"* — the grain from the chaff. Add *dis-* (apart) and you get **discernere**: to tell one thing from another.\n\nThat sieve runs through a whole family: **discern** (tell apart), **discrete** (separate, distinct), **secret** (*se-cernere*, sifted aside), **concern**, **certain**. So *indiscriminate* is literally **unsifted** — everything left in the pile together.",
+  "one_line": "Making no distinctions; hitting or taking everything alike.",
+  "root": "cernere, cretum (to sift, separate)",
+  "root_family": [
+    "discern",
+    "discrete",
+    "discreet",
+    "secret",
+    "concern",
+    "certain",
+    "decree",
+    "excrement"
+  ],
+  "confusables": [
+    "indiscreet",
+    "indiscrete",
+    "discriminating",
+    "indistinct"
+  ],
+  "sense_tags": [
+    "undiscerning",
+    "random",
+    "sweeping",
+    "careless",
+    "wholesale"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    8
+  ]
+}

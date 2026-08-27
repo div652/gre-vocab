@@ -1,0 +1,43 @@
+{
+  "word": "lethargic",
+  "pos": "adj.",
+  "pron": "luh-THAR-jik",
+  "pron_note": null,
+  "means": "Drained of energy — abnormally drowsy, sluggish, slow to move or react.\n\nThe key is that it's a **condition, not a character flaw**. *Lazy* and *indolent* judge you: you could work, you choose not to. *Lethargic* is something that happens **to** you — heat, flu, jet lag, a heavy lunch, grief. It's usually temporary, and it carries a faint clinical edge; a doctor will ask if a patient has been lethargic, never if they've been lazy. Applied to a market, a crowd, or a plot, it means the same drained slowness — nothing is moving, and nothing seems able to.",
+  "trap": null,
+  "trick_line": "le-**THAR**-gic — the stress lands on **TAR**, and that's what you're wading through.",
+  "trick_unpack": "Tar doesn't make you unwilling to move, it makes you unable to — which is exactly the involuntary sluggishness that separates *lethargic* from *lazy*.",
+  "sentences": [
+    "By the fourth week of the heatwave the whole city had turned **lethargic**, its offices half-empty and its streets silent until dusk.",
+    "I had two slices of cake and now I'm too **lethargic** to even find the remote."
+  ],
+  "in_the_wild": "It's a live medical word, not just an exam word: paediatricians and vets treat \"**lethargic**\" as a red flag — *\"Is she feeding normally? Is she lethargic?\"* — meaning unusually limp and unresponsive, the symptom you call about.",
+  "etymology": "Greek **lēthargos** = *lēthē* (forgetfulness) + *argos* (idle). Literally **\"drowsy forgetfulness\"** — the mind switched off along with the body.\n\n*Lēthē* is the river in Hades whose water erased your memories; *argos* is *a-* (not) + *ergon* (work), the same *ergon* behind **energy**, **ergonomic**, and **allergy**. So lethargic is, precisely, *not-working*.\n\n🚫 **Nothing to do with *lethal*.** That's Latin *letum*, \"death\" — pure sound coincidence.",
+  "one_line": "Drained of energy; sluggish and abnormally drowsy.",
+  "root": "lēthē (forgetfulness) + argos (idle, not working)",
+  "root_family": [
+    "lethargy",
+    "Lethe",
+    "energy",
+    "ergonomic",
+    "allergy"
+  ],
+  "confusables": [
+    "lethal",
+    "languid",
+    "listless",
+    "lassitude"
+  ],
+  "sense_tags": [
+    "sluggish",
+    "tired",
+    "inactive",
+    "drowsy",
+    "low-energy"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    13
+  ]
+}

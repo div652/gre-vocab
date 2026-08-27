@@ -1,0 +1,44 @@
+{
+  "word": "archaic",
+  "pos": "adj.",
+  "pron": "ar-KAY-ik",
+  "pron_note": "The *ch* is a hard **k** — never \"arch-AY-ic.\"",
+  "means": "Belonging to a much earlier age; **so old-fashioned it has dropped out of active use**.\n\nThe key isn't age, it's *disuse*. A cathedral is ancient, not archaic; the word **thou** is archaic. Something archaic has been superseded and now survives as a leftover — a law nobody repealed, a fax machine, a form of address nobody uses.\n\nTone flips with the target. Applied to a language or a historical period (\"Archaic Greek\"), it's a neutral technical label. Applied to an institution, a rule, or someone's opinions, it's a **put-down**: not just dated, but embarrassingly overdue for replacement.",
+  "trap": "⚠️ **archaic ≠ arcane.**\n- **archaic** = *outdated*, no longer used\n- **arcane** = *obscure*, understood by only a few\n\nArcane knowledge is hidden; archaic knowledge is just expired. A ritual can be both.",
+  "trick_line": "**Archaic = archaeology minus the -ology** — if you'd need a dig to find it in use, it's archaic.",
+  "trick_unpack": "The word points at something buried and out of circulation, not merely old and still standing.",
+  "sentences": [
+    "The committee spent a year sweeping **archaic** provisions from the statute book, including a ban on driving cattle through the town at noon.",
+    "Their expenses system still runs on paper forms — it's completely **archaic**."
+  ],
+  "in_the_wild": "Open any dictionary entry for **thou**, **whence**, or **betwixt** and you'll see the usage label *archaic* — that tag is the word doing its day job.",
+  "etymology": "Greek **arkhaios** = *\"ancient,\"* from **arkhē** = *\"beginning.\"*\n\nThat root spreads wide: **archaeology** (study of beginnings), **archetype** (the original pattern), **archive** (where the first records go) — and via *arkhein*, \"to rule/lead,\" also **monarch**, **anarchy**, **hierarchy**.",
+  "one_line": "So outdated it has fallen out of use; a relic.",
+  "root": "arkhē / arkhaios (beginning, ancient)",
+  "root_family": [
+    "archaeology",
+    "archetype",
+    "archive",
+    "monarch",
+    "anarchy",
+    "hierarchy",
+    "archaism"
+  ],
+  "confusables": [
+    "arcane",
+    "anarchic",
+    "archival"
+  ],
+  "sense_tags": [
+    "outdated",
+    "obsolete",
+    "ancient",
+    "old-fashioned",
+    "superseded"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    7
+  ]
+}

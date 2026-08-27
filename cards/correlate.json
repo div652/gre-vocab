@@ -1,0 +1,43 @@
+{
+  "word": "correlate",
+  "pos": "v. / n.",
+  "pron": "KOR-uh-layt",
+  "pron_note": "As a noun, often flattened to KOR-uh-luht.",
+  "means": "**Verb:** to show, or to have, a mutual relationship — two things that rise and fall together. *Rainfall correlates with crop yield.*\n**Noun:** either of two things so linked — *fluency is a correlate of early reading*.\n\nThe whole force of the word is that it stops short of cause. To say two things are related is vague; to say they *correlate* is a measured, almost statistical claim: they track each other, and that is all you are promising. It's the vocabulary of researchers and analysts hedging honestly — strong on pattern, silent on why.",
+  "trap": "⚠️ **correlate ≠ corroborate.**\n- **correlate** = two things *move together*\n- **corroborate** = evidence *backs up* a claim\n\nYour alibi is corroborated by a witness, not correlated with one.",
+  "trick_line": "**Co-relate: they relate *together* — side by side, neither one steering.**",
+  "trick_unpack": "The *cor-* is just \"co-\", so the word means partnership between two facts, never one pushing the other.",
+  "sentences": [
+    "Longitudinal data **correlated** parental income with university completion, though the authors declined to call one the cause of the other.",
+    "Weirdly, my worst gym days **correlate** with the days I skip breakfast."
+  ],
+  "in_the_wild": "**\"Correlation does not imply causation\"** — the most-quoted line in all of statistics, and the reason journalists get scolded every time a study says coffee drinkers live longer.",
+  "etymology": "Latin **com-** *(\"together\")* + **relatus** *(\"carried back\")*. Before an *r*, *com-* assimilates to **cor-** — which is the same prefix hiding in **correspond**, **corroborate**, **correct**, and **corrupt**. Spot a *cor-* and you're usually looking at \"together\" or \"thoroughly.\"",
+  "one_line": "To show two things vary together, without claiming cause.",
+  "root": "com- / cor- (together) + relatus (carried back)",
+  "root_family": [
+    "relate",
+    "relation",
+    "relative",
+    "correspond",
+    "corroborate",
+    "corrupt"
+  ],
+  "confusables": [
+    "corroborate",
+    "collate",
+    "correspond",
+    "causation"
+  ],
+  "sense_tags": [
+    "relationship",
+    "co-variation",
+    "statistics",
+    "comparison"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    14
+  ]
+}

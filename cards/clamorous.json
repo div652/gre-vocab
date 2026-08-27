@@ -1,0 +1,45 @@
+{
+  "word": "clamorous",
+  "pos": "adj.",
+  "pron": "KLAM-uh-ruhs",
+  "pron_note": "British spelling: clamourous / clamour. First syllable is \"clam\", not \"clay\".",
+  "means": "Loud and noisy — specifically the noise of many voices **making a demand**: protest, complaint, insistence.\n\nThe demand is what separates it from its neighbours. *Raucous* is rowdy for fun; *strident* is one harsh voice; *vociferous* is loud and forceful but can be a single person; **clamorous** is a mass of noise pressing for something — a crowd at the gates, the press outside a courthouse, a room of hands in the air. Mildly disapproving: the speaker usually finds the din excessive, even when the cause is fair. It extends to non-human noise (clamorous gulls, clamorous bells) and to metaphor (clamorous demands for reform).",
+  "trap": "**clamorous ≠ calamitous.** *Clamorous* = deafeningly noisy. *Calamitous* = disastrous. A clamorous meeting is merely loud; a calamitous one ends careers.",
+  "trick_line": "**Clamorous** ≈ **claim**-orous — a crowd that isn't just loud, it's *claiming* something.",
+  "trick_unpack": "Same Latin root as *claim*, and it pins the nuance: clamorous noise always has a demand inside it.",
+  "sentences": [
+    "The gallery grew **clamorous** as the verdict was read, and the judge threatened to clear the room.",
+    "Ten minutes into the outage the support channel was **clamorous** — everyone shouting the same question at once."
+  ],
+  "in_the_wild": "British news writes it constantly in noun form: *\"a growing clamour for the minister's resignation.\"* Nobody ever clamours quietly — the word only comes out when a crowd wants something.",
+  "etymology": "Latin **clāmāre** = *\"to shout.\"* It hands you a whole shelf of words: **claim** (shout that it's yours), **exclaim**, **proclaim** (shout forth), **acclaim** (shout for), **declaim**, **reclaim** — and **clamour** itself, the shouting of many.\n\n🚫 **Not *glamorous*.** That's Scots *glamour*, a corruption of *grammar* (once meaning occult learning). One letter apart, no relation.",
+  "one_line": "Loudly, insistently noisy — a crowd demanding something.",
+  "root": "clāmāre (to shout)",
+  "root_family": [
+    "claim",
+    "exclaim",
+    "proclaim",
+    "acclaim",
+    "declaim",
+    "reclaim",
+    "clamour"
+  ],
+  "confusables": [
+    "calamitous",
+    "glamorous",
+    "clamber",
+    "clamorously"
+  ],
+  "sense_tags": [
+    "noisy",
+    "demanding",
+    "protest",
+    "crowds",
+    "insistent"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    7
+  ]
+}

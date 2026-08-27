@@ -1,0 +1,46 @@
+{
+  "word": "mitigate",
+  "pos": "v.",
+  "pron": "MIT-uh-gayt",
+  "pron_note": null,
+  "means": "To make something bad **less severe** — to soften the force of a harm, penalty, or risk without removing it.\n\nThe damage still happens; you are only turning the dial down. That built-in limitation is the whole point: a seawall mitigates flooding, it doesn't prevent it. Compare **alleviate**, which relieves suffering (pain, hunger, a burden) and is warmer and more human — *mitigate* is cooler and more institutional, the verb of insurers, engineers, judges and climate reports: mitigate risk, mitigate damages, mitigate emissions. Applied to a person's conduct it means *makes the offence look less bad* rather than *excuses it*.",
+  "trap": "⚠️ **mitigate ≠ militate.**\n- **mitigate** *X* = soften X\n- **militate against** *X* = count as strong evidence against X (military root — the facts are *fighting* your case)\n\n\"Mitigate against\" is the classic error: you mitigate a problem; evidence militates against a conclusion.",
+  "trick_line": "A **mitten** doesn't stop the punch — it just takes the sting out.",
+  "trick_unpack": "*Mit*-igate is padding, not armour: the blow still lands, only softer.",
+  "sentences": [
+    "The court accepted that his youth and cooperation **mitigated** the offence, and reduced the sentence accordingly.",
+    "We can't stop the outage, but rolling back that one service should **mitigate** the damage."
+  ],
+  "in_the_wild": "Any courtroom drama's sentencing scene: the defence stands up to plead **mitigating circumstances**. Guilt is already settled — all that's left to argue is how hard the punishment lands.",
+  "etymology": "Latin **mitis** = *\"mild, soft\"* + **agere** = *\"to make, drive\"* — literally *to make mild*.\n\nThat **-igate** ending is *agere* in disguise, and it recurs: **fumigate** (make smoke), **navigate** (drive a ship), **litigate**, **castigate**, **instigate** — plus **agent, agenda, agile, act**.",
+  "one_line": "To make a bad thing less severe, not to remove it.",
+  "root": "mitis (mild, soft) + agere (to make, drive)",
+  "root_family": [
+    "fumigate",
+    "navigate",
+    "litigate",
+    "castigate",
+    "instigate",
+    "agent",
+    "agenda",
+    "agile"
+  ],
+  "confusables": [
+    "militate",
+    "mediate",
+    "alleviate",
+    "instigate"
+  ],
+  "sense_tags": [
+    "lessening",
+    "softening",
+    "harm-reduction",
+    "damage-control",
+    "risk"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    4
+  ]
+}

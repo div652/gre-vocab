@@ -1,0 +1,47 @@
+{
+  "word": "cogent",
+  "pos": "adj.",
+  "pron": "KOH-juhnt",
+  "pron_note": "Soft *g*, as in *gem* — not \"COG-ent\".",
+  "means": "Of an argument, case, or explanation: **clear, logical, and forceful enough to compel agreement.**\n\nThe praise lands on the *reasoning*, not the speaker. **Eloquent** is about style, **persuasive** is about effect — a con man can be both. **Cogent** says the logic itself holds: tight, well-evidenced, hard to answer. It's cool, formal praise, the kind a judge, examiner, or peer reviewer gives — and its negative is quietly brutal, because \"no cogent explanation was offered\" means the reasoning was not merely unconvincing but structurally empty.",
+  "trap": null,
+  "trick_line": "**A cogent argument has *cogs* — it's a machine that drives you to the conclusion.**",
+  "trick_unpack": "The gears mesh: each step turns the next, so you're moved along by the mechanism rather than talked into it.",
+  "sentences": [
+    "The dissent was the more **cogent** opinion: fifteen pages, no rhetoric, every claim carrying its own evidence.",
+    "He talked for ten minutes and never made one **cogent** point."
+  ],
+  "in_the_wild": "Standard courtroom and peer-review currency — judgments regularly say a party \\\"advanced no **cogent** reason,\\\" which is a polite way of saying the argument had nothing under it.",
+  "etymology": "Latin **cogere** = *\"to drive together, to compel\"* (**co-** *together* + **agere** *to drive*). A cogent argument literally **forces** you along — the same *agere* behind **agent, agenda, agile, act, exact, agitate**.\n\n🚫 **Nothing to do with *cognition*.** That's *cognoscere*, \"to know\" — *recognise, cognizant, incognito*. Cogent isn't about being knowledgeable; it's about being irresistible.",
+  "one_line": "Clear and logically forceful — an argument that compels agreement.",
+  "root": "cogere (to drive together, compel) < co- + agere (to drive)",
+  "root_family": [
+    "agent",
+    "agenda",
+    "agile",
+    "act",
+    "exact",
+    "agitate",
+    "navigate",
+    "litigate",
+    "coagulate"
+  ],
+  "confusables": [
+    "cogitate",
+    "cognizant",
+    "coherent",
+    "cohesive"
+  ],
+  "sense_tags": [
+    "convincing",
+    "logical",
+    "well-reasoned",
+    "compelling",
+    "clarity"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    3
+  ]
+}

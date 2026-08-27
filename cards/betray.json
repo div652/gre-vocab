@@ -1,0 +1,39 @@
+{
+  "word": "betray",
+  "pos": "v.",
+  "pron": "bih-TRAY",
+  "pron_note": null,
+  "means": "**1.** To hand over or be disloyal to someone who trusted you — a friend, a country, a cause, a confidence.\n**2.** To **reveal unintentionally** something you were trying to keep hidden.\n\nSense 2 is the one the GRE cares about, and it turns on *involuntariness*. You don't betray a feeling on purpose — the subject is usually a small traitorous detail (a tremor, a flush, a pause) that leaks the truth its owner was working to conceal. \"His smile **showed** his nerves\" is odd; \"his smile **betrayed** his nerves\" is exact, because it implies the nerves were meant to stay private. Even in this quiet sense the word keeps a whiff of treachery: something has gone over to the other side.",
+  "trap": "⚠️ **betray ≠ belie.** In the same sentence frame they point opposite ways:\n- Her calm face **betrayed** her panic → the panic *got out*.\n- Her calm face **belied** her panic → the panic stayed *hidden*; the face lied about it.",
+  "trick_line": "**Be-TRAY** — you serve your friend up to the enemy on a **tray**, and if your hands shake, the tray hands over your secret too.",
+  "trick_unpack": "Both senses are one act — something gets *handed over* against someone's interest, whether it's a person or a piece of the truth.",
+  "sentences": [
+    "A faint tremor in his voice betrayed the confidence his words were claiming.",
+    "I told her I didn't mind, but my face betrayed me instantly."
+  ],
+  "in_the_wild": "Poker's whole vocabulary runs on this sense: a **tell** is any twitch or hesitation that *betrays* your hand — you never mean to show it, which is exactly the point.",
+  "etymology": "Latin **tradere** = *trans* (\"across\") + *dare* (\"give\") — **to hand over**.\n\nThe same root splits into opposite moralities: **tradition** (knowledge handed *down* to you) and **treason / traitor / betray** (a person handed *over* to the enemy). Also **extradite** — handed across a border.",
+  "one_line": "To hand over disloyally; to reveal what was meant to stay hidden.",
+  "root": "tradere (to hand over)",
+  "root_family": [
+    "tradition",
+    "traitor",
+    "treason",
+    "extradite",
+    "traduce"
+  ],
+  "confusables": [
+    "belie"
+  ],
+  "sense_tags": [
+    "disloyalty",
+    "revealing",
+    "unintentional-disclosure",
+    "treachery"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    3
+  ]
+}

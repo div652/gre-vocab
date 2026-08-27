@@ -1,0 +1,39 @@
+{
+  "word": "dichotomy",
+  "pos": "n.",
+  "pron": "dye-KOT-uh-mee",
+  "pron_note": "The ch is a hard k, and the first syllable rhymes with \"eye\" — never \"ditch-\" or \"dick-\".",
+  "means": "A division into **two parts** — specifically two that are treated as opposed, mutually exclusive, and between them covering everything.\n\nNot any old split. A *distinction* separates two things; a **dichotomy** insists there are only two and you must pick one: mind/body, nature/nurture, art/commerce. Because that insistence is so often bogus, the word carries a faint whiff of suspicion — writers reach for it precisely when they're about to point out that reality is messier. Careful users also flag a second, sloppier sense you'll see in journalism (\"the dichotomy between his public warmth and private cruelty\"), where it just means a jarring contrast within one thing.",
+  "trap": null,
+  "trick_line": "**The word you actually meet is *false* dichotomy** — and that companion word tells you what the noun is for.",
+  "trick_unpack": "A dichotomy is an either/or, and the interesting question is always whether the \"or\" is real.",
+  "sentences": [
+    "The seminar dismantled the tidy **dichotomy** between high and popular art, arguing that neither category had ever held its shape.",
+    "Work hard or have a life — that's a total **dichotomy**, and honestly a fake one."
+  ],
+  "in_the_wild": "\"You're either with us or against us\" — the textbook example wheeled out whenever a logic or debate class teaches the **false dichotomy** fallacy.",
+  "etymology": "Greek **dikha** = *\"in two\"* + **temnein** = *\"to cut.\"* Literally a cutting in two.\n\nThat **-tomy** = *cut* is worth a lot: **anatomy** (cutting a body up to study it), **appendectomy**, **lobotomy**, **epitome** (something cut short), and **atom** — *a-tomos*, \"un-cuttable,\" what the Greeks thought you'd hit when you ran out of cuts.",
+  "one_line": "A split into two sharply opposed, either/or halves.",
+  "root": "dikha (in two) + temnein (to cut)",
+  "root_family": [
+    "anatomy",
+    "atom",
+    "appendectomy",
+    "lobotomy",
+    "epitome",
+    "tome"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "division",
+    "opposition",
+    "binary",
+    "contrast",
+    "either-or"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    9
+  ]
+}

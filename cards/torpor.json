@@ -1,0 +1,41 @@
+{
+  "word": "torpor",
+  "pos": "n.",
+  "pron": "TOR-per",
+  "pron_note": null,
+  "means": "A state of **sluggish inactivity** — physical, mental, or both: no energy, no motion, no appetite for either. Also the biological sense: the dormant, slowed-metabolism state an animal drops into to survive the cold.\n\nLaziness is a choice and *sloth* is a sin; **torpor is a condition**. It carries no moral scolding — the person (or economy, or bureaucracy) isn't refusing to act, they've gone inert. It's a heavy, clinical, slightly literary word, and it stretches easily from a body to an institution: *the torpor of a provincial town*, *decades of administrative torpor*.",
+  "trap": "⚠️ **torpor ≠ stupor.** They rhyme, so the GRE will happily swap them.\n- **torpor** = *sluggish, energyless inactivity* (a hibernating animal)\n- **stupor** = *dazed near-unconsciousness* (a drunk man on the floor)\n\nTorpor is slow. Stupor is senseless.",
+  "trick_line": "**Torpor = torque-poor.** The engine is intact; there's just no force left to turn it.",
+  "trick_unpack": "Torpor isn't refusal to move but the absence of power to move, which is why it fits a hibernating animal and a stalled economy equally well.",
+  "sentences": [
+    "Reform proposals arrived every spring and died in the same committee, victims of a **torpor** no minister cared to disturb.",
+    "Two helpings of biryani and the whole table sank into afternoon **torpor**."
+  ],
+  "in_the_wild": "Nature documentaries use it in its exact technical sense: a hummingbird burns so much fuel that it drops into **torpor** every night — heart rate crashing, body cooling — just to survive until morning.",
+  "etymology": "Latin **torpēre** = *\"to be numb, stiff, motionless.\"* Gives **torpid** (sluggish) and — the one that sticks — **torpedo**, originally the electric ray, a fish that *numbs* what it touches. The weapon was named after the fish.",
+  "one_line": "Sluggish inactivity; a near-total loss of energy or motion.",
+  "root": "torpēre (to be numb, stiff)",
+  "root_family": [
+    "torpid",
+    "torpedo",
+    "torpescent"
+  ],
+  "confusables": [
+    "stupor",
+    "torpid",
+    "languor",
+    "turpitude"
+  ],
+  "sense_tags": [
+    "lethargy",
+    "inactivity",
+    "sluggishness",
+    "dormancy",
+    "apathy"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    14
+  ]
+}

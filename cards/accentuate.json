@@ -1,0 +1,45 @@
+{
+  "word": "accentuate",
+  "pos": "v.",
+  "pron": "ak-SEN-choo-ayt",
+  "pron_note": null,
+  "means": "To **make something already present stand out more** — to heighten, sharpen, throw into relief.\n\nThe key limit: you can only accentuate what's **already there**. A belt accentuates a waist that exists; a recession accentuates inequality that existed. Compare *emphasise*, which is about what a speaker chooses to stress, and *exaggerate*, which inflates past the truth — accentuate stays honest, it just turns the contrast up. It works on features (a cheekbone, a curve), on effects (a flaw, a divide, a colour), and it cuts both ways: what gets accentuated can be a virtue or a defect.",
+  "trap": "⚠️ **accentuate ≠ attenuate.** Two syllables apart, exact opposites: **accentuate** turns it *up*; **attenuate** thins it *down* (an attenuated signal, an attenuated virus).",
+  "trick_line": "**accent**uate = put an **accent** on it. The accent mark adds no letter — it just makes one syllable louder.",
+  "trick_unpack": "That's the whole nuance: nothing new is created, something existing is just made to stand out.",
+  "sentences": [
+    "The low evening light **accentuated** every crack in the plaster.",
+    "That jacket really **accentuates** your shoulders — wear it."
+  ],
+  "in_the_wild": "The 1944 standard **\"Ac-Cent-Tchu-Ate the Positive\"** — *\"You've got to accentuate the positive, eliminate the negative\"* — still the phrase most people have heard the word in.",
+  "etymology": "Latin **ad-** (*to*) + **cantus** (*song*) → *accentus*, literally \"song added to speech\" — the rise and fall that marks a stressed syllable. The Romans heard stress as **singing**.\n\nThat *cantare* root is a GRE goldmine: **chant**, **enchant** (sing a spell onto someone), **incantation**, **recant** (sing it back), **cantata**, **descant**.",
+  "one_line": "To make an existing feature stand out more sharply.",
+  "root": "cantare, cantus (to sing, song)",
+  "root_family": [
+    "accent",
+    "chant",
+    "enchant",
+    "incantation",
+    "recant",
+    "cantata",
+    "descant"
+  ],
+  "confusables": [
+    "attenuate",
+    "exacerbate",
+    "accelerate",
+    "accentuate/accent"
+  ],
+  "sense_tags": [
+    "emphasis",
+    "intensify",
+    "highlight",
+    "prominence",
+    "contrast"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    8
+  ]
+}

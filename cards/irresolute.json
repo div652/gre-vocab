@@ -1,0 +1,43 @@
+{
+  "word": "irresolute",
+  "pos": "adj.",
+  "pron": "ih-REZ-uh-loot",
+  "pron_note": null,
+  "means": "Unable to decide, or unable to hold to a decision once made — hesitating, wavering, hanging back at the moment action is required.\n\nNote what it is *not*: *undecided* is a temporary state about one question, and carries no blame — you're gathering facts. **Irresolute** describes the person, not the question. It's a character verdict, and a quietly damning one: the failure isn't lack of information, it's lack of spine. Formal and literary in register — a biographer calls a general irresolute; nobody says it across a dinner table.",
+  "trap": "⚠️ **irresolute ≠ irresolvable.**\n- **irresolute** = the *person* can't decide\n- **irresolvable** = the *problem* can't be settled",
+  "trick_line": "**Buried in it is *solute* — the stuff that dissolves.** The irresolute man's resolve dissolves the moment he has to act on it.",
+  "trick_unpack": "He may well have decided; what he cannot do is keep the decision solid under pressure.",
+  "sentences": [
+    "Three days of irresolute silence from the cabinet cost the army the only crossing it could still defend.",
+    "He stood at the counter, irresolute, until the guy behind him just ordered for him."
+  ],
+  "in_the_wild": "**Hamlet** is the archetype — a man who spends five acts unable to act. His own diagnosis: *\"Thus conscience does make cowards of us all.\"*",
+  "etymology": "Latin **solvere** = *\"to loosen, release, dissolve\"*; **re-solvere** → to loosen a problem apart, and hence to settle it firmly in your mind. That one root pays out widely: **solve, solvent, dissolve, absolve** (loosen you *from* guilt), **resolution, soluble**.\n\nSo *resolute* = your purpose is settled; *ir-* = it isn't.",
+  "one_line": "Unable to decide or stick to a decision; wavering.",
+  "root": "solvere (to loosen, dissolve)",
+  "root_family": [
+    "solve",
+    "dissolve",
+    "absolve",
+    "solvent",
+    "resolution",
+    "soluble"
+  ],
+  "confusables": [
+    "resolute",
+    "irresolvable",
+    "unresolved",
+    "irresolution"
+  ],
+  "sense_tags": [
+    "indecisive",
+    "wavering",
+    "hesitant",
+    "weak-willed"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    5
+  ]
+}

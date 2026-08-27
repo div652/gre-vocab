@@ -1,0 +1,41 @@
+{
+  "word": "oust",
+  "pos": "v.",
+  "pron": "OWST",
+  "pron_note": null,
+  "means": "To **force someone out of a position** — an office, a throne, a job, a board seat — or out of possession of property.\n\nWhat gets ousted is usually a *role*, not a room. The removal is involuntary and final, but the method is left open: a palace coup, a shareholder vote, and a quiet 3am memo all count. Compare the neighbours — *evict* is about property and paperwork, *expel* is about being thrown out of an institution, *depose* is reserved for rulers. *Oust* is the newsroom's all-purpose verb, and it lives in the passive: nobody ousts themselves, they **are ousted**. The noun is **ouster** (the act of removal, not the person doing it).",
+  "trap": null,
+  "trick_line": "**OUST = OUT + S(eat)** — you're out of your seat, and someone else is in it.",
+  "trick_unpack": "Ousting is always about a seat — of power, of office, of the board — so the person doesn't just leave, they are *replaced*.",
+  "sentences": [
+    "The junta **ousted** the elected president before dawn, and the state broadcaster was reading the new decrees by breakfast.",
+    "Two bad quarters and the founder was **ousted** by his own board."
+  ],
+  "in_the_wild": "November 2023: every headline on the planet ran the same verb when OpenAI's board **ousted** Sam Altman — and then un-ousted him five days later.",
+  "etymology": "Anglo-French **oster** (\"to remove\"), from Latin **obstāre** = *ob-* (\"against\") + **stāre** (\"to stand\"). To oust is to remove someone from where they *stand* — same *stāre* behind **obstacle**, **obstruct**, **station**, and **status**.",
+  "one_line": "To force someone out of a position of power or possession.",
+  "root": "obstāre (to stand against, block) &lt; stāre (to stand)",
+  "root_family": [
+    "obstacle",
+    "obstruct",
+    "station",
+    "status",
+    "stable"
+  ],
+  "confusables": [
+    "ouster",
+    "roust",
+    "joust"
+  ],
+  "sense_tags": [
+    "expel",
+    "remove-from-power",
+    "depose",
+    "displace"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    8
+  ]
+}

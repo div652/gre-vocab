@@ -1,0 +1,47 @@
+{
+  "word": "verisimilitude",
+  "pos": "n.",
+  "pron": "ver-uh-si-MIL-i-tood",
+  "pron_note": "Five syllables; British speakers often say -tyood at the end.",
+  "means": "The quality of **seeming true** — of being lifelike, plausible, convincingly real.\n\nIt is a word about *appearance*, not fact. A novel, a film set, an alibi, a forged passport can all have verisimilitude; none of them is thereby true. Critics reach for it as praise for craft — the dialogue sounds like people actually talk, the 1840s kitchen has the right grease on it — and it stays cool and technical rather than admiring. Notice too that it's almost always used of something *made*: you praise the verisimilitude of a performance, not of a mountain.",
+  "trap": "⚠️ **verisimilitude ≠ veracity.**\n- **verisimilitude** = *looks* true\n- **veracity** = *is* true, habitually truthful\n\nA con man's story can have great verisimilitude and zero veracity.",
+  "trick_line": "**Veri-similitude** — read it as *\"very similar\"*: similar to the truth, which is exactly not the same as being it.",
+  "trick_unpack": "The word's own halves confess the limit — resemblance is all it ever claims.",
+  "sentences": [
+    "The jury was swayed less by evidence than by the **verisimilitude** of the witness's account — the small, useless details no liar would bother to invent.",
+    "The costumes are gorgeous, but there's no **verisimilitude** — nobody in 1912 had teeth like that."
+  ],
+  "in_the_wild": "This is a film-and-TV critic's workhorse word — the standard praise for something like *The Wire* or a meticulous period drama. It always means \"it feels real,\" never \"it happened.\"",
+  "etymology": "Latin **vērus** (*true*) + **similis** (*like*) — \"truth-like.\"\n\nBoth halves pay off across the exam. **vērus** gives *verify, verdict* (vere dictum, \"truly said\"), *veritable, aver* — and **very** itself, which once meant \"true\" (*the very man*). **similis** gives *similar, simulate, assimilate, resemble, simultaneous*.",
+  "one_line": "The convincing appearance of truth — not truth itself.",
+  "root": "vērus (true) + similis (like)",
+  "root_family": [
+    "verify",
+    "verdict",
+    "veritable",
+    "aver",
+    "veracity",
+    "similar",
+    "simulate",
+    "assimilate",
+    "resemble"
+  ],
+  "confusables": [
+    "veracity",
+    "verity",
+    "similitude",
+    "simulacrum"
+  ],
+  "sense_tags": [
+    "plausibility",
+    "realism",
+    "appearance-of-truth",
+    "lifelikeness",
+    "artistic-craft"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    12
+  ]
+}

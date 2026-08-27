@@ -1,0 +1,40 @@
+{
+  "word": "salutary",
+  "pos": "adj.",
+  "pron": "SAL-yuh-teh-ree",
+  "pron_note": "Stress falls on the first syllable — not sal-YOO-tuh-ree, despite the pull of \"salute.\"",
+  "means": "Producing a **good effect**, especially a corrective one; beneficial. (Older, narrower sense: health-giving.)\n\nThe thing that is salutary is usually **unwelcome at the time**. Look at what the word actually attaches to: a salutary *lesson*, a salutary *warning*, a salutary *shock*, a salutary *reminder*. It's the sharp experience that improved you — the failed exam, the near-miss, the bill that finally forced a budget. *Beneficial* is neutral about how it felt; *salutary* implies it stung and worked anyway. It's a formal, slightly stern word: the register of leader columns and school reports, not casual praise.",
+  "trap": "⚠️ **salutary ≠ salubrious.** Same root, different jobs: **salubrious** = physically healthy or wholesome *as a place or condition* (a salubrious climate, a less-than-salubrious hotel); **salutary** = beneficial *in its effect*, usually through a hard lesson.",
+  "trick_line": "**A salutary lesson is a slap you end up saluting.**",
+  "trick_unpack": "The word hides **salut-** (as in *salute*), and that's the whole nuance: it hurt, and afterwards you acknowledge it did you good.",
+  "sentences": [
+    "The collapse of the fund had at least one **salutary** consequence: no regulator could any longer pretend the risk was hypothetical.",
+    "Getting outplayed by a fourteen-year-old was a **salutary** experience — I've actually been practising since."
+  ],
+  "in_the_wild": "Every time someone raises a glass and says **\"Salut!\"** (or Spanish *\"¡Salud!\"* after a sneeze), they're using this exact root — wishing you *health*. That's the buried sense in *salutary*.",
+  "etymology": "Latin **salūs, salūtis** = *\"health, safety, well-being.\"* To **salute** someone was originally to wish health on them; a **salutation** is that wish in words; **salubrious** is the air that supplies it. *Salutary* keeps the payoff rather than the greeting: whatever leaves you better off.",
+  "one_line": "Beneficial in effect — especially something unpleasant that does you good.",
+  "root": "salus, salutis (health, safety)",
+  "root_family": [
+    "salute",
+    "salutation",
+    "salubrious",
+    "salutatorian"
+  ],
+  "confusables": [
+    "salubrious",
+    "salutatory",
+    "sanitary"
+  ],
+  "sense_tags": [
+    "beneficial",
+    "corrective",
+    "health-giving",
+    "cautionary"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    10
+  ]
+}

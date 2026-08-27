@@ -1,0 +1,44 @@
+{
+  "word": "perilous",
+  "pos": "adj.",
+  "pron": "PER-uh-luhs",
+  "pron_note": null,
+  "means": "Full of **peril** — dangerous in a way that threatens ruin, injury, or death.\n\n*Dangerous* is the everyday word; **perilous** is a grade up in both intensity and register. It belongs to voyages, mountain passes, rescue missions and, figuratively, to situations one step from collapse — *a perilous financial position*, *perilously close to war*. A dangerous road might break your axle; a perilous one drops away on the outside edge. You would call a chemical dangerous, not perilous — the word wants stakes and a story, and it carries a faint literary lift that keeps it out of casual speech unless you're being dramatic on purpose.",
+  "trap": null,
+  "trick_line": "**Peril**ous is one letter from **perish** — that's the grade of danger it means.",
+  "trick_unpack": "The sound hook fixes the intensity: not merely risky, but the kind of danger you might not walk away from.",
+  "sentences": [
+    "The expedition's final ascent was **perilous**, undertaken in failing light with the ropes already frayed.",
+    "Three coffees in and no sleep — driving home was a **perilous** idea and I knew it."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **perīculum** = *\"danger, a trial, a testing\"* — from a root meaning **\"to try, to risk.\"**\n\nThat root pays off elsewhere: to **experience** something is to have come through the trial of it, an **experiment** is a controlled risk, and an **expert** is someone who has run the trial often enough to be sure. Danger and knowledge from the same seed.",
+  "one_line": "Dangerous enough that you might not survive it.",
+  "root": "perīculum (danger, trial) ← per- (to try, risk)",
+  "root_family": [
+    "peril",
+    "imperil",
+    "parlous",
+    "experience",
+    "experiment",
+    "expert",
+    "empirical"
+  ],
+  "confusables": [
+    "parlous",
+    "perishable",
+    "peerless",
+    "puerile"
+  ],
+  "sense_tags": [
+    "dangerous",
+    "risky",
+    "precarious",
+    "life-threatening"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    11
+  ]
+}

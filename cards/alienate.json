@@ -1,0 +1,41 @@
+{
+  "word": "alienate",
+  "pos": "v.",
+  "pron": "AY-lee-uh-nayt",
+  "pron_note": null,
+  "means": "To make someone feel distant, unwelcome, or hostile — to lose their sympathy or support. (Legal sense: to **transfer property or rights** to another owner.)\n\nCompare the neighbours: *antagonize* is deliberate provocation, *offend* is a single moment's damage. **Alienate** is cumulative and usually unintended — the alienator is often just being themselves, and one by one the allies drift off. It also scales up in a way the others don't: you alienate a friend, but also a fanbase, a voter bloc, an entire region. And the damage is measured in **distance**, not anger: the alienated don't fight you, they stop showing up.",
+  "trap": null,
+  "trick_line": "**Alien** is sitting right inside it — and it's *your* behaviour that deports them.",
+  "trick_unpack": "To alienate is to turn your own people into aliens — outsiders looking in — usually without meaning to.",
+  "sentences": [
+    "The new levy on smallholders **alienated** precisely the rural constituency the party had spent a decade courting.",
+    "He didn't get fired, he just **alienated** everyone on the team until nobody invited him to anything."
+  ],
+  "in_the_wild": "The US Declaration of Independence: *\"certain **unalienable** Rights.\"* That's the legal sense — rights that cannot be signed away or transferred to anyone else, no matter who asks.",
+  "etymology": "Latin **alius** = *\"other\"* → **alienus**, *\"belonging to another.\"* To alienate is literally to make someone *other*.\n\nSame root, free words: **alias** (otherwise called), **alibi** (*elsewhere*), **alien**, **inalienable**.",
+  "one_line": "Push people away until they feel like outsiders.",
+  "root": "alius (other) → alienus (belonging to another)",
+  "root_family": [
+    "alias",
+    "alibi",
+    "alien",
+    "inalienable",
+    "alienation"
+  ],
+  "confusables": [
+    "alleviate",
+    "alienist"
+  ],
+  "sense_tags": [
+    "estrangement",
+    "losing-support",
+    "isolation",
+    "hostility",
+    "transfer-of-rights"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    15
+  ]
+}

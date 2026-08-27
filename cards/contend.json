@@ -1,0 +1,45 @@
+{
+  "word": "contend",
+  "pos": "v.",
+  "pron": "kuhn-TEND",
+  "pron_note": null,
+  "means": "Two senses, both about **strain against opposition**:\n\n**1. To assert in the face of disagreement.** Not merely to *say* — to maintain a position that someone else is pushing back on. This is why academic and journalistic prose reaches for it: \"critics **contend** that the study was underpowered\" flags the claim as *contested* and quietly distances the writer from it. Swap in \"argue\" and you lose the hint of a live dispute; swap in \"claim\" and you add a sneer that *contend* doesn't have.\n\n**2. To struggle or compete.** *Contend with* a problem = grapple with it, difficulty implied but not defeat. *Contend for* a prize = be a serious rival for it, not a hopeful bystander.",
+  "trap": null,
+  "trick_line": "**contend *that*** = argue · **contend *with*** = struggle · **contend *for*** = compete.",
+  "trick_unpack": "The preposition, not the verb, tells you which of the three senses is running.",
+  "sentences": [
+    "Several economists **contend** that the shortage was engineered, not accidental.",
+    "Between the strike and the rain, we had enough to **contend with** before the van broke down."
+  ],
+  "in_the_wild": "Marlon Brando in *On the Waterfront*: **\"I coulda been a contender.\"** A contender is one who *contends for* the title — a real threat, not a filler on the card.",
+  "etymology": "Latin **contendere** = *con-* (\"together\") + **tendere** (\"to stretch\") — to strain against. That's the through-line: an argument, a rival, and a hardship are all things you pull taut against.\n\n*tendere* is a GRE workhorse: **tension, tendon, extend, intend, pretend, portend, distend** — and **contentious**, which is just *contend* turned into a personality.",
+  "one_line": "To argue a disputed point; to struggle or compete.",
+  "root": "tendere (to stretch)",
+  "root_family": [
+    "tension",
+    "tendon",
+    "extend",
+    "intend",
+    "pretend",
+    "portend",
+    "distend",
+    "contentious",
+    "tenet"
+  ],
+  "confusables": [
+    "contest",
+    "content",
+    "contentious"
+  ],
+  "sense_tags": [
+    "asserting",
+    "arguing",
+    "competing",
+    "struggling"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    3
+  ]
+}

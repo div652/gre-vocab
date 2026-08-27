@@ -1,0 +1,37 @@
+{
+  "word": "clandestine",
+  "pos": "adj.",
+  "pron": "klan-DES-tin",
+  "pron_note": "Also heard as klan-DES-teen; stress never falls on \"clan\".",
+  "means": "Kept secret, hidden, concealed — especially something **organised and deliberately hidden because it isn't allowed**.\n\nThe word almost always carries a whiff of illegitimacy: clandestine *meetings*, *affairs*, *labs*, *cells*, *operations*. It describes a **planned activity**, not a personality — which is what separates it from **furtive**, which describes *manner* (a furtive glance, shifty and nervous). **Covert** is the neutral, official term an agency would use about itself; **clandestine** is what the newspaper calls it afterwards. Nobody runs a clandestine bake sale.",
+  "trap": null,
+  "trick_line": "**CLAN**destine — a **clan** meeting after dark, doors bolted, nobody told.",
+  "trick_unpack": "The hidden word gives you the key nuance: this is *group* secrecy, planned and conspiratorial, not one person looking shifty.",
+  "sentences": [
+    "The pamphlets were printed at a **clandestine** press in the cellar of a bookshop, three streets from the censor's office.",
+    "They'd been dating for months — very **clandestine**, separate cars, separate entrances, the whole thing."
+  ],
+  "in_the_wild": "The CIA's spy branch was literally called the **National Clandestine Service** — the officers who run deniable operations abroad, as opposed to the analysts at desks.",
+  "etymology": "Latin **clam** = *\"secretly\"*, kin to **celāre**, *\"to hide\"* — the same root under **conceal** and (via *cella*, a hidden room) **cell** and **cellar**.",
+  "one_line": "Secret and organised — hidden because it isn't allowed.",
+  "root": "clam (secretly), from celāre (to hide)",
+  "root_family": [
+    "conceal",
+    "cell",
+    "cellar",
+    "occult"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "secret",
+    "concealed",
+    "illicit",
+    "covert",
+    "conspiratorial"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    11
+  ]
+}
