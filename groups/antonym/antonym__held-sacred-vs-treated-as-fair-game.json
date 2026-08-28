@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__held-sacred-vs-treated-as-fair-game",
+  "title": "Held sacred vs. treated as fair game",
+  "seed_words": [
+    "sacrosanct",
+    "inviolate",
+    "venerate",
+    "numinous",
+    "canonize",
+    "irreverent",
+    "iconoclastic",
+    "deride",
+    "flout"
+  ],
+  "hallucinated": null,
+  "core": "Every word here sits on one side of a line: something a group has placed above question, and the act of crossing that line anyway. The reverence half splits three ways — the *status* a thing is granted, the *feeling* it produces, and the *act* by which people or institutions confer it. The irreverence half splits by target and temperature: some words mock the sacred thing, some dismantle it, one simply breaks the rule in public. The GRE lives in those splits, not in the sacred/profane divide itself.",
+  "words": [
+    {
+      "word": "sacrosanct",
+      "nuance": "**Sacrosanct** describes a protection that people have *installed*, not holiness the thing possesses — which is why it attaches so comfortably to a budget line or a standing meeting. The word usually indicts the defenders rather than praises the thing."
+    },
+    {
+      "word": "inviolate",
+      "nuance": "**Inviolate** reports the outcome, not the status: the vow, border, or sanctuary is still whole *because* no one breached it. Alone in this group it looks backward at a record of non-violation, and the speaker sincerely approves."
+    },
+    {
+      "word": "venerate",
+      "nuance": "**Venerate** is the felt reverence itself, aimed by people at a person, text, or the dead — the only word here that names an ongoing attitude rather than a status, a sensation, or a ruling. Its irony is specific: reverence that has stopped being examined."
+    },
+    {
+      "word": "numinous",
+      "nuance": "**Numinous** is the only one that runs the other direction — the place or object does something to *you*, and what it does includes dread. No community, no institution, no conferral: strip away every human observer and a sacrosanct thing loses its status while a numinous one doesn't."
+    },
+    {
+      "word": "canonize",
+      "nuance": "**Canonize** requires a body with the authority to rule — Church, syllabus, academy — and the point is finality: the reputation is now past debate. Private adoration cannot do it, however intense."
+    },
+    {
+      "word": "irreverent",
+      "nuance": "**Irreverent** is a *manner*, not a program: it needles the altar and enjoys the nerve of it, with no intention of pulling anything down. That is why it's so often a compliment paid to comedians, obituarists, and guidebooks."
+    },
+    {
+      "word": "iconoclastic",
+      "nuance": "**Iconoclastic** adds scale and a purpose — you get the label only for going after something the field genuinely reveres, and only when the demolition serves a vision. Cheek earns *irreverent*; a wrecking ball with a blueprint earns this."
+    },
+    {
+      "word": "deride",
+      "nuance": "**Deride** breaks nothing and defies nothing — it dismisses from above, ruling the target beneath serious consideration. Contempt is the whole content, and it's usually delivered publicly by someone who considers the question closed."
+    },
+    {
+      "word": "flout",
+      "nuance": "**Flout** needs no sacredness at all — just a known rule, a deliberate breach, and an audience. It takes laws, bans, and conventions as its object, never people, and carries the flat disapproval of a news report."
+    }
+  ],
+  "exam_note": "Watch the direction of the arrow: reverence words are tested on who supplies it — the defenders (*sacrosanct*), an institution (*canonize*), the devotee (*venerate*), or the object itself (*numinous*) — and *flout* is regularly baited with *flaunt* in sentence-equivalence pairs."
+}

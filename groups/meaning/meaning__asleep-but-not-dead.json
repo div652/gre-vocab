@@ -8,5 +8,25 @@
     "fallow",
     "abeyance"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a state of inactivity that is a pause rather than an ending: the thing still exists, its capacity is intact, and resumption is expected or at least possible. Each stands opposed to words that close the door — *extinct*, *defunct*, *barren*, *cancelled*. The differences are not about how inactive the thing is, but about **why it stopped and who stopped it**: an internal cycle, a lull between bouts, deliberate rest for recovery, or an authority pressing pause pending a condition. Register splits them too — two are everyday, two belong to clinics and committees.",
+  "exam_note": "The exam separates these by the *cause* of the pause, not the depth of it: look for an agent-plus-condition (\"pending the ruling\") → abeyance, soil/productivity or a creative drought → fallow, a clinical or geological passage → quiescent, and plain sleep-with-a-comeback → dormant; also note abeyance is a noun, so the sentence slot alone often decides it.",
+  "words": [
+    {
+      "word": "dormant",
+      "nuance": "The unmarked, all-purpose member: nothing and nobody paused it — it's sleeping on its own internal clock, waiting on a season, a trigger, or nothing in particular. It's also the only one you'd use freely of seeds, volcanoes, bank accounts, and untapped talent alike, in ordinary conversation."
+    },
+    {
+      "word": "quiescent",
+      "nuance": "A clinical observer's word for the lull *between bouts* of something that has flared before and will flare again — a disease in remission, a market between shocks. Where **dormant** implies a nap, **quiescent** implies a history of activity and a technical register: you meet it in medicine, geology, and physics, rarely about a person."
+    },
+    {
+      "word": "fallow",
+      "nuance": "The only one that frames the idleness as **restorative**: the field is ploughed and deliberately unsown so the soil can recover, and the yield afterwards should be better for it. Applied to a career or a writer's decade, it's a generous verdict — it insists the ground is still good and something is replenishing underneath."
+    },
+    {
+      "word": "abeyance",
+      "nuance": "A noun, and the only member with an **agent and a condition**: someone with authority parked this, and a specific event — a ruling, a vote, an heir — is expected to restart it. Stiffly institutional (law, parliaments, HR letters) and effectively frozen into *in abeyance* / *held in abeyance*."
+    }
+  ]
 }

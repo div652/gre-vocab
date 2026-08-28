@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__the-long-angry-speech",
+  "title": "The long angry speech",
+  "seed_words": [
+    "tirade",
+    "diatribe",
+    "objurgation",
+    "harangue",
+    "polemical"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe sustained verbal aggression — an attack that goes on well past the point of persuading anyone, and that indicts the speaker as much as the target. Length is doing the work in every one of them: a single cutting line cannot qualify. They differ in what supplies the heat (raw rage, moralising, bitterness toward an idea, scolding for a fault), in whether an audience is trapped listening, and in how bookish the word sounds when you reach for it.",
+  "exam_note": "The trap is grammatical and tonal, not semantic: only **polemical** is an adjective and the only one that can be neutral or approving; only **harangue** is also a verb taking a direct object; only **diatribe** sits comfortably on the printed page.",
+  "words": [
+    {
+      "word": "tirade",
+      "nuance": "The plainest and hottest — pure loss of temper, with no requirement that it scold, argue, or have a captive audience. It needs no thesis and no target position; it just needs volume and duration. This is the everyday English word for it, where the others are all reaching for a register."
+    },
+    {
+      "word": "harangue",
+      "nuance": "Defined by the audience, not the emotion: the speaker holds the floor and the listeners cannot leave. It is hectoring and moralising — delivered *at* people from a position of assumed authority — rather than merely furious, and it is the one word here that doubles as a verb you inflict on someone."
+    },
+    {
+      "word": "diatribe",
+      "nuance": "The bitterest, and the one aimed at a *position* — a person, group, or idea gets systematically savaged. Uniquely, it need not be spoken at all; a book review or pamphlet can be one. Calling something a diatribe concedes the force and denies the reasoning."
+    },
+    {
+      "word": "objurgation",
+      "nuance": "Alone here in requiring a *fault*: somebody is being told off for having done something wrong, not merely shouted at. It is also the most bookish — so grand that using it usually mocks the scolder as self-important. You will meet it in prose and essentially never in conversation."
+    },
+    {
+      "word": "polemical",
+      "nuance": "The only adjective, the only one that describes *argument* rather than rage, and the only one that can be praise. One-sidedness here is a chosen method, openly declared, not a failure of control — an op-ed or a seminar paper can be polemical and still be good work."
+    }
+  ]
+}

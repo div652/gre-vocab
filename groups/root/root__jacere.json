@@ -7,5 +7,21 @@
     "conjectural",
     "subjective"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three are built from Latin *jacere*, \"to throw,\" and in each the prefix — not the root — carries the whole meaning: thrown **down**, thrown **together**, thrown **under**. The result is three formal, Latinate adjectives that share a faint downgrading function: each demotes something, whether a person's standing, a claim's evidentiary status, or a judgment's authority. The trap is that \"demotion\" is where the similarity stops — one rates a condition, one rates proof, one locates where a judgment lives.",
+  "words": [
+    {
+      "word": "abject",
+      "nuance": "The only one of the three that says nothing about knowledge or evidence — it rates a **condition**, not a claim. It attaches to states (poverty, misery, failure) and to self-abasing behaviour, and it always implies dignity is gone; the speaker's tone tips into contempt when it modifies a person's conduct. Swap in \"extreme\" and you lose exactly what **abject** adds."
+    },
+    {
+      "word": "conjectural",
+      "nuance": "Rates the **evidentiary backing of a claim about the world**. The claim is checkable in principle — there just isn't documentation, so a historian or scientist flags the reconstruction as unproven. **Conjectural** is neutral and honest, not an accusation: it demotes a finding to a hunch without calling it false."
+    },
+    {
+      "word": "subjective",
+      "nuance": "Locates a judgment **inside a particular observer** — the problem isn't missing proof but that there's no external standard to check against. Pain, beauty, and \"too spicy\" are **subjective** with nobody at fault, which is why it isn't a synonym for *biased*: bias is correctable distortion, subjectivity is just where the judgment lives."
+    }
+  ],
+  "exam_note": "Sentence-equivalence baits **conjectural** against **subjective** in evidence contexts — ask whether the sentence complains that proof is missing (conjectural) or that no shared standard exists (subjective); for **abject**, reject traps like *severe* or *extreme* that carry the intensity but drop the loss of dignity."
 }

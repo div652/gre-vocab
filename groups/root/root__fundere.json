@@ -1,12 +1,32 @@
 {
   "kind": "root",
   "id": "root__fundere",
-  "title": "Root: fundere, fusum (to pour)",
+  "title": "Root: *fundere, fusum* — to pour",
   "seed_words": [
     "confound",
     "diffuse",
     "futile",
     "profuse"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All four come from Latin *fundere, fusum* — to pour — and each keeps a different direction of the pour. Something poured together becomes indistinguishable; poured apart, it thins to nothing; poured forth, it floods; poured out of a leaky vessel, it is simply lost. The confusion is partly visual — *-found*, *-fuse*, *fut-* all look like relatives, which they are — and partly conceptual, since three of them describe a failure of concentration and it's easy to blur which kind of failure each names: mixed, scattered, wasted, or overflowing.",
+  "exam_note": "The GRE rarely uses these in their easy senses: it wants **confound** = defeat expectation or conflate two things, **diffuse** as an adjective insulting an argument's structure — and it counts on you misreading *diffuse* (spread thin) as its homophone *defuse* (make harmless).",
+  "words": [
+    {
+      "word": "confound",
+      "nuance": "Pouring *together* — the two things merge and can no longer be told apart, which is exactly sense 3 (confounding correlation with cause). Alone in this group it takes a human object and implies a contest: someone or something gets outmatched, and the confounder wins."
+    },
+    {
+      "word": "diffuse",
+      "nuance": "Pouring *apart* — the quantity is unchanged, only the concentration is lost. It's the only word here that criticises *structure*: a diffuse essay has plenty of material and no centre, so nothing lands. Nothing failed and nothing overflowed; it just spread."
+    },
+    {
+      "word": "futile",
+      "nuance": "From the leaky vessel — whatever you pour in runs straight out. It attaches to *effort*, not substance, and delivers a verdict rather than a description: the attempt was never capable of working, so stop. The speaker sees the pointlessness the striver doesn't."
+    },
+    {
+      "word": "profuse",
+      "nuance": "Pouring *forth* — the only word in the group about sheer quantity, and the only one that can flatter. It attaches to things that stream (sweat, blood, apologies, thanks); applied to a person's manner it tips into embarrassing excess rather than failure."
+    }
+  ]
 }

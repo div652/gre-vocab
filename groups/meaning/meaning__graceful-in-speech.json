@@ -8,5 +8,25 @@
     "voluble",
     "felicitous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four praise facility with language — words that come easily, land well, or do their job beautifully. But they praise four different things: the emotional effect on the audience, the structural clarity of the thought, the sheer unstalling flow of the delivery, and the rightness of the particular word chosen. Two describe the speaker; one describes the thought's shape; one describes the phrase itself and may have no speaker at all.",
+  "words": [
+    {
+      "word": "eloquent",
+      "nuance": "**Eloquent** is measured by the audience: it moved them. It's the only one of the four that can drop language entirely — an eloquent silence, an eloquent set of casualty figures — because what it really names is vivid expressive force, not verbal skill."
+    },
+    {
+      "word": "articulate",
+      "nuance": "**Articulate** is about joints, not beauty: the thought arrives in distinct, followable pieces. It's the one that works as a verb — you *articulate* a grievance, meaning you give shapeless feeling its first set of words — and the one that carries a social hazard, since praising a person as articulate can imply you expected otherwise."
+    },
+    {
+      "word": "voluble",
+      "nuance": "**Voluble** measures the tap, not the water: lots of speech, never a stall, never a groping for the word. It makes no claim that any of it is clear, apt, or moving — hence its wobble between charmed (*a voluble host*) and wary (*too voluble to interrupt*), the only word here that isn't reliably a compliment."
+    },
+    {
+      "word": "felicitous",
+      "nuance": "**Felicitous** praises the choice, not the chooser — a metaphor, a title, a moment of timing that fits *and* pleases. It's the critic's and reviewer's word, and it's the only one with a live negative, *infelicitous*, the genteel way to call a remark clumsy."
+    }
+  ],
+  "exam_note": "The trap is swapping speaker-words for phrase-words: a sentence praising a well-chosen metaphor wants **felicitous**, not **eloquent**; and **voluble** is the standing decoy in \"fluent\" slots because it grants quantity and ease while promising nothing about quality."
 }

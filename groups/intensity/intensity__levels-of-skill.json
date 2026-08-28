@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__levels-of-skill",
+  "title": "Levels of skill: passable → adept",
+  "seed_words": [
+    "passable",
+    "competent",
+    "proficient",
+    "adept"
+  ],
+  "hallucinated": null,
+  "core": "All four rate how well someone does a thing, and all four sit in the crowded middle of the scale — above incompetence, below genius. That's the trap: none of them means \"brilliant,\" but they differ sharply in how much credit they hand over and how much they withhold. Two of them are praise thin enough to function as criticism; the other two are genuine, if unglamorous, compliments. The scale runs from clearing the bar to commanding the craft.",
+  "words": [
+    {
+      "word": "passable",
+      "nuance": "The only one that concedes the thing was barely acceptable — it names the minimum and stops. Where the others describe a person's ability, **passable** usually rates the *output*: a passable imitation, passable French. It's the verdict of someone who was disappointed and is being polite about it."
+    },
+    {
+      "word": "competent",
+      "nuance": "Certifies that nothing went wrong, and pointedly declines to say anything went well — a reviewer's \"competent thriller\" means functional and dull. Alone in this group it also has a hard legal sense (*competent to stand trial*, *court of competent jurisdiction*) where the faint praise vanishes entirely and it just means authorised."
+    },
+    {
+      "word": "proficient",
+      "nuance": "The first of the four that is actual praise, and the one that smells of the training manual — skill drilled in through practice, reliable rather than inspired. It wants an object: proficient *in* Mandarin, *at* soldering. Implies the person passed a threshold someone else set."
+    },
+    {
+      "word": "adept",
+      "nuance": "Warm and admiring where **proficient** is merely solid — practice that has hardened into fluency, with a whiff of the initiate or specialist. Uniquely in this group it also works as a noun: *an adept* is someone who has mastered a difficult art. Never faint praise; you cannot damn anyone by calling them adept."
+    }
+  ],
+  "exam_note": "The GRE tests these as *negatives*: sentence-completion stems with \"merely,\" \"no more than,\" or a concessive \"though\" want **passable** or **competent**, and picking **adept** or **proficient** there overshoots the sentence's disparaging tone."
+}

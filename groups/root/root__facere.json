@@ -1,7 +1,7 @@
 {
   "kind": "root",
   "id": "root__facere",
-  "title": "Root: facere (to make, to do)",
+  "title": "Root: *facere* (to make, to do)",
   "seed_words": [
     "counterfeit",
     "efficacious",
@@ -10,5 +10,33 @@
     "malfeasance",
     "proficient"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *facere* — \"to make, to do\" — sits under all of these, usually worn down to *-fic-*, *-feas-*, *-fect-*, *-fac-*. What each word inherits is a different question about the doing: can it be done at all, did it actually work, who did it, was the doer allowed to, and what got made in the process. They aren't synonyms, so the trap isn't meaning — it's that the shared root makes them look interchangeable on the page, and several of them are dressed in the same cold formal register.",
+  "words": [
+    {
+      "word": "counterfeit",
+      "nuance": "*Contra-facere*, \"made against\" — the only one here that produces a physical object, and the only one whose whole definition is intent to deceive. It requires a genuine original standing behind it; that's what separates it from *fake*, which needs nothing. Reach for it where authenticity is the entire value: currency, passports, medicines, seizure notices."
+    },
+    {
+      "word": "efficacious",
+      "nuance": "*Ex-facere*, \"works out\" — this is the only member that certifies the **result**, not the attempt. Compare **feasible**: feasible says the plan can be carried out, efficacious says it delivered the intended effect. Reserved almost entirely for remedies and measures, with a whiff of proven under test."
+    },
+    {
+      "word": "factious",
+      "nuance": "The doing here is *factio*, a group **acting together** as a bloc — so this is the only word in the group describing group dynamics rather than an act, a plan, or a skill. It's spoken from the standpoint of the whole and accuses the sub-group of self-interest. Never applies to one person: a factious cabinet, not a factious man."
+    },
+    {
+      "word": "feasible",
+      "nuance": "Bare *facere* with no judgment attached: it certifies only that the mechanics work out with the time, money, and materials on hand. Unlike **efficacious**, it makes no promise the thing will succeed, and unlike **malfeasance** it says nothing about whether it should be done. \"That's feasible\" is a green light on the arithmetic, not enthusiasm."
+    },
+    {
+      "word": "malfeasance",
+      "nuance": "*Mal-facere*, \"to do badly\" — the only noun here, and the only one that requires an **office**. It names the deed as a breach of duty, so it needs a treasurer, a trustee, a minister; a private citizen doing the identical thing is merely a thief. Courtroom register, heavier and colder than *misconduct*."
+    },
+    {
+      "word": "proficient",
+      "nuance": "*Pro-facere*, \"to make progress\" — the only word here grading a **person's skill level**, and the only positive one that also caps what it praises. It sits above adequate and stops deliberately short of brilliance, implying drill rather than talent. It also wants an object: proficient *in* French, *at* soldering."
+    }
+  ],
+  "exam_note": "Two swaps to watch: **feasible** offered where the sentence needs **efficacious** (doable ≠ it worked), and **factious** confused with *fractious* — a factious cabinet splits into camps, a fractious child just won't behave."
 }

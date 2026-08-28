@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__overflowing-supply-vs-shortage",
+  "title": "Overflowing supply vs. shortage",
+  "seed_words": [
+    "abound",
+    "copious",
+    "profuse",
+    "surfeit",
+    "inundate",
+    "dearth",
+    "scant",
+    "sparse",
+    "wanting",
+    "paltry"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers the question *how much?* — and answers it at one extreme or the other: far more than normal, or noticeably less than needed. The trap isn't the direction (any reader can sort plenty from shortage); it's that within each side the words differ by **grammar, target, and attitude**. Some are neutral measurements, some are compliments, and some are accusations aimed at whoever supplied the amount. The first five run from plain plenty to excess that harms; the last five run from bare scarcity to contemptible insufficiency.",
+  "words": [
+    {
+      "word": "abound",
+      "nuance": "The only **verb** on the plenty side, and intransitive: the plentiful things are the grammatical subject (*errors abound*), or the place takes *in/with* (*the reef abounds in fish*). It has no attitude of its own — it borrows one from whatever abounds, which is why *rumours abound* is deadpan and *wildflowers abound* is lush."
+    },
+    {
+      "word": "copious",
+      "nuance": "The word for **output** — what was produced, poured, taken down, consumed: notes, tears, rainfall, coffee. It stops at generous; it never implies the amount was too much for anyone. Unlike *profuse*, there's no gushing, and unlike *surfeit*, no one is sickened. The well simply kept giving."
+    },
+    {
+      "word": "profuse",
+      "nuance": "Adds **liquid, unstoppable flow** to plenty. It attaches to things that literally stream — sweat, blood, tears — and to social outpourings that mimic streaming: profuse apologies, profuse thanks. Aimed at a person's manner, it quietly means *too much*: the thanks that make the room squirm."
+    },
+    {
+      "word": "surfeit",
+      "nuance": "A **noun** (or verb), and the only one that specifies a **victim's stomach**. The amount has passed the point where more is pleasant into cloying, queasy excess — the tenth pastry. *A surfeit of information* isn't praise for a rich source; it says the mind can't digest it."
+    },
+    {
+      "word": "inundate",
+      "nuance": "Excess with a **direction and a target**: the stuff arrives from outside and swamps someone, usually in the passive (*inundated with requests*). The force is sheer volume, not difficulty — a hundred trivial emails inundate you, one hard problem doesn't. It casts you as the shore."
+    },
+    {
+      "word": "dearth",
+      "nuance": "The abstract, formal noun of shortage, all but locked into ***a dearth of*** + abstract noun: evidence, talent, imagination. Not zero — too little to go round — and it **editorialises**: the speaker believes there ought to be more. *Lack* just reports; **dearth** complains."
+    },
+    {
+      "word": "scant",
+      "nuance": "Sits in front of a noun and measures against **what the situation deserved**: *scant evidence*, *scant regard*, *scant attention*. The reproach lands on an agent, not the world — a report giving objections *scant attention* is a charge against the report. It also does duty as a precise measure (*a scant cup*), which none of the others can."
+    },
+    {
+      "word": "sparse",
+      "nuance": "About **spacing, not sufficiency** — things present but thinly spread with gaps between: a sparse crowd, sparse vegetation, sparsely populated. It's the neutral, near-technical option; a scientist calls data sparse as a description, where *paltry* or *scant* would be lodging a complaint."
+    },
+    {
+      "word": "wanting",
+      "nuance": "A **verdict delivered after testing**: the thing was weighed against a standard and came up short (*found wanting*). The others describe an amount; this one reports a judgement, from an examiner, auditor, or judge. Note the reversal of the everyday sense — the deficiency is in the thing, not a desire in a person."
+    },
+    {
+      "word": "paltry",
+      "nuance": "Measures and **sneers** in one move, almost always at a sum, wage, offer, or turnout — *a paltry £5*. The implied comparison is to what was owed or promised, so the contempt falls on the **giver**. *Meagre* pities the recipient; **paltry** shames the source."
+    }
+  ],
+  "exam_note": "The exam rarely tests plenty-vs-shortage; it tests which member of one side the sentence's tone demands — a clause about readers giving up signals **surfeit** or **inundate**, not the neutral *copious* or *abound*, and a clause criticising an author's effort signals **scant** or **paltry**, not the merely descriptive *sparse*."
+}

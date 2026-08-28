@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__misgiving-to-horror",
+  "title": "Misgiving to horror",
+  "seed_words": [
+    "qualm",
+    "apprehension",
+    "aghast"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "qualm",
+      "nuance": "**Qualm** is the only one that's *moral* — a private flicker of conscience asking whether you should be doing this, not fear of what will happen to you. It's also the only one you can have several of, count, and dismiss: it lives in the plural and mostly in the negative (\"no qualms about firing him\"), where its absence is the point being made about the person's character."
+    },
+    {
+      "word": "apprehension",
+      "nuance": "**Apprehension** is dread pointed at a specific coming event — the verdict, the audit, the biopsy — and it's the only one here that's polite enough for a memo. It doesn't stop you: the apprehensive person shows up anyway. Watch for the two GRE senses that have nothing to do with fear — *arrest* (\"the apprehension of the suspect\") and *comprehension* (\"beyond human apprehension\")."
+    },
+    {
+      "word": "aghast",
+      "nuance": "**Aghast** is the only adjective, the only reaction *after* the fact, and the only one carrying revulsion — you are aghast at something ghastly, morally or physically. It describes a face and a moment, not a mood, and it resists sitting before a noun: people are *aghast at* the news; \"an aghast juror\" is wrong."
+    }
+  ],
+  "core": "All three name disquiet at something wrong or threatening, and they sit on a rising scale — from a hesitation barely worth mentioning, through sustained dread, to frozen horror. They also split on timing and target: two of them face forward at something not yet done or not yet arrived, while the strongest looks back at something already revealed. Register climbs with intensity too, from everyday to distinctly literary.",
+  "exam_note": "The trap isn't the scale — it's that **apprehension** is usually tested in its non-fear senses (*arrest*, *understanding*), so if dread doesn't fit the sentence, swap one of those in."
+}

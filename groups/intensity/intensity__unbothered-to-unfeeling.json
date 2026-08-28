@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__unbothered-to-unfeeling",
+  "title": "Unbothered to unfeeling",
+  "seed_words": [
+    "nonchalant",
+    "blithe",
+    "cavalier",
+    "callous"
+  ],
+  "hallucinated": null,
+  "core": "All four describe a missing reaction — the concern, alarm, or sympathy that the situation called for simply isn't there. What separates them is *what's absent and why*: whether it's only absent from the face, absent because the person never looked, absent because they've decided the matter is beneath their attention, or absent because the capacity to feel it has worn away. They also climb a moral ladder: the first is a manner, the last is a charge.",
+  "exam_note": "The exam banks on you treating these as interchangeable \"doesn't care\" synonyms — but only **callous** requires someone else's suffering, only **blithe** requires cheerfulness, and only **nonchalant** can be neutral or even flattering.",
+  "words": [
+    {
+      "word": "nonchalant",
+      "nuance": "The only one that describes appearance rather than character — it says nothing about what the person actually feels, which is why it can be pure compliment (effortless cool) where the other three cannot. Its natural home is a high-adrenaline moment met with an unhurried shrug."
+    },
+    {
+      "word": "blithe",
+      "nuance": "Adds cheerfulness, which none of the others require — the offense is being *happy* while overlooking something costly, not merely unmoved by it. It attaches to abstractions rather than people (**blithe disregard**, **blithe assumption**), and it accuses of lightness, not hardness."
+    },
+    {
+      "word": "cavalier",
+      "nuance": "The dismissal is deliberate and comes from above: the person has judged the stakes unworthy of their attention and waved them off. It presumes standing — you need some authority or grandeur to be cavalier, which is why it lands on doctors, executives, and officials rather than bystanders."
+    },
+    {
+      "word": "callous",
+      "nuance": "The only one that requires a *victim* — it needs human suffering in the frame for the missing sympathy to register as a fault. It also implies history: the feeling was worn away by long exposure, so the word carries the sense of a person hardened into this rather than merely acting it."
+    }
+  ]
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__driven-apart-from-others",
-  "title": "Driven apart from others",
+  "title": "Driven Apart: Enmity, Drift, and Rupture",
   "seed_words": [
     "alienate",
     "estranged",
     "antagonize",
     "divorced"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a connection that has failed — someone turned against you, someone quietly gone, or something floating free of what should hold it. They split along three axes: whether the break is an **act** or a **state**, whether it produces **hostility** or **distance**, and whether the thing separated is a **person** or an **idea**. Two are verbs for causing the rupture; two are adjectives for living in it. Reordered here as a sequence: provoke → lose → drifted apart → cut loose.",
+  "words": [
+    {
+      "word": "antagonize",
+      "nuance": "The only one that produces an enemy who comes *toward* you. Everything else here ends in silence and distance; **antagonize** ends in a fight, a lawsuit, a retaliation. It takes a person who has power over you (the landlord, the regulator) and almost always appears as a warning not to do it."
+    },
+    {
+      "word": "alienate",
+      "nuance": "The cause-verb of withdrawal: **alienate** is what you do, unintentionally, that makes people stop showing up. Unlike *antagonize*, no provocation is required — the alienator is usually just being himself. It is also the only word here that scales to crowds: you alienate a voter bloc, a fanbase, half a state."
+    },
+    {
+      "word": "estranged",
+      "nuance": "A state, not an act — **estranged** names the condition without naming who caused it, which is precisely why journalists use it (*his estranged sister*) to report a rupture while assigning no blame. It also demands a prior intimacy: you can be alienated by a stranger, never estranged from one. Reserved for people, usually family."
+    },
+    {
+      "word": "divorced",
+      "nuance": "The only one whose object is normally a *thing* — a theory **divorced from** the evidence, policy divorced from reality. It carries an accusation the others don't: not merely separated, but separated from what *ought* to anchor it. Watch the grammar — passive, and almost always followed by **from**."
+    }
+  ],
+  "exam_note": "The GRE tests the non-marital, non-obvious senses — **divorced from** the evidence, **antagonize** as \"counteract\" (drugs, muscles), **alienate** as \"transfer property\" — and baits you into swapping *antagonize* (active enmity) for *alienate* (silent withdrawal)."
 }

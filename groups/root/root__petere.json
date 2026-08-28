@@ -1,12 +1,32 @@
 {
   "kind": "root",
   "id": "root__petere",
-  "title": "Root: petere (to seek, aim at)",
+  "title": "Root: *petere* — to seek, aim at, rush toward",
   "seed_words": [
     "competent",
     "impetuous",
     "petulant",
     "propitious"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *petere* means motion with a target: to make for, aim at, rush at, and by extension to seek or ask. Each word here preserves a different slice of that motion — the aim landing on its mark, the rush itself, the snap at something small, or the favourable drift of things toward you. The prefixes do the sorting: seeking *together*, seeking *into*, seeking *forward*. In modern English their meanings share nothing; the root is a filing system, not a definition, so never reason from one to another.",
+  "words": [
+    {
+      "word": "competent",
+      "nuance": "*Com-* (together) + *petere*: your abilities and the requirement seek the same point and meet. **Competent** is the only member where the motion has stopped — it reports arrival at a standard, not travel toward one, which is exactly why it reads as a floor rather than praise. Same root, same image of converging aims, gives *competition*: rivals seeking one prize."
+    },
+    {
+      "word": "impetuous",
+      "nuance": "*In-* + *petere*, to rush at — the only word that keeps the physical charge intact (compare *impetus*). **Impetuous** faults a person for velocity: the decision arrived too fast and too hot, but it was a real decision aimed at something. Nothing childish or petty about it; the fire is what makes it half-forgivable."
+    },
+    {
+      "word": "petulant",
+      "nuance": "From *petulans*, apt to snap or make little attacks — *petere* shrunk to a peck. **Petulant** faults the smallness of the target and the undignified delivery: it attaches to a tone (a petulant reply, a petulant sulk), never to a rash act. Where the previous word charges, this one pouts."
+    },
+    {
+      "word": "propitious",
+      "nuance": "*Pro-* + *petere*: an omen flying forward toward you, favourably. **Propitious** is the only one pointed outward — it grades circumstances, moments, weather, signs, never a person's temperament or ability — and the only positive, formal, forecast-before-the-attempt member of the group."
+    }
+  ],
+  "exam_note": "The exam never tests the root; it tests the two negative temperament words against each other — swap **impetuous** (too fast) for **petulant** (too small) and the sentence's logic quietly breaks — and leans on **competent**'s faint-praise ceiling and **propitious**'s strictly before-the-fact timing."
 }

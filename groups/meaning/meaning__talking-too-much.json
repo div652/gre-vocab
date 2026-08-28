@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__talking-too-much",
-  "title": "Talking too much",
+  "title": "Talking Too Much: Where the Complaint Lands",
   "seed_words": [
     "garrulous",
     "loquacious",
     "voluble",
     "ramble"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four cover the same raw fact: a person producing far more speech than the occasion requires. What separates them is not the word count but the angle of attack — whether the speaker is admiring the ease of the flow, dryly noting the excess, or complaining about being trapped. Three are adjectives labelling the talker; one is a verb naming the drift itself. The exam almost never tests \"does this mean talkative\"; it tests which shade of judgement the sentence has already set up.",
+  "words": [
+    {
+      "word": "garrulous",
+      "nuance": "The only one that is unambiguously a complaint, and the complaint is specifically about **triviality plus digression** — not just too much, but too much about nothing. Choose it when the sentence supplies a captive, suffering listener, or the classic subject (the old man, the seatmate, the barber)."
+    },
+    {
+      "word": "loquacious",
+      "nuance": "Names quantity while withholding the verdict — the diction is arch enough to signal the speaker is being polite about it. Reach for **loquacious** when the sentence is amused or ironic rather than annoyed (*a loquacious witness*, *loquacious after two glasses*); the excess is noted, not indicted."
+    },
+    {
+      "word": "voluble",
+      "nuance": "Measures **ease, not quantity** — the words arrive fluently, rapidly, with no groping or stalling. It is the only one of the four that can be straight praise (*a voluble advocate*), and the only one that fits a short, fast, perfectly on-point outpouring."
+    },
+    {
+      "word": "ramble",
+      "nuance": "The verb for the *structural* failure: drifting off point, burying the thesis. It says nothing about volume or fluency, and it is never an accusation of error — a **rambling** answer is tiring, not wrong. Note the benign walking sense (a Sunday **ramble**), which the other three have no equivalent of."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves pairing these as near-synonyms, then hinging the answer on a single clue word: \"effortlessly\"/\"never hesitated\" forces **voluble**, \"tedious\"/\"about nothing at all\" forces **garrulous**, \"wandered from\"/\"never reached the point\" forces **rambling** — and **loquacious** is the safe filler that only works when the sentence stays neutral."
 }

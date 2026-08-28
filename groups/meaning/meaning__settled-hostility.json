@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__settled-hostility",
-  "title": "Settled hostility",
+  "title": "Settled hostility vs. settled dislike",
   "seed_words": [
     "animosity",
     "animus",
@@ -9,5 +9,29 @@
     "antipathy",
     "aversion"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five name a dislike that has hardened — not a flash of temper but something that persists and colors how the holder behaves. The differences aren't strength so much as **what the feeling attaches to and what it's doing in the sentence**: is it a heat between two people, a motive behind an act, a standing relationship, a cold judgment about a person or idea, or a wish to be somewhere else? Two of them cover being enemies; two cover simply not being able to stand something. One is used to accuse.",
+  "words": [
+    {
+      "word": "animosity",
+      "nuance": "The one with **temperature**. It's hostility as an atmosphere — bad blood you can hear in a tone of voice, usually personal and usually with a backstory (a feud, a snub). Where *enmity* is the standing relationship, animosity is the heat that keeps flaring inside it; where *animus* is the motive, animosity is the mood."
+    },
+    {
+      "word": "animus",
+      "nuance": "The **accusation** word: it names hostility as the *cause* of an act. You don't just feel animus, you act on it, and someone else alleges it — a firing, a prosecution, a rule *motivated by* animus. It always points back at the hostile party's mind, which is why it's the courtroom and op-ed choice; nobody writes that a jury found animosity."
+    },
+    {
+      "word": "enmity",
+      "nuance": "Names a **relationship, not an emotion** — the state of being enemies. It can lie completely dormant (two clans at enmity for a century, never speaking) where animosity has to be felt to exist. Typically mutual, often inherited, and scaled up: houses, nations, factions. Absurdly grand for a coworker."
+    },
+    {
+      "word": "antipathy",
+      "nuance": "Cold **dislike without the war**. It wants distance rather than damage, and unlike the hostility words it needs no history and no target who wronged you — it's often unaccountable, felt before it can be justified. It's also the one that takes **abstractions and groups** comfortably: antipathy toward regulation, toward reform, toward a whole class of people."
+    },
+    {
+      "word": "aversion",
+      "nuance": "The least social and the only **register-neutral** member: it points at a *thing or activity*, not a person, and implies nothing bad about the object — an aversion to paperwork, to cold water, to risk. Clinical enough for a psychologist or an economist to use with a straight face (*risk aversion*, *aversion therapy*). It describes what you avoid, not who you resent. Fixed preposition: aversion **to**."
+    }
+  ],
+  "exam_note": "The GRE splits this group by object and role: person-and-history (animosity), motive-for-an-act (animus), mutual standing state (enmity), person-or-idea judged coldly (antipathy), thing-or-activity avoided (aversion) — so read what the blank attaches to before ranking intensity."
 }

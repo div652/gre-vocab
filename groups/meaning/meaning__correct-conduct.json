@@ -8,5 +8,25 @@
     "deportment",
     "comity"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four name conduct judged against a standard of correctness rather than a standard of goodness — form, not virtue. Each is formal, faintly institutional, and concerned with observing the expected outward shape of behaviour: restraint, courtesy, bearing, the done thing. A person can satisfy every one of them and still be a scoundrel; a person can violate them all without committing any moral wrong. What separates them is *what the standard governs* — the occasion, the code, the body, or the relationship between rival institutions.",
+  "words": [
+    {
+      "word": "decorum",
+      "nuance": "Anchored to **the occasion in progress** — the restraint this room, this ceremony, this hearing demands right now. It's what a judge orders when the gallery starts shouting; breaching it disrupts an event rather than violating a rule you could have written down in advance."
+    },
+    {
+      "word": "propriety",
+      "nuance": "The **code itself**, abstract and portable — invocable about conduct that happened elsewhere, last year, in private. Alone in this group it also attaches to *acts rather than persons*: you can question the propriety of an appointment, a loan, a phone call, meaning \"should this have been done at all?\""
+    },
+    {
+      "word": "deportment",
+      "nuance": "The only one that is **physical** — posture, bearing, how you enter a room and hold yourself in it. It's a mark on a report card, graded by an observer watching one individual; you can have impeccable deportment standing silently alone under inspection."
+    },
+    {
+      "word": "comity",
+      "nuance": "The only one whose parties are **institutions, not people**, and whose politeness is *unowed* — courts, chambers, sovereign states restraining each other by choice, with no authority to compel them. Its collapse means escalation and gridlock, not embarrassment."
+    }
+  ],
+  "exam_note": "Comity is the trap: it looks like a generic synonym for civility, but the sentence will always supply rival institutions (senate, nations, jurisdictions) — if the parties are individuals, it's wrong."
 }

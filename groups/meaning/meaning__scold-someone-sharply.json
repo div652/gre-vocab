@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__scold-someone-sharply",
-  "title": "Scold someone sharply",
+  "title": "Scolding: heat, rank, and hurt",
   "seed_words": [
     "berate",
     "upbraid",
@@ -9,5 +9,29 @@
     "admonish",
     "reproach"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five verbs cover telling someone off for a fault — disapproval delivered *at* the offender, not merely opinion expressed about them. What separates them is not the offence but the posture behind the voice: how hot it runs, whether the speaker outranks the target, whether the fault gets named, and whether the impulse is to punish, to correct, or simply to show the wound. Register matters too: one of these belongs to shouting matches, the rest to written English.",
+  "words": [
+    {
+      "word": "berate",
+      "nuance": "The only one measured in **duration and decibels** — a tirade, not a sentence, usually with an audience. It's also the one that makes the *speaker* look bad: berating implies lost temper and enjoyed volume, where the other four leave the scolder's composure intact."
+    },
+    {
+      "word": "upbraid",
+      "nuance": "The fault gets **named, to the face** — you upbraid someone *for* a specific thing, which is exactly what berating (pure noise) never bothers to do. Bookish: it's what a narrator says a character did, not what happens in a real kitchen argument."
+    },
+    {
+      "word": "chastise",
+      "nuance": "The **rank gap is the point** — parent, bishop, coach, editorial page, correcting a subordinate *for their own good*. Alone in the group it retains a shadow of physical punishment from older and biblical use, which is why it lands heavier than any purely verbal telling-off."
+    },
+    {
+      "word": "admonish",
+      "nuance": "The **mild** one, and the only one that faces **forward**: it comes with advice or a warning attached (*admonished them to keep silent*). The aim is that you fix it, not that you feel it — which is why a judge admonishes a jury, an act no one would call a scolding."
+    },
+    {
+      "word": "reproach",
+      "nuance": "Powered by **hurt rather than authority** — \"you let me down,\" not \"you broke a rule\" — so it can come from a friend, a mother, or your own conscience, and can be delivered by a look with no words at all. Also the group's live **noun**, surviving in *beyond reproach*, where it means the blame itself, not the act of blaming."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps lean on the two odd senses — **admonish** as forward-looking *warn/urge* and **reproach** as a noun meaning disgrace — while completion items key on the posture word in the stem (*gently*, *at length*, *from the bench*), which rules in exactly one of these."
 }

@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__sure-handed-vs-all-thumbs",
+  "title": "Sure-handed vs. all thumbs",
+  "seed_words": [
+    "adept",
+    "adroit",
+    "deft",
+    "dexterous",
+    "proficient",
+    "facility",
+    "inept",
+    "gauche",
+    "gawky",
+    "feckless",
+    "cumbersome"
+  ],
+  "hallucinated": null,
+  "core": "All of these judge how well someone handles a task — the hands, the tongue, the tricky moment — and the group runs from fluent command down through visible bungling. The positive half is nearly interchangeable in a dictionary and separates almost entirely by *domain* (fingers, mind, whole craft) and by *how much* praise is being granted. The negative half splits by *what* is being blamed: the performance, the manners, the body, the character, or the object itself.",
+  "words": [
+    {
+      "word": "adept",
+      "nuance": "**Adept** is the only one of the praise words that describes command of a whole discipline rather than a single move — and it implies initiation, someone who went through the practice and came out a specialist. Takes an object: adept *at*, adept *in*."
+    },
+    {
+      "word": "adroit",
+      "nuance": "**Adroit** is skill under pressure, and the pressure is usually human — the cornered witness, the reframed question. It praises the manoeuvre, not the person, so it can curdle into *slick*; none of the others carry that faint distrust."
+    },
+    {
+      "word": "deft",
+      "nuance": "**Deft** is about economy: the move took no more effort than it needed and looked easy. Where *adroit* implies a difficulty escaped, **deft** implies no visible struggle at all — it's the critic's compliment for finesse over force."
+    },
+    {
+      "word": "dexterous",
+      "nuance": "**Dexterous** stays with the fingers — fine motor control and speed, the surgeon and the pickpocket alike. It's the most literal and the most morally blank of the four: it rates the doing, never the character behind it."
+    },
+    {
+      "word": "proficient",
+      "nuance": "**Proficient** is the only praise word here with a ceiling built in: reliably good, deliberately not brilliant. It implies drilling rather than flair, so calling someone proficient where the others would fit is a quiet demotion."
+    },
+    {
+      "word": "facility",
+      "nuance": "**Facility** is the group's noun — a possessed ease (*a facility for languages*), not a quality of one performance. It's also the one that can be a backhanded compliment: a facility *for excuses* suggests the fluency came too cheaply."
+    },
+    {
+      "word": "inept",
+      "nuance": "**Inept** indicts the performance and makes you wince — the fumbled handshake, the remark that lands wrong. Unlike *incompetent* it doesn't say you're unfit for the role, only that you handled this badly and everyone saw."
+    },
+    {
+      "word": "gauche",
+      "nuance": "**Gauche** narrows the failure to manners and blames upbringing, not nerves. It's a verdict passed downward — the speaker is claiming to know the rules, so the word exposes their snobbery as much as the offender's blunder."
+    },
+    {
+      "word": "gawky",
+      "nuance": "**Gawky** is purely physical and purely temporary: too-long limbs, no coordination yet, and an assumption they'll grow out of it. It's the only unkind word here that's half-fond — a gawky person is charming and knocks over the glass."
+    },
+    {
+      "word": "feckless",
+      "nuance": "**Feckless** isn't clumsiness at all — nothing gets attempted badly because nothing gets finished. It brands a whole character as useless and unreliable over years, with dismissive contempt: the idle heir, the absentee father, never the villain."
+    },
+    {
+      "word": "cumbersome",
+      "nuance": "**Cumbersome** blames the object, not the handler — the thing is too bulky or over-elaborate to manage smoothly. The complaint is friction, not hardship: on the GRE it usually attaches to *bureaucracy*, *machinery*, or *prose*."
+    }
+  ],
+  "exam_note": "Two traps: *adept/inept* look like a prefix pair but aren't related, and *feckless* is offered where the sentence actually needs incompetence at a task rather than lifelong uselessness — plus *facility* whose \"building\" sense is never the tested one."
+}

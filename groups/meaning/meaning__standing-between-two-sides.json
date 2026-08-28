@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__standing-between-two-sides",
-  "title": "Standing between two sides",
+  "title": "Standing Between Two Sides",
   "seed_words": [
     "intermediary",
     "mediate",
     "proxy",
     "reconcile"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four words live in the gap between two parties that are apart — opposed, separated, or simply unable to deal with each other directly. Something or someone occupies that gap: carrying, brokering, substituting, or finally closing it. They diverge on three questions: does the middle figure serve both sides or just one, does it hold any power to compel, and is the word naming the position, the activity, or the result?",
+  "words": [
+    {
+      "word": "intermediary",
+      "nuance": "The only one that names a **seat, not a deed**. An **intermediary** is defined by geography — it sits between — and may add nothing but its own presence and its own fee. Hence the commercial sneer in \"cut out the intermediary,\" which no one says about a mediator."
+    },
+    {
+      "word": "mediate",
+      "nuance": "**Mediate** is the active labour of the middle position, and its signature is *powerlessness*: the mediator shuttles and coaxes but cannot rule, so \"a mediated settlement\" quietly certifies that both sides consented. Alone in this group it also has a flat academic sense — *mediated by* = transmitted through — where no dispute exists at all."
+    },
+    {
+      "word": "proxy",
+      "nuance": "The others stand *between* two sides; a **proxy** stands *for* one of them, carrying its delegated authority and acting in its name. Its second life is scientific: the stand-in measurement for a quantity you cannot reach — the only word here that can substitute for a *thing* rather than a person."
+    },
+    {
+      "word": "reconcile",
+      "nuance": "Not a middle figure at all but the **outcome** the middle figure is after, and it presupposes a prior break — a quarrel, a discrepancy in the books, a fate you fought. Its reflexive form (*reconcile oneself to*) has no counterpart in the others: a private surrender with no second party involved."
+    }
+  ],
+  "exam_note": "The GRE rarely tests the dispute-settling sense — expect **mediate** in its colourless \\\"transmitted through\\\" use and **proxy** as a stand-in variable in a science passage, where the negotiation reading is a trap."
 }

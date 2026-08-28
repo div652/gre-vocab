@@ -8,5 +8,25 @@
     "forsake",
     "jettison"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Every word here describes a letting-go that is chosen rather than suffered — no theft, no accident, no defeat. What separates them is the shape of the release: whether the thing was ever in your hands, whether anyone receives it, what pressure forced the decision, and whether the act reflects badly on you. Two are cool and procedural, one is judgmental, one happens under duress.",
+  "words": [
+    {
+      "word": "relinquish",
+      "nuance": "The only one that is a **handover**: the thing had a rightful holder and now passes to someone else — the crown, the wheel, the deed, the claim. Formal and transactional, it presumes your title was legitimate; nothing about the act is blameworthy, only reluctant."
+    },
+    {
+      "word": "forgo",
+      "nuance": "The only one where the thing was **never yours to begin with** — you decline the take rather than release a hold. Forward-looking and undramatic: the dessert, the bonus, the raise you didn't ask for. It costs you an option, not a possession, and it makes you sound sensible rather than wounded."
+    },
+    {
+      "word": "forsake",
+      "nuance": "The only one that **passes judgment on you**. It needs a bond — a person, a faith, a promise — and the thing left behind is capable of feeling the loss. Literary and reproachful where the others are procedural; the tone turns noble only when what you forsake is a vice."
+    },
+    {
+      "word": "jettison",
+      "nuance": "The only one done **under load**, to survive: you dump the plan, the policy, the running mate because the vehicle won't stay up carrying it. Nobody receives what you drop — it's destroyed, not transferred — and the point is that you're still moving afterwards."
+    }
+  ],
+  "exam_note": "Watch the sentence's pressure cue: a rightful claim handed over → relinquish; something merely available → forgo; survival or lightening the load → jettison; loyalty language (vows, faith, those who trusted you) → forsake."
 }

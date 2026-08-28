@@ -8,5 +8,21 @@
     "fractious"
   ],
   "similarity": 0.94,
-  "auto": true
+  "auto": true,
+  "core": "Three words separated by one or two letters, all of them negative, all of them accusations about someone's behaviour — which is why the eye slides between them. But they operate in three unrelated domains: one is about humour, one is about the structure of an organisation, one is about temper. Nothing about their meanings overlaps; the confusion is purely orthographic, so the fix is a hard mapping from spelling to domain rather than a shading of degree.",
+  "words": [
+    {
+      "word": "facetious",
+      "nuance": "The only one of the three with nothing to do with conflict — the charge is misplaced humour, not discord. It attaches to a single remark or a person's manner in one exchange (\"a facetious reply\"), and the offence is timing: someone was joking when a straight answer was owed. Anchor it to the -ceti- spelling and to the fact that it holds all five vowels in order, a-e-i-o-u."
+    },
+    {
+      "word": "factious",
+      "nuance": "Structural, not emotional: it is about a body **splitting into blocs**, and it is transparently the adjective of *faction*. It describes parties, disputes, senates, eras — and the speaker is always standing with the whole, implying the sub-group put its own interest above the organisation. It can never describe one cranky individual; a lone person has no faction."
+    },
+    {
+      "word": "fractious",
+      "nuance": "Temper, not organisation — think *fracture* and *friction*. Uniquely of the three, it works on a single person, and typically a small or low-status one: a toddler, a patient, a queue of passengers, cranky and hard to manage. Applied to a group it means noisy squabbling and a nuisance to whoever is chairing, not a principled schism into camps."
+    }
+  ],
+  "exam_note": "The trap is factious/fractious in the same slot: a coalition can be described by either, so decide from the rest of the sentence — organised rival blocs (factious) versus general bad-tempered bickering (fractious); if the subject is one irritable person, only fractious is possible."
 }

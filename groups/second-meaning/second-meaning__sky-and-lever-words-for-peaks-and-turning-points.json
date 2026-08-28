@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__sky-and-lever-words-for-peaks-and-turning-points",
+  "title": "Borrowed Points: Sky, Orbit, Music, Lever",
+  "seed_words": [
+    "zenith",
+    "nadir",
+    "apogee",
+    "crescendo",
+    "fulcrum"
+  ],
+  "hallucinated": null,
+  "core": "Every word here started as a technical term — a point on the celestial sphere, a point in an orbit, a marking in a score, a point on a machine — and each is now used almost entirely for the figurative sense. That shared migration is the trap: they all get flattened in memory into \"the big important moment,\" so a test-taker reaches for whichever one sounds most impressive. But they mark different things — the top of an arc, the bottom of one, the climb toward a top, and a point that isn't on an arc at all. The literal sense is what disambiguates them; keep it in view and they stop blurring.",
+  "words": [
+    {
+      "word": "zenith",
+      "nuance": "**Zenith** is the sky straight overhead — the grandest and most rhetorical of the highs, reserved for power, fame, empires, reputations. It has no orbital mechanics behind it, so any sense of decline comes from the speaker's tone, not from physics: *at the zenith of his influence* is a narrator's flourish, and the fall is implied by who is telling the story."
+    },
+    {
+      "word": "nadir",
+      "nuance": "**Nadir** is the only one pointing down — literally the celestial point beneath your feet, the exact antipode of zenith. It is a superlative verdict delivered in survey of a whole arc, so it cannot be one of several low points, and its formality lends the collapse a dignity a plain \"low point\" never would."
+    },
+    {
+      "word": "apogee",
+      "nuance": "**Apogee** is orbital: the farthest point of a measured trajectory, with gravity already doing its work. That makes it cooler and more analytic than *zenith* — it sits comfortably on impersonal things like styles, movements, and periods (*the apogee of the Baroque*), where zenith wants a person's power."
+    },
+    {
+      "word": "crescendo",
+      "nuance": "**Crescendo** is the only member that names a *process*, not a point — the bars of getting louder, not the loud arrival. If the sentence wants *reached its highest point*, crescendo is precisely wrong; if it wants *swelling, mounting, building*, nothing else in this group will do."
+    },
+    {
+      "word": "fulcrum",
+      "nuance": "**Fulcrum** isn't on the arc at all — it's a point in a system rather than a moment in a timeline, so it never marks high, low, or rising. Its force comes from smallness: the still, unremarkable thing that the whole weight rests on, where moving it an inch changes the outcome."
+    }
+  ],
+  "exam_note": "The classic bait is a sentence describing a steady *build* with *zenith*/*apogee*/*culmination* on offer beside *crescendo* — and the reverse, a sentence naming a summit that tempts you into *crescendo*; meanwhile *fulcrum* gets slotted in wherever a blank means \"central\" or \"decisive,\" though it specifically means leverage."
+}

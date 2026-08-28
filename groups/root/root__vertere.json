@@ -1,7 +1,7 @@
 {
   "kind": "root",
   "id": "root__vertere",
-  "title": "Root: vertere (to turn) + ad- (toward, against)",
+  "title": "Root: vertere / versus (to turn) — the prefix decides the direction",
   "seed_words": [
     "adverse",
     "aversion",
@@ -9,5 +9,29 @@
     "incontrovertible",
     "versatile"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Every word here is a turning, and the prefix says which way: turned against you, turned away from, turned apart, turned back (an argument), turned to many uses. Because the root image is the same, the words look like relatives and get swapped — especially the two that both mean \"turn from/against.\" The real differences are grammatical and directional: who does the turning (a force outside you, or you yourself), what the turning attaches to (conditions, feelings, evidence, skills), and whether the turn is a fault or a virtue.",
+  "words": [
+    {
+      "word": "adverse",
+      "nuance": "The turning is done **to** you by something outside: conditions, effects, rulings, markets. It never names a feeling — a person is not adverse to broccoli, and **adverse** takes no human subject at all."
+    },
+    {
+      "word": "aversion",
+      "nuance": "The only word in the group that lives inside a person's head: a settled dislike that wants distance rather than damage. Where *adverse* is a force pressing on you, **aversion** is you backing away — and it takes **to**, never *of*."
+    },
+    {
+      "word": "divorced",
+      "nuance": "The only one that presupposes a bond that existed and should still hold, so the separation reads as an accusation of failure, not a neutral fact. Passive, always with **from**, and on the GRE almost never about marriage."
+    },
+    {
+      "word": "incontrovertible",
+      "nuance": "The turning here is purely rhetorical — an argument that cannot be turned back. It grades *evidence*, not danger, feeling, or importance: an **incontrovertible** fact can be completely trivial, and the word wants documents and data, not charm."
+    },
+    {
+      "word": "versatile",
+      "nuance": "The lone compliment: turning your hand to many things and being good at each. Unlike *adaptable* (you cope with change) or *flexible* (you yield to others), **versatile** claims skills already in hand — and it applies to tools and fabrics as readily as to people."
+    }
+  ],
+  "exam_note": "The classic trap is adverse/averse: the exam offers \"adverse to risk\" where only *averse* (or *aversion*) fits, banking on the shared root to hide the fact that one describes a force and the other a feeling."
 }

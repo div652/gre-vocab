@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__what-follows-after",
-  "title": "What follows after",
+  "title": "What Follows After",
   "seed_words": [
     "ramification",
     "repercussion",
     "ensue"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three name the aftermath of an act — the thing that happens *because* something else happened. Each insists on a causal link rather than mere sequence, and each carries a formal, written-up register: reports, policy papers, court filings. The splits are direction and stance. Two are nouns for consequences that are anticipated and dreaded; one is a verb for consequences already unfolding on the page, and it takes no object at all.",
+  "words": [
+    {
+      "word": "ramification",
+      "nuance": "The branching one — it flags **multiplicity**, not severity. You weigh the *ramifications* before acting, and the implied worry is that the web is wider than you've mapped, not that someone will come after you. It takes a domain adjective (legal, tax, constitutional, ethical) far more readily than an emotional one."
+    },
+    {
+      "word": "repercussion",
+      "nuance": "The one that **travels and lands on someone**. It stresses delay and distance — the harm surfaces later, often to a party who had nothing to do with the decision. And it alone can be a threat: *\"there will be repercussions\"* is a promise of punishment, a sense **ramification** never carries."
+    },
+    {
+      "word": "ensue",
+      "nuance": "Not a consequence at all but the **verb of it happening**, and only intransitively — chaos *ensues*, but you cannot *ensue* anything. It is retrospective and deadpan where the nouns are anticipatory and alarmed: a reporter's word for what came next (\"a brawl ensued\"), neutral enough to be used for good outcomes and dry enough to be funny."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves to dangle **ramifications**/**repercussions** as an easy pair — check whether the sentence is about a tangle of effects to trace or a delayed blow to absorb; and if the blank takes a direct object, **ensue** is dead on arrival."
 }

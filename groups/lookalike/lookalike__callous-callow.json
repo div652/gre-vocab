@@ -8,5 +8,21 @@
     "fallow"
   ],
   "similarity": 0.8,
-  "auto": true
+  "auto": true,
+  "core": "Three near-twins separated by two letters, and each names an absence — of feeling, of experience, of activity. But they land on completely different subjects: one on a hardened adult, one on an untested young person, one on ground or time. Nothing but the spelling connects them, which is exactly why they get swapped. Fix each to its own root and the confusion dies.",
+  "words": [
+    {
+      "word": "callous",
+      "nuance": "The only one carrying a **moral charge** — it accuses. Root is *callus*: skin thickened by repeated friction, so it implies someone who once could feel and got worn down. Uniquely here it attaches to acts and remarks as well as people ('a callous joke'); there is no callow joke or fallow one."
+    },
+    {
+      "word": "callow",
+      "nuance": "Blames **inexperience, not hardness** — the fault of having lived too little rather than too much. From the unfledged, featherless bird: soft where *callous* is thick. It fits only young people, and it comes down from an older speaker — a condescension, never a charge of cruelty."
+    },
+    {
+      "word": "fallow",
+      "nuance": "The only **non-person** word and the only one that isn't a criticism. It describes land or a stretch of time, and it is quietly optimistic: the field was ploughed and rested on purpose, and the harvest is expected back. Call a decade fallow and you are being kind."
+    }
+  ],
+  "exam_note": "Two traps: **callow** slotted into a sentence about indifference to suffering (that's *callous*), and **fallow** read as a synonym for barren or wasted — fallow promises recovery, barren denies it."
 }

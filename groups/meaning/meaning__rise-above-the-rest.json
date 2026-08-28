@@ -9,5 +9,29 @@
     "surmount",
     "prevail"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe ending up above something else — but they differ in *what* that something else is. One is a moving rival, one is a reputation, one is a whole category, one is a dead-weight obstacle, one is active opposition. Choosing correctly is almost never about strength or degree; it's about identifying the thing being risen above and what happens to it afterward. Get the object right and the word picks itself.",
+  "words": [
+    {
+      "word": "outstrip",
+      "nuance": "The only one here that is **quantitative**: it wants rates, volumes, numbers — demand outstrips supply, costs outstrip revenue. Both parties were moving and are still moving; **outstrip** reports a widening gap, not a defeat, and awards no credit to the winner."
+    },
+    {
+      "word": "eclipse",
+      "nuance": "The contest is over **attention**, not measurement. What gets eclipsed still exists and may still be excellent — it has simply stopped being looked at, usually because something newer stands in front of it. Almost always involves a predecessor, and almost always shows up passively: *his early work was eclipsed by...*"
+    },
+    {
+      "word": "transcend",
+      "nuance": "The thing risen above is not a rival but a **category or limit** — a genre, a form, the body, death. Where the others leave you on the same scale in a better position, **transcend** takes you off the scale entirely, and it carries open admiration plus a philosophical or spiritual tint the rest lack."
+    },
+    {
+      "word": "surmount",
+      "nuance": "Its object is an **inert obstacle** — poverty, prejudice, bad odds, a language barrier — never a person you beat. The obstacle doesn't shrink or lose; it stays exactly where it was and you get over it. Formal, unshowy, and most commonly encountered in its negative: **insurmountable**."
+    },
+    {
+      "word": "prevail",
+      "nuance": "Alone in this group it needs **active opposition and duration** — a war, a lawsuit, a long argument — so it never fits a race or a quick win. It's intransitive (*prevail over/against*, never \"prevail someone\"), and its second sense is the sleeper: **prevailing** = currently dominant or widespread, as in the prevailing wind or view."
+    }
+  ],
+  "exam_note": "The trap is the object, not the meaning: a completion that supplies a number wants **outstrip**, an obstacle wants **surmount**, a genre wants **transcend**, a forgotten predecessor wants **eclipse** — and in reading passages **prevailing** almost always means \"widespread,\" not \"victorious.\""
 }

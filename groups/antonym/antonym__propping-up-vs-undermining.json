@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__propping-up-vs-undermining",
+  "title": "Propping up vs. undermining",
+  "seed_words": [
+    "bolster",
+    "buttress",
+    "augment",
+    "invigorate",
+    "corroborate",
+    "undermine",
+    "undercut",
+    "impair",
+    "enervate",
+    "vitiate",
+    "attenuate"
+  ],
+  "hallucinated": null,
+  "core": "Every verb here moves the strength of something along a scale — up or down — and almost always something abstract: an argument, an authority, a faculty, a mood, a claim's validity. What separates them is not the direction but the **axis** they act on: structural support, sheer quantity, bodily energy, evidentiary backing, or legal soundness. They also differ in whether the object was already ailing, whether the force comes from outside or from within, and whether anyone is to blame. Pairing them as simple opposites is what gets people into trouble; the true opposites here run in matched pairs along the same axis.",
+  "words": [
+    {
+      "word": "bolster",
+      "nuance": "The general-purpose prop-up verb, and the only one comfortable with *morale*, *spirits*, *confidence* as well as arguments. It quietly concedes the object was sagging — but unlike **buttress** it names no structure and needs no specific support brought in."
+    },
+    {
+      "word": "buttress",
+      "nuance": "Architectural: the support is external, deliberate, load-bearing, and usually named (*buttressed his claim with three studies*). It attaches to a **position**, never to a person or a mood — you can bolster a team, but you cannot buttress one."
+    },
+    {
+      "word": "augment",
+      "nuance": "The odd one out: it adds *quantity*, not support, and implies nothing was wrong. A salary, a force, a collection — already fine — simply becomes larger. Where **bolster** and **buttress** admit weakness, augmenting is an insult to no one."
+    },
+    {
+      "word": "invigorate",
+      "nuance": "Supplies *energy*, not backing — the object was limp or listless, not shaky or unproven. Bodily and bracing (cold water, a new director, a cash injection), and the only positive-connotation word in the group. Its exact mirror is **enervate**."
+    },
+    {
+      "word": "corroborate",
+      "nuance": "The narrowest: only *evidence* corroborates, and only a prior assertion gets corroborated. The backing must be independent — repeating yourself corroborates nothing — where **bolster** and **buttress** accept any kind of shoring-up from any source."
+    },
+    {
+      "word": "undermine",
+      "nuance": "Slow, covert, and deniable, aimed at the foundation while the surface stays smiling. It presumes an agent with a motive working over time — the corridor doubt, not the open denunciation, and never the single accidental slip that **undercut** describes."
+    },
+    {
+      "word": "undercut",
+      "nuance": "One stroke, not a campaign, and very often self-inflicted: the trembling voice that undercuts the confident speech. The thing stays fully visible but hollow — support removed, façade intact. It alone has the commercial sense of pricing a rival out."
+    },
+    {
+      "word": "impair",
+      "nuance": "Degrades *function*, with no sabotage implied — hearing, judgment, mobility, a credit rating. The clinical-legal word: nobody need be at fault, and the object still works, just worse. **Undermine** and **undercut** attack standing; impair attacks capacity."
+    },
+    {
+      "word": "enervate",
+      "nuance": "Drains vitality from something living or quasi-living, leaving it limp and without will — the precise antonym of **invigorate**. Blames climate, luxury, illness, bureaucracy rather than any attacker, and carries a whiff of moral softening no other word here has."
+    },
+    {
+      "word": "vitiate",
+      "nuance": "Kills *validity* from within, via one flaw: a false premise, a fraudulent signature, a bad ingredient. The thing survives in form but no longer counts — where **impair** leaves partial function, vitiate can leave zero legal force while the document sits there looking perfect."
+    },
+    {
+      "word": "attenuate",
+      "nuance": "The neutral, technical dial-turn: reduce intensity gradually along a scale, no malice and no invalidity. Signals, viruses, and the force of a legal fact attenuate. It is the only weakening word here that carries no blame and no damage — just less."
+    }
+  ],
+  "exam_note": "The trap is cross-axis substitution — an answer choice that weakens in the wrong way (**impair** where the sentence needs **vitiate**'s invalidation, **attenuate** where it needs **undermine**'s stealth) — plus **enervate**, which looks like *energize* and means its opposite."
+}

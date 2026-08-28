@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__sorry-after-the-fact",
-  "title": "Sorry after the fact",
+  "title": "Bad conscience, bruised pride, and the twinge before",
   "seed_words": [
     "contrite",
     "chagrin",
     "qualm"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three name a private, uncomfortable feeling triggered by your own conduct or your own showing — the inward wince rather than anger at someone else. They split on two axes: **when** the feeling arrives (before the act or after it), and **what is injured** (your conscience or your dignity). Because all three are polite, restrained, formal-register words, English speakers reach for them interchangeably when they shouldn't — one of them involves no wrongdoing at all.",
+  "words": [
+    {
+      "word": "qualm",
+      "nuance": "The only one that arrives **before** the deed, and the only one small enough to be overridden — a flicker you can act straight through. It's also the only one usually measured by its absence: \"had no qualms about firing them\" grades someone's scruples, not their feelings."
+    },
+    {
+      "word": "contrite",
+      "nuance": "The only one that concedes actual fault and faces outward, toward the person wronged — defences down, excuses withdrawn. It's the strongest of the three and the one others read off you (you *look* contrite), which is why it can be faked and why \"suitably contrite\" is nearly always sardonic."
+    },
+    {
+      "word": "chagrin",
+      "nuance": "The only one where nothing wrong was done — your **pride** took the hit, not your conscience: outclassed, proved wrong, publicly wrong-footed. It's swallowed rather than displayed, and in its home phrase \"much to my chagrin\" the speaker is usually being wry about their own vanity."
+    }
+  ],
+  "exam_note": "The classic trap is treating **chagrin** as a guilt word: GRE sentences use it where the subject is merely embarrassed at being outdone, so a guilt/remorse answer choice fits the mood but not the meaning — and watch **qualm** appear negated, where the sentence is characterizing a person's ruthlessness, not their emotion."
 }

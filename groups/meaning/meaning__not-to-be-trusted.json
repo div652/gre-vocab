@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__not-to-be-trusted",
-  "title": "Not to be trusted",
+  "title": "Not to Be Trusted",
   "seed_words": [
     "dubious",
     "suspect",
     "spurious",
     "specious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four flag something that fails inspection: a claim, a document, a set of figures, a person's motives. They differ on two axes. First, **certainty**: two of them only raise an eyebrow — the verdict is pending — while two deliver the verdict outright. Second, **what has gone wrong**: whether the thing merely attracts doubt, or whether it has no legitimate basis, or whether it has a legitimate-looking surface over rotten reasoning.",
+  "words": [
+    {
+      "word": "dubious",
+      "nuance": "The only one that can face **inward**: *I'm dubious* describes the doubter, not the doubted. Outward, it is the mildest of the four — a raised eyebrow with full deniability, and the only one that runs ironic (*the dubious distinction of the highest crash rate*)."
+    },
+    {
+      "word": "suspect",
+      "nuance": "Strictly **passive** — it says what we think of the thing, never what the thing thinks. It attaches to what is under assessment (data, evidence, timing, a witness's motives) and is the professional's dry hedge: cooler than *fraudulent*, far more damning than *unproven*. Also the only one that doubles as a noun and verb."
+    },
+    {
+      "word": "spurious",
+      "nuance": "A **verdict on origin**: the thing has no legitimate standing at all — a forged deed, a correlation that isn't there. Crucially it needs **no liar**; bad sampling produces spurious results with nobody deceiving anyone. Where the others question a thing, this one refuses to engage with it."
+    },
+    {
+      "word": "specious",
+      "nuance": "A **verdict on surface**: unlike the others, it concedes the thing *is* attractive — it passed the first look. It aims almost exclusively at **reasoning**, not objects or people, and implies the speaker did the second look. The insult is that the falsehood was well-tailored."
+    }
+  ],
+  "exam_note": "The classic trap is swapping **spurious** and **specious**: spurious = no basis (bad pedigree), specious = plausible basis that fails (bad logic that looks good) — and only **specious** requires the thing to be superficially persuasive."
 }

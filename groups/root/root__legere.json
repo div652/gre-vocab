@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__legere",
-  "title": "Root: legere (to pick out, read), with inter (between)",
+  "title": "Root: legere (to pick out, read) — attention chosen, withheld, and received",
   "seed_words": [
     "intelligible",
     "negligent",
     "predilection"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *legere* means to pick out, gather, choose — and by extension, to read, since reading is picking letters out of a page. Every word here is about **selective attention**: what the mind picks up, fails to pick up, or has already picked out before it looks. The prefix does all the real work, so the shared root tells you the topic (attention, selection) but never the verdict. Note also that none of these three is a synonym for the others — they are relatives, not rivals, and the danger is treating a familiar root as a definition.",
+  "words": [
+    {
+      "word": "intelligible",
+      "nuance": "*inter-* + *legere*, \"to read between\" — this is the only member about **successful uptake**, and it rates the message rather than the person. It certifies that meaning crossed the gap at all, so it sets a floor, not a standard; the person it implicitly describes is the strained listener, not the speaker."
+    },
+    {
+      "word": "negligent",
+      "nuance": "*neg-* + *legere*, \"to not pick up\" — the negative member, and the only one that assigns **blame for attention withheld**. It needs a pre-existing duty to exist at all, which is why it belongs to law and discipline rather than description; its failure is an omission, something never picked up, never a bad act committed."
+    },
+    {
+      "word": "predilection",
+      "nuance": "*prae-* + *diligere*, \"to choose in advance\" — the only member where the selecting is **already done before the moment of judgement**. It names a mild, habitual leaning attached to kinds of things, not people you love, and its formality lets a writer flag a slightly revealing taste while sounding entirely polite."
+    }
+  ],
+  "exam_note": "The exam doesn't confuse these with each other — it confuses each with its own near-twin (*intelligible* ≠ *intelligent*, *negligent* ≠ *negligible*), and punishes anyone who reasons from \"*legere* = read\" to a guessed meaning."
 }

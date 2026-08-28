@@ -1,12 +1,28 @@
 {
   "kind": "lookalike",
   "id": "lookalike__doctrinaire-dogged",
-  "title": "doctrinaire / dogged / dogmatic",
+  "title": "dogmatic / doctrinaire / dogged",
   "seed_words": [
     "doctrinaire",
     "dogged",
     "dogmatic"
   ],
   "similarity": 0.37,
-  "auto": true
+  "auto": true,
+  "core": "Three words that share the *dog-* opening and a common flavor of immovability — something here will not yield. The split is what refuses to move: two of them fix the *mind* (a belief that admits no challenge, no exception), one fixes the *feet* (an effort that admits no quitting). That's also a split in judgment: locking down a belief earns contempt, locking down your effort earns applause. Reordered so the two belief words sit side by side and the outlier stands last.",
+  "words": [
+    {
+      "word": "dogmatic",
+      "nuance": "Aims at the person's posture toward *disagreement* — they state opinion in the tone of settled fact, so there is nothing to discuss. It needs no formal system behind it; a **dogmatic** tone, teacher, or assertion can be pure temperament, and the word attaches happily to how someone speaks."
+    },
+    {
+      "word": "doctrinaire",
+      "nuance": "Requires an actual doctrine — a named system (Marxism, free-market orthodoxy, a party program) applied uniformly to cases it doesn't fit. The charge is against the *application*, not the conversation: **doctrinaire** attaches to policy and to ideologues, and is the only one of the three that also works as a noun for the person."
+    },
+    {
+      "word": "dogged",
+      "nuance": "Not about belief at all, and the only compliment in the group — the mind may be perfectly open, it's the legs that won't stop. Reserve it for grinding effort over time (**doggedly** pursuing, **dogged** persistence), and note it praises stamina rather than insight."
+    }
+  ],
+  "exam_note": "The trap is the shared *dog-*: a sentence praising someone who kept going through setbacks wants **dogged**, but the eye drifts to **dogmatic**; when both belief words fit, choose **doctrinaire** only if a theory is being applied to practice."
 }

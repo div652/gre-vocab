@@ -8,5 +8,25 @@
     "ploy",
     "feint"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four cover getting an advantage by deceiving someone rather than overpowering them — the win comes from misdirection, concealment or clever manoeuvring. They split on three axes: **scale** (a whole practice of cheating vs. one move), **legitimacy** (flatly dishonest vs. fair play), and **register** (indictment vs. newspaper column). Two of them name a kind of dishonesty; two name a single tactic, only one of which is even wrong.",
+  "words": [
+    {
+      "word": "chicanery",
+      "nuance": "The only one where the **rules themselves are the weapon** — loopholes, quibbles, fine print, procedural sleight-of-hand. **Chicanery** stays technically legal, which is the whole point of the contempt; it's the professional's word (lawyers, accountants, election officials) for someone who won disgracefully but can't be charged."
+    },
+    {
+      "word": "skullduggery",
+      "nuance": "Not technically legal at all — **skullduggery** is plainly shady, done out of sight: backroom deals, quiet double-crosses, a rigged committee. What marks it is tone, not method: it's informal and half-amused where *fraud* is prosecutorial, and it's the word for wrongdoing you suspect but cannot prove."
+    },
+    {
+      "word": "ploy",
+      "nuance": "A unit, not a practice — **one small move** with a hidden motive, not a pattern of dishonesty. It's the cheapest and most trivial of the group (a marketing ploy, a ploy to keep you on the call), and calling something a ploy already announces you've seen through it."
+    },
+    {
+      "word": "feint",
+      "nuance": "The only honest one. A **feint** is deception the opponent is *meant to notice* — it fails if nobody takes the bait — so boxers, fencers and generals do it inside the rules and nobody calls it cheating. It's also the most physical: a committed-looking movement in the wrong direction so the real strike lands."
+    }
+  ],
+  "exam_note": "The trap is treating all four as pejorative — sentences about sport, negotiation or war want the sanctioned *feint*, while a sentence whose deception is legal-but-slimy wants *chicanery*, not *skullduggery*."
 }

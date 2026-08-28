@@ -7,5 +7,21 @@
     "discreet",
     "indiscriminate"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *cernere* means to sift — to run something through a sieve so the parts come apart and can be told from one another. Every word here reports on that sifting: whether a thing can be picked out from its background at all, whether a person sorts carefully what they let slip, whether anyone bothered to separate the deserving from the rest. The confusion is that the root lands in three different places — in the eye, in the judgment, and in the act of choosing — and two of the words sit next to near-homophone traps.",
+  "words": [
+    {
+      "word": "discernible",
+      "nuance": "**Discernible** describes the *object*, not the observer's character: a signal faint enough to require effort but strong enough to survive it. It's the only one here that gets negated as a technical hedge — *no discernible difference* is a finding, not an insult."
+    },
+    {
+      "word": "discreet",
+      "nuance": "**Discreet** moves the sifting into a person's judgment about *disclosure* — they sorted what to say and said only the safe part. It's praise, and it implies a third party's secret is being protected; it describes the concealer, where **discernible** describes the thing barely concealed."
+    },
+    {
+      "word": "indiscriminate",
+      "nuance": "**Indiscriminate** is the root's failure, and it assigns blame: distinctions were available and weren't made. Unlike the other two it attaches to actions and appetites — shelling, praise, reading — and its charge is moral carelessness, not weak perception or good manners."
+    }
+  ],
+  "exam_note": "The exam leans on the near-twins — **discreet** (tactful) vs *discrete* (separate), and **discernible** (of the thing) vs *discerning* (of the observer); check whether the blank wants a property of the object or a virtue of the person."
 }

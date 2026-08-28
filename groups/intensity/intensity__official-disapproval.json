@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__official-disapproval",
+  "title": "Official disapproval: from mild to blistering",
+  "seed_words": [
+    "deprecate",
+    "censure",
+    "decry",
+    "denounce"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "deprecate",
+      "nuance": "The only one in the group that doesn't raise its voice. **Deprecate** is disapproval delivered flat — an editorial or a committee noting that something is unwise — and it attaches to habits, tendencies, and fashions rather than crimes. Its object is usually mildly undesirable, not evil; that's why *self-deprecating* is a joke and not self-loathing. Also the only one with a technical sense: marked obsolete, still functioning, officially discouraged."
+    },
+    {
+      "word": "censure",
+      "nuance": "The only one that requires **standing to issue it**. A board, court, legislature, or professional body votes or rules; a private citizen can decry and denounce all day but cannot censure. Also the only one that's a formal *sanction* as well as an utterance — it goes on the record and stays there, while the censured person keeps the post. Cold, procedural, and heavier than anything the others do."
+    },
+    {
+      "word": "decry",
+      "nuance": "Loud and public like *denounce*, but aimed at **things, not people** — a trend, a ruling, a shortage, a price hike. The speaker is taking a visible stand rather than mounting an argument, and no institution backs the words: it's the podium and the op-ed, not the committee vote. Nothing happens to the target except that it has been publicly called worthless."
+    },
+    {
+      "word": "denounce",
+      "nuance": "The hottest, and the one that **points at a person**. It demands the audience share the outrage rather than merely register the fault, and it stakes the speaker's own reputation on the charge. It alone carries the informer sense — *denounced to the police* — accusation with consequences attached, which **decry** and **deprecate** never have."
+    }
+  ],
+  "core": "All four are ways of publicly registering that something is wrong, and all four sit in formal register — the language of editorials, tribunals, and podiums rather than of an argument in a kitchen. What separates them is heat and authority: how loud the speaker is, whether an institution stands behind the words, and whether the target is a person or a practice. Some of these are merely spoken; one is an official act with a record attached.",
+  "exam_note": "The trap is **deprecate** — it looks like a strong Latinate condemnation word and sits next to three fierce ones, so test writers plant it where the sentence signals restraint (\"mildly\", \"gently\", \"merely\") and reward you for noticing the temperature drop."
+}

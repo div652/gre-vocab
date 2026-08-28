@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__worldly-vs-narrow",
+  "title": "Worldly vs. narrow",
+  "seed_words": [
+    "cosmopolitan",
+    "urbane",
+    "sophisticated",
+    "eclectic",
+    "provincial",
+    "parochial",
+    "insular",
+    "xenophobic",
+    "philistine"
+  ],
+  "hallucinated": null,
+  "core": "Every word here rates how wide someone's frame of reference is — how much of the world outside their own patch they have taken in, and whether the unfamiliar meets ease or refusal. Half the group praises reach; half diagnoses its absence. The confusion is that they measure *different* widths: cultures, manners, taste, geography, or tolerance itself. They also differ in temperature — some are cool clinical diagnoses, one is a straight accusation, and one is pure snobbery.",
+  "words": [
+    {
+      "word": "cosmopolitan",
+      "nuance": "**Cosmopolitan** is the only positive here that measures actual cross-cultural range: many countries, many peoples, no startle reflex at foreignness. It applies to places as well as people — a cosmopolitan city has the mix, a cosmopolitan person has the temperament. It is the exact opposite of every negative in this group."
+    },
+    {
+      "word": "urbane",
+      "nuance": "**Urbane** narrows the praise to manner in company — smooth talk, unruffled poise at a difficult table. It claims nothing about how much world someone has seen or how deep they run; you can be urbane and know only one city. The compliment is deliberately about surface."
+    },
+    {
+      "word": "sophisticated",
+      "nuance": "**Sophisticated** is the loss-of-simplicity word: worldliness as something acquired and layered on, so nothing surprises you anymore. Alone in this group it also describes *things* — a sophisticated algorithm, a sophisticated attack — and alone it carries a chill, because it implies innocence was traded away."
+    },
+    {
+      "word": "eclectic",
+      "nuance": "**Eclectic** describes *what someone gathered*, not what they are: a collection, taste, or method assembled across schools rather than obedient to one. The approval is for deliberate selection — not random. What it quietly denies is originality (you borrowed widely), where **sophisticated** denies naivety."
+    },
+    {
+      "word": "provincial",
+      "nuance": "**Provincial** is the centre's word for the edge: the frame stops at the town line, so local custom gets mistaken for universal truth. It's the only narrow-word with class geography built in, and the sneer rebounds — using it makes the speaker sound as snobbish as the target sounds small."
+    },
+    {
+      "word": "parochial",
+      "nuance": "**Parochial** is cooler and lands on institutions and arguments more than on people — *parochial concerns*, *a parochial dispute*: squabbles that matter to nobody outside the village. Where **provincial** condescends about where you're from, **parochial** says you were competent inside your patch and simply never had occasion to look past it."
+    },
+    {
+      "word": "insular",
+      "nuance": "**Insular** names the *cause* — cut off from outside influence, therefore narrow — and adds complacency: the insular feel no lack, because they take their small world for the whole one. It's the clinical member of the set, which is why serious writing uses it about academic fields, communities, and countries without sounding like an insult."
+    },
+    {
+      "word": "xenophobic",
+      "nuance": "**Xenophobic** is the only hot one: not a limited horizon but active hostility, aimed specifically at the outsider — accent, origin, immigration, foreign food. Nobody self-applies it; it's what an opponent calls your policy or your headline. Broader than *racist*, since the target is foreignness, not race."
+    },
+    {
+      "word": "philistine",
+      "nuance": "**Philistine** shifts the axis off geography and foreigners entirely: the narrowness is toward art and ideas, in favour of what pays or is comfortable. And it's *smug* — not merely uncultured but proud of it, the man who says \"I could have painted that.\" It's also the only noun-insult here, and it advertises the speaker's own refinement."
+    }
+  ],
+  "exam_note": "Watch the temperature and the axis: the GRE swaps cool structural narrowness (**insular**, **parochial**) for hot hostility (**xenophobic**) or for anti-art snobbery (**philistine**), and on the positive side baits you with **urbane** (manners only) or **eclectic** (sources only) where the sentence actually demands **cosmopolitan** (cultural range)."
+}

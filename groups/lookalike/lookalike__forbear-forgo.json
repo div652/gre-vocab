@@ -8,5 +8,21 @@
     "forsake"
   ],
   "similarity": 0.5,
-  "auto": true
+  "auto": true,
+  "core": "All three are \"for-\" verbs that a lazy dictionary glosses as *give up*, and all three describe a person ending up without something they had access to. The difference is never intensity first — it's **what the verb takes as its object**: an action you were provoked into taking, a benefit sitting in front of you, or a tie that already had a claim on you. Two are chosen restraint; one is a breach. Two are cool; one is loaded.",
+  "words": [
+    {
+      "word": "forbear",
+      "nuance": "The only one of the three whose object is **an act, not a thing** — and an act you were *entitled* to perform. It presupposes a provocation and a second party who gets spared, so it reads as mercy and patience rather than thrift; a landlord forbears, a critic forbears comment. Past tense **forbore / forborne**, which the exam likes as its own trap."
+    },
+    {
+      "word": "forgo",
+      "nuance": "The bloodless one. Its object is a **perk on offer** — a bonus, a dessert, a chance to appeal — and nobody is spared, wronged, or owed anything; the decision is arithmetic, not moral. No provocation behind it and no bond in front of it, which is exactly why it can never substitute for the other two. Watch the spelling: *forego* with the **e** means to precede."
+    },
+    {
+      "word": "forsake",
+      "nuance": "The only one that takes **a person** naturally, and the only one that requires a prior claim — a vow, a faith, a loyalty. That makes it the accusing word: it doesn't describe passing something up but walking out on it, in an elevated, biblical register. Turned on a vice (forsake drink), the same reproach inverts into something noble. Past **forsook / forsaken**."
+    }
+  ],
+  "exam_note": "Answer choices will all fit \"gave up\" — pick by the object: an act you had the right to commit → forbear, a benefit you could have taken → forgo, a bond that had a hold on you → forsake."
 }

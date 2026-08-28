@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__risky-to-grave-danger",
+  "title": "From latent trouble to grave danger",
+  "seed_words": [
+    "fraught",
+    "precarious",
+    "perilous"
+  ],
+  "hallucinated": null,
+  "core": "All three describe a situation that could go badly — the harm is anticipated, not yet delivered. They differ in what supplies the threat: internal tension, structural instability, or the sheer magnitude of what's out there. Move along the scale and the danger shifts from *implied*, to *imminent*, to *severe*. None of them means the disaster has happened; each says a different thing about why you should worry.",
+  "words": [
+    {
+      "word": "fraught",
+      "nuance": "The weakest and the only one that can describe **mood**: a fraught meeting is tense and edgy, with people bracing for something. In the *fraught with* construction the trouble is cargo the situation is carrying, not a fall it's about to take — the plan is packed with contradictions, but nothing is tipping over."
+    },
+    {
+      "word": "precarious",
+      "nuance": "The threat is **balance**, not harm — the thing is holding right now, and nothing guarantees it keeps holding. Uniquely, it implies you don't control what's holding it: a precarious job or truce exists on someone else's sufferance, which is why it fits finances and alliances as naturally as a boulder on a ledge."
+    },
+    {
+      "word": "perilous",
+      "nuance": "The formal, weightiest term, and the only one that points at **grave harm itself** — ruin or death, not the conditions for it. It attaches to journeys, crossings, missions, and *times*, and carries a narrative gravity that makes it sound absurd on small stakes."
+    }
+  ],
+  "exam_note": "The GRE bets you'll read *fraught* as \"dangerous\" — it isn't; it's loaded-with or tense — and that you'll take *precarious* as harmful when it only means unsupported."
+}

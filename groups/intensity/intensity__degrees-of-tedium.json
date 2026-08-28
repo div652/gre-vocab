@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-tedium",
+  "title": "Degrees of tedium",
+  "seed_words": [
+    "humdrum",
+    "monotonous",
+    "tedious",
+    "soporific"
+  ],
+  "hallucinated": null,
+  "core": "All four register dullness, and all four blame sameness or slowness rather than incompetence — the thing isn't bad, it just won't stop or won't vary. The ladder runs from a mild sigh at unchanging routine, through sameness that numbs, through length that wears patience thin, up to dullness strong enough to shut the eyes. What separates them is *what* the complaint is actually about — repetition, effect, duration, or physical result — and how much contempt the speaker is willing to show.",
+  "words": [
+    {
+      "word": "humdrum",
+      "nuance": "The only one that measures in years rather than minutes: it attaches to lives, jobs, towns, marriages — the shape of an existence, not an experience you are currently enduring. It is also the most inward-facing; you sigh it at your own routine, and it carries no contempt for the thing described."
+    },
+    {
+      "word": "monotonous",
+      "nuance": "Names the mechanism: one unvarying note, texture, or motion. It is the only one at home on sound and landscape — a droning voice, a flat stretch of motorway — and the dullness is diagnosed as *lack of variation*, so anything with genuine variety cannot be monotonous however dull it is."
+    },
+    {
+      "word": "tedious",
+      "nuance": "Complains about length, not sameness. A single slow queue or one endless meeting is tedious without repeating anything; the verdict is that it went on past the point of interest. It is the civilised, printable option — you can write \"tedious\" in a report and sound reasonable rather than rude."
+    },
+    {
+      "word": "soporific",
+      "nuance": "The only one that names a bodily effect — it puts you to sleep — and the only one with a straight, judgement-free technical sense: a soporific is a sedative, which is a good thing when a doctor prescribes it. Applied to a speech or a novel it is bookish and arch, an insult delivered from above without ever using the word \"boring.\""
+    }
+  ],
+  "exam_note": "The trap is **soporific**'s neutral medical sense — in a sentence about drugs or sedation it means sleep-inducing with no scorn attached; and note that **tedious** needs only length while **monotonous** and **humdrum** need actual repetition."
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__twisted-past-following",
-  "title": "Twisted past following",
+  "title": "Twisted Past Following",
   "seed_words": [
     "convoluted",
     "byzantine",
     "tortuous",
     "obfuscate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe intricacy that has crossed the line into unfollowability — and all of them are complaints, not compliments. Each carries a hint that the tangle is not innocent: someone made it this way, and the confusion may be doing work for them. They split on *what* is tangled (a sentence, an institution, a route) and on whether the word names the resulting mess or the act of creating it.",
+  "words": [
+    {
+      "word": "convoluted",
+      "nuance": "The general-purpose charge, and the one that scales down: a single sentence, one clause, one excuse can be **convoluted**. The image is a knot folded back on itself — not a long journey, not an institution, just needless twisting the maker could have avoided."
+    },
+    {
+      "word": "byzantine",
+      "nuance": "Needs an institution to attach to — a tax code, a permit process, a royal court, a company's politics. **Byzantine** adds what the others lack: factions and insiders. The intricacy isn't merely excessive, it's a moat, and someone on the inside is navigating it comfortably while you can't."
+    },
+    {
+      "word": "tortuous",
+      "nuance": "The only one with a live literal sense — roads, coastlines, rivers are **tortuous**. The complaint is about the *route*: it arrives, eventually, having detoured through everywhere. Convoluted reasoning is knotted; tortuous reasoning is merely serpentine and far too long."
+    },
+    {
+      "word": "obfuscate",
+      "nuance": "The verb, and the only word that puts a person in the sentence with intent. The others describe the wreckage; **obfuscate** names the deliberate act of producing it — by piling jargon, caveats and footnotes *on top of* a fact rather than concealing it. Nothing obfuscates by accident."
+    }
+  ],
+  "exam_note": "Watch two traps: *tortuous* (winding) vs *torturous* (agonizing) are different words, and in sentence equivalence only **obfuscate** fits a slot needing an action with an agent — the other three describe a state."
 }

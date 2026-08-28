@@ -8,5 +8,21 @@
     "insular"
   ],
   "similarity": 0.7,
-  "auto": true
+  "auto": true,
+  "core": "These three are a spelling trap, not a meaning trap: same `in-` opening, same three-syllable shape, same formal register, and all three are negative words you can level at a person. That is the entire overlap — semantically they share nothing. Each attacks a different axis: **effort**, **deference**, and **breadth of exposure**. Because the confusion is in the eye and ear, the fix is to bolt each word to its own scene.",
+  "words": [
+    {
+      "word": "indolent",
+      "nuance": "The energy word. **Indolent** faults someone for not *doing* — and does it almost fondly, since the indolent are comfortable rather than defiant; it can even flatter a summer afternoon. It says nothing about rudeness or isolation, and it alone has a technical medical life (a slow-growing, painless lesion)."
+    },
+    {
+      "word": "insolent",
+      "nuance": "The hierarchy word. **Insolent** needs someone above you to be rude *to*, and the offence is the withheld deference — the smirk, the tone — not idleness or ignorance. It is also the only one that reveals the speaker: whoever says it expected to be obeyed."
+    },
+    {
+      "word": "insular",
+      "nuance": "The exposure word. **Insular** faults the *range* of someone's world, not their energy or their manners — an insular person can be industrious and impeccably polite. It attaches as readily to a country, a discipline, or a village as to a person; the other two only ever describe behaviour."
+    }
+  ],
+  "exam_note": "In text completions the blank's neighbours give it away: exertion/torpor cues → **indolent**, a superior being addressed → **insolent**, contact with outsiders or new ideas → **insular** — the exam is betting you match letters instead of reading the axis."
 }

@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__boisterous-obdurate",
-  "title": "boisterous / obdurate / obsequious…",
+  "title": "boisterous / obdurate / obsequious / obstinate / obstreperous",
   "seed_words": [
     "boisterous",
     "obdurate",
@@ -10,5 +10,29 @@
     "obstreperous"
   ],
   "similarity": 0.61,
-  "auto": true
+  "auto": true,
+  "core": "These are confusable by shape, not by sense: four near-identical *ob-* words plus one that sounds like it belongs with them. What little meaning they do share is a person who is hard to deal with — either because they will not yield, or because they yield far too much, or because they are too loud to manage. The trap is that the look-alikes sit on opposite axes: two are about immovability, two are about noise, and one is about total capitulation. Recognising the word is never the problem; sorting which axis it lives on is.",
+  "words": [
+    {
+      "word": "boisterous",
+      "nuance": "The only one in the group you could say fondly, and the only one that isn't formal. It's noise without defiance — nobody is being disobeyed, just enjoyed too loudly. It's also the only member that works on weather: a boisterous sea or wind."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "Hardness of **heart**, not of opinion. The distinguishing setup is someone pleading and getting nothing: the creditor, the sinner, the judge who will not show mercy. It condemns the person morally, where its near-twin merely calls them unreasonable."
+    },
+    {
+      "word": "obsequious",
+      "nuance": "The group's inversion — the one word here describing someone with no resistance at all. Where the others refuse, this one agrees with everything, and the agreeing is a tactic: there is something the flatterer wants. Judged entirely from outside, by the onlooker cringing, not the boss being flattered."
+    },
+    {
+      "word": "obstinate",
+      "nuance": "Immovability on a **position**, held silently and without any moral charge about cruelty — you're just blocking, past the point of sense, maybe against your own interests. It's the only one that transfers to objects: an obstinate stain, an obstinate lid."
+    },
+    {
+      "word": "obstreperous",
+      "nuance": "Loud **plus** defiant — both parts required, which is exactly what separates it from the merely cheerful noise-word. It's spoken downward by whoever has custody: teachers of pupils, judges of witnesses, cabin crew of passengers, always with a dry composure that avoids saying \"screaming brat.\""
+    }
+  ],
+  "exam_note": "The exam pairs the look-alikes as distractors — obdurate vs. obstinate (heart vs. opinion) and obstreperous vs. boisterous (defiance vs. good humour) — and slips obsequious in as a fifth \"stubborn\" option when it means the exact opposite."
 }

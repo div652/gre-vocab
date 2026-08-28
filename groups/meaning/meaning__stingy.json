@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__stingy",
-  "title": "Stingy",
+  "title": "Stingy: Withholding What Could Be Given",
   "seed_words": [
     "miserly",
     "parsimonious",
@@ -9,5 +9,29 @@
     "stinting",
     "chary"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe holding back what could be given — money, praise, detail, effort — and giving less than the situation calls for. The shared frame is *sparing to a fault*: not the admirable economy of **frugal** or **thrifty**, but withholding that invites judgment. What separates them is the source of the tightness (greed, poverty, caution), whether it describes a whole character or a single act, and how bookish the word sounds.",
+  "words": [
+    {
+      "word": "miserly",
+      "nuance": "The only one that paints a picture: the hoarder shivering to save on coal. **Miserly** is greed plus self-denial — the tightness hurts the person doing it, which is why it carries pity as well as contempt. It's also the plainest word here; you can say it out loud in anger."
+    },
+    {
+      "word": "parsimonious",
+      "nuance": "The audit-room word: cold, formal, judgmental without any pity. Where **miserly** imagines a personality, **parsimonious** reads like a finding about someone's habits. Uniquely, it flips positive off money — a *parsimonious explanation* is lean and elegant, and that reversal is prime GRE bait."
+    },
+    {
+      "word": "penurious",
+      "nuance": "The only one that can mean *actually broke*. **Penurious** describes living as though there is nothing — and the insult version says you look destitute by choice. Bookish, essay-and-novel register; the ambiguity between poverty and meanness is deliberate, and context alone resolves it."
+    },
+    {
+      "word": "stinting",
+      "nuance": "Attaches to an act, not a character: you **stint** on portions, on effort, on praise, in this instance. It implies something was owed and got rationed. Watch its habitat — it lives mostly in the negative (*unstinting*, *without stinting*), so a bare positive on the exam means grudging short-changing."
+    },
+    {
+      "word": "chary",
+      "nuance": "Motive is caution, not greed. The **chary** person holds back because handing it over feels risky — and it takes *of* or *about* (**chary of praise**, **chary of lending**), which no other word here requires. Mildest and least damning: it can even read as prudent, only faintly tight-fisted."
+    }
+  ],
+  "exam_note": "The trap is treating all five as interchangeable insults: **parsimonious** turns into praise when it modifies a theory or explanation, **penurious** may simply mean poor, and **chary** signals wariness rather than greed — pick the wrong one and the sentence's motive clause stops making sense."
 }

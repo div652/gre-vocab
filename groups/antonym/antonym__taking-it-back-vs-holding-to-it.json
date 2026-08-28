@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__taking-it-back-vs-holding-to-it",
+  "title": "Taking it back vs. holding to it",
+  "seed_words": [
+    "recant",
+    "abjure",
+    "renounce",
+    "repudiate",
+    "relinquish",
+    "forsake",
+    "adhere",
+    "steadfast",
+    "resolute",
+    "abide"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers one question: do you let go of the thing, or hold on to it? The first six are ways of releasing — a belief, an oath, a claim, a title, a person — and they differ by *what* gets released and how much shame, ceremony, or betrayal comes with it. The last four are ways of holding — to a rule, to a person, to a decision — and they differ by whether the constancy is procedural, loyal, or willed. The GRE builds sentences where a blank sits on one side of that hinge and the other side is stated plainly.",
+  "words": [
+    {
+      "word": "recant",
+      "nuance": "**Recant** attaches to *words you said* — a testimony, an accusation, a published claim — not to property or loyalty. It is a staged reversal before whoever demanded it, so it drags in an audience and usually a coercer; Galileo recanted, he did not relinquish."
+    },
+    {
+      "word": "abjure",
+      "nuance": "**Abjure** is the oath version: it disowns what you *believed in or were bound to*, and the saying of it binds you going forward. Where **recant** cancels a past statement, abjure forswears a future return — you abjure heresy, allegiance, drink."
+    },
+    {
+      "word": "renounce",
+      "nuance": "**Renounce** gives up something that was legitimately yours and still is until you speak — a throne, wealth, violence. No error is admitted and nobody forced you; the flavor is sacrifice, which is why it's the only one of these you can do *nobly*."
+    },
+    {
+      "word": "repudiate",
+      "nuance": "**Repudiate** is the hostile one: you don't just drop the tie, you deny it was ever binding. A debt, a treaty, a signature, an endorsing ally — repudiation refuses to honour, and it usually comes with contempt aimed outward rather than shame aimed in."
+    },
+    {
+      "word": "relinquish",
+      "nuance": "**Relinquish** is the only word here for a thing you physically or legally *hold* — the wheel, the deed, control. No belief, no audience, no wrongdoing: just a right handed over, deliberately and usually with reluctance."
+    },
+    {
+      "word": "forsake",
+      "nuance": "**Forsake** is the only release that wrongs somebody. It needs a bond — a person, a faith, a home — and leaves it stranded, so it reads as betrayal where **renounce** reads as sacrifice. Also the group's literary outlier: biblical, elevated, faintly accusing."
+    },
+    {
+      "word": "adhere",
+      "nuance": "**Adhere** is holding on to a *rule*, not a person — a protocol, a schedule, a diet. Cold and procedural, and the only one that would sound normal in a compliance memo; you cannot adhere to a friend."
+    },
+    {
+      "word": "steadfast",
+      "nuance": "**Steadfast** is loyalty that doesn't move when moving would be easier — an ally, a supporter, a faith. It's the direct antonym of **forsake**, and it praises *staying with someone* rather than sticking to a plan."
+    },
+    {
+      "word": "resolute",
+      "nuance": "**Resolute** holds a *decision*, not a person or a rule. The weighing is finished and doubt was dismissed; what's unmoved is the will. Call the same behaviour obstinate and you've just switched sides."
+    },
+    {
+      "word": "abide",
+      "nuance": "**Abide** only means \"hold to\" in the phrase *abide by* — sticking to a ruling or promise handed down, typically one you'd rather not follow. Bare **abide** flips to tolerance and almost always appears negated (*can't abide*), which is the trap."
+    }
+  ],
+  "exam_note": "Sentence equivalence loves the release verbs as near-pairs — but only **recant/abjure** (a professed belief) and **renounce/relinquish** (a held claim) truly swap; **repudiate** adds hostility and **forsake** adds betrayal, so pairing across those lines is the wrong answer."
+}

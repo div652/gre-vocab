@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__workable-vs-hopeless",
+  "title": "Workable vs. hopeless",
+  "seed_words": [
+    "feasible",
+    "viable",
+    "tenable",
+    "efficacious",
+    "fruitful",
+    "futile",
+    "quixotic",
+    "fanciful",
+    "illusory"
+  ],
+  "hallucinated": null,
+  "core": "Every word here delivers a verdict on whether a plan, claim, or effort will hold up — and the whole group hinges on *which test* is being applied. Some certify only that the mechanics work out, some that the thing survives on its own, some that it withstands attack, some that it demonstrably delivered. On the failing side, the doom can sit in the execution, the goal, the reasoning, or the results — four different places for the same collapse. The GRE builds its traps in the gap between \"possible,\" \"sustainable,\" \"defensible,\" and \"actually produced something.\"",
+  "words": [
+    {
+      "word": "feasible",
+      "nuance": "Certifies the arithmetic only: the time, money, and materials are there. **Feasible** says nothing about whether the thing will last a week or was worth doing — it's the planner's green light, and the cheapest endorsement in the group."
+    },
+    {
+      "word": "viable",
+      "nuance": "Shifts the test from *can we launch it* to *will it still be alive afterward*. **Viable** promises survival without support, not success, which makes it faint praise: a viable candidate is one who won't drop out."
+    },
+    {
+      "word": "tenable",
+      "nuance": "Requires an attacker. **Tenable** describes a position, theory, or claim that hasn't been demolished under cross-examination — it's the only word here that measures resistance to criticism rather than capacity to function."
+    },
+    {
+      "word": "efficacious",
+      "nuance": "The only one that asserts a demonstrated effect, and it attaches almost exclusively to remedies — drugs, treatments, policies. **Efficacious** carries the smell of the clinical trial: proven under test, not merely usable."
+    },
+    {
+      "word": "fruitful",
+      "nuance": "Looks backward at yield. **Fruitful** doesn't ask whether something could work; it reports that the hours spent came back with something worth having — hence its home in diplomatic reports of *a fruitful exchange*."
+    },
+    {
+      "word": "futile",
+      "nuance": "Condemns the whole attempt as structurally doomed, not merely unsuccessful this time, and it needs an *effort* to attach to. **Futile** comes with a weary implied *so stop* — the speaker sees what the person still trying does not."
+    },
+    {
+      "word": "quixotic",
+      "nuance": "The doom is the same; the tone is not. **Quixotic** grants the dreamer his gallantry and faults only his aim — a lone crusade against an industry. It smiles where *futile* sighs and *deluded* diagnoses."
+    },
+    {
+      "word": "fanciful",
+      "nuance": "Attacks how the idea was arrived at, not whether it can be carried out. A **fanciful** explanation was dreamed up rather than reasoned out — untethered from evidence, and the put-down is indulgent, almost fond."
+    },
+    {
+      "word": "illusory",
+      "nuance": "The failure appears *after* apparent success: **illusory** attaches to results and impressions that dissolve on inspection — an illusory recovery, an illusory sense of security. No liar is implied, and it clings to things people badly wanted to be true."
+    }
+  ],
+  "exam_note": "The trap is treating the positive four as interchangeable synonyms for \"possible\" — feasible answers *can we do it*, viable *will it survive*, tenable *can it be defended*, efficacious *did it work*; on the failing side, check whether the sentence dooms the effort (futile), the goal (quixotic), the reasoning (fanciful), or the apparent result (illusory)."
+}

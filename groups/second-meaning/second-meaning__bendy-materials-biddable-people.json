@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__bendy-materials-biddable-people",
+  "title": "Bendy materials → biddable people",
+  "seed_words": [
+    "plastic",
+    "malleable",
+    "pliant",
+    "supple",
+    "tractable"
+  ],
+  "hallucinated": null,
+  "core": "Every word here starts as a physical property — something that gives way under pressure instead of snapping — and then gets applied to people, minds, and wills. The metaphor is the same each time: a person under influence is a substance under hands. What separates them is *what happens to the shape afterwards* (kept, sprung back, or irrelevant), *who is doing the pressing*, and whether the speaker admires the give or is quietly noting how usable it makes you.",
+  "exam_note": "The trap is assuming all five are mild insults: **supple** is straight praise, and **tractable** applied to a problem is purely technical — so a \"yielding = pushover\" reading kills the right answer.",
+  "words": [
+    {
+      "word": "plastic",
+      "nuance": "The only one where the new shape **stays**. Pressure isn't ongoing — one moulding sets the form permanently, which is why it's the word for developing brains and impressionable youth rather than for someone bending in the moment. It also carries a sense none of the others do: the derogatory *fake, mass-produced* (a **plastic** smile)."
+    },
+    {
+      "word": "malleable",
+      "nuance": "The hammer word — its base image is metal beaten flat, so the force is blunt, deliberate, and applied by an identifiable someone. Where **plastic** describes a general capacity to be formed, **malleable** points at the person doing the forming, which is why a *malleable* witness or board member reads as a person being worked on."
+    },
+    {
+      "word": "pliant",
+      "nuance": "Bends under **light, continuous** pressure and offers no resistance at any point — nobody needs a hammer. It describes willingness to yield rather than capacity to be shaped, which is why it's the manipulator's assessment of a mark, and why it's pure praise for leather and rarely a compliment for a spine."
+    },
+    {
+      "word": "supple",
+      "nuance": "The only one that **springs back**. Give plus strength, so nothing is lost in the bending — the gymnast, the fencer's wrist, adaptive prose. Crucially it never means *influenced by others*: a **supple** negotiator is fast on their feet, not somebody else's material."
+    },
+    {
+      "word": "tractable",
+      "nuance": "Not about shape at all — about being **steered**. It's a reins-and-harness word, faintly condescending praise from whoever is managing you (compliant, not enthusiastic). Uniquely it also applies to problems, where it goes fully neutral: a **tractable** equation yields to method. Expect **intractable** on the test instead."
+    }
+  ]
+}

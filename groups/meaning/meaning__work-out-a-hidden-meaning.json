@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__work-out-a-hidden-meaning",
-  "title": "Work out a hidden meaning",
+  "title": "Working out a meaning that won't come easily",
   "seed_words": [
     "construe",
     "decipher",
     "fathom",
     "exegesis"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four concern meaning that doesn't arrive on its own — something stands between a reader and what a text, act, or person actually means, and work has to be done to close the gap. What separates them is *where the obstacle sits*: at the surface (you can't even make out the message), in the ambiguity (you can read it two ways and must pick one), in the depth (you've read it and still can't get to the bottom of it), or in the method (a whole disciplined apparatus brought to bear line by line). One is also a noun naming an activity rather than a verb naming a mental act.",
+  "words": [
+    {
+      "word": "construe",
+      "nuance": "The words are perfectly legible — the trouble is they'll bear two readings, and **construe** is the act of making one of them official. Uniquely consequential and adversarial here: someone can construe your silence, your email, your shrug *against* you, which is why the word lives in defensive formulas (*shall not be construed as*). The others describe effort; this one describes a choice someone may be blamed for."
+    },
+    {
+      "word": "decipher",
+      "nuance": "The obstacle is at the surface, before interpretation even begins: a cipher, a dead script, a prescription pad. You **decipher** to find out what it *says*, not what it means — success is bare legibility, not understanding. It's the only one here that works on physical marks, and the only one whose difficulty vanishes the moment you can read the thing."
+    },
+    {
+      "word": "fathom",
+      "nuance": "Nothing is illegible or ambiguous — you have all the facts and still can't get to the bottom of it. **Fathom** measures depth in the understander, not obscurity in the object, and it attaches to motives, griefs, and inexplicable decisions rather than to texts. It also reports failure: the idiomatic form is *can't fathom*, spoken by someone who has already tried and given up."
+    },
+    {
+      "word": "exegesis",
+      "nuance": "The only noun — a body of work, not a moment of insight, so it can't slot in where the verbs go. **Exegesis** is institutional and tooled: original languages, historical context, a method you were trained in, applied line by line to scripture, statute, or canon. It assumes the meaning is already in the text waiting to be drawn out, and it goes sardonic when the apparatus outweighs the object."
+    }
+  ],
+  "exam_note": "The exam picks the word by which obstacle the sentence names — illegible marks (decipher), two possible readings (construe), or an unreachable motive (fathom) — and baits you with *exegesis*, which is a noun and cannot fill a verb slot."
 }

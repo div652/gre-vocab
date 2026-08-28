@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__swamped-by-too-much",
-  "title": "Swamped by too much",
+  "title": "Swamped by Too Much",
   "seed_words": [
     "inundate",
     "barrage",
     "assail",
     "surfeit"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a quantity that exceeds what the receiver can absorb — the problem is amount, not difficulty. Each frames that excess differently: as water rising, as fire aimed at a target, as blows landing over and over, or as a meal that has gone past enjoyable. Three of them make you a victim under something; one of them makes you merely too full. The GRE keeps them close because \"a lot of X\" is the shared floor — the answer always turns on *how* the too-much arrives and *what it does to you*.",
+  "words": [
+    {
+      "word": "inundate",
+      "nuance": "**Inundate** has no attacker — the stuff simply arrives, impersonal and plural (*inundated with applications, complaints, submissions*). Nobody aimed it at you; you were just standing where it fell. It is the only one of the four that can be entirely neutral in intent and still crush you by count alone."
+    },
+    {
+      "word": "barrage",
+      "nuance": "**Barrage** adds a shooter and a target. It is aimed, continuous, and timed to deny you a gap — the receiver is pinned down and cannot answer back. Choose it when the source is a person or press corps deliberately firing *questions, criticism, abuse* at someone specific."
+    },
+    {
+      "word": "assail",
+      "nuance": "**Assail** is the verb of repeated blows, and uniquely it works from the inside: *assailed by doubts, by nausea, by guilt*. Where a barrage needs an external gunner, **assail** lets your own mind be the mob. It is also the most formal-combative — a newspaper verb (*critics assailed the ruling*) — and gives you **unassailable**."
+    },
+    {
+      "word": "surfeit",
+      "nuance": "**Surfeit** is the odd one out: no attack, no victim, just an amount that has passed the point of pleasure into queasiness. It is chiefly a noun for the excess itself, and it implies the recipient is sated and slightly sickened — the tenth pastry, not the tenth punch. If nothing hostile is happening and the excess merely cloys, this is the word."
+    }
+  ],
+  "exam_note": "Watch the direction of the excess: outside-in and unaimed → *inundate*; outside-in and aimed → *barrage*; inside-out (doubts, memories) → *assail*; no aggression at all, just too much to stomach → *surfeit*."
 }

@@ -1,7 +1,7 @@
 {
   "kind": "root",
   "id": "root__specere",
-  "title": "Root: specere (to look)",
+  "title": "Root: specere (to look) — who looks, and what survives a second look",
   "seed_words": [
     "conspicuous",
     "perspicacious",
@@ -9,5 +9,29 @@
     "speculate",
     "suspect"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *specere*, \"to look,\" runs through every one of these — but each puts the looking in a different place. Some describe the **thing being looked at** (how visible it is, how well it survives a second look); others describe the **person doing the looking** (how sharp their eye is, how thin the evidence they're reasoning from). The confusion is that all five hover around the gap between how something appears and what it actually is. Sorting them means asking two questions: who is doing the looking, and has a verdict been reached?",
+  "words": [
+    {
+      "word": "conspicuous",
+      "nuance": "Pure visibility, no verdict attached — it says the thing **catches the eye**, not that it's true, false, or dubious. Alone in this group it describes physical or social prominence rather than reasoning, and the discomfort it carries is about being *seen*, not about being *wrong*."
+    },
+    {
+      "word": "perspicacious",
+      "nuance": "The only one that praises the **looker**. Everything else here is something an observer says about an object; this is what you say about the observer — the person whose second look catches what everyone else's first look missed. Formal, admiring, and aimed at judgement of people and motives."
+    },
+    {
+      "word": "specious",
+      "nuance": "A **delivered verdict**: you looked twice and the reasoning failed. It attaches almost exclusively to arguments, excuses, and claims — never to a person or an object — and it accuses the thing of being deliberately well-dressed. Where *suspect* withholds judgement, **specious** has already convicted."
+    },
+    {
+      "word": "speculate",
+      "nuance": "The only **verb**, and the only word about looking *forward* rather than at. Nothing is being deceived or doubted here — the reasoner is simply running ahead of the evidence, and by using the word admits it. Respectable when an analyst does it, insulting when it names how someone handles money."
+    },
+    {
+      "word": "suspect",
+      "nuance": "**Doubt without a conclusion** — the claim has failed the sniff test but not yet the audit. Strictly passive as an adjective: it describes what *attracts* suspicion, never what feels it. The register is professional understatement — the word an auditor reaches for precisely because *fraudulent* would commit them."
+    }
+  ],
+  "exam_note": "Two traps: *perspicacious* (sharp-eyed observer) versus the lookalike *perspicuous* (clearly expressed — a property of the text, not the reader); and *suspect* versus *specious*, where the exam rewards the weaker word when the sentence says \"not yet disproven.\""
 }

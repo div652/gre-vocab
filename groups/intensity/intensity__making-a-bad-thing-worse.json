@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__making-a-bad-thing-worse",
+  "title": "Making a bad thing worse",
+  "seed_words": [
+    "compound",
+    "exacerbate",
+    "escalate"
+  ],
+  "hallucinated": null,
+  "core": "All three take a situation that is *already* bad and describe it getting worse — none of them can start from a neutral baseline. Where they split is the *mechanism* of worsening: whether something new was added on top, whether the existing trouble simply got more severe, or whether it climbed to a higher level in stages. That mechanism also determines who or what gets blamed, and how formal the sentence sounds.",
+  "words": [
+    {
+      "word": "compound",
+      "nuance": "**Compound** requires a *second, separate act* layered on the first — the crash, then the lie about it. That extra act is usually a choice, so the verb quietly assigns blame in a way the other two don't; it also carries the compound-interest sense of damage feeding on itself. Watch the decoys: its literal senses (a mixture, a walled compound, a compound fracture) have nothing to do with worsening."
+    },
+    {
+      "word": "exacerbate",
+      "nuance": "**Exacerbate** adds no new element and no stages — the same problem simply becomes more severe or inflamed. It prefers an impersonal subject (a policy, a drought, a remark exacerbates; a person rarely does) and an object that is already a named ailment: a shortage, a deficit, tensions, an injury. This is the formal one — the verb of medical charts and policy reports."
+    },
+    {
+      "word": "escalate",
+      "nuance": "**Escalate** is the only one with rungs: it moves things up by stages into a different league — skirmish to war, quarrel to brawl — and each step provokes the next, so it happily runs intransitively with no agent at all (*the conflict escalated*). Note the change of kind, not just degree. Its office sense — passing a matter up to a higher authority — is neutral, even helpful."
+    }
+  ],
+  "exam_note": "The trap is mechanism-blindness: sentences that supply a distinct second act want **compound**, ones describing a step up in kind want **escalate**, and only **exacerbate** fits when nothing new happens but an existing condition intensifies — plus the neutral \"escalate to my manager\" sense is fair game."
+}

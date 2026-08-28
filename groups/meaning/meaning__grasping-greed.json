@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__grasping-greed",
-  "title": "Grasping greed",
+  "title": "Grasping greed: wanting more, and wanting yours",
   "seed_words": [
     "avaricious",
     "acquisitive",
     "rapacious",
     "covet"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four cover the appetite for having more — usually money, property, or things — beyond what one has or is owed. They differ on three axes: whether the greed is a settled disposition or a live craving, whether it has the power to take from someone, and whether the speaker is condemning. Three are adjectives describing a character; one is a verb describing a single act of wanting. Sorted below from coldest and most excusable to most predatory.",
+  "exam_note": "The trap is treating all four as interchangeable insults: **acquisitive** can be neutral or even flattering, **covet** needs a specific object owned by someone else, and **rapacious** needs a victim — so a sentence about a harmless collector, a hoarding miser, and a plundering conqueror each admit only one answer.",
+  "words": [
+    {
+      "word": "acquisitive",
+      "nuance": "The only one that can be neutral or complimentary — a firm, a culture, or a mind can be **acquisitive** without insult. It names a settled policy of accumulating rather than a felt hunger, and it has no victim: the acquisitive person buys and keeps, they do not take."
+    },
+    {
+      "word": "avaricious",
+      "nuance": "Narrows the appetite to **money** specifically, and to hoarding rather than seizing — the miser counting coins, not the raider. It is a verdict on a whole character: the speaker is saying money has eaten the man, which is why it never applies to a firm or an intellect."
+    },
+    {
+      "word": "rapacious",
+      "nuance": "Requires power and a victim — someone has been stripped bare. Where avarice hoards, **rapacious** plunders, so it attaches to those who can actually take: conquerors, creditors, landlords, extractive industries. Purely condemnatory, and the strongest of the group."
+    },
+    {
+      "word": "covet",
+      "nuance": "The verb, and the only one aimed at a **particular object already owned by someone else** — your neighbour's house, not wealth in general. The desire is inward, sustained, and sinful in flavour; you can covet for years without ever acting. Note the participle flips: a *coveted* prize is enviable, not shameful."
+    }
+  ]
 }

@@ -1,0 +1,42 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__metal-and-coinage-words-for-reputation",
+  "title": "Shine, Alloy, and Worth: Forge Words Gone Abstract",
+  "seed_words": [
+    "burnish",
+    "tarnish",
+    "debase",
+    "adulterate",
+    "unalloyed",
+    "temper"
+  ],
+  "hallucinated": null,
+  "core": "Every word here starts at the forge or the mint — polishing metal, letting it dull, cutting a coin with cheaper stuff, mixing an alloy, quenching steel — and the GRE only ever wants the abstract sense. They split along one fault line: some work on the **surface** (how bright a reputation looks) and some work on the **composition** (whether something inferior got stirred into the substance itself). Within the composition group they split again, on whether the mixing is fraud or craft. Get the axis right and the answer choices sort themselves.",
+  "words": [
+    {
+      "word": "burnish",
+      "nuance": "The only improvement in the group, and it works purely on the outside: **burnish** adds shine to something that already has standing — a legacy, credentials, an image. Because it can't create substance, it carries a PR smell the others don't; the word implies someone is managing appearances."
+    },
+    {
+      "word": "tarnish",
+      "nuance": "The exact inverse of *burnish*, and equally superficial: **tarnish** takes the gleam off, slowly, and leaves the thing intact — a tarnished career is still a career. It also presupposes admiration (nothing dull can be tarnished), and unlike *sully* or *besmirch* it is cool and reportorial rather than morally indignant."
+    },
+    {
+      "word": "debase",
+      "nuance": "Where *tarnish* stops at the finish, **debase** attacks worth itself: the coin still reads *silver*, the office still carries its title, but the value inside has dropped. It's the only one here that can drag a *person* down morally — made to act beneath themselves — and it names the fall in value, not the act that caused it."
+    },
+    {
+      "word": "adulterate",
+      "nuance": "**Adulterate** names the act *debase* leaves implicit — the specific pouring of something cheap into something pure, sold as if nothing happened. That makes it an accusation of fraud with a profit motive behind it, and it stays comfortable with physical goods (milk, oil, a drug supply) where *debase* has drifted toward the abstract. You'll meet **unadulterated** more often than the verb."
+    },
+    {
+      "word": "unalloyed",
+      "nuance": "The group's only adjective, only positive, and the only one describing a resulting state rather than an act of change. **Unalloyed** attaches almost exclusively to good abstractions — *joy, delight, success* — never to misery, and it most often shows up negated (\"not an unalloyed good\"), which is the polite way to announce a catch."
+    },
+    {
+      "word": "temper",
+      "nuance": "Here the mixing is skill, not sabotage: **temper** adds a counterweight — mercy into justice, caution into ambition — so the result is proportioned rather than cheapened, and nothing is removed. Its objects are always something running hot (zeal, expectations, criticism), which is the tell that separates it from *adulterate*'s passive, unsuspecting victim."
+    }
+  ],
+  "exam_note": "The trap is treating \"mix something in\" as automatically bad — adulterate and debase condemn, temper compliments; and burnish/tarnish sound like value change when they only touch the shine."
+}

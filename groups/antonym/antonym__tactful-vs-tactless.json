@@ -1,0 +1,77 @@
+{
+  "kind": "antonym",
+  "id": "antonym__tactful-vs-tactless",
+  "title": "Tactful vs. tactless: manners, not morals",
+  "seed_words": [
+    "tact",
+    "discreet",
+    "urbane",
+    "cordial",
+    "decorum",
+    "propriety",
+    "boorish",
+    "gauche",
+    "churlish",
+    "abrasive",
+    "impertinent",
+    "indecorous",
+    "unseemly"
+  ],
+  "hallucinated": null,
+  "core": "All of these measure conduct against the unwritten rules of an occasion rather than against right and wrong. One half names the social judgment itself (or the standard it answers to); the other names its failure. None is a moral term: you can satisfy every one of these and still be a scoundrel, or breach them all and harm nobody. What separates them is *what* is being judged — a faculty, a manner, a code, or one offending act — and *who* is presuming to judge it.",
+  "words": [
+    {
+      "word": "tact",
+      "nuance": "**Tact** is the only word here for a *faculty* rather than a manner, a code, or an act — judgement exercised live, choosing what to say and what to withhold. It is specifically for delicate, painful truths, not for keeping a room pleasant."
+    },
+    {
+      "word": "discreet",
+      "nuance": "**Discreet** governs *information*, not conduct: the others describe how you behave, this describes what you decline to repeat. It nearly always implies a third party being shielded — the client, the diagnosis, the affair — and marks you as trusted with a secret rather than merely well-mannered."
+    },
+    {
+      "word": "urbane",
+      "nuance": "**Urbane** is polish with no claim to substance — worldly ease, light wit, never earnest or ruffled. Where tact handles a hard moment, **urbane** never lets one arise; the compliment is entirely about surface and quietly says nothing about depth or sincerity."
+    },
+    {
+      "word": "cordial",
+      "nuance": "**Cordial** describes the *temperature of a relationship*, not a skill or a standard: genuine warmth deliberately kept at formal distance. It is the diplomat's word — \"cordial relations\" means friendly and commits to nothing."
+    },
+    {
+      "word": "decorum",
+      "nuance": "**Decorum** is dignified restraint calibrated to a *specific setting* — courtroom, funeral, chamber — so breaching it offends the occasion. The register is institutional: judges and Parliament demand it, friends never invoke it."
+    },
+    {
+      "word": "propriety",
+      "nuance": "**Propriety** is the wider code of accepted correctness rather than the dignity owed to one occasion, and in the plural *the proprieties* are its enumerable rules. The speaker who reaches for it is appealing to shared consensus — *we all know how this is done* — which is why insisting on it can sound starchy."
+    },
+    {
+      "word": "boorish",
+      "nuance": "**Boorish** is coarseness with no awareness at all — loud, mouth full, asking what your flat cost. The failure is refinement rather than intent or effort: the boor isn't misjudging the room, he never registered that there was one."
+    },
+    {
+      "word": "gauche",
+      "nuance": "**Gauche** is clumsiness, not coarseness — the wrong-note remark or gift from someone who *was* trying and missed. It attaches happily to things as well as people (a gauche question), and it is a verdict delivered downward by a speaker claiming to know the rules."
+    },
+    {
+      "word": "churlish",
+      "nuance": "**Churlish** requires someone else's generosity to be rude about: the grudging thanks, the sulky refusal, the complaint about a free gift. It's smallness of spirit rather than noise or clumsiness, and it lives most naturally in the negative — *it would be churlish not to admit she was right.*"
+    },
+    {
+      "word": "abrasive",
+      "nuance": "**Abrasive** is chronic friction — the person wears on you over months rather than offending you in a moment. Alone in this group it's compatible with competence, which is why HR pairs it with praise: \"brilliant, but abrasive.\""
+    },
+    {
+      "word": "impertinent",
+      "nuance": "**Impertinent** is rudeness by *rank* — a presumptuous question you had no standing to ask. The word asserts hierarchy in the act of complaining (duchess to footman, judge to counsel), so it sounds arch and often half-amused rather than wounded."
+    },
+    {
+      "word": "indecorous",
+      "nuance": "**Indecorous** is the direct negation of decorum: too jolly, too loud, too familiar for the occasion. It's the mildest charge here and betrays the speaker's own primness — the vocabulary of etiquette columns and disapproving aunts."
+    },
+    {
+      "word": "unseemly",
+      "nuance": "**Unseemly** is about *how it looks*, especially given the person's position — a judge shouting, heirs circling before the funeral. Stronger and more public than indecorous, it's the embarrassed institutional raised eyebrow, not the etiquette column's tut."
+    }
+  ],
+  "exam_note": "The trap is moral escalation: sentences support only a breach of *form* (unseemly, indecorous, gauche) while a tempting choice condemns *character* (disgraceful, unscrupulous, malicious) — and among the positives, watch whether the blank needs a faculty (tact), a standard (decorum, propriety), or a manner (urbane, cordial)."
+}

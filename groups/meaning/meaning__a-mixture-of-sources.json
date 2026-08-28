@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__a-mixture-of-sources",
-  "title": "A mixture of sources",
+  "title": "A mixture of sources: praised, dismissed, or merely measured",
   "seed_words": [
     "eclectic",
     "hodgepodge",
     "heterogeneous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three describe something made of unlike parts pulled from different origins — no single style, school, or kind runs through it. What separates them is the verdict attached and whether anyone is credited with doing the mixing. One assumes a chooser with taste, one insists no one was choosing at all, and one refuses to say. The mixture is identical; the judgment is the whole difference.",
+  "words": [
+    {
+      "word": "eclectic",
+      "nuance": "The only one that **compliments**, and it compliments a *person*: **eclectic** implies a selector who ignored genre boundaries and picked each item on its merits. It attaches to taste, collections, and influences — and quietly concedes the person borrowed rather than invented."
+    },
+    {
+      "word": "hodgepodge",
+      "nuance": "The only **noun**, and the only one that says nobody was steering: a **hodgepodge** accumulated by accident. Informal and lightly contemptuous, it calls the result incoherent rather than rich — a policy described this way is being told to start over."
+    },
+    {
+      "word": "heterogeneous",
+      "nuance": "The lab-report word: **heterogeneous** states composition and awards nothing, which is why it often signals trouble — such data won't pool, such a class can't be taught at one level. Note the grammar trap: it describes only the whole, never a single member of it."
+    }
+  ],
+  "exam_note": "Context tone decides the answer — approving sentences take *eclectic*, dismissive ones *hodgepodge*, clinical or statistical ones *heterogeneous*; and a blank needing an adjective rules out *hodgepodge* outright."
 }

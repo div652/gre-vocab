@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__dislike-to-loathing",
+  "title": "From cold aversion to moral abhorrence",
+  "seed_words": [
+    "aversion",
+    "antipathy",
+    "loathe",
+    "abhor"
+  ],
+  "hallucinated": null,
+  "core": "All four name the wish to have nothing to do with something, and all four are stronger than mere preference — none of them is \"I'd rather not.\" They differ on temperature (cool and settled vs. hot and visceral), on what they attach to (an activity, a person, a practice), and on what they reveal about the speaker. The two nouns describe a standing state you carry around; the two verbs describe an active recoil aimed at a target. Grammar splits them too: you *have* an aversion or an antipathy, you *loathe* or *abhor* a thing.",
+  "words": [
+    {
+      "word": "aversion",
+      "nuance": "The most impersonal of the four and the only one at home in technical prose — **aversion** describes a tendency to avoid (risk aversion, aversion therapy), so it reports behavior as much as feeling and lets a speaker stay clinical. It attaches to activities and stimuli, not people: an aversion **to** paperwork, to cold water, to being interrupted."
+    },
+    {
+      "word": "antipathy",
+      "nuance": "Just as cold as aversion, but **antipathy** is directed at parties — a person, a group, a policy — and it carries the flavor of being unearned or unaccountable, felt before it can be defended. It is also the group's press-release word: *public antipathy toward the reform* is what a paper prints where speech would say people hate it."
+    },
+    {
+      "word": "loathe",
+      "nuance": "The temperature jumps here: **loathe** is hot and bodily, revulsion rather than distance, the thing not merely bad but repellent. It is also the only member the group can use lightly — hyperbole is normal (\"I loathe Mondays\"), where the same joke with the others sounds stilted."
+    },
+    {
+      "word": "abhor",
+      "nuance": "**Abhor** puts the disgust on moral ground and aims it at practices and principles — cruelty, censorship, hypocrisy — not at Mondays and not at your neighbor. It's the one that broadcasts the speaker's values: to abhor something is to announce where your line is, which is why it never plays for laughs."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves this set because the correct pair is usually fixed by register and object, not strength: a clinical or economic blank takes aversion, a moral-outrage blank takes abhor, and antipathy/aversion look interchangeable until you check whether the object is a person or an activity."
+}

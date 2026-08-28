@@ -9,5 +9,29 @@
     "fortuitous",
     "serendipitous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five sit at the intersection of luck and timing: something has fallen the right way, and nobody quite arranged it. They split on two axes. First, **tense** — does the word forecast (the conditions look good, nothing has been tried yet) or report (it already happened)? Second, **agency** — was it pure chance, or does the good fortune look designed? Get those two questions right and the group untangles.",
+  "words": [
+    {
+      "word": "auspicious",
+      "nuance": "The only one that points at a **sign** rather than at conditions or outcomes — it reads the omen. It clings to *beginnings*: a debut, an opening, a first day, an inaugural flight. And it is the group's great ironist: \"not an auspicious start\" is the standard polite obituary for something that failed immediately."
+    },
+    {
+      "word": "propitious",
+      "nuance": "Forecasts like **auspicious**, but describes the *conditions for acting*, not a sign to be read — the wind, the market, the political climate have tilted your way, so go now. It attaches to *the moment* and implies a pending attempt; there is no ceremonial or ironic use, and nothing has begun yet."
+    },
+    {
+      "word": "providential",
+      "nuance": "Flips the tense: the luck has already landed, and it looks **arranged**. Where the two forecasters describe favourable setup, this one describes rescue — the delay that saved you, the letter that arrived the day before the deadline. It keeps a theological glow even in secular prose: someone was watching out for you."
+    },
+    {
+      "word": "fortuitous",
+      "nuance": "The only member with no built-in good news. Strictly it reports **causation** — unplanned, full stop — so a fortuitous collision is as correct as a fortuitous windfall. Popular use has smeared it toward \"happily accidental\"; the GRE holds it to the neutral sense and lets context supply the valence."
+    },
+    {
+      "word": "serendipitous",
+      "nuance": "Chance plus a **find you weren't looking for**. It needs a discovery, a meeting, a solution — mere good luck won't qualify, so a lottery win is lucky, not serendipitous. Also the group's one informal, whimsical word: startup origin stories and wedding speeches, not liturgy."
+    }
+  ],
+  "exam_note": "The classic traps are tense and valence: a sentence describing conditions *before* an attempt rejects **providential**, and one that requires a good outcome rejects **fortuitous**, which only guarantees the absence of a plan."
 }

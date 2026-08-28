@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-concealment",
+  "title": "Degrees of concealment",
+  "seed_words": [
+    "discreet",
+    "covert",
+    "clandestine"
+  ],
+  "hallucinated": null,
+  "core": "All three describe keeping something out of open view, and all three describe deliberate, controlled concealment rather than accident or shyness. What separates them is *why* the thing is hidden and how the hiding reflects on whoever is doing it — protecting someone else's privacy, withholding official acknowledgement, or evading a rule. The scale runs from praiseworthy tact through neutral non-disclosure to organised illegitimacy.",
+  "words": [
+    {
+      "word": "discreet",
+      "nuance": "The only one that is a **compliment**, and the only one that describes a *person's judgment* rather than an activity. **Discreet** concealment protects a third party — the client, the patient, the friend — and nothing wrong is being hidden; the hider is being trusted, not evading anyone. A **discreet** enquiry is so lightly made that nobody notices a question was asked."
+    },
+    {
+      "word": "covert",
+      "nuance": "Cool, controlled, and often **sanctioned from above** — the term an agency uses about its own operations. Its distinctive move is *unacknowledged rather than invisible*: covert hostility or a covert glance is fully perceptible, it simply never gets said out loud. No illegality is implied and no nervousness — the sponsor may be entirely legitimate, just unnamed."
+    },
+    {
+      "word": "clandestine",
+      "nuance": "The strongest and the only reliably **negative** one: hidden precisely because it **isn't allowed**. It attaches to organised activities — meetings, cells, labs, affairs, printing presses — never to a temperament, and it is the outsider's word, what the newspaper calls afterwards what the agency called **covert**. Nobody runs a clandestine bake sale."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"secret\": check who benefits — a protected confidence wants **discreet**, an unacknowledged official act wants **covert**, a prohibited organised one wants **clandestine**."
+}

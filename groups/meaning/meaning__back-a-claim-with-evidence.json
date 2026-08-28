@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__back-a-claim-with-evidence",
-  "title": "Back a claim with evidence",
+  "title": "Backing a Claim with Evidence",
   "seed_words": [
     "corroborate",
     "substantiate",
     "ascertain",
     "buttress"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these belong to the formal language of proof — courtrooms, audits, newsrooms, research — where a statement is not accepted until something outside it does work on its behalf. They differ on *what the evidence does*: strengthen an existing story, discharge the burden on the person who told it, prop up a shaky structure, or settle a question that was still open. Three of them presuppose a claim already on the table; one of them is what you do before there is any claim at all. The GRE lives in that gap.",
+  "words": [
+    {
+      "word": "corroborate",
+      "nuance": "**Corroborate** demands a *second, independent* source agreeing with the first — the emphasis is on the separateness, not the strength. A witness corroborates another witness; you can never corroborate yourself, no matter how much evidence you pile up. The other three have no independence requirement at all."
+    },
+    {
+      "word": "substantiate",
+      "nuance": "**Substantiate** puts the burden on the speaker: you asserted it, now make it hold up. It attaches to things under suspicion — allegations, rumours, charges — and \"unsubstantiated\" is its natural home, an accusation left dangling. When someone asks you to substantiate a claim, they are challenging you, not helping you; corroboration, by contrast, is help arriving from outside."
+    },
+    {
+      "word": "buttress",
+      "nuance": "**Buttress** is the metaphor word, and the metaphor still bites: outside support, deliberately added, to a thing that would otherwise lean. It attaches to a position, argument, case or regime — never to a person, and never to a fact. Where *corroborate* is about the source's independence and *substantiate* about the speaker's burden, **buttress** is about the argument's structural weakness."
+    },
+    {
+      "word": "ascertain",
+      "nuance": "**Ascertain** is the outlier: it does not back a claim, it *settles a question*. There is no prior assertion to strengthen — you went looking and now you know for certain. Police ascertain the cause of a fire; they do not corroborate it. If the sentence has no claim already on the table, this is the only one of the four that fits."
+    }
+  ],
+  "exam_note": "The trap is treating all four as interchangeable \"prove\" words: watch whether the sentence already contains a claim (substantiate/buttress), a *second* source (corroborate), or only an open question (ascertain)."
 }

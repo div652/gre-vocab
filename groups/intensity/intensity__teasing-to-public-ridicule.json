@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__teasing-to-public-ridicule",
+  "title": "Teasing to public ridicule",
+  "seed_words": [
+    "raillery",
+    "satirical",
+    "lampoon"
+  ],
+  "hallucinated": null,
+  "core": "All three describe mockery deployed as wit — laughter aimed at somebody, delivered with enough craft that it counts as humor rather than mere insult. What separates them is how much damage is intended and how public the delivery is: the same joke can be a gift between friends, a weapon against an institution, or a demolition of one named person. Watch also for whether the word describes the *social act*, the *method*, or the *finished piece*.",
+  "words": [
+    {
+      "word": "raillery",
+      "nuance": "The only one where the target is supposed to enjoy it. **Raillery** presumes affection and reciprocity — you rail at someone who will rail back, and being excluded from it is the insult. It's also a whole social mode rather than an attack on a fault: there needn't be any folly to expose, just company to amuse."
+    },
+    {
+      "word": "satirical",
+      "nuance": "Adds a *moral purpose* the other two don't require. **Satirical** mockery is instrumental — the laughter is a means of exposing vice or folly, so it typically aims at a system, a fashion, or a type rather than at an individual's dignity. It's an adjective for method and work (a satirical novel, a satirical tone), not for an evening's banter."
+    },
+    {
+      "word": "lampoon",
+      "nuance": "Names a victim and performs the attack in public. Where satire can be dry, impersonal and high-minded, a **lampoon** is broad, rude, and reputational — its success is measured by how much dignity comes off the named person. It's also the only one of the three that works as a verb of doing and a noun for the artifact produced."
+    }
+  ],
+  "exam_note": "The trap is treating all three as generic \"mockery\": sentence-equivalence questions hinge on whether the context supplies affection (raillery), a reformist target (satirical), or a named public victim (lampoon)."
+}

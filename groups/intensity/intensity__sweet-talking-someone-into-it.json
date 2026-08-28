@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__sweet-talking-someone-into-it",
+  "title": "Sweet-talking someone into it",
+  "seed_words": [
+    "cajole",
+    "wheedle",
+    "inveigle"
+  ],
+  "hallucinated": null,
+  "core": "All three describe getting a yes out of someone who started out unwilling — and getting it through soft verbal charm rather than through argument, payment, or threat. The target is never forced; they are flattered, coaxed, and worked on until they give in. What separates them is how honest the charm is and how it sounds: warm persistence at one end, ingratiating angling in the middle, outright smooth deception at the far end.",
+  "exam_note": "The GRE hides the deception line — only the strongest of the three admits actual trickery — and tests the prepositions (into for all three, plus the extraction sense \"out of\" for the middle one).",
+  "words": [
+    {
+      "word": "cajole",
+      "nuance": "The only one that can be affectionate. **Cajole** locates the pressure in *repetition*, not dishonesty — the flattery may be perfectly sincere, it just keeps coming until resistance collapses. The target usually knows exactly what's happening and half-enjoys it, which is why a parent cajoles a child into a coat and no one calls it deceit."
+    },
+    {
+      "word": "wheedle",
+      "nuance": "Names the *tone*, and the tone is needy. **Wheedle** is the coaxing done from below — pleading, ingratiating, a little pathetic — by someone angling for a specific prize, and the flattery is transparently instrumental. It's the only one of the three that also extracts objects: you wheedle a raise, a favor, or twenty pounds *out of* someone."
+    },
+    {
+      "word": "inveigle",
+      "nuance": "The one where the charm is a cover story. **Inveigle** admits real deception — the mark says yes willingly and only figures out afterwards that he was handled — and the operator is smooth and high-status, never begging. It's also the only one that works on access: you inveigle your *way into* a room you had no right to enter."
+    }
+  ]
+}

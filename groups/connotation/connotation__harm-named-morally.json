@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__harm-named-morally",
+  "title": "Harm Named Morally",
+  "seed_words": [
+    "pernicious",
+    "noxious",
+    "virulent",
+    "malevolent",
+    "sordid",
+    "turpitude"
+  ],
+  "hallucinated": null,
+  "core": "These are all condemnations, not reports. Each one says damage is being done *and* that the speaker disapproves — the fact and the verdict arrive in the same word. What separates them is where the condemnation lands: on the mechanism of the harm (how quietly it works, how fast it spreads, how physically toxic it is), on the will behind it, or on how cheap and disqualifying the motive was. Three run on a poison metaphor, one judges intention with no deed required, and two judge character — one with contempt, one with a gavel.",
+  "exam_note": "The classic trap is effect-vs-intent: **pernicious** damns the working of a thing regardless of who meant what, **malevolent** damns the wish regardless of whether anything happened — and the GRE will offer both for a sentence that only supports one. Note too that **turpitude** is the lone noun, so it fills a different slot entirely.",
+  "words": [
+    {
+      "word": "pernicious",
+      "nuance": "Rates the *tempo and visibility* of the damage, not the malice behind it: harm that works slowly and unnoticed, so the alarm comes too late. Nobody has to intend it — a myth or a habit can be pernicious with no one at the controls."
+    },
+    {
+      "word": "noxious",
+      "nuance": "The only one here whose home sense is literally physical: fumes, weeds, chemicals that injure a body. Applied to ideas it is a borrowed medical charge — the belief is a toxin in the bloodstream — and unlike pernicious it says nothing about speed or stealth, only about real injury versus mere offence."
+    },
+    {
+      "word": "virulent",
+      "nuance": "Adds severity plus *contagion*: not just poisonous but aggressive and spreading. It alone is at home describing hostility and speech — virulent racism, virulent attacks — where the point is that the venom infects others, not merely that it damages one host."
+    },
+    {
+      "word": "malevolent",
+      "nuance": "Judges a *wish*, and can be satisfied by someone who never acts. It needs a mind (or a thing granted one — a presence, a stare), and it describes a settled nature rather than the properties of an influence or a substance; a gas can be noxious but never malevolent."
+    },
+    {
+      "word": "sordid",
+      "nuance": "Scales the harm *down* rather than up: the wrongdoing is petty, self-serving and embarrassing — money, lust, a small betrayal. It buys contempt where the others buy fear, and it carries the flavour of details exposed to daylight."
+    },
+    {
+      "word": "turpitude",
+      "nuance": "A noun, and an institutional verdict: baseness bad enough to *disqualify* you from an office, a licence, a country. It lives inside the fixed phrase *moral turpitude*, so it sounds like a statute rather than a judgement passed by a person — and used for ordinary failings it reads as a joke."
+    }
+  ]
+}

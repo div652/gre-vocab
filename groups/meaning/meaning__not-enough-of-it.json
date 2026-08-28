@@ -9,5 +9,29 @@
     "paltry",
     "wanting"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five say the same basic thing: there is some, but not enough. What separates them is what part of speech they occupy, what the shortfall is measured against, and whether the speaker is complaining. Some name the shortage itself, some modify the meagre thing, and one delivers a verdict after the thing has been weighed. Only one of the five is neutral about it.",
+  "words": [
+    {
+      "word": "dearth",
+      "nuance": "The only **noun** here — it names the shortage as a condition of the world, and needs *of* plus an abstract mass noun after it (*a dearth of talent, of evidence*). You can have a dearth of something; you cannot be dearth."
+    },
+    {
+      "word": "scant",
+      "nuance": "**Scant** attaches to what someone *gave* — attention, regard, comfort, evidence — so the reproach lands on a person's diligence or generosity, not on the supply of the thing. *Scant attention* accuses the writer; *sparse notes* just describes the page."
+    },
+    {
+      "word": "sparse",
+      "nuance": "The only word here about **spacing**, and the only one that isn't an accusation. Things are present but spread out with gaps between them, which is why it takes surfaces, areas and populations — and why a scientist can call data **sparse** as a plain measurement."
+    },
+    {
+      "word": "paltry",
+      "nuance": "The only one that **sneers at worth rather than counting quantity** — it attaches to sums, wages, offers, turnout, and says the amount is insulting given what was owed. *A paltry $5* implies someone should be ashamed; *scant funds* only says there isn't much."
+    },
+    {
+      "word": "wanting",
+      "nuance": "The **verdict** word: it sits after the verb (*was found wanting*) and reports the result of a test against a standard, so the failure is in quality, not quantity. An examiner, auditor or judge is the implied speaker."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable degrees of \\\"a bit less\\\" — the GRE actually keys on slot and stance: **sparse** is the neutral one, **wanting** must follow the verb, **dearth** must be a noun with *of*, and **paltry** vs **scant** turns on whether the sneer is at the amount's worth or at the effort behind it."
 }

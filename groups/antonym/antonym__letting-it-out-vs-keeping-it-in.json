@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__letting-it-out-vs-keeping-it-in",
+  "title": "Letting it out vs. keeping it in",
+  "seed_words": [
+    "divulge",
+    "disseminate",
+    "betray",
+    "apprise",
+    "suppress",
+    "censor",
+    "cloak",
+    "occlude",
+    "reticent"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is about the traffic of information across a barrier: something moves out to an audience, or something is stopped before it gets there. What separates them is never *whether* the thing came out but *how* — who authorized it, whether a seal was broken, whether anyone chose it, and what was done to the thing to keep it down. The GRE builds these into two-sided sentences (\"far from ___ing the findings, the board ___ed them\"), so the pairs have to be read as opposites of manner, not just of direction.",
+  "words": [
+    {
+      "word": "divulge",
+      "nuance": "**Divulge** requires a prior seal: the thing was under wraps, and one specific item comes out. Reach is irrelevant — you can divulge a name to one person — and the whiff is of a confidence breached, even when the release is deliberate and lawful."
+    },
+    {
+      "word": "disseminate",
+      "nuance": "**Disseminate** is the only one measured in reach rather than secrecy. Nothing was hidden and no trust is at stake; the content simply travels one-to-many, on purpose, from an institution outward — and the word is silent on whether it's true."
+    },
+    {
+      "word": "betray",
+      "nuance": "**Betray** is the leak nobody chose. Its subject is usually the tell, not the teller — a flush, a pause, a shaking hand — and it works precisely because the owner was straining to conceal what the detail let out."
+    },
+    {
+      "word": "apprise",
+      "nuance": "**Apprise** is the one release that breaks nothing: the hearer was *owed* the information, and telling them discharges a duty. It's directed at a person (apprise *someone* *of* something), where divulge and disseminate are aimed at the content and its spread."
+    },
+    {
+      "word": "suppress",
+      "nuance": "**Suppress** is downward force, held. The report, the revolt, the laugh still exists and still pushes; lift the hand and it surfaces. That live pressure is what censor lacks (the material is cut out) and cloak lacks (nobody had to lean on anything)."
+    },
+    {
+      "word": "censor",
+      "nuance": "**Censor** adds an inspector and a criterion. Material is reviewed, judged objectionable — obscene, seditious, secret — and excised by an authority. It's the only word here that also names the person doing it."
+    },
+    {
+      "word": "cloak",
+      "nuance": "**Cloak** conceals by covering, and usually by substituting a respectable surface: greed cloaked *in* the language of duty, a takeover cloaked *as* a merger. Nothing is cut, nothing is pinned down; the gap between appearance and substance is the whole point."
+    },
+    {
+      "word": "occlude",
+      "nuance": "**Occlude** is the physical one — an artery, a sinus, a sightline. No secret, no authority, no motive: something is simply in the way, sealed shut. Plans and reports can be suppressed or cloaked but never occluded."
+    },
+    {
+      "word": "reticent",
+      "nuance": "**Reticent** is the only adjective and the only word describing a disposition rather than an act. Nothing is done to the information at all — a person who could speak declines to, usually about a specific subject and usually about themselves. Not shyness (that's inability) and not taciturnity (that's fewer words across the board)."
+    }
+  ],
+  "exam_note": "The traps are within-side, not across: divulge (a seal) vs. disseminate (reach) vs. apprise (a duty); suppress (held down) vs. censor (cut out) vs. cloak (draped over) — plus betray's involuntary sense and reticent's *chosen* silence, both of which students misread as ordinary revealing and ordinary shyness."
+}

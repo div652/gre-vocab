@@ -8,5 +8,21 @@
     "impervious"
   ],
   "similarity": 0.73,
-  "auto": true
+  "auto": true,
+  "core": "Three words separated by two letters, and only two of them are actually related. The first pair descends from Latin *imperare*, \"to command\" — one names the demand itself, the other names a person's manner of issuing demands. The third is a stranger wearing the family face: its root is *per-*, \"through,\" and it has nothing to do with authority at all — it is about what fails to get through a surface. The trap is that all three can appear in sentences about force being applied, so the eye supplies whichever meaning the context seems to want.",
+  "words": [
+    {
+      "word": "imperative",
+      "nuance": "The only one of the three that describes a **situation** rather than a person. It attaches to the thing that must be done — *it is imperative that we act* — and the pressure comes from circumstances, not from anybody's ego. It is also the only one with a noun form and the only one that is neutral in tone: you can call your own duty an imperative without insulting anyone."
+    },
+    {
+      "word": "imperious",
+      "nuance": "Describes a **person's bearing**, and is always an accusation. Where *imperative* says something must be done, **imperious** says someone acts as though they need not ask — the finger-snap, the unmet gaze, the refusal that isn't even anticipated. Crucially it's about style, not office: it bites hardest when the person has no actual authority to back the manner up."
+    },
+    {
+      "word": "impervious",
+      "nuance": "The odd one out — no command in it anywhere. It describes a **surface that things bounce off**, so it needs something incoming: criticism, flattery, rain, evidence. It's the only one here that takes *to* (*impervious to reason*), and the only one whose connotation flips with what's being repelled — nerve if it's pressure, obstinacy if it's argument."
+    }
+  ],
+  "exam_note": "Watch the preposition: a blank followed by *to* is almost always **impervious**; *it is ___ that* is almost always **imperative**; a blank modifying a person's tone, gesture, or wave of the hand is **imperious**."
 }

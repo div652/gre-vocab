@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__talks-too-much-vs-says-little",
+  "title": "Talks too much vs. says little",
+  "seed_words": [
+    "garrulous",
+    "loquacious",
+    "voluble",
+    "expatiate",
+    "ramble",
+    "laconic",
+    "taciturn",
+    "reticent"
+  ],
+  "hallucinated": null,
+  "core": "All of these measure speech against what the occasion actually required — either far past it or well short of it. None is a comment on truth or intelligence: the flood words never mean the speaker is wrong, only that no one could get out of the room, and the sparse words never mean the speaker has nothing to say. What separates them is *why* the amount is off — rambling triviality, easy fluency, single-topic thoroughness, cool deliberate brevity, fixed temperament, or deliberate withholding — and whether the speaker is judging, admiring, or merely noting.",
+  "words": [
+    {
+      "word": "garrulous",
+      "nuance": "The only one of the talkative words that indicts the *content*: trivia, digressions, the neighbour's fence. It is the trapped listener's verdict, and it sticks to a person permanently — the old man on the porch, not someone having a chatty evening."
+    },
+    {
+      "word": "loquacious",
+      "nuance": "Rates quantity and passes no verdict on what was said — the polite, faintly amused label you use when you want the excess on record without the complaint. Its favourite move is understatement: *a loquacious witness* told the court far more than anyone asked."
+    },
+    {
+      "word": "voluble",
+      "nuance": "Measures *speed and ease*, not tedium — the speaker never gropes, never stalls. Alone here it can be flat praise (a voluble advocate, a voluble host); the wariness, when it comes, is that the flow feels rehearsed and impossible to interrupt."
+    },
+    {
+      "word": "expatiate",
+      "nuance": "A verb, and the one that stays on topic: you expatiate *on* or *upon* one subject, at length and in detail. Length here is concentration, not drift — its sting is that the audience never requested the lecture."
+    },
+    {
+      "word": "ramble",
+      "nuance": "The defect is drift — the point gets buried as the speaker wanders off it, contentedly. Also the only word here with a warm literal life outside speech: a Sunday ramble through the hills is a pleasure, not a fault."
+    },
+    {
+      "word": "laconic",
+      "nuance": "Brevity in a given moment, with temperature: the speaker could have said more and pointedly didn't, so the surrounding silence carries the meaning. It's the one-word reply that lands hard — heroic when cool, chilling when it's your boss typing \"Noted.\""
+    },
+    {
+      "word": "taciturn",
+      "nuance": "Not a moment but a constitution — three-word answers for ten years, on every subject, in every mood. Unlike laconic it makes no point and scores no hit; it simply describes a person built closed."
+    },
+    {
+      "word": "reticent",
+      "nuance": "The words exist and are being kept back, almost always on a named subject: reticent *about* his finances, *about* her first marriage. That withholding is a choice, so it reads as discretion in a diplomat and evasion in a witness."
+    }
+  ],
+  "exam_note": "The exam's favourite traps: treating **reticent** as a synonym for shy or for **taciturn** (it needs a topic and implies choice), and building sentence completions where the blank is settled by whether the clause praises fluency (**voluble**) or complains about pointless content (**garrulous**)."
+}

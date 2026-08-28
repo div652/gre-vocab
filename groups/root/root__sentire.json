@@ -1,7 +1,7 @@
 {
   "kind": "root",
   "id": "root__sentire",
-  "title": "Root: sentire (to feel)",
+  "title": "Root: sentire (to feel, to perceive)",
   "seed_words": [
     "consensus",
     "dissent",
@@ -9,5 +9,29 @@
     "sensational",
     "sentimental"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *sentire* covers both halves of feeling: the physical registering of a stimulus and the inner emotional response to it. Every word here is a prefix or suffix hung on that stem — feeling *with* others, feeling *apart* from them, feeling *back* at an old wound, the raw *sensation* itself, the tender *sentiment*. The trap is assuming the root guarantees emotion: two of these are about the temperature of a group's agreement, and one is about jolting an audience's nerves rather than moving its heart. Knowing the root gets you into the neighbourhood; it will not tell you which house.",
+  "exam_note": "The GRE's favourite move is swapping **sensational** and **sentimental** in criticism of prose — both mean \"laid on too thick,\" but one overdoes shock and the other overdoes tenderness; secondarily it pairs **consensus** and **dissent** in text completions that hinge on consensus *not* meaning unanimity.",
+  "words": [
+    {
+      "word": "consensus",
+      "nuance": "*Con-* + *sentire*: feeling **together**. The only word here whose feeling is collective property rather than one person's — and it names a settled state, not an act, which is why it can be built, reached, or broken by a body that never voted."
+    },
+    {
+      "word": "dissent",
+      "nuance": "*Dis-* + *sentire*: feeling **apart**. Occupies the same public arena as consensus but from the losing side — it is an act, on the record, requiring an official position to push against, and it credits the speaker with conscience rather than mere annoyance."
+    },
+    {
+      "word": "resent",
+      "nuance": "*Re-* + *sentire*: feeling it **again**, and again. The private, inward member of the group — no forum, no audience, just stored bitterness aimed backward at a perceived injustice, and the only one that quietly indicts the person doing the feeling."
+    },
+    {
+      "word": "sensational",
+      "nuance": "Built on the *perception* half of the root, not the emotion half: it targets the audience's nerves — shock, gasp, thrill — and judges the effect produced, not the feeling held. Uniquely two-faced here: pure praise for a performer, pure accusation for a newspaper."
+    },
+    {
+      "word": "sentimental",
+      "nuance": "Built on *sentiment*, and restricted to the soft end of it — nostalgia, tenderness, pity, never rage or terror. Where **sensational** overstimulates, this oversweetens; the charge is that the feeling exceeds what the subject earned, which is why it kills a novel but forgives a person keeping old letters."
+    }
+  ]
 }

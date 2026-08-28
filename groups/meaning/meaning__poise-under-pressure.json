@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__poise-under-pressure",
-  "title": "Poise under pressure",
+  "title": "Poise under pressure: inner calm vs. visible style",
   "seed_words": [
     "equanimity",
     "aplomb",
     "poise",
     "imperturbable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe not being rattled when the situation would rattle most people — the blow lands, and the person stays level. The pressure is built into every one of them: none is usable to describe someone merely relaxed on a quiet afternoon. What separates them is **where the steadiness lives** — inside the mind, in the fixed temperament, in the visible body, or in the style of the performance — and whether you are *enduring* something or *pulling something off*.",
+  "words": [
+    {
+      "word": "equanimity",
+      "nuance": "The purely **inner** one: evenness of mind, which nobody can see directly and which you infer from how someone took the news. It attaches to things done *to* a person — a verdict, a diagnosis, a demotion — so it measures endurance, not performance, and it is the one word here that implies the blow was genuinely felt."
+    },
+    {
+      "word": "imperturbable",
+      "nuance": "The group's only adjective, and the only one describing a **standing temperament** rather than conduct on one occasion: a claim that this person *cannot* be flustered, ever, not that they weren't today. Because it's a trait and not a response, it's the only one that can turn cold — unflappable enough that you wonder if anything registers."
+    },
+    {
+      "word": "poise",
+      "nuance": "Composure with a **body** attached: steady voice, unhurried hands, nothing fidgeting. It's the least formal of the four and carries a whiff of grace and breeding, so it's what you praise in a dancer, a diplomat, or a teenager fielding a hostile question. It alone has the coiled sense — *poised to spring* is balance held for a leap, not calm at all."
+    },
+    {
+      "word": "aplomb",
+      "nuance": "The only one that requires a **feat**: you don't take bad news with aplomb, you land the joke, the operation, the hostile press conference with it. It rates the ease of the execution, not the steadiness of the nerves — visible strain kills it outright, and there's nothing to praise if the task was easy."
+    }
+  ],
+  "exam_note": "The classic swap is **equanimity** vs. **aplomb** in a \"with ___\" slot: if the sentence gives the person a hard thing to *do*, it's aplomb; if it gives them a hard thing to *receive*, it's equanimity — and if the blank is an adjective, only **imperturbable** fits at all."
 }

@@ -9,5 +9,29 @@
     "contentious",
     "fractious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe hostility as a *habit* rather than a passing temper: the person (or thing) is set up to produce conflict. What separates them is the kind of conflict, its heat, and who's watching. Some mean fists, some mean argument, some mean nothing worse than bickering — and one of them can be aimed at an inanimate clause in a contract.",
+  "words": [
+    {
+      "word": "belligerent",
+      "nuance": "The only one where the fight is **already happening** — the hostility has left the face and reached the voice, the shove, the war. Also the only one with a noun sense: **belligerent** states are nations formally at war, which is why the word straddles the police blotter and the peace treaty."
+    },
+    {
+      "word": "truculent",
+      "nuance": "Menace held in reserve — the scowl, the folded arms, the flat refusal. **Truculent** almost always points upward at authority (the teenager, the hostile witness, the shop steward), and unlike the others it transfers to prose meaning *savagely wounding*, not merely quarrelsome."
+    },
+    {
+      "word": "pugnacious",
+      "nuance": "The only word here that can be a compliment. **Pugnacious** carries relish and energy — the combativeness is a talent, usually exercised in words: the columnist, the cross-examiner, the undersized striker. Nobody is pugnacious for an evening; it's a permanent build."
+    },
+    {
+      "word": "contentious",
+      "nuance": "The only one that attaches to **things** as well as people — a contentious border, clause, or appointment is one that *generates* argument. Of a person it means argument specifically, never violence, and it's the word for a performance review: dry, formal, damning."
+    },
+    {
+      "word": "fractious",
+      "nuance": "The weakest and most condescending: a nuisance, not a threat. **Fractious** is the observer's word for someone else's bad temper — the fractious toddler, the fractious passenger — and it's the only one that describes a *group* squabbling internally and liable to fly apart (a fractious coalition)."
+    }
+  ],
+  "exam_note": "The GRE usually tests the odd senses, not the fight: **contentious** attached to an issue rather than a person, **fractious** attached to a coalition rather than a brawler, and **pugnacious** in a sentence where the tone is admiring."
 }

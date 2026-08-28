@@ -9,5 +9,29 @@
     "hypocrite",
     "disingenuous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five say the falsehood isn't an isolated slip — it's structural, a property of the person or the performance. Each is a moral accusation aimed at a character rather than a correction aimed at a fact, and all but one sit in formal or written register. What separates them is *what specifically is fake*: the innocence, the professed principle, the habit of speech, the second face, or the trust itself.",
+  "words": [
+    {
+      "word": "disingenuous",
+      "nuance": "The only one that attaches comfortably to a *statement* — a question, an argument, a defense — rather than to a whole person. What's counterfeit is the guilelessness, not necessarily the facts, so it's the deniable accusation: it survives a peer review or a debate stage where any of the others would end the conversation."
+    },
+    {
+      "word": "hypocrite",
+      "nuance": "The only charge here that requires no falsehood at all — the principle can be entirely correct; the failure is in the living of it, and it needs the person to have *preached* first. It's also the only plain-register word in the group: shoutable across a dinner table without sounding bookish."
+    },
+    {
+      "word": "mendacity",
+      "nuance": "Names a standing condition, not a transaction — lying as the ambient weather of a person, a family, or an administration, with no victim or audience specified. It indicts the habit itself, where the others indict what the habit did to someone."
+    },
+    {
+      "word": "duplicitous",
+      "nuance": "Requires two simultaneous performances aimed at two audiences: the warm face you get, the other one someone else gets. That structure — not mere frequency of lying — is the charge, which is why it implies premeditation and stage management. Its noun is **duplicity**."
+    },
+    {
+      "word": "perfidy",
+      "nuance": "Alone in requiring a prior bond — an ally, a spouse, a treaty, an oath — and it condemns the rupture of that bond, not the lie that achieved it. You cannot commit it against a stranger. Highest register of the group: statesmen, historians, courtrooms, and the laws of war, where feigning surrender to shoot is perfidy by definition."
+    }
+  ],
+  "exam_note": "The exam plants the trigger and hides it: a sentence supplying betrayed trust wants **perfidy**, a preached-then-broken standard wants **hypocrisy**, and a feigned \"I had no idea\" wants **disingenuous** — pick the generic \"dishonest\" option and you lose the point."
 }

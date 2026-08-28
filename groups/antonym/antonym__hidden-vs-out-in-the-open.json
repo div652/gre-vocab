@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__hidden-vs-out-in-the-open",
+  "title": "Hidden vs. out in the open",
+  "seed_words": [
+    "covert",
+    "clandestine",
+    "surreptitious",
+    "furtive",
+    "ulterior",
+    "overt",
+    "manifest",
+    "patent",
+    "conspicuous",
+    "flagrant"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers the same question: was concealment attempted, and did it work? They cluster at two poles — things kept back from view, and things displayed in full view — but the pole alone never settles which word fits. What separates them within each half is scale (an operation or a glance?), legitimacy (forbidden or merely unannounced?), what's hidden (the act or the reason for it?), and whether the speaker is reporting or condemning. Note too that the \"open\" words split three ways: open to the eye, open to the mind, and open in a way that aggravates an offence.",
+  "words": [
+    {
+      "word": "covert",
+      "nuance": "The cool professional of the hidden half — planned, sanctioned, deniable, the word an agency uses about its own work without flinching. It also has a sense none of the others share: **covert** hostility or racism isn't invisible at all, just never said out loud."
+    },
+    {
+      "word": "clandestine",
+      "nuance": "Attaches to an organised enterprise — a cell, a lab, a network, a long-running affair — and carries the verdict that it isn't allowed. Where *covert* is the insider's word, **clandestine** is the outsider's: what the prosecution calls the same operation."
+    },
+    {
+      "word": "surreptitious",
+      "nuance": "Scales down to a single furtive act by one person in one moment: the phone checked under the table, the file slipped onto a USB. **Surreptitious** describes the sneaking method, not an ongoing organisation — and unlike *discreet*, it concedes you'd have been stopped."
+    },
+    {
+      "word": "furtive",
+      "nuance": "The only one that describes *manner* rather than activity, and the manner leaks: darted eyes, the too-fast tab close. A **furtive** act is one you can see happening — you just can't see what's behind it, which is why the word usually reports a failed concealment."
+    },
+    {
+      "word": "ulterior",
+      "nuance": "Nothing about the deed is hidden; only the *reason* is. **Ulterior** is nearly welded to *motive*, and it accuses the hiding rather than the aim — a raised eyebrow across a dinner table, not a charge of wrongdoing."
+    },
+    {
+      "word": "overt",
+      "nuance": "The precise mirror of *covert*, and reserved for cases where hiding was the expected option: **overt** hostility, an **overt** act of war. The charge it carries is that someone stopped bothering to pretend — or wanted the openness itself to be seen."
+    },
+    {
+      "word": "manifest",
+      "nuance": "Open to the senses and requiring no inference — the judge's, doctor's, diplomat's word for something so displayed that disputing it embarrasses you (**manifest** error, **manifest** injustice). Alone in the group it works as a verb: a hidden thing surfacing into view."
+    },
+    {
+      "word": "patent",
+      "nuance": "Obvious *and* the speaker is exasperated that anyone pretended otherwise. **Patent** keeps company with falsehoods — a **patent** lie, **patent** nonsense — where *manifest* takes errors and injustices and stays judicial rather than annoyed."
+    },
+    {
+      "word": "conspicuous",
+      "nuance": "About the eye, not the argument: the thing sticks out of its surroundings and pulls attention, whether or not any point is being made. Nothing need have been concealed at all — hence **conspicuous** consumption, and the inverted idiom where the expected absence is the loud thing."
+    },
+    {
+      "word": "flagrant",
+      "nuance": "Openness as an aggravating factor. **Flagrant** applies only to breaches of law, duty or decency, and the accusation is that the offender didn't even trouble to hide — moral heat that *blatant*, which is merely loud, doesn't carry."
+    }
+  ],
+  "exam_note": "The exam rarely asks hidden-vs-open outright; it makes you pick within a pole — covert/clandestine/surreptitious differ by scale and legitimacy, not by depth of secrecy, and conspicuous (eye) is not manifest/patent (mind) is not flagrant (offence)."
+}

@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__feeling-for-others-vs-hardened-to-them",
+  "title": "Feeling for others vs. hardened to them",
+  "seed_words": [
+    "empathetic",
+    "commiserate",
+    "cherish",
+    "benevolent",
+    "callous",
+    "sadistic",
+    "misanthropic",
+    "obdurate"
+  ],
+  "hallucinated": null,
+  "core": "Every word here fixes your stance toward another person's inner life: whether you register what they feel, and what that registering costs or produces. The warm half splits by *what the feeling does* — enter someone, share their bad luck aloud, guard what you hold dear, or dispense goodwill from above. The cold half splits by *why the feeling is absent* — worn away by exposure, replaced by enjoyment, generalised into contempt for the species, or present but refused. The trap is that \"warm\" and \"cold\" are the easy part; the exam tests the split *within* each half.",
+  "exam_note": "The cold four are the real test: **callous** feels nothing, **sadistic** feels pleasure, **obdurate** feels the plea and denies it anyway, **misanthropic** has no one in front of it at all — and on the warm side the exam banks on you treating **empathetic** (perception) and **benevolent** (goodwill from above) as synonyms.",
+  "words": [
+    {
+      "word": "empathetic",
+      "nuance": "The only word here for pure *perception* — an ability to read someone from inside, which obliges you to nothing. A therapist can be flawlessly **empathetic** and still bill you; a **benevolent** patron wishes you well without understanding you at all."
+    },
+    {
+      "word": "commiserate",
+      "nuance": "Spoken, mutual, and level: you **commiserate** only as a fellow sufferer, over the same layoff or the same defeat, and everyone understands it fixes nothing. It's the one word in the group that requires a conversation."
+    },
+    {
+      "word": "cherish",
+      "nuance": "Not a response to anyone's distress — it's directed at what you already hold dear and mean to keep safe across years. Alone in the group it takes things that can't feel back: a photograph, a hope, an illusion."
+    },
+    {
+      "word": "benevolent",
+      "nuance": "Goodwill at altitude and at a distance — the word of the benefactor, the trustee, the empire. It describes a *disposition*, not an act and not a feeling-with, which is exactly why \"a benevolent dictator\" can be said with a straight face and heard as an insult."
+    },
+    {
+      "word": "callous",
+      "nuance": "An absence, not an appetite: the shrug where sympathy was owed. Note that it's *acquired* — the surgeon, the landlord, the war reporter go **callous** through exposure — and it lands on a single remark as readily as on a character."
+    },
+    {
+      "word": "sadistic",
+      "nuance": "The inversion of **callous**: not a missing reaction but a rewarded one, the suffering savoured as the point rather than a by-product. Heaviest word in the group, at home in a criminal profile — and its hyperbolic use (\"a sadistic exam schedule\") keeps that core sense: they seem to be *enjoying* it."
+    },
+    {
+      "word": "misanthropic",
+      "nuance": "Scope, not temperature: a settled verdict on the whole species, held in the abstract, with no particular victim in front of you. It's compatible with being perfectly civil to your neighbour, which is why it reads as a philosophy — and often as comedy."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "The feeling isn't missing; it's *refused*. The widow begs, the evidence is in front of you, and you don't yield — so the word is a condemnation, not a description, in formal near-biblical register. Distinguish *stubborn*, which hardens an opinion; **obdurate** hardens a heart."
+    }
+  ]
+}

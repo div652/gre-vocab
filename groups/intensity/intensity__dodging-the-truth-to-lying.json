@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__dodging-the-truth-to-lying",
+  "title": "Dodging the truth to lying",
+  "seed_words": [
+    "equivocate",
+    "prevaricate",
+    "fabricate"
+  ],
+  "hallucinated": null,
+  "core": "All three describe a speaker who does not want you to have the truth, arranged by how far each one goes to keep it from you. The first two stop short of asserting anything false — they work by ambiguity and evasion, preserving the defense \"I never said that.\" The third abandons that defense entirely and manufactures the falsehood outright. The dividing line the group turns on is whether a false statement is actually made.",
+  "words": [
+    {
+      "word": "equivocate",
+      "nuance": "The dodge lives inside the **words themselves** — a single utterance built with two readings, one true and one you'll believe. It's the most surgical of the three: you can equivocate in one sentence, and the payoff is a literal defense held in reserve."
+    },
+    {
+      "word": "prevaricate",
+      "nuance": "**Prevaricate** describes a manner across an exchange, not one clever sentence — the ducking, hedging, ground-shifting of a witness who never lands anywhere. Nothing needs to be ambiguously worded; the evasion is in refusing to answer, and the word is what a judge or editorial uses when *lied* would be unprovable or actionable."
+    },
+    {
+      "word": "fabricate",
+      "nuance": "**Fabricate** is the one that crosses the line into asserted falsehood, and it goes past *lie* — you build the thing, with corroborating detail, to survive scrutiny. It takes objects that required labor to fake (evidence, sources, records, an alibi), and it leaves no technically-true escape hatch."
+    }
+  ],
+  "exam_note": "Answer choices lump all three under \"lie\" — but only **fabricate** requires a false statement to exist, and it alone carries a wholly neutral sense (manufacturing from parts) that the GRE uses to bait you in engineering or manufacturing contexts."
+}

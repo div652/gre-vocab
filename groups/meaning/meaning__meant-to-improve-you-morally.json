@@ -7,5 +7,21 @@
     "edify",
     "exhort"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three involve one party working on another for their own good — an improving intent aimed at someone's character, morals, or conduct. Each carries a faint whiff of the pulpit, and each can curdle into condescension. They split on what the improver is actually doing: describing the *manner* of the teaching, naming the *effect* on the person taught, or applying *pressure* toward an act.",
+  "words": [
+    {
+      "word": "didactic",
+      "nuance": "The only adjective, and the only one that judges the **teacher's manner** rather than the pupil's outcome — it describes how a work or a person delivers a lesson, not whether anyone was improved. It's also the group's insult: call a novel **didactic** and you mean it lectures. Neither of the others can be aimed at a style."
+    },
+    {
+      "word": "edify",
+      "nuance": "Measured entirely by the **result inside the recipient** — the person comes away morally larger, not merely better-informed. A **didactic** book may edify nobody; an unpreachy one may edify deeply. Note its native habitat is the negative: \"not an edifying spectacle\" is far commoner than the plain praise."
+    },
+    {
+      "word": "exhort",
+      "nuance": "Aims at **action, not understanding** — no lesson is being transmitted, only heat applied to get someone moving. It's also the one that implies the speaker **can't compel**: you exhort precisely because you lack the authority to order. Instruction is beside the point; compliance is everything."
+    }
+  ],
+  "exam_note": "The classic trap is sliding **exhort** into a slot about content: if the sentence is about what someone is *taught*, it wants didactic or edify — exhort only fits when someone is being pushed to *do* something."
 }

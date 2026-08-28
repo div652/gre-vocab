@@ -1,0 +1,42 @@
+{
+  "kind": "intensity",
+  "id": "intensity__scolding-mild-to-savage",
+  "title": "Scolding, mild to savage",
+  "seed_words": [
+    "admonish",
+    "reproach",
+    "upbraid",
+    "berate",
+    "castigate",
+    "excoriate"
+  ],
+  "hallucinated": null,
+  "core": "All six mean *to tell someone off for a fault*, and all six are negative and mostly formal — so on a sentence-completion they look interchangeable. They separate on four axes: **heat** (a warning vs. a tirade), **audience** (a private word vs. an on-the-record denunciation), **the source of the speaker's standing** (rank, moral high ground, or simple hurt), and **what the speaker wants** (that you fix it, that you feel it, or that nothing of you is left). The list runs from correction to destruction.",
+  "words": [
+    {
+      "word": "admonish",
+      "nuance": "The only one that faces **forward**: it tells you what to do next, not just what you did wrong (*admonished them to keep silent*). Heat is near zero, and there's a note of care — the aim is that you fix it, not that you feel it."
+    },
+    {
+      "word": "reproach",
+      "nuance": "Powered by **hurt, not rank** — \"you let me down,\" not \"you broke a rule.\" The only one in this group that needs no words at all: a look can reproach you. Also the only one with a live noun, in **beyond reproach**."
+    },
+    {
+      "word": "upbraid",
+      "nuance": "**Names the offence, to the face.** You upbraid someone *for* a specific thing, and the speaker assumes the moral high ground while doing it. Bookish: people upbraid in novels and write-ups, not in kitchen arguments."
+    },
+    {
+      "word": "berate",
+      "nuance": "**Length and volume** are the whole point — the tirade, not the verdict. Uniquely, it indicts the speaker too: nobody berates with dignity. It's also the only neutral-register word here, at home in ordinary reporting rather than a judgment."
+    },
+    {
+      "word": "castigate",
+      "nuance": "**Public and on the record, from authority.** The speaker isn't disagreeing, they're pronouncing you at fault — and the word implies you deserved it. Never a quiet word in private; this is the register of editorials, inquiries, and rulings."
+    },
+    {
+      "word": "excoriate",
+      "nuance": "The top of the scale: a **sustained, itemised demolition** that leaves nothing standing. Where **castigate** delivers a verdict, this flays — and it quietly flatters the critic, since you must have standing before your attack counts as an excoriation. Literal older sense: to strip off skin."
+    }
+  ],
+  "exam_note": "The exam keys on the surrounding adverbs — *publicly, savagely, at length, gently, with advice* — so a blank scolded \"mildly but firmly\" wants **admonish** and one delivered \"in a scathing editorial\" wants **excoriate** or **castigate**; also watch **admonish + to-infinitive** (pure warning, no anger) and the frozen noun **beyond reproach**."
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__fake-said-with-contempt",
+  "title": "Fake — and how much contempt comes with it",
+  "seed_words": [
+    "phony",
+    "bogus",
+    "sham",
+    "counterfeit",
+    "spurious",
+    "feign"
+  ],
+  "hallucinated": null,
+  "core": "All of these mark something as not genuine, but they differ mainly in *who is speaking and how much scorn they load in*. At one end sits the language of a seizure notice or a peer review — cool, formal, making a charge. At the other sits the language of someone who has just been taken in and is saying so out loud. They also differ in what they attach to: money and documents, claims and statistics, ceremonies and institutions, or a person's face.",
+  "words": [
+    {
+      "word": "phony",
+      "nuance": "**Phony** goes after *people and sincerity*, not paperwork — a phony smile, a phony friend — and it's the only one here that works as an insult noun for a human being (*he's a total phony*). The sneer implies the speaker was briefly fooled and resents it."
+    },
+    {
+      "word": "bogus",
+      "nuance": "**Bogus** attacks *assertions and documents* — credentials, invoices, statistics — things that claim something and then collapse the moment you check. Same street-level contempt as *phony*, but pointed at evidence rather than at a person's character, and it alone slides into meaning simply \"unfair\" (*that fine is bogus*)."
+    },
+    {
+      "word": "sham",
+      "nuance": "**Sham** indicts a *form*: a trial, an election, a marriage that performs every correct motion and means nothing inside. The others say the item is fake; **sham** says the procedure was legitimate-looking theatre — which is why it needs an institution or ceremony to bite on."
+    },
+    {
+      "word": "counterfeit",
+      "nuance": "**Counterfeit** is the coldest and most literal: it requires a real original plus intent to pass the copy off as it. No sneer at all — it's a *charge*, the word on a customs seizure notice, and it wants money, passports, medicines, luxury goods."
+    },
+    {
+      "word": "spurious",
+      "nuance": "**Spurious** is the only one that needs *no liar*: a correlation can be spurious with nobody deceiving anyone. Formal and dismissive — where *bogus* says \"this is a lie,\" **spurious** says \"this never had standing,\" and refuses to engage further. The word of judges, editors, and statisticians."
+    },
+    {
+      "word": "feign",
+      "nuance": "**Feign** is the odd one grammatically — a verb for the *faker's* act, not a verdict on an object. Its objects are inner states (surprise, ignorance, illness, sleep), and it implies composure and skill: the person feigning is managing their face well, which is why it carries no eye-roll of its own."
+    }
+  ],
+  "exam_note": "The GRE splits these by register and by whether a deceiver exists: a scientific or judicial sentence takes *spurious* (no liar required) while a scoffing one takes *bogus*/*phony*, and \"spurious correlation\" is the classic trap for students who read *spurious* as \"someone lied.\""
+}

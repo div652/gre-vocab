@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__made-up-on-the-spot",
-  "title": "Made up on the spot",
+  "title": "Made Up on the Spot",
   "seed_words": [
     "ad hoc",
     "makeshift",
@@ -9,5 +9,29 @@
     "extemporize",
     "expedient"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe something produced without a plan — no script, no design, no proper materials — and judged against the prepared, principled version that should have existed instead. The confusion is that they split along three different axes at once: whether it's an act or a thing, whether the absence was of *preparation* or of *principle*, and whether the speaker admires the resourcefulness or is quietly filing a complaint. Two of them can be outright compliments; one is nearly always an indictment.",
+  "words": [
+    {
+      "word": "improvise",
+      "nuance": "The wide-open verb of the group — it takes a jazz solo, a splint, a dinner, an excuse, equally. It is also the only one whose default reading is *skill*: the improviser invents in real time and we watch him do it. Nothing about it says the result is shabby; that comes from context, not the word."
+    },
+    {
+      "word": "extemporize",
+      "nuance": "**Improvise** narrowed to words and performance before an audience — a speech, a sermon, a solo. You cannot extemporize a raft or a dinner. Formal, and it flatters: it credits the speaker with poise for working without notes rather than exposing him as unprepared."
+    },
+    {
+      "word": "makeshift",
+      "nuance": "The only one that attaches to physical stand-ins — a raft, a desk, a bandage — and the only one that presumes a proper version exists and is coming. It concedes the thing is visibly crude while half-praising the resourcefulness that produced it. About materials, not motives."
+    },
+    {
+      "word": "ad hoc",
+      "nuance": "The complaint here is intellectual, not aesthetic: built for this one case, with no principle behind it that would survive the next one. Applies to committees, rules, hypotheses — not objects. Uniquely, it can be entirely neutral in administrative use (*an ad hoc committee* insults no one), but attached to a theory it is close to an accusation of rigging."
+    },
+    {
+      "word": "expedient",
+      "nuance": "The odd one out — it does not mean unprepared at all. The expedient choice may have been deliberated at length; what was left out was principle, not planning. It works, and it works specifically for the person choosing it. Alone in this group, it indicts character: *politically expedient*, *merely expedient*."
+    }
+  ],
+  "exam_note": "The trap is the pivot word: if the sentence contrasts with *planned* or *rehearsed*, you want improvise/extemporize/ad hoc; if it contrasts with *principled*, *honest*, or *right*, only **expedient** fits — and **extemporize** is wrong unless someone is performing in front of people."
 }

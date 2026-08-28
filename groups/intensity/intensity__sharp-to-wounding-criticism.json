@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__sharp-to-wounding-criticism",
+  "title": "Sharp to wounding criticism",
+  "seed_words": [
+    "astringent",
+    "mordant",
+    "caustic",
+    "scathing"
+  ],
+  "hallucinated": null,
+  "core": "All four describe criticism with an edge — sharp, unsoftened, delivered with skill rather than blunt force. The differences are heat and intent: whether the sharpness tightens, bites, burns, or wounds, and whether the speaker is bracing you, amusing you, or trying to take something out of you. Two of them can be compliments to the critic's style; two are damage reports. Watch also what each attaches to — a person, a manner, or the attack itself.",
+  "words": [
+    {
+      "word": "astringent",
+      "nuance": "The coolest of the four — **astringent** tightens rather than burns, and carries a medicinal implication that the severity is *good for you*. It's the only one that regularly appears as straight praise for a prose style, and the only one with no bitterness or scorn behind it."
+    },
+    {
+      "word": "mordant",
+      "nuance": "**Mordant** is the funny one. The bite is intellectual and dry, and the remark works because it's *true* — which is why it half-flatters the speaker's cleverness. Reserved for wits, satirists, obituarists; a bitter ex is caustic, never mordant."
+    },
+    {
+      "word": "caustic",
+      "nuance": "**Caustic** removes the wit and adds the acid: corrosive, aimed to strip something off the target, and usually powered by real bitterness. Unlike **mordant**, nobody's laughing; unlike **scathing**, it describes the *person or manner* as much as the remark — a caustic colleague, a caustic tongue."
+    },
+    {
+      "word": "scathing",
+      "nuance": "**Scathing** is the only one defined by the damage done: it attaches to the attack — a scathing review, rebuke, dismissal — and implies the target actually got hurt. Criticism that bounced off can be caustic, but it was not scathing."
+    }
+  ],
+  "exam_note": "Tone traps: the exam offers **caustic** or **scathing** where the sentence praises a writer's discipline (wants **astringent**) or flags dry humour (wants **mordant**) — check whether the context is admiring, amused, or wounded."
+}

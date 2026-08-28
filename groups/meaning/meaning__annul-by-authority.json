@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__annul-by-authority",
-  "title": "Annul by authority",
+  "title": "Annul by Authority",
   "seed_words": [
     "abrogate",
     "nullify",
     "quash",
     "supersede"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four end something's force from a position of higher standing: what was binding, in effect, or under way stops counting. The register is formal and institutional — courts, legislatures, treaties, official documents — and the result is total, not a reduction. What separates them is *what* gets cancelled and *how*: the instrument itself, its practical effect, a live event, or its standing relative to a newer version.",
+  "words": [
+    {
+      "word": "abrogate",
+      "nuance": "The only one that destroys the **instrument** rather than its effect: the object must be something formally enacted (a law, treaty, clause, right) and the subject must be the body empowered to unenact it. It concedes the thing was validly in force — it is being struck off, not exposed as void — and the word usually arrives loaded with someone's grievance."
+    },
+    {
+      "word": "nullify",
+      "nuance": "Attacks the **effect**, not the document — the thing may sit on the books and simply count for nothing. Uniquely in this group it needs no authority at all: inflation, a counterweight, an offsetting clause can **nullify**. Reach for it when two forces meet and the net is exactly zero."
+    },
+    {
+      "word": "quash",
+      "nuance": "Its object is **live and moving** — a rebellion, a rumour, a rising hope — or a pending legal act (a subpoena, an indictment) still capable of doing something. One decisive stroke from above, and the thing does not resurface; nothing here is repealed or replaced, it is stopped."
+    },
+    {
+      "word": "supersede",
+      "nuance": "The only cancellation performed by a **successor**: the old edition, model, or regulation loses authority because a newer one has arrived, not because anyone moved against it. Bloodless and procedural — no grievance, no struggle, no scheming (that would be *supplant*); the old text just becomes waste paper."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps hinge on the object: only **abrogate** takes a formally enacted instrument, only **supersede** requires a replacement to exist, only **quash** needs something still in motion, and only **nullify** works with an impersonal cause like inflation or a counterforce."
 }

@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__inflated-style",
+  "title": "Inflated style",
+  "seed_words": [
+    "pretentious",
+    "bombastic",
+    "turgid"
+  ],
+  "hallucinated": null,
+  "core": "All three name a gap between the grandeur of the presentation and the substance behind it — the show is bigger than what earns it. Each is a verdict delivered by an unimpressed observer, never a self-description and never a compliment. They differ in what is being inflated (a person's cultural standing, a speaker's vocabulary, a page of prose) and in how the failure lands on the audience: as eye-rolling, as laughter, as exhaustion.",
+  "words": [
+    {
+      "word": "pretentious",
+      "nuance": "The only one that attaches to people, objects, and taste rather than to language — a restaurant, a haircut, a shelf of unread Proust can all be **pretentious**. The specific charge is a bid for *cultural* credit: claiming refinement or depth you haven't got. Says nothing about how loud or long-winded you are."
+    },
+    {
+      "word": "bombastic",
+      "nuance": "Restricted to speech and writing, and specifically to the **loud** end: thunderous delivery, swollen vocabulary, small thoughts inflated to fill a hall. **Bombastic** carries a whiff of the ridiculous — the audience can hear the gap between volume and content. Unlike *turgid*, it is at least energetic; it never bores you, it embarrasses you."
+    },
+    {
+      "word": "turgid",
+      "nuance": "Heavy rather than loud, and the verdict is on the *reader's* suffering — you sank in it. **Turgid** is the only one of the three that indicts pomposity and tedium in a single word, which is why reviewers reach for it on bad novels and bad reports. It also keeps a live literal sense the others lack: swollen, distended, bloated with fluid."
+    }
+  ],
+  "exam_note": "Watch the target: only **pretentious** can describe a person or a thing, while **bombastic** and **turgid** must land on words — and if the sentence's complaint is boredom rather than noise, it wants **turgid** (which may also appear in its literal \"swollen river\" sense)."
+}

@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__trace-to-a-source",
-  "title": "Trace to a source",
+  "title": "Tracing something back to its source",
   "seed_words": [
     "ascribe",
     "attribute",
     "stem from"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three connect a thing to where it came from — a cause, an author, an origin. The split is who is doing the connecting. Two of them are acts of judgement performed by a person who names the source and could be wrong; the third is a statement about the world in which the effect itself does the pointing and no claimant appears at all. Watch the syntax, because it encodes exactly that difference.",
+  "words": [
+    {
+      "word": "ascribe",
+      "nuance": "The bookish one, and the one that most readily takes **qualities and motives** rather than just causes — you ascribe cunning, malice, or divine mercy to someone, which is a hair's breadth from *impute*. It flags the claim as inference on evidence (style, precedent, reasoning), so it lives in scholarship, criticism, and law where the assignment is arguable by design."
+    },
+    {
+      "word": "attribute",
+      "nuance": "The plain, everyday member of the trio — the default verb for **causes and authorship** (*attributed the delay to weather*, *attributed to Caravaggio*) where **ascribe** would sound self-consciously literary. It is also the only one with a noun life: an *attribute* is an essential quality of a thing, not an assignment made about it."
+    },
+    {
+      "word": "stem from",
+      "nuance": "No one assigns anything — the **effect is the subject** and the origin is the object (*the dispute stems from a misunderstanding*), so the sentence has no claimant to be wrong. It attaches to abstractions only, never to authorship or physical objects, and it drifts toward diagnosing trouble: failures stem from things far more often than triumphs do."
+    }
+  ],
+  "exam_note": "The trap is direction and subject: sentence completions supply a cause-first frame (*X resulted in Y*) or put the effect in subject position, which kills **ascribe**/**attribute** and leaves only **stem from** — and vice versa when a named person is doing the assigning."
 }

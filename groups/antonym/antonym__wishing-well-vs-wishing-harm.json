@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__wishing-well-vs-wishing-harm",
+  "title": "Wishing well vs. wishing harm",
+  "seed_words": [
+    "benevolent",
+    "beneficent",
+    "benign",
+    "altruistic",
+    "magnanimous",
+    "malevolent",
+    "malign",
+    "sadistic",
+    "animus",
+    "inimical"
+  ],
+  "hallucinated": null,
+  "core": "Every word here describes the stance one party takes toward another's welfare — the good or harm intended, delivered, or simply made likely. They split along three axes the GRE loves: **disposition vs. deed** (wanting good/ill versus actually conferring it), **cost or occasion** (what the goodwill or malice required of the agent), and **agent vs. condition** (whether a person is behind it at all). Latin *bene-* and *male-* mark the poles, which is exactly why the mirrored pairs are so easy to blur.",
+  "words": [
+    {
+      "word": "benevolent",
+      "nuance": "**Benevolent** stops at the wish: the disposition is kindly, the cheque unwritten. It also looks *downward* — the benevolent party has the money, rank, or years — which is why it turns sardonic on a boss or an empire."
+    },
+    {
+      "word": "beneficent",
+      "nuance": "**Beneficent** is the one where the money moved. Same altitude as *benevolent*, but the benefit has been conferred — a funded ward, an endowed chair. Deeds, not fondness for the idea."
+    },
+    {
+      "word": "benign",
+      "nuance": "**Benign** promises nothing good at all; it only certifies that the harm you feared isn't there. The tumour won't kill you, the amendment won't bite. It's the sole word here with no agent and no gift — just a threat that failed to materialize."
+    },
+    {
+      "word": "altruistic",
+      "nuance": "**Altruistic** prices the good deed: it cost the doer something and bought no return. It's a claim about *motive*, absolute enough that philosophers and biologists argue over whether it exists — and it carries no altitude, unlike *benevolent* and *beneficent*."
+    },
+    {
+      "word": "magnanimous",
+      "nuance": "**Magnanimous** needs a grudge you were entitled to keep. The rival, the loser, the person at your mercy — you had cause for spite and declined it. Where *altruistic* costs money or safety, **magnanimous** costs resentment."
+    },
+    {
+      "word": "malevolent",
+      "nuance": "**Malevolent** is *benevolent* inverted exactly: ill will as a settled nature, no act required. It describes a whole character — or a presence, a silence, a stare — rather than one bad afternoon, and never a single deed (that's *malicious*)."
+    },
+    {
+      "word": "malign",
+      "nuance": "**Malign** is the only word here that names a *channel*: harm done through speech, aimed at a reputation, drip by drip. Its adjective sense (*a malign influence*) means evil in effect. And it leans undeserved — the maligned party usually didn't have it coming."
+    },
+    {
+      "word": "sadistic",
+      "nuance": "**Sadistic** makes the suffering the payoff, not the means. Ordinary cruelty wants your lunch money; the sadist wants your face while you hand it over. Heaviest word in the group — courtroom-grade, or hyperbole about an exam schedule someone seems to be *enjoying*."
+    },
+    {
+      "word": "animus",
+      "nuance": "**Animus** is a noun and a *motive* — the standing grudge you allege explains a firing, a policy, a prosecution. Where *malevolent* describes what someone is, **animus** is what you accuse them of acting on, and it always points at the hostile party, never the target."
+    },
+    {
+      "word": "inimical",
+      "nuance": "**Inimical** removes the hater entirely: conditions, climates, bureaucracies that make thriving impossible. It arrives with **to** (*inimical to growth*) and describes structural opposition — less neutral than *detrimental*, but nothing is angry at you."
+    }
+  ],
+  "exam_note": "The classic traps: benevolent/beneficent (wish vs. deed) and benign/inimical, where the sentence describes conditions with no agent — if a person is doing it, benign and inimical are usually wrong."
+}

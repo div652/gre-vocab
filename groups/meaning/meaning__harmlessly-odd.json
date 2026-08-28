@@ -9,5 +9,29 @@
     "peculiar",
     "whimsical"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe departure from the ordinary that carries no threat — nobody here is dangerous, deranged, or even seriously strange. What separates them is *which* question they answer about the oddity: how big it is (one habit or a whole life), whose it is (this individual alone or anyone), how you feel about it (charmed, puzzled, faintly uneasy), and whether it springs from a fixed trait or a passing impulse. Two of them also carry a non-odd sense the GRE cares about more than the odd one.",
+  "words": [
+    {
+      "word": "eccentric",
+      "nuance": "**Eccentric** is the whole-life scale word and the only one that becomes a noun — you can *be an eccentric*, a recognised social role. It needs an audience: the oddity is visible, sustained, and tolerated, usually because the person has the money, age, or standing to be indulged."
+    },
+    {
+      "word": "idiosyncratic",
+      "nuance": "**Idiosyncratic** makes no claim about how odd the thing is — only that it belongs to *one* case and generalises to nothing. A perfectly sensible knife grip can be idiosyncratic. It's also the only member with a straight technical life: an idiosyncratic drug reaction, idiosyncratic risk in finance — \"specific to this instance, not the population.\""
+    },
+    {
+      "word": "quirky",
+      "nuance": "**Quirky** is the smallest unit and the only reliably warm, informal one — many little quirks, not one grand strangeness. It's the recommending adjective, used of films, cafés, and people you like. Anything big enough to make strangers stare has left quirky behind."
+    },
+    {
+      "word": "peculiar",
+      "nuance": "In its odd sense **peculiar** is the evasive one: it hints something is off without naming it (*a peculiar smell, a peculiar silence*), so it alone can carry faint suspicion. Its second sense has no oddness at all — *peculiar to* means belonging exclusively to. Spot that preposition and the head-tilt reading is gone."
+    },
+    {
+      "word": "whimsical",
+      "nuance": "**Whimsical** is about *motive*, not deviation: acting on passing fancy instead of reason. The others name a stable trait; whimsical names something that could reverse tomorrow. Hence its split — charming on a hat or an illustration, damning on a ruling or a rule, because unpredictability in someone with power over you stops being cute."
+    }
+  ],
+  "exam_note": "The trap is **peculiar to X** (= exclusive to, not strange) and reading **idiosyncratic** as a synonym for odd when it only means \"specific to this one case.\""
 }

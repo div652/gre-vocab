@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__too-small-to-matter",
+  "title": "Too small to matter — from measurement to contempt",
+  "seed_words": [
+    "slight",
+    "trifling",
+    "trivial",
+    "paltry"
+  ],
+  "hallucinated": null,
+  "core": "All four call something small enough to be discounted, and the gradient runs from *how much* to *how little you think of it*. At one end the smallness is simply a fact you could verify with a thermometer or a stopwatch; at the other the size is a pretext for scorn, and the real content of the word is the speaker's disdain. The middle of the range is where the exam lives: words that look like measurements but are actually verdicts already delivered. Watch what each one attaches to — a quantity, a claim, or a person — because that governs which one is idiomatic.",
+  "words": [
+    {
+      "word": "slight",
+      "nuance": "The only one that's pure measurement — no scorn attached, which is why it can sit on a fever, a delay, a limp, or a build without insulting anything. It's also the only one that turns into a verb and a noun: to **slight** someone is to injure them by underrating rather than attacking, and *a slight* is the small snub itself."
+    },
+    {
+      "word": "trifling",
+      "nuance": "Where the judgement starts: **trifling** is a shrug from someone who has already closed the subject, and it carries a formal, faintly grand register — lawyers, memoirs, polite contempt. Uniquely in this group it can describe a *person*, and there it stops meaning \"tiny\" and means frivolous, unserious, not to be relied on."
+    },
+    {
+      "word": "trivial",
+      "nuance": "Aimed at claims, points, objections and distinctions rather than sums — it denies a thing any weight at all instead of measuring it small, which is why *\"this isn't trivial\"* is a standard way of insisting something matters. It also has a defanged technical sense (**trivial case**, **trivial solution**) that none of the others has."
+    },
+    {
+      "word": "paltry",
+      "nuance": "The only one that requires an implied benchmark: paltry *next to what was owed, promised or expected*, which is why it fastens onto wages, offers, turnout, percentages. It shames the giver rather than dismissing the thing — a **paltry** raise is an accusation against whoever set it."
+    }
+  ],
+  "exam_note": "Two traps: the noun/verb **slight** (a snub, not a size), and swapping **paltry** for **trivial** — paltry needs a quantity that fell short of an expectation, trivial dismisses an idea's importance."
+}

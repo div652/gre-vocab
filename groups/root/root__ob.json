@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__ob",
-  "title": "Root: ob- (against) + durus (hard)",
+  "title": "Root: ob- (against) — the heart, the will, the volume",
   "seed_words": [
     "obdurate",
     "obstinate",
     "obstreperous"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three are built on **ob-** (\"against\") and all three name a resistance that won't give way to pressure. Each locates that resistance in a different place: in the heart that won't soften, in the will that won't reverse, in the body that won't be quieted. All three are verdicts from the person being blocked — nobody calls themselves any of these.",
+  "words": [
+    {
+      "word": "obdurate",
+      "nuance": "The resistance is **emotional**, not intellectual: what fails to move you is pleading, pity, or the sight of suffering. **Obdurate** implies a moral failing — a hardened heart the speaker is condemning — and lives in near-biblical register (an obdurate sinner, an obdurate creditor). Wrong word for a stain or a lid; it needs someone capable of mercy who withholds it."
+    },
+    {
+      "word": "obstinate",
+      "nuance": "The resistance is to **argument and evidence**: you've been shown you're wrong and you still won't turn. **Obstinate** says nothing about your feelings, only that your will has outlasted any reason for it — you may be damaging yourself. Uniquely among these, it works on inanimate things: an obstinate cough, an obstinate lid."
+    },
+    {
+      "word": "obstreperous",
+      "nuance": "The only one that makes **noise**. **Obstreperous** requires both volume and defiance — resistance you can hear from across the room — and it is always spoken downward, by whoever is supposed to be in charge (teacher, judge, flight crew). The others resist silently; this one is a scene."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable \"stubborn\": check whether the sentence supplies pity being refused (obdurate), a losing argument being continued (obstinate), or actual disruptive noise (obstreperous)."
 }

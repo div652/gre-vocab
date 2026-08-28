@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__bright-spirits-vs-sunk-spirits",
+  "title": "Bright spirits vs. sunk spirits",
+  "seed_words": [
+    "sanguine",
+    "buoyant",
+    "jocund",
+    "elated",
+    "ebullient",
+    "morose",
+    "glum",
+    "lugubrious",
+    "crestfallen",
+    "plaintive",
+    "dirge"
+  ],
+  "hallucinated": null,
+  "core": "Every word here places a mood on a vertical axis — spirits rising or spirits sinking — and most of them describe the *outside* of that mood rather than the inside: what an observer sees on the face, hears in the voice, or infers from the fact that someone hasn't buckled yet. They split on four questions: is this a settled temperament or a spike, is it caused by a specific event, is it visible to others, and does the speaker approve. Get those four wrong and \"cheerful\" words that mean very different things collapse into one blob. Several also carry a sting the gloss hides — a compliment with an eyebrow raised, or a diagnosis dressed as sympathy.",
+  "words": [
+    {
+      "word": "sanguine",
+      "nuance": "The only one that's a *forecast* rather than a feeling — you can be sanguine while feeling nothing much, because it's a judgment about how things will turn out. It requires a threat to be sanguine *about*, and the writer often means you've underrated it."
+    },
+    {
+      "word": "buoyant",
+      "nuance": "Defined by the weight that failed to sink it — the compliment is resilience, not volume, and a buoyant person may be perfectly quiet. Also the only member with a literal physical sense (floating) and the standard word for markets and demand *rising*."
+    },
+    {
+      "word": "jocund",
+      "nuance": "The one with no stakes attached: no threat survived, no news received, just diffuse sunlit lightness — and it can belong to a morning or a landscape, not only a person. It is chosen for register, not precision; in prose it reads as either verse or a smirk."
+    },
+    {
+      "word": "elated",
+      "nuance": "A spike with an event bolted to it — elated *at*, *by*, *to hear* — and it expires in hours, where the others describe standing dispositions. It's the exact positive mirror of **crestfallen**: same suddenness, opposite direction."
+    },
+    {
+      "word": "ebullient",
+      "nuance": "The loud one: joy that escapes the body as fast talk and noise, so it's diagnosed from across the room. Alone in this group it hints the mood exceeds its occasion — faintly *too much*, and probably not sustainable."
+    },
+    {
+      "word": "morose",
+      "nuance": "The unsociable one — the gloom is aimed outward and refuses to be lifted, so it's other people's problem as much as yours. Carries blame: not just low, but being difficult about it."
+    },
+    {
+      "word": "glum",
+      "nuance": "The mild, small-scale, temporary member — cancelled plans, not catastrophe — and the plainest in register, where **lugubrious** and **plaintive** are literary. Quiet where **morose** is sour, and it invites a \"cheer up\" rather than resenting one."
+    },
+    {
+      "word": "lugubrious",
+      "nuance": "Sadness as *performance*: the drooping face, the funeral-organ voice, gloom laid on so thick it turns funny. Always applied from outside and at a distance — you cannot sincerely call yourself lugubrious, and calling a real mourner it is mockery."
+    },
+    {
+      "word": "crestfallen",
+      "nuance": "A drop, not a state — it presupposes you were up, so it can't be anyone's baseline the way **morose** or **glum** can. It's read off the shoulders and face, and the speaker usually feels sorry for you."
+    },
+    {
+      "word": "plaintive",
+      "nuance": "Attaches to a *sound or expression* — a cry, a melody, a look — never to a person's overall condition. Thin and high rather than heavy, and it's angling for pity: a small note of complaint under the sadness."
+    },
+    {
+      "word": "dirge",
+      "nuance": "The only noun here: a thing performed, not a mood felt — the sound of grief rather than the state of it. Modern use is mostly an insult about *tempo*, applied to a song, speech or party so slow it flattens the room."
+    }
+  ],
+  "exam_note": "The classic traps: **sanguine** tested as \"expects a good outcome\" (not \"happy\") in a sentence whose context is explicitly bad news, and **dirge** slipped into an adjective slot's answer bank as the odd noun out — plus **elated**/**ebullient** offered together, where only the visible-overflow one fits a sentence about how someone *appeared*."
+}

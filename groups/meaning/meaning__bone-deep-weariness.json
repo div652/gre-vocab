@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__bone-deep-weariness",
-  "title": "Bone-deep weariness",
+  "title": "No energy left — body, mood, or interest",
   "seed_words": [
     "lassitude",
     "lethargic",
@@ -9,5 +9,29 @@
     "languid",
     "weary"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe a person (or a market, or an afternoon) running on empty: movement is slow, effort feels impossible, and the spirit is as flat as the body. They differ on three axes — **what drained you** (long effort, illness, or nothing at all), **who's speaking** (a doctor, a novelist, or a self-dramatizing narrator), and **whether the emptiness is of energy or of interest**. Several are unflattering; one is a symptom you could put in a chart; one is very nearly a compliment.",
+  "words": [
+    {
+      "word": "weary",
+      "nuance": "The only one that presupposes a **long haul** — something identifiable wore you down, and the sentence usually names it (a weary soldier, weary of his excuses). It's also the only one with a verb form and the only one that swings from *out of energy* to *out of patience*."
+    },
+    {
+      "word": "lethargic",
+      "nuance": "The **clinical** member: abnormal drowsiness with a suspected cause — flu, heat, jet lag, low iron. A doctor asks if a patient has been lethargic; nobody's lethargic *from* anything noble, and it's expected to lift once the cause does."
+    },
+    {
+      "word": "lassitude",
+      "nuance": "The abstract **noun for the state itself**, and the one where tiredness has soaked into the mood rather than the muscles. No cause is required and none is expected to pass — heat, convalescence, a declining empire; it's heavy and faintly melancholy where *lethargic* is merely diagnosable."
+    },
+    {
+      "word": "languid",
+      "nuance": "The only one that can **flatter**. It describes how the slowness *looks* from outside — a languid gesture, a languid gaze — and can mean unhurried elegance rather than depletion. In business prose it curdles: *languid trading* just means limp."
+    },
+    {
+      "word": "ennui",
+      "nuance": "Not about energy at all — about **interest**. You have the capacity to act and nothing worth acting on, chronically. It requires leisure to afford it and vanity to name it: choosing *ennui* over *boredom* is itself a small act of self-flattery."
+    }
+  ],
+  "exam_note": "The trap is a sentence about a bored aristocrat or a dull existence, where **lethargic** or **lassitude** feel close but only **ennui** answers \"empty of interest, not energy\" — and conversely, a positive or aesthetic context (\"she crossed the room with a ___ grace\") rules out everything but **languid**."
 }

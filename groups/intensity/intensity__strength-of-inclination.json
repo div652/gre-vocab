@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__strength-of-inclination",
+  "title": "Strength of inclination",
+  "seed_words": [
+    "penchant",
+    "predilection",
+    "proclivity",
+    "propensity"
+  ],
+  "hallucinated": null,
+  "core": "All four name a settled leaning toward something — not a passing mood but a standing feature of the person, the kind of thing you could predict about them. They differ along two axes at once: how deep the leaning runs (a taste you indulge → a bias you carry → a trait you can't help) and how much moral shade the writer is throwing. The lighter end attaches to objects and pleasures; the heavier end attaches to behaviour, and increasingly to behaviour someone is being held accountable for. The escalation is roughly taste → bias → leaning → diagnosis.",
+  "words": [
+    {
+      "word": "penchant",
+      "nuance": "**Penchant** is the only one that attaches happily to a *thing you enjoy* rather than a way you behave — champagne, loud jackets, dramatic exits. It's a taste indulged, not a trait diagnosed, and it flatters as often as it needles; the others never sound charming."
+    },
+    {
+      "word": "predilection",
+      "nuance": "**Predilection** is a *preference among options* — it implies a comparison the person has already settled in advance (corner tables over centre ones, Belgian beer over lager). The *pre-* is load-bearing: it's the one that suggests judgement was made before the evidence arrived, which is why it's the word for bias on a panel or a bench."
+    },
+    {
+      "word": "proclivity",
+      "nuance": "**Proclivity** is the vice word. Where a predilection biases your choices, a proclivity pulls you toward *conduct* — gambling, brawling, deceit — and it's the one that most sounds like the speaker is quietly disapproving. Attach it to crosswords and it reads as arch, because the frame it brings is an accusation."
+    },
+    {
+      "word": "propensity",
+      "nuance": "**Propensity** is the clinical, near-actuarial term: a tendency assessed from behaviour and expected to *recur*, which is why it appears in evidence law (\"propensity for violence\") and statistics. Unlike a proclivity, it needn't be innate or shameful — it just needs to be reliable enough to predict from."
+    }
+  ],
+  "exam_note": "Answer choices often hinge on what the noun attaches to and who's judging: a taste (penchant), a prior preference (predilection), a vice (proclivity), or a predictable trait on record (propensity)."
+}

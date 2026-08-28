@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__not-original",
-  "title": "Not original",
+  "title": "Not Original",
   "seed_words": [
     "derivative",
     "pastiche",
     "hackneyed",
     "conventional"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say a work contains nothing invented — the substance came from outside the maker. What splits them is *what it came from*: one prior model, a style deliberately put on, a phrase used to death by everybody, or simply the way things are normally done. They also differ sharply in heat: two are usable as flat description, one can be outright praise, one is always a sneer.",
+  "words": [
+    {
+      "word": "derivative",
+      "nuance": "**Derivative** points backward at a *source* — you could name the earlier writer, album, or painter it came out of. The charge is subtraction: the maker worked honestly but left nothing of himself in it. Coldest of the four; a diagnosis, not an attack, which is exactly why critics and examiners like it."
+    },
+    {
+      "word": "pastiche",
+      "nuance": "**Pastiche** is the only one where the imitation is *open and intended* — the borrowing is the point, not a failure. It's a noun for the object, not a verdict on it, so context decides: \"a loving pastiche of Chandler\" praises, \"mere pastiche\" damns. Also the only one that can mean a medley stitched from several sources at once."
+    },
+    {
+      "word": "hackneyed",
+      "nuance": "**Hackneyed** has no single source at all — it indicts *frequency*. The thing was fresh once and got repeated until it went dead, so the fault is laziness in reaching for it. Attaches almost only to language and ideas (a phrase, a plot twist, a metaphor), never to methods or objects, and it is the one word here that is never neutral."
+    },
+    {
+      "word": "conventional",
+      "nuance": "**Conventional** measures against the room's norms rather than against any prior work: it does what is standard, not what someone else did. Uniquely, it stays purely descriptive on procedures and equipment — conventional surgery, conventional weapons — and only turns into a quiet insult when aimed at a person's taste or an artwork."
+    }
+  ],
+  "exam_note": "The trap is polarity: only *hackneyed* is reliably pejorative, so a sentence whose surrounding clues are neutral or admiring rules it out and points to *conventional*, *derivative*, or *pastiche*."
 }

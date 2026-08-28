@@ -8,5 +8,25 @@
     "paltry",
     "frivolous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four are dismissals dressed as descriptions: each says a thing lacks enough size, weight, or seriousness to deserve your attention, and each passes judgement while pretending to measure. The differences lie in *what* is being denied — sheer quantity, importance, adequacy, or seriousness of purpose — and in who takes the blame. Two of them can also be turned on a person, where \"small\" becomes \"unreliable.\"",
+  "exam_note": "The GRE separates them by target: money and offers want **paltry**, objections and details want **trivial**, lawsuits and spending want **frivolous** — and it will bait you with **trivial** where the sentence is actually complaining that an amount fell short.",
+  "words": [
+    {
+      "word": "trifling",
+      "nuance": "The grandest and most old-fashioned of the four — a wave of the hand from someone who has already ended the discussion. It attaches easily to *anything* small (a sum, an error, a delay), and it's the only one that carries a distinct human sense of shiftless, no-account unreliability (*triflin'*)."
+    },
+    {
+      "word": "trivial",
+      "nuance": "The plain default, and the one aimed at ideas rather than amounts — objections, details, distinctions, differences. It denies weight rather than measuring size, which is why *\"this isn't trivial\"* is a standard protest; it's also the only one with a straight, insult-free technical use (a **trivial** case or solution in maths and code)."
+    },
+    {
+      "word": "paltry",
+      "nuance": "The only implicitly comparative one: small *relative to what was owed, promised, or expected*, which is why it clings to quantities — wages, offers, turnout, percentages. The contempt lands on the giver, not the thing, so a **paltry** raise shames whoever set it, and *\"a paltry mountain\"* is nonsense."
+    },
+    {
+      "word": "frivolous",
+      "nuance": "The odd one out — it faults seriousness of purpose, not size, so a **frivolous** purchase or lawsuit can be enormous and expensive and still qualify. It always implies time stolen from something that mattered, and applied to a person it means flighty, not to be trusted with anything grave."
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__to-the-point",
-  "title": "To the point",
+  "title": "To the Point",
   "seed_words": [
     "germane",
     "pertinent",
@@ -10,5 +10,33 @@
     "apt",
     "felicitous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Every word here says a thing fits the matter at hand — but they split into two jobs that the exam keeps confusing. The first job is **admissibility**: does this belong in the discussion at all? That's a gatekeeper's ruling, and it says nothing about whether the remark was any good. The second job is **craft**: granting that it belongs, how well was it chosen — for precision, for timing, for pleasure? A dull, clumsy remark can pass the first test; a dazzling one can fail it.",
+  "words": [
+    {
+      "word": "germane",
+      "nuance": "The structural test: does this actually attach to *this* question? **Germane** is nearly binary and nearly always contested — you meet it negated, in the mouth of whoever is trying to shut a line of argument down. It grants nothing about quality or importance; a germane point can be trivial and badly made, it just isn't out of order."
+    },
+    {
+      "word": "pertinent",
+      "nuance": "Adds worth to attachment. Where *germane* asks \"does it connect,\" **pertinent** rules that it connects hard enough to deserve the room's time — a verdict from someone with standing to make it (chair, judge, examiner). \"Not pertinent\" is dismissal by weight; \"not germane\" is dismissal by scope."
+    },
+    {
+      "word": "apposite",
+      "nuance": "Drops admissibility entirely and praises **aim**. It attaches to things *said* — a quotation, an analogy, an example — and means the remark landed on the precise nerve of the matter, not merely near it. The bookish verdict of a critic; you cannot call a policy or a person apposite."
+    },
+    {
+      "word": "apropos",
+      "nuance": "Praises the **moment**, not the content. An apposite remark stays apposite whenever you make it; an **apropos** one owes its force to arriving exactly then. It is also the only member with a prepositional life — *apropos of your last point* — and it keeps an urbane French air that reads as cultivated aloud, mannered on the page."
+    },
+    {
+      "word": "apt",
+      "nuance": "The plain-clothes member: neutral register, no ceremony, and the only one carrying senses that have nothing to do with relevance — *apt to overreact* (inclined), *an apt pupil* (quick to learn). Even in its fit sense it merely certifies accuracy; it neither delights like *felicitous* nor claims the surgical strike of *apposite*."
+    },
+    {
+      "word": "felicitous",
+      "nuance": "Fit **plus pleasure** — the listener feels a small click of rightness, which none of the others promises. Reserved for phrasing, titles, metaphors, and timing, and it is the only one whose negative is in live circulation: *infelicitous* is how a reviewer calls a line clumsy without saying so."
+    }
+  ],
+  "exam_note": "Two traps: **apt** usually appears in its *tendency* sense (a near-synonym of *prone*, minus the disapproval), and blanks demanding relevance-as-admissibility (germane, pertinent) will offer craft words (apposite, felicitous) that praise the wrong thing."
 }

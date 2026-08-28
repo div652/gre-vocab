@@ -8,5 +8,25 @@
     "immaculate",
     "inviolate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say a thing is free of some contaminant — nothing has diluted it, dirtied it, worn it, or breached it. The whole group is positive, and each word is a compliment about an absence. What separates them is *what kind of contamination is missing*: an admixture, a history of use, a mark or error, or a violation of something protected. Get the contaminant right and the words stop overlapping.",
+  "words": [
+    {
+      "word": "unalloyed",
+      "nuance": "The contaminant is **dilution** — a lesser element stirred in. Alone in this group it attaches to **abstractions, and almost only pleasant ones**: unalloyed joy, unalloyed admiration, an unalloyed success. You cannot have unalloyed dirt or an unalloyed vow. Watch for it negated — *\"not an unalloyed good\"* is a polite way of announcing the catch."
+    },
+    {
+      "word": "pristine",
+      "nuance": "The contaminant is **history**. It says nothing has ever happened to the thing — unused, unwalked-on, still in the box — so it belongs to wilderness, snowfall, coastlines, and second-hand goods whose value is precisely that no one got there first. Unlike **immaculate**, no effort is implied; unlike **inviolate**, nothing was forbidden, it just never came up."
+    },
+    {
+      "word": "immaculate",
+      "nuance": "The contaminant is **a mark**: a spot, a stain, an error. It describes a state someone *achieved and maintains*, so it fits kitchens, uniforms, restorations, records, and timing — and one crumb cancels it. That's the crisp split from **pristine**: a scrubbed jacket is immaculate, a jacket never worn is pristine."
+    },
+    {
+      "word": "inviolate",
+      "nuance": "The contaminant is **breach** — and the thing was under protection. It attaches to vows, sanctuaries, borders, rights, secrets: whole because touching them was *forbidden*, not merely because no one bothered. It's the only word here with reverence and the only one that implies a prohibition; high-register, at home in constitutions and treaties rather than speech."
+    }
+  ],
+  "exam_note": "The trap is swapping **pristine** and **immaculate** (never used vs. carefully cleaned) and pairing **unalloyed** with a concrete noun or an unpleasant one — it only takes positive abstractions, and the sentence usually negates it to hint at a flaw."
 }

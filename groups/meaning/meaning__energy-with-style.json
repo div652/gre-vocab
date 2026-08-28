@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__energy-with-style",
-  "title": "Energy with style",
+  "title": "Doing it with style: verve, panache, aplomb",
   "seed_words": [
     "verve",
     "panache",
     "aplomb"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three praise *how* something is done rather than what it achieves: the visible style of the execution. All three are admiring by default, and all three attach to a performance, a manner, a way of carrying something off — never to plain effort or plain results. They split on what exactly is on display: liveliness, showmanship, or unbothered calm.",
+  "exam_note": "The exam plants the context word and expects you to match it: \"flustered most people / under fire\" wants aplomb, \"lively, spirited prose or playing\" wants verve, \"flourish, dash, an audience\" wants panache — swapping them yields a sentence that reads fine but describes the wrong quality.",
+  "words": [
+    {
+      "word": "verve",
+      "nuance": "**Verve** is the animation in the work itself — vitality, spirit, tempo. It's the only one of the three that needs no audience and no difficulty: a paragraph, a brushstroke, a melody can have verve alone in a room. Take the liveliness out and there's nothing left."
+    },
+    {
+      "word": "panache",
+      "nuance": "**Panache** is verve turned outward for spectators — the flourish, the swagger, the deliberate visible dash. It presumes someone watching and a difficulty worth making a show of; you win, dress, or resign with panache. It's the showiest of the three, and the only one that carries a licensed hint of showing off."
+    },
+    {
+      "word": "aplomb",
+      "nuance": "**Aplomb** is the quiet one: no energy, no flourish, just the absence of visible strain where strain is expected. It requires a situation that would fluster someone — a heckler, a hostile question, a crisis — and it praises the coolness, not the liveliness. Also the most formal of the three."
+    }
+  ]
 }

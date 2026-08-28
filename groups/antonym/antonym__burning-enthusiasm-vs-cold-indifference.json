@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__burning-enthusiasm-vs-cold-indifference",
+  "title": "Burning enthusiasm vs. cold indifference",
+  "seed_words": [
+    "ardent",
+    "avid",
+    "zealous",
+    "fervent",
+    "fervor",
+    "alacrity",
+    "apathy",
+    "ennui",
+    "tepid",
+    "nonchalant",
+    "perfunctory",
+    "lassitude"
+  ],
+  "hallucinated": null,
+  "core": "This is a temperature scale for caring. At one end, feeling runs hot enough to show — in devotion, in appetite, in how fast someone moves when asked. At the other end the heat is gone, and the words split by *what* is missing: the interest, the energy, the sincerity, or merely the appearance of concern. The GRE rarely asks you to tell hot from cold; it asks you to tell which *kind* of hot or which *kind* of cold, because the group's members are not interchangeable within their own half.",
+  "words": [
+    {
+      "word": "ardent",
+      "nuance": "**Ardent** is the flattering one: heat aimed at something the speaker thinks worth loving — a supporter, an admirer, a fan. Alone among the hot words it cannot carry a warning label, and it never points *at* someone in anger."
+    },
+    {
+      "word": "avid",
+      "nuance": "**Avid** is appetite, not reverence. It attaches to pursuits and habits (*avid reader, avid collector*) where the others attach to causes and beliefs — and it is the only word here that can turn acquisitive: *avid for power* is hunger, not devotion."
+    },
+    {
+      "word": "zealous",
+      "nuance": "**Zealous** is devotion converted into tireless activity, always in service of a cause — and it is the one hot word that raises an eyebrow. Call someone zealous and you have granted the commitment while quietly conceding it may be too much."
+    },
+    {
+      "word": "fervent",
+      "nuance": "**Fervent** measures sincerity, not output. Where *zealous* is out doing things, fervent pairs with the quiet inward nouns — hope, prayer, belief, wish — and the speaker approves without reservation."
+    },
+    {
+      "word": "fervor",
+      "nuance": "**Fervor** is the noun for the temperature itself, and it scales up to crowds: *religious, patriotic, revolutionary* fervor. That company is why it can flip — it admires sincerity or hints that a mob has stopped thinking."
+    },
+    {
+      "word": "alacrity",
+      "nuance": "**Alacrity** is the odd one out: not depth of feeling but speed of response. It shows up in the split second between the request and the yes, which is why it lives in *with alacrity* and can be used ironically about how fast a hand went up."
+    },
+    {
+      "word": "apathy",
+      "nuance": "**Apathy** is the empty end of the scale — no feeling to give and none available. It is the accusation a writer levels at a public (*voter apathy*) for failing to care about something it should, and unlike the others it names the absence itself rather than any behavior."
+    },
+    {
+      "word": "ennui",
+      "nuance": "**Ennui** is apathy with a literary self-image: chronic boredom that has become a worldview, and one the sufferer half enjoys claiming. It requires leisure, and choosing the word over *boredom* is itself a small pose the writer expects you to notice."
+    },
+    {
+      "word": "tepid",
+      "nuance": "**Tepid** grades a *response* — applause, a review, an endorsement — and its sting is that it isn't opposition. Cold would be rejection; tepid is praise with the heat removed, which reads as polite dismissal."
+    },
+    {
+      "word": "nonchalant",
+      "nuance": "**Nonchalant** describes the surface only. The others report what a person feels or fails to feel; this one reports how unbothered they *look*, which leaves room for performance — admirable poise at low stakes, suspicious calm at high ones."
+    },
+    {
+      "word": "perfunctory",
+      "nuance": "**Perfunctory** attaches to the act, not the person, and the act *gets done* — the inspection happens, the apology is offered. It is indifference wearing the costume of compliance, so it accuses someone of not bothering rather than of failing."
+    },
+    {
+      "word": "lassitude",
+      "nuance": "**Lassitude** is missing energy, not missing interest — the flattened body and will of a convalescence, a heatwave, a declining empire. Crucially it is a condition that befalls you, which is what separates it from laziness and from the blame carried by *apathy*."
+    }
+  ],
+  "exam_note": "The trap is same-temperature substitution: a blank about a half-hearted *act* wants perfunctory, not apathy; one about a lukewarm *reaction* wants tepid, not nonchalant; one about drained energy wants lassitude, not ennui."
+}

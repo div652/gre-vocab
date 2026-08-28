@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__stale-from-repetition",
+  "title": "Stale from repetition",
+  "seed_words": [
+    "hackneyed",
+    "banal",
+    "bromide",
+    "platitude",
+    "derivative"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a verdict of unoriginality, and each one is negative — the speaker is not reporting a fact but registering fatigue or disdain. They cluster because the usual complaint is the same: this has been said or done before, and nothing was added. What separates them is *why* it's dead — worn smooth by repetition, drained of all interest, borrowed wholesale from a source, or dressed up as wisdom or comfort so no one has to think.",
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"unoriginal\": watch whether the sentence stresses *repetition* (hackneyed), *dullness* (banal), *borrowed source* (derivative), *false profundity* (platitude), or *false comfort* (bromide) — and note that two are nouns, which kills half the options on grammar alone.",
+  "words": [
+    {
+      "word": "hackneyed",
+      "nuance": "**Hackneyed** blames overuse specifically: the phrase or plot device was effective enough that everyone wore it out. It targets craft units — a metaphor, an opening line, a twist — and implies the writer reached for the nearest ready-made thing. Unlike *banal*, it doesn't say the idea is dull, only that it's been handled to death."
+    },
+    {
+      "word": "banal",
+      "nuance": "**Banal** attacks flatness, not frequency. A remark can be freshly minted and still banal if it's boring and predictable; the sin is having no interest left in it, and it sticks especially to things that were meant to be interesting — a poem, a wedding speech, an evening. It also covers whole works and experiences, where *hackneyed* stays down at the level of the phrase."
+    },
+    {
+      "word": "bromide",
+      "nuance": "A **bromide** is a noun with a job: to sedate. It's the worn remark dropped into grief or conflict so the hard question goes away — and calling it a bromide accuses the speaker of dodging, not merely of being unoriginal. It can also name the tediously conventional *person* who traffics in them, which none of the others can do."
+    },
+    {
+      "word": "platitude",
+      "nuance": "A **platitude** poses as wisdom. The offense is the pretence of depth, usually with a moral tint, delivered so you'll nod — where a *bromide* soothes, a platitude wants to sound profound. It's the standard charge against political condolences and mission statements: you had nothing to say, so you said something that sounded wise."
+    },
+    {
+      "word": "derivative",
+      "nuance": "**Derivative** is about *source*, not wear. The work may be perfectly fresh to a reader who's never met the original; the complaint is that everything in it traces back to someone else, with nothing of the maker in it. It's the coldest word here — a measured diagnosis, not a sneer — and it's the only one that also has a neutral technical sense (finance, calculus)."
+    }
+  ]
+}

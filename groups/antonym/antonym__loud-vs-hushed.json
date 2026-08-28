@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__loud-vs-hushed",
+  "title": "Kinds of loud, kinds of quiet",
+  "seed_words": [
+    "clamorous",
+    "boisterous",
+    "vociferous",
+    "cacophonous",
+    "obstreperous",
+    "clangor",
+    "subdued",
+    "placid",
+    "taciturn",
+    "croon"
+  ],
+  "hallucinated": null,
+  "core": "Every word here sits somewhere on one dial: how much noise a person, crowd, or thing is making. That shared axis is exactly the trap — on a first pass they sort into \"loud pile\" and \"quiet pile\" and look swappable within each pile. They aren't. Each one encodes a *reason* for the volume — a demand, high spirits, defiance, ringing metal, a mood that dropped, a temperament, a wish to soothe — and the reason, not the decibels, is what the exam actually tests.",
+  "words": [
+    {
+      "word": "clamorous",
+      "nuance": "The noise is a **demand**, and it takes a **crowd** — many voices pressing for the same thing. Where *vociferous* can be one man at a microphone, **clamorous** needs the mob at the gates; where *cacophonous* only tells you the sound is ugly, **clamorous** tells you it wants something."
+    },
+    {
+      "word": "boisterous",
+      "nuance": "The one warm word in the loud pile. Nobody is demanding anything and nobody is defying anyone — the noise is surplus **high spirits**, bodies and laughter. Swap it for *obstreperous* and you've accused the party of resisting authority; swap it for *clamorous* and you've given the party a cause."
+    },
+    {
+      "word": "vociferous",
+      "nuance": "Loudness measured in **insistence about a position**, not in sound. It bonds to a stance — vociferous opposition, vociferous denials, vociferous support — and unlike **clamorous** it works perfectly for a single person who will not drop it. A silent room with one shouting critic is vociferous, never clamorous."
+    },
+    {
+      "word": "cacophonous",
+      "nuance": "The only one that is a verdict on the **sound itself**: many sources clashing, and ugly. It says nothing about who is making the noise or why — a jet engine is louder and isn't cacophonous, because it's one sound. It's also the only member that leaves sound entirely: a cacophonous colour scheme."
+    },
+    {
+      "word": "obstreperous",
+      "nuance": "Volume plus **defiance**, and always spoken **downward** — teacher about pupil, judge about witness, crew about passenger. That vantage is the tell: **boisterous** noise is tolerated by the person describing it, **obstreperous** noise is noise the describer is trying and failing to control."
+    },
+    {
+      "word": "clangor",
+      "nuance": "The only **noun** here, and the only word with no human motive in it — it names a specific timbre: **metallic and ringing**, bells and hammers and alarms, sustained. And it's literary. You report *the clangor of the forge*; you'd never say the neighbours' party was clangorous."
+    },
+    {
+      "word": "subdued",
+      "nuance": "Quiet defined **against a previous higher level** — it names a drop and implies something pressed it down. This is what separates it from **placid** and **taciturn**, which describe permanent settings: a naturally still person isn't subdued, but a loud friend after bad news is. Of light or décor the sadness vanishes and it means tastefully muted."
+    },
+    {
+      "word": "placid",
+      "nuance": "No drop, no cause, no event — an **unruffled surface** that simply stays that way: water, a face, a disposition. Where **subdued** implies something happened, **placid** implies nothing ever does, which is why it slides into faint insult (unexcitable, incurious, bovine) in a way subdued never does."
+    },
+    {
+      "word": "taciturn",
+      "nuance": "The only word restricted to **speech**, and the only one that is a **temperament** rather than a state — you could know him ten years and still get three-word answers. **Subdued** is a mood you can come out of; **taciturn** is a build. Faintly cold: not shy, not sad, just closed, sometimes withholding."
+    },
+    {
+      "word": "croon",
+      "nuance": "The only **verb**, and the only quiet that is **produced on purpose and aimed at someone** — low, sweet, sentimental, meant to soothe or seduce. The rest of the quiet pile describes people who aren't making noise; **croon** is a person deliberately making a small one, close to an ear or a microphone. Overdone, it curdles into schmaltz."
+    }
+  ],
+  "exam_note": "Antonym and sentence-equivalence items pair on the *reason*, not the volume: a blank about an ugly clash of sounds takes cacophonous over clamorous, one about a lone insistent critic takes vociferous over clamorous, and the quiet side punishes subdued/taciturn confusion — subdued needs a prior louder state, taciturn needs a lifelong one."
+}

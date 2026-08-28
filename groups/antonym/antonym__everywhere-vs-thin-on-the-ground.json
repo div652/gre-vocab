@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__everywhere-vs-thin-on-the-ground",
+  "title": "Everywhere vs. thin on the ground",
+  "seed_words": [
+    "ubiquitous",
+    "omnipresent",
+    "pervasive",
+    "rampant",
+    "endemic",
+    "sparse",
+    "sporadic",
+    "scant",
+    "dearth"
+  ],
+  "hallucinated": null,
+  "core": "All of these answer the same question — how much of this thing is around, and how is it spread? — and the answer runs from \"saturating the environment\" to \"barely there at all.\" The trap is that they measure different axes: some count *places*, some count *time*, some measure *depth of penetration*, and some measure a *shortfall against what was expected*. Two things can be equally frequent and take opposite adjectives here, depending on whether the writer cares about coverage, permanence, restraint, or adequacy. Several also smuggle in a verdict — approval, weariness, or outright complaint — that the neutral members don't.",
+  "words": [
+    {
+      "word": "ubiquitous",
+      "nuance": "Counts **places**: you find it wherever you look. **Ubiquitous** says nothing about how long it's been there or how deep it goes — a logo stamped on every surface qualifies. It's the one that turns weary when the thing is a fad and admiring when it's infrastructure."
+    },
+    {
+      "word": "omnipresent",
+      "nuance": "Counts **time and attention**, not locations: **omnipresent** means there the whole while, and often watching. Because it started as a property of God, plain factual use sounds inflated — everyday use is hyperbole aimed at a boss, an ad, or a song you can't shake."
+    },
+    {
+      "word": "pervasive",
+      "nuance": "Measures **depth into one thing**, not breadth across many. **Pervasive** requires a medium to soak into — a building, an institution, a mood — so it takes the intangibles the others can't: dread, bias, damp, smell. Its things go unnoticed precisely because they're evenly distributed."
+    },
+    {
+      "word": "rampant",
+      "nuance": "Not a measurement at all — a complaint about the **missing brake**. **Rampant** says it's unchecked and still growing, which is why it only takes objects someone wants stopped (inflation, corruption, weeds). The others can describe a stable saturation; this one describes an escape."
+    },
+    {
+      "word": "endemic",
+      "nuance": "The odd one: **endemic** is about **permanent residence in one specified place or group**, and in biology it means found there *and nowhere else* — narrow, not everywhere. Applied to institutions it says the problem is structural and native, not an outbreak that arrived and will pass."
+    },
+    {
+      "word": "sparse",
+      "nuance": "The neutral **spatial** measure on the thin side: present, just spread out with gaps. **Sparse** carries no reproach — a scientist calls data sparse the way she'd call it noisy, as a property, where the shortage words below imply someone fell short."
+    },
+    {
+      "word": "sporadic",
+      "nuance": "The **temporal** counterpart: irregular in time, not thin in space. **Sporadic** is about unpredictability rather than quantity — frequent-but-erratic still counts — and it attaches to things that ought to be steady, so it reads as faint disappointment (attendance, funding, effort)."
+    },
+    {
+      "word": "scant",
+      "nuance": "Not a distribution but a **shortfall against a standard**: there is some, just not enough to do the job. **Scant** sits attributively in front of the noun (*scant evidence, scant regard*) and indicts whoever supplied it — a report gives objections scant attention, and that's a criticism of the report."
+    },
+    {
+      "word": "dearth",
+      "nuance": "The only **noun** here, and it takes *of* + an abstract mass (*a dearth of talent, of imagination*). **Dearth** is formal and editorialising — it asserts there ought to be more — where *lack* would report the same fact flatly and *sparse* wouldn't judge at all."
+    }
+  ],
+  "exam_note": "The classic trap is **endemic**, which looks like a synonym for \"widespread\" but actually restricts to one place — and the sparse/sporadic pair, where the answer turns on whether the gaps are in space or in time."
+}

@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__more-than-is-needed",
-  "title": "More than is needed",
+  "title": "More Than Is Needed: Five Kinds of Too Much",
   "seed_words": [
     "surfeit",
     "exorbitant",
@@ -9,5 +9,29 @@
     "redundant",
     "gratuitous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five mark a quantity that has passed the line of what was required — and all five carry a complaint about it. What separates them is *which* line got crossed and *who* gets blamed. Some measure count (one item too many), some measure duplication (this item already exists), some measure magnitude (the number is too big), some measure warrant (nothing called for this at all), and one measures the effect on the person on the receiving end. Substituting one for another usually swaps the accusation for a different accusation entirely.",
+  "words": [
+    {
+      "word": "surfeit",
+      "nuance": "The only noun/verb here, and the only one that measures the *consumer* rather than the thing: it names a glut plus the cloyed, queasy state it induces. The others tell you an item shouldn't be there; **surfeit** tells you someone has been stuffed past the point of enjoyment."
+    },
+    {
+      "word": "exorbitant",
+      "nuance": "Excess of **magnitude**, not of count — one fee can be exorbitant, but one fee is never redundant. It attaches to numbers you pay or demand (rent, fare, salary, ransom), and it's an indignant verdict from the person on the hook, never a neutral measurement."
+    },
+    {
+      "word": "superfluous",
+      "nuance": "Pure arithmetic of count: this one item is one more than the job required, with no claim that it repeats anything or that anyone was greedy. The item may be excellent on its own. **Superfluous** is the fastidious editor's cut — mild disdain, no theory of motive."
+    },
+    {
+      "word": "redundant",
+      "nuance": "**Superfluous** with a diagnosis attached: it's extra *because it duplicates* something already present. The sting is carelessness — you didn't notice you'd said it twice. Uniquely, it flips positive in engineering (a backup engine is redundant on purpose) and means *laid off* in British usage."
+    },
+    {
+      "word": "gratuitous",
+      "nuance": "Excess of **justification**, not quantity — the first instance is already too much, because nothing warranted any. It indicts the doer's taste and motive: the cruelty was thrown in for pleasure. Watch for the second, non-pejorative sense in legal and formal prose: *free of charge, given without return*."
+    }
+  ],
+  "exam_note": "The trap is superfluous vs. redundant: pick **redundant** only when the passage points at duplication, otherwise **superfluous**; and expect at least one item where **gratuitous** means \"free of charge,\" not \"uncalled for.\""
 }

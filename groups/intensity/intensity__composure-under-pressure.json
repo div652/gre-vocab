@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__composure-under-pressure",
+  "title": "Composure under pressure",
+  "seed_words": [
+    "poise",
+    "aplomb",
+    "equanimity",
+    "imperturbable"
+  ],
+  "hallucinated": null,
+  "core": "All four describe not cracking when something would make most people crack — the steady hand, the level voice, the unrattled mind. What separates them is *where* the steadiness lives and how much the situation demanded. Some name what an observer sees in the body or the performance; others name the inner state, or the fixed temperament that produces it. Nearly all are compliments, and each presupposes a pressure worth withstanding — none can be earned on an easy day.",
+  "words": [
+    {
+      "word": "poise",
+      "nuance": "The visible, bodily baseline: **poise** is steady hands and an unhurried voice, which is why it's the only one here that also means literal physical balance and works as a verb (*poised to spring*). It carries a whiff of grace and training, so it's the word for the dancer, the diplomat, or the teenager who handles a hostile question better than expected."
+    },
+    {
+      "word": "aplomb",
+      "nuance": "**Aplomb** adds *style* to the steadiness — not merely unrattled but making the hard thing look easy. It attaches to a performance with an audience and a degree of difficulty (*fielded the heckler with aplomb*); you cannot have aplomb doing something simple, or while visibly straining."
+    },
+    {
+      "word": "equanimity",
+      "nuance": "The one that lives in the mind rather than the manner: **equanimity** is evenness of feeling when a blow actually lands — the verdict, the diagnosis, the humiliation. There's nothing to pull off and no flair involved; it's absorbing something bad without wobbling, and it implies the person felt it and stayed level anyway."
+    },
+    {
+      "word": "imperturbable",
+      "nuance": "The only adjective, and the only one describing a permanent setting rather than a single occasion — **imperturbable** says nothing *ever* flusters this person, not that they handled today well. It's the surgeon, the negotiator, the butler; push it far enough and it turns faintly cold, hinting that nothing registers at all."
+    }
+  ],
+  "exam_note": "The GRE exploits the manner/mind split — a sentence about pulling something off with flair wants aplomb, not equanimity; a sentence about a person's settled character wants the adjective, not a one-occasion noun."
+}

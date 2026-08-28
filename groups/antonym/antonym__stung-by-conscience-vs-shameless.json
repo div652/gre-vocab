@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__stung-by-conscience-vs-shameless",
+  "title": "Stung by Conscience vs. Shameless",
+  "seed_words": [
+    "contrite",
+    "qualm",
+    "chagrin",
+    "scrupulous",
+    "brazen",
+    "effrontery",
+    "flagrant",
+    "reprobate",
+    "impudent"
+  ],
+  "hallucinated": null,
+  "core": "These words all measure one thing: whether a person's conscience registers a hit. On one side sits the flinch — before the act, after it, or as a standing habit of mind. On the other sits its conspicuous absence, where the wrong is done in full view and the offender declines to blush. What separates them within each camp is timing (before vs. after the deed), target (the act, the manner, or the person), and who is speaking — several of these are verdicts delivered from outside, loaded with the speaker's indignation.",
+  "exam_note": "The trap is assuming every word here concerns guilt: **chagrin** is wounded pride, **impudent** is breached rank, and **scrupulous** is a character trait rather than an episode of feeling.",
+  "words": [
+    {
+      "word": "contrite",
+      "nuance": "The only word here for conscience *after* the fact and fully arrived — fault admitted, defences down. Where a qualm is a flicker you can override, **contrite** is the collapse that follows having overridden it."
+    },
+    {
+      "word": "qualm",
+      "nuance": "Strictly pre-emptive and strictly small: the hesitation you feel with your hand on the door. Its natural habitat is the negative — **\"no qualms about\"** — which makes it the standard way to report that someone's conscience produced nothing at all."
+    },
+    {
+      "word": "chagrin",
+      "nuance": "The odd one out: nothing moral is at stake. **Chagrin** is what you feel when your *dignity* is damaged — outdone, proved wrong, caught being second-best — and it is swallowed rather than confessed."
+    },
+    {
+      "word": "scrupulous",
+      "nuance": "Not a feeling but a disposition, and the only positively-valued word in the set. A qualm is one twinge; **scrupulous** is the person whose conscience is always switched on, so the wrong never gets done in the first place."
+    },
+    {
+      "word": "brazen",
+      "nuance": "Describes the *manner*, not the person or the act: doing it openly, on purpose, where the openness is the insult. Uniquely it also works as a verb — to **brazen it out** is to manufacture the shamelessness you don't feel."
+    },
+    {
+      "word": "effrontery",
+      "nuance": "The noun for the nerve itself, and it exists mainly to convey the speaker's outrage — \"had the **effrontery** to.\" Where brazen describes how something was done, effrontery is the indignant charge filed against it."
+    },
+    {
+      "word": "flagrant",
+      "nuance": "Condemns the offence, not the offender's psychology, and attaches to institutional nouns: **flagrant** *violation, breach, abuse, disregard*. It is the one word here you would meet in a legal judgment rather than a character sketch."
+    },
+    {
+      "word": "reprobate",
+      "nuance": "The only word that labels the whole person, permanently — not a shameless act but a life past reforming. And it is the only one that can come with warmth: an *old* **reprobate** is a fond verdict on someone nobody expects to improve."
+    },
+    {
+      "word": "impudent",
+      "nuance": "The offence is presumption against *rank*, not harm — talking to a superior as if the hierarchy weren't there, with a grin rather than contempt. It is also the smallest-stakes word here, and it is spoken downwards, which dates whoever uses it."
+    }
+  ]
+}

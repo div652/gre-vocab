@@ -9,5 +9,29 @@
     "avert",
     "deter"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five stop something before it arrives — the action comes first, the unwanted event never lands. What separates them is the *mechanism*: acting early, cancelling the need, making it structurally impossible, deflecting it at the last second, or scaring off the person who would have caused it. They also differ in what sits in the object slot: an event, a requirement, a possibility, a disaster, or a human being.",
+  "exam_note": "The trap is that all five fit a blank meaning \"prevent\" — decide instead by the object: a *need* takes obviate, a *possibility* takes preclude, a *disaster* takes avert, a *person* takes deter, a *rival's move* takes forestall.",
+  "words": [
+    {
+      "word": "forestall",
+      "nuance": "**Forestall** is about *timing* — you saw it coming and got there first. Alone in this group it implies a race against another party's plan: you forestall a rival's bid, an objection, a takeover. The thing was fully capable of happening; you were simply earlier."
+    },
+    {
+      "word": "obviate",
+      "nuance": "**Obviate** doesn't block the event, it deletes the *requirement*. Its object is abstract and almost always a need — the need for surgery, for a second trip, for further debate. A backup that obviates the need for a rebuild is not fighting anything; the problem just stops being a problem."
+    },
+    {
+      "word": "preclude",
+      "nuance": "**Preclude** is impersonal and structural: a clause, a fact, or a condition rules the thing out, and no one had to decide anything. Where **forestall** implies an agent who acted in time, **preclude** implies a state of affairs under which the option never existed. Watch for *preclude the possibility of*."
+    },
+    {
+      "word": "avert",
+      "nuance": "**Avert** is the last-second deflection — the harm was already in motion and close. It takes only bad, looming things (disaster, collision, strike, crisis), never a need or a possibility, and it credits a save rather than foresight. The other four act before the danger materialized; **avert** acts while it bears down."
+    },
+    {
+      "word": "deter",
+      "nuance": "**Deter** works through a *mind*: its object is a person or a class of actors, and the lever is fear of cost — a fine, a fence, a warhead. The would-be act stays perfectly possible, unlike with **preclude**; the actor just decides it isn't worth it. Standard in security, policing, and defence."
+    }
+  ]
 }

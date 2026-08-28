@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__criticism-that-burns",
-  "title": "Criticism that burns",
+  "title": "Criticism That Burns: Corrosive, Clever, Wounding, Bracing",
   "seed_words": [
     "caustic",
     "mordant",
     "scathing",
     "astringent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe criticism sharp enough to hurt, and all four are borrowed from chemistry or the tongue — substances that burn, bite, or pucker. Because the physical metaphors overlap, the words look interchangeable in a sentence about a brutal review. They separate on three questions: whose bitterness is it, is wit required, and does the sentence admire the critic or condemn him.",
+  "words": [
+    {
+      "word": "caustic",
+      "nuance": "The bitterness belongs to the **speaker**, not just the line — it attaches to people as readily as to remarks (a caustic ex, a caustic wit). No cleverness required and no accuracy required; it only has to corrode. Of the four, it is the one that most reliably makes the person saying it look damaged."
+    },
+    {
+      "word": "mordant",
+      "nuance": "The only one that requires intelligence. **Mordant** criticism is dry, dark, usually funny, and lands because it is true — you cannot be mordant by shouting or by sheer nastiness. It half-compliments the speaker while flaying the target, which is why satirists and obituarists earn it and bullies never do."
+    },
+    {
+      "word": "scathing",
+      "nuance": "Measures **damage done**, not temperature or wit. It attaches to the attack rather than the attacker — a scathing review, report, rebuke — and it implies the blow actually landed; criticism the target shrugged off is not scathing. Says nothing about whether the critic was clever, only that he was severe and contemptuous."
+    },
+    {
+      "word": "astringent",
+      "nuance": "The one that isn't hot. **Astringent** severity is dry and tightening rather than burning — bracing, medicinal, unsparing without malice, the sting that is supposedly doing you good. Applied to a writer's prose or a critic's judgment it is frequently praise, which none of the others can be."
+    }
+  ],
+  "exam_note": "The trap is defaulting to caustic or scathing when the sentence quietly admires the critic — praise for wit points to mordant, praise for bracing dryness to astringent."
 }

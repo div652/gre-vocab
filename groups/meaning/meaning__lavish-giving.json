@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__lavish-giving",
-  "title": "Lavish giving",
+  "title": "Lavish giving: munificence, largesse, and doing good",
   "seed_words": [
     "munificent",
     "largesse",
@@ -9,5 +9,29 @@
     "benevolent",
     "lavish"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five hover around giving on a generous scale, usually from someone who has to someone who hasn't. But they split on three separate axes: whether the word measures the **size of the gift** or the **goodness of the giver**; whether it reports an **action already taken** or merely a **kindly disposition**; and whether it stays admiring or curdles into sarcasm about the person receiving. Most are formal, most carry a faint drop in altitude from giver to recipient, and one of them is a noun — which is how the exam separates people who half-know them.",
+  "exam_note": "The classic trap is **beneficent** (deed done) vs **benevolent** (intent only) — and, one step out, *beneficial*, which describes helpful things, not helpful people. Watch part of speech too: **largesse** is the only noun in the set, so a blank taking an adjective rules it out on sight.",
+  "words": [
+    {
+      "word": "munificent",
+      "nuance": "The only one that is straightforwardly *praise for the size of the cheque*. It requires real wealth and a public gift — a named endowment, not a kind act — and says nothing about whether the money did any good; a **munificent** gift can be vain or useless and still earn the word."
+    },
+    {
+      "word": "largesse",
+      "nuance": "The noun of the group: it names the handout itself, not a quality of the giver. Uniquely, it encodes the drop from giver to dependent so plainly that it usually mocks the *recipient* — \"living on his father's **largesse**\" — the sneer none of the adjectives here carry by default."
+    },
+    {
+      "word": "lavish",
+      "nuance": "The only neutral, everyday word, and the only one that works as a verb (*to* **lavish** *praise on*). It measures sheer volume poured out and attaches happily to things that are not gifts at all — attention, detail, a budget — so it can indict as easily as flatter, with no implication that the giver is admirable or high-born."
+    },
+    {
+      "word": "beneficent",
+      "nuance": "The doing-good word, not the giving-money word: the benefit has already been conferred. A **beneficent** act can involve no cash whatever — a reform, a pardon, a policy — where *munificent* is unusable without money on the table."
+    },
+    {
+      "word": "benevolent",
+      "nuance": "Pure disposition: the one word here that survives a giver who has never actually given anything. A **benevolent** patron wishes you well; a beneficent one has already paid. That gap is exactly what makes *benevolent dictator* and *benevolent employer* sound so quietly sardonic."
+    }
+  ]
 }

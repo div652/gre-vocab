@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__fixed-and-unalterable",
-  "title": "Fixed and unalterable",
+  "title": "Fixed and unalterable — but against what?",
   "seed_words": [
     "immutable",
     "ironclad",
     "inalienable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three say a thing holds no matter what pressure is applied to it: it will not bend, break, or go away. The confusion is that each resists a *different* kind of pressure — the passage of time and circumstance, a deliberate attempt to find a gap, or an attempt to remove or hand over. They also live in different worlds: one belongs to nature and physical law, one to courtrooms and contracts, one to constitutions and declarations. Pick the wrong one and you claim the wrong kind of permanence.",
+  "words": [
+    {
+      "word": "immutable",
+      "nuance": "Resists **change itself** — the thing has one nature and cannot take another, by anyone's hand. It's a metaphysical claim, not a legal one: laws of physics, the past, death. Note that nobody attacks an immutable thing; it simply isn't the kind of thing that varies. This is why it turns ironic so easily — call something immutable and reality can prove you wrong."
+    },
+    {
+      "word": "ironclad",
+      "nuance": "Resists **attack** — it presupposes an adversary hunting for the gap and failing to find one. That's why it attaches to alibis, contracts, guarantees, cases: things built by people to survive scrutiny. Unlike the others it's an assessment of workmanship, so it can be tested and can fail; and the only informal-register word here, at home in a newsroom or a boardroom."
+    },
+    {
+      "word": "inalienable",
+      "nuance": "Resists **transfer** — including by the holder. The unique force is that *you* cannot surrender it: no contract, sale, or waiver can move it off you, which is a limit on your own power, not just on others'. It attaches almost exclusively to rights, liberty, dignity — never to facts, alibis, or physical laws."
+    }
+  ],
+  "exam_note": "Watch what the sentence says is being resisted: revision over time → immutable; scrutiny or loophole-hunting → ironclad; being taken, waived, or sold → inalienable. If the object is a right, inalienable is nearly always the intended answer; if the object is a fact or law of nature, ironclad is the trap."
 }

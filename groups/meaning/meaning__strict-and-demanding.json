@@ -9,5 +9,29 @@
     "onerous",
     "draconian"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five words describe demands that press hard on someone — bars set high, obligations that weigh, penalties that bite. They cluster because English uses \"strict\" and \"severe\" loosely for all of them, while each actually names a different part of the machinery: how tight the standard is, how much skill it costs to meet it, how unbending the method must be, how heavy the duty sits, and whether the penalty fits the crime. Three of them (the first three) can be praise in the right context; the last two never are. Getting them right means asking what the severity is *made of*, not how unpleasant it feels.",
+  "exam_note": "The trap is treating them as one intensity scale: sentences reward the word that matches what the severity attaches to — a *standard* is stringent, a *task or boss* is exacting, a *method* has rigor, a *duty* is onerous, a *penalty* is draconian — and a positive-context blank (\"praised for its ___\") rules out onerous and draconian outright.",
+  "words": [
+    {
+      "word": "stringent",
+      "nuance": "**Stringent** measures the *narrowness of the gap you must fit through* — the specification, threshold or condition, before anyone has tried to meet it. It says nothing about how much work meeting it takes or what happens if you fail; tighten a limit from 10ppm to 1ppm and it became more stringent without becoming more painful or more unjust."
+    },
+    {
+      "word": "exacting",
+      "nuance": "**Exacting** is the only one that measures the *cost to the person performing* — care, skill, stamina drawn out of you. It also uniquely applies to a human demander (an exacting supervisor), where stringent cannot; and it credits that demander with legitimacy, so it exhausts you without insulting them."
+    },
+    {
+      "word": "rigor",
+      "nuance": "**Rigor** is the noun, and it names *unbendingness of procedure* — no step skipped, no gap papered over, whether in a proof or in a regime's enforcement. It is the group's swing word: praise for a method, condemnation for a person, and in the plural (*the rigors of*) simply hardship endured, with no rule-maker in the picture at all."
+    },
+    {
+      "word": "onerous",
+      "nuance": "**Onerous** measures *weight of obligation*, and is indifferent to difficulty or skill — the task can be trivially easy and still onerous if you are bound to do it repeatedly and cannot set it down. Where exacting flatters the demand as necessary, onerous mutters that the load is more than your share."
+    },
+    {
+      "word": "draconian",
+      "nuance": "**Draconian** is the only one that judges a *ratio*: the response versus the offence. It requires a punishment to be in view — a rule with no penalty attached cannot be draconian, however tight — and it is a public accusation aimed at whoever wrote the policy, which is why it appears in headlines and never in self-description."
+    }
+  ]
 }

@@ -1,0 +1,42 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__ordinary-verbs-that-mean-to-restrain",
+  "title": "Ordinary words that mean \"to restrain\"",
+  "seed_words": [
+    "check",
+    "curb",
+    "bridle",
+    "temper",
+    "hamper",
+    "inhibit"
+  ],
+  "hallucinated": null,
+  "core": "Every word here holds something back without destroying it — the force is still there, still moving, just slowed, capped, steered, or weighed down. That shared meaning is easy; the distinctions live elsewhere. Ask who is applying the restraint (an agent choosing to, or circumstance imposing it), whether it's wanted or resented, and whether the thing restrained is a moving body, a rising quantity, a hot impulse, or an effort in progress. Most of these also hide their GRE sense behind a common everyday one.",
+  "words": [
+    {
+      "word": "check",
+      "nuance": "**Check** is the arrest of forward motion at a moment — an advance checked at the river, anger checked before it lands. Alone in this group it works as a countable noun for the restraining thing itself (*a check on executive power*), which is why it dominates constitutional and political prose."
+    },
+    {
+      "word": "curb",
+      "nuance": "**Curb** applies to a quantity or rate you want lower but not zero — inflation, emissions, spending, drinking. It's a dial being turned down over time rather than a body being stopped, and it's the house verb of policy writing: an authority acting deliberately on something with its own upward momentum."
+    },
+    {
+      "word": "bridle",
+      "nuance": "**Bridle** implies steering something powerful you own or command — your tongue, his ambition — so it moralizes in a way the others don't, carrying self-discipline and formal register. It's also the only word here with a second intransitive life: *bridle at* an insult, offence taken for one's dignity and visible in the body."
+    },
+    {
+      "word": "temper",
+      "nuance": "**Temper** doesn't push against the thing — it adds the opposite ingredient until the result sits in proportion (justice with mercy, zeal with caution). Uniquely in this group the outcome is an improvement, not a diminishment, and the objects are always something running hot."
+    },
+    {
+      "word": "hamper",
+      "nuance": "**Hamper** is the only one where nobody chose the restraint: circumstance imposes it, it's unwanted, and it drags rather than caps. Watch the passive collocation — efforts are *hampered by* rain, budget cuts, missing data — and note the object is an activity in progress, not an impulse or a quantity."
+    },
+    {
+      "word": "inhibit",
+      "nuance": "**Inhibit** locates the brake inside the system — a psychological block or a chemical/biological damping, not a hand applied from outside. Cold inhibits growth; the inhibited speaker isn't forbidden, they simply can't get it out, which is why *inhibitions* means shyness rather than rules."
+    }
+  ],
+  "exam_note": "Two traps at once: the everyday noun senses (a tick mark, a pavement edge, a picnic basket, losing your temper) are decoys, and once you're in the right sense the answer hinges on whether the restraint is deliberate and desired (check/curb/bridle), improving by admixture (temper), or an unwelcome drag (hamper/inhibit)."
+}

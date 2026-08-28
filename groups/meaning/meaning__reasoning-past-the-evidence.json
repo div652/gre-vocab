@@ -8,5 +8,25 @@
     "extrapolate",
     "tentative"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these mark the gap between what you can actually show and what you're willing to say. Each one signals — to the reader, the audience, or yourself — that a claim is running ahead of its support and should be held loosely. The confusion comes from the fact that they flag that gap at different points: the act of leaping, the method of the leap, the evidentiary status of the result, and how tightly you're gripping the conclusion afterward.",
+  "words": [
+    {
+      "word": "conjectural",
+      "nuance": "A **verdict on a claim's evidentiary status**, usually delivered by someone else: it says *this rests on inference, not documentation*. It grades the finished product, not the thinking that produced it, and it makes no comment on whether the claim is confidently held or likely to change — a conjectural reconstruction can be asserted flatly and defended for decades."
+    },
+    {
+      "word": "speculate",
+      "nuance": "The **act**, and the only one you announce about yourself as a disclaimer — \"I won't speculate\" is a refusal to be quoted. It needs no data to depart from: you can speculate about a motive, a successor, a cause, from nothing but circumstance. It also uniquely carries the money sense — a speculator bets on price where an investor analyses a business."
+    },
+    {
+      "word": "extrapolate",
+      "nuance": "The only one that **requires a trend to push**: there must be existing data and a direction to extend it in. That's why accusing someone of extrapolating concedes they had evidence — just too little of it (\"from a sample of one\"). Neutral bookkeeping in technical prose, a quiet accusation in argument."
+    },
+    {
+      "word": "tentative",
+      "nuance": "Describes not the evidence but **the grip** — how firmly the thing is being held. A well-supported conclusion can still be tentative because it awaits sign-off or replication, and a date can be tentative with no reasoning involved at all. Alone in the group it also covers physical manner: a tentative knock, a tentative step, where the word reports timidity rather than uncertainty about facts."
+    }
+  ],
+  "exam_note": "The classic trap swaps evidentiary status for commitment status — a \"tentative conclusion\" may be fully evidenced and merely unratified, while a \"conjectural\" one is unsupported no matter how firmly stated; likewise, extrapolate demands an existing trend where speculate demands nothing."
 }

@@ -8,5 +8,21 @@
     "limpid"
   ],
   "similarity": 0.63,
-  "auto": true
+  "auto": true,
+  "core": "These three collide on the page, not in meaning. Two of them are genuine relatives from Latin *languēre*, \"to be faint,\" and share the idea of strength draining away into slow, drooping weakness. The third only *looks* like it belongs — it comes from *limpidus*, \"clear,\" and describes transparency, not fatigue. All three are soft-sounding literary words, which is exactly why a hurried reader lets the wrong one slide past unchallenged.",
+  "words": [
+    {
+      "word": "languid",
+      "nuance": "The **adjective**, and the only member that can flatter: it describes a manner or a mood — a languid gesture, a languid afternoon — where slowness reads as stylish rather than sick. It states a condition, not a process; nothing is getting worse."
+    },
+    {
+      "word": "languish",
+      "nuance": "The **verb**, and the one with duration built in: something fades over years while stuck somewhere it shouldn't be — a bill in committee, a player at the bottom of the table. It implies neglect and a party who failed to intervene, which **languid** never does."
+    },
+    {
+      "word": "limpid",
+      "nuance": "The false friend — nothing to do with weakness, despite the *limp* buried in it. It praises clarity of surface: water, air, prose you can see straight through. Where the other two say *drained*, this one says *clean*, and it is always a compliment."
+    }
+  ],
+  "exam_note": "The trap is grammatical before it is semantic: a blank taking a verb can only be **languish**, and a sentence praising clear writing wants **limpid** — but the answer choices will sit adjacent so the eye supplies the wrong one."
 }

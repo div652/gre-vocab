@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__inflated-empty-language",
-  "title": "Inflated empty language",
+  "title": "Inflated, empty language",
   "seed_words": [
     "bombastic",
     "turgid",
     "pomposity",
     "pretentious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four accuse a gap between the show and the substance: the manner is inflated beyond anything it is carrying. Each is an insult, none is ever self-applied, and each is a verdict on style rather than on facts — the speaker isn't lying, he's swollen. What separates them is *what* is inflated (a voice, a page, a whole personality, a claim to taste) and *how the accusation lands on the audience* (deafened, bored, amused, or unconvinced).",
+  "words": [
+    {
+      "word": "bombastic",
+      "nuance": "The **loud** one — thunder, delivery, an audience being declaimed at. **Bombastic** needs a performance to happen in (a stump speech, a sermon, a press conference); you catch it in real time as the volume outruns the sense. It is the only one here that can still be entertaining."
+    },
+    {
+      "word": "turgid",
+      "nuance": "The **heavy** one, and the only member with a live literal sense — a swollen river, distended tissue — which the GRE will use straight. Figuratively it judges the reader's suffering, not the writer's noise: **turgid** prose is something you wade through and sink in. Where bombastic keeps you awake, this bores you."
+    },
+    {
+      "word": "pomposity",
+      "nuance": "The only **noun**, and the only one that indicts a whole person rather than a text or a speech. **Pomposity** is inflated *self-importance* worn as ceremony — the orotund voice, the weighty pause before the obvious — so it can be diagnosed from someone's bearing at dinner, with no prose in evidence at all. Comic, punctureable, never frightening."
+    },
+    {
+      "word": "pretentious",
+      "nuance": "The only one about **reaching upward** — a bid for cultural credit you haven't earned, which means it requires a status gap. **Pretentious** attaches to taste and objects as readily as to words: a film, a menu, an unread shelf. A grandee can be pompous or bombastic; only the aspirant below him is pretentious."
+    }
+  ],
+  "exam_note": "The classic trap is **turgid** in its literal sense (a swollen river, engorged tissue) after you've filed it under \"bad writing\" — and pairing **pretentious** with prose when the sentence's real target is a person's taste or a restaurant's menu."
 }

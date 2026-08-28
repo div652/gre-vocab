@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__detailed-to-impossibly-tangled",
+  "title": "Elaborate → Convoluted → Tortuous → Byzantine: detailed to impossibly tangled",
+  "seed_words": [
+    "elaborate",
+    "convoluted",
+    "tortuous",
+    "byzantine"
+  ],
+  "hallucinated": null,
+  "core": "All four describe something built out of many interlocking parts — an argument, a plot, a procedure, a piece of prose — that takes work to follow. What separates them is where the blame lands: on the effort someone invested, on needless knots, on a wandering route, or on a whole system rigged to be impenetrable. Each also carries a different dose of suspicion that the intricacy is deliberate cover.",
+  "words": [
+    {
+      "word": "elaborate",
+      "nuance": "The only one here that can be a compliment — it measures effort put in, not difficulty getting through. It attaches to *made* things (a costume, a ruse, a ceremony) and admires the craftsmanship until the effort looks disproportionate to the goal. Also the group's only verb: *elaborate on a point* means simply add detail."
+    },
+    {
+      "word": "convoluted",
+      "nuance": "The knot itself is the charge: folded back on itself so many times the thread is lost. Unlike **elaborate**, the complaint is that none of the folding had to be there — it blames the maker for gratuitous tangle, not for ambition. Keeps a live anatomical sense (the kidney's *convoluted* tubules) that the others lack."
+    },
+    {
+      "word": "tortuous",
+      "nuance": "Faults the *route*, not the knot — it does arrive, just by way of everywhere else, so a tortuous argument is serpentine where a convoluted one is snarled. The only word here with a working literal sense for roads and rivers, and the most formal register. Not *torturous*: no pain, just bends."
+    },
+    {
+      "word": "byzantine",
+      "nuance": "Needs an institution to attach to — a tax code, a bureaucracy, a court intrigue — never a single sentence or a coastline. Adds a charge the others don't: the intricacy protects insiders, who navigate the maze precisely because outsiders can't. Always hostile, never admiring."
+    }
+  ],
+  "exam_note": "Sentence completions hinge on whether the blank praises or condemns — **elaborate** survives an admiring context, the other three don't; **byzantine** demands a system as its noun, and *tortuous* is a common trap for *torturous*."
+}

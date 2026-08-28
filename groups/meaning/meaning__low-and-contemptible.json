@@ -7,5 +7,21 @@
     "sordid",
     "abject"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three place something at the bottom — beneath dignity, beneath what a decent person or a tolerable life should be. Each carries the speaker's contempt, and each is formal enough to sound like a verdict rather than an insult. They split on *what* has sunk: the motive behind an act, the tawdry texture of the whole business, or the condition a person has been reduced to.",
+  "words": [
+    {
+      "word": "base",
+      "nuance": "**Base** convicts the *motive*, not the act or the mess: greed, spite, cowardice, selling someone out for money. It measures a person against a code of honour and finds them below it — the only one of the three that is purely a character verdict, and the only one that sounds like a nineteenth-century narrator delivering it."
+    },
+    {
+      "word": "sordid",
+      "nuance": "**Sordid** is the cheap and grubby one — small-scale, self-serving, embarrassing rather than terrifying, and always faintly exposed to daylight (*the sordid details*). It alone retains a literal sense of physical squalor, and it judges the whole shabby business, where **base** judges the person's inner motive."
+    },
+    {
+      "word": "abject",
+      "nuance": "**Abject** describes a *condition*, not a wrong: poverty, misery, failure so total that dignity is gone. Its subject is usually the victim rather than the villain — and where it does describe behaviour (*an abject apology*), the fault is grovelling self-abasement, not the ignoble greed of **base** or the tawdriness of **sordid**."
+    }
+  ],
+  "exam_note": "The trap is treating **abject** as a moral-blame word like the other two — *abject poverty* accuses nobody, while *base* and *sordid* always assign fault."
 }

@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__self-denial-vs-self-indulgence",
+  "title": "Self-denial vs. self-indulgence",
+  "seed_words": [
+    "ascetic",
+    "austere",
+    "spartan",
+    "abstain",
+    "forgo",
+    "eschew",
+    "sober",
+    "decadent",
+    "libertine",
+    "self-indulgent",
+    "surfeit"
+  ],
+  "hallucinated": null,
+  "core": "Every word here sits on one axis: how much pleasure, comfort or excess a person allows themselves. One half names restraint — chosen going-without, or the bare conditions that result from it. The other half names the collapse of restraint — appetite given free rein, and the decline or nausea that follows. The traps live inside each half, not across it: the restraint words split into *lives lived that way*, *things that look that way*, and *acts of declining*; the excess words split into a moral verdict, a character type, and a sheer quantity.",
+  "words": [
+    {
+      "word": "ascetic",
+      "nuance": "The only word here naming a whole **program of renunciation** — a doctrine, usually religious or moral, the person has signed up to. **Austere** and **spartan** describe conditions; **ascetic** describes a creed the person would explain to you if asked."
+    },
+    {
+      "word": "austere",
+      "nuance": "The outsider's description, and the only one that also means **stern in manner** — an austere man is unsmiling, not merely under-furnished. It needs no motive: a budget is austere because the money ran out, whereas an **ascetic** life is bare on purpose."
+    },
+    {
+      "word": "spartan",
+      "nuance": "Confined to **physical conditions** — bunks, rations, bare rooms — with a military tang of hardiness. It never describes a face or a temperament the way **austere** does, and implies toughness rather than **ascetic**'s holiness."
+    },
+    {
+      "word": "abstain",
+      "nuance": "Takes a **recurring appetite** — drink, meat, sex — and makes a standing rule about it, for a stretch of time. It alone has an institutional sense: to be present and formally decline to vote either way."
+    },
+    {
+      "word": "forgo",
+      "nuance": "The most transactional and least moral: you pass on **one specific good you were entitled to** — the dessert, the bonus, the second drink. No principle is implied and no policy announced; you weighed it and passed."
+    },
+    {
+      "word": "eschew",
+      "nuance": "Foregrounds the **reason** — your principle or taste forbids the thing, and the word advertises that. It takes abstract or category objects (violence, jargon, luxury), where **forgo** takes the concrete perk that was on the table."
+    },
+    {
+      "word": "sober",
+      "nuance": "The one restraint word about the **mind, not the conditions** — judgment unclouded by drink, hype, hope or panic. It is reliably approving in a way none of the others are, and nothing has to be given up to earn it: a sober estimate is simply one you can trust."
+    },
+    {
+      "word": "decadent",
+      "nuance": "A **historical or cultural verdict**: the indulgence is evidence that an empire, an art form or a class is past its peak. **Self-indulgent** accuses one person of weakness; **decadent** says the rot is systemic."
+    },
+    {
+      "word": "libertine",
+      "nuance": "Names a **person and a type**, specifically sexual and alcoholic unrestraint, dressed in wit and money. Where **decadent** diagnoses decline, libertine half-admires the man doing the declining — he has a philosophy of pleasure and will defend it over wine."
+    },
+    {
+      "word": "self-indulgent",
+      "nuance": "The mildest charge: **undisciplined, not wicked**, and pointed inward (an *indulgent* parent is soft on someone else). Its sharpest exam use is aesthetic — a self-indulgent film or solo is unedited, made to please its maker rather than you."
+    },
+    {
+      "word": "surfeit",
+      "nuance": "Not a trait at all but a **quantity**, plus the queasiness it causes — you can suffer a surfeit without ever choosing one. A surfeit of information isn't decadence; it is simply more than can be digested, past the point where more stops being good."
+    }
+  ],
+  "exam_note": "The exam rarely tests restraint against excess; it tests *within* each half — **austere** vs. **ascetic** (conditions vs. creed), **forgo** vs. **eschew** (one perk vs. a principled category), **decadent** vs. **self-indulgent** (civilizational decline vs. one person's weakness) — and it always means **sober** in sense 2 and **decadent** in the harsh older sense, never the chocolate-advert one."
+}

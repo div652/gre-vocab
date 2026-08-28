@@ -9,5 +9,29 @@
     "infelicity",
     "inept"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five cover a failure of grace — someone or something lands badly in front of others, and there's a wince. But they split on *what* failed and *what form the word takes*: two are verdicts on a person (their breeding, their body), one is a verdict on their skill, and two are nouns naming the botched moment itself rather than the botcher. The tone ranges from half-fond to faintly contemptuous, and picking the wrong one misstates who is being judged and how harshly.",
+  "words": [
+    {
+      "word": "gauche",
+      "nuance": "The only one that indicts your **upbringing**. **Gauche** says the blunder came from never having learned the rules — and the speaker, by using it, claims to know them. It judges taste, not ability or coordination, and it's a standing condition rather than a single slip."
+    },
+    {
+      "word": "gawky",
+      "nuance": "The only one about the **body**. **Gawky** is limbs and coordination — too tall, not yet in control — and implies nothing about tact, skill, or class. It's also the mildest and the most affectionate, because it assumes you'll outgrow it."
+    },
+    {
+      "word": "gaffe",
+      "nuance": "A **countable public event**, and almost always **spoken**. A **gaffe** happens at a podium or on a hot mic; it's the tactless or inconveniently true thing that escaped, reported with relish. Nobody *is* gaffe — you commit one, and it's over by next week."
+    },
+    {
+      "word": "infelicity",
+      "nuance": "The **euphemism**, and the one about **wording on the page**. An **infelicity** is a phrase that lands wrong in a manuscript, not a person who lands wrong in a room — and choosing it concedes the writer meant well. It's the only word here that is a courtesy."
+    },
+    {
+      "word": "inept",
+      "nuance": "The only one about **competence at a task**. **Inept** says you did the thing badly — the negotiation, the repair, the handshake — not that you offended anyone's sense of decorum. It carries the speaker's contempt, but for your ability, not your breeding."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable \"awkward\": watch whether the sentence needs a noun for the blunder (gaffe, infelicity) or an adjective for the person, and whether the failure is of skill (inept), breeding (gauche), or coordination (gawky)."
 }

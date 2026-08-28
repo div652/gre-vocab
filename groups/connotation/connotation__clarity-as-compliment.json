@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__clarity-as-compliment",
+  "title": "Clarity as compliment",
+  "seed_words": [
+    "lucid",
+    "limpid",
+    "pellucid",
+    "cogent",
+    "coherent",
+    "trenchant"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is praise for something being clear — and on the GRE, praise-for-clarity words cluster densely enough that the answer choices often differ only in what is being complimented. Three of them describe transparency (what passes through untouched), two describe reasoning (whether the parts hold or the conclusion binds), and one describes an edge (clarity that penetrates). They also split by register: some are ordinary evaluation, some belong to book reviews and obituaries, some to judges and peer reviewers. Getting the group right means asking not \"is it clear?\" but \"clear in what respect, and who is saying so?\"",
+  "words": [
+    {
+      "word": "lucid",
+      "nuance": "Praises the *transmission*: hard material arriving easy, so the credit goes to the explainer's mind. Uniquely in this group it also has a clinical sense — a *lucid* patient, a *lucid interval* — where the compliment is tinged with what surrounds it."
+    },
+    {
+      "word": "limpid",
+      "nuance": "Praises *stillness*. It borrows from untroubled water, so it implies calm and beauty, not effort or force — churning whitewater is clear but never limpid, and neither is prose that dazzles. The most decorative word here; it belongs to reviews and elegies, not to argument."
+    },
+    {
+      "word": "pellucid",
+      "nuance": "Same transparency as **limpid**, but the metaphor is *light*, not calm — luminous, admitting no murk. It survives applied to a mind or an explanation where **limpid** would sound merely pretty, but it stays lyrical: you'd say it of a mountain stream or a great teacher, not a windowpane."
+    },
+    {
+      "word": "cogent",
+      "nuance": "The only word here that requires a *conclusion*. It doesn't measure whether you followed the argument but whether the argument binds you — tight, evidenced, hard to answer. Cool, formal, adjudicating praise; its negation (\"no cogent explanation\") is an accusation of emptiness, not obscurity."
+    },
+    {
+      "word": "coherent",
+      "nuance": "The floor of this group, not the ceiling — it certifies only that the parts fit, saying nothing about truth or force, so a conspiracy theory qualifies. Alone here it can shade into insult by degree: \"barely coherent\" means concussed or drunk, and \"a coherent essay\" is damning."
+    },
+    {
+      "word": "trenchant",
+      "nuance": "Clarity with a *target*. It needs something to cut into — a book, a policy, an opponent — and praises the incisiveness of the mind that found the essential point, not the wound. Unlike the transparency words, it can't describe water, prose in general, or a compliment; a trenchant critique sounds inevitable, a trenchant tribute sounds wrong."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable clarity words: a sentence whose blank demands compelling force wants **cogent**, one demanding mere internal consistency wants **coherent**, one demanding sharp critique wants **trenchant** — and if two of **limpid/pellucid/lucid** appear together in Sentence Equivalence, they are usually the intended pair."
+}

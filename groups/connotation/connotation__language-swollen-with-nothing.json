@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__language-swollen-with-nothing",
+  "title": "Language swollen with nothing",
+  "seed_words": [
+    "bombastic",
+    "turgid",
+    "florid",
+    "pomposity",
+    "prolix"
+  ],
+  "hallucinated": null,
+  "core": "All of these attack the packaging rather than the goods: language that has been inflated, decorated, or stretched past what the thought inside it can support. Every one is an insult, and every one is aimed at style — the argument may be fine, or absent; that isn't the charge. What separates them is *which* kind of excess is being named: sheer volume, sheer length, ornament, dead weight, or the self-importance of the person producing it.",
+  "exam_note": "Each word owns a different axis of excess — length, loudness, ornament, weight — so the sentence's own clue (\"though his reasoning was sound\", \"four pages to say no\", \"flushed from the wine\") decides which fits; and remember turgid and florid also have literal physical senses that surface in non-style sentences.",
+  "words": [
+    {
+      "word": "bombastic",
+      "nuance": "**Bombastic** is the loud one — a podium word, aimed at a speaker performing. The insult is that you can *hear* the gap between the thunder of the delivery and the smallness of the thought; unlike prolix or turgid, it needs an audience and a raised voice to make sense."
+    },
+    {
+      "word": "turgid",
+      "nuance": "**Turgid** is heavy rather than loud, and it convicts on effect: the reader sank. It's the only one here that doubles as pompous *and* boring — a bombastic speech at least keeps you awake — and the only style word that keeps a live literal sense of physical swelling (a *turgid* river, *turgid* tissue)."
+    },
+    {
+      "word": "florid",
+      "nuance": "**Florid** charges over-*decoration*, not over-length or over-volume: flourishes, curlicues, too many flowers and not enough stem. It also travels outside prose in ways the others can't — a red, drink-flushed face, or a symptom bloomed into full view (*florid psychosis*)."
+    },
+    {
+      "word": "prolix",
+      "nuance": "**Prolix** is pure word count, with no grandeur required — prolix writing can be flat, plain, and entirely correct, just endless. It's the cool critic's verdict on a memo that takes four pages to say no, and unlike garrulous it belongs to documents, not to talkers."
+    },
+    {
+      "word": "pomposity",
+      "nuance": "**Pomposity** is the only noun, and the only one that indicts a *person* rather than a text: the ceremonious manner of someone announcing his opinions like decrees. The tone is comic, not fearsome — the pompous man is punctured at dinner, and no one has ever claimed the trait for himself."
+    }
+  ]
+}

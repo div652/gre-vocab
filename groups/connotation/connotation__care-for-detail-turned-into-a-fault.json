@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__care-for-detail-turned-into-a-fault",
+  "title": "Care for detail, curdled into a fault",
+  "seed_words": [
+    "pedantic",
+    "fastidious",
+    "finicky",
+    "captious",
+    "punctilious",
+    "quibble"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe attention to small details that has stopped being useful — but the words split on where the fuss is aimed. Three of them describe a standard you hold for yourself and what you'll accept; three describe an objection you press on someone else. That's the axis to fix first, because the GRE's sentences almost always supply a target (a host, a carburettor, a footnote, an opponent) rather than a definition. The second axis is blame: some of these can be earned praise, others are pure verdict on the fusser.",
+  "words": [
+    {
+      "word": "fastidious",
+      "nuance": "The standard is about what you will **accept** — cleanliness, quality, finish — not about anyone's error. It is the only word here that can carry physical squeamishness: the fastidious guest is repelled, not merely unsatisfied. Also the one that most readily flips to praise, because the fussiness is inseparable from real thoroughness."
+    },
+    {
+      "word": "punctilious",
+      "nuance": "The details guarded are points of **form** — protocol, ceremony, etiquette, procedure — never accuracy, cleanliness, or truth. Dignified where the others are petty, which is why it sits with diplomats and officers. Nobody is punctilious about a spreadsheet; they are punctilious about how the flag is folded."
+    },
+    {
+      "word": "finicky",
+      "nuance": "The mildest and most domestic — an eye-roll, not a judgement, and about **preferences** rather than principles. Uniquely, it applies to objects and tasks: a finicky engine is temperamental and needs coaxing, a sense none of the others has. That inanimate use is the one the GRE reaches for."
+    },
+    {
+      "word": "pedantic",
+      "nuance": "The fuss is over **rules and learning**, and it is aimed outward at your mistake. Carries a specific charge the others don't: misplaced priorities plus display — the pedant is technically right, irrelevant, and pleased to be showing it. Always an insult; the identical behaviour praised is \"rigorous.\""
+    },
+    {
+      "word": "captious",
+      "nuance": "The only one that indicts the **motive**: the objector wants you wrong, not the work right. Names a settled disposition rather than a single remark — you are captious all afternoon — and it is the most formal and most withering of the set."
+    },
+    {
+      "word": "quibble",
+      "nuance": "The only **act** rather than a trait: a single small objection, or the making of one, with nothing implied about your character. And it alone runs polite — \"my only quibble is the ending\" concedes almost everything, a self-deprecating move no other word here can make."
+    }
+  ],
+  "exam_note": "Watch the target noun: a person's standards (fastidious, punctilious), a machine (finicky), or another person's error (pedantic, captious, quibble) — and remember fastidious/punctilious can be compliments while pedantic/captious never are."
+}

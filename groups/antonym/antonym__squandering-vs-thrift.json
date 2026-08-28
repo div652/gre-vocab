@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__squandering-vs-thrift",
+  "title": "Squandering vs. thrift",
+  "seed_words": [
+    "prodigal",
+    "profligate",
+    "spendthrift",
+    "squander",
+    "economy",
+    "parsimonious",
+    "retrench",
+    "canny"
+  ],
+  "hallucinated": null,
+  "core": "One axis: resources pouring out versus resources held back. The wasteful half all condemn — but they differ in scale, in whether the charge is moral or merely exasperated, and in what part of speech they occupy. The sparing half is the trap, because holding back can be a skill, a vice, or an emergency measure, and the exam picks whichever verdict you didn't expect.",
+  "words": [
+    {
+      "word": "prodigal",
+      "nuance": "**Prodigal** is the literary and moral verdict — an inheritance poured out by someone who should have known better. Uniquely in this group it flips positive with *of*: **prodigal of praise** is lavish generosity, no insult."
+    },
+    {
+      "word": "profligate",
+      "nuance": "**Profligate** is the biggest and dirtiest: treasuries, not allowances, and it's the only one here carrying a live second sense of *dissolute, morally rotten*. It's the standard attack word in budget fights because it indicts the spender, not the spending."
+    },
+    {
+      "word": "spendthrift",
+      "nuance": "**Spendthrift** names the person as a type — a habit, almost a character class (*spendthrift heir*). It's the mildest of the four: a raised eyebrow, faintly old-fashioned, exasperated rather than damning, and it's about draining a finite pot, not about the sums involved."
+    },
+    {
+      "word": "squander",
+      "nuance": "The only **verb**, and the only one that reaches past money: you **squander** a two-goal lead, a first-class mind, a chance. It needs a good thing to begin with and leaves the ghost of what could have been."
+    },
+    {
+      "word": "economy",
+      "nuance": "**Economy** is praise for *skill*, not virtue — nothing wasted because the practitioner is in control (*an economy of gesture*). It says nothing about reluctance to spend; it says everything left in is doing work."
+    },
+    {
+      "word": "parsimonious",
+      "nuance": "**Parsimonious** is the cold audit-room word for unwillingness — hoarding money, praise, sympathy, detail. Same reduction as economy, opposite verdict; but applied to a *theory*, it flips to praise (fewest assumptions)."
+    },
+    {
+      "word": "retrench",
+      "nuance": "**Retrench** isn't a trait at all — it's an institution's defensive action under pressure, pulling back to what it can still hold after revenue drops. In corporate mouths it's a euphemism: *retrenched* sounds tidier than sacked."
+    },
+    {
+      "word": "canny",
+      "nuance": "**Canny** is about judgement, not amount — the one who never overpays and can't be cheated. Unlike *cunning*, it hands out credit, and it means quiet practical competence, not brilliance."
+    }
+  ],
+  "exam_note": "Three built-in flips: **prodigal** never means *returning*, **parsimonious** turns complimentary when applied to a theory, and **economy** praises skill where *parsimony* condemns meanness."
+}

@@ -9,5 +9,29 @@
     "pomposity",
     "aggrandize"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Every word here marks a gap between the show and the substance: someone is working to seem grander, deeper, or more formidable than they are, and an observer has noticed. All five are verdicts delivered from outside — nobody applies them to themselves — and the charge is never that the person is wicked, only that the performance is unearned. What separates them is *what* is being inflated (culture, importance, resolve, territory) and how big the fake is: one tic, one manner, or one whole claim to greatness.",
+  "words": [
+    {
+      "word": "pretentious",
+      "nuance": "The only one whose target is specifically **cultural** credit — taste, learning, depth. It also attaches to objects as readily as to people: a menu, a film, a baby's name can be **pretentious**, where nothing else here can."
+    },
+    {
+      "word": "affectation",
+      "nuance": "The countable one: an **affectation** is a single item you can point at and list — a borrowed accent, a cigarette holder, a British spelling. The others describe a whole manner; this one is small enough to be faintly ridiculous rather than damning."
+    },
+    {
+      "word": "posturing",
+      "nuance": "The only charge about **intent** rather than taste or manner. The pose is a stance or a threat, and the accusation is that no action will follow it — which is why it lives in political and negotiating contexts, where the posturer wants leverage, not admiration."
+    },
+    {
+      "word": "pomposity",
+      "nuance": "Inflates **importance**, and does it entirely through delivery — cadence, ceremony, Latinate weight. Crucially the pompous man believes his own grandeur; he is hiding nothing, which makes him puncturable and comic rather than sly."
+    },
+    {
+      "word": "aggrandize",
+      "nuance": "The only verb, and the only word that takes an **object** — you aggrandize *yourself*, a rival, an empire. It can also name a real gain in power rather than merely an air of one, and it implies the gain came at someone's expense. Learn it as **self-aggrandizing**."
+    }
+  ],
+  "exam_note": "The trap is matching the pose to the wrong target: hollow threats want *posturing*, not *pretentious*; a grand speaking voice wants *pomposity*; and *aggrandize* is the only option that can govern an object."
 }

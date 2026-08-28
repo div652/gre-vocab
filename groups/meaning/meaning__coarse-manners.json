@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__coarse-manners",
-  "title": "Coarse manners",
+  "title": "Coarse manners: the oaf, the grudge, and the snob's target",
   "seed_words": [
     "boorish",
     "churlish",
@@ -9,5 +9,21 @@
   ],
   "hallucinated": [
     "crass"
-  ]
+  ],
+  "core": "All three are charges of failed refinement — a person who hasn't been civilised enough to meet the moment. Each implies a standard of polish the target falls short of, and each therefore flatters the speaker, who is by implication standing above it. The confusion is that they fault three different things: how you behave, how you receive, and what you value.",
+  "words": [
+    {
+      "word": "boorish",
+      "nuance": "**Boorish** is loud and unaimed — the failure is obliviousness, not ill will. It attaches to physical conduct in company (talking with your mouth full, bellowing over the toast); the boor would stop if he noticed, and the whole point is that he doesn't."
+    },
+    {
+      "word": "churlish",
+      "nuance": "**Churlish** is quiet, sour and *reactive* — it needs a kindness to be ungracious about. Where the boor is too coarse to notice, the churl noticed perfectly well and still couldn't rise to it. It's also the group's most idiomatic word, living in the concessive negative: *it would be churlish not to admit…*"
+    },
+    {
+      "word": "philistine",
+      "nuance": "**Philistine** isn't about manners at all — a philistine can have flawless table conduct. The deficiency is in taste and values: he measures everything by use, price or comfort, and is smug rather than embarrassed about it. Alone in the group it works as a noun, and alone in the group it names a settled worldview rather than a moment's behaviour."
+    }
+  ],
+  "exam_note": "The exam separates them by target: bad table conduct → boorish, an ungracious response to generosity → churlish, contempt for art or ideas → philistine; picking on general \"rudeness\" alone will get you the wrong one."
 }

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__authority-exercised-abusively",
+  "title": "Authority exercised abusively",
+  "seed_words": [
+    "despotic",
+    "draconian",
+    "imperious",
+    "arbitrary",
+    "martinet",
+    "coercion"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe power being used badly, and in every case the complaint is about *how* it is exercised, not whether the person legitimately holds it. They separate along axes the GRE loves: whether the fault is too little rule (whim, no stated principle) or too much rule (rigid, disproportionate enforcement); whether the charge attaches to a whole regime, a written policy, a personality, or a single act; and whether real authority is required or mere bearing will do. Fix which axis a word sits on and the group stops blurring.",
+  "words": [
+    {
+      "word": "despotic",
+      "nuance": "The only one that indicts *total dominion* — one person's will functioning as the entire law, with nothing above it to appeal to. Where the others fault a policy, a manner, or a single act, **despotic** condemns the whole arrangement of power, so it needs a ruler-figure to attach to: of a country, a household, a department."
+    },
+    {
+      "word": "draconian",
+      "nuance": "Faults *proportion* and nothing else. **Draconian** concedes the offence was real and the rule evenly applied — it says only that the penalty dwarfs the crime, which is why it lands on written codes, sentences and policies rather than on temperaments. A scrupulously fair, perfectly predictable rulebook can still be draconian."
+    },
+    {
+      "word": "imperious",
+      "nuance": "The only member that requires no actual authority. **Imperious** is pure bearing — the snapped fingers, the refusal never entertained — so a junior clerk can be imperious while a real tyrant is not. It convicts how someone carries themselves, never their rules or their punishments."
+    },
+    {
+      "word": "arbitrary",
+      "nuance": "The charge is *no reason given*, not *too harsh*. A trivially small fine is arbitrary if nobody can name the principle behind it, and **arbitrary** is the only word here with a straight-faced neutral use (*an arbitrary integer*). Its political sense — unchecked, answerable to nobody — is the overlap with despotism students miss when they read it as \"random.\""
+    },
+    {
+      "word": "martinet",
+      "nuance": "A noun for a *person*, and the exact inverse of arbitrary: the **martinet** enforces the rules obsessively rather than ignoring them. The insult is scale, not severity — real power over subordinates spent on the untucked shirt and the wrong-coloured ink while the purpose of the rule goes unseen."
+    },
+    {
+      "word": "coercion",
+      "nuance": "Names the *mechanism*, not a character flaw — the threat that hollows out a choice while leaving the victim to make it. **Coercion** needs no rank, no rulebook and no pattern: a blackmailer with no authority at all coerces, and one signature under duress is enough. It is the only one here with legal force (a coerced contract is void)."
+    }
+  ],
+  "exam_note": "The trap is reading them all as \"harsh\": **arbitrary** attacks the *absence* of a rule while **draconian** and **martinet** attack an *excess* of one, and only **arbitrary** has a neutral sense the test can hide behind."
+}

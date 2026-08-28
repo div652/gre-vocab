@@ -9,5 +9,29 @@
     "dexterous",
     "nimble"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five praise skill of the quick, economical kind — competence that shows up as speed and ease rather than force, depth, or genius. The compliment is for *how* something is done: neatly, without visible strain, faster than the difficulty seemed to allow. They separate mainly by *where* the skill lives — in the fingers, in the whole body, in the talk, or in years of accumulated command — and by how warm the praise is.",
+  "words": [
+    {
+      "word": "dexterous",
+      "nuance": "The one still attached to the **fingers** — fine motor control and speed at a physical task. It says nothing about the doer's character: a **dexterous** pickpocket is being praised for the hands, not accused of slyness. Its mental extension exists but is secondary and pale."
+    },
+    {
+      "word": "deft",
+      "nuance": "The praise is specifically for **economy** — the move used exactly the effort it needed and no more, so it looked easy. **Deft** rates the aesthetics of execution, which is why critics live on it (\"a deft touch\"); it can't describe a person's standing career, only a touch, a stroke, a scene, a sidestep."
+    },
+    {
+      "word": "nimble",
+      "nuance": "The only one about **evading rather than executing** — slipping the punch, sidestepping the objection. It also scales beyond a person to a whole body or organization (a nimble company, a nimble market), which none of the others do, and it's the warmest and least technical of the five."
+    },
+    {
+      "word": "adroit",
+      "nuance": "The skill is **under pressure from other people** — the awkward question, the hostile negotiation, the moment that could go wrong. **Adroit** admires the manoeuvre more than the person, so the praise is cool and faintly wary; lean on it and it tips into *slick*. Almost always social or verbal, rarely manual."
+    },
+    {
+      "word": "adept",
+      "nuance": "The only one that describes no single moment — it's **accumulated command of a domain**, earned by practice, and it takes a complement (*adept at/in*). Consequently it's the only one that can be a **noun** (an adept = an initiate of a difficult art), and the only one with no speed component at all."
+    }
+  ],
+  "exam_note": "The shared \"quick and skilful\" gloss is the trap: sort by domain (fingers = dexterous, pressure and people = adroit, evasion = nimble, economy of touch = deft) and remember adept is the odd one out — durable mastery, no quickness implied, and the only member that takes *at/in* or works as a noun."
 }

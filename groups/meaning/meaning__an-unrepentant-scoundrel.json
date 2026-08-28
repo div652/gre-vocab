@@ -7,5 +7,21 @@
     "libertine",
     "miscreant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three are elevated, faintly old-fashioned labels for a person of bad character — and all three are softened by that elevation. Each keeps the speaker at a comfortable distance: you reach for these words when you disapprove but are not actually frightened, which is why none of them lands on a murderer without sounding arch. What separates them is what each one is actually judging: whether the man can be reformed, what specific appetites he indulges, or how far beneath the speaker he stands.",
+  "words": [
+    {
+      "word": "reprobate",
+      "nuance": "The verdict is on his **reformability**, not his particular vice — he has been tested and abandoned as past saving. It's the only one of the three that implies a permanent condition rather than a set of deeds, and the only one that turns fond: *the old reprobate* is a shrug at someone who will never change and never intended to."
+    },
+    {
+      "word": "libertine",
+      "nuance": "The only one that names the appetite — sex and drink, pursued as a creed rather than a lapse. It describes a whole style of life, complete with wit and money and a defence he'd deliver over wine, so it carries a flicker of glamour the others lack; a candlelit drawing room, never a dock."
+    },
+    {
+      "word": "miscreant",
+      "nuance": "Measures the **speaker's altitude**, not the offender's depth. It comes down from headmasters, magistrates and narrators onto small fry — the boys who egged the car — and its faint archaism is a way of refusing someone the dignity of a serious word."
+    }
+  ],
+  "exam_note": "Offered as interchangeable in an all-that-apply item: pick by the clue — irredeemable/beyond reform → reprobate, pleasure-seeking or dissipation → libertine, petty mischief scolded from above → miscreant."
 }

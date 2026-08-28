@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__homely-words-that-mean-to-tolerate",
+  "title": "Innocent-Looking Words That Mean \"To Tolerate\"",
+  "seed_words": [
+    "brook",
+    "abide",
+    "countenance",
+    "forbear",
+    "condone"
+  ],
+  "hallucinated": null,
+  "core": "All five verbs cover the ground between *permit* and *endure*: letting something objectionable stand instead of moving against it. None means *enjoy* or *approve* — each is a form of non-objection, which is why they cluster so tightly in the negative (\"will not ___\"). What makes the group treacherous is that most of them wear an innocent disguise; as nouns they are a stream, a face, and an ancestor. The exam's interest is almost entirely in the buried verb.",
+  "words": [
+    {
+      "word": "brook",
+      "nuance": "**Brook** comes from power and shuts the door: a general, a deadline, a constitution *brooks no* delay. It is nearly frozen in that negated formula, takes an abstract object (dissent, interference, argument) rather than a person, and announces a rule rather than reporting a feeling."
+    },
+    {
+      "word": "abide",
+      "nuance": "**Abide** is the temperamental one — *can't abide* is personal, visceral distaste for a person, habit, or noise, closer to \"my skin crawls\" than to any policy. It is also the only member with a compliance sense (*abide by* a ruling), where the object is a rule you follow rather than a nuisance you endure."
+    },
+    {
+      "word": "countenance",
+      "nuance": "**Countenance** is official sanction: to countenance something is to let it proceed under your public gaze, which lends it legitimacy whether you like it or not. That is why refusing to countenance is a stance a board, a court, or a government takes — the noun sense (*face*) explains it, since to countenance is to give something your face."
+    },
+    {
+      "word": "forbear",
+      "nuance": "**Forbear** is the outlier: it restrains *your own* action, not someone else's conduct. You could sue, correct, retaliate — and you hold back, so the provocation is built in and the word is warmly approving rather than coolly neutral. It also takes *to* plus a verb (*forbore to comment*), never a noun object."
+    },
+    {
+      "word": "condone",
+      "nuance": "**Condone** is the only one that presupposes a wrong — you cannot condone a kindness. It is the morally loaded member, which is why *\"I don't condone this\"* is a speaker distancing himself from an offence, and why condoning is usually done by silence from someone who had the standing to punish."
+    }
+  ],
+  "exam_note": "Expect *brook* and *countenance* offered as a Sentence Equivalence pair inside a negated clause, with *forbear* dangled as the trap — it points at the speaker's own restraint, not at permitting another's behavior."
+}

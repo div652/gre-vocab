@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__ducere",
-  "title": "Root: dūcere (to lead)",
+  "title": "Root: dūcere (to lead) — conducive, induce, subdued",
   "seed_words": [
     "conducive",
     "induce",
     "subdued"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *dūcere* means to lead, and each of these words is about one thing steering another into a state it wouldn't have reached alone — without ever using open force. Nothing here is a blunt cause; something is led *toward* an outcome, led *into* an action, or led *down* from a higher pitch. The confusion is that all three describe influence at one remove, so the real question is always: is the word naming the conditions, the agent, or the aftermath?",
+  "words": [
+    {
+      "word": "conducive",
+      "nuance": "Names the **conditions**, never the agent or the act — it's the only one of the three that can't cause anything, only clear the way. It also demands *to* plus something desirable, so it can't take a direct object the way the verbs here do, and it can't describe a person's mood."
+    },
+    {
+      "word": "induce",
+      "nuance": "The only one with an **agent doing the leading** — someone offers, tempts, or administers, and an outcome arrives on schedule that wouldn't have arrived yet on its own. Where the enabling sense is passive background, this is a deliberate push disguised as an invitation, which is why it hangs around drugs, labour, and bribes."
+    },
+    {
+      "word": "subdued",
+      "nuance": "The **aftermath**, not the process — it names the lowered state left behind after something pressed down, and only registers against a former higher level. Unlike the others it attaches to people's spirits, light, and colour rather than to outcomes, and it's the only one where the leading force stays unnamed."
+    }
+  ],
+  "exam_note": "The exam hides the root behind surface meanings — **subdued** reads as pure mood and **conducive** as pure setting — then offers *conducive* where a sentence needs an actual cause; if the blank takes a direct object or an agent, *conducive* is wrong on grammar alone."
 }

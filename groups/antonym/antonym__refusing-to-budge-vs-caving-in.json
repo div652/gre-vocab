@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__refusing-to-budge-vs-caving-in",
+  "title": "Refusing to budge vs. caving in",
+  "seed_words": [
+    "intransigent",
+    "obdurate",
+    "obstinate",
+    "implacable",
+    "pertinacious",
+    "acquiesce",
+    "capitulate",
+    "relent",
+    "yield",
+    "comply"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers one question: does the position hold when pressure is applied? The first five name the holding — a refusal that survives argument, pleading, time, or force — and are mostly the complaint of whoever is being blocked. The last five name the giving way, and they differ chiefly in what came *before* the surrender: a fight, a silence, an order, or a long stretch of harshness. The GRE's leverage is that the words are not simple opposites — each one presupposes a different backstory and a different relationship between the two parties.",
+  "words": [
+    {
+      "word": "intransigent",
+      "nuance": "**Intransigent** requires a counterparty holding out an offer. It is not a personality trait but a *position at the table* — terms have been proposed and rejected — which is why it lives with unions, coalitions, and peace talks. The other refusal words work on a lone person in a room; this one needs someone across from them."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "**Obdurate** is the only one that resists *feeling* rather than argument. What bounces off is pleading, tears, remorse, pity — not evidence. It condemns rather than describes, in a near-scriptural register: the creditor who won't forgive the debt, the sinner who won't repent."
+    },
+    {
+      "word": "obstinate",
+      "nuance": "**Obstinate** is the all-purpose verdict on temperament, with no need for negotiation, a plea, or an enemy — just someone dug in past the point of use, sometimes against their own interest. It is also the only one of the five that comfortably takes an inanimate subject: an **obstinate** stain, cough, or jar lid."
+    },
+    {
+      "word": "implacable",
+      "nuance": "**Implacable** is defined by what fails on it: appeasement. Apologies, concessions, and offers do nothing, so it attaches to enmity and to forces that simply keep coming — the tide, age, a deadline. It is the grandest of the five and the least petty; applied to resolve rather than malice, it can even flatter."
+    },
+    {
+      "word": "pertinacious",
+      "nuance": "**Pertinacious** measures duration of grip, not hardness of heart or firmness of stance — the subject won't *let go*. It is the soured twin of *tenacious*: same clinging, but the speaker is now tired of it. Hence the rumour, the cough, the creditor who keeps calling."
+    },
+    {
+      "word": "acquiesce",
+      "nuance": "**Acquiesce** presupposes that no fight ever visibly happened — the objection was swallowed, and consent is registered as silence. It implies a power gap you declined to test: you acquiesce to a boss or a government, not to an equal. Grammar the GRE checks: acquiesce **in** or **to** something, never \"acquiesce something.\""
+    },
+    {
+      "word": "capitulate",
+      "nuance": "**Capitulate** demands a prior fight and its collapse — a siege, a standoff, months of resistance that finally broke. It comes with terms: you accept the other side's, publicly. That's why it stings as an accusation in a way *acquiesce* (never fought) and *yield* (bent gracefully) do not."
+    },
+    {
+      "word": "relent",
+      "nuance": "**Relent** is the only one where giving way is a *mercy*: you were the harsh party — refusing, punishing, pressing — and you softened. It requires prior immovability, so it can't describe someone who was never firm. It also takes weather and pain as subjects (the rain relented), and its negative, **relentless**, is the commoner word."
+    },
+    {
+      "word": "yield",
+      "nuance": "**Yield** is the mildest and the only neutral one: the thing bends, it doesn't break, and it may be doing so tactically or as a courtesy (\"I yield to my colleague\"). No defeat is implied. It also carries an unrelated sense the exam loves to swap in — to *produce* a return — plus the adjective pair **yielding** (pliant) and **unyielding** (rigid)."
+    },
+    {
+      "word": "comply",
+      "nuance": "**Comply** removes the contest of wills entirely: you're answering a rule, subpoena, or standard, not a person who beat you. It is cool and impersonal where *obey* is servile, and it reports only behaviour — a complier may be seething, and \"compliance\" often smells of box-ticking."
+    }
+  ],
+  "exam_note": "The trap is treating the surrender verbs as interchangeable: GRE sentences supply the backstory (a long siege, a swallowed objection, a rule, a softened harshness) and only one verb's presupposition fits — and it will pair the reversal with *unyielding* or *implacable* rather than a plain negation."
+}

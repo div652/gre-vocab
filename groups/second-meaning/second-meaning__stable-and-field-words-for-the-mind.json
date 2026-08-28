@@ -1,0 +1,42 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__stable-and-field-words-for-the-mind",
+  "title": "From Stable and Field: Farm Words That Went Mental",
+  "seed_words": [
+    "ruminate",
+    "bridle",
+    "goad",
+    "fallow",
+    "hidebound",
+    "fledgling"
+  ],
+  "hallucinated": null,
+  "core": "Every word here started in a barn, a pasture, or a nest, and every one now earns its keep describing minds, careers, institutions, and tempers. The literal sense is still technically alive — you can bridle a horse, leave an acre fallow — but the GRE almost never wants it. The confusion is that a reader who knows the farm sense guesses at the human sense, and a reader who knows the human sense forgets the image that governs it. The image is the key: what the animal or field is doing tells you exactly what the abstraction does.",
+  "words": [
+    {
+      "word": "ruminate",
+      "nuance": "The only word here with **no outside agent** — the cow chews its own cud, and the thinker chews his own grievance. Where the others are done *to* something (a horse, a field, a bureaucracy), **ruminating** is entirely self-administered and, uniquely in this group, produces nothing by design: it loops rather than arrives."
+    },
+    {
+      "word": "bridle",
+      "nuance": "The restraint word — **bridle** points inward at force you already have and want steered (*bridle your temper*), which is the exact opposite vector from *goad*. It's also the only entry with a second human sense hiding inside it: *bridle at* an insult, where the head snaps back like a checked horse's. That reflex reading, not the restraint reading, is the one people miss."
+    },
+    {
+      "word": "goad",
+      "nuance": "The spiked stick, so **goad** supplies motion from outside and does it by pain — not persuasion, not encouragement. Unlike *bridle*, which credits the restrainer with discipline, **goad** puts the blame on whoever wields it: the goaded person's bad behaviour is understood as extracted from him."
+    },
+    {
+      "word": "fallow",
+      "nuance": "Unproductive on purpose, with a return expected — the only word in the group that describes an absence of output while insisting nothing is wrong. Set against *hidebound*: **fallow** is a pause in a healthy thing, not a defect in a stuck one, so a fallow decade is forgiven and a hidebound one is not."
+    },
+    {
+      "word": "hidebound",
+      "nuance": "From skin shrunk tight to the animal's frame, so the rigidity is **structural and permanent** — no recovery implied, which is precisely what separates it from *fallow*. Always an insult, always aimed at rules and the bodies that keep them; it says the thing cannot flex, not merely that it won't right now."
+    },
+    {
+      "word": "fledgling",
+      "nuance": "The one bird among the livestock, and the one hopeful word: it marks a **beginning with lift**, where *hidebound* marks an ending with none. Note the sympathy — it grants that the venture is fragile without predicting failure — and note that it lands on institutions and companies far more than on individual beginners."
+    }
+  ],
+  "exam_note": "Sentence-equivalence sets exploit the pairs: *bridle*/*goad* both concern shaping behaviour but in opposite directions, and *fallow*/*hidebound* both mean \"producing nothing\" while disagreeing entirely about whether it's fixable — read the sentence for direction and blame, not just for idleness or control."
+}

@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__all-of-a-kind-vs-mixed-in-kind",
+  "title": "All of a kind vs. mixed in kind",
+  "seed_words": [
+    "homogeneous",
+    "fungible",
+    "interchangeable",
+    "analogous",
+    "universal",
+    "heterogeneous",
+    "disparate",
+    "divergent",
+    "eclectic",
+    "hodgepodge"
+  ],
+  "hallucinated": null,
+  "core": "Every word here judges how alike the members of a set are — whether a group is all one thing or a mix of unlike things. The trap is that they answer different questions: some describe what a whole is *made of*, some claim one member can *replace* another, some assert a *parallel* between things known to differ, and some deliver a *verdict* on the mixture rather than a description of it. Two also smuggle in extra freight — a shared starting point, or a claim of total coverage — that has nothing to do with likeness. Sort by which question the sentence is actually asking before you pick.",
+  "words": [
+    {
+      "word": "homogeneous",
+      "nuance": "The baseline sameness word, and it is about **composition** only: what the whole is made of, part by part. It never claims the parts can substitute for one another or serve the same purpose — a **homogeneous** sample is uniform in makeup, full stop."
+    },
+    {
+      "word": "fungible",
+      "nuance": "The strictest and narrowest: units are so identical *for accounting purposes* that which one you receive is not a question anyone can ask. Contractual and financial in origin — **fungible** things are counted, not compared, which is why applying it to people reads as brutal."
+    },
+    {
+      "word": "interchangeable",
+      "nuance": "The claim is functional, not compositional: two things may differ in material, brand, or wording and still be **interchangeable** if swapping them changes no outcome. Unlike *fungible*, they need not be the same kind of unit — only equal in effect."
+    },
+    {
+      "word": "analogous",
+      "nuance": "The outlier: it concedes the two things are unalike in substance and asserts only that the *relation* between them matches. **Analogous** is an argumentative move — it licenses reasoning from one case to the other — and it always takes *to*, which the sameness words never do."
+    },
+    {
+      "word": "universal",
+      "nuance": "Not about likeness at all but about **scope**: it says a claim covers every case with zero exceptions. A **universal** group can be wildly mixed internally; what is uniform is the applicability, and one counterexample destroys the claim."
+    },
+    {
+      "word": "heterogeneous",
+      "nuance": "The flat technical antonym of *homogeneous* — same axis (composition), opposite value, same absence of praise. It usually flags a practical obstacle: **heterogeneous** data won't pool, **heterogeneous** results mean the studies disagree."
+    },
+    {
+      "word": "disparate",
+      "nuance": "Escalates unlikeness into **incomparability**: the differences are of kind, so grouping or comparing the items is illegitimate. Where *heterogeneous* merely records a mix, **disparate** objects to it — it is the word used to reject an analogy."
+    },
+    {
+      "word": "divergent",
+      "nuance": "The only one that requires a **shared origin** and a time dimension: things diverge because they began together and the gap widened. It describes a trajectory, not a composition — and it measures the angle coolly, without the condemnation of *deviant*."
+    },
+    {
+      "word": "eclectic",
+      "nuance": "The mix plus a **curator**: someone chose across boundaries on merit, so the variety is credited to taste. It is the one approving word here — and it quietly denies originality, since an **eclectic** thinker borrows rather than invents."
+    },
+    {
+      "word": "hodgepodge",
+      "nuance": "The only **noun**, and the only outright insult: the mixture is incoherent because nobody planned it. It is *eclectic* with the curator removed — informal, lightly contemptuous, and it implies the thing should be scrapped and rebuilt."
+    }
+  ],
+  "exam_note": "The exam plants *analogous* and *universal* in sameness contexts where they don't fit — neither describes a mixture — and forces the *homogeneous / fungible / interchangeable* choice on a single hinge: made of the same stuff, countable as equal units, or equal in effect."
+}

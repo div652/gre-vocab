@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__decoration-to-excess",
+  "title": "Decoration to excess",
+  "seed_words": [
+    "elaborate",
+    "ornate",
+    "florid",
+    "baroque"
+  ],
+  "hallucinated": null,
+  "core": "All four describe something worked up with more detail than the bare function required — a building, a sentence, a costume, a plan. They differ in whether the extra is *structure* or *surface*, and in how much disapproval rides along: the scale runs from admiring the effort, to noticing the decoration, to objecting to it, to declaring the decoration has eaten the thing. Almost all of them are aimed at prose on the GRE.",
+  "words": [
+    {
+      "word": "elaborate",
+      "nuance": "The only one about **structure** rather than surface — many parts, carefully fitted, and no verdict attached. It credits labour, which is exactly why it sours when the labour is disproportionate to the truth on offer (*elaborate hoax*). Also the only member with a live verb sense: to elaborate is to say more."
+    },
+    {
+      "word": "ornate",
+      "nuance": "Narrows to applied **decoration** — carving, gilding, flourishes stuck onto a surface. Still defensible on a Baroque altarpiece; on modern writing it's a raised eyebrow, the sense that someone kept adding and never subtracted. Adds no complexity of structure, only of finish."
+    },
+    {
+      "word": "florid",
+      "nuance": "The judgment is baked in — decoration has crowded out the sense, flowers with no stem. It's the only one that also lands on a **body**: a florid face is flushed with drink, heat, or blood pressure, and in medicine a florid symptom has bloomed into unmistakable view."
+    },
+    {
+      "word": "baroque",
+      "nuance": "The endpoint: ornament has taken over the object. Uniquely double-coded — capitalised and dated it's a neutral art-historical label, lowercase it's a jab. Reserve it for complexity that is **showy**, not merely tangled; a snarled tax code is byzantine, a six-clause sentence with three metaphors is baroque."
+    }
+  ],
+  "exam_note": "The exam picks the slot by attitude, not by degree: a sentence that praises craftsmanship wants **elaborate**, one that mocks the writer wants **florid** or **baroque** — and it will bait you with the face sense of *florid* in a passage about a red-cheeked character."
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "connotation",
+  "id": "connotation__giving-from-a-height",
+  "title": "Giving from a height",
+  "seed_words": [
+    "largesse",
+    "patronize",
+    "coddle",
+    "benevolent"
+  ],
+  "hallucinated": null,
+  "core": "All four describe kindness that travels downhill — from someone with money, power, or standing to someone without. The height is the shared ingredient, and it's what makes each word slightly uncomfortable even when nothing cruel is meant: the giver could stop, and both parties know it. They split on what actually crosses the gap (cash, protection, manner, or merely goodwill) and on who ends up looking bad — the one above or the one below.",
+  "words": [
+    {
+      "word": "largesse",
+      "nuance": "The only one that names the **goods themselves** — actual money, gifts, favours, handed out on a scale worth remarking on. And it's the one whose sneer lands on the *recipient*: \"living on his father's largesse\" mocks the dependent, not the donor."
+    },
+    {
+      "word": "patronize",
+      "nuance": "The only one felt as an **insult by the person on the receiving end**, and the only one where nothing is given but manner — the unneeded explanation, the praise pitched at a child. Its second sense (to be a customer, to back an artist) is entirely clean, which is exactly the trap."
+    },
+    {
+      "word": "coddle",
+      "nuance": "The transfer is **protection, not property**: you coddle by removing the hard thing, not by handing over money. Uniquely, the charge is about the *result* — the person has gone soft — and it's always an outsider's verdict, never self-applied."
+    },
+    {
+      "word": "benevolent",
+      "nuance": "**Disposition with nothing yet delivered** — the wish to do good, cheque unwritten. It's the group's only positive word, and when it does curdle (*benevolent dictator*), the mockery is aimed at the powerful party, not the dependent one."
+    }
+  ],
+  "exam_note": "The GRE leans on **patronize** sense 2 (\\\"patronized the shop for years\\\") and on **benevolent** meaning intent rather than action — pick the wrong sense and the sentence's tone flips."
+}

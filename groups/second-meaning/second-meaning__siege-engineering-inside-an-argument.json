@@ -1,0 +1,47 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__siege-engineering-inside-an-argument",
+  "title": "Siege engineering inside an argument",
+  "seed_words": [
+    "buttress",
+    "bolster",
+    "undermine",
+    "undercut",
+    "assail",
+    "barrage",
+    "entrenched"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is borrowed from fortification and siege — walls propped from outside, tunnels dug beneath foundations, artillery aimed at a target, troops dug into trenches — and on the GRE all of them arrive figuratively, applied to claims, reputations, policies and positions. The shared picture is a structure that either stands or falls depending on what is under it and what is fired at it. They become confusable because they all describe a *move* in that siege; they differ in direction (adding support vs. removing it vs. battering), in timescale (one stroke vs. a campaign), and in whether the damage is done in the open or out of sight.",
+  "words": [
+    {
+      "word": "buttress",
+      "nuance": "The only one that names the *material* of the support: you **buttress** a claim **with** evidence, data, a precedent. The support is external, engineered, and deliberately added — and it attaches to positions, cases and regimes, never to a mood or a person."
+    },
+    {
+      "word": "bolster",
+      "nuance": "Where *buttress* tells you what the support is made of, **bolster** tells you about the object's condition: it was sagging. It is also the one that takes feelings and aggregates — morale, confidence, a currency, a defence — which *buttress* will not."
+    },
+    {
+      "word": "undermine",
+      "nuance": "The exact inverse of *buttress*: support removed from below rather than added from outside, and removed slowly. **Undermine** implies a campaign with an agent behind it, conducted deniably — the damage is visible long before the hand that did it is."
+    },
+    {
+      "word": "undercut",
+      "nuance": "Same downward direction as *undermine*, but a single stroke rather than a campaign — and the only word in this group that is routinely **accidental or self-inflicted**: one hedged sentence **undercuts** your own thesis. What's left is still standing, just hollow."
+    },
+    {
+      "word": "assail",
+      "nuance": "No engineering at all — this is frontal, in the open, and on the record, the opposite posture to *undermine*'s tunnelling. Its force is in repetition (blow after blow), and it is uniquely the verb for attack **from within**: assailed by doubts, by nausea. Hence **unassailable**."
+    },
+    {
+      "word": "barrage",
+      "nuance": "Primarily the noun for what *assailing* feels like from the receiving end. A **barrage** is aimed and sustained enough to pin the target down with no chance to answer — which is why it collocates with questions, criticism, abuse directed at someone who cannot fire back."
+    },
+    {
+      "word": "entrenched",
+      "nuance": "The only static word here: it describes the *state of the target*, not a move made against it or for it. It is silent on merit — an **entrenched** attitude may be wrong and still immovable — and usually arrives as a complaint about an obstacle, explaining why the siege was needed at all."
+    }
+  ],
+  "exam_note": "The GRE pairs buttress/bolster and undermine/undercut as if interchangeable — decide by the object (evidence for a claim vs. a sagging morale) and the timescale (one stroke vs. a patient campaign), not by direction."
+}

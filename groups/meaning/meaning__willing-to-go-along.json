@@ -8,5 +8,25 @@
     "acquiesce",
     "passive"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe an absence of resistance — someone or something that yields instead of pushing back. They differ in *where the yielding comes from*: openness before the fact, steerability by a handler, a swallowed objection after the fact, or simply never acting at all. Ordered here from most agency retained to least. Two of them also swing away from people entirely and describe **problems** that yield to a method, which is where the GRE most often plants them.",
+  "words": [
+    {
+      "word": "amenable",
+      "nuance": "The only one that is faintly complimentary — it credits the subject with being *open* rather than merely beaten. **Amenable** is forward-looking: you haven't been persuaded yet, you're persuadable, and the door is still yours to close. Nearly always bolted to **to** (amenable to a compromise, to analysis)."
+    },
+    {
+      "word": "tractable",
+      "nuance": "Judged from the hand on the reins. **Tractable** is not openness but steerability — the subject goes where it is led, which is why it's mildly patronizing about people (fine for horses, employees, and undergraduates). Watch for **intractable**, which the GRE uses far more: the stubborn person, the unsolvable equation, the pain that won't respond."
+    },
+    {
+      "word": "acquiesce",
+      "nuance": "The verb of the group, and the only one that presupposes a prior objection. To **acquiesce** is to have disagreed and then stopped fighting — consent registered by silence, usually across a power gap. Amenable people never minded; someone who acquiesces minded and folded. Grammar tested: acquiesce **in** or **to** a decision."
+    },
+    {
+      "word": "passive",
+      "nuance": "Not yielding to something so much as doing nothing at all. **Passive** requires no request, no handler, no objection — it just marks the gap between what you could have done and what you did, which is why it reads as reproach. Neutral only in fixed technical pairings (*passive income*, *passive voice*, *passive smoking*), where it means merely \"without active effort.\""
+    }
+  ],
+  "exam_note": "The trap is animacy: sentences apply **amenable** and **tractable** to equations, data, and diseases, so a test-taker primed on the people-sense reads \"compliant\" into a purely technical blank — and **intractable** appears far more often than its positive twin."
 }

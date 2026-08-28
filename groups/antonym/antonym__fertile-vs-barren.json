@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__fertile-vs-barren",
+  "title": "Fertile vs. barren",
+  "seed_words": [
+    "fecund",
+    "fruitful",
+    "burgeon",
+    "replenish",
+    "barren",
+    "fallow",
+    "desiccate",
+    "futile"
+  ],
+  "hallucinated": null,
+  "core": "These words all sit on the axis of **yield**: whether something has the power to produce, is actively producing, or produces nothing. The failure they describe is never mere emptiness — it's the failure of something that *ought* to bear (soil, a womb, a decade, an effort) to bear anything. Sorting them requires asking three questions: is the word judging *capacity* or *results*? Is the shortfall permanent, chosen, or momentary? And does it attach to land, to people, or to effort?",
+  "words": [
+    {
+      "word": "fecund",
+      "nuance": "**Fecund** praises the generative power itself, not the tally — a fecund imagination might publish nothing. It alone carries lushness bordering on excess (teeming, overflowing), and it alone is a literary flourish: the critic's word, where the agronomist says *fertile*."
+    },
+    {
+      "word": "fruitful",
+      "nuance": "**Fruitful** is a verdict delivered afterwards, on the results, and it attaches to *undertakings* — a meeting, a collaboration, a line of inquiry — never to soil's capacity. It's the boardroom-and-embassy word, and the one word here that stands as the direct positive counterpart to *futile*."
+    },
+    {
+      "word": "burgeon",
+      "nuance": "**Burgeon** is about *rate and trajectory*, not yield: something small getting visibly bigger, fast, and under its own steam. It's intransitive (you cannot burgeon something) and it insists on a promising *beginning* — a burgeoning talent, not a burgeoning empire in its ninth century."
+    },
+    {
+      "word": "replenish",
+      "nuance": "**Replenish** creates nothing new; it restores a level that was drawn down, so it requires a prior depletion and an outside agent doing the refilling. Everything else in this group happens to a thing; **replenish** is something done to it — the stewardship-and-supply word (reserves, larders, aquifers)."
+    },
+    {
+      "word": "barren",
+      "nuance": "**Barren** is the hard negative verdict on *capacity*, and it sounds permanent: nothing will grow, full stop. It's the only word here that can be aimed at a person's body, which is exactly why it wounds — it's the old, blaming term for infertility, so keep it for landscapes and dead-end decades."
+    },
+    {
+      "word": "fallow",
+      "nuance": "**Fallow** is the group's only neutral word, and its whole point is that the capacity is *intact* — the ground is good, the pause is deliberate or temporary, the harvest is expected back. Calling a novelist's silent decade fallow rather than barren is a kindness with a promise attached."
+    },
+    {
+      "word": "desiccate",
+      "nuance": "**Desiccate** is not about failing to produce but about being drained of *vitality* while remaining perfectly intact — a husk that keeps. You'll almost always meet it as the participle sneering at a person or a prose style: technically functioning, all juice gone."
+    },
+    {
+      "word": "futile",
+      "nuance": "**Futile** condemns the attempt *before* the fact — the failure was structural, so no amount of trying would have helped. It attaches only to effort or gesture (never to soil), and it leaks the speaker's weary superiority: an implied *so stop*."
+    }
+  ],
+  "exam_note": "The traps are the near-misses: *fallow* (paused, still good) swapped for *barren* (incapable), and *fruitless* (came back empty this time) swapped for *futile* (could never have worked) — plus *desiccated*, which the GRE plants in sentences about lifeless writing, not dry ground."
+}

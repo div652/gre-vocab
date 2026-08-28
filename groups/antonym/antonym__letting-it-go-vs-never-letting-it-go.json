@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__letting-it-go-vs-never-letting-it-go",
+  "title": "Letting it go vs. never letting it go",
+  "seed_words": [
+    "magnanimous",
+    "forbear",
+    "condone",
+    "relent",
+    "exonerate",
+    "implacable",
+    "obdurate",
+    "retaliate",
+    "resent",
+    "enmity"
+  ],
+  "hallucinated": null,
+  "core": "Every word here sits downstream of an injury: someone was wronged, and someone has the standing to punish, protest, or strike back. The group splits on what happens to that entitlement — it is waived, deferred, formally erased, or kept forever. The second thing to track is *what kind of thing* each word names: a private feeling, a single act, a verdict, or a permanent standing condition. Sentence completions live in that second distinction more often than in the first.",
+  "words": [
+    {
+      "word": "magnanimous",
+      "nuance": "The only word here that praises a **character**, and it is unearnable without power: you must have been the winner, the wronged party, the one holding the knife. **Magnanimous** is the grand gesture from above — the victor toasting the loser — where the others merely describe not acting."
+    },
+    {
+      "word": "forbear",
+      "nuance": "**Forbear** is the quiet, ongoing *not-doing* of a specific blow you are entitled to deliver — the creditor who doesn't foreclose, the reviewer who forbore comment. The grievance is intact and the judgment unchanged; only the hand is stayed, and it can be unstayed tomorrow."
+    },
+    {
+      "word": "condone",
+      "nuance": "The one release word that is an accusation. **Condone** means the wrong was yours to protest and you looked away, so it implies complicity rather than mercy — which is why it almost always appears as *\"I do not condone\"*, drawing a line between the speaker and someone else."
+    },
+    {
+      "word": "relent",
+      "nuance": "**Relent** is the *moment of reversal*, and it requires a prior stretch of hardness to reverse: you were the one refusing, punishing, or pressing, and you finally softened. Alone in this group it also works on impersonal pressure — rain, heat, a fever relents."
+    },
+    {
+      "word": "exonerate",
+      "nuance": "Not mercy at all: **exonerate** doesn't waive the blame, it deletes it, on the finding that there was nothing to forgive. It is third-party and official — a court, an inquiry, a lab — never a feeling you have about your brother-in-law."
+    },
+    {
+      "word": "implacable",
+      "nuance": "**Implacable** is defined by what fails against it: apology, concession, and plea all bounce off. That makes it the word for *forces* as much as people — the implacable tide, the implacable deadline — and applied to resolve rather than malice it can even read as admiration."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "Where implacable resists persuasion, **obdurate** resists *pity* — the widow begs and you feel nothing. It is a verdict on the heart, not the will, and the speaker is condemning you, not merely reporting that you won't budge."
+    },
+    {
+      "word": "retaliate",
+      "nuance": "The only **act** in the hostile half, and a cool one: **retaliate** is a counter-move, not a state of mind — tariffs, sanctions, a strike back in kind. It needs a first blow to exist, so using it quietly assigns fault to the other side, but it claims no moral high ground the way *avenge* does."
+    },
+    {
+      "word": "resent",
+      "nuance": "Purely internal and purely stored: **resent** is the grievance nursed in silence for months, always carrying the claim *\"I deserved better.\"* Nothing is done and nothing is said — which is why it reflects badly on the holder, hostility with no discharge."
+    },
+    {
+      "word": "enmity",
+      "nuance": "A noun naming a **relationship**, not a feeling or an act. **Enmity** can lie completely dormant — two houses at enmity for eighty years without a word — and it is typically mutual, often inherited, and reserved for clans, nations, and factions rather than irritating coworkers."
+    }
+  ],
+  "exam_note": "The traps are the near-misses, not the opposites: **condone** ≠ forgive (it's tolerating a wrong you still call wrong), **exonerate** ≠ pardon (pardon presumes guilt, exoneration denies it), and **obdurate** vs. **implacable** turns on whether it's pity or persuasion that fails."
+}

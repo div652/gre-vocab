@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__feeling-to-performance",
+  "title": "Feeling to performance",
+  "seed_words": [
+    "sentimental",
+    "histrionic",
+    "hysterical"
+  ],
+  "hallucinated": null,
+  "core": "All three are verdicts passed from outside on someone else's emotion: the speaker has decided the feeling outruns what caused it. None of them describes emotion neutrally — each one discounts the display in the act of naming it. What separates them is the *charge*: that the feeling is unearned, that it has swamped the person's judgement, or that it was never felt at all. Ordered here from soft real feeling to pure theatre.",
+  "words": [
+    {
+      "word": "sentimental",
+      "nuance": "The only one that can be said fondly, and the only one that is quiet — it covers the soft, sweet, backward-looking end of feeling (nostalgia, pity, affection), never rage or panic. The charge is self-indulgence, not loss of control or faking: the emotion is genuine, just laid on thicker than the subject earns. It attaches as easily to a novel, a song, or an argument as to a person, where it means *cheap*."
+    },
+    {
+      "word": "hysterical",
+      "nuance": "The loudest of the three and the only one that says the person has stopped functioning — sobbing, screaming, past reasoning with. The charge is that judgement has been voided, which is why it is used to discredit a warning rather than answer it, and why it scales up to a crowd (**mass hysteria**) as the others do not. It alone carries a wholly separate spoken sense: *that's hysterical* = very funny."
+    },
+    {
+      "word": "histrionic",
+      "nuance": "The endpoint: the accusation is not excess but **insincerity** — the grief was staged, and it requires an audience to exist. The test is whether the display would continue in an empty room. Most formal of the three, and it usually surfaces as the plural noun **histrionics**; contrast **melodramatic**, where the feeling is overblown but may still be real."
+    }
+  ],
+  "exam_note": "The trap is treating them as one \"too emotional\" slot — context names the tell: an audience being played to → histrionic, self-control gone → hysterical, tenderness the subject hasn't earned → sentimental."
+}

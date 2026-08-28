@@ -8,5 +8,25 @@
     "facility",
     "prowess"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say a person can actually do the thing — skill that's been demonstrated, not promise or potential. They differ almost entirely by altitude and by what the speaker is signalling: where on the scale from \"met the standard\" to \"the room was impressed\" the praise lands, and how much effort the doing appears to cost. Two are adjectives applied to a person, two are nouns naming the ability itself. Ordered here from floor to ceiling.",
+  "words": [
+    {
+      "word": "competent",
+      "nuance": "The floor. **Competent** certifies the absence of failure, not the presence of quality — which is why reviewers use it as a slur (\"a competent thriller\"). It's the only one here whose connotation flips with context: in law (*competent to stand trial*, *court of competent jurisdiction*) it means authorised, and the faint praise disappears entirely."
+    },
+    {
+      "word": "proficient",
+      "nuance": "One rung up, and audibly **earned** — it credits drilling and training rather than gift, and it stops deliberately short of brilliance. It's also the fussiest grammatically: you're proficient *in* or *at* something, never proficient full stop."
+    },
+    {
+      "word": "facility",
+      "nuance": "Not a level of skill but a **quality of execution**: it looks easy. A noun, and the only word here that comments on visible effort — which is why it can turn barbed (*a facility for excuses*), implying the ease came too cheaply to be worth much."
+    },
+    {
+      "word": "prowess",
+      "nuance": "The ceiling, and the only one that carries an **audience** — prowess is displayed and someone is impressed. Formal, faintly heroic (it started as courage in battle), so it sounds like boasting in the first person and absurd on small tasks. It arrives bolted to a domain: *military*, *athletic*, *technical prowess*."
+    }
+  ],
+  "exam_note": "The trap is treating **competent** and **proficient** as praise: sentence-completion items pair them with concessive signals (\"*though* the performance was ___, it never thrilled\"), where only the low-ceiling words fit and **prowess** or **facility** is the wrong-because-too-flattering distractor."
 }

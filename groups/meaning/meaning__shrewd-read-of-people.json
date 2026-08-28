@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__shrewd-read-of-people",
-  "title": "Shrewd read of people",
+  "title": "Shrewd Judgment: Reading People, Money, and Motives",
   "seed_words": [
     "astute",
     "shrewd",
@@ -10,5 +10,33 @@
     "sagacious",
     "acumen"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these praise a fast, accurate read of people and situations — the ability to size up what is really going on and what it's worth. This is worldly intelligence rather than book learning: it is earned by experience and measured by results, not by credentials. They split along three axes: how much self-interest is implied (working an angle vs. simply seeing clearly), how grand the register is (marketplace vs. lectern), and whether the insight looks at the present situation or at where it is heading.",
+  "exam_note": "The GRE separates these by what the blank rewards: **perspicacious**/**sagacious** fit sentences about insight or foresight for its own sake, while **astute**/**shrewd**/**canny** need a payoff — a deal, an angle, an advantage — in the clause; and **acumen**, the lone noun, is usually given away by the modifier before it.",
+  "words": [
+    {
+      "word": "astute",
+      "nuance": "The angle-spotter: sees the opportunity in a situation and moves on it first. It is the polite word for a talent that, described unkindly, would be called cunning — and it attaches naturally to negotiators and politicians, where finding the advantage is the job."
+    },
+    {
+      "word": "shrewd",
+      "nuance": "The emphasis is defensive and valuational — you can't be fooled and you know what things are actually worth. It's the one that survives dislike: you can call an opponent shrewd through gritted teeth, because it credits effectiveness without crediting character."
+    },
+    {
+      "word": "canny",
+      "nuance": "Caution, not flair. Its person is hard to cheat and never overpays — the low, steady competence of knowing when to walk away. Note the ceiling: canny is careful, never dazzling, and it leans hardest of the group toward money and bargaining."
+    },
+    {
+      "word": "perspicacious",
+      "nuance": "The only one with no whiff of self-interest: it sees *through* people rather than profits from them. Formal and cerebral — penetration of motive, the kind of insight you attribute to a critic or a novelist, not to someone closing a deal."
+    },
+    {
+      "word": "sagacious",
+      "nuance": "Alone in the group, it points forward: judgment vindicated by how things turned out. You apply it retrospectively to a decision that looked unremarkable at the time, and it carries a grand, elder-statesman dignity none of the others have."
+    },
+    {
+      "word": "acumen",
+      "nuance": "The noun, and the one that must be domain-bound — *business*, *political*, *financial* acumen. It names the capacity as a possession someone has in one arena and may entirely lack in another, which is why a brilliant scholar can have none of it."
+    }
+  ]
 }

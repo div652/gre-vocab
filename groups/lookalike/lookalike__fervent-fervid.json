@@ -8,5 +8,21 @@
     "florid"
   ],
   "similarity": 0.64,
-  "auto": true
+  "auto": true,
+  "core": "Three formal adjectives that look and sound nearly identical and all suggest something running hot or overflowing. The first two are true siblings from the Latin for *boil* and differ only in temperature and in whether the speaker approves; the third comes from *flower* and only borrows the family resemblance — its \"heat\" is a flushed face or a surface piled with ornament. The trap is that all three can be dropped into a sentence about an overheated speech and sound plausible, even though one describes the feeling, one judges the feeling, and one describes only the wrapping.",
+  "exam_note": "The GRE builds sentences about overheated rhetoric where all three fit the slot: check whether the blank judges the sincerity of the feeling (fervent/fervid) or the ornamentation of the delivery (florid) — and whether the surrounding tone approves.",
+  "words": [
+    {
+      "word": "fervent",
+      "nuance": "The only one of the three you would apply to yourself — the speaker endorses the heat and calls it sincerity. It attaches to quiet inward states (hope, prayer, belief, admiration) rather than to displays, and it makes no claim at all about how the feeling is expressed."
+    },
+    {
+      "word": "fervid",
+      "nuance": "The same boiling heat, but measured from the outside by someone cooler than the person described — a literary word that hints the passion has outrun judgment. The excess sits in the feeling itself, not in the wording; a fervid denunciation can be plainly phrased and still too hot."
+    },
+    {
+      "word": "florid",
+      "nuance": "Says nothing about what the person feels — only about the surface: prose choked with flourishes, or a face red from drink, heat, or blood pressure. A florid orator may be entirely cold inside; the fault is decoration crowding out sense, and the word is never a compliment."
+    }
+  ]
 }

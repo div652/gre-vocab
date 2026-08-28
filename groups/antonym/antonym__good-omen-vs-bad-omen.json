@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__good-omen-vs-bad-omen",
+  "title": "Omens: Signs of Good vs. Signs of Bad",
+  "seed_words": [
+    "auspicious",
+    "propitious",
+    "providential",
+    "boon",
+    "ominous",
+    "portend",
+    "presage",
+    "forebode",
+    "harbinger"
+  ],
+  "hallucinated": null,
+  "core": "Every word here lives in the gap between the sign and the thing signified. Nothing has happened yet: there is a condition, a silence, a first robin, a cloud — and it points forward to an outcome that is still pending. The group splits on the direction the sign points, and then again on what part of the scene each word grabs: the occasion, the conditions, the timing, the benefit itself, the atmosphere, the act of signalling, or the messenger. Get the direction right and you still have to get the part right.",
+  "words": [
+    {
+      "word": "auspicious",
+      "nuance": "Attaches to the **occasion** — a debut, an opening, a wedding day, a first quarter. Ceremonial enough that it turns up in speeches, which is exactly why its sharpest use is negated: *\"not an auspicious start\"* is a polite knife. Where propitious sizes up conditions for acting, **auspicious** blesses the event that has just begun."
+    },
+    {
+      "word": "propitious",
+      "nuance": "The go/no-go word. It grades the **conditions for an attempt not yet made** — the moment, the weather, the market, the tide — and its natural sentence is *\"the time is propitious for X.\"* **Propitious** answers \"should we move?\"; auspicious answers \"how does this look?\""
+    },
+    {
+      "word": "providential",
+      "nuance": "The only positive here that looks **backward**: the lucky thing already happened, and it happened at the exact right instant, as if arranged. Not a forecast at all — a verdict, warm and faintly theological. The rain that stopped the fire was **providential**; it was never propitious."
+    },
+    {
+      "word": "boon",
+      "nuance": "A noun, and it names the **benefit itself**, not the sign of one. It arrives from outside — a subsidy, a mild winter, a patron — so *\"a boon to farmers\"* works and *\"a boon I earned\"* does not. Deliberately paired with **bane** in headline prose."
+    },
+    {
+      "word": "ominous",
+      "nuance": "The atmosphere word: it describes how a scene **feels**, and it needs no object. A silence, a pause, a 3am ring is just *ominous* — full stop — whereas portend and presage must portend or presage *something*. Dread without a named consequence."
+    },
+    {
+      "word": "portend",
+      "nuance": "The public, news-anchor verb. Things portend — sales figures, troop movements, a cough — and what they portend is **large and consequential**: collapse, war, recession. Strictly it can point either way, but *\"portends a lovely afternoon\"* reads as a joke."
+    },
+    {
+      "word": "presage",
+      "nuance": "Portend's **literary twin**, gloomier and more elegiac, and the only one of these verbs that is also a noun — the omen, or the foreboding it produces (*\"a presage of disaster\"*). Where portend belongs to the bulletin, **presage** belongs to red skies and falling houses."
+    },
+    {
+      "word": "forebode",
+      "nuance": "The one word here that **cannot** point at good news; the dread is inside the verb, no adjective required. It's also the only one that takes a **person** as subject — you can forebode disaster in your own gut. In practice the GRE shows you **foreboding**, noun or adjective, not the bare verb."
+    },
+    {
+      "word": "harbinger",
+      "nuance": "A noun for the **messenger**, and it can be a person or a first instance — the forerunner that arrives ahead of the thing. Officially neutral (*harbinger of spring*), but its habitual company is doom and decline, so it's the one word here that flips direction cleanly if the sentence tells it to."
+    }
+  ],
+  "exam_note": "The trap is picking the outcome word over the omen word — *fortunate*, *successful*, *disastrous* describe results, but every blank in this group describes the sign; watch too for litotes (*not inauspicious*), which flips the whole sentence."
+}

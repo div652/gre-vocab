@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__going-without-to-forswearing",
+  "title": "Going Without to Forswearing",
+  "seed_words": [
+    "forgo",
+    "eschew",
+    "renounce",
+    "repudiate",
+    "abjure"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "forgo",
+      "nuance": "The only one that can be a single occasion with no principle behind it: you **forgo** this bonus, this dessert, this round — and take it next time without contradiction. The object is a concrete benefit you were entitled to, the decision is private, and it commits you to nothing going forward."
+    },
+    {
+      "word": "eschew",
+      "nuance": "Upgrades a one-time pass into a standing policy. **Eschew** takes a category, not an instance — violence, jargon, luxury, meat — and implies a taste or discipline you keep to as a rule. Still no audience: you can eschew something your whole life and never announce it."
+    },
+    {
+      "word": "renounce",
+      "nuance": "The first word that needs witnesses. **Renounce** is the speech act itself doing the work — the throne, the faith, the claim is yours until you declare it isn't. It gives up something you actually held, at a cost you accept on purpose, but it leaves the thing intact and simply walks away from it."
+    },
+    {
+      "word": "repudiate",
+      "nuance": "Adds hostility and denial of validity. You don't step away from what you **repudiate**, you declare it was never binding — the treaty, the debt, the ally, your own earlier statement. Renounce relinquishes; repudiate disowns, and often insults in the process."
+    },
+    {
+      "word": "abjure",
+      "nuance": "Adds oath and ceremony, and usually a coercer. **Abjure** is renunciation in prescribed form before an authority — the heretic before the tribunal, the new citizen at the swearing-in — so the words bind you afterwards. The trace of pressure is the giveaway: someone required this of you."
+    }
+  ],
+  "core": "All five describe giving up or turning away from something you had, held, or could have had — by choice, not by loss. What separates them is how much apparatus the act requires: whether it is a one-off or a rule, private or on the record, a quiet walking-away or a hostile disowning, freely done or extracted under oath. Move down the list and you add audience, permanence, and consequence.",
+  "exam_note": "The trap is at the seams: if the sentence gives no audience or ceremony, the top three are all wrong (a private decision can't be renounced, repudiated, or abjured), and if it describes an ongoing principle rather than one occasion, *forgo* is wrong — also watch the *forgo*/*forego* (to precede) homophone."
+}

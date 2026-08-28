@@ -8,5 +8,25 @@
     "dictate",
     "suppress"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe getting an outcome without agreement. Someone's will, voice, or choice is overridden — by threat, by authority, or by a hand held down on top of it — and the result stands anyway. The confusion is that they carve up the same scene from different angles: the pressure applied, the state of the person under it, the terms handed down, and the thing that never got to surface.",
+  "words": [
+    {
+      "word": "coercion",
+      "nuance": "**Coercion** names the *technique*, viewed from the side of whoever applies it — the threat or leverage aimed at a decision. It's the accusation you make against an actor (a state, an employer, an interrogator), and it's the only one of these that political theory uses neutrally as a technical category of power."
+    },
+    {
+      "word": "duress",
+      "nuance": "**Duress** is the same event seen from the victim's chair, and it exists to excuse: \"under duress\" means *don't hold this act against me, my consent was manufactured*. Where coercion indicts the pressurer, duress exculpates the pressured — which is why it's the word that voids the contract."
+    },
+    {
+      "word": "dictate",
+      "nuance": "**Dictate** involves no threat and no fear — just one-way flow from a position of authority: terms are handed down, not extracted. It also has a coolly impersonal use with no person in charge at all (*the budget dictates the timeline*), where it flattens to \"determines, leaves no choice.\""
+    },
+    {
+      "word": "suppress",
+      "nuance": "**Suppress** takes as its object not a person's choice but a thing trying to surface — a revolt, a report, a laugh, a memory. The force comes from above and must *stay* applied; lift it and the thing springs back, which is why nothing is destroyed, only pinned."
+    }
+  ],
+  "exam_note": "The classic trap is coercion/duress on the same fact pattern — pick by whose perspective the sentence takes (the one applying pressure vs. the one excused by it); and remember *dictate* can be bloodless and agentless, so a neutral sentence about constraints still wants it."
 }

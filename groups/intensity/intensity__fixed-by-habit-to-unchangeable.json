@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__fixed-by-habit-to-unchangeable",
+  "title": "Fixed by Habit to Unchangeable",
+  "seed_words": [
+    "ingrained",
+    "entrenched",
+    "hidebound",
+    "immutable"
+  ],
+  "hallucinated": null,
+  "core": "All four say a thing is stuck. What differs is *why* it won't move: because repetition wore it in, because it has dug itself a defensive position, because whoever holds it refuses to bend, or because its own nature forbids change. They also differ in what they attach to — a habit, an interest, an institution, a law — and in how much blame the speaker is assigning. Read as a scale, they run from \"hard to scrub out\" to \"cannot be altered by anyone.\"",
+  "words": [
+    {
+      "word": "ingrained",
+      "nuance": "The only one whose fixity comes from **repetition over time** — it was worked in, grain by grain, and could in principle be worked back out with enough effort. It attaches to habits, reflexes, and prejudices held by a person, and it's the one word here that also works literally, of dirt in a floorboard."
+    },
+    {
+      "word": "entrenched",
+      "nuance": "Fixity as a **defended position**: something (or someone) has dug in and will resist pressure applied against it. It attaches to interests, incumbents, poverty, corruption — things with stakes to protect — and it's the only word here that can be deliberate and benign, as when a constitution entrenches a right precisely to armour it against amendment."
+    },
+    {
+      "word": "hidebound",
+      "nuance": "The only **insult** in the group, and the only one about attitude rather than about the thing itself: the rules are followed because they were inherited, with no thought given. It targets institutions — a faculty, an army, a bureaucracy — and implies the world has moved on without them. An entrenched interest knows exactly what it is protecting; a **hidebound** one no longer remembers why."
+    },
+    {
+      "word": "immutable",
+      "nuance": "Fixity by **nature, not by force** — nothing is holding it in place, because nothing could change it: physical law, the past, death, the terms of a sealed contract. The others describe stubbornness that could theoretically be overcome; **immutable** denies the possibility outright, which is why it so often appears in scare quotes when someone's claim of permanence turns out to be false."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable degrees: the exam keys on collocation and blame — social ills are *entrenched*, personal habits *ingrained*, institutions *hidebound*, laws of nature *immutable* — so a sentence about a stubborn committee wants **hidebound**, never **immutable**."
+}

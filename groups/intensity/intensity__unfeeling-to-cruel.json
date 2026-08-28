@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__unfeeling-to-cruel",
+  "title": "Unfeeling to cruel: callous → malevolent → sadistic",
+  "seed_words": [
+    "callous",
+    "malevolent",
+    "sadistic"
+  ],
+  "hallucinated": null,
+  "core": "All three describe a person whose relationship to someone else's pain has gone wrong, and all three get lazily glossed as \"cruel.\" The scale runs from absence to appetite: first the failure to feel anything, then the wish that harm come to you, then the relish when it does. What separates them is not how bad the person is but *where the badness sits* — in a missing reaction, in a standing disposition, or in the pleasure taken.",
+  "words": [
+    {
+      "word": "callous",
+      "nuance": "The only one of the three with **no ill will in it at all** — the fault is a blank where sympathy was owed, not a wish for harm. It also uniquely carries the sense of *having been worn down* (the etymology is a callus), so it fits professionals hardened by exposure, and it lands comfortably on a single remark or decision rather than requiring a whole character."
+    },
+    {
+      "word": "malevolent",
+      "nuance": "Here the harm is **wanted** — but possibly never done. This is the word for a disposition that may sit entirely unexecuted: a stare, a silence, a presence can be malevolent because it needs no hands, only intent. Formal and totalizing, it indicts a nature; use *malicious* when you mean one specific act."
+    },
+    {
+      "word": "sadistic",
+      "nuance": "Requires a **victim actually suffering and a perpetrator enjoying it** — the pain is not a means, it is the payoff. Where the malevolent person could be satisfied by your ruin arriving in the mail, this one has to watch. Its clinical weight makes it courtroom vocabulary, which is exactly why the hyperbolic use (a sadistic exam schedule) reads as a joke."
+    }
+  ],
+  "exam_note": "The GRE's favorite trap is treating **callous** as a synonym for cruelty — it will offer it for a passage about indifference or neglect, where the correct reading is that no one intended harm at all; conversely **malevolent** and **sadistic** both require intent, and only **sadistic** requires that the suffering be enjoyed."
+}

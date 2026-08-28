@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__signs-of-what-s-coming-always-bad",
+  "title": "Omens and Impendings: the sign, not the event",
+  "seed_words": [
+    "portend",
+    "presage",
+    "forebode",
+    "ominous",
+    "harbinger",
+    "imminent"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "portend",
+      "nuance": "The plain workhorse verb of the group — what a *thing* does when it warns of a specific named outcome (\"the deficit portends a recession\"). Strictly it is direction-neutral, so a golden age can be portended; unlike **forebode**, the dread is borrowed from context rather than built into the word."
+    },
+    {
+      "word": "presage",
+      "nuance": "Same verb slot as **portend** but in a higher literary register, and the only one here that also works as a noun for the foreboding itself — a presage is both the omen and the chill it gives you. Where **portend** suits an analyst's report, this suits a red sky and a novel."
+    },
+    {
+      "word": "forebode",
+      "nuance": "The only member that cannot be pointed at good news: the dread is in the verb, so no darkening adjective is needed. It is also the only one that lets a *person* be the subject — you can forebode disaster (feel it coming), while a cough merely portends it. The bare verb is near-dead; the GRE will show you *foreboding*."
+    },
+    {
+      "word": "ominous",
+      "nuance": "The adjective, and the one that names atmosphere rather than a link — an **ominous** pause tells you dread is in the air without specifying what is coming, whereas *portend* and *presage* require an object to point at. It also marks the gap before harm: a growl is threatening, the silence before it is ominous."
+    },
+    {
+      "word": "harbinger",
+      "nuance": "The only noun for the sign-bearer, and the only one that can be a *person* going ahead to announce. Its dictionary sense is genuinely neutral — the first robin is a harbinger of spring — but its habitual company (*doom*, *decline*, *recession*) makes readers brace. Never the event, only its advance notice."
+    },
+    {
+      "word": "imminent",
+      "nuance": "The intruder: it says nothing about signs at all, only that the event itself is about to land. A **harbinger** may announce something years off; something imminent arrives within the hour. It leans dark by habit, not by meaning, and it modifies the disaster — never the cloud that hinted at it."
+    }
+  ],
+  "core": "These all live in the gap between a warning and the harm — the moment when nothing has happened yet but something is clearly on its way. English usage has darkened nearly all of them, so that pointing any of them at good news reads as a joke even when the dictionary permits it. What separates them is grammar and grip: which are verbs for the sign, which is the adjective, which is the noun for the sign-bearer, and which is not about signs at all but about how soon the thing lands.",
+  "exam_note": "The exam's favourite trap is the sentence that supplies a *positive* outcome — the blank still takes **portend** or **harbinger** (both technically neutral) but never **forebode**; the second trap swaps a signalling verb for **imminent**, which describes the event's nearness, not any warning of it."
+}

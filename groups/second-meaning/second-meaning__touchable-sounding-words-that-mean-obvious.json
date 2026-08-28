@@ -1,0 +1,27 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__touchable-sounding-words-that-mean-obvious",
+  "title": "Patent, Manifest, Palpable: Obvious Wearing Another Coat",
+  "seed_words": [
+    "patent",
+    "manifest",
+    "palpable"
+  ],
+  "hallucinated": null,
+  "core": "All three mean *obvious* — not needing proof, argument, or a second look — and all three arrive at that meaning through a more concrete sense the reader is likelier to know first: a legal grant, a cargo list, a thing you can touch. That extra baggage is exactly what separates them. One is used to call out a falsehood, one is the institutional word for something coming plainly into view, and one measures how hard a thing presses on you rather than how easily it is seen.",
+  "words": [
+    {
+      "word": "patent",
+      "nuance": "Keeps bad company: **patent** overwhelmingly attaches to falsehood and absurdity — a patent lie, patent nonsense, patently unfair. It carries an accusation, that someone tried to pass off the indefensible and the speaker is not having it. Nobody calls a kindness patent."
+    },
+    {
+      "word": "manifest",
+      "nuance": "The institutional, unaccusing one — the word a judge, doctor, or diplomat uses (*manifest error*, *manifest injustice*). Alone in the group it has a live verb, and that verb sets its direction: something latent — a disease, a talent, a grudge — surfaces into view. It reports what has become visible; it doesn't charge anyone with lying about it."
+    },
+    {
+      "word": "palpable",
+      "nuance": "Grades intensity, not visibility. It attaches to atmospheres and collective moods — palpable tension, palpable relief in a courtroom or a crowd — things that press on a room rather than facts that can be established. Its literal sense is still alive in medicine (*a palpable mass*), which the others have no equivalent of."
+    }
+  ],
+  "exam_note": "The exam hides the adjective behind the famous noun — a sentence about inventions or ship cargo where **patent**/**manifest** must mean \"obvious\" instead — and offers **palpable** for a plain fact, where it needs a felt atmosphere."
+}

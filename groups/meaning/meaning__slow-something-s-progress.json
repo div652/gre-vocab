@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__slow-something-s-progress",
-  "title": "Slow something's progress",
+  "title": "Slow it down, don't stop it",
   "seed_words": [
     "hamper",
     "hinder",
     "impede",
     "impediment"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe interference that makes an action slower, harder, or clumsier without ever making it impossible — the thing still limps forward. The obstruction is typically impersonal and incidental (weather, paperwork, an injury, missing data) rather than deliberate sabotage. Because they overlap so heavily in meaning, they separate mostly by texture: friction beside you, weight on you, or a body in the path. Three are verbs; one is the noun that names the obstruction itself.",
+  "words": [
+    {
+      "word": "hinder",
+      "nuance": "The plainest and mildest of the set — the everyday Anglo-Saxon default, with no image behind it and no formality to it. It attaches naturally to forward motion (**hinder** progress, growth, recovery) and is the only one that reads comfortably in the negative: *nothing hindered them*. If a sentence wants generic friction with no particular flavor, this is the word."
+    },
+    {
+      "word": "hamper",
+      "nuance": "Adds **weight and encumbrance**: the subject is loaded down and working at reduced capacity, not blocked. It runs to the passive almost by reflex — *hampered by* fog, budget cuts, a torn hamstring — and what hampers clings to the actor rather than standing in the way. Watch the trap noun: a large lidded basket, which the exam will offer as a decoy definition."
+    },
+    {
+      "word": "impede",
+      "nuance": "Something is literally **in the path** (Latin: feet shackled). Unlike the others, it takes flow and passage as objects — impeded visibility, blood flow, traffic, drainage — where *hinder* and *hamper* would sound odd. Slightly more formal and more clinical, and it presumes no ill will: you impede by happening to occupy the space."
+    },
+    {
+      "word": "impediment",
+      "nuance": "The noun, and the only member that names the obstruction rather than the act. It labels a **standing condition** rather than a passing event — a speech impediment, a legal impediment to marriage, an impediment to trade — and it carries the most formal register here. Impediments are *removed* or *overcome*, never smashed through."
+    }
+  ],
+  "exam_note": "The distractors are usually true-stop words — thwart, foil, preclude, stymie — so pick from this group only when the action is still happening; among themselves, let the frame decide: \"___ by\" wants **hamper**, a flow or passage wants **impede**, a noun slot wants **impediment**."
 }

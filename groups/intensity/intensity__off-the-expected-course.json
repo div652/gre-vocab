@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__off-the-expected-course",
+  "title": "Off the expected course",
+  "seed_words": [
+    "divergent",
+    "anomalous",
+    "aberrant"
+  ],
+  "hallucinated": null,
+  "core": "All three say a thing has left the path it was supposed to follow, and all three are the formal, analytic way to say it rather than the casual *weird* or *odd*. The difference is what supplies the path — a shared starting point, a predictive model, or a norm of proper functioning — and how much blame attaches to leaving it. They run from pure geometry to pure diagnosis: measuring an angle, flagging a misfit, reporting a failure.",
+  "words": [
+    {
+      "word": "divergent",
+      "nuance": "The only one requiring a **common origin** — things must have started together to diverge, and the gap widens with distance. It attaches to paths, opinions, series, and evolutionary lines, never to a single freak reading. No standard is being violated; there is no \"correct\" branch."
+    },
+    {
+      "word": "anomalous",
+      "nuance": "Judged against a **model or prediction**, not an origin and not a norm of health. It says only *the data point does not fit* — deliberately withholding whether that means instrument error, noise, or a Nobel. A scientist reaches for it precisely because it commits to nothing."
+    },
+    {
+      "word": "aberrant",
+      "nuance": "The one that **assigns fault**. It measures against a proper course and reports failure, so it collocates with cells, behaviour, and conduct — things that can go wrong, not merely differ. Calling a reading aberrant already implies someone should explain and fix it."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps swap **anomalous** for **aberrant**: check whether the sentence merely flags a misfit or already condemns it — and reject **divergent** wherever no shared starting point exists."
+}

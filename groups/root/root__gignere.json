@@ -7,5 +7,21 @@
     "engender",
     "ingenuous"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three descend from *gignere* — to beget, to be born — and each keeps a different piece of that birth. One is about what gets brought into being; two are about the nature something was *born with*: a temperament born alongside yours, or an openness you were born with and never trained out of. What makes them confusable is not their meanings, which barely overlap, but their shared shell: three formal, bookish -gen- words, each a near-twin of a more common word it does not mean.",
+  "words": [
+    {
+      "word": "congenial",
+      "nuance": "The only one of the three that is **relational** — it rates a fit between two things, not a quality of one. Nothing is congenial in the abstract; it is congenial *to you*, which is why a gloomy person can be congenial company for another gloomy person. Not **congenital** (present from birth, usually a defect), and not quite *genial* (simply warm, no fit required)."
+    },
+    {
+      "word": "engender",
+      "nuance": "The only **verb**, and the only one still doing the literal work of the root — bringing something into being. Its object is abstract, almost always a feeling or condition: resentment, trust, debate, unease. *Cause* is blunt and *create* is deliberate; **engender** implies the thing arose out of a situation, often as a side-effect nobody aimed at."
+    },
+    {
+      "word": "ingenuous",
+      "nuance": "Describes a **person's disposition**, specifically one never acquired — frankness by default rather than by decision. That inbornness separates it from *candid*, which is a choice made under pressure, and it is what gives the word its faint condescension: the speaker is charmed and also quietly braced for this person to be taken advantage of. Not **ingenious** (clever); its negative *disingenuous* means feigning exactly this innocence."
+    }
+  ],
+  "exam_note": "The trap here is orthographic, not semantic: ingenuous/ingenious and congenial/congenital differ by a letter or two and by everything else — read the stem twice before you read the sentence."
 }

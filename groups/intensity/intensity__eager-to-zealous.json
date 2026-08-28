@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__eager-to-zealous",
+  "title": "Eager to zealous: from appetite to mission",
+  "seed_words": [
+    "avid",
+    "ardent",
+    "fervent",
+    "fervid",
+    "zealous"
+  ],
+  "hallucinated": null,
+  "core": "All five describe wanting or believing at high temperature — enthusiasm strong enough to organize how someone spends their time. The scale runs from a settled appetite, through admirable burning devotion, to devotion that has passed the point where a cool observer stays comfortable. What separates them is not how much feeling there is but who is measuring it: some are the words a fan uses about himself, others are the words a bystander uses about him. Watch also what each attaches to — a hobby, a person, a private hope, a cause.",
+  "exam_note": "The classic trap is fervent/fervid, near-twins where only fervid carries the wince — and **avid** followed by *for*, which quietly means greedy, not fond.",
+  "words": [
+    {
+      "word": "avid",
+      "nuance": "The only one on this scale that isn't heat — it's **appetite**, and the coolest temperature here. It's also the only one that can label a hobbyist (an *avid* birder, an *avid* reader); no one is a fervid birder. Watch the preposition: *avid for* power flips the warmth to hunger."
+    },
+    {
+      "word": "ardent",
+      "nuance": "The flattering word, and the only one at home in romance — an **ardent** suitor, an **ardent** admirer. The heat points *toward* an object of devotion, never *at* an enemy in anger, and the writer who picks it is endorsing the person. Where *avid* attaches to a pastime, **ardent** attaches to a beloved or a cause you'd defend."
+    },
+    {
+      "word": "fervent",
+      "nuance": "Turns the heat **inward and private** — a fervent hope, prayer, wish, belief. It vouches for sincerity rather than display, so it's the one word here you'd apply to your own convictions without embarrassment. **Ardent** is visible devotion; **fervent** is felt depth."
+    },
+    {
+      "word": "fervid",
+      "nuance": "Same root as *fervent*, opposite politics: the speaker has **stepped back and cooled off**. Literary and faintly disapproving, it reports intensity from the outside — a *fervid* nationalist, a *fervid* denunciation — hinting the feeling boiled past good sense. If a passage uses **fervid**, the narrator is not on the enthusiast's side."
+    },
+    {
+      "word": "zealous",
+      "nuance": "The only one that requires a **cause being served and work being done** — it measures tireless action, not temperature of feeling. You can be fervent lying still; you cannot be zealous. It sits one notch under *fanatical*: praising a **zealous** prosecutor concedes he may be overdoing it."
+    }
+  ]
+}

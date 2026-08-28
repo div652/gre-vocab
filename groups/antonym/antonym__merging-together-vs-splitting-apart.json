@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__merging-together-vs-splitting-apart",
+  "title": "Merging into one vs. splitting apart",
+  "seed_words": [
+    "amalgamate",
+    "coalesce",
+    "subsume",
+    "cluster",
+    "polarize",
+    "schism",
+    "factious",
+    "sever",
+    "disperse",
+    "dichotomy"
+  ],
+  "hallucinated": null,
+  "core": "All of these track what happens to the boundaries between things: either separate parts lose their edges and become one, or one body develops edges and comes apart. The interesting question is never direction alone but mechanism — is there an agent doing the joining or does it happen on its own, are the parts equals or is one filed under the other, and when something breaks, does it leave two rival bodies, two hostile moods, or nothing at all. Several of these also live outside the human-conflict frame entirely, describing where objects sit or how categories are drawn.",
+  "words": [
+    {
+      "word": "amalgamate",
+      "nuance": "Deliberate and transitive: somebody with authority does it, and the result is one new entity where there were two peers. **Amalgamate** takes equals (two banks, two unions) and issues a single name; it never files one thing under another the way *subsume* does, and it never happens by itself the way *coalesce* does."
+    },
+    {
+      "word": "coalesce",
+      "nuance": "The agentless one. Nothing directs it — droplets, factions and half-formed ideas **coalesce** on their own, gradually, and \"the chairman coalesced the reports\" is simply ungrammatical. It's also the only merging word here that works equally on physical matter and on inchoate mental things."
+    },
+    {
+      "word": "subsume",
+      "nuance": "The only merger between unequals, and the only one that is really an act of classification. The larger category already exists and the smaller thing keeps existing inside it as an instance — **subsumed**, not dissolved. Its habitat is the org chart and the philosophy paper, not the press release."
+    },
+    {
+      "word": "cluster",
+      "nuance": "The weakest join on the list: nothing fuses, nothing is absorbed, the items stay separately countable. **Cluster** reports only that things sit close together in space, time or data, and pointedly declines to say why — which is exactly why epidemiologists and astronomers use it."
+    },
+    {
+      "word": "polarize",
+      "nuance": "A split in *attitude*, not in structure — no organization needs to break for a public to **polarize**. Its signature is the vanishing middle: not two groups disagreeing but everyone dragged to one pole or the other, so lukewarm ceases to be an available position."
+    },
+    {
+      "word": "schism",
+      "nuance": "The completed institutional fracture, and the noun for its result: one body becomes two, each claiming to be the real one. Where *polarize* changes how people feel, a **schism** changes how many organizations exist — and the word's ecclesiastical shadow means the quarrel is framed as doctrine and orthodoxy, not tactics."
+    },
+    {
+      "word": "factious",
+      "nuance": "The adjective for the *tendency*, present long before any split is finalized — a cabinet can be **factious** for years without ever suffering a schism. It is also a verdict rather than a description: to use it is to side with the whole and accuse the sub-group of self-interest."
+    },
+    {
+      "word": "sever",
+      "nuance": "Not a group fragmenting but a single link cut, between exactly two parties — ties, cables, relations, an artery. **Sever** contributes finality rather than multiplicity: after it there are no rival camps, just two ends with nothing between them."
+    },
+    {
+      "word": "disperse",
+      "nuance": "Breaking apart with no opposition in it. Nothing divides into sides; the concentration simply thins until the gathering has stopped existing. Unlike **distribute**, no one chooses where the pieces land — which is why the pieces are smoke, pollen and crowds told to move along."
+    },
+    {
+      "word": "dichotomy",
+      "nuance": "A split in *concepts*, not in people or matter — mind/body, nature/nurture — and a static noun for a framing rather than a verb for an event. **Dichotomy** claims the two halves are exhaustive and mutually exclusive, and writers usually deploy it just before demonstrating that they aren't."
+    }
+  ],
+  "exam_note": "The exam rarely tests direction alone — it tests mechanism, so the trap is choosing a word that joins or splits the right way but with the wrong agency (coalesce vs. amalgamate), the wrong hierarchy (amalgamate vs. subsume), or the wrong casualty: two rival bodies (schism), two hostile moods (polarize), or nothing left standing at all (disperse)."
+}

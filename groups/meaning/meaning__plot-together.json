@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__plot-together",
-  "title": "Plot together",
+  "title": "Plotting together",
   "seed_words": [
     "collude",
     "conspire",
@@ -9,5 +9,29 @@
     "intrigue",
     "collaborate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe people acting together on something they would rather not be seen doing: joint action plus concealment plus, usually, someone outside the arrangement who gets hurt by it. They differ on the shape of the partnership — equal partners in a plan, rivals with a quiet understanding, or a principal and the helper who eggs him on. They also differ on where the wrongdoing comes from: some carry it in the word itself, while others are perfectly innocent until the context (a war, a court, an occupied city) turns them.",
+  "words": [
+    {
+      "word": "collude",
+      "nuance": "The damning part is *who* the parties are: people who are supposed to be at arm's length — two bidders, an auditor and his client, a referee and a team. No plan and no meeting is required, only a shared understanding, which is why regulators and antitrust lawyers reach for it; the agreement itself is the offence."
+    },
+    {
+      "word": "conspire",
+      "nuance": "Needs an actual plot with a target — accomplices, an object, and a plan of attack — and the agreeing is itself the crime, chargeable before anyone acts. It is also the only word here that takes inanimate subjects: *the weather and the traffic conspired against us*, half-joking fatalism about a world that seems organised against you."
+    },
+    {
+      "word": "abet",
+      "nuance": "Asymmetric where the others are mutual: there is one wrongdoer and you are the second fiddle who supplies the push, the cover, or the nerve. You abet a *person*, not a plan, and the word is welded to wrongdoing — there is no innocent abetting, which is why it survives mostly inside the courtroom formula *aid and abet*."
+    },
+    {
+      "word": "intrigue",
+      "nuance": "Names scheming as an atmosphere rather than a single act — a court, a cabinet, a boardroom can be full of intrigue with no one crime to point at. It is also the only word here whose commonest sense is flattering (*the offer intrigued her*); in the plotting sense it typically takes *against*: he intrigued against the king."
+    },
+    {
+      "word": "collaborate",
+      "nuance": "Neutral-to-praiseworthy by default — a paper, an album — and it turns sinister only when the partner is an occupying enemy and the betrayed party is your own country. The guilt is imported entirely by context, and *collaborator* carries the stain more heavily than the verb does."
+    }
+  ],
+  "exam_note": "The GRE reaches for the buried sense — *collaborate* as treason, *intrigue* as plot — and tests collude vs. conspire on whether a plan existed: colluders need only an understanding between supposed rivals, conspirators need a scheme and a victim."
 }

@@ -8,5 +8,25 @@
     "placid",
     "quiescent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four mean nothing is stirring — no ripple, no agitation, no disturbance. What separates them is *what* is undisturbed and how the writer feels about it: a visible face or sky, a whole setting, a surface that nothing can ruffle, or a process that has simply stopped for now. Approval is not shared either — one is admiring, one is warm, one is double-edged, one is coolly indifferent. And only one of them implies the calm is temporary.",
+  "words": [
+    {
+      "word": "serene",
+      "nuance": "The only one with dignity — calm that is *displayed*, unclouded and faintly luminous, which is why it survives in **Your Serene Highness**. It's also the group's word for composure held while things go badly: a serene face in a collapsing room. Nobody is ever serene by accident."
+    },
+    {
+      "word": "tranquil",
+      "nuance": "The scene-setter: it attaches to places and moments — a village, a lake at dusk, an afternoon — far more readily than to a person under strain. It implies nothing ever disturbed the thing, so it can't describe calm recovered after an upset, and it is always warm and approving."
+    },
+    {
+      "word": "placid",
+      "nuance": "The only one that can be an insult. It describes a surface nothing ruffles — water, a face, a disposition — with no claim about inner life, so unflappable slides straight into unexcitable, incurious, bovine. If the sentence sounds faintly condescending about a person, this is the word."
+    },
+    {
+      "word": "quiescent",
+      "nuance": "Not a mood at all — it rates *activity*, not feeling, and can take a volcano, a tumour, a market, a feud. Uniquely it means paused rather than peaceful: the thing is expected back. Clinical and cold; a quiescent disease is nobody's idyll."
+    }
+  ],
+  "exam_note": "Sentence equivalence loves pairing these as if interchangeable — decide on the noun (a place → tranquil, a process that will resume → quiescent) and the writer's attitude (admiring → serene, faintly dismissive → placid)."
 }

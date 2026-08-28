@@ -8,5 +8,25 @@
     "obstreperous",
     "boisterous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe noise that a bystander can't tune out — sustained, unruly, socially disruptive volume rather than a single loud sound. What separates them is what the noise is *for*: pressing a demand, voicing an objection, defying authority, or simply enjoying itself. Three of the four carry a hint of the speaker's disapproval; one is warm. Getting them right means asking who is making the noise, how many of them there are, and what they want.",
+  "words": [
+    {
+      "word": "clamorous",
+      "nuance": "**Clamorous** is plural by default — the din of *many* voices converging on one demand (a crowd at the gates, reporters on the courthouse steps). Alone among these it comfortably describes non-human noise (clamorous gulls, clamorous bells) and pure metaphor (clamorous demands for reform)."
+    },
+    {
+      "word": "vociferous",
+      "nuance": "**Vociferous** can be one person, and it is the most *content-bearing* of the four: it attaches to an argued position — vociferous critic, vociferous opposition, vociferous denial. The noise is the volume of an objection, not the roar of a mob."
+    },
+    {
+      "word": "obstreperous",
+      "nuance": "**Obstreperous** adds defiance to volume: not asking for something but refusing to be handled. It is spoken from above — teachers about children, judges about witnesses, crew about a passenger — and implies someone is trying, and failing, to impose order."
+    },
+    {
+      "word": "boisterous",
+      "nuance": "**Boisterous** noise has no grievance and no target: it's surplus energy, cheerful and physical, and the speaker is at most half-complaining. Only this word also runs to wind and sea (a boisterous crossing)."
+    }
+  ],
+  "exam_note": "The trap is tone and target: GRE contexts supply a cheerful scene (a wedding, a pub) where only **boisterous** fits, or a defiance-of-authority scene where **obstreperous** is right and **vociferous**/**clamorous** — which need something demanded or argued — are wrong."
 }

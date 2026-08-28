@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__shades-of-gloom",
+  "title": "Shades of gloom: pensive → wistful → glum → morose → lugubrious",
+  "seed_words": [
+    "pensive",
+    "wistful",
+    "glum",
+    "morose",
+    "lugubrious"
+  ],
+  "hallucinated": null,
+  "core": "All five describe a low, unhappy mood as it *appears from the outside* — on a face, in a silence, across a room. None of them names sharp grief or a specific loss; they name a settled weather system, something a person is *in* rather than something that just happened to them. What separates them is how heavy the gloom is, whether it is pleasant or sour, and whether other people are made to suffer it.",
+  "exam_note": "The trap is treating them as interchangeable slots on one dial: the exam keys on the *social* charge — wistful is fond, glum is trivial, morose blames, lugubrious mocks — so a sentence whose real signal is \"nobody could cheer him up\" wants morose, not glum, and a sentence whose signal is \"absurdly overdone\" wants lugubrious, not morose.",
+  "words": [
+    {
+      "word": "pensive",
+      "nuance": "The only one that isn't really sadness — it's **thought** with a grey tint, and the sadness is a byproduct of the thinking rather than the point. Uniquely, **pensive** is compatible with being perfectly fine; the others all mean something is wrong."
+    },
+    {
+      "word": "wistful",
+      "nuance": "The only pleasant member of the group: the sadness is aimed backward at something loved and lost, and the person half-enjoys the ache. **Wistful** requires an object — you are wistful *about* or *for* something — where glum and morose are just weather with no referent."
+    },
+    {
+      "word": "glum",
+      "nuance": "The lightweight, disposable one — cancelled plans, bad Monday, lost match — and the only one you'd expect to lift by dinner. **Glum** invites sympathy and a bit of jollying along, whereas morose repels it; the faint sulk is passive, not aggressive."
+    },
+    {
+      "word": "morose",
+      "nuance": "The gloom becomes other people's problem: sullen, unsociable, actively resistant to being cheered up. **Morose** is the only one that carries **blame** — it implies the person is choosing to be difficult, which is why it damns a character in a way glum never could."
+    },
+    {
+      "word": "lugubrious",
+      "nuance": "Judges the *display*, not the feeling — the drooping face and funeral-organ voice, laid on so thick it becomes funny. **Lugubrious** is literary and always spoken at a distance with a raised eyebrow, so it attaches happily to a waiter, a ballad or a basset hound; the others describe genuine interior states."
+    }
+  ]
+}

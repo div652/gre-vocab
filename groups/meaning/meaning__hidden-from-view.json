@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__hidden-from-view",
-  "title": "Hidden from view",
+  "title": "Hidden from view: the act, the manner, the motive",
   "seed_words": [
     "clandestine",
     "covert",
@@ -9,5 +9,29 @@
     "furtive",
     "ulterior"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe something deliberately kept out of open view, and all but one imply the concealer knows the open version wouldn't be tolerated. What actually separates them is **what** is being hidden and **at what scale**: a standing enterprise, a single quick act, a person's bearing, or a reason. Get the attachment point right and these stop overlapping almost entirely.",
+  "exam_note": "The GRE cues these by the noun, not the definition — operation/network vs. glance vs. motive — and plants **furtive** where someone was *observed*, since it's the only one that requires a witness.",
+  "words": [
+    {
+      "word": "covert",
+      "nuance": "The only neutral member, and the only one an institution uses about itself — sanctioned from above, professional, deniable by design. It also uniquely covers what is *unstated rather than unseen*: covert hostility is plainly felt across the table, it just never gets said."
+    },
+    {
+      "word": "clandestine",
+      "nuance": "Attaches to a standing enterprise with infrastructure — a cell, a lab, a network, a long-running affair — something that must stay hidden for months, not seconds. It's the outsider's word for what **covert** calls itself, and it names an organisation, never a moment or a mood."
+    },
+    {
+      "word": "surreptitious",
+      "nuance": "Scale is the tell: one small opportunistic act under cover of the moment — the phone checked under the table, the file dropped onto a USB stick. No organisation behind it, only a gap in someone's attention, and unlike *discreet* it implies you'd have been stopped."
+    },
+    {
+      "word": "furtive",
+      "nuance": "Describes bearing, not activity — the darted glance, the too-fast tab close. It's the only one that requires an observer: a furtive act is one you *can* see, which is why calling something furtive usually means the concealment already failed."
+    },
+    {
+      "word": "ulterior",
+      "nuance": "Conceals no act at all — only the real reason standing behind the reason you were offered. Welded to *motive*, and it charges hiding rather than wrongdoing: the aim may be perfectly harmless, and the word is a raised eyebrow you can deploy politely."
+    }
+  ]
 }

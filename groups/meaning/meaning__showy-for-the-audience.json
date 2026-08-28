@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__showy-for-the-audience",
-  "title": "Showy for the audience",
+  "title": "Showy — and whether anyone meant it",
   "seed_words": [
     "ostentatious",
     "flamboyant",
     "conspicuous",
     "florid"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something that draws the eye: display, colour, decoration, standing out. They split on two axes. First, intent — is the showiness deliberate, staged for an audience, or does the thing simply stick out? Second, what gets judged — the person's motive, their flair, or the surface of the object or style itself.",
+  "words": [
+    {
+      "word": "conspicuous",
+      "nuance": "The only one indifferent to intent: it reports visibility, not showmanship. A coffee stain, a lone red coat in a grey crowd, a missing guest — anything that fails to blend into its surroundings qualifies, and a *conspicuous* thing may be desperately trying not to be noticed."
+    },
+    {
+      "word": "ostentatious",
+      "nuance": "Convicts the motive, not the thing. It says the display exists to be admired — which is why it works on virtue as easily as money: **ostentatious** piety, grief, modesty. Call something this and you have accused someone of performing."
+    },
+    {
+      "word": "flamboyant",
+      "nuance": "The one you can be complimented with. It reads as flair owned and enjoyed — a conductor, a waistcoat, a signature — and it imputes no insincerity and no vulgarity, only theatre. The showiness entertains rather than solicits."
+    },
+    {
+      "word": "florid",
+      "nuance": "Attaches to surfaces and styles, not to people's behaviour: prose, music, ornament clotted with flourishes until the sense drowns. Uniquely in this group it also has a purely physical sense — a red, flushed complexion — with no display involved at all."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable \"showy\" synonyms: **conspicuous** needs no performer, **florid** needs no person, and only **flamboyant** can be praise."
 }

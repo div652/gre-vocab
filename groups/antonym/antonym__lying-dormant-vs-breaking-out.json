@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__lying-dormant-vs-breaking-out",
+  "title": "Lying dormant vs. breaking out",
+  "seed_words": [
+    "dormant",
+    "quiescent",
+    "abeyance",
+    "fallow",
+    "torpor",
+    "recrudescent",
+    "burgeon",
+    "proliferate",
+    "rampant"
+  ],
+  "hallucinated": null,
+  "core": "Every word here describes a capacity that is not currently being expressed — or has just stopped being contained. The first half names quiet that is not death: the thing still exists, and something could restart it. The second half names what happens when the brake comes off: the return, the growth, the spread. The distinctions live in the fine print — who imposed the pause, whether the quiet is restorative or degenerative, and whether the resurgence is a beginning, a return, or a failure of control.",
+  "words": [
+    {
+      "word": "dormant",
+      "nuance": "The unmarked, all-purpose word for the quiet side — no agent pressed pause, no promise of when it ends, and it attaches to anything: volcanoes, seeds, accounts, grudges. It says only that the sleeper is alive."
+    },
+    {
+      "word": "quiescent",
+      "nuance": "**Quiescent** describes the current phase of something already known to flare — the trough between bouts of a disease, a market, a fault line. You would not call a seed that has never sprouted quiescent; the word presumes a prior episode and expects the next one."
+    },
+    {
+      "word": "abeyance",
+      "nuance": "The only one here that requires **someone with authority**: a court, a board, a committee suspended it, and a named condition will lift it. It attaches to rights, claims, titles and rules — never to bodies or organisms — and comes prepackaged in *in abeyance* / *held in abeyance*."
+    },
+    {
+      "word": "fallow",
+      "nuance": "**Fallow** is the only quiet that does the thing good — the rest is the point, replenishment is happening underneath. It also has a fixed span (a season, a decade) and a fixed set of subjects: land, and by extension a creative life."
+    },
+    {
+      "word": "torpor",
+      "nuance": "The one negative on this side, and the one with no implied comeback: **torpor** is not stored potential but drained energy — inert, sluggish, unable rather than merely paused. It diagnoses a state you can observe from outside, in a body or a bureaucracy."
+    },
+    {
+      "word": "recrudescent",
+      "nuance": "The hinge of the group: **recrudescent** presupposes the dormancy and names the ending of it. It is reserved for things you did not want back — plagues, feuds, old wounds — and insists the thing never actually left, only went under the surface."
+    },
+    {
+      "word": "burgeon",
+      "nuance": "**Burgeon** is a beginning, not a return, and it is the one clearly welcome word here — organic, healthy, self-driven expansion from something small. A city, a talent, a middle class burgeons; a plague does not."
+    },
+    {
+      "word": "proliferate",
+      "nuance": "The mechanism is **copying**: count, not size, and each copy spawns the next faster than anyone is tracking. It is the only word here that can be transitive — you can proliferate weapons — and it carries a faint note of *this got away from us*."
+    },
+    {
+      "word": "rampant",
+      "nuance": "**Rampant** says nothing about how something started or multiplied — it is a complaint about the **missing brake** on something already here and still growing. Grammatically it sits in front of an evil already named: rampant corruption, rampant inflation."
+    }
+  ],
+  "exam_note": "The exam splits the quiet words on details you can't get from a gloss — abeyance needs an authority, fallow needs restoration, torpor needs no comeback — and baits antonym pairs with near-misses: fallow≠barren, dormant≠extinct, proliferate≠merely increase, rampant≠widespread."
+}

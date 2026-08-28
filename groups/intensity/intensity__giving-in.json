@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__giving-in",
+  "title": "Giving in: from softening to surrender",
+  "seed_words": [
+    "relent",
+    "acquiesce",
+    "capitulate"
+  ],
+  "hallucinated": null,
+  "core": "All three describe the moment someone stops holding a position and lets the other side have its way. What separates them is who was doing the resisting, whether the resistance was ever visible, and how much is surrendered at the end. One is the hard party easing up, one is the quiet party never objecting out loud, one is the losing party accepting the winner's terms. The order runs from a small softening to a total collapse.",
+  "words": [
+    {
+      "word": "relent",
+      "nuance": "You were the one applying the pressure — the parent refusing, the creditor pressing, the storm battering — and you ease off. It's a mercy granted from the stronger position, not a defeat suffered, and it's the only one of the three that takes an impersonal subject: rain, fever, and criticism can **relent**; they cannot acquiesce or capitulate."
+    },
+    {
+      "word": "acquiesce",
+      "nuance": "There was never an open fight to lose. The objection stayed unspoken and consent is inferred from silence, which is why it reads as passivity rather than defeat — and why it usually implies someone above you. Grammatically it needs **in** or **to**, unlike the others, which the GRE checks directly."
+    },
+    {
+      "word": "capitulate",
+      "nuance": "The strongest: it requires that you fought openly and were ground down, then accepted terms set by the other side. Where **relent** leaves you still in charge, this hands over the position entirely and marks you as the weaker party — applied to a person or a board, it is an accusation of having caved."
+    }
+  ],
+  "exam_note": "The trap is swapping **acquiesce** and **capitulate**: look for whether the passage shows visible resistance first (capitulate) or silent compliance throughout (acquiesce) — and watch for **relent** used of weather, pain, or pressure rather than people."
+}

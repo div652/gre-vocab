@@ -1,0 +1,52 @@
+{
+  "kind": "connotation",
+  "id": "connotation__attacks-on-a-reputation",
+  "title": "Attacks on a reputation",
+  "seed_words": [
+    "vilify",
+    "malign",
+    "defame",
+    "denigrate",
+    "calumny",
+    "slander",
+    "aspersion",
+    "impugn"
+  ],
+  "hallucinated": null,
+  "core": "All of these are ways of damaging what other people think of someone. They differ along three axes the GRE loves: **mechanism** (a hint, a frontal challenge, a sustained campaign, a flat lie), **truth** (some require the statement to be false; others work perfectly well when it's true), and **audience** (whispered behind the back versus published to a crowd, with lawyers attached). Reordered here from the sideways and the sly to the outright false.",
+  "words": [
+    {
+      "word": "aspersion",
+      "nuance": "The only one that works by **insinuation** rather than statement — too vague to answer, which is the point. Locked into the idiom *cast aspersions on*, and most often spoken by the person disclaiming it (\"I cast no aspersions on his honesty\"), which plants the doubt anyway."
+    },
+    {
+      "word": "impugn",
+      "nuance": "The frontal opposite of an aspersion: on the record, and aimed squarely at **honesty** rather than worth. It's also the only word here that comfortably takes a non-person object — a motive, a witness's credibility, a court's independence, a claim's validity. And it only casts doubt; it never establishes the lie."
+    },
+    {
+      "word": "denigrate",
+      "nuance": "Attacks **merit, not morals** — it says the target is small, not that they are wicked or lying. Nothing false is required; the offence is running someone down past what they deserve, so the word convicts the speaker of pettiness."
+    },
+    {
+      "word": "malign",
+      "nuance": "The **quiet** one — behind the back, no crowd, no publication, a steady drip of ill-speaking. It's also the only entry with a live adjective sense: *a malign influence*, meaning evil in effect, with no speaker involved at all."
+    },
+    {
+      "word": "vilify",
+      "nuance": "The **loud** one: sustained, public, and it paints the target as positively wicked rather than merely inadequate. It needs an audience and usually a press campaign — and it arrives so often as *unfairly vilified* that using it about your own side is a claim of victimhood."
+    },
+    {
+      "word": "defame",
+      "nuance": "**Falsity is definitional** — you cannot defame someone with the truth, however brutal, and the statement must reach third parties. It's the legal umbrella term, with *libel* (written) and *slander* (spoken) sitting underneath it."
+    },
+    {
+      "word": "slander",
+      "nuance": "Defamation's **spoken** half, and the only word here with a checklist: spoken, false, and asserted as fact. Calling your boss an idiot is opinion and insult; saying he embezzled is slander. Neutral register — this is the word a lawyer's letter uses."
+    },
+    {
+      "word": "calumny",
+      "nuance": "A **noun for the lie itself**, and the moral rather than legal verdict on it — where *slander* files a suit, calumny expresses disgust. It presumes deliberate aim: someone chose the falsehood and chose the target. Formal, faintly biblical, and it declares the victim innocent."
+    }
+  ],
+  "exam_note": "The trap is falsity and part of speech: denigrate/vilify/malign/impugn can be done with true statements, while defame/slander/calumny cannot — and aspersion and calumny are nouns, so a blank taking a verb rules them out on sight."
+}

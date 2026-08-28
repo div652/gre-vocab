@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__swelling-vs-dying-down",
+  "title": "Swelling vs. dying down",
+  "seed_words": [
+    "augment",
+    "amplify",
+    "burgeon",
+    "escalate",
+    "crescendo",
+    "abate",
+    "attenuate",
+    "wane",
+    "subside",
+    "dwindling",
+    "curtail"
+  ],
+  "hallucinated": null,
+  "core": "Every word here moves an existing thing along a scale of size, force, or intensity — up in the first half, down in the second. None of them creates and none of them destroys: there is something before the change and something after, only more or less of it. What actually separates them is three things: **who is doing it** (an outside agent turning a dial vs. the thing changing on its own), **whether a prior peak or base is implied**, and **how the speaker feels about it** — promising, alarming, relieved, or coolly neutral.",
+  "words": [
+    {
+      "word": "augment",
+      "nuance": "**Augment** brings in extra material from outside and bolts it onto a base — staff, funding, a signal, a collection. It is about quantity added, not force turned up, and unlike *burgeon* it always has an agent doing it to something."
+    },
+    {
+      "word": "amplify",
+      "nuance": "**Amplify** adds nothing; it turns the existing thing up — the same signal, message, or panic, only louder. Where *augment* enlarges a stock, amplify intensifies a transmission, and its second sense (\"amplify that point\") means say more, not say it louder."
+    },
+    {
+      "word": "burgeon",
+      "nuance": "**Burgeon** is the only one here with no agent and no object — things burgeon by themselves, organically, from a small and promising start. It is warmly positive and forward-looking: a burgeoning scene, not a burgeoning tumour, and never *he burgeoned it*."
+    },
+    {
+      "word": "escalate",
+      "nuance": "**Escalate** goes up in rungs, each one provoking the next, and reversal is harder than the climb was — that self-feeding ratchet is what *increase* lacks. It is the bad-news member of the rising half (skirmish → war), with a calm office sense of passing a problem up a level."
+    },
+    {
+      "word": "crescendo",
+      "nuance": "**Crescendo** names the swell itself, not what it arrives at — it is the eight bars of getting louder, so it cues *building, mounting, rising*, never *peak* or *climax*. Alone in this group it is primarily a noun for a shape of increase rather than a verb of doing."
+    },
+    {
+      "word": "abate",
+      "nuance": "**Abate** is what a pressure does when it lets up — storm, fever, criticism, fury — and it carries relief for whoever was under it. Quantities do not abate (a crowd shrinks, its anger abates), and the form you will actually meet is **unabated**: no let-up at all."
+    },
+    {
+      "word": "attenuate",
+      "nuance": "**Attenuate** is the lab-report weakening: deliberate, measured, done *to* something along a scale, and the thing survives in fainter form. Where *abate* is a pressure easing off by itself, an engineer or a virologist attenuates a signal or a virus on purpose."
+    },
+    {
+      "word": "wane",
+      "nuance": "**Wane** measures the decline from a former fullness — a moon, an empire, a reputation, patience. The peak is built into the word, and the speaker is tracing a curve rather than raising an alarm; nothing runs out at the end of it."
+    },
+    {
+      "word": "subside",
+      "nuance": "**Subside** is a return to a prior normal level after something swelled or flared, and it happens unaided and gradually — a riot subsides into muttering. Unlike *wane*, it implies a baseline to settle back down to, not merely a slope downward."
+    },
+    {
+      "word": "dwindling",
+      "nuance": "**Dwindling** points at the empty end: bit by bit toward nothing, with the running-out already implied. No peak is needed (unlike *wane*) and no agent exists — funds, reserves, and hope dwindle on their own while somebody counts them anxiously."
+    },
+    {
+      "word": "curtail",
+      "nuance": "**Curtail** is a single imposed cut, not a fading — someone with authority shortens the trip, the budget, the liberty, and it is unwelcome to whoever is on the receiving end. It shortens without abolishing: cancel and it is gone, curtail and it runs twenty minutes."
+    }
+  ],
+  "exam_note": "Sort by agency first — **augment, amplify, attenuate, curtail** need a doer; **burgeon, escalate, subside, wane, dwindle, abate** happen on their own — then check whether a prior peak (*wane, subside*) or a zero endpoint (*dwindle*) is required; the classic trap is a blank wanting the *build* that gets filled with a peak word instead of **crescendo**."
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__saying-it-without-saying-it",
+  "title": "Saying it without saying it",
+  "seed_words": [
+    "intimate",
+    "allude",
+    "betray"
+  ],
+  "hallucinated": null,
+  "core": "All three move information without a plain statement carrying it. Something is conveyed — a suggestion, a reference, a hidden feeling — while the words that would name it outright are never spoken, so the sender can be understood without being on record. The group splits on control: two of these are the sender's deliberate choice of indirectness, and one is a leak that happens against the sender's will. The GRE tests all three in their quiet senses, not their famous ones.",
+  "words": [
+    {
+      "word": "intimate",
+      "nuance": "**Intimate** plants *new* information delicately — the listener didn't already know the thing, and now does, but you never said it. The value is deniability: a chairman who *intimates* he may step down has told the board and committed to nothing. Only this word's whole point is the escape hatch."
+    },
+    {
+      "word": "allude",
+      "nuance": "**Allude** points at something *already known to both parties* — a scandal, a poem, an unread inbox — and simply declines to name it. No new information is transferred; the listener supplies the referent. It also has a grammar tell the others lack: it needs **to**, and its object is a thing that exists independently of the speaker."
+    },
+    {
+      "word": "betray",
+      "nuance": "**Betray** is the only involuntary one — nobody chooses to betray a feeling. The subject is typically not a person but the traitorous detail (a flush, a tremor, a pause) that escapes and exposes what its owner was working to hide, which is why the word keeps a residue of treachery even in this sense."
+    }
+  ],
+  "exam_note": "Classic second-meaning trap: each word's loud sense (private/close, refer-vs-elude, disloyalty) is the decoy — check whether the sentence wants deliberate hinting, indirect reference, or an unintended leak."
+}

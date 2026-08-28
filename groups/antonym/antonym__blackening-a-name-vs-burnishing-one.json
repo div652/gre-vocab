@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__blackening-a-name-vs-burnishing-one",
+  "title": "Blackening a name vs. burnishing one",
+  "seed_words": [
+    "calumny",
+    "aspersion",
+    "defame",
+    "slander",
+    "denigrate",
+    "malign",
+    "burnish",
+    "lionize",
+    "venerate",
+    "canonize"
+  ],
+  "hallucinated": null,
+  "core": "Every word here moves a reputation — not a person's feelings, but how third parties rate them. Six push the standing down through damaging speech; four push it up through praise, reverence, or official blessing. They blur because English sorts them on axes the definitions don't announce: whether the claim must be *false*, whether it's *spoken or published*, whether it's *stated or merely hinted*, whether *one person or a crowd or an institution* is doing it, and whether the word's disapproval falls on the target or on the speaker.",
+  "exam_note": "The trap is treating the six negatives as interchangeable: only **defame**, **slander** and **calumny** require the claim to be false, while **denigrate** and **malign** need only be unfair — and on the positive side the exam swaps a felt reverence (**venerate**) for a public fuss (**lionize**) or an institutional ruling (**canonize**).",
+  "words": [
+    {
+      "word": "calumny",
+      "nuance": "The only pure noun for the *lie itself* rather than the act or the law. **Calumny** convicts the accuser of malice — using it means you have already sided with the victim — whereas *defamation* and *slander* stay neutral until a court rules."
+    },
+    {
+      "word": "aspersion",
+      "nuance": "Nothing is actually alleged. **Aspersions** are insinuations, plural and sidelong, usually smuggled in by the person disavowing them (\"I cast no aspersions on his honesty\"); a slander can be denied point by point, an aspersion has no point to deny."
+    },
+    {
+      "word": "defame",
+      "nuance": "The umbrella verb of the tort, covering both written *libel* and spoken *slander*. It demands two things the softer words don't: the statement must be false, and it must reach an audience — a truthful exposé defames nobody, and neither does a private sneer."
+    },
+    {
+      "word": "slander",
+      "nuance": "**Defame**'s spoken half, and the strictest word here: the claim must be oral, false, and dressed as fact. \"My boss is an idiot\" is opinion and safe; \"my boss embezzled\" is slander. Also the group's only member with a plain neutral register."
+    },
+    {
+      "word": "denigrate",
+      "nuance": "No falsehood needed — you can **denigrate** with true facts by dwelling on them out of all proportion. It attacks worth rather than conduct, works on things as well as people (a book, a rival's achievements), and reads as a sustained campaign of talking-down, not a single published charge."
+    },
+    {
+      "word": "malign",
+      "nuance": "Ill-speaking done behind the back, with no legal apparatus attached and no volume required — unlike **defame** or **slander**, nobody sues over it. Its signature is the passive: *a much-maligned* X almost always means the victim didn't deserve it."
+    },
+    {
+      "word": "burnish",
+      "nuance": "The pivot to the positive side, and the only word here whose object is the reputation rather than the person — and often your own. You can **burnish** only what already exists, and the figurative use hints at PR: shine applied to the surface, nothing changed underneath."
+    },
+    {
+      "word": "lionize",
+      "nuance": "A crowd's doing — critics, salons, the lecture circuit — and it describes the fuss, not the merit. Where **venerate** is hushed and **canonize** is permanent, lionizing is noisy, fashionable and revocable; writers use it to hint the adulation outran the work."
+    },
+    {
+      "word": "venerate",
+      "nuance": "Reverence felt, not performance staged: one notch below worship, owed to age, holiness, the honoured dead. **Lionize** parades the living; **venerate** looks upward and usually backward, placing its object above ordinary criticism — which is exactly the implication a critic exploits."
+    },
+    {
+      "word": "canonize",
+      "nuance": "Not a feeling but a ruling — the Church, the academy, the syllabus. **Lionizing** a figure can go out of fashion next season; **canonizing** freezes the reputation and puts it past debate, which is why the word turns dry the moment the honour is undeserved."
+    }
+  ]
+}

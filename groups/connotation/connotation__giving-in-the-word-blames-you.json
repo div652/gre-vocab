@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__giving-in-the-word-blames-you",
+  "title": "Giving in — the word blames you",
+  "seed_words": [
+    "acquiesce",
+    "capitulate",
+    "appease",
+    "relent",
+    "yield"
+  ],
+  "hallucinated": null,
+  "core": "All five describe abandoning a position under pressure from someone or something else. What separates them is not how much ground you gave up but what the word says about you for giving it: whether there was a fight first, whether you spoke up, whether the yielding is charged as weakness or credited as mercy. The GRE treats them as a blame gradient, from the ones that convict the surrenderer to the ones that let a bend look graceful. Read the surrounding sentence for the backstory it supplies — that backstory is what picks the word.",
+  "words": [
+    {
+      "word": "capitulate",
+      "nuance": "**Capitulate** requires a fight that was already lost — a siege, a standoff, a months-long war of attrition — and it ends with you on the opponent's terms, not a compromise. It's the most damning of the group because it certifies you as the beaten party: \"the board capitulated to shareholder pressure\" means the board had a position and it broke."
+    },
+    {
+      "word": "appease",
+      "nuance": "**Appease** is the only one aimed at the other person's *mood*: you hand over concessions to buy quiet, and the word says the quiet is temporary and the demander will be back. That's why it convicts you of bad judgment rather than mere weakness — *placate* and *mollify* describe soothing, **appease** names the ransom. (Its one blame-free use is appetites: appease hunger, curiosity.)"
+    },
+    {
+      "word": "acquiesce",
+      "nuance": "**Acquiesce** covers the case where no fight ever happened out loud — the objection was real but swallowed, so consent is registered as silence. Unlike **capitulate**, there was no resistance to grind down; the failure is that you never resisted at all, usually because someone outranked you. Grammar the GRE checks: you acquiesce *in* or *to* a decision, never \"acquiesce a decision.\""
+    },
+    {
+      "word": "relent",
+      "nuance": "**Relent** flips who was applying the pressure: you were the hard, withholding, punishing one, and the softening reads as mercy rather than defeat. Nobody relents from a weak position — the word presumes you could have kept refusing, which is why **relentless** is the insult and relenting can earn credit. It also works on impersonal harshness: the rain, the heat, the pain relents."
+    },
+    {
+      "word": "yield",
+      "nuance": "**Yield** is the neutral-to-flattering option: the thing bends instead of breaking, and it may be a courtesy or a tactic (\"I yield to my colleague\") with no defeat implied. It needs no prior standoff, unlike **capitulate** and **relent**, and no swallowed objection, unlike **acquiesce**. Keep its other life in view — to produce a return (a crop's, a bond's yield) — plus **yielding** = pliant, **unyielding** = inflexible."
+    }
+  ],
+  "exam_note": "The sentence supplies a backstory clue — \"after months of resistance,\" \"though privately opposed,\" \"she had refused for years\" — and the trap answer is the giving-in word whose implied backstory the sentence never set up."
+}

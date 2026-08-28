@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__finis",
-  "title": "Root: finis (boundary, end); affinis (bordering on, related by marriage)",
+  "title": "Root: *finis* (boundary, end) — the limit shared, the limit unset, the limit reached",
   "seed_words": [
     "affinity",
     "indefinite",
     "refine"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Every word here is built on Latin *finis*, a boundary line — the edge where one thing stops and the next begins. The family splits by what each word does with that edge: one word puts two things on either side of the same border, one refuses to draw the border at all, and one works a thing up to its finished edge. Knowing the root gets you into the neighbourhood but not to the door, because the surface meanings — kinship, vagueness, polishing — look unrelated until you see the line underneath.",
+  "words": [
+    {
+      "word": "affinity",
+      "nuance": "**Affinity** is *ad-finis*: sharing a border, next door. It is the only word here describing a relation **between two things**, and it insists the connection was already there — not developed, not earned. Preference you formed is taste; **affinity** is fit you discovered."
+    },
+    {
+      "word": "indefinite",
+      "nuance": "**Indefinite** is the only negative member: the boundary was never drawn. Note it says nothing about length — an **indefinite** suspension may end Tuesday. What it reports is the *speaker's* refusal to specify, which is why it turns cold in official prose (\"held indefinitely\") in a way the others never do."
+    },
+    {
+      "word": "refine",
+      "nuance": "**Refine** treats the edge as a destination — bring it to *fine*, the finished state. The only verb, and the only word implying labour and improvement: something already sound gets impurity stripped and edges smoothed. Nothing is added, nothing rebuilt; you **refine** a decent model, you overhaul a broken one."
+    }
+  ],
+  "exam_note": "The classic traps are near-homophone drift: **indefinite** misread as *infinite* (endless) when it means merely unspecified, and **affinity** misread as chosen fondness when the point is inherent kinship."
 }

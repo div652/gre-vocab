@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__stirring-people-up-vs-calming-them-down",
+  "title": "Stirring people up vs. calming them down",
+  "seed_words": [
+    "incite",
+    "foment",
+    "goad",
+    "agitate",
+    "provocative",
+    "pacify",
+    "mollify",
+    "placate",
+    "quash",
+    "suppress"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these verbs is somebody acting on other people's emotional temperature — raising it until they move, or lowering it until they stop. The first half assumes the crowd was quiet and someone made it loud; the second assumes it was loud and someone made it quiet. What separates them inside each half is mechanics: whether the pressure is a single spark or months of slow heat, aimed at one person or a whole population, applied by persuasion, irritation, a concession, or a boot. And the calming half splits again — some of these soothe the feeling, others simply crush the thing.",
+  "exam_note": "The traps are within each half, not across it: **incite** vs **foment** turns on a spark vs. slow heat, **quash** vs **suppress** on gone-in-one-stroke vs. held-down-and-still-pushing, and **mollify**/**placate** vs **quash**/**suppress** on whether the object is a person's feelings or the trouble itself.",
+  "words": [
+    {
+      "word": "incite",
+      "nuance": "The spark, not the slow burn: one speech and the crowd moves, and it wants a specific act as its object — a riot, a mutiny. It's the prosecutor's verb, so it lands as a charge against the speaker while the crowd is treated as almost passive."
+    },
+    {
+      "word": "foment",
+      "nuance": "The slow heat the inciter's spark doesn't need — months of quiet work from off-stage, and the object is an ongoing condition (unrest, discord, resentment) rather than a single act. Nobody foments by accident, and the agent is usually hidden: the funder, the outside power, the operative working the room."
+    },
+    {
+      "word": "goad",
+      "nuance": "The only one aimed at a single person rather than a crowd, and the only one that works through irritation instead of persuasion — the target acts to make the needling stop. Uniquely in this group, sympathy sits with the target: *goaded into* a fight excuses him and blames the goader."
+    },
+    {
+      "word": "agitate",
+      "nuance": "The only one here that can be honourable — you agitate *for* reform, and the word itself passes no judgment even though **agitator** in someone else's mouth does. It also denies quiet by sustained churn rather than one flashpoint, and alone in the group it can take a liquid or a set of nerves as its object."
+    },
+    {
+      "word": "provocative",
+      "nuance": "The adjective, describing the stimulus rather than the person applying it — and the only word on this side that can be praise (a provocative essay unsettles you productively). Its target decides its tone: a book, a neckline, or a remark at dinner get three different verdicts from the same calculated intent."
+    },
+    {
+      "word": "pacify",
+      "nuance": "The hinge between the two halves: it soothes a toddler and it also means an army forcing a region into silence. Either way the other side's feeling is treated as noise to switch off, so the pacified are quiet without being satisfied — and in the political sense the word is a euphemism, which is why it lives in official reports."
+    },
+    {
+      "word": "mollify",
+      "nuance": "Purely about feelings, never a territory or a thing — you mollify the critics, her fears, his pride. It stays neutral about what you offered, caring only that the temperature dropped, and it leans toward incomplete success: \"failed to mollify\" is close to a set phrase."
+    },
+    {
+      "word": "placate",
+      "nuance": "Something changes hands — a concession, a sop, a tweak — and the word hints it was cheap and the recipient a nuisance. Where *mollify* is neutral about your tactic and *pacify* condescends, **placate** is weary and faintly cynical: the anger was bought off, not addressed."
+    },
+    {
+      "word": "quash",
+      "nuance": "No feelings involved — it kills the thing itself, from above and in one stroke, so a rumour that resurfaces was never quashed. It's also the technical legal verb for annulling an instrument (a subpoena, an indictment), which none of the others can do."
+    },
+    {
+      "word": "suppress",
+      "nuance": "The pressure stays on: what's suppressed survives underneath and returns the moment the hand lifts — the opposite of **quash**'s finality. It's also the only one here that takes information as its object (evidence, a report), where it implies the suppressor has something to hide."
+    }
+  ]
+}

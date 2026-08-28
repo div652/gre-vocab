@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__demotion-to-expulsion",
+  "title": "Demotion to expulsion",
+  "seed_words": [
+    "relegate",
+    "oust",
+    "depose",
+    "banish"
+  ],
+  "hallucinated": null,
+  "core": "All four describe someone with authority moving a person (or thing) down or out against their will. The scale is *how far out you end up*: a worse seat at the same table, no seat, no throne, no country. They differ on what exactly gets taken — your rank, your office, or your right to be physically present — and on how high you had to be standing in the first place.",
+  "words": [
+    {
+      "word": "relegate",
+      "nuance": "The only one where you're still **in** — you keep a place, just a demeaning one, and it names the destination (*to the bench, to a footnote*). It's also the only one that takes non-people: an idea, a dialect, a whole tradition can be **relegated** to irrelevance."
+    },
+    {
+      "word": "oust",
+      "nuance": "Takes the *role*, not the room — the ousted CEO still drives home; she just isn't CEO. Rank-neutral (board seat, throne, or shop lease) and method-neutral, which is why it's the newsroom default, and it almost always shows up passive: **ousted** by, never ousting oneself."
+    },
+    {
+      "word": "depose",
+      "nuance": "Same removal as *oust* but gated on altitude — reserved for rulers and high office, so a **deposed** manager reads as a joke or a sneer. Colder and more procedural than *overthrow*, and it carries a second, unrelated legal sense: to take sworn out-of-court testimony."
+    },
+    {
+      "word": "banish",
+      "nuance": "The one about geography, not rank — you're put outside a place and forbidden to return, by explicit decree. Old and absolute in flavour, which is what lets it go figurative on the intangible (**banish** the thought, the fear, the smell) where the others can't."
+    }
+  ],
+  "exam_note": "Watch the two traps: *relegate* looks like removal but only ever means demotion-in-place, and *depose* fails whenever the subject isn't a ruler — or is secretly the courtroom sense."
+}

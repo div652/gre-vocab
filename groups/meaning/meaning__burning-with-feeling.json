@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__burning-with-feeling",
-  "title": "Burning with feeling",
+  "title": "Burning with feeling: ardent, fervent, fervid, zealous, fervor",
   "seed_words": [
     "ardent",
     "fervent",
@@ -9,5 +9,29 @@
     "zealous",
     "fervor"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe feeling at high temperature — devotion, conviction, or enthusiasm burning hot enough to be visible from outside. The shared image is literal heat (Latin *ardere*, \"to burn\"; *fervere*, \"to boil\"), applied to belief, love, or commitment to a cause. What separates them is not how much heat but who is holding the thermometer: whether the speaker admires the intensity, quietly distrusts it, or is just reporting the temperature. One is a noun; the rest are adjectives.",
+  "words": [
+    {
+      "word": "ardent",
+      "nuance": "The flattering one, and the only member that comfortably covers romantic love — an **ardent** suitor, an **ardent** admirer. Its heat is directional: it points toward what you're devoted to, so you can be an ardent opponent of a bill but never ardent with rage."
+    },
+    {
+      "word": "fervent",
+      "nuance": "The sincerity word. **Fervent** vouches for the feeling as genuine and unembarrassed, and it attaches to quiet inward states — a fervent hope, prayer, wish, belief — where *ardent* wants a beloved and *zealous* wants a campaign."
+    },
+    {
+      "word": "fervid",
+      "nuance": "Same root as *fervent*, one degree hotter and pointed the other way. Choosing **fervid** over *fervent* is a deliberate signal that the writer is standing outside the emotion and finds it overheated: a fervid nationalist, a fervid denunciation. Literary; nobody calls their own convictions fervid."
+    },
+    {
+      "word": "zealous",
+      "nuance": "The only one that requires a mission and visible effort — something is being *served*, tirelessly. **Zealous** describes conduct, not temperature: a zealous prosecutor is out doing things, and the word concedes he may be doing too many of them."
+    },
+    {
+      "word": "fervor",
+      "nuance": "The noun, and the name for the heat itself rather than for a person who has it — the emotional temperature of a crowd or an era. It keeps famous company (*religious*, *patriotic*, *revolutionary* **fervor**), which is exactly why it can either praise sincerity or hint that a mob has stopped thinking."
+    }
+  ],
+  "exam_note": "The exam rarely tests the shared \"intense\" sense — it tests the tilt, so watch for a sentence whose context word (\"mob,\" \"excess,\" \"blindly,\" \"admirable,\" \"sincere\") decides between fervent/ardent (approving) and fervid/zealous (raised eyebrow); it also uses fervid as a lookalike trap for fervent."
 }

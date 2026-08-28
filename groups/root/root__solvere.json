@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__solvere",
-  "title": "Root: solvere (to loosen, dissolve)",
+  "title": "Root: solvere (to loosen, dissolve) — dissolving doubt into decision",
   "seed_words": [
     "irresolute",
     "resolute",
     "resolve"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *solvere* means to loosen or dissolve, and *re-* + *solvere* gives the family its shared move: a knot of doubt is dissolved and something previously unsettled becomes settled. Every word here turns on the same question — has the mind stopped moving? One names the act and the firmness itself, one praises a person in whom that firmness has already hardened, one convicts a person in whom it never formed. The confusion is that they describe the same axis from three different distances: the event, the settled state, and its failure.",
+  "words": [
+    {
+      "word": "resolve",
+      "nuance": "The only member that names the **event** and the substance rather than a character trait — and the only one that takes non-human objects: you **resolve** a dispute, a plot, a doubt, a chord, or a smudge of light into two stars. Its claim is finality (a paused argument isn't resolved), and as a noun it's the raw material the other two measure: what *resolute* people have and *irresolute* people lack."
+    },
+    {
+      "word": "resolute",
+      "nuance": "Praise, and the deciding is already **over** — this is the settled state holding under pressure, not the effort of deciding. It says as much about the speaker as the subject: identical behaviour gets called **resolute** in an ally and *obstinate* in an opponent. Reserve it for people and their bearing; problems and disputes cannot be resolute."
+    },
+    {
+      "word": "irresolute",
+      "nuance": "Not merely undecided — **irresolute** indicts the person rather than describing the question, and lands precisely when action was required and none came. The failure is temperamental, not informational, which is why it's a quiet insult and stays literary: a biographer writes it about a general, nobody says it at dinner."
+    }
+  ],
+  "exam_note": "The trap is the technical sense of **resolve** — \"separate into constituent parts / render distinguishable\" (forces, stars, harmonies) — which the GRE prefers over the everyday \"settle a dispute\"; secondarily, it tests that *irresolute* carries blame while *undecided* does not."
 }

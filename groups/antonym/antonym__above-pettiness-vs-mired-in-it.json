@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__above-pettiness-vs-mired-in-it",
+  "title": "Above pettiness vs. mired in it",
+  "seed_words": [
+    "magnanimous",
+    "noble",
+    "forbear",
+    "captious",
+    "quibble",
+    "pedantic",
+    "finicky",
+    "peccadillo"
+  ],
+  "hallucinated": null,
+  "core": "Every word here turns on the same question: what do you do about a small fault? One pole rises above it — the grievance is real, the right to press it is real, and it gets waived. The other pole descends into it — the fault is trivial, and someone makes it the whole conversation. The trap is that the axis isn't \"nice vs. mean\" but *proportion*: what size of offence a person notices, and whether noticing it makes them look big or small.",
+  "exam_note": "Sentence completions build the contrast on power and scale — a victor who is **magnanimous** vs. a critic who is **captious** — while the traps live in the softer words: **quibble** can be a compliment in disguise, **finicky** can describe a machine, and **peccadillo** names the offence rather than the person objecting to it.",
+  "words": [
+    {
+      "word": "magnanimous",
+      "nuance": "**Magnanimous** needs a scoreboard: you held the power, you had a grievance you were entitled to press, and you released it. It's the only word here that says something about the *relationship* — the person praised had the other at their mercy."
+    },
+    {
+      "word": "noble",
+      "nuance": "**Noble** is a standing quality of character, not a response to one occasion — you can be noble with nobody at your mercy. It also carries the birth sense and a lofty, antique tone the others lack, which is why in modern speech it flips to sarcasm more readily than any word in this group."
+    },
+    {
+      "word": "forbear",
+      "nuance": "**Forbear** is the verb for the act itself — the withheld blow, the unfiled suit, the comment not made. It describes one restrained action rather than a trait; you can forbear once without being noble or magnanimous at all. Watch the past forms: *forbore / forborne*."
+    },
+    {
+      "word": "captious",
+      "nuance": "**Captious** indicts the motive: the objector wants you caught, not corrected. It's a settled disposition (captious all afternoon, captious by nature), and it's the harshest word in the petty column — colder and more damning than merely fussing over details."
+    },
+    {
+      "word": "quibble",
+      "nuance": "**Quibble** is the objection itself, sized small — and it's the one petty word that can be used *by* the objector to concede ground: \"my only quibble is the ending\" means you mostly approved. It labels a single complaint, where **captious** labels a temperament."
+    },
+    {
+      "word": "pedantic",
+      "nuance": "**Pedantic** is specifically about rules, technicalities, and displayed learning — the pedant is *correct* about the trifle and is showing you so. Where **captious** wants you wrong, the pedant wants to be seen being right, and the insult lands on misplaced priorities rather than malice."
+    },
+    {
+      "word": "finicky",
+      "nuance": "**Finicky** is about taste and tolerance, not rules or arguments — hard to please rather than hard to satisfy intellectually, and mild enough to be affectionate. Uniquely here it also applies to objects: a finicky engine, a finicky recipe, which is the sense the GRE prefers."
+    },
+    {
+      "word": "peccadillo",
+      "nuance": "**Peccadillo** is the trifle, not the person fussing over it — the only noun here that sits on the offence's side of the exchange. Saying it forgives it in the same breath, so it's what the magnanimous party calls what the captious party would prosecute; it implies a real (usually appetite-flavoured) wrong, deliberately shrunk."
+    }
+  ]
+}

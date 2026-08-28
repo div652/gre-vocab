@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-calm",
+  "title": "Degrees of calm",
+  "seed_words": [
+    "placid",
+    "tranquil",
+    "serene"
+  ],
+  "hallucinated": null,
+  "core": "All three mean undisturbed — no agitation, no ripple, nothing stirring. They part company over *what* holds the calm and *how much credit* the speaker gives for it. One is a surface nothing ruffles, one is a setting nothing has ever troubled, one is a visible clarity that reads as almost luminous. The scale runs from calm that may be mere inertness up to calm that is a kind of achievement.",
+  "words": [
+    {
+      "word": "placid",
+      "nuance": "The only one in the group that can be an insult. **Placid** rates the surface, not the person behind it — nothing ruffles it, but nothing seems to be happening under it either. Cows are placid; call a colleague placid and you have half-implied there is no weather inside."
+    },
+    {
+      "word": "tranquil",
+      "nuance": "Belongs to **places and scenes** first — a village at dusk, a stretch of water, an afternoon. Its claim is historical: nothing ever disturbed this, so there was no storm to recover from. Applied to a person it reports an untroubled life, not composure under fire."
+    },
+    {
+      "word": "serene",
+      "nuance": "The calm that **shows**, and that holds when it has no business holding — a face unclouded while the room panics. Where **placid** risks vacancy, **serene** implies something is being mastered; hence the near-spiritual, faintly grand air (monks, dawn, *Your Serene Highness*)."
+    }
+  ],
+  "exam_note": "The GRE leans on **placid**'s pejorative shade — in a sentence criticizing a dull character, \"placid\" fits where \"serene\" and \"tranquil\" (both approving) cannot; and it rewards knowing **serene** is the only one that survives surrounding chaos."
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__sparing-to-miserly",
+  "title": "Sparing to miserly",
+  "seed_words": [
+    "stinting",
+    "parsimonious",
+    "miserly",
+    "penurious"
+  ],
+  "hallucinated": null,
+  "core": "All four describe giving out less than one should — money, praise, food, effort — and all four are judgments rather than compliments. Where *frugal* and *thrifty* credit you for spending carefully, this set treats the withholding as a fault: grudging, mean, or pitiful. They differ in how much is withheld, whether money must be involved, how formal the word is, and how much contempt the speaker is loading in.",
+  "words": [
+    {
+      "word": "stinting",
+      "nuance": "The weakest, and the only one describing a **single act of rationing** rather than a standing character trait — you stint *on* something in a moment, you don't have a stinting soul. It also barely appears in the bare positive: **unstinting** support, *never stinted*, *without stinting* are the forms you'll actually read, so a bare positive on the exam is a deliberate trap."
+    },
+    {
+      "word": "parsimonious",
+      "nuance": "The **cold, clinical** member — an auditor's or biographer's word, never shouted across a table. Crucially it's the only one here with a **flattering sense**: a parsimonious *theory* or *explanation* is admirably economical with assumptions. If the object is an argument, model, or hypothesis, the connotation flips to praise."
+    },
+    {
+      "word": "miserly",
+      "nuance": "Adds the **hoarder's psychology**: the person plainly has more than enough and still won't part with it, denying themselves as much as anyone else. It's the one word here that pities as much as it condemns — the miser shivering to save on coal — and the most conversational, blunt enough to say out loud."
+    },
+    {
+      "word": "penurious",
+      "nuance": "The only one that **also means genuinely destitute**, and that ambiguity is the point: it describes someone living as though there is nothing, whether or not there is. Bookish and literary where *miserly* is spoken aloud. Context decides the sense — *a penurious old age* is poverty, *a penurious tip* is meanness."
+    }
+  ],
+  "exam_note": "Two favorite traps: **parsimonious** applied to a theory is praise, not a slur; and **penurious** may mean poor rather than stingy, so a sentence about hardship rather than character is signaling sense (1)."
+}

@@ -8,5 +8,25 @@
     "intimate",
     "evoke"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four get something across without putting it into words. The content arrives sideways — pointed at, gestured toward, or stirred up in the listener — and the audience has to complete the meaning. The differences are what gets conveyed (a specific referent vs. a private intention vs. a mood), and whether we're describing a single act or a whole style.",
+  "words": [
+    {
+      "word": "allude",
+      "nuance": "**Allude** points at a definite thing that both parties could name — a book, a scandal, a person — and pointedly declines to name it. The referent exists outside the speaker and is checkable: someone can ask \"what were you alluding to?\" and get a right answer. Always **allude to**, never allude something."
+    },
+    {
+      "word": "allusive",
+      "nuance": "**Allusive** is a verdict on texture, not a single move: a poem, an essay, a prose style *thick* with unnamed references. It judges the work and the reader at once — it flatters those who catch the references and shuts out those who don't. Applies to writing and remarks, essentially never to a person's character."
+    },
+    {
+      "word": "intimate",
+      "nuance": "**Intimate** discloses something *you* hold — an intention, a decision, unwelcome news — placed delicately so you keep deniability. Unlike **allude**, the content is yours and new to the listener, not a shared reference you're coyly withholding. Genteel where *insinuate* is nasty and *hint* is casual."
+    },
+    {
+      "word": "evoke",
+      "nuance": "**Evoke** has no referent to decode; it stirs something already latent in the audience — a mood, a memory, an atmosphere. Success is measured by the reaction produced, not by a hidden thing correctly identified, which is why it's the reviewer's verb for a novel or a painting."
+    }
+  ],
+  "exam_note": "Traps swap **allude** for **evoke** where the blank needs a nameable referent (a poet alludes to Homer; a smell only evokes), and dangle *elusive*/*illusive* beside **allusive**."
 }

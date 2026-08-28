@@ -8,5 +8,21 @@
     "homogeneous"
   ],
   "similarity": 0.69,
-  "auto": true
+  "auto": true,
+  "words": [
+    {
+      "word": "heterodox",
+      "nuance": "The impostor in this group: its root is *doxa* (opinion), not *genos* (kind), so it says nothing about mixture at all. It needs an established doctrine to depart from and takes a believer or a belief as its subject — economists, theologians, party members. Mild, and faintly respectful: the heterodox thinker is still arguing inside the tent, unlike the heretic."
+    },
+    {
+      "word": "heterogeneous",
+      "nuance": "Pure composition: the parts of a collection are unlike one another. It attaches to a whole — a population, a dataset, a portfolio — never to an individual member, and never to an opinion. Spoken by a statistician, not an admirer: where *diverse* praises, **heterogeneous** often quietly reports a defect (the data won't pool, the results disagree)."
+    },
+    {
+      "word": "homogeneous",
+      "nuance": "The direct antonym of *heterogeneous*, and the only word here whose verdict flips with its subject: uniform in a beaker is a virtue, uniform in a workforce or a suburb is the polite form of an accusation. It grades sameness of kind, not merit — a homogeneous group is all alike, which says nothing about whether it is any good."
+    }
+  ],
+  "core": "Three formal adjectives built from the Greek pair *hetero-* (other) and *homo-* (same), which is exactly why the eye slides between them. Two of them are a true antonym pair about **composition** — whether the parts of a thing are alike or unlike. The third only looks like it belongs: it is about **belief**, and its second half is a different root entirely. Sorting them is a matter of asking what the adjective is attached to — a mixture, or a mind.",
+  "exam_note": "The trap is prefix-matching: a sentence about dissenting economic theories offers *heterogeneous*, or a sentence about a mixed population offers *heterodox* — check the second half of the word, not the first."
 }

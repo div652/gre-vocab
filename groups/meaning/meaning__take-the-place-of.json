@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__take-the-place-of",
-  "title": "Take the place of",
+  "title": "Take the Place Of: supplant, supersede, eclipse",
   "seed_words": [
     "supplant",
     "supersede",
     "eclipse"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three describe something new arriving where something older stood. The difference is what actually happens to the old thing: it can be pushed out of its position, stripped of its validity, or left standing but no longer looked at. One is about possession, one is about authority, one is about attention. Choosing among them means asking what the sentence says the predecessor lost.",
+  "words": [
+    {
+      "word": "supplant",
+      "nuance": "The only one of the three with a **loser**: the old thing held the spot and was dispossessed, usually by a rival with something to gain. **Supplant** implies pressure or maneuvering — a courtier, a cheaper technology, an ambitious protégé — where the others imply none."
+    },
+    {
+      "word": "supersede",
+      "nuance": "Bureaucratic, not competitive: **supersede** cancels the old thing's *standing*, so it no longer counts even if nobody objected. It attaches to things that can be authoritative — editions, regulations, treaties, model numbers — and never to a person elbowed out of a job."
+    },
+    {
+      "word": "eclipse",
+      "nuance": "The predecessor keeps its position entirely; it just stops being noticed. **Eclipse** is a claim about renown and attention, not possession or validity, which is why it takes comparisons of brilliance — a record, a reputation, an older sibling — and usually appears passively, with a trace of pity for what's in the shade."
+    }
+  ],
+  "exam_note": "The sentence, not the verb, carries the giveaway: a rival or motive points to supplant, a rule/edition/version points to supersede, and a comparison of fame or brilliance points to eclipse."
 }

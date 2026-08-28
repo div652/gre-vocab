@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-overstatement",
+  "title": "Degrees of overstatement",
+  "seed_words": [
+    "embellish",
+    "caricature",
+    "hyperbole"
+  ],
+  "hallucinated": null,
+  "core": "All three take something true and stretch it, and none of them is outright invention — the raw material is real, only the proportions are off. What separates them is how far the stretch goes and whether the audience is meant to notice. At one end the additions are small enough to pass for fact; at the other the excess is so large that nobody could mistake it for a claim. The GRE uses them as a scale from quietly misleading to openly theatrical.",
+  "words": [
+    {
+      "word": "embellish",
+      "nuance": "The only one where the exaggeration is meant to slip past — small invented details added to a true account, still small enough to be believed. It's also the only one with an innocent literal sense (beads, gold leaf, a musical flourish), and the only one that can be half-forgiven: you accuse a witness of **embellishing** precisely because it stops short of calling her a liar."
+    },
+    {
+      "word": "caricature",
+      "nuance": "Alone in this group it's aimed at a *person* and it invents nothing — it selects one real trait and inflates that trait while leaving the rest recognizable. That selectivity is what makes it wound: the nose really was big. Figuratively it's an accusation of bad faith (\"a **caricature** of my position\"), where **embellish** merely alleges embroidery and **hyperbole** alleges nothing at all."
+    },
+    {
+      "word": "hyperbole",
+      "nuance": "The excess is so extravagant it is self-cancelling — \"a million times,\" \"weighs a ton\" — so no one is deceived and no one is mocked. It's the group's only named rhetorical *device*, fully neutral in literary discussion; applied to an opponent it charges overstatement, not dishonesty. Biggest distortion, smallest sin."
+    }
+  ],
+  "exam_note": "The trap is reading the scale as one of guilt rather than size: hyperbole is the wildest exaggeration but the most honest, so passages calling a claim \"mere hyperbole\" are dismissing it as overheated, not fraudulent."
+}

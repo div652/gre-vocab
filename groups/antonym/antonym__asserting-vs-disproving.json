@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__asserting-vs-disproving",
+  "title": "Asserting vs. disproving",
+  "seed_words": [
+    "aver",
+    "contend",
+    "advocate",
+    "corroborate",
+    "refute",
+    "debunk",
+    "gainsay",
+    "belie",
+    "impugn"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these words describes something done to a claim that is already on the table — putting it forward, standing behind it, propping it up with evidence, or knocking it down. They sort along two axes the GRE loves: which end of the fight you're on, and how much you're claiming to have *accomplished*. Merely saying a thing is false sits at one end; proving it false sits at the other, and several of these words get misused as if they were interchangeable across that gap. A second trap: two of them aren't really about truth at all — one is about what *ought* to be done, and one has no human speaker.",
+  "words": [
+    {
+      "word": "aver",
+      "nuance": "**Aver** offers no evidence and needs no opponent — the speaker's own credibility *is* the support. It's the flat, unhedged vouching move: I say it, and I stand behind it."
+    },
+    {
+      "word": "contend",
+      "nuance": "**Contend** presupposes pushback — it only makes sense where someone is arguing the other way, and it marks the claim as still live and unsettled. Writers use it precisely to signal *this is disputed and not my position*."
+    },
+    {
+      "word": "advocate",
+      "nuance": "**Advocate** is the odd one: it argues for a course of action, not for a fact, so it can't be true or false. It also requires going public and usually speaking on someone else's behalf — silent agreement isn't advocacy."
+    },
+    {
+      "word": "corroborate",
+      "nuance": "**Corroborate** is the only word here that adds *new outside evidence*, and it always arrives second — someone else's claim must exist first. It strengthens; it never carries the case alone, and your own restatement doesn't count."
+    },
+    {
+      "word": "impugn",
+      "nuance": "**Impugn** attacks honesty rather than accuracy, and it stops at casting doubt — no proof delivered. It's the aggressive accuser's word: what gets impugned is a witness's credibility or a rival's motives, not a claim's logic."
+    },
+    {
+      "word": "gainsay",
+      "nuance": "**Gainsay** is bare contradiction with nothing behind it, and in modern English it almost always shows up negated — so the sentence ends up asserting that the thing is *beyond* dispute. Stiff and bookish where *impugn* is combative."
+    },
+    {
+      "word": "belie",
+      "nuance": "**Belie** has no arguer at all — the subject is a thing, and usually a deceptive one: the calm face, the rosy forecast. It's the surface that does the contradicting, which is why the direction (subject = the liar) is the whole test."
+    },
+    {
+      "word": "debunk",
+      "nuance": "**Debunk** requires a target with standing — a myth, a reputation, something believed or sold — and it plays to an audience. Where *refute* is cool and technical, **debunk** is public deflation, faintly gleeful, hard sense against humbug."
+    },
+    {
+      "word": "refute",
+      "nuance": "**Refute** is the only word here that claims the job is *finished*: evidence or logic delivered, claim dead. Everything else on the attacking side merely challenges; using **refute** where you only mean \"deny\" is the error the exam is watching for."
+    }
+  ],
+  "exam_note": "The GRE tests the success gap — *refute* means proved false, while *impugn* and *gainsay* only challenge — and it flips *belie*, whose subject is always the misleading thing, never the revealer."
+}

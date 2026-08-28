@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-generosity",
+  "title": "Degrees of generosity",
+  "seed_words": [
+    "benevolent",
+    "beneficent",
+    "magnanimous",
+    "munificent"
+  ],
+  "hallucinated": null,
+  "core": "All four describe good done from a position of advantage — the giver has the money, the power, or the upper hand, and the recipient does not. They are formal, admiring words, which is exactly why they turn sardonic so easily when the altitude is unearned. What separates them is what the giver actually surrenders: a good wish, an actual benefit, a grudge they were entitled to keep, or a very large sum.",
+  "words": [
+    {
+      "word": "benevolent",
+      "nuance": "The cheapest of the four — it grades **intent only**. A **benevolent** trustee may never disburse a penny and still deserve the word; it describes the face the powerful turn toward you, not what leaves their hands."
+    },
+    {
+      "word": "beneficent",
+      "nuance": "The intent has become a **completed act**: benefits actually conferred, the ward funded, the pension paid. It says nothing about size or sacrifice — a modest but real benefit qualifies, whereas a warm feeling does not."
+    },
+    {
+      "word": "magnanimous",
+      "nuance": "The only one that requires a **rival and a grudge**. What's given up isn't money but the revenge, resentment, or advantage you had every right to take — which is why it needs a loss, an insult, or an enemy at your mercy to make sense at all."
+    },
+    {
+      "word": "munificent",
+      "nuance": "Grades **the size of the gift**, not the motive or the restraint behind it. It attaches to sums and endowments — a library wing, a bequest — and is spoken publicly, so it carries the giver's standing along with the amount."
+    }
+  ],
+  "exam_note": "The classic trap is swapping **benevolent** for **beneficent** — sentences that specify an act performed (\"her ___ funding of the clinic\") want the deed word, not the disposition word; and **magnanimous** is wrong in any sentence with no adversary to forgive."
+}

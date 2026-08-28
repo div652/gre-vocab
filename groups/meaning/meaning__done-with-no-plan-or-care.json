@@ -9,5 +9,21 @@
   ],
   "hallucinated": [
     "slapdash"
-  ]
+  ],
+  "core": "All three condemn work or behaviour that lacks order and care, and all three imply someone should have done better. The difference is *what* is missing: a governing plan, a standard of tidiness, or sustained attention. One faults the method, one faults the person's habits, one faults the energy behind the effort.",
+  "words": [
+    {
+      "word": "haphazard",
+      "nuance": "Faults the **method**, not the worker's grooming or mood: things ended up wherever chance put them because no one imposed an order. It attaches happily to systems and processes — filing, sampling, a search — and is the mildest, most usable criticism of the three."
+    },
+    {
+      "word": "slovenly",
+      "nuance": "Faults the **person**, and does it with visible distaste. It implies habitual, self-neglecting sloppiness — grubby, unwashed, corners cut for years — so it insults in a way *haphazard* never does. Unlike **desultory**, effort may be sustained; it's just done to a low standard."
+    },
+    {
+      "word": "desultory",
+      "nuance": "Faults the **energy**. The effort exists but droops: a bit here, a bit there, nothing finished, nobody invested. It needs a subject that unfolds over time — conversation, reading, revision, applause — so it can drift and die; a *desultory* pile of books makes no sense."
+    }
+  ],
+  "exam_note": "Sentence completions bait you with a mere disorder clue; **desultory** only fits when the sentence also supplies flagging enthusiasm or drift, and **slovenly** only when a person's habits (not a procedure) are being judged."
 }

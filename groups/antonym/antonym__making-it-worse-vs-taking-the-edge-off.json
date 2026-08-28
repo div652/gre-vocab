@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__making-it-worse-vs-taking-the-edge-off",
+  "title": "Making it worse vs. taking the edge off",
+  "seed_words": [
+    "exacerbate",
+    "compound",
+    "escalate",
+    "alleviate",
+    "ameliorate",
+    "assuage",
+    "mitigate",
+    "mollify",
+    "temper"
+  ],
+  "hallucinated": null,
+  "core": "All nine verbs turn a dial on a situation that is already bad — three turn it up, six turn it down. None of them starts the problem and none of them ends it: the trouble pre-exists, and afterwards it is still there, just more or less severe. So the choice between them is almost never about direction (the sentence tells you that) but about *what* is being turned: a physical harm, a penalty, a feeling, a person's temper, or a whole social situation. Get the object wrong and the sentence collapses even when the direction is right.",
+  "words": [
+    {
+      "word": "exacerbate",
+      "nuance": "The plain intensifier: one existing problem, same problem, more severe — no second ingredient, no stages. Its subject is impersonal (a drought, a policy, a remark), and it likes clinical or editorial objects: tensions, a shortage, an injury, inflammation."
+    },
+    {
+      "word": "compound",
+      "nuance": "Worsening by **addition** — a second, separate act piled on the first, which is why it quietly assigns blame: the crash may have been luck, but lying about it was a choice. It also carries interest-rate math: the damage feeds on itself rather than merely being larger."
+    },
+    {
+      "word": "escalate",
+      "nuance": "The only worsening verb that describes a **trajectory** — rung by rung, each step provoking the next and each step harder to climb back down. Skirmish → war, argument → brawl. Its office sense (kick it up to the manager) moves a problem up the same ladder without making it worse."
+    },
+    {
+      "word": "alleviate",
+      "nuance": "The humane one: it eases **felt suffering** — pain, hunger, grief, poverty, congestion — and is honest that it treats the symptom, not the disease. Warmer and more bodily than *mitigate*; where *mitigate* reduces a risk on a spreadsheet, **alleviate** makes someone hurt less."
+    },
+    {
+      "word": "ameliorate",
+      "nuance": "Targets **conditions**, not sensations: overcrowding, soil, wages, working conditions. It is the one word here that leans toward *improve* — the state is upgraded, partially — rather than merely soothed, and it wears a policy-paper suit that sounds absurd in domestic contexts."
+    },
+    {
+      "word": "assuage",
+      "nuance": "The object lives **inside someone's head**: fears, guilt, grief, doubts, anger (also literal hunger and thirst). You assuage the feeling; you mollify the person having it. Formal and consoling — the register of eulogies and diplomatic statements."
+    },
+    {
+      "word": "mitigate",
+      "nuance": "Cool and institutional, and characteristically **forward-looking**: it reduces the severity of a harm, penalty, or risk that is coming or ongoing — a seawall, an emissions target, mitigating circumstances at sentencing. Nobody has to feel better for something to be mitigated."
+    },
+    {
+      "word": "mollify",
+      "nuance": "Aimed at an **angry party**, not a problem: critics, voters, a slighted colleague. It implies a placating gesture — apology, concession, soothing word — and is so often paired with failure (\"failed to mollify\") that partial success is baked in."
+    },
+    {
+      "word": "temper",
+      "nuance": "The odd one out: its object need not be bad, only **too strong** — zeal, ambition, optimism, criticism. Nothing is subtracted; a counterweight is added until the thing sits in proportion, so the result is balanced rather than reduced. Justice tempered with mercy is not weaker justice."
+    }
+  ],
+  "exam_note": "The exam rarely tests direction — the sentence's contrast marker gives that away — it tests object type, so the trap answer is a right-direction verb with the wrong noun after it (mitigating grief, assuaging emissions, mollifying a shortage, ameliorating fears); and **temper** is baited as an antonym of *exacerbate* when the thing being toned down is desirable, not bad."
+}

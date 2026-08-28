@@ -8,5 +8,25 @@
     "intimate",
     "allude"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four cover meaning that travels without being stated outright — the content arrives, but nobody puts it on the record. The split runs two ways. Two are adjectives describing a *state* of shared-but-unspoken understanding; two are verbs describing an *act* of gesturing at something you decline to name. Within each pair, the difference is whether the unspoken thing lives in the logic of what was said or in the silence between two parties, and whether the indirection is about delicacy or about avoiding a name.",
+  "words": [
+    {
+      "word": "tacit",
+      "nuance": "**Tacit** requires two parties and a silence that functions as consent — you said nothing, and that counted as yes. Because it makes the silent party complicit, it attaches to things people want deniability about: tacit approval, a tacit admission, a tacit understanding between rivals."
+    },
+    {
+      "word": "implicit",
+      "nuance": "**Implicit** needs no audience and no silence — the meaning is logically contained in what was said, and a hostile reader can extract it. It is the word for the premise an argument depends on but never defends. Its second sense flips register entirely: *implicit* trust or obedience is **total**, not unspoken."
+    },
+    {
+      "word": "intimate",
+      "nuance": "**Intimate** (verb) is the delicate, deliberate hint dropped by someone in a position to say more — the chairman intimated he might step down. Unlike *insinuate* it isn't malicious, and unlike *hint* it isn't casual; it is genteel groundwork laid so the speaker can later deny having said it."
+    },
+    {
+      "word": "allude",
+      "nuance": "**Allude** is specifically about *not naming* a known referent: the thing exists, both parties can identify it, you gesture at it instead — \"recent difficulties,\" \"a certain bestseller.\" It's the verb of literary reference as much as tact, and it's the only one here that is intransitive: you allude **to** something."
+    }
+  ],
+  "exam_note": "The trap is *implicit* meaning **absolute** (implicit faith, implicit obedience) where the sentence rewards \"unquestioning,\" not \"unstated\"; secondarily, *allude* is wrong wherever the thing is actually named, and *intimate* is wrong wherever the hint is sly or hostile."
 }

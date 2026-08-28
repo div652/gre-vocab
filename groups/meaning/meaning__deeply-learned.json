@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__deeply-learned",
-  "title": "Deeply learned",
+  "title": "Kinds of Smart: Learned, Broad, Retentive, Analytical",
   "seed_words": [
     "erudite",
     "polymath",
     "encyclopedic",
     "cerebral"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four are ways of calling someone intellectually impressive, and they split along axes English keeps blurring: where the knowledge came from, how wide it spreads, whether it can be recalled or actually used, and whether we're praising a stockpile of knowledge or a style of thinking at all. Three describe what a mind contains; one describes how it operates. Each carries its own built-in reservation — dustiness, hyperbole, flatness, coldness — so the compliment is never quite unmixed.",
+  "words": [
+    {
+      "word": "erudite",
+      "nuance": "The only one that specifies the **source**: long reading. It praises a scholar and, above all, a scholar's prose — an **erudite** essay, an **erudite** footnote — where the others would praise a memory or a temperament."
+    },
+    {
+      "word": "polymath",
+      "nuance": "The only **noun**, and the only word requiring *mastery of several unrelated fields* rather than a quality of one mind's output. It's conferred, not claimed — profiles and obituaries award it — and the fields must be genuinely far apart, or you've described a dilettante."
+    },
+    {
+      "word": "encyclopedic",
+      "nuance": "Attaches to **knowledge or memory specifically**, never to a person outright, and praises retrievable coverage rather than learning or insight: everything filed, nothing necessarily understood. Turn it on a book or a film and the compliment inverts — comprehensive to the point of flat."
+    },
+    {
+      "word": "cerebral",
+      "nuance": "Says nothing about how much anyone **knows**; it names a *mode* — thinking over feeling, analysis over instinct — so it can describe a film, a striker, or a piece of music. The only one that flips into plain insult on its own: *too cerebral* means bloodless."
+    }
+  ],
+  "exam_note": "The exam swaps the axes: a sentence about recall gets **erudite** as a trap (that's depth-from-books, not retrieval), and a sentence about a cool, analytical style gets **encyclopedic** or **erudite** as bait — but **cerebral** is about *how* one thinks, not *what* one has stored."
 }

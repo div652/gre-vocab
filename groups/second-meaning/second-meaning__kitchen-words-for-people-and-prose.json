@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__kitchen-words-for-people-and-prose",
+  "title": "Kitchen words for people and prose",
+  "seed_words": [
+    "insipid",
+    "cloying",
+    "piquant",
+    "tepid",
+    "relish"
+  ],
+  "hallucinated": null,
+  "core": "All five started at the table and ended up in criticism: flavour, sweetness, sharpness, temperature and appetite, borrowed to judge prose, performances, remarks and people. The palate metaphor does real work in each — the critic is positioned as someone tasting, and the verdict is about how much sensation arrived and whether it was welcome. What separates them is where on the plate the fault lies: too little, too much, just right — or not in the dish at all, but in the diner.",
+  "words": [
+    {
+      "word": "insipid",
+      "nuance": "The charge is **nothing there at all** — flavour that was promised and never arrived. It indicts the *thing*: an insipid novel is the novel's fault, and the word implies the critic tasted attentively and came back empty-handed. Of the two deficiency words here, this is the literary sneer."
+    },
+    {
+      "word": "tepid",
+      "nuance": "Also a deficiency, but of *heat*, not flavour, and it lands on the **audience, not the object** — tepid applause and a tepid endorsement describe people who couldn't be bothered, not a bland performance. Its sting is indifference rather than contempt: nobody is attacking you, which is worse."
+    },
+    {
+      "word": "cloying",
+      "nuance": "The only excess word here: flavour was present and **kept coming until it turned**. It has a time signature the others lack — briefly pleasant, then curdled — and its home turf is sweetness and sentimentality specifically, not intensity in general."
+    },
+    {
+      "word": "piquant",
+      "nuance": "The lone **compliment** in the group, and it insists the sharpness is small, deliberate and enjoyable — a well-judged tang, not a mouthful of chilli. Where the others convict, this acquits, and it flatters the speaker's palate as much as the thing described."
+    },
+    {
+      "word": "relish",
+      "nuance": "The only **verb**, and it describes the eater rather than the dish — appetite visible on the face. It attaches most tellingly to things one shouldn't enjoy (a fight, an enemy's discomfort), and its negative is pure understatement: *I don't relish the prospect* means dread."
+    }
+  ],
+  "exam_note": "The classic swap is **insipid** for **tepid** — one says the work had no flavour, the other says the crowd had no warmth; check whether the blank sits on the object or on the reaction."
+}

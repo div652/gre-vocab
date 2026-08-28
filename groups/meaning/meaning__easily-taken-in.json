@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__easily-taken-in",
-  "title": "Easily taken in",
+  "title": "Unseasoned and Easily Taken In",
   "seed_words": [
     "gullible",
     "naive",
     "dupe",
     "callow"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a missing layer of worldly armor — the guard that makes an experienced person pause before believing, or before speaking with confidence about what they haven't lived. The judgment is almost always delivered from outside and from above: someone more seasoned is doing the labeling. They split on two axes — whether the failure is a **standing trait** or a **single episode**, and whether an actual deceiver had to be involved at all.",
+  "exam_note": "The trap is **callow**, which the exam slots into \"easily fooled\" contexts where it doesn't belong — it needs an unformed, untested person, not a deceived one; watch also for **naive**'s neutral technical sense (naive subjects, naive art) in science passages.",
+  "words": [
+    {
+      "word": "gullible",
+      "nuance": "The permanent condition, stated bluntly and without mercy: not that someone was fooled but that they are always available to be fooled again. It is the only one of the four that offers the person no excuse — no youth, no inexperience, just a defective filter."
+    },
+    {
+      "word": "naive",
+      "nuance": "The only one that can be said fondly. It indicts judgment while clearing motive — unspoiled rather than dishonest — so the same word swings from \"sweetly naive\" to \"don't be naive\" depending on the speaker's tone. It also alone has a fully neutral technical use (naive subjects, naive art) with no fault implied."
+    },
+    {
+      "word": "dupe",
+      "nuance": "The only member that is an event, not a character trait, and the only one that requires a deceiver: someone must have actually done the tricking. As a noun it converts that one episode into a label — the mark, the sucker — which is why \"I was duped\" concedes something about yourself while it complains about someone else."
+    },
+    {
+      "word": "callow",
+      "nuance": "Not about belief at all — nothing needs to have been swallowed and no con artist need exist. It faults unripeness of character, typically in someone holding forth on experiences he hasn't had, and it is the formal, condescending one, welded to its noun in **a callow youth**."
+    }
+  ]
 }

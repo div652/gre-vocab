@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__seeing-far-ahead-vs-seeing-no-further-than-your-nose",
+  "title": "Seeing far ahead vs. seeing no further than your nose",
+  "seed_words": [
+    "prescient",
+    "sagacious",
+    "visionary",
+    "prudent",
+    "myopic",
+    "oblivious",
+    "blithe",
+    "complacent"
+  ],
+  "hallucinated": null,
+  "core": "Every word here rates a mind by its relationship to the future. One half is praise for seeing consequences before they arrive; the other half is blame for not seeing them at all. The distinctions are not about intelligence — they're about *range* (how far ahead) and *cause* (why the far thing wasn't seen: never noticed, noticed and forgotten, noticed and smiled past, noticed and stopped watching). The praise words also differ in what they credit: a correct call, a standing habit of judgment, a bold invention, or a safe choice.",
+  "words": [
+    {
+      "word": "prescient",
+      "nuance": "Scores one **specific call**, and only after reality settles the bet — a 2005 memo, a warning nobody heeded. It says nothing about the person's general judgment; a fool can be prescient once."
+    },
+    {
+      "word": "sagacious",
+      "nuance": "Rates the **person, not the prediction** — a standing capacity for reading situations and people right. Grand and flattering, reserved for elder statesmen and canny old operators; nobody is sagacious about one thing."
+    },
+    {
+      "word": "visionary",
+      "nuance": "The only one that **invents a future rather than forecasting one** — it's about scale and originality, not accuracy. And it's the only foresight word here that can be an insult: *visionary schemes* means the future exists nowhere but in his head."
+    },
+    {
+      "word": "prudent",
+      "nuance": "Foresight that cashes out as **caution** — the others describe what someone saw, this describes what they therefore did, which is the safe thing. Sober adult praise with a chill on it; you never call a bold move prudent."
+    },
+    {
+      "word": "myopic",
+      "nuance": "The near view is **perfectly sharp** — that's the accusation. A clever fix for this quarter that ruins the decade. Analyst's condescension, aimed at policies, strategies and outlooks rather than at characters."
+    },
+    {
+      "word": "oblivious",
+      "nuance": "Not a range failure but a **blank** — the thing never registered at all, near or far. Takes *to*, and unlike the others it applies to what's happening right now in the room, not to consequences down the line."
+    },
+    {
+      "word": "blithe",
+      "nuance": "The distinguishing feature is the **mood**: cheerfulness that is only possible because nobody looked. Travels with *disregard*, *indifference*, *assumption*. Not malice, not stupidity — a lightness that other people end up paying for."
+    },
+    {
+      "word": "complacent",
+      "nuance": "The one who **did see, and stopped checking** — the blindness is earned by comfort, not by narrow range. Carries a smugness the others lack, and always implies the danger is still there, unwatched."
+    }
+  ],
+  "exam_note": "The trap is treating the group as two buckets: the exam splits *within* a side — prescient vs. prudent (right call vs. safe choice), myopic vs. oblivious (saw too little vs. saw nothing) — and floats **visionary** as praise when the sentence's context makes it a charge of impracticality."
+}

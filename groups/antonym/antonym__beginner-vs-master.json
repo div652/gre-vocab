@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__beginner-vs-master",
+  "title": "Beginner vs. master",
+  "seed_words": [
+    "neophyte",
+    "dilettante",
+    "callow",
+    "fledgling",
+    "adept",
+    "connoisseur",
+    "polymath",
+    "proficient",
+    "prowess"
+  ],
+  "hallucinated": null,
+  "core": "All of these place someone on the arc from just-arrived to fully in command of a craft. The confusion is that they don't measure the same thing: some mark *time served* (how recently you entered), some mark *commitment* (whether you're doing the work or playing at it), some mark *attainment* (how good you actually are), and one measures the ability to *judge* rather than to do. Attitude splits them further — the beginner words range from tender to contemptuous, and the expert words from grudging to reverent.",
+  "exam_note": "The exam hinges on the difference between *unskilled* and *uncommitted* — **dilettante** is the trap for any blank that merely means \"beginner,\" since it condemns the attitude, not the ability; **proficient** is the trap for \"expert,\" since it deliberately stops below it.",
+  "words": [
+    {
+      "word": "neophyte",
+      "nuance": "The threshold word: it marks the date of entry, not the level of skill. Someone the insiders have just let in and are now watching — which is why it comes with a faint condescension the other beginner words lack."
+    },
+    {
+      "word": "fledgling",
+      "nuance": "The only kind word for a beginner here — untested but airborne, and granted a future. It also behaves differently grammatically: it attaches to ventures and institutions (a fledgling democracy, a fledgling airline) far more readily than to a person."
+    },
+    {
+      "word": "callow",
+      "nuance": "Not about skill at all — about a character never tested by life. It judges the person rather than their work, and it's spoken downward, by someone older who has lived through what the target only talks about. Comes glued to *youth*."
+    },
+    {
+      "word": "dilettante",
+      "nuance": "The only word here that indicts the will rather than the résumé. The dabbler could get good and doesn't want to, and worse, performs the expertise he hasn't earned. Squarely negative where a neophyte or fledgling is merely early."
+    },
+    {
+      "word": "proficient",
+      "nuance": "Praise with the ceiling built in: reliably good, and pointedly not brilliant. It's the low end of the expert half, and it wants an object — proficient *in* French, *at* soldering — where the grander words stand alone."
+    },
+    {
+      "word": "adept",
+      "nuance": "Fluency hardened out of practice, one clear rung above merely clearing the bar. It implies initiation into a specific craft rather than raw gift, and like *proficient* it points at a named skill — adept *at* something — but with admiration attached."
+    },
+    {
+      "word": "connoisseur",
+      "nuance": "The only one of these who judges rather than does. The measure is fineness of discrimination in matters of taste — wine, art, food — not volume of knowledge or ability to produce. Flattering enough that it sours instantly when self-applied."
+    },
+    {
+      "word": "polymath",
+      "nuance": "The distinguishing axis is breadth times depth: real command of several unrelated fields, which is precisely what the dilettante fails at. Near-reverent, and awarded by others in profiles and obituaries — never claimed."
+    },
+    {
+      "word": "prowess",
+      "nuance": "The odd one grammatically: it names the ability itself, not the person who has it. Always bolted to a domain (*military*, *athletic*, *technical*) and always something displayed to an impressed audience — you can be proficient in private, but prowess needs a witness."
+    }
+  ]
+}

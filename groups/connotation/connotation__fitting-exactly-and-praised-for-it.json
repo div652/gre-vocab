@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__fitting-exactly-and-praised-for-it",
+  "title": "Fitting exactly — but praised for what?",
+  "seed_words": [
+    "apposite",
+    "apropos",
+    "felicitous",
+    "germane",
+    "pertinent"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "germane",
+      "nuance": "The only one here that carries no praise — it claims a connection and nothing more. Its test is attachment to *this* question rather than the general topic, which is why it lives in debate and committee procedure and usually shows up negated (\"that's not germane\"). Say something is germane and you've said it may be discussed, not that it was well said."
+    },
+    {
+      "word": "pertinent",
+      "nuance": "Relevance plus **standing**: a chair, judge, or examiner ruling that this bears on the decision and deserves the room's time. It also attaches to documents and facts in bureaucratic language (\"all pertinent records\") in a way the others don't. Where *germane* admits a point, **pertinent** weights it."
+    },
+    {
+      "word": "apposite",
+      "nuance": "Praises **aim**, not admissibility — the quotation or analogy struck the precise nerve of the matter. It attaches almost exclusively to a chosen illustration, so it presumes someone selected it well; a raw fact is germane, but only a deliberately picked example is apposite. Critic's word, cold and evaluative: it admires accuracy without admiring beauty."
+    },
+    {
+      "word": "apropos",
+      "nuance": "Praises the **moment**: the remark arrived at exactly the right turn in the conversation. Alone in the group it works as a preposition (*apropos of your last point*), and alone it belongs to speech — an urbane, still-French drawing-room word rather than a written verdict."
+    },
+    {
+      "word": "felicitous",
+      "nuance": "The compliment turns **aesthetic**: the phrasing doesn't just fit, it gives a small click of pleasure. It's also the only one that can leave the subject of relevance entirely — a felicitous outcome is simply a lucky one. Reviewers and eulogists use it about a metaphor or a title; *infelicitous* is the polite word for clumsy."
+    }
+  ],
+  "core": "All five bless something as fitting the matter at hand, and all five are formal enough that the everyday *relevant* would do the flat work instead. What separates them is what each one is actually praising: bare connection to the question, the authority to say the connection matters, the accuracy of a chosen illustration, the timing of a remark, or the pleasure the wording gives. They also differ in who speaks them — a parliamentarian, a judge, a literary critic, a dinner guest, a reviewer — and in what they can attach to, from a document to a metaphor to an outcome.",
+  "exam_note": "The exam splits them on praise: a sentence that only establishes a logical connection supports germane/pertinent, while one signaling delight or well-chosen wording demands felicitous/apposite — and the wrong-half choice always looks defensible."
+}

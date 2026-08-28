@@ -8,5 +8,21 @@
     "betray"
   ],
   "similarity": 0.57,
-  "auto": true
+  "auto": true,
+  "core": "Three verbs that start with *be-* and blur together on the page, though only two of them actually compete for meaning. Those two sit at opposite ends of one axis: whether a surface hides an inner truth or leaks it. The third has nothing to do with concealment at all — it's about assigning worth — and gets chosen on shape alone by test-takers who register the prefix and stop reading.",
+  "words": [
+    {
+      "word": "belie",
+      "nuance": "**Belie**'s subject is the cover story — the composed face, the tidy façade, the reassuring number — and what follows is the truth being masked or knocked down. It is the only one of the three that runs concealment-ward; it never means \"reveal,\" no matter how clearly the sentence lets you infer the hidden truth."
+    },
+    {
+      "word": "belittle",
+      "nuance": "**Belittle** is the outlier: no hidden truth, no leak, just a speaker sizing something down. It requires a human agent talking *about* something from a position of assumed height, and its tone is calm dismissal — \"anyone could have done that\" — not the involuntary self-exposure the other two describe."
+    },
+    {
+      "word": "betray",
+      "nuance": "**Betray** runs the opposite direction from *belie*: its subject is the traitorous detail — a tremor, a flush, a half-second pause — and what follows is the secret getting out. The leak is always unintentional, which is why the word carries a faint taste of defection even when nobody has done anything wrong."
+    }
+  ],
+  "exam_note": "Watch the subject of the verb: *her steady voice* belies panic, *her shaking hands* betray it — swap them and the sentence still parses but points the wrong way, which is exactly the trap."
 }

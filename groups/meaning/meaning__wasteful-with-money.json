@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__wasteful-with-money",
-  "title": "Wasteful with money",
+  "title": "Wasteful with money — and the flavour of the blame",
   "seed_words": [
     "prodigal",
     "profligate",
@@ -9,5 +9,29 @@
     "squander",
     "extravagant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these hover around spending or using up more than you should, and all of them (in their money sense) disapprove. What separates them is *what the disapproval is aimed at*: the proportion of a single act, the habit of a person, the moral character behind it, or the loss of the thing itself. They also differ in scale — a household eyebrow-raise versus a national treasury — and in grammar, since one is the verb the others describe.",
+  "exam_note": "The GRE mostly tests the non-money uses: **extravagant** attached to claims or praise, and the fake \"returning home\" sense of **prodigal**.",
+  "words": [
+    {
+      "word": "prodigal",
+      "nuance": "The image is *pouring out until the vessel is empty* — money gone, not merely misspent. It's also the only word here with a genuinely complimentary use (**prodigal of praise**, prodigal of detail = lavishly generous), and the only one carrying a famous false friend: it never means \"returning\" or \"repentant.\""
+    },
+    {
+      "word": "profligate",
+      "nuance": "The institutional word — it scales up to treasuries, budgets, and policy in a way *spendthrift* never does, and it's the standard partisan accusation (**profligate spending**). Alone in this group it also indicts character directly: a profligate man may be dissolute rather than broke."
+    },
+    {
+      "word": "spendthrift",
+      "nuance": "The only one that names a **person as a type** — a settled habit, not one bad night. Its natural subject is someone draining a finite, unreplenishable pot (an heir, a lottery winner), and its tone is the mildest here: exasperated head-shaking, not moral condemnation."
+    },
+    {
+      "word": "squander",
+      "nuance": "The verb of the group, and the only member whose object is routinely **not money** — a lead, a chance, a talent, a decade. It stresses the loss rather than the spending: what's gone was valuable and is not coming back, and a single careless act is enough."
+    },
+    {
+      "word": "extravagant",
+      "nuance": "Judges **proportion, not depletion** — the thing overshot its occasion, so a rich man can be extravagant forever without wasting anything. It's the only one that can be affectionate or admiring, and the only one that readily leaves money behind entirely: extravagant claims, extravagant praise, extravagant theories."
+    }
+  ]
 }

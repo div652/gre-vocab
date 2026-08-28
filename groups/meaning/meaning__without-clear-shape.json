@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__without-clear-shape",
-  "title": "Without clear shape",
+  "title": "Without Clear Shape",
   "seed_words": [
     "amorphous",
     "inchoate",
     "indefinite",
     "diffuse"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something you can't get a firm outline around — no edges, no fixed limit, no centre of gravity. The confusion is that each locates the shapelessness somewhere different: in the object itself, in how early it is, in a limit nobody set, or in how thinly the material is spread. Only one of them implies the thing is too *new* to have form; only one implies there's plenty of substance, just no focus. Get the source of the formlessness right and the four stop overlapping.",
+  "words": [
+    {
+      "word": "amorphous",
+      "nuance": "The purely spatial one: **amorphous** says the thing has no outline, full stop — no claim about when it started, who blurred it, or whether it will ever firm up. It's the only member with a real technical sense (glass, non-crystalline solids), which is why even its critical use sounds like a diagnosis rather than a complaint."
+    },
+    {
+      "word": "inchoate",
+      "nuance": "The only one that timestamps the shapelessness: **inchoate** things are formless *because they have barely begun*. It attaches naturally to feelings and movements too new to be named — inchoate rage, an inchoate movement — where amorphous would suggest the thing has simply always been a blob."
+    },
+    {
+      "word": "indefinite",
+      "nuance": "The only one about a limit that was never *set*, usually by somebody who could have set it. **Indefinite** covers duration as readily as outline — indefinite leave, detained indefinitely — and its chill comes from a withheld commitment, not from any lack of form in the thing itself."
+    },
+    {
+      "word": "diffuse",
+      "nuance": "The only one where the substance is all present and merely spread too thin to land: a **diffuse** essay has plenty of content, just no centre. It's also the only verb here (heat, light, power diffuse outward), and as a criticism it opposes *concise* and *trenchant*, not *defined*."
+    }
+  ],
+  "exam_note": "Traps swap **inchoate** for \"incomplete\" (it means barely begun, not half-finished) and **diffuse** for \"vague\" or \"empty\" (the material is there — it just never concentrates)."
 }

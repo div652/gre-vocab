@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__shy-to-cowardly",
+  "title": "Shy to cowardly",
+  "seed_words": [
+    "diffident",
+    "timorous",
+    "craven"
+  ],
+  "hallucinated": null,
+  "core": "All three describe someone who hangs back when they could step forward, and all three are unflattering. The difference is what supplies the brake — a low estimate of your own worth, a nervous fear of acting, or the willingness to abandon a duty to keep yourself safe — and how harshly the speaker is judging you for it. The scale runs from a sympathetic diagnosis of self-doubt to a moral conviction.",
+  "words": [
+    {
+      "word": "diffident",
+      "nuance": "The brake is **self-estimate, not fear**: the diffident person hesitates because they doubt their opinion is worth airing, not because anything bad will happen. No danger, no duty, no stakes — just an unraised hand in a meeting. Uniquely of the three, the speaker usually thinks it's misplaced and wishes you'd speak up."
+    },
+    {
+      "word": "timorous",
+      "nuance": "Here the brake is **fear of acting**, and it's a settled disposition rather than a moment of nerves. Literary and faintly withering — it evokes shrinking and hedging, and lands hardest on bodies that ought to decide: a timorous board, a timorous policy. Unlike **diffident**, self-worth isn't the issue; unlike **craven**, no one has been betrayed."
+    },
+    {
+      "word": "craven",
+      "nuance": "Not a temperament but a **verdict**: there was a duty to hold the line and the person folded to save their own skin. It presumes an audience with standards — editorials, courtrooms — and is only ever hurled at someone, never claimed. Its company is *capitulation, appeasement, silence*; **timorous** merely fails to act, **craven** gives in."
+    }
+  ],
+  "exam_note": "The sentence's moral temperature decides it: a self-underrating student is diffident, a dithering committee timorous, and only a betrayed obligation licenses craven — so watch for whether the context supplies a duty that was abandoned."
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__looking-down-from-above",
+  "title": "Looking Down From Above",
+  "seed_words": [
+    "disdain",
+    "scorn",
+    "deride",
+    "belittle",
+    "patronize",
+    "haughty"
+  ],
+  "hallucinated": null,
+  "core": "Every word here assumes a height gap: someone has placed themselves above the target and is acting on that assumption. What separates them is temperature (cold silence vs. curled lip), volume (a raised eyebrow vs. a public laugh), and what gets attacked (the person, their achievement, or nothing in particular — just a manner worn in the room). They also split grammatically: some name a feeling, some an act done to a victim, one names only a bearing.",
+  "words": [
+    {
+      "word": "disdain",
+      "nuance": "The **cold** one, and the quiet one — it works by *withholding*: no reply, no engagement, no notice taken. Uniquely, its verb can mean refusing to act at all (*he disdained to answer*), so the object is often an action beneath you rather than a person."
+    },
+    {
+      "word": "scorn",
+      "nuance": "The **audible** one — the lip curls and the mouth opens; you *pour* and *heap* it. Its second sense adds active pushing-away: to **scorn** an offer, help, or advice is to reject it as unworthy, so its object is frequently a thing extended to you, not a person."
+    },
+    {
+      "word": "deride",
+      "nuance": "The only one whose weapon is **laughter**, and it needs an audience — this is the public verdict of critics and columnists, delivered as though the question were already settled. Formal, third-party, usually aimed at proposals, films, and beliefs rather than at a person in the room."
+    },
+    {
+      "word": "belittle",
+      "nuance": "Doesn't attack the person — **shrinks the accomplishment**. Its objects are achievements, fears, and efforts (*\"she got lucky\"*), the tone stays calm and often smiling, and the harm is cumulative and deniable, which is why it's the word for bosses, parents, and rivals."
+    },
+    {
+      "word": "patronize",
+      "nuance": "The only one that arrives **wrapped as kindness** — the unneeded explanation, the slow voice, praise pitched at a child — which is what makes it hard to object to. It's also the only word here with a fully neutral sense: to be a customer of, or to sponsor."
+    },
+    {
+      "word": "haughty",
+      "nuance": "The only **adjective**, and the only one that needs no victim — it describes a bearing (chin up, cool stare, unimpressed) rather than something done to anyone. Literary and old-world, always an outsider's verdict; nobody calls themselves haughty."
+    }
+  ],
+  "exam_note": "The classic trap is **patronize** in its innocent sense (\"patronized the same tailor for years\") — pick the contempt reading only if the sentence supplies a person being talked down to; and remember **haughty** describes the person's manner while the rest describe an act aimed at a target."
+}

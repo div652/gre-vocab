@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__virtue-performed-rather-than-held",
+  "title": "Virtue performed rather than held",
+  "seed_words": [
+    "sanctimonious",
+    "pious",
+    "hypocrite",
+    "didactic",
+    "posturing"
+  ],
+  "hallucinated": null,
+  "core": "All five sit in the gap between professed morality and lived morality — the suspicion that a stance is being *displayed* rather than *held*. Each one indicts a different piece of that gap: the tone of the display, the emptiness of the words, the person's actual conduct, the urge to lecture, the absence of any intention to act. Two of them can be entirely neutral in the right sentence; the other three are accusations no matter where you put them.",
+  "exam_note": "The GRE leans on polarity: **pious** and **didactic** take their charge from what they modify, while **sanctimonious** and **posturing** are pejorative in every context — and only **hypocrite** actually asserts that the person's conduct contradicts the principle.",
+  "words": [
+    {
+      "word": "sanctimonious",
+      "nuance": "Indicts the **manner** — the smug, sighing, downward-looking delivery. Of the group it is the only one whose sting is aimed at tone rather than content or conduct: the doctrine may be sound and the person may even live it, but the halo is visible and that alone convicts."
+    },
+    {
+      "word": "pious",
+      "nuance": "The only word here that can be sincere praise (*a pious woman*, *a pious custom*). Its contempt is outsourced to the noun it modifies — a **pious hope** or **pious platitude** is costless virtue — which lets a writer sneer while retaining deniability. **Sanctimonious** never offers that cover."
+    },
+    {
+      "word": "hypocrite",
+      "nuance": "The only noun, and the only charge that requires an actual **violation**: the others describe how something is said, this one says the sayer does the opposite. Note the principle is usually left standing — the person is what's counterfeit — so it attacks the speaker without refuting the claim."
+    },
+    {
+      "word": "didactic",
+      "nuance": "Carries **no hypocrisy at all**; the offence is pedagogical, not moral. It attaches happily to works — a novel, a film, a fable — accusing them of lecturing instead of trusting the reader. A didactic writer may fully believe and live the lesson; the complaint is that they insisted on delivering it."
+    },
+    {
+      "word": "posturing",
+      "nuance": "Drops morality entirely — the pose can be toughness, defiance, or radicalism. The specific hollowness is **no intent to follow through**, and the poser usually wants something concrete out of it, typically leverage. Cooler and more strategic than **sanctimonious** self-display, which seeks admiration rather than advantage."
+    }
+  ]
+}

@@ -9,5 +9,29 @@
     "boisterous",
     "scintillating"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "vivacious",
+      "nuance": "**Vivacious** is charm in company — the energy comes out as talk, laughter, and animation directed at other people, so it needs an audience the way the others don't. It describes a person's manner, never a mood, a market, or a noise level; and it's applied to women far more than men, which gives it a faintly dated edge."
+    },
+    {
+      "word": "jocund",
+      "nuance": "**Jocund** is the quiet one: bright spirits with no output — no noise, no wit, no charm offensive, just lightness in the air. It's also the only member marked for register, belonging to verse and pastiche; call a meeting jocund and you're joking. It can settle on a morning or a landscape, not just a person."
+    },
+    {
+      "word": "buoyant",
+      "nuance": "**Buoyant** presupposes downward pressure — it praises what didn't sink, so it implies bad news survived rather than good spirits displayed. It's the only one that describes an economy or demand (rising, healthy) and the only one with a literal physics sense. Quiet resilience, not visible sparkle."
+    },
+    {
+      "word": "boisterous",
+      "nuance": "**Boisterous** is the only one defined by volume and bodies — loud, physical, spilling over furniture — and the only one that can double as a complaint (a boisterous crowd may need managing). The good humour is what keeps it out of *rowdy* territory. Extends to wind and sea: rough, wild."
+    },
+    {
+      "word": "scintillating",
+      "nuance": "**Scintillating** rates *output*, not temperament: an essay, a first half, an hour of conversation. It measures cleverness rather than cheer — you can be scintillating while cold — and it hints at flash over depth. It also takes sarcasm better than any other compliment in English; said flat, it means tedious."
+    }
+  ],
+  "core": "All five sit on the bright, high-spirited end of temperament: something is animated, up, giving off energy rather than sitting still. They split on the *channel* that energy takes — social charm, quiet good mood, resistance to being pushed down, sheer noise, or verbal brilliance — and on what noun each can legally attach to. Several also carry a second life outside people entirely: floating objects, rising markets, rough seas, flashes of light.",
+  "exam_note": "The GRE tests the noun, not the mood: a buoyant *economy*, a boisterous *crowd*, scintillating *conversation*, a vivacious *hostess* — pick the word whose sense-range covers the subject, and remember scintillating rewards wit while boisterous only rewards volume."
 }

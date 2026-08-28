@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__boldness-the-speaker-admires",
+  "title": "Boldness the speaker admires",
+  "seed_words": [
+    "intrepid",
+    "plucky",
+    "mettlesome",
+    "valor",
+    "redoubtable",
+    "fortitude"
+  ],
+  "hallucinated": null,
+  "core": "All six are approving words for courage: the speaker is on the subject's side, and the nerve is being praised rather than diagnosed as recklessness. They split on three axes. First, what kind of courage — going toward danger, holding under it, or simply being frightening to face. Second, who qualifies — an underdog, a soldier, an opponent, a patient. Third, how the praise sounds — ceremonial, literary, warmly amused, or faintly patronising.",
+  "words": [
+    {
+      "word": "intrepid",
+      "nuance": "The only one about *going toward* the unknown, again and again — a standing temperament, not a moment. It needs no enemy, no long odds and no wound: an explorer or a reporter qualifies simply by heading out. It's also the group's default vehicle for gentle mock-heroics about a colleague."
+    },
+    {
+      "word": "plucky",
+      "nuance": "The only one that requires the subject to be small, young, poor or outmatched — a superpower or a grandmaster cannot be plucky. It's also the only one that mildly diminishes while it praises: the word for the side that fought hard and still lost."
+    },
+    {
+      "word": "mettlesome",
+      "nuance": "The only one where the courage comes with surplus energy — the subject is eager, hard to hold, more in need of restraining than encouraging. Its home subject is a horse, and applied to a person it keeps that flavour. Literary; you meet it in a novel or a toast, not an email."
+    },
+    {
+      "word": "valor",
+      "nuance": "A noun, and the ceremonial one: it belongs to citations, medals and eulogies, and it presumes combat or a heroic rescue. It names discrete deeds under fire rather than a character trait, which is why applying it to office life reads as deliberate grandiosity."
+    },
+    {
+      "word": "redoubtable",
+      "nuance": "The odd one out: it describes the effect you have on whoever faces you, not any feeling inside you. The subject need not be in danger at all — they *are* the danger, and the compliment is paid from across the table by someone who respects the threat."
+    },
+    {
+      "word": "fortitude",
+      "nuance": "A noun, and the only passive one: nothing is charged, only borne. It needs duration and hardship — illness, a long trial, grinding setback — not risk, and it implies quiet dignity with no audience. Nobody shows fortitude for ten seconds."
+    }
+  ],
+  "exam_note": "The trap is fit, not warmth: all six are positive, so the answer turns on whether the sentence supplies an underdog (plucky), an opponent's viewpoint (redoubtable), a battlefield (valor), or a long ordeal (fortitude) — and on whether the blank needs a noun."
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__formal-agreement",
-  "title": "Formal agreement",
+  "title": "Formal agreement — and its three near-misses",
   "seed_words": [
     "accord",
     "consensus",
     "comity",
     "détente"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe parties who are not fighting — typically states, institutions, or factions rather than individuals — and all carry diplomatic, headline-page register. But they sit at different points of the process: one is the settled document, one is the settled opinion, one is the code of conduct that lets adversaries operate side by side, and one is merely the drop in temperature that might precede any of them. The trap is that only two of them actually name an *agreement* at all; the other two name behaviour and mood.",
+  "words": [
+    {
+      "word": "accord",
+      "nuance": "**Accord** is the instrument — a thing with parties, terms, and usually a signing ceremony (the Helsinki Accords). It's the only member of this group you can *reach*, *sign*, and *violate*, because it has content. Its verb sense is unrelated to peacemaking: to accord someone recognition is to bestow it from a position of standing."
+    },
+    {
+      "word": "consensus",
+      "nuance": "**Consensus** is the position, not the paperwork — it forms *inside* one deliberating body (a committee, a discipline, a newsroom), not between two opposed sides across a table. Nothing is signed and no vote is taken; it's cited precisely to claim collective authority without proving unanimity, which is why \"the consensus is shifting\" is meaningful and \"the accord is shifting\" is not."
+    },
+    {
+      "word": "comity",
+      "nuance": "**Comity** settles no question at all — it's the standard of conduct rivals observe *while still disagreeing*: deference, restraint, honouring the other's forms without being obliged to. It attaches only to institutions and their dealings (the comity of the Senate, comity of nations), and it can be perfectly intact between two courts that rule against each other."
+    },
+    {
+      "word": "détente",
+      "nuance": "**Détente** names a *change*, not a state — hostility easing from a prior high, with nothing resolved and no goodwill implied. The two sides have stopped aiming, not stopped hating; a détente can exist without a single meeting, and it evaporates the moment the temperature rises again."
+    }
+  ],
+  "exam_note": "The exam baits you with \"agreement\": in a sentence about ex-enemies merely being civil or less hostile, **consensus** and **accord** are the tempting fills, but the correct answer is **comity** (conduct) or **détente** (temperature) precisely because nothing was actually agreed."
 }

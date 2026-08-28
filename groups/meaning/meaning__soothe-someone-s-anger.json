@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__soothe-someone-s-anger",
-  "title": "Soothe someone's anger",
+  "title": "Soothing anger: what the peace cost you",
   "seed_words": [
     "mollify",
     "placate",
@@ -10,5 +10,33 @@
     "propitiate",
     "conciliatory"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these are about taking the heat out of someone's anger — a grievance already exists, and someone is acting to bring the temperature down. They differ almost entirely in **what the peace costs and who is above whom**: whether a price was paid, whether the soother was the weaker party, and whether the calmed party ends up satisfied or merely quiet. The gloss \"calm someone down\" is identical across the set; the sneer, the tribute, and the surrender are not. One of them describes only a manner rather than an act.",
+  "words": [
+    {
+      "word": "mollify",
+      "nuance": "The gentlest and the only one aimed squarely at **feelings rather than demands** — you **mollify** fears, concerns, hurt pride, not a list of terms. It names no price and no power gap, just a softening gesture; note how often it appears negated (\"failed to mollify\"), which no other word here does as a matter of habit."
+    },
+    {
+      "word": "placate",
+      "nuance": "Names the tactic — a concession — and quietly rates it **cheap**. \"A few tweaks to **placate** the board\" tells you the tweaks were token and the board was a nuisance being managed; the cynicism attaches to the person soothed, not to the soother."
+    },
+    {
+      "word": "appease",
+      "nuance": "The only one that prices the peace as **surrender**: you got quiet by yielding to demands, and the word says the yielder was weak and the demander will be back. It alone also takes appetites as objects — **appease** hunger, curiosity — where calming a person isn't involved at all."
+    },
+    {
+      "word": "pacify",
+      "nuance": "Condescending: it treats the other side's anger as **noise to be switched off** rather than a claim to be answered, so the **pacified** party ends up quiet, not satisfied. Uniquely, it scales up to territory — armies **pacify** a region — which is why it reads as a euphemism in official prose."
+    },
+    {
+      "word": "propitiate",
+      "nuance": "Presumes a **hierarchy with you at the bottom**: gods, kings, inspectors, the furious department head. You pay upward — an offering, a sacrifice — and the ritual smell means using it of an ordinary person mocks them as a petty deity collecting tribute."
+    },
+    {
+      "word": "conciliatory",
+      "nuance": "An adjective describing **manner, not payment** — a **conciliatory** remark concedes literally nothing, it just lowers the temperature and signals willingness to end the fight. The only positive word here: dignified, diplomatic, and criticised at worst as looking soft."
+    }
+  ],
+  "exam_note": "The exam plants the clue in the cost or the power gap — \"gave in to every demand\" (appease), \"offered up to an angry superior\" (propitiate), \"tone that conceded nothing\" (conciliatory) — and offers a bland soother like mollify or placate that fits \"calmed\" but ignores that clue."
 }

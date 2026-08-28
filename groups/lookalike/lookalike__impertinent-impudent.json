@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__impertinent-impudent",
-  "title": "impertinent / impudent / pernicious…",
+  "title": "impertinent / impudent / pernicious / perspicacious / pertinacious / pertinent",
   "seed_words": [
     "impertinent",
     "impudent",
@@ -11,5 +11,33 @@
     "pertinent"
   ],
   "similarity": 0.74,
-  "auto": true
+  "auto": true,
+  "core": "These are not a meaning-group; they are a **spelling** group. Six formal words built on look-alike Latin stems — *per-* and *im-per-* plus three or four letters of blur — that the eye files as one word and the memory then fills in with the wrong definition. Only two of them are genuinely close in sense (both mean cheeky); the rest run off in completely different directions: slow harm, sharp insight, stubborn grip, relevance. The danger is that each one is common enough to feel familiar and rare enough that you never checked which was which.",
+  "words": [
+    {
+      "word": "impertinent",
+      "nuance": "**Impertinent** is cheek measured against *rank* — the offence is that you had no standing to say it, and the speaker's complaint quietly asserts their own higher position. It is also the only word here that doubles as a direct negation of another: in legal and formal use it means *not pertinent, irrelevant*."
+    },
+    {
+      "word": "impudent",
+      "nuance": "Same cheek as *impertinent*, different flavour: **impudent** is brazen and enjoying itself, where impertinent is prissy and presumptuous. It describes a person's whole manner — the grin, the refusal to be cowed — rather than one out-of-line remark, and it never carries the \"irrelevant\" sense."
+    },
+    {
+      "word": "pernicious",
+      "nuance": "The only word in the group about **damage** rather than speech, relevance, or thought. It attaches to influences, doctrines, myths and habits — not to people and not to explosions — because its whole point is that the harm is slow and concealed until it is too late to undo."
+    },
+    {
+      "word": "perspicacious",
+      "nuance": "The group's one **compliment**, and the one about seeing: penetrating judgement of people and motives, cerebral and above *shrewd* or *astute*. Note it describes the **observer**, never the thing observed — a perspicacious reader, not a perspicacious argument."
+    },
+    {
+      "word": "pertinacious",
+      "nuance": "Shares the *pertin-* stem with **pertinent** and has nothing to do with relevance — it is about **grip**. It is *tenacious* with the admiration removed: the holding-on has gone on too long and the speaker is worn out by it, which is why it suits creditors, coughs and rumours."
+    },
+    {
+      "word": "pertinent",
+      "nuance": "The only positive relevance word here, and it is a **verdict**, not an observation: someone with authority over the room — chair, judge, examiner — ruling that this fact bears on the decision. Compare *impertinent*, which in its older sense is exactly its opposite, not merely its rude cousin."
+    }
+  ],
+  "exam_note": "The GRE baits the stem, not the sense: it will offer **pertinacious** where a sentence needs **pertinent**, or **perspicacious** where it needs **perspicuous** (clearly expressed) — read the letters after *per-* before you commit."
 }

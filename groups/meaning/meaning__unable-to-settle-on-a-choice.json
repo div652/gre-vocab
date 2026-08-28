@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__unable-to-settle-on-a-choice",
-  "title": "Unable to settle on a choice",
+  "title": "Failing to Commit to a Choice",
   "seed_words": [
     "vacillate",
     "irresolute",
     "ambivalent",
     "demur"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit at the gap between a question and an answer — the commitment that hasn't been made. But they occupy different places in that gap: one names the inner conflict that causes the stall, one names the visible back-and-forth, one names the person who habitually stalls, and one names a single polite move made out loud to somebody else. Confusion comes from glossing all of them as \"hesitant,\" which flattens the distinction between a mental state, a behavioral pattern, a character verdict, and a speech act.",
+  "words": [
+    {
+      "word": "vacillate",
+      "nuance": "The only one that names visible motion over time — the decision is made, unmade, and remade, and an observer can count the reversals. Contrast **irresolute**, where the person may never move at all: a vacillator keeps switching sides, an irresolute one never picks."
+    },
+    {
+      "word": "irresolute",
+      "nuance": "The only one that is a verdict on the person rather than an episode or a state — a permanent-sounding label, applied from outside and usually in retrospect (biographies, histories). It also covers pure inaction at the decisive moment: an **irresolute** commander needn't waver between plans, he simply never gives the order."
+    },
+    {
+      "word": "ambivalent",
+      "nuance": "The only one that names the internal cause rather than any outward symptom, and the only neutral one — no blame attaches. You can be **ambivalent** and still act crisply; the word reports what's going on inside, not what happens to the decision."
+    },
+    {
+      "word": "demur",
+      "nuance": "Not a state of mind at all but a social act: it requires a proposal, an audience, and a moment. To **demur** is one mild, mannered pushback — the others describe a mind that can't settle, this describes a person who has settled on \"not quite,\" and says so politely."
+    }
+  ],
+  "exam_note": "Two traps: **ambivalent** is offered where the sentence actually wants indifference or apathy (it means the opposite — caring in two directions), and **demur** is offered as a synonym for chronic wavering when it only ever denotes a single polite objection."
 }

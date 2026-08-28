@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__spoil-by-mixing-or-staining",
-  "title": "Spoil by mixing or staining",
+  "title": "Spoiled from Within: Adulterate, Debase, Vitiate, Tarnish",
   "seed_words": [
     "adulterate",
     "debase",
     "vitiate",
     "tarnish"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something good being degraded rather than destroyed — the object survives, keeps its name, and still looks roughly like itself, but it is no longer worth what it was. The damage comes from inside or from something added, not from a blow landed from outside. What separates them is *what* gets spoiled: the substance, the value, the validity, or just the gleam.",
+  "words": [
+    {
+      "word": "adulterate",
+      "nuance": "The only one that requires an actual added ingredient — something cheaper was physically mixed in, usually for profit and usually in secret. It names a fraud with a recipe: milk plus water, oil plus oil, heroin plus baking soda. Watch for the negative, **unadulterated**, which the GRE uses far more than the verb."
+    },
+    {
+      "word": "debase",
+      "nuance": "Targets **worth and dignity**, not substance — the coin still reads *silver*, the office still carries its title. It is the only one in the group that comfortably takes a person as object in the moral sense (*debase yourself*), meaning made to act beneath your station. There is always an implied *before*, a higher value that has been talked down."
+    },
+    {
+      "word": "vitiate",
+      "nuance": "Attacks **validity**: after this, the thing no longer counts. One false premise, one fraudulent signature, one procedural defect, and the argument, contract, or consent is void — the flaw needn't be large, only fatal. It is the group's legal-philosophical term, and the only one you can apply to reasoning."
+    },
+    {
+      "word": "tarnish",
+      "nuance": "Purely **surface and gradual** — the shine is gone, nothing was added and nothing was invalidated. It attaches almost exclusively to metal and to reputations, and presupposes there was lustre to lose. Coolest of the four in tone: no moral outrage, no fraud alleged, and unlike the rest it can be polished off."
+    }
+  ],
+  "exam_note": "The GRE punishes over-reading strength: a blank about an argument or a contract wants **vitiate** (validity destroyed), not **tarnish** (reputation dulled) — and **adulterate** is wrong unless something was literally mixed in."
 }

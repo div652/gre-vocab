@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__complaint-as-a-temperament",
+  "title": "Complaint as a Temperament",
+  "seed_words": [
+    "querulous",
+    "petulant",
+    "captious",
+    "fractious",
+    "grumble",
+    "curmudgeon"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe someone whose default setting is dissatisfaction — the grievance is a standing habit, not a reaction to one genuine outrage. Every one of them belittles the complainer rather than validating the complaint: the implied verdict is that the trouble is small and the reaction is disproportionate. They split on *how* the discontent comes out — the sound of it, the childishness of it, the nitpicking of it, the squabbling of it — and on whether it targets a person, a piece of work, or nobody at all.",
+  "exam_note": "The GRE clusters three of these as near-synonyms and forces you to pick by target: **captious** needs something to find fault *with* (a text, an argument), **petulant** needs the offence to be beneath an adult, **querulous** needs an audible whine — swap them and the sentence breaks.",
+  "words": [
+    {
+      "word": "querulous",
+      "nuance": "Judged on the **tone of voice**, not the substance — the whine, the sigh, the put-upon note. It's the only one here that carries a whiff of frailty rather than temper: writers attach it to the old, the sick, and the worn-out, and it invites pity as much as irritation."
+    },
+    {
+      "word": "petulant",
+      "nuance": "The one that indicts the complainer's **maturity**. It's active — snapping, pouting, a slammed drawer — and it says an adult has regressed to a thwarted child over something not worth it. Unlike **captious**, there is no argument being made, just a mood being displayed."
+    },
+    {
+      "word": "captious",
+      "nuance": "The only **intellectual** one: it requires a target — a manuscript, a proposal, a clause — and it works by objection rather than mood. The motive is point-scoring, not distress; a captious critic is enjoying himself, where a **querulous** one is suffering."
+    },
+    {
+      "word": "fractious",
+      "nuance": "The only one that implies **friction with others**: not just complaining but resisting, kicking against handling. Alone among these it takes a plural subject — a fractious coalition or union squabbles internally and may split — and of a person it's the observer's weary word for someone who is hard to manage."
+    },
+    {
+      "word": "grumble",
+      "nuance": "The only **verb**, and the only one implying **compliance** — the grumbler does the thing anyway, muttering. Volume is the point: pitched to be overheard, not addressed to anyone, which makes it the mildest and most sympathetic of the set."
+    },
+    {
+      "word": "curmudgeon",
+      "nuance": "The only **noun for the person**, and the only one you can say **fondly** — people call themselves curmudgeons cheerfully. It bundles the habit into a comic stock character (old, gruff, unimpressed by anything post-1975) and promises the ill temper is surface only, with no malice behind it."
+    }
+  ]
+}

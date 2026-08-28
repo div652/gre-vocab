@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__tender-to-sickly",
+  "title": "Tender to sickly",
+  "seed_words": [
+    "sentimental",
+    "mawkish",
+    "cloying"
+  ],
+  "hallucinated": null,
+  "core": "All three describe emotion — or sweetness — supplied in greater quantity than the occasion can absorb. The scale runs from feeling that merely governs someone, through feeling laid on so thickly it nauseates, to pleasantness that has curdled from sheer repetition. Each implies a judgment about *dosage*, not about whether feeling belongs at all. The higher two are permanent insults; only the first can be said kindly.",
+  "words": [
+    {
+      "word": "sentimental",
+      "nuance": "The only member that can be affectionate rather than damning — a **sentimental** keepsake is harmless. It also names a *direction* of feeling the others don't: soft, sweet, backward-looking, nostalgic. Rage is emotional but never sentimental."
+    },
+    {
+      "word": "mawkish",
+      "nuance": "The critic's verdict, and always hostile: **mawkish** says the emotion was *manufactured* — pumped up to move you, and you saw the machinery. It attaches to made things (a film, a eulogy, a poem) and it flatters the speaker, who is announcing they declined to cry."
+    },
+    {
+      "word": "cloying",
+      "nuance": "The only one that works on literal sweetness — perfume, frosting, a third slice of cake — and it keeps that bodily aftertaste even when applied to a film. It also has a time signature the others lack: things *become* **cloying**, pleasant at first, sickening by the fourth repetition with no relief."
+    }
+  ],
+  "exam_note": "Watch for context that only permits the neutral end — an affectionate keepsake sentence takes *sentimental*, and the trap answers *mawkish*/*cloying* are wrong purely because their contempt has nowhere to land."
+}

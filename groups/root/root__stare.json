@@ -8,5 +8,25 @@
     "stanch",
     "substantiate"
   ],
-  "auto": true
+  "auto": true,
+  "words": [
+    {
+      "word": "extant",
+      "nuance": "**Extant** is standing *out* of the wreckage — it describes what physically survives after time has destroyed the rest, so it attaches to counted objects (manuscripts, colonies, letters), never to abstractions or claims. Of the four, it's the only one that is purely an observation about the world, with no agent doing anything."
+    },
+    {
+      "word": "staid",
+      "nuance": "**Staid** is standing *still* — the sense of stopped motion turned into a character judgement about a person or institution that is respectable and has quit surprising anyone. It's the only word here that carries a verdict; the other three are neutral about their subject."
+    },
+    {
+      "word": "stanch",
+      "nuance": "**Stanch** makes something *stop* — the only word that acts on a flow, and it requires a leak already running (blood, deposits, defections). It buys containment, not a cure, which is why it names an emergency measure rather than a fix."
+    },
+    {
+      "word": "substantiate",
+      "nuance": "**Substantiate** puts something *under* — it builds a foundation beneath words, not things, so its objects are always assertions: allegations, rumours, charges. The burden falls on whoever spoke; unlike *corroborate*, no second witness is implied, just evidence from you."
+    }
+  ],
+  "exam_note": "Traps are the lookalikes, not the meanings: **stanch** (stop a flow) vs *staunch* (loyal), **staid** vs *stayed*, **extant** vs *extinct* — and in sentence equivalence, **substantiate** is swapped for *corroborate*, which wrongly demands a second independent source.",
+  "core": "Latin *stāre* gives all of these the image of something holding its position instead of moving, leaking, or falling. The root shows up in four directions: remaining in place over time, refusing to move at all, keeping something from running out, and being solid enough to hold weight. The overlap is structural rather than semantic — they are not synonyms, so the risk is misreading the root, not confusing the definitions."
 }

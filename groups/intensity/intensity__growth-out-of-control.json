@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__growth-out-of-control",
+  "title": "Growth out of control",
+  "seed_words": [
+    "burgeon",
+    "proliferate",
+    "rampant"
+  ],
+  "hallucinated": null,
+  "core": "All three describe something increasing fast and on its own steam — no one is adding units by hand. The differences are the speaker's verdict and what exactly is increasing: the size of one thing, the number of copies, or the absence of anything holding it back. They sit on a rising scale from welcome to alarming, and the exam almost always tests the verdict rather than the rate.",
+  "words": [
+    {
+      "word": "burgeon",
+      "nuance": "The only approving one: **burgeon** frames the growth as healthy and early — a small promising thing visibly getting bigger. It tracks *size and vitality*, not count, and it's intransitive, so nothing outside is driving it. You'll usually meet it as *burgeoning* modifying a noun the writer is glad about (talent, demand, middle class). A tumour never burgeons."
+    },
+    {
+      "word": "proliferate",
+      "nuance": "**Proliferate** is about *number*, not size — copies spawning copies, faster than anyone is counting. It's the only verb here that can take an object (*proliferate weapons*), and the only one that flips with domain: clinically neutral in biology, faintly alarmed everywhere else (*rumours, shell companies, conspiracy theories*). Where the others describe one thing swelling, this describes a population."
+    },
+    {
+      "word": "rampant",
+      "nuance": "**Rampant** doesn't measure growth at all — it reports that nothing is stopping it. It's an adjective, so it can't fill a verb slot, and it collocates almost exclusively with things you'd want stopped: corruption, inflation, speculation, weeds. Using it is a complaint about a missing brake, which is why it's the only one that can't be praise. (Separate heraldic sense: an animal reared on its hind legs, *a lion rampant*.)"
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps hinge on the sentence's attitude marker, not its size marker — a clause like \"despite regulators' efforts\" forces **rampant**, \"showed early promise\" forces **burgeon**, and **proliferate** is the deceptively safe middle that's only right when the sentence is counting copies; also note **rampant** is an adjective and drops out of any verb slot."
+}

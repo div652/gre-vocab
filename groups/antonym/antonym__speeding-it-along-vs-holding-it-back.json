@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__speeding-it-along-vs-holding-it-back",
+  "title": "Helping it along vs. holding it back",
+  "seed_words": [
+    "expedite",
+    "bolster",
+    "abet",
+    "conducive",
+    "galvanize",
+    "hamper",
+    "hinder",
+    "impede",
+    "impediment",
+    "inhibit",
+    "curb",
+    "check"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is an outside force applied to something already under way: one half clears the path, adds power, or creates favourable conditions; the other half adds friction. Crucially, almost none of them start or finish anything. The forward words don't cause the outcome, they enable it; the backward words don't stop the thing, they slow, weaken, or hold it. What separates them is *what* they act on (a queue, an argument, a crowd, an impulse, a policy), whether the force is a jolt or a background condition, and what the choice of word reveals about the person using it.",
+  "words": [
+    {
+      "word": "expedite",
+      "nuance": "The only forward word whose object is a **procedure with a queue** — a claim, a visa, a shipment. It adds no energy; it removes delay, and implies someone with the authority to jump the line."
+    },
+    {
+      "word": "bolster",
+      "nuance": "The only word that betrays **weakness in its object**: what you bolster was sagging — a thin argument, flagging morale, a currency under pressure. Nobody bolsters something already solid."
+    },
+    {
+      "word": "abet",
+      "nuance": "The only help that is itself **criminal**, and it's the *mouth* rather than the hands — the egging-on that makes the deed happen. Its object is a wrongdoer, never a project."
+    },
+    {
+      "word": "conducive",
+      "nuance": "Not an action at all — an **adjective describing conditions**, so it has no agent doing the helping. It also demands *to*, and what follows is always something wanted: sleep, learning, recovery."
+    },
+    {
+      "word": "galvanize",
+      "nuance": "A **single jolt to people's will**, and it presumes they were inert until now. Unlike *abet* or *incite*, the jolter is admired — speeches and crises galvanize; nagging does not."
+    },
+    {
+      "word": "hamper",
+      "nuance": "Friction that **weighs you down** rather than blocks you — you still move, just clumsily and at half strength. Watch for the fixed passive: *hampered by* weather, budget cuts, missing data."
+    },
+    {
+      "word": "hinder",
+      "nuance": "The **mildest and vaguest** of the drag words, and the one welded to *progress* — it adds generic friction to advancement without specifying whether the obstacle is in the path or on your back."
+    },
+    {
+      "word": "impede",
+      "nuance": "Puts something squarely **in the path**: fog impedes visibility, red tape impedes reform. Where *hamper* loads you up, impede stands in front of you — and it's accidental, never malicious."
+    },
+    {
+      "word": "impediment",
+      "nuance": "The **noun**, and it names a lasting *condition* attached to the sufferer rather than a passing event — a speech impediment, a legal impediment to marriage. Impediments get removed or overcome, not smashed."
+    },
+    {
+      "word": "inhibit",
+      "nuance": "Restraint applied **at the source**, damping the impulse or reaction before it emerges — cold inhibits growth, shyness inhibits speech. The only one that is routinely **internal**, which is why *inhibitions* means self-restraint."
+    },
+    {
+      "word": "curb",
+      "nuance": "**Deliberate, chosen** restraint of something with real momentum, held to an acceptable level rather than zero — inflation, emissions, your own temper. The hand-on-the-reins word of policy prose."
+    },
+    {
+      "word": "check",
+      "nuance": "The **strongest** here: it can arrest an advance in the moment, yet the thing is still there and still pushing, merely held. Uniquely, it works as a noun for the counterweight itself — *a check on executive power*."
+    }
+  ],
+  "exam_note": "The trap is always strength: the exam baits the restraint words with *prevent, halt, abolish* and the forward words with *cause, produce* — but every word in this group is partial, so the correct answer stops short of the absolute. Second nouns (hamper = basket, bolster = cushion, curb = kerb, check = counterweight) are the other bait."
+}

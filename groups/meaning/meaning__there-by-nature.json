@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__there-by-nature",
-  "title": "There by nature",
+  "title": "Built in — by nature, birth, place, or habit",
   "seed_words": [
     "intrinsic",
     "inborn",
     "endemic",
     "ingrained"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say a quality is a permanent part of something rather than a passing or superficial addition — it won't wash off, and you can't separate it from the thing without changing what the thing is. The confusion is that they agree on *fixed* and differ entirely on *how it got there*: from the thing's own essence, from birth, from long residence in a place, or from years of repetition. Two of them also carry a verdict — one indicts an institution, one concedes defeat — while the other two are purely descriptive.",
+  "exam_note": "The trap is treating them as interchangeable \"natural/inherent\" synonyms: **ingrained** is acquired (habit, not birth), **endemic** attaches to a place or population rather than an individual, and **intrinsic** contrasts with *extrinsic*, not with *learned* — GRE sentences usually hinge on exactly that contrast word.",
+  "words": [
+    {
+      "word": "intrinsic",
+      "nuance": "The analytical one, and the only one defined by a contrast rather than an origin story: it answers \"what's left when you strip off everything added from outside?\" — value vs. price, motivation vs. bonus. It says nothing about when the quality appeared, and it applies happily to objects, arguments, and abstractions, not just living things."
+    },
+    {
+      "word": "inborn",
+      "nuance": "The only word pinned to a moment in time — birth — and the only one that needs a creature to be born. Plain and human where *intrinsic* is clinical: you use it of a real person's instincts, gifts, or defects, not of gold's value or a ministry's corruption."
+    },
+    {
+      "word": "endemic",
+      "nuance": "The only one that locates the trait in a *place or population* rather than in an individual: a disease, a species, or a vice that lives there permanently instead of visiting. Its force comes from the contrast with *epidemic* — no surge, no passing — and turned on an institution it becomes an accusation that the rot is structural."
+    },
+    {
+      "word": "ingrained",
+      "nuance": "The odd one out on origin: nothing here came with the thing, it was worked in by repetition over years. And it's the only one you reach for as a concession — saying a prejudice or a stain is ingrained is admitting you expect to fail at removing it."
+    }
+  ]
 }

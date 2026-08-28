@@ -1,7 +1,7 @@
 {
   "kind": "root",
   "id": "root__pes",
-  "title": "Root: pēs, pedis (foot); expedīre (to free the feet)",
+  "title": "Root: pēs, pedis (foot) — freeing the feet vs. shackling them",
   "seed_words": [
     "expedient",
     "expedite",
@@ -9,5 +9,29 @@
     "impediment",
     "pedestrian"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *pēs, pedis* means \"foot,\" and every word here is a metaphor about feet on a journey. *Ex-ped-* is pulling a foot out of the snare — getting free, getting moving. *Im-ped-* is the foot caught in a shackle — still able to shuffle, but slowed and encumbered. The whole group is therefore about *progress toward a goal* and whether it is being released, dragged on, or (in the last case) merely trudged through on foot instead of taking flight.",
+  "words": [
+    {
+      "word": "expedient",
+      "nuance": "The only member that judges a **motive**. **Expedient** frees the *speaker's own* feet, not the road's — it says the choice worked for whoever made it and quietly cost them a principle. Where *expedite* is something you're thanked for, *expedient* is something you're caught at: *politically expedient*, *merely expedient*."
+    },
+    {
+      "word": "expedite",
+      "nuance": "The only member that is an **action someone with authority takes**, and the only positively-valued one. **Expedite** frees the *system's* feet — it presupposes a queue, a backlog, a stack of approvals to jump. No moral shading whatever, unlike its adjective cousin; you expedite a visa, never a friendship."
+    },
+    {
+      "word": "impede",
+      "nuance": "The **verb** of partial drag, and the only member that is typically **agentless and blameless** — fog, red tape, an injury impedes. Note the strength ceiling: to *prevent* is to make impossible, but the thing you **impede** still limps forward. Choosing it over *block* is a claim about degree, not about malice."
+    },
+    {
+      "word": "impediment",
+      "nuance": "The **noun**, and it names a standing **condition** rather than an act — a *speech* **impediment**, a legal **impediment** to marriage. Where *impede* describes what happened once, an **impediment** is attached to the traveller and stays attached; it gets *removed* or *overcome*, not merely resisted."
+    },
+    {
+      "word": "pedestrian",
+      "nuance": "The only word using the foot **literally**, and the only one where feet are themselves the insult. **Pedestrian** work isn't obstructed — nothing is in its way; it simply plods when it should have flown. It's a critic's verdict on quality (prose, cooking, an argument), not a comment on progress at all."
+    }
+  ],
+  "exam_note": "The exam's favourite trap is **expedient**: the root and the neighbour *expedite* both smell efficient and useful, so test-takers slot it into a blank whose surrounding clause (\"...though everyone knew it was wrong\") is actually signalling compromised principle."
 }

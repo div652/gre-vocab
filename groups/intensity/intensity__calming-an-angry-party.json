@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__calming-an-angry-party",
+  "title": "Calming an angry party",
+  "seed_words": [
+    "mollify",
+    "placate",
+    "appease",
+    "propitiate"
+  ],
+  "hallucinated": null,
+  "core": "Someone is already angry, and you are doing something to bring the temperature down. All four assume a grievance that exists before you act, and all four are transitive — you calm *them*. What separates them is the price of the calm and what it says about the two parties: whether you merely said the soothing thing, handed over something cheap, surrendered outright, or paid tribute upward to a power that outranks you.",
+  "exam_note": "The exam builds a sentence whose blank needs a *cost* or a *power gap* — a diplomat yielding territory, a supplicant before a board — and offers **mollify** as the trap: it fits \"calm them down\" but carries no concession and no hierarchy.",
+  "words": [
+    {
+      "word": "mollify",
+      "nuance": "The cheapest option: a soothing word, a reassurance, nothing changes hands. It attaches happily to feelings rather than just people (**mollify** her fears, his outrage), and it is the one word here you routinely see failing — \"failed to mollify\" is a stock phrase, because talk alone often doesn't work."
+    },
+    {
+      "word": "placate",
+      "nuance": "Now something is handed over, but it's token — a tweak, a gesture, enough to quiet them. **Placate** carries a faint eye-roll at the person being soothed, treating them as a nuisance to be managed rather than a party with a real claim."
+    },
+    {
+      "word": "appease",
+      "nuance": "The concession is substantive and the writer disapproves. **Appease** names you as the weaker will: you gave the bully what he demanded and he will be back for more. It's also the only one here that takes appetites (**appease** hunger, curiosity), and the only one whose noun, *appeasement*, works as a straight accusation."
+    },
+    {
+      "word": "propitiate",
+      "nuance": "The only word that encodes rank. You are the smaller party paying an offering upward — to a god, a king, an inspector, a furious dean. Used of an ordinary person it turns sardonic, casting them as a petty deity who expects tribute."
+    }
+  ]
+}

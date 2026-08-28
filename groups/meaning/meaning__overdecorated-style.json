@@ -9,5 +9,29 @@
     "elaborate",
     "embellish"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe something built up out of added detail — decoration, flourishes, extra parts, extra clauses — and all of them raise the same question: was the addition earned? They sit on a sliding scale from neutral admiration for craft, through polite complaint, to open contempt for ornament that has swallowed the substance. The trap is that most of them can swing either way depending on what they attach to and who is speaking, and two of them carry a completely separate second sense the GRE prefers to test.",
+  "words": [
+    {
+      "word": "elaborate",
+      "nuance": "The only one measuring **effort and number of parts** rather than surface prettiness — an elaborate scheme has no decoration at all, just many carefully fitted pieces. It is also the only word here that turns suspicious rather than tasteless: an *elaborate alibi* isn't ugly, it's over-engineered, and nobody works that hard on the truth."
+    },
+    {
+      "word": "ornate",
+      "nuance": "Strictly **surface**: carving, gilding, adjectives laid on top of a thing that already existed. It is the one that can still be straightforwardly admiring — of a cathedral screen or a Fabergé egg — and only curdles into complaint when applied to modern things, above all prose. Its constant implication is that someone couldn't stop adding, not that they went mad."
+    },
+    {
+      "word": "baroque",
+      "nuance": "Here the ornament has stopped being surface and become **structure** — the decoration is now load-bearing, fussy and showy at once. It's the only word in the group with a straight technical use (capital B, the 1600–1750 period), which is why it can be neutral in art history and a jab everywhere else. Reserve it for complexity that *shows off*; tangled bureaucratic complexity is byzantine, not baroque."
+    },
+    {
+      "word": "florid",
+      "nuance": "The only one with **no admiring reading at all** — it's a flat verdict that the flourishes have crowded out the sense. It's also the only member that applies to a **body**: a florid complexion is red and flushed from heat, drink or blood pressure, and in medicine a florid symptom is one that has bloomed into full, undeniable view."
+    },
+    {
+      "word": "embellish",
+      "nuance": "The only **verb of adding**, and the one whose GRE sense leaves decoration entirely: to pad a true story with invented detail. Its charge is deliberately mild and half-forgiving — it presumes a real core, which is exactly how it differs from *fabricate*. Saying a witness embellished casts doubt without calling her a liar."
+    }
+  ],
+  "exam_note": "The GRE rarely tests the decorating sense head-on — it hides the answer in the second senses (**florid** = flushed face / fully manifest symptom, **embellish** = exaggerate a true account) and forces you to read whether the sentence's tone is admiring, neutral, or damning to choose among the rest."
 }

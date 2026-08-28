@@ -8,5 +8,25 @@
     "obviate",
     "trivial"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *via* is a road, and each of these words freezes a different moment on it: leaving the road, taking a crooked one, standing in the road to block it, and the crossroads where everybody walks. The trap here is not meaning but shape — three of them start with a *-vi-* cluster and get mixed up on sight, and the fourth hides its road entirely. Once you can name which relation to the road each one encodes, they stop bleeding into each other.",
+  "words": [
+    {
+      "word": "deviate",
+      "nuance": "*de-* \"off\" + road: the road stays intact, you step off it. Alone in this group it demands a stated baseline — a flight plan, a protocol, the mean — so it is a measurement verb before it is an accusation. Where **devious** describes a whole crooked route, **deviate** marks a single, locatable departure from a line someone else drew."
+    },
+    {
+      "word": "devious",
+      "nuance": "Here the road itself winds. It rates *method*, not morals, and it attaches to a person or a scheme rather than to a quantity — the loops, the cover story, the friend who \"happened\" to mention it. That's why it carries a flicker of admiration for the cleverness, an attitude **deviate** (clinical) and **obviate** (bloodless) never have."
+    },
+    {
+      "word": "obviate",
+      "nuance": "*ob-* \"in the way\" + road: to stand across the path so the thing never arrives. The only forward-facing member — it acts on what hasn't happened yet, and almost always on an abstraction (*the need, the objection, the difficulty*). Note the resemblance to *obvious* is a coincidence of sound: obviating removes a requirement, it does nothing to visibility."
+    },
+    {
+      "word": "trivial",
+      "nuance": "*tri-* + *via*: the three-road junction, the public corner where anyone can overhear — hence commonplace, hence beneath notice. It's the group's only adjective of *worth*: the others describe direction or timing, this one delivers a verdict that something has none. Saying an objection is trivial dismisses it rather than sizes it."
+    }
+  ],
+  "exam_note": "The GRE's favourite here is **obviate**, baited by *obvious* — sentences reward \"make unnecessary\" and punish \"make clear\"; secondarily it swaps **deviate** and **devious** in answer pairs, where only one can take *from*."
 }

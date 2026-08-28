@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__soft-to-deafening",
+  "title": "Soft to deafening",
+  "seed_words": [
+    "croon",
+    "boisterous",
+    "clamorous",
+    "clangor"
+  ],
+  "hallucinated": null,
+  "core": "All four describe sound by its volume and texture, running from a near-whisper up to a din that drowns everything out. Each also carries a fixed attitude toward that noise — tender, indulgent, disapproving, or awed — so the wrong pick misreports how the speaker feels, not just how many decibels there were. They differ further in what makes the sound: one throat, a crowd of throats, or struck metal.",
+  "words": [
+    {
+      "word": "croon",
+      "nuance": "**Croon** is the only one at the quiet end of the dial, and the only one that requires intimacy — a single voice pitched low for one listener, close enough to soothe or seduce. Its risk isn't offense but sentimentality: sustained crooning curdles into schmaltz."
+    },
+    {
+      "word": "boisterous",
+      "nuance": "**Boisterous** is loud *and* physical — bodies as well as voices — and the noise is a byproduct of people enjoying themselves. Alone in this group it stays affectionate: you complain about a boisterous party while half-wishing you were at it. (It also describes rough wind and sea.)"
+    },
+    {
+      "word": "clamorous",
+      "nuance": "**Clamorous** is many voices wanting something — protest, complaint, insistence. The demand is the defining feature; strip it out and the word no longer fits. The speaker finds the pressure excessive even when the cause is just, which makes it the group's disapproving term."
+    },
+    {
+      "word": "clangor",
+      "nuance": "**Clangor** is a noun for the sound itself, not an adjective for the people making it, and the sound is *metallic and resonant* — bells, hammers, alarms, armour — sustained long enough to become a din. Literary and faintly industrial or martial: nobody says it about their neighbours."
+    }
+  ],
+  "exam_note": "The trap is treating these as interchangeable volume synonyms — the answer usually turns on source and attitude: one voice vs. a crowd vs. metal, fond vs. annoyed."
+}

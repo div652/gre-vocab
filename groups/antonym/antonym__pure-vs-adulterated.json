@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__pure-vs-adulterated",
+  "title": "Pure vs. adulterated",
+  "seed_words": [
+    "pristine",
+    "immaculate",
+    "unalloyed",
+    "distill",
+    "refine",
+    "adulterate",
+    "debase",
+    "vitiate",
+    "tarnish",
+    "sordid"
+  ],
+  "hallucinated": null,
+  "core": "These words all sit on one axis: whether a thing is free of foreign or inferior matter, or has had something lesser worked into it. Half describe the clean state (and the two processes that produce it — stripping impurities out, or boiling the essence down), half describe the damage (something cheap mixed in, value lowered, validity destroyed, shine dulled, motives revealed as grubby). The traps come from the *kind* of purity or corruption at stake: original vs. achieved, physical vs. abstract, surface vs. structural, value vs. validity.",
+  "exam_note": "The GRE rarely tests \"pure vs. dirty\"; it tests which axis — expect distill/refine and vitiate/tarnish/debase as the near-miss pairs, and watch for unalloyed and unadulterated arriving negated, where the sentence's real claim is *there's a catch*.",
+  "words": [
+    {
+      "word": "pristine",
+      "nuance": "Purity of **history**: nothing has ever happened to it. It is the only word here that is spoiled by *effort* — scrub it and you lose the claim. Attaches to wilderness, snowfall, and unopened goods, where the value is precisely that no one has been there."
+    },
+    {
+      "word": "immaculate",
+      "nuance": "Purity of **surface, achieved**: someone worked at this. Where pristine is a history, **immaculate** is a standard — a uniform, a kitchen, a record — and it's absolute, so one crumb or one error cancels it outright."
+    },
+    {
+      "word": "unalloyed",
+      "nuance": "Purity of **mixture, in the abstract**: the only word here that lives on feelings and verdicts (joy, admiration, a success) rather than objects or surfaces. Formal and faintly wry — it concedes some alloy is normal, which is why \"not an unalloyed good\" is the polite way to flag a catch."
+    },
+    {
+      "word": "distill",
+      "nuance": "Purity by **subtraction to concentrate**: the result is smaller than what you started with but *stronger*. Unlike refine, the bulk itself is the waste — a decade of research becomes one paragraph that hits harder than the decade."
+    },
+    {
+      "word": "refine",
+      "nuance": "Purity by **incremental correction**: the thing stays the same size and shape, just cleaner at the edges. It presupposes something already sound — you refine a decent argument, you don't refine a broken one — and it's the low-drama word next to distill's dramatic reduction."
+    },
+    {
+      "word": "adulterate",
+      "nuance": "The **accusation** in this group: a cheaper substance deliberately and secretly mixed in for profit. It names the *act and the motive*, not just the result — milk watered, oil cut, a doctrine padded. You'll meet its negation, *unadulterated*, far more often than the verb."
+    },
+    {
+      "word": "debase",
+      "nuance": "Damage to **worth and dignity**, with the name and face left intact — the coin still says silver, the word still gets used, the person still stands there. Where adulterate points at the mixer, **debase** points at the drop in value, and it always implies a *before* worth having."
+    },
+    {
+      "word": "vitiate",
+      "nuance": "Damage to **validity**, not value: one bad premise, one act of fraud, and the whole thing no longer counts. **Vitiate** is the structural word — the argument or contract survives in form but is void — and it lives in law, logic, and criticism, where things can be dead on a technicality."
+    },
+    {
+      "word": "tarnish",
+      "nuance": "Damage that is **surface and gradual**, and almost always to a reputation. It requires a prior gleam, and it stops short of ruin — the career continues, dulled. Cool and factual where *sully* and *besmirch* sound outraged; the word a newspaper reaches for."
+    },
+    {
+      "word": "sordid",
+      "nuance": "Not a process but a **verdict on motives** — and the only word here that says the corruption is *cheap*. Not grand evil: money, lust, spite, a petty betrayal, embarrassing once dragged into daylight. Where **squalid** leads with physical filth, **sordid** leads with the moral kind."
+    }
+  ]
+}

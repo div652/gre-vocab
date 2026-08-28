@@ -9,5 +9,29 @@
     "indictment",
     "opprobrium"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "denounce",
+      "nuance": "**Denounce** points a finger at a *person* and puts the speaker's own name behind the charge — it's an accusation made in public, demanding the audience join the outrage. It also uniquely keeps a betrayal sense: to denounce someone *to* the authorities is to turn them in."
+    },
+    {
+      "word": "decry",
+      "nuance": "**Decry** takes aim at *things* — a trend, a ruling, a shortage, a fashion — not at individuals. It is the podium posture of the group: loud, morally postured, often more a stand taken than an argument made, and it names no culprit."
+    },
+    {
+      "word": "censure",
+      "nuance": "**Censure** requires standing. Only a body entitled to judge — a legislature, a board, a court, a professional association — can issue it, and it does so by vote or ruling. It is also the group's one *procedural* member: the punishment is the mark itself, so the censured official keeps the job and wears the record."
+    },
+    {
+      "word": "indictment",
+      "nuance": "**Indictment** is the only one whose force comes from *evidence* rather than from a speaker: a report, a statistic, or an outcome can be an indictment with nobody condemning anything. And it opens a case rather than settling it — an accusation awaiting proof, not a verdict."
+    },
+    {
+      "word": "opprobrium",
+      "nuance": "**Opprobrium** is not the act but the *reaction* — the scorn a crowd pours out, and then the disgrace the target lives under afterwards. The others are things you do; this is something heaped on you and endured, and it implies the offense was shameful, not merely wrong."
+    }
+  ],
+  "core": "All of these belong to the vocabulary of condemnation made in public, on the record, with a moral charge attached — well past private disapproval or ordinary fault-finding. What separates them is machinery: who is doing the condemning, what the condemnation lands on, and whether the word names the act, the authority behind it, the evidence supporting it, or the disgrace left afterwards. Several also flip between being something a speaker performs and something a target receives.",
+  "exam_note": "The trap is target and part of speech, not intensity: watch whether the sentence needs a person (denounce), a policy or trend (decry), an official body as subject (censure), a noun meaning damning evidence (indictment), or a noun meaning the scorn received (opprobrium)."
 }

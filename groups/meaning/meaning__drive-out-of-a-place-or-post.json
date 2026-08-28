@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__drive-out-of-a-place-or-post",
-  "title": "Drive out of a place or post",
+  "title": "Driven Out: From a Place, a Post, or a Rank",
   "seed_words": [
     "banish",
     "oust",
     "depose",
     "relegate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe an involuntary removal imposed by someone with the power to impose it — the person removed does not agree, and does not get to undo it. What separates them is *what you are removed from*: a territory, a job, a throne, or simply the good seat. One of them doesn't remove you at all — it just pushes you down and leaves you there. Watch the object, not the force.",
+  "words": [
+    {
+      "word": "banish",
+      "nuance": "The only one whose object is **territory**: you lose a *place*, and you are barred from coming back. It also uniquely takes abstractions — you can **banish** a thought, a doubt, a chill from a room; you cannot oust or depose one."
+    },
+    {
+      "word": "oust",
+      "nuance": "The object is a **post**, and the post can be any post — CEO, union rep, incumbent mayor, committee chair. Deliberately vague about method (coup, vote, memo all qualify), which is why it's the newsroom default, and it almost always shows up passive: *was ousted*."
+    },
+    {
+      "word": "depose",
+      "nuance": "**Oust with a rank requirement**: the seat has to be a high one — throne, presidency, party leadership. Tone is cold and procedural rather than violent, so it fits a no-confidence vote as comfortably as an armed revolt. Second sense to keep loaded: taking sworn testimony."
+    },
+    {
+      "word": "relegate",
+      "nuance": "The odd one out — nothing is expelled. The subject stays *inside* the system, just at a worse level, and the word drags a **to**-phrase with it: to the bench, to a footnote, to the second division. It also carries the remover's contempt: the thing wasn't worth the better spot."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable intensities of \"throw out\" — but **relegate** demotes without removing, **banish** removes from a place rather than a job, and **depose** is only correct if the office is a high one."
 }

@@ -1,7 +1,7 @@
 {
   "kind": "root",
   "id": "root__ludere",
-  "title": "Root: ludere (to play)",
+  "title": "Root: ludere (to play) — indirection, evasion, and things that aren't there",
   "seed_words": [
     "allude",
     "allusive",
@@ -10,5 +10,33 @@
     "elusive",
     "illusory"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *ludere* means \"to play,\" and the game in every one of these words is played between what's shown and what's actually there. Something is always held off-stage: pointed at but not named, kept from a third party, slipping away as you close on it, or present only as an appearance with nothing behind it. What makes the group treacherous is that the gap sits in a different place each time — sometimes in the speaker's tact, sometimes in the world's slipperiness, sometimes in one person's refusal to be corrected. Three of them are also near-homophones with genuinely different jobs.",
+  "words": [
+    {
+      "word": "allude",
+      "nuance": "**Allude** is the only member where the hidden thing is real, known to both parties, and pointed at *on purpose* — the speaker is exercising tact or wit, not deceiving anyone. Grammar is the tell: you allude **to** something, so a sentence missing the *to* is not this word."
+    },
+    {
+      "word": "allusive",
+      "nuance": "**Allusive** grades a *text's manner*, never a person's honesty — a poem, an essay, a remark. It flatters or annoys depending on whether the reader catches the reference, which is why it's the group's one adjective whose connotation depends entirely on the audience rather than the thing described."
+    },
+    {
+      "word": "collude",
+      "nuance": "**Collude** is the only word requiring accomplices: the concealment runs from the pair outward to a victim, not from a speaker to a listener. Its bite comes from the parties being *supposed to be independent* — rival bidders, an auditor and his client — so it's the language of regulators, not thrillers."
+    },
+    {
+      "word": "delusion",
+      "nuance": "**Delusion** locates the falsehood inside one head and indicts *the believer*, not the belief — the defining feature is surviving refutation. It's the only noun here, and the only one with a clinical register underneath, so it says a person is unreachable rather than merely wrong."
+    },
+    {
+      "word": "elusive",
+      "nuance": "**Elusive** implies nothing false at all — the thing is real and genuinely there, you just can't close your hand on it. Alone in this group it can be admiring: a boxer or a winger is elusive as a compliment, because escaping is a skill."
+    },
+    {
+      "word": "illusory",
+      "nuance": "**Illusory** kills the object, not your grip: an elusive promotion exists and evades you, an illusory one was never on offer. No deceiver is needed and no believer is blamed — it attaches coolly to things people badly wanted to be true (*illusory security*, *illusory recovery*)."
+    }
+  ],
+  "exam_note": "The exam drops *allusive*, *elusive*, and *illusory* into the same answer set and lets your ear pick one: check whether the blank describes a style that hints, a thing that escapes, or a thing with nothing behind it."
 }

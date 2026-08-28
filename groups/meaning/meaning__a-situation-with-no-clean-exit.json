@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__a-situation-with-no-clean-exit",
-  "title": "A situation with no clean exit",
+  "title": "A Situation With No Clean Exit",
   "seed_words": [
     "conundrum",
     "quandary",
@@ -9,5 +9,29 @@
     "imbroglio",
     "contretemps"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five name trouble you cannot simply walk away from — a knot, a bind, a mess with no tidy resolution. They split on three axes: whether the difficulty is *intellectual* or *practical*; whether it describes the **person stuck** or the **situation itself**; and how big the trouble is, from a scandal that ends careers down to a spilled drink at a state dinner. Several of them also say something about the speaker — how amused, how dry, how far above the mess they wish to sound.",
+  "words": [
+    {
+      "word": "conundrum",
+      "nuance": "The only one that's a **puzzle rather than a plight** — the difficulty is in your head, not in your circumstances. It's the only member of this group you can hand to someone else to solve, and the only one that's neutral enough to attach to an abstraction (\"the pricing **conundrum**\") rather than to a person in trouble. Nothing bad has happened to anyone yet."
+    },
+    {
+      "word": "quandary",
+      "nuance": "Describes the **person mid-deliberation**, not the situation — you are *in* a **quandary**, turning it over, and the costs are still prospective because you haven't chosen yet. Unlike a conundrum, the answers are all sitting right there; you just hate every one of them. Faintly hand-wringing: the speaker is stuck and slightly embarrassed to be dithering."
+    },
+    {
+      "word": "predicament",
+      "nuance": "The trouble has **already landed** — a quandary is deciding, a **predicament** is being in it. Names the situation rather than the state of mind, and carries a whiff that you walked into it yourself, which is why \"got himself into a right **predicament**\" is idiomatic and no other word here substitutes."
+    },
+    {
+      "word": "imbroglio",
+      "nuance": "The only one that requires **multiple parties and bad blood** — not a bind you're in but a snarl several people are tangled in, acrimonious, public, and faintly scandalous. The others can happen to one person alone; an **imbroglio** cannot. It's the dry, formal word a journalist reaches for when \"scandal\" would sound excitable."
+    },
+    {
+      "word": "contretemps",
+      "nuance": "The **smallest** thing here, and deliberately so — a mistimed mishap or a petty snapping-match, beneath the level of real trouble. The word is an act of minimisation: calling something a **contretemps** shrinks it and advertises that the speaker is far too composed to be rattled. Applied to genuine disaster, it reads as sarcasm or spin."
+    }
+  ],
+  "exam_note": "The exam banks on you flattening these into one blob called \"problem\" — so the correct choice usually turns on the axis, not the severity: puzzle-in-the-head (conundrum) vs. person-deciding (quandary) vs. situation-already-happened (predicament), with imbroglio requiring warring parties and contretemps requiring triviality."
 }

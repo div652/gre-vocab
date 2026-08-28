@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__make-the-obscure-clear",
-  "title": "Make the obscure clear",
+  "title": "Elucidate / Delineate / Articulate: three different kinds of unclear",
   "seed_words": [
     "elucidate",
     "delineate",
     "articulate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three verbs move something from unclear to clear, and all three are formal enough to sit in the same sentence about a scholar, a contract, or a witness. The differences lie in *what kind of unclearness* is being fixed: something too difficult to follow, something whose edges overlap with its neighbours, or something that has never been put into words at all. Each also implies a different actor — an expert unpacking, a drafter fixing limits, a speaker finding language. Pick by the obstacle, not by the outcome.",
+  "words": [
+    {
+      "word": "elucidate",
+      "nuance": "**Elucidate** attacks *difficulty*: the thing was already stated, and it was mud. It requires an expert with material to unpack — a tangled clause, an obscure passage — and takes sustained explanation, not a one-line correction. Nothing in it concerns edges or wording; the content was there, just impenetrable."
+    },
+    {
+      "word": "delineate",
+      "nuance": "**Delineate** attacks *overlap*: the thing may be perfectly easy to understand yet blur into what sits next to it. It supplies limits — where one theory stops, what a role does and does not cover — and so it needs two things, or a thing and its surroundings, to work at all. Cold and drafting-room; you delineate a jurisdiction, never a feeling."
+    },
+    {
+      "word": "articulate",
+      "nuance": "**Articulate** attacks *formlessness*: the thing had no words yet — a dread, a grievance, an intuition — and the speaker breaks it into distinct, jointed parts. Alone in this group it grades the speaker rather than the subject, which is why it doubles as an adjective and why it can sting as praise. Its subject is typically the person whose thought it is, not an outside expert."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps swap them by outcome (\"made clear\") — check the obstacle instead: a dense text is elucidated, two adjacent categories are delineated, an inchoate feeling is articulated."
 }

@@ -9,5 +9,29 @@
     "intermittent",
     "desultory"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "intermittent",
+      "nuance": "**Intermittent** is the group's neutral instrument reading: one thing that keeps cutting out and coming back. It describes the gaps in a continuing phenomenon — power, rain, a signal — and passes no judgment on anyone's character or effort. If a scientist or engineer would write it in a report, this is the word."
+    },
+    {
+      "word": "sporadic",
+      "nuance": "**Sporadic** counts scattered instances rather than interruptions: separate occurrences popping up here and there with no pattern. It's the only one at home with events spread across space as well as time — sporadic gunfire, sporadic outbreaks, sporadic protests — and the only one whose connotation genuinely swings (sporadic resistance may impress; sporadic attendance won't)."
+    },
+    {
+      "word": "fitful",
+      "nuance": "**Fitful** adds restlessness: short bursts that flare and die, so the thing never settles into itself. Where *intermittent* rain simply resumes, **fitful** sleep is unsatisfying by definition — the word tells you the process failed to take hold, which is why it lives with sleep, breezes, and recoveries that don't stick."
+    },
+    {
+      "word": "erratic",
+      "nuance": "**Erratic** is the only one about deviation rather than timing — not \"it stops and starts\" but \"you can't predict what it will do or how well.\" It measures against a norm that ought to hold, and applied to a person it hints at instability: erratic driving, erratic form, erratic behaviour reported by witnesses."
+    },
+    {
+      "word": "desultory",
+      "nuance": "**Desultory** indicts the doer, not the schedule: aimless *and* unenthused, drifting from thing to thing because nobody cared enough to finish. It attaches to human effort — conversation, reading, revision, an investigation — never to rain or a signal, and it's the formal, quietly withering one."
+    }
+  ],
+  "core": "These all describe something that fails to run steadily — it comes and goes, flares and stops, or veers off with no rhythm you could predict. The shared complaint is unreliability rather than badness: the thing exists, it just won't hold. They split on *what* is irregular (gaps in one process, scattered separate events, or quality itself) and on how much blame lands on whoever is responsible.",
+  "exam_note": "The GRE decides between these by what the blank attaches to: machinery and weather take **intermittent**, scattered incidents take **sporadic**, a person's uneven performance takes **erratic**, and only half-hearted human effort takes **desultory** — so a context that supplies \"aimless\" but no droop of enthusiasm is a trap for it."
 }

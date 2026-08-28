@@ -1,0 +1,32 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__swollen-and-flushed-overwritten",
+  "title": "Swollen, flushed, heavy → overwritten",
+  "seed_words": [
+    "turgid",
+    "florid",
+    "ponderous",
+    "bombastic"
+  ],
+  "hallucinated": null,
+  "core": "Each of these begins as a description of a body or an object — distended with fluid, red in the face, too massive to move gracefully — and then gets aimed at prose that suffers the same defect. All four are complaints about style that is *too much*: too inflated, too decorated, too slow, too loud. The trap is that they are not interchangeable insults; the physical image each one comes from determines exactly which fault it names. Knowing the literal sense tells you which stylistic sin is being charged.",
+  "words": [
+    {
+      "word": "turgid",
+      "nuance": "The one whose literal sense is medical/hydraulic — tissue or a river distended with fluid, not something you look at but something you'd sink into. As a style verdict it uniquely charges two things at once, pompous *and* soporific: the reader's complaint is that they couldn't get through it."
+    },
+    {
+      "word": "florid",
+      "nuance": "The only one whose bodily sense is colour rather than size or weight — a face red with heat, drink, or blood pressure (and, in medicine, a symptom bloomed into full view). Its stylistic fault is therefore surface **decoration**, flourishes crowding out sense — a florid page can be quick and lively, just overdressed."
+    },
+    {
+      "word": "ponderous",
+      "nuance": "Charges **pace**, not emptiness: the fault is mass without lightness of touch, sentences arriving like furniture dragged across a floor. Alone in this group it's compatible with real substance — a ponderous book may be full of content it simply cannot move."
+    },
+    {
+      "word": "bombastic",
+      "nuance": "The one with no live physical sense left (its root, *bombast*, was cotton padding) and the one aimed at a **performer** — a speaker, out loud, before an audience. It alone charges hollowness: the listener hears the gap between the volume and the thought, so it's ridiculous rather than boring."
+    }
+  ],
+  "exam_note": "Match the clue to the fault — ornament → florid, slowness/tedium → ponderous, inflated *and* wearying → turgid, loud and empty → bombastic; and watch for passages using the literal senses (a flushed complexion, a swollen river, a heavy load) where the style meaning is the wrong answer."
+}

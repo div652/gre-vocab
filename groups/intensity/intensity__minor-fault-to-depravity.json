@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__minor-fault-to-depravity",
+  "title": "Minor fault to depravity",
+  "seed_words": [
+    "peccadillo",
+    "transgression",
+    "turpitude",
+    "depravity"
+  ],
+  "hallucinated": null,
+  "core": "All four name wrongdoing measured against a moral standard rather than a mere rule — the vocabulary of conscience, sermon and tribunal rather than of the police blotter. They differ almost entirely in how much weight the speaker puts on the act and how far the judgement reaches: from a fault so slight it is named in order to be forgiven, up to corruption so complete it condemns the person rather than the deed. The scale also tracks scope: the first two describe *acts*, the last two describe *character*.",
+  "words": [
+    {
+      "word": "peccadillo",
+      "nuance": "The only one that forgives while it accuses — you cannot use **peccadillo** without shrinking the offence. It attaches to appetites (a flutter on the horses, a wandering eye), and it makes the speaker sound worldly and indulgent rather than shocked."
+    },
+    {
+      "word": "transgression",
+      "nuance": "Names the *line crossed*, not the depth of the rot: **transgression** presumes a boundary with authority behind it — commandment, code, covenant — and says you stepped over it once. It stays at the level of the act, and its scriptural gravity is exactly why it turns ironic when applied to small things."
+    },
+    {
+      "word": "turpitude",
+      "nuance": "The institutional word: **turpitude** is what a licensing board, an immigration officer, or a bar association cites to strip you of something. Locked inside the phrase *moral turpitude*, it judges conduct as disqualifying rather than as sinful — which makes it clinical where the others are heated."
+    },
+    {
+      "word": "depravity",
+      "nuance": "Shifts the accusation from deed to person — **depravity** says the corruption is settled, habitual, constitutional. Reserved for cruelty and perversion, and it marks the speaker as appalled; nobody uses it dryly or in self-deprecation."
+    }
+  ],
+  "exam_note": "The trap is **peccadillo** in a sentence with a stern-sounding frame — the surrounding gravity tempts you toward transgression, but a clause containing \"merely,\" \"indulgent,\" or \"forgave\" demands the diminishing word; likewise **turpitude** is correct only where an official consequence is in view, not where mere wickedness is described."
+}

@@ -7,5 +7,21 @@
     "precipitate",
     "recapitulate"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *caput*, \"head,\" splits two ways here, and the split is the whole group. Routed through *capitulum* — a little head, hence a chapter heading — it produces words about points set out under headings: terms drawn up and signed, points gone back over in order. Routed through the plain literal head, it produces going head-first: over an edge, before you meant to. The result is near-identical spellings sitting on unrelated meanings, with one member of the group only pretending to be family.",
+  "words": [
+    {
+      "word": "capitulate",
+      "nuance": "The only one that requires an opponent — it needs a prior fight to end. Historically you signed articles drawn up under *headings*, so the terms are someone else's and you are the party that ran out of resistance; applied to a person it demotes them."
+    },
+    {
+      "word": "recapitulate",
+      "nuance": "The only one aimed at an audience rather than an adversary or an event. You go back over your own *headings* and compress; nothing in the world changes and nobody loses ground — it's a speaker managing material, which is why it's the group's one neutral word."
+    },
+    {
+      "word": "precipitate",
+      "nuance": "The impostor: its *head* is literal (head-first off a cliff), not a chapter heading, and it's about **timing** — the crisis was already loaded, you only made it arrive early. Alone in the group it takes an event as its object, and alone it has an adjective sense (rash, undercooked) and a chemistry sense."
+    }
+  ],
+  "exam_note": "The trap isn't the look-alike pair — it's **precipitate**, which the GRE tests as the adjective (\"headlong, rash\") far more often than as the verb everyone memorizes."
 }

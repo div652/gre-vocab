@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__luck-running-with-you-vs-against-you",
+  "title": "Luck running with you vs. against you",
+  "seed_words": [
+    "serendipitous",
+    "fortuitous",
+    "providential",
+    "boon",
+    "hapless",
+    "calamitous",
+    "blighted",
+    "adverse"
+  ],
+  "hallucinated": null,
+  "core": "Every word here describes an outcome that arrives rather than one you engineered — handed to a person or a project by chance, timing, weather, policy, or a higher power. They split on two axes the GRE loves to blur: whether the outcome helps or harms, and whether the word is reporting *how* the thing came about (unplanned, unsought, seemingly designed) or *how much damage or good it did*. Ordinary usage smears those distinctions constantly, so an ear-based guess is exactly what the exam is baiting.",
+  "words": [
+    {
+      "word": "serendipitous",
+      "nuance": "**Serendipitous** demands a *find* — a discovery, a meeting, a solution — and demands you weren't hunting for it. It describes the shape of the accident, not its size or timing; a rescue arriving at the perfect moment isn't serendipitous unless it also handed you something you never went looking for."
+    },
+    {
+      "word": "fortuitous",
+      "nuance": "**Fortuitous** is the outlier: it reports causation only — *nobody arranged this* — and stays silent on whether the result was a windfall or a wreck. Where the others commit to a verdict, this one leaves the outcome to context, which is the sense the GRE tests and the one casual usage has eroded."
+    },
+    {
+      "word": "providential",
+      "nuance": "**Providential** is luck that looks *authored*. It attaches to timing above all — the letter arriving the morning before the deadline — and implies a benevolent hand behind the schedule, keeping a faint theological glow even in secular prose. Serendipity feels charming; this feels watched over."
+    },
+    {
+      "word": "boon",
+      "nuance": "**Boon** is the only noun here: the helpful *thing itself*, not the manner of its arrival. It must come from outside and land on a beneficiary — \"a boon to farmers\" — so you receive one, never earn one. The register is headline-elevated, and it's routinely staged against its built-in opposite, *bane*."
+    },
+    {
+      "word": "hapless",
+      "nuance": "**Hapless** is the only word that attaches to a *person*, and it makes them faintly ridiculous: misfortune keeps landing on someone too passive to duck. The scale is small and the tone is pity from a safe distance — a narrator's word about someone else, never a self-description and never a body count."
+    },
+    {
+      "word": "calamitous",
+      "nuance": "**Calamitous** measures wreckage: large, formal, irreversible, and usually traceable to a decision someone made. It judges consequences rather than feelings, which is why a collapsed bank or a lost fleet earns it and a bad afternoon does not."
+    },
+    {
+      "word": "blighted",
+      "nuance": "**Blighted** requires prior promise and a slow spread — the crop-disease image intact. The ruin creeps in from outside and eats what was flourishing, so a career, a neighbourhood, or a hope must have been going somewhere first. A single catastrophic blow is not a blight."
+    },
+    {
+      "word": "adverse",
+      "nuance": "**Adverse** isn't bad in itself but bad *against* something: a headwind, a ruling, a side effect, each pushing on a named interest. It attaches to conditions, forces and outcomes rather than to people or feelings, and it lives in medical inserts, judgments and risk reports."
+    }
+  ],
+  "exam_note": "The standard traps: reading **fortuitous** as \"fortunate\" when the passage only means *unplanned*, and confusing **adverse** (circumstances working against you) with *averse* (a person's reluctance)."
+}

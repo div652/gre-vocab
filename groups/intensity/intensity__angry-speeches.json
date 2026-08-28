@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__angry-speeches",
+  "title": "Angry speeches: from scolding to venom",
+  "seed_words": [
+    "harangue",
+    "tirade",
+    "diatribe"
+  ],
+  "hallucinated": null,
+  "core": "All three name a speech that is too long, too hot, and no longer persuading anyone. Each is a verdict the audience passes, never a label a speaker claims: they concede that words had force while denying they had reason. What separates them is not how loud but what the anger is made of — moralising, loss of control, or settled bitterness — and who is trapped listening.",
+  "exam_note": "All three fit \"long angry speech,\" so the sentence decides it by target and temperature: captive listeners being scolded → harangue; a speaker who snapped in the moment → tirade; a sustained written attack on an idea → diatribe.",
+  "words": [
+    {
+      "word": "harangue",
+      "nuance": "**Harangue** is defined by the captive audience and the corrective intent — it comes *at* people who cannot leave, and it wants to improve them. It is the only one of the three that works comfortably as a verb with an object (*harangued the crowd for an hour*), because the relationship between speaker and trapped listener is the whole point. The anger can be cold and moralising rather than furious."
+    },
+    {
+      "word": "tirade",
+      "nuance": "**Tirade** is the one that says the speaker *lost control*. It's spontaneous and hot — an eruption at a target who is standing right there, not a prepared position. Where a harangue is delivered from a podium and a diatribe can be typed out, a tirade happens in the moment and is regretted later."
+    },
+    {
+      "word": "diatribe",
+      "nuance": "**Diatribe** is the coldest and most durable: bitterness that has been composed. It's the only one that is routinely *written* — published, printed, circulated — and the only one that can attack an abstraction (a policy, a movement, a school of thought) rather than the people in the room. Nothing has to be shouted for it to qualify; the venom is on the page."
+    }
+  ]
+}

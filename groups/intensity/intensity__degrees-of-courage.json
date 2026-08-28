@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-courage",
+  "title": "Degrees of courage",
+  "seed_words": [
+    "plucky",
+    "mettlesome",
+    "intrepid",
+    "valor"
+  ],
+  "hallucinated": null,
+  "core": "All four praise someone for facing danger or difficulty without backing down, and all four are approving — none of them scolds the way *reckless* or *foolhardy* does. What separates them is how much nerve is being claimed, and what the speaker's posture is while claiming it: affectionate condescension, amused admiration, sober respect, or ceremonial honour. They also differ in what the courage attaches to — a small underdog, a temperament straining at the leash, a sustained ordeal, or a single heroic act under fire.",
+  "words": [
+    {
+      "word": "plucky",
+      "nuance": "The weakest of the four, and the only one that requires you to be the underdog: **plucky** presumes smallness — young, poor, injured, outgunned. It is also the only one that condescends; the speaker admires you from above, which is why it fits the team that lost 4–1 and never fits a superpower."
+    },
+    {
+      "word": "mettlesome",
+      "nuance": "**Mettlesome** adds eagerness to courage — not endurance but appetite for the fight, spirit that has to be reined in rather than propped up. Its home subject is a horse, and applied to people it keeps that trace of *slightly too much fire*; it is the only one here that hints the courage might be inconvenient to manage."
+    },
+    {
+      "word": "intrepid",
+      "nuance": "**Intrepid** is a settled temperament, not a burst: it describes people who go somewhere hard and *keep going* — explorers, correspondents, whistleblowers. No underdog requirement and no eagerness; the defining note is unshakenness over time, plus a licence to be used with a fond half-smile (\"our intrepid reporter\") that the others can't carry."
+    },
+    {
+      "word": "valor",
+      "nuance": "**Valor** is the noun, and the ceremonial peak: it belongs to citations, medals and eulogies, and it presumes combat or a heroic rescue. It rates the deed rather than sketching the person — you are awarded valor, you are not *a valor sort of person* — and used of ordinary life it reads as deliberately grand or mock-grand."
+    }
+  ],
+  "exam_note": "The trap is part of speech and register: **valor** is a noun (never fills an adjective slot), and sentence-completion items key on the surrounding tone — an underdog or diminutive cue wants **plucky**, a sustained expedition wants **intrepid**, and a formal citation or battlefield context wants **valor**."
+}

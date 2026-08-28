@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__stubborn-to-immovable",
+  "title": "Stubborn to immovable",
+  "seed_words": [
+    "headstrong",
+    "obstinate",
+    "intransigent",
+    "obdurate",
+    "implacable"
+  ],
+  "hallucinated": null,
+  "core": "All five describe a person who will not be moved off a course by outside pressure — advice, argument, offered terms, or begging. What separates them is *which* pressure is failing and how damning the speaker means to be. Read from mild self-will to absolute, permanent hardness: the early members resist persuasion, the late ones resist mercy. Several also detach from opinion entirely and become a fixed hostility or an unstoppable force.",
+  "exam_note": "The sentence names the pressure that failed — \"despite every concession offered\" points to intransigent, \"no amount of weeping moved him\" to obdurate, \"ignored every warning and pressed on\" to headstrong; wrong answers are the group-mates that resist a different pressure.",
+  "words": [
+    {
+      "word": "headstrong",
+      "nuance": "The only one that fails by moving rather than by stopping — the problem is no steering, not no brakes. It attaches to the young and spirited (a headstrong daughter, a headstrong lieutenant) and leaves a flicker of admiration the others deny; nobody calls a stain or a peace delegation headstrong."
+    },
+    {
+      "word": "obstinate",
+      "nuance": "The plain verdict word: you are still refusing after refusing stopped making sense, possibly to your own cost. Colder and more formal than *stubborn*, and uniquely at home on inanimate things — an obstinate lid, an obstinate cough — because it needs no motive, just failure to yield."
+    },
+    {
+      "word": "intransigent",
+      "nuance": "Requires a second party and terms already on the table; it names a stance in a negotiation, not a temperament you carry around. The exasperation belongs to the side trying to close the deal — unions, parties, peace talks — and it says nothing about your heart, only that you will not trade."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "The resistance is to pity, not to argument: the pleading is heard, the suffering is visible, and you feel nothing. The speaker is passing moral judgement, not description, and the register runs near-biblical — an obdurate sinner, an obdurate creditor, an obdurate refusal to apologise."
+    },
+    {
+      "word": "implacable",
+      "nuance": "Defined by what cannot buy it off: no apology, concession, or plea registers, because it is a permanent setting rather than a mood you might outlast. It carries hostility with weight (implacable enemies, implacable hatred) and alone extends to impersonal things that simply keep coming — the tide, age, the deadline."
+    }
+  ]
+}

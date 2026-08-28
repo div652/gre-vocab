@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__making-clear-vs-muddying",
+  "title": "Making clear vs. muddying",
+  "seed_words": [
+    "elucidate",
+    "delineate",
+    "distill",
+    "articulate",
+    "obfuscate",
+    "obscure",
+    "occlude",
+    "cloak"
+  ],
+  "hallucinated": null,
+  "core": "All eight words concern whether light gets through to a thing. The first four are operations that increase clarity; the last four put something between the thing and the viewer. What separates members within each half is **method** — explaining, edge-drawing, boiling down, putting into words on one side; adding noise, dimming, sealing, and draping on the other — and, on the muddying side, **whether anyone meant to do it**.",
+  "words": [
+    {
+      "word": "elucidate",
+      "nuance": "The only one that **presupposes the material was already hard** — you elucidate a tangled clause or an unexplained mechanism, and the method is sustained expert commentary. Asking a witness to elucidate is a polite way of saying what they just said was mud."
+    },
+    {
+      "word": "delineate",
+      "nuance": "Clarity by **drawing edges, not by explaining insides**. To delineate two theories is to show where one stops and the other starts; you can delineate a job perfectly without making anyone understand it. Cool, contractual, faintly bureaucratic."
+    },
+    {
+      "word": "distill",
+      "nuance": "The only one that **throws material away**, and the only one where the output is *more potent* than the input. It implies judgement about what was inessential — praise for the person doing it. Precise inverse of **obfuscate**: subtraction versus addition."
+    },
+    {
+      "word": "articulate",
+      "nuance": "Here the fog was in **the speaker's own head**, not in the source material — you articulate a dread you hadn't yet named. The image is jointedness: thought delivered in separable, hinged pieces. Also the only member that can describe a person."
+    },
+    {
+      "word": "obfuscate",
+      "nuance": "**Always deliberate and always blameworthy** — the one word in the group that indicts the doer. And the method is *piling on*: jargon, qualifiers, extra clauses, so the disclosure technically says everything and reveals nothing."
+    },
+    {
+      "word": "obscure",
+      "nuance": "The **motive-free default** — it just reports that the light isn't getting through, whether by accident, by a passing cloud, or by *outshining* (a charming manner obscures a ruthless one). Alone in the group it also means *little-known*, which is the sense the exam hides in plain sight."
+    },
+    {
+      "word": "occlude",
+      "nuance": "**Physical only**: arteries, sinuses, a pillar in front of the stage. It takes channels and sightlines, never arguments — you cannot occlude a plan — and it leans toward *sealed shut* rather than merely dimmed. Register is clinical, not rhetorical."
+    },
+    {
+      "word": "cloak",
+      "nuance": "Concealment by **draping an appearance over** something that is still fully there — greed cloaked *in* the language of duty, a takeover cloaked *as* a merger. Its signature is the gap between surface and substance, and it wants an *in*/*as* phrase. Literary where a report would say *concealed*."
+    }
+  ],
+  "exam_note": "The trap is treating **obscure** and **obfuscate** as interchangeable — sentence-completion items hinge on intent (a cloud obscures; only a person obfuscates) — and on the clear side, on **delineate** meaning *bound* rather than *explain*."
+}

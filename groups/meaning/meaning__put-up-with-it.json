@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__put-up-with-it",
-  "title": "Put up with it",
+  "title": "What You Will Not Put Up With",
   "seed_words": [
     "abide",
     "brook",
     "countenance",
     "condone"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four mean *to tolerate* — to let something stand without objecting. All four are, in practice, negative-only verbs: the natural sentence is \"I cannot ___,\" \"would not ___,\" \"will ___ no.\" That shared negativity is the trap, because it hides four different refusals: a refusal of taste, a refusal by authority, a refusal to sanction, and a refusal to be morally implicated. What separates them is who is refusing, and what kind of thing they refuse.",
+  "words": [
+    {
+      "word": "abide",
+      "nuance": "The only one that's a matter of **temperament**. **Abide** takes people and their habits — whining, small talk, a certain kind of man — and \"can't abide\" reports a settled personal allergy, not a moral or official position. It also owns two senses none of the others have: *abide by* a rule, and *abide* meaning to last."
+    },
+    {
+      "word": "brook",
+      "nuance": "The refusal of **power, announced in advance**. **Brook** appears as *brook no* plus an abstract noun for resistance — dissent, delay, interference — and the speaker is the one who can enforce it. Where the others judge something that exists, *brook no* forecloses something before it starts."
+    },
+    {
+      "word": "countenance",
+      "nuance": "The refusal to **lend sanction**. To **countenance** is to let a proposed course of action proceed under your name — so the refuser is someone whose approval would have mattered: a board, a bishop, a government. The thing need not be wicked, only unacceptable to authorize. Watch the noun: it also means *face*."
+    },
+    {
+      "word": "condone",
+      "nuance": "The only one that **presupposes wrongdoing**. You can **condone** a fraud, never a favour — the offence has already happened, and the speaker is looking back at it and declining to be implicated. \"I do not condone this\" is a moral disavowal; the classic way to actually condone is to say nothing."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves the condone/countenance pair — plug both in and check whether the blank's object is an established wrong (condone) or a proposal awaiting approval (countenance); *brook* is unusable unless the sentence supplies \"no.\""
 }

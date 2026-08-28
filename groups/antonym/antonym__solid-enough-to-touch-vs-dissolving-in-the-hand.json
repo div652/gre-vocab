@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__solid-enough-to-touch-vs-dissolving-in-the-hand",
+  "title": "Solid enough to touch vs. dissolving in the hand",
+  "seed_words": [
+    "tangible",
+    "corporeal",
+    "palpable",
+    "empirical",
+    "illusory",
+    "delusion",
+    "amorphous",
+    "abstract",
+    "evanescent"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "tangible",
+      "nuance": "The evidence word: **tangible** is what you produce when someone stops accepting promises. It attaches to results, benefits, progress — things that were claimed before and must now be shown — and carries a faint accusation that the previous report was fluff."
+    },
+    {
+      "word": "corporeal",
+      "nuance": "Narrower and older than the rest: **corporeal** is specifically about having a *body*. It only appears where a bodiless rival is in play — soul, ghost, a patent, an easement — which is why it lives in theology, law, and horror rather than in business writing."
+    },
+    {
+      "word": "palpable",
+      "nuance": "The only one on the solid side that is almost never literal. **Palpable** measures *intensity*: a mood so thick it presses on a room. It attaches to collective atmospheres — a courtroom's dread, a crowd's relief — not to objects and not to one person's private feeling."
+    },
+    {
+      "word": "empirical",
+      "nuance": "Labels where a claim *came from*, not whether it is solid. **Empirical** means someone went and looked; its opposite is *theoretical*, never *false*. It is the only word here that can be used of a bad finding, and on the GRE it may shade toward crude trial-and-error with no theory behind it."
+    },
+    {
+      "word": "illusory",
+      "nuance": "The appearance is genuine; the substance isn't. **Illusory** needs no liar (unlike *fake*) and no absence (unlike *imaginary*), and it lands on things people wanted badly — an illusory recovery, illusory security. It indicts the thing, not anyone who believed in it."
+    },
+    {
+      "word": "delusion",
+      "nuance": "The only noun, and the only word that blames the *believer*. An illusion dissolves once you show the wires; a **delusion** outlives its own refutation. Calling a plan a delusion isn't saying it's wrong — it's saying the person can't be reached. Carries a clinical shadow that tips into mockery."
+    },
+    {
+      "word": "amorphous",
+      "nuance": "Not unreal — **unshaped**. An amorphous thing is fully there and simply has no edges yet: a committee with no chain of command, a draft with no argument. Cool and diagnostic, describing the object rather than the speaker's irritation, and in science purely descriptive (glass has no crystal lattice)."
+    },
+    {
+      "word": "abstract",
+      "nuance": "Insubstantial by *design*, not by failure. **Abstract** is the idea deliberately pulled off the object, and it can be perfectly exact — mathematics is maximally abstract. Never confuse it with vague; the complaint in \"too abstract\" is distance from real cases, not fuzziness."
+    },
+    {
+      "word": "evanescent",
+      "nuance": "The only word here about *time*. Something **evanescent** is thinning while you watch — mist, a chord, a scent. Distinguish from *ephemeral*, which measures lifespan; evanescent stages the vanishing itself, and it is literary and fond, reserved for things too lovely to hold."
+    }
+  ],
+  "core": "These words sort the world by how much substance a thing has — whether it can be touched, shown, measured, or grasped, or whether it thins out the moment you reach for it. One half insists on evidence and physical presence; the other half names the various ways something can seem present without being solid. The trap is that \"insubstantial\" fractures into very different failures: no shape, no body, no reality, no duration, no reliable believer.",
+  "exam_note": "The exam rarely pairs a clean opposite; it makes you pick *which kind* of insubstantiality the sentence set up — shapeless (amorphous), unreal (illusory), theoretical (abstract), or fading (evanescent)."
+}

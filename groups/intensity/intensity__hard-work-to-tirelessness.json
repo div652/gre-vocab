@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__hard-work-to-tirelessness",
+  "title": "Industrious → Indefatigable: Hard Work to Tirelessness",
+  "seed_words": [
+    "industrious",
+    "sedulous",
+    "dogged",
+    "indefatigable"
+  ],
+  "hallucinated": null,
+  "core": "All four praise a person for effort rather than talent — for staying on the task instead of solving it brilliantly. They differ along two axes: how much resistance the work involves (routine labor vs. grinding through setbacks), and where the admiration lands (visible output, meticulous care, refusal to quit, or sheer inexhaustibility). The higher you go, the less the word says about what got produced and the more it says about the will behind it.",
+  "words": [
+    {
+      "word": "industrious",
+      "nuance": "**Industrious** is the only one measured by output: it praises busy, visible productivity, not difficulty overcome. Nothing is resisting the industrious worker — they simply keep producing, and it's the mildest term here, often a consolation for someone who works hard because they aren't gifted."
+    },
+    {
+      "word": "sedulous",
+      "nuance": "**Sedulous** shifts the praise from volume to painstaking care — the unhurried checking of every footnote. It is markedly formal and bookish where *industrious* is everyday, and it makes slowness a virtue: the task is tedious rather than hard, and thoroughness is the whole point."
+    },
+    {
+      "word": "dogged",
+      "nuance": "**Dogged** is the first word here that presupposes obstacles — setbacks, discouragement, doors closing. It praises refusal to let go rather than care or productivity, and its tone is unglamorous and street-level (the detective in month nine, not the scholar at his desk). Listen for the near-fixed phrases *dogged determination* and *dogged persistence*."
+    },
+    {
+      "word": "indefatigable",
+      "nuance": "**Indefatigable** makes the claim absolute — not \"kept going\" but *cannot be worn out*, over years, long after everyone else has flagged. It's the grandest and most formal of the four, attaching to campaigners and advocates rather than students, and it alone can turn dry: the person who will not let the matter drop is exhausting to be near."
+    }
+  ],
+  "exam_note": "The trap is treating all four as interchangeable fills for \"hardworking\"; the sentence plants a clue about resistance (obstacles → *dogged*), duration (years without flagging → *indefatigable*), or meticulousness (→ *sedulous*)."
+}

@@ -8,5 +8,25 @@
     "surrogate",
     "proxy"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Every word here covers the case where one thing occupies the place of another and the arrangement still works. The split that matters is symmetry. Two of them describe **mutual** substitutability — a pool of equivalents where no member is the original and swapping runs in either direction. The other two describe **one-way** substitution — there is a specific absent original, and the stand-in is measured against it.",
+  "words": [
+    {
+      "word": "fungible",
+      "nuance": "**Fungible** things aren't just swappable, they're *not individually tracked* — nobody asks which dollar or which barrel, because the units have no identities to distinguish. It's the legal-financial term of art (contracts, commodities, ledgers), so aiming it at people is the insult: they've been reclassified as countable stock."
+    },
+    {
+      "word": "interchangeable",
+      "nuance": "**Interchangeable** is the plain-English functional claim: these two particular items are distinguishable — different brand, different wording — but either fills the slot with no loss. Unlike *fungible*, you're comparing named things and finding the difference immaterial, not denying that differences exist."
+    },
+    {
+      "word": "surrogate",
+      "nuance": "A **surrogate** fills a *role that rightfully belongs to a specific someone else* — mother, father figure, decision-maker, campaign spokesman. The original is present as an absence: everyone knows who was supposed to be there, and the stand-in carries a faint second-best tinge that the symmetric words can't."
+    },
+    {
+      "word": "proxy",
+      "nuance": "A **proxy** is substitution by *grant* — the authority was openly delegated (she holds my proxy), which is what separates it from an impostor and from a merely drafted surrogate. It also owns a sense none of the others have: a measurable stand-in for something unobservable, as tree rings are a proxy for rainfall."
+    }
+  ],
+  "exam_note": "The trap is symmetry: a sentence with a named original (\"stood in for the senator\") wants **surrogate**/**proxy**, while one about undifferentiated units wants **fungible**/**interchangeable** — and only **proxy** can mean an indirect measure."
 }

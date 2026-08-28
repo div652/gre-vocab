@@ -7,5 +7,21 @@
     "distressed",
     "stringent"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *stringere* means to draw tight, bind, or squeeze. Every word here involves tension applied — something pulled taut, clamped down, or contracted. The confusion is that the tightening lands in different places: on a rule, on the tongue, or on the thing being squeezed. Two of them also look nearly identical on the page and differ by a single letter.",
+  "words": [
+    {
+      "word": "stringent",
+      "nuance": "The tightening is in **the bar itself** — rules, criteria, controls, protocols. It measures how little slack a standard permits, not how much it hurts to fail it, which is why *stringent testing* reads as praise where *harsh testing* would not. It never attaches to a temperament: a person can be strict, but only a system is stringent."
+    },
+    {
+      "word": "astringent",
+      "nuance": "The tightening is a **sensation** — literally puckering tissue, figuratively puckering prose or wit. Unlike stringent, it describes tone and taste rather than requirement, and it stings *bracingly* rather than burning; the medicinal undertone makes it a compliment to a writer, and it is never applied to a rule."
+    },
+    {
+      "word": "distressed",
+      "nuance": "The only one naming **what is being squeezed** rather than the force doing the squeezing — the object under strain, not the standard or the sting. It's the third-party, clinical register (*a vessel in distress*), sits a notch below *distraught*, and carries two GRE-favourite trade senses: cheap because the company is failing, or costly because the denim was battered on purpose."
+    }
+  ],
+  "exam_note": "The classic trap is the missing *a-*: check whether the blank governs a rule or requirement (**stringent**) or a taste, tone, or style (**astringent**) — and don't assume **distressed** just means \"upset\" when the sentence is about assets or furniture."
 }

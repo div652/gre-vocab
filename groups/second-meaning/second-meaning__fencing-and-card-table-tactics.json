@@ -1,0 +1,27 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__fencing-and-card-table-tactics",
+  "title": "Fencing and card-table tactics",
+  "seed_words": [
+    "feint",
+    "foil",
+    "ploy"
+  ],
+  "hallucinated": null,
+  "core": "All three are borrowed from the duel and the game table, and all three name a *move* inside a contest rather than a state of affairs: something one player does to another while the other is still playing. That shared arena is what blurs them — each involves an opponent, an advantage, and a moment. What separates them is direction and stance: one misleads, one gets a move stopped, one gets a move judged. Each also carries a second sense the exam prefers to the obvious one.",
+  "words": [
+    {
+      "word": "feint",
+      "nuance": "The only one that **must be seen to work** — it aims at the opponent's *attention*, a committed-looking movement one way so the real blow lands another. Hence it stays morally clean: fencers, boxers and generals feint and no one calls it dishonest, whereas the other two invite a verdict."
+    },
+    {
+      "word": "foil",
+      "nuance": "The only **reactive** one — it needs an attempt already in motion (a plot, an escape, a heist) and describes what happens *to* someone else's move; you can't foil an intention. It also casts roles: the foiler is the hero, the foiled faintly absurd. The noun sense abandons combat entirely — a foil doesn't oppose, it *flatters by contrast*, throwing another's qualities into relief."
+    },
+    {
+      "word": "ploy",
+      "nuance": "The only one that is a **verdict rather than a description**: calling something a ploy convicts it of small, cheap self-interest and says the speaker has already seen through it. Scale is built in — one move, not a campaign — and nobody applies it to their own manoeuvre."
+    }
+  ],
+  "exam_note": "GRE prefers the off-sense: **foil** almost always means the Watson-to-Holmes contrast, not \"thwart\" — and it will offer **feint** and **ploy** as interchangeable when only *ploy* carries contempt."
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__interest-to-total-absorption",
+  "title": "Interest to total absorption",
+  "seed_words": [
+    "intrigue",
+    "enchant",
+    "enthrall"
+  ],
+  "hallucinated": null,
+  "core": "All three describe something outside you taking hold of your attention — you don't decide to be interested, the thing does it to you. They line up on how much of you it takes: a pricked curiosity, a warm spell, a total loss of everything else in the room. Their metaphors track that escalation exactly: a tangle you want to unpick, a magic charm, and a state of bondage. The English is passive by default in all three — the thing has the power, you receive it.",
+  "words": [
+    {
+      "word": "intrigue",
+      "nuance": "**Intrigue** is the only one whose pull is *puzzlement* rather than pleasure — you lean in because something is being withheld, not because it delights you. It's also the weakest: the intrigued person is still fully in charge, could walk away, and usually just wants to know more. And it alone carries the sinister second life, the noun for backroom plotting, which is the sense the GRE actually tests."
+    },
+    {
+      "word": "enchant",
+      "nuance": "**Enchant** is charm, not curiosity — the thing wins your affection, and it's warm, aesthetic and faintly old-fashioned (a voice, a village, a child). Unlike the others it doesn't require you to still be watching: you can be enchanted *by* a memory. It's the most flattering to the object and the most romantic in register."
+    },
+    {
+      "word": "enthrall",
+      "nuance": "**Enthrall** is pure attentional capture — everything else in the room disappears, and the enthralled person *can't stop*, which neither of the others claims. Its root is *thrall*, a slave: this is surrender, though a pleasurable one. It's the most literary of the three and the only one strong enough for a motionless, silent audience."
+    }
+  ],
+  "exam_note": "Two traps: the GRE almost always wants **intrigue**'s scheming sense, and it baits you into using it for total absorption — but a crowd that sat spellbound through three hours was **enthralled**, never merely intrigued."
+}

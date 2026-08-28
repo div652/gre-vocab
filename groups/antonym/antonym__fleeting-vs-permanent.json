@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__fleeting-vs-permanent",
+  "title": "Fleeting vs. Fixed",
+  "seed_words": [
+    "ephemeral",
+    "evanescent",
+    "transient",
+    "transitory",
+    "momentary",
+    "perennial",
+    "immutable",
+    "entrenched",
+    "extant"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers \"how long does this last?\" — one half says *barely*, the other says *effectively forever*. But the real distinctions are not on the clock. Each word encodes a different **reason** for the brevity (it's designed to be short, it's dissolving as you watch, it's a phase, it's an instant) or a different **kind** of permanence (it keeps returning, it cannot be altered, it resists being moved, it merely survived). Two words on the same side of the divide are rarely interchangeable, and two words on opposite sides are rarely true opposites.",
+  "words": [
+    {
+      "word": "ephemeral",
+      "nuance": "**Ephemeral** is about total lifespan — the thing gets a day, a season, a summer, and then it's over — and the speaker usually finds that lovely rather than sad. It's the aesthete's word: mayflies, blossom, viral fame."
+    },
+    {
+      "word": "evanescent",
+      "nuance": "**Evanescent** isn't about lifespan at all but about *the disappearing*: the thing is thinning out while you're still looking at it. Mist, a scent, a chord. Softest word here — no waste, no clock, just dissolution."
+    },
+    {
+      "word": "transient",
+      "nuance": "**Transient** is the cold one — it reports impermanence as a fact with no wistfulness, which is why engineers, doctors, and hotel managers own it (a transient spike, a transient fever). It's also the only word here with a noun for a *person* passing through."
+    },
+    {
+      "word": "transitory",
+      "nuance": "**Transitory** treats impermanence as a property of the thing: it is a phase, and phases end. It attaches to abstractions — power, fame, pain, an economic condition — and hums faintly with a moral: don't get attached."
+    },
+    {
+      "word": "momentary",
+      "nuance": "**Momentary** is the shortest and the plainest — seconds, not seasons — and it does defensive work the others don't. A *momentary lapse* is a bid to have the failure waived off as too brief to count."
+    },
+    {
+      "word": "perennial",
+      "nuance": "**Perennial** endures by *returning*, not by never stopping — it fades and comes back on schedule, so reliably you stop being surprised. That cycle is what separates it from the never-stops words, and the tone flips with the object: a perennial favourite is affectionate, a perennial problem is weary."
+    },
+    {
+      "word": "immutable",
+      "nuance": "**Immutable** is the absolute: not merely lasting but *incapable of being changed*, by anyone, ever. It's a claim about the nature of a thing — law, physics, scripture, the past — which is why it so often arrives dripping with irony about what turned out to be changeable after all."
+    },
+    {
+      "word": "entrenched",
+      "nuance": "**Entrenched** persists because it *resists effort*, not because change is impossible — someone has pushed and it didn't budge. So it names an obstacle and arrives with a sigh (entrenched poverty, entrenched interests), except in constitutional law, where entrenching a right is deliberate armour."
+    },
+    {
+      "word": "extant",
+      "nuance": "**Extant** makes no promise about the future — it looks backwards and says only *this one survived*. It implies the rest of the set is gone (the oldest extant manuscript, the last extant colony) and belongs to archivists and biologists taking cool inventory."
+    }
+  ],
+  "exam_note": "The trap is assuming the two halves are opposites: *extant* answers \"did it survive?\" not \"will it last,\" and *perennial* means recurring, not unending — so the \"correct antonym\" of a brevity word is usually the one matching its **reason**, not its duration."
+}

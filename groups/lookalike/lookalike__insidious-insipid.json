@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__insidious-insipid",
-  "title": "insidious / insipid / intrepid…",
+  "title": "insidious / invidious / insipid / vapid — near-twins, different verdicts",
   "seed_words": [
     "insidious",
     "insipid",
@@ -12,5 +12,37 @@
     "vapid"
   ],
   "similarity": 0.61,
-  "auto": true
+  "auto": true,
+  "core": "These are formal adjectives that collide on the page rather than in meaning: four syllables, an in- or v- opening, and an -id/-ious tail that the eye skims over. Two small families hide inside the noise — one about doing harm or earning hatred, one about having nothing inside — plus one word that is not negative at all. On a timed test the shape is read before the sense, so the fix is to attach each one to what it can actually modify: a disease, a comparison, a regime, a soup, a smile, a speech, an explorer.",
+  "words": [
+    {
+      "word": "insidious",
+      "nuance": "**Insidious** is the only one about *concealment over time* — the harm is real and advancing while everyone looks elsewhere, so it modifies processes (a disease, a rumour, compounding debt) rather than people or judgements. Nobody is angered by it, because nobody has noticed yet."
+    },
+    {
+      "word": "invidious",
+      "nuance": "**Invidious** does its damage in public and sideways: it names an act — a comparison, a distinction, a ranking — that is unfair *and* sets people against each other. The harm is the resentment it breeds in third parties, not any injury to the person described."
+    },
+    {
+      "word": "odious",
+      "nuance": "**Odious** hides nothing and divides nobody — it is the speaker's flat moral denunciation, demanding you share the disgust. It applies to tyrants, laws and duties, and it grades far higher than *unpleasant*: the thing has *earned* hatred."
+    },
+    {
+      "word": "insipid",
+      "nuance": "**Insipid** is the one that still works literally on food — flavourless soup — and carries that taste metaphor into prose, music and people. It implies the critic sampled attentively and found the expected flavour simply absent."
+    },
+    {
+      "word": "vapid",
+      "nuance": "**Vapid** attacks things that are perfectly pleasant on the surface: the agreeable smile, the catchy pop song, the smooth small talk. Its sting is that nothing objectionable happened — there was just no life under the polish."
+    },
+    {
+      "word": "vacuous",
+      "nuance": "**Vacuous** is narrower than the other two emptiness words: it targets *thought* specifically, so it belongs to remarks, speeches, stares and minds, never to soup. Not that the meaning was unclear — that there was no meaning in there to find."
+    },
+    {
+      "word": "intrepid",
+      "nuance": "**Intrepid** is the only positive word here, and it describes a settled temperament rather than a single brave act — the person who keeps going into danger or the unknown. It admires the nerve without a hint of recklessness, and it is the only one of these that can be used with an affectionate wink."
+    }
+  ],
+  "exam_note": "The classic trap is insidious/invidious in a sentence about a comparison or distinction — ask whether the harm is hidden and slow (insidious) or public and resentment-breeding (invidious); and remember intrepid is the lone positive, so it is the plant in any answer set that otherwise reads as criticism."
 }

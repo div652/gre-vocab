@@ -8,5 +8,25 @@
     "depose",
     "posturing"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *ponere / positus* means to put or place, and every word here is a different answer to the question *placed where?* — beside the matter, toward the purpose, down from a throne, or into a stance. Two of them place a remark (and are near-twins in sound and sense, which is the whole danger); one removes a person from a position; one holds a position for show. The root is a memory hook, not a meaning: knowing it tells you a placement is involved, never which one.",
+  "words": [
+    {
+      "word": "apposite",
+      "nuance": "Placed *beside* — praises the **aim of the content**, not the moment. An **apposite** quotation would still be apposite if you had produced it a week later or read it in a footnote; it hits the precise nerve of the matter. The critic's written verdict, and it attaches almost only to things said: analogies, examples, comparisons."
+    },
+    {
+      "word": "apropos",
+      "nuance": "Placed *toward the purpose* — praises the **timing**. The same remark that is **apropos** in the flow of a conversation is merely stale a minute later. It is also the only word here with a prepositional life (*apropos of your last point*), it carries an audible French accent, and it belongs to speech; apposite never does either."
+    },
+    {
+      "word": "depose",
+      "nuance": "The only word here that acts on a **person, not a remark** — placing someone *down* out of high office. Strictly about rank: kings, presidents, party chiefs, never a clerk. Deliberately colorless about method — a coup, a vote, or a mob all depose equally — which is what separates it from *overthrow* and *oust*. Watch for the unrelated legal sense: to take sworn out-of-court testimony."
+    },
+    {
+      "word": "posturing",
+      "nuance": "The only pejorative, and the only word about a **position held for display**. The others certify that something genuinely fits; **posturing** certifies that it doesn't — the stance is a costume worn for leverage, with no intention behind it. Cooler and more calculating than *grandstanding*, which just wants the attention."
+    }
+  ],
+  "exam_note": "The exam trades on the apposite/apropos overlap — if the sentence stresses *when* the remark came, it wants apropos; if it stresses *how exactly it fit*, apposite — and separately baits *apposite* against *opposite*."
 }

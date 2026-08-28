@@ -8,5 +8,25 @@
     "axiomatic",
     "ironclad"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say the same thing at first glance: there is nothing left to argue about. The differences lie in *why* the argument is over — because the evidence answered the question, because the proof cannot be attacked, because the claim was never up for debate to begin with, or because the thing has no seam to pry open. Three of them are verdicts reached after examination; one is a premise granted before it. And one describes a structure rather than a truth.",
+  "words": [
+    {
+      "word": "conclusive",
+      "nuance": "**Conclusive** is about a *pending question being closed*. It attaches to evidence, tests, results — things produced to settle something specific — and marks the moment inquiry can stop. Hence its natural home in the negative: *inconclusive*, *no conclusive evidence*, meaning the question is still open."
+    },
+    {
+      "word": "incontrovertible",
+      "nuance": "**Incontrovertible** grades how well the proof withstands attack, not whether it answered anything. A fact can be incontrovertible and completely beside the point, where *conclusive* always implies it resolved the matter at issue. It's also the heaviest register of the four — documents, data, DNA — and in ordinary speech it can sound pompous."
+    },
+    {
+      "word": "axiomatic",
+      "nuance": "**Axiomatic** is the odd one: no evidence has been offered at all. It sits *before* the argument as a granted starting point, where the others are earned at the end. Watch for the rhetorical move — \"it is axiomatic that…\" fences a claim off from dispute rather than proving it."
+    },
+    {
+      "word": "ironclad",
+      "nuance": "**Ironclad** describes a structure, not a truth — an alibi, a contract, a guarantee, a rule: things with seams that someone is actively trying to pry open. It promises no loophole exists, so it's the only one here you'd apply to a document or an arrangement rather than to a claim about the world. Aimed at a person's principles, it can turn cold."
+    }
+  ],
+  "exam_note": "The trap is treating these as interchangeable degrees of certainty: a completed-sentence blank about *unproven assumptions* wants **axiomatic**, one about *contracts and alibis* wants **ironclad**, and only a blank about evidence answering a question takes **conclusive**."
 }

@@ -7,5 +7,21 @@
     "dictum",
     "indictment"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three descend from Latin *dicere* (to say), and all three name speech that comes down from a position of authority rather than across from an equal. None of them is conversation: one party pronounces, the other receives. What separates them is *which part of the act* each word names — the imposing, the finished pronouncement, or the accusation.",
+  "words": [
+    {
+      "word": "dictate",
+      "nuance": "The only one naming the **act of imposing**, and the only verb — it takes an object (terms, a schedule, the peace) and a victim who had no say. Its distinguishing test is the absence of negotiation: **dictate** is what you do *instead of* consulting. It also has a cool impersonal use the others lack entirely — *the budget dictates the timeline* — where no authority figure exists and it means only \"determines, leaves no choice.\""
+    },
+    {
+      "word": "dictum",
+      "nuance": "Names the **finished utterance itself**, not the act — a quotable, portable line you can attribute. Unlike a **dictate**, it compels nobody; its force is the speaker's standing, not power over you. That attributability also separates it from *proverb* or *adage*: a **dictum** has a named author behind it, and in law (*obiter dicta*) it is authoritative in tone yet explicitly not binding."
+    },
+    {
+      "word": "indictment",
+      "nuance": "The only accusatory member, and the only one that takes **of** — an **indictment** is always *of* something, aimed at a target. Where a **dictum** pronounces a truth and a **dictate** imposes a rule, an **indictment** charges guilt: it presents evidence, not opinion, which is why *damning*, *searing*, and *stinging* cling to it. It opens a case rather than settling one — accusation, never verdict."
+    }
+  ],
+  "exam_note": "The GRE usually wants the figurative **indictment** (\"the results are an indictment of the policy\" = damning proof, not a grand jury) and the impersonal **dictate** (\"supply dictates price\" = determines), while test-takers hunt for a courtroom or a tyrant."
 }

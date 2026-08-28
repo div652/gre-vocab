@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__warmly-sociable",
-  "title": "Warmly sociable",
+  "title": "Friendly — but friendly how?",
   "seed_words": [
     "amicable",
     "cordial",
@@ -9,5 +9,29 @@
     "convivial",
     "gregarious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Every word here would be glossed \"friendly\" in a cheap dictionary, and all five are positive and faintly formal. What separates them is *what the friendliness attaches to*: a negotiation, a tone of address, a match between two temperaments, an evening around a table, or an appetite for company. Some of them require no affection at all; one requires no manners at all. Pick by the noun, not by the warmth.",
+  "words": [
+    {
+      "word": "amicable",
+      "nuance": "The coldest word in the group and the only one that measures an *absence*: no hostility, in a dealing where hostility was the forecast. It attaches to proceedings — divorces, settlements, separations — and is fully compatible with never speaking to the person again."
+    },
+    {
+      "word": "cordial",
+      "nuance": "Real warmth held deliberately at a fixed distance. It is the word for a host or a foreign ministry: **cordial** signals sincere goodwill while committing to no intimacy, which is exactly why a \"cordial meeting\" is a sentence that tells you nothing."
+    },
+    {
+      "word": "congenial",
+      "nuance": "The only one that is a claim about *fit* rather than about a person's qualities — X is congenial **to you**. Two misanthropes can be congenial company for each other, and it is also the only word here that can describe a job, a climate, or a room."
+    },
+    {
+      "word": "convivial",
+      "nuance": "Describes the occasion, not the disposition; it carries food, drink and a crowd with it. You cannot be convivial alone or convivial in a lift, and the word implies the evening ran long — a whiff of indulgence none of the others has."
+    },
+    {
+      "word": "gregarious",
+      "nuance": "Appetite, not manners. It says only that people are what recharges this person — the one who fills an empty calendar on principle — and is silent on whether they are pleasant company; a gregarious person can be an exhausting bore. Note the literal biological sense: geese and ants are gregarious."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable intensities of \"friendly\": Sentence Equivalence will pair **gregarious** with *sociable* against a distractor like *affable* (pleasantness ≠ appetite), or offer **cordial** where the context demands **amicable** (a settlement has parties, not feelings); read what the adjective is modifying — a dispute, a tone, a fit, an evening, or a temperament."
 }

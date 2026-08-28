@@ -8,5 +8,25 @@
     "deviate",
     "divergent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four words describe something that fails to match what was expected — a norm, a model, a plan, a starting point. Each needs an implied reference line, and the interesting question is always what that line is and whether leaving it counts as a fault. They split on two axes: whether a judgement is being passed, and whether the reference is a standard you fell short of or a companion you drifted away from.",
+  "exam_note": "The GRE trades on connotation here: a sentence with \"merely,\" \"not necessarily wrong,\" or \"yet to be explained\" wants **anomalous**, while one with \"troubling,\" \"symptom,\" or \"disciplinary\" wants **aberrant** — and **divergent** is the trap answer whenever no shared origin is present.",
+  "words": [
+    {
+      "word": "aberrant",
+      "nuance": "The only one of the four that convicts. **Aberrant** doesn't just record the mismatch, it treats it as a defect requiring explanation — a pathology, a malfunction, a lapse in conduct. Where the others leave the verdict open, this one has already delivered it."
+    },
+    {
+      "word": "anomalous",
+      "nuance": "The judgement-free member of the set. **Anomalous** says only *the model didn't predict this* and deliberately withholds any claim about whether that's bad — the same reading can turn out to be an instrument error or a Nobel Prize. It also presumes the model is right and the case is the odd one, which is exactly the assumption **divergent** never makes."
+    },
+    {
+      "word": "deviate",
+      "nuance": "The verb, and the one that demands a *specified* path to leave — the protocol, the itinerary, the mean, not a vague sense of normalcy. You can be aberrant without anyone naming the standard; you can only **deviate** from something someone laid down. Its connotation is imported, not built in: neutral on a graph, an accusation in an incident report."
+    },
+    {
+      "word": "divergent",
+      "nuance": "Alone in the group, this one involves no norm at all — just two things that started together and are now moving apart, with neither designated the outlier. **Divergent** measures a widening gap between peers (opinions, lineages, roads), so it can't be used for a single specimen that fails a standard the way the other three can."
+    }
+  ]
 }

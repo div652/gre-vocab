@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__broken-faith",
+  "title": "Broken faith",
+  "seed_words": [
+    "perfidy",
+    "renege",
+    "forsake",
+    "betray",
+    "duplicitous",
+    "mendacity"
+  ],
+  "hallucinated": null,
+  "core": "Someone had a claim on your honesty or loyalty, and it wasn't honored. All of these name a failure of good faith, which is why they blur — but they split along three lines: *what* was broken (a stated promise, an emotional bond, a confidence, the truth itself), whether it's a single act or a standing condition of character, and how loudly the word convicts. Some are cool enough for a contract dispute; others are verdicts you deliver when you've decided a person is rotten.",
+  "words": [
+    {
+      "word": "perfidy",
+      "nuance": "The only one that requires the betrayer to have *used* the trust as the weapon — the bond wasn't just broken, it was the means. Reserved for treaties, oaths and allies, and pitched high enough that a lawyer reaches for it precisely when *betrayal* sounds too mild."
+    },
+    {
+      "word": "renege",
+      "nuance": "The coolest word here, and the only one that needs no relationship at all — just a commitment on the record. You renege **on** a pledge or a signed offer; there's no wound, only an arrangement the other side had built around. Say it in a business email and nobody flinches."
+    },
+    {
+      "word": "forsake",
+      "nuance": "Abandonment by *leaving*, not by working against — the vow-word, biblical and faintly reproachful, about withdrawal of presence rather than a double game. Uniquely, it can turn admirable: forsaking drink or ambition is renunciation, and nobody else in this group can be praised."
+    },
+    {
+      "word": "betray",
+      "nuance": "The plain everyday word for the loyalty sense — but the GRE wants sense 2, where the subject isn't a person at all. A flush, a tremor, a pause **betrays** what its owner was working to hide; the disloyalty is involuntary, committed by a detail against the self."
+    },
+    {
+      "word": "duplicitous",
+      "nuance": "Names the *method*, not the injury: two faces maintained at once, usually for two audiences. It needs no broken bond and no specific victim — only a sustained double game, systematic and premeditated. A single lie doesn't qualify; a friendly manner concealing an opposite intent does."
+    },
+    {
+      "word": "mendacity",
+      "nuance": "About truth alone, not loyalty — you can be mendacious without betraying anyone. And it indicts a condition rather than an act: a trait of character or the air a household or institution breathes. Nobody applies it to their own fib."
+    }
+  ],
+  "exam_note": "The trap is **betray** = *reveal inadvertently* (his voice betrayed his fear), never the loyalty sense; the second trap pits **mendacity** against **duplicity** — mendacity needs no second face, duplicity needs no false statement."
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__grasping-for-more-vs-giving-it-away",
+  "title": "Grasping for more vs. giving it away",
+  "seed_words": [
+    "acquisitive",
+    "avaricious",
+    "rapacious",
+    "covet",
+    "venal",
+    "mercenary",
+    "altruistic",
+    "munificent",
+    "beneficent",
+    "largesse",
+    "endow"
+  ],
+  "hallucinated": null,
+  "core": "All of these track the movement of money, goods, or advantage relative to the self — either pulled inward or pushed outward — and almost all of them carry a verdict on the person doing the moving. The confusion isn't across the divide (nobody mixes up greed with giving); it's *within* each side, where the words differ not in direction but in what they specify: whether desire is settled or predatory, whether the object belongs to someone else, whether a duty is for sale, whether the gift is large, permanent, motive-pure, or handed down from a height. The two halves are also not clean mirrors — the taking words range from neutral to damning, while the giving words range from admiring to quietly contemptuous of the receiver.",
+  "words": [
+    {
+      "word": "acquisitive",
+      "nuance": "The coldest and only redeemable member of the taking side: a settled habit of accumulating, with no victim and no moral sentence attached. It's the one you can say approvingly — an **acquisitive** firm, an **acquisitive** mind — which none of the others allow."
+    },
+    {
+      "word": "avaricious",
+      "nuance": "Money specifically, and the *hoarding* end of it — the miser who clutches, not the predator who seizes. **Avaricious** needs no power at all; a penniless clerk can be avaricious, whereas rapacity requires something to grab with."
+    },
+    {
+      "word": "rapacious",
+      "nuance": "The top of the scale, and the only one that implies a stripped victim. Where avarice keeps, **rapacious** takes — it presumes leverage (conquerors, creditors, landlords) and is purely condemnatory."
+    },
+    {
+      "word": "covet",
+      "nuance": "The only verb, and the only one about pure inward desire — nothing has been acquired, and nothing need ever be. Its defining restriction is ownership: what you **covet** is already somebody else's. Note the participle flips clean positive: *the coveted prize*."
+    },
+    {
+      "word": "venal",
+      "nuance": "Not about wanting money — about having a price. **Venal** requires an office with a duty to betray (judge, inspector, journalist); it names the mechanism of corruption, not the appetite behind it."
+    },
+    {
+      "word": "mercenary",
+      "nuance": "Money hasn't corrupted a duty here, it has *replaced a motive* — loyalty, conviction, love of the work. Nothing illegal need happen: a **mercenary** lawyer is perfectly lawful, just hollow, which is why the word cuts hardest applied to artists, athletes, and friends."
+    },
+    {
+      "word": "altruistic",
+      "nuance": "The only giving word that is a claim about *motive*, and an absolute one: cost to you, zero return. Scale and status are irrelevant — a stranger donating a kidney qualifies, a patron endowing a wing may not. That absoluteness is why the word so often arrives pre-loaded with suspicion."
+    },
+    {
+      "word": "munificent",
+      "nuance": "Pure praise, measured in *size* — the gift is enormous and the giver has standing. Says nothing about why he gave; a munificent donor may be buying his name onto a building."
+    },
+    {
+      "word": "beneficent",
+      "nuance": "Points at deeds already done and benefits actually conferred — the ward is funded, not merely contemplated. It describes an agent as a standing character (patron, monarch, foundation), which is what makes it so easy to turn ironic. Distinguish *benevolent* (kindly intent) and *beneficial* (things that do good)."
+    },
+    {
+      "word": "largesse",
+      "nuance": "The only noun, and the only giving word with a built-in height difference: it flows downward and everyone knows the tap can be shut. It reliably sours in print, and the sneer lands on the *receiver* — \"living on his father's largesse.\""
+    },
+    {
+      "word": "endow",
+      "nuance": "Specifies the mechanism: a permanent principal given to an institution, generating income forever. Uniquely, its second sense has no human giver at all — **endowed** with perfect pitch means nature or luck handed it over, unearned."
+    }
+  ],
+  "exam_note": "The exam plays on the fact that neither side is uniform — it will offer *acquisitive* where the sentence demands a victim (needs *rapacious*) or *avaricious* where a duty is being sold (needs *venal*); watch too for the positive *coveted*, and never confuse **venal** (bribable) with **venial** (a forgivable sin)."
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__contronyms-the-word-points-both-ways",
+  "title": "Contronyms: the word points both ways",
+  "seed_words": [
+    "sanction",
+    "compromise",
+    "unravel",
+    "dispense",
+    "yield"
+  ],
+  "hallucinated": null,
+  "core": "Each of these words carries two senses that pull in opposite directions — grant and punish, produce and surrender, mend and destroy, hand out and do away with. The two senses aren't accidents of homonymy; they descend from one root idea (an authority binding, a thread pulled, a thing given up) that can be read as gain or loss depending on who's on which end. What separates them is the *trigger*: what tells you which sense is live — a preposition, a grammatical number, transitivity, or the part of speech.",
+  "words": [
+    {
+      "word": "sanction",
+      "nuance": "The only one here whose flip is signalled by **number**: verb and singular noun mean permission, plural *sanctions* means penalty. Also the only one that requires an institution on both sides of the flip — a state, synod, or board, never a person blessing or scolding you informally."
+    },
+    {
+      "word": "compromise",
+      "nuance": "The flip is signalled by **form**: the noun *a compromise* is dignified, the participle *compromised* is always damage — breached, tainted, no longer trustworthy. Unlike the others, the second sense is morally loaded; a **compromised** password, immune system, or official is not merely weakened but discredited."
+    },
+    {
+      "word": "unravel",
+      "nuance": "The flip is signalled by **transitivity**: *you* unravel it (patient detective work, a compliment to your intelligence) versus *it* unravels (slow self-accelerating collapse, an obituary). It's the only member whose two senses share a physical image — the same tug that reveals the pattern ruins the sweater."
+    },
+    {
+      "word": "dispense",
+      "nuance": "The only one whose reversal hangs on a **preposition**: add *with* and handing out becomes doing without. And its \"give\" sense is cold and metered — pharmacists and courts dispense, friends share — while *dispense with* is brisk to the point of contempt, sweeping a formality aside as beneath the speaker."
+    },
+    {
+      "word": "yield",
+      "nuance": "Barely a contronym — both senses are \"something comes out under pressure,\" the crop or the ground. Alone in the group, its surrender sense can be **gracious**: yielding the floor is courtesy or tactics, not defeat, where *capitulate* would be. Watch the adjectives: **yielding** = pliant, **unyielding** = rigid."
+    }
+  ],
+  "exam_note": "The trap answer always fits the everyday sense; the credited answer runs on the buried one — so when *sanction*, *compromise*, or *dispense* appears, check the grammar (plural? participle? followed by *with*?) before you check the meaning."
+}

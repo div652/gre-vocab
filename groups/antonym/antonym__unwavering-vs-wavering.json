@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__unwavering-vs-wavering",
+  "title": "Unwavering vs. wavering",
+  "seed_words": [
+    "steadfast",
+    "resolute",
+    "stalwart",
+    "dogged",
+    "capricious",
+    "mercurial",
+    "fickle",
+    "vacillate",
+    "irresolute",
+    "volatile",
+    "erratic"
+  ],
+  "hallucinated": null,
+  "core": "Every word here rates something on a single axis: does it hold its position over time, or not? One pole is praise for constancy — the mind, the loyalty, or the effort that stays put when staying is costly. The other pole is blame for instability — the mood, allegiance, decision, or performance that will not stay where you left it. The distinctions inside each pole are about *what* fails to move or fails to stay: a decision, an attachment, a temperament, a track record — and about who is judging.",
+  "words": [
+    {
+      "word": "steadfast",
+      "nuance": "The constancy is **relational** — **steadfast** is about not abandoning a person, faith, or cause when abandonment would be the easy exit. Unlike *resolute*, no decision is at stake; unlike *dogged*, no labour is involved. You are simply still there."
+    },
+    {
+      "word": "resolute",
+      "nuance": "The constancy is **in a settled decision**, not in an attachment. **Resolute** presumes the deliberating is finished and doubt was dismissed — it is the exact positive twin of *irresolute*, and the GRE loves that pairing. Praise for an ally doing what you'd call obstinate in an enemy."
+    },
+    {
+      "word": "stalwart",
+      "nuance": "Adds **time served and physical solidity**. A **stalwart** has held the line for years through the bad seasons, doing unglamorous work — which is why it also works as a noun (*a stalwart of the party*). A newcomer can be resolute or dogged on day one; nobody is a stalwart on day one."
+    },
+    {
+      "word": "dogged",
+      "nuance": "The constancy is in **effort against grind**, not in loyalty or resolve. **Dogged** implies setbacks, tedium, and no cleverness — admiration for the one still knocking on doors in month nine. It is the least dignified of the praise words and the only one that presupposes difficulty."
+    },
+    {
+      "word": "capricious",
+      "nuance": "The instability is **whim wielded from above**. What stings about a **capricious** king, examiner, or fate is not the changing but that the change answers to no logic you can predict or appeal to. Power is baked in — you are the one who has to live under it."
+    },
+    {
+      "word": "mercurial",
+      "nuance": "The only word here with **upside**. **Mercurial** attaches to the gifted and quick — artists, strikers, star founders — so the volatility reads as temperament rather than defect. Exhausting, but you are half-impressed; nobody is half-impressed by a fickle or erratic person."
+    },
+    {
+      "word": "fickle",
+      "nuance": "The instability is in **loyalty and affection specifically**, and it implies shallowness rather than danger or brilliance. **Fickle** is the accusation of the person let down — lovers, fans, voters, markets. It says favour was withdrawn on a feeling, not a reason."
+    },
+    {
+      "word": "vacillate",
+      "nuance": "The only **verb**, and it describes **oscillation between options**, not a change of heart. To **vacillate** is to swing A–B–A over weeks and land nowhere; the fault is inability to choose, and the word carries the speaker's exhausted patience. A capricious person picks — just unpredictably."
+    },
+    {
+      "word": "irresolute",
+      "nuance": "**Paralysis, not oscillation** — where *vacillate* is motion, **irresolute** is hanging back at the moment action is demanded. And it is a verdict on the **person**, not the question: not underinformed, but lacking spine. Literary and formal — a biographer's word for a failed general."
+    },
+    {
+      "word": "volatile",
+      "nuance": "The change threatened is **violent**. A **volatile** situation is one you back away from — that's the whole difference from *fickle* or *erratic*, which merely disappoint you. It is also the only word here with a live technical sense (a volatile solvent, volatile memory), all built on *won't stay put*."
+    },
+    {
+      "word": "erratic",
+      "nuance": "The instability is in **output and pattern**, not in mood or loyalty. **Erratic** presumes a baseline that should be steady and isn't — an erratic pulse, an erratic student who aces one paper and fails the next. Applied to a person it hints at something clinically wrong, which *fickle* and *capricious* never do."
+    }
+  ],
+  "exam_note": "Sentence-equivalence items hinge on a contrast word (\"though,\" \"far from\"), so the pole is easy — the trap is picking the wrong flavor of instability: check whether the sentence is about loyalty (fickle), authority (capricious), danger (volatile), performance (erratic), or a stalled decision (irresolute/vacillate)."
+}

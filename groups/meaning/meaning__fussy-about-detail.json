@@ -8,5 +8,25 @@
     "finicky",
     "exacting"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a refusal to let small details slide — and all four sit on the knife's edge between compliment and complaint, depending on whether the fuss is warranted. What separates them is *what the detail is about* (cleanliness and taste, correct form, trifles, sheer difficulty of the work) and *where the demand lands* (on the world around you, on your own conduct, on the people who have to satisfy you). Two of them can also describe a task or object, not just a person — and that split is where most of the exam pressure lives.",
+  "words": [
+    {
+      "word": "fastidious",
+      "nuance": "**Fastidious** is the one with a squeamish edge — its details are about cleanliness, taste, and physical or aesthetic offence. It describes a threshold for disgust that the other three don't have: the fastidious person recoils from the smudge, the stain, the badly set table."
+    },
+    {
+      "word": "punctilious",
+      "nuance": "**Punctilious** is the only one about *correct form* rather than quality — etiquette, protocol, ceremony, the right order of things. It's also the only one that describes the speaker's own scrupulous conduct rather than a standard imposed on others, and its home turf is diplomacy and the military, not the kitchen or the workshop."
+    },
+    {
+      "word": "finicky",
+      "nuance": "**Finicky** is the deflating one: the details are agreed by everyone to be *trifles*, so it never flatters, though the tone is domestic eye-roll rather than contempt. Uniquely, it transfers to unreliable machinery and fiddly procedures — a finicky carburettor is temperamental, not fussy, and that transferred sense is the GRE's favourite."
+    },
+    {
+      "word": "exacting",
+      "nuance": "**Exacting** is the only one that grants the demand full legitimacy — the standard is high because the work truly requires it, so no fussiness is implied at all. It also uniquely carries *cost*: exacting work wears you out, where the others merely irritate."
+    }
+  ],
+  "exam_note": "The exam tests these by grammatical object, not by degree: only *exacting* and *finicky* can modify a task or device (demanding vs. temperamental), and a blank about protocol or etiquette wants *punctilious* where one about dirt or taste wants *fastidious*."
 }

@@ -8,5 +8,25 @@
     "unscrupulous",
     "exploitative"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe people or arrangements in which profit has crowded out an obligation — to a cause, an office, a rule, or another person. Each is an accusation, and each locates the rot in a different place: in the actor's motive, in the sale of a duty, in the absence of internal restraint, or in the shape of the relationship itself. They are confusable because a single villain can be all four at once; the exam separates them by asking which element the sentence actually supplies. Note also that only some of them require money at all.",
+  "words": [
+    {
+      "word": "mercenary",
+      "nuance": "Names the **motive and nothing else** — the only one of the four that describes no wrongdoing. A **mercenary** consultant may follow every rule and serve you well; the charge is that the fee is the entire reason. It stings precisely where affection or conviction was expected (a friend, an artist, a doctor), which is why it needs no victim and no broken duty to land."
+    },
+    {
+      "word": "venal",
+      "nuance": "Requires **an office and a bribe**. **Venal** attaches to someone holding a public trust — a judge, an inspector, a customs officer — and says the trust itself has a price list. Where mercenary describes a private motive, **venal** describes a betrayal that is usually criminal, and the formal register makes it a charge levelled from outside; nobody calls themselves venal."
+    },
+    {
+      "word": "unscrupulous",
+      "nuance": "The only one that says nothing about money. **Unscrupulous** names a missing brake, not a goal: the person would lie, cheat, or cut the corner for any prize at all. It describes **method**, and it quietly concedes effectiveness — the unscrupulous operator wins, which is the point of the warning. A venal official is unscrupulous about one specific thing; an **unscrupulous** one is that way by default."
+    },
+    {
+      "word": "exploitative",
+      "nuance": "Judges the **arrangement, not the person** — a wage, a lease, a contract can be **exploitative** while everyone involved is perfectly sincere. It alone demands a power imbalance: someone with no other option is being used up. The verdict is already rendered by the speaker, so it appears in argument (op-eds, reports), where the other three appear as character sketches."
+    }
+  ],
+  "exam_note": "The trap is swapping **venal** for **mercenary** — check whether the sentence gives you an office being sold (venal) or merely a fee-driven motive (mercenary); and remember **exploitative** modifies the deal while **unscrupulous** modifies the dealer."
 }

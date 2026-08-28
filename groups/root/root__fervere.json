@@ -7,5 +7,21 @@
     "fervid",
     "fervor"
   ],
-  "auto": true
+  "auto": true,
+  "words": [
+    {
+      "word": "fervent",
+      "nuance": "The **approving** member of the family: heat presented as sincerity. It's the only one you'd apply to yourself or an ally without irony, and it gravitates to quiet inward objects — a fervent hope, a fervent prayer, a fervent wish. No suggestion the feeling has outrun judgment."
+    },
+    {
+      "word": "fervid",
+      "nuance": "Same temperature dial, turned one notch past comfortable. **Fervid** is the literary, faintly clinical choice of a writer standing outside the heat and noting that it has boiled past good sense: a fervid nationalist, a fervid denunciation. If a passage could take either adjective, picking this one is a judgment on the person described."
+    },
+    {
+      "word": "fervor",
+      "nuance": "The noun — not a description of a person but the **temperature itself**, and it belongs to crowds and causes as much as individuals (religious, patriotic, revolutionary). Unlike *zeal*, it names no action; unlike either adjective, it can be measured, whipped up, or cooled."
+    }
+  ],
+  "core": "Latin *fervēre*, to boil or glow, gives this family a single image: emotion at high temperature. All of them describe feeling that is intense, sincere, and visible rather than cool and reasoned — the passion of the believer, the patriot, the devotee. What separates them is not how much heat but how the speaker feels about it, and whether the heat is being attributed to a person or simply named as a condition.",
+  "exam_note": "The trap is treating fervent and fervid as free substitutes — sentence-equivalence pairs hinge on whether the surrounding clause praises the feeling (fervent) or flags it as excessive (fervid)."
 }

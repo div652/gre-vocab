@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__inexperience-mocked",
+  "title": "Inexperience mocked",
+  "seed_words": [
+    "naive",
+    "gullible",
+    "callow",
+    "puerile",
+    "dilettante"
+  ],
+  "hallucinated": null,
+  "core": "All five fault someone for being unfinished — not stupid, just untested, unguarded, or unwilling to put in the years. The deficiency is exposure and seriousness, not intelligence, which is why every one of them can be said with a smile or a sneer depending on the speaker's altitude. What separates them is *what* is being blamed: an expectation about the world, an outcome (you got conned), a birthday, a piece of behaviour, or a level of commitment. Get the object of blame wrong and you pick the wrong word.",
+  "words": [
+    {
+      "word": "naive",
+      "nuance": "Blames the **expectation**, not the outcome — assuming the world is simpler and kinder than it is. It's the only word here that can be said with affection (\"sweetly naive\"), and the only one with flatly neutral technical uses: **naive art**, **naive subjects** in an experiment."
+    },
+    {
+      "word": "gullible",
+      "nuance": "Blames a **result**: you actually swallowed it. Where *naive* predicts a worldview, **gullible** predicts a transaction — it marks someone as a standing target con artists can find. Blunt and playground-plain where the rest of the group is formal."
+    },
+    {
+      "word": "callow",
+      "nuance": "The only one that is essentially about **age**. It doesn't say you'll be conned; it says you speak confidently about things you haven't lived through, and it's delivered downward by someone older. Clings to its noun: **a callow youth**."
+    },
+    {
+      "word": "puerile",
+      "nuance": "Blames **behaviour**, not judgement or belief — snickering, name-calling, sulking. It is the mirror image of *callow*: where *callow* excuses you by your youth, **puerile** convicts you because you're old enough to know better. A child cannot be puerile."
+    },
+    {
+      "word": "dilettante",
+      "nuance": "The odd one out — the failing is **commitment**, not inexperience, and the person may know a great deal. The sting is pretension: performing an expertise never earned, at a party rather than at the desk. Also the only noun in the group."
+    }
+  ],
+  "exam_note": "The GRE offers two words that both fit \"immature\" and decides the answer on the object of blame — check whether the sentence faults a belief (naive/gullible), an age (callow), a public act (puerile), or a work ethic (dilettante)."
+}

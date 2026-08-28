@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__service-that-reads-as-grovelling",
+  "title": "Deference That Has Gone Past Dignity",
+  "seed_words": [
+    "obsequious",
+    "fawn",
+    "grovel",
+    "subservient",
+    "supplicate"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe behaviour aimed *upward* — at someone with power over you — that has crossed the line where self-respect used to be. The contempt lives in the observer, not the actor: these are verdicts passed by a third party watching, and almost nobody applies them to themselves. What separates them is which part of the abasement is on display — the flattering manner, the surrendered judgment, the hovering praise, the self-humiliating apology, or the kneeling request.",
+  "words": [
+    {
+      "word": "obsequious",
+      "nuance": "The only one that's about **pleasing** rather than obeying or begging — a standing description of someone's whole manner (the smile, the instant agreement, the anticipated need), with an agenda hiding under it. An **obsequious** person may have plenty of will; he's simply spending it on charming you."
+    },
+    {
+      "word": "subservient",
+      "nuance": "About surrendered **judgment**, not flattery — you can be **subservient** in total silence, having simply stopped having opinions. It's the only one that comfortably takes non-human subjects (a subservient parliament, form subservient to function), and it indicts the power above as much as the person below."
+    },
+    {
+      "word": "fawn",
+      "nuance": "The verb for the physical, in-the-moment performance — hovering, gushing, laughing too hard — always aimed at a target who is *present*: you **fawn over** someone. Where the others can be cold, this one is puppyish and warm, which is exactly what makes it embarrassing to watch."
+    },
+    {
+      "word": "grovel",
+      "nuance": "Points downward at **yourself** rather than upward in praise: the apology or plea of someone in the wrong, or in need of mercy, buying forgiveness with humiliation. Fawning flatters; **grovelling** debases — and it's the one word here people use of themselves, but only as a rueful joke."
+    },
+    {
+      "word": "supplicate",
+      "nuance": "The only member that isn't automatically an insult: in prayer or formal petition, **supplicating** is the correct and even noble posture. Formal, and it always has an object — you supplicate *for* a specific thing. Drop it into ordinary life and the dignity inverts: \"he supplicated for a raise\" is withering."
+    }
+  ],
+  "exam_note": "The exam banks on you flattening all five into \"humble\" — but only **supplicate** can be neutral or admirable, and Sentence Equivalence pairs usually split on flattery (obsequious/fawning) vs. obedience (subservient) vs. self-abasement (grovel), with *deferential* and *compliant* offered as near-misses that lack the contempt."
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__honesty-as-a-compliment",
+  "title": "Honesty as a Compliment",
+  "seed_words": [
+    "candid",
+    "frank",
+    "probity",
+    "veracity",
+    "disinterested",
+    "scrupulous"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is praise for someone who won't lie, fudge, or spin — but they don't praise the same thing. Some describe an act of speech (what a person said, and how plainly), some describe a standing quality of character (what a person is, tested against temptation or an audit), and one describes a structural fact (what a person stands to gain, i.e. nothing). Because they all read as approval, the exam swaps them freely and lets you assume any of them fits a \"good, truthful person\" blank. They don't: each attaches to a different object — a statement, an office, a position, a sentence about to be spoken.",
+  "words": [
+    {
+      "word": "frank",
+      "nuance": "**Frank** is about *delivery*, not revelation — the truth was never hidden, it was just uncomfortable to say plainly, and you said it plainly. It's the only one here that announces itself in advance (\"to be frank\"), and the delicate subject is usually the *listener's* — their chances, their work, their prospects."
+    },
+    {
+      "word": "candid",
+      "nuance": "**Candid** is about *disclosure*: you had cover and gave it up. The material is typically your own — your failures, your doubts, your numbers — which is why it earns credit that frankness about someone else doesn't. Its second sense, the unposed photograph, is the same idea: nothing arranged for the viewer."
+    },
+    {
+      "word": "veracity",
+      "nuance": "**Veracity** is the only one that can be a property of a *thing* — a document, an account, a witness statement — not just a person. And it's near-parasitic on doubt: it appears as *disputed the veracity, questioned the veracity*. Nobody praises a friend's veracity; you invoke the word precisely when truth is on trial."
+    },
+    {
+      "word": "probity",
+      "nuance": "**Probity** is incorruptibility in an *office* — money, funds, public trust — and it's a verdict rendered by others, not a self-description. It's the coldest and most institutional word here, at home in obituaries, judicial citations, and procurement rules; it says nothing about whether the person speaks openly, only that they never took what wasn't theirs."
+    },
+    {
+      "word": "scrupulous",
+      "nuance": "**Scrupulous** is honesty under *unobserved* temptation — refusing the shortcut nobody would have caught, at the level of small details. It describes a conscience rather than a reputation or an office, and it's the only one that stretches to workmanship (*scrupulous attention to detail*), where it still implies care owed, not merely care taken."
+    },
+    {
+      "word": "disinterested",
+      "nuance": "**Disinterested** demands no virtue at all — it describes a *position*, not a character: nothing in the outcome touches this person's pocket or pride. A liar can be disinterested; a saint with a stake cannot. It's what makes a referee, auditor, or trustee trustworthy structurally, before anyone assesses their honesty."
+    }
+  ],
+  "exam_note": "The signature trap is **disinterested** ≠ uninterested — the exam sets up a sentence about a bored juror or an indifferent audience and dangles it; and in the reverse direction it offers character words (probity, scrupulous) where the sentence actually needs the no-stake meaning. Second trap: **veracity** for people when the blank is a claim's truth, and **probity** in casual contexts where only its formal, money-and-office register fits."
+}

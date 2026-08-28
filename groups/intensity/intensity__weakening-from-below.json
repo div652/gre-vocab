@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__weakening-from-below",
+  "title": "Weakening from below",
+  "seed_words": [
+    "undercut",
+    "undermine",
+    "subvert",
+    "dismantle"
+  ],
+  "hallucinated": null,
+  "core": "All four describe weakening or destroying a structure without a frontal assault — no wrecking ball, no open declaration of war. The damage works on what holds the thing up, or on its parts, rather than hitting its face. What separates them is how much of the structure ends up gone and how visible the hand doing it is: from one blow that leaves the thing standing but hollow, through patient erosion, to internal takeover, to complete disassembly. All take abstract structures as objects — authority, arguments, regimes, systems.",
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"weaken\"; the sentence almost always fixes one of two things — how long it took (single gesture vs. slow erosion) or how much survives (hollowed vs. overturned vs. taken to pieces).",
+  "words": [
+    {
+      "word": "undercut",
+      "nuance": "**Undercut** is one stroke, not a campaign, and it's the only one here that's routinely accidental or self-inflicted — the nervous laugh that undercuts your own threat, the single counterexample that undercuts a rule. The target survives intact and still visible; only its support is gone. It also has a commercial sense the others lack: to price below a rival."
+    },
+    {
+      "word": "undermine",
+      "nuance": "**Undermine** is the slow, deniable one — the damage accumulates over weeks of small doubts, and no single moment can be pointed to as the attack. That deniability is the word's signature: the underminer keeps smiling in the room. Unlike **subvert**, it need not aim at overturning anything; steady erosion of trust or confidence is the whole point."
+    },
+    {
+      "word": "subvert",
+      "nuance": "**Subvert** adds the endpoint the others don't specify: the thing is meant to be *turned over*, not merely weakened, and the agent works from inside it. It's the vocabulary of moles, insurgents and infiltrators — and the only word here that flips to praise when the object is an expectation, a genre, or a stereotype."
+    },
+    {
+      "word": "dismantle",
+      "nuance": "**Dismantle** is open, authorised and complete — a documented operation with crews and inventories, not a covert one, and the thing ends up in pieces rather than hollow or toppled. It presupposes the target was *assembled*: to say apartheid was dismantled is to call it a construction. This is the only one that can be a public policy achievement."
+    }
+  ]
+}

@@ -8,5 +8,25 @@
     "odious",
     "repugnant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four go past dislike into revulsion: the thing isn't merely bad, it turns the stomach or offends the conscience. Two are verbs describing what a person feels; two are adjectives ruling on what a thing deserves. They split on the source of the disgust — gut recoil versus violated principle — and on who is doing the work: the hater, or the hated thing.",
+  "words": [
+    {
+      "word": "abhor",
+      "nuance": "**Abhor** is the verb of moral position-taking: the subject is a person drawing a line, and the object is almost always a practice or principle (cruelty, censorship, waste), not a Tuesday or a coworker. Where *loathe* reports a feeling, **abhor** announces a value — it flatters the speaker."
+    },
+    {
+      "word": "loathe",
+      "nuance": "**Loathe** is the gut one — revulsion in the body, not the conscience, and it happily takes people and trivia as objects. It is the only member of this group that survives comic exaggeration: you can **loathe** parallel parking, but you cannot abhor it without sounding ridiculous."
+    },
+    {
+      "word": "odious",
+      "nuance": "**Odious** shifts the judgement onto the thing: it means *deserving* to be hated, so the disgust is presented as a property of the tyrant, the law, the duty — not as the speaker's reaction. It recruits the listener into the verdict, and it stretches to the merely burdensome (an **odious** chore) in a way *repugnant* does not."
+    },
+    {
+      "word": "repugnant",
+      "nuance": "**Repugnant** is the narrowest: the offence is specifically to a principle, so it names a clash between the thing and an ethic you hold — the register of editorials and courtrooms. It is also the only word here with a bloodless second life: *repugnant to* the statute means **incompatible, contradictory**, no emotion involved."
+    }
+  ],
+  "exam_note": "Two traps: **repugnant**'s legal sense (incompatible/contradictory) shows up in sentences with no emotion in them at all, and **abhor**/**odious** demand a moral or institutional object — a blank filled by mere annoyance wants **loathe**."
 }

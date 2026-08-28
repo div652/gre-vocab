@@ -8,5 +8,25 @@
     "credible",
     "plausible"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four rate how much an argument, story, or claim earns your belief — and all four describe the thing being judged, not the person judging. They differ on two axes: how *much* belief is compelled (from irresistible down to merely not-yet-dismissed), and *what earns it* — the structure of the reasoning, the surface impression, or the raw force of the evidence. The trap is that they look like synonyms on a scale of \"convincing,\" when two of them quietly decline to say anything is true.",
+  "words": [
+    {
+      "word": "compelling",
+      "nuance": "The strongest, and the only one that works on stories as well as arguments — **compelling** exerts *pressure*: you can't refute it, or you can't look away. Where the others let you weigh and decide, this one removes the option."
+    },
+    {
+      "word": "cogent",
+      "nuance": "**Cogent** praises the architecture of the reasoning, not its effect on you — tight logic, well-evidenced, hard to answer. It's the coolest and most formal of the four (judges, examiners, reviewers), and it's the only one that can be true of an argument nobody happened to find moving."
+    },
+    {
+      "word": "credible",
+      "nuance": "**Credible** is about the *source* clearing a bar of trustworthiness — a witness, a threat, a candidate, an attempt. It says you lean toward believing, without claiming proof; it's the word professionals use precisely because it commits to seriousness, not truth."
+    },
+    {
+      "word": "plausible",
+      "nuance": "**Plausible** rates only how something *sounds on first hearing* — the weakest of the four and the only one that can turn hostile. \"A plausible enough story\" is what a skeptic says when he doesn't believe a word; the others cannot be used that way."
+    }
+  ],
+  "exam_note": "The exam tests whether you know **plausible** and **credible** stop short of truth while **cogent** and **compelling** don't — sentence-completion cues like *merely*, *superficially*, or a following *but* signal the weak end; *irrefutable* or *left no room to disagree* signal the strong end."
 }

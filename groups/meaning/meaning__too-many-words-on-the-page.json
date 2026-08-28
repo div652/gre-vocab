@@ -8,5 +8,25 @@
     "diffuse",
     "expatiate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe words outrunning their content: text or talk that occupies more space than the point inside it justifies. The complaint is never that the ideas are wrong — it's that they arrive padded, stretched, or spread so thin that nothing lands. Three are verdicts on the finished prose; one is the act of producing it. And one of them isn't really about length at all, which is where the group turns slippery.",
+  "words": [
+    {
+      "word": "verbose",
+      "nuance": "The plain, everyday count-the-words charge, and the only one here with a neutral technical use (**verbose** mode in software, where you asked for the extra output). It's the workaday editor's markup on a bloated contract or slide deck — it says \"cut this,\" not \"I suffered.\""
+    },
+    {
+      "word": "prolix",
+      "nuance": "Adds *tedium* to sheer length — the reader's endurance is now part of the complaint, not just the word count. It's markedly bookish where **verbose** is ordinary, and it never softens: no neutral sense, no technical use, always a critic looking down at four pages that should have been one."
+    },
+    {
+      "word": "diffuse",
+      "nuance": "The odd one out: it indicts **structure, not volume**. A short paragraph can be diffuse if its material pools everywhere and concentrates nowhere; its opposites are *cogent* and *trenchant*, not *brief*. It also carries a whole non-critical life the others lack — heat, light, and power **diffuse** through a medium with no insult implied."
+    },
+    {
+      "word": "expatiate",
+      "nuance": "The only **verb**, and the only one describing the speaker's act rather than judging the finished text — you **expatiate** *on* or *upon* a subject. Its disapproval is the mildest and driest here: it concedes you genuinely had material, then raises an eyebrow at how much of it you delivered unasked."
+    }
+  ],
+  "exam_note": "The trap is treating **diffuse** as a synonym for long-winded — GRE sentences use it for writing that is unfocused rather than lengthy, and reserve **prolix**/**verbose** for the antonym slot opposite *concise*, *succinct*, *pithy*, *laconic*."
 }

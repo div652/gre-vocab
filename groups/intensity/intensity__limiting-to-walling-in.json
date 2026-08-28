@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__limiting-to-walling-in",
+  "title": "Limiting to walling in",
+  "seed_words": [
+    "circumscribe",
+    "quarantine",
+    "immure"
+  ],
+  "hallucinated": null,
+  "core": "All three describe confinement imposed on someone or something by an outside force — a boundary is set, and the thing inside no longer has the run of the world. What separates them is how much space is left inside the boundary and how permanent the wall is: a line drawn around your permitted range, a temporary cordon pending a verdict, or masonry with no door. All three carry the sense that the confinement was decided elsewhere, though one of them can be turned on oneself.",
+  "words": [
+    {
+      "word": "circumscribe",
+      "nuance": "The weakest and most abstract: **circumscribe** limits *scope*, not location — you still move freely, just inside a smaller perimeter. It attaches to intangibles (powers, freedoms, a role, a life) and is the formal-legal register: constitutions and charters circumscribe. Nobody is behind anything."
+    },
+    {
+      "word": "quarantine",
+      "nuance": "The only one about *contagion and suspicion*. **Quarantine** separates because of what the thing *might* be carrying, is explicitly provisional — held until the doubt clears — and is imposed by a public authority (port, hospital, party). The others confine what you already know; this confines a maybe."
+    },
+    {
+      "word": "immure",
+      "nuance": "The strongest and the only *architectural* one: walls, stone, no expected release. **Immure** is literary and faintly gothic, and uniquely can be reflexive — you immure *yourself* in a lab or a monastery, choosing the sealing-off. Neither of the others takes a willing victim."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable severity levels: watch whether the sentence limits a *power* (circumscribe), isolates a *risk* pending judgement (quarantine), or seals a *body* behind walls (immure) — and remember only immure can be done to oneself by choice."
+}

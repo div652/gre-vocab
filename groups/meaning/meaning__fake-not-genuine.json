@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__fake-not-genuine",
-  "title": "Fake, not genuine",
+  "title": "Fake, not genuine — and what each word attacks",
   "seed_words": [
     "bogus",
     "counterfeit",
@@ -9,5 +9,29 @@
     "phony",
     "spurious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five say *this is not the real thing*. They split on two axes: **what** the fakeness attaches to — a manufactured object, an institutional procedure, a claim, a person's manner, a statistical result — and **who is speaking** — a court document, a journal referee, or someone who feels personally conned. Several also disagree about whether a deceiver is even required. Pick by target and by register, not by strength.",
+  "words": [
+    {
+      "word": "counterfeit",
+      "nuance": "Requires a genuine original *and* intent to pass the copy off as it — the only one here that names a crime rather than delivers a verdict. It attaches to manufactured objects whose entire value is authenticity: banknotes, passports, medicines, handbags."
+    },
+    {
+      "word": "sham",
+      "nuance": "Attacks the legitimacy of a **form** — trials, elections, marriages, inquiries that execute every correct motion and mean nothing. The paperwork in a sham trial may be perfectly genuine; it is the procedure that is hollow, which is why no other word in this group fits a ceremony."
+    },
+    {
+      "word": "spurious",
+      "nuance": "The only one that needs **no liar**: data throw up spurious correlations with nobody deceiving anyone. It denies *standing* rather than truth — calling an argument false engages it, calling it spurious refuses to — and it is the formal register of judges, editors and referees."
+    },
+    {
+      "word": "bogus",
+      "nuance": "Goes after **checkable claims and paperwork** — the invoice, the statistic, the credential that collapses the moment someone verifies it. Unlike the report-language of its neighbours, it is said out loud with an eye-roll, and in casual speech drifts to mean merely \"unfair, rubbish.\""
+    },
+    {
+      "word": "phony",
+      "nuance": "Aims at **people and sincerity** — an accent, a smile, a friend — where the fault is posturing, not forgery. It is the only one that works as a noun for a person, and the accusation reveals the speaker: they say it because they feel personally taken in."
+    }
+  ],
+  "exam_note": "The exam decides these by the noun in the blank — *correlation* forces **spurious**, *election/trial* forces **sham**, *currency* forces **counterfeit** — and traps you with **spurious**, which is right even when the passage makes clear no one lied."
 }

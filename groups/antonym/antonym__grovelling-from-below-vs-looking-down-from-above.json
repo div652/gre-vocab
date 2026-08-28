@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__grovelling-from-below-vs-looking-down-from-above",
+  "title": "Grovelling from below vs. looking down from above",
+  "seed_words": [
+    "obsequious",
+    "fawn",
+    "grovel",
+    "subservient",
+    "supplicate",
+    "deference",
+    "imperious",
+    "haughty",
+    "disdain",
+    "patronize",
+    "aloof"
+  ],
+  "hallucinated": null,
+  "core": "Every word here describes a vertical position between two people — one party placed below, the other above — and describes it through *manner*, not actual rank. None of them measures who really holds power; they measure how someone carries themselves in the presence of power, either shrinking under it or presuming it. Almost all are the observer's verdict: you don't apply them to yourself. The group splits into the servile half (praise, obedience, begging, dignity surrendered) and the superior half (command, coldness, condescension, distance), with one member sitting on the fence as the respectable version of yielding.",
+  "exam_note": "The trap is **deference** — it sits in a list of grovelling words but is neutral-to-positive, so a sentence-completion blank that reads \"servile\" may actually want the one word here that doesn't insult; the second trap is **patronize**'s wholly innocent \"be a customer of\" sense.",
+  "words": [
+    {
+      "word": "obsequious",
+      "nuance": "The only servile word here that names a *standing character* rather than an episode: an obsequious man is like that all day, to anyone above him. It's flattery with a motive attached — the reader is meant to assume he wants something."
+    },
+    {
+      "word": "fawn",
+      "nuance": "The physical episode of flattering, and it needs a target — you fawn **over** or **on** someone, right now, in the room. Where obsequious is a diagnosis of a person, **fawn** is footage of the hovering, the too-loud laugh, the fussing."
+    },
+    {
+      "word": "grovel",
+      "nuance": "Not flattery at all — this is the posture of someone who has done wrong or needs a favour granted. **Grovel** belongs to apologies and pleading, on the floor, after you've already lost; fawning happens while you're still angling."
+    },
+    {
+      "word": "subservient",
+      "nuance": "Strip out the praise and the begging and you have pure obedience with the judgment handed over. It's the only one describing a *structural* position — a subservient role, a subservient nation — and the only one that also takes inanimate objects (*form subservient to function*), where it's merely \"subordinate\" and carries no insult."
+    },
+    {
+      "word": "supplicate",
+      "nuance": "The one act of begging that can be dignified: prayer, formal petition, the defeated asking mercy. **Supplicate** is a single ritual request from below, not a temperament — which is why applied to ordinary life (\"he supplicated for a raise\") it turns withering."
+    },
+    {
+      "word": "deference",
+      "nuance": "The respectable member and the group's boundary line: the yielding is voluntary, measured, and reflects well on the one who yields. **Deference** keeps its own judgment and simply gives way to rank or expertise; everything else on this side of the group has stopped having a judgment to keep."
+    },
+    {
+      "word": "imperious",
+      "nuance": "The only superior word that issues *orders*. **Imperious** is directed at someone who must now do something — the snapped fingers, the assumption you'll jump — and it stings hardest when the person has no authority to back it up."
+    },
+    {
+      "word": "haughty",
+      "nuance": "No command, no target, just carriage: the chin, the cool stare, the refusal to be impressed. **Haughty** condescends by existing in the room; imperious condescends by telling you to fetch something. Faintly literary and old-world."
+    },
+    {
+      "word": "disdain",
+      "nuance": "The only one that attaches to a specific object rather than a general manner — you disdain a *thing*, and it's cold refusal to engage, not heat. Unique syntax to memorise: **disdain to** + verb means declining an action as beneath you (*he disdained to answer*)."
+    },
+    {
+      "word": "patronize",
+      "nuance": "Condescension disguised as kindness — the sting is that it arrives as help, so objecting makes you look ungracious. It's also the only word here with a completely neutral second life: to **patronize** a shop or an artist is to be their customer or backer, no contempt involved."
+    },
+    {
+      "word": "aloof",
+      "nuance": "Distance, not contempt — the aloof person makes no claim to be above you and may intend nothing at all; the superiority is *inferred* by whoever got left out. Every other word up here is a verdict on what someone does; **aloof** is a verdict on what someone declines to do."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__belief-held-past-argument",
+  "title": "Belief Held Past Argument",
+  "seed_words": [
+    "dogmatic",
+    "doctrinaire",
+    "ideologue",
+    "hidebound",
+    "ossify",
+    "zealous"
+  ],
+  "hallucinated": null,
+  "core": "These all describe conviction that has stopped negotiating with the world. The belief may be right or wrong — that's not the charge; the charge is that nothing outside the believer is allowed to move it, whether that's an opposing argument, an inconvenient case, or a changed century. They split on *what* is frozen (the discussion, the theory, the inherited habit), on whether you're describing a manner, a person, or an institution, and on whether the rigidity is a state or a decline. One of them isn't rigid at all — it's hot — and that's the whole trap.",
+  "exam_note": "Sentence Equivalence loves the **dogmatic / doctrinaire** pair; the classic wrong second pick is **zealous**, which supplies intensity, not closure — a zealous convert can still be argued out of it.",
+  "words": [
+    {
+      "word": "dogmatic",
+      "nuance": "The one about **manner**: opinions delivered as settled fact, so the discussion never opens. It's the broadest here — it needs no system behind it, just a tone, and it can attack a single pronouncement about grammar or diet."
+    },
+    {
+      "word": "doctrinaire",
+      "nuance": "The failure happens at contact with the **particular case** — the theory is fine in the abstract and is applied anyway when the facts say don't. Note the collocations it demands: a doctrinaire *Marxist*, doctrinaire *free-market policy*. There must be a named theory; **dogmatic** needs only an opinion."
+    },
+    {
+      "word": "ideologue",
+      "nuance": "The only **noun for the person**, and the only one at home in political writing, where its live antonym is *pragmatist* — the one who takes the deal that works. **Doctrinaire** describes how someone applies a theory; **ideologue** says the whole person is built out of one."
+    },
+    {
+      "word": "hidebound",
+      "nuance": "No theory at all — the content is **inherited habit**, followed because it was inherited. It lands on institutions (a hidebound faculty, a hidebound army) rather than on one stubborn arguer, and it uniquely implies the world has moved on and left the thing behind."
+    },
+    {
+      "word": "ossify",
+      "nuance": "The only **verb**, and it narrates a decline rather than reporting a state: the thing was once soft and living and has set hard. It's also the only member that applies to something with no beliefs to defend — a ritual, an agency, a genre can ossify."
+    },
+    {
+      "word": "zealous",
+      "nuance": "The outlier: **heat, not closure**. It measures how hard someone works for a cause, not how little they'll revise it, and it's the only word here that can be praise — one notch below *fanatical*, admiring the commitment while raising an eyebrow at the person."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__textbook-case-vs-off-model-outlier",
+  "title": "Textbook case vs. off-model outlier",
+  "seed_words": [
+    "paradigmatic",
+    "archetype",
+    "benchmark",
+    "conventional",
+    "mundane",
+    "aberrant",
+    "anomalous",
+    "incongruous",
+    "outlandish",
+    "idiosyncratic"
+  ],
+  "hallucinated": null,
+  "core": "Every word here positions a case against a pattern. One pole says the case *is* the pattern — the instance you'd point to, measure by, or expect; the other says it sits outside the pattern — the reading that won't fit, the detail that won't blend, the habit no one else has. The axis is fit with a model, not quality: a defining case can be a defining catastrophe, and an off-pattern case can be a breakthrough or a charming quirk. What separates the words inside each pole is *which* standard is invoked (an origin, a measuring line, mere habit) and how much blame the deviation carries.",
+  "words": [
+    {
+      "word": "paradigmatic",
+      "nuance": "**Paradigmatic** says *this is the type's defining instance* — it classifies rather than praises, and works fine on disasters (a paradigmatic case of regulatory capture). Unlike **benchmark**, nothing is being measured; unlike **conventional**, the case is distinguished, not merely usual."
+    },
+    {
+      "word": "archetype",
+      "nuance": "**Archetype** is the only word here that claims *priority* — the original template later versions re-enact, with mythic depth behind it (the Hero, the Trickster). It dignifies: **paradigmatic** says the clearest specimen, **archetype** says the source. Also the group's lone noun."
+    },
+    {
+      "word": "benchmark",
+      "nuance": "**Benchmark** is a number, not an ideal — the agreed line you can beat, miss, or fail against, and it can itself be mediocre. It's the only one of these that takes a verb form and demands comparability: the same test on everything. Analysts and engineers own it."
+    },
+    {
+      "word": "conventional",
+      "nuance": "**Conventional** is the standard nobody chose — what the room already does. It's the one word on this pole that can wound: applied to a method it's flat description, applied to taste or a novel it means *unoriginal*. A paradigmatic work is exceptional; a conventional one is anything but."
+    },
+    {
+      "word": "mundane",
+      "nuance": "**Mundane** is normal at ground level — laundry, expense reports — and unlike everything else on this pole it's a model for nothing. **Conventional** measures you against custom; **mundane** just says low-stakes and everyday. Contempt is optional, supplied by the contrast you set it against (plus an older sense: earthly, not spiritual)."
+    },
+    {
+      "word": "aberrant",
+      "nuance": "**Aberrant** deviates *and is charged for it* — the standard was clear and the case failed it. Aberrant cells, aberrant behaviour: pathology, disciplinary reports, a faint chill. Swap it for **anomalous** and you drop the blame entirely."
+    },
+    {
+      "word": "anomalous",
+      "nuance": "**Anomalous** is the neutral verdict: this case doesn't fit the model, cause unknown. It quietly assumes the model is sound and the datum is the problem — which is why a reading is anomalous *before* anyone decides it's an error, a fluke, or a Nobel. The cleanest antonym to **paradigmatic**."
+    },
+    {
+      "word": "incongruous",
+      "nuance": "**Incongruous** needs surroundings to clash with — a tuxedo at a beach barbecue is incongruous there and unremarkable elsewhere. The mismatch is relational, not intrinsic, and the effect is usually faintly comic rather than alarming. **Anomalous** breaks a model; **incongruous** breaks a setting."
+    },
+    {
+      "word": "outlandish",
+      "nuance": "**Outlandish** deviates by *excess* — too strange, too extravagant, too much (outlandish claims, outlandish prices, an outlandish hat). It judges from a comfortable distance with an amused eyebrow, not the offence of *outrageous*. Calling a theory outlandish dismisses it as not worth refuting."
+    },
+    {
+      "word": "idiosyncratic",
+      "nuance": "**Idiosyncratic** is deviation with an owner: the pattern is *this* person's alone — a novelist's punctuation, a chef's grip. Alone in this pole it's polite, even admiring, and it implies consistency rather than malfunction (**erratic** would mean unreliable). Technical use survives: an idiosyncratic drug reaction, idiosyncratic risk — specific to one case, not the population."
+    }
+  ],
+  "exam_note": "The exam bets you'll read the first pole as praise and the second as condemnation — but **paradigmatic** and **benchmark** can label failures, and **anomalous** and **idiosyncratic** carry no fault at all; the live distinctions are anomalous (no blame) vs. aberrant (blame) and incongruous (clashes with a setting) vs. outlandish (excessive on its own)."
+}

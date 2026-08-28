@@ -8,5 +8,25 @@
     "esoteric",
     "arcane"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say the same surface thing: hardly anyone can follow this. They split on *why* almost nobody can. Two locate the barrier in the material — it is simply too deep to penetrate without training. The other two locate it in membership — the knowledge is held by a closed circle, and you are not in it. A second axis runs underneath: whether the speaker is impressed by the depth or annoyed that the thing was ever allowed to get this opaque.",
+  "words": [
+    {
+      "word": "abstruse",
+      "nuance": "**Abstruse** puts the barrier in the *writing or reasoning* — dense argument, tangled prose, a theory pitched three levels above its audience. It is the one that most reliably blames the author: the reader's failure is treated as the writer's fault, and the implied verdict is *this could have been said plainly*. Attaches to prose, arguments, treatises — never to rituals or to people."
+    },
+    {
+      "word": "recondite",
+      "nuance": "**Recondite** grants the difficulty legitimacy: the bottom is genuinely far down, and reaching it takes years, not better editing. Alone in this group it also describes a *person* — a recondite scholar is steeped in that depth, not confused by it. The most bookish of the four, and the likeliest to be admiring."
+    },
+    {
+      "word": "esoteric",
+      "nuance": "**Esoteric** is not about difficulty at all — it is about *audience*. The content may be trivially easy for the four people equipped to get it; everyone else is simply outside the circle. So it always posits an in-group, with the speaker usually standing outside it, faintly sighing. It alone has a straight-faced mystical sense (esoteric traditions, esoteric doctrine)."
+    },
+    {
+      "word": "arcane",
+      "nuance": "**Arcane** adds *walled off* — by secrecy, by age, or by accreted specialist cruft. It gravitates toward systems and lore rather than prose: arcane rites, arcane procedural rules, arcane provisions of the tax code. When a journalist uses it, the charge is that the obscurity is needless and someone should have swept it away decades ago."
+    }
+  ],
+  "exam_note": "Look for what the sentence supplies: a mention of initiates, a guild, or a closed circle points to esoteric/arcane, while depth, training, or scholarship points to abstruse/recondite — and if the tone is a complaint about bad writing, it's abstruse, not recondite."
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__changeable-to-dangerously-unstable",
+  "title": "Changeable to dangerously unstable",
+  "seed_words": [
+    "fickle",
+    "capricious",
+    "mercurial",
+    "volatile"
+  ],
+  "hallucinated": null,
+  "core": "All four describe something that will not hold still — mood, loyalty, or behaviour that shifts suddenly and without a reason you could argue with. The shared complaint is unpredictability, not wrongness: the problem isn't the position taken, it's that no position lasts. What separates them is who is doing the changing, how much power they hold over you, and how bad it gets when they swing — from mild disappointment to real hazard.",
+  "exam_note": "The exam rarely tests these against each other; it tests the flavour the sentence supplies — a \"brilliant but exhausting\" artist wants **mercurial**, a tyrant whose rulings can't be appealed wants **capricious**, an unstable region or market wants **volatile**, a lost fanbase wants **fickle**.",
+  "words": [
+    {
+      "word": "fickle",
+      "nuance": "The only one about **loyalty** — it names a betrayal of attachment, not a swing of temper, and the accuser is the person left behind. Weakest of the four in consequence: a fickle friend disappoints you, nothing more."
+    },
+    {
+      "word": "capricious",
+      "nuance": "Adds **power**. The change matters because it comes from above and there is no appeal — a capricious judge, ruler, or examiner. Where *fickle* implies shallowness, this implies arbitrary authority over someone else's fate."
+    },
+    {
+      "word": "mercurial",
+      "nuance": "The one word here that can flatter. It bundles the volatility with **quickness and brilliance**, so it's reached for when the unpredictable person is also worth putting up with — the star striker, the temperamental director. Describes temperament, never loyalty."
+    },
+    {
+      "word": "volatile",
+      "nuance": "The change is **explosive**, and the word applies to situations and substances as readily as people — a volatile border, a volatile market, a volatile solvent. Strongest here: the others make you unreliable, this one makes you unsafe."
+    }
+  ]
+}

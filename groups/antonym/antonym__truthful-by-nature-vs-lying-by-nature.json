@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__truthful-by-nature-vs-lying-by-nature",
+  "title": "Truthful by nature vs. false by design",
+  "seed_words": [
+    "probity",
+    "veracity",
+    "ingenuous",
+    "artless",
+    "mendacity",
+    "duplicitous",
+    "disingenuous",
+    "dissemble",
+    "perfidy"
+  ],
+  "hallucinated": null,
+  "core": "All nine judge the gap between what a person shows and what is actually true — and all treat that gap (or its absence) as a settled trait rather than a single incident. The first four say there is no gap: nothing is being hidden, whether from principle, from accuracy, or from never having learned to hide. The last five say the gap is the point, and they differ mainly in *what* is being concealed — the facts, the intent, the face, or the loyalty. Every one of them is formal; none of these words shows up in ordinary speech.",
+  "words": [
+    {
+      "word": "probity",
+      "nuance": "The only one about **money and office** rather than speech. **Probity** isn't proved by telling the truth, it's proved by an audit: the fund untouched, the bribe refused. Its opposite is corruption, not lying."
+    },
+    {
+      "word": "veracity",
+      "nuance": "The only one that attaches to a **thing** — a document, a transcript, an account — as readily as to a person. And it almost always arrives under attack: *questioned the veracity, disputed the veracity*. You assert **veracity** to defend a claim, not to praise a character."
+    },
+    {
+      "word": "ingenuous",
+      "nuance": "Openness with no virtue in it — **ingenuous** frankness costs nothing because the person has never learned there was anything to hide. The speaker is charmed and quietly bracing for this person to be taken advantage of."
+    },
+    {
+      "word": "artless",
+      "nuance": "The *art* denied is **artifice**, not skill: an **artless** remark is uncalculated, made by someone who isn't working an angle. Where *ingenuous* points at inexperience, this points at the absence of technique — and it carries a live secondary sense, \"crude, unskilled,\" that the GRE keeps in its back pocket."
+    },
+    {
+      "word": "mendacity",
+      "nuance": "Needs no victim and no audience. **Mendacity** is lying as a standing condition — of a man, a family, a regime — and it's an indictment of the whole character, not a description of one deception."
+    },
+    {
+      "word": "duplicitous",
+      "nuance": "Requires **two faces at once**: the warm front presented to you while the opposite intent runs underneath, often to two audiences simultaneously. The sin is the sustained double game, not the falsehood itself."
+    },
+    {
+      "word": "disingenuous",
+      "nuance": "The deceit is a **performance of innocence** — feigning not to know, not to have meant it. Often nothing false is even said; the statement is technically defensible and the mask is what lies. Mildest and most deniable of the five: you can say it in a seminar and stay civil."
+    },
+    {
+      "word": "dissemble",
+      "nuance": "The **verb**, and the one requiring no statement at all — a composed smile over contempt is enough. **Dissembling** conceals feelings and motives rather than asserting falsehoods, which is why lawyers and journalists use it to allege deceit without saying *lied*."
+    },
+    {
+      "word": "perfidy",
+      "nuance": "Demands a **prior bond** — an ally, a spouse, a treaty, an oath. You can't commit **perfidy** against a stranger, because the offense is the breach of faith, not the deception used to commit it. The heaviest verdict here."
+    }
+  ],
+  "exam_note": "The classic trap is the prefix pair: *ingenuous* → *disingenuous* is a real reversal, but *artless* → *artful* is not a clean one, and *artless* also means \"crude\" — so a sentence about a clumsy sketch can bait you into the wrong sense. Watch too for **probity** slotted where truthfulness is wanted: the context must involve funds, office, or trust, not honest speech."
+}

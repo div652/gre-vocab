@@ -8,5 +8,21 @@
     "elaborate"
   ],
   "similarity": 0.76,
-  "auto": true
+  "auto": true,
+  "core": "Three long Latin verbs that rhyme, share the -orate ending, and all describe doing something *to* a piece of work or a claim — building it with someone, propping it up, or filling it out. Two of them genuinely descend from *labor* (work); the middle one comes from *robur* (strength) and only sounds like a sibling. Nothing about their meanings actually overlaps once you stop looking at the letters, which is exactly why the exam pairs them.",
+  "words": [
+    {
+      "word": "collaborate",
+      "nuance": "**Collaborate** is the only one that requires a *second person* — you cannot collaborate alone. It is also the only one with a treason sense: under occupation the word flips from praise to accusation, and *collaborator* carries the stain hardest. If war, occupation, or resistance sits anywhere nearby, the word is an indictment."
+    },
+    {
+      "word": "corroborate",
+      "nuance": "**Corroborate** needs a *prior claim*, not a partner — it arrives second, adding independent evidence to something already asserted. It only strengthens; it never proves the case alone, and it never counts if it comes from the source that made the claim. Its home is the courtroom, the lab, the newsroom — the one word here that sounds stiff in casual speech."
+    },
+    {
+      "word": "elaborate",
+      "nuance": "**Elaborate** needs neither a partner nor a claim to lean on — it is about *detail and effort*, and it is the only one that also works as an adjective. As a verb it means to say more about your own point; as an adjective it admires the labour visible in a thing, then sours the instant that labour looks disproportionate (*elaborate hoax*, *elaborate excuse*)."
+    }
+  ],
+  "exam_note": "The classic trap is a sentence about a second witness or a lab result offering \"collaborate\" — testimony *corroborates*; only people collaborate."
 }

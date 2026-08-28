@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__falling-in-line-vs-breaking-ranks",
+  "title": "Falling in line vs. breaking ranks",
+  "seed_words": [
+    "comply",
+    "adhere",
+    "acquiesce",
+    "deference",
+    "obeisance",
+    "tractable",
+    "dissent",
+    "dissident",
+    "flout",
+    "contravene",
+    "mutiny",
+    "obstreperous"
+  ],
+  "hallucinated": null,
+  "core": "Every word here places a person somewhere on the line between doing what authority requires and refusing it. The axis has three variables the GRE plays with: **who holds the power**, **how visible the act is**, and **what the actor privately feels about it**. Some of these words report only the outward act and say nothing about the inner state; others smuggle in resentment, contempt, respect, or fear. The compliance half is not all willing, and the defiance half is not all principled.",
+  "words": [
+    {
+      "word": "comply",
+      "nuance": "The flat baseline: **comply** reports the act and nothing else — no clue whether you agreed, resented it, or shrugged. Its object is a demand backed by power (a subpoena, a safety standard, an officer), never a peer's request."
+    },
+    {
+      "word": "adhere",
+      "nuance": "The only one measured in **duration** rather than in a single act: you keep to the protocol, the treaty, the diet, week after week. It also needs no enforcer in the room — you can **adhere** to a standard nobody is checking, which is why it shades into loyalty."
+    },
+    {
+      "word": "acquiesce",
+      "nuance": "The one that preserves the objection you swallowed. **Acquiesce** is consent registered as silence — you had reservations and stopped fighting — where the others say nothing about whether you resisted first. Grammar: acquiesce **in** or **to** something."
+    },
+    {
+      "word": "deference",
+      "nuance": "Yielding you initiate yourself, and it credits the other person's **judgment or standing** rather than their power to punish you. That's the split from the rest: compliance answers a demand, **deference** offers a courtesy — and it reflects well on the one who offers it, until it curdles into having no views of your own."
+    },
+    {
+      "word": "obeisance",
+      "nuance": "The only physical entry — a bow, a kneel, homage staged **in front of witnesses**. The others describe an attitude or an outcome; **obeisance** is the visible performance of submission, which is exactly why modern prose reaches for it to sneer."
+    },
+    {
+      "word": "tractable",
+      "nuance": "The only adjective for the governed party, and it is graded from **above** — praise from whoever holds the reins, not a virtue the tractable person claims. It also swings out of this arena entirely to describe a **problem** that yields to method; its negative twin **intractable** is the likelier test item."
+    },
+    {
+      "word": "dissent",
+      "nuance": "The mildest break: you stay inside the institution and disagree **on the record, with grounds**, often in the very forum that overruled you. Nothing is broken and no rule is violated — **dissent** contests the position, where the words below it defy the rule itself."
+    },
+    {
+      "word": "dissident",
+      "nuance": "The only word here that names a **person** by the risk they run. A **dissident** opposes a power that can jail, exile, or ruin them; strip out the threat of punishment and you have a mere critic or contrarian."
+    },
+    {
+      "word": "flout",
+      "nuance": "Breach plus **contempt on display** — the rule is known, the violation deliberate, and being seen doing it is part of the point. It takes rules as objects, never people; you **flout** the ban, not the mayor."
+    },
+    {
+      "word": "contravene",
+      "nuance": "The cold clerical counterpart to *flout*: same broken rule, zero attitude. **Contravene** wants a **written** object — a statute, an article, a treaty clause — and implies a penalty follows, not a scolding; the act may even have been inadvertent."
+    },
+    {
+      "word": "mutiny",
+      "nuance": "Defiance by people bound by **oath and chain of command** against their own commanders — collective, and a criminal charge in its own right. A population rebels and a dissident speaks; only subordinates who owed obedience can **mutiny**."
+    },
+    {
+      "word": "obstreperous",
+      "nuance": "The only one with **no position at all** — just noise plus resistance to being handled. **Obstreperous** describes a drunk passenger or a rowdy classroom, never a principled objector, and it is always spoken downward by the person trying to keep order."
+    }
+  ],
+  "exam_note": "The exam tests attitude, not action: it will offer several words that fit the same rule-and-authority frame and let the credited answer hinge on one hidden feature — swallowed objection (*acquiesce*), open contempt (*flout*), procedural neutrality (*contravene*), or personal risk (*dissident*)."
+}

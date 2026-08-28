@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__pulling-away-from-people",
+  "title": "Pulling away from people",
+  "seed_words": [
+    "retiring",
+    "aloof",
+    "recluse",
+    "misanthropic"
+  ],
+  "hallucinated": null,
+  "core": "All four describe a person who keeps other people at arm's length, and all four are dispositions rather than passing moods. What separates them is how far the withdrawal goes and what feeling drives it: a preference for the background, a chosen coolness, a physical removal from society, or a settled contempt for the species. The scale runs from merely unassuming to actively wanting nothing to do with humankind. Note also that only one of them is primarily a noun — a label for a whole way of living rather than a description of manner.",
+  "words": [
+    {
+      "word": "retiring",
+      "nuance": "The mildest, and the only one that can be a compliment. **Retiring** is about declining *attention*, not company — the person is in the room, doing the work, just letting someone else take the podium. No coldness and no judgment of others is implied; they simply don't push forward."
+    },
+    {
+      "word": "aloof",
+      "nuance": "**Aloof** adds temperature. The person is present but will not engage, and the distance is calm, chosen, and unexplained — which is exactly why observers read superiority into it. It describes *manner within a social setting*; a retiring person is quiet at the party, an aloof one is at the party and above it. Almost always said by whoever got shut out."
+    },
+    {
+      "word": "recluse",
+      "nuance": "**Recluse** is where withdrawal stops being a manner and becomes an address — the person has physically removed themselves from society. It's a noun, a life-status, and it usually implies a before: people *become* recluses after something. Carries a chill of eccentricity that the earlier words lack, but no hatred — the recluse may like people fine, from very far away."
+    },
+    {
+      "word": "misanthropic",
+      "nuance": "The only one that supplies a *motive*, and the harshest: contempt for humanity as a whole, not for any particular person. A misanthrope may still live downtown and go to dinner parties — the word names a worldview, not a floor plan. Formal, faintly philosophical, and often used with amusement."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable degrees of \"unsociable\" — but the passage always signals *which axis*: attention (retiring), warmth (aloof), physical location (recluse), or opinion of mankind (misanthropic); a hermit-like character who is kind to visitors is a recluse, not a misanthrope."
+}

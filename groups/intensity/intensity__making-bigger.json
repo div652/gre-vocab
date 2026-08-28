@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__making-bigger",
+  "title": "Making Bigger: Adding To, Turning Up, Puffing Up",
+  "seed_words": [
+    "augment",
+    "amplify",
+    "aggrandize"
+  ],
+  "hallucinated": null,
+  "core": "All three enlarge something that already exists — none of them creates. The differences are *what* gets enlarged and *whether the enlargement is honest*: you can add material to a stock, raise the intensity of a signal, or inflate a reputation while the substance underneath stays exactly the same. Register climbs across the group, and so does the speaker's willingness to judge: the first two report a change, the last one condemns it.",
+  "words": [
+    {
+      "word": "augment",
+      "nuance": "**Augment** adds *new material from outside* — reserves to a force, freelance work to a salary, a hire to a team. The addition stays countable and distinguishable from the base; nothing gets more intense, just more. It's the only member of the group that can describe a purely quantitative bolt-on, and the only one that stays fully neutral about the motive."
+    },
+    {
+      "word": "amplify",
+      "nuance": "**Amplify** adds nothing — it turns the dial on what is already there, raising the *intensity or reach* of a signal, effect, fear, or claim. Its object is rarely countable (you amplify tension, not headcount). It's also the only word here with a second GRE sense: \"amplify that point\" means *elaborate*, not *make louder*."
+    },
+    {
+      "word": "aggrandize",
+      "nuance": "**Aggrandize** enlarges *standing* — power, wealth, or the appearance of importance — usually while the substance stays put, and usually at someone's expense or in one's own favor. Alone in the group it carries the writer's contempt built in, so **self-aggrandizing** is a charge, never a description."
+    }
+  ],
+  "exam_note": "Sentence Equivalence baits you with **aggrandize** for a neutral increase — check the sentence for scorn before picking it; and let the object decide between the other two: a stock or supply takes **augment**, a signal or effect takes **amplify**."
+}

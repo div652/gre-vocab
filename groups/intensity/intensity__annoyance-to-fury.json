@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__annoyance-to-fury",
+  "title": "Vexation → exasperated → ire",
+  "seed_words": [
+    "vexation",
+    "exasperated",
+    "ire"
+  ],
+  "hallucinated": null,
+  "core": "All three name the state of being angered, and all three sit in the register of writing rather than shouting — they get *described*, not screamed. What separates them is heat and direction: how much of it is teeth-grinding endurance versus outward-facing anger, and whether it belongs to the person feeling it or to someone the offender has provoked. Two are the low, worn-down end of the scale; one is the word for real anger aimed at a target.",
+  "words": [
+    {
+      "word": "vexation",
+      "nuance": "The only one here that also names the **cause**, not just the feeling — a leak, a delay, a rule can *be* a vexation. It's the most inward and the pettiest of the three: a small recurring obstacle you can't fix, felt privately and worded bookishly."
+    },
+    {
+      "word": "exasperated",
+      "nuance": "The only adjective, and the only one that requires **repetition** — you're exasperated after the fifth explanation, not the first offence. It describes someone who has already tried the reasonable options and has nothing left but a sigh; it points at fatigue, where **vexation** points at the nuisance itself."
+    },
+    {
+      "word": "ire",
+      "nuance": "The only genuine anger in the group, and it is almost always **someone else's**, provoked by an offence and reported from outside: *drew the ire of regulators*. You never narrate your own ire mid-feeling the way you can your own vexation — it's the headline word, cool on the page and hot in the person it belongs to."
+    }
+  ],
+  "exam_note": "The trap is treating these as interchangeable synonyms for \"angry\": GRE contexts signal *repetition* (exasperated), *a petty ongoing nuisance* (vexation), or *a provoking act with an offended party* (ire) — pick on the trigger, not the temperature."
+}

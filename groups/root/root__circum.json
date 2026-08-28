@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__circum",
-  "title": "Root: circum (around) + scribere (to write, draw)",
+  "title": "Root: circum- (around) — circumscribe, circumspect, circumstantial",
   "seed_words": [
     "circumscribe",
     "circumspect",
     "circumstantial"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three are built from *circum-* — \"around\" — and each puts the important action **at the perimeter rather than at the center**. A boundary is drawn around a thing to fix how far it may extend; a person looks around at the risks before stepping forward; facts stand around an event without ever touching it. The root is the only thing they share: one is something done *to* a freedom, one is a quality *of* a person, one is a status *of* evidence. Knowing the root tells you nothing about which word fits a sentence — only the slot it has to fill does.",
+  "words": [
+    {
+      "word": "circumscribe",
+      "nuance": "The only one that is an **action performed on something else**, and the only one whose limits arrive from an outside authority — a charter, a law, a disability, poverty. It says nothing about anyone's temperament and nothing about proof; it says the permitted space has edges and someone else drew them."
+    },
+    {
+      "word": "circumspect",
+      "nuance": "The only one describing a **person's habitual judgement**, and the only one that is praise. The looking-around happens *before* acting and is deliberate, not fearful — you can be circumspect and still commit. Its risk word is *slow*, never *unproven*."
+    },
+    {
+      "word": "circumstantial",
+      "nuance": "Attaches to **evidence, details, or accounts**, never to people or powers, and always downgrades what it touches: the facts surround the conclusion and fit it, but nobody witnessed the link. It can be overwhelming in quantity and still deficient in kind — which is why the older sense, *an account crammed with particulars*, pulls the opposite way."
+    }
+  ],
+  "exam_note": "The trap is treating a shared root as shared meaning: **circumscribe** limits a thing, **circumspect** describes a mind, **circumstantial** grades evidence — grammar, not etymology, tells you which one is even eligible."
 }

@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__ordinary-delivered-as-a-verdict",
+  "title": "Ordinary, delivered as a verdict",
+  "seed_words": [
+    "pedestrian",
+    "prosaic",
+    "mundane",
+    "humdrum",
+    "banal"
+  ],
+  "hallucinated": null,
+  "core": "All five say *not interesting* — but they differ almost entirely in how much contempt the speaker is smuggling in, and in what they blame the dullness on. One end simply locates a thing among the chores and passes no judgement; the other end is a sneer at something that had every chance to be interesting and wasn't. In between, the fault shifts: sameness over time, absence of poetry, absence of lift, absence of originality. The exam cares less about the shared \"boring\" and more about who is speaking and how hard they are hitting.",
+  "words": [
+    {
+      "word": "mundane",
+      "nuance": "The only one that can be entirely neutral — **mundane** places a thing at ground level (bills, laundry, logistics) without deciding whether that's a failing. It's the sole member with a second, non-pejorative sense (*earthly, of this world*), and the sole one you can use about your own admin without complaining."
+    },
+    {
+      "word": "humdrum",
+      "nuance": "Blames *time*, not quality: the thing is fine, it's just identical every day. **Humdrum** attaches to lives, jobs, towns, marriages — spans measured in years — and it's homely and self-directed, the grumble you aim at your own existence rather than an insult you throw."
+    },
+    {
+      "word": "prosaic",
+      "nuance": "Blames the absence of poetry, and it's the one that *deflates*: the exciting explanation gives way to the **prosaic** one, which is a loose cable. Uniquely, it can describe truth as well as style — an accurate, well-built account is still prosaic if nothing about it lifts."
+    },
+    {
+      "word": "pedestrian",
+      "nuance": "The critic's word, and its cruelty is that it concedes competence: nothing is wrong, nothing takes off. **Pedestrian** judges *execution* — prose, playing, cooking, argument — where the others judge subject matter or frequency; it says the writer plodded through their own material."
+    },
+    {
+      "word": "banal",
+      "nuance": "The harshest and the only one that means *used up by other people*. **Banal** requires an ambition to puncture — a poem, a slogan, a wedding speech can be banal; a bus timetable cannot — and it reports the speaker's exhaustion as much as the thing's staleness."
+    }
+  ],
+  "exam_note": "Sentence equivalence traps you here: the blank's tone word (\"merely,\" \"damning,\" \"affectionately\") decides between neutral *mundane* and contemptuous *banal* — pick by heat, not by the shared meaning."
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__stress-shifts-meaning-shifts",
+  "title": "Stress shifts, meaning shifts",
+  "seed_words": [
+    "appropriate",
+    "deliberate",
+    "intimate",
+    "articulate",
+    "attribute",
+    "subordinate"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a familiar adjective or noun that hides a less familiar verb — and the verb is the one the GRE tests. Say them aloud and the shift is audible: the final syllable goes from a swallowed schwa (*-uht*) in the adjective/noun to a full *-ATE* in the verb, and with `attribute` the stress itself jumps (ATT-ribute the noun, a-TRIB-ute the verb). The trap is that the everyday sense is so loud in your ear that you read the verb as if it were the adjective, and the sentence collapses into nonsense. Learn each one as two separate entries that happen to share a spelling.",
+  "words": [
+    {
+      "word": "appropriate",
+      "nuance": "The only verb here that is **acquisitive** — it moves a thing into your possession. And it is the only one whose morality is set entirely by who does it: a committee **appropriates** funds (pure accounting), a novelist **appropriates** a plot (quiet theft dressed in a respectable word)."
+    },
+    {
+      "word": "deliberate",
+      "nuance": "The one where the *adjective* is the damning sense and the verb is the calm one. **Deliberate** cruelty accuses; a jury that **deliberates** is merely taking its time. Note it's the group's only verb that needs no object — you deliberate *over* a thing, you don't deliberate it."
+    },
+    {
+      "word": "intimate",
+      "nuance": "The widest gap in the group: nothing on the surface connects \"deeply private\" to \"hint at.\" The verb is a communication move and a defensive one — you **intimate** something precisely so you can later deny having said it. Compare *insinuate*, which is nasty; **intimate** is drawing-room polite."
+    },
+    {
+      "word": "articulate",
+      "nuance": "The one word whose two senses are actually the same idea — jointedness — rather than two strangers sharing a spelling. Where **intimate** blurs a thought to make it deniable, **articulate** does the reverse: it takes something shapeless and gives it edges and joints you can point at."
+    },
+    {
+      "word": "attribute",
+      "nuance": "The only one that points *backward*, to origin: it names where a thing came from, and quietly concedes you can't prove it (a canvas is **attributed** to Caravaggio only when the signature is missing). Note the stress jump — the noun is ATT-ribute, the verb a-TRIB-ute — which none of the others do."
+    },
+    {
+      "word": "subordinate",
+      "nuance": "The only verb in the group that is inherently comparative and demands **to**: you **subordinate** X *to* Y. It doesn't take, name, or clarify anything — it ranks two things and sacrifices the loser. Watch the adjective too: it's structural (a rung on the org chart), never *subservient*, which is a character judgment."
+    }
+  ],
+  "exam_note": "The GRE plants these in verb slots where your ear automatically supplies the adjective — if a sentence goes strange, re-read the word as a verb before you re-read the sentence."
+}

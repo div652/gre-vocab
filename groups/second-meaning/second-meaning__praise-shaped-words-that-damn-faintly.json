@@ -1,0 +1,32 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__praise-shaped-words-that-damn-faintly",
+  "title": "Praise-shaped words that damn faintly",
+  "seed_words": [
+    "competent",
+    "passable",
+    "modest",
+    "laudable"
+  ],
+  "hallucinated": null,
+  "core": "Each of these looks like a compliment and functions as a limit. The praise is real but bounded, and the bound is the message: something cleared a bar, or was small, or was well-intentioned — and the reader is meant to notice what went unsaid. All four also carry a second, non-evaluative sense (legal fitness, physical crossability, literal smallness, plain approval) that the GRE prefers to test, because students only know the flattering surface.",
+  "exam_note": "The GRE rarely tests the warm reading: it builds a sentence whose contrast signal (\"merely,\" \"though,\" \"at best\") forces the deflating sense, or drops **competent** and **passable** into legal/geographic contexts where the faint-praise reading is the trap.",
+  "words": [
+    {
+      "word": "competent",
+      "nuance": "**Competent** grades the *person's* qualification, not the output: it certifies that nothing went wrong and stops there. It's the only word here with a hard technical sense that carries no shading at all — *competent to stand trial*, *court of competent jurisdiction* means authorised, full stop."
+    },
+    {
+      "word": "passable",
+      "nuance": "The faintest of the four — **passable** names the threshold explicitly: it scraped over and halted. Where *competent* implies a trained person, *passable* is a verdict on a thing that survived inspection (a meal, an accent, an imitation), delivered by whoever was doing the inspecting. It alone has a physical sense: a road, not a performance."
+    },
+    {
+      "word": "modest",
+      "nuance": "**Modest** deflates *scale*, not quality — a modest raise is a genuinely good raise that happens to be small. That makes it the one word here that never questions whether the thing was done well. It's also the only one that can describe character as a virtue: declining to boast about something you actually have."
+    },
+    {
+      "word": "laudable",
+      "nuance": "**Laudable** is the only unambiguously positive word here — the damning is by omission. It fastens onto aims, attempts and restraint, so praising the goal quietly concedes the result is unmentionable. Its formal, editorial register makes the praise institutional and distant rather than personal."
+    }
+  ]
+}

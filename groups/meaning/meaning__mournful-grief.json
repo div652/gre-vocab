@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__mournful-grief",
-  "title": "Mournful grief",
+  "title": "Grief Made Audible",
   "seed_words": [
     "plaintive",
     "woeful",
@@ -9,5 +9,29 @@
     "lament",
     "keen"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "These words cluster around sorrow that gets *expressed* rather than merely felt — grief with a sound, a face, or a tune attached. Mourning is the inward state; these are the noises and expressions it makes, from a thin whimper to a graveside chant. What separates them is the shape the grief takes: how loud, how dignified, how ritual, and whether it is being performed for an audience. Two of them also carry a second, far more testable sense that has drifted away from grief altogether.",
+  "words": [
+    {
+      "word": "plaintive",
+      "nuance": "**Plaintive** is the thinnest and highest of these — it doesn't mourn a loss, it asks to be pitied, with a note of quiet complaint underneath (its root is the same as *plaintiff*). It attaches to a sound or an expression, never to a situation: a plaintive cry, a plaintive violin, a plaintive \"but why?\" Nobody keens or laments over a missed dinner; plenty of people are plaintive about one."
+    },
+    {
+      "word": "woeful",
+      "nuance": "**Woeful** is the only one here that can grade *quality* — a woeful defence, a woeful lack of evidence — condemning something as so inadequate that it's pitiable. Even in its grief sense it's the most theatrical of the group: a woeful expression is sadness worn for onlookers, which is why the word takes sarcasm so easily and why the other four don't."
+    },
+    {
+      "word": "dirge",
+      "nuance": "**Dirge** is the only concrete artifact in the group — a specific piece of music, sung or played for the dead, not a feeling or a manner. Its modern insult sense is about *tempo*, not sorrow: calling a set a dirge says it dragged and flattened the room, an accusation about pace that you could never level with *plaintive* or *woeful*."
+    },
+    {
+      "word": "lament",
+      "nuance": "**Lament** supplies the group's verb and its dignity — grief given deliberate, composed, public voice, never hysteria. Uniquely, it extends cleanly to abstractions: you lament a decline, a lost standard, a vanished courtesy. That weak sense is regret in formal dress, and it's the one that actually shows up on the exam."
+    },
+    {
+      "word": "keen",
+      "nuance": "To **keen** is to wail — loud, high, sustained, traditionally ritual (Irish funeral practice), and the one word here that permits abandon where *lament* insists on control. The trap is that its everyday senses are unrelated homographs: sharp (a keen blade), acutely perceptive (a keen eye), eager (keen to help)."
+    }
+  ],
+  "exam_note": "The exam rarely tests the grief senses — it tests the drifted ones: **woeful** = pitifully inadequate, **lament** = publicly regret a decline, **keen** = sharp/eager, leaving you to pick a \"grief\" answer that isn't the point."
 }

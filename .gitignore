@@ -10,10 +10,14 @@ failures.log
 _probe.json
 cards/*.tmp
 
-# Rendered output is rebuilt from cards/ by render.py and build_app.py.
-# flashcards.html is deliberately NOT ignored - it is the deliverable, and
-# committing it is what lets GitHub Pages serve the app.
-out/*.md
+# out/ holds the deliverables, so it is deliberately NOT ignored:
+#   flashcards.html  - the app (also what GitHub Pages would serve)
+#   groups.md        - the 655 group write-ups
+#   group_NN.md      - the 38 GregMat groups, card by card
+# All are regenerable from cards/ and groups/, but they are the things actually
+# read and pasted into Slite, so they belong in the repo.
+#
+# all.md is the only exception: a single-file duplicate of the group_NN files.
 out/all.md
 
 # Personal study progress. Difficulty marks live in browser localStorage and are

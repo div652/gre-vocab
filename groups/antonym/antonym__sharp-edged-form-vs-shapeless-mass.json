@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__sharp-edged-form-vs-shapeless-mass",
+  "title": "Sharp-edged form vs. shapeless mass",
+  "seed_words": [
+    "delineate",
+    "distill",
+    "coherent",
+    "articulate",
+    "amorphous",
+    "inchoate",
+    "diffuse",
+    "turbid"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these words is an answer to the same question: does the thing have edges? One half names the operations that give something edges — fixing where it stops, boiling it to a core, making its parts hold together, breaking it into sayable pieces. The other half names the ways a thing can fail to have edges — no shape at all, no shape *yet*, shape spread too thin to register, or shape hidden behind murk. The GRE loves the set because the failures are not interchangeable: a thing can be perfectly organised and still unreadable, or intensely felt and still nameless.",
+  "words": [
+    {
+      "word": "delineate",
+      "nuance": "**Delineate** works only on the boundary — where this stops and that begins. It adds no depth, no compression, no eloquence; a delineated role can still be a dull role, but nobody can argue about what's inside it. Of these, it's the contract-and-treaty verb: the point is to end a dispute about limits."
+    },
+    {
+      "word": "distill",
+      "nuance": "**Distill** is the only one that throws mass away, and the only one where the result is *stronger* than what you started with. You can distill something already perfectly clear — clarity isn't the problem, bulk is. It presumes a big, diffuse original and someone with the judgement to know what's inessential."
+    },
+    {
+      "word": "coherent",
+      "nuance": "**Coherent** is a property of a finished whole, not something you do to material: the parts fit, nothing contradicts. It's also the lowest bar here — it certifies no gaps, not truth, not force, not concision. A coherent essay can be flabby and wrong; a distilled one cannot be flabby."
+    },
+    {
+      "word": "articulate",
+      "nuance": "**Articulate** is the only one about *putting into words* — moving something from unsaid to said, in jointed pieces a listener can follow. Its raw material is a feeling or a hunch, not a body of text, which is why it's the exact counter-move to inchoate. Delineate fixes edges on a thing already stated; articulate gets it stated at all."
+    },
+    {
+      "word": "amorphous",
+      "nuance": "**Amorphous** makes no claim about time or cause — the thing simply has no outline, and might never get one. It's the diagnostic term: it describes the object, not the speaker's patience with it, which is why glass and a rudderless committee take the same adjective without irony."
+    },
+    {
+      "word": "inchoate",
+      "nuance": "**Inchoate** is amorphous *plus a clock* — shapeless because it has only just begun, with the shape still ahead of it. Reserve it for the barely-born: an impulse, a stirring, a movement three weeks old. Note it's formless, not half-finished — a house with no roof is incomplete, never inchoate."
+    },
+    {
+      "word": "diffuse",
+      "nuance": "**Diffuse** is the only failure of *concentration* rather than of form: the substance is all present, just pooled nowhere, so nothing lands. It's the standing insult for prose that has plenty to say across forty pages and no centre — precisely the state that distilling cures."
+    },
+    {
+      "word": "turbid",
+      "nuance": "**Turbid** isn't shapeless at all; it's *opaque* — sediment suspended in something that could have been clear, and might settle if left alone. It's the only one that implies a disturbance and a culprit: turbid prose accuses the writer of clouding the water, where diffuse prose merely wanders."
+    }
+  ],
+  "exam_note": "The traps are the near-pairs: distill↔diffuse (concentration), delineate↔amorphous (edges), articulate↔inchoate (put into words vs. too new to name) — and turbid, which is muddy, not shapeless, so it never opposes delineate."
+}

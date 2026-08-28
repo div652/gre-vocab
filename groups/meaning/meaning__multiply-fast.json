@@ -8,5 +8,25 @@
     "propagate",
     "escalate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something increasing quickly and under its own momentum — not nudged up by an outside hand, but feeding on itself. The splits are three: **what** increases (the size of one thing, the number of copies, or the seriousness of a situation), **by what mechanism** (organic growth, self-copying, transmission down a chain, or provocation up a ladder), and **how the speaker feels about it**. Get the mechanism right and the connotation follows almost automatically.",
+  "words": [
+    {
+      "word": "burgeon",
+      "nuance": "The only one where **one** thing gets bigger rather than many things appearing — and the only reliably good one. It needs no object (you can't burgeon something) and refuses ugly subjects: a scene, a talent, a middle class burgeons; a crisis, a tumour, a backlog does not. Expect it as **burgeoning** in front of a noun, flagging promise at an early stage."
+    },
+    {
+      "word": "proliferate",
+      "nuance": "Pure headcount: the thing stays the same size, there are just suddenly far too many of it. Its self-copying is untracked and unowned — nobody is credited with doing it — which is why it lands as a faint complaint about clutter or danger (*shops, theories, warheads*). Unlike **burgeon**, it takes an object when you want to blame someone: *proliferate weapons*."
+    },
+    {
+      "word": "propagate",
+      "nuance": "Adds the missing chain: each copy becomes a new transmitter, and there is a medium it travels through — soil, a wire, a population, the rows of a spreadsheet. That makes it the technical verb of botany, physics and computing where the others are just descriptions of quantity. Turned on beliefs, it accuses: you *propagate* a myth, meaning you knew and passed it on anyway."
+    },
+    {
+      "word": "escalate",
+      "nuance": "The odd one out — nothing multiplies; the same conflict just gets worse by discrete steps, each move answering the last. It's adversarial and hard to walk back, whereas a **burgeoning** or **proliferating** thing can simply stop. Alone in the group it also has a bureaucratic sense: to hand a problem one rung up the authority ladder."
+    }
+  ],
+  "exam_note": "Classic trap: the sentence describes a bad thing growing, and **burgeon** is offered — but burgeon needs a healthy subject; if the sentence is about number, take **proliferate**, and if it's about severity climbing step by step, take **escalate**."
 }

@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__substance-vs-hot-air",
+  "title": "Substance vs. hot air",
+  "seed_words": [
+    "cogent",
+    "pithy",
+    "trenchant",
+    "aphorism",
+    "vacuous",
+    "bombastic",
+    "turgid",
+    "platitude",
+    "bromide"
+  ],
+  "hallucinated": null,
+  "core": "Every word here rates the ratio of thought to words. One half praises language that carries more than its size — reasoning that holds, sentences that pay for themselves. The other half attacks language that carries less than its size — swelling, padding, or recycling where an idea should be. What makes them confusable is that all nine judge the *expression* rather than the facts, so the tell is the sign (earned or fraudulent) and the axis (logic, brevity, edge, bulk, staleness), not the topic.",
+  "exam_note": "The GRE tests these on valence signals (\"for all his ___ delivery, the argument was ___\") and loves the near-twins — aphorism/platitude share a form, bombastic/turgid share a vice — so knowing only which side a word sits on won't pick between the two answers on that side.",
+  "words": [
+    {
+      "word": "cogent",
+      "nuance": "**Cogent** is the only one grading the load-bearing structure: does the reasoning survive being pushed on? Says nothing about length or style — a cogent brief can run forty pages and be dull to read."
+    },
+    {
+      "word": "pithy",
+      "nuance": "**Pithy** grades substance *per word*, so compactness is mandatory — it's the only praise here that a long passage cannot earn. Where **cogent** asks whether the argument holds, **pithy** asks whether the phrasing was worth the space."
+    },
+    {
+      "word": "trenchant",
+      "nuance": "**Trenchant** adds a target and an edge: it exposes rather than persuades, and it is nearly always aimed at criticism or analysis. **Cogent** wins your agreement; **trenchant** cuts to the thing everyone else was talking around."
+    },
+    {
+      "word": "aphorism",
+      "nuance": "The only artifact in the group — a noun for the finished sentence, not a quality of prose. It is what a **pithy** line becomes when it's crafted and quotable, and its exact structural double is **platitude**: same shape, same general-truth pose, opposite worth."
+    },
+    {
+      "word": "vacuous",
+      "nuance": "The broadest emptiness charge, and the only one that can be leveled at a face or a mind rather than a text — **vacuous** says nothing was meant, full stop. It doesn't require inflation: a short, plain remark can be vacuous, where **bombastic** and **turgid** must be swollen to qualify."
+    },
+    {
+      "word": "bombastic",
+      "nuance": "Emptiness by *volume* — big vocabulary and thunderous delivery inflating a small thought. The speaker isn't stupid, he's padding, and the effect is faintly ridiculous: you can hear the gap between the noise and the content."
+    },
+    {
+      "word": "turgid",
+      "nuance": "Emptiness by *weight*. **Bombastic** at least entertains while it puffs; **turgid** prose bores you into the ground, and the charge is what it did to the reader. Also the only word here with a live literal sense — swollen, distended."
+    },
+    {
+      "word": "platitude",
+      "nuance": "Not empty so much as stale: the remark is true, worn flat, and delivered with a moral tilt as if it were insight. Where **vacuous** means no thought, **platitude** means secondhand thought passed off as your own profundity."
+    },
+    {
+      "word": "bromide",
+      "nuance": "A **platitude** with a job — it's deployed to *soothe*, to close a conversation down so nobody has to sit with the grief or the hard question. It also uniquely names the person: a bromide can be the tedious man himself, not just his line."
+    }
+  ]
+}

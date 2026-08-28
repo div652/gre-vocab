@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__boldness-the-speaker-resents",
+  "title": "Boldness the speaker resents",
+  "seed_words": [
+    "temerity",
+    "effrontery",
+    "brazen",
+    "foolhardy",
+    "impetuous",
+    "audacious"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe someone ignoring a limit that everyone else respected — and all but one come pre-loaded with the speaker's disapproval. The split that matters is *who gets hurt*: some of these words are complaints about an offence given to other people (you presumed, you weren't ashamed), while others are complaints about danger the bold person is walking into themselves. A second split is *what exactly is being condemned* — your rank, your lack of shame, your lack of caution, or your lack of a pause. The daring itself is never in doubt in any of them; only the verdict on it changes.",
+  "words": [
+    {
+      "word": "temerity",
+      "nuance": "The offence is **presumption of rank** — you addressed, corrected, or challenged someone above you. **Temerity** is the only word here that depends on a hierarchy: it needs a superior to be offended, and the speaker is usually that superior or their sympathiser."
+    },
+    {
+      "word": "effrontery",
+      "nuance": "The offence is the **missing blush**. **Effrontery** doesn't care about your standing — it charges you with knowing the act was indefensible and doing it with a straight face anyway. It is the most indignant word in the group, and it lives in the frame \"had the effrontery to —.\""
+    },
+    {
+      "word": "brazen",
+      "nuance": "Same shamelessness as effrontery, but **brazen** attaches to the act (a brazen lie, a brazen theft) rather than to the nerve behind it, and its specific scandal is *in full view* — no concealment, because concealing would admit the rule counted. Also the only entry here that works as a verb: *brazen it out*."
+    },
+    {
+      "word": "foolhardy",
+      "nuance": "The turn: nobody is offended. **Foolhardy** condemns the actor for endangering *themselves* — real nerve, zero risk assessment. Where the shameless words imply you knew better and didn't care, this one implies you never did the arithmetic at all."
+    },
+    {
+      "word": "impetuous",
+      "nuance": "The fault is **speed, not shame** — no pause between feeling and action. **Impetuous** is the warmest word in the group: it implies passion, usually youth or love, and the criticism comes with a flicker of envy. Nobody is impetuous about something they planned."
+    },
+    {
+      "word": "audacious",
+      "nuance": "The one word with no fixed verdict. **Audacious** takes its charge from the surrounding sentence — an audacious plan is admired, an audacious request is resented — so it is the only member you can use to praise. Whatever the tone, the daring is extreme and fully deliberate."
+    }
+  ],
+  "exam_note": "The trap is treating **audacious** as automatically negative: on the GRE its blank usually sits in a sentence that admires the risk, while temerity/effrontery blanks always carry an offended party — scan for who is affronted before you pick."
+}

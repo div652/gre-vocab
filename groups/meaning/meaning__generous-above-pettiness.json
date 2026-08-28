@@ -8,5 +8,25 @@
     "noble",
     "beneficent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four praise someone for putting another's good above their own interest, and all four sit high in register — they are the words you reach for when *kind* and *generous* sound too small. What separates them is where the praise lands: on the motive behind the act, on the benefit actually delivered, on the resentment declined, or on the elevation of the character. Three of them also carry a whiff of the powerful stooping to the powerless, which is exactly why all four flip to sarcasm so easily.",
+  "words": [
+    {
+      "word": "altruistic",
+      "nuance": "The only one that grades **motive** and nothing else — an act is **altruistic** if the actor gained nothing, whether or not anyone was actually helped. It's also the group's technical term (ethics, economics, evolutionary biology), and the only one that fits an anonymous donor with no power over anyone: no rival, no rank, no audience required."
+    },
+    {
+      "word": "beneficent",
+      "nuance": "Scored on **delivery**: the benefit has landed. **Beneficent** says nothing about whether the giver overcame self-interest or a grudge — a patron who funds a ward for the naming rights still qualifies, where *altruistic* would not. Note the direction: it flows downward from someone with means (foundation, monarch, landlord), and distinguish it from *beneficial*, which describes helpful things, not helpful agents."
+    },
+    {
+      "word": "magnanimous",
+      "nuance": "Needs a specific occasion the others don't: a grudge you were entitled to keep, and the upper hand over the person you spare. What **magnanimous** costs is resentment, not money — the winner praising the beaten team, the wronged party dropping the charge. Give a stranger a kidney and you are altruistic, not magnanimous; there was no one to forgive."
+    },
+    {
+      "word": "noble",
+      "nuance": "Rates the whole character as elevated rather than any single transaction — **noble** is decency at altitude, principle held at personal cost. It's the only one with a literal rank sense (high birth; *noble gases*, too aloof to react), and the most sarcasm-prone: \"how noble of you\" is almost never praise."
+    }
+  ],
+  "exam_note": "Sentence equivalence loves the altruistic/magnanimous swap — check whether the context supplies a rival or a grievance (magnanimous) or merely a cost with no return (altruistic); and watch beneficent/beneficial, where the answer turns on agent vs. thing."
 }

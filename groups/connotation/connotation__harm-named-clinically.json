@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__harm-named-clinically",
+  "title": "Harm Stated Clinically",
+  "seed_words": [
+    "deleterious",
+    "detrimental",
+    "adverse",
+    "inimical",
+    "impair"
+  ],
+  "hallucinated": null,
+  "core": "All of these name damage without any heat behind it — harm as a finding, not a complaint. They belong to the register of medical inserts, audit reports, court rulings and policy papers, where the damage is usually gradual, measurable, and reported by an observer rather than felt by a victim. Because the emotional temperature is identical across all five, the GRE separates them on three other axes: what kind of thing is harmed, whether the word needs a *to*-complement, and whether the harm is destruction, disadvantage, opposition, or degradation.",
+  "words": [
+    {
+      "word": "deleterious",
+      "nuance": "The most **biological** of the group: **deleterious** damage happens *inside* something living or organic — toxins, radiation, sleep debt, a diet. It stands alone happily (*deleterious effects*) and names actual injury to the substance of a thing, not merely a cost or a disadvantage."
+    },
+    {
+      "word": "detrimental",
+      "nuance": "The **loss-and-disadvantage** word: **detrimental** frames harm as a debit against an interest — morale, property values, your case in court. It also barely stands alone; you are almost always detrimental **to** a named stake, and the harmed thing need not be damaged so much as set back."
+    },
+    {
+      "word": "adverse",
+      "nuance": "Alone here, **adverse** need not damage anything at all — it means *pushing the wrong way*: a headwind, a ruling, a market, unfavourable publicity. It attaches to **conditions, forces and outcomes** rather than to a victim, and describes the direction of a force, not the injury it leaves."
+    },
+    {
+      "word": "inimical",
+      "nuance": "The strongest opposition in the group: **inimical** conditions don't merely set something back, they make thriving impossible — *a climate inimical to free speech*. It carries a faint residue of enmity (from *inimicus*, enemy) that the bloodless *detrimental* lacks, and it almost always takes **to** an abstract thing being suppressed."
+    },
+    {
+      "word": "impair",
+      "nuance": "The only **verb**, and the only one that specifies **partial** damage: what you **impair** keeps working, just worse — hearing, judgment, mobility, a credit rating. It also demands a **faculty or capacity** as its object, so it cannot be used of weather, rulings or environments the way the adjectives here can."
+    }
+  ],
+  "exam_note": "Watch the syntax slot: a blank followed by *to* rules out bare-standing **deleterious** and **adverse** and forces **detrimental**/**inimical**, while a blank taking a direct object (*___ his judgment*) can only be **impair** — and *adverse* is routinely swapped with the unrelated *averse* (unwilling)."
+}

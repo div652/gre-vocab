@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__thin-supply-to-none-at-all",
+  "title": "Thin supply to none at all",
+  "seed_words": [
+    "sparse",
+    "scant",
+    "dearth",
+    "barren"
+  ],
+  "hallucinated": null,
+  "core": "All four report that there isn't much of something, and they line up from \"spread thin but present\" to \"yields nothing at all.\" What separates them is the yardstick: thinness across an area, a shortfall against what was required, a shortage across a whole field or market, or an outright failure to produce. They also differ in temperature — one is a measurement, the others are complaints, and the last is close to an accusation.",
+  "words": [
+    {
+      "word": "sparse",
+      "nuance": "The only **geometric** one, and the only one that can be pure description: it's about *spacing* across an area or surface — hair, crowds, vegetation, data points — with gaps between items that are genuinely there. A researcher says **sparse** data with no complaint implied; the moment you want reproach, you've reached for the wrong word."
+    },
+    {
+      "word": "scant",
+      "nuance": "Measures against a **standard**, not an area — there is some, just less than the job required. It sits attributively in front of abstract nouns (*scant evidence, scant regard, scant attention*) and the blame lands on whoever gave too little: **scant** attention indicts the report's author, not the world's stock of attention."
+    },
+    {
+      "word": "dearth",
+      "nuance": "The **noun** of the group, and the widest in scope — a shortage across a whole field, market, or era, framed as *a dearth of* + abstract noun. Where **scant** faults one stingy performance, **dearth** surveys a landscape and pronounces it undersupplied, in a formal, faintly literary register that says the speaker thinks there ought to be more."
+    },
+    {
+      "word": "barren",
+      "nuance": "The one that crosses to **zero**, and the only one about *yield* rather than quantity on hand: land that grows nothing, negotiations that produce nothing, a decade with no trophies. It presumes something *should* have produced and didn't — which is why aimed at a person it's the cold, blaming old word for infertility, and why an empty cupboard is never **barren**."
+    }
+  ],
+  "exam_note": "Traps run in both directions: a judgement-loaded sentence (\"regrettably ___ regard for safety\") rules out neutral **sparse**, while \"very little, but some\" rules out **barren** — and only **dearth** fits a noun slot after *a*."
+}

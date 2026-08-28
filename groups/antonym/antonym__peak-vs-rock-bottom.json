@@ -1,0 +1,37 @@
+{
+  "kind": "antonym",
+  "id": "antonym__peak-vs-rock-bottom",
+  "title": "Peak vs. rock bottom",
+  "seed_words": [
+    "apogee",
+    "zenith",
+    "prime",
+    "nadir",
+    "abject"
+  ],
+  "hallucinated": null,
+  "core": "All five sit at the far ends of a rise-and-fall curve: three name the top, two name the bottom. The confusion isn't just high-vs-low — it's grammatical. Some of these name a **point on a trajectory** (a moment you can date), one names a **stretch of time**, and one names a **condition** rather than a position at all. Choosing correctly means knowing not only which end of the arc a word marks, but what kind of thing it marks there.",
+  "words": [
+    {
+      "word": "apogee",
+      "nuance": "**Apogee** is the *distance* word — orbitally, the farthest swing out from Earth — so it stresses how far something travelled to get there, and that the return is already underway. Of the three highs it's the most geometric and the least flattering: it measures the arc rather than admiring the summit."
+    },
+    {
+      "word": "zenith",
+      "nuance": "**Zenith** is the *glory* word — the sun directly overhead, borrowed for empires and reputations, and the only one here that actually praises. It is also the exact astronomical opposite of *nadir*, which makes that pair the cleanest antonym in the group and the one the exam reaches for first."
+    },
+    {
+      "word": "prime",
+      "nuance": "**Prime** is the outlier: not a point but a *span* — the years an athlete is at full power, not the single instant of peak. It's also the only member with no grandeur (a prime cut, a prime location) and the only one with a verb, *to prime* = prepare in advance, which is the sense actually tested."
+    },
+    {
+      "word": "nadir",
+      "nuance": "**Nadir** is the low twin of *zenith*: a single datable trough, named retrospectively after surveying the whole arc. It is a noun and a superlative — there is exactly one — and its formality dignifies the collapse rather than describing what living through it felt like."
+    },
+    {
+      "word": "abject",
+      "nuance": "**Abject** is an adjective, so it never marks a moment on the curve — it describes the *state* of whatever is down there, and specifically its loss of dignity. A nadir can be a bad quarter; **abject** poverty grovels, and an **abject** apology earns the speaker's contempt."
+    }
+  ],
+  "exam_note": "The trap is never zenith/nadir — it's slotting *abject* where a point-in-time noun is required, or reading *prime* as a synonym for peak when the sentence wants the verb \"prepared beforehand.\""
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__stale-worn-out-sayings",
-  "title": "Stale worn-out sayings",
+  "title": "Stale sayings: from merely flat to falsely wise",
   "seed_words": [
     "banal",
     "hackneyed",
     "platitude",
     "bromide"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four are verdicts on language that has lost its force through repetition — the speaker is not describing a remark, but convicting it. The shared accusation is that nothing new was thought before the mouth opened. They split along two lines: two are adjectives that judge a thing's quality, two are nouns that name the offending remark itself; and each adds a different aggravating charge on top of staleness — tedium, laziness, false profundity, or sedation.",
+  "words": [
+    {
+      "word": "banal",
+      "nuance": "The widest net and the only one that reaches past words — a **banal** film score, sofa, or gift can all qualify, so long as the thing was supposed to be interesting. It is also the only one that needs no history: a compliment can be **banal** the first time it is uttered, because the charge is sheer predictability, not a record of overuse."
+    },
+    {
+      "word": "hackneyed",
+      "nuance": "Requires the track record **banal** does not. **Hackneyed** points at the wear itself — the phrase, metaphor, or plot twist got used to death, usually because it worked. The charge is the writer's laziness in reaching for it, and it lands almost only on language and literary devices; a **hackneyed** chair is nonsense."
+    },
+    {
+      "word": "platitude",
+      "nuance": "A noun, so it names one specific sentence you can quote back. What makes it a **platitude** rather than merely a stale line is the moral posture: it sounds like wisdom and asks you to nod. \"Everything happens for a reason.\" The accusation is pretension — you had nothing, so you dressed nothing up as insight."
+    },
+    {
+      "word": "bromide",
+      "nuance": "A **platitude** with a job to do: sedation. The **bromide** is deployed to smooth over grief, conflict, or an awkward question so nobody has to keep thinking — hence the accusation is evasion, not just emptiness. It alone can also name the *person* ('he's a complete bromide'), and it is the bookish one, at home in criticism and political columns rather than speech."
+    }
+  ],
+  "exam_note": "The classic trap is **banal** vs **hackneyed** (only **hackneyed** requires prior overuse, and only **banal** applies to non-verbal things) and **platitude** vs **bromide** (look for a \"consoling,\" \"soothing,\" or \"reassuring\" clue in the sentence — that clue selects **bromide**)."
 }

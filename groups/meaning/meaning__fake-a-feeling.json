@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__fake-a-feeling",
-  "title": "Fake a feeling",
+  "title": "Putting It On: from a fake feeling to a fake institution",
   "seed_words": [
     "dissemble",
     "feign",
@@ -9,5 +9,29 @@
     "posturing",
     "sham"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these cover a gap between what is shown and what is real: a face, manner, stance, or form put on for an audience. None requires an outright factual lie — the deceit lives in presentation, not in statements, and in every case the speaker using the word is claiming to see through the performance. What separates them is *scope* and *grammar*: a single passing emotion, a whole concealed inner self, a small habitual mannerism, a public stance, or an entire institution going through empty motions.",
+  "words": [
+    {
+      "word": "feign",
+      "nuance": "**Feign** manufactures something you don't have and puts it outward — it takes an inner state as its object (surprise, ignorance, illness, sleep, indifference). It's momentary and bounded: you feign interest for one dinner party, and nothing about your deeper character is on trial."
+    },
+    {
+      "word": "dissemble",
+      "nuance": "**Dissemble** runs the opposite direction: not adding a false feeling but covering a real one — fury, contempt, ambition — that already exists. It reaches deeper than *feign*, to motives and beliefs rather than a passing mood, and it's the genteel way to call someone deceitful without the word *lied*."
+    },
+    {
+      "word": "affectation",
+      "nuance": "**Affectation** is the artifact, not the act — a small, stylistic, repeated tic (a drawled vowel, a cigarette holder, a borrowed accent) adopted to seem a certain *kind of person*. It hides no secret and gains no advantage; that pettiness is why it reads as ridiculous rather than dangerous."
+    },
+    {
+      "word": "posturing",
+      "nuance": "**Posturing** is public and instrumental: the pose is a *position* — a threat, an ultimatum, a principled stand — and the charge is specifically that no action will follow it. Unlike the others, it predicts a failure to act, and it usually assumes the posturer is angling for leverage."
+    },
+    {
+      "word": "sham",
+      "nuance": "**Sham** is the only one that indicts a whole structure rather than a person's face: a trial, an election, a marriage that observes every correct procedure and means nothing. The complaint is emptiness inside a legitimate-looking form, not a performer managing an expression."
+    }
+  ],
+  "exam_note": "The trap is direction and scope: a context about *hiding* a real feeling wants **dissemble**, not **feign** (which supplies a fake one), and a context about an empty institution wants **sham**, not **affectation** (a personal quirk) or **posturing** (an unbacked stance)."
 }

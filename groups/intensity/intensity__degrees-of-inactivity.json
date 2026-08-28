@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-inactivity",
+  "title": "Degrees of inactivity: pauses, not endings",
+  "seed_words": [
+    "lull",
+    "quiescent",
+    "dormant"
+  ],
+  "hallucinated": null,
+  "core": "All three describe something that has stopped acting without having stopped existing. Each one leaves the door open: the eruption, the fighting, the infection, the rivalry is expected back. What separates them is the time-scale of the pause and whether the pause is being described (clinically, from outside) or exploited (on someone who doesn't know better). None of them means \"over\" — that's the job of *extinct*, *defunct*, *moribund*.",
+  "words": [
+    {
+      "word": "lull",
+      "nuance": "The shortest interval, and the only one of the three that isn't an adjective — it's a *stretch of time* you can point to (\"a lull in the shelling\"), or something you do **to** someone. That transitive use is what makes it unique here: a volcano can't lull anyone, but a market can lull investors into complacency. Deception is available to **lull** and to neither of the others."
+    },
+    {
+      "word": "quiescent",
+      "nuance": "The observer's word: cool, technical, describing a current state without promising anything about stored potential. **Quiescent** is the trough between bouts of something already underway — a quiescent phase of a disease that has flared before. It reports; it doesn't reassure or warn. Expect it in a lab report, not a conversation about a person."
+    },
+    {
+      "word": "dormant",
+      "nuance": "The longest horizon and the only one that foregrounds intact *capacity* rather than the current lull in activity. That's why **dormant** stretches to things that have never acted at all — dormant talent, a dormant seed — where **quiescent** would be wrong. It's the word chosen when the comeback is the point of the sentence."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"inactive\": watch the slot's part of speech (a \"___ in the fighting\" is a noun, so only *lull* fits) and watch for a completion that demands stored potential (*dormant talent*, never *quiescent talent*)."
+}

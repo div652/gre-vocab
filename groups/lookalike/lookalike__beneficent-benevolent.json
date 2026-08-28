@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__beneficent-benevolent",
-  "title": "beneficent / benevolent / benign…",
+  "title": "bene- / mal-: beneficent, benevolent, benign, magnanimous, malevolent, malign, munificent",
   "seed_words": [
     "beneficent",
     "benevolent",
@@ -12,5 +12,37 @@
     "munificent"
   ],
   "similarity": 0.56,
-  "auto": true
+  "auto": true,
+  "core": "All of these are built from Latin *bene* (\"well\") or *male* (\"ill\") welded to a root meaning wishing (*volens*), doing (*facere*), or being born/natured (*natus*) — so they all sit on the same axis of goodwill and ill will and look almost interchangeable on the page. The real fault lines are three: **wish vs. deed** (does the word describe what someone feels or what they actually did?), **presence vs. absence** (active good versus merely nothing harmful), and **cost** (does the generosity require money, or a swallowed grudge?). Nearly all of them also imply the subject holds the power in the exchange, which is why several turn sardonic so easily. Only one is primarily a verb.",
+  "words": [
+    {
+      "word": "beneficent",
+      "nuance": "The **deed** half of the pair: the good has already been conferred, so the sentence should contain an actual benefit — funds released, a ward endowed, a pardon issued. If the context only reports a feeling or an intention, this word is wrong; if the subject is a thing rather than an agent (exercise, rainfall), you want *beneficial*."
+    },
+    {
+      "word": "benevolent",
+      "nuance": "The **wish** half: goodwill as a settled disposition, with no claim that anything was done about it. It is the exact positive twin of *malevolent* and the natural fossil in institution names — *benevolent fund*, *benevolent society*, *benevolent dictator* — where the word survives precisely because it promises kindliness without committing to a payout."
+    },
+    {
+      "word": "benign",
+      "nuance": "The only member defined by what is **absent**: no threat, no malignancy, no harm. It grades nothing as actively good — a benign tumour is merely not lethal, benign neglect is merely not interference — and it is the only one here that takes tumours, weather, climates, and policies as easily as people. Also the plainest in register; the others are all formal."
+    },
+    {
+      "word": "magnanimous",
+      "nuance": "Requires a **prior injury or a defeated opponent**. Its whole content is a resentment you were entitled to keep and didn't: the victor praising the loser, the wronged party dropping the charge. The others cost money or cost nothing; this one costs a grudge, and it is void where there was no occasion for spite."
+    },
+    {
+      "word": "malevolent",
+      "nuance": "Ill will as a **standing nature**, not an episode — heavier and colder than *mean* or *spiteful*, and it may never surface in an act at all. It attaches happily to handless things (a malevolent presence, a malevolent silence). Note the split with *malicious*, which labels a particular deed: malicious gossip, malevolent character."
+    },
+    {
+      "word": "malign",
+      "nuance": "The group's **verb**, and the harm is done specifically with speech, about an absent person, to third parties — cumulative ill-speaking rather than one wound. It also carries a built-in verdict of injustice: someone *maligned* is usually being told to be undeserving of it. Its adjectival use (*a malign influence*) is the direct opposite of *benign*, not of *benevolent*."
+    },
+    {
+      "word": "munificent",
+      "nuance": "Measures **scale of gift, not quality of heart** — the size of the sum and the standing of the giver. A patron endowing a library wing is munificent; a friend quietly covering rent is generous but not. It is admiring, public praise, and it says nothing about whether the giver wishes anyone well."
+    }
+  ],
+  "exam_note": "The GRE plays the roots against the sentence: *-volent* is wishing, *-ficent* is doing, and *benign* is only the absence of harm — so a blank that specifies \"endowed the hospital\" rejects **benevolent**, \"meant well but never acted\" rejects **beneficent**, and \"the amendment looked drastic but proved ___\" wants **benign**, never **benevolent**."
 }

@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__ease-pain-or-severity",
-  "title": "Ease pain or severity",
+  "title": "Turning it down, not off: alleviate, assuage, mitigate, ameliorate, temper",
   "seed_words": [
     "alleviate",
     "assuage",
@@ -9,5 +9,29 @@
     "ameliorate",
     "temper"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five reduce intensity without removing the thing. Every one of them is honest about being partial: the pain, the risk, the harm, the fervor is still there, just dialed down. What separates them is not strength but **what they take as an object** — a felt suffering, an emotion, a harm or risk, a whole situation, or a force running too hot — and how warm or institutional the speaker sounds. Choose by object type, not by degree.",
+  "words": [
+    {
+      "word": "alleviate",
+      "nuance": "The object is **suffering as it is felt** — pain, hunger, grief, a burden, boredom. It is the warm, humane one: someone is worse off and you make their experience lighter, while the cause goes untouched."
+    },
+    {
+      "word": "assuage",
+      "nuance": "Narrower than **alleviate**: the object is an *emotion*, and usually someone else's — you assuage fears, guilt, doubts, anger. The move is consoling and rhetorical, a speaker calming a mind rather than changing any facts; assuaged guilt is quieter guilt, still intact."
+    },
+    {
+      "word": "mitigate",
+      "nuance": "Cool and institutional, and the object is a **harm, risk, penalty, or damage** — never a feeling. Typically preemptive engineering rather than comfort: the seawall, the hedge, the emissions cut. In law, mitigating circumstances make the offence *look less bad*, not excused."
+    },
+    {
+      "word": "ameliorate",
+      "nuance": "The object is a **whole condition or state of affairs** — working conditions, overcrowding, depleted soil — not a sensation or a risk. It alone points *upward* toward better rather than downward from bad, and it presupposes the thing was already in poor shape."
+    },
+    {
+      "word": "temper",
+      "nuance": "The odd one out: what it moderates need not be bad at all — justice, zeal, ambition, optimism. Nothing is subtracted; a **counterweight is added** until the thing sits in proportion. Its objects run hot rather than hurt."
+    }
+  ],
+  "exam_note": "The GRE decides these by object, so let the noun pick the verb: fears→**assuage**, risk/damages→**mitigate**, conditions→**ameliorate**, pain→**alleviate**, enthusiasm→**temper** — and remember **temper** is the only one whose object can be something good."
 }

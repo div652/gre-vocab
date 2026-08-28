@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__toughness-admired",
+  "title": "Toughness admired",
+  "seed_words": [
+    "resilient",
+    "robust",
+    "stalwart",
+    "withstand",
+    "fortitude"
+  ],
+  "hallucinated": null,
+  "core": "All five approve of holding up under force — and the exam counts on you accepting \"tough = tough\" and stopping there. They differ on three axes: whether the blow actually lands, whether the strength is structural or moral, and whether it's a property of a thing or a record earned by a person over time. One repels the force, one bends and returns, one absorbs it silently for years. Get the axis right and the answer choices separate cleanly.",
+  "words": [
+    {
+      "word": "withstand",
+      "nuance": "The only verb here, and the only one that takes the attacking force as its direct object — a siege, 200 mph winds, scrutiny, temptation. It reports on the *force*: it pushed, and it failed. Says nothing about what the holding cost you."
+    },
+    {
+      "word": "robust",
+      "nuance": "A property of a built thing — a system, an economy, an argument, a body — meaning it keeps *functioning* under stress, not merely surviving it. Note the technical-prose habitat (robust growth, robust findings) and the flavour sense (robust coffee) that the other four have no version of."
+    },
+    {
+      "word": "resilient",
+      "nuance": "The only one that concedes the damage. The blow lands, the shape deforms — and then it springs back. Calling a person or an economy resilient quietly admits they've already been through something; the others imply nothing was ever broken."
+    },
+    {
+      "word": "fortitude",
+      "nuance": "A noun, and the only purely *moral* one: strength of mind, not structure. Reserved for pain borne over duration with quiet dignity — the long illness, the grinding trial — never the ten-second act of nerve. Formal and warm, the register of eulogies."
+    },
+    {
+      "word": "stalwart",
+      "nuance": "The only one about *loyalty* and time served, and the only one that works as a noun for a person: a stalwart of the party. It praises immovability where *stubborn* condemns it, and it requires a track record — a brilliant newcomer can be robust or resilient but never stalwart."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps pair **resilient** with **robust** as if interchangeable: check whether the passage says the damage already landed (resilient) or that the thing held without breaking (robust) — and if the blank is a person praised for years of loyal service, only **stalwart** fits."
+}

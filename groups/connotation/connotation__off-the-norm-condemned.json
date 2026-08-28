@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__off-the-norm-condemned",
+  "title": "Off the norm — and who's judging",
+  "seed_words": [
+    "aberrant",
+    "wayward",
+    "outlandish",
+    "deviate",
+    "incongruous"
+  ],
+  "hallucinated": null,
+  "core": "Every word here marks something as departing from what was expected. The differences aren't in *how far* it departs but in **which norm got broken and who is doing the noticing**: a clinical standard, a moral path, the bounds of plausibility, a written procedure, or simply the surrounding context. Each word also comes with a built-in speaker — a diagnostician, a disappointed guardian, an amused bystander, an auditor, an observer of a scene. Getting the group right means asking what the reference point is, not how strange the thing is.",
+  "words": [
+    {
+      "word": "aberrant",
+      "nuance": "The norm is a **measured standard**, and the departure is treated as a symptom: something has gone wrong inside the system and wants explaining. No amusement, no affection, no wandering — just a cold flag on cells, data, or conduct."
+    },
+    {
+      "word": "wayward",
+      "nuance": "The only one where the thing has a **will of its own** — it drifts off the path rather than being found off it. The speaker is a guardian who wants it back, so disapproval comes mixed with pity or fondness, which no other word here allows."
+    },
+    {
+      "word": "outlandish",
+      "nuance": "The norm broken is **plausibility or taste**, not conduct or accuracy. It attaches to things that overreach — a claim, a price, a hat — and the verdict is a raised eyebrow rather than alarm: too silly to take seriously, so not worth arguing with."
+    },
+    {
+      "word": "deviate",
+      "nuance": "The only **verb**, and the only member that is neutral until context loads it. It demands a named reference line — the flight plan, the protocol, the mean — so it can praise, condemn, or merely record; the others come pre-judged."
+    },
+    {
+      "word": "incongruous",
+      "nuance": "Nothing is wrong with the thing itself, only with **where you found it** — move it and the problem disappears. It's a clash with surroundings, often faintly comic, and it's the one word here that says nothing about a rule being broken."
+    }
+  ],
+  "exam_note": "The trap is treating all five as generic \\\"strange\\\": scan the sentence for the reference point — a stated procedure or number pulls **deviate**, a setting to clash with pulls **incongruous**, a person who strayed pulls **wayward**, and an exaggerated claim pulls **outlandish**."
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__doubtful-to-outright-fake",
+  "title": "Doubtful to outright fake",
+  "seed_words": [
+    "dubious",
+    "suspect",
+    "spurious",
+    "bogus"
+  ],
+  "hallucinated": null,
+  "core": "All four say *don't trust this* — but they sit at different points on a line running from withheld judgment to delivered verdict. At the weak end, the speaker only registers doubt and stops short of a charge; at the strong end, the thing is flatly declared not genuine. They also differ in who or what is being doubted, and in whether a deceiver has to exist at all. Register splits them again: two are the language of the audit report, one is the language of saying it out loud.",
+  "exam_note": "The trap is direction and degree: **dubious** is the only one that can describe the person feeling the doubt, and only **bogus** commits to \"fake\" — a passage where a scientist calls a correlation *spurious* is not accusing anyone of lying.",
+  "words": [
+    {
+      "word": "dubious",
+      "nuance": "The only one that points both ways — a **dubious** investor is unconvinced, while a **dubious** scheme is what he's unconvinced by. Weakest and most deniable: a raised eyebrow, not a charge, which is why it can also run ironic (*the dubious honour of finishing last*) where none of the others can."
+    },
+    {
+      "word": "suspect",
+      "nuance": "Strictly passive and strictly about reliability: **suspect** data attracts doubt but is never said to feel it. It withholds the verdict on purpose — the auditor's word when the numbers may be garbage but nobody is ready to write *fake* yet."
+    },
+    {
+      "word": "spurious",
+      "nuance": "The verdict has landed: no legitimate basis, standing refused rather than argued with. Uniquely, it needs no liar — a **spurious** correlation deceives nobody, it just isn't there. Formal, cold, the register of judges and referees."
+    },
+    {
+      "word": "bogus",
+      "nuance": "Fake, and someone made it that way: **bogus** credentials, a **bogus** invoice — concrete claims and documents that collapse the moment you check. Informal and contemptuous, the one you say aloud rather than print, with an eye-roll the others don't carry."
+    }
+  ]
+}

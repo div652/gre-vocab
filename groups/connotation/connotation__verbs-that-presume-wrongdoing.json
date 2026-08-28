@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__verbs-that-presume-wrongdoing",
+  "title": "Words that carry the guilt inside them",
+  "seed_words": [
+    "perpetrate",
+    "abet",
+    "collude",
+    "conspire",
+    "premeditate",
+    "malfeasance"
+  ],
+  "hallucinated": null,
+  "core": "Each of these words presumes the act was wrong before you've said anything about it — the disapproval is baked into the vocabulary, not added by the sentence around it. Use any of them on an innocent object and the result is irony, not description. What separates them is which slot in the wrongful act they occupy: doing it, helping someone else do it, quietly agreeing with a partner, planning it beforehand, or betraying an office while doing it. All six belong to the courtroom, the regulator's report, and the crime page.",
+  "words": [
+    {
+      "word": "perpetrate",
+      "nuance": "The only one that points at **the hands that did it** — one person, one act, no accomplice, no forethought, no office required. The guilt sits entirely in the object (*a hoax, an atrocity*), which is why it's the group's default verb for the deed itself while the others describe circumstances around the deed."
+    },
+    {
+      "word": "abet",
+      "nuance": "You are explicitly **not** the one who did it — **abet** names the second party whose encouragement made someone else's crime happen, so it presupposes a principal offender you can point to. Where *collude* and *conspire* imply partners of equal standing, abetting is lopsided: one does, one urges."
+    },
+    {
+      "word": "collude",
+      "nuance": "The scandal is **who** the partners are: parties the world expects to be independent or in competition — rival bidders, an auditor and his client. No plot, no meeting, no plan needed; a tacit understanding is enough, which is why it damns without alleging any single act."
+    },
+    {
+      "word": "conspire",
+      "nuance": "Demands both **accomplices and concealment plus an actual plot** — the agreement is itself the offense, punishable before anyone acts. It's also the only word here that goes non-human and jocular: *events conspired against us*, a use none of the others will tolerate."
+    },
+    {
+      "word": "premeditate",
+      "nuance": "Says nothing about partners or position — it fixes **when the thinking happened**, and one person alone can do it. It never creates the offense, only aggravates one already established: it's the word that turns a killing into murder in the first degree."
+    },
+    {
+      "word": "malfeasance",
+      "nuance": "A **noun**, not a verb, and the only one whose wrongness comes from the **office** rather than the act — the identical theft is plain crime from a citizen and malfeasance from a trustee. What's violated is a duty someone was entrusted with."
+    }
+  ],
+  "exam_note": "The GRE rarely tests these against innocent words — it tests them against each other, planting one decisive cue: an official's position (malfeasance), supposed rivals (collude), secret planning (conspire), a helper behind a principal (abet), advance timing (premeditate). Also watch the part of speech: only malfeasance fills a noun blank."
+}

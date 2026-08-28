@@ -1,0 +1,27 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__leaning-and-liking-not-incompleteness",
+  "title": "Leaning and liking, not incompleteness",
+  "seed_words": [
+    "partial",
+    "apt",
+    "inclined"
+  ],
+  "hallucinated": null,
+  "core": "Each of these has a famous everyday sense that has nothing to do with the tested one — incomplete, fitting, sloping — and behind it a second sense meaning *disposed toward*. In that second sense all three describe a leaning rather than a commitment: something short of a decision, a settled habit, or an outright preference that a person has not necessarily acted on. They differ in who is doing the leaning, whether it counts as a flaw, and whether the object is a course of action or a thing you simply enjoy.",
+  "words": [
+    {
+      "word": "partial",
+      "nuance": "The only one of the three that can be an **accusation**: a *partial* judge has quietly taken a side, and the leaning is a failure of fairness — this is what *impartial* denies. It is also the only one that can express liking rather than tendency, but strictly in the frozen phrase *partial to* + a noun (*partial to sherry*), a mild, almost self-deprecating admission of taste."
+    },
+    {
+      "word": "apt",
+      "nuance": "Reports an observed pattern in someone else that follows from their character — *he's apt to interrupt* is prediction, not confession, and unlike *prone* or *liable* it passes no judgment on whether the outcome is bad. It attaches to behaviour (*apt to* + verb) and can never mean fondness; an **apt** person is skilled or well-suited, not fond of anything."
+    },
+    {
+      "word": "inclined",
+      "nuance": "The first-person **hedge**: *I'm inclined to agree* announces a lean while keeping the exit open, so the object is a decision still pending rather than a habit already established. It is voluntary and revisable — no flaw implied, no track record cited, which is exactly why committees and diplomats reach for it."
+    }
+  ],
+  "exam_note": "Sentence-equivalence stems bury these in contexts that bait the famous sense — a \"partial\" observer isn't half an observer, an \"apt\" student in a tendency sentence isn't a clever one; check whether the blank wants bias, prediction, or a hedge."
+}

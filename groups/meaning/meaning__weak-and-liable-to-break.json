@@ -8,5 +8,25 @@
     "tenuous",
     "debilitating"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit on the idea of insufficient strength — something that cannot hold, cannot function, or cannot bear the weight put on it. What separates them is what the weakness attaches to (a body, a character, a link, a capacity), whether the word names the weak thing or the force that weakened it, and above all the speaker's stance: pity, forgiveness, polite doubt, or clinical fact. Choosing wrongly here doesn't produce a slightly-off sentence; it produces the wrong attitude toward the person described.",
+  "words": [
+    {
+      "word": "feeble",
+      "nuance": "The only one that can sneer. **Feeble** is aimed at an *attempt* — an excuse, a joke, a protest — and the verdict is that the effort was made and it was pathetic. Aimed at a body it softens to pity, but it never goes neutral the way *debilitating* does."
+    },
+    {
+      "word": "frailty",
+      "nuance": "A noun, so it names the condition rather than describing a thing, and it is the forgiving member of the group. **Frailty** treats the flaw as built into the material — hence \"human frailty,\" and the plural **frailties**, the small vices we pardon. Alone here it reaches moral character without condemning it."
+    },
+    {
+      "word": "tenuous",
+      "nuance": "Attaches to *connections and reasoning*, never to a body: links, evidence, claims, a grasp on power. **Tenuous** says the thing rests on almost nothing and could snap — a thread, not a lie. It's the courteous academic register, which is why reviewers and judges prefer it to blunter *flimsy*."
+    },
+    {
+      "word": "debilitating",
+      "nuance": "The only one that points at the *cause*, not the sufferer: illness, pain, anxiety, sanctions are debilitating; the patient is not. It marks a threshold — capacity removed, usually for a stretch of time — rather than a degree of misery, and its tone is the flat clinical register of doctors and insurers."
+    }
+  ],
+  "exam_note": "The trap is direction and register: the blank wants **debilitating** when it names the agent that stripped capacity, **tenuous** when it modifies evidence or a link, and **feeble** only where the writer is passing scornful judgement on an effort — with **frailty** reserved for when the slot needs a noun and a forgiving tone."
 }

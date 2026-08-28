@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__fresh-minted-vs-secondhand",
+  "title": "Fresh-minted vs. secondhand",
+  "seed_words": [
+    "ingenious",
+    "unprecedented",
+    "coin",
+    "iconoclastic",
+    "derivative",
+    "hackneyed",
+    "banal",
+    "pastiche",
+    "bromide",
+    "platitude",
+    "mimic"
+  ],
+  "hallucinated": null,
+  "core": "Every word here judges one thing: is there anything new in this, or has it all been here before? One pole covers making something the record has never held — a neat contrivance, a first instance, a new term, a toppled idol. The other pole covers serving up what already exists — sometimes openly and honestly, sometimes as filler where thought should be. Since almost all of them are verdicts rather than descriptions, the distinctions live in *what* is being rated (a device, a date, a phrase, a whole work, a style, a person) and *how much* credit or contempt rides along.",
+  "words": [
+    {
+      "word": "ingenious",
+      "nuance": "Praises how neatly the thing was worked out, not whether it is new to history — an **ingenious** rig can be built entirely from known parts. It is the only word on this side that attaches as happily to a hinge or a loophole as to a mind, and it survives moral doubt: a con can be ingenious."
+    },
+    {
+      "word": "unprecedented",
+      "nuance": "The only member that is a claim about the record rather than praise or blame. It rates novelty and nothing else — a lawsuit, a blunder, or a dull administrative decision can be **unprecedented** without being clever, admirable, or even surprising."
+    },
+    {
+      "word": "coin",
+      "nuance": "Originality narrowed to **language** and bundled with authorship and uptake. You **coin** a term, never a device or a strategy, and the verb quietly credits one person and concedes that the term caught on — the only word here that requires the invention to have succeeded."
+    },
+    {
+      "word": "iconoclastic",
+      "nuance": "Originality that is destructive before it is productive: the credit is for the nerve to go after what the field holds sacred, not for having built anything. It needs a revered target — no idol, no **iconoclast** — and it describes people and postures, not objects."
+    },
+    {
+      "word": "derivative",
+      "nuance": "The cold, measured verdict on a **whole work**: honestly made, competently done, and traceable in every interesting part to an earlier source. Unlike the overuse words, the debt is usually to one identifiable predecessor rather than to the common stock, and the tone is diagnosis rather than sneer."
+    },
+    {
+      "word": "hackneyed",
+      "nuance": "The fault is not one borrowed source but **repetition by everybody** — the phrase or plot twist has been run into the ground. It usually concedes the thing was once good, which is why it got used to death, and it comes with a critic's faint sniff. Aimed at the individual expression, not the whole book."
+    },
+    {
+      "word": "banal",
+      "nuance": "Registers the deadness rather than diagnosing the cause: the remark or design is flat, predictable, and the speaker is visibly bored by it. It bites hardest on things that were *meant* to be interesting — a poem, a toast, a slogan — where **hackneyed** would blame overuse and this simply blames the thing for being empty."
+    },
+    {
+      "word": "pastiche",
+      "nuance": "Borrowing that is **deliberate and on display** — the imitation is the point, so nothing is being hidden or accidentally absorbed. It copies a style, period, or genre rather than a person's mannerisms, and unlike parody it isn't mocking; it can be homage or, said coldly, borrowed style with no soul under it."
+    },
+    {
+      "word": "bromide",
+      "nuance": "A specific worn remark deployed as a **sedative** — offered to soothe grief or shut down a hard question so nobody has to think. The accusation lands on the speaker's evasion, not merely their staleness, and alone in this group the word can also name the dull person who traffics in them."
+    },
+    {
+      "word": "platitude",
+      "nuance": "Also a stale remark, but the pretence is **depth**, not comfort — usually with a moral tint, delivered as though it were earned wisdom and inviting you to nod. Where a bromide fakes consolation, a **platitude** fakes profundity: the standard charge against condolence statements and mission statements."
+    },
+    {
+      "word": "mimic",
+      "nuance": "Copies a **live individual's surface** — the vowel, the walk, the throat-clearing — and points at them while doing it, which is why it slides into ridicule. It is performed and aimed, where pastiche is composed and stylistic; it also has a straight technical sense (a hoverfly mimics a wasp) with no mockery at all."
+    }
+  ],
+  "exam_note": "The trap is treating the stale-side words as interchangeable: the answer usually turns on what is stale (one remark vs. a whole work vs. a style) and why it's condemned (fake wisdom, fake comfort, or sheer overuse) — and on reading *unprecedented* literally as \"no prior case,\" never as \"huge\" or \"unforeseeable.\""
+}

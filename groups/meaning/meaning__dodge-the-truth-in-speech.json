@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__dodge-the-truth-in-speech",
-  "title": "Dodge the truth in speech",
+  "title": "Dodging without lying",
   "seed_words": [
     "equivocate",
     "prevaricate",
@@ -9,5 +9,29 @@
     "evasive",
     "skirt"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe getting away from a direct answer without producing an outright falsehood. The speaker is asked something specific, declines to meet it, and yet never says the false thing that would make him a liar — so the accusation lands on his *manner* rather than his facts. That is exactly why the words are useful to journalists, judges and editorialists: they impute bad faith while staying unprovable and unactionable. They split on where the dodge lives — in the wording, in the pattern of answering, in the whole relationship to an obligation, or in going around a subject's edge.",
+  "words": [
+    {
+      "word": "equivocate",
+      "nuance": "The dodge is built into the **words themselves**: one utterance engineered to carry two readings, the false one for you and the defensible one for later. A single sentence can equivocate — you don't need a pattern. It's the only word here that accuses someone of *craft*: he chose that phrasing on purpose and can quote it back at you."
+    },
+    {
+      "word": "prevaricate",
+      "nuance": "No clever double meaning required — **prevaricate** indicts a *sustained performance*: shifting ground, restating the question, answering the previous question, sliding for twenty minutes. One dodge isn't prevarication; a witness who keeps sliding is prevaricating. It's the most lawyerly and least common of the group, and it always describes a whole stretch of testimony or conduct."
+    },
+    {
+      "word": "evade",
+      "nuance": "The only one that isn't confined to speech: you **evade** capture, taxes, conscription, a subpoena. It presupposes that something had a *claim* on you and you wriggled out — which is why it works on pursuers and duties, not just questions. Broader and blunter than the rest; the escape, not the wording, is the point."
+    },
+    {
+      "word": "evasive",
+      "nuance": "The public-facing adjective — what the interviewer *calls* the performance afterward. It says \"he's hiding something\" while stopping carefully short of \"he lied,\" which is precisely its value in print. Watch the second life: **evasive** action or manoeuvres, of a pilot or driver, carries no guilt whatsoever."
+    },
+    {
+      "word": "skirt",
+      "nuance": "This one takes a target and travels around its **edge**: you *skirt the issue*, *skirt the law*. The signature is technical compliance defeating the point — every letter obeyed, nothing broken, nothing denied. It also runs the other direction into dangerous proximity (*skirting bankruptcy*), a sense none of the others has."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves the equivocate/prevaricate pair, so the trap is a blank whose object is a *thing* (the issue, the law, the draft) — there only skirt/evade fit grammatically, and evasive's innocent \\\"evasive maneuvers\\\" sense defuses any bad-faith clue."
 }

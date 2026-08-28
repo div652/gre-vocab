@@ -9,5 +9,29 @@
     "devious",
     "artful"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe getting what you want by indirection — trickery, misdirection, a route around the rules — rather than by force, argument, or straight dealing. The cleverness is never in question in any of them; what varies is how much the word forgives it. Each sits somewhere on a slide from grudging admiration to flat accusation, and each attaches to a different thing: the schemer's long experience, the single sly move, the polish of the execution, the cold self-interest behind it, or the crooked path itself. Two of them also carry an innocent literal sense that the sly sense has almost buried.",
+  "words": [
+    {
+      "word": "wily",
+      "nuance": "The one that implies **a long track record and a weaker hand**. **Wily** is evasive rather than constructive — feints, dodges, letting the stronger party overcommit — and it goes to veterans: the wily old fox, the wily negotiator who has seen this move before. A teenager can be crafty; almost nobody is wily at nineteen."
+    },
+    {
+      "word": "crafty",
+      "nuance": "The most **small-scale and domestic** of the group. **Crafty** fits one contained move — the kid who talks his way out of chores, the real term buried in clause nine — not a career of scheming, and it scales down to the nearly harmless in a way *cunning* and *devious* never do."
+    },
+    {
+      "word": "artful",
+      "nuance": "The only one whose emphasis falls on **how well it was done**. An **artful** dodge is admired as a performance; the handling is smooth enough that you half-enjoy being handled. It also keeps a fully clean sense — an *artful* arrangement of flowers, meaning tastefully contrived."
+    },
+    {
+      "word": "cunning",
+      "nuance": "The **coldest and most predatory**, and the only one that is also a noun (*won by sheer cunning*). Where the others name a tactic, **cunning** names a faculty — an almost animal instinct for advantage, indifferent to whom it costs."
+    },
+    {
+      "word": "devious",
+      "nuance": "The only one aimed at **the route rather than the person's wit** — the loops, the cover story, the third party who \"happened\" to mention it. It retains a live literal sense of *winding, indirect* (a **devious** mountain track), and it is the group's harshest word when pointed at an institution or a contract."
+    }
+  ],
+  "exam_note": "The GRE rarely pits these against each other — it tests the buried senses: **devious** as *winding/indirect* (of a path) and **artful** as *tastefully contrived* (of an arrangement), where a context containing no deception at all rules out every synonym you were braced for."
 }

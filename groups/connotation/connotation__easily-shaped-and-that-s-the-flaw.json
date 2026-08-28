@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__easily-shaped-and-that-s-the-flaw",
+  "title": "Easily shaped — and who's holding the hammer",
+  "seed_words": [
+    "malleable",
+    "pliant",
+    "plastic",
+    "tractable",
+    "amenable"
+  ],
+  "hallucinated": null,
+  "core": "All five describe something that offers little resistance to an outside force — a mind, a person, a material, or a problem that yields rather than pushes back. The differences are in *what kind* of yielding: taking a permanent new shape, bending under momentary pressure, going where you steer it, or simply agreeing to a proposal. The other axis is temperature: applied to materials and problems these are neutral or admiring, but applied to a person's convictions most of them quietly transfer the credit to whoever is doing the shaping.",
+  "exam_note": "The GRE's trick is the agent: **malleable/plastic/pliant** yield to a shaper, **tractable** to a driver, **amenable** to a specific proposal — and it hides the coldly technical senses (a *tractable* equation, a tumour *amenable to* surgery) in science passages where the human connotation is a trap.",
+  "words": [
+    {
+      "word": "malleable",
+      "nuance": "The hammer word: force is applied and the thing comes out permanently in someone else's intended design. It's the group's choice when a specific interested party is deliberately working on a person — a **malleable** juror, heir, or subordinate is being *used*, and the sentence usually names or implies who benefits."
+    },
+    {
+      "word": "pliant",
+      "nuance": "Bending, not reforging — the willow, not the ingot. **Pliant** describes ongoing absence of resistance rather than a finished new shape: the person gives way under whatever hand is on them now and would give way to the next one just as easily. It's also the only word here whose literal sense is unmixed praise (*pliant* leather)."
+    },
+    {
+      "word": "plastic",
+      "nuance": "The retention word: a **plastic** thing takes the new shape and *keeps* it, which is why it's the technical term for brains, childhood, and art media. It's also the only member with a separate purely contemptuous sense — fake, mass-produced, insincere (*a plastic smile*) — which the GRE will not usually be testing."
+    },
+    {
+      "word": "tractable",
+      "nuance": "Not about shape at all but about direction: **tractable** things go where you pull them, so it praises steerability from the position of the person holding the reins. Uniquely, it extends to problems in the sense of *solvable by available method* — and its negative twin **intractable** appears far more often than it does."
+    },
+    {
+      "word": "amenable",
+      "nuance": "The only one that credits the subject with a choice: **amenable** describes a willing attitude toward a specific proposal, not a soft texture, and nobody has reshaped you by getting it. Almost always followed by *to*, and it marks mere low resistance — below *eager*, above *grudging* — with no warmth implied either way."
+    }
+  ]
+}

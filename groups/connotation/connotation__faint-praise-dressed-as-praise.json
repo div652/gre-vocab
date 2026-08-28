@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__faint-praise-dressed-as-praise",
+  "title": "Faint praise dressed as praise",
+  "seed_words": [
+    "competent",
+    "passable",
+    "laudable",
+    "modest",
+    "sound"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is formally positive and functionally deflating: the sentence approves, and the reader hears a ceiling. Each one grants some real virtue — adequacy, correctness, good intent, absence of flaw — while conspicuously declining to grant excellence, and the withholding is the message. They are the register of examiners, reviewers, auditors and referees: people obliged to say something favourable about work that did not impress them. What separates them is *which* compliment is being paid and *which* is being pointedly skipped.",
+  "words": [
+    {
+      "word": "passable",
+      "nuance": "The lowest bar in the group and the only one that concedes the thing barely cleared it. **Passable** attaches to samples and performances you judge once — an imitation, someone's French, a meal — and implies the judging is over and the verdict was survival, not victory."
+    },
+    {
+      "word": "competent",
+      "nuance": "Grades a *person's* execution against a professional standard: nothing went wrong. **Competent** stings precisely because that standard is the minimum for keeping the job — it rules out malpractice, not mediocrity. Its legal use (*competent to stand trial*, *court of competent jurisdiction*) carries none of this and simply means authorised."
+    },
+    {
+      "word": "modest",
+      "nuance": "The only one that deflates by *quantity* rather than quality. **Modest** gains are genuine and correct, just small — nothing is wrong with the thing, there is merely not much of it. Used of a person it flips into warmth: declining to boast about something you actually have."
+    },
+    {
+      "word": "sound",
+      "nuance": "The inspector's verdict: someone went looking for the crack and found none. **Sound** certifies structural validity — of an argument, a plan, a building — and withholds only flair, never correctness. Uniquely here, its negative is savage: *unsound* means broken at the foundation, not merely unimpressive."
+    },
+    {
+      "word": "laudable",
+      "nuance": "The one openly positive word, and the one that praises the *aim* instead of the outcome — goals, attempts, restraint. **Laudable** is formal and cool, praise delivered from a distance, so it becomes consolation by implication: you commend the trying because the result is not available for commendation."
+    }
+  ],
+  "exam_note": "Four of these hide a literal, non-evaluative sense the GRE prefers to test — *passable* road, *competent* jurisdiction, *modest* dress, *sound* the depths — and in Sentence Equivalence they signal the faint-praise sense with a concessive clue (\"solid if uninspired,\" \"well-meant but ineffectual\") that tells you which compliment is being withheld."
+}

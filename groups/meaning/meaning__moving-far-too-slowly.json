@@ -8,5 +8,25 @@
     "plodding",
     "sluggish"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four mark a pace below what the situation demands, and all four are complaints — nobody uses them to praise. The split is in what gets blamed for the slowness: a will that won't act, attention that drifts, a heaviness with no spark, or an engine running low on power. So the deciding question is never *how slow* but *why slow, and who is at fault* — and whether the thing being described even has a will to blame.",
+  "words": [
+    {
+      "word": "dilatory",
+      "nuance": "The only one that can accuse someone of slowness **as a tactic** — a dilatory motion is filed *to* stall. It's also the only one at home in a legal or official register, so it reads as a charge on the record rather than an observation; the delay was avoidable and someone is answerable for it."
+    },
+    {
+      "word": "dawdle",
+      "nuance": "The one with **no agenda and no fault worth pressing** — the dawdler is genuinely en route, just distracted along the way. It's a verb about a person in motion, and the tone is a nudge (\"stop dawdling\") rather than an accusation; where **dilatory** implies withholding, this implies only drift."
+    },
+    {
+      "word": "plodding",
+      "nuance": "Attacks **heaviness and dullness, not the clock** — and it can be aimed at output, not just movement: a plodding chapter, a plodding lecture. Uniquely, it concedes that the job gets done, which is why *plodding but thorough* is a real compliment and *dilatory but thorough* is not."
+    },
+    {
+      "word": "sluggish",
+      "nuance": "Slowness read as a **symptom of low power** — the word diagnoses rather than blames, so it's the one that fits engines, markets, and digestion as readily as people. Volition is absent by definition: you can accuse a lawyer of being dilatory, but a sluggish economy has nobody to scold."
+    }
+  ],
+  "exam_note": "The trap is animacy and intent: sentences about markets, circulation, or engines rule out **dilatory** and **dawdle** entirely, while any context naming deliberate stalling rules out **sluggish**."
 }

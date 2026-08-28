@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__old-enough-to-be-discredited",
+  "title": "Old enough to be discredited",
+  "seed_words": [
+    "archaic",
+    "anachronistic",
+    "obsolete",
+    "vestigial",
+    "hidebound"
+  ],
+  "hallucinated": null,
+  "core": "All five describe something the world has moved past — old in a way that isn't merely old, but *wrong now*. The differences are in what the pastness attaches to and how much contempt rides along: whether a successor exists, whether the thing still functions, whether it's out of use or merely out of place, and whether the fault lies with the object or with the people defending it. Some are clinical labels a scientist could use; others are insults dressed as description.",
+  "words": [
+    {
+      "word": "obsolete",
+      "nuance": "The only one that requires a **successor**. Something newer did the job better and the world rerouted — that's the whole claim. It says nothing about rigidity or absurdity, just displacement, which is why it's the coldest of the five when aimed at a person: not behind the times, simply no longer needed."
+    },
+    {
+      "word": "archaic",
+      "nuance": "Marks **disuse**, not replacement. The thing may still work fine; nobody uses it. It's the only member with a genuinely neutral technical life (Archaic Greek, an archaic verb form) — the sneer appears only when you aim it at a living institution and imply it should have been retired with the vocabulary."
+    },
+    {
+      "word": "vestigial",
+      "nuance": "The only one that insists the thing is **still there and doing nothing**. Not gone, not replaced — a shrunken leftover of something formerly functional. Borrowed from biology, it keeps the detachment: it diagnoses rather than condemns, and it's the wrong word for anything that still performs its job, however badly."
+    },
+    {
+      "word": "anachronistic",
+      "nuance": "The complaint is **misplacement in time**, not disuse — the thing sits in an era it doesn't belong to. Uniquely, it can be a plain factual error (a wristwatch in a Roman epic) with no judgment at all; the GRE's sense is drier and nastier, saying a surviving rule is *absurd* to still exist, not merely superseded."
+    },
+    {
+      "word": "hidebound",
+      "nuance": "The only one that blames **people, not objects**. It attacks the mindset clinging to old ways rather than the ways themselves, and adds stubbornness and closed-mindedness that none of the others carry. Nothing inanimate can be hidebound — a floppy disk can't refuse to change."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"old\": watch whether the sentence supplies a replacement (obsolete), a still-present but useless remnant (vestigial), a time mismatch (anachronistic), or human resistance to change (hidebound)."
+}

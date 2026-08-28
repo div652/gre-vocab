@@ -8,5 +8,25 @@
     "fractious",
     "truculent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe bad temper as a **standing quality** rather than a passing mood — the person (or group) is primed to flare, and you can predict it. They are all negative, and all imply the observer has stopped excusing the behaviour. What separates them is the *shape* of the anger: how much dignity it's granted, whether it points outward at an opponent or inward as a sulk, and whether it threatens anyone or merely wears them out.",
+  "words": [
+    {
+      "word": "irascible",
+      "nuance": "The only one purely about a **low ignition point** — it says nothing about how the anger behaves once lit: no sulking, no squabbling, no menace. Uniquely, it can be half-affectionate, applied to the formidable old professor or the great difficult conductor, admiring the fuse it describes."
+    },
+    {
+      "word": "petulant",
+      "nuance": "Attacks the **scale** of the grievance, not its heat: the trigger was trivial and the reaction was a child's. Alone in this group it makes the angry person ridiculous rather than difficult or dangerous — a petulant man is not feared, he is embarrassing."
+    },
+    {
+      "word": "fractious",
+      "nuance": "The only one that works on a **collective** — a fractious coalition or parliament squabbles internally and may fly apart. Of a person it's the nurse's or nanny's word for a cranky child or resistant patient: a nuisance to manage, never a threat, and always said by someone with the upper hand."
+    },
+    {
+      "word": "truculent",
+      "nuance": "The only genuinely **menacing** one: sullen and combative at once, glowering and daring you to start something. It typically attaches to someone under authority — the truculent witness, teenager, defendant — refusing to cooperate, and it alone also describes prose, meaning savagely harsh and out to wound."
+    }
+  ],
+  "exam_note": "The trap is reading them as interchangeable synonyms for \"angry,\" when context fixes exactly one: a splintering coalition takes **fractious**, a sulk over nothing takes **petulant**, a hostile refusal to cooperate takes **truculent**, a lifelong short fuse takes **irascible**."
 }

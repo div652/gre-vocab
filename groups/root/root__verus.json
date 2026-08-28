@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__verus",
-  "title": "Root: vērus (true)",
+  "title": "Root: vērus (true) — asserting it, having it, faking it",
   "seed_words": [
     "aver",
     "veracity",
     "verisimilitude"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three descend from Latin *vērus*, \"true,\" but each fastens onto a different link in the chain between a fact and the person reporting it. One is the act of putting a claim forward as true; one is the property of being true (and of being the kind of source that tells the truth); one is the mere look of truth, which can sit on something entirely false. All three are formal enough that they signal courtroom, criticism, or reportage rather than ordinary speech.",
+  "words": [
+    {
+      "word": "aver",
+      "nuance": "The only verb here — an **act**, not a quality. **Aver** is the moment a speaker stakes their own credibility on a statement, usually against doubt: it says nothing about whether the claim is true, only that the person refuses to hedge. Its object is always a proposition (*averred that…*), never a text or a performance."
+    },
+    {
+      "word": "veracity",
+      "nuance": "The **actual** truth-value, and the trait of a habitual truth-teller. Alone in this group it can be predicated of a person as a standing virtue, and it is the only one that presumes real correspondence to fact — which is why it lives in the negative: what gets *questioned* or *disputed* is whether the claim is genuinely true, not whether it sounds true."
+    },
+    {
+      "word": "verisimilitude",
+      "nuance": "Appearance only, and deliberately silent about fact — a forgery or a lie can have plenty of it. It attaches to **made things** (a novel, a set, a performance, an alibi) and is critics' cool praise for craft; you cannot verisimilitude a claim or possess it as a character trait."
+    }
+  ],
+  "exam_note": "The trap is treating **verisimilitude** as a synonym for truth — in sentence equivalence it pairs with *plausibility* and *lifelikeness*, and a context conceding something is fabricated still supports it, where **veracity** would be wrong."
 }

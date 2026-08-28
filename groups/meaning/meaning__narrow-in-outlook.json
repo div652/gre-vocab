@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__narrow-in-outlook",
-  "title": "Narrow in outlook",
+  "title": "Narrow in Outlook: Horizons That Stop Too Soon",
   "seed_words": [
     "parochial",
     "provincial",
@@ -9,5 +9,29 @@
     "myopic",
     "philistine"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Each of these accuses someone of a horizon that ends too early — the charge is limited range, not limited intelligence, and all of them can be levelled at a person who is perfectly sharp inside their own boundary. All are negative, and all are spoken from a position of assumed width, so each says something about the speaker's vantage as well as the target's limits. What separates them is *where the boundary sits*: at the edge of a parish, at the edge of the capital's influence, at the water's edge, at the end of the current quarter, or at the door of the art gallery.",
+  "exam_note": "The choices differ by axis, not by strength: the context sentence must tell you whether the boundary is spatial (**parochial**, **provincial**, **insular**), temporal (**myopic**), or a matter of taste (**philistine**) — so look for \"long-term consequences\" or \"the arts\" before you look for \"narrow.\"",
+  "words": [
+    {
+      "word": "parochial",
+      "nuance": "The boundary is a faction or institution, and the giveaway is **stakes**: parochial concerns and parochial disputes are squabbles so small no outsider could be made to care. Unlike **insular**, it implies no wall — the parochial can be surrounded by the wider world and still be arguing about the church roof."
+    },
+    {
+      "word": "provincial",
+      "nuance": "The only one with a live geographic hierarchy in it — centre versus edge — and the only one that also indicts **taste**, not just range: the provincial mistake local custom for universal law. It's the word the capital uses about everyone else, so it exposes the speaker's snobbery more than any of the others, and it alone works as a noun for a person defined by where they come from."
+    },
+    {
+      "word": "insular",
+      "nuance": "The boundary here is a wall: no traffic in from outside, and no felt need for any. **Insular** adds complacency the others don't — the isolation is comfortable, even chosen — and it's the coolest and most clinical of the group, a diagnosis you can apply to a whole academic field or nation in serious prose without sounding like you're sneering."
+    },
+    {
+      "word": "myopic",
+      "nuance": "The odd one out: the axis is **time**, not territory. A myopic government can be cosmopolitan, well-travelled and globally engaged — it just can't see past the next election. It attaches to policies, strategies and planning rather than to characters, and it often concedes cleverness: the myopic solution usually works brilliantly this quarter."
+    },
+    {
+      "word": "philistine",
+      "nuance": "Not narrow *range* but narrow **values** — a positive contempt for art and ideas in favour of what pays or pleases. It's the only active, smug charge here (the others describe people who simply never looked further; the philistine looked and sneered), the only true insult rather than a diagnosis, and the one that most loudly announces the speaker's own cultivation."
+    }
+  ]
 }

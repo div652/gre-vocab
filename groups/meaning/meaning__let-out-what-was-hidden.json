@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__let-out-what-was-hidden",
-  "title": "Let out what was hidden",
+  "title": "Made Known: Disclosed, Let Slip, or Duly Told",
   "seed_words": [
     "divulge",
     "betray",
     "apprise"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three move information from someone who has it to someone who doesn't, and all three are formal enough to look interchangeable in a sentence about disclosure. What separates them is two questions: was the information under a seal, and did the discloser mean to release it? One requires a secret broken on purpose, one requires a secret escaping against the owner's will, and one requires no secret at all — only an obligation to inform.",
+  "exam_note": "The GRE stacks these as look-alike \"disclose\" options and decides the question on whether the passage says the information was confidential and whether the release was willed — check for a seal and for intent before picking.",
+  "words": [
+    {
+      "word": "divulge",
+      "nuance": "**Divulge** is the deliberate one: an agent chooses to unseal a confidence — names the source, states the settlement figure. Because the choice was theirs, the sentence can blame them, and the objects are nameable secrets (a name, a sum, a plan), not symptoms."
+    },
+    {
+      "word": "betray",
+      "nuance": "**Betray** is the one nobody chooses: the subject is usually a small physical or verbal tell — a tremor, a pause, an overprecise denial — and it acts *against* the person it belongs to. Where divulging is done by a person, betraying is done to them by a detail; the treachery is built into the word even when no traitor exists."
+    },
+    {
+      "word": "apprise",
+      "nuance": "**Apprise** has no secret in it at all — the information was owed, not hidden, and the sentence rewards rather than blames the teller for handing it over. Watch the grammar: it takes *of* and a human object (\"apprised the board of the delay\"), while the other two take the information itself as their object."
+    }
+  ]
 }

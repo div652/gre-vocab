@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__dull-in-a-reviewer-s-register",
+  "title": "Dull, in a reviewer's register",
+  "seed_words": [
+    "ponderous",
+    "plodding",
+    "soporific",
+    "tedious",
+    "interminable",
+    "monotonous"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these is a verdict of \"boring,\" delivered in the voice of someone reviewing a book, a speech, or a shift at work. They differ by *which* feature of the dullness gets blamed: sheer weight, slow pace, sleep-inducing effect, worn-down patience, unbearable length, or unvarying sameness. They also differ in how much they reveal about the complainer — some sound like measured criticism, others like a trapped person venting. The GRE cares about that split, because the sentence usually supplies the cause of the dullness and expects you to match it.",
+  "exam_note": "Sentence-equivalence pairs these off each other constantly — the clue is the *cause* named in the sentence (a droning sameness → monotonous; a speech that won't end → interminable; heavy self-serious prose → ponderous), so read for the diagnosis, not the insult.",
+  "words": [
+    {
+      "word": "ponderous",
+      "nuance": "The only one that blames **weight and self-seriousness**: the thing is dull because it is grandly, effortfully heavy — a style straining after significance. Alone in the group it retains a literal physical sense (a ponderous gait, ponderous machinery), and applied to prose it implies pretension, which none of the others do."
+    },
+    {
+      "word": "plodding",
+      "nuance": "Blames **pace and lack of spark**, not bulk — the trudge of one foot after another. Uniquely it can carry grudging respect: the plodding detective is dogged and gets there, so the charge is unimaginative rather than worthless. Aimed at a mind, it means no capacity for a leap."
+    },
+    {
+      "word": "soporific",
+      "nuance": "Names the **effect on the audience** — you fell asleep — rather than any property of the thing. It's the arch, bookish euphemism of the set, and the only one with a straight technical use (a sedative drug) where no insult is intended. Choosing it signals a speaker too well-mannered to say \"boring,\" which is the sting."
+    },
+    {
+      "word": "tedious",
+      "nuance": "Blames **worn-out patience over time**: easy, endless, and samey, not hard. It's the mildest and most usable of the group — the word you can put in a written report without sounding like you're whining, unlike the more theatrical options here."
+    },
+    {
+      "word": "interminable",
+      "nuance": "Blames **length alone** and nothing else — no claim about weight, sameness, or pace, only that it would not stop. It's the most emotionally exposed word of the six: it reports the speaker's suffering, not the thing's qualities, and attaches to what you're trapped inside (sermons, queues, delays)."
+    },
+    {
+      "word": "monotonous",
+      "nuance": "Blames **absence of variation** — one note, one task, one view — where the others allow plenty of variety inside their dullness. It's the one that works equally on sound, labour, and landscape, and the sameness is the whole indictment: remove the repetition and the complaint disappears."
+    }
+  ]
+}

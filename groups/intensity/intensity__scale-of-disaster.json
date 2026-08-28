@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__scale-of-disaster",
+  "title": "Scale of disaster",
+  "seed_words": [
+    "calamitous",
+    "catastrophic",
+    "cataclysmic"
+  ],
+  "hallucinated": null,
+  "core": "All three sit above *disastrous* on the severity ladder: they describe ruin large enough that no one is going to patch it up afterwards. They share a formal, headline-and-history-book register, and all three are routinely inflated in casual speech precisely because their real meanings are so absolute. What actually separates them is not how bad, but *what kind* of bad — whether the emphasis falls on the wreckage a choice left behind, on a system ceasing to function all at once, or on an upheaval that remakes the landscape.",
+  "exam_note": "Severity won't decide these — the sentence will. Look for the agency clue (a decision, a policy, a blunder → **calamitous**), the failure clue (a structure, a system, all at once → **catastrophic**), or the upheaval clue (an era ends, an industry realigns → **cataclysmic**).",
+  "words": [
+    {
+      "word": "calamitous",
+      "nuance": "The only one of the three that quietly assigns blame — it attaches to a *decision*, a policy, a campaign, and implies someone made it. Its focus is the wreckage in the aftermath rather than the moment of destruction, which is why historians and editorial writers reach for it: **calamitous** is a verdict passed later, not a description of the bang."
+    },
+    {
+      "word": "catastrophic",
+      "nuance": "The engineering word: it names a system that stopped working all at once instead of degrading gracefully — *catastrophic failure*, *catastrophic loss*. **Catastrophic** is about totality and suddenness, and it stays agnostic about cause; a hurricane and a design flaw can both be catastrophic, and neither is being accused of anything."
+    },
+    {
+      "word": "cataclysmic",
+      "nuance": "Adds violence *and* transformation — the old order is gone and what replaces it is unrecognisable. Because the emphasis is on upheaval rather than damage, **cataclysmic** is the only one here that survives without casualties: a *cataclysmic shift* in an industry means total realignment, not ruin. It also commits you to world-altering scale, so the bar is highest."
+    }
+  ]
+}

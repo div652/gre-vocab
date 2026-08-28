@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__small-persistent-annoyance",
-  "title": "Small persistent annoyance",
+  "title": "The Drip, Not the Fire: Small Persistent Annoyance",
   "seed_words": [
     "irksome",
     "nettlesome",
     "vexation",
     "exasperated"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit at the low end of the anger scale: irritation that comes from repetition and pettiness rather than from any single outrage. Nothing here is a fire — it's a drip, and the sufferer's characteristic gesture is a sigh, not a shout. The real dividing lines are grammatical and directional: some name the *thing* that grates, one names the *feeling*, one describes the *person* the grating has worn down. Register splits too, from plain complaint to the vocabulary of judges and editorialists.",
+  "words": [
+    {
+      "word": "irksome",
+      "nuance": "**Irksome** describes the annoying thing, and the annoyance is *tedium* — a pointless step, a duty you must repeat, a chore with no interest in it. It is the mildest and most trivial word here: an irksome task is boring and wearing, not hard. Its faint bookishness signals a speaker registering complaint while making clear they're too civilised to make a scene."
+    },
+    {
+      "word": "nettlesome",
+      "nuance": "**Nettlesome** also describes the thing, but the thing is a *problem that resists solution* — it stings, it keeps coming back, it won't be settled cleanly. Where irksome means dull, nettlesome means thorny and genuinely difficult, which is why it attaches to questions, issues, and details rather than to chores. This is the register of the editorial page and the bench."
+    },
+    {
+      "word": "vexation",
+      "nuance": "**Vexation** is the only noun, and the only word that names the *emotion itself* (or, by extension, its source). It adds helplessness: the teeth-grinding of someone stuck with an obstacle they have no power to remove. You can feel vexation; you cannot feel irksome. Legal usage keeps a sharper edge alive in *vexatious litigation* — suits filed to harass."
+    },
+    {
+      "word": "exasperated",
+      "nuance": "**Exasperated** points at the *person*, not the irritant, and marks the endpoint: patience already spent. It requires a history — the fifth explanation, the third failed attempt — so it cannot describe a first offense the way the others can describe a first chore. Powerless and deflated, it collocates with *sigh*, *groan*, *eye-roll*, never with a raised fist."
+    }
+  ],
+  "exam_note": "The exam swaps these across grammatical roles — a blank describing a worn-out *person* takes exasperated, a blank describing the *task* takes irksome, the *feeling* takes vexation — and separates irksome from nettlesome by whether the annoyance is merely tedious or actually unsolvable."
 }

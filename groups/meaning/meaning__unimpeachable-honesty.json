@@ -7,5 +7,21 @@
     "veracity",
     "scrupulous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three certify that someone or something can be trusted, but they certify different objects. One vouches for a person's incorruptibility in a position of trust; one vouches for whether a statement is actually true; one vouches for the care a conscience takes while doing a job. Confusion comes from the shared halo of \"honest\" — the work is remembering that a claim can have truth, a person can have character, and an action can have care, and these words don't swap.",
+  "words": [
+    {
+      "word": "probity",
+      "nuance": "**Probity** attaches to a person holding something that isn't theirs — funds, an office, a public trust — and it is the verdict of an institution, not a friend. It is retrospective and ceremonial: you get praised for probity in an obituary or cleared of doubt by an audit, never complimented on it over dinner."
+    },
+    {
+      "word": "veracity",
+      "nuance": "**Veracity** is the only one that attaches to a *statement* — a document, a testimony, an account can have it, and a person has it only as the reliability behind their claims. It appears mostly under attack (*questioned, disputed, doubts about*), so it signals an investigation in progress rather than a settled tribute."
+    },
+    {
+      "word": "scrupulous",
+      "nuance": "**Scrupulous** is the only adjective, and it describes conduct in the moment rather than reputation after the fact: refusing the shortcut nobody would have caught. It alone extends to sheer exactness — *scrupulous notes*, *scrupulous attention* — where the honesty becomes care owed to the task."
+    }
+  ],
+  "exam_note": "The trap is swapping the object: sentence-completion stems put **veracity** where money and office demand **probity**, and lean on *unscrupulous* in a purely procedural context to make you read the moral sense as mere sloppiness."
 }

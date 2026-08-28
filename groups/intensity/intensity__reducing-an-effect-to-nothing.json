@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__reducing-an-effect-to-nothing",
+  "title": "Turning it down vs. taking it to zero",
+  "seed_words": [
+    "curb",
+    "mitigate",
+    "nullify",
+    "eradicate"
+  ],
+  "hallucinated": null,
+  "core": "All four verbs act on something unwanted — a force, a harm, a practice — and reduce its power. What separates them is how much survives the operation and what exactly gets shrunk: the thing's momentum, the severity of the damage it does, its legal force, or its existence. The bottom of the scale leaves the thing running at a lower setting; the top leaves nothing to run. The two words at the top both reach zero, but not zero of the same thing.",
+  "exam_note": "Sentence-equivalence traps hang on the remainder: any clause conceding the thing persists (\"though flooding still occurred\") kills nullify/eradicate, and any clause saying it counted for nothing (\"the raise vanished into rising rents\") kills curb/mitigate.",
+  "words": [
+    {
+      "word": "curb",
+      "nuance": "**Curb** takes something with its own momentum and holds the reins — spending, appetite, a tongue, emissions. It says nothing about damage; it says the thing was pulling hard and is now kept within bounds, still running. It is also the only one of the four whose object can be neutral or even good in itself (enthusiasm, growth) rather than a harm."
+    },
+    {
+      "word": "mitigate",
+      "nuance": "**Mitigate** works on severity, not momentum: the bad event still lands, you have only softened the blow. Its object must be a harm, risk, or penalty — you curb spending but you cannot mitigate it. Cool and institutional (insurers, engineers, judges), and applied to conduct it means *makes the offence look less bad*, never *excuses it*."
+    },
+    {
+      "word": "nullify",
+      "nuance": "**Nullify** takes the effect to zero while the thing itself remains — the contract still exists, it just holds no force; the raise was still granted, it just bought nothing. Two flavours: an authority striking something off the record, or two quantities cancelling exactly. Nothing survives in reduced form, which is what separates it from *mitigate*."
+    },
+    {
+      "word": "eradicate",
+      "nuance": "**Eradicate** destroys the source, not merely its effect — root and all, so it cannot regrow, which is why permanence is built in. Where *nullify* leaves the thing standing but powerless, **eradicate** leaves nothing standing. It approves of itself: the object is smallpox, poverty, corruption, pests, and the register is campaigns and five-year plans."
+    }
+  ]
+}

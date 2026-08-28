@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__plain-verbs-doing-abstract-work",
+  "title": "Plain verbs doing abstract work",
+  "seed_words": [
+    "inform",
+    "render",
+    "coin",
+    "prime",
+    "reflect"
+  ],
+  "hallucinated": null,
+  "core": "These are short, ordinary verbs you have known since childhood — which is exactly the problem. Each carries a second, more abstract sense that the everyday meaning crowds out, and the GRE writes its sentence around the abstract one. You don't misread them because they're hard; you misread them because you're sure you already know them and stop reading. The tell is usually the grammar: an inanimate subject, an adjective hanging off the end, an object that couldn't possibly take the literal sense.",
+  "words": [
+    {
+      "word": "inform",
+      "nuance": "**Inform** is the only one here whose tested sense reverses direction: nothing is handed over, something soaks in. The subject is an abstraction (a conviction, an exile, a training in law) and the object is a whole body of work it silently shapes — no speaker, no listener, no fact transferred. If you can ask *who told whom*, you're on the wrong sense."
+    },
+    {
+      "word": "render",
+      "nuance": "**Render** is the one you disambiguate by sentence shape, not by meaning: an adjective trailing behind it (*rendered moot, rendered inert*) locks in \"cause to become\" every time. It is also the formal-register member of the group — you render what is owed or due (aid, a verdict), which is why it sounds legal where *inform* and *reflect* sound merely thoughtful."
+    },
+    {
+      "word": "coin",
+      "nuance": "**Coin** is the narrowest here — its abstract sense takes only language as its object, never a device, method, or plan. It also smuggles in two claims the others don't: authorship (someone specific minted it) and uptake (other people picked it up). A word nobody repeats was never coined."
+    },
+    {
+      "word": "prime",
+      "nuance": "**Prime** is the trap of quality vs. sequence: the familiar adjective means *best*, but the tested verb means only *beforehand* — a primed surface, pump, or witness is readied, not improved. Alone in this group it turns sinister with human objects, where preparing someone shades into coaching or setting them up."
+    },
+    {
+      "word": "reflect",
+      "nuance": "**Reflect** carries two abstract senses, and the second is the sneaky one: in *the delay reflects poorly on management*, the grammatical subject is the evidence and the person judged never gets named — blame by ricochet. Its thinking sense is backward-facing and unhurried, reviewing what's already done, unlike deliberating (toward a decision) or pondering (at a puzzle)."
+    }
+  ],
+  "exam_note": "Sentence equivalence blanks pick these because both everyday and abstract senses are grammatical — only the inanimate subject or the trailing adjective reveals which one is in play."
+}

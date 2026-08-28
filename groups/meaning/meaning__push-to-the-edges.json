@@ -8,5 +8,25 @@
     "peripheral",
     "fringe"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "marginalize",
+      "nuance": "The only one about **power and voice**: its object is people, and the harm is being left present but unheard. Uniquely agentless — institutions and defaults do it with nobody deciding to, which is why you almost always meet it as *marginalized*, with no named villain."
+    },
+    {
+      "word": "relegate",
+      "nuance": "The one that requires a **doer and a destination**: someone relegates X *to* the bench, the basement, a footnote. A single, deliberate, downward move with a shrug attached — the thing wasn't worth the better spot — and it lands on tasks, ideas and traditions as readily as on people."
+    },
+    {
+      "word": "peripheral",
+      "nuance": "Not an act but a **claim about status**, and the polite one. It concedes your point is real while sliding it off the table — softer than *trivial* (contemptuous) or *irrelevant* (flatly disconnected). Watch for it as a debater's move; also the only word here that means a printer or mouse."
+    },
+    {
+      "word": "fringe",
+      "nuance": "Position measured against **legitimacy**, not importance: it says the centre is where the sensible people are (*lunatic fringe*, *fringe theory*). Attaches to groups and beliefs rather than tasks, and flips to a compliment — daring, unofficial — when the centre is the establishment (*fringe theatre*)."
+    }
+  ],
+  "core": "All four locate something away from the centre — the edge of a society, an argument, a hierarchy, a movement — rather than destroying or denying it. Nothing here is banned or refuted; it is simply put somewhere it can be ignored. The differences are who does the pushing, what gets pushed, and whether the edge means powerless, demoted, secondary, or disreputable.",
+  "exam_note": "Sentence-equivalence traps swap **relegate** for **marginalize** — but *relegate* wants an explicit agent and a *to*-destination, while *marginalize* wants a passive subject and no villain; and **peripheral** is the answer when the sentence grants the point exists, where *trivial* or *irrelevant* would overshoot."
 }

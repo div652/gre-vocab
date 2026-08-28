@@ -1,0 +1,47 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__church-words-for-secular-devotion",
+  "title": "Church words for secular devotion",
+  "seed_words": [
+    "anoint",
+    "canonize",
+    "deify",
+    "venerate",
+    "acolyte",
+    "disciple",
+    "exorcise"
+  ],
+  "hallucinated": null,
+  "core": "These are all sacramental machinery — rites of the altar, ranks of the clergy, the making and unmaking of holy things — lent out to politics, criticism, business and fandom. The literal sense is rarely what a GRE passage wants; what carries over is the *incense*, the implication that ordinary human judgment has been replaced by something ritual, hereditary or unquestionable. That residue is what makes them treacherous: the same word can confer dignity or quietly accuse the people doing the revering. The confusion comes from lumping them as \"religious praise words\" when they differ sharply in who acts, on whom, and with what authority.",
+  "words": [
+    {
+      "word": "venerate",
+      "nuance": "The one that's purely an **attitude** — no ceremony, no office, no appointment, just deep reverence directed at age, holiness or the honoured dead. It's the baseline feeling the other elevation words dramatize into an act."
+    },
+    {
+      "word": "anoint",
+      "nuance": "Alone in this group it's about **succession**: it hands over a role, not just esteem. The chooser matters as much as the chosen — someone with standing designates an heir, which is why *self-anointed* is such an efficient insult."
+    },
+    {
+      "word": "canonize",
+      "nuance": "The **institutional** one. A church, an academy, a syllabus, a critical consensus does it — never an individual fan — and the point is permanence: the reputation is closed to further argument."
+    },
+    {
+      "word": "deify",
+      "nuance": "The **extreme** end, and the one that indicts the worshipper rather than describing the worshipped. Where venerating leaves criticism theoretically possible, deifying abolishes it; the writer using this word is telling you the admirers have lost their judgment."
+    },
+    {
+      "word": "disciple",
+      "nuance": "Bound to a **teaching** and a teacher: learns the doctrine, lives by it, propagates it. Carries intellectual content, which is why it can be genuinely respectful — one can be a distinguished disciple of a distinguished thinker."
+    },
+    {
+      "word": "acolyte",
+      "nuance": "Bound to a **person's service**, not their ideas — junior, hovering, useful. Almost always faintly contemptuous: it says the follower assists and defers where a disciple would at least have absorbed something."
+    },
+    {
+      "word": "exorcise",
+      "nuance": "The **reversal** — the only word here that removes rather than elevates, and the only one whose object is unwanted. Requires something that clings and resists (a guilt, a reputation, an old defeat), so it implies struggle and ceremony, unlike *dispel*, where the thing simply evaporates."
+    }
+  ],
+  "exam_note": "The trap is reading them as interchangeable honorifics: the exam tests *who performs the act* (institution vs. individual vs. predecessor) and whether the sentence's tone is admiring or accusing — deify and acolyte usually signal the author's disapproval, canonize and anoint signal conferred authority, venerate signals only the feeling."
+}

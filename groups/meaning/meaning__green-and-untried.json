@@ -8,5 +8,25 @@
     "callow",
     "dilettante"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four label someone (or something) not yet proven at a pursuit, and all four invite an outsider to judge that unproven state. What separates them is *why* the person hasn't proven themselves and *what the label predicts*: recent arrival, unfinished growth, unformed character, or an unwillingness to do the work at all. Three of them concern time — give it a few years and the condition cures itself. One of them doesn't, and that's the trap.",
+  "words": [
+    {
+      "word": "neophyte",
+      "nuance": "The only one about **admission**: a threshold has been crossed and the insiders are now watching. Says nothing about talent or promise — a neophyte may be brilliant, he is simply new *to us*. Faintly clerical, faintly condescending, and almost always written about someone rather than said to them."
+    },
+    {
+      "word": "fledgling",
+      "nuance": "The only one that **grants potential** — untested and fragile, but already flying. It forecasts survival where the others forecast nothing or worse, and it attaches far more readily to **ventures and institutions** (a fledgling republic, a fledgling label) than to a person."
+    },
+    {
+      "word": "callow",
+      "nuance": "Not about skill but about **character never tested by life** — the confidence of someone talking past his own experience. It is the group's put-down from above, an older speaker's verdict on a younger one, and it lives glued to its noun: *a callow youth*."
+    },
+    {
+      "word": "dilettante",
+      "nuance": "The outlier: **time will not fix this one**, because the person has chosen not to commit. The charge is pretension, not inexperience — dabbling for pleasure and performing an expertise never earned. A twenty-year dilettante is perfectly coherent; a twenty-year fledgling is not."
+    }
+  ],
+  "exam_note": "Watch for **dilettante** slotted where the sentence only supports \"beginner\" — it needs a cue of pretension or dropped commitment, not mere newness; conversely, a sentence blaming shallow dabbling will not accept **neophyte** or **fledgling**."
 }

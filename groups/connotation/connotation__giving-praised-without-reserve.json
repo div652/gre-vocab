@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__giving-praised-without-reserve",
+  "title": "Giving, praised without reserve",
+  "seed_words": [
+    "munificent",
+    "beneficent",
+    "magnanimous",
+    "altruistic",
+    "benevolent"
+  ],
+  "hallucinated": null,
+  "core": "All five are formal praise for someone who does good by others, and all five carry a faint whiff of the giver's superiority — they are words for the party who *has* something to give. What separates them is which part of the giving gets praised: the wish, the deed, the sum, the grudge forgone, or the motive behind it all. Because they are all approving and all Latinate, the exam can swap one for another and the sentence still *sounds* right; only the specific object of praise rules four of them out.",
+  "words": [
+    {
+      "word": "benevolent",
+      "nuance": "Praises the **disposition** — the wish, not the writing of the cheque. It is the only word here that can be fully satisfied by someone who has done nothing at all, which is why *benevolent dictator* and *our benevolent employer* turn sardonic so easily."
+    },
+    {
+      "word": "beneficent",
+      "nuance": "Praises the **deed** — benefits actually conferred, funds actually disbursed. Same root and same downward tilt as *benevolent*, but the good has already landed on someone; also keep it off things (a *beneficial* climate, a **beneficent** patron)."
+    },
+    {
+      "word": "munificent",
+      "nuance": "Praises the **amount**. It says nothing about kindness of heart or purity of motive — it measures the gift and implies the giver could afford it. A grudging donor who endows a wing is still munificent; a warm friend who splits the bill never is."
+    },
+    {
+      "word": "magnanimous",
+      "nuance": "Praises **restraint**, not giving. It requires a rival, a loser, or a wrong: you had a grudge coming and dropped it. Money is irrelevant here — what is handed over is the right to retaliate."
+    },
+    {
+      "word": "altruistic",
+      "nuance": "Praises the **motive**, and absolutely — zero self-interest, cost borne by the actor. It is the only one here that a small anonymous sacrifice satisfies and a large public endowment may not, and the only one an examiner can undercut by revealing that the giver got something out of it."
+    }
+  ],
+  "exam_note": "The favourite trap is **benevolent** vs. **beneficent** (wish vs. deed); the second is offering **munificent** or **altruistic** where the sentence supplies a defeated rival or a forgiven wrong — that context belongs only to **magnanimous**."
+}

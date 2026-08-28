@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__settled-beyond-doubt-vs-still-in-doubt",
+  "title": "Settled beyond doubt vs. still in doubt",
+  "seed_words": [
+    "incontrovertible",
+    "conclusive",
+    "axiomatic",
+    "ironclad",
+    "corroborate",
+    "substantiate",
+    "dubious",
+    "conjectural",
+    "tenuous",
+    "tentative",
+    "suspect",
+    "speculate"
+  ],
+  "hallucinated": null,
+  "core": "Every word here rates how much doubt a claim still admits — and, just as often, *where* the doubt comes from. One half describes claims that are closed: nothing left to argue, no loophole, no need for proof at all. The other half describes claims still hanging in the air: too thin, too unsupported, too fishy, or simply not final yet. Two of them are verbs for the act of shoring a claim up, which is the bridge between the halves — and the real trap is that \"not proven\" splits several ways: no evidence, weak evidence, evidence that smells wrong, and evidence not yet in.",
+  "words": [
+    {
+      "word": "incontrovertible",
+      "nuance": "**Incontrovertible** grades the *proof* and sits at the ceiling: the counter-argument has nowhere to stand. Unlike **ironclad**, it doesn't imply anyone is attacking; unlike **conclusive**, it isn't tied to settling one particular question — it's a standing property of the fact, however trivial that fact is."
+    },
+    {
+      "word": "conclusive",
+      "nuance": "**Conclusive** is about a *question being closed*, not a fact being unassailable — evidence decisive enough to end the inquiry. It's an on/off switch, which is why it lives in the negative: *inconclusive tests*, *no conclusive evidence*. Where **incontrovertible** is a verdict on a claim, conclusive is a verdict on the investigation."
+    },
+    {
+      "word": "axiomatic",
+      "nuance": "**Axiomatic** opts out of the evidence game entirely: no proof is offered because none is thought necessary. Every other word on the proven side reports how strong the backing is; this one says there is no backing and that's fine. Watch the rhetoric — \"it is axiomatic that…\" usually rules a premise out of debate before anyone can touch it."
+    },
+    {
+      "word": "ironclad",
+      "nuance": "**Ironclad** promises *invulnerability to attack*, so it attaches to things people are actively trying to break: an alibi, a contract, a guarantee, a rule. The point is the absence of loopholes, not the weight of evidence — a contract can be ironclad with no proof involved at all. Only word here with an approving ring."
+    },
+    {
+      "word": "corroborate",
+      "nuance": "**Corroborate** always arrives *second and from elsewhere*: another witness, another instrument, another document agreeing with a claim already on the table. It supports without proving — corroborated evidence still isn't **conclusive**. Your own repetition corroborates nothing."
+    },
+    {
+      "word": "substantiate",
+      "nuance": "**Substantiate** puts the burden on *the person who spoke*: put something solid under your own assertion or it collapses. Contrast **corroborate**, which requires an independent second party; substantiating is a demand made of the claimant, aimed at claims already under suspicion — charges, rumours, a story."
+    },
+    {
+      "word": "dubious",
+      "nuance": "**Dubious** questions *honesty*, not strength — a raised eyebrow at some accounting or a character, with the accusation left unstated and deniable. It's the only word here that also points inward at the doubter (*I'm dubious about his plan*), and the only one that runs ironic (*a dubious distinction*)."
+    },
+    {
+      "word": "conjectural",
+      "nuance": "**Conjectural** means reasoned but *undocumented* — the cool label a historian puts on a reconstruction they can't source. No dishonesty is implied, unlike **dubious**, and no faulty reasoning, unlike **tenuous**; the deficit is simply that no evidence exists. It demotes an argument from finding to hunch without refuting it."
+    },
+    {
+      "word": "tenuous",
+      "nuance": "**Tenuous** concedes there *is* a connection and says it's a thread. The complaint is the thinness of the link between evidence and conclusion — not its absence (**conjectural**) or its smell (**dubious**). Also used physically of a hold: *a tenuous grasp on power*."
+    },
+    {
+      "word": "tentative",
+      "nuance": "**Tentative** doubts *finality*, not truth — pencil rather than pen, and carrying no criticism: a tentative date, tentative conclusions. Nothing fishy is implied; the matter simply isn't fixed yet. Its second sense reports manner rather than evidence: a tentative knock, a tentative smile, someone testing whether the ground holds."
+    },
+    {
+      "word": "suspect",
+      "nuance": "**Suspect** is strictly passive — it describes what *attracts* doubt, never who feels it (that's *suspicious*, or sense 1 of **dubious**). It's the professional's dry understatement for \"this may be garbage\": cooler than *fraudulent*, far more damning than *unproven*, and usually aimed at data, methods, or motives."
+    },
+    {
+      "word": "speculate",
+      "nuance": "**Speculate** is the *act*, the only verb on the doubtful side: reasoning your way to a conclusion you can't prove. It sits above *guess* (there is real inference) and below *infer* (there is no real evidence), and it self-flags — \"I won't speculate\" concedes ignorance. Separate money sense: betting on price movement, and *speculator* is rarely a compliment."
+    }
+  ],
+  "exam_note": "The exam rarely tests proven-vs-doubtful; it tests which *flavour* of doubt — no evidence (conjectural, speculate), weak evidence (tenuous), evidence that smells (dubious, suspect), or nothing wrong at all, just not final (tentative) — and pairs corroborate with substantiate to check whether you know if the backing comes from a second party or from the claimant."
+}

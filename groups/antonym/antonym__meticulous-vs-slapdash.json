@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__meticulous-vs-slapdash",
+  "title": "Meticulous vs. slapdash",
+  "seed_words": [
+    "meticulous",
+    "punctilious",
+    "scrupulous",
+    "thorough",
+    "fastidious",
+    "cursory",
+    "perfunctory",
+    "haphazard",
+    "slovenly",
+    "lax",
+    "negligent"
+  ],
+  "hallucinated": null,
+  "core": "Every word here rates how much care went into a piece of work — and all of them are judgements, not measurements. The top half says the care was extreme; the bottom half says it was missing. What separates words *within* each half is never the amount of care but its **flavour**: whether the care is about accuracy, form, or conscience; and, on the failing side, whether the fault was haste, indifference, disorder, habit, slackness, or blameworthy omission. Two words can describe the same botched inspection and accuse the inspector of entirely different sins.",
+  "words": [
+    {
+      "word": "meticulous",
+      "nuance": "**Meticulous** is the baseline the rest are measured against: care aimed squarely at the *accuracy of the detail work*, with no claim about manners or morals. Its private tell is anxiety — the fourth check because the third didn't settle the stomach."
+    },
+    {
+      "word": "punctilious",
+      "nuance": "**Punctilious** care goes to *correct form* — protocol, precedence, etiquette, the salute done right — not to whether the underlying work is accurate. It judges conduct, so it lives in diplomacy and the military, and curdles the moment the forms being guarded stop mattering."
+    },
+    {
+      "word": "scrupulous",
+      "nuance": "**Scrupulous** is the only one here describing a *conscience* rather than a standard of craft. It's about the shortcut refused when nobody would have noticed — so even in its \"exact\" sense the care feels owed, a duty discharged rather than a skill exercised."
+    },
+    {
+      "word": "thorough",
+      "nuance": "**Thorough** praises *coverage*, not finesse: everywhere was checked, nothing was skipped. It implies no talent and no fussiness — the workmanlike option that never tips into excess. Watch its second life as a flat intensifier, where it turns hostile: *a thorough scoundrel*."
+    },
+    {
+      "word": "fastidious",
+      "nuance": "**Fastidious** is the care that has passed the point of comfort and become *hard to please*, with a faint squeamishness about mess and imperfection. Alone in this half it can attach to a person's *taste* rather than their output — the guest who sent the plate back, not the editor who caught the typo."
+    },
+    {
+      "word": "cursory",
+      "nuance": "**Cursory** indicts *speed*: a fast pass over the surface, skipping whatever would take time. It attaches by habit to acts of looking — a cursory glance, reading, inspection — and implies the thing deserved a slow look it didn't get."
+    },
+    {
+      "word": "perfunctory",
+      "nuance": "**Perfunctory** indicts *indifference*, not haste. Crucially the act is completed — the apology offered, the inspection performed — but mechanically, as compliance without interest. It's the word for a ritual gone through, and it insults the person's engagement rather than their competence."
+    },
+    {
+      "word": "haphazard",
+      "nuance": "**Haphazard** indicts the *absence of a plan*: nobody was really choosing, things were thrown together and left to chance. Unlike the others it criticises the shape of a process rather than an attitude — haphazard record-keeping, a haphazard search — and it can be done slowly and earnestly and still be haphazard."
+    },
+    {
+      "word": "slovenly",
+      "nuance": "**Slovenly** is the only one that carries *grubbiness* and a settled habit: the unwashed dishes, the grimy collar, and by extension prose or reasoning of the same character. It is openly contemptuous — a verdict on the person, which is why nobody applies it to themselves."
+    },
+    {
+      "word": "lax",
+      "nuance": "**Lax** attaches to *systems and the people who were supposed to enforce them* — security, oversight, standards, discipline. The failure is letting something go slack rather than doing a job badly; it's the supervisor's sin, and the word an inquiry uses when it isn't ready to say *negligent*."
+    },
+    {
+      "word": "negligent",
+      "nuance": "**Negligent** is the courtroom word: it presupposes a *duty owed* and assigns *blame* for falling below it. It also implies omission — not a wrong act but a right act not done. Careless is a complaint; negligent is a charge."
+    }
+  ],
+  "exam_note": "The GRE rarely asks \\\"careful or careless?\\\" — it asks which *fault* the sentence names, so cursory (too fast) and perfunctory (didn't care, but finished) are the classic paired trap, as are lax (failed to enforce) and negligent (blameworthy failure of duty); it also punishes readers who assume fastidious and punctilious are straight praise."
+}

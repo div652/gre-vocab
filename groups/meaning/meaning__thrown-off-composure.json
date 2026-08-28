@@ -8,5 +8,25 @@
     "flustered",
     "agitate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four involve poise giving way — someone's balance, thread, or calm is disturbed by something outside them. They split along three axes: who occupies the subject slot (the disturbing thing, the person doing the disturbing, or the person disturbed), how visible the damage is, and how long it lasts. Two are momentary and social; one is a small defeat inflicted by an opponent; one is sustained churn that need not involve poise at all.",
+  "words": [
+    {
+      "word": "disconcerting",
+      "nuance": "Describes the **stimulus**, never the victim — a stare, a pause, a mismatched smile *is* disconcerting; a person is disconcert**ed**. The speaker stays fully articulate while saying it, which is the point: it's the cool, faintly clinical word chosen precisely to signal that no panic is involved, only wrong-footedness."
+    },
+    {
+      "word": "discomfit",
+      "nuance": "The only one that implies an **adversary**: someone does it to you, and what collapses is your argument, your poise under cross-examination, your plan. Its old sense of routing an army still colours it — being discomfited is a small defeat with a winner, not just a bad moment. Formal, bookish, and nearly always passive."
+    },
+    {
+      "word": "flustered",
+      "nuance": "The **visible symptom**, and the mildest and briefest: you go pink, lose your thread, start the sentence again. Uniquely, the cause can be pleasant — a compliment flusters you — so it carries no hostility and often a touch of affection, where discomfiting is something done at your expense."
+    },
+    {
+      "word": "agitate",
+      "nuance": "The outlier: it means sustained stirring, not a single moment of lost face, and it reaches beyond people to liquids and to politics. **Agitate** *for* or *against* something — campaign persistently — is the GRE's favourite sense and has nothing to do with anyone's composure."
+    }
+  ],
+  "exam_note": "The trap is usually **agitate**'s political sense (\"agitate for reform\"), planted where the sentence's emotional context baits you toward the \"rattle someone\" reading; secondarily, watch the direction of **disconcerting** vs **discomfit** — one names the cause, the other takes a human object."
 }

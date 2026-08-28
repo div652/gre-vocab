@@ -7,5 +7,21 @@
     "meritorious",
     "estimable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three say \"this deserves praise,\" and all three say it in the cool, formal register of a citation, an editorial, or a chairman addressing the room — never the warm register of a friend. The differences are not in how much praise but in **what the praise attaches to**: the intention behind an act, the act itself, or the person who stands behind both. Each also carries its own institutional flavour, and each has a characteristic backhanded use where the formality itself signals reservation.",
+  "words": [
+    {
+      "word": "laudable",
+      "nuance": "Praises the **aim, not the achievement** — a laudable goal, a laudable attempt, laudable restraint. It is the only one of the three that routinely implies the result fell short: you commend the trying because there is nothing else to commend. Attach it to a finished, successful deed and it sounds faintly like a consolation prize."
+    },
+    {
+      "word": "meritorious",
+      "nuance": "Praise **earned by what was actually done and recognised from above** — the army, the court, the plaque. It attaches to conduct, service, a career, almost never to a person's character directly, and it implies a formal reward is on the table. Its flavour is dutiful and solid rather than brilliant. Uniquely, it has a live legal sense: a meritorious claim has real substance, as opposed to a frivolous one."
+    },
+    {
+      "word": "estimable",
+      "nuance": "Praises **the person, not the deed** — it concerns standing and the respect one is granted on one's merits, so it takes a colleague, an author, an opponent. No institution confers it and no reward follows; it is simply regard, held at arm's length. In debate it is nearly a formula for polite hostility: \"my estimable colleague\" almost always precedes a disagreement."
+    }
+  ],
+  "exam_note": "Two traps: the exam picks the wrong target (a laudable *result*, a meritorious *person*, an estimable *effort*) and expects you not to notice; and it counts on you reading **estimable** as \"able to be estimated\" — note that *inestimable* means priceless, not unworthy."
 }

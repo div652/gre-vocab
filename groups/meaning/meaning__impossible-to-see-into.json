@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__impossible-to-see-into",
-  "title": "Impossible to see into",
+  "title": "Impossible to See Into",
   "seed_words": [
     "opaque",
     "impenetrable",
@@ -9,5 +9,29 @@
     "turbid",
     "obscure"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five say something stands between you and understanding — a text, a face, an institution, a liquid. What separates them is *what* does the blocking and how absolute it is: mere dimness, suspended murk, a solid surface, a sealed interior, or a perfectly visible exterior that still tells you nothing. Some also assign blame, implying the blockage was caused or chosen; others just report that the light isn't getting through.",
+  "words": [
+    {
+      "word": "obscure",
+      "nuance": "The weakest and the only *gradable* one: the light is dim, not blocked, so effort eventually gets you there. It is also the only member with a \"little-known\" sense (*an obscure Belgian poet*) and the only one the GRE tests as a verb — usually meaning to hide by outshining."
+    },
+    {
+      "word": "turbid",
+      "nuance": "The murk is **particulate and suspended** — sediment stirred off the bottom that could still settle. Alone here it is literally about liquid, and figuratively it accuses the writer of clouding something that was clear."
+    },
+    {
+      "word": "opaque",
+      "nuance": "A **solid surface**: light stops dead and nothing comes back. Its home turf is institutions and processes, where it functions as a near-accusation, because transparency is the expected virtue and the blockage looks deliberately built."
+    },
+    {
+      "word": "impenetrable",
+      "nuance": "Not a surface but a **volume with no way in** — nothing gets through, past, or inside. It keeps a live physical sense the others have shed (jungle, armour, a defensive line), and on prose it means effort buys you nothing at all."
+    },
+    {
+      "word": "inscrutable",
+      "nuance": "The surface is **perfectly clear and still yields nothing** — resistance to being read, not obstruction. It attaches almost exclusively to the outside of a mind: a face, a smile, a silence, a verdict. Faintly admiring, too — the inscrutable party is holding cards you can't see."
+    }
+  ],
+  "exam_note": "The trap is reading them as interchangeable degrees of \"unclear\"; the correct answer is fixed by mechanism — sediment (**turbid**), a built barrier (**opaque**), no entrance (**impenetrable**), an unreadable face (**inscrutable**), plain dimness or low renown (**obscure**)."
 }

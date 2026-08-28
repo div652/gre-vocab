@@ -8,5 +8,25 @@
     "calumny",
     "aspersion"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "defame",
+      "nuance": "The only verb in the set, and the umbrella one: **defame** names the act without specifying how — spoken, printed, broadcast, all count. It's the neutral technical label the law uses before it splits the case into libel or slander, so it carries procedure rather than outrage."
+    },
+    {
+      "word": "slander",
+      "nuance": "**Slander** is the medium clause: spoken, unrecorded, out of someone's mouth. Put the identical false claim in a newspaper and the word is wrong — that's libel. It also demands the claim be dressed as *fact*, which is why it's the one word here you can sue over."
+    },
+    {
+      "word": "calumny",
+      "nuance": "**Calumny** makes no legal claim at all; it delivers a moral verdict. Using it means you've already decided the victim is innocent and the accuser knew it — the lie was chosen and aimed. It's the word of the outraged bystander, formal and faintly scriptural, where *slander* is the word of the plaintiff's lawyer."
+    },
+    {
+      "word": "aspersion",
+      "nuance": "**Aspersion** stops short of stating anything: it's insinuation, so vague there's nothing to rebut and no lie to prove. It lives in a fixed phrase — *cast aspersions on* — nearly always plural, and is most often uttered by the smearer disclaiming the smear."
+    }
+  ],
+  "core": "All four describe destroying a reputation with something untrue rather than merely unkind — the target's standing in other people's eyes is the wound, and the statement is public. What separates them is not how vicious they are but what each one specifies: the act, the channel it travelled through, the malice behind it, or the fact that nothing was quite said out loud.",
+  "exam_note": "The trap is treating them as interchangeable intensities: watch for a written or published attack (never *slander*), a vague hint with no stated claim (only *aspersion*), or a context that condemns the speaker's motive rather than their liability (*calumny*, not *defame*)."
 }

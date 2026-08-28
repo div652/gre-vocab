@@ -8,5 +8,21 @@
     "voluble"
   ],
   "similarity": 0.69,
-  "auto": true
+  "auto": true,
+  "core": "These three are confused by eye, not by meaning — three or four syllables, two of them sharing the opening **vol-**, all built on Latin verbs of motion: *vertere* (turn), *volare* (fly), *volvere* (roll). That shared metaphor of easy movement is the real trap, because each can be loosely glossed as \"moves readily,\" and a hazy reader will drop any of the three into a sentence about a person who changes or moves fast. In use they overlap almost nowhere: one rates ability, one rates stability, one rates speech.",
+  "exam_note": "The exam sets the trap with a blank that a half-remembered ending fits — a **volatile**/**voluble** swap before *speaker* or *market* — and rewards knowing which domain each word actually lives in.",
+  "words": [
+    {
+      "word": "versatile",
+      "nuance": "The only one of the three that is praise, and the only one that rates **competence** rather than motion: many skills, all of them good. It attaches to performers, athletes, employees, and tools; it says nothing about whether the thing is stable or how much it talks."
+    },
+    {
+      "word": "volatile",
+      "nuance": "The only one that warns of **danger**. It rates stability, not ability or speech, and attaches to tempers, markets, chemicals, and political situations — things you brace for. Where **versatile** is a reference-letter word, **volatile** is a word you use before backing out of the room."
+    },
+    {
+      "word": "voluble",
+      "nuance": "The only one confined to **speech**. It describes the fluency of the words themselves — never a market, never a temper, never a skill set. A person can be all three at once, but **voluble** is the only one you could judge from a transcript."
+    }
+  ]
 }

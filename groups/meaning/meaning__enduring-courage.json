@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__enduring-courage",
-  "title": "Enduring courage",
+  "title": "Holding firm: endurance, resolve, restraint",
   "seed_words": [
     "fortitude",
     "stoic",
@@ -9,5 +9,29 @@
     "steadfast",
     "forbear"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these praise someone for not giving way under pressure — the pressure stays on, and the person doesn't move. What separates them is *what* is being held: the capacity to absorb suffering, the composure shown on the face, a decision already taken, a bond or position, or the impulse to retaliate. They are also different parts of speech doing different jobs — a virtue you possess, a manner you display, a stance you hold, an action you decline — which is exactly what a sentence's grammar and clues will test.",
+  "words": [
+    {
+      "word": "fortitude",
+      "nuance": "The only one that names the capacity itself rather than describing a person, and the only one that requires **duration** — what's tested is pain, illness, grief, a long ordeal. **Fortitude** says nothing about a goal you're pursuing or a side you're on; you can show it with no decision to defend and no audience to see it."
+    },
+    {
+      "word": "stoic",
+      "nuance": "Alone in this group, **stoic** is a judgment made from the *outside* — about the surface, not the substance. It doesn't say you endured well; it says you didn't complain, flinch, or let it show. The feeling is assumed to be there and deliberately unexpressed, which is why it fits the widow who doesn't cry but not the general who won't retreat."
+    },
+    {
+      "word": "resolute",
+      "nuance": "The forward-looking one: **resolute** attaches to a course of action already chosen, not to hardship absorbed. You are resolute *about doing something*, so it points at a goal rather than a burden — and it praises the settledness of the mind, not the calmness of the face."
+    },
+    {
+      "word": "steadfast",
+      "nuance": "The relational one: **steadfast** measures whether you *stayed* — with an ally, a faith, a post, a promise — when leaving was the easier option. Resolve is about a decision you made; steadfastness is about a commitment someone else is relying on, so it attaches to people and allegiances and sounds faintly noble doing it."
+    },
+    {
+      "word": "forbear",
+      "nuance": "The odd one: a verb of *not acting*, not of holding up. Everything else here withstands something coming at you; **forbear** withholds something you were entitled to send back — the reprisal, the rebuke, the lawsuit. It requires a provocation and implies mercy, and its past is **forbore/forborne** (not the ancestor *forebear*)."
+    }
+  ],
+  "exam_note": "The trap is slotting an endurance word where the sentence actually rewards restraint (or vice versa) — check whether the blank absorbs a blow or declines to strike one, and whether the clue is about visible composure (stoic) or an unmoved commitment (steadfast/resolute)."
 }

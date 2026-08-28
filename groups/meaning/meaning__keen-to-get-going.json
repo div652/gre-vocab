@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__keen-to-get-going",
-  "title": "Keen to get going",
+  "title": "Eager: appetite, or speed of response",
   "seed_words": [
     "avid",
     "alacrity",
     "keen"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three describe wanting to do something and not hiding it. They split on *what kind of thing the eagerness is*: a settled appetite that defines a person, a mild forward lean toward a task, or the visible quickness of a single response to a single request. One of them is a noun and can only ever describe how someone answered a moment; the other two are traits. And one carries a whole second life as a word about sharpness that has nothing to do with enthusiasm at all.",
+  "words": [
+    {
+      "word": "keen",
+      "nuance": "The mildest heat of the three and the only one that's a bit colloquial — **keen** to help, a **keen** gardener is everyday British English, closer to \"leaning forward\" than to hunger. It's also the only member with a whole other career: sharp edge, sharp wind, sharp mind, sharp senses (*a keen eye*) — plus the unrelated verb, to wail over the dead."
+    },
+    {
+      "word": "avid",
+      "nuance": "A standing appetite, not a mood — **avid** attaches to a person as a defining habit (*an avid reader*), something they'd still be next year. Swap in *for* or *of* and it goes hungry, even predatory: *avid for revenge* is craving with a hint of greed, which **keen** never reaches."
+    },
+    {
+      "word": "alacrity",
+      "nuance": "A noun, and it can only describe how fast someone responded to a specific prompt — you cannot be full of **alacrity** about a hobby, only accept, rise, or comply *with alacrity*. The speed is the evidence; the willingness is the point. Formal, near-frozen in that one phrase, and often faintly ironic about how quickly the hand went up."
+    }
+  ],
+  "exam_note": "The GRE rarely tests *keen* = eager — it wants *keen* = sharp/perceptive; and it baits *alacrity* against pure-speed words like *celerity*, where the missing element is cheerful willingness, not quickness."
 }

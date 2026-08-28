@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__trahere",
-  "title": "Root: trahere, tractus (to drag, pull) + abs- (away)",
+  "title": "Root: trahere, tractus — to drag, pull (abs-, de-, -able)",
   "seed_words": [
     "abstract",
     "detract",
     "tractable"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Every word here is a different answer to the question *what gets pulled, and which way?* Latin **trahere/tractus** means to drag or draw, so each member describes a pull: something drawn off an object, something drawn away from its worth, or something that can be drawn along by whoever holds the lead. They look alike and they all involve subtraction or traction, which is exactly why the prefixes do the real work — **abs-/ab-** (away from), **de-** (down from), and the bare stem plus **-able** (capable of being pulled).",
+  "words": [
+    {
+      "word": "abstract",
+      "nuance": "The pull is **upward and away from the particular** — the idea is lifted off the object, and nothing is lost or damaged in the process. It is the only word here that is not a criticism by default: math is maximally **abstract** and perfectly rigorous. The complaint version (\"too abstract\") is about distance from cases, never about imprecision — do not let the GRE sell you *vague* as a synonym."
+    },
+    {
+      "word": "detract",
+      "nuance": "The pull is **downward off a value**, and it is always a loss to someone's credit — a shaving, not a demolition. Unlike the others it is grammatically bound: things **detract from** a reputation, a performance, an effect; you never detract a thing. It also names the person doing the pulling — a **detractor** — which neither abstract nor tractable can do."
+    },
+    {
+      "word": "tractable",
+      "nuance": "The only passive one: it describes what **can be pulled**, not what does the pulling. Of people it is faint, condescending praise from whoever holds the reins — steerable, not eager. Of problems it goes coldly technical — it yields to method. Expect the negative, **intractable**, far more often than this form."
+    }
+  ],
+  "exam_note": "Two traps: **abstract** baited with *vague/imprecise* (wrong — abstraction is distance from the concrete, not fuzziness), and **detract** offered in a sentence-equivalence answer missing its obligatory *from*; also expect **intractable** rather than tractable, and check whether the noun it modifies is a person (stubborn) or a problem (unsolvable)."
 }

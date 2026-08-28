@@ -8,5 +8,25 @@
     "subtle",
     "inscrutable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something you fail to get hold of — but each locates the failure in a different place. In one, the target keeps moving; in another, a person is deliberately deflecting; in a third, the thing sits perfectly still and is simply too fine to register; in the last, it is fully on display and still gives up nothing. The sorting questions: is there an agent with intent, is there a pursuit, and is the problem that you can't reach it, can't notice it, or can't interpret it?",
+  "words": [
+    {
+      "word": "elusive",
+      "nuance": "**Elusive** requires a pursuit but not an adversary — it describes the *result* of chasing, so a cure, a scent or a concept can be elusive with no intent whatsoever. It's the only one here that attaches naturally to something you *want* (that elusive promotion), and the only one built on motion away from you."
+    },
+    {
+      "word": "evasive",
+      "nuance": "**Evasive** needs a conscious agent dodging a *specific* incoming thing — a question, a subpoena, a missile. Unlike **elusive**, it's about intent rather than outcome: a witness can be caught out instantly and still be evasive. Of speech it's a soft accusation you can print without a libel suit."
+    },
+    {
+      "word": "subtle",
+      "nuance": "**Subtle** involves no escaping at all — the thing holds still and you simply lack the resolution to catch it. It's the only one normally used as a compliment about craft, and the only one that applies to *degree*: a shade, a shift in wording, half a note."
+    },
+    {
+      "word": "inscrutable",
+      "nuance": "**Inscrutable** is the opposite of hidden: the face, the tone, the verdict sit right in front of you and reading them yields nothing. Where **subtle** means you failed to *notice*, inscrutable means you noticed everything and still can't *interpret*. Formal, and almost always aimed at the outside of a mind."
+    }
+  ],
+  "exam_note": "The classic trap is swapping **elusive** and **evasive** — take evasive only when someone is deliberately deflecting a specific challenge, elusive when something is merely never caught."
 }

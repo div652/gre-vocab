@@ -18,7 +18,17 @@ from pathlib import Path
 
 HERE = Path(__file__).parent
 CARDS = HERE / "cards"
+GROUPS = HERE / "groups"
 OUT = HERE / "out"
+
+# Order the group kinds by study value, most useful first.
+KIND_ORDER = ["meaning", "lookalike", "second-meaning", "intensity",
+              "connotation", "antonym", "root"]
+KIND_LABEL = {
+    "meaning": "Meaning cluster", "lookalike": "Lookalike",
+    "second-meaning": "Second meaning", "intensity": "Intensity scale",
+    "connotation": "Connotation", "antonym": "Opposites", "root": "Root family",
+}
 
 # Only the fields the app actually renders - keeps the payload small.
 KEEP = ("word", "pos", "pron", "pron_note", "means", "trap", "trick_line",
@@ -98,6 +108,18 @@ strong{color:#fff} em{color:var(--dim)}
 .nav{display:flex;justify-content:space-between;align-items:center;
   margin-top:16px;color:var(--dim);font-size:13px}
 .empty{text-align:center;color:var(--dim);padding:60px 20px}
+
+/* ---- groups ---- */
+.row.grow{border-left-color:var(--accent)}
+.tag.kind{min-width:112px;text-align:center;color:var(--accent);
+  border-color:var(--accent);flex:0 0 auto}
+ul.nuance{list-style:none;padding-left:0;margin:14px 0 0}
+ul.nuance li{border-left:3px solid var(--line);padding:5px 0 5px 12px;margin:9px 0}
+.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}
+.chip{font-size:12px;border:1px solid var(--line);border-radius:20px;
+  padding:3px 11px;cursor:pointer;color:var(--dim);background:var(--panel2)}
+.chip b{color:var(--accent);font-weight:600}
+.chip:hover{border-color:var(--accent)}
 .bar{height:3px;background:var(--panel2);border-radius:2px;overflow:hidden;margin-top:12px}
 .bar div{height:100%;background:var(--accent);transition:width .2s}
 </style></head><body>
@@ -106,6 +128,7 @@ strong{color:#fff} em{color:var(--dim)}
   <h1>GRE Vocab</h1>
   <button id="mBrowse" class="on">Browse</button>
   <button id="mDrill">Drill</button>
+  <button id="mGroups">Groups</button>
   <input id="search" placeholder="search word, meaning, root, tag…">
   <select id="group"></select>
   <select id="diff">
@@ -126,13 +149,22 @@ strong{color:#fff} em{color:var(--dim)}
 <main>
   <div id="browse"></div>
   <div id="drill" class="hidden"></div>
+  <div id="groups" class="hidden"></div>
 </main>
 
 <script>
 const CARDS = __DATA__;
+const GROUPS = __GROUPS__;
+const KINDLABEL = __KINDLABEL__;
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
-let mode = "browse", order = [], idx = 0, revealed = false, openWord = null;
+let mode = "browse", order = [], idx = 0, revealed = false, openWord = null, openGroup = null;
+
+/* word -> the groups it belongs to, so a card can show its neighbourhoods */
+const GROUPS_OF = {};
+GROUPS.forEach(g => g.words.forEach(w => {
+  (GROUPS_OF[w.word.toLowerCase()] ||= []).push(g);
+}));
 
 const $ = id => document.getElementById(id);
 const esc = s => (s||"").replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
@@ -190,7 +222,39 @@ function cardHTML(c, front){
     h += `<h3>In sentences</h3><ol>` + c.sentences.map(s=>`<li>${md(s).replace(/<\/?p>/g,"")}</li>`).join("") + `</ol>`;
   if(c.in_the_wild) h += `<h3>In the wild</h3>${md(c.in_the_wild)}`;
   if(c.etymology)  h += `<h3>Where it comes from</h3>${md(c.etymology)}`;
+  const gs = GROUPS_OF[c.word.toLowerCase()] || [];
+  if(gs.length){
+    h += `<h3>Also sits in</h3><div class="chips">` + gs.map(g =>
+      `<span class="chip" data-gid="${esc(g.id)}"><b>${esc(KINDLABEL[g.kind]||g.kind)}</b> ${esc(g.title)}</span>`
+    ).join("") + `</div>`;
+  }
   return h + `</div>`;
+}
+
+function groupHTML(g, open){
+  let h = `<div class="row grow" data-gid="${esc(g.id)}">
+      <span class="tag kind">${esc(KINDLABEL[g.kind]||g.kind)}</span>
+      <span class="w">${esc(g.title)}</span>
+      <span class="g">${g.words.map(w=>esc(w.word)).join(" · ")}</span></div>`;
+  if(!open) return h;
+  h += `<div class="card">${md(g.core)}<ul class="nuance">` +
+       g.words.map(w=>{
+         const m = marks[w.word] || "none";
+         return `<li class="d-${m}"><strong>${esc(w.word)}</strong> — ${md(w.nuance).replace(/<\/?p>/g,"")}</li>`;
+       }).join("") + `</ul>`;
+  if(g.exam_note) h += `<blockquote><strong>On the exam:</strong> ${md(g.exam_note).replace(/<\/?p>/g,"")}</blockquote>`;
+  return h + `</div>`;
+}
+
+function renderGroups(){
+  const q = $("search").value.trim().toLowerCase();
+  const list = GROUPS.filter(g => !q || (g.title + " " + g.core + " " +
+      g.words.map(w=>w.word+" "+w.nuance).join(" ")).toLowerCase().includes(q));
+  $("groups").innerHTML = list.length
+    ? list.map(g => groupHTML(g, g.id === openGroup)).join("")
+    : `<div class="empty">No group matches that.</div>`;
+  document.querySelectorAll("#groups .grow").forEach(el =>
+    el.onclick = () => { openGroup = openGroup === el.dataset.gid ? null : el.dataset.gid; renderGroups(); });
 }
 
 function renderBrowse(){
@@ -260,7 +324,33 @@ function renderStats(){
      &nbsp;· ${done}/${CARDS.length} marked`;
 }
 
-function render(){ mode === "browse" ? renderBrowse() : renderDrill(); renderStats(); }
+function render(){
+  if(mode === "browse") renderBrowse();
+  else if(mode === "drill") renderDrill();
+  else renderGroups();
+  renderStats();
+}
+
+/* Clicking a group chip on a card jumps to that group. */
+document.addEventListener("click", e => {
+  const chip = e.target.closest(".chip");
+  if(!chip) return;
+  e.stopPropagation();
+  openGroup = chip.dataset.gid;
+  setMode("groups");
+  document.querySelector(`#groups .grow[data-gid="${CSS.escape(openGroup)}"]`)
+    ?.scrollIntoView({block:"center"});
+});
+
+function setMode(m){
+  mode = m;
+  [["browse","mBrowse"],["drill","mDrill"],["groups","mGroups"]].forEach(([k,id]) => {
+    $(id).classList.toggle("on", k === m);
+    $(k).classList.toggle("hidden", k !== m);
+  });
+  if(m === "drill") revealed = false;
+  render();
+}
 
 /* ---- wiring ---- */
 const groups = [...new Set(CARDS.flatMap(c=>c.groups||[]))].sort((a,b)=>a-b);
@@ -270,12 +360,9 @@ $("group").innerHTML = `<option value="">all groups</option>` +
 ["search","group","diff"].forEach(id =>
   $(id).addEventListener("input", () => { idx=0; revealed=false; render(); }));
 
-$("mBrowse").onclick = () => { mode="browse"; $("mBrowse").classList.add("on");
-  $("mDrill").classList.remove("on"); $("browse").classList.remove("hidden");
-  $("drill").classList.add("hidden"); render(); };
-$("mDrill").onclick = () => { mode="drill"; $("mDrill").classList.add("on");
-  $("mBrowse").classList.remove("on"); $("drill").classList.remove("hidden");
-  $("browse").classList.add("hidden"); revealed=false; render(); };
+$("mBrowse").onclick = () => setMode("browse");
+$("mDrill").onclick  = () => setMode("drill");
+$("mGroups").onclick = () => setMode("groups");
 
 $("shuffle").onclick = () => {
   order = filtered().map(c=>c.word);
@@ -325,12 +412,33 @@ def main() -> int:
         data.append({k: c.get(k) for k in KEEP if c.get(k) is not None})
 
     data.sort(key=lambda c: c["word"].lower())
+
+    # Only groups that actually have prose - a discovered-but-unwritten group
+    # would render as an empty heading.
+    groups = []
+    for f in sorted(GROUPS.rglob("*.json")):
+        try:
+            g = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        if not g.get("core") or not g.get("words"):
+            continue
+        groups.append({"kind": g["kind"], "id": g["id"], "title": g["title"],
+                       "core": g["core"], "words": g["words"],
+                       "exam_note": g.get("exam_note")})
+    groups.sort(key=lambda g: (KIND_ORDER.index(g["kind"]) if g["kind"] in KIND_ORDER else 99,
+                               g["title"].lower()))
+
     OUT.mkdir(exist_ok=True)
-    html = TEMPLATE.replace("__DATA__", json.dumps(data, ensure_ascii=False))
+    html = (TEMPLATE
+            .replace("__DATA__", json.dumps(data, ensure_ascii=False))
+            .replace("__GROUPS__", json.dumps(groups, ensure_ascii=False))
+            .replace("__KINDLABEL__", json.dumps(KIND_LABEL, ensure_ascii=False)))
     dest = OUT / "flashcards.html"
     dest.write_text(html, encoding="utf-8")
 
-    print(f"{len(data)} cards -> {dest}  ({dest.stat().st_size/1024:.0f} KB)")
+    print(f"{len(data)} cards + {len(groups)} groups -> {dest}  "
+          f"({dest.stat().st_size/1024:.0f} KB)")
     return 0
 
 

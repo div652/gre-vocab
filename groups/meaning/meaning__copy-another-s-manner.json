@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__copy-another-s-manner",
-  "title": "Copy another's manner",
+  "title": "Copying another's manner",
   "seed_words": [
     "emulate",
     "mimic",
     "caricature",
     "pastiche"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe reproducing something that belongs to someone else — a manner, a voice, a face, a style. They split on three axes: **what** is copied (a person's tics, a person's excellence, an artist's style), **how faithfully** (exact, inflated, loose homage), and **why** (to reach that level, to get a laugh, to attack, to pay tribute). The copy itself is never the issue on the GRE; the attitude behind it is.",
+  "words": [
+    {
+      "word": "emulate",
+      "nuance": "The only one aimed at the copier's own improvement rather than at an audience: you take the model as a standard and try to reach or beat it. Nothing is put on display, and the thing copied is the achievement, not the mannerisms — you emulate a champion's discipline, you don't emulate his limp."
+    },
+    {
+      "word": "mimic",
+      "nuance": "Live, close-range reproduction of surface behaviour — the vowel, the gait, the throat-clearing — performed at the person, usually in front of others. Fidelity is the whole point, which is exactly what makes it cruel; the technical uses (a hoverfly **mimics** a wasp) keep the exactness and drop the malice."
+    },
+    {
+      "word": "caricature",
+      "nuance": "The only one that is deliberately *un*faithful: it picks one real feature and inflates it, so the distortion is the method, not a failure. Figuratively it's a charge you level at an opponent — \"a caricature of my position\" accuses him of arguing against the inflated version."
+    },
+    {
+      "word": "pastiche",
+      "nuance": "Operates on a style or genre across a whole work, not on a person's face or habits, and openly announces what it's borrowing. No mockery (that's parody), no concealment (that's plagiarism), no ambition to surpass — which is why \"mere pastiche\" is the insult: competent borrowed manner with nothing of the author's own."
+    }
+  ],
+  "exam_note": "The trap is connotation: **emulate** is the positive one and is often the answer where a sentence praises a successor, while **caricature** and **mimic** are offered as neutral-looking synonyms of \"imitate\" that quietly import ridicule."
 }

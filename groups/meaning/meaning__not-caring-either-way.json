@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__not-caring-either-way",
-  "title": "Not caring either way",
+  "title": "Not Caring Either Way",
   "seed_words": [
     "apathy",
     "ennui",
     "tepid",
     "nonchalant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit in the dead zone between enthusiasm and opposition: no heat in either direction. None of them means dislike — dislike is engagement, and that's precisely what's missing here. What separates them is *what* the absence of caring is being predicted of: an inner void, a chronic condition, the temperature of a specific response, or the look on someone's face.",
+  "words": [
+    {
+      "word": "apathy",
+      "nuance": "The absolute version, and the only one that names a condition of a person or a whole public — **apathy** is the empty tank, with no cause given and no cure implied. It's the group's accusation word: writers deploy it at electorates and citizens who *should* have cared, which none of the others do."
+    },
+    {
+      "word": "ennui",
+      "nuance": "**Ennui** is apathy with a backstory: you're not blank, you're *used up* — everything has been tried and nothing landed. It requires leisure and a certain vanity, and it's the only word here anyone would claim about themselves as a credential."
+    },
+    {
+      "word": "tepid",
+      "nuance": "**Tepid** rates a response, not a soul. There *is* a reaction — applause happened, the review ran, the endorsement was given — it just came out weak, which is why it reads as polite dismissal rather than emptiness. It also keeps a literal temperature sense the others never had."
+    },
+    {
+      "word": "nonchalant",
+      "nuance": "Pure surface: **nonchalant** reports the manner, and is silent on whether anyone actually cares underneath. It's the only member that can be a compliment — the unhurried shrug reads as cool when the stakes are low and as culpable when they aren't."
+    }
+  ],
+  "exam_note": "The trap is depth: GRE sentences that describe a *reaction* (applause, a review, an endorsement) want **tepid**, but bait you with **apathetic/indifferent**, which describe the person; and a sentence about visible composure wants **nonchalant**, not a claim about inner feeling."
 }

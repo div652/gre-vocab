@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__devoted-follower",
-  "title": "Devoted follower",
+  "title": "Below the Master: Server, Student, Newcomer",
   "seed_words": [
     "acolyte",
     "disciple",
     "neophyte"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three name someone standing *below* somebody else inside a faith, school, or movement — defined not by what they do but by their position relative to a master or an established inner circle. Every one comes out of religious life and drags that incense into secular use, so applying one to a CEO's staff or an economist's followers is always a small rhetorical choice. The differences are axis differences: one is about **service**, one about **transmitted doctrine**, one about **arrival date**. They stop being interchangeable the moment you ask whether the person is learning, fetching, or merely new.",
+  "words": [
+    {
+      "word": "acolyte",
+      "nuance": "The one who **attends**, not the one who understands — the function is service, and the loyalty has outrun independent judgement. It is an outsider's word, usually plural and faceless (\"the founder and his acolytes\"), and the sneer targets the flattery, not the inexperience: an acolyte can be fifty and hold a title."
+    },
+    {
+      "word": "disciple",
+      "nuance": "The only one here that implies **absorbed content and onward transmission** — a named master, a doctrine, a duty to carry it. Where the word above marks servility, this one can be genuine tribute (\"a disciple of Keynes\"); the raised eyebrow, when it comes, is for repeating the master too faithfully, not for hovering near him."
+    },
+    {
+      "word": "neophyte",
+      "nuance": "Says nothing about devotion, service, or a master — only about **how recently the person was let in**. Time alone cures it, which is not true of the other two, and the condescension concerns competence under the gaze of the already-initiated. Its threshold can be a field, craft, or firm, not just a faith."
+    }
+  ],
+  "exam_note": "The trap is **neophyte**: it joins this cluster by religious origin, not by devotion — its antonyms are *veteran, adept, old hand*, so a sentence about zeal or servility wants one of the other two."
 }

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__getting-better-after-illness",
-  "title": "Getting better after illness",
+  "title": "Recovering, Restoring, Reviving",
   "seed_words": [
     "convalescent",
     "resilient",
     "replenish",
     "invigorate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit on the upswing after something has been drained, damaged, or knocked down — the return trip from depletion to full strength. They split on three axes: whether the word names a *state* you're in, a *trait* you have, or an *act* done to something; whether the recovery is slow or fast; and whether what comes back is *health*, *shape*, *quantity*, or *energy*. Confusion comes from the shared upward direction, not from shared grammar — two are adjectives, two are transitive verbs.",
+  "exam_note": "The trap is treating them as interchangeable \"get better\" words: GRE sentences fix the answer by what is being restored — a *level* (replenish), a *pulse* (invigorate), a *shape after a blow* (resilient) — and by whether the slot needs a slow middle state (convalescent) or a fast bounce.",
+  "words": [
+    {
+      "word": "convalescent",
+      "nuance": "The only one that describes a person *stuck in the middle of it* — not a capacity, not an action, a status. It is also the only one with genuine sickbed baggage: weeks in an armchair, not a brisk comeback. Where **resilient** praises speed, **convalescent** presumes slowness."
+    },
+    {
+      "word": "resilient",
+      "nuance": "A standing trait, present before the blow and proven by it — you are resilient in advance, whereas you only become convalescent after the fact. It concedes real damage and emphasizes *speed of return to former shape*; it's the only member that applies to materials (a bent spring, foam)."
+    },
+    {
+      "word": "replenish",
+      "nuance": "Purely quantitative and transitive: the object is a stock, reserve, or supply that was drawn down, and the refilling stops at the old level. Nothing bodily and nothing about vitality — you replenish a larder or an aquifer; you cannot replenish a patient."
+    },
+    {
+      "word": "invigorate",
+      "nuance": "The energy is *administered from outside* — a cold plunge, a new hire, a cash injection — and the target need not have been depleted at all: a healthy person can be invigorated. That's the sharp break from **replenish**, which requires a prior shortfall and only tops it back up."
+    }
+  ]
 }

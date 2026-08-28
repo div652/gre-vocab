@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__playing-it-down-vs-puffing-it-up",
+  "title": "Playing it down vs. puffing it up",
+  "seed_words": [
+    "modest",
+    "deprecate",
+    "understated",
+    "retiring",
+    "aggrandize",
+    "pomposity",
+    "bombastic",
+    "bravado",
+    "pretentious",
+    "narcissism",
+    "hyperbole"
+  ],
+  "hallucinated": null,
+  "core": "Every word here measures the gap between what something actually is and how loudly it gets presented. One pole closes the gap downward — the claim comes in under the reality, by temperament, by taste, or by explicit disapproval. The other pole opens it upward — the manner, the vocabulary, the swagger, or the reputation is bigger than what's underneath. What separates the words inside each pole is *what* is being dialed up or down (a style, a number, a personality, a courage claim, a bid for status) and *who* gets to say it — most of these are verdicts an observer delivers, not labels anyone claims for themselves.",
+  "words": [
+    {
+      "word": "retiring",
+      "nuance": "The only word in the group that describes a **settled temperament** rather than a presentation choice. **Retiring** people don't calibrate the volume of a claim; they decline the spotlight altogether and let someone else present the work. Nothing is being staged, so there is no gap between show and substance to judge."
+    },
+    {
+      "word": "modest",
+      "nuance": "The group's pivot word, and the only one that can size **the thing itself** rather than the telling of it: *a modest raise* is genuinely small. In the personal sense, **modest** presumes you have real achievements and decline to trade on them — which is why it's the direct antonym of *self-aggrandizing*, and why *falsely modest* exists as a charge."
+    },
+    {
+      "word": "understated",
+      "nuance": "Restraint as **deliberate technique**, aimed at style — dress, acting, prose, design. Unlike **modest** (which can just mean small) and **retiring** (which is who you are), **understated** insists the substance is fully there and held back on purpose, which is why it flatters. Point it at a figure — an **understated** casualty count — and it becomes an accusation of pitching too low."
+    },
+    {
+      "word": "deprecate",
+      "nuance": "The only downward word that is a **verb aimed outward**: cool, committee-register disapproval of a habit or a fashion, not a description of anyone's manner. It reaches this group mainly through *self-deprecating*, where the mildness matters — you play yourself down with a joke, which is a performance of modesty, not the real thing."
+    },
+    {
+      "word": "hyperbole",
+      "nuance": "The one inflation that is **openly signposted and therefore honest** — nobody is meant to believe the bag weighs a ton. It names a rhetorical device, so it's the only word on the upward pole that can be fully neutral; applied to someone's argument it means *overstated*, never *dishonest*, and never touches their character."
+    },
+    {
+      "word": "bravado",
+      "nuance": "Inflation of one specific quality — **courage** — and the word is a diagnosis of what's underneath: fear or doubt being covered by swagger. It's what onlookers call your bravery when they don't buy it, which is why it travels with *empty*, *false*, *a touch of*. The other upward words inflate importance; this one inflates nerve."
+    },
+    {
+      "word": "pretentious",
+      "nuance": "A bid specifically for **cultural credit** — taste, refinement, depth. The unread Proust, the wine notes. Status is the currency, so it's the one word here that depends on the claimant's actual standing: the learned professor's long words can't be **pretentious**, the undergraduate's imitation of them can."
+    },
+    {
+      "word": "pomposity",
+      "nuance": "Inflation located in the **ceremonious delivery** — the orotund voice, the weighted pause before the obvious, opinions issued like state announcements. It indicts bearing rather than content or class-aspiration, and the charge is comic: the pompous man is to be punctured, not feared."
+    },
+    {
+      "word": "bombastic",
+      "nuance": "Narrowest target in the group: **the words themselves**, and specifically their emptiness. Big vocabulary and thunderous cadence padding a small thought. Where **pomposity** is manner and **pretentious** is aspiration, **bombastic** is the audible gap between volume and content in a speech or a page."
+    },
+    {
+      "word": "aggrandize",
+      "nuance": "The active **verb of inflation** — someone is doing it, usually to himself, usually in front of an audience or at another party's expense. It targets standing and reputation while the substance stays put, and unlike the style words it can also mean literal expansion of power or territory."
+    },
+    {
+      "word": "narcissism",
+      "nuance": "Not a single performance but a **standing condition** requiring continuous supply: the self-love needs other people to keep reflecting it back, and turns cold or punitive when they stop. That conscription of the audience is why it reads as a moral failing rather than a ridiculous habit — and it's the one word here with a clinical register alongside the insult."
+    }
+  ],
+  "exam_note": "The trap is polarity assumptions: the down-pole words are neutral-to-positive (**understated** and **retiring** are compliments, **modest** cuts both ways), and **hyperbole** is the up-pole word that carries no accusation of dishonesty — so a blank calling for \"mere exaggeration, openly meant\" rejects **bombastic** and **bravado**."
+}

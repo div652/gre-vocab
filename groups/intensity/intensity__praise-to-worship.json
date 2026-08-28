@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__praise-to-worship",
+  "title": "Praise to worship",
+  "seed_words": [
+    "acclaim",
+    "extol",
+    "lionize",
+    "venerate",
+    "deify"
+  ],
+  "hallucinated": null,
+  "core": "All five say good things about someone or something loudly enough for others to hear — praise that is public, performed, and escalating in temperature. What separates them is how far up the ladder the praise climbs (a good review → a ceremony → a parade → an altar) and how much judgment the praiser has surrendered along the way. The higher you go, the more the word stops describing the object and starts describing the crowd. The top three carry a built-in raised eyebrow: the writer using them is often measuring the gap between the adulation and what earned it.",
+  "words": [
+    {
+      "word": "acclaim",
+      "nuance": "The only one that is a **verdict** rather than an act of enthusiasm — **acclaim** reports that a crowd, a press, or a field has already settled the question. It attaches to work (a novel, a film, a season), not to a person's character, and it is the group's neutral, unembarrassed word: nobody sneers at \"widely acclaimed.\""
+    },
+    {
+      "word": "extol",
+      "nuance": "The podium verb — one speaker, at length, out loud, usually about a quality rather than a person: **extol the virtues/merits/benefits of**. Unlike *acclaim* it needs no crowd and settles nothing; it is a performance of praise, which is why it tips so easily into the faintly ridiculous when the subject is ordinary."
+    },
+    {
+      "word": "lionize",
+      "nuance": "Shifts the object from work to **person as celebrity**: to fête, parade and make a fuss over someone on the circuit. **Lionize** is the fashion word — it says the salons and the press picked this figure, and it usually hints the fuss outran the achievement, without claiming any reverence at all."
+    },
+    {
+      "word": "venerate",
+      "nuance": "Swaps social buzz for **sanctity** — age, holiness, tradition, the honoured dead. **Venerate** is quiet where *lionize* is noisy, and it places its object above ordinary criticism rather than merely above rivals; the sourness comes from reverence that has stopped being examined."
+    },
+    {
+      "word": "deify",
+      "nuance": "The end of the scale: not respect above criticism but **judgment abandoned** — the object can now do no wrong. Note the direction — you **deify** someone else, so the word is an indictment of the fans, biographers, or party faithful doing it, not a description of the person."
+    }
+  ],
+  "exam_note": "The exam tests the eyebrow, not the volume: if the sentence's tone is skeptical or measures adulation against merit, the answer is **lionize/deify** (or **venerate** in a \"no longer questioned\" context), while a neutral report of settled public praise wants **acclaim**."
+}

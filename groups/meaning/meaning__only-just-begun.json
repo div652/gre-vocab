@@ -8,5 +8,25 @@
     "fledgling",
     "rudimentary"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something at the bottom of its development curve — present, but not yet the full version of itself. The confusion comes from the fact that \"undeveloped\" splits four ways: recently started, not yet shaped, inexperienced but functioning, or stuck at the bare minimum. Two of these are claims about time, one is a claim about form, and one is a verdict on quality. Getting the group right means asking what exactly is missing — the years, the shape, the experience, or the substance.",
+  "words": [
+    {
+      "word": "nascent",
+      "nuance": "The only one that is purely a claim about **timing**: it marks the moment of coming-into-being and says nothing about whether the thing is coherent or any good. **Nascent** leaves the future deliberately open — the analyst's word for \"this exists now, watch it\" — and it attaches to abstractions and trends (a nascent movement, a nascent rivalry), never to a person's skill."
+    },
+    {
+      "word": "inchoate",
+      "nuance": "The complaint here is **shapelessness, not youth** — an **inchoate** grievance can be twenty years old and still have no outline. It's the word for things too formless to be stated: rage, longing, an argument that never resolves into a claim. Used of someone's reasoning it's a quiet insult, which is never true of *nascent*."
+    },
+    {
+      "word": "fledgling",
+      "nuance": "Alone in the group, **fledgling** describes something already **operating** — out of the nest and flying, just badly and without a safety net. It's the sympathetic option: it grants potential and survival odds (a fledgling airline may well make it), and it's the only member that works as a noun for a beginner."
+    },
+    {
+      "word": "rudimentary",
+      "nuance": "Not about beginnings at all but about **level** — it measures what's there against what full development would look like and finds it minimal. **Rudimentary** carries no promise of growth; rudimentary sanitation or rudimentary French may stay that way forever, which is why it lands as a polite downgrade rather than encouragement."
+    }
+  ],
+  "exam_note": "The classic trap is swapping *nascent* for *inchoate* — one dates the thing, the other faults its shape; *rudimentary* is the distractor slipped into sentences about a permanently low level, not about starting out."
 }

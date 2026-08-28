@@ -1,0 +1,42 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__courtroom-senses-hiding-in-everyday-words",
+  "title": "Courtroom senses hiding in everyday words",
+  "seed_words": [
+    "conviction",
+    "depose",
+    "competent",
+    "liability",
+    "sanction",
+    "entitled"
+  ],
+  "hallucinated": null,
+  "core": "Each of these is a common word that the law also uses as a term of art — and the legal sense is narrower, colder, and often unrelated in feel to the one you reach for first. The everyday meaning is what you recognise; the legal meaning is what the GRE tests. The trap is that the familiar sense usually still *fits* the sentence well enough to feel right, so the wrong reading rarely announces itself. What separates them is which direction the hiding runs: whether the courtroom sense is buried under the common one, or the common one is a metaphor stolen from the courtroom.",
+  "words": [
+    {
+      "word": "conviction",
+      "nuance": "The two senses point in opposite directions: everyday **conviction** is something you hold, legal conviction is something recorded against you. It's the only word here where the legal sense is a permanent mark on a person rather than an action, a status, or an authorisation. Grammar is the tell — *with conviction* and *deeply held conviction* are the belief; *a prior conviction*, *three convictions* (countable, pluralised) is the rap sheet."
+    },
+    {
+      "word": "depose",
+      "nuance": "Both senses are formal, and they share nothing but the verb: sense 1 takes power off a ruler, sense 2 takes sworn words out of a witness. Unlike the others, neither sense is casual, so context can't help you by register — only by object. A monarch is **deposed**; a witness is **deposed**; nothing else in the sentence overlaps."
+    },
+    {
+      "word": "competent",
+      "nuance": "Here the shift is tonal, not conceptual. Everyday **competent** carries a ceiling — it damns by refusing to praise. The legal sense strips the ceiling out entirely: *competent to stand trial*, *court of competent jurisdiction* means qualified, pass/fail, with no shade in it. Same standard, opposite attitude toward meeting it."
+    },
+    {
+      "word": "liability",
+      "nuance": "The only one running the other way: the legal sense is primary, and the everyday insult is borrowed from it. Calling someone a **liability** isn't name-calling, it's bookkeeping — it puts them in the debit column and implies exposure you'll eventually have to pay for, not mere annoyance. That's what makes it colder than *burden* or *nuisance*."
+    },
+    {
+      "word": "sanction",
+      "nuance": "The only auto-antonym in the group: the two senses don't merely differ, they contradict — bless or punish. Both require an institution with standing (a state, a board, a church), so **sanction** is never a friend's approval or a personal grudge. As a plural noun it's almost always the penalty; as a verb, almost always the approval."
+    },
+    {
+      "word": "entitled",
+      "nuance": "The only one where a preposition decides the meaning. **Entitled *to*** something is statutory and judgement-free — refunds, leave, a hearing. **Entitled** bare, in front of a person, is a moral verdict saying the claim is imaginary and the claimant insufferable. Sense 1 is granted by law; sense 2 is granted by the self."
+    }
+  ],
+  "exam_note": "The GRE nearly always wants the sense you didn't reach for first, and the tell is grammatical, not semantic — check the article, the plural, and the preposition before you check the meaning."
+}

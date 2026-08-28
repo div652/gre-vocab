@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__easily-fooled-vs-hard-to-fool",
+  "title": "Easily fooled vs. hard to fool",
+  "seed_words": [
+    "naive",
+    "gullible",
+    "dupe",
+    "ingenuous",
+    "artless",
+    "astute",
+    "shrewd",
+    "canny",
+    "wily",
+    "perspicacious"
+  ],
+  "hallucinated": null,
+  "core": "All of these words rank a person on one axis: how well they see through other people. At one end sits the person who takes the world at face value — trusting, unguarded, no instinct that anyone might be working them; at the other, the person who reads motives fast, prices things correctly, and cannot be sold a story. The confusion is that each end splits several ways. On the trusting end, some words fault the person's picture of the world, some fault their believing, and some only describe an unarmored manner; on the sharp end, some words mean you can't be deceived, and one means you're the one doing the deceiving.",
+  "words": [
+    {
+      "word": "naive",
+      "nuance": "**Naive** faults the person's *model of the world* — they expect it to be simpler and kinder than it is. No one has to have actually tricked them; the flaw is standing, and it excuses their motives while convicting their judgement."
+    },
+    {
+      "word": "gullible",
+      "nuance": "**Gullible** narrows to the act of believing: you swallow what you're told and never think to check. It brands a standing easy mark, the kind con artists find, and unlike *naive* it never sounds fond — the word has a sneer in it."
+    },
+    {
+      "word": "dupe",
+      "nuance": "The only word here that requires a *completed transaction* and a second party: someone did the tricking. **Dupe** is a verb for that act and a noun for the leftover victim — and the noun quietly says the victim made it easy, which is why \"I was **duped**\" concedes something."
+    },
+    {
+      "word": "ingenuous",
+      "nuance": "**Ingenuous** describes outward *manner*, not error — frankness with no calculation of what it costs. The person isn't wrong about anything yet; they're just unarmored, and the word is warm with a wince behind it."
+    },
+    {
+      "word": "artless",
+      "nuance": "The *art* being denied is artifice — **artless** says only that the person isn't working an angle, not (as *naive* does) that they've misread the world. Watch the second sense: applied to a drawing or a sentence it can simply mean unskilled."
+    },
+    {
+      "word": "astute",
+      "nuance": "**Astute** is the practical eye for advantage — reading people, markets, motives and moving first. It lives in boardrooms and politics, and it's the polite name for the exact skill you'd call *cunning* if you disliked the person."
+    },
+    {
+      "word": "shrewd",
+      "nuance": "**Shrewd** is specifically judgement of *worth* — what a deal, an offer, or a person is actually good for. It's intelligence of the marketplace rather than the library, with a cold enough edge that you can apply it to someone you don't like."
+    },
+    {
+      "word": "canny",
+      "nuance": "**Canny** is the defensive, thrifty end of the scale: hard to cheat, never overpays, knows when to walk away. It credits careful competence rather than brilliance — a **canny** buyer is prudent, not dazzling."
+    },
+    {
+      "word": "wily",
+      "nuance": "**Wily** flips sides: this person doesn't resist deception, they *practise* it — tricks, feints, manoeuvres instead of force. Tone saves it from *devious*: it's the grudging half-smile you give someone playing a weak hand beautifully."
+    },
+    {
+      "word": "perspicacious",
+      "nuance": "**Perspicacious** is pure penetration with no angle attached — seeing *through* people and situations, not cashing in on them. It's the formal, cerebral top of the scale, where *astute* and *shrewd* stay commercial."
+    }
+  ],
+  "exam_note": "Two traps: **artless** and **ingenuous** are tested as compliments about candour (not as \"clumsy\" or \"dishonest\" — that's *disingenuous*), and **wily** is planted among the sharp words when it actually names the deceiver, not the undeceived."
+}

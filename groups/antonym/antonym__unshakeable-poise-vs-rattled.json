@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__unshakeable-poise-vs-rattled",
+  "title": "Unshakeable Poise vs. Rattled",
+  "seed_words": [
+    "equanimity",
+    "imperturbable",
+    "aplomb",
+    "poise",
+    "stoic",
+    "flustered",
+    "discomfit",
+    "disconcerting",
+    "nonplussed",
+    "skittish"
+  ],
+  "hallucinated": null,
+  "core": "Every word here assumes the same scene: something happens that could knock a person off balance — a hostile question, bad news, an insult, a sudden noise. The group splits on which half of that scene the word describes. Five name the composure that survives it (and they differ on whether the calm is inner, outward, permanent, or stylish); five name the balance giving way (and they differ on who or what is doing the knocking, and how hard). The traps live in the grammar as much as the meaning: some of these words attach to the rattled person, one attaches to the thing that rattles, and one is something an agent does to a victim.",
+  "words": [
+    {
+      "word": "equanimity",
+      "nuance": "**Equanimity** is the inner reading — the emotional temperature stayed level. It says nothing about how you looked or performed; it's the one word here you could credit to someone sitting silently through a verdict. Always about absorbing something bad, never about pulling something off."
+    },
+    {
+      "word": "imperturbable",
+      "nuance": "The only word in the group that describes a **permanent trait** rather than one occasion's behaviour. It's a claim about what *can't* happen to this person — you can show equanimity once, but you *are* **imperturbable**. That absoluteness is why it can chill: nothing gets in."
+    },
+    {
+      "word": "aplomb",
+      "nuance": "**Aplomb** requires an audience and a **successful performance**. You don't have aplomb merely enduring — you have it *executing*: fielding the heckler, landing the toast, taking the hard question and making it look easy. Almost always adverbial (*handled it with aplomb*), and it dies the instant strain shows."
+    },
+    {
+      "word": "poise",
+      "nuance": "**Poise** is composure in the **body** — steady voice, still hands, no fidgeting. Where aplomb is flair, poise is the absence of wobble, and it carries a whiff of breeding and training (dancers, diplomats, well-raised teenagers). Watch the second sense: *poised to spring* is not calm at all, it's coiled."
+    },
+    {
+      "word": "stoic",
+      "nuance": "**Stoic** is the only one about **pain and duration** — hardship, loss, illness borne over time. Its enemy is not fumbling but *complaining*: the stoic feels every bit of it and refuses to say so. Composure here is endurance, not smoothness."
+    },
+    {
+      "word": "flustered",
+      "nuance": "The mildest failure: **flustered** is brief, visible fumbling — pink face, lost thread, starting the sentence over. No danger, no defeat, nothing at stake; you can be flustered by a compliment. It's the only one of these that's faintly endearing."
+    },
+    {
+      "word": "discomfit",
+      "nuance": "The one **transitive verb**: somebody deliberately does this *to* you. What collapses isn't just your face but your argument, plan, or position — the old sense is *rout in battle*, and that flavour of small defeat survives. Usually passive: *visibly discomfited*."
+    },
+    {
+      "word": "disconcerting",
+      "nuance": "Attaches to the **stimulus, not the person** — the stare, the mismatched smile, the answer that doesn't fit the question. Cool and understated by design: it reports being wrong-footed while explicitly withholding fear or outrage."
+    },
+    {
+      "word": "nonplussed",
+      "nuance": "**Nonplussed** is a **blank stall**, not an emotion — the situation is so unexpected that no response is generated at all. Flustered people flail; the nonplussed person just stands there. It's neutral about them: the oddness was the world's fault, not a failure of nerve."
+    },
+    {
+      "word": "skittish",
+      "nuance": "The only **anticipatory** word — the jumpiness precedes any real event, and the reaction is out of proportion to the threat. Said of horses, then investors, then commitment-shy people, and it always faintly belittles: skittish isn't reasoning, it's flinching."
+    }
+  ],
+  "exam_note": "Two standard traps: **nonplussed** on the GRE means *stalled and blank*, never the colloquial American \"unfazed\"; and the negatives differ by grammatical role — a lawyer **discomfits** a witness, the witness is **flustered**, and the question itself is **disconcerting**."
+}

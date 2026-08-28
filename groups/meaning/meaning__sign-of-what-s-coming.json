@@ -9,5 +9,29 @@
     "harbinger",
     "ominous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five say the same basic thing: something visible now stands for something not yet here. None of them assert the future event — they assert a *sign* of it, and the sign is almost always read as bad news. What separates them is grammar and grip: whether the sign is a verb the world performs, a noun you can point at, or an atmosphere you can only feel; and how much dread is welded into the word before you add any context.",
+  "words": [
+    {
+      "word": "portend",
+      "nuance": "The workhorse verb — the one a news anchor uses. It wants a stated outcome as its object (*portends a wave of layoffs*, *portends trouble for the ruling party*), so it commits you to naming what's coming. It's also the least emotionally loaded of the three verbs here: gravity without shudder, and the only one you could steer toward a good outcome without it collapsing into a joke."
+    },
+    {
+      "word": "presage",
+      "nuance": "**Portend** in a higher register — the same job done by a word that wants a red sky rather than a quarterly report. It's also the only verb in this group with a live noun form: a presage is the omen itself *or* the foreboding it plants in you, so it can name the feeling as well as the sign. Reach for it in prose, not in speech."
+    },
+    {
+      "word": "forebode",
+      "nuance": "The dread is inside the verb, not in the sentence around it. **Portend** is directionally steerable; nothing ever forebodes good news, so the word needs no adjective to darken it. It is also the only one here that a *person* can do — you forebode disaster, meaning you feel it coming. And the bare verb is nearly extinct: the GRE will hand you **foreboding**, noun or adjective."
+    },
+    {
+      "word": "harbinger",
+      "nuance": "The only noun, and the only one that can be a human being — a herald, a forerunner, someone or something that arrives *before* and announces. Because it's a separate arriving thing, never the event, it survives happily on good news (*a harbinger of spring*) where the verbs would sound arch. But its habitual company is *doom*, *decline*, *recession*, so it still makes people brace."
+    },
+    {
+      "word": "ominous",
+      "nuance": "The adjective, and the one that names no outcome at all. The verbs need an object — you portend or presage *something*. **Ominous** just marks the atmosphere: a silence, a pause, a 3am phone call is ominous with no clause following. It also describes a forecast, never an attack; the growling dog is threatening, the hush before the growl is ominous."
+    }
+  ],
+  "exam_note": "The trap is part of speech, not meaning — a blank taking a noun rules out portend/presage/forebode instantly, and a blank with no named consequence after it wants ominous, not a verb."
 }

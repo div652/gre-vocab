@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__argument-that-only-looks-sound",
+  "title": "Argument That Only Looks Sound",
+  "seed_words": [
+    "specious",
+    "sophistry",
+    "fallacious",
+    "spurious",
+    "plausible",
+    "tendentious"
+  ],
+  "hallucinated": null,
+  "core": "All of these live in the gap between how an argument *sounds* and whether it *holds*. Something has been constructed well enough to pass inspection — the vocabulary is respectable, the structure looks like reasoning — and the word's job is to say what's wrong underneath. They differ in what exactly they indict: the logic, the truth, the origin, the direction, or the arguer's good faith. Get that wrong and you've accused someone of the wrong crime.",
+  "words": [
+    {
+      "word": "plausible",
+      "nuance": "The only member that issues **no verdict**. It rates the surface and stops there — the others all assert that the thing underneath is broken. That neutrality is what makes it dangerous on the exam: a **plausible** account may turn out entirely true. Its negativity is borrowed from the speaker's tone (*plausible enough*), never built in."
+    },
+    {
+      "word": "fallacious",
+      "nuance": "Indicts the **machinery**, not the man. It points at a nameable logical defect — the non sequitur, the undistributed middle — and leaves the arguer's sincerity completely intact. It's also the only one that can be diagnosed on a whiteboard: **fallacious** is a technical finding, where the rest are judgments of character or standing."
+    },
+    {
+      "word": "specious",
+      "nuance": "A **verdict after inspection**: you looked twice, and it failed the second look. Where *plausible* leaves the question open, **specious** closes it — this *is* false, and the falsity was groomed. The specific sneer is tailoring: the argument was dressed to survive a glance."
+    },
+    {
+      "word": "spurious",
+      "nuance": "Attacks **origin and standing**, not reasoning. A specious argument has parts you can dismantle; a **spurious** one you decline to touch — it never qualified for the debate. It's also the only one that comfortably leaves arguments entirely: forged documents, phantom correlations, made-up quotations. No liar required."
+    },
+    {
+      "word": "tendentious",
+      "nuance": "Indicts **direction**, not validity. A **tendentious** piece can be logically flawless and factually unimpeachable and still earn the word, because the *selection* was engineered toward a conclusion while wearing the face of neutral survey. Attaches to made things — a history, a footnote, a poll question — never to a person's temperament."
+    },
+    {
+      "word": "sophistry",
+      "nuance": "The only **noun**, and the only outright charge of **bad faith**: you knew, and you argued anyway. Where *fallacious* forgives the sincere blunderer, **sophistry** insists the polish proves the intent — the argument is too well-made to be an accident. It adds a second insult the others lack: vanity, the pleasure taken in one's own cleverness."
+    }
+  ],
+  "exam_note": "The classic trap is **plausible** for **specious**: if the sentence already establishes that the argument collapsed, *plausible* is wrong because it never claims falsity — and watch for **tendentious**, which answers \"slanted,\" not \"invalid.\""
+}

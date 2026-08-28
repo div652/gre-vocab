@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__prop-up-and-strengthen",
-  "title": "Prop up and strengthen",
+  "title": "Prop up, add to, turn up",
   "seed_words": [
     "bolster",
     "buttress",
     "augment",
     "amplify"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four take something that already exists and make it more — more solid, more numerous, more intense. None of them creates from scratch, and none of them is negative. The split inside the group is between **support** words (the object was wobbling and needed help standing) and **increase** words (the object was fine, you just added to it or turned it up). The second split is *what* gets added: reinforcement, quantity, or intensity.",
+  "words": [
+    {
+      "word": "bolster",
+      "nuance": "The propping word that works on **morale and confidence** — flagging spirits, a sagging economy, a shaky case. It concedes that the thing was weak; the other three don't have to. Alone in this group it can take a person or a mood as its object: you bolster the troops, you never augment or buttress them."
+    },
+    {
+      "word": "buttress",
+      "nuance": "Formal and **structural**: support added from outside to a load-bearing position — a claim, a thesis, a regime. It attaches to arguments, not feelings, and comes with a fixed collocation (*buttress a claim **with** evidence*). Where **bolster** cheers something up, **buttress** keeps it from collapsing under challenge."
+    },
+    {
+      "word": "augment",
+      "nuance": "Pure **quantity added to a base** — a salary, a force, a collection, a staff. It carries no hint that the original was lacking or under pressure, which is exactly what separates it from the two propping words; you augment things that are already doing fine. Formal register, and the addition is typically brought in from outside."
+    },
+    {
+      "word": "amplify",
+      "nuance": "**Intensity, not quantity** — you turn the existing thing up rather than add more of it: a signal, an effect, a rumour, tension. Nothing new is introduced, so it stays neutral on truth (unlike *exaggerate* or *embellish*). Second GRE sense: to **expand on** a point — *amplify that* means *say more*."
+    }
+  ],
+  "exam_note": "Sentence completions hinge on whether the sentence admits weakness: a blank after \"though the evidence was thin\" wants **bolster/buttress**, while a neutral \"already substantial holdings\" wants **augment** — and if the object is a signal, effect, or point being elaborated, it's **amplify**."
 }

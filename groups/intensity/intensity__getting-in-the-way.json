@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__getting-in-the-way",
+  "title": "Getting in the Way: Friction, Drag, and Flat Impossibility",
+  "seed_words": [
+    "hamper",
+    "hinder",
+    "impede",
+    "preclude"
+  ],
+  "hallucinated": null,
+  "core": "All four describe something interfering with an action, plan, or process — and all four are typically caused by a circumstance rather than a villain: weather, paperwork, an injury, a clause. Three of them only add cost: the effort still happens, just slower, clumsier, or more expensively. The fourth belongs to a different category entirely — it removes the option before the effort can begin. The GRE lives in the gap between \"made harder\" and \"made impossible.\"",
+  "words": [
+    {
+      "word": "hinder",
+      "nuance": "The plainest, mildest, most general of the three friction verbs — it says *there was drag* without specifying what kind, where two of its neighbors do specify. It's the one that naturally takes **progress** as its object and the one that survives negation cleanly (\"nothing hindered them\")."
+    },
+    {
+      "word": "hamper",
+      "nuance": "Names the mechanism: encumbrance. Something is weighing you down or tying your hands, so you carry on at half strength — heavy gear, missing data, a torn hamstring. Note the near-obligatory passive **hampered by** + an external condition, and note that it's the only word here with a totally unrelated noun sense (a lidded basket), which the GRE will not test but a careless reader may trip on."
+    },
+    {
+      "word": "impede",
+      "nuance": "The obstacle sits *in the path*, not on your back — so it prefers subjects that flow or advance: traffic, visibility, blood flow, reform. Slightly more formal and more clinical than its two neighbors, and the only one that yields the common noun **impediment** (\"a speech impediment,\" \"an impediment to progress\")."
+    },
+    {
+      "word": "preclude",
+      "nuance": "Not on the scale — it ends the matter rather than taxing it, and it does so **in advance**. The agent is structural, never a person: a clause, a diagnosis, a prior commitment precludes; a person merely forbids. Formal contract-and-policy register, with the stock collocation **preclude the possibility of**."
+    }
+  ],
+  "exam_note": "The three friction verbs are near-interchangeable, so the sentence's logic — not the word — decides: if the subject still finished, hinder/hamper/impede fit and preclude is the trap; if the option vanished entirely, only preclude works."
+}

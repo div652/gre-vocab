@@ -7,5 +7,21 @@
     "tangential",
     "tangible"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Every word here is a metaphor about contact — how much of something is actually touching something else. Full contact means substance you can lay a hand on; a single point of contact means grazing past; contact between people means knowing exactly how hard to press. The root supplies the image, but each word chooses a different amount of touch, and that amount is the whole meaning.",
+  "words": [
+    {
+      "word": "tact",
+      "nuance": "The only one about people rather than things: touch as **pressure applied to another person**, calibrated live. It's a faculty someone possesses, not a property of an object or an argument — and it's almost always invoked in the negative, as a charge laid against whoever just said the unsayable."
+    },
+    {
+      "word": "tangential",
+      "nuance": "Contact at exactly **one point, then gone**. It concedes the connection in order to dismiss it — the polite blade that *irrelevant* swings bluntly. Attaches to remarks, arguments, evidence, or a person's whole conversational manner; the speaker is ruling something out of scope, not denying it exists."
+    },
+    {
+      "word": "tangible",
+      "nuance": "**Full contact** — solid enough to be handed over, measured, pointed at. It's the demand word: whoever asks for tangible results is calling the previous offering vapour. Where *tangential* grades relevance, this grades reality, and its opposite is *vague*, not *unrelated*."
+    }
+  ],
+  "exam_note": "The trap is that tangible and tangential share a root and their first four letters but sit at opposite ends of the contact scale — check whether the sentence is grading reality or relevance."
 }

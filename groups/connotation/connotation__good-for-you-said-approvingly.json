@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__good-for-you-said-approvingly",
+  "title": "Good For You — Six Kinds of Favourable",
+  "seed_words": [
+    "salutary",
+    "salubrious",
+    "efficacious",
+    "propitious",
+    "auspicious",
+    "providential"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "salutary",
+      "nuance": "The only one where the good thing **hurt**. It attaches to a *lesson*, *warning*, *shock*, *reminder* — the unwelcome experience that corrected you. The others describe pleasant or neutral goods; **salutary** is the one you'd rather not have needed."
+    },
+    {
+      "word": "salubrious",
+      "nuance": "The only one about **physical health**, and it praises *places*, not events: air, climate, a coastline, a spa town. Nothing to do with success or timing. In live modern English it mostly appears negated, where it means *seedy* rather than *unhealthy* — \"a less than salubrious part of town.\""
+    },
+    {
+      "word": "efficacious",
+      "nuance": "The only one that reports a **tested result**: the remedy, the vaccine, the policy did what it was designed to do. Silent about whether it was pleasant, timely, or lucky. It's the lab-coat word for *effective*, reserved for treatments and measures — you'd never call a manager efficacious."
+    },
+    {
+      "word": "propitious",
+      "nuance": "Describes conditions **for an act not yet begun** — a propitious moment to launch, to invest, to sail. It's advice to the actor: go now. Where **auspicious** reads the omens over an event, **propitious** rates the opening you're deciding whether to step through."
+    },
+    {
+      "word": "auspicious",
+      "nuance": "Reads the **signs on a beginning that has just started** — a debut, an opening night, a first week. Ceremonial in register (weddings, launches, inaugurations), and it works hardest negated: *\"not an auspicious start\"* is the polite way to say it went badly from minute one."
+    },
+    {
+      "word": "providential",
+      "nuance": "The only **retrospective** one here: the good already happened, and the timing was too neat to be chance — the rain that stopped the fire, the letter that arrived the morning before the deadline. Where the others rate conditions or effects, **providential** implies someone was *looking after you*. Warm, grateful, faintly theological."
+    }
+  ],
+  "core": "All six are formal, positive words for *something turned out well* or *conditions are good* — and the GRE knows that reading them all as \"approving\" gets you nowhere. The real divisions are three: **what kind of good** (health, effect, luck), **what it attaches to** (a place, a remedy, a moment, an omen, a timing), and **whether the event has happened yet**. Three of them judge a result; three judge a setup. Get the timeline wrong and the sentence collapses even though the connotation fits.",
+  "exam_note": "Every option in this group is positive and formal, so connotation-elimination fails by design — sort instead by tense (propitious/auspicious look forward, providential/salutary/efficacious look back) and by collocate (a *place* is salubrious, a *drug* efficacious, a *lesson* salutary)."
+}

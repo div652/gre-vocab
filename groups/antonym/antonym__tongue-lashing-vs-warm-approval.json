@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__tongue-lashing-vs-warm-approval",
+  "title": "Tongue-lashings vs. praise that counts",
+  "seed_words": [
+    "berate",
+    "upbraid",
+    "harangue",
+    "objurgation",
+    "lambaste",
+    "tirade",
+    "approbation",
+    "acclaim",
+    "estimable"
+  ],
+  "hallucinated": null,
+  "core": "Two poles of public verdict. On one side, words for verbal punishment: someone with a grievance goes on too long, too loudly, and the language records both the scolding and the scolder's loss of composure. On the other, words for approval that carries weight — praise issued by a crowd, an institution, or a judge whose opinion settles something, not affection between friends. The confusion within each pole is about *who* delivers it, *how long* it lasts, and whether the word is judging the target or quietly judging the speaker.",
+  "words": [
+    {
+      "word": "berate",
+      "nuance": "The plain, hot verb: one person yelling at another for as long as their anger holds out. **Berate** needs no naming of the offence and no audience — just sustained volume aimed at a target who is standing right there."
+    },
+    {
+      "word": "upbraid",
+      "nuance": "**Upbraid** always specifies the sin — you upbraid someone *for* something. It's reproach from assumed moral height, colder and more articulate than shouting, and it belongs to prose rather than to real arguments."
+    },
+    {
+      "word": "harangue",
+      "nuance": "Alone in this group, **harangue** is a *speech*, not a telling-off. The target is a captive audience rather than a culprit, and the grievance can be political or moralising instead of personal — the offence is that they can't leave."
+    },
+    {
+      "word": "objurgation",
+      "nuance": "The bookish noun for the same thunder, and the only one here that sounds ridiculous applied to a real person. **Objurgation** makes the scolder look pompous; a writer choosing it is usually smiling at them."
+    },
+    {
+      "word": "lambaste",
+      "nuance": "**Lambaste** happens in print, to public figures, over policy or performance. Where the others attack a person present, this one attacks a record — an editorial lambastes a minister who will never be in the room."
+    },
+    {
+      "word": "tirade",
+      "nuance": "**Tirade** names the outburst as an object after the fact, and its verdict lands on the speaker: he lost control. Unlike berate or upbraid, it doesn't need a wrongdoer at all — one can deliver a tirade against traffic."
+    },
+    {
+      "word": "approbation",
+      "nuance": "Approval that has standing behind it: a board's, a censor's, a superior's. **Approbation** licenses — it means the thing may now proceed — which is why it works for sanction and never for enthusiasm."
+    },
+    {
+      "word": "acclaim",
+      "nuance": "Loud and plural. **Acclaim** comes from a crowd or a press rather than an authority, attaches to work rather than conduct, and signals that the verdict has already settled — \"widely acclaimed\" means the argument is over."
+    },
+    {
+      "word": "estimable",
+      "nuance": "Not an act of praise but a property of the person — the only adjective here. **Estimable** grants respect on merit while withholding warmth, and in debate it is the standard courtesy immediately preceding a knife."
+    }
+  ],
+  "exam_note": "The GRE leans on part of speech and delivery: an \"impassioned ___\" wants the noun (tirade/harangue/objurgation), \"___ him for his negligence\" wants a verb that takes a named fault (upbraid), and it baits approbation into meaning mere liking or estimable into meaning \"estimate-able.\""
+}

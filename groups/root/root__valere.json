@@ -7,5 +7,21 @@
     "prevail",
     "valor"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *valēre* covers two overlapping ideas — to have physical force, and to be in good health — and its English descendants split that inheritance three ways. One tracks strength returning to a body, one tracks strength proving itself against opposition, one tracks strength as a virtue of character. All three assume a contest with weakness, sickness, or danger; the difference is where in that contest the word sits and whether it describes a condition, an outcome, or a quality worth honoring.",
+  "exam_note": "The exam almost never tests **prevail** as \"win\" — it tests *prevailing* meaning \"currently dominant\" (where the winning is forgotten) and *prevail upon* meaning \"persuade\"; and it uses **convalescent** figuratively for markets and institutions, where \"recovering but still weak\" is the whole answer.",
+  "words": [
+    {
+      "word": "convalescent",
+      "nuance": "The only one that describes strength *absent and returning* rather than possessed or proven — it names a condition, not an act, and it can't be done well or badly. It also carries a duration the others don't: valor is a moment, prevailing is an outcome, but **convalescent** is weeks of armchair and blanket, and the clinical register (sanatorium, nursing home) comes with it."
+    },
+    {
+      "word": "prevail",
+      "nuance": "The only one that requires an opponent — **prevail** is strength measured relationally, against resistance, and it's intransitive: you prevail *over* or *against*, never prevail someone. It's also the only one that describes strength as slow attrition rather than a flash: nothing prevails in ten seconds. And it alone drifts away from the contest entirely, so *prevailing* just means \"in force everywhere now.\""
+    },
+    {
+      "word": "valor",
+      "nuance": "Strength as a moral property of a person, not a bodily state or a result — and the only one of the three that praises. **Valor** is the language of citations and eulogies, so it presumes combat or a heroic rescue; applied to office life it reads as mock-heroic, which the other two never do."
+    }
+  ]
 }

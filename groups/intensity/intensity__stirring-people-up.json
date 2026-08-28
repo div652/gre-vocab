@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__stirring-people-up",
+  "title": "Stirring people up",
+  "seed_words": [
+    "goad",
+    "antagonize",
+    "incite",
+    "foment"
+  ],
+  "hallucinated": null,
+  "core": "All four describe deliberately working on someone until they act — and all four put the blame on the one doing the working, not the one who ends up acting. None is neutral: each quietly assumes the resulting action is bad, unwise, or hostile. They separate along two axes: whether the target is one person or a crowd, and whether the pressure is a single push or sustained heat. What changes as you move up the scale is scope and duration — from private needling, to a ruptured relationship, to a mob in the street, to unrest cultivated for months.",
+  "words": [
+    {
+      "word": "goad",
+      "nuance": "**Goad** is one-on-one and works by irritation, not persuasion: repeated small jabs until the target acts just to make them stop. That's why what follows is almost always self-damaging — *goaded into* a punch, a resignation, an unguarded remark. Alone in this group, the sympathy runs to the target."
+    },
+    {
+      "word": "antagonize",
+      "nuance": "**Antagonize** is the only one whose product is a *relationship*, not an action — the target does not riot or lash out, they simply become your enemy. The cost usually lands on you, which is why it arrives as warning (*don't antagonize the judge*) rather than accusation."
+    },
+    {
+      "word": "incite",
+      "nuance": "**Incite** scales up to a crowd and wants a specific unlawful act attached: a riot, a mutiny, a lynching. It's a spark — one speech, one moment — and it's the term the law charges you with, so it reads as an indictment of the speaker."
+    },
+    {
+      "word": "foment",
+      "nuance": "**Foment** is slow heat from off-stage: months of quiet work cultivating a condition — discord, resentment, unrest — rather than triggering one event. The formal register and the implied patience mean the fomenter is rarely in the room when the trouble breaks."
+    }
+  ],
+  "exam_note": "The trap is incite/foment: take a time cue (\"for years,\" \"quietly, from abroad\") or an abstract mass noun (resentment, discord) as foment, and a single moment plus a countable act (a riot, a mutiny) as incite."
+}

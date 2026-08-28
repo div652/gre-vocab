@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__blameworthy-carelessness",
-  "title": "Blameworthy carelessness",
+  "title": "Failing a duty you owed",
   "seed_words": [
     "negligent",
     "lax",
     "oblivious",
     "shirk"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Each of these describes a duty that didn't get done, and each carries at least a whiff of blame. What separates them is *why* the duty went undone — was the standard let slip, was it never noticed at all, or was it seen and actively ducked? — and *how hard* the word points a finger. They also differ in what they attach to: a person's fault, a system's slackness, a mind's blankness, or an act of evasion.",
+  "words": [
+    {
+      "word": "negligent",
+      "nuance": "The verdict word. It names a specific duty owed by a specific person and rules that they fell below it — which is why it belongs in courtrooms and disciplinary findings, where the others would be too soft. The failure is an omission and the blame is formally assigned."
+    },
+    {
+      "word": "lax",
+      "nuance": "Diffuse rather than personal: it attaches to standards, oversight, enforcement, security — the machinery, not the culprit. It's the word for when strictness quietly eroded and no single person can be pinned, which is precisely how an inquiry uses it to fault someone without accusing them. Also the only one here with a purely physical, blameless sense (a lax rope)."
+    },
+    {
+      "word": "oblivious",
+      "nuance": "The only one that assumes no duty at all. It reports a blank — the thing never registered — so the reproach is faint and often affectionate, closer to eye-rolling than to accusation. You can be oblivious to a joke, a mood, or a wet-paint sign; none of those were obligations."
+    },
+    {
+      "word": "shirk",
+      "nuance": "The only verb, and the only word implying the duty was *seen* and slid out of. It attributes laziness or cowardice, not inattention, and its sting is that the work didn't vanish — someone else picked it up. Its object must be an obligation: you shirk a duty, never a party."
+    }
+  ],
+  "exam_note": "The trap is **oblivious**: sentences about unnoticed danger tempt you toward the blame words, but oblivious requires only unawareness — no duty, no fault — while **negligent**, **lax**, and **shirk** all presuppose an obligation that existed."
 }

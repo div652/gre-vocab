@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__tireless-industry-vs-work-dodging",
+  "title": "Tireless Industry vs. Work-Dodging",
+  "seed_words": [
+    "industrious",
+    "sedulous",
+    "indefatigable",
+    "painstaking",
+    "perseverance",
+    "dogged",
+    "indolent",
+    "feckless",
+    "shirk",
+    "dilatory",
+    "dawdle",
+    "sinecure"
+  ],
+  "hallucinated": null,
+  "core": "All of these sit on one axis: how much effort a person will actually put into work — and how the observer judges it. The positive half is not one virtue but four different ones (visible output, fine-grained care, refusal to tire, refusal to quit), which is why they are not interchangeable praise. The negative half splits just as finely: the failing may be a settled temperament, a shortfall of competence, the dodging of a specific duty, mere slowness of pace, or a job that was hollow to begin with. The trap is treating each half as a bag of synonyms; what the exam tests is *which* kind of effort is being credited and *where* the blame is being placed.",
+  "words": [
+    {
+      "word": "industrious",
+      "nuance": "Credits **volume of visible activity** — always at it, with output to show. It says nothing about care, difficulty, or obstacles; you can be industrious at easy, pleasant work all day. The bee, not the watchmaker."
+    },
+    {
+      "word": "sedulous",
+      "nuance": "Bookish and slightly antique, and the pace is **unhurried**. Where industrious is energy, **sedulous** is patient attention held steadily over time — the footnote-checker, not the person clearing the biggest pile."
+    },
+    {
+      "word": "indefatigable",
+      "nuance": "The only one about **capacity, not conduct**: this person cannot be worn out. Measured in years and campaigns, not tasks. Says nothing about care or productivity — and carries a dry edge that they will never let the matter drop."
+    },
+    {
+      "word": "painstaking",
+      "nuance": "The only member that attaches as naturally to the **work** as to the worker (*a painstaking reconstruction*). It credits the fiddly, invisible hours on small details; it is scale-sensitive, so calling a quick job painstaking reads as sarcasm."
+    },
+    {
+      "word": "perseverance",
+      "nuance": "The noun, and the only one that **presupposes obstacles** — failure, delay, discouragement. Remove the resistance and it collapses into ordinary diligence. Slow-burn virtue, not a heroic push."
+    },
+    {
+      "word": "dogged",
+      "nuance": "Praise borrowed from a criticism: it frames persistence as **stubborn refusal to let go**, seen from outside. Deliberately unglamorous and plodding — the detective still knocking on doors in month nine, not the one who solved it."
+    },
+    {
+      "word": "indolent",
+      "nuance": "A **temperament**, not an act, and a contented one — he isn't fighting sloth, he's comfortable. Cool and drawing-room where *lazy* is blunt, which is why writers use it half-fondly of heat and long summers."
+    },
+    {
+      "word": "feckless",
+      "nuance": "Adds **incompetence and unreliability** to idleness: the indolent man does nothing; the feckless man may bustle and still deliver nothing, year after year. It brands a whole character, with a faint Scots–British sneer."
+    },
+    {
+      "word": "shirk",
+      "nuance": "The verb, and it requires an **obligation** — the duty still exists and someone else is now carrying it. A single act can shirk. The charge is moral (laziness or cowardice), not tactical cunning."
+    },
+    {
+      "word": "dilatory",
+      "nuance": "About **timing**, and the delay may be the point — formal enough to describe an action, not just a person (*a dilatory motion*). Calling someone slow describes a pace; calling them dilatory files a complaint."
+    },
+    {
+      "word": "dawdle",
+      "nuance": "The mild, almost affectionate failure: no duty dodged, no strategy, just **aimless drift** while genuinely on the way. \"Stop dawdling\" is a nudge to a child, not an accusation."
+    },
+    {
+      "word": "sinecure",
+      "nuance": "A noun for the **post**, not the person — the emptiness is built into the office, usually as a reward for a friend or donor. You can hold one and be perfectly industrious; there is simply nothing to do."
+    }
+  ],
+  "exam_note": "Traps live in the mismatched pairings: *dilatory* is about tempo and possible intent (not laziness), *feckless* is incompetence (not comfort), *indolent* is disposition (not a dodged duty), and *sinecure* blames a job (not a worker) — so an \"opposite of indefatigable\" item will bait you with any lazy-sounding word instead of the one about stamina."
+}

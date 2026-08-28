@@ -7,5 +7,21 @@
     "feint",
     "figurative"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *fingere* meant to shape clay, and from there to shape something that wasn't there before — an appearance, a movement, a meaning. Everything under this root is *made*, not found: a manufactured state, a manufactured motion, a manufactured sense of a word. The confusion is double. Two of them are pronounced identically (FAYNT) and both involve misdirection, while the third shares the \"not the real thing\" idea but carries no deceit at all.",
+  "words": [
+    {
+      "word": "feign",
+      "nuance": "The only one that wants to go undetected — you **feign** interest, illness, or ignorance hoping nobody notices, and it fails the moment they do. Its object is an inner state performed outward, and it always implies a composed performer managing their own face."
+    },
+    {
+      "word": "feint",
+      "nuance": "The opposite arrangement: a **feint** must be *seen* to work, since the whole point is to move the opponent's guard. It's a discrete physical or tactical move in the direction you will not go, and it's morally neutral — boxers and generals feint, nobody accuses them of lying. Also the group's only noun."
+    },
+    {
+      "word": "figurative",
+      "nuance": "No one is being fooled — with **figurative** language the audience is in on it, and departing from the literal is a shared convention rather than a trick. It also flips domains: in a gallery it means the picture actually shows recognisable things, the reverse of \"not real.\""
+    }
+  ],
+  "exam_note": "Sentence-equivalence items lean on the homophone split (feign = pretend to feel; feint = mislead by moving) and on figurative flipping to \"representational\" the instant the passage turns to painting."
 }

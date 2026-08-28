@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__broken-word-to-treachery",
+  "title": "Broken Word to Treachery",
+  "seed_words": [
+    "renege",
+    "betray",
+    "perfidy"
+  ],
+  "hallucinated": null,
+  "core": "All three cover the failure of someone who was trusted — a commitment given, then violated. They differ in how much of the bond is broken and how harshly the speaker judges it: one is a walked-back deal, one is a person handed over, one is a moral verdict. The scale runs from procedural bad faith to condemnation. Note that the middle term also carries a second, quieter sense that has nothing to do with malice at all.",
+  "words": [
+    {
+      "word": "renege",
+      "nuance": "The narrowest and coolest: **renege** breaks a *specific prior undertaking* — a pledge, a contract, an offer — and takes *on*. No person need be harmed and no intimacy need exist; a government reneges on a treaty the way a buyer reneges on a signed bid. It's the transactional end of the scale, more bad faith than treachery."
+    },
+    {
+      "word": "betray",
+      "nuance": "**Betray** takes a *person, cause, or confidence* as its object, not a clause — you hand someone over to the other side. It also has a sense the others lack entirely: an involuntary leak, where a tremor or a flush **betrays** nerves their owner was working to hide. That sense implies no villain, only a detail that defected."
+    },
+    {
+      "word": "perfidy",
+      "nuance": "**Perfidy** is the noun of judgment, formal and contemptuous: it names the *violation of a bond by someone who traded on it* — ally, spouse, oath. It presumes calculation, so no accident or slip qualifies, and it's reached for when plain betrayal isn't damning enough. In the laws of war it's a defined crime: feigning surrender to shoot."
+    }
+  ],
+  "exam_note": "The trap is sense 2 of **betray** — in a sentence about a face, a voice, or a gesture revealing hidden feeling, the answer is not treachery-flavored at all, and *perfidy* is planted to pull you there."
+}

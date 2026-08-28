@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__pathos",
-  "title": "Root: pathos (feeling, suffering) + anti- (against)",
+  "title": "pathos (feeling) + anti- (against): feeling against, feeling nothing, feeling into",
   "seed_words": [
     "antipathy",
     "apathy",
     "empathetic"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three are built on Greek *pathos* — feeling, suffering — and each names a stance toward what someone else feels or does. The prefix decides everything: feeling *against* it, feeling *nothing* at all, or feeling *into* it. What makes them confusable is that two of them are negative and get used about the same subjects (a public, an electorate, an audience), so writers slide between \"they're hostile to it\" and \"they can't be bothered.\" That slide is exactly the distinction the words exist to hold apart.",
+  "exam_note": "The classic trap is **antipathy** vs **apathy** in sentence completions: look at whether the surrounding clause describes a target (aversion *to* something specific) or a failure to respond (couldn't be *roused*, didn't turn out, shrugged) — hostility and indifference read alike in a blank but never in the sentence around it.",
+  "words": [
+    {
+      "word": "antipathy",
+      "nuance": "The only one of the three that has a **target** — you have antipathy *toward* a person, a policy, a cuisine, and the word points at it. It is a settled push-away, cold rather than hot, and it presumes engagement: you have registered the thing well enough to want distance from it."
+    },
+    {
+      "word": "apathy",
+      "nuance": "The hole where a reaction should be. It has no target — an apathetic voter isn't against the candidate, they simply don't show up — and it is the one word here that accuses the *subject* rather than describing a relationship: writers reach for it to shame a public for failing to care about something that deserved caring about."
+    },
+    {
+      "word": "empathetic",
+      "nuance": "The only positive member, the only adjective, and the only one that moves *toward* another person's interior rather than away or nowhere. It describes a capacity applied to a specific person in a specific moment — and it stops at understanding: it credits you with feeling what they feel, not with doing anything about it."
+    }
+  ]
 }

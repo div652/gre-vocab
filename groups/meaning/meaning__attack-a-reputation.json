@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__attack-a-reputation",
-  "title": "Attack a reputation",
+  "title": "Attacking a reputation",
   "seed_words": [
     "vilify",
     "malign",
@@ -9,5 +9,29 @@
     "impugn",
     "stigmatize"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five damage standing rather than refute substance: they go after the person's good name, not the merits of what the person said. All are formal, all are negative, and — importantly — nearly all tilt the reader's sympathy toward the target, quietly marking the attack as undeserved and the attacker as the one at fault. What separates them is the mechanics of the damage: how loud it is, whether it's a campaign or a single thrust, what specifically is being attacked (worth, honesty, or identity), and who does the branding — one accuser, a whisper network, or the whole society.",
+  "words": [
+    {
+      "word": "vilify",
+      "nuance": "The loudest of the group and the most public: **vilify** needs an audience — print, a podium, a pile-on. Where the others can be done quietly or in passing, this one is sustained character assassination, painting the target as wicked and worthless rather than merely inferior."
+    },
+    {
+      "word": "malign",
+      "nuance": "The quiet one. **Malign** is done behind the back — a steady drip of ill-speaking that never has to be public or organised, which is exactly why it's hard to answer. It also uniquely doubles as an adjective (*a malign influence*), where it means evil in effect and has nothing to do with speech at all."
+    },
+    {
+      "word": "denigrate",
+      "nuance": "Attacks *worth* rather than character: **denigrate** talks someone or their achievements down, belittling competence and value, and it can take an impersonal object — you can denigrate a book, a discipline, a whole body of work. Milder than vilify: it makes the target small, not monstrous."
+    },
+    {
+      "word": "impugn",
+      "nuance": "A single frontal thrust, not a campaign, and it lands specifically on **honesty** — motives, integrity, the credibility of a witness or the validity of a claim. It also stops short of proving anything: to **impugn** is to cast doubt, which is why the accuser often looks like the one overreaching. The natural habitat is courtroom and legislature."
+    },
+    {
+      "word": "stigmatize",
+      "nuance": "The disgrace is social and collective — **stigmatize** is what a whole society does, not what one speaker does, and the mark sticks to an identity or condition (addiction, poverty, mental illness) rather than to a rival's name. Alone in the group, its object is usually a class of people, and it lives in the passive with no attacker named."
+    }
+  ],
+  "exam_note": "The trap is the object: impugn takes motives and claims, stigmatize takes conditions and groups, denigrate takes achievements — so check what the sentence is attacking before you pick the word whose *tone* feels right."
 }

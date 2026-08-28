@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__rigidly-set-vs-easily-shaped",
+  "title": "Rigidly set vs. easily shaped",
+  "seed_words": [
+    "hidebound",
+    "ossify",
+    "entrenched",
+    "ingrained",
+    "doctrinaire",
+    "immutable",
+    "malleable",
+    "pliant",
+    "plastic",
+    "supple",
+    "tractable",
+    "amenable"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers one question: can this thing be given a new shape? The first six say no — a habit, position, doctrine, or law that resists whatever pressure is applied to it. The last six say yes — a material, mind, person, or problem that yields to hands, arguments, or method. The difficulty is that both halves are internally crowded: within \"won't change\" the words differ on *why* (age, decay, depth, theory, nature), and within \"will change\" they differ on *who does the shaping* and whether that's a compliment.",
+  "words": [
+    {
+      "word": "hidebound",
+      "nuance": "The only one that dates its target: **hidebound** says the rigidity consists of *old* rules kept for no reason but their age. The others are merely immovable; this one is also behind the times, and it points at institutions — faculties, armies, bureaucracies — more than at individuals."
+    },
+    {
+      "word": "ossify",
+      "nuance": "The only verb, and the only word carrying a before: **ossify** requires that the thing was once soft and living, so it narrates a decline rather than reporting a state. A reform movement ossifies; a mountain cannot."
+    },
+    {
+      "word": "entrenched",
+      "nuance": "Pure immovability with no verdict attached — **entrenched** tells you nothing about age, origin, or merit, only that ordinary force won't dislodge it. It's also the one fixity here you can create on purpose: a right entrenched in a constitution is deliberate armour."
+    },
+    {
+      "word": "ingrained",
+      "nuance": "Locates the fixity *inside* the holder and credits repetition for it — **ingrained** is what long practice has worn into a reflex or a surface. It's the only one that still works literally on dirt, and the only one implying the person may not notice they have it."
+    },
+    {
+      "word": "doctrinaire",
+      "nuance": "Rigid about *theory*, not habit: the **doctrinaire** thinker arrives with the argument fully formed and won't let the case in front of him amend it. Where the others describe things that can't move, this describes someone who refuses to let evidence move them."
+    },
+    {
+      "word": "immutable",
+      "nuance": "The absolute: not hard to change but impossible, by anyone, ever — a claim about the thing's nature, in the register of physics, contract, and scripture. It's also the only word in this half that isn't an insult, which is why it's so often used bitterly about fixities that turned out to be mere arrangements."
+    },
+    {
+      "word": "malleable",
+      "nuance": "Yields to a hammer, and the hammer is always someone else's — **malleable** hands the credit for any change to the shaper, not the shaped. Warm about the young and unformed, cold the instant the shaper has an agenda."
+    },
+    {
+      "word": "pliant",
+      "nuance": "Bends under pressure without snapping — the emphasis is the *absence of resistance*, not the new shape produced. On leather it's praise; on a person it's the word a manipulator would use about a mark."
+    },
+    {
+      "word": "plastic",
+      "nuance": "The one that stresses permanence: a **plastic** thing takes the new shape and *keeps* it. Malleable and pliant only say it gives; plastic says the impression stays — hence its home in developing brains and impressionable minds."
+    },
+    {
+      "word": "supple",
+      "nuance": "The only member with spring-back, and so the only reliable compliment: **supple** things bend *and* recover, which makes strength part of the meaning. A supple negotiator is quick and adaptive; a pliant one is a pushover."
+    },
+    {
+      "word": "tractable",
+      "nuance": "Shaped by being *steered*, not moulded — the metaphor is reins, so it praises from above and means compliant rather than willing. Uniquely, it turns purely technical when applied to a problem, and its negative twin **intractable** is the form the exam actually favours."
+    },
+    {
+      "word": "amenable",
+      "nuance": "The only one that requires consent: you can't hammer someone into being **amenable**, they agree — low resistance rather than enthusiasm, and no warmth implied. Nearly always followed by *to*, and in academic prose it means only that a method can get a grip on the problem."
+    }
+  ],
+  "exam_note": "The exam rarely opposes these cleanly — it buries the split inside a sentence-equivalence pair where one option means *steerable by a person* and the other *solvable by a method* (tractable, amenable), or dangles **supple** where a contemptuous context actually demands **malleable**."
+}

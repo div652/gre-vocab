@@ -1,0 +1,77 @@
+{
+  "kind": "antonym",
+  "id": "antonym__peacemaking-vs-fight-picking",
+  "title": "Peacemaking vs. fight-picking",
+  "seed_words": [
+    "conciliatory",
+    "mollify",
+    "placate",
+    "appease",
+    "amicable",
+    "détente",
+    "comity",
+    "belligerent",
+    "pugnacious",
+    "truculent",
+    "contentious",
+    "antagonize",
+    "fractious"
+  ],
+  "hallucinated": null,
+  "core": "Every word here measures the temperature between two parties who could be at war. One half lowers it — soothing an angry counterpart, or naming the state of non-hostility that results; the other half raises it — describing someone who carries a fight around with them, or the act of turning a neutral party into an enemy. The confusions are never across the divide; they're inside each half. On the peace side, the words differ by what the peacemaker actually gave up and how much dignity survived. On the hostility side, they differ by whether you're looking at a posture, a lifelong temperament, or a property of the disputed thing itself.",
+  "exam_note": "GRE blanks in this family turn on price and posture: whether the sentence says something was surrendered (**appease**), tossed out cheaply (**placate**), or merely said in a pleasant tone (**conciliatory**) — and on the other side, whether the hostility is a stance taken now (**belligerent**), a permanent temperament (**pugnacious**/**truculent**), or a quality of the issue rather than the person (**contentious**).",
+  "words": [
+    {
+      "word": "conciliatory",
+      "nuance": "The only peace word here that rates a **tone** rather than an outcome or a transfer: a **conciliatory** remark costs the speaker nothing but the temperature drops anyway. Where *placate* and *appease* both name something handed over, this one keeps the dignity and the position intact — its worst charge is the *appearance* of caving."
+    },
+    {
+      "word": "mollify",
+      "nuance": "The softest verb, and the one aimed squarely at **feelings** rather than demands — you mollify her fears, her critics, her wounded pride, never a policy. It stays neutral about the tactic and it hedges on the result: \"failed to mollify\" is as common a phrase as the success version, which is not true of *appease*."
+    },
+    {
+      "word": "placate",
+      "nuance": "Carries a faint sneer at the person being soothed — \"a few tweaks to **placate** the shareholders\" tells you the tweaks were token and the shareholders were a nuisance to be managed. *Mollify* is sincere and *appease* is a defeat; **placate** is the weary, transactional middle: cheap fix, bought quiet, nobody fooled."
+    },
+    {
+      "word": "appease",
+      "nuance": "Alone in naming the **price**: you yielded to demands, and the nominalisation *appeasement* is close to an accusation that the bully will be back. It is also the only verb in the group that takes an appetite rather than a person — you can **appease** hunger or curiosity, but you cannot placate them."
+    },
+    {
+      "word": "amicable",
+      "nuance": "Describes not a gesture but the **conducted tone of a dealing** — a divorce, a settlement, a parting — and it appears specifically where a fight was expected and didn't happen. Note it demands no warmth at all: two people can end things **amicably** and never speak again, which is why the word lives in legal filings."
+    },
+    {
+      "word": "détente",
+      "nuance": "A noun for a **state between rivals**, not an act by a peacemaker — nobody has apologised, conceded, or forgiven; both sides have simply stopped aiming. It carries the Cold War in it, so applied to two relatives avoiding the subject of the will it lands drily, dressing a squabble in the language of arms control."
+    },
+    {
+      "word": "comity",
+      "nuance": "Not the repair of a quarrel but the **standing procedural courtesy** that keeps one from starting — restraint and deference between parties under no obligation to offer either. It is structural and institutional: you praise the **comity** of the Senate or comity between jurisdictions, never the comity of your flatmate."
+    },
+    {
+      "word": "belligerent",
+      "nuance": "Hostility that has already **moved into action** — leaning in, voice up, daring you to answer. Unlike *pugnacious* and *truculent*, which name a temperament, this describes the stance being taken right now; it also has a straight technical sense for nations at war (\"the **belligerents** met in Geneva\")."
+    },
+    {
+      "word": "pugnacious",
+      "nuance": "A standing appetite for a fight that is usually **verbal**, and the only word on this side that can be admiring — the columnist, the trial lawyer, the small striker who won't be bullied. It has relish and energy where *truculent* has sulking and *belligerent* has real violence."
+    },
+    {
+      "word": "truculent",
+      "nuance": "Sullen and combative at once — **glowering** rather than swinging, radiating a dare instead of issuing one. It carries a particular smell of the subordinate resisting authority: the **truculent** teenager, witness, shop steward. Of prose it means savagely harsh, out to wound."
+    },
+    {
+      "word": "contentious",
+      "nuance": "The only one that attaches to a **thing** as readily as a person: a **contentious** clause, border, appointment — something that generates fights rather than merely attracting disagreement. Of a person it means quarrelsome, and it's a cold formal criticism you'd write in a performance review rather than shout across the table."
+    },
+    {
+      "word": "antagonize",
+      "nuance": "The only verb where **you** are the aggressor and the damage is to the **relationship** rather than the mood — annoying someone spoils their afternoon; antagonizing them converts a neutral party into an opponent. It usually arrives as strategic advice about someone with power over you: don't antagonize the landlord, the regulator, the judge."
+    },
+    {
+      "word": "fractious",
+      "nuance": "The mild, observer's word — a **fractious** person is a nuisance, not a threat, and the tone is a nanny's or a political correspondent's weariness. Uniquely, it also describes a **group turning on itself**: a fractious coalition or union squabbles internally and looks liable to split, which *belligerent* and *truculent* never mean."
+    }
+  ]
+}

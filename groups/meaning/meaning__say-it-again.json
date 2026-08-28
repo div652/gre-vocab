@@ -8,5 +8,25 @@
     "perpetuate",
     "redundant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four turn on something happening more than once — content restated, ground covered again, a condition kept running past its natural end. The splits are three: *what* recurs (a sentence, a set of points, a practice), *who is doing it* (a speaker on purpose, or a society by default), and *whether the recurrence is judged useful or wasteful*. Two of these are things a speaker does to their own words; one is what a group does to a bad situation; one is the verdict passed on repetition after the fact.",
+  "words": [
+    {
+      "word": "reiterate",
+      "nuance": "One point, restated in roughly its original form, because the speaker thinks it didn't land — the repetition is deliberate and mildly aggrieved (\"let me reiterate\" = *you should have caught this*). It takes a single claim or position, never a whole talk and never a practice."
+    },
+    {
+      "word": "recapitulate",
+      "nuance": "Many points, compressed and put back in order — the detail is deliberately dropped, which is what separates it from restating something as it was. Structurally end-loaded: it belongs to the closing argument or final slide, and it presumes an audience that already sat through the long version."
+    },
+    {
+      "word": "perpetuate",
+      "nuance": "Nothing is being said at all — a practice, myth, or system simply keeps running, and you are the one keeping it alive. The others are things a speaker chooses to do in a moment; this is usually done passively, over generations, and the word itself is the accusation."
+    },
+    {
+      "word": "redundant",
+      "nuance": "The only judgment here rather than an act — it labels repetition as needless *because* it duplicates, which is the charge an editor makes about someone else's prose. Note the two senses that flip the valence: British \"made redundant\" (laid off) and engineering redundancy, where the duplication is the safeguard and the word turns approving."
+    }
+  ],
+  "exam_note": "The trap is treating **perpetuate** as a fancy synonym for repeating a statement — it takes conditions and practices, not sentences; and **redundant** in a technical passage often means the *intended* backup, not the flaw."
 }

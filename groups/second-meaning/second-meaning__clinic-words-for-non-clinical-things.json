@@ -1,0 +1,42 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__clinic-words-for-non-clinical-things",
+  "title": "Clinic Words for Non-Clinical Things",
+  "seed_words": [
+    "benign",
+    "virulent",
+    "endemic",
+    "fester",
+    "ossify",
+    "cathartic"
+  ],
+  "hallucinated": null,
+  "core": "All six begin in the sickroom — tumours, toxins, infections, wounds, bones, purgatives — and all six do most of their GRE work far from it, describing policies, prejudices, bureaucracies, grievances and grief. The metaphor is never decorative: each smuggles in a specific clinical claim about *how* the thing is bad, or not bad. The trap is that the literal sense is neutral diagnosis while the figurative sense is usually a verdict, and both can appear in one passage. Read them for what the medical picture asserts — spread, permanence, neglect, hardening, release — not for general approval or disapproval.",
+  "words": [
+    {
+      "word": "benign",
+      "nuance": "**Benign** is the only member that clears a thing of danger, and it does so by *ruling out* something worse rather than finding anything good. That's the exam's favourite move: inspected, found not to be a threat — faint praise at best, and often edging into \"inert, not worth the alarm.\""
+    },
+    {
+      "word": "virulent",
+      "nuance": "**Virulent** keeps both halves of the pathogen picture: poison *and* transmission. Where **endemic** says only that a thing has settled in and **fester** says it was neglected, **virulent** says it attacks and infects others — the harshest condemnation here, and the only one that fits hostile speech (virulent invective, virulent bigotry)."
+    },
+    {
+      "word": "endemic",
+      "nuance": "**Endemic** reports *distribution*, not severity — it fixes a thing to a place or population as a permanent resident. It never rates the harm, only the address and the fact that it isn't leaving; that's why \"corruption is endemic to the ministry\" is a structural indictment rather than an alarm, and why the biology sense (found only in Madagascar) stays neutral."
+    },
+    {
+      "word": "fester",
+      "nuance": "**Fester** is the only one that assigns blame for *inaction*. It needs an interval and a neglector: the wound would have closed had anyone touched it. **Virulent** implies an aggressor, **ossify** implies mere elapsed time; **fester** implies a decision not to deal with it — and being a verb, it narrates the worsening."
+    },
+    {
+      "word": "ossify",
+      "nuance": "**Ossify**'s pathology is hardening, not infection — nothing spreads, nothing rots, the thing simply stops moving. It requires a once-supple past (a reform movement, a living ritual) and delivers contempt for rigidity rather than fear of harm; a committee can ossify without ever hurting anyone."
+    },
+    {
+      "word": "cathartic",
+      "nuance": "**Cathartic** is the lone word here whose medical sense is the *treatment*, not the disease — purgation, relief by emptying. It demands a build-up and a discharge, and the discharge is usually rough: weeping, rage, the confrontation you'd been avoiding. Comfort disqualifies it, so the warm bath fails and the brutal funeral speech qualifies."
+    }
+  ],
+  "exam_note": "The exam runs the literal sense in a science passage and the figurative sense elsewhere, then makes the answer hinge on what the metaphor asserts — spread (virulent), permanence (endemic), neglect (fester), rigidity (ossify) — so reading them all as generic \"bad\" picks wrong every time."
+}

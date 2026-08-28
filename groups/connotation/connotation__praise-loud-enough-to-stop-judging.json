@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__praise-loud-enough-to-stop-judging",
+  "title": "Praise loud enough to stop judging",
+  "seed_words": [
+    "lionize",
+    "deify",
+    "canonize",
+    "extol",
+    "acclaim",
+    "tout"
+  ],
+  "hallucinated": null,
+  "core": "All six describe praise pitched loud enough that assessment stops happening — the volume, the crowd, or the institution takes over from the judgment. What separates them is who is doing the praising (one speaker at a podium, a whole field, a church, a salesman), how permanent the verdict is meant to be, and whether the writer using the word believes it. Several are set-ups: the author reaches for them precisely to signal that the enthusiasm outran the evidence.",
+  "words": [
+    {
+      "word": "extol",
+      "nuance": "The only one purely about **volume and vocabulary** — one speaker, praising at length in elevated language. It says nothing about crowds, institutions, or permanence; it's a performance of praise, which is why it lives inside *extol the virtues of* and carries a whiff of the sermon."
+    },
+    {
+      "word": "acclaim",
+      "nuance": "The verdict of a **crowd or a field**, not a speaker — and it attaches to work (a novel, a performance), rarely to character. Alone among these it can be entirely straight: *widely acclaimed* reports that the argument settled, with no implied eye-roll."
+    },
+    {
+      "word": "lionize",
+      "nuance": "Praise redirected from the work to the **person as a spectacle** — parading them through salons, panels, press. It describes the fuss, explicitly not the merit, and writers deploy it to hint that fashion did the choosing."
+    },
+    {
+      "word": "canonize",
+      "nuance": "Requires an **institution with the authority to make it stick** — the Church, the academy, the syllabus. Its distinguishing effect is finality: it doesn't raise a reputation, it freezes one past the point where debate is permitted."
+    },
+    {
+      "word": "deify",
+      "nuance": "The endpoint: the object is placed **beyond the possibility of being wrong**. Note that it indicts the worshippers rather than describing the worshipped — fans, biographers, the party faithful who have surrendered judgment entirely."
+    },
+    {
+      "word": "tout",
+      "nuance": "The outlier — not admiration but **salesmanship by someone with skin in the game**. The praise is inflated because the promoter profits, and the passive *touted as* is a journalist's standard prelude to explaining that it wasn't."
+    }
+  ],
+  "exam_note": "Sentence equivalence loves the sneer: a blank framed by *though*, *merely*, or a deflating second clause wants **lionize**, **deify**, or **touted** — not the neutral **acclaim**."
+}

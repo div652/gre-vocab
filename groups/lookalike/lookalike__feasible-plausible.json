@@ -8,5 +8,21 @@
     "viable"
   ],
   "similarity": 0.64,
-  "auto": true
+  "auto": true,
+  "core": "Three minimum-bar adjectives. Each certifies that something clears a floor and pointedly declines to say more — which is why they all read as lukewarm, and why they get swapped for one another. The trap is that the floors are different: one is about whether a thing can be carried out, one about whether a claim can be believed, one about whether a thing can keep going. Two of them judge actions; one judges assertions.",
+  "words": [
+    {
+      "word": "feasible",
+      "nuance": "The resource test: enough time, money, hands, and technology to pull it off. It attaches only to things you *do* — a plan, a route, a build — never to a claim or an explanation, so it cannot be true or false, only doable. And it stops at the finish line: **feasible** says you can get the thing built, not that it lasts a week afterward."
+    },
+    {
+      "word": "plausible",
+      "nuance": "The odd one out — it judges *statements*, not projects: an alibi, a theory, an excuse. The verdict is about how something sounds to a listener, which makes it the only one of the three that a speaker can use as a quiet insult (*a plausible story*). Nothing about resources or endurance; **plausible** things need never be attempted at all."
+    },
+    {
+      "word": "viable",
+      "nuance": "The survival test, and the bar is life, not merit — the biology (a **viable** seed, a viable fetus) sets the standard at \"won't die.\" It measures the stretch *after* launch, where *feasible* measures the stretch before it: a plan can be feasible to execute and not viable for a month. Hence its use in business and politics as damnation dressed as approval."
+    }
+  ],
+  "exam_note": "The exam decides between them with the noun and the timeframe: an *explanation* takes plausible, a *plan given the budget* takes feasible, a *venture that must last* takes viable — and it rewards you for reading all three as faint praise, not endorsement."
 }

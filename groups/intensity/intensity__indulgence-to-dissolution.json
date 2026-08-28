@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__indulgence-to-dissolution",
+  "title": "Indulgence to dissolution",
+  "seed_words": [
+    "self-indulgent",
+    "decadent",
+    "libertine"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "self-indulgent",
+      "nuance": "The weakest charge and the only one that stays private: it's about **appetite without discipline** — extra dessert, an unedited film, a wallowing mood. No decline, no scandal, no sex; nobody else is harmed. It's the only one here that routinely describes *work* rather than a life — a self-indulgent solo pleases its maker, not you."
+    },
+    {
+      "word": "decadent",
+      "nuance": "Adds a **trajectory**: the pleasure is evidence that something once vigorous is rotting. It's the only word here that scales up to whole eras — a decadent empire, a decadent school of painting — and the only one advertising has defanged into meaning *chocolatey*. The GRE wants the historian's sense: past its peak, softening into ornament."
+    },
+    {
+      "word": "libertine",
+      "nuance": "Narrows to **conduct, and mostly sex and drink**, and to a person rather than a period or a poem. Where the others describe softness, this one describes a doctrine — the libertine has a rationale for his vices and will defend it in verse. Literary, faintly admiring, always costumed: it puts him in a drawing room, not a clinic."
+    }
+  ],
+  "core": "All three describe a life given over to pleasure with the brakes off, and all three carry disapproval — but they disapprove of different things and at different volumes. One faults a lack of discipline, one reads pleasure as a symptom of something collapsing, one names an outright abandonment of moral rules. They also differ in what they can attach to: a habit, a civilisation, or a man.",
+  "exam_note": "The trap is treating them as one dial of \"how much fun\" — the exam picks between them on *what's implied*: undisciplined, in decline, or morally unbound."
+}

@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__padded-prose-vs-compressed-prose",
+  "title": "Padded prose vs. compressed prose",
+  "seed_words": [
+    "verbose",
+    "prolix",
+    "turgid",
+    "redundant",
+    "pithy",
+    "terse",
+    "brevity",
+    "economy",
+    "aphorism"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a verdict on how many words were used to do a job. One side says *too many* — the text is padded, and the reader pays for it in time and patience. The other side says *few, and well chosen* — compression treated as a skill, sometimes as an artifact. The confusion is that within each side the words are not interchangeable: they differ on **what** the excess is made of (bulk, pomposity, duplication) and on **what** the shortness buys you (substance, chill, mere shortness, control).",
+  "exam_note": "The padded four look swappable in a blank, so the exam decides it on the *kind* of excess — a clue about pomposity forces **turgid**, a clue about repeating something already said forces **redundant**, and only sheer length lets **verbose**/**prolix** in; on the other side it splits **pithy** (good) from **terse** (cold) by the tone of the surrounding sentence, not by length.",
+  "words": [
+    {
+      "word": "verbose",
+      "nuance": "The plain word-count charge, and the mildest: **verbose** says only that the words outnumber the point, with no claim that the writer was pompous or that the reader suffered. It's the everyday editorial verdict, neutral enough in register to survive in a software setting where verbose output is what you asked for."
+    },
+    {
+      "word": "prolix",
+      "nuance": "**Prolix** is verbose with the tedium built in — the reader's exhaustion is part of the meaning, not an inference. It's also the bookish one: a critic's word, reserved for sustained prose and formal speech, never for a chatty person."
+    },
+    {
+      "word": "turgid",
+      "nuance": "The excess in **turgid** prose is inflation, not just bulk — the writing is swollen with its own importance, ponderous and grand. A short passage can be turgid; a long plain one cannot. It's the only one of the four with a live literal sense (a turgid river, turgid tissue)."
+    },
+    {
+      "word": "redundant",
+      "nuance": "**Redundant** makes no claim about total length — it points at duplication. Two words (\"free gift\") can be redundant while a hundred-page report is merely verbose, and the fix is deleting the copy, not trimming throughout. Faint sting of carelessness: you didn't notice you'd already said it."
+    },
+    {
+      "word": "pithy",
+      "nuance": "The only word in the group that guarantees the content was *good*. **Pithy** is short plus loaded — a line that lands. Where the others measure quantity or temperature, this one measures payoff, and it is almost always praise."
+    },
+    {
+      "word": "terse",
+      "nuance": "**Terse** measures emotional temperature, not quality. The shortness itself is the message — irritation, reserve, conversation over. Praise for a prose style, a small insult when applied to a person's reply."
+    },
+    {
+      "word": "brevity",
+      "nuance": "The abstract noun for shortness itself, making no promise about substance — a one-word answer has **brevity** even if it's empty. It's also the only member with a time sense, where the tone flips wistful: the brevity of a summer, of a life."
+    },
+    {
+      "word": "economy",
+      "nuance": "**Economy** credits the writer, not the text: it implies deliberate control, everything left in doing work. It's also the broadest — it governs gesture, effort and materials, not only words, and it reads as skill where *parsimony* would read as stinginess."
+    },
+    {
+      "word": "aphorism",
+      "nuance": "Not a quality but a countable object — one crafted sentence stating a general truth. An **aphorism** has an author and shows the tooling, where a proverb is anonymous folk property and a maxim instructs rather than observes."
+    }
+  ]
+}

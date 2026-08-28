@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__overstepping-your-standing",
+  "title": "Overstepping your standing",
+  "seed_words": [
+    "presumptuous",
+    "impertinent",
+    "impudent",
+    "insolent",
+    "officious",
+    "effrontery"
+  ],
+  "hallucinated": null,
+  "core": "All of these accuse someone of behaving as if they had a standing they were never given — speaking, asking, helping, or acting from a position above their actual place. The offence is never the content alone; it is the breach of a boundary everyone present understood. Because that boundary is usually a hierarchy, the words tell you as much about the speaker (who expected deference) as about the offender. They differ in what form the overreach takes — an act, a question, a tone, a favour nobody asked for — and in how much shamelessness is being alleged.",
+  "words": [
+    {
+      "word": "presumptuous",
+      "nuance": "The only one that requires no rudeness at all: you can be perfectly courteous and still **presumptuous**, because the charge is against the act of assuming a right, not the manner of it. It's also the only member speakers apply to themselves as a politeness move (\"it would be presumptuous of me to suggest…\") — try that with any other word here and it collapses."
+    },
+    {
+      "word": "officious",
+      "nuance": "Here the overreach arrives disguised as *service*: the **officious** person helps, advises and enforces rules at you rather than talking back to you. It points downward or sideways — the clipboard, the jobsworth, the volunteer marshal — never at a junior cheeking a boss, and it implies the person is savouring a scrap of authority they don't actually hold."
+    },
+    {
+      "word": "impertinent",
+      "nuance": "Locates the offence in the **content of a remark or question** — something you had no standing to ask — rather than in tone or attitude. It's the primmest of the group: arch, faintly Victorian, often half-amused (\"an impertinent question, but I'll answer it\"), so it stings less than *insolent*. Guard the second sense: in legal and formal prose it just means *not pertinent, irrelevant*."
+    },
+    {
+      "word": "impudent",
+      "nuance": "Adds the **grin**. Where *impertinent* is fussy and *insolent* is cold, **impudent** is cheeky and pleased with itself — the offender knows the rank exists and enjoys ignoring it. It is spoken downward at children, apprentices and juniors, and it dates whoever uses it more than it damns the target."
+    },
+    {
+      "word": "insolent",
+      "nuance": "The coldest and most contemptuous: the offence is a visible **refusal to defer** — the shrug, the smirk, the tone — more than anything actually said. It needs a hierarchy to exist and is almost always chosen by the person disrespected, so it quietly announces that the speaker expected obedience. None of the amusement that softens *impudent*."
+    },
+    {
+      "word": "effrontery",
+      "nuance": "The only **noun**, and it names the quality rather than describing a person: sheer shamelessness, gall that should have produced a blush and didn't. Unlike *audacity* it can never be admiring — the speaker's outrage is built into the word — and it lives almost entirely inside \"had the effrontery to —,\" where whatever follows is treated as indefensible."
+    }
+  ],
+  "exam_note": "The distractors differ by direction and form, not degree: officious pushes help downward, insolent and impudent push attitude upward, presumptuous needs no rudeness at all — and impertinent's sleeper sense \"irrelevant\" is the classic trap in a legal or formal sentence."
+}

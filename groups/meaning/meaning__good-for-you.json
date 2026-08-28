@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__good-for-you",
-  "title": "Good for you",
+  "title": "Good for you: what kind of good, and from where",
   "seed_words": [
     "conducive",
     "salubrious",
     "salutary",
     "boon"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four stamp something as **good for you**, and three of them are Latinate adjectives that a careless reader flattens into a single \"beneficial.\" The differences are about *what kind* of good: clearing the way for an outcome, being physically wholesome, correcting you through discomfort, or landing in your lap as luck. They also differ in what they attach to — a condition, a place, an experience, or a windfall — and in whether the benefit felt pleasant at the time.",
+  "words": [
+    {
+      "word": "conducive",
+      "nuance": "The only one that names a **relation, not a quality** — it needs *to* plus a desired outcome, and describes background conditions that permit rather than deliver. Silence is conducive to sleep; it doesn't make you sleep. The others say a thing *is* good; conducive says it *leads toward* something good."
+    },
+    {
+      "word": "salubrious",
+      "nuance": "Alone here in meaning **healthy in the bodily sense**, and it attaches to places — air, climate, a coastline — never to lessons or habits. It's also the only one that lives mainly in the negative: *insalubrious* has drifted from *unhealthy* to *seedy*, so its usual job is insulting a neighbourhood, not praising a spa."
+    },
+    {
+      "word": "salutary",
+      "nuance": "The benefit that **hurt**. It collocates with lesson, warning, shock, reminder — the near-miss that made you careful. Where the others describe pleasant or neutral goods, **salutary** implies the speaker approves of the sting; it is corrective and slightly stern, a verdict passed after the fact."
+    },
+    {
+      "word": "boon",
+      "nuance": "The **noun**, and the only one that names the benefit itself rather than describing something. Its defining feature is *arriving from outside* — weather, a policy, a patron — so it pairs with *to* someone who did nothing to earn it (\"a boon to farmers\"). Elevated, headline-ish, and defined against its stock opposite, **bane**."
+    }
+  ],
+  "exam_note": "The trap is **salutary/salubrious** — near-twins from the same Latin root, but the exam sets *salutary* beside an unpleasant corrective experience (a defeat, a warning) and *salubrious* beside a climate; pick by what the blank attaches to, not by the sound."
 }

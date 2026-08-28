@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__transparently-clear-prose",
-  "title": "Transparently clear prose",
+  "title": "Clear prose: from luminous praise to the bare minimum",
   "seed_words": [
     "lucid",
     "limpid",
@@ -9,5 +9,29 @@
     "intelligible",
     "coherent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five say the meaning gets through — nothing obstructs it. They split on two axes. First, how much credit is being given: three are compliments that imply grace or beauty, two only certify that a minimum was met. Second, what is being praised or certified: the writer's mind, the surface of the prose, the fit between the parts, or merely the listener's ability to make out words at all.",
+  "words": [
+    {
+      "word": "lucid",
+      "nuance": "The only one that credits the **mind behind the words** — it implies the material was genuinely hard and someone made it transparent, which is why it fits a physicist and not a memo. It's also the only member with the clinical sense: a *lucid interval* in dementia or delirium, where the praise turns sad."
+    },
+    {
+      "word": "limpid",
+      "nuance": "Praises the **surface, not the difficulty** — stillness, calm, no churn. A *limpid* style is admired for costing the reader nothing, with no suggestion that the subject was thorny; a reviewer's and obituarist's word, never spoken about a glass of water."
+    },
+    {
+      "word": "pellucid",
+      "nuance": "Adds **light**, not just transparency — the thing is luminous, admitting no murk anywhere. It's the most bookish of the three and swings freely between physical (a mountain stream) and mental (an explanation); it is always praise, never a neutral report."
+    },
+    {
+      "word": "intelligible",
+      "nuance": "The **floor of comprehension**: the words could be made out. It says nothing about elegance or structure and usually implies someone was straining — it lives in *barely*, *scarcely*, *un-*. In philosophy it also names what intellect alone grasps, opposed to the *sensible*."
+    },
+    {
+      "word": "coherent",
+      "nuance": "About **parts fitting together**, not about the prose being pleasant or the claim being true — a conspiracy theory can be flawlessly coherent. Of an argument it's faint praise (organised, possibly empty); of a person it drops to a medical floor, where *barely coherent* means drunk or concussed."
+    }
+  ],
+  "exam_note": "Watch the size of the compliment: blanks framed by *barely*, *scarcely*, or a grudging concession take **intelligible**/**coherent**, while blanks praising style or a hard idea made easy take **lucid**/**limpid**/**pellucid** — and remember **coherent** never certifies truth."
 }

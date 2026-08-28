@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__die-down-gradually",
-  "title": "Die down gradually",
+  "title": "Dying down gradually",
   "seed_words": [
     "abate",
     "subside",
@@ -9,5 +9,29 @@
     "dwindling",
     "attenuate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe a decrease that happens **by degrees** — a curve, not a cliff. None of them means \"stop\"; each means \"less than before,\" and each leaves the thing at least partly intact. What separates them is not how much they reduce but **what kind of thing** is reducing, **whether anyone is doing it**, and **what the reduction is measured against** — a prior surge, a former peak, an eventual zero, or just a baseline. Pick the wrong one and the sentence still parses, which is exactly why the test likes them.",
+  "words": [
+    {
+      "word": "abate",
+      "nuance": "**Abate** is the relief word: what lessens was *pressing on someone* — a storm, a fever, panic, criticism. It's also the only one here that's routinely transitive in a practical/legal sense (*abate a nuisance*, *abate the rent*), so a person can abate something. On the test you'll far more often meet **unabated**, meaning the pressure never let up at all."
+    },
+    {
+      "word": "subside",
+      "nuance": "**Subside** demands a **prior rise**: something swelled, surged, or flared and is now settling back to its normal level. It's the only member with a literal physical sense — floodwaters, swelling, the ground under a building sink back down. And it happens strictly on its own; nobody subsides anything."
+    },
+    {
+      "word": "wane",
+      "nuance": "**Wane** measures the decline **from a former fullness**, so it attaches to prestige things — an empire, a reputation, influence, someone's patience, the moon. It implies the peak is behind you and (from the moon) that the cycle may turn again. The speaker is tracing a curve calmly, not counting down a supply."
+    },
+    {
+      "word": "dwindling",
+      "nuance": "**Dwindling** is the anxious one — the only member with a negative charge built in. It attaches to things you're **counting toward zero**: funds, reserves, numbers, time, hope. No peak is implied and no relief is offered; the point is that it will run out."
+    },
+    {
+      "word": "attenuate",
+      "nuance": "**Attenuate** is the lab word, and usually **someone does it on purpose**: engineers attenuate a signal, virologists attenuate a virus, a fact attenuates a claim. What's attenuated **survives, just fainter** — thinned rather than drained. It's the only one of the five you'd expect in a technical paper or a legal brief."
+    }
+  ],
+  "exam_note": "The subject decides the answer — pressures abate, swollen levels subside, prestige wanes, counted supplies dwindle, signals and arguments attenuate — so read what is shrinking before you read the choices, and know **unabated** and **on the wane** cold."
 }

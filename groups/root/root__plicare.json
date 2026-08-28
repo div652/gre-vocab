@@ -1,12 +1,32 @@
 {
   "kind": "root",
   "id": "root__plicare",
-  "title": "Root: plicāre (to fold) → explicāre (to unfold)",
+  "title": "Root: plicāre (to fold) — folded in, folded open, folds without breaking",
   "seed_words": [
     "exploitative",
     "implicit",
     "pliant",
     "supple"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *plicāre* is the fold, and this family splits by what the fold is doing. Fold something *in* and it's present but not on the page — meaning carried without being stated. Fold it *open* (ex-) and you've laid the thing out to be worked over, which slides easily from \"make use of\" to \"use up.\" And a thing that simply takes a fold without cracking is bendable — a quality that is high praise for leather and a wrist, and an insult for a spine. So the group's real question is never \"does it bend?\" but *who folds it, and what happens after*.",
+  "exam_note": "The root is never the trap — the traps are **implicit** sense 2 (absolute, not partial) and the fact that **pliant** and **supple** describe identical physical behaviour with opposite verdicts about the person.",
+  "words": [
+    {
+      "word": "exploitative",
+      "nuance": "The only member describing a relationship rather than a property — and the only one that convicts. Something is unfolded and worked until it's spent, by a party with enough power that the other side can't walk; note that the verb and the noun *exploit* stay neutral or even admiring, and this adjective never does."
+    },
+    {
+      "word": "implicit",
+      "nuance": "The fold stays shut: the content is fully there, just never unfolded onto the record — which is what makes it the word for arguments people won't own. Alone here it applies to meaning, not matter; and watch sense 2, where nothing folded apart means nothing held back, so *implicit trust* is total, not tacit."
+    },
+    {
+      "word": "pliant",
+      "nuance": "Takes the fold and keeps it. Of a person that's the charge — no resistance, holding whatever shape the last pair of hands left; not the obedience-to-authority of *docile* or the fawning of *obsequious*, just shapeable. The word a manipulator uses about a mark."
+    },
+    {
+      "word": "supple",
+      "nuance": "Takes the fold and springs back — the only one here that implies strength inside the bending, which is why it's praise for a gymnast, a wrist, a prose style, or a negotiator. Where the yielding of **pliant** comes from having nothing to push back with, this yielding is control."
+    }
+  ]
 }

@@ -9,5 +9,29 @@
     "galvanize",
     "foment"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe one party moving another party into action — none of them involve ordering, and none guarantee the action happens. What separates them is the *mechanism* (moral appeal, irritation, a spark, a jolt, slow heat), the *moral verdict* (who gets blamed — the rouser or the roused), and the *kind of act* produced (worthy, unlawful, ill-judged, or merely hoped for). Get the mechanism and the blame right and the group stops being confusable.",
+  "words": [
+    {
+      "word": "exhort",
+      "nuance": "The only one with no leverage at all — **exhort** is pure moral appeal from someone who cannot compel, which is why exhortation is so often ignored (papers exhort ministers; ministers shrug). It's also the only member that assumes the urged act is *good*."
+    },
+    {
+      "word": "goad",
+      "nuance": "The mechanism is irritation, not persuasion: **goad** needles until the target acts to make it stop. Uniquely, it takes a single victim rather than a crowd, and the resulting act is characteristically stupid — *goaded into* a fight, a slip, a rash reply. Blame lands on the goader, sympathy on the goaded."
+    },
+    {
+      "word": "incite",
+      "nuance": "**Incite** is the legal accusation — one spark, a crowd, an unlawful or violent act (*incitement to riot*). It wants a deed as its object, not a mood, and it moves fast: a speech and then the mob. Where *goad* targets a person's temper, **incite** targets a group's readiness."
+    },
+    {
+      "word": "galvanize",
+      "nuance": "The one that flatters everyone: **galvanize** is a jolt that admires both jolt and jolted, and it presupposes the target was *inert* — you cannot galvanize the already-active. Where **incite** produces a riot, **galvanize** produces a campaign, a turnout, a movement."
+    },
+    {
+      "word": "foment",
+      "nuance": "**Foment** is the slow, off-stage one — sustained heat over months rather than a single moment, and always deliberate (nobody foments by accident). Its object is a condition of trouble, not a single deed: you foment unrest, discord, resentment; you cannot foment goodwill."
+    }
+  ],
+  "exam_note": "The trap is the blame axis: sentences with a positive tail (*a speech that ___ the volunteers*) want **galvanize**, and swapping in **incite** or **foment** — the two the test offers as bait — poisons a neutral sentence with criminal intent."
 }

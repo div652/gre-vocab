@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__exalt-to-sacred-status",
-  "title": "Exalt to sacred status",
+  "title": "Raising to Sacred Status",
   "seed_words": [
     "venerate",
     "deify",
     "canonize",
     "anoint"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four borrow the vocabulary of religion to describe how a person or thing gets lifted above ordinary judgment. Each implies a holiness the object didn't earn by argument — reverence, godhood, sainthood, consecration — and each can be used straight or sardonically, depending on whether the reader thinks the elevation is deserved. The differences are structural: whether it's a private attitude or a public act, who performs it, whether it ranks the object or merely selects it, and whether it can ever be undone.",
+  "exam_note": "The exam separates them by grammar of the act, not by degree of praise: look for who does it (a person's feeling → **venerate**; a body with authority → **canonize**), whether the sentence says \"beyond all criticism\" (→ **deify**), and whether there's a successor or chosen one in sight (→ **anoint**).",
+  "words": [
+    {
+      "word": "venerate",
+      "nuance": "The only one that is purely an attitude — nothing is conferred, no status changes hands, the object is already old and holy and you are simply behaving accordingly. It looks backward at age and tradition (founders, relics, elders), and its failure mode is complacency, not delusion: reverence that stopped being examined."
+    },
+    {
+      "word": "deify",
+      "nuance": "The maximum — it goes past reverence to actual godhood, and it is the one word here that measures the *worshipper* rather than the object. It's an accusation of lost judgment (the man can now do no wrong), which is why you deify someone else and never yourself."
+    },
+    {
+      "word": "canonize",
+      "nuance": "An institutional act with a procedure behind it: the Church, the academy, the syllabus. Personal enthusiasm cannot canonize anything, and the effect is permanence — the reputation is filed, closed, put past debate — so the object is typically dead or finished."
+    },
+    {
+      "word": "anoint",
+      "nuance": "Selection, not ranking: it points forward to a successor and hands over an aura along with the job, so the choice reads as ordained rather than decided. It says nothing about the chosen one's merit, only that someone with standing picked them — hence *self-anointed*, the sneer that nobody else was consulted."
+    }
+  ]
 }

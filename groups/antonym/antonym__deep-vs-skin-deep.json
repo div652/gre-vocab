@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__deep-vs-skin-deep",
+  "title": "Deep vs. skin-deep",
+  "seed_words": [
+    "profound",
+    "profundity",
+    "penetrating",
+    "erudite",
+    "exhaustive",
+    "encyclopedic",
+    "superficial",
+    "cursory",
+    "glib",
+    "perfunctory",
+    "dilettante"
+  ],
+  "hallucinated": null,
+  "core": "All of these measure how far something goes past the surface — a thought, a look, a body of knowledge, a piece of work. One half says it reached the bottom (or covered every inch); the other says it stopped at the top. The confusion is that \"deep\" splits two ways the exam keeps conflating — **vertical** depth (insight that reaches bedrock) and **horizontal** completeness (coverage that leaves nothing out) — and \"shallow\" splits three ways depending on *why* it stayed shallow: haste, indifference, or slickness.",
+  "words": [
+    {
+      "word": "profound",
+      "nuance": "The pure depth word: it measures how far down, and nothing else — not force, not coverage, not learning. Uniquely in this group it carries no built-in praise; *profound ignorance* and *profound silence* are depth applied to a hole."
+    },
+    {
+      "word": "profundity",
+      "nuance": "Depth held as a possession or quality — the thing a mind *has*, rather than a description of one remark. Watch the count noun: *a few profundities* is almost always mockery, where straight singular *profundity* is grand praise."
+    },
+    {
+      "word": "penetrating",
+      "nuance": "The only depth word here that is aimed and active — it does something to a target rather than describing what someone holds. A profound mind reaches down; a penetrating question goes *through* a defence, which is why it flatters the asker and unnerves the asked."
+    },
+    {
+      "word": "erudite",
+      "nuance": "Depth that came from a library. It praises what has been read and can be cited, never native brainpower or shrewdness — the quick-witted operator is the opposite kind of impressive, and the shadow is dust, not shallowness."
+    },
+    {
+      "word": "exhaustive",
+      "nuance": "Sideways, not downward: it counts cases, not insight. It attaches to a search, study, or list — never to a mind — and an exhaustive account can be exhaustively shallow, because it promises nothing was skipped, not that anything was understood."
+    },
+    {
+      "word": "encyclopedic",
+      "nuance": "Breadth plus instant recall, and it lands on a person's knowledge or memory rather than on a piece of work. It is explicitly compatible with having no original thought — and turned on a book or a style it curdles into flat, catalogue-like completeness."
+    },
+    {
+      "word": "superficial",
+      "nuance": "The neutral baseline for stopping at the surface — it names the result without diagnosing the cause (unlike haste, indifference, or slickness). It alone has an innocent literal life: a superficial wound is the good kind."
+    },
+    {
+      "word": "cursory",
+      "nuance": "Shallow **because fast** — the surface got covered, quickly, and nothing under it did. It sticks to acts of looking (glance, reading, inspection) and quietly accuses someone of not spending the time the job deserved."
+    },
+    {
+      "word": "perfunctory",
+      "nuance": "Shallow **because the person didn't care** — the duty is discharged, on time and in full form, with the interest drained out. The charge is indifference wearing compliance as a costume, not speed and not sloppiness."
+    },
+    {
+      "word": "glib",
+      "nuance": "Shallow **in speech, and disguised as skill** — the answer is too fluent, too ready, too polished to have cost anything. It is the only one here that impugns sincerity rather than effort; the smoothness itself is the evidence."
+    },
+    {
+      "word": "dilettante",
+      "nuance": "A person, not a performance: shallowness as a standing relationship to a subject, dabbled in for pleasure and droppable at will. The sting is pretension — an amateur may be devoted and excellent, a dilettante performs an expertise he never did the work for."
+    }
+  ],
+  "exam_note": "The trap is rarely the obvious profound/superficial pair — it's (a) slotting **exhaustive** or **encyclopedic** into a sentence that needs depth when they only promise coverage, and (b) choosing among **cursory** (too fast), **perfunctory** (didn't care), and **glib** (too smooth), where the sentence always specifies which cause."
+}

@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__cancel-out-a-plan-or-force",
-  "title": "Cancel out a plan or force",
+  "title": "Cancel Out a Plan or Force",
   "seed_words": [
     "foil",
     "confound",
@@ -9,5 +9,29 @@
     "neutralize",
     "nullify"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe something's intended effect failing to land: a plan doesn't come off, a prediction doesn't hold, a movement doesn't spread, a force doesn't register. The split is in *what gets cancelled* and *who does the cancelling* — a scheme mid-execution, an expectation, a rising challenge to authority, an opposing force, or an instrument that had legal standing. A second split is manner: interception, humiliation, suppression from above, exact counterbalance, or voiding.",
+  "words": [
+    {
+      "word": "foil",
+      "nuance": "**Foil** needs a specific plot already in motion and an opponent who intercepts it at the last moment — you foil a heist, never a force or a statute. It leaves the schemer looking inept rather than crushed, which is why it lives in headlines and adventure plots."
+    },
+    {
+      "word": "confound",
+      "nuance": "**Confound** is the only one whose object can be a *mind* or an *expectation*: it defeats forecasters, critics, and doctors, and the defeat is embarrassing to them. It also uniquely carries the \"mix up two things that should stay apart\" sense — correlation with cause."
+    },
+    {
+      "word": "quash",
+      "nuance": "**Quash** requires authority pressing downward — a court, a general, a government — on something rising: a revolt, a rumour, an indictment. Alone in this group it insists on one decisive stroke; anything that resurfaces was never quashed."
+    },
+    {
+      "word": "neutralize",
+      "nuance": "**Neutralize** cancels a force that is still there — a striker, an acid, a threat — by balancing it, not removing it. Its clinical flatness is the point: it's the word bureaucracies choose when they don't want to name the violence."
+    },
+    {
+      "word": "nullify",
+      "nuance": "**Nullify** strips a thing of force so it counts as if it never had any — a verdict voided, a raise eaten exactly by inflation. Where **neutralize** offsets an active opponent, **nullify** works on standing and arithmetic: the net is zero, and there's nothing to keep opposing."
+    }
+  ],
+  "exam_note": "Watch the object: schemes are foiled, expectations confounded, uprisings quashed, opponents neutralized, instruments nullified — and **confound** is planted where \"confuse\" feels right but \"defeat\" is meant."
 }

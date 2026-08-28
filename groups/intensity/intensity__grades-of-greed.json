@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__grades-of-greed",
+  "title": "Grades of greed",
+  "seed_words": [
+    "acquisitive",
+    "avaricious",
+    "rapacious"
+  ],
+  "hallucinated": null,
+  "core": "All three describe wanting more than you have and reaching for it, and all three are formal enough that the exam prefers them to plain *greedy*. They differ on two axes at once: how hot the wanting is, and whether anyone gets hurt by it. At the cool end the wanting is just a habit of accumulation; in the middle it has become a moral defect of character; at the hot end it has power behind it and leaves someone stripped. Register rises with intensity, and so does the certainty that the speaker is condemning.",
+  "words": [
+    {
+      "word": "acquisitive",
+      "nuance": "The only one of the three that can be neutral or even flattering — **acquisitive** describes a settled habit of accumulating, not a vice, so a conglomerate, a museum, or a quick mind can be acquisitive without insult. It attaches to the act of getting and keeping; it says nothing about money specifically and nothing about a victim."
+    },
+    {
+      "word": "avaricious",
+      "nuance": "**Avaricious** narrows to money and wealth and adds a verdict: it names a character that has been hollowed out by love of it. Unlike acquisitive it can't be neutral, and unlike rapacious it needs no power or victim — the miser alone with his hoard, hoarding rather than seizing, is the type case."
+    },
+    {
+      "word": "rapacious",
+      "nuance": "**Rapacious** is the only one that implies force and prey. It requires an object being stripped — tenants, a conquered province, a forest — and it describes conduct in the world rather than an inner disposition, which is why a creditor or an army can be rapacious in a way no miser is."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps pair acquisitive with the other two as if all were pejorative — check whether the sentence supplies a victim (rapacious), a moral judgment about wealth (avaricious), or merely accumulation (acquisitive)."
+}

@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__sleep-inducing",
-  "title": "Sleep-inducing",
+  "title": "Sleep-inducing vs. sleepy vs. shut down",
   "seed_words": [
     "soporific",
     "somnolent",
     "torpor"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three sit in the territory of sleep and shut-down energy, and each can describe a lecture hall, a hot afternoon, or a stalled institution. The confusion is grammatical as much as semantic: one names the *cause* of drowsiness, one names the drowsiness *or* its cause, and one names the *state* left behind — a noun for inertia, not for sleep. They also differ in what they blame: a dull thing, a heavy mood, or a body and system gone inert.",
+  "words": [
+    {
+      "word": "soporific",
+      "nuance": "Points at the **cause**, and points accusingly. Clinically it's just a sedative, but in every other context **soporific** is a verdict on something's dullness — the speech, the prose, the meeting made you sleep, and the speaker is being dryly witty about it. It's the only one of the three that works as an insult."
+    },
+    {
+      "word": "somnolent",
+      "nuance": "The reversible one: **somnolent** describes the drowsy person *and* the thing that made him drowsy, with no blame in either direction. It paints atmosphere — a dozing village, a courtroom after lunch — where *soporific* would be scoring a point. Heavy eyelids, not failure."
+    },
+    {
+      "word": "torpor",
+      "nuance": "A **noun** for the aftermath, and the only one that need not involve sleep at all — **torpor** is inertia: no energy, no motion, no appetite for either. It's a condition, not a mood or a criticism, and it scales from a hibernating animal to decades of administrative stagnation."
+    }
+  ],
+  "exam_note": "Sentence equivalence loves the cause/state split: a blank following \"reduced the region to a state of ___\" wants **torpor**, not the adjectives — and a blank describing the *speech itself* wants **soporific**, not the audience's **somnolent**."
 }

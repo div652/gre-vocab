@@ -1,0 +1,47 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__physical-sharpness-verbal-sharpness",
+  "title": "Physical sharpness → verbal sharpness",
+  "seed_words": [
+    "caustic",
+    "mordant",
+    "trenchant",
+    "astringent",
+    "abrasive",
+    "keen",
+    "penetrating"
+  ],
+  "hallucinated": null,
+  "core": "Every word here starts as a physical property — burning, biting, scraping, puckering, honing, piercing — and gets lent to speech, mind, or manner. The literal sense is never dead; it tells you exactly *how* the figurative sharpness works, and therefore what it implies. The real fault line is not intensity but attitude: some of these condemn the speaker as bitter, some half-admire them as clever, and some are straight compliments about the quality of a mind. Getting the group right means asking what the sharpness does to its target and what it reveals about whoever wielded it.",
+  "words": [
+    {
+      "word": "caustic",
+      "nuance": "**Caustic** is the one with bitterness behind it — chemical burn, aimed at a person, meant to leave a mark. Where *trenchant* wins an argument and *mordant* gets a laugh, caustic just corrodes; it indicts the speaker's state of mind as much as it damages the target."
+    },
+    {
+      "word": "mordant",
+      "nuance": "**Mordant** is the only member that is *funny*. The bite is intellectual and dry, and the word half-compliments the wit even while the target bleeds — satirists and obituarists are mordant, which is precisely why a merely nasty remark (caustic) never earns the label."
+    },
+    {
+      "word": "abrasive",
+      "nuance": "**Abrasive** describes a *manner*, not a remark — the only word here that needs no wit, no aim, and no sentence. It's texture: friction, no social cushioning, wearing rather than wounding, usually chronic and often unintentional. The classic use is the HR euphemism for someone effective and exhausting."
+    },
+    {
+      "word": "astringent",
+      "nuance": "**Astringent** is cold where caustic is hot — puckering, drying, faintly medicinal, the sting that's supposedly good for you. It carries no bitterness and no joke, and applied to a prose style or a critic's discipline it usually reads as praise for severity, not an accusation of cruelty."
+    },
+    {
+      "word": "trenchant",
+      "nuance": "**Trenchant** is about *accuracy*, not damage — the only word here that hurts purely by being right. No hostility is implied at all; you can be trenchant in perfect good temper. It praises the mind that produced the analysis, which is why it lives in reviews, essays and legal argument."
+    },
+    {
+      "word": "penetrating",
+      "nuance": "**Penetrating** describes what the sharpness *reaches* rather than what it destroys — it gets past the barrier, to the thing being hidden. Uniquely in this group it also runs on gaze, cold, smell and sound. Flattering to the observer, uncomfortable for the observed; nothing is criticized, only exposed."
+    },
+    {
+      "word": "keen",
+      "nuance": "**Keen** is sharpness as *capacity*, not as an act — a blade, a wind, an eye, a mind, honed rather than blunt, with no target and no victim. It's also the only word here that swings positive-eager (*keen to help*), and the only one hiding a wholly unrelated verb: to keen is to wail over the dead."
+    }
+  ],
+  "exam_note": "The trap is assuming the whole group is hostile: **trenchant** and **keen** are compliments and **astringent** often is, so the answer usually turns on whether the sentence rewards accuracy, wit, or bitterness — and on the buried second senses (keen = eager/to wail, mordant = dye fixative, astringent = skin toner)."
+}

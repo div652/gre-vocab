@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__easily-shaped",
-  "title": "Easily shaped",
+  "title": "Easily shaped, easily led",
   "seed_words": [
     "malleable",
     "pliant",
@@ -9,5 +9,29 @@
     "supple",
     "tractable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe something that yields — a material that takes a new form under pressure, or a person who takes the form someone else wants. The confusion is that each word answers a different question: does the thing bend and spring back, or bend and stay bent? Is the yielding a virtue of the material or a weakness in the person? And is the yielding to a *shape* or to a *direction*? Tone swings hard depending on whether the subject is leather or a witness.",
+  "words": [
+    {
+      "word": "supple",
+      "nuance": "The only one that is unambiguous praise, and the only one where the thing bending keeps its own power — it **springs back**. Nothing external is doing the shaping; the gymnast, the leather, the argument bends because it is strong, not because someone leaned on it."
+    },
+    {
+      "word": "pliant",
+      "nuance": "Bends under whatever is pushing and offers **no resistance** — but no permanent new form is implied; it yields for as long as the pressure lasts. Of a person it is the softest, most passive failing in the group: not obedient, not fawning, just without a spine of its own."
+    },
+    {
+      "word": "malleable",
+      "nuance": "The hammer word. It foregrounds **the shaper's hand**, and it implies the material was raw or unformed enough to take the blow — a child's mind, an early draft, a new recruit. Applied to an adult with an agenda pointed at them, it is an accusation aimed at the shaper as much as the shaped."
+    },
+    {
+      "word": "plastic",
+      "nuance": "Takes the new shape and **holds it** — permanence is what separates it from *pliant*. That is why it is the technical word for brains, media, and art forms, where the change is supposed to stick. Watch for the trap: on the exam it is an adjective about mouldability, not the noun in your kitchen drawer."
+    },
+    {
+      "word": "tractable",
+      "nuance": "Not about shape at all — about **direction and control**. A tractable person is steerable, and the word is praise only from whoever holds the reins. Alone in the group it also takes an inanimate problem: a tractable equation yields to method. Expect **intractable** far more often."
+    }
+  ],
+  "exam_note": "The exam splits them by subject and by who benefits: a positive-charge blank about a body, prose, or a negotiator wants **supple**; a blank about a solvable problem wants **tractable** (usually as *intractable*); and *pliant / malleable / plastic* are sorted by whether the yielding is temporary, hammered in, or permanent."
 }

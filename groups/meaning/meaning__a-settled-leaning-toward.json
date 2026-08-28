@@ -10,5 +10,33 @@
     "affinity",
     "inclined"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "penchant",
+      "nuance": "The indulgent one: **penchant** attaches to a pleasure you enjoy having, usually a small or slightly frivolous one (loud ties, gossip, good champagne). It's what friends would list about you with a smile, never what a report would record about you."
+    },
+    {
+      "word": "predilection",
+      "nuance": "The *pre*- is load-bearing: a **predilection** is already formed before the case arrives, so it colours judgement rather than just describing taste — a judge's predilection for lenient sentences. It's the most formal of the set and the most useful for quiet editorialising (*a predilection for lost causes*), and it stays mild: never a passion, only a standing preference."
+    },
+    {
+      "word": "proclivity",
+      "nuance": "The vice word. A **proclivity** is toward *doing* something disreputable — gambling, brawling, lying — and it implies the leaning is settled and characteristic, part of who you are. Attach it to something harmless and it turns arch or sounds like an accusation."
+    },
+    {
+      "word": "propensity",
+      "nuance": "The clinical, measurable one: a **propensity** is a trait you've been assessed as having, which is why lawyers, psychologists and statisticians own the word. Unlike the others, it applies to things as readily as people — steel has a propensity to fracture in cold — and it names a rate of acting, not a taste."
+    },
+    {
+      "word": "affinity",
+      "nuance": "The only member that needn't involve behaviour at all. An **affinity** claims a built-in match: an affinity *for* something is attraction (elements for oxygen, a person for jazz), an affinity *with* or *between* things is plain resemblance (Sanskrit and Latin) with no feeling involved. Nothing here is a fault, and nothing here is indulgence."
+    },
+    {
+      "word": "inclined",
+      "nuance": "The only adjective, and the only one that isn't a standing trait: to be **inclined** is to lean on *this* question, right now (*inclined to agree*), which is why it's committee-speak — the exit door stays open. Everything else in this group is something you carry around; this is a position you're halfway to taking."
+    }
+  ],
+  "core": "All of these name a leaning that is already there before any particular choice comes up — a settled tilt rather than a decision made on the spot. They differ on three axes: how respectable the thing leaned toward is, who is doing the describing (a friend, a novelist, a prosecutor, a statistician), and whether the leaning is a lasting trait or just today's lean. Miss those axes and they look interchangeable; catch them and each one is nearly forced by its context.",
+  "exam_note": "The trap is valence: the sentence supplies a harmless pleasure and offers proclivity/propensity, or supplies a vice and offers penchant — read the object of the leaning, not the leaning itself."
 }

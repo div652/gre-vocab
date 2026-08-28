@@ -7,5 +7,21 @@
     "zenith",
     "prime"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three mark the top of something's rise — the moment or stretch when a career, empire, athlete, or reputation is running at maximum. The confusion is that each borrows its picture from somewhere different: an orbit, the sky, and a lifespan. That picture decides what the word can attach to, how grand it sounds, and whether it hints that the fall has already started.",
+  "words": [
+    {
+      "word": "apogee",
+      "nuance": "The geometry word: **apogee** is the far end of an *arc*, so it drags the whole trajectory in with it — the climb before, the descent after. It is the coolest and most analytical of the three, at home describing a style, a movement, or a genre rather than a person's glory."
+    },
+    {
+      "word": "zenith",
+      "nuance": "The flattering one: **zenith** looks straight up, and its subject is power, fame, or fortune — someone is *at the zenith of his influence*, never at the zenith of a design trend. Where apogee is neutral geometry, zenith is grandeur, which is exactly why writers deploy it right before narrating the collapse."
+    },
+    {
+      "word": "prime",
+      "nuance": "Not a point but a *span*, and a bodily one — **prime** is the years of full vigor (*past his prime*), so it fits athletes, wine, and timber, not empires. It is also plain English rather than formal, and its GRE-relevant sense is the unrelated verb: to prepare in advance, as in priming a pump or a witness."
+    }
+  ],
+  "exam_note": "Two traps: **apogee** and **zenith** are close enough to be the matched pair in Sentence Equivalence (pick both), while **prime** is rarely tested as a high point at all — it shows up as the verb meaning *to prep beforehand*."
 }

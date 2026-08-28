@@ -1,12 +1,32 @@
 {
   "kind": "root",
   "id": "root__tenere",
-  "title": "Root: tenēre (to hold) + abs- (away)",
+  "title": "Root: tenēre (to hold) — holding back, holding on, holding up",
   "seed_words": [
     "abstain",
     "pertinacious",
     "pertinent",
     "tenable"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All four descend from Latin *tenēre*, \"to hold,\" and each keeps a different piece of that grip. The prefix decides the direction: *abs-* holds yourself away from something, *per-* holds all the way through to the thing that matters, and the bare stem holds a position against pressure. The trap is that a shared root guarantees nothing about shared meaning — two of these come from the same prefix and stem and still land in opposite parts of a sentence, one describing a person who won't let go and one describing a fact that belongs on the table.",
+  "words": [
+    {
+      "word": "abstain",
+      "nuance": "The only member where the holding points backward at the self: you are gripping your own hand to keep it off the glass, the ballot, the argument. It is also the only verb here, the only one with a moral or institutional flavor (principle, health, procedure), and the only one with a technical sense — present in the room, counted, voting neither way."
+    },
+    {
+      "word": "pertinacious",
+      "nuance": "The grip is on a purpose and it will not open — and the speaker resents it. Alone in this group it is a complaint: it attaches to the creditor, the cough, the rumour that keeps coming back, and it says the persistence has outlived its welcome. Note it describes a holder, not a thing being held."
+    },
+    {
+      "word": "pertinent",
+      "nuance": "Same prefix and stem as pertinacious, but the reaching-through is a fact's reach toward the question at hand, not a person's refusal to let go. It attaches to information, and it is a verdict delivered by whoever runs the room — a chair, a judge, an examiner — that this deserves the floor. Nothing to do with stubbornness."
+    },
+    {
+      "word": "tenable",
+      "nuance": "The passive of the family: not who holds, but whether a thing can be held when something pushes against it. It is the weakest praise here — a tenable claim has merely survived attack, which is not the same as being right or persuasive, and *pertinent* would be a genuine compliment where this is barely one."
+    }
+  ],
+  "exam_note": "Pertinent and pertinacious are the whole game — one is a compliment to a fact, the other a complaint about a person — and tenable is baited with answer choices meaning \"true\" or \"convincing\" when it only means \"not yet demolished.\""
 }

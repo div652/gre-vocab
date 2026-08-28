@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__very-small",
-  "title": "Very small",
+  "title": "Very small — size vs. shortfall",
   "seed_words": [
     "minute",
     "diminutive",
     "scant",
     "paltry"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say \"small,\" but they split on *what kind of small*. Two measure physical size — how little space a thing occupies, whether under a magnifier or standing next to you. The other two measure an amount against a benchmark: there is some, it just falls short of what the job, the promise, or common decency required. Confusion comes from the fact that all four can precede a quantity noun, but only the second pair carries a verdict.",
+  "words": [
+    {
+      "word": "minute",
+      "nuance": "**Minute** is smallness at the threshold of detection — cracks, traces, discrepancies, things you need equipment or strain to see. It's the only one that flips into a second sense about *attention* (\"a minute inspection\" = missed nothing), and the only one that would be silly applied to a person's build."
+    },
+    {
+      "word": "diminutive",
+      "nuance": "**Diminutive** is smallness of **stature**, and it gravitates to bodies — a diminutive boxer, a diminutive aunt. Unlike *minute*, the thing is perfectly visible; the point is that it's smaller than you'd expect, which lets the word tip either fond or faintly patronising depending on the speaker."
+    },
+    {
+      "word": "scant",
+      "nuance": "**Scant** is the first word here that judges: some exists, but not enough to meet the standard. It sits glued to abstract nouns — scant evidence, scant regard, scant attention — and the reproach lands on whoever supplied too little, not on the world's supply."
+    },
+    {
+      "word": "paltry",
+      "nuance": "**Paltry** is *scant* with a sneer added. It attaches to sums, wages, offers, turnout — things a giver chose — and says the giver should be ashamed. Where *scant* notes a shortfall, **paltry** calls it insulting; where *diminutive* can be affectionate, **paltry** never is."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable size words: sentence-completion items hinge on whether the blank needs neutral physical smallness (minute/diminutive) or a shortfall with blame attached (scant/paltry), and on whether the surrounding clause supplies the contempt that paltry already contains."
 }

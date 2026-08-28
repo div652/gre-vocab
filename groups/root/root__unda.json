@@ -7,5 +7,21 @@
     "inundate",
     "redundant"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three come from water rising past its edge, and all three describe a quantity that exceeds what the situation requires. What differs is where the excess sits: whether it simply *exists* in profusion, whether it *arrives* at someone who can't absorb it, or whether it's *already there twice*. They also differ in grammar and blame — one takes no object and assigns no fault, one needs a victim, and one is a verdict.",
+  "words": [
+    {
+      "word": "abound",
+      "nuance": "The only one with no target and no victim — things simply exist in profusion, and nobody is being done to. Strictly intransitive (things abound, or a place abounds *in/with* them), and it passes no judgement: *wildflowers abound* and *errors abound* use the identical word."
+    },
+    {
+      "word": "inundate",
+      "nuance": "Requires someone on the receiving end and casts them as the shore: the excess pours in from outside and exceeds their capacity to process it. The complaint is volume, never difficulty — a hundred routine emails inundate you, one hard problem doesn't — and it usually shows up passive: *inundated with*."
+    },
+    {
+      "word": "redundant",
+      "nuance": "Doesn't count a mass at all; it's a verdict on one item that it duplicates what's already present. *Superfluous* says extra, **redundant** says extra *because repeated* — hence the editor's sting of \"you didn't notice you'd already said it.\" Uniquely, it flips positive in engineering (a deliberate backup) and means laid off in British usage."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable \"too much\": the GRE picks sentences where only one grammar works (abound takes no object, inundate needs a recipient) and loves redundant's positive engineering sense — deliberate duplication as a safeguard, not a flaw."
 }

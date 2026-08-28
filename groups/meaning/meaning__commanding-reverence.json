@@ -8,5 +8,25 @@
     "noble",
     "redoubtable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe someone or something that people defer to — a grandeur that makes the ordinary person lower their voice. The difference is entirely in *why* the deference is owed: earned standing, demonstrated mastery, moral elevation, or sheer dangerous capability. Each also carries a different attitude in the speaker, from genuine homage to a wary bow to open sarcasm. Sorting them means asking what produces the awe, not how much awe there is.",
+  "words": [
+    {
+      "word": "august",
+      "nuance": "The reverence comes from **standing** — age, rank, tradition, an institution that predates you. It says nothing about ability: an august assembly may be useless, and it still gets the title. Attaches most naturally to bodies, halls, and titled persons, which is exactly why it flips to sarcasm the moment the body behaves badly."
+    },
+    {
+      "word": "magisterial",
+      "nuance": "The reverence comes from **mastery** — this person or book has so completely commanded the subject that objecting feels presumptuous. Uniquely among these, it can describe a work rather than a person (a magisterial biography), and uniquely it can turn faintly cold: the magisterial manner talks *down*, lecturing the room."
+    },
+    {
+      "word": "noble",
+      "nuance": "The reverence is **moral** — rising above self-interest at a cost to yourself. It's the only one here that can be earned by a nobody, and also the only one with a literal birth sense running alongside it. Where the others describe force or position, **noble** describes what you gave up."
+    },
+    {
+      "word": "redoubtable",
+      "nuance": "The reverence has **fear** in it — this is respect paid by someone who would rather not face you. Reserved for adversaries and forces, never for saints or institutions; the compliment is about capability to do damage, not virtue or credentials. Its tone is a wry salute, not homage."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable \"impressive\" words — check whether the sentence supplies rank (august), demonstrated command (magisterial), self-sacrifice (noble), or an opponent to be feared (redoubtable), and watch for ironic contexts, where august and noble sour but redoubtable stays a compliment."
 }

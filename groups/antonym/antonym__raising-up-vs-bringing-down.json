@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__raising-up-vs-bringing-down",
+  "title": "Raising up vs. bringing down",
+  "seed_words": [
+    "anoint",
+    "deify",
+    "lionize",
+    "canonize",
+    "venerate",
+    "depose",
+    "oust",
+    "relegate",
+    "debase",
+    "belittle",
+    "marginalize"
+  ],
+  "hallucinated": null,
+  "core": "All eleven move someone up or down a ladder — of office, of reputation, of worth. The elevating half differs mainly in **who does the raising** (an institution, a crowd, a patron, a private believer) and **how permanent it is**; the lowering half differs in **what actually gets taken** — the job, the rank, the quality, or just the audience's estimate. Almost none of them are about merit; they're about status being conferred or withdrawn by someone else. The trap is that a word can raise or lower a person without touching what they can actually do.",
+  "words": [
+    {
+      "word": "anoint",
+      "nuance": "The only one pointed at the **future**: it names the next holder of a job, not the current worth of a reputation. It's also the most personal — one kingmaker (or, sneeringly, the man himself) does the choosing, where canonizing takes a committee and lionizing takes a crowd."
+    },
+    {
+      "word": "deify",
+      "nuance": "The ceiling of this group: the object is placed past the reach of criticism entirely, so no evidence can count against him. Unlike **lionize** (fuss) or **canonize** (paperwork), it's a claim about the worshippers' lost judgment — the sentence is usually an indictment of the fans, not a description of the idol."
+    },
+    {
+      "word": "lionize",
+      "nuance": "Alone here in being about **noise rather than rank** — the parties, the profiles, the lecture tour. It confers no permanence and no authority: the same crowd that lionizes a novelist in spring drops her by autumn, whereas canonization is meant to be irreversible."
+    },
+    {
+      "word": "canonize",
+      "nuance": "Requires an **institution with the standing to make it official** — the Church, the academy, the syllabus. Its distinctive effect is closure: the reputation is entered into the record and put beyond argument, which no amount of private veneration or public fêting can do."
+    },
+    {
+      "word": "venerate",
+      "nuance": "The only one that is a **held attitude rather than a performed act** — nothing is announced, conferred, or written down. Its objects skew old and dead (founders, elders, relics), and the reverence sits just under worship, where **deify** goes over the line."
+    },
+    {
+      "word": "depose",
+      "nuance": "Strips a **ruler of the office itself** — throne, presidency, party leadership — and says nothing about esteem; a deposed king may still be venerated. It is the coldest, most procedural word on the lowering side: a no-confidence vote deposes as surely as a tank column does."
+    },
+    {
+      "word": "oust",
+      "nuance": "The generic **removal from a seat**, at any altitude — CEO, board member, incumbent, tenant. Where **depose** insists on rank and formality, oust leaves the method entirely open and lives in the newsroom passive: *was ousted*, agent unnamed."
+    },
+    {
+      "word": "relegate",
+      "nuance": "Doesn't remove anyone — it **moves them down to a stated worse place**, and the sentence almost always carries the destination: *to the bench, to a footnote, to the second division*. It's also the most comfortable with inanimate objects: a theory or a language can be relegated, but not deposed or ousted."
+    },
+    {
+      "word": "debase",
+      "nuance": "Attacks the **substance rather than the position**: the coin, the currency, the language, the office keeps its name and face value while its actual worth is diluted. It always implies a prior standard that was corrupted, which is why it can be done by the holder to himself."
+    },
+    {
+      "word": "belittle",
+      "nuance": "Purely a **speech act** — it changes nobody's rank, only how small the thing sounds. No power is required beyond a condescending tone, and the technique is calm dismissal (*it wasn't that hard*), not the institutional shove of marginalizing or the removal of ousting."
+    },
+    {
+      "word": "marginalize",
+      "nuance": "Leaves the target **present but unheard** — still in the room, still on the payroll, structurally irrelevant. Uniquely, it often has **no actor at all**: defaults and habits do it, where belittling needs a speaker and ousting needs a decision."
+    }
+  ],
+  "exam_note": "The up/down split is too easy to be the test; the exam works inside one half — asking whether the lowering verb took the office (**depose**, **oust**), the rank (**relegate**), the quality (**debase**), or only the audience's opinion (**belittle**, **marginalize**), and whether the exalting was done by an institution (**canonize**), a crowd (**lionize**), a patron (**anoint**), or a believer (**venerate**, **deify**)."
+}

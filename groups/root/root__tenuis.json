@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__tenuis",
-  "title": "Root: tenuis (thin), via attenuāre",
+  "title": "Root: tenuis (thin) — attenuate, extenuating, tenuous",
   "seed_words": [
     "attenuate",
     "extenuating",
     "tenuous"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *tenuis* means thin, and every word here is about something stretched thin rather than cut off. Each one reduces force — of a signal, of blame, of an argument's support — while leaving the thing itself standing. None of them means *remove*, *disprove*, or *clear*, and that surviving remnant is the whole family trait. They split by what gets thinned and by whether the word names an act, an excuse, or a verdict.",
+  "words": [
+    {
+      "word": "attenuate",
+      "nuance": "The only one that is an act performed on something: an agent (a filter, a lab, a distance, a passing year) deliberately or measurably dials a force down along a scale. Its objects are physical or quantitative — signals, viruses, shock, effect sizes — and it carries no judgment of the thing being weakened."
+    },
+    {
+      "word": "extenuating",
+      "nuance": "Thins one thing only: **blame**. The facts stay fully intact — the act happened, and you did it — but the surrounding context argues for a lighter penalty, which is why it's the vocabulary of pleas, HR files and sentencing, not of denial. It almost never travels alone; it modifies *circumstances*."
+    },
+    {
+      "word": "tenuous",
+      "nuance": "Not an act but a resulting state, and the only word here that is an insult. Someone else applies it to your link, evidence, claim or grip on power to say the support underneath it is nearly nothing — polite in register, damning in substance."
+    }
+  ],
+  "exam_note": "Traps swap these for words of elimination — *nullify* for **attenuate**, *exonerating* for **extenuating**, *false* or *fabricated* for **tenuous** — but all three only thin; the thing survives."
 }

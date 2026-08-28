@@ -8,5 +8,21 @@
     "pedestrian"
   ],
   "similarity": 0.59,
-  "auto": true
+  "auto": true,
+  "words": [
+    {
+      "word": "didactic",
+      "nuance": "The only one of the three about **purpose**: the work or person means to teach you something, usually a moral. A didactic novel can be gorgeously written and still draw the complaint, because the charge is that it wants a verdict from you, not that it's dull or fussy. Also the only one that can be flatly neutral — a museum label is didactic and that's just its job."
+    },
+    {
+      "word": "pedantic",
+      "nuance": "About **scale**, not purpose: the pedant isn't teaching you a lesson, they're correcting a detail nobody needed corrected, and enjoying it. Where didactic implies a message being pushed, **pedantic** implies vanity plus misplaced priorities — right about the comma, oblivious to the argument. Never neutral, and applied to people far more than to works."
+    },
+    {
+      "word": "pedestrian",
+      "nuance": "Nothing to do with instructing or nitpicking — the charge is **absence**, no imagination, no lift. It's the reviewer's word for competent and earthbound: the prose or the meal is fine and that's the problem. Note it never describes a person's manner (a pedantic colleague, but not a pedestrian one — that's just someone on foot)."
+    }
+  ],
+  "core": "Three critical adjectives aimed at writing, argument, and intellectual manner — and the shared work they do is dismissal. Each says a performance failed in some unwelcome-mind way: too eager to instruct, too fixated on trivia, too flat to matter. The lookalike trap is on top of that: two of them open with *ped-* from unrelated roots (Greek *paid-*, child, versus Latin *ped-*, foot), so the spelling groups them while the meanings don't.",
+  "exam_note": "Sort by what's being attacked: intent to teach (didactic), fuss over trivia (pedantic), plain dullness (pedestrian) — and never let the shared *ped-* pull *pedestrian* toward learning, which it has nothing to do with."
 }

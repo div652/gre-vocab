@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__health-giving-vs-quietly-poisonous",
+  "title": "Health-giving vs. quietly poisonous",
+  "seed_words": [
+    "salubrious",
+    "salutary",
+    "conducive",
+    "efficacious",
+    "benign",
+    "deleterious",
+    "detrimental",
+    "pernicious",
+    "noxious",
+    "insidious",
+    "virulent"
+  ],
+  "hallucinated": null,
+  "core": "All of these judge an influence by its effect on health or wellbeing, and all speak from an outside, clinical vantage — the doctor, the report, the leader column — rather than from the person being affected. The positive half praises conditions or remedies that do you good; the negative half condemns harm that is typically slow, cumulative and stated as a finding. The real work is in the second axis: how *direct* the effect is (cause vs. mere setting), how *visible* it is (announced vs. hidden), and how *fast* (a decade of drift vs. an aggressive spread).",
+  "words": [
+    {
+      "word": "salubrious",
+      "nuance": "The only one tied to **physical surroundings** — air, climate, coastline, spa town — never to a habit or a drug. It also lives mostly in the negative, where **insalubrious** has drifted from *unhealthy* to *seedy*: you insult the neighbourhood, not its ventilation."
+    },
+    {
+      "word": "salutary",
+      "nuance": "The only positive here whose benefit **hurt at the time** — a salutary lesson, warning, shock. Where the others describe pleasant or neutral conditions, **salutary** is retrospective approval of an unwelcome experience, delivered sternly."
+    },
+    {
+      "word": "conducive",
+      "nuance": "Uniquely **enabling rather than causing**: a quiet room doesn't produce concentration, it clears the way. Grammatically it can barely stand up alone — it wants *to* plus a desired outcome — which is exactly the opposite pole from *detrimental to*."
+    },
+    {
+      "word": "efficacious",
+      "nuance": "The narrowest positive: it attaches to a **remedy or measure** and asserts it *works*, proven under test. Where **conducive** describes a helpful background and **salubrious** a healthy setting, **efficacious** is the intervention itself delivering its intended effect."
+    },
+    {
+      "word": "benign",
+      "nuance": "The hinge of the whole group, and the only one that is **not-harmful rather than beneficial** — a benign tumour is not a healthy one. It's also the only member with a neutral register, and GRE prose uses it for things that *looked* threatening and turned out not to be."
+    },
+    {
+      "word": "deleterious",
+      "nuance": "The plain **lab-coat negative**: harm to health or wellbeing, quiet and cumulative, with no moral charge and no hiding involved. It is what the others are measured against — **pernicious** adds concealment and blame, **noxious** adds poison, **deleterious** just records damage."
+    },
+    {
+      "word": "detrimental",
+      "nuance": "The **auditor's** word, not the doctor's: harm as a measurable loss to an interest — morale, the environment, your case — and it needs *to* almost as reliably as **conducive** does. Least bodily and least alarmed of the negatives; nobody says it with feeling."
+    },
+    {
+      "word": "pernicious",
+      "nuance": "Adds **moral condemnation** to the slow harm, and attaches to ideas rather than substances: a pernicious doctrine, myth, influence. Unlike **insidious**, it doesn't require concealment — you can name a pernicious idea openly and still call it that; the word is a verdict on the thing, not a description of its stealth."
+    },
+    {
+      "word": "noxious",
+      "nuance": "The only one that means literally **poisonous** — fumes, gases, weeds — claiming injury to lungs and tissue, not mere offence (that's *obnoxious*). Applied to an ideology, it keeps the toxin metaphor: something seeping in, not something creeping up."
+    },
+    {
+      "word": "insidious",
+      "nuance": "Here the **concealment is the defining feature**, not an aggravating one: it advances while looking harmless, so the alarm comes only when you find the wreckage. Where **pernicious** grades how bad a thing is, **insidious** describes *how it got past you* — debt compounding, an addiction, a slow-rotting culture."
+    },
+    {
+      "word": "virulent",
+      "nuance": "The only **fast and spreading** member — an aggressive pathogen, or hostility that infects others (virulent racism, virulent criticism). Everything else in the negative half is gradual; **virulent** is severity plus contagion, and unlike *vehement* it is never merely forceful, it is always toxic."
+    }
+  ],
+  "exam_note": "The trap is that the exam rarely tests good-vs-bad here — it tests the second axis, so the wrong answer is a synonym of the right one that gets the *mechanism* wrong: hidden (insidious) vs. condemned (pernicious), enabling (conducive) vs. effective (efficacious), harmless (benign) vs. helpful."
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__can-be-made-to-work",
-  "title": "Can be made to work",
+  "title": "Can Be Made to Work",
   "seed_words": [
     "feasible",
     "viable",
     "tenable",
     "sound"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four give a plan, claim, or arrangement a passing grade — it holds up, it can go forward. But each tests a *different* stress. One asks whether you can get it off the ground; one whether it stays alive afterward; one whether it withstands an attacker; one whether it has a crack in it. All four are verdicts of inspection rather than admiration, which is why they cluster: none of them means *good*, and three of them are famous for faint praise.",
+  "words": [
+    {
+      "word": "feasible",
+      "nuance": "**Feasible** is the only one of the four measured against *resources* — the time, money, labor, and physics you actually have. It rules on the front end, before anything exists, and it is indifferent to whether the thing should exist: a scheme can be feasible and monstrous. Nobody defends a feasible plan; they cost it out."
+    },
+    {
+      "word": "viable",
+      "nuance": "**Viable** starts where feasible stops — the thing has been launched, and the question is whether it survives on its own without life support. Alone in this group it carries the literal biological sense (a viable fetus, a viable seed), and that origin sets its bar: not thriving, just not dying. \"A viable option\" is the standard damning-with-faint-praise construction."
+    },
+    {
+      "word": "tenable",
+      "nuance": "**Tenable** presupposes an *opponent* — it is the only one that needs someone attacking. It attaches to positions and claims you must hold under cross-examination, and it grants only that the attack hasn't succeeded yet, not that the claim is true. It also shows up far more often in the negative: **untenable** is the live form, and it means \"you cannot keep standing here.\""
+    },
+    {
+      "word": "sound",
+      "nuance": "**Sound** looks *inward* at structure rather than outward at attackers or resources: no defect, no crack, nothing rotten at the foundation. It applies to things a scan or an audit could clear — buildings, arguments, sleep, minds — and it deliberately withholds any claim of brilliance (\"sound, if unexciting\"). It is also the group's only word with a second life as a verb: to **sound** is to measure depth, hence *sound out* and *sound the depths*."
+    }
+  ],
+  "exam_note": "The exam works two angles: negatives (**untenable** = indefensible, **unsound** = broken at the root — both harsher than their positives are warm), and tone questions where **viable** or **sound** is the correct *lukewarm* answer against a flattering-sounding trap."
 }

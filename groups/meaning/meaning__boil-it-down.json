@@ -8,5 +8,25 @@
     "synoptic",
     "distill"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four involve taking something large and rendering it in reduced form — the long paper, the two-hour lecture, the decade of work, made small enough to hold at once. They diverge on *what the reduction is for*: pulling the idea off the particulars, going back over ground in order, gaining altitude over the whole, or burning off everything that isn't essential. Three describe an act of compression; one of them is really about a vantage point. The GRE cares about which axis the sentence is pointing at.",
+  "words": [
+    {
+      "word": "abstract",
+      "nuance": "The only one here with a life outside summarizing: as an adjective it means *unattached to the concrete*, which is a claim about the idea's nature, not its length. As a noun it names a specific artifact — the fixed block of text at the head of a paper. As a verb it is bare extraction: you abstract a principle from cases with no promise that the result is ordered, broad, or potent, only that it has been lifted free."
+    },
+    {
+      "word": "recapitulate",
+      "nuance": "The only one that requires the material to have been covered already — the *re-* is load-bearing. It is retrospective and sequential: you walk the same path again, in the same order, faster. It adds nothing new by definition, and it lives at the end of things, where the other three can open a work."
+    },
+    {
+      "word": "synoptic",
+      "nuance": "Not an act but a vantage — an adjective for the view, not the labor of shortening. Its axis is width, not brevity: a synoptic treatment can be long, so long as every part is visible in relation to the others. It carries quiet approval of altitude gained, and it stays formal — meteorologists, theologians and strategists use it straight."
+    },
+    {
+      "word": "distill",
+      "nuance": "The only one where the product is *stronger* than the source. Its axis is purity: everything inessential is discarded, so what remains is concentrated rather than merely brief. It flatters the person doing it — distilling implies patience and the judgement to know what to throw away, which recapitulating pointedly does not."
+    }
+  ],
+  "exam_note": "The exam treats these as interchangeable synonyms for \"summarize\" and lets one clue decide: \"again, in order, at the close\" → recapitulate; \"the whole seen at once, breadth\" → synoptic; \"purer and more potent than the original\" → distill; \"away from the particular case\" → abstract."
 }

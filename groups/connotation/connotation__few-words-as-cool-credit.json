@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__few-words-as-cool-credit",
+  "title": "Saying Less on Purpose",
+  "seed_words": [
+    "laconic",
+    "pithy",
+    "understated",
+    "brevity",
+    "economy"
+  ],
+  "hallucinated": null,
+  "core": "All five treat smallness — of word count, volume, or effort — as evidence of control rather than of poverty. The shared claim is that the speaker or maker *could* have given you more and withheld it, so what's left is doing extra work. That's what makes them praise where *terse*, *curt*, and *sparse* are complaints. They split on what's being measured (words, emphasis, waste, time), whether the praise lands on the person or the product, and how much warmth comes with it.",
+  "words": [
+    {
+      "word": "laconic",
+      "nuance": "The only one that describes a **person's habitual manner** rather than a piece of output, and the only one carrying a temperature — cool, dry, unbothered. It can chill: the boss who answers \"Noted.\" is laconic, never pithy."
+    },
+    {
+      "word": "pithy",
+      "nuance": "The only one that guarantees the content was **good**. Brevity here is a delivery system for a hit — a proverb, an epigram, a one-liner. You can be laconic and say nothing; you cannot be **pithy** and dull. Praise for the line, not the speaker."
+    },
+    {
+      "word": "understated",
+      "nuance": "Not about word count at all — about **emphasis**. It covers dress, acting, design, tone: real substance presented below its own volume. Alone in the group it can flip negative, because aimed at a figure it means the number was pitched too low."
+    },
+    {
+      "word": "brevity",
+      "nuance": "The neutral **measurement** the others editorialize on: shortness itself, with no promise of quality. A one-word answer has brevity even if it's useless. Alone here it also covers **duration** — and in that sense (\"the brevity of life\") the tone turns wistful, a loss rather than a skill."
+    },
+    {
+      "word": "economy",
+      "nuance": "The **craft** term, and the widest: it governs any resource — gesture, brushstroke, motion, materials — not just words. Its claim is *no waste*, not *little spent*; the same reduction from a miser is parsimony."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable praise: **understated** flips to an accusation when attached to a number, **brevity** turns elegiac when attached to time, and **laconic** is the only one that can read as cold."
+}

@@ -10,5 +10,33 @@
     "overt",
     "conspicuous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these say a thing is in plain view — no digging, no inference, no benefit of the doubt. The split that matters is what the visibility is *about*: some words only report that something is showing (a fact, a manner, an object), while others add a verdict — that what's showing is a wrong, and that its being unhidden makes it worse. A second split runs underneath: whether concealment was ever an option. Words that presuppose a cover-up carry a charge the purely descriptive ones don't.",
+  "words": [
+    {
+      "word": "manifest",
+      "nuance": "The only member that also works as a verb, and that verb defines it: something previously hidden — a disease, a talent, a grudge — surfaces into perception. As an adjective it's the judge's and clinician's word for a fact so evident to the senses that arguing is embarrassing, and it's the one word here that attaches happily to neutral or good things (manifest talent, manifest destiny)."
+    },
+    {
+      "word": "patent",
+      "nuance": "Reserve it for **claims**, not acts or objects: a patent lie, patent nonsense, a patent absurdity. It's the only one that reliably tells you the speaker is exasperated — the fact was lying wide open and someone had the nerve to pretend otherwise."
+    },
+    {
+      "word": "overt",
+      "nuance": "Describes the **manner** of doing, not the plainness of a fact, and it only earns its keep when hiding was the expected move — it's the live antonym of *covert*. Overt hostility means the pretending has stopped; an overt act of war means the openness is the message."
+    },
+    {
+      "word": "conspicuous",
+      "nuance": "The eye's word, not the mind's: the thing juts out of its surroundings and pulls attention, regardless of truth or wrongdoing. It's the only one that comfortably describes a person, a garment, or a *gap* — conspicuous by his absence — and the only one that can slide into vulgarity (conspicuous consumption) rather than condemnation."
+    },
+    {
+      "word": "flagrant",
+      "nuance": "Adds moral heat and demands a rule to break: a flagrant violation, breach, abuse, disregard. What it condemns is the **shamelessness** — the offender didn't even bother to hide — so it's the one word here that says something about the offender's attitude rather than about how easy the thing is to see."
+    },
+    {
+      "word": "egregious",
+      "nuance": "The only one measuring **degree of badness** rather than degree of exposure — outstandingly bad, worst-of-its-kind. An egregious error can be quietly buried and only discovered later; it stays egregious. Say it about a small private slip and you sound ridiculous."
+    }
+  ],
+  "exam_note": "Sentence Equivalence baits you with a pair of condemning words (flagrant/egregious) when the sentence only supports visibility (manifest/conspicuous) — check whether the blank needs a wrong, or just a thing that shows."
 }

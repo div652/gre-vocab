@@ -7,5 +7,21 @@
     "ravage",
     "surreptitious"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *rapere* means to seize or snatch, and each of these words keeps a different piece of that act. One keeps the grabbing hand and the hunger behind it; one keeps the violence of what gets carried off, leaving a stripped landscape; one keeps only the quickness — the snatch done before anyone can look up. Because the root splits three ways, these words are not synonyms and rarely substitute for one another; the confusion is that the shared etymology makes them feel like a scale of the same idea.",
+  "words": [
+    {
+      "word": "rapacious",
+      "nuance": "The only one that describes an **appetite** rather than an act — a standing disposition in the taker, present even before anything is seized. It attaches to agents with power over others (landlords, conquerors, creditors), and the victim survives, merely stripped."
+    },
+    {
+      "word": "ravage",
+      "nuance": "The only one focused on **aftermath**, and the only one where the agent wants nothing — plague, fire, war, and time carry nothing off, they just leave ruin behind. Where **rapacious** needs a greedy person, **ravage** prefers an impersonal force, and it uniquely doubles as a noun for the wreckage itself (*the ravages of time*)."
+    },
+    {
+      "word": "surreptitious",
+      "nuance": "The only one describing **manner**, not appetite or damage — it modifies how something is done, and the thing done may be trivial or harmless. It is also the only one that requires concealment: **rapacious** and **ravage** are conspicuous by nature, while what is condemned here is the hiding, not the force."
+    }
+  ],
+  "exam_note": "The trap is treating the shared root as shared meaning — the exam counts on you reasoning \"seize\" and picking the wrong one; choose by what the sentence emphasizes (the taker's hunger, the wreckage left, or the stealth of the doing)."
 }

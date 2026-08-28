@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__chemistry-and-weather-words-for-moods",
+  "title": "Chemistry and Weather Words for Moods",
+  "seed_words": [
+    "volatile",
+    "ebullient",
+    "tempestuous",
+    "turbulent",
+    "buoyant"
+  ],
+  "hallucinated": null,
+  "core": "All five start as descriptions of physical behavior — how a liquid evaporates or boils, how air and water churn, whether an object floats — and then get handed to temperaments, relationships, markets and historical periods. The transfer is what makes them confusable: each one imports the *physics* of its source, so the real question is never \"is this unstable?\" but \"unstable in which way — about to erupt, bubbling upward, storm-hot, merely churning, or bobbing back up?\" The GRE trades on the fact that all five can modify the same nouns (a marriage, a decade, an economy) while promising very different things about them.",
+  "words": [
+    {
+      "word": "volatile",
+      "nuance": "The only one that threatens rather than describes. **Volatile** names a state before the event — the compound hasn't ignited, the crowd hasn't broken — so it implies a threshold and a warning to stand back. The others report motion already underway."
+    },
+    {
+      "word": "ebullient",
+      "nuance": "Boiling, and therefore *audible*. **Ebullient** is the group's volume word: the mood is escaping outward at you, fast talk and loud laughter. Approving, but it quietly flags overshoot — hotter than the occasion deserves, and unlikely to hold."
+    },
+    {
+      "word": "tempestuous",
+      "nuance": "The only one that requires passion, and usually a second person to have it with. **Tempestuous** attaches to affairs, marriages and divas; it disapproves while conceding glamour. Downgrade it to *turbulent* and you strip out the heat and the romance."
+    },
+    {
+      "word": "turbulent",
+      "nuance": "Instability with no feelings attached. **Turbulent** describes churn — seas, flights, a decade — where nothing intends anything and nothing can be predicted. It's the neutral, all-purpose member: safe where the sentence supplies disorder but no emotion, no threat, no charm."
+    },
+    {
+      "word": "buoyant",
+      "nuance": "The only restoring force in the group. **Buoyant** presupposes downward pressure that failed: the mood took the bad news and rose anyway. It compliments resilience, not volume — and of markets it means healthy and rising, the one unambiguously good reading here."
+    }
+  ],
+  "exam_note": "Distractors here differ by temperature and direction, not by degree: **turbulent** fits any unsettled thing, **tempestuous** needs hot emotion, **volatile** needs a looming threat, and **ebullient** (loud joy) is separated from **buoyant** (unsinkable joy) only by whether the sentence stresses noise or recovery."
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__destroy-completely",
-  "title": "Destroy completely",
+  "title": "Destroy completely: root out, lay waste, defeat, take apart",
   "seed_words": [
     "eradicate",
     "ravage",
     "vanquish",
     "dismantle"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four bring something to a total end — not damaged, not reduced, finished. What separates them is the *route* to that end and what sits on the receiving side: a category of evil pulled up by the roots, a landscape left in ruins by a rolling force, an opponent beaten past any rematch, or a structure taken to pieces by procedure. Two of them (root-out, defeat) claim the thing is gone; one claims only that what remains is wrecked; one claims the pieces are now on the floor in order. Choosing wrongly usually means you've mismatched the verb to its object.",
+  "words": [
+    {
+      "word": "eradicate",
+      "nuance": "**Eradicate** makes a claim about the *remainder*: zero, with nothing left to regrow. Its object is a category of harm — smallpox, illiteracy, rats — never a single person or building, and never something good; the agent is typically a campaign, ministry, or program, which is why it sounds bureaucratic where the others sound dramatic."
+    },
+    {
+      "word": "ravage",
+      "nuance": "**Ravage** is the only one that does not remove its object — the country, the face, the forest is still there, just ruined. The damage sweeps and repeats rather than landing once, the agent is an impersonal force (plague, fire, war, time) rather than a strategist, and it alone gives you a noun for the aftermath: *the ravages of*."
+    },
+    {
+      "word": "vanquish",
+      "nuance": "**Vanquish** requires an *opponent* — something that was contesting you — not a condition or a mechanism; you can eradicate a disease but you vanquish an army, a dragon, your own fear. The glory attaches to the victor, and the register is high enough that applying it to laundry or email is audibly a joke."
+    },
+    {
+      "word": "dismantle",
+      "nuance": "**Dismantle** supplies method instead of force: crews, sequence, inventory, no wrecking ball. It quietly asserts the thing was *assembled* — so calling a hierarchy or an argument dismantled denies it was ever natural — and it's the only one whose result can be a neat pile of parts rather than a ruin or an absence."
+    }
+  ],
+  "exam_note": "The GRE decides these by the object noun and the agent, not by intensity — a blank followed by *apartheid/the tariff regime* wants **dismantle**, by *polio/corruption* wants **eradicate**, by *coastline/by war* wants **ravage**, by a named foe or an abstract fear wants **vanquish**; the classic trap is treating **ravage** as elimination when it only means left in ruins."
 }

@@ -1,0 +1,27 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__humours-and-planets-as-temperament",
+  "title": "Humours and planets as temperament",
+  "seed_words": [
+    "sanguine",
+    "phlegmatic",
+    "mercurial"
+  ],
+  "hallucinated": null,
+  "core": "Ancient physiology held that a person's fixed disposition came from bodily fluids and the planets that ruled them — blood, phlegm, and quicksilver each producing a recognizable type. The literal substances have dropped away, and what survives in modern English is the temperament: a settled, constitutional way of being, not a mood someone happens to be in today. All three are formal, all three describe what a person *is* rather than how they are reacting, and all three can be praise or diagnosis depending on whether the writer thinks the situation warranted a reaction. The trap is that they are not synonyms of each other — each one preserves a different piece of the old theory.",
+  "words": [
+    {
+      "word": "sanguine",
+      "nuance": "The only one with *content* — it names what the person believes, not just how much they react. It's directional and takes an object: you are **sanguine** *about* the deficit, the tumour, the quarter. That pointing-at-a-threat is the whole word; strip the bad news away and it has nothing to describe."
+    },
+    {
+      "word": "phlegmatic",
+      "nuance": "Not a belief but an absence of amplitude. The **phlegmatic** person has no view on how things will turn out — they simply didn't spike. Where sanguine is cheerful, this is flat, and the flatness extends to everything, not just to trouble: slow to anger, slow to enthusiasm, slow to move."
+    },
+    {
+      "word": "mercurial",
+      "nuance": "The only one describing *change* rather than a steady level — the other two name a setting the person is stuck at, this names the swinging. It's also the only one that flatters: quicksilver implies quickness of mind, so it attaches to the gifted and the difficult together — the star striker, the temperamental director."
+    }
+  ],
+  "exam_note": "Sentence-equivalence pairs \"sanguine\" with \"phlegmatic\" as though both just meant calm — but only sanguine asserts a good outcome, and only phlegmatic can mean torpid; watch also for the literal senses (sanguine = blood-red, mercurial = quicksilver-like) surfacing in older passages."
+}

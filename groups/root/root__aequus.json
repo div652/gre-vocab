@@ -8,5 +8,25 @@
     "equitable",
     "equivocate"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *aequus* means level, even, on the same plane — and its descendants apply that levelness to four completely different surfaces: a society, a mind, a judgement, and a sentence. Because they all sound like \"equal,\" the temptation is to read every one of them as being about identical shares, which only one of them is actually near. Three carry the levelness as a virtue; one carries it as a defect, because the two things held level are two readings of what you just said.",
+  "words": [
+    {
+      "word": "egalitarian",
+      "nuance": "The social one: levelness applied to **status and resources across a whole population**. It is a professed principle, so it attaches to systems and movements — pay bands, inheritance law, a flat org chart — never to a mood or a single decision. It is also the only word here that genuinely wants identical shares."
+    },
+    {
+      "word": "equitable",
+      "nuance": "The judicial one: levelness applied to **a specific case, by someone weighing what each party is owed**. Unlike *egalitarian*, it routinely produces unequal shares on purpose — the calibration is the point. It attaches to settlements, remedies, and distributions, and it presumes an authority doing the calibrating."
+    },
+    {
+      "word": "equanimity",
+      "nuance": "The inward one: levelness of **one person's mind, under a specific blow**. It says nothing about fairness or distribution and cannot describe a policy — only a bearing. And it requires provocation to be worth naming: no one has equanimity about good news."
+    },
+    {
+      "word": "equivocate",
+      "nuance": "*Aequus* + *vox*: **equal voice** — two readings of your words, weighted evenly, so you can retreat to whichever one suits you. It's the only verb, the only pejorative, and the only case where levelness is the fault; note it is not lying, since what's said stays technically defensible."
+    }
+  ],
+  "exam_note": "The favorite trap is treating **equitable** as a synonym for *equal* (or for **egalitarian**) — the exam builds sentences where the fair outcome is explicitly the unequal one; the second trap is **equivocate**, whose root looks virtuous but whose sentence context is always accusatory."
 }

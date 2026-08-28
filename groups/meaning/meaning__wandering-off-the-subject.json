@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__wandering-off-the-subject",
-  "title": "Wandering off the subject",
+  "title": "Off the point — or just going on too long",
   "seed_words": [
     "digression",
     "ramble",
     "tangential",
     "expatiate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe talk or writing that gives a subject more room than the listener wanted. Two axes are tangled here: **direction** (does the speaker leave the main road?) and **duration** (does the speaker stay on it too long?). Most of these words criticize, but each aims at something different — the shape of the detour, the tedium of the drift, the relevance of the remark, or the sheer volume of words. Confusing them means mistaking a length complaint for a relevance complaint.",
+  "words": [
+    {
+      "word": "digression",
+      "nuance": "The only one that is a **countable, bounded unit** with a return trip built in — you can have three digressions in a lecture and still arrive at the point. It's also the only one a speaker cheerfully commits on purpose (\"but I digress\"), which is why it stays mild: it presumes a main argument competent enough to come back to."
+    },
+    {
+      "word": "ramble",
+      "nuance": "Presumes no destination at all — where a digression leaves a road, **rambling** never had one. The charge is tedium and drift, not error or irrelevance, and it's the bluntest insult of the four. It's also the only word here with a genuinely warm sense: a **ramble** through the hills is a pleasure, because aimlessness is the point of a walk and the flaw of a speech."
+    },
+    {
+      "word": "tangential",
+      "nuance": "The only **adjective**, and the only one judging relevance rather than length — a single sentence can be **tangential** while a forty-minute answer isn't. It's the reviewer's and the lawyer's verdict: it concedes the connection is real, then rules it out of bounds, which makes it politer than *irrelevant* and just as final."
+    },
+    {
+      "word": "expatiate",
+      "nuance": "The outlier: the speaker never leaves the subject — they stay on it far past necessity. Takes *on* or *upon* plus a topic, and describes volume, never wandering. It's the writer's word for someone holding forth, delivered with a raised eyebrow and never applied to oneself."
+    }
+  ],
+  "exam_note": "The trap is **expatiate**: it belongs to length, not wandering, so any answer treating it as \\\"stray off-topic\\\" is wrong — and **tangential** grades relevance where the other three grade duration."
 }

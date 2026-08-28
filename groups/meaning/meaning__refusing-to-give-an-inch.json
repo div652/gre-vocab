@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__refusing-to-give-an-inch",
-  "title": "Refusing to give an inch",
+  "title": "Refusing to Give an Inch — and What Fails to Move Them",
   "seed_words": [
     "intransigent",
     "obdurate",
     "obstinate",
     "implacable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something that will not yield to outside pressure, and all four are the losing party's verdict rather than the holder's self-description. The difference is never *how* immovable — it's *what kind of pressure is being applied and failing*. Reason, offered terms, tears, and apology are four different levers, and each of these words names the one that bounces off. Get the lever right and the group stops being interchangeable.",
+  "words": [
+    {
+      "word": "obstinate",
+      "nuance": "The baseline, and the only one that needs no counterparty: **obstinate** is a standing trait, resistance to *argument and reason* generally, with no particular petitioner in the room. It's also the only one in this group that takes inanimate objects — an obstinate stain, lid, cough — because it just means \"won't yield to repeated effort.\""
+    },
+    {
+      "word": "intransigent",
+      "nuance": "Requires a **negotiation**. Terms have been tabled and refused; without an offer on the table the word doesn't apply. Its home is political and diplomatic — unions, parties, peace talks — and the exasperation comes from the person across the table, not from a bystander. Alone in this group it flips admiring with some ease: an intransigent defender of principle."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "The pressure that fails here is **pity**, not argument. Someone is begging, the suffering is visible, and you feel nothing — so the fault is in the heart, not the reasoning. Uniquely moral and near-biblical in register: an obdurate sinner, an obdurate creditor. The speaker isn't describing you, they're condemning you."
+    },
+    {
+      "word": "implacable",
+      "nuance": "Not holding a position — **coming at you**. It points outward at a target, and what fails against it is *appeasement*: apology, concession, surrender. The others could simply sit still forever; **implacable** things keep advancing, which is why it extends to tides, age, and deadlines. Aimed at resolve rather than malice, it reads as formidable rather than petty."
+    }
+  ],
+  "exam_note": "The stem hands you the failed lever — an offer refused, a plea ignored, an apology that changed nothing — and the three wrong answers are all correctly \\\"stubborn\\\" but wrong about which lever failed."
 }

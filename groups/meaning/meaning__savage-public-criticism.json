@@ -9,5 +9,29 @@
     "objurgation",
     "scathing"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe criticism that is harsh, sustained, and meant to be heard by more people than the target. None of them fits a quiet correction: each assumes an audience, a critic with some standing to attack, and a target who comes off worse for it. What separates them is not how angry the critic is but what the attack *is* — a formal verdict, a methodical demolition, an undignified pounding, a thunderous scolding, or a wound that actually landed. Part of speech splits them too: three verbs, one noun, one adjective.",
+  "words": [
+    {
+      "word": "castigate",
+      "nuance": "The verdict word. **Castigate** names the offence — you castigate someone *for* something specific, from a seat of moral authority, and the sentence usually says what they did wrong. It is the least noisy of the group and the most judicial: an inquiry report castigates; a shouting match does not."
+    },
+    {
+      "word": "excoriate",
+      "nuance": "The most brutal verb here, and the most itemised. **Excoriate** is castigation carried on point by point until nothing is left standing — sustained flaying rather than a single pronouncement. It also elevates the critic: an excoriation implies the attacker had the standing to make it stick."
+    },
+    {
+      "word": "lambaste",
+      "nuance": "The one that makes the critic look excessive. **Lambaste** is pounding, not reasoning — it keeps swinging after the argument is over, and it carries the older sense of a physical thrashing. Journalistic in flavour; ministers get lambasted on front pages, and the word never suggests the attack was fair."
+    },
+    {
+      "word": "objurgation",
+      "nuance": "The only noun, and the only one that is a *scolding* rather than a judgement — volume and duration, not findings. Bookish enough that using it is usually a raised eyebrow: label a father's rant an **objurgation** and you have made him ridiculous. Lives in prose, not in speech."
+    },
+    {
+      "word": "scathing",
+      "nuance": "The only adjective, and it attaches to the attack, not the attacker: a **scathing** review, dismissal, footnote. It adds two things the verbs don't — wit and scorn on the critic's side, and proof of damage on the target's. Criticism that bounced off was never scathing, however loud."
+    }
+  ],
+  "exam_note": "The GRE rarely separates these by intensity — it separates them by grammar and framing: a blank needing a noun takes only *objurgation*, one modifying *review* or *report* takes only *scathing*, and a sentence that names the specific failing points to *castigate* over the vaguer *lambaste*."
 }

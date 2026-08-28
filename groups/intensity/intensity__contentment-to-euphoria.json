@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__contentment-to-euphoria",
+  "title": "Contentment to euphoria",
+  "seed_words": [
+    "content",
+    "buoyant",
+    "elated",
+    "euphoric"
+  ],
+  "hallucinated": null,
+  "core": "All four describe a person in a positive emotional state, ranged from placid satisfaction up to a soaring high. They differ on three axes the GRE actually tests: **temperature** (how much upward energy is in the feeling), **duration** (settled trait vs. brief spike), and **cause** (unprompted disposition vs. triggered by a specific event). They also differ in what they imply about the person feeling it — resilience, complacency, or a high that shouldn't be trusted.",
+  "words": [
+    {
+      "word": "content",
+      "nuance": "The only one here that isn't joy at all — it's the **absence of wanting**, not the presence of a lift. The others all point upward; **content** points at zero. It's also the only one that can be faintly damning: *content to remain a clerk* implies unambitious acquiescence, a criticism you can never build out of *elated* or *buoyant*."
+    },
+    {
+      "word": "buoyant",
+      "nuance": "The only **temperament** in the group, and the only one defined against downward pressure: **buoyant** implies bad news that should have sunk the mood and didn't. So it praises resilience rather than measuring volume — a buoyant person isn't necessarily feeling much more than a content one, they're just harder to deflate. It alone extends to markets and to literal floating."
+    },
+    {
+      "word": "elated",
+      "nuance": "The only one that requires a **trigger** — you are elated *at* the news, *by* the verdict. Where **buoyant** is a standing disposition, **elated** is a spike with a short half-life and a visible cause; take away the cause and the word stops applying. Note the third-person tilt: journalists call winners elated far more often than winners call themselves that."
+    },
+    {
+      "word": "euphoric",
+      "nuance": "Top of the ladder, and the only one whose intensity is itself **suspect**. **Elated** is proportionate to its cause; **euphoric** hints the feeling outran the cause — the clinical shadow (morphine, mania) and the market sense (the mood right before the crash) both suggest something chemical, unearned, or about to end. Strictly a state, never a disposition."
+    }
+  ],
+  "exam_note": "The trap is treating this as a single volume knob: *content* is not weak happiness but absence of desire, *buoyant* measures resistance to being brought down rather than intensity, and *euphoric* smuggles in a warning that the high is unreal — pick by implication, not by loudness."
+}

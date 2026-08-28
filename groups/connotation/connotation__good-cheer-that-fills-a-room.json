@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__good-cheer-that-fills-a-room",
+  "title": "Good cheer, and what it attaches to",
+  "seed_words": [
+    "ebullient",
+    "vivacious",
+    "buoyant",
+    "jocund",
+    "convivial"
+  ],
+  "hallucinated": null,
+  "core": "All five praise high spirits that other people can see — cheerfulness expressed outward rather than felt privately. They split on three questions: how loud the cheer is, what it's a response to, and what kind of noun it properly modifies (a temperament, a person in company, a mood under pressure, or the occasion itself). Every one is a compliment, but the compliments are about different things — volume, charm, resilience, atmosphere, hospitality. Choosing wrongly rarely makes a sentence false; it makes it faintly off.",
+  "exam_note": "The exam rarely tests the shared \"cheerful\" core — it plants the noun (a market, an evening, a rebounding mood, a hostess) and expects you to pick the adjective that noun actually takes.",
+  "words": [
+    {
+      "word": "ebullient",
+      "nuance": "The only one here with volume — the cheer is audible and slightly in excess of the occasion, which is why it can be gently ironic about someone who hasn't read the room. It also travels beyond people to crowds and markets in a way **vivacious** and **jocund** never do."
+    },
+    {
+      "word": "vivacious",
+      "nuance": "The praise is for charm in conversation, not for quantity of energy: sparkle, quick talk, animation that draws people toward you. Uniquely among these it carries a gender skew — used of women far more than men — so it can land as dated or as a compliment on manner rather than substance."
+    },
+    {
+      "word": "buoyant",
+      "nuance": "The cheer is a rebound, not an outflow: it presupposes something that should have sunk the mood and didn't, so it praises resilience rather than liveliness. A buoyant person can be perfectly quiet — where **ebullient** measures noise, this measures what survived the bad news."
+    },
+    {
+      "word": "jocund",
+      "nuance": "Marked by register, not by intensity: this is ordinary light-heartedness in a poet's clothing, and it attaches happily to a morning, a breeze, an hour. Use it of a Tuesday standup and the effect is comic — a joke about the word, not a description of the mood."
+    },
+    {
+      "word": "convivial",
+      "nuance": "Describes the gathering, not the person's disposition — it needs a table, other people, and usually a host, so nobody is convivial alone or convivial toward a stranger in a lift. It also carries a glow of indulgence the others lack: the evening ran long, and the wine was part of it."
+    }
+  ]
+}

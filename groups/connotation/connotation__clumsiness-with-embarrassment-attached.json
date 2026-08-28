@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__clumsiness-with-embarrassment-attached",
+  "title": "Clumsiness with embarrassment attached",
+  "seed_words": [
+    "gauche",
+    "gawky",
+    "inept",
+    "boorish",
+    "gaffe",
+    "infelicity"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe a failure of smoothness that makes onlookers wince rather than gasp — nobody here is malicious, just badly calibrated. They split along three axes: what fumbles (a body, a set of manners, a skill, a sentence), whether the word names a lasting trait or a single moment, and how much the speaker is looking down while saying it. The judgment ranges from half-fond indulgence to open class contempt, and the exam lives in that spread.",
+  "words": [
+    {
+      "word": "gawky",
+      "nuance": "The only one about **limbs**, not manners, skill, or words — the tall teenager who knocks the glass over. It's also the only forgiving word in the group: it assumes they'll grow out of it, and says nothing about their character or upbringing."
+    },
+    {
+      "word": "gauche",
+      "nuance": "The clumsiness is in **tact**, and the diagnosis is **upbringing** — the speaker is claiming to know the rules and ruling that you were never taught them. Unlike *gawky*, no growing out of it is implied; unlike *boorish*, the offense is a misjudged touch (the wrong gift, the wrong question), not coarseness."
+    },
+    {
+      "word": "boorish",
+      "nuance": "**Gauche** turned up loud and physical: mouth full, voice too big, interrupting the toast. Where a gauche person misreads a delicate cue, a boorish one is oblivious to the whole register — and crucially, still not cruel, since knowing malice would make him something worse."
+    },
+    {
+      "word": "inept",
+      "nuance": "The only one that measures **competence at a task** rather than social calibration — you can be inept at negotiating, wiring a plug, or apologizing. It carries a wince and mild contempt but no class charge at all: the failure is skill, not breeding, and *incompetent* would be the harsher, more institutional verdict."
+    },
+    {
+      "word": "gaffe",
+      "nuance": "A **noun for a single moment**, not a standing trait — one remark, in public, in front of the wrong ears. The word is a journalist's, half-relishing the spectacle, and the slip is of tact rather than etiquette: you said the tactless or inconveniently true thing, you didn't use the wrong fork."
+    },
+    {
+      "word": "infelicity",
+      "nuance": "The **courteous** one — a reviewer's or diplomat's word that concedes good intent and blames only the wording. It attaches to **phrasing on the page**, is small and countable (\"a few infelicities of style\"), and lacks entirely the public spectacle a **gaffe** requires."
+    }
+  ],
+  "exam_note": "The trap is the speaker's stance, not the definition: sentences signal a snobbish narrator (gauche, boorish), a fond one (gawky), or a tactful one (infelicity) — and note that gaffe and infelicity are nouns naming one event, so any blank taking an adjective for a person eliminates them instantly."
+}

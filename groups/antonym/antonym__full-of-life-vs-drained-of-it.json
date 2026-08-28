@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__full-of-life-vs-drained-of-it",
+  "title": "Full of life vs. drained of it",
+  "seed_words": [
+    "invigorate",
+    "galvanize",
+    "vitality",
+    "verve",
+    "vivacious",
+    "enervate",
+    "debilitating",
+    "lethargic",
+    "torpor",
+    "languid",
+    "somnolent"
+  ],
+  "hallucinated": null,
+  "core": "One axis: how much life-force is present, and whether it is being put in or taken out. The top half covers energy arriving or on display — as a jolt from outside, as an underlying reserve, as visible sparkle. The bottom half covers energy leaking away — by slow sapping, by sudden incapacity, or by simple drowsiness. The exam's work is done by the side details: verb or noun, cause or sufferer, clinical or flattering, and whether the word demands that something actually *happen*.",
+  "words": [
+    {
+      "word": "invigorate",
+      "nuance": "The only one that means **restore bodily vigour** — it puts strength and alertness back into something that had gone limp (a swimmer, a campaign, an economy). The payoff is a feeling of being strong again, not necessarily any action taken."
+    },
+    {
+      "word": "galvanize",
+      "nuance": "**Galvanize** demands a result: the target must move. It also presumes prior *apathy* rather than mere tiredness, and it happens in one moment — a speech, an outrage — not over a bracing week."
+    },
+    {
+      "word": "vitality",
+      "nuance": "The abstract noun for the reserve itself, not a jolt to it. Uniquely, **vitality** can survive exhaustion and outlast a lifetime — it's what says a language, a neighbourhood or an eighty-year-old writer hasn't ossified."
+    },
+    {
+      "word": "verve",
+      "nuance": "Not life-force at all but **style of execution** — dash and flair visible in a performance, a prose sentence, a closing argument. It cannot describe health, stamina or a person merely working hard, and it lives in reviews rather than conversation."
+    },
+    {
+      "word": "vivacious",
+      "nuance": "The group's only adjective for a **person in company**: talkative, sparkling, charming. It rates manner, not force — an athlete has energy, a hostess is vivacious — and carries a usage skew toward women that can date the speaker."
+    },
+    {
+      "word": "enervate",
+      "nuance": "The exact reverse of *invigorate*, and a **slow sap** rather than a blow: swampy heat, long illness, years of comfort. Alone in the group it implies moral softening — the will goes limp along with the limbs."
+    },
+    {
+      "word": "debilitating",
+      "nuance": "Marks a **threshold**, not a feeling: capacity has been taken away. It attaches to the cause — an illness, a strike, sanctions — in the clinical register of doctors and insurers, so it says nothing about drowsiness or mood."
+    },
+    {
+      "word": "lethargic",
+      "nuance": "Describes the **sufferer**, and specifically an abnormal drowsy sluggishness that happened *to* them — flu, jet lag, grief. Temporary and blameless where *lazy* would accuse, and it stops short of the total inertness of torpor."
+    },
+    {
+      "word": "torpor",
+      "nuance": "The noun for the whole **state of inertness** — deeper and more settled than a lethargic afternoon, with no appetite for motion of any kind. It scales from a body to a bureaucracy and reaches back to the literal hibernation sense."
+    },
+    {
+      "word": "languid",
+      "nuance": "The only one that can **flatter**. A languid gesture or a languid afternoon is slow enough to be stylish; even its weak sense stays poetic rather than clinical — you'd never chart it. (Business prose is the exception: *languid trading* is just limp.)"
+    },
+    {
+      "word": "somnolent",
+      "nuance": "Specifically **sleep-flavoured**, and it runs both directions — the dozing student *and* the lecture that caused him. It lays a mood over a scene rather than diagnosing a person, and implies heavy eyelids without any whiff of failure."
+    }
+  ],
+  "exam_note": "The perennial trap is **enervate**, which looks like \"energize\" but means its opposite; the second is choosing between *invigorate* and *galvanize* — ask whether the sentence requires strength restored or action actually taken."
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__small-enough-to-dismiss",
+  "title": "Small enough to dismiss",
+  "seed_words": [
+    "paltry",
+    "trifling",
+    "trivial",
+    "peccadillo",
+    "nominal",
+    "token"
+  ],
+  "hallucinated": null,
+  "core": "Every word here calls something small — and then uses that smallness to settle a question. The size claim is never neutral reporting; it's an argument that the thing needn't be respected, needn't be debated, needn't be punished, or needn't be believed. They diverge on *who takes the hit*: the person who offered too little, the thing itself, the offender being let off, or the actor staging a gesture that only resembles the real thing.",
+  "words": [
+    {
+      "word": "paltry",
+      "nuance": "The only one that indicts the **giver**. Smallness is measured against what was owed or promised, so the resentment lands on whoever handed it over — a **paltry** raise shames the employer, it doesn't dismiss the money."
+    },
+    {
+      "word": "trifling",
+      "nuance": "The speaker's shrug, and it flatters the speaker: **trifling** is what someone grand calls a sum or an error they can afford to wave off. Alone in this group it also turns on a *person* — a **trifling** young man is frivolous and not to be relied on."
+    },
+    {
+      "word": "trivial",
+      "nuance": "Attacks **importance**, not amount, so it fits things with no size at all: an objection, a distinction, a concern. It's the word you use to kill someone else's point — which is why \"this isn't **trivial**\" is a standard protest."
+    },
+    {
+      "word": "peccadillo",
+      "nuance": "The only noun, the only one about **wrongdoing**, and the only one that *forgives*: it concedes a real sin and then pats it on the head. Reserved for worldly appetites — drink, gambling, flirtation — not for blunders or bad work."
+    },
+    {
+      "word": "nominal",
+      "nuance": "The smallness is **structural and blameless**: a **nominal** fee exists to make the transaction legal, a **nominal** head exists to fill the office. Said flatly by someone in a position to know, and it accuses nobody — it also carries a fully neutral technical sense (*nominal thrust*) no other word here has."
+    },
+    {
+      "word": "token",
+      "nuance": "Deliberately minimal like **nominal**, but with a motive attached: a **token** apology is calibrated to *look* like compliance. **Nominal** describes an empty form; **token** exposes the person who chose it — and the noun (*a token of affection*) is warm, which the adjective never is."
+    }
+  ],
+  "exam_note": "The clue is never the size — it's who the sentence blames: a stingy giver takes **paltry**, a dismissive speaker **trifling** or **trivial**, a forgiven offender **peccadillo**, a hollow office or formality fee **nominal**, and bad-faith show of compliance **token**."
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__fix-what-s-defective",
-  "title": "Fix what's defective",
+  "title": "Fixing what's wrong: how broken was it to begin with?",
   "seed_words": [
     "amend",
     "refine",
     "remedial",
     "ameliorate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four presuppose a starting state that falls short and an intervention that closes the gap. They differ on two axes: **how bad the starting state was** (merely improvable → substandard → wretched) and **what kind of thing is being fixed** (a text, a technique, a defect, a human condition). Each also leaks a judgment about the original — some faintly, some brutally. Ordered below by how damning that implied verdict is.",
+  "words": [
+    {
+      "word": "refine",
+      "nuance": "The only one whose starting point is already good — you refine a sound argument, not a broken one — and the only one where the fix is *subtractive*: impurities out, edges smoothed, nothing added or rebuilt. It also alone has a literal industrial sense (oil, sugar, ore) and a social adjective, where **refined** slides from polished into snobbery."
+    },
+    {
+      "word": "amend",
+      "nuance": "The procedural one: it attaches to a *text* — a bill, contract, motion, tax return — and means someone with the authority to do so has altered specific wording while the instrument survives under its own name. You cannot amend suffering or a soil profile; and unlike the others, an amendment is an on-record act with a date and a mover."
+    },
+    {
+      "word": "remedial",
+      "nuance": "An adjective describing the *intervention*, not the repair itself — remedial works, remedial action, a remedial class. That makes it the only word here that can label a person, and it stings: it certifies the target as below the required standard, praising the fix while diagnosing the flaw."
+    },
+    {
+      "word": "ameliorate",
+      "nuance": "Reserved for bad *conditions* — poverty, overcrowding, harsh working hours — and it promises only partial relief: the misery is softened, the cause still stands. The most formal of the four, at home in policy papers and judgments, and absurd applied to anything merely mediocre or to a document."
+    }
+  ],
+  "exam_note": "The trap is the starting state: if the passage says the thing was already sound, only **refine** fits; if it was wretched, **ameliorate**; if it's a document with a process, **amend** — and \"improve\" is never a clean synonym for any of them."
 }

@@ -8,5 +8,25 @@
     "laconic",
     "coy"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe someone who says less than they could — the words are there, and they don't come out. They split on *why* and *what kind of little*: a lasting temperament, a specific subject fenced off, a style of delivery, or a performance meant to be noticed. Note that none of them means shy: shyness is inability, and every word here involves a person who has the material and withholds it. The GRE cares almost entirely about which axis each one lives on.",
+  "words": [
+    {
+      "word": "reticent",
+      "nuance": "**Reticent** is the topic word: it needs an *about*. He talks freely for an hour and goes quiet on his finances — that's reticence, and it says nothing about how chatty he is otherwise. Alone among these it points at self-disclosure specifically, which is why it reads as discretion or as concealment depending on who's asking."
+    },
+    {
+      "word": "taciturn",
+      "nuance": "**Taciturn** is the temperament word: it describes the person, not a topic or an occasion. There's no subject he's avoiding — he's like this at dinner, at work, and in ten years' time. It's the only one here you could apply to someone who has nothing whatever to hide."
+    },
+    {
+      "word": "laconic",
+      "nuance": "**Laconic** describes the *style of what does get said*, not the amount of silence. The laconic man answers — in four words, dryly, and the compression is the effect. It's the only one that can be a compliment about delivery: unflappable, deadpan, more force per word."
+    },
+    {
+      "word": "coy",
+      "nuance": "**Coy** wants you to notice the withholding — the silence is bait, not a fence. It's the only one here that's a performance aimed at an audience, and the only one carrying an eye-roll: the coy speaker is teasing, flirting, or managing you. A reticent CEO won't discuss the numbers; a coy one hints that there's something to discuss."
+    }
+  ],
+  "exam_note": "The trap is treating **reticent** and **taciturn** as interchangeable — look for an \"about X\" in the sentence (reticent) versus a description of the person's standing character (taciturn); and don't let **coy** slip past as mere shyness, since it always implies calculation."
 }

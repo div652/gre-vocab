@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__clear-water-clear-prose",
+  "title": "Clear water → clear prose",
+  "seed_words": [
+    "limpid",
+    "pellucid",
+    "lucid",
+    "turbid",
+    "opaque"
+  ],
+  "hallucinated": null,
+  "core": "Every word here measures one thing: how much passes through. Physically, that's light through water, glass, or air; figuratively, it's meaning through sentences — how much effort the reader spends before the idea arrives. The group splits into the transparent end and the blocked end, and the whole set moved from describing liquids to describing writing and minds by the same metaphor. The GRE almost never needs the literal sense; it needs to know whether the medium lets you through, half-lets you through, or stops you cold.",
+  "words": [
+    {
+      "word": "pellucid",
+      "nuance": "The luminous one — **pellucid** things don't just transmit light, they seem to glow with it, which is why it fits a mountain stream or a great teacher and sounds absurd for a windowpane. It's the most lyrical word in the group and cannot be neutral: it always praises."
+    },
+    {
+      "word": "limpid",
+      "nuance": "**Limpid** adds stillness rather than light — the untroubled pool, nothing churning. That makes it praise for the *surface* of prose, its ease and calm, not for the intellect behind it; white water over rocks is clear but never limpid."
+    },
+    {
+      "word": "lucid",
+      "nuance": "The only one at home in ordinary registers, the only one that implies hard material made followable — a physicist's explanation, not a shopping list — and the only one with a mental-faculty sense (**lucid** interval, quietly sad because the surrounding hours weren't). Never say it of actual water."
+    },
+    {
+      "word": "turbid",
+      "nuance": "The murk in **turbid** is suspended sediment, stirred up and not yet settled — it could clear, and someone disturbed it. That's why it accuses: turbid prose muddied something that had every chance of being plain, unlike *murky*, which is the loose everyday word."
+    },
+    {
+      "word": "opaque",
+      "nuance": "**Opaque** is a total barrier, not a cloud: no sediment to settle, nothing coming through, the surface gives you nothing back. Because transparency is the civic virtue, calling a ruling or a procurement process opaque implies the blockage was chosen."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves the limpid/pellucid pair as interchangeable answers; the trap is grabbing lucid instead, which won't describe literal water — and at the negative end, turbid (temporarily clouded) is not a fit where the sentence demands opaque (impenetrable)."
+}

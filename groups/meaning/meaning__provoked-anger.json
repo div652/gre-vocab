@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__provoked-anger",
-  "title": "Provoked anger",
+  "title": "Provoked anger: grievance and who it makes look bad",
   "seed_words": [
     "ire",
     "umbrage",
     "indignant",
     "resent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe anger that comes with a claim attached: someone was wronged, slighted, or treated unfairly, and the feeling is the response to that offence. None of them is raw temper — each presupposes a trigger and a grievance. They split on whose side of the offence you're standing on, how long the feeling lasts, and whether the writer thinks the grievance was worth having.",
+  "words": [
+    {
+      "word": "ire",
+      "nuance": "The only one that names anger **from the offender's side of the transaction**: you don't feel ire, you *draw* it. Locked into set phrases (*drew/sparked/raised the ire of*) with an institution or crowd as the angry party — regulators, fans, the board. It reports anger from outside; it never describes an inner state you're sitting with."
+    },
+    {
+      "word": "umbrage",
+      "nuance": "The only one that quietly **discredits the person feeling it**. *Take umbrage at* implies the slight was small and the reaction over-ready — wounded vanity, not injury. Right for someone bristling at a tone or a seating chart; applied to real cruelty it reads as mockery."
+    },
+    {
+      "word": "indignant",
+      "nuance": "The **moral posture** word: not merely hurt but claiming a violated right — *how dare you*. The only member that can be wholly admirable (righteous indignation at injustice), and it points outward at the wrongdoer rather than inward at the wound. Describes a person mid-protest, usually audibly."
+    },
+    {
+      "word": "resent",
+      "nuance": "The only one with **duration and silence built in**. The others are reactions with a visible moment; resentment is what's still there months on, unspoken and nursed. It's also the only one you can aim at an impersonal thing you must keep living with — a duty, a rule, a colleague's promotion."
+    }
+  ],
+  "exam_note": "The trap is duration and sympathy: **indignant** is a hot public protest of unfairness while **resent** is cold and stored, and **umbrage** is the one that makes the offended party look petty — so a sentence endorsing the reaction as justified rules it out."
 }

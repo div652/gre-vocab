@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__emotion-running-out-of-control",
+  "title": "Out of Control — But Which Part?",
+  "seed_words": [
+    "hysterical",
+    "frenetic",
+    "tempestuous",
+    "volatile",
+    "impetuous"
+  ],
+  "hallucinated": null,
+  "core": "All five describe something whose energy has outrun its brakes, and all five can be said with either disapproval or a grudging thrill. The trap is that they locate the loss of control in different places: in a person's judgement, in the tempo of activity, in the weather of a relationship, in the risk of a future eruption, or in one headlong decision. They also differ in tense — some report chaos already visible, one only forecasts it.",
+  "words": [
+    {
+      "word": "hysterical",
+      "nuance": "The only one that attacks credibility: **hysterical** says the person's feeling has voided their judgement, so nothing they claim need be believed. That makes it a verdict on the speaker rather than a description of the scene — which is why it wounds where *frenetic* or *impetuous* merely characterize."
+    },
+    {
+      "word": "frenetic",
+      "nuance": "**Frenetic** is about tempo, not feeling — a newsroom, a schedule, a drum solo. Everyone involved can be perfectly calm inside; what's out of control is the rate at which things are happening. It's also the one most easily meant as praise."
+    },
+    {
+      "word": "tempestuous",
+      "nuance": "**Tempestuous** needs duration and, usually, two people: it's a pattern of storms — rows, ruptures, passionate reconciliations — not a single outburst. It's the only one that includes *desire* in the turbulence, and the only literary one; a journalist reaches for it about affairs and divas."
+    },
+    {
+      "word": "volatile",
+      "nuance": "**Volatile** is predictive, not descriptive: it says the eruption hasn't happened yet. A volatile border, market, or temper can look entirely quiet right now — the word is a warning about what the next moment might hold, which is why it's the only one at home in finance and chemistry."
+    },
+    {
+      "word": "impetuous",
+      "nuance": "**Impetuous** attaches to a single act — a proposal, a resignation, a charge — not to a person's ongoing state. It's the decision made at speed and under heat, and unlike the others it carries a flicker of admiration: fire, just no brakes."
+    }
+  ],
+  "exam_note": "The GRE loves the mismatch of target: a blank about pace or activity wants **frenetic** even when the sentence sounds emotional, and a blank about a calm-but-dangerous situation wants **volatile** precisely because no chaos is visible yet."
+}

@@ -1,0 +1,47 @@
+{
+  "kind": "antonym",
+  "id": "antonym__can-t-do-without-vs-could-do-without",
+  "title": "Must Be There vs. Shouldn't Be There",
+  "seed_words": [
+    "indispensable",
+    "imperative",
+    "intrinsic",
+    "superfluous",
+    "redundant",
+    "extraneous",
+    "gratuitous"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers one question: does this thing have to be present? One half says yes — remove it and something breaks, or someone is demanding it. The other half says no — there's too much of it, it repeats what's already there, it came from outside, or nobody asked for it. The trap is that the \"no\" words are not interchangeable: each names a *different reason* the thing shouldn't be there, and the GRE builds its answer choices around exactly that difference.",
+  "words": [
+    {
+      "word": "indispensable",
+      "nuance": "The only word here whose test is **subtraction**: take it out and the operation stops. It attaches to a component or a person already in place — never to an action you must take — and it admits no degrees, so calling a colleague indispensable is total praise (or total sarcasm)."
+    },
+    {
+      "word": "imperative",
+      "nuance": "Alone in this group, it's about what must be **done**, not what must be kept. It speaks in the voice of command — a policy paper, a general, a moral duty — so there's an agent demanding it and a consequence for refusing, which *indispensable* (a bare structural fact) never carries."
+    },
+    {
+      "word": "intrinsic",
+      "nuance": "Not a necessity word at all: it locates a property **inside** the thing rather than bolted on from outside. That makes it the true opposite of *extraneous*, not of *superfluous* — and it's coolly neutral, the vocabulary of economists and philosophers stripping away the wrapping, with no praise in it."
+    },
+    {
+      "word": "superfluous",
+      "nuance": "The charge is pure **quantity** — this one is perfectly good, there are simply too many of them. A fourth adjective, a second apology: relevant, non-duplicative, and still one too many. It names no fault beyond the count, which is what separates it from the three that follow."
+    },
+    {
+      "word": "redundant",
+      "nuance": "Names the *reason* for the excess: **duplication**. \"Free gift,\" \"advance planning\" — you already said it. That carries a faint sting of not noticing, unlike the merely-over-supplied *superfluous*. Two side-senses flip it: British **made redundant** = laid off, and engineering **redundancy** (a backup engine) where the duplication is deliberate and good."
+    },
+    {
+      "word": "extraneous",
+      "nuance": "Not too much — **wrong category**. It came from outside and never bore on the question, so cutting it is a dismissal rather than a trim: a fourth paragraph restating your thesis is superfluous, a paragraph about your childhood is extraneous. Coldly clinical; lawyers and scientists strip out extraneous noise."
+    },
+    {
+      "word": "gratuitous",
+      "nuance": "The only one that indicts a **motive**. Nothing provoked it and someone enjoyed it anyway — the violence lingered, the insult was thrown in for sport. It says bad taste and self-indulgence about the doer, where the others say only bad editing. Watch the collocations: gratuitous violence, cruelty, insult, swipe."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves the superfluous/redundant/extraneous cluster as a fake \"obvious pair\" — pick only the one the sentence's evidence licenses (repetition → redundant, outside the topic → extraneous, mere surplus → superfluous), and remember intrinsic's antonym is extraneous, not superfluous."
+}

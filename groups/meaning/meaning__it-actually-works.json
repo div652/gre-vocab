@@ -8,5 +8,25 @@
     "fruitful",
     "salutary"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four praise something for producing a real effect rather than merely being attempted, intended, or impressive. The trap is that they praise different parts of the transaction: one rates the power packed into the cause, one rates whether the cure did its stated job, one rates the yield left behind by an activity, and one rates the benefit that arrived disguised as an unpleasant experience. On the exam they cluster because any of them can fill a blank glossed loosely as \"worked\" — the sentence's surrounding cues, not the gloss, decide which.",
+  "exam_note": "The discriminating cue is contextual, not definitional: strength-per-dose language selects potent, a remedy meeting its stated aim selects efficacious, a meeting or inquiry with takeaways selects fruitful, and a concessive \"though painful/humiliating\" clause selects salutary.",
+  "words": [
+    {
+      "word": "efficacious",
+      "nuance": "**Efficacious** is the only one keyed to a *stated purpose*: the remedy did the specific job it was prescribed for. It says nothing about strength — a mild treatment that reliably cures is efficacious, while a potent one that misses the target is not — and nothing about the experience of taking it. Its home is the clinical or policy register, attached to drugs, vaccines, sanctions, rituals; applied to a person it sounds like a category error."
+    },
+    {
+      "word": "potent",
+      "nuance": "**Potent** rates the cause, not the result: concentrated force per unit, effect out of proportion to size. It is the group's only morally neutral member — poison, propaganda and a demagogue's slogan are all potent, and none are efficacious, fruitful or salutary. A thing can be potent and achieve nothing useful; that possibility is precisely what the other three exclude."
+    },
+    {
+      "word": "fruitful",
+      "nuance": "**Fruitful** judges the *yield of an activity* — you walked away with something. It attaches to processes with participants and duration (a collaboration, a line of inquiry, an exchange of views), never to a substance or a dose, and carries no implication of power or of discomfort. Its diplomatic use is the tell: mild, warm, faintly evasive, and defined chiefly against *fruitless*."
+    },
+    {
+      "word": "salutary",
+      "nuance": "**Salutary** is the only one that comments on how the benefit *felt going down* — corrective good delivered through something unwelcome. It attaches to experiences that sting (a lesson, a shock, a warning, a defeat), so it presupposes an unpleasantness the other three are silent about. The register is stern and moralizing: the speaker is approving of your discomfort."
+    }
+  ]
 }

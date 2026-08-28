@@ -8,5 +8,25 @@
     "crestfallen",
     "lugubrious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe low spirits that are visible from the outside — gloom that registers on the face, in the voice, in the room. None of them is the private ache of *sad*; each is a mood someone else is reading and reporting. What separates them is not how much it hurts but what kind of gloom it is: how long it lasts, what caused it, whether it repels company, and whether the speaker is sympathetic or amused.",
+  "words": [
+    {
+      "word": "morose",
+      "nuance": "The only one with **teeth**. **Morose** gloom is sullen and antisocial — it shuts people out and resists being cheered, so the word carries a hint of blame the others don't. It describes a settled temperament, not a reaction to one piece of news."
+    },
+    {
+      "word": "glum",
+      "nuance": "The **small** one. **Glum** is a bad afternoon, not a bad soul: mild, quiet, usually temporary, attached to a minor letdown. It's sulky at the edges rather than hostile, which is why \"cheer up\" is a plausible response to a glum person and a useless one to a morose one."
+    },
+    {
+      "word": "crestfallen",
+      "nuance": "The only one that requires a **prior high**. **Crestfallen** names the moment a raised hope collapses — the face falling as the news lands — so it's an event with a cause, not a standing mood, and it's said with sympathy rather than judgment."
+    },
+    {
+      "word": "lugubrious",
+      "nuance": "The only one that judges the **style**, not the feeling. **Lugubrious** gloom is heavy, drawn-out, and laid on thick enough to be funny, so it attaches happily to voices, songs, faces, and dogs — things that *look* mournful. Using it puts the speaker at an ironic distance; the others take the sadness at face value."
+    }
+  ],
+  "exam_note": "The GRE hides the trigger in the sentence: a dashed expectation (\"after the rejection letter\") demands **crestfallen**, a refusal to be drawn out demands **morose**, and a mock-solemn or comic tone demands **lugubrious** — **glum** is the trap that fits the gloom but not the scale."
 }

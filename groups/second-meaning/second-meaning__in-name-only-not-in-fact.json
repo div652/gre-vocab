@@ -1,0 +1,27 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__in-name-only-not-in-fact",
+  "title": "In name only, not in fact",
+  "seed_words": [
+    "token",
+    "nominal",
+    "perfunctory"
+  ],
+  "hallucinated": null,
+  "core": "Something real happened, or really exists — the fee was charged, the apology was given, the title was conferred — and none of it carries the weight the form promises. The gap is between the outward record and the actual substance behind it, and each of these words locates that gap somewhere different: in the size of what was given, in the label attached to it, or in the attention paid while doing it. All three let a speaker grant the fact and withhold the credit, which is why they read as understated criticism rather than open accusation.",
+  "words": [
+    {
+      "word": "token",
+      "nuance": "**Token** attacks the *amount*: deliberately just enough to be pointed at, calibrated to buy credit at the lowest possible price. It implies a calculating actor who knew what would have been adequate and paid less — a token raise, a token seat on the board — which is why it's the only one of the three that shades into charges of bad faith (tokenism)."
+    },
+    {
+      "word": "nominal",
+      "nuance": "**Nominal** attacks the *label*, not the actor. The title, the price, the designation is perfectly genuine — it just isn't backed by power, money, or effect, and the speaker states this flatly, usually as an insider's clarification rather than a complaint. It alone has an innocent technical sense (as-specified, unadjusted: nominal thrust, nominal wages) with no hollowness in it at all."
+    },
+    {
+      "word": "perfunctory",
+      "nuance": "**Perfunctory** attacks the *manner of doing*. The act may be full-sized and fully authorized; what's absent is attention — it was executed mechanically, as a duty discharged. It's the only one here that describes a person going through motions, and the charge is indifference, not stinginess or emptiness of title."
+    }
+  ],
+  "exam_note": "Sort by what the emptiness attaches to: **perfunctory** modifies how an act was performed, **token** how much was given, **nominal** what something is called — and watch for nominal's on-spec technical sense in finance/engineering contexts, where it means the opposite of hollow."
+}

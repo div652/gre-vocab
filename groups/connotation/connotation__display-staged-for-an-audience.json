@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__display-staged-for-an-audience",
+  "title": "Display staged for an audience",
+  "seed_words": [
+    "ostentatious",
+    "pretentious",
+    "affectation",
+    "posturing",
+    "bravado",
+    "histrionic"
+  ],
+  "hallucinated": null,
+  "core": "Every word here says the same thing about a piece of behaviour: it exists to be seen. There is a performer and there is a crowd, and the gap between what's shown and what's actually there is the whole point. All six are verdicts rather than descriptions — using one is a claim that you can see the machinery. They divide by *what* is being faked: money, cultivation, personality, resolve, courage, or feeling.",
+  "words": [
+    {
+      "word": "ostentatious",
+      "nuance": "The display is **loud and successful** — the thing on show is genuinely there (the money, the piety, the grief), it's just been staged. Uniquely, no incompetence is alleged: **ostentatious** attacks vulgarity of motive, not a failure to pull it off."
+    },
+    {
+      "word": "pretentious",
+      "nuance": "The bid is specifically for **cultural credit** — taste, intellect, depth — and it fails. Unlike **ostentatious**, the claim is false: the substance isn't there. It's the only word here that can be leveled at an object rather than a person (a pretentious novel, a pretentious menu)."
+    },
+    {
+      "word": "affectation",
+      "nuance": "**Small, specific, and countable** — one drawled vowel, one borrowed spelling. The others name a whole performance; an **affectation** is a single imported detail, which is why it reads as silly rather than dishonest. Only this word is a noun for the item itself."
+    },
+    {
+      "word": "posturing",
+      "nuance": "The pose is **strategic** — struck to gain leverage in a negotiation, a standoff, a debate. What's hollow isn't the emotion but the **intention to act**: the threat won't be carried out, the principle won't be defended. Politics and diplomacy are its home ground."
+    },
+    {
+      "word": "bravado",
+      "nuance": "Narrowed to one quality — **courage** — and the word supplies a diagnosis the others don't: the swagger is **covering fear**. That sympathy is why *bravado* can be almost fond (*a touch of bravado*) where **pretentious** never can."
+    },
+    {
+      "word": "histrionic",
+      "nuance": "The register is **emotional and operatic** — weeping, collapsing, raging at volume. Where **posturing** is cold and calculated, **histrionic** is uncontrolled in appearance while still being staged. The plural noun *histrionics* is the usual form and comes pre-loaded with exasperation."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"showy\" — sentence-equivalence answers turn on *what* is being counterfeited (wealth vs. taste vs. nerve vs. feeling) and whether the performer is calculating (**posturing**) or frightened (**bravado**)."
+}

@@ -8,5 +8,25 @@
     "corporeal",
     "discernible"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four descend from the idea of touch: something is present enough to be registered by the senses rather than merely asserted, imagined, or hoped for. But each stakes out a different arena — proof, atmosphere, embodiment, and the threshold of perception — and only one of them is ever literally about hands. The trap is that they all translate as \"you can feel it,\" which flattens four very different claims into one.",
+  "words": [
+    {
+      "word": "tangible",
+      "nuance": "The **evidence** word: it demands something you can show, count, or put on a table, and it implies the speaker suspects the last offering was talk. Attaches to *results, benefits, assets, proof* — nouns that can be audited."
+    },
+    {
+      "word": "palpable",
+      "nuance": "The **atmosphere** word: not countable and not proof, but so intense it seems to press on the room. Its natural subject is a collective mood — a courtroom's tension, a crowd's relief — where **tangible** would be absurd because there is nothing to measure."
+    },
+    {
+      "word": "corporeal",
+      "nuance": "The only one about **having a body**, and it always implies an adversary with none: soul, ghost, patent, idea. Formal and argumentative in a way *physical* is not — you reach for it precisely when embodiment is the contested question."
+    },
+    {
+      "word": "discernible",
+      "nuance": "Says nothing about substance or intensity — only that the thing sits at the **edge of detection** and had to be looked for. Its native habitat is the negative (*no discernible pattern*), the careful researcher's way of saying we searched properly and found nothing."
+    }
+  ],
+  "exam_note": "The GRE swaps **tangible** and **palpable** in sentence completions — pick by what the noun is: measurable proof takes *tangible*, a shared mood takes *palpable*; and **discernible** answers \"barely perceptible,\" never \"physically real.\""
 }

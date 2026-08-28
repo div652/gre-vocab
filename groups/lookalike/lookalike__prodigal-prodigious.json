@@ -1,12 +1,28 @@
 {
   "kind": "lookalike",
   "id": "lookalike__prodigal-prodigious",
-  "title": "prodigal / prodigious / profligate",
+  "title": "prodigal / profligate / prodigious",
   "seed_words": [
     "prodigal",
     "prodigious",
     "profligate"
   ],
   "similarity": 0.67,
-  "auto": true
+  "auto": true,
+  "core": "Three formal, look-alike Latinate adjectives built on the idea of *too much*. Two of them are verdicts on how someone spends — money poured out past the point of sense, with blame attached. The third abandons the spending idea entirely and keeps only the excess, describing sheer size that stops you in your tracks. The trap is that all three sound expensive and slightly disreputable, and only two of them are.",
+  "exam_note": "The GRE rarely asks these head-to-head; it plants one in a sentence where the *other* would fit the sound and not the sense — an amount that needs **prodigious**, a budget that needs **profligate** — and separately baits the \"returning\" misreading of **prodigal**.",
+  "words": [
+    {
+      "word": "prodigal",
+      "nuance": "The personal, retrospective one: a fortune that *was* there and now isn't — an heir, a son, one household's inheritance. It's the only member with an innocent escape hatch (**prodigal of praise** = freely giving, no insult), and the only one carrying the parable trap: it describes what he did before he came home, never the coming home."
+    },
+    {
+      "word": "profligate",
+      "nuance": "Scales up from a person to an institution — treasuries, ministries, whole budgets — and adds momentum and ruin, not just loss. It's the attack word in a political fight (*profligate spending* indicts the spender). Alone in the group it can leave money behind entirely and accuse your character: dissolute, shameless, morally rotted through."
+    },
+    {
+      "word": "prodigious",
+      "nuance": "No spending, no blame — this one only reports magnitude, and magnitude that makes onlookers stare: appetite, memory, output, talent. It leans admiring where the other two condemn, and it attaches to a quantity rather than a squanderer. Substituting it for the others turns an accusation into a compliment."
+    }
+  ]
 }

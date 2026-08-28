@@ -1,0 +1,27 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__geography-as-narrow-mindedness",
+  "title": "Geography as narrow-mindedness",
+  "seed_words": [
+    "provincial",
+    "parochial",
+    "insular"
+  ],
+  "hallucinated": null,
+  "core": "All three start as literal map words — a province, a parish, an island — and all three are used on the GRE in their figurative sense: a mind whose reach stops at some boundary. The charge in every case is limited *range*, never limited intelligence; each can be leveled at someone perfectly capable inside their own patch. What separates them is which feature of the map does the metaphorical work: distance from the centre, size of the patch, or the water around it.",
+  "words": [
+    {
+      "word": "provincial",
+      "nuance": "The only one that also indicts **taste** — the target is behind the times and unpolished, not merely limited. It carries a built-in hierarchy, so it can only be spoken downward from an assumed centre, which is why it makes the speaker sound snobbish in a way the others don't. Also the only one of the three that works as a noun for a person: *a provincial*."
+    },
+    {
+      "word": "parochial",
+      "nuance": "Measures the **size of what you care about**, not your polish or your isolation. It attaches most naturally to disputes, concerns and interests — a parochial quarrel is one whose stakes evaporate a mile outside the village. No suggestion of backwardness: a parochial committee can be sophisticated and well-informed, just aimed at a trivially small target."
+    },
+    {
+      "word": "insular",
+      "nuance": "Points at the **barrier** rather than the smallness — sealed against outside influence, and comfortable that way; complacency is baked in. It's the standard diagnosis for a self-sufficient group that has stopped importing (a discipline, a nation, an elite institution), so unlike the other two it can describe the powerful centre rather than the periphery. Coolest and most clinical of the three."
+    }
+  ],
+  "exam_note": "The exam usually keys on the literal sense you've forgotten (parish, island, non-capital) or forces a choice between them via context: \"sealed off, incurious\" → insular; \"small-stakes, only matters locally\" → parochial; \"unsophisticated, behind the metropolis\" → provincial."
+}

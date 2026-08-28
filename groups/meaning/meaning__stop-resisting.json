@@ -8,5 +8,25 @@
     "yield",
     "relent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe the moment resistance stops and the other side gets its way. They split on the backstory each one assumes: whether a fight ever occurred, how long it lasted, and which party was doing the pressing. They also split on who looks bad afterward — some paint the giver-in as weak, one paints them as having been the harsh one, and one paints nobody badly at all.",
+  "words": [
+    {
+      "word": "acquiesce",
+      "nuance": "The only one where no fight ever happened — the objection stayed inside your head. It measures consent by silence, so it needs a power gap to make sense (a boss, a regime) and it faintly indicts you for not speaking up. Grammar matters: you acquiesce **in** or **to** something."
+    },
+    {
+      "word": "capitulate",
+      "nuance": "Demands a prior siege: a standoff, a campaign, months of holding out, then the break. Uniquely, it implies you accept *the other side's terms*, not a compromise — the winner sets the conditions. Applied to a person or institution, it is close to an accusation of cowardice."
+    },
+    {
+      "word": "yield",
+      "nuance": "The neutral, physical one: the thing **gives** rather than breaks. It can happen instantly, without any prior refusal, and can be a courtesy or a tactic rather than a defeat (\"I yield to my colleague\"). It also carries a sense none of the others has — to *produce* a return, as a crop or a bond does."
+    },
+    {
+      "word": "relent",
+      "nuance": "Casts you as the one who was being hard — refusing, punishing, pressing — so the giving way reads as mercy rather than defeat. It is also the only one that takes impersonal subjects: rain, heat, and pain relent. Its negative, relentless, is the far commoner word."
+    }
+  ],
+  "exam_note": "The GRE picks between these on backstory, not on strength: sentences signal \"held out for months\" (relent/capitulate) versus \"never objected aloud\" (acquiesce) — and it loves testing yield and relent through their adjectives, unyielding and relentless."
 }

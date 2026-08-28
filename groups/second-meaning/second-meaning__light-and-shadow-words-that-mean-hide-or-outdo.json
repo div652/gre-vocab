@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__light-and-shadow-words-that-mean-hide-or-outdo",
+  "title": "Blocking the View: hide, outshine, sidestep",
+  "seed_words": [
+    "eclipse",
+    "obscure",
+    "cloak",
+    "occlude",
+    "skirt"
+  ],
+  "hallucinated": null,
+  "core": "Every word here starts as something physical — a shadow falling across a disc, a garment thrown over the shoulders, a sealed artery, a road running along a lakeshore — and the GRE tests the *figurative* extension instead: something ends up unseen, unclear, or untouched. In each case the hidden thing survives intact; nothing is destroyed, only kept out of view or out of reach. What separates them is the **mechanism** of the blocking — brightness, murk, covering, physical closure, or a wide berth — and whether anyone intended it.",
+  "words": [
+    {
+      "word": "eclipse",
+      "nuance": "The only one that hides by being **better**. Concealment is a side effect of outshining, so the sentence needs two things and a chronology — a predecessor, an old record, an elder sibling — and usually runs passive: *eclipsed by*. Nobody is fooled; they're just looking elsewhere."
+    },
+    {
+      "word": "obscure",
+      "nuance": "Hides by **degree**, not by covering: it muddies rather than removes, and it's the only one here whose object can be comprehension itself — a meaning, an argument, a motive. Also the only one the GRE tests as an adjective (*an obscure treatise*, *an obscure clause*), which is a separate trap."
+    },
+    {
+      "word": "cloak",
+      "nuance": "The one that imputes **motive**. You cloak greed *in* charity, a purge *as* a reform — there's an agent choosing the covering, and a gap between surface and substance. Slightly literary; a coroner's report says *concealed*, a novelist says *cloaked*."
+    },
+    {
+      "word": "occlude",
+      "nuance": "The only **literal-only** member: it takes channels and lines of sight — arteries, sinuses, a pillar in front of the stage — never abstractions. You cannot occlude a motive or a reputation. Register is the giveaway: this is a clinician's or an engineer's word, and it implies sealed shut, not merely dimmed."
+    },
+    {
+      "word": "skirt",
+      "nuance": "The odd one: nothing gets hidden. The **agent** stays adjacent to the thing and keeps moving — a question answered at length but never touched, a law obeyed to the letter and defeated in spirit. Unlike *flout*, it never looks like refusal; it also carries live danger (*skirting bankruptcy*), which none of the others do."
+    }
+  ],
+  "exam_note": "The literal sense is the decoy — the tested answer is almost always figurative, except for **occlude**, which has no figurative use at all, so an abstract object (a truth, a legacy) rules it out and points to *obscure* or *cloak*."
+}

@@ -8,5 +8,21 @@
     "onerous"
   ],
   "similarity": 0.52,
-  "auto": true
+  "auto": true,
+  "core": "Three formal adjectives that look and sound like siblings and all signal something *intense* — but the intensity lives in three different places: in the feeling, in the effort, or in the obligation. Two of them are complaints about work; one is a compliment about devotion. The spelling similarity does most of the damage here, since the meanings barely overlap once you see them side by side.",
+  "words": [
+    {
+      "word": "ardent",
+      "nuance": "The only one of the three that praises, and the only one about *feeling* rather than work. **Ardent** attaches to people and their devotion — an ardent supporter, an ardent admirer — never to a task. If the blank is filled by a job, a climb, or a contract clause, ardent is wrong on contact."
+    },
+    {
+      "word": "arduous",
+      "nuance": "The weight is *exertion over time*. **Arduous** grades the labour a thing costs — long, tiring, physically or mentally taxing — and it can be freely chosen: an arduous ascent nobody forced you to make. It attaches to journeys, training, negotiations, processes; never to people, and never to a duty that is merely tedious."
+    },
+    {
+      "word": "onerous",
+      "nuance": "The weight is *obligation*, and someone else usually put it there. **Onerous** describes what you're bound to and can't set down — paperwork, upkeep, a lease term — regardless of whether it's hard; a child could do the filing and it would still be onerous. It also smuggles in a grievance: call terms onerous and you're halfway to calling them unjust."
+    }
+  ],
+  "exam_note": "The exam pits **arduous** against **onerous** on a task blank and settles it with context: exhausting effort → arduous; imposed, resented duty → onerous. **Ardent** is pure spelling bait — it fails any sentence whose subject isn't a person's enthusiasm."
 }

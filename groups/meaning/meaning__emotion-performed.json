@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__emotion-performed",
-  "title": "Emotion performed",
+  "title": "Emotion Too Big: Staged, Unhinged, Stormy",
   "seed_words": [
     "histrionic",
     "hysterical",
     "tempestuous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three describe emotion that exceeds what the situation warrants, and all three are ways of refusing to take a feeling at face value. What separates them is *what* the excess proves: that the feeling was faked, that it destroyed the person's judgement, or that it is simply the permanent weather of a relationship. They also differ in duration — two describe an episode, one describes a pattern.",
+  "words": [
+    {
+      "word": "histrionic",
+      "nuance": "The only one that alleges **fakery**: there is an audience, and the display was calibrated for it. The others concede the feeling is real and object to its size; **histrionic** says there may be no feeling at all. Note the everyday noun — *\"spare me the histrionics\"* — which no other word here has."
+    },
+    {
+      "word": "hysterical",
+      "nuance": "The charge is **lost control**, not insincerity — the person is genuinely overwhelmed and therefore, you're implying, can no longer be reasoned with or believed. That's the sting: it disqualifies the speaker's *judgement* rather than their sincerity. Uniquely, it scales to crowds (*mass hysteria*), and uniquely it has a warm colloquial sense (*that's hysterical* = funny)."
+    },
+    {
+      "word": "tempestuous",
+      "nuance": "Describes a **standing condition**, not an outburst — a marriage, a career, a temperament, sustained over years. It's also the only flattering-adjacent one: the storm metaphor lends passion and glamour, which is why it attaches to divas and volatile geniuses and never to a coworker crying at a meeting. Literary register, and the literal weather sense still exists."
+    }
+  ],
+  "exam_note": "The GRE baits you into swapping **histrionic** for **hysterical** in Sentence Equivalence pairs — check whether the sentence implies a performance for onlookers (histrionic) or a genuine collapse of self-control (hysterical); and don't pick **tempestuous** for a single scene, since it needs an ongoing relationship or temperament."
 }

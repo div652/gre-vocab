@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__cantare",
-  "title": "Root: cantare, cantus (to sing, song)",
+  "title": "Root: cantāre, cantus (to sing, song) — the buried voice",
   "seed_words": [
     "accentuate",
     "enchant",
     "recant"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three come from Latin *cantāre*, \"to sing\" — and in every one, the singing has become something a voice **does to** a thing: a tone laid over it, a spell sung onto it, a statement sung back and undone. The root is buried, so the family looks like coincidence rather than kinship; what actually survives is the idea that utterance changes status. One heightens what's already there, one binds a listener, one unmakes what was said. Recognising the root won't give you the meanings — but it explains why the spellings rhyme when the senses don't.",
+  "words": [
+    {
+      "word": "accentuate",
+      "nuance": "From *ad-cantum*, the tone \"sung to\" a syllable — the accent mark. Alone in this group it needs no voice and no audience: it acts on features and effects (a waistline, a divide, a flaw), and it adds nothing, it only raises the contrast on material that already exists."
+    },
+    {
+      "word": "enchant",
+      "nuance": "From *in-cantāre*, to sing a spell **onto** someone — the only member aimed at a person, and the only one that removes the target's agency. The enchanted party is held and absorbed, not persuaded; where **accentuate** works on a thing and **recant** works on your own past words, this works on somebody else's will."
+    },
+    {
+      "word": "recant",
+      "nuance": "From *re-cantāre*, to sing back — the only reflexive one: its object is your own earlier statement, and it destroys rather than heightens. Purely a public speech act, usually performed under pressure before the court or church that demanded it, so it carries the coercion the other two never do."
+    }
+  ],
+  "exam_note": "The GRE never tests the root — it tests whether *recant* means \"retract publicly\" (not merely \"reconsider\") and whether *accentuate* means \"heighten what's there\" (not \"exaggerate\" or \"add\"); the shared \"cant\" is a red herring the test counts on you over-reading."
 }

@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__at-home-among-people-vs-shut-away-from-them",
+  "title": "At home among people vs. shut away from them",
+  "seed_words": [
+    "gregarious",
+    "convivial",
+    "congenial",
+    "vivacious",
+    "recluse",
+    "aloof",
+    "misanthropic",
+    "retiring",
+    "insular"
+  ],
+  "hallucinated": null,
+  "core": "Every word here places someone on a single axis: how much of other people they want. One end is the person who seeks out company and is at their best in it; the other is the person who keeps a distance, whether that means a locked front door, a cool manner in a crowded room, or a mind that never looks past its own circle. The trap is that the words do not differ in *degree* so much as in *what part of sociability they measure* — appetite, occasion, fit, display, address, manner, doctrine, or range. Pick the wrong dimension and you get a word that is warm or cold in the right direction but wrong about the person.",
+  "words": [
+    {
+      "word": "gregarious",
+      "nuance": "The appetite word: it measures how much company someone *needs*, not how they behave once they have it. **Gregarious** says nothing about whether the person is charming, welcome, or fun — only that a free evening feels to them like a problem."
+    },
+    {
+      "word": "convivial",
+      "nuance": "The only one that describes an *occasion* as readily as a person, and it drags the table along with it — food, drink, nobody leaving. **Convivial** is impossible alone; **gregarious** describes a temperament even when the person is stuck at home."
+    },
+    {
+      "word": "congenial",
+      "nuance": "Relational, and the mildest of the warm words: it means agreeable *to you*, so two dour hermits can be congenial company for each other. It's also the only one that attaches to a place, a job, or a climate rather than a personality."
+    },
+    {
+      "word": "vivacious",
+      "nuance": "The visible one — animation others can watch: talk, laughter, a room lifting. Where **gregarious** is inward appetite, **vivacious** is outward effect, and it comes with a usage skew toward women that can read as dated or faintly patronising."
+    },
+    {
+      "word": "recluse",
+      "nuance": "A noun, and a whole address rather than a manner — the person is physically gone, by choice. Unlike the others' descriptions of style, **recluse** implies a life that was withdrawn *from*, so it usually arrives with a hinted backstory."
+    },
+    {
+      "word": "aloof",
+      "nuance": "Requires being present: the aloof person is in the room and declines to come closer, calmly and without explanation. That unexplained coolness is why it reads as superiority — and why it's always the excluded party who uses the word, never the aloof one."
+    },
+    {
+      "word": "misanthropic",
+      "nuance": "The only word that supplies a *reason*: a settled low opinion of the species, not of any individual. Someone can be **aloof** or a **recluse** while still liking people; the misanthrope has a doctrine, which is why the word sounds almost philosophical and is often said with a grin."
+    },
+    {
+      "word": "retiring",
+      "nuance": "Shrinks from *attention*, not from humanity — the colleague who does the work and lets someone else present it. Gentler and faintly approving where **aloof** stings, and it implies no verdict on other people at all."
+    },
+    {
+      "word": "insular",
+      "nuance": "Attacks *range*, not solitude: the insular have a circle and are incurious about anything outside it, which is why the word fits a whole country, village, or academic field. It carries complacency — unlike the **recluse**, the insular don't experience themselves as cut off; they think their small world is the world."
+    }
+  ],
+  "exam_note": "Sentence completions almost always plant the *cause* of the distance — a snub or cool manner points to **aloof**, contempt for humanity to **misanthropic**, a vanished address to **recluse**, mere shyness to **retiring**, a closed community to **insular** — so read the clue for the reason, not the intensity; on the warm side, watch the **congenial**/**convivial**/**genial** lookalikes, where only **congenial** can modify a place or a job."
+}

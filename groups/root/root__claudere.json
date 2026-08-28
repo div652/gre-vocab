@@ -8,5 +8,25 @@
     "preclude",
     "recluse"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *claudere* means \"to shut,\" and every word here is a closing — the difference is entirely in *what* gets shut. A question can be closed, a passage can be closed, a future possibility can be closed off before it opens, and a person can shut himself in. The root gives you the certainty that something is sealed; it doesn't tell you which of those four things it is, and the prefixes are close enough in shape to blur under time pressure.",
+  "words": [
+    {
+      "word": "conclusive",
+      "nuance": "The only adjective here, and the only one that closes an *argument* rather than a channel, a possibility, or a life. It's binary — evidence is conclusive or it isn't — where the words it competes with (*compelling*, *suggestive*) sit on a dial. Watch for it in the negative: *inconclusive* is the far more common exam form."
+    },
+    {
+      "word": "occlude",
+      "nuance": "The literal one: it shuts a physical passage or a sight line, and nothing else. An artery, a sinus, a view of the stage — a doctor or an engineer says it. If the object is abstract (a plan, an outcome, an option), **occlude** is the wrong word and the exam is baiting you."
+    },
+    {
+      "word": "preclude",
+      "nuance": "Shuts a possibility *in advance*, so the thing never gets to happen — the closing is temporal, not spatial. The agent is impersonal: a rule, a clause, an injury precludes; a person forbids. Where **occlude** blocks a real channel, **preclude** cancels a hypothetical one."
+    },
+    {
+      "word": "recluse",
+      "nuance": "The only noun, and the only word where the shutting is self-inflicted and voluntary. Nothing external seals anything off; the person closes the door from inside, usually on a social life he once had. Carries a faint whiff of eccentricity or damage that *introvert* and *hermit* don't."
+    }
+  ],
+  "exam_note": "The trap is **preclude** vs. **occlude** — one letter apart, but **preclude** takes only abstractions (possibilities, outcomes) and **occlude** only physical passages or views; a sentence-equivalence pair will hinge on exactly that."
 }

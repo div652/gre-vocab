@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__saying-it-in-few-words",
-  "title": "Saying it in few words",
+  "title": "Saying It in Few Words",
   "seed_words": [
     "laconic",
     "terse",
@@ -9,5 +9,29 @@
     "brevity",
     "economy"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these live in the space where something is short — a reply, a line, a style — and the shortness is the noticeable thing about it. What separates them is the *verdict* attached to the shortness: whether it reads as coolness, coldness, wit, discipline, or nothing at all. Two of them judge the speaker's temperament, one judges the quality of the line, and two are nouns naming the shortness itself, only one of which extends beyond words. Getting them wrong doesn't just flatten meaning — it flips the emotional sign of the sentence.",
+  "words": [
+    {
+      "word": "laconic",
+      "nuance": "**Laconic** describes a *standing habit*, not one reply — it's a temperament word, applied to the person who is always like this. The withholding reads as self-possession: he could have elaborated and didn't need to, and you're meant to find that composed rather than hostile."
+    },
+    {
+      "word": "terse",
+      "nuance": "**Terse** attaches to a single utterance and reads its temperature as *cold*. It's the word you reach for when the shortness is a message — irritation, reserve, conversation closed. A laconic man is a type; a terse email is an event, and someone got it."
+    },
+    {
+      "word": "pithy",
+      "nuance": "**Pithy** is the only one grading the *content*: it certifies the line was good. It says nothing about the speaker's manner or mood — a chatty, warm person can produce a pithy sentence — and it cannot be applied to a short answer that was merely short."
+    },
+    {
+      "word": "brevity",
+      "nuance": "**Brevity** is the flat noun for shortness with no verdict built in — it measures, it doesn't praise the wit or diagnose the chill. It's also the only member with a *time* sense, and there the emotional sign inverts: the brevity of a life or a season is a loss, not a virtue."
+    },
+    {
+      "word": "economy",
+      "nuance": "**Economy** isn't about being short — it's about nothing being *wasted*, which is why a long novel can have it and a one-word answer can lack it. It's also the only one that leaves language entirely: economy of gesture, of motion, of means. It credits the maker's control."
+    }
+  ],
+  "exam_note": "The GRE pairs these by temperature in Sentence Equivalence — a blank praising a speaker's wit takes **pithy**, not **terse**; a blank about a chilly reply takes **terse**, not **laconic** — and it hides **economy** behind the financial sense so you skip the \"nothing wasted\" reading."
 }

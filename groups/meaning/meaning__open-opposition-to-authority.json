@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__open-opposition-to-authority",
-  "title": "Open opposition to authority",
+  "title": "Breaking with the official line",
   "seed_words": [
     "dissent",
     "dissident",
@@ -9,5 +9,29 @@
     "heterodox",
     "iconoclastic"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe a public break with something authoritative — a ruling, a regime, an order, a creed, a reputation everyone treats as settled. Each is defined by the thing it pushes against, so none of them mean much in isolation; you need an establishment for them to work. The splits are three: what is opposed (an official position, a punishing power, a chain of command, a doctrine, a sacred cow), whether the break is speech, belief, or action, and whether the label flatters the person it lands on.",
+  "words": [
+    {
+      "word": "dissent",
+      "nuance": "The only one that names the *act* rather than a person or a standing disposition — a discrete, on-the-record disagreement, usually filed inside the same body that overruled it (a dissenting opinion, a dissenting vote). It costs you nothing but your position on the record; the machinery it argues with is procedural, not punitive."
+    },
+    {
+      "word": "dissident",
+      "nuance": "Names the *person*, and the only one where the price is personal — exile, prison, a career ended. Its weapon is still just speech, but it presumes a government, church, or party with the power to retaliate, which is why it never fits a critic of something harmless. The label is also contested: the regime uses it to mark a problem, everyone else to mean brave."
+    },
+    {
+      "word": "mutiny",
+      "nuance": "The only crime in the group, and the only one that requires a prior oath and a chain of command — subordinates rising against their own commanders. It is action, not argument: a crew seizes the ship, it does not file a brief. Borrowed for offices and teams, it does the work of casting the boss as a captain and the staff as insubordinate."
+    },
+    {
+      "word": "heterodox",
+      "nuance": "Belief only, and measured against a *doctrine* rather than an authority that can punish — the deviation is intellectual and the deviator is still inside the tent, arguing with the creed rather than renouncing it. It carries a faint respectability that none of the others do: rival economists get called heterodox, and are happy to take the name."
+    },
+    {
+      "word": "iconoclastic",
+      "nuance": "Targets what is *revered*, not what is official — reputations, sacred assumptions, untouchable institutions. It requires scale (nobody is an iconoclast for questioning the seating plan) and it arrives with admiration attached, the word obituaries and profiles use as praise for someone whose demolition was worth it."
+    }
+  ],
+  "exam_note": "The trap is target-swapping: **heterodox** deviates from a doctrine while still inside it, **iconoclastic** demolishes what's venerated, and **dissident** requires a power that can punish — the GRE builds sentences where only one of those conditions is actually present in the context."
 }

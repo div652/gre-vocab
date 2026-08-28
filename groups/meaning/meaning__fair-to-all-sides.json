@@ -8,5 +8,25 @@
     "disinterested",
     "commensurate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four are formal words that a careless reader flattens into \"fair\" or \"equal.\" But they attach to different things: one to the *distribution* (who gets what), one to the *principle* behind the distribution, one to the *person judging* (whether they stand to gain), and one to the *ratio* between two quantities. Fairness is what they gesture at; almost none of them actually means \"the same amount for everyone.\" Getting them right means asking what is being called fair — the share, the system, the arbiter, or the match.",
+  "exam_note": "The classic traps: **disinterested** does not mean *uninterested* (bored), and **equitable** does not mean *equal* — that is **egalitarian**'s job; if the sentence needs a second term for comparison (\"...with the risk\"), it wants **commensurate**.",
+  "words": [
+    {
+      "word": "equitable",
+      "nuance": "The only one that judges **who deserves what** and divides accordingly — the resulting shares are frequently unequal on purpose. It rates a specific outcome (a settlement, a split, a tax) as properly proportioned to desert, and carries a legal shadow: equity as the corrective that bends a rigid rule to reach a just result."
+    },
+    {
+      "word": "egalitarian",
+      "nuance": "The ideological one — a stance about how a whole society or institution should be built, not a verdict on one outcome. Where **equitable** calibrates shares to circumstance, **egalitarian** wants circumstance to stop mattering: flat pay scales, no reserved seats, no inherited rank. Lives in political and sociological writing; critics use it drily for levelling gone too far."
+    },
+    {
+      "word": "disinterested",
+      "nuance": "Says nothing about the outcome and everything about the **arbiter's position**: no stake, nothing to gain either way. A **disinterested** judge can still hand down a wildly unequal ruling — the word certifies the absence of a personal interest, not the shape of the result. It describes a standing, not a feeling; you can be gripped by a case and disinterested in it simultaneously."
+    },
+    {
+      "word": "commensurate",
+      "nuance": "The purely relational one: it needs a second term ('**commensurate with** experience') and asserts the two are on the same **scale**. No moral machinery of its own — it can rate a punishment, a salary, or a font size — but in practice the comparison is where the fairness claim hides: *not commensurate with* is an accusation. Bureaucratic register: contracts, job ads, sentencing remarks."
+    }
+  ]
 }

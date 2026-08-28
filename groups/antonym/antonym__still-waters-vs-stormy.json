@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__still-waters-vs-stormy",
+  "title": "Still Waters vs. Stormy",
+  "seed_words": [
+    "placid",
+    "serene",
+    "tranquil",
+    "quiescent",
+    "subdued",
+    "turbulent",
+    "tempestuous",
+    "frenetic",
+    "restive",
+    "fraught"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers one question: how disturbed is it? They run from surfaces nothing ruffles, through stillness that is only a pause or only a drop, to churning, shouting, racing, insubordinate agitation — and one word where nothing has moved yet but the trouble is already packed inside. The trap is that they are not simply points on a single dial. They differ in *what* is disturbed (a face, a scene, a system, a relationship, a chain of command), whether the quiet is genuine or merely current, and whether the agitation is physical motion, emotional heat, or political pressure.",
+  "words": [
+    {
+      "word": "placid",
+      "nuance": "The only calm word here that can be an insult: **placid** describes a surface nothing ruffles — a lake, a face, a temperament — and the flip side of unflappable is unexcitable. Cows are placid; serene monks are not."
+    },
+    {
+      "word": "serene",
+      "nuance": "**Serene** is calm that is *visible* and admired — the unclouded picture, the composed face while the room burns. Where placid risks \"no inner life,\" serene is elevated to the point of grandeur (*Your Serene Highness*)."
+    },
+    {
+      "word": "tranquil",
+      "nuance": "**Tranquil** belongs to places and scenes, and implies nothing ever disturbed them — no prior storm, no effort, no observer needed. It never carries placid's dullness or serene's spiritual glow; it is just warm, settled, and approving."
+    },
+    {
+      "word": "quiescent",
+      "nuance": "Not peace at all — **quiescent** is about *activity*, and it forecasts its own end: the volcano, disease, or rivalry is between bouts, not resolved. Clinical and formal; its true opposite is \"active,\" not \"stormy.\""
+    },
+    {
+      "word": "subdued",
+      "nuance": "**Subdued** is the only calm word that requires a *previous* higher level and hints at a cause pressing down — a loud friend gone quiet, a mood after bad news. Of light or colour it sheds the sadness and means tastefully muted."
+    },
+    {
+      "word": "turbulent",
+      "nuance": "**Turbulent** is instability without malice: energy with no stability, physical (seas, air) or systemic (a turbulent decade, a turbulent crowd). Nobody is shouting at anybody — the thing simply refuses to hold still."
+    },
+    {
+      "word": "tempestuous",
+      "nuance": "**Tempestuous** adds heat and people. It needs big feelings and usually a relationship — slammed doors, then passionate reconciliation. Literary and disapproving, but it flatters its subject with a storm's glamour, which turbulent never does."
+    },
+    {
+      "word": "frenetic",
+      "nuance": "**Frenetic** is speed, not conflict — a trading floor, a drum solo, a packed schedule. Nothing is unstable or angry; there is just too much happening too fast with no governor, and it can be said in admiration."
+    },
+    {
+      "word": "restive",
+      "nuance": "**Restive** puts an authority in the picture: troops, an electorate, a class, a horse under a rider — the grip is slipping. It is the state just short of mutiny, and never the private sleeplessness of *restless*."
+    },
+    {
+      "word": "fraught",
+      "nuance": "In **fraught**, nothing has broken yet. It names latent trouble — *fraught with peril*, or standalone tense and walking-on-eggshells. The others describe disturbance in progress; fraught describes the loaded quiet before it."
+    }
+  ],
+  "exam_note": "The GRE picks these by *what* is disturbed, not how much: quiescent pairs against \"active,\" subdued against a stated earlier liveliness, restive against obedient, and fraught against relaxed — so a straight calm/stormy reading will land you on the wrong choice."
+}

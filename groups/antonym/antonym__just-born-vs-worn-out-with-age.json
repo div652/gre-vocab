@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__just-born-vs-worn-out-with-age",
+  "title": "Just born vs. outlived its era",
+  "seed_words": [
+    "nascent",
+    "inchoate",
+    "fledgling",
+    "commence",
+    "archaic",
+    "obsolete",
+    "anachronistic",
+    "vestigial",
+    "erstwhile"
+  ],
+  "hallucinated": null,
+  "core": "All of these place something on a timeline relative to its useful life: either it has barely started and hasn't earned judgment yet, or it has run past its moment and survives as a leftover. The two poles are easy to tell apart; the trouble is *inside* each pole, where the words differ on one hidden variable — whether the new thing has shape yet, and whether the old thing was replaced, merely abandoned, or simply demoted. Two members aren't about age at all: one names the *act* of starting, the other names a *change of status*. Sort by that hidden variable, not by old-vs-new.",
+  "words": [
+    {
+      "word": "nascent",
+      "nuance": "**Nascent** grants existence but withholds verdict: the thing is real and already recognizably itself, just too young to have a size or a track record. It's the analyst's word for abstractions and movements — a nascent industry, a nascent norm — and it leaves the future genuinely open, unlike **fledgling**, which quietly roots for it."
+    },
+    {
+      "word": "inchoate",
+      "nuance": "**Inchoate** is the only one here that says *formless*, not just early: an inchoate plan has no outline to point at — it's a mood or an impulse, not a small version of a plan. Applied to someone's argument it's a soft insult; a nascent theory is a theory, an inchoate one isn't yet."
+    },
+    {
+      "word": "fledgling",
+      "nuance": "**Fledgling** is already operating — up, running, and airborne — merely untested and easy to knock down. It's the sympathetic member of the set, granting promise rather than neutrality, and it attaches to ventures and institutions (a fledgling airline) that have a body to point at, where **nascent** and **inchoate** attach to things still too vague to fail."
+    },
+    {
+      "word": "commence",
+      "nuance": "**Commence** is the outlier: a verb about the *act* of beginning, not a state of newness — and it demands ceremony. Proceedings, hostilities, a term of office commence because someone officially declares them started; nothing commences quietly, and unlike the other three it says nothing about whether the result is fragile or formless."
+    },
+    {
+      "word": "archaic",
+      "nuance": "**Archaic** turns on *disuse*, not on being displaced: nothing replaced *thou*, people simply stopped saying it. Age alone doesn't qualify — a cathedral is ancient, not archaic. Tone depends on the target: a neutral label on a language or period, a jab when aimed at a rule or someone's opinions."
+    },
+    {
+      "word": "obsolete",
+      "nuance": "**Obsolete** requires a successor — the world routed around it. The pager didn't fade like *thou*; something better arrived. That's why it's the cruelest one to apply to a person or a job: not behind the times, but with no remaining role. It's also the only member that works as a verb in business-speak."
+    },
+    {
+      "word": "anachronistic",
+      "nuance": "**Anachronistic** judges *placement*, not decay: the thing is in the wrong century. Uniquely here it can mean a plain factual error (a wristwatch on a gladiator), but on the GRE it's the dry contempt version — this law didn't just get old, it's absurd that it's still standing. Always a relic dragged forward, never something arriving too early."
+    },
+    {
+      "word": "vestigial",
+      "nuance": "**Vestigial** needs two things at once: it's a shrunken *fragment* of something formerly whole, and it no longer does its job — yet it's still there. Biology's clinical detachment travels with it: calling a committee's veto power vestigial is a diagnosis, not the insult **anachronistic** would deliver, and unlike **obsolete** nothing had to replace it."
+    },
+    {
+      "word": "erstwhile",
+      "nuance": "**Erstwhile** marks a change of *status*, not decline: the erstwhile rival may be thriving, just no longer your rival. It's literary, carries a faint backward glance, and — grammar point — sits only before the noun (\"her erstwhile partner,\" never \"her partner is erstwhile\"), which no other word here restricts."
+    }
+  ],
+  "exam_note": "The old/new split is a decoy — the real question is always within a pole: archaic (fell out of use) vs. obsolete (was replaced) vs. vestigial (still present, still useless), or nascent (small but shaped) vs. inchoate (no shape at all); and commence/erstwhile get slipped in because neither is actually about age."
+}

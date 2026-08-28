@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__bring-into-being",
-  "title": "Bring into being",
+  "title": "Bring about vs. draw out",
   "seed_words": [
     "engender",
     "induce",
@@ -9,5 +9,29 @@
     "elicit",
     "evoke"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five stand between an act and a result: something comes into existence, or comes to the surface, because of what someone or something did. They divide on two axes. First, is the result **new** or was it **already there, latent**, waiting to be pulled out? Second, what is the manner of the causing — an unintended by-product, a laid path, a premature tipping-over, a direct request, or a suggestion?",
+  "words": [
+    {
+      "word": "engender",
+      "nuance": "The one with **no intention behind it**: a situation throws off trust, resentment, debate as a by-product, and no one is doing the engendering on purpose. Its object is an abstract condition or climate, never a person's specific reply and never a physical thing — and the register is editorial/judicial, where *cause* would sound blunt."
+    },
+    {
+      "word": "induce",
+      "nuance": "The only one that takes **a person plus an infinitive** — *induced him to sign* — with an inducement (money, a discount, a threat softened into an offer) doing the work; the subject still walks in on their own feet. In its other sense the result is deliberately **artificial or early**: a drug induces sleep, a doctor induces labour, and neither would have arrived on its own."
+    },
+    {
+      "word": "precipitate",
+      "nuance": "Says the outcome was **already loaded** and you merely tipped it over — you didn't build the crisis, you dropped it ahead of schedule. Alone in this group it is reliably **negative and premature**, and as an adjective it turns on the actor: precipitate action is rash, not decisive."
+    },
+    {
+      "word": "elicit",
+      "nuance": "**Transactional and targeted** — you ask, prompt or provoke, and one specific latent thing comes back: an answer, a confession, a laugh, a groan. It requires a person on the receiving end and a deliberate act on yours; nothing gets elicited by accident or by atmosphere."
+    },
+    {
+      "word": "evoke",
+      "nuance": "Works by **association and suggestion**, not by asking: a smell, a chord, a photograph summons a mood or memory that was sleeping, with no request made and often no one addressed. It is the standard verb of **criticism** — a novel *evokes* an era, meaning it conjures without stating."
+    }
+  ],
+  "exam_note": "The exam leans on elicit vs. evoke (a specific response pulled from a person vs. a mood conjured by suggestion) and hides precipitate behind clue words like *suddenly*, *prematurely*, or *tensions already mounting*."
 }

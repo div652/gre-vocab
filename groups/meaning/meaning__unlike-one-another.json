@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__unlike-one-another",
-  "title": "Unlike one another",
+  "title": "Four Ways of Being Unlike",
   "seed_words": [
     "disparate",
     "heterogeneous",
     "divergent",
     "incongruous"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say *these things do not match* — but they differ in what is being held up against what. One compares items side by side and declares the comparison void; one describes the internal make-up of a single whole; one tracks two things pulling apart over time from a shared start; one measures a thing against the setting it sits in. Three are cool and analytic; only one registers a clash. Pick by asking: unlike *what*, and unlike *since when*?",
+  "words": [
+    {
+      "word": "disparate",
+      "nuance": "The argumentative one: **disparate** is deployed to block a comparison — *these are disparate cases* means you may not reason from one to the other. It works on items lined up beside each other, needs no shared origin and no surrounding setting, and its complaint is about kind, not degree."
+    },
+    {
+      "word": "heterogeneous",
+      "nuance": "The only one that describes a **whole** rather than a relationship — a sample, a population, a mixture is heterogeneous; no individual member is. It is a compositional measurement in the mouth of a chemist or statistician, and the unlikeness is usually an inconvenience: the data won't pool. Never the warm approval of *diverse*."
+    },
+    {
+      "word": "divergent",
+      "nuance": "The only one with a **time axis and a common ancestor** — things must have started together, and the gap is widening. Where the others are snapshots of a mismatch, **divergent** describes the motion producing it, and does so without blame: it measures the angle rather than condemning the departure."
+    },
+    {
+      "word": "incongruous",
+      "nuance": "The only **negative** one, and the only one needing a surrounding context to clash with — a tuxedo is incongruous *at a barbecue*, not in itself. It registers the jar without accusing anyone of wrongdoing (unlike *inappropriate*), and the effect it names is often faintly comic."
+    }
+  ],
+  "exam_note": "Check what the noun is: a collective whole takes **heterogeneous**, two things with a shared starting point take **divergent**, a thing sitting inside a setting takes **incongruous**, and a plain side-by-side contrast of unlike kinds takes **disparate** — the GRE also baits you into swapping in the warmly approving *diverse* or the condemning *deviant/inappropriate*, all of which carry judgment these four withhold."
 }

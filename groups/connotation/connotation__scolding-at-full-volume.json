@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__scolding-at-full-volume",
+  "title": "Scolding at full volume",
+  "seed_words": [
+    "excoriate",
+    "lambaste",
+    "castigate",
+    "berate",
+    "upbraid",
+    "harangue"
+  ],
+  "hallucinated": null,
+  "core": "All six describe telling someone off harshly and at length — not a disagreement but a punishment delivered in words. They differ along three axes: **who's watching** (a closed door, a courtroom, a front page), **what the speaker's standing is** (an angry peer vs. an authority pronouncing a verdict), and **whether the attacker comes off well**. Some make the critic sound righteous; others quietly convict the critic of losing control. One of them isn't criticism at all — it's a speech.",
+  "exam_note": "The GRE separates these by audience and authority, not by loudness: a sentence with \"in private,\" \"for his lateness,\" \"the tribunal found,\" or \"the crowd could not leave\" is telling you which one fits — and the wrong answer is usually the right intensity in the wrong setting.",
+  "words": [
+    {
+      "word": "upbraid",
+      "nuance": "The only one that requires the offence to be **named**: you upbraid someone *for* a specific act, to their face, usually with no audience. The mood is disappointment rather than rage — moral high ground calmly asserted — and the word is bookish, so it turns up in narration about a rebuke, not in the rebuke itself."
+    },
+    {
+      "word": "berate",
+      "nuance": "Pure heat and duration with no case being made — the point stopped mattering several minutes ago. Alone in this group it damages the speaker: **berate** implies a temper lost in front of witnesses, and no one is ever described as berating with dignity."
+    },
+    {
+      "word": "castigate",
+      "nuance": "A verdict, not an outburst. The speaker has standing — a bench, an inquiry, an editorial page — and isn't venting but **pronouncing the target at fault**, on the record, for a stated failing. It carries the assumption that the punishment was earned, which **berate** never does."
+    },
+    {
+      "word": "excoriate",
+      "nuance": "The most savage and the most sustained: point-by-point demolition that leaves nothing standing, from the Latin for stripping off skin. Where **castigate** issues a finding, **excoriate** dismantles — and it flatters the attacker, since only someone already important gets credited with an excoriation."
+    },
+    {
+      "word": "lambaste",
+      "nuance": "The headline verb — public, journalistic, and a pounding rather than an argument. Unlike **excoriate**'s itemised precision, this one keeps swinging long past the point of persuasion, and it makes the attacker sound forceful without implying they were right."
+    },
+    {
+      "word": "harangue",
+      "nuance": "The odd one out: it names the **speech**, not the criticism, and the target may have done nothing at all. Three conditions — too long, moralising, and aimed *at* a captive audience that can't walk out. Strictly the listener's word; nobody has ever called their own remarks a harangue."
+    }
+  ]
+}

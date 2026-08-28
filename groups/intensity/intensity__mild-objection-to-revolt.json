@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__mild-objection-to-revolt",
+  "title": "Mild objection to revolt",
+  "seed_words": [
+    "demur",
+    "dissent",
+    "flout",
+    "mutiny"
+  ],
+  "hallucinated": null,
+  "core": "All four are refusals to go along with something backed by authority — a proposal, a ruling, a rule, a command. They differ in how much of the refusal is spoken versus acted, how public it is, and how much of the authority itself it rejects. At the low end the objector still defers and may yet comply; at the high end the objector has taken the authority's power away from it. The scale also shifts register: the first two are things you *say*, the last two are things you *do*.",
+  "exam_note": "The trap is treating these as interchangeable degrees of \"disagree\": **demur** and **dissent** are speech acts and can't govern a rule the way **flout** does, **flout** takes rules and never people, and **mutiny** requires subordinates against their own commanders — a citizenry or a customer base cannot mutiny.",
+  "words": [
+    {
+      "word": "demur",
+      "nuance": "The only one that stops short of stating a position at all — **demur** registers reluctance (a hesitation, a \"well, I wonder\") and leaves the door open to agreeing anyway. It is face-saving and often evasive: *he demurred* can mean he declined to comment, which none of the others can mean."
+    },
+    {
+      "word": "dissent",
+      "nuance": "Unlike **demur**, the position is stated with grounds and put on the record — and unlike **flout**, it works *through* the institution rather than against it. The dissenting judge still files the opinion and obeys the ruling; the objection is to the decision, never to the authority's right to decide."
+    },
+    {
+      "word": "flout",
+      "nuance": "The point where words stop and conduct begins: **flout** makes no argument, offers no grounds, and doesn't ask to be persuaded — it breaks the rule in plain sight *because* the contempt is the message. It attaches to laws, bans and conventions, not to people, and unlike **mutiny** it can be one person and carries no charge of insubordination."
+    },
+    {
+      "word": "mutiny",
+      "nuance": "The only word that requires a chain of command and a group inside it — subordinates who swore to obey turning on their own commander. **Flout** disregards a rule; **mutiny** seizes the authority that makes rules, which is why it is a criminal offence with a punishment attached and why using it in an office recasts the boss as a captain."
+    }
+  ]
+}

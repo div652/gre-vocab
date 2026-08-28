@@ -9,5 +9,29 @@
     "slight",
     "deride"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five reduce something's standing without ever refuting it — no argument is made, no case is answered; the value is simply lowered by treatment. The reduction can land on three different kinds of target, and that is the real fault line: a claim's evidential weight, an object's overall merit, or a person's dignity. Notice too that some require an agent doing it deliberately while others describe a flaw quietly doing it on its own, and that they range from a defensible analytical move to open contempt.",
+  "words": [
+    {
+      "word": "belittle",
+      "nuance": "**Belittle** always has a human victim and a live relationship — boss, parent, rival — and works by narrating someone's achievement as smaller than it is (\"she got lucky\"). It's the sustained one: repeated, conversational, usually polite, and the harm accumulates rather than lands in a single blow."
+    },
+    {
+      "word": "detract",
+      "nuance": "**Detract** is the one with no villain — a cracked frame, a weak third act, a shrill ending does the detracting; nobody has to intend anything. It also takes a *thing's* merit rather than a person's dignity, and it is grammatically marked: always *detract from*, never detract something."
+    },
+    {
+      "word": "discount",
+      "nuance": "**Discount** is epistemic, not social — it operates on claims, testimony, rumours, and data, adjusting how much *weight* they get, not how good they are. Alone in this group it can be entirely correct behaviour (a historian discounts a partisan chronicle), which is why the GRE uses it in neutral academic contexts; the only shadow on it is haste — \"he discounted her warning\" rarely ends well."
+    },
+    {
+      "word": "slight",
+      "nuance": "**Slight** is an act, singular and datable — the omitted name, the unshaken hand, the greeting that skipped one person. It's the offence of *omission* rather than statement: nothing was said at all, and that's the wound. It's also the only one that nominalizes into the injury itself (*he never forgot the slight*), which quietly indicts the person still counting."
+    },
+    {
+      "word": "deride",
+      "nuance": "**Deride** is the loud, public end of the range and the only one that uses *laughter* as the instrument. It's formal and one-sided — the derider has already closed the question and is performing contempt for an audience, so it attaches to proposals, theories, and films in reviews and columns. Where the others lower an estimate, this one declares the thing unworthy of estimating."
+    }
+  ],
+  "exam_note": "Sentence completions hinge on the target: evidence gets discounted, a work's merit is detracted from (with obligatory *from*), a person is belittled or slighted — and none of these means *refute*, so a blank following contrary proof usually wants a stronger word."
 }

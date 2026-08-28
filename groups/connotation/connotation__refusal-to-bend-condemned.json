@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__refusal-to-bend-condemned",
+  "title": "Refusal to bend, condemned",
+  "seed_words": [
+    "obstinate",
+    "obdurate",
+    "pertinacious",
+    "intransigent",
+    "headstrong",
+    "willful"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe someone who will not yield — will not change position, take advice, or be moved by pressure. What unites them is not the immovability but the **verdict**: each one is the disapproving name for a firmness that admiring words (*resolute*, *steadfast*, *tenacious*, *determined*) would praise. They split on what exactly is being resisted — an argument, a plea for mercy, an offer of terms, a hand on the wheel — and on who is doing the complaining.",
+  "exam_note": "The GRE's favourite move is the neutral-vs-condemning swap: the passage supplies approval (*resolute*, *tenacious*), so the answer is the praising twin, not **obstinate** or **pertinacious** — read the surrounding attitude, not the behaviour.",
+  "words": [
+    {
+      "word": "obstinate",
+      "nuance": "The group's default and its plainest verdict: the digging-in itself has become unreasonable, with no further diagnosis of why. It names a **temperament** rather than a stance in any particular negotiation, and it is the cold, formal cousin of *stubborn* — strip out the affection *stubborn* can carry and you have obstinate."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "The only one where the thing refused is **mercy**. Others resist arguments; the obdurate resist tears — pleading, pity, remorse bounce off. Moral, near-biblical, and reserved for the creditor who won't forgive the debt or the sinner who won't repent; using it convicts the person, not just their position."
+    },
+    {
+      "word": "pertinacious",
+      "nuance": "The complaint is **duration**, not hardness. This is *tenacious* grip held an hour too long — the person won't drop the subject, the creditor keeps writing, the rumour won't die. It draws a sigh of fatigue rather than moral outrage, and it's the most bookish word here."
+    },
+    {
+      "word": "intransigent",
+      "nuance": "Stubbornness **at the bargaining table** — terms were offered and refused. It presumes a negotiation exists (talks, unions, parties, coalitions), so it describes a position taken, not a personality. It's also the one that can flip admiring: an intransigent defender of principle."
+    },
+    {
+      "word": "headstrong",
+      "nuance": "The opposite failure from the rest: not refusing to move but refusing to be **steered**. Plenty of motion, no listening — charging ahead on your own judgement while everyone shouts from behind. Usually aimed at the young and spirited, and it keeps a flicker of grudging admiration none of the others allow."
+    },
+    {
+      "word": "willful",
+      "nuance": "The blame word, and the only one that attaches to a single **act** as well as a person: *willful blindness*, *willful destruction of evidence* — you didn't slip, you chose. Where *intentional* is a neutral report of a mental state, willful is an accusation, and even in its headstrong sense it is never praise."
+    }
+  ]
+}

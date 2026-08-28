@@ -8,5 +8,25 @@
     "pernicious",
     "insidious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe harm that isn't a single visible blow. The damage accumulates, works on something over time, and is usually reported rather than witnessed — which is why all four sit in formal registers (medicine, policy, research, editorials) and none of them fit a mugging or a car crash. They split on two axes: how much moral heat the speaker brings, and whether the harm actively hides itself.",
+  "words": [
+    {
+      "word": "deleterious",
+      "nuance": "The **biology and medicine** word: it attaches to *effects* on an organism, a body, a system's functioning — a deleterious mutation, deleterious to the soil. Zero moral judgment; a gene can be deleterious and nobody is to blame. It reads as a measurement, not an accusation."
+    },
+    {
+      "word": "detrimental",
+      "nuance": "The only one that is essentially **relational**: harm reckoned against a specific interest, so it wants a *to* — detrimental to morale, to your case, to the company's standing. Its harm is loss or disadvantage on a ledger, often reversible, and it's the weakest of the four; a policy can be detrimental without anything being destroyed."
+    },
+    {
+      "word": "pernicious",
+      "nuance": "The one carrying **moral condemnation**. It attaches to ideas and influences rather than substances — a pernicious myth, a pernicious doctrine — and it tells you the speaker is educated and alarmed. Where the others report harm, **pernicious** denounces something corrupting."
+    },
+    {
+      "word": "insidious",
+      "nuance": "Describes the **manner of advance, not the magnitude**: it looks harmless, or nobody is watching, and you learn of it from the wreckage. This is the one where **concealment is the whole point** — a compounding debt, an addiction, a cancer. Something can be insidious and small; it cannot be insidious and obvious."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable \"harmful\": pick by what the sentence emphasizes — a clinical/physical effect (deleterious), damage to a named interest (detrimental), moral corruption (pernicious), or the fact that it went unnoticed until too late (insidious)."
 }

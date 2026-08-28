@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__cautious-foresight",
-  "title": "Cautious foresight",
+  "title": "Caution That Counts as Good Judgment",
   "seed_words": [
     "prudent",
     "judicious",
     "circumspect",
     "chary"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe caution that counts as *good judgment* rather than nerves — the actor has surveyed the risks and deliberately chosen to go slow, use less, or say nothing. They are the vocabulary of lawyers, bankers, editors and policy memos: formal, approving, faintly bloodless. The confusion is that English lets them share the same sentence frame, while each actually points at a different stage of the act — deciding, proportioning, watching, withholding.",
+  "words": [
+    {
+      "word": "prudent",
+      "nuance": "Aimed at **future consequences to your own position** — the risk you are managing is one you will personally have to pay for. It is the word of savings, insurance, reserves and contingency plans, and it judges the *decision* as sound rather than the actor as skillful."
+    },
+    {
+      "word": "judicious",
+      "nuance": "The only one about **proportion rather than risk**. Praise for hitting the right *amount* — a judicious edit, a judicious dose, a judicious silence — so a judicious act can be bold, even aggressive, as long as it stopped at the correct point. Nothing here implies danger was avoided."
+    },
+    {
+      "word": "circumspect",
+      "nuance": "Literally *looking around*: the caution is **outward-facing and pre-emptive**, a scan of who is watching and what could go wrong before you commit or speak. It attaches to conduct and speech under scrutiny, and it is the one that can tip into criticism — too circumspect means too slow to commit."
+    },
+    {
+      "word": "chary",
+      "nuance": "The only one about **withholding a supply**. It takes *of* or *about* — chary of praise, chary of lending — and rates how little you hand over, not how carefully you move. Neutral to mildly unflattering: caution here shades toward tight-fistedness in a way the other three never do."
+    }
+  ],
+  "exam_note": "The exam splits them by grammar and object: a blank followed by *of* wants **chary**; a blank about *how much* of something was used wants **judicious**; a blank about protecting future assets wants **prudent** — and **circumspect** shows up where the sentence mentions observers, scrutiny, or what someone declined to say."
 }

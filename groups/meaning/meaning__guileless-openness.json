@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__guileless-openness",
-  "title": "Guileless openness",
+  "title": "Guileless openness: by nature vs. by choice",
   "seed_words": [
     "ingenuous",
     "artless",
     "candid",
     "frank"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe speech that arrives without a filter — nothing hidden, nothing angled, nothing dressed up. The split that matters is *why* the filter is missing. In two of them the speaker never had one: openness is a trait of character, born of inexperience or an absence of artifice, and the tone toward such a person is fond but protective. In the other two the speaker has a filter and deliberately drops it: openness is a decision made about a delicate subject, and it earns credit precisely because concealment was available.",
+  "words": [
+    {
+      "word": "ingenuous",
+      "nuance": "The only one that diagnoses the **person's experience of the world**: they are open because life has not yet taught them to guard themselves. Describes a whole disposition, not a single remark, and implies a prediction — this person will be taken advantage of. Note the near-twin traps: *ingenious* (clever) is unrelated, and *disingenuous* (feigning naivety to deceive) is its live antonym."
+    },
+    {
+      "word": "artless",
+      "nuance": "Denies **artifice — technique, calculation, a working angle** — rather than worldliness. Unlike *ingenuous*, it says nothing about whether the person understands the world; only that they aren't playing it. It attaches comfortably to things as well as people (an artless remark, an artless charm), and it alone carries a second, unflattering sense: crude, unskilled."
+    },
+    {
+      "word": "candid",
+      "nuance": "Uniquely implies **disclosure**: there was a reason to keep this quiet and the speaker released it anyway. The content is characteristically the speaker's own — failures, doubts, finances — which is why it reads as costly and creditable rather than merely direct. Also the only member with the *unposed* sense: a candid photo, taken before the face was arranged."
+    },
+    {
+      "word": "frank",
+      "nuance": "About the **manner of address**, not what's being revealed — and the delicate subject is often *yours*, not the speaker's (frank about your chances, your prospects, your work). It's the one that gets pre-announced — \"to be frank\" — a flag that comfort is about to be traded for truth. Warmer than *blunt*, which implies the speaker didn't mind the bruise."
+    }
+  ],
+  "exam_note": "Sentence equivalence pairs these across the volitional line — *candid*/*frank* (chose to speak) are swappable, *ingenuous*/*artless* (never learned not to) are swappable, but a blank whose context supplies a motive for concealment can only take the first pair; also watch for *artless* baited with a crudeness context and *ingenuous* baited by *ingenious*."
 }

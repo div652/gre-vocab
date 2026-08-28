@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__taking-in-vs-shutting-out",
+  "title": "Taking in vs. shutting out",
+  "seed_words": [
+    "subsume",
+    "amalgamate",
+    "all-encompassing",
+    "universal",
+    "marginalize",
+    "relegate",
+    "banish",
+    "alienate",
+    "immure",
+    "quarantine"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is about a boundary and which side something ends up on: pulled inside so it counts as part of the whole, or pushed outside so it doesn't count at all. The inclusion words differ over *how* the parts survive absorption — filed under a heading, fused beyond recognition, or simply covered with nothing left over. The exclusion words differ over *mechanism*: whether the target is demoted, expelled, walled in, held pending, or just quietly left to drift away. Confusion comes from treating them as interchangeable in/out labels when the exam is always testing the mechanism and the actor.",
+  "words": [
+    {
+      "word": "subsume",
+      "nuance": "**Subsume** files rather than fuses: the smaller thing survives intact but loses its independent standing, now counting as one instance of a larger category. It's the only inclusion verb here with a hierarchy built in — something goes *under* something bigger, never side by side with it."
+    },
+    {
+      "word": "amalgamate",
+      "nuance": "**Amalgamate** joins peers, not superior and sub-case: two banks amalgamate and neither is filed under the other. And unlike subsuming, the inputs genuinely stop being separately identifiable — afterwards there is one entity with one name, and you cannot point to the parts."
+    },
+    {
+      "word": "all-encompassing",
+      "nuance": "**All-encompassing** describes reach with no edges, and it attaches to abstractions — a theory, a vision, a grief. It's atmospheric rather than checkable, carrying awe when applied to a doctrine and claustrophobia when applied to a feeling: an all-encompassing obsession leaves room for nothing else."
+    },
+    {
+      "word": "universal",
+      "nuance": "**Universal** is a quantifier, not a mood: every member of the set, zero exceptions, which makes it the one word here that a single counterexample destroys outright. Where *all-encompassing* gestures at boundlessness, **universal** makes a falsifiable claim an argument can be attacked on."
+    },
+    {
+      "word": "marginalize",
+      "nuance": "**Marginalize** excludes without expelling — the target stays inside the room, at the edge, present but unheard. There is usually no decree and often no identifiable villain: defaults, habits and institutions do it, which is why you meet it almost entirely in the passive."
+    },
+    {
+      "word": "relegate",
+      "nuance": "**Relegate** drags a destination behind it — to the bench, the basement, a footnote — and the motion is downward in rank rather than outward past a boundary. It also carries the shrug of whoever did it: not too dangerous to keep, just not worth the better spot."
+    },
+    {
+      "word": "banish",
+      "nuance": "**Banish** is the only hard expulsion here with a sentence behind it: an authority orders you out of the place and forbids return. Where marginalizing leaves you inside and relegating leaves you lower, banishment puts you fully outside — and permanently, which is why the figurative use (\"banish the thought\") sounds grand."
+    },
+    {
+      "word": "alienate",
+      "nuance": "**Alienate** is the exclusion nobody enforced: the target withdraws of their own accord after their sympathy is worn away, usually by someone who wasn't trying. The damage registers as distance rather than injury — the alienated don't fight back, they just stop showing up."
+    },
+    {
+      "word": "immure",
+      "nuance": "**Immure** confines *within* walls rather than shutting out of a place, and the image is masonry — a cell, a cloister, a bricked-up niche with nobody coming to open it. Uniquely in this group it is frequently voluntary: you immure yourself in a library or a monastery. Bookish and faintly gothic."
+    },
+    {
+      "word": "quarantine",
+      "nuance": "**Quarantine** separates on *suspicion*, not guilt or worth: the exposed, not the sick. It is precautionary, imposed by an authority, and explicitly time-bounded — it ends when the doubt clears, which no other exclusion here promises. Metaphorical uses keep the flavour of a possible contaminant held pending judgement."
+    }
+  ],
+  "exam_note": "The trap is treating these as generic in/out synonyms: the sentence's real clue is the mechanism and the actor — is the target still inside (marginalize), lower (relegate), ordered out (banish), drifting off unbidden (alienate), or held pending (quarantine)? — and on the other side, whether the parts survive as a labelled sub-case (subsume) or dissolve into one entity (amalgamate)."
+}

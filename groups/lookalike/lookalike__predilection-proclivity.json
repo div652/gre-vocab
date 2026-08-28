@@ -8,5 +8,21 @@
     "propensity"
   ],
   "similarity": 0.48,
-  "auto": true
+  "auto": true,
+  "core": "All three are formal nouns for a leaning that was already in place before the moment of choice — habitual, characteristic, and not consciously adopted. Each takes *for* (or *toward*), each describes the person rather than the occasion, and each implies the leaning will show up again. The splits are what the leaning attaches to (a kind of thing you like vs. a thing you keep doing), how damning it is, and who is doing the describing.",
+  "words": [
+    {
+      "word": "predilection",
+      "nuance": "The only one of the three that is a **taste** rather than a behaviour: its object is a category of thing you like — corner tables, Russian novels, lost causes — not an act you keep committing. It is also the mildest and the most socially polite; the damage it does is by insinuation (\"a predilection for younger men\"), never by diagnosis."
+    },
+    {
+      "word": "proclivity",
+      "nuance": "Locates the leaning in **temperament** — something in the person's nature, present before any evidence of it. It is the most reliably distasteful of the three: a **proclivity** is for brawling or deceit, and attaching it to something harmless sounds arch or vaguely insinuating. Only ever used of people."
+    },
+    {
+      "word": "propensity",
+      "nuance": "The **evidenced** one: it reads as a trait inferred from repeated behaviour, which is why it belongs to lawyers, actuaries and statisticians (\"propensity to reoffend\", \"marginal propensity to consume\"). It is also the only member that works on non-persons — metals have a **propensity** to corrode; they have no proclivities."
+    }
+  ],
+  "exam_note": "Dictionaries make these near-synonyms, so the GRE decides between them with the object and the speaker: a liked *thing* wants predilection, an innate vice wants proclivity, and a measured or non-human tendency wants propensity."
 }

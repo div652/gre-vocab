@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__stripped-bare-vs-gilded",
+  "title": "Stripped bare vs. gilded",
+  "seed_words": [
+    "unadorned",
+    "austere",
+    "spartan",
+    "utilitarian",
+    "understated",
+    "ornate",
+    "baroque",
+    "florid",
+    "flamboyant",
+    "embellish",
+    "ostentatious"
+  ],
+  "hallucinated": null,
+  "core": "Every word here judges how much decoration a thing carries — a room, a dress, a sentence, a story, a person's manner. One half describes surfaces with the ornament taken off; the other describes surfaces with ornament piled on. What separates words within each half is never the *amount* of decoration but the freight riding alongside it: whether the plainness was chosen or incidental, whether the excess is fussy or theatrical, and above all whether the writer approves. Several of these are verdicts wearing the costume of description.",
+  "words": [
+    {
+      "word": "unadorned",
+      "nuance": "The neutral zero of the bare side: nothing was added, and that is the whole claim — no severity, no discipline, no motive implied. It is also the only one of these that sits comfortably on *facts* rather than surfaces (the **unadorned** truth), where the absence of trim reads as honesty."
+    },
+    {
+      "word": "austere",
+      "nuance": "Adds moral severity to the bareness. Alone in this group it works on a person's *manner* — an **austere** man is unsmiling and unbending, not merely undecorated — and even applied to a room it implies comfort was withheld on principle rather than simply never installed."
+    },
+    {
+      "word": "spartan",
+      "nuance": "The bareness costs you something. Where the others describe missing ornament, **spartan** describes missing *comfort* — one blanket, cold water — and credits hardiness for it. It is austerity as training, so it can be dry complaint and quiet boast in the same breath."
+    },
+    {
+      "word": "utilitarian",
+      "nuance": "Plain by accident of purpose, with no principle behind it at all: the thing was built to work, and decoration simply never entered the design. That is the shrug that separates it from **spartan**'s discipline and **austere**'s severity — nobody was being virtuous, they were being practical."
+    },
+    {
+      "word": "understated",
+      "nuance": "The only word here where the substance is *present* and deliberately dialled down, not absent. It presumes an audience and flatters the restrainer's confidence — a compliment the other bare words don't carry. Point it at a figure rather than a style and it flips to accusation: an **understated** death toll was pitched too low."
+    },
+    {
+      "word": "ornate",
+      "nuance": "The plain baseline of the decorated side: heavy ornament on the *surface* — carving, gilding, adjectives. Neutral-to-admiring on a Baroque altarpiece, a polite complaint everywhere else, and it hints only that someone couldn't stop adding, not that the sense was lost."
+    },
+    {
+      "word": "baroque",
+      "nuance": "Ornament that has become structure. Where **ornate** stays on the surface, **baroque** describes something whose decorative complexity you now have to navigate — a plot, an excuse, a codebase. Capital B, it's a neutral period label; lowercase, it's a jab at showy over-engineering (contrast *byzantine*, which is tangled without being decorative)."
+    },
+    {
+      "word": "florid",
+      "nuance": "The one with no admiring reading available: the flourishes have crowded out the meaning. Also the only member with a body sense the GRE loves to spring — a **florid** face is red and flushed from drink or blood pressure, and in medicine a **florid** symptom is one in full unmistakable bloom."
+    },
+    {
+      "word": "flamboyant",
+      "nuance": "Showiness located in a *person's* performance rather than an object's surface — flair, colour, theatre, and usually half-admired. It says nothing about fussiness or excess detail; a flamboyant conductor may wear one bold thing. It turns critical only when the occasion forbids display."
+    },
+    {
+      "word": "embellish",
+      "nuance": "The group's only verb, and the only word that can touch *truth*: it adds invented detail to something that really happened. Its charge is deliberately mild — *fabricate* invents the whole thing — so it lets you doubt a witness without calling her a liar."
+    },
+    {
+      "word": "ostentatious",
+      "nuance": "Judges the motive, not the decoration: the point of the display was to be seen. That's why it alone extends to things with no surface to decorate — **ostentatious** grief, humility, piety — anywhere sincerity is being performed for an audience."
+    }
+  ],
+  "exam_note": "Sentence Equivalence pairs are built from the *freight*, not the decoration level: a blank about withheld comfort takes **spartan/austere**, one about withheld emphasis takes **understated**, and one about a performing motive takes **ostentatious** — and watch for the second senses (**florid** = flushed, **baroque** = the period) that make a passage read wrong until you switch."
+}

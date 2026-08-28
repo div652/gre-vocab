@@ -9,5 +9,29 @@
     "transitory",
     "momentary"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five say a thing does not last. What separates them is *which* aspect of not-lasting they point at — total lifespan, the act of fading, the fact of passing through, impermanence as an inherent property, or sheer instantaneous brevity — and what the speaker's tone reveals. Half this family is lyrical and admiring; the other half is flat and technical. Choosing wrongly doesn't produce a false statement, it produces a false *register*: a clinical word laid over a sunset, or a wistful word laid over a voltage spike.",
+  "words": [
+    {
+      "word": "ephemeral",
+      "nuance": "Points at **lifespan**: the thing gets a day, a season, a summer, and then it is over. Alone in this group it usually implies the brevity is part of the appeal — cherry blossom, a fad, internet fame — and alone in this group it has a live engineering sense (*ephemeral keys, ephemeral storage*) meaning short-lived by design."
+    },
+    {
+      "word": "evanescent",
+      "nuance": "Points at **the vanishing**, not the span: the thing is thinning out, half-gone while you are still looking — mist, a scent, a dying chord. The most delicate word here, reserved for things already insubstantial; you would never call a job or a fever evanescent."
+    },
+    {
+      "word": "transient",
+      "nuance": "The cold one, and the only one that also means **passing through** in physical space. An engineer's, doctor's, or desk clerk's word — a transient fault, a transient fever, a transient population — with no wistfulness at all, which is why its noun sense (*a transient* = a drifter) lands so harshly on a person."
+    },
+    {
+      "word": "transitory",
+      "nuance": "Frames impermanence as an **inherent property of the thing**: it is a phase, and phases end by nature. It attaches to abstractions — power, fame, pain, pleasure, a market condition — and carries a moralizing hum, the voice of someone advising you not to get attached. Where *transient* describes the man at the door, transitory describes the state of the world."
+    },
+    {
+      "word": "momentary",
+      "nuance": "The **shortest** duration in the group — seconds, an instant — and the only one that routinely does defensive work. *A momentary lapse, a momentary hesitation*: calling a failure momentary is a request that it be waived. Nothing lyrical, nothing philosophical, just \"too brief to count.\""
+    }
+  ],
+  "exam_note": "Sentence Equivalence pairs these off by register, not definition — the correct pair is the two words whose tone fits the sentence's voice (a lab report takes *transient*, an elegy takes *evanescent*), so read the surrounding diction, not just the time span."
 }

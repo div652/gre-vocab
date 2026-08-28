@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__strict-to-tyrannical",
+  "title": "Strict to tyrannical",
+  "seed_words": [
+    "stern",
+    "stringent",
+    "draconian",
+    "despotic"
+  ],
+  "hallucinated": null,
+  "core": "All four say a line is being held and no exceptions are coming. They differ in what's actually severe — the enforcer's manner, the height of the bar, the size of the penalty, or the ruler's unchecked will — and in how much the speaker is condemning. The scale runs from mere firmness through exacting precision to disproportionate punishment to naked tyranny, and roughly halfway along it stops being description and becomes accusation.",
+  "exam_note": "**Stringent** is the trap: it's the only one that can be a compliment and the only one that can't take a person — if the sentence praises tight standards, the \"harsh\" answers are all wrong.",
+  "words": [
+    {
+      "word": "stern",
+      "nuance": "The only one that lives in the **face and manner** rather than in a rule or a penalty — a stern look conveys everything before a word is spoken. It's also the only member that can be admiring, implying someone who won't let slide what others would, and the only one weak enough to describe a parent or a coach without implying abuse."
+    },
+    {
+      "word": "stringent",
+      "nuance": "Measures the **height of the bar**, not the pain of missing it — the tightness is the intended feature, which is why stringent testing and stringent peer review are praise. It attaches to standards, criteria, controls, and budgets; a person can be stern or despotic but never stringent."
+    },
+    {
+      "word": "draconian",
+      "nuance": "The charge is **disproportion**: the offence may be real, but the response is wildly out of scale — expulsion for a dress code, prison for a fine-sized crime. It indicts the written policy and its authors rather than anyone's temperament, and it's the journalist's and the opposition's word, never self-applied."
+    },
+    {
+      "word": "despotic",
+      "nuance": "Escalates from severity to **unaccountable personal power**, where one person's will is the whole rulebook and can change on a mood. Draconian rules are at least fixed and knowable; despotic rule is arbitrary, and the word points at the ruler — a manager, a father, a committee chair — not the statute."
+    }
+  ]
+}

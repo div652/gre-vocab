@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__looking-down-on-others",
-  "title": "Looking down on others",
+  "title": "Looking down on others: bearing, command, doctrine, and condescension",
   "seed_words": [
     "haughty",
     "imperious",
     "elitist",
     "patronize"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four words describe superiority aimed downward — the assumption that other people rank below you, and the ways that assumption leaks out. What separates them is the channel it travels through: silent bearing, issued orders, a stated belief about who deserves power, or a kindly-sounding remark. Two are pure manner, one is doctrine, and one is a transaction between two specific people. Only one of them has a fully innocent second life.",
+  "words": [
+    {
+      "word": "haughty",
+      "nuance": "Pure **bearing**, and it demands nothing — the chin, the cool stare, the refusal to be impressed. A **haughty** person can stand silently across the room and still insult you; there is no order given, no argument made, no group being ranked. Literary and faintly old-world in a way the others aren't."
+    },
+    {
+      "word": "imperious",
+      "nuance": "Superiority converted into **commands**. Where haughty merely radiates, **imperious** issues — the snapped fingers, the unraised voice, the assumption that refusal isn't on the table. It describes manner, not office, so it bites hardest when the person has no actual authority behind it."
+    },
+    {
+      "word": "elitist",
+      "nuance": "The only one that's a **belief about groups** rather than a manner toward the person in front of you. **Elitist** says a chosen few — by birth, money, brains, or taste — should hold the power, so it can be levelled at a policy, a school, or a magazine, never merely at a posture. Political and journalistic in register, and always a charge thrown by someone else."
+    },
+    {
+      "word": "patronize",
+      "nuance": "A **verb**, and the only condescension delivered as kindness: the unneeded explanation, the slow voice, praise pitched at a child. Being **patronized** is hard to protest precisely because you were ostensibly being helped — and its other sense (to be a customer of, to sponsor) carries no contempt whatsoever."
+    }
+  ],
+  "exam_note": "The trap is *patronize*: the GRE loves its neutral \"be a customer of / sponsor\" sense in sentences whose surrounding words all hint at snobbery — and it separates *haughty* (a look) from *imperious* (an order) by whether the sentence contains a demand."
 }

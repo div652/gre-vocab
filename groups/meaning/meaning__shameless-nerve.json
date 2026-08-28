@@ -9,5 +9,29 @@
     "brazen",
     "bravado"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe nerve — boldness that has crossed a line other people were respecting. The line differs: sometimes it's shame, sometimes rank, sometimes caution, sometimes the decent instinct to at least hide what you're doing. Most are the offended onlooker's verdict rather than a neutral description, so the choice usually encodes who is judging whom and on what grounds. One of them can be admiring, and one says the nerve isn't real at all.",
+  "words": [
+    {
+      "word": "effrontery",
+      "nuance": "The charge is **shamelessness itself** — the person should have been embarrassed and wasn't. It lives in a fixed frame (*had the effrontery to*), and what follows is always something the speaker finds indefensible. Rank is irrelevant here: an equal or a superior can show effrontery, because the offence is the missing blush, not the overstepped place."
+    },
+    {
+      "word": "temerity",
+      "nuance": "The charge is **presumption of standing** — you acted above your station toward someone you owed deference to. It encodes a hierarchy that **effrontery** doesn't need: the private who questions the general has temerity; the general doing the same thing has none. It also carries a whiff of recklessness — nerve that hasn't reckoned with consequences."
+    },
+    {
+      "word": "audacious",
+      "nuance": "The **only one here that can be a compliment**. It marks the ignored limit without ruling on it, so *an audacious plan* thrills and *an audacious lie* appalls, entirely on the sentence's say-so. Where the others arrive pre-loaded with disapproval, **audacious** waits to be told."
+    },
+    {
+      "word": "brazen",
+      "nuance": "The scandal is **openness**, not the act. A brazen lie is told to your face by someone who knows you know — sneaking would concede that the rule mattered, and they won't. It's the only one with a verb (*brazen it out*: outlast an accusation by refusing to look ashamed), and it carries contempt for the audience, not just disregard."
+    },
+    {
+      "word": "bravado",
+      "nuance": "The **only one where the nerve is fake**. It names a performance — swagger, loud talk, defiance staged for watchers — and using the word calls the bluff: the display is covering fear. The others describe boldness someone had; **bravado** describes boldness someone is advertising, hence *empty*, *false*, *a touch of*."
+    }
+  ],
+  "exam_note": "The trap is reading all five as negatives: **audacious** is the fence-sitter that can praise, so in a positive-daring context it's the answer the other four can't be."
 }

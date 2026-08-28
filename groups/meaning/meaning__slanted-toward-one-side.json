@@ -8,5 +8,25 @@
     "chauvinistic",
     "polemical"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say the same basic thing: even-handedness is missing. Something — a person, an essay, a survey question — has already picked a side, and what looks like inquiry is really advocacy. They split on *why* and *how visibly*: whether the tilt is unconscious or engineered, hidden or announced, aimed at a conclusion or at a rival group. The GRE lives in that gap, because in loose English any of them can be glossed \"biased.\"",
+  "words": [
+    {
+      "word": "partial",
+      "nuance": "The mildest, coolest, and the only one that isn't an accusation of bad faith — a soft tilt, often unconscious, often just affection for the favourite. It's the one that attaches to a role sworn to neutrality (judge, referee, examiner) and the only one with a ready-made antonym, **impartial**. Also the only one that can turn warm: *partial to* means fond of."
+    },
+    {
+      "word": "tendentious",
+      "nuance": "Here the slant is engineered *and* concealed — the piece wears the costume of neutral analysis while steering you. It attaches to artifacts (a history, a footnote, a poll question), never to a temperament, and the charge is dishonest presentation rather than heat. Unlike a polemic, it will not admit what it's doing."
+    },
+    {
+      "word": "polemical",
+      "nuance": "The one-sidedness is announced, not hidden: this is declared combat, written to demolish an opponent, and everyone in the room knows it. That openness is why it's the only word here that can be neutral description or even praise — in an op-ed or a seminar, swinging is the job. Its failure mode is heat, not deceit."
+    },
+    {
+      "word": "chauvinistic",
+      "nuance": "The only one about group identity rather than argument: my country / my sex / my team is simply better than yours. It attaches to a person and their swagger, not to a text's reasoning, and it flatters the self — it needs an out-group to look worse. The picture it paints is smug and a bit ridiculous."
+    }
+  ],
+  "exam_note": "The trap is concealment vs. display: **tendentious** hides its agenda behind a neutral pose, **polemical** advertises it — and only **partial** is mild enough to fit a judge who merely leans."
 }

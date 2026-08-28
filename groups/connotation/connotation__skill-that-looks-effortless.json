@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__skill-that-looks-effortless",
+  "title": "Skill that looks effortless",
+  "seed_words": [
+    "adroit",
+    "deft",
+    "dexterous",
+    "adept",
+    "facility",
+    "nimble"
+  ],
+  "hallucinated": null,
+  "core": "All of these praise competence that shows no strain — the thing gets done quickly, cleanly, and without visible effort. They differ along three axes: **what the skill attaches to** (fingers, a single move, a whole domain, a social crisis), **whether depth or speed is being praised**, and **whether the ease is purely admirable or slightly suspicious**. Note also that one member is a noun, not an adjective. Reordered here from most physical to most abstract.",
+  "words": [
+    {
+      "word": "dexterous",
+      "nuance": "**Dexterous** stays at the fingers — fine motor control and speed, literally. It's the only one that praises the mechanics of the doing and implies nothing at all about wit, judgement, or depth: a dexterous pickpocket is good with his hands, full stop."
+    },
+    {
+      "word": "deft",
+      "nuance": "**Deft** praises *economy* — no wasted motion, exactly the effort required and not a gram more. It scales down to a single gesture (\"a deft touch,\" the critic's favourite), where **adept** would need a whole domain, and it prizes finesse specifically over power or force."
+    },
+    {
+      "word": "nimble",
+      "nuance": "**Nimble** is the evasion word: it praises slipping past rather than pushing through. Uniquely, it runs body and mind on the same footing without changing register — a nimble boxer, a nimble mind — and it commits to lightness and speed only, never to mastery or depth."
+    },
+    {
+      "word": "adroit",
+      "nuance": "**Adroit** needs *other people* in the frame: the question that had to be defused, the corner that had to be escaped. It's cool praise, admiring the manoeuvre more than the person, and it's the one that can curdle — push it and you get *slick*."
+    },
+    {
+      "word": "adept",
+      "nuance": "**Adept** is the only one about accumulated command of a whole craft rather than a single quick move — hence the near-obligatory *adept at / in X*, and hence no note of speed anywhere in it. The skill is drilled, not innate, and the noun sense (\"an adept\") marks someone initiated into a difficult art."
+    },
+    {
+      "word": "facility",
+      "nuance": "**Facility** is a noun, and the ease belongs to the ability itself, not to any one performance — *a facility with numbers*. It's the only member where the smoothness can be the complaint: praise someone's facility for excuses or for a phrase and you're hinting the fluency came cheap."
+    }
+  ],
+  "exam_note": "The GRE picks the winner by what the skill attaches to — hands (*dexterous*), one clean move (*deft*), a hostile interlocutor (*adroit*), a whole discipline (*adept*) — and baits you with *adroit*/*facility* in sentences whose tone is faintly disapproving."
+}

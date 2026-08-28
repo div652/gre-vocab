@@ -1,12 +1,32 @@
 {
   "kind": "root",
   "id": "root__vadere",
-  "title": "Root: vadere (to go)",
+  "title": "Root: vadere (to go) — out of, into, through",
   "seed_words": [
     "evade",
     "evasive",
     "invasive",
     "pervasive"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *vadere* means \"to go,\" and each of these words is that going plus a direction: out of (e-), into (in-), through (per-). All four involve something crossing a line it either shouldn't cross or is trying not to be caught behind — a duty, a boundary, a habitat, a whole atmosphere. Three of them carry the implication of a violation; the confusion comes from mistaking which way the motion runs and whether a boundary is being fled, breached, or already dissolved.",
+  "words": [
+    {
+      "word": "evade",
+      "nuance": "The only verb here — the act, not the description. **Evade** needs a specific thing with a claim on you (a subpoena, a tax bill, a pursuer) and a moment of successful dodging; you can evade capture once. It cannot describe an atmosphere or a spread, only an escape."
+    },
+    {
+      "word": "evasive",
+      "nuance": "The habit or manner, not the act — **evasive** characterizes *how* someone behaves across a whole answer or interview, which is why it works as an accusation where *evaded* would need proof. Uniquely double-lived: damning about speech, entirely blameless about movement (*evasive action*), where no duty is being shirked at all."
+    },
+    {
+      "word": "invasive",
+      "nuance": "Reverses the direction — going *in*, not out. **Invasive** requires a boundary and a thing on the wrong side of it now establishing itself: a species in a habitat, a tumour past its tissue, a question inside your private life. It always implies a territory with an owner, which is why it neutralizes completely in medicine and ecology, where the boundary is just anatomy or an ecosystem."
+    },
+    {
+      "word": "pervasive",
+      "nuance": "The boundary is gone — **pervasive** describes the end state after something has soaked through everything, with no intruder to point at and no moment of entry. It attaches to diffuse things (smoke, dread, bias, an aesthetic) rather than agents, and it's the only one here that can be neutral or even admiring: *his influence was pervasive*."
+    }
+  ],
+  "exam_note": "The trap is **invasive** vs **pervasive**: invasive needs a violated boundary and something identifiable doing the violating; pervasive needs total saturation and no agent — so a sentence about corruption \"throughout every ministry\" wants pervasive, while one about questions \"into her marriage\" wants invasive."
 }

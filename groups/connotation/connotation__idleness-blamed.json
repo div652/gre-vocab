@@ -1,0 +1,47 @@
+{
+  "kind": "connotation",
+  "id": "connotation__idleness-blamed",
+  "title": "Idleness Blamed: Seven Different Accusations",
+  "seed_words": [
+    "indolent",
+    "feckless",
+    "shirk",
+    "dilatory",
+    "dawdle",
+    "slovenly",
+    "desultory"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these says work is not getting done properly, and every one blames somebody for it — none is a neutral report. What separates them is *which* failure is being charged: the person's underlying temperament, their lifelong incapacity, a duty ducked, time deliberately wasted, a slow pace, a shoddy result, or scattered half-hearted attention. They also differ sharply in heat — some are affectionate nudges, some are formal complaints on the record, and one writes off a whole character. Match the accusation to the axis the sentence is actually about.",
+  "words": [
+    {
+      "word": "indolent",
+      "nuance": "Blames **temperament**, not output — and it's the only word here that can be pleasant. **Indolent** heat, an **indolent** afternoon by the pool: the ease is enjoyed, even envied, because the indolent man isn't failing at anything, he simply declines to exert himself."
+    },
+    {
+      "word": "feckless",
+      "nuance": "The only one that indicts a **whole life's results**. It doesn't say he's slow or unwilling — it says nothing he touches ever comes to anything, promises included. The tone is dismissive write-off rather than anger, and it sticks to the person, never to a task or an afternoon."
+    },
+    {
+      "word": "shirk",
+      "nuance": "The only verb that requires an **obligation** as its object, and the only word that implies a **victim** — the duty didn't evaporate, someone else is now carrying it. That's why it's the standard word when the failure is moral: you can dawdle harmlessly, but you cannot shirk harmlessly."
+    },
+    {
+      "word": "dilatory",
+      "nuance": "Purely about **timing**, and uniquely it allows the delay to be a **tactic** — dilatory motions, dilatory replies, stalling as strategy. It's also the most bureaucratic: it belongs in memos, filings and letters from solicitors, where you're building a case rather than expressing irritation."
+    },
+    {
+      "word": "dawdle",
+      "nuance": "The mildest, and the only one with no defiance or duty behind it — the dawdler is genuinely en route, just drifting. Wasted time is **unintentional** here, which is why \"stop dawdling\" is what you say to a child on the walk home, not what you write in a performance review."
+    },
+    {
+      "word": "slovenly",
+      "nuance": "Judges the **product, not the pace** — the work may have been finished on time and still be slovenly. It's the only one that shows: grubby collar, unwashed dishes, slapdash prose. It also carries visible disdain, so it lands as an insult and almost never as self-description."
+    },
+    {
+      "word": "desultory",
+      "nuance": "Blames **scattered attention**, not unwillingness: effort was expended, it just hopped about and drooped. It's the only word here that attaches naturally to an activity rather than a person — a **desultory** conversation, **desultory** revision — and it needs both ingredients, aimless *and* half-hearted."
+    }
+  ],
+  "exam_note": "The GRE picks the axis in the sentence and hides it in one clause — \"in order to postpone the vote\" forces *dilatory* over *indolent*, \"flitting between chapters\" forces *desultory*, \"left his colleagues to finish it\" forces *shirk*; the trap answers are the ones that merely sound lazy."
+}

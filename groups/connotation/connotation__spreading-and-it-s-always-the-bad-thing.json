@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__spreading-and-it-s-always-the-bad-thing",
+  "title": "Spreading — and it's always the bad thing",
+  "seed_words": [
+    "rampant",
+    "proliferate",
+    "fester",
+    "recrudescent",
+    "encroach",
+    "invasive"
+  ],
+  "hallucinated": null,
+  "core": "All six describe something getting bigger, deeper, or further in than it should, and in every case the word itself supplies the disapproval — the writer has already ruled on whether this is welcome. What separates them is which axis the complaint runs along: absence of restraint, mechanism of multiplication, decay from neglect, return after dormancy, movement across a boundary, or foreign occupation of territory. Two of them (the biological/medical ones) keep a genuinely neutral technical use; the rest cannot be salvaged into praise.",
+  "words": [
+    {
+      "word": "rampant",
+      "nuance": "The only one that describes a **state rather than a process**: it's already everywhere and nothing is stopping it. The grievance is aimed past the thing itself at whoever should have been holding the brake — **rampant** corruption indicts the regulator, not just the bribes."
+    },
+    {
+      "word": "proliferate",
+      "nuance": "Specifies the **mechanism**: numbers, by self-copying, each instance seeding the next. It is the only one here that's really about *count*, and the only one with a legitimate transitive use — you can **proliferate** weapons, i.e. be the cause. Also the group's softest connotation: in cell biology it's simply neutral."
+    },
+    {
+      "word": "fester",
+      "nuance": "The odd one out — nothing spreads. It **stays put and rots**, getting more poisonous exactly because it was left alone. The blame is retrospective and personal: a **festering** grievance was fixable once, and someone chose not to."
+    },
+    {
+      "word": "recrudescent",
+      "nuance": "The axis is **time, not size**: this is the second outbreak. It insists the thing never actually ended, only went quiet under the surface. Formal and clinical in register — reserved for plagues, feuds, and old wounds, never for a revived fashion or a comeback."
+    },
+    {
+      "word": "encroach",
+      "nuance": "The only one that requires a **victim with a boundary** — it takes something *from* someone: land, authority, time. Advance is incremental by definition, so no single step is objectionable, and the word is nearly always spoken by the side losing ground. Note the mandatory **on/upon**."
+    },
+    {
+      "word": "invasive",
+      "nuance": "The emphasis is **foreignness and occupation**: something that belongs elsewhere is now inside and taking over. Where *encroach* tracks the creeping motion, **invasive** describes the established footprint. Aimed at a person it's an accusation of trespass; in \"invasive species\" or \"invasive procedure\" it carries no anger at all."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable intensifiers of \"spreading\" — pick by axis (no brake / self-copying / neglect / recurrence / boundary crossed / foreign occupation), and remember that *proliferate* and *invasive* can be clinically neutral while the rest are always a complaint."
+}

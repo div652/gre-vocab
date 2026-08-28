@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__attacking-a-reputation",
+  "title": "Attacking a reputation",
+  "seed_words": [
+    "belittle",
+    "denigrate",
+    "defame",
+    "vilify",
+    "calumny"
+  ],
+  "hallucinated": null,
+  "core": "All five are ways of talking someone down — lowering how they are regarded, by the listener or by the world. They differ on three axes: whether the attack must be **false**, whether it must be **public**, and how **wicked** the target ends up looking. At the low end the victim merely seems small and unimpressive; at the high end they seem evil, and the attacker seems like a liar. Most of these words judge the speaker as much as the target.",
+  "words": [
+    {
+      "word": "belittle",
+      "nuance": "The only one that needs no audience and makes no accusation — **belittle** shrinks, it does not blacken. The target ends up looking minor, not wicked, and the classic scene is one-on-one and perfectly polite: a boss, a parent, a rival. It also uniquely attaches to non-persons — a fear, a grievance, an achievement can be belittled."
+    },
+    {
+      "word": "denigrate",
+      "nuance": "Where *belittle* can be one condescending remark, **denigrate** is the sustained running-down of someone's worth or reputation, and the word itself rules the attack undeserved. Crucially it requires no lie — unfair emphasis, sneering, faint praise all denigrate. Formal: the verb of editorials and HR complaints."
+    },
+    {
+      "word": "defame",
+      "nuance": "Falsity and publicity are both mandatory here — **defame** is the legal-technical member, splitting into libel and slander. Truth is a complete defence: however savage the statement, if it is accurate you have not defamed. Note the shift in victim — *belittle* damages how you see yourself, **defame** rewrites how everyone else sees you."
+    },
+    {
+      "word": "vilify",
+      "nuance": "The only one that specifies the *content* of the attack: **vilify** paints the target as evil, contemptible, someone fit to be hated. It needs a crowd and time — a press campaign, not a courtroom claim — and unlike *defame* it needs no provable lie, only distortion. It usually arrives as \"unfairly vilified,\" the writer taking the target's side."
+    },
+    {
+      "word": "calumny",
+      "nuance": "The only noun: **calumny** names the lie itself, or the practice of telling it, so it takes articles and plurals — *a calumny*, *spread calumnies*. It out-moralises *defame*: same falsehood, but with deliberate malice and the speaker's disgust attached, and none of the legal machinery. Use it when you want the accusation to sound shameful rather than actionable."
+    }
+  ],
+  "exam_note": "The trap is the falsity axis: only **defame** and **calumny** entail a lie, so a sentence stipulating \"though every word was true\" kills them and rewards **denigrate**/**vilify** — and **calumny**'s noun slot is often the cleanest structural giveaway."
+}

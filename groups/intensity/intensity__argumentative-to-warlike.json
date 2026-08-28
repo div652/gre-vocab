@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__argumentative-to-warlike",
+  "title": "Argumentative to warlike",
+  "seed_words": [
+    "contentious",
+    "pugnacious",
+    "truculent",
+    "belligerent"
+  ],
+  "hallucinated": null,
+  "core": "All four describe hostility as a *trait* rather than a passing mood — a person set up to fight, or a thing set up to be fought over. None of them means merely angry; anger is provoked and passes, while these describe how someone is standing before you say anything. What separates them is how far along the fight is: still an argument, an appetite for one, a scowl daring you to start it, or blows already being exchanged. Register splits them too — one belongs to committee minutes, one to war reporting, one to arrest reports.",
+  "words": [
+    {
+      "word": "contentious",
+      "nuance": "The only one that fits an inanimate thing — a **contentious** clause, border, or nomination is the *object* people fight over, and that use is nearly neutral. Even applied to a person it stays at the level of argument: talk, objections, disputes, never fists. It's the word a performance review or a court opinion would use."
+    },
+    {
+      "word": "pugnacious",
+      "nuance": "The appetite word. **Pugnacious** is the only one here that can flatter — it implies energy, relish, and a willingness to punch above your weight (the trial lawyer, the small striker who won't be bullied). The fighting is usually verbal, and the speaker is often enjoying the spectacle rather than condemning it."
+    },
+    {
+      "word": "truculent",
+      "nuance": "The only sullen one. **Truculent** points downward and inward — it's the scowl, the arms folded, the subordinate radiating a dare at authority (the truculent witness, the truculent teenager). No relish, no charm; the aggression is withheld and glowering, waiting for you to supply the excuse. Of prose, it means savagely out to wound."
+    },
+    {
+      "word": "belligerent",
+      "nuance": "The fight has already started. **Belligerent** is a posture leaning in — voice up, chest out, no sulking held in reserve. Uniquely, it doubles as a technical noun for a state at war, so it swings between the Geneva communiqué and the police report about the man who wouldn't leave the bar."
+    }
+  ],
+  "exam_note": "The exam separates these by *what they attach to* and *who is looking*: only contentious takes an issue as its subject, only pugnacious can be admiring, only truculent supplies the sulk, and only belligerent names a warring state."
+}

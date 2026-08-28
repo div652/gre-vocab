@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__rash-to-reckless",
+  "title": "Impulsive to foolhardy: acting before thinking",
+  "seed_words": [
+    "impulsive",
+    "impetuous",
+    "foolhardy"
+  ],
+  "hallucinated": null,
+  "core": "All three describe action that outruns judgment — the deed happens before deliberation catches up. They share a mild-to-strong disapproval that is aimed at the *absence of thought*, not at bad intent; nobody described this way is malicious, only unbraked. What separates them is what fills the gap where thought should have been: nothing at all, heat, or nerve. They also differ in whether they label a person's standing habit or a single spectacular decision.",
+  "words": [
+    {
+      "word": "impulsive",
+      "nuance": "The only one where risk never entered the picture — there is no danger being defied, just no pause. It labels a **temperament** you'd describe over years rather than one decision, which is why it can be said fondly about a friend."
+    },
+    {
+      "word": "impetuous",
+      "nuance": "The gap is filled by **feeling** — anger, love, pride — so it carries heat and forward motion. It attaches to a single headlong act with a whiff of romance (an impetuous proposal, an impetuous resignation), and leaves the reader half-impressed by the fire."
+    },
+    {
+      "word": "foolhardy",
+      "nuance": "The only one that requires **visible danger** and real nerve spent on it. The actor saw the drop and jumped anyway, so the word is a verdict on the odds — it implies this will end badly, where the other two only imply it was unconsidered."
+    }
+  ],
+  "exam_note": "All three fit \"acted without thinking,\" so the sentence must name the discriminator: an emotion word points to impetuous, a stated hazard or feat of nerve to foolhardy, and a bare description of character to impulsive."
+}

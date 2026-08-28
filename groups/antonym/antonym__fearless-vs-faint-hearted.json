@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__fearless-vs-faint-hearted",
+  "title": "Fearless vs. faint-hearted",
+  "seed_words": [
+    "intrepid",
+    "valor",
+    "plucky",
+    "mettlesome",
+    "fortitude",
+    "redoubtable",
+    "craven",
+    "timorous",
+    "skittish",
+    "diffident"
+  ],
+  "hallucinated": null,
+  "core": "All ten sit on one axis: something threatening arrives, and the person either holds or folds. What separates them is almost never *how much* nerve — it's what kind of pressure is applied (a battle, a long illness, a decision, a bigger opponent), whether the word names a single act or a standing temperament, and what the speaker is doing by choosing it: saluting, patting on the head, or filing a charge. The praise half splits by shape of courage — going out, holding on, or looming over someone else. The fear half splits by *what* is feared — the danger, the decision, or oneself.",
+  "words": [
+    {
+      "word": "intrepid",
+      "nuance": "The only courage word here that points **outward and forward**: **intrepid** people go somewhere — into the unknown, the field, the story — and keep going. Where the others describe withstanding what arrives, this one describes setting off, and it's the one word in the group that survives comic deflation (\"our **intrepid** correspondent\")."
+    },
+    {
+      "word": "valor",
+      "nuance": "The ceremonial noun: **valor** is what gets written on a citation, and it presumes combat or a rescue — a moment, witnessed, and rewarded. Unlike the temperament words, it names a deed rather than a disposition, which is why it sounds absurd applied to a raise negotiation."
+    },
+    {
+      "word": "plucky",
+      "nuance": "The only word graded against **size**: **plucky** requires an underdog, so it cannot be paid to anyone who was already winning. It's also the one compliment here with condescension baked in — the commentator's word for the side that lost well."
+    },
+    {
+      "word": "mettlesome",
+      "nuance": "Courage as **surplus energy** rather than steadiness: **mettlesome** subjects strain at the bit, eager for the fight, possibly more spirit than the handler wants. It's the horse word — where fortitude sits still, this one won't."
+    },
+    {
+      "word": "fortitude",
+      "nuance": "The passive, long-haul member: **fortitude** is measured in months, not seconds, and it is shown by *not collapsing* rather than by acting. Nothing charges, nothing sparkles — it's the ward and the trial, and quiet dignity is part of the definition."
+    },
+    {
+      "word": "redoubtable",
+      "nuance": "The only one measured from the **opponent's** side of the table: **redoubtable** says nothing about what the person feels, only that facing them is unwise. It's admiration paid with a wary bow — the word for a rival, never for a comrade."
+    },
+    {
+      "word": "craven",
+      "nuance": "A **moral verdict**, not a description of nerves: **craven** asserts there was a duty to stand and the person sold it to save themselves. It's the only fear word that's an accusation — its natural objects are capitulation, silence, appeasement, and nobody ever applies it to themselves."
+    },
+    {
+      "word": "timorous",
+      "nuance": "A settled disposition of **hedging before a decision**: the **timorous** shrink from acting at all, so the word suits committees and officials who will not commit. No moral charge as in craven, no jumpiness as in skittish — just chronic, bookish irresolution."
+    },
+    {
+      "word": "skittish",
+      "nuance": "A **hair trigger**, not a temperament: the **skittish** were fine a second ago and bolted at nothing, and the word's whole implication is that the reaction was out of proportion. It's the only fear word that attaches naturally to horses and markets, and it's belittling rather than damning."
+    },
+    {
+      "word": "diffident",
+      "nuance": "The odd one out: nothing dangerous is present, because what the **diffident** person doubts is **themselves**. The retreat is from claiming credit or speaking up, not from a threat — and the speaker is usually sympathetic, thinking the self-assessment is wrong."
+    }
+  ],
+  "exam_note": "The exam rarely tests these as pure opposites — it plants one qualifier (a long illness, a smaller team, a decision unmade, no danger at all) and only one word matches that dimension, so pairing \"brave/cowardly\" by degree gets you a trap answer."
+}

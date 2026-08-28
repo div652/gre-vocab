@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__official-approval-vs-official-condemnation",
+  "title": "Official approval vs. official condemnation — and the tolerance in between",
+  "seed_words": [
+    "approbation",
+    "sanction",
+    "condone",
+    "countenance",
+    "censure",
+    "denounce",
+    "decry",
+    "opprobrium",
+    "indictment"
+  ],
+  "hallucinated": null,
+  "core": "These are all verdicts handed down on someone's conduct, and almost all of them come from a position with standing to judge: a board, a court, a government, a public. They run along one axis — actively bless it, quietly let it pass, or publicly damn it — and the middle of that axis is where the confusion lives, because \"not objecting\" reads like approval but is not. Note also that the condemnation words differ less in meaning than in machinery: who speaks, to whom, about a person or a practice, and whether the word names the act of condemning or the disgrace left behind.",
+  "words": [
+    {
+      "word": "approbation",
+      "nuance": "The only unmixed praise in the group: it confers **esteem**, not permission. A board's approbation says *you did well*; its sanction says *you may proceed* — you can receive approbation for something already finished and unauthorised."
+    },
+    {
+      "word": "sanction",
+      "nuance": "Authorisation, not admiration — the permission-granting verb of licensing boards and governments, indifferent to whether the thing is admirable. It's also the one word that crosses to the other side of this group: as a plural noun it's a coercive penalty meant to change behaviour."
+    },
+    {
+      "word": "condone",
+      "nuance": "The weakest thing here that still counts as acceptance, and the only one that requires the object to be **wrong** — you cannot condone a good deed. No authority needed; anyone can condone by declining to object, which is why it surfaces almost entirely as *I do not condone*."
+    },
+    {
+      "word": "countenance",
+      "nuance": "Like *condone*, it means to let something stand — but the thing tolerated needn't be an offence, and the subject is typically someone with the standing to **forbid** it. Watch the habitual negative frame: *would not countenance dissent* draws a line of authority, not a statement of taste."
+    },
+    {
+      "word": "censure",
+      "nuance": "Condemnation as a **procedure** — a vote, a ruling, an entry on the record from a body entitled to pass it. It is also the entire punishment: the censured official keeps job and salary and simply wears the mark."
+    },
+    {
+      "word": "denounce",
+      "nuance": "Points at a **person**, in public, with the speaker's own name behind the charge — and it recruits: it demands the audience share the outrage rather than merely register a fault. It alone carries the secondary sense of informing on someone to the authorities."
+    },
+    {
+      "word": "decry",
+      "nuance": "Aims at a **practice, trend, ruling or condition** rather than at a culprit — you decry the shortage, you denounce the man who caused it. It's the word for taking a public moral stance, often more posture than argument, and it needs no institutional standing at all."
+    },
+    {
+      "word": "opprobrium",
+      "nuance": "Not an act of condemning but the **mass of scorn itself** — a crowd's, not a judge's — and, in its second life, the lasting disgrace: you heap it on a man and he lives under it. Because it's a noun for the atmosphere, it needs no named speaker."
+    },
+    {
+      "word": "indictment",
+      "nuance": "Frames the condemnation as **evidence rather than opinion** — a formal charge, or a fact so damning it makes the charge on its own (*the report is an indictment of the system*). Crucially it accuses without concluding: it opens the case, where censure closes one."
+    }
+  ],
+  "exam_note": "The classic trap is *sanction* as a contronym; the subtler one is treating *condone* or *countenance* as endorsement when a sentence demands active praise (*approbation*) — both mean only that no objection was raised."
+}

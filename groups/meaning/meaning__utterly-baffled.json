@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__utterly-baffled",
-  "title": "Utterly baffled",
+  "title": "Baffled: fogged, stumped, stalled, outmatched",
   "seed_words": [
     "befuddled",
     "flummoxed",
     "nonplussed",
     "confound"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a mind that has stopped working on the problem in front of it. The differences are in *where the failure sits*: in the head (a fog), in the puzzle (a wall), in the response (a blank), or in the contest (a defeat). They also split hard on tone — two are informal and faintly comic, two are formal and let the confused party keep their dignity.",
+  "words": [
+    {
+      "word": "befuddled",
+      "nuance": "The fog is **inside the head** — the faculties themselves are dulled, so the person isn't tracking anything, not just this one problem. It's the only one that routinely comes from an agent that muddles you (drink, jargon, a lawyer's cross-examination), and the only one that quietly implies the subject is slow."
+    },
+    {
+      "word": "flummoxed",
+      "nuance": "The wits are fine; the **specific puzzle** beat them. You know exactly what you're looking at — the flat-pack instructions, the error message — and have no move. It's the most visible of the four (it shows on your face) and the one people cheerfully apply to themselves, because the joke is on the problem as much as on them."
+    },
+    {
+      "word": "nonplussed",
+      "nuance": "You may understand perfectly — what fails is the **reply**. It's a stall in the response system after something socially unaccountable, and it exonerates you: the world was strange, not you. Formal, and the only one about being struck speechless rather than about not comprehending."
+    },
+    {
+      "word": "confound",
+      "nuance": "The only **verb**, and the only one where something *wins*. It takes abstract objects the others can't — predictions, critics, expectations — and carries two senses beyond bewilderment: to defeat what was forecast, and to conflate two things that should stay apart."
+    }
+  ],
+  "exam_note": "Two traps: **nonplussed** is baited with the popular-but-wrong \"unfazed\" sense (it means the opposite — stalled, not unbothered), and **confound** shows up on the test far more often as \"defeat expectations\" or \"conflate\" than as plain \"bewilder.\""
 }

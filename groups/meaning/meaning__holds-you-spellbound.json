@@ -9,5 +9,29 @@
     "arresting",
     "tantalizing"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Every word here describes something that takes your attention rather than asking for it. The power sits in the object, not in you: you don't decide to keep looking, you find that you already are. They split on three questions — how long the hold lasts, whether the thing wants something from you, and whether you actually get what it's promising.",
+  "words": [
+    {
+      "word": "enthrall",
+      "nuance": "The longest and most total hold: **enthralled** is a state you stay in, unaware of the room, the clock, or anyone talking to you. Where **arresting** is a single seized instant, this one is sustained absorption — and unlike **beguile**, nothing is being extracted from you; the surrender is the whole experience."
+    },
+    {
+      "word": "enchant",
+      "nuance": "The only one with an actual spell behind it, and the warmest in tone — **enchanted** implies fondness, softness, a little romance. It's what a voice or a child or a village does to you; **enthrall** can grip you with a thriller or a war documentary, but nothing grim ever **enchants**."
+    },
+    {
+      "word": "beguile",
+      "nuance": "The only one that may want something. **Beguile** puts a possible motive inside the pleasure — you are charmed *into* doing or believing something, and the charm is what got past your guard. If a sentence carries any whiff of a con, a flatterer, or a lowered defense, this is the word; the others are innocent of intent."
+    },
+    {
+      "word": "arresting",
+      "nuance": "Sudden and instantaneous where the others are durational — it names the stop, not the state that follows. It's also the coolest in temperature: a critic's word, and the one that works for things too odd or severe to be called lovely. Nothing **arresting** need be pleasant; everything **enchanting** must be."
+    },
+    {
+      "word": "tantalizing",
+      "nuance": "The only one that withholds. The others deliver what they promise; **tantalizing** dangles it just past your reach, so the defining feeling is frustration, not satisfaction. Remove the gap — the closed door, the missing last clue, the \"tantalizingly close\" result — and the word no longer applies."
+    }
+  ],
+  "exam_note": "The GRE tests the conditions, not the pleasure: pick **tantalizing** only if the sentence supplies something unattained, **beguile** only if it supplies a motive or a lowered guard, and **arresting** only if the effect is a sudden halt rather than a lasting hold."
 }

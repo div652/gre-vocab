@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__boredom-to-total-inertia",
+  "title": "Boredom to total inertia",
+  "seed_words": [
+    "ennui",
+    "lassitude",
+    "torpor"
+  ],
+  "hallucinated": null,
+  "core": "All three name a settled low-energy state in which nothing gets done — not a mood that passes but one that has set in. None of them is an accusation: in each case the person is described as *afflicted*, not blamed, which is what separates the whole group from laziness, sloth, or indolence. They differ in where the deficit sits — in your interest, in your body, or in your motion at all — and in how far gone you are.",
+  "words": [
+    {
+      "word": "ennui",
+      "nuance": "The only one where the failure is in the **world**, not in you: you have the energy to act, nothing just seems worth acting on. It requires a subject refined enough to be disappointed — an aristocrat, a poet, a bright bored teenager — and never a fever patient or a government agency."
+    },
+    {
+      "word": "lassitude",
+      "nuance": "The deficit is physical and has usually been *caused*: heat, illness, convalescence, months of grief. Unlike **ennui** the sufferer may want very much to get up and cannot; unlike **torpor** they are still awake to it, and the word keeps a soft melancholy that torpor has burned off."
+    },
+    {
+      "word": "torpor",
+      "nuance": "The end of the scale: not weary, not disenchanted, simply **not moving**. It is the coldest and most clinical of the three — it drops feeling entirely, which is why it alone stretches to bodies without minds (a hibernating animal) and to institutions (*decades of administrative torpor*)."
+    }
+  ],
+  "exam_note": "Watch the subject of the sentence: only **torpor** takes an economy, a bureaucracy, or a hibernating animal, and only **ennui** requires someone with tastes to be bored of."
+}

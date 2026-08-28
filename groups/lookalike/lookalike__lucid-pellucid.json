@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__lucid-pellucid",
-  "title": "lucid / pellucid / placate…",
+  "title": "lucid / pellucid / placate / placid",
   "seed_words": [
     "lucid",
     "pellucid",
@@ -9,5 +9,25 @@
     "placid"
   ],
   "similarity": 0.7,
-  "auto": true
+  "auto": true,
+  "core": "Two unrelated Latin roots that blur at a glance: *luc-* \"light\" and *plac-* \"calm, please.\" The overlap isn't just spelling — all four sit in the same emotional weather of *nothing clouding, nothing churning*, so a wrong pick still reads plausibly in a sentence about clarity or calm. The dividing lines are hard ones, though: one root is about **light passing through** (prose, water, a mind), the other about **turbulence being absent or removed** (a surface, a person's anger). And only one of the four is a verb.",
+  "exam_note": "The trap is a blank that could take \"clear-headed\" or \"unruffled\" — check whether the sentence is about *understanding* (luc-) or *disturbance* (plac-), and whether it needs a verb with an angry object.",
+  "words": [
+    {
+      "word": "lucid",
+      "nuance": "The functional one: praise for **lucid** prose means you followed it, not that it was beautiful. It attaches to explanations, arguments, and minds — never to water or glass — and it's the only member with a clinical sense (a **lucid** interval in dementia or fever)."
+    },
+    {
+      "word": "pellucid",
+      "nuance": "The only one that can be literal transparency — a **pellucid** stream, **pellucid** air — and when applied to prose it praises the *luminousness*, not just the comprehensibility. Register is the tell: it's writerly, always complimentary, and slightly showy where *lucid* is workmanlike."
+    },
+    {
+      "word": "placate",
+      "nuance": "The only verb, and it requires a second party who is **already angry**; you do something to them. The implied concession is cheap and the tone faintly cynical — the calm is *manufactured*, whereas the plac- adjective describes calm that was simply there."
+    },
+    {
+      "word": "placid",
+      "nuance": "No prior anger, no audience, no effort — just a surface nothing disturbs: a lake, a face, a disposition. It's the only member that can insult, since unflappable slides into unexcitable (cows are **placid**), and unlike the luc- words it says nothing about being understood or seen through."
+    }
+  ]
 }

@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__devotion-that-stops-questioning",
+  "title": "Devotion that stops questioning",
+  "seed_words": [
+    "acolyte",
+    "disciple",
+    "apologist",
+    "deify",
+    "zealous"
+  ],
+  "hallucinated": null,
+  "core": "All of these come out of the religious cupboard and get used on secular targets: a founder, an economist, a party, a regime. Each marks the point where loyalty has replaced judgement — the devotee no longer weighs the thing, only serves it. And each aims its judgement at the devotee, not the object: the person being worshipped may be fine; the worshipping is what's being reported. Their connotations are set almost entirely by who is speaking, since practically no one applies these labels to themselves.",
+  "words": [
+    {
+      "word": "acolyte",
+      "nuance": "A word about **rank**, not belief. The **acolyte** attends — hovers, carries things, is present at the elbow — and typically comes in the plural, one of an interchangeable retinue. Unlike a disciple, no doctrine is required and nothing is being learned; the only content is proximity to power."
+    },
+    {
+      "word": "disciple",
+      "nuance": "The only one that requires **transmission**: a **disciple** absorbs a named person's teaching and carries it onward, so there must be an actual doctrine and an actual master. It's also the only one here that can be a straight honorific — \"a disciple of Keynes\" can be a credential — which is exactly why it stings when the tone turns."
+    },
+    {
+      "word": "apologist",
+      "nuance": "The only one whose charge attaches to the **thing defended** rather than the intensity of feeling. An **apologist** need feel no devotion at all; the accusation is that the arguments are dishonest cover for something the audience already regards as indefensible. Neutral defenders are advocates; this label presumes the verdict is already in."
+    },
+    {
+      "word": "deify",
+      "nuance": "A verb, and the strongest position on the scale: **deify** puts the object beyond criticism entirely, where no evidence could count against it. Grammatically it points at the idol, but the indictment lands on whoever is doing it — the biographers, the fans, the party faithful, who have surrendered the capacity to find fault."
+    },
+    {
+      "word": "zealous",
+      "nuance": "The only one needing no master and no idol — a **zealous** auditor serves a cause or a duty, possibly one nobody else cares about, and answers to no charismatic figure. It also describes **energy expended** rather than judgement surrendered, and it is the only word here you might survive being called: praise for the commitment, with a raised eyebrow at the temperature."
+    }
+  ],
+  "exam_note": "The exam sets these against neutral terms (supporter, advocate, adherent, eager) and scores the contempt in the sentence, not the dictionary — and reliably baits *apologist* toward \"one who apologises.\""
+}

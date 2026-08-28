@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__distance-read-as-coldness",
+  "title": "Distance read as coldness",
+  "seed_words": [
+    "aloof",
+    "remote",
+    "stolid",
+    "terse",
+    "callous"
+  ],
+  "hallucinated": null,
+  "core": "All five describe a gap where warmth was expected, and all five are named by the person on the cold end of it. But the gap has five different sources — a chosen stance, an unreachable interior, a blank one, a clipped mouth, a hardened conscience — and they carry wildly different charges. Two are near-verdicts on character, one is a slur on intelligence, one is a measurement of length, and one barely judges the person at all. The trap is treating them as interchangeable degrees of \"cold\" when they differ in what the coldness attaches to and who is to blame.",
+  "words": [
+    {
+      "word": "aloof",
+      "nuance": "The only one where the distance is a **posture** — held, maintained, and readable as a claim to being above the company. It needs a group the person could have joined and didn't, which is why it's said with a sting by whoever was left standing there."
+    },
+    {
+      "word": "remote",
+      "nuance": "**Remote** doesn't accuse anyone of anything: the person is courteous, present, and simply cannot be reached, as if answering from further back than the room. It's also the only word here that works with no person at all — a *remote* chance, a *remote* era — so the exam can drop the human sense entirely."
+    },
+    {
+      "word": "stolid",
+      "nuance": "The only one that insults the intelligence rather than the heart — it implies there's nothing behind the face to reach, not that something is being withheld. It attaches to expressions, bodies, and crowds standing there taking it, never to a witty reply or a cruel act."
+    },
+    {
+      "word": "terse",
+      "nuance": "The only member measured in **words**. The chill isn't stated, it's inferred from length — the reader supplies the irritation the shortness implies — and it's the only one that turns into praise when the subject is prose instead of a person."
+    },
+    {
+      "word": "callous",
+      "nuance": "The only one that requires a **victim**: someone must be suffering for the word to apply, which makes it a moral accusation rather than a description of manner. It's also the only acquired one — hardened onto a person by long exposure — and it lands cleanly on a single remark or decision, not just a temperament."
+    }
+  ],
+  "exam_note": "The distractors are sorted by what the coldness attaches to — a stance, a possibility, a face, a reply, an act — so check the object in the sentence before the connotation: only one of these can be blamed for someone's pain, and only one can modify a chance."
+}

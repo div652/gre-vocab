@@ -7,5 +7,21 @@
     "obdurate",
     "stolid"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three describe someone who fails to respond to pain the way a person is supposed to — the plea is made, the tears are shed, and nothing comes back. The difference is *where* the failure sits: in the sympathy (nothing is felt), in the will (something is felt and overridden), or merely in the face (nothing shows). Two of them are moral charges; one is closer to an insult about temperament.",
+  "words": [
+    {
+      "word": "callous",
+      "nuance": "The failure is in the **sympathy itself** — the plea doesn't register, so there's nothing to refuse. **Callous** is also the only one of the three that attaches comfortably to *words and acts* (a callous joke, a callous disregard for tenants), and it implies a history: the softness was worn off by exposure."
+    },
+    {
+      "word": "obdurate",
+      "nuance": "The failure is in the **will**, not the perception. **Obdurate** requires that the suffering be fully visible — the widow is at the door, the evidence is on the table — and you decline to be moved anyway; it modifies the refusal as much as the person (an obdurate silence, an obdurate creditor). Formal and near-biblical, and the speaker is passing sentence, not reporting."
+    },
+    {
+      "word": "stolid",
+      "nuance": "The failure is only on the **surface** — the flat face, the unraised eyebrow — and says nothing about conscience; a **stolid** man may be perfectly decent, just visibly unexcitable. The sting is *dullness*, not cruelty: it suggests slow blood and an empty interior rather than a hardened one, and it is not an accusation you could level at a remark or a policy."
+    }
+  ],
+  "exam_note": "The classic trap is treating **stolid** as a synonym for the other two: it describes affect and temperament, never moral hardness — sentences about *refusing to relent despite pleading* want **obdurate**, and *indifference to others' pain* wants **callous**."
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__how-widespread",
+  "title": "How widespread: rooted, saturated, or everywhere",
+  "seed_words": [
+    "endemic",
+    "pervasive",
+    "ubiquitous",
+    "omnipresent"
+  ],
+  "hallucinated": null,
+  "core": "All four say a thing is not an isolated occurrence — it is spread across a space, a system, or a population, and it stays there. They diverge on *how* the spread works: whether it is confined to one place and rooted in it, soaked into the substance of a single thing, replicated in countless places, or simply there the whole time with no escape. The scale runs from bounded-but-permanent up to inescapable-by-definition. Register matters too: two of them start in technical or theological vocabulary and carry that weight into figurative use.",
+  "words": [
+    {
+      "word": "endemic",
+      "nuance": "The only one that **narrows** rather than widens: it names a specific place or group and implies the thing belongs *there* and largely stops at the border (*endemic to Madagascar*, *endemic to the ministry*). It contributes permanence, not extent — a disease can be endemic to one village while being unknown elsewhere. Almost always takes *to* or *in*, and figuratively it reads as an indictment of a structure rather than a description of coverage."
+    },
+    {
+      "word": "pervasive",
+      "nuance": "The penetration word: it describes one thing soaked through from the inside, not many things scattered about. It attaches to what has no edges — a smell, a mood, a bias, an assumption, damp in a wall — and implies the stuff got into the material where you wouldn't think to look. You can say bias is **pervasive** in a single hiring process; you cannot say it is omnipresent there."
+    },
+    {
+      "word": "ubiquitous",
+      "nuance": "Counts locations. It wants discrete, repeatable items — logos, chains, smartphones, a particular phrase — appearing at every point you sample. Where *pervasive* saturates one system, **ubiquitous** means many copies, many sites. It also carries a dry weariness with fads (*the ubiquitous avocado toast*) that the others lack, though it turns neutral or admiring for infrastructure."
+    },
+    {
+      "word": "omnipresent",
+      "nuance": "A single presence that is there the whole time, not many instances — which is why it feels like surveillance or divinity rather than distribution. Its theological origin is never fully spent, so everyday use is hyperbole with a wink or a grudge: an **omnipresent** manager, an **omnipresent** summer song. Strongest of the four, and the only one whose literal sense is a metaphysical impossibility for ordinary objects."
+    }
+  ],
+  "exam_note": "The trap is treating *endemic* as a synonym for widespread — GRE contexts reward the reader who sees it means confined to and rooted in one place; the *pervasive*/*ubiquitous* split turns on saturating one thing versus recurring in many."
+}

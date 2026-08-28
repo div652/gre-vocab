@@ -8,5 +8,21 @@
     "salutary"
   ],
   "similarity": 0.68,
-  "auto": true
+  "auto": true,
+  "core": "Two of these are genuine relatives, from Latin *salus* (health, wellbeing), and both mean roughly \"good for you\" in a formal register — which is exactly why they get swapped. The third only shares the sound: it comes from *lugere*, to mourn, and has nothing to do with health at all. So the real work is twofold: don't let the -ubrious ending drag the mournful one into the health family, and then split the two health words by what they attach to — a *place* versus an *experience*, a pleasant condition versus an unpleasant one that improved you.",
+  "exam_note": "The trap is the sound, not the sense: a health/climate blank baits **salutary** (which needs a lesson or shock, not air), a lesson/warning blank baits **salubrious**, and any gloomy context baits **lugubrious** into a slot where a plain \"sad\" word belongs.",
+  "words": [
+    {
+      "word": "lugubrious",
+      "nuance": "The impostor — no health sense whatsoever, and the only negative word here. It describes a *performance* of gloom seen from outside, with a raised eyebrow: the drooping waiter, the funeral-organ ballad. If the sentence is about wellbeing in any direction, this word is wrong."
+    },
+    {
+      "word": "salubrious",
+      "nuance": "Attaches to **surroundings** — air, climate, a coastline, a district — never to a lesson or a shock. What it describes is pleasant while you're in it, no sting involved. Watch its negative form: *insalubrious* has drifted from \"unhealthy\" to \"seedy,\" so it insults a neighbourhood's reputation, not its air quality."
+    },
+    {
+      "word": "salutary",
+      "nuance": "Attaches to **experiences**, and specifically to unwelcome ones: a salutary lesson, warning, shock, reminder. It names the good *effect*, not a good feeling — the point is that it stung and worked anyway. Stern and corrective where salubrious is merely wholesome; you'd never call sea air salutary in modern usage."
+    }
+  ]
 }

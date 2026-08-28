@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__orthodox-vs-heretical",
+  "title": "Orthodox vs. heretical",
+  "seed_words": [
+    "conventional",
+    "staid",
+    "hidebound",
+    "doctrinaire",
+    "dogmatic",
+    "iconoclastic",
+    "heterodox",
+    "radical",
+    "eccentric",
+    "fringe"
+  ],
+  "hallucinated": null,
+  "core": "Every word here places something relative to the accepted centre — the standard method, the official creed, the way the respectable people do it. One half sits at that centre, ranging from merely doing what's usual to refusing to let anything else be done; the other half sits outside it, ranging from a mildly odd habit to a deliberate assault on what a field holds sacred. The traps are two: on the inside, whether the word simply describes normality or accuses someone of rigidity; on the outside, *what* deviates — a belief, a behaviour, a social position, or the depth of the proposed change — and whether the deviation earns admiration or contempt.",
+  "words": [
+    {
+      "word": "conventional",
+      "nuance": "The neutral floor of the orthodox side: it says only that something matches standard practice, with no resistance to change implied. Alone in this group it can be purely technical — *conventional weapons*, *conventional financing* — and its insult, when aimed at a person or a novel, is boredom, not stubbornness."
+    },
+    {
+      "word": "staid",
+      "nuance": "Alone here it targets **manner and mood** rather than belief — sober, sedate, buttoned-up. A staid firm has no doctrine to defend; it is simply too respectable to be interesting, which is why the word attaches to atmospheres (old banks, provincial towns) rather than to positions."
+    },
+    {
+      "word": "hidebound",
+      "nuance": "Adds active *resistance*: old rules are kept because they were inherited, and change is blocked as a result. Where **conventional** merely follows the room and **staid** merely bores it, **hidebound** says the thing cannot bend and the world has moved past it — the standard target is an institution, not a temperament."
+    },
+    {
+      "word": "doctrinaire",
+      "nuance": "The rigidity is a **theory** applied over the top of the facts. The failure is in the application: the doctrinaire reformer has a system and will impose it whatever the particular case looks like, which is why it collocates with named ideologies — *a doctrinaire Marxist*, *doctrinaire deregulation*."
+    },
+    {
+      "word": "dogmatic",
+      "nuance": "Twin of **doctrinaire**, but the failure is in the **argument**, not the application: this person won't hear you at all, because the question closed before you spoke. It describes the way opinions are asserted — flatly, as settled fact — and unlike **doctrinaire** it needs no elaborate theory behind it."
+    },
+    {
+      "word": "iconoclastic",
+      "nuance": "The only word here that **attacks**. Others merely differ; this one goes after the revered thing on purpose, and needs a genuinely sacred target — reputations, canons, founding assumptions. It's also the group's most admiring label, handed out by critics and obituaries as a compliment."
+    },
+    {
+      "word": "heterodox",
+      "nuance": "Dissent that stays **inside the tent**: it names beliefs departing from an official doctrine while still arguing with the creed rather than renouncing it or demolishing it. Strictly a word about *ideas*, never behaviour, and respectable enough that dissenters claim it for themselves — the opposite of **fringe**'s taint."
+    },
+    {
+      "word": "radical",
+      "nuance": "The odd one out: it measures **depth**, not defiance. A radical revision starts from the foundations and rebuilds, which is why the GRE pairs it with *change, overhaul, departure, rethink* — you can propose radical reform from inside the establishment, whereas **heterodox** and **fringe** describe where you stand relative to it."
+    },
+    {
+      "word": "eccentric",
+      "nuance": "Deviation in **behaviour**, with no ideas at stake and no threat attached — forty clocks, the same purple suit. It's the tolerant word: the oddity is stable, self-contained, and the speaker is amused rather than alarmed, where **fringe** would be dismissive and **iconoclastic** approving."
+    },
+    {
+      "word": "fringe",
+      "nuance": "Positional rather than substantive: it says only that something sits outside the centre of legitimacy, and quietly implies the centre deserves to be there — *fringe theories*, *the lunatic fringe*. Unlike **heterodox**, it strips the dissenter of a serious hearing; the judgement flips positive only when the centre is the establishment (*fringe theatre*)."
+    }
+  ],
+  "exam_note": "The exam rarely tests the obvious orthodox/heretical split — it makes you choose *within* one side, so pick on the specific axis: rigidity of manner (**dogmatic**) vs. rigidity of theory (**doctrinaire**) vs. rigidity of habit (**hidebound**); and, on the other side, behaviour (**eccentric**) vs. belief (**heterodox**) vs. standing (**fringe**) vs. depth (**radical**)."
+}

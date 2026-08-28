@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__faulty-to-deliberately-deceptive-argument",
+  "title": "Faulty → deliberately deceptive argument",
+  "seed_words": [
+    "fallacious",
+    "specious",
+    "sophistry"
+  ],
+  "hallucinated": null,
+  "core": "All three condemn reasoning rather than facts: the conclusion may even be correct, but the route to it doesn't hold. They are graded by two independent dials — how *attractive* the bad reasoning looks, and how *culpable* the person making it is. The ladder runs from a neutral structural verdict, to a verdict that the argument's polish is doing the work, to an accusation that the polish was applied on purpose.",
+  "words": [
+    {
+      "word": "fallacious",
+      "nuance": "The only one that stays silent on both appearance and motive: **fallacious** rates the logic alone, so a clumsy, unpersuasive argument nobody was ever fooled by is still fallacious. It's the diagnostic term — it invites you to name the error (affirming the consequent, hasty generalization), which the other two never do."
+    },
+    {
+      "word": "specious",
+      "nuance": "**Specious** adds the surface: the argument must have *looked* good, which is precisely the complaint. It scores the gap between shine and substance rather than the type of error, and it stops short of blaming anyone — a rationalization or an excuse can be specious with no one scheming behind it, only self-deception."
+    },
+    {
+      "word": "sophistry",
+      "nuance": "A noun for the whole practice or product, not an adjective for one flawed step — and the only member that indicts the arguer. **Sophistry** asserts the speaker knew better, so it cannot be said of an honest thinker who slipped; it's an accusation you make about hired advocates and ideologues, and it implies skill, never incompetence."
+    }
+  ],
+  "exam_note": "Traps hinge on plausibility and blame: **specious** never fits an argument described as transparently absurd (it must first persuade), and **fallacious** never fits when the passage stresses intent to deceive — that slot belongs to **sophistry**."
+}

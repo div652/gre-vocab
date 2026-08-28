@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__odd-to-tradition-smashing",
+  "title": "Odd to tradition-smashing",
+  "seed_words": [
+    "quirky",
+    "eccentric",
+    "heterodox",
+    "iconoclastic",
+    "radical"
+  ],
+  "hallucinated": null,
+  "core": "All five mark a departure from what's accepted — the norm, the convention, the received doctrine. They differ on two axes at once: **how far** the departure goes (a charming habit vs. a foundation torn up) and **what** it departs from (personal behaviour vs. a body of belief vs. the structure of a system). The low end is tolerated or enjoyed; the high end changes something. Confusion comes from treating them as interchangeable degrees of \"weird,\" when the top three aren't about weirdness at all.",
+  "words": [
+    {
+      "word": "quirky",
+      "nuance": "The smallest unit: several little oddities, none of them consequential. **Quirky** is the only one here that's a recommendation — you apply it to a café, a film, a friend you're fond of, and nothing is at stake in the deviation."
+    },
+    {
+      "word": "eccentric",
+      "nuance": "Scales up from habits to an entire settled way of living off-centre — and insists it's harmless. **Eccentric** is a permission slip, granted disproportionately to the rich, the old and the tenured; the same behaviour in anyone else gets called strange."
+    },
+    {
+      "word": "heterodox",
+      "nuance": "Switches the object from conduct to doctrine. **Heterodox** describes what you *believe* relative to an official creed — a church's, a discipline's, a party's — and it keeps you inside that tent, disagreeing rather than defecting, which is why rivals use it respectfully."
+    },
+    {
+      "word": "iconoclastic",
+      "nuance": "Not merely holding a different view but going at a revered one. **Iconoclastic** requires an object of reverence worth demolishing, and it's a label conferred by observers — profiles and obituaries — with admiration built in."
+    },
+    {
+      "word": "radical",
+      "nuance": "About depth, not defiance: to the root. **Radical** is the only one that needs no offended audience, no doctrine, no person — a revision, a departure, an overhaul can be radical simply by rebuilding from the foundations."
+    }
+  ],
+  "exam_note": "The GRE's favourite trap is treating **radical** as a synonym for extreme or drastic — it tests *fundamental/foundation-level*, often modifying an abstract noun (revision, departure) with no politics anywhere in the sentence; second trap is offering **eccentric** where the context is about beliefs, which needs **heterodox**."
+}

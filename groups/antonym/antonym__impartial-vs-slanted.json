@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__impartial-vs-slanted",
+  "title": "Impartial vs. slanted",
+  "seed_words": [
+    "disinterested",
+    "equitable",
+    "egalitarian",
+    "partial",
+    "tendentious",
+    "invidious",
+    "chauvinistic",
+    "polemical"
+  ],
+  "hallucinated": null,
+  "core": "Every word here judges whether a person, a text, or a distribution treats all sides fairly — or quietly tips toward one. The split is not just positive vs. negative: the \"fair\" words disagree about *what* fairness is (no stake in it, shares calibrated to desert, shares equal by principle), and the \"slanted\" words disagree about *how* the tilt works (unconscious affection, engineered disguise, open attack, group supremacy) and *who* it hurts. Choosing right means matching the word to what it attaches to — a role, an outcome, a system, a document, a temperament.",
+  "words": [
+    {
+      "word": "disinterested",
+      "nuance": "The only word here about **position rather than behaviour**: it says nothing about how you rule, only that you gain nothing either way. A **disinterested** judge could still rule badly; a person with a stake can still rule fairly and is still not disinterested. It attaches to roles built for trust — referee, auditor, trustee — and never to a document."
+    },
+    {
+      "word": "equitable",
+      "nuance": "Judges an **outcome or settlement**, not a person's motives, and its fairness is *calibrated*: each party gets what they are properly due, which is often deliberately unequal. **Equitable** is the verdict on one case; it presumes someone weighed the circumstances and decided who deserves what."
+    },
+    {
+      "word": "egalitarian",
+      "nuance": "A **principle about structures**, not a ruling on a case: equal status and rewards for everyone, regardless of desert or circumstance. That is exactly where it breaks from *equitable* — flattening the pay scale is **egalitarian**, paying by need or contribution is equitable, and the two can be in direct conflict."
+    },
+    {
+      "word": "partial",
+      "nuance": "The **mildest and most human** fault in the group — a soft tilt in a person, often unconscious and often driven by fondness rather than doctrine. It accuses you of leaning, not of scheming: nothing is engineered, nothing is proclaimed, and no cause is being served."
+    },
+    {
+      "word": "tendentious",
+      "nuance": "The slant is **engineered and disguised** — the piece wears the costume of neutral analysis while steering you to a conclusion. It attaches to things, never to temperaments: a **tendentious** survey question, footnote, history. Deceit is the whole charge, which is what separates it from the openly one-sided words."
+    },
+    {
+      "word": "polemical",
+      "nuance": "One-sided **by open declaration** — the exact opposite of tendentious concealment. Everyone can see it swings, and in an op-ed or a seminar that is fair play, even praise. **Polemical** describes the mode of attack, not a hidden agenda, so it is the only slanted word here that can be neutral or admiring."
+    },
+    {
+      "word": "invidious",
+      "nuance": "Scores the **effect on bystanders**: the act breeds resentment, envy, bad blood. An **invidious** comparison need not deceive or attack anyone — its sin is that it singles people out indefensibly and leaves someone aggrieved. The unfairness is measured in the ill will it creates downstream."
+    },
+    {
+      "word": "chauvinistic",
+      "nuance": "The only word whose bias has **fixed content** — my country, my sex, my team is superior, and yours is the worse for it. It attacks a **temperament**, not an argument or an outcome, and it makes the person look smug and slightly ridiculous rather than merely unfair."
+    }
+  ],
+  "exam_note": "Classic traps: *disinterested* baited with \"uninterested/bored,\" *equitable* baited with \"equal,\" and passages that call a work **tendentious** (slant hidden under a claim of objectivity) where a careless reader picks *polemical* (slant announced)."
+}

@@ -1,0 +1,47 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__proper-nouns-carrying-a-fixed-character",
+  "title": "Proper Nouns That Became Verdicts",
+  "seed_words": [
+    "byzantine",
+    "spartan",
+    "draconian",
+    "philistine",
+    "laconic",
+    "quixotic",
+    "chauvinistic"
+  ],
+  "hallucinated": null,
+  "core": "Every word here started as a name — an empire, a city, a lawgiver, a tribe, a knight, a soldier — and hardened into a permanent judgment about one trait. The origin is dead weight on the exam: you are never asked about Byzantium or Don Quixote, only about the single quality the name now stands for. The trap is that several of them describe rules, several describe bareness, and several describe a person's whole outlook, so they cluster into near-neighbours that are in fact answering completely different questions: is it *tangled*, or *harsh*? Is the *room* bare, or the *sentence*? Is the fool *lovable*, or *smug*?",
+  "words": [
+    {
+      "word": "byzantine",
+      "nuance": "**Byzantine** attacks a structure's *navigability*, not its cruelty. The complaint is that you cannot find your way through — layered clauses, hidden channels, procedures no one will explain — and that the maze conveniently protects whoever built it. A byzantine rule can be entirely lenient; it just takes six months and an insider to work out what it says."
+    },
+    {
+      "word": "draconian",
+      "nuance": "**Draconian** attacks *proportion*, and nothing else. The rule may be one sentence long and perfectly clear — that's the point; the penalty is simply wild against the offence. It targets policies and the people who write them, so it lands on a curfew, a sentencing law, an attendance code, never on a personality."
+    },
+    {
+      "word": "spartan",
+      "nuance": "**Spartan** describes *physical conditions* stripped by choice — the bunk, the cell, the unheated room, the plate with nothing on it. What separates it from poverty is discipline: someone could have added comfort and didn't. It's the only word here that can be sincere self-description, since austerity is something people boast about."
+    },
+    {
+      "word": "laconic",
+      "nuance": "**Laconic** applies the same stripping to *speech*, with an added charge spartan lacks: withheld words. The speaker had more to say and declined, so the shortness carries attitude — cool, dry, faintly withering. Judge it by what's implied, not by word count: a laconic reply is short *at* you."
+    },
+    {
+      "word": "philistine",
+      "nuance": "**Philistine** is a verdict on *taste*, and it is the only word here that indicts the speaker too — you can't use it without claiming a higher perch. The charge isn't ignorance of art but comfortable, unbothered contempt for it: the man who thinks a poem's uselessness settles the matter and is pleased with himself for saying so."
+    },
+    {
+      "word": "quixotic",
+      "nuance": "**Quixotic** is the group's one *warm* condemnation. It grants the person good motives and even gallantry, and faults only their grip on reality — the goal is worth wanting and cannot possibly be had. Nothing here is smug or self-serving; the quixotic figure is typically sacrificing something for a cause that will not repay him."
+    },
+    {
+      "word": "chauvinistic",
+      "nuance": "**Chauvinistic** is a verdict on *loyalty turned comparative*. Devotion alone isn't enough — the chauvinist requires outsiders to be inferior, which is why it slots so readily into \"male chauvinist.\" It paints the holder as boastful and faintly absurd rather than menacing, and it is never self-applied."
+    }
+  ],
+  "exam_note": "The classic swap is byzantine↔draconian (tangled vs. brutally harsh) and spartan↔laconic (a bare room vs. bare speech); expect the sentence's object — code, cell, reply, crusade — to be the only clue."
+}

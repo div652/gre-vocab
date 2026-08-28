@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__grouped-to-fully-merged",
+  "title": "Clustered, Coalesced, Amalgamated: Degrees of Becoming One",
+  "seed_words": [
+    "cluster",
+    "coalesce",
+    "amalgamate"
+  ],
+  "hallucinated": null,
+  "core": "All three describe separate things ending up together, and they sit on a line from \"near\" to \"no longer separate.\" The question each answers is how much individual identity survives the joining — do the parts remain countable, do they blur, or do they cease to exist as parts at all? A secondary axis runs alongside: whether anything is doing the joining, or whether it simply happens. Misreading a passage usually comes from assuming togetherness implies fusion.",
+  "words": [
+    {
+      "word": "cluster",
+      "nuance": "**Cluster** is the only one here that leaves the parts fully intact and countable — you can still point to each star, each case, each house. It reports concentration in space, time, or data without claiming any cause or connection, which is why epidemiologists and astronomers reach for it: it commits to nothing but proximity."
+    },
+    {
+      "word": "coalesce",
+      "nuance": "**Coalesce** is the parts losing their edges, gradually and with no one steering — mercury beads, rival factions, a half-formed plan. Unlike the other two it resists a subject doing the joining: things coalesce, you don't coalesce them, and the process is slow enough that there's a middle state where it's neither several nor one."
+    },
+    {
+      "word": "amalgamate",
+      "nuance": "**Amalgamate** is fusion by decision — boards, regulators, and statutes do it, and it finishes with one name and one balance sheet. It carries institutional scale and paperwork that the others lack, so it takes an object (*amalgamate the two departments*) and sounds absurd on anything small or organic."
+    }
+  ],
+  "exam_note": "Sentence equivalence pairs **coalesce** with **amalgamate** as if interchangeable — check whether the sentence supplies an agent doing the merging (amalgamate) or lets it happen on its own (coalesce); and never accept **cluster** where the sentence requires the parts to stop being distinct."
+}

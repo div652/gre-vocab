@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__adept-adroit",
-  "title": "adept / adroit / apt…",
+  "title": "adept / adroit / apt / inept",
   "seed_words": [
     "adept",
     "adroit",
@@ -9,5 +9,25 @@
     "inept"
   ],
   "similarity": 0.63,
-  "auto": true
+  "auto": true,
+  "core": "All four descend from Latin *aptus*, \"fitted, suited,\" and the family resemblance is real: each asks whether a person and a task are well matched. Three of them turn that fit into a judgement of skill — high, high-and-quick, or embarrassingly low — while one keeps the older, plainer meaning of suitedness. The near-identical shells (*-ept*, *-pt*, *ad-*, *in-*) make them easy to swap on sight, and the prefixes do not pair up the way they look like they should.",
+  "words": [
+    {
+      "word": "adept",
+      "nuance": "**Adept** is skill that was *built* — hours logged, technique now automatic — and it's the only one here that can be a noun, naming someone initiated into a difficult art. It attaches to a domain (*adept at cross-examination*), not to a single moment."
+    },
+    {
+      "word": "adroit",
+      "nuance": "**Adroit** rates a *manoeuvre*, not a résumé: the quick, well-judged move made under pressure, usually social or verbal. The praise is cool and slightly wary — you admire the footwork while noting how easily it could become slick."
+    },
+    {
+      "word": "apt",
+      "nuance": "**Apt** is the odd one out: its main GRE sense isn't skill at all but *fit* — the phrase that lands exactly right, or the neutral tendency in *apt to*. Where *liable to* and *prone to* forecast trouble, **apt to** predicts without disapproving."
+    },
+    {
+      "word": "inept",
+      "nuance": "**Inept** is the speaker's verdict, not a fact about training: the thing was botched *visibly*, with a wince attached. Note the prefix trap — it negates *apt*, but it means the opposite of *adept*, and it accuses of clumsiness rather than unfitness (*incompetent*)."
+    }
+  ],
+  "exam_note": "Two traps: sentence-equivalence pairs *apt to* with *liable/prone to* and counts on you missing that only *apt* is verdict-free; and antonym logic tempts you to read *inept* as the negation of *apt* when its live opposite is *adept*."
 }

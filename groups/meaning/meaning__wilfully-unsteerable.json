@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__wilfully-unsteerable",
-  "title": "Wilfully unsteerable",
+  "title": "Won't Be Steered",
   "seed_words": [
     "headstrong",
     "willful",
     "wayward",
     "restive"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a failure of control — someone or something that will not be directed by the person who is supposed to be doing the directing. Crucially, none of them means simply *immovable*: unlike *stubborn* or *obstinate*, which dig in and refuse to go, these words all involve motion that has escaped its handler. The differences are in who has slipped the leash, whether the escape is defiance or drift, and how much blame the speaker is assigning by choosing the word.",
+  "words": [
+    {
+      "word": "headstrong",
+      "nuance": "**Headstrong** is forward motion on one's own judgement — the person is going somewhere, just not where you said. It's the only one of the four with a warm edge: reserved for the young and spirited, it concedes force of character even while it complains, so a *headstrong* daughter is a problem you half admire."
+    },
+    {
+      "word": "willful",
+      "nuance": "**Willful** is an accusation, not a description — the speaker is laying blame, and the word can be sworn to in a courtroom. It's also the only one that extends past temperament to single acts done knowingly (*willful blindness*, *willful negligence*), where the sting is that you chose rather than slipped."
+    },
+    {
+      "word": "wayward",
+      "nuance": "**Wayward** is drift rather than defiance — nobody is being fought, the subject has just floated off the proper course, usually the moral one. Its tone is the preacher's or the disappointed parent's, softened by the hope of return, and it alone attaches freely to inanimate things with a mind of their own: a wayward strand of hair, a wayward pass."
+    },
+    {
+      "word": "restive",
+      "nuance": "**Restive** requires an authority in the frame and a grip that is starting to slip — troops, a crowd, a province, a horse under a rider. It is the one word here that describes a *collective mood under restraint* rather than an individual character, and it names the state just short of open revolt, which is why the press loves it."
+    }
+  ],
+  "exam_note": "The exam's favourite trap is **restive** ≠ *restless* — a restive crowd is on the edge of mutiny, not on the edge of sleep; the second-favourite is a **willful** answer where only the \"deliberate act\" sense fits the sentence, not the \"headstrong person\" one."
 }

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__wanting-money-charge-rising",
+  "title": "Wanting Money: The Charge Rising",
+  "seed_words": [
+    "acquisitive",
+    "avaricious",
+    "rapacious",
+    "covet",
+    "mercenary",
+    "venal"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these says money or property is doing the wanting. They separate on three axes: how much blame the speaker is assigning, whether there is a victim on the other side of the desire, and whether the fault is wanting too much or wanting the wrong thing in place of something better. The mild end describes a habit; the harsh end describes a crime with a person underneath it. Ordered below from coldest to most damning.",
+  "words": [
+    {
+      "word": "acquisitive",
+      "nuance": "The only member that can be a compliment. It names a settled habit of accumulating rather than a feeling of wanting, so it attaches happily to conglomerates and to minds (\"an acquisitive intellect\") — and it implies no victim at all, just a growing pile."
+    },
+    {
+      "word": "covet",
+      "nuance": "The only verb, and the only one fixed on one specific object that already has an owner: the neighbour's car, the colleague's job. The sin is envy, not accumulation, and it stays inward — you can covet for years and never move. Watch the participle: **coveted** is pure prestige."
+    },
+    {
+      "word": "mercenary",
+      "nuance": "Indicts a missing motive, not an excessive one. It requires a role that was supposed to run on something else — conviction, craft, friendship — and reports that the cheque replaced it. Nothing here is illegal or even excessive; a mercenary lawyer bills correctly and coldly."
+    },
+    {
+      "word": "avaricious",
+      "nuance": "The moralist's verdict on a whole character, and specifically about wealth — a glutton cannot be avaricious. Its motion is hoarding and clutching rather than seizing: the miser who will not spend, not the raider who takes. Saying it is passing sentence."
+    },
+    {
+      "word": "venal",
+      "nuance": "The only one describing a transaction, with a buyer on the other side. It needs a person holding a public duty — a judge, an inspector, a journalist — and says that duty has a price. *Mercenary* means money-motivated; **venal** means purchasable."
+    },
+    {
+      "word": "rapacious",
+      "nuance": "The only one that requires someone stripped bare. This is greed with power and reach behind it — conquerors, creditors, extractive industries — taking what belongs to others by force rather than merely craving or hoarding it. Purely condemnatory; nobody self-applies it."
+    }
+  ],
+  "exam_note": "The GRE swaps in *rapacious* where the sentence has no victim and *avaricious* where the sentence has a bribe — check for a person being taken from (rapacious) versus a price being paid (venal); also expect *coveted* used approvingly and *acquisitive* used neutrally of a firm, and never confuse *venal* with *venial* (pardonable)."
+}

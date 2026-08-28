@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__salire",
-  "title": "Root: salīre (to leap)",
+  "title": "Root: salīre (to leap) — leap at, leap between, leap back",
   "seed_words": [
     "assail",
     "desultory",
     "resilient"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *salīre*, \"to leap,\" survives in all three as a buried physical image, and the prefix decides where the leap goes: *at* a target, *away* from one thing to the next, *back* to the original shape. What unites them is motion under pressure — something springs, and the word records the direction. The confusion isn't that the meanings overlap (they barely do); it's that the shared root makes them feel related when they behave completely differently on the page. Two of the three describe force landing on something; the third describes energy that never lands anywhere at all.",
+  "words": [
+    {
+      "word": "assail",
+      "nuance": "*ad-* + *salīre*, leap **at**: the only one of the three that takes a direct object and names a victim — critics assail a proposal, doubts assail a person. It's the blow being struck, so it demands an aggressor (which can be an emotion), and it's the only word here you can be on the receiving end of."
+    },
+    {
+      "word": "desultory",
+      "nuance": "*de-* + *salīre*, leap **down and off** — from the *desultor*, the circus rider who vaulted between galloping horses. It's the odd one out: no target, no impact, nothing struck. It rates the *manner* of an effort as scattered and unbothered, and it's the only member that carries a droop of energy rather than force."
+    },
+    {
+      "word": "resilient",
+      "nuance": "*re-* + *salīre*, leap **back**: the aftermath word, and the only positive one. It doesn't describe the hit or the flailing — it describes returning to form afterward, which is why it quietly concedes that something already went wrong."
+    }
+  ],
+  "exam_note": "The root is a memory aid, not an answer key — the GRE tests these in unrelated sentences, and the trap is letting \"leap\" pull you toward motion words when *desultory* is really about half-heartedness and *resilient* about recovery."
 }

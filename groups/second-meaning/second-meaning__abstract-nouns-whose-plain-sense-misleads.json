@@ -1,0 +1,32 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__abstract-nouns-whose-plain-sense-misleads",
+  "title": "Common nouns whose everyday sense hides the tested one",
+  "seed_words": [
+    "economy",
+    "facility",
+    "latitude",
+    "repertoire"
+  ],
+  "hallucinated": null,
+  "core": "Each of these carries an everyday sense so dominant — national finances, a building, map coordinates, a concert programme — that it masks the sense the GRE actually tests. In every case the hidden meaning is about a person operating: how sparingly they use their means, how easily they execute, how much room they've been given, how much they have ready to deploy. Because the tested senses all sit in the same neighbourhood of *skill and resources*, they blur together once you strip away the concrete sense. The separations are sharp, though: one grades quality, one grades ease, one grades permission, one grades inventory.",
+  "words": [
+    {
+      "word": "economy",
+      "nuance": "The only one of these that praises **subtraction** — it's a verdict on what was left out, not a measure of what's available. It attaches to manner and means (of gesture, of line, of prose) and always implies deliberate control; you cannot have a large economy the way you can have a large repertoire."
+    },
+    {
+      "word": "facility",
+      "nuance": "Grades the **manner of execution** — the thing looks easy. Takes *with* or *for*, and points at fluency rather than stock or permission: someone can have a wide repertoire and no facility at all. Alone in this group it can quietly condescend — *a facility for excuses* says the ease came cheap."
+    },
+    {
+      "word": "latitude",
+      "nuance": "Not a property of the person at all — it's **granted by someone with authority** (a court, an editor, a board) and can be withdrawn. It measures permission, not capability; you can be given wide latitude and lack the skill to use it. Watch for the passive: *was allowed considerable latitude*."
+    },
+    {
+      "word": "repertoire",
+      "nuance": "The only **countable inventory** — it has size and breadth, and gets *expanded*, *limited*, *drawn from*. It says nothing about how well or how sparingly anything is done, only what is rehearsed and available on demand right now."
+    }
+  ],
+  "exam_note": "The prepositions give it away: economy *of*, facility *with/for*, latitude *to* (usually granted), repertoire *of* — and the surrounding passage will be about art, law or performance precisely so the concrete sense stays plausible."
+}

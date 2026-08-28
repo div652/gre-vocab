@@ -8,5 +8,25 @@
     "verisimilitude",
     "specious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these live in the gap between *seeming true* and *being true*. Each rates the surface — how convincing a claim, story, argument, or artifact looks on inspection — while leaving the underlying fact deliberately unsettled, or, at one end, settled against it. What separates them is exactly how far the speaker leans: toward belief, toward suspended judgment, toward admiration of craft, or toward outright dismissal. Watch also what each attaches to — a witness, an excuse, a stage set, a syllogism.",
+  "exam_note": "The exam sets **plausible** against **specious** and makes you find the falsity cue: if the sentence only withholds proof, it's *plausible*; if it supplies the collapse (\"until the audit exposed it\"), it's *specious* — and **verisimilitude**, the lone noun, needs a made thing to modify.",
+  "words": [
+    {
+      "word": "credible",
+      "nuance": "The only one here that actually leans toward belief — a threshold cleared, so someone can now act on it (evacuate the building, seat the witness, fund the challenger). It's also the only one that attaches comfortably to *people and efforts*, not just claims."
+    },
+    {
+      "word": "plausible",
+      "nuance": "Rates the sound of a thing and pointedly commits to nothing further; where **credible** leans in, this one holds still. That neutrality is why tone hijacks it — *a plausible enough story* is a polite way of saying you're lying."
+    },
+    {
+      "word": "verisimilitude",
+      "nuance": "The odd member: a noun, and a compliment paid to *fabrication*. It praises texture and craft — the grease on the 1840s stove, the way the dialogue stumbles like real speech — where the others assess a claim's chance of being true. You never call a mountain verisimilar; something has to have been made."
+    },
+    {
+      "word": "specious",
+      "nuance": "The verdict is already in: false. And it names a specific vice the others don't — the falsehood is *tailored*, aimed at reasoning that borrows the grammar and vocabulary of sound argument. Saying it announces that you looked twice."
+    }
+  ]
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__contempt-private-to-public",
+  "title": "Contempt, private to public",
+  "seed_words": [
+    "disdain",
+    "contempt",
+    "scorn",
+    "opprobrium"
+  ],
+  "hallucinated": null,
+  "core": "All four are the downward look — the judgment that someone or something is beneath serious consideration, not merely wrong or disliked. What separates them is not how much you despise but how far the despising travels: felt behind a still face, delivered as a verdict, said out loud, or roared by a crowd. Each step outward also adds a witness, and the last one leaves a stain the target has to live under.",
+  "words": [
+    {
+      "word": "disdain",
+      "nuance": "The coldest and most private — it registers as a raised eyebrow or a turned shoulder, not a statement. Uniquely it can govern an infinitive to mean a proud refusal (*he disdained to reply*), which no other word here does; that construction makes the disdainer's vanity, not the target's flaw, the thing on display."
+    },
+    {
+      "word": "contempt",
+      "nuance": "The settled verdict rather than the display — you can **hold** someone in contempt for years without ever showing it. It is the group's most clinical word, and the only one with a courtroom life (**contempt of court**) and the fixed superlative **beneath contempt**, for what isn't even worth despising."
+    },
+    {
+      "word": "scorn",
+      "nuance": "The one that has a voice and a face: it curls the lip, it speaks, it gets **poured** and **heaped**. It also carries a refusal the others lack — to scorn an offer or scorn help is to push the thing away, not just to look down on it."
+    },
+    {
+      "word": "opprobrium",
+      "nuance": "The only one where the despiser is a public, not a person, and the only one with a moral charge: the target did something *shameful*, not merely contemptible. Formal and heavy — editorials, sentencing remarks — and it doubles as the residue, so a man can **live under** it long after the shouting stops."
+    }
+  ],
+  "exam_note": "The exam tests audience, not heat: a blank about a silent inward judgment takes **contempt** or **disdain**, one about a public storm takes **opprobrium**, and sentences where the object is an offer or an aid — \"she ___ their assistance\" — want **scorned**, exploiting the rejection sense the others don't carry."
+}

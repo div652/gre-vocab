@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__complaining-vs-bearing-it-in-silence",
+  "title": "Complaining vs. bearing it in silence",
+  "seed_words": [
+    "querulous",
+    "grumble",
+    "curmudgeon",
+    "petulant",
+    "fractious",
+    "grievance",
+    "stoic",
+    "forbear",
+    "content",
+    "equanimity",
+    "abide"
+  ],
+  "hallucinated": null,
+  "core": "Something is wrong, or feels wrong — and the question is whether it comes out of your mouth. One half of this group names the noise: the pitch of the complaint, its volume, its childishness, its legitimacy, the sort of person who makes it habitually. The other half names the silence: enduring, refraining, staying level, or simply having nothing to complain about in the first place. The trap is that the silences are not equivalent — suppressed feeling, withheld retaliation, and genuine absence of want all look identical from outside.",
+  "words": [
+    {
+      "word": "querulous",
+      "nuance": "Judges the **pitch**. A querulous complaint is a whine — thin, habitual, faintly pathetic — and the word attaches to a voice, typically an old or ailing one. It's the only complaint word here that makes the complainer sound weak rather than annoying."
+    },
+    {
+      "word": "grumble",
+      "nuance": "Judges the **volume**. Muttered at nobody, meant to be overheard, and — crucially — accompanied by doing the thing anyway. It's the one word in the group that implies compliance: the grumbler obeys, audibly."
+    },
+    {
+      "word": "curmudgeon",
+      "nuance": "The only **person-noun** among the complainers, and the only word here you'd cheerfully apply to yourself. Gruff, old, unimpressed, comic. His complaining is a settled identity, not an episode."
+    },
+    {
+      "word": "petulant",
+      "nuance": "Judges the **maturity**. Not a whine and not a mutter but a snap or a pout — real heat, spent on something too small to deserve it. It says *you are behaving like a thwarted child*, which is why it can never describe a response to genuine injustice."
+    },
+    {
+      "word": "fractious",
+      "nuance": "Adds **resistance**: not just complaining but hard to manage, liable to squabble. Alone in this group it scales up to a body of people — a fractious coalition splits from within. The tone is an observer's weariness, not a participant's anger."
+    },
+    {
+      "word": "grievance",
+      "nuance": "The only word here about the **content** rather than the manner, and the only one that concedes the complaint might be *owed*. It claims injustice, so it lives in procedures and case numbers — and it is kept: grievances are nursed and harboured for years."
+    },
+    {
+      "word": "stoic",
+      "nuance": "Silence with the **feeling still underneath**. The pain is registered and the face doesn't move. Describes a standing disposition toward hardship, and carries admiration for the self-command, not for insensitivity."
+    },
+    {
+      "word": "forbear",
+      "nuance": "Silence with a **target**. You could strike back, foreclose, correct, complain — and you decline. The provocation and the person who caused it are built into the word, which is why forbearance reads as mercy rather than endurance. Watch the past: *forbore / forborne*."
+    },
+    {
+      "word": "content",
+      "nuance": "No complaint because there is **nothing being wanted** — this is absence of grievance, not suppression of it. Low-temperature, not joyful. On the GRE it tilts toward settling: *content to remain in the junior post*."
+    },
+    {
+      "word": "equanimity",
+      "nuance": "A **noun for the moment of impact**. Invoked only when there was a blow — a verdict, a humiliation, bad news — and the person didn't wobble. Narrower than stoicism, which spans a life; equanimity is measured against one specific provocation."
+    },
+    {
+      "word": "abide",
+      "nuance": "Names your **capacity to tolerate**, and almost always in the negative: *can't abide* is a settled temperamental refusal, not a flare of irritation. Separately, *abide by* means to keep to a rule — the compliance sense the other words never carry."
+    }
+  ],
+  "exam_note": "The exam leans on the fact that these words judge different things — tone (querulous), volume (grumble), scale of the offence (petulant), legitimacy (grievance) — so a blank rejects a synonym that judges the wrong axis; on the silent side it separates *content* (nothing wanted) from *stoic*/*equanimity* (something felt and withheld)."
+}

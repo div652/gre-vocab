@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__deliberate-delineate",
-  "title": "deliberate / delineate / denigrate…",
+  "title": "deliberate / delineate / denigrate / deprecate",
   "seed_words": [
     "deliberate",
     "delineate",
@@ -9,5 +9,25 @@
     "deprecate"
   ],
   "similarity": 0.73,
-  "auto": true
+  "auto": true,
+  "core": "These four share almost no meaning — what they share is a shape: four syllables, a *de-* opening, an *-ate* ending, and a formal Latinate register that puts all of them in the same paragraph about authors, arguments and reputations. Any of them can fill \"The critic ___d the theory,\" so under time pressure the eye grabs the wrong one on rhythm alone. The only genuine semantic overlap is between the two disapproval verbs, and there the split is temperature and target. Sort them by what the verb *does* to its object: judges intent, draws a boundary, damages a reputation, or registers mild dissent.",
+  "words": [
+    {
+      "word": "deliberate",
+      "nuance": "The odd one out grammatically — the only adjective in the group, and the only word here that describes a state of mind rather than an act performed on an object. It judges *forethought*, not merit: nothing is deliberated as good or bad, only as planned in advance."
+    },
+    {
+      "word": "delineate",
+      "nuance": "The only fully neutral member — it carries no verdict at all, so it can never be done unfairly or resented. Its object is a boundary or a distinction, not a person or a practice: you delineate where two theories part company, never how good either one is."
+    },
+    {
+      "word": "denigrate",
+      "nuance": "The hot, personal one: it targets a reputation, it exceeds what the target deserves, and the unfairness sticks to the speaker rather than the subject. Where the group's other negative verb registers dissent, this one does damage."
+    },
+    {
+      "word": "deprecate",
+      "nuance": "Cool and mild where **denigrate** is hot and unfair — the disapproval of an editorial board noting that a habit or fashion is ill-advised. Its object is typically a practice or tendency rather than a person, and it's the only one here that turns comfortably on the speaker (*self-deprecating*)."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps live in the **denigrate/deprecate** pair — if the sentence signals restraint (\"gently,\" \"in measured terms,\" \"while conceding the merits\"), the strong word is wrong; **delineate** is the decoy whenever the blank actually wants a neutral verb of description."
 }

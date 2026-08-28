@@ -1,12 +1,32 @@
 {
   "kind": "root",
   "id": "root__sub",
-  "title": "Root: sub- (under) + servire (to serve)",
+  "title": "Root: sub- (under, from below)",
   "seed_words": [
     "subservient",
     "subside",
     "subsume",
     "subvert"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Every word here puts one thing *under* another — but \"under\" does different work in each. In one it means beneath in rank; in another, back down to a lower level; in another, filed under a bigger heading; in the last, attacking from underneath. What makes them confusable is that all four describe a loss of height, standing, or independence, so under time pressure the prefix feels like the meaning. The discriminators are **who is doing it** and **what happens to the smaller thing**.",
+  "words": [
+    {
+      "word": "subservient",
+      "nuance": "The only adjective, and the only one describing a *stance* rather than an event — a permanent posture of being under someone. It is also the only one that judges: **subservient** is a sneer, where the others are neutral reports of what occurred."
+    },
+    {
+      "word": "subside",
+      "nuance": "The only word with no agent at all. Nobody subsides a flood; the flood **subsides** on its own, and only because it had risen first. Where the others need someone to do them to something, this one is what a thing does when everyone stops touching it."
+    },
+    {
+      "word": "subsume",
+      "nuance": "The smaller thing survives intact — it just loses its own heading and now counts as an instance of the bigger one. Cool and clerical: a ministry **subsumes** a department the way a category swallows an example, with no hostility and nothing damaged."
+    },
+    {
+      "word": "subvert",
+      "nuance": "Here the \"under\" is where the *attacker* stands, not where the victim lands — the direction of the prefix flips. The only aggressive word in the set, and the only one that can be praise: **subverting** a genre is a compliment, **subverting** an election is a charge."
+    }
+  ],
+  "exam_note": "Sentence-completion items hinge on agency — a blank whose subject acts alone (fever, uproar, swelling) can only be **subside**; if an actor is named, ask whether the smaller thing is filed (**subsume**) or hollowed out (**subvert**)."
 }

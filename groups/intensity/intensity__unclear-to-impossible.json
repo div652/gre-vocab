@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__unclear-to-impossible",
+  "title": "Unclear to impossible",
+  "seed_words": [
+    "obscure",
+    "abstruse",
+    "recondite",
+    "arcane",
+    "impenetrable"
+  ],
+  "hallucinated": null,
+  "core": "All five describe something the mind can't get hold of — meaning that fails to arrive. They differ on *why* the light doesn't get through: because the thing is small and unnoticed, because its content is genuinely deep, because it sits far off the beaten track of learning, because access is restricted to initiates, or because there is simply no way in at all. They also differ in who gets blamed — the subject, the writer, or nobody. The ordering below runs from mild dimness to total blockage.",
+  "words": [
+    {
+      "word": "obscure",
+      "nuance": "The weakest and the widest: it only reports that something is unclear or unnoticed, with no claim about depth, specialism, or secrecy — a footnote can be **obscure** simply because nobody reads it. It's also the only member with a live verb sense the GRE loves, meaning to overshadow or crowd out: a charming manner **obscures** a ruthless one."
+    },
+    {
+      "word": "abstruse",
+      "nuance": "The difficulty is in the *content* — deep, technical, demanding training — not in how little-known it is. Unlike the others it usually carries a grumble at the writer: **abstruse** implies the point could have been made plainly and wasn't."
+    },
+    {
+      "word": "recondite",
+      "nuance": "Bookish and remote rather than merely deep: the material lies so far off the main road of learning that only years of study reach the bottom of it. Alone in this group it can also describe a *person* — someone steeped in exactly that learning — and it can be near-admiring of a monograph while being a polite burial of a dinner-party remark."
+    },
+    {
+      "word": "arcane",
+      "nuance": "Adds **restricted access**. The knowledge isn't just hard, it's walled off — by initiation and secrecy (rites, spells) or by sheer clotted specialism (the **arcane** provisions of the tax code). When a journalist uses it, the charge is *needlessly* so: someone should have simplified this years ago."
+    },
+    {
+      "word": "impenetrable",
+      "nuance": "Absolute and ungradable — not \"only experts can follow it\" but *no one gets in*, expert included. It's the only one that also works physically (jungle, armour, a defence line), and applied to a face it means totally unreadable rather than hard to understand."
+    }
+  ],
+  "exam_note": "The GRE most often tests **obscure** as a verb meaning \"overshadow,\" and separates **arcane**'s locked door from **abstruse**/**recondite**'s sheer depth — and remember nothing is *somewhat* impenetrable."
+}

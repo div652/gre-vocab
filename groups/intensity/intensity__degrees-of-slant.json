@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-slant",
+  "title": "Degrees of slant: from quiet tilt to open attack",
+  "seed_words": [
+    "partial",
+    "tendentious",
+    "polemical"
+  ],
+  "hallucinated": null,
+  "core": "All three describe writing, argument, or judgement that leans one way instead of weighing both. The shared accusation is that the thing was never really open to the other side. What separates them is how much force the leaning carries and how honest it is about itself — from an unconscious tilt, through a slant engineered to look like neutrality, to an open assault that never pretended otherwise.",
+  "words": [
+    {
+      "word": "partial",
+      "nuance": "The weakest and the only one that describes a **person** rather than a text — a judge, a referee, a parent. The tilt is usually unconscious and often affectionate (you're partial to your favourite), so it accuses someone of leaning, not of scheming. It is also the only member of this group with a warm use: *partial to* strong tea."
+    },
+    {
+      "word": "tendentious",
+      "nuance": "The covert one. **Tendentious** work wears the costume of neutral analysis — a survey question, a footnote, a history — while quietly steering the reader to a conclusion. The charge is engineering, not blind spot: someone built the slant on purpose and then hid it. Always negative, and always aimed at the artefact, never the temperament."
+    },
+    {
+      "word": "polemical",
+      "nuance": "The overt one. **Polemical** writing declares war and expects to be read as war — no pose of fairness to expose, because none was offered. It is the only one here that can be neutral description or even praise (a great polemic against slavery); the sting, when there is one, is that the author had decided before starting."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"biased\": a sentence about a study that *appears* even-handed needs **tendentious**, one about open attack needs **polemical**, and one about a person's soft favouritism needs **partial**."
+}

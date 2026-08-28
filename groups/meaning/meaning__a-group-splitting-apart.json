@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__a-group-splitting-apart",
-  "title": "A group splitting apart",
+  "title": "A Group Splitting Apart",
   "seed_words": [
     "schism",
     "polarize",
@@ -9,5 +9,29 @@
     "dichotomy",
     "strife"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these words live around the same event: one thing that was supposed to be whole comes apart into opposed sides. They differ on what exactly splits (ideas, opinions, an institution), whether the split is a process, a completed fact, a tendency, or merely a climate, and how much hostility is baked in. The trap is that they sit at different stages of the same story and in different parts of speech, so they almost never substitute for one another.",
+  "words": [
+    {
+      "word": "dichotomy",
+      "nuance": "The only one here that divides **ideas**, not people — nobody has to be angry, or even present. **Dichotomy** names the either/or frame itself (mind/body, art/commerce) and insists the two options are exhaustive; that insistence is why it so often appears with *false* attached."
+    },
+    {
+      "word": "polarize",
+      "nuance": "The verb for the **process**, and the only one that tracks the moderates: **polarize** describes people migrating toward the extremes until nothing is left in the middle. It takes an agent — an issue, a leader, a policy *polarizes* a population — so it says less about the two camps than about the vanishing space between them."
+    },
+    {
+      "word": "factious",
+      "nuance": "An adjective describing a **disposition**, not an event — a bloc that is **factious** keeps generating sub-groups, split or no split. It is a hostile judgment delivered from the standpoint of the whole, and its specific accusation is self-interest: they put their faction above the body. It never describes one person's temper."
+    },
+    {
+      "word": "schism",
+      "nuance": "The **completed, formal** break, and the only word here that leaves you counting two bodies where there was one. Its cause is doctrine — each side claims to be the true church, party, or movement — so calling a split a **schism** frames it as a war over orthodoxy rather than tactics, and implies it will not be sewn back up."
+    },
+    {
+      "word": "strife",
+      "nuance": "Names no division at all — only the bitter **climate** that persists. **Strife** has no count of sides, no doctrine, no resolution; it settles over a country or a marriage for years (*civil strife, marital strife*). Elevated and faintly biblical, it is too large for two people and one argument."
+    }
+  ],
+  "exam_note": "Watch the part of speech and what is doing the splitting: sentences about opinions hardening want *polarize*, sentences about a conceptual either/or want *dichotomy*, and *strife* is the decoy when the sentence describes ongoing bitterness but never actually divides the group in two."
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "connotation",
+  "id": "connotation__thrift-counted-as-virtue",
+  "title": "Restraint Counted as Virtue",
+  "seed_words": [
+    "economy",
+    "canny",
+    "prudent",
+    "judicious"
+  ],
+  "hallucinated": null,
+  "core": "All four turn holding back into a compliment. Where *stingy*, *miserly*, and *parsimonious* treat not-spending as a character flaw, these treat it as evidence of skill or judgment: the person or performance used less and got it right. The shared claim is that the restraint was chosen and controlled, not forced by fear or greed. They split on **what** is being restrained — resources, money, risk, or amount — and on whether the praise lands on a thing or on a person.",
+  "words": [
+    {
+      "word": "economy",
+      "nuance": "The only noun, and the only one that praises an **artifact or a performance** rather than a mind: a style, a gesture, a proof has **economy**. It rates the visible output — nothing left in that isn't working — and says nothing about foresight, money, or risk."
+    },
+    {
+      "word": "canny",
+      "nuance": "The transactional one. **Canny** praises street-level shrewdness in dealing with people and prices: hard to cheat, quick to spot the advantage, knows when to walk. It is the least formal of the four and the closest to *cunning* — it just hands the credit back instead of implying you were the mark."
+    },
+    {
+      "word": "prudent",
+      "nuance": "Points forward. **Prudent** is about consequences and downside risk — the decision was made with the bad outcome in view. It's the word of pension funds and policy papers, sober to the point of dull, and unlike *canny* it implies no cleverness at all, only that the odds were weighed."
+    },
+    {
+      "word": "judicious",
+      "nuance": "About **how much**, not about what might go wrong. **Judicious** praises calibration in a single act of choosing — a judicious cut, a judicious dose, a judicious silence — the sense that someone stopped at exactly the right point. A *prudent* policy spans years; a judicious choice is one measured act."
+    }
+  ],
+  "exam_note": "The trap is sentiment: a sentence praising restraint invites *parsimonious*, *frugal*, or *miserly* as distractors — check whether the blank is being credited or blamed, then whether it modifies a person (canny, prudent, judicious) or a thing's design (economy)."
+}

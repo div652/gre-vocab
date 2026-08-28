@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__respectful-yielding",
-  "title": "Respectful yielding",
+  "title": "Respectful yielding: attitude, gesture, temperament, rank",
   "seed_words": [
     "deference",
     "obeisance",
     "subservient",
     "subordinate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe one party giving way to another. They split on *what* is doing the yielding: an attitude you hold, a gesture your body performs, a character defect others accuse you of, or a slot you occupy on a chart. Two are neutral or even flattering, one is corrosive, and one is pure structure with no feeling in it at all. The GRE lives in the gap between yielding by position and yielding by disposition.",
+  "words": [
+    {
+      "word": "deference",
+      "nuance": "The only one that can flatter you. It's an inner attitude, freely chosen and self-limiting — you concede the point but keep your own judgment intact. The idiom **in deference to** means \"out of respect for,\" not \"in submission to,\" and it is the giveaway."
+    },
+    {
+      "word": "obeisance",
+      "nuance": "The only one that requires a body. Not what you feel or where you rank — a bow, a curtsy, a kneel, performed where others can see it. Because the staging is the point, modern prose almost always uses it to mock: whoever \"pays obeisance\" is being watched by an unimpressed narrator."
+    },
+    {
+      "word": "subservient",
+      "nuance": "The only outright insult, and it's about temperament, not position. The judgment isn't kept in reserve — it's been handed over. Nobody applies it to themselves; it's a verdict passed from outside, and it stains the person being served as much as the one serving."
+    },
+    {
+      "word": "subordinate",
+      "nuance": "The only structural, morality-free member: it names a rung, not a disposition. A subordinate may be defiant and still be a subordinate. The verb is the exam's favorite — you **subordinate X to Y**, deliberately sacrificing something real so the higher-ranked thing prevails."
+    }
+  ],
+  "exam_note": "The trap is **subordinate** vs. **subservient** — rank versus grovelling; and the verb *subordinate ... to*, where the answer hinges on something valuable being deliberately given up."
 }

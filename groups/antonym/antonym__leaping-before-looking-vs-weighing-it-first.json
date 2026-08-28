@@ -1,0 +1,67 @@
+{
+  "kind": "antonym",
+  "id": "antonym__leaping-before-looking-vs-weighing-it-first",
+  "title": "Leaping before looking vs. weighing it first",
+  "seed_words": [
+    "precipitate",
+    "impetuous",
+    "impulsive",
+    "foolhardy",
+    "headstrong",
+    "circumspect",
+    "prudent",
+    "judicious",
+    "deliberate",
+    "chary",
+    "cogitate"
+  ],
+  "hallucinated": null,
+  "core": "One axis runs through all of these: how much thought stands between the impulse and the act. On one side, the gap is missing — the act arrives too fast, too hot, or too deaf to warning, and the word is a rebuke aimed at the speed. On the other, the gap is deliberately maintained — the risks are surveyed, the odds weighed, the response measured — and the word is praise, or at least a description of forethought. The GRE lives on the fact that each side splits internally: the fast words differ in *what* went missing (reflection, calm, humility, respect for danger), and the slow words differ in *what* the thinking is for (safety, proportion, intent, sheer duration).",
+  "words": [
+    {
+      "word": "precipitate",
+      "nuance": "The only one here that describes an **event's timing rather than a person's temperament** — you precipitate a crisis, a collapse, a resignation. The blame is for pulling a bad outcome forward, not for feeling too much; and as an adjective it's the coldest, most formal rebuke on this side."
+    },
+    {
+      "word": "impetuous",
+      "nuance": "Adds **heat and forward motion** — the person was carried by passion, not merely unreflective. Where the others fail to think, **impetuous** fails to cool down, which is why it lands on lovers and young officers and why a trace of admiration survives the criticism."
+    },
+    {
+      "word": "impulsive",
+      "nuance": "The mildest and most clinical: no urge got examined because **no gap opened between wanting and doing**. It names a standing temperament rather than one dramatic act, needs no passion behind it and no danger in front of it, and can even be affectionate."
+    },
+    {
+      "word": "foolhardy",
+      "nuance": "The only one where **the danger was plainly visible and courted anyway**. Speed isn't the issue — you can be foolhardy after a week of planning. The verdict is on the odds accepted, and it concedes real nerve before condemning it."
+    },
+    {
+      "word": "headstrong",
+      "nuance": "The failure is **social, not mental**: advice was given and brushed aside. This one implies an audience shouting from behind, and it's about direction — refusing to be steered — rather than velocity or risk-blindness."
+    },
+    {
+      "word": "circumspect",
+      "nuance": "Caution as **surveying the surroundings for hidden traps**, including what you say — you can be circumspect in your answers, not just your actions. The holding back is tactical and unshowy, the diplomat's virtue rather than the accountant's."
+    },
+    {
+      "word": "prudent",
+      "nuance": "The forward-looking one: judgement about **consequences down the road**, chosen deliberately, not from nerves. It belongs to money, policy and risk, and calling a decision prudent quietly concedes it wasn't brave."
+    },
+    {
+      "word": "judicious",
+      "nuance": "Praise for **proportion — the right amount, the right moment** — rather than for avoiding risk at all. A judicious edit or dose or silence could be bold; what earns the word is knowing where to stop."
+    },
+    {
+      "word": "deliberate",
+      "nuance": "The only one on this side that **can indict you**: the forethought is exactly what makes *deliberate cruelty* damning. It marks the act as intended-after-weighing rather than wise, and in its second sense transfers that weighing to pace — measured slowness, not sluggishness."
+    },
+    {
+      "word": "chary",
+      "nuance": "Caution measured by **how little you hand over** — praise, information, trust, money. It takes *of* or *about*, and it carries a faint whiff of stinginess that none of the other cautious words do."
+    },
+    {
+      "word": "cogitate",
+      "nuance": "The only pure **verb of thinking, with no action attached** — it says nothing about risk, safety, or whether you ever decide. What it marks is duration and visible effort, and its Latinate weight makes it easy to use mockingly of someone accomplishing nothing."
+    }
+  ],
+  "exam_note": "The exam rarely tests fast-vs-slow; it tests within a side — a blank needing \"ignored an obvious danger\" (foolhardy) where \"acted on a whim\" (impulsive) is the decoy, or \"praised for restraint\" (judicious) where the safety word (prudent) doesn't fit; watch too for *deliberate* and *cogitate*, which look like compliments here but are neutral."
+}

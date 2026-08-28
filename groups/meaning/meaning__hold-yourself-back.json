@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__hold-yourself-back",
-  "title": "Hold yourself back",
+  "title": "Hold Yourself Back",
   "seed_words": [
     "abstain",
     "forbear",
     "eschew",
     "forgo"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe **voluntary restraint**: the thing was available, you could have had it or done it, and you chose not to. None of them mean deprivation, failure, or inability — that's the trap. They differ on three axes: *what the object is* (a habit, a specific perk, a whole category, an act of retaliation), *how long it lasts* (one moment or a standing policy), and *whether anyone else is on the receiving end*.",
+  "words": [
+    {
+      "word": "abstain",
+      "nuance": "The only one that is a **standing policy** rather than a single decision — you abstain *for a year*, *from alcohol*, as an ongoing regimen. Its object is a habit or indulgence you'd otherwise partake in, and it alone has the parliamentary sense: present, counted, but registering neither yes nor no."
+    },
+    {
+      "word": "forgo",
+      "nuance": "Takes a **specific, concrete perk** you were entitled to — the bonus, the fee, the dessert, the appeal. No principle required and no audience: it's a private cost-benefit call you lost on purpose. Unlike the others, the emphasis falls on what you don't get rather than on the discipline of not taking it."
+    },
+    {
+      "word": "eschew",
+      "nuance": "Requires a **reason — a principle, taste, or discipline — and an abstract category object**: violence, luxury, jargon, ornament. It characterizes the person: to eschew something is to declare what you're not. You can eschew meat forever without ever once being offered a steak."
+    },
+    {
+      "word": "forbear",
+      "nuance": "The only one with a **target**: someone provoked you, you had the standing to strike back, foreclose, correct, or complain, and you didn't. It implies power declined and mercy extended, in an elevated, near-biblical register. Irregular past: *forbore / forborne*."
+    }
+  ],
+  "exam_note": "The GRE leans on object type — a category noun (violence, jargon) wants *eschew*, a named perk wants *forgo*, a habit wants *abstain*, and an aggrieved party in the sentence is the tell for *forbear*; watch too for *forego* (\"go before\") baited against *forgo*."
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__effort-withheld",
+  "title": "Effort withheld",
+  "seed_words": [
+    "superficial",
+    "cursory",
+    "perfunctory",
+    "token"
+  ],
+  "hallucinated": null,
+  "core": "All four describe work that was technically performed but starved of real effort, and all four accuse without accusing anyone of outright failure. The scale runs from how deep the effort went, to how fast it was done, to how little the doer cared, to whether it was ever meant to accomplish anything at all. Each blames a different missing ingredient: depth, time, interest, sincerity.",
+  "words": [
+    {
+      "word": "superficial",
+      "nuance": "**Superficial** faults *depth* only — the pass may have been unhurried and sincere, it just never got below the surface. It is the one word here with a literal, blame-free life (a superficial wound, a superficial crack), and the only one that can describe a person's whole character rather than a single act."
+    },
+    {
+      "word": "cursory",
+      "nuance": "**Cursory** faults *speed*: it was rushed, which is why it missed things. It attaches almost exclusively to acts of looking — a cursory glance, reading, inspection — and implies the details were sitting right there for anyone willing to slow down."
+    },
+    {
+      "word": "perfunctory",
+      "nuance": "**Perfunctory** faults *interest*, not time or depth. The act is completed, correctly and often at full length, but mechanically and out of obligation — the charge is indifference, going through the motions because the role demands them."
+    },
+    {
+      "word": "token",
+      "nuance": "**Token** faults *sincerity*: the act was sized from the outset to look like compliance rather than to have effect. Alone among these it presumes an audience — a token raise, a token seat on the board — and it sits in front of a noun that should have been substantial."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"minimal\"; let the sentence's blame word choose — hasty/quick → cursory, dutiful/uninterested → perfunctory, for appearances/symbolic → token, shallow/surface-only → superficial."
+}

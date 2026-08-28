@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__persistent-to-the-end",
-  "title": "Persistent to the end",
+  "title": "Persistent to the End",
   "seed_words": [
     "dogged",
     "pertinacious",
@@ -9,5 +9,29 @@
     "sedulous",
     "perseverance"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe someone who keeps going: effort sustained past the point where a normal person would stop, in the face of difficulty, tedium, or discouragement. They differ on three axes the GRE cares about. First, whether the speaker approves — most are praise, one is a complaint. Second, what the persistence pushes against: opposition and failure, physical tiredness, or the sheer grind of detail. Third, what the word attaches to — a person's character, a long campaign, or an inanimate nuisance that will not go away.",
+  "words": [
+    {
+      "word": "dogged",
+      "nuance": "The plain-English, working-class member of the group — no polish, no grandeur. It praises the unglamorous grunt: the one still knocking on doors in month nine, not the one who solved it cleverly. Where the others are formal, **dogged** is the word you'd actually say out loud, and it implies the work was boring as well as hard."
+    },
+    {
+      "word": "pertinacious",
+      "nuance": "The only insult here. **Pertinacious** tells you the speaker wants this to stop — the grip is aimed at something not worth gripping, and it has outlasted everyone's patience. It's also the one that attaches comfortably to non-persons: a pertinacious cough, a pertinacious rumour, a pertinacious creditor. Nobody claims it about themselves."
+    },
+    {
+      "word": "indefatigable",
+      "nuance": "Alone in the group, this names what's *absent* — fatigue — rather than the obstacle overcome. There need be no adversity at all; the marvel is the sheer un-tiring output, sustained over years by a campaigner or advocate. It's the grandest compliment on the list, and slightly hyperbolic: literally, cannot be worn out."
+    },
+    {
+      "word": "sedulous",
+      "nuance": "The only one about **care**, not endurance against resistance. What a sedulous person outlasts is the tedium of detail — every footnote checked, every entry verified — and the praise is for thoroughness, never for defying opposition. Unhurried where *industrious* is energetic; you can be sedulous at a task nobody is fighting you over."
+    },
+    {
+      "word": "perseverance",
+      "nuance": "The group's only noun, and the one that requires actual setback: **perseverance** presumes you already failed, were discouraged, and kept going anyway. Take away the obstacle and the word has nothing to describe. It names the virtue abstractly — the quality itself, awarded credit — rather than characterizing a person the way the adjectives do."
+    }
+  ],
+  "exam_note": "The trap is tonal: **pertinacious** looks like a fancy upgrade of *dogged* or *tenacious*, so it gets slotted into admiring sentences where only a negative word fits — check for a \"though/regrettably\" signal or an exasperated speaker before choosing it."
 }

@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__changeability-condemned",
+  "title": "Changeability condemned",
+  "seed_words": [
+    "capricious",
+    "fickle",
+    "erratic",
+    "mercurial",
+    "volatile"
+  ],
+  "hallucinated": null,
+  "core": "All five say the same base thing: this person, market, or force will not hold still, and you cannot count on it. What differs is the *charge* laid against the change — is it disloyal, arbitrary, unstable, thrilling, or dangerous? — and *what* the change attaches to: a lover's affection, a ruler's decree, a patient's pulse, a genius's temper, a chemical or a crowd. Pick wrong and you get the fact right but the accusation wrong.",
+  "words": [
+    {
+      "word": "capricious",
+      "nuance": "The only one that presumes **power**: the whim is exercised *downward*, on people who must live with it — a capricious king, examiner, landlord, fate. The grievance isn't inconstancy but the absence of any reason you could argue with."
+    },
+    {
+      "word": "fickle",
+      "nuance": "Confined to **loyalty and affection**, and it is the petty end of the group — a fickle lover, fanbase, electorate. Uniquely, it points blame back at the speaker's position: you call someone fickle because *you* were the thing dropped."
+    },
+    {
+      "word": "erratic",
+      "nuance": "The only one that is not about feeling at all — it describes **output against a baseline**: results, a pulse, a trajectory, an engine. Clinical and observational, which is why it's the word witnesses use when they mean *something is wrong with him* without saying so."
+    },
+    {
+      "word": "mercurial",
+      "nuance": "The only one you can be flattered by. The volatility comes bundled with **quickness and brilliance**, so it lands on the star striker, the temperamental director, the founder — exhausting to serve, but the word concedes they're worth it."
+    },
+    {
+      "word": "volatile",
+      "nuance": "The only one that threatens **harm**. It attaches to situations, substances and markets more readily than to characters, and the implied response isn't disappointment but retreat: a volatile crowd is one you get away from before it goes up."
+    }
+  ],
+  "exam_note": "Sentence completions signal the choice through the surrounding praise or fear, not the change itself: admiration in the clause forces **mercurial**, a ruler or arbiter forces **capricious**, measurements and performance force **erratic**, and any hint of explosion or evacuation forces **volatile** — **fickle** only survives when what shifted was someone's devotion."
+}

@@ -8,5 +8,25 @@
     "anachronistic",
     "vestigial"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say: this belongs to a time that has passed, and the present has moved on. They part company on *why* it's stranded. One turns on nobody using it anymore, one on something better replacing it, one on it sitting in the wrong century, one on it being a shrunken leftover of something larger. Sorting them means asking what evidence the speaker is pointing at: disuse, a successor, a mismatch, or a remnant.",
+  "words": [
+    {
+      "word": "archaic",
+      "nuance": "**Archaic** is about *disuse* — the form still exists, but nobody reaches for it. It needs no successor and no absurdity, just abandonment, which is why it's the default word for language and manners (**thou**, a courtly bow). Uniquely in this group it has a clean technical register (\"Archaic Greek\"); the insult only switches on when the target is a live institution or someone's opinions."
+    },
+    {
+      "word": "obsolete",
+      "nuance": "**Obsolete** is the only one that requires a *replacement* — something better came along and the world routed around it. That makes it the standard word for technology and skills, and the cruelest one for people: not behind, but roleless. It's also the only member that verbs (a firm **obsoletes** its own product line), which is business register, not literary."
+    },
+    {
+      "word": "anachronistic",
+      "nuance": "**Anachronistic** is the only one built on *mismatch with surroundings* — it needs a frame it doesn't fit, so an observer catches it: a wristwatch on a gladiator, a dueling statute still on the books. It's a verdict on placement rather than on usefulness, and applied to institutions it carries a dry contempt the others don't: not merely old, but *ridiculous* that it lasted."
+    },
+    {
+      "word": "vestigial",
+      "nuance": "**Vestigial** is the only one implying *shrinkage from a larger whole* — the thing was once bigger and load-bearing, and what's left is a stub that still exists but does nothing. Borrowed from biology, it stays clinical: calling a board's veto power vestigial is a diagnosis, not a jab, and unlike the others it says nothing about whether anyone should get rid of it."
+    }
+  ],
+  "exam_note": "The GRE's giveaway is the trigger phrase: \"superseded by\" → obsolete, \"out of place in its period\" → anachronistic, \"no longer in use\" → archaic, \"surviving remnant of\" → vestigial; wrong answers work because all four fit a bare \"old and useless\" blank."
 }

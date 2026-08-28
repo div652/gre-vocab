@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__clearing-of-blame-vs-pinning-it-on",
+  "title": "Clearing blame vs. pinning it on",
+  "seed_words": [
+    "exculpate",
+    "exonerate",
+    "extenuating",
+    "condone",
+    "indictment",
+    "impugn",
+    "stigmatize",
+    "reproach",
+    "censure"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a move in the same transaction: fault is on the table, and someone is deciding how much of it sticks and to whom. They differ on three axes — direction (does the word lift blame or fasten it?), source of authority (evidence, a court, an institution, the crowd, or a wounded relationship), and how much guilt survives the move. The clearing words are not equally clean, and the accusing words are not equally official: some are verdicts, some are only charges, and one is just looking the other way.",
+  "exam_note": "The trap is size-of-claim: **exonerate/exculpate** wipe the guilt out, **extenuating** leaves it fully intact and shrinks only the penalty, and **condone** neither disproves nor excuses — it lets a wrong you acknowledge pass.",
+  "words": [
+    {
+      "word": "exculpate",
+      "nuance": "The **evidence** word. What exculpates is a thing — an alibi, an email, a timestamp — and it can exist before any body has ruled anything (*exculpatory evidence*). No tribunal required, and no verdict implied."
+    },
+    {
+      "word": "exonerate",
+      "nuance": "The **verdict** word: an institution with standing declares you clear, and declares it affirmatively — not \"guilt unproven\" but \"didn't do it.\" Where the previous word describes what the file contains, this describes what the ruling says."
+    },
+    {
+      "word": "extenuating",
+      "nuance": "The only word here that **leaves the guilt fully in place** — it shrinks the sentence, not the fault. It also attaches to *circumstances*, never to a person: you plead extenuating circumstances, you don't extenuate the defendant."
+    },
+    {
+      "word": "condone",
+      "nuance": "No evidence, no excuse, no ruling — the wrong is **conceded and let past** by someone who could have objected. Uniquely, the speaker's own standing is what's at stake, which is why it lives in the disclaimer: *I do not condone this.*"
+    },
+    {
+      "word": "indictment",
+      "nuance": "A **charge that opens** the case rather than closes it — accusation, not conviction. In the transferred sense the accuser isn't a person at all but a fact: a report, a statistic, a death toll that speaks as prosecution evidence."
+    },
+    {
+      "word": "impugn",
+      "nuance": "Aims at **credibility, not conduct** — a witness's honesty, a rival's motives, a claim's truth. And it only casts doubt; nothing is established, which is why the accuser can end up looking like the one overreaching."
+    },
+    {
+      "word": "stigmatize",
+      "nuance": "The blame is applied by **the crowd**, lands on an identity or condition rather than a single act, and outlives the occasion. It's also the one word whose user is usually protesting the blame: to call something stigmatized is to imply the shame is undeserved."
+    },
+    {
+      "word": "reproach",
+      "nuance": "Authority here comes from **relationship, not office** — a parent, a friend, a conscience. The note is *you let me down* rather than *you broke the rule*, it's small and often private, and it can be delivered entirely by a look."
+    },
+    {
+      "word": "censure",
+      "nuance": "Blame put **on the record by a body entitled to pass it** — a vote, a ruling, a signed statement. It's public and permanent as a mark but toothless as a penalty: the censured official keeps the job and the salary."
+    }
+  ]
+}

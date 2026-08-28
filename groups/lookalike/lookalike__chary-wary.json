@@ -8,5 +8,21 @@
     "weary"
   ],
   "similarity": 0.78,
-  "auto": true
+  "auto": true,
+  "core": "Three words separated by a single letter, and only two of them are even about caution. *Chary* and *wary* both describe a guarded stance toward something — each takes *of*, and both mark the speaker as unwilling to proceed at face value. *Weary* has no caution in it at all; it belongs to exhaustion. The whole group turns on the fact that all three fit the same frame, \"___ of his promises,\" and each produces a different sentence.",
+  "words": [
+    {
+      "word": "chary",
+      "nuance": "The only one about **rationing**. **Chary** measures how little you hand over — praise, money, detail, trust — so what follows *of* is the thing being withheld, not the thing being feared. It makes the speaker look sparing, even tight-fisted, rather than suspicious: a chary editor gives few compliments, not fewer risks."
+    },
+    {
+      "word": "wary",
+      "nuance": "Eyes open, aimed at a target. **Wary** carries active distrust of a specific person, offer, or claim — what follows *of* is the suspected danger, not a resource. It withholds nothing and doesn't retreat: you can be wary of a man and still take his deal, watching him the whole time."
+    },
+    {
+      "word": "weary",
+      "nuance": "The odd one out — no caution, only depletion. The adjective is the tiredness of a long haul, spirit as well as body, and always implies something did the wearing down. **Weary of** is the trap: it means *fed up*, patience spent — the opposite posture from *wary of*, since you've stopped watching because you've stopped caring."
+    }
+  ],
+  "exam_note": "In a blank, \"wary of\" and \"weary of\" are both grammatical — decide by whether the context supplies a threat to watch (wary) or a long grind to be sick of (weary); pick chary only when the blank governs something being doled out."
 }

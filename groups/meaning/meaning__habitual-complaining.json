@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__habitual-complaining",
-  "title": "Habitual complaining",
+  "title": "Complaint: the tone, the mutter, the man, the claim",
   "seed_words": [
     "querulous",
     "grumble",
     "curmudgeon",
     "grievance"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit around chronic, low-grade complaint — the kind that recurs rather than erupts. But they name different parts of it: the *tone* the complaint is delivered in, the *act* of muttering it, the *person* known for it, and the *substance* being claimed. Three of them belittle the complaint; one of them takes it seriously and gives it standing. Sorting them is a matter of asking what the word is actually pointing at, and whether it licenses the grievance or mocks it.",
+  "words": [
+    {
+      "word": "querulous",
+      "nuance": "Points at the **whine in the voice**, not the complaint's merit — it's a description of tone, applied to a person or their voice, and it always makes the complainer smaller. Reserved by writers for the frail, the sick, the elderly, the depleted; you can be querulous while saying something perfectly reasonable and still sound pitiable."
+    },
+    {
+      "word": "grumble",
+      "nuance": "The only one that implies **compliance** — the grumbler does the thing anyway, muttering under his breath at nobody. It's the quietest and most casual of the group (queues, weather, knees), and it's an action you perform, not a character you have or a case you file."
+    },
+    {
+      "word": "curmudgeon",
+      "nuance": "The only **person-noun** here, and the only one people volunteer for. It bundles the complaining into a whole identity — gruff, old, anti-modern — and the affection in it is what separates it from a genuine insult; nobody is a curmudgeon about one thing on one afternoon."
+    },
+    {
+      "word": "grievance",
+      "nuance": "The only word that grants the complaint **legitimacy**: it asserts a wrong done and redress owed, which is why it comes with paperwork (*file a grievance*) and why it can fuel a movement. The others describe how someone sounds; this one describes what they claim — and unlike a gripe, it is **kept**, nursed for years."
+    }
+  ],
+  "exam_note": "The trap is treating **grievance** as a stronger synonym for the grumbling words — it's the only one about the *content* and standing of a complaint, so a sentence about pettiness of tone never wants it, and a sentence about redress or injustice never wants the others."
 }

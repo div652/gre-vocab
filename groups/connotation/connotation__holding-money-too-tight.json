@@ -1,0 +1,32 @@
+{
+  "kind": "connotation",
+  "id": "connotation__holding-money-too-tight",
+  "title": "Holding money too tight",
+  "seed_words": [
+    "miserly",
+    "penurious",
+    "parsimonious",
+    "stinting"
+  ],
+  "hallucinated": null,
+  "core": "All four describe giving out less than could or should be given — money first, but also praise, detail, effort, sympathy. None of them is thrift you admire: *frugal* and *thrifty* are compliments, and these words all sit on the far side of that line, where carefulness has curdled into withholding. What separates them is not degree of tightness but what the accusation says: whether the person is greedy, broke, coldly calculating, or simply short-changing you right now.",
+  "words": [
+    {
+      "word": "miserly",
+      "nuance": "The picture-word, and the only one with a character behind it: **miserly** implies the person *has* the money and hoards it anyway, punishing themselves as much as anyone else. It's contempt mixed with pity — the miser cold in a dark room to save coal — where the others are just disapproval."
+    },
+    {
+      "word": "penurious",
+      "nuance": "The only one that can mean *actually destitute* rather than merely tight — and the ambiguity is deliberate: **penurious** says someone lives as if there is nothing, leaving open whether there is. A penurious tip is an insult; a penurious old age is a misfortune. Bookish; you write it, you don't hiss it."
+    },
+    {
+      "word": "parsimonious",
+      "nuance": "The audit word — cold, formal, no pathos. Where **miserly** imagines a hoarder's psychology, **parsimonious** just records that outlays were kept minimal, which is why it alone flips to praise when the object is a theory or explanation: fewest assumptions necessary."
+    },
+    {
+      "word": "stinting",
+      "nuance": "The only one that describes an *act of shortfall* rather than a standing trait — **stinting** measures what you handed over against what was owed or expected, so it needs a victim kept short. And you will usually meet it negated: *unstinting*, *without stinting*."
+    }
+  ],
+  "exam_note": "Two traps: **parsimonious** turns complimentary the moment it modifies a theory or model, and **penurious** may be testing plain poverty, not stinginess — check what the sentence says the person *has* before assuming meanness."
+}

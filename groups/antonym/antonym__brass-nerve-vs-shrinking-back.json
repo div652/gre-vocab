@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__brass-nerve-vs-shrinking-back",
+  "title": "Brass nerve vs. shrinking back",
+  "seed_words": [
+    "audacious",
+    "brazen",
+    "effrontery",
+    "temerity",
+    "impudent",
+    "assertive",
+    "diffident",
+    "timorous",
+    "retiring",
+    "coy"
+  ],
+  "hallucinated": null,
+  "core": "All of these place someone on one axis: how far you push yourself forward in a room, and whether the room licenses it. At one end the person takes more than their standing allows; at the other they take less than their standing permits; in the middle sits the one behavior everyone approves of. The trap is that most of these words aren't descriptions of the act at all — they're the observer's verdict on it, so the same nerve gets called courage, audacity, or temerity depending on who's narrating.",
+  "words": [
+    {
+      "word": "audacious",
+      "nuance": "The only one on the nerve side that can be a compliment — it withholds the verdict and lets the sentence supply it. Applause or gasp, both are available; every other bold word here has already decided."
+    },
+    {
+      "word": "brazen",
+      "nuance": "The offence is specifically the *visibility*: done in the open, with no cover story and no flinch. It implies contempt for the onlooker — hiding would have conceded the rule mattered. Also the only one that verbs (**brazen it out**)."
+    },
+    {
+      "word": "effrontery",
+      "nuance": "A noun, and the charge is shamelessness — the barefaced calm where a blush belonged. Lives inside \"had the effrontery to —,\" and whatever follows is something the speaker finds indefensible."
+    },
+    {
+      "word": "temerity",
+      "nuance": "The neighbouring noun, but the charge is *presumption*, not shamelessness: you addressed someone you should have deferred to. The private questioning the general has **temerity**; the general charging the hill has courage. Standing, not nerve, decides which."
+    },
+    {
+      "word": "impudent",
+      "nuance": "The mildest offence here and the only one about *manner*: lippy, cheeky, grinning at a superior as though rank didn't exist. Spoken downwards — by teachers, magistrates, outraged fathers — and it slightly dates the speaker."
+    },
+    {
+      "word": "assertive",
+      "nuance": "The hinge: full force, nothing overstepped. Nobody's rank is violated and nobody is owed a blush, which is why it's the one word here HR will print. Passive says nothing, **assertive** says it plainly, aggressive says it at your expense."
+    },
+    {
+      "word": "diffident",
+      "nuance": "The shrinking is caused by self-doubt, not fear — you suspect your claim isn't good enough to press. Cooler than *insecure*, and the speaker usually thinks you're wrong about yourself."
+    },
+    {
+      "word": "timorous",
+      "nuance": "Here fear is the engine: shrinking, hedging, trembling before a decision that needs making. Bookish and faintly withering, which is why it fits a committee that won't commit better than a nervous child."
+    },
+    {
+      "word": "retiring",
+      "nuance": "No fear and no self-doubt — simply a settled preference for staying out of the light. The gentlest word in the group and mildly approving: the **retiring** colleague does the work and lets someone else present it."
+    },
+    {
+      "word": "coy",
+      "nuance": "The shrinking is staged. Reticence chosen and displayed so you'll notice the withholding and press harder — a CEO **coy about the numbers** isn't bashful, she's managing you."
+    }
+  ],
+  "exam_note": "Watch the noun slot: \"had the ___ to\" takes both effrontery and temerity, and the sentence must tell you whether the sin was shamelessness or overstepped rank — and remember audacious and coy carry no fixed verdict, so the surrounding clause, not the word, sets the sign."
+}

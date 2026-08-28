@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__empty-where-substance-was-expected",
+  "title": "Empty where substance was expected",
+  "seed_words": [
+    "vacuous",
+    "vapid",
+    "insipid",
+    "tepid",
+    "frivolous"
+  ],
+  "hallucinated": null,
+  "core": "All five are verdicts of hollowness: something arrived where substance was owed, and the substance wasn't there. None is a neutral description — each carries a faint sneer, and each implies a standard the thing failed to meet. What separates them is *which* substance went missing: thought, interest, flavour, warmth, or weight. Get that right and the group stops being interchangeable.",
+  "words": [
+    {
+      "word": "vacuous",
+      "nuance": "The missing thing is **thought**. **Vacuous** is the harshest here because it indicts a mind, not a product — a vacuous stare means nobody is home behind the eyes, and a vacuous remark means nothing was actually meant, not merely that it was said badly. It attaches to expressions, utterances, and people's heads."
+    },
+    {
+      "word": "vapid",
+      "nuance": "The missing thing is **interest**, and the giveaway is that the surface is pleasant. **Vapid** describes things built to charm — a pop song, party chat, a photogenic smile — that succeed at being agreeable and fail at being anything. It's the most snobbish word in the group: it presumes the speaker is above the entertainment on offer."
+    },
+    {
+      "word": "insipid",
+      "nuance": "The missing thing is **flavour**, and the metaphor stays alive. **Insipid** is the only one that still works literally on food, and even applied to prose or a melody it implies a critic who sampled attentively and found nothing on the palate. Where *vapid* dismisses from a distance, **insipid** is the verdict after tasting."
+    },
+    {
+      "word": "tepid",
+      "nuance": "The missing thing is **warmth**, not content — and it describes the *reaction*, not the work. A tepid review or tepid applause has plenty of substance in it; what it lacks is conviction, and its cruelty is that it isn't hostility. This is the one word here that sits on a temperature scale between hot and cold rather than between full and empty."
+    },
+    {
+      "word": "frivolous",
+      "nuance": "The missing thing is **weight**, and the thing itself isn't empty at all — a frivolous lawsuit or purchase is full of content that simply had no business consuming the time it took. Uniquely moralizing: there's always an implied *when something serious needed doing*. Of a person, it questions judgment rather than intellect — flighty, not stupid."
+    }
+  ],
+  "exam_note": "The GRE picks by what's absent: a lukewarm *response* wants **tepid**, a pointless *lawsuit* wants **frivolous**, a blank *stare* wants **vacuous** — choose on the missing quality, not the shared \"empty.\""
+}

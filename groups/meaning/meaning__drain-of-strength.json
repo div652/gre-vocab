@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__drain-of-strength",
-  "title": "Drain of strength",
+  "title": "Weakening Without Destroying",
   "seed_words": [
     "enervate",
     "debilitating",
     "impair",
     "attenuate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe force being taken out of something that survives the process — strength, capacity, intensity, or effectiveness reduced rather than abolished. None of them means \"destroy,\" and none means \"one sharp blow\"; each implies something left standing in a lesser state. They split on what gets weakened (a person's vigor, a faculty, a signal, a capability), whether the weakening crosses a functional threshold, and whether the speaker is diagnosing, moralizing, or just measuring.",
+  "words": [
+    {
+      "word": "enervate",
+      "nuance": "The only one aimed at a living being's vigor and *will*, and the only one with a moral tinge — its typical agents are conditions rather than events (heat, luxury, idleness, bureaucracy), and the victim ends up limp and spiritless, faintly deserving of it. You can impair a signal or attenuate a virus; you cannot enervate one."
+    },
+    {
+      "word": "debilitating",
+      "nuance": "The only one that names a **threshold** rather than a direction: function stops. It says nothing about mechanism or degree of pain, only about outcome — and it is an adjective attached to the cause (a debilitating illness, strike, anxiety), spoken in the flat clinical voice of doctors and insurers."
+    },
+    {
+      "word": "impair",
+      "nuance": "The one that insists on **partial** damage to a specific named faculty or asset — hearing, judgment, mobility, a credit rating — which keeps working, just worse. Where *debilitating* reports that capacity is gone, **impair** reports it is degraded; and where *enervate* drains a whole person, **impair** always takes one capacity as its object."
+    },
+    {
+      "word": "attenuate",
+      "nuance": "The only **neutral** member, and usually the only deliberate one: a controlled, gradual reduction along a measurable scale, with no victim and no harm implied. Engineers attenuate signals and virologists attenuate viruses on purpose; lawyers say a fact attenuates a claim. It never touches a person's energy."
+    }
+  ],
+  "exam_note": "The GRE baits **enervate** as if it meant \"energize\" (it means the reverse), and baits **attenuate** as if it were harmful — in context it is often the answer precisely because the sentence signals deliberate, measured reduction with no blame."
 }

@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__allusive-elusive",
-  "title": "allusive / elusive / evasive…",
+  "title": "allusive / elusive / evasive / illusory",
   "seed_words": [
     "allusive",
     "elusive",
@@ -9,5 +9,25 @@
     "illusory"
   ],
   "similarity": 0.65,
-  "auto": true
+  "auto": true,
+  "core": "Four near-twins built on overlapping Latin roots (*ludere*, \"to play,\" plus *vadere*, \"to go\"), and all four describe something you can't get at directly. In each case the straight line between you and the thing is broken — by hinting instead of stating, by slipping away, by dodging, or by not being there at all. The differences lie in where the failure sits: in the style, in the quarry, in the dodger's intent, or in reality itself.",
+  "words": [
+    {
+      "word": "allusive",
+      "nuance": "The only one that isn't about escape. **Allusive** means *referring* — the thing being pointed at is solidly real and the writer knows exactly what it is; the burden is on you to recognize it. It attaches to prose, poems, and remarks — never to a person ducking a question."
+    },
+    {
+      "word": "elusive",
+      "nuance": "The quarry is real and usually wanted, and the failure is the pursuer's, not a deception: **elusive** describes what keeps slipping the grasp of whoever is chasing it — a suspect, a scent, a definition. No intent to mislead is implied, and applied to a person it can be outright praise for slipperiness."
+    },
+    {
+      "word": "evasive",
+      "nuance": "Intent, aimed at a specific incoming thing — a question, a subpoena, a punch. **Evasive** is the only one that indicts: call an answer evasive and you've implied concealment without alleging a lie. (Its movement sense — *evasive action* — carries no blame at all.)"
+    },
+    {
+      "word": "illusory",
+      "nuance": "Answers a different question entirely — not *can I catch it?* but *was it ever there?* **Illusory** says the appearance was genuine and the substance never existed, and it's formal, cool, and reserved for things people badly wanted to be true: security, progress, a recovery."
+    }
+  ],
+  "exam_note": "Sentence completions love the elusive/illusory swap: hopes that were never achievable are **illusory**, hopes that stayed just out of reach are **elusive** — only one of them says the thing existed."
 }

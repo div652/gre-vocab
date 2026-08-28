@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__strength-of-evidence",
+  "title": "Strength of evidence: from guess to proof",
+  "seed_words": [
+    "conjectural",
+    "plausible",
+    "credible",
+    "conclusive",
+    "incontrovertible"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers the same question — how much weight can this claim bear? They form a ladder running from a gap filled by inference, through claims that merely sound or feel believable, up to evidence that ends the argument entirely. The trap is that the ladder has two rails: some of these rate how a claim *strikes* a listener, others rate what the *evidence* actually establishes. Sounding good and being proven are different measurements, and only the top of the scale claims the second.",
+  "words": [
+    {
+      "word": "conjectural",
+      "nuance": "Rates the **method**, not the impression: the claim was reached by filling a gap with inference because the documentation doesn't exist. Uniquely, it's often a self-applied label — the scholar flagging their own reconstruction as honest guesswork — where the others are verdicts handed down by a listener."
+    },
+    {
+      "word": "plausible",
+      "nuance": "Measures only the surface: how the claim *sounds* on first hearing, with the evidence question left pointedly untouched. It's the one word here that can flip hostile — *a plausible enough story* signals disbelief — so it's the group's faint-praise option, not a rung of genuine support."
+    },
+    {
+      "word": "credible",
+      "nuance": "The speaker has actually shifted toward belief — enough to act on it, launch the investigation, take the threat seriously. It's also the only one that attaches to **people and efforts** (*a credible witness*, *a credible candidate*), not just to claims and evidence."
+    },
+    {
+      "word": "conclusive",
+      "nuance": "The switch, not the dial: it describes evidence powerful enough to close the question, so it can't be intensified or approached by degrees. It lives overwhelmingly in the negative — *no conclusive evidence*, *the tests were inconclusive* — which is where the exam almost always plants it."
+    },
+    {
+      "word": "incontrovertible",
+      "nuance": "Describes the finished state of a proven fact: opposition has no ground left to stand on. Where *conclusive* praises evidence for settling a dispute, this grades the established point itself — and grades only its provenness, never its importance, so an incontrovertible fact can be completely trivial."
+    }
+  ],
+  "exam_note": "The classic construction pits the two rails against each other — \"the theory was ___, but decades of digging produced nothing to confirm it\" wants *plausible* or *conjectural*, never *credible*; and watch for the negations, since *inconclusive* and *not incontrovertible* mean \"unsettled,\" not \"false.\""
+}

@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__emotion-on-display-vs-emotion-locked-down",
+  "title": "Emotion on display vs. emotion locked down",
+  "seed_words": [
+    "histrionic",
+    "hysterical",
+    "mawkish",
+    "sentimental",
+    "tempestuous",
+    "stoic",
+    "phlegmatic",
+    "stolid",
+    "cerebral",
+    "imperturbable"
+  ],
+  "hallucinated": null,
+  "core": "One axis, two poles: how much feeling reaches the surface. At one end, emotion spills out past the point where an observer finds it credible or bearable — the complaint is always excess, though the excess is variously theatrical, uncontrolled, syrupy or stormy. At the other end, the surface stays flat — but flat for very different reasons, and the whole difficulty is telling *suppressed* feeling from *absent* feeling from *feeling replaced by thought*. Almost every word here is a verdict on the person, not a neutral report.",
+  "words": [
+    {
+      "word": "histrionic",
+      "nuance": "The only one of the excess words that presupposes an **audience**. **Histrionic** charges the person with acting: the display is aimed, timed, and false. Not \"too much feeling\" but \"no feeling, well performed.\""
+    },
+    {
+      "word": "hysterical",
+      "nuance": "**Hysterical** is the opposite accusation from histrionic — the feeling is entirely real, it has simply eaten the person's judgement. The implied failure is loss of control, not fakery, and the practical effect is that nothing the person says need be believed."
+    },
+    {
+      "word": "mawkish",
+      "nuance": "**Mawkish** measures the *listener's* reaction: the sweetness is laid on so thick it nauseates. Reserved for made things — films, eulogies, prose — and spoken from a critic's chair by someone conspicuously declining to be moved."
+    },
+    {
+      "word": "sentimental",
+      "nuance": "The only word here that can be affectionate — a **sentimental** keepsake is harmless. It is also the narrowest in range: it covers tender, nostalgic, pitying feeling only. Rage and terror are excesses of emotion but never sentimental."
+    },
+    {
+      "word": "tempestuous",
+      "nuance": "**Tempestuous** describes turbulence *between* people over time — a marriage, an affair, a decade — not a single outburst, and it carries glamour rather than contempt. It's the one word in the group a subject might secretly enjoy being called."
+    },
+    {
+      "word": "stoic",
+      "nuance": "**Stoic** requires pain and requires that the person mind it. The flat surface is an achievement held in place by will, which is why it's the warmest word on this side — self-command, deliberately exercised."
+    },
+    {
+      "word": "phlegmatic",
+      "nuance": "**Phlegmatic** is stoicism minus the effort: no alarm went off, so nothing needed holding down. It's a claim about constitution, and it swings to praise or insult purely on whether the situation deserved a reaction."
+    },
+    {
+      "word": "stolid",
+      "nuance": "**Stolid** is the version with the insult built in — it implies nothing is happening behind the face at all. Attaches to faces, expressions and crowds rather than to conduct under pressure; suggests slow blood, never discipline."
+    },
+    {
+      "word": "cerebral",
+      "nuance": "**Cerebral** isn't emotional control — it's emotion *displaced by intellect*. Uniquely in this group it applies as readily to a novel or a film as to a person, and its criticism is bloodlessness, not dullness: too clever, not too slow."
+    },
+    {
+      "word": "imperturbable",
+      "nuance": "**Imperturbable** needs a provocation to be visible — the engine fails, the insult lands, and nothing registers. It's the strongest claim of settled calm here, and unlike stoic it says nothing about whether the person is suffering underneath."
+    }
+  ],
+  "exam_note": "The GRE rarely tests display-vs-restraint (too easy); it tests *within* a pole — histrionic vs. hysterical (faked vs. genuinely uncontrolled), mawkish vs. sentimental (always insulting vs. sometimes fond), and above all stoic vs. phlegmatic vs. stolid, where the answer turns on whether the passage credits the person with feeling something."
+}

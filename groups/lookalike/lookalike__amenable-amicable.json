@@ -8,5 +8,21 @@
     "inimical"
   ],
   "similarity": 0.69,
-  "auto": true
+  "auto": true,
+  "core": "Three formal adjectives that look like relatives and mostly take **to**, each describing how one party or condition stands toward another: cooperatively, peaceably, or destructively. The resemblance is largely an accident of spelling — two come from *amicus* (friend), one does not, and one is its outright negation. What actually separates them is what they attach to: a person's willingness, the tone of a dealing, or the effect of an environment.",
+  "words": [
+    {
+      "word": "amenable",
+      "nuance": "**Amenable** is about tractability, not friendliness — it measures resistance, not goodwill, and a chilly colleague can be entirely amenable. It's also the only one here that takes inanimate subjects: a *problem* can be amenable to modelling, but no problem is ever amicable."
+    },
+    {
+      "word": "amicable",
+      "nuance": "**Amicable** attaches to the dealing, not the participant — settlements, divorces, partings — and it presupposes a fight that was expected and didn't happen. Where *amenable* says someone went along with a proposal, **amicable** says the whole negotiation stayed free of rancour."
+    },
+    {
+      "word": "inimical",
+      "nuance": "**Inimical** is the negation of the family and the only negative one: harm without a hater, coming from conditions, policies, or climates rather than from anyone's ill will. It shares *amenable*'s grammar (*inimical to growth* / *amenable to treatment*) but reverses the direction — the thing is set against you rather than yielding to you."
+    }
+  ],
+  "exam_note": "The classic trap is treating **inimical** as friendly on the strength of *ami-*, and swapping **amenable** for **amicable** in a blank like \"was ___ to the proposal\" — only *amenable* can follow a person plus a method or suggestion."
 }

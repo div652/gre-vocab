@@ -8,5 +8,25 @@
     "placid",
     "stoic"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a person who doesn't visibly react — no flinching, no fuss, no outburst. The distinctions live in *why* the reaction is missing and *who is judging*. In three of them the feeling itself is faint or absent (a matter of constitution or surface); in one the feeling is fully present and deliberately held down. The words also split on approval: some are neutral description, some quiet praise, one is a slur wearing a lab coat.",
+  "words": [
+    {
+      "word": "placid",
+      "nuance": "The most neutral and the most *visual* — it describes a surface nothing ruffles, so it works on lakes and afternoons as readily as on people. It makes no claim about inner life at all, which is exactly why it can slide into faint insult: unruffled shades into incurious, and it is the standard adjective for cows."
+    },
+    {
+      "word": "phlegmatic",
+      "nuance": "Diagnoses the person's underlying constitution — the alarm never rings because the wiring is slow, not because the surface is smooth. It's the only one of the four rooted in old humoral medicine, so it reads as a claim about someone's fixed type rather than their mood or moment. Praise or complaint depends entirely on whether the crisis deserved a response."
+    },
+    {
+      "word": "stolid",
+      "nuance": "The one that is openly unflattering: it implies nothing is going on behind the face. Where **placid** leaves inner life unaddressed, **stolid** asserts there isn't much — heavy, dull-blooded, thick. It attaches to faces, expressions, and (in older novels) whole classes of people, and no one calls themselves it."
+    },
+    {
+      "word": "stoic",
+      "nuance": "The outlier — the feeling is fully present and being held. It requires something to endure (pain, loss, hardship), so it can't describe a lake, a temperament in the abstract, or a pleasant afternoon. It credits the person with self-command rather than describing their thermostat, which is why it's the only reliably admiring word in the group."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \\\"calm\\\": look at what the sentence supplies — if there's a hardship being borne, it's **stoic**; if the blank is a criticism of dullness, it's **stolid**; if it's scenery or a surface, only **placid** fits."
 }

@@ -7,5 +7,21 @@
     "incredulous",
     "miscreant"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three come from Latin *crēdere*, \"to believe, entrust\" — but they attach to completely different parts of the act of believing. One describes the claim (does it deserve belief?), one describes the listener (can they get it down?), and one describes a person whose \"wrong belief\" curdled centuries ago into plain bad behavior. The trap is assuming shared etymology means shared subject matter: they don't even take the same kind of noun.",
+  "exam_note": "The classic swap is **incredulous** for *incredible* — remember incredulous needs a person, face, or tone; and don't confuse either with *credulous*, which means the opposite failing (believes everything).",
+  "words": [
+    {
+      "word": "credible",
+      "nuance": "The only one that describes the **claim** rather than a person's reaction to it. It's a threshold word — deliberately weaker than *true*, which is why professionals reach for it when they need to endorse without vouching."
+    },
+    {
+      "word": "incredulous",
+      "nuance": "Points at the **receiver**, and it's a performance: the disbelief is visible on a face or audible in a tone. Unlike **credible**, it says nothing about whether the claim deserves belief — only that this listener can't swallow it."
+    },
+    {
+      "word": "miscreant",
+      "nuance": "The belief sense is dead here — it started as \"wrong-believing\" (heretic) and now carries only moral disapproval, delivered from a height. It's the only one of the three that names a **person by their conduct**, and it's faintly archaic, dry, usually pointed at petty offenders rather than serious criminals."
+    }
+  ]
 }

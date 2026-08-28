@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__heading-it-off-vs-bringing-it-on",
+  "title": "Heading it off vs. bringing it on",
+  "seed_words": [
+    "forestall",
+    "obviate",
+    "preclude",
+    "avert",
+    "deter",
+    "engender",
+    "precipitate",
+    "induce",
+    "foment",
+    "incite"
+  ],
+  "hallucinated": null,
+  "core": "Every verb here acts on an event that has not happened yet. One half intervenes so the event never arrives; the other half is the reason it arrives at all. Within each half the dictionary meanings nearly overlap, so the only thing that separates them is *mechanism*: whether the force is a person, a rule, a fear, or a slow campaign — and whether it lands early, at the last second, or on the need for the thing rather than the thing itself.",
+  "exam_note": "The trap is almost never prevent-vs-cause; it's inside one half — **preclude** and **obviate** look swappable until you check whether the blank's object is the event or the *need* for it, and **forestall** vs **avert** turns entirely on whether the danger was distant or already at the door.",
+  "words": [
+    {
+      "word": "forestall",
+      "nuance": "An agent who saw it coming and moved **early** — the whole word is about timing, not impossibility. Unlike **preclude**, someone had to act; unlike **avert**, they acted long before the thing was at the door."
+    },
+    {
+      "word": "obviate",
+      "nuance": "Alone in the group, it cancels the **requirement** rather than the event: the fix is never needed, the objection never has to be answered. Its object is an abstraction (*the need, the difficulty*), where the others take the disaster itself."
+    },
+    {
+      "word": "preclude",
+      "nuance": "The blocker is impersonal — a clause, an injury, a law — so no one refuses and no one acts in time; the option simply doesn't exist. **Forestall** and **avert** need a mover; **preclude** needs only a condition."
+    },
+    {
+      "word": "avert",
+      "nuance": "Last-second deflection of something already inbound and genuinely dangerous. Where **forestall** buys time in advance, **avert** turns the collision aside at the moment of impact — and it only ever takes real harm as its object."
+    },
+    {
+      "word": "deter",
+      "nuance": "The only one that works on a **mind**: the event is stopped because someone decides the price is too high. Nothing is made impossible — the deterred person still wants it, and would still do it if the fence, fine, or threat vanished."
+    },
+    {
+      "word": "engender",
+      "nuance": "The mildest and least intentional producer here: conditions and feelings (*trust, resentment, debate*) arise from a situation, often as a side effect nobody aimed at. No suddenness, no blame, no agitator — contrast **foment**, where someone is working at it on purpose."
+    },
+    {
+      "word": "precipitate",
+      "nuance": "Adds **suddenness plus prematurity**: the situation was already loaded and your act tipped it early. It doesn't credit you with creating the crisis, only with dropping it — and what falls is nearly always bad and usually unintended."
+    },
+    {
+      "word": "induce",
+      "nuance": "The neutral one. Either a person is walked into acting by an offer (hence *inducement*), or a state is produced artificially — *induce sleep, labour, vomiting* — something that wasn't going to come on its own, or not yet. No unrest, no blame, no crisis."
+    },
+    {
+      "word": "foment",
+      "nuance": "Slow heat, applied deliberately from off-stage and kept up over time: months of working the room, funding, whispering. **Incite** is one match; **foment** is tending the fire, and it takes only bad objects — never goodwill."
+    },
+    {
+      "word": "incite",
+      "nuance": "A single push that sends a **crowd** into an act — a riot, a mutiny. It's the law's word (*incitement to violence*), so it lands as an accusation, and it wants a deed as its object where **engender** would take a feeling."
+    }
+  ]
+}

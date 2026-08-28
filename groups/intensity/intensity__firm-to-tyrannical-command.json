@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__firm-to-tyrannical-command",
+  "title": "Firm to tyrannical command",
+  "seed_words": [
+    "assertive",
+    "imperious",
+    "despotic"
+  ],
+  "hallucinated": null,
+  "core": "All three describe imposing your will on other people, and they sit on a single rising line: how much force is behind the will, and how much right the person has to it. The scale runs from force that is socially licensed, to force asserted without warrant, to force that has become law unto itself. Each step also shifts the target of the description — from what someone says, to how they carry themselves, to what power they actually wield.",
+  "words": [
+    {
+      "word": "assertive",
+      "nuance": "The only member that stays on the approved side of the line, and the only one about advancing **your own** claims rather than directing someone else's behavior — you assert *for yourself*, you are imperious and despotic *over others*. It's the word you'd volunteer about yourself in a performance review; the other two are only ever said behind someone's back."
+    },
+    {
+      "word": "imperious",
+      "nuance": "Describes bearing and tone, not power actually held — a duchess's manner, transplanted into someone with no standing to use it, which is exactly when it bites hardest. The insult isn't volume or nagging but the cold presumption that refusal is unthinkable: **imperious** is the finger-snap, not the threat behind it."
+    },
+    {
+      "word": "despotic",
+      "nuance": "The only one that requires real, unchecked power over a domain — and its signature is **arbitrariness**: rule by today's whim, with no appeal. Where imperious is a manner someone could drop tomorrow, **despotic** describes a standing regime, whether it's a country or a family kitchen."
+    }
+  ],
+  "exam_note": "The trap is treating \"confident and forceful\" as one continuous idea: GRE sentences separate them by evidence — a clue about *manner* (a gesture, a tone, a raised eyebrow) points to imperious, while a clue about *unchecked authority and caprice* points to despotic, and any positive or self-descriptive framing forces assertive."
+}

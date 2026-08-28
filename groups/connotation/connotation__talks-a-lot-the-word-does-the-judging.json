@@ -1,0 +1,47 @@
+{
+  "kind": "connotation",
+  "id": "connotation__talks-a-lot-the-word-does-the-judging",
+  "title": "Talks a lot — the word does the judging",
+  "seed_words": [
+    "garrulous",
+    "loquacious",
+    "voluble",
+    "verbose",
+    "prolix",
+    "expatiate",
+    "ramble"
+  ],
+  "hallucinated": null,
+  "core": "All of these say \"too many words,\" and the fact itself is never in dispute. What separates them is the verdict smuggled into the choice: how harsh the speaker is being, and whether the excess is charming, tedious, aimless, or merely padded. They also split along a second axis — some describe a *person* who won't stop, others describe a *text* that won't end. Pick the wrong one and you accidentally compliment someone, or accuse a memo of being an old man on a porch.",
+  "words": [
+    {
+      "word": "loquacious",
+      "nuance": "The polite label — it describes a disposition (this person talks a lot) without saying the talk was trivial, padded, or off-point. Its fanciness is the whole joke: too formal to be innocent, so it reads as dry understatement rather than complaint."
+    },
+    {
+      "word": "voluble",
+      "nuance": "The only one that can be genuine praise: it points at *ease*, not quantity — no groping for words, no stalling. Use it for the persuasive advocate or the effortless host; it says the speech works, and only faintly hints it may be hard to interrupt."
+    },
+    {
+      "word": "garrulous",
+      "nuance": "The captive listener's complaint, and the only one that indicts the *subject matter* as trivia — the digressions, the neighbour's fence. It carries an age stereotype the others don't: the porch, the train carriage, the person you can't escape."
+    },
+    {
+      "word": "ramble",
+      "nuance": "The sin here is direction, not volume — a short ramble is still a ramble because it drifted off the point. Uniquely, it is content rather than confused, and its noun sense (a Sunday walk) is warm, which none of the rest can manage."
+    },
+    {
+      "word": "expatiate",
+      "nuance": "The verb of the set, and it needs a topic: you expatiate *on* or *upon* something, at an audience. It concedes real expertise and enthusiasm — the speaker knows the subject — while raising an eyebrow at the unrequested lecture."
+    },
+    {
+      "word": "verbose",
+      "nuance": "Aims at the text, not the talker: the ratio of words to content, sentence by sentence. It's the coolest word here — an editor's markup on a contract or slide deck, faulting the padding while granting the ideas may be fine. (Software's *verbose mode* is neutral.)"
+    },
+    {
+      "word": "prolix",
+      "nuance": "Faults total length rather than per-sentence padding — the four-page memo that says no. It's the bookish, unmistakably disapproving upgrade of verbose, reserved for formal prose and set speeches, never for chatter."
+    }
+  ],
+  "exam_note": "The trap is connotation-matching in Sentence Equivalence: *voluble* and *loquacious* can pair (talkative person, no sting), and *verbose* and *prolix* can pair (padded prose), but crossing the axes — garrulous with verbose, prolix with voluble — is always the wrong pair."
+}

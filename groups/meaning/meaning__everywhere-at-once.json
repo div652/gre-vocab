@@ -9,5 +9,29 @@
     "endemic",
     "rampant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five describe something that has spread to a degree you can't ignore — corruption, advertising, damp, disease, dread. The confusion is that they measure spread along different axes: how many separate places it occupies, how constantly it's present, how deeply it has soaked in, how long it has lived there, and whether anything is slowing it down. Swap one for another and you change the claim, not just the wording. Two of them (endemic, rampant) aren't really about breadth at all.",
+  "words": [
+    {
+      "word": "ubiquitous",
+      "nuance": "**Ubiquitous** counts locations: many separate instances, scattered across the map — chain coffee shops, QR codes, that one logo. It suits things that come in copies, and it carries a faint eye-roll about fashion (\"and frankly, enough\") that the other words don't."
+    },
+    {
+      "word": "omnipresent",
+      "nuance": "**Omnipresent** is about time and singularity, not distribution: one thing, there the whole while, never off duty. It's the only member with theological weight (the divine attribute), so applied to a boss or a summer song it reads as ironic — and it's the only one that implies *watching*."
+    },
+    {
+      "word": "pervasive",
+      "nuance": "**Pervasive** is depth, not breadth: one system, one room, one institution, saturated to the corners. It attaches to things that seep — smoke, damp, bias, dread — and implies the stuff got *into* the material rather than sitting on it. Nothing else here describes a mood."
+    },
+    {
+      "word": "endemic",
+      "nuance": "**Endemic** is the odd one out: it *localizes*. The claim is permanent residence in one particular place or group — settled, structural, native — as opposed to an epidemic that arrives and passes. Say it of a ministry and you're saying the rot is the furniture, not an outbreak."
+    },
+    {
+      "word": "rampant",
+      "nuance": "**Rampant** is the only one about rate and restraint: nothing is stopping it and it's still growing. It's a complaint about a missing brake, not a measurement, which is why it collocates almost only with things you'd want halted — inflation, speculation, weeds. Unlike the rest, it is never neutral."
+    }
+  ],
+  "exam_note": "The classic trap is **endemic** in a sentence about breadth — it signals *rooted and confined*, so look for a contrast with \"epidemic,\" \"introduced,\" or \"recent\"; likewise, pick **rampant** only when the sentence supplies an absent check (\"unregulated,\" \"no one intervened\"), not merely a large amount."
 }

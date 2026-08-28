@@ -1,0 +1,47 @@
+{
+  "kind": "connotation",
+  "id": "connotation__cleverness-that-means-crooked",
+  "title": "Cleverness that means crooked",
+  "seed_words": [
+    "cunning",
+    "crafty",
+    "wily",
+    "artful",
+    "devious",
+    "chicanery",
+    "skullduggery"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe intelligence pointed at getting around someone rather than through a problem: the skill is real, the method is indirect, and the target didn't see it coming. None of them denies the brains — that's why they sting differently from plain *dishonest*, which says nothing about competence. What separates them is the **tone of the accusation** (cold contempt vs. grudging half-smile), the **scale** (a dodged chore vs. a rigged committee vs. buried fine print), and the **register** (courtroom-adjacent formality vs. newspaper-column wink).",
+  "exam_note": "The GRE rarely tests \"is this clever?\" — it tests *how much the speaker disapproves*, so the answer usually hinges on whether the sentence is admiring (wily, artful), petty (crafty), cold (cunning), or institutional (chicanery); watch too for the older literal senses of **devious** (winding) and **artful** (tastefully contrived), which are prime second-meaning bait.",
+  "words": [
+    {
+      "word": "cunning",
+      "nuance": "The coldest of the adjectives — predatory and self-interested, with the fox behind it. Where **wily** and **artful** leave room for a smile, **cunning** suggests someone who would sacrifice you without much thought; it's also the only one here that doubles as a noun for the faculty itself (*sheer cunning*)."
+    },
+    {
+      "word": "crafty",
+      "nuance": "The small-bore one. **Crafty** fits contained, low-stakes maneuvering — a kid dodging chores, a term buried in clause nine — and sounds faintly ridiculous applied to a war criminal or a national scandal, where **cunning** or **chicanery** belong."
+    },
+    {
+      "word": "wily",
+      "nuance": "Implies *experience* and a weak hand played well — the wily old negotiator who outlasts younger, better-funded opponents. It's the warmest word in the group: it credits survival instinct, where **crafty** credits only a trick and **devious** credits only a detour."
+    },
+    {
+      "word": "artful",
+      "nuance": "The only one that admires the *execution*. The dodge, the pivot, the question is beautifully made, and the elegance is what convicts the speaker of noticing. **Cunning** never sounds graceful; **artful** always does, which is why the clean sense (an artful arrangement of flowers) survives at all."
+    },
+    {
+      "word": "devious",
+      "nuance": "Aimed at the **route**, not the character — the loops, the cover story, the third party who \"happened\" to mention it. That's why it can be said half-fondly to a sibling: it describes how you got there, whereas *deceitful* would rule on what you are. Its literal older sense, *winding*, still works on a mountain track."
+    },
+    {
+      "word": "chicanery",
+      "nuance": "A formal noun, and the only word here where **the rules themselves are the weapon** — loopholes, quibbles, procedural sleight-of-hand, fine print. It presumes a professional arena (lawyers, election officials, accountants) and a winner: you say it about someone who prevailed, disgracefully."
+    },
+    {
+      "word": "skullduggery",
+      "nuance": "The informal noun, and the one that half-winks. It points at backroom deals and quiet double-crossing done out of sight, and its faintly comic sound makes it the word for wrongdoing you *suspect but can't prove* — **chicanery** names a technique, **skullduggery** names an atmosphere."
+    }
+  ]
+}

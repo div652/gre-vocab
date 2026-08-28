@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__make-it-stand-out",
-  "title": "Make it stand out",
+  "title": "Accentuate / Underscore / Amplify — turning up what's already there",
   "seed_words": [
     "accentuate",
     "underscore",
     "amplify"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three take something that already exists and raise its salience — none of them invents, and none of them distorts. That shared honesty is why they get swapped: each one leaves the underlying fact intact and only changes how much it registers. The differences live in *what* gets raised: the sharpness of a feature, the perceived importance of a fact, or the sheer magnitude of a thing.",
+  "exam_note": "Sentence Equivalence loves this trio because all three fit \"made X more noticeable\" — decide first whether the sentence needs the thing to grow (**amplify**), to be recognised as important (**underscore**), or to be thrown into sharper contrast (**accentuate**); then check the subject, since only **underscore** is routinely driven by an event or statistic rather than a person.",
+  "words": [
+    {
+      "word": "accentuate",
+      "nuance": "Works on a **feature** and sharpens its contrast against everything around it — a cheekbone, a curve, a hairline crack, a class divide. Nothing gets bigger or louder; the edges just get harder to miss, which is why it's the only one of the three at home in descriptions of clothing, faces, and design."
+    },
+    {
+      "word": "underscore",
+      "nuance": "Changes nothing about the thing itself — only your recognition that it **matters**. Its object is abstract and evaluative (a need, a risk, a fragility, a point), and its subject is usually an event or a statistic rather than a person: the crash underscores; the editorial merely stresses."
+    },
+    {
+      "word": "amplify",
+      "nuance": "The only one that increases actual **magnitude** — louder, stronger, further-reaching — which is why it alone governs sound and signals, and why panic, tension, and rumour are its natural objects. It also has a sense the others lack entirely: \"amplify that point\" means *say more about it*, not *say it more forcefully*."
+    }
+  ]
 }

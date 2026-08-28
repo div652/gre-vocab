@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__loud-public-praise",
-  "title": "Loud public praise",
+  "title": "Loud public praise — and who's doing the praising",
   "seed_words": [
     "acclaim",
     "extol",
@@ -9,5 +9,29 @@
     "lionize",
     "approbation"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five involve praise that happens in public, before an audience, rather than a private compliment. What separates them is the *source* and the *motive*: whether the praise comes from a crowd, an authority, an orator, or a salesman — and whether the reader is meant to trust it. Two of these are clean approval; two arrive with a raised eyebrow; one is neutral machinery for delivering either. They also differ in what they attach to: a work, a decision, a virtue, or a person.",
+  "words": [
+    {
+      "word": "acclaim",
+      "nuance": "The **crowd's verdict, already delivered** — it names the result, not the act of praising. It attaches to work (a film, a debut, a performance), and \"widely acclaimed\" signals the argument is settled, which none of the others imply."
+    },
+    {
+      "word": "approbation",
+      "nuance": "Requires a **source with standing** — a board, a superior, a licensing body. It's the coolest word here: sanction and blessing rather than enthusiasm, and it can be a single silent nod where acclaim needs noise."
+    },
+    {
+      "word": "extol",
+      "nuance": "The only one that is purely an **act of speaking** — someone at a podium, at length. Its usual object is an abstraction (*the virtues of hard work, the merits of the plan*), not a person's celebrity, and the elevated register makes overstatement the built-in risk."
+    },
+    {
+      "word": "lionize",
+      "nuance": "Its object is always a **person**, and it describes how they are *treated* — paraded, fêted, put on the circuit — not what anyone said about them. Carries the writer's hint that the fuss outran the achievement."
+    },
+    {
+      "word": "tout",
+      "nuance": "The only word where the praiser **stands to gain**. It implicates the promoter and inflates the claim, and it typically points forward at a promise (*touted as the next big thing*) rather than back at proven work."
+    }
+  ],
+  "exam_note": "The exam splits this group on motive and source: sentence-completion contexts with \"but,\" \"self-interested,\" or \"unproven\" want **tout** or **lionize**, while a context naming an institution or authority wants **approbation** — and it will bait you with **opprobrium**, which looks like approbation but means the opposite."
 }

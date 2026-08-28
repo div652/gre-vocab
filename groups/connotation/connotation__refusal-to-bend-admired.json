@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__refusal-to-bend-admired",
+  "title": "Refusal to bend, admired",
+  "seed_words": [
+    "dogged",
+    "steadfast",
+    "resolute",
+    "indefatigable",
+    "stalwart",
+    "perseverance"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe someone who will not move, quit, or defect — and all of them treat that as a virtue rather than a fault. The behaviour is identical to stubbornness; only the speaker's approval differs. What separates them is *what* is being praised: the grinding effort, the settled decision, the loyalty under pressure, the sheer unspent stamina, or the years already served.",
+  "words": [
+    {
+      "word": "perseverance",
+      "nuance": "The only one that names the quality as an abstract virtue rather than describing a person — it's what gets listed alongside diligence and grit on a school report. It presumes real setbacks and slow accumulation, so it credits months of unrewarded effort, not one decision or one loyal act."
+    },
+    {
+      "word": "dogged",
+      "nuance": "Praises the *unglamorous* version: plodding, repetitive, low-status effort that outlasts boredom and dead ends. It quietly concedes the person isn't brilliant or fast — they're just still at it in month nine, which is why it pairs so naturally with **determination** and **persistence**."
+    },
+    {
+      "word": "indefatigable",
+      "nuance": "Praises apparent absence of cost — everyone else has flagged and this person shows no wear. Grander and more admiring than **dogged**, and uniquely capable of a dry edge: the indefatigable correspondent is one you may be tired of hearing from."
+    },
+    {
+      "word": "resolute",
+      "nuance": "Points at a *decision*, not effort: doubt was weighed, dismissed, and the mind is now closed on purpose. Says nothing about how long or how hard — a person can be resolute in one moment, which is impossible for **perseverance** or **indefatigable**."
+    },
+    {
+      "word": "steadfast",
+      "nuance": "About not *leaving* — it needs someone or something to stay attached to, under pressure to abandon it. The pressure is defection rather than exhaustion, so it takes allies, friends, faith and support, and sounds absurd on a trivial preference."
+    },
+    {
+      "word": "stalwart",
+      "nuance": "Adds **time served** and a hint of physical solidity: this one has been around for years doing the thankless work through bad seasons. Alone in the group it works as a noun (*a stalwart of the party*), and alone in the group it cannot describe a talented newcomer."
+    }
+  ],
+  "exam_note": "The GRE tests the *attitude*, not the behaviour: the same immovability is obstinate, obdurate, intransigent, or pertinacious when the sentence disapproves — let the surrounding praise or blame, not the action described, pick the answer."
+}

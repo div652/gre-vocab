@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__hinting-to-declaring",
+  "title": "Hinting to Declaring: intimate → allude → aver",
+  "seed_words": [
+    "intimate",
+    "allude",
+    "aver"
+  ],
+  "hallucinated": null,
+  "core": "All three are verbs for putting a proposition into circulation, and the GRE sorts them by how much of themselves the speaker puts behind it. At one end the content arrives sideways, unstated, deniable — the listener has to reconstruct it. At the other end it is planted flatly as fact, with the speaker's credibility staked on it. All three are formal-register words that show up in the same habitats — courtrooms, diplomacy, criticism, 19th-century prose — so register won't separate them; only commitment will.",
+  "words": [
+    {
+      "word": "intimate",
+      "nuance": "**Intimate** delivers actual content — a claim, a threat, a resignation — but wraps it so the speaker can disown it later. Deniability is the point: the chairman who *intimated* he might step down has said nothing you could quote back at him. Genteel and calculated, unlike sly *insinuate* or casual *hint*. Watch the noun/adjective decoys: the GRE sense is the verb, and it is stressed differently (in-ti-MATE)."
+    },
+    {
+      "word": "allude",
+      "nuance": "**Allude** points at something already known rather than asserting anything new — the referent does the work, not the speaker. You allude *to* the scandal, *to* Homer, *to* \"recent difficulties\"; the listener supplies the name. It commits you to no proposition at all, which is why it is the verb of literary reference as much as of tact. Structurally marked: it always takes **to**, so a blank with a bare object cannot be *allude*."
+    },
+    {
+      "word": "aver",
+      "nuance": "**Aver** drops the indirection entirely and vouches. It typically appears against resistance — doubt, contradiction, cross-examination — and puts the speaker's own credibility on the line, where *claim* stays neutral and *allege* actively flags the thing as unproven. Stiff, legalistic, almost always followed by *that*. Nobody avers a hunch."
+    }
+  ],
+  "exam_note": "Watch the sentence's stance cue: contrast words like \"rather than stating outright\" or \"declined to say plainly\" kill *aver*, while \"in the face of mounting evidence\" or \"flatly\" kills the other two — and if the blank is followed by *to*, only *allude* fits."
+}

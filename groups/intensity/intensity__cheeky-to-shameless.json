@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__cheeky-to-shameless",
+  "title": "Cheeky to shameless",
+  "seed_words": [
+    "impertinent",
+    "impudent",
+    "insolent",
+    "brazen"
+  ],
+  "hallucinated": null,
+  "core": "All four describe boldness that ought to have been embarrassed and wasn't. The offence is never the content of the act — it's the failure to show the deference or shame the situation called for, done openly rather than behind anyone's back. The first three are calibrated against a hierarchy and are almost always spoken *downward* by the person who expected respect; the last needs no hierarchy at all, only an audience. They scale from mildly out-of-line to entirely past caring.",
+  "words": [
+    {
+      "word": "impertinent",
+      "nuance": "The mildest, and the only one that can be forgiven in the same breath — **impertinent** flags a specific overstep (a question you had no standing to ask), not an attitude, so the offence ends with the remark. It's also the fussiest: it makes the speaker sound like a duchess, and it alone carries the separate legal sense *irrelevant, not pertinent*."
+    },
+    {
+      "word": "impudent",
+      "nuance": "**Impudent** adds cheek and enjoyment — the offender is pleased with themselves and slightly charming about it. Where impertinent is a lapse of standing, impudent is a saucy grin; the word is what an outraged father or magistrate says, and it dates the speaker more than it damns the offender."
+    },
+    {
+      "word": "insolent",
+      "nuance": "The grin curdles into contempt. **Insolent** is not cheek but a pointed *refusal to defer* — the shrug, the smirk, the tone — aimed unmistakably upward at someone who expected obedience. It's the coldest of the hierarchy words, and the one that most exposes the speaker's own claim to rank."
+    },
+    {
+      "word": "brazen",
+      "nuance": "Drops the hierarchy entirely: **brazen** doesn't require a superior to offend, only shamelessness in full view. The scandal is the openness — a brazen lie is told to your face by someone who knows you know, because concealment would concede the rule mattered. Uniquely a verb too: *brazen it out* is refusing to look embarrassed under accusation."
+    }
+  ],
+  "exam_note": "Traps hinge on direction and shame: if the sentence supplies a superior being disrespected, the answer is in the impertinent–insolent band (pick by warmth: prissy → cheeky → contemptuous); if it stresses that the act was done openly, in public, or without embarrassment, it's **brazen**."
+}

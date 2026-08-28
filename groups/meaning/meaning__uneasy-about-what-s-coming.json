@@ -8,5 +8,25 @@
     "timorous",
     "qualm"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit *before* the event — the unease of something bad that hasn't arrived yet, not the shock of something that has. They split on what the dread attaches to: a named upcoming event, an ominous sign, a person's permanent character, or your own conscience about an act you're about to commit. Three are feelings; one is what a sign *does*.",
+  "words": [
+    {
+      "word": "apprehension",
+      "nuance": "The neutral-register noun for the feeling, and the only one that needs a specific coming event to attach to — the verdict, the biopsy, the merger. Civil enough to say in a board meeting, and unlike **timorous** it implies nothing about your character: you still show up."
+    },
+    {
+      "word": "forebode",
+      "nuance": "The only member that can take a non-human subject — a silence, a red sky, a dropped omen *forebodes*, doing the signaling rather than feeling it. When a person forebodes, the dread is objectless premonition, not **apprehension**'s knot about a scheduled event."
+    },
+    {
+      "word": "timorous",
+      "nuance": "Not a feeling but a verdict on a person: a settled, bookish put-down for someone whose fear has hardened into inability to act. **Apprehension** describes your Tuesday; **timorous** describes your whole disposition, and the speaker is looking down at you when they say it."
+    },
+    {
+      "word": "qualm",
+      "nuance": "The dread is moral and aimed at your *own* conduct — a flicker of conscience about whether you should do this, not fear of what will happen to you. Smallest of the four, and usually met negated: \"no qualms about\" firing them."
+    }
+  ],
+  "exam_note": "The trap is **apprehension** meaning *arrest* or *comprehension*, and **forebode** being irreversibly bad where *portend* and *presage* are neutral."
 }

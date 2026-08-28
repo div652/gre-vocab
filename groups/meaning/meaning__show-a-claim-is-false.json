@@ -8,5 +8,25 @@
     "debunk",
     "belie"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit at the point where a claim meets something that cuts against it. What separates them is *who or what does the cutting* and *whether it works*: a person marshalling proof, a person merely objecting, a public unmasking, or a mute fact that contradicts on its own. They also differ in whether the claim was ever respectable to begin with, and in one case the verb regularly ends up defending the claim rather than destroying it.",
+  "words": [
+    {
+      "word": "refute",
+      "nuance": "**Refute** is the only one that scores the point: it asserts the disproof landed and the matter is settled. It needs an arguer with evidence or logic — you cannot refute by objecting loudly. Using it of yourself is a large claim, which is why careful writers say *dispute* until the work is actually done."
+    },
+    {
+      "word": "gainsay",
+      "nuance": "**Gainsay** is contradiction by assertion alone — mouth against mouth, no proof implied and no success implied. Its habitat is the negative (*no one can gainsay*, *there is no gainsaying*), so in practice the word most often certifies that a claim is unassailable."
+    },
+    {
+      "word": "debunk",
+      "nuance": "**Debunk** requires a target with standing — a cherished myth, a celebrated theory, a reputation people bought into. It is public, deflating, and flatters the debunker as the plain-dealer against humbug; you cannot **debunk** a typo or a private hunch, only something that had believers."
+    },
+    {
+      "word": "belie",
+      "nuance": "**Belie** takes no arguer at all: its subject is a thing — a calm voice, a quarterly figure, a shabby facade — that silently contradicts. Direction is everything, since the subject is the deceiver or the disprover and what follows is the claim being undercut. It also carries the disguise sense the others lack, and it never means *reveal*."
+    }
+  ],
+  "exam_note": "The GRE punishes the loose senses: **refute** treated as \"deny\" (it means \"disprove, successfully\"), **gainsay** read as defeating a claim when its negative frame usually upholds one, and **belie** flipped so the subject reveals rather than misrepresents."
 }

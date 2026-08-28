@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__lavish-giving-vs-tight-fisted-withholding",
+  "title": "Lavish giving vs. tight-fisted withholding",
+  "seed_words": [
+    "munificent",
+    "largesse",
+    "beneficent",
+    "lavish",
+    "endow",
+    "miserly",
+    "parsimonious",
+    "penurious",
+    "stinting",
+    "chary"
+  ],
+  "hallucinated": null,
+  "core": "Every word here measures how freely something flows out of a giver's hands — money, gifts, praise, effort, attention. One half describes the flow opened wide, the other describes it pinched shut. The confusion isn't just which side a word sits on: it's *what* each one actually measures. Some rate the scale of the gift, some the moral quality of the giver, some the direction of the flow (downward, from someone who could stop), and some the motive for holding back — greed, fear, or cold calculation.",
+  "exam_note": "Two traps: **parsimonious** and **chary** are not slurs when applied to theories and risks respectively — a \"parsimonious explanation\" is praise — and **stinting** almost always appears negated (*unstinting*), so a passage's *without stinting* is a generosity clue, not a stinginess one.",
+  "words": [
+    {
+      "word": "munificent",
+      "nuance": "Rates the **size of the gift and the standing of the giver** — a wing of a library, not a round of drinks. Alone in this group it is pure, unironic public praise; you cannot easily sneer with it the way you can with *largesse* or *beneficent*."
+    },
+    {
+      "word": "largesse",
+      "nuance": "The only noun, and the only word whose meaning is **direction**: it flows downward, from someone who could shut the tap off tomorrow. That built-in height difference is why it curdles in print — *corporate largesse*, *his father's largesse* — insulting the receiver rather than complimenting the giver."
+    },
+    {
+      "word": "beneficent",
+      "nuance": "Rates **conferred benefit, not volume spent** — the deed landed and did good. Where *munificent* is about how much was handed over, this is about whether anyone was actually helped; a benefactor can be munificent and useless, beneficent and cheap."
+    },
+    {
+      "word": "lavish",
+      "nuance": "The neutral **volume gauge** — it counts what pours out and passes no verdict, so it swings warm (*a lavish welcome*) or damning (*a lavish lifestyle on a clerk's salary*). Also the group's workhorse verb, and the one that attaches happily to non-money: praise, attention, detail."
+    },
+    {
+      "word": "endow",
+      "nuance": "Names the **mechanism, not the mood**: a principal sum that pays out forever, or a quality handed over at birth. That second sense is unique here — *endowed with perfect pitch* has no giver at all, just nature or luck, and the implication is that nothing was earned."
+    },
+    {
+      "word": "miserly",
+      "nuance": "The one where the withholding is **greed that punishes the hoarder too** — sitting in the cold to save coal. It carries contempt mixed with pity, and it's the plainest, most spoken-aloud word on this side; *parsimonious* audits, *miserly* jeers."
+    },
+    {
+      "word": "parsimonious",
+      "nuance": "The **cold, clinical** version — the word of the obituary and the audit, not the argument. It is also the only one with a genuine positive use: a parsimonious theory assumes as little as possible, and that is a compliment."
+    },
+    {
+      "word": "penurious",
+      "nuance": "The only word that **can't decide between poor and stingy** — and that ambiguity is the point: it describes someone living as if there were nothing left, whether or not that's true. Bookish; you write it, you don't hiss it."
+    },
+    {
+      "word": "stinting",
+      "nuance": "The **relational** one — it measures the gap between what was given and what was *owed*. Its victim is implied: to stint someone is to keep them short. And you'll usually meet it negated, as *unstinting* praise or support."
+    },
+    {
+      "word": "chary",
+      "nuance": "The withholding here comes from **caution, not greed** — the chary giver is protecting themselves, not hoarding. The tell is grammatical: it demands *of* or *about* (*chary of praise*, *chary about commitments*), and it's the only word on this side that leaves the person's character intact."
+    }
+  ]
+}

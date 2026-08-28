@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__gripping-vs-sleep-inducing",
+  "title": "Gripping vs. sleep-inducing",
+  "seed_words": [
+    "arresting",
+    "enthrall",
+    "compelling",
+    "scintillating",
+    "piquant",
+    "soporific",
+    "tedious",
+    "humdrum",
+    "monotonous",
+    "plodding",
+    "insipid",
+    "vapid"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a verdict on one thing: whether something holds attention or bleeds it away. The top half describes the different mechanisms by which a thing seizes you — a halt, a surrender, a force, a sparkle, a pleasing sharp bite. The bottom half describes the different ways a thing loses you — it runs too long, never varies, moves too heavily, or has nothing in it to begin with. The trap is that within each half the words are not interchangeable: each names a *specific* cause of the grip or the dullness, and the exam picks whichever one the sentence has quietly set up.",
+  "words": [
+    {
+      "word": "arresting",
+      "nuance": "**Arresting** is the *instant*: a single image, face, or line that stops you mid-motion. It says nothing about whether the effect lasts — unlike *compelling* (which keeps you there) or *enthrall* (which won't let you leave). Cool-headed and often applied to things that are strange rather than pretty."
+    },
+    {
+      "word": "enthrall",
+      "nuance": "The only one here that takes a *person* as its object — you don't say a book is enthrall, you say the reader **was enthralled**. It names the duration and the helplessness: attention held so completely that the outside world drops away. Pleasurable captivity, and the power sits with the thing, not the viewer."
+    },
+    {
+      "word": "compelling",
+      "nuance": "The only one that works on *reasoning*: **compelling evidence** leaves no honest room to disagree. Where the others describe an aesthetic pull, **compelling** implies pressure with a justification behind it — the force is in the merits of the thing, which is why it also survives in flat legal use (*a compelling state interest*)."
+    },
+    {
+      "word": "scintillating",
+      "nuance": "Praise for *verbal output* — talk, wit, prose, a performance — never for a face or a character. It explicitly means brilliance in flashes, quick and bright rather than deep, which none of the others concede. Also the one word in this group routinely deployed sarcastically: said deadpan, it means the opposite."
+    },
+    {
+      "word": "piquant",
+      "nuance": "The only one that starts on the *tongue* — agreeably tangy food — and carries that sense over: a small, sharp, well-judged stimulation. It is the mildest of the positives by design, insisting the sharpness is *little* and *pleasant*, where *arresting* and *compelling* are about overwhelming force."
+    },
+    {
+      "word": "soporific",
+      "nuance": "The only dull-word that literally means *puts you to sleep* — in medicine, a sedative, with no insult attached at all. Outside medicine it's a mock-genteel weapon: the bookish, faintly amused way to call a lecture unbearable without saying \"boring.\" Aimed at things that talk at you — speeches, sermons, prose."
+    },
+    {
+      "word": "tedious",
+      "nuance": "The complaint is **length**. Tedious things continue after they have stopped being interesting: the meeting that will not end, the form with forty fields. Not about sameness (*monotonous*) or emptiness (*vapid*) — about patience being ground down by duration. Mild enough to write in a report without sounding rude."
+    },
+    {
+      "word": "humdrum",
+      "nuance": "The complaint is **unchanging routine measured in years** — jobs, towns, marriages, one's own life. It's the only word here you'd aim mostly at *yourself* (\"my humdrum little life\"); it sighs rather than sneers, and it never implies the thing is bad, only identical."
+    },
+    {
+      "word": "monotonous",
+      "nuance": "The complaint is **one unvarying note**, in the most sensory sense: a droning voice, a flat motorway, data entry. It's about the numbing *effect* of sameness in the moment, where *humdrum* is about sameness across a life and *tedious* is about sheer length."
+    },
+    {
+      "word": "plodding",
+      "nuance": "The only one about **pace and weight** — trudging, heavy-footed, no lightness. Crucially it does not deny competence: the plodding detective usually gets there, which is why it can carry grudging respect. Aimed at a mind rather than a pace, it means unimaginative — incapable of a leap."
+    },
+    {
+      "word": "insipid",
+      "nuance": "**Insipid** is the flavour verdict: the thing *should* have had taste and delivered none. It implies a critic who sampled attentively — soup, prose, a melody, a personality — and found it watery. More withering and more literary than *tedious*, and unlike *humdrum* it is contempt, not a sigh."
+    },
+    {
+      "word": "vapid",
+      "nuance": "The sting is that vapid things are perfectly *agreeable*: the pleasant smile, the pop song, the weather chat. It denies there was ever any content to engage with — where *insipid* says the flavour was too weak, **vapid** says nothing was in there. Faintly snobbish, and usually aimed at people and their talk."
+    }
+  ],
+  "exam_note": "The exam rarely tests grip-vs-dull directly; it tests *which* dullness — sentence completions plant the cause (a two-hour runtime → tedious; a droning voice → monotonous; a pretty but empty debut → vapid), and picking any other dull word feels right and scores zero."
+}

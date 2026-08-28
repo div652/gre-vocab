@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__tender-backward-looking-sadness",
-  "title": "Tender, backward-looking sadness",
+  "title": "Quiet sadness: the mood, the longing, and the thing that stings",
   "seed_words": [
     "pensive",
     "wistful",
     "poignant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three name sadness in its soft, refined register — nothing loud, no wailing, no grudge. The feeling is quiet, tinged with tenderness, and usually tied to distance: something absent, past, or slipping away. The differences are structural, not just intensity. Two of them describe a *person's* inward state; one describes the *thing* that produces the state in someone watching. And they differ in whether the sadness has an object at all: a vague grey mood, a specific lost thing longed for, or a precise detail that pricks.",
+  "words": [
+    {
+      "word": "pensive",
+      "nuance": "The only one that is primarily about **thinking**; the sadness is a tint on the thought, not the point. Crucially, it needs **no object** — a pensive person is lost in thought about nothing you can name, whereas the others require a lost thing or a piercing detail. It is also the most *external*: you call a face, a silence, or a portrait pensive because of how it looks from outside."
+    },
+    {
+      "word": "wistful",
+      "nuance": "Requires an **object you can name and cannot have** — the childhood house, the version of yourself at twenty. Adds two things pensive lacks: **longing** and **resignation**. The wistful person wants it and has already given up reaching, which is why the ache is half-pleasant rather than raw. Attaches to smiles, sighs, and glances."
+    },
+    {
+      "word": "poignant",
+      "nuance": "The odd one out grammatically: it labels the **stimulus, not the sufferer**. A film, a detail, a letter is poignant; a person gazing out a window is not. It describes the sharpness of the strike on an observer, and it is the only one that works as **critical praise** — calling art poignant says it earned its ache. Formal register, and it wants one precise detail, not a general mood."
+    }
+  ],
+  "exam_note": "The classic trap swaps **poignant** for the other two in a sentence describing a person's mood — remember it modifies what causes the feeling, not the one feeling it; and if a specific lost thing is named in the sentence, the answer is **wistful**, not **pensive**."
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__dull-to-worn-out",
+  "title": "Dull to worn-out",
+  "seed_words": [
+    "prosaic",
+    "pedestrian",
+    "banal",
+    "hackneyed"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these is a negative verdict on something that failed to be interesting — and none of them says the thing is *wrong*. They split along one axis: whether the dullness is inherent flatness (it never had lift) or acquired staleness (it was used until the life went out of it). The early members indict the thing itself; the later ones indict how many times you've heard it before. All four are critics' words, and all four assume the subject was supposed to be interesting.",
+  "exam_note": "Sentence Equivalence loves pairing these for a \"two words, same meaning\" answer — check the sentence's cue: \"repeated,\" \"overused,\" \"once fresh\" points to the staleness pair; \"accurate but lifeless,\" \"competent,\" \"no spark\" points to the flatness pair.",
+  "words": [
+    {
+      "word": "prosaic",
+      "nuance": "The only one here that can attach to a *truth* rather than a performance: the prosaic explanation is the boring one that happens to be correct. It charges absence of poetry, never repetition — a prosaic sentence can be the first time anyone has written it."
+    },
+    {
+      "word": "pedestrian",
+      "nuance": "The metaphor is on-foot: your own work, moving under its own power, and never leaving the ground. It targets execution and craft — a reviewer's word for competent, adequate, unlifted, with no implication that anyone else has done it before you."
+    },
+    {
+      "word": "banal",
+      "nuance": "The only one that audibly registers the speaker's fatigue — it's stale, and the speaker is sick of it. Add emptiness to staleness: a banal remark is both predictable and says nothing, which is why it lands hardest on wedding speeches, slogans, and small talk."
+    },
+    {
+      "word": "hackneyed",
+      "nuance": "The narrowest target: phrases, plots, metaphors, opening lines — language, never objects or people. It uniquely implies the thing was once good, which is exactly why it got used to death, so the charge is laziness in reaching for it rather than emptiness in the thing itself."
+    }
+  ]
+}

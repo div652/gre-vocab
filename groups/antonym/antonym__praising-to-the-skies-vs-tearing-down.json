@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__praising-to-the-skies-vs-tearing-down",
+  "title": "Praising to the skies vs. tearing down",
+  "seed_words": [
+    "extol",
+    "acclaim",
+    "laudable",
+    "meritorious",
+    "estimable",
+    "excoriate",
+    "castigate",
+    "vilify",
+    "denigrate",
+    "scathing"
+  ],
+  "hallucinated": null,
+  "core": "All ten are formal, public verdicts on worth — someone with a platform declaring a person, an act, or a piece of work admirable or contemptible, on the record and with an audience. None of them is a private opinion: they belong to ceremonies, citations, editorials, reviews and inquiry reports. The traps are not up-versus-down, which is obvious, but the finer axes inside each half: who is doing the judging (one speaker, a crowd, an institution), what the verdict attaches to (an intention, a deed, a reputation, the criticism itself), and whether the word quietly editorialises about whether the verdict was deserved.",
+  "words": [
+    {
+      "word": "extol",
+      "nuance": "The only praise here that is purely one speaker's enthusiasm — no crowd needed, no institution behind it, just volume and a podium. And it is the one that can backfire: *extol the virtues of* implies the speaker is overselling, where **acclaim** implies the verdict is already settled."
+    },
+    {
+      "word": "acclaim",
+      "nuance": "The verdict of a crowd, a press, a field — never of one admirer, which is exactly what separates it from **extol**. It lands on work rather than character, and it is the only word in the group that can *install* someone in a role by sheer shouted approval (*acclaimed king*)."
+    },
+    {
+      "word": "laudable",
+      "nuance": "Praises the aim, not the achievement — the only word in the group you can apply to something that failed. \"A laudable attempt\" is polite consolation; **meritorious** would be a lie in the same sentence, because it requires the deed to have actually come off."
+    },
+    {
+      "word": "meritorious",
+      "nuance": "Praise that converts into a reward: a medal, a citation, a line in the commendation letter. It attaches to conduct and service rather than to a person, and it is dutiful rather than dazzling — where **estimable** grants standing, this grants credit for work performed."
+    },
+    {
+      "word": "estimable",
+      "nuance": "Respect for the person, not for any particular deed — the coldest word on the praise side, and the one most likely to be a feint. \"My estimable colleague\" is the standard prelude to demolishing him, which no other praise word here does."
+    },
+    {
+      "word": "excoriate",
+      "nuance": "The longest and most itemised of the attacks — a point-by-point flaying that leaves nothing standing, delivered by someone whose standing makes it count. **Castigate** pronounces you at fault in a sentence; excoriation takes paragraphs, and it flatters the critic as much as it damages the target."
+    },
+    {
+      "word": "castigate",
+      "nuance": "A punishing rebuke *for* a named failing, delivered from moral authority — the verdict, not the demolition. It implies the target had it coming, which is precisely where it parts company with **vilify** and **denigrate**, both of which hint the attack was undeserved."
+    },
+    {
+      "word": "vilify",
+      "nuance": "The only one aiming to make an audience *hate* the target: it paints them as wicked and contemptible, over weeks and in print. It usually arrives as \"unfairly vilified\" — the writer siding with the victim — whereas **castigate** sides with the critic."
+    },
+    {
+      "word": "denigrate",
+      "nuance": "Belittling, not demonising: it makes the target look small and worthless, where **vilify** makes them look evil. A steady drip of running-down remarks about competence or character, and the word convicts the speaker of pettiness as much as it wounds the target."
+    },
+    {
+      "word": "scathing",
+      "nuance": "The one adjective on this side — it describes the texture of the criticism, not the act of criticising, so it attaches to the review or the report, never to the reviewer. It adds scorn plus skill (the writer is enjoying himself) and it certifies a hit: criticism that bounced off was never scathing."
+    }
+  ],
+  "exam_note": "The direction is the easy half; the trap answer is right-direction-wrong-target — **laudable** goal vs. **meritorious** service, one speaker's **extol** vs. a field's **acclaim**, small-making **denigrate** vs. evil-making **vilify** — so read what the blank actually attaches to (an intention, a deed, a reputation, the criticism itself) before you pick."
+}

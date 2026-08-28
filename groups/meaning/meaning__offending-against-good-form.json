@@ -8,5 +8,25 @@
     "gauche",
     "impolitic"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four condemn something said or done that shouldn't have been — and none of them condemns it as *wrong*. No one is harmed, no law or moral rule is broken; what's been violated is an unwritten code about how a person in that position, on that occasion, ought to behave. The speaker is judging form, polish, or calculation, which is why every one of these words is cooler and more fastidious than *rude* or *disgraceful*. The differences lie in which code was broken and who pays for breaking it.",
+  "words": [
+    {
+      "word": "indecorous",
+      "nuance": "The narrowest and most literal: the **occasion** sets a required register and the act missed it — too jolly, too loud, too familiar for a funeral, a ceremony, a courtroom. Pure etiquette-column vocabulary, so it usually sounds gently arch rather than truly scandalised."
+    },
+    {
+      "word": "unseemly",
+      "nuance": "Turns on **how it looks given who you are** — a judge shouting, ministers bickering on camera, relatives circling an inheritance before the burial. Unlike *indecorous*, it can hint at an ugly motive showing through, and it's the word institutions reach for: the raised eyebrow of someone embarrassed *for* you."
+    },
+    {
+      "word": "gauche",
+      "nuance": "The fault sits in the **person, not in the act's fit to the occasion** — they lacked the polish to know better. It's a verdict from above about breeding rather than a description of a breach, so it convicts the speaker of snobbery as much as the subject of clumsiness."
+    },
+    {
+      "word": "impolitic",
+      "nuance": "The only one where **your manners were fine and the damage lands on you**. It faults calculation, not propriety: a perfectly courteous remark that weakens your own hand. Understated and strategic — a diplomat's substitute for *stupid*."
+    }
+  ],
+  "exam_note": "**Impolitic** is the trap: it sits among manners words but means *badly judged*, and the classic stem describes someone scrupulously polite who still wrecked his own position — where *unseemly* or *gauche* would be wrong."
 }

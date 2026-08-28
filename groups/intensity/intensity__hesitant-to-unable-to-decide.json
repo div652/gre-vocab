@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__hesitant-to-unable-to-decide",
+  "title": "Hesitant to unable to decide",
+  "seed_words": [
+    "tentative",
+    "irresolute",
+    "vacillate"
+  ],
+  "hallucinated": null,
+  "core": "All three describe commitment that hasn't been made or held. The scale runs from a single act performed lightly, to a person who can't bring himself to choose, to a sustained record of choosing and un-choosing. What separates them is scope (one act vs. the whole character), duration (a moment vs. weeks), and how much blame the speaker is assigning.",
+  "words": [
+    {
+      "word": "tentative",
+      "nuance": "The only one of the three that attaches to an *act* or an *arrangement* rather than to a person's character — a step, a knock, a date, a conclusion — and the only one that can be blameless (a **tentative** agreement is just pencil, not weakness). Crucially, the person is still moving forward; they've committed, only lightly."
+    },
+    {
+      "word": "irresolute",
+      "nuance": "Shifts the target from the act to the person: a formal, literary character verdict handed down at the moment action was required, and the diagnosis is nerve, not information. Unlike **tentative**, nothing happens — **irresolute** is hanging back, and the reader is meant to think less of the man."
+    },
+    {
+      "word": "vacillate",
+      "nuance": "The only verb, and the only one that requires *repetition* — a visible A-then-B-then-A oscillation that others had to sit through, so it implies weeks, not a moment. Where **irresolute** can be silent paralysis, **vacillate** leaves a record of reversals, and the speaker's patience is audibly gone."
+    }
+  ],
+  "exam_note": "The trap is treating **tentative** as a synonym for the other two — it takes a plan or a gesture, not a character, and often carries no criticism at all; separately, don't take **vacillate** for *equivocate*, which is deliberate slipperiness rather than genuine inability to settle."
+}

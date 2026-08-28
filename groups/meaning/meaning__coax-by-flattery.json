@@ -8,5 +8,25 @@
     "inveigle",
     "beguile"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe getting someone to do something through charm rather than argument, force, or payment — the target says yes, and says it because they were sweet-talked. The persuader is working on feeling, not reason, and the tactics are always at least slightly beneath honest argument. What separates them is the flatterer's posture (fawning from below vs. smooth from above), how much actual deception is in the mix, and whether the target ever finds out they were handled.",
+  "words": [
+    {
+      "word": "cajole",
+      "nuance": "The only one with no deception in it — the target knows exactly what you want and keeps saying no, and you keep charming until they cave. Defined by **repetition against known resistance**, not by trickery; it's the one word here you can use warmly about a parent and a stubborn child."
+    },
+    {
+      "word": "wheedle",
+      "nuance": "Flattery from **below** — the small, faintly undignified ask, delivered in a coaxing voice by someone with no leverage. It's the only one that regularly takes an object you want to *extract*: you wheedle a favor, an advance, a second cookie **out of** someone, where the others only get someone **into** an act."
+    },
+    {
+      "word": "inveigle",
+      "nuance": "The smooth, formal one, and the only one where **real deception** is part of the method — the target consents freely and works out afterward that they were played. An inveigler has status and polish; note the second pattern the GRE likes, **inveigle your way into** a room or a job you had no claim to."
+    },
+    {
+      "word": "beguile",
+      "nuance": "The only one where the **target is enjoying it**, and the only one that need not be manipulation at all — a landscape or a melody can beguile, and *beguile the afternoon* just means pass it pleasantly. Charm here lowers the guard as a side effect rather than aiming at one specific yes; it is also the sole literary-register word of the four."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \\\"flatter\\\": watch the preposition (wheedle *out of* vs. inveigle/cajole *into*), and don't assume **beguile** means deceive — passages often use it for pure enchantment, with no victim at all."
 }

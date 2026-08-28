@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__willing-to-submissive",
+  "title": "Willing → Steerable → Shapeable → Servile",
+  "seed_words": [
+    "amenable",
+    "tractable",
+    "pliant",
+    "subservient"
+  ],
+  "hallucinated": null,
+  "core": "All four describe someone (or something) that yields rather than resists — the absence of pushback. The scale runs from cooperative willingness, through being easily steered, to having no resistance left, to obedience that has swallowed the self. Three of them also have a second, temperature-free life applied to non-humans: problems that yield to method, materials that bend, parts that serve a whole. The trap is that the same \"goes along with it\" behavior is neutral praise at one end and an insult at the other.",
+  "words": [
+    {
+      "word": "amenable",
+      "nuance": "The only one that credits the yielder with a **choice**. **Amenable** is agreement offered, not extracted — you were persuaded, and could have declined. It's also the only one that takes a **to**-phrase as a near-requirement, which narrows it: you're amenable *to something specific*, not amenable as a standing character trait."
+    },
+    {
+      "word": "tractable",
+      "nuance": "Adds a **handler**. **Tractable** is the view from the reins — it rates how much trouble you are to manage, which is why it flatters the manager and faintly diminishes the managed. Where *amenable* implies you were asked, **tractable** implies you were led. Note also that its negative, *intractable*, is the form the GRE actually tests."
+    },
+    {
+      "word": "pliant",
+      "nuance": "Drops agency entirely: no persuasion, no steering, just **no resistance in the material**. **Pliant** describes a capacity to be shaped by whoever gets hold of you next — the influence isn't attributed to any one authority the way *tractable*'s handler is. It's the only one whose literal sense (bending without breaking) is straight praise, which is what makes it damning about a person."
+    },
+    {
+      "word": "subservient",
+      "nuance": "The only outright insult, and the only one where the yielding has a **cost** — self-respect, independent judgment, a point of view. **Pliant** says you can be shaped; **subservient** says you've already been, and you serve. It's a verdict passed by a third party watching the relationship, and it convicts the person on top too."
+    }
+  ],
+  "exam_note": "Sentence equivalence loves the two-lives split — a *tractable* problem and a *pliant* leather are compliments with no submission in them, so a blank about equations or materials rules out **subservient** instantly, while a blank carrying words like *at the cost of* or *without a will of his own* rules out the first three."
+}

@@ -8,5 +8,25 @@
     "poise",
     "propensity"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *pendere* is the merchant's scale: goods hung from a hook, weighed out, paid for. Every word here keeps one frame of that picture — the measured portion handed over, the weight suspended and not yet settled, the pan tipped permanently to one side. They don't overlap in meaning, which is exactly the danger: they share a spelling family and nothing else, so recognizing the root tells you where the image comes from but never what the word does in a sentence.",
+  "words": [
+    {
+      "word": "dispense",
+      "nuance": "The literal weighing-out: an authority releases an allotted amount by rule — pharmacy, court, vending machine — with no warmth in the handover. It's also the only word here that flips on a preposition: **dispense with** cancels the transaction entirely and does so briskly, almost dismissively, as if the thing were beneath bothering with."
+    },
+    {
+      "word": "indispensable",
+      "nuance": "Literally *cannot be dispensed with* — the negation is the whole word. Alone in this group it's a verdict of necessity, and an absolute one: no degrees, no \"fairly.\" Test it by subtraction, not by praise — remove it and the operation halts."
+    },
+    {
+      "word": "poise",
+      "nuance": "The hanging sense, not the paying one: weight suspended in balance, nothing wobbling. Uniquely here it's about visible bearing — steady voice, unhurried hands, the composure a stranger can see — with a whiff of grace and breeding. **Poised to** reverses the temperature: not relaxed but coiled, weight already committed toward the leap."
+    },
+    {
+      "word": "propensity",
+      "nuance": "The scale tipped and left there — *pro-* (forward) + hang, a permanent lean. Alone in this group it describes a person's interior disposition, and it sounds clinical, as though assessed by a lawyer or psychologist. Because it names what people can't help, it attaches to faults far more readily than virtues."
+    }
+  ],
+  "exam_note": "The trap is direction, not definition: *dispense* hands out, *dispense with* throws away, and *indispensable* is that second sense negated — so a sentence-equivalence stem can hinge entirely on a two-letter preposition or a prefix."
 }

@@ -1,12 +1,32 @@
 {
   "kind": "root",
   "id": "root__sedere",
-  "title": "Root: sedere (to sit)",
+  "title": "Root: sedere (to sit) — where you sit decides what you mean",
   "seed_words": [
     "dissident",
     "insidious",
     "residual",
     "supersede"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Each of these buries Latin *sedere*, \"to sit,\" and none of them means anything like sitting. The work is done entirely by the prefix, which says **where** the sitting happens relative to something else: apart from the group, in wait beside the road, still there after the rest has gone, on top of what came before. So the root is a spelling and memory hook, not a meaning: it tells you a position is being taken toward some other thing, and the prefix tells you which position. Learn the four positions and the words stop blurring.",
+  "words": [
+    {
+      "word": "dissident",
+      "nuance": "*dis-* = apart: the one who refuses the seat assigned to him and sits away from the body. Alone in this group it names a **person** and takes a public stance — the position is deliberate, visible, and costly, whereas the other three describe things that sit where they sit without choosing."
+    },
+    {
+      "word": "insidious",
+      "nuance": "*in-* = sitting in ambush (Latin *insidiae*, an ambush by the roadside). The only hostile sitting here: it is waiting for you, and waiting is the whole method. **Insidious** requires concealment plus time — remove the camouflage and the word collapses; a slow harm everyone can see is just slow."
+    },
+    {
+      "word": "residual",
+      "nuance": "*re-* = sitting back, after. Purely retrospective and purely passive: it names what a completed process failed to carry off, and it acts on nothing. Small, measurable, usually unwanted — **residual** is the quantity left in the beaker, not an agent doing anything to anyone."
+    },
+    {
+      "word": "supersede",
+      "nuance": "*super-* = sitting above. The only one about **rank**: the new thing sits over the old and the old loses its standing, not just its popularity. Bureaucratic and bloodless — no ambush, no leftovers, no defiance, just a memo saying the previous edition no longer counts. Note the spelling: *-sede*, the lone survivor of *sedere* where every look-alike takes *-cede*."
+    }
+  ],
+  "exam_note": "The root never picks the answer — these four never compete for one blank; the GRE tests each against its own near-twin (supersede/supplant, insidious/sinister, residual/remaining, dissident/rebel), so use *sedere* for spelling and recall only."
 }

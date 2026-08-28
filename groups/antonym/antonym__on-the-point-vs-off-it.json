@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__on-the-point-vs-off-it",
+  "title": "On the point vs. off it",
+  "seed_words": [
+    "germane",
+    "pertinent",
+    "apposite",
+    "apropos",
+    "apt",
+    "extraneous",
+    "tangential",
+    "digression",
+    "peripheral",
+    "incidental"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a ruling on whether something belongs in the discussion. One half says yes — this bears on the question, and often praises how precisely it lands. The other half says no — and each says no in a different register, from the cold \"this was never part of the job\" to the polite \"it exists, it's just not the point.\" Because the negative half is uniformly softer than *irrelevant*, the whole group trades on how a dismissal is delivered: what it concedes, who has the standing to deliver it, and how fatal it actually is.",
+  "words": [
+    {
+      "word": "germane",
+      "nuance": "The admissibility word: it asks whether a fact **attaches to this specific question**, not whether it was well said. Same-topic is not enough — parliamentary procedure has an actual germaneness rule — and you'll meet it negated on the floor of a debate far more often than praising anything."
+    },
+    {
+      "word": "pertinent",
+      "nuance": "Relevance as a **verdict handed down by someone with standing** — a chair, a judge, an examiner — and it lives in paperwork: *all pertinent documents*, *pertinent findings*. Where **germane** tests logical attachment, **pertinent** certifies that the room should spend its attention here."
+    },
+    {
+      "word": "apposite",
+      "nuance": "Praises **aim**, and almost only of things *said* — a quotation, an analogy, an example. Nobody rules an amendment apposite; a critic calls a comparison apposite because it hit the precise nerve of the matter, which is a compliment about marksmanship, not admissibility."
+    },
+    {
+      "word": "apropos",
+      "nuance": "Praises **timing** above fit — the remark arrived at exactly the right moment in the conversation. It's the drawing-room member of the group, still wearing its French accent, and it's the only one that doubles as a preposition: *apropos of your last point*."
+    },
+    {
+      "word": "apt",
+      "nuance": "The plain, **neutral-register** one — no formality, no institutional standing behind it. It's also the group's trapdoor: *apt to* means **inclined to**, reporting a tendency with no verdict attached (unlike *liable to* or *prone to*, which expect trouble), and a third sense means quick to learn."
+    },
+    {
+      "word": "extraneous",
+      "nuance": "The coldest refusal: the thing came from **outside** and was never part of the job. It denies attachment entirely rather than demoting it — a childhood anecdote in a legal brief. Note it is not *superfluous*: superfluous means you already had enough of that; extraneous means it never counted."
+    },
+    {
+      "word": "tangential",
+      "nuance": "**Concedes a genuine connection and then rules it out anyway** — touching at one point before veering off. That concession is what makes it politer than *irrelevant* and just as fatal. Uniquely, it also describes a person's habit of mind: someone tangential drifts off the thread mid-sentence."
+    },
+    {
+      "word": "digression",
+      "nuance": "The only **noun**, and the only one naming an **act rather than a property** — you commit a digression; a fact merely is tangential. It presumes a main road you'll return to, which is why it's mild enough that writers announce their own."
+    },
+    {
+      "word": "peripheral",
+      "nuance": "Places the thing by **position — out at the edge**, still on the map, just not at the center. As a debating move it's a soft demotion that concedes your issue exists while sliding it off the table, which is precisely why it's worth pushing back on. Also literal: the outer boundary, or the mouse plugged into a computer."
+    },
+    {
+      "word": "incidental",
+      "nuance": "Not at the edge — **it arises from the main event and comes with it**, and is dismissed anyway: true, attached, and still not what matters. That byproduct logic is what separates it from **peripheral**, and it explains the noun *incidentals*, the small costs that ride along with the big one."
+    }
+  ],
+  "exam_note": "The GRE rarely tests the obvious flip; it pairs *germane/pertinent* or *peripheral/incidental* as candidate equivalent-pairs where only one fits the sentence's frame (a ruling vs. a byproduct), and it hides **apt** in sentences using sense 2, *apt to*, where \"fitting\" is nonsense."
+}

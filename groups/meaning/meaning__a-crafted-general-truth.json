@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__a-crafted-general-truth",
-  "title": "A crafted general truth",
+  "title": "The One-Line Truth: Earned, Issued, or Counterfeit",
   "seed_words": [
     "aphorism",
     "dictum",
     "platitude",
     "bromide"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four name the same object: a short, freestanding sentence that asserts a general truth about life and is offered as wisdom. Form doesn't separate them — length, shape and subject matter can be identical. What separates them is the verdict baked into the label: whether the compression earned something, whether the speaker's standing is doing the work, or whether the line is counterfeit depth. Choosing the word is passing judgment on the saying, not describing it.",
+  "words": [
+    {
+      "word": "aphorism",
+      "nuance": "The compliment of the group: it credits **craft** — balance, economy, a twist of wit that makes the line worth remembering. It states what *is*, not what to do, and needs no famous speaker; the sentence itself does the earning."
+    },
+    {
+      "word": "dictum",
+      "nuance": "**Borrowed authority**, not wit. A dictum weighs because of who issued it — a judge, a critic, a founder — so it can be flat and unquotable and still qualify. It also carries an official, ex cathedra tint (cf. legal *obiter dicta*) that the others lack entirely."
+    },
+    {
+      "word": "platitude",
+      "nuance": "A pure accusation, and the charge is **counterfeit profundity**: a moralizing line that wears the face of insight and asks you to nod. It indicts the speaker for having nothing to say — the standard verdict on condolence speeches and mission statements."
+    },
+    {
+      "word": "bromide",
+      "nuance": "A platitude with a **sedative purpose** — trotted out to soothe grief or close down a hard question so nobody has to think. It accuses the speaker of *dodging*, not merely of being unoriginal, and uniquely can name the person as well as the remark: a bromide is also a crashing bore."
+    }
+  ],
+  "exam_note": "The GRE plays the polarity: a blank flanked by \"merely,\" \"hardly,\" or a concessive \"though widely quoted\" wants platitude/bromide, while praise words (\"polished,\" \"trenchant\") want aphorism — and in Sentence Equivalence, platitude/bromide is the near-certain synonym pair, with dictum planted as a trap because it fits the definition but carries no contempt."
 }

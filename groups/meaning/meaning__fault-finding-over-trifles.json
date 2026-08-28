@@ -8,5 +8,25 @@
     "pedantic",
     "finicky"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four label a fuss that is out of proportion to what's at stake: the detail is small, the objection is loud, and the main question goes unaddressed. Each is a judgement on the complainer rather than on the thing complained about — the fault may be genuine, but noticing it this hard is the flaw. They split on three axes: whether it's a one-off act or a settled character, what the fusser is actually after (accuracy, superiority, or satisfaction), and how much contempt the speaker is loading in.",
+  "words": [
+    {
+      "word": "captious",
+      "nuance": "The only one that indicts **motive**: the captious objector isn't trying to get it right, he's trying to catch you out, and enjoys the catch. It names a standing disposition and carries the most formal, withering scorn of the group."
+    },
+    {
+      "word": "quibble",
+      "nuance": "The only one that is an **act** rather than a trait — a single small objection you can name and count (\"my one quibble\"). It's also the only one usable politely: prefacing a criticism with it concedes that everything else was fine."
+    },
+    {
+      "word": "pedantic",
+      "nuance": "The fuss is specifically about **rules, technicalities, and displayed learning** — and the pedant is typically *correct*, which is the sting. The charge is misplaced priority, not error: right about the comma, oblivious to the argument."
+    },
+    {
+      "word": "finicky",
+      "nuance": "About **taste and being pleased**, not about being right — no claim to correctness or learning is involved, so the tone is domestic eye-roll rather than contempt. Uniquely, it also applies to objects: a finicky engine or recipe is temperamental, needing fiddly handling to work at all."
+    }
+  ],
+  "exam_note": "GRE leans on the two odd senses: **finicky** in an inanimate slot (a balky machine or process, where the other three cannot go), and **quibble** in a concessive, largely favorable sentence — while **captious** and **pedantic** are reserved for the openly hostile character descriptions."
 }

@@ -8,5 +8,25 @@
     "subvert",
     "vitiate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe damage done to the support of a thing rather than to its face. Nothing is confronted, knocked over, or destroyed outright: the structure is left standing while whatever held it up is quietly removed, so it fails from below or from within. What separates them is *how long it takes*, *whether anyone meant it*, and *what exactly is lost* — support, control, or validity.",
+  "words": [
+    {
+      "word": "undermine",
+      "nuance": "The slow one. **Undermine** is cumulative erosion over weeks or months — a drip of doubts, leaks, and small slights — and its great feature is deniability: the underminer stays pleasant to your face. It needs a target that rests on accumulated support: authority, trust, morale, a reputation."
+    },
+    {
+      "word": "undercut",
+      "nuance": "The instant one, and the only one here that is routinely accidental. **Undercut** is a single stroke that pulls the prop away — one exception kills the rule, one nervous laugh kills the speech — so the commonest subject is the speaker's own behavior, not an enemy's scheme. It alone carries the price sense: to undersell a rival."
+    },
+    {
+      "word": "subvert",
+      "nuance": "The only one aiming at *overturn*, not mere weakening — and it works from inside, which is why it belongs to moles, insurgents, and fifth columns rather than armies. It is also the only word here that can be praise: a novel that **subverts** its genre is being complimented."
+    },
+    {
+      "word": "vitiate",
+      "nuance": "Not about power or loyalty at all — about **soundness**. One bad premise, one fraudulent signature, one contaminant, and the whole thing no longer counts; in law it renders a contract void outright. Its objects are arguments, evidence, and agreements, never a person's standing, and it is markedly bookish where the others are everyday."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves the undermine/undercut pair as an easy match — check whether the sentence signals slow erosion or a single stroke before pairing; and when the blank concerns validity rather than power (evidence, a claim, a contract), vitiate is the answer none of the others can take."
 }

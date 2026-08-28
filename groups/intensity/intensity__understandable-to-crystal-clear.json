@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__understandable-to-crystal-clear",
+  "title": "Understandable to crystal clear",
+  "seed_words": [
+    "intelligible",
+    "coherent",
+    "lucid",
+    "limpid",
+    "pellucid"
+  ],
+  "hallucinated": null,
+  "core": "All five say that something can be gotten through — meaning, or light, passes without being blocked. What separates them is how much credit that earns. At the bottom the claim is only that comprehension was possible at all; in the middle it is that the parts hold together; at the top it is that the medium has vanished, leaving nothing between the reader and the idea. The lower words are diagnoses, often grudging; the upper words are compliments, and increasingly literary ones.",
+  "exam_note": "The trap is treating the low end as praise: **intelligible** and **coherent** are floors, so GRE contexts pair them with *barely*, *scarcely*, *at least* — while a sentence praising a hard idea made easy wants **lucid**, and one praising water or beautiful prose wants **limpid/pellucid**.",
+  "words": [
+    {
+      "word": "intelligible",
+      "nuance": "The bare floor: the signal was decoded, nothing more. It rates reception, not quality — you can strain to make out mumbling and call it intelligible, and it lives mostly in the negative or the grudging (*barely*, *scarcely*, *un-*). Alone in this group it has a philosophical sense: the intelligible world, grasped by intellect, opposed to the sensible."
+    },
+    {
+      "word": "coherent",
+      "nuance": "The only one about internal structure rather than ease of reception — the parts fit and don't contradict each other. A coherent argument can still be dense, dull, or false; a conspiracy theory is often perfectly coherent. Applied to a person it drops to a medical floor: *barely coherent* means drunk or concussed."
+    },
+    {
+      "word": "lucid",
+      "nuance": "The first real compliment, and it credits the mind behind the words: difficult material made transparent, so the effort belongs to the explainer, not the reader. Praise for a physicist's account, not a shopping list. Alone here it also means mentally clear after confusion — a *lucid interval* implies the surrounding hours weren't."
+    },
+    {
+      "word": "limpid",
+      "nuance": "Praises the surface, not the intellect: still, untroubled, pleasant to look through. Rapids are clear but never limpid — the word requires calm. Of prose it compliments texture and ease rather than the conquest of hard ideas, and it belongs to reviews and obituaries, not conversation."
+    },
+    {
+      "word": "pellucid",
+      "nuance": "Limpid's luminous twin: not merely see-through but light-carrying, admitting no murk at all. It sits comfortably on an explanation or a mind where limpid prefers water and style, and it is the most bookish of the five — it always praises, and slightly announces itself doing so."
+    }
+  ]
+}

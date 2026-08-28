@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__talking-too-much",
+  "title": "Talking too much: voluble → loquacious → garrulous → prolix",
+  "seed_words": [
+    "voluble",
+    "loquacious",
+    "garrulous",
+    "prolix"
+  ],
+  "hallucinated": null,
+  "core": "All four describe a flood of words, and they differ mainly in how much disapproval is packed into the label — from admiring the flow, to noting the excess dryly, to openly complaining. They also differ in what exactly is wrong: too fluent, too much, too aimless, or too long. Three describe a person mid-conversation; one describes the output on the page.",
+  "words": [
+    {
+      "word": "voluble",
+      "nuance": "**Voluble** rates the *ease*, not the excess — words arrive without a stall or a hunt for the right term. It's the only one here that can be flatly complimentary (*a voluble advocate*), and when it does turn wary, the worry is slickness, not length."
+    },
+    {
+      "word": "loquacious",
+      "nuance": "**Loquacious** is the polite euphemism: it registers that someone talks too much while keeping the speaker's hands clean. It makes no claim about fluency the way *voluble* does, and doesn't accuse the content of being trivial the way *garrulous* does — often deadpan understatement (*a loquacious witness*)."
+    },
+    {
+      "word": "garrulous",
+      "nuance": "**Garrulous** is where the listener's patience breaks: rambling, aimless, and about nothing that matters — the neighbour's fence, the digression inside the digression. It's the only one of the four that attacks *triviality*, and it drags along a stock image of old men and captive audiences."
+    },
+    {
+      "word": "prolix",
+      "nuance": "**Prolix** moves the fault from the talker to the text: four pages to say no. The argument may be perfectly sound — the objection is purely that it's drowned — and the register is a cool literary critic's, aimed at memos, briefs and formal addresses rather than chatter."
+    }
+  ],
+  "exam_note": "The trap is reading all four as plain synonyms of \"talkative\" — the sentence almost always plants a clue: approval points to **voluble**, triviality to **garrulous**, and a document rather than a person to **prolix**, which alone modifies prose."
+}

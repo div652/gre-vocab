@@ -8,5 +8,25 @@
     "quarantine",
     "manacle"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe being held inside a boundary you did not draw — an outside hand (a law, a wall, an authority, an iron) fixing where you may go or how far you may reach. They split on what does the confining and what gets confined: an abstract limit on a power, masonry around a body, a precautionary cordon, or a cuff on a wrist. They also split on blame: one indicts the confiner, one merely states the limit, one is protective housekeeping.",
+  "words": [
+    {
+      "word": "circumscribe",
+      "nuance": "The only one that confines no body — it bounds a **scope**: a power, a role, a freedom, a life's options. It is also the only one neutral about justice: a constitution **circumscribes** a president perfectly legitimately, where a manacle always accuses. Formal, near-legal, and the limits are set in advance rather than clapped on mid-struggle."
+    },
+    {
+      "word": "immure",
+      "nuance": "The masonry word — walls, cells, cloisters, no door being opened. Uniquely in this group it can be **chosen**: you **immure yourself** in a library or a monastery, which no one does with manacles or quarantine. Literary and faintly gothic; it wants stone, not procedure."
+    },
+    {
+      "word": "quarantine",
+      "nuance": "The only member keyed to **suspicion, not guilt** — you hold the possibly-exposed, not the confirmed sick, and you release them when the doubt clears. Also the only confinement aimed at protecting *others* rather than punishing or limiting the one held, which is why it stays neutral in tone: a **quarantined** file is set aside pending judgement, not condemned."
+    },
+    {
+      "word": "manacle",
+      "nuance": "The only one that names a body part — **wrists** (fetters take the ankles) — and the only one with an oppressor built in. Dungeons, slave ships, chain gangs. Figuratively it demands real tyranny: **manacled** by debt or by law, never by a crowded calendar."
+    }
+  ],
+  "exam_note": "The trap is tone-matching: a sentence blaming no one wants **circumscribe**, one indicting a tyrant wants **manacle** — and if the confined party is only *possibly* contaminated, it is **quarantine**, not the \"isolate\" the sentence dangles."
 }

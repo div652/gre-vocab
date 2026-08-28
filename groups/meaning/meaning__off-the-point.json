@@ -9,5 +9,29 @@
     "peripheral",
     "incidental"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five push something away from the main point, but they disagree about whether it was ever connected in the first place. At one end sits material that came from outside and never belonged; at the other, material that genuinely arose from the main event and still gets waved off. In between are things that touch the subject once and leave, or sit at its edge. Most of them are demotions rather than refutations — they don't say *wrong*, they say *not what we're doing* — which is why they're the preferred weapons of editors, lawyers and academics.",
+  "words": [
+    {
+      "word": "extraneous",
+      "nuance": "The only one that denies any native connection: it came from **outside** and was never part of the job. Where the others rank a thing's importance, **extraneous** questions its right to be in the room at all — which is why it's the word for contamination, noise, and evidence a judge strikes."
+    },
+    {
+      "word": "tangential",
+      "nuance": "Grants exactly one point of contact and then watches the thing fly off. **Tangential** is the polite-but-fatal verdict — it concedes your remark was genuinely prompted by the topic, then rules that it went somewhere else. Alone in this group it also describes a *habit of mind*: a tangential thinker loses the thread mid-sentence."
+    },
+    {
+      "word": "digression",
+      "nuance": "The only noun here naming a stretch of discourse rather than judging relevance. A **digression** presupposes a main road and an intent to return, so it's mild and often self-announced by the writer — a detour, not a verdict someone else passes on you."
+    },
+    {
+      "word": "peripheral",
+      "nuance": "Spatial: the thing is inside the picture but pushed to the **edge**, away from the centre. Unlike *extraneous*, it never disputes the thing's legitimacy — which makes *\"a peripheral concern\"* a debating move that concedes your point exists while sliding it off the table. Also the only one with a hardware sense."
+    },
+    {
+      "word": "incidental",
+      "nuance": "Keeps the thing firmly attached to the main event — it **came with** it, arose from it, travels with it — and still says never mind. Where *peripheral* moves something to the edge and *extraneous* throws it out, **incidental** grants full membership and denies only importance (hence *incidentals*: real costs, small ones)."
+    }
+  ],
+  "exam_note": "The trap is treating these as interchangeable synonyms for \"irrelevant\" — sentence completions hinge on the connection axis: **extraneous** requires an outside source, **incidental** requires the thing to arise from the main event, and only **digression** is a countable stretch of talk rather than a judgment."
 }

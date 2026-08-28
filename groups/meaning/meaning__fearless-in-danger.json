@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__fearless-in-danger",
-  "title": "Fearless in danger",
+  "title": "Fearless in danger — and who's afraid of whom",
   "seed_words": [
     "intrepid",
     "plucky",
@@ -9,5 +9,29 @@
     "valor",
     "redoubtable"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five sit in the territory of courage confronting danger, and all five are complimentary — none scolds the risk-taker as reckless. What separates them is the angle of view: whether the courage is a settled temperament or a single decorated deed, whether the odds are stacked against the subject or the subject *is* the threat, and whether the praise comes with a salute, a pat on the head, or a raised eyebrow. Four describe the person who faces the danger; one describes the person who *is* the danger.",
+  "words": [
+    {
+      "word": "intrepid",
+      "nuance": "The only one that names a **standing temperament** rather than a moment — and the danger is characteristically the *unknown*: expeditions, frontiers, uncharted territory, going and continuing to go. It also has a signature comic use, deadpan-grand about trivial hardship (\"our **intrepid** correspondent\"), which valor can only do as outright parody."
+    },
+    {
+      "word": "plucky",
+      "nuance": "Requires an **underdog**. The others can describe the strong; **plucky** cannot — the subject must be small, young, poor, injured or outgunned, and usually loses. Alone in the group it condescends: it admires from above, the commentator's word for the team that went down fighting."
+    },
+    {
+      "word": "mettlesome",
+      "nuance": "Courage as **appetite** — not endurance under threat but eagerness straining toward it. The prototype is a horse that's hard to hold, so it implies energy that may outrun control; intrepid steadiness is exactly what it lacks. Literary and dated: novels and toasts, not reports."
+    },
+    {
+      "word": "valor",
+      "nuance": "The only **noun**, and it names the deed, not the disposition — something *displayed*, cited, awarded. It's the word of medals and eulogies and it presumes combat or heroic rescue, so applying it to office life reads as mock-grand. You can be intrepid about a queue; you cannot show valor in one and be taken straight."
+    },
+    {
+      "word": "redoubtable",
+      "nuance": "Points the fear **outward**: you don't face danger, you supply it. It's about the power to daunt an opponent — a grandmaster, a cross-examiner, a terrifying aunt — so it needs an adversary rather than a hazard, and it says nothing about whether the subject is brave. Where *formidable* is neutral and *intimidating* is a complaint, this is respect paid by someone who'd rather not be across the table."
+    }
+  ],
+  "exam_note": "The trap is **redoubtable**: it means *inspiring* fear, not feeling none — a sentence about someone unshaken by peril wants intrepid, while one about a dreaded opponent wants redoubtable; and watch that plucky demands an underdog while mettlesome demands eagerness, so neither fits a calm, powerful subject."
 }

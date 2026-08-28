@@ -8,5 +8,25 @@
     "cataclysmic",
     "conflagration"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe destruction well past ordinary misfortune — the scale at which recovery is doubtful and the event gets remembered rather than merely regretted. All are formal enough that using them for a bad haircut reads as a joke. They separate on three axes: whether the word blames a cause or just measures the wreckage, whether it stresses total failure or total transformation, and whether it qualifies an event (adjective) or *is* the event (noun).",
+  "words": [
+    {
+      "word": "calamitous",
+      "nuance": "The verdict word: it looks backwards at a **decision** and holds someone responsible — a calamitous policy, appointment, invasion. Where the others describe what happened, **calamitous** implies a chooser who should have known better."
+    },
+    {
+      "word": "catastrophic",
+      "nuance": "Measures **completeness of failure**, not blame or aftermath — the thing stopped working all at once and cannot be repaired. The engineering sense (*catastrophic failure*: gave way instantly, not gradually) keeps it the most literal and least rhetorical of the three adjectives."
+    },
+    {
+      "word": "cataclysmic",
+      "nuance": "The only one about **transformation** rather than damage: afterwards the landscape is unrecognisable and a new order stands. That's why *cataclysmic shift* works with no casualties at all — a sentence where nothing was destroyed but everything realigned wants this word and rejects **catastrophic**."
+    },
+    {
+      "word": "conflagration",
+      "nuance": "A **noun**, and a specific object: fire — or a war spoken of as fire, spreading outward from one local flashpoint until it consumes everything adjacent. It names the burning thing itself; the others are labels you attach to some other event."
+    }
+  ],
+  "exam_note": "Part of speech eliminates **conflagration** instantly in adjective slots; among the rest, the trap is treating them as interchangeable intensities — look for whether the sentence stresses a blamed decision (**calamitous**), a total breakdown (**catastrophic**), or a world remade (**cataclysmic**)."
 }

@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__straight-answer-vs-dodging-the-question",
+  "title": "Straight answer vs. dodging the question",
+  "seed_words": [
+    "candid",
+    "frank",
+    "aver",
+    "articulate",
+    "equivocate",
+    "prevaricate",
+    "evasive",
+    "evade",
+    "skirt",
+    "demur"
+  ],
+  "hallucinated": null,
+  "core": "These words all describe how a speaker handles a question or subject that is uncomfortable to answer — whether they meet it head-on or manage their way around it. Crucially, neither pole is about lying. The dodgers stop short of a flat falsehood (that's what makes them hard to pin down), and the straight-talkers do more than merely not lie: they volunteer, commit, or clarify when they had every excuse not to. What separates them is the *manner* under pressure — plus one imposter that rates only the clarity of the words, and another that declines without deceiving.",
+  "words": [
+    {
+      "word": "candid",
+      "nuance": "The disclosing one: **candid** means giving up information you were entitled to keep buried, usually about yourself — your losses, your doubts, your finances. Frankness handles a delicate topic when it comes up; candour raises the lid on something nobody had opened."
+    },
+    {
+      "word": "frank",
+      "nuance": "**Frank** is directness on a touchy subject, and it needn't be about you — you can be frank about someone else's poor chances. It's the pre-announced one (\"to be frank\"), flagging that comfort is about to be traded for truth; candour needs no warning because the speaker is the one exposed."
+    },
+    {
+      "word": "aver",
+      "nuance": "Not a matter of tact at all — **aver** rates *commitment to the claim*, not willingness to broach a topic. The speaker stakes their own credibility on a fact, flatly and often against contradiction. This is the precise antonym of equivocate: no hedge, no escape hatch, and never used of a guess."
+    },
+    {
+      "word": "articulate",
+      "nuance": "The imposter: **articulate** grades *form*, not honesty. It measures whether a shapeless thought arrives in distinct, jointed pieces you can follow — and an articulate speaker can dodge beautifully. Its opposite is mumbling vagueness, not concealment."
+    },
+    {
+      "word": "equivocate",
+      "nuance": "The device is *ambiguity in a single statement*: **equivocate** means saying something technically defensible that you know will be read the wrong way. It accuses the speaker of calculation — they built the double meaning on purpose, leaving themselves a line of retreat."
+    },
+    {
+      "word": "prevaricate",
+      "nuance": "Where equivocating is one engineered sentence, **prevaricate** describes a *sustained manner* — shifting ground, hedging, sliding across a whole exchange. It's the lawyerly word an editorial or a judge reaches for when \"lied\" would be unprovable or actionable."
+    },
+    {
+      "word": "evasive",
+      "nuance": "The observer's label rather than the act: **evasive** is what an interviewer calls the answer afterwards — damning enough to imply something hidden, safe enough to stop short of alleging a lie. It also has a wholly guilt-free physical sense (*evasive action*) that none of the other dodgers share."
+    },
+    {
+      "word": "evade",
+      "nuance": "The plain transitive verb of getting away — and it takes an object with a *claim* on you: capture, taxes, a duty, the question. Broader than speech, and the reason **evade** stings is that bad faith is assumed; you avoid rush hour, but you evade the tax office."
+    },
+    {
+      "word": "skirt",
+      "nuance": "Evasion that never looks like refusal: to **skirt** is to stay adjacent and keep moving — answering at length without touching the question, or obeying every letter of a rule while defeating its point. Nothing is denied and nothing is misstated; the subject is simply circled."
+    },
+    {
+      "word": "demur",
+      "nuance": "The honest one on the dodging side. **Demur** is open but low-wattage reluctance — a raised eyebrow, a \"I'm not sure that's quite right\" — with no deceit involved. Someone who demurs declines to commit and lets you see it; the others let you think they committed."
+    }
+  ],
+  "exam_note": "The trap is the two words that don't belong to either pole: **articulate** grades clarity (an articulate answer can be evasive) and **demur** is mild objection, not deception — and on the honest side, **aver** measures certainty while **candid** measures disclosure, so they never swap."
+}

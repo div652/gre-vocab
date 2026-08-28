@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__low-energy-worsening",
+  "title": "Low Energy: From Stylish Slowness to Nearly Asleep",
+  "seed_words": [
+    "languid",
+    "sluggish",
+    "lethargic",
+    "somnolent"
+  ],
+  "hallucinated": null,
+  "core": "All four describe something moving, working, or reacting below full power — a body, a market, an afternoon. They line up by how far the energy has drained away, from a mild unhurriedness that can still look good, through slowness read as malfunction, to a drained state that a doctor would note, to something on the verge of actual sleep. What really separates them is not degree alone but *who is judging and why*: one flatters, one diagnoses a fault, one records a symptom, one paints a mood. Getting the direction of the judgment wrong is the whole trap.",
+  "exam_note": "The GRE loads this group with connotation traps: **languid** is the one that can be praise, **somnolent** is the one that can describe the *cause* rather than the sufferer, and **sluggish** attaches to machinery and markets where the others sound wrong.",
+  "words": [
+    {
+      "word": "languid",
+      "nuance": "The only one here that can be a compliment — slowness that reads as elegance, not failure. It attaches to gestures, gazes, and summer afternoons, and it stays poetic even when the cause is real weakness; you would never chart it or service an engine for it."
+    },
+    {
+      "word": "sluggish",
+      "nuance": "The mechanical fault-finder: something is slower **than it should be**, and the word quietly assigns blame to the mechanism — an engine, a market, a bowel, a student's output. It says nothing about sleep or drowsiness, only about underperformance, and nothing desirable is ever called this."
+    },
+    {
+      "word": "lethargic",
+      "nuance": "The clinical one: energy drained *out of* a person by flu, heat, or grief, with abnormal drowsiness attached. Unlike the fault-finding of **sluggish**, it excuses rather than accuses — it is a state that befell you, usually temporary, and it is the word a doctor writes down."
+    },
+    {
+      "word": "somnolent",
+      "nuance": "Furthest along the slide toward actual sleep, and the only one that runs both directions — the dozing student *and* the lecture that put him under. Yet it is the least accusing of the four: purely atmospheric, a mood over a whole scene, carrying heavy eyelids rather than any whiff of illness or malfunction."
+    }
+  ]
+}

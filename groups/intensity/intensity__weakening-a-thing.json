@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__weakening-a-thing",
+  "title": "Weakening: from dialed down to disabled",
+  "seed_words": [
+    "attenuate",
+    "impair",
+    "enervate",
+    "debilitating"
+  ],
+  "hallucinated": null,
+  "core": "All four describe force, strength, or capacity being reduced without being destroyed — the thing survives, just less able. They separate on three axes: what gets weakened (a signal, a faculty, a person's vitality, a whole life), whether the weakening is deliberate or inflicted, and how far down the scale it goes. The scale runs from a neutral, measured turning-down to a total loss of normal functioning.",
+  "words": [
+    {
+      "word": "attenuate",
+      "nuance": "The only one that can be deliberate and harmless — a virologist **attenuates** a virus on purpose, an engineer attenuates a signal. It reports a change of degree along a scale, not damage: nothing is broken, the thing is simply fainter. Its objects are forces, effects, and arguments, never a person."
+    },
+    {
+      "word": "impair",
+      "nuance": "Names damage to a specific capacity measured against a standard: hearing, judgment, mobility, an asset's value. Unlike **attenuate**, something has gone wrong; unlike *debilitating*, the faculty still performs, just below par. This is the word of doctors, lawyers, and accountants, and it attaches to the faculty, not the whole person."
+    },
+    {
+      "word": "enervate",
+      "nuance": "Aims at vitality and will rather than function — you're not damaged, you're limp. Its causes are ambient and slow (heat, luxury, illness, bureaucracy), its victim is a person or an entire culture, and it carries a moral edge the others lack: the suggestion of having gone soft."
+    },
+    {
+      "word": "debilitating",
+      "nuance": "The threshold word: it marks the point where normal life stops, not merely how bad something feels. It describes the *cause* — an illness, a pain, a strike — by the size of the hole it leaves, and implies the incapacity lasts. Pain can be severe without being **debilitating**; it earns the word only when you can't work."
+    }
+  ],
+  "exam_note": "**Attenuate** is the trap: the exam plants it where the context is neutral or intentional (a signal, a claim, a dose), so picking a harm-word like *impair* or *debilitate* on reflex costs you the point."
+}

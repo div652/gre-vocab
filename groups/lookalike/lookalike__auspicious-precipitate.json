@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__auspicious-precipitate",
-  "title": "auspicious / precipitate / precipitous…",
+  "title": "Good omens and steep drops: auspicious / propitious / propitiate / precipitate / precipitous",
   "seed_words": [
     "auspicious",
     "precipitate",
@@ -10,5 +10,29 @@
     "propitious"
   ],
   "similarity": 0.7,
-  "auto": true
+  "auto": true,
+  "core": "Five formal words separated by two or three letters, and the eye slides right over the difference. Semantically they split into two families that the spelling keeps welding together: one reads the **signs and conditions before an attempt** (favourable, promising — or a favour that has to be bought back), the other describes **something arriving too fast or dropping too steeply** (a crisis tipped early, a cliff, a plunging graph). All of them judge a thing at its outset rather than reporting its outcome, which is why a wrong pick still reads as grammatical. Sorted below by family, not alphabet.",
+  "words": [
+    {
+      "word": "auspicious",
+      "nuance": "The **omen**-reader: it points at a signal — a debut, an opening night, a first meeting — and says the signal looks good. Ceremonial in register (weddings, launches, inaugurations), and its hardest-working use is the negative: *not an auspicious start*."
+    },
+    {
+      "word": "propitious",
+      "nuance": "**Propitious** judges conditions rather than signs — the wind, the market, the political mood have tilted your way, so move now. It is the practical, forecasting twin of *auspicious*: less ritual, more \"the moment is right,\" and it clamps onto *moment, time, circumstances*."
+    },
+    {
+      "word": "propitiate",
+      "nuance": "The only word here about *earning* favour rather than spotting it: the power is already angry and you pay — an offering, a concession, a sacrifice. It presumes a hierarchy with you at the bottom, so using it of an ordinary colleague mocks them as a small god demanding tribute."
+    },
+    {
+      "word": "precipitate",
+      "nuance": "Assigns **agency**: someone's act tipped an already-loaded situation over early — *precipitated the crisis, precipitated his resignation*. As an adjective it rebukes a person's judgement (rash, headlong, undercooked), never a slope or a graph."
+    },
+    {
+      "word": "precipitous",
+      "nuance": "Purely descriptive of **shape**, with no actor in the sentence: how steep the cliff is, how vertically the sales line falls. Where *precipitate* says who dropped it, **precipitous** says only how far down it went — and always with a whiff of danger."
+    }
+  ],
+  "exam_note": "Classic traps: *precipitate* vs *precipitous* (people act precipitately; declines are precipitous), *propitious* planted where the verb *propitiate* is required, and *auspicious*/*propitious* offered as a Sentence Equivalence pair where they genuinely are interchangeable."
 }

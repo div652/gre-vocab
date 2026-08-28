@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__classroom-words-with-a-technical-second-sense",
+  "title": "Classroom words with a technical second sense",
+  "seed_words": [
+    "abstract",
+    "figurative",
+    "diminutive",
+    "documentary",
+    "circumstantial"
+  ],
+  "hallucinated": null,
+  "words": [
+    {
+      "word": "abstract",
+      "nuance": "The only one here whose specialist sense is a **physical object you can point to** — the paragraph at the top of a paper — rather than a property of something else. It's also the only one that shifts stress to become a verb (ab-STRAKT, *to extract*). Watch for the trap that it means \"vague\": abstract is distance from the concrete, and can be perfectly exact."
+    },
+    {
+      "word": "figurative",
+      "nuance": "Unique in the group for having two senses that pull in **opposite directions**: in a grammar or literature passage it means \"don't take this at face value,\" but in a gallery it means the picture *does* show a real, recognisable thing — the direct antonym of abstract art. The surrounding subject, not the sentence, tells you which one is live."
+    },
+    {
+      "word": "diminutive",
+      "nuance": "The technical sense is a **grammatical category** — a word-form suffix that signals smallness or fondness (*piglet, kitchenette, Annie*), not a description of size at all. In its ordinary sense it lands almost exclusively on **people** and carries an appraising tilt, charmed or patronising depending on the speaker. Smallness of stature only; never of importance."
+    },
+    {
+      "word": "documentary",
+      "nuance": "Here the everyday sense is the **noun** (a film) and the tested sense is the adjective — the reverse of the pattern in the rest of the group. In legal and historical prose it means *written record*: evidence you can put in a folder, opposed to **testimonial** evidence that walks in and talks. It stakes a quiet claim to reliability — paper can't misremember."
+    },
+    {
+      "word": "circumstantial",
+      "nuance": "The one word in the group whose technical sense carries a built-in **downgrade**: it concedes nobody witnessed the thing, and the facts merely surround it. Pair it against documentary — record versus inference. Its older sense is a genuine reversal to watch for: a *circumstantial account* is one packed with detail, not one short of proof."
+    }
+  ],
+  "core": "Each of these is a word you first met as a plain descriptive term, and each has a second life as a term of art inside one specific discipline — publishing, art criticism, linguistics, law, history. The GRE rarely wants the sense you learned in school; it drops the word into a passage where the specialist sense is the only one that fits and lets the familiar meaning mislead you. The tell is always the surrounding subject matter, not the sentence itself.",
+  "exam_note": "The exam plants the everyday sense as a plausible-looking wrong answer and rewards the disciplinary one — so read the passage's field before you read the word."
+}

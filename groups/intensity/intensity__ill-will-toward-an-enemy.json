@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__ill-will-toward-an-enemy",
+  "title": "Ill will toward an enemy",
+  "seed_words": [
+    "antipathy",
+    "animus",
+    "animosity",
+    "enmity"
+  ],
+  "hallucinated": null,
+  "core": "All four name settled ill will — not a flash of temper but something that persists and colors how one party regards another. They rise from cool aversion, through hostility that motivates conduct, to open bad blood, to a standing state of being enemies. What separates them is less the temperature than the grammar: whether the word names a feeling, a motive, an atmosphere, or a relationship — and whether the thing disliked has to be a person at all.",
+  "words": [
+    {
+      "word": "antipathy",
+      "nuance": "The only one that can point at anything — crowds, cilantro, bureaucracy — not just an enemy. It wants distance, not damage, and often arrives before any reason you could give for it; nobody becomes your enemy because you feel **antipathy** toward them."
+    },
+    {
+      "word": "animus",
+      "nuance": "The forensic one: it names a *motive* and is used to explain an act. You allege a firing or a prosecution was **motivated by animus** — the word charges the hostile party with a reason, which is why it lives in courtrooms and reporting rather than in descriptions of atmosphere."
+    },
+    {
+      "word": "animosity",
+      "nuance": "The audible one. **Animosity** is hostility that has escaped into behavior — tone, snubs, refusal to cooperate — and it usually has a specific history behind it. Where animus is inferred from evidence, animosity is simply visible in the room."
+    },
+    {
+      "word": "enmity",
+      "nuance": "Not a feeling but a *status*: the condition of being enemies. **Enmity** can lie completely dormant — two clans at enmity for eighty years without a word exchanged — and it is typically mutual, often inherited, and scaled to houses, factions, and nations rather than to a colleague."
+    }
+  ],
+  "exam_note": "Sentence Equivalence sorts these by frame, not force: a blank pointing at a *thing* or *idea* takes antipathy, one inside \"motivated by ___\" takes animus, one naming a decades-old *relationship* between clans or nations takes enmity — animosity is the trap that sounds right everywhere and is only correct when the hostility is personal and showing."
+}

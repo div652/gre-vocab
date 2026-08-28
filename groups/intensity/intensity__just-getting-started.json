@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__just-getting-started",
+  "title": "Just getting started",
+  "seed_words": [
+    "inchoate",
+    "nascent",
+    "fledgling"
+  ],
+  "hallucinated": null,
+  "core": "All three describe something at the very beginning of its existence, before it has been tested or fully developed. They mark a thing as early rather than defective — the judgment withheld, not delivered. The differences are how much shape the thing has yet acquired: an unformed stirring, a newly existing entity, or a young venture already up and running. The order below runs from least formed to most formed.",
+  "words": [
+    {
+      "word": "inchoate",
+      "nuance": "**Inchoate** is the only one that says the thing lacks *shape*, not just maturity — it isn't coherent enough to describe, let alone judge. It attaches to feelings and impulses (*inchoate rage, inchoate longing*) in a way the others never do, and in an argument it functions as a put-down: your idea is too formless to count as an idea."
+    },
+    {
+      "word": "nascent",
+      "nuance": "**Nascent** asserts that the thing now exists — it has crossed the line into being, which *inchoate* does not concede. It is the analyst's word for abstractions and trends (*a nascent industry, a nascent democracy*), forward-looking and slightly fragile, and it says nothing about competence because there is nothing yet to be competent at."
+    },
+    {
+      "word": "fledgling",
+      "nuance": "**Fledgling** is the only one with a live metaphor behind it — the bird out of the nest — so the thing is already operating, just inexperienced. It is warmer and less formal than the others, and it attaches to ventures and institutions (*a fledgling airline*), granting them potential rather than merely noting their newness."
+    }
+  ],
+  "exam_note": "Sentence-equivalence pairs **nascent** with *emerging* and **inchoate** with *amorphous/unformed* — if the sentence stresses formlessness rather than earliness, *nascent* is the trap."
+}

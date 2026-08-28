@@ -8,5 +8,21 @@
     "ingenuous"
   ],
   "similarity": 0.84,
-  "auto": true
+  "auto": true,
+  "core": "Three words separated by a letter or two, all describing how a mind comes across — clever, artless, or faking artless. The spelling similarity is the whole trap: the two that look most alike (ingenious / ingenuous) are unrelated in meaning, and the one that looks like a negation (dis- + ingenuous) negates the *frankness* word, not the *clever* word. So the pairings the eye suggests are exactly wrong.",
+  "words": [
+    {
+      "word": "disingenuous",
+      "nuance": "The only accusation in the group. **Disingenuous** presupposes that the speaker privately knows better and is hiding it behind a face of innocence — the mock-naive question, the apology that concedes nothing. It attaches to a move (an argument, a denial, a framing), not to a person's whole character and never to an object."
+    },
+    {
+      "word": "ingenious",
+      "nuance": "The only one about ability rather than sincerity. **Ingenious** praises the contrivance — a hinge, a loophole, a workaround — and is indifferent to honesty: an ingenious forgery is still a compliment. It is the only member of the three that attaches comfortably to things."
+    },
+    {
+      "word": "ingenuous",
+      "nuance": "A settled disposition, not a single act and not a skill. **Ingenuous** openness is uncalculated — the person hasn't learned to weigh what candor costs — which is why the word carries warmth plus a wince. Its opposite is guile, not stupidity, and emphatically not *ingenious*."
+    }
+  ],
+  "exam_note": "The exam banks on the false pairing: it offers *ingenious* where the sentence needs artlessness, and treats *disingenuous* as if it negated cleverness — it negates candor."
 }

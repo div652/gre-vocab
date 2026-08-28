@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__calm-that-shades-into-lifeless",
+  "title": "Calm that shades into lifeless",
+  "seed_words": [
+    "placid",
+    "stolid",
+    "phlegmatic",
+    "staid",
+    "somnolent",
+    "subdued"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe a low level of visible animation — nothing is stirring, nothing is reacting, the needle sits near zero. Because English treats liveliness as a virtue, each one is a shade away from an accusation of dullness, and the reader has to decide from context whether the quiet is admirable or damning. What actually separates them is *what* has gone flat (feeling, manners, alertness, volume), *why* (inborn temperament, policy, an event that pressed it down), and whether the word describes a state or its cause.",
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"calm\": the GRE decides the answer on cause and history — **subdued** demands a prior higher level, **phlegmatic** demands there never was one, **staid** requires the dullness be about convention rather than emotion.",
+  "words": [
+    {
+      "word": "placid",
+      "nuance": "The only one that is a genuine coin flip — it describes an undisturbed **surface**, so the same word covers a lake, a baby, and a colleague who never rises to bait. Nothing pressed the calm down and nothing is being suppressed; there is simply nothing there to ruffle."
+    },
+    {
+      "word": "stolid",
+      "nuance": "Not calm — **unreacting**, when a reaction was owed. The insult is structural: it implies the emotion never arrived rather than that it was mastered, and it attaches to faces and bodies (a clerk, an ox, a crowd) more than to minds."
+    },
+    {
+      "word": "phlegmatic",
+      "nuance": "Names the **cause**, not the scene: constitutional temperament, the alarm that never goes off. That's why it can flip to praise where the others can't — a phlegmatic captain in a crisis is the man you want, because his flatness is built in rather than a failure of the moment."
+    },
+    {
+      "word": "staid",
+      "nuance": "The only one with nothing to do with emotion. What's dull is **taste and convention** — grey suits, old banks, no surprises — so it lands on institutions and manners, and a staid man may be seething inwardly and remain perfectly staid."
+    },
+    {
+      "word": "somnolent",
+      "nuance": "The flatness is **drowsiness**, not composure, and it runs both directions: it describes the sleeper and the lecture that put him under. Literary and atmospheric — it colours a whole afternoon or a whole market, where the others sit on a single person or face."
+    },
+    {
+      "word": "subdued",
+      "nuance": "The only one that requires a **before**. It names a drop from a known higher level and implies something caused it — a loud friend gone quiet after bad news, never a naturally reserved one. Move it onto light or colour and the sadness vanishes into good taste."
+    }
+  ]
+}

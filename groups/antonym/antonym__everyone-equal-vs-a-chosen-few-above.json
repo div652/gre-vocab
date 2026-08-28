@@ -1,0 +1,42 @@
+{
+  "kind": "antonym",
+  "id": "antonym__everyone-equal-vs-a-chosen-few-above",
+  "title": "Levelling vs. Ranking: Equal, Fair, and Above",
+  "seed_words": [
+    "egalitarian",
+    "equitable",
+    "elitist",
+    "echelon",
+    "chauvinistic",
+    "patronize"
+  ],
+  "hallucinated": null,
+  "core": "All of these words are about how human beings get ranked against one another — whether anyone stands above anyone else, and how the difference is justified or enacted. One pole insists on flatness or fairness in how status and resources are distributed; the other assumes a ladder, and either occupies it, defends it, or performs it in conversation. They split along three axes the exam loves: belief vs. behaviour vs. plain structure, approval vs. accusation vs. neutrality, and whether the ranking is by class, by group, or by nothing at all.",
+  "exam_note": "The set-up trap is treating **equitable** as a synonym for equal (it licenses unequal shares) and expecting **echelon** to carry contempt (it is pure structure, no attitude) — plus **patronize**'s neutral \"be a customer of\" sense dropped into an otherwise hostile sentence.",
+  "words": [
+    {
+      "word": "egalitarian",
+      "nuance": "The only word here naming a positive programme: flatten the ladder itself. It judges arrangements — pay bands, inheritance, who gets the office — not how one person treats another, so it is the true structural antonym of *elitist* rather than of *patronize*."
+    },
+    {
+      "word": "equitable",
+      "nuance": "Fairness by calibration, not by flatness — it hands out different shares on purpose, so it can sit comfortably inside a hierarchy that an egalitarian would abolish. It is also a verdict word, applied to settlements, rulings and divisions, never to a person's political creed."
+    },
+    {
+      "word": "elitist",
+      "nuance": "Ranks people by supposed quality — birth, money, brains, taste — and wants that ranking to hold the power. Unlike *chauvinistic*, the in-group is a class rather than a tribe you were born into; unlike *echelon*, it is an accusation nobody accepts about themselves."
+    },
+    {
+      "word": "echelon",
+      "nuance": "The only noun and the only word with no opinion: it names a rung on the ladder and the people standing on it, without saying the ladder is deserved. Institutional in scale — parties, armies, corporations — and almost always pointed upward (*the upper echelons*)."
+    },
+    {
+      "word": "chauvinistic",
+      "nuance": "The superiority is tribal — my country, my sex, my team — not my class or my cultivation, and it requires yours to be worse rather than merely wanting the good seats. It reads as loud, smug and faintly absurd, where *elitist* reads as cold and institutional."
+    },
+    {
+      "word": "patronize",
+      "nuance": "The only verb, and the only one that happens in a single exchange: rank enacted face to face, in the over-explanation or the too-slow voice, disguised as help. An elitist may never speak to you; a patronizing person is doing it right now — and the same word, blandly, means to shop somewhere or bankroll an artist."
+    }
+  ]
+}

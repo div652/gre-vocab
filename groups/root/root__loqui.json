@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__loqui",
-  "title": "Root: loquī (to speak)",
+  "title": "Root: loquī (to speak) — how well, how much, to whom",
   "seed_words": [
     "eloquent",
     "loquacious",
     "soliloquy"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *loquī* means \"to speak,\" and these three all describe speech — but each one pins down a different variable. One rates the **quality** of the talk, one rates the **quantity**, one specifies the **audience** (namely, that there isn't one). None of them is a synonym for another: a person can talk constantly and move no one, or speak beautifully in a single sentence, or speak brilliantly to an empty room.",
+  "words": [
+    {
+      "word": "eloquent",
+      "nuance": "The only one that is a **verdict on quality**, and a flattering one — it says the speech *worked*, that listeners were moved. Quantity is irrelevant: one line can be eloquent. Uniquely in this group it detaches from speech entirely (an **eloquent silence**, an eloquent set of statistics), where it means vividly expressive without a word said."
+    },
+    {
+      "word": "loquacious",
+      "nuance": "Purely a **volume meter** — measures how much, and says nothing about whether any of it was good. The word's own fanciness does the work of a raised eyebrow: it's the polite, dry way to flag excess, softer than *garrulous* (rambling and tedious) and unlike *verbose*, which is about words on the page rather than a person in flow."
+    },
+    {
+      "word": "soliloquy",
+      "nuance": "The only **noun**, and the only one defined by the **absence of a listener** — that's the whole test. Against *monologue*, which is aimed at somebody, a soliloquy is thought that happens to be audible, which is exactly why it reads as sincere: no audience in the scene, so no reason to perform. Theatre word; applied to real life it's a joke."
+    }
+  ],
+  "exam_note": "Two favorite traps: swapping **loquacious** for **eloquent** (talking a lot ≠ talking well), and the wordless sense of **eloquent** in sentence-equivalence items like \"her silence was more ______ than any protest.\""
 }

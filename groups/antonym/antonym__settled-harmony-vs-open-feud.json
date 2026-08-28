@@ -1,0 +1,54 @@
+{
+  "kind": "antonym",
+  "id": "antonym__settled-harmony-vs-open-feud",
+  "title": "Settled harmony vs. open feud",
+  "seed_words": [
+    "accord",
+    "consensus",
+    "reconcile",
+    "amicable",
+    "acrimonious",
+    "animosity",
+    "enmity",
+    "strife"
+  ],
+  "hallucinated": [
+    "rancorous"
+  ],
+  "core": "All of these describe the state of relations between parties — how two sides stand toward each other after, or during, a dispute. One half names the condition of things being settled (agreed, patched up, conducted without rancour); the other names the condition of things being broken (bitterness, ill will, ongoing conflict). The trap is that they are not interchangeable within their own half: some name a *feeling*, some a *relationship*, some the *tone of a proceeding*, and some the *conflict itself*. Sorting them by which of those four things they attach to matters more than sorting them by hot and cold.",
+  "words": [
+    {
+      "word": "accord",
+      "nuance": "**Accord** is the harmony that has been formalised — a treaty signed by parties with the standing to sign it. Where the others describe an atmosphere, accord names a thing that exists on paper, or (as a verb) a formal bestowal of rights and honours."
+    },
+    {
+      "word": "consensus",
+      "nuance": "**Consensus** needs a group, not two sides — it is the sense of a room, not a settlement between adversaries. It measures how many agree, never how warmly, and pointedly stops short of unanimity: the holdouts merely stop objecting."
+    },
+    {
+      "word": "reconcile",
+      "nuance": "**Reconcile** is the only word here that requires a prior rupture — the *re-* insists something came apart first. It also uniquely covers non-human discrepancies (ledgers, testimonies), and in *reconcile oneself to* flips into resigned acceptance rather than repair."
+    },
+    {
+      "word": "amicable",
+      "nuance": "**Amicable** describes the tone of a dealing, not its outcome or any affection behind it — a divorce is amicable when the lawyers are civil, and the parties may never speak again. It is the absence of rancour, deployed precisely where rancour was expected."
+    },
+    {
+      "word": "acrimonious",
+      "nuance": "**Acrimonious** occupies exactly amicable's slot and inverts it: same nouns (split, settlement, negotiation), bitterness instead of civility. It describes the proceeding, never the person — and the bitterness is earned, so it needs sides that were once on the same side."
+    },
+    {
+      "word": "animosity",
+      "nuance": "**Animosity** is the feeling inside one party — hot, personal, with a grudge behind it, leaking out in tone and non-cooperation. It can be one-directional and it flares; it does not require the other side to feel anything back."
+    },
+    {
+      "word": "enmity",
+      "nuance": "**Enmity** is the standing relationship rather than the emotion — cold, mutual, often inherited, and perfectly capable of sitting dormant for decades without a word spoken. Grand register: houses, clans and nations are *at enmity*."
+    },
+    {
+      "word": "strife",
+      "nuance": "**Strife** names the conflict itself, not anyone's feelings about it, and it needs scale — households, sects, industries, nations. Elevated and faintly biblical, it describes a sustained condition with no winner, never a single argument between two people."
+    }
+  ],
+  "exam_note": "The exam rarely tests hot vs. cold here — it tests grammatical slot: *amicable/acrimonious* modify a proceeding, *animosity* is felt, *enmity* is a standing relation, *strife* is the conflict; expect a wrong answer that is the right temperature but the wrong kind of noun (and a *consensus*-as-unanimity trap)."
+}

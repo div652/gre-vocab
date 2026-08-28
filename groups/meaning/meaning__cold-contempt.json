@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__cold-contempt",
-  "title": "Cold contempt",
+  "title": "Looking down: from private verdict to open rejection",
   "seed_words": [
     "disdain",
     "contempt",
     "scorn",
     "spurn"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four rest on the same judgment: that something or someone is worthless, unserious, beneath the person doing the judging. What separates them is how far that judgment travels — whether it stays a feeling, shows on the face, gets said out loud, or becomes an act done to someone. Because they all look downward, every one of them says something about the arrogance of the person feeling it, not just the thing dismissed.",
+  "words": [
+    {
+      "word": "contempt",
+      "nuance": "The verdict itself, and the only one that can stay completely hidden — you can hold someone in **contempt** behind a perfectly polite face. It's also the one locked into fixed phrases (*hold in contempt*, *beneath contempt*) and the only one with a legal sense: defying a court's authority."
+    },
+    {
+      "word": "disdain",
+      "nuance": "The cold, aloof one — **disdain** is contempt at low temperature, expressed by not engaging at all: a raised eyebrow, a turned shoulder, silence. Uniquely, its verb takes an infinitive (*disdained to answer*), meaning a refusal to stoop, and it always advertises the disdainer's sense of rank."
+    },
+    {
+      "word": "scorn",
+      "nuance": "The loud one. **Scorn** is contempt that has an audience — it curls the lip and it speaks, which is why it's *poured* and *heaped* while disdain is merely felt. Its second sense also lets it reject: to scorn help is to push it away, not just despise it."
+    },
+    {
+      "word": "spurn",
+      "nuance": "Not a feeling at all but an act, and it needs something *offered* to act on — a hand, a gift, advances, advice. **Spurn** is the only one whose sting lands on the person who offered rather than the thing itself, hence the wounded-pride collocation *a spurned lover*. It's also the most formal of the four."
+    }
+  ],
+  "exam_note": "Sentence-equivalence traps hinge on whether the blank names a feeling (contempt, disdain) or an action done to an offer (spurn) — and on tone: disdain is silent and cold where scorn is public and loud, so the two are rarely interchangeable despite near-identical glosses."
 }

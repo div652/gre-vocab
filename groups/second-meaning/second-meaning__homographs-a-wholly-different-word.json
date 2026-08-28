@@ -1,0 +1,32 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__homographs-a-wholly-different-word",
+  "title": "Homographs: A Wholly Different Word",
+  "seed_words": [
+    "august",
+    "minute",
+    "content",
+    "keen"
+  ],
+  "hallucinated": null,
+  "core": "Each of these is a word you've read a thousand times in its ordinary sense — a month, a unit of time, what's inside a box, an everyday enthusiasm. The GRE ignores that sense entirely and tests a second one that arrives from a different direction: a different stress pattern, a different part of speech, sometimes a different root word that just happens to share the spelling. The danger isn't that the tested meaning is hard; it's that the familiar meaning fires first and you never look again. Treat a spelling you recognize instantly as a signal to slow down, not speed up.",
+  "words": [
+    {
+      "word": "august",
+      "nuance": "The only one in this group whose decoy is a proper noun: **august** the adjective (aw-GUST) is a different stress pattern from August the month (AW-gust), and it means reverence-commanding dignity. Its distinguishing risk is tonal — because the word is so lofty, examiners like to plant it where the surrounding sentence is deflating it, and the correct reading is sarcasm."
+    },
+    {
+      "word": "minute",
+      "nuance": "**Minute** (my-NEWT) shifts stress and vowel away from the time unit (MIN-it) and lands on smallness — and specifically smallness at the edge of detection, which is why it extends to an inspection that overlooks nothing. Unlike the others here, its two tested senses are related to each other; the break is only from the everyday meaning."
+    },
+    {
+      "word": "content",
+      "nuance": "The split in **content** (con-TENT) is grammatical: the familiar meaning is a noun (CON-tents of a package, web content), while the tested meaning is an adjective or verb about wanting nothing further. Watch for it in a slot no noun can fill — *content to*, *content with*, *contented himself* — and note it's the only word here whose tested sense carries a whiff of settling for less."
+    },
+    {
+      "word": "keen",
+      "nuance": "**Keen** is the outlier with no pronunciation clue at all: the verb *to keen* — to wail loudly over the dead — is a separate Irish-derived word wearing the same four letters, and nothing in the sound tells you which you've got. Only the grammar does: if *keen* takes a subject and a mourner, it isn't the eager or sharp adjective, and note the emotional flip — that verb is the one bleak entry in a word otherwise about honed edges."
+    }
+  ],
+  "exam_note": "The sentence will make the common sense grammatically or logically impossible — a noun-only word sitting in an adjective slot, an \"eager\" reading in a funeral sentence — so let the syntax, not your first recognition, pick the meaning."
+}

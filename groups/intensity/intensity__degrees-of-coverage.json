@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-coverage",
+  "title": "Degrees of coverage",
+  "seed_words": [
+    "thorough",
+    "exhaustive",
+    "encyclopedic",
+    "all-encompassing"
+  ],
+  "hallucinated": null,
+  "core": "All four say nothing was left out — but they answer different questions: *left out of what?* One measures a job done properly, one measures a finite set of cases run to the end, one measures a whole subject held in someone's head, one measures a scope with no visible edges. The scale runs from a task you can finish to a totality you can only gesture at. As the scope widens, the claim gets grander and the risk of overkill or suffocation grows with it.",
+  "words": [
+    {
+      "word": "thorough",
+      "nuance": "The only one that praises **effort rather than reach** — it certifies the worker, not the size of the field. A thorough search covers the house; it makes no claim that every house was searched. It's also the only member with a second life as a pre-noun intensifier, and there it turns hostile: *a thorough nuisance*, *a thorough scoundrel*."
+    },
+    {
+      "word": "exhaustive",
+      "nuance": "The claim shifts from diligence to **arithmetic: the set is finite and it is now finished** — every file, every name, every possibility. You can be thorough on an open-ended problem; you can only be **exhaustive** where the cases can be counted off. Its shadow is proportion: exhaustive on a trivial question is tedium."
+    },
+    {
+      "word": "encyclopedic",
+      "nuance": "Widens from a task to **an entire subject domain**, and almost always lands on a person's knowledge or memory rather than a search or a study. It buys **breadth plus instant recall, never insight** — the encyclopedic scholar may have no argument at all. Aim it at a book or a style and the compliment dies: catalogue-flat, everything listed, nothing said."
+    },
+    {
+      "word": "all-encompassing",
+      "nuance": "Drops the checklist entirely — there is no enumerable set here, just **something with no edges**, so it attaches to abstractions: a theory, a vision, a grief, a love. It carries awe where the others carry competence. Turn it on a feeling and the awe curdles into confinement: an all-encompassing obsession leaves room for nothing else."
+    }
+  ],
+  "exam_note": "Watch for **exhaustive/exhausting** swapped in a completion, and for **encyclopedic** offered where the sentence actually praises depth or originality — it only ever certifies breadth."
+}

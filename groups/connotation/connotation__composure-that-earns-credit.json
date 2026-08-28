@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__composure-that-earns-credit",
+  "title": "Composure that earns credit",
+  "seed_words": [
+    "aplomb",
+    "equanimity",
+    "imperturbable",
+    "poise",
+    "stoic",
+    "sanguine"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe not cracking when the situation gives you every reason to crack — and all of them pay the person a compliment for it. Each implies a pressure in the background: bad news, an insult, an audience, a crisis. What separates them is *which part* is being praised — the visible bearing, the difficulty of the feat pulled off, the evenness of the reaction, the silence about the pain, or the permanence of the temperament. One of them isn't about demeanour at all, but about the forecast you're holding.",
+  "words": [
+    {
+      "word": "poise",
+      "nuance": "The most **visible** and the most physical: steady voice, unhurried hands, nothing wobbling. It's the one you can see across a room, and the only one that also means literal balance — *poised to spring* is coiled readiness, not calm at all. Neutral register, with a faint whiff of grace and breeding."
+    },
+    {
+      "word": "aplomb",
+      "nuance": "Attaches to an **act**, not a reaction: you do something difficult *with* **aplomb**, in front of someone, and make it look easy. The others describe how you took what happened to you; this one describes how you pulled something off. No degree of difficulty, no audience, no aplomb."
+    },
+    {
+      "word": "equanimity",
+      "nuance": "The metric is **evenness** — the needle didn't move, up or down, when it should have. Reserved for the moment of provocation or bad news, and it's what you *take* something *with*. Not a performance and not endurance of pain: the person felt the blow and stayed level."
+    },
+    {
+      "word": "stoic",
+      "nuance": "Specifically about **pain, loss, and not complaining about it**, sustained over time rather than managed in one moment. It says nothing about grace; a **stoic** person may look grim, worn, and entirely unimpressive while doing it. The virtue is the silence."
+    },
+    {
+      "word": "imperturbable",
+      "nuance": "The only pure **trait** word here — it describes what the person is always like, not how one occasion went, so it can't be spent on a single incident. And because nothing ever registers, it can turn faintly chilling: you start wondering whether anyone's home."
+    },
+    {
+      "word": "sanguine",
+      "nuance": "The odd one out: about your **expectations**, not your bearing. A **sanguine** person can be cheerful, talkative, even fidgety — what's steady is the belief that it'll come out fine, usually against the evidence. It's also the only word here that can be an insult, meaning the danger hasn't landed yet."
+    }
+  ],
+  "exam_note": "**Sanguine** is the trap: planted among composure words but testing optimism about an *outcome*, so its sentence cues it with \"despite the losses / even as the deficit widened\" rather than with any description of how someone behaved."
+}

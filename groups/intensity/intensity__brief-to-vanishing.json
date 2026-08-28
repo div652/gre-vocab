@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__brief-to-vanishing",
+  "title": "Brief to vanishing",
+  "seed_words": [
+    "transitory",
+    "transient",
+    "ephemeral",
+    "evanescent"
+  ],
+  "hallucinated": null,
+  "core": "All four say a thing does not last, and any of them can be swapped into \"a ___ pleasure\" without breaking the sentence. What separates them is not how long the thing lasts but what the speaker is pointing at: whether impermanence is a philosophical property, a recorded fact, a lifespan, or an act of disappearing. Register does the rest of the work — one belongs to sermons, one to incident reports, two to poetry. The scale runs from \"this will end\" to \"this is dissolving as you watch.\"",
+  "words": [
+    {
+      "word": "transitory",
+      "nuance": "The moralist's word: impermanence stated as a truth about the thing, usually an abstraction — power, glory, grief, a boom. It implies a speaker with a lesson (don't get attached), which none of the others carry."
+    },
+    {
+      "word": "transient",
+      "nuance": "The technician's word: passing through, reported flatly. It takes concrete subjects the others don't — a voltage spike, a fever, a population, a hotel guest — and alone in this group it becomes a noun for a person, which is what makes it sound cold when applied to one."
+    },
+    {
+      "word": "ephemeral",
+      "nuance": "Points at lifespan: a fixed, tiny span that runs out. It usually implies the brevity is part of the appeal (blossom, a fad, internet fame), and it is the only one with a live engineering sense — short-lived by design, don't rely on it."
+    },
+    {
+      "word": "evanescent",
+      "nuance": "Points at the fading itself, not the span: the thing is thinning while you look — mist, a scent, a chord dying out. The softest and most rarefied of the four, and it needs a subject delicate enough to dissolve; a fever or a badge cannot be evanescent."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves pairing two of these and rewarding the one whose register matches the sentence — clinical context takes **transient**, aesthetic context takes **ephemeral**/**evanescent**, and a sentence about worldly glory takes **transitory**."
+}

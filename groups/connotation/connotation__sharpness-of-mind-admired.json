@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__sharpness-of-mind-admired",
+  "title": "Sharp judgment, as a compliment",
+  "seed_words": [
+    "shrewd",
+    "astute",
+    "canny",
+    "sagacious",
+    "perspicacious",
+    "acumen"
+  ],
+  "hallucinated": null,
+  "core": "All of these praise a fast, accurate read of a real situation — a person, a deal, a motive — rather than raw brainpower or book learning. Every one is positive, so the test isn't good-versus-bad but *what the sharpness is aimed at* and *how much self-interest shows*. They split along three lines: how cold the compliment is (visible angle-working versus none), what the judgment targets (money, timing, the future, another person's mind), and register (marketplace-neutral versus formal and flattering).",
+  "words": [
+    {
+      "word": "shrewd",
+      "nuance": "The coldest of the compliments: **shrewd** says you cannot be fooled and you know what things are actually worth. It's the only one that comfortably describes someone you dislike, because it sits one short step from *cunning* — the self-interest is visible and the word doesn't apologize for it."
+    },
+    {
+      "word": "astute",
+      "nuance": "**Astute** is shrewd pointed at *timing and angle* — spotting what's really going on and moving on it before the room catches up. It's the boardroom-and-campaign word (\"an astute negotiator,\" \"politically astute\"), and unlike *shrewd* it launders the self-interest into pure praise."
+    },
+    {
+      "word": "canny",
+      "nuance": "**Canny** is defensive where *astute* is offensive: never overpaying, never signing the bad contract, knowing when to walk. It's also the lowest-wattage word here — quiet, thrifty competence, never dazzling brilliance, so a canny investor is careful rather than a genius."
+    },
+    {
+      "word": "sagacious",
+      "nuance": "Only **sagacious** points at the *future*: judgment vindicated by time, the call that looked unremarkable then and turned out exactly right. Formal and slightly grand, it flatters the judge — elder statesmen, not operators — and it's the one word here that carries no whiff of an angle being worked."
+    },
+    {
+      "word": "perspicacious",
+      "nuance": "**Perspicacious** is about penetration, not profit — seeing *through* a person or a situation to what others missed, with no deal on the table. It's the cerebral, formal top of the scale (*perceptive* is its everyday version), and the one member with no financial home at all."
+    },
+    {
+      "word": "acumen",
+      "nuance": "The only noun, and it needs a *domain* bolted on: **business, political, financial, legal acumen**. It names a credited competence built by experience rather than a way of perceiving — a brilliant professor can have none of it, an unschooled shop owner plenty."
+    }
+  ],
+  "exam_note": "Register and target do the work: money or bargaining → *canny/shrewd*, timing an advantage → *astute*, a judgment proven right years later → *sagacious*, seeing through a person's motives → *perspicacious*; and since **acumen** is the lone noun, grammar alone often eliminates or selects it."
+}

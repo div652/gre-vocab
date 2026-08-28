@@ -9,5 +9,29 @@
     "dilatory",
     "dawdle"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five point at work that isn't getting done, and all carry blame. What differs is *where* the fault is located: in a person's settled character, in their competence, in a specific duty they slid out of, in the tempo of an action, or in mere aimless drift. Some brand a whole life; others complain about one afternoon. Some imply the work fell to somebody else; others imply nothing more than that you're late.",
+  "exam_note": "The trap is treating **indolent** and **dilatory** as synonyms for \"slow\" — indolent is unwillingness to exert oneself at all, dilatory is delay in acting; and **shirk** is the only one that needs a duty as its object.",
+  "words": [
+    {
+      "word": "indolent",
+      "nuance": "Names a **temperament**, not an incident or an outcome — the indolent man may owe nobody anything, and he is comfortable, not failing. Alone in this group it can be used with a hint of pleasure (an indolent afternoon, indolent heat); none of the others can describe luxury."
+    },
+    {
+      "word": "feckless",
+      "nuance": "The charge isn't laziness but **ineffectuality** — this one can be busy, well-meaning, full of plans, and still produce nothing. It's a verdict on an entire character and its track record, delivered with dismissal rather than anger: the idle heir, the absentee father."
+    },
+    {
+      "word": "shirk",
+      "nuance": "The only verb here that requires a **specific obligation** as its object, and the only one implying the work has now landed on someone else. It attaches to duty, responsibility, a hard job — and the implied motive is cowardice or self-sparing, not slowness."
+    },
+    {
+      "word": "dilatory",
+      "nuance": "Concerns **timing, not effort** — the dilatory party may be working hard, just not yet, and the delay may be deliberate strategy (dilatory tactics, dilatory motions). Its home is the formal complaint: memos, court filings, solicitors' letters, where you're documenting a pattern."
+    },
+    {
+      "word": "dawdle",
+      "nuance": "The mildest and the most physical — it describes someone **already en route**, drifting, with no duty invoked and no motive at all. \"Stop dawdling\" is what you say to a child on the walk home; it would be absurd applied to a contractor in breach or a father who abandoned his family."
+    }
+  ]
 }

@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__grave-vs-flippant",
+  "title": "Grave vs. flippant",
+  "seed_words": [
+    "sober",
+    "staid",
+    "stern",
+    "decorum",
+    "levity",
+    "facetious",
+    "frivolous",
+    "droll",
+    "bawdy",
+    "raillery"
+  ],
+  "hallucinated": null,
+  "core": "Every word here takes a position on how much weight a moment deserves. One half describes the state of taking things seriously — in judgment, in manner, in face, in observed form — and the other describes lightness, whether that lightness is a breach, a dodge, a defect, a style, or a gift. What makes them confusable is that the exam rarely tells you which side is being praised: gravity can be admirable or deadening, and levity can be a scandal or the only thing that saves the room. Sort them by two questions: does the word describe a person, an occasion, or a verdict on one — and does the speaker approve?",
+  "words": [
+    {
+      "word": "sober",
+      "nuance": "The only grave word that praises the **judgment** rather than the manner — a *sober* estimate is trustworthy because it is unclouded by hype, panic, or wishful thinking. A sober person can still laugh; the seriousness is in what they believe, not in what their face is doing."
+    },
+    {
+      "word": "staid",
+      "nuance": "Gravity that has hardened into habit and stopped paying off. Where *sober* earns respect, **staid** withholds it — it says respectable and boring, and it lands best on institutions (old banks, provincial towns) where the dullness is policy rather than temperament."
+    },
+    {
+      "word": "stern",
+      "nuance": "The only word here pointed **at someone else**. **Stern** is severity with a face — a rebuke, a judge, a warning that will not bend — carrying authority rather than mere seriousness. Nothing in *sober* or *staid* disciplines you; *stern* does."
+    },
+    {
+      "word": "decorum",
+      "nuance": "Not a temperament but a **standard**, and a situational one: the unwritten form appropriate to *this* occasion. You observe **decorum** without feeling anything, and a scoundrel can observe it perfectly — it governs conduct, not character. It is the thing the light words in this group breach."
+    },
+    {
+      "word": "levity",
+      "nuance": "The **neutral name for the lightness itself**, defined by the weight it interrupts — no funeral, trial, or crisis, no levity. Alone in this group it takes its charge entirely from the speaker: unseemly frivolity to the offended, welcome relief to the grateful."
+    },
+    {
+      "word": "facetious",
+      "nuance": "**Levity aimed at a question that deserved an answer.** The charge is timing and evasion, not quality — the joke may be genuinely funny, and you are still a smart-alec dodging. It attaches to a person's reply in the moment, which is why it usually arrives as *\"don't be facetious.\"*"
+    },
+    {
+      "word": "frivolous",
+      "nuance": "The only light-side word that needs **no joke at all**. It is a verdict of worthlessness: a *frivolous* lawsuit is baseless, a *frivolous* person can't be trusted with anything grave. Where **facetious** faults the moment chosen, **frivolous** faults the thing for having no weight in the first place."
+    },
+    {
+      "word": "droll",
+      "nuance": "Describes the **flavour of the humour**, not its propriety — dry, deadpan, faintly peculiar, worth a half-smile rather than a laugh. It requires no solemn occasion to violate, and said sincerely it is a compliment; said flat to someone's face, pure sarcasm."
+    },
+    {
+      "word": "bawdy",
+      "nuance": "Defined by **subject matter**: sex and bodies, coarse and loud, played for a communal laugh. It is the opposite pole from **droll** in delivery — nothing understated about it — and its offence is against **decorum**'s propriety, not against the gravity of an occasion."
+    },
+    {
+      "word": "raillery",
+      "nuance": "The only **warm** word here, and the only one with a **target who is in on it**. Teasing exchanged between people who like each other and expect it returned, witty by definition — clumsy jabs and real mockery both fail to qualify. Modern equivalent: banter."
+    }
+  ],
+  "exam_note": "The trap is assuming the light words are all pejorative and the grave words all approving: only *facetious* and *frivolous* are fixed condemnations, while *levity* and *droll* flip with the speaker, *raillery* is affectionate, and *staid* quietly insults the serious side."
+}

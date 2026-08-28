@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__spending-condemned",
+  "title": "Spending condemned",
+  "seed_words": [
+    "profligate",
+    "prodigal",
+    "spendthrift",
+    "squander",
+    "extravagant",
+    "exorbitant"
+  ],
+  "hallucinated": null,
+  "core": "All of these say that too much went out the door and the speaker disapproves. The split that matters is what the disapproval lands on: some blame the *person* — their character, their habit, the ruin they are walking into — while others blame the *amount*, saying it overshot the occasion or the going rate. A second split is what gets lost: money only, or money plus anything else valuable that cannot be recovered. Register runs from a raised eyebrow to a moral indictment.",
+  "words": [
+    {
+      "word": "profligate",
+      "nuance": "The heaviest charge here, and the only one that scales up to institutions — treasuries, governments, empires. It also keeps a live second sense of *dissolute*, so calling someone **profligate** can impugn their morals, not just their budgeting."
+    },
+    {
+      "word": "prodigal",
+      "nuance": "The image is pouring out until the vessel is empty — a personal fortune squandered by someone who should have known better. Uniquely, **prodigal** flips positive with *of*: *prodigal of praise* is lavish generosity, no insult intended."
+    },
+    {
+      "word": "spendthrift",
+      "nuance": "The only member that primarily names a *person* and a settled habit (*spendthrift heir, spendthrift ways*). Tone is exasperated and faintly old-fashioned — a shaken head, not the moral thunder of **profligate**."
+    },
+    {
+      "word": "squander",
+      "nuance": "The verb, and the only one not confined to money: you **squander** a lead, a talent, a chance. It needs something good to begin with and stresses irreversibility — the thing was yours, and now it is gone for nothing."
+    },
+    {
+      "word": "extravagant",
+      "nuance": "Judges *proportion to the occasion* rather than waste, so it is the one word here a speaker can deliver with amusement or grudging admiration. Half its exam appearances are non-financial: **extravagant** claims, praise, theories."
+    },
+    {
+      "word": "exorbitant",
+      "nuance": "Attaches to the price tag, never the payer — rents, fees, salaries, demands. It is indignation from the person being charged, and it says nothing about anyone's character or habits."
+    }
+  ],
+  "exam_note": "The GRE separates blame-the-spender (profligate, prodigal, spendthrift, squander) from blame-the-amount (extravagant, exorbitant), and springs two traps: **prodigal** never means \"returning,\" and **extravagant** is as often about claims as about cash."
+}

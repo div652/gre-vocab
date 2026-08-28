@@ -8,5 +8,21 @@
     "dilettante"
   ],
   "similarity": 0.63,
-  "auto": true
+  "auto": true,
+  "core": "Three formal, negative Latinate words that all accuse someone of not applying themselves properly — and that look almost identical on the page, with two of them sharing a *dil-* opening and two sharing an *-atory/-ultory* ending. Each one indicts a different failing: the *shape* of the effort, the *timing* of it, and the *depth* of it. All three are judgments handed down by an observer, never self-descriptions.",
+  "words": [
+    {
+      "word": "desultory",
+      "nuance": "The work is happening — it's just scattered and listless, skipping from one thing to the next with no thread and no appetite. Attaches to activities and their outputs (a **desultory** search, conversation, attempt), and says nothing about lateness or about the person's pretensions."
+    },
+    {
+      "word": "dilatory",
+      "nuance": "Purely about the clock: the thing hasn't been done yet, and the delay looks chosen. Attaches to people who owe you something and to stalling tactics (a **dilatory** motion, **dilatory** replies) — the work itself may be fine once it finally arrives, which is exactly what desultory can't say."
+    },
+    {
+      "word": "dilettante",
+      "nuance": "The only noun here, and the only one aimed at a person's standing rather than a piece of work. The charge is unearned authority in an art or field — dabbling for pleasure while talking like an expert. Someone can be prompt and focused and still be a **dilettante**."
+    }
+  ],
+  "exam_note": "In sentence completions, scan for the clue type: deadlines, delays and impatient stakeholders point to **dilatory**; scattered, unfocused, drifting effort points to **desultory**; and **dilettante** is usually eliminable on grammar alone, since it's the noun."
 }

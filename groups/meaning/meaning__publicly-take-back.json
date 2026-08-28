@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__publicly-take-back",
-  "title": "Publicly take back",
+  "title": "Publicly Taking It Back",
   "seed_words": [
     "abjure",
     "renounce",
     "recant",
     "repudiate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe cutting yourself loose from something you were previously attached to, and doing it out loud, on the record, with witnesses. None of them works for a quiet change of heart — the break has to be *announced* to count. What separates them is the object of the break (a possession, a vow, a sentence you uttered, a bond you were party to), and whether you're stepping away by choice or being made to say the words.",
+  "words": [
+    {
+      "word": "renounce",
+      "nuance": "The plain-vanilla member, and the only one that can be pure sacrifice with no wrongdoing implied. What you **renounce** is something you *hold* and are giving up going forward — a throne, a fortune, a citizenship, violence as a tactic. It says nothing about having been wrong; the prince who renounces the crown isn't confessing, he's paying."
+    },
+    {
+      "word": "abjure",
+      "nuance": "**Abjure** is renouncing *under oath* — the ceremony is baked into the word. Its home turf is the formula recited before an authority: the heretic before the tribunal, the naturalizing citizen swearing off foreign princes. It attaches to allegiances and beliefs you were *bound* by, and it usually smells of someone standing over you making sure you say it."
+    },
+    {
+      "word": "recant",
+      "nuance": "Alone in this group, **recant** takes back *words*. There must be a prior public statement — a theory, a testimony, an accusation — and recanting declares that statement false, so it's the one that implies *I was wrong* (or that someone squeezed me until I said so). Galileo recanted; he did not repudiate or renounce."
+    },
+    {
+      "word": "repudiate",
+      "nuance": "**Repudiate** points *outward* at a tie and severs it: a debt you won't honour, a treaty you won't keep, an endorsement you disown, a supporter you cast off. It's the only one here that can take a *person* or someone else's act as its object — you repudiate the ally whose remarks embarrass you — and it's often aggressive rather than penitent."
+    }
+  ],
+  "exam_note": "The exam picks by object, not vibe: a prior *statement* wants recant; a prior *bond, debt, or person*, repudiate; an *oath*, abjure; a *possession or right surrendered*, renounce."
 }

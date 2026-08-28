@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__settled-moral-corruption",
-  "title": "Settled moral corruption",
+  "title": "Moral Rot: Depth, Cheapness, and Decline",
   "seed_words": [
     "depravity",
     "turpitude",
     "decadent",
     "sordid"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe corruption as a **condition** rather than a single wrong act — something has gone bad and stayed bad, in a person, a scandal, or a whole culture. They diverge on three axes: how deep the rot goes, who is authorised to say it, and what the rot is made of (cruelty, disgrace, luxury, or cheapness). Two are character verdicts, one is a legal test, one is a diagnosis of decline. Swapping them changes not just the severity but the speaker.",
+  "words": [
+    {
+      "word": "depravity",
+      "nuance": "The only one that indicts the **person all the way down**: not tempted, but spoiled — the restraint isn't strained, it's absent. Its raw material is cruelty and perversion, and using it marks the speaker as morally appalled, which is why it never survives contact with a small lapse."
+    },
+    {
+      "word": "turpitude",
+      "nuance": "The institutional word: it exists to **disqualify** you — from the visa, the bar, the office — and lives almost entirely inside the fixed phrase *moral turpitude*. Unlike **depravity**, it is a legal category being applied rather than a judgement being felt; outside a tribunal it sounds grandiose and is usually a joke."
+    },
+    {
+      "word": "decadent",
+      "nuance": "The rot here is **pleasant from the inside** — luxury and softness, not cruelty — and the charge is *decline from a former height*: pleasure taken instead of building, fighting, or believing. It's the only one that attaches naturally to eras, empires, and art styles, and the only one advertising has drained into a compliment (the GRE wants the harsh sense)."
+    },
+    {
+      "word": "sordid",
+      "nuance": "The scale-down word: it makes evil **small, cheap, and embarrassing** — money, lust, spite, a petty betrayal — so a sordid scandal is shabby rather than terrifying. It also carries a whiff of exposure (details turn sordid when dragged into daylight), and alone in this group it can mean literal physical filth."
+    }
+  ],
+  "exam_note": "The trap is scale and speaker: a bribes-and-hotel-receipts scandal is **sordid**, not **depraved**; a late empire is **decadent**, not guilty of **turpitude** — and if the passage isn't a statute or a disqualification hearing, **turpitude** is the wrong answer."
 }

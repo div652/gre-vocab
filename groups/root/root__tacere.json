@@ -7,5 +7,21 @@
     "tacit",
     "taciturn"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three descend from Latin *tacēre*, \"to be silent,\" and all three describe something that goes unsaid. The confusion is that they locate the silence in three different places: in a person's choice on one topic, in a person's permanent disposition, and in the agreement itself rather than in any person. Two of them describe speakers; one describes a thing that was never spoken. Getting them right means asking what the silence is *doing* — withholding, characterizing, or communicating.",
+  "words": [
+    {
+      "word": "reticent",
+      "nuance": "The topic-specific one: it takes **about** and points at a subject the speaker could disclose and won't — usually his own affairs. It's a live choice in a particular scene, so it invites a reading (discretion or evasion) in a way a mere personality trait never does."
+    },
+    {
+      "word": "tacit",
+      "nuance": "The only one that doesn't describe a person at all — it modifies the *understanding*: a tacit agreement, tacit approval, a tacit admission. Here silence carries content and binds two parties; nobody is being characterized as quiet, and a very talkative person can give tacit consent by not objecting."
+    },
+    {
+      "word": "taciturn",
+      "nuance": "Measures word count, not content: no topic, no withheld secret, just a standing temperament of few words with everyone about everything. Where **reticent** implies there's something specific he isn't saying, **taciturn** implies there was never much to say — hence its faint chill rather than its faint suspicion."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves offering *reticent* and *taciturn* as a \"pair\" — check for a topic: if the sentence names what he won't discuss, only **reticent** fits; if it describes him across all conversations, only **taciturn** does. **Tacit** is the giveaway distractor whenever the blank modifies a person instead of an agreement."
 }

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__shrewd-to-wise",
+  "title": "Shrewd to wise",
+  "seed_words": [
+    "canny",
+    "astute",
+    "perspicacious",
+    "sagacious"
+  ],
+  "hallucinated": null,
+  "core": "All four praise someone for sharp judgement about people and situations — the ability to see what's actually going on and not be fooled. All four are complimentary, which is exactly the trap: each one is the respectable twin of *cunning*, *crafty*, or *sly*. They separate on what the sharpness is *for* — protecting your money, seizing an opening, reading a motive, or calling the future — and on how grand the praise sounds.",
+  "words": [
+    {
+      "word": "canny",
+      "nuance": "The defensive end of the scale: **canny** is hard to cheat. It's about not overpaying, not signing the bad contract, not being talked into anything — practical caution around money and bargains, with a homely, slightly folksy ring. The others admire what someone perceives; canny admires what they refuse."
+    },
+    {
+      "word": "astute",
+      "nuance": "The offensive end: **astute** spots the opening and moves on it first. It lives in deal-making and politics (\"an astute negotiator\", \"politically astute\"), and carries a faint whiff of self-interest — this is the person who noticed the angle, not just the truth. Where canny protects, astute profits."
+    },
+    {
+      "word": "perspicacious",
+      "nuance": "Pure penetration, no transaction attached. **Perspicacious** is about seeing *through* — the disguised motive, the flaw in the argument, the thing everyone else missed — and it implies nothing about whether the seer acts. Formal and cerebral where astute is commercial; the word for a critic or a diagnostician, not a bargainer."
+    },
+    {
+      "word": "sagacious",
+      "nuance": "The only one aimed at the *future*. **Sagacious** judgement is validated by how things turn out — the unremarkable-looking decision that proved exactly right years later. It's also the grandest and most honorific of the four, reserved for elder statesmen and long-range calls; nobody is sagacious about a single afternoon's haggling."
+    }
+  ],
+  "exam_note": "Watch the sentence's clue-type: money/refusal → canny, opportunity seized → astute, hidden motive detected → perspicacious, outcome proved right later → sagacious; and beware answer choices like *cunning* or *devious*, which fit the skill but flip the tone."
+}

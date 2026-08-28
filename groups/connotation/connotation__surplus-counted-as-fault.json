@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__surplus-counted-as-fault",
+  "title": "Surplus counted as fault",
+  "seed_words": [
+    "superfluous",
+    "gratuitous",
+    "redundant",
+    "surfeit",
+    "extraneous"
+  ],
+  "hallucinated": null,
+  "core": "Every word here says *there is more of this than there should be* — and treats that surplus as a flaw, not a bonus. What separates them is the **reason** the excess counts against you: sheer quantity, duplication, irrelevance, lack of any justification, or volume so large it sickens. All five lean formal and carry a judgment about whoever let the excess happen. English has plenty of neutral or approving words for \"more\" (*surplus*, *abundance*, *ample*); none of these is one.",
+  "exam_note": "The GRE builds sentences where two or three fit the blank grammatically and only the *cause* of the excess decides it — check whether the surplus repeats (redundant), strays off-topic (extraneous), was unprovoked (gratuitous), or simply piled too high (superfluous, surfeit).",
+  "words": [
+    {
+      "word": "superfluous",
+      "nuance": "The purest arithmetic charge: it's a fault only because there is **too much of it** — not because it repeats, strays, or offends. The fourth adjective might be the best of the four and still be superfluous. This is the default when no more specific reason for the excess is available."
+    },
+    {
+      "word": "redundant",
+      "nuance": "Names the *duplication* that made the thing excess — the surplus is a second copy of what's already there. Uniquely in this group it can flip positive (engineered backup systems, where duplication is the point), and it carries an institutional side-sense (British: laid off). Its sting is mild incompetence: you didn't notice you'd already done it."
+    },
+    {
+      "word": "extraneous",
+      "nuance": "Denies membership rather than counting units — this came from **outside** and was never part of the job. You can have exactly the right *amount* of material and still have extraneous material in it. The coldest word here: it dismisses relevance without claiming anything is wrong."
+    },
+    {
+      "word": "gratuitous",
+      "nuance": "The only one that accuses the *doer* of appetite. The excess wasn't miscounted, it was indulged — the insult thrown in for sport, the gore lingered over. It attaches almost exclusively to aggression and bad taste (violence, cruelty, swipe), and keeps a separate formal sense of *free of charge*."
+    },
+    {
+      "word": "surfeit",
+      "nuance": "A **noun/verb**, not an adjective — it names the glut itself, and always through the body: the queasiness of the tenth pastry. Alone in this group it implies a sated, faintly nauseated recipient rather than a fastidious observer. A surfeit of information is more than a mind can digest, not merely more than it required."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__nautical-words-on-dry-land",
+  "title": "Nautical words on dry land",
+  "seed_words": [
+    "jettison",
+    "fathom",
+    "abreast",
+    "buoyant"
+  ],
+  "hallucinated": null,
+  "core": "Each of these began at sea — cargo going over the side, a line dropped to measure depth, ships running side by side, a hull that won't sink — and each now does most of its work on land, in offices, markets and arguments. The trap is that the figurative sense isn't free-floating: the original physical image still constrains what the word can attach to and what it implies. Knowing the literal sense is what tells you the figurative one is narrower than its dictionary synonym. Test yourself on which nautical picture is still doing the work.",
+  "words": [
+    {
+      "word": "jettison",
+      "nuance": "The only one here that is an act with a victim: something gets given up, and the ship keeps going. Its nautical logic survives as a precondition — there must be *load* and *distress*, which is why **jettison** can't replace a casual *discard*; you jettison the thing you wanted to keep."
+    },
+    {
+      "word": "fathom",
+      "nuance": "The only one whose two senses split cleanly by part of speech: the noun stayed at sea (six feet of depth), the verb went entirely mental. And unlike the others, **fathom** normally reports a failure — *can't fathom* — so the sounding line comes up short rather than touching bottom."
+    },
+    {
+      "word": "abreast",
+      "nuance": "The only one about relative position between two things both in motion, and the only one that demands a preposition to go figurative (*abreast of*). It doesn't describe you alone; it describes the gap between you and a subject that keeps moving, so it always implies effort you have to keep spending."
+    },
+    {
+      "word": "buoyant",
+      "nuance": "The only adjective, and the only positive one — a standing property, not an act or a position. Its physics is passive: **buoyant** things don't climb, they refuse to sink, which is why it fits both a person absorbing bad news and a market absorbing a bad quarter."
+    }
+  ],
+  "exam_note": "The GRE plants the nautical word in a landlocked sentence (a budget, a memo, a motive) and offers a literal-sea distractor plus a too-broad synonym — *discard* for **jettison**, *know* for **fathom**, *informed* for **abreast**, *joyful* for **buoyant**; the right answer is the one that keeps the original image's constraint."
+}

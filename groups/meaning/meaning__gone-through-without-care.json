@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__gone-through-without-care",
-  "title": "Gone through without care",
+  "title": "Four Ways of Not Really Doing It",
   "seed_words": [
     "cursory",
     "perfunctory",
     "superficial",
     "token"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe something that technically happened but didn't amount to much — the motions were gone through, the substance wasn't. The event is never denied; what's denied is depth, care, or weight. They differ by *which* thing went missing: time, interest, depth, or sincerity. Three are quiet accusations aimed at the doer; one can be purely descriptive.",
+  "words": [
+    {
+      "word": "cursory",
+      "nuance": "The failure is **speed**. A cursory look was too fast to catch what a slower one would have — the implied fix is more time. It clings to acts of perception (glance, reading, inspection); you can't give a cursory donation."
+    },
+    {
+      "word": "perfunctory",
+      "nuance": "The failure is **motive**, not pace. A perfunctory ritual can be slow, complete, and correctly performed — it's dead inside, done because duty demanded it. This is the one that says the person didn't care, regardless of how much of the task got finished."
+    },
+    {
+      "word": "superficial",
+      "nuance": "The only one that measures **depth reached** rather than judging the doer, and the only one with a genuinely neutral sense: a superficial wound is good news. Figuratively it faults an analysis for stopping at appearances — it says nothing about whether that was haste, indifference, or plain inability."
+    },
+    {
+      "word": "token",
+      "nuance": "The only one where the smallness is **deliberate and aimed at an audience** — done precisely so it can be pointed at later. A token raise isn't a lapse of care; it's a calculated purchase of the appearance of compliance. Also the group's only noun, and there the tone flips warm: a token of affection."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves pairing **cursory** with **perfunctory** as if they were the twin answer — check whether the sentence blames the clock (cursory) or the attitude (perfunctory); and don't reject **superficial** just because the context is a literal, non-insulting wound or crack."
 }

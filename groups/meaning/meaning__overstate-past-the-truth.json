@@ -8,5 +8,25 @@
     "sensational",
     "distort"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe an account that has been pushed beyond what the facts support — the size inflated, the details enriched, the shape bent, the drama cranked up. They differ on three axes: whether anyone is meant to be fooled, whether the starting material is real, and whether the charge is aimed at the content or at the effect on the audience. Some are named rhetorical devices; others are accusations. Only one of them names a technique that is openly, harmlessly false.",
+  "words": [
+    {
+      "word": "hyperbole",
+      "nuance": "The only one that isn't deceptive: the excess is visible on purpose, so no listener is meant to believe it. It's also the only noun here — it names a device (\"that's hyperbole\"), whereas the others name something being done to material."
+    },
+    {
+      "word": "embellish",
+      "nuance": "The mildest accusation, and the forgiving one: the core story is true and the invented details are added as ornament. Reserved for storytellers, anecdotes, and testimony — you're saying someone improved a tale, not that they lied."
+    },
+    {
+      "word": "sensational",
+      "nuance": "Judges the effect on the audience, not the content's fidelity — the aim is a gasp, and accuracy is collateral damage. It attaches to coverage and presentation (a headline, a trial, a tabloid), and it's the word that carries a live positive sense the GRE ignores."
+    },
+    {
+      "word": "distort",
+      "nuance": "The hardest charge: every element stays genuine, only the arrangement is falsified — the real quote, the real number, warped until it means something else. It also has a fully neutral technical use (lens, signal, waveform) where nobody is being accused of anything."
+    }
+  ],
+  "exam_note": "The trap is treating them as one intensity scale — **hyperbole** deceives nobody, **embellish** softens the charge, and **sensational** may be praise, so context words like *lurid*, *accurate*, or *literal* decide the answer."
 }

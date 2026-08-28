@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__saying-it-outright-vs-hinting-at-it",
+  "title": "Saying it outright vs. hinting at it",
+  "seed_words": [
+    "frank",
+    "candid",
+    "articulate",
+    "overt",
+    "allude",
+    "allusive",
+    "intimate",
+    "euphemism",
+    "tacit",
+    "implicit"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these concerns how much of a meaning gets put on the record. At one pole, the awkward thing is named plainly and on purpose; at the other it is transmitted anyway — by a gesture toward it, a softened substitute word, or silence that both parties read the same way. The trap is that both poles are successful communication; what separates them is whether the speaker can later be held to the words.",
+  "words": [
+    {
+      "word": "frank",
+      "nuance": "**Frank** is about *manner*: the topic was already on the table and you refused to cushion it. It's the pre-announced move (\"to be frank\") — a warning that tact is about to be spent, not a revelation that something was being withheld."
+    },
+    {
+      "word": "candid",
+      "nuance": "**Candid** is about *content*: you had cover and gave it up, usually unflattering material about yourself. Frankness is how you say a thing; candour is that you said it at all — hence candid *about* a bad quarter, and hence the unposed photo."
+    },
+    {
+      "word": "articulate",
+      "nuance": "**Articulate** is the only word here about *capacity* rather than willingness — nothing is being concealed, the question is whether the thought comes out in jointed, followable pieces. You can be entirely candid and still inarticulate."
+    },
+    {
+      "word": "overt",
+      "nuance": "**Overt** describes *conduct*, not speech, and presumes the deed was the kind normally hidden — hostility, surveillance, an act of war. As the formal antonym of *covert* it carries the charge that someone has dropped the pretence, where frankness and candour are credited as virtues."
+    },
+    {
+      "word": "allude",
+      "nuance": "**Allude** is the single spoken act at the far pole: you point and make the listener close the gap — \"recent difficulties\" for the affair. Unlike hinting-by-silence something is actually said aloud; it just isn't the name. Takes **to**."
+    },
+    {
+      "word": "allusive",
+      "nuance": "**Allusive** promotes that habit into a *style* and attaches to texts, not people — a poem or a remark is allusive, a person is evasive. Its connotation flips with audience: layered to insiders, show-offy to everyone else."
+    },
+    {
+      "word": "intimate",
+      "nuance": "**Intimate** (verb) is alluding with a motive: the hint is placed so it will be picked up *and* so you can disown it later. It belongs to chairmen and diplomats — genteel and deniable, where *insinuate* would be sly and *hint* merely casual. The adjective sense (private, close) is exam bait."
+    },
+    {
+      "word": "euphemism",
+      "nuance": "A **euphemism** doesn't withhold the reference — it names the thing with a padded word (*let go*, *collateral damage*). It's the one item here that works by *substitution* rather than omission, and calling something a euphemism accuses the speaker of choosing the soft word deliberately."
+    },
+    {
+      "word": "tacit",
+      "nuance": "**Tacit** means nothing was uttered at all and the silence itself counted as the message — so it needs two parties and an understanding between them, and it smells of complicity: tacit approval, a tacit admission."
+    },
+    {
+      "word": "implicit",
+      "nuance": "**Implicit** needs no speaker intent and no audience: the meaning sits inside the content and can be drawn out — the plain antonym of *explicit*. Second sense is the ambush: **implicit trust** is *total, unquestioning* trust, not unspoken trust."
+    }
+  ],
+  "exam_note": "Two traps: *tacit* vs. *implicit* turns on whether a second party had to read the silence; and *implicit faith/trust/obedience* means \"absolute,\" not \"unstated.\""
+}

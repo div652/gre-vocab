@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__changing-without-warning",
-  "title": "Changing without warning",
+  "title": "Whim over reason",
   "seed_words": [
     "capricious",
     "mercurial",
@@ -9,5 +9,29 @@
     "volatile",
     "arbitrary"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe behaviour that answers to impulse rather than to reason, rule, or principle — so you cannot predict it, and you cannot argue with it. The differences are about *whose* whim it is, *what* it costs you, and *how* it lands on the person described. Some are mild social complaints, one is almost a compliment, one is a warning to get clear, and one is a charge levelled at authority. A single sentence context — a lover, a stock, a king, a fine — usually decides which is right.",
+  "words": [
+    {
+      "word": "fickle",
+      "nuance": "The only one about **loyalty and affection** — it tracks who someone likes this week, not how they behave in general. It's the mildest and most social of the group, a grumble about shallowness rather than a warning, and the blame runs toward you: calling a fan, a lover, or an electorate **fickle** announces that you were the one dropped."
+    },
+    {
+      "word": "mercurial",
+      "nuance": "The only member that can flatter. **Mercurial** describes temperament — quick, brilliant, swinging between highs — and the speaker is usually half-admiring, which is why it lands on artists, strikers, and star founders rather than on rules or fines. Use it of a market or a statute and the glamour makes it sound wrong."
+    },
+    {
+      "word": "volatile",
+      "nuance": "The change here **threatens harm**, not just disappointment. It attaches as readily to situations, crowds, markets, and substances as to people, and the implied response is to back away rather than to complain. Keep the literal chemical sense live — evaporating at low temperature — because the GRE will test **volatile** with no human in the sentence at all."
+    },
+    {
+      "word": "capricious",
+      "nuance": "Whim **exercised over other people**. It presumes a power gap: the capricious one is the king, examiner, employer, or fate, and you are the one who must live under the shifts with no way to predict or appeal them. Colder and grander than fickleness, and it strips the charm out of whimsy — same root, opposite feeling."
+    },
+    {
+      "word": "arbitrary",
+      "nuance": "The odd one out: it need not involve **change at all**. A rule applied identically every single time is still **arbitrary** if nobody can name the principle behind it — the defect is missing justification, not instability. At full strength it turns political (*arbitrary arrest*), where the charge is unchecked authority; in maths it goes fully neutral (*an arbitrary integer* = any one you like)."
+    }
+  ],
+  "exam_note": "The trap is filing **arbitrary** under \"random/changeable\" — GRE sentences use it for a fixed rule with no rationale, and reward **mercurial** where the tone is admiring rather than accusing."
 }

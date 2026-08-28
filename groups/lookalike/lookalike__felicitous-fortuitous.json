@@ -8,5 +8,21 @@
     "gratuitous"
   ],
   "similarity": 0.7,
-  "auto": true
+  "auto": true,
+  "core": "Three formal four-syllable adjectives that end in the same *-itous* and all comment on how something came about — but on three different axes: whether it was well-judged, whether anyone planned it, and whether anything justified it. The shape is the trap; the Latin roots are unrelated (*felix* happy, *fors* chance, *gratis* free). One is praise, one is neutral report, one is an accusation.",
+  "exam_note": "Sentence-equivalence traps swap **fortuitous** into a slot that rewards a deliberate good choice (**felicitous**) — and lean on the popular \"luckily accidental\" reading when the GRE is testing plain *unplanned*.",
+  "words": [
+    {
+      "word": "felicitous",
+      "nuance": "The only one that credits someone's judgment — a person chose well and you admire the choice. It attaches to craft: phrasing, metaphors, titles, the timing of a toast. Its secondary \"happy, fortunate\" sense still carries no idea of accident."
+    },
+    {
+      "word": "fortuitous",
+      "nuance": "Reports only that nobody arranged it. Silent on whether the result was good and silent on skill — a fortuitous meeting was chosen by no one, where a felicitous one was arranged with taste. On the exam, read it as *unplanned* and let the sentence supply the luck."
+    },
+    {
+      "word": "gratuitous",
+      "nuance": "The only accusation, and it's aimed at the doer: the excess was unprovoked and faintly enjoyed. Not chance and not aptness but warrant — nothing called for it. Watch the collocations that give it away: gratuitous violence, cruelty, insult, swipe. In legal prose it means merely *free of charge*, no blame attached."
+    }
+  ]
 }

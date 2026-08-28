@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__held-in-check-vs-spilling-over",
+  "title": "Held in check vs. spilling over",
+  "seed_words": [
+    "temper",
+    "curb",
+    "bridle",
+    "forbear",
+    "abstain",
+    "understated",
+    "profuse",
+    "extravagant",
+    "exorbitant",
+    "surfeit",
+    "gratuitous",
+    "lavish"
+  ],
+  "hallucinated": null,
+  "core": "Every word here rates a force against the limit that ought to contain it. One half describes the force being held inside that limit — deliberately, by someone who could have let it run — and the other describes it breaking past. Within each half the words are near-interchangeable at gloss level, which is exactly the problem: they differ not in *how much* restraint or excess, but in *what is being measured* — the mechanism of the holding back, or the dimension along which the thing overshot (volume, price, occasion, justification, the recipient's stomach).",
+  "words": [
+    {
+      "word": "temper",
+      "nuance": "The only restraint word that works by **addition** rather than pressure: **temper** adds a counterweight — mercy into justice, caution into ambition — so the result is balanced, not reduced. Nothing is held down; something else is mixed in."
+    },
+    {
+      "word": "curb",
+      "nuance": "The brake, and the flattest word in the group: **curb** keeps something already in motion running at an acceptable level. Its natural objects are institutional — inflation, spending, emissions — which is why it reads as policy prose where *bridle* reads as character."
+    },
+    {
+      "word": "bridle",
+      "nuance": "**Bridle** steers rather than slows; the force stays at full strength and someone competent has the reins, so it flatters the restrainer's self-command. Uniquely, it defects to the other half of this group: *bridle at* is a body flinching upward in wounded dignity — restraint failing, visibly."
+    },
+    {
+      "word": "forbear",
+      "nuance": "**Forbear** has a second party in it. There is a provocation and a right of reply — you could sue, strike back, correct the record — and the holding back is aimed at *them*, so it carries mercy. That target is what separates it from every other restraint word here."
+    },
+    {
+      "word": "abstain",
+      "nuance": "**Abstain** has no antagonist and no provocation, only a standing policy of self-denial: drink, meat, comment, for a year. Where *forbear* is patient toward someone, **abstain** is principled about something — plus the procedural sense of being counted present and voting neither way."
+    },
+    {
+      "word": "understated",
+      "nuance": "The only word describing a **finished result** rather than an act of holding back. **Understated** credits the maker with enough substance to leave most of it unspoken — which is why it curdles on measurements: an understated casualty figure is not tasteful, it is false."
+    },
+    {
+      "word": "profuse",
+      "nuance": "**Profuse** measures flow, not judgement. It attaches to things that literally stream — sweat, blood, tears — and to speech acts imitating them: profuse thanks, profuse apologies, the kind that pour out and make the room uncomfortable. No verdict on cost or taste, only on volume."
+    },
+    {
+      "word": "extravagant",
+      "nuance": "**Extravagant** measures the thing against its **occasion**, never against a fixed amount — which is why the same gift can be extravagant at an office party and ordinary at a wedding. Half its GRE appearances are claims, praise and theories, not money, and the speaker may be scandalised or quietly impressed."
+    },
+    {
+      "word": "exorbitant",
+      "nuance": "Narrower than *extravagant* and always indignant: **exorbitant** attaches to a figure someone is being asked to pay — rents, fees, salaries, demands. It is the payer's word, never the seller's, and it asserts the number has left the range any fair person would accept."
+    },
+    {
+      "word": "surfeit",
+      "nuance": "**Surfeit** is the only word here measured from **inside the recipient**: the excess is defined by the queasiness it produces, not by the quantity supplied. A surfeit of information is not a large amount, it is more than a mind can keep down — and the noun usually names the aftermath."
+    },
+    {
+      "word": "gratuitous",
+      "nuance": "**Gratuitous** is not about quantity at all — a single insult qualifies. The charge is that nothing warranted it, and that whoever did it enjoyed the doing: violence, cruelty, a swipe thrown in for sport. Keep the dead legal sense (*free of charge*) filed separately."
+    },
+    {
+      "word": "lavish",
+      "nuance": "**Lavish** stays admiring far more often than *extravagant* does, because it rates the sheer volume coming out without ruling on waste. It is also the group's giving word — you **lavish** praise, attention, money *on* someone — so it points outward at a beneficiary."
+    }
+  ],
+  "exam_note": "The trap is never the direction — it is the dimension: a blank meaning \"too much\" is filled by exactly one of these depending on whether the sentence is measuring flow (profuse), occasion (extravagant), price (exorbitant), satiety (surfeit), or justification (gratuitous); on the restraint side, watch temper (adds a counterweight) against curb (applies a brake), and forbear (held back toward a person) against abstain (held back from a substance or act)."
+}

@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__meaning-carried-by-figure",
-  "title": "Meaning carried by figure",
+  "title": "Meaning Carried by Figure: Saying One Thing to Mean Another",
   "seed_words": [
     "figurative",
     "metaphorical",
     "allegorical",
     "euphemism"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe language (or images) whose surface wording is not the intended content — the audience has to translate to get the real referent. What separates them is the machinery of the swap and the motive behind it: how wide the category is, whether the substitution is a single comparison or a whole coded system, and whether the indirection is meant to enrich the picture or to blur it. Three are classifying labels for a mode of expression; one is the name of an act with an agenda.",
+  "exam_note": "The trap is scope and motive: **metaphorical** is one comparison, **allegorical** is a whole keyed system, **figurative** is the umbrella that also flips meaning in an art context — and **euphemism** is the only one where identifying it accuses the speaker.",
+  "words": [
+    {
+      "word": "figurative",
+      "nuance": "The umbrella term, not a technique: it covers metaphor, simile, hyperbole and irony alike, and just files language under \"not to be taken at face value.\" It's also the only one here that turns on its context — in a gallery it means the opposite, depicting recognisable things rather than abstraction."
+    },
+    {
+      "word": "metaphorical",
+      "nuance": "Narrows to a single act of comparison — this image standing in for that thing, no \"like\" attached. It's the word critics reach for defensively, to head off a literal reading, and it almost always appears yoked to *literal* as the explicit hinge."
+    },
+    {
+      "word": "allegorical",
+      "nuance": "Scales up from phrase to whole work, and demands a key: every character and event has an assigned counterpart in the real subject, so the correspondence is systematic rather than local. In criticism it faintly condemns — it says the story is a delivery vehicle, decodable once and then exhausted."
+    },
+    {
+      "word": "euphemism",
+      "nuance": "The only noun, and the only one substituting for tone rather than for a picture: a soft word swapped in for a harsh one, aimed at dulling what the listener imagines. Naming one is a charge against the speaker — either tact or laundering, and the exam expects you to say which."
+    }
+  ]
 }

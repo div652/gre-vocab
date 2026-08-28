@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__break-the-rule-openly",
-  "title": "Break the rule openly",
+  "title": "Breaking rules: the breach, the text, the line, the deed",
   "seed_words": [
     "flout",
     "contravene",
     "transgression",
     "perpetrate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit at the moment a rule is broken, and all four are unfavourable — but they answer different questions. Two are about *how* the breach happens (with contempt on display, or as a bare procedural conflict), one is about *what kind of line* was crossed (moral, not merely administrative), and one is not about a rule at all but about the badness of the deed itself. Register also splits them: three come from statutes, courtrooms and press releases, one from scripture and conscience.",
+  "words": [
+    {
+      "word": "flout",
+      "nuance": "The only one that describes **manner**: the rule is known, the breach is deliberate, and the offender wants an audience. Strip away the visible contempt and you can no longer use it — an accidental or hidden breach is never flouting."
+    },
+    {
+      "word": "contravene",
+      "nuance": "The coolest of the four and the only one indifferent to intent: it merely records that an act conflicts with a written provision, so it works fine for an honest mistake. It wants a document as its object — an article, a clause, a treaty — and its second sense has no wrongdoer at all, since evidence can contravene a hypothesis."
+    },
+    {
+      "word": "transgression",
+      "nuance": "The moral one, and the only noun here — it names the completed act, not the doing of it. It presumes a boundary with real authority behind it (conscience, God, the community), which is why it sounds too heavy for a parking ticket and why shrinking it to a trivial offence reads as a joke."
+    },
+    {
+      "word": "perpetrate",
+      "nuance": "Attaches to the **deed**, not the rule: a hoax, a fraud, an atrocity — things that need no statute to be bad. The disapproval lives in the verb itself, so it cannot take a neutral or good object the way *commit* can in \"commit to a plan.\""
+    }
+  ],
+  "exam_note": "The traps are near-homophones, not meanings: **flout** ≠ *flaunt* (display proudly), **perpetrate** ≠ *perpetuate* (keep going) — and watch the part of speech, since **transgression** is the lone noun in a set of verbs."
 }

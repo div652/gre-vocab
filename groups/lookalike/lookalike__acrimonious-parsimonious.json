@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__acrimonious-parsimonious",
-  "title": "acrimonious / parsimonious / penurious…",
+  "title": "acrimonious / parsimonious / penurious / sanctimonious",
   "seed_words": [
     "acrimonious",
     "parsimonious",
@@ -9,5 +9,25 @@
     "sanctimonious"
   ],
   "similarity": 0.72,
-  "auto": true
+  "auto": true,
+  "words": [
+    {
+      "word": "acrimonious",
+      "nuance": "**Acrimonious** is the odd one out — nothing to do with money or virtue. It describes *bitterness between two sides*, and almost never a person: divorces, splits, negotiations, board disputes. It presumes a prior relationship, so it carries the sting of allies turned enemies. If the sentence has two parties and a breakdown, this is your word."
+    },
+    {
+      "word": "parsimonious",
+      "nuance": "**Parsimonious** is stinginess as *policy* — a deliberate refusal to release resources, and it extends past cash to praise, detail, sympathy. Crucially, it says nothing about whether the person has money; a billionaire can be parsimonious. And it is the only word here that can turn positive: applied to a theory or model, it means economical in assumptions, and it is praise."
+    },
+    {
+      "word": "penurious",
+      "nuance": "**Penurious** is the money word that is *also about poverty*. Its second sense — destitute, dirt-poor — has no counterpart in **parsimonious**, and its stinginess sense implies a meanness that looks like poverty whether or not the poverty is real. Where **parsimonious** describes a choice, **penurious** describes a condition (or a meanness so bleak it resembles one)."
+    },
+    {
+      "word": "sanctimonious",
+      "nuance": "**Sanctimonious** is about morality on display, never money. It attacks the *performance* of virtue, not virtue itself, and it is always an accusation — no one applies it to themselves, and the target usually thinks they're being admirable. It hints at hypocrisy the other three never touch: the lecture and the private sin."
+    }
+  ],
+  "core": "Four long, formal, Latinate adjectives that hiss to the same ending and all sound like character flaws — which is exactly the problem, because only two of them mean anything close to each other. Three describe a defect in a person's dealings (money, money, righteousness); one describes the poisoned air between two parties. The shared register is the trap: each is bookish, disapproving, and the kind of word that appears in an obituary or a court report, so they feel interchangeable in a sentence where only one fits.",
+  "exam_note": "The GRE rarely tests these against their synonyms — it drops one into a blank where another is expected (a *penurious* tip vs. a *parsimonious* theory vs. an *acrimonious* split), so read what the adjective attaches to: a relationship, a wallet, a life, or a sermon."
 }

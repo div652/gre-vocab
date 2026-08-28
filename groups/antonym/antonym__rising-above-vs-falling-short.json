@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__rising-above-vs-falling-short",
+  "title": "Rising above vs. falling short",
+  "seed_words": [
+    "outstrip",
+    "surmount",
+    "transcend",
+    "prevail",
+    "vanquish",
+    "falter",
+    "languish",
+    "regress",
+    "wanting"
+  ],
+  "hallucinated": null,
+  "core": "Every word here plots something against a bar: a rival, an obstacle, a standard, a level you used to hold. Five of them clear it, four sag under it. What separates them is *what* is being cleared or lost — a moving competitor, an inert barrier, the measuring scale itself, a prolonged struggle, an enemy — and, on the failing side, whether the collapse is a mid-stride wobble, a long neglected fade, a slide back down ground already won, or simply a verdict delivered after the weighing.",
+  "words": [
+    {
+      "word": "outstrip",
+      "nuance": "The only one where the loser is also moving — both were running and one drew away. It attaches to rates and quantities (demand, costs, growth), not to obstacles or enemies, and it passes no judgement on either side."
+    },
+    {
+      "word": "surmount",
+      "nuance": "Its object is inert and in the way — a barrier, poverty, prejudice, the odds. Nothing is being beaten or left behind; the difficulty stays exactly where it is and you get above it. Meet it most often as **insurmountable**."
+    },
+    {
+      "word": "transcend",
+      "nuance": "The only word that abandons the yardstick. Outstrip and surmount leave you still on the scale, ranked higher; **transcend** means the category's rules stop applying — and there is no loser at all, just a self, a genre, a limit that no longer holds you."
+    },
+    {
+      "word": "prevail",
+      "nuance": "The only one that requires *duration*: you prevail in a war, a lawsuit, a decade-long argument, never in a sprint. Intransitive — prevail **over** or **against**, never \"prevail someone.\" And it alone spins off a second sense: whatever won out is now the **prevailing** wind, view, wage."
+    },
+    {
+      "word": "vanquish",
+      "nuance": "The only one that needs an adversary and finishes it. Where prevail leaves a beaten opponent still standing, **vanquish** implies no rematch. Literary and trumpet-blown, so applying it to laundry or an inbox is an audible joke."
+    },
+    {
+      "word": "falter",
+      "nuance": "The wobble, not the collapse — brief, involuntary, and strictly mid-motion, so something must already have been underway: a voice, a march, a recovery. The faltering runner may still finish, which none of the other failures here promise."
+    },
+    {
+      "word": "languish",
+      "nuance": "Nothing is moving at all. Where **falter** is a break in momentum, **languish** is years of stalled neglect in a bad place — a drawer, a prison, committee, obscurity — with the blame pointed at whoever should have rescued it and didn't."
+    },
+    {
+      "word": "regress",
+      "nuance": "The only one that travels *backwards*. It presumes ground already gained, so a beginner cannot regress and a recovered patient can — that's the sting. Also lives neutrally in psychology and statistics, where no failure is implied."
+    },
+    {
+      "word": "wanting",
+      "nuance": "The only adjective, and the only verdict rather than a process: nothing happens over time, something is simply weighed and comes up short. \"Found **wanting**\" is the language of the examiner, auditor, or judge — formal, faintly biblical, more damning than *inadequate* because the test was actually administered."
+    }
+  ],
+  "exam_note": "The trap is object-type, not direction: GRE blanks reward knowing you surmount an obstacle, vanquish an enemy, outstrip a rate, and transcend a category — plus the two ambush senses, **prevailing** meaning \"currently dominant\" and **wanting** meaning \"deficient,\" not \"desiring.\""
+}

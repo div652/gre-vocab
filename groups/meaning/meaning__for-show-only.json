@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__for-show-only",
-  "title": "For show only",
+  "title": "For Show Only",
   "seed_words": [
     "nominal",
     "token",
     "perfunctory",
     "superficial"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "Each of these grants that something exists or happened — the title was held, the fee was paid, the inspection occurred, the report was read — and then withholds the substance. They are the vocabulary of form without content, and their bite comes from that concession: nobody is being accused of doing nothing. The differences lie in *which* dimension goes hollow — the label, the amount, the effort, or the depth — and in how much blame the speaker is assigning.",
+  "words": [
+    {
+      "word": "nominal",
+      "nuance": "Attacks the **label**, not the behavior. **Nominal** says the name is accurate and the reality behind it isn't — a nominal chairman really does hold the title, he just doesn't run anything. It assigns no blame at all (the arrangement may be perfectly proper), and it's the only word here with a technical on-spec sense: *nominal thrust*, *nominal wages* mean stated-as-designed, the opposite of hollow."
+    },
+    {
+      "word": "token",
+      "nuance": "Attacks the **quantity** — the amount was calculated to be the smallest thing that still counts. **Token** implies a deliberate actor sizing the gesture to buy credit cheaply: a token raise, a token apology, a token minority hire. It is the most cynical of the four because it imputes strategy, and it's the only one with a warm noun life (a token of gratitude)."
+    },
+    {
+      "word": "perfunctory",
+      "nuance": "Attacks the **manner** of doing. The full procedure may be completed to the letter — **perfunctory** just says it was executed mechanically, by someone who couldn't be made to care. Unlike *token*, the effort isn't sized down to buy credit; unlike *superficial*, the problem isn't that it stopped short but that it was dead the whole way through. It's the formal register's word for going through the motions."
+    },
+    {
+      "word": "superficial",
+      "nuance": "Attacks the **depth**. **Superficial** grants real engagement — a reading, an acquaintance, a survey — and objects that it stopped at the surface when more lay underneath. Genuine interest is compatible with it; a curious but hurried reader is superficial, not perfunctory. Alone in the group it has a fully neutral literal sense where shallowness is good news: a superficial wound, a superficial crack."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves **token/perfunctory** as a false pair — check whether the blank is about how *little* was done (token) or how *listlessly* (perfunctory) — and hides **nominal** and **superficial** behind their innocent senses (on-spec; skin-deep wound)."
 }

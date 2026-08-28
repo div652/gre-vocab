@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__wishing-you-harm",
-  "title": "Wishing you harm",
+  "title": "Ill will: felt, spoken, savoured, spreading",
   "seed_words": [
     "malevolent",
     "malign",
     "sadistic",
     "virulent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four sit on the hostile end of human feeling — someone wants someone else damaged. They split on *where the harm lives*: in a person's settled character, in what comes out of their mouth, in the pleasure they take while it happens, or in the sheer toxic force of the hostility itself. Two describe a nature, one describes an act, one describes an intensity. Getting them right is a matter of asking what the adjective is actually attached to.",
+  "words": [
+    {
+      "word": "malevolent",
+      "nuance": "The purely internal one: **malevolent** requires no words, no victim, no event — only a settled wish that things go badly for you. It's the group's word for a whole character (or a wordless presence, stare, or silence), and it is the only one that can be perfectly still."
+    },
+    {
+      "word": "malign",
+      "nuance": "The only verb, and the only one that is a *speech act* — to **malign** someone is to damage their reputation by steady ill-speaking, usually in their absence and usually undeservedly. Malevolence is what you feel; **maligning** is what you go out and say about a named person. (Its adjective, *a malign influence*, means harmful in effect, no speech involved.)"
+    },
+    {
+      "word": "sadistic",
+      "nuance": "The motive test: the victim's suffering isn't a means to anything, it's the payoff, and someone is savouring it. **Sadistic** needs an actual victim in actual pain plus an audience of one enjoying it — which is why it's the group's courtroom word, and also the only one that survives as a joke (**sadistic** spin instructor)."
+    },
+    {
+      "word": "virulent",
+      "nuance": "Graded by intensity and contagion, not by motive — **virulent** describes the hostility rather than the heart behind it (**virulent** racism, a **virulent** attack), and the poison metaphor stays live: it spreads and infects. It's also the only member with a literal medical sense — a **virulent** strain kills fast and resists treatment."
+    }
+  ],
+  "exam_note": "The GRE splits this group on grammar and target: malign is the odd verb (you malign a *person's reputation*), and virulent is the only one that can attach to a pathogen — a sentence about a fast-killing strain wants virulent, never malevolent."
 }

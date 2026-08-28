@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__secrecy-that-implies-guilt",
+  "title": "Secrecy that implies guilt",
+  "seed_words": [
+    "furtive",
+    "surreptitious",
+    "clandestine",
+    "ulterior",
+    "insidious"
+  ],
+  "hallucinated": null,
+  "core": "All five describe something kept out of sight where the concealment is itself the accusation — the thing is hidden because daylight would end it. What separates them is *what* is hidden: a person's manner, a single act, a standing operation, a reason, or the damage being done. Two of them don't require a sneaking person at all.",
+  "words": [
+    {
+      "word": "furtive",
+      "nuance": "The only one about **body language** — it describes how someone looks while hiding, not what they hid. **Furtive** is self-defeating by definition: you can only call a glance furtive because you caught it."
+    },
+    {
+      "word": "surreptitious",
+      "nuance": "The deed, not the demeanour — a single small act slipped under cover of an ordinary situation. A **surreptitious** person may look perfectly relaxed; furtive is failing to hide, surreptitious is succeeding at it."
+    },
+    {
+      "word": "clandestine",
+      "nuance": "Requires scale and duration — people, structure, a standing arrangement. Nothing momentary is **clandestine**: you can take a surreptitious photo, but you run a clandestine network."
+    },
+    {
+      "word": "ulterior",
+      "nuance": "Nothing about the *act* is hidden — the behaviour is open and often unremarkable; only the reason behind it is held back. **Ulterior** is the mildest charge here, a raised eyebrow rather than an accusation, and it lives almost entirely in the phrase *ulterior motive*."
+    },
+    {
+      "word": "insidious",
+      "nuance": "The hiddenness belongs to the **harm**, not to anyone's intent — a disease or a compounding debt can be **insidious** with no one concealing anything. It also adds time: the concealment lasts until the damage is already done."
+    }
+  ],
+  "exam_note": "The trap is reading all five as \"sneaky\"; check what the sentence puts under cover — a face (furtive), an act (surreptitious), an organisation (clandestine), a reason (ulterior), or the damage (insidious) — and note that the last two need no sneaking agent at all."
+}

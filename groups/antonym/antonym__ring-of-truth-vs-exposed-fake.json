@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__ring-of-truth-vs-exposed-fake",
+  "title": "Ring of Truth vs. Exposed Fake",
+  "seed_words": [
+    "credible",
+    "veracity",
+    "verisimilitude",
+    "plausible",
+    "bogus",
+    "counterfeit",
+    "sham",
+    "phony",
+    "spurious",
+    "feign"
+  ],
+  "hallucinated": null,
+  "core": "Every word here sits on the gap between seeming true and being true. One end names the appearance of truth — how convincing something looks before anyone checks — and the other names the verdict delivered after someone checked and found nothing behind it. The confusion is that the first group sounds like an endorsement but never asserts truth, while the second sounds like neutral description but is always a judgement. The distinction to hold: does the word rate the surface, or pronounce on what's underneath?",
+  "words": [
+    {
+      "word": "credible",
+      "nuance": "The only word here where the speaker actually leans toward belief — the surface has been weighed and provisionally accepted. It also uniquely rates people and efforts as serious contenders (*a credible candidate*), which none of its neighbours can do."
+    },
+    {
+      "word": "veracity",
+      "nuance": "The only noun in the group that names the real thing rather than its appearance — and it typically arrives as a question, not an answer (*disputed the veracity*). It covers both the claim's accuracy and the claimant's reliability at once."
+    },
+    {
+      "word": "verisimilitude",
+      "nuance": "The one word that praises the appearance of truth in something everyone knows is invented — a set, a performance, a novel. It attaches to things *made*, and it's a compliment to craft, never a comment on fact."
+    },
+    {
+      "word": "plausible",
+      "nuance": "Deliberately uncommitted: it reports only that the story survives first hearing, and the speaker withholds their own belief. In a skeptic's mouth it flips outright — *a plausible enough excuse* means disbelief."
+    },
+    {
+      "word": "bogus",
+      "nuance": "Aimed at checkable assertions — credentials, invoices, statistics — that collapse on inspection, and said out loud with an eye-roll rather than written in a report. It's the only one that also degrades into plain \"unfair, rubbish.\""
+    },
+    {
+      "word": "counterfeit",
+      "nuance": "Demands two things the others don't: a genuine original and the intent to pass the copy off as it. Cold and legal, it fastens on things whose entire value is authenticity — currency, passports, medicines."
+    },
+    {
+      "word": "sham",
+      "nuance": "Attacks a *procedure or institution*, not an object: the trial, the election, the marriage that performs every correct motion and means nothing. The form is intact; the substance is missing."
+    },
+    {
+      "word": "phony",
+      "nuance": "Targets people and manner — a smile, an accent, a friend — and broadcasts that the speaker feels personally taken in. It's the sneer, where *counterfeit* is the seizure notice."
+    },
+    {
+      "word": "spurious",
+      "nuance": "Refuses the claim standing rather than proving it false, and — alone in this group — requires no deceiver: data throws up spurious correlations with nobody lying. The register of judges, editors and scientists."
+    },
+    {
+      "word": "feign",
+      "nuance": "The verb of performing an *inner state* — surprise, ignorance, illness, sleep — outward. The deceit is social rather than criminal, and it implies a composed, well-managed face."
+    }
+  ],
+  "exam_note": "The trap is reading *plausible*, *credible*, and *verisimilitude* as claims of truth — every one of them is compatible with the thing being false, and sentence-equivalence items exploit exactly that gap; also keep *veracity* (truthfulness) clear of *voracity* (greed)."
+}

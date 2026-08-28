@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__left-over-from-before",
-  "title": "Left over from before",
+  "title": "Left Over From Before",
   "seed_words": [
     "vestigial",
     "residual",
     "extant"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three describe something that is still here after most of the whole has gone — a survivor of some process of loss, decay, removal, or extinction. Each looks backwards and quietly implies an absent majority. They split on what they claim about the survivor: whether it still works, how much of it there is, and whether the rest was destroyed or merely used up.",
+  "exam_note": "The test swaps in **vestigial** where the sentence only claims survival, not uselessness — check whether the sentence actually says the thing stopped doing its job before you accept it.",
+  "words": [
+    {
+      "word": "vestigial",
+      "nuance": "The only one that asserts **uselessness** — it is a verdict on function, not on quantity. A vestigial thing is still fully present and can even be conspicuous (a whole tailbone, a veto still written into the charter); what it has lost is its job. Say **vestigial** and you have diagnosed something as an evolutionary hangover."
+    },
+    {
+      "word": "residual",
+      "nuance": "The only one that is a **measured quantity** — what a process left behind after consuming the bulk, and the one word here that can be a noun and take a number. It says nothing about being broken: **residual** heat still burns you, **residual** resentment still poisons dinner. Its home is engineering, medicine, accounting, statistics."
+    },
+    {
+      "word": "extant",
+      "nuance": "Claims **existence only** — not lost, not destroyed, not extinct — and is silent on both function and amount. Its implied opposite is *extinct* or *lost*, never *used up*, so the rest of the set was wiped out rather than consumed. It attaches to whole intact survivors that scholars count: manuscripts, species, colonies, the three surviving letters."
+    }
+  ]
 }

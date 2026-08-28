@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__do-what-the-rule-says",
-  "title": "Do what the rule says",
+  "title": "Do What the Rule Says",
   "seed_words": [
     "comply",
     "adhere",
     "abide",
     "heed"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe bending your behavior to something outside you — a regulation, an order, a promise, a warning — rather than doing as you please. What separates them is the object each one takes, where the pressure comes from, and whether it's a single act or a standing condition. One answers to institutional power, one is a sustained voluntary attachment, one is acceptance of a ruling you agreed to be bound by, and one starts with actually listening.",
+  "words": [
+    {
+      "word": "comply",
+      "nuance": "The institutional word: something with **power over you** issued the demand, and refusal has a penalty attached — you **comply** with a subpoena, an audit, an evacuation order. It's a discrete act at a specific moment and says nothing about your attitude; the noun *compliance* can even suggest hollow box-ticking."
+    },
+    {
+      "word": "adhere",
+      "nuance": "A **continuous attachment over time** to a standard you took on yourself — a protocol, a treaty, a training regimen — so it's measured in months, not at a moment. Nobody is punished for non-adherence the way they are for non-compliance; they've simply drifted. Hence **adherent**: a follower of a doctrine, not a subject of one."
+    },
+    {
+      "word": "abide",
+      "nuance": "In this sense it needs the preposition — **abide by** — and its object is typically a *ruling, verdict, or promise* you accepted in advance: the referee's call, the outcome of the vote, the terms of the settlement. It implies prior consent to be bound, which is why it's the courtroom's word. Its other senses (*can't abide*, *a faith that abides*) have nothing to do with rules."
+    },
+    {
+      "word": "heed",
+      "nuance": "The only one whose object is a **warning, advice, or call** rather than a rule — and the only one that begins with attention. You can comply without listening; you cannot **heed** without registering the thing first. It lives in the failure form: *failed to heed the warning* already tells you disaster followed."
+    }
+  ],
+  "exam_note": "Fill-ins hinge on the object: a court order takes *comply*, a verdict takes *abide by*, a diet or protocol takes *adhere to*, a storm warning takes *heed* — and *abide*'s \"tolerate\" and \"endure\" senses are the standard trap when the sentence has no rule in it at all."
 }

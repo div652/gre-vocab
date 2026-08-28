@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__cannot-be-done-without",
-  "title": "Cannot be done without",
+  "title": "Necessary: the thing, the act, the pressure",
   "seed_words": [
     "indispensable",
     "imperative",
     "exigent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three say *this cannot be skipped*, but they hang that necessity on different objects. One rates a component or a person by what happens if you remove it; one rates an action by whether you are permitted to decline it; one rates a situation by how hard it is pressing on you right now. Swap them and you get sentences that are grammatical but off-key — a crisis is not \"indispensable,\" a spare part is not \"exigent.\"",
+  "words": [
+    {
+      "word": "indispensable",
+      "nuance": "**Indispensable** grades a *thing or person* by the subtraction test — pull it out and the machine stops. It carries no urgency and issues no order: an indispensable colleague creates no deadline, and the word is a compliment, which is why it curdles into sarcasm when someone applies it to themselves."
+    },
+    {
+      "word": "imperative",
+      "nuance": "**Imperative** grades an *action*, and it speaks in the voice of command — something is requiring this of you and declining carries consequences. It's the only one that fits the policy-prose frame *it is imperative that we...*, and the only one with moral or institutional authority standing behind it."
+    },
+    {
+      "word": "exigent",
+      "nuance": "**Exigent** grades a *situation or person* by the pressure it exerts — it presses, exacts, leaves no slack. Alone in this group it can describe a hard-to-satisfy human (an exigent client), alone it is unwelcome rather than flattering or authoritative, and alone it insists on *now*."
+    }
+  ],
+  "exam_note": "The trap is the object, not the strength: check whether the blank modifies a component (indispensable), a course of action (imperative), or circumstances bearing down on you (exigent)."
 }

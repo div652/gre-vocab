@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__narrow-horizons",
+  "title": "Narrow horizons",
+  "seed_words": [
+    "parochial",
+    "provincial",
+    "insular",
+    "myopic",
+    "chauvinistic",
+    "xenophobic"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these is a charge someone levels at a person, institution, or country for operating inside a frame that is too small — and for not noticing. They split along two axes. The first is **what the boundary is drawn around**: a parish, a province, an island, a fiscal quarter, a tribe. The second is **whether anything hostile lives past the boundary**: some of these words say only that the outside world was never in view; others say the outside world is in view and is despised. Confusing the two halves is the whole trap.",
+  "words": [
+    {
+      "word": "parochial",
+      "nuance": "**Parochial** shrinks the patch to its smallest: the parish, the department, the committee. It's the word for *stakes* — a parochial dispute is one that consumes its participants and is invisible from a block away. Coldest and most institutional of the set, and it implies no malice toward outsiders, only that they were never considered."
+    },
+    {
+      "word": "provincial",
+      "nuance": "**Provincial** is the only one that indicts *taste* — the charge isn't just a small frame but an unsophisticated one, local custom mistaken for universal standard. It's also the only one with a fixed direction of fire: the capital says it about the country, and the sneer is audible enough that the speaker comes off snobbish while the target comes off small."
+    },
+    {
+      "word": "insular",
+      "nuance": "**Insular** locates the fault in a sealed border rather than a small one — no traffic comes in, and none is wanted. It adds **complacency**: the insular don't feel deprived, they feel complete. Clinical rather than cutting, which is why serious writing uses it about academic fields, professions, and nations without sounding like an insult."
+    },
+    {
+      "word": "myopic",
+      "nuance": "**Myopic** is the odd one out: its narrowness runs along **time**, not geography or group. The myopic see their surroundings perfectly and the next decade not at all — a myopic policy is typically a smart fix for this quarter that detonates later. It attaches to strategies, budgets, and governments, almost never to a person's character."
+    },
+    {
+      "word": "chauvinistic",
+      "nuance": "**Chauvinistic** crosses from limited view into asserted **superiority** — and it's boastful about it, which none of the others are. A chauvinist doesn't merely prefer his own side; he requires yours to be inferior. The word makes the target look smug and faintly ridiculous rather than menacing, and it's the one that takes a modifier: *male*, *national*."
+    },
+    {
+      "word": "xenophobic",
+      "nuance": "**Xenophobic** is the only one whose object is a **person from outside** and whose content is hostility. Where the others describe a horizon, this describes an animus — aimed at foreignness itself (accent, origin, customs), which is why it can operate within a single race. Despite *-phobic*, it's an accusation, not a diagnosis; nobody claims it."
+    }
+  ],
+  "exam_note": "The GRE offers a hostility word (chauvinistic, xenophobic) where the sentence only supports a limited horizon, and slips in myopic when the missing dimension is time rather than place — check what the blank is narrow *about* before you pick."
+}

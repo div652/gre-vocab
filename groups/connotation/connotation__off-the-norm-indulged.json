@@ -1,0 +1,32 @@
+{
+  "kind": "connotation",
+  "id": "connotation__off-the-norm-indulged",
+  "title": "Off the Norm, Indulged",
+  "seed_words": [
+    "quirky",
+    "eccentric",
+    "idiosyncratic",
+    "whimsical"
+  ],
+  "hallucinated": null,
+  "core": "All four describe departure from the conventional that the speaker declines to condemn. The oddity is registered, then tolerated, enjoyed, or admired — nobody is being warned away. What separates them is *what* is odd (a trait, a whole life, a method, a motive), how big it is, how formal the speaker is being, and how much affection is riding along. Their harsher cousins — *bizarre*, *aberrant*, *capricious*, *erratic* — cover the same deviation with the goodwill removed.",
+  "words": [
+    {
+      "word": "quirky",
+      "nuance": "The smallest unit and the most casual: **quirky** is *plural little oddities*, not one governing strangeness — a weird laugh, a shop that only sells left-handed things. It's the only one here you'd use to recommend something (a film, a café), and the only one whose warmth is doing more work than its precision."
+    },
+    {
+      "word": "eccentric",
+      "nuance": "**Eccentric** scales up to the whole person and stays there: sustained, publicly visible, unmistakably a way of living rather than a set of habits. It's the only one of the four that's also a noun — you can *be* an eccentric — and the only one with a social gate on it: wealth, age, or tenure buys you the word, and everyone else gets *strange*."
+    },
+    {
+      "word": "idiosyncratic",
+      "nuance": "Formal and cool where the others are affectionate. **Idiosyncratic** attaches to a *method or pattern* — punctuation, a knife grip, a drug reaction — and claims ownership rather than oddity: this belongs to one case and generalizes to nothing. It's the only one here with a straight technical use (idiosyncratic risk, idiosyncratic response) and the only one that implies no audience is watching."
+    },
+    {
+      "word": "whimsical",
+      "nuance": "Alone in the group, **whimsical** is about *motive*, not trait: the impulse of the moment, with no reason underneath. That makes it the only one that flips — charming on illustrations and hats, damning on rulings, policies, and anyone with authority over you, because there the absence of reason is the complaint."
+    }
+  ],
+  "exam_note": "The trap is assuming all four are safely positive: GRE contexts about power, rules, or decisions want **whimsical** as a criticism, and sentences about a *method* want the neutral **idiosyncratic**, not the affectionate **quirky**."
+}

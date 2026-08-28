@@ -8,5 +8,25 @@
     "profuse",
     "prodigious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say *there is a lot of it* — enough that the quantity itself becomes the point worth remarking on. They split on three axes: what the quantity attaches to (a place teeming, a supply produced, a stream pouring, a magnitude observed), whether the amount is merely ample or has tipped past what's wanted, and whether the speaker is reporting or reacting. One is a verb and cannot be swapped in as a modifier at all.",
+  "words": [
+    {
+      "word": "abound",
+      "nuance": "The only verb here, and never an adjective — you cannot have *abound resources*, you have *resources abound* or *a region abounding in copper*. It describes saturation of a **scene or setting**: the plentiful things are the subject, and the effect is \"everywhere you look,\" not \"a large amount was produced.\" Its tone is borrowed entirely from what abounds — wildflowers, or errors."
+    },
+    {
+      "word": "copious",
+      "nuance": "The mildest of the three adjectives and the only one with no edge of too-much: it measures **output and supply** — notes taken, tears shed, rain fallen, coffee drunk. It answers \"how much was generated or consumed,\" so it fits poorly on static bulk (a copious mountain is wrong) and never implies the speaker is startled or uncomfortable. The well kept giving; nobody flinched."
+    },
+    {
+      "word": "profuse",
+      "nuance": "Adds **flow past the point of control** — the quantity is pouring, not merely present. It attaches to things that stream (bleeding, sweating, apologies, thanks) and, applied to a person's manner, carries the speaker's judgement that it was overdone: *profuse gratitude* is embarrassing in a way *copious* never is. Excess is in the word, not in the context."
+    },
+    {
+      "word": "prodigious",
+      "nuance": "Shifts from supply to **sheer magnitude, plus the onlooker's astonishment** — it is a reaction as much as a measurement. A prodigious appetite is one people remark on; a prodigious output seems barely human. It leans admiring and sits high in register, and it can modify size or degree, where the others need an amount: prodigious strength, yes; copious or profuse strength, no."
+    }
+  ],
+  "exam_note": "Sentence equivalence loves pairing **copious** with **profuse** as if interchangeable — check whether the sentence signals excess or discomfort (profuse) or just generous supply (copious); and **prodigious** is a trap for \\\"amazingly large,\\\" not \\\"plentiful,\\\" so it fails wherever a countable supply is meant."
 }

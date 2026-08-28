@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__on-guard-vs-asleep-at-the-wheel",
+  "title": "On guard vs. asleep at the wheel",
+  "seed_words": [
+    "vigilant",
+    "wary",
+    "circumspect",
+    "heed",
+    "chary",
+    "oblivious",
+    "blithe",
+    "cavalier",
+    "complacent",
+    "lax"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers one question: is the danger being watched, or is it being missed? One half describes attention paid to risk — held over time, aimed at a suspect, weighed before acting, or acted on when warned. The other half describes attention withheld — never registered, waved off, smiled past, or allowed to go slack. The confusion isn't within a half so much as across it: the exam pairs them as opposites, so you need to know *which kind* of watching and *which kind* of failing each one names.",
+  "words": [
+    {
+      "word": "vigilant",
+      "nuance": "The only one that describes a **post you hold**: watchfulness sustained indefinitely, aimed at threat, and read as duty performed. It has no specific object of suspicion — the sentry watches the horizon, not one man on it."
+    },
+    {
+      "word": "wary",
+      "nuance": "Watchfulness with a **named target**: this offer, this person, this promise. It's distrust in the moment rather than a standing duty, and it doesn't stop you engaging — you shake the hand while keeping your eyes on it."
+    },
+    {
+      "word": "circumspect",
+      "nuance": "The caution points at **your own next move**, not at an external danger. You're weighing consequences before speaking or committing, and the restraint reads as judgement rather than fear — a compliment in formal, professional prose."
+    },
+    {
+      "word": "heed",
+      "nuance": "The only verb, and the only word about **response rather than perception**: the warning has already been delivered and you comply with it. It lives in the failure form — *failed to heed* is how a report says the disaster was foretold."
+    },
+    {
+      "word": "chary",
+      "nuance": "Caution measured in **what you hand over** — praise, money, information, trust. Nearly always takes *of* or *about*, and carries a whiff of stinginess the other cautious words don't; it's about supply, not vigilance."
+    },
+    {
+      "word": "oblivious",
+      "nuance": "The pure **blank**: nothing registered, so there is no attitude to judge. Unlike the other negatives here, it accuses you of absence rather than of a stance toward the risk."
+    },
+    {
+      "word": "blithe",
+      "nuance": "Unconcern that is **cheerful**, and damning for exactly that reason — the good mood is what not-looking bought you. Literary, and it lives in fixed pairings: *blithe disregard*, *blithely ignored*."
+    },
+    {
+      "word": "cavalier",
+      "nuance": "The risk **was** noticed and was waved away as beneath discussion. The fault is airy superiority, so it attaches to people with enough standing to be casual — the surgeon, the executive, not the intern."
+    },
+    {
+      "word": "complacent",
+      "nuance": "The failure is **satisfaction**: things went well, so you stopped checking. It's the precise antonym of *vigilant* — watch that lapsed because of success, whether complacent *about* a threat or *in* a win."
+    },
+    {
+      "word": "lax",
+      "nuance": "Not a mental state at all but a **standard let go slack** — security, enforcement, oversight, discipline. It attaches to systems and to whoever was responsible for them, and it implies a duty existed to be loosened."
+    }
+  ],
+  "exam_note": "The trap is treating the four negatives as one blur called \"careless\" — the exam distinguishes them by *why* the danger was missed (never registered = oblivious, dismissed from above = cavalier, success bred it = complacent, a duty went slack = lax), and it loves \"failed to heed\" as the setup that signals the answer must be a not-watching word."
+}

@@ -8,5 +8,25 @@
     "paradigmatic",
     "benchmark"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four name the thing other things get referred back to — the case that sets the terms of comparison. They split on *what kind* of standard is meant: a moral summit worth admiring, a first template that later versions repeat, the defining specimen of a category, or a bare measuring line. Two of them praise, two of them merely classify, and the ones that classify work perfectly well on failures, frauds, and disasters.",
+  "words": [
+    {
+      "word": "paragon",
+      "nuance": "The only one that is pure praise, and it attaches to a **virtue**, not a category — *a paragon of patience/integrity/restraint*. Because the compliment is absolute, it is the only member of the group that can be turned into a weapon by sarcasm."
+    },
+    {
+      "word": "archetype",
+      "nuance": "Claims **priority and depth**: the original template that later versions keep re-enacting (the Hero, the Trickster). Says the thing reached the bottom of the pattern rather than merely scoring high on it — which is why it dignifies without praising a specific quality."
+    },
+    {
+      "word": "paradigmatic",
+      "nuance": "The **classifier's** word, and an adjective, not a noun — it says *this is the standard instance of the type* and stops there. Where **archetype** implies the type came from this case, **paradigmatic** only says this case displays it most cleanly; a paradigmatic bureaucratic failure is still a failure."
+    },
+    {
+      "word": "benchmark",
+      "nuance": "Cold, quantitative, and possibly **mediocre** — it's a line you measure against, not an ideal you look up to, and things routinely beat it. Alone in the group it demands **comparability** (same test, same way, on everything) and alone it works as a verb: *benchmark it against last year's*."
+    }
+  ],
+  "exam_note": "The trap is assuming all four commend: **paradigmatic** and **benchmark** sit comfortably in sentences about failures, scandals, and low bars, while **paragon** cannot — check whether the blank praises or merely categorizes."
 }

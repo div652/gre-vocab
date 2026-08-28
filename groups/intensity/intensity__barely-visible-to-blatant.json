@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__barely-visible-to-blatant",
+  "title": "Barely detectable to brazen",
+  "seed_words": [
+    "discernible",
+    "conspicuous",
+    "manifest",
+    "patent",
+    "flagrant"
+  ],
+  "hallucinated": null,
+  "core": "All five rate how strongly something registers on an observer — from the faint trace you have to hunt for, up to the offence nobody could pretend not to see. The scale is not just about brightness, though: as it climbs, the words stop describing the thing and start judging it. At the low end the burden sits on the perceiver's attention; at the high end it sits on the offender's shamelessness.",
+  "words": [
+    {
+      "word": "discernible",
+      "nuance": "The only word here that requires effort from the observer — it marks the threshold of perception, not the loud end of it. It also does its real work negated: **no discernible** difference is a claim about the rigour of the looking, not just the absence of the thing."
+    },
+    {
+      "word": "conspicuous",
+      "nuance": "About contrast with surroundings — the thing sticks out of its background, so it attaches to people, clothes, spending, a building, in a way the others don't. It's the eye's word, and it carries social awkwardness: to be **conspicuous** is to be clocked, which is why the thing that isn't there can be conspicuous by its absence."
+    },
+    {
+      "word": "manifest",
+      "nuance": "Formal and institutional: the fact displays itself so openly that inference is unnecessary — a judge's or doctor's word for *manifest error*, *manifest injustice*. Uniquely, it also runs as a verb, tracking something hidden (a disease, a talent) coming out into view."
+    },
+    {
+      "word": "patent",
+      "nuance": "Obvious plus exasperation. Almost never said of a neutral or pleasant fact — it collocates with *lie*, *nonsense*, *absurdity*, *patently unfair* — and the annoyance is aimed at anyone still arguing. Where **manifest** is grave, **patent** is withering."
+    },
+    {
+      "word": "flagrant",
+      "nuance": "The obviousness has become moral: the offender didn't even bother to hide. It attaches to a fixed set of wrongs — *violation, breach, abuse, disregard, misconduct* — and unlike everything above it, saying it is an act of condemnation, not description."
+    }
+  ],
+  "exam_note": "The exam separates these by collocation, not by brightness — the right answer is the one that fits the noun (a *flagrant* violation, a *patent* lie, a *conspicuous* absence), and \"no discernible\" is the giveaway for a sentence about careful measurement finding nothing."
+}

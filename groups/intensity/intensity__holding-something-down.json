@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__holding-something-down",
+  "title": "Holding something down: curb → check → curtail → suppress → quash",
+  "seed_words": [
+    "curb",
+    "check",
+    "curtail",
+    "suppress",
+    "quash"
+  ],
+  "hallucinated": null,
+  "core": "All five verbs describe applying force to something that has its own momentum — a movement, an emotion, a budget, a revolt — and reducing what it does. They differ along one axis above all: how much of the thing survives the act. At the low end the thing keeps running, just inside limits; at the high end it is finished off in a single authoritative stroke. A second axis runs alongside: who is doing the holding, and whether the pressure has to stay applied to keep working.",
+  "words": [
+    {
+      "word": "curb",
+      "nuance": "**Curb** is a hand on the reins: the thing keeps moving at a rate you find acceptable, and you expect to keep holding. It's the policy-prose verb for quantities and appetites — inflation, spending, emissions, one's temper — and it's the one on this list you most readily apply to yourself."
+    },
+    {
+      "word": "check",
+      "nuance": "**Check** is a counterweight, not a hand on the dial: it opposes and arrests *forward progress* rather than trimming a quantity. Hence its home in structural language — *a check on executive power*, *the advance was checked at the river* — where the restraint is a standing institutional opposition, not a policy target."
+    },
+    {
+      "word": "curtail",
+      "nuance": "**Curtail** cuts *extent* — length, scope, duration — so the thing survives in a shortened form: the season runs three months instead of six. Unlike curb and check, it's a discrete act with a before and after, imposed from outside and resented by whoever loses the missing part."
+    },
+    {
+      "word": "suppress",
+      "nuance": "**Suppress** is downward force held in place, and the thing pushes back: lift the hand and the revolt, the laugh, the memory returns. It uniquely takes *information* as an object — a suppressed report implies the suppressor has something to hide, an imputation none of the others carry."
+    },
+    {
+      "word": "quash",
+      "nuance": "**Quash** is one decisive stroke from an authority, and afterwards there is nothing left to hold down — a rumour that resurfaces was never quashed. It alone has a technical legal sense: a court quashes a subpoena, an indictment, a conviction, voiding it as though it never stood."
+    }
+  ],
+  "exam_note": "The trap is completeness: sentence-equivalence stems that say the thing continued in reduced form reward curb/check/curtail and punish quash, while stems with \"in a single stroke,\" \"once and for all,\" or a court as subject rule out suppress."
+}

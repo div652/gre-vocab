@@ -8,5 +8,21 @@
     "stolid"
   ],
   "similarity": 0.73,
-  "auto": true
+  "auto": true,
+  "words": [
+    {
+      "word": "staid",
+      "nuance": "The odd one out: **staid** has nothing to do with enduring pain or hiding feeling — it's about taste and habit. It describes a settled, unadventurous respectability: grey suits, early bedtimes, no surprises. It's also the only one of the three that fits an institution — a **staid** old bank, a **staid** country club — where the dullness is policy, not temperament."
+    },
+    {
+      "word": "stoic",
+      "nuance": "The only one that requires suffering to be happening and feeling to be present. **Stoic** is a verdict on behavior under pressure: it minds, and it doesn't say so. That's why it's the only compliment here — it credits self-command, and it needs hardship in the sentence to make sense (**stoic** about the diagnosis, not **stoic** about lunch)."
+    },
+    {
+      "word": "stolid",
+      "nuance": "**Stolid** makes the opposite claim to *stoic*: not \"holding it in\" but \"nothing in there to hold.\" It's a dig at slow blood and low wattage, and it attaches to the surface — a **stolid** face, a **stolid** stare, a **stolid** crowd — rather than to a life's whole style the way *staid* does."
+    }
+  ],
+  "core": "All three describe a person who registers nothing on the surface — sober, unexcitable, giving you a flat calm instead of a reaction. They split on what the calm is made of and whether it earns respect: dull conventionality, disciplined endurance, or an empty interior. Two are quiet insults; one is quiet praise. The near-identical spellings make them the classic GRE swap.",
+  "exam_note": "The exam banks on *stoic* vs *stolid* — same look, opposite verdicts (feeling mastered vs. no feeling at all) — and slips in *staid* where the sentence is about dull respectability, not composure under duress."
 }

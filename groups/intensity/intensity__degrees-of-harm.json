@@ -1,0 +1,37 @@
+{
+  "kind": "intensity",
+  "id": "intensity__degrees-of-harm",
+  "title": "Degrees of harm: from working against you to poisoning you",
+  "seed_words": [
+    "adverse",
+    "detrimental",
+    "deleterious",
+    "pernicious",
+    "noxious"
+  ],
+  "hallucinated": null,
+  "core": "All five say something is working out badly for you, and all five sit in formal registers — reports, journals, judgments — so on the page they blur together. But they differ along two axes the GRE loves. First, *how* the harm arrives: mere opposition, a measured decline, a slow secret rot, or outright poison. Second, *who's talking*: a neutral clinician recording an effect, or an alarmed moralist warning you about a corruption.",
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"harmful\": **adverse** need not damage anything, **pernicious** carries moral alarm the clinical words refuse, and **noxious** demands an actual poison — so the right answer is fixed by the sentence's register and by what the adjective attaches to (a ruling, a statistic, a doctrine, a gas).",
+  "words": [
+    {
+      "word": "adverse",
+      "nuance": "The only one that doesn't require damage — it requires **opposition**. An adverse ruling, an adverse wind, an adverse market: something is pushed against a specific interest, and it may cost you nothing physical. Where the others describe what harm *does*, **adverse** describes which *direction* a force points."
+    },
+    {
+      "word": "detrimental",
+      "nuance": "Harm as a **line item in a report** — the auditor's, the HR file's, the lawyer's. It needs a target (\"detrimental *to* morale / to your case / to property values\") and the thing damaged is typically an interest, standing or outcome rather than a body. Of the group it is the most bureaucratic and the least vivid: no poison, no creep, just a documented net loss."
+    },
+    {
+      "word": "deleterious",
+      "nuance": "**Detrimental's** counterpart in the lab: same detachment, but the damage is **biological and cumulative** — cells, sleep, an ecosystem, a cohort of children over a decade. Your case can be detrimentally affected; only living systems suffer deleterious effects. The speaker is a scientist reporting an outcome, with zero moral heat."
+    },
+    {
+      "word": "pernicious",
+      "nuance": "The only one that adds **concealment plus condemnation**. The harm hides — a doctrine, a habit, a myth, an influence working on you while you're not looking — and the speaker is not recording it neutrally but sounding an alarm. Swap it into a clinical sentence and you smuggle in a judgment the auditor never made."
+    },
+    {
+      "word": "noxious",
+      "nuance": "Harm sitting **inside the substance itself**: fumes, gas, chemicals, weeds — things that injure lungs and tissue on contact, not over a decade. It's the only member that is literally about **poison**, and when applied to an ideology the metaphor is still toxicological, a contaminant seeping into people. (Distinct from *obnoxious*, which only offends.)"
+    }
+  ]
+}

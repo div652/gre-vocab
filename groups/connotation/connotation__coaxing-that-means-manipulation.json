@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__coaxing-that-means-manipulation",
+  "title": "Coaxing That Shades Into Manipulation",
+  "seed_words": [
+    "cajole",
+    "wheedle",
+    "inveigle",
+    "beguile",
+    "dupe",
+    "ploy"
+  ],
+  "hallucinated": null,
+  "core": "All of these get a person to do, give, or believe something without force and without honest argument — the lever is charm, flattery, or a hidden angle. The target consents; that's the whole point. What separates them is *how much deception is in the mix*, *who the word blames* (the operator or the victim), and *how much dignity the operator has while doing it*. Two are near-innocent, two are frankly sly, one names the fool, and one names the trick itself.",
+  "words": [
+    {
+      "word": "cajole",
+      "nuance": "The only one with no deception at all: the goal is stated openly, and just the *pressure* is sugared. The target usually knows exactly what's being done and can still find it endearing — hence it's the one word here a parent can do to a child without indictment."
+    },
+    {
+      "word": "wheedle",
+      "nuance": "The low-status version — flattery from someone with no leverage, pleading rather than smooth, and slightly undignified for the person doing it. Also the only one aimed at *extracting an object*: you wheedle a fiver **out of** someone, not just wheedle them into agreeing."
+    },
+    {
+      "word": "inveigle",
+      "nuance": "Formal register, and the only coaxing verb that lets outright trickery ride along with the charm. The operator is polished and in control — an inveigler works a mark, never begs one — and can inveigle his **way into** a room, which no other word here does."
+    },
+    {
+      "word": "beguile",
+      "nuance": "Literary, and unique in making the target's *pleasure* the mechanism: you enjoy it while it's disarming you. It's also the only one that can be entirely innocent — a beguiling landscape, an afternoon beguiled with cards — so a negative reading has to be earned by context."
+    },
+    {
+      "word": "dupe",
+      "nuance": "Skips technique entirely and lands on the result, with the blame pointed at the victim's credulity rather than the trickster's skill. No flattery, no charm, no persistence required — and it alone gives you a noun for the fool."
+    },
+    {
+      "word": "ploy",
+      "nuance": "Not an act of persuasion but a name for the *device* — and a small, cheap one, a single move rather than a campaign. It's the word used by someone who has already seen through the thing, so calling it a ploy is itself the dismissal."
+    }
+  ],
+  "exam_note": "The GRE splits this group on register and blame — cajole/wheedle/dupe are neutral-register, inveigle formal, beguile literary — and tests the prepositions: wheedle something *out of*, inveigle someone *into* or one's way *into*."
+}

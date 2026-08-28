@@ -7,5 +7,21 @@
     "urbane",
     "sophisticated"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three praise what wide exposure does to a person: the rawness is gone, nothing startles them, and they can move through unfamiliar rooms without friction. Each names a different asset the exposure bought — geographic breadth, social smoothness, or acquired discrimination — and each takes a different opposite: narrow, boorish, naive. The GRE keeps them apart by what they attach to and what they quietly withhold.",
+  "words": [
+    {
+      "word": "cosmopolitan",
+      "nuance": "**Cosmopolitan** is about *range* — the absence of the provincial flinch at anything foreign. It's the only one here that describes a *place* (a cosmopolitan port, a cosmopolitan faculty) by the mix it contains, and it says nothing about whether the person has manners or taste; a blunt, badly dressed traveler can be cosmopolitan."
+    },
+    {
+      "word": "urbane",
+      "nuance": "**Urbane** is about performance in a room — the smooth, lightly witty ease that keeps a difficult dinner table talking. It's the narrowest of the three: only people, usually male and older, and only their manner. Praising a man as urbane compliments his surface while pointedly saying nothing about his depth or his sincerity."
+    },
+    {
+      "word": "sophisticated",
+      "nuance": "**Sophisticated** is about acquired discrimination — enough exposure to stop being impressed, to catch fine distinctions. Alone in this group it also goes to *things*, where it means intricate rather than worldly (a sophisticated algorithm, a sophisticated fraud). Its shadow is loss of innocence: sophistication is always worked up, never natural, so the word can chill where the other two only flatter."
+    }
+  ],
+  "exam_note": "The trap is the non-human sense: only **sophisticated** can modify an algorithm, an attack, or an argument's machinery — if the blank sits before an inanimate noun, **urbane** and **cosmopolitan** are dead on arrival."
 }

@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__plain-nouns-that-turn-into-verbs-of-promotion",
+  "title": "Plain Nouns That Turn Into Verbs of Promotion",
+  "seed_words": [
+    "champion",
+    "advocate",
+    "tout",
+    "lionize",
+    "burnish"
+  ],
+  "hallucinated": null,
+  "core": "Each of these started as something concrete — a prizewinner, a courtroom pleader, a ticket hustler, a lion, a rubbed piece of metal — and each has a second life as a verb meaning *to raise something's public standing*. That's the shared job: making a cause, a person, or a reputation look better in front of an audience. They split on three axes: **what** gets promoted (an idea, a policy, a human being, an existing reputation), **who** is doing it (a lone partisan, a paid mouth, a whole crowd), and **whether the word is sneering at the promoter**. Two of these are clean; three come with a built-in raised eyebrow.",
+  "words": [
+    {
+      "word": "champion",
+      "nuance": "The only one where the promoter **pays a cost**: you attach your name to a cause and absorb the incoming fire, usually over years. Its object is a cause or an underdog, never your own image — and unlike *advocate*, it implies combat rather than argument."
+    },
+    {
+      "word": "advocate",
+      "nuance": "The **argumentative** one: you make the case, recommend the course of action, plead on the record. Its lawyerly root shows in the object — you advocate *a policy*, a specific thing to do, where a champion fights for a whole cause. Neutral about cost and about who benefits; the word itself passes no judgement on you."
+    },
+    {
+      "word": "tout",
+      "nuance": "The one that **implicates the promoter**. Touting is loud, repetitive, and interested — you're talking it up because you stand to gain, and the claim is inflated. Note that its object is typically a product, candidate, or result being sold, and its favourite construction is passive: *touted as* is a setup for the disappointment."
+    },
+    {
+      "word": "lionize",
+      "nuance": "Its object is always a **person**, and its subject is always a **crowd** — critics, salons, the press. Unlike *tout*, nobody in particular is profiting; the fuss is genuine but faddish, and the writer using the word usually thinks the adulation outran the achievement."
+    },
+    {
+      "word": "burnish",
+      "nuance": "Its object is an **abstraction you already have**: a reputation, credentials, a legacy. This is the only one that cannot start from zero — you buff an existing surface, you don't build it — and the only one whose usual target is the promoter's *own* standing, which is why it reads as PR."
+    }
+  ],
+  "exam_note": "The literal noun sense is the decoy; past that, the split is connotation — **tout**, **lionize**, and **burnish** all carry a whiff of the undeserved, so any sentence hinting at self-interest, faddishness, or cosmetic fixes rules out **champion** and **advocate**."
+}

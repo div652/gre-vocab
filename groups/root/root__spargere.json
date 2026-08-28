@@ -7,5 +7,21 @@
     "disperse",
     "sparse"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *spargere* is what you do with a handful of seed or a flick of water: throw so the pieces land apart, thin and separate, each one landing where it will. The root shows up in three grammatical slots — the act of breaking a mass apart, the thin state left behind afterward, and the figurative version where what gets sprinkled is doubt. Confusion comes from the shared picture of \"spread out\": all three describe things that are present but not concentrated. What separates them is what is being scattered, and whether anyone did the scattering on purpose.",
+  "words": [
+    {
+      "word": "aspersion",
+      "nuance": "The only figurative member, and the only hostile one: what gets sprinkled is doubt, and it lands on a person's character. Note the giveaway grammar — plural, and you *cast* them — and the fact that the word is almost always spoken by someone disclaiming the act (\"I cast no aspersions\"), which is how the smear gets delivered while staying too vague to answer."
+    },
+    {
+      "word": "disperse",
+      "nuance": "The verb of the group: it names the *event*, the moment a concentrated mass comes apart. It needs something gathered to begin with — a crowd, a cloud, a beam — and often an agent doing the breaking up, which is why riot police disperse protestors. Nothing is left thin here so much as left *gone from where it was*."
+    },
+    {
+      "word": "sparse",
+      "nuance": "The adjective, and purely descriptive of a resting state — no event, no agent, no one to blame. It reports density over an area (hair, vegetation, data points) and stays coolly neutral where *meagre* or *paltry* would grumble; a scientist calls a dataset sparse as a measurement, not a complaint."
+    }
+  ],
+  "exam_note": "The traps are semantic near-misses: **sparse** is offered where *scarce/meagre* is meant (it's about spacing, not shortage), and **aspersion** is offered where an open *accusation* is meant — GRE contexts usually cue it with a denial or a whispered, unrebuttable slight."
 }

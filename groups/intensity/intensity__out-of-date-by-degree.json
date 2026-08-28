@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__out-of-date-by-degree",
+  "title": "Out of date by degree",
+  "seed_words": [
+    "anachronistic",
+    "obsolete",
+    "archaic",
+    "vestigial"
+  ],
+  "hallucinated": null,
+  "core": "All four say a thing belongs to an earlier time and the present has moved on without it. They differ in how far gone it is — still operating but out of place, superseded by something better, long dropped out of use, or reduced to a functionless husk — and in the attitude that comes with the verdict: mockery, market logic, antiquarian distance, clinical diagnosis. The trap is that each one implies a different *reason* the thing no longer fits, not just a different amount of age.",
+  "words": [
+    {
+      "word": "anachronistic",
+      "nuance": "The only one that requires a **present-day setting to clash with** — it's a mismatch, not a stage of decay. The thing may be perfectly functional and fully in force; what's absurd is that it's *here*. It's also the only member that can name a plain factual error (a wristwatch on a gladiator), and when it's a judgement it's the most openly derisive of the four."
+    },
+    {
+      "word": "obsolete",
+      "nuance": "The only one that implies a **successor**. Something better took the slot, so this is the word of technology and markets, not of antiquity — a five-year-old product can be obsolete. The sting is structural rather than sneering: not \"you're quaint\" but \"the role no longer exists.\""
+    },
+    {
+      "word": "archaic",
+      "nuance": "Measures **distance in time**, with no successor required — it belongs to a much earlier age and now survives as a curiosity or in frozen phrases (*thou*, *whereof*). Alone in this group it has a straight technical use with no insult attached (Archaic Greek, an *archaic* usage label). Aimed at a person's views, it means \"you belong in another century.\""
+    },
+    {
+      "word": "vestigial",
+      "nuance": "The only one about **what physically remains**: the thing is still there, shrunk to a fragment of a once-larger whole, and does nothing. Requires both leftover *and* useless — an obsolete machine sitting in a warehouse isn't vestigial, a still-on-the-books veto nobody can exercise is. Clinical and unhostile; borrowed from biology and it keeps the lab coat."
+    }
+  ],
+  "exam_note": "The GRE separates these by what the sentence supplies: a named replacement points to **obsolete**, a surviving-but-inert structure to **vestigial**, a jarring modern context to **anachronistic**, and sheer age-with-disuse to **archaic** — so read the clause that explains *why* it no longer fits, not the one that says it's old."
+}

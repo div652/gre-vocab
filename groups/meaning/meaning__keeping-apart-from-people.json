@@ -9,5 +9,29 @@
     "retiring",
     "misanthropic"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five put distance between a person and everyone else, so any of them can fill a blank about someone who doesn't join in. What separates them is *what kind of thing* the distance is: a quiet temperament, a manner in the room, a physical address, a narrow mental horizon, or a verdict on the species. Two of them can be affectionate, two are accusations, and one isn't about feeling at all. Ordered here from mildest and most forgivable to harshest.",
+  "words": [
+    {
+      "word": "retiring",
+      "nuance": "The only flattering one: it describes what a person *declines* — attention, credit, the podium — not whom they avoid. There's no attitude toward other people in it at all, which is why a retiring person can be warm, well-liked, and in the room the whole time."
+    },
+    {
+      "word": "aloof",
+      "nuance": "The only one about conduct in company: the person is present and still won't engage, and gives no reason. That silence is what gets read as superiority — and the word is almost always spoken by whoever felt snubbed."
+    },
+    {
+      "word": "recluse",
+      "nuance": "The only noun, and the only one that is a physical fact rather than an attitude — a person who is simply not where other people are. It implies a before: someone had a life and left it, so the word invites the question of what happened."
+    },
+    {
+      "word": "insular",
+      "nuance": "The only one that attacks *narrowness* rather than distance, and the only one that fits a group — a village, a discipline, a nation. The insular are surrounded by people; they just never meet a new kind, and, crucially, don't feel they're missing anything."
+    },
+    {
+      "word": "misanthropic",
+      "nuance": "The only one that names an emotion, and the only one aimed at humanity wholesale rather than at the people at hand. A misanthrope may be loud, funny, and out in the world — the trait is contempt for the species, not absence from it."
+    }
+  ],
+  "exam_note": "The GRE's favorite trap is **insular** vs. the rest: when the sentence is about a field, community, or country that has stopped looking outward, only **insular** works — the others need a single person with a mood; and it swaps **aloof** for **retiring** where the clue distinguishes coldness from modesty."
 }

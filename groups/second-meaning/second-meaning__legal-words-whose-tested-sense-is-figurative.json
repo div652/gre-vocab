@@ -1,0 +1,32 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__legal-words-whose-tested-sense-is-figurative",
+  "title": "Courtroom Words Off Duty",
+  "seed_words": [
+    "arresting",
+    "apprehension",
+    "indictment",
+    "warranted"
+  ],
+  "hallucinated": null,
+  "core": "All four come from the courtroom and the police station — seizing a suspect, charging a crime, showing sufficient grounds — and all four are tested on the sense that has walked out of that building and into ordinary prose. The legal weight never fully drops off: each keeps the force of a formal proceeding while pointing at a face, a report, a system, or a response. The confusion is directional. In some of these the figurative use has taken over and the legal one is nearly dead; in others the literal legal sense is exactly the buried meaning the exam is fishing for.",
+  "words": [
+    {
+      "word": "arresting",
+      "nuance": "The only one that is praise, and the only one where the figurative sense has fully displaced the legal one — nobody reads **arresting** as \"performing an arrest.\" What gets seized here is the *viewer's attention*, not a suspect, and the compliment is cool and critical rather than warm: an **arresting** face may be severe or odd, never merely pretty."
+    },
+    {
+      "word": "apprehension",
+      "nuance": "Runs the trick backwards — the everyday sense (dread) is the decoy and the courtroom sense (the **arrest** of a suspect) is what's usually being tested. It is also the only word here with a third, non-legal shell: *grasp of the mind*, comprehension, as in a truth beyond human **apprehension**. If the sentence rewards neither dread nor arrest, take the intellectual sense."
+    },
+    {
+      "word": "indictment",
+      "nuance": "Doesn't shed the courtroom, it borrows it whole: the figurative **indictment** casts a fact or a report as prosecutor and names a defendant — a policy, an industry, an entire system. That's the line against ordinary criticism, which is an opinion someone holds; an **indictment** is presented as the evidence itself pressing charges. Still only a charge, never a verdict."
+    },
+    {
+      "word": "warranted",
+      "nuance": "The only one that judges *fit* rather than performing an action: it asks whether the grounds were sufficient for the response, so it attaches to intrusions, assumptions, force, optimism. It concedes nothing about whether the act was wise or kind — only that the evidence licensed it — and the GRE overwhelmingly tests the negative, where **unwarranted** always charges disproportion."
+    }
+  ],
+  "exam_note": "The trap is context priming: a passage about crime pushes you to read \"apprehension\" as dread and \"arresting\" as police work, when the answer usually needs the sense the surrounding subject matter did *not* prime."
+}

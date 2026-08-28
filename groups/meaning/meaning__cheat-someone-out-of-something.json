@@ -8,5 +8,25 @@
     "chicanery",
     "inveigle"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe getting the better of someone by trickery rather than force — the victim is talked into it, not overpowered. The differences are about where the sentence's weight falls: on the loot taken, on the credulous person taken in, on the technique used, or on the smooth talk that produced a yes. They also differ in what they grammatically attach to — a sum of money, a person, a whole style of conduct, or an action the victim performs themselves.",
+  "words": [
+    {
+      "word": "swindle",
+      "nuance": "The only one that requires **property actually changing hands** — a **swindle** that nets nothing is just a lie. It's also the group's tabloid word: big scheme, plausible cover story, named sum of money, and a victim the writer plainly pities."
+    },
+    {
+      "word": "dupe",
+      "nuance": "Nothing has to be stolen — the payoff is **belief**, not money, so you can be **duped** into voting, signing, or simply thinking something false. The word convicts the victim of credulity rather than the trickster of a crime, which is why it alone doubles as a noun for the sucker."
+    },
+    {
+      "word": "chicanery",
+      "nuance": "The abstract one: an uncountable noun for a **method**, not an act done to a named person. **Chicanery** works through the rules — loopholes, quibbles, fine print, procedure — so it needs an institutional setting and can't describe a lie told over a handshake."
+    },
+    {
+      "word": "inveigle",
+      "nuance": "The victim does the deed themselves; **inveigle** produces a **yes**, extracted by flattery and charm rather than by a fabricated story. It's the only one that's about tone of voice — smooth, coaxing — and the only one built on *into*: inveigle someone into lending, or inveigle your way into a room."
+    }
+  ],
+  "exam_note": "Watch the frame: only **inveigle** takes a person + *into* + an action, only **chicanery** is a mass noun with no direct victim, and **dupe** vs **swindle** splits on whether anything was actually taken."
 }

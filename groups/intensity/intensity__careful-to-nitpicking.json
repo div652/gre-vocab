@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__careful-to-nitpicking",
+  "title": "Careful to Nitpicking",
+  "seed_words": [
+    "meticulous",
+    "fastidious",
+    "finicky",
+    "pedantic"
+  ],
+  "hallucinated": null,
+  "core": "All four describe close attention to small details — the same observable behaviour of not letting anything small slide. What separates them is not how much attention, but the verdict passed on it: whether the detail-work was worth doing, whether it makes the person tiresome to be around, and whether the speaker is admiring, needling, or sneering. The scale runs from care that earns respect to care that reveals a defect in the person doing it.",
+  "words": [
+    {
+      "word": "meticulous",
+      "nuance": "The only one that is straightforwardly praise, and the only one whose focus is the **accuracy of the work itself** rather than the taste or temperament of the person. **Meticulous** attaches to research, records, restoration, notes — output you can check. The faint anxiety is the worker's own, not an imposition on anyone else."
+    },
+    {
+      "word": "fastidious",
+      "nuance": "Adds a second target the others lack: **being pleased**. Where meticulous judges work, **fastidious** also judges surroundings, food, company, cleanliness — it can describe someone who *produces* nothing and simply finds things beneath him. Praise and needle at once; the care is genuine but has crossed into discomfort, and there is a squeamish, faintly aristocratic edge."
+    },
+    {
+      "word": "finicky",
+      "nuance": "The domestic, low-stakes fuss — the register is a shrug or an eye-roll, never scorn, and the trifles are trifles (dressing on the salad, the wrong pillow). Uniquely, **finicky** also runs the other direction: a machine, engine, or recipe can be finicky, meaning *it* is temperamental and demands coaxing. No other word in this group can be applied to an object."
+    },
+    {
+      "word": "pedantic",
+      "nuance": "The only one about **rules, technicalities, and learning** rather than physical detail or cleanliness, and the only one that is purely an insult. **Pedantic** convicts the person of misplaced priorities — right about the semicolon, oblivious to the argument — and usually of enjoying the correction in front of an audience. Fussiness turned outward at other people."
+    }
+  ],
+  "exam_note": "The exam rarely tests the behaviour — it tests the verdict, giving you a sentence whose surrounding tone (admiring vs. exasperated vs. contemptuous) is the only thing separating a correct **meticulous** from a trap **pedantic**; watch too for the object senses, where only **finicky** fits a machine and only **pedantic** fits an argument."
+}

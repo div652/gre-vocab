@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__backing-something-up",
+  "title": "Propping up → fighting for: bolster, buttress, champion",
+  "seed_words": [
+    "bolster",
+    "buttress",
+    "champion"
+  ],
+  "hallucinated": null,
+  "core": "All three add strength to something that would be weaker without you. The confusion is that each answers \"support\" in a sentence-completion stem, but they differ on two axes: how much structural weight the support carries, and how much the supporter is exposed. The first two supply material to a thing that is sagging; the last supplies a person willing to take the hits. Moving down the list, attention shifts from the object's weakness to the supporter's commitment.",
+  "words": [
+    {
+      "word": "bolster",
+      "nuance": "The loosest and the only one that works on **feelings** — morale, confidence, spirits — as comfortably as on arguments. A single fact, a good quarter, a kind word can **bolster**; no deliberate structure is implied, just a boost to something that had been flagging."
+    },
+    {
+      "word": "buttress",
+      "nuance": "Formal and load-bearing: the support is external, deliberate, and specified — you **buttress** a claim *with* data, precedent, testimony. It takes positions, not people or moods; \"buttressed his confidence\" is off, and the word quietly concedes the position could not stand unaided."
+    },
+    {
+      "word": "champion",
+      "nuance": "Stops supplying support and becomes it. You **champion** a cause or a person publicly and at cost to yourself, over time — the risk moves onto the advocate, and nothing is implied about whether the cause is weak, only that it needs a fighter."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves bolster/buttress as the synonym pair — champion sits nearby but takes a different object (a cause, a person) and marks the supporter's stake, not the object's shakiness; the noun \"winner\" sense is the decoy."
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "second-meaning",
+  "id": "second-meaning__not-what-the-look-alike-suggests",
+  "title": "Not what the look-alike suggests",
+  "seed_words": [
+    "apologist",
+    "disinterested",
+    "nonplussed",
+    "ingenuous",
+    "officious"
+  ],
+  "hallucinated": null,
+  "core": "Each of these sits one letter, one prefix, or one root away from a much commoner word — and that commoner word is the one your brain supplies. The real definitions aren't obscure; the problem is that the wrong reading arrives first and feels fluent, so nothing signals an error. In several cases the true sense is not merely different from the decoy but close to its opposite. Learning them means learning the decoy alongside them, because on the exam the decoy is what's being tested.",
+  "words": [
+    {
+      "word": "apologist",
+      "nuance": "The decoy is *apology*: readers expect regret, and there is none. An **apologist** concedes nothing — they argue the thing was defensible all along — so the word marks an accuser's contempt, not a defender's remorse. It's also the only one here that's a label pinned on someone by opponents rather than a description they'd accept."
+    },
+    {
+      "word": "disinterested",
+      "nuance": "The decoy is *uninterested*, which is a shrug. **Disinterested** is about stake, not attention — the person may be gripped by the case and still qualify, as long as no outcome pays them. It's the only word in this group that functions as praise, and the praise is specifically about fitness to judge."
+    },
+    {
+      "word": "nonplussed",
+      "nuance": "The decoy is built into the spelling: *non-* reads as \"not fazed,\" so people use it to mean unruffled. It means the exact reverse — so fazed that the reaction machinery jams. Note it describes a momentary state, where the others here describe a standing trait or position."
+    },
+    {
+      "word": "ingenuous",
+      "nuance": "The decoy is *ingenious*, one letter away and about cleverness. **Ingenuous** is nearly its opposite: no calculation at all, frankness that comes from never having learned to guard oneself. Alone in this group it carries affection — the speaker is charmed even while noting the person is unprotected."
+    },
+    {
+      "word": "officious",
+      "nuance": "The decoy is *official*, and the whole insult turns on that gap: an **officious** person acts out an authority they don't have. It's the one word here that pictures a specific behaviour — inserting yourself, unasked, into someone else's business — rather than an inner state or a structural position."
+    }
+  ],
+  "exam_note": "Sentence-equivalence and text-completion items are built so the decoy sense *also* fits the blank loosely — check whether the sentence rewards impartiality or boredom, bewilderment or composure, cleverness or innocence, before choosing."
+}

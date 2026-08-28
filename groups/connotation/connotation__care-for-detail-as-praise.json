@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__care-for-detail-as-praise",
+  "title": "Careful in every detail — coverage, precision, labor, conscience",
+  "seed_words": [
+    "meticulous",
+    "scrupulous",
+    "painstaking",
+    "thorough",
+    "sedulous"
+  ],
+  "hallucinated": null,
+  "core": "All five are compliments for care rather than for brilliance — the praise goes to someone who attends to small things and doesn't cut corners. What separates them is *which* dimension of care is being praised: how much ground was covered, how fine the finish is, how much grinding effort went in, how long the effort was sustained, or whether the care was owed to a conscience rather than to a standard of workmanship. None of them credits talent, speed, or insight; a person can be all five and still be slow and unoriginal.",
+  "words": [
+    {
+      "word": "thorough",
+      "nuance": "The axis is **coverage**: every part was visited, no gap left — it says nothing about how finely any one part was done. It is the plainest and least flattering of the five, praising the honest slog rather than the finish. It alone doubles as a flat intensifier before a noun, where it turns hostile: *a thorough scoundrel*."
+    },
+    {
+      "word": "meticulous",
+      "nuance": "The axis is **fineness of the finished work** — each small detail exact, the result inspectable at close range. It's the one that can tip into a backhanded compliment: the faint anxiety of checking a fourth time. Praises the standard achieved, not the hours or the honesty behind it."
+    },
+    {
+      "word": "painstaking",
+      "nuance": "The axis is **the labour**, not the result — it credits patience and stamina through fiddly, unglamorous work, the hours nobody saw. It attaches happily to the *task* as well as the person (*a painstaking reconstruction*). Applied to anything quick, it reads as sarcasm."
+    },
+    {
+      "word": "sedulous",
+      "nuance": "The axis is **persistence over time** — keeping at it, night after night, not a single concentrated effort. Bookish and formal where the others are ordinary English, and it carries a whiff of the patient plodder; nearest to *assiduous*, and unlike *industrious* it implies unhurried steadiness rather than energy."
+    },
+    {
+      "word": "scrupulous",
+      "nuance": "The odd one out: the axis is **conscience**, not craft. It's the refusal of the shortcut nobody would catch — a meticulous accountant balances the columns, a scrupulous one won't fudge them. Even in its \"exact\" sense (*scrupulous attention to detail*) the care is owed as a duty, not merely taken as a standard."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"careful\": the GRE builds sentences whose blank turns on honesty (only **scrupulous** fits), on sustained effort (**sedulous**/**painstaking**), or on completeness of coverage (**thorough**) — and sometimes tests **thorough** as an intensifier meaning \"utter,\" not \"careful\" at all."
+}

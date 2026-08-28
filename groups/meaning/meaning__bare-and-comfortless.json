@@ -8,5 +8,25 @@
     "ascetic",
     "unadorned"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say: nothing extra here — no ornament, no cushion, no indulgence. They separate on *what* is stripped and *why*. Some describe only a surface (nothing was added), some describe conditions (nothing is provided), and one describes a will (everything was refused). They're ordered below by how much self-denial they imply, from purely decorative plainness to a whole life built on renunciation.",
+  "words": [
+    {
+      "word": "unadorned",
+      "nuance": "**Unadorned** is the only one that judges nothing but the surface — it says nothing was *added*, not that anything is lacking, so an unadorned room can still be warm and comfortable. It's also the one that goes on facts and prose (the *unadorned truth*), where it means no flattering trim rather than no comfort."
+    },
+    {
+      "word": "austere",
+      "nuance": "**Austere** is the only one that reaches the face and manner: an austere man is unsmiling and unbending, not merely under-furnished. It's also the word for policy and money — austerity budgets, austerity measures — where it means the perks were cut, and it chills when applied to a person in a way the others don't."
+    },
+    {
+      "word": "spartan",
+      "nuance": "**Spartan** rates the *conditions* — the thin blanket, the cold barracks, the one bare bulb — and implies toughness in whoever puts up with them. It attaches to quarters, camps, and rations rather than to a face or a prose style, and it's the likeliest of the four to double as a dry complaint about what wasn't provided."
+    },
+    {
+      "word": "ascetic",
+      "nuance": "**Ascetic** is about the will, not the furniture: it names a program of renouncing pleasure, usually for religious or moral reasons, so it says what a person has *refused* rather than what he lacks. It's the only one that's also a noun for such a person, and the only one that can tip into a charge of extremism."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"plain\": sentence-equivalence pairs turn on evidence of *choice* (ascetic, spartan) versus mere absence of decoration (unadorned), and only austere fits a person's demeanor or a national budget."
 }

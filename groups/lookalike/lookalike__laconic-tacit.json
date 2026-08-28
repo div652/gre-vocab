@@ -8,5 +8,21 @@
     "taciturn"
   ],
   "similarity": 0.58,
-  "auto": true
+  "auto": true,
+  "core": "All three orbit the space where speech is absent — few words said, or none at all. But they attach to different things: one to a particular utterance, one to a person's lifelong temperament, and one to a meaning that got across without anyone opening their mouth. Two of them (**tacit**, **taciturn**) even share a root, *tacere*, \"to be silent,\" which is exactly why they get swapped. The third looks like it belongs but comes from Laconia — Sparta — whose citizens were famous for cutting replies.",
+  "words": [
+    {
+      "word": "laconic",
+      "nuance": "Rates the **style of something actually said** — a reply, a remark, a telegram. Words were spoken; there were just very few, dryly delivered, with the restraint doing the work. This is the only one of the three that can be witty, and the only one that judges an individual utterance rather than a person or a meaning."
+    },
+    {
+      "word": "tacit",
+      "nuance": "Not about talking at all — it modifies **what was communicated**: consent, approval, admission, understanding. Attach it to an abstract noun, never to a person (no one is \"a tacit man\"). Its silence is transactional: two parties, one of whom said nothing and thereby agreed, usually to something no one wanted on the record."
+    },
+    {
+      "word": "taciturn",
+      "nuance": "A verdict on **the person, permanently** — silence as fixed temperament, not a mood or a single reply. It says nothing about the quality of what he does say when cornered; it says he mostly doesn't. Where **laconic** implies choosing the sharper short answer, **taciturn** implies the default is no answer."
+    }
+  ],
+  "exam_note": "Watch what the blank modifies: an abstract noun (approval, agreement, admission) takes **tacit**; a person described across years takes **taciturn**; a specific reply or remark takes **laconic** — the GRE's favorite trap is offering **taciturn** where the sentence is really about an unspoken agreement."
 }

@@ -9,5 +9,29 @@
     "thorough",
     "exhaustive"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five praise work done with more care than the minimum — nothing skimped, nothing waved through. They diverge on *what the care is measured against*: the fineness of each detail, the hours of grinding labour, the conscience of the person doing it, the completeness of the process, or the completeness of the coverage. Swap one for another and you praise the wrong thing — you credit patience when you meant precision, or workmanship when you meant honesty. The GRE builds sentences whose surrounding clue picks exactly one of those axes.",
+  "words": [
+    {
+      "word": "meticulous",
+      "nuance": "The **finest grain** of the five: it judges the quality of attention paid to each small detail, not how long it took or how much ground was covered. Alone in the group it carries a faint anxious edge — the fourth recheck — so it can tip into fussiness in a way *thorough* and *exhaustive* never do."
+    },
+    {
+      "word": "painstaking",
+      "nuance": "Credits the **labour**, not the result — patience and stamina rather than precision or conscience. It needs slow, fiddly work to sit on (a painstaking reconstruction, a painstaking translation); attach it to a quick job and it reads as sarcasm, which is not a risk with the others."
+    },
+    {
+      "word": "scrupulous",
+      "nuance": "The only one about **conscience**. It describes a person refusing a shortcut nobody would catch, not a person catching every decimal — a meticulous accountant balances the columns, a scrupulous one won't cook them. Even in its \"exact\" sense (*scrupulous attention to detail*) the care is felt as an obligation, something owed."
+    },
+    {
+      "word": "thorough",
+      "nuance": "Praises the **process, plainly** — went everywhere, checked everything — with no implication of cleverness, no fussiness, and no moral weight. It is the workmanlike middle: less fine than *meticulous*, less absolute than *exhaustive*. Uniquely, it also works as a bare intensifier before a noun, and there it turns hostile: *a thorough scoundrel*."
+    },
+    {
+      "word": "exhaustive",
+      "nuance": "Measures **coverage, not effort or care** — every case on the list eliminated, nothing left to check. A thorough search was done properly; an exhaustive one is finished by definition. Its only shadow is excess: an exhaustive reply to a simple question is more than anyone asked for."
+    }
+  ],
+  "exam_note": "Sentence completions plant a moral clue (honesty, temptation, a bribe refused) to force **scrupulous** where students reach for *meticulous*, and pair *exhaustive* with completeness language (\\\"every case,\\\" \\\"nothing remained\\\") where *thorough* would be merely adequate."
 }

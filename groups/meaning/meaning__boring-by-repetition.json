@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__boring-by-repetition",
-  "title": "Boring by repetition",
+  "title": "Dull — by sameness, by length, by pace",
   "seed_words": [
     "monotonous",
     "humdrum",
@@ -9,5 +9,29 @@
     "interminable",
     "plodding"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five are verdicts of dullness, and all five blame the same culprit: nothing worth attending to is happening. They split on *why* your attention died. Two of them indict sameness — the thing never varies. Two indict duration — the thing will not stop. One indicts pace — the thing moves, but heavily. Getting the right one means asking which of those three the sentence actually gives you evidence for.",
+  "words": [
+    {
+      "word": "monotonous",
+      "nuance": "**Monotonous** attacks *variation* — one note, one texture, held. It's the only one at home describing raw sensory sameness in a short stretch: a droning voice for five minutes is monotonous, never humdrum. The verdict is numbness, attention sliding off."
+    },
+    {
+      "word": "humdrum",
+      "nuance": "**Humdrum** is the long-horizon one — it measures in years, not minutes, and attaches to whole lives, towns, jobs, marriages. Uniquely, the thing itself may be perfectly nice; the grumble is only that it repeats. Tonally it sighs at one's own existence rather than insulting someone else's."
+    },
+    {
+      "word": "tedious",
+      "nuance": "**Tedious** is the patience word: the thing stopped being interesting and then kept going. It implies *easy* — hard work can grip you, tedious work is trivial and endless. It's the polite, printable complaint, the one you can put in a report about a document without sounding rude."
+    },
+    {
+      "word": "interminable",
+      "nuance": "**Interminable** claims only endlessness — it makes no charge of sameness at all. It's hyperbole about the sufferer, not the clock, and it needs a captive: meetings, sermons, queues, delays you must sit through. The most exasperated word here."
+    },
+    {
+      "word": "plodding",
+      "nuance": "**Plodding** is the only one about *pace and weight* — trudging, no lightness, no spark. It's also the only one that can carry grudging respect, since the plodder is often thorough and does finish. Aimed at a mind rather than a walk, it means unimaginative: incapable of a leap."
+    }
+  ],
+  "exam_note": "The exam plants the deciding clue outside the blank — \"day after day, identical\" wants monotonous/humdrum, \"three hours in, still talking\" wants tedious/interminable, \"slow and heavy but reliable\" wants plodding; only plodding survives a positive clause."
 }

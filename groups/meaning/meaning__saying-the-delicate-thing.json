@@ -8,5 +8,25 @@
     "circumspect",
     "subtle"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe handling something that could go wrong if handled clumsily — a feeling, a secret, a risk, a fine distinction. Each praises restraint and fine judgement over bluntness, which is why they blur. They split on **what is being protected**: the listener's feelings, someone else's privacy, your own exposure, or nothing at all — just the fineness of the thing itself.",
+  "exam_note": "The classic swap is **discreet** for **circumspect**: check whether the sentence protects someone else's secret (discreet) or the actor's own neck (circumspect). Also watch the homophone *discrete* (= separate) and **subtle**'s sinister sense in negative contexts.",
+  "words": [
+    {
+      "word": "tact",
+      "nuance": "The only noun here, and the only one that requires a person in front of you with feelings at stake — it lives in the moment of delivery, choosing words so a hard truth lands without wounding. Note the asymmetry: you almost never hear it praised, only missed (*tactless*)."
+    },
+    {
+      "word": "discreet",
+      "nuance": "Not about sparing feelings but about guarding information — there is always a third party being protected, and the measure is what you *withhold*. It also covers not being noticed at all: a **discreet** enquiry is one nobody registers as a question."
+    },
+    {
+      "word": "circumspect",
+      "nuance": "The caution points at your own exposure, not anyone else's: you survey the consequences before committing. It's the only one that governs *acting* as much as speaking, and the only one that can be a fault — too circumspect means too slow to move. Formal; you write it."
+    },
+    {
+      "word": "subtle",
+      "nuance": "Describes the thing, not the person's virtue — a shade, a difference, an argument, a hint so fine it's easy to miss. Consequently it's the only member that can turn against you: a **subtle** poison or **subtle** manipulator uses the same fineness to deceive."
+    }
+  ]
 }

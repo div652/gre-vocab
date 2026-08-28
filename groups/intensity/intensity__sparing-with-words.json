@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__sparing-with-words",
+  "title": "Sparing with words",
+  "seed_words": [
+    "laconic",
+    "reticent",
+    "taciturn"
+  ],
+  "hallucinated": null,
+  "core": "All three describe someone who gives you less speech than the situation invites. The differences are in scope: whether the sparseness is a property of a single utterance, of one guarded subject, or of the person's whole disposition. Note also whether the silence implies *nothing more to say* or *something deliberately kept back* — that's what flips these between admiring and suspicious. The order below widens from a remark, to a topic, to a lifetime.",
+  "words": [
+    {
+      "word": "laconic",
+      "nuance": "Describes the **shape of what was actually said** — he answered you, in four words. The only one of the three that can be a compliment about style: compression as coolness, wit, or nerve. Attaches happily to a *reply*, a *shrug*, a *telegram*; nothing is being hidden, it's just been trimmed to the bone."
+    },
+    {
+      "word": "reticent",
+      "nuance": "The only one that takes an **object**: reticent *about* the funding, *about* his war years. He may chatter cheerfully for an hour and go quiet at exactly one subject — which is why this word implies there is something there, and invites the reader to wonder why. Discretion or evasion, depending on who's asking."
+    },
+    {
+      "word": "taciturn",
+      "nuance": "No topic and no occasion — a **permanent setting on the person**. Describes a man, never a remark; you cannot be taciturn for an afternoon. Nothing is being withheld in particular, the tap is simply low, and the faint chill comes from that constancy rather than from any secret."
+    }
+  ],
+  "exam_note": "The classic trap is **reticent** vs **taciturn**: pick reticent only when the sentence supplies a subject being withheld (\"about her past\"), taciturn when it characterizes the person in general — and **laconic** when the sentence points at the words themselves, not the speaker."
+}

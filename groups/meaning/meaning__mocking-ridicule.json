@@ -1,7 +1,7 @@
 {
   "kind": "meaning",
   "id": "meaning__mocking-ridicule",
-  "title": "Mocking ridicule",
+  "title": "Mockery: from contempt to affection",
   "seed_words": [
     "deride",
     "lampoon",
@@ -9,5 +9,29 @@
     "caricature",
     "raillery"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All five involve making someone or something look ridiculous — holding a target up so an audience laughs at it. What separates them is the machinery: whether the ridicule is an attitude or a technique, whether it lives in a published work or in a spoken remark, whether the goal is to correct, to humiliate, or simply to enjoy each other's company. They also split hard on warmth: most of this group is hostile, but not all of it.",
+  "words": [
+    {
+      "word": "deride",
+      "nuance": "The only one that requires no joke and no craft — **deride** is contempt, not comedy. It says the target isn't worth arguing with, so it gets dismissed from above rather than skewered; a critic can deride a proposal in a single flat sentence with nothing funny in it."
+    },
+    {
+      "word": "lampoon",
+      "nuance": "Demands a **named target and a published artifact** — a magazine piece, a cartoon, a sketch. Unlike deride, it's performed for an audience, and unlike satire it wants no reform: stripping the dignity off one specific person is the whole payoff."
+    },
+    {
+      "word": "satirical",
+      "nuance": "The only member with a **moral engine** — it ridicules in order to get the folly shamed or fixed. It's also an adjective for the *work*, not the mood: essays, novels and sketch shows are satirical; a person snapping at you across a table is merely sarcastic."
+    },
+    {
+      "word": "caricature",
+      "nuance": "Names a **method rather than a motive**: exaggerate features that are genuinely there. It never invents, which is why the target can't cleanly deny it — and why, used figuratively (\"that's a caricature of my position\"), the word becomes an accusation of unfair distortion rather than a description of humor."
+    },
+    {
+      "word": "raillery",
+      "nuance": "The outlier: **warm, mutual, and expected to be returned**. It requires that the two people like each other and that the jab be witty — a clumsy or wounding remark disqualifies itself. Literary and slightly antique in register; modern English would say banter."
+    }
+  ],
+  "exam_note": "The trap is connotation: raillery looks like a hostile word and is scored as a friendly one, and satirical vs. caricature turns on whether the sentence stresses a moral point or a distorted exaggeration."
 }

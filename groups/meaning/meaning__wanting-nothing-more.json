@@ -1,11 +1,27 @@
 {
   "kind": "meaning",
   "id": "meaning__wanting-nothing-more",
-  "title": "Wanting nothing more",
+  "title": "At ease — and whether that ease is earned",
   "seed_words": [
     "content",
     "sanguine",
     "complacent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All three describe a person at rest: no craving, no alarm, no impulse to push for more or do more. What separates them is what the calm is aimed at — what you already possess, what you expect to happen, or how you rate yourself — and whether the writer thinks the calm is justified. On the GRE they cluster because each can sit in the same \"despite the mounting problems, he remained ___\" frame, but each makes a different claim about the person and carries a different verdict.",
+  "exam_note": "The giveaway is the writer's verdict, not the calm itself: an approving or neutral clause takes **content**, a hedged forecast about a looming risk takes **sanguine**, and an explicit warning (the threat that goes unwatched, the effort that stops) takes **complacent**.",
+  "words": [
+    {
+      "word": "content",
+      "nuance": "Points backward and inward at what you already have — an absence of appetite, not a prediction about anything. It makes no claim that the future is safe and no claim about your own merit; its only vulnerable edge is that accepting what you've got can look like settling for it."
+    },
+    {
+      "word": "sanguine",
+      "nuance": "The forecast word: it's about how things will turn out, not about what you hold now, and it takes *about* a specific trouble — the deficit, the diagnosis, the quarter. Formal and temperamental rather than momentary, and deliberately unresolved: the writer may mean steady nerves or may mean the danger hasn't registered."
+    },
+    {
+      "word": "complacent",
+      "nuance": "The only rebuke of the three, and the only one aimed at the self — the calm is smug and unearned, and its consequence is named: you stop checking, stop training, stop improving. Where the others merely fail to worry, **complacent** says the failure is yours and the threat is still live."
+    }
+  ]
 }

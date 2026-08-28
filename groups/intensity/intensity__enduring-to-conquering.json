@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__enduring-to-conquering",
+  "title": "Enduring to conquering",
+  "seed_words": [
+    "withstand",
+    "surmount",
+    "vanquish"
+  ],
+  "hallucinated": null,
+  "core": "All three report a successful encounter with something working against you, and all three are flattering to the subject — the difficulty was real and you came out on top. What separates them is what happens to the difficulty afterward. It can keep pressing while you refuse to break, it can remain exactly where it is while you get past it, or it can be finished off entirely. The scale runs from passive resistance to total conquest.",
+  "words": [
+    {
+      "word": "withstand",
+      "nuance": "You don't act — you **refuse to fail**. The force is still pushing at the end of the sentence, and the only claim is that you held. Its object is pressure applied to you (a siege, 200 mph winds, scrutiny), and the praise is for construction, not effort or victory: a seawall withstands a storm without doing anything to the storm."
+    },
+    {
+      "word": "surmount",
+      "nuance": "The difficulty is **inert, not hostile** — poverty, a language barrier, long odds — and it survives your dealing with it; you just end up above it. Formal, vertical, and modest in tone: it credits the obstacle as genuine while claiming no destruction. Never takes a person as its object, and you'll usually see it as *insurmountable*."
+    },
+    {
+      "word": "vanquish",
+      "nuance": "The opposing thing **ceases to exist** — no rematch, no residue. Literary and trumpet-blowing, so the natural objects are enemies, armies, dragons, or an abstract adversary you crush for good (doubt, grief, temptation). Applied to anything small it reads as deliberate mock-heroics."
+    }
+  ],
+  "exam_note": "Watch the object: a force pressing on you cues **withstand**, an impersonal barrier cues **surmount**, an adversary cues **vanquish** — and watch whether the sentence says the difficulty is still there afterward."
+}

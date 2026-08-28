@@ -1,0 +1,52 @@
+{
+  "kind": "antonym",
+  "id": "antonym__never-stopping-vs-stopping-and-starting",
+  "title": "Never stopping vs. stopping and starting",
+  "seed_words": [
+    "incessant",
+    "interminable",
+    "perennial",
+    "perpetuate",
+    "intermittent",
+    "sporadic",
+    "fitful",
+    "desultory"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe how something is distributed in time: whether it runs without a break or comes in pieces with gaps. The first four say the thing won't quit — no pause, no end, or it keeps returning. The last four say the thing keeps quitting — bursts and stops, nothing sustained. Nearly all of them are complaints, so the real work is deciding *which* complaint: too long, too repetitive, too patchy, or too half-hearted.",
+  "exam_note": "The exam pairs a \"no gaps\" word with a \"gaps\" word in the same sentence and hangs the answer on one contrast cue (*but*, *rather than*, *no longer*); within the gap words, it exploits that **desultory** judges the person's attention while **intermittent** and **sporadic** only describe the pattern.",
+  "words": [
+    {
+      "word": "incessant",
+      "nuance": "Repetition with no gap between the repeats — a thing happening over and over rather than one thing lasting. Its complaint is about being unable to get a moment's silence, which is why it wants a noise-like subject (chatter, beeping, demands), not a duration."
+    },
+    {
+      "word": "interminable",
+      "nuance": "One continuous stretch that refuses to end, and the grievance is length, not repetition. It needs a captive listener: the speech, the queue, the flight is interminable because someone must sit through all of it."
+    },
+    {
+      "word": "perennial",
+      "nuance": "The only word here whose continuity is built out of interruptions — it dies back and returns on schedule, year after year. It is also the only one that can be warm: a perennial favourite is loved, where every other word in this group is being endured."
+    },
+    {
+      "word": "perpetuate",
+      "nuance": "The lone verb, and the lone word that assigns an agent — something doesn't just continue, somebody keeps it continuing. The accusation is inherited: you didn't start the myth or the feud, but it survives because of you."
+    },
+    {
+      "word": "intermittent",
+      "nuance": "The flat technical word for gaps — it reports the on-off pattern and blames nobody. Use it for equipment and weather (signal, wipers, rain), where the thing works fine when it's on; the trouble is only that it isn't on."
+    },
+    {
+      "word": "sporadic",
+      "nuance": "Adds unpredictability and scatter to the gaps: the instances are few and follow no pattern you could forecast from. It attaches to counts and coverage — sporadic attendance, sporadic gunfire, sporadic funding — where you'd want to know how often, and the answer is \"you can't say.\""
+    },
+    {
+      "word": "fitful",
+      "nuance": "Gaps plus restlessness: the thing keeps lurching into motion and stalling, so it never builds momentum. Reserve it for things that were supposed to settle or accumulate — sleep, a breeze, a recovery, growth — where the stopping means it never properly took hold."
+    },
+    {
+      "word": "desultory",
+      "nuance": "The gaps are in the doer's attention, not in the event: someone drifts from one thing to another with no plan and no appetite for finishing. It's the only word here that indicts motive rather than pattern — a desultory search could be perfectly continuous and still be worthless."
+    }
+  ]
+}

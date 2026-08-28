@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__tangled-vs-plain-simple",
+  "title": "Tangled vs. plain-simple",
+  "seed_words": [
+    "byzantine",
+    "convoluted",
+    "tortuous",
+    "elaborate",
+    "baroque",
+    "elementary",
+    "rudimentary",
+    "intuitive",
+    "lucid"
+  ],
+  "hallucinated": null,
+  "core": "These words sit on a single axis: how much work it takes to get through something. On one end, things whose parts have multiplied, twisted, or been piled on until following them is a chore; on the other, things that go down without effort. The trap is that \"hard\" and \"simple\" each split several ways — a thing can be hard because it's tangled, because it's roundabout, or because it's over-decorated; and it can be easy because the content is beginner-level, because the skill is barely developed, or because a hard thing was presented perfectly. Those are different claims about different objects, and the exam tests exactly that difference.",
+  "words": [
+    {
+      "word": "byzantine",
+      "nuance": "**Byzantine** needs an institution — codes, bureaucracies, procedures — and adds the charge that the tangle protects somebody. The other complication words describe a shape; this one alleges a beneficiary."
+    },
+    {
+      "word": "convoluted",
+      "nuance": "**Convoluted** is the plain workhorse of the tangle words: it needs no institution and no ornament, just a sentence, plot, or excuse folded back on itself past following. Where *byzantine* indicts a system, **convoluted** indicts the person who made this particular thing twist."
+    },
+    {
+      "word": "tortuous",
+      "nuance": "**Tortuous** grants that it arrives — the objection is the route, not the knot. Alone in this group it keeps a live literal sense (a tortuous road, a tortuous river), and it never means painful; that is *torturous*."
+    },
+    {
+      "word": "elaborate",
+      "nuance": "**Elaborate** measures labour put in, not difficulty got out — the only word here that can be pure praise (an elaborate fresco) and the only one that is also a verb. It sours only when the effort looks disproportionate to the need."
+    },
+    {
+      "word": "baroque",
+      "nuance": "**Baroque** complexity is decorative and showy — ornament that outgrew its function — rather than obstructive. It is also the one word here with a neutral technical use (the 1600–1750 style), where it accuses nobody."
+    },
+    {
+      "word": "elementary",
+      "nuance": "**Elementary** rates the *level* of material, not its quality: the first rung, complete and correct for beginners. The sting appears only when you attach it to someone's error or question, never to the textbook."
+    },
+    {
+      "word": "rudimentary",
+      "nuance": "**Rudimentary** rates *development* against what should have been there — begun and stalled. Elementary arithmetic is fine as far as it goes; rudimentary plumbing is a shortfall, and rudimentary French is a polite demotion."
+    },
+    {
+      "word": "intuitive",
+      "nuance": "**Intuitive** is about effortless *uptake*, not humble content — a sophisticated tool can be intuitive. It is the only word here that can also describe a person's leap of judgement, where it quietly notes that no working was shown."
+    },
+    {
+      "word": "lucid",
+      "nuance": "**Lucid** leaves the material hard and makes the exposition transparent — it is the true antonym of *convoluted*, not of *complex*. It also carries a clinical sense the others lack: mentally clear, in contrast to fever, confusion, or dementia."
+    }
+  ],
+  "exam_note": "A blank asking for the opposite of *convoluted* wants **lucid** (clarity of expression), not **elementary** or **rudimentary** — those downgrade the content's level or development, and the exam stocks all three as choices."
+}

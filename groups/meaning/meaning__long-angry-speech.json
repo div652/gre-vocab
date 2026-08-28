@@ -8,5 +8,25 @@
     "harangue",
     "polemical"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe language used as a weapon over an extended stretch — an attack that keeps going well past the point of proportion. Each implies the speaker or writer has abandoned balance, and all but one are labels applied from outside, by someone who disliked being on the receiving end. What separates them is *what* the excess consists of: raw temper, accumulated bitterness, moralising at a trapped audience, or deliberate one-sidedness by design.",
+  "words": [
+    {
+      "word": "tirade",
+      "nuance": "The one about **lost temper**. A **tirade** is heat and volume — an outburst that simply ran long, needing no thesis, no worthy target, no content beyond rage. It judges the speaker's self-control specifically: he didn't argue badly, he came unglued."
+    },
+    {
+      "word": "diatribe",
+      "nuance": "The one with **content and venom**. A **diatribe** is argument-shaped — it has a target, points, often a written form — but it is soaked in bitterness, so the label concedes force while denying reason. Where a tirade is hot, a **diatribe** can be sourly cold and still qualify."
+    },
+    {
+      "word": "harangue",
+      "nuance": "The only one defined by the **audience relationship**: the speaker has the floor and the listeners cannot leave. **Harangue** is hectoring and moralising — scolding, not necessarily furious — and it is the group's one everyday verb (*he harangued the crowd for an hour*)."
+    },
+    {
+      "word": "polemical",
+      "nuance": "The only **adjective**, and the only one implying **control rather than loss of it**. Something **polemical** is one-sided on purpose, built to demolish a position — which is why it can be cool, elegant, professional, and in a debate or on an op-ed page even a compliment."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"rant\": watch for the captive audience (harangue), deliberate design rather than lost temper (polemical), and remember only polemical can carry a neutral or approving charge."
 }

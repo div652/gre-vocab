@@ -8,5 +8,25 @@
     "all-encompassing",
     "thorough"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four say the coverage is complete — no gap, no omission, nothing left outside. What separates them is *what* is being covered and *who* gets the credit: a job done without shortcuts, a set of possibilities finished off, a head full of retrievable facts, or an abstraction so wide it has no edges. They also differ in whether completeness is a virtue or a symptom; the same quality that praises a search can indict a novel or an obsession.",
+  "words": [
+    {
+      "word": "thorough",
+      "nuance": "The only one that praises the **worker's process** rather than the result's scale — a **thorough** investigator went everywhere and checked everything, cleverness not required. Its scope is whatever job was assigned, so it never carries the awe of the others; it also doubles as a flat intensifier that turns nasty (*a thorough scoundrel* = completely one)."
+    },
+    {
+      "word": "exhaustive",
+      "nuance": "Makes a claim about a **finite set being finished off** — every file opened, every possibility eliminated, nothing left to check. It's about coverage, not diligence, which is why an **exhaustive** search can be unimaginative yet still complete; overkill on a small question is its only downside."
+    },
+    {
+      "word": "encyclopedic",
+      "nuance": "Lands almost always on **a person's knowledge or memory** — breadth of stored, retrievable fact, explicitly not depth of insight, so an **encyclopedic** scholar may be original about nothing. Applied instead to a book, film, or style, the compliment inverts: catalogue-like, argument-free, everything and therefore flat."
+    },
+    {
+      "word": "all-encompassing",
+      "nuance": "Attaches to **abstractions with no boundary** — a theory, a vision, a grief, a love — never to a checklist or a search. It implies the thing has no outside at all, which is why it can awe (a definition that covers every case) or suffocate (an **all-encompassing** obsession leaves room for nothing else)."
+    }
+  ],
+  "exam_note": "The GRE tests charge, not coverage: a blank whose clause faults a work for having no argument or no selectivity wants **encyclopedic**, not the flatly complimentary **thorough**/**exhaustive** — and watch for **exhaustive** (nothing omitted) swapped for *exhausting* (nothing left in you)."
 }

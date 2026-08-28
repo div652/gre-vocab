@@ -8,5 +8,25 @@
     "noxious",
     "virulent"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four label something as actively damaging rather than merely bad — a force, substance, condition or utterance that works to injure whatever it touches. They differ on three axes: whether the harm is *toxic* or merely *unfavourable*, whether any *opposition* is implied, and whether the damage *spreads*. All four are formal, and all four condemn. Roughly ascending in severity as listed.",
+  "exam_note": "Two traps: **adverse** vs. *averse* (conditions vs. your reluctance — only *averse* describes a feeling), and **inimical**, dangled beside *hostile* to see if you'll demand a hater; usually the answer is an environment, not an enemy.",
+  "words": [
+    {
+      "word": "adverse",
+      "nuance": "The only one with no poison in it — the harm is purely relational, measured against some named interest (an **adverse** ruling, market, headwind). Weakest of the four: an adverse outcome can be a mere setback, and it attaches to conditions and results, never to a person's temper."
+    },
+    {
+      "word": "inimical",
+      "nuance": "Harm framed as *thwarting*: it comes with **to** and names what cannot survive it (**inimical** to growth, to free speech). Where *adverse* merely loads the dice against you, this says the whole environment is set against the thing's flourishing — structural opposition with nobody doing the opposing."
+    },
+    {
+      "word": "noxious",
+      "nuance": "The only one where the injury is literally toxic to bodies — fumes, weeds, chemicals that damage lungs, not smells that merely offend. It poisons what it touches but sits still doing it; applied to an ideology, the medical metaphor is the point, not decoration."
+    },
+    {
+      "word": "virulent",
+      "nuance": "Takes **noxious**'s poison and adds speed and contagion: aggressively destructive and *spreading*. It is also the only one that works on hostility coming out of a mouth — a **virulent** attack, virulent racism — where the venom, not just the damage, is being named."
+    }
+  ]
 }

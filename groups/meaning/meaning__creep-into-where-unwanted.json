@@ -8,5 +8,25 @@
     "appropriate",
     "officious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe crossing a line into territory — physical, legal, or personal — that belongs to someone else. What differs is *how* the line is crossed and *what is left behind*: a slow advance, a spreading footprint, an outright taking, or merely an unwanted presence. Two of them describe motion, one describes possession, one describes a personality.",
+  "words": [
+    {
+      "word": "encroach",
+      "nuance": "The only one that specifies a **rate**: **encroach** is advance by increments, each too small to fight over, and it always takes *on/upon* a named thing (rights, land, time). It describes the trespass while it is still in progress — nothing has been fully taken yet, which is why the word usually comes from the side losing ground and sounds like a warning."
+    },
+    {
+      "word": "invasive",
+      "nuance": "Not an advance but a **footprint** — something is already in and spreading. Uniquely in this group, **invasive** has a straight technical use with no blame in it (*invasive species*, *invasive procedure*); the accusation only appears when it's applied to a person's questions or attention. It also describes a thing or a property, never an act you perform on purpose."
+    },
+    {
+      "word": "appropriate",
+      "nuance": "Here the crossing is finished and the item has changed hands: **appropriate** ends in ownership, where the other three end merely in presence. It implies the taker had the standing to simply help themselves, which is what makes it cooler and more damning than *steal*. Watch the split senses — the bloodless budgetary one (*appropriate funds*) and the harmless adjective (*fitting*)."
+    },
+    {
+      "word": "officious",
+      "nuance": "The odd one out: nothing is taken and no territory is held — **officious** intrudes only into other people's business, and does it under the cover of being helpful. It describes a *character*, not an act or a spread, and its whole sting is the gap between the person's tiny authority and their large manner. Always an insult."
+    }
+  ],
+  "exam_note": "The classic trap is **appropriate** — the test hides the \"take without permission\" verb behind the familiar \"suitable\" adjective; **officious** is baited by its resemblance to *official* and *efficient*, when it means neither."
 }

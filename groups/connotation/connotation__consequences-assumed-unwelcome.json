@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__consequences-assumed-unwelcome",
+  "title": "Consequences assumed unwelcome",
+  "seed_words": [
+    "ramification",
+    "repercussion",
+    "exacerbate",
+    "escalate",
+    "compound"
+  ],
+  "hallucinated": null,
+  "core": "Every word here names an effect or an increase — things that in the abstract could go either way — but each has absorbed a negative default from the company it keeps. Nobody traces the happy strands, nobody warns of the delightful delayed echo, nobody intensifies a good situation with these verbs. The dictionary sense stays neutral; usage has made the bad reading automatic, so the word itself does the editorializing while pretending to be descriptive. The differences lie in *how* the badness arrives: sideways in branches, later at a distance, deeper into an existing wound, up a ladder of stages, or piled on by a second act.",
+  "words": [
+    {
+      "word": "ramification",
+      "nuance": "**Ramification** spreads *sideways* — the badness is in the breadth and in what you failed to map. The implied speaker is cautious and institutional (\"consider the legal ramifications\"), warning that the effects branch faster than anyone has counted. Unlike the others, it makes no claim that any single effect is severe; the threat is the tangle."
+    },
+    {
+      "word": "repercussion",
+      "nuance": "**Repercussion** travels *forward in time* and lands somewhere else — the delayed second-order hit, not the branch. Alone in this group it can be wielded as a threat with a human enforcer behind it: \"there will be repercussions\" promises deliberate punishment, whereas ramifications merely unfold on their own."
+    },
+    {
+      "word": "exacerbate",
+      "nuance": "**Exacerbate** needs a wound already open — it deepens an existing bad thing rather than adding anything new. Its subject is impersonal (a policy, a drought, a remark), so it assigns no blame, and its object is a named affliction: tensions, a shortage, an injury. Pure intensification, no stages, no second act."
+    },
+    {
+      "word": "escalate",
+      "nuance": "**Escalate** is the only one that moves in *rungs*, each provoking the next and each harder to climb back down — skirmish to war, quarrel to brawl. It also has the group's one genuinely neutral escape hatch: escalating a ticket to your manager moves the problem up an org chart without making it worse."
+    },
+    {
+      "word": "compound",
+      "nuance": "**Compound** requires a *second, separate act* laid on the first — the cover-up on the crash — which is why it quietly assigns fault where **exacerbate** doesn't: the first problem may have been bad luck, the compounding was a decision. It also imports the arithmetic of compound interest: the damage now feeds on itself."
+    }
+  ],
+  "exam_note": "The trap is a blank where a neutral word (increase, effect, result) fits the logic perfectly — the answer is whichever of these the sentence has pre-loaded: an existing affliction → exacerbate, a second act by the same agent → compound, a first rung → escalate, delay and distance → repercussion, unmapped breadth → ramification."
+}

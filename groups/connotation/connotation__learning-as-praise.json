@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__learning-as-praise",
+  "title": "Learning as Praise: What Exactly Is Being Complimented",
+  "seed_words": [
+    "erudite",
+    "polymath",
+    "encyclopedic",
+    "connoisseur",
+    "sagacious"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a compliment paid for knowing things, and all of them are formal enough to sound like a citation or an obituary. What separates them is *which* part of knowing gets the credit: where it came from, how far it spreads, how much of it can be recalled, how finely it discriminates, or whether it produces good decisions at all. Two of them praise stored knowledge, one praises trained taste, and one praises judgment that may rest on no book learning whatsoever. The GRE lives in that gap.",
+  "words": [
+    {
+      "word": "erudite",
+      "nuance": "Praises the **source**: this knowledge came out of books, and deep in one scholarly seam rather than spread across fields. It attaches happily to *writing* — an erudite essay, an erudite footnote — which none of the others do, and it alone carries the faint reek of the study: learned, possibly useless."
+    },
+    {
+      "word": "polymath",
+      "nuance": "Praises the **spread**, and only a noun for a person, never a description of their work. The claim is mastery of several *unrelated* fields at once — one deeply-read scholar is erudite, not a polymath, however many books he got through. It is the most reverent word here and the easiest to overclaim."
+    },
+    {
+      "word": "encyclopedic",
+      "nuance": "Praises **volume and retrieval** — how much is in there and how fast it comes back — with no claim about insight, taste, or judgment. It is the only one that will attach to a trivial subject without irony (encyclopedic knowledge of B-sides), and the only one that turns cold when moved off a person onto a book or a style, where it means exhaustive and argument-free."
+    },
+    {
+      "word": "connoisseur",
+      "nuance": "Praises **discrimination**, not quantity: the ability to rank, to tell the good from the nearly-as-good, in a domain where quality is a matter of taste. An encyclopedic collector knows every bottle; the connoisseur delivers the verdict. Uniquely among these, it is a word people apply to themselves — and the moment they do, it sneers."
+    },
+    {
+      "word": "sagacious",
+      "nuance": "Praises **judgment about what happens next**, and is the one word here that requires no learning at all — an unschooled negotiator can be sagacious, an erudite one need not be. It attaches to decisions and to reading people, and it is confirmed by outcomes: you call a call sagacious after it turns out right."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable praise: a sentence that specifies breadth (**polymath**), recall (**encyclopedic**), book-depth (**erudite**), fine judgment of quality (**connoisseur**), or foresight (**sagacious**) will make three of the other four positively wrong."
+}

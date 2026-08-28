@@ -8,5 +8,25 @@
     "circumspect",
     "skittish"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe a guard that hasn't been lowered — attention held because something might go wrong. They split on four axes: what the watching is pointed at (a specific party, a general threat, your own next move, nothing in particular), whether it's sustained or a reflex, whether it stops you acting, and whether the speaker admires you for it or is quietly mocking you. Two are compliments, one is neutral, one is a put-down.",
+  "exam_note": "Sentence equivalence loves pairing **wary** with **circumspect** — check whether the caution is pointed outward at a suspect thing or inward at your own next move; and check the sentence's tone, since **skittish** sneers where **vigilant** praises.",
+  "words": [
+    {
+      "word": "wary",
+      "nuance": "The only one with a named object — you are wary **of** someone, of an offer, of a clause in the contract. It's distrust of a particular party, and it doesn't stop you: you sign the deal, wary, watching his hands."
+    },
+    {
+      "word": "vigilant",
+      "nuance": "Not a reaction to any one suspect but a **post you hold** — sustained indefinitely, scanning for threat that may never come. It's the only member that's outright praise, and the only one that describes a duty rather than a feeling: sentries, auditors, night nurses."
+    },
+    {
+      "word": "circumspect",
+      "nuance": "The watching is aimed at **your own conduct**, not at an external threat — you survey the consequences and hold your tongue or your signature. Alone in the group it brakes action, and alone in the group it's formal: a diplomat is circumspect, a horse never is."
+    },
+    {
+      "word": "skittish",
+      "nuance": "The only involuntary one — a hair trigger, not a judgement, and the reaction is **out of proportion** to what caused it. Calling investors skittish says they're flinching rather than reasoning; the word belittles, and it drags along a whiff of the barnyard it came from."
+    }
+  ]
 }

@@ -1,0 +1,57 @@
+{
+  "kind": "antonym",
+  "id": "antonym__sound-reasoning-vs-rotten-reasoning",
+  "title": "Sound reasoning vs. rotten reasoning",
+  "seed_words": [
+    "cogent",
+    "coherent",
+    "rational",
+    "empirical",
+    "fallacious",
+    "specious",
+    "sophistry",
+    "spurious",
+    "tendentious"
+  ],
+  "hallucinated": null,
+  "core": "These are all verdicts on an argument rather than on the world: they judge how a claim was built, not whether the claim happens to be true. Half certify that the machinery works — the parts fit, the evidence is real, the conclusion follows. The other half say the machinery is broken or rigged, from an honest logical slip to an elegant construction designed to steer you. The trap in every one of them is the gap between reasoning and result: a well-built argument can reach a false conclusion, and a rotten one can stumble onto a true one.",
+  "words": [
+    {
+      "word": "cogent",
+      "nuance": "The only word here that says the argument *wins* — not merely that it hangs together but that it is tight enough to compel agreement. Coherence is the floor it stands on; **cogent** is the ceiling."
+    },
+    {
+      "word": "coherent",
+      "nuance": "Sets the lowest bar of the positive words: the parts don't contradict each other, and nothing more. A specious or tendentious argument is usually perfectly **coherent** — that's why the polish works. It is also the only one that can describe a person's ability to speak at all (\"barely coherent\")."
+    },
+    {
+      "word": "rational",
+      "nuance": "Judges the *reasoner's process*, not the finished argument on the page — which is why it attaches to people, decisions and policies as much as to arguments. Its enemy is emotion and impulse, never deception; a **rational** agent can be sincerely and coldly wrong."
+    },
+    {
+      "word": "empirical",
+      "nuance": "Alone in this group it grades the *source* of a claim — went-and-looked, not sat-and-thought. It is not praise and not a truth claim: its opposite is *theoretical*, so **empirical** data can prop up a wholly fallacious argument."
+    },
+    {
+      "word": "fallacious",
+      "nuance": "The only negative word compatible with complete sincerity — it convicts the logic, not the arguer. The step from premises to conclusion is broken, so the conclusion is unearned even on the occasions it happens to be true."
+    },
+    {
+      "word": "specious",
+      "nuance": "Adds the surface that **fallacious** doesn't require: it must *look* sound first. The insult is in the tailoring — plausible shape, respectable vocabulary — and in the implication that you inspected it and found the shine was the entire product."
+    },
+    {
+      "word": "sophistry",
+      "nuance": "The only noun, and the only charge of bad faith: the arguer knew better and argued anyway, enjoying his own cleverness. Where **fallacious** forgives a mistake, **sophistry** alleges intent."
+    },
+    {
+      "word": "spurious",
+      "nuance": "Attacks *standing*, not reasoning steps — the thing never had a legitimate basis, so there is nothing to refute. It's the only one that works with no arguer present at all: forged documents, spurious correlations thrown up by data."
+    },
+    {
+      "word": "tendentious",
+      "nuance": "Doesn't claim the logic is broken or the facts untrue — the slant lives in selection, framing and emphasis while the piece poses as neutral analysis. Unlike *biased*, which points at a blind spot, **tendentious** says the steering was engineered, and it attaches to a text, footnote or survey question rather than to a temperament."
+    }
+  ],
+  "exam_note": "The exam baits you into reading the negatives as \"false\" and the positives as \"true\"; sort them instead by what each actually grades — source (empirical), internal fit (coherent), force (cogent), a broken step (fallacious), deceptive polish (specious, sophistry), no basis at all (spurious), engineered slant (tendentious)."
+}

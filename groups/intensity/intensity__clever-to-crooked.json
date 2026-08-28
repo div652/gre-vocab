@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__clever-to-crooked",
+  "title": "Clever to crooked",
+  "seed_words": [
+    "artful",
+    "wily",
+    "crafty",
+    "devious"
+  ],
+  "hallucinated": null,
+  "core": "All four describe getting your way by wits and indirection rather than by force, candour, or the rules — the plan you didn't see forming, the question with a hook in it, the route that doesn't go straight. They share a peculiar tonal problem: the cleverness is genuinely impressive, so each word hovers somewhere between compliment and accusation. What separates them is how far along that arc each sits, and whether the word points at the talent or at the dirty method.",
+  "words": [
+    {
+      "word": "artful",
+      "nuance": "The only one with a clean, non-sly sense still alive — an **artful** arrangement of flowers is pure praise for taste. Even in the cunning sense it tends to attach to the *manoeuvre* (an artful dodge, an artful change of subject) rather than brand the person, so the craftsmanship stays in view."
+    },
+    {
+      "word": "wily",
+      "nuance": "The veteran's word: **wily** implies long experience and a weaker hand played beautifully — the old fox, the outgunned negotiator who outmanoeuvres the room. Nobody is wily by accident or on their first attempt, and calling an opponent wily concedes he beat you on brains."
+    },
+    {
+      "word": "crafty",
+      "nuance": "Small-bore and opportunistic. **Crafty** fits the kid talking his way out of chores or the real term buried in clause nine — quick native slyness with none of *wily*'s seasoned campaigner behind it, and no grand design."
+    },
+    {
+      "word": "devious",
+      "nuance": "The only reliably damning one, and the only one whose eye is on the **route** rather than the wit: the loops, the cover story, the third party who \"happened\" to mention it. It also keeps a literal geographic sense — a devious mountain track is merely winding, not dishonest."
+    }
+  ],
+  "exam_note": "Only **devious** is safely negative — a sentence admiring a shrewd strategist can take *artful*, *wily*, or *crafty*, so an approving blank eliminates *devious* first; watch also for the innocent literal senses of *artful* (tastefully contrived) and *devious* (winding)."
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__nerve-failing",
+  "title": "Nerve Failing",
+  "seed_words": [
+    "craven",
+    "timorous",
+    "diffident",
+    "irresolute",
+    "vacillate",
+    "skittish"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe a failure of nerve — someone who should act, commit, or hold firm, and doesn't. But the failure has different sources: fear of danger, fear of one's own inadequacy, or simple inability to settle on a course. They also differ in what the speaker is doing by using them: some deliver a moral verdict, some sketch a temperament, and one is merely condescending. The GRE cares less about the shared \"won't act\" and more about *why* the person won't and *how harshly* the sentence judges them.",
+  "words": [
+    {
+      "word": "craven",
+      "nuance": "The only moral verdict in the group. **Craven** requires a duty that was owed and dodged, usually to save one's own skin, so it attaches to acts — a craven surrender, a craven silence — not to a personality. It is an accusation hurled from an editorial page; the others merely describe."
+    },
+    {
+      "word": "timorous",
+      "nuance": "Fear as a settled temperament, not a decision or a duty. **Timorous** paints the body — shrinking, hedging, trembling before a choice — and is bookish enough that it faintly patronizes. Where *craven* condemns one act of cowardice, **timorous** says this is simply how the person is built."
+    },
+    {
+      "word": "diffident",
+      "nuance": "The only word here whose fear points inward. The **diffident** person isn't afraid of the danger, he's afraid he isn't good enough — self-doubt showing up as reserve, a half-raised hand. It's also the only one the speaker tends to sympathize with, usually implying the low self-estimate is wrong."
+    },
+    {
+      "word": "irresolute",
+      "nuance": "Strip out fear entirely and you have **irresolute**: the machinery of decision won't engage, or won't stay engaged once it has. It can describe someone who genuinely wants the outcome and still can't commit to it — the defect is in the will, not the nerves. A biographer's word for a general who lost by hesitating."
+    },
+    {
+      "word": "vacillate",
+      "nuance": "The only verb, and the only word requiring visible motion: **vacillating** means swinging *to* a position and then away, repeatedly, over time. An irresolute person may simply be frozen; a vacillating one keeps announcing decisions and unmaking them. The judgment is exasperation, not contempt."
+    },
+    {
+      "word": "skittish",
+      "nuance": "The only one that's a hair trigger rather than a disposition or a verdict — fine one second, bolting the next, at nothing. **Skittish** always implies the reaction outran the actual threat, which is why it condescends: it's said of horses, then of investors and markets. Too undignified ever to be tragic."
+    }
+  ],
+  "exam_note": "The trap is sentence-completion context: the blank's *cause* decides the answer — a threat outside you takes timorous/skittish, a low opinion of yourself takes diffident, an unmade decision takes irresolute/vacillate, and a betrayed obligation takes craven."
+}

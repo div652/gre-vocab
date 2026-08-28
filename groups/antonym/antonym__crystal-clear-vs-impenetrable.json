@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__crystal-clear-vs-impenetrable",
+  "title": "Crystal-clear vs. impenetrable",
+  "seed_words": [
+    "lucid",
+    "limpid",
+    "pellucid",
+    "intelligible",
+    "coherent",
+    "abstruse",
+    "recondite",
+    "opaque",
+    "turbid",
+    "convoluted",
+    "byzantine",
+    "impenetrable"
+  ],
+  "hallucinated": null,
+  "core": "Every word here answers one question: can meaning get from the page to the reader? On one side, the ones that say yes — but they set wildly different bars, from a bare \"the sounds were words\" to a literary compliment about beauty and calm. On the other, the ones that say no — and they differ on *why* no: because the subject itself is deep, because the maker tangled it, because sediment is stirred up in it, or because the surface simply gives nothing back. The exam cares less about clear-vs-unclear than about which bar and which cause.",
+  "words": [
+    {
+      "word": "lucid",
+      "nuance": "**Lucid** praises the mind behind the words: hard material was understood well enough to be made effortless. It's the only one here with a clinical life — a *lucid interval* is a break in confusion, and it presumes the confusion."
+    },
+    {
+      "word": "limpid",
+      "nuance": "**Limpid** praises the surface, not the achievement — stillness, transparency, an untroubled pool. Where *lucid* implies difficulty conquered, **limpid** implies there was never any turbulence to begin with; it's a reviewer's and eulogist's word, not a conversational one."
+    },
+    {
+      "word": "pellucid",
+      "nuance": "**Pellucid** is *limpid* with light coming through it — not merely see-through but luminous. It's the most lyrical of the three and the most willing to sit on physical things (a stream, glass, air) and on prose alike."
+    },
+    {
+      "word": "intelligible",
+      "nuance": "**Intelligible** certifies only that the meaning arrived; it says nothing about grace. That's why it lives in the negative or the grudging — *barely intelligible* — and why, applied to speech, it implies the listener was straining. (Philosophy hardens it: the *intelligible* world versus the *sensible*.)"
+    },
+    {
+      "word": "coherent",
+      "nuance": "**Coherent** is about parts fitting, not about a surface being clear — and never about being right, since a conspiracy theory can be flawlessly coherent. For an argument it's the floor ('a coherent strategy' insults the rival); for a person it's lower still ('barely coherent' means drunk or concussed)."
+    },
+    {
+      "word": "abstruse",
+      "nuance": "**Abstruse** locates the difficulty in the content — you'd need the training. But it carries a faint complaint that the writer chose depth where plain would have served, which *recondite* does not."
+    },
+    {
+      "word": "recondite",
+      "nuance": "**Recondite** is remoteness and depth without accusation: years of study, not hidden doors (*arcane*) or an in-group (*esoteric*). It's the only difficulty word here that can be admiring — of a monograph it's near-praise, of a dinner guest it's a polite way of saying nobody followed him."
+    },
+    {
+      "word": "opaque",
+      "nuance": "**Opaque** is a total barrier rather than a hard climb — the surface returns nothing, so squinting doesn't help. Because transparency is the civic virtue, calling a ruling or a procurement process opaque implies the blockage was chosen."
+    },
+    {
+      "word": "turbid",
+      "nuance": "**Turbid** is murk that's *suspended* — something stirred the bottom and it hasn't settled, so the clarity was available and got spoiled. It stays physically precise (river surveys use it), unlike *murky*, which drifts into moral vagueness."
+    },
+    {
+      "word": "convoluted",
+      "nuance": "**Convoluted** blames the path, not the depth: the thing is twisted where it could have run straight. It's the word for a sentence, an excuse, or an accounting scheme, and it hints the tangle is doing work for someone."
+    },
+    {
+      "word": "byzantine",
+      "nuance": "**Byzantine** is *convoluted* scaled up to a whole system — codes, procedures, bureaucracies — and it adds the charge that the intricacy shields insiders. Always a complaint, never neutral."
+    },
+    {
+      "word": "impenetrable",
+      "nuance": "**Impenetrable** is absolute and ungradable: *dense* prose rewards effort, **impenetrable** prose has no entrance at all. Alone in this group it keeps a fully live physical sense (jungle, armour, fog), and applied to a face it means totally unreadable."
+    }
+  ],
+  "exam_note": "The trap is matching register and cause, not polarity: on the clear side it swaps a compliment (limpid, pellucid) for a bare threshold (intelligible, coherent); on the murky side it swaps difficulty-of-subject (abstruse, recondite) for fault-of-maker (convoluted, byzantine, turbid) or total blockage (opaque, impenetrable)."
+}

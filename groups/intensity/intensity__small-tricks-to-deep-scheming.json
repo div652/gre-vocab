@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__small-tricks-to-deep-scheming",
+  "title": "Small Tricks to Deep Scheming",
+  "seed_words": [
+    "ploy",
+    "chicanery",
+    "skullduggery"
+  ],
+  "hallucinated": null,
+  "core": "All three name getting your way by cunning rather than force — deception, indirection, working an angle the other side can't see. Every one of them is a judgement passed by an observer: nobody describes their own conduct this way. What separates them is size and setting: one clever move, a whole method of exploiting the rules, or a general climate of sneaky dealing. Register splits them too, from courtroom-formal to newspaper-jokey.",
+  "words": [
+    {
+      "word": "ploy",
+      "nuance": "The only countable single move in the group — you can have three ploys; you can't have three chicaneries. It's also the mildest, and the only one that can be near-harmless: a delaying ploy, a marketing ploy, a ploy to keep the kids quiet. Saying it means you've already seen through it, which is why it deflates rather than condemns."
+    },
+    {
+      "word": "chicanery",
+      "nuance": "The rules themselves are the weapon — loopholes, quibbles, page-40 clauses, procedural motions. Formal register and a professional setting (lawyers, accountants, election officials); the perpetrator typically stays technically within the law and wins anyway. Where a ploy is a move, this is a whole method, and it needs a rulebook to exploit."
+    },
+    {
+      "word": "skullduggery",
+      "nuance": "The informal, half-amused word for shady dealing as a general condition — backroom bargains, rigged committees, quiet double-crossing — rather than one tactic or one loophole. Its jokey sound is functional: it's what you reach for when you're sure something crooked happened but can't name or prove the mechanism. Never appears in an indictment."
+    }
+  ],
+  "exam_note": "The trap is register, not meaning: contexts marked *legal, procedural, technically-permitted* want **chicanery**, jocular or unproven *something-fishy* contexts want **skullduggery**, and a sentence describing one discrete tactic (especially a harmless one) wants **ploy** — all three fit the blank's negative sense, so only the surrounding tone decides."
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__short-tempered-by-degree",
+  "title": "Short-tempered by degree",
+  "seed_words": [
+    "petulant",
+    "querulous",
+    "fractious",
+    "irascible"
+  ],
+  "hallucinated": null,
+  "core": "All four describe someone who is unpleasant to be around because they are perpetually a little angry — irritable, hard to satisfy, prone to snapping or grumbling. All four are judgments passed from outside; nobody applies them to themselves. What separates them is the *shape* of the temper: how loud it is, whether it comes out as a whine or a fight, whether it's a passing sulk or a lifelong disposition, and how much force the word grants the anger.",
+  "words": [
+    {
+      "word": "petulant",
+      "nuance": "**Petulant** attacks the proportion, not the heat: the grievance is too small for the reaction, and the reaction is a child's — a pout, a huff, a slammed drawer. It's the only one here that describes a single sulky episode rather than a settled temperament, and the only one that strips the anger of all adult standing."
+    },
+    {
+      "word": "querulous",
+      "nuance": "**Querulous** is the only one that specifies a *sound* — the complaint is spoken aloud, in a thin, whining, put-upon register. There is no fight in it and no threat; the person is weak, not dangerous, which is why writers attach it to the old, the sick, and the worn-out. Petulance flares; querulousness drones on."
+    },
+    {
+      "word": "fractious",
+      "nuance": "**Fractious** adds friction with others: resisting, squabbling, refusing to be managed. It's the only one that takes a collective subject — a fractious coalition, crew, or parliament is one liable to split — and its typical tone is the weary detachment of a nanny or a political correspondent describing a nuisance, not a menace."
+    },
+    {
+      "word": "irascible",
+      "nuance": "**Irascible** is the only one about ignition speed as a permanent trait, and the only one whose anger has real force behind it. It says nothing about pouting or whining — only that the fuse is short and always has been. It's also the only one that can arrive with admiration attached: *the irascible old genius*."
+    }
+  ],
+  "exam_note": "The sentence tells you which one by its subject and its trigger — a squabbling group takes **fractious**, a whining voice takes **querulous**, a trivial slight takes **petulant**, a forty-year reputation takes **irascible**; and only **irascible** survives a context that admires the person."
+}

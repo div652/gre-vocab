@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__energy-gone-pity-attached",
+  "title": "Energy gone, pity attached",
+  "seed_words": [
+    "lassitude",
+    "torpor",
+    "lethargic",
+    "enervate",
+    "languish",
+    "ennui"
+  ],
+  "hallucinated": null,
+  "core": "All of these describe a collapse of energy or will that is framed as something happening *to* someone rather than a fault they chose — which is why none of them carry the scolding of *lazy*, *idle*, or *slothful*. The sympathy is built in: heat, illness, neglect, or sheer stagnation drained the subject, and the observer is meant to feel sorry, not annoyed. They split along four axes: part of speech, whether the cause is named, whether the state is bodily or mental, and how much literary self-regard the word carries.",
+  "exam_note": "Two traps: **enervate** looks like *energize* and reverses meaning, and **ennui** is boredom, not tiredness — a rested, healthy aristocrat can be full of it.",
+  "words": [
+    {
+      "word": "lassitude",
+      "nuance": "The one that lives in the **mood**, not the muscles — the will is gone before the body is, and there's a melancholy droop to it that plain exhaustion lacks. Reach for it when the weariness is atmospheric: a sickroom, a heatwave, a decaying empire."
+    },
+    {
+      "word": "torpor",
+      "nuance": "The most **total and least emotional** — not drooping but inert, closer to a stopped clock than a sad one, with a metabolic-shutdown literalism the others don't have. It's also the group's institutional word: bureaucracies and provincial towns sink into torpor, never into lassitude."
+    },
+    {
+      "word": "lethargic",
+      "nuance": "The only **neutral-register, everyday** member, and the only adjective — the word a doctor or a parent actually uses out loud. It foregrounds **drowsiness** and a specific recent cause (flu, jet lag, a heavy lunch), so it implies temporary and fixable where the nouns imply settled."
+    },
+    {
+      "word": "enervate",
+      "nuance": "The only **transitive** one: it names the **agent** doing the draining, so the grammar itself supplies a culprit — swamp heat, luxury, bureaucracy. It also carries a whiff of **moral softening**, the suggestion that the victim has gone soft, not merely tired."
+    },
+    {
+      "word": "languish",
+      "nuance": "The only one that needs a **place and a duration** — you languish *in* prison, obscurity, committee, for years — and the only one pointing blame at a **third party** who failed to rescue you. Fading is half the meaning; being stuck and unrescued is the other half."
+    },
+    {
+      "word": "ennui",
+      "nuance": "The odd one out: the deficit is **interest, not strength** — nothing is worth doing, though you could do it. Its speaker sounds cultivated rather than pitiable, so it's the one word here that functions as a **boast**; it belongs to people with the leisure to be bored."
+    }
+  ]
+}

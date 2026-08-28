@@ -1,0 +1,42 @@
+{
+  "kind": "connotation",
+  "id": "connotation__obscurity-blamed-on-the-writer",
+  "title": "Obscurity Blamed on the Writer",
+  "seed_words": [
+    "abstruse",
+    "convoluted",
+    "byzantine",
+    "obfuscate",
+    "tortuous",
+    "turbid"
+  ],
+  "hallucinated": null,
+  "core": "All six say the same thing: I could not follow this, and that is your fault. None is neutral — each carries an implied accusation that the difficulty was avoidable, that a clearer version existed and wasn't written. What separates them is *what the difficulty is made of* — depth, murk, knots, detours, institutional sprawl — and *how much intent* the speaker is willing to allege, from mild suspicion up to flat charge of bad faith.",
+  "words": [
+    {
+      "word": "abstruse",
+      "nuance": "The only one where the difficulty is genuinely in the *content*: the ideas are deep and specialist, and the prose may be perfectly straight. Blame here is a raised eyebrow, not a charge — the speaker suspects plainer treatment was possible but concedes the subject really is hard."
+    },
+    {
+      "word": "turbid",
+      "nuance": "Murk, not shape. Nothing is tangled or knotted — it's simply opaque, sediment stirred up so you can't see through. It's also the only one with a live technical literal sense (water samples, river surveys), which is why applying it to prose stings: you clouded a thing that would have settled clear on its own."
+    },
+    {
+      "word": "convoluted",
+      "nuance": "Knots. The parts are folded back on each other so you lose the thread — you can't tell what depends on what. Where turbid prose is opaque, convoluted prose is legible sentence by sentence and incomprehensible as a whole."
+    },
+    {
+      "word": "tortuous",
+      "nuance": "Detour, not knot. It *does* arrive — by way of everywhere else. The complaint is length and indirection, so it fits a negotiation, a chain of reasoning, or a road; and unlike convoluted's tangle, the parts stay in order, there are just far too many of them."
+    },
+    {
+      "word": "byzantine",
+      "nuance": "Reserve it for *systems* — tax codes, bureaucracies, permit processes, org charts — never for a single sentence. It adds scale and an inside: the intricacy is old, accreted, and profits whoever already knows the channels."
+    },
+    {
+      "word": "obfuscate",
+      "nuance": "The only verb, so it's the only one that names an agent and pins intent — the others describe a result that might be incompetence. And its method is addition: you obfuscate by piling jargon, clauses, and caveats on top of a fact, not by omitting it."
+    }
+  ],
+  "exam_note": "Every word here is negative, so tone gets you nowhere — the answer turns on what the obscurity is made of (depth / murk / knots / detours / institutions) and whether the sentence blames a person, which only **obfuscate** does outright; also watch the **tortuous**/*torturous* swap, which is about twisting, not pain."
+}

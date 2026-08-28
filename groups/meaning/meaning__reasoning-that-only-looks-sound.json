@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__reasoning-that-only-looks-sound",
-  "title": "Reasoning that only looks sound",
+  "title": "Specious, Fallacious, Sophistry, Spurious: reasoning that only looks sound",
   "seed_words": [
     "specious",
     "fallacious",
     "sophistry",
     "spurious"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four are formal, negative verdicts delivered after inspection: something presented as legitimate has been examined and found not to hold up. They differ on two axes. First, **what is broken** — the logical machinery of the argument, or its very right to be taken seriously. Second, **whether anyone meant it** — these words run from an honest mistake in the steps, through a suspiciously well-polished surface, to a flat accusation of knowing deceit. Choosing wrongly either accuses a sincere person of lying or lets a liar off as merely confused.",
+  "words": [
+    {
+      "word": "fallacious",
+      "nuance": "The only one of the four that is neutral about the arguer's motives — **fallacious** locates the defect purely in the inference, so a sincere person can be fallacious all day. It also has technical teeth the others lack: you can usually name the fallacy (affirming the consequent, post hoc). Note the sting is that the conclusion is *unearned*, not necessarily untrue."
+    },
+    {
+      "word": "specious",
+      "nuance": "Unlike **fallacious**, this word is about *appearance* — it says the thing was built to survive a first glance and fail a second. Attach it to a single argument, excuse or claim, not to a person or a body of work, and only when the surface plausibility is the point. **Specious** implies you did the second look; **fallacious** implies you did the logic."
+    },
+    {
+      "word": "sophistry",
+      "nuance": "The one noun in the group, and the only outright accusation of bad faith: it says the arguer *knows* and argues anyway, with visible pleasure in his own cleverness. Where **specious** describes a flaw the arguer might not have noticed, **sophistry** names a practice — a whole style of arguing, not one bad step. Reserve it for the tobacco lawyer, not the confused undergraduate."
+    },
+    {
+      "word": "spurious",
+      "nuance": "The odd one out: it attacks *standing*, not reasoning, so it reaches things that don't argue at all — a forged charter, a fake pedigree, a correlation thrown up by noise. Calling an argument **fallacious** or **specious** engages with it; calling it **spurious** refuses to, saying it never had a legitimate basis to begin with. And it needs no deceiver — data produce spurious results with nobody lying."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable synonyms for \"false\": look for context clues about *blame* (sincere error → fallacious; deliberate → sophistry) and about *what* is defective (the inference → fallacious/specious; the origin or legitimacy → spurious)."
 }

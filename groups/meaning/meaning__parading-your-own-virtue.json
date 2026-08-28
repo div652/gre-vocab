@@ -8,5 +8,25 @@
     "hypocrite",
     "posturing"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four live in the gap between virtue displayed and virtue actually held. Each is a way of saying *the moral show exceeds the moral substance* — but they indict different things: the smug tone, the empty costing-nothing gesture, the person's failure to live their own rule, or the pose adopted purely for leverage. Three are pure accusations; one can still be a compliment. The trap is that they overlap heavily in bad-faith contexts and almost not at all in good-faith ones.",
+  "words": [
+    {
+      "word": "sanctimonious",
+      "nuance": "Indicts the **tone**, not the conduct: moral superiority aimed downward at the listener. You can be sanctimonious about a virtue you genuinely have — the offence is the sighing lecture, not the failure. It's the only one of these that describes a manner of speaking."
+    },
+    {
+      "word": "pious",
+      "nuance": "The only word here that can be sincere praise — it alone describes real religious devotion. Its sneer is conditional, switched on by the noun it modifies (*pious hope*, *pious platitude*), which lets a writer disparage while keeping deniability. The others announce their hostility immediately."
+    },
+    {
+      "word": "hypocrite",
+      "nuance": "The only person-noun, and the only charge about **conduct** rather than performance: professing a standard you don't live by. No display, tone, or audience required — a quiet hypocrite still qualifies. It's also the harshest of the four, because it convicts the whole person as counterfeit rather than criticising one behaviour."
+    },
+    {
+      "word": "posturing",
+      "nuance": "Secular and strategic — often not about morality at all. It fits a threat, a negotiating stance, or a party's position, and what it denies is any **intention to act**, not any claim to goodness. The posturer wants leverage; the sanctimonious want to look good."
+    }
+  ],
+  "exam_note": "The classic bait is offering *hypocritical* when the sentence only establishes an insufferable tone (→ **sanctimonious**), or *sanctimonious* when the sentence establishes an empty gesture with no moral preaching (→ **posturing**); watch for **pious** in ironic pairings like *pious hope*, where the neutral gloss is the wrong reading."
 }

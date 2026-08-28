@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__twinge-to-crushing-remorse",
+  "title": "Twinge to crushing remorse",
+  "seed_words": [
+    "qualm",
+    "chagrin",
+    "contrite"
+  ],
+  "hallucinated": null,
+  "core": "All three name a private pang of self-directed discomfort — the feeling that something has gone wrong and that you are implicated. They differ on two axes at once: **timing** (before the act, at the moment of exposure, after the wrong) and **stakes** (a flicker of hesitation, a bruised ego, a crushed conscience). Only the first and last are about conscience at all; the middle one is about dignity, which is exactly what makes the trio treacherous. Intensity climbs steeply across them, and so does what the feeling costs you to admit.",
+  "words": [
+    {
+      "word": "qualm",
+      "nuance": "The only one that comes **before** the act — a hesitation you could still act on, not a reaction to something already done. It is also the only one you routinely meet negated: \"no qualms about\" is the default phrase, and it praises or condemns decisiveness rather than describing remorse. Small enough that having one costs you nothing."
+    },
+    {
+      "word": "chagrin",
+      "nuance": "The odd man out on the moral axis: it is triggered by **losing face**, not by doing wrong. You feel it when you're outdone, outsmarted, or proved wrong in public, and it's laced with irritation — at the situation, at yourself — rather than sorrow. Restrained and faintly comic in \"much to my chagrin\"; you swallow it, you don't confess it."
+    },
+    {
+      "word": "contrite",
+      "nuance": "The heaviest, and the only adjective describing a whole posture rather than a passing feeling: genuine fault admitted, defences down, no excuses. It presumes a real wrong done to someone, so it's the only one of the three that implies you owe an apology. Watch that it attaches to visible behavior — *looks contrite*, *sounds contrite* — which is precisely how the word gets used sceptically."
+    }
+  ],
+  "exam_note": "The trap is treating **chagrin** as mild guilt: the exam builds sentences where the trigger is a bruised ego (being upstaged, proved wrong) and rewards you only for noticing that no wrongdoing occurred — while **qualm** is baited by its negation, so read for whether the sentence needs \"hesitated\" or \"didn't hesitate.\""
+}

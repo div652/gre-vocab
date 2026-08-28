@@ -1,11 +1,27 @@
 {
   "kind": "root",
   "id": "root__bene",
-  "title": "Root: bene (well) + facere (to do)",
+  "title": "Root: bene- (well) + facere (to do) — beneficent / benevolent / benign",
   "seed_words": [
     "beneficent",
     "benevolent",
     "benign"
   ],
-  "auto": true
+  "auto": true,
+  "core": "All three descend from Latin *bene*, \"well,\" and all three tell you that something is on your side — or at least not against you. The differences are about **how far the goodness travels**: from actually handing over the money, to merely wishing you well, to simply not hurting you. They also differ in what they attach to: two describe agents with the power to help, one mostly describes effects, conditions, and things that turn out not to be dangerous. Read them as a descending scale of commitment, not as synonyms for \"kind.\"",
+  "words": [
+    {
+      "word": "beneficent",
+      "nuance": "The only one that requires **something to have been done**. It attaches to agents who have already conferred a concrete benefit — a patron, a foundation, a monarch who funded the hospital. If no benefit changed hands, it is the wrong word."
+    },
+    {
+      "word": "benevolent",
+      "nuance": "Stops at **the wish**. It describes a disposition — good will held by someone in a position to act on it, whether or not they do. This gap between intent and deed is exactly what makes *benevolent dictator* and *benevolent employer* so easy to turn sardonic."
+    },
+    {
+      "word": "benign",
+      "nuance": "Purely **negative in force**: it certifies the absence of harm, not the presence of good. It is the only one of the three that comfortably describes non-agents — a tumour, a climate, a policy, an amendment — and the only one that can apply to something that does nothing at all for you (*benign neglect*)."
+    }
+  ],
+  "exam_note": "The trap is treating them as interchangeable \"kind\": GRE contexts reward **benign** when the passage says a feared thing proved harmless, **benevolent** when goodwill is stated but unspent, and **beneficent** only when an actual benefit was delivered."
 }

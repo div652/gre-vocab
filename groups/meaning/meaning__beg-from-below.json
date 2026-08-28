@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__beg-from-below",
-  "title": "Beg from below",
+  "title": "Begging, from dignified to abject",
   "seed_words": [
     "entreat",
     "supplicate",
     "grovel",
     "fawn"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe approaching someone who holds power over you and trying to move them — by asking, by kneeling, by apologising, by flattering. What separates them is not the request but the **dignity**: how much of it the asker keeps, whether the surrender is chosen or merely witnessed, and whether the observer respects the person or is embarrassed for them. The list runs from composed pleading down to self-abasement. Two of them can only be said *about* someone, never *by* them.",
+  "words": [
+    {
+      "word": "entreat",
+      "nuance": "The only one where dignity survives intact. **Entreat** is what the powerless say with their posture unchanged and their manners on — the force comes from affection or respect, not desperation, and the observer thinks no less of them. It's also the only word here you can apply to yourself without irony (\"I entreated him to reconsider\")."
+    },
+    {
+      "word": "supplicate",
+      "nuance": "Adds the **body**: kneeling, hands out. The abasement is deliberate and often ritually correct — this is the word for prayer, for petitioning a king, for the defeated asking mercy, where lowering yourself is the proper form. Contempt enters only when the setting is ordinary; \"supplicated for a raise\" is withering precisely because no altar was involved."
+    },
+    {
+      "word": "grovel",
+      "nuance": "The abasement is the **observer's verdict**, not a ritual. **Grovel** attaches to one occasion and usually to an apology that overshot — you grovel for forgiveness, for an extension, after a screw-up. No one claims it for themselves except as a joke, and it makes the reader wince on the person's behalf."
+    },
+    {
+      "word": "fawn",
+      "nuance": "The only one that isn't a request. **Fawn** is ongoing courtship of favour — hovering, agreeing, laughing too hard — with nothing specific being asked for, aimed at a boss, a celebrity, a rich uncle. Doggish and physical, and it takes *over* or *on*: you fawn over someone, whereas you entreat or supplicate them directly."
+    }
+  ],
+  "exam_note": "The exam hides a register swap: a courteous, respected plea needs **entreat**, but the tempting wrong answers (**grovel**, **fawn**) drag in contempt the sentence never earned — and **fawn** fails outright whenever something specific is actually being asked for."
 }

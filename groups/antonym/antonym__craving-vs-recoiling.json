@@ -1,0 +1,72 @@
+{
+  "kind": "antonym",
+  "id": "antonym__craving-vs-recoiling",
+  "title": "Craving vs. recoiling",
+  "seed_words": [
+    "relish",
+    "cherish",
+    "affinity",
+    "penchant",
+    "predilection",
+    "avid",
+    "abhor",
+    "loathe",
+    "aversion",
+    "antipathy",
+    "repugnant",
+    "odious"
+  ],
+  "hallucinated": null,
+  "core": "Every word here marks the direction of a pull: toward a thing or away from it. What separates them is not which side they sit on but four other things — **how much heat** (a mild standing preference vs. a shudder), **how deep the root goes** (a taste you picked up vs. something built into you), **whether a moral claim is being made** (bad for me vs. wrong in itself), and **what the word is grammatically doing** — describing the thing, naming a state you're in, or reporting an act of feeling. Get those four right and the pairs line up across the axis.",
+  "words": [
+    {
+      "word": "relish",
+      "nuance": "The only attraction word that is **performed** — the pleasure shows, and it's often taken in something others would find unpleasant (a fight, an opponent's bad news). Its negation is the group's trapdoor: *I don't relish it* means dread, not indifference."
+    },
+    {
+      "word": "cherish",
+      "nuance": "The one that **protects**. It attaches to what is precious and could be lost — a person, a memory, a hope — and adds duration and tenderness rather than appetite. You cannot cherish gossip or a corner table."
+    },
+    {
+      "word": "affinity",
+      "nuance": "Claims the pull is **built in, not acquired** — and it is the only member that needs no feeling at all, which is why elements and languages have affinities. Exact mirror of *antipathy*. The preposition sorts the sense: **for** = liking, **with/between** = kinship."
+    },
+    {
+      "word": "penchant",
+      "nuance": "A **publicly known** fondness — the thing people would list about you — usually attached to something slightly frivolous: loud jackets, late arrivals, good champagne. Lighter and more indulgent than *predilection*; wryly noted rather than diagnosed."
+    },
+    {
+      "word": "predilection",
+      "nuance": "A preference **already formed before the case arrives**, so it can colour judgement — the one word here that quietly implies bias. Formal and mild, never passionate: you have one for Belgian beer or lost causes, not for your spouse."
+    },
+    {
+      "word": "avid",
+      "nuance": "The only **adjective of appetite** on the attraction side, and the hungriest: an avid reader has made the hobby a habit, while *avid for revenge* is naked craving. *Eager* spikes before one event; **avid** is a standing hunger."
+    },
+    {
+      "word": "abhor",
+      "nuance": "Hatred aimed at **practices and principles**, not persons — cruelty, hypocrisy, torture. Formal and lofty, the top of the scale, and using it announces the speaker's moral line as much as it condemns the thing."
+    },
+    {
+      "word": "loathe",
+      "nuance": "The **gut** version: physical revulsion, no principle required, plain register. That's why it survives comic exaggeration — everyone loathes Mondays, while nobody abhors them and *aversion* would sound clinical."
+    },
+    {
+      "word": "aversion",
+      "nuance": "The **coolest and mildest** recoil: it wants distance, not destruction, and usually from an activity rather than a person (conflict, paperwork, cold water). Its clinical tone reports a gut reaction without heat — *risk aversion*, *aversion therapy*. Always **to**, never *of*."
+    },
+    {
+      "word": "antipathy",
+      "nuance": "Dislike that is **standing and often unaccountable** — felt before it can be justified, which makes it the true opposite of *affinity*. Cold rather than hot, and unlike *aversion* it sits comfortably on people and groups: *public antipathy toward the mayor*."
+    },
+    {
+      "word": "repugnant",
+      "nuance": "An adjective that puts the fault **in the thing**: it violates a principle, so the speaker is refusing on ethical grounds, not reporting a taste. Carries a second, drier GRE sense — **incompatible, contradictory** (a clause repugnant to the contract)."
+    },
+    {
+      "word": "odious",
+      "nuance": "Says the thing **deserves** to be hated and asks the listener to agree — denunciation, not description. Ranges wider than *repugnant*, covering tyrants, laws, comparisons and mere chores, but never trivia: a bad sandwich is not odious."
+    }
+  ],
+  "exam_note": "The GRE hides the direction rather than the intensity — negated attraction words (*did not relish*, *not averse to*) and the affinity/antipathy mirror let a blank flip polarity while the sentence around it stays neutral."
+}

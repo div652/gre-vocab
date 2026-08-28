@@ -1,7 +1,7 @@
 {
   "kind": "root",
   "id": "root__tendere",
-  "title": "Root: tendere (to stretch)",
+  "title": "Root: tendere (to stretch) — which way is it pulling?",
   "seed_words": [
     "contend",
     "distend",
@@ -9,5 +9,29 @@
     "portend",
     "tendentious"
   ],
-  "auto": true
+  "auto": true,
+  "core": "Latin *tendere* meant to stretch, strain, or pull taut — and every word here is a different answer to the question *stretched in which direction?* Something can be strained against an opposing force, pushed outward from within, let slack after being pulled tight, stretched forward in time, or pulled steadily toward one conclusion. The root gives you the tension; it never gives you the direction, and the direction is the entire meaning. These are five destinations from one starting point, which is why recognizing the root without pinning the vector is worse than useless.",
+  "words": [
+    {
+      "word": "contend",
+      "nuance": "**Contend** is stretching *against* — the tension runs between you and someone pushing back. Alone in this group it requires an opponent: a rival claim, a rival competitor, a stubborn problem. It's also the only one whose normal subject is a person."
+    },
+    {
+      "word": "distend",
+      "nuance": "**Distend** is stretching *outward from inside* — pressure within forcing the walls out. The vocabulary of bellies, veins, balloons, and corpses; clinical and faintly repellent. Unlike everything else here it describes a physical shape, never an argument, a mood, or a forecast."
+    },
+    {
+      "word": "détente",
+      "nuance": "**Détente** is the tension *released* — *dé-* undoes the stretch. The only noun here and the only positive one, it names the moment two hostile parties stop pulling. Note what it withholds: no warmth, no settlement, just lowered weapons. It presupposes the hostility that **contend** enacts."
+    },
+    {
+      "word": "portend",
+      "nuance": "**Portend** stretches *forward in time* — the present reaching ahead to a future, and nearly always a grim one. Its subjects are things, not people: clouds, silence, a sagging quarterly number. Solemn where *indicate* is flat."
+    },
+    {
+      "word": "tendentious",
+      "nuance": "**Tendentious** is the steady pull *toward a predetermined conclusion*, hidden under a neutral surface. It attaches only to made things — a study, a footnote, a documentary — never to a person's character and never to a physical object. The charge isn't that the piece argues (that's **contend**, done in the open) but that it pretends not to be arguing."
+    }
+  ],
+  "exam_note": "The GRE baits root-spotters: the sentence supplies tension, two *tendere* words match the vibe, and only one matches the vector — fix whether the stretch is against, outward, slackening, forward, or toward before you fill the blank."
 }

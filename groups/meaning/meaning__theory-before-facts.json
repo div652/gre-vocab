@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__theory-before-facts",
-  "title": "Theory before facts",
+  "title": "Rigid by Doctrine: dogmatic, doctrinaire, ideologue, martinet",
   "seed_words": [
     "dogmatic",
     "doctrinaire",
     "ideologue",
     "martinet"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe someone whose fixed system outranks the situation in front of them: the conclusion was reached before the evidence arrived, and no case is allowed to change it. Each is an accusation — never self-applied — and each names a different site of the rigidity: the way beliefs are asserted, the way theory is applied, the person defined by the system, or the way rules are enforced. The split that matters is whether the rigidity is about ideas at all, or merely about procedure.",
+  "words": [
+    {
+      "word": "dogmatic",
+      "nuance": "**Dogmatic** locates the fault in *delivery* — the flat, unarguable assertion. It's the only one of the four that scales down to a single trivial opinion (dogmatic about coffee, about Kubrick); it needs no political system behind it, just a tone that ends the conversation. It also modifies utterances and manner, not only people: a dogmatic tone, a dogmatic pronouncement."
+    },
+    {
+      "word": "doctrinaire",
+      "nuance": "**Doctrinaire** locates the fault at the point of *application* — the theory meets a concrete case and refuses to bend to it. It presupposes a named body of thought and collocates with it (*doctrinaire Marxist*, *doctrinaire free-market policy*), and its usual damage is practical: the policy fails while the doctrine stays pristine. You can be dogmatic in a bar; you're doctrinaire in a committee room."
+    },
+    {
+      "word": "ideologue",
+      "nuance": "**Ideologue** is a noun and a whole identity — not a manner or a habit but a classification of the person by the system they serve. Its home turf is political writing, where it sits directly opposite *pragmatist*: the ideologue turns down the workable deal on principle. Where doctrinaire faults the reasoning, ideologue faults the man."
+    },
+    {
+      "word": "martinet",
+      "nuance": "**Martinet** involves no doctrine at all — the rigidity is about rules and discipline, not beliefs, so it can be paired with total intellectual emptiness. It requires a chain of command: it takes people with power over subordinates (officer, boss, hall monitor) and fixates them on trivia — the untucked shirt, the wrong-coloured ink — while the rule's purpose goes unserved."
+    }
+  ],
+  "exam_note": "The trap is **martinet**: GRE blanks that say only \"rigid,\" \"unyielding,\" \"inflexible\" will bait you toward it when the sentence is actually about *ideas* (choose dogmatic/doctrinaire/ideologue) — martinet is right only when the context supplies subordinates and rules to enforce."
 }

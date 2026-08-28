@@ -1,0 +1,32 @@
+{
+  "kind": "intensity",
+  "id": "intensity__free-spending-to-ruinous-waste",
+  "title": "Free spending to ruinous waste",
+  "seed_words": [
+    "lavish",
+    "extravagant",
+    "prodigal",
+    "profligate"
+  ],
+  "hallucinated": null,
+  "core": "All four describe outflow that exceeds the normal measure — money, resources, or praise going out in quantities most people would not spend. What separates them is how much blame the speaker loads onto that outflow: whether it is simply a lot, more than the occasion called for, or an act of ruin the speaker is condemning. The scale runs from admiring abundance to a moral verdict on the spender. Three of the four also detach from money entirely and attach to claims, praise, or character.",
+  "words": [
+    {
+      "word": "lavish",
+      "nuance": "The only one that can be pure compliment — **lavish** measures volume poured out and leaves the verdict open, so a host earns it as praise. It also uniquely works as a transitive verb (*lavish attention on*), which none of the others do."
+    },
+    {
+      "word": "extravagant",
+      "nuance": "**Extravagant** is the proportion word: the thing overshot its occasion. That makes it the one that governs *claims, theories, praise* as naturally as spending — an extravagant hypothesis asserts more than the evidence bought. Critical, but the criticism can be affectionate or amused."
+    },
+    {
+      "word": "prodigal",
+      "nuance": "**Prodigal** names the outcome: it was squandered until nothing was left, typically wealth someone else built. The reproach falls on a person's character rather than on one purchase — and the word says nothing whatsoever about returning, whatever the parable suggests. Watch for the innocent sense with *of* (*prodigal of praise*)."
+    },
+    {
+      "word": "profligate",
+      "nuance": "**Profligate** is the accusation you level at institutions and treasuries — the standard term in budget fights, where it indicts the spender, not the sum. It alone carries a live second sense of *dissolute, shamelessly immoral*, so a profligate youth may have wasted no money at all."
+    }
+  ],
+  "exam_note": "The trap is money: GRE sentences most often use these of praise, claims, and character, and reward the reader who picks **extravagant** for an overreaching theory or **profligate** for a dissolute life."
+}

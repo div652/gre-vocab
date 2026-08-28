@@ -1,12 +1,32 @@
 {
   "kind": "meaning",
   "id": "meaning__dull-and-unimaginative",
-  "title": "Dull and unimaginative",
+  "title": "Dull: flat, plodding, flavourless, empty",
   "seed_words": [
     "prosaic",
     "pedestrian",
     "insipid",
     "vapid"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four are verdicts of failure-to-interest, not failure-to-function. The thing described is usually competent, inoffensive, even correct — it simply gives the mind nothing to hold. Each word indicts a different missing ingredient: imagination, lift, flavour, substance. All are the critic's side of the transaction, so the speaker is always positioning as someone who expected more.",
+  "words": [
+    {
+      "word": "prosaic",
+      "nuance": "The only one that can describe something **true and useful** — the prosaic explanation is the correct, unglamorous one that deflates a thrilling theory. It faults plain matter-of-factness rather than incompetence, and it keeps its prose-versus-verse anchor: it attacks the absence of poetry in writing, in an account, in a life."
+    },
+    {
+      "word": "pedestrian",
+      "nuance": "The metaphor is locomotion, not flavour or fact: the work walks where it could have flown. Uniquely, it grants effort and competence — someone is genuinely plodding forward with their own material — and measures it against a flight that never happened. Reserved for made things judged as craft: prose, music, a solo, an argument."
+    },
+    {
+      "word": "insipid",
+      "nuance": "The taste word, and the only one still literal on food. It implies a critic who sampled attentively and found nothing — the thing had content and that content had no savour. More literary and more withering than *boring*: a lecture is boring, a novel is **insipid**."
+    },
+    {
+      "word": "vapid",
+      "nuance": "Faults substance rather than flavour, and typically strikes at things that are perfectly pleasant on the surface — a smile, small talk, a pop song. Its favourite targets are people and their chatter, not craftsmanship, and it carries the most open snobbery of the four: not *I was bored* but *there was nothing there to be interested in*."
+    }
+  ],
+  "exam_note": "Sentence Equivalence loves the insipid/vapid pair — but check whether the blank faults taste (insipid) or emptiness (vapid); also watch prosaic used approvingly for the plain true explanation, and pedestrian's decoy noun sense."
 }

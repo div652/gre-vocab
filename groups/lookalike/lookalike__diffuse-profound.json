@@ -1,12 +1,28 @@
 {
   "kind": "lookalike",
   "id": "lookalike__diffuse-profound",
-  "title": "diffuse / profound / profuse",
+  "title": "diffuse / profuse / profound",
   "seed_words": [
     "diffuse",
     "profound",
     "profuse"
   ],
   "similarity": 0.62,
-  "auto": true
+  "auto": true,
+  "core": "Three words that look almost interchangeable on the page and all suggest, vaguely, \"a lot of something.\" Two of them come from *fundere*, to pour, and describe how something is distributed — thinly across a space, or in a torrent out of a source. The third only looks like a pouring word: it comes from *fundus*, bottom, and measures depth rather than amount. The GRE's trap is that all three attach comfortably to the same abstract nouns — apologies, silence, changes, prose — while saying completely different things about them.",
+  "words": [
+    {
+      "word": "diffuse",
+      "nuance": "The only one of the three that means **less in any one place**: the quantity is unchanged, the concentration is lost. It spreads *apart* — light through frosted glass, authority across a committee. As criticism of writing it faults the structure, never the supply of material, so it sits opposite *concise* and *pointed*, not opposite *empty*."
+    },
+    {
+      "word": "profuse",
+      "nuance": "Spreads *out of a source*, not across a space — high volume, low control, pouring faster than anyone wanted. It attaches to things that literally stream (sweat, blood, tears) and to social gestures performed past the point of comfort (**profuse** apologies, thanks, praise). It rates quantity and rate only; it says nothing about depth or sincerity, which is exactly why profuse thanks can be hollow."
+    },
+    {
+      "word": "profound",
+      "nuance": "Not a pouring word at all — the axis is vertical. It carries no idea of spread, volume, or excess, so nothing is ever *too* **profound** the way thanks can be too profuse. Two jobs: praise for insight that reaches bedrock, and flat description of something reaching all the way down with no compliment attached — profound deafness, profound ignorance."
+    }
+  ],
+  "exam_note": "Watch the collocation swap: *profuse apologies* (too many) vs *profound regret* (deeply felt) vs a *diffuse* apology (rambling) — the exam counts on the shared -f- spelling to make you pick by sound instead of by axis: thinned-out, poured-out, or deep."
 }

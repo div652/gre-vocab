@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__asking-to-abasement",
+  "title": "Asking to abasement",
+  "seed_words": [
+    "entreat",
+    "supplicate",
+    "grovel"
+  ],
+  "hallucinated": null,
+  "core": "All three describe asking someone who holds power over you, humbly and with feeling — not a horizontal request between equals. What separates them is how much of the asker's dignity is spent in the asking, and whether the writer approves. The scale runs from a plea that leaves the asker's standing intact, through one that formally surrenders it, to one the observer finds degrading. Choosing wrongly doesn't change the action described; it changes what the sentence says about the person doing it.",
+  "words": [
+    {
+      "word": "entreat",
+      "nuance": "**Entreat** is the only one here that costs the asker nothing in standing — the plea is earnest but composed, and it typically leans on affection, loyalty, or respect rather than on a power gap. A wife entreats her husband, a subject entreats a king, and neither is diminished by it. Its faint archaism makes it the elevated, not the abject, choice."
+    },
+    {
+      "word": "supplicate",
+      "nuance": "**Supplicate** puts the asker's body into it — kneeling, hands out, position formally surrendered. Unlike the others it has a legitimate ritual home in prayer and formal petition, where the abasement is expected; drag it into ordinary life (\"supplicated for a raise\") and the incongruity turns witheringly ironic."
+    },
+    {
+      "word": "grovel",
+      "nuance": "**Grovel** is the observer's verdict, not a description of the plea: it says the self-abasement went further than the situation warranted and was performed for someone with power. No one applies it to their own conduct except as a joke, and it reliably lowers the reader's estimate of the person doing it."
+    }
+  ],
+  "exam_note": "The exam hinges these on the sentence's attitude, not its action — a clue like \"with quiet dignity\" or \"without losing composure\" forces **entreat**, an explicit power gap or kneeling image forces **supplicate**, and any word of contempt from the narrator forces **grovel**."
+}

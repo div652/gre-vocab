@@ -8,5 +8,25 @@
     "disperse",
     "diffuse"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four take something concentrated in one place and move it outward until it covers a wide area. The tests that separate them are mechanical: does the thing multiply as it travels, does the original mass survive, is there an intended recipient, and does the spreading make it weaker. Some of these verbs care about the message arriving; others care only that the clump broke up.",
+  "words": [
+    {
+      "word": "disseminate",
+      "nuance": "The only one whose object is essentially always **content** — findings, guidelines, propaganda — and the only one with an intended audience it was aimed at. **Disseminate** is a deliberate institutional push from a source that stays intact and keeps sending; ministries and journals disseminate, wind and crowds do not."
+    },
+    {
+      "word": "propagate",
+      "nuance": "**Propagate** is the self-replicating one: each recipient becomes a new transmitter, so the quantity grows rather than merely travels. That's why it fits cuttings, signals, and software errors — and why, aimed at a belief, it accuses you of knowingly multiplying something false."
+    },
+    {
+      "word": "disperse",
+      "nuance": "**Disperse** is about the mass, not the message — there is no recipient and nothing is transmitted, only a concentration that stops being one. Uniquely, it can be issued as an order to people (police disperse a crowd), and its success is measured by the gathering ceasing to exist."
+    },
+    {
+      "word": "diffuse",
+      "nuance": "**Diffuse** ends in evenness and weakness: the thing spreads until it's uniformly present and nowhere strong. It's also the only member with a common adjective sense, and on the GRE that adjective is a criticism of prose — everything present, no centre, so nothing lands."
+    }
+  ],
+  "exam_note": "Expect **diffuse** as an adjective in a sentence about writing (paired against concise/trenchant), not as a verb — and expect **propagate** where a careless reader picks **disseminate**, since only propagate implies the thing reproduces itself as it goes."
 }

@@ -1,0 +1,37 @@
+{
+  "kind": "connotation",
+  "id": "connotation__feeling-laid-on-too-thick",
+  "title": "Feeling Laid On Too Thick",
+  "seed_words": [
+    "mawkish",
+    "cloying",
+    "sentimental",
+    "lugubrious",
+    "rhapsody"
+  ],
+  "hallucinated": null,
+  "core": "Every one of these says the same structural thing: the feeling on display is larger than the occasion earns. The criticism is never that emotion is present — it's that it has been poured on past the point where an audience can absorb it, so the display stops persuading and starts embarrassing. What separates them is *which* feeling is overdone (sweetness, tenderness, grief, enthusiasm), whether the excess attaches to a person, a made thing, or a manner of delivery, and how much contempt the speaker is signing their name to.",
+  "exam_note": "The GRE hides the answer in the *flavor* of the excess, not the excess itself — a clue about sugar points to cloying, about funerals to lugubrious, about gushing praise to rhapsodize; pick on emotion type and these stop being interchangeable.",
+  "words": [
+    {
+      "word": "mawkish",
+      "nuance": "**Mawkish** is a verdict on craft: it accuses a made thing — a film, a eulogy, a poem — of manufacturing feeling it never earned. Unlike *cloying*, which can describe a perfectly sincere dessert, **mawkish** implies someone was working the audience, and the speaker is announcing they didn't fall for it."
+    },
+    {
+      "word": "cloying",
+      "nuance": "**Cloying** is the only one that works on literal sweetness — icing, perfume, a liqueur — and it keeps that palate metaphor even when aimed at a film. It also has a time signature the others lack: the thing was pleasant first, and became **cloying** through unrelieved repetition. Nothing is cloying at first bite."
+    },
+    {
+      "word": "sentimental",
+      "nuance": "**Sentimental** is the only member that can be affectionate, and the only one that describes a *person's disposition* rather than a product or a performance — a man who keeps his grandmother's chipped teacup. Turned on a novel or an argument it becomes a put-down, but it's the mild one: it says cheap, where **mawkish** says nauseating."
+    },
+    {
+      "word": "lugubrious",
+      "nuance": "**Lugubrious** is the odd emotion out — grief, not sweetness. And it lands on *manner*: the drooping face, the sighing voice, the funeral-organ delivery. It's the only word here that reliably tips into comedy (a lugubrious waiter, a lugubrious basset hound), which is why using it on someone actually bereaved reads as mockery."
+    },
+    {
+      "word": "rhapsody",
+      "nuance": "**Rhapsody** is a noun, and its excess is *enthusiasm* — upward, not soppy or grim. Its failure mode is formlessness rather than sugar: the praise has run off its leash and won't stop. It's also the one that can be genuinely sincere and even endearing; **rhapsodize** earns a raised eyebrow at the length, not the feeling."
+    }
+  ]
+}

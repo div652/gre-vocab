@@ -1,0 +1,62 @@
+{
+  "kind": "antonym",
+  "id": "antonym__brisk-vs-dragging",
+  "title": "Brisk vs. Dragging",
+  "seed_words": [
+    "alacrity",
+    "expedite",
+    "nimble",
+    "frenetic",
+    "dawdle",
+    "dilatory",
+    "plodding",
+    "ponderous",
+    "sluggish",
+    "languid"
+  ],
+  "hallucinated": null,
+  "core": "Every word here is a verdict on **tempo** — how fast someone or something moves through a task, and what that speed reveals. The first four sit on the fast end, the rest on the slow end, but neither end is a single idea: speed can mean willingness, deftness, or chaos, and slowness can mean heaviness, obstruction, illness, or style. The GRE cares less about which end a word sits on than about *what it blames or praises* — the pace is only the surface. Get the attitude behind the tempo wrong and every one of these looks interchangeable.",
+  "words": [
+    {
+      "word": "alacrity",
+      "nuance": "The only word here that rates **willingness** rather than motion — the speed is evidence of gladness. It's a noun about the doer's spirit, and it needs a person; a machine, a market, and a shipment can be fast, but none of them can act with **alacrity**."
+    },
+    {
+      "word": "expedite",
+      "nuance": "The only transitive one: something else gets sped up, and you're the one with the clout to do it. **Expedite** presumes a stalled *system* — a queue, a claim, a file — so the speed comes from removing obstacles, not from moving faster yourself."
+    },
+    {
+      "word": "nimble",
+      "nuance": "Speed with **control and lightness** — the ability to change direction, not just to go. It's the precise antonym of *ponderous*, and it's the only fast word here that also praises a mind: **nimble** thinking sidesteps rather than accelerates."
+    },
+    {
+      "word": "frenetic",
+      "nuance": "Speed with the governor off. Where the other three imply competence or good will, **frenetic** describes a *scene* — a floor, a schedule, a pace — that looks out of control, and it's the one fast word that can be an outright complaint."
+    },
+    {
+      "word": "dawdle",
+      "nuance": "Slowness with **no motive at all**: the dawdler is genuinely en route, just drifting. That aimlessness is what keeps it mild and domestic — nobody accuses a contractor of **dawdling** in a legal letter, which is exactly where *dilatory* belongs."
+    },
+    {
+      "word": "dilatory",
+      "nuance": "The delay is a **charge**, not an observation: avoidable, and possibly deliberate. **Dilatory** is the one slow word that implies a grievance with a paper trail — it appears in filings, memos and reports, and it can describe a tactic (*dilatory motions*) as well as a person."
+    },
+    {
+      "word": "plodding",
+      "nuance": "Slow, heavy, and **dull — but it finishes**. Alone among these, it leaves competence intact and can carry grudging respect (*plodding but thorough*); the attack is on spark and imagination, never on reliability."
+    },
+    {
+      "word": "ponderous",
+      "nuance": "**Mass** is the literal core — the thing is too heavy to move gracefully. Applied to prose or a speaker, that weight becomes self-importance: where *plodding* is trudging effort, **ponderous** is grandeur that sinks under itself."
+    },
+    {
+      "word": "sluggish",
+      "nuance": "Slowness read as a **symptom of a fault** — an engine, a market, a digestive system, a response time. Nobody chooses it and nothing attractive is ever called it, which is precisely what separates it from the equally slow but sometimes flattering *languid*."
+    },
+    {
+      "word": "languid",
+      "nuance": "The one slow word that can be a **compliment**. It's aesthetic and literary — a languid gesture is stylishly unhurried, not diagnosed as broken — and even its weak sense (*languid after the fever*) stays poetic where **sluggish** would sound clinical."
+    }
+  ],
+  "exam_note": "Antonym-style items love the clean pairs (nimble/ponderous, alacrity/reluctance, dilatory/prompt); the real trap is sentence equivalence, where two slow words fit the blank but only one carries the sentence's implied blame, symptom, or admiration."
+}

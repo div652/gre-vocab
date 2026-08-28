@@ -8,5 +8,25 @@
     "craven",
     "skittish"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four describe nerve failing — fear or self-doubt standing between a person and the action they could take. What separates them is *where the fear comes from and how the speaker judges it*: a settled trembling temperament, a low estimate of one's own worth, a duty abandoned to save one's skin, or a hair trigger that fires at nothing. Two of them describe a person's steady character, one describes a moment of reactivity, and one is less a description than a charge laid against someone. Get the source wrong and you get the word wrong.",
+  "exam_note": "The trap is over-reading: sentences that merely establish hesitancy will bait you toward **craven**, which requires a betrayed duty; and **diffident** is regularly confused with *indifferent*, which it has nothing to do with.",
+  "words": [
+    {
+      "word": "timorous",
+      "nuance": "The fear is of *deciding* — of the moment where you'd have to commit. It's a chronic condition, not an episode, and the register is bookish enough that it works on abstractions: timorous prose, a timorous policy, a board that hedges every quarter. Faintly withering, but it accuses no one of anything worse than shrinking."
+    },
+    {
+      "word": "diffident",
+      "nuance": "The only one where the fear points inward: not at danger but at yourself. A diffident person may be perfectly brave — they simply won't press their own claim, speak first, or believe they've earned the room. And the speaker is usually on their side, implying the low self-estimate is mistaken."
+    },
+    {
+      "word": "craven",
+      "nuance": "Not a temperament but a verdict. It requires a duty that was owed and dropped — a capitulation, a silence, a surrender — and it says the motive was self-preservation. Nobody applies it to themselves; it's an accusation, at home in an editorial, and it condemns the choice rather than describing a feeling."
+    },
+    {
+      "word": "skittish",
+      "nuance": "Reactivity, not character: fine one second, bolting the next, over a plastic bag. It carries the built-in judgment that the reaction outran the threat, so it quietly calls the subject *unreasonable* rather than weak — which is why it attaches so easily to horses, investors, and markets. Always a little belittling; never tragic."
+    }
+  ]
 }

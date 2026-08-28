@@ -8,5 +8,25 @@
     "escalate",
     "fester"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All four take a situation that is *already* bad and describe it getting worse — none of them can start from neutral. They split on **mechanism and blame**: whether the worsening comes from an outside force acting on the problem, from a second act piled on top of it, from the problem's own step-by-step momentum, or from nobody touching it at all. The GRE tests exactly that split, because the sentence always tells you *how* the deterioration happened even when it doesn't say so outright.",
+  "words": [
+    {
+      "word": "exacerbate",
+      "nuance": "The purest \"more severe\" of the group — no story about how, just intensity dialled up on an existing condition. Needs an **impersonal agent** doing it from outside (a policy, a drought, a tactless remark exacerbates the shortage); it never happens on its own, and people rarely exacerbate things. It is also the most formal: the chart-and-editorial word."
+    },
+    {
+      "word": "compound",
+      "nuance": "Demands a **second, separate act** layered on the first — the crash, then the lie about the crash. That extra act is a choice, so the word quietly assigns blame in a way the others don't, and it implies multiplication rather than mere addition: the two harms feed each other like compound interest."
+    },
+    {
+      "word": "escalate",
+      "nuance": "The only one that names a **ladder of stages**, each rung provoking the next — skirmish to war, argument to lawsuit. It needs no external agent because the conflict drives itself, and it usually attaches to a confrontation between parties rather than to a condition. Note the neutral office sense: escalating a ticket to your manager moves it upward, not downward."
+    },
+    {
+      "word": "fester",
+      "nuance": "The cause is **nothing happening**. Time plus neglect is the whole mechanism, so the blame is for the delay, not for any act. It also changes the kind of badness rather than the amount: a festering grievance has turned septic and poisonous, and the implication is that it was fixable early and no longer is."
+    }
+  ],
+  "exam_note": "Sentence-equivalence sets bait the plain intensifiers: if the clue is a second act, the answer is **compound**; if it's untouched-for-years, **fester**; if it's stage-by-stage escalation between parties, only **escalate** fits — **exacerbate** is the safe-looking wrong answer in all three."
 }

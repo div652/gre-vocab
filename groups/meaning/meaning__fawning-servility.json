@@ -9,5 +9,29 @@
     "subservient",
     "supplicate"
   ],
-  "hallucinated": null
+  "hallucinated": null,
+  "core": "All of these describe a person placing himself beneath someone with power over him, and all but one carry the observer's contempt built in. The differences are what kind of lowering it is: a standing condition versus a single performance, obedience versus flattery versus begging, and whether the abasement is aimed at getting something specific. Note also who speaks — these are almost all third-party verdicts, words for what the behaviour looks like from outside, not what it feels like from inside.",
+  "words": [
+    {
+      "word": "subservient",
+      "nuance": "The only one that needs no flattery, no praise, no hovering — **subservient** is about surrendered *judgment*, a standing condition of obeying rather than any performance of pleasing. It's also the only one that takes non-human subjects (*form subservient to function*), where it means merely subordinate and carries no sneer at all."
+    },
+    {
+      "word": "obsequious",
+      "nuance": "**Obsequious** is a character verdict on manner — the settled style of a person, not something he did once — and it is the group's most explicitly *strategic*: the flatterer is working an angle. It's the adjective for the courtier and the yes-man, where the servility has become the whole personality."
+    },
+    {
+      "word": "fawn",
+      "nuance": "**Fawn** is affection-shaped: praise, fussing and physical eagerness aimed at one specific person, close up. It borrows the dog's posture — the evident delight is what disgusts the onlooker, since the fawner appears to *enjoy* the person he's flattering rather than merely calculate."
+    },
+    {
+      "word": "grovel",
+      "nuance": "**Grovel** is an episode, not a trait, and it is the group's floor: the body all the way down. It's the word for apology and pleading gone past dignity, so it usually follows a wrong or a refusal — you grovel *for forgiveness* — and it's the one people will admit to about themselves, ruefully, after it worked."
+    },
+    {
+      "word": "supplicate",
+      "nuance": "**Supplicate** is asking, not flattering or obeying — and it's the only member that can be honourable, since prayer and formal petition are its home ground. The humility is deliberately assumed rather than shamefully exposed; drop it into ordinary office life and the formality itself turns withering."
+    }
+  ],
+  "exam_note": "The trap is **supplicate**: it's the one word here that isn't automatically contemptible, so a reverent or religious context wants it and rejects the rest — and conversely, **subservient** is the only one that fits an inanimate subject."
 }

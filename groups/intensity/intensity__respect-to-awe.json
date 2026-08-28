@@ -1,0 +1,27 @@
+{
+  "kind": "intensity",
+  "id": "intensity__respect-to-awe",
+  "title": "Respect to awe",
+  "seed_words": [
+    "estimable",
+    "august",
+    "numinous"
+  ],
+  "hallucinated": null,
+  "core": "All three say something deserves to be looked up to, and all three are formal enough that a plain \"impressive\" would sound wrong. What separates them is how much the thing looming over you, and what the response is: measured approval, deference, or a chill down the spine. They also scale by what they can attach to — a competent person, an ancient institution, a place where you feel watched.",
+  "words": [
+    {
+      "word": "estimable",
+      "nuance": "The weakest and the only one that is a *judgment* rather than a reaction — you have assessed the person and found the merits creditable. It attaches to individuals and their work, never to a cathedral or a mountain, and its coolness is the point: \"my estimable colleague\" is respect measured out in advance of an attack."
+    },
+    {
+      "word": "august",
+      "nuance": "Here the standing does the work, not your assessment — the person or body already commands deference, usually through age, rank, or accumulated institutional weight. Unlike **estimable**, it applies to assemblies, courts, and halls, not to a merely capable individual; unlike **numinous**, nothing supernatural is implied — the awe is entirely social."
+    },
+    {
+      "word": "numinous",
+      "nuance": "The only one with dread in it. Where **august** makes you straighten your posture, **numinous** makes the hair stand up: a felt presence, vastly larger than you and possibly attentive. It attaches to places and experiences rather than to people or institutions, and it is literary rather than merely formal — overuse it and you sound like you are overclaiming."
+    }
+  ],
+  "exam_note": "The exam leans on register and target: a sentence about a *committee* or *jurist* wants **august**, a sentence about a *scholar's record* wants **estimable**, and only a sentence with dread, mystery, or the divine in it takes **numinous** — pick by what the adjective is modifying, not by how impressive the thing sounds."
+}

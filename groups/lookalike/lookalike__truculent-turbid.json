@@ -1,7 +1,7 @@
 {
   "kind": "lookalike",
   "id": "lookalike__truculent-turbid",
-  "title": "truculent / turbid / turbulent…",
+  "title": "truculent / turbid / turbulent / turgid",
   "seed_words": [
     "truculent",
     "turbid",
@@ -9,5 +9,25 @@
     "turgid"
   ],
   "similarity": 0.71,
-  "auto": true
+  "auto": true,
+  "core": "Four negative adjectives separated by two or three letters, and two of them genuinely descend from the same Latin *turba*, \"disorder.\" All four can be aimed at bad writing, which is where the GRE lives. But they diagnose four unrelated failures: a hostile temperament, an unclear medium, unstable motion, and bloated bulk. The letters overlap; the meanings barely touch.",
+  "words": [
+    {
+      "word": "truculent",
+      "nuance": "**Truculent** is the only one of the four that needs a mind behind it — it describes a person's stance, scowling and daring you to start something. No churning, no swelling, no murk, just settled hostility. Look for it attached to a witness, a teenager, a shop steward, or a review out to draw blood."
+    },
+    {
+      "word": "turbid",
+      "nuance": "**Turbid** is about *transparency*: sediment suspended in liquid so you can't see through it. Applied to prose, the charge is that the reader can't make out what's being said — opacity, not size or violence. Note that turbid water is perfectly still; the stirring already happened."
+    },
+    {
+      "word": "turbulent",
+      "nuance": "**Turbulent** is about *motion and stability* — heaving, unpredictable, refusing to hold still. Nothing is clouded and nothing is swollen; a turbulent stream can be crystal clear. It's the one that attaches naturally to a stretch of time (*a turbulent decade*), and its disorder is impersonal, aimed at no one."
+    },
+    {
+      "word": "turgid",
+      "nuance": "**Turgid** is about *volume*: swollen past its proper size. Turgid prose is usually perfectly comprehensible — that's why it's exhausting; you understand every ponderous clause and resent all of them. Where turbid writing hides a meaning, turgid writing inflates a small one."
+    }
+  ],
+  "exam_note": "The trap is turbid vs. turgid in a sentence about bad writing: if the blank blames obscurity, it's turbid; if it blames pomp or bloat, it's turgid."
 }
