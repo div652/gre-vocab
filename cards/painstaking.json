@@ -1,0 +1,42 @@
+{
+  "word": "painstaking",
+  "pos": "adj.",
+  "pron": "PAYNZ-tay-king",
+  "pron_note": "Parse it pains-taking, not pain-staking — there's a z sound, and no \"stake\" in it.",
+  "means": "Done with **extreme care and thoroughness**, attending to every small detail; of a person, willing to put in that grinding, unglamorous effort.\n\nThis is a compliment, and a slightly awed one — it credits *patience and stamina*, not talent. **Meticulous** describes the standard of the result; **painstaking** describes the labour behind it, the hours nobody saw. It attaches naturally to slow, fiddly work: a painstaking translation, a painstaking reconstruction, painstaking research. Call a five-minute job painstaking and it sounds sarcastic.",
+  "trap": "⚠️ **painstaking ≠ painful.** Painstaking work is *hard on the worker's patience* but praised; painful work simply hurts. The pain in *painstaking* is taken voluntarily.",
+  "trick_line": "You **take pains** — you don't feel them. The pains are the price of the care.",
+  "trick_unpack": "Split the word at the right seam — *pains-taking* — and it stops meaning \"agonising\" and starts meaning \"willing to go to trouble.\"",
+  "sentences": [
+    "The catalogue is the product of forty years of **painstaking** archival work, each attribution traced to a surviving receipt.",
+    "She spent the whole weekend **painstakingly** peeling the old labels off, one corner at a time."
+  ],
+  "in_the_wild": "The phrase film studios and museums live by: *\"painstakingly restored\"* — the label on every 4K remaster and every cleaned-up old painting, doing the work of telling you how many quiet hours went into it.",
+  "etymology": "From the old idiom **to take pains** = *to go to trouble*, where **pains** means effort, not hurt — the same sense in *\"he was at pains to explain.\"*\n\nBehind it is Latin **poena** = *penalty, price paid*, which also gives **penalty, penal, penitent, subpoena, punish** — and *pine* (to pine away). Effort as the price you pay is the thread.",
+  "one_line": "Extremely careful and thorough; done with patient, laborious attention.",
+  "root": "poena (penalty, price paid)",
+  "root_family": [
+    "penalty",
+    "penal",
+    "penitent",
+    "subpoena",
+    "punish",
+    "pine"
+  ],
+  "confusables": [
+    "painful",
+    "staking"
+  ],
+  "sense_tags": [
+    "meticulous",
+    "diligent",
+    "thorough",
+    "laborious",
+    "careful"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    22
+  ]
+}

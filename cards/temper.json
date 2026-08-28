@@ -1,0 +1,44 @@
+{
+  "word": "temper",
+  "pos": "v. / n.",
+  "pron": "TEM-per",
+  "pron_note": null,
+  "means": "**Verb (the GRE sense):** to **moderate something strong by mixing in its opposite** — justice tempered with mercy, ambition tempered by caution.\n**Verb (technical):** to **toughen** metal or glass by controlled heating and cooling.\n**Noun:** your habitual state of mind (*an even temper*), or the loss of it (*lost his temper*).\n\nTo temper is not to cancel. Nothing is deleted — a counterweight is added until the thing sits in proportion, so the result is *balanced*, not *diluted*. That's why the metal sense isn't a contradiction: tempered steel isn't softer steel, it's steel brought into balance and made harder to shatter. And note the pull of the verb's usual objects — you temper enthusiasm, expectations, criticism, zeal: always something running hot.",
+  "trap": "⚠️ **temper ≠ tamper.**\n- **temper** = moderate it, bring it into balance\n- **tamper (with)** = meddle with it, interfere improperly\n\nA jury's verdict can be tempered by mercy; a juror can be tampered with.",
+  "trick_line": "**Temper** hides **temp**erature — you don't kill the heat, you *regulate* it.",
+  "trick_unpack": "Both senses run through that one idea: the smith tempers the blade by controlling the heat rather than removing it, and you temper a claim by dialling it down, not dropping it.",
+  "sentences": [
+    "The judge **tempered** the severity of the sentence with an acknowledgment of the defendant's youth.",
+    "Great news, but let's **temper** expectations — one good quarter isn't a turnaround."
+  ],
+  "in_the_wild": "The **tempered glass** screen protector on your phone — same word, and it shows the sense the definition hides: tempering made that glass *tougher*, not weaker.",
+  "etymology": "Latin **temperāre** = *\"to mix in due proportion.\"* That proportion-mixing idea fans out into a family worth owning: **temperature** (the degree of heat), **temperate** (a mild climate, a moderate person), **temperance** (restraint in drink), **temperament** (your personal mix), **distemper** (a bad mix — disorder, disease).",
+  "one_line": "Moderate by mixing in the opposite; also, toughen by heat.",
+  "root": "temperāre (to mix in due proportion, to moderate)",
+  "root_family": [
+    "temperature",
+    "temperate",
+    "temperance",
+    "temperament",
+    "distemper",
+    "tempera"
+  ],
+  "confusables": [
+    "tamper",
+    "temperate",
+    "temperament",
+    "distemper"
+  ],
+  "sense_tags": [
+    "moderating",
+    "mitigating",
+    "restraint",
+    "toughening",
+    "disposition"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    22
+  ]
+}

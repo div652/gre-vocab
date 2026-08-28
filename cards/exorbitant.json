@@ -1,0 +1,39 @@
+{
+  "word": "exorbitant",
+  "pos": "adj.",
+  "pron": "ig-ZOR-buh-tuhnt",
+  "pron_note": "The x is a soft \"gz\", not \"ks\" — ig-ZOR, never eks-OR.",
+  "means": "Far beyond what is reasonable or customary — **grossly excessive**.\n\nIn practice it attaches to **prices, fees, rents, salaries, demands, claims** — things measured in money or scale. *Expensive* is a fact; **exorbitant** is a verdict, and an indignant one: it says the amount has left the range any fair person would accept. Slightly formal, common in journalism and complaint letters, and almost always spoken by the person being charged, never the person charging.",
+  "trap": null,
+  "trick_line": "**Ex-ORBIT-ant** — the price has left orbit.",
+  "trick_unpack": "*Orbit* is sitting right there in the middle of the word, and that's literally the metaphor: a normal price stays in its track, an exorbitant one flies off it.",
+  "sentences": [
+    "The tribunal found the landlord's demands **exorbitant**, some four times the prevailing rent for comparable flats.",
+    "Forty quid for a burger and a Coke? That's **exorbitant**, mate."
+  ],
+  "in_the_wild": "The word the internet reaches for every time Ticketmaster's checkout page adds its **exorbitant** service fees — a near-fixed collocation with \"fees.\"",
+  "etymology": "Latin **ex-** (*out of*) + **orbita** (*a wheel-track, a rut*) — literally **\"off the track.\"** Originally a legal term for a case that fell outside the ordinary course of law; the sense narrowed to prices that fall outside the ordinary range.\n\nSame **orbita/orbis** (*circle, wheel*) gives you **orbit**, **orbital**, and **orb**.",
+  "one_line": "Wildly excessive — usually a price far beyond fair.",
+  "root": "orbita (wheel-track, rut), from orbis (circle)",
+  "root_family": [
+    "orbit",
+    "orbital",
+    "orb",
+    "exorbitance"
+  ],
+  "confusables": [
+    "exuberant",
+    "extortionate"
+  ],
+  "sense_tags": [
+    "excessive",
+    "overpriced",
+    "unreasonable",
+    "extravagant"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    26
+  ]
+}

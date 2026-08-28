@@ -1,0 +1,44 @@
+{
+  "word": "substantiate",
+  "pos": "v.",
+  "pron": "suhb-STAN-shee-ayt",
+  "pron_note": null,
+  "means": "To **support a claim with evidence** — to show that an assertion, charge, or rumour actually holds up.\n\nIt presupposes a claim already floating in the air and under suspicion: you substantiate *allegations*, *rumours*, *charges*, *a story*. Compare its neighbours — **verify** is a neutral fact-check, **corroborate** means a *second* independent source agrees with the first, while substantiate is the burden falling on the person who spoke: put something solid under what you said, or it collapses. Courtroom, newsroom and HR-investigation register; a boss saying \"can you substantiate that?\" is not curious, they are challenging you.",
+  "trap": null,
+  "trick_line": "You mostly meet it as ***un*substantiated rumour** — so *substantiate* is simply giving the rumour the substance it was missing.",
+  "trick_unpack": "Learn the negative collocation first and the positive verb defines itself: evidence is the substance, and a claim without it has none.",
+  "sentences": [
+    "The tribunal dismissed the complaint, finding that the witness could not **substantiate** a single one of her allegations.",
+    "He keeps saying the place is haunted, but he's never **substantiated** it with anything better than a creaky door."
+  ],
+  "in_the_wild": "In HR and police case files, the closing verdict is literally one word: the complaint is recorded as **substantiated** or **unsubstantiated** — evidence found, or not.",
+  "etymology": "Latin **substantia** = *\"substance\"*, from **sub-** (*under*) + **stare** (*to stand*) — what **stands under** a thing and holds it up. To substantiate is to put a foundation under a claim so it stands.\n\n*Stare* is a GRE workhorse: **circumstance**, **constant**, **stable**, **status**, **stationary**, **obstacle** — all things standing.",
+  "one_line": "To back a claim with evidence so it holds up.",
+  "root": "stare (to stand), via substantia (substance)",
+  "root_family": [
+    "substance",
+    "substantial",
+    "circumstance",
+    "constant",
+    "stable",
+    "status",
+    "stationary",
+    "obstacle"
+  ],
+  "confusables": [
+    "substantive",
+    "substantial",
+    "instantiate"
+  ],
+  "sense_tags": [
+    "evidence",
+    "proof",
+    "supporting-claims",
+    "verification"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    28
+  ]
+}

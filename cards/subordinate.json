@@ -1,0 +1,45 @@
+{
+  "word": "subordinate",
+  "pos": "adj. / n. / v.",
+  "pron": "suh-BOR-din-uht",
+  "pron_note": "Noun and adjective: suh-BOR-din-uht. Verb: suh-BOR-din-AYT.",
+  "means": "**Adj./noun:** lower in rank; a person who works under someone else's authority.\n**Verb:** to place or treat something as less important than something else.\n\nThe word is neutral and structural — it describes a position on an org chart, not a character flaw. A **subordinate** simply reports to someone; a **subservient** person grovels. Keep those apart: rank vs. temperament.\n\nThe verb is where the GRE lives, and it almost always takes **to**: you *subordinate X to Y*, meaning you deliberately let X lose so Y can win. There's a cost implied — something real gets sacrificed to the thing ranked above it.",
+  "trap": null,
+  "trick_line": "**-AYT does it; -uht *is* it.** Same split as *sepa-RAYT / SEP-ruht*, *dele-GAYT / DEL-uh-guht*, *moder-AYT / MOD-uh-ruht*.",
+  "trick_unpack": "The full **-AYT** ending is always the action you perform, while the mumbled **-uht** is the person or the state that results.",
+  "sentences": [
+    "The treaty **subordinated** every commercial interest to the single goal of preventing another war.",
+    "She's technically my **subordinate**, but she's been here twenty years and everyone asks her first."
+  ],
+  "in_the_wild": "Every grammar lesson you've ever sat through: a **subordinate clause** (*because it was raining*) can't stand on its own — it has to hang off a main clause. The name tells you its rank.",
+  "etymology": "Latin **sub-** (*under*) + **ordinare** (*to arrange in rank*), from **ordo, ordinis** = *order, row, rank*. Literally: put in the row beneath.\n\nThat root pays out across the test: **ordain**, **ordinary**, **coordinate** (*co-* = arranged at equal rank), **insubordinate** (refusing to sit below), and best of all **inordinate** — *outside the order*, hence excessive.",
+  "one_line": "Lower in rank; to rank one thing beneath another.",
+  "root": "ordo, ordinis (order, rank)",
+  "root_family": [
+    "order",
+    "ordinary",
+    "ordain",
+    "coordinate",
+    "inordinate",
+    "insubordinate",
+    "ordinal"
+  ],
+  "confusables": [
+    "insubordinate",
+    "coordinate",
+    "inordinate",
+    "subservient"
+  ],
+  "sense_tags": [
+    "hierarchy",
+    "rank",
+    "authority",
+    "secondary",
+    "deference"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    18
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "ideologue",
+  "pos": "n.",
+  "pron": "EYE-dee-uh-log",
+  "pron_note": "Also heard as ID-ee-uh-log; the \"-logue\" rhymes with dog.",
+  "means": "Someone who follows a system of ideas — political, economic, religious — **rigidly and on principle**, fitting the facts to the doctrine rather than the doctrine to the facts.\n\nIt is almost always thrown, not claimed. Nobody calls themselves an ideologue. The word's whole force is the accusation of **inflexibility**: the person has stopped thinking and started applying. Its natural opposite in political writing is *pragmatist* — the one who'll take the deal that works. Having strong beliefs doesn't make you an ideologue; refusing to update them does.",
+  "trap": "⚠️ **ideologue ≠ idealist.**\n- **idealist** = holds high, hopeful principles — usually admiring, sometimes gently mocking (\"naive\")\n- **ideologue** = holds rigid doctrinal principles — always a charge of dogmatism\n\nAn idealist wants the world to be better. An ideologue already knows exactly how it must be.",
+  "trick_line": "An ideo**logue** gives a mono**logue**, never a dia**logue**.",
+  "trick_unpack": "Same ending, same behaviour — he talks the doctrine at you and nothing comes back the other way.",
+  "sentences": [
+    "The reformers were sidelined by **ideologues** who preferred a doctrinally pure defeat to a compromised victory.",
+    "He's not evil, he's just an **ideologue** — every problem gets the same answer before he's even heard it."
+  ],
+  "in_the_wild": "Standard political-press vocabulary: a nominee is graded as either \"a pragmatist\" or \"an ideologue,\" and only one of those is a compliment.",
+  "etymology": "**idea** + Greek **logos** = *\"word, speech, reasoning.\"* Coined in Revolutionary France for the *idéologues*, philosophers who claimed to have a science of ideas — Napoleon used it as a sneer for impractical theorists, and the sneer stuck.\n\nMind the two endings — they're different roots and worth separating for good:\n- **-logue** = *speaking* (logos): **monologue, dialogue, prologue, epilogue**\n- **-gogue** = *leading* (Greek *agein*): **demagogue** (leads the mob), **pedagogue** (leads the child), **synagogue** (leads together)\n\nSo an **ideologue** talks the doctrine; a **demagogue** leads the crowd.",
+  "one_line": "A rigid doctrine-first believer who won't bend to facts.",
+  "root": "logos (word, speech, reasoning)",
+  "root_family": [
+    "monologue",
+    "dialogue",
+    "prologue",
+    "epilogue",
+    "catalogue",
+    "logic",
+    "apology"
+  ],
+  "confusables": [
+    "idealist",
+    "demagogue",
+    "ideologist",
+    "pedagogue"
+  ],
+  "sense_tags": [
+    "dogmatic",
+    "doctrinaire",
+    "inflexible",
+    "partisan",
+    "politics"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

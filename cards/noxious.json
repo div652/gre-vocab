@@ -1,0 +1,43 @@
+{
+  "word": "noxious",
+  "pos": "adj.",
+  "pron": "NOK-shuhs",
+  "pron_note": null,
+  "means": "Harmful to health or life — **poisonous, injurious**. Most often of fumes, gases, chemicals, weeds; by extension of ideas and influences that corrupt (*a noxious ideology*).\n\nThe word claims real damage, not mere unpleasantness. A smell can be disgusting without being noxious; noxious fumes actually injure the lungs. Note the contrast with its own relative: an **obnoxious** guest is unbearable, a **noxious** gas is lethal — one offends, the other harms. When applied to ideas, the metaphor is deliberately medical: the belief is treated as a toxin seeping into people.",
+  "trap": "⚠️ **noxious ≠ noisome.**\n- **noxious** = *harmful* (it damages you)\n- **noisome** = *foul-smelling* (it offends your nose)\n\nAnd *noisome* has nothing to do with noise — it's from *annoy*.",
+  "trick_line": "**Strip the *ob-* off *obnoxious* and it stops being annoying and starts being deadly.**",
+  "trick_unpack": "Same root, harder edge: obnoxious hurts your patience, noxious hurts your body.",
+  "sentences": [
+    "The inquiry found that workers had been inhaling **noxious** vapours for years without protective equipment.",
+    "Don't run the generator in the garage — you'll fill the house with **noxious** fumes."
+  ],
+  "in_the_wild": "Governments publish official **noxious weed** lists — plants legally classed as harmful enough to be banned from sale. Not weeds that look untidy; weeds that damage crops, livestock or people. That's the whole word in one phrase.",
+  "etymology": "Latin **nocēre** = *\"to harm.\"* It runs through a useful family: **innocuous** (*in-* + *nocuous* = not harmful), **innocent** (doing no harm), **nuisance** (via French *nuire*), and **obnoxious** (originally *exposed to harm*).\n\n🚫 **Not Latin *nox*, \"night.\"** That gives *nocturnal, equinox*. Same-looking syllable, unrelated word.",
+  "one_line": "Harmful, poisonous — physically or morally.",
+  "root": "nocēre (to harm)",
+  "root_family": [
+    "innocuous",
+    "innocent",
+    "nuisance",
+    "obnoxious",
+    "nocuous"
+  ],
+  "confusables": [
+    "obnoxious",
+    "noisome",
+    "nauseous",
+    "noisy"
+  ],
+  "sense_tags": [
+    "harmful",
+    "poisonous",
+    "toxic",
+    "corrupting",
+    "unhealthy"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    18
+  ]
+}

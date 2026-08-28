@@ -1,0 +1,44 @@
+{
+  "word": "fallacious",
+  "pos": "adj.",
+  "pron": "fuh-LAY-shuhs",
+  "pron_note": null,
+  "means": "Based on **faulty reasoning**; containing a logical error, and therefore misleading.\n\nThe charge is against the *argument*, not the arguer's honesty — you can be entirely sincere and still fallacious. That's what separates it from **false**: \"false\" means the claim is untrue; \"fallacious\" means the *path to* the claim is broken, so the conclusion is unearned even in the odd case where it happens to be true. It's a cool, academic word — the language of debate judges, philosophers and editorials, not of shouting matches.",
+  "trap": "⚠️ **fallacious ≠ fallible.**\n- **fallacious** = this reasoning *is* wrong\n- **fallible** = this person *could be* wrong\n\nEvery expert is fallible; only some of their arguments are fallacious.",
+  "trick_line": "**Falla**cious hides **FALL** — a hole in the logic you fall into, and an argument that falls apart.",
+  "trick_unpack": "The flaw is structural, so the whole thing collapses under weight rather than simply being untrue.",
+  "sentences": [
+    "The court dismissed as **fallacious** the notion that a signature obtained under duress constitutes consent.",
+    "His whole plan rests on the **fallacious** idea that if it worked once, it'll work forever."
+  ],
+  "in_the_wild": "Any internet argument where someone replies *\\\"that's a logical fallacy\\\"* — straw man, slippery slope, ad hominem. Those are the catalogued species of fallacious reasoning.",
+  "etymology": "Latin **fallere** = *\"to deceive, to trip up.\"* One root, a big family: **fallacy, fallible, infallible, false, fail, fault, default**. Notice the through-line — every one of them is about something giving way underfoot.",
+  "one_line": "Based on broken reasoning, and so misleading.",
+  "root": "fallere (to deceive, to trip up)",
+  "root_family": [
+    "fallacy",
+    "fallible",
+    "infallible",
+    "false",
+    "fail",
+    "fault",
+    "default"
+  ],
+  "confusables": [
+    "fallible",
+    "fallacy",
+    "facetious",
+    "fictitious"
+  ],
+  "sense_tags": [
+    "faulty-reasoning",
+    "misleading",
+    "illogical",
+    "erroneous"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    17
+  ]
+}

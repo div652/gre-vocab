@@ -1,0 +1,41 @@
+{
+  "word": "auxiliary",
+  "pos": "adj. / n.",
+  "pron": "og-ZIL-yuh-ree",
+  "pron_note": "The x is a \"gz\" sound; note the single L — auxiliary, not \"auxillary\".",
+  "means": "**Adj.:** giving supplementary support; secondary, held in reserve. **Noun:** the helper itself — a reserve force, a supporting organisation, or (in grammar) a helping verb.\n\nAn auxiliary thing is subordinate in *rank*, not in *quality*: it's fully capable, just not the main event — the second engine, the backup generator, the volunteer battalion. That's what separates it from **ancillary**, which is peripheral, off to the side, doing the menial support work. Auxiliary power can run the ship; ancillary staff mop the deck. The word is institutional and faintly technical — you meet it in engineering, the military, and grammar rather than in conversation.",
+  "trap": null,
+  "trick_line": "**AUX** is sitting right at the front of it — the aux input, the spare way in when the main source can't do the job.",
+  "trick_unpack": "Nobody plugs into aux first, but it's there, wired up and ready — exactly the standing-by-in-support sense of the word.",
+  "sentences": [
+    "When the grid failed, the hospital's **auxiliary** generators carried the surgical wing through the night.",
+    "The fire service runs on an **auxiliary** crew of volunteers who show up when the sirens go."
+  ],
+  "in_the_wild": "Grammar hands you the word daily: *be, do, have, will* are the **auxiliary verbs** — they carry almost no meaning themselves, they just let the main verb work (\"she **has** finished\", \"I **do** know\").",
+  "etymology": "Latin **auxilium** = *\"help, aid\"*, from **augēre** = *\"to increase\"* — an auxiliary force is one that *adds to* your strength.\n\nThat root pays off elsewhere: **augment** (increase), **auction** (bids going up), **author** and **authority** (from *auctor*, one who makes things grow), **august** (grand, enlarged in dignity).",
+  "one_line": "Giving backup support; secondary, held in reserve.",
+  "root": "auxilium (help), from augēre (to increase)",
+  "root_family": [
+    "augment",
+    "auction",
+    "author",
+    "authority",
+    "august"
+  ],
+  "confusables": [
+    "ancillary",
+    "axillary"
+  ],
+  "sense_tags": [
+    "supporting",
+    "backup",
+    "secondary",
+    "reserve",
+    "supplementary"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    32
+  ]
+}

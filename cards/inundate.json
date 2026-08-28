@@ -1,0 +1,39 @@
+{
+  "word": "inundate",
+  "pos": "v.",
+  "pron": "IN-un-dayt",
+  "pron_note": "Also heard as in-UN-dayt; first-syllable stress is the safer default.",
+  "means": "To **flood** — literally, to cover land with water; figuratively, to swamp someone with far more of something than they can deal with.\n\nThe force of the word is **sheer volume arriving from outside**, not difficulty. A hundred routine emails inundate you; one brutal problem doesn't. It usually arrives passive and plural — *inundated with calls, requests, applications, complaints* — which quietly casts you as the shore and the stuff as the tide. Next to *overwhelm* (which can be emotional, or done by a single force) *inundate* is specifically about quantity pouring in.",
+  "trap": null,
+  "trick_line": "Hidden in the middle: **UND** — the same wave as *undulate* — and you go **und**er it.",
+  "trick_unpack": "Wave after wave is the point: inundation is measured in volume, not in weight.",
+  "sentences": [
+    "After the levee failed, three thousand acres of farmland were **inundated** within the hour.",
+    "I asked one question in the group chat and got **inundated** with replies — forty messages before lunch."
+  ],
+  "in_the_wild": "It's the word flood reporting actually uses: BBC and local news say homes are **\"inundated\"** by floodwater, never just \"wet\" — the literal sense you hear every storm season is the same one behind \"inundated with emails.\"",
+  "etymology": "Latin **inundare** = *\"to overflow\"* — *in-* (onto) + **unda** (*wave*).\n\nThat wave washes through a useful family: **undulate** (move in waves), **abundant** (*ab-undare*, overflowing with), **redundant** (*re-undare*, overflowing **again** — surplus to need), and **surround**.",
+  "one_line": "To flood — or swamp someone with more than they can handle.",
+  "root": "unda (wave)",
+  "root_family": [
+    "undulate",
+    "abundant",
+    "redundant",
+    "surround",
+    "inundation"
+  ],
+  "confusables": [
+    "undulate"
+  ],
+  "sense_tags": [
+    "flooding",
+    "overwhelming",
+    "excess",
+    "deluge"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

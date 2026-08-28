@@ -1,0 +1,45 @@
+{
+  "word": "extant",
+  "pos": "adj.",
+  "pron": "EK-stuhnt",
+  "pron_note": "Also heard as ek-STANT; both are accepted.",
+  "means": "Still in existence; not lost, not destroyed, not extinct.\n\nThe word almost always looks **backwards in time**. You don't call your phone extant — you call it that when something has *survived a process that destroyed the rest*: three of the letters are extant, the oldest extant copy of the manuscript, the last extant colony of a species. It carries the quiet implication that most of the set is gone. Register is scholarly — archivists, historians, biologists, lawyers — and it's coolly neutral: no relief, no celebration, just the surviving inventory.",
+  "trap": "⚠️ **extant ≠ extinct.** One letter, opposite verdicts — **extant** = still here; **extinct** = wiped out. An extant species is alive today; the dodo is extinct.",
+  "trick_line": "**Ex-STANT — it's still *standing*. Ex-TINCT — it's been *extinguished*.**",
+  "trick_unpack": "The *-stant* is literally *stare*, \"to stand,\" while *-tinct* is the same root as *extinguish*, so one word is upright and the other is snuffed out.",
+  "sentences": [
+    "Of the twelve original panels, only four are **extant**; the rest burned with the abbey in 1643.",
+    "There's exactly one **extant** photo of my grandad as a kid, and my mum won't let anyone touch it."
+  ],
+  "in_the_wild": "Open almost any Wikipedia species page and the taxobox reads **\"Extant\"** or **\"Extinct\"** right under the fossil-range bar — the two words are the standing labels for alive-today versus gone.",
+  "etymology": "Latin **ex-** (*out*) + **stāre** (*to stand*) — \"standing out, still standing there.\"\n\n**stāre** is a workhorse root worth banking: **status, stable, stance, constant, stationary, obstacle** (something standing in the way), **circumstance** (what stands around you), **substance** (what stands underneath).\n\n🚫 Not related to **extent** — that's *tendere*, \"to stretch\" (*extend, tension, tendency*). Same first five letters, unrelated word.",
+  "one_line": "Still existing; surviving when most of its kind hasn't.",
+  "root": "stāre (to stand)",
+  "root_family": [
+    "status",
+    "stable",
+    "stance",
+    "constant",
+    "stationary",
+    "obstacle",
+    "circumstance",
+    "substance",
+    "state"
+  ],
+  "confusables": [
+    "extinct",
+    "extent",
+    "extend"
+  ],
+  "sense_tags": [
+    "surviving",
+    "existing",
+    "remaining",
+    "preserved"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    36
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "circumscribe",
+  "pos": "v.",
+  "pron": "SER-kum-skrybe",
+  "pron_note": null,
+  "means": "To **draw a boundary around** something and thereby **restrict** it — to fix the limits of a power, a role, a freedom, a life.\n\nWhere *limit* is plain and *restrict* is practical, **circumscribe** is the formal, almost legal word for limits imposed **from outside and in advance**: a constitution circumscribes a president's powers; poverty circumscribes a childhood. It doesn't claim the limits are unfair — only that they are firm, external, and define the whole permitted space. In geometry it keeps its literal job: to draw a figure *around* another so it just touches.",
+  "trap": "⚠️ **circumscribe ≠ circumvent.**\n- **circumscribe** = *draw* the boundary — this far and no further\n- **circumvent** = *get around* the boundary — slip past the rule\n\nA law circumscribes what you may do. A loophole lets you circumvent it.",
+  "trick_line": "**The circle is drawn *around* you — you don't get to draw it.**",
+  "trick_unpack": "Circumscribed powers, roles and lives are hemmed in by something external — a charter, a class, a disease — not by the person's own choosing.",
+  "sentences": [
+    "The treaty sharply **circumscribed** the monarch's authority, leaving him a crown and very little else.",
+    "After the injury her world got **circumscribed** to one room and a flight of stairs she couldn't manage."
+  ],
+  "in_the_wild": "School geometry: the **circumscribed circle** drawn around a triangle so it touches all three corners — the outer limit of the shape, made visible.",
+  "etymology": "Latin **circum** (*around*) + **scrībere** (*to write, to draw*) — literally *to draw a line around*.\n\n*Scrībere* is a GRE workhorse: **describe** (write down), **inscribe** (write into), **prescribe** (write beforehand — the doctor's order), **proscribe** (write off — outlaw), **transcribe**, **subscribe**, **scripture**.",
+  "one_line": "To restrict within firm, externally set limits.",
+  "root": "circum (around) + scribere (to write, draw)",
+  "root_family": [
+    "circumference",
+    "circumspect",
+    "circumvent",
+    "describe",
+    "inscribe",
+    "prescribe",
+    "proscribe",
+    "transcribe",
+    "scripture"
+  ],
+  "confusables": [
+    "circumvent",
+    "circumspect",
+    "proscribe",
+    "prescribe"
+  ],
+  "sense_tags": [
+    "limiting",
+    "restricting",
+    "boundaries",
+    "confining"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    17
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "render",
+  "pos": "v. (n. in design)",
+  "pron": "REN-der",
+  "pron_note": null,
+  "means": "Three senses the GRE actually uses:\n\n1. **To cause to become** — always with an adjective after it: *rendered useless, rendered speechless, rendered obsolete*.\n2. **To give, deliver, or hand over** what is owed or asked for: *render aid, render a verdict, render an account*.\n3. **To represent** — in another medium or another language: an artist *renders* a face; a translator *renders* Homer into English.\n\nSense 2 is the formal one and carries a whiff of obligation: you *render* what is due, you don't *render* a birthday present. Sense 1 is the everyday workhorse and is stiffer than *make* — \"made the treaty void\" is plain, \"rendered the treaty void\" is legal-register. Across all three the core gesture is the same: something is **handed over or turned into** something else.",
+  "trap": "⚠️ **render ≠ rend.** *Rend* means to **tear violently apart** (*rent* garments, a heart-rending cry). Same first four letters, unrelated word.",
+  "trick_line": "**Sur-render** = give *over* entirely. Strip the *sur-* and **render** is just **give**.",
+  "trick_unpack": "Every sense falls out of *give*: give aid, give a verdict, give back the image — and \"render it useless\" is giving the thing a new state.",
+  "sentences": [
+    "A single ambiguous clause **rendered** the entire agreement unenforceable, and the tribunal **rendered** its judgment accordingly.",
+    "One bad update **rendered** my laptop useless — twenty minutes just to **render** a two-minute video."
+  ],
+  "in_the_wild": "The **Render** button in any video or 3D app: you hit it and the machine *gives back* the finished image. Same word, same root, and it also covers \"represent in another medium.\"",
+  "etymology": "Latin **reddere** = *\"to give back\"* (*re-* back + *dare* to give), via Old French *rendre*.\n\nThe *give-back* family is worth owning: **surrender** (give over), **rendition** (a handing-over — hence *extraordinary rendition*, and also a performance *given* to an audience), **rendezvous** (French *rendez-vous*, \"present yourselves\"), **rent** (what you give back for use of a thing).",
+  "one_line": "To cause to become; to give, deliver, or depict.",
+  "root": "reddere (to give back), from re- + dare (to give)",
+  "root_family": [
+    "surrender",
+    "rendition",
+    "rendezvous",
+    "rent",
+    "donate",
+    "dative"
+  ],
+  "confusables": [
+    "rend",
+    "rendition",
+    "surrender",
+    "tender"
+  ],
+  "sense_tags": [
+    "causing",
+    "giving",
+    "depicting",
+    "translating",
+    "delivering"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    21
+  ]
+}

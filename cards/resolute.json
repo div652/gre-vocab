@@ -1,0 +1,44 @@
+{
+  "word": "resolute",
+  "pos": "adj.",
+  "pron": "REZ-uh-loot",
+  "pron_note": "Don't let the verb drag it: re-ZOLV gives you re-ZOL-oot, which is wrong.",
+  "means": "Firmly determined; unwavering in purpose once a decision has been made.\n\nThe key is that the deciding is **already over**. *Determined* describes effort, *stubborn* describes refusal, but **resolute** describes a settled mind holding steady under pressure — doubt was weighed and dismissed, and now nothing moves it. It's a word of praise and it carries dignity: obituaries, war memorials, and leaders' speeches are full of it. You call an ally resolute; you call an opponent obstinate for exactly the same behaviour.",
+  "trap": "⚠️ **resolute ≠ dissolute.** Same *-solute* ending, opposite lives: **resolute** = morally firm and steady; **dissolute** = morally *loosened* — debauched, dissipated, drinking the inheritance away.",
+  "trick_line": "**Re-solute** = **re-solved**. The argument already happened; resolute is what's left afterwards.",
+  "trick_unpack": "Hear *resolve* inside it and you get the whole nuance — this isn't someone straining to decide, it's someone who decided and won't be moved off it.",
+  "sentences": [
+    "Facing a hostile chamber, she remained **resolute**, repeating the terms she had set out three months earlier without altering a word.",
+    "He wanted to quit at mile eighteen, but he was **resolute** about finishing, so he just kept shuffling."
+  ],
+  "in_the_wild": "The **Resolute Desk** in the Oval Office — the one behind every US president in every photo — was built from the timbers of HMS *Resolute*. The name is doing exactly the work the word means.",
+  "etymology": "Latin **re-** + **solvere** = *\"to loosen, release\"* — your doubt gets dissolved, and what remains is the settled decision.\n\n*Solvere* is a high-yield GRE root: **solve, resolve, dissolve, absolve, solvent, dissolution** — and **dissolute**, the trap above, which is literally \"loosened apart.\"",
+  "one_line": "Firmly determined; unshakeable once the mind is made up.",
+  "root": "solvere (to loosen, release)",
+  "root_family": [
+    "resolve",
+    "dissolve",
+    "absolve",
+    "solvent",
+    "dissolute",
+    "dissolution",
+    "solution"
+  ],
+  "confusables": [
+    "dissolute",
+    "irresolute",
+    "absolute",
+    "resolved"
+  ],
+  "sense_tags": [
+    "determined",
+    "steadfast",
+    "unwavering",
+    "firm-purpose"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    21
+  ]
+}

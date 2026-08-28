@@ -1,0 +1,45 @@
+{
+  "word": "sacrosanct",
+  "pos": "adj.",
+  "pron": "SAK-roh-sankt",
+  "pron_note": "Also heard SAY-kroh-sankt; the first syllable is the only thing that varies.",
+  "means": "So sacred, or treated as so important, that it must not be touched, changed, cut, or criticised.\n\nThe literal religious sense (an oath, a relic, a shrine) is now the rarer one. In modern prose it's almost always **secular and faintly sardonic**: a budget line, a Sunday lunch, a founder's original vision. Calling something sacrosanct usually says less about the thing than about the people defending it — they've put it beyond argument, and the writer is raising an eyebrow at that. Compare *sacred*, which is sincere, and *inviolable*, which is legal and cold; *sacrosanct* carries a whiff of protected privilege.",
+  "trap": null,
+  "trick_line": "**You almost never meet this word standing up — you meet it being knocked down: \"nothing is sacrosanct.\"**",
+  "trick_unpack": "The word's natural habitat is the negative, which tells you it means *fenced off from change* — and that someone is about to climb the fence.",
+  "sentences": [
+    "The committee insisted that the charter's first article was **sacrosanct** and would not be reopened for debate.",
+    "Cut whatever you like from the script — but the last scene is **sacrosanct**, don't touch it."
+  ],
+  "in_the_wild": "Standard boardroom and Westminster boilerplate before bad news: *\"In this review, no department is sacrosanct.\"* Whenever you hear it, cuts are coming.",
+  "etymology": "Latin **sacrōsanctus** = *sacer* (\"sacred\") + *sanctus* (\"consecrated\") — holy said twice, belt and braces, because it originally described something protected by a binding religious oath.\n\nBoth halves are GRE workhorses: *sacer* → **sacred, sacrifice, sacrament, consecrate**; *sanctus* → **saint, sanctuary, sanctity, sanction, sanctimonious**.",
+  "one_line": "Too sacred or important to be touched, changed, or criticised.",
+  "root": "sacer (sacred) + sanctus, from sancire (to consecrate)",
+  "root_family": [
+    "sacred",
+    "sacrifice",
+    "sacrament",
+    "consecrate",
+    "sanctuary",
+    "sanctity",
+    "sanction",
+    "sanctimonious",
+    "saint"
+  ],
+  "confusables": [
+    "sacrilegious",
+    "sanctimonious"
+  ],
+  "sense_tags": [
+    "sacred",
+    "untouchable",
+    "beyond criticism",
+    "protected",
+    "inviolable"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    36
+  ]
+}

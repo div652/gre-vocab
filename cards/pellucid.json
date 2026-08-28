@@ -3,39 +3,36 @@
   "pos": "adj.",
   "pron": "puh-LOO-sid",
   "pron_note": null,
-  "means": "**1.** So clear that light passes straight through it — water, glass, air, skin, eyes. **2.** Of writing, thought, or speech: perfectly easy to understand.\n\nWhere *transparent* can be an insult (*a transparent lie*, *transparent flattery* — you can see the fraud), **pellucid is always a compliment.** It praises clarity that looks effortless: no murk, no straining, nothing between you and the thing. Reserve it for high register — a pellucid mountain lake, a pellucid explanation of quantum mechanics. Calling your inbox pellucid is a joke.",
+  "means": "**Transparently clear** — either physically (water, glass, air you can see straight through) or mentally (prose, an explanation, a mind that admits no murk).\n\n*Clear* is a plain report; **pellucid** is a compliment. It carries light with it — the sense that the thing isn't merely see-through but luminous, unclouded, almost beautiful in its clarity. You'd call a mountain stream or a great teacher's explanation pellucid; you wouldn't say it of a windowpane unless you were feeling lyrical. It's a literary word, and it always praises.",
   "trap": null,
-  "trick_line": "**A scale of clarity: *translucent* (light gets through) → *lucid* (clear) → *pellucid* (clear all the way to the bottom).**",
-  "trick_unpack": "Pellucid is the top of that ladder — not merely clear but flawlessly, admirably clear.",
+  "trick_line": "**pel-LUC-id** — the stress lands squarely on the **LUC**, the light.",
+  "trick_unpack": "Say it aloud and you hear *lucid* sitting inside the word with *per-* (\"through\") in front — clarity that light passes all the way through, not just clarity you can tolerate.",
   "sentences": [
-    "The bay was so **pellucid** that the anchor chain could be traced down to the sand thirty feet below.",
-    "I finally get eigenvectors — her explanation was **pellucid**, and I'd been stuck on it for a week."
+    "The lake was so **pellucid** that the boat seemed suspended above its own shadow.",
+    "His notes are **pellucid** — I understood the whole topic in one read, which never happens."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **per-** (*through, thoroughly*) + **lūcēre** (*to shine*) — light shining right through.\n\n**lūc-** gives you **lucid**, **elucidate** (*to shed light on*), **translucent**, and **Lucifer** (*\"light-bearer\"*). **per-** as an intensifier is just as generative: **pervade**, **perennial**, **perfect** (*done thoroughly*).",
-  "one_line": "Transparently clear — to the eye, or to the mind.",
-  "root": "lūcēre (to shine, light) + per- (through, thoroughly)",
+  "etymology": "Latin **per-** (*through*) + **lucēre** (*to shine*) — light shining all the way through.\n\nThat *luc-* root is a GRE goldmine: **lucid** (clear-minded), **elucidate** (to shed light on), **translucent** (light passes, images don't), **lucent**, **lux/lumen** — and **Lucifer**, literally *\"light-bearer.\"*",
+  "one_line": "Crystal-clear — see-through water, or luminously clear prose.",
+  "root": "lucēre (to shine, give light)",
   "root_family": [
     "lucid",
     "elucidate",
     "translucent",
     "lucent",
     "Lucifer",
-    "pervade",
-    "perennial"
+    "lucubrate"
   ],
   "confusables": [
     "lucid",
-    "limpid",
-    "translucent",
-    "placid"
+    "placid",
+    "pallid"
   ],
   "sense_tags": [
-    "clarity",
-    "transparency",
-    "clear-prose",
-    "light",
-    "praise"
+    "clear",
+    "transparent",
+    "luminous",
+    "intelligible"
   ],
   "register": "literary",
   "connotation": "positive",

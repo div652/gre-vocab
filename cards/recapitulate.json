@@ -1,0 +1,43 @@
+{
+  "word": "recapitulate",
+  "pos": "v.",
+  "pron": "ree-kuh-PICH-uh-layt",
+  "pron_note": "Also heard as ree-kuh-PIT-yoo-layt in British speech.",
+  "means": "To **restate the main points** of something in condensed, ordered form — a summary that goes back over the ground already covered.\n\nNot mere repetition: to recapitulate is to *compress and re-order*, hitting the headline points and dropping the detail. It sits at the end of things — a closing argument, a lecture's final slide, the last paragraph of a report. Faintly formal; a colleague says \"let me recap,\" a professor says \"to recapitulate.\"\n\nSecond sense worth knowing: to **repeat the stages of** an earlier development — as in the old biology slogan *ontogeny recapitulates phylogeny*, the embryo replaying evolutionary history.",
+  "trap": "⚠️ **recapitulate ≠ capitulate.** *Capitulate* = **surrender**. The *re-* does not mean \"surrender again\" — the two words split long ago and share only a root.",
+  "trick_line": "**Recap** is just this word with the middle knocked out — and the joke is that a word meaning *\"keep it short\"* is five syllables long.",
+  "trick_unpack": "Same meaning, opposite register: you *recap* in a meeting and *recapitulate* in a thesis.",
+  "sentences": [
+    "To **recapitulate**: the funding lapsed in March, the team dispersed in April, and no one told the board until June.",
+    "Before you ask another question, can someone **recapitulate** what we actually decided?"
+  ],
+  "in_the_wild": "The **\"Previously on…\"** montage at the start of a TV episode is a recap — literally this word, clipped short, doing exactly what it says.",
+  "etymology": "Latin **caput, capitis** = *\"head\"* → **capitulum**, *\"little head\"* = the **heading of a chapter**. To *recapitulate* was to run back through the chapter headings.\n\nThat root is a goldmine: **capital, captain, chapter, decapitate, per capita, capitulate** (to draw up terms of surrender under headings), and **cap** itself.",
+  "one_line": "To sum up the main points again, in order.",
+  "root": "caput, capitis (head) → capitulum (chapter heading)",
+  "root_family": [
+    "capital",
+    "captain",
+    "chapter",
+    "decapitate",
+    "per capita",
+    "capitulate",
+    "precipitate"
+  ],
+  "confusables": [
+    "capitulate",
+    "recuperate",
+    "reciprocate"
+  ],
+  "sense_tags": [
+    "summarizing",
+    "restating",
+    "condensing",
+    "repeating-stages"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    34
+  ]
+}

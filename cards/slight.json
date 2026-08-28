@@ -1,32 +1,32 @@
 {
   "word": "slight",
-  "pos": "n. / v. / adj.",
+  "pos": "adj. / v. / n.",
   "pron": "SLYTE",
-  "pron_note": null,
-  "means": "**Adj.:** small, minor, slender — *a slight delay, a slight woman.*\n**Noun:** a small insult, an act of disrespect. **Verb:** to insult someone by treating them as unimportant.\n\nThe two senses are one idea: to **slight** someone is to treat them as *slight* — beneath notice. That's what separates it from *insult* or *offend*. An insult is delivered; a slight is usually an **omission** — you weren't invited, weren't thanked, weren't named. Nothing was said, and that's the wound. It also carries a hint of doubt about the victim: a **\"perceived slight\"** suggests the offence may be entirely in the offended party's head, which is why it's the standard word for petty, remembered grudges.",
-  "trap": "⚠️ **slight ≠ sleight.** Identical sound, different word: **sleight** is *dexterity, trickery* and survives in exactly one phrase — **sleight of hand**. It is never \"slight of hand.\"",
-  "trick_line": "**To slight someone is to make them slight** — you shrink them to nothing rather than attack them.",
-  "trick_unpack": "The adjective explains the noun: the insult is one of size, not volume — being ignored, not being shouted at.",
+  "pron_note": "Exactly homophonous with sleight (as in sleight of hand).",
+  "means": "**Adj.:** small in amount or importance — *a slight delay*, *a slight fever*; also **slender** of build.\n**Verb:** to **snub** someone by treating them as unimportant. **Noun:** the snub itself.\n\nThe GRE cares about the verb. A slight is an insult delivered by *underrating*, not by attacking — you slight someone by leaving them off the list, skipping their name in the credits, greeting everyone in the room but them. Nobody raises their voice; the wound is that you weren't worth the effort. And because the offence is by definition small, the word quietly puts the injured party on trial too: *he never forgot the slight* tells you as much about him as about the man who snubbed him.",
+  "trap": "⚠️ **slight ≠ sleight.** *Sleight* means cunning dexterity and survives in exactly one phrase — **sleight of hand**. Same sound, different word: the magician has sleight, the snubbed guest nurses a slight.",
+  "trick_line": "**Slight** hides **light** — to slight someone is to make *light* of them.",
+  "trick_unpack": "Both senses fall out of that: light in weight (a slight fever) and lightly regarded (a slight to your host).",
   "sentences": [
-    "He never forgave the slight: his name left off the dedication of a book he had spent three years editing.",
-    "Don't take it as a slight — she forgot to invite half the office."
+    "The ambassador read the omission of his title as a deliberate **slight**, and left the reception before dinner was served.",
+    "Don't take it personally — she wasn't **slighting** you, she genuinely didn't see you standing there."
   ],
-  "in_the_wild": null,
-  "etymology": "🚫 **Not *sleight*.** That one comes from Old Norse *slœgð*, \"cunning\" — the same root as **sly**. **Sleight** of hand is *slyness* of hand; remember the y-sound family (sly → sleight) and the spelling stops being a coin toss.",
-  "one_line": "A small insult, usually by omission; also: minor, slender.",
+  "in_the_wild": "All of *Pride and Prejudice* is set in motion by a slight: Darcy declines to dance with Elizabeth at the Meryton ball, and she spends the next three hundred pages not forgiving him for it.",
+  "etymology": null,
+  "one_line": "Small in degree; or to snub by treating as unimportant.",
   "root": null,
   "root_family": [],
   "confusables": [
     "sleight",
-    "slighted",
-    "slate"
+    "sly",
+    "slighted"
   ],
   "sense_tags": [
-    "insult",
+    "small",
+    "slender",
     "snub",
-    "disregard",
-    "minor",
-    "trivial"
+    "disrespect",
+    "insult"
   ],
   "register": "neutral",
   "connotation": "depends",

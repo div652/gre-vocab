@@ -1,0 +1,38 @@
+{
+  "word": "wanting",
+  "pos": "adj.",
+  "pron": "WON-ting",
+  "pron_note": "o as in hot — not \"won\".",
+  "means": "**Lacking; absent altogether, or present but falling short of the required standard.** *The evidence was wanting.* / *His technique was found wanting.*\n\nThe everyday sense — *wanting a coffee* — is desire. The GRE sense flips the direction: the deficiency is in the **thing**, not a craving in the person. Two shades sit inside it: total absence (*rainfall was wanting that year*) and, more commonly, **failure to measure up** when something is tested against a standard. That second shade is quietly damning — \"found wanting\" is the verdict of an examiner, an auditor, a judge, and it stings more than *inadequate* because it implies the thing was actually weighed and came up short. Formal, faintly biblical, and almost always negative.",
+  "trap": "⚠️ **wanting ≠ wanton.** *Wanting* = lacking, deficient. **Wanton** (WON-tuhn) = unrestrained, malicious, or lewd — *wanton cruelty*. One is short of something; the other has no limits at all.",
+  "trick_line": "**A wanting dish isn't hungry — it's missing the salt.**",
+  "trick_unpack": "The want belongs to the object, which is short of something, not to a person who desires it.",
+  "sentences": [
+    "The committee reviewed the safety protocols and found them **wanting** in every respect that mattered.",
+    "I tried his so-called famous lasagne and, honestly, it was a bit **wanting**."
+  ],
+  "in_the_wild": "The phrase's home is the writing on the wall in **Daniel 5** — Belshazzar is told *\"Thou art weighed in the balances, and art found wanting.\"* That single line is why \"found wanting\" still carries the sound of a final verdict.",
+  "etymology": "**Want** entered English from Old Norse **vanta**, *\"to lack\"* — and lacking was the *original* meaning. The desire sense came later and second-hand: \"I want bread\" began life as *bread is lacking to me*. So the GRE meaning isn't a strange outlier; it's the older, straighter sense, still visible in **wanting** and in *for want of a nail*.",
+  "one_line": "Lacking, deficient — falling short when actually measured.",
+  "root": "vanta (Old Norse: to lack)",
+  "root_family": [
+    "want",
+    "wane"
+  ],
+  "confusables": [
+    "wanton",
+    "wonted",
+    "wanted"
+  ],
+  "sense_tags": [
+    "lacking",
+    "deficient",
+    "inadequate",
+    "falling-short"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    37
+  ]
+}

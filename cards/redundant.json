@@ -1,0 +1,42 @@
+{
+  "word": "redundant",
+  "pos": "adj.",
+  "pron": "ri-DUN-duhnt",
+  "pron_note": null,
+  "means": "**Surplus to requirement** — and usually surplus *because it repeats something already said or already there*. \"A free gift\" is redundant; \"advance planning\" is redundant.\n\n*Superfluous* just means extra; **redundant** points at the duplication that made it extra. That's why editors love the word: it's the charge of saying the same thing twice under two different coats of paint. It carries a faint sting of incompetence — you didn't notice you'd already done it.\n\nTwo live side-senses worth knowing: in British usage, a worker **made redundant** is laid off (the job, not the person, is declared unnecessary); in engineering, **redundant** systems are the deliberate spare — a second engine, a backup server — where the duplication is the whole point and the word turns *positive*.",
+  "trap": null,
+  "trick_line": "Red-**UND**-ant — the same *unda* (\"wave\") as in **inundate** and **abundant**: it's the one wave too many, slopping over the rim.",
+  "trick_unpack": "Redundant isn't merely extra — it's overflow, the surplus that spills because the cup was already full.",
+  "sentences": [
+    "The committee's third report was **redundant**, restating in forty pages what the first had settled in four.",
+    "Do we really need two people on this? Feels a bit **redundant**."
+  ],
+  "in_the_wild": "Corporate life: being **\"made redundant\"** is the British phrase for being laid off — the euphemism works precisely because it says *the role was unnecessary*, not *you were bad at it*.",
+  "etymology": "Latin **redundare** = *\"to overflow\"* — *re-* (back) + **unda** (*wave*). That *unda* is a high-yield GRE root: **inundate** (flood in), **abundant** (waves of it), **undulate** (move in waves), **surround**.",
+  "one_line": "Needless — because it repeats what's already there.",
+  "root": "unda (wave)",
+  "root_family": [
+    "inundate",
+    "abundant",
+    "undulate",
+    "abound",
+    "surround",
+    "redound"
+  ],
+  "confusables": [
+    "abundant",
+    "redound"
+  ],
+  "sense_tags": [
+    "superfluous",
+    "repetitive",
+    "excess",
+    "unnecessary",
+    "backup"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    36
+  ]
+}

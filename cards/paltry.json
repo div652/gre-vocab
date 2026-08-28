@@ -1,0 +1,37 @@
+{
+  "word": "paltry",
+  "pos": "adj.",
+  "pron": "PAWL-tree",
+  "pron_note": "Also PAL-tree (rhyming with poultry) in American speech.",
+  "means": "Ridiculously small in amount or worth — so small it's insulting. Most often attached to money, wages, offers, turnout, percentages.\n\nThe word does two jobs at once: it measures *and* it sneers. **Meagre** is pitiable, **trifling** is merely unimportant, **modest** is polite — but calling a sum **paltry** says the giver should be ashamed. There's an implied comparison behind it: paltry *next to what was owed, promised, or expected*. That's why \"a paltry £5\" works and \"a paltry mountain\" doesn't.",
+  "trap": null,
+  "trick_line": "**Paltry** sounds like **poultry** — a paltry sum is **chicken feed**.",
+  "trick_unpack": "\"Chicken feed\" is already English's phrase for an amount too small to be worth accepting, and that dismissive shrug is exactly what *paltry* adds on top of \"small\".",
+  "sentences": [
+    "After eighteen months of litigation the family was awarded a **paltry** sum, barely covering their legal costs.",
+    "They want a full rewrite by Friday and they're offering a **paltry** two hundred quid for it."
+  ],
+  "in_the_wild": "Business journalism runs on it: *\"shares rose a paltry 0.3%\"*, *\"a paltry 12% turnout\"*. The number alone is neutral — *paltry* is the reporter telling you it's an embarrassment.",
+  "etymology": null,
+  "one_line": "Contemptibly small — too little to deserve respect.",
+  "root": null,
+  "root_family": [],
+  "confusables": [
+    "poultry",
+    "palter",
+    "petty",
+    "sultry"
+  ],
+  "sense_tags": [
+    "insignificant",
+    "meagre",
+    "worthless",
+    "contemptible",
+    "small-amount"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

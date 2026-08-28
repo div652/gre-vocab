@@ -1,0 +1,42 @@
+{
+  "word": "imminent",
+  "pos": "adj.",
+  "pron": "IM-uh-nuhnt",
+  "pron_note": null,
+  "means": "About to happen **at any moment** — hanging over you, ready to land.\n\nThe word is about *timing*, not certainty: an imminent collapse is one that could come this hour. It also leans dark by habit — what's described as imminent is nearly always a threat, an arrest, a war, a death, a deadline. You can say \"imminent arrival,\" but the company it usually keeps is bad. Compare **impending** (same nearness, heavier and more dreadful) and **forthcoming** (near, but neutral-to-welcome).",
+  "trap": "⚠️ **imminent ≠ eminent.**\n- **imminent** = about to happen\n- **eminent** = distinguished, standing out above others\n\nAn eminent judge can face imminent retirement.",
+  "trick_line": "**Imminent = in a minute.**",
+  "trick_unpack": "The sound of the word is its meaning — whatever it is, it's arriving in a minute, and it's probably not good news.",
+  "sentences": [
+    "With the levees failing and the storm surge still rising, evacuation was no longer prudent but **imminent** necessity.",
+    "Don't start a movie — dinner's **imminent**."
+  ],
+  "in_the_wild": "The emergency alerts that override your phone's silent mode are officially categorised as **\"Imminent Threat Alerts\"** — tornado, flash flood, wildfire. The label is doing exactly what the word means: not *possible*, but *about to hit you*.",
+  "etymology": "Latin **in-** (\"upon\") + **minēre** (\"to jut, project, overhang\") — something jutting out *over your head*.\n\nThat root sorts the whole confusing family by direction: **imminent** juts *over* you (in-), **eminent** juts *out above* the crowd (ex-), **prominent** juts *forward* (pro-). Same verb, three prefixes, three GRE words.",
+  "one_line": "About to happen at any moment, usually something bad.",
+  "root": "minēre (to jut, project, overhang)",
+  "root_family": [
+    "eminent",
+    "prominent",
+    "preeminent",
+    "minaret",
+    "menace"
+  ],
+  "confusables": [
+    "eminent",
+    "immanent",
+    "emanate",
+    "impending"
+  ],
+  "sense_tags": [
+    "about-to-happen",
+    "urgency",
+    "threatening",
+    "near-future"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    21
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "precipitous",
+  "pos": "adj.",
+  "pron": "pri-SIP-uh-tuhs",
+  "pron_note": null,
+  "means": "**1.** Dangerously **steep** — a cliff, a staircase, a mountain road.\n**2.** Of a fall or decline: **sudden, sharp and alarming** — a *precipitous* drop in sales.\n\nThe word always carries a whiff of danger. A hill can be *steep* and pleasant; call it **precipitous** and you've said it could kill you. Applied to numbers, it's the graph line falling off a cliff — not a dip, not a slide, a plunge. Journalists and analysts reach for it precisely because it sounds alarming, so it does editorial work that \"sharp\" doesn't.",
+  "trap": "⚠️ **precipitous ≠ precipitate** *(adj., pri-SIP-uh-tuht)*.\n- **precipitous** = *steep* — describes a **drop** or a **thing**\n- **precipitate** = *rash, headlong, done too soon* — describes an **act** or a **decision**\n\nA precipitous cliff; a precipitate withdrawal.",
+  "trick_line": "**Precipit-ous** hides **precipice** — the edge you fall off.",
+  "trick_unpack": "If you can see the precipice in the word, you'll always land on *steep drop* rather than *hasty*.",
+  "sentences": [
+    "The path narrowed and turned **precipitous**, falling away on the left into three hundred feet of nothing.",
+    "One bad quarter and the stock took a **precipitous** dive — down forty percent before lunch."
+  ],
+  "in_the_wild": "It's the default word of financial news: every \"shares fell **precipitously**\" headline is the same picture — the chart going over the edge.",
+  "etymology": "Latin **praeceps, praecipit-** = *\"headlong,\"* literally **prae** (*forward*) + **caput** (*head*) — going head-first off something.\n\nThat gives you **precipice** (the drop), **precipitate** (to hurl headlong → to rush), and **precipitation** (water falling headlong out of the sky).\n\nAnd **caput** = *head* is a GRE workhorse: **capital**, **captain**, **decapitate**, **per capita**.",
+  "one_line": "Dangerously steep; or sudden and sharp, of a fall.",
+  "root": "praeceps, praecipitis (headlong) ← prae (before) + caput (head)",
+  "root_family": [
+    "precipice",
+    "precipitate",
+    "precipitation",
+    "capital",
+    "captain",
+    "decapitate",
+    "per capita"
+  ],
+  "confusables": [
+    "precipitate",
+    "precipice",
+    "propitious",
+    "precipitation"
+  ],
+  "sense_tags": [
+    "steep",
+    "sudden",
+    "sharp-decline",
+    "dangerous",
+    "abrupt"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    23
+  ]
+}

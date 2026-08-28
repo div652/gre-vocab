@@ -1,0 +1,42 @@
+{
+  "word": "tentative",
+  "pos": "adj.",
+  "pron": "TEN-tuh-tiv",
+  "pron_note": null,
+  "means": "Two linked senses:\n\n**1. Provisional** — arranged but not settled, and everyone knows it may change: *a tentative agreement, a tentative date, tentative conclusions.*\n**2. Hesitant** — done without confidence, as if testing whether the ground holds: *a tentative step, a tentative knock, a tentative smile.*\n\nSense 1 is neutral and businesslike — a placeholder, pencil rather than pen, and no criticism is implied. Sense 2 is about manner, and there the word quietly reports timidity: someone who sounds tentative in a meeting has lost the room. Note the difference from *reluctant*: a tentative person isn't unwilling, just unsure — they're going ahead, only lightly.",
+  "trap": "⚠️ **tentative ≠ tenuous.**\n- **tentative** = *not final* — it may still change\n- **tenuous** = *not strong* — thin, flimsy, barely holding (*a tenuous grip, a tenuous connection*)\n\nA tentative alliance may be rock solid once signed; a tenuous one is already fraying.",
+  "trick_line": "**A tent isn't a house.** You pitch it, and you can un-pitch it tomorrow.",
+  "trick_unpack": "*Tentative* opens with **tent** — anything tentative is pitched rather than built, standing only until someone decides otherwise.",
+  "sentences": [
+    "The two governments announced a **tentative** settlement, subject to ratification by both parliaments.",
+    "He gave the door a **tentative** knock, half hoping nobody was in."
+  ],
+  "in_the_wild": "Every Outlook or Google Calendar invite gives you three buttons: **Accept**, **Decline**, and **Tentative** — the \"probably, don't hold me to it\" answer.",
+  "etymology": "Latin **temptāre / tentāre** = *\"to try, to test, to feel out.\"*\n\nSame root gives **attempt** (to try) and **temptation** (something testing you) — and **tentacle**, literally a *feeler*. Picture how an octopus arm moves and you have sense 2 exactly: reaching out to test before committing.",
+  "one_line": "Provisional, not final; or hesitant, testing the ground.",
+  "root": "temptāre / tentāre (to try, to test, to feel)",
+  "root_family": [
+    "attempt",
+    "temptation",
+    "tempt",
+    "tentacle",
+    "attentat"
+  ],
+  "confusables": [
+    "tenuous",
+    "tenable",
+    "tenacious"
+  ],
+  "sense_tags": [
+    "provisional",
+    "hesitant",
+    "uncertain",
+    "unconfident",
+    "trial"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    22
+  ]
+}

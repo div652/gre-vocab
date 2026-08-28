@@ -1,0 +1,47 @@
+{
+  "word": "comply",
+  "pos": "v.",
+  "pron": "kuhm-PLY",
+  "pron_note": null,
+  "means": "To act as a rule, order, or request demands — to do the thing you've been told to do.\n\nThe word is cool and impersonal. *Obey* is personal and can sound childlike or servile; *comply* is what you do with a regulation, a subpoena, a safety standard, a police instruction. It says nothing about whether you agree — plenty of compliance is grudging, and the noun **compliance** often carries a faint whiff of box-ticking. It also implies the demand came from somewhere with power: you never comply with a suggestion from an equal.",
+  "trap": "⚠️ **compliant ≠ complacent.**\n- **compliant** = yielding, doing as told\n- **complacent** = smugly pleased with yourself, dangerously unworried\n\nA compliant employee follows the rules; a complacent one stops checking whether they still work.",
+  "trick_line": "You obey a **person**; you comply **with** a **rule**.",
+  "trick_unpack": "*Comply* almost never takes a person as its object — the \"with\" pulls in an impersonal authority, which is exactly why the word feels bureaucratic rather than submissive.",
+  "sentences": [
+    "The firm was fined heavily after failing to **comply** with disclosure rules for three consecutive quarters.",
+    "Just **comply** for now — argue about the policy after we're out of the building."
+  ],
+  "in_the_wild": "The mandatory annual **compliance training** every office makes you click through — anti-bribery, data handling, harassment. Nobody's persuaded by it; everyone complies.",
+  "etymology": "Latin **complēre** = *\"to fill up, fulfil\"* (*com-* + *plēre*, \"to fill\") — you comply by *filling* the requirement someone set.\n\nSame root, big family: **complete**, **complement** (what fills the gap), **replete**, **supply**, **plenty**, **implement**.\n\nOdd cousin: **compliment** is the *same word* — it reached English via Spanish *cumplir*, \"to fulfil the courtesies.\" Comply fills an obligation; compliment fills a social one.",
+  "one_line": "To do what a rule, order, or demand requires.",
+  "root": "complēre (to fill up, fulfil)",
+  "root_family": [
+    "complete",
+    "complement",
+    "compliment",
+    "replete",
+    "supply",
+    "plenty",
+    "implement",
+    "deplete"
+  ],
+  "confusables": [
+    "compliant",
+    "complacent",
+    "complaisant",
+    "imply",
+    "apply"
+  ],
+  "sense_tags": [
+    "obedience",
+    "conformity",
+    "regulation",
+    "submission",
+    "yielding"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    16
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "implicit",
+  "pos": "adj.",
+  "pron": "im-PLIS-it",
+  "pron_note": null,
+  "means": "**1.** Understood without being said — implied, contained in something rather than stated by it. *An implicit criticism; an implicit assumption.*\n**2.** (of trust, faith, obedience) **Absolute, unquestioning** — held so completely that no reservation is even voiced.\n\nSense 1 is the opposite of *explicit*: the meaning is there, but you have to draw it out. It's not vagueness — an implicit claim is definitely being made, just never put on the record, which is exactly why it's the useful word for arguments people won't admit to making.\n\nSense 2 is the GRE's favourite ambush. *Implicit trust* is not partial or unspoken trust; it's total trust. Same logic underneath — nothing is held back *separately*, so nothing qualifies it.",
+  "trap": "⚠️ **implicit ≠ complicit.**\n- **implicit** = *implied*, unstated\n- **complicit** = *involved* in the wrongdoing\n\nA silence can be implicit agreement; a silence that helps the crime makes you complicit.",
+  "trick_line": "**Im**plicit is folded **in** — you unfold it; **ex**plicit is laid **out** — spelled *ex*-actly.",
+  "trick_unpack": "Same root *plicāre* (to fold), and the prefix tells you whether the meaning is tucked inside or already on the table.",
+  "sentences": [
+    "The report never accuses the ministry outright, but the charge of negligence is **implicit** in every paragraph.",
+    "She never actually said yes — but leaving her keys on the table was pretty **implicit**.'"
+  ],
+  "in_the_wild": "**Implicit bias** — the standard term in every corporate training deck and hiring policy: prejudice nobody states, that shows up in the decisions anyway.",
+  "etymology": "Latin **implicāre** = *\"to fold in, entangle\"* (**in-** + **plicāre**, *to fold*).\n\n*Plicāre* is a workhorse root: **explicit** (folded out), **implicate** (fold someone in), **complicated** (folded together), **replicate** (folded back), **pliable**, **ply**, **apply**, **deploy**, **perplex**.",
+  "one_line": "Implied rather than stated; or, of trust, absolute and unquestioning.",
+  "root": "plicāre (to fold)",
+  "root_family": [
+    "explicit",
+    "implicate",
+    "complicated",
+    "replicate",
+    "pliable",
+    "ply",
+    "apply",
+    "deploy",
+    "perplex",
+    "supplicate"
+  ],
+  "confusables": [
+    "explicit",
+    "complicit",
+    "implicate",
+    "implacable"
+  ],
+  "sense_tags": [
+    "implied",
+    "unspoken",
+    "inherent",
+    "unquestioning",
+    "absolute"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    22
+  ]
+}

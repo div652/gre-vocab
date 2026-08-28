@@ -1,0 +1,50 @@
+{
+  "word": "regress",
+  "pos": "v. / n.",
+  "pron": "ri-GRES",
+  "pron_note": "As a noun, the stress moves to the front: REE-gres.",
+  "means": "To move **backwards** to an earlier, less developed, usually worse state — to undo progress already made.\n\nThe word presumes a ladder. You can only regress along ground you had already gained, which is why it stings: a beginner isn't regressing, a recovered patient is. Compare *relapse*, which is about a condition returning (a disease, an addiction), and *revert*, which is neutral and often deliberate (revert to the old file, the old plan). *Regress* is developmental and quietly damning — it says you had come further than this.\n\nIt also lives two technical lives with no judgement attached: in psychology, an adult regressing to childish behaviour under stress; in statistics, *regression* — fitting a line through data.",
+  "trap": "⚠️ **regress ≠ digress.** Same *-gress* (step), different direction: **re-** = step *back* along your own path; **di-** = step *aside* off the topic. A lecturer who digresses wanders; a lecturer who regresses gets worse.",
+  "trick_line": "**Pro**gress and **re**gress are the same road — *pro-* = forward, *re-* = back.",
+  "trick_unpack": "That shared road is the point: regress only means something if there was progress to lose.",
+  "sentences": [
+    "Deprived of routine and therapy, the patient **regressed** to behaviours the clinic had spent two years unlearning.",
+    "Three days back at my parents' house and I've **regressed** into a teenager sulking about the wifi."
+  ],
+  "in_the_wild": "Every software team runs **regression tests** — the suite whose only job is to catch code that has slipped back into a bug it was already fixed for. That's the word exactly: not a new failure, an old one returning.",
+  "etymology": "Latin **regredi** = *re-* (\"back\") + **gradi** (\"to step\"), from **gradus**, \"a step.\"\n\nThat root pays for itself across the exam: **progress** (step forward), **digress** (step aside), **transgress** (step across the line), **egress** / **ingress** (step out / in), **congress** (stepping together), plus **gradual**, **degree**, and **grade** — all of them steps.",
+  "one_line": "To slip backwards to an earlier, less developed state.",
+  "root": "gradi, gradus (to step, a step)",
+  "root_family": [
+    "progress",
+    "digress",
+    "transgress",
+    "egress",
+    "ingress",
+    "congress",
+    "aggression",
+    "gradual",
+    "degree",
+    "grade",
+    "retrograde"
+  ],
+  "confusables": [
+    "digress",
+    "regard",
+    "recess",
+    "relapse",
+    "revert"
+  ],
+  "sense_tags": [
+    "backwards",
+    "decline",
+    "reversion",
+    "development",
+    "deterioration"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    23
+  ]
+}

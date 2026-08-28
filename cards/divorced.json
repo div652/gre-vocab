@@ -1,37 +1,41 @@
 {
   "word": "divorced",
-  "pos": "adj. (past part. of v. divorce)",
+  "pos": "adj. (also v., past tense)",
   "pron": "dih-VORST",
-  "pron_note": "Two syllables, not three — the ending is a clean \"-st\", never \"di-VOR-sed\".",
-  "means": "Beyond the marriage sense: **completely separated or disconnected from** something — used of ideas, policies, people, institutions.\n\nThe GRE sense is a quiet accusation. Saying a theory is **divorced from** the evidence doesn't just report a gap; it implies the two *belonged together* and something has come unglued. That's the force the word carries that *unrelated* or *separate* don't — a marriage was supposed to be there. It's also near-permanently attached to **from**: things aren't just divorced, they're divorced *from* something.",
+  "pron_note": null,
+  "means": "Beyond the marriage sense, the one the GRE actually tests: **separated from, cut off from, having no working connection with.**\n\nThe word carries an accusation. *Unrelated* is a neutral fact; **divorced** implies the two things were once joined, and *ought* still to be — so the split is a failure. A theory **divorced from** the evidence isn't merely different from the evidence; it has drifted free of the thing that was supposed to anchor it. That's why it lands as criticism: the speaker is saying *you've lost your tether*.\n\nAlmost always passive and almost always followed by **from**.",
   "trap": null,
-  "trick_line": "**Divorced always takes a *from* — and whatever follows *from* is what it should have stayed married to.**",
-  "trick_unpack": "\"Divorced from reality\" only stings because reality is the partner it walked out on.",
+  "trick_line": "On the GRE, **divorced** is nearly always followed by **from** — and never by a spouse.",
+  "trick_unpack": "The moment you see \"divorced from,\" swap in \"cut loose from what should be holding it down.\"",
   "sentences": [
-    "The commission's projections were so **divorced** from local conditions that the villagers laughed them out of the hall.",
-    "His whole budget is **divorced** from what stuff actually costs — has he been to a supermarket this decade?"
+    "His grand economic model, elegant on paper, was wholly **divorced** from the conditions of any actual market.",
+    "Mate, that budget is **divorced** from reality — rent alone eats half of it."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **divertere** = *\"to turn apart\"* — **di-** (apart) + **vertere** (to turn). A divorce is literally two people turning away from each other.\n\n*Vertere* is a GRE workhorse: **divert, avert, revert, convert, subvert, adverse, versatile, vertigo** — every one of them is something turning.",
-  "one_line": "Completely cut off from something it ought to connect to.",
-  "root": "vertere (to turn) + di- (apart)",
+  "in_the_wild": "**\"Divorced from reality\"** is the standard put-down in political and business commentary — a forecast, a manifesto, a boss's timeline. Hear that phrase and you're hearing this exact sense.",
+  "etymology": "Latin **dīvertere** = *\"to turn aside\"* — **di-** (apart) + **vertere** (to turn). A divorce is literally two people turning away from each other.\n\n**vertere** is one of the highest-yield GRE roots: **divert, convert, invert, subvert, avert, revert, versatile, vertigo, adverse, controversy** — every one of them a turning.",
+  "one_line": "Cut off from something it ought to be connected to.",
+  "root": "vertere (to turn)",
   "root_family": [
     "divert",
+    "convert",
+    "invert",
+    "subvert",
     "avert",
     "revert",
-    "convert",
-    "subvert",
-    "adverse",
     "versatile",
     "vertigo",
-    "diverse"
+    "adverse",
+    "controversy"
   ],
-  "confusables": [],
+  "confusables": [
+    "divested",
+    "diverted"
+  ],
   "sense_tags": [
     "separated",
     "disconnected",
-    "detached",
-    "out-of-touch"
+    "untethered",
+    "detached"
   ],
   "register": "neutral",
   "connotation": "negative",

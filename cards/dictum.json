@@ -1,0 +1,50 @@
+{
+  "word": "dictum",
+  "pos": "n.",
+  "pron": "DIK-tuhm",
+  "pron_note": "Plural is dicta (DIK-tuh), not \"dictums,\" in formal and legal use.",
+  "means": "A **formal pronouncement from someone with the authority to make it** — or, more loosely, a **pithy saying that states a general truth**.\n\nWhat separates it from *maxim*, *adage* and *proverb* is that a dictum **has a speaker behind it**. Proverbs are anonymous and worn smooth by centuries of use; a dictum is attributable — a judge's, a critic's, a founder's — and it carries the weight of that person's standing. \"Less is more\" is Mies van der Rohe's dictum; \"look before you leap\" is nobody's. It also leans official: in law, *obiter dicta* are the judge's remarks made in passing, authoritative in tone yet not actually binding.",
+  "trap": "**dictum ≠ diktat.** A **dictum** is an authoritative *saying* — you may quote it or ignore it. A **diktat** is a harsh order *imposed* on someone who has no choice (originally, terms forced on a defeated nation). Same Latin root, very different pressure.",
+  "trick_line": "**Dict**um is **dict**ated — it comes *down* from rank, never *up* from folklore.",
+  "trick_unpack": "That buried **dict-** (\"say\") is the same one in *dictate*, and it's the tell that a dictum always has an authority attached, unlike an anonymous proverb.",
+  "sentences": [
+    "The court's ruling turned on a single **dictum** from a 1932 opinion that no one had cited in decades.",
+    "His whole management style boils down to one **dictum**: never send an email you wouldn't want screenshotted."
+  ],
+  "in_the_wild": "Any lawyer will tell you the first thing you learn reading a judgment is to separate the **holding** from the **dicta** — the part that binds from the part the judge just felt like saying.",
+  "etymology": "Latin **dīcere** = *\"to say\"*; **dictum** = *\"the thing said.\"*\n\nOne of the highest-yield roots on the exam: **dictate, dictator, dictionary, verdict** (*truly said*), **edict, contradict, predict, indict, benediction, malediction, valedictorian**.",
+  "one_line": "An authoritative pronouncement; a short saying stating a general truth.",
+  "root": "dīcere, dictum (to say)",
+  "root_family": [
+    "dictate",
+    "dictator",
+    "dictionary",
+    "verdict",
+    "edict",
+    "contradict",
+    "predict",
+    "indict",
+    "benediction",
+    "malediction",
+    "valedictorian",
+    "diction"
+  ],
+  "confusables": [
+    "diktat",
+    "edict",
+    "dictate",
+    "dicta"
+  ],
+  "sense_tags": [
+    "pronouncement",
+    "maxim",
+    "authority",
+    "saying",
+    "legal"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    37
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "catastrophic",
+  "pos": "adj.",
+  "pron": "kat-uh-STROF-ik",
+  "pron_note": null,
+  "means": "Disastrous in the fullest sense — sudden, total, and beyond repair.\n\n*Disastrous* stretches to cover a ruined dinner party; **catastrophic** does not. It implies the thing didn't merely go badly, it **stopped existing in working form**: a bank, a bridge, a harvest, an ecosystem. Engineers use it precisely — *catastrophic failure* means a part gave way all at once rather than wearing down gracefully — and that technical sense colours the ordinary one. Casual speech does inflate it (\"my hair looks catastrophic\"), but the joke only works *because* the real word is so absolute.",
+  "trap": null,
+  "trick_line": "There is no such thing as **slightly** catastrophic.",
+  "trick_unpack": "The word sits pinned at the top of the damage scale, so unlike *bad*, *costly* or *damaging* it refuses to be dialled down — if it can be softened, it isn't catastrophic.",
+  "sentences": [
+    "The 2008 collapse was **catastrophic** not because losses were large but because the mechanism of lending itself ceased to function.",
+    "One wrong keystroke and the whole database was gone — genuinely **catastrophic**, and I'd skipped the backup."
+  ],
+  "in_the_wild": "Therapists talk about **catastrophizing** — spiralling from \"he hasn't texted back\" to \"my life is over.\" The habit is named after the word precisely because the leap is always to *total* ruin, never to mild inconvenience.",
+  "etymology": "Greek **kata-** (*down*) + **strephein** (*to turn*) = **katastrophē**, \"the overturning.\" In Greek drama it was a neutral technical term: the sudden final turn of the plot — the scene after which nothing can be undone.\n\nThat **strephein** shows up again in **apostrophe** (a turning away — to address someone absent) and **strophe** (the turn a chorus made across the stage). The **cata-** \"down\" half runs through **catapult**, **cataract**, **catalyst**.",
+  "one_line": "Disastrous on a total, sudden, no-recovery scale.",
+  "root": "kata- (down) + strephein (to turn)",
+  "root_family": [
+    "catastrophe",
+    "apostrophe",
+    "strophe",
+    "catapult",
+    "cataract",
+    "catalyst"
+  ],
+  "confusables": [
+    "cataclysmic",
+    "catatonic",
+    "calamitous"
+  ],
+  "sense_tags": [
+    "disaster",
+    "ruin",
+    "severity",
+    "irreversible",
+    "collapse"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    33
+  ]
+}

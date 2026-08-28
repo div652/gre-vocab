@@ -1,0 +1,40 @@
+{
+  "word": "axiomatic",
+  "pos": "adj.",
+  "pron": "ak-see-uh-MAT-ik",
+  "pron_note": null,
+  "means": "Self-evident; true on its face, so taken as a starting point rather than argued for. Also, literally: *of or based on axioms*.\n\n*Obvious* is casual and can be a bit rude (\"that's obvious\"). **Axiomatic** is cool and formal — it doesn't say *you should have known*, it says *this is where the argument begins*. Watch how it actually gets used: \"it is axiomatic that…\" is usually a move, a way of ruling something out of debate before anyone can dispute it. And it isn't *dogmatic* — a dogma is imposed from outside; an axiom is granted because no one sees a reason to withhold it.",
+  "trap": "⚠️ **axiomatic ≠ idiomatic.**\n- **axiomatic** = needs no proof\n- **idiomatic** = phrased the way a native speaker would actually say it",
+  "trick_line": "**Axio*matic* ≈ auto*matic* — accepted automatically, no proof required.**",
+  "trick_unpack": "The claim goes through on its own, without anyone stopping to justify it.",
+  "sentences": [
+    "The judgment rests on a principle the court treated as **axiomatic**: that no one may profit from his own wrongdoing.",
+    "Round here it's **axiomatic** that you don't touch the thermostat."
+  ],
+  "in_the_wild": "School geometry: Euclid's axioms — a straight line can be drawn between any two points, etc. — are the handful of statements you're allowed to *assume* so that everything else can be proved.",
+  "etymology": "Greek **axios** = *\"worthy\"* → **axiōma**, \"something thought worthy of acceptance.\" An axiom is a claim worthy enough to be let in without a ticket.\n\nSame root: **axiom**, **axiology** (the study of value), and the chemists' **axial**? — no, that one's unrelated (Latin *axis*).",
+  "one_line": "Self-evident; assumed true without needing proof.",
+  "root": "axios (worthy) → axiōma (self-evident principle)",
+  "root_family": [
+    "axiom",
+    "axiology"
+  ],
+  "confusables": [
+    "idiomatic",
+    "dogmatic",
+    "automatic",
+    "axiological"
+  ],
+  "sense_tags": [
+    "self-evident",
+    "unquestioned",
+    "foundational",
+    "assumed",
+    "obvious"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    26
+  ]
+}

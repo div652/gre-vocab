@@ -1,0 +1,46 @@
+{
+  "word": "valor",
+  "pos": "n.",
+  "pron": "VAL-er",
+  "pron_note": "British spelling: valour. Same sound.",
+  "means": "Great personal courage in the face of danger — above all, **courage in battle**.\n\nWhere *bravery* is the everyday word and *nerve* is cheeky, **valor is ceremonial**. It belongs to citations, eulogies and medals, and it almost always implies combat or a heroic rescue: you show valor storming a position, not asking your boss for a raise. It also carries a whiff of the old-fashioned — used of ordinary modern life, it sounds either grand or mock-grand, which is exactly why it works as a joke.",
+  "trap": null,
+  "trick_line": "Nobody hands out a **Medal of Bravery** — the medal says **valor**.",
+  "trick_unpack": "Valor is the officially decorated, battlefield grade of courage, not the everyday kind.",
+  "sentences": [
+    "The citation praised his **valor** under fire: he crossed forty metres of open ground to drag two wounded men back to the line.",
+    "She opened the fridge, sniffed the leftovers, and ate them anyway — **valor**, of a sort."
+  ],
+  "in_the_wild": "Shakespeare's Falstaff, dodging a fight in *Henry IV*: **\"The better part of valour is discretion.\"** The joke only lands because valour means battlefield courage — he's redefining bravery as running away.",
+  "etymology": "Latin **valēre** = *\"to be strong, to be worth.\"* Strength and worth are the same idea in this root, which is why it splits two ways: **valiant, valor, prevail, convalesce** (strength) and **value, valid, invalid, evaluate, avail** (worth).\n\nNote the pair **invalid** — *in-VAL-id* (not strong: a sick person) and *IN-vuh-lid* (not valid: a bad argument). One root, two stresses.",
+  "one_line": "Courage in the face of danger — the medal-worthy kind.",
+  "root": "valēre (to be strong, to be worth)",
+  "root_family": [
+    "valiant",
+    "prevail",
+    "convalesce",
+    "value",
+    "valid",
+    "invalid",
+    "evaluate",
+    "avail",
+    "countervail"
+  ],
+  "confusables": [
+    "valour",
+    "velour",
+    "value"
+  ],
+  "sense_tags": [
+    "courage",
+    "heroism",
+    "battle",
+    "fearlessness",
+    "honour"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    21
+  ]
+}

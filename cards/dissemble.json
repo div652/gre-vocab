@@ -2,38 +2,41 @@
   "word": "dissemble",
   "pos": "v.",
   "pron": "di-SEM-buhl",
-  "pron_note": null,
-  "means": "To **conceal your real feelings, motives or beliefs behind a false front** — to put on an act.\n\nLying and dissembling aren't the same move. A liar asserts something false; a dissembler manages a *surface* — the smile, the level voice, the show of surprise — and may never say a false word at all. It's concealment by performance, with a whiff of the courtier or the schemer about it: literary, faintly archaic, always disapproving. You dissemble *interest*, *grief*, *innocence*; what's being hidden is what you actually are.",
-  "trap": "⚠️ **dissemble ≠ disassemble.** One letter apart, unrelated: **dissemble** = put on a false face; **dis*a*ssemble** = take a machine to pieces. If it can be done with a screwdriver, it's the long one.",
-  "trick_line": "**Dis-semble** = the **semblance** is off — you don't *seem* what you are.",
-  "trick_unpack": "The falseness sits in the appearance, not necessarily in anything the dissembler actually says.",
+  "pron_note": "Two syllables in the middle, not three — *di-SEM-buhl*, never *dis-a-SEM-buhl*.",
+  "means": "To **conceal your real feelings, motives or beliefs behind a false appearance** — to put on a face. (Also transitive: *he dissembled his fury*.)\n\nLying is about facts; dissembling is about *self-presentation*. You needn't state a single falsehood to dissemble — a composed smile over contempt does it. The word is genteel and faintly literary, which is exactly why journalists and lawyers reach for it: **it lets you accuse someone of deceit without saying \"he lied.\"** The dissembler is a smooth operator, not a caught-out fibber.",
+  "trap": "**dissemble ≠ disassemble.** *Disassemble* = take a machine apart. *Dissemble* = put a face on. One removes parts, the other adds a mask.",
+  "trick_line": "**Hiding inside it is *semble* — \"to seem.\"** A dissembler works on how things *seem*, never on what's true.",
+  "trick_unpack": "That's the whole nuance: dissembling manages appearances rather than asserting facts, which is why it feels more like acting than lying.",
   "sentences": [
-    "Pressed on the missing funds, the treasurer **dissembled**, offering a wounded smile and a great deal of talk about procedure.",
-    "Don't **dissemble** with me — you've been checking your phone since we sat down."
+    "Under cross-examination the minister **dissembled** for an hour, conceding nothing and denying nothing.",
+    "Don't **dissemble** — I saw your face when she walked in."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **similis / simulāre** = *\"like; to make like.\"* Add *dis-* (apart, away) and you get *dissimulāre* — to make yourself look **unlike** what you are.\n\nOne root, a whole family: **similar**, **simulate**, **semblance**, **assimilate**, **verisimilitude** (*\"the look of truth\"*). Note that **resemble** and **dissemble** are built on the same stem as opposites — one shows a true likeness, the other a false one.",
-  "one_line": "To hide true feelings or motives behind a false front.",
-  "root": "similis / simulāre (like; to make like)",
+  "in_the_wild": "Watch any political interview write-up: when a reporter can't prove a lie but won't call the answer honest, the verdict is always **\"the candidate dissembled.\"** It's the polite word for lying, and its natural habitat is the press gallery and the courtroom.",
+  "etymology": "Latin **dissimulāre** = *\"to make unlike, to disguise\"* — from **similis**, \"like, similar.\"\n\nThat root is worth banking: **similar, simulate, assimilate, simultaneous, verisimilitude** (the *appearance* of truth), and the stiffer twin **dissimulate**. All of them turn on likeness and seeming.\n\n🚫 **Not *disassemble*.** That's *assemble* (Latin *ad* + *simul*, \"together\") with *dis-* undoing it — same distant family, entirely different job.",
+  "one_line": "To hide your true feelings or motives behind a false front.",
+  "root": "similis (like, similar) → dissimulāre (to disguise)",
   "root_family": [
     "similar",
     "simulate",
-    "semblance",
-    "resemble",
     "assimilate",
+    "simultaneous",
     "verisimilitude",
-    "simulacrum"
+    "dissimulate",
+    "semblance",
+    "resemble"
   ],
   "confusables": [
     "disassemble",
-    "resemble",
     "dissimulate",
-    "assemble"
+    "resemble",
+    "assemble",
+    "dissent"
   ],
   "sense_tags": [
-    "deception",
-    "concealment",
-    "pretense",
+    "deceiving",
+    "concealing",
+    "feigning",
+    "pretending",
     "hypocrisy"
   ],
   "register": "formal",

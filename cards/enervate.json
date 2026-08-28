@@ -2,35 +2,37 @@
   "word": "enervate",
   "pos": "v.",
   "pron": "EN-er-vayt",
-  "pron_note": "Adjective form: **enervated** / **enervating**.",
-  "means": "To **drain of energy, strength, or vitality** — to leave something or someone limp and incapable of effort.\n\nIts trap is optical: the word looks like *energize* and means the exact opposite. Note also what kind of weakening it describes. A punch doesn't enervate you; **August heat, chronic illness, or six months of committee meetings** do. It's a slow sapping of force, usually by conditions rather than by a person, and it's a formal, written word — you'd write that a bureaucracy *enervates* a workforce, but you'd say the meeting *wiped you out*.",
-  "trap": "⚠️ **enervate ≠ innervate.**\n- **e**nervate = *take the nerve out* — weaken\n- **in**nervate = *put nerves in* — supply an organ or muscle with nerves (medical)\n\nOne prefix apart, near-opposite in effect.",
-  "trick_line": "It opens like **energy** — but the **e-** is **ex-**, so the energy goes *out*.",
-  "trick_unpack": "Same first four letters as *energize*, opposite direction of travel, and the draining is gradual rather than sudden.",
+  "pron_note": "Stress the first syllable — not \"ee-NER-vayt\".",
+  "means": "To **drain of energy, vitality or force**; to leave someone weak and listless.\n\nThis isn't ordinary tiredness. *Tire* is what a run does to you; **enervate** is what a swampy climate, a long illness, or years of soft living do to you — a slow sapping that leaves you limp and without will. It carries a hint of moral softening as well as physical weakness, and it's a formal, written word: heat, luxury, and bureaucracy enervate; a gym session just tires you out.",
+  "trap": "⚠️ **enervate ≠ innervate.**\n- **enervate** = take the nerve *out* → weaken\n- **innervate** = supply nerves *in* → stimulate, activate\n\nOne letter, opposite directions. (And despite the look of it, **enervate** is the opposite of *energize*, not a synonym.)",
+  "trick_line": "**Enervate** wears *energize*'s face — but that **E** is for **empty**.",
+  "trick_unpack": "The word looks like a boost and delivers the reverse: a slow draining that leaves you limp rather than merely tired.",
   "sentences": [
-    "The humidity of the delta enervated the garrison long before any enemy reached it.",
-    "Three hours of onboarding slides left the whole team enervated and useless for the rest of the day."
+    "Months of tropical damp had **enervated** the whole garrison; by August the men could barely shoulder their rifles.",
+    "That three-hour status meeting **enervated** me — I got home and just stared at the wall."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **ex-** (*out*) + **nervus** (*sinew, tendon*) — literally *\"to cut the sinews out.\"* To a Roman, *nervus* meant sinew before it meant nerve, so enervating an enemy meant hamstringing him: still standing, no longer able to push.\n\nSame root: **nerve, nervous, unnerve, innervate**.",
-  "one_line": "To drain of energy and vitality; to weaken gradually.",
-  "root": "nervus (sinew, tendon)",
+  "etymology": "Latin **ē-** (*out*) + **nervus** (*sinew, tendon, nerve*) — literally *\"to cut the sinews out.\"* A hamstrung animal is the picture: still alive, no strength left.\n\nSame root: **nerve, nervous, unnerve, innervate** — and note that *nervus* first meant **sinew**, which is why \"he has some nerve\" means gall, not neurons.",
+  "one_line": "To drain of strength and vitality; to leave limp.",
+  "root": "nervus (sinew, nerve)",
   "root_family": [
     "nerve",
     "nervous",
     "unnerve",
-    "innervate"
+    "innervate",
+    "nervy"
   ],
   "confusables": [
     "innervate",
     "energize",
-    "invigorate"
+    "enumerate"
   ],
   "sense_tags": [
     "weakening",
     "fatigue",
-    "loss-of-vitality",
-    "debilitation"
+    "draining",
+    "listlessness",
+    "debilitate"
   ],
   "register": "formal",
   "connotation": "negative",

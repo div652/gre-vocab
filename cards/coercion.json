@@ -1,0 +1,40 @@
+{
+  "word": "coercion",
+  "pos": "n.",
+  "pron": "koh-ER-zhuhn",
+  "pron_note": "Also heard as koh-ER-shuhn; both are standard. The verb is coerce (koh-ERS).",
+  "means": "Making someone act against their will by **threat, pressure, or intimidation** — force applied to the *decision*, not necessarily to the body.\n\nThe key is that the victim still \"chooses\" — they sign, they confess, they hand over the money — but the choice was hollowed out beforehand. That makes coercion colder and more procedural than *bullying* and far more formal than *arm-twisting*; it is a word with legal teeth (a contract signed under coercion is void). In political theory it can be neutral, even technical — \"the state's monopoly on coercion\" — but in ordinary use it is an accusation.",
+  "trap": null,
+  "trick_line": "**Coerce** rhymes with **worse** — \"do it, or things get *worse*.\"",
+  "trick_unpack": "Coercion is the threat hanging over the choice, not the blow itself.",
+  "sentences": [
+    "The tribunal ruled that the testimony had been obtained by **coercion** and struck it from the record.",
+    "They didn't fire him — they just made it clear he'd never get another shift, which is **coercion** with better manners."
+  ],
+  "in_the_wild": "Every courtroom scene where a confession gets thrown out: nobody was beaten, the suspect was simply worn down and threatened until signing was the only way out — that's **coercion**, and it's why the evidence dies.",
+  "etymology": "Latin **co-** (together) + **arcēre** (*to fence in, shut off*) — to hem someone in until only one option is left. That's the meaning exactly: coercion narrows the fence, it doesn't throw the punch.\n\nSame root **arcēre** gives **exercise** (*ex-arcēre*, to drive out, keep at work) and **arcane** (shut away, hidden).",
+  "one_line": "Forcing someone by threat or pressure rather than persuasion.",
+  "root": "arcēre (to fence in, ward off)",
+  "root_family": [
+    "coerce",
+    "coercive",
+    "exercise",
+    "arcane"
+  ],
+  "confusables": [
+    "cohesion",
+    "collusion"
+  ],
+  "sense_tags": [
+    "force",
+    "threat",
+    "compulsion",
+    "intimidation",
+    "duress"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    19
+  ]
+}

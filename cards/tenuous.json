@@ -1,0 +1,42 @@
+{
+  "word": "tenuous",
+  "pos": "adj.",
+  "pron": "TEN-yoo-uhs",
+  "pron_note": "Three syllables, not four — not \"ten-YOO-ee-us.\"",
+  "means": "**Thin, slight, insubstantial** — and so weak that it may not hold. Used of connections, arguments, evidence, claims, and grips: a *tenuous link*, a *tenuous grasp on power*.\n\nA tenuous claim isn't a lie — it's a claim resting on almost nothing. That's the sting: you're not accused of fabricating, you're told your reasoning is a thread. Compare **flimsy**, which is blunter and more dismissive, and **dubious**, which questions honesty rather than strength. *Tenuous* is the polite, academic word for \"this barely holds together,\" which is exactly why reviewers and judges reach for it.",
+  "trap": "⚠️ **tenuous ≠ tenacious.** They look like siblings and are opposites in spirit: **tenuous** = *thin, barely holding* (Latin *tenuis*, thin); **tenacious** = *gripping hard, refusing to let go* (Latin *tenēre*, to hold). A tenacious lawyer can still have a tenuous case.",
+  "trick_line": "**Tenuous almost never travels alone — it comes with a *link*, a *grasp*, a *hold*, a *connection*.**",
+  "trick_unpack": "Every one of those nouns is something that can snap, which tells you the word is about the strength of an attachment, not the truth of a fact.",
+  "sentences": [
+    "The prosecution's case rested on a **tenuous** chain of inference, each link plausible and none of them proven.",
+    "He's got a pretty **tenuous** grasp of how the code works — he just restarts it when it breaks."
+  ],
+  "in_the_wild": "Newsroom staple: a **tenuous ceasefire**, a **tenuous connection to the suspect** — it's the word editors use when something is technically holding but nobody expects it to.",
+  "etymology": "Latin **tenuis** = *\"thin\"*. The payoff is the family: **attenuate** = thin something down, weaken it (attenuated virus, attenuated signal), and **extenuating circumstances** — facts that literally *thin out* your guilt.",
+  "one_line": "So thin or slight it could snap at any moment.",
+  "root": "tenuis (thin)",
+  "root_family": [
+    "attenuate",
+    "extenuate",
+    "extenuating",
+    "tenuity"
+  ],
+  "confusables": [
+    "tenacious",
+    "tenable",
+    "tenure",
+    "tortuous"
+  ],
+  "sense_tags": [
+    "flimsy",
+    "weak-connection",
+    "insubstantial",
+    "fragile",
+    "unconvincing"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

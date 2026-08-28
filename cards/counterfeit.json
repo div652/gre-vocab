@@ -1,0 +1,44 @@
+{
+  "word": "counterfeit",
+  "pos": "adj. / n. / v.",
+  "pron": "KOWN-ter-fit",
+  "pron_note": "Last syllable is \"-fit,\" not \"-feet\" or \"-fyte,\" despite the spelling.",
+  "means": "**Adj.:** made in exact imitation of something genuine **in order to deceive**. **Noun:** the fake item itself. **Verb:** to make such an imitation (or, more loosely, to feign a feeling).\n\nTwo things have to be true: there's a real original, and someone means to pass the copy off as it. A *replica* is honest, an *imitation* may be harmless, a *fake* is the everyday catch-all — **counterfeit** is the cold, legal-sounding one, the word that appears on a seizure notice. It attaches most naturally to money, passports, medicines, luxury goods: things whose whole value is that they're authentic.",
+  "trap": null,
+  "trick_line": "**Counterfeit** money has to cross a **counter** — the fake only counts if someone takes it as real.",
+  "trick_unpack": "That built-in \"counter\" keeps the essential part in view: a counterfeit isn't just a copy, it's a copy made to be *passed*.",
+  "sentences": [
+    "Customs officers destroyed some forty thousand **counterfeit** vials, each stamped with a pharmaceutical logo it had no right to bear.",
+    "That's a **counterfeit** — look at the stitching, no way that bag came out of a Prada factory."
+  ],
+  "in_the_wild": "The felt-tip pen a cashier swipes across your banknote is a **counterfeit-detection pen** — it darkens on ordinary wood-pulp paper, but not on the cotton stock real currency is printed on.",
+  "etymology": "Old French **contrefait** = *\"made against\"* — Latin **contra** (against) + **facere** (to make). Something manufactured in opposition to the real thing.\n\nThat **facere** shows up disguised as **-feit / -fit** in a small family worth knowing: **forfeit** (something \"done wrong,\" hence surrendered as a penalty), **surfeit** (over-done, an excess), **benefit** (well-done). Same root, undisguised, in **fact, factory, manufacture, artifice**.",
+  "one_line": "A fake made to pass as the genuine article.",
+  "root": "facere (to make, to do)",
+  "root_family": [
+    "forfeit",
+    "surfeit",
+    "benefit",
+    "fact",
+    "factory",
+    "manufacture",
+    "artifice",
+    "efficacious"
+  ],
+  "confusables": [
+    "forfeit",
+    "surfeit"
+  ],
+  "sense_tags": [
+    "fake",
+    "imitation",
+    "deception",
+    "fraud",
+    "forgery"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

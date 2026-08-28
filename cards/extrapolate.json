@@ -1,0 +1,42 @@
+{
+  "word": "extrapolate",
+  "pos": "v.",
+  "pron": "ik-STRAP-uh-layt",
+  "pron_note": null,
+  "means": "To take what you know — a trend, a sample, a few data points — and **project it outward** into territory you have no data for. Also, loosely: to infer a general conclusion from a narrow piece of evidence.\n\nThe word always carries a whiff of risk. A calculation is certain; an extrapolation is a *bet* that the pattern holds where you can't see. In technical writing it's neutral bookkeeping (\"extrapolate the curve to t=0\"); in argument it's often a quiet accusation — \"you're extrapolating from a sample of one.\" Assume, guess, and extrapolate all leap beyond the evidence, but only *extrapolate* claims a method for the leap.",
+  "trap": "⚠️ **extrapolate ≠ interpolate.**\n- **interpolate** = estimate *between* two known points (inside the data)\n- **extrapolate** = estimate *beyond* the known points (outside the data)\n\nYou interpolate Tuesday's temperature from Monday's and Wednesday's. You extrapolate next August's.",
+  "trick_line": "**Extra** — you're drawing *extra* line past where the dots stop.",
+  "trick_unpack": "The data ends, the pencil keeps going — which is exactly why an extrapolation can be confidently, elegantly wrong.",
+  "sentences": [
+    "From three fragmentary inscriptions the historian **extrapolated** an entire system of provincial taxation — persuasive, but resting on almost nothing.",
+    "Don't **extrapolate** from one good week and start telling people we've turned the business around."
+  ],
+  "in_the_wild": "Election night: with 8% of votes counted, the networks \"project\" a winner. That projection is pure extrapolation — and the famous misfires are what happens when the sample doesn't behave like the rest.",
+  "etymology": "A modern coinage (1870s), built on **extra-** = *\"outside, beyond\"* — the same prefix in **extraordinary** (beyond the ordinary), **extraneous**, **extracurricular**, **extraterrestrial**.\n\nThe **-polate** half was simply borrowed from **interpolate** to make a matching opposite, so the prefix carries the whole meaning: *inter-* = between the data, *extra-* = beyond it.",
+  "one_line": "Extend a known trend past the data into unknown territory.",
+  "root": "extra- (outside, beyond), on the pattern of interpolate",
+  "root_family": [
+    "extraordinary",
+    "extraneous",
+    "extracurricular",
+    "extraterrestrial",
+    "interpolate"
+  ],
+  "confusables": [
+    "interpolate",
+    "extricate",
+    "extrapolation"
+  ],
+  "sense_tags": [
+    "inference",
+    "projection",
+    "estimation",
+    "generalizing",
+    "data"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    22
+  ]
+}

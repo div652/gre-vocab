@@ -1,0 +1,41 @@
+{
+  "word": "censor",
+  "pos": "v. / n.",
+  "pron": "SEN-ser",
+  "pron_note": "Sounds exactly like sensor — no audible difference.",
+  "means": "**Verb:** to inspect material and **cut out or suppress** whatever an authority finds objectionable — obscene, seditious, or secret.\n**Noun:** the official who does the cutting.\n\nCensoring is **suppression by power** — a state, a studio, a school board, an army. It isn't editing for quality; it's removal for control. The content is *made to disappear*.",
+  "trap": "⚠️ **censor ≠ censure.**\n- **censor** = *delete* the message\n- **censure** = *formally condemn* the person for it\n\nA senator can be censured. A senator's speech can be censored.",
+  "trick_line": "**Cens*or* is an agent, like edit*or* — a man who cuts. Cens*ure* is like in*jure* — it wounds a reputation.**",
+  "trick_unpack": "The censor deletes what you said; the censure is the public scolding for having said it.",
+  "sentences": [
+    "Wartime officials **censored** the soldiers' letters, cutting place names out of the page before the mail went home.",
+    "She **censored** herself mid-sentence, remembering that her boss was standing right behind her."
+  ],
+  "in_the_wild": "Every time Spotify offers you the **\"Clean\"** version next to the *Explicit* one, you're looking at a censored track — the same song with words surgically removed.",
+  "etymology": "Latin **censēre** = *\"to assess, to judge.\"* The Roman **censor** was a magistrate with two jobs: take the **census**, and police public morals — he could strike your name off the rolls for bad conduct.\n\nThat one root gives you a family: **census** (counting), **censor** (suppressing), **censure** (condemning), **censorious** (fault-finding).\n\n🚫 **Not *sensor*.** That's Latin *sentīre*, \"to feel\" — *sense, sentiment, sentient, consent*. Identical sound, unrelated word.",
+  "one_line": "To suppress or cut objectionable material; the official who does it.",
+  "root": "censēre (to assess, to judge)",
+  "root_family": [
+    "census",
+    "censure",
+    "censorious",
+    "recension"
+  ],
+  "confusables": [
+    "censure",
+    "sensor",
+    "censer",
+    "censorious"
+  ],
+  "sense_tags": [
+    "suppression",
+    "authority",
+    "control",
+    "editing-out"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    37
+  ]
+}

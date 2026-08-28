@@ -2,33 +2,34 @@
   "word": "irascible",
   "pos": "adj.",
   "pron": "ih-RAS-uh-buhl",
-  "pron_note": "The middle is \"rass\" (as in *rascal*), not \"race\".",
-  "means": "Hot-tempered by nature — **so easily provoked that anger is a standing feature of the personality**, not an event.\n\nThe word describes a *setting*, not a mood. Someone irate is furious right now, for a reason; someone irascible will be furious next Tuesday too, over the coffee order. It's cooler and more literary than *grouchy* — the tone of a biographer or an obituary (\"the irascible conductor\"), with a hint of grudging respect for talent that comes bundled with a short fuse. *Irritable* is smaller and more excusable, usually blamed on lack of sleep or pain; irascible is who the person simply *is*.",
-  "trap": "⚠️ **irascible ≠ irate.** Same root, different timescale: **irate** = angry *now*; **irascible** = always ready to be. You can make a calm person irate; you cannot make them irascible.",
-  "trick_line": "**-ible = \"able to be.\"** *Visible* = able to be seen, *edible* = able to be eaten, **irascible** = able to be **enraged** — permanently on offer.",
-  "trick_unpack": "The suffix is doing the work: it marks a permanent capacity rather than a current state, which is exactly what separates this word from *irate*.",
+  "pron_note": "The first syllable is a short mumbled \"ih\", not \"eye\" — and never \"-scible\" as \"skible\"; the sc is a soft s.",
+  "means": "Hot-tempered by disposition — quick to anger, easily provoked, permanently on a short fuse.\n\nThe word describes a **standing character trait, not a current mood**. *Irate* is what you are for ten minutes after someone dents your car; *irascible* is what you have been for forty years. It is also a notch more formal and more forgiving than *bad-tempered* — biographers, obituarists and critics use it for people whose temper is bound up with their talent, so it often arrives attached to admiration: *the irascible old genius*.",
+  "trap": null,
+  "trick_line": "**-ible** means *able to be*: irascible = **ire-able** — always available for anger.",
+  "trick_unpack": "That suffix is the entire distinction: it names a permanent capacity for rage, not a fit of it.",
   "sentences": [
-    "Beneath the surgeon's irascible manner, his registrars insisted, lay genuine solicitude for every patient on the ward.",
-    "Don't ask Dad about the parking permit before his coffee — he's irascible until about ten."
+    "Sub-editors learned to approach the **irascible** editor only after his second coffee, and never with a question.",
+    "Don't ask Grandad about the parking — he's **irascible** at the best of times."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **īra** = *\"anger\"* → *īrāscī*, \"to fly into a rage.\" The same root gives you **ire** — the word headlines live on (\"the decision drew the **ire** of regulators\") — and **irate**.\n\n🚫 **Not related to *irritate*** (Latin *irritāre*), despite the overlap in sound and sense.",
-  "one_line": "Quick to anger; bad-tempered as a permanent trait.",
-  "root": "ira (anger), irasci (to grow angry)",
+  "in_the_wild": "It's the standard word in obituaries and profiles for the brilliant-but-difficult figure — the *irascible* chef, coach, or conductor. Gordon Ramsay in one adjective.",
+  "etymology": "Latin **ira** = *anger* — giving **ire**, **irate**, **irascible**.\n\nThe buried **-sc-** is the Latin *inchoative*: \"beginning to.\" So *irascible* = liable to **start** boiling. That same **-sc-** runs through **adolescent** (beginning to grow up), **convalescent** (beginning to get well), **incandescent** (beginning to glow).",
+  "one_line": "Quick-tempered by nature; permanently easy to set off.",
+  "root": "ira (anger)",
   "root_family": [
     "ire",
     "irate",
-    "irascibility"
+    "irately"
   ],
   "confusables": [
     "irate",
-    "irritable"
+    "irritable",
+    "erasable"
   ],
   "sense_tags": [
-    "angry",
-    "quick-tempered",
+    "anger",
     "temperament",
-    "peevish"
+    "short-tempered",
+    "provocable"
   ],
   "register": "formal",
   "connotation": "negative",

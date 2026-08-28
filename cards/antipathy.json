@@ -2,19 +2,19 @@
   "word": "antipathy",
   "pos": "n.",
   "pron": "an-TIP-uh-thee",
-  "pron_note": "Stress on TIP, not the \"anti-\" — never AN-tee-path-ee.",
-  "means": "A deep, settled **dislike or aversion** toward someone or something — usually instinctive rather than argued for.\n\nHatred runs hot; antipathy runs cold. It's a standing position, not a flare-up: you can be perfectly civil to someone you feel antipathy for, and it often comes with no stated reason (\"a natural antipathy to authority\"). The word is formal and slightly clinical — a reviewer or a diplomat's word for \"can't stand,\" which is why it also works for things, not just people: an antipathy to bureaucracy, to sentimentality, to being told what to do.",
-  "trap": "⚠️ **antipathy ≠ apathy.**\n- **antipathy** = feeling **against** — you care, negatively\n- **apathy** = feeling **nothing** — you can't be bothered either way",
-  "trick_line": "You don't *feel* antipathy in a moment — you *hold* it toward someone, for years.",
-  "trick_unpack": "The verbs it keeps company with (hold, harbour, a long-standing antipathy *toward*) tell you it's a permanent setting rather than a burst of temper.",
+  "pron_note": "Stress lands on TIP, not the anti- — it is not \"AN-tee-path-ee\".",
+  "means": "A deep, settled **dislike** or aversion — for a person, a group, an idea, a food.\n\nAntipathy is **cold, not hot**. Hatred burns and wants something to happen; antipathy just wants distance. It's also often **unaccountable** — you feel it before you can justify it, which is why the word suits instinctive recoil (\"a lifelong antipathy to crowds\") as much as considered opposition. And it's **standing, not momentary**: a flash of irritation is never antipathy. Formal register — journalists write of *public antipathy toward* a policy where speech would just say *people hate it*.",
+  "trap": "⚠️ **antipathy ≠ apathy.**\n- **apathy** = *no* feeling — you don't care\n- **antipathy** = feeling *against* — you care, and you're against it\n\nThe apathetic voter stays home shrugging; the antipathetic one stays home in disgust.",
+  "trick_line": "**Anti-path** — you'd take a different path to avoid them.",
+  "trick_unpack": "That captures the coldness: antipathy doesn't attack, it steers clear.",
   "sentences": [
-    "His antipathy toward the new director was never voiced, but it shaped every vote he cast.",
-    "I've got a lifelong antipathy to group projects, and nothing you say will fix it."
+    "Her antipathy toward the new director was never spoken aloud, but it shaped every appointment she made.",
+    "I've got a serious antipathy to group chats — nothing personal, I just can't."
   ],
   "in_the_wild": null,
-  "etymology": "Greek **anti-** (*against*) + **pathos** (*feeling, suffering*). The *-pathy* family is one of the best deals in GRE vocabulary — learn the prefixes and you get four words at once:\n\n- **sym**pathy = feeling *with*\n- **em**pathy = feeling *into*\n- **a**pathy = feeling *without*\n- **anti**pathy = feeling *against*\n\nSame *pathos* also gives **pathetic**, **pathos**, and — via \"suffering, disease\" — **pathology**.",
-  "one_line": "Deep, settled, instinctive dislike of someone or something.",
-  "root": "anti- (against) + pathos (feeling)",
+  "etymology": "Greek **anti-** (*against*) + **pathos** (*feeling, suffering*) — literally *feeling-against*.\n\nThat second root is a GRE workhorse: **sympathy** (feeling *with*), **empathy** (feeling *into*), **apathy** (*without* feeling), **pathos**, **pathetic**, **pathology** (the study of what a body suffers).",
+  "one_line": "A deep, settled dislike — instinctive aversion, not passing anger.",
+  "root": "pathos (feeling, suffering) + anti- (against)",
   "root_family": [
     "sympathy",
     "empathy",
@@ -22,19 +22,18 @@
     "pathos",
     "pathetic",
     "pathology",
-    "antithesis",
-    "antidote"
+    "sociopath"
   ],
   "confusables": [
     "apathy",
     "empathy",
-    "antiphony"
+    "antipodes"
   ],
   "sense_tags": [
     "dislike",
     "aversion",
     "hostility",
-    "distaste"
+    "repugnance"
   ],
   "register": "formal",
   "connotation": "negative",

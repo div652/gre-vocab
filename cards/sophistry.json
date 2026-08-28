@@ -1,0 +1,43 @@
+{
+  "word": "sophistry",
+  "pos": "n.",
+  "pron": "SOF-i-stree",
+  "pron_note": null,
+  "means": "Reasoning that **looks** valid and **isn't** — clever, plausible, elegantly constructed argument used to mislead rather than to find the truth.\n\nA **fallacy** can be an honest mistake; sophistry is a charge of **bad faith**. It accuses you of knowing better and arguing anyway, and of enjoying your own cleverness while you do it. That's why it stings: it says the polish *is* the trick. Reserve it for arguments that are too well-made to be innocent — the tobacco lawyer, the ideologue, the politician who never once misspeaks.",
+  "trap": null,
+  "trick_line": "**Sophistry** wears **sophisticated** clothes — a lie in a good suit.",
+  "trick_unpack": "Both come from Greek *sophos*, \"wise,\" and the whole point of sophistry is that it sounds far too smart to be dishonest.",
+  "sentences": [
+    "The defence rested on pure **sophistry**: a chain of impeccable inferences from a premise no one had agreed to.",
+    "Don't give me that **sophistry** — you said you'd be home by eight and it's midnight."
+  ],
+  "in_the_wild": null,
+  "etymology": "Greek **sophos** = *\"wise.\"* The **Sophists** were paid teachers in 5th-century Athens who trained ambitious young men to win any argument, either side, for a fee. Plato loathed them, and his contempt stuck to the word for 2,400 years — which is why *sophistry* still means \"rhetoric for hire\" rather than \"wisdom.\"\n\nSame root, and the shifts are worth knowing: **philosophy** (*love of* wisdom), **sophomore** (*sophos* + *moros*, fool — a \"wise fool\"), and **sophisticated**, which originally meant *adulterated, tampered with*.",
+  "one_line": "Clever-sounding argument built to deceive.",
+  "root": "sophos (wise)",
+  "root_family": [
+    "philosophy",
+    "sophomore",
+    "sophisticated",
+    "sophism",
+    "theosophy"
+  ],
+  "confusables": [
+    "sophism",
+    "sophisticated",
+    "sophomoric",
+    "casuistry"
+  ],
+  "sense_tags": [
+    "deception",
+    "argument",
+    "rhetoric",
+    "fallacy",
+    "bad-faith"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    28
+  ]
+}

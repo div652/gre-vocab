@@ -1,0 +1,42 @@
+{
+  "word": "enmity",
+  "pos": "n.",
+  "pron": "EN-mi-tee",
+  "pron_note": null,
+  "means": "Deep, settled hostility between people or groups — the **condition of being enemies**.\n\nAnimosity flares up and dies down; enmity just *sits there*. It names a standing relationship rather than a feeling of the moment, and it doesn't have to be actively expressed — two families can be at enmity for eighty years without a word exchanged. It's usually mutual, often inherited, and the register is formal and slightly grand: clans, nations, houses, and factions have enmity; your annoying coworker gets animosity.",
+  "trap": "⚠️ **enmity ≠ amity.** *Amity* = friendly relations (the Treaty of **Amity** and Commerce). Same root, opposite sign — the *en-* is a buried \"not.\"",
+  "trick_line": "**Enmity** = **enemy** + **-ity** — the *state* of being enemies, not a flash of temper.",
+  "trick_unpack": "*-ity* builds lasting conditions (purity, sanity, gravity), so enmity is hostility that has hardened into a permanent arrangement.",
+  "sentences": [
+    "Centuries of enmity between the two houses had outlived every person who could remember how it began.",
+    "There's no enmity there — we just haven't spoken since the wedding."
+  ],
+  "in_the_wild": "Genesis 3:15, King James Bible — God to the serpent: *\"And I will put **enmity** between thee and the woman.\"* Not a quarrel; a permanent state of war written into the world.",
+  "etymology": "Latin **amīcus** = *\"friend\"* (from *amāre*, to love). Add the negating **in-** and you get *inimīcus*, \"not-friend\" → Old French *enemi* → **enemy**, and its abstract noun **enmity**.\n\nOne root, both poles: **amicable, amiable, amity** on the friendly side; **enemy, enmity, inimical** on the hostile side. *Inimical* (\"harmful, hostile to\") is the GRE's favourite member of that family.",
+  "one_line": "Deep, lasting mutual hostility; the state of being enemies.",
+  "root": "amīcus (friend), negated by in-",
+  "root_family": [
+    "enemy",
+    "inimical",
+    "amity",
+    "amicable",
+    "amiable"
+  ],
+  "confusables": [
+    "amity",
+    "animosity",
+    "enormity"
+  ],
+  "sense_tags": [
+    "hostility",
+    "hatred",
+    "feud",
+    "ill-will",
+    "antagonism"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    28
+  ]
+}

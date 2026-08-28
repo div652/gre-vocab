@@ -1,0 +1,41 @@
+{
+  "word": "anoint",
+  "pos": "v.",
+  "pron": "uh-NOYNT",
+  "pron_note": null,
+  "means": "**Literally:** to smear or rub with oil as part of a sacred rite — a king at his coronation, a body before burial, a sick person receiving last rites.\n\n**Figuratively:** to single someone out as the chosen one, especially a successor.\n\nThe figurative sense keeps the incense in it. To *appoint* a deputy is paperwork; to **anoint** a successor is to bless them, to hand over the aura along with the job — the choice feels ordained rather than decided. Journalists lean on it precisely for that whiff of dynasty (\"the anointed heir\"), and **self-anointed** is pure sneer: you consecrated yourself and nobody else was consulted.",
+  "trap": "⚠️ **anoint ≠ appoint.**\n- **appoint** = *assign* to a post — administrative, revocable\n- **anoint** = *consecrate* as chosen — ceremonial, quasi-sacred\n\nA board appoints a CEO. The retiring founder anoints one.",
+  "trick_line": "**an-OINT hides *ointment*** — you can't anoint anyone without the oil, and that oil is what turns a mere choice into a blessing.",
+  "trick_unpack": "The word carries its own grease: *ointment* is right there in the spelling, and the oil is exactly what separates anointing from ordinary appointing.",
+  "sentences": [
+    "The archbishop **anointed** the young queen with chrism before the crown ever touched her head.",
+    "Everyone knew he'd been **anointed** the moment the boss started bringing him to the investor calls."
+  ],
+  "in_the_wild": "**Christ** isn't a surname — Greek *khristos* means *\"the anointed one\"*, a direct translation of Hebrew *mashiach*, **Messiah**. Two of the most familiar words in English are both just \"anointed.\"",
+  "etymology": "Latin **in-** + **unguere** = *\"to smear on.\"* That root oils a whole family: **unguent** (a salve), **ointment**, and — best of all for the GRE — **unctuous**, literally \"greasy,\" now meaning oily in the flattering, insincere way.",
+  "one_line": "To consecrate with oil; to designate as the chosen successor.",
+  "root": "unguere (to smear, to anoint)",
+  "root_family": [
+    "unguent",
+    "ointment",
+    "unctuous",
+    "unction"
+  ],
+  "confusables": [
+    "appoint",
+    "annoint (misspelling)",
+    "ordain"
+  ],
+  "sense_tags": [
+    "consecrate",
+    "ceremonial",
+    "chosen-successor",
+    "oil",
+    "sacred"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    19
+  ]
+}

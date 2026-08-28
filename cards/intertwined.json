@@ -1,0 +1,43 @@
+{
+  "word": "intertwined",
+  "pos": "adj. / v. (past of intertwine)",
+  "pron": "in-ter-TWEYEND",
+  "pron_note": null,
+  "means": "Twisted or wound together — literally, like two vines or strands; figuratively, **so closely linked that neither can be understood or dealt with alone**.\n\nThe figurative sense is the one the GRE cares about. *Connected* is a line between two separate things; **intertwined** means the boundary is gone — fates, histories, economies, storylines that you can no longer pull apart cleanly. It's neutral in tone: an intertwined pair can be lovers or hostile neighbours. What it always implies is **mutual, inseparable involvement**, not mere proximity.",
+  "trap": null,
+  "trick_line": "Hidden inside it: inter-**TWIN**-ed — two things twinned so tightly you can't say where one ends.",
+  "trick_unpack": "The buried *twin* gives you both halves of the meaning — twoness and inseparability — which is exactly what separates *intertwined* from plain *connected*.",
+  "sentences": [
+    "The economic fortunes of the two nations became so **intertwined** that neither could impose sanctions without wounding itself.",
+    "Their friend groups are completely **intertwined** now — you can't invite one person without inviting eleven."
+  ],
+  "in_the_wild": "Every diagram of **DNA** is this word made literal: two strands of the double helix intertwined, and you can't read one without the other.",
+  "etymology": "**inter-** (*between*) + **twine**, from Old English **twīn** = *\"double thread\"*, straight from **twā**, \"two.\"\n\nThat \"two\" root runs through more of English than you'd guess: **twin**, **twist**, **twill** (two-thread weave), **between**, and **twilight** (the \"two lights\" of dusk).",
+  "one_line": "Twisted together; so linked the two can't be separated.",
+  "root": "twā / twīn (two, double thread)",
+  "root_family": [
+    "twin",
+    "twine",
+    "twist",
+    "twill",
+    "between",
+    "twilight",
+    "twice"
+  ],
+  "confusables": [
+    "entwined",
+    "interwoven",
+    "entangled"
+  ],
+  "sense_tags": [
+    "interconnected",
+    "inseparable",
+    "entangled",
+    "mutual-dependence"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    24
+  ]
+}

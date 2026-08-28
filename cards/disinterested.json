@@ -1,0 +1,40 @@
+{
+  "word": "disinterested",
+  "pos": "adj.",
+  "pron": "dis-IN-truh-stid",
+  "pron_note": null,
+  "means": "**Impartial** — having no personal stake, no side to gain by, no axe to grind.\n\nThis is a compliment. A **disinterested** referee, auditor, trustee or judge may care deeply about the matter and still be trusted, because nothing in the outcome touches their pocket or their pride. It describes a *position*, not a mood: you can be riveted by a case and disinterested in it at the same time. Reach for it wherever fairness depends on the absence of a stake.",
+  "trap": "⚠️ **disinterested ≠ uninterested.**\n- **disinterested** = *neutral*, no stake — a virtue\n- **uninterested** = *bored*, no attention — a shrug\n\nThe GRE tests this pair constantly, and the \"bored\" reading of *disinterested* is the wrong answer.",
+  "trick_line": "A **disinterested** judge has no *money* on the game; an **uninterested** one has no *eyes* on it.",
+  "trick_unpack": "*Dis-* strips away the old sense of *interest* — a financial stake — while *un-* strips away attention.",
+  "sentences": [
+    "The estate was placed in the hands of a **disinterested** third party, so neither brother could accuse the other of tampering.",
+    "Don't ask his best mate to score the argument — get someone **disinterested**."
+  ],
+  "in_the_wild": "Boardroom language keeps the strict sense alive: when a company approves a deal involving one of its own executives, the bylaws demand a vote of the **disinterested directors** — the ones with no financial stake, who must recuse-proof the decision.",
+  "etymology": "*Interest* comes from Latin **interesse**, *\"to be between, to concern\"* (**inter-** between + **esse** to be) — and in English it first meant a **legal or financial share** in something. So *disinterested* = **holding no share**. The modern \"curiosity\" sense of *interest* came later, which is exactly why the two words drifted apart.\n\n**esse** also gives you *essence, essential, entity, present*.",
+  "one_line": "Impartial; having no personal stake in the outcome.",
+  "root": "interesse (to be between, to concern) — inter + esse (to be)",
+  "root_family": [
+    "interest",
+    "essence",
+    "essential",
+    "entity",
+    "present"
+  ],
+  "confusables": [
+    "uninterested"
+  ],
+  "sense_tags": [
+    "impartial",
+    "unbiased",
+    "neutral",
+    "objective",
+    "no-stake"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    24
+  ]
+}

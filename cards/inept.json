@@ -1,0 +1,43 @@
+{
+  "word": "inept",
+  "pos": "adj.",
+  "pron": "in-EPT",
+  "pron_note": null,
+  "means": "Lacking skill or competence — and **bungling it visibly**.\n\n*Unskilled* is a neutral fact about training; **inept** is a verdict. It says the person handled the thing badly, awkwardly, and slightly embarrassingly — the botched handshake, the fumbled negotiation, the sentence that lands wrong. It carries a wince, and often a whiff of contempt from the speaker. *Incompetent* accuses someone of being unfit for the job; *inept* accuses them of being clumsy at it, which stings in a smaller, more personal way.",
+  "trap": "**inept ≠ inapt.**\n- **inept** = *the person* is clumsy, unskilled\n- **inapt** = *the thing* is unsuitable, badly chosen\n\nAn inept speaker gives an inapt analogy.",
+  "trick_line": "**in-ept** is **apt** that has already fumbled its own spelling — *a-p-t* trips and comes up *e-p-t*.",
+  "trick_unpack": "The word doesn't just mean \"not apt,\" it *enacts* the clumsiness, which is exactly the flavour inept adds over plain \"unskilled.\"",
+  "sentences": [
+    "The commission's report was a monument to **inept** administration: three years of meetings, and not one decision anybody could act on.",
+    "He's a good guy, but he's completely **inept** in a kitchen — he set fire to pasta."
+  ],
+  "in_the_wild": "The phrase you've heard a hundred times is **\"socially inept\"** — the standard collocation, used of someone who is fine on paper and a disaster in a room. If you can only remember one pairing, remember that one.",
+  "etymology": "Latin **aptus** = *\"fitted, suited\"* → **ineptus**, *\"not fitted.\"*\n\nOne root, a free set of words: **apt** (fitting), **aptitude** (natural fit for something), **adapt** (make it fit), and — via French — **attitude** (originally a figure's *fitting* posture).",
+  "one_line": "Clumsily incompetent — bad at it in an embarrassing way.",
+  "root": "aptus (fitted, suited)",
+  "root_family": [
+    "apt",
+    "aptitude",
+    "adapt",
+    "attitude",
+    "inapt",
+    "ineptitude"
+  ],
+  "confusables": [
+    "inapt",
+    "adept",
+    "unapt",
+    "ineffectual"
+  ],
+  "sense_tags": [
+    "incompetent",
+    "clumsy",
+    "unskilled",
+    "bungling"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    35
+  ]
+}

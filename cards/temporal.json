@@ -1,0 +1,44 @@
+{
+  "word": "temporal",
+  "pos": "adj.",
+  "pron": "TEM-per-uhl",
+  "pron_note": null,
+  "means": "**1.** Relating to **time** — temporal sequence, temporal distortion.\n**2.** Relating to **this world** rather than the spiritual one — earthly, secular.\n\nSense 2 is the one the GRE actually wants, and it follows straight from sense 1: what exists in time is perishable, so *temporal* came to mean everything that isn't eternal. A bishop has spiritual authority; a king has **temporal** power. Used of ambition or pleasure, it quietly implies smallness — mere worldly stuff, set against something lasting.\n\n(A third, purely anatomical sense: the **temporal** lobe, behind your temple.)",
+  "trap": "⚠️ **temporal ≠ temporary.**\n- **temporal** = *of time* (or of this world)\n- **temporary** = *lasting only a short time*\n\nA temporal record spans centuries; a temporary one gets deleted Friday.",
+  "trick_line": "**Temporal** is the exact opposite of **eternal** — in time, therefore of this world.",
+  "trick_unpack": "Anything caught inside time is earthly and perishable, which is how a word about clocks became a word about kings, money, and everything the soul is supposed to outlast.",
+  "sentences": [
+    "The papacy's **temporal** holdings shrank to a few acres, though its spiritual reach was undiminished.",
+    "He talks about enlightenment a lot for a guy whose goals are all pretty **temporal** — car, corner office, bigger flat."
+  ],
+  "in_the_wild": "Every sci-fi **temporal anomaly** / **temporal paradox** — *Doctor Who*, *Star Trek*, *Loki* — is the time sense doing its day job.",
+  "etymology": "Latin **tempus, temporis** = *\"time.\"* One root, a lot of GRE mileage: **tempo** (speed in time), **contemporary** (sharing a time), **extemporaneous** (out of the moment, unrehearsed), **temporize** (stall for time), **temporary**, and even **tempest** (via *tempestas*, \"season, weather\").",
+  "one_line": "Of time; or worldly rather than spiritual.",
+  "root": "tempus, temporis (time)",
+  "root_family": [
+    "tempo",
+    "contemporary",
+    "extemporaneous",
+    "temporize",
+    "temporary",
+    "tempest"
+  ],
+  "confusables": [
+    "temporary",
+    "temporize",
+    "temperate",
+    "contemporary"
+  ],
+  "sense_tags": [
+    "time",
+    "worldly",
+    "secular",
+    "earthly",
+    "non-spiritual"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    19
+  ]
+}

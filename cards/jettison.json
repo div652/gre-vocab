@@ -1,0 +1,45 @@
+{
+  "word": "jettison",
+  "pos": "v. (also n.)",
+  "pron": "JET-uh-suhn",
+  "pron_note": "Final syllable can be -suhn or -zuhn; both are standard.",
+  "means": "To **throw cargo overboard to lighten a ship or aircraft in distress** — and by extension, to **discard something deliberately because carrying it has become too costly**.\n\nYou don't jettison junk; you jettison things you'd have kept if you could. The word carries pressure behind it — a plan, a policy, a principle, a running mate — dumped because the vehicle won't stay up otherwise. *Discard* is neutral housekeeping, *abandon* suggests you walked away and left it lying there; **jettison** is a decision made under load, and it implies the thing had value and you're still moving afterwards.",
+  "trap": null,
+  "trick_line": "**Jet**tison = ***jet it*** out — you only jet it out when the ship must fly lighter.",
+  "trick_unpack": "The \"jet\" is literal (same root as the *jet* of a jet engine — stuff thrown out the back), and the \"must fly lighter\" is the nuance: it's a sacrifice, not a clear-out.",
+  "sentences": [
+    "Facing a hostile committee, the minister quietly **jettisoned** the very clause he had spent two years defending.",
+    "Halfway through the move we just **jettisoned** the sofa — it was never getting up those stairs."
+  ],
+  "in_the_wild": "Watch any rocket launch stream: mission control calls out **\"booster jettison\"** and **\"fairing jettison\"** — expensive hardware thrown away on purpose, because the rest of the vehicle can't reach orbit dragging it.",
+  "etymology": "Latin **iactāre** = *\"to throw\"* (frequentative of *iacere*). One root, a big family: **eject, project, reject, inject, trajectory, conjecture**.\n\nThe nautical branch is the fun one: **jetsam** (goods jettisoned, which sink or wash ashore — as opposed to *flotsam*, wreckage that floats off on its own), a **jetty** (thrown out into the water), and **jet** itself (a stream thrown forth).",
+  "one_line": "Throw overboard; discard something valuable to lighten the load.",
+  "root": "iacere, iactāre (to throw)",
+  "root_family": [
+    "eject",
+    "project",
+    "reject",
+    "inject",
+    "trajectory",
+    "conjecture",
+    "jetsam",
+    "jetty",
+    "jet"
+  ],
+  "confusables": [
+    "jetsam",
+    "flotsam"
+  ],
+  "sense_tags": [
+    "discarding",
+    "abandonment",
+    "lightening-load",
+    "sacrifice",
+    "nautical"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    19
+  ]
+}

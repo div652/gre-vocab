@@ -1,0 +1,43 @@
+{
+  "word": "opportunistic",
+  "pos": "adj.",
+  "pron": "op-er-too-NIS-tik",
+  "pron_note": "British often op-er-tyoo-NIS-tik.",
+  "means": "Seizing whatever chance presents itself — and, in most human contexts, doing so **without regard for principle, loyalty, or long-term plan**.\n\nThe word rarely describes a strategy; it describes the *absence* of one. Call a politician's reversal opportunistic and you're saying the position was chosen by circumstance, not conviction. Note the split, though: in sport, tactics, and biology the word loses its sting and becomes pure praise or plain description — an **opportunistic striker** is a compliment, an **opportunistic feeder** is just a fact about the animal. Damning of people, neutral of organisms.",
+  "trap": "**opportunistic ≠ opportune.**\n- **opportune** = *well-timed*, a favourable moment (an opportune arrival) — praise for the **timing**\n- **opportunistic** = *exploiting* the moment — usually a judgement on the **person**",
+  "trick_line": "**opportun-ist**, like *pur-ist* or *career-ist* — an *-ist* is someone with one commitment, and his is to the opening itself.",
+  "trick_unpack": "The purist believes in purity and the careerist in his career; the opportunist believes in nothing but the gap in front of him.",
+  "sentences": [
+    "Critics dismissed the ceasefire proposal as **opportunistic** — a bid for legitimacy timed to the week the sanctions took effect.",
+    "He's not loyal to the team, he's just **opportunistic** — the second a better offer landed he was gone."
+  ],
+  "in_the_wild": "In medicine, an **opportunistic infection** is one a healthy body shrugs off — thrush, pneumocystis — that turns lethal the moment the immune system is weakened. The pathogen isn't strong; it's just waiting for the opening.",
+  "etymology": "Latin **ob portum** = *\"toward the harbour\"* — said of a wind that happens to be blowing your ship home. So an *opportunity* was originally just favourable weather you didn't arrange.\n\nThat gives you the whole word's judgement for free: the opportunistic man has no course of his own, he simply sails wherever the wind is already going. Same **portus** root as **port, portal, import, export**.",
+  "one_line": "Exploiting any chance that appears, usually without principle.",
+  "root": "portus (harbour), via ob portum (toward harbour)",
+  "root_family": [
+    "opportunity",
+    "opportune",
+    "port",
+    "portal",
+    "import",
+    "export"
+  ],
+  "confusables": [
+    "opportune",
+    "importunate",
+    "opportunism"
+  ],
+  "sense_tags": [
+    "self-serving",
+    "exploiting-circumstance",
+    "unprincipled",
+    "expedient",
+    "timing"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    36
+  ]
+}

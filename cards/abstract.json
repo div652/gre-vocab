@@ -1,0 +1,47 @@
+{
+  "word": "abstract",
+  "pos": "adj. / n. / v.",
+  "pron": "AB-strakt",
+  "pron_note": "As a verb, the stress jumps to the end: ab-STRAKT (like REcord / reCORD).",
+  "means": "**Adj.:** existing as an idea rather than a physical thing; general and theoretical rather than tied to particular cases.\n**Noun:** a **summary** — the condensed version at the head of a paper.\n**Verb (ab-STRAKT):** to **draw out**, extract, or reduce something to its essentials.\n\nAll three senses are one motion: pulling the idea *off* the object. Note that **abstract is not vague** — mathematics is maximally abstract and perfectly exact; vagueness is imprecision, abstraction is distance from the concrete. Neutral in itself, but in an argument \"that's too abstract\" is a complaint: the point has floated free of any real case.",
+  "trap": "**abstract ≠ abstruse.** *Abstract* = removed from the concrete (an abstract principle). *Abstruse* = obscure, hard to follow (an abstruse proof). An abstract idea can be crystal clear; an abstruse one, by definition, isn't.",
+  "trick_line": "Stress it like a verb and it **moves**: to ab-STRACT is to pull something out — leave it **AB**-stract and it just sits there as an idea.",
+  "trick_unpack": "Front-stress gives you the pulled-*away* result (the summary, the theory), end-stress gives you the act of pulling.",
+  "sentences": [
+    "Rawls's principle stays **abstract** until someone applies it to an actual tax code.",
+    "Can you stop being so **abstract** for a second and just tell me what I'm doing on Monday?"
+  ],
+  "in_the_wild": "Every paper you open on arXiv starts with the **Abstract** — the whole argument dragged out and set down in one paragraph.",
+  "etymology": "Latin **abs-** (*away*) + **trahere, tractus** (*to drag, pull*) — literally \"pulled away.\"\n\nThat root is a GRE goldmine: **extract, retract, distract, subtract, protract, contract, attract, traction, tractor**. All of them are something being pulled — out, back, apart, or along.",
+  "one_line": "Existing as an idea, not a thing; also, a summary.",
+  "root": "trahere, tractus (to drag, pull) + abs- (away)",
+  "root_family": [
+    "extract",
+    "retract",
+    "distract",
+    "subtract",
+    "protract",
+    "contract",
+    "attract",
+    "traction",
+    "tractor"
+  ],
+  "confusables": [
+    "abstruse",
+    "abstracted",
+    "abstain",
+    "extract"
+  ],
+  "sense_tags": [
+    "theoretical",
+    "general",
+    "non-concrete",
+    "summary",
+    "extract"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    28
+  ]
+}

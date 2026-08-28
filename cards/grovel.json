@@ -1,0 +1,36 @@
+{
+  "word": "grovel",
+  "pos": "v.",
+  "pron": "GROV-uhl",
+  "pron_note": "Rhymes with *novel*; many Americans say GRUV-uhl.",
+  "means": "To lie or crawl face-down before someone; figuratively, to beg, flatter, or apologise in a way that throws away your dignity.\n\nThe word carries the observer's contempt. **Apologising** is neutral, **pleading** can be dignified — *grovelling* is what you call an apology that has gone too far, performed upwards at someone with power over you. Nobody describes their own behaviour as grovelling except as a joke (\"I grovelled, and he gave me the extension\"). It implies self-abasement bought cheaply, and it makes the reader think less of the one doing it.",
+  "trap": null,
+  "trick_line": "**Grovel = gro(und) level** — nose in the dirt, looking up at the boss.",
+  "trick_unpack": "The word puts you physically below the person you're addressing, which is exactly the loss of standing that separates grovelling from merely apologising.",
+  "sentences": [
+    "Courtiers **grovelled** before the emperor, foreheads pressed to the flagstones until he deigned to speak.",
+    "I had to **grovel** to the landlord for about ten minutes before he agreed to fix the boiler."
+  ],
+  "in_the_wild": "Its natural habitat is the apology email — *\"so sorry to chase, entirely my fault, whenever you get a moment\"* — the grovelling register everyone recognises at work.",
+  "etymology": "From Middle English **grovelling** = *\"face downward\"* (Old Norse *á grúfu*, \"on one's face\"). That was an adverb, but people heard the *-ing* as a verb and invented **grovel** to fit — so the word literally means *lying flat on the ground*, and the figurative sense never lost that posture.",
+  "one_line": "To abase yourself — beg or apologise with all dignity gone.",
+  "root": "Old Norse á grúfu (face downward)",
+  "root_family": [],
+  "confusables": [
+    "gravel",
+    "grapple",
+    "gruel"
+  ],
+  "sense_tags": [
+    "submission",
+    "humiliation",
+    "begging",
+    "flattery",
+    "self-abasement"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

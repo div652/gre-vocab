@@ -1,19 +1,19 @@
 {
   "word": "flummoxed",
-  "pos": "adj. (v. flummox)",
+  "pos": "adj. (past participle of *flummox*, v.)",
   "pron": "FLUM-uhkst",
   "pron_note": null,
-  "means": "Completely baffled — so confused you've given up trying to work it out.\n\nWhere *perplexed* is thoughtful and *bewildered* is faintly distressed, **flummoxed** is comic and defeated. It's a shrug: the puzzle beat you and you're not too upset about it. Chatty register — a professor is *perplexed* by the data, a contestant is *flummoxed* by the question. Almost always passive: you *are flummoxed*, or something *flummoxes* you; nobody flummoxes on purpose.",
-  "trap": null,
-  "trick_line": "**Flummoxed** = *flustered* + *bamboozled*, and it sounds as silly as both.",
-  "trick_unpack": "The goofy, floppy sound is the meaning — this is confusion you can laugh at, not confusion that hurts.",
+  "means": "Completely **baffled** — so confused you have no idea what to do next.\n\nThe word is light on its feet. *Bewildered* has a hint of distress, *perplexed* is cool and intellectual, but **flummoxed** is faintly comic: you're stumped, and everyone can see it on your face. It's the confusion of a man staring at flat-pack instructions, not of a man facing tragedy. Informal and slightly jokey, so it takes the sting out — people say *\"I'm utterly flummoxed\"* about themselves far more readily than they'd admit to being *lost*.",
+  "trap": "⚠️ **flummoxed ≠ flustered.** *Flummoxed* = you can't **understand**; *flustered* = you can't **cope** — rattled, flapping, but perfectly clear on what's going on.",
+  "trick_line": "**Flumm-OX** — you stand there blinking like an ox.",
+  "trick_unpack": "The **ox** hiding at the end catches the flavour of the word: not quiet inner puzzlement but big, dumb, visible bafflement.",
   "sentences": [
-    "Presented with three contradictory expense reports, the auditor was frankly **flummoxed**.",
-    "I've read the instructions four times and I'm still completely **flummoxed** by this flat-pack shelf."
+    "The committee was **flummoxed** by a clause that appeared to forbid the very thing the statute was written to permit.",
+    "Ask him anything about football and he'll talk for an hour — ask him to work the dishwasher and he's completely **flummoxed**."
   ],
   "in_the_wild": null,
   "etymology": null,
-  "one_line": "Utterly baffled, in a comic, given-up sort of way.",
+  "one_line": "Utterly baffled — visibly, comically stumped.",
   "root": null,
   "root_family": [],
   "confusables": [
@@ -23,12 +23,12 @@
   ],
   "sense_tags": [
     "confused",
-    "bewildered",
     "baffled",
-    "at-a-loss"
+    "perplexed",
+    "bewildered"
   ],
   "register": "informal",
-  "connotation": "neutral",
+  "connotation": "negative",
   "groups": [
     14
   ]

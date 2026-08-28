@@ -2,39 +2,37 @@
   "word": "intransigent",
   "pos": "adj.",
   "pron": "in-TRAN-si-juhnt",
-  "pron_note": "Also heard with a hard \"g\": in-TRAN-si-guhnt.",
-  "means": "Refusing absolutely to compromise, negotiate, or shift position.\n\nThis isn't ordinary stubbornness about anything at all — it's specifically a **refusal to move toward the other side**. It lives in the language of talks: unions and management, coalition partners, ceasefire negotiators. *Stubborn* is personal and can even be affectionate; *intransigent* is formal, cold, and almost always an accusation — the label you pin on the party who won't deal. Note too that it describes a **stance**, not a temperament: a normally flexible person can be intransigent on one issue.",
+  "pron_note": "The middle is soft: *-si-juhnt*, not *-sy-gent*.",
+  "means": "Refusing absolutely to compromise, negotiate, or shift position.\n\nThis is stubbornness **at the bargaining table**. *Obstinate* describes a temperament; *intransigent* describes a stance — someone who has been offered terms and will not move an inch. It carries a political, diplomatic weight (unions, parties, peace talks) and usually a note of exasperation from whoever is trying to reach a deal. Occasionally it flips admiring — an intransigent defender of principle — but the default is a complaint.",
   "trap": null,
-  "trick_line": "**In-TRANS-igent** — no **trans**it, no **trans**action: nothing crosses over.",
-  "trick_unpack": "The *trans* sitting in the middle is the giveaway — an intransigent party won't cross over to meet you, so no deal gets transacted.",
+  "trick_line": "**in- + trans-**: he will not **cross over** — there is no **transaction** to be had.",
+  "trick_unpack": "The word hides *transact*, so it isn't general grumpiness — it's the specific refusal to do a deal.",
   "sentences": [
-    "The talks collapsed after three days, each delegation blaming the **intransigence** of the other.",
-    "He's fine about everything else, but he's **intransigent** on the dog sleeping in the bed."
+    "Three weeks of mediation collapsed against an **intransigent** minority that would not concede a single clause.",
+    "He's **intransigent** about the seating plan — I've offered him four versions and he just says no."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **transigere** = *\"to drive through to a settlement\"* — *trans* (across) + *agere* (to drive, to do). Stick **in-** (not) on the front and you have someone who will not be driven across to a settlement.\n\nThat *agere* is a GRE workhorse: **transact**, **agent**, **agenda**, **agile**, **exigent**, **ambiguous** (literally \"driving both ways\").",
-  "one_line": "Refusing utterly to compromise or negotiate.",
-  "root": "agere, actum (to drive, to do) — via transigere (to settle)",
+  "in_the_wild": "It's newsroom boilerplate for stalled talks: *\\\"both sides remained intransigent\\\"* is the standard line in reporting on strikes, ceasefires, and budget standoffs.",
+  "etymology": "Latin **transigere** = *\"to drive through to a settlement\"* (*trans-* across + *agere* to drive) — the same *agere* behind **agent**, **agenda**, **act**, **exigent**. **Transaction** is a deal driven through; **in-transigent** is the man who won't.\n\nThe modern word arrived via Spanish *los intransigentes*, the radical faction of 1873 who refused to enter any coalition — which is why it still smells of politics.",
+  "one_line": "Absolutely refusing to compromise or negotiate.",
+  "root": "transigere (to come to a settlement), from trans- + agere (to drive)",
   "root_family": [
+    "transaction",
     "transact",
     "agent",
     "agenda",
-    "agile",
     "exigent",
-    "ambiguous",
-    "cogent",
-    "prodigal"
+    "act"
   ],
   "confusables": [
-    "intractable",
     "intransitive",
     "indigent",
-    "indignant"
+    "intractable"
   ],
   "sense_tags": [
     "uncompromising",
     "stubborn",
     "negotiation",
+    "hardline",
     "inflexible"
   ],
   "register": "formal",

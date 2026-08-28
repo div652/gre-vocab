@@ -1,0 +1,45 @@
+{
+  "word": "hypocrite",
+  "pos": "n.",
+  "pron": "HIP-uh-krit",
+  "pron_note": "The stress jumps in the noun form: hypocrisy is hi-POK-ruh-see, not HIP-oh-crissy.",
+  "means": "Someone who **professes beliefs, standards or feelings they don't actually hold or live by** — especially one who condemns in others a fault they themselves commit.\n\nNote what the charge is *not*: a hypocrite need not be lying about the principle. The stated principle is often perfectly sound — the failure is in the living of it, which is why \"that's hypocritical\" attacks the speaker rather than refutes the argument. It's aimed at a person, not a statement, and it's among the harshest accusations ordinary English allows: not merely *wrong* but **morally counterfeit**. Also does double duty as a plain conversational insult (\"what a hypocrite\") without losing its bite.",
+  "trap": "⚠️ **hypocritical ≠ hypercritical.**\n- **hypocritical** = preaching what you don't practise\n- **hypercritical** = *excessively* fault-finding, nitpicking\n\nA hypercritical boss finds fault with everything. A hypocritical one finds fault with what he does himself.",
+  "trick_line": "Hypo**crit**e hides **crit** — he *criticises* in you exactly what he does himself.",
+  "trick_unpack": "The word points at a double standard, not a simple lie: one rule for you, another for me.",
+  "sentences": [
+    "He denounced the delegates as **hypocrites** who preached austerity abroad and voted themselves subsidies at home.",
+    "Total **hypocrite** — she lectured me for an hour about screen time, then scrolled through dinner."
+  ],
+  "in_the_wild": "The most quoted line in English on the subject is Jesus in Matthew 7:5 — *\"Thou **hypocrite**, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.\"* Fussing over the speck in someone else's eye with a plank in your own **is** the word.",
+  "etymology": "Greek **hypokritēs** = *\"a stage actor\"* — literally one who answers/plays a part, from **hypo-** (*under*) + **krinein** (*to judge, decide, separate*). The hypocrite is performing a character; the real man is the one under the mask.\n\n**krinein** is a high-yield GRE root: **critic**, **critique**, **criterion**, **crisis** (the moment of decision), **diacritic**.",
+  "one_line": "Someone who preaches a principle they don't actually live by.",
+  "root": "krinein (to judge, separate) + hypo- (under)",
+  "root_family": [
+    "critic",
+    "critique",
+    "criterion",
+    "crisis",
+    "diacritic",
+    "hypodermic",
+    "hypothesis",
+    "hypothermia"
+  ],
+  "confusables": [
+    "hypercritical",
+    "hypocrisy",
+    "Hippocratic"
+  ],
+  "sense_tags": [
+    "insincerity",
+    "double-standard",
+    "pretense",
+    "moral-failing",
+    "sanctimony"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    37
+  ]
+}

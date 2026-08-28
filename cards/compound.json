@@ -1,0 +1,46 @@
+{
+  "word": "compound",
+  "pos": "v. / n. / adj.",
+  "pron": "kuhm-POWND (v.) / KOM-pownd (n., adj.)",
+  "pron_note": "The stress flips: you kuhm-POWND a problem, but you live in a KOM-pownd.",
+  "means": "**Verb:** literally, to **put together** from parts — but the sense the GRE wants is **to make an already bad thing worse by adding to it**.\n**Noun:** a mixture of combined elements (chemistry); also a walled-off group of buildings.\n**Adjective:** made of more than one part — *a compound fracture, a compound sentence*.\n\n*Aggravate* and *worsen* just say the trouble grew. **Compound** says a **second, separate act** was piled onto the first — lying about the crash *compounds* the crash. That's why it lands as quiet blame: the original problem may have been bad luck, but compounding it was a choice. It also carries the maths of **compound interest** — the damage feeds on itself and accelerates.",
+  "trap": "⚠️ **compound ≠ confound.** To **compound** a problem is to *worsen* it; to **confound** someone is to *baffle* them (or to *refute* an expectation — *the results confounded the sceptics*).",
+  "trick_line": "**Compound interest** — the money grows on top of itself. Compound a mistake and the mistake starts earning interest.",
+  "trick_unpack": "The word never means a single loss; it means a loss that keeps generating more loss.",
+  "sentences": [
+    "The airline's refusal to explain the delay only **compounded** the passengers' anger.",
+    "Don't **compound** it by texting him at 2am — you've done enough damage for one night."
+  ],
+  "in_the_wild": "News coverage keeps the odd noun sense alive: a raid on a **compound** in Abbottabad, the Kennedy **compound** at Hyannis Port — a walled cluster of buildings, not a chemical.",
+  "etymology": "Latin **compōnere** = *\"to put together\"* (**com-** together + **pōnere** to place). One root, a whole shelf of words: **compose, component, composite, deposit, postpone, exponent, position**.\n\n🚫 The walled-enclosure **compound** is a different word entirely — Malay **kampung**, *\"village\"*, brought back by traders and reshaped to look like the Latin one.",
+  "one_line": "To worsen something bad by adding to it",
+  "root": "compōnere (com- \"together\" + pōnere \"to place\")",
+  "root_family": [
+    "compose",
+    "component",
+    "composite",
+    "deposit",
+    "postpone",
+    "exponent",
+    "proponent",
+    "position"
+  ],
+  "confusables": [
+    "confound",
+    "compose",
+    "expound",
+    "impound"
+  ],
+  "sense_tags": [
+    "worsen",
+    "aggravate",
+    "combine",
+    "accumulate",
+    "enclosure"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    37
+  ]
+}

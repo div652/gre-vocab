@@ -1,0 +1,43 @@
+{
+  "word": "ulterior",
+  "pos": "adj.",
+  "pron": "ul-TEER-ee-er",
+  "pron_note": null,
+  "means": "Lying **beyond what is openly stated** — kept back, undisclosed. Chiefly of motives: the *real* reason, hiding behind the reason you were given.\n\nIt does not mean *evil*, only *concealed* — and the charge lands on the hiding, not the aim. A man with an ulterior motive for buying you dinner may only want a job reference. The word is also almost welded to one noun: nine times out of ten you'll meet it as **ulterior motive(s)**, delivered as a raised eyebrow rather than an outright denunciation — polite suspicion, the sort you can voice at a dinner table.",
+  "trap": null,
+  "trick_line": "Interior, exterior, **ulterior** — the *-erior* that sits **further out** than the reason you were shown.",
+  "trick_unpack": "All three are Latin comparatives of position, and *ulter* means \"beyond,\" so an ulterior motive is simply the one parked further back than the visible one.",
+  "sentences": [
+    "The committee's sudden concern for procedure was widely read as **ulterior** — a way to bury the report without appearing to.",
+    "He's been weirdly nice all week, so obviously there's an **ulterior** motive."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **ulter** = *\"beyond\"* — **ulterior** is its comparative (*\"farther\"*), **ultimus** its superlative (*\"farthest\"*). That gives you **ultimate** (the farthest point), **ultimatum** (the final demand), **ultra-** (beyond the limit: *ultraviolet*, *ultrasonic*), and, via French *outre*, **outrage** — going beyond all bounds.",
+  "one_line": "Hidden beyond what's stated — especially a concealed motive.",
+  "root": "ulter (beyond), comparative ulterior",
+  "root_family": [
+    "ultimate",
+    "ultimatum",
+    "ultra-",
+    "ultraviolet",
+    "outrage"
+  ],
+  "confusables": [
+    "interior",
+    "exterior",
+    "anterior",
+    "alterior (common misspelling)"
+  ],
+  "sense_tags": [
+    "hidden",
+    "concealed",
+    "motive",
+    "undisclosed",
+    "secretive"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    31
+  ]
+}

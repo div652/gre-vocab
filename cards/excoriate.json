@@ -1,0 +1,40 @@
+{
+  "word": "excoriate",
+  "pos": "v.",
+  "pron": "ik-SKOR-ee-ayt",
+  "pron_note": null,
+  "means": "**To denounce someone ferociously and publicly.** (Older, literal sense: to strip the skin off.)\n\nThis is criticism as flaying — sustained, itemised, and delivered by someone with standing to deliver it. Judges excoriate counsel; editorials excoriate ministers; inquiries excoriate agencies. Set it beside its neighbours: **berate** is loud and personal in the moment, **rebuke** is short and almost polite, **excoriate** is the long articulate demolition that leaves nothing of the target intact. It also quietly flatters the critic — you have to be somebody before your attack counts as an excoriation.",
+  "trap": "⚠️ **excoriate ≠ exonerate.** Same shape, opposite verdicts: *excoriate* = flay them in public; *exonerate* = clear them of blame. \"The inquiry ___ the chief constable\" reverses completely depending on which one you pick.",
+  "trick_line": "**Ex-CORE-iate** — peel the hide off until only the core is left.",
+  "trick_unpack": "The \"core\" you hear in the middle is the point: it isn't a jab, it's stripping someone down layer by layer in front of an audience.",
+  "sentences": [
+    "The inquiry's final chapter **excoriated** the regulator for a decade of deliberate blindness.",
+    "Don't post that draft tonight — the replies are going to **excoriate** you."
+  ],
+  "in_the_wild": "Still literal in medicine: DSM-5 lists **excoriation disorder** (compulsive skin-picking), and dermatologists write \"excoriations\" for scratch marks on a chart — the skin sense never left the word.",
+  "etymology": "Latin **ex-** (\"off\") + **corium** (\"hide, skin\") — to take the hide off. *Corium* also gives **cuirass**, the leather breastplate.\n\n🚫 **Not *excruciate*.** That's Latin *crux*, \"cross\" — pain on a cross, not pain from a flaying. Different root, different torture.",
+  "one_line": "To criticise savagely in public; literally, to strip off skin.",
+  "root": "corium (hide, skin)",
+  "root_family": [
+    "cuirass",
+    "corium",
+    "excoriation"
+  ],
+  "confusables": [
+    "exonerate",
+    "excruciate",
+    "execrate",
+    "exculpate"
+  ],
+  "sense_tags": [
+    "harsh-criticism",
+    "denunciation",
+    "rebuke",
+    "public-shaming"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    27
+  ]
+}

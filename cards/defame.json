@@ -1,0 +1,43 @@
+{
+  "word": "defame",
+  "pos": "v.",
+  "pron": "dih-FAYM",
+  "pron_note": null,
+  "means": "To damage someone's reputation by saying or publishing **false** things about them.\n\nThe falsity is built in — you cannot defame someone with the truth, however brutal. That's what separates it from *insult* or *criticise*: an insult wounds the person, defamation rewrites how everyone else sees them. It's also public by nature (a private sneer defames nobody) and carries a courtroom hum — *defamation* is an actual tort, split into **libel** (written) and **slander** (spoken).",
+  "trap": "**defame ≠ defile.** *Defame* blackens a reputation with lies; *defile* dirties something sacred or pure — a temple, a river, a memory.",
+  "trick_line": "**De-fame** — you are *removing the fame*, i.e. stripping off the good name, and you're doing it with a lie.",
+  "trick_unpack": "The word wears its meaning on the outside: *fame* here means \"reputation,\" and the *de-* pulls it down.",
+  "sentences": [
+    "The pamphlet **defamed** the magistrate as a taker of bribes, a charge the court found to be wholly invented.",
+    "Say that about me in public and I'll sue you for **defaming** me."
+  ],
+  "in_the_wild": "The Depp v. Heard trial (2022) — streamed and memed for six weeks — was a **defamation** suit: the argument was never \"she was mean,\" it was \"she published something false that destroyed his name.\"",
+  "etymology": "Latin **fāma** = *\"report, rumour, what people say about you\"* — so *fame* originally just meant reputation, good or bad.\n\nThat root pays off across the list: **famous**, **infamous** (famous *for* something bad), **infamy**, **defamation**.",
+  "one_line": "To attack someone's reputation with false public statements.",
+  "root": "fāma (report, reputation)",
+  "root_family": [
+    "fame",
+    "famous",
+    "infamous",
+    "infamy",
+    "defamation",
+    "famed"
+  ],
+  "confusables": [
+    "defile",
+    "defraud",
+    "deface"
+  ],
+  "sense_tags": [
+    "reputation",
+    "slander",
+    "libel",
+    "false-accusation",
+    "disparage"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    33
+  ]
+}

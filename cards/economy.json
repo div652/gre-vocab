@@ -1,0 +1,42 @@
+{
+  "word": "economy",
+  "pos": "n.",
+  "pron": "ih-KON-uh-mee",
+  "pron_note": null,
+  "means": "Beyond \"the nation's finances,\" the sense the GRE tests is **sparing, efficient use of any resource** — words, movement, effort, materials. *An economy of gesture. Economy of style.*\n\nUsed this way it's almost always **praise**: it means nothing is wasted, not that little is spent. A stingy person practises *parsimony*; a good writer practises *economy* — same reduction, opposite verdict. It implies skill and control, the sense that everything left in is doing work.",
+  "trap": "⚠️ **economic ≠ economical.**\n- **economic** = to do with the economy (*economic policy, economic growth*)\n- **economical** = thrifty, sparing (*an economical little car*)\n\nAn economic decision affects GDP; an economical decision saves you money.",
+  "trick_line": "**Economy isn't *less* — it's *no waste*.**",
+  "trick_unpack": "That distinction is why \"economy of prose\" is a compliment while \"cheap prose\" is an insult.",
+  "sentences": [
+    "Vermeer's late paintings achieve their power through sheer **economy**: a single window, one figure, nothing else in the room.",
+    "Watch her cook — total **economy** of movement, not one wasted step between the fridge and the pan."
+  ],
+  "in_the_wild": "**Economy class** on a plane: the seat designed so that not one cubic inch is spent on anything you don't strictly need. Fly it once and the meaning of the word is in your knees.",
+  "etymology": "Greek **oikos** (*house*) + **nomos** (*law, management*) → *oikonomia*, \"household management\" — running the home without waste. That's why the thrift sense is the original one and the national-finances sense came later.\n\nBoth halves pay off elsewhere: **oikos** gives **ecology** and **ecumenical**; **nomos** gives **autonomy**, **astronomy**, **taxonomy**, **gastronomy** — all \"the rules governing X.\"",
+  "one_line": "Sparing, efficient use of resources — nothing wasted.",
+  "root": "oikos (house) + nomos (law, management)",
+  "root_family": [
+    "ecology",
+    "ecumenical",
+    "autonomy",
+    "astronomy",
+    "taxonomy",
+    "gastronomy"
+  ],
+  "confusables": [
+    "economic",
+    "economical"
+  ],
+  "sense_tags": [
+    "thrift",
+    "efficiency",
+    "restraint",
+    "frugality",
+    "concision"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    22
+  ]
+}

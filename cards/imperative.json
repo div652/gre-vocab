@@ -1,0 +1,41 @@
+{
+  "word": "imperative",
+  "pos": "adj. / n.",
+  "pron": "im-PERR-uh-tiv",
+  "pron_note": null,
+  "means": "**Adj.:** absolutely necessary, not optional. **Noun:** an essential duty or an order that must be obeyed (*the moral imperative to act*).\n\nNote the force behind it: *necessary* states a fact, *urgent* states a deadline, but **imperative** speaks with the voice of command — something is demanding this of you, and refusing carries consequences. It is the register of policy papers, boardrooms and generals, which is why \"it is imperative that we act now\" lands harder than \"we should act now.\" Grammar borrows the same force for the **imperative mood** — the form of a verb that gives orders: *Go. Stop. Listen.*",
+  "trap": "⚠️ **imperative ≠ imperious.** Same root, different target: **imperative** = the *thing* that must be done; **imperious** = a *person* who is arrogantly bossy. A safety check is imperative; the manager barking about it is imperious.",
+  "trick_line": "**Imper**ative = an **emper**or's order — you don't negotiate with it.",
+  "trick_unpack": "The near-identical opening syllable is the real link, and it carries the nuance: this isn't a suggestion that happens to be important, it's a command with no reply.",
+  "sentences": [
+    "It is **imperative** that the vaccine be kept below four degrees at every stage of transit.",
+    "Look, it's not a nice-to-have — getting the deposit in by Friday is **imperative**."
+  ],
+  "in_the_wild": "Every language class you've ever sat in: the **imperative mood** is the command form — *Sit. Wait. Don't touch that.* The grammar term is the meaning.",
+  "etymology": "Latin **imperāre** = *\"to command,\"* which gives **imperium** (command, dominion) — and from there a whole family: **emperor**, **empire**, **imperial**, **imperious**, **imperative**. Learn the root once and five words come with it.",
+  "one_line": "Absolutely necessary — a command, not a suggestion.",
+  "root": "imperāre (to command)",
+  "root_family": [
+    "emperor",
+    "empire",
+    "imperial",
+    "imperious",
+    "imperium"
+  ],
+  "confusables": [
+    "imperious",
+    "imperial",
+    "impervious"
+  ],
+  "sense_tags": [
+    "necessity",
+    "urgency",
+    "command",
+    "obligation"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    34
+  ]
+}

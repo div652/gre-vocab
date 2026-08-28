@@ -1,36 +1,36 @@
 {
   "word": "exasperated",
-  "pos": "adj. (past participle of *exasperate*, v.)",
+  "pos": "adj. (past tense of *exasperate*, v.)",
   "pron": "ig-ZAS-puh-ray-tid",
   "pron_note": null,
-  "means": "Worn down into intense irritation — patience finally used up after being provoked again and again.\n\nThis is not the flash of rage. Rage is hot and sudden; **exasperated** is what's left after the fifth reminder, the third rescheduled meeting, the toddler asking *why* one more time. It carries fatigue inside it — a sigh, a hand over the face, \"I give up on you.\" Being exasperated also quietly says the other party was *unreasonable*, so it's a mild accusation as well as a mood.",
-  "trap": "⚠️ **exasperate ≠ exacerbate.**\n- **exasperate** = irritate a **person** past their patience\n- **exacerbate** = make a **problem** worse\n\nYour excuses exasperate me; they exacerbate the delay.",
-  "trick_line": "**Ex-ASPER-ated: rubbed rough**, over and over — sandpaper, not fire.",
-  "trick_unpack": "The buried root *asper* means \"rough,\" which is exactly why the word means friction and wear rather than a sudden blaze of anger.",
+  "means": "Pushed past the end of your patience — intensely irritated and worn down, usually by something that has happened *again*.\n\nThe word carries repetition and fatigue. You get **angry** in one moment; you become **exasperated** after the fifth time you've explained it, the third failed attempt, the child who has asked \"why?\" eleven times. It's also fairly powerless: the exasperated person has tried the reasonable options and run out. That's why it collocates almost automatically with **sigh**, **groan**, **eye-roll** — never with *punch*.",
+  "trap": "⚠️ **exasperate ≠ exacerbate.**\n- **exasperate** = irritate a *person* past their patience\n- **exacerbate** = make a *problem* worse\n\nYour excuses exasperate me; they exacerbate the situation.",
+  "trick_line": "**Exasperated ends in a sigh, not a shout.**",
+  "trick_unpack": "It's the deflated, worn-thin end of patience after one repetition too many — not a sudden explosion of rage.",
   "sentences": [
-    "Exasperated by a committee that had debated the same clause for three sittings, the chairman adjourned without a vote.",
-    "I've asked him to take the bins out four times — I'm past annoyed, I'm exasperated."
+    "After three hours of circular debate, the chairwoman gave an **exasperated** wave of the hand and adjourned the meeting.",
+    "I'm getting **exasperated** — that's the fourth time I've sent you the same link."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **asper** = *\"rough, harsh\"*, with *ex-* as an intensifier: to make thoroughly rough — to rub someone raw.\n\nSame root gives you **asperity** — harshness of tone or manner (\"she replied with some asperity\"), a GRE word in its own right.",
-  "one_line": "Irritated past patience by repeated provocation.",
-  "root": "asper (rough, harsh)",
+  "etymology": "Latin **asper** = *\"rough\"*, with **ex-** as an intensifier: to *thoroughly roughen* someone — rub them raw.\n\nSame root gives you **asperity** (harshness of tone or manner) — a GRE word in its own right. Keep the pair: *asperity* is the rough edge; *exasperated* is what being scraped by it repeatedly leaves you.",
+  "one_line": "Worn past patience by repeated irritation; frustrated to the sighing point.",
+  "root": "asper (rough)",
   "root_family": [
     "asperity",
     "exasperate",
-    "exasperation"
+    "asperous"
   ],
   "confusables": [
-    "exacerbate",
-    "exasperate",
-    "asperse"
+    "exacerbated",
+    "exasperated vs exhausted",
+    "aspersion"
   ],
   "sense_tags": [
     "irritated",
-    "impatient",
     "frustrated",
-    "worn-down",
-    "annoyance"
+    "patience-worn",
+    "annoyance",
+    "weariness"
   ],
   "register": "neutral",
   "connotation": "negative",

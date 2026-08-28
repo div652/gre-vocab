@@ -1,0 +1,53 @@
+{
+  "word": "allusive",
+  "pos": "adj.",
+  "pron": "uh-LOO-siv",
+  "pron_note": "The s hisses — \"-siv\", never \"-ziv\".",
+  "means": "Full of **indirect references** — to books, myths, events, people — made in passing rather than spelled out.\n\nThe key is deliberateness. Allusive writing isn't unclear because the writer fumbled; it's indirect **on purpose**, and it assumes you already know the thing being pointed at. That makes it a compliment among literary types (dense, layered, sophisticated) and a complaint everywhere else (show-offy, impenetrable to outsiders). It describes **style**, not people: a poem, an essay, a remark can be allusive — a person is usually *evasive* instead.",
+  "trap": "⚠️ **allusive ≠ elusive.**\n- **allusive** = *refers* indirectly (from **allude**)\n- **elusive** = *escapes* you — hard to catch, pin down, or define (from **elude**)\n\n**E** for **E**scape. An allusive clue points at something; an elusive answer runs away from you.",
+  "trick_line": "**All**usive drops the reference and leaves you to catch it — all hint, no footnote.",
+  "trick_unpack": "The hint only works if you already know the source, which is exactly why allusive style flatters some readers and locks out the rest.",
+  "sentences": [
+    "Her prose is so **allusive** that a single paragraph nods at Ovid, the Book of Job, and a Motown B-side.",
+    "He made some **allusive** comment about \"what happened in Lisbon\" and then just changed the subject."
+  ],
+  "in_the_wild": "T. S. Eliot's **The Waste Land** is the textbook case of allusive writing — it packs in so many buried quotations that Eliot bolted footnotes onto the end of the poem to explain his own references.",
+  "etymology": "Latin **ad-** (\"toward\") + **lūdere** (\"to play\") → *allūdere*, \"to play at, touch on lightly, joke toward.\"\n\nThat **lūdere** root is a GRE workhorse: **elude** (play *away* → escape), **delude** (play someone false), **collude** (play together, in secret), **illusion**, **prelude**, **interlude**, **ludicrous**. Spot *-lud-/-lus-* and you're looking at play.",
+  "one_line": "Full of indirect references; hinting rather than stating outright.",
+  "root": "lūdere, lūsum (to play)",
+  "root_family": [
+    "allude",
+    "elude",
+    "elusive",
+    "delude",
+    "delusion",
+    "collude",
+    "collusion",
+    "illusion",
+    "illusory",
+    "prelude",
+    "interlude",
+    "ludicrous",
+    "ludic"
+  ],
+  "confusables": [
+    "elusive",
+    "illusive",
+    "evasive",
+    "allusion",
+    "illusion",
+    "elude"
+  ],
+  "sense_tags": [
+    "indirect-reference",
+    "hinting",
+    "literary-style",
+    "implication",
+    "obliqueness"
+  ],
+  "register": "literary",
+  "connotation": "depends",
+  "groups": [
+    23
+  ]
+}

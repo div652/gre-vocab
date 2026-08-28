@@ -3,36 +3,35 @@
   "pos": "adj.",
   "pron": "ih-NIM-ih-kuhl",
   "pron_note": null,
-  "means": "**1.** Harmful, damaging, working against something: *conditions inimical to growth*. **2.** Hostile, unfriendly: *an inimical stare*.\n\nSense 1 does almost all the work on the GRE. Where *hostile* pictures a scowling person, **inimical** is cold and impersonal — it describes a *condition, climate, policy or influence* that quietly undermines something. No intent required: damp air is inimical to old books. The register is high — committee reports, judgments, editorials — so it lands as clinical disapproval rather than heat.",
-  "trap": "⚠️ **inimical ≠ inimitable.** *Inimical* = **harmful/hostile**; *inimitable* (ih-NIM-ih-tuh-bul) = **impossible to imitate**, i.e. matchless, a compliment. One sinks you, the other flatters you.",
-  "trick_line": "**Inimical** almost never stands alone — it arrives with **to**, and whatever follows the *to* is the victim.",
-  "trick_unpack": "If you can slot in *\"inimical **to** free speech / to health / to morale,\"* you've got the exam sense — the word names what's being damaged, not who's angry.",
+  "means": "**Harmful to; working against.** Also, more rarely, **openly hostile** (*an inimical stare*).\n\nOn the GRE it almost always arrives in the first sense and almost always with **to**: *conditions inimical to growth, a climate inimical to free speech*. That matters, because the harm is usually **structural, not personal** — a policy, a temperature, a bureaucracy. Nothing is angry at you; the conditions simply make thriving impossible. Compare *hostile*, which needs a hater, and *detrimental*, which is bloodlessly neutral about damage. **Inimical** sits between: no hater, but a real sense of opposition — the environment is set *against* the thing.",
+  "trap": "⚠️ **inimical ≠ inimitable.**\n- **inimical** = *harmful to* — an insult to whatever it touches\n- **inimitable** (*ih-NIM-ih-tuh-buhl*) = *impossible to copy* — high praise\n\nOne syllable apart, opposite verdicts: *his inimitable style* is a compliment; *a style inimical to clarity* is not.",
+  "trick_line": "Strip the **in-** and you're left with **amical** — *friendly*. Inimical = **un-friendly conditions**, not an unfriendly person.",
+  "trick_unpack": "The prefix flips *amicable* into its opposite, and the \"conditions\" half is what keeps you from mixing it up with plain personal hostility.",
   "sentences": [
-    "The committee found that a culture of secrecy was **inimical** to the public trust it was created to protect.",
-    "Open-plan offices are **inimical** to getting literally any thinking done."
+    "The committee found the merger **inimical** to competition in every market it examined.",
+    "Open-plan offices are pretty **inimical** to getting any actual thinking done."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **inimīcus** = *\"enemy\"* — literally **in-** (*not*) + **amīcus** (*friend*). An un-friend.\n\nThat *amīcus* opens a whole family: **amicable** (friendly settlement), **amity** (friendly relations), **amiable**, **amicus curiae** (*\"friend of the court\"*) — and, worn down through French, plain **enemy** and **enmity**, which are the same word as *inimical*.",
-  "one_line": "Hostile; actively harmful to something's interests.",
-  "root": "amīcus (friend), via inimīcus (enemy)",
+  "in_the_wild": "A regulator's stock phrase: US securities and insurance statutes repeatedly bar conduct **\"inimical to the public interest.\"** If you ever read a licence revocation, you'll meet the word in its natural habitat.",
+  "etymology": "Latin **inimīcus** = *in-* (\"not\") + *amīcus* (\"friend\") — literally **\"un-friend.\"**\n\nThat one root pays out across the exam: **enemy** (same word, worn down through French), **amicable**, **amity**, **amiable**. Spot *amic-* and think *friend*; spot *in-amic-* and think *the opposite of friend*.",
+  "one_line": "Harmful to; working against something's survival or success.",
+  "root": "inimīcus (unfriendly) ← in- (not) + amīcus (friend)",
   "root_family": [
     "enemy",
-    "enmity",
     "amicable",
     "amity",
     "amiable",
-    "amicus curiae"
+    "enmity"
   ],
   "confusables": [
     "inimitable",
-    "amicable"
+    "amicable",
+    "minimal"
   ],
   "sense_tags": [
-    "hostile",
     "harmful",
-    "unfriendly",
+    "hostile",
     "adverse",
-    "damaging"
+    "obstructive"
   ],
   "register": "formal",
   "connotation": "negative",

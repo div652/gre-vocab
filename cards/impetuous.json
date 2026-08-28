@@ -2,19 +2,19 @@
   "word": "impetuous",
   "pos": "adj.",
   "pron": "im-PECH-oo-uhs",
-  "pron_note": "The -tu- softens to \"ch\", as in situation — not \"im-PET-you-us\".",
-  "means": "Acting on sudden feeling, with force and without thought — hasty, headlong, unreflecting.\n\nCompare the neighbours: **rash** is pure bad judgment, **impulsive** is clinical (a shrug at someone's wiring), but **impetuous** has heat in it — speed, passion, momentum. It's the word for the young lover who proposes in a week or the striker who charges the defence alone. Faintly disapproving, yet often half-admiring: the impetuous person is reckless *because* they feel too much, not because they're stupid. Applied to an old man it's an insult; applied to a twenty-two-year-old it's nearly a compliment.",
-  "trap": null,
-  "trick_line": "**Impetuous** has **impetus** sitting inside it — all momentum, no brakes.",
-  "trick_unpack": "The word literally carries a rushing force, which is why it means *driven by feeling too fast to steer*, not merely foolish.",
+  "pron_note": "Careful British speakers often say im-PET-yoo-uhs; both are fine.",
+  "means": "Acting suddenly and passionately, without pausing to think — carried along by feeling rather than judgement.\n\nPut it on a scale: **impulsive** is the clinical word (a shrug — you just do things); **rash** is a verdict on the consequences (you should have known better); **impetuous** adds *velocity and heat*. It's the word for someone who charges, not someone who slips up. That's why it so often lands on the young and the in-love: an impetuous marriage, an impetuous resignation. There's usually a flicker of admiration inside the criticism — the person had fire, just no brakes.",
+  "trap": "**impetuous ≠ imperious.** *Impetuous* is hot and headlong (acts before thinking); *imperious* is cold and commanding (expects to be obeyed). The impetuous man storms out; the imperious one snaps his fingers for the bill.",
+  "trick_line": "Hiding in plain sight: **impetuous** contains **impetus** — momentum with no brakes.",
+  "trick_unpack": "The word isn't about being careless, it's about being *propelled* — motion first, thinking later.",
   "sentences": [
-    "Her **impetuous** resignation, delivered in the heat of the meeting, cost her a pension she had spent nineteen years earning.",
-    "Don't be so **impetuous** — sleep on it, and text him tomorrow."
+    "Her **impetuous** decision to sell the house and sail the Atlantic struck her family as either heroic or unhinged, depending on who was asked.",
+    "Don't be **impetuous** — sleep on it before you send that email."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **impetus** = *\"an attack, a rush\"* — from **in-** (*upon*) + **petere** (*to rush at, to seek*).\n\n**petere** is a high-yield GRE root: **petition** (seek a favour), **appetite** (seek toward), **compete** (seek together), **repeat** (seek again), **perpetual**, **centripetal** (seeking the centre).",
-  "one_line": "Acting fast on sudden passion, without stopping to think.",
-  "root": "petere (to rush at, to seek)",
+  "in_the_wild": "Football commentary lives on this word: a lunging, mistimed tackle is always described as **an impetuous challenge** — the player didn't misjudge so much as charge in without thinking, and gets a red card for it.",
+  "etymology": "Latin **impetus** = *\"an attack, a rush,\"* from *in-* (at) + **petere** (*to seek, rush at*).\n\nThat root pays rent across the exam: **petition** (seek a favour), **appetite** (seek food), **compete** (seek alongside), **repeat** (seek again), **perpetual** (seeking on forever), **centripetal** (seeking the centre).",
+  "one_line": "Acting on sudden passion, headlong and without thought.",
+  "root": "petere (to seek, rush at)",
   "root_family": [
     "impetus",
     "petition",
@@ -26,18 +26,18 @@
   ],
   "confusables": [
     "imperious",
-    "impervious",
     "impetus",
-    "impious"
+    "impecunious",
+    "imperative"
   ],
   "sense_tags": [
     "rash",
-    "hasty",
     "impulsive",
+    "hasty",
     "passionate",
-    "unreflecting"
+    "headstrong"
   ],
-  "register": "formal",
+  "register": "neutral",
   "connotation": "negative",
   "groups": [
     9

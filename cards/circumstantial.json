@@ -1,0 +1,44 @@
+{
+  "word": "circumstantial",
+  "pos": "adj.",
+  "pron": "ser-kuhm-STAN-shuhl",
+  "pron_note": null,
+  "means": "Depending on **circumstances** rather than on direct proof — and so, of evidence, **indirect**: it points to a conclusion by inference instead of demonstrating it.\n\nA second, quieter sense: **incidental, not essential** (*circumstantial details* of a plan). A third, older one runs the opposite way — *a circumstantial account* means one crammed with particulars.\n\nThe word almost always carries a downgrade. Calling a case **circumstantial** concedes that nobody saw it happen; the facts sit around the crime, fitting it neatly, without ever touching it. Note the strange tension the word holds: circumstantial evidence can be abundant, minute and utterly convincing — and still, by definition, unwitnessed.",
+  "trap": null,
+  "trick_line": "**Sub**stantial evidence stands *under* the claim and holds it up; **circum**stantial evidence only stands *around* it.",
+  "trick_unpack": "Both words are built on Latin *stare*, \"to stand\" — the prefix decides whether the facts support the conclusion or merely surround it.",
+  "sentences": [
+    "The prosecution's case was wholly **circumstantial**: a receipt, a tyre track, and a man who could not say where he had been.",
+    "Look, they saw his car outside — that's **circumstantial**, it doesn't prove he did anything."
+  ],
+  "in_the_wild": "The stock line of every courtroom drama and true-crime podcast: *\"It's all circumstantial.\"* Said by a defence lawyer, it means *you can't prove it*; said by a juror, it usually means *but we all know*.",
+  "etymology": "Latin **circum** (*around*) + **stare** (*to stand*) → *circumstantia*, \"the things standing around\" — the surroundings of an act.\n\nBoth halves pay off elsewhere: **circum-** gives *circumvent, circumscribe, circumspect, circumference*; **stare** gives *substantial, status, stance, stationary*.",
+  "one_line": "Indirect — inferred from surrounding facts, not directly proven.",
+  "root": "circum (around) + stare (to stand)",
+  "root_family": [
+    "circumvent",
+    "circumscribe",
+    "circumspect",
+    "circumference",
+    "substantial",
+    "status",
+    "stance"
+  ],
+  "confusables": [
+    "circumspect",
+    "substantial",
+    "consequential"
+  ],
+  "sense_tags": [
+    "indirect",
+    "inferential",
+    "evidence",
+    "incidental",
+    "unproven"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    34
+  ]
+}

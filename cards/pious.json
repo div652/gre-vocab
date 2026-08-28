@@ -1,0 +1,42 @@
+{
+  "word": "pious",
+  "pos": "adj.",
+  "pron": "PEYE-uhs",
+  "pron_note": "Noun form is *piety* (PEYE-uh-tee), not \"piousness\".",
+  "means": "Devoutly religious; faithful in observance and duty — and, by extension, high-mindedly virtuous.\n\nTwo settings, and they pull opposite ways. Said of a believer or a ritual, it's straight description: *a pious woman*, *a pious custom*. But drop it next to an abstract noun and it turns acid — a **pious hope** is one nobody expects to come true, a **pious platitude** is virtue on display costing the speaker nothing. *Devout* stays warm; *sanctimonious* is openly hostile; **pious** sits in between and lets context decide, which is exactly why writers reach for it when they want to sneer without being caught sneering.",
+  "trap": null,
+  "trick_line": "There's an **IOU** hiding in p-**IOU**-s: piety is a debt of duty — to God, to parents, to country.",
+  "trick_unpack": "That's the Roman sense precisely, and it explains the modern sneer: a *pious hope* is someone making a show of paying a debt that costs them nothing.",
+  "sentences": [
+    "The abbey's founder was a **pious** man who gave away two-thirds of his estate and kept a stone cell for himself.",
+    "Everyone nodded along to his **pious** little speech about teamwork, then went straight back to hoarding their own data."
+  ],
+  "in_the_wild": "Twelve popes have taken the name **Pius** — the Latin adjective itself, chosen precisely because it advertises dutiful devotion.",
+  "etymology": "Latin **pius** = *\"dutiful, devoted\"*, noun **pietās**. That noun split into two English words with very different jobs: **piety** (duty owed upward, to God) and **pity** (compassion owed downward, to the wretched) — same root, opposite directions.\n\nAlso from it: **expiate** (pay off a wrong), **impious**, and **pittance** — originally a small charitable donation left in a will, which is why it now means a miserably small amount.",
+  "one_line": "Devoutly religious — or showily virtuous at no real cost.",
+  "root": "pius / pietas (dutiful, devoted)",
+  "root_family": [
+    "piety",
+    "pity",
+    "expiate",
+    "impious",
+    "pittance"
+  ],
+  "confusables": [
+    "piteous",
+    "impious",
+    "pitiable"
+  ],
+  "sense_tags": [
+    "devout",
+    "religious",
+    "dutiful",
+    "sanctimonious",
+    "virtue-display"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    20
+  ]
+}

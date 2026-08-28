@@ -1,0 +1,41 @@
+{
+  "word": "check",
+  "pos": "v. / n.",
+  "pron": "CHEK",
+  "pron_note": "The banking sense is spelled cheque in British English; same word, same sound.",
+  "means": "**Verb:** to stop or slow the progress of something; to hold it within limits.\n**Noun:** whatever does the restraining — a curb, a brake, a counterweight.\n\nThe GRE will not test the \"examine it\" or \"tick the box\" sense you use daily. It tests this one: *she checked her anger*, *a check on executive power*, *the advance was checked at the river*.\n\nThe force of the word is **partial containment**. *Halt* stops a thing dead, *suppress* crushes it, *abolish* removes it — but a checked thing is still there, still pushing, merely held. It's the word for a counterweight rather than a kill switch, which is why power is *checked* and impulses are *kept in check* rather than destroyed.",
+  "trap": null,
+  "trick_line": "A king **in check** isn't captured — just cornered. That's the whole word.",
+  "trick_unpack": "Check restrains and confines; it never eliminates.",
+  "sentences": [
+    "The treaty was designed to **check** Prussian ambition, not to dismantle it.",
+    "He wanted to snap back, but he **checked** himself — her father was in the room."
+  ],
+  "in_the_wild": "**Checks and balances** — the phrase for the whole American constitutional design. No branch is abolished; each is merely held in place by the others. That's *check* in its exact sense.",
+  "etymology": "Persian **shāh** = *\"king\"*, borrowed through Arabic and Old French *eschec* — the warning cry when a king was under threat.\n\nOne root, a surprising family: **chess**, **checkmate** (*shāh māt*, \"the king is helpless\"), **exchequer** (the treasury, named for the chequered counting-cloth), **chequered**, and **cheque** (a written order that *checks* fraud by leaving a counterfoil).",
+  "one_line": "To restrain or halt the progress of something.",
+  "root": "shāh (Persian: king)",
+  "root_family": [
+    "chess",
+    "checkmate",
+    "exchequer",
+    "chequered",
+    "cheque"
+  ],
+  "confusables": [
+    "cheque",
+    "Czech"
+  ],
+  "sense_tags": [
+    "restraint",
+    "curbing",
+    "containment",
+    "control",
+    "halting"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    38
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "predicament",
+  "pos": "n.",
+  "pron": "pri-DIK-uh-muhnt",
+  "pron_note": null,
+  "means": "A difficult, awkward or unpleasant situation — especially one you're **stuck in**, where every way out costs you something.\n\nScale matters: a *problem* is something to solve, a *crisis* is an emergency, a *predicament* is a **bind**. It's mid-sized trouble with a whiff of the wry — you can be in a predicament and still be embarrassed rather than terrified. It also carries a faint hint that you walked into it yourself, which is why \"he's got himself into a right predicament\" sounds natural and \"he's got himself into a right catastrophe\" doesn't.",
+  "trap": null,
+  "trick_line": "**pre-DIC-a-ment** ≈ **\"predict a mess\"** — you can see the mess coming and still can't step out of it.",
+  "trick_unpack": "The sound hook also fixes the size of the trouble: a *mess*, not a disaster.",
+  "sentences": [
+    "Caught between a contract he could not honour and a client he could not afford to lose, the young architect described his **predicament** with careful understatement.",
+    "I'd told both of them I was free on Saturday — so yeah, bit of a **predicament**."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **praedicāre** = *\"to proclaim, declare publicly\"* (prae- \"before\" + dicāre \"to make known\"). Same root gives you **preach** and **predicate** — all about asserting something about someone.\n\nIt began as dry logic jargon: a *praedicamentum* was one of Aristotle's **categories**, a state or condition you could assert of a thing. Neutral. Then English speakers started using \"what a predicament!\" about *unfortunate* conditions, and the sourness stuck to the word permanently.\n\n🚫 **Not from *predict*.** That's *prae-* + *dīcere* (\"to say beforehand\") — a cousin, not a parent. A predicament isn't a forecast; it's a fix you're already in.",
+  "one_line": "An awkward, difficult situation you're stuck inside.",
+  "root": "praedicāre (to proclaim, declare)",
+  "root_family": [
+    "predicate",
+    "preach",
+    "predication",
+    "indicate",
+    "dictate"
+  ],
+  "confusables": [
+    "predicate",
+    "predict",
+    "precedent"
+  ],
+  "sense_tags": [
+    "difficulty",
+    "dilemma",
+    "stuck",
+    "trouble",
+    "awkward-situation"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    18
+  ]
+}

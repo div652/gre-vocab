@@ -1,0 +1,49 @@
+{
+  "word": "dispense",
+  "pos": "v.",
+  "pron": "dis-PENS",
+  "pron_note": null,
+  "means": "**1. To hand out in measured portions** — medicine, cash, advice, justice.\n**2. dispense with** — to do without something, to waive it as unnecessary.\n\nSense 1 is cool and official: pharmacists, courts, and machines *dispense*; friends *share* and hosts *offer*. The word implies an allotted amount, a rule behind it, and no warmth in the giving — which is why \"dispensing wisdom\" is faintly sarcastic, as if the advice came out of a slot.\n\nSense 2 is the one the GRE actually tests, and it's brisk to the point of dismissal: *let's dispense with the formalities* means sweep them aside, we're above that.",
+  "trap": "⚠️ **dispense ≠ disperse.**\n- **dispense** = give out in portions (a pharmacy dispenses pills)\n- **disperse** = scatter, break up (police disperse a crowd)\n\nOne distributes, one dissolves.",
+  "trick_line": "A **dispenser** never gives you the whole bottle — one measured squirt, by the rules.",
+  "trick_unpack": "That metered, impersonal quality is the whole flavour of the word — and *dispense **with*** is the opposite move: no portion at all, the thing is waived entirely.",
+  "sentences": [
+    "The colonial magistrate was empowered to **dispense** justice without appeal, a licence that corrupted him within a year.",
+    "Let's **dispense with** the introductions — we've all read each other's emails."
+  ],
+  "in_the_wild": "Every ATM screen that says **\"Cash dispensed\"** — a machine handing you an exact allotted amount, never a penny more.",
+  "etymology": "Latin **dispendere** = *\"to weigh out\"* — *dis-* (out) + **pendere** (to weigh, to hang, to pay). Weighing out is literally what a dispenser does.\n\n*pendere* is a high-yield GRE root: **pension** (money weighed out), **compensate** (weigh against), **ponder** (weigh in the mind), **pendant** (hanging), **expend**, **indispensable** (can't be waived).",
+  "one_line": "Hand out in measured portions; (with *with*) do away with.",
+  "root": "pendere (to weigh, hang, pay)",
+  "root_family": [
+    "pension",
+    "compensate",
+    "ponder",
+    "pendant",
+    "expend",
+    "indispensable",
+    "dispensary",
+    "dispensation",
+    "pendulum",
+    "append"
+  ],
+  "confusables": [
+    "disperse",
+    "dispel",
+    "dispose",
+    "dispensable",
+    "indispensable"
+  ],
+  "sense_tags": [
+    "distributing",
+    "allotting",
+    "administering",
+    "waiving",
+    "doing-without"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    21
+  ]
+}

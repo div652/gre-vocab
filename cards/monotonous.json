@@ -1,0 +1,45 @@
+{
+  "word": "monotonous",
+  "pos": "adj.",
+  "pron": "muh-NOT-uh-nuhs",
+  "pron_note": "Noun form shifts the stress: monotony = muh-NOT-uh-nee.",
+  "means": "Unvarying to the point of tedium — the same note, the same task, the same view, on and on.\n\nThe word carries a verdict, not just a description. *Repetitive* can be neutral (repetitive strain, a repetitive motif); **monotonous** always means the sameness has worn you down. It's a complaint about the *effect* on the listener or worker: attention slides off, the mind goes numb. It works on sound (a droning voice), on work (data entry), and on landscape (a monotonous stretch of motorway) — anywhere sameness becomes a dull ache.",
+  "trap": "⚠️ **monotonous ≠ monotone.** *Monotone* is literal and narrow — one unchanging pitch, usually of a voice. *Monotonous* is the judgement — mind-numbingly samey, and applicable to work, scenery, food, anything.",
+  "trick_line": "**Mono-tone-ous: one tone, no news** — nothing changes, so the mind checks out.",
+  "trick_unpack": "The \"no news\" half is the nuance: the problem isn't repetition itself but the deadening lack of anything new.",
+  "sentences": [
+    "The report's findings were significant, but delivered in so **monotonous** a voice that half the committee stopped listening by the second page.",
+    "Three weeks of packing boxes — the pay was fine, but God, it was **monotonous**."
+  ],
+  "in_the_wild": "Ben Stein's economics teacher in *Ferris Bueller's Day Off* — \"Bueller… Bueller… Bueller…\" — is the most famous monotone in film, and the shot of the glazed, half-dead classroom is what *monotonous* does to people.",
+  "etymology": "Greek **monos** (*one*) + **tonos** (*tone, pitch*) — literally *one-toned*. The metaphor did the rest: a voice that never changes pitch became the model for anything that never changes at all.\n\n**tonos** also gives you *tone, intonation, atonal, baritone,* and *tonic*.",
+  "one_line": "Unchanging to the point of dullness; tediously samey.",
+  "root": "monos (one) + tonos (tone, pitch)",
+  "root_family": [
+    "monotone",
+    "monopoly",
+    "monologue",
+    "monolith",
+    "intonation",
+    "atonal",
+    "baritone",
+    "tonic"
+  ],
+  "confusables": [
+    "monotone",
+    "monotonic",
+    "monastic"
+  ],
+  "sense_tags": [
+    "boring",
+    "unvarying",
+    "repetitive",
+    "tedious",
+    "dulling"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    16
+  ]
+}

@@ -3,35 +3,37 @@
   "pos": "v.",
   "pron": "FAYN",
   "pron_note": "The g is silent — one syllable, rhyming with rain.",
-  "means": "To **put on a false appearance** of something — a feeling, a reaction, an illness, a state of mind you don't actually have.\n\nLying is done with words; feigning is done with **behaviour**. You don't feign a fact, you feign a *condition*: feign surprise, feign ignorance, feign indifference, feign sleep. That's why it carries a faint whiff of the stage — it implies a performance mounted for an audience, and it quietly assumes the pretender is composed enough to pull it off. Cooler and more literary than *fake it*; more deliberate than *pretend*, which children also do innocently.",
-  "trap": "⚠️ **feign ≠ feint.**\n- **feign** = *pretend to feel or have* something (feign a limp)\n- **feint** = *a deceptive move* meant to draw the opponent the wrong way (a boxer's feint to the body)\n\nBoth are deception; only *feint* is a manoeuvre.",
-  "trick_line": "**Feign a pain** — you can't *say* a headache, you have to *act* it.",
-  "trick_unpack": "The rhyme fixes the sound (silent g, FAYN) and the sense: feigning is a symptom performed, not a statement made.",
+  "means": "To **put on a false appearance** of a feeling, state, or condition — to pretend convincingly that you feel or have something you don't.\n\nNotice what it takes as an object: you feign *surprise, ignorance, illness, indifference, sleep, enthusiasm*. It's almost always an inner state being performed outward. *Fake* is blunt and covers objects too (fake Rolex, fake passport); *feign* is bookish, and the deceit is usually social rather than criminal — the polite lie of looking interested, the schoolboy stomach ache. It implies control and composure: someone feigning is managing their face well.",
+  "trap": "**feign ≠ feint.** *Feign* is the verb for faking a feeling; a **feint** *(n.)* is a fake attack — a boxer's jab meant to draw a guard, an army's diversionary move. Same root, different jobs: you **feign** boredom, you **throw** a feint.",
+  "trick_line": "**The classic thing to feign is a FAINT** — and the words sound nearly identical.",
+  "trick_unpack": "A staged swoon is the perfect feign: a whole bodily state performed for an audience, with nothing actually wrong.",
   "sentences": [
-    "Summoned before the committee, he **feigned** a bewildered ignorance of the accounts he had himself prepared.",
-    "She **feigned** a coughing fit so she could duck out of the meeting early."
+    "Summoned before the committee, he **feigned** an ignorance of the accounts that no one in the room believed.",
+    "She **feigned** sleep until her flatmate stopped asking about the dishes."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **fingere** = *\"to mould, to shape\"* — as a potter shapes clay — and from there, *to invent*. A feigned emotion is one you moulded yourself.\n\nSame root: **fiction**, **fictitious**, **figment**, **effigy** — all things shaped rather than found.",
-  "one_line": "To fake a feeling, illness, or reaction you don't have.",
-  "root": "fingere, fictum (to shape, mould, invent)",
+  "in_the_wild": "Every football match where a player rolls around clutching a shin that was never touched — commentators call it exactly that: **feigning injury**.",
+  "etymology": "Latin **fingere** = *\"to shape, mould, invent.\"* The idea is sculpting something that wasn't there — which is why the same root gives you **fiction**, **figment**, **figure**, and **effigy** (a shaped likeness). Feigning is moulding an expression the way a potter moulds clay.",
+  "one_line": "To fake a feeling or condition convincingly.",
+  "root": "fingere (to shape, mould, invent)",
   "root_family": [
     "fiction",
-    "fictitious",
     "figment",
+    "figure",
     "effigy",
+    "fictitious",
     "feint"
   ],
   "confusables": [
     "feint",
+    "faint",
     "fain",
     "deign"
   ],
   "sense_tags": [
     "pretending",
     "deception",
-    "insincerity",
-    "simulation"
+    "performance",
+    "insincerity"
   ],
   "register": "formal",
   "connotation": "negative",

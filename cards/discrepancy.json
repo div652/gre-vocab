@@ -1,0 +1,39 @@
+{
+  "word": "discrepancy",
+  "pos": "n.",
+  "pron": "dis-KREP-uhn-see",
+  "pron_note": "Stress on KREP, not on DIS — never \"DIS-kreh-pan-see.\"",
+  "means": "A **difference between two things that were supposed to match** — two figures, two accounts, two testimonies, the label and the contents.\n\nThe word is quietly accusatory without naming a culprit. A *difference* is just a fact; a **discrepancy** is a difference where agreement was expected, so it implies something has gone wrong — sloppiness, error, or a lie — while staying scrupulously neutral about which. That is why auditors, journalists and lawyers love it: it flags the problem and postpones the blame.",
+  "trap": "⚠️ **discrepancy ≠ disparity.**\n- **discrepancy** = two accounts that *should agree* don't (the ledger vs. the receipts)\n- **disparity** = an *unequal gap* between two things, no agreement ever expected (wealth disparity, a disparity in size)",
+  "trick_line": "There is no discrepancy without a **pair that was meant to tally**.",
+  "trick_unpack": "If the two things were never supposed to be identical, what you have is a difference or a disparity — the word only fires when a match was expected.",
+  "sentences": [
+    "The auditors flagged a **discrepancy** of £40,000 between the reported revenue and the deposits actually received.",
+    "There's a **discrepancy** between what he told me and what he told you, and I'd like to know which of us he lied to."
+  ],
+  "in_the_wild": "It's the standard word on a stock-take or a bank reconciliation: retail and finance teams literally file a **\"discrepancy report\"** when the count on the shelf doesn't match the count in the system.",
+  "etymology": "Latin **dis-** (*apart*) + **crepāre** (*to rattle, creak, make a noise*) → **discrepāre**, \"to sound different, to be out of tune.\" Two accounts that don't ring the same note.\n\nSame root gives you **decrepit** — creaked out, worn to rattling.",
+  "one_line": "A mismatch between two things that should have agreed.",
+  "root": "crepāre (to rattle, creak)",
+  "root_family": [
+    "decrepit",
+    "crepitate",
+    "crepitus"
+  ],
+  "confusables": [
+    "disparity",
+    "discretion",
+    "discrepant"
+  ],
+  "sense_tags": [
+    "mismatch",
+    "inconsistency",
+    "difference",
+    "error"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    20
+  ]
+}

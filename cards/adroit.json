@@ -3,35 +3,37 @@
   "pos": "adj.",
   "pron": "uh-DROYT",
   "pron_note": null,
-  "means": "Skilful and quick — especially in *handling a difficult situation*. Cleverly capable under pressure.\n\nWhere **deft** and **dexterous** lean physical (hands, tools, a surgeon's stitches), **adroit** usually lives in the social, verbal and political world: an adroit reply, adroit diplomacy, an adroit sidestep of a hostile question. It carries a flicker of cunning — the adroit person isn't just good, they're *nimble*, and they got out of something. Always a compliment, but a slightly wry one; you can be adroit at things you probably shouldn't be doing.",
-  "trap": null,
-  "trick_line": "**Adroit** rhymes with **exploit** — the adroit answer *exploits* the awkward moment instead of fumbling it.",
-  "trick_unpack": "The rhyme carries the nuance: adroitness is skill aimed at a tricky spot, not skill in the abstract.",
+  "means": "Skilful and quick — especially **quick in a tricky spot**.\n\n*Dexterous* and *deft* are about the hands; **adroit** has largely migrated to the mind. It's the word for the diplomat who defuses the question, the negotiator who reframes the deal, the witness who never quite gets cornered. Praise, but cool praise: it admires the manoeuvre more than the person, and pushed a little further it shades into *slick*.",
+  "trap": "**adroit ≠ adept.** *Adept* = deeply skilled through practice (an adept surgeon). *Adroit* = nimble in the moment (an adroit reply). You become adept over years; you are adroit in seconds.",
+  "trick_line": "**Adroit** rhymes with **avoid** — the adroit answer *avoids* the trap without ever looking like a dodge.",
+  "trick_unpack": "The rhyme carries the nuance: adroitness is escaping a difficulty with such ease that nobody sees the effort.",
   "sentences": [
-    "The minister was **adroit** under cross-examination, conceding nothing while appearing to concede everything.",
-    "That was an **adroit** way to get out of dinner with his parents."
+    "An **adroit** shift of the agenda buried the motion before anyone noticed it had been raised.",
+    "She's scarily **adroit** at getting out of plans she never wanted to make."
   ],
-  "in_the_wild": null,
-  "etymology": "French **à droit** = *\"according to the right\"* — *droit* meaning both *right-hand* and *straight/correct*, from Latin **dīrēctus** (→ *direct, address, dress*).\n\nEurope has been slandering left-handers for centuries, and English vocabulary is the receipt: **dexterous** (Latin *dexter*, right hand) = skilled; **gauche** (French, left) = socially clumsy; **sinister** (Latin, left) = evil. And the negative of this very word survives whole: **maladroit** = *badly-right* = clumsy, tactless.",
-  "one_line": "Skilful and quick, especially at handling tricky situations.",
-  "root": "droit / dīrēctus (right, straight)",
+  "in_the_wild": "Weezer's 2002 album **Maladroit** — literally \"clumsy,\" the negative of this word. If *maladroit* is the guy tripping over the cable, *adroit* is everyone else.",
+  "etymology": "French **à droit** = *\"to the right.\"* Being right-handed was skill; being left-handed was not — and English quietly imported the whole prejudice.\n\n- **adroit** = to the right → skilful\n- **maladroit** = badly to the right → clumsy\n- **gauche** = French \"left\" → socially awkward\n- **dexterous** (Latin *dexter*, right) vs **sinister** (Latin *sinister*, left)\n\nOne bias, six GRE words.",
+  "one_line": "Skilfully quick, especially at handling tricky people or moments.",
+  "root": "droit / directus (right, straight)",
   "root_family": [
     "maladroit",
+    "droit",
     "direct",
     "address",
-    "dress",
-    "droit"
+    "dress"
   ],
   "confusables": [
+    "adept",
+    "adroit",
     "maladroit",
-    "adrift"
+    "address"
   ],
   "sense_tags": [
     "skilful",
+    "quick-witted",
     "resourceful",
-    "nimble",
-    "tactful",
-    "quick-witted"
+    "deft",
+    "diplomatic"
   ],
   "register": "formal",
   "connotation": "positive",

@@ -1,0 +1,40 @@
+{
+  "word": "attenuate",
+  "pos": "v.",
+  "pron": "uh-TEN-yoo-ayt",
+  "pron_note": null,
+  "means": "**To weaken** — to reduce something in force, intensity, quantity, or value. Literally, to make thin or slender.\n\nThis is the cool, technical word for weakening. Engineers attenuate signals, virologists attenuate viruses, lawyers say a fact attenuates a claim. Two things are built in: the reduction is **gradual, along a scale**, and the thing **survives** — what's attenuated is still there, just fainter. *Undermine* hints at sabotage, *diminish* is plain and general; *attenuate* is measured, usually deliberate, and sounds like it came off a lab report.",
+  "trap": "⚠️ **attenuate ≠ accentuate.** Two letters apart, near-opposite meanings: **attenuate** turns the volume *down*, **accentuate** turns it *up* (to emphasise). Getting them backwards flips the whole sentence.",
+  "trick_line": "at**TENU**ate hides *tenu-* = **thin**: it thins a thing out, it never cuts it off.",
+  "trick_unpack": "An attenuated signal is still a signal — stretched thin, not severed.",
+  "sentences": [
+    "Distance and two concrete walls **attenuated** the transmission until the broadcast was nothing but hiss.",
+    "Coffee and a big breakfast **attenuated** the hangover, but only just."
+  ],
+  "in_the_wild": "The MMR and yellow-fever shots are **live-attenuated** vaccines: the virus isn't killed, it's weakened until it's survivable — the definition of the word doing its job on a label you've actually read.",
+  "etymology": "Latin **ad-** (\"to\") + **tenuāre** (\"make thin\"), from **tenuis** = *\"thin.\"*\n\nSame root gives you **tenuous** (a thin, barely-holding argument) and **extenuate** — literally *to thin out the blame*, which is exactly what **extenuating circumstances** do. English **thin** is a distant cousin of the same ancient root.",
+  "one_line": "To weaken or thin out — reduce in force, not remove.",
+  "root": "tenuis (thin), via attenuāre",
+  "root_family": [
+    "tenuous",
+    "extenuate",
+    "extenuating",
+    "tenuity"
+  ],
+  "confusables": [
+    "accentuate",
+    "extenuate",
+    "attune"
+  ],
+  "sense_tags": [
+    "weakening",
+    "reduction",
+    "thinning",
+    "gradual"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    18
+  ]
+}

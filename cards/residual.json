@@ -1,0 +1,45 @@
+{
+  "word": "residual",
+  "pos": "adj. / n.",
+  "pron": "ri-ZIJ-oo-uhl",
+  "pron_note": null,
+  "means": "**Adj.:** remaining after the greater part has gone, been removed, or been used up.\n**Noun:** the leftover amount itself — and in statistics, the gap between what a model predicted and what actually happened.\n\nThe word implies a *process that already did its work*. Rain leaves **residual** damp; chemotherapy leaves **residual** tumour; a fight leaves **residual** resentment. So the quantity is usually small, often faint, and frequently the part nobody wanted — the bit that stubbornly failed to clear. Compare plain *remaining*, which is neutral about how the remainder got there, and *residue*, which is physical gunk you could scrape off. *Residual* is the clinical, engineering, accounting word: measured, quantified, and slightly clinical in tone even when applied to feelings.",
+  "trap": null,
+  "trick_line": "**Residual** = what still **resides** after everyone else has moved out.",
+  "trick_unpack": "The hidden word *reside* is literally the same root, and it captures the tone — not the main body of a thing, just the last tenant that wouldn't leave.",
+  "sentences": [
+    "Two years after the recall, the company was still absorbing the **residual** costs of the defect.",
+    "The paint's dry, but there's a **residual** smell — crack a window."
+  ],
+  "in_the_wild": "In Hollywood, **residuals** are the payments actors and writers get every time a film or show gets rerun or streamed — precisely the leftover income that dried up under streaming, and the core grievance of the 2023 SAG-AFTRA and WGA strikes.",
+  "etymology": "Latin **residēre** = *\"to sit back, stay behind\"* — *re-* (back) + *sedēre* (to sit).\n\nThat *sedēre* root is a GRE goldmine: **sedentary** (sitting), **sediment** (what sits at the bottom), **preside** (sit in front), **subside** (sit back down), **session**, **assiduous** (sitting at it doggedly).",
+  "one_line": "Left over after the bulk has gone.",
+  "root": "sedere (to sit)",
+  "root_family": [
+    "reside",
+    "sediment",
+    "sedentary",
+    "subside",
+    "preside",
+    "session",
+    "assiduous",
+    "sedate"
+  ],
+  "confusables": [
+    "residue",
+    "residuary",
+    "resident"
+  ],
+  "sense_tags": [
+    "leftover",
+    "remainder",
+    "lingering",
+    "trace",
+    "statistics"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    37
+  ]
+}

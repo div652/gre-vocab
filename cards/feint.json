@@ -1,0 +1,41 @@
+{
+  "word": "feint",
+  "pos": "n. / v.",
+  "pron": "FAYNT",
+  "pron_note": null,
+  "means": "**Noun:** a mock attack or deceptive movement made to draw an opponent's guard away from where you'll actually strike.\n**Verb:** to make such a move.\n\nA feint is deception *designed to be seen* — it fails if the other side doesn't take the bait. That makes it tactical rather than dishonest: boxers, fencers, generals and negotiators all feint, and nobody calls it lying. Compare a **ruse** (any trick) or a **bluff** (pretending to hold strength you lack) — a feint is narrower and more physical: a committed-looking movement in the wrong direction, made so the right one lands.",
+  "trap": "⚠️ **feint ≠ faint.** Identical sound.\n- **feint** = a fake move to mislead\n- **faint** = to pass out (or: barely perceptible — *a faint smell*)\n\nYou feint to the left; you faint on the floor.",
+  "trick_line": "**feint = feign + t** — you *feign* the punch to the head so the real one lands on the ribs.",
+  "trick_unpack": "The extra *t* is the only thing separating the word from *feign*, and the whole point of a feint is that it must look real enough to pull a reaction.",
+  "sentences": [
+    "Napoleon's **feint** toward the enemy's left drew the reserves out of position, and the true assault fell on a hollowed-out centre.",
+    "He **feinted** like he was going to pass, then just walked it straight past the keeper."
+  ],
+  "in_the_wild": "Any football stepover — Ronaldo's shimmy, Neymar's shoulder drop — is a textbook feint: the body says left so the ball can go right.",
+  "etymology": "French **feindre** = *\"to pretend,\"* from Latin **fingere** = *\"to shape, mould, invent.\"*\n\nThat root is worth banking: **feign**, **fiction**, **figment**, **effigy**, **fictitious** — all things *moulded up* rather than found.",
+  "one_line": "A fake move made to draw the defence the wrong way.",
+  "root": "fingere (to shape, mould, invent)",
+  "root_family": [
+    "feign",
+    "fiction",
+    "figment",
+    "effigy",
+    "fictitious",
+    "figure"
+  ],
+  "confusables": [
+    "faint",
+    "feign"
+  ],
+  "sense_tags": [
+    "deception",
+    "misdirection",
+    "tactics",
+    "pretence"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    30
+  ]
+}

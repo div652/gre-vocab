@@ -1,0 +1,38 @@
+{
+  "word": "cluster",
+  "pos": "n. / v.",
+  "pron": "KLUS-ter",
+  "pron_note": null,
+  "means": "**Noun:** a number of similar things bunched close together — grapes, stars, houses, cases of a disease.\n**Verb:** to gather or grow in such a bunch (*fans clustered around the exit*).\n\nWhat the word insists on is **proximity, not organisation**. A *group* can be defined by anything (interests, membership); a **cluster** is defined by things sitting near each other in space, time, or data. That makes it the scientist's word of choice — *a cluster of infections*, *cluster analysis*, *a globular cluster* — because it reports a concentration without claiming a cause. On the GRE it usually turns up as the neutral verb for \"crowd together tightly.\"",
+  "trap": "⚠️ **cluster ≠ clutter.** A **cluster** is things *packed together* (a cluster of berries); **clutter** is things *strewn about in a mess* (a cluttered desk). Concentration versus disorder.",
+  "trick_line": "**A cluster is a clot** — stuff stuck in one lump, by nearness, not by plan.",
+  "trick_unpack": "*Cluster* and *clot* really are cousins, and \"clot\" captures the key idea: a dense lump that formed by things simply ending up next to each other.",
+  "sentences": [
+    "Epidemiologists identified a **cluster** of infections within three streets of the water pump.",
+    "Everyone **clustered** round the one guy with a phone charger."
+  ],
+  "in_the_wild": "In tech it's a job-title-level word: a **Kubernetes / Azure cluster** is a heap of machines wired close enough to behave like one — proximity doing the work, exactly as the word says.",
+  "etymology": "Old English **clyster**, a bunch — kin to **clot**. Both mean *a lump of things stuck together*, which is the whole word in one image.",
+  "one_line": "A bunch of similar things packed close together.",
+  "root": "Old English clyster (bunch), akin to clot",
+  "root_family": [
+    "clot",
+    "clod"
+  ],
+  "confusables": [
+    "clutter",
+    "cloister",
+    "clot"
+  ],
+  "sense_tags": [
+    "grouping",
+    "proximity",
+    "concentration",
+    "bunch"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    35
+  ]
+}

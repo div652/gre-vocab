@@ -1,0 +1,43 @@
+{
+  "word": "relegate",
+  "pos": "v.",
+  "pron": "REL-uh-gayt",
+  "pron_note": null,
+  "means": "To **consign something or someone to a lower rank, worse position, or lesser importance** — to demote, sideline, or banish it out of the way.\n\nThe motion is always **downward and dismissive**. *Demote* is a neutral administrative fact; *relegate* carries the shrug of whoever did it — the thing wasn't worth the better spot. Note also that it usually drags a destination behind it: relegated **to** the bench, **to** the basement, **to** a footnote, **to** the second division. And it works on things as easily as people: an idea, a language, a whole tradition can be relegated to irrelevance.",
+  "trap": "⚠️ **relegate ≠ delegate.**\n- **delegate** = hand a task *out* to someone you trust with it\n- **relegate** = push a person or thing *down* to somewhere lesser\n\nYou delegate the report to your deputy. You relegate the report to the shredder.",
+  "trick_line": "**Relegate always names the worse place it sent you: to the bench, to the back page, to footnote 12.**",
+  "trick_unpack": "If you can't finish the sentence with \"…to somewhere beneath,\" the word you want is *demote* or *delegate*, not *relegate*.",
+  "sentences": [
+    "For a century her paintings were **relegated** to the storerooms, catalogued under her husband's name.",
+    "They **relegated** me to the kids' table again, at thirty-one years old."
+  ],
+  "in_the_wild": "Football: finish bottom three in the Premier League and your club is **relegated** to the Championship — the entire dread of the word, played out every May.",
+  "etymology": "Latin **re-** (*back*) + **legāre** (*to send, to depute*) — literally *to send away*; in Rome, to banish a citizen from the city.\n\nThat *legāre* is worth banking: **delegate** (send someone in your place), **legate** (a papal envoy), **legacy** and **bequeath** (what you send on after you), **colleague** (one sent along with you).",
+  "one_line": "To demote or banish to a lesser place or rank.",
+  "root": "legāre (to send, to depute)",
+  "root_family": [
+    "delegate",
+    "legate",
+    "legacy",
+    "legation",
+    "colleague",
+    "delegation"
+  ],
+  "confusables": [
+    "delegate",
+    "regulate",
+    "denigrate"
+  ],
+  "sense_tags": [
+    "demotion",
+    "banishment",
+    "sidelining",
+    "subordination",
+    "dismissal"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    27
+  ]
+}

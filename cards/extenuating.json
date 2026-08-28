@@ -1,0 +1,41 @@
+{
+  "word": "extenuating",
+  "pos": "adj. (from v. extenuate)",
+  "pron": "ik-STEN-yoo-ay-ting",
+  "pron_note": null,
+  "means": "Making an offence **seem less serious** by supplying a partial excuse — context that reduces the blame without removing it.\n\nWatch the size of the claim: an extenuating fact does not say *she didn't do it* or *she did nothing wrong*. It says *she did it, and here is why you should judge her less harshly.* Guilt stands; the punishment shrinks. That's why it lives in courtrooms, HR meetings and disciplinary hearings — it's the language of a plea, not a defence. Compare **exonerate** (clears you completely) and **mitigate** (its plain-English twin, used for punishments and risks as well as for blame).",
+  "trap": "⚠️ **extenuate ≠ attenuate.** Both come from Latin *tenuis*, \"thin\", and both mean \"make thinner\" — but **attenuate** thins *anything* (a signal, a virus, a bond), while **extenuate** thins only **blame**.",
+  "trick_line": "**ex-TENU-ating** has *tenuous* buried in it — it makes the case against you **thin**, not nonexistent.",
+  "trick_unpack": "A thinned case is still a case, which is exactly why extenuating circumstances reduce a sentence instead of cancelling it.",
+  "sentences": [
+    "The judge accepted that his age and coercion were **extenuating** circumstances, and reduced the sentence accordingly.",
+    "Look, being tired is not an **extenuating** circumstance — everyone else made the meeting."
+  ],
+  "in_the_wild": "Universities run on this word: the **\"extenuating circumstances\" form** you file to get a deadline extended or a failed exam discounted. You admit the work was late — you're arguing the lateness should count for less.",
+  "etymology": "Latin **tenuis** = *\"thin\"* → **extenuare**, \"to make thin, whittle down.\"\n\nThe root pays out across the GRE: **tenuous** (a thin argument, barely holding), **attenuate** (weaken, thin out), **tenuity**. Extenuating facts whittle the blame down to something thinner.",
+  "one_line": "Partly excusing: making an offence seem less serious, not innocent.",
+  "root": "tenuis (thin)",
+  "root_family": [
+    "tenuous",
+    "attenuate",
+    "attenuation",
+    "tenuity"
+  ],
+  "confusables": [
+    "attenuating",
+    "exonerating",
+    "exculpating"
+  ],
+  "sense_tags": [
+    "mitigating",
+    "excusing",
+    "lessening-blame",
+    "legal",
+    "partial-defence"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    31
+  ]
+}

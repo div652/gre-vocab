@@ -1,0 +1,40 @@
+{
+  "word": "perpetrate",
+  "pos": "v.",
+  "pron": "PUR-puh-trayt",
+  "pron_note": null,
+  "means": "To **carry out or commit** something — a crime, a fraud, a hoax, an atrocity.\n\nThe object is never innocent. You *commit* a crime or *commit* to a plan, but you only **perpetrate** things the speaker disapproves of: no one perpetrates a kindness. It also carries a whiff of officialdom — police reports, court transcripts, journalism — which is why it turns funny when aimed at something trivial: *who perpetrated this haircut?*",
+  "trap": "⚠️ **perpetrate ≠ perpetuate.**\n- **perpetrate** (PUR-puh-trayt) = *do* the bad thing\n- **perpetuate** (per-PECH-oo-ayt) = *keep it going* forever\n\nYou perpetrate a fraud; you perpetuate a stereotype.",
+  "trick_line": "Only a **perp** can **perp**etrate.",
+  "trick_unpack": "The cop-show word *perp* is hiding in the first syllable, and it tells you the object is always a wrongdoing — never a favour, never a plan.",
+  "sentences": [
+    "The commission concluded that the massacre had been **perpetrated** by units acting under direct orders.",
+    "Someone **perpetrated** a group chat at 2am and now I have 400 unread messages."
+  ],
+  "in_the_wild": "**\"Perp walk\"** — the parade of a handcuffed suspect past the cameras. *Perp* is just a clipped **perpetrator**, and every police procedural you've ever half-watched runs on it.",
+  "etymology": "Latin **per-** (*thoroughly*) + **patrare** (*to bring about*) — to see a deed all the way through.\n\nThe confusable twin comes from somewhere else entirely: **perpetuate** ← *perpetuus*, \"continuous,\" which also gives **perpetual** and **perpetuity**. Different root, different job.",
+  "one_line": "To commit — a crime, fraud, hoax, or outrage.",
+  "root": "per- (thoroughly) + patrare (to bring about)",
+  "root_family": [
+    "perpetrator",
+    "perpetration"
+  ],
+  "confusables": [
+    "perpetuate",
+    "perpetual",
+    "penetrate",
+    "perpetrator"
+  ],
+  "sense_tags": [
+    "crime",
+    "wrongdoing",
+    "committing",
+    "deception",
+    "blame"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

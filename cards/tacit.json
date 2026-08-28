@@ -1,0 +1,40 @@
+{
+  "word": "tacit",
+  "pos": "adj.",
+  "pron": "TAS-it",
+  "pron_note": "Short *a*, as in cat — not \"TAY-sit.\"",
+  "means": "Understood, accepted or agreed **without being put into words**.\n\nThe key is that something *was* communicated — just never spoken. Silence here isn't emptiness, it's a signal: you stayed quiet, and that counted as a yes. So *tacit* carries a faint whiff of complicity, which is why it pairs so naturally with things people would rather not say aloud — **tacit approval** of a shady deal, a **tacit admission** of guilt. Compare *implicit*, which is colder and more logical (implied by the content itself, no audience required); *tacit* needs two parties and an understanding between them.",
+  "trap": "**tacit ≠ taciturn.** Same root, different target: **tacit** describes a *thing* (an agreement, consent) that went unspoken; **taciturn** describes a *person* who habitually says little. A taciturn man can give you tacit consent by saying nothing at all.",
+  "trick_line": "**Tacit never travels alone** — it's always tacit *approval*, tacit *consent*, tacit *agreement*, tacit *understanding*.",
+  "trick_unpack": "Every one of its partner-nouns is a form of saying yes, which tells you *tacit* means agreement-by-silence, not just silence.",
+  "sentences": [
+    "The committee's failure to object was taken as **tacit** endorsement of the new policy.",
+    "Nobody ever agreed out loud that I'd do the dishes — it was just a **tacit** thing once he started cooking."
+  ],
+  "in_the_wild": "**Tacit knowledge** is standard business and academic vocabulary for the stuff a veteran employee knows but can't write down — how to ride a bike, how to read a room. It walks out the door when they quit, precisely because nobody ever said it aloud.",
+  "etymology": "Latin **tacēre** = *\"to be silent.\"* It quietly hands you three GRE words: **tacit** (unspoken but agreed), **taciturn** (a person of few words), and **reticent** (*re-* + *tacēre* — holding back what you could say).",
+  "one_line": "Understood and agreed without ever being said aloud.",
+  "root": "tacēre (to be silent)",
+  "root_family": [
+    "taciturn",
+    "reticent",
+    "reticence"
+  ],
+  "confusables": [
+    "taciturn",
+    "implicit",
+    "tactic"
+  ],
+  "sense_tags": [
+    "unspoken",
+    "implied",
+    "consent",
+    "understood",
+    "silence"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    26
+  ]
+}

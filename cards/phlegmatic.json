@@ -1,0 +1,39 @@
+{
+  "word": "phlegmatic",
+  "pos": "adj.",
+  "pron": "fleg-MAT-ik",
+  "pron_note": "In phlegm the g is silent (FLEM), but in phlegmatic it comes back to life.",
+  "means": "Calm, unexcitable, hard to stir — sluggishly even-tempered by nature.\n\nThis is temperament, not achievement. *Stoic* means you endure pain without flinching; *serene* means an inner peace worth having. **Phlegmatic** means the alarm simply never went off — the person is constitutionally slow to feel anything much. That gives it a double edge: British writers use it admiringly (\"a phlegmatic captain\") for the man who doesn't panic, but it can just as easily mean torpid, unresponsive, a bit cold-blooded. Whether it's praise depends entirely on whether the situation deserved a reaction.",
+  "trap": null,
+  "trick_line": "**Phlegm** is thick, slow, sluggish stuff — and so is a **phlegmatic** person.",
+  "trick_unpack": "The word you already know for the goo gives you the tempo: nothing moves it quickly.",
+  "sentences": [
+    "Shelling resumed at dawn, and the sergeant received the news with the same **phlegmatic** shrug he gave the weather.",
+    "I told him the flight was cancelled and he just kept eating — he's the most **phlegmatic** person I've ever met."
+  ],
+  "in_the_wild": null,
+  "etymology": "Greek **phlegma** = *\"inflammation, clammy humour.\"* Medieval medicine held that your personality came from whichever of the four bodily humours you had most of — and each one is still an English word:\n\n- **blood** → **sanguine** (cheerful, optimistic)\n- **yellow bile** → **choleric** (hot-tempered)\n- **black bile** → **melancholic** (gloomy)\n- **phlegm** → **phlegmatic** (cool, sluggish, unmoved)\n\nLearn the set once and you get four GRE words from one theory.",
+  "one_line": "Calm and unexcitable — by nature, not by effort.",
+  "root": "phlegma (Greek: clammy humour, inflammation)",
+  "root_family": [
+    "phlegm",
+    "phlegmy"
+  ],
+  "confusables": [
+    "pragmatic",
+    "dogmatic",
+    "choleric"
+  ],
+  "sense_tags": [
+    "calm",
+    "unexcitable",
+    "impassive",
+    "sluggish",
+    "temperament"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    22
+  ]
+}

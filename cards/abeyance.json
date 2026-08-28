@@ -1,0 +1,38 @@
+{
+  "word": "abeyance",
+  "pos": "n.",
+  "pron": "uh-BAY-uhns",
+  "pron_note": "Not \"uh-BEE-ance\" — the middle syllable is *bay*.",
+  "means": "A state of **temporary suspension** — something real and still-existing whose operation has been parked, pending a decision, an event, or an heir.\n\n*Cancelled* kills a thing; *dormant* is just natural quiet. **Abeyance is deliberate and conditional**: someone with authority pressed pause, and something specific is expected to restart it. The word is stiffly formal — law, parliaments, boardrooms, HR letters — and lives almost entirely inside the frozen phrases **\"in abeyance\"** and **\"held in abeyance.\"** You rarely meet it in the wild as a bare noun.",
+  "trap": "⚠️ **abeyance ≠ obeisance** (oh-BAY-sunss) — a deep bow or gesture of submission. Nearly identical sound, unrelated sense: one *pauses* a matter, the other *bends the knee*.",
+  "trick_line": "**Held in a-BAY-ance = held at bay** — not driven off, just kept waiting at a distance.",
+  "trick_unpack": "The sound hook carries the nuance: nothing has been resolved or destroyed, it's simply been stopped where it stands until someone lets it come forward.",
+  "sentences": [
+    "The peerage fell into **abeyance** in 1712, there being two equal claimants and no way to choose between them.",
+    "They're keeping the whole rebrand **in abeyance** until we see what the lawyers say."
+  ],
+  "in_the_wild": "Standard courtroom and HR wording: a ruling **held in abeyance pending appeal**, a disciplinary case **held in abeyance pending investigation** — if you ever see the word at work, it will be in that exact phrase.",
+  "etymology": "Old French **abeance**, \"a gaping, an expectation,\" from **baer** = *to gape, to stand open*. A medieval estate in abeyance was thought of as **sitting open-mouthed, waiting** for its rightful owner to appear.\n\nSame *baer* gives English **bay** in *bay window* — an opening in a wall.",
+  "one_line": "Temporary suspension; paused pending something, not cancelled.",
+  "root": "baer (to gape, stand open)",
+  "root_family": [
+    "bay (window)"
+  ],
+  "confusables": [
+    "obeisance",
+    "obedience",
+    "abidance"
+  ],
+  "sense_tags": [
+    "suspension",
+    "pause",
+    "dormancy",
+    "pending",
+    "legal-status"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    28
+  ]
+}

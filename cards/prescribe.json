@@ -1,0 +1,47 @@
+{
+  "word": "prescribe",
+  "pos": "v.",
+  "pron": "pri-SKRYBE",
+  "pron_note": null,
+  "means": "To **lay something down as a rule or order** — with the authority to make it binding. Medically: to order a specific treatment for a patient.\n\nThe word assumes **standing**. You *recommend* if you're a friend, you *prescribe* if you're a doctor, a statute, a style manual. It's not aggressive the way *dictate* is — it's calm, official, and not up for discussion. Watch for the GRE's favourite non-medical use: **prescriptive** rules tell you how you *ought* to write or speak, as opposed to **descriptive** ones, which just report how people actually do.",
+  "trap": "**prescribe ≠ proscribe.** Near-identical on the page, near-opposite in force:\n- **prescribe** = order it *done* (\"the doctor prescribed rest\")\n- **proscribe** = forbid it outright (\"the regime proscribed the party\")\n\nOne letter flips a command into a ban.",
+  "trick_line": "**PRE**scribe writes it **in**; **PRO**scribe writes it **off**.",
+  "trick_unpack": "The *pre-* word puts an instruction on the page for you to follow; the *pro-* word puts a name on a list to be got rid of.",
+  "sentences": [
+    "The charter **prescribes** the precise order in which the successors must be consulted.",
+    "She **prescribed** me two weeks off and said she'd know if I was still checking email."
+  ],
+  "in_the_wild": "The entire legal category of **prescription drugs** vs over-the-counter rests on this word: someone with authority has to write the order down before the pharmacy is allowed to hand it over.",
+  "etymology": "Latin **prae** (*before*) + **scrībere** (*to write*) — literally \"written down in advance.\" That root pays for itself: **describe, inscribe, subscribe, transcribe, script, scripture, conscription**.\n\nAnd it explains the trap. **Proscribe** is *pro-* (*publicly, out front*) + *scrībere*: in Rome, a **proscription** was a list of names posted in the Forum — men declared outlaws, to be hunted and killed. Written up in public = condemned.",
+  "one_line": "To lay down as a rule, or order a treatment.",
+  "root": "prae + scribere (to write before)",
+  "root_family": [
+    "describe",
+    "inscribe",
+    "subscribe",
+    "transcribe",
+    "proscribe",
+    "script",
+    "scripture",
+    "conscription",
+    "postscript"
+  ],
+  "confusables": [
+    "proscribe",
+    "prescription",
+    "prescient",
+    "proscription"
+  ],
+  "sense_tags": [
+    "command",
+    "authority",
+    "rules",
+    "medicine",
+    "directive"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    34
+  ]
+}

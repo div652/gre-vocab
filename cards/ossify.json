@@ -1,0 +1,40 @@
+{
+  "word": "ossify",
+  "pos": "v.",
+  "pron": "OSS-uh-feye",
+  "pron_note": null,
+  "means": "**Literally:** to turn into bone — cartilage hardening into skeleton.\n**Figuratively (the GRE sense):** to become rigid, fixed, and incapable of change.\n\nThe word only bites because of what it implies about the *past*: something that ossifies was once soft, living, adaptable — a reform movement, a ritual, a bureaucracy — and has now set hard. *Rigid* describes a state; **ossify** narrates a decline. It's a diagnosis delivered from the outside, almost never about oneself, and it carries a faint contempt: the thing still has its shape, but nothing moves in it anymore.",
+  "trap": null,
+  "trick_line": "An **ossified** committee is a **fossil** — you can still read the shape, but nothing's alive in it.",
+  "trick_unpack": "*Foss-* and *oss-* rhyme, and the image carries the nuance exactly: not destroyed, just hardened past the point of change.",
+  "sentences": [
+    "What began as a radical experiment in governance had, within two generations, **ossified** into ceremony.",
+    "Their whole hiring process has **ossified** — nobody can tell you why the third interview exists, just that it's always been there."
+  ],
+  "in_the_wild": "Radiologists date a teenager's age from X-rays by checking how far the growth plates have **ossified** — soft cartilage turning to bone on a predictable schedule. That's the literal sense doing daily work.",
+  "etymology": "Latin **os, ossis** = *\"bone\"*, plus *-ify* (*\"make into\"*). The root is quietly productive: **osseous** (bony), **ossuary** (a bone-house for stacked remains), **ossicle** (the three tiny bones of the middle ear).\n\n🚫 Not related to **osteo-** words (*osteoporosis*, *osteopath*) — those are Greek *osteon*, also \"bone.\" Two languages, same idea, unconnected spellings.",
+  "one_line": "To harden into bone; to become rigid and unchangeable.",
+  "root": "os, ossis (bone)",
+  "root_family": [
+    "osseous",
+    "ossuary",
+    "ossicle",
+    "ossification"
+  ],
+  "confusables": [
+    "calcify",
+    "opacify"
+  ],
+  "sense_tags": [
+    "rigidity",
+    "stagnation",
+    "hardening",
+    "inflexibility",
+    "tradition"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    31
+  ]
+}

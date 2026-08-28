@@ -1,0 +1,46 @@
+{
+  "word": "speculate",
+  "pos": "v.",
+  "pron": "SPEK-yuh-layt",
+  "pron_note": null,
+  "means": "**1.** To form a theory or opinion **without firm evidence** — to reason toward a conclusion you can't prove.\n**2.** To **buy something risky** (stock, land, crypto) hoping the price moves your way.\n\nBoth senses share one thing: you're acting on a view, not on facts. *Speculate* sits above **guess** — it implies actual reasoning, which is why analysts and historians do it respectably — but below **infer** or **deduce**, which claim real evidence behind them. It also carries a built-in disclaimer, which is why \"I won't speculate\" is the standard press-conference dodge: saying it out loud admits you don't know.\n\nIn money, the contrast is sharp: an **investor** analyses a business and holds; a **speculator** bets on the price and flips. Calling someone a speculator is rarely a compliment.",
+  "trap": null,
+  "trick_line": "Built **on spec** = built with no buyer lined up. **Spec**ulate = act on the **spec**, not the fact.",
+  "trick_unpack": "Whether the spec is a hunch about a murder or a hunch about a stock, you're committing to a view you can't yet verify.",
+  "sentences": [
+    "Historians still **speculate** about why the settlement was abandoned; the excavation has yielded no answer.",
+    "Don't ask me — I'm not going to **speculate** on why they broke up."
+  ],
+  "in_the_wild": "*The Big Short* is two hours of **speculation** in the money sense — a handful of outsiders betting against the housing market on a view nobody else held.",
+  "etymology": "Latin **specula** = *\"watchtower,\"* from **specere** = *\"to look.\"* To speculate is to scan the horizon from a height — you can see something out there, but you can't go down and check it.\n\nThat root is a GRE goldmine: **spectacle, inspect, prospect, conspicuous, specimen, suspect, spectrum** — and **circumspect**, literally *\"looking around,\"* hence cautious.",
+  "one_line": "Theorize without hard evidence; also, bet money on risk.",
+  "root": "specere (to look), via specula (watchtower)",
+  "root_family": [
+    "spectacle",
+    "inspect",
+    "prospect",
+    "circumspect",
+    "conspicuous",
+    "specimen",
+    "suspect",
+    "spectrum",
+    "perspective"
+  ],
+  "confusables": [
+    "spectate",
+    "stipulate",
+    "specious"
+  ],
+  "sense_tags": [
+    "conjecture",
+    "guessing",
+    "theorizing",
+    "risk-taking",
+    "investing"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    35
+  ]
+}

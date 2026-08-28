@@ -1,0 +1,37 @@
+{
+  "word": "unravel",
+  "pos": "v.",
+  "pron": "un-RAV-uhl",
+  "pron_note": null,
+  "means": "Literally, to undo something woven or knitted by pulling its threads apart. Figuratively it runs in **two opposite directions**, and the GRE tests both:\n\n- **Transitive — you unravel it:** to untangle and solve. *Unravel the mystery, the plot, the accounting fraud.* Patient, thread-by-thread work; the answer was always in there, knotted up.\n- **Intransitive — it unravels:** to fall apart progressively. *The ceasefire unravelled. His marriage unravelled.* Not a sudden break but a **slow, self-accelerating disintegration** — one thing gives, then everything attached to it.\n\nWhat links them is the sweater: the same pull that reveals the pattern also destroys the garment. Note the tone difference — the first is a compliment to someone's intelligence, the second is an obituary for something that used to hold together.",
+  "trap": "⚠️ **ravel is not the opposite of unravel.** *Ravel* means to fray or tangle — and, confusingly, also to unravel. The `un-` here doesn't reverse anything, so if a passage uses **ravel**, do not read it as \"weave back together.\"",
+  "trick_line": "**Same loose thread, two endings: the detective *unravels* the case, the suspect *unravels* on the stand.**",
+  "trick_unpack": "Pulled deliberately it yields the truth; pulled by circumstance it just comes apart — one verb, both outcomes.",
+  "sentences": [
+    "Three years of forensic accounting were needed to **unravel** the shell companies the money had been threaded through.",
+    "She held it together through the funeral and then **unravelled** completely in the car park."
+  ],
+  "in_the_wild": "**\"Unravel\"** — the *Tokyo Ghoul* opening theme, a song entirely about a mind coming apart at the seams. The intransitive sense, four minutes long.",
+  "etymology": null,
+  "one_line": "To untangle and solve — or to progressively fall apart.",
+  "root": "ravelen (Dutch: to tangle, fray)",
+  "root_family": [
+    "ravel"
+  ],
+  "confusables": [
+    "ravel",
+    "unravished"
+  ],
+  "sense_tags": [
+    "disintegrating",
+    "solving",
+    "untangling",
+    "collapse",
+    "decipher"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    33
+  ]
+}

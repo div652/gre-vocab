@@ -1,0 +1,44 @@
+{
+  "word": "factious",
+  "pos": "adj.",
+  "pron": "FAK-shuhs",
+  "pron_note": null,
+  "means": "Given to forming **factions** — creating, or arising from, dissension inside a group that is supposed to be one body: a party, a cabinet, a church, a committee.\n\nThe word is always spoken from the standpoint of the whole. Calling a bloc *factious* is a charge that they've put their sub-group ahead of the organisation, and usually that the quarrel is self-interested rather than principled — it's the vocabulary of political science and of people who think unity was the point. Note the scope: it describes **splits between groups**, never a single person's bad temper.",
+  "trap": "⚠️ **factious ≠ fractious.**\n- **factious** = *splitting into rival camps* (a factious senate)\n- **fractious** = *irritable, unruly* (a fractious toddler, a fractious horse)\n\nFra**ct**ious has the *fract* of **fracture** and **fractious** tempers snap. Factious has **faction**.",
+  "trick_line": "**FACTIOUS = FACTION + -OUS.** The word literally has the answer inside it.",
+  "trick_unpack": "If a group is full of factions, it is factious — the split is between camps, not inside one cranky person.",
+  "sentences": [
+    "The republic's collapse owed less to foreign armies than to the **factious** nobility, each house pursuing its own advantage.",
+    "Two months in, the book club had gone **factious** — the literary-fiction crowd wasn't speaking to the thriller people."
+  ],
+  "in_the_wild": "Madison's **Federalist No. 10** is the most famous warning about faction ever written — the whole essay is about how a republic can survive citizens splitting into rival interest groups.",
+  "etymology": "Latin **facere** = *\"to do, to make.\"* A *factio* was a **group that acts together** — originally a chariot-racing team at the Roman circus, later a political bloc.\n\nThat root is everywhere: **factory**, **manufacture**, **benefactor**, **artifact**, **facile**, **affect**.",
+  "one_line": "Splitting a group into rival, self-interested camps.",
+  "root": "facere, factum (to do, to make) → factio (a group acting together)",
+  "root_family": [
+    "faction",
+    "factory",
+    "manufacture",
+    "benefactor",
+    "artifact",
+    "facile"
+  ],
+  "confusables": [
+    "fractious",
+    "factitious",
+    "fictitious",
+    "facetious"
+  ],
+  "sense_tags": [
+    "divisive",
+    "partisan",
+    "dissension",
+    "infighting",
+    "political"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

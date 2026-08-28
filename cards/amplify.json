@@ -1,0 +1,39 @@
+{
+  "word": "amplify",
+  "pos": "v.",
+  "pron": "AM-pluh-fye",
+  "pron_note": null,
+  "means": "To **make something bigger, louder, or stronger** — sound, a signal, an effect, a message.\n\nThe key is that amplify never *creates*; it takes something already there and turns the dial up. That's what separates it from **exaggerate** (which distorts) and **embellish** (which adds invented detail) — *amplify* stays neutral about whether the thing is true. Second sense, common on the GRE: to **expand on** a statement — \"could you amplify that point?\" means *say more*, not *say it louder*. Modern professional usage (\"amplify underrepresented voices\") is warmly positive, but the word itself carries no judgement — panic, tension, and rumours get amplified too.",
+  "trap": null,
+  "trick_line": "**Amp**lify hides an **amp** and **ample** — turn up what's already playing, until there's plenty of it.",
+  "trick_unpack": "The guitar amp boosts a string that's already vibrating, which is exactly why you amplify a rumour but fabricate a lie.",
+  "sentences": [
+    "Social media did not create the outrage so much as **amplify** it, feeding a local grievance to a global audience within hours.",
+    "\"You said the schedule was 'unrealistic' — care to **amplify** that a bit before we sign the contract?\""
+  ],
+  "in_the_wild": "Every electric guitar runs through an **amp** — short for *amplifier*. The pickup produces a signal far too faint to hear; the amp does nothing but make that existing signal enormous. That's the whole word in one box.",
+  "etymology": "Latin **amplus** = *\"large, spacious\"* + **-ficāre** (*facere*, \"to make\"). Literally *make it large*.\n\nSame root gives you **ample** (plenty), **amplitude** (the size of a wave's swing), and **amplification**. And **-fy / -ficāre** is a free GRE bonus: *clarify, ratify, mollify, vilify* — all \"make it X.\"",
+  "one_line": "To make louder, stronger, or fuller; to expand on.",
+  "root": "amplus (large) + facere (to make)",
+  "root_family": [
+    "ample",
+    "amplitude",
+    "amplification",
+    "ampleness"
+  ],
+  "confusables": [
+    "exemplify"
+  ],
+  "sense_tags": [
+    "intensify",
+    "increase",
+    "loudness",
+    "elaborate",
+    "emphasis"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    33
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "pejorative",
+  "pos": "adj. / n.",
+  "pron": "puh-JOR-uh-tiv",
+  "pron_note": "Also heard as PEJ-uh-ray-tiv (older, more common in Britain).",
+  "means": "**Adjective:** expressing contempt or disapproval; belittling.\n**Noun:** a word that does the belittling.\n\nThis is a label you put on a **word**, not on a person — you say *\"'bureaucrat' is a pejorative\"*, not *\"he was pejorative to me.\"* That gives it a cool, almost clinical register: the person saying \"pejorative\" is calm; the word being described is not. It's also wider and weaker than *slur* — a pejorative can be a mere sneer buried in a suffix (*poetaster*, *starlet*) rather than an outright attack.",
+  "trap": "⚠️ **pejorative ≠ prerogative.** A **prerogative** is an exclusive right you hold (*\"that's the boss's prerogative\"*). Similar rhythm, opposite worlds — one insults, one entitles.",
+  "trick_line": "**Deliberately mis-say it — pe-JEER-ative. A pejorative jeers.**",
+  "trick_unpack": "The jeer is baked into the word itself, which is why you label the *term* pejorative rather than the speaker.",
+  "sentences": [
+    "Once neutral, the word drifted into **pejorative** use and now appears in the style guide's list of terms to avoid.",
+    "He called my playlist \"eclectic,\" but the tone was pure **pejorative** — he meant it was a mess."
+  ],
+  "in_the_wild": "Wikipedia boilerplate: scroll to almost any article on a nickname or slang term and you'll hit the sentence *\"the term is often used as a pejorative.\"* It's the internet's standard way of saying *this word carries a sneer.*",
+  "etymology": "Latin **peior** = *\"worse\"* → **pejorare**, *\"to make worse.\"* A pejorative word makes its target worse than it is.\n\nSame root, disguised: **impair** (via Latin *impejorare*) literally means *to make worse* — which is exactly what impairing something does.",
+  "one_line": "Belittling; a word chosen to express contempt.",
+  "root": "peior (worse)",
+  "root_family": [
+    "impair",
+    "pejoration"
+  ],
+  "confusables": [
+    "prerogative",
+    "perjury",
+    "perjure"
+  ],
+  "sense_tags": [
+    "disparaging",
+    "contemptuous",
+    "insulting",
+    "word-choice"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

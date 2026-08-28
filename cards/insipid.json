@@ -3,38 +3,37 @@
   "pos": "adj.",
   "pron": "in-SIP-id",
   "pron_note": null,
-  "means": "Literally **without flavour**; figuratively **dull, flat, lacking any spark or interest**.\n\nThe word carries no heat. Something insipid doesn't offend you, it *fails* to affect you — weak tea, a beige romcom, a politician's non-answer. That's what separates it from *dreadful* or *tedious*: those admit the thing had force enough to hurt. Insipid is the verdict of a jaded palate, faintly superior, the sound of someone who expected to be interested and wasn't. Often used of art, prose, conversation and people, where \"watery\" is exactly the insult intended.",
-  "trap": null,
-  "trick_line": "in-**SIP**-id — you **sip** it and taste nothing.",
-  "trick_unpack": "The word hides *sip* right in its stressed syllable, and the point isn't that it tastes bad — it's that there's nothing there.",
+  "means": "Without flavour; by extension, without interest, character, or spark.\n\nThe word is a sneer. *Mild* and *plain* are neutral descriptions; **insipid** is a verdict — it says the thing *should* have had flavour and failed to deliver any. It works on soup, on prose, on a melody, on a person, and in every case it implies the critic tasted carefully and found nothing there. Slightly more literary and more withering than *boring*: you call a lecture boring, you call a novel insipid.",
+  "trap": "⚠️ **insipid ≠ insidious.** Both open *in-si-*, and there the resemblance ends: **insipid** = flavourless, dull; **insidious** = creeping and treacherous, harmful by stealth. An insipid remark bores you; an insidious one damages you quietly.",
+  "trick_line": "**in-SIP-id** — take a **sip**, taste nothing, and say so with a curl of the lip.",
+  "trick_unpack": "The hidden *sip* fixes the tasting metaphor, and the curled lip fixes the contempt that separates *insipid* from a neutral word like *mild*.",
   "sentences": [
-    "The novel's prose was elegant enough, but its characters were **insipid** — beautiful people saying nothing to each other for four hundred pages.",
-    "Two hours of my life for that? Insipid doesn't cover it — I've had stronger opinions about tap water.\""
+    "Reviewers dismissed the novel as an **insipid** imitation of far braver books.",
+    "The tea was **insipid** — basically hot water with ambitions."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **in-** (*not*) + **sapidus** (*tasty*), from **sapere** = *\"to taste\"* — and, by extension, *\"to have taste, to be wise.\"*\n\nThat double sense pays off across the whole family: **savour** and **savvy** (tasting), **sapient**, **sage** and **Homo sapiens** (knowing). So *insipid* is literally the un-tasty — and the flavourless thing is dumb in both senses at once.",
-  "one_line": "Flavourless; dull and flat, with nothing there to notice.",
+  "in_the_wild": "Standard wine- and food-critic vocabulary: an **insipid** wine is one with no acid, no fruit, nothing to say — the polite word for \"watery.\"",
+  "etymology": "Latin **in-** (*not*) + **sapidus** (*tasty*), from **sapere** = *\"to taste\"* — and, because taste and judgement were one idea to the Romans, also *\"to be wise.\"*\n\nThat double sense pays out across the exam: **sapid** (full of flavour), **savour**, **savoury**, **sage**, **sapient**, **Homo sapiens** — the \"wise\" ape, literally the one with taste.",
+  "one_line": "Bland to the point of dullness; flavourless, in food or people.",
   "root": "sapere (to taste; to be wise)",
   "root_family": [
-    "sapient",
-    "Homo sapiens",
-    "sage",
+    "sapid",
     "savour",
-    "savvy",
-    "sapid"
+    "savoury",
+    "sage",
+    "sapient",
+    "Homo sapiens"
   ],
   "confusables": [
-    "vapid",
     "insidious",
     "intrepid",
-    "limpid"
+    "vapid",
+    "sapid"
   ],
   "sense_tags": [
-    "dull",
     "bland",
+    "dull",
     "flavourless",
-    "uninteresting",
-    "lifeless"
+    "uninspiring"
   ],
   "register": "formal",
   "connotation": "negative",

@@ -1,0 +1,46 @@
+{
+  "word": "soliloquy",
+  "pos": "n.",
+  "pron": "suh-LIL-uh-kwee",
+  "pron_note": "The -quy ending is \"kwee\", never \"kwy\".",
+  "means": "A speech in which a character, **alone**, speaks their thoughts aloud — to themselves and to the audience, not to anyone in the scene. By extension, any extended bout of talking to oneself.\n\nThe defining condition is **no listener**. A **monologue** is aimed at people: a stand-up set, a villain's gloat, a rant at a dinner table. A soliloquy is private thought that happens to be audible — which is why it reads as sincere; there's no one to perform for, so no reason to lie. Almost always a theatre or literary word; calling your flatmate's kitchen mutterings a soliloquy is a deliberate joke.",
+  "trap": null,
+  "trick_line": "**Solo** is hiding in the front of it — a soliloquy is a **solo**, and a solo has nobody else on stage.",
+  "trick_unpack": "The moment another character is being addressed, it stops being a soliloquy and becomes a monologue.",
+  "sentences": [
+    "Iago's **soliloquies** are the only place in the play where he tells the truth, because they are the only place he has no one to deceive.",
+    "He wandered off into a ten-minute **soliloquy** about his fantasy team while the rest of us ate in silence."
+  ],
+  "in_the_wild": "**\"To be, or not to be\"** — Hamlet, alone on stage, arguing with himself about whether to go on living. The most famous soliloquy in English, and a perfect specimen: nobody is listening, so nothing is being sold.",
+  "etymology": "Latin **sōlus** (*alone*) + **loquī** (*to speak*).\n\n**loquī** is a GRE goldmine: **loquacious** (talkative), **eloquent** (well-spoken), **colloquial** (conversational), **grandiloquent** (pompously grand), **circumlocution** (talking around a point), **ventriloquist** (one who \"speaks from the belly\"), **obloquy** (speech *against* someone — public disgrace).",
+  "one_line": "A speech spoken alone on stage, thoughts voiced to no one.",
+  "root": "loquī (to speak) + sōlus (alone)",
+  "root_family": [
+    "loquacious",
+    "eloquent",
+    "colloquial",
+    "grandiloquent",
+    "circumlocution",
+    "ventriloquist",
+    "obloquy",
+    "elocution",
+    "solitude",
+    "desolate"
+  ],
+  "confusables": [
+    "monologue",
+    "colloquy",
+    "obloquy"
+  ],
+  "sense_tags": [
+    "speech",
+    "theatre",
+    "solitary",
+    "inner-thought"
+  ],
+  "register": "literary",
+  "connotation": "neutral",
+  "groups": [
+    30
+  ]
+}

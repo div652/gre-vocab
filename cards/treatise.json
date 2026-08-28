@@ -1,0 +1,47 @@
+{
+  "word": "treatise",
+  "pos": "n.",
+  "pron": "TREE-tis",
+  "pron_note": "Ends in a hissing -s, not a -z: TREE-tis, never \"TREE-tize\".",
+  "means": "A long, formal, **systematic** written work that covers one subject thoroughly and methodically.\n\nSize and rigour are the whole point. An **essay** explores, an **article** reports, a **tract** preaches a short partisan message — a **treatise** sets out to be *the* definitive handling of its topic, chapter by chapter, from first principles. It implies authority and exhaustiveness, and it implies weight on the shelf.\n\nBecause of that heft, it's also the standard word for gentle mockery: any document far longer than the occasion deserved gets called a treatise.",
+  "trap": "⚠️ **treatise ≠ treaty.** Same root, different worlds: a **treatise** is a book that *handles a subject*; a **treaty** is a signed agreement between states. Nations sign treaties; scholars write treatises.",
+  "trick_line": "A trea**tise** **treat**s one subject — and treats it to death.",
+  "trick_unpack": "To \"treat of\" a topic is to handle it, and a treatise handles it so completely that nothing is left to say.",
+  "sentences": [
+    "Hume was twenty-eight when he published his **treatise** on human nature, three volumes of it, and it fell, in his words, dead-born from the press.",
+    "He replied to a one-line email with a four-page **treatise** on why the meeting should be moved."
+  ],
+  "in_the_wild": "Hume's *A Treatise of Human Nature* — the go-to example of the form: a young philosopher trying to settle an entire field in one enormous book.",
+  "etymology": "Latin **tractāre** = *\"to handle, to drag about\"* (from *trahere*, to pull). To *treat* a subject is literally to get your hands on it.\n\nThat root is a GRE goldmine: **tract** (a pulled-out stretch of land, or a pamphlet), **extract**, **contract**, **retract**, **tractor**, **traction**, **protracted**.",
+  "one_line": "A long, systematic book exhaustively covering one subject.",
+  "root": "tractāre (to handle), from trahere (to pull, drag)",
+  "root_family": [
+    "tract",
+    "tractate",
+    "extract",
+    "contract",
+    "retract",
+    "protracted",
+    "traction",
+    "tractor",
+    "treatment"
+  ],
+  "confusables": [
+    "treaty",
+    "tract",
+    "treatment",
+    "thesis"
+  ],
+  "sense_tags": [
+    "writing",
+    "scholarly",
+    "exhaustive",
+    "systematic",
+    "book"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    26
+  ]
+}

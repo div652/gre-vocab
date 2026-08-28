@@ -1,0 +1,46 @@
+{
+  "word": "allude",
+  "pos": "v.",
+  "pron": "uh-LOOD",
+  "pron_note": null,
+  "means": "To refer to something **indirectly** — to hint at it, gesture toward it, mention it without naming it.\n\nThe indirectness is the whole point. You *mention* a thing; you *allude* to it. Alluding means the listener has to do a little work: you name the affair as \"recent difficulties,\" you name the rival's book as \"a certain bestseller.\" So it's the verb of tact, of insinuation, and of literature — a poet alludes to Homer, a diplomat alludes to a scandal, a colleague alludes to your unread emails. Note it takes **to**: you allude *to* something, never allude something.",
+  "trap": "⚠️ **allude ≠ elude.**\n- **allude to** = hint at it\n- **elude** = escape or slip away from it (the thief eluded capture; the word eludes me)\n\nSame Latin root, opposite directions: *toward* vs *away*.",
+  "trick_line": "**Never said *aloud* — only *alluded* to.**",
+  "trick_unpack": "The near-homophone flips the meaning: what's alluded to is precisely what nobody says out loud.",
+  "sentences": [
+    "In his resignation letter he **alluded** to \"differences of judgement\" with the board, and named no one.",
+    "She kept **alluding** to some big announcement and then refused to tell us what it was."
+  ],
+  "in_the_wild": "Every English class you've sat in: a **literary allusion** is a line that nods at another text without quoting it — Eliot glancing at Dante, a film title lifted from Shakespeare.",
+  "etymology": "Latin **ad-** (\"toward\") + **ludere** (\"to play\") — literally *to play toward*, to touch on a thing in passing.\n\nThat root pays off across a whole family: **elude** (play *away* — escape), **delude** (play someone *false*), **collude** (play *together*, secretly), **prelude** / **interlude** (play before / between), **ludicrous** (fit only for play).",
+  "one_line": "To refer to something indirectly, without naming it.",
+  "root": "ludere (to play)",
+  "root_family": [
+    "elude",
+    "delude",
+    "collude",
+    "prelude",
+    "interlude",
+    "ludicrous",
+    "illusion",
+    "allusion"
+  ],
+  "confusables": [
+    "elude",
+    "allusion",
+    "illusion",
+    "delude",
+    "elide"
+  ],
+  "sense_tags": [
+    "indirect-reference",
+    "hinting",
+    "implying",
+    "suggestion"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    33
+  ]
+}

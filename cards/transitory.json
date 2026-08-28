@@ -1,0 +1,46 @@
+{
+  "word": "transitory",
+  "pos": "adj.",
+  "pron": "TRAN-zi-tor-ee",
+  "pron_note": null,
+  "means": "Lasting only a short while; not permanent by its very nature.\n\nWhere *fleeting* is about speed and *ephemeral* is about sheer brevity, **transitory** is about **impermanence as a property**: the thing is a phase, and phases end. It suits abstractions — power, fame, pain, pleasure, an economic condition — and carries a faint moral or philosophical hum, the voice of someone telling you not to get attached. Compare *transient*, which more often describes things or people literally passing through (a transient population, a transient guest); transitory is what you say about the state of the world, not the man at the door.",
+  "trap": "⚠️ **transitory ≠ transitive.**\n- **transitory** = *short-lived*\n- **transitive** = *carrying over to an object* — a transitive verb takes one; a transitive relation passes along (if a=b and b=c…).\n\nSame root, opposite usefulness on the exam.",
+  "trick_line": "**Transit**ory — whatever it describes is only **in transit**, never resident.",
+  "trick_unpack": "The word wears *transit* on its face: it isn't stopping here, it's passing through on its way out.",
+  "sentences": [
+    "Marcus Aurelius returns again and again to the same consolation: honour, grief and empire alike are **transitory**.",
+    "Don't panic about the bad reviews — this stuff is **transitory**, nobody will remember by Friday."
+  ],
+  "in_the_wild": "In 2021 the Federal Reserve insisted that surging prices were **\"transitory\" inflation** — a phase that would pass on its own. It didn't, and the word got retired from Fed press conferences in disgrace.",
+  "etymology": "Latin **transīre** = *\"to go across\"* — *trans* (across) + **īre** (to go).\n\nThat little verb **īre** is a GRE workhorse: **exit** (*ex-* out), **transit**, **circuit** (*circum-* around), **initial** (*in-* going in), **perish** (*per-īre*, to go through and be gone), **ambition** (*amb-īre*, going around canvassing for votes), **itinerary**.",
+  "one_line": "Lasting only briefly; a passing phase, not a fixture.",
+  "root": "īre, itum (to go)",
+  "root_family": [
+    "transit",
+    "transition",
+    "transient",
+    "exit",
+    "circuit",
+    "initial",
+    "perish",
+    "ambition",
+    "itinerary"
+  ],
+  "confusables": [
+    "transient",
+    "transitive",
+    "transitional"
+  ],
+  "sense_tags": [
+    "impermanent",
+    "short-lived",
+    "fleeting",
+    "passing",
+    "temporary"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    19
+  ]
+}

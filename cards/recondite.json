@@ -2,32 +2,34 @@
   "word": "recondite",
   "pos": "adj.",
   "pron": "REK-uhn-dyte",
-  "pron_note": "Also ri-KON-dyte; both are standard.",
-  "means": "Dealing with matter so obscure that only specialists know it: abstruse, arcane, deep in the weeds.\n\nThe difficulty isn't that the idea is *complicated* — it's that the subject is **remote**. A proof can be hard and still famous; a recondite topic is one almost nobody has occasion to encounter. Applied to a person or their scholarship it can be admiring (they've gone deep); applied to prose or an argument it's usually a jab — you've buried the point where no reader will follow.",
+  "pron_note": "Also heard as ri-KON-dyte; the first-syllable stress is the standard one.",
+  "means": "Dealing with subject matter so deep, technical or out-of-the-way that only specialists can follow it — and, of a person, steeped in exactly that kind of learning.\n\nThe obscurity is in the **difficulty**, not in any attempt to hide. *Arcane* suggests secrets guarded by initiates; *esoteric* suggests knowledge held by an in-group; **recondite** simply means you'd need years of study to reach the bottom of it. It's a formal, bookish word, and it cuts both ways: applied to a monograph it's near-admiring, applied to someone's dinner-party remarks it's a polite way of saying nobody understood a word.",
   "trap": null,
-  "trick_line": "Recondite knowledge has ab**scond**ed — it's not too hard for you, it's too *hidden* from you.",
-  "trick_unpack": "Both words carry Latin *condere*, \"to stash away,\" so recondite marks facts that are out of sight rather than merely tough.",
+  "trick_line": "**re-CON-dite** — the **CON** is *hidden* right in the middle of it.",
+  "trick_unpack": "That buried CON is literally the root (*condere*, to stash away), and it's the giveaway that recondite knowledge isn't secret, just stored too deep for casual readers to reach.",
   "sentences": [
-    "His footnotes trail off into **recondite** disputes over sixth-century tax registers that perhaps forty people alive can follow.",
-    "Ask him about anything and you get some **recondite** fact about submarine cables — I have no idea where he picks this stuff up."
+    "His footnotes trail off into **recondite** disputes over fourteenth-century tax rolls that perhaps six people alive can adjudicate.",
+    "Ask him about coffee and you get twenty minutes of **recondite** stuff about grind burrs and water hardness."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **recondere** = *\"to put back, store away, conceal\"* (**re-** back + **condere** to stow). The same *condere* gives you **abscond** — to slip off and hide yourself, exactly what recondite facts have done.",
-  "one_line": "Obscure, known only to specialists — hidden away, not merely hard.",
-  "root": "condere (to put away, stow, conceal)",
+  "etymology": "Latin **recondere** = *\"to put back, store away, hide\"* — *re-* (back) + *condere* (to put together, stow).\n\nThe same *condere* gives you **abscond** (*abs-* away + *condere* — to stow yourself away and vanish). Recondite learning is shelved deep in the stacks; the absconder has stowed himself somewhere you can't find him.",
+  "one_line": "So deep and specialized only experts can follow it.",
+  "root": "condere (to put away, store, hide)",
   "root_family": [
     "abscond",
-    "recondite"
+    "condiment",
+    "sconce"
   ],
   "confusables": [
-    "recondition"
+    "recondition",
+    "reconnoitre"
   ],
   "sense_tags": [
     "obscure",
-    "arcane",
-    "esoteric",
-    "specialist",
-    "difficult"
+    "difficult",
+    "specialized",
+    "scholarly",
+    "profound"
   ],
   "register": "formal",
   "connotation": "depends",

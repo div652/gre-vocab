@@ -1,0 +1,38 @@
+{
+  "word": "elementary",
+  "pos": "adj.",
+  "pron": "el-uh-MEN-tuh-ree",
+  "pron_note": "Usually squeezed to el-uh-MEN-tree in fast speech.",
+  "means": "Concerned with the **first and simplest parts** of a subject — introductory, rudimentary, requiring no advanced knowledge.\n\nApplied to *material*, it's flatly neutral: an elementary textbook, elementary arithmetic. Applied to *a person's mistake or question*, it turns barbed — \"an elementary error\" means one so basic you should be embarrassed to have made it. Same word, and the insult lives entirely in what you attach it to.",
+  "trap": "⚠️ **elementary ≠ elemental.**\n- **elementary** = *basic, beginner-level* — an elementary mistake\n- **elemental** = *raw, primal, of the fundamental forces* — elemental rage, elemental fury of the storm\n\nElementary is small and simple. Elemental is huge and primitive.",
+  "trick_line": "**Elementary school** comes before everything else — and calling a grown-up's question *elementary* is telling them that's where they belong.",
+  "trick_unpack": "The school sense fixes the meaning (the very first level) and the sneer fixes the tone.",
+  "sentences": [
+    "A grasp of **elementary** statistics is assumed before the seminar begins.",
+    "Mate, you forgot to plug it in — that's an **elementary** mistake."
+  ],
+  "in_the_wild": "**\"Elementary, my dear Watson\"** — Holmes's catchphrase in the films (not, in fact, in Conan Doyle's stories in that exact form), and the title of the Sherlock series *Elementary*. The tone is the point: he means *obvious to anyone paying attention*, which is why it stings.",
+  "etymology": "Latin **elementum** = *a first principle, a rudiment* — and, in the plural, **the letters of the alphabet**, the very first thing a Roman child was taught. Elementary knowledge is literally your ABCs.",
+  "one_line": "Basic, introductory — the first and simplest level of something.",
+  "root": "elementum (first principle, rudiment; the ABCs)",
+  "root_family": [
+    "element",
+    "elemental",
+    "elementary"
+  ],
+  "confusables": [
+    "elemental",
+    "alimentary"
+  ],
+  "sense_tags": [
+    "basic",
+    "introductory",
+    "rudimentary",
+    "simple"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    22
+  ]
+}

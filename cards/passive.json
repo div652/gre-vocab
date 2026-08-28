@@ -1,0 +1,42 @@
+{
+  "word": "passive",
+  "pos": "adj.",
+  "pron": "PAS-iv",
+  "pron_note": null,
+  "means": "**Not acting; accepting or absorbing what happens without resistance, initiative, or protest.** In grammar, the voice in which the subject is acted *upon* rather than acting (\"the ball **was thrown**\").\n\nApplied to a person it carries a quiet reproach, because it measures you against something you could have done and didn't. A *calm* person is at peace, a *docile* one obeys, a **passive** one simply stands there. It's milder than *supine* or *servile* — but rarely a compliment, except in technical pairings like *passive income*, *passive smoking*, *passive solar heating*, where it means nothing more than \"without active effort.\"",
+  "trap": "⚠️ **passive ≠ impassive.**\n- **passive** = takes no **action**\n- **impassive** = shows no **emotion**\n\nA negotiator can be impassive — stone-faced — while working the phones hard. That's the opposite of passive.",
+  "trick_line": "**Pass**ive: your turn comes and you **pass** — the game goes on without you.",
+  "trick_unpack": "The \"pass\" hook catches the crucial part: a turn was available to you, which is why passivity gets blamed and mere calmness doesn't.",
+  "sentences": [
+    "Faced with mounting evidence of fraud, the board remained **passive**, minuting its concerns and doing nothing further.",
+    "Don't be so **passive** — if you want Friday off, just go and ask for it."
+  ],
+  "in_the_wild": "**\"Mistakes were made.\"** The classic political non-apology is also the textbook specimen of the **passive** voice: something happened, and no one did it. Every style guide holds it up as the sentence that hides its own actor.",
+  "etymology": "Latin **patī, passus** = *\"to suffer, to undergo\"* — to be on the receiving end.\n\nThat root pays off widely: **patient** (one who undergoes), **compassion** (suffering *with*), **passion** — which originally meant *suffering*, which is why the Crucifixion is called the **Passion** of Christ, not a romance. **Passive** is the plain adjective of the family: you don't do, you're done to.",
+  "one_line": "Accepting what happens without acting; acted upon rather than acting.",
+  "root": "patī, passus (to suffer, undergo)",
+  "root_family": [
+    "patient",
+    "patience",
+    "compassion",
+    "passion",
+    "dispassionate",
+    "compatible"
+  ],
+  "confusables": [
+    "impassive",
+    "impassioned",
+    "passé"
+  ],
+  "sense_tags": [
+    "inaction",
+    "unresisting",
+    "submissive",
+    "acted-upon"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    37
+  ]
+}

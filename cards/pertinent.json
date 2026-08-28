@@ -1,0 +1,47 @@
+{
+  "word": "pertinent",
+  "pos": "adj.",
+  "pron": "PER-tuh-nuhnt",
+  "pron_note": null,
+  "means": "Relevant to the matter at hand — and relevant in a way that actually **bears on the decision**, not just adjacent to the topic.\n\n*Relevant* is the neutral, everyday word: it merely states a connection. *Pertinent* is a **judgement**, usually made by someone with standing — a chair, a judge, an examiner — that this fact deserves the room's attention. It lives in formal registers: legal filings, application forms, meeting minutes. Its negative, \"not pertinent,\" is a polite way of saying *stop talking about that*.",
+  "trap": "⚠️ **pertinent ≠ impertinent.** The *im-* doesn't cancel relevance — **impertinent** means **rude, cheeky, out of line** (\"an impertinent question\"). Something irrelevant is *not pertinent*; someone insolent is *impertinent*.",
+  "trick_line": "**Relevant** is a fact about the topic; **pertinent** is a verdict about your time.",
+  "trick_unpack": "Anything can be relevant, but a thing is pertinent only once someone has ruled that it's worth hearing.",
+  "sentences": [
+    "The tribunal declined to admit the letters, holding that nothing in them was **pertinent** to the charge.",
+    "\"That's a fair point, but is it **pertinent** right now? We've got ten minutes left.\""
+  ],
+  "in_the_wild": "Every job application and insurance form that asks you to \"include any other **pertinent** information\" — the bureaucratic house word for *stuff that actually matters here*.",
+  "etymology": "Latin **pertinēre** = *\"to reach through to, to belong to\"* — **per-** (*through*) + **tenēre** (*to hold*). A pertinent fact **holds on through** to the point.\n\nThat *tenēre* root is a GRE goldmine: **pertain, tenacious, tenure, tenant, retain, sustain, abstain, tenet** — all of them about holding.",
+  "one_line": "Directly relevant — and worth the room's attention.",
+  "root": "tenēre (to hold)",
+  "root_family": [
+    "pertain",
+    "tenacious",
+    "tenure",
+    "tenant",
+    "retain",
+    "sustain",
+    "abstain",
+    "tenet",
+    "detain",
+    "content"
+  ],
+  "confusables": [
+    "impertinent",
+    "pertinacious",
+    "pertain",
+    "prominent"
+  ],
+  "sense_tags": [
+    "relevant",
+    "applicable",
+    "to-the-point",
+    "germane"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    15
+  ]
+}

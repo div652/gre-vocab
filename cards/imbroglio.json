@@ -1,0 +1,37 @@
+{
+  "word": "imbroglio",
+  "pos": "n.",
+  "pron": "im-BROHL-yoh",
+  "pron_note": "The g is silent — it's Italian gl, as in \"million.\" Never \"im-BROG-lee-oh.\"",
+  "means": "A **confused, tangled, acrimonious situation** — a messy dispute with several parties in it and no clean way out.\n\nAn imbroglio isn't just a fight; it's a *snarl*. A quarrel has two sides, a **fiasco** ends in failure, a **brouhaha** is loud but trivial — an imbroglio is complicated, embarrassing, and faintly scandalous, the kind of mess where nobody can even agree on what happened. The word carries a raised eyebrow: it's what journalists and diplomats call a scandal when they want to sound dry about it.",
+  "trap": null,
+  "trick_line": "There's a **broil** hiding in im-**brogl**-io — you get *embroiled* in one.",
+  "trick_unpack": "Same root, same idea: things get stirred up and tangled until you can't extract yourself.",
+  "sentences": [
+    "The minister resigned rather than explain his part in the procurement **imbroglio**.",
+    "Two group chats, three versions of the story — the whole birthday-party thing turned into a full **imbroglio**."
+  ],
+  "in_the_wild": "A headline-writer's favourite: any time a scandal is too tangled to summarise, the press calls it \"the *[name]* imbroglio\" — the polite word for a mess nobody can untangle.",
+  "etymology": "Italian **imbrogliare** = *\"to tangle, to muddle.\"* English borrowed it twice: once straight (**imbroglio**) and once through French as **embroil**. The older sense of **broil** — not cooking, but a *brawl* — is the same family.",
+  "one_line": "A tangled, embarrassing, hard-to-resolve dispute.",
+  "root": "imbrogliare (to tangle, confuse)",
+  "root_family": [
+    "embroil",
+    "broil (brawl)"
+  ],
+  "confusables": [
+    "embroil",
+    "brouhaha"
+  ],
+  "sense_tags": [
+    "confusion",
+    "dispute",
+    "scandal",
+    "entanglement"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    29
+  ]
+}

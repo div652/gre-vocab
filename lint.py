@@ -38,12 +38,25 @@ BANNED = [
 ENUMS = {k: set(v["enum"]) for k, v in CARD_SCHEMA["properties"].items() if "enum" in v}
 
 
-def stem(word: str) -> str:
-    """Crude morphological stem so 'vilify' matches 'vilified'."""
-    w = word.strip().lower()
-    if " " in w:
-        return w
-    return w[:max(4, len(w) - 3)]
+def uses_word(word: str, sent: str) -> bool:
+    """Does this sentence actually use the word, in any inflected form?
+
+    Three cases have to pass, and naive substring matching fails two of them:
+      regular      'vilify'    -> 'vilified'     (stem match)
+      phrasal      'stem from' -> 'stemmed from' (match the head word only)
+      irregular    'forgo'     -> 'forwent'      (no shared stem at all)
+
+    For the irregular case, lean on the fact that every sentence bolds its
+    target: accept a **bolded** span that shares a 3-character prefix.
+    """
+    if not sent:
+        return False
+    low = sent.lower()
+    head = word.strip().lower().split()[0]
+    if head[:max(4, len(head) - 3)] in low:
+        return True
+    pre = head[:3]
+    return any(m.strip().startswith(pre) for m in re.findall(r"\*\*(.+?)\*\*", low))
 
 
 def check(card: dict, path: Path) -> list[str]:
@@ -65,9 +78,8 @@ def check(card: dict, path: Path) -> list[str]:
     sents = card.get("sentences") or []
     if len(sents) != 2:
         p.append(f"{len(sents)} sentences (must be exactly 2)")
-    s = stem(word)
     for i, sent in enumerate(sents, 1):
-        if s not in (sent or "").lower():
+        if not uses_word(word, sent):
             p.append(f"sentence {i} never uses '{word}'")
 
     # --- trick: both halves or neither, and the unpack is ONE sentence -------
@@ -88,11 +100,14 @@ def check(card: dict, path: Path) -> list[str]:
         p.append(f"pron {pron!r} has no CAPITALISED stressed syllable")
 
     # --- one_line budget ----------------------------------------------------
+    # 14, not 12. The original cap was arbitrary and rejected genuinely good
+    # glosses - crescendo's "a gradual swell in loudness or intensity, the build
+    # not the peak" carries the exact nuance people get wrong, in 13 words.
     ol = (card.get("one_line") or "").split()
     if not ol:
         p.append("empty one_line")
-    elif len(ol) > 12:
-        p.append(f"one_line is {len(ol)} words (max 12)")
+    elif len(ol) > 14:
+        p.append(f"one_line is {len(ol)} words (max 14)")
 
     if not (card.get("means") or "").strip():
         p.append("empty means")

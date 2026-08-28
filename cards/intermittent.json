@@ -1,0 +1,46 @@
+{
+  "word": "intermittent",
+  "pos": "adj.",
+  "pron": "in-ter-MIT-uhnt",
+  "pron_note": null,
+  "means": "Stopping and starting again, over and over, with gaps in between — never sustained for long.\n\nThe gaps are what the word is really about. **Continuous** rain falls all day; **intermittent** rain stops, teases you outside, then starts again. It also carries no promise of regularity: *periodic* means you can set your watch by it, *intermittent* just means it keeps coming back at its own convenience. Faintly exasperating in practice — intermittent power, intermittent signal, intermittent effort — because the thing is neither reliably there nor decently gone.",
+  "trap": null,
+  "trick_line": "There's an **intermission** sitting inside it — same root, same idea: the show stops, then resumes.",
+  "trick_unpack": "An intermission is a gap with more to come, which is exactly what makes something intermittent rather than simply over.",
+  "sentences": [
+    "The patient reported **intermittent** chest pain over several months, present for an hour or two and then absent for days.",
+    "The wifi's been **intermittent** all morning — two minutes of video call, then nothing."
+  ],
+  "in_the_wild": "**Intermittent fasting** — eat, stop, eat again. The whole diet is named after the gaps.",
+  "etymology": "Latin **intermittere** = *inter-* (\"between\") + *mittere* (\"to send, to let go\") — literally *to let go in between*, i.e. to leave off for a while.\n\n*Mittere* is one of the great GRE roots: **transmit** (send across), **emit** (send out), **submit** (send under), **remit**, **omit**, **mission**, **missile**, **intermission**.",
+  "one_line": "Stopping and starting again at irregular intervals.",
+  "root": "mittere (to send, to let go) + inter- (between)",
+  "root_family": [
+    "intermission",
+    "transmit",
+    "emit",
+    "submit",
+    "remit",
+    "omit",
+    "permit",
+    "mission",
+    "missile"
+  ],
+  "confusables": [
+    "intermediate",
+    "intermittently",
+    "intermission"
+  ],
+  "sense_tags": [
+    "irregular",
+    "stop-start",
+    "discontinuous",
+    "recurring",
+    "unreliable"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    23
+  ]
+}

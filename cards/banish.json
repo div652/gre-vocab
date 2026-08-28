@@ -1,0 +1,43 @@
+{
+  "word": "banish",
+  "pos": "v.",
+  "pron": "BAN-ish",
+  "pron_note": null,
+  "means": "To **force someone to leave a place — permanently, by order of an authority.** By extension: to drive away something unwanted (a thought, a fear, a smell).\n\nThe word carries a **decree** behind it. You are expelled *and* forbidden to return, and someone with power said so. Compare the neighbours: *exile* names the resulting condition and can be self-chosen; *expel* is institutional and bureaucratic (school, party, club); *ostracize* is a group quietly freezing you out with no legal force at all. Banishment is the formal sentence — old, absolute, slightly biblical in flavour, which is why the figurative use (\"banish the thought\") sounds a touch grand even when it's casual.",
+  "trap": null,
+  "trick_line": "**ban** + van**ish** — a *ban* that makes you *vanish*.",
+  "trick_unpack": "The rhyme with *vanish* gives you the disappearance, and the hidden *ban* gives you the missing half — that it was ordered, not chosen.",
+  "sentences": [
+    "The duke **banished** the poet from the city, on pain of death should he ever return.",
+    "One coffee and the hangover was **banished**."
+  ],
+  "in_the_wild": "Romeo, told he is **banished** from Verona rather than executed, howls *\"Ha, banishment! Be merciful, say 'death'\"* — the whole tragedy turns on that one sentence being handed down.",
+  "etymology": "Frankish **bannan** = *\"to proclaim, to command under threat of penalty.\"* A *ban* was a public proclamation; to banish was to proclaim someone out.\n\nThat root pays off across the exam: **ban**, **abandon** (put under someone else's *bann*, i.e. give up control), **bandit** (Italian *bandito*, a man publicly proclaimed an outlaw), **contraband**, and — surprisingly — **banal**: things open to *all* the lord's tenants by proclamation became things ordinary, and then things dull.",
+  "one_line": "To expel someone from a place by official decree.",
+  "root": "bannan (to proclaim, command under penalty)",
+  "root_family": [
+    "ban",
+    "abandon",
+    "bandit",
+    "contraband",
+    "banal",
+    "banns"
+  ],
+  "confusables": [
+    "vanish",
+    "vanquish",
+    "banal"
+  ],
+  "sense_tags": [
+    "expulsion",
+    "exile",
+    "authority",
+    "prohibition",
+    "driving away"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    16
+  ]
+}

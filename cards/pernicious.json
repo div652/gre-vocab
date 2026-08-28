@@ -1,0 +1,43 @@
+{
+  "word": "pernicious",
+  "pos": "adj.",
+  "pron": "per-NISH-uhs",
+  "pron_note": null,
+  "means": "Causing serious harm — but **gradually, quietly, and often invisibly** until the damage is done.\n\nThe word is almost never used for a punch, a bomb, or a car crash. It's reserved for the slow poison: a **pernicious influence**, a **pernicious doctrine**, a **pernicious habit**, a **pernicious myth**. *Harmful* states the fact; *destructive* is loud and visible; **pernicious** adds the creep — it works on you while you're not looking, and it's usually said with moral disapproval by someone educated and alarmed.",
+  "trap": "⚠️ **pernicious ≠ perfidious.**\n- **pernicious** = quietly *destructive* (a harmful effect)\n- **perfidious** = treacherous, *faithless* (a betrayer)\n\nA perfidious ally stabs you in the back; a pernicious rumour rots you from the inside.",
+  "trick_line": "It has **\"nice\"** sitting right in the middle — per-**NICI**-ous — and that's the whole point: it looks nice while it kills you.",
+  "trick_unpack": "Pernicious harm is the kind that doesn't announce itself, so the friendly-looking spelling matches the word's disguise.",
+  "sentences": [
+    "The report identified social media's **pernicious** effect on adolescent attention spans, accumulating year by year until it was mistaken for normal.",
+    "Skipping breakfast started as a time-saver, but it turned into a **pernicious** little habit that wrecked my afternoons."
+  ],
+  "in_the_wild": "**Pernicious anaemia** is still the standard medical name for B12-deficiency anaemia — christened before the cause was known, when it was a disease that quietly wasted you away and then killed you. The label survives as a fossil of exactly this meaning: slow, hidden, fatal.",
+  "etymology": "Latin **per-** (*thoroughly*) + **nex, necis** (*violent death*) → **perniciosus**, \"thoroughly deadly.\"\n\nThat death-root reappears in **internecine** (mutually destructive — *inter* + *necāre*, to kill) and, via its Greek cousin *nekros*, in **necrosis** and **necromancy**.",
+  "one_line": "Quietly, gradually destructive — harm that hides itself until too late.",
+  "root": "nex, necis (violent death); per- (thoroughly)",
+  "root_family": [
+    "internecine",
+    "necrosis",
+    "necromancy",
+    "necropolis"
+  ],
+  "confusables": [
+    "perfidious",
+    "pertinacious",
+    "precocious",
+    "insidious",
+    "pernickety"
+  ],
+  "sense_tags": [
+    "harmful",
+    "insidious",
+    "destructive",
+    "gradual-damage",
+    "corrupting"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    18
+  ]
+}

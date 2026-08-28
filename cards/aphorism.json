@@ -1,0 +1,42 @@
+{
+  "word": "aphorism",
+  "pos": "n.",
+  "pron": "AF-uh-riz-uhm",
+  "pron_note": "Not \"uh-FOR-izm\" — the stress lands on the first syllable, as in the adjective aphoristic (af-uh-RIS-tik).",
+  "means": "A **short, polished statement of a general truth** — one sentence that compresses an observation about life into its smallest hard form. *\"Less is more.\" \"The unexamined life is not worth living.\"*\n\nWhat marks it off from its neighbours is **authorship and craft**. A proverb is folk property, worn smooth by centuries of anonymous use; an aphorism has a writer behind it and shows the tooling — balance, surprise, often a twist of wit. A maxim tells you what to *do*; an aphorism tells you what *is*. And calling something an aphorism is mildly admiring: it means the line earned its brevity. The insult version is **platitude** or **cliché**.",
+  "trap": null,
+  "trick_line": "**Aphorism** shares its root with **horizon**: one clean line that fences a whole truth off from everything else.",
+  "trick_unpack": "Both come from Greek *horizein*, \"to draw a boundary\" — the aphorism's whole trick is where it decides to stop.",
+  "sentences": [
+    "Nietzsche wrote in **aphorisms** rather than arguments, trusting a single detonating sentence to do the work of a chapter.",
+    "My gran had an **aphorism** for everything, and annoyingly she was usually right."
+  ],
+  "in_the_wild": "Oscar Wilde is the patron saint of the form — *\"I can resist everything except temptation.\"* That's the shape: short, balanced, and it turns on you at the end.",
+  "etymology": "Greek **aphorismos**, from **apo-** (*off, away*) + **horizein** (*to bound, to define*) — literally a *marking-off*, a definition. Hippocrates' medical *Aphorisms* opened with \"Life is short, art is long.\"\n\nSame **horizein** gives you **horizon** — the line that bounds what you can see. Same **apo-** gives **apogee**, **apostasy**, **apostrophe**.",
+  "one_line": "A short, crafted sentence stating a general truth.",
+  "root": "apo- (off, away) + horizein (to bound, define)",
+  "root_family": [
+    "horizon",
+    "apogee",
+    "apostasy",
+    "apostrophe"
+  ],
+  "confusables": [
+    "epigram",
+    "apothegm",
+    "euphemism",
+    "aphrodisiac"
+  ],
+  "sense_tags": [
+    "concise-expression",
+    "wisdom",
+    "wit",
+    "sayings",
+    "brevity"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    36
+  ]
+}

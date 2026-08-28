@@ -1,0 +1,43 @@
+{
+  "word": "coherent",
+  "pos": "adj.",
+  "pron": "koh-HEER-uhnt",
+  "pron_note": null,
+  "means": "Hanging together — the parts fit, so the whole makes sense. Of an argument, plan or story: logically consistent, no gaps or contradictions. Of a person: able to speak intelligibly.\n\nWatch the two very different bars it sets. Applied to thinking, **coherent** is usually the *floor*, not the ceiling — \"a coherent strategy\" quietly implies the rival strategy is a mess, and \"coherent\" alone is faint praise for an essay that is organised but says nothing. Applied to a speaker, it drops lower still: \"she was barely coherent\" means drunk, concussed, or half-asleep. It's about the parts holding together, never about whether the thing is *true* — a conspiracy theory can be perfectly coherent.",
+  "trap": "⚠️ **coherent ≠ cohesive.**\n- **coherent** = makes logical sense (an argument, a sentence)\n- **cohesive** = sticks together as a unit (a team, a mixture, a paragraph's flow)\n\nA cohesive team can still produce an incoherent plan.",
+  "trick_line": "**Co-HERE** — every part stayed *here*, together; nothing wandered off on its own.",
+  "trick_unpack": "Incoherence is bits of thought scattering in different directions, so coherence is simply all of them holding one position.",
+  "sentences": [
+    "The dissertation was elegantly written but never assembled itself into a **coherent** argument.",
+    "He'd been awake for thirty hours and couldn't string together a **coherent** sentence."
+  ],
+  "in_the_wild": "A laser is just **coherent light** — ordinary bulbs throw waves out every which way, a laser gets them all in step, which is why the beam holds a straight line across a room instead of scattering.",
+  "etymology": "Latin **cohaerēre** = *\"to stick together\"* (*com-* \"together\" + **haerēre** \"to stick, to cling\").\n\nThat *haerēre* is worth banking: **adhere / adhesive** (stick to), **inherent** (sticking inside, inseparable), **cohesion**, and — the one nobody expects — **hesitate**, literally *to be stuck fast*, unable to move on.",
+  "one_line": "Hanging together; logically consistent; intelligible.",
+  "root": "haerēre (to stick, cling)",
+  "root_family": [
+    "adhere",
+    "adhesive",
+    "inherent",
+    "cohesion",
+    "hesitate",
+    "incoherent"
+  ],
+  "confusables": [
+    "cohesive",
+    "inherent",
+    "adherent"
+  ],
+  "sense_tags": [
+    "logical",
+    "consistent",
+    "intelligible",
+    "unified",
+    "clear-thinking"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    35
+  ]
+}

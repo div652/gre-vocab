@@ -1,0 +1,40 @@
+{
+  "word": "endow",
+  "pos": "v.",
+  "pron": "en-DOW",
+  "pron_note": null,
+  "means": "Two linked senses:\n\n**1.** To give a large sum of money or property to an institution, so that it produces income permanently — *to endow a hospital, a scholarship, a professorship.*\n**2.** To furnish someone with a quality or ability from birth — *endowed with perfect pitch.*\n\nBoth senses are grand and one-directional. You *give* someone a fiver; you **endow** a university — the word implies size, permanence, and a giver with means. In sense 2 the gift comes from nature, God, or luck, never from effort: being endowed with a talent is the opposite of having earned it, which is why the word so often shades into \"born lucky.\"",
+  "trap": null,
+  "trick_line": "An **endow**ment is built never to **end** — you live off the interest and never touch the gift.",
+  "trick_unpack": "The \"end\" sitting inside the word flags the key nuance: this isn't a donation that gets spent, it's a permanent capital gift.",
+  "sentences": [
+    "The alumna **endowed** a chair in medieval history, stipulating that the post could never be abolished.",
+    "He's **endowed** with the kind of memory that makes revision look easy — the rest of us have to work."
+  ],
+  "in_the_wild": "The US Declaration of Independence: *\"...that they are **endowed** by their Creator with certain unalienable Rights.\"* Sense 2 exactly — gifts you're born holding, not ones you're granted.",
+  "etymology": "Old French *endouer*, from Latin **dos, dotis** = *\"dowry\"* — the property that came with a bride. That root gives you **dowry**, **dower**, and **dowager** (the widow living on her dower). Hear the *dow* in **en-dow** and the money is right there in the word.",
+  "one_line": "To give a permanent fund to, or gift with a natural quality.",
+  "root": "dos, dotis (dowry)",
+  "root_family": [
+    "dowry",
+    "dower",
+    "dowager",
+    "endowment"
+  ],
+  "confusables": [
+    "endue",
+    "endorse"
+  ],
+  "sense_tags": [
+    "giving",
+    "philanthropy",
+    "funding",
+    "innate-gift",
+    "bestowing"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    32
+  ]
+}

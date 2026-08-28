@@ -1,0 +1,45 @@
+{
+  "word": "vacuous",
+  "pos": "adj.",
+  "pron": "VAK-yoo-uhs",
+  "pron_note": null,
+  "means": "Empty — literally void of contents, but almost always used of a remark, expression, or mind that **contains no thought at all**.\n\nThe word is a sneer, and it lands hardest when something *should* have had substance: a vacuous speech had a podium, an audience and twenty minutes, and delivered nothing. *Vague* means you can't tell what was meant; *vacuous* means nothing was meant. Reach for it about the smile that registers no one home, or the comment that sounds like an idea until you try to hold it.",
+  "trap": "⚠️ **vacuous ≠ fatuous.** They rhyme and both insult, but *vacuous* = **empty** (no content), *fatuous* = **smugly silly** (plenty of content, all of it foolish). A blank stare is vacuous; a pleased-with-itself joke is fatuous.",
+  "trick_line": "**Vacuous = vacuum + -ous.** A vacuum is empty *space*; a vacuous remark is empty *where the meaning should be*.",
+  "trick_unpack": "The vacuum cleaner in the word tells you the contents have been sucked out of something built to hold them.",
+  "sentences": [
+    "The minister's statement was a masterpiece of **vacuous** reassurance: three hundred words, not one commitment.",
+    "He just gave me this **vacuous** grin, like the question had gone straight through him."
+  ],
+  "in_the_wild": "In logic and CS, a statement like \"every file in this empty folder is corrupted\" is **vacuously true** — true only because there's nothing there to check. The technical sense preserves the ordinary one exactly: true, but empty.",
+  "etymology": "Latin **vacuus** = *\"empty,\"* from **vacāre**, *\"to be empty, to be free.\"* That root is everywhere: **vacuum, vacant, vacate, vacation, evacuate, vacancy** — and *vacation* is literally the time your desk stands empty.",
+  "one_line": "Empty of thought or content; mindlessly blank.",
+  "root": "vacuus / vacāre (empty, to be empty)",
+  "root_family": [
+    "vacuum",
+    "vacant",
+    "vacate",
+    "vacation",
+    "evacuate",
+    "vacancy",
+    "vacuity"
+  ],
+  "confusables": [
+    "fatuous",
+    "vapid",
+    "vacant",
+    "innocuous"
+  ],
+  "sense_tags": [
+    "empty",
+    "mindless",
+    "inane",
+    "shallow",
+    "meaningless"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    32
+  ]
+}

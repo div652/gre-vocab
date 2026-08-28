@@ -1,0 +1,41 @@
+{
+  "word": "retrench",
+  "pos": "v.",
+  "pron": "ri-TRENCH",
+  "pron_note": null,
+  "means": "To **cut back** — to reduce spending, shrink operations, or (in British, Indian and Australian usage) **lay off staff**.\n\nThis isn't trimming for elegance; it's contraction under pressure. A company retrenches when revenue falls, a government retrenches when the deficit bites, a household retrenches after a job loss. The word carries a defensive posture — pulling back to what you can still hold — and in corporate mouths it's mildly euphemistic: *retrenched* sounds tidier than *sacked*.",
+  "trap": "⚠️ **retrench ≠ entrench.** Same *trench*, opposite move: **entrench** = dig in and become immovable (*entrenched interests*); **retrench** = pull the line back and cut. One fortifies, one shrinks.",
+  "trick_line": "**Re-trench: draw the trench in tighter — everything left outside it gets cut.**",
+  "trick_unpack": "The word wears its meaning on the outside — *trench* is a cut, and retrenching means cutting your perimeter back to what you can still defend.",
+  "sentences": [
+    "Faced with a third straight quarter of losses, the board voted to **retrench**, closing two plants and freezing all hiring.",
+    "We're going to have to **retrench** a bit this year — no holiday, and the car can wait."
+  ],
+  "in_the_wild": "Standard business-page vocabulary: headlines like *\"Airline retrenches 3,000 staff\"* — and in Indian labour law, **retrenchment** is the formal term for layoffs under the Industrial Disputes Act.",
+  "etymology": "French **retrancher** = *\"to cut off, cut away\"* (*re-* + *trancher*, to slice). Same slice gives you **trench** (a cut in the ground), **trenchant** (cuttingly sharp — *a trenchant critique*), and **entrench**.",
+  "one_line": "To cut back sharply — spending, operations, or staff.",
+  "root": "trancher (to cut, slice)",
+  "root_family": [
+    "trench",
+    "trenchant",
+    "entrench",
+    "trencher"
+  ],
+  "confusables": [
+    "entrench",
+    "retract",
+    "trench"
+  ],
+  "sense_tags": [
+    "cutting-back",
+    "economising",
+    "downsizing",
+    "austerity",
+    "layoffs"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    35
+  ]
+}

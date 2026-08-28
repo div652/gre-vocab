@@ -3,42 +3,40 @@
   "pos": "adj.",
   "pron": "KER-suh-ree",
   "pron_note": null,
-  "means": "Done **quickly and without attention to detail** — a look, reading, or inspection so rapid it takes in only the surface.\n\nThe word almost always carries a quiet accusation: the speed is the reason something was *missed*. A **cursory** glance at the contract is how you end up signing away your flat. It attaches to acts of looking and checking — *a cursory glance, a cursory inspection, a cursory reading, a cursory nod* — and it judges the effort as insufficient without quite calling it lazy. Compare **brief**, which is neutral about thoroughness: a brief inspection can still be competent; a cursory one, by definition, wasn't.",
+  "means": "Done **quickly and without attention to detail** — a fast pass over the surface, skipping anything that would take time.\n\nThe word almost always carries a shrug of disapproval: it names an inspection that *should* have been thorough and wasn't. *Brief* is neutral, *concise* is a compliment, but **cursory** is a quiet accusation of laziness — a cursory apology isn't really an apology, and a cursory safety check is how people get hurt. It attaches by habit to acts of looking: a cursory **glance**, a cursory **reading**, a cursory **inspection**.",
   "trap": null,
-  "trick_line": "**Cursory** has a **cursor** in it — it *runs across* the surface and clicks on nothing.",
-  "trick_unpack": "The cursor skims the whole page in a second and takes in none of it, which is exactly the failure the word is accusing you of.",
+  "trick_line": "**Curs**ory moves at **cursor** speed — it runs across the page and stops for nothing.",
+  "trick_unpack": "Same root, same image: the blinking cursor sweeps over every word and reads none of them.",
   "sentences": [
-    "The auditors gave the accounts no more than a **cursory** review, and the discrepancy sat undisturbed for another two years.",
-    "He gave my essay a **cursory** read on the bus and told me it was \"fine\" — he'd clearly seen about two paragraphs."
+    "Even a **cursory** examination of the accounts would have revealed the discrepancy; the auditors managed to miss it for three years.",
+    "He gave the contract a **cursory** skim, signed it, and spent the next year regretting clause 14."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **currere** = *\"to run\"* → *cursorius*, \"of a runner.\" A cursory look **runs past** rather than stopping.\n\nSame root, whole family: **cursor** (the runner on your screen), **current** (running water), **cursive** (running handwriting), **excursion** (a running-out), **precursor** (one who runs ahead), **recur**, **concur**, **incur**.",
-  "one_line": "Hasty and shallow — a quick look that misses the details.",
+  "in_the_wild": "Lawyers and journalists lean on one stock phrase: **\\\"even a cursory glance at the evidence shows…\\\"** — a polite way of saying *anyone who bothered to look for five seconds would know you're wrong*.",
+  "etymology": "Latin **currere** = *\"to run\"* (via *cursor*, \"a runner\"). A cursory look literally *runs past* its subject.\n\nThat root is a GRE goldmine: **current** (water running), **occur**, **recur**, **incur**, **concur**, **excursion** (a run out), **precursor** (one who runs ahead), **courier**, **discourse**.",
+  "one_line": "Hasty and superficial; a quick pass that misses the details.",
   "root": "currere, cursus (to run)",
   "root_family": [
-    "cursor",
     "current",
-    "cursive",
+    "occur",
+    "recur",
+    "incur",
+    "concur",
     "excursion",
     "precursor",
-    "recur",
-    "concur",
-    "incur",
+    "courier",
     "discourse",
-    "course"
+    "cursor"
   ],
   "confusables": [
-    "perfunctory",
-    "precursory",
     "cursive",
-    "curt"
+    "cursor",
+    "perfunctory"
   ],
   "sense_tags": [
     "hasty",
     "superficial",
-    "inattentive",
-    "brief",
-    "careless"
+    "perfunctory",
+    "inattentive"
   ],
   "register": "formal",
   "connotation": "negative",

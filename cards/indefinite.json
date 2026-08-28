@@ -1,0 +1,47 @@
+{
+  "word": "indefinite",
+  "pos": "adj.",
+  "pron": "in-DEF-uh-nit",
+  "pron_note": null,
+  "means": "Not fixed or limited — with **no stated end, boundary, or precise form**. Two flavours: of *time* (\"an indefinite postponement\" — no return date given), and of *outline* (\"an indefinite shape on the horizon\" — blurry, unspecified).\n\nThe word doesn't claim endlessness; it claims **the limit was never set**. A contract suspended indefinitely may resume next week — nobody has said. That's why it carries a faint chill in official language: \"detained indefinitely,\" \"on indefinite leave.\" The speaker isn't promising forever, they're refusing to promise anything.",
+  "trap": "⚠️ **indefinite ≠ infinite.**\n- **indefinite** = the limit is *undeclared*\n- **infinite** = there *is* no limit\n\nAn indefinite delay might end on Tuesday. An infinite one never ends.",
+  "trick_line": "**in + DEFINE + it** — nobody has defined it.",
+  "trick_unpack": "Hearing \"define\" inside the word keeps you on *unspecified* rather than *unending* — the boundary exists, it just hasn't been drawn.",
+  "sentences": [
+    "The tribunal adjourned for an **indefinite** period, offering the families no date to hold on to.",
+    "They said the shop's shut **indefinitely**, which probably means it's shut for good."
+  ],
+  "in_the_wild": "Grammar class: *a* and *an* are the **indefinite articles** — \"a dog\" doesn't specify *which* dog, while *the* (definite) pins it down. Same logic, every sentence you speak.",
+  "etymology": "Latin **finis** = *\"end, boundary.\"* To **define** something is to *set bounds around it*; add **in-** (\"not\") and you get the unbounded, unpinned thing.\n\nThat root pays out across the exam: **finite, infinite, finish, final, confine, definitive**.",
+  "one_line": "Having no fixed end, limit, or precise form.",
+  "root": "finis (end, boundary)",
+  "root_family": [
+    "define",
+    "definite",
+    "definitive",
+    "finite",
+    "infinite",
+    "finish",
+    "final",
+    "confine",
+    "finale"
+  ],
+  "confusables": [
+    "infinite",
+    "definite",
+    "indefinable",
+    "indefinitely"
+  ],
+  "sense_tags": [
+    "unspecified",
+    "open-ended",
+    "vague",
+    "unlimited",
+    "imprecise"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    33
+  ]
+}

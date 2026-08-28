@@ -1,0 +1,39 @@
+{
+  "word": "mollify",
+  "pos": "v.",
+  "pron": "MOL-uh-fye",
+  "pron_note": null,
+  "means": "To **soften someone's anger** — to calm, appease, pacify a person who is upset.\n\nThe object is almost always a person or their feelings (*mollify the critics, mollify her fears*), never a physical thing. It implies a grievance already exists and you are making a gesture — an apology, a concession, a soothing word — to take the heat out of it. Unlike *placate*, which can hint at buying someone off, *mollify* is neutral about the tactic and focused on the result: temperature down. It also carries a whiff of *partial* success; things are written as \"failed to mollify\" about as often as they're written the other way.",
+  "trap": "⚠️ **mollify ≠ mortify.** Both are Latin *-ify* verbs about someone's feelings, and they pull opposite ways: **mollify** = *soothe* them; **mortify** = *humiliate* them.",
+  "trick_line": "**Mollify = \"mellow-fy\"** — you make the angry person mellow again.",
+  "trick_unpack": "The sound is nearly *mellow*, and that's exactly the job: not fixing the problem, just lowering the temperature of the person.",
+  "sentences": [
+    "The chairman's carefully worded statement did little to **mollify** shareholders, who had come for a resignation, not a paragraph.",
+    "I brought her coffee to **mollify** her after showing up forty minutes late."
+  ],
+  "in_the_wild": "It's a newsroom staple: whenever a company apologises and the market shrugs, the report reads *\"the statement failed to mollify investors.\"* Watch for it in any coverage of a corporate scandal.",
+  "etymology": "Latin **mollis** = *\"soft\"* + *-ficare* (to make). To mollify is literally to **make soft**.\n\nSame root: **emollient** — the moisturiser that softens skin — and **mollusc**, the soft-bodied creature in the hard shell.",
+  "one_line": "To soften someone's anger; to soothe and appease.",
+  "root": "mollis (soft)",
+  "root_family": [
+    "emollient",
+    "mollusc",
+    "mollescent"
+  ],
+  "confusables": [
+    "mortify",
+    "nullify",
+    "modify"
+  ],
+  "sense_tags": [
+    "soothing",
+    "appeasing",
+    "calming anger",
+    "conciliatory"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    23
+  ]
+}

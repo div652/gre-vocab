@@ -1,0 +1,41 @@
+{
+  "word": "slander",
+  "pos": "n. / v.",
+  "pron": "SLAN-der",
+  "pron_note": null,
+  "means": "**Noun:** a **false spoken statement** that damages someone's reputation. **Verb:** to make such a statement about someone.\n\nThree things have to be true for slander, and the GRE tests all three: the claim is **spoken** (not written), **false** (not just unkind), and **presented as fact** (not opinion). Calling your boss an idiot is an insult; saying he embezzled money is slander. That factual pretence is what gives the word its legal teeth — *badmouth* and *trash-talk* are social, *slander* is actionable, the kind of thing a lawyer's letter follows.",
+  "trap": "⚠️ **slander ≠ libel.** Same crime, different medium: **slander** is *spoken*, **libel** is *written or published*. A rumour whispered at a party is slander; the same rumour tweeted is libel.",
+  "trick_line": "**S**lander is **S**poken; **L**ibel is **L**etters.",
+  "trick_unpack": "The initial letter tells you the medium, which is the only thing separating the two words.",
+  "sentences": [
+    "The former minister sued for **slander**, alleging that the remarks made on air had cost him his seat on the board.",
+    "Don't go **slandering** him at the pub — you don't actually know he took the money."
+  ],
+  "in_the_wild": "Online, \"that's slander\" has become a stock joke reply to any unflattering claim about you — mock-legal outrage over something trivially small.",
+  "etymology": "Latin **scandalum** = *\"a stumbling block, a trap\"* (from Greek *skandalon*). It came into English through Old French *esclandre*, where the **-nd-** wobbled into an **l**.\n\nSo **slander** and **scandal** are literally the same word, split in two: the scandal is the disgrace, the slander is the lie that manufactures it.",
+  "one_line": "A spoken lie that damages someone's reputation.",
+  "root": "scandalum (stumbling block, cause of offence)",
+  "root_family": [
+    "scandal",
+    "scandalous",
+    "scandalize"
+  ],
+  "confusables": [
+    "libel",
+    "slur",
+    "calumny",
+    "scandal"
+  ],
+  "sense_tags": [
+    "defamation",
+    "false-accusation",
+    "reputation",
+    "speech",
+    "malice"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    20
+  ]
+}

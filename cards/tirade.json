@@ -1,0 +1,41 @@
+{
+  "word": "tirade",
+  "pos": "n.",
+  "pron": "tye-RAYD",
+  "pron_note": "Also heard as TYE-rayd, stress on the first syllable — both are standard.",
+  "means": "A **long, angry, abusive speech** — a sustained verbal attack, usually delivered at volume and at length.\n\nThe word passes judgement on the speaker, not the target. Calling something a tirade says the person lost control, went on far too long, and stopped persuading anyone several minutes ago. Nobody describes their own outburst as a tirade; it is what other people call it afterwards. Length is essential — a single cutting remark can never be one.",
+  "trap": null,
+  "trick_line": "**Tirade** begins with **tire** — it rants on until everyone in the room is tired of it.",
+  "trick_unpack": "The hidden word carries the key nuance: a tirade is defined by exhausting length, not just anger.",
+  "sentences": [
+    "His resignation letter degenerated into a three-page **tirade** against colleagues who had, by then, stopped reading.",
+    "She launched into a **tirade** about the parking situation and we just stood there holding our coffees."
+  ],
+  "in_the_wild": "Newsroom boilerplate: \"launched into a foul-mouthed **tirade**\" is the standard phrase for a footballer at a referee or a politician caught on a hot mic — you've read the sentence a hundred times.",
+  "etymology": "French **tirade**, from Italian **tirata** = *\"a pull, a long drawn-out stretch,\"* from **tirare**, \"to pull.\" A tirade is speech *drawn out* — the same *tirer* gives English **retire** (to draw back).",
+  "one_line": "A long, angry, abusive rant.",
+  "root": "tirare / tirer (to pull, to draw out)",
+  "root_family": [
+    "retire",
+    "retiring",
+    "tirailleur"
+  ],
+  "confusables": [
+    "diatribe",
+    "harangue",
+    "triad",
+    "tirage"
+  ],
+  "sense_tags": [
+    "anger",
+    "speech",
+    "denunciation",
+    "verbal-attack",
+    "excess"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    20
+  ]
+}

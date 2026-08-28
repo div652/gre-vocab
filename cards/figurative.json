@@ -1,0 +1,42 @@
+{
+  "word": "figurative",
+  "pos": "adj.",
+  "pron": "FIG-yuh-ruh-tiv",
+  "pron_note": null,
+  "means": "**1.** Not literal — using metaphor, simile, or image to mean something other than the plain words. *\"Drowning in paperwork\"* is figurative; you are dry.\n**2.** In art: **representational** — depicting recognisable people and things, as opposed to abstract.\n\nThe word is the workhorse antonym of *literal*, and it's descriptive rather than approving: calling language figurative just classifies it, it doesn't praise it. Note the split personality — in a grammar context it means \"not to be taken at face value,\" but in a gallery it means almost the opposite, \"actually shows a real thing.\" GRE passages use both senses, so let the surrounding subject decide which one is live.",
+  "trap": null,
+  "trick_line": "**Figurative = full of *figures* — figures of speech, or figures on a canvas.**",
+  "trick_unpack": "The whole word is just *figure* + *-ative*, and which kind of figure you mean — a turn of phrase or a human form — is exactly what splits the two senses.",
+  "sentences": [
+    "The manifesto's talk of \"cleansing fire\" was **figurative**, though its critics chose to read it otherwise.",
+    "When I said I'd kill for a coffee, that was **figurative**, obviously."
+  ],
+  "in_the_wild": "Gallery and auction labels lean on sense 2 constantly — Lucian Freud and Francis Bacon are filed as **figurative painters**, meaning you can see a body in the paint, unlike a Rothko.",
+  "etymology": "Latin **fingere** = *\"to shape, mould, form\"* → **figura**, \"a shape.\" A figure is a shape given to a thing — a body, a number, a phrase.\n\nSame root, wide family: **figment** (something moulded in the mind), **fiction**, **effigy**, **feign** (to shape a false face).",
+  "one_line": "Metaphorical, not literal; in art, representational.",
+  "root": "fingere, figura (to shape; a shape)",
+  "root_family": [
+    "figure",
+    "figment",
+    "fiction",
+    "effigy",
+    "feign",
+    "configure",
+    "disfigure"
+  ],
+  "confusables": [
+    "figural",
+    "literal"
+  ],
+  "sense_tags": [
+    "metaphorical",
+    "non-literal",
+    "symbolic",
+    "representational"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    26
+  ]
+}

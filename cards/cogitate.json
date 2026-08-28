@@ -1,0 +1,41 @@
+{
+  "word": "cogitate",
+  "pos": "v.",
+  "pron": "KOJ-i-tayt",
+  "pron_note": null,
+  "means": "To **think hard about something**; to turn a matter over in the mind, deliberately and at length.\n\nPlain *thinking* is what everyone does; **cogitating** is thinking with the effort showing. The word is heavy, Latinate, and faintly pompous — which is why it's so often used tongue-in-cheek, about someone staring at the ceiling doing nothing visible. Used straight, it suggests slow, sustained deliberation rather than a flash of insight; you *cogitate on* a problem for a week, you don't cogitate for a second.",
+  "trap": null,
+  "trick_line": "**Cog**itate — the **cogs** are visibly turning.",
+  "trick_unpack": "It's not quick thought but grinding, laborious machinery of thought — which is exactly why the word so easily turns comic.",
+  "sentences": [
+    "The committee **cogitated** for three months and produced a report recommending further cogitation.",
+    "He's been **cogitating** over which laptop to buy since March — just pick one."
+  ],
+  "in_the_wild": "Descartes' **_cogito ergo sum_** — \"I think, therefore I am.\" *Cogito* is literally this verb in the first person.",
+  "etymology": "Latin **cogitāre** = *\"to think\"*, from **co-** (together) + **agitāre** (*to drive, to turn over*) — thoughts churned around in the head.\n\nThat **agitāre** gives you **agitate**, **agitator**, and (via *agere*, to drive) **agent**, **agenda**, **exigent**.",
+  "one_line": "To think something over long and hard.",
+  "root": "cogitāre (to think) ← co- + agitāre (to turn over)",
+  "root_family": [
+    "agitate",
+    "agitator",
+    "agent",
+    "agenda",
+    "exigent",
+    "excogitate"
+  ],
+  "confusables": [
+    "cogent",
+    "agitate"
+  ],
+  "sense_tags": [
+    "thinking",
+    "pondering",
+    "deliberation",
+    "reflection"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    30
+  ]
+}

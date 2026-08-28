@@ -1,0 +1,44 @@
+{
+  "word": "crescendo",
+  "pos": "n. / v.",
+  "pron": "kruh-SHEN-doh",
+  "pron_note": "The sc is Italian \"sh\" — never kres-SEN-doh.",
+  "means": "A **gradual increase in loudness** — and by extension, any steady swell in intensity, pressure, or noise.\n\nThe word names the **climb, not the summit**. Strictly, a crescendo is the eight bars of getting louder; the loud bit at the top is the climax. So \"the argument rose to a crescendo\" is the usage careful writers wince at — the crescendo *is* the rising. GRE sentence-completion loves this: a blank wanting *crescendo* wants **building, swelling, mounting**, not *peak* or *culmination*. Note also that it's neutral machinery — a crescendo of applause and a crescendo of complaints are equally idiomatic.",
+  "trap": null,
+  "trick_line": "**Cresc**endo is the **cresc**ent moon — swelling toward full, not the full moon itself.",
+  "trick_unpack": "Same root, same idea: both name growth in progress, which is why the peak is never the crescendo.",
+  "sentences": [
+    "The murmur of the crowd swelled to a **crescendo** as the doors of the courthouse finally opened.",
+    "The washing machine does this awful **crescendo** thing right before it starts walking across the kitchen."
+  ],
+  "in_the_wild": "The Beatles' **\"A Day in the Life\"** — that vast orchestral **crescendo** where forty musicians climb from their lowest note to the highest over 24 bars, twice, before the final piano chord. Textbook definition, textbook execution.",
+  "etymology": "Italian **crescendo** = *\"growing\"*, from Latin **crescere**, *\"to grow\"* — the present participle, literally \"in the act of growing.\"\n\nThat root pays out across the GRE: **crescent** (the growing moon), **increase**, **increment**, **accrue**, **excrescence** (an ugly outgrowth), and **recruit** (*re-crescere*, fresh growth for the army).",
+  "one_line": "A gradual swell in loudness or intensity — the build, not the peak.",
+  "root": "crescere (to grow)",
+  "root_family": [
+    "crescent",
+    "increase",
+    "increment",
+    "accrue",
+    "excrescence",
+    "recruit",
+    "concrete"
+  ],
+  "confusables": [
+    "crescent",
+    "decrescendo",
+    "diminuendo"
+  ],
+  "sense_tags": [
+    "increasing",
+    "loudness",
+    "intensity",
+    "music",
+    "buildup"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    31
+  ]
+}

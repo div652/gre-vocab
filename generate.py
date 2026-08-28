@@ -109,6 +109,9 @@ def main() -> int:
     ap.add_argument("--limit", type=int)
     ap.add_argument("--only", nargs="+")
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--null-field", metavar="FIELD",
+                    help="regenerate only cards whose FIELD is null/empty "
+                         "(e.g. --null-field in_the_wild after a skill fix). Implies --force.")
     ap.add_argument("--workers", type=int, default=6)
     args = ap.parse_args()
 
@@ -122,6 +125,21 @@ def main() -> int:
     if args.only:
         want = {w.lower() for w in args.only}
         records = [r for r in records if r["word"].lower() in want]
+
+    if args.null_field:
+        keep = []
+        for r in records:
+            p = card_path(r["word"])
+            if not p.exists():
+                keep.append(r)
+                continue
+            try:
+                if not json.loads(p.read_text(encoding="utf-8")).get(args.null_field):
+                    keep.append(r)
+            except Exception:  # noqa: BLE001 - unreadable card is worth redoing
+                keep.append(r)
+        records = keep
+        args.force = True
 
     pending = records if args.force else [r for r in records if not card_path(r["word"]).exists()]
     todo = pending[:args.limit] if args.limit else pending

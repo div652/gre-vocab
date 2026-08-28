@@ -1,0 +1,45 @@
+{
+  "word": "recant",
+  "pos": "v.",
+  "pron": "ri-KANT",
+  "pron_note": null,
+  "means": "To **publicly withdraw** a belief, statement, or accusation you once professed — and to declare that withdrawal openly.\n\nThis is not quietly changing your mind. Recanting is a **performance of retraction**, usually before an audience that demanded it: a court, a church, a party, a press conference. That's why it so often carries a whiff of pressure — you recant *under* something. A scientist who revises a theory has updated it; a scientist made to stand up and disown it has recanted. The word also implies the belief was held loudly enough that taking it back requires equal volume.",
+  "trap": "⚠️ **recant ≠ decant.**\n- **recant** = take back what you said\n- **decant** = pour liquid off gently (wine, into a decanter)\n\nOne letter, two utterly unrelated acts.",
+  "trick_line": "**re-CANT** — you *can't* keep saying it, so you say so out loud.",
+  "trick_unpack": "The stress lands on **CANT** because recanting isn't a private rethink — it's the public admission that you can no longer stand behind the claim.",
+  "sentences": [
+    "Under threat of excommunication, the astronomer **recanted** every word of the treatise he had spent a decade defending.",
+    "He **recanted** the whole story about the missing laptop the second his sister walked in."
+  ],
+  "in_the_wild": "**Galileo**, 1633: hauled before the Inquisition and forced to kneel and **recant** the claim that the Earth moves. The textbook case — right, and made to say he was wrong.",
+  "etymology": "Latin **re-** (*back*) + **cantāre** (*to sing*) — literally to *sing it back*, to unsing your own tune.\n\nThat *cant-* root sings through a whole family: **chant**, **incantation**, **enchant** (to sing a spell over someone), **cantor**, **descant**, **accent**.",
+  "one_line": "To publicly take back a belief or statement you once professed.",
+  "root": "cantāre (to sing)",
+  "root_family": [
+    "chant",
+    "incantation",
+    "enchant",
+    "cantor",
+    "descant",
+    "accent"
+  ],
+  "confusables": [
+    "decant",
+    "recount",
+    "rescind",
+    "renounce",
+    "recuse"
+  ],
+  "sense_tags": [
+    "retraction",
+    "disavowal",
+    "reversal",
+    "public statement",
+    "coercion"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    28
+  ]
+}

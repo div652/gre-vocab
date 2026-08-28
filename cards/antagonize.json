@@ -1,0 +1,42 @@
+{
+  "word": "antagonize",
+  "pos": "v.",
+  "pron": "an-TAG-uh-nyze",
+  "pron_note": "British spelling: antagonise.",
+  "means": "To provoke someone into active hostility — to behave so that a person turns *against* you. Also, in science: to act against, counteract, or block (one drug antagonizes another; one muscle antagonizes its partner).\n\nThe difference from *annoy* or *irritate* is what gets damaged. Annoying someone changes their mood; antagonizing them changes the **relationship** — you have converted a neutral party into an opponent. That's why it usually arrives as strategic advice about someone who can hurt you: *don't antagonize the landlord, the regulator, the judge*. It's often deliberate and always costly.",
+  "trap": null,
+  "trick_line": "**Antagonize** = hand someone the role of **antagonist** in your story.",
+  "trick_unpack": "You're not merely irritating them — you're casting them as the villain who now works against you for the rest of the plot.",
+  "sentences": [
+    "The proposed tariffs **antagonized** trading partners whose cooperation the treaty still required.",
+    "Just apologise — there's no point **antagonizing** the one guy who can approve your leave."
+  ],
+  "in_the_wild": "In pharmacology the word is literal and everyday: naloxone (Narcan) is an opioid **antagonist** — it blocks the receptor, working directly against the drug. Same idea as antagonizing a person: not annoying it, *opposing* it.",
+  "etymology": "Greek **agōn** = *\"a contest, a struggle\"* (the games, the arena) + **anti-** = *\"against\"*. An *antagonist* is the one struggling against you.\n\nThat root pays out across the list: **agony** (the struggle itself), **agonize** (to writhe in it), **protagonist** (*prōtos*, first — the one who struggles *first*, i.e. the lead), **antagonism**.",
+  "one_line": "To provoke into hostility; to make an enemy of someone.",
+  "root": "agōn (contest, struggle) + anti- (against)",
+  "root_family": [
+    "antagonist",
+    "antagonism",
+    "agony",
+    "agonize",
+    "protagonist",
+    "agonistic"
+  ],
+  "confusables": [
+    "agonize",
+    "antagonist"
+  ],
+  "sense_tags": [
+    "provoke",
+    "hostility",
+    "oppose",
+    "alienate",
+    "counteract"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    27
+  ]
+}

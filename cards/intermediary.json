@@ -1,0 +1,45 @@
+{
+  "word": "intermediary",
+  "pos": "n. / adj.",
+  "pron": "in-ter-MEE-dee-eh-ree",
+  "pron_note": "Five syllables; British speech often flattens the ending to -dee-uh-ree.",
+  "means": "**Noun:** a go-between — a person, firm, or thing that stands between two parties and passes something along (messages, money, goods, negotiations).\n**Adjective:** occupying the middle position; intervening.\n\nAn intermediary is defined by **position, not power**. A *mediator* actively works to settle a dispute; an *arbitrator* decides it; an intermediary may do nothing more than carry the message across. The word is neutral in law and business — banks, brokers, and agents are intermediaries by trade — but it turns faintly sour whenever the implication is that the middle party is taking a cut for adding nothing, which is why \"cut out the intermediary\" is a selling point.",
+  "trap": "⚠️ **intermediary ≠ intermediate.**\n- **intermediary** = the *party* in the middle (a broker)\n- **intermediate** = the *position* in the middle (an intermediate stage, intermediate French)\n\nA broker is an intermediary at an intermediate stage of the deal.",
+  "trick_line": "**Inter-MEDIA-ry** — the *media* sit in the middle, carrying the message between two sides without being either one.",
+  "trick_unpack": "The word literally has *media* buried in it, and like the media an intermediary transmits rather than decides.",
+  "sentences": [
+    "The treaty was negotiated through a Swiss **intermediary**, since neither government would be seen speaking to the other.",
+    "Just send it straight to her — I'm not being your **intermediary** every time you two fall out."
+  ],
+  "in_the_wild": "In economics a bank is textbook-labelled a **financial intermediary**: it doesn't own your money or the borrower's loan, it just sits between savers and borrowers and clips a margin. Every \"no middleman\" ad is selling *dis*intermediation.",
+  "etymology": "Latin **inter** (*between*) + **medius** (*middle*) — literally \"in the middle of.\"\n\n*Medius* is a workhorse root: **medium**, **median**, **mediate**, **medieval** (the Middle Ages), **Mediterranean** (the sea in the middle of the earth), and **mediocre** — literally \"halfway up the mountain,\" i.e. middling.",
+  "one_line": "A go-between standing between two parties.",
+  "root": "medius (middle) + inter (between)",
+  "root_family": [
+    "medium",
+    "median",
+    "mediate",
+    "mediocre",
+    "medieval",
+    "Mediterranean",
+    "intermediate"
+  ],
+  "confusables": [
+    "intermediate",
+    "mediator",
+    "middleman",
+    "interlocutor"
+  ],
+  "sense_tags": [
+    "go-between",
+    "middleman",
+    "mediation",
+    "in-between",
+    "agent"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    37
+  ]
+}

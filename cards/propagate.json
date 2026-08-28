@@ -1,0 +1,43 @@
+{
+  "word": "propagate",
+  "pos": "v.",
+  "pron": "PROP-uh-gayt",
+  "pron_note": "The noun shifts the stress: propagation = prop-uh-GAY-shuhn.",
+  "means": "To **multiply and pass onward** — to breed new plants from cuttings, to transmit a wave or signal through a medium, or to spread a belief, rumour, or error so that it keeps reproducing.\n\nThe difference from *spread* or *disseminate* is the chain. **Disseminate** scatters from one source outward, one-to-many, and stops. **Propagate** means each copy becomes a new source: the plant makes plants, the error in row 3 corrupts every row after it. In botany, physics and computing it's coldly technical. Aimed at ideas, it turns faintly hostile — you *hold* a view, but you *propagate* a myth, and the verb implies you know better and are multiplying it anyway.",
+  "trap": null,
+  "trick_line": "**Propaganda** is hiding inside **propagate** — and propaganda isn't news, it's news *manufactured to breed*.",
+  "trick_unpack": "The buried word gives you both halves at once: relentless multiplication, plus the whiff of blame when the thing being multiplied is a belief.",
+  "sentences": [
+    "Sound **propagates** roughly four times faster through water than through air.",
+    "One bad cell reference **propagated** through the whole spreadsheet and blew up the quarterly numbers."
+  ],
+  "in_the_wild": "Anyone who has changed a domain name has sat waiting for **DNS to propagate** — the new address copying itself server to server across the internet until every corner of the network has it. Same idea in hardware as **propagation delay**: how long a signal takes to work its way through a circuit.",
+  "etymology": "Latin **propagare** = *\"to set slips\"* — gardening, literally: pin a cutting into the soil and let it become a whole new plant. From **pro-** (*forward*) + the root **pag-/pac-** (*to fasten, fix*), which also gives **pact** and **compact** — things fastened down.\n\nThat's the whole word. You don't broadcast a cutting; you plant it, and it grows into something that can be cut from in turn.",
+  "one_line": "To multiply and pass onward — plants, waves, or ideas.",
+  "root": "propagare (to set slips, to breed) ← pro- (forward) + pag- (to fasten)",
+  "root_family": [
+    "propaganda",
+    "pact",
+    "compact",
+    "page",
+    "pagan"
+  ],
+  "confusables": [
+    "propitiate",
+    "prorogue",
+    "promulgate",
+    "proliferate"
+  ],
+  "sense_tags": [
+    "spreading",
+    "reproducing",
+    "transmitting",
+    "breeding",
+    "disseminating"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    23
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "discomfit",
+  "pos": "v.",
+  "pron": "dis-KUM-fit",
+  "pron_note": "Middle syllable is the *cum* of *income*, and it takes the stress — not \"DIS-com-fit.\"",
+  "means": "To throw someone off balance — to embarrass, unsettle, or frustrate them so that their poise collapses.\n\nIt is stronger and more active than *embarrass*: someone **does** it **to** you, and what gives way is your composure, your argument, your plan. A witness is discomfited by a lawyer's question; a general's strategy is discomfited by bad weather. Older texts use it to mean *rout in battle*, and that military edge still lingers — being discomfited is a small defeat, not just a blush. Formal, faintly bookish, and almost always passive: *he was visibly discomfited*.",
+  "trap": "⚠️ **discomfit ≠ discomfort.** *Discomfort* is a state you're in (physical or mild, often self-caused: a stiff chair, a hard question). *Discomfit* is something inflicted — an agent unsettles or defeats you. The two are unrelated in origin and only overlap by accident of sound.",
+  "trick_line": "Hidden inside is **comfit** — a sugared sweet — not **comfort**. Different word, different job.",
+  "trick_unpack": "Spotting that the middle isn't *comfort* stops you from downgrading the word to \"made mildly uneasy\" — discomfit means someone actively undid you.",
+  "sentences": [
+    "The minister was visibly **discomfited** when the reporter produced the memo he had denied ever seeing.",
+    "Nothing **discomfits** my dad like being asked to say a few words at a party."
+  ],
+  "in_the_wild": null,
+  "etymology": "Old French **desconfire** = *\"to undo, destroy\"* — *des-* (un-) + *confire* (to make, put together), from Latin **conficere**.\n\nThat *confire* root is a useful one: **confection**, **confetti** (originally sweets thrown at Italian carnivals), and **comfit** — the sugared almond hiding in the middle of this word.\n\n🚫 **Nothing to do with *comfort*.** That's Latin *fortis*, \"strong\" — *fortify, fortitude, effort*. Same sound, unrelated family.",
+  "one_line": "To unsettle or embarrass someone, defeating their composure.",
+  "root": "conficere (to make, put together) via Old French desconfire (to undo)",
+  "root_family": [
+    "confection",
+    "confetti",
+    "comfit",
+    "confect"
+  ],
+  "confusables": [
+    "discomfort",
+    "discomfiture",
+    "disconcert",
+    "discomposed"
+  ],
+  "sense_tags": [
+    "embarrass",
+    "unsettle",
+    "disconcert",
+    "thwart",
+    "defeat"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    19
+  ]
+}

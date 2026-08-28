@@ -1,0 +1,46 @@
+{
+  "word": "suppress",
+  "pos": "v.",
+  "pron": "suh-PRESS",
+  "pron_note": null,
+  "means": "To **put down by force** (a revolt, a protest), or to **keep something from surfacing** — evidence, a report, a laugh, a cough, a memory, an immune response.\n\nThe force comes **from above and stays applied**. What's suppressed isn't destroyed; it's held down, and the pressure implies it would come back the moment the hand lifted. That's what separates it from *abolish* or *eradicate* (the thing is gone) and from *conceal* (hidden, but nobody had to lean on it). It also carries a whiff of illegitimacy when the object is information — a government that *suppresses* a report is understood to be hiding something.",
+  "trap": "⚠️ **suppress ≠ repress.** You **suppress** deliberately — you know the impulse is there and you sit on it. You **repress** unknowingly — the mind buries it below awareness. A witness suppresses testimony; a patient represses a trauma.",
+  "trick_line": "**sup-PRESS = press the lid down on a boiling pot** — the steam is still in there.",
+  "trick_unpack": "Suppression is ongoing pressure, not removal, which is why suppressed dissent, suppressed laughter, and suppressed memories all come back the second the lid comes off.",
+  "sentences": [
+    "The regime **suppressed** the findings for a decade, and the archive surfaced only after its collapse.",
+    "She **suppressed** a grin as her boss confidently mispronounced the client's name for the third time."
+  ],
+  "in_the_wild": "A gun **suppressor** — what films loosely call a silencer. It doesn't remove the noise, it presses it down. The word does exactly what it says.",
+  "etymology": "Latin **sub-** (*under*) + **premere** (*to press*) — literally *press down under*.\n\n*Premere* is a workhorse root: **press, oppress** (press *against*), **repress** (press *back*), **compress** (press *together*), **express** (press *out*), **depress** (press *down*), **imprint**. Learn one, get seven.",
+  "one_line": "To forcibly hold something down, hidden, or unexpressed.",
+  "root": "premere, pressum (to press)",
+  "root_family": [
+    "oppress",
+    "repress",
+    "compress",
+    "express",
+    "depress",
+    "impress",
+    "press",
+    "print"
+  ],
+  "confusables": [
+    "repress",
+    "oppress",
+    "depress",
+    "express"
+  ],
+  "sense_tags": [
+    "censorship",
+    "restraint",
+    "force",
+    "concealment",
+    "control"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    35
+  ]
+}

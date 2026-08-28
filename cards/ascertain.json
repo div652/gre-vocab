@@ -1,0 +1,39 @@
+{
+  "word": "ascertain",
+  "pos": "v.",
+  "pron": "as-er-TAYN",
+  "pron_note": "Stress on the last syllable, like \"obtain\" — not AS-er-tain.",
+  "means": "To **find out for certain** — to establish a fact by checking, asking, measuring or investigating.\n\n*Find out* is casual and can be accidental; you find out by overhearing. **Ascertain** is deliberate and ends in confidence: you went looking, and now you *know*. It's the register of officials, investigators and auditors — police ascertain the cause of a fire, a court ascertains a person's intent. Using it about trivia sounds comically stiff (\"I shall ascertain whether we have milk\"), and that stiffness is exactly what the GRE is testing you to hear.",
+  "trap": null,
+  "trick_line": "**ascertain** = **a-** + **certain**: you dig until you *are certain*.",
+  "trick_unpack": "The word wears its answer on its face — the digging is the verb, and certainty is where it has to end up.",
+  "sentences": [
+    "The auditors were unable to **ascertain** how the missing funds had left the account.",
+    "Give me ten minutes to **ascertain** whether he's actually on the flight before we panic."
+  ],
+  "in_the_wild": "Standard newsroom and police-briefing language: *\"Officers are still trying to **ascertain** the cause of the crash.\"* Whenever an official won't yet commit to a story, this is the verb they reach for.",
+  "etymology": null,
+  "one_line": "To find out for certain by checking or investigating.",
+  "root": "certus (settled, sure)",
+  "root_family": [
+    "certain",
+    "certify",
+    "certificate",
+    "certitude"
+  ],
+  "confusables": [
+    "assert",
+    "certify"
+  ],
+  "sense_tags": [
+    "determine",
+    "verify",
+    "investigate",
+    "establish-fact"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    17
+  ]
+}

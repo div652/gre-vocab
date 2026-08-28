@@ -1,0 +1,39 @@
+{
+  "word": "willful",
+  "pos": "adj.",
+  "pron": "WIL-fuhl",
+  "pron_note": "British spelling: wilful, one l.",
+  "means": "Two senses, both unflattering.\n\n**1. Headstrong** — set on having your own way, deaf to advice or authority. Said of children, mules, and adults behaving like both.\n\n**2. Deliberate** — done knowingly, on purpose, when you should have known better: *willful negligence, willful blindness, willful destruction of evidence*.\n\nThe link between the two is **blame**. *Intentional* and *voluntary* are neutral descriptions of a state of mind; **willful** is a charge. Sense 2 is the harsher one precisely because it rules out the excuse — you didn't slip, you *chose*, and choosing is worse. Even sense 1 is never praise: a determined person has resolve, a willful person has a problem with being told.",
+  "trap": "⚠️ **willful ≠ willing.** Same root, opposite temperament: **willing** bends to *your* wishes, **willful** insists on *its own*.",
+  "trick_line": "**Will + full** — so full of his own will there's no room for yours.",
+  "trick_unpack": "It isn't a lack of will but a surplus, aimed only at itself — which is why the word always sounds like a complaint.",
+  "sentences": [
+    "The court found the breach **willful** rather than inadvertent, and trebled the damages accordingly.",
+    "She's a **willful** kid — tell her not to touch it and that's the only thing she wants to touch."
+  ],
+  "in_the_wild": "Read almost any contract or insurance policy and you'll hit the carve-out **\"except in cases of gross negligence or willful misconduct\"** — the clause that says a company can cap its liability for mistakes, but never for things it did on purpose.",
+  "etymology": null,
+  "one_line": "Headstrong; or done deliberately, with blame attached.",
+  "root": "Old English willa (will, desire) + -ful",
+  "root_family": [
+    "willing",
+    "willpower",
+    "self-willed"
+  ],
+  "confusables": [
+    "willing",
+    "wistful"
+  ],
+  "sense_tags": [
+    "stubborn",
+    "headstrong",
+    "deliberate",
+    "intentional",
+    "defiant"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    37
+  ]
+}

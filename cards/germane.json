@@ -1,0 +1,40 @@
+{
+  "word": "germane",
+  "pos": "adj.",
+  "pron": "jer-MAYN",
+  "pron_note": null,
+  "means": "Relevant to the matter at hand — genuinely bearing on the point under discussion.\n\n*Relevant* is the flat, everyday word; **germane** is what you reach for when relevance itself is the argument. It lives in debate, committee rooms and courtrooms, and it turns up negated more often than not: *\"That's not germane.\"* It also claims more than mere topical overlap — a fact can be about the same subject and still not be germane, because germane means it actually attaches to *this* question. In parliamentary procedure there is literally a germaneness rule: an amendment must relate to the bill it's amending, or it's thrown out.",
+  "trap": null,
+  "trick_line": "**Germ**ane points grow from the same **germ** as the argument; everything else is a weed.",
+  "trick_unpack": "The word hides *germ* — a seed — and a germane remark sprouts from the very question being asked, not from the soil next door.",
+  "sentences": [
+    "The judge ruled the defendant's charitable donations were not **germane** to the question of whether he had signed the contract.",
+    "Great story, but is any of this **germane** to why the server went down?"
+  ],
+  "in_the_wild": "Shakespeare put it in *Hamlet*, mocking a courtier's overblown talk of duelling: **\"The phrase would be more germane to the matter if we could carry cannon by our sides.\"**",
+  "etymology": "Latin **germanus** = *\"of the same parents\"* — a full brother or sister. So a germane point is **kin** to the topic, not a stranger wandering in. That's also the old phrase **cousin-german**, meaning a first cousin.\n\nBehind it sits **germen**, *\"sprout, bud\"* — which gives you **germ**, **germinate**, **germinal**.\n\n🚫 **Nothing to do with Germany.** That name has a separate, murky origin; the resemblance is an accident.",
+  "one_line": "Genuinely relevant to the matter under discussion.",
+  "root": "germanus (of the same parents) ← germen (sprout, bud)",
+  "root_family": [
+    "germ",
+    "germinate",
+    "germinal",
+    "cousin-german"
+  ],
+  "confusables": [
+    "germinal",
+    "German",
+    "germinate"
+  ],
+  "sense_tags": [
+    "relevance",
+    "pertinence",
+    "debate",
+    "appropriateness"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    37
+  ]
+}

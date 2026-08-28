@@ -1,0 +1,43 @@
+{
+  "word": "intrinsic",
+  "pos": "adj.",
+  "pron": "in-TRIN-zik",
+  "pron_note": "Also heard as in-TRIN-sik; both are standard.",
+  "means": "Belonging to a thing **by its own nature** — part of what it *is*, not something attached to it from outside.\n\nThe word is defined by its opposite. *Intrinsic* is always doing the work of separating the thing from its wrapping: the intrinsic value of gold vs. its market price, intrinsic motivation vs. a bonus cheque. Where *innate* is about being born with something and *inherent* just says \"built in,\" *intrinsic* implies someone has stripped away the external stuff to see what survives. It's cool, analytical vocabulary — economists, philosophers and psychologists reach for it, and it carries no praise or blame on its own.",
+  "trap": "⚠️ **intrinsic ≠ extrinsic.** One prefix apart, exact opposites: **intrinsic** = from within the thing, **extrinsic** = from outside it. Money is an extrinsic reward; the joy of the work is intrinsic.",
+  "trick_line": "**IN**trinsic starts with **IN** — take everything off and what's still *in* there is intrinsic.",
+  "trick_unpack": "The word only matters when something external has been stripped away — the price tag, the prize, the packaging — leaving whatever the thing owns by itself.",
+  "sentences": [
+    "The court held that the manuscript's **intrinsic** worth as a historical document far exceeded whatever it might fetch at auction.",
+    "Nobody's paying her to fix that code at midnight — she just finds it **intrinsically** satisfying."
+  ],
+  "in_the_wild": "**Intrinsic motivation** is the standard term in psychology and management for doing something because the thing itself is rewarding — as opposed to the extrinsic bonus, grade or promotion bolted onto it.",
+  "etymology": "Latin **intrinsecus** = *\"inwardly, on the inside\"* (from *intra*, \"within\"), against **extrinsecus**, *\"outwardly.\"* The whole pair comes over intact: **intra-** gives you *intramural, intravenous, intranet*; **extra-** gives you *extraneous, extracurricular, extraterrestrial*.",
+  "one_line": "Belonging to something by its own nature, not added from outside.",
+  "root": "intra (within) → intrinsecus (inwardly)",
+  "root_family": [
+    "intramural",
+    "intravenous",
+    "intranet",
+    "intramuscular",
+    "extrinsic",
+    "extraneous"
+  ],
+  "confusables": [
+    "extrinsic",
+    "inherent",
+    "innate",
+    "intricate"
+  ],
+  "sense_tags": [
+    "inherent",
+    "essential",
+    "internal",
+    "by-nature"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    20
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "convalescent",
+  "pos": "adj. / n.",
+  "pron": "kon-vuh-LES-uhnt",
+  "pron_note": null,
+  "means": "**Adjective:** recovering from illness or injury — gradually regaining strength. **Noun:** the person doing the recovering.\n\nThe word marks a *middle state*, and that's its whole point: a convalescent is no longer sick and not yet well. *Recovering* is the plain everyday word; **convalescent** is clinical and slightly genteel — it carries the smell of a nursing home, a sanatorium, a long slow armchair-and-blanket stretch rather than a Tuesday off work with the flu. It implies time. Nobody is convalescent for an afternoon.\n\nIt also travels figuratively: a **convalescent economy** is one that has stopped collapsing but is still weak.",
+  "trap": null,
+  "trick_line": "**-escent = becoming.** An adol**escent** is becoming an adult; a conval**escent** is becoming well.",
+  "trick_unpack": "That suffix always means mid-process, never arrived — which is exactly why a convalescent is still in bed.",
+  "sentences": [
+    "After the surgery he spent six weeks **convalescent** at his sister's house on the coast, walking a little further each morning.",
+    "She's out of hospital but still **convalescing** — don't invite her to a five-a-side game just yet."
+  ],
+  "in_the_wild": "**Convalescent plasma** — blood plasma taken from recovered patients — was headline news through 2020 as an experimental COVID treatment. Recovered donors, literally the convalescent.",
+  "etymology": "Latin **valēre** = *\"to be strong, to be well\"* + **con-** (intensifier) + **-escere** (*begin to*). To convalesce is to *start growing strong again*.\n\nThat root is a goldmine: **valid** (strong enough to hold), **invalid** (not strong — both the argument and the wheelchair sense), **prevail**, **valiant**, **valour**, **value**, and the Roman farewell **vale** (\"be well\").",
+  "one_line": "Recovering from illness — stronger each day, not yet well.",
+  "root": "valēre (to be strong, to be well)",
+  "root_family": [
+    "valid",
+    "invalid",
+    "valiant",
+    "valour",
+    "prevail",
+    "value",
+    "convalesce",
+    "countervail"
+  ],
+  "confusables": [
+    "convalesce",
+    "coalesce",
+    "obsolescent"
+  ],
+  "sense_tags": [
+    "recovering",
+    "healing",
+    "illness",
+    "regaining-strength",
+    "transitional-state"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    23
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "obfuscate",
+  "pos": "v.",
+  "pron": "OB-fuh-skayt",
+  "pron_note": "Also heard as ob-FUS-kayt.",
+  "means": "To make something **deliberately unclear** — to muddy a fact, a number, or an argument so nobody can see what's actually being said.\n\nThe key is *method and motive*. You don't obfuscate by hiding something; you obfuscate by **piling stuff on top of it** — jargon, qualifiers, footnotes, extra clauses. And it's never accidental: *confuse* can be clumsiness, *obscure* can be a passing cloud, but **obfuscate is always someone's choice**. It's the verb you reach for when a company's earnings report technically discloses everything and reveals nothing.",
+  "trap": null,
+  "trick_line": "**ob-FUSS-cate** — bury the point under a **fuss** of words.",
+  "trick_unpack": "The fuss is the point: obfuscation adds noise rather than removing information, and the person doing it wants the noise there.",
+  "sentences": [
+    "The report **obfuscated** the losses across nine appendices, each technically accurate and collectively unreadable.",
+    "Just answer the question — stop **obfuscating**."
+  ],
+  "in_the_wild": "Developers ship **obfuscated** JavaScript: the code still runs, but variables become `a`, `b`, `c` and the logic is scrambled so competitors can't read it. Same idea — nothing removed, everything made unreadable on purpose.",
+  "etymology": "Latin **ob-** (*over*) + **fuscāre** (*to darken*), from **fuscus**, \"dark, dusky.\" Literally *to darken over* — you throw shade across the meaning until nobody can make it out.",
+  "one_line": "To deliberately muddy something so it can't be understood.",
+  "root": "fuscus (dark, dusky) → fuscāre (to darken)",
+  "root_family": [
+    "fuscous",
+    "infuscate"
+  ],
+  "confusables": [
+    "obscure",
+    "obviate",
+    "obfuscation",
+    "abstruse"
+  ],
+  "sense_tags": [
+    "confusing",
+    "concealment",
+    "deliberate-vagueness",
+    "obscurity",
+    "deception"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    31
+  ]
+}

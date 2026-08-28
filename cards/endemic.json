@@ -1,0 +1,44 @@
+{
+  "word": "endemic",
+  "pos": "adj.",
+  "pron": "en-DEM-ik",
+  "pron_note": null,
+  "means": "**1.** (of a disease or condition) constantly present in a particular place or group. **2.** (of a plant or animal) native to and found *only* in one region — *lemurs are endemic to Madagascar*.\n\nThe key idea is **permanent residence, not arrival**. An epidemic surges and passes; something endemic has settled in and become part of the furniture. That's why the figurative use bites so hard: say *corruption is endemic to the ministry* and you're not reporting an outbreak, you're saying it's structural, baked in, and nobody expects it to leave. Biology's use is the neutral one; applied to human institutions, it's close to an indictment.",
+  "trap": "⚠️ **endemic ≠ epidemic.**\n- **endemic** = *en-* (in) — always **in** the population, steady background level\n- **epidemic** = *epi-* (upon) — sweeping **onto** the population, a sudden spike\n\nMalaria is endemic to the tropics; cholera broke out as an epidemic.",
+  "trick_line": "**End**emic things never **end** — they're the resident, not the visitor.",
+  "trick_unpack": "The false syllable *end* is a lie about the etymology but a perfect grip on the meaning: an endemic problem is the one that's always been there and shows no sign of stopping.",
+  "sentences": [
+    "Chronic underfunding is **endemic** to the region's public hospitals, less a crisis than a permanent condition.",
+    "Honestly, missed deadlines are just **endemic** here — nobody even flinches anymore."
+  ],
+  "in_the_wild": "The whole 2022 debate over whether COVID had \"gone **endemic**\" — meaning not *gone*, but downgraded from emergency to permanent background resident.",
+  "etymology": "Greek **dēmos** = *\"the people.\"* *En-dēmos* = \"in the people.\"\n\nOne root, a whole cluster: **democracy** (rule by the people), **demographic** (measuring the people), **demagogue** (one who leads — and inflames — the people), **epidemic** (upon the people), **pandemic** (all the people).",
+  "one_line": "Permanently present in a particular place or group.",
+  "root": "dēmos (people)",
+  "root_family": [
+    "democracy",
+    "demographic",
+    "demagogue",
+    "epidemic",
+    "pandemic",
+    "epidemiology"
+  ],
+  "confusables": [
+    "epidemic",
+    "pandemic",
+    "endemic (vs) indigenous",
+    "academic"
+  ],
+  "sense_tags": [
+    "native",
+    "prevalent",
+    "entrenched",
+    "disease",
+    "habitual"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    28
+  ]
+}

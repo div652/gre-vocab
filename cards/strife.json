@@ -1,0 +1,37 @@
+{
+  "word": "strife",
+  "pos": "n.",
+  "pron": "STRYFE",
+  "pron_note": null,
+  "means": "Bitter, angry conflict — sustained discord between people, factions, or classes.\n\nA *fight* is an event and a *dispute* has a topic; strife is a **condition**. It hangs over a household, a union, a country for years, and it rarely names a winner. The word is elevated, faintly biblical, and it clings to collective nouns: *civil strife, sectarian strife, industrial strife, marital strife*. Nobody says \"me and Dave had strife\" — it's too big a word for two people and one argument.",
+  "trap": null,
+  "trick_line": "**Strife** is what you get when two sides both **strive** — against each other, for years.",
+  "trick_unpack": "The buried *strive* gives you both halves of the nuance: effort on both sides, and no end in sight.",
+  "sentences": [
+    "Decades of sectarian **strife** left the city partitioned by walls that no map acknowledged.",
+    "There's been nothing but **strife** in that office since the merger — half of them won't even share a lift."
+  ],
+  "in_the_wild": "**Cloud Strife**, the hero of *Final Fantasy VII* — a surname picked to advertise a life of conflict, inner and outer.",
+  "etymology": "Old French **estrif** (*quarrel*), from **estriver**, *\"to strive.\"* Same root, split in two: **strive** kept the effort, **strife** kept the fighting.",
+  "one_line": "Bitter, ongoing conflict between people or groups.",
+  "root": "estriver (to strive, contend)",
+  "root_family": [
+    "strive"
+  ],
+  "confusables": [
+    "strive",
+    "stride",
+    "strafe"
+  ],
+  "sense_tags": [
+    "conflict",
+    "discord",
+    "dissension",
+    "hostility"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    15
+  ]
+}

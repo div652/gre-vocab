@@ -1,0 +1,40 @@
+{
+  "word": "escalate",
+  "pos": "v.",
+  "pron": "ES-kuh-layt",
+  "pron_note": null,
+  "means": "To **increase by stages** in intensity, scale, or seriousness — or to **push a matter up to a higher authority**.\n\nTwo flavours, one shape. A quarrel *escalates* into a brawl, a border skirmish into a war, a repair bill into a mortgage: each step provokes the next, and reversing is far harder than climbing. That step-by-step, self-feeding quality is what separates it from *increase* (flat, quantitative) and *soar* (fast and often welcome). Escalation is rarely good news.\n\nThe office sense is bureaucratic rather than violent — \"I'll **escalate** this to my manager\" means moving the problem up a rung, not making it worse. Same ladder, calmer building.",
+  "trap": null,
+  "trick_line": "**An escalator has no jump button** — it lifts you one step at a time, and you can't easily get off.",
+  "trick_unpack": "*Escalate* is stepwise, self-continuing intensification — not a sudden leap, and not something you can simply step back down from.",
+  "sentences": [
+    "Both governments insisted they sought peace, even as troop movements **escalated** the crisis week by week.",
+    "It was a joke about parking, and somehow it **escalated** into three people not speaking at Christmas."
+  ],
+  "in_the_wild": "The **escalator** at any mall is the word made literal — and its corporate cousin, \"let me **escalate** this to my supervisor,\" is what you hear ten minutes into a support call.",
+  "etymology": "Backwards from what you'd guess: **escalator** came first (a 1900 trademark, from *escalade* — scaling a wall with ladders), and **escalate** was cut out of it decades later, hitting its stride in the Cold War: *escalation*, *de-escalate*, *escalatory*.\n\nUnderneath is Latin **scala** = *\"ladder, stairs\"* — which also gives **scale** (to climb), **escalade**, and **echelon** (a rung of the hierarchy).",
+  "one_line": "To intensify step by step, usually for the worse.",
+  "root": "scala (ladder, stairs)",
+  "root_family": [
+    "escalator",
+    "escalade",
+    "scale",
+    "echelon",
+    "de-escalate"
+  ],
+  "confusables": [
+    "escalade",
+    "elevate"
+  ],
+  "sense_tags": [
+    "intensifying",
+    "conflict",
+    "increase",
+    "worsening"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

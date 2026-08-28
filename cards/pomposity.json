@@ -1,0 +1,40 @@
+{
+  "word": "pomposity",
+  "pos": "n.",
+  "pron": "pom-POS-uh-tee",
+  "pron_note": null,
+  "means": "Inflated self-importance — especially the **grand, ceremonious manner** of someone who treats their own opinions like state announcements.\n\nArrogance is about *claiming superiority*; pomposity is about the **style**: the orotund voice, the long Latinate words, the pause before the obvious. It attaches to the delivery more than the belief. And it's a comic charge, not a fearsome one — the pompous man is ridiculous, someone to be punctured at a dinner party, not feared. Nobody has ever described their own manner as pomposity.",
+  "trap": null,
+  "trick_line": "**Pomp**osity = **pomp** with no occasion — a one-man parade.",
+  "trick_unpack": "Ceremony is fine at a coronation; pomposity is bringing that same fanfare to a status meeting.",
+  "sentences": [
+    "The committee's report collapsed under its own **pomposity**, taking four hundred words to recommend a slightly larger bin.",
+    "He can't just say \"I disagree\" — there's always this **pomposity** where he clears his throat and says \"if I may offer a perspective.\""
+  ],
+  "in_the_wild": "Elgar's **\"Pomp and Circumstance\"** — the march every graduation processes to. Same *pomp*: grand ceremonial display. Pomposity is that music playing in someone's head while they answer an email.",
+  "etymology": "Latin **pompa** = *\"solemn procession,\"* from Greek **pompē** (*a sending, a parade*). The word started as pure spectacle — the parade itself — and only later curdled into the sneer at people who march through ordinary life as if a crowd were watching.\n\nFamily: **pomp**, **pompous**, **pageant**.",
+  "one_line": "Inflated self-importance, especially in grand, ceremonious manner and speech.",
+  "root": "pompa (solemn procession, parade)",
+  "root_family": [
+    "pomp",
+    "pompous",
+    "pageant"
+  ],
+  "confusables": [
+    "pompousness",
+    "pomp",
+    "verbosity"
+  ],
+  "sense_tags": [
+    "self-importance",
+    "pretension",
+    "grandiosity",
+    "affected-speech",
+    "vanity"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    25
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "dirge",
+  "pos": "n.",
+  "pron": "DERJ",
+  "pron_note": "One syllable — rhymes with *urge*.",
+  "means": "A **slow, mournful song or chant for the dead** — the music of a funeral, a lament sung over a grave.\n\nThe literal sense is ceremonial and sombre, but the word does most of its modern work as an **insult about tempo and mood**: any performance so slow, flat and joyless that it feels like a funeral. A *lament* expresses grief; a *dirge* is the sound of it — heavy, dragging, sung aloud. Call a ballad a dirge and you're not praising its depth, you're saying it killed the room.",
+  "trap": null,
+  "trick_line": "**A dirge drags you down to the dirt.**",
+  "trick_unpack": "*Dirge* and *dirt* share the opening sound, and both belong at the graveside — which also gives you the sneering sense, since a dirge is anything that *drags*.",
+  "sentences": [
+    "The procession moved to a **dirge** of low brass, each note held longer than seemed bearable.",
+    "Their new album is one **dirge** after another — I nearly fell asleep at the gig."
+  ],
+  "in_the_wild": "Claudius in *Hamlet*, listing the upside-down state of Denmark: **\"With mirth in funeral and with dirge in marriage.\"** A dirge at a wedding is exactly how wrong the word feels out of place.",
+  "etymology": "From Latin **dīrige** — *\"direct!\"* — the first word of the antiphon sung in the medieval Office of the Dead: *Dirige, Domine, Deus meus, in conspectu tuo viam meam* (\"Direct my way in thy sight, O Lord\"). The service got nicknamed after its opening word, and the nickname became the name for the music.\n\nSame root as **direct**, **dirigible** (a steerable airship) and **dirigisme** (state direction of an economy) — all from *dirigere*, \"to steer.\"",
+  "one_line": "A slow, mournful funeral song — or anything that drags.",
+  "root": "dīrigere, dīrige (to direct, steer)",
+  "root_family": [
+    "direct",
+    "dirigible",
+    "dirigisme",
+    "erect"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "mourning",
+    "funeral",
+    "lament",
+    "music",
+    "gloom"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    27
+  ]
+}

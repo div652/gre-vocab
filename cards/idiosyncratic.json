@@ -1,0 +1,42 @@
+{
+  "word": "idiosyncratic",
+  "pos": "adj.",
+  "pron": "id-ee-oh-sin-KRAT-ik",
+  "pron_note": "The noun shifts the stress: idiosyncrasy = id-ee-oh-SIN-kruh-see.",
+  "means": "Peculiar to one individual — a habit, style, or reaction that belongs to *this* person or thing and follows no general rule.\n\nTone matters: **idiosyncratic** is the polite, often admiring word. *Eccentric* implies a performance others notice; *erratic* implies you can't be relied on; **idiosyncratic** just says the pattern is yours alone — a novelist's idiosyncratic punctuation, a chef's idiosyncratic knife grip. It also has a straight technical life: an idiosyncratic drug reaction, or idiosyncratic risk in finance, means \"specific to this one case, not the population.\"",
+  "trap": "⚠️ **idiosyncratic ≠ idiopathic.** Both open with *idio-*, both hang around medicine.\n- **idiosyncratic** = specific to *this individual*\n- **idiopathic** = of *unknown cause* (idiopathic hypertension: nobody knows why)",
+  "trick_line": "**IDIO- = \"my own,\" as in *idiom*.** An idiom is a language's private quirk; an idiosyncrasy is a person's.",
+  "trick_unpack": "Nobody calls an idiom a mistake — it's just how that language does it, which is exactly the non-judgmental flavour of *idiosyncratic*.",
+  "sentences": [
+    "Her prose style is **idiosyncratic** to the point of unmistakability: no semicolons, no adverbs, and paragraphs that stop mid-thought.",
+    "He's got this **idiosyncratic** thing where he won't take a call unless he's pacing."
+  ],
+  "in_the_wild": "Standard vocabulary in investing: **idiosyncratic risk** is the risk attached to one company (a CEO scandal, a failed drug trial) as opposed to *systematic* risk, which hits the whole market. Diversification kills the idiosyncratic kind — that's the entire pitch for index funds.",
+  "etymology": "Greek **idios** = *\"one's own, private\"* + **syn-krasis** = *\"mixing together\"* — literally **your own personal blend**, from the old medicine of mixed humours.\n\n*Idios* is worth banking: **idiom** (a language's own way of putting it), **idiopathic** (cause private to that patient), and **idiot** — originally just a *private citizen*, someone holding no public office, hence a layman, hence ignorant.",
+  "one_line": "Peculiar to one individual; a quirk that's distinctly yours.",
+  "root": "idios (one's own) + synkrasis (mixture)",
+  "root_family": [
+    "idiom",
+    "idiomatic",
+    "idiopathic",
+    "idiot",
+    "idiolect"
+  ],
+  "confusables": [
+    "idiopathic",
+    "idiomatic",
+    "ideological"
+  ],
+  "sense_tags": [
+    "peculiar",
+    "individual",
+    "quirky",
+    "distinctive",
+    "unconventional"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    26
+  ]
+}

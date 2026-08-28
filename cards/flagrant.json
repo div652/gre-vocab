@@ -1,0 +1,41 @@
+{
+  "word": "flagrant",
+  "pos": "adj.",
+  "pron": "FLAY-gruhnt",
+  "pron_note": "First syllable rhymes with play, not with flag.",
+  "means": "Of an offence: **so obvious and so outrageous that it can't be excused or ignored**. A flagrant violation isn't just visible — it's shameless.\n\nCompare **blatant**: blatant is about *loudness* and can be almost neutral (a blatant lie, a blatant plug). Flagrant carries **moral heat** — it's reserved for breaches of law, duty, or decency, and it implies the offender didn't even bother to hide. That's why it lives with a fixed set of nouns: flagrant *violation, abuse, breach, disregard, misconduct*. The word condemns the act, not the person.",
+  "trap": "⚠️ **flagrant ≠ fragrant.** One letter apart, opposite worlds: **flagrant** = scandalously obvious wrongdoing; **fragrant** = sweet-smelling. A flagrant garden is a crime scene; a fragrant one is roses.",
+  "trick_line": "There is no such thing as **flagrant kindness** — flagrant only ever modifies a wrong.",
+  "trick_unpack": "If the noun after it isn't a violation, abuse, breach, or disregard, you've picked the wrong word.",
+  "sentences": [
+    "The tribunal found a **flagrant** disregard for the safety rules: the alarms had been disconnected months before the fire.",
+    "Parking across two disabled bays outside the hospital — that's just **flagrant**."
+  ],
+  "in_the_wild": "The NBA grades its worst fouls as **Flagrant 1** and **Flagrant 2** — not the sneaky trips, the unnecessary-and-excessive contact everyone in the arena saw.",
+  "etymology": "Latin **flagrāre** = *\"to blaze, to burn.\"* A flagrant offence is one still burning in plain sight.\n\nSame fire gives you **conflagration** (a huge blaze) and the legal phrase **in flagrante delicto** — literally *\"while the crime is blazing,\"* i.e. caught red-handed.",
+  "one_line": "Shockingly obvious wrongdoing, too brazen to overlook.",
+  "root": "flagrāre (to blaze, to burn)",
+  "root_family": [
+    "conflagration",
+    "in flagrante delicto",
+    "deflagration"
+  ],
+  "confusables": [
+    "fragrant",
+    "blatant",
+    "vagrant",
+    "flippant"
+  ],
+  "sense_tags": [
+    "obvious",
+    "outrageous",
+    "wrongdoing",
+    "shameless",
+    "conspicuous"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

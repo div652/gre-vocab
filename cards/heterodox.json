@@ -1,0 +1,43 @@
+{
+  "word": "heterodox",
+  "pos": "adj.",
+  "pron": "HET-uh-ruh-doks",
+  "pron_note": null,
+  "means": "Holding beliefs that depart from the accepted or official doctrine — of a church, a discipline, a party.\n\nThe word lives in the world of **ideas**, not behaviour: you have heterodox *views*, not a heterodox haircut (that's *unorthodox*). And it stops short of **heretical** — a heterodox thinker is still inside the tent, arguing with the creed rather than renouncing it. Because of that, it carries a faint respectability: mainstream economists say \"heterodox\" about rivals they must take seriously, and dissenters happily claim the label for themselves.",
+  "trap": null,
+  "trick_line": "**Ortho**dox keeps the *straight* docs; **hetero**dox reads the *other* docs — same religion, different book.",
+  "trick_unpack": "\"Dox\" is doctrine, and the prefix tells you whether you're on the official line or a rival one — not off the map altogether.",
+  "sentences": [
+    "His **heterodox** reading of the treaty was dismissed by the faculty for a decade, then quietly adopted into the syllabus.",
+    "She's the **heterodox** one at the family dinner — still votes, still goes to church, just never the way anyone expects."
+  ],
+  "in_the_wild": "**Heterodox economics** is the standard name for the schools kept outside the mainstream — Marxian, Austrian, post-Keynesian. It's the label a whole profession uses for \"not the official doctrine, but still economics.\"",
+  "etymology": "Greek **heteros** = *\"other\"* + **doxa** = *\"opinion, belief.\"* Literally: the other opinion.\n\n*Doxa* is the payoff root: **orthodox** (*orthos*, straight — the correct belief), **paradox** (*para*, contrary — a belief against belief), **doxology** (words of praise). *Heteros* gives you **heterogeneous** — of other kinds, mixed.",
+  "one_line": "Departing from accepted doctrine; dissenting in belief.",
+  "root": "heteros (other) + doxa (opinion, belief)",
+  "root_family": [
+    "orthodox",
+    "paradox",
+    "doxology",
+    "heterogeneous",
+    "heterodoxy"
+  ],
+  "confusables": [
+    "orthodox",
+    "heterogeneous",
+    "heretical",
+    "unorthodox"
+  ],
+  "sense_tags": [
+    "dissenting",
+    "unorthodox",
+    "doctrine",
+    "nonconformity",
+    "belief"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    22
+  ]
+}

@@ -3,40 +3,39 @@
   "pos": "adj.",
   "pron": "punk-TIL-ee-uhs",
   "pron_note": null,
-  "means": "Exact to the smallest detail — especially about **rules, procedure, and correct form**.\n\nA **meticulous** person is careful about the *work*; a **punctilious** one is careful about the *protocol* — the seating plan, the exact wording of the title, the order in which people are greeted. That's why the word tilts faintly fussy: it can praise a diplomat and mock a pedant with the same breath, and the reader usually knows which from the size of the stakes. Observing every point of etiquette at a state funeral is admirable; doing it at a barbecue is not.",
-  "trap": null,
-  "trick_line": "**Punctilious** hides **punctual** — and a punctual person is exact about *one* point, the time; a punctilious person is exact about *every* point.",
-  "trick_unpack": "Both words come from the same Latin \"point,\" so punctilious just extends on-the-dot precision from the clock to every rule of form.",
+  "means": "Exact about the small points of correct **form** — etiquette, protocol, procedure, ceremony. A punctilious host seats the guests in the right order; a punctilious officer salutes the right way every time.\n\n*Meticulous* is about the accuracy of the **work**; punctilious is about the propriety of the **conduct**. That's why the word lives in diplomacy, the military, and old-fashioned manners. Tone swings on context: it praises someone reliable to the last detail, but tilts toward fussy when the details being guarded are pointless ones.",
+  "trap": "**punctilious ≠ punctual.** Same Latin root, different point: **punctual** = arrives on time; **punctilious** = observes every rule of proper form. A punctilious man may still be late.",
+  "trick_line": "**Punctual + tedious = punctilious** — on the dot about every tiny point, sometimes to the edge of tedium.",
+  "trick_unpack": "The blend holds both halves of the word: exactness about small points, plus the faint sigh it can provoke.",
   "sentences": [
-    "The ambassador was **punctilious** in matters of precedence, and would not begin the toast until each delegation had been named in its proper order.",
-    "He's so **punctilious** about the group chat rules that he'll correct your spelling before answering your question."
+    "The ambassador was **punctilious** in matters of precedence, and would not begin the dinner until every delegation was seated in its correct rank.",
+    "He's **punctilious** about the group chat — full sentences, proper punctuation, and a reply to every single message."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **punctum** = *\"a point\"* (from *pungere*, to prick), via Italian **puntiglio** = *\"a fine point of conduct.\"*\n\nThat root is a workhorse: **punctual** (on the point of time), **punctuate**, **punctuation**, **puncture**, **acupuncture**, **pungent** (a smell that pricks you).",
-  "one_line": "Exact about every small rule of correct form.",
-  "root": "punctum (a point), from pungere (to prick)",
+  "etymology": "Latin **punctum** = *\"a point\"* → Italian **puntiglio** = *\"a fine point, a small scruple, a point of honour.\"* Punctilious is literally *full of fine points*.\n\nThe root pays out across the exam: **punctual** (on the dot), **punctuate** (put in the points), **puncture** (make a point-hole), **compunction** (a pricking of conscience), **pungent** (sharp enough to prick the nose).",
+  "one_line": "Exact to the last small point of correct form",
+  "root": "punctum (a point), via Italian puntiglio (fine point)",
   "root_family": [
     "punctual",
     "punctuate",
-    "punctuation",
     "puncture",
-    "acupuncture",
+    "punctilio",
+    "compunction",
     "pungent",
-    "punctilio"
+    "point"
   ],
   "confusables": [
     "punctual",
     "meticulous",
     "fastidious",
-    "scrupulous",
     "punctilio"
   ],
   "sense_tags": [
     "precise",
-    "etiquette",
-    "exacting",
-    "fussy",
-    "formal-correctness"
+    "detail-oriented",
+    "propriety",
+    "scrupulous",
+    "fussy"
   ],
   "register": "formal",
   "connotation": "depends",

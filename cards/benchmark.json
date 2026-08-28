@@ -1,0 +1,41 @@
+{
+  "word": "benchmark",
+  "pos": "n. / v.",
+  "pron": "BENCH-mark",
+  "pron_note": null,
+  "means": "**Noun:** a fixed standard or reference point against which other things are measured, compared, or judged.\n**Verb:** to test something by measuring it against that standard.\n\nThe word is cold and quantitative — a benchmark is a *line*, not an ideal. A **paragon** is perfection you admire; a **benchmark** is simply the agreed measuring stick, and it can be mediocre (a fund can beat its benchmark and still lose money). It also implies **comparability**: the same test, run the same way, on everything. That's why it belongs to reviewers, analysts, and engineers rather than to praise.",
+  "trap": "⚠️ **benchmark ≠ hallmark.**\n- **benchmark** = the *standard you measure against*\n- **hallmark** = a *distinguishing feature* that identifies something (\"obsessive detail is the hallmark of his work\")",
+  "trick_line": "A benchmark is a **mark**, not a **medal** — you measure against it, you don't win it.",
+  "trick_unpack": "Clearing a benchmark only means you crossed the reference line, which is why a chip, a fund, or a student can be \"above benchmark\" and still be unremarkable.",
+  "sentences": [
+    "The 1962 recording remains the **benchmark** against which every later performance of the concerto is quietly judged.",
+    "Don't **benchmark** yourself against people who got a ten-year head start."
+  ],
+  "in_the_wild": "Every phone and laptop review runs **benchmark** scores — apps like *Geekbench* and *3DMark* exist for nothing else: run the identical test on every device so the numbers can be lined up side by side.",
+  "etymology": "Literally a **bench** + a **mark**. Victorian surveyors chiselled a mark into a wall or stone at a precisely known height, then rested the bracket (\"bench\") of their levelling rod in it — every other elevation in the district was measured from that one immovable cut.\n\nSo the whole modern meaning is already in the object: a *fixed physical reference point that everything else is measured from*. Same **-mark** family, different jobs: **landmark** (you navigate by it), **hallmark** (it identifies), **earmark** (it reserves).",
+  "one_line": "A fixed standard that other things are measured against.",
+  "root": "bench + mark (surveyor's fixed reference cut)",
+  "root_family": [
+    "landmark",
+    "hallmark",
+    "earmark",
+    "trademark"
+  ],
+  "confusables": [
+    "hallmark",
+    "landmark",
+    "milestone",
+    "touchstone"
+  ],
+  "sense_tags": [
+    "standard",
+    "comparison",
+    "measurement",
+    "reference-point"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    36
+  ]
+}

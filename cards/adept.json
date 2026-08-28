@@ -1,0 +1,40 @@
+{
+  "word": "adept",
+  "pos": "adj. / n.",
+  "pron": "uh-DEPT",
+  "pron_note": "As a noun (\"an adept\"), the stress often shifts forward: AD-ept.",
+  "means": "**Adj.:** highly skilled, expert — usually *adept at* or *adept in* something. **Noun:** a person who has mastered a difficult art.\n\nThe skill is **earned, not innate**. *Apt* and *gifted* point to raw talent; *adept* points to practice that has hardened into fluency, and it carries a whiff of the specialist — someone who has been *initiated* into the craft. It's warmer and more admiring than *proficient* (which merely clears the bar) and less lofty than *masterful*; *adroit* is its close cousin but leans physical or social — quick hands, quick footwork — where *adept* is about command of a skill.",
+  "trap": "⚠️ **adept ≠ adapt.** *Adept* (uh-DEPT) = **skilled**. *Adapt* (uh-DAPT) = **adjust to new conditions**. One letter, one vowel sound, two unrelated words — and *adopt* is lurking a third of the way behind.",
+  "trick_line": "**You're born *apt*; you become *adept*.**",
+  "trick_unpack": "The extra syllable is the extra work — *adept* is the skill you attained, not the talent you started with.",
+  "sentences": [
+    "A decade in the archives had made her unusually **adept** at reading water-damaged handwriting.",
+    "He's weirdly **adept** at parallel parking — three seconds, one go, every time."
+  ],
+  "in_the_wild": "Every block of placeholder text you've ever seen — *\\\"Lorem ipsum dolor sit amet, consectetur **adipiscing** elit\\\"* — carries the same Latin verb, *adipisci*, \\\"to attain.\\\"",
+  "etymology": "Latin **adeptus**, \"having attained\" (from *ad-* \"to\" + *apisci* \"reach, obtain\"). It reached English through **alchemy**: an *adept* was one who had *attained* the great secret of transmuting metal into gold.\n\nThat's why the word still implies attainment rather than gift — and why the noun sense sounds faintly like a member of a guild.",
+  "one_line": "Highly skilled at something, through practice not luck.",
+  "root": "adipisci, adeptus (to attain, reach)",
+  "root_family": [
+    "adipiscing (Latin, as in lorem ipsum)"
+  ],
+  "confusables": [
+    "adapt",
+    "adopt",
+    "apt",
+    "adroit",
+    "inept"
+  ],
+  "sense_tags": [
+    "skilled",
+    "expert",
+    "proficient",
+    "practised",
+    "mastery"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    25
+  ]
+}

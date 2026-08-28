@@ -1,0 +1,47 @@
+{
+  "word": "ensue",
+  "pos": "v.",
+  "pron": "en-SOO",
+  "pron_note": "British speakers often say en-SYOO.",
+  "means": "To **follow as a consequence** — to happen next, and happen *because* of what just happened.\n\nTwo things pin it down. First, it never takes an object: things ensue, you can't ensue anything. Second, it's a narrator's word — the register of reports, minutes, and news copy (\"a scuffle ensued\"), not of conversation. *Follow* is plain sequence; **ensue** insists on causal link and adds a faint formality, as if someone is writing the incident up afterwards.",
+  "trap": "⚠️ **ensue ≠ ensure.** *Ensue* = to follow as a result (no object). *Ensure* = to make certain of (always takes an object). Ensure the doors are locked, or chaos will ensue.",
+  "trick_line": "**Look at what actually ensues: chaos, panic, silence, a lengthy legal battle.** Nothing good ever ensues.",
+  "trick_unpack": "The word's stock companions are all aftermath, so remember it as the verb for what spills out *after* the trouble starts.",
+  "sentences": [
+    "When the treaty collapsed, three decades of intermittent border war **ensued**.",
+    "He knocked over the candle, and you can guess what **ensued**."
+  ],
+  "in_the_wild": "**\"Hilarity ensues\"** — the stock phrase in film blurbs and Netflix synopses for the chaos that follows the setup. It's so overused it's become a joke, which is exactly why it sticks.",
+  "etymology": "Latin **sequī** = *\"to follow\"* (via Old French *ensivre*, \"to follow upon\"). That root is a GRE goldmine: **sequence, consequence, sequel, subsequent, pursue, prosecute, obsequious** (following your boss around), **non sequitur** (a statement that doesn't follow).",
+  "one_line": "To follow as a result of what came before.",
+  "root": "sequī (to follow)",
+  "root_family": [
+    "sequence",
+    "consequence",
+    "sequel",
+    "subsequent",
+    "pursue",
+    "prosecute",
+    "obsequious",
+    "non sequitur",
+    "suite"
+  ],
+  "confusables": [
+    "ensure",
+    "insure",
+    "issue",
+    "pursue",
+    "sue"
+  ],
+  "sense_tags": [
+    "following",
+    "consequence",
+    "aftermath",
+    "causation"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    37
+  ]
+}

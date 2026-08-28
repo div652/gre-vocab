@@ -1,36 +1,36 @@
 {
   "word": "placate",
   "pos": "v.",
-  "pron": "PLAY-kayt",
-  "pron_note": "British speakers usually say pluh-KAYT, stressing the second syllable.",
-  "means": "To calm someone's anger or hostility, usually by giving them something — a concession, an apology, a token gesture.\n\nThe anger has to be there first. You can't placate a happy person; the word presupposes a grievance you are damping down. And it often carries a faint whiff of insincerity: the goal is to *stop the complaining*, not necessarily to fix what caused it. Companies placate angry customers with vouchers; governments placate critics with committees. Where **soothe** is warm and **pacify** can mean force, **placate** is transactional — you hand over something to buy quiet.",
+  "pron": "pluh-KAYT",
+  "pron_note": "Some British speakers say PLAK-ayt.",
+  "means": "To calm someone's **anger or hostility**, usually by giving them something — a concession, an apology, a gesture.\n\nThe word assumes real anger already exists: you don't placate a happy person. And it quietly implies the fix is **transactional and often token** — \"a few tweaks to placate the shareholders\" says the tweaks were cheap and the shareholders were a nuisance. *Appease* carries the stink of surrendering to a bully; *mollify* is gentler and softer, about feelings; *placate* sits in between, faintly weary, faintly cynical about the person being soothed.",
   "trap": null,
-  "trick_line": "**Placate** rhymes with **irate** — you only placate the irate.",
-  "trick_unpack": "The rhyme locks in the precondition: there must already be anger on the table, and you're paying something to make it go away.",
+  "trick_line": "**Plac-ate** = hand them a **plaque** and hope they **ate** it up.",
+  "trick_unpack": "You're buying off someone's anger with a token offering — which is exactly the slightly hollow flavour of *placate*.",
   "sentences": [
-    "The minister offered a public inquiry, less to uncover the truth than to **placate** a press corps that had scented blood.",
-    "I brought her a coffee to **placate** her after I lost the keys again."
+    "The minister released a token draft of the report, hoping to **placate** a press corps that had scented a cover-up.",
+    "I bought him a coffee to **placate** him after I lost his charger.'"
   ],
   "in_the_wild": null,
-  "etymology": "Latin **placāre** = *\"to soothe, to calm,\"* a cousin of **placēre**, *\"to please.\"*\n\nThat root is worth memorising because it pays out across the exam: **placid** (calm), **complacent** (pleased with yourself), **implacable** (*not* able to be placated — an enemy no concession will soften), and **placebo**, which is literally Latin for *\"I shall please.\"*",
-  "one_line": "Calm someone's anger, usually by giving them something.",
+  "etymology": "Latin **placāre** = *\"to soothe\"* — the causative of **placēre**, *\"to please.\"* One root, a lot of GRE words: **placid** (calm), **complacent** (pleased with yourself), **placebo** (Latin for *\"I shall please\"* — a pill that soothes and nothing more), and the useful opposite **implacable** (*not* able to be soothed — a rage or an enemy that no concession will touch).",
+  "one_line": "To soothe someone's anger, usually with a concession.",
   "root": "placāre (to soothe), from placēre (to please)",
   "root_family": [
     "placid",
-    "implacable",
     "complacent",
+    "implacable",
     "placebo",
-    "complaisant"
+    "complaisant",
+    "please"
   ],
   "confusables": [
+    "palliate",
     "placid",
-    "placard",
-    "implacable",
-    "placebo"
+    "pillage"
   ],
   "sense_tags": [
     "appeasing",
-    "soothing",
+    "calming",
     "conciliation",
     "anger-management",
     "concession"

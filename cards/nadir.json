@@ -1,0 +1,34 @@
+{
+  "word": "nadir",
+  "pos": "n.",
+  "pron": "NAY-deer",
+  "pron_note": "Also NAD-eer; the older NAY-der is fading. Never NAH-dir.",
+  "means": "The **lowest point** — of a career, a mood, a market, a nation's fortunes. In astronomy, the point on the celestial sphere directly *beneath* you, opposite the zenith.\n\nIt is a superlative, and usually a retrospective one: you survey a whole arc and name the single deepest trough in it. \"A low point\" is casual and can be one of several; **the nadir** is a verdict, and there is only one. The register is formal and faintly grand — which is why it stings: it dignifies the collapse even as it measures it.",
+  "trap": null,
+  "trick_line": "**Nay, dear** — it does not get lower than this.",
+  "trick_unpack": "The sound gives you both halves of the word: the flat *nay* of rock bottom, and the finality — there's exactly one nadir, not a series of bad days.",
+  "sentences": [
+    "The winter of 1943 marked the **nadir** of the regime's fortunes, and every general in the room knew it.",
+    "Eating cold beans over the sink at 2am was, I think, the **nadir** of my twenties."
+  ],
+  "in_the_wild": "Earth-observation satellites are described as looking **\"at nadir\"** — camera pointed straight down at the ground directly below. Every satellite image you've scrolled past on Google Maps is a nadir view.",
+  "etymology": "Arabic **naẓīr as-samt** = *\"counterpart of the zenith\"* — the point diametrically opposite overhead. That same *as-samt* gave English **azimuth**, and a garbled copy of it gave **zenith**.\n\nSo one Arabic phrase hands you three words at once: **zenith** (top), **nadir** (bottom), **azimuth** (bearing). Medieval European astronomers took their star vocabulary wholesale from Arabic — as *algebra*, *algorithm* and *alcohol* also attest.",
+  "one_line": "The absolute lowest point of a decline or fortune.",
+  "root": "naẓīr (Arabic: counterpart, opposite)",
+  "root_family": [
+    "zenith",
+    "azimuth"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "lowest-point",
+    "decline",
+    "rock-bottom",
+    "astronomy"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    29
+  ]
+}

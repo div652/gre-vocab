@@ -1,0 +1,43 @@
+{
+  "word": "replenish",
+  "pos": "v.",
+  "pron": "ri-PLEN-ish",
+  "pron_note": null,
+  "means": "To **fill something back up** after it has been drawn down — stocks, supplies, reserves, energy.\n\nTwo things are baked in: there was a **depletion**, and the refilling **restores a previous level** rather than adding something new. You *stock* an empty shelf; you *replenish* one that has sold down. Compare *refill* (plain, physical, one container) and *restore* (returns a state or condition, not a quantity) — *replenish* is the quantity word, and it carries a faint air of supply logistics and stewardship: fleets, larders, aquifers, reserves.",
+  "trap": null,
+  "trick_line": "**re-PLEN-ish** — *plenty* again.",
+  "trick_unpack": "The stressed syllable is literally *plen-*, the root of *plenty*, and *re-* means back to it — you had plenty, you spent it, you get plenty again.",
+  "sentences": [
+    "Each spring the meltwater **replenishes** aquifers that the summer will drain again.",
+    "Grab a sandwich — you need to **replenish** after that ride."
+  ],
+  "in_the_wild": "It's the retail industry's own word: shops run on **inventory replenishment**, and the staff walking the aisles at midnight are on a *replenishment* shift.",
+  "etymology": "Latin **plēnus** = *\"full.\"* One root, a whole GRE cluster: **plenty**, **plenary** (a full session), **plenitude**, **replete** (stuffed full), **plethora** (too full), and **complete**.",
+  "one_line": "Fill back up what has been used up.",
+  "root": "plēnus (full)",
+  "root_family": [
+    "plenty",
+    "plenary",
+    "plenitude",
+    "replete",
+    "plethora",
+    "complete",
+    "plenipotentiary"
+  ],
+  "confusables": [
+    "relinquish",
+    "replete",
+    "diminish"
+  ],
+  "sense_tags": [
+    "refilling",
+    "restoring",
+    "supply",
+    "renewal"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    23
+  ]
+}

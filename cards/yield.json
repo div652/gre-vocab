@@ -1,0 +1,37 @@
+{
+  "word": "yield",
+  "pos": "v. / n.",
+  "pron": "YEELD",
+  "pron_note": null,
+  "means": "**Verb, sense 1:** to *produce* or give forth as a return — a crop, a profit, a result. **Sense 2:** to *give way* — to surrender ground, position, or the right of way under pressure. **Noun:** the amount produced (a harvest's yield, a bond's yield).\n\nYielding is softer than surrendering. *Capitulate* and *submit* imply defeat; *yield* implies **give** — the thing bends rather than breaks, and often does so gracefully, reasonably, or tactically (\"I yield to my colleague\"). It can even be a courtesy rather than a loss. Note the two adjectives the GRE loves: **yielding** = pliant, soft, easily pressed; **unyielding** = rigid, inflexible, refusing an inch.",
+  "trap": null,
+  "trick_line": "Hidden inside **yield** is **field**: a field gives up its crop, a driver gives up the road.",
+  "trick_unpack": "Every sense is the same act of *giving over* — producing, conceding, bending — which is exactly why **unyielding** means \"won't give an inch.\"",
+  "sentences": [
+    "The negotiators, unyielding for three days, finally **yielded** on the question of tariffs.",
+    "Push the door hard — the latch sticks, but it'll **yield** eventually."
+  ],
+  "in_the_wild": "The red-and-white triangular **YIELD** sign at a junction: not \"stop,\" not \"go\" — *give way to whoever's already there.* That's the whole nuance of the word in one road sign.",
+  "etymology": "Old English **gieldan** = *\"to pay, repay\"* (cognate with German **Geld**, \"money\"). Payment is the thread through all three senses: a field pays you a crop, a bond pays you a **yield**, and a driver pays over the right of way.\n\nSame root gives you **guild** — originally a group bound by the dues its members paid in.",
+  "one_line": "To produce as a return; or to give way under pressure.",
+  "root": "gieldan (Old English: to pay, repay)",
+  "root_family": [
+    "guild",
+    "geld (tax)"
+  ],
+  "confusables": [
+    "wield"
+  ],
+  "sense_tags": [
+    "produce",
+    "surrender",
+    "give-way",
+    "return",
+    "pliant"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    25
+  ]
+}

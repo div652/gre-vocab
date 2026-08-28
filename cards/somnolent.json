@@ -3,39 +3,39 @@
   "pos": "adj.",
   "pron": "SOM-nuh-luhnt",
   "pron_note": null,
-  "means": "Two directions at once: **feeling drowsy**, and **causing drowsiness**. A somnolent student is nodding off; a somnolent lecture is what put him there.\n\nNot the same as *tired*, which implies exhaustion and effort. Somnolent is the thick, heavy, pleasant drowse — heat, a full stomach, a droning voice. It's a literary word, and it most often describes *atmospheres* rather than people: a somnolent village, a somnolent afternoon, where nothing has happened for a hundred years and nothing is about to.",
-  "trap": "⚠️ **somnolent ≠ indolent.**\n- **somnolent** = *sleepy* (can't stay awake)\n- **indolent** = *lazy* (won't be bothered)\n\nThe somnolent man wants to work but keeps drifting off; the indolent one is wide awake and simply isn't getting up.",
-  "trick_line": "**-olent** means *\"full of\"*: **red-olent** = full of smell, **vir-ulent** = full of poison, **somn-olent** = full of **sleep**.",
-  "trick_unpack": "Once you see the suffix as \"loaded with,\" the front half of the word tells you everything, and *somn-* is the sleep bit you already know from *insomnia*.",
+  "means": "Drowsy, half-asleep — or **making** you that way. It runs both directions: a **somnolent** student and the **somnolent** lecture that produced him.\n\nRegister is literary and atmospheric rather than clinical. *Sleepy* is a plain fact; *somnolent* is a mood laid over a whole scene — a hot afternoon, a dozing village, a courtroom after lunch. It also goes figurative for things that ought to be active but aren't: a **somnolent** market, a **somnolent** regulator. Milder and more pleasant than *torpid* or *lethargic*, which carry a whiff of failure; *somnolent* just carries heavy eyelids.",
+  "trap": null,
+  "trick_line": "**SOM-nuh-luhnt** — the word yawns: one stressed syllable, then two that mumble off into sleep.",
+  "trick_unpack": "Say it aloud and the trailing \"-nuh-luhnt\" does the drowsiness for you, which is exactly the slow, heavy-lidded mood the word describes.",
   "sentences": [
-    "The courtroom turned **somnolent** after lunch — even the stenographer's hands slowed.",
-    "Three hours of motorway and the hum of the engine had me **somnolent** at the wheel, so I pulled over for coffee."
+    "By three o'clock the courtroom had turned **somnolent**, the clerk's pen slowing to a crawl as counsel read the schedules aloud.",
+    "That documentary was so **somnolent** I was out cold before the opening credits finished."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **somnus** = *\"sleep.\"* The root is worth banking: **insomnia** (*in-* = not → no sleep), **somnambulist** (*+ ambulare*, to walk → sleepwalker), **somniferous** (*+ ferre*, to carry → sleep-bringing), and the old sleeping-pill brand **Sominex**.",
-  "one_line": "Sleepy and heavy-lidded — or the thing making you that way.",
+  "etymology": "Latin **somnus** = *\"sleep\"* — the Roman god **Somnus** himself. The root is everywhere once you see it: **insomnia** (*in-* = not, so: no sleep), **somnambulist** (sleep + *ambulare*, \"to walk\" — a sleepwalker), **somniferous** (sleep-bearing).\n\nSo **somnolent** is simply *\"full of sleep\"* — and if you know *insomnia*, you already knew the root.",
+  "one_line": "Drowsy, or making you drowsy.",
   "root": "somnus (sleep)",
   "root_family": [
     "insomnia",
+    "insomniac",
     "somnambulist",
     "somniferous",
-    "insomniac"
+    "somnolence"
   ],
   "confusables": [
-    "indolent",
     "somnambulant",
-    "redolent",
-    "insolent"
+    "soporific",
+    "indolent"
   ],
   "sense_tags": [
     "sleepy",
     "drowsy",
     "sluggish",
-    "sleep-inducing",
-    "torpid"
+    "inactive",
+    "atmospheric"
   ],
   "register": "literary",
-  "connotation": "neutral",
+  "connotation": "depends",
   "groups": [
     10
   ]

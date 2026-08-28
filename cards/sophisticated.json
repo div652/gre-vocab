@@ -1,0 +1,48 @@
+{
+  "word": "sophisticated",
+  "pos": "adj.",
+  "pron": "suh-FIS-ti-kay-tid",
+  "pron_note": null,
+  "means": "Two live senses. **Of people and taste:** worldly, cultivated, alert to fine distinctions — someone who has been around enough to stop being impressed easily. **Of things:** highly complex and advanced — *a sophisticated algorithm, a sophisticated attack, sophisticated instrumentation*.\n\nThe link between the two is **loss of simplicity**. Sophistication is never innate; it's acquired, layered on, worked up. That's why the word carries a faint chill — a *sophisticated* friend is more knowing than a *charming* one, and *sophisticated* machinery is admired for its intricacy, not its elegance. Praise the naturalness of something and you'd never reach for this word.",
+  "trap": "⚠️ **sophisticated ≠ sophistic** (also *sophistical*). *Sophistic* reasoning is subtle in the bad way — clever, plausible, and fallacious. A sophisticated argument is impressive; a sophistic one is a trick.",
+  "trick_line": "The opposite of **sophisticated** isn't *cheap* — it's **naive**.",
+  "trick_unpack": "Fix that antonym and both senses follow: a sophisticated person has lost their innocence, and a sophisticated system has lost its simplicity.",
+  "sentences": [
+    "Her prose is **sophisticated** to the point of coldness — every effect calculated, nothing left to accident.",
+    "It wasn't some kid guessing passwords; this was a **sophisticated** attack, months in the planning."
+  ],
+  "in_the_wild": "Every security breach report you've ever skimmed calls the hack **\"sophisticated\"** — which tells you the word means *elaborate and advanced*, not *classy*. Nobody thinks the malware had good taste.",
+  "etymology": "Greek **sophos** = *\"wise\"* → **sophistēs**, the *sophist*: a paid teacher of rhetoric whom Plato painted as a peddler of clever nonsense. Latin **sophisticatus** then meant **\"adulterated\"** — wine *sophisticated* with water was wine tampered with, not wine improved. That tampering sense is the ancestor of today's \"not simple, not natural.\"\n\nThe root pays out widely: **philosophy** (*philo-* love + *sophos* wise), **sophist**, **sophistry** (plausible false reasoning), and **sophomore** — literally *sophos* + *mōros* (fool), the **wise fool**, which is exactly why **sophomoric** means juvenile pseudo-cleverness.",
+  "one_line": "Worldly and refined, or elaborately complex — never simple.",
+  "root": "sophos (wise), via sophistēs (sophist) and Latin sophisticatus (adulterated)",
+  "root_family": [
+    "philosophy",
+    "philosopher",
+    "sophist",
+    "sophistry",
+    "sophistic",
+    "sophomore",
+    "sophomoric",
+    "sophisticate",
+    "theosophy"
+  ],
+  "confusables": [
+    "sophistic",
+    "sophistical",
+    "sophistry",
+    "sophomoric",
+    "sophisticate"
+  ],
+  "sense_tags": [
+    "refined",
+    "worldly",
+    "complex",
+    "advanced",
+    "urbane"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    15
+  ]
+}

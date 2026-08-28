@@ -1,0 +1,42 @@
+{
+  "word": "estimable",
+  "pos": "adj.",
+  "pron": "ES-tim-uh-buhl",
+  "pron_note": "Stress lands on the first syllable, not on -TIM-.",
+  "means": "Worthy of respect; deserving to be held in high regard.\n\nIt's cool-blooded praise. *Admirable* has warmth, *beloved* has affection, but **estimable** is the respect you grant someone on their merits — solid, creditable, worth taking seriously. Because it's formal and a touch old-fashioned, it very often arrives with a raised eyebrow: \"my estimable colleague\" in a debate almost always means the speaker is about to disagree with him. Praise held at arm's length.",
+  "trap": "**estimable ≠ inestimable — they are not opposites.**\n- **estimable** = worthy of respect\n- **inestimable** = too great to be measured (*inestimable value*, *inestimable loss*)\n\nThe *in-* negates the \"can be counted\" sense, not the \"worthy\" one — so *inestimable* is the bigger compliment, not the insult.",
+  "trick_line": "**Estim-able = esteem-able.** Able to be esteemed — but esteem is measured out, never gushed.",
+  "trick_unpack": "The *-able* suffix tells you it's a rating someone has earned, which is why the word sounds like a formal appraisal rather than genuine affection.",
+  "sentences": [
+    "The committee was chaired by an **estimable** jurist whose opinions no one dared summarise carelessly.",
+    "He's an **estimable** guy — I'd trust him with the accounts, I just wouldn't want to be stuck at dinner with him."
+  ],
+  "in_the_wild": "Courtroom and parliamentary boilerplate: **\"my estimable colleague\"** — a phrase that has never once been followed by agreement.",
+  "etymology": "Latin **aestimāre** = *\"to value, to put a price on.\"* The whole family is one act of appraisal: **estimate** (put a number on it), **esteem** (put a value on a person), **estimable** (worth valuing), **inestimable** (off the scale).",
+  "one_line": "Worthy of respect; deserving esteem, formally granted.",
+  "root": "aestimāre (to value, to appraise)",
+  "root_family": [
+    "esteem",
+    "estimate",
+    "inestimable",
+    "estimation"
+  ],
+  "confusables": [
+    "inestimable",
+    "esteemed",
+    "estimate",
+    "inimitable"
+  ],
+  "sense_tags": [
+    "respect",
+    "admirable",
+    "worthy",
+    "formal-praise",
+    "creditable"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    27
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "condone",
+  "pos": "v.",
+  "pron": "kuhn-DOHN",
+  "pron_note": null,
+  "means": "To **accept or overlook something wrong** — to let an offence pass without protest or punishment.\n\nYou can only condone what you already consider bad; condoning a kindness is nonsense. And it stops short of approval: to condone is to *not object*, to look away, to tolerate. That's why it lives overwhelmingly in the negative — *\"I do not condone this\"* — where the speaker is drawing a line between themselves and someone else's conduct. Silence from someone with the power to act is the classic way of condoning.",
+  "trap": "⚠️ **condone ≠ condemn.** Near-identical openings, opposite verdicts: **condone** = let it slide; **condemn** = denounce it. If a sentence sounds harsh, the word is *condemn*.",
+  "trick_line": "**con-DONE** — you treat the wrongdoing as **done**, over with, not worth raising.",
+  "trick_unpack": "The hidden word *done* carries the nuance exactly: not \"well done,\" just done — let it pass.",
+  "sentences": [
+    "The tribunal held that a government which fails to prosecute such abuses effectively **condones** them.",
+    "Look, I'm not saying I **condone** what he did — I just don't think he should lose his job over it."
+  ],
+  "in_the_wild": "The boilerplate of every corporate statement and celebrity apology: *\"We do not condone this behaviour.\"* It's the phrase institutions reach for when they need to be seen not-looking-away.",
+  "etymology": "Latin **condōnāre** = *\"to give away, remit, forgive\"* — *con-* (thoroughly) + **dōnāre** (to give). You forgive a debt by *giving it up*.\n\nSame *dōnāre* gives **donate, donor, donation**, and **pardon** (*per-* + *dōnāre*, \"to give thoroughly\").\n\n🚫 **Condemn** is unrelated: *con-* + **damnāre**, \"to inflict loss on\" — the root of *damn, damnation, indemnity*.",
+  "one_line": "To overlook or tacitly accept something you know is wrong.",
+  "root": "dōnāre (to give)",
+  "root_family": [
+    "donate",
+    "donor",
+    "donation",
+    "pardon"
+  ],
+  "confusables": [
+    "condemn",
+    "condole",
+    "condescend"
+  ],
+  "sense_tags": [
+    "tolerating",
+    "overlooking",
+    "tacit-approval",
+    "forgiving",
+    "permissiveness"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

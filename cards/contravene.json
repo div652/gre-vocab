@@ -1,0 +1,49 @@
+{
+  "word": "contravene",
+  "pos": "v.",
+  "pron": "kon-truh-VEEN",
+  "pron_note": null,
+  "means": "**To act in violation of** a law, rule, treaty or regulation. In a second, more abstract sense: to conflict with or contradict a principle, claim or finding.\n\nThis is the vocabulary of compliance, and it wants a *written* object. You break a promise and you betray a friend, but you **contravene Article 5**. The tone is cool and procedural — no anger in it — because the offence is against the text, and what follows is a penalty, not a scolding.",
+  "trap": "⚠️ **contravene ≠ circumvent.**\n- **contravene** = *break* the rule head-on\n- **circumvent** = *get around* the rule without technically breaking it\n\nThe bank that lends to a sanctioned firm contravenes the sanctions; the bank that routes the money through a shell company circumvents them.",
+  "trick_line": "**Contra**vene needs a **contract** — you can only contravene something someone wrote down.",
+  "trick_unpack": "If the thing being broken isn't a clause, code, statute or treaty, the word is wrong.",
+  "sentences": [
+    "The tribunal held that the deportations **contravened** the state's obligations under the refugee convention.",
+    "Pretty sure hanging a TV on that wall **contravenes** about four clauses of my lease."
+  ],
+  "in_the_wild": "A newsroom stock phrase: **\"contravenes the Geneva Conventions.\"** When a broadcaster reaches for *contravene* instead of *breaks*, it's signalling that a formal legal instrument — not a moral one — has been violated.",
+  "etymology": "Latin **contra** (*against*) + **venīre** (*to come*) — literally *\"to come against.\"*\n\n**venīre** is a high-yield GRE root: **intervene** (come between), **convene** (come together), **prevent** (come before), **circumvent** (come around), **advent** (a coming), **venue** (the place you come to).",
+  "one_line": "To break or act against a law, rule, or treaty.",
+  "root": "venīre (to come) + contra (against)",
+  "root_family": [
+    "intervene",
+    "convene",
+    "circumvent",
+    "prevent",
+    "advent",
+    "venue",
+    "revenue",
+    "adventure",
+    "contraband",
+    "contradict"
+  ],
+  "confusables": [
+    "circumvent",
+    "countermand",
+    "contravention",
+    "convene",
+    "contrive"
+  ],
+  "sense_tags": [
+    "violate",
+    "rules-and-law",
+    "oppose",
+    "contradict",
+    "non-compliance"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

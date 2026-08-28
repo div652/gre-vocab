@@ -1,0 +1,40 @@
+{
+  "word": "inveterate",
+  "pos": "adj.",
+  "pron": "in-VET-uh-ruht",
+  "pron_note": null,
+  "means": "Fixed in a habit by long practice — doing something so persistently, for so long, that it has hardened into character. An **inveterate** gambler, liar, meddler, tea-drinker.\n\nTwo things set it apart from *habitual*. First, **time**: the habit has to be old, not just frequent. Second, **tone**: *habitual* is clinical, *chronic* belongs to disease, but *inveterate* is faintly amused — it's the word a profile writer uses for a charming vice. It can also attach to the habit itself rather than the person (*inveterate hostility*, *an inveterate prejudice*), and there it turns cold: too old to be argued away.",
+  "trap": "⚠️ **inveterate ≠ invertebrate.** One letter's difference in the eye, none in a hurried read — *invertebrate* is spineless (jellyfish, or a cowardly official). An inveterate coward has been one for decades; an invertebrate one simply has no backbone.",
+  "trick_line": "**in-VETERAN-ate** — an inveterate liar is a *veteran* liar: years of service, decorated in the field.",
+  "trick_unpack": "The word literally hides *veteran*, and both come from Latin *vetus*, \"old\" — the habit has seniority.",
+  "sentences": [
+    "Forty years on the bench had not softened his **inveterate** distrust of expert witnesses.",
+    "He's an **inveterate** snoozer — nine alarms, and he still rolls in at ten past."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **vetus, veteris** = *\"old\"* → *inveterātus*, \"made old, grown chronic.\"\n\nSame root gives you **veteran** (an old hand) and **veterinary** (originally the medicine of *veterīnae*, old working beasts). If you can see *veteran* inside it, you have the meaning: aged into the job.",
+  "one_line": "Fixed in a long-standing habit; ingrained by years of practice.",
+  "root": "vetus, veteris (old)",
+  "root_family": [
+    "veteran",
+    "veterinary",
+    "inveteracy"
+  ],
+  "confusables": [
+    "invertebrate",
+    "inveigle",
+    "invective"
+  ],
+  "sense_tags": [
+    "habitual",
+    "ingrained",
+    "long-standing",
+    "persistent",
+    "chronic"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    17
+  ]
+}

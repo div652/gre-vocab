@@ -1,0 +1,43 @@
+{
+  "word": "contemporary",
+  "pos": "adj. / n.",
+  "pron": "kuhn-TEM-puh-rer-ee",
+  "pron_note": null,
+  "means": "**Adj.:** (1) belonging to the **same time** as something else; (2) belonging to **the present** — modern, current.\n**Noun:** a person living at the same time as another — *Leibniz was a contemporary of Newton*.\n\nSense (1) is the one the GRE tests, and it's relational: contemporary *with* or *of* something. So \"**contemporary accounts** of the battle\" means written by people who were there — not written by modern historians. When the word stands alone with no comparison point (\"contemporary art\", \"contemporary dance\"), the era it matches is *ours*. Same word, two clocks: it always means \"of that time,\" and context decides which time.",
+  "trap": "⚠️ **contemporary ≠ contemporaneous.** *Contemporaneous* only ever means \"happening at the same time,\" usually of events or documents (*contemporaneous notes*) — it can never mean \"modern.\" Anything described as contemporaneous is being dated, not praised as current.",
+  "trick_line": "**Contemporary** hides **tempo** — two things keeping the *same tempo* are running on the same clock.",
+  "trick_unpack": "The buried *tempo* pulls you to the \"same era as\" sense rather than the lazy \"modern\" reading.",
+  "sentences": [
+    "Scholars prize the diary because it is **contemporary** with the siege itself, not a reconstruction written forty years later.",
+    "My gran and Elvis were **contemporaries**, which she brings up roughly once a week."
+  ],
+  "in_the_wild": "A **Museum of Contemporary Art** shows work by artists who are alive now — the label is a date range, not a style.",
+  "etymology": "Latin **con-** (*together*) + **tempus, temporis** (*time*) — literally \"sharing a time.\"\n\nThat root pays off everywhere: **temporary** (lasting a short time), **temporal** (of time, or of the worldly world as opposed to the eternal), **tempo**, **extempore** (out of the moment, unprepared), **temporize** (stall for time).",
+  "one_line": "Of the same era as; or belonging to the present day.",
+  "root": "tempus, temporis (time)",
+  "root_family": [
+    "temporary",
+    "temporal",
+    "tempo",
+    "extempore",
+    "temporize",
+    "contemporaneous"
+  ],
+  "confusables": [
+    "contemporaneous",
+    "temporary",
+    "temporal"
+  ],
+  "sense_tags": [
+    "same-era",
+    "simultaneous",
+    "modern",
+    "present-day",
+    "time"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    33
+  ]
+}

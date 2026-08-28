@@ -2,40 +2,40 @@
   "word": "reticent",
   "pos": "adj.",
   "pron": "RET-uh-suhnt",
-  "pron_note": "Noun form: reticence, RET-uh-suhns.",
-  "means": "Unwilling to speak freely; holding back what you think or know.\n\nThe restraint is specifically **verbal**. A reticent witness answers in three words and stops. Unlike *shy*, it implies nothing about nerves — a reticent person may be perfectly confident and simply choosing not to say. Unlike *secretive*, it carries no suspicion of a hidden agenda; it reads as reserve, discretion, even dignity. And unlike *taciturn*, which is a permanent temperament, reticence is usually **about a particular subject**: reticent *about* his war years, *on* the question of money.",
-  "trap": "⚠️ **reticent ≠ reluctant.**\n- **reticent** = holding back your **words**\n- **reluctant** = holding back your **agreement or action**\n\n\"He was reticent to sign\" is a very common misuse — he was *reluctant* to sign, and reticent *about why*.",
-  "trick_line": "**A reticent person won't give you their two cents.**",
-  "trick_unpack": "The idiom is about *offering an opinion*, which pins the word to speech rather than to action — the reluctant person won't do it, the reticent one won't discuss it.",
+  "pron_note": null,
+  "means": "Unwilling to speak freely — holding back what you could say, especially about your own feelings, plans, or affairs. (Noun: **reticence**.)\n\nShyness is temperament; reticence is a **decision**. A shy person can't get the words out; a reticent one has them and keeps them. It's also narrower than *taciturn*, which means habitually short on words in general — reticence usually attaches to a **subject**: reticent *about* his finances, *about* her first marriage. Which way it reads depends on the scene: on a diplomat it's discretion, on a witness it's evasion.",
+  "trap": "**reticent ≠ reluctant.** *Reticent* is about **speech** (won't say); *reluctant* is about **action** (won't do). \"Reticent to sign the contract\" is the mistake — that's *reluctant*. If nobody's talking, it's reticent.",
+  "trick_line": "reti**CENT** — he won't give you his two cents.",
+  "trick_unpack": "He has the opinion; he just isn't handing it over — which is holding back, not being tongue-tied.",
   "sentences": [
-    "The minister remained **reticent** on the terms of the settlement, deflecting every question to a prepared statement.",
-    "He's fine talking about work, but ask about the breakup and he goes completely **reticent**."
+    "Ordinarily expansive about his research, he grew notably **reticent** whenever the funding source came up.",
+    "Mum's weirdly **reticent** about how she met Dad — thirty years and we've never got the story."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **reticēre** = *\"to keep silent\"* — *re-* (back) + **tacēre** (to be silent).\n\nThat *tacēre* is worth banking: **tacit** (understood without being said), **taciturn** (habitually silent), **tacitly**. One root, four GRE words, all about the unspoken.",
-  "one_line": "Unwilling to speak freely; reserved about what he says.",
+  "etymology": "Latin **reticēre** = *\"to keep silent\"* — *re-* (back) + **tacēre** (to be silent). That root pays off across the exam: **tacit** (understood without being said), **taciturn** (habitually silent), **tacitly**.",
+  "one_line": "Holding back what you could say, especially about yourself.",
   "root": "tacēre (to be silent)",
   "root_family": [
     "tacit",
     "taciturn",
-    "taciturnity",
     "tacitly",
     "reticence"
   ],
   "confusables": [
     "reluctant",
-    "recalcitrant",
-    "reverent"
+    "reticence",
+    "recent",
+    "resistant"
   ],
   "sense_tags": [
     "silent",
     "reserved",
-    "uncommunicative",
-    "restrained",
-    "discreet"
+    "withholding",
+    "discreet",
+    "guarded"
   ],
   "register": "formal",
-  "connotation": "neutral",
+  "connotation": "depends",
   "groups": [
     14
   ]

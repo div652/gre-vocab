@@ -1,0 +1,42 @@
+{
+  "word": "abstruse",
+  "pos": "adj.",
+  "pron": "ab-STROOS",
+  "pron_note": "Rhymes with loose, not with lose.",
+  "means": "Hard to understand because the subject matter is deep, technical, or specialised — the kind of thing you can't follow without the right training.\n\n*Obscure* just means little-known; **abstruse** means the difficulty is in the content itself. A footnote on medieval tax law is obscure; a proof in category theory is abstruse. It nearly always carries a faint complaint — the speaker suspects the difficulty could have been avoided, that the writer went abstruse when plain would have done.",
+  "trap": "**abstruse ≠ obtuse.** *Abstruse* describes the **material** (too deep to follow); *obtuse* describes the **person** (too dull to follow it). \"An abstruse lecture\" is a compliment to the topic; \"an obtuse student\" is an insult.",
+  "trick_line": "**Abstruse** = a **recluse** of an idea — it lives shut away where only specialists visit.",
+  "trick_unpack": "The rhyme fixes both the sound (-*STROOS* / -*CLOOS*) and the nuance: the meaning isn't lost, it's holed up behind jargon.",
+  "sentences": [
+    "His later papers grew so **abstruse** that even colleagues in the field read them with a pencil in hand.",
+    "Skip chapter four — it gets **abstruse** fast and you don't need any of it for the exam."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **abs-** (*away*) + **trūdere** (*to thrust, push*) — literally *pushed out of sight*, hidden away.\n\nThat verb is quietly everywhere: **intrude** (thrust in), **protrude** (thrust forward), **extrude** (thrust out), **obtrude** (thrust in someone's face) — and **unobtrusive**, which doesn't push itself on you at all.",
+  "one_line": "Deep and hard to grasp without specialist knowledge.",
+  "root": "trūdere, trūsus (to thrust, push)",
+  "root_family": [
+    "intrude",
+    "protrude",
+    "extrude",
+    "obtrude",
+    "unobtrusive"
+  ],
+  "confusables": [
+    "obtuse",
+    "abstract",
+    "abstemious"
+  ],
+  "sense_tags": [
+    "obscure",
+    "difficult",
+    "esoteric",
+    "technical",
+    "incomprehensible"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    32
+  ]
+}

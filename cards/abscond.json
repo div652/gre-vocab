@@ -1,0 +1,38 @@
+{
+  "word": "abscond",
+  "pos": "v.",
+  "pron": "ab-SKOND",
+  "pron_note": null,
+  "means": "To **leave secretly and in a hurry** — typically to dodge arrest, and typically with money or property that isn't yours.\n\nThis isn't plain fleeing. *Flee* can be innocent (people flee fires); *abscond* presumes guilt. The word carries a whiff of the courtroom and the ledger: bail is skipped, a treasurer vanishes, a trustee disappears with the fund. It also usually takes **with** — you abscond *with* something. Someone who merely runs away has escaped; someone who absconds has escaped **and taken the cash**.",
+  "trap": null,
+  "trick_line": "**ABS**ent + **CON** — the con man goes absent, and so does the money.",
+  "trick_unpack": "The two syllables hand you both halves of the meaning: the disappearance and the crime behind it.",
+  "sentences": [
+    "The firm's treasurer **absconded** to a jurisdiction with no extradition treaty, taking eleven years of client deposits with him.",
+    "My flatmate **absconded** with the deposit and left me to explain it to the landlord."
+  ],
+  "in_the_wild": "It's live legal vocabulary, not just exam vocabulary: parole boards and bail courts formally class someone who skips supervision as an **absconder**, and that's the word that shows up in the news when a fraudster boards a flight.",
+  "etymology": "Latin **abscondere** = *ab-* (away) + *condere* (to stow, to hide) — literally *to stash yourself away*.\n\nSame *condere* gives **recondite**, \"hidden away, obscure\" — the knowledge equivalent of absconding.",
+  "one_line": "To flee secretly, usually with stolen money.",
+  "root": "abscondere (to stow away, hide) — ab- + condere",
+  "root_family": [
+    "recondite",
+    "sconce (candle-holder, via 'hidden' lantern)"
+  ],
+  "confusables": [
+    "absolve",
+    "abstain",
+    "abduct"
+  ],
+  "sense_tags": [
+    "fleeing",
+    "secrecy",
+    "evading-justice",
+    "theft"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    29
+  ]
+}

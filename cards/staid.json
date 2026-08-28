@@ -1,0 +1,45 @@
+{
+  "word": "staid",
+  "pos": "adj.",
+  "pron": "STAYD",
+  "pron_note": "One syllable, identical in sound to stayed.",
+  "means": "Settled, sober, conventional — respectable in a way that has stopped being interesting.\n\nThe word rarely praises. Calling a man **dignified** admires him; calling him **staid** says he owns three grey suits and has never surprised anyone. It's a gentle, well-mannered put-down, and it attaches especially well to institutions — old banks, country clubs, provincial towns — where the dullness is a matter of policy rather than personality.",
+  "trap": "**staid ≠ stolid.** *Staid* = sedate and conventional (about **habits and manner**). *Stolid* = impassive, unmoved (about **feeling**). A staid banker follows the rules; a stolid one doesn't flinch when the market crashes.",
+  "trick_line": "**Staid** is just **stayed** — it stayed home, stayed put, stayed the same.",
+  "trick_unpack": "The homophone is the whole word: staid people never went anywhere, literally or otherwise.",
+  "sentences": [
+    "The firm's staid oak-panelled offices had not admitted a new idea since 1954.",
+    "His parents are pretty staid — don't expect anyone to be doing shots at the wedding."
+  ],
+  "in_the_wild": "Business journalism runs on this word: every fintech story opens with a startup shaking up \"the staid world of banking.\" If you've read a tech-versus-incumbent article, you've met it.",
+  "etymology": "**Staid is an old past participle of *stay*** — the way *laid* comes from *lay*. Something staid has been *stayed*: held in place, fixed, unmoving.\n\n*Stay* itself traces to Latin **stāre**, \"to stand,\" which hands you **stable, static, status, constant, stance** — a whole family built on not moving.",
+  "one_line": "Sedate and conventional to the point of dullness.",
+  "root": "stāre (to stand), via stay",
+  "root_family": [
+    "stay",
+    "stable",
+    "static",
+    "status",
+    "constant",
+    "stance",
+    "stationary"
+  ],
+  "confusables": [
+    "stayed",
+    "stolid",
+    "sedate",
+    "said"
+  ],
+  "sense_tags": [
+    "sedate",
+    "conventional",
+    "sober",
+    "unadventurous",
+    "dull"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    35
+  ]
+}

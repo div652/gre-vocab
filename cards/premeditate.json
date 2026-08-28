@@ -1,0 +1,42 @@
+{
+  "word": "premeditate",
+  "pos": "v.",
+  "pron": "pree-MED-i-tayt",
+  "pron_note": null,
+  "means": "To think out or plan an act **in advance**, before carrying it out.\n\nTechnically the word is neutral — you could premeditate a proposal. In practice almost nobody does. *Premeditate* has been colonised by the courtroom: it turns up attached to murders, attacks, frauds, and betrayals, and its whole function there is to **make the act worse**. A crime of passion is impulsive; a premeditated one was rehearsed in the mind first, and that forethought is exactly what raises the sentence. So when you use it of something innocent (\"a premeditated compliment\"), it reads as arch or faintly sinister — the word drags its criminal baggage along.",
+  "trap": null,
+  "trick_line": "**Pre + meditate** — he *meditated* on it beforehand. Nobody asks whether you meditated first unless the deed was ugly.",
+  "trick_unpack": "The word is literally \"thinking ahead,\" but the only time anyone bothers to point that out is when the thinking ahead is evidence against you.",
+  "sentences": [
+    "The prosecution argued that the purchase of the rope a week earlier proved the killing was **premeditated**, not a sudden loss of control.",
+    "That wasn't a slip of the tongue — she'd **premeditated** every word of that toast."
+  ],
+  "in_the_wild": "Every courtroom drama hinges on it: **premeditated murder** is what makes a killing *first-degree* rather than manslaughter. The whole plot is usually one question — did he think about it beforehand?",
+  "etymology": "Latin **prae-** (*before*) + **meditārī** (*to ponder, turn over in the mind*) — so, literally, to meditate in advance.\n\n*Meditārī* traces to a root meaning **\"to take appropriate measures,\"** which also gives you **medicine, remedy, moderate, modest** — the family of weighing things carefully before acting.",
+  "one_line": "To plan an act — usually a wrongful one — in advance.",
+  "root": "prae- (before) + meditārī (to ponder)",
+  "root_family": [
+    "meditate",
+    "meditation",
+    "premeditation",
+    "moderate",
+    "modest",
+    "remedy",
+    "medicine"
+  ],
+  "confusables": [
+    "meditate",
+    "predetermine"
+  ],
+  "sense_tags": [
+    "planning",
+    "forethought",
+    "deliberate",
+    "criminal-intent"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    16
+  ]
+}

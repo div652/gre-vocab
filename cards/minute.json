@@ -1,0 +1,47 @@
+{
+  "word": "minute",
+  "pos": "adj.",
+  "pron": "my-NOOT",
+  "pron_note": "Also my-NYOOT. The 60-seconds noun is MIN-it — same spelling, different stress, different word. On the GRE, assume the my-NOOT one.",
+  "means": "**1.** Exceedingly small — small to the point of being hard to detect. **2.** Of an examination or account: **going into the tiniest particulars**; painstakingly detailed.\n\n*Tiny* is casual and *minuscule* just insists on smallness, but *minute* implies an **observer straining to see** — it's the word for cracks, traces, discrepancies, quantities under a microscope. That's why it slides so naturally into sense 2: if you're noticing things that small, you're being exhaustively thorough. \"A minute inspection\" isn't a short one — it's one that missed nothing.",
+  "trap": null,
+  "trick_line": "**my-NEWT** — small as a newt, and you'd need a close look to spot one.",
+  "trick_unpack": "The correct pronunciation hands you the meaning: newt-sized, and only visible to someone actually looking hard.",
+  "sentences": [
+    "Forensic analysis turned up **minute** traces of accelerant on the doorframe, invisible to the naked eye.",
+    "He gave me a **minute** account of his flight delay — every gate change, in order."
+  ],
+  "in_the_wild": "The **minutes** of a meeting are the same word: medieval Latin *minuta scriptura*, \"small writing\" — the record of the small details. Take the minutes (MIN-its) by writing down the minute (my-NOOT) points.",
+  "etymology": "Latin **minuere** = *\"to lessen\"*, past participle **minutus** = *\"made small.\"* That root is a GRE goldmine: **minus, minor, diminish, diminutive, minutiae, minimal, mince** (to cut small).\n\nThe clock word comes from the same place — *pars minuta prima*, the \"first small part\" of an hour. The second is *pars minuta secunda*, the second small part.",
+  "one_line": "Extremely small; or so detailed it misses nothing.",
+  "root": "minuere (to lessen), minutus (made small)",
+  "root_family": [
+    "minus",
+    "minor",
+    "diminish",
+    "diminutive",
+    "minutiae",
+    "minimal",
+    "minimize",
+    "mince",
+    "minuscule"
+  ],
+  "confusables": [
+    "minuscule",
+    "minutiae",
+    "diminutive",
+    "minute (MIN-it, the time unit)"
+  ],
+  "sense_tags": [
+    "tiny",
+    "small",
+    "detailed",
+    "painstaking",
+    "precise"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    20
+  ]
+}

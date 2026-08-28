@@ -1,0 +1,45 @@
+{
+  "word": "occlude",
+  "pos": "v.",
+  "pron": "uh-KLOOD",
+  "pron_note": null,
+  "means": "To **block or close off a passage or opening** — or to **cut off from view** by getting in the way.\n\nThis is a physical, clinical word. Arteries occlude, sinuses occlude, a cloud occludes the sun, a pillar occludes your view of the stage. Where *block* is plain and *obstruct* suggests something lodged in the way, **occlude** is what a doctor, an engineer, or a computer-vision paper says — and it leans toward the passage being *sealed shut* rather than merely narrowed. You cannot occlude a plan or a proposal; only a channel or a line of sight.",
+  "trap": "⚠️ **occlude ≠ preclude.**\n- **occlude** = *physically shut* a passage (a clot occludes the artery)\n- **preclude** = *rule out in advance* (the clot precludes surgery)\n\nOne shuts a pipe; the other shuts a possibility.",
+  "trick_line": "Every **-clude** word is a door: *ex*clude shuts you out, *in*clude shuts you in, **oc**clude shuts the *pipe*.",
+  "trick_unpack": "The *oc-* is Latin *ob-*, \"in the way,\" so occlude is the door slammed across a channel.",
+  "sentences": [
+    "Fatty deposits had **occluded** the coronary artery almost entirely, leaving a channel barely wide enough for blood to pass.",
+    "Can you shift left? Your head's **occluding** half the whiteboard on the call."
+  ],
+  "in_the_wild": "Standard hospital phrasing you'll hear on any medical drama or in a real cardiology report: *\"a fully **occluded** artery.\"* If you've ever had a dentist check your **occlusion**, that's the same word — how your teeth shut against each other.",
+  "etymology": "Latin **ob-** (*\"in the way\"*) + **claudere** (*\"to shut\"*) — the same *claudere* that gives you **close**, **exclude**, **include**, **seclude**, **preclude**, **recluse**, and **cloister**. Learn the root once and you own the set: whatever the prefix does, *-clude* means a door is shutting.",
+  "one_line": "To block or seal off a passage, or hide from view.",
+  "root": "claudere (to shut)",
+  "root_family": [
+    "close",
+    "exclude",
+    "include",
+    "seclude",
+    "preclude",
+    "recluse",
+    "cloister",
+    "conclude"
+  ],
+  "confusables": [
+    "preclude",
+    "exclude",
+    "seclude",
+    "occult"
+  ],
+  "sense_tags": [
+    "blocking",
+    "obstruction",
+    "concealment",
+    "closure"
+  ],
+  "register": "technical",
+  "connotation": "neutral",
+  "groups": [
+    32
+  ]
+}

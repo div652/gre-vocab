@@ -1,26 +1,26 @@
 {
   "word": "haphazard",
-  "pos": "adj.",
+  "pos": "adj. / adv.",
   "pron": "hap-HAZ-erd",
   "pron_note": null,
-  "means": "Lacking any plan, order, or system — done however it happened to get done.\n\n*Random* is neutral and often technical (a random sample is a good thing). **Haphazard** is a complaint: it says nobody was steering. It doesn't accuse you of not caring, the way *careless* does — a haphazard filing system may have taken real effort; it just grew by accident instead of by design. The result is usually a mess: piles, gaps, things in the wrong order.",
-  "trap": "⚠️ **haphazard ≠ hazardous.** Despite the shared *hazard*, haphazard carries **no danger** — only disorder. A haphazard stack of books is untidy; a hazardous one is about to fall on you.",
-  "trick_line": "**Hap**hazard is whatever *happened* to happen — nobody planned it.",
-  "trick_unpack": "The hidden *hap* is the same *hap* in **happen**, **perhaps** and **mishap**: chance, not intention.",
+  "means": "Done with **no plan, order, or care** — thrown together and left to chance.\n\n*Random* is neutral and often technical: a random sample is a good thing. **Haphazard** always carries a shrug of disapproval — it says a human being *should* have organised this and didn't. Compare *arbitrary*, where someone did choose, just for no good reason; haphazard means nobody was really choosing at all. It's the standard polite word for criticising process: haphazard record-keeping, a haphazard search, books stacked haphazardly.",
+  "trap": "⚠️ **haphazard ≠ hazardous.** *Hazardous* = dangerous. *Haphazard* = disorganised. Haphazard wiring may well end up hazardous, but the word itself says nothing about risk — only about sloppiness.",
+  "trick_line": "**hap** + **hazard** — *per-haps* stacked on top of a dice game. Two words for luck, zero for planning.",
+  "trick_unpack": "Both halves mean \"chance,\" so the word is doubly unplanned — which is exactly the complaint it makes.",
   "sentences": [
-    "The archive had been assembled in **haphazard** fashion over a century, so a letter from 1840 might sit between two shipping invoices.",
-    "He packed in a **haphazard** rush — three chargers, no socks."
+    "The commission found record-keeping at the ministry to be **haphazard** at best, with entire years of correspondence unaccounted for.",
+    "He packed in a **haphazard** rush and arrived in Oslo with three chargers and no coat."
   ],
   "in_the_wild": null,
-  "etymology": "**hap** = *chance, luck* (Old Norse **happ**) + **hazard** = a medieval **dice game** (via Arabic *az-zahr*, \"the die\"). Chance stacked on chance.\n\nThat *hap* unlocks a family: **happen** (to fall by chance), **perhaps**, **mishap**, **hapless** (luckless), and even **happy** — which once meant *lucky*, not cheerful.",
-  "one_line": "Done with no plan or order; left to chance.",
-  "root": "hap (chance, luck) + hazard (dice game)",
+  "etymology": "Old Norse **happ** = *\"luck, chance\"* — and it pays out across the language: **happen** (what luck brings), **happy** (originally *lucky*), **hapless** (luck-less), **mishap**, **perhaps**.\n\n**Hazard** came from Arabic **az-zahr**, *\"the dice,\"* via Old French as the name of a dice game — chance again, and only later \"danger.\"",
+  "one_line": "Done with no plan or care; thrown together at random.",
+  "root": "hap (Old Norse happ, \"luck, chance\")",
   "root_family": [
     "happen",
-    "perhaps",
-    "mishap",
-    "hapless",
     "happy",
+    "hapless",
+    "mishap",
+    "perhaps",
     "happenstance"
   ],
   "confusables": [
@@ -29,10 +29,11 @@
     "haphazardly"
   ],
   "sense_tags": [
-    "disorderly",
-    "unplanned",
+    "disorganised",
     "random",
-    "unsystematic"
+    "careless",
+    "unplanned",
+    "slapdash"
   ],
   "register": "neutral",
   "connotation": "negative",

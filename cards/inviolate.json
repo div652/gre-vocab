@@ -1,0 +1,42 @@
+{
+  "word": "inviolate",
+  "pos": "adj.",
+  "pron": "in-VEYE-uh-luht",
+  "pron_note": "The middle is \"VEYE\", as in violate — not \"vee\".",
+  "means": "Free from injury, breach, or desecration — **kept whole and untouched**, usually because something sacred or solemn protects it.\n\nThis is not the same as *intact*, which is merely physical and neutral. An **inviolate** thing has survived untouched because touching it was *forbidden*: a vow, a sanctuary, a border, a secret, a right. The word carries reverence — the speaker approves of the thing being untouched. It's high-register and slightly ceremonial; you meet it in constitutions, treaties, and elegies far more than in speech.",
+  "trap": "**inviolate vs. inviolable.**\n- **inviolate** = *has not been* violated (a fact about the present state)\n- **inviolable** = *cannot or must not be* violated (a claim about its protection)\n\nA treaty can be **inviolable** in principle and still not remain **inviolate** in practice.",
+  "trick_line": "**-ate** tells you the st**ate** it's in; **-able** tells you what it's **able** to withstand.",
+  "trick_unpack": "The suffix does all the work — *inviolate* reports that nothing has touched it, *inviolable* insists that nothing may.",
+  "sentences": [
+    "For forty years the monastery library remained **inviolate**, its manuscripts unread by any hand outside the order.",
+    "We had one **inviolate** rule in that house: nobody talks about work at the dinner table."
+  ],
+  "in_the_wild": "Legal boilerplate you can find in a great many American state constitutions: *\"the right of trial by jury shall remain **inviolate**.\"* Whenever a right is described as untouchable, this is the word the drafters reach for.",
+  "etymology": "Latin **violāre** = *\"to treat with force, to dishonour,\"* from **vis** = *\"force.\"* Add the negative *in-* and you get *\"not forced open.\"* Same root: **violate, violence, violent, violation, inviolable**.\n\n🚫 **Not *violet*.** The flower is Latin *viola*, an unrelated word — pure spelling coincidence.",
+  "one_line": "Untouched and unbroken, because breaking it was forbidden.",
+  "root": "violāre (to treat with force, violate), from vis (force)",
+  "root_family": [
+    "violate",
+    "violence",
+    "violent",
+    "violation",
+    "inviolable"
+  ],
+  "confusables": [
+    "inviolable",
+    "inveterate",
+    "violet"
+  ],
+  "sense_tags": [
+    "sacred",
+    "untouched",
+    "intact",
+    "protected",
+    "unbroken"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    22
+  ]
+}

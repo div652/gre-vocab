@@ -1,0 +1,47 @@
+{
+  "word": "incidental",
+  "pos": "adj. / n.",
+  "pron": "in-si-DEN-tuhl",
+  "pron_note": null,
+  "means": "**Adj.:** occurring as a minor accompaniment to something more important; secondary, subordinate, beside the point.\n**Noun (usu. plural, *incidentals*):** the small extra costs attached to a main expense.\n\nThe key is *attachment*: an incidental thing genuinely belongs to the main event — it comes with it, arises from it — but it isn't what matters. Saying a detail is incidental is a quiet way of demoting it: not false, not irrelevant, just not worth the attention it's getting. Compare *trivial*, which dismisses a thing outright, and *peripheral*, which puts it at the edge; *incidental* keeps the thing firmly inside the picture and still says \"never mind that.\"",
+  "trap": "⚠️ **incidental ≠ accidental.**\n- **incidental** = *minor and attendant* — it came along with the main thing\n- **accidental** = *unintended* — nobody meant it to happen\n\nDamage can be accidental (no one meant it) or incidental (a side effect of doing the main job). \"Incidental contact\" in sport is contact that's part of the game; \"accidental contact\" is a mistake.",
+  "trick_line": "**Incidental** = a side ***incident***: it happens *with* the main event, not *to* it.",
+  "trick_unpack": "The word wears *incident* on its face, and that's the whole nuance — a small attached happening, not a mishap and not an irrelevance.",
+  "sentences": [
+    "The report treats the environmental damage as **incidental** to the project's real purpose, which is precisely the assumption the inquiry rejected.",
+    "Sure, I learned some Spanish on the trip, but that was **incidental** — I was there for the food.']"
+  ],
+  "in_the_wild": "Check into a hotel and they put a hold on your card **for incidentals** — the minibar, the parking, the room-service tray. Not the room you came for; the little things that ride along with it.",
+  "etymology": "Latin **incidere** = *\"to fall upon\"* (**in-** \"on\" + **cadere** \"to fall\") — an incidental thing *falls alongside* the main one.\n\n**cadere** is a workhorse root: **incident, coincide, cadence** (falling voice), **decadent** (fallen away), **cascade, cadaver** — and **accident**, something that simply *falls out* unplanned. Same falling, different angle: the accident falls by chance, the incidental falls in company.",
+  "one_line": "Minor and secondary; happening alongside the main thing.",
+  "root": "cadere (to fall)",
+  "root_family": [
+    "incident",
+    "coincide",
+    "coincidence",
+    "cadence",
+    "decadent",
+    "cascade",
+    "cadaver",
+    "accident",
+    "occident"
+  ],
+  "confusables": [
+    "accidental",
+    "coincidental",
+    "incident",
+    "inconsequential"
+  ],
+  "sense_tags": [
+    "minor",
+    "secondary",
+    "by-product",
+    "attendant",
+    "expenses"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    26
+  ]
+}

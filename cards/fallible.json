@@ -1,0 +1,46 @@
+{
+  "word": "fallible",
+  "pos": "adj.",
+  "pron": "FAL-uh-buhl",
+  "pron_note": null,
+  "means": "Capable of making mistakes; liable to be wrong.\n\nNote the *capable of* — **fallible** describes a standing capacity for error, not an error actually made. Calling a witness fallible doesn't say she lied; it says her memory is human equipment and human equipment slips. That's why the word usually arrives as a graceful concession — \"I'm fallible,\" \"juries are fallible,\" \"the test is fallible\" — a humane admission rather than an attack. Its real work is often done by its opposite: things are declared **infallible**, and *fallible* is what everything else quietly is.",
+  "trap": "⚠️ **fallible ≠ fallacious.**\n- **fallible** = the *thinker* can err (a person, a memory, a method)\n- **fallacious** = the *argument* does err (it contains a logical flaw)\n\nA fallible scientist may still reason soundly; a fallacious proof is already broken.",
+  "trick_line": "**Fall**ible = **able to fall** — not fallen, just never guaranteed to stay standing.",
+  "trick_unpack": "The hidden *fall* plus *-ible* (\"able to be\") gives you the exact force of the word: potential for error, not proof of it.",
+  "sentences": [
+    "Every constitution assumes that rulers are **fallible**, and builds the machinery to correct them.",
+    "Look, I'm **fallible** — I thought the meeting was Thursday."
+  ],
+  "in_the_wild": "**Papal infallibility** — the Catholic doctrine that the Pope cannot err when defining doctrine *ex cathedra*. It's the most famous claim of exemption from being fallible, which is precisely why the word sticks to it.",
+  "etymology": "Latin **fallere** = *\"to deceive, to trip up.\"* One root, a large family: **fallacy** (a deceiving argument), **false**, **fail**, **default**, **fault**, and **infallible**.\n\nUseful shade: the Latin is about *being deceived*, not merely being careless — a fallible mind is one that can be fooled.",
+  "one_line": "Capable of making mistakes; liable to err.",
+  "root": "fallere (to deceive, to trip up)",
+  "root_family": [
+    "fallacy",
+    "fallacious",
+    "false",
+    "fail",
+    "failure",
+    "default",
+    "fault",
+    "infallible"
+  ],
+  "confusables": [
+    "fallacious",
+    "fallacy",
+    "fallow",
+    "infallible",
+    "feeble"
+  ],
+  "sense_tags": [
+    "error-prone",
+    "imperfect",
+    "human-limitation",
+    "uncertainty"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    19
+  ]
+}

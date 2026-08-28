@@ -1,0 +1,44 @@
+{
+  "word": "euphemism",
+  "pos": "n.",
+  "pron": "YOO-fuh-miz-uhm",
+  "pron_note": "The adjective moves the stress: euphemistic = yoo-fuh-MIS-tik.",
+  "means": "A **mild, vague or roundabout word used in place of a blunt, harsh or taboo one** — *passed away* for *died*, *let go* for *fired*, *between jobs* for *unemployed*.\n\nTwo flavours, and the GRE cares which one you hear. At the kind end it's tact: you say *passed away* to spare a grieving person. At the other end it's laundering — *collateral damage*, *enhanced interrogation*, *rightsizing* — words chosen so nobody pictures what actually happened. Because of that second flavour, calling something \"a euphemism\" is usually a mild accusation: you're pointing out that the speaker picked the soft word deliberately. The opposite move has its own name — a **dysphemism** (*croaked*, *bean-counter*).",
+  "trap": null,
+  "trick_line": "**Eu-** is the *good* prefix — **eu**phoria, **eu**logy, **eu**phemism. A eulogy says only nice things about the dead; a euphemism says only nice things about the ugly.",
+  "trick_unpack": "Both words work by leaving the unflattering part out.",
+  "sentences": [
+    "The report never used the word *torture*, retreating instead into the **euphemism** \"enhanced interrogation.\"",
+    "\"Restructuring\" is just a **euphemism** for firing half the floor and hoping nobody says so."
+  ],
+  "in_the_wild": "Every flight safety briefing: \"in the unlikely event of a **water landing**.\" Nobody lands on water — that's a crash, wrapped in a soft word so 200 people stay calm.",
+  "etymology": "Greek **eu-** (*good, well*) + **phēmē** (*speech, saying*) = \"speaking well of.\"\n\nBoth halves pay off. **eu-** gives you *euphoria* (good feeling), *eulogy* (good words), *euphony* (good sound), *euthanasia* (good death). **phēmē** gives you **blasphemy** — *blas-* (evil) + *phēmē*, the exact mirror image: speaking ill of the sacred.",
+  "one_line": "A soft word swapped in for a blunt or ugly one.",
+  "root": "eu- (good) + phēmē (speech)",
+  "root_family": [
+    "euphoria",
+    "eulogy",
+    "euphony",
+    "euthanasia",
+    "eugenics",
+    "blasphemy",
+    "dysphemism"
+  ],
+  "confusables": [
+    "euphuism",
+    "euphony",
+    "dysphemism"
+  ],
+  "sense_tags": [
+    "indirect-language",
+    "softening",
+    "evasion",
+    "politeness",
+    "taboo"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    27
+  ]
+}

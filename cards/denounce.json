@@ -1,0 +1,43 @@
+{
+  "word": "denounce",
+  "pos": "v.",
+  "pron": "dih-NOWNS",
+  "pron_note": null,
+  "means": "To **condemn something publicly and openly** — to stand up and declare a person, act, or idea evil, false, or intolerable. Secondary sense: to **inform against** someone to the authorities (\"he was denounced to the police\").\n\nVolume is built into the word. You can *disapprove* privately and *criticise* mildly, but you cannot denounce quietly — it's a public act, aimed at an audience, and it puts the speaker's own reputation behind the charge. It also outranks *criticise* in heat: criticism finds fault, denunciation demands that others share the outrage.",
+  "trap": "⚠️ **denounce ≠ renounce.**\n- **denounce** = publicly attack *someone else's* wrongdoing\n- **renounce** = formally give up *something of your own* (a claim, a throne, a faith)\n\nA cardinal may denounce heresy; a king renounces the throne.",
+  "trick_line": "**De-NOUNCE = announce, turned against someone.**",
+  "trick_unpack": "Same *-nounce* as **announce**, so it's inherently a public broadcast — the *de-* just aims it downward at a target.",
+  "sentences": [
+    "In a speech to the assembly, she **denounced** the new statute as a licence for the powerful to rob the poor.",
+    "He went online and **denounced** the whole company by name, which felt great for about a day."
+  ],
+  "in_the_wild": "Orwell's *1984* runs on the second sense — children are trained to **denounce** their own parents to the Thought Police, and Parsons is turned in by his seven-year-old daughter.",
+  "etymology": "Latin **nuntiare** = *\"to announce\"* (from *nuntius*, a messenger), plus **de-** *\"down, against.\"*\n\nThe root is a GRE workhorse: **announce**, **pronounce**, **renounce**, **enunciate**, **nuncio** (the Pope's messenger-ambassador). Note the spelling shift in the noun — *denounce* → **denunciation**, where the Latin *nunti-* resurfaces.",
+  "one_line": "To condemn publicly and forcefully.",
+  "root": "nuntiare (to announce), from nuntius (messenger)",
+  "root_family": [
+    "announce",
+    "pronounce",
+    "renounce",
+    "enunciate",
+    "nuncio",
+    "denunciation"
+  ],
+  "confusables": [
+    "renounce",
+    "announce",
+    "denunciate",
+    "pronounce"
+  ],
+  "sense_tags": [
+    "condemning",
+    "public-accusation",
+    "criticism",
+    "informing"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

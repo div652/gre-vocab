@@ -1,0 +1,44 @@
+{
+  "word": "discount",
+  "pos": "v. / n.",
+  "pron": "dis-KOWNT",
+  "pron_note": "Verb: dis-KOWNT. Noun (the price cut): DIS-kownt.",
+  "means": "The GRE sense is not shopping. To **discount** a claim, a rumour, a witness, or a theory is to **treat it as less important than it appears** — to knock down the weight you give it.\n\nThe force of the word is *partial*. You aren't calling it false; you're marking it down. A historian discounts a chronicle because the author had an axe to grind — the chronicle still gets used, just cautiously. Compare the neighbours: *refute* kills a claim with argument, *dismiss* waves it away entirely, *discount* quietly reduces its value. It also carries a faint suggestion that the discounter may be **too quick** — \"he discounted her warning\" almost always ends badly.",
+  "trap": null,
+  "trick_line": "A shop discount takes money **off the price**; a mental discount takes credibility **off the claim**.",
+  "trick_unpack": "Same move either way — the thing is still there, just worth less than it was asking for.",
+  "sentences": [
+    "Later scholars **discounted** his memoir, noting that every page positioned him beside a great man at a decisive hour.",
+    "Yeah, I'd **discount** anything he says about the restaurant — his brother owns it."
+  ],
+  "in_the_wild": "Finance uses the word in exactly this sense: a **discounted** cash flow values money arriving in ten years at less than money arriving today, and when analysts say \"the market has already discounted the news,\" they mean it has been weighed and marked down, not ignored.",
+  "etymology": "Old French *desconter*, from Latin **dis-** (*away*) + **computare** (*to reckon, to count up*) — literally *to count away*, to subtract from the reckoning.\n\n*Computare* is a workhorse root: **compute**, **computer**, **count**, **recount**, **account**. Keep the literal image and the abstract sense falls out — discounting an argument is subtracting it from your total.",
+  "one_line": "To treat as less important; to mark down in credibility.",
+  "root": "computare (to reckon, count up) + dis- (away)",
+  "root_family": [
+    "compute",
+    "computer",
+    "count",
+    "recount",
+    "account",
+    "accountant",
+    "computation"
+  ],
+  "confusables": [
+    "discredit",
+    "decry",
+    "discant"
+  ],
+  "sense_tags": [
+    "dismiss",
+    "underestimate",
+    "disregard",
+    "deduct",
+    "downplay"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    18
+  ]
+}

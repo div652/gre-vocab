@@ -1,0 +1,44 @@
+{
+  "word": "indecorous",
+  "pos": "adj.",
+  "pron": "in-DEK-uh-ruhs",
+  "pron_note": "Stress on DEK, not on the third syllable — in-di-KOR-uhs is a common slip (though some dictionaries now list it).",
+  "means": "Not in keeping with good taste or propriety; **socially improper**, unbecoming, in breach of decorum.\n\nThe offence is against **manners, not morals**. An indecorous remark at a funeral is one that was too jolly, too loud, too familiar — nobody was harmed, the *occasion* was. The word also carries a whiff of the speaker's own primness: it's the vocabulary of etiquette columns, obituaries and disapproving aunts, so it often sounds gently arch rather than genuinely outraged.",
+  "trap": "**indecorous ≠ indecent.**\n- **indecorous** = bad *manners* — wrong for the occasion\n- **indecent** = bad *morals* — obscene, offensive\n\nDancing on the table at a wake is indecorous. Doing it without trousers is indecent.",
+  "trick_line": "**In-DECOR-ous** — your behaviour doesn't match the **decor**.",
+  "trick_unpack": "The word literally has *decor* sitting inside it: the room, the occasion, the dress code all set a tone, and you clashed with it.",
+  "sentences": [
+    "The ambassador's laughter during the minute's silence was widely reported as **indecorous**, though no one dared call it worse.",
+    "Texting your ex from the wedding reception is a bit **indecorous**, mate."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **decorus** = *\"seemly, fitting\"*, from **decēre**, *\"to be becoming.\"* One root, a whole cluster: **decorum** (the standard you breached), **decor** (what suits a room), **decorate**, **decorous** — and **decent**, which started life meaning *\"appropriate\"* before it drifted toward morality. That drift is exactly why *indecorous* and *indecent* now part company.",
+  "one_line": "Improper — a breach of good manners, not of morals.",
+  "root": "decēre / decorus (to be fitting, seemly)",
+  "root_family": [
+    "decorum",
+    "decorous",
+    "decor",
+    "decorate",
+    "decent",
+    "decency"
+  ],
+  "confusables": [
+    "indecent",
+    "decorous",
+    "indecorum",
+    "indiscreet"
+  ],
+  "sense_tags": [
+    "improper",
+    "unseemly",
+    "etiquette",
+    "tactless",
+    "unbecoming"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

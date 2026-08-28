@@ -1,0 +1,46 @@
+{
+  "word": "collude",
+  "pos": "v.",
+  "pron": "kuh-LOOD",
+  "pron_note": "Noun form: collusion, kuh-LOO-zhun.",
+  "means": "To **cooperate secretly** with someone for a dishonest, fraudulent, or illegal purpose.\n\nYou cannot collude alone: the word requires two or more insiders **and** a victim outside the arrangement. Where *conspire* suggests a plot with a target and a plan, *collude* suggests a quiet understanding — often between parties who are supposed to be **rivals or independent**: two bidders on the same contract, an auditor and the firm he audits, a landlord and the \"independent\" surveyor. It's the vocabulary of regulators and courts rather than thrillers, which is why it sounds coldly damning: no smoke-filled room needed, just a nod.",
+  "trap": null,
+  "trick_line": "**co-** needs a partner, **-lude** means they're *playing* — collusion is a game two people play on a third.",
+  "trick_unpack": "The prefix tells you it takes at least two, and the *lud-* tells you someone outside the deal is being played.",
+  "sentences": [
+    "The commission found that the three suppliers had **colluded** for a decade, carving the market into territories and never underbidding one another.",
+    "You two **colluded** on this, didn't you? Nobody books the same terrible restaurant twice by accident."
+  ],
+  "in_the_wild": "**\"No collusion\"** — Trump's endlessly repeated line through the Russia investigation put the noun into every news bulletin for two straight years.",
+  "etymology": "Latin **com-** (*together*) + **lūdere** (*to play*) → *collūdere*, \"to play along together.\"\n\nThat **lud-/lus-** root is a GRE goldmine, and every member keeps the sense of *play*: **prelude** and **interlude** (played before/between), **ludicrous** (fit only for play), **delude** (play someone false), **elude** (play your way out), **allude** (play toward a thing without naming it), **illusion** (a trick of play).",
+  "one_line": "To secretly cooperate with someone for a dishonest purpose.",
+  "root": "lūdere, lūsum (to play)",
+  "root_family": [
+    "delude",
+    "elude",
+    "allude",
+    "illusion",
+    "ludicrous",
+    "prelude",
+    "interlude",
+    "collusion"
+  ],
+  "confusables": [
+    "collide",
+    "elude",
+    "delude",
+    "allude"
+  ],
+  "sense_tags": [
+    "conspiracy",
+    "secret-agreement",
+    "deceit",
+    "fraud",
+    "complicity"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    29
+  ]
+}

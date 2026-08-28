@@ -1,0 +1,44 @@
+{
+  "word": "evade",
+  "pos": "v.",
+  "pron": "ih-VAYD",
+  "pron_note": null,
+  "means": "To get away from something — a pursuer, a duty, a question — by dodging, trickery or sheer slipperiness rather than meeting it head-on.\n\n*Avoid* is neutral: you avoid the motorway at rush hour. **Evade** carries a charge of bad faith — it assumes something had a claim on you (the police, the tax office, the interviewer) and you wriggled out. That's why *evasive* is never a compliment: an evasive answer isn't a refusal, it's an answer shaped to look like one while telling you nothing.",
+  "trap": "⚠️ **evade vs. elude.** You **evade** actively — dodging, ducking, taking evasive action. Something **eludes** you passively, by slipping away: the fox eluded the hounds, the word eludes me, sleep eluded her. You can evade a question; a question can't evade you.",
+  "trick_line": "**Evade** rhymes with **fade** — the evader doesn't refuse, he fades sideways out of the frame.",
+  "trick_unpack": "That sideways slip is the whole flavour of the word: no confrontation, no honest \"no\", just a smooth exit that leaves you holding nothing.",
+  "sentences": [
+    "For six years the fugitive **evaded** capture, drifting between border towns under a series of borrowed names.",
+    "Every time I ask what he actually does for a living, he **evades** the question and starts on about the weather."
+  ],
+  "in_the_wild": "Al Capone — bootlegging, racketeering, a body count — was finally jailed for **tax evasion**. Note the distinction lawyers live by: tax *avoidance* (arranging your affairs legally) is fine; tax **evasion** (hiding the money) is a crime. The same gap in tone, written into the law.",
+  "etymology": "Latin **ē-** (*out*) + **vādere** (*to go*) — literally *to go out of it*.\n\n*vādere* is a workhorse root: **invade** (go *in*), **pervade** (go *through* everything), **evade** (go *out*). Even English **wade** is a cousin — going through with effort.",
+  "one_line": "To dodge or escape something by cleverness rather than facing it.",
+  "root": "vadere (to go)",
+  "root_family": [
+    "invade",
+    "pervade",
+    "pervasive",
+    "invasive",
+    "evasive",
+    "wade"
+  ],
+  "confusables": [
+    "elude",
+    "avoid",
+    "invade",
+    "evince"
+  ],
+  "sense_tags": [
+    "avoiding",
+    "escaping",
+    "dodging",
+    "deception",
+    "non-answer"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    16
+  ]
+}

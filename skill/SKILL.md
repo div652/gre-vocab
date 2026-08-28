@@ -100,12 +100,26 @@ quote, or an ad.
 *The Catcher in the Rye*, yes. "The Phoney War", no — real, but redundant once a
 stronger hook is already there.
 
-**"Strongest" means most useful for memory, not most literary.** A famous name or
-title counts as a real hook when it shares the word's root *and* the character or
-thing embodies the meaning — e.g. **Dexter's Laboratory** for *dexterous* (from Latin
-*dexter*, and Dexter is all precision and fine motor skill). Do not dismiss these as
-trivia; that mistake was made once and corrected. What does *not* count is a pure
-spelling coincidence with no root link and no meaning link.
+**RULE ZERO — a title match is ALWAYS a hook.** If the word itself is the title of
+a well-known song, album, film, book, or TV show, that is a hook, full stop. It does
+NOT additionally have to embody the meaning, and you must not reason your way out of
+it on thematic grounds. Before you ever return null, ask explicitly: *is this word
+the title of something famous?*
+
+This rule exists because it was got wrong. *Acquiesce* was returned as null despite
+being one of Oasis's best-known tracks — and Oasis is one of the user's favourite
+bands, listed below. A null there is a worse error than a merely adequate hook,
+because the user already owns that memory and we failed to connect it.
+
+Run the check against the user's own bands first (their catalogues are the
+highest-value source), then film, then books.
+
+**"Strongest" means most useful for memory, not most literary.** Beyond title
+matches, a famous name counts as a real hook when it shares the word's root *and*
+the character or thing embodies the meaning — e.g. **Dexter's Laboratory** for
+*dexterous* (from Latin *dexter*, and Dexter is all precision and fine motor skill).
+Do not dismiss these as trivia; that mistake was made once and corrected. What does
+*not* count is a pure spelling coincidence with no root link and no meaning link.
 
 Corollary: cut a hook because it is **redundant or meaning-free**, not merely because
 it is not a quotation. If a word has only one decent hook, use it.

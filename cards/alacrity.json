@@ -1,35 +1,36 @@
 {
   "word": "alacrity",
   "pos": "n.",
-  "pron": "uh-LAK-ri-tee",
+  "pron": "uh-LAK-ruh-tee",
   "pron_note": null,
-  "means": "**Brisk, cheerful readiness** — doing something quickly *and* gladly.\n\nTwo ingredients, and the second is the one people forget: **speed** and **willingness**. A grudging assistant can be fast; only an eager one moves with alacrity. The word carries a faint glow of good humour, which is why it so often describes a *response* — you accept an invitation, take an order, volunteer with alacrity.\n\nRegister is formal and slightly dry, so it's a gift to ironists: \"he abandoned his principles with alacrity\" is a sneer disguised as praise.",
-  "trap": "**alacrity ≠ celerity.** *Celerity* is bare speed — a courier, a processor, a horse has celerity. *Alacrity* is speed with a willing spirit behind it. Machines can be celeritous; only people are alacritous.",
-  "trick_line": "You don't *move* with alacrity — you **answer** with it.",
-  "trick_unpack": "Alacrity is nearly always the eager yes to someone's request, which is exactly why willingness, not just speed, sits at the centre of the word.",
+  "means": "**Brisk, cheerful eagerness** — moving fast *because you're glad to*.\n\nSpeed alone isn't alacrity. A prisoner marched to work moves quickly; a volunteer who jumps up before you finish asking moves with alacrity. The word carries **visible willingness** — the promptness is evidence of the enthusiasm. It's warm, faintly formal, and lives almost entirely in one phrase: *with alacrity*. Watch for dry irony too — \"he accepted the free upgrade with alacrity\" gently mocks how fast the hand went up.",
+  "trap": "⚠️ **alacrity ≠ celerity.** *Celerity* is bare speed (same root as *accelerate*) — a missile has celerity. *Alacrity* is speed **plus gladness**. Swap them and you've stripped out the cheerfulness the GRE is testing.",
+  "trick_line": "**a-LACK-rity** — yet it means there's **no lack** of willingness.",
+  "trick_unpack": "The sound plants \"lack\" in the middle of a word that means the exact opposite: zero hesitation, zero reluctance.",
   "sentences": [
-    "The offer of a full professorship was accepted with an alacrity that surprised even the committee.",
-    "Tell him there's free pizza in the kitchen and watch how fast he gets up — never seen such alacrity."
+    "The junior clerks, sensing that promotion hung on it, took up the thankless assignment with surprising **alacrity**.",
+    "Ask him to review your code and he'll stall for a week — mention free pizza and he's there with real **alacrity**."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **alacer** = *\"lively, brisk, cheerful.\"*\n\nThe same root walked into Italian and became **allegro** — the tempo marking that doesn't just mean *fast*, it means *fast and bright*. That distinction is the whole word: **allegro is to presto what alacrity is to mere speed.**",
-  "one_line": "Cheerful, eager promptness in doing something.",
-  "root": "alacer (lively, brisk, cheerful)",
+  "in_the_wild": "Shakespeare's *Richard III*, the night before Bosworth: *\"I have not that alacrity of spirit, / Nor cheer of mind, that I was wont to have.\"* Richard defines the word for you in the next line — **alacrity = cheer of mind**.",
+  "etymology": "Latin **alacer / alacris** = *\"brisk, lively, cheerful\"* — briskness and good cheer bundled into one adjective from the start.\n\nSame root, travelling through Italian: **allegro**, the musical direction meaning not merely *fast* but *fast and merry*. If you know what allegro sounds like, you know what alacrity feels like.",
+  "one_line": "Cheerful, brisk eagerness to get on with something.",
+  "root": "alacer, alacris (brisk, cheerful)",
   "root_family": [
     "allegro",
+    "allegretto",
     "alacritous"
   ],
   "confusables": [
     "celerity",
-    "audacity",
-    "avidity"
+    "acrimony",
+    "audacity"
   ],
   "sense_tags": [
     "eagerness",
     "willingness",
     "promptness",
     "briskness",
-    "enthusiasm"
+    "cheerfulness"
   ],
   "register": "formal",
   "connotation": "positive",

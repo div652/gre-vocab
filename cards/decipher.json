@@ -1,0 +1,39 @@
+{
+  "word": "decipher",
+  "pos": "v.",
+  "pron": "di-SEYE-fer",
+  "pron_note": null,
+  "means": "To work out the meaning of something that resists being read — a coded message, a dead script, a doctor's handwriting, someone's motives.\n\nThe word always implies **obstruction plus effort**: there is a meaning in there, and something is in the way. *Decode* and *decrypt* are technical and systematic (you have a key, a method, a machine); *decipher* can be pure squinting persistence, and works just as well on a scrawled note as on Linear B. *Interpret* assumes the text is legible and the difficulty is in the meaning; *decipher* assumes the difficulty is in getting at the message at all. The negative, **indecipherable**, is the form you'll meet most often on the exam.",
+  "trap": null,
+  "trick_line": "**De-cipher** = take the **cipher** off it — strip the disguise, and the meaning was there all along.",
+  "trick_unpack": "The *de-* is subtraction, so you're not creating meaning, you're removing whatever was hiding it.",
+  "sentences": [
+    "Scholars spent two decades attempting to **decipher** the tablets, whose script had no surviving bilingual key.",
+    "I still can't **decipher** what my dad wrote on this shopping list — is that \"eggs\" or \"legs\"?"
+  ],
+  "in_the_wild": "**The Imitation Game** — Turing and the Bletchley Park team **deciphering** Enigma is the most famous act of deciphering in modern history, and the film is essentially two hours of the word in action.",
+  "etymology": "**Cipher** comes from Arabic **ṣifr** = *\"zero, empty\"* — the same word that gave English **zero**. When Arabic numerals reached medieval Europe, the strange new symbols looked like secret writing, so *cipher* drifted from \"zero\" to \"code.\"\n\nBoth senses survive: you **decipher** a coded message, and a person of no consequence is dismissed as **\"a mere cipher\"** — a zero, a placeholder. That second sense is the one the GRE likes.",
+  "one_line": "Work out the meaning of something coded or barely legible.",
+  "root": "Arabic ṣifr (zero, empty) → cipher (secret writing)",
+  "root_family": [
+    "cipher",
+    "zero",
+    "ciphertext",
+    "indecipherable"
+  ],
+  "confusables": [
+    "decrypt",
+    "decode"
+  ],
+  "sense_tags": [
+    "decoding",
+    "interpretation",
+    "obscurity",
+    "puzzle-solving"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    21
+  ]
+}

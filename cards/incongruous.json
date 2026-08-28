@@ -2,36 +2,36 @@
   "word": "incongruous",
   "pos": "adj.",
   "pron": "in-KONG-groo-uhs",
-  "pron_note": "Stress lands on KONG, not on GROO — and the first g is hard, as in \"go\".",
-  "means": "Out of keeping with what surrounds it — clashing, mismatched, absurdly out of place.\n\nThe word judges **fit, not quality**. A gilded throne is not incongruous in a palace and is wildly incongruous in a laundromat; nothing about the throne changed. That's why the tone is usually wry rather than angry — an *incongruous* detail is jarring, faintly comic, the thing your eye snags on. Compare **inappropriate**, which condemns the thing itself; incongruous only says it doesn't belong *here*.",
-  "trap": "**incongruous ≠ incongruent.** *Incongruent* is the technical twin — shapes that don't coincide, data that doesn't correspond. *Incongruous* is the aesthetic one — a thing that looks wrong in its setting.",
-  "trick_line": "Hiding inside it is **congruent** — the school-geometry word for two triangles that match perfectly. Put **in-** on the front and nothing matches.",
-  "trick_unpack": "Congruent shapes lie on top of each other exactly; an incongruous thing refuses to line up with everything around it.",
+  "pron_note": "Stress the KONG — not \"in-kon-GROO-us\".",
+  "means": "Out of place; clashing with what surrounds it. A thing is **incongruous** when it doesn't match its setting, its company, or the rest of itself.\n\nThe word describes a **mismatch, not a fault**. *Inappropriate* accuses; *incongruous* just registers the clash — a tuxedo at a beach barbecue, a nursery rhyme sung at a funeral. Very often the effect is faintly comic, and writers use it exactly for that: the detail that refuses to blend in. Note it needs a context to clash *with* — nothing is incongruous on its own.",
+  "trap": "**incongruous vs. incongruent.** *Incongruous* = doesn't fit the surroundings (the everyday, literary word). *Incongruent* = doesn't correspond or align, used technically — congruent triangles, incongruent data sets. If you're describing a scene, you want **incongruous**.",
+  "trick_line": "in-**GROUP**-ous — it isn't in the group.",
+  "trick_unpack": "The middle of the word sounds like *group*, and that's precisely the complaint: the thing sits there without belonging to the set around it.",
   "sentences": [
-    "His hearty laugh was **incongruous** in a room full of mourners, and heads turned before he could stop himself.",
-    "He showed up to the beach wedding in a three-piece tweed suit — **incongruous** doesn't cover it."
+    "A glass tower rose behind the abbey, **incongruous** among four centuries of grey stone.",
+    "He turned up to the funeral in neon trainers — a bit **incongruous**, but nobody said anything."
   ],
   "in_the_wild": null,
-  "etymology": null,
+  "etymology": "Latin **congruere** = *\"to come together, to agree.\"* Add *in-* (\"not\") and you get things that refuse to come together. Same root gives **congruent** (shapes that agree exactly) and **congruity** — so *incongruous* is literally *not-agreeing-with*.",
   "one_line": "Out of place; jarringly mismatched with its surroundings.",
   "root": "congruere (to come together, agree)",
   "root_family": [
     "congruent",
     "congruity",
-    "incongruity",
-    "congruence"
+    "congruence",
+    "incongruity"
   ],
   "confusables": [
     "incongruent",
+    "congruous",
     "incongruity",
-    "inappropriate"
+    "ingenuous"
   ],
   "sense_tags": [
-    "mismatched",
     "out-of-place",
+    "mismatched",
     "clashing",
-    "absurd",
-    "ill-fitting"
+    "inconsistent"
   ],
   "register": "formal",
   "connotation": "negative",

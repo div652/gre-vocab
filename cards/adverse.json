@@ -1,0 +1,45 @@
+{
+  "word": "adverse",
+  "pos": "adj.",
+  "pron": "AD-vers",
+  "pron_note": "Stressed on the first syllable, like adversary — not \"uh-VERS\", which is averse.",
+  "means": "Acting **against** your interests; unfavourable, harmful, hostile in effect.\n\nIt isn't a synonym for *bad*. *Adverse* is bad **in opposition to something** — a headwind, a ruling, a drug, a market all pushing against a specific interest. And it describes **conditions, forces and outcomes, not feelings**: weather, effects, publicity, a court decision. The register is formal and institutional; you meet it in medical inserts, legal judgments and risk reports far more than in speech.",
+  "trap": "⚠️ **adverse ≠ averse.**\n- **adverse** = *unfavourable*, describing a thing — **adverse** weather, **adverse** effects\n- **averse** = *unwilling*, describing a person — she is **averse** to flying\n\nTest: if you can put \"to\" after it and a person in front, you want **averse**.",
+  "trick_line": "**Adverse** never tells you how anyone *feels* — only what's being done *to* them: adverse weather, adverse effects, adverse ruling.",
+  "trick_unpack": "Every natural collocation of *adverse* is an external force, which is exactly why a person can never be \"adverse to\" anything.",
+  "sentences": [
+    "The tribunal reached an **adverse** finding against the bank, and the share price fell before close.",
+    "We'd have finished the hike, but the weather turned **adverse** and we bailed at the ridge."
+  ],
+  "in_the_wild": "The leaflet inside every box of medicine lists **adverse effects** (or *adverse reactions*) — the drug turning against the patient it's meant to help.",
+  "etymology": "Latin **ad-** (*toward*) + **vertere** (*to turn*) = \"turned against you.\"\n\n*Vertere* is a workhorse root: **adversary** (one turned against you), **adversity**, **avert** (turn away), **divert**, **convert**, **revert**, **versatile**, and **anniversary** (the year turning round again).",
+  "one_line": "Unfavourable; working against your interests.",
+  "root": "vertere (to turn) + ad- (toward, against)",
+  "root_family": [
+    "adversary",
+    "adversity",
+    "avert",
+    "divert",
+    "convert",
+    "revert",
+    "versatile",
+    "anniversary",
+    "invert"
+  ],
+  "confusables": [
+    "averse",
+    "adverts",
+    "adroit"
+  ],
+  "sense_tags": [
+    "unfavourable",
+    "harmful",
+    "opposing",
+    "hostile-conditions"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    25
+  ]
+}

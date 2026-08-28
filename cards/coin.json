@@ -1,0 +1,40 @@
+{
+  "word": "coin",
+  "pos": "v. / n.",
+  "pron": "KOYN",
+  "pron_note": null,
+  "means": "**Verb (the sense the GRE tests):** to **invent a word, phrase or name** and put it into circulation. **Noun:** a stamped piece of metal money.\n\nThe verb is narrow in a way *invent* and *devise* are not: you coin **language**, not machines or plans. It also carries a quiet claim of authorship — saying Freud *coined* \"id\" credits him with the term and implies the term caught on. Nobody coins a word that nobody else ever uses; a failed one is just a made-up word.\n\nThe literal metal sense survives in **coinage**, which does double duty: money, and a newly minted word.",
+  "trap": null,
+  "trick_line": "**Coin a word the way a mint coins money: stamp it fresh, then let it circulate.**",
+  "trick_unpack": "Both senses hang on one idea — something new is struck into existence and then passes from hand to hand.",
+  "sentences": [
+    "Orwell **coined** \"doublethink\" in 1949, and the term has outlived the novel that carried it.",
+    "My sister **coined** \"hangry\" for our family years before the internet got hold of it."
+  ],
+  "in_the_wild": "People say **\"to coin a phrase\"** right before uttering a cliché — a joke about pretending to have just invented something everyone has said a thousand times.",
+  "etymology": "Latin **cuneus** = *\"wedge\"* — the wedge-shaped die that stamped the metal. The die's name became the money's name, and the money's name became the verb.\n\nSame root: **cuneiform** (wedge-shaped writing), **quoin** / **coign** (a cornerstone, a wedge).",
+  "one_line": "To invent a word or phrase that catches on.",
+  "root": "cuneus (wedge)",
+  "root_family": [
+    "cuneiform",
+    "quoin",
+    "coign",
+    "coinage"
+  ],
+  "confusables": [
+    "quoin",
+    "coign"
+  ],
+  "sense_tags": [
+    "invent",
+    "neologism",
+    "language-creation",
+    "mint",
+    "authorship"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    19
+  ]
+}

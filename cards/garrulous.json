@@ -1,32 +1,33 @@
 {
   "word": "garrulous",
   "pos": "adj.",
-  "pron": "GA-ruh-luhs",
+  "pron": "GAR-uh-luhs",
   "pron_note": null,
-  "means": "Excessively talkative — rambling on, usually about trivial things, usually past the point anyone wanted.\n\nThe word judges. **Loquacious** is neutral, even admiring: a fluent, easy talker. **Voluble** is fast and unstoppable. **Verbose** is about too many words on the page. **Garrulous** is about the *listener's* suffering — it carries a whiff of the cornered victim nodding politely, and it clings to a stock character: the old man who tells you the whole history of the fence he's leaning on.",
-  "trap": "⚠️ **garrulous ≠ querulous.**\n- **garrulous** = talks *too much*\n- **querulous** = *complains* too much (whiny, peevish)\n\nA garrulous uncle won't stop talking; a querulous one won't stop grumbling.",
-  "trick_line": "**GARrulous — GARgle.** Both are a burble of noise coming out of a mouth that won't stop.",
-  "trick_unpack": "Gargling is sound without content, which is exactly the complaint the word makes about the talker.",
+  "means": "Excessively talkative — especially in a rambling, aimless way, about things that don't matter.\n\nThe judgement is built in. **Talkative** is neutral, **loquacious** is a compliment in a suit (fluent, articulate), **voluble** is speech that flows fast and easily — but *garrulous* is the listener's complaint. It implies you can't get away: the trivia, the digressions, the story about the neighbour's fence. Classically attached to old men on porches and strangers on long train journeys.",
+  "trap": "⚠️ **garrulous ≠ querulous.**\n- **garrulous** = talks too much\n- **querulous** = *complains* too much (whining, peevish)\n\nSame *-ulous* ending, opposite failing: one is a chatterbox, the other is a grumbler.",
+  "trick_line": "**Garrulous** starts like **gargle** — a noise from the throat that just keeps going.",
+  "trick_unpack": "Gargling isn't speech and it isn't content, which is exactly the accusation: sound where conversation should be.",
   "sentences": [
-    "The memoir is charming for eighty pages and then turns **garrulous**, circling the same three anecdotes.",
-    "I got stuck next to the **garrulous** guy on the flight and heard about his boat for six hours."
+    "The memoir is charming for eighty pages and then turns **garrulous**, every anecdote spawning three more.",
+    "Our cab driver was so **garrulous** I learned his entire divorce before we hit the motorway."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **garrīre** = *\"to chatter, to babble\"* — an imitative word, coined for the sound itself. The Romans applied it to the noisiest bird they knew: the jay is still **Garrulus** to this day.",
-  "one_line": "Tiresomely talkative; rambles on about very little.",
-  "root": "garrīre (to chatter, babble)",
+  "etymology": "Latin **garrīre** = *\"to chatter\"* — an imitative word, the babble of birds. The Eurasian jay, a bird that will not shut up, is still classed as **Garrulus** today.",
+  "one_line": "Talking far too much, ramblingly, about trivia.",
+  "root": "garrīre (to chatter)",
   "root_family": [
     "garrulity"
   ],
   "confusables": [
     "querulous",
     "garish",
-    "gregarious"
+    "credulous"
   ],
   "sense_tags": [
     "talkative",
     "rambling",
-    "wordy",
+    "long-winded",
+    "trivial",
     "tiresome"
   ],
   "register": "formal",

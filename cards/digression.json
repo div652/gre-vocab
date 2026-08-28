@@ -1,0 +1,48 @@
+{
+  "word": "digression",
+  "pos": "n.",
+  "pron": "dye-GRESH-uhn",
+  "pron_note": "Also dih-GRESH-uhn; both standard. Verb: digress (dye-GRES).",
+  "means": "A **temporary departure from the main subject** in speech or writing — you wander off, then (usually) come back.\n\nThe word assumes there *is* a main road. That's why it's mild: a digression isn't an error or a failure of logic, just a detour, and it's often affectionate or self-aware — writers announce their own. Compare **tangent** (more casual, and you may never return), **rambling** (pure criticism, no structure implied), and **excursus** (a formal, deliberate side-essay). Calling a lecture \"a series of digressions\" is a gentle complaint; calling it \"rambling\" is not gentle at all.",
+  "trap": "⚠️ **digression ≠ transgression.**\n- **digression** = you step *aside* from the topic\n- **transgression** = you step *across* a moral or legal line\n\nOne derails a lecture; the other gets you fired.",
+  "trick_line": "**A digression is a *detour*, not a wrong turn — you rejoin the road.**",
+  "trick_unpack": "Both start with *d* and both leave the main route, but a detour is understood to be temporary — which is exactly why the word is forgiving rather than damning.",
+  "sentences": [
+    "The essay's long **digression** on medieval bookbinding is charming, but it stalls the argument for six full pages.",
+    "Sorry, that was a total **digression** — where were we?"
+  ],
+  "in_the_wild": "The stock phrase **\"But I digress\"** — the little apology writers and speakers drop before steering back to the point. If you've heard someone say it, you already know the word means *I wandered off, and I'm coming back*.",
+  "etymology": "Latin **digredi** = *\"to step away\"* — **di-** (*apart*) + **gradi** (*to step, to walk*).\n\n**gradi** is a GRE workhorse: **progress** (step forward), **regress** (step back), **egress** (step out), **ingress** (step in), **gradual** (step by step), **grade** (a step in a series), **aggressive** (stepping *at* someone).",
+  "one_line": "A temporary wandering off the main subject, then back.",
+  "root": "gradi, gressus (to step, to walk)",
+  "root_family": [
+    "progress",
+    "regress",
+    "egress",
+    "ingress",
+    "congress",
+    "transgress",
+    "aggressive",
+    "gradual",
+    "grade",
+    "retrograde"
+  ],
+  "confusables": [
+    "transgression",
+    "regression",
+    "aggression",
+    "digestion"
+  ],
+  "sense_tags": [
+    "tangent",
+    "off-topic",
+    "detour",
+    "speech",
+    "writing"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    20
+  ]
+}

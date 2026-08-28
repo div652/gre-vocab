@@ -1,0 +1,47 @@
+{
+  "word": "detract",
+  "pos": "v.",
+  "pron": "dih-TRAKT",
+  "pron_note": null,
+  "means": "To **take away from** the value, quality, or good impression of something — usually a small subtraction, not a demolition.\n\nTo *ruin* is total; to **detract** is a shaving-off. A cracked frame detracts from a painting — the painting is still good, just worth a little less. Note the grammar, because the GRE tests it: you detract **from** something, never detract something. The second, rarer sense is human — to **disparage**, to talk a reputation down, which is why a critic is a **detractor**.",
+  "trap": "**detract ≠ distract.** *Distract* pulls your **attention** away; *detract* pulls the **value** down. A ringing phone distracts you from the film; bad acting detracts from it.",
+  "trick_line": "**Nothing detracts a thing — things detract *from* it, one notch down, never to zero.**",
+  "trick_unpack": "Lock in the preposition and you've locked in the size of the damage: partial, not fatal.",
+  "sentences": [
+    "The clumsy final chapter does not seriously **detract** from a novel of otherwise remarkable control.",
+    "Sure, the seats are ugly, but that hardly **detracts** from a car this cheap."
+  ],
+  "in_the_wild": "**Detractors** is the word sports and political coverage reaches for constantly — \"his detractors say he peaked three seasons ago.\" Same root, and it tells you exactly what a detractor does: chips away at your standing.",
+  "etymology": "Latin **de-** (*down, away*) + **trahere** (*to pull, drag*) — to drag value downward.\n\n**trahere** is one of the highest-yield GRE roots: **tractor** (pulls), **attract** (pulls toward), **extract** (pulls out), **retract** (pulls back), **subtract** (pulls out from under), **protract** (drags out lengthwise), **contract** (pulls together), **abstract** (pulled away from the concrete).",
+  "one_line": "To take away from the value or merit of something.",
+  "root": "trahere, tractus (to pull, drag)",
+  "root_family": [
+    "attract",
+    "extract",
+    "retract",
+    "subtract",
+    "protract",
+    "contract",
+    "abstract",
+    "tractor",
+    "traction",
+    "distract"
+  ],
+  "confusables": [
+    "distract",
+    "retract",
+    "deter",
+    "detach"
+  ],
+  "sense_tags": [
+    "diminish",
+    "disparage",
+    "reduce-value",
+    "belittle"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    33
+  ]
+}

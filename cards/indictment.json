@@ -1,0 +1,46 @@
+{
+  "word": "indictment",
+  "pos": "n.",
+  "pron": "in-DYTE-muhnt",
+  "pron_note": "The c is completely silent — never \"in-DIKT-ment.\" Rhymes with excitement.",
+  "means": "**Legal:** a formal written charge accusing someone of a serious crime, handed down by a grand jury.\n**General:** a fact, result, or statement that stands as **damning evidence** against something — *\"the report is an indictment of the whole system.\"*\n\nAn indictment is an accusation, not a conviction: it opens the case, it doesn't close it. The general sense keeps that courtroom weight — calling something an indictment doesn't merely criticise it, it presents it as proof of guilt. So *criticism* is an opinion offered; an *indictment* is a charge that the evidence itself makes. Almost always preceded by **damning**, **stinging**, or **searing**.",
+  "trap": null,
+  "trick_line": "**In**dictment opens the trial; **ver**dict closes it — same *dict*, opposite ends.",
+  "trick_unpack": "Both are things spoken (*dict*) by the court, but the indictment is only the charge going in, while the verdict is the truth (*ver*) coming out.",
+  "sentences": [
+    "A grand jury returned a twelve-count **indictment** against the former treasurer, though he was later acquitted on every charge.",
+    "That the hospital ran out of beds in week one is a pretty damning **indictment** of the planning, isn't it?"
+  ],
+  "in_the_wild": "Journalism runs on the phrase **\"a damning indictment of...\"** — you'll see it in a news headline or op-ed most weeks, always about a failing system rather than a person in the dock.",
+  "etymology": "Latin **dicere / dictāre** = *\"to say, to proclaim\"*; *in-dictāre* = to proclaim against. The silent **c** was stuffed back in by medieval scribes to make the word look properly Latin — same vanity that gave **debt** its silent *b*.\n\nThat root is a GRE workhorse: **verdict** (truth-said), **edict**, **dictate**, **contradict**, **jurisdiction**, **benediction**, **malediction**, **dictum**.",
+  "one_line": "A formal criminal charge; or damning evidence of failure.",
+  "root": "dicere, dictare (to say, proclaim)",
+  "root_family": [
+    "verdict",
+    "edict",
+    "dictate",
+    "contradict",
+    "jurisdiction",
+    "benediction",
+    "malediction",
+    "dictum",
+    "predict"
+  ],
+  "confusables": [
+    "indite",
+    "indictable",
+    "indignation"
+  ],
+  "sense_tags": [
+    "accusation",
+    "criminal charge",
+    "condemnation",
+    "damning evidence",
+    "legal process"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    32
+  ]
+}

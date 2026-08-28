@@ -1,32 +1,36 @@
 {
   "word": "brook",
-  "pos": "v. / n.",
+  "pos": "v. (also n.)",
   "pron": "BRUUK",
-  "pron_note": "Rhymes with *book*, not *spook*.",
-  "means": "**Verb:** to **tolerate**, to put up with.\n**Noun:** a small stream.\n\nThe verb is the one the GRE wants, and it lives almost entirely in the **negative**: *brook no argument*, *would not brook delay*, *brooks no interference*. You will rarely see someone \"brooking\" something happily. It carries authority — a commander, a headmistress, a judge — and the object is usually an abstract noun of opposition (dissent, rivals, excuses). Saying you \"won't brook\" something is grander and colder than \"won't tolerate\": it announces that the matter is closed.",
+  "pron_note": "Rhymes with book, not spook.",
+  "means": "**Verb:** to tolerate, to put up with — to allow something to stand.\n\nTwo things make it strange. First, it lives almost entirely in the negative: **brook no** dissent, **brook no** delay, **brook no** interference. You will rarely see anyone brook anything. Second, it belongs to authority — a general, a headmistress, a chairman. *Tolerate* is what an equal does; *brook no* is what someone with power announces, and it closes the conversation rather than opening it.\n\n**Noun:** a small stream. Same spelling, completely different word.",
   "trap": null,
-  "trick_line": "**Brook** rhymes with **took** — and he *wouldn't take it*.",
-  "trick_unpack": "Brook = take, in the sense of \"I won't take that from you\" — which is why it nearly always arrives with a *no* or a *not* attached.",
+  "trick_line": "**Nobody ever brooks a thing — they brook *no* thing.**",
+  "trick_unpack": "Lock the word to its collocation: if \"no\" isn't sitting right after it, you're probably looking at the stream.",
   "sentences": [
-    "The abbot ran the house on medieval lines and would **brook** no discussion of reform.",
-    "Fine, come along — but I'm leaving at six sharp and I'll **brook** no whining about it."
+    "The colonel's orders would **brook no** discussion; the column moved at dawn.",
+    "Fine, come along — but I'm **brooking no** whining about the hill."
   ],
-  "in_the_wild": null,
-  "etymology": "Old English **brūcan** = *\"to use, to enjoy, to digest\"* — if you could stomach a thing, you could brook it. Same root as German **brauchen** (to need/use).\n\n🚫 **Nothing to do with the stream.** That *brook* is Old English *brōc*, an unrelated word that just happens to look identical — which is why \"tolerate\" feels so arbitrary until you separate the two.",
-  "one_line": "To tolerate — nearly always negative: brooks no dissent.",
-  "root": "brūcan (to use, enjoy, digest)",
+  "in_the_wild": "Tennyson's much-anthologised poem **\"The Brook\"** — *\"men may come and men may go, but I go on for ever\"* — is the *other* brook, the stream. Useful as a marker for which sense is which.",
+  "etymology": "Old English **brūcan** = *\"to use, to enjoy\"* — so \"brook no X\" originally meant *\"get no enjoyment out of X,\"* which softened into *\"won't stand for it.\"* It's a cousin of Latin **fruī** *(to enjoy)*, the root behind **fruit**, **frugal**, and **usufruct**.\n\n🚫 The stream **brook** is Old English **brōc**, a separate word entirely. No connection beyond spelling.",
+  "one_line": "To tolerate — almost always as \"brook no.\"",
+  "root": "brūcan (to use, to enjoy)",
   "root_family": [
-    "brooking"
+    "fruit",
+    "frugal",
+    "usufruct",
+    "fructify"
   ],
   "confusables": [
+    "broach",
     "brood",
-    "brook (stream)",
     "brooch"
   ],
   "sense_tags": [
-    "tolerating",
-    "enduring",
-    "permitting",
+    "tolerate",
+    "endure",
+    "permit",
+    "refuse",
     "authority"
   ],
   "register": "formal",

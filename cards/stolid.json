@@ -1,0 +1,43 @@
+{
+  "word": "stolid",
+  "pos": "adj.",
+  "pron": "STOL-id",
+  "pron_note": "First syllable is short, rhyming with solid — not STOH-lid.",
+  "means": "Showing **no emotion or reaction**; heavy, impassive, unexcitable.\n\nThe word carries a faint insult. Describing someone as stolid is not praising their composure — it hints that nothing much is going on behind the face. A stolid clerk stamps your form while you weep at the counter; a stolid ox stands in the rain. It suggests **dullness and slow blood**, not discipline. Used of faces, expressions, crowds, and peasants in nineteenth-century novels.",
+  "trap": "⚠️ **stolid ≠ stoic.**\n- **stoic** = feels the pain, refuses to show it — *admirable*\n- **stolid** = doesn't seem to feel much at all — *unflattering*\n\nThe stoic soldier is brave; the stolid soldier is thick.",
+  "trick_line": "**Stolid** is **solid** with a **T** — a solid lump of a person, and the T is for *thick*.",
+  "trick_unpack": "Solid is a compliment, stolid is the same immovability turned into a criticism.",
+  "sentences": [
+    "The jury remained **stolid** throughout the testimony, not a flicker of feeling crossing a single face.",
+    "He just gave me this **stolid** stare, like I'd told him the weather instead of that I was quitting."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **stolidus** = *\"dull, stupid, unmovable\"* — a sibling of **stultus** (*\"foolish\"*), which gives you **stultify** (to make something look stupid or futile). The Latin meant *stupid* outright; English softened it to *unexpressive*, but the sneer never fully washed out.",
+  "one_line": "Impassive to the point of seeming dull.",
+  "root": "stolidus (dull, immovable), akin to stultus (foolish)",
+  "root_family": [
+    "stultify",
+    "stultification",
+    "stolidity"
+  ],
+  "confusables": [
+    "stoic",
+    "solid",
+    "staid",
+    "squalid",
+    "sordid",
+    "stodgy"
+  ],
+  "sense_tags": [
+    "unemotional",
+    "impassive",
+    "dull",
+    "unexcitable",
+    "phlegmatic"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

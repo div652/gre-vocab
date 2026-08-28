@@ -1,0 +1,38 @@
+{
+  "word": "tedious",
+  "pos": "adj.",
+  "pron": "TEE-dee-uhs",
+  "pron_note": "Also heard as TEE-juhs in fast speech.",
+  "means": "Tiresome because it is **too long, too slow, and too samey** — dull in a way that wears down your patience.\n\nThe complaint is about **duration, not difficulty**. *Hard* work can be gripping; *tedious* work is easy and endless — form-filling, a meeting that will not end, a speaker circling the same point. *Boring* describes a thing that fails to interest you; **tedious** describes a thing that keeps going *after* it stopped interesting you. It's a mild, civilised word — you can call a report tedious in writing without sounding rude, which is exactly why people reach for it.",
+  "trap": "**tedious vs. odious** — they rhyme perfectly and that's the trap. **Tedious** = boring you to death. **Odious** = deserving hatred. A tedious colleague wastes your afternoon; an odious one deserves your contempt.",
+  "trick_line": "**Dull** takes one syllable. **Te‑di‑ous** takes three — the word drags on longer than it needs to, exactly like the thing it describes.",
+  "trick_unpack": "The extra syllables are the meaning: tedium is what happens when something outstays its welcome.",
+  "sentences": [
+    "The transcript ran to four hundred pages of **tedious** procedural wrangling before a single witness was called.",
+    "Sorting the receipts took all evening — mind-numbingly **tedious**, but somebody had to do it."
+  ],
+  "in_the_wild": "It's the standard word in every software pitch: *\"automate the tedious parts of your workflow.\"* Nobody says *difficult* there — the promise is to delete the slow, repetitive bits, not the hard ones.",
+  "etymology": null,
+  "one_line": "Tiresomely long, slow and repetitive.",
+  "root": "taedēre, taedium (to weary, disgust; weariness)",
+  "root_family": [
+    "tedium"
+  ],
+  "confusables": [
+    "odious",
+    "tedium",
+    "tendentious"
+  ],
+  "sense_tags": [
+    "boring",
+    "wearisome",
+    "repetitive",
+    "long-winded",
+    "dull"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    25
+  ]
+}

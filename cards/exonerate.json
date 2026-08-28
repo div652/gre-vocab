@@ -1,0 +1,39 @@
+{
+  "word": "exonerate",
+  "pos": "v.",
+  "pron": "ig-ZON-uh-rayt",
+  "pron_note": "The x is a \"gz\" buzz, not \"ks\" — ig-ZON, never ek-SON.",
+  "means": "To **officially clear someone of blame** for something they were accused of.\n\nThe force of it is affirmative: an acquittal only says guilt wasn't proved, but an exoneration says the person **didn't do it**. It's the strong word — courts, inquiries, internal investigations, DNA labs. And it's about *blame*, not sin: a priest absolves you, an investigation exonerates you.",
+  "trap": null,
+  "trick_line": "**Nobody exonerates themselves.** A court, a report, or a lab test does it *for* you.",
+  "trick_unpack": "That's why the word lives in the passive — \"was fully exonerated\" — and why protesting your innocence never counts as exoneration.",
+  "sentences": [
+    "The tribunal's final report **exonerated** the two officers, attributing the failure to a defect in the equipment itself.",
+    "Turns out the cat knocked the vase over, so I'm **exonerated** — you owe me an apology."
+  ],
+  "in_the_wild": "The **Innocence Project** headlines you see every few months — \"man exonerated after 27 years by DNA evidence\" — are the word's natural habitat, and they show the full sense: not released on a technicality, but proven innocent.",
+  "etymology": "Latin **ex-** (*off*) + **onus, oneris** (*burden*) — literally *to take the load off*. The blame was weight on your shoulders; exoneration lifts it.\n\nSame root gives you **onerous** (*burdensome, heavy going*) and **onus** (*the burden of proof*) — both GRE regulars.",
+  "one_line": "To officially clear someone of blame or accusation.",
+  "root": "onus, oneris (burden)",
+  "root_family": [
+    "onerous",
+    "onus"
+  ],
+  "confusables": [
+    "exculpate",
+    "exorcise",
+    "absolve",
+    "acquit"
+  ],
+  "sense_tags": [
+    "clearing-of-blame",
+    "vindication",
+    "legal",
+    "innocence"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    22
+  ]
+}

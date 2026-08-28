@@ -3,34 +3,34 @@
   "pos": "adj. / n.",
   "pron": "STERN",
   "pron_note": null,
-  "means": "**Adj.:** severe, unsmiling, admitting no softness — of a person, a face, a rule, a warning.\n**Noun (unrelated sense):** the back end of a ship.\n\nSternness is **cold** severity, not hot. *Harsh* wounds, *cruel* enjoys it, *angry* shouts — a stern person simply withholds all warmth and does not bend. It usually carries an implication of legitimate authority and even fairness (\"stern but just\"), which is why judges, fathers and headmasters are stern while bullies are not. Applied to things — a stern rebuke, a stern test, stern measures — it means unyieldingly serious.",
+  "means": "**Adj.:** severe, unsmiling, unwilling to bend — of a person, a face, a rule, or a warning.\n**Noun:** the back end of a ship (an unrelated word that happens to be spelled the same).\n\nStrictness plus a grim expression: *strict* describes the rules you enforce, *stern* describes the face you enforce them with. It sits below *harsh* and *cruel* on the scale, and usually carries authority rather than malice — a stern parent, a stern judge, a stern rebuke — so it can even be faint praise, implying someone who holds a line others would let slide. Say a face is stern and you mean it gives nothing away and forgives nothing.",
   "trap": null,
-  "trick_line": "**Stern doesn't raise its voice — it just stops smiling.**",
-  "trick_unpack": "The stern teacher is the one who goes *quiet* and stares, not the one who yells — cold authority, not temper.",
+  "trick_line": "**Stern** rhymes with **learn** — a stern look isn't cruelty, it's a lesson.",
+  "trick_unpack": "The rhyme keeps the disciplinary edge attached: sternness is severity aimed at correcting you, not at hurting you.",
   "sentences": [
-    "The committee issued a **stern** rebuke, reminding the minister that the rules bound him as surely as anyone else.",
+    "The committee issued a **stern** rebuke to the minister, stopping just short of demanding his resignation.",
     "Mum gave me one **stern** look across the table and I put the phone away."
   ],
-  "in_the_wild": null,
-  "etymology": "Old English **styrne**, from a root meaning *\"stiff, rigid\"* — the same family that gives **stare** and **stark**. A stern face is literally a stiffened one: no give, no movement.\n\n🚫 **The ship's stern is a different word** — Old Norse *stjórn*, \"steering.\" The stern is the steering end, which is why it's related to **steer**, not to severity.",
-  "one_line": "Severe and unsmiling; unyieldingly strict.",
-  "root": "styrne / PIE *ster- (stiff, rigid)",
+  "in_the_wild": "The most-replayed shot in *Titanic*: the **stern** rearing straight up out of the water before the ship goes down — that's the noun, the rear end of the hull.",
+  "etymology": "Two different words wearing the same coat.\n\n**Adjective:** Old English **styrne** = *\"rigid, severe\"* — from the same root family as **stare**, the fixed, unblinking look. Stern people don't move their faces.\n\n**Noun:** Old Norse **stjórn** = *\"steering\"* — the rear is where the steering gear lived. Same root gives **steer** and **starboard** (*steer-board*, the side the oar hung on).",
+  "one_line": "Severe and unsmiling; strict with a face to match.",
+  "root": "styrne (rigid, severe), akin to starian (to stare)",
   "root_family": [
     "stare",
-    "stark",
-    "starch"
+    "starch",
+    "stark"
   ],
   "confusables": [
     "sternum",
-    "stark",
-    "strident"
+    "astern",
+    "stark"
   ],
   "sense_tags": [
     "severe",
     "strict",
     "unsmiling",
-    "forbidding",
-    "authority"
+    "disciplinary",
+    "unyielding"
   ],
   "register": "neutral",
   "connotation": "depends",

@@ -1,0 +1,37 @@
+{
+  "word": "stem from",
+  "pos": "phrasal v.",
+  "pron": "STEM fruhm",
+  "pron_note": null,
+  "means": "To **originate in**; to arise as a result of some earlier cause.\n\nWhat it points at is almost always abstract — problems, beliefs, conflicts, resentments, policies — not physical objects. A river doesn't stem from a lake; a dispute stems from a misunderstanding. And it looks *backwards*: \"stems from\" is the move you make when you've got an effect in hand and are naming its source. Compare *results in*, which runs the other way, and *derives from*, which is drier and more technical. Neutral in tone, but it drifts toward diagnosing trouble — you far more often read that a failure stemmed from something than that a triumph did. The *from* is obligatory; the verb never stands alone in this sense.",
+  "trap": "⚠️ **stem from ≠ stem.**\n- **stem from** = *come out of* a source\n- **stem** (alone) = *stop the flow* — *stem the tide*, *stem the bleeding*\n\nTwo unrelated verbs. One traces a flow back; the other dams it.",
+  "trick_line": "**A stem always runs back to a root — so *stem from* names the root, never the branch.**",
+  "trick_unpack": "The phrase is a backwards-pointing verb: you say it about the cause, not the consequence.",
+  "sentences": [
+    "The commission concluded that the outage **stemmed from** a single misconfigured server, not from sabotage.",
+    "Half his stress **stems from** the fact that he refuses to say no to anyone."
+  ],
+  "in_the_wild": "**Stem cells** — the same metaphor, made literal: the cell every other cell type grows out of.",
+  "etymology": null,
+  "one_line": "to originate in; arise as a result of",
+  "root": "Old English stemn/stefn (stalk, tree trunk)",
+  "root_family": [
+    "stem cell",
+    "stemware"
+  ],
+  "confusables": [
+    "stem (to stanch, halt)",
+    "stem the tide"
+  ],
+  "sense_tags": [
+    "origin",
+    "causation",
+    "source",
+    "derivation"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    33
+  ]
+}

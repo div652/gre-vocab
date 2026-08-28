@@ -1,0 +1,38 @@
+{
+  "word": "onetime",
+  "pos": "adj.",
+  "pron": "WUN-tyme",
+  "pron_note": null,
+  "means": "**Former, ex-, previous** — someone or something that once held a role and no longer does: *a onetime rival, her onetime employer*.\n\nWhere *ex-* is blunt and personal and *erstwhile* is arch and literary, **onetime** is the tidy, journalistic option — it states the fact of a finished role without any feeling about it. It usually carries an implied *then vs. now* contrast: the onetime ally is mentioned precisely because he's now an enemy. Note the grammar, which is half the word: it only sits **in front of a noun**. You can say *his onetime partner*, never *\"his partner is onetime.\"*",
+  "trap": "⚠️ **onetime ≠ one-time.** Solid, *onetime* = **former**. Hyphenated, *one-time* usually = **happening only once** (*a one-time payment*). A onetime donor used to give; a one-time donor gave exactly once.",
+  "trick_line": "**Onetime** goes *before* the noun, because the person's time is already behind them.",
+  "trick_unpack": "If the word can't follow \"is,\" you're dealing with the \"former\" sense, not the \"only once\" sense.",
+  "sentences": [
+    "The committee was chaired by a **onetime** finance minister, long since retired from public life.",
+    "That's my **onetime** flatmate — we haven't spoken since the lease ended."
+  ],
+  "in_the_wild": "Justin Bieber's debut single **\"One Time\"** (2009) — and it means *once*, not *former*, which is exactly the split to remember: two words for the counting sense, one word for the has-been sense.",
+  "etymology": null,
+  "one_line": "Former — held the role once, not now.",
+  "root": null,
+  "root_family": [],
+  "confusables": [
+    "one-time",
+    "sometime",
+    "erstwhile",
+    "former",
+    "quondam"
+  ],
+  "sense_tags": [
+    "former",
+    "previous",
+    "past-role",
+    "ex",
+    "attributive-only"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    36
+  ]
+}

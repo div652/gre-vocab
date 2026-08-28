@@ -2,37 +2,36 @@
   "word": "daunting",
   "pos": "adj.",
   "pron": "DAWN-ting",
-  "pron_note": "US speakers often say DAHN-ting; same word.",
-  "means": "Intimidating in scale or difficulty — enough to sap your nerve **before you begin**.\n\nDifficulty is a property of the task; dauntingness is what the task does to *you*. A puzzle can be hard without being daunting; a 900-word vocabulary list is daunting the moment you open it, before a single word is learned. Note also the respect built in: calling a challenge daunting concedes that it's real and large, not that it's impossible — it's the word of someone who intends to try anyway. Milder and more dignified than *terrifying* or *overwhelming*, and far more common in professional speech: the collocation is almost always **daunting task / daunting prospect / daunting challenge**.",
-  "trap": "⚠️ **daunting ≠ vaunted.** One letter apart and both love to sit in front of a noun. **Daunting** reforms make you hesitate; **vaunted** (much-praised, boasted-about) reforms have been loudly bragged about — often with a sneer implied.",
-  "trick_line": "**Daunting** things loom at **DAWN** — before you've done a stroke of the work.",
-  "trick_unpack": "The pronunciation hands you the nuance: the discouragement arrives at the start, at the sight of the thing, not in the middle of doing it.",
+  "pron_note": "Some American speakers say DAHN-ting.",
+  "means": "So large, difficult or forbidding that it drains your confidence **before you begin**.\n\nThe word describes an effect on the person facing the thing, not a property of the thing itself — a mountain, a reading list and a job interview can all be daunting, and none of them are dangerous. It sits well below *terrifying*: it's the sinking feeling at the size of the task, not fear for your safety. Note also that it's polite, faintly formal office English — \"a daunting challenge\" is what you call something you fully intend to do anyway.",
+  "trap": null,
+  "trick_line": "**Daunting** rhymes with **haunting** — it looms over you before you've even started.",
+  "trick_unpack": "Both words are about something hanging over you rather than attacking you, which is exactly why *daunting* is intimidation, not danger.",
   "sentences": [
-    "The prospect of rebuilding the archive from water-damaged originals was **daunting**, but she began that afternoon regardless.",
-    "Forty tabs open and none of them read — honestly, it's a bit **daunting**."
+    "The prospect of reconstructing the archive from water-damaged fragments was **daunting**, but she began that morning regardless.",
+    "Forty tabs open and a deadline tomorrow — honestly, it's a bit **daunting**."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **domitāre**, *\"to tame\"* — to daunt someone was originally to **break their spirit**, like breaking a horse. That's why the negatives are the fierce ones: **dauntless** and **undaunted** = refusing to be tamed.\n\nSame root gives you **indomitable** — literally *\"cannot be tamed\"*, a top-tier GRE word you now get for free.",
-  "one_line": "So big or hard it makes you hesitate before starting.",
-  "root": "domitāre / domāre (to tame)",
+  "in_the_wild": "In *Divergent*, the fearless faction is called **Dauntless** — literally \"the un-daunt-able ones\", the people nothing looms over.",
+  "etymology": "Latin **domāre** = *\"to tame\"*, via *domitāre* and Old French *danter*. To daunt someone is to **tame** them — break their spirit so they back down.\n\nThat gives you the high-value GRE cousin: **indomitable** = *\"un-tame-able\"*, the person who cannot be daunted. Same root, opposite end.",
+  "one_line": "So difficult or vast it saps your confidence before you start.",
+  "root": "domāre (to tame)",
   "root_family": [
     "indomitable",
     "dauntless",
-    "undaunted",
-    "daunt"
+    "undaunted"
   ],
   "confusables": [
-    "vaunted",
-    "flaunting",
-    "taunting",
-    "dauntless"
+    "dauntless",
+    "undaunted",
+    "haunting",
+    "vaunting",
+    "flaunting"
   ],
   "sense_tags": [
     "intimidating",
+    "difficult",
     "discouraging",
-    "formidable",
-    "fear",
-    "difficulty"
+    "imposing"
   ],
   "register": "neutral",
   "connotation": "negative",

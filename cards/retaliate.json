@@ -1,0 +1,41 @@
+{
+  "word": "retaliate",
+  "pos": "v.",
+  "pron": "rih-TAL-ee-ayt",
+  "pron_note": null,
+  "means": "To **strike back** at someone who has harmed you — returning injury for injury, usually in the same coin.\n\nThe word is structurally **second**: it needs a prior blow to exist, so it quietly assigns blame to whoever moved first. Compare its neighbours — **avenge** is moral and elevated (you avenge a murdered brother), **revenge** is personal and hot, but **retaliate** is cool, transactional, almost procedural. It's the verb of tariffs, sanctions, air strikes, and office politics: a measured counter-move, not a passion. Note too that it doesn't need to be *just* — only *responsive*.",
+  "trap": null,
+  "trick_line": "**Nobody can retaliate first.**",
+  "trick_unpack": "The word carries its own backstory — a retaliation is always the second blow, which is why it lets the retaliator claim the moral high ground.",
+  "sentences": [
+    "When the tribunal upheld the sanctions, Beijing **retaliated** within the week, matching the tariff line for line.",
+    "Push him in a meeting and he won't argue — he'll **retaliate** three months later in your performance review."
+  ],
+  "in_the_wild": "Trade-war headlines run on this word: every round of tariffs is met by **retaliatory tariffs**, and HR policies everywhere ban **retaliation** against whistleblowers — the legal term for punishing someone for complaining.",
+  "etymology": "Latin **talis** = *\"of such kind\"* → **retaliare**, *\"to return the like.\"* That's the whole nuance sitting in the root: the response is supposed to **match** the offence.\n\nSame root gives **lex talionis**, the ancient law of \"an eye for an eye\" — measured, equal payback, not unlimited revenge.\n\n🚫 **Not related to *tally*** (Latin *talea*, a notched stick), even though \"settling the score\" makes them feel like cousins.",
+  "one_line": "To strike back at whoever harmed you first.",
+  "root": "talis (of such kind, like)",
+  "root_family": [
+    "retaliation",
+    "retaliatory",
+    "talion",
+    "lex talionis"
+  ],
+  "confusables": [
+    "reciprocate",
+    "reiterate",
+    "retort"
+  ],
+  "sense_tags": [
+    "revenge",
+    "counterattack",
+    "payback",
+    "reprisal",
+    "response"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    31
+  ]
+}

@@ -2,38 +2,38 @@
   "word": "insular",
   "pos": "adj.",
   "pron": "IN-suh-ler",
-  "pron_note": "Not \"in-SOO-lar\" — the first syllable takes the weight.",
-  "means": "Literally **of an island**; almost always used figuratively: **closed off from outside influence, narrow in outlook, interested only in one's own circle.**\n\nThe charge isn't hostility — it's *unexposed*. An insular community hasn't rejected the wider world so much as never bothered to look at it, and has grown small-minded by default. That makes it the standard cool, analytical word for describing whole institutions and countries as much as people: an insular department, an insular village, an insular foreign policy. Compare **aloof**, which is personal chilliness by choice; insularity is a whole worldview shrunk to fit one small place.",
+  "pron_note": "Also heard as IN-syuh-ler in British English.",
+  "means": "Literally **of an island**; on the GRE, almost always the figurative sense: **cut off from outside influence, and narrow because of it** — interested only in one's own circle, incurious about anything beyond it.\n\nThe word attacks *range*, not intelligence. A brilliant scholar can be insular. It also carries a hint of **complacency** — the insular don't feel deprived by their isolation; they think their small world is the whole world. Cooler and more clinical than *bigoted* or *provincial*: it diagnoses a condition rather than throwing an insult, which is why it survives in serious writing about communities, academic fields and countries.",
   "trap": null,
-  "trick_line": "**Insular = INSULATED** — the same walls that keep the heat in keep new ideas out.",
-  "trick_unpack": "Insulation isn't malice, it's just a barrier — which is exactly why insular people and places end up narrow without ever deciding to be.",
+  "trick_line": "**Insul**ar minds are **insul**ated — nothing from outside gets in.",
+  "trick_unpack": "Insulation isn't hostile, it's just sealed — which is exactly the temperature of the word: not aggression, but a closed system that never lets a foreign idea through.",
   "sentences": [
-    "Decades of unchallenged prestige had left the faculty **insular**, citing chiefly one another and reviewing chiefly themselves.",
-    "He grew up in such an **insular** little town that meeting someone from two counties over counted as travel."
+    "The department had grown **insular**, citing only its own faculty and dismissing work published anywhere else.",
+    "Her hometown is lovely but pretty **insular** — three generations of the same families, and everyone else is a tourist."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **insula** = *\"island.\"* The figurative sense is the literal one: island-shaped thinking, cut off by water.\n\nThe root pays out widely: **isolate** (put on an island), **peninsula** (*paene* \"almost\" + *insula* — almost an island), **insulate** (wall off), and **insulin** — named for the *islets* of Langerhans, little islands of cells in the pancreas.",
-  "one_line": "Narrow-minded and cut off from outside influence.",
+  "etymology": "Latin **insula** = *\"island.\"* An island is land with the world held at arm's length — that's the whole word.\n\nOne root, a useful family: **isle** and **isolate** (to make into an island), **insulate** (wrap it off from its surroundings), **peninsula** (*paene* \"almost\" + *insula* = *almost an island*), and even **insulin** — named for the *islets* of Langerhans, little islands of cells in the pancreas.",
+  "one_line": "Cut off and narrow-minded, like life on a small island.",
   "root": "insula (island)",
   "root_family": [
+    "isle",
     "isolate",
-    "isolation",
-    "peninsula",
     "insulate",
+    "peninsula",
     "insulin",
-    "isle"
+    "isolation"
   ],
   "confusables": [
     "insolent",
-    "insulate",
-    "insolvent"
+    "insular vs insulate",
+    "secular"
   ],
   "sense_tags": [
     "narrow-minded",
     "isolated",
     "provincial",
-    "closed-off",
-    "inward-looking"
+    "inward-looking",
+    "incurious"
   ],
   "register": "formal",
   "connotation": "negative",

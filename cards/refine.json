@@ -1,0 +1,46 @@
+{
+  "word": "refine",
+  "pos": "v.",
+  "pron": "ri-FEYEN",
+  "pron_note": null,
+  "means": "To **remove impurities** from something (metal, oil, sugar), or to **improve something by small, precise adjustments** — a technique, an argument, a design.\n\nThe key limit: you refine what is **already basically sound**. You fix a broken argument; you refine a decent one. Nothing is added and nothing is rebuilt — waste is stripped out and edges are smoothed, so the result is the same thing in a purer form. On the GRE it usually shows up in the abstract sense: a scientist *refines* a model, a writer *refines* a draft.\n\nWatch the adjective: **refined** manners are polished, but the word can curdle into snobbery — refined taste often implies someone less refined is in the room.",
+  "trap": null,
+  "trick_line": "**Re-fine = make finer.** A refinery doesn't invent oil — it takes the crude out.",
+  "trick_unpack": "Refining is subtraction and polish, never construction from scratch.",
+  "sentences": [
+    "Each successive experiment **refined** the model until its predictions matched the data to three decimal places.",
+    "I've been **refining** my coffee routine for months — it's basically the same recipe, just less bad."
+  ],
+  "in_the_wild": "The supermarket shelf teaches the literal sense: **refined** sugar and flour are the stripped, whitened versions, sold next to their \"unrefined\" wholemeal cousins.",
+  "etymology": "From Latin **finis** = *\"end, limit\"* → **fine** in its older sense of *pure, unalloyed* (as in **fine gold**, 24-carat). To *re-fine* is to drive metal toward that pure endpoint.\n\nThat root pays off everywhere: **finish, finite, infinite, define, confine, final, finesse**.",
+  "one_line": "To purify, or improve by small precise adjustments.",
+  "root": "finis (end, limit) → fine (pure, unalloyed)",
+  "root_family": [
+    "finish",
+    "finite",
+    "infinite",
+    "define",
+    "confine",
+    "final",
+    "finesse",
+    "affinity"
+  ],
+  "confusables": [
+    "redefine",
+    "refrain",
+    "refined",
+    "define"
+  ],
+  "sense_tags": [
+    "improving",
+    "purifying",
+    "polishing",
+    "precision",
+    "incremental-change"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    16
+  ]
+}

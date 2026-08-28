@@ -1,0 +1,41 @@
+{
+  "word": "schism",
+  "pos": "n.",
+  "pron": "SIZ-uhm",
+  "pron_note": "Traditionally SIZ-uhm; SKIZ-uhm is now widely accepted. The \"ch\" is never \"ch\" as in chair.",
+  "means": "A **formal split of a group into opposing factions** — especially a church, party, or institution — usually over doctrine or principle. Also the resulting division itself.\n\nA *rift* is emotional and may heal; a *dispute* is an event. A schism is **structural and permanent**: one body becomes two, each claiming to be the true one. The word carries an ecclesiastical shadow even in secular use, so calling a party split a schism implies a war over *orthodoxy*, not tactics — heretics on one side, the faithful on the other.",
+  "trap": null,
+  "trick_line": "**sch-ISM** — a split over an **-ism**.",
+  "trick_unpack": "The word hides *ism* precisely because a schism is never about personalities — it's a rupture over doctrine, and it ends with two organisations where there was one.",
+  "sentences": [
+    "The reform vote produced a lasting **schism**, and within a year the dissenting bishops had consecrated a rival hierarchy.",
+    "There's a proper **schism** in the group chat now — half of them won't book the same flight as the other half."
+  ],
+  "in_the_wild": "**The Great Schism of 1054**, when Christianity split into Roman Catholic and Eastern Orthodox — the textbook case, and the reason the word still smells of churches.",
+  "etymology": "Greek **skhizein** = *\"to split, to cleave\"* → **skhisma**, \"a cleft.\"\n\nSame root gives **schizophrenia** (literally \"split mind\") and **schist**, the rock that flakes apart in sheets. Hear *schizo-* inside *schism* and the meaning is free.",
+  "one_line": "A formal split of a group into rival factions.",
+  "root": "skhizein (to split)",
+  "root_family": [
+    "schizophrenia",
+    "schist",
+    "schizoid",
+    "schismatic"
+  ],
+  "confusables": [
+    "chasm",
+    "spasm",
+    "schematic"
+  ],
+  "sense_tags": [
+    "division",
+    "faction",
+    "rupture",
+    "religion",
+    "dissent"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    20
+  ]
+}

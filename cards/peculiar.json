@@ -1,0 +1,40 @@
+{
+  "word": "peculiar",
+  "pos": "adj.",
+  "pron": "pih-KYOOL-yer",
+  "pron_note": null,
+  "means": "Two senses, and the GRE almost always wants the second.\n\n**1. Strange, odd** — but mildly so. *Peculiar* is the gentlest word in its family: *bizarre* startles you, *weird* unsettles you, *peculiar* just makes you tilt your head. It's the polite British word for \"there's something off here and I'd rather not say what\" — a peculiar smell, a peculiar man, a peculiar silence at dinner.\n\n**2. Belonging exclusively to one person, group, or place.** This sense carries no oddness at all: a dialect **peculiar to** the islands, a talent **peculiar to** her. Watch for the preposition — **\"peculiar to X\"** is nearly always sense 2, and the test rewards you for spotting it.",
+  "trap": null,
+  "trick_line": "**Pecu**liar and **pecu**niary share a root: *your own cattle.* What belongs to you alone eventually starts to look odd to everyone else.",
+  "trick_unpack": "The exclusive-property sense came first, and the \"strange\" sense is just what exclusivity looks like from the outside.",
+  "sentences": [
+    "The nesting behaviour is **peculiar to** this one subspecies; no related bird does anything like it.",
+    "He's got a **peculiar** way of answering the phone — three rings, then a whisper.\n"
+  ],
+  "in_the_wild": "The King James Bible calls the faithful \"**a peculiar people**\" (1 Peter 2:9) — not a weird people, but *God's own people*. That line is the exclusive-possession sense preserved in amber.",
+  "etymology": "Latin **pecū** = *\"cattle\"* → **pecūlium**, the private herd a Roman slave or son was allowed to own → **pecūliāris**, *\"one's own.\"*\n\nCattle were the first money, so that root runs straight into your wallet: **pecuniary** (relating to money), **impecunious** (broke), **peculate** (to embezzle — to treat public funds as your own).",
+  "one_line": "Mildly odd; or belonging exclusively to one person or group.",
+  "root": "pecū (cattle) → pecūlium (private property)",
+  "root_family": [
+    "pecuniary",
+    "impecunious",
+    "peculate",
+    "peculiarity"
+  ],
+  "confusables": [
+    "particular",
+    "pernicious",
+    "peculate"
+  ],
+  "sense_tags": [
+    "odd",
+    "distinctive",
+    "exclusive",
+    "characteristic"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    16
+  ]
+}

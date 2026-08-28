@@ -1,0 +1,45 @@
+{
+  "word": "unprecedented",
+  "pos": "adj.",
+  "pron": "un-PRES-uh-den-tid",
+  "pron_note": "Stress lands on PRES, like precedent — never \"un-pre-SEED-ented\", even though it comes from precede.",
+  "means": "Never done, known, or seen before — there is **no earlier case of it on record**.\n\nStrictly, it's a claim about the historical record, not about size or drama: a thing can be tiny and still unprecedented. News and marketing have worn it down into a vague intensifier meaning \"huge,\" but the GRE will use it literally — *no prior instance*. Note also that it says nothing about likelihood: an event can be fully predicted and still unprecedented, because prediction looks forward and precedent looks back.",
+  "trap": "⚠️ **unprecedented ≠ unpredicted.** *Unprecedented* = it has never happened before. *Unpredicted* = nobody saw it coming. Epidemiologists predicted a pandemic for years; when it came, it was still unprecedented in living memory.",
+  "trick_line": "**Un-PRECEDENT-ed** — a judge with no precedent has no case to cite.",
+  "trick_unpack": "The whole word is just *precedent* wrapped in negatives, so it points at the empty archive, not at how big or shocking the thing is.",
+  "sentences": [
+    "The court's ruling was **unprecedented**: no bench had ever extended the doctrine to private contracts.",
+    "Three sick days in one week? For him that's **unprecedented** — the man came in with a broken wrist once."
+  ],
+  "in_the_wild": "2020 made it a punchline: every brand email on earth opened with \"in these **unprecedented** times,\" until the phrase became a joke about corporate filler.",
+  "etymology": "Latin **prae-** (*before*) + **cedere** (*to go*) — a precedent is literally the thing that \"went before.\"\n\nThat root is a GRE goldmine: **precede, recede, secede, concede, accede, antecedent, cede, procedure**.",
+  "one_line": "Never done before; no earlier case exists on record.",
+  "root": "prae- + cedere (to go before)",
+  "root_family": [
+    "precedent",
+    "precede",
+    "recede",
+    "secede",
+    "concede",
+    "accede",
+    "antecedent",
+    "cede",
+    "procedure"
+  ],
+  "confusables": [
+    "unpredicted",
+    "unprecedented vs precedent",
+    "precedent vs president"
+  ],
+  "sense_tags": [
+    "novel",
+    "first-ever",
+    "without-precedent",
+    "unparalleled"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    22
+  ]
+}

@@ -2,43 +2,44 @@
   "word": "tortuous",
   "pos": "adj.",
   "pron": "TOR-choo-uhs",
-  "pron_note": "Three syllables, not four — torturous (TOR-chuh-ruhs) has an extra one.",
-  "means": "Full of twists and turns — literally, of a road, river, or coastline; figuratively, of an argument, a negotiation, or a piece of prose that keeps doubling back on itself.\n\nOf a landscape it's purely descriptive. Turned on reasoning, it goes quietly disparaging: **tortuous** logic isn't just complex, it's *needlessly* complex — winding, hard to follow, and often faintly suspicious, as though the speaker is taking the long way round to avoid something. It says nothing about pain. A tortuous explanation is exhausting to follow; it isn't agony.",
-  "trap": "⚠️ **tortuous ≠ torturous.**\n- **tortuous** = *twisting* — a mountain road, a convoluted argument\n- **torturous** = *causing torture* — agonising\n\nA tortuous route is scenic. A torturous route is the one with no water and a broken ankle.",
-  "trick_line": "**Tortuous** is the road; **torturous** is the rack — the extra **r** is for *rack*.",
-  "trick_unpack": "Drop the second *r* and you drop the pain, leaving only the bends.",
+  "pron_note": "Three syllables. *Torturous* has four: TOR-cher-uhs.",
+  "means": "**Literally:** full of bends and turns — a tortuous road, a tortuous mountain river.\n**Figuratively:** so twisting that it's hard to follow — tortuous reasoning, a tortuous negotiation, tortuous prose.\n\nThe complaint is about the *path*, not the pain. A tortuous explanation isn't painful, it's serpentine: it goes there eventually, by way of everywhere else. *Circuitous* is neutrally roundabout and *convoluted* stresses tangle, but *tortuous* carries a faint whiff of evasion — call someone's logic tortuous and you're hinting they twisted it that way on purpose.",
+  "trap": "**tortuous ≠ torturous.**\n- **tortuous** = full of twists (a road, an argument)\n- **torturous** = causing agony (a torturous three-hour wait)\n\nThe extra **r** is the one on the **r**ack.",
+  "trick_line": "**Tor-tu-ous** = a **tour** with too many turns.",
+  "trick_unpack": "You get there in the end, but by a route nobody would design on purpose.",
   "sentences": [
-    "The treaty emerged only after eighteen months of **tortuous** negotiation, each clause revisited a dozen times.",
-    "He gave me some **tortuous** excuse about a cousin, a car and a missing charger — I stopped following halfway through."
+    "The treaty emerged only after eighteen months of **tortuous** negotiation, each clause bought with a concession elsewhere.",
+    "His excuse was so **tortuous** that by the end I'd forgotten what he was apologising for."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **torquēre, tortus** = *\"to twist.\"* The root is everywhere: **torque** (twisting force), **contort**, **distort**, **retort** (a reply twisted back at you), **extort** (twisting money out of someone), **torment**.\n\n**Torture** comes from the same root — twisting the body — which is exactly why the two words are so easy to confuse. They're cousins that split: one kept the twist, the other kept the pain.",
-  "one_line": "Full of twists and turns; convoluted, not painful.",
+  "etymology": "Latin **torquēre** = *\"to twist.\"* It powers a huge GRE family: **torque** (twisting force), **contort**, **distort**, **extort** (twist money out of someone), **retort** (a reply twisted back at you), **torsion** — and **tortilla**, the little twisted-and-rolled flatbread.\n\n**Torture** comes from the same root — the rack twisted the *body*. So both words twist; the question is only what's being twisted. Road → **tortuous**. Victim → **torturous**.",
+  "one_line": "Full of twists — winding, or too convoluted to follow.",
   "root": "torquēre, tortus (to twist)",
   "root_family": [
     "torque",
     "contort",
     "distort",
-    "retort",
     "extort",
-    "torment",
+    "retort",
     "torsion",
-    "torture"
+    "torment",
+    "torture",
+    "tortilla"
   ],
   "confusables": [
     "torturous",
-    "torpid",
-    "tortious"
+    "tortious",
+    "torpid"
   ],
   "sense_tags": [
     "winding",
     "convoluted",
     "indirect",
     "complex",
-    "circuitous"
+    "evasive"
   ],
-  "register": "neutral",
-  "connotation": "depends",
+  "register": "formal",
+  "connotation": "negative",
   "groups": [
     6
   ]

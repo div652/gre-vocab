@@ -1,0 +1,44 @@
+{
+  "word": "nominal",
+  "pos": "adj.",
+  "pron": "NOM-uh-nuhl",
+  "pron_note": null,
+  "means": "**1.** Existing **in name only** — the title is real, the power isn't. *The nominal head of the family.*\n**2.** Of a price or sum: **token**, so small it's barely a real charge. *A nominal fee of £1.*\n**3.** Technical (engineering, finance): **as specified, on-spec** — the stated or expected value, not the adjusted one. *Nominal wages, nominal thrust.*\n\nSense 1 is a quiet demotion. It doesn't accuse anyone of fraud — the label is genuine — it just drains it of substance, and it's usually said flatly by someone in a position to know. Sense 2 follows straight from it: a nominal fee is a price *in name only*, charged so the transaction exists on paper, not to make money.",
+  "trap": "⚠️ **nominal ≠ minimal.** *Minimal* just means very small. *Nominal* means small **because it's only a token** — the amount exists to name the thing, not to matter. A nominal charge is symbolic; a minimal charge is merely cheap.",
+  "trick_line": "**NOM = name.** A nominal king is a king *in name*; a nominal fee is a price *in name*.",
+  "trick_unpack": "Whatever follows the word is real on the label and hollow in fact.",
+  "sentences": [
+    "The monarch remains the **nominal** commander of the armed forces, though no sovereign has issued an order in two centuries.",
+    "They charge a **nominal** two quid for the tour — basically just to stop people wandering in."
+  ],
+  "in_the_wild": "NASA flight controllers: **\"All systems are nominal.\"** Not \\\"good\\\" — *exactly as specified*. It's the word Mission Control keeps saying in *Apollo 13*, right up until things stop being nominal.",
+  "etymology": "Latin **nomen, nominis** = *\"name.\"* One root, a lot of GRE words: **nominate** (put a name forward), **nomenclature** (naming system), **misnomer** (wrong name), **denomination** (a named unit — of money or of church), and **ignominy** (*in-* \"without\" + *nomen* — namelessness, hence disgrace).",
+  "one_line": "In name only; token-small; or exactly as specified.",
+  "root": "nomen, nominis (name)",
+  "root_family": [
+    "nominate",
+    "nomenclature",
+    "misnomer",
+    "denomination",
+    "ignominy",
+    "noun",
+    "renown"
+  ],
+  "confusables": [
+    "minimal",
+    "notional",
+    "nominative"
+  ],
+  "sense_tags": [
+    "in-name-only",
+    "titular",
+    "token",
+    "trivial-amount",
+    "as-specified"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    30
+  ]
+}

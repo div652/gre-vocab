@@ -1,0 +1,41 @@
+{
+  "word": "volatile",
+  "pos": "adj.",
+  "pron": "VOL-uh-tuhl",
+  "pron_note": "American: VOL-uh-tuhl. British: VOL-uh-tyle (rhyming with \"tile\").",
+  "means": "Liable to change suddenly, sharply, and without warning — of a substance, evaporating at low temperature; of a person, market, or situation, apt to erupt.\n\nThe word carries **latent danger**, not mere inconstancy. A *fickle* friend changes her mind; a *mercurial* boss swings between charm and gloom; a **volatile** situation is one you back away from, because the change it threatens is violent. Even in its neutral technical senses — a volatile solvent, a volatile stock, volatile memory — the shared idea is that the thing will not stay put and cannot be relied on to be there in a moment.",
+  "trap": "⚠️ **volatile ≠ voluble.** *Voluble* means **fluent, talkative, speech flowing easily** — a voluble host, not a dangerous one. Same first three letters, unrelated roots (*volare* = fly; *volvere* = roll).",
+  "trick_line": "**Vola-tile: it's about to fly off — the handle, the beaker, the charts.**",
+  "trick_unpack": "\"Fly off\" catches both halves at once: the literal escaping vapour and the figurative sense that something is a moment away from blowing.",
+  "sentences": [
+    "The ceasefire held, but the border remained **volatile**, and both governments kept their embassies half-staffed.",
+    "Don't bring up the divorce — he's been pretty **volatile** all week."
+  ],
+  "in_the_wild": "Your RAM is **volatile memory**: cut the power and everything in it is simply gone. That's the word doing its literal job — the data flies away.",
+  "etymology": "Latin **volāre** = *\"to fly.\"* *Volatilis* meant *flying, fleeting* — first used in English of birds and insects, then of liquids that \"fly off\" as vapour, and only later of tempers and markets.\n\nSame root: **volley** (a flight of arrows), **volant** (flying, in heraldry), **vol-au-vent** (pastry so light it \"flies in the wind\").",
+  "one_line": "Liable to change suddenly and dangerously; quick to evaporate",
+  "root": "volāre (to fly)",
+  "root_family": [
+    "volley",
+    "volant",
+    "vol-au-vent",
+    "volatility"
+  ],
+  "confusables": [
+    "voluble",
+    "versatile",
+    "vacillate"
+  ],
+  "sense_tags": [
+    "unstable",
+    "unpredictable",
+    "explosive",
+    "evaporating",
+    "changeable"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    15
+  ]
+}

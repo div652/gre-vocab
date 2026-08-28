@@ -1,0 +1,45 @@
+{
+  "word": "antedate",
+  "pos": "v.",
+  "pron": "AN-ti-dayt",
+  "pron_note": "Spelled ante-, but said like \"anti-\" — in speech there's no audible difference between the two prefixes.",
+  "means": "**1.** To **come before something else in time** — to be older than it.\n**2.** To **mark a document with a date earlier than the real one** (i.e. backdate it).\n\nSense 1 is neutral and bookish: it's what you use for gaps measured in centuries, not last Tuesday. **Predate** means the same thing and is the plainer, far commoner word — *antedate* is the stiffer, more scholarly register, and it's the only one of the pair that also carries sense 2. That second sense is where the word turns shady: nobody antedates a contract by accident, and in legal or audit contexts the word is a near-synonym for fraud.",
+  "trap": null,
+  "trick_line": "**Ante-date = put the date out front** — either it genuinely stood first, or someone quietly moved it there.",
+  "trick_unpack": "One prefix covers both senses: real priority in time, or manufactured priority on paper.",
+  "sentences": [
+    "The cave paintings at Chauvet **antedate** those at Lascaux by some twenty thousand years.",
+    "He **antedated** the cheque by a week so it wouldn't look like he'd missed the deadline."
+  ],
+  "in_the_wild": "Poker: the **ante** is the chip you put in *before* the cards are dealt — which is why \"**up the ante**\" means raising the stakes up front, before anyone's committed.",
+  "etymology": "Latin **ante** = *\"before.\"* It's everywhere once you see it: **antecedent** (going before), **antebellum** (pre-war), **anterior** (front), **antechamber** (the room you wait in before the real one), **anticipate** (take beforehand).\n\n🚫 **Not *anti-*.** That's Greek for *\"against\"* — *antidote, antiseptic, antipathy*. Same sound, opposite job: *ante* = earlier, *anti* = opposed.",
+  "one_line": "To come before in time; or mark with an earlier date.",
+  "root": "ante (before)",
+  "root_family": [
+    "antecedent",
+    "antebellum",
+    "anterior",
+    "antechamber",
+    "anticipate",
+    "antepenultimate"
+  ],
+  "confusables": [
+    "predate",
+    "postdate",
+    "antidote",
+    "antecede",
+    "antebellum"
+  ],
+  "sense_tags": [
+    "precede",
+    "earlier",
+    "chronology",
+    "backdate",
+    "priority"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    16
+  ]
+}

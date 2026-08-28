@@ -1,0 +1,38 @@
+{
+  "word": "ennui",
+  "pos": "n.",
+  "pron": "ahn-WEE",
+  "pron_note": "Never EN-yoo-eye — the word never got anglicised.",
+  "means": "A listless, settled **boredom** — dissatisfaction born of having nothing that interests you, and suspecting nothing ever will.\n\nPlain boredom is situational and short: a delayed flight, a dull meeting. Ennui is a **climate, not a weather event** — chronic, faintly philosophical, and worn almost as a credential. It belongs to people with the leisure to be bored: aristocrats, poets, disaffected teenagers in black. Calling it ennui rather than boredom is itself a small act of self-flattery, and good writers use it knowing that.",
+  "trap": null,
+  "trick_line": "**Ennui** is boredom that has been to Paris.",
+  "trick_unpack": "Same emptiness, but slower, grander, and quietly pleased with itself for feeling it.",
+  "sentences": [
+    "A summer of country weekends left her in a state of **ennui** no invitation could cure.",
+    "Three months into the job it wasn't stress, it was **ennui** — I just stopped caring what the emails said."
+  ],
+  "in_the_wild": "Wes Anderson's *The French Dispatch* is set in a town called **Ennui-sur-Blasé** — \"Boredom-on-Jaded.\" The joke only lands if you know the word, and knowing the joke locks the word in.",
+  "etymology": "Latin **in odiō** — *\"in hatred,\"* as in *mihi in odio est*, \"it is loathsome to me.\" Through Old French *enuier* this became two English words from one source: **ennui**, and its plainer twin **annoy**.\n\nThat's the whole scale in one root: what merely irritates you is an **annoyance**; what deadens you is **ennui**. Related through *odium*: **odious**, **odium**.",
+  "one_line": "Weary boredom from a life that no longer interests you.",
+  "root": "in odio (in hatred) → Old French enuier",
+  "root_family": [
+    "annoy",
+    "annoyance",
+    "odious",
+    "odium",
+    "noisome"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "boredom",
+    "listlessness",
+    "world-weariness",
+    "dissatisfaction",
+    "apathy"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    29
+  ]
+}

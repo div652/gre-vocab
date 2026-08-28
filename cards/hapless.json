@@ -1,0 +1,43 @@
+{
+  "word": "hapless",
+  "pos": "adj.",
+  "pron": "HAP-luhs",
+  "pron_note": null,
+  "means": "Unlucky — dogged by misfortune, and unable to do much about it.\n\nThe tone is pity from a safe distance, usually with a faint smile in it. A *hapless* person isn't doomed or tragic; they're the one who gets rained on, blamed, tripped up — misfortune keeps landing on them while they stand there taking it. That passivity is baked in: hapless people have things *done to* them. It's also almost always said about someone else — a narrator's word, a journalist's word — and it quietly makes the subject slightly ridiculous. Hence the stock pairings: *hapless victim, hapless bureaucrat, the hapless defending champions.*",
+  "trap": "⚠️ **hapless ≠ helpless.**\n- **hapless** = *unlucky* — bad things keep happening to you\n- **helpless** = *powerless* — you can't act at all\n\nA strong swimmer can be hapless (three cancelled flights); a hapless swimmer isn't necessarily helpless in the water.",
+  "trick_line": "**You are never hapless in your own story — only in someone else's.**",
+  "trick_unpack": "Nobody calls themselves hapless, because the word carries an onlooker's amused pity, which is exactly the nuance that separates it from plain *unlucky*.",
+  "sentences": [
+    "The novel follows a **hapless** clerk whose every attempt at romance collapses into farce.",
+    "Some **hapless** intern got blamed for taking the whole site down."
+  ],
+  "in_the_wild": "Sports commentary runs on this word — the bottom-of-the-table side is always \"the **hapless** Bears,\" never merely the losing one. Pundits reach for it to make defeat sound faintly comic.",
+  "etymology": "Old Norse **happ** = *\"luck, chance\"* → English **hap**, luck. Add *-less*: **without luck**.\n\nThat tiny root is hiding in a lot of everyday words: **happen** (what befalls you by chance), **happy** (originally *lucky*, not cheerful), **perhaps** (by chance), **mishap**, **haphazard** — all built on luck, not on feeling.",
+  "one_line": "Unlucky in a pitiable, faintly comic, helpless-bystander way.",
+  "root": "hap (Old Norse happ, luck/chance)",
+  "root_family": [
+    "happen",
+    "happy",
+    "perhaps",
+    "mishap",
+    "haphazard",
+    "happenstance"
+  ],
+  "confusables": [
+    "helpless",
+    "hopeless",
+    "haphazard"
+  ],
+  "sense_tags": [
+    "unlucky",
+    "misfortune",
+    "pitiable",
+    "passive",
+    "ineffectual"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    31
+  ]
+}

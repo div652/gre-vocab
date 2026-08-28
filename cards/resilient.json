@@ -1,0 +1,43 @@
+{
+  "word": "resilient",
+  "pos": "adj.",
+  "pron": "ri-ZIL-yuhnt",
+  "pron_note": "Three syllables in speech — not \"ri-ZIL-ee-uhnt.\"",
+  "means": "Able to **recover quickly** from shock, hardship, or damage; of a material, **springing back** into shape after being bent or compressed.\n\nThe word concedes the blow. *Robust* and *durable* say the damage never lands; **resilient** says it lands, and you come back anyway. That's why it's the standard praise word for people, economies, ecosystems, and markets that get hit and return to form — and why calling someone resilient implicitly acknowledges they've been through something. Compare *stoic*, which is about not showing the pain, not about recovering from it.",
+  "trap": null,
+  "trick_line": "**Re-** like *rebound, return, recover*: resilient things don't resist the hit, they come back from it.",
+  "trick_unpack": "The prefix carries the whole nuance — recovery after impact, not immunity to it.",
+  "sentences": [
+    "Three years after the earthquake the local economy proved unexpectedly **resilient**, with output back above pre-quake levels.",
+    "Kids are weirdly **resilient** — he cried for about ten seconds and then went straight back down the slide."
+  ],
+  "in_the_wild": "Every cloud provider sells **\"resilient architecture\"** — and the sales pitch spells out the nuance: the servers *will* fail, the system recovers in seconds. Resilient never meant unbreakable.",
+  "etymology": "Latin **resilīre** = *\"to leap back\"* (**re-** back + **salīre** to leap).\n\nThat *salīre* is a workhorse root: **salient** (a point that *leaps out* at you), **assault/assail** (*leap at*), **somersault** (*over-leap*), **sally**, **exult**, and the GRE favourite **desultory** — literally *leaping about*, hence aimless and unmethodical.",
+  "one_line": "Bounces back quickly from damage or hardship.",
+  "root": "salīre (to leap)",
+  "root_family": [
+    "salient",
+    "assail",
+    "assault",
+    "somersault",
+    "sally",
+    "exult",
+    "insult",
+    "desultory"
+  ],
+  "confusables": [
+    "resistant",
+    "resurgent"
+  ],
+  "sense_tags": [
+    "recovery",
+    "toughness",
+    "elasticity",
+    "adaptability"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    21
+  ]
+}

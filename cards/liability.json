@@ -1,0 +1,42 @@
+{
+  "word": "liability",
+  "pos": "n.",
+  "pron": "lye-uh-BIL-uh-tee",
+  "pron_note": null,
+  "means": "**1.** A **legal or financial obligation** — a debt, a claim someone can enforce against you. (Plural on a balance sheet: **liabilities**, the money you owe.)\n**2.** A **person or thing that costs you more than it gives** — the opposite of an asset.\n\nSense 2 is the GRE one, and it's colder than *burden* or *nuisance*. A nuisance annoys you; a liability **exposes** you — it creates risk you'll have to pay for. Calling a teammate a liability isn't quite an insult about character; it's an accounting verdict: on net, they're in the debit column. That borrowed-from-the-ledger flavour is what gives the word its clinical sting.",
+  "trap": "**liability ≠ libel.** *Libel* (LYE-bul) is defamation in **writing**. You can, of course, incur *liability* for *libel* — which is exactly why the two get tangled.",
+  "trick_line": "**li-a-BIL-ity** — say it slowly and you say **a bill**.",
+  "trick_unpack": "A liability is whatever hands you a bill: a debt you owe, or a person whose mistakes you end up paying for.",
+  "sentences": [
+    "The auditors found undisclosed **liabilities** buried in the subsidiary's accounts, wiping out the reported profit.",
+    "He's fast, sure, but he can't defend — at this level he's a **liability**."
+  ],
+  "in_the_wild": "Every **Ltd.** and **LLC** on a company name is short for *limited liability* — the whole point of the structure is that if the business goes under, creditors can take the company's money but not the founders' house.",
+  "etymology": "From **liable**, most likely via Old French *lier* ← Latin **ligāre** = *\"to bind.\"* A liability is what you are **bound** to — legally tied, unable to walk away.\n\nSame root: **ligament** (binds bone to bone), **oblige** (bind toward), **liaison** (a binding-together), **ally**, **league**.",
+  "one_line": "A legal debt, or a person who's a burden not an asset.",
+  "root": "ligāre (to bind)",
+  "root_family": [
+    "ligament",
+    "oblige",
+    "liaison",
+    "ally",
+    "league",
+    "obligation"
+  ],
+  "confusables": [
+    "liable",
+    "libel",
+    "viability"
+  ],
+  "sense_tags": [
+    "debt",
+    "legal-responsibility",
+    "burden",
+    "risk-exposure"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    22
+  ]
+}

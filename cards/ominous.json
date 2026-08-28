@@ -1,0 +1,40 @@
+{
+  "word": "ominous",
+  "pos": "adj.",
+  "pron": "OM-uh-nuhs",
+  "pron_note": "Short o, as in hot — not \"OH-min-us\", even though omen has a long O.",
+  "means": "Giving the sense that something bad is about to happen; menacing in the way a **sign** is menacing.\n\nThe key is that *ominous* describes a forecast, not an attack. A growling dog is threatening; the sudden silence just before it growls is ominous. Nothing has happened yet — the word lives in the gap between the warning and the harm, which is why it attaches so naturally to weather, silence, a doctor's pause, a phone call at 3am. Faintly literary in flavour, but perfectly at home in speech.",
+  "trap": "⚠️ **ominous ≠ onerous.**\n- **ominous** = *boding evil, threatening*\n- **onerous** = *burdensome, heavy going* (Latin *onus*, \"load\")\n\nAn onerous contract exhausts you. An ominous one means you're about to be ruined.",
+  "trick_line": "There's an **omen** sitting inside **omin**ous — and an omen never hits you, it only warns you.",
+  "trick_unpack": "That hidden word carries the nuance: the danger is still ahead, and the word points at the sign rather than the strike.",
+  "sentences": [
+    "The dispatches from the frontier grew shorter and more **ominous** with each passing week.",
+    "My boss said \"let's talk Monday\" and walked out — which felt pretty **ominous**."
+  ],
+  "in_the_wild": "Stock music libraries have a category literally tagged **\"ominous\"** — the low string drone under a trailer as the screen goes dark. You've heard the word's exact meaning scored a hundred times.",
+  "etymology": "Latin **omen, ominis** = *a sign, a foretelling* — straight into English as **omen** and **ominous**.\n\nThe same root gives you **abominable**, from *ab-ominari*, \"to shrink away from as a bad omen.\" The Abominable Snowman is, etymologically, a walking bad sign.",
+  "one_line": "Signalling that something bad is coming.",
+  "root": "omen, ominis (sign, foretelling)",
+  "root_family": [
+    "omen",
+    "abominable",
+    "abominate",
+    "abomination"
+  ],
+  "confusables": [
+    "onerous",
+    "omen",
+    "portentous"
+  ],
+  "sense_tags": [
+    "foreboding",
+    "threatening",
+    "warning",
+    "doom"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    29
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "paradoxical",
+  "pos": "adj.",
+  "pron": "par-uh-DOK-si-kuhl",
+  "pron_note": null,
+  "means": "Self-contradictory on the face of it — and yet true, or at least standing up to scrutiny.\n\nThe word does real work only when both halves survive. Something merely **contradictory** is broken: one side must be wrong. Something **ironic** is a wink at a mismatched outcome. **Paradoxical** keeps both sides alive at once — the drug that causes the symptom it treats, the rule that makes obeying it impossible. Tone is analytical rather than critical: calling a finding paradoxical says *this is worth thinking about*, not *this is nonsense*.",
+  "trap": null,
+  "trick_line": "**Contradictory** means it's wrong. **Paradoxical** means it's wrong *and true anyway*.",
+  "trick_unpack": "Save the word for contradictions that survive inspection — the safety feature that causes accidents, the crowd that leaves you lonelier.",
+  "sentences": [
+    "The study reached the **paradoxical** conclusion that the most heavily policed districts reported the least confidence in the police.",
+    "It's a bit **paradoxical**, but the more sleep-tracking apps I install, the worse I sleep."
+  ],
+  "in_the_wild": "**Catch-22** is the purest paradoxical rule in fiction: you can be grounded for insanity, but asking to be grounded proves you're sane. The book gave English a phrase for exactly this shape of trap.",
+  "etymology": "Greek **para-** (*beside, contrary to*) + **doxa** (*opinion, belief*) → *paradoxos*, \"contrary to received opinion.\"\n\nThat **dox** unlocks a set: **orthodox** (*straight* opinion), **heterodox** (*other* opinion), **doxology** (*doxa* also = glory, so: words of praise). And **para-** runs through **parody** (*a song sung alongside*), **parallel**, **paranormal**.",
+  "one_line": "Self-contradictory on its face, yet somehow true.",
+  "root": "para- (beside, contrary to) + doxa (opinion)",
+  "root_family": [
+    "orthodox",
+    "heterodox",
+    "doxology",
+    "parody",
+    "parallel",
+    "paranormal"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "self-contradictory",
+    "counterintuitive",
+    "puzzling",
+    "logic"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    21
+  ]
+}

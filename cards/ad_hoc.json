@@ -1,0 +1,42 @@
+{
+  "word": "ad hoc",
+  "pos": "adj. / adv.",
+  "pron": "ad HOK",
+  "pron_note": "Also heard as ad HOHK; both are standard.",
+  "means": "Made or done **for this one specific purpose**, with no thought to any wider plan — and therefore improvised, temporary, unsystematic.\n\nTwo flavours pull in opposite directions. **Neutral-administrative:** an *ad hoc committee* is simply one convened for a single question and dissolved afterwards — nobody is being insulted. **Mildly damning:** an *ad hoc* solution, policy, or hypothesis is a patch, cobbled together to handle the case in front of you, with no principle behind it that would survive the next case. In science and philosophy the label is close to an accusation: an *ad hoc* assumption is one bolted onto a theory purely to stop it being refuted.",
+  "trap": null,
+  "trick_line": "**ad hoc** is one letter from **a hack** — and that's exactly what an ad hoc fix is.",
+  "trick_unpack": "It works for *this* case and nothing else, which is why the word so often carries a faint whiff of \"we made it up on the spot.\"",
+  "sentences": [
+    "The board appointed an **ad hoc** subcommittee to review the single disputed clause, with a mandate to disband once it reported.",
+    "There's no process — we just fix things **ad hoc** whenever someone complains loudly enough."
+  ],
+  "in_the_wild": "Every analytics tool sells **\"ad hoc queries\"** or **\"ad hoc reporting\"** — meaning one-off questions you ask on the spot, as opposed to the scheduled dashboards.",
+  "etymology": "Latin **ad hoc** = *\"to this.\"* Straight to *this* case, no further.\n\nWorth banking the whole *ad-* phrasebook, since the GRE likes them: **ad hominem** (*to the man* — attack the person, not the argument), **ad nauseam** (*to sickness*), **ad infinitum** (*to infinity*), **ad lib** ← *ad libitum* (*at pleasure*).",
+  "one_line": "Made for this one case only; improvised, unsystematic.",
+  "root": "ad hoc (Latin: to this)",
+  "root_family": [
+    "ad hominem",
+    "ad nauseam",
+    "ad infinitum",
+    "ad lib (ad libitum)",
+    "ad interim"
+  ],
+  "confusables": [
+    "ad hominem",
+    "ad lib",
+    "ad infinitum"
+  ],
+  "sense_tags": [
+    "improvised",
+    "temporary",
+    "single-purpose",
+    "stopgap",
+    "unsystematic"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    36
+  ]
+}

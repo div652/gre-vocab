@@ -1,0 +1,45 @@
+{
+  "word": "conclusive",
+  "pos": "adj.",
+  "pron": "kuhn-KLOO-siv",
+  "pron_note": null,
+  "means": "Settling a question **beyond any further argument** — proof or evidence so decisive that the matter is closed.\n\nIt's an on/off word, not a dial. *Compelling*, *persuasive*, *strong* all describe evidence that moves you while leaving room to doubt; **conclusive** leaves no room at all. That's why it lives mostly in the negative — *no conclusive evidence*, *the tests were inconclusive* — and why claiming something is conclusive is a big claim. Courtroom, lab report, and inquiry register.",
+  "trap": "⚠️ **conclusive ≠ concluding.**\n- **concluding** = *last in sequence* — the concluding chapter, the concluding remarks\n- **conclusive** = *settles it* — conclusive proof\n\nA concluding argument can be entirely unconvincing.",
+  "trick_line": "**Con-CLUS-ive** — the *clus* is *close*: it **closes the case**.",
+  "trick_unpack": "Anything less than conclusive leaves the case still open.",
+  "sentences": [
+    "The committee found the accounts irregular, but nothing **conclusive** enough to justify a referral to the prosecutor.",
+    "Two grainy photos aren't **conclusive** — get me something that actually proves he was there."
+  ],
+  "in_the_wild": "The stock phrase every news bulletin and inquiry report reaches for: *\"there is no **conclusive** evidence that...\"* — the polite way of saying we suspect it but can't prove it.",
+  "etymology": "Latin **claudere** = *\"to shut, to close\"*, via *concludere* (\"to shut up, close off\").\n\nOne root, a whole GRE family: **conclude**, **preclude** (shut out in advance), **exclude**, **seclude**, **recluse** (one shut away), **closure**. Wherever you see *-clude / -clus-*, think *shut*.",
+  "one_line": "Decisive; settling the matter beyond further doubt.",
+  "root": "claudere (to shut, close)",
+  "root_family": [
+    "conclude",
+    "preclude",
+    "exclude",
+    "seclude",
+    "include",
+    "recluse",
+    "closure",
+    "cloister"
+  ],
+  "confusables": [
+    "concluding",
+    "conclusory",
+    "inconclusive"
+  ],
+  "sense_tags": [
+    "decisive",
+    "proof",
+    "certainty",
+    "final",
+    "evidence"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    25
+  ]
+}

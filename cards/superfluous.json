@@ -1,0 +1,43 @@
+{
+  "word": "superfluous",
+  "pos": "adj.",
+  "pron": "soo-PER-floo-uhs",
+  "pron_note": "Stress falls on PER, not on the \"flu\" — never \"soo-per-FLOO-us\".",
+  "means": "Beyond what is needed or wanted; **surplus to requirements**.\n\nThe word doesn't say a thing is bad or useless — it says there is **too much of it**. A fourth adjective in a sentence, a second apology, an extra assistant on a two-person job: each might be perfectly good on its own and still be superfluous. *Redundant* points at duplication (this repeats what we already have); *superfluous* points at quantity (we simply didn't need this much). It's a formal, faintly fastidious word — the register of an editor with a red pen, and there's usually a hint of disdain in it.",
+  "trap": null,
+  "trick_line": "**Super-FLU-ous** = a **super flow** — the cup doesn't fail, it just **overflows**.",
+  "trick_unpack": "Overflow is the exact idea: what spills over is the same good stuff, there's just more of it than the cup required.",
+  "sentences": [
+    "The committee's report was thorough to the point of exhaustion; three of its five appendices were **superfluous**.",
+    "Mate, you've packed six pairs of shoes for a weekend — that's a bit **superfluous**."
+  ],
+  "in_the_wild": "Shakespeare hands the word to King Lear, raging at his daughters for stripping away his retinue: *\\\"Our basest beggars / Are in the poorest thing **superfluous**\\\"* — even the poorest man owns something more than he strictly needs, and that surplus is what makes him human.",
+  "etymology": "Latin **super** (*over*) + **fluere** (*to flow*) — literally *overflowing*.\n\n*Fluere* is a workhorse root: **fluent** (words flow), **fluid**, **influence** (originally an astrological \"in-flowing\"), **affluent** (wealth flowing toward you), **confluence** (rivers flowing together), **influx**, **flux**.",
+  "one_line": "More than is needed; surplus to requirements.",
+  "root": "fluere (to flow)",
+  "root_family": [
+    "fluent",
+    "fluid",
+    "influence",
+    "affluent",
+    "confluence",
+    "influx",
+    "flux",
+    "mellifluous"
+  ],
+  "confusables": [
+    "superficial",
+    "supercilious"
+  ],
+  "sense_tags": [
+    "excess",
+    "unnecessary",
+    "surplus",
+    "redundant"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    16
+  ]
+}

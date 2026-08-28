@@ -1,0 +1,44 @@
+{
+  "word": "mediate",
+  "pos": "v. (also adj.)",
+  "pron": "MEE-dee-ayt",
+  "pron_note": null,
+  "means": "To step **between two opposed parties** and help them reach agreement. Also, more abstractly, to be the **middle thing through which** something passes: *screens mediate almost every conversation we have.*\n\nThe key limit is power. A **mediator** has none — she shuttles, reframes, coaxes, and if the two sides refuse, nothing happens. An **arbitrator** hears both sides and *rules*, and the ruling binds. A **judge** does the same with the state behind her. So \"the UN mediated a ceasefire\" quietly tells you the parties agreed to it; nobody was made to.\n\nThe second sense is a favourite of academic prose — *mediated by*, meaning \"transmitted through / brought about by way of\" — and on the GRE it usually shows up in exactly that flat, technical register.",
+  "trap": "⚠️ **mediate ≠ meditate.** One letter apart. *Mediate* = go between two sides; *meditate* = sit alone with your own mind. A monk meditates; a diplomat mediates.",
+  "trick_line": "**Media** is sitting inside **mediate** — and the media carries messages, it doesn't hand down verdicts.",
+  "trick_unpack": "A mediator is a channel between two sides, which is exactly why she can broker a deal but never impose one.",
+  "sentences": [
+    "Two neighbouring states, unwilling to speak directly, asked a retired ambassador to **mediate** the dispute over water rights.",
+    "Mum had to **mediate** between us for about an hour before either of us would admit anything."
+  ],
+  "in_the_wild": "Divorce and workplace **mediation** is the everyday version: you sit in separate rooms, the mediator walks between them, and if you won't agree, the whole thing collapses and you go to court instead — the powerlessness is the point.",
+  "etymology": "Latin **medius** = *\"middle.\"* The whole family is just positions relative to the middle: **medium** (the stuff in between), **median** (the middle value), **intermediate**, **Mediterranean** (*\"middle of the earth\"*), and **mediocre** — literally *middling*, which is why it's an insult.\n\nBest of the lot: **immediate** = *im-* (not) + *mediate* — **nothing in the middle**. No go-between, no delay. That's why it means *right now*.",
+  "one_line": "To step between two sides and broker an agreement.",
+  "root": "medius (middle)",
+  "root_family": [
+    "medium",
+    "median",
+    "intermediate",
+    "immediate",
+    "mediocre",
+    "Mediterranean",
+    "intermediary"
+  ],
+  "confusables": [
+    "meditate",
+    "moderate",
+    "arbitrate"
+  ],
+  "sense_tags": [
+    "negotiating",
+    "intervening",
+    "reconciling",
+    "go-between",
+    "transmitting"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    32
+  ]
+}

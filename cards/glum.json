@@ -1,0 +1,40 @@
+{
+  "word": "glum",
+  "pos": "adj.",
+  "pron": "GLUM",
+  "pron_note": null,
+  "means": "Visibly downcast — low-spirited, sullen, and usually **quiet** about it.\n\nScale matters: *despondent* and *morose* are heavy words for real despair, while **glum** is everyday, mild, and often temporary — the mood of someone whose team lost, whose plans got cancelled, whose Monday is going badly. It's also the most *readable* of the sad words: you can be secretly miserable, but glum shows on the face and flattens the room. Slightly sulky at the edges, so it can carry a faint note of \"cheer up.\"",
+  "trap": "**glum ≠ grim.** *Glum* is sad and deflated; *grim* is harsh, forbidding, severe. A glum face wants comforting; a grim face wants obeying.",
+  "trick_line": "**Glum** rhymes with **mum** — the glum one has gone quiet.",
+  "trick_unpack": "The rhyme carries the nuance: glumness is silent, sulky low spirits, not loud grief.",
+  "sentences": [
+    "The delegates filed out **glum** and silent, the treaty unsigned for a third straight year.",
+    "He sat **glum** on the sofa with the takeaway menu, still sulking about the cancelled trip."
+  ],
+  "in_the_wild": null,
+  "etymology": "From Middle English **gloumen**, *\"to look sullen, to frown.\"* Same root-cluster as **gloom**, **gloomy**, **glower** (to scowl), and **gloaming** (twilight) — the *gl-* words for darkening skies and darkening faces.",
+  "one_line": "Quietly downcast; wearing a low, mildly sulky mood.",
+  "root": "Middle English gloumen (to look sullen)",
+  "root_family": [
+    "gloom",
+    "gloomy",
+    "glower",
+    "gloaming"
+  ],
+  "confusables": [
+    "grim",
+    "glib",
+    "gloom"
+  ],
+  "sense_tags": [
+    "sad",
+    "dejected",
+    "sullen",
+    "low-spirited"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    20
+  ]
+}

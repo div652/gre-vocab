@@ -3,39 +3,39 @@
   "pos": "n.",
   "pron": "TAKT",
   "pron_note": null,
-  "means": "The instinct for handling a delicate situation — or saying a hard thing — **without giving offence**.\n\nTact isn't politeness and it isn't charm. Politeness follows rules anyone can learn; tact is a *read* of the particular person in front of you, and most of it happens in what you leave unsaid. It's a light-touch skill: you deliver the bad news, the correction, the refusal — and the other person walks away intact. Note the direction of the compliment: calling someone tactful praises their judgement, while calling them *tactless* is a genuine insult, implying they blunder through other people's feelings without noticing.",
-  "trap": "⚠️ **tact ≠ tack.** To *change tack* is a sailing term — to shift course by turning into the wind. Writing \"he changed **tact**\" is one of the most common errors in English prose; the word you want there is **tack**.",
-  "trick_line": "**Tact** is **tactile** — you *touch* the subject, you don't *hit* it.",
-  "trick_unpack": "Same root, same idea: the tactful person handles a raw topic the way you'd handle a bruise — with contact so light it doesn't hurt.",
+  "means": "A sure instinct for what to say — and what to leave unsaid — in a delicate situation, so that the truth lands without wounding.\n\nTact is not politeness and not kindness. Politeness is a set of rules anyone can follow; tact is **judgement**, applied live, under pressure: the right words, the right moment, the right amount. *Diplomacy* is its public, professional cousin — nations and negotiators have diplomacy; a friend telling you your marriage is over has tact. It's a compliment you rarely hear paid directly; the word almost always shows up as an accusation of its absence — **tactless**, *\"he has no tact.\"*",
+  "trap": "**tact ≠ tacit.** *Tact* is a delicate touch; *tacit* (TAS-it) means unspoken, understood without being said — a **tacit agreement**. Similar sound, unrelated roots: *tangere* (touch) vs *tacēre* (be silent).",
+  "trick_line": "**Tact** is **tact**ile — it's knowing how hard to press.",
+  "trick_unpack": "Same root, same idea: the tactful person handles a raw subject the way you'd handle a bruise, by touch rather than by force.",
   "sentences": [
-    "The ambassador raised the question of the missing funds with such **tact** that no one at the table felt accused.",
-    "I told him his song needs work — could've used more **tact**, honestly, he hasn't spoken to me since."
+    "The ambassador broke the news of the refusal with such **tact** that both delegations left believing they had won something.",
+    "Maybe don't let Dave give the eulogy — the man has zero **tact**."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **tangere** = *\"to touch\"* (past participle *tactus*). Tact is literally a sense of touch, borrowed for the social world.\n\nThat root is worth banking: **tactile** (touchable), **contact**, **tangible**, **intact** (un-touched), **tangent** (a line just grazing a curve), **contagion** (spread by touch).\n\n🚫 **Not related to *tactic*.** That's Greek *taktikos*, \"arranged for battle\" — tactics are about manoeuvre, tact is about touch. A tactical remark and a tactful one can be opposites.",
-  "one_line": "Skill in saying hard things without causing offence.",
+  "in_the_wild": "The famous line — usually pinned on Churchill, though nobody can prove he said it — defines it better than any dictionary: *\"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip.\"*",
+  "etymology": "Latin **tangere / tactus** = *\"to touch.\"* Tact is literally a **light touch** in handling people.\n\nThat root is a GRE goldmine: **tactile** (touchable), **tangible** (graspable), **tangent** (a line just touching a curve), **intact** (untouched), **contact**, **contagion** (spread by touch).\n\n🚫 **Not *tactics*.** That's Greek *taktikos*, \"to arrange in order\" — an unrelated word that just happens to collide.",
+  "one_line": "Instinct for saying the delicate thing without causing offence.",
   "root": "tangere, tactus (to touch)",
   "root_family": [
     "tactile",
-    "contact",
     "tangible",
-    "intact",
     "tangent",
+    "intact",
+    "contact",
     "contagion",
     "contiguous"
   ],
   "confusables": [
+    "tacit",
     "tack",
     "tactic",
-    "tactical",
-    "tacit"
+    "tactful",
+    "tactless"
   ],
   "sense_tags": [
     "diplomacy",
-    "sensitivity",
     "discretion",
-    "social-skill",
-    "restraint"
+    "sensitivity",
+    "social-skill"
   ],
   "register": "neutral",
   "connotation": "positive",

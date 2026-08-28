@@ -1,39 +1,38 @@
 {
   "word": "fervid",
   "pos": "adj.",
-  "pron": "FER-vid",
+  "pron": "FUR-vid",
   "pron_note": null,
-  "means": "Burning with feeling — passionate, zealous, emotionally **hot**.\n\nTemperature is the whole point: this is feeling at boiling point, not warm conviction. And *fervid* usually runs a degree too hot — a fervid speech, a fervid admirer, a fervid nationalism all hint that the intensity has outrun the judgement. Writers reach for it when they want passion described from the outside, with an eyebrow slightly raised.",
-  "trap": "⚠️ **fervid vs. fervent** — same root, different heat.\n- **fervent** = sincere, deeply felt (*a fervent hope*) — warm, and always approving\n- **fervid** = feverishly intense (*a fervid harangue*) — hot, and often a little too much\n\nNobody is worried about your fervent prayers. Your fervid ones, maybe.",
-  "trick_line": "**Fervid** keeps company with the hot **-id** crowd: *torrid, rabid, avid, livid.*",
-  "trick_unpack": "Every word in that gang is an emotion dialled past comfortable, which is exactly the excess *fervid* carries and *fervent* doesn't.",
+  "means": "Burning with feeling — passionate, ardent, intensely emotional.\n\nThe heat is literal in the root and audible in the word. **Fervent** admiration is warm and sincere and you'd be glad to receive it; **fervid** admiration runs a degree hotter, and a writer who picks it is often hinting the feeling has boiled past good sense — a fervid nationalist, a fervid fan, a fervid denunciation. It's a literary, slightly disapproving word: intensity observed from the outside, usually by someone cooler than the person being described.",
+  "trap": "**fervid vs. fervent.** Same root, different temperature. **Fervent** = sincerely, warmly passionate (approving). **Fervid** = feverishly passionate (often too much). A fervent prayer; a fervid mob.",
+  "trick_line": "**FER-vid = fever + vivid** — feeling hot enough to be a symptom.",
+  "trick_unpack": "Fervent is body-warm; fervid is running a temperature.",
   "sentences": [
-    "His **fervid** denunciation of the committee ran forty minutes and persuaded no one.",
-    "She's a **fervid** Oasis fan — one wrong word about Liam and you've lost the evening."
+    "His pamphlets were **fervid** to the point of incoherence, each page hotter and less persuasive than the last.",
+    "She's a **fervid** Arsenal fan — don't bring up the referee unless you've got an hour."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **fervēre** = *\"to boil, to seethe.\"* The root still bubbles through **fervour**, **fervent**, **ferment**, and **effervescent** — literally *boiling out*, which is what a fizzing drink and a fervid speaker are both doing.\n\n🚫 **Not related to *fever*.** That's Latin *febris* (giving *febrile*). The sound rhyme is a coincidence — a useful one, since the meanings happen to overlap.",
-  "one_line": "Burning with intense, slightly overheated feeling.",
-  "root": "fervēre (to boil)",
+  "etymology": "Latin **fervēre** = *\"to boil, to seethe.\"* Literal boiling, then metaphorical.\n\nOne root, a free family: **fervent** (glowing), **fervour** (passion), **ferment** (bubbling — in a vat or in a country), and **effervescent** — *boiling out*, which is exactly what fizzy water and bubbly people do.",
+  "one_line": "Passionate to the point of boiling over.",
+  "root": "fervēre (to boil, seethe)",
   "root_family": [
     "fervent",
-    "fervour",
+    "fervour/fervor",
     "ferment",
     "effervescent",
     "perfervid"
   ],
   "confusables": [
     "fervent",
-    "fetid",
-    "fervour",
     "perfervid",
-    "febrile"
+    "fetid",
+    "florid"
   ],
   "sense_tags": [
     "passionate",
-    "zealous",
     "intense",
-    "emotional-heat",
+    "zealous",
+    "impassioned",
     "excessive"
   ],
   "register": "literary",

@@ -1,0 +1,48 @@
+{
+  "word": "induce",
+  "pos": "v.",
+  "pron": "in-DYOOS",
+  "pron_note": "Commonly in-DOOS in American speech.",
+  "means": "**1.** To lead someone into doing something — usually by offering them something. **2.** To bring about or cause a state or process (*induce sleep, induce vomiting, induce labour*). **3.** In logic: to infer a general rule from particular cases.\n\nForce compels and orders command; *induce* works sideways. The person still walks in on their own feet — but the path was laid for them. That's why the noun is **inducement**: money, a discount, a promise, a threat sanded down into an offer.\n\nIn the causing sense it carries a whiff of the artificial. A drug **induces** sleep; a doctor **induces** labour. The outcome wouldn't have come on its own — or not yet.",
+  "trap": "**induce ≠ deduce.** Both are *ducere*, but they run opposite ways: **induce** reasons *up* from particular cases to a general rule (every swan I've seen is white → swans are white); **deduce** reasons *down* from the rule to the case. Induction can be wrong; valid deduction can't.",
+  "trick_line": "You can't **induce** anyone without an **induce-ment** — the carrot is built into the word.",
+  "trick_unpack": "Nobody is forced by an inducement; they're offered one, and then they choose exactly what you wanted.",
+  "sentences": [
+    "The treaty's tax concessions were designed to **induce** foreign manufacturers to build their plants inland rather than at the ports.",
+    "No amount of free pizza could **induce** me to sit through another three-hour all-hands."
+  ],
+  "in_the_wild": "**Induced labour** — when a birth won't start on its own, the hospital starts it. Everyday proof that *induce* means \"make it happen that wouldn't have, or not yet.\"",
+  "etymology": "Latin **in-** (\"in\") + **dūcere** (\"to lead\") — literally *lead in*.\n\n**-duc-** is one of the highest-yield roots on the GRE: **conduct** (lead together), **produce** (lead forth), **reduce** (lead back), **seduce** (lead astray), **abduct** (lead away), **educate** (lead out), **aqueduct** (leads water). Spot *-duc-* and you're looking at leading.",
+  "one_line": "To lead someone into doing something; to bring about.",
+  "root": "dūcere (to lead)",
+  "root_family": [
+    "conduct",
+    "produce",
+    "reduce",
+    "seduce",
+    "abduct",
+    "educate",
+    "aqueduct",
+    "ductile",
+    "duke",
+    "conducive"
+  ],
+  "confusables": [
+    "deduce",
+    "induct",
+    "seduce",
+    "indict"
+  ],
+  "sense_tags": [
+    "persuade",
+    "cause",
+    "incentive",
+    "bring-about",
+    "reasoning"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    36
+  ]
+}

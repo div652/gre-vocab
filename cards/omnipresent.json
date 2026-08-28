@@ -1,18 +1,18 @@
 {
   "word": "omnipresent",
   "pos": "adj.",
-  "pron": "om-ni-PREZ-uhnt",
+  "pron": "om-nee-PREZ-uhnt",
   "pron_note": null,
-  "means": "Present everywhere at once — in every place, at every moment.\n\nTwo registers live in this word. In its original, theological sense it's an attribute of God, and it carries awe. Everywhere else it's hyperbole for something you cannot get away from: an ad campaign, a song, a smell, a boss. **Ubiquitous** is the cooler, more clinical twin — it just reports wide distribution. *Omnipresent* implies you feel the presence, and often that you'd rather not.",
+  "means": "Present everywhere at once — or, loosely, present so constantly that you can't get away from it.\n\nThe word starts in theology: **omnipresence** is a property of God, alongside omnipotence and omniscience. That grandeur never fully washes off, which is why everyday use is usually half-joking or half-annoyed — an omnipresent advert, an omnipresent boss, an omnipresent summer song. *Ubiquitous* means found in many places; **omnipresent** means there the whole time, inescapably, watching. One is a distribution; the other is a presence.",
   "trap": null,
-  "trick_line": "Omni-**present** = every *place*. Omni-**potent** = every *power*. Omni-**scient** = every *fact*.",
-  "trick_unpack": "The *omni-* is fixed at \"all,\" so the second half is the only thing you have to read — and *present* is the plainest of the three.",
+  "trick_line": "**God is omnipresent. So are the ads.**",
+  "trick_unpack": "The word only has two homes — the divine and the exasperated — and nobody has ever been pleased that something was omnipresent.",
   "sentences": [
-    "The surveillance state he described was not merely powerful but **omnipresent** — a watcher in every doorway, every phone, every conversation.",
-    "That song was **omnipresent** last summer; I heard it in three different supermarkets in one afternoon."
+    "In the medieval imagination, an **omnipresent** deity made privacy theologically impossible: there was no room without a witness.",
+    "That chorus was **omnipresent** last summer — supermarket, taxi, gym, my own head at 3 a.m."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **omnis** = *\"all\"* + **praesens** = *\"being at hand.\"*\n\n*Omnis* is a free gift on the GRE: **omniscient** (all-knowing), **omnipotent** (all-powerful), **omnivore** (eats all), **omnibus** (a bill covering *all* items). And *omnibus* — Latin for \"for everyone\" — is where the word **bus** comes from: a vehicle for all.",
+  "etymology": "Latin **omnis** = *\"all\"* + **praesens** = *\"present, at hand.\"*\n\n*Omnis* is one of the best-value roots on the GRE: **omniscient** (all-knowing), **omnipotent** (all-powerful), **omnivore** (eats all), **omnibus** (*\"for all\"* — a bill bundling everything, and the horse-drawn vehicle for everyone, which we shortened to **bus**).",
   "one_line": "Present everywhere at once; impossible to escape.",
   "root": "omnis (all) + praesens (present, at hand)",
   "root_family": [
@@ -34,7 +34,7 @@
     "inescapable",
     "divine-attribute"
   ],
-  "register": "formal",
+  "register": "neutral",
   "connotation": "depends",
   "groups": [
     8

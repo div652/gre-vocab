@@ -1,0 +1,47 @@
+{
+  "word": "recourse",
+  "pos": "n.",
+  "pron": "ri-KORS",
+  "pron_note": "Many Americans stress the first syllable: REE-kors. Both are fine.",
+  "means": "The help, remedy, or option you turn to when you're in trouble — and, by extension, the act of turning to it. Lives in fixed phrases: **have recourse to**, **without recourse to**, **legal recourse**, **no recourse**.\n\nTrouble is built into the word. You never have recourse to a holiday; you have recourse to the courts, to violence, to a loan shark — something you'd rather not have needed. It's formal and faintly grim, the vocabulary of someone who has run out of better options. And the phrase that carries the most weight is the negative one: **no recourse** means the door is shut, nobody owes you a remedy.",
+  "trap": "**recourse ≠ resource.** A *resource* is a supply you already hold (money, staff, time); *recourse* is a remedy you run to when your own resources have failed.",
+  "trick_line": "**Re-course**: your first course of action failed, so you run *back* for a remedy.",
+  "trick_unpack": "The *course* sitting inside the word is the running you do after Plan A collapses — which is why recourse always smells of last resort.",
+  "sentences": [
+    "Stripped of any legal **recourse**, the tenants had nothing left but the press.",
+    "The Wi-Fi died, so we had **recourse** to actual paper maps like it was 1998."
+  ],
+  "in_the_wild": "A **non-recourse loan** — standard in mortgages and project finance — means that if you default, the lender can seize the property and nothing else. No recourse to your salary, your savings, or you.",
+  "etymology": "Latin **re-** (*back*) + **currere** (*to run*) → *recurrere*, \"to run back.\"\n\nThat root runs through half the GRE list: **occur, recur, concur, incur, current, cursory, precursor, excursion, discourse, curriculum**. Anything with *curr/curs* is something running.",
+  "one_line": "the remedy or backup you turn to when stuck",
+  "root": "currere (to run)",
+  "root_family": [
+    "occur",
+    "recur",
+    "incur",
+    "concur",
+    "current",
+    "cursory",
+    "precursor",
+    "excursion",
+    "discourse",
+    "curriculum"
+  ],
+  "confusables": [
+    "resource",
+    "recurse",
+    "discourse"
+  ],
+  "sense_tags": [
+    "remedy",
+    "fallback",
+    "last-resort",
+    "legal-redress",
+    "help"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    23
+  ]
+}

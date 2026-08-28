@@ -1,0 +1,44 @@
+{
+  "word": "distend",
+  "pos": "v.",
+  "pron": "dih-STEND",
+  "pron_note": null,
+  "means": "To **swell or bulge outward from pressure inside** — a stomach after a huge meal, a balloon, a corpse, a vein under a tourniquet.\n\nThe direction matters: things *expand* in any manner, but they **distend** because something within is pushing the walls out. It's the vocabulary of bodies and containers, and it almost always carries discomfort — a distended belly is bloated, strained, wrong. You'd never call a happy stretch distension.",
+  "trap": null,
+  "trick_line": "**Ex**tend reaches outward; **dis**tend bulges outward — same *tend* (stretch), but the pressure is inside.",
+  "trick_unpack": "Both words are the root *tendere*, \"to stretch,\" so the prefix does all the work: extending is voluntary reach, distending is being stretched from within.",
+  "sentences": [
+    "Weeks of famine had **distended** the children's bellies — the cruel paradox of hunger that looks like fullness.",
+    "Two plates of biryani in, I was flat on the sofa with a **distended** stomach, regretting every bite."
+  ],
+  "in_the_wild": "Standard clinical shorthand: every physical exam note in a hospital records the abdomen as **\"soft, non-distended.\"** Doctors write the word dozens of times a day.",
+  "etymology": "Latin **dis-** (*apart*) + **tendere** (*to stretch*) — stretched apart from within.\n\n*Tendere* is a high-yield GRE root: **extend, tension, tendon, tent** (stretched fabric), **contend, portend, tendentious**.",
+  "one_line": "To swell or bulge outward from internal pressure.",
+  "root": "tendere (to stretch)",
+  "root_family": [
+    "extend",
+    "tension",
+    "tendon",
+    "tent",
+    "contend",
+    "portend",
+    "tendentious",
+    "attenuate"
+  ],
+  "confusables": [
+    "extend",
+    "portend"
+  ],
+  "sense_tags": [
+    "swelling",
+    "expansion",
+    "pressure",
+    "bodily",
+    "bloating"
+  ],
+  "register": "technical",
+  "connotation": "negative",
+  "groups": [
+    28
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "turbid",
+  "pos": "adj.",
+  "pron": "TER-bid",
+  "pron_note": null,
+  "means": "Cloudy, thick, opaque — water (or any liquid) you can't see through because sediment is churned up in it. Figuratively: **muddled, confused** — *turbid prose*, *turbid emotions*.\n\nThe murk is **suspended, not dyed**: something stirred the bottom and it hasn't settled. That's the difference from *murky*, which is the everyday word and drifts into moral vagueness (*murky dealings*); *turbid* stays physical and precise, which is why lab reports and river surveys use it. Applied to writing or thought, it accuses you of clouding a thing that could have been clear.",
+  "trap": "⚠️ **turbid ≠ turgid.**\n- **turbid** = *cloudy*, full of stirred-up silt\n- **turgid** = *swollen* — and of prose, bloated and pompous\n\nTurgid writing is overblown; turbid writing is unclear. Both are insults, different ones.",
+  "trick_line": "**Turbid** water has been **dis-TURB-ed** — the mud is up off the bottom.",
+  "trick_unpack": "The word hides *disturb*, which pins the exact nuance: the cloudiness comes from stuff stirred into suspension, not from dirt staining the water.",
+  "sentences": [
+    "After the storm the river ran **turbid** and brown, carrying half the hillside toward the sea.",
+    "His explanation got more **turbid** the longer he talked, until nobody knew what he was actually asking for."
+  ],
+  "in_the_wild": "**Turbidity** is a number people actually measure — your city's water-quality report, a pool test kit, an aquarium filter spec, all rated in NTU (nephelometric turbidity units). Low turbidity = you can see through it.",
+  "etymology": "Latin **turba** = *\"crowd, uproar\"* → **turbidus**, \"stirred up.\" A milling crowd and clouded water are the same idea: everything churning at once.\n\nSame root: **disturb, perturb, turbulent, trouble, turbine** — all things that stir.",
+  "one_line": "Cloudy with stirred-up sediment; by extension, muddled.",
+  "root": "turba (crowd, uproar) → turbidus (stirred up)",
+  "root_family": [
+    "disturb",
+    "perturb",
+    "turbulent",
+    "trouble",
+    "turbine",
+    "turmoil"
+  ],
+  "confusables": [
+    "turgid",
+    "tepid",
+    "torpid",
+    "turbulent"
+  ],
+  "sense_tags": [
+    "cloudy",
+    "muddy",
+    "unclear",
+    "confused",
+    "opaque"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    32
+  ]
+}

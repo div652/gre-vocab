@@ -1,0 +1,45 @@
+{
+  "word": "intelligible",
+  "pos": "adj.",
+  "pron": "in-TEL-i-juh-buhl",
+  "pron_note": null,
+  "means": "Able to be understood; comprehensible.\n\nIt's a **low bar, not a compliment**. *Lucid* praises writing as clear and elegant; *intelligible* only certifies that the meaning got through at all. That's why it lives mostly in the negative or the grudging — *barely intelligible*, *scarcely intelligible*, *unintelligible mumbling*. Applied to someone's speech, it usually implies a listener was straining.\n\nIn philosophy it hardens into a technical sense: the **intelligible** world is what's grasped by intellect alone, as opposed to the **sensible** world of what you can see and touch.",
+  "trap": "⚠️ **intelligible ≠ legible.**\n- **legible** = the marks on the page can be *made out*\n- **intelligible** = the meaning can be *got*\n\nA note can be perfectly legible and still unintelligible — every letter crisp, the sentence nonsense.",
+  "trick_line": "**Intel**ligible — you can get the **intel** out of it.",
+  "trick_unpack": "The information reaches you, which says nothing about whether it was delivered well.",
+  "sentences": [
+    "His prose becomes **intelligible** only on a second reading, once the terminology has settled.",
+    "She was crying so hard that maybe one word in five was **intelligible**."
+  ],
+  "in_the_wild": "Transcripts and closed captions stamp **[unintelligible]** into the text wherever the audio defeats the transcriber — a court record, a leaked call, a YouTube auto-caption. The tag marks exactly this: sound arrived, meaning didn't.",
+  "etymology": "Latin **inter** (*between*) + **legere** (*to pick out, read*) → *intellegere*, \"to read between, to discern.\"\n\n**legere** is a GRE workhorse: **legible**, **lecture**, **legend** (*things to be read*), **elect** and **select** (*pick out*), **collect**, and **intellect** itself.",
+  "one_line": "Able to be understood — the meaning gets through.",
+  "root": "legere (to pick out, read), with inter (between)",
+  "root_family": [
+    "legible",
+    "lecture",
+    "legend",
+    "elect",
+    "select",
+    "collect",
+    "intellect",
+    "eligible"
+  ],
+  "confusables": [
+    "legible",
+    "ineligible",
+    "intelligent",
+    "unintelligible"
+  ],
+  "sense_tags": [
+    "comprehensible",
+    "clarity",
+    "understanding",
+    "speech"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    36
+  ]
+}

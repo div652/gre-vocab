@@ -1,0 +1,44 @@
+{
+  "word": "attribute",
+  "pos": "v. / n.",
+  "pron": "uh-TRIB-yoot (v.) / A-truh-byoot (n.)",
+  "pron_note": "The stress moves: verb uh-TRIB-yoot, noun A-truh-byoot. Saying the noun with verb stress is the classic slip.",
+  "means": "**Verb:** to assign something to its source — a cause, an author, an owner. *The painting is attributed to Caravaggio. She attributed the delay to weather.*\n**Noun:** a quality that belongs to something as part of what it is. *Patience is his best attribute.*\n\nThe verb is a claim about **origin**, and it quietly admits uncertainty: you attribute a painting when you can't prove who painted it. It's neutral about praise or blame — you can attribute a triumph or a disaster. The noun is stronger than \"trait\": an attribute is felt to be **essential**, not incidental — a mercy attributed to God, strength as an attribute of a character in a game.",
+  "trap": "⚠️ **attribute ≠ impute.** Both assign something to a person, but **impute** almost always assigns something *discreditable*, and usually unfairly — *they imputed dishonest motives to her*. Attribute is even-handed; impute points a finger.",
+  "trick_line": "**A**-truh-byoot is a **thing** — nouns take the stress up front (**RE**cord, **CON**duct, **PRO**test); push the stress back and it becomes a verb.",
+  "trick_unpack": "English shifts stress leftward to make a noun and rightward to make a verb, and *attribute* obeys the rule exactly.",
+  "sentences": [
+    "Scholars now **attribute** the anonymous treatise to a minor clerk in the royal chancery, though the ascription remains contested.",
+    "Don't **attribute** it to bad luck — you didn't start studying until Sunday night."
+  ],
+  "in_the_wild": "The internet's favourite joke about **misattribution**: a serene photo captioned *\"Don't believe everything you read on the internet just because there's a picture with a quote next to it.\" — Abraham Lincoln.* That's the verb in a nutshell — a quote assigned to a source that can't have said it.",
+  "etymology": "Latin **ad-** (\"to\") + **tribuere** (\"to allot, assign\"), from **tribus**, *tribe* — originally to divide something out among the tribes.\n\nThat root pays out widely: **tribute** (what you pay over), **contribute** (give along with), **distribute** (deal out), **retribution** (paying back), **tributary** (a river paying into a larger one).",
+  "one_line": "Credit something to a source; or an essential quality.",
+  "root": "tribuere (to allot, assign), from tribus (tribe)",
+  "root_family": [
+    "tribute",
+    "contribute",
+    "distribute",
+    "retribution",
+    "tributary",
+    "tribunal"
+  ],
+  "confusables": [
+    "impute",
+    "ascribe",
+    "contribute",
+    "tribute"
+  ],
+  "sense_tags": [
+    "assigning-cause",
+    "authorship",
+    "quality",
+    "characteristic",
+    "credit-or-blame"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    37
+  ]
+}

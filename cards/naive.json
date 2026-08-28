@@ -1,0 +1,42 @@
+{
+  "word": "naive",
+  "pos": "adj.",
+  "pron": "nah-EEV",
+  "pron_note": "Two syllables — never \"NAY-iv\". Often spelled naïve; the noun is naivety or naïveté.",
+  "means": "Lacking the experience or judgement to see how things really work — trusting too easily, expecting the world to be simpler and kinder than it is.\n\nIt is not an accusation of stupidity. Calling someone naive faults their **judgement while excusing their motives**: they were unspoiled, not dishonest — which is why it can land as gentle indulgence (\"sweetly naive\") or as a put-down (\"don't be naive\"), depending entirely on who says it. *Gullible* is narrower — it means you actually got taken in. *Ingenuous* is the warm version — frank and unguarded, no fault implied.\n\nThere's also a flatly neutral technical use: **naive art** (untrained painters like Rousseau), and **naive subjects** in an experiment — people with no prior exposure to the thing being tested.",
+  "trap": null,
+  "trick_line": "**Naive** rhymes with **believe** — the naive believe you.",
+  "trick_unpack": "The flaw isn't intelligence, it's that nothing has yet taught them to doubt.",
+  "sentences": [
+    "The proposal rests on the **naive** assumption that goodwill alone will hold the ceasefire together.",
+    "Don't be **naive** — nobody upgrades your seat for free without wanting something."
+  ],
+  "in_the_wild": "The Kooks' 2006 hit **\"Naïve\"** — one of the most-played British indie singles of that decade, and a song addressed to exactly the kind of person the word describes.",
+  "etymology": "French **naïf / naïve**, from Latin **nativus** = *\"inborn, natural\"* — from **nasci**, *\"to be born.\"* A naive person is still in the state they were born in: untouched, untested, no experience layered on top.\n\nThat root is a GRE workhorse: **native, natal, nascent, innate, nation, nature, renaissance** (re-birth).",
+  "one_line": "Too trusting and inexperienced to see how the world works.",
+  "root": "nativus (inborn) ← nasci (to be born)",
+  "root_family": [
+    "native",
+    "natal",
+    "nascent",
+    "innate",
+    "nation",
+    "nature",
+    "renaissance"
+  ],
+  "confusables": [
+    "naif",
+    "ingenuous"
+  ],
+  "sense_tags": [
+    "inexperienced",
+    "credulous",
+    "unworldly",
+    "innocent"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    19
+  ]
+}

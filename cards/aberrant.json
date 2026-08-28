@@ -1,0 +1,46 @@
+{
+  "word": "aberrant",
+  "pos": "adj.",
+  "pron": "uh-BER-uhnt",
+  "pron_note": "Also heard as AB-er-uhnt; both are accepted.",
+  "means": "Departing from the normal, expected, or proper course — abnormal, deviant, off-pattern.\n\nThe word wears a lab coat. *Unusual* is neutral, *weird* is casual, but **aberrant** measures you against a **standard** and reports that you failed it: aberrant cells, aberrant data, aberrant behaviour. It's the vocabulary of doctors, statisticians and disciplinary reports, so it carries a faint chill — the thing isn't just different, it's *wrong in a way that needs explaining*.",
+  "trap": "⚠️ **aberrant ≠ abhorrent.**\n- **aberrant** = *deviating* from the norm (clinical)\n- **abhorrent** = *repugnant*, morally disgusting (emotional)\n\nAberrant conduct puzzles you; abhorrent conduct sickens you.",
+  "trick_line": "**ab-ERR-ant** — the word literally has **err** in the middle: it has *erred away* from the norm.",
+  "trick_unpack": "Stress the *err* when you say it and you've said the definition out loud.",
+  "sentences": [
+    "The audit flagged a handful of **aberrant** transactions, each one a small departure from a decade of predictable ledgers.",
+    "One **aberrant** night out doesn't make you a party animal, mate."
+  ],
+  "in_the_wild": "Photographers fight **chromatic aberration** — the purple-green fringing you get when a lens lets colours *wander off* to slightly different focal points. Same root, visible on your screen.",
+  "etymology": "Latin **ab-** (*away*) + **errāre** (*to wander*) — literally *wandering off*.\n\nThat root is a GRE goldmine: **err**, **error**, **erratic**, **errant**, **erroneous**, **knight-errant** (a knight who wanders looking for adventures), and **arrant** nonsense.",
+  "one_line": "Deviating abnormally from the normal or expected course.",
+  "root": "errāre (to wander) + ab- (away)",
+  "root_family": [
+    "err",
+    "error",
+    "erratic",
+    "errant",
+    "erroneous",
+    "knight-errant",
+    "arrant",
+    "aberration"
+  ],
+  "confusables": [
+    "abhorrent",
+    "errant",
+    "aberration",
+    "abeyant"
+  ],
+  "sense_tags": [
+    "abnormal",
+    "deviant",
+    "atypical",
+    "straying",
+    "anomalous"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

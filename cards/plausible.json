@@ -1,0 +1,42 @@
+{
+  "word": "plausible",
+  "pos": "adj.",
+  "pron": "PLAW-zuh-buhl",
+  "pron_note": "The s is a z, never a hissed s.",
+  "means": "Seeming reasonable, believable, likely to be true — **on the face of it**.\n\nThat last phrase is the whole word. *Plausible* rates how something **sounds**, not whether it's true: an alibi, an excuse, a theory. Calling an argument plausible is faint praise — you're saying it survives first contact, nothing more. And in the mouth of a skeptic it tips negative: *a plausible enough story* means you don't believe a word of it. Compare **credible** (you actually lean toward believing it) and **specious** (it looks good and is definitely false); *plausible* sits between them, deliberately uncommitted.",
+  "trap": "**plausible ≠ feasible.** *Plausible* = believable (a claim, a story). *Feasible* = doable (a plan, a schedule). A plausible explanation of the delay; a feasible way to fix it.",
+  "trick_line": "**Plausible gets the applause, not the verdict.**",
+  "trick_unpack": "It's the story the room claps for on hearing — approval, not proof.",
+  "sentences": [
+    "The defence offered a **plausible** account of the missing hour, though the jury noticed it rested entirely on the accused's own word.",
+    "Nice try — that's a **plausible** excuse, but I saw your car outside the pub at six."
+  ],
+  "in_the_wild": "**\"Plausible deniability\"** — the Cold War spy-and-politics phrase for arranging things so the boss can be believed when he says he knew nothing. Every thriller and every corporate scandal runs on it, and it captures the word exactly: believable, not true.",
+  "etymology": "Latin **plaudere** = *\"to clap, applaud\"* → *plausibilis*, \"deserving applause.\" It meant *approval-worthy* long before it meant *believable* — the audience claps, that's all.\n\nSame root: **applaud, applause, plaudits** — and **explode**, from *explodere*, \"to clap a bad actor **off** the stage.\"",
+  "one_line": "Believable on the surface — convincing, but not thereby true.",
+  "root": "plaudere, plausus (to clap, applaud)",
+  "root_family": [
+    "applaud",
+    "applause",
+    "plaudit",
+    "explode",
+    "implode"
+  ],
+  "confusables": [
+    "feasible",
+    "credible",
+    "specious",
+    "possible"
+  ],
+  "sense_tags": [
+    "believable",
+    "superficially-convincing",
+    "likelihood",
+    "persuasion"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    36
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "debase",
+  "pos": "v.",
+  "pron": "dih-BAYS",
+  "pron_note": null,
+  "means": "To **lower the value, quality, or dignity** of something — usually by mixing in something inferior, cheapening it, or dragging it down morally.\n\nThe word carries a sense of **corruption from within**, not destruction from outside. You don't debase a thing by smashing it; you debase it by diluting it while it keeps its old name and face value. A currency is debased when the coin still says *silver* but is half copper; a language is debased when the words survive but mean less; a person is debased when they're made to act beneath themselves. There's always a **before** — something had worth, and you degraded it.",
+  "trap": "⚠️ **debase ≠ abase.**\n- **debase** = cheapen the **quality or worth** of a thing (coinage, art, standards)\n- **abase** = humble the **status** of a person, especially oneself (*he abased himself before the king*)\n\nYou debase the currency; you abase yourself.",
+  "trick_line": "**De-BASE** = drop it to the **base** metal — same face value, less gold in it.",
+  "trick_unpack": "The word wears its meaning on the outside: *base* metals are the cheap ones (lead, copper), so to debase is to sneak them in while the surface still looks precious.",
+  "sentences": [
+    "Successive emperors **debased** the denarius until a coin of silver was a coin of copper wearing a thin silver skin.",
+    "He wouldn't **debase** himself by begging for a job he'd been doing for free all year."
+  ],
+  "in_the_wild": "\"**Debasing the currency**\" is live financial vocabulary — every argument about money-printing, inflation, or Bitcoin's fixed supply runs on it, and it means exactly what it meant to the Romans: same coin, less metal.",
+  "etymology": "**de-** (*down*) + **base**, but not the base you stand on — this is Latin **bassus**, *\"low, short.\"* That's the *base* in **base metals** and in the old insult *\"a base and cowardly act,\"* and the **bass** that's a low note.\n\nSo the whole word is literally *\"to lower the low-ness\"* — to push something further down the scale of worth.",
+  "one_line": "To lower the value, quality, or dignity of something.",
+  "root": "bassus (low)",
+  "root_family": [
+    "abase",
+    "base (adj., low/vile)",
+    "bass",
+    "basso"
+  ],
+  "confusables": [
+    "abase",
+    "abash",
+    "debauch"
+  ],
+  "sense_tags": [
+    "degrade",
+    "cheapen",
+    "corrupt",
+    "dilute",
+    "dishonour"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    36
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "quarantine",
+  "pos": "n. / v.",
+  "pron": "KWOR-uhn-teen",
+  "pron_note": null,
+  "means": "**Noun:** a period of enforced isolation for people, animals, or things that **may** carry disease. **Verb:** to place under such isolation.\n\nThe key is *suspicion, not confirmation*. You **isolate** the sick; you **quarantine** the exposed — the ones who might be carrying something and are held apart until the doubt clears. It's precautionary and time-bounded, and it's imposed by an authority (port, hospital, government), not chosen. The metaphorical uses keep that flavour: a quarantined file, a quarantined dataset, a politician quarantined by his own party — set aside as a possible contaminant, pending judgement.",
+  "trap": null,
+  "trick_line": "**Quarantine is a waiting room, not a ward.**",
+  "trick_unpack": "You're held there because you *might* be infectious, whereas isolation is for those already known to be.",
+  "sentences": [
+    "Livestock imported from the mainland were **quarantined** for six weeks before being admitted to the herd.",
+    "They **quarantined** the new laptop off the network until IT could confirm it was clean."
+  ],
+  "in_the_wild": "Your antivirus doesn't delete a suspicious file — it drops it in **Quarantine**, sealed off but not condemned, exactly the sense of the word: guilty until cleared.",
+  "etymology": "Italian **quarantina giorni** = *\"about forty days.\"* Plague-era Venice made arriving ships sit at anchor for forty days before anyone could land. The number is baked into the word: Italian *quaranta* ← Latin **quadrāgintā**, \"forty,\" from *quattuor*, \"four\" — the same four that gives you *quart, quarter, quadrant, quartet*.",
+  "one_line": "Enforced isolation of the possibly infected, to stop contagion.",
+  "root": "quaranta / quadrāgintā (forty)",
+  "root_family": [
+    "quart",
+    "quarter",
+    "quadrant",
+    "quartet",
+    "quadruple"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "isolation",
+    "contagion",
+    "confinement",
+    "precaution",
+    "containment"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    28
+  ]
+}

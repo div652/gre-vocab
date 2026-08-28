@@ -2,32 +2,32 @@
   "word": "didactic",
   "pos": "adj.",
   "pron": "dye-DAK-tik",
-  "pron_note": "Also heard as dih-DAK-tik; the stress never moves off DAK.",
-  "means": "Designed to teach — especially to teach a **moral lesson**, and especially when the lesson is the whole point of the thing.\n\nTwo temperatures. Neutral/technical: *didactic poetry*, *didactic materials* — writing or objects whose purpose is instruction. Far more common on the GRE and in criticism: a **complaint**. Call a novel, a film, or a person didactic and you're saying the teaching shows — the story has been bent into a sermon, the character exists to deliver the point, the dinner guest is lecturing rather than talking. **Instructive** praises; **didactic** usually sighs.",
-  "trap": "⚠️ **didactic ≠ dialectic.**\n- **didactic** = *teaching at you* — one voice handing down a lesson\n- **dialectic** = *reasoning through opposition* — thesis meeting counter-thesis, truth emerging from the clash\n\nA lecture is didactic. A Socratic argument is dialectic.",
-  "trick_line": "**DAD-actic** — Dad can't tell a story without tacking a lesson onto the end.",
-  "trick_unpack": "The stressed **DAK** gives you \"dad,\" and the eye-roll you feel is exactly the word's usual tone.",
+  "pron_note": null,
+  "means": "Designed to **teach** — especially to teach a moral lesson rather than simply entertain or inform.\n\nThe word swings on tone. Applied to a textbook, a museum label, or a fable, it's flatly descriptive: instruction is the point. Applied to a novel, a film, or a person, it's almost always a complaint — the work has stopped trusting you and started **lecturing**. A didactic writer wants a verdict delivered, not a story told; a didactic friend answers a question you didn't ask and adds the lesson at the end. Most GRE passages use it in this second, faintly weary sense.",
+  "trap": "⚠️ **didactic ≠ pedantic.**\n- **didactic** = preachy — pushing a *lesson* on you\n- **pedantic** = fussy — correcting your *details*\n\nThe didactic uncle tells you what the story means. The pedantic one tells you it's \"fewer,\" not \"less.\"",
+  "trick_line": "**Didactic** — the lesson you **didn't ask** for.",
+  "trick_unpack": "The sound of the first two syllables carries the sting: instruction arriving uninvited.",
   "sentences": [
     "Her later novels grew increasingly **didactic**, each character reduced to a mouthpiece for a position the author had already settled.",
-    "It's a fun kids' film until the last ten minutes, when it gets **didactic** and starts spelling out the moral."
+    "Great film, but that last speech was so **didactic** — we'd got the point twenty minutes earlier."
   ],
-  "in_the_wild": null,
-  "etymology": "Greek **didaskein** = *\"to teach\"*, via **didaktikos**, \"skilled at teaching.\"\n\nWorth the space because of its cousin: **autodidact** — *self* + *teach* — a person who taught themselves, no school, no master. Same root, and a GRE word in its own right.",
-  "one_line": "Meant to teach — and usually too obvious about it.",
+  "in_the_wild": "Every Aesop fable that ends **\"and the moral of the story is…\"** is didactic literature in its purest form — the tale exists only to deliver the line.",
+  "etymology": "Greek **didaskein** = *\"to teach.\"*\n\nWorth the detour for its cousin: **autodidact** — *self*-teacher, someone educated without schooling. That one shows up on the GRE more often than *didactic* does.",
+  "one_line": "Meant to instruct — often preachily so.",
   "root": "didaskein (to teach)",
   "root_family": [
     "autodidact",
     "didactics",
-    "didacticism"
+    "didache"
   ],
   "confusables": [
-    "dialectic",
     "pedantic",
+    "dialectic",
     "dogmatic"
   ],
   "sense_tags": [
     "teaching",
-    "moralizing",
+    "moralising",
     "preachy",
     "instructive"
   ],

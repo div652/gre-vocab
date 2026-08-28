@@ -1,0 +1,47 @@
+{
+  "word": "depose",
+  "pos": "v.",
+  "pron": "dih-POHZ",
+  "pron_note": null,
+  "means": "Two distinct senses, both worth knowing:\n\n**1. To remove someone from high office** — a king, a dictator, a party leader — by force or by formal act.\n**2. (Legal) To take sworn testimony from someone** out of court, or to give it yourself.\n\nSense 1 is the GRE one, and it's specifically about **rank**. You depose a *ruler*, not a shop assistant; the word carries the weight of a throne or a presidency. It's also colder and more formal than its neighbours: *overthrow* implies violence, *oust* is scrappy and can apply to anyone, *abdicate* is the ruler stepping down willingly — **depose** is the neutral, almost procedural statement that the office was taken away. A palace coup, a vote of no confidence, and an armed revolt can all depose a leader.\n\nSense 2 turns up in every legal thriller: the lawyer **deposes** the witness, and the transcript is the **deposition**.",
+  "trap": null,
+  "trick_line": "**De-pose** = to *un-pose*: take the king down off his royal pose — or put your sworn words down on the record.",
+  "trick_unpack": "Both senses are literally \"putting down\": a monarch down from the throne, testimony down onto the page.",
+  "sentences": [
+    "The generals **deposed** the emperor within a week, installing a nephew who could be relied upon to sign whatever they put in front of him.",
+    "They **deposed** the CEO over a WhatsApp group before he'd even landed."
+  ],
+  "in_the_wild": "In any legal drama — *Suits*, *Better Call Saul* — someone is always being **deposed** in a glass conference room: sworn in, recorded, no judge in sight. That's sense 2 in its natural habitat.",
+  "etymology": "Latin **de-** (*down*) + **ponere** (*to put, to place*) — literally *to put down*.\n\nThat root is a GRE goldmine: **deposit** (put down money), **position**, **compose**, **impose**, **postpone** (put after), **component**, **exponent**, **repository**.",
+  "one_line": "To remove a ruler from power; to take sworn testimony.",
+  "root": "ponere, positum (to put, place)",
+  "root_family": [
+    "deposit",
+    "position",
+    "compose",
+    "impose",
+    "postpone",
+    "component",
+    "exponent",
+    "repository",
+    "transpose"
+  ],
+  "confusables": [
+    "dispose",
+    "deposit",
+    "repose",
+    "depone"
+  ],
+  "sense_tags": [
+    "remove-from-power",
+    "oust",
+    "authority",
+    "legal",
+    "testimony"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    29
+  ]
+}

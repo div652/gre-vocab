@@ -1,0 +1,45 @@
+{
+  "word": "providential",
+  "pos": "adj.",
+  "pron": "prov-ih-DEN-shuhl",
+  "pron_note": "First syllable is PROV (as in *provocative*), not \"pro-\".",
+  "means": "Happening at exactly the right moment, as though arranged by a benevolent higher power; luckily timed, opportune.\n\n*Lucky* is blind chance. **Providential** implies the good fortune looks **designed** — the rain stops the fire, the letter arrives the morning before the deadline. Even in fully secular use the word keeps a faint theological glow: someone or something was looking after you. It's warm, formal, and always positive, and it attaches to **timing** above all — a providential delay, a providential encounter.",
+  "trap": "⚠️ **providential ≠ provident.**\n- **providential** = *fortunately timed*, as if by divine arrangement (about luck)\n- **provident** = *prudent, saving for the future* (about foresight — a provident aunt who bought insurance)\n\nA provident man plans for the storm; a providential wind blows it away.",
+  "trick_line": "**Providential** = something **provided** it — and provided it *just in time*.",
+  "trick_unpack": "The hidden word *provide* is the whole meaning: the help was supplied, not stumbled upon, and the point is the timing.",
+  "sentences": [
+    "The fog that settled over the harbour that night proved **providential**, screening the retreat from the guns on the far shore.",
+    "My phone died right before I could send that text — honestly, **providential**."
+  ],
+  "in_the_wild": "**Providence, Rhode Island** — Roger Williams, banished into the winter wilderness in 1636, named the place he survived at for God's providence. A whole city named after lucky-looking-like-design.",
+  "etymology": "Latin **providēre** = *\"to see ahead\"* (**pro-** \"before\" + **vidēre** \"to see\"). Divine **providence** is God's foresight arranging events; what falls out of that arrangement is *providential*.\n\nThe root pays rent across the exam: **provide, provision, purvey, prudent** (a squashed form of *providens*), and on the *vidēre* side **evident, vision, video, visage**.",
+  "one_line": "Luckily timed, as if arranged by a benevolent higher power.",
+  "root": "providēre (to see ahead, provide for)",
+  "root_family": [
+    "provide",
+    "provision",
+    "providence",
+    "prudent",
+    "purvey",
+    "evident",
+    "vision",
+    "video",
+    "visage"
+  ],
+  "confusables": [
+    "provident",
+    "providence",
+    "prudential"
+  ],
+  "sense_tags": [
+    "good fortune",
+    "timing",
+    "divine intervention",
+    "opportune"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    20
+  ]
+}

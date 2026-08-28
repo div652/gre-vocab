@@ -1,0 +1,39 @@
+{
+  "word": "fabricate",
+  "pos": "v.",
+  "pron": "FAB-ri-kayt",
+  "pron_note": null,
+  "means": "**1.** To manufacture or construct something, especially from prepared parts — *fabricate a steel beam*.\n**2.** To invent something false and pass it off as real — a story, an alibi, evidence, a quotation.\n\nThe second sense is the GRE one, and it's harsher than *lie*. To lie is to say one false thing; to **fabricate** is to *build* a falsehood — assemble it, give it details, make it hold together under inspection. That's why it attaches to nouns like *evidence*, *testimony*, *sources*, *records*: things that took work to fake. **Forge** is its exact twin in this double life — you forge metal, and you forge a signature.",
+  "trap": null,
+  "trick_line": "**Fabric**ate hides **fabric** — you weave cloth from thread, or you weave a story from nothing.",
+  "trick_unpack": "Both senses are workmanship: one produces an object, the other produces a lie with all its seams sewn shut.",
+  "sentences": [
+    "The tribunal found that the officer had **fabricated** his contemporaneous notes some weeks after the arrest.",
+    "He didn't just forget my birthday — he **fabricated** an entire flight delay, with a gate number."
+  ],
+  "in_the_wild": "**Prefab** housing — *pre-fabricated*, built in parts off-site — is the same word doing its honest day job, and a useful reminder that sense 1 is the literal one.",
+  "etymology": "Latin **faber** = *\"craftsman, smith\"*, giving **fabrica**, *\"workshop, a thing made.\"*\n\nThat one root branches twice into English: **fabric** (the woven thing) and **fabricate** (the making). And *fabrica* went through French to become **forge** — which is why *forge* carries the identical build-it/fake-it split.",
+  "one_line": "To manufacture — or to invent a falsehood in convincing detail.",
+  "root": "faber, fabrica (craftsman, workshop)",
+  "root_family": [
+    "fabric",
+    "forge",
+    "prefabricated",
+    "fabrication"
+  ],
+  "confusables": [
+    "fabulate",
+    "prevaricate"
+  ],
+  "sense_tags": [
+    "deception",
+    "inventing",
+    "manufacturing",
+    "falsifying-evidence"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    20
+  ]
+}

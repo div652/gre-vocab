@@ -1,0 +1,41 @@
+{
+  "word": "plaintive",
+  "pos": "adj.",
+  "pron": "PLAYN-tiv",
+  "pron_note": null,
+  "means": "Sounding sad in a way that begs for sympathy — mournful, wistful, slightly wounded.\n\nIt is almost always about **a sound or an expression**, not a situation: a plaintive cry, a plaintive melody, a plaintive look. *Mournful* is grief with weight behind it; *plaintive* is thinner and higher — it appeals rather than laments. And it carries a hint of quiet complaint, of asking to be pitied, which is why a child's \"but *why*?\" is plaintive while a widow's silence is not.",
+  "trap": "⚠️ **plaintive ≠ plaintiff.**\n- **plaintive** = sounding sad (adjective)\n- **plaintiff** = the person who brings a lawsuit (noun)\n\nSame root, same sound — one whimpers, the other sues.",
+  "trick_line": "**Plaintive** has **plaint** in it — a complaint, but *sung*, not shouted.",
+  "trick_unpack": "The word is a grievance turned into a sound, which is why it always applies to a tone rather than to a person's circumstances.",
+  "sentences": [
+    "A **plaintive** oboe carried the melody, thin above the strings, as though it were asking the orchestra a question no one would answer.",
+    "He gave a **plaintive** little \"you never text me anymore\" and went back to his phone."
+  ],
+  "in_the_wild": "It's a staple of music writing: reviewers reach for **plaintive** for a lone harmonica, a minor-key falsetto, or a Coldplay piano line — the sound that's sad *and* pleading rather than merely slow.",
+  "etymology": "Latin **plangere** = *\"to beat the breast, to lament loudly.\"* Via French *plainte*, a lament, it gives a tight family: **complaint**, **plaintiff** (the one who brings the grievance), and **plangent** (a loud, resounding, mournful sound).\n\nNote the split: **plangent** kept the *loudness* of the root; **plaintive** kept only the *sorrow*.",
+  "one_line": "Sounding sad and appealing for sympathy; mournful.",
+  "root": "plangere (to beat the breast, lament)",
+  "root_family": [
+    "complaint",
+    "plaintiff",
+    "plangent",
+    "plaint"
+  ],
+  "confusables": [
+    "plaintiff",
+    "plangent",
+    "plain"
+  ],
+  "sense_tags": [
+    "sorrowful",
+    "mournful",
+    "wistful",
+    "pleading",
+    "sound-quality"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

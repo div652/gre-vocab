@@ -2,39 +2,38 @@
   "word": "metaphorical",
   "pos": "adj.",
   "pron": "met-uh-FOR-i-kuhl",
-  "pron_note": "The stress shifts from the noun: MET-uh-for → met-uh-FOR-i-kuhl.",
-  "means": "Not literal — describing one thing **as if** it were another, so the truth lands in the image rather than in the facts. \"Drowning in paperwork\" is metaphorical; nobody is wet.\n\n*Figurative* is the umbrella (it covers simile, hyperbole, irony); *metaphorical* is the specific move of calling A a B outright. And in everyday speech the word usually arrives as a correction or a hedge — \"I meant it metaphorically\" is what you say when someone has taken you at face value and you need the meaning back without the claim.",
-  "trap": "⚠️ **metaphorical ≠ metaphysical.**\n- **metaphorical** = *figurative*, said by way of image\n- **metaphysical** = concerning ultimate reality — being, causation, existence\n\nA metaphorical death is a career ending. A metaphysical question is whether death ends you.",
-  "trick_line": "\"**Metaphorically speaking**\" = *keep the truth, drop the literal*.",
-  "trick_unpack": "The phrase people actually say it in tells you the job it does — it withdraws the factual claim while insisting the point still stands.",
+  "pron_note": null,
+  "means": "Not literal — meaning something by comparison rather than by fact. A **metaphorical** wall isn't made of brick; a **metaphorical** death is a career ending.\n\nThe word is almost always doing defensive work: it flags that a statement should *not* be taken at face value. That makes it the standing opposite of **literal**, and on the GRE it usually turns up as exactly that hinge (\"a metaphorical, not a literal, reading of the text\"). Register is neutral and slightly bookish — critics and essayists use it constantly; in speech it survives mainly as the hedge *metaphorically speaking*.",
+  "trap": "⚠️ **metaphorical ≠ metaphysical.**\n- **metaphorical** = figurative, by comparison\n- **metaphysical** = to do with ultimate reality — being, time, existence\n\nA metaphorical journey is a career change. A metaphysical question is whether the journey is real at all.",
+  "trick_line": "**If you can add \"…so to speak\" after it, it's metaphorical.**",
+  "trick_unpack": "That little disclaimer is precisely the job the word does — warning you off the literal reading.",
   "sentences": [
-    "The judge dismissed the analogy as **metaphorical** at best, noting that a contract is not, in law, a promise between friends.",
-    "Relax — when I said I'd kill him, that was **metaphorical**."
+    "The poem's shipwreck is **metaphorical**: nothing sinks but the marriage.",
+    "\"I said I'd kill for a coffee — that was **metaphorical**, put the knife down.\""
   ],
   "in_the_wild": null,
-  "etymology": "Greek **meta-** (*across*) + **pherein** (*to carry*) — a metaphor **carries meaning across** from one thing to another. It's the exact Greek twin of Latin *trans-* + *ferre* = **transfer**.\n\n*pherein* also gives **periphery** (carried around), **euphoria** (carrying well), **phosphorus** (light-bearer) — and **Christopher**, the \"Christ-bearer\" who in legend carried the child across the river.",
-  "one_line": "Figurative, not literal — true in image rather than in fact.",
-  "root": "pherein (to carry) + meta- (across)",
+  "etymology": "Greek **meta-** (*across*) + **pherein** (*to carry*) — a metaphor **carries meaning across** from one thing to another. Latin built the same word out of its own parts: *trans* + *ferre* = **transfer**. Metaphor and transfer are the same idea in two languages.\n\n*pherein* keeps paying: **phosphorus** (light-carrier), **semaphore** (sign-carrier), **amphora** (carried by two handles), **euphoria** (carrying yourself well), **Christopher** (Christ-bearer).",
+  "one_line": "Figurative, not literal — meaning carried across by comparison.",
+  "root": "meta- (across) + pherein (to carry)",
   "root_family": [
     "metaphor",
-    "periphery",
-    "euphoria",
     "phosphorus",
-    "pheromone",
+    "semaphore",
     "amphora",
-    "Christopher",
-    "transfer"
+    "euphoria",
+    "periphery",
+    "Christopher"
   ],
   "confusables": [
     "metaphysical",
-    "figurative",
+    "metaphoric",
     "allegorical"
   ],
   "sense_tags": [
     "figurative",
-    "symbolic",
+    "comparison",
     "non-literal",
-    "comparison"
+    "rhetoric"
   ],
   "register": "neutral",
   "connotation": "neutral",

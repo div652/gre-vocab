@@ -1,0 +1,38 @@
+{
+  "word": "impair",
+  "pos": "v.",
+  "pron": "im-PAIR",
+  "pron_note": null,
+  "means": "To **weaken, damage, or diminish** something — usually a faculty, ability, or asset — so that it still works, but works worse.\n\nThe key is *partial*. You destroy a bridge; you **impair** someone's hearing, judgment, mobility, credit rating, or a treaty's effectiveness. The thing survives in degraded form. It also takes abstract objects almost exclusively — faculties and capacities, not chairs and windows — which gives it a clinical, legal, medical flavour: *cognitive impairment*, *impaired assets*, *driving while impaired*.",
+  "trap": null,
+  "trick_line": "**Impaired, not broken** — the drunk driver still drives, just worse.",
+  "trick_unpack": "Impair degrades a faculty that continues to function; it never means destroy outright.",
+  "sentences": [
+    "Chronic sleep deprivation **impairs** judgment more severely than moderate intoxication, yet no one legislates against it.",
+    "One late night and my focus is **impaired** for the rest of the week."
+  ],
+  "in_the_wild": "Every TV listing and caption track marked **\"for the hearing impaired\"** — the standard label, chosen precisely because it means *reduced*, not *absent*.",
+  "etymology": "Latin **pejor** = *\"worse.\"* Late Latin *impejorare* = \"to make worse\" → Old French *empeirier* → **impair**. The word is literally *to worsen*.\n\nSame root: **pejorative** (a word that makes something sound worse), and its superlative *pessimus* (\"worst\") gives **pessimist**.\n\n🚫 **Nothing to do with *pair*.** The spelling is a coincidence of French sound-shift, not a reference to two of anything.",
+  "one_line": "To damage or weaken something that still partly works.",
+  "root": "pejor (worse)",
+  "root_family": [
+    "pejorative",
+    "pessimist",
+    "pessimism"
+  ],
+  "confusables": [
+    "impede",
+    "impale"
+  ],
+  "sense_tags": [
+    "weaken",
+    "damage",
+    "diminish",
+    "deteriorate"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    17
+  ]
+}

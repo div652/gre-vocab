@@ -1,43 +1,41 @@
 {
   "word": "befuddled",
-  "pos": "adj. (from v. befuddle)",
+  "pos": "adj. (also v., past tense of befuddle)",
   "pron": "bih-FUD-uhld",
   "pron_note": null,
-  "means": "Thoroughly confused — thinking gone foggy, unable to make sense of what's in front of you.\n\nWhere *bewildered* is dramatic and *baffled* is intellectual, **befuddled** is soft, foggy and faintly comic. It describes a *state of the head*, not a hard problem: the muddle is in you, not in the puzzle. It carries a whiff of the doddering — the befuddled uncle, the befuddled minister at the press conference — and often an implication of drink or age or sheer sleepiness. Calling someone befuddled is gentle mockery; calling yourself befuddled is an admission you're not keeping up.",
-  "trap": "⚠️ **befuddled ≠ bemused.**\n- **befuddled** = *fogged, can't think straight*\n- **bemused** = *puzzled, lost in thought* (and **not** \"amused,\" despite the look of it)",
-  "trick_line": "**Befuddled** rhymes with **muddled** and **fuddled** — a head full of fudge.",
-  "trick_unpack": "The rhyme carries the tone as well as the sense: nothing sharp or tragic, just soft, sticky, slow-witted fog.",
+  "means": "Thoroughly **confused** — unable to think clearly, muddled in the head.\n\nWhere *bewildered* is wide-eyed and slightly dramatic, and *perplexed* is the polite, intellectual version, **befuddled** is soft and faintly comic. It suggests a fogged, slow-witted confusion rather than shock: the person isn't reeling, they're just not tracking. It's the word for the professor who has mislaid his glasses, the grandparent facing a self-checkout machine, the jury that the lawyer has deliberately muddled. Note also that it's usually *done to* someone — a question, a rulebook, or a drink befuddles you.",
+  "trap": null,
+  "trick_line": "**Befuddled** rhymes with **muddled** — the brain is stirred, not stunned.",
+  "trick_unpack": "The rhyme keeps you on the gentle, foggy end of confusion rather than the shocked end where *bewildered* and *dumbfounded* live.",
   "sentences": [
-    "Three pages of tax code left him utterly **befuddled**, and he set the form aside for a lawyer.",
-    "I woke up **befuddled**, put the milk in the cupboard and the cereal in the fridge."
+    "The committee's report left even its own authors **befuddled**, so densely was it hedged with qualifications.",
+    "I gave him the Wi-Fi password three times and he still just stood there looking **befuddled**."
   ],
   "in_the_wild": null,
-  "etymology": "**fuddle** (1580s) = *to get drunk, to muddle with drink* — the original befuddling agent was a bottle, which is why the word still sounds tipsy rather than tragic.\n\nThe **be-** prefix means *thoroughly, all over*, and it's a workhorse worth owning: **bedraggled** (thoroughly draggled), **besmirched**, **bewitched**, **bemused**, **belittled**.",
-  "one_line": "Confused in a foggy, muddled, slightly comic way.",
-  "root": "be- (thoroughly) + fuddle (to muddle with drink)",
+  "etymology": "From **fuddle** (1580s), *\"to get drunk, to muddle with drink\"* — plus the intensifier **be-** (as in *bedazzle, bewitch, besmirch*, all meaning \"to thoroughly do X to someone\"). So *befuddled* literally means **drunk-confused**, which is exactly the flavour it kept: hazy, slow, harmless.\n\nThat **be-** prefix is worth banking on its own — it turns a verb outward onto a victim, and it shows up all over the GRE (*beguile, belabour, bemoan, bereft*).",
+  "one_line": "Muddled and foggy-headed; gently, often comically confused.",
+  "root": "fuddle (to muddle with drink) + be- (intensive prefix)",
   "root_family": [
-    "bedraggled",
-    "besmirched",
-    "bewitched",
-    "bemused",
-    "belittle",
-    "bewildered"
+    "bedazzle",
+    "bewitch",
+    "besmirch",
+    "beguile",
+    "belabour",
+    "bemoan"
   ],
   "confusables": [
     "bemused",
     "bewildered",
-    "muddled",
-    "addled",
-    "baffled",
-    "flummoxed"
+    "beleaguered",
+    "fuddy-duddy"
   ],
   "sense_tags": [
     "confused",
     "muddled",
-    "foggy-headed",
+    "foggy",
     "dazed"
   ],
-  "register": "neutral",
+  "register": "informal",
   "connotation": "negative",
   "groups": [
     10

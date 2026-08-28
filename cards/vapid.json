@@ -2,35 +2,35 @@
   "word": "vapid",
   "pos": "adj.",
   "pron": "VAP-id",
-  "pron_note": "Short \"a\", as in cat — not VAY-pid, despite the link to vapour.",
-  "means": "Empty of life, interest, or flavour — flat, bland, offering nothing to chew on.\n\nA vapid thing isn't *stupid*, and it isn't necessarily unpleasant. It may be perfectly smooth, pretty, even likeable — that's the point: the surface is intact and there is nothing behind it. **Boring** describes your reaction; **vapid** is a verdict on the contents. And it's a contemptuous verdict — the word carries a curl of the lip, usually aimed at chat, smiles, pop songs, celebrity interviews, and inspirational quotes. Nobody calls their own work vapid.",
+  "pron_note": "Rhymes with rapid. A VAY-pid variant exists, but VAP-id is standard.",
+  "means": "Offering nothing — no flavour, no substance, no spark. Flat, empty, lifeless.\n\nWhat makes it sting is that *vapid* things are usually not unpleasant. A vapid smile, a vapid pop song, a vapid conversation about the weather — all perfectly agreeable on the surface, and completely hollow underneath. **Boring** says you were bored; **vapid** says there was nothing there to be interested in. It's a critic's word, faintly snobbish, and it always looks down on what it describes.",
   "trap": null,
-  "trick_line": "**-pid words are dead air: va*pid*, insi*pid*, tor*pid*, stu*pid*.**",
-  "trick_unpack": "Once you hear the **-pid** ending as \"no spark in there,\" *vapid* files itself next to the flavourless and the sluggish.",
+  "trick_line": "**Vapid** rhymes with **insipid** — and means the same thing.",
+  "trick_unpack": "Both describe something with all the flavour drained out, whether it's a soup or a screenplay.",
   "sentences": [
-    "The novel's dialogue is elegant but **vapid**, three hundred pages of people being charming at each other and saying nothing.",
-    "Two hours of **vapid** small talk about the weather and I wanted to walk into the sea."
+    "The novel's dialogue is **vapid** — three hundred pages of pleasant people saying nothing to one another.",
+    "He gave me this **vapid** smile and asked if I'd had a nice weekend, for the fourth time."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **vapidus** = *\"flat, spiritless\"* — said of wine that had gone off, lost its bite and gone lifeless in the cup. It's cousin to **vapor**: the good stuff has **evaporated** and what's left is flat.\n\nThat's the whole image the word still carries — not empty from the start, but drained of whatever made it worth having.",
-  "one_line": "Empty of interest or flavour — smooth surface, nothing behind it.",
-  "root": "vapidus (flat, spiritless), akin to vapor (steam)",
+  "in_the_wild": "It's the stock verdict in music and film reviews — the word a critic reaches for when a song is catchy, glossy, and utterly empty.",
+  "etymology": "Latin **vapidus** = *\"flat, stale\"* — said of **wine that had lost its kick**. Same root as **vapor**: the good stuff has **evaporated**, and what's left in the glass is flavourless liquid.\n\nThat image is the definition. Vapid = the wine's gone flat.",
+  "one_line": "Flat and empty; offering nothing to interest anyone.",
+  "root": "vapidus (flat, stale) / vapor (steam)",
   "root_family": [
     "vapor",
     "evaporate",
     "vaporize"
   ],
   "confusables": [
-    "rapid",
     "insipid",
-    "vaporous"
+    "vacuous",
+    "rapid"
   ],
   "sense_tags": [
     "dull",
     "empty",
     "insipid",
     "shallow",
-    "uninteresting"
+    "lifeless"
   ],
   "register": "formal",
   "connotation": "negative",

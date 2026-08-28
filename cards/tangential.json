@@ -1,0 +1,42 @@
+{
+  "word": "tangential",
+  "pos": "adj.",
+  "pron": "tan-JEN-shuhl",
+  "pron_note": null,
+  "means": "**Only glancingly related to the matter at hand** — touching it at one point and then heading off elsewhere. (Literal geometry sense: a tangent line touches a curve at exactly one point.)\n\nIt's a **soft dismissal**. *Irrelevant* denies any connection; *tangential* concedes a real one and then rules it out as beside the point — which is why academics and lawyers reach for it. Calling someone's remark tangential is politer than calling it irrelevant, and just as fatal. It also describes a *manner* of thinking: someone who is tangential wanders off the thread mid-conversation.",
+  "trap": null,
+  "trick_line": "A tangent **touches the circle once and keeps going** — tangential facts touch your point once, then leave.",
+  "trick_unpack": "The single point of contact is the whole idea: real contact, immediately abandoned.",
+  "sentences": [
+    "The committee ruled the testimony **tangential** to the charge and struck it from the record.",
+    "Sorry, this is a bit **tangential**, but did anyone actually book the venue?"
+  ],
+  "in_the_wild": "The everyday phrase **\"going off on a tangent\"** is this word doing its job — the speaker touched the topic once and shot off in a straight line away from it.",
+  "etymology": "Latin **tangere** = *\"to touch.\"* One root, a long list: **tangible** (touchable), **tactile**, **contact**, **contagion** (touching-together disease), **intact** (*not* touched), **contingent** (touching on circumstances).",
+  "one_line": "Only glancingly related — touches the main point, then veers off.",
+  "root": "tangere (to touch)",
+  "root_family": [
+    "tangible",
+    "tangent",
+    "tactile",
+    "contact",
+    "contagion",
+    "intact",
+    "contingent"
+  ],
+  "confusables": [
+    "tangible",
+    "tangent"
+  ],
+  "sense_tags": [
+    "digressive",
+    "peripheral",
+    "marginally-relevant",
+    "off-topic"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

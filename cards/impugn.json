@@ -1,0 +1,44 @@
+{
+  "word": "impugn",
+  "pos": "v.",
+  "pron": "im-PYOON",
+  "pron_note": "The g is silent — never \"im-PUG-n.\"",
+  "means": "To **attack something as false or dishonest** — to call into question a person's motives, integrity, or the validity of a claim.\n\nThe word is a frontal challenge, and it lands on *honesty*, not quality. You **criticise** a plan for being weak; you **impugn** it for being a lie. Note also that it stops short of proof: to *refute* an argument is to defeat it, but to **impugn** it is only to cast doubt on it — which is why the word carries a faint whiff of the accuser overreaching. Formal, and heavily legal and political: what usually gets impugned is a witness's credibility, a rival's motives, a court's independence.",
+  "trap": "⚠️ **impugn ≠ impute.**\n- **impugn** = *attack* the honesty of a claim or person\n- **impute** = *attribute* something (usually bad) to someone\n\nYou impute a selfish motive to him; you impugn his account of what happened.",
+  "trick_line": "**imPUGN** hides **pug** — as in **pug**ilist, a boxer. To impugn is to throw a punch at someone's honesty.",
+  "trick_unpack": "It's a swing at credibility, not a knockout — the doubt is landed, the case is not yet won.",
+  "sentences": [
+    "No one **impugned** her competence; it was her motives for taking the contract that the committee quietly questioned.",
+    "Say I got the numbers wrong, fine — but don't **impugn** my honesty in front of the whole team."
+  ],
+  "in_the_wild": "Standard courtroom vocabulary: counsel who tries to **impugn the credibility** of a witness — attack the person's truthfulness rather than the evidence — and the near-fixed political phrase *\"I do not impugn my colleague's motives,\"* which is almost always said right before doing exactly that.",
+  "etymology": "Latin **impugnāre** = *\"to fight against\"* — *in-* (against) + *pugnāre* (to fight), from **pugnus**, *\"fist.\"*\n\nThat fist unlocks a cluster: **pugnacious** (spoiling for a fight), **pugilist** (a boxer), **repugnant** (fighting *back* against — hence revolting).",
+  "one_line": "To attack as false; to call someone's honesty into question.",
+  "root": "pugnus (fist) / pugnare (to fight)",
+  "root_family": [
+    "pugnacious",
+    "pugilist",
+    "repugnant",
+    "impugnable",
+    "inexpugnable"
+  ],
+  "confusables": [
+    "impute",
+    "impunity",
+    "impute",
+    "expunge",
+    "impinge"
+  ],
+  "sense_tags": [
+    "attacking",
+    "doubting",
+    "discrediting",
+    "accusation",
+    "integrity"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    17
+  ]
+}

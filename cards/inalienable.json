@@ -1,0 +1,41 @@
+{
+  "word": "inalienable",
+  "pos": "adj.",
+  "pron": "in-AYL-yuh-nuh-buhl",
+  "pron_note": "Also written unalienable — same word, same meaning.",
+  "means": "Incapable of being taken away, surrendered, or transferred to anyone else.\n\nThe strong part is the second half: an inalienable right can't be removed by others **and can't be signed away by you**. You could not sell it, gift it, or waive it in a contract even if you wanted to. That's what separates it from *indestructible* or *guaranteed* — the point isn't durability, it's non-transferability. It lives almost entirely in law, political philosophy, and high rhetoric: rights, liberty, dignity, human worth. Nobody calls their gym membership inalienable.",
+  "trap": null,
+  "trick_line": "**Alien** is sitting right inside it — an inalienable right can never be made *alien* to you, i.e. handed over to another.",
+  "trick_unpack": "In law, to *alienate* property is to transfer it to someone else, so *in-alienable* = not transferable, not just not removable.",
+  "sentences": [
+    "The court held that the freedom to worship is **inalienable**, and no contract signed under duress could waive it.",
+    "You can lose the argument, but you've got an **inalienable** right to be annoyed about it."
+  ],
+  "in_the_wild": "The US Declaration of Independence: *\"endowed by their Creator with certain **unalienable** Rights, that among these are Life, Liberty and the pursuit of Happiness.\"* That's where most people have met the word — and it explains the odd *un-* spelling you'll sometimes see.",
+  "etymology": "Latin **alienus** = *\"belonging to another.\"* To **alienate** land, in legal English, is literally to make it another's — to transfer the title. So *in-alien-able* = \"cannot be made another's.\"\n\nSame root, useful family: **alien** (from another place), **alienate** (make someone feel other), **alienation**.",
+  "one_line": "Impossible to take away, surrender, or transfer — of rights.",
+  "root": "alienus (belonging to another)",
+  "root_family": [
+    "alien",
+    "alienate",
+    "alienation",
+    "alias"
+  ],
+  "confusables": [
+    "unalienable",
+    "inalterable",
+    "unassailable"
+  ],
+  "sense_tags": [
+    "rights",
+    "non-transferable",
+    "absolute",
+    "legal",
+    "permanent"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    35
+  ]
+}

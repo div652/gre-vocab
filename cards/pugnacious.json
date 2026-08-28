@@ -1,37 +1,38 @@
 {
   "word": "pugnacious",
   "pos": "adj.",
-  "pron": "pug-NAY-shuhs",
-  "pron_note": null,
-  "means": "Eager to fight; combative, quarrelsome, always ready to take someone on.\n\nThe key is *appetite*, not anger. An angry person has been provoked; a **pugnacious** person doesn't need provoking — conflict is the default setting, and the fight is usually verbal: a pugnacious columnist, a pugnacious cross-examiner. Compare **belligerent**, which is hostility aimed outward at someone in particular, and **bellicose**, which is nations edging toward actual war. Pugnacious is a *temperament*, and it carries a faint grudging admiration — the small, scrappy fighter who won't back down.",
+  "pron": "puhg-NAY-shuhs",
+  "pron_note": "The g is silent in the related verb impugn (im-PYOON), but fully sounded here.",
+  "means": "Eager to fight; combative, quarrelsome, always up for a scrap.\n\nThis is a **standing disposition, not a mood**. Someone *angry* has been provoked; someone **pugnacious** goes looking. Compare the neighbours: *belligerent* belongs to armies and drunks and implies real violence; *truculent* is sullen and menacing; **pugnacious** is usually verbal and often faintly admiring — the columnist, the trial lawyer, the small striker who won't be bullied. It carries energy and relish, so a pugnacious person is a nuisance you might also enjoy watching.",
   "trap": null,
-  "trick_line": "**PUG**nacious = **PUNCH**-nacious — and *pugnus* is Latin for **fist**.",
-  "trick_unpack": "The fist is literally sitting in the first syllable, and the word describes someone with their fists already up rather than someone who has just been hit.",
+  "trick_line": "**PUG**nacious — a pug is a squashed-faced little dog *and* old boxing slang for a fighter. Small, scrappy, spoiling for it.",
+  "trick_unpack": "The \"pug\" sitting at the front is no accident — boxers were called *pugs* from the same fist-root, and it pins the word's flavour of eager scrappiness rather than genuine menace.",
   "sentences": [
-    "Small in stature and **pugnacious** by instinct, he treated every committee meeting as a bout to be won on points.",
-    "She's lovely one-on-one, but put her on a panel and she turns weirdly **pugnacious** — arguing with people who agree with her."
+    "His pugnacious style of cross-examination unsettled witnesses long before it ever produced a confession.",
+    "Three minutes into the meeting he was already picking fights — pugnacious little man, isn't he?"
   ],
   "in_the_wild": null,
-  "etymology": "Latin **pugnus** = *\"fist\"*, giving **pugnāre** = *\"to fight.\"*\n\nThat one fist unlocks a cluster: **pugilist** (a boxer — a man who fights with fists), **impugn** (*in-* \"at\" + fight — to attack a claim or someone's motives, verbally), **repugnant** (*re-* \"back\" + fight — literally *fighting back against* you, hence repulsive), and **inexpugnable** (un-fight-out-able, i.e. impregnable).",
-  "one_line": "Eager to fight; spoiling for a quarrel by nature.",
-  "root": "pugnus (fist), pugnāre (to fight)",
+  "etymology": "Latin **pugnus** = *\"fist\"* → **pugnāre**, *\"to fight.\"*\n\nOne root, a useful cluster: **pugilist** (a boxer — a fist-fighter), **impugn** (to attack a claim *at* it, with words), **repugnant** (literally *fighting back* against you — hence repellent).",
+  "one_line": "Eager to fight; combative by temperament.",
+  "root": "pugnus (fist), pugnare (to fight)",
   "root_family": [
     "pugilist",
     "impugn",
     "repugnant",
-    "inexpugnable",
+    "oppugn",
     "pugnacity"
   ],
   "confusables": [
-    "pugilistic",
-    "punctilious"
+    "tenacious",
+    "pugilist",
+    "repugnant"
   ],
   "sense_tags": [
     "combative",
     "quarrelsome",
     "aggressive",
-    "belligerent",
-    "fighting-spirit"
+    "temperament",
+    "belligerent"
   ],
   "register": "formal",
   "connotation": "depends",

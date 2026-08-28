@@ -2,38 +2,39 @@
   "word": "specious",
   "pos": "adj.",
   "pron": "SPEE-shuhs",
-  "pron_note": "Two syllables, not three — never \"SPESS-ee-us.\"",
-  "means": "Looking correct, reasonable or attractive **on the surface, but false underneath** — usually of an argument, claim or excuse.\n\nThe insult is aimed at the *polish*, not the crudeness. A stupid argument is just wrong; a **specious** one is well-dressed, moves smoothly, and takes a second reading to catch. It implies you almost fell for it — and often that the speaker built it that way on purpose. Formal, faintly withering: the word of a judge, a philosopher, or a reviewer who has just found the seam.",
-  "trap": "⚠️ **specious ≠ spurious.**\n- **specious** = *sounds* true, isn't — about the reasoning\n- **spurious** = fake, illegitimate in origin — about the thing itself\n\nA spurious quotation was never said. A specious argument was really made — it just doesn't survive contact.",
-  "trick_line": "**Spe-cious** rhymes with **suspi-cious** — if it lands too neatly, be suspicious: it's specious.",
-  "trick_unpack": "The word describes exactly the argument that feels a little too tidy to be true, and the rhyme is no accident — *suspicious* comes from the same \"look\" root.",
+  "pron_note": "First syllable is \"spee-\", not \"spesh-\".",
+  "means": "Superficially convincing but actually **false** — an argument, claim, or excuse that passes a quick look and collapses under a second one.\n\nThe word is aimed almost always at **reasoning**, not at objects or people. And it carries a specific insult: the thing is *dressed up*. A liar is crude; a specious argument is well-tailored — plausible structure, respectable vocabulary, rotten logic. Calling something specious says you inspected it and found the shine was the whole product.",
+  "trap": "**specious ≠ spurious.**\n- **specious** = *sounds* right, reasoning is bad\n- **spurious** = *isn't* genuine, origin is fake\n\nA specious argument is really an argument, just a bad one. A spurious quotation was never said at all.",
+  "trick_line": "**Specious** is one letter off **spacious** — a spacious argument: impressive room, nothing in it.",
+  "trick_unpack": "Both words promise something grand on first look, and the specious one turns out to be empty inside.",
   "sentences": [
-    "The defence rested on a **specious** distinction between advising the fraud and executing it, which the court dismissed in a single paragraph.",
-    "He gave me some **specious** reason about the traffic, and it took me an hour to realise he doesn't even own a car."
+    "The defence rested on a **specious** distinction between advising a crime and ordering one — the jury saw through it in an hour.",
+    "He gave me some **specious** line about the traffic, which would've worked if I hadn't watched him leave the pub."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **specere** = *\"to look.\"* **Speciosus** meant *good-looking, showy* — and that's what **specious** meant in early English too: *beautiful*. The word then slid from \"looks good\" to **\"only looks good,\"** which is the whole definition in one move.\n\nSame root, huge family: **spectacle, inspect, conspicuous, perspective, specimen, species** — and **suspicious** (to look at from below).",
-  "one_line": "Plausible and polished on the surface, but actually false.",
-  "root": "specere (to look)",
+  "etymology": "Latin **speciōsus** = *\"good-looking, showy,\"* from **species** (*appearance*) ← **specere**, *\"to look at.\"* The word originally meant *handsome* — and then slid, as flattering words do, into *only* handsome.\n\nThat root is a GRE goldmine: **species, specimen, spectacle, inspect, conspicuous, perspective, suspicion** — all about looking. *Specious* is the one where looking is all you get.",
+  "one_line": "Looks like sound reasoning; isn't.",
+  "root": "specere (to look at), species (appearance)",
   "root_family": [
+    "species",
+    "specimen",
     "spectacle",
     "inspect",
     "conspicuous",
     "perspective",
-    "specimen",
-    "species",
-    "suspicious",
-    "respect"
+    "suspicion",
+    "circumspect"
   ],
   "confusables": [
     "spurious",
-    "suspicious",
-    "species"
+    "spacious",
+    "specious vs. speciesism (no relation in sense)",
+    "suspicious"
   ],
   "sense_tags": [
-    "plausible-but-false",
     "deceptive",
-    "fallacious",
+    "plausible",
+    "false-reasoning",
     "superficial",
     "misleading"
   ],

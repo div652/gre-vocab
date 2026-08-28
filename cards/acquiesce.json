@@ -2,40 +2,36 @@
   "word": "acquiesce",
   "pos": "v.",
   "pron": "ak-wee-ES",
-  "pron_note": "Stress lands on the last syllable, not the second — never uh-KWEE-ess. Noun: acquiescence (ak-wee-ES-uhns).",
-  "means": "To go along with something — to accept, comply, or consent — **without protesting**, usually while privately unconvinced.\n\nThe word is doing two jobs at once: you said yes, and you didn't want to. *Agree* is active; *acquiesce* is the surrender of resistance — you stop pushing back and let it happen. That's why it usually carries a faint reproach: the person who acquiesces had grounds to object and chose silence instead. It's formal, and it's the standard verb for consent that is inferred from someone's failure to complain (courts, boards, treaties).\n\nOften followed by **in** or **to**: *acquiesced in the decision*.",
+  "pron_note": "Stress lands on the last syllable, not the first — never AK-wee-ess.",
+  "means": "To accept or go along with something **without protest** — to give in quietly.\n\nThe word carries the objection you swallowed. Someone who *agrees* is on board; someone who **acquiesces** had reservations and simply stopped fighting. It's consent measured by silence rather than enthusiasm, and it usually implies a power gap — you acquiesce to a boss, a government, a stubborn spouse. Faintly disapproving: it hints at weakness, or at least at surrender.\n\nNote the grammar the GRE likes: you acquiesce **in** or **to** a decision — never \"acquiesce a decision.\"",
   "trap": null,
-  "trick_line": "**Acqui-ESCE** hides **quie**t — you go quiet, and going quiet is taken as yes.",
-  "trick_unpack": "Acquiescence is consent made of silence rather than enthusiasm.",
+  "trick_line": "**AcQUIEsce** — you go **quiet**, and the silence counts as a yes.",
+  "trick_unpack": "The word has *quie(t)* sitting in the middle of it, which is exactly the kind of agreement it describes — you stop objecting rather than actually consent.",
   "sentences": [
-    "The minority shareholders **acquiesced in** the merger, registering their misgivings in private and their assent in the minutes.",
-    "I didn't actually want pineapple on it — I just **acquiesced** because arguing about pizza at midnight felt insane."
+    "The board **acquiesced in** the chairman's proposal, though several members later admitted they had never believed in it.",
+    "I didn't want pineapple on it, but everyone else did, so I **acquiesced**."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **quiēs, quiētis** = *rest, quiet*, giving the verb **quiēscere**, \"to become still\" — plus *ad-* (\"to\"). To acquiesce is literally **to come to rest** about something: you stop struggling.\n\nThat root is a good haul: **quiet**, **quiescent** (dormant, inactive), **quiescence**, **requiem** (*requiēscat in pace* — \"may he rest in peace\"), and **tranquil**.",
-  "one_line": "To go along with something without protest.",
-  "root": "quiēs, quiētis (rest, quiet) → quiēscere (to become still)",
+  "in_the_wild": "**Oasis — \"Acquiesce\"** (1995), the Liam-and-Noel duet B-side that became one of their biggest live songs. The chorus — *because we need each other, we believe in one another* — is two brothers who fight constantly agreeing to stop fighting, which is precisely what the word means.",
+  "etymology": "Latin **quiēs / quiēscere** = *\"rest, be still\"*, plus *ad-* (\"to\"). To acquiesce is literally to *come to rest* about something — to stop struggling.\n\nThat root pays out across the GRE: **quiescent** (dormant, inactive), **quiet**, **tranquil**, and **requiem** (a mass for the *rest* of the dead).",
+  "one_line": "To give in quietly, without protest.",
+  "root": "quiēscere (to rest, be still)",
   "root_family": [
-    "quiet",
     "quiescent",
-    "quiescence",
+    "quiet",
+    "tranquil",
     "requiem",
-    "tranquil"
+    "quietude"
   ],
-  "confusables": [
-    "acquire",
-    "acquit",
-    "quiescent"
-  ],
+  "confusables": [],
   "sense_tags": [
-    "consent",
-    "compliance",
-    "passivity",
-    "submission",
-    "non-resistance"
+    "consenting",
+    "yielding",
+    "passive",
+    "compliant",
+    "submitting"
   ],
   "register": "formal",
-  "connotation": "depends",
+  "connotation": "negative",
   "groups": [
     14
   ]

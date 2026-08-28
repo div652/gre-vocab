@@ -3,30 +3,31 @@
   "pos": "v. / n.",
   "pron": "HAM-per",
   "pron_note": null,
-  "means": "**Verb:** to hinder, encumber, hold back — to make something harder or slower without necessarily stopping it.\n**Noun:** a large lidded basket (laundry hamper, picnic hamper).\n\nStrength is what marks this word out. *Block* and *thwart* mean the thing doesn't happen; **hamper** means it still happens, badly — dragging, delayed, working at half capacity. It's the standard news-report verb for conditions weighing on an effort: *rescue teams hampered by high winds*, *growth hampered by supply shortages*. Almost always the obstacle is circumstantial rather than a person deliberately blocking you.",
-  "trap": "⚠️ **hamper ≠ pamper.** One letter apart, opposite direction: **hamper** = weigh someone down; **pamper** = indulge and spoil them.",
-  "trick_line": "Try running with a full laundry **hamper** — you still get there, just slow and clumsy.",
-  "trick_unpack": "That's the exact strength of the word: hampered means burdened and slowed, not stopped — a thwarted plan fails outright, a hampered one merely limps.",
+  "means": "**Verb:** to hold back, slow down, or make difficult. **Noun:** a large lidded basket (laundry, picnic).\n\nThe verb is about **drag, not blockage**. *Thwart* defeats a plan outright; *impede* puts something in the way; **hamper** weighs you down so you can still move, just badly — clumsily, slowly, at half strength. Rain doesn't stop the rescue, it *hampers* it. Note the standard collocation: things are almost always **hampered by** something — bad weather, budget cuts, a torn hamstring, missing data. Neutral register, common in news and academic prose alike.",
+  "trap": "⚠️ **hamper ≠ tamper.** Both mean interfering with how something works, one letter apart. **Hamper** = slow it down from outside; **tamper (with)** = meddle inside it, usually to alter or sabotage. Rain hampered the investigation; someone had tampered with the evidence.",
+  "trick_line": "**Strap a picnic hamper to your back and you're hampered — still walking, just slower.**",
+  "trick_unpack": "The basket sense gives you the verb's exact flavour: a burden that encumbers rather than a wall that stops.",
   "sentences": [
-    "Chronic underfunding has **hampered** the agency's ability to respond to outbreaks.",
-    "I'd have been home by noon, but that dodgy knee **hampered** me the whole way down."
+    "Chronic underfunding **hampered** the department's research for a decade, though it never quite halted it.",
+    "Don't wear those boots on the hike — they'll just **hamper** you."
   ],
-  "in_the_wild": null,
+  "in_the_wild": "The laundry **hamper** in the corner of your room is the same word — a basket so bulky it slows you down carrying it.",
   "etymology": null,
-  "one_line": "To hinder or slow down; also, a large basket.",
+  "one_line": "To hold back or slow down; also, a large basket.",
   "root": null,
   "root_family": [],
   "confusables": [
-    "pamper",
     "tamper",
+    "pamper",
+    "hamstring",
     "hinder"
   ],
   "sense_tags": [
     "hindering",
     "impeding",
-    "encumbrance",
-    "delay",
-    "basket"
+    "encumbering",
+    "slowing",
+    "obstruction"
   ],
   "register": "neutral",
   "connotation": "negative",

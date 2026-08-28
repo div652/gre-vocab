@@ -2,43 +2,42 @@
   "word": "pertinacious",
   "pos": "adj.",
   "pron": "per-tuh-NAY-shuhs",
-  "pron_note": null,
-  "means": "Holding on to a purpose, opinion, or course of action and **refusing to let go** — stubbornly, unshakeably persistent.\n\nWhere **tenacious** is a compliment (the fighter who won't quit), *pertinacious* has a sourness to it: the grip has outlasted everyone's patience. It's the debt collector who calls for the ninth time, the colleague still relitigating a decision made in March. Formal, faintly disapproving, and usually said by someone who wishes the person would stop.",
-  "trap": "**pertinacious ≠ pertinent.** *Pertinent* = relevant, to the point. *Pertinacious* = won't drop the point. A pertinacious questioner is often the least pertinent person in the room.",
-  "trick_line": "**Per-TINACIOUS** = *tenacious*, thoroughly — so thoroughly that the admiration wears off.",
-  "trick_unpack": "*Tenacious* is hiding inside the word, and the *per-* (\"through, completely\") is what pushes gritty into grating.",
+  "pron_note": "Not \"per-TIN-ay-shus\" — the stress jumps to the third syllable, and *-cious* is *-shuhs*, as in gracious.",
+  "means": "Holding stubbornly and unyieldingly to a purpose, opinion, or course of action; refusing to let go.\n\n**Tenacious** is a compliment — grit, endurance, admirable grip. **Pertinacious** is the same grip held about an hour too long: the persistence has curdled into obstinacy and the speaker is tired of it. It's a formal, slightly bookish word, and it usually carries a sigh — a pertinacious creditor, a pertinacious cough, a pertinacious rumour that will not die. Applied to people, it says *they will not drop this*, and not admiringly.",
+  "trap": "**pertinacious ≠ pertinent.** Same Latin family, opposite jobs: **pertinent** = *relevant, to the point*; **pertinacious** = *doggedly won't let go*. A pertinent question is worth asking; a pertinacious questioner won't stop asking it.",
+  "trick_line": "**Per-tenacious** — tenacious *per*-severed past the point anyone wanted.",
+  "trick_unpack": "Hear *tenacious* sitting inside the word, then let the *per-* (\"thoroughly, all the way through\") push the admirable version into the annoying one.",
   "sentences": [
-    "Her **pertinacious** pursuit of the missing ledgers outlasted three chairmen, two lawsuits, and the bank itself.",
-    "He's **pertinacious** about that parking fine — it's been eight months and he's still writing letters."
+    "Her **pertinacious** pursuit of the buried invoices exhausted three lawyers before the firm finally settled.",
+    "He's **pertinacious** about that parking fine — four appeals now, over eighteen quid."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **per-** (*\"thoroughly\"*) + **tenāx / tenēre** (*\"holding, to hold\"*).\n\nThat root is a GRE goldmine: **tenacious** (holding fast), **tenet** (a belief you hold), **tenure** (holding a post), **tenant** (one who holds property), **retain**, **detain**, **sustain**, **tenable**.",
+  "in_the_wild": "Jack Black's band **Tenacious D** — the name is the same *ten-* root worn as a badge: \"the D\" that never lets go. Pertinacious is that, minus the charm.",
+  "etymology": "Latin **per-** (*thoroughly*) + **tenax / tenēre** (*to hold*) — literally *holding on all the way through*.\n\nThat root is a GRE goldmine: **tenacious** (gripping), **tenet** (a belief you hold), **tenure** (holding a post), **retain, contain, sustain, abstain** — all holding something, or holding back from it.",
   "one_line": "Stubbornly persistent — holding on past the point of reason.",
-  "root": "tenēre, tenāx (to hold, holding fast)",
+  "root": "tenēre (to hold), with per- (thoroughly)",
   "root_family": [
     "tenacious",
-    "tenacity",
     "tenet",
     "tenure",
-    "tenant",
     "tenable",
     "retain",
-    "detain",
+    "contain",
     "sustain",
-    "abstain"
+    "abstain",
+    "pertain"
   ],
   "confusables": [
     "pertinent",
-    "perspicacious",
+    "tenacious",
     "pernicious",
-    "tenacious"
+    "perspicacious"
   ],
   "sense_tags": [
     "stubborn",
     "persistent",
     "unyielding",
-    "dogged",
-    "obstinate"
+    "obstinate",
+    "dogged"
   ],
   "register": "formal",
   "connotation": "negative",

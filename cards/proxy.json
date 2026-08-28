@@ -1,0 +1,43 @@
+{
+  "word": "proxy",
+  "pos": "n. (also adj.)",
+  "pron": "PROK-see",
+  "pron_note": null,
+  "means": "**1.** A person **authorised to act for another** — to vote, sign, or attend in their place; also the authority itself (*\"she holds my proxy\"*).\n**2.** A **stand-in measure**: something used to represent a thing you can't observe directly. *\"Tree rings are a proxy for past rainfall.\"*\n\nNothing shady about it — a proxy is an *appointed* substitute, openly delegated, whereas an **impostor** or **front** substitutes without permission. What it does carry is a hint of **second-hand-ness**: a proxy is not the real thing, only the thing standing where the real thing should be. Hence **proxy war** (the superpowers fight through other people's armies) and **by proxy** (it happened, but you weren't there for it).",
+  "trap": null,
+  "trick_line": "**A proxy acts *pro* you — with your say-so. An impostor acts *as* you — without it.**",
+  "trick_unpack": "The *pro-* (\"on behalf of\") is the whole word: authorised substitution, not impersonation.",
+  "sentences": [
+    "Unable to attend the shareholders' meeting, the trustee voted by **proxy**.",
+    "Test scores are a lousy **proxy** for how much a kid actually understands."
+  ],
+  "in_the_wild": "A **proxy server** does exactly what the word says: it fetches the page *on your behalf*, so the site sees the middleman's address instead of yours.",
+  "etymology": "A squashed-down **procuracy** — from Latin **procurare** = *\"to manage on behalf of\"* (**pro-** \"for\" + **cura** \"care\"). Same *cura* runs through **procure, curator, curate, cure, secure, accurate**, and **sinecure** (a job *without* care — i.e. no actual work).\n\n🚫 Nothing to do with **proximity**. That's *proximus*, \"nearest\" — the resemblance is pure accident.",
+  "one_line": "An authorised stand-in — a person, vote, or substitute measure.",
+  "root": "procurare (to manage on behalf of; pro- \"for\" + cura \"care\")",
+  "root_family": [
+    "procure",
+    "curator",
+    "curate",
+    "cure",
+    "secure",
+    "accurate",
+    "sinecure",
+    "manicure"
+  ],
+  "confusables": [
+    "proximate",
+    "proximity"
+  ],
+  "sense_tags": [
+    "substitute",
+    "delegation",
+    "representation",
+    "indirect-action"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    25
+  ]
+}

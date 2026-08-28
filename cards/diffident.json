@@ -2,21 +2,22 @@
   "word": "diffident",
   "pos": "adj.",
   "pron": "DIF-i-duhnt",
-  "pron_note": "Stress falls on the first syllable — never *di-FID-ent*.",
-  "means": "Lacking confidence in yourself; hanging back, hesitant to speak up or claim what you could.\n\n*Modest* is a virtue and *shy* is a temperament, but **diffident** points at the cause: a person who doesn't trust their own ability, so they under-claim. The word usually comes from an observer, with a tinge of pity — the diffident candidate had the best answers and gave them apologetically. It's a quiet, well-mannered failure to assert, never rudeness or coldness.",
-  "trap": "**diffident ≠ indifferent.**\n- **diffident** = self-doubting, *wants* to matter but won't push\n- **indifferent** = couldn't care less\n\nA diffident student blushes when called on; an indifferent one shrugs.",
-  "trick_line": "**Con**fident = *with* trust. **Dif**fident = trust *away*. Same **fid**, flipped prefix.",
-  "trick_unpack": "Diffident isn't humility, it's confidence with the trust drained out — the ability is there, the belief isn't.",
+  "pron_note": "Stressed on the first syllable, exactly like *confident* — never \"dif-FID-ent.\"",
+  "means": "Lacking confidence in yourself; hanging back, hesitant to speak up or push your own claim.\n\nThe word describes **self-doubt made visible as reserve**. *Shy* is a temperament around people; *modest* is a virtue you can choose; **diffident** is the suspicion that you aren't quite good enough, showing up as a half-raised hand. It's also cooler than *insecure* — no neediness, no drama, just someone quietly underrating themselves. The tone is formal and faintly sympathetic: the speaker usually thinks the diffidence is unwarranted.",
+  "trap": "⚠️ **diffident ≠ indifferent.**\n- **diffident** = doubts *himself*\n- **indifferent** = doesn't *care*\n\nA diffident student cares enormously and says nothing; an indifferent one doesn't care and says nothing. Same silence, opposite cause.",
+  "trick_line": "**Con**fident, **dif**fident — same word, prefix swapped: *with* trust vs. trust taken **away**.",
+  "trick_unpack": "Both are built on Latin *fides* (trust), so diffident is confident's exact negative — and the trust being withheld is trust in yourself.",
   "sentences": [
-    "Brilliant on paper and **diffident** in person, he let a junior colleague present the findings he had spent two years assembling.",
-    "She's not unfriendly, just **diffident** — you have to ask her twice before she'll tell you she wrote the whole thing."
+    "Brilliant on paper but **diffident** in person, she let three louder colleagues present her findings before she said a word.",
+    "He gave this **diffident** little shrug when I asked if he'd won — turns out he'd come first."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **dis-** (*away*) + **fīdere** (*to trust*) — trust withheld, now withheld from yourself.\n\nThat **fid** root is a GRE goldmine: **confident** (with trust), **fidelity**, **fiduciary** (trusted with money), **infidel**, **perfidy** (treachery), **bona fide** (in good faith) — and **Fido**, the classic dog name, meaning \"I trust.\"\n\n🚫 **Not related to *indifferent***, which is *in- + differre*, \"to make no difference.\"",
-  "one_line": "Shy and self-doubting; hesitant to assert yourself.",
-  "root": "fīdere (to trust)",
+  "etymology": "Latin **dis-** (*apart, away*) + **fīdere** (*to trust*) — trust withdrawn.\n\nOne root, a whole GRE shelf: **confident** (with trust), **fidelity** (faithfulness), **fiduciary** (trusted with money), **infidel** (without the faith), **perfidy** (treachery), **bona fide** (in good faith) — and the classic dog's name **Fido**, \"I trust.\"",
+  "one_line": "Lacking self-confidence; hesitant to put yourself forward.",
+  "root": "fīdere / fides (to trust, faith)",
   "root_family": [
     "confident",
+    "confide",
     "fidelity",
     "fiduciary",
     "infidel",
@@ -26,16 +27,16 @@
   ],
   "confusables": [
     "indifferent",
-    "dissident",
-    "deferential",
-    "confident"
+    "different",
+    "deferent",
+    "difficult"
   ],
   "sense_tags": [
     "shy",
     "self-doubting",
-    "unassertive",
-    "reticent",
-    "timid"
+    "reserved",
+    "hesitant",
+    "unassertive"
   ],
   "register": "formal",
   "connotation": "negative",

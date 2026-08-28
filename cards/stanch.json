@@ -1,0 +1,45 @@
+{
+  "word": "stanch",
+  "pos": "v.",
+  "pron": "STAHNCH",
+  "pron_note": "Usually rhymes with launch; some say it to rhyme with ranch. Commonly spelled staunch when used as a verb.",
+  "means": "To **stop or check the flow** of something — classically blood from a wound, by extension money, losses, or people leaving.\n\nThe word presupposes a leak already in progress: you can *stop* anything, but you only stanch what is escaping. It carries triage, not repair — pressure on the wound, a hand over the hole. Something stanched is contained, not cured, which is exactly why finance and politics reach for it: *stanch the outflow of deposits*, *stanch the loss of members*.",
+  "trap": "⚠️ **stanch ≠ staunch (adj.).** *Stanch* stops a flow; **staunch** means *loyal, unwavering* — a **staunch** ally, a **staunch** defender. The spellings overlap in the verb, but the adjective never means \"to stop.\"",
+  "trick_line": "**Sta**nch makes it **STAND** still — blood, cash, or customers.",
+  "trick_unpack": "The buried *sta-* is Latin *stare*, \"to stand\": you're not fixing the wound, just making the flow stand still.",
+  "sentences": [
+    "Field medics were trained to **stanch** arterial bleeding with a tourniquet before any thought of evacuation.",
+    "Cutting the free snacks isn't going to **stanch** the bleeding — we're losing a million a month."
+  ],
+  "in_the_wild": "\"**Stanch the bleeding**\" is boardroom and business-news boilerplate — every quarterly-loss story about a company trying to stop the cash pouring out.",
+  "etymology": "Old French **estanchier**, \"to stop the flow,\" from Latin **stāre** = *\"to stand.\"* Make the blood stand still.\n\nThat root is a GRE goldmine: **stagnant** (standing water), **static**, **stance**, **constant**, **stable**, **stanza** (a \"standing place\" in a poem), **substance**.",
+  "one_line": "To stop a flow — blood, money, losses.",
+  "root": "stāre (to stand)",
+  "root_family": [
+    "stagnant",
+    "static",
+    "stance",
+    "constant",
+    "stable",
+    "stanza",
+    "substance",
+    "stationary"
+  ],
+  "confusables": [
+    "staunch",
+    "stanchion",
+    "stench",
+    "staunchly"
+  ],
+  "sense_tags": [
+    "stopping-flow",
+    "bleeding",
+    "containment",
+    "stopgap"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    31
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "foment",
+  "pos": "v.",
+  "pron": "foh-MENT",
+  "pron_note": null,
+  "means": "To **stir up** trouble — unrest, rebellion, discord, resentment — and keep it going.\n\n*Incite* is a spark: one speech, one moment, and the crowd moves. **Foment** is slow heat applied over time, usually from off-stage — the agitator working the room for months, the foreign power funding both sides. It carries blame: nobody foments by accident, and the object is always something bad. You can foment a mutiny, a strike, a panic; you cannot foment goodwill.",
+  "trap": "⚠️ **foment ≠ ferment.**\n- **foment** (verb) = *deliberately stir up* trouble — someone is doing it\n- **ferment** = to brew/bubble; as a noun, a state of agitation (\"the country was in a **ferment**\") — no agent required\n\nWriting \"ferment a rebellion\" is a classic slip; the rebellion ferments on its own, but a person **foments** it.",
+  "trick_line": "**Foment rhymes with torment — and keeps the same bad company.**",
+  "trick_unpack": "Both are second-syllable verbs for inflicting something unpleasant on purpose, so if the object isn't ugly, the word is wrong.",
+  "sentences": [
+    "Colonial administrators accused the pamphleteers of **fomenting** sedition among the garrison troops.",
+    "He wasn't in the argument — he just sat there **fomenting** it, feeding each side quotes from the other."
+  ],
+  "in_the_wild": "Standard diplomatic-accusation vocabulary: governments and news wires routinely charge rival states with \"**fomenting** unrest\" or \"**fomenting** instability\" — a phrase you'll meet in almost any foreign-affairs report.",
+  "etymology": "Latin **fovēre** = *\"to warm.\"* A **fomentum** was a **warm compress** laid on the skin — and *fomentation* is still the medical term for one. That's the whole image: you don't light the fire, you hold warmth against the spot until it inflames.",
+  "one_line": "To deliberately stir up trouble and keep it simmering.",
+  "root": "fovēre (to warm)",
+  "root_family": [
+    "fomentation",
+    "fomite"
+  ],
+  "confusables": [
+    "ferment",
+    "torment"
+  ],
+  "sense_tags": [
+    "instigating",
+    "unrest",
+    "agitation",
+    "subversion",
+    "provocation"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    22
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "confound",
+  "pos": "v.",
+  "pron": "kuhn-FOWND",
+  "pron_note": null,
+  "means": "Three linked senses, all on the exam:\n**1.** to **bewilder** someone completely — confusion so total it stops thought.\n**2.** to **defeat or frustrate** something expected — *the result confounded the polls*.\n**3.** to **mix up two things** that should be kept apart — *don't confound correlation with cause*.\n\n*Confuse* is ordinary and personal; *confound* is grander and usually has a **winner**. When something confounds you, it hasn't merely muddled you — it has outmatched you. That's why sense 2 works so cleanly: predictions, critics, and doctors get confounded, and the thing doing the confounding comes out on top.",
+  "trap": "⚠️ **confound ≠ compound.** To **compound** a problem is to *add* to it, make it worse. To **confound** it is to *baffle* or *defeat* it. One letter, opposite direction.",
+  "trick_line": "**Con-FOUND: the con artist FOUND a way — you're not just puzzled, you're beaten.**",
+  "trick_unpack": "The hidden *found* keeps the winner in the picture, which is what separates *confound* from plain *confuse*.",
+  "sentences": [
+    "The novel's ending **confounded** every critic who had confidently predicted a tidy reconciliation.",
+    "He was supposed to lose in straight sets, and he **confounded** the lot of us."
+  ],
+  "in_the_wild": "Any paper you read has a **confounding variable** — the lurking third factor that pours cause and effect together so you can't tell which is which. Sense 3, doing daily work in statistics.",
+  "etymology": "Latin **con-** (*together*) + **fundere** (*to pour*) — literally *to pour together* until nothing can be told apart.\n\nThat root is a goldmine: **confuse** (the same word, worn smooth), **fuse**, **infuse**, **diffuse**, **profuse**, **effusive**, **transfusion**, **refund** (*pour back*).",
+  "one_line": "To baffle utterly — or to defeat what everyone expected.",
+  "root": "fundere, fusum (to pour)",
+  "root_family": [
+    "confuse",
+    "fuse",
+    "infuse",
+    "diffuse",
+    "profuse",
+    "effusive",
+    "transfusion",
+    "refund",
+    "suffuse"
+  ],
+  "confusables": [
+    "compound",
+    "confuse",
+    "dumbfound",
+    "confront"
+  ],
+  "sense_tags": [
+    "bewildering",
+    "thwarting",
+    "mixing-up",
+    "defeating-expectation"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    20
+  ]
+}

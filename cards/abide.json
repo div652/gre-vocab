@@ -1,0 +1,36 @@
+{
+  "word": "abide",
+  "pos": "v.",
+  "pron": "uh-BEYED",
+  "pron_note": null,
+  "means": "Three live senses, all descended from one idea — **to stay put**:\n1. **To tolerate / put up with** — *I can't abide his whining.*\n2. **abide by** — to stick to a rule, ruling, or promise.\n3. **To remain, endure, dwell** (archaic/biblical) — *a faith that abides.*\n\nSense 1 almost never appears un-negated. Nobody says \"I abide his whining\"; they say **can't abide**, and it lands harder and more personally than *can't stand* — it suggests a settled, temperamental refusal rather than a flash of irritation. Sense 3 carries a King-James solemnity: what abides is what outlasts. And *abide by* is the one form fully at home in a contract or a courtroom.",
+  "trap": null,
+  "trick_line": "You **abide** in an **abode** — so what you *can't* abide, you can't live with.",
+  "trick_unpack": "Same root, same idea of staying put: an abode is where you remain, and to abide something is to let it remain near you.",
+  "sentences": [
+    "The treaty held for a century, its terms **abided by** even during open hostilities.",
+    "She can't **abide** people who reply with 'per my last email'."
+  ],
+  "in_the_wild": "**\"The Dude abides.\"** — the closing line of *The Big Lebowski*, and a perfect gloss on sense 3: he doesn't win anything, he just endures.",
+  "etymology": "Old English **ābīdan** = *\"to wait, remain\"* — from **bīdan**, \"to bide,\" which still survives in **bide your time**. The same root gives **abode**: the place where you remain.\n\nThat's why the senses hang together — tolerating something is letting it stay, and abiding by a rule is standing by it.",
+  "one_line": "To tolerate, to stick to, or to remain and endure.",
+  "root": "bīdan (to wait, remain)",
+  "root_family": [
+    "bide",
+    "abode",
+    "biding"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "tolerate",
+    "endure",
+    "comply",
+    "dwell",
+    "remain"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    30
+  ]
+}

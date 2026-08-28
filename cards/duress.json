@@ -1,0 +1,44 @@
+{
+  "word": "duress",
+  "pos": "n.",
+  "pron": "duu-RES",
+  "pron_note": "Stress the second syllable — not DUR-ess. British speakers often add a y: dyuu-RES.",
+  "means": "Compulsion by threat, violence, or unlawful pressure — force applied to make someone act against their will.\n\nIt lives almost entirely in one phrase: **under duress**. And it carries a built-in excuse. Saying you acted under duress is saying the act wasn't really yours: your consent was manufactured, so it shouldn't count. That's why it's a legal term first — a contract or confession obtained under duress is voidable. *Pressure* is neutral and can be fair; *duress* means the choice was taken away. It also gets used with dry humour for trivial coercion (\"I watched the sequel under duress\"), and the joke works precisely because the word is so heavy.",
+  "trap": "⚠️ **duress ≠ distress.** *Duress* is pressure someone puts **on** you; *distress* is the suffering you feel. A hostage signs under duress and is in distress.",
+  "trick_line": "**Duress** is *dur*- as in **endure** and **obdurate** — someone gets *hard* with you until you say yes.",
+  "trick_unpack": "The hardness is coming from outside, which is why whatever you agreed to doesn't stick.",
+  "sentences": [
+    "The court set aside the confession, finding it had been extracted under **duress** after eleven hours without counsel.",
+    "\"I only agreed to the family photo under **duress** — Mum threatened to cancel Christmas.\""
+  ],
+  "in_the_wild": "Alarm panels and bank systems have a **duress code** — a second PIN you enter when someone is forcing you, which opens the door normally but silently calls the police. The word survives there in its purest sense: doing the thing, but not freely.",
+  "etymology": "Latin **dūrus** = *\"hard\"* → **dūrāre**, *\"to harden, to last.\"*\n\nOne root, a lot of GRE words: **durable** and **duration** (lasting), **endure** (stay hard under strain), **obdurate** (hardened against persuasion), **dour** (hard-faced), **during**. *Duress* is the hardness turned on a person until they give way.",
+  "one_line": "Threat or force that makes your consent meaningless.",
+  "root": "dūrus (hard), dūrāre (to harden, last)",
+  "root_family": [
+    "durable",
+    "duration",
+    "endure",
+    "obdurate",
+    "dour",
+    "during",
+    "indurate"
+  ],
+  "confusables": [
+    "distress",
+    "duress code",
+    "dourness"
+  ],
+  "sense_tags": [
+    "coercion",
+    "threat",
+    "compulsion",
+    "legal-defence",
+    "lack-of-consent"
+  ],
+  "register": "legal",
+  "connotation": "negative",
+  "groups": [
+    23
+  ]
+}

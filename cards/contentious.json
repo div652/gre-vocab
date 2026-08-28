@@ -1,0 +1,45 @@
+{
+  "word": "contentious",
+  "pos": "adj.",
+  "pron": "kun-TEN-shus",
+  "pron_note": null,
+  "means": "Two linked senses:\n**Of a thing:** likely to cause argument — disputed, fought over. *A contentious clause, a contentious border, a contentious appointment.*\n**Of a person:** eager to argue — quarrelsome, always ready to pick a fight.\n\n*Controversial* just reports that people disagree; **contentious** puts you in the room while they do it — it carries the friction, the raised voices, the fact that this thing *generates* fights rather than merely attracting them. Applied to a topic it's neutral-to-wary; applied to a person it's a straight criticism, and a slightly formal one — you'd write it in a performance review, not shout it across a table.",
+  "trap": "⚠️ **contentious ≠ contented.** *Contented* = quietly satisfied (Latin *continēre*, \"to hold in\"). *Contentious* = fighting (Latin *contendere*, \"to strain against\"). Opposite moods, unrelated roots — the shared \"content\" is a coincidence.",
+  "trick_line": "**con-TEN-tious = con + TENSION.** A contentious issue is one loaded with tension.",
+  "trick_unpack": "The sound hook is also the true root — *tension* and *contentious* both come from Latin *tendere*, \"to stretch tight.\"",
+  "sentences": [
+    "The land reform bill's most **contentious** provision — retroactive compensation — consumed three days of debate on its own.",
+    "Don't sit him next to my uncle; he gets **contentious** after two drinks and argues about everything."
+  ],
+  "in_the_wild": "Law firms split their entire practice this way: **contentious** work means litigation — suing, defending, disputes — while **non-contentious** work is contracts and deals where nobody is fighting. Same for \"contentious probate\": the will someone is challenging.",
+  "etymology": "Latin **contendere** = *\"to strain, to strive against\"* (*con-* \"with/against\" + *tendere* \"to stretch\").\n\n*Tendere* is a workhorse root: **tension, tendon, extend, intense, portend, tent** (stretched canvas) — and its *contendere* branch gives **contend, contention, contest**. A contentious person is permanently *straining against* someone.",
+  "one_line": "Likely to cause argument; or itching to start one.",
+  "root": "contendere (to strain against, strive), from tendere (to stretch)",
+  "root_family": [
+    "contend",
+    "contention",
+    "contest",
+    "tension",
+    "tendon",
+    "extend",
+    "intense",
+    "portend"
+  ],
+  "confusables": [
+    "contented",
+    "contentment",
+    "tendentious",
+    "contemptuous"
+  ],
+  "sense_tags": [
+    "argumentative",
+    "controversial",
+    "disputed",
+    "quarrelsome"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    17
+  ]
+}

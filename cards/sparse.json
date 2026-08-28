@@ -1,0 +1,40 @@
+{
+  "word": "sparse",
+  "pos": "adj.",
+  "pron": "SPAHRS",
+  "pron_note": null,
+  "means": "Thinly scattered over an area; few and far between — **sparse hair, a sparse crowd, sparse vegetation, sparse notes**.\n\nThe key idea is **distribution, not absence**. Sparse things *are* there; they're just spread thin, with gaps between them. That's why it pairs so naturally with space and surfaces (*sparsely populated*, *sparse coverage*) and why it's the neutral, almost measuring word — a scientist calls data sparse without complaining about it, whereas *meagre* or *paltry* would be a judgement.",
+  "trap": "⚠️ **sparse ≠ scarce.**\n- **sparse** = thinly *spread out* (a sparse audience — plenty of empty seats between people)\n- **scarce** = in short *supply* (tickets were scarce — hard to get any at all)\n\nWater can be scarce in a region; the villages there are sparse.",
+  "trick_line": "**SPARSE = SPARE + S** — what's there is spare, spaced out, with room to spare between.",
+  "trick_unpack": "Hearing *spare* inside it keeps you on the right idea: not gone, just stretched thin across the gaps.",
+  "sentences": [
+    "The plateau supports only **sparse** scrub, its shrubs standing metres apart on bare rock.",
+    "His notes for the meeting were pretty **sparse** — three bullet points and a question mark."
+  ],
+  "in_the_wild": "In tech it's everywhere: a **sparse matrix** is one that's mostly zeros, with the few real values scattered thinly through it — same word, same picture, just in numbers.",
+  "etymology": "Latin **spargere** = *\"to scatter, sprinkle.\"* Sparse things have been sprinkled, not poured.\n\nSame root: **disperse** (scatter apart), **intersperse** (scatter among), and **aspersion** — to *cast aspersions* is literally to sprinkle dirt on someone's name.",
+  "one_line": "Thinly scattered; few, with gaps between.",
+  "root": "spargere (to scatter, sprinkle)",
+  "root_family": [
+    "disperse",
+    "intersperse",
+    "aspersion",
+    "sparsity"
+  ],
+  "confusables": [
+    "scarce",
+    "spare",
+    "scant"
+  ],
+  "sense_tags": [
+    "scattered",
+    "thin",
+    "few",
+    "low-density"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    25
+  ]
+}

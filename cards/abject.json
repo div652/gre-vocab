@@ -1,0 +1,46 @@
+{
+  "word": "abject",
+  "pos": "adj.",
+  "pron": "AB-jekt",
+  "pron_note": null,
+  "means": "**1.** Sunk to the lowest possible state — utterly wretched, hopeless, degraded: *abject poverty, abject misery, abject failure.*\n**2.** Of a person's behaviour: **grovelling**, self-abasing, without a shred of dignity: *an abject apology, abject surrender.*\n\n*Abject* isn't just a strong \"very bad.\" It marks a **loss of dignity** — the thing or person has been brought so low that there's nothing left to salvage. *Extreme poverty* is a measurement; **abject** poverty is degrading. And when it describes behaviour it turns faintly contemptuous: an abject apology is one that crawls, and the speaker rather despises the crawling.",
+  "trap": null,
+  "trick_line": "**Abject** only ever marries misery — abject poverty, abject terror, abject failure, abject apology. There is no abject joy.",
+  "trick_unpack": "It's not a general intensifier you can bolt onto anything, but a word that says *this has hit the bottom and lost its dignity there*.",
+  "sentences": [
+    "The report described families living in **abject** squalor, without water, power, or any prospect of relief.",
+    "He sent an **abject** three-page apology, which somehow made everyone think less of him."
+  ],
+  "in_the_wild": "**\"Abject poverty\"** is near-fixed in news and charity-appeal language — the UN, Oxfam, and every foreign-desk report reach for it. If you've heard the word at all, that's the phrase it came in.",
+  "etymology": "Latin **ab-** (*away, down*) + **jacere** (*to throw*) → *abjectus*, \"thrown down.\" The abject person has been cast to the floor.\n\nThat root is a GRE goldmine: **eject** (throw out), **reject** (throw back), **project** (throw forward), **inject**, **dejected** (thrown down in spirit), **conjecture** (throw ideas together), **trajectory** (the path of a throw).",
+  "one_line": "Degraded to the lowest point; wretched or grovelling.",
+  "root": "jacere, jactus (to throw)",
+  "root_family": [
+    "eject",
+    "reject",
+    "project",
+    "inject",
+    "dejected",
+    "conjecture",
+    "trajectory",
+    "adjacent",
+    "interject"
+  ],
+  "confusables": [
+    "abjure",
+    "object",
+    "adjunct"
+  ],
+  "sense_tags": [
+    "wretched",
+    "degraded",
+    "hopeless",
+    "servile",
+    "grovelling"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    21
+  ]
+}

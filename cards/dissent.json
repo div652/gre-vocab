@@ -1,0 +1,45 @@
+{
+  "word": "dissent",
+  "pos": "v. / n.",
+  "pron": "di-SENT",
+  "pron_note": "Identical in sound to descent (a fall).",
+  "means": "**Verb:** to disagree openly with an official position, a majority, or an established doctrine.\n**Noun:** that disagreement — or the people voicing it.\n\nDissent needs something to push against: a ruling, a consensus, a church, a party line. You can *disagree* with a friend over dinner; you **dissent** from a verdict. It's reasoned and on the record — the dissenter states grounds, usually in the very forum that overruled them. Milder in action than *rebellion* (no one is storming anything) but weightier in tone than *objection*, because dissent implies conscience rather than mere preference.",
+  "trap": "⚠️ **dissent ≠ assent.** One letter, opposite meanings: **assent** = *agree, consent*; **dissent** = *refuse to*. \"The board assented\" and \"the board dissented\" describe opposite meetings.",
+  "trick_line": "**Dissent** starts with **diss** — but it's a *diss* filed in writing, with reasons attached.",
+  "trick_unpack": "The \"diss\" gets you the disagreement; \"with reasons attached\" gets you the formality that separates dissent from just griping.",
+  "sentences": [
+    "Two justices **dissented**, warning that the majority had quietly gutted a century of precedent.",
+    "Nobody **dissented** — everyone just nodded along and let the daft plan through."
+  ],
+  "in_the_wild": "Ruth Bader Ginsburg made the word a brand: her **dissenting opinions** and the black beaded \"dissent collar\" she wore to deliver them turned \"I dissent\" into T-shirt material.",
+  "etymology": "Latin **dis-** (*apart*) + **sentīre** (*to feel*) — literally *to feel apart from the rest*.\n\nThat root is a GRE goldmine: **consent** (feel *with*), **assent** (feel *toward*), **resent** (feel it *back*), plus **sentiment, sentient, consensus**.",
+  "one_line": "To disagree openly with an official or majority view.",
+  "root": "sentīre (to feel)",
+  "root_family": [
+    "consent",
+    "assent",
+    "resent",
+    "sentiment",
+    "sentient",
+    "consensus",
+    "sensible"
+  ],
+  "confusables": [
+    "descent",
+    "decent",
+    "assent",
+    "dissident",
+    "dissension"
+  ],
+  "sense_tags": [
+    "disagreement",
+    "objection",
+    "nonconformity",
+    "protest"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    19
+  ]
+}

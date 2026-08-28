@@ -1,0 +1,45 @@
+{
+  "word": "conviction",
+  "pos": "n.",
+  "pron": "kuhn-VIK-shuhn",
+  "pron_note": null,
+  "means": "**1.** A belief held so firmly it's part of who you are. **2.** A formal verdict of guilt in court — and the criminal record it leaves.\n\nA *conviction* outranks an *opinion* and outweighs a *belief*: it has moral stake in it, and abandoning it costs you something. You have opinions about films; you have convictions about right and wrong. Hence *the courage of one's convictions* — the assumption is that they may cost you.\n\nThere's a third, everyday use: conviction as **force of delivery**. \"He said it without conviction\" doesn't mean he was lying — it means nothing behind the words was pushing. On the GRE, the tell is context: a *deeply held* conviction is the belief; a *prior* conviction is the rap sheet.",
+  "trap": null,
+  "trick_line": "There's a **convict** hiding inside **conviction** — and a jury only convicts once it's *convinced*.",
+  "trick_unpack": "Both senses are the same event, one legal and one internal: the case has been argued, the verdict is in, and the matter is no longer open to debate.",
+  "sentences": [
+    "Her pacifism was not a pose but a **conviction**, held through two wars and the loss of most of her friends.",
+    "He apologised, but you could tell his heart wasn't in it — no **conviction** behind a word of it."
+  ],
+  "in_the_wild": "Yeats, *The Second Coming*: **\"The best lack all conviction, while the worst are full of passionate intensity.\"** Half the internet quotes it during elections, and it hangs entirely on the belief sense.",
+  "etymology": "Latin **convincere** = *con-* (thoroughly) + **vincere** (*to conquer*) — literally \"to defeat utterly,\" then \"to defeat in argument, prove guilty.\"\n\n**vincere** is a workhorse root: **victory, victor, invincible, evict, evince, vanquish, convince**. A conviction is a belief that beat all the others.",
+  "one_line": "A firmly held belief; also a court's verdict of guilt.",
+  "root": "vincere (to conquer)",
+  "root_family": [
+    "victory",
+    "victor",
+    "invincible",
+    "evict",
+    "evince",
+    "vanquish",
+    "convince",
+    "province"
+  ],
+  "confusables": [
+    "convection",
+    "convict",
+    "conception"
+  ],
+  "sense_tags": [
+    "belief",
+    "certainty",
+    "firmness",
+    "guilt-verdict",
+    "persuasion"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    29
+  ]
+}

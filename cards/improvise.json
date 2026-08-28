@@ -1,0 +1,41 @@
+{
+  "word": "improvise",
+  "pos": "v.",
+  "pron": "IM-pruh-vize",
+  "pron_note": "Stress jumps in the noun: improvisation = im-pruh-vih-ZAY-shun.",
+  "means": "To create, perform, or make do **on the spot** — without a script, a plan, or the proper materials.\n\nThe word runs on two tracks. In performance (jazz, comedy, a speech) it's a **skill**: the player invents in real time and we admire it. In practical life it means **making do with what's lying around** — a splint from a broom handle, dinner from three leftovers. Both share the same core: no preparation, so you build from what's at hand. Which is also why it can sting — say a candidate *improvised* an answer and you've implied he came in with nothing.",
+  "trap": null,
+  "trick_line": "**No provisions? Improvise.**",
+  "trick_unpack": "*Provisions* are supplies laid in ahead of time, so *im-provise* is what you do when nothing was laid in — you invent from whatever's there.",
+  "sentences": [
+    "Denied a rehearsal room, the quartet **improvised** the entire second movement, and the audience never knew.",
+    "The projector died, so I just **improvised** the rest of the presentation off the top of my head."
+  ],
+  "in_the_wild": "*Whose Line Is It Anyway?* — \"where everything's made up and the points don't matter.\" The whole genre is called **improv**, short for exactly this word.",
+  "etymology": "Latin **improvisus** = *\"unforeseen\"* — *in-* (not) + *provisus* (seen ahead), from **providere**, \"to see in advance.\"\n\nThat root pays off across the exam: **provide**, **provision**, **providence**, **improvident** (failing to plan for the future), and **prudent** (a worn-down form of *providens*). To improvise is to act where nobody saw it coming.",
+  "one_line": "To create or perform on the spot, without preparation.",
+  "root": "providere (to see ahead, provide for)",
+  "root_family": [
+    "provide",
+    "provision",
+    "providence",
+    "improvident",
+    "prudent",
+    "purvey"
+  ],
+  "confusables": [
+    "improvident"
+  ],
+  "sense_tags": [
+    "spontaneity",
+    "unprepared",
+    "resourcefulness",
+    "performance",
+    "ad-lib"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    16
+  ]
+}

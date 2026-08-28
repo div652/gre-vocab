@@ -1,0 +1,45 @@
+{
+  "word": "apprehension",
+  "pos": "n.",
+  "pron": "ap-ruh-HEN-shuhn",
+  "pron_note": null,
+  "means": "**1. (usual sense)** uneasy anticipation — dread about something that hasn't happened yet.\n**2. (legal/police)** the **arrest** or seizure of someone.\n**3. (formal, older)** **understanding**; a mental grasp of something (\"beyond human apprehension\").\n\nSense 1 is forward-facing and restrained. *Fear* is here and now; *terror* is overwhelming; *anxiety* is often free-floating and clinical. **Apprehension** attaches to a specific coming event — the scan results, the audit, the flight — and stays civil enough for a board meeting. Someone who is apprehensive still shows up; they just show up with a knot in the stomach.\n\nOn the GRE, senses 2 and 3 are the ones being tested. If \"apprehension\" appears in a passage and dread makes no sense, try *arrest* or *comprehension*.",
+  "trap": null,
+  "trick_line": "Ap-**PRE**-hension — the fear turns up **pre**-, before the thing does.",
+  "trick_unpack": "The stressed middle syllable marks it as anticipatory dread, not fear of what's already in the room.",
+  "sentences": [
+    "The delegates awaited the verdict with visible **apprehension**, conversation dwindling to nothing as the clock passed midnight.",
+    "I had this weird **apprehension** about the flight all week, and then it was the smoothest one I've ever taken."
+  ],
+  "in_the_wild": "Every police report and crime drama: *\"the suspect was apprehended near the border.\"* That's sense 2 — the seizing — sitting in plain sight in language you hear constantly.",
+  "etymology": "Latin **prehendere** = *\"to seize, to grasp\"*, with **ad-** (*toward*). All three senses are one act of grabbing: you grab a criminal, you grab an idea, and a coming misfortune grabs you.\n\nThe root pays out widely: **comprehend** (grasp fully), **prehensile** (a tail that grips), **reprehensible** (fit to be seized *back* — i.e. blamed), **apprentice** (one who lays hold of a trade), **prison** and **surprise** (over-taken).",
+  "one_line": "Uneasy dread of what's coming; also an arrest, or understanding.",
+  "root": "prehendere (to seize, grasp)",
+  "root_family": [
+    "comprehend",
+    "prehensile",
+    "reprehensible",
+    "apprentice",
+    "prison",
+    "surprise",
+    "apprehend"
+  ],
+  "confusables": [
+    "comprehension",
+    "apprehensive",
+    "reprehensible",
+    "apprehend"
+  ],
+  "sense_tags": [
+    "dread",
+    "anticipation",
+    "anxiety",
+    "arrest",
+    "understanding"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    26
+  ]
+}

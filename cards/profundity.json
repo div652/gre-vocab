@@ -3,36 +3,35 @@
   "pos": "n.",
   "pron": "pruh-FUN-di-tee",
   "pron_note": null,
-  "means": "Great **depth** — of thought, insight, or feeling; a remark or work that reaches far below the obvious. Also, in the plural, the deep sayings themselves (\"he offered a few profundities and left\").\n\nTwo things to watch. First, it is a **grand, slightly weighty** word: you praise a philosopher's profundity, not a friend's good advice. Second, it turns ironic easily — the moment someone strains for it, *profundity* becomes the charge rather than the compliment (\"the mock profundity of a fortune cookie\"). And English lets it measure depth in the wrong direction too: *the profundity of his ignorance* means there was an awful lot of it.",
-  "trap": "⚠️ **profundity ≠ profusion.** *Profundity* is **depth** (Latin *fundus*, bottom); *profusion* is **abundance**, things poured out in quantity (Latin *fundere*, to pour). A thinker of profundity says one deep thing; a garden in profusion has a thousand flowers.",
-  "trick_line": "**Pro-FUND-ity has a FUND in it** — something banked deep down, not loose change on the surface.",
-  "trick_unpack": "Real profundity has reserves under it; the fake kind is a shiny coin held up to the light.",
+  "means": "**Great depth** — of thought, insight, or feeling. Also, countably, *a profundity* = a remark of that depth (\"he offered a few profundities and left\").\n\nDepth, not difficulty. A dense paragraph can be merely obscure; profundity means the thought actually reaches something at the bottom. That's why the word is so often used with a raised eyebrow — *pseudo-profundity*, *mistaking obscurity for profundity*, *drunken profundities at 2am*. Straight, it is high praise and slightly grand; in the plural, it usually means someone thinks they're being deep.",
+  "trap": null,
+  "trick_line": "**Pro-FOUND-ity: it has *found* the bottom. A platitude never left the surface.**",
+  "trick_unpack": "The \"found\" you hear in the middle is really Latin *fundus*, \"bottom\" — profundity is thought that got all the way down there.",
   "sentences": [
-    "The essay is admired less for its style than for the **profundity** of its argument about grief.",
-    "He says it slowly so it sounds like **profundity**, but it's just a horoscope."
+    "Critics praised the novel's **profundity**, though a few suspected the author of dressing simple ideas in difficult sentences.",
+    "Three beers in, he started dispensing **profundities** about the meaning of work."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **profundus** = *pro-* (\"forth\") + **fundus** (\"bottom\") — literally *reaching the bottom*.\n\nThat *fundus* gives you a usable family: **fundamental** (at the bottom of everything), **foundation**, **fund** (a bottom store of money), and **founder** — a ship that founders goes to the bottom.",
-  "one_line": "Depth of thought, insight, or feeling.",
+  "etymology": "Latin **profundus** = *pro-* (\"forth, toward\") + **fundus** (\"bottom\") — literally *going toward the bottom*, first of water, then of thought.\n\n*Fundus* is a workhorse root: **fund** (the bottom store of money), **foundation**, **fundamental**, and **founder** (a ship that goes to the bottom — not the same word as *flounder*).",
+  "one_line": "Great depth of thought, insight, or feeling.",
   "root": "fundus (bottom)",
   "root_family": [
+    "profound",
     "fundamental",
     "foundation",
     "fund",
-    "founder (to sink)",
-    "profound"
+    "founder (to sink)"
   ],
   "confusables": [
+    "profanity",
     "profusion",
-    "profuse",
-    "profanity"
+    "profligacy"
   ],
   "sense_tags": [
     "depth",
     "insight",
     "wisdom",
-    "seriousness",
-    "intellect"
+    "intellectual-weight"
   ],
   "register": "formal",
   "connotation": "depends",

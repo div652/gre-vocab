@@ -3,18 +3,18 @@
   "pos": "adj.",
   "pron": "roo-duh-MEN-tuh-ree",
   "pron_note": null,
-  "means": "Basic and undeveloped — limited to the first, crudest stage of something. Also, in biology, an organ or limb that never developed properly (*rudimentary wings*).\n\nWatch the sting in it. **Fundamental** praises: it means essential, load-bearing, the thing everything rests on. **Rudimentary** faintly damns: it means *that's all there is so far*, and it isn't much. A rudimentary grasp of Mandarin gets you a taxi ride, not a conversation; a rudimentary shelter keeps some of the rain off. The word concedes that a thing exists while denying it is any good.",
+  "means": "Basic and undeveloped — limited to the first rough beginnings of a thing. In biology, of an organ: only partly formed, never grown into full function (a whale's hind limbs).\n\nNote what it does *not* say: not wrong, not broken — just barely begun. **Basic** is flat description; **rudimentary** is a measurement against what should have been there, so it usually lands as a quiet downgrade. \"Rudimentary French\" means you can order coffee and nothing more; \"rudimentary sanitation\" means a hole in the ground. Applied to a person's skill it is polite and damning at once.",
   "trap": null,
-  "trick_line": "**Rudi**mentary hides **rude** — in its old sense: rough, unfinished, knocked together.",
-  "trick_unpack": "A \"rude hut\" wasn't impolite, it was crude — and that roughness is exactly what *rudimentary* still carries.",
+  "trick_line": "**RUDE** is hiding at the front — and *rude* first meant **rough, unfinished**, not impolite.",
+  "trick_unpack": "Rudimentary things are rough-hewn and stopped early, not offensive.",
   "sentences": [
-    "Excavation revealed a **rudimentary** drainage system: two stone channels and a sloped floor, nothing more.",
-    "My cooking skills are pretty **rudimentary** — I can do eggs and I can do toast."
+    "The excavation revealed a **rudimentary** drainage system: two stone channels and no more.",
+    "He's got a **rudimentary** grasp of the spreadsheet — he can open it and that's about it."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **rudis** = *\"rough, raw, unworked\"* (of stone or timber), giving **rudimentum**, *\"a first attempt, a beginning.\"*\n\nSame root as **rude** (originally *unpolished*, only later *ill-mannered*) — and, best of all, **erudite**: *e-* \"out of\" + *rudis*, someone who has been **polished out of the rough**. Rudimentary and erudite are opposite ends of one root.",
-  "one_line": "Basic and undeveloped — the crude first stage, nothing more.",
-  "root": "rudis (rough, unworked)",
+  "in_the_wild": "Standard in software release notes: \"**rudimentary** support for dark mode\" is the polite way of saying it technically exists and you won't enjoy it.",
+  "etymology": "Latin **rudis** = *\"raw, rough, unworked\"* — of stone before the chisel. A **rudiment** is the first rough stage of anything.\n\nSame root, two GRE payoffs: **rude** (originally *unpolished*, only later *ill-mannered*) and **erudite** — *e-* \"out of\" + *rudis*, literally **worked out of the rough**, i.e. polished by learning. Erudite is the exact opposite end of the same block of stone.",
+  "one_line": "Basic, undeveloped — only the roughest first stage.",
+  "root": "rudis (raw, rough, unworked)",
   "root_family": [
     "rude",
     "erudite",
@@ -22,19 +22,19 @@
     "erudition"
   ],
   "confusables": [
-    "rudimental",
     "elementary",
-    "fundamental"
+    "rudimental",
+    "ruminative"
   ],
   "sense_tags": [
     "basic",
     "undeveloped",
-    "crude",
+    "primitive",
     "incomplete",
-    "elementary"
+    "vestigial"
   ],
-  "register": "neutral",
-  "connotation": "negative",
+  "register": "formal",
+  "connotation": "depends",
   "groups": [
     10
   ]

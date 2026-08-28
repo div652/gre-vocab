@@ -1,0 +1,41 @@
+{
+  "word": "rigor",
+  "pos": "n.",
+  "pron": "RIG-er",
+  "pron_note": "British spelling: rigour. Hard g, as in \"big\" — never \"RIJ-er.\"",
+  "means": "**1.** Strict, unbending exactness — especially of method, proof, or reasoning. **2.** Severity; harsh enforcement. **3.** (usually plural, *rigors*) punishing conditions: *the rigors of the Arctic winter*.\n\nOne word, two opposite emotional charges, decided entirely by what is being rigorous. Applied to a **method**, it's the highest compliment in academic English — *methodological rigor* means nothing was hand-waved. Applied to a **person or a regime**, it's cold and unforgiving. Applied to **circumstances**, it's plain suffering. Note the register: this is a word for journals, courts, and training manuals, not for casual complaint.",
+  "trap": "**rigor ≠ vigor.** One letter apart, opposite feel: **rigor** is stiffness and strictness, **vigor** is energy and vitality. A rigorous argument is airtight; a vigorous argument is energetic — and possibly sloppy.",
+  "trick_line": "**Rigor** is **rigid** — rigid *method* earns praise, rigid *conditions* inflict pain.",
+  "trick_unpack": "Same stiffness either way, and which sense you're in depends only on whether the stiffness is in an argument or in the weather.",
+  "sentences": [
+    "The referees rejected the paper not for its conclusions but for its lack of statistical **rigor**.",
+    "Two weeks into boot camp the **rigor** of it had him asleep by nine every night."
+  ],
+  "in_the_wild": "**Rigor mortis** — the stiffening of a body after death, the phrase every crime drama uses to time a murder. Same word, literal sense: *stiffness*.",
+  "etymology": "Latin **rigor** = *\"stiffness, numbness,\"* from **rigēre**, *\"to be stiff.\"* Everything follows from stiffness: **rigid** (won't bend), **rigid**ity, **rigorous** (won't bend the standards), **rigor mortis** (won't bend at all).",
+  "one_line": "Strict exactness of method; severity; harsh conditions.",
+  "root": "rigēre (to be stiff)",
+  "root_family": [
+    "rigid",
+    "rigidity",
+    "rigorous",
+    "rigor mortis"
+  ],
+  "confusables": [
+    "vigor",
+    "rigid",
+    "rigmarole"
+  ],
+  "sense_tags": [
+    "strictness",
+    "exactness",
+    "severity",
+    "hardship",
+    "inflexibility"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    25
+  ]
+}

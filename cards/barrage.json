@@ -1,0 +1,41 @@
+{
+  "word": "barrage",
+  "pos": "n. / v.",
+  "pron": "buh-RAHZH",
+  "pron_note": "Brits stress the first syllable: BA-rahzh. The ending is *zh* as in vision — it rhymes with mirage, not with porridge.",
+  "means": "**Noun:** a heavy, continuous outpouring aimed at a target — originally artillery fire, now equally questions, criticism, texts, complaints.\n**Verb:** to hit someone with exactly that.\n\nVolume alone isn't a barrage; the word carries *direction and sustained pressure*. A **torrent** is shapeless, a **volley** is one burst — a barrage is aimed, relentless, and leaves the receiver pinned down with no chance to answer. That's why it pairs so naturally with *criticism*, *questions*, *abuse*: things fired at a person who can't fire back.",
+  "trap": null,
+  "trick_line": "**BAR**rage — a **bar** of fire laid across your path: you can't get through, and you can't get a word in.",
+  "trick_unpack": "The hidden *bar* is the literal root, and it captures the nuance — a barrage doesn't just arrive, it *blocks* you.",
+  "sentences": [
+    "Behind a creeping **barrage** of shellfire, the infantry moved up to the ridge.",
+    "He'd been home ten seconds before his mum **barraged** him with questions about the car."
+  ],
+  "in_the_wild": "Newsroom boilerplate: a minister always *\"faced a barrage of criticism\"* — never a trickle, never a helping. If you can hear that headline phrase, you've got the word.",
+  "etymology": "French **barre** = *\"bar\"* → **barrer**, *\"to block off.\"* A *barrage* in French is a **dam** — a barrier across a river (Britain still uses it that way: the Cardiff Bay Barrage). In WWI, *tir de barrage* meant **\"barrier fire\"**: a curtain of shells dropped to seal off a stretch of ground. The military sense walked into English from there, then spread to words.\n\nSame **barr-** family: **bar, barrier, barricade, debar, embargo**.",
+  "one_line": "A sustained, overwhelming bombardment — of shells, or of words.",
+  "root": "barra (bar, barrier) → French barrer (to block)",
+  "root_family": [
+    "bar",
+    "barrier",
+    "barricade",
+    "debar",
+    "embargo"
+  ],
+  "confusables": [
+    "mirage",
+    "barricade"
+  ],
+  "sense_tags": [
+    "bombardment",
+    "overwhelming",
+    "sustained-attack",
+    "criticism",
+    "artillery"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    21
+  ]
+}

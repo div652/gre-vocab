@@ -1,0 +1,47 @@
+{
+  "word": "benevolent",
+  "pos": "adj.",
+  "pron": "buh-NEV-uh-luhnt",
+  "pron_note": null,
+  "means": "Well-meaning and kindly; disposed to do good, and usually in a position to.\n\nThe word points at **disposition, not action** — a benevolent person wishes you well; whether they write the cheque is another matter. It carries a faint air of altitude: the benevolent party is the one with the power, the money, or the age. That's why it sits so naturally in *benevolent fund*, *benevolent society*, *benevolent dictator* — and why, applied to a boss or an empire, it can turn quietly sardonic. *Kind* is warm and equal; **benevolent** is gracious and slightly above you.",
+  "trap": "⚠️ **benevolent ≠ beneficent.**\n- **benevolent** = *wishes* good (the intention)\n- **beneficent** = *does* good (the deed)\n\nA benevolent millionaire means well; a beneficent one has funded the hospital.",
+  "trick_line": "**Bene-VOLENT wills you well; MAL-evolent wills you ill.**",
+  "trick_unpack": "The shared `-volent` is *wishing*, so both words are about what someone intends toward you, and only the prefix decides which way.",
+  "sentences": [
+    "The foundation's **benevolent** intentions were never in doubt; its accounting was another matter entirely.",
+    "My landlord's in a **benevolent** mood this week — he actually fixed the boiler."
+  ],
+  "in_the_wild": "In software, the person who founded a project and still has final say is the **BDFL — Benevolent Dictator For Life**, the title Python's community gave Guido van Rossum. Total control, exercised kindly: the word doing exactly the work it always does.",
+  "etymology": "Latin **bene** (*well*) + **volens**, from **velle** (*to wish, to will*).\n\n**bene-** pays out everywhere: *benefit, benefactor, benediction* (well-speaking), *benign, benevolent*. And **velle** gives you *volition, voluntary, volunteer* — all about the will.\n\nFlip the prefix to *mal-* (*badly*) and you get the exact mirror: **malevolent**, *malediction*, *malign*, *malefactor*.",
+  "one_line": "Kindly disposed; wishing others well, usually from above.",
+  "root": "bene (well) + velle/volens (to wish, to will)",
+  "root_family": [
+    "benefit",
+    "benefactor",
+    "benediction",
+    "benign",
+    "malevolent",
+    "malediction",
+    "volition",
+    "voluntary",
+    "volunteer"
+  ],
+  "confusables": [
+    "beneficent",
+    "benign",
+    "malevolent",
+    "benevolence"
+  ],
+  "sense_tags": [
+    "kindly",
+    "generous",
+    "well-meaning",
+    "charitable",
+    "goodwill"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    24
+  ]
+}

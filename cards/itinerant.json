@@ -1,0 +1,44 @@
+{
+  "word": "itinerant",
+  "pos": "adj. / n.",
+  "pron": "eye-TIN-uh-ruhnt",
+  "pron_note": "Also ih-TIN-uh-ruhnt; the stress never moves to the front.",
+  "means": "**Adj.:** travelling from place to place, especially to do a job. **Noun:** a person who does so.\n\nThe word is bound to **work and a route**. An itinerant preacher, judge, labourer or salesman moves because the job moves — there's a circuit, a season, a next town. That distinguishes it from *nomadic* (a whole way of life, often a culture) and from *vagrant* (no work, no home, and an insult). *Itinerant* is descriptive and faintly formal — an administrator's word — though it can carry a whiff of low status, since the people it describes usually don't own the place they're working in.",
+  "trap": null,
+  "trick_line": "**Itinerant** is just **itinerary** with the end knocked off — someone whose life *is* the itinerary.",
+  "trick_unpack": "The overlap fixes both the spelling and the key nuance: not aimless drifting, but moving along a route, for work.",
+  "sentences": [
+    "For thirty years he was an **itinerant** judge, holding court in one county town after another as the assizes required.",
+    "She's basically an **itinerant** hairdresser now — three salons, three cities, one very tired car."
+  ],
+  "in_the_wild": "American school districts advertise **itinerant teachers** and **itinerant speech therapists** — staff who serve four or five schools instead of one. If you ever see the word on a job posting, that's what it means.",
+  "etymology": "Latin **iter, itineris** = *\"a journey, a route\"* — itself from **ire**, *\"to go.\"*\n\nThat's a productive root: **itinerary** (the route written down), and from *ire* more broadly **transit, exit, circuit, initial, ambition** (originally *going around* canvassing for votes).",
+  "one_line": "Travelling from place to place, usually for work.",
+  "root": "iter, itineris (journey, route), from ire (to go)",
+  "root_family": [
+    "itinerary",
+    "transit",
+    "exit",
+    "circuit",
+    "initial",
+    "ambition",
+    "transient"
+  ],
+  "confusables": [
+    "itinerary",
+    "errant",
+    "inveterate"
+  ],
+  "sense_tags": [
+    "travelling",
+    "wandering",
+    "roving",
+    "temporary work",
+    "nomadic"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    21
+  ]
+}

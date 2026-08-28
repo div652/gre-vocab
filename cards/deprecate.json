@@ -1,0 +1,40 @@
+{
+  "word": "deprecate",
+  "pos": "v.",
+  "pron": "DEP-ruh-kayt",
+  "pron_note": "Stress on the first syllable — not \"de-PRECK-ate\".",
+  "means": "To **express disapproval of** something — to say, in measured terms, that it is undesirable or ill-advised. In tech, the specialised sense: to **mark as obsolete**, still working but officially discouraged and headed for removal.\n\nThe disapproval is cool, not hot. You *denounce* a scandal, you *condemn* a crime — you **deprecate** a tendency, a habit, a fashion. It's the disapproval of a committee or a leading article: dry, authoritative, no raised voice. That mildness is why *self-deprecating* means playing yourself down with a joke rather than actually attacking yourself.",
+  "trap": "⚠️ **deprecate ≠ depreciate.**\n- **deprecate** = disapprove of, discourage\n- **depreciate** = *fall in value* (a car depreciates the moment you drive it off the lot)\n\nNote the extra **i** — and that *self-deprecating* is the standard form.",
+  "trick_line": "Depre**ci**ate drops the **price**; depre**c**ate drops the **praise**.",
+  "trick_unpack": "One is about worth on a balance sheet, the other about approval withheld — politely.",
+  "sentences": [
+    "The editorial **deprecated** the government's habit of legislating by press release, though it stopped short of calling for resignations.",
+    "Careful — that function's been **deprecated** since version 3; it still runs, but it'll vanish next release."
+  ],
+  "in_the_wild": "Every programmer meets this word as a yellow warning: **`DeprecationWarning`** — your code works today, but the maintainers officially disapprove and are removing it.",
+  "etymology": "Latin **de-** (\"away\") + **precari** (\"to pray\") — to *pray something away*, to avert it by entreaty. It started as a plea, not an attack, which is exactly why the modern word still disapproves so quietly.\n\nSame root: **imprecation** (a curse — praying *at* someone), **precarious** (held only by someone else's goodwill, so liable to collapse), and plain **pray**.",
+  "one_line": "To disapprove of mildly; to mark as obsolete.",
+  "root": "precari (to pray, entreat)",
+  "root_family": [
+    "imprecation",
+    "precarious",
+    "pray",
+    "prayer"
+  ],
+  "confusables": [
+    "depreciate",
+    "denigrate",
+    "derogate"
+  ],
+  "sense_tags": [
+    "disapproval",
+    "criticism",
+    "obsolescence",
+    "understatement"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    28
+  ]
+}

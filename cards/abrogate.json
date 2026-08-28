@@ -1,0 +1,45 @@
+{
+  "word": "abrogate",
+  "pos": "v.",
+  "pron": "AB-ruh-gayt",
+  "pron_note": "Noun form: abrogation — ab-ruh-GAY-shuhn.",
+  "means": "To **formally abolish or repeal** something that was officially in force — a law, a treaty, a constitutional provision, a right.\n\nThis is cancellation **from above, on the record**. You can't abrogate a habit or a friendship; the object has to be something that was enacted, and the subject has to be a body with the authority to unenact it — a parliament, a court, a state. Where *revoke* is everyday and *annul* says \"it was never valid,\" *abrogate* says \"it was valid, and we have struck it off.\" The word carries the weight of the instrument being destroyed, which is why it so often shows up when someone is angry about it.",
+  "trap": "⚠️ **abrogate ≠ arrogate.**\n- **abrogate** = *ab-* away → you **cancel** a law\n- **arrogate** = *ad-* toward → you **grab** a power that isn't yours (*he arrogated to himself the right to decide*)\n\nOne letter, opposite direction of travel.",
+  "trick_line": "**AB**rogate = **AB**olish. Same two letters, same act, and both need someone in power to do it.",
+  "trick_unpack": "If the sentence's subject couldn't plausibly abolish the thing by decree, the word is wrong.",
+  "sentences": [
+    "The incoming government moved to **abrogate** the trade treaty its predecessor had signed only eighteen months earlier.",
+    "You can't just **abrogate** the tenancy agreement because you found a better tenant."
+  ],
+  "in_the_wild": "India's **abrogation of Article 370** in August 2019 — the word was in every headline, every debate, for months. Note what it attached to: a constitutional provision, struck off by the state. Textbook usage.",
+  "etymology": "Latin **ab-** (*away*) + **rogāre** (*to ask, to propose a law*). In Rome, to propose a bill was *rogāre lēgem*; to repeal it was *abrogāre* — to ask it away.\n\n*Rogāre* is a workhorse root: **interrogate** (question between), **derogatory** (asking down, belittling), **prerogative** (asked first — the privilege claimed ahead of others), **surrogate**, **arrogate**.",
+  "one_line": "To repeal or abolish formally, by official authority.",
+  "root": "rogāre (to ask, to propose a law)",
+  "root_family": [
+    "interrogate",
+    "derogatory",
+    "prerogative",
+    "surrogate",
+    "arrogate",
+    "rogation"
+  ],
+  "confusables": [
+    "arrogate",
+    "abnegate",
+    "abdicate",
+    "derogate",
+    "aggregate"
+  ],
+  "sense_tags": [
+    "repeal",
+    "abolish",
+    "annul",
+    "law",
+    "authority"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    31
+  ]
+}

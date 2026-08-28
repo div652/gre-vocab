@@ -2,44 +2,46 @@
   "word": "predilection",
   "pos": "n.",
   "pron": "pred-uh-LEK-shuhn",
-  "pron_note": "Also heard as PREE-duh-LEK-shuhn; the stress stays on LEK either way.",
-  "means": "A **settled preference** — an established liking or bias in favour of one thing over the alternatives.\n\nThe key is *pre-*: a predilection was already in place before the choice came up. A whim is momentary, a craving is urgent, but a predilection is a standing habit of taste — the reason you reach for the same kind of novel, the same table, the same hire, every time. Register is formal and faintly literary; you'd write it in a profile or a review, not shout it. Tone flexes with the object: a predilection for Bach is charming, a predilection for other people's money is an indictment. It also does quiet work as a euphemism — critics use it to call something a **bias** while sounding polite about it.",
-  "trap": "**predilection ≠ predisposition.** A *predilection* is a taste — you like the thing. A *predisposition* is a liability — you're prone to the thing, usually a disease or a temper, and no pleasure is implied.",
-  "trick_line": "**Predilection hides *election* — the votes were cast before the campaign started.**",
-  "trick_unpack": "Your favourite is already elected, which is why a predilection is a long-standing leaning rather than a spur-of-the-moment want.",
+  "pron_note": "Also pree-duh-LEK-shuhn; both are standard.",
+  "means": "A **standing preference** — a liking for one kind of thing that you bring with you, already formed, before the particular choice comes up.\n\nWeight matters: a predilection is **mild and habitual**, not a passion. You don't have a predilection for your spouse; you have one for corner tables, Belgian beer, or nineteenth-century novels. It's the most **formal** member of its family, and it often arrives with a raised eyebrow — writers use it for tastes that are slightly telling (\"*a predilection for lost causes*\", \"*a predilection for younger men*\"), so it can quietly editorialise while sounding perfectly polite. Being *pre*-formed is the point: it colours your judgement before the evidence is in.",
+  "trap": null,
+  "trick_line": "**Pre-di-LECT-ion** — you **elected** it before the vote was held.",
+  "trick_unpack": "The *-lect-* is the same \"choose\" as in *elect* and *select*, and the *pre-* tells you the choosing was already done — the leaning exists before the options are on the table.",
   "sentences": [
-    "The judge's **predilection** for lengthy sentences in fraud cases was well known to every barrister in the building.",
-    "He's got this weird **predilection** for pineapple on pizza and I've stopped arguing about it."
+    "The judge's **predilection** for precedent over principle was well known to everyone who argued before her.",
+    "He'll order the spiciest thing on any menu — a lifelong **predilection** for punishing his own tongue."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **prae-** (*before*) + **diligere** (*to love, to single out*) — and *diligere* is built on **legere**, *\"to pick, to choose, to read.\"*\n\nThat root pays off across the exam: **elect**, **select**, **eligible**, **intelligent** (choosing between things), **diligent** (loving care), **legible**, **lecture**. A predilection is literally something you picked out in advance.",
-  "one_line": "A settled, long-standing preference for one thing over others.",
-  "root": "legere (to pick, choose) via diligere (to love, single out)",
+  "in_the_wild": "Doctors use it flatly, with no glamour at all: a disease \"has a **predilection** for\" a certain site — melanoma for the back, TB for the lungs. It just means *that's where it tends to turn up* — which is exactly the everyday sense, stripped of taste.",
+  "etymology": "Latin **prae-** (\"before\") + **dīligere** (\"to choose out, to prize\"), itself *dis-* + **legere**, \"to pick, to gather, to read.\"\n\nThat *legere* is a workhorse: **select**, **elect**, **eligible**, **collect**, **lecture**, **legible**. And *dīligere* — \"to pick out lovingly\" — is where **diligent** comes from; a diligent worker was originally a *caring* one.",
+  "one_line": "A long-standing, mild preference for one kind of thing.",
+  "root": "legere, lectum (to choose, pick, read) via dīligere (to esteem, choose out)",
   "root_family": [
     "elect",
     "select",
     "eligible",
-    "intelligent",
-    "diligent",
-    "legible",
+    "collect",
     "lecture",
-    "collect"
+    "legible",
+    "diligent",
+    "intellect",
+    "neglect"
   ],
   "confusables": [
+    "penchant",
+    "proclivity",
+    "propensity",
     "predisposition",
-    "prediction",
-    "predication",
-    "dereliction"
+    "predication"
   ],
   "sense_tags": [
     "preference",
-    "liking",
-    "bias",
+    "taste",
+    "inclination",
     "tendency",
-    "taste"
+    "bias"
   ],
   "register": "formal",
-  "connotation": "depends",
+  "connotation": "neutral",
   "groups": [
     11
   ]

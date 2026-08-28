@@ -1,0 +1,46 @@
+{
+  "word": "veracity",
+  "pos": "n.",
+  "pron": "vuh-RASS-uh-tee",
+  "pron_note": "First syllable is a mumbled \"vuh\" — voracity opens with a clear \"vor\".",
+  "means": "**Truthfulness** — either the habit of a person who doesn't lie, or the accuracy of a particular statement, document, or account.\n\nTwo things mark it out. It's **formal, almost forensic** — journalists, lawyers and historians use it; you'd never say a friend's excuse lacked veracity out loud. And it lives overwhelmingly in the **negative or interrogative**: *questioned the veracity, disputed the veracity, doubts about its veracity*. Compare **honesty**, which is warm and personal, and **accuracy**, which is cold and about facts alone — *veracity* sits between them, covering both the truth of the claim and the reliability of the one making it.",
+  "trap": "⚠️ **veracity ≠ voracity.**\n- **veracity** = truthfulness (*verus*, true)\n- **voracity** = ravenous appetite, greed (*vorare*, to devour)\n\nA witness has veracity; a wolf has voracity. Same for **veracious** vs **voracious**.",
+  "trick_line": "Nobody ever *praises* someone's veracity — they **question** it.",
+  "trick_unpack": "The word almost always arrives attached to doubt, so if you can hear \"questioned the ___ of his account,\" the blank is veracity.",
+  "sentences": [
+    "The committee spent three days probing the **veracity** of the minister's expense claims.",
+    "Look, I'm not doubting your **veracity** — I just think you misremembered the date."
+  ],
+  "in_the_wild": "**Veritaserum**, the truth potion in *Harry Potter* — *veritas* (truth) + *serum*. Three drops and you cannot lie: veracity in liquid form.",
+  "etymology": "Latin **vērus** = *\"true\"* → **vēritās**, truth. It pays out across the whole exam: **verify** (make true), **verdict** (*vere dictum*, truly said), **veritable** (genuinely so), **aver** (assert as true), **verisimilitude** (the *look* of truth), and plain **very** — which once meant \"truly,\" as in *the very man I wanted*.\n\n🚫 **Not *vorare*, \"to devour\"** — that's *voracious, devour, carnivore, omnivore*.",
+  "one_line": "Truthfulness; the accuracy of a claim or a person.",
+  "root": "vērus (true), vēritās (truth)",
+  "root_family": [
+    "verify",
+    "verdict",
+    "veritable",
+    "verily",
+    "aver",
+    "verisimilitude",
+    "very"
+  ],
+  "confusables": [
+    "voracity",
+    "veracious",
+    "voracious",
+    "vivacity",
+    "velocity"
+  ],
+  "sense_tags": [
+    "truthfulness",
+    "accuracy",
+    "honesty",
+    "reliability",
+    "credibility"
+  ],
+  "register": "formal",
+  "connotation": "positive",
+  "groups": [
+    15
+  ]
+}

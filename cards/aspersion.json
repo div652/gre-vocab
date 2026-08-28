@@ -1,0 +1,40 @@
+{
+  "word": "aspersion",
+  "pos": "n.",
+  "pron": "uh-SPER-zhuhn",
+  "pron_note": "Also heard as uh-SPER-shuhn; both are standard.",
+  "means": "A **damaging insinuation** — a remark meant to sully someone's reputation or integrity.\n\nIt almost never travels alone or in the singular: you **cast aspersions on** someone. And the word is usually deployed *defensively*, by the person denying it — \"I cast no aspersions on my colleague's honesty\" — which is precisely how the doubt gets planted. An accusation is out in the open and can be answered; an aspersion is a smear, sprinkled sideways, too vague to rebut. Formal, faintly legal, and always hostile.",
+  "trap": "⚠️ **aspersion ≠ asperity.**\n- **aspersion** = a **slur** on someone's character\n- **asperity** = **harshness** of tone or manner\n\nHe answered with *asperity*; he answered by casting *aspersions*. Unrelated roots, one letter apart at a glance.",
+  "trick_line": "**a-sper-*shun*** — sprinkle enough dirt and people start to **shun** him.",
+  "trick_unpack": "The buried \"shun\" carries the point: no single remark accuses him of anything, but the accumulated sprinkling is what makes people back away.",
+  "sentences": [
+    "The defence objected that counsel was casting **aspersions** on a witness who had not yet been heard.",
+    "Look, I'm not casting **aspersions** on your cooking — I just noticed the smoke alarm going off."
+  ],
+  "in_the_wild": "Live in courtroom and parliamentary speech, where \"I cast no aspersions on the honourable member\" is the standard way to insult someone while technically staying polite.",
+  "etymology": "Latin **aspergere** = *\"to sprinkle on\"* (*ad-* \"on\" + *spargere* \"to scatter\"). The original English sense was literal — the priest's **aspersion** of holy water. The mud-slinging sense is the same gesture with worse contents.\n\n*spargere* also gives you **sparse** (thinly scattered), **disperse**, and **intersperse**.",
+  "one_line": "A damaging insinuation about someone's character or integrity.",
+  "root": "spargere (to scatter, sprinkle)",
+  "root_family": [
+    "sparse",
+    "disperse",
+    "intersperse",
+    "asperse"
+  ],
+  "confusables": [
+    "asperity",
+    "aspiration",
+    "dispersion"
+  ],
+  "sense_tags": [
+    "slander",
+    "insinuation",
+    "reputation",
+    "criticism"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    29
+  ]
+}

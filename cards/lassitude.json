@@ -1,0 +1,37 @@
+{
+  "word": "lassitude",
+  "pos": "n.",
+  "pron": "LAS-i-tood",
+  "pron_note": "Also LAS-i-tyood in British English.",
+  "means": "A state of **weariness and listlessness** — no physical energy, and no will to summon any.\n\nTiredness with a flat battery is *fatigue*; lassitude is tiredness that has **soaked into the mood**. It's heavy, passive, faintly melancholy — the languor of a sickbed, a heatwave, a long convalescence, an empire in decline. Crucially it isn't laziness: laziness is a character flaw you're blamed for, lassitude is a condition that happens *to* you. The register is formal and literary; nobody says it about a Monday morning without irony.",
+  "trap": "⚠️ **lassitude ≠ latitude.** One letter apart in the middle: **lassitude** = exhausted listlessness; **latitude** = room to manoeuvre (or a line on a map). Being *given latitude* is freedom; being *seized by lassitude* is collapse.",
+  "trick_line": "**-itude** names a *state you live in* — sol**itude**, servi**itude**, grat**itude**. Lassitude is tiredness you're living in, not tiredness you're feeling.",
+  "trick_unpack": "Fatigue passes after a nap; lassitude is the thing you wake up still inside.",
+  "sentences": [
+    "The heat pressed down until a general **lassitude** settled over the whole household, and even conversation seemed like too much effort.",
+    "Fan's broken, it's thirty-five degrees, and nobody in this office has moved in an hour — total **lassitude**."
+  ],
+  "in_the_wild": "Read the side-effects leaflet folded inside almost any box of medication: **\"drowsiness, lassitude, nausea\"** is standard drug-labelling language — the pharmaceutical industry's word for *this will flatten you*.",
+  "etymology": "Latin **lassus** = *\"weary, faint.\"*\n\nThe sneaky payoff: **alas** is the same root — Old French *ha las*, literally *\"ah, weary!\"* So every time someone sighs *alas*, they're announcing their lassitude.",
+  "one_line": "Bone-deep weariness with no will to act.",
+  "root": "lassus (weary, faint)",
+  "root_family": [
+    "alas",
+    "lassitude"
+  ],
+  "confusables": [
+    "latitude"
+  ],
+  "sense_tags": [
+    "weariness",
+    "listlessness",
+    "low-energy",
+    "apathy",
+    "languor"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

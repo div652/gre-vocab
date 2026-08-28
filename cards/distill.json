@@ -1,0 +1,39 @@
+{
+  "word": "distill",
+  "pos": "v.",
+  "pron": "dih-STIL",
+  "pron_note": "British spelling: distil, one l.",
+  "means": "**Literally:** to purify a liquid by boiling it and condensing the vapour — how whisky, gin and essential oils are made.\n**Figuratively:** to extract the essential core of something large and reduce it to concentrated form.\n\nThe key is that the result is *stronger*, not just smaller. To **summarise** is to make short; to **condense** is to compress the bulk; to **distill** is to throw away everything inessential so what remains is more potent than the original. It implies patience and judgement — you distill a decade of research into one paragraph, and the paragraph hits harder than the decade.",
+  "trap": "⚠️ **distill ≠ instill.**\n- **distill** = draw the essence **out** of something\n- **instill** = drip a quality **into** someone (*instill discipline in the cadets*)\n\nSame root, opposite direction.",
+  "trick_line": "A **still** makes moonshine — what drips out is far stronger than what went in.",
+  "trick_unpack": "The word literally contains the apparatus, and distilling always yields something more concentrated than the source, never merely shorter.",
+  "sentences": [
+    "Her final chapter **distills** forty years of fieldwork into a single, devastating claim about kinship.",
+    "Just **distill** it for me — I don't need the whole deck, give me the one thing that matters."
+  ],
+  "in_the_wild": "**\"Triple Distilled\"** on a bottle of Jameson — the whole boast is that running it through three times makes it purer and smoother. That's the figurative sense in miniature: more passes, less junk, stronger spirit.",
+  "etymology": "Latin **de-** (*down*) + **stillare** (*to drip*), from **stilla**, *\"a drop.\"* To distill is to let something come down drop by drop — which is why the word carries that sense of slow, patient extraction.\n\nSame drop gives you **instill** (*to drip in*, gradually) and **distillation**.",
+  "one_line": "To boil something down to its pure, potent essence.",
+  "root": "stilla (a drop), stillare (to drip)",
+  "root_family": [
+    "instill",
+    "distillation",
+    "distillery"
+  ],
+  "confusables": [
+    "instill",
+    "distil",
+    "instil"
+  ],
+  "sense_tags": [
+    "purify",
+    "extract-essence",
+    "concentrate",
+    "refine"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    19
+  ]
+}

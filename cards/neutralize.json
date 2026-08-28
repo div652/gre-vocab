@@ -1,0 +1,41 @@
+{
+  "word": "neutralize",
+  "pos": "v.",
+  "pron": "NOO-truh-lyze",
+  "pron_note": "British spelling: neutralise.",
+  "means": "To make something **ineffective or harmless** — to cancel out its force. In chemistry, to bring an acid or base to neutral; in politics or sport, to blunt an opponent's advantage; in military and intelligence-speak, to kill.\n\nThe word is cold and clinical. *Destroy* names the violence; *neutralize* hides it behind a chemistry-lab tone — the threat is simply **balanced out of existence**. That flatness is why bureaucracies love it: a general \"neutralizes\" a target, a defender \"neutralizes\" a striker, an antacid \"neutralizes\" acid, and the same calm verb covers all three. Note also that it often means *cancelled*, not *removed* — a neutralized force is still there, just made to count for nothing.",
+  "trap": null,
+  "trick_line": "Put it in **neutral** — the engine still runs, the car goes nowhere.",
+  "trick_unpack": "Neutralizing doesn't smash the thing, it takes it out of gear so its power stops translating into effect.",
+  "sentences": [
+    "A single defensive midfielder **neutralized** their playmaker for ninety minutes; he touched the ball often and changed nothing.",
+    "Take one of these before dinner — it'll **neutralize** the acid and you'll sleep fine."
+  ],
+  "in_the_wild": "Every antacid ad ever made: \"**neutralizes** excess stomach acid.\" That's the literal chemistry sense doing all the metaphorical work — acid meets base, and the burn is cancelled.",
+  "etymology": "Latin **neuter** = *\"neither\"* (*ne* + *uter*, \"not one or the other\"). A neutral party is on **neither** side; to neutralize is to force something into that position of counting for neither side. Same root: **neuter, neutral, neutrality, neutron** (the particle with neither charge).",
+  "one_line": "To cancel something out, making its force count for nothing.",
+  "root": "neuter (neither, ne + uter)",
+  "root_family": [
+    "neuter",
+    "neutral",
+    "neutrality",
+    "neutron"
+  ],
+  "confusables": [
+    "naturalize",
+    "nullify",
+    "neuter"
+  ],
+  "sense_tags": [
+    "counteract",
+    "render harmless",
+    "offset",
+    "euphemism-for-killing",
+    "chemistry"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    23
+  ]
+}

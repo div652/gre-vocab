@@ -1,0 +1,45 @@
+{
+  "word": "xenophobic",
+  "pos": "adj.",
+  "pron": "zen-uh-FOH-bik",
+  "pron_note": "The x is pronounced z — never \"ex-\". Noun: xenophobia, zen-uh-FOH-bee-uh.",
+  "means": "Hostile to or fearful of foreigners, immigrants, and anything foreign.\n\nDespite the *-phobic* ending, this is not a clinical fear — it's a charge. Nobody describes themselves as xenophobic; it is what an opponent calls your immigration policy, your tabloid headline, your remark about \"these people coming over here.\" It's also broader than **racist**: xenophobia targets the *outsider* — nationality, accent, origin, foreign food, foreign customs — so a country can be xenophobic toward people of its own race. The \"fear\" half is largely a polite fiction; what the word actually names is exclusion and contempt.",
+  "trap": null,
+  "trick_line": "**Ends in *-phobic*, but it isn't a phobia.** Arachnophobia is a diagnosis; xenophobia is an accusation.",
+  "trick_unpack": "The suffix promises a private fear, but the word is always used as a public verdict on someone's politics.",
+  "sentences": [
+    "The election was fought on **xenophobic** rhetoric: closed borders, foreign hands, a nation supposedly under siege.",
+    "He insists he's \"just being realistic\" about immigration, but half the pub can hear how **xenophobic** it sounds."
+  ],
+  "in_the_wild": "The alien in *Alien* is a **Xenomorph** — literally \"strange form,\" the outsider whose foreignness is the whole horror.",
+  "etymology": "Greek **xenos** = *\"stranger, foreigner\"* + **phobos** = *\"fear.\"*\n\n*Xenos* is worth banking: **xenon** (the noble gas, named \"the strange one\" because it wouldn't react with anything), **xenophile** (a lover of the foreign — the exact opposite), **xenograft** (tissue transplanted from another species).\n\nAnd *phobos* gives you every *-phobia* you'll ever meet — plus **Phobos**, the moon of Mars named for the god of Fear.",
+  "one_line": "Hostile or fearful toward foreigners and foreign things.",
+  "root": "xenos (stranger, foreigner) + phobos (fear)",
+  "root_family": [
+    "xenon",
+    "xenophile",
+    "xenograft",
+    "xenomorph",
+    "phobia",
+    "hydrophobia",
+    "agoraphobia"
+  ],
+  "confusables": [
+    "xenophile",
+    "misanthropic",
+    "chauvinistic",
+    "jingoistic"
+  ],
+  "sense_tags": [
+    "prejudice",
+    "fear-of-outsiders",
+    "hostility",
+    "nationalism",
+    "exclusion"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    27
+  ]
+}

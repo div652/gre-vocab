@@ -1,0 +1,43 @@
+{
+  "word": "obdurate",
+  "pos": "adj.",
+  "pron": "OB-duu-rit",
+  "pron_note": "Also heard as ob-DUUR-it; the first-syllable stress is the safer default.",
+  "means": "Stubbornly refusing to change course — and, crucially, **refusing to be softened**: unmoved by pleading, pity, or remorse.\n\n*Stubborn* and *obstinate* are about holding an **opinion**. **Obdurate** is about a hardened **heart**. You are obdurate when the widow begs and you say no, when the evidence of suffering is right there and you feel nothing. It carries a moral charge — the speaker is not describing you, they are condemning you — and it lives in formal, often near-biblical register: an obdurate sinner, an obdurate creditor, an obdurate refusal to apologise.",
+  "trap": null,
+  "trick_line": "**Ob-DUR-ate** — too **dur**able to break, no matter how hard you beg.",
+  "trick_unpack": "The *dur* is the same *hard* you hear in **durable** and **endure**, and the point of the word is that pleading bounces straight off.",
+  "sentences": [
+    "The tribunal was **obdurate**: no appeal to hardship, however well documented, would reopen the case.",
+    "I said sorry about four times and he just sat there, arms folded, completely **obdurate**."
+  ],
+  "in_the_wild": "Milton's Satan, in *Paradise Lost* Book I, glares from the burning lake \"with **obdurate** pride and steadfast hate\" — the literal definition of a heart that will not soften.",
+  "etymology": "Latin **ob-** (*against*) + **durus** (*hard*) — hardened **against** you.\n\n*Durus* is a workhorse root: **durable** (lasting because hard), **endure** (stay hard through it), **duress** (hardship used as force), **dour** (a hard, grim face), **indurate** (to harden).",
+  "one_line": "Stubbornly hard-hearted; unmoved by pleading, pity, or remorse.",
+  "root": "ob- (against) + durus (hard)",
+  "root_family": [
+    "durable",
+    "endure",
+    "duration",
+    "duress",
+    "dour",
+    "indurate"
+  ],
+  "confusables": [
+    "obstinate",
+    "obtuse",
+    "indurate"
+  ],
+  "sense_tags": [
+    "stubborn",
+    "unyielding",
+    "hard-hearted",
+    "unrepentant",
+    "pitiless"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    30
+  ]
+}

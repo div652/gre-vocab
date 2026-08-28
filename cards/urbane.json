@@ -2,37 +2,36 @@
   "word": "urbane",
   "pos": "adj.",
   "pron": "er-BAYN",
-  "pron_note": "Stress moves off the first syllable, unlike urban (ER-buhn) — er-BAYN, rhymes with plain.",
-  "means": "Smooth, polished and at ease in company — the poise of someone who can handle any room, any guest, any awkward silence, with a light remark.\n\nIt praises **manner, not morals**: an urbane man is courteous and witty, but nothing about the word says he is kind or honest. *Suave* leans slightly slick, *sophisticated* is about taste, *urbane* is specifically social — conversation, wit, unflappability. It also carries a faint whiff of the drawing room: applied to people who are older, worldly and usually male. Say it of a nervous graduate and it sounds absurd.",
-  "trap": "⚠️ **urbane ≠ urban.**\n- **urban** = *of the city* (urban planning, urban decay)\n- **urbane** = *of city manners* — polished, suave\n\nEvery city has urban sprawl. Very few people in it are urbane.",
-  "trick_line": "**Urbane is urban with an extra *e* — for *elegance*.**",
-  "trick_unpack": "The silent e is the polish: strip it and you're back to mere geography.",
+  "pron_note": "Stress on the second syllable — not UR-ban with an -e tacked on.",
+  "means": "Smooth, polished and socially at ease — the poise of someone who has been everywhere, met everyone, and can keep a difficult dinner table talking.\n\nThe word is about **surface, and that's a compliment** — an urbane person is unruffled, lightly witty, never earnest or awkward. It's more than polite: politeness is following rules, urbaneness is making the rules look unnecessary. It skews male, older, and worldly, and it carries a faint suggestion that the charm may be all there is — call a man urbane and you praise his manner while saying nothing at all about his depth.",
+  "trap": "⚠️ **urban ≠ urbane.**\n- **urban** = *of the city* (urban planning, urban decay)\n- **urbane** = *of the city's manners* (an urbane host)\n\nSame root, one letter apart, completely different exam answer.",
+  "trick_line": "**Urban** is where you're from; **urbane** is what the city did to your manners.",
+  "trick_unpack": "The extra **-e** adds the polish and pulls the stress to the fancy end — er-BAYN — turning a place into a personality.",
   "sentences": [
-    "The ambassador was **urbane** to the last, deflecting the hostile question with a joke about his own tailoring.",
-    "He's got that **urbane** thing going — knows the waiter's name, orders for the table, never once looks at the menu."
+    "The ambassador was **urbane** to the last, deflecting a hostile question with a joke about his own tailoring.",
+    "He's the most **urbane** guy in the office — somehow he can tell you your work is rubbish and you leave feeling flattered."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **urbs, urbis** = *\"city\"* → **urbanus**, *\"of the city.\"* The Romans meant it exactly as the insult it implies: city people had wit and polish, country people did not. Its true opposite is **rustic** (Latin *rus*, countryside) — and the same snobbery gives English **boor** (a farmer) and **villain** (originally a farmhand).\n\nSame root: **urban, suburb, suburban, conurbation, urbanise**.",
-  "one_line": "Socially polished, smooth and worldly in manner.",
+  "in_the_wild": "**Urbane** is the standing epithet film critics reach for with Cary Grant — dinner jacket, raised eyebrow, never once flustered. If you can picture Grant, you have the definition.",
+  "etymology": "Latin **urbs** = *\"city\"* → **urbānus**, \"of the city,\" hence *refined*. Rome's insult pair was **urbānus** vs **rūsticus** — city-smooth against country-clumsy — which is why *rustic* still means rough-edged today.\n\nThe same **urbs** gives you **urban**, **suburb** (*sub-* = under/near the city) and **urbanise**.",
+  "one_line": "Smoothly polished and socially at ease, especially in conversation.",
   "root": "urbs, urbis (city)",
   "root_family": [
     "urban",
     "suburb",
     "suburban",
-    "conurbation",
-    "urbanise"
+    "urbanise",
+    "interurban"
   ],
   "confusables": [
     "urban",
-    "urbanity",
     "suburban"
   ],
   "sense_tags": [
-    "polished",
     "sophisticated",
+    "polished",
+    "suave",
     "courteous",
-    "worldly",
-    "poised"
+    "worldly"
   ],
   "register": "formal",
   "connotation": "positive",

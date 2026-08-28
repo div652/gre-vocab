@@ -3,34 +3,33 @@
   "pos": "adj.",
   "pron": "TREN-chuhnt",
   "pron_note": null,
-  "means": "**Sharp, incisive, forceful** — said of criticism, analysis, wit, or prose that cuts straight through to what matters.\n\nThis is a compliment, and that's the thing to hold onto. **Harsh** and **caustic** tell you the speaker drew blood; **trenchant** tells you they were *right*. A trenchant remark is admired for its precision — it exposes the weak joint in an argument in one clean stroke, no padding, no flailing. Reserve it for the clever surgeon, not the angry brawler.",
-  "trap": null,
-  "trick_line": "**Trenchant** has **trench** in it — words that dig a clean cut into the ground.",
-  "trick_unpack": "A trench is a deliberate, precise incision in the earth, and trenchant criticism cuts exactly the same way — cleanly, and it leaves a mark.",
+  "means": "Of speech, writing, or analysis: **sharp, vigorous and penetrating** — it cuts straight to the essential point.\n\nThe word praises the *mind* behind the remark, not the damage it does. **Scathing** is about hostility, **acerbic** about sourness of tone; **trenchant** is about accuracy — the criticism lands because it's *right*, and you admire the person who made it even if you're the one bleeding. Hence its natural home: reviews, essays, courtroom argument, political commentary. Almost never used for praise or for small talk — a trenchant compliment sounds wrong; a trenchant critique sounds inevitable.",
+  "trap": "⚠️ **trenchant ≠ truculent.** Both sound aggressive and start the same way, but *truculent* means **belligerent and scowling** — a bad temper, not a good argument. A trenchant critic is worth reading; a truculent one is just spoiling for a fight.",
+  "trick_line": "**Trenchant** has **trench** in it — it doesn't bruise the argument, it cuts a channel clean through it.",
+  "trick_unpack": "A trench is a deep, deliberate cut, which is exactly the difference between a merely angry remark and a trenchant one.",
   "sentences": [
-    "Her **trenchant** dissent reframed the entire case in four paragraphs, and every commentator quoted it.",
-    "He's blunt, but his notes on my draft were **trenchant** — he found the one hole I'd been avoiding."
+    "Her dissent was the most **trenchant** paragraph in the entire judgment: four sentences that dismantled the majority's reasoning.",
+    "He doesn't say much in meetings, but when he does it's usually pretty **trenchant** — one question and the whole plan falls apart."
   ],
-  "in_the_wild": null,
-  "etymology": "Old French **trenchier** = *\"to cut\"* (still alive in French *trancher*, to slice). The present participle **trenchant** literally meant *\"cutting\"* — used of a sword blade before it was ever used of a remark.\n\nSame root gives you **trench** (a cut in the ground), **trench coat** (the coat for those cuts), **retrench** (cut back on spending), and **trencher** (the cutting board that gave us *trencherman*, a hearty eater).",
-  "one_line": "Sharp and incisive — criticism that cuts cleanly to the point.",
-  "root": "trenchier (to cut)",
+  "in_the_wild": "Read the back of almost any serious non-fiction paperback and you'll find it: *\"a trenchant analysis of…\"* is standard blurb-speak for a book that cuts deep, and reviewers reach for it constantly.",
+  "etymology": "French **trancher** = *\"to cut\"* (ultimately Latin **truncare**). Same root gives you **trench** (a cut in the ground), **retrench** (cut back spending), **truncate** (cut short), and **trenchant** — literally *cutting*.",
+  "one_line": "Sharp and penetrating — criticism that cuts to the heart of it.",
+  "root": "trancher / truncare (to cut)",
   "root_family": [
     "trench",
-    "trench coat",
     "retrench",
-    "trencher",
-    "trenchant"
+    "truncate",
+    "trencher"
   ],
   "confusables": [
     "truculent",
     "trenchermen",
-    "recalcitrant"
+    "truncated"
   ],
   "sense_tags": [
     "incisive",
-    "sharp-criticism",
     "penetrating",
+    "critical",
     "forceful",
     "clear-sighted"
   ],

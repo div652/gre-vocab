@@ -1,0 +1,45 @@
+{
+  "word": "malfeasance",
+  "pos": "n.",
+  "pron": "mal-FEE-zuhns",
+  "pron_note": null,
+  "means": "Wrongdoing — specifically **an illegal or dishonest act committed by someone holding public office or a position of trust**: bribe-taking, embezzlement, rigging a contract.\n\nThis is courtroom-and-boardroom vocabulary, and it carries the weight of a *breach of duty*, not just bad behaviour. A private citizen who steals is a thief; a treasurer who steals is guilty of malfeasance. The word implies there was an office, a duty attached to it, and a deliberate betrayal of it — which is why it reads as heavier and colder than *misconduct*.",
+  "trap": "⚠️ **malfeasance ≠ misfeasance.**\n- **malfeasance** = doing something **wrongful in itself** (the clerk took a bribe)\n- **misfeasance** = doing a **lawful** act **badly or improperly** (the clerk filed the permit wrong)\n\nThird of the set: **nonfeasance** = failing to act at all.",
+  "trick_line": "**mal-FEE-zance** — the official took a **fee** he shouldn't have.",
+  "trick_unpack": "The stressed syllable is literally *fee*, and the bribe-taking official is the archetypal malfeasant — someone paid to do a job who instead got paid to betray it.",
+  "sentences": [
+    "The inquiry found no evidence of criminal **malfeasance**, but it did find a commissioner who had signed contracts he never read.",
+    "Losing the client wasn't **malfeasance** — he was sloppy, not crooked."
+  ],
+  "in_the_wild": "**\"Corporate malfeasance\"** is the stock phrase business journalism reaches for whenever an Enron- or FTX-style scandal breaks — executives looting the company they were trusted to run.",
+  "etymology": "Latin **male** (*badly*) + **facere** (*to do*), through French *faisance*, \"doing.\" Literally **bad-doing**.\n\n*Facere* is one of the great GRE roots: **feasible** (do-able), **factory**, **benefactor**, **malefactor**. And *male-* runs through **malevolent**, **malign**, **malady** — anything that starts *mal-* is bad news.",
+  "one_line": "Illegal wrongdoing by an official abusing a position of trust.",
+  "root": "facere (to do) + male (badly)",
+  "root_family": [
+    "feasible",
+    "factory",
+    "benefactor",
+    "malefactor",
+    "malevolent",
+    "malign",
+    "misfeasance",
+    "nonfeasance"
+  ],
+  "confusables": [
+    "misfeasance",
+    "nonfeasance",
+    "maleficence"
+  ],
+  "sense_tags": [
+    "wrongdoing",
+    "corruption",
+    "breach-of-duty",
+    "official-misconduct",
+    "legal"
+  ],
+  "register": "legal",
+  "connotation": "negative",
+  "groups": [
+    20
+  ]
+}

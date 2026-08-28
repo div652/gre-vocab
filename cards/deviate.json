@@ -1,0 +1,46 @@
+{
+  "word": "deviate",
+  "pos": "v. (also n. / adj., rare)",
+  "pron": "DEE-vee-ayt",
+  "pron_note": null,
+  "means": "To **turn aside from an established course, standard, or norm** — a route, a plan, a protocol, an average.\n\nThe word only works if there *is* a fixed path to leave; it always implies a reference line. That makes it cooler and more measurable than its neighbours: you **stray** aimlessly, you **digress** in speech, but you **deviate** from something specified — the flight plan, the recipe, the mean. Left alone it's neutral, even clinical (engineers and statisticians live in it). The disapproval is imported by context: *deviate from procedure* is an accusation, and the shadow of **deviant** darkens the word whenever the norm being left is a social one.",
+  "trap": null,
+  "trick_line": "**de-VIA-te** — there's a **via** sitting in the middle: you go *off the via*, off the way.",
+  "trick_unpack": "Spotting *via* reminds you the word needs a road to leave — no established path, no deviation.",
+  "sentences": [
+    "The pilot **deviated** from the filed route to skirt a line of thunderstorms.",
+    "Follow the recipe exactly — the one time I **deviated**, it came out like glue."
+  ],
+  "in_the_wild": "**Standard deviation** — the stats measure you've met a hundred times. It's literally the average amount your data wanders off the mean.",
+  "etymology": "Latin **de-** (*away from*) + **via** (*road, way*) — \"off the road.\"\n\n*Via* is a workhorse root: **devious** (off-road, hence sneaky), **obvious** (*ob-via* — lying in the way, so you can't miss it), **trivial** (*tri-via* — the three-way crossroads where people swapped idle gossip), **envoy**, **voyage**, **viaduct**.",
+  "one_line": "To turn aside from a set course, plan, or standard.",
+  "root": "via (road, way)",
+  "root_family": [
+    "devious",
+    "obvious",
+    "trivial",
+    "viaduct",
+    "envoy",
+    "voyage",
+    "convey",
+    "previous",
+    "impervious"
+  ],
+  "confusables": [
+    "deviant",
+    "devious",
+    "digress",
+    "diverge"
+  ],
+  "sense_tags": [
+    "departing",
+    "straying",
+    "nonconformity",
+    "divergence"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    24
+  ]
+}

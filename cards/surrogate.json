@@ -1,0 +1,41 @@
+{
+  "word": "surrogate",
+  "pos": "n. / adj.",
+  "pron": "SUR-uh-gut",
+  "pron_note": "Noun and adjective end in a mumbled -gut; the rarer verb is SUR-uh-gayt.",
+  "means": "A **substitute** — a person or thing put in someone else's place to carry out their role.\n\nThe word is fussier than *replacement* or *substitute*. A surrogate takes over a **role that properly belongs to another**: a surrogate mother, a surrogate father figure, a surrogate decision-maker for an unconscious patient, a surrogate war fought by proxies for the great powers. There's usually a faint second-best flavour — the surrogate does the job, but everyone knows who was supposed to be there. In US political coverage it's a standard term of art: a *campaign surrogate* is the deputy sent out to speak in the candidate's voice.",
+  "trap": null,
+  "trick_line": "**A surrogate doesn't replace a *thing* — it replaces a *relationship*: surrogate mother, surrogate family, surrogate war.**",
+  "trick_unpack": "You'd never call a spare tyre a surrogate, because the word wants a role someone else was meant to fill.",
+  "sentences": [
+    "The court appointed a **surrogate** to consent to treatment on the patient's behalf.",
+    "Her flatmate's dog has become a full **surrogate** child — she talks to it more than to actual people."
+  ],
+  "in_the_wild": "**Surrogate mother** is the phrase that keeps the word alive in ordinary speech — a woman who carries a pregnancy in another's place. Note it's exactly the *role*, not the person's body parts, that the word is naming.",
+  "etymology": "Latin **subrogāre** = *\"to ask in place of another\"* — *sub-* here meaning \"in place of,\" plus **rogāre**, *\"to ask, to propose.\"* Originally the Roman act of proposing a substitute official.\n\n**rogāre** is a high-yield GRE root: **interrogate** (ask between/thoroughly), **arrogant** (claiming for oneself), **prerogative** (asked for first — a privilege), **abrogate** (ask away — repeal), **derogatory** (asking down — belittling).",
+  "one_line": "A stand-in who fills a role belonging to someone else.",
+  "root": "rogāre (to ask, propose)",
+  "root_family": [
+    "interrogate",
+    "arrogant",
+    "prerogative",
+    "abrogate",
+    "derogatory",
+    "subrogation"
+  ],
+  "confusables": [
+    "subrogate"
+  ],
+  "sense_tags": [
+    "substitution",
+    "stand-in",
+    "proxy",
+    "deputy",
+    "replacement"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    37
+  ]
+}

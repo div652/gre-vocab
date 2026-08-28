@@ -1,0 +1,40 @@
+{
+  "word": "augment",
+  "pos": "v.",
+  "pron": "awg-MENT",
+  "pron_note": null,
+  "means": "To **make something greater by adding to it** — in size, amount, strength, or value.\n\nThe key restriction: there must already be something there. You create from nothing, but you *augment* a base that already stands — a salary, a force, a collection, a signal. **Increase** is the plain all-purpose word; **augment** is its formal cousin and usually implies a deliberate addition brought in from outside. It also differs from **supplement**, which quietly implies the original was deficient; augmenting carries no such insult — you can augment something already perfectly good.",
+  "trap": null,
+  "trick_line": "Nobody augments from zero — an augmented *thing* is a thing that was already there.",
+  "trick_unpack": "That base requirement is the whole line between *augment* and *create*: you add to, never start.",
+  "sentences": [
+    "The bequest **augmented** an endowment that was already the largest in the country.",
+    "He drives weekends to **augment** his paycheck."
+  ],
+  "in_the_wild": "**Augmented reality** — Pokémon GO, Snapchat filters. The camera keeps your actual room and lays extra things on top of it; that's exactly the word.",
+  "etymology": "Latin **augēre** = *\"to increase, to make grow.\"* It pays out across the exam: **auction** (bidding drives the price up), **auxiliary** (extra troops added to the main force), **august** / **Augustus** (grand, magnified), and **author** (Latin *auctor*, the one who makes a thing grow).",
+  "one_line": "to make bigger by adding to what already exists",
+  "root": "augēre (to increase, to make grow)",
+  "root_family": [
+    "auction",
+    "auxiliary",
+    "august",
+    "augment",
+    "author"
+  ],
+  "confusables": [
+    "augur",
+    "argument"
+  ],
+  "sense_tags": [
+    "increasing",
+    "adding",
+    "enhancement",
+    "supplementing"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    18
+  ]
+}

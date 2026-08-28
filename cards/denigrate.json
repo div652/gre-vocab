@@ -1,0 +1,41 @@
+{
+  "word": "denigrate",
+  "pos": "v.",
+  "pron": "DEN-ih-grayt",
+  "pron_note": null,
+  "means": "To attack someone's reputation or belittle their worth — to run them down unfairly.\n\nThe unfairness is baked in. You can *criticise* a book fairly, but to **denigrate** it is to talk it down beyond what it deserves, and the word quietly convicts the speaker as much as the target. It also tends to be a campaign rather than an outburst: a steady drip of belittling remarks, often about a person's character, competence, or achievements. Register is formal — it's the word of editorials, HR policies and eulogies-in-reverse, not of a pub argument.",
+  "trap": "**denigrate ≠ deprecate.** To *denigrate* is to blacken someone else's name; to *deprecate* is to express mild disapproval — which is why *self-deprecating* is charming (you're gently mocking yourself) and self-*denigrating* would be bleak.",
+  "trick_line": "**de-NIG-RATE** — you *de*-rate them: knock their rating down below what it's worth.",
+  "trick_unpack": "The word ends in the sound of *rate*, and denigrating is exactly that — marking someone down unfairly rather than judging them accurately.",
+  "sentences": [
+    "The memoir is generous to his rivals, refusing to **denigrate** even the men who engineered his downfall.",
+    "Stop **denigrating** your own work — you spent two years on that thing."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **de-** (*completely*) + **niger** (*black*) → *denigrare*, \"to blacken.\" You blacken a name, and the reputation is what's stained.\n\nSame *niger* gives French **noir** — as in **film noir**, the genre literally named \"black film.\"",
+  "one_line": "To belittle unfairly; to blacken someone's reputation.",
+  "root": "niger (black)",
+  "root_family": [
+    "noir",
+    "film noir",
+    "nigrescent",
+    "denigration"
+  ],
+  "confusables": [
+    "deprecate",
+    "depreciate",
+    "delineate"
+  ],
+  "sense_tags": [
+    "belittle",
+    "disparage",
+    "defame",
+    "criticize-unfairly",
+    "reputation"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

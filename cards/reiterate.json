@@ -1,0 +1,39 @@
+{
+  "word": "reiterate",
+  "pos": "v.",
+  "pron": "ree-IT-uh-rayt",
+  "pron_note": null,
+  "means": "To **say something again**, usually to drive it home.\n\nNearly always about *words*, not actions — you repeat a gesture, but you reiterate a **point**. And it's self-conscious: *repeat* is neutral and mechanical, while *reiterate* is a speaker deliberately restating a position, often with a flicker of impatience that it needed restating at all. \"Let me reiterate\" means *you should already know this*. Push further and you get **belabour**, which is repetition past the point of usefulness.",
+  "trap": "⚠️ **reiterate ≠ iterate.**\n- **reiterate** = *say it again*\n- **iterate** = *go through the cycle again*, refining each time (iterate on a design, iterate over a list)\n\nYou reiterate a demand. You iterate a prototype.",
+  "trick_line": "**Re**iterate already means \"again again\" — and that redundancy *is* the word.",
+  "trick_unpack": "Latin *iterum* already means \"again,\" so the extra **re-** built into the word mirrors exactly when you use it: the second time, because the first didn't land.",
+  "sentences": [
+    "The tribunal **reiterated** that no such right exists under the statute — a position it had stated plainly twice before.",
+    "I'll **reiterate**, since apparently nobody opened the email: the deadline is Friday."
+  ],
+  "in_the_wild": "**\"Let me reiterate\"** is podium language — the stock opener of press briefings, earnings calls and diplomatic statements, where it politely means *I have said this already and I am saying it again*.",
+  "etymology": "Latin **iterum** = *\"again\"* → **iterāre**, \"to do again,\" plus a redundant **re-**.\n\nThat root runs straight into tech and maths: **iterate**, **iteration**, **iterative** — one loop after another.",
+  "one_line": "To say something again, usually for emphasis.",
+  "root": "iterum (again) → iterāre (to do again)",
+  "root_family": [
+    "iterate",
+    "iteration",
+    "iterative",
+    "reiteration"
+  ],
+  "confusables": [
+    "iterate",
+    "reinstate"
+  ],
+  "sense_tags": [
+    "repeating",
+    "emphasis",
+    "restating",
+    "speech"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    24
+  ]
+}

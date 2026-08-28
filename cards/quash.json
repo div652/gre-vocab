@@ -1,0 +1,43 @@
+{
+  "word": "quash",
+  "pos": "v.",
+  "pron": "KWOSH",
+  "pron_note": "Rhymes with wash, not with cash.",
+  "means": "To **put down completely** — a rebellion, a rumour, a hope — or, in law, to **annul** something official: a subpoena, an indictment, a conviction.\n\nTwo things mark it. First, **authority**: the quashing is done from above, by a court, a government, a general, a boss. Second, **finality in one stroke** — you *suppress* dissent over months, you *quell* a crowd by calming it down, but you quash a thing and it is simply gone. A rumour that keeps resurfacing was never quashed.",
+  "trap": "⚠️ **quash ≠ quell.**\n- **quash** = *cancel it outright* — one decisive act, often on paper (a court quashes a verdict)\n- **quell** = *calm it down* — soothe or subdue something agitated (quell a riot, quell your fears)\n\nYou can quell panic. You cannot quash it — there's no order to sign.",
+  "trick_line": "**quash** joins **smash, crash, bash, squash** — the **-ash** verbs are all one blow, and then it's over.",
+  "trick_unpack": "Nothing in that family happens gradually, which is exactly the difference between quashing something and merely suppressing it.",
+  "sentences": [
+    "The Court of Appeal **quashed** the conviction after the forensic evidence was shown to be worthless.",
+    "He **quashed** the rumour with one tweet and nobody brought it up again."
+  ],
+  "in_the_wild": "**\"Motion to quash\"** — the standard courtroom move to have a subpoena or indictment thrown out, and a stock line in every legal drama from *Law & Order* to *Suits*.",
+  "etymology": "Latin **quatere / quassus** = *\"to shake, to shatter\"*, via the intensive **quassāre**. Shake something hard enough and it breaks — hence the crushing sense.\n\nThat root pays out widely: **concussion** (shaken together), **percussion** (struck through), **discuss** (originally to shake apart, i.e. examine), **squash**, even **rescue** (*re-ex-quassāre*, to shake free).\n\nThe legal sense arrived separately, from Latin **cassāre** *\"to annul\"* (from *cassus*, \"empty, void\") — the two words fused in English, which is why one verb both crushes revolts and voids indictments.",
+  "one_line": "To put down or annul completely, in one decisive stroke.",
+  "root": "quatere, quassus (to shake, shatter)",
+  "root_family": [
+    "concussion",
+    "percussion",
+    "discuss",
+    "squash",
+    "rescue"
+  ],
+  "confusables": [
+    "squash",
+    "quell",
+    "squelch",
+    "quench"
+  ],
+  "sense_tags": [
+    "suppress",
+    "annul",
+    "crush",
+    "legal",
+    "invalidate"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    28
+  ]
+}

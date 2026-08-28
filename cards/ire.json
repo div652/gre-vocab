@@ -1,0 +1,40 @@
+{
+  "word": "ire",
+  "pos": "n.",
+  "pron": "EYE-er",
+  "pron_note": "One syllable, rhyming with fire — not \"EER\", not \"EE-ray\".",
+  "means": "Anger — specifically **anger provoked in someone by an offence**.\n\n*Rage* is loud and out of control; *wrath* is grand and punitive, the anger of gods and kings; **ire** is cooler and more formal, the word a newspaper uses. It is almost never anger you're currently feeling — it's anger *someone else* directs at the person who caused it. Notice it lives in a handful of set phrases: *drew the ire of*, *raised the ire of*, *sparked the ire of*. Short and headline-friendly, which is exactly why journalists reach for it.",
+  "trap": null,
+  "trick_line": "You don't *have* ire — you **draw** it, the way a bad decision draws a crowd.",
+  "trick_unpack": "The verbs that cling to this word (*drew, raised, sparked*) tell you ire is always anger you provoked in somebody else, never a mood you're sitting in.",
+  "sentences": [
+    "The decision to fell the old plane trees drew the **ire** of a parish that had otherwise agreed on nothing for a decade.",
+    "One badly worded email and he'd earned the **ire** of the entire group chat."
+  ],
+  "in_the_wild": "**Dies Irae** — \"Day of *Wrath*\", the medieval funeral chant. Its four-note melody is the standard shorthand for doom in film scores: the opening of *The Shining*, *It's a Wonderful Life*, *Star Wars*, *The Lion King*. If you've heard dread in a soundtrack, you've heard *ire*.",
+  "etymology": "Latin **ira** = *anger*. Same root gives **irate** (angry right now) and **irascible** (quick to get angry, a permanent temperament) — a useful trio, since the GRE likes the distinction between a state and a disposition.",
+  "one_line": "Anger — especially anger you have provoked in someone else.",
+  "root": "ira (anger)",
+  "root_family": [
+    "irate",
+    "irascible",
+    "irascibility",
+    "Dies Irae"
+  ],
+  "confusables": [
+    "irk",
+    "ere",
+    "irate"
+  ],
+  "sense_tags": [
+    "anger",
+    "wrath",
+    "indignation",
+    "provocation"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    23
+  ]
+}

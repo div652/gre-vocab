@@ -1,0 +1,41 @@
+{
+  "word": "presage",
+  "pos": "v. / n.",
+  "pron": "PRESS-ij",
+  "pron_note": "The verb is also said pri-SAYJ; the noun is always PRESS-ij.",
+  "means": "**Verb:** to be a sign or warning of something that is coming. **Noun:** the omen itself, or the feeling of foreboding it gives you.\n\nThe subject is usually a *thing*, not a person — falling share prices, a cough, a red sky. A forecaster **predicts**; the storm clouds **presage**. And the thing coming is nearly always bad: you can presage disaster, collapse, or war, but \"presaged a lovely afternoon\" reads as a joke. Weightier and gloomier than *foreshadow*, which is what a novelist does on purpose; presage is what the world does to you.",
+  "trap": null,
+  "trick_line": "**Pre-sage** — the **sage** knew *before* it happened, and he looked worried.",
+  "trick_unpack": "The word literally has *sage* sitting inside it, and the worried face is the reminder that what's foreseen is bad news.",
+  "sentences": [
+    "The tremors of that spring **presaged** the collapse of the whole banking order.",
+    "That weird grinding noise from the engine **presaged** a very expensive Tuesday."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **prae-** (*before*) + **sagīre** (*to perceive keenly, to sense*). A Roman **praesāgium** was a foreboding — a thing sensed before it arrived.\n\nThat second root is the payoff: *sagīre* also gives you **sagacious** (keen-scented, shrewd) and **sage** (one who perceives keenly). Learn one, get three.",
+  "one_line": "To be a sign of something coming, usually bad.",
+  "root": "prae- + sagīre (to perceive keenly)",
+  "root_family": [
+    "sagacious",
+    "sagacity",
+    "sage",
+    "presentiment"
+  ],
+  "confusables": [
+    "prestige",
+    "portend",
+    "presume"
+  ],
+  "sense_tags": [
+    "omen",
+    "foreboding",
+    "foreshadow",
+    "prophecy",
+    "warning"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

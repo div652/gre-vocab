@@ -1,0 +1,47 @@
+{
+  "word": "omit",
+  "pos": "v.",
+  "pron": "oh-MIT",
+  "pron_note": "Many speakers mumble the first syllable to uh-MIT; both are standard.",
+  "means": "To **leave something out** — to not include it — or to **fail to do** something you were supposed to do.\n\n*Delete* removes what was there; **omit** means it never made it in. That's why an omission is so often a *fault of absence*: nobody sees the gap unless they know what should have filled it. And something can only be omitted if it had a claim to be there — you can't omit an irrelevance. The word carries a faint whiff of accountability (an accountant who *omits* an asset, a witness who *omits* a detail) without ever quite accusing anyone of lying.",
+  "trap": "⚠️ **omit ≠ emit.** One letter apart, same Latin root, opposite directions: **omit** = leave *out*; **emit** = send *out* (a chimney emits smoke).",
+  "trick_line": "**oh-MIT** = *\"oh, missed it\"* — the thing that should have been there isn't.",
+  "trick_unpack": "The pronunciation is literally the reaction to an omission: you notice the gap only afterwards.",
+  "sentences": [
+    "The report was accurate in every particular but **omitted** the one figure that would have embarrassed the board.",
+    "I **omitted** the part where I cried in the car, obviously."
+  ],
+  "in_the_wild": "Strunk & White's most quoted rule of writing: **\"Omit needless words.\"**",
+  "etymology": "Latin **ob-** (*away*) + **mittere** (*to send*) — \"to send away, let go.\"\n\n**mittere** is one of the highest-yield GRE roots: *mission, missile, transmit, emit, remit, submit, admit, permit, commit, intermittent, remiss*. Once you hear \"send\" inside a word, the rest falls out.",
+  "one_line": "To leave out, or fail to do, something expected.",
+  "root": "ob- + mittere (to send away)",
+  "root_family": [
+    "emit",
+    "transmit",
+    "remit",
+    "submit",
+    "admit",
+    "permit",
+    "commit",
+    "mission",
+    "missile",
+    "intermittent",
+    "remiss"
+  ],
+  "confusables": [
+    "emit",
+    "admit",
+    "remit"
+  ],
+  "sense_tags": [
+    "leaving out",
+    "exclusion",
+    "oversight",
+    "neglect"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    34
+  ]
+}

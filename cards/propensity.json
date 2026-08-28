@@ -1,0 +1,46 @@
+{
+  "word": "propensity",
+  "pos": "n.",
+  "pron": "pruh-PEN-suh-tee",
+  "pron_note": null,
+  "means": "A **built-in leaning** toward a particular behaviour — an inclination you keep acting on, usually without choosing to.\n\nA *tendency* is a plain observation; a *penchant* is a taste you enjoy indulging (a penchant for red wine). A **propensity** is diagnostic — it sounds like a trait someone has been assessed and found to have, which is why lawyers, psychologists and statisticians reach for it. And because it's the word used for things people can't help, it tilts toward faults: propensities are for violence, for exaggeration, for spending, far more often than for kindness.",
+  "trap": "⚠️ **propensity ≠ propinquity.**\n- **propensity** = a leaning *toward a behaviour*\n- **propinquity** = nearness in *space or kinship* (the propinquity effect: you befriend whoever sits closest)",
+  "trick_line": "Listen for what follows it: *a propensity for violence, for lying, for overspending* — the word walks in ahead of a flaw.",
+  "trick_unpack": "The collocation carries the connotation: if you can't imagine the phrase as a compliment, you've got the register right.",
+  "sentences": [
+    "The report noted the firm's **propensity** to under-price risk in precisely the quarters when regulators were not looking.",
+    "He's got a **propensity** for texting his ex at 2am, and no amount of advice has ever fixed it."
+  ],
+  "in_the_wild": "Courts fight constantly over **propensity evidence** — proof that a defendant has done this sort of thing before. It's generally *inadmissible*, precisely because a jury hearing \"he has a propensity for theft\" will convict on the character rather than the facts. That's the word's whole flavour in one rule.",
+  "etymology": "Latin **pro-** (*forward*) + **pendere** (*to hang, to weigh*) → *propendere*, \"to lean toward.\" You are already hanging in that direction before the situation arises.\n\n*pendere* is a workhorse root: **pendulum**, **pending**, **suspend**, **append**, **pensive** (weighing things in your mind), and **ponder**.",
+  "one_line": "An ingrained tendency, usually toward a fault.",
+  "root": "pendere (to hang, to weigh)",
+  "root_family": [
+    "pendulum",
+    "pending",
+    "suspend",
+    "append",
+    "pensive",
+    "ponder",
+    "dispense",
+    "impending"
+  ],
+  "confusables": [
+    "propinquity",
+    "penchant",
+    "proclivity",
+    "propitious"
+  ],
+  "sense_tags": [
+    "tendency",
+    "inclination",
+    "disposition",
+    "predisposition",
+    "habit"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    22
+  ]
+}

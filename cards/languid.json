@@ -1,0 +1,42 @@
+{
+  "word": "languid",
+  "pos": "adj.",
+  "pron": "LANG-gwid",
+  "pron_note": null,
+  "means": "Slow, drooping, without energy — either from real weakness (illness, heat, exhaustion) or from sheer unhurried ease.\n\nThe word is an aesthetic one. *Lethargic* is a symptom, *sluggish* is a complaint, *lazy* is an accusation — **languid** is the only one of the four that can be a compliment. A languid gesture, a languid summer afternoon, a languid gaze: slow enough to be stylish. Even in its weaker sense it stays poetic rather than clinical — you'd write \"languid after the fever,\" not put it in a chart. The exception is business prose, where **languid trading** just means limp and disappointing.",
+  "trap": null,
+  "trick_line": "**Lang**uid moves at the pace of a **lang**uage spoken in a drawl — long, slow, and rather attractive.",
+  "trick_unpack": "The buried \"lang\" gives you the *long, drawn-out* pace, and the drawl gives you the tone: unhurried, not diseased.",
+  "sentences": [
+    "The heat pressed down until the whole household turned **languid**, moving between shuttered rooms with the slowness of sleepwalkers.",
+    "Three days off and I've gone completely **languid** — I got up at noon and considered that an achievement."
+  ],
+  "in_the_wild": null,
+  "etymology": "Latin **languēre** = *\"to be faint, to droop.\"* It hands you a tight family worth owning: **languid** (slow and drooping), **languor** (the pleasant heavy state itself), and **languish** (to droop *over time* — to waste away, or sit neglected: *the bill languished in committee*).",
+  "one_line": "Slow and drooping with no energy — often attractively so.",
+  "root": "languēre (to be faint, to droop)",
+  "root_family": [
+    "languish",
+    "languor",
+    "languorous",
+    "languidly"
+  ],
+  "confusables": [
+    "languish",
+    "languor",
+    "limpid",
+    "liquid"
+  ],
+  "sense_tags": [
+    "listless",
+    "unhurried",
+    "weak",
+    "slow",
+    "dreamy"
+  ],
+  "register": "literary",
+  "connotation": "depends",
+  "groups": [
+    23
+  ]
+}

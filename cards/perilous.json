@@ -1,40 +1,38 @@
 {
   "word": "perilous",
   "pos": "adj.",
-  "pron": "PER-uh-luhs",
-  "pron_note": null,
-  "means": "Full of **peril** — dangerous in a way that threatens ruin, injury, or death.\n\n*Dangerous* is the everyday word; **perilous** is a grade up in both intensity and register. It belongs to voyages, mountain passes, rescue missions and, figuratively, to situations one step from collapse — *a perilous financial position*, *perilously close to war*. A dangerous road might break your axle; a perilous one drops away on the outside edge. You would call a chemical dangerous, not perilous — the word wants stakes and a story, and it carries a faint literary lift that keeps it out of casual speech unless you're being dramatic on purpose.",
+  "pron": "PERR-uh-luhs",
+  "pron_note": "Three syllables — not \"PERR-luhs.\"",
+  "means": "Full of danger; likely to get you hurt, ruined, or killed.\n\n*Dangerous* is the flat, everyday word — a dangerous road, a dangerous chemical. **Perilous** is its elevated cousin: it carries weight and a whiff of narrative, and it attaches to journeys, crossings, voyages, missions, and *times*. It also stretches beyond physical harm to precarious situations — a company in a perilous financial position isn't about to explode, it's about to collapse. Reach for it when the danger is grave and the moment feels consequential; use it for a wobbly stepladder and you sound like you're narrating a trailer.",
   "trap": null,
-  "trick_line": "**Peril**ous is one letter from **perish** — that's the grade of danger it means.",
-  "trick_unpack": "The sound hook fixes the intensity: not merely risky, but the kind of danger you might not walk away from.",
+  "trick_line": "**Peril** is sitting right inside it — and peril is what heroes face, not what you find in the kitchen.",
+  "trick_unpack": "The hidden word gives you the meaning free; the company peril keeps (quests, voyages, crossings) gives you the grand register.",
   "sentences": [
-    "The expedition's final ascent was **perilous**, undertaken in failing light with the ropes already frayed.",
-    "Three coffees in and no sleep — driving home was a **perilous** idea and I knew it."
+    "The expedition's final ascent was the most **perilous** stage, undertaken in darkness and thinning air.",
+    "Lending him the car with no insurance? Mate, that's a **perilous** move."
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **perīculum** = *\"danger, a trial, a testing\"* — from a root meaning **\"to try, to risk.\"**\n\nThat root pays off elsewhere: to **experience** something is to have come through the trial of it, an **experiment** is a controlled risk, and an **expert** is someone who has run the trial often enough to be sure. Danger and knowledge from the same seed.",
-  "one_line": "Dangerous enough that you might not survive it.",
-  "root": "perīculum (danger, trial) ← per- (to try, risk)",
+  "in_the_wild": "The US national anthem: *\"through the **perilous** fight, o'er the ramparts we watched...\"* — a battle at night, exactly the grand-danger register the word lives in.",
+  "etymology": "Latin **perīculum** = *\"a trial, a risk\"* — from a root meaning *to try, to attempt*.\n\nThat root pays out elsewhere: **experīrī** (*\"to try out\"*) gives you **experience**, **experiment**, and **expert** — all of them people or things that have been *tested*. Peril is simply the test that can kill you.",
+  "one_line": "Full of grave danger; risky in a serious, weighty way.",
+  "root": "perīculum (trial, risk, danger)",
   "root_family": [
     "peril",
     "imperil",
-    "parlous",
     "experience",
     "experiment",
     "expert",
-    "empirical"
+    "parlous"
   ],
   "confusables": [
     "parlous",
-    "perishable",
-    "peerless",
-    "puerile"
+    "precarious",
+    "perennial"
   ],
   "sense_tags": [
     "dangerous",
     "risky",
-    "precarious",
-    "life-threatening"
+    "hazardous",
+    "precarious"
   ],
   "register": "formal",
   "connotation": "negative",

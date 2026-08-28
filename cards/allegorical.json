@@ -1,0 +1,43 @@
+{
+  "word": "allegorical",
+  "pos": "adj.",
+  "pron": "al-uh-GOR-i-kuhl",
+  "pron_note": "The noun shifts the stress to the front: allegory = AL-uh-gor-ee.",
+  "means": "Describing a story, painting or film whose surface content **systematically stands for something else** — a moral, a political argument, a religious scheme.\n\nThe word implies *machinery*, not decoration. A symbol can be a single glinting detail; an allegory is a full parallel structure, where each character and event has an assigned counterpart in the real subject. Because of that, \"allegorical\" often carries a faint chill in criticism — it hints that the story is a delivery vehicle for a message, and that once you've decoded it there's nothing left to discover.",
+  "trap": null,
+  "trick_line": "**If you can swap every character for an idea and the story still runs, it's allegorical.**",
+  "trick_unpack": "Symbolism only decorates a story, but allegory *is* the story, so the substitution has to hold all the way through.",
+  "sentences": [
+    "Bunyan's *The Pilgrim's Progress* is relentlessly **allegorical**: the hero is Christian, the swamp is Despond, and the road is salvation itself.",
+    "Everyone said the film was just a heist movie, but it's obviously **allegorical** — the bank is the government and the crew is us."
+  ],
+  "in_the_wild": "Orwell's **Animal Farm** is the standard example: every pig, horse and dog maps onto a figure in the Russian Revolution, which is why it gets taught as allegory rather than as a story about farming.",
+  "etymology": "Greek **allos** = *\"other\"* + **agoreuein** = *\"to speak in the agora,\"* the public marketplace. So: **to speak in public but mean something other than what you say.**\n\nBoth halves pay off elsewhere: *allos* gives **allergy** (the body reacting *otherly*), **allonym**, **allele**; the *agora* gives **agoraphobia** (fear of the open square) and even **category** (*kata-* + *agoreuein*, originally \"to accuse publicly\").",
+  "one_line": "Using characters and events as a coded stand-in for bigger ideas.",
+  "root": "allos (other) + agoreuein (to speak publicly, from agora)",
+  "root_family": [
+    "allergy",
+    "allele",
+    "allonym",
+    "agoraphobia",
+    "category",
+    "allegory"
+  ],
+  "confusables": [
+    "allegoric",
+    "analogical",
+    "categorical"
+  ],
+  "sense_tags": [
+    "symbolic",
+    "hidden-meaning",
+    "literary-device",
+    "figurative",
+    "parable"
+  ],
+  "register": "literary",
+  "connotation": "neutral",
+  "groups": [
+    33
+  ]
+}

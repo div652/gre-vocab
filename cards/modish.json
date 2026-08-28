@@ -1,0 +1,46 @@
+{
+  "word": "modish",
+  "pos": "adj.",
+  "pron": "MOH-dish",
+  "pron_note": "Long \"oh\" — like *mode*, not like *modest*.",
+  "means": "Fashionable, stylish, in step with what's current.\n\nBut it almost never means *elegant*. **Modish** points at the calendar, not at taste: it's fashionable *right now*, which quietly implies it won't be next year. Call a jacket **stylish** and you've praised it; call it **modish** and you've suggested it's chasing something. Writers use it for ideas as much as clothes — a *modish* theory is one that's trendy in seminar rooms, and the speaker is not impressed.",
+  "trap": null,
+  "trick_line": "**modish = mode + -ish** — in the current *mode*, with the **-ish** doing the sneering.",
+  "trick_unpack": "That *-ish* suffix hedges everywhere it appears (*newish, youngish, girlish*), and here it downgrades \"fashionable\" into \"merely fashionable.\"",
+  "sentences": [
+    "Critics dismissed the novel's fragmented structure as **modish** — a technique borrowed from whoever was being praised that season.",
+    "He turned up in some **modish** little collarless jacket that'll be embarrassing by Christmas."
+  ],
+  "in_the_wild": "**Pie à la mode.** French *à la mode* = \"in the fashion\" — ice cream on pie was simply the fashionable way to serve it, and the phrase stuck to the dessert. Same *mode* sitting inside *modish*.",
+  "etymology": "French **mode** = *\"fashion, manner,\"* from Latin **modus** = *\"measure, manner.\"* One root, a big family: **mode, model, modern, moderate, modify, à la mode, modus operandi** — and **outmoded**, which is exactly what everything modish eventually becomes.",
+  "one_line": "Fashionable right now — and faintly mocked for it.",
+  "root": "modus (measure, manner) → French mode (fashion)",
+  "root_family": [
+    "mode",
+    "model",
+    "modern",
+    "moderate",
+    "modify",
+    "outmoded",
+    "modus operandi",
+    "à la mode"
+  ],
+  "confusables": [
+    "modest",
+    "modal",
+    "outmoded",
+    "faddish"
+  ],
+  "sense_tags": [
+    "fashionable",
+    "trendy",
+    "current",
+    "faddish",
+    "stylish"
+  ],
+  "register": "literary",
+  "connotation": "depends",
+  "groups": [
+    20
+  ]
+}

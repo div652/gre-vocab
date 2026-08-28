@@ -1,0 +1,44 @@
+{
+  "word": "suspect",
+  "pos": "adj. (also n., v.)",
+  "pron": "SUS-pekt",
+  "pron_note": "Adjective and noun are SUS-pekt; the verb shifts to suh-SPEKT. The GRE tests the adjective.",
+  "means": "**Adj.:** open to doubt — dodgy, questionable, not to be relied on. **Not** \"feeling suspicion,\" but *attracting* it.\n\nDirection is the whole point: the adjective is always passive. A **suspect** claim is one *we* doubt; it says nothing about what the claim thinks. Compare *suspicious*, which swings both ways — a suspicious neighbour may be watching you, or being watched.\n\nTone is dry understatement. Calling data \"suspect\" is a quiet, professional way of saying it may be garbage: cooler than *fraudulent*, more damning than *unproven*. It's the word an auditor or a referee uses when they don't yet want to say *fake*.",
+  "trap": null,
+  "trick_line": "**SUS**-pect starts with **sus** — and \"sus\" means exactly that: dodgy, not to be trusted.",
+  "trick_unpack": "The slang is literally clipped from this word, so the stress that lands on **SUS** is also the meaning of the adjective.",
+  "sentences": [
+    "The committee dismissed the survey, noting that its sampling method was **suspect** and its margins of error implausibly narrow.",
+    "Three sources, all quoting each other? That timeline looks pretty **suspect** to me."
+  ],
+  "in_the_wild": "Sports commentary lives on this adjective — \"their defence is **suspect**\", \"the knee is **suspect**\". It's the pundit's polite way of saying *this will fall apart under pressure*.",
+  "etymology": "Latin **sub-** (\"under\") + **specere** (\"to look\") — to look at someone *from underneath*, sideways, askance. That sidelong glance is still in the word.\n\n**specere** is a GRE workhorse: **inspect**, **spectacle**, **conspicuous**, **circumspect** (looking around you = cautious), **perspicacious**, **prospect**, **retrospect**.",
+  "one_line": "Arousing doubt; questionable, dodgy, not to be relied on.",
+  "root": "specere (to look), sub- (under)",
+  "root_family": [
+    "inspect",
+    "spectacle",
+    "conspicuous",
+    "circumspect",
+    "perspicacious",
+    "prospect",
+    "retrospect",
+    "specimen"
+  ],
+  "confusables": [
+    "suspicious",
+    "suspicion",
+    "susceptible"
+  ],
+  "sense_tags": [
+    "dubious",
+    "distrust",
+    "questionable",
+    "unreliable"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    25
+  ]
+}

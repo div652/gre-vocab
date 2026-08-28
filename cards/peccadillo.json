@@ -1,0 +1,39 @@
+{
+  "word": "peccadillo",
+  "pos": "n.",
+  "pron": "pek-uh-DIL-oh",
+  "pron_note": "English keeps the double-l hard: DIL-oh, not the Spanish \"DEE-yoh\". Plural: peccadilloes or peccadillos.",
+  "means": "A **small sin** — a minor offence, a trifling fault, the kind of wrongdoing nobody is going to prosecute.\n\nThe word does two things at once: it admits the fault *and* waves it away. You cannot call something a peccadillo without also excusing it, which is why it turns up in indulgent, faintly amused, worldly-wise sentences — often about appetites (drinking, gambling, flirting) rather than blunders. Note the difference from its neighbours: a **transgression** is grave, a **foible** is a harmless quirk of temperament and not an offence at all, and a peccadillo sits between them — a real wrong, deliberately shrunk.",
+  "trap": null,
+  "trick_line": "**Pecc**adillo starts like **peck** — and it ends in the Spanish \"little\" suffix **-illo**. A peck of a sin, not a bite.",
+  "trick_unpack": "The sound tells you the scale: a peck is the smallest thing a bird can do to you, and *-illo* shrinks whatever it's attached to.",
+  "sentences": [
+    "His biographers treat the affair as a **peccadillo**, tucked into a footnote between two chapters of genuine achievement.",
+    "Leaving the milk out isn't a crime, it's a **peccadillo** — stop apologising."
+  ],
+  "in_the_wild": "Standard political-scandal vocabulary: reporters reach for \"youthful **peccadilloes**\" precisely when a party wants the story filed under *minor* and forgotten.",
+  "etymology": "Spanish **pecadillo**, little sin — diminutive of *pecado*, from Latin **peccāre**, *\"to sin, to stumble.\"*\n\nSame root gives you the high-value GRE word **impeccable**: literally *un-sin-able*, incapable of fault — hence flawless taste, an impeccable record. Also **peccant** (offending, faulty).",
+  "one_line": "A small, easily forgiven sin or minor fault.",
+  "root": "peccāre (to sin)",
+  "root_family": [
+    "impeccable",
+    "peccant",
+    "peccadillo"
+  ],
+  "confusables": [
+    "armadillo",
+    "peculado"
+  ],
+  "sense_tags": [
+    "minor-offence",
+    "sin",
+    "fault",
+    "forgivable",
+    "trivial"
+  ],
+  "register": "formal",
+  "connotation": "negative",
+  "groups": [
+    27
+  ]
+}

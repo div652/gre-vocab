@@ -1,0 +1,40 @@
+{
+  "word": "woeful",
+  "pos": "adj.",
+  "pron": "WOH-fuhl",
+  "pron_note": "First syllable rhymes with go, not goo — WOH, never WOO.",
+  "means": "Two senses, and the GRE will use either.\n\n**1. Full of sorrow; expressing grief** — a woeful sigh, a woeful expression.\n**2. Pitifully bad; lamentably inadequate** — a woeful performance, a woeful lack of preparation.\n\nSense 2 is the one that trips people, and it is a *judgement*, not a description: calling a defence woeful says it was so incompetent that watching it was painful. Compare **bad** (flat), **dismal** (bleak, joyless), **abysmal** (bottomlessly bad, pure scale) — *woeful* alone carries the sting of grief, as though the failure were a small tragedy. It also runs faintly theatrical: a woeful face is a face wearing its sadness for an audience, which is why *woeful* pairs so naturally with sarcasm.",
+  "trap": null,
+  "trick_line": "**Woeful defending doesn't *feel* woe — it *causes* it.**",
+  "trick_unpack": "That flip is the whole second sense: the thing isn't sad, it's so bad that it makes *you* despair.",
+  "sentences": [
+    "The report described a **woeful** neglect of the archive: damp ledgers, unlabelled boxes, whole decades unaccounted for.",
+    "Three hours of revision and I still bombed it — **woeful**, honestly."
+  ],
+  "in_the_wild": "Football commentary and match reports live on this word — \"a **woeful** clearance\", \"**woeful** finishing\" — always meaning bad enough to be sad, never merely sad.",
+  "etymology": "**Woe** is Old English **wā** — not a noun originally but a *cry*, the sound you make when struck. That's why the word still sounds like a wail.\n\nSame root gives **woebegone**, literally *\"beset by woe\"* — surrounded by it, hence that hangdog, defeated look.",
+  "one_line": "Full of grief — or so badly done it's pitiable.",
+  "root": "Old English wā (a cry of grief)",
+  "root_family": [
+    "woe",
+    "woebegone",
+    "woesome"
+  ],
+  "confusables": [
+    "rueful",
+    "woebegone",
+    "doleful"
+  ],
+  "sense_tags": [
+    "sorrowful",
+    "deplorable",
+    "inadequate",
+    "pitiable",
+    "lamenting"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    20
+  ]
+}

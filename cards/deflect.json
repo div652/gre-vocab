@@ -1,0 +1,44 @@
+{
+  "word": "deflect",
+  "pos": "v.",
+  "pron": "dih-FLEKT",
+  "pron_note": null,
+  "means": "To turn something **aside from its course** — a bullet, a blow, a beam of light. Figuratively: to fend off criticism, blame, or an awkward question by **steering attention elsewhere**.\n\nThe key is that nothing is stopped or absorbed — it is *angled away*. A blocker takes the hit; a deflector lets it glance off. That's why the figurative use carries a faint whiff of evasion: you *rebut* a charge by answering it, you **deflect** it by making it someone else's problem. Compared with *dodge* or *duck*, though, deflect sounds practised and controlled — the politician who deflects is smooth, not panicking.",
+  "trap": "**deflect ≠ defect** — one letter apart. **Deflect** = bend aside. **Defect** *(n.)* = a flaw; *(v., dee-FEKT)* = to desert your country or side.",
+  "trick_line": "**Re**flect bends it **back**; **de**flect bends it **away** — either way, it never sticks to you.",
+  "trick_unpack": "Both share *flect* (\"bend\"), so the prefix does all the work: *re-* returns the thing to its source, *de-* just sends it off sideways.",
+  "sentences": [
+    "Pressed on the missing funds, the minister **deflected** the question toward his predecessor and moved briskly on.",
+    "Every time I ask him about the wedding date he **deflects** — suddenly he's very interested in the dog."
+  ],
+  "in_the_wild": "**Deflector shields** in *Star Wars* and *Star Trek*: they don't absorb incoming fire, they bend it away from the hull — the word's literal job, in one bit of sci-fi hardware.",
+  "etymology": "Latin **de-** (*away*) + **flectere** (*to bend*). That root is a GRE goldmine: **flexible** (bendable), **reflect** (bend back), **inflection** (a bend in a curve, or in the voice), **genuflect** (bend the knee), **flexor** (the muscle that bends a joint).",
+  "one_line": "To turn aside; to fend off blame by redirecting it.",
+  "root": "flectere (to bend)",
+  "root_family": [
+    "reflect",
+    "flexible",
+    "inflection",
+    "genuflect",
+    "flexor",
+    "deflection",
+    "circumflex"
+  ],
+  "confusables": [
+    "defect",
+    "reflect",
+    "deflate",
+    "inflect"
+  ],
+  "sense_tags": [
+    "redirecting",
+    "evading",
+    "turning-aside",
+    "blame-shifting"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    18
+  ]
+}

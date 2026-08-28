@@ -2,33 +2,32 @@
   "word": "gainsay",
   "pos": "v.",
   "pron": "GAYN-say",
-  "pron_note": null,
-  "means": "To **deny, contradict, or dispute** the truth of something — to say it isn't so.\n\nBookish and slightly archaic; nobody says it in a kitchen argument. Note the polarity: it lives almost entirely in **negative** constructions — *\"none can gainsay it,\" \"there is no gainsaying his talent.\"* So the word usually functions as praise-by-armour: the claim is beyond contradiction. Unlike **refute**, it carries no proof — gainsaying is flat denial, the bare act of opposing what someone asserted.",
+  "pron_note": "Also heard as gayn-SAY; both are accepted.",
+  "means": "To **deny, contradict, or dispute** something — to declare that a statement or claim is not true.\n\nIt is a stiff, bookish word, and it keeps strange company: in modern English it lives almost entirely inside a negative. You will read *\"no one can gainsay her achievement\"* or *\"there is no gainsaying the numbers\"* far more often than a plain *\"he gainsaid me.\"* That habit carries the nuance — the word usually appears precisely to say that the thing is **beyond dispute**. Where *contradict* is a neutral everyday act, *gainsay* implies challenging the validity or truth of an assertion, often with a whiff of futility.",
   "trap": null,
-  "trick_line": "a-**GAIN**-st → **gainsay = say against.** And you'll nearly always meet it as *\"no one can gainsay…\"*",
-  "trick_unpack": "The *gain* is the *gain* hiding inside **against**, not the *gain* meaning profit — and the negative wrapper is half the word's meaning.",
+  "trick_line": "Nobody ever *gainsays* — things are only **\"beyond gainsaying.\"**",
+  "trick_unpack": "Lock the word to its negative frame and you get both the meaning (to say against) and the way it is actually used — to declare something undeniable.",
   "sentences": [
-    "Whatever one thinks of his methods, the results are not to be **gainsaid**.",
-    "You can moan about the guy all you like, but nobody's **gainsaying** he gets the work done."
+    "Whatever one thinks of his methods, there is no **gainsaying** the scale of what he built.",
+    "Sure, the food's overpriced — but I'm not going to **gainsay** anyone who says it's the best in town."
   ],
-  "in_the_wild": null,
-  "etymology": "Pure Old English: **gegn-** = *\"against\"* + **say**. Same *gegn-* gives you **again** and **a-gain-st** (German *gegen*, \"against\").\n\n🚫 **Nothing to do with *gain* (profit).** That one's from French *gaaigne*, \"spoils, earnings\" — a totally separate word that happens to sound identical.",
-  "one_line": "To deny or contradict — usually \"no one can gainsay it.\"",
-  "root": "Old English gegn- (against) + secgan (to say)",
+  "in_the_wild": "The King James Bible, Luke 21:15: *\"I will give you a mouth and wisdom, which all your adversaries shall not be able to **gainsay** nor resist.\"* That biblical weight is exactly why the word still sounds so formal.",
+  "etymology": "Pure Old English, and transparent once split: **gēan** (*\"against\"*) + **say**. It's the same *gēan* buried in **again** and **against** — so *gainsay* is literally *say-against*.\n\n🚫 Nothing to do with **gain** (profit). That's from French *gaaignier*; the resemblance is an accident of spelling.",
+  "one_line": "To contradict or deny — nearly always used in the negative.",
+  "root": "Old English gēan (against) + secgan (to say)",
   "root_family": [
     "again",
     "against"
   ],
   "confusables": [
     "naysay",
-    "gainful",
-    "gain"
+    "gainful"
   ],
   "sense_tags": [
-    "denying",
-    "contradicting",
-    "disputing",
-    "opposing"
+    "contradict",
+    "deny",
+    "dispute",
+    "refute"
   ],
   "register": "formal",
   "connotation": "neutral",

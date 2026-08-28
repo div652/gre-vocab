@@ -3,29 +3,31 @@
   "pos": "adj.",
   "pron": "FEE-buhl",
   "pron_note": null,
-  "means": "Lacking strength, force, or effectiveness — physically frail, or so weak as to be useless.\n\nTwo live senses. Of a body: **frail**, worn down by age or illness. Of an effort, argument, excuse, or joke: **so inadequate it's embarrassing**.\n\n*Weak* is a plain measurement; **feeble** adds a wince. It carries pity when it's a person's body (\"a feeble old man\") and contempt when it's a person's effort (\"a feeble attempt to explain\"). Either way the speaker is looking down — which is why *feeble* is rarely a word people use about themselves without irony.",
-  "trap": "⚠️ **feeble ≠ foible.** *Feeble* (adj.) = weak or ineffective. A **foible** (n.) = a small, harmless quirk of character — a minor eccentricity, not a weakness that fails you.",
-  "trick_line": "**Feeble** rhymes with **treble** — all thin high notes, no bass behind it.",
-  "trick_unpack": "A feeble grip, a feeble excuse, a feeble joke — all fail the same way, with no weight underneath.",
+  "means": "Lacking strength — physically frail (a **feeble** old man, a **feeble** pulse), or lacking force and effect (a **feeble** excuse, a **feeble** protest).\n\n*Weak* just reports a fact; **feeble** passes judgement. Applied to a body it asks for pity; applied to an effort — an argument, a joke, an apology — it drips contempt: the attempt was made, and it was pathetic. Note the built-in insufficiency, too. A feeble light isn't merely dim, it's too dim to see by.",
+  "trap": null,
+  "trick_line": "**A feeble handshake, a feeble excuse, a feeble joke** — everything *feeble* attaches to is something you'd be embarrassed by.",
+  "trick_unpack": "The word's stock collocations all carry a sneer, so remember it as \"weak *and* not worth respecting\" rather than plain weak.",
   "sentences": [
-    "Decades of illness had left him **feeble**, unable to cross the room without a hand at his elbow.",
-    "\"I missed the bus\" is a pretty **feeble** excuse for turning up two hours late."
+    "By his last winter the composer was too **feeble** to hold a pen, and dictated the final bars to his daughter.",
+    "\"Traffic\" is a pretty **feeble** excuse when you live ten minutes away."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **flēbilis** = *\"worthy of being wept over,\"* from **flēre**, *\"to weep.\"* The word started as **pitiable** and only later hardened into *weak* — which is exactly why *feeble* still can't be said without a trace of pity or scorn.",
-  "one_line": "Weak to the point of being pitiful or unconvincing.",
+  "etymology": "Latin **flēbilis** = *\"to be wept over,\"* from **flēre**, *\"to weep.\"* The pity is baked into the word: something feeble is, literally, something you'd cry about.",
+  "one_line": "Weak enough to invite pity — or contempt.",
   "root": "flēbilis (lamentable), from flēre (to weep)",
-  "root_family": [],
+  "root_family": [
+    "enfeeble",
+    "feebleminded"
+  ],
   "confusables": [
-    "foible",
-    "feckless",
-    "futile"
+    "foible"
   ],
   "sense_tags": [
     "weak",
     "frail",
     "ineffective",
-    "pitiable"
+    "pitiable",
+    "insufficient"
   ],
   "register": "neutral",
   "connotation": "negative",

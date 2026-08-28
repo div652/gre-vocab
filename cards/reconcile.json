@@ -1,0 +1,41 @@
+{
+  "word": "reconcile",
+  "pos": "v.",
+  "pron": "REK-uhn-syle",
+  "pron_note": "The noun shortens that last vowel: reconciliation = rek-uhn-sil-ee-AY-shuhn.",
+  "means": "Three senses, all built on the same idea — **bringing back into agreement**:\n\n1. **People:** to restore friendship after a falling-out. *The brothers reconciled after ten years.*\n2. **Facts or figures:** to make two conflicting things agree, or show they can both be true. *Reconcile the ledger with the bank statement.*\n3. **reconcile oneself to:** to accept something unwelcome you cannot change. *She reconciled herself to a second year of teaching.*\n\nThe **re-** does the heavy lifting: nothing can be reconciled unless it first came apart. There must be a rift, a discrepancy, or a fate you resisted. Note also how sense 3 flips the emotional charge — senses 1 and 2 are victories, but *reconciling yourself to* something is quiet defeat with the fighting stopped.",
+  "trap": null,
+  "trick_line": "**Reconcile always presumes a rift** — friends who fell out, columns that don't match, a life you didn't want.",
+  "trick_unpack": "If nothing was ever in conflict, there is nothing to reconcile — so on the GRE the word signals that a prior disagreement is being assumed.",
+  "sentences": [
+    "No theory has yet **reconciled** the elegance of general relativity with the messiness of quantum mechanics.",
+    "They finally **reconciled** over a pint, though neither would say who apologised first."
+  ],
+  "in_the_wild": "Every banking app's month-end ritual: **reconciling** your statement — checking your records against theirs until the two columns agree. That's sense 2 in your pocket.",
+  "etymology": "Latin **re-** (*back*) + **conciliāre** (*to bring together, win over*), from **concilium** = *a council* — literally people **called together** into one room.\n\nSo the family: **council** (the gathering), **conciliate** / **conciliatory** (win someone over), **reconcile** (get them back in the room). To reconcile is to call the parties back to the table.",
+  "one_line": "Restore harmony, make two things agree, or accept the unwelcome.",
+  "root": "concilium (council, assembly; from com- + calare, to call together)",
+  "root_family": [
+    "conciliate",
+    "conciliatory",
+    "council",
+    "reconciliation",
+    "irreconcilable"
+  ],
+  "confusables": [
+    "conciliate",
+    "reconvene"
+  ],
+  "sense_tags": [
+    "peacemaking",
+    "harmonizing",
+    "accepting",
+    "resignation",
+    "accounting"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    16
+  ]
+}

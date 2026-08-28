@@ -1,0 +1,43 @@
+{
+  "word": "jeopardize",
+  "pos": "v.",
+  "pron": "JEP-er-dyze",
+  "pron_note": "Spelled *jeo-*, said \"jep\" — never \"jee-OP.\" British spelling: jeopardise.",
+  "means": "To **put at risk** — to expose something to danger, loss, or failure.\n\nThe object is almost always a **good you already hold**: a career, a ceasefire, funding, a reputation, someone's safety. *Endanger* points at bodies and lives; *jeopardize* points at stakes and standing. It also implies **your own action** did it — you jeopardize a deal by mouthing off, not by bad luck. And the loss is only threatened, never certain: the thing is still salvageable, which is why the word so often arrives as a warning (\"you're jeopardizing everything\") rather than an obituary.",
+  "trap": null,
+  "trick_line": "Hear the **prize** in jeopar-**dize** — you can only jeopardize something you've already won.",
+  "trick_unpack": "The word needs an asset in hand: your job, your visa, your lead, your marriage.",
+  "sentences": [
+    "A single leaked memo **jeopardized** eighteen months of quiet diplomacy.",
+    "Don't **jeopardize** your whole scholarship over one stupid party."
+  ],
+  "in_the_wild": "The game show **Jeopardy!** is named for exactly this: every answer you give puts money you already have on the line.",
+  "etymology": "Old French **jeu parti** = *\"a divided game\"* — a chess position or wager so evenly balanced that either side could win. An even-odds game became an uncertain outcome, and uncertainty became risk.\n\n**jeu** comes from Latin *iocus*, \"jest\" — the same root as **joke, jocular, jocose**. **parti** from *partire*, \"to divide\" — **part, partition, apartment**.",
+  "one_line": "To put something valuable at risk of loss or harm.",
+  "root": "jeu parti (a divided/even-odds game) &lt; Latin iocus + partire",
+  "root_family": [
+    "joke",
+    "jocular",
+    "jocose",
+    "jeopardy",
+    "part",
+    "partition",
+    "apartment"
+  ],
+  "confusables": [
+    "endanger",
+    "imperil",
+    "jettison"
+  ],
+  "sense_tags": [
+    "risk",
+    "endangerment",
+    "threat",
+    "loss"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    24
+  ]
+}

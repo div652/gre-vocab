@@ -1,34 +1,39 @@
 {
   "word": "opprobrium",
   "pos": "n.",
-  "pron": "uh-PROH-bree-um",
-  "pron_note": "The opening o is a schwa — \"uh-\", not \"op-\".",
-  "means": "**Harsh public condemnation** heaped on someone — and, in the second sense, **the disgrace that condemnation leaves behind**.\n\nTwo things at once, then: the scorn and the stain. *Criticism* judges your work; opprobrium judges *you*, publicly, and assumes you deserve it. It is a heavy, formal word — the register of leader columns and courtrooms, not of a bad review. It also travels in a fixed crowd: opprobrium is **heaped**, **poured**, or **brought down upon** a person; nobody ever receives a little of it.",
-  "trap": "⚠️ **opprobrium ≠ approbation.**\n- **opprobrium** = public disgrace\n- **approbation** = official approval\n\nNear-identical sound, exactly opposite verdicts — and the GRE knows it.",
-  "trick_line": "**Opp**robrium is **opp**osed applause — the verdict of an **opp**onent.",
-  "trick_unpack": "That *op-* is the same \"against\" you hear in *oppose* and *opponent*, so opprobrium is approbation with the sign flipped.",
+  "pron": "uh-PROH-bree-uhm",
+  "pron_note": "Second syllable is a long \"PROH\", not \"prob\" as in probable.",
+  "means": "**Harsh public criticism and scorn** directed at someone — and, in its second sense, **the disgrace that results** from it.\n\nScale and audience are what set it apart. Criticism can be one editor's note; **opprobrium is a crowd**. It carries a moral charge — the target hasn't merely been wrong, they've done something the public finds *shameful* — and the word is heavy, formal, the register of leaders, editorials and sentencing remarks. Note the double life: you can *heap* opprobrium on a man, and he can *live under* it afterwards.",
+  "trap": "⚠️ **opprobrium ≠ approbation.** One letter apart, near-opposites: **approbation** = *approval, praise*; **opprobrium** = *condemnation, disgrace*. **A**pprobation **a**pplauds.",
+  "trick_line": "**Opprobrium is always *heaped*** — never a pinch of it, always a pile, and always in public.",
+  "trick_unpack": "The collocation gives you the two things the definition alone won't: the sheer quantity, and the fact that a crowd is doing the pouring.",
   "sentences": [
-    "The minister resigned not for any crime but under the sheer weight of public **opprobrium**.",
-    "He still can't order a pint in that pub without a fresh helping of **opprobrium** for the own goal."
+    "The verdict drew such public **opprobrium** that the judge's name was known in every household within a week.",
+    "He deleted the tweet in ten minutes, but by then the **opprobrium** was already unstoppable."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **opprobrium** = *ob-* (\"against\") + *probrum* (\"a shameful act, a reproach\") — literally *a disgrace thrown at you*.\n\n🚫 **Nothing to do with *approbation*, *probity*, or *probable*.** Those come from Latin *probare*, \"to test, to prove good.\" Same sound, opposite family.",
-  "one_line": "Public disgrace; the scorn poured on someone, and the stain it leaves.",
-  "root": "ob- (against) + probrum (shameful act, reproach)",
+  "etymology": "Latin **ob-/op-** = *\"against\"* + **probrum** = *\"a shameful act, a reproach.\"* Literally: the shame thrown **at** you.\n\nThat **op-** is the prefix of hostility across English — *oppose, opponent, obstruct, object*. Whenever you see it fused onto a root, something is being aimed **against** something else.",
+  "one_line": "Harsh public scorn — and the disgrace it leaves behind.",
+  "root": "ob-/op- (against) + probrum (shameful act, reproach)",
   "root_family": [
-    "opprobrious"
+    "opprobrious",
+    "oppose",
+    "opponent",
+    "obstruct",
+    "object"
   ],
   "confusables": [
     "approbation",
-    "probity",
-    "opprobrious"
+    "opprobrious",
+    "reprobate",
+    "probity"
   ],
   "sense_tags": [
-    "disgrace",
     "public condemnation",
+    "disgrace",
     "scorn",
-    "infamy",
-    "reproach"
+    "shame",
+    "censure"
   ],
   "register": "formal",
   "connotation": "negative",

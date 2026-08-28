@@ -1,38 +1,34 @@
 {
   "word": "dwindling",
-  "pos": "adj. / v. (pres. participle of *dwindle*)",
+  "pos": "adj. / v. (pres. part. of dwindle)",
   "pron": "DWIN-dling",
   "pron_note": null,
-  "means": "Steadily shrinking — getting smaller, fewer, or weaker bit by bit, with the end point being **nothing**.\n\nSpeed and direction are what set it apart. A stock can *fall* and bounce back; something **dwindling** is on a slow one-way slide toward zero — supplies, savings, crowds, hope. It's continuous rather than sudden, which is why it pairs with things that run out: *dwindling reserves, a dwindling population, dwindling patience*. Always a loss, never a gain — you cannot dwindle upward.",
-  "trap": "⚠️ **dwindle ≠ swindle.** One letter apart: **dwindle** = shrink away; **swindle** = cheat someone out of money. A swindler can *make* your savings dwindle.",
-  "trick_line": "**Hidden in d-WIND-le is *wind* — things wind down, turn by turn, until the spring is dead.**",
-  "trick_unpack": "Nothing dwindles in one crash; it unwinds gradually toward empty.",
+  "means": "Steadily shrinking, bit by bit, in a way that points toward nothing left.\n\n*Decreasing* is neutral arithmetic and can stop anywhere; *plummeting* is fast and dramatic. **Dwindling** is slow, continuous, and already sad — it carries the implication that the thing will eventually run out. It also has no villain: supplies dwindle, crowds dwindle, hope dwindles, all by themselves, with nobody doing it. That's why it attaches to things you're counting anxiously — funds, numbers, reserves, time.",
+  "trap": null,
+  "trick_line": "**Dwindle** is **swindle** with one letter changed — and both take your money slowly, a little at a time.",
+  "trick_unpack": "The rhyme fixes the gradualness: nothing is seized in one grab, it just quietly gets less and less.",
   "sentences": [
-    "As the drought wore on, the village's **dwindling** water supply was rationed to a bucket a household.",
-    "Ticket sales are **dwindling** — we had forty people last month and eleven showed up last night."
+    "Attendance at the village church has **dwindled** from three hundred to a scattered dozen in the front pews.",
+    "We started with a full tank and a big plan, and by Tuesday both were **dwindling** fast."
   ],
-  "in_the_wild": null,
-  "etymology": "Old English **dwīnan** = *\"to waste away, fade.\"* The **-le** ending is the frequentative — it turns an action into lots of tiny repeated ones, which is exactly the word's meaning: not one loss but a thousand small ones.\n\nThat **-le** shows up everywhere once you see it: *sparkle* (repeated sparks), *crumble*, *trickle*, *wrinkle*, *dazzle*.",
-  "one_line": "Steadily shrinking away toward nothing.",
-  "root": "dwīnan (Old English: to waste away, fade) + -le (frequentative)",
+  "in_the_wild": "It's the default word of business and climate reporting: *dwindling cash reserves*, *dwindling glaciers*, *dwindling subscriber numbers*. If you learn one collocation, learn **dwindling reserves** — it's practically a fixed phrase.",
+  "etymology": "Old English **dwīnan** = *\"to waste away, languish.\"* The **-le** on the end is the English \"keep doing it, little by little\" suffix — the same one in *spark-le, crumb-le, trick-le, nib-ble*. So *dwindle* is literally **to go on wasting away, in small instalments** — the suffix, not the root, is what encodes the slowness.",
+  "one_line": "Steadily shrinking, little by little, toward nothing.",
+  "root": "dwīnan (Old English: to waste away)",
   "root_family": [
-    "sparkle",
-    "crumble",
-    "trickle",
-    "wrinkle",
-    "dazzle"
+    "dwine"
   ],
   "confusables": [
     "swindle",
-    "kindle",
-    "dawdle"
+    "spindle",
+    "kindle"
   ],
   "sense_tags": [
     "shrinking",
     "decline",
     "depletion",
     "gradual",
-    "scarcity"
+    "running out"
   ],
   "register": "neutral",
   "connotation": "negative",

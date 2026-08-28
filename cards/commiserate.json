@@ -1,0 +1,40 @@
+{
+  "word": "commiserate",
+  "pos": "v.",
+  "pron": "kuh-MIZ-uh-rayt",
+  "pron_note": null,
+  "means": "To express sympathy or sorrow with someone over their misfortune — to share in their bad luck out loud.\n\nThe word is horizontal, not vertical. You *console* someone from a position of strength and you *pity* them from above, but you **commiserate** as a fellow sufferer — same layoff, same lost match, same terrible manager. It also carries a faint social warmth: commiserating usually means talking, often over a drink, and it fixes nothing by design. Note the grammar, which encodes the meaning: you commiserate **with** a person, **over** or **about** the disaster.",
+  "trap": "⚠️ **commiserate ≠ commensurate.**\n- **commiserate** *(kuh-MIZ-uh-rayt)* = share in someone's misery\n- **commensurate** *(kuh-MEN-suh-rit)* = proportionate, in measure with — *\"a salary commensurate with experience\"*\n\nSame prefix, different second half: *miser* (wretched) vs *mensura* (measure).",
+  "trick_line": "**Co-miser-ate** — there's a **miser** in the middle, and the two of you are equally poor in luck.",
+  "trick_unpack": "The *co-* is load-bearing: you climb down into the misery beside them rather than dispensing comfort from above, which is why the word almost always takes *with*.",
+  "sentences": [
+    "After the verdict, the defence team retired to a back room to **commiserate** over eighteen months of wasted work.",
+    "We spent the entire train ride home **commiserating** about our boss."
+  ],
+  "in_the_wild": "British sport and quiz shows run on the pairing **\"congratulations or commiserations\"** — the winner gets one, the loser gets the other. That stock phrase is the whole meaning in a word: what you say to the person who just lost.",
+  "etymology": "Latin **com-** (*with*) + **miser** (*wretched, pitiable*) — literally *to be wretched together*.\n\nThat root pays out widely: **misery**, **miserable**, **miserly** (a **miser** is, etymologically, a wretch), and the *Miserere* psalm — \"have mercy.\"",
+  "one_line": "To share in someone's misery, sympathising as a fellow sufferer.",
+  "root": "miser (wretched, pitiable) + com- (with)",
+  "root_family": [
+    "misery",
+    "miserable",
+    "miser",
+    "miserly",
+    "Miserere"
+  ],
+  "confusables": [
+    "commensurate",
+    "commemorate"
+  ],
+  "sense_tags": [
+    "sympathy",
+    "condolence",
+    "shared-misfortune",
+    "consolation"
+  ],
+  "register": "neutral",
+  "connotation": "neutral",
+  "groups": [
+    29
+  ]
+}

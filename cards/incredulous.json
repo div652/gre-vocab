@@ -1,40 +1,42 @@
 {
   "word": "incredulous",
   "pos": "adj.",
-  "pron": "in-KREJ-uh-luhs",
-  "pron_note": "The middle syllable is \"krej,\" not \"kred\" — in-KRED-yoo-lus is a common slip.",
-  "means": "Unable or unwilling to believe something; showing disbelief.\n\nThis is a **reaction, not a policy**. A *skeptic* doubts by disposition — reasoned, sustained, professional. Someone incredulous has just been told something and their face is doing the work: eyebrows up, head tilted, \"you're joking.\" It's momentary, almost involuntary, and it lives in looks, stares, gasps and tones as much as in arguments.\n\nNote the two people involved: the **thing** is unbelievable, the **person** is incredulous.",
-  "trap": "**incredulous ≠ incredulous's cousin *credulous*.**\n- **incredulous** = believes too *little* — refuses to swallow it\n- **credulous** = believes too *much* — swallows anything (gullible)\n\nThey are opposites, one letter-cluster apart.",
-  "trick_line": "**-ous** words describe *people's states* — nerv**ous**, jeal**ous**, anxi**ous**, incredul**ous**. **-ible** words describe what a *thing* can have done to it — ed**ible**, aud**ible**, incred**ible**.",
-  "trick_unpack": "So the story is incredible and the listener is incredulous — never the reverse.",
+  "pron": "in-KRED-yuu-luhs",
+  "pron_note": "Often said in-KREJ-uh-luhs in fast speech; both pass.",
+  "means": "Unwilling or unable to believe something — and **showing it**.\n\nThis word lives on a face, not on a fact. An *incredible* story provokes an **incredulous** listener: raised eyebrows, flat \"you're joking,\" the pause before the laugh. It's stronger than *skeptical* (which is a considered stance, often habitual) and lighter than *dismissive* — the incredulous person hasn't decided you're lying, they just can't get the claim to go down. Note the tell: things are almost never incredulous; **people, looks, tones and stares are**.",
+  "trap": "⚠️ **incredulous ≠ credulous.**\n- **credulous** = believes *too easily* — gullible, a soft touch\n- **incredulous** = won't believe *at all* — the raised eyebrow\n\nThe conman needs a **credulous** mark; he fears an **incredulous** one.",
+  "trick_line": "The story is incred**ible**; the face is incred**ulous**.",
+  "trick_unpack": "*-ible* endings describe the thing being judged, while *-ulous* joins *jealous, zealous, querulous* as a word for how a **person** is reacting.",
   "sentences": [
-    "The jury turned **incredulous** faces toward the witness as he explained, for the third time, why the money was in his freezer.",
-    "\"You cycled here? In this?\" she said, **incredulous**, staring at his soaking shoes."
+    "The witness's account was met with **incredulous** silence from the bench.",
+    "He gave me this **incredulous** look, like — you drove four hours for a sandwich?"
   ],
-  "in_the_wild": null,
-  "etymology": "Latin **crēdere** = *\"to believe\"*, with **in-** = *not*.\n\nOne root, a lot of GRE mileage: **credible** (believable), **credence** (belief given), **credulous** (believing too easily), **creed** (what you believe), **credentials** (proof you should be believed), and **credit** — money lent because someone believed you'd pay.",
-  "one_line": "Unwilling to believe it; visibly disbelieving.",
+  "in_the_wild": "Caravaggio's famous painting **\"The Incredulity of Saint Thomas\"** — Doubting Thomas, refusing to believe until he can put his finger in the wound. That's the word in one image: not deceit, just a man who cannot accept what he's being told.",
+  "etymology": "Latin **crēdere** = *\"to believe\"* + *in-* (not). One of the highest-yield roots on the exam: **credible** (believable), **credence** (belief granted), **credentials** (things that make you believable), **creed** and **credo** (what one believes), **credit** (belief in your ability to pay), **credulous** (believing too readily).",
+  "one_line": "Unable to believe it — visible, open disbelief.",
   "root": "crēdere (to believe)",
   "root_family": [
     "credible",
     "credence",
-    "credulous",
-    "creed",
     "credentials",
-    "credit",
+    "creed",
     "credo",
-    "discredit"
+    "credit",
+    "credulous",
+    "accredit",
+    "miscreant"
   ],
   "confusables": [
-    "incredible",
     "credulous",
-    "credible"
+    "incredible",
+    "credible",
+    "incredulity"
   ],
   "sense_tags": [
     "disbelief",
     "doubt",
-    "astonishment",
-    "skepticism"
+    "skepticism",
+    "reaction"
   ],
   "register": "neutral",
   "connotation": "neutral",

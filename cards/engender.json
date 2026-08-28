@@ -3,39 +3,41 @@
   "pos": "v.",
   "pron": "en-JEN-der",
   "pron_note": null,
-  "means": "To **give rise to** something — to cause it to come into being.\n\nWhat it brings into being is almost always **abstract**: trust, resentment, loyalty, suspicion, debate, a sense of belonging. You engender *goodwill*; you don't engender a bridge. That's the whole restriction on the word, and the GRE leans on it.\n\nTone is bookish and slightly stately — the verb of leader-writers and policy documents. It's also **neutral as to outcome**: a policy can engender confidence just as easily as it engenders contempt. Compare *provoke*, which implies something sudden and usually hostile, and *cause*, which is flat and takes any object at all.",
-  "trap": null,
-  "trick_line": "**Gender** is sitting right inside it — *engender* means to **father** something, and its children are always abstract: trust, fear, doubt.",
-  "trick_unpack": "If you can't give birth to it in the mind, you can't engender it.",
+  "means": "To **give rise to**, bring about, cause something to come into being.\n\nThe object is almost always **abstract** — trust, resentment, loyalty, debate, a sense of unease. You engender *conditions and feelings*, not objects: a policy can engender confidence, but nothing engenders a bridge. Register is formal and slightly bookish; it belongs to editorials, court judgments and academic prose, where *cause* would sound blunt and *create* too deliberate. It also implies a **side-effect rather than an aim** — the thing arises from the situation, often without anyone intending it.",
+  "trap": "**engender ≠ endanger.** Same eight letters, nearly the same order — but *engender* brings something into existence, *endanger* puts something at risk. Secrecy may **engender** distrust; it may also **endanger** the deal.",
+  "trick_line": "You can engender **trust, loyalty, or hatred** — you cannot engender a chair.",
+  "trick_unpack": "The **gen-** buried in the middle means *birth* (as in *genesis*, *generate*), and what this verb gives birth to is always a feeling or a state of affairs, never a physical thing.",
   "sentences": [
-    "The commission's refusal to publish its findings **engendered** exactly the suspicion it had hoped to dispel.",
-    "Turning up with coffee for the whole team **engendered** a lot of goodwill for about a week."
+    "Decades of unexplained delays had **engendered** a deep public scepticism that no press release could dispel.",
+    "Turning up unannounced with a lawyer doesn't exactly **engender** goodwill."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **generāre** / **gignere** = *\"to beget, to produce\"*, from **genus** = *\"birth, kind, stock.\"* Old French *engendrer* — literally *to father, to breed*. The original English sense really was procreation; the modern sense just moved the offspring into the abstract.\n\nThat root is one of the best returns on the GRE: **generate, genesis, genre, genus, progeny, congenital, genealogy, indigenous** — and **gender**, which began as \"kind, sort,\" the same word as *genre*.",
-  "one_line": "To give rise to a feeling, attitude, or condition.",
-  "root": "genus, generis (birth, kind) / gignere, genitum (to beget)",
+  "etymology": "Latin **gignere / genus** = *\"to beget, to be born\"*, reaching English through Old French *engendrer*, \"to father a child.\"\n\nThat root is one of the best investments on the GRE: **genesis, generate, genre, genus, gene, congenital, progeny, indigenous, genuine, primogeniture**. Whenever you see **gen-**, think *birth or kind*.",
+  "one_line": "To give rise to — usually a feeling or a condition.",
+  "root": "gignere, genus (to beget, birth, kind)",
   "root_family": [
-    "generate",
     "genesis",
+    "generate",
+    "gene",
     "genre",
     "genus",
-    "gender",
-    "progeny",
     "congenital",
-    "genealogy",
+    "progeny",
     "indigenous",
-    "genial"
+    "genuine",
+    "primogeniture"
   ],
   "confusables": [
     "endanger",
+    "gender",
     "engineer"
   ],
   "sense_tags": [
-    "causing",
-    "producing",
-    "giving-rise-to",
-    "abstract-effects"
+    "cause",
+    "produce",
+    "give-rise-to",
+    "beget",
+    "bring-about"
   ],
   "register": "formal",
   "connotation": "neutral",

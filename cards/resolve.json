@@ -1,0 +1,45 @@
+{
+  "word": "resolve",
+  "pos": "v. / n.",
+  "pron": "ri-ZOLV",
+  "pron_note": "Unlike record or rebel, the noun does not shift stress — it's ri-ZOLV both times, never REE-zolv.",
+  "means": "**Verb:** to settle something unsettled — a dispute, a doubt, a plot — or to decide firmly to do a thing. Technically: to break something down into its parts (*resolve a force into vectors*, *resolve two stars through a telescope*).\n**Noun:** hard, settled determination.\n\nThe verb's quiet claim is **finality**: you don't *resolve* an argument you merely paused, and a story that resolves has no loose ends left. The noun is stronger and more dignified than *determination* — it names the firmness that survives *after* doubt has been faced, which is why it collocates with strain: *steely resolve*, *her resolve wavered*, *test his resolve*. You can be determined about lunch; resolve is reserved for things that cost something.",
+  "trap": null,
+  "trick_line": "**Re-solve = un-loosen the knot.** Untangle the mess (settle it, split it into strands) and what's left standing is your **resolve**.",
+  "trick_unpack": "The root means *loosen*, so every sense is a knot coming apart — a dispute, an image, a doubt — and the noun is what remains once the doubt is gone.",
+  "sentences": [
+    "Sanctions were intended to break the government's **resolve**; eighteen months on, they had only hardened it.",
+    "We finally **resolved** the seating chart at 1 a.m., and honestly nobody won."
+  ],
+  "in_the_wild": "Your monitor's **resolution** — 1080p, 4K — is exactly this word's technical sense: how finely the screen can *separate* the image into distinguishable dots. High resolution = more loosened apart into detail.",
+  "etymology": "Latin **re-** + **solvere** = *\"to loosen, untie.\"* The knot-loosening idea runs through the whole family: **solve** (untie the problem), **dissolve** (loosen apart in liquid), **absolve** (untie you from blame), **soluble**, **solution**.\n\nNote the shape: a *solution* of salt and a *solution* to a puzzle are the same word, because both are things coming undone.",
+  "one_line": "To settle firmly, or firmness itself; also, to separate into parts.",
+  "root": "solvere (to loosen, untie)",
+  "root_family": [
+    "solve",
+    "dissolve",
+    "absolve",
+    "soluble",
+    "solution",
+    "dissolute",
+    "solvent"
+  ],
+  "confusables": [
+    "resolute",
+    "irresolute",
+    "dissolve",
+    "absolve",
+    "revolve"
+  ],
+  "sense_tags": [
+    "determination",
+    "settle-a-dispute",
+    "decide-firmly",
+    "separate-into-parts"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    37
+  ]
+}

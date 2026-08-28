@@ -3,30 +3,31 @@
   "pos": "adj. (also v.)",
   "pron": "SKANT",
   "pron_note": null,
-  "means": "**Barely enough — and usually not enough.** A scant amount falls just short of what the situation requires.\n\nTwo moves to know. Before a quantity it means *just under*: \"a **scant** teaspoon,\" \"a **scant** five minutes\" — you were shortchanged. Before an abstract noun it's quietly damning: **scant evidence, scant regard, scant attention, scant comfort**. Saying a report gave the objections *scant* attention is a polite way of saying it brushed them off. The word rarely stands alone; it leans on the noun it shrinks.\n\nAs a verb (formal, less common): to skimp on something — *to scant one's duties*.",
-  "trap": "⚠️ **scant ≠ scarce.**\n- **scarce** = hard to *find* — few of them exist (water is scarce in the desert)\n- **scant** = barely *enough* — you have some, just not sufficient (scant water for four people)\n\nScarce describes supply in the world; scant describes a portion measured against a need.",
-  "trick_line": "**Scant** rhymes with **can't** — there's so little of it you *can't* do the job.",
-  "trick_unpack": "The rhyme fixes the key point: scant isn't zero, it's the amount that leaves you short.",
+  "means": "**Barely enough — and pointedly less than what was needed, expected, or deserved.**\n\n*Scarce* describes supply: the thing is hard to come by. *Scant* describes a **shortfall against a standard** — there is some, just not enough to do the job. That's why it almost always sits directly in front of a noun and carries a note of reproach: *scant evidence*, *scant regard*, *scant attention*, *scant comfort*. Saying a report gave the objections *scant attention* is a criticism of the report, not a statement about how much attention exists in the world.\n\nIt also does quiet duty as a precise measure: *a scant cup* means fill it and then take a little back.",
+  "trap": null,
+  "trick_line": "**Scant** rhymes with **can't** — there's scant flour, so you *can't* finish the cake.",
+  "trick_unpack": "Scant isn't \"none\" and it isn't \"little\" — it's the amount that leaves you unable to do the thing.",
   "sentences": [
     "The commission devoted three hundred pages to procedure and **scant** attention to the victims.",
-    "We had a **scant** five minutes to make the connection, so we ran for it."
+    "We had a **scant** ten minutes to make the connection, so we ran."
   ],
-  "in_the_wild": null,
+  "in_the_wild": "Baking recipes use it as a technical measure: **\"a scant cup of sugar\"** means fill the cup, then tip a little out — deliberately just under.",
   "etymology": null,
-  "one_line": "Barely enough; just short of what's needed.",
-  "root": "Old Norse skammr / skamt (short)",
+  "one_line": "Barely enough; noticeably short of what was needed.",
+  "root": "Old Norse skamt / skammr (short)",
   "root_family": [
     "scanty"
   ],
   "confusables": [
+    "scanty",
     "scarce",
-    "scanty"
+    "scan"
   ],
   "sense_tags": [
     "insufficient",
     "meager",
-    "barely enough",
-    "limited"
+    "barely-enough",
+    "sparse"
   ],
   "register": "formal",
   "connotation": "negative",

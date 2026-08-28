@@ -1,0 +1,45 @@
+{
+  "word": "potent",
+  "pos": "adj.",
+  "pron": "POH-tuhnt",
+  "pron_note": null,
+  "means": "Powerful — but specifically **able to produce a strong effect**. A potent drug, a potent argument, a potent symbol.\n\nWhere *strong* describes the thing itself and *forceful* describes how it's delivered, **potent** describes what it *does to you*: concentrated capacity, effect out of proportion to size. A small dose, a single sentence, a two-word slogan can all be potent. It's why the noun is **potency** — a measurable strength-per-unit, printed on pill bottles. Slightly formal, and quietly admiring of the power even when the thing wielding it is poison.",
+  "trap": "⚠️ **potent ≠ portent.** One letter apart, no relation.\n- **potent** = powerful, effective\n- **portent** *(n.)* = an omen, a sign of what's coming — adj. **portentous**",
+  "trick_line": "**Impotent** means it can't do a thing — strip the *im-* and *potent* is the thing that does.",
+  "trick_unpack": "The negative is the more familiar word, and it pins the meaning exactly: potency is not size or noise but whether the thing actually works.",
+  "sentences": [
+    "The prosecution's most **potent** evidence was a single timestamp neither witness could explain away.",
+    "Careful with that punch — it's way more **potent** than it tastes."
+  ],
+  "in_the_wild": "Every medicine box you own is rated for **potency**: 200 mg vs 500 mg, \"extra strength,\" \"high-potency\" vitamins. Same word, doing its literal job — how much effect per dose.",
+  "etymology": "Latin **posse / potens** = *\"to be able, being able.\"* Enormously productive: **potential** (able to become), **omnipotent** (able to do all), **potentate** (a ruler), **possible**, and — via French — **power** itself.\n\nSo the core sense is always **ability**, not bulk. Something potent *can do* something.",
+  "one_line": "Powerful in effect; a little goes a long way.",
+  "root": "posse, potens (to be able)",
+  "root_family": [
+    "potential",
+    "omnipotent",
+    "potentate",
+    "impotent",
+    "possible",
+    "power",
+    "puissant"
+  ],
+  "confusables": [
+    "portent",
+    "portentous",
+    "potentate",
+    "patent",
+    "impotent"
+  ],
+  "sense_tags": [
+    "powerful",
+    "effective",
+    "concentrated",
+    "influential"
+  ],
+  "register": "neutral",
+  "connotation": "depends",
+  "groups": [
+    36
+  ]
+}

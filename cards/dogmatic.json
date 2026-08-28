@@ -1,0 +1,42 @@
+{
+  "word": "dogmatic",
+  "pos": "adj.",
+  "pron": "dog-MAT-ik",
+  "pron_note": null,
+  "means": "Laying down opinions as if they were settled fact — rigidly attached to a doctrine and unwilling to hear evidence against it.\n\nThe insult isn't that the person is wrong; it's that they're **closed**. An *opinionated* person argues hard, a *dogmatic* one refuses to argue at all, because for them the question was decided before you spoke. It's almost always an accusation, and it carries a faint whiff of the pulpit or the party line — belief handed down rather than worked out.",
+  "trap": null,
+  "trick_line": "**DOGMA + auto*MATIC*** — the belief comes out automatically, with no thinking in between.",
+  "trick_unpack": "The *-matic* ending is the whole point: positions asserted on reflex, never re-examined.",
+  "sentences": [
+    "The review dismissed his monograph as **dogmatic** — confident assertion where the evidence demanded a question mark.",
+    "Don't be so **dogmatic** about it; you've never even tried pineapple on pizza."
+  ],
+  "in_the_wild": "Steve Jobs, Stanford 2005: *\"Don't be trapped by dogma — which is living with the results of other people's thinking.\"* That line defines the noun the adjective comes from.",
+  "etymology": "Greek **dogma** = *\"an opinion, a decree\"*, from **dokein** = *\"to seem, to think.\"*\n\nThat root pays off across the exam: **orthodox** (*ortho-* straight + *doxa* opinion = correct belief), **heterodox** (other belief), **paradox** (*para-* beyond belief), **doxology**.",
+  "one_line": "Asserting opinions as unquestionable fact; rigidly closed to argument.",
+  "root": "dokein / dogma (to seem, think; an opinion held as decree)",
+  "root_family": [
+    "dogma",
+    "orthodox",
+    "heterodox",
+    "paradox",
+    "doxology"
+  ],
+  "confusables": [
+    "dogged",
+    "pragmatic",
+    "doctrinaire"
+  ],
+  "sense_tags": [
+    "inflexible",
+    "closed-minded",
+    "doctrine",
+    "assertive",
+    "authoritarian"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    17
+  ]
+}

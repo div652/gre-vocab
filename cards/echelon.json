@@ -1,0 +1,38 @@
+{
+  "word": "echelon",
+  "pos": "n. (also v.)",
+  "pron": "ESH-uh-lon",
+  "pron_note": "The ch is sh, from the French — never \"ETCH-uh-lon.\"",
+  "means": "A **level or rank within a hierarchy** — one tier of an organisation, and the people occupying it. (Military sense: troops or ships arranged in staggered parallel lines, each stepped back from the one ahead.)\n\n*Level* is flat and neutral; **echelon** presumes a whole ladder of them, with power concentrated at the top. It's institutional vocabulary — governments, armies, corporations, sports leagues — and it almost always comes attached to the top of the structure: *the upper echelons*, *the highest echelons of the party*. Using it about a diner's staff would be a joke.",
+  "trap": null,
+  "trick_line": "You almost never hear *lower* echelons — the word is a rung, and it gets mentioned when someone's near the top of the ladder.",
+  "trick_unpack": "Lock the collocation \"upper echelons\" and you've locked both halves at once: the literal rung and the whiff of power that comes with it.",
+  "sentences": [
+    "The report was circulated only within the upper **echelons** of the ministry, and never reached the officials who would have to implement it.",
+    "He started in the mailroom and clawed his way into the top **echelon** in six years."
+  ],
+  "in_the_wild": "In *Splinter Cell*, Sam Fisher works for **Third Echelon** — a covert tier buried inside the NSA's hierarchy. The name is doing exactly what the word means: naming a rank-level, not a place.",
+  "etymology": "French **échelon** = *\"rung of a ladder,\"* a diminutive of **échelle** (ladder), from Latin **scala**.\n\nThat root pays off elsewhere: **escalate** (climb the ladder), **escalator**, **scale** (as in *scale a wall*), **scalar**. Every one of them is a ladder in disguise.",
+  "one_line": "A rung or tier in a hierarchy — usually the upper ones.",
+  "root": "scala (ladder) → French échelle, échelon (rung)",
+  "root_family": [
+    "escalate",
+    "escalator",
+    "scale",
+    "scalar",
+    "escalade"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "rank",
+    "hierarchy",
+    "tier",
+    "elite",
+    "military-formation"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    29
+  ]
+}

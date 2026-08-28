@@ -1,0 +1,43 @@
+{
+  "word": "renege",
+  "pos": "v.",
+  "pron": "ri-NEG",
+  "pron_note": "Also heard as ri-NEEG; both are standard. Never \"REN-eg.\"",
+  "means": "To **go back on a promise, deal, or commitment** you already made. It almost always takes *on*: you renege **on** a pledge, a contract, an agreement.\n\nThe word needs a prior commitment — you can't renege on something you never promised. That's what separates it from simply refusing or failing: the other side had your word and arranged their affairs around it. Milder and more procedural than *betray*, cooler than *double-cross*, but it still carries a charge of bad faith — it's the verb of choice for governments abandoning treaties and buyers walking away from signed offers.",
+  "trap": null,
+  "trick_line": "Re-**neg**-e = you **negate** what you already said.",
+  "trick_unpack": "The **neg** sitting in the middle is the same *neg* as *negative* and *negate* — the promise existed, and you cancelled it.",
+  "sentences": [
+    "The government **reneged** on the treaty within a year of signing it, leaving the smaller states with no recourse.",
+    "He said he'd cover my shift and then **reneged** the night before."
+  ],
+  "in_the_wild": "**\"Renegades\"** by X Ambassadors — a *renegade* is literally one who has reneged: someone who denied their oath and walked out on their side.",
+  "etymology": "Latin **re-** (\"back\") + **negāre** (\"to deny\") — so, *to deny back*, to un-say your yes.\n\n*negāre* is a workhorse root: **negate, negative, deny, abnegate, renegade**.",
+  "one_line": "To go back on a promise or agreement.",
+  "root": "negāre (to deny)",
+  "root_family": [
+    "negate",
+    "negative",
+    "deny",
+    "abnegate",
+    "renegade",
+    "negligible"
+  ],
+  "confusables": [
+    "renegade",
+    "renig",
+    "reneged/renege"
+  ],
+  "sense_tags": [
+    "breaking-promises",
+    "bad-faith",
+    "betrayal",
+    "withdrawal",
+    "agreements"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    22
+  ]
+}

@@ -2,35 +2,34 @@
   "word": "sagacious",
   "pos": "adj.",
   "pron": "suh-GAY-shuhs",
-  "pron_note": "The noun shifts the vowel: sagacity = suh-GAS-uh-tee.",
-  "means": "Having sound judgment and foresight — shrewd, discerning, able to read a situation and see where it's going.\n\nThis is not raw intelligence or book learning. A sagacious person may know less than the expert in the room and still call it right, because the word is about **practical judgment about people and outcomes**. *Clever* is quick, *erudite* is well-read, *sagacious* is the one whose advice ages well. It carries age and authority — used of elders, judges, veteran investors — and it's a compliment nearly every time, occasionally dropped drily on someone who merely guessed correctly.",
-  "trap": "⚠️ **sagacious ≠ salacious.** Two syllables apart, opposite worlds: **salacious** (suh-LAY-shuhs) = lewd, lecherous — *salacious gossip*. Praise the wise elder as salacious and you've said something else entirely.",
-  "trick_line": "**Sag**acious hides **sage** — but the Latin root is a hound's **nose**: a sage who can *smell* what's coming.",
-  "trick_unpack": "That nose is the whole nuance — it's scent for how things will turn out, not shelves of knowledge.",
+  "pron_note": null,
+  "means": "Having keen judgment and **foresight** — able to read a situation, or a person, and see where it is heading.\n\nThis is wisdom with a practical edge. **Wise** suggests depth and moral weight; **shrewd** suggests self-interest and a sharp eye for advantage; **sagacious** sits between them — respectable, admiring, and always about *judgment applied to the future*. You call a decision sagacious when it looked unremarkable at the time and turned out to be exactly right. The word is formal and slightly grand, so it flatters: it's the adjective for elder statesmen, canny investors, and — a long literary tradition — unusually clever dogs.",
+  "trap": "**sagacious ≠ salacious.** *Salacious* (suh-LAY-shuhs) means lewd, indecently sexual — *salacious gossip*. One letter and one vowel apart, opposite worlds: praise a colleague's *salacious* judgment and you have said something very different.",
+  "trick_line": "**SAGA**cious — he sees the whole **saga** before it's played out.",
+  "trick_unpack": "The hidden word carries the key nuance: this isn't just knowing things, it's seeing how the story ends.",
   "sentences": [
-    "A **sagacious** reading of the credit market kept the fund liquid while its rivals unwound.",
-    "Pretty **sagacious** of you to book the flights before everyone else remembered it was a long weekend."
+    "The treaty was the work of a **sagacious** diplomat who had anticipated the alliance's collapse a decade before it came.",
+    "Gran's **sagacious** enough to know that when the two of them go quiet, something's been broken."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **sagāx, sagācis** = *\"keen-scented\"* — first said of **hunting dogs** tracking a trail, then of people who sense what others can't yet see.\n\nSame root **sagīre** (*to perceive keenly*) gives you **presage** — *pre-* + *sagire*, to scent something in advance: \"the silence **presaged** trouble.\"\n\n🚫 **Not from *sage*.** That's Latin *sapere*, \"to taste, to be wise\" → *sapient, savvy, insipid*. Handy as a hook, false as history.",
-  "one_line": "Wise in a shrewd, practical, sees-it-coming way.",
-  "root": "sagax, sagacis (keen-scented) ← sagire (to perceive keenly)",
+  "etymology": "Latin **sagax** = *\"keen-scented,\"* from **sagīre**, *to perceive sharply* — originally the nose of a hunting hound picking up a trail nobody else can detect. That's the image inside the word: sensing what's there before there's evidence.\n\nSame root gives **presage** (*prae-* \"before\" + *sagire*) — to sniff out what's coming. Note that **sage** is *not* a relative: that's Latin *sapere*, \"to taste, to be wise\" (**sapient, insipid, savour**).",
+  "one_line": "wise in a shrewd, far-seeing, practical way",
+  "root": "sagax, sagīre (keen-scented; to perceive keenly)",
   "root_family": [
     "sagacity",
-    "presage",
-    "presageful"
+    "presage"
   ],
   "confusables": [
     "salacious",
+    "loquacious",
     "sagacity",
-    "sage",
-    "perspicacious"
+    "sage"
   ],
   "sense_tags": [
     "wise",
-    "shrewd",
     "discerning",
-    "foresighted",
+    "shrewd",
+    "foresight",
     "judgment"
   ],
   "register": "formal",

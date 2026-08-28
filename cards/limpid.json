@@ -3,33 +3,38 @@
   "pos": "adj.",
   "pron": "LIM-pid",
   "pron_note": null,
-  "means": "**Clear, transparent, untroubled** — of water, air, or eyes. By extension, of writing, speech or music: so clear it costs you no effort to follow.\n\nIt is always a compliment, and it praises *calm* as much as clarity. **Transparent** is neutral and technical; **lucid** compliments the mind doing the arranging; **limpid** compliments the surface itself — still, pure, nothing stirred up in it. You'd call a mountain pool limpid, and a paragraph limpid when it flows past you without a single snag.",
-  "trap": null,
-  "trick_line": "**Limpid** rhymes with **insipid** — both are see-through, but insipid water is *dull*, limpid water is *dazzling*.",
-  "trick_unpack": "The rhyme keeps the two apart on the exam: same -pid ending, opposite verdict, because limpid is always praise.",
+  "means": "Perfectly clear and transparent — water, air, eyes you can see straight through. Extended to prose, music or reasoning: so clear it costs the reader no effort.\n\nThis is a compliment, and a slightly literary one. *Transparent* is a physical fact; *lucid* praises the mind behind the words; **limpid** praises the surface — it adds calm and beauty, the stillness of an untroubled pool. Water churning white over rocks is clear, but it isn't limpid. Nobody says it in conversation about a glass of water; it turns up in reviews, poetry, and obituaries of good writers.",
+  "trap": "⚠️ **limpid ≠ limp.** The first four letters are a decoy — *limpid* has nothing to do with floppiness or weakness. A limpid style is clean and strong, not feeble.",
+  "trick_line": "**LIMP-ID** — so clear you can see all the way down to the **id**.",
+  "trick_unpack": "The hidden **id** at the end reminds you that limpid clarity goes right to the bottom, nothing hiding in the depths — and that the *limp* at the front is a trap.",
   "sentences": [
-    "The stream ran so **limpid** over the stones that the trout seemed suspended in air.",
-    "Her explanation was **limpid** — thirty seconds and the whole mess finally made sense."
+    "Her late essays are **limpid** — not a sentence you have to read twice.",
+    "The lake was so **limpid** you could count the stones eight feet down."
   ],
   "in_the_wild": null,
-  "etymology": "Latin **limpidus** = *\"clear,\"* tied to **lympha**, *\"clear water\"* — which is where English gets **lymph**, the clear fluid in your vessels. Same watery brightness in both words.\n\n🚫 **Nothing to do with *limp*.** That's a Germanic word for slack or drooping; limpid is never about weakness.",
-  "one_line": "Clear and untroubled — of water, eyes, or effortless prose.",
+  "etymology": "Latin **limpidus** = *\"clear\"*, tied to **lympha**, *\"clear spring water\"* — the same root that gives English **lymph** and **lymphatic**, the clear fluid in your body. Lymph and limpid: both mean *water you can see through*.",
+  "one_line": "Perfectly clear — untroubled water, or effortlessly readable prose.",
   "root": "limpidus (clear), from lympha (clear water)",
   "root_family": [
     "lymph",
     "lymphatic",
-    "limpidity"
+    "lymphoma"
   ],
   "confusables": [
     "limp",
+    "lucid",
     "insipid",
-    "lucid"
+    "vapid",
+    "languid",
+    "torpid",
+    "pellucid"
   ],
   "sense_tags": [
-    "clear",
-    "transparent",
-    "serene",
-    "easy-to-understand"
+    "clarity",
+    "transparency",
+    "lucid-prose",
+    "calm",
+    "purity"
   ],
   "register": "literary",
   "connotation": "positive",

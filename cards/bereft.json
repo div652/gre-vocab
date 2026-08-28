@@ -1,0 +1,40 @@
+{
+  "word": "bereft",
+  "pos": "adj.",
+  "pron": "buh-REFT",
+  "pron_note": null,
+  "means": "**Deprived of something** — stripped of a quality, comfort, or possession you once had (*bereft of hope, bereft of charm*). Used alone, it means **left desolate**, hollowed out by loss.\n\nThe word carries a history that *lacking* does not: to be bereft, you must have **had** the thing and had it **taken**. A room can lack windows; only a person bereft of friends has lost them. The register is elevated and literary — in speech it lands as either genuine grief or dry hyperbole (*\"the menu was bereft of anything edible\"*).",
+  "trap": "**bereft vs. bereaved.** **Bereaved** is narrow — you have lost a *person*, to death. **Bereft** is wide — you can be bereft of money, ideas, or dignity, as well as of a person.",
+  "trick_line": "**bereft = \"be left\"** — left behind, without the thing you used to have.",
+  "trick_unpack": "The sound carries the whole nuance: not merely missing something, but *left* holding nothing after it was taken away.",
+  "sentences": [
+    "Stripped of her titles and her income, she returned to the village **bereft** of everything but her name.",
+    "He came out of that meeting completely **bereft** — three years of work, binned in ten minutes."
+  ],
+  "in_the_wild": "Monty Python's Dead Parrot sketch: *\"'E's bereft of life, 'e rests in peace!\"* — one of the shopkeeper's euphemisms for **dead**, which is exactly the kind of loss the word implies.",
+  "etymology": "From **bereave** = *be-* (thoroughly) + **reave**, an old verb meaning *to rob, to plunder* (a Viking **reaver** was a raider). **Bereft** is simply its old past participle — literally **\"robbed of.\"**\n\nThat root hands you the nuance for free: nothing is bereft that wasn't first taken.",
+  "one_line": "Stripped of something you once had; left desolate.",
+  "root": "reave (to rob, plunder), Old English berēafian",
+  "root_family": [
+    "bereave",
+    "bereavement",
+    "reaver"
+  ],
+  "confusables": [
+    "bereaved",
+    "bequeathed",
+    "berated"
+  ],
+  "sense_tags": [
+    "loss",
+    "deprivation",
+    "grief",
+    "lacking",
+    "desolate"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    25
+  ]
+}

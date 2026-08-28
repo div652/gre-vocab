@@ -1,0 +1,43 @@
+{
+  "word": "subsume",
+  "pos": "v.",
+  "pron": "suhb-SOOM",
+  "pron_note": null,
+  "means": "To **absorb something into a larger category or body**, so that it is treated as a part or instance of that larger thing.\n\nIt's a filing verb, not a destroying verb. *Absorb* and *swallow up* suggest the smaller thing dissolves; **subsume** says it still exists — it has simply lost its separate standing and now counts as a sub-case of something bigger. A department gets subsumed into a ministry, a claim gets subsumed under a general principle, three tribes get subsumed under one label. Cool, formal, faintly bureaucratic: the tone of reorganisation charts and philosophy papers, rarely of anger.",
+  "trap": null,
+  "trick_line": "**Sub** + **sum** — your line item gets tucked *under* someone else's **sum**.",
+  "trick_unpack": "Nothing is deleted; it just stops being counted on its own and gets folded into a bigger total.",
+  "sentences": [
+    "Later theorists **subsumed** these scattered observations under a single law of diminishing returns.",
+    "Our team got **subsumed** into Platform last quarter — same people, new org chart, no more standalone budget."
+  ],
+  "in_the_wild": "The word every acquisition announcement reaches for: the startup isn't shut down, it's *subsumed into* the parent company — brand retired, staff still there, now a line under someone else's P&L.",
+  "etymology": "Latin **sub-** (*under*) + **sumere** (*to take*) — literally \"to take under.\"\n\n**sumere** is a GRE workhorse: **assume** (take on), **presume** (take beforehand), **consume** (take up entirely), **resume** (take back up), **presumptuous** (taking too much).",
+  "one_line": "To absorb into a larger category as a sub-case.",
+  "root": "sub- (under) + sumere (to take)",
+  "root_family": [
+    "assume",
+    "presume",
+    "consume",
+    "resume",
+    "presumptuous",
+    "consummate"
+  ],
+  "confusables": [
+    "assume",
+    "consume",
+    "subdue",
+    "submerge"
+  ],
+  "sense_tags": [
+    "absorbing",
+    "categorising",
+    "incorporating",
+    "hierarchy"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    24
+  ]
+}

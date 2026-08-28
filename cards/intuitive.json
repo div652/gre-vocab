@@ -1,0 +1,39 @@
+{
+  "word": "intuitive",
+  "pos": "adj.",
+  "pron": "in-TOO-i-tiv",
+  "pron_note": null,
+  "means": "Two linked senses. **Of a person or judgement:** arrived at by immediate insight, without conscious reasoning — you knew before you could say why. **Of a thing (an app, a tool, a layout):** so well made that you understand it without being taught.\n\nApplied to objects it is straightforward praise — the highest compliment a product review can pay. Applied to a *person's* reasoning it cuts both ways: it credits the speed of the insight while quietly noting the absence of proof. Compare the neighbours — **instinctive** is biological and involuntary (blinking, flinching), **impulsive** is a failure of self-control, while **intuitive** is genuine understanding that simply skipped the working-out.",
+  "trap": null,
+  "trick_line": "**Intuitive** is what you need *no* **tuition** for.",
+  "trick_unpack": "The two words share a root, so let the contrast fix the meaning: if it has to be taught, it wasn't intuitive.",
+  "sentences": [
+    "Her diagnosis was **intuitive** rather than deductive — she named the illness on sight, then spent an hour assembling the evidence for it.",
+    "The new remote is so **intuitive** my grandmother had it working before I'd found the manual."
+  ],
+  "in_the_wild": "It's the single most overused word in product reviews and app-store blurbs — \"a clean, **intuitive** interface.\" Any time software is praised for needing no instructions, this is the word doing the work.",
+  "etymology": "Latin **intuērī** = *\"to look upon, gaze at\"* — *in-* (upon) + **tuērī** (to watch, guard). Intuition is knowledge you get by *looking straight at* something, with no steps in between.\n\nThat root **tuērī** quietly runs a whole family of watching-over words: **tutor** (one who watches over you), **tuition**, **tutelage**, **tutorial**.",
+  "one_line": "Grasped without conscious reasoning; or so simple it needs no explaining.",
+  "root": "tuērī (to watch over, guard)",
+  "root_family": [
+    "intuition",
+    "tutor",
+    "tuition",
+    "tutelage",
+    "tutorial",
+    "tutelary"
+  ],
+  "confusables": [],
+  "sense_tags": [
+    "immediate-insight",
+    "effortless-understanding",
+    "self-explanatory",
+    "gut-feeling",
+    "unreasoned"
+  ],
+  "register": "neutral",
+  "connotation": "positive",
+  "groups": [
+    34
+  ]
+}

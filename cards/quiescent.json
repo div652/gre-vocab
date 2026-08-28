@@ -1,0 +1,43 @@
+{
+  "word": "quiescent",
+  "pos": "adj.",
+  "pron": "kwee-ES-uhnt",
+  "pron_note": "Also heard as kwy-ES-uhnt; both are accepted.",
+  "means": "Inactive, still, at rest — **temporarily dormant rather than dead**.\n\nThe word is about *activity*, not sound: a quiescent volcano isn't silent, it's not erupting. And it almost always carries the hint that the thing could start up again — a quiescent disease, a quiescent market, a quiescent rivalry. **Dormant** suggests sleep waiting for a season; **quiescent** is the pause between bouts. Cool, clinical register — you'll meet it in medicine, geology and physics far more often than in conversation about people.",
+  "trap": "**quiescent ≠ acquiescent.** Same root, opposite job: *quiescent* = **doing nothing**; *acquiescent* = **going along with it**, agreeing without protest. A quiescent committee holds no meetings; an acquiescent one rubber-stamps everything.",
+  "trick_line": "**quie(t) + -escent**, like conval**escent** — resting *for now*, not finished.",
+  "trick_unpack": "That **-escent** ending (convalescent, adolescent, effervescent) marks a passing state, which is exactly the temporariness quiescent smuggles in.",
+  "sentences": [
+    "Between eruptions the volcano lay **quiescent** for two centuries, its slopes green and farmed.",
+    "The group chat's been **quiescent** since the exams — give it a week and it'll be unbearable again."
+  ],
+  "in_the_wild": "Doctors use it constantly: a **quiescent** disease — Crohn's, lupus, leukaemia — is one that's calm right now but still there. It's the word chosen precisely *because* it doesn't mean \"cured.\"",
+  "etymology": "Latin **quies, quietis** = *\"rest.\"* It unlocks a cluster: **quiet**, **acquiesce** (come to rest with someone's view), **requiem** (a mass for rest), **tranquil** (*trans-* + *quies*, thoroughly at rest).",
+  "one_line": "Inactive and still for now — but not gone.",
+  "root": "quies, quietis (rest)",
+  "root_family": [
+    "quiet",
+    "acquiesce",
+    "requiem",
+    "tranquil",
+    "quietude"
+  ],
+  "confusables": [
+    "acquiescent",
+    "quiescence",
+    "quintessence",
+    "crescent"
+  ],
+  "sense_tags": [
+    "inactive",
+    "dormant",
+    "still",
+    "latent",
+    "temporary-pause"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    24
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "fortuitous",
+  "pos": "adj.",
+  "pron": "for-TOO-i-tuhs",
+  "pron_note": "British speakers often say for-TYOO-i-tuhs.",
+  "means": "Happening **by chance**, without design or planning — accidental, unforeseen.\n\nStrictly, the word reports *causation*, not *quality*: a fortuitous event simply wasn't arranged by anyone, and it can be a windfall or a disaster. Popular usage has dragged it toward \"happily accidental,\" and most writers now use it that way, but the GRE tests the older, neutral sense — chance, full stop. On an exam, read it as *unplanned* and let context decide whether the outcome was good.",
+  "trap": "⚠️ **fortuitous ≠ fortunate.**\n- **fortuitous** = by *chance* (says nothing about the outcome)\n- **fortunate** = by *good luck* (says nothing about the cause)\n\nA fortunate heir planned nothing and gained much; a fortuitous collision was nobody's plan and helped no one.",
+  "trick_line": "**Fortuitous** rhymes with **circuitous** and **gratuitous** — the *-itous* family all describe *how a thing came about* (by a winding route, without cause, by chance), never how good it was.",
+  "trick_unpack": "Tie the rhyme to \"manner of arrival\" and the luck drops out of the definition, which is exactly where the exam sets its trap.",
+  "sentences": [
+    "The discovery of penicillin was **fortuitous**: a contaminated dish that Fleming had every reason to throw away.",
+    "We ran into each other at the airport — totally **fortuitous**, neither of us knew the other was flying."
+  ],
+  "in_the_wild": "Sports commentary leans on it constantly — \"a **fortuitous** deflection off the defender's shin\" means the goal came from chance, not skill, and often carries a faint sting.",
+  "etymology": "Latin **forte** = *\"by chance\"* (ablative of **fors**, *chance*) → **fortuitus**. Same root as **fortune** and **misfortune** — note that *fortune* itself was originally neutral, the goddess who dealt out good and bad alike.\n\n🚫 **Not from *fortis*, \"strong.\"** That's the other family: *fort, fortify, fortitude, effort*. A fortuitous rescue is a lucky one, not a sturdy one.",
+  "one_line": "Happening by chance, not by design.",
+  "root": "fors, fortis (chance) → forte, \"by chance\"",
+  "root_family": [
+    "fortune",
+    "misfortune",
+    "fortuity",
+    "unfortunate"
+  ],
+  "confusables": [
+    "fortunate",
+    "felicitous",
+    "gratuitous",
+    "circuitous"
+  ],
+  "sense_tags": [
+    "chance",
+    "accidental",
+    "unplanned",
+    "coincidence",
+    "luck"
+  ],
+  "register": "formal",
+  "connotation": "depends",
+  "groups": [
+    21
+  ]
+}

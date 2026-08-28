@@ -1,0 +1,43 @@
+{
+  "word": "elucidate",
+  "pos": "v.",
+  "pron": "ih-LOO-si-dayt",
+  "pron_note": null,
+  "means": "To make something clear by explaining it — to shed light on a difficult point.\n\nThe word presumes **prior obscurity**. You *explain* directions to a stranger; you **elucidate** a tangled clause, a contested passage, a mechanism nobody has pinned down. It's the vocabulary of the lecture hall, the courtroom and the journal abstract — a lawyer asked to \"elucidate\" is being told, politely, that what they just said was mud. And unlike *clarify*, which can be a quick fix (\"let me clarify — 3pm, not 4\"), elucidating implies sustained, expert unpacking.",
+  "trap": "**elucidate ≠ elicit.** To **elucidate** is to *shed light on* something obscure; to **elicit** is to *draw out* a response, a confession, a laugh. You elicit an answer from a witness; you elucidate the answer once you have it.",
+  "trick_line": "**e-LUCID-ate** — the word **lucid** is sitting inside it. You elucidate what wasn't lucid yet.",
+  "trick_unpack": "Nothing needs elucidating unless it was murky first, which is exactly why the word sounds heavier than *explain*.",
+  "sentences": [
+    "The footnotes do more to **elucidate** the poem's central image than the twenty pages of commentary preceding them.",
+    "Could you **elucidate** that last bit? You lost me somewhere around the second slide."
+  ],
+  "in_the_wild": "It's the workhorse verb of scientific abstracts — papers exist \"to **elucidate** the mechanism of\" some protein, reaction or disease. If you've ever skimmed a PubMed abstract, you've read it a dozen times.",
+  "etymology": "Latin **lux, lucis** = *light*, via **lucidus** = *bright, clear*. The **e-** is \"out\": to bring out into the light.\n\nThat root is worth a lot of GRE marks: **lucid** (clear-minded), **translucent** (light passes through), **pellucid** (perfectly clear — of prose or water), **elucidate**, and **Lucifer**, literally *light-bringer*.",
+  "one_line": "To make an obscure thing clear by explaining it.",
+  "root": "lux, lucis (light) → lucidus (clear)",
+  "root_family": [
+    "lucid",
+    "pellucid",
+    "translucent",
+    "lucent",
+    "Lucifer",
+    "elucidation"
+  ],
+  "confusables": [
+    "elicit",
+    "elude",
+    "illustrate",
+    "explicate"
+  ],
+  "sense_tags": [
+    "explaining",
+    "clarifying",
+    "making-clear",
+    "expounding"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    16
+  ]
+}

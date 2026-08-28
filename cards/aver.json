@@ -1,0 +1,46 @@
+{
+  "word": "aver",
+  "pos": "v.",
+  "pron": "uh-VER",
+  "pron_note": "Rhymes with *prefer* — not AY-ver.",
+  "means": "To **state firmly as a fact** — to assert something confidently, often in the face of doubt or contradiction. In law, to allege as a fact in a pleading.\n\n*Claim* leaves room for scepticism, *allege* actively flags the thing as unproven, but **aver** puts the speaker's own credibility behind the statement: they are vouching, flatly, without hedging. It is formal and slightly stiff — you meet it in courtrooms, reportage and 19th-century novels, almost always followed by *that*. Nobody avers a guess.",
+  "trap": "⚠️ **aver ≠ avert.** One letter apart, opposite worlds: **aver** = *declare it true*; **avert** = *turn away / prevent* (avert your eyes, avert disaster).",
+  "trick_line": "**a-VER** = *assert* + *verify*: you don't just say it, you vouch for it.",
+  "trick_unpack": "The **ver** at its heart is the *true* of *verdict* and *verify*, which is why an averment is offered as fact rather than opinion.",
+  "sentences": [
+    "The witness **averred**, without qualification, that she had seen the defendant leave the building shortly after midnight.",
+    "He still **avers** he never touched the last slice, crumbs on his shirt notwithstanding."
+  ],
+  "in_the_wild": "Open almost any American legal complaint and every numbered paragraph begins the same way: *\"Plaintiff avers that…\"* — the word is a lawyer's default verb for putting a fact on the record.",
+  "etymology": "Latin **vērus** = *\"true\"*, via *ad-* + *vērāre* → Old French *averer*, \"to prove true.\"\n\nThat root is a GRE goldmine: **verify, veracity, veritable, verdict** (*vere dictum*, \"truly said\"), **verisimilitude**, and plain old **very** (originally \"truly\").",
+  "one_line": "To state firmly as fact; to assert with confidence.",
+  "root": "vērus (true)",
+  "root_family": [
+    "verify",
+    "veracity",
+    "veritable",
+    "verdict",
+    "verisimilitude",
+    "veritas",
+    "very"
+  ],
+  "confusables": [
+    "avert",
+    "avow",
+    "averse",
+    "affirm",
+    "avow"
+  ],
+  "sense_tags": [
+    "asserting",
+    "declaring",
+    "affirming",
+    "testimony",
+    "certainty"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    21
+  ]
+}

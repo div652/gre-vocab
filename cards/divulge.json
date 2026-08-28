@@ -1,0 +1,39 @@
+{
+  "word": "divulge",
+  "pos": "v.",
+  "pron": "dih-VULJ",
+  "pron_note": "Also duy-VULJ; stress is on the second syllable either way.",
+  "means": "To **reveal something that was meant to be kept private** — a secret, a source, a salary, a confidence.\n\nYou can only divulge what was *withheld*. Announcing tomorrow's weather isn't divulging; naming your anonymous source is. The word carries a whiff of breached trust — even when the divulging is voluntary, there was a seal on the thing. It's also noticeably formal: police, lawyers and press officers *divulge*; your friend just *tells* you.",
+  "trap": null,
+  "trick_line": "**Divulge = make it vulgar** — drag the private thing out to the *vulgus*, the common crowd.",
+  "trick_unpack": "The secret stops being yours the moment it becomes everybody's.",
+  "sentences": [
+    "The bank is legally forbidden to **divulge** a client's account details to any third party.",
+    "Don't **divulge** how much you paid for it — he'll never let it go."
+  ],
+  "in_the_wild": "The stock line in every press conference and corporate email: *\"We're not able to divulge further details at this time.\"* If it's a stonewall, the verb is almost always this one.",
+  "etymology": "Latin **dīvulgāre** = *\"to spread among the people,\"* from **vulgus** = *the common crowd*.\n\nSame root gives you **vulgar** (of the crowd → coarse) and the **Vulgate** (the Bible put into the people's Latin). Divulging is the act of handing a private thing to the public.",
+  "one_line": "To reveal something private or confidential.",
+  "root": "vulgus (the common people, the crowd)",
+  "root_family": [
+    "vulgar",
+    "Vulgate",
+    "vulgarity",
+    "divulgence"
+  ],
+  "confusables": [
+    "indulge",
+    "diverge"
+  ],
+  "sense_tags": [
+    "revealing",
+    "secrecy",
+    "disclosure",
+    "confidence"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    17
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "cunning",
+  "pos": "adj. / n.",
+  "pron": "KUN-ing",
+  "pron_note": null,
+  "means": "**Adj.:** clever at getting what you want by indirect, sly, often deceptive means.\n**Noun:** that skill itself — *he won by sheer cunning.*\n\nThe cleverness is never in doubt; the **honesty** is. *Clever* is neutral, *shrewd* is hard-headed but respectable, *cunning* is foxlike — it implies scheming, self-interest, and a willingness to go around the rules rather than through them. Calling a rival's plan cunning half-admires it and half-accuses it. The one clean use is of animals and thieves in stories, where slyness is the whole charm.",
+  "trap": "⚠️ **cunning ≠ canny.** Both come from the same \"know\" root, but **canny** means *shrewd and prudent* — a canny investor is careful with her money, and nobody is being tricked. Add the deceit and you get **cunning**.",
+  "trick_line": "**Cunning = CAN + winning** — he knows how he *can* win, and he isn't fussy about how.",
+  "trick_unpack": "The word literally grew out of *can* (\"to know how\"), so the knowing is real — it's the method that's crooked.",
+  "sentences": [
+    "The minister's resignation was a **cunning** manoeuvre: he left before the report could name him, and returned to the cabinet within a year.",
+    "She's not the smartest player at the table, but she's **cunning** — she'll let you win two hands and then clean you out.\n"
+  ],
+  "in_the_wild": "Baldrick's catchphrase in *Blackadder* — **\"I have a cunning plan.\"** The joke is that the plans are always elaborate, sneaky, and terrible, which is the word's whole flavour in four syllables.",
+  "etymology": "Old English **cunnan** = *\"to know how, to be able\"* — the ancestor of modern **can**. So *cunning* first meant simply **skilled** (the King James Bible praises a \"cunning workman\"); the sly sense crept in later, as knowledge people used on you rather than for you.\n\nSame root: **can**, **canny**, **uncanny** (literally *un-knowable* — hence eerie), and Scottish **ken** (*to know*).",
+  "one_line": "Clever in a sly, scheming, get-what-you-want way.",
+  "root": "cunnan (to know how, to be able)",
+  "root_family": [
+    "can",
+    "canny",
+    "uncanny",
+    "ken"
+  ],
+  "confusables": [
+    "canny",
+    "uncanny",
+    "conning"
+  ],
+  "sense_tags": [
+    "deception",
+    "cleverness",
+    "craftiness",
+    "guile",
+    "scheming"
+  ],
+  "register": "neutral",
+  "connotation": "negative",
+  "groups": [
+    19
+  ]
+}

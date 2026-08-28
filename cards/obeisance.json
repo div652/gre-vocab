@@ -2,31 +2,31 @@
   "word": "obeisance",
   "pos": "n.",
   "pron": "oh-BAY-suhns",
-  "pron_note": "Also heard as oh-BEE-suhns; both are standard.",
-  "means": "A **bodily gesture of respect** — a deep bow, a curtsy, a kneeling — or, more abstractly, the **deference or homage** such a gesture expresses.\n\nThe word keeps its body in it: unlike *deference* or *respect*, which live in the mind, obeisance is something you **perform**, usually downward and usually before a superior. Court ceremony, temple worship, a subject before a monarch. Dragged into modern politics (\"the party paid obeisance to its donors\"), it turns faintly sour — the writer is hinting that the bowing is craven, and that whoever bows has stopped thinking.",
-  "trap": "⚠️ **obeisance ≠ abeyance.**\n- **obeisance** *(oh-BAY-suhns)* = a bow of submission\n- **abeyance** *(uh-BAY-uhns)* = temporary suspension — a rule *held in abeyance* is paused, not obeyed",
-  "trick_line": "**Obei**sance = **obey** + stance — the stance you take to show you obey.",
-  "trick_unpack": "The word literally opens with *obey*, and what follows is a posture, which is exactly what obeisance is: obedience made visible in the body.",
+  "pron_note": "Also heard as oh-BEE-suhns; the \"s\" is soft, never \"obese-ance\".",
+  "means": "A **bow, curtsy, or kneeling** — a bodily gesture of respect to someone above you; by extension, **deferential homage** itself (\"paying obeisance to tradition\").\n\nWhere *respect* is an attitude and *obedience* is doing what you're told, obeisance is the **performance** — submission made visible, in front of witnesses. It belongs to courts, shrines and thrones, so in modern prose it carries either genuine ceremony or a dry sneer: when a columnist writes that tech CEOs *paid obeisance* to the new administration, the word is doing the mocking.",
+  "trap": null,
+  "trick_line": "**Obei**sance has **obey** sitting right at the front — bend the \"y\" into a bow and you get the word.",
+  "trick_unpack": "Obedience is obeying; obeisance is the visible bending that shows it.",
   "sentences": [
-    "The envoys made their obeisance before the throne, foreheads to the marble, and did not rise until summoned.",
-    "Every new manager has to go make obeisance to the finance team before they'll approve a single hire."
+    "The courtiers made their **obeisance** as the queen passed, foreheads nearly touching the marble.",
+    "He hates the boss but still does that little **obeisance** — the nod, the laugh at the bad joke — every single morning."
   ],
-  "in_the_wild": null,
-  "etymology": "Old French **obeissance**, from **obéir** = *\"to obey\"* — ultimately Latin **oboedīre**, from *ob-* (toward) + **audīre** (to hear). To obey was first simply *to listen toward* someone.\n\nThat *audīre* unlocks a whole family: **audience, audio, audition, audit, auditorium** — and, through the French line, **obey, obedient, disobedience**.",
-  "one_line": "A bow of submission; deference physically performed.",
-  "root": "audīre (to hear) → oboedīre (to obey)",
+  "in_the_wild": "Indian news copy runs on this word: **\"the Prime Minister paid obeisance at the temple\"** appears in headlines almost every week — always the bow, the offering, the cameras.",
+  "etymology": "Old French **obéissance** (\"obedience\"), from Latin **oboedīre** = *ob-* (toward) + **audīre** (to hear) — to obey is literally to *listen toward* someone.\n\nThat gives you a free family: **obey, obedient, audience, audible, audition, auditorium**.",
+  "one_line": "A deep bow; deference physically performed.",
+  "root": "oboedīre (to obey) ← ob- (toward) + audīre (to hear)",
   "root_family": [
     "obey",
     "obedient",
     "audience",
-    "audio",
-    "audit",
+    "audible",
     "audition",
-    "auditorium"
+    "auditorium",
+    "audit"
   ],
   "confusables": [
-    "abeyance",
-    "obedience"
+    "obedience",
+    "obsequiousness"
   ],
   "sense_tags": [
     "deference",

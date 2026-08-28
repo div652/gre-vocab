@@ -2,33 +2,36 @@
   "word": "hackneyed",
   "pos": "adj.",
   "pron": "HAK-need",
-  "pron_note": "Two syllables, not three — the -eyed collapses to \"-need,\" never \"hack-NEE-id.\"",
-  "means": "Worn out by repetition; so overused it has lost all force. Said of **phrases, plots, themes, jokes, arguments** — the things that get repeated.\n\nThe charge isn't that the thing is *wrong* — it's that it was once effective and has been ridden into the ground. \"Love conquers all\" isn't false; it's hackneyed. Note also who says it: this is a reviewer's word, dry and faintly superior, the verdict of someone who has read too many manuscripts. *Cliché* just labels the phrase; **hackneyed** convicts the writer of laziness.",
+  "pron_note": "Three letters, two syllables — not \"hack-nee-yed\".",
+  "means": "Worn out and drained of force **by overuse** — stale from being repeated too often.\n\nIt is aimed almost exclusively at **language and ideas**: phrases, plots, metaphors, opening lines, plot twists. You don't call a chair hackneyed. And the charge is *laziness*, not falsity — a hackneyed line is usually one that was good, which is precisely why it got used to death. Where **cliché** names the offending thing, *hackneyed* is the verdict passed on it, and it carries a faint sniff of the literary critic: mildly contemptuous, never neutral.",
   "trap": null,
-  "trick_line": "Sitting right inside it is **hack** — and a hack is a writer with no fresh lines left.",
-  "trick_unpack": "Same word, same origin: hackneyed prose is hack work, which is why the insult lands on the writer and not just the sentence.",
+  "trick_line": "A **hack** writer writes **hackneyed** prose.",
+  "trick_unpack": "The word wears its insult on its sleeve — *hack* is the writer-for-hire churning out the same tired phrases, and *hackneyed* is what comes out.",
   "sentences": [
-    "The reviewer dismissed the novel's central metaphor as **hackneyed**, a device already exhausted by a generation of imitators.",
-    "Every best-man speech uses the same **hackneyed** joke about the groom finally being off the market."
+    "The screenplay's dialogue was so **hackneyed** that reviewers could finish each line before the actors did.",
+    "Please don't end the toast with \"last but not least\" — it's so **hackneyed** everyone's already cringing."
   ],
-  "in_the_wild": null,
-  "etymology": "From **Hackney**, once a village outside London where horses were pastured and **let out for hire**. A *hackney* was the rental horse — ridden by anyone who paid, and worn out by all of them.\n\nThat single image gives you the whole family: **hack** (a writer for hire, churning out the same stuff), **hack job**, and the **hackney carriage** — still the official licensing term printed on London black cabs.",
-  "one_line": "Worn stale by overuse — tired, unoriginal, done to death.",
-  "root": "Hackney (London district; horse kept for hire)",
+  "in_the_wild": "London's black cabs are still licensed, in law, as **hackney carriages** — the same word, one step back: a horse for hire.",
+  "etymology": "From **Hackney**, the London district where horses were bred and **hired out**. A *hackney* was a rented nag — ridden by everyone, worn down by everyone, and never anyone's prized mount.\n\nThat gives you the whole family in one image: **hack** (a writer for hire, grinding out routine copy), **hackney carriage** (a cab for hire), and **hackneyed** (an idea so hired-out it's exhausted).",
+  "one_line": "Worn out and stale from being repeated too often.",
+  "root": "Hackney (London district; a horse let out for hire)",
   "root_family": [
     "hack (writer for hire)",
-    "hack job",
-    "hackney carriage"
+    "hackney carriage",
+    "hack (a hired horse)"
   ],
-  "confusables": [],
+  "confusables": [
+    "hacked",
+    "haggard"
+  ],
   "sense_tags": [
-    "clichéd",
     "overused",
-    "unoriginal",
     "stale",
+    "cliched",
+    "unoriginal",
     "trite"
   ],
-  "register": "formal",
+  "register": "neutral",
   "connotation": "negative",
   "groups": [
     12

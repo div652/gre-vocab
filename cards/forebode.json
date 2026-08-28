@@ -1,0 +1,40 @@
+{
+  "word": "forebode",
+  "pos": "v.",
+  "pron": "for-BOHD",
+  "pron_note": null,
+  "means": "To be an **omen of something bad**; or, of a person, to **feel in advance** that something bad is coming.\n\nThe word runs one way only. *Predict* and *portend* are directionally neutral — you can portend a golden age. Nothing ever forebodes good luck: the verb carries the dread built in, so it needs no adjective to darken it. Note also that the bare verb is now rare and faintly literary; the living forms are the noun **foreboding** (\"a sense of foreboding\") and the adjective (\"a foreboding silence\"), and those are what the GRE will usually put in front of you.",
+  "trap": "⚠️ **foreboding ≠ forbidding.**\n- **foreboding** = *signalling doom to come* — a foreboding hush before the verdict\n- **forbidding** = *harsh, unwelcoming to look at* — a forbidding grey fortress\n\nA forbidding cliff is merely ugly and steep; a foreboding cliff is about to have someone fall off it.",
+  "trick_line": "**Bode** takes *well* or *ill* — **forebode** only ever takes *ill*.",
+  "trick_unpack": "Test it by collocation: if you can't slot in *disaster*, *doom* or *ruin* after it, you want *portend* or *predict* instead.",
+  "sentences": [
+    "The stillness of the birds, the fishermen said, **foreboded** a storm none of the instruments had yet registered.",
+    "I don't know why, but I had this **foreboding** all morning that he was going to quit."
+  ],
+  "in_the_wild": "The two low strings under a horror-film trailer, before anything has happened on screen — that's a **foreboding** score, telling you the bad thing is coming while the character is still fine.",
+  "etymology": "**fore-** (*before*) + Old English **bodian** (*to announce*), from **boda** = *\"a messenger.\"* A forebode is literally a messenger who arrives ahead of the event — and this one only ever brings bad news.\n\nSame Germanic root sits in **bid** in its old sense of *announce, command* — which is where **forbid** comes from.",
+  "one_line": "To be an omen of something bad; to sense coming evil.",
+  "root": "bodian (to announce), from boda (a messenger)",
+  "root_family": [
+    "bode",
+    "bid",
+    "forbid"
+  ],
+  "confusables": [
+    "forbidding",
+    "forbade",
+    "bode",
+    "portend"
+  ],
+  "sense_tags": [
+    "omen",
+    "premonition",
+    "dread",
+    "prediction"
+  ],
+  "register": "literary",
+  "connotation": "negative",
+  "groups": [
+    34
+  ]
+}

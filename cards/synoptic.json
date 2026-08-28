@@ -1,0 +1,43 @@
+{
+  "word": "synoptic",
+  "pos": "adj.",
+  "pron": "si-NOP-tik",
+  "pron_note": null,
+  "means": "Giving a **broad general view of a whole subject at once** — everything laid out together, seen from above.\n\nA synoptic account isn't merely a *short* one. **Summary** means shortened; **synoptic** means *wide* — all the parts visible in relation to each other. The word is formal and faintly technical (meteorologists, theologians, planners, strategists use it straight), and it's quietly approving: breadth achieved, altitude gained. Nobody calls a rambling overview synoptic.",
+  "trap": "⚠️ **synoptic ≠ synaptic.** *Synaptic* belongs to the **synapse** — the gap between nerve cells. One is a wide view; the other is a tiny junction in your brain.",
+  "trick_line": "**Syn-OPTIC** hides **OPTIC** — it's the wide-angle lens, not the zoom.",
+  "trick_unpack": "You get the whole scene in a single frame, which is exactly why a synoptic view buys breadth and gives up fine detail.",
+  "sentences": [
+    "The commission's report opens with a **synoptic** chapter placing three decades of policy failure on a single page.",
+    "Skip the deep dive for now — just give me the **synoptic** version before the meeting starts."
+  ],
+  "in_the_wild": "Matthew, Mark and Luke are called the **Synoptic Gospels** — they can be set side by side in parallel columns and read *together*, because they share one broad view of events. John, which doesn't line up, is excluded.",
+  "etymology": "Greek **syn-** (*together*) + **opsis** (*sight, view*) — \"seeing it all together.\"\n\n*Opsis* is a workhorse root: **synopsis** (the view-together), **optic** (of sight), **autopsy** (*auto-* + *opsis* = seeing for oneself), **myopia** (short sight), **biopsy** (viewing living tissue).",
+  "one_line": "Giving a broad overview of the whole at once.",
+  "root": "syn- (together) + opsis (sight, view)",
+  "root_family": [
+    "synopsis",
+    "optic",
+    "autopsy",
+    "myopia",
+    "biopsy",
+    "optician"
+  ],
+  "confusables": [
+    "synaptic",
+    "synoptical",
+    "synopsis"
+  ],
+  "sense_tags": [
+    "overview",
+    "summary",
+    "breadth",
+    "comprehensive",
+    "bird's-eye"
+  ],
+  "register": "formal",
+  "connotation": "neutral",
+  "groups": [
+    16
+  ]
+}
