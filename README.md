@@ -95,8 +95,16 @@ Difficulty marks are stored in browser `localStorage`, never in the cards, with
 export/import to `difficulty.json`. Regenerating all 1112 cards will not touch your
 progress.
 
+## Live
+
+**https://div652.github.io/gre-vocab/** — the flashcard app, served by GitHub Pages.
+It is one self-contained file with no server or network dependency, so it works
+offline once loaded and runs the same on a phone as on a desktop.
+
 ## Source data
 
 The word list and its 38-group arrangement come from GregMat's vocabulary list, a
-paid product. The `.xlsx` is gitignored and this repo is private for that reason.
-The card content is generated.
+paid product; the source `.xlsx` is gitignored. This is a personal study aid, and
+the card and group content is generated rather than reproduced. If you are from
+GregMat and would rather this were not public, open an issue and I will take it
+down.
