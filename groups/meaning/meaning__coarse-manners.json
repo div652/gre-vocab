@@ -1,0 +1,13 @@
+{
+  "kind": "meaning",
+  "id": "meaning__coarse-manners",
+  "title": "Coarse manners",
+  "seed_words": [
+    "boorish",
+    "churlish",
+    "philistine"
+  ],
+  "hallucinated": [
+    "crass"
+  ]
+}

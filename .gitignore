@@ -22,3 +22,6 @@ difficulty.json
 
 # Source spreadsheet - GregMat's paid product, kept out of version control.
 *.xlsx
+
+# Group write-ups are regenerable from cards/ via group.py
+groups/*.tmp

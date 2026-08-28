@@ -2,26 +2,26 @@
   "word": "wary",
   "pos": "adj.",
   "pron": "WAIR-ee",
-  "pron_note": null,
-  "means": "On guard — watchful and distrustful because you suspect a particular danger or trick.\n\n**Cautious** is about how you act (slowly, carefully); **wary** is about what you're doing with your eyes. It implies a specific something you don't trust — a person, an offer, a promise — and it credits you with good judgement rather than nerves. *Afraid* is weakness; *paranoid* is excess; **wary** is the sensible middle, and it's the word for the seasoned negotiator who has been burned once and won't be again. Note the standard construction: you are wary **of** something.",
-  "trap": "⚠️ **wary ≠ weary.**\n- **wary** (WAIR-ee) = watchful, on guard\n- **weary** (WEER-ee) = worn out, tired\n\nOne letter, opposite states: the wary sentry is wide awake; the weary one is falling asleep.",
-  "trick_line": "**Wary** is **aware** with its guard up — same root, one extra reason to look.",
-  "trick_unpack": "Being aware is just noticing; being wary means you've noticed *something specific* and don't like the look of it.",
+  "pron_note": "Rhymes with fairy — not with cheery.",
+  "means": "On guard; watchful because you suspect danger or a trick.\n\n*Cautious* is a general policy — you're careful crossing any road. **Wary** is aimed at something in particular: a person, an offer, a promise that doesn't quite add up. It carries distrust, and it keeps its eyes open rather than backing away — you can be wary of someone and still shake their hand, watching the whole time. Slightly milder and more everyday than *leery*, more suspicious than *prudent*.",
+  "trap": "**wary ≠ weary.** *Wary* (WAIR-ee) = watchful, suspicious. *Weary* (WEER-ee) = exhausted. A wary traveller checks the locks; a weary traveller falls asleep on top of them.",
+  "trick_line": "**bewar**e → be **war**y. Same word, one letter lighter.",
+  "trick_unpack": "*Beware* is the warning shouted at you; *wary* is the state you're in once you've heard it.",
   "sentences": [
-    "Investors remained **wary** of the new listing, unconvinced that the revenues could survive a single bad quarter.",
-    "I'd be **wary** of him — he's very friendly right up until you lend him money."
+    "Investors remained **wary** of the company's projections, which had been revised upward three times in a single quarter.",
+    "He gave me a **wary** look, like he was still deciding whether I'd actually pay him back."
   ],
-  "in_the_wild": "Financial headlines run on this word: *\"markets wary ahead of the Fed decision.\"* It's the press's standard term for hesitant-but-still-watching — not panicked, just refusing to commit.",
-  "etymology": "Old English **wær** = *\"watchful, on one's guard.\"* It seeded a large family: **aware**, **beware**, **ward** and **warden** (the one who watches), and — via French — **guard**.\n\nSo the whole cluster is one idea: *keeping an eye out*.",
-  "one_line": "Watchful and distrustful of some specific possible danger.",
-  "root": "Old English wær (watchful, on guard)",
+  "in_the_wild": null,
+  "etymology": "Old English **wær** = *\"watchful, on one's guard.\"* The same root gives **aware** (watching outward), **beware** (be on guard), and the *-ward/guard* family — **ward, warden, guard, regard** all come from the sense of keeping watch over something.",
+  "one_line": "Watchful and distrustful of a specific danger.",
+  "root": "Old English wær (watchful, cautious)",
   "root_family": [
     "aware",
     "beware",
     "ward",
     "warden",
     "guard",
-    "wardrobe"
+    "regard"
   ],
   "confusables": [
     "weary",
@@ -30,10 +30,10 @@
     "warily"
   ],
   "sense_tags": [
-    "cautious",
-    "distrustful",
-    "alert",
-    "guarded"
+    "caution",
+    "distrust",
+    "vigilance",
+    "suspicion"
   ],
   "register": "neutral",
   "connotation": "neutral",

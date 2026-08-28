@@ -20,28 +20,19 @@ from __future__ import annotations
 
 import argparse
 import json
-import subprocess
 import sys
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+import claude_cli
 from cardspec import CARD_SCHEMA, build_system_prompt, slug
 
 HERE = Path(__file__).parent
 CARDS = HERE / "cards"
 WORDS = HERE / "words.json"
 FAILURES = HERE / "failures.log"
-
-# The native binary, NOT claude.cmd. The .cmd shim routes through cmd.exe, which
-# caps the command line at 8191 chars - our system prompt alone is ~12.5k. Going
-# straight to the exe uses the CreateProcess limit of 32767 instead.
-EXE = Path.home() / "AppData/Roaming/npm/node_modules/@anthropic-ai/claude-code/bin/claude.exe"
-
-NO_TOOLS = "Bash,Read,Write,Edit,NotebookEdit,WebSearch,WebFetch,Glob,Grep,Task,TodoWrite"
-TIMEOUT = 900
-ATTEMPTS = 3
 
 _lock = threading.Lock()
 
@@ -51,44 +42,12 @@ def log(msg: str) -> None:
         print(msg, flush=True)
 
 
-def build_argv(system: str, schema: str, word: str) -> list[str]:
-    return [
-        str(EXE), "-p", f"Word: {word}",
-        "--system-prompt", system,
-        "--json-schema", schema,
-        "--output-format", "json",
-        "--model", "opus",
-        "--permission-mode", "dontAsk",
-        "--disallowed-tools", NO_TOOLS,
-        # Keeps cwd / env / git-status out of the prompt so the cached prefix is
-        # byte-stable across every call.
-        "--exclude-dynamic-system-prompt-sections",
-    ]
-
-
-def generate_one(system: str, schema: str, word: str) -> tuple[dict, dict]:
+def generate_one(system: str, word: str) -> tuple[dict, dict]:
     """Return (card, usage). Raises on unrecoverable failure."""
-    last = None
-    for attempt in range(1, ATTEMPTS + 1):
-        try:
-            r = subprocess.run(build_argv(system, schema, word),
-                               capture_output=True, text=True,
-                               encoding="utf-8", errors="replace", timeout=TIMEOUT)
-            env = json.loads(r.stdout)
-            if env.get("is_error"):
-                raise RuntimeError(str(env.get("result"))[:200])
-            result = env.get("result")
-            card = json.loads(result) if isinstance(result, str) else result
-            if not isinstance(card, dict) or "word" not in card:
-                raise RuntimeError(f"unexpected result shape: {type(card).__name__}")
-            usage = env.get("usage") or {}
-            usage["cost"] = env.get("total_cost_usd") or 0.0
-            return card, usage
-        except Exception as e:  # noqa: BLE001
-            last = e
-            if attempt < ATTEMPTS:
-                time.sleep(2 * attempt)
-    raise RuntimeError(f"{type(last).__name__}: {last}")
+    card, usage = claude_cli.call(system, f"Word: {word}", CARD_SCHEMA)
+    if "word" not in card:
+        raise claude_cli.CliError("result has no 'word' field")
+    return card, usage
 
 
 def card_path(word: str) -> Path:
@@ -115,8 +74,8 @@ def main() -> int:
     ap.add_argument("--workers", type=int, default=6)
     args = ap.parse_args()
 
-    if not EXE.exists():
-        log(f"claude.exe not found at {EXE}")
+    if not claude_cli.EXE.exists():
+        log(f"claude.exe not found at {claude_cli.EXE}")
         return 2
 
     CARDS.mkdir(exist_ok=True)
@@ -150,9 +109,7 @@ def main() -> int:
         return 0
 
     system = build_system_prompt()
-    schema = json.dumps(CARD_SCHEMA)
-    log(f"system prompt {len(system):,} chars, argv ~{len(system) + len(schema):,} chars "
-        f"(limit 32,767)\n")
+    log(f"system prompt {len(system):,} chars\n")
 
     totals = {"cost": 0.0, "out": 0, "cache_r": 0, "cache_w": 0}
     done = failed = 0
@@ -160,7 +117,7 @@ def main() -> int:
     started = time.time()
 
     def work(rec: dict):
-        card, usage = generate_one(system, schema, rec["word"])
+        card, usage = generate_one(system, rec["word"])
         save(rec["word"], rec["groups"], card)
         return rec["word"], usage
 
