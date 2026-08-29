@@ -54,6 +54,11 @@ Greek **apo-** = *"away from"* + **gaia / gē** = *"earth."* Literally *"away fr
 
 Both halves pay rent: **apo-** gives you *apostasy* (standing away from the faith), *apostrophe*, *apathy*; **gē** gives you *geology, geography, geometry* — and **perigee**, *peri-* = "near, around," as in *perimeter*.
 
+### Also sits in
+- **Meaning cluster** · [The high point](groups.md#meaning__the-high-point) — with *zenith, prime*
+- **Second meaning** · [Borrowed Points: Sky, Orbit, Music, Lever](groups.md#second-meaning__sky-and-lever-words-for-peaks-and-turning-points) — with *zenith, nadir, crescendo, fulcrum*
+- **Opposites** · [Peak vs. rock bottom](groups.md#antonym__peak-vs-rock-bottom) — with *zenith, prime, nadir, abject*
+
 ---
 
 # **aspersion** *(n.)* — **uh-SPER-zhuhn**
@@ -88,6 +93,12 @@ Latin **aspergere** = *"to sprinkle on"* (*ad-* "on" + *spargere* "to scatter").
 
 *spargere* also gives you **sparse** (thinly scattered), **disperse**, and **intersperse**.
 
+### Also sits in
+- **Meaning cluster** · [False statements that ruin a name](groups.md#meaning__false-statements-that-ruin-a-name) — with *defame, slander, calumny*
+- **Connotation** · [Attacks on a reputation](groups.md#connotation__attacks-on-a-reputation) — with *impugn, denigrate, malign, vilify, defame, slander, calumny*
+- **Opposites** · [Blackening a name vs. burnishing one](groups.md#antonym__blackening-a-name-vs-burnishing-one) — with *calumny, defame, slander, denigrate, malign, burnish, lionize, venerate, canonize*
+- **Root family** · [Root: spargere (to scatter, sprinkle)](groups.md#root__spargere) — with *disperse, sparse*
+
 ---
 
 # **bawdy** *(adj.)* — **BAW-dee**
@@ -112,6 +123,9 @@ Any school edition of Shakespeare — the footnotes forever explaining that some
 ### Where it comes from
 From **bawd** — a brothel-keeper or procuress (a *bawdy house* was legal-speak for a brothel). So *bawdy* is literally "of the bawd": the talk you'd hear in that establishment.
 
+### Also sits in
+- **Opposites** · [Grave vs. flippant](groups.md#antonym__grave-vs-flippant) — with *sober, staid, stern, decorum, levity, facetious, frivolous, droll, raillery*
+
 ---
 
 # **chagrin** *(n. / v.)* — **shuh-GRIN**
@@ -134,6 +148,11 @@ The word hides *grin* because chagrin is the feeling you have to smile politely 
 
 ### Where it comes from
 French **chagrin** = *grief, vexation* — the same word as French *chagrin*, a rough granular leather (English **shagreen**) once used as a rasp for smoothing wood. Something that **chafes**: chagrin is the constant fine abrasion of a bruised ego, not a clean wound.
+
+### Also sits in
+- **Meaning cluster** · [Bad conscience, bruised pride, and the twinge before](groups.md#meaning__sorry-after-the-fact) — with *qualm, contrite*
+- **Intensity scale** · [Twinge to crushing remorse](groups.md#intensity__twinge-to-crushing-remorse) — with *qualm, contrite*
+- **Opposites** · [Stung by Conscience vs. Shameless](groups.md#antonym__stung-by-conscience-vs-shameless) — with *contrite, qualm, scrupulous, brazen, effrontery, flagrant, reprobate, impudent*
 
 ---
 
@@ -162,6 +181,11 @@ The prefix tells you it takes at least two, and the *lud-* tells you someone out
 Latin **com-** (*together*) + **lūdere** (*to play*) → *collūdere*, "to play along together."
 
 That **lud-/lus-** root is a GRE goldmine, and every member keeps the sense of *play*: **prelude** and **interlude** (played before/between), **ludicrous** (fit only for play), **delude** (play someone false), **elude** (play your way out), **allude** (play toward a thing without naming it), **illusion** (a trick of play).
+
+### Also sits in
+- **Meaning cluster** · [Plotting together](groups.md#meaning__plot-together) — with *conspire, abet, intrigue, collaborate*
+- **Connotation** · [Words that carry the guilt inside them](groups.md#connotation__verbs-that-presume-wrongdoing) — with *perpetrate, abet, conspire, premeditate, malfeasance*
+- **Root family** · [Root: ludere (to play) — indirection, evasion, and things that aren't there](groups.md#root__ludere) — with *allude, allusive, delusion, elusive, illusory*
 
 ---
 
@@ -195,6 +219,9 @@ Latin **com-** (*with*) + **miser** (*wretched, pitiable*) — literally *to be 
 
 That root pays out widely: **misery**, **miserable**, **miserly** (a **miser** is, etymologically, a wretch), and the *Miserere* psalm — "have mercy."
 
+### Also sits in
+- **Opposites** · [Feeling for others vs. hardened to them](groups.md#antonym__feeling-for-others-vs-hardened-to-them) — with *empathetic, cherish, benevolent, callous, sadistic, misanthropic, obdurate*
+
 ---
 
 # **conflagration** *(n.)* — **kon-fluh-GRAY-shuhn**
@@ -220,6 +247,9 @@ Wildfire coverage reaches for it the moment a fire stops being one fire: reporte
 Latin **flagrāre** = *"to burn, blaze"*, with **con-** here meaning *thoroughly* — burning all over.
 
 Same root gives you **flagrant** (an offence so blatant it's blazing) and the legal phrase **in flagrante delicto**, literally *"while the crime is still blazing"* — caught in the act.
+
+### Also sits in
+- **Meaning cluster** · [Ruin on a huge scale](groups.md#meaning__ruin-on-a-huge-scale) — with *calamitous, catastrophic, cataclysmic*
 
 ---
 
@@ -249,6 +279,9 @@ French **contre-temps** = *"against the time / off the beat."* It began as a **f
 
 Both halves pay rent elsewhere: **contra-** gives *contradict, contrary, counter, contraband*; **temps** ← Latin *tempus* gives *tempo, temporal, contemporary, extempore, temporary*.
 
+### Also sits in
+- **Meaning cluster** · [A Situation With No Clean Exit](groups.md#meaning__a-situation-with-no-clean-exit) — with *conundrum, quandary, predicament, imbroglio*
+
 ---
 
 # **conviction** *(n.)* — **kuhn-VIK-shuhn**
@@ -277,6 +310,9 @@ Latin **convincere** = *con-* (thoroughly) + **vincere** (*to conquer*) — lite
 
 **vincere** is a workhorse root: **victory, victor, invincible, evict, evince, vanquish, convince**. A conviction is a belief that beat all the others.
 
+### Also sits in
+- **Second meaning** · [Courtroom senses hiding in everyday words](groups.md#second-meaning__courtroom-senses-hiding-in-everyday-words) — with *depose, competent, liability, sanction, entitled*
+
 ---
 
 # **croon** *(v. / n.)* — **KROON**
@@ -300,6 +336,10 @@ The rhyme fixes both the sound and the register: low, dark, sentimental — neve
 
 ### Where it comes from
 From Middle Dutch **kronen**, *"to groan, lament"* — and in Scots, **crune** meant the low bellow of cattle. The sentimentality is modern; the **lowness of the pitch** was there from the start.
+
+### Also sits in
+- **Intensity scale** · [Soft to deafening](groups.md#intensity__soft-to-deafening) — with *boisterous, clamorous, clangor*
+- **Opposites** · [Kinds of loud, kinds of quiet](groups.md#antonym__loud-vs-hushed) — with *clamorous, boisterous, vociferous, cacophonous, obstreperous, clangor, subdued, placid, taciturn*
 
 ---
 
@@ -331,6 +371,13 @@ In any legal drama — *Suits*, *Better Call Saul* — someone is always being *
 Latin **de-** (*down*) + **ponere** (*to put, to place*) — literally *to put down*.
 
 That root is a GRE goldmine: **deposit** (put down money), **position**, **compose**, **impose**, **postpone** (put after), **component**, **exponent**, **repository**.
+
+### Also sits in
+- **Meaning cluster** · [Driven Out: From a Place, a Post, or a Rank](groups.md#meaning__drive-out-of-a-place-or-post) — with *banish, oust, relegate*
+- **Second meaning** · [Courtroom senses hiding in everyday words](groups.md#second-meaning__courtroom-senses-hiding-in-everyday-words) — with *conviction, competent, liability, sanction, entitled*
+- **Intensity scale** · [Demotion to expulsion](groups.md#intensity__demotion-to-expulsion) — with *relegate, oust, banish*
+- **Opposites** · [Raising up vs. bringing down](groups.md#antonym__raising-up-vs-bringing-down) — with *anoint, deify, lionize, canonize, venerate, oust, relegate, debase, belittle, marginalize*
+- **Root family** · [Root: ponere, positus (to place)](groups.md#root__ponere) — with *apposite, apropos, posturing*
 
 ---
 
@@ -387,6 +434,11 @@ French **détente** = *"a slackening, a release"* — originally the catch that 
 
 That root is a GRE workhorse: **tension, tense, extend, distend, intense, portend, tendon, contend**. Anything stretched tight. Put **dé-** ("un-, away") in front and you get the stretch coming off.
 
+### Also sits in
+- **Meaning cluster** · [Formal agreement — and its three near-misses](groups.md#meaning__formal-agreement) — with *accord, consensus, comity*
+- **Opposites** · [Peacemaking vs. fight-picking](groups.md#antonym__peacemaking-vs-fight-picking) — with *conciliatory, mollify, placate, appease, amicable, comity, belligerent, pugnacious, truculent, contentious, antagonize, fractious*
+- **Root family** · [Root: tendere (to stretch) — which way is it pulling?](groups.md#root__tendere) — with *contend, distend, portend, tendentious*
+
 ---
 
 # **echelon** *(n. (also v.))* — **ESH-uh-lon**
@@ -415,6 +467,9 @@ French **échelon** = *"rung of a ladder,"* a diminutive of **échelle** (ladder
 
 That root pays off elsewhere: **escalate** (climb the ladder), **escalator**, **scale** (as in *scale a wall*), **scalar**. Every one of them is a ladder in disguise.
 
+### Also sits in
+- **Opposites** · [Levelling vs. Ranking: Equal, Fair, and Above](groups.md#antonym__everyone-equal-vs-a-chosen-few-above) — with *egalitarian, equitable, elitist, chauvinistic, patronize*
+
 ---
 
 # **ennui** *(n.)* — **ahn-WEE**
@@ -442,6 +497,13 @@ Wes Anderson's *The French Dispatch* is set in a town called **Ennui-sur-Blasé*
 Latin **in odiō** — *"in hatred,"* as in *mihi in odio est*, "it is loathsome to me." Through Old French *enuier* this became two English words from one source: **ennui**, and its plainer twin **annoy**.
 
 That's the whole scale in one root: what merely irritates you is an **annoyance**; what deadens you is **ennui**. Related through *odium*: **odious**, **odium**.
+
+### Also sits in
+- **Meaning cluster** · [No energy left — body, mood, or interest](groups.md#meaning__bone-deep-weariness) — with *weary, lethargic, lassitude, languid*
+- **Meaning cluster** · [Not Caring Either Way](groups.md#meaning__not-caring-either-way) — with *apathy, tepid, nonchalant*
+- **Intensity scale** · [Boredom to total inertia](groups.md#intensity__boredom-to-total-inertia) — with *lassitude, torpor*
+- **Connotation** · [Energy gone, pity attached](groups.md#connotation__energy-gone-pity-attached) — with *lassitude, torpor, lethargic, enervate, languish*
+- **Opposites** · [Burning enthusiasm vs. cold indifference](groups.md#antonym__burning-enthusiasm-vs-cold-indifference) — with *ardent, avid, zealous, fervent, fervor, alacrity, apathy, tepid, nonchalant, perfunctory, lassitude*
 
 ---
 
@@ -476,6 +538,12 @@ Latin **exspatiari** = *"to wander off, to spread out"* — from **ex-** (out) +
 
 🚫 **Not *patria*.** That's *expatriate, patriot, patriarch, repatriate* — fatherland words, no relation.
 
+### Also sits in
+- **Meaning cluster** · [Off the point — or just going on too long](groups.md#meaning__wandering-off-the-subject) — with *digression, ramble, tangential*
+- **Meaning cluster** · [Too many words on the page](groups.md#meaning__too-many-words-on-the-page) — with *verbose, prolix, diffuse*
+- **Connotation** · [Talks a lot — the word does the judging](groups.md#connotation__talks-a-lot-the-word-does-the-judging) — with *loquacious, voluble, garrulous, ramble, verbose, prolix*
+- **Opposites** · [Talks too much vs. says little](groups.md#antonym__talks-too-much-vs-says-little) — with *garrulous, loquacious, voluble, ramble, laconic, taciturn, reticent*
+
 ---
 
 # **fraught** *(adj.)* — **FRAWT**
@@ -506,6 +574,11 @@ Newsrooms run on it: *"a process fraught with difficulty," "a fraught relationsh
 ### Where it comes from
 **Fraught is *freight*.** Middle Dutch **vracht** = *cargo*; Middle English *fraught* meant a ship **laden** with goods. The literal cargo sense died and the metaphor took over — so *fraught with danger* is, word for word, *carrying a hold full of danger*.
 
+### Also sits in
+- **Meaning cluster** · [Liable to collapse](groups.md#meaning__liable-to-collapse) — with *perilous, precarious, jeopardize, tenuous*
+- **Intensity scale** · [From latent trouble to grave danger](groups.md#intensity__risky-to-grave-danger) — with *precarious, perilous*
+- **Opposites** · [Still Waters vs. Stormy](groups.md#antonym__still-waters-vs-stormy) — with *placid, serene, tranquil, quiescent, subdued, turbulent, tempestuous, frenetic, restive*
+
 ---
 
 # **fulcrum** *(n.)* — **FUUL-kruhm**
@@ -532,6 +605,9 @@ The bolt in the middle of a **seesaw** is a fulcrum — which is why shuffling t
 ### Where it comes from
 Latin **fulcrum** = *"bedpost, support,"* from **fulcīre**, *"to prop up."* The word has barely changed job in two thousand years: it is still the thing propping everything else up.
 
+### Also sits in
+- **Second meaning** · [Borrowed Points: Sky, Orbit, Music, Lever](groups.md#second-meaning__sky-and-lever-words-for-peaks-and-turning-points) — with *zenith, nadir, apogee, crescendo*
+
 ---
 
 # **imbroglio** *(n.)* — **im-BROHL-yoh**
@@ -557,6 +633,9 @@ A headline-writer's favourite: any time a scandal is too tangled to summarise, t
 
 ### Where it comes from
 Italian **imbrogliare** = *"to tangle, to muddle."* English borrowed it twice: once straight (**imbroglio**) and once through French as **embroil**. The older sense of **broil** — not cooking, but a *brawl* — is the same family.
+
+### Also sits in
+- **Meaning cluster** · [A Situation With No Clean Exit](groups.md#meaning__a-situation-with-no-clean-exit) — with *conundrum, quandary, predicament, contretemps*
 
 ---
 
@@ -591,6 +670,11 @@ Wordsworth's daffodils, the poem everyone half-remembers: *"A poet could not but
 Latin **iucundus** = *"pleasant, delightful,"* from **iuvare**, *"to please, to help"* — the same root under **adjuvant** (a helping agent).
 
 The twist worth keeping: the word got its spelling bent toward Latin **iocus**, *"joke"* — so *jocund* only **looks** like a cousin of *joke, jocular, jocose, jest*. It's a false family that stuck, and it's the reason the mnemonic works.
+
+### Also sits in
+- **Meaning cluster** · [Sparkling liveliness](groups.md#meaning__sparkling-liveliness) — with *vivacious, buoyant, boisterous, scintillating*
+- **Connotation** · [Good cheer, and what it attaches to](groups.md#connotation__good-cheer-that-fills-a-room) — with *ebullient, vivacious, buoyant, convivial*
+- **Opposites** · [Bright spirits vs. sunk spirits](groups.md#antonym__bright-spirits-vs-sunk-spirits) — with *sanguine, buoyant, elated, ebullient, morose, glum, lugubrious, crestfallen, plaintive, dirge*
 
 ---
 
@@ -628,6 +712,11 @@ Latin **languēre** = *"to be faint, weak,"* from the same root as **laxus** (*l
 
 That gives you a cluster worth banking: **languid** (drooping, unhurried), **languor** (pleasant heavy tiredness), and the slackness family — **lax**, **relax**, **release**. Note the split: *languid* and *languor* can be sensual and rather nice; **languish** never is.
 
+### Also sits in
+- **Lookalike** · [languid / languish / limpid](groups.md#lookalike__languid-languish) — with *languid, limpid*
+- **Connotation** · [Energy gone, pity attached](groups.md#connotation__energy-gone-pity-attached) — with *lassitude, torpor, lethargic, enervate, ennui*
+- **Opposites** · [Rising above vs. falling short](groups.md#antonym__rising-above-vs-falling-short) — with *outstrip, surmount, transcend, prevail, vanquish, falter, regress, wanting*
+
 ---
 
 # **nadir** *(n.)* — **NAY-deer**
@@ -656,6 +745,10 @@ Arabic **naẓīr as-samt** = *"counterpart of the zenith"* — the point diamet
 
 So one Arabic phrase hands you three words at once: **zenith** (top), **nadir** (bottom), **azimuth** (bearing). Medieval European astronomers took their star vocabulary wholesale from Arabic — as *algebra*, *algorithm* and *alcohol* also attest.
 
+### Also sits in
+- **Second meaning** · [Borrowed Points: Sky, Orbit, Music, Lever](groups.md#second-meaning__sky-and-lever-words-for-peaks-and-turning-points) — with *zenith, apogee, crescendo, fulcrum*
+- **Opposites** · [Peak vs. rock bottom](groups.md#antonym__peak-vs-rock-bottom) — with *apogee, zenith, prime, abject*
+
 ---
 
 # **nimble** *(adj.)* — **NIM-buhl**
@@ -681,6 +774,11 @@ The word always praises evasion and finesse rather than force, whether the thing
 Old English **næmel** = *"quick to grasp,"* from **niman**, *"to take"* — nimble fingers are fingers quick to take. (The **b** was slipped in later for ease of saying it, exactly as in *thimble* and *humble*.)
 
 Same root, opposite result: **numb** is literally *"taken"* — seized, and so robbed of feeling. Nimble hands take; numb hands can't.
+
+### Also sits in
+- **Meaning cluster** · [Quick, light-handed skill](groups.md#meaning__quick-light-handed-skill) — with *dexterous, deft, adroit, adept*
+- **Connotation** · [Skill that looks effortless](groups.md#connotation__skill-that-looks-effortless) — with *dexterous, deft, adroit, adept, facility*
+- **Opposites** · [Brisk vs. Dragging](groups.md#antonym__brisk-vs-dragging) — with *alacrity, expedite, frenetic, dawdle, dilatory, plodding, ponderous, sluggish, languid*
 
 ---
 
@@ -716,6 +814,11 @@ Latin **omen, ominis** = *a sign, a foretelling* — straight into English as **
 
 The same root gives you **abominable**, from *ab-ominari*, "to shrink away from as a bad omen." The Abominable Snowman is, etymologically, a walking bad sign.
 
+### Also sits in
+- **Meaning cluster** · [Sign of what's coming](groups.md#meaning__sign-of-what-s-coming) — with *portend, presage, forebode, harbinger*
+- **Connotation** · [Omens and Impendings: the sign, not the event](groups.md#connotation__signs-of-what-s-coming-always-bad) — with *portend, presage, forebode, harbinger, imminent*
+- **Opposites** · [Omens: Signs of Good vs. Signs of Bad](groups.md#antonym__good-omen-vs-bad-omen) — with *auspicious, propitious, providential, boon, portend, presage, forebode, harbinger*
+
 ---
 
 # **outlandish** *(adj.)* — **owt-LAN-dish**
@@ -741,6 +844,10 @@ The three chunks sit right there on the surface, and they tell you the exact fla
 Old English **ūtlendisc** = *"of a foreign land"* (**ūt** *out* + **land** + **-ish**). It first meant simply **foreign**, and then drifted the way suspicion drifts: what comes from elsewhere looks odd, and *odd* swallowed *foreign* entirely.
 
 Compare **barbarian** (Greek: someone whose speech sounds like *bar-bar*) — languages keep building "weird" out of "not from here."
+
+### Also sits in
+- **Connotation** · [Off the norm — and who's judging](groups.md#connotation__off-the-norm-condemned) — with *aberrant, wayward, deviate, incongruous*
+- **Opposites** · [Textbook case vs. off-model outlier](groups.md#antonym__textbook-case-vs-off-model-outlier) — with *paradigmatic, archetype, benchmark, conventional, mundane, aberrant, anomalous, incongruous, idiosyncratic*
 
 ---
 
@@ -773,6 +880,13 @@ Indian weddings run on this word: before a venue is booked or a card is printed,
 Latin **propitius** = *"favourable, gracious"* — said of gods inclined toward you: **pro-** (forward, toward) + **petere** (to seek, to go at).
 
 **petere** pays off across the exam: *petition* (formally seek), *appetite* (seeking toward), *compete* (seek alongside), *impetuous* (rushing at), *centripetal* (seeking the centre), and *propitiate* (make the god lean your way).
+
+### Also sits in
+- **Meaning cluster** · [Lucky and well-timed](groups.md#meaning__lucky-and-well-timed) — with *auspicious, providential, fortuitous, serendipitous*
+- **Lookalike** · [Good omens and steep drops: auspicious / propitious / propitiate / precipitate / precipitous](groups.md#lookalike__auspicious-precipitate) — with *auspicious, propitiate, precipitate, precipitous*
+- **Connotation** · [Good For You — Six Kinds of Favourable](groups.md#connotation__good-for-you-said-approvingly) — with *salutary, salubrious, efficacious, auspicious, providential*
+- **Opposites** · [Omens: Signs of Good vs. Signs of Bad](groups.md#antonym__good-omen-vs-bad-omen) — with *auspicious, providential, boon, ominous, portend, presage, forebode, harbinger*
+- **Root family** · [Root: *petere* — to seek, aim at, rush toward](groups.md#root__petere) — with *competent, impetuous, petulant*
 
 ---
 
@@ -830,6 +944,12 @@ Its mirror is an eponym too — **masochistic**, from the Austrian writer **Leop
 
 🚫 **Not from *sad*.** Pure coincidence — English *sad* is Old English *sæd*, "full, sated." Useful hook, false relative.
 
+### Also sits in
+- **Meaning cluster** · [Ill will: felt, spoken, savoured, spreading](groups.md#meaning__wishing-you-harm) — with *malevolent, malign, virulent*
+- **Intensity scale** · [Unfeeling to cruel: callous → malevolent → sadistic](groups.md#intensity__unfeeling-to-cruel) — with *callous, malevolent*
+- **Opposites** · [Feeling for others vs. hardened to them](groups.md#antonym__feeling-for-others-vs-hardened-to-them) — with *empathetic, commiserate, cherish, benevolent, callous, misanthropic, obdurate*
+- **Opposites** · [Wishing well vs. wishing harm](groups.md#antonym__wishing-well-vs-wishing-harm) — with *benevolent, beneficent, benign, altruistic, magnanimous, malevolent, malign, animus, inimical*
+
 ---
 
 # **zenith** *(n.)* — **ZEE-nith**
@@ -857,3 +977,8 @@ Weather and astronomy use it literally every day: the sun is **at its zenith** a
 Arabic **samt al-ra's** = *"the path over the head."* Medieval scribes copying the Latin misread *samt* as *senit* — and the typo became the English word.
 
 That same *samt* gives you **azimuth** (a compass direction), and its opposite point in the sky, **nadir**, is Arabic too (*naẓīr*, "counterpart"). Three GRE-friendly words straight out of Arabic astronomy: **zenith** overhead, **nadir** underfoot, **azimuth** around the horizon.
+
+### Also sits in
+- **Meaning cluster** · [The high point](groups.md#meaning__the-high-point) — with *apogee, prime*
+- **Second meaning** · [Borrowed Points: Sky, Orbit, Music, Lever](groups.md#second-meaning__sky-and-lever-words-for-peaks-and-turning-points) — with *nadir, apogee, crescendo, fulcrum*
+- **Opposites** · [Peak vs. rock bottom](groups.md#antonym__peak-vs-rock-bottom) — with *apogee, prime, nadir, abject*

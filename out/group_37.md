@@ -29,6 +29,10 @@ Latin **ad-** ("to") + **tribuere** ("to allot, assign"), from **tribus**, *trib
 
 That root pays out widely: **tribute** (what you pay over), **contribute** (give along with), **distribute** (deal out), **retribution** (paying back), **tributary** (a river paying into a larger one).
 
+### Also sits in
+- **Meaning cluster** · [Tracing something back to its source](groups.md#meaning__trace-to-a-source) — with *ascribe, stem from*
+- **Second meaning** · [Stress shifts, meaning shifts](groups.md#second-meaning__stress-shifts-meaning-shifts) — with *appropriate, deliberate, intimate, articulate, subordinate*
+
 ---
 
 # **calamitous** *(adj.)* — **kuh-LAM-ih-tuhs**
@@ -55,6 +59,11 @@ The word has only one setting — total ruin — which is why it never takes a s
 
 ### In the wild
 **Calamity Jane** — the Wild West markswoman, and Doris Day's 1953 musical. The nickname was the point: trouble arrived with her.
+
+### Also sits in
+- **Meaning cluster** · [Ruin on a huge scale](groups.md#meaning__ruin-on-a-huge-scale) — with *catastrophic, cataclysmic, conflagration*
+- **Intensity scale** · [Scale of disaster](groups.md#intensity__scale-of-disaster) — with *catastrophic, cataclysmic*
+- **Opposites** · [Luck running with you vs. against you](groups.md#antonym__luck-running-with-you-vs-against-you) — with *serendipitous, fortuitous, providential, boon, hapless, blighted, adverse*
 
 ---
 
@@ -93,6 +102,9 @@ That one root gives you a family: **census** (counting), **censor** (suppressing
 
 🚫 **Not *sensor*.** That's Latin *sentīre*, "to feel" — *sense, sentiment, sentient, consent*. Identical sound, unrelated word.
 
+### Also sits in
+- **Opposites** · [Letting it out vs. keeping it in](groups.md#antonym__letting-it-out-vs-keeping-it-in) — with *divulge, disseminate, betray, apprise, suppress, cloak, occlude, reticent*
+
 ---
 
 # **champion** *(v. / n.)* — **CHAM-pee-uhn**
@@ -119,6 +131,10 @@ Corporate and NGO language runs on this verb — *\"we champion diversity,\"* *\
 Latin **campus** = *"field"* → Late Latin **campiō**, *"a fighter in the field."* In medieval trial by combat, if you were too old, too ill, or too female to fight, you hired a **champion** to fight in your place — which is precisely why the verb still means *to fight on someone else's behalf*.
 
 Same root: **camp**, **campaign** (originally an army taking the field), **campus**.
+
+### Also sits in
+- **Second meaning** · [Plain Nouns That Turn Into Verbs of Promotion](groups.md#second-meaning__plain-nouns-that-turn-into-verbs-of-promotion) — with *advocate, tout, lionize, burnish*
+- **Intensity scale** · [Propping up → fighting for: bolster, buttress, champion](groups.md#intensity__backing-something-up) — with *bolster, buttress*
 
 ---
 
@@ -152,6 +168,12 @@ Latin **compōnere** = *"to put together"* (**com-** together + **pōnere** to p
 
 🚫 The walled-enclosure **compound** is a different word entirely — Malay **kampung**, *"village"*, brought back by traders and reshaped to look like the Latin one.
 
+### Also sits in
+- **Meaning cluster** · [Make a bad thing worse](groups.md#meaning__make-a-bad-thing-worse) — with *exacerbate, escalate, fester*
+- **Intensity scale** · [Making a bad thing worse](groups.md#intensity__making-a-bad-thing-worse) — with *exacerbate, escalate*
+- **Connotation** · [Consequences assumed unwelcome](groups.md#connotation__consequences-assumed-unwelcome) — with *ramification, repercussion, exacerbate, escalate*
+- **Opposites** · [Making it worse vs. taking the edge off](groups.md#antonym__making-it-worse-vs-taking-the-edge-off) — with *exacerbate, escalate, alleviate, ameliorate, assuage, mitigate, mollify, temper*
+
 ---
 
 # **deter** *(v.)* — **dih-TER**
@@ -184,6 +206,10 @@ Latin **dē-** (*away*) + **terrēre** (*to frighten*) — literally *to frighte
 
 That *terrēre* is the big prize: **terror, terrify, terrible, terrific** (originally "causing terror"), and **deterrent**. Once you hear the terror in *deter*, the definition is automatic.
 
+### Also sits in
+- **Meaning cluster** · [Head it off in advance](groups.md#meaning__head-it-off-in-advance) — with *forestall, obviate, preclude, avert*
+- **Opposites** · [Heading it off vs. bringing it on](groups.md#antonym__heading-it-off-vs-bringing-it-on) — with *forestall, obviate, preclude, avert, engender, precipitate, induce, foment, incite*
+
 ---
 
 # **dexterous** *(adj.)* — **DEK-struhs**
@@ -211,6 +237,11 @@ The stressed syllable *is* "deck," which pins the word to fast, precise fingerwo
 Latin **dexter** = *"right, right-handed"* — and the right hand was the skilled, lucky one.
 
 The pairing is the payoff: **dexter** (right) gave us *dexterous, dexterity, **ambidextrous*** ("right-handed on both sides"), while **sinister** (left) gave us *sinister* — the left hand was the clumsy, ill-omened one. Same prejudice built into French: **adroit** is literally *à droit*, "to the right."
+
+### Also sits in
+- **Meaning cluster** · [Quick, light-handed skill](groups.md#meaning__quick-light-handed-skill) — with *deft, nimble, adroit, adept*
+- **Connotation** · [Skill that looks effortless](groups.md#connotation__skill-that-looks-effortless) — with *deft, nimble, adroit, adept, facility*
+- **Opposites** · [Sure-handed vs. all thumbs](groups.md#antonym__sure-handed-vs-all-thumbs) — with *adept, adroit, deft, proficient, facility, inept, gauche, gawky, feckless, cumbersome*
 
 ---
 
@@ -241,6 +272,10 @@ Any lawyer will tell you the first thing you learn reading a judgment is to sepa
 Latin **dīcere** = *"to say"*; **dictum** = *"the thing said."*
 
 One of the highest-yield roots on the exam: **dictate, dictator, dictionary, verdict** (*truly said*), **edict, contradict, predict, indict, benediction, malediction, valedictorian**.
+
+### Also sits in
+- **Meaning cluster** · [The One-Line Truth: Earned, Issued, or Counterfeit](groups.md#meaning__a-crafted-general-truth) — with *aphorism, platitude, bromide*
+- **Root family** · [Root: dicere, dictum (to say)](groups.md#root__dicere) — with *dictate, indictment*
 
 ---
 
@@ -304,6 +339,10 @@ Greek **en-** (*in*) + **pathos** (*feeling, suffering*) — literally *feeling-
 
 One root, a whole GRE cluster: **sympathy** (feeling *with*), **antipathy** (feeling *against*), **apathy** (*no* feeling), **pathos**, **pathetic**, **telepathy**, and medical **pathology** (the study of suffering).
 
+### Also sits in
+- **Opposites** · [Feeling for others vs. hardened to them](groups.md#antonym__feeling-for-others-vs-hardened-to-them) — with *commiserate, cherish, benevolent, callous, sadistic, misanthropic, obdurate*
+- **Root family** · [pathos (feeling) + anti- (against): feeling against, feeling nothing, feeling into](groups.md#root__pathos) — with *antipathy, apathy*
+
 ---
 
 # **ensue** *(v.)* — **en-SOO**
@@ -332,6 +371,9 @@ The word's stock companions are all aftermath, so remember it as the verb for wh
 ### Where it comes from
 Latin **sequī** = *"to follow"* (via Old French *ensivre*, "to follow upon"). That root is a GRE goldmine: **sequence, consequence, sequel, subsequent, pursue, prosecute, obsequious** (following your boss around), **non sequitur** (a statement that doesn't follow).
 
+### Also sits in
+- **Meaning cluster** · [What Follows After](groups.md#meaning__what-follows-after) — with *ramification, repercussion*
+
 ---
 
 # **fathom** *(v. / n.)* — **FADH-uhm**
@@ -359,6 +401,10 @@ The Little Mermaid opens with the sailors' shanty **"Fathoms Below"** — a song
 ### Where it comes from
 Old English **fæthm** = *the span of a man's outstretched arms*, about six feet. Sailors measured depth by hauling up the sounding rope and counting it off in arm-spans — so a **fathom** became a unit of depth, and *to fathom* became to find the bottom.
 
+### Also sits in
+- **Meaning cluster** · [Working out a meaning that won't come easily](groups.md#meaning__work-out-a-hidden-meaning) — with *construe, decipher, exegesis*
+- **Second meaning** · [Nautical words on dry land](groups.md#second-meaning__nautical-words-on-dry-land) — with *jettison, abreast, buoyant*
+
 ---
 
 # **frank** *(adj.)* — **FRANK**
@@ -384,6 +430,12 @@ Point-blank gives you both halves at once: aimed straight at the awkward thing, 
 From the **Franks**, the Germanic tribe that conquered Gaul. Under Frankish rule only Franks held full liberty — so *frank* came to mean **free**, then *free-speaking*.
 
 That root is worth owning: **France** (land of the Franks), **franchise** and **enfranchise** (to grant a freedom or a vote), **lingua franca** (a free-trade common tongue), and **to frank** a letter — stamp it to travel *free* of postage.
+
+### Also sits in
+- **Meaning cluster** · [Guileless openness: by nature vs. by choice](groups.md#meaning__guileless-openness) — with *ingenuous, artless, candid*
+- **Connotation** · [Honesty as a Compliment](groups.md#connotation__honesty-as-a-compliment) — with *candid, veracity, probity, scrupulous, disinterested*
+- **Opposites** · [Saying it outright vs. hinting at it](groups.md#antonym__saying-it-outright-vs-hinting-at-it) — with *candid, articulate, overt, allude, allusive, intimate, euphemism, tacit, implicit*
+- **Opposites** · [Straight answer vs. dodging the question](groups.md#antonym__straight-answer-vs-dodging-the-question) — with *candid, aver, articulate, equivocate, prevaricate, evasive, evade, skirt, demur*
 
 ---
 
@@ -413,6 +465,11 @@ Behind it sits **germen**, *"sprout, bud"* — which gives you **germ**, **germi
 
 🚫 **Nothing to do with Germany.** That name has a separate, murky origin; the resemblance is an accident.
 
+### Also sits in
+- **Meaning cluster** · [To the Point](groups.md#meaning__to-the-point) — with *pertinent, apposite, apropos, apt, felicitous*
+- **Connotation** · [Fitting exactly — but praised for what?](groups.md#connotation__fitting-exactly-and-praised-for-it) — with *pertinent, apposite, apropos, felicitous*
+- **Opposites** · [On the point vs. off it](groups.md#antonym__on-the-point-vs-off-it) — with *pertinent, apposite, apropos, apt, extraneous, tangential, digression, peripheral, incidental*
+
 ---
 
 # **grumble** *(v. / n.)* — **GRUM-buhl**
@@ -433,6 +490,11 @@ The word literally contains *rumble*, which fixes both senses at once: the mutte
 
 ### In the wild
 Your stomach **grumbling** before lunch — same word, same low rolling noise, which is exactly why the complaining sense feels the way it does.
+
+### Also sits in
+- **Meaning cluster** · [Complaint: the tone, the mutter, the man, the claim](groups.md#meaning__habitual-complaining) — with *querulous, curmudgeon, grievance*
+- **Connotation** · [Complaint as a Temperament](groups.md#connotation__complaint-as-a-temperament) — with *querulous, petulant, captious, fractious, curmudgeon*
+- **Opposites** · [Complaining vs. bearing it in silence](groups.md#antonym__complaining-vs-bearing-it-in-silence) — with *querulous, curmudgeon, petulant, fractious, grievance, stoic, forbear, content, equanimity, abide*
 
 ---
 
@@ -457,6 +519,15 @@ In business and political journalism it travels as a fixed pair: **hidebound bur
 
 ### Where it comes from
 Originally a **cattle term**. A starving cow's **hide** clings so tightly to its ribs that it cannot be pulled loose and the animal can barely move — such a beast was *hide-bound*. The picture of a body trapped inside its own skin transferred straight onto minds and institutions.
+
+### Also sits in
+- **Meaning cluster** · [Dug in against change](groups.md#meaning__dug-in-against-change) — with *entrenched, ingrained, ossify, inveterate*
+- **Second meaning** · [From Stable and Field: Farm Words That Went Mental](groups.md#second-meaning__stable-and-field-words-for-the-mind) — with *ruminate, bridle, goad, fallow, fledgling*
+- **Intensity scale** · [Fixed by Habit to Unchangeable](groups.md#intensity__fixed-by-habit-to-unchangeable) — with *ingrained, entrenched, immutable*
+- **Connotation** · [Belief Held Past Argument](groups.md#connotation__belief-held-past-argument) — with *dogmatic, doctrinaire, ideologue, ossify, zealous*
+- **Connotation** · [Old enough to be discredited](groups.md#connotation__old-enough-to-be-discredited) — with *obsolete, archaic, vestigial, anachronistic*
+- **Opposites** · [Orthodox vs. heretical](groups.md#antonym__orthodox-vs-heretical) — with *conventional, staid, doctrinaire, dogmatic, iconoclastic, heterodox, radical, eccentric, fringe*
+- **Opposites** · [Rigidly set vs. easily shaped](groups.md#antonym__rigidly-set-vs-easily-shaped) — with *ossify, entrenched, ingrained, doctrinaire, immutable, malleable, pliant, plastic, supple, tractable, amenable*
 
 ---
 
@@ -492,6 +563,11 @@ Greek **hypokritēs** = *"a stage actor"* — literally one who answers/plays a 
 
 **krinein** is a high-yield GRE root: **critic**, **critique**, **criterion**, **crisis** (the moment of decision), **diacritic**.
 
+### Also sits in
+- **Meaning cluster** · [Dishonest by character](groups.md#meaning__dishonest-by-character) — with *disingenuous, mendacity, duplicitous, perfidy*
+- **Meaning cluster** · [Parading your own virtue](groups.md#meaning__parading-your-own-virtue) — with *sanctimonious, pious, posturing*
+- **Connotation** · [Virtue performed rather than held](groups.md#connotation__virtue-performed-rather-than-held) — with *sanctimonious, pious, didactic, posturing*
+
 ---
 
 # **impolitic** *(adj.)* — **im-POL-uh-tik**
@@ -524,6 +600,9 @@ Greek **polis** = *"city"* → **politikos**, "to do with running the city." Run
 
 That root pays out everywhere: **politics, policy, police, metropolis** (mother-city), **cosmopolitan** (citizen of the world), **acropolis** (high city).
 
+### Also sits in
+- **Meaning cluster** · [Offending against good form](groups.md#meaning__offending-against-good-form) — with *indecorous, unseemly, gauche*
+
 ---
 
 # **insidious** *(adj.)* — **in-SID-ee-uhs**
@@ -555,6 +634,13 @@ The hidden word gets both halves of the meaning: concealment plus the fact that 
 Latin **insidiae** = *"an ambush"* — literally *in-* (in) + **sedēre** (to sit). Troops **sitting in wait** by the roadside. Every part of the modern sense is in that picture: hidden, patient, lethal on contact.
 
 **sedēre** is a workhorse root: **sedentary** (sitting), **reside**, **preside**, **sediment**, **session**, and the GRE favourite **assiduous** (sitting *at* a task).
+
+### Also sits in
+- **Meaning cluster** · [Slow, hidden harm](groups.md#meaning__slow-hidden-harm) — with *deleterious, detrimental, pernicious*
+- **Lookalike** · [insidious / invidious / insipid / vapid — near-twins, different verdicts](groups.md#lookalike__insidious-insipid) — with *invidious, odious, insipid, vapid, vacuous, intrepid*
+- **Connotation** · [Secrecy that implies guilt](groups.md#connotation__secrecy-that-implies-guilt) — with *furtive, surreptitious, clandestine, ulterior*
+- **Opposites** · [Health-giving vs. quietly poisonous](groups.md#antonym__health-giving-vs-quietly-poisonous) — with *salubrious, salutary, conducive, efficacious, benign, deleterious, detrimental, pernicious, noxious, virulent*
+- **Root family** · [Root: sedere (to sit) — where you sit decides what you mean](groups.md#root__sedere) — with *dissident, residual, supersede*
 
 ---
 
@@ -591,6 +677,9 @@ Latin **inter** (*between*) + **medius** (*middle*) — literally "in the middle
 
 *Medius* is a workhorse root: **medium**, **median**, **mediate**, **medieval** (the Middle Ages), **Mediterranean** (the sea in the middle of the earth), and **mediocre** — literally "halfway up the mountain," i.e. middling.
 
+### Also sits in
+- **Meaning cluster** · [Standing Between Two Sides](groups.md#meaning__standing-between-two-sides) — with *mediate, proxy, reconcile*
+
 ---
 
 # **passive** *(adj.)* — **PAS-iv**
@@ -623,6 +712,9 @@ Latin **patī, passus** = *"to suffer, to undergo"* — to be on the receiving e
 
 That root pays off widely: **patient** (one who undergoes), **compassion** (suffering *with*), **passion** — which originally meant *suffering*, which is why the Crucifixion is called the **Passion** of Christ, not a romance. **Passive** is the plain adjective of the family: you don't do, you're done to.
 
+### Also sits in
+- **Meaning cluster** · [Willing to go along](groups.md#meaning__willing-to-go-along) — with *amenable, tractable, acquiesce*
+
 ---
 
 # **raillery** *(n.)* — **RAY-luh-ree**
@@ -649,6 +741,11 @@ A Jane Austen word: the drawing-room sport of teasing a friend about who she's i
 ### Where it comes from
 French **raillerie**, from **railler** *"to tease."* The same French verb gave English **rail** (v.) — *to rail against* something — which kept the heat and lost the humour. One root, two temperatures: **raillery** teases, **railing** rants. The old sense of **rally** (*"to rally someone about"* = to tease them) is the same word too.
 
+### Also sits in
+- **Meaning cluster** · [Mockery: from contempt to affection](groups.md#meaning__mocking-ridicule) — with *deride, lampoon, satirical, caricature*
+- **Intensity scale** · [Teasing to public ridicule](groups.md#intensity__teasing-to-public-ridicule) — with *satirical, lampoon*
+- **Opposites** · [Grave vs. flippant](groups.md#antonym__grave-vs-flippant) — with *sober, staid, stern, decorum, levity, facetious, frivolous, droll, bawdy*
+
 ---
 
 # **ramble** *(v. / n.)* — **RAM-buhl**
@@ -670,6 +767,12 @@ Whether it's your legs or your sentences, an amble that roams has no destination
 
 ### In the wild
 Led Zeppelin's **"Ramble On"** — the title *is* the definition: keep moving, no destination, wherever the road goes.
+
+### Also sits in
+- **Meaning cluster** · [Off the point — or just going on too long](groups.md#meaning__wandering-off-the-subject) — with *digression, tangential, expatiate*
+- **Meaning cluster** · [Talking Too Much: Where the Complaint Lands](groups.md#meaning__talking-too-much) — with *garrulous, loquacious, voluble*
+- **Connotation** · [Talks a lot — the word does the judging](groups.md#connotation__talks-a-lot-the-word-does-the-judging) — with *loquacious, voluble, garrulous, expatiate, verbose, prolix*
+- **Opposites** · [Talks too much vs. says little](groups.md#antonym__talks-too-much-vs-says-little) — with *garrulous, loquacious, voluble, expatiate, laconic, taciturn, reticent*
 
 ---
 
@@ -699,6 +802,11 @@ French **ressentir** = *"to feel back, feel again"* — **re-** + **sentir**, fr
 
 That root is a GRE workhorse: **sentiment**, **sentient**, **consent** (feel *with*), **dissent** (feel *apart*), **sensation**, **resentment**.
 
+### Also sits in
+- **Meaning cluster** · [Provoked anger: grievance and who it makes look bad](groups.md#meaning__provoked-anger) — with *ire, umbrage, indignant*
+- **Opposites** · [Letting it go vs. never letting it go](groups.md#antonym__letting-it-go-vs-never-letting-it-go) — with *magnanimous, forbear, condone, relent, exonerate, implacable, obdurate, retaliate, enmity*
+- **Root family** · [Root: sentire (to feel, to perceive)](groups.md#root__sentire) — with *consensus, dissent, sensational, sentimental*
+
 ---
 
 # **residual** *(adj. / n.)* — **ri-ZIJ-oo-uhl**
@@ -725,6 +833,10 @@ In Hollywood, **residuals** are the payments actors and writers get every time a
 Latin **residēre** = *"to sit back, stay behind"* — *re-* (back) + *sedēre* (to sit).
 
 That *sedēre* root is a GRE goldmine: **sedentary** (sitting), **sediment** (what sits at the bottom), **preside** (sit in front), **subside** (sit back down), **session**, **assiduous** (sitting at it doggedly).
+
+### Also sits in
+- **Meaning cluster** · [Left Over From Before](groups.md#meaning__left-over-from-before) — with *vestigial, extant*
+- **Root family** · [Root: sedere (to sit) — where you sit decides what you mean](groups.md#root__sedere) — with *dissident, insidious, supersede*
 
 ---
 
@@ -755,6 +867,9 @@ Latin **re-** + **solvere** = *"to loosen, untie."* The knot-loosening idea runs
 
 Note the shape: a *solution* of salt and a *solution* to a puzzle are the same word, because both are things coming undone.
 
+### Also sits in
+- **Root family** · [Root: solvere (to loosen, dissolve) — dissolving doubt into decision](groups.md#root__solvere) — with *resolute, irresolute*
+
 ---
 
 # **surrogate** *(n. / adj.)* — **SUR-uh-gut**
@@ -782,6 +897,9 @@ You'd never call a spare tyre a surrogate, because the word wants a role someone
 Latin **subrogāre** = *"to ask in place of another"* — *sub-* here meaning "in place of," plus **rogāre**, *"to ask, to propose."* Originally the Roman act of proposing a substitute official.
 
 **rogāre** is a high-yield GRE root: **interrogate** (ask between/thoroughly), **arrogant** (claiming for oneself), **prerogative** (asked for first — a privilege), **abrogate** (ask away — repeal), **derogatory** (asking down — belittling).
+
+### Also sits in
+- **Meaning cluster** · [One stands in for another](groups.md#meaning__one-stands-in-for-another) — with *fungible, interchangeable, proxy*
 
 ---
 
@@ -813,6 +931,12 @@ Same root: **vile**, **revile**, **vilification**.
 
 🚫 **Not from *villain*.** That's Latin *villa* — a farmhand, a peasant, someone tied to the estate. Everyone assumes vilify = "make into a villain"; the real image is a price tag being slashed.
 
+### Also sits in
+- **Meaning cluster** · [Attacking a reputation](groups.md#meaning__attack-a-reputation) — with *malign, denigrate, impugn, stigmatize*
+- **Intensity scale** · [Attacking a reputation](groups.md#intensity__attacking-a-reputation) — with *belittle, denigrate, defame, calumny*
+- **Connotation** · [Attacks on a reputation](groups.md#connotation__attacks-on-a-reputation) — with *aspersion, impugn, denigrate, malign, defame, slander, calumny*
+- **Opposites** · [Praising to the skies vs. tearing down](groups.md#antonym__praising-to-the-skies-vs-tearing-down) — with *extol, acclaim, laudable, meritorious, estimable, excoriate, castigate, denigrate, scathing*
+
 ---
 
 # **wanting** *(adj.)* — **WON-ting**
@@ -840,6 +964,11 @@ The phrase's home is the writing on the wall in **Daniel 5** — Belshazzar is t
 
 ### Where it comes from
 **Want** entered English from Old Norse **vanta**, *"to lack"* — and lacking was the *original* meaning. The desire sense came later and second-hand: "I want bread" began life as *bread is lacking to me*. So the GRE meaning isn't a strange outlier; it's the older, straighter sense, still visible in **wanting** and in *for want of a nail*.
+
+### Also sits in
+- **Meaning cluster** · [Not enough of it](groups.md#meaning__not-enough-of-it) — with *dearth, scant, sparse, paltry*
+- **Opposites** · [Overflowing supply vs. shortage](groups.md#antonym__overflowing-supply-vs-shortage) — with *abound, copious, profuse, surfeit, inundate, dearth, scant, sparse, paltry*
+- **Opposites** · [Rising above vs. falling short](groups.md#antonym__rising-above-vs-falling-short) — with *outstrip, surmount, transcend, prevail, vanquish, falter, languish, regress*
 
 ---
 
@@ -869,3 +998,7 @@ It isn't a lack of will but a surplus, aimed only at itself — which is why the
 
 ### In the wild
 Read almost any contract or insurance policy and you'll hit the carve-out **"except in cases of gross negligence or willful misconduct"** — the clause that says a company can cap its liability for mistakes, but never for things it did on purpose.
+
+### Also sits in
+- **Meaning cluster** · [Won't Be Steered](groups.md#meaning__wilfully-unsteerable) — with *headstrong, wayward, restive*
+- **Connotation** · [Refusal to bend, condemned](groups.md#connotation__refusal-to-bend-condemned) — with *obstinate, obdurate, pertinacious, intransigent, headstrong*

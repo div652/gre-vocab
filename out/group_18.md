@@ -26,6 +26,11 @@ The abettor stays one step back, funding or urging or driving the getaway car, w
 ### Where it comes from
 Old French **abeter** = *"to hound on, incite"* — literally **to bait**, as in setting a dog on something. Same root as English **bait** and **bite**: the abettor is the one snapping at your heels until you go through with it.
 
+### Also sits in
+- **Meaning cluster** · [Plotting together](groups.md#meaning__plot-together) — with *collude, conspire, intrigue, collaborate*
+- **Connotation** · [Words that carry the guilt inside them](groups.md#connotation__verbs-that-presume-wrongdoing) — with *perpetrate, collude, conspire, premeditate, malfeasance*
+- **Opposites** · [Helping it along vs. holding it back](groups.md#antonym__speeding-it-along-vs-holding-it-back) — with *expedite, bolster, conducive, galvanize, hamper, hinder, impede, impediment, inhibit, curb, check*
+
 ---
 
 # **accessible** *(adj.)* — **uhk-SES-uh-buhl**
@@ -82,6 +87,12 @@ Latin **quaerere** = *"to seek, to ask,"* plus *ad-* ("toward") → *acquirere*,
 
 That root is a GRE goldmine: **inquire, require, query, quest, conquest, request, perquisite** (your "perks"), **exquisite** (sought *out* — hence choice).
 
+### Also sits in
+- **Meaning cluster** · [Grasping greed: wanting more, and wanting yours](groups.md#meaning__grasping-greed) — with *avaricious, rapacious, covet*
+- **Intensity scale** · [Grades of greed](groups.md#intensity__grades-of-greed) — with *avaricious, rapacious*
+- **Connotation** · [Wanting Money: The Charge Rising](groups.md#connotation__wanting-money-charge-rising) — with *covet, mercenary, avaricious, venal, rapacious*
+- **Opposites** · [Grasping for more vs. giving it away](groups.md#antonym__grasping-for-more-vs-giving-it-away) — with *avaricious, rapacious, covet, venal, mercenary, altruistic, munificent, beneficent, largesse, endow*
+
 ---
 
 # **amalgamate** *(v.)* — **uh-MAL-guh-mayt**
@@ -107,6 +118,12 @@ The silver filling in a back tooth is called an **amalgam** — mercury dissolve
 Medieval Latin **amalgama**, "an alloy of mercury with another metal" (probably via Arabic *al-malgham*). Mercury is the key: it doesn't sit alongside another metal, it swallows it into one soft mass.
 
 Family: **amalgam** (the alloy, and by extension any true blend), **amalgamation** (the corporate merger sense you meet in every business headline).
+
+### Also sits in
+- **Meaning cluster** · [Merge into one — and the one that only crowds](groups.md#meaning__merge-into-one) — with *coalesce, subsume, cluster*
+- **Intensity scale** · [Clustered, Coalesced, Amalgamated: Degrees of Becoming One](groups.md#intensity__grouped-to-fully-merged) — with *cluster, coalesce*
+- **Opposites** · [Merging into one vs. splitting apart](groups.md#antonym__merging-together-vs-splitting-apart) — with *coalesce, subsume, cluster, polarize, schism, factious, sever, disperse, dichotomy*
+- **Opposites** · [Taking in vs. shutting out](groups.md#antonym__taking-in-vs-shutting-out) — with *subsume, all-encompassing, universal, marginalize, relegate, banish, alienate, immure, quarantine*
 
 ---
 
@@ -136,6 +153,14 @@ Latin **ad-** ("to") + **tenuāre** ("make thin"), from **tenuis** = *"thin."*
 
 Same root gives you **tenuous** (a thin, barely-holding argument) and **extenuate** — literally *to thin out the blame*, which is exactly what **extenuating circumstances** do. English **thin** is a distant cousin of the same ancient root.
 
+### Also sits in
+- **Meaning cluster** · [Dying down gradually](groups.md#meaning__die-down-gradually) — with *abate, subside, wane, dwindling*
+- **Meaning cluster** · [Weakening Without Destroying](groups.md#meaning__drain-of-strength) — with *enervate, debilitating, impair*
+- **Intensity scale** · [Weakening: from dialed down to disabled](groups.md#intensity__weakening-a-thing) — with *impair, enervate, debilitating*
+- **Opposites** · [Propping up vs. undermining](groups.md#antonym__propping-up-vs-undermining) — with *bolster, buttress, augment, invigorate, corroborate, undermine, undercut, impair, enervate, vitiate*
+- **Opposites** · [Swelling vs. dying down](groups.md#antonym__swelling-vs-dying-down) — with *augment, amplify, burgeon, escalate, crescendo, abate, wane, subside, dwindling, curtail*
+- **Root family** · [Root: tenuis (thin) — attenuate, extenuating, tenuous](groups.md#root__tenuis) — with *extenuating, tenuous*
+
 ---
 
 # **augment** *(v.)* — **awg-MENT**
@@ -159,6 +184,12 @@ That base requirement is the whole line between *augment* and *create*: you add 
 
 ### Where it comes from
 Latin **augēre** = *"to increase, to make grow."* It pays out across the exam: **auction** (bidding drives the price up), **auxiliary** (extra troops added to the main force), **august** / **Augustus** (grand, magnified), and **author** (Latin *auctor*, the one who makes a thing grow).
+
+### Also sits in
+- **Meaning cluster** · [Prop up, add to, turn up](groups.md#meaning__prop-up-and-strengthen) — with *bolster, buttress, amplify*
+- **Intensity scale** · [Making Bigger: Adding To, Turning Up, Puffing Up](groups.md#intensity__making-bigger) — with *amplify, aggrandize*
+- **Opposites** · [Propping up vs. undermining](groups.md#antonym__propping-up-vs-undermining) — with *bolster, buttress, invigorate, corroborate, undermine, undercut, impair, enervate, vitiate, attenuate*
+- **Opposites** · [Swelling vs. dying down](groups.md#antonym__swelling-vs-dying-down) — with *amplify, burgeon, escalate, crescendo, abate, attenuate, wane, subside, dwindling, curtail*
 
 ---
 
@@ -196,6 +227,12 @@ Latin **ab-** (*away*) + **vertere** (*to turn*) = "a turning away."
 
 And it explains the trap: **adverse** is *ad-* (*toward*) + *vertere* — conditions turned **against** you.
 
+### Also sits in
+- **Meaning cluster** · [Settled hostility vs. settled dislike](groups.md#meaning__settled-hostility) — with *animosity, animus, enmity, antipathy*
+- **Intensity scale** · [From cold aversion to moral abhorrence](groups.md#intensity__dislike-to-loathing) — with *antipathy, loathe, abhor*
+- **Opposites** · [Craving vs. recoiling](groups.md#antonym__craving-vs-recoiling) — with *relish, cherish, affinity, penchant, predilection, avid, abhor, loathe, antipathy, repugnant, odious*
+- **Root family** · [Root: vertere / versus (to turn) — the prefix decides the direction](groups.md#root__vertere) — with *adverse, divorced, incontrovertible, versatile*
+
 ---
 
 # **blithe** *(adj.)* — **BLEYEDH**
@@ -221,6 +258,12 @@ Noël Coward's comedy **Blithe Spirit** — a man haunted by the ghost of his fi
 
 ### Where it comes from
 Old English **blīþe** = *"joyous, gentle, kind"* — the same root that gives you **bliss**. Blithe is bliss worn on the outside: bliss is the feeling, blithe is the manner. The disapproving edge is a modern addition; the root itself is entirely sunny.
+
+### Also sits in
+- **Meaning cluster** · [Airily unconcerned](groups.md#meaning__airily-unconcerned) — with *nonchalant, cavalier*
+- **Intensity scale** · [Unbothered to unfeeling](groups.md#intensity__unbothered-to-unfeeling) — with *nonchalant, cavalier, callous*
+- **Opposites** · [On guard vs. asleep at the wheel](groups.md#antonym__on-guard-vs-asleep-at-the-wheel) — with *vigilant, wary, circumspect, heed, chary, oblivious, cavalier, complacent, lax*
+- **Opposites** · [Seeing far ahead vs. seeing no further than your nose](groups.md#antonym__seeing-far-ahead-vs-seeing-no-further-than-your-nose) — with *prescient, sagacious, visionary, prudent, myopic, oblivious, complacent*
 
 ---
 
@@ -256,6 +299,10 @@ Latin **contemnere** = *"to scorn, to think nothing of"* (*con-* intensive + *te
 
 🚫 **Nothing to do with *tempt*.** That's Latin *temptare*, "to test, to try" — *attempt, temptation*. The shared spelling is an accident.
 
+### Also sits in
+- **Meaning cluster** · [Looking down: from private verdict to open rejection](groups.md#meaning__cold-contempt) — with *disdain, scorn, spurn*
+- **Intensity scale** · [Contempt, private to public](groups.md#intensity__contempt-private-to-public) — with *disdain, scorn, opprobrium*
+
 ---
 
 # **dawdle** *(v.)* — **DAW-duhl**
@@ -273,6 +320,13 @@ The rhyme locks in the key nuance: a dawdler hasn't refused the task or stopped 
 ### In sentences
 1. He **dawdled** over the last chapter for three months, rereading paragraphs he had already approved.
 2. Don't **dawdle** — the film starts in ten minutes and you're still looking for socks.
+
+### Also sits in
+- **Meaning cluster** · [Moving far too slowly](groups.md#meaning__moving-far-too-slowly) — with *dilatory, plodding, sluggish*
+- **Meaning cluster** · [Won't do the work](groups.md#meaning__won-t-do-the-work) — with *indolent, feckless, shirk, dilatory*
+- **Connotation** · [Idleness Blamed: Seven Different Accusations](groups.md#connotation__idleness-blamed) — with *indolent, feckless, shirk, dilatory, slovenly, desultory*
+- **Opposites** · [Brisk vs. Dragging](groups.md#antonym__brisk-vs-dragging) — with *alacrity, expedite, nimble, frenetic, dilatory, plodding, ponderous, sluggish, languid*
+- **Opposites** · [Tireless Industry vs. Work-Dodging](groups.md#antonym__tireless-industry-vs-work-dodging) — with *industrious, sedulous, indefatigable, painstaking, perseverance, dogged, indolent, feckless, shirk, dilatory, sinecure*
 
 ---
 
@@ -328,6 +382,9 @@ Old French *desconter*, from Latin **dis-** (*away*) + **computare** (*to reckon
 
 *Computare* is a workhorse root: **compute**, **computer**, **count**, **recount**, **account**. Keep the literal image and the abstract sense falls out — discounting an argument is subtracting it from your total.
 
+### Also sits in
+- **Meaning cluster** · [Treat as unimportant](groups.md#meaning__treat-as-unimportant) — with *belittle, detract, slight, deride*
+
 ---
 
 # **dissident** *(n. / adj.)* — **DIS-i-duhnt**
@@ -359,6 +416,11 @@ The phrase you've read a hundred times in headlines: **"Russian dissident Alexei
 Latin **dis-** (*apart*) + **sedēre** (*to sit*) — literally *"to sit apart."*
 
 That root is a GRE goldmine: **reside** (sit back), **preside** (sit in front), **subside** (settle down), **sedentary** (sitting), **sediment** (what sits at the bottom), **assiduous** (sitting at it doggedly), **insidious** (sitting in ambush).
+
+### Also sits in
+- **Meaning cluster** · [Breaking with the official line](groups.md#meaning__open-opposition-to-authority) — with *dissent, mutiny, heterodox, iconoclastic*
+- **Opposites** · [Falling in line vs. breaking ranks](groups.md#antonym__falling-in-line-vs-breaking-ranks) — with *comply, adhere, acquiesce, deference, obeisance, tractable, dissent, flout, contravene, mutiny, obstreperous*
+- **Root family** · [Root: sedere (to sit) — where you sit decides what you mean](groups.md#root__sedere) — with *insidious, residual, supersede*
 
 ---
 
@@ -393,6 +455,13 @@ The 2020–21 vaccine headlines ran on this word's noun form — "95% **efficacy
 Latin **efficere** = *"to bring about"* — from *ex-* ("out") + *facere* ("to make, to do").
 
 *Facere* is one of the great GRE roots: **factory, manufacture, benefactor, facile, feasible, affect, effect**. Anything with *-fac-, -fic-, -fect-* is doing or making something.
+
+### Also sits in
+- **Meaning cluster** · [It actually works](groups.md#meaning__it-actually-works) — with *potent, fruitful, salutary*
+- **Connotation** · [Good For You — Six Kinds of Favourable](groups.md#connotation__good-for-you-said-approvingly) — with *salutary, salubrious, propitious, auspicious, providential*
+- **Opposites** · [Health-giving vs. quietly poisonous](groups.md#antonym__health-giving-vs-quietly-poisonous) — with *salubrious, salutary, conducive, benign, deleterious, detrimental, pernicious, noxious, insidious, virulent*
+- **Opposites** · [Workable vs. hopeless](groups.md#antonym__workable-vs-hopeless) — with *feasible, viable, tenable, fruitful, futile, quixotic, fanciful, illusory*
+- **Root family** · [Root: *facere* (to make, to do)](groups.md#root__facere) — with *counterfeit, factious, feasible, malfeasance, proficient*
 
 ---
 
@@ -430,6 +499,12 @@ The high-value one is the negative: **in- + aequus → iniquity**, literally *un
 
 🚫 Nothing to do with **equestrian** or **equine** — those are *equus*, "horse."
 
+### Also sits in
+- **Meaning cluster** · [Fair to all sides](groups.md#meaning__fair-to-all-sides) — with *egalitarian, disinterested, commensurate*
+- **Opposites** · [Impartial vs. slanted](groups.md#antonym__impartial-vs-slanted) — with *disinterested, egalitarian, partial, tendentious, polemical, invidious, chauvinistic*
+- **Opposites** · [Levelling vs. Ranking: Equal, Fair, and Above](groups.md#antonym__everyone-equal-vs-a-chosen-few-above) — with *egalitarian, elitist, echelon, chauvinistic, patronize*
+- **Root family** · [Root: aequus, aequalis (level, equal)](groups.md#root__aequus) — with *egalitarian, equanimity, equivocate*
+
 ---
 
 # **erratic** *(adj.)* — **ih-RAT-ik**
@@ -459,6 +534,11 @@ Latin **errāre** = *"to wander."* Not "to be wrong" originally — the wrongnes
 That root fans out usefully: **err**, **error**, **erroneous** (strayed into wrongness), **errant** / **knight-errant** (literally a wandering knight), **aberrant** (wandered *away* from the norm).
 
 Geologists still use the old sense: an **erratic** is a boulder a glacier carried miles from its home rock and abandoned in a field where it doesn't belong.
+
+### Also sits in
+- **Meaning cluster** · [Stopping and starting](groups.md#meaning__stopping-and-starting) — with *intermittent, sporadic, fitful, desultory*
+- **Connotation** · [Changeability condemned](groups.md#connotation__changeability-condemned) — with *capricious, fickle, mercurial, volatile*
+- **Opposites** · [Unwavering vs. wavering](groups.md#antonym__unwavering-vs-wavering) — with *steadfast, resolute, stalwart, dogged, capricious, mercurial, fickle, vacillate, irresolute, volatile*
 
 ---
 
@@ -492,6 +572,10 @@ Latin **industria** = *"diligence, purposeful activity."*
 
 The useful bit: **industry** originally meant *hard work*, not factories — that older sense survives fossilised in *industrious*. Learn it that way and *industrious* vs *industrial* stops being confusing.
 
+### Also sits in
+- **Intensity scale** · [Industrious → Indefatigable: Hard Work to Tirelessness](groups.md#intensity__hard-work-to-tirelessness) — with *sedulous, dogged, indefatigable*
+- **Opposites** · [Tireless Industry vs. Work-Dodging](groups.md#antonym__tireless-industry-vs-work-dodging) — with *sedulous, indefatigable, painstaking, perseverance, dogged, indolent, feckless, shirk, dilatory, dawdle, sinecure*
+
 ---
 
 # **inform** *(v.)* — **in-FORM**
@@ -520,6 +604,9 @@ Latin **informāre** = *"to give form to, to shape"* — **in-** (into) + **form
 
 Same root, free of charge: **form, conform** (shape yourself to fit), **reform** (shape again), **deform, formation, formula, format**.
 
+### Also sits in
+- **Second meaning** · [Plain verbs doing abstract work](groups.md#second-meaning__plain-verbs-doing-abstract-work) — with *render, coin, prime, reflect*
+
 ---
 
 # **irksome** *(adj.)* — **IRK-suhm**
@@ -542,6 +629,9 @@ The rhyme pins the word to the low end of the annoyance scale: small, recurring,
 
 ### In the wild
 Headline-ese lives on the verb: *"Tariff plan irks allies."* Newspapers reach for **irks** because it's four letters and means "annoyed, but not a crisis" — exactly the word's register.
+
+### Also sits in
+- **Meaning cluster** · [The Drip, Not the Fire: Small Persistent Annoyance](groups.md#meaning__small-persistent-annoyance) — with *nettlesome, vexation, exasperated*
 
 ---
 
@@ -570,6 +660,9 @@ Martin Luther King Jr., *I Have a Dream*: the Black American is "still sadly cri
 Latin **manus** = *"hand"*, via *manicula*, "little hand." One root, a large family: **manual**, **manuscript** (hand-written), **manufacture** (hand-made), **manicure**, **manipulate**.
 
 Best pairing: **manacle** and **emancipate** are opposites from the same root — *ex + manus + capere*, "to take out of the hand" of an owner. One puts the iron on; the other takes it off.
+
+### Also sits in
+- **Meaning cluster** · [Shut in by force](groups.md#meaning__shut-in-by-force) — with *circumscribe, immure, quarantine*
 
 ---
 
@@ -603,6 +696,11 @@ Latin **modus** = *"measure, limit."* A modest person keeps within the measure.
 
 That root is worth banking: **moderate, modify, modulate, mode, modicum** (a small measure), **commodious** (well-measured, roomy), **accommodate**.
 
+### Also sits in
+- **Second meaning** · [Praise-shaped words that damn faintly](groups.md#second-meaning__praise-shaped-words-that-damn-faintly) — with *competent, passable, laudable*
+- **Connotation** · [Faint praise dressed as praise](groups.md#connotation__faint-praise-dressed-as-praise) — with *passable, competent, sound, laudable*
+- **Opposites** · [Playing it down vs. puffing it up](groups.md#antonym__playing-it-down-vs-puffing-it-up) — with *retiring, understated, deprecate, hyperbole, bravado, pretentious, pomposity, bombastic, aggrandize, narcissism*
+
 ---
 
 # **noxious** *(adj.)* — **NOK-shuhs**
@@ -634,6 +732,12 @@ Governments publish official **noxious weed** lists — plants legally classed a
 Latin **nocēre** = *"to harm."* It runs through a useful family: **innocuous** (*in-* + *nocuous* = not harmful), **innocent** (doing no harm), **nuisance** (via French *nuire*), and **obnoxious** (originally *exposed to harm*).
 
 🚫 **Not Latin *nox*, "night."** That gives *nocturnal, equinox*. Same-looking syllable, unrelated word.
+
+### Also sits in
+- **Meaning cluster** · [Actively harmful](groups.md#meaning__actively-harmful) — with *adverse, inimical, virulent*
+- **Intensity scale** · [Degrees of harm: from working against you to poisoning you](groups.md#intensity__degrees-of-harm) — with *adverse, detrimental, deleterious, pernicious*
+- **Connotation** · [Harm Named Morally](groups.md#connotation__harm-named-morally) — with *pernicious, virulent, malevolent, sordid, turpitude*
+- **Opposites** · [Health-giving vs. quietly poisonous](groups.md#antonym__health-giving-vs-quietly-poisonous) — with *salubrious, salutary, conducive, efficacious, benign, deleterious, detrimental, pernicious, insidious, virulent*
 
 ---
 
@@ -667,6 +771,13 @@ Latin **per-** (*thoroughly*) + **nex, necis** (*violent death*) → **pernicios
 
 That death-root reappears in **internecine** (mutually destructive — *inter* + *necāre*, to kill) and, via its Greek cousin *nekros*, in **necrosis** and **necromancy**.
 
+### Also sits in
+- **Meaning cluster** · [Slow, hidden harm](groups.md#meaning__slow-hidden-harm) — with *deleterious, detrimental, insidious*
+- **Lookalike** · [impertinent / impudent / pernicious / perspicacious / pertinacious / pertinent](groups.md#lookalike__impertinent-impudent) — with *impertinent, impudent, perspicacious, pertinacious, pertinent*
+- **Intensity scale** · [Degrees of harm: from working against you to poisoning you](groups.md#intensity__degrees-of-harm) — with *adverse, detrimental, deleterious, noxious*
+- **Connotation** · [Harm Named Morally](groups.md#connotation__harm-named-morally) — with *noxious, virulent, malevolent, sordid, turpitude*
+- **Opposites** · [Health-giving vs. quietly poisonous](groups.md#antonym__health-giving-vs-quietly-poisonous) — with *salubrious, salutary, conducive, efficacious, benign, deleterious, detrimental, noxious, insidious, virulent*
+
 ---
 
 # **predicament** *(n.)* — **pri-DIK-uh-muhnt**
@@ -691,6 +802,9 @@ Latin **praedicāre** = *"to proclaim, declare publicly"* (prae- "before" + dic�
 It began as dry logic jargon: a *praedicamentum* was one of Aristotle's **categories**, a state or condition you could assert of a thing. Neutral. Then English speakers started using "what a predicament!" about *unfortunate* conditions, and the sourness stuck to the word permanently.
 
 🚫 **Not from *predict*.** That's *prae-* + *dīcere* ("to say beforehand") — a cousin, not a parent. A predicament isn't a forecast; it's a fix you're already in.
+
+### Also sits in
+- **Meaning cluster** · [A Situation With No Clean Exit](groups.md#meaning__a-situation-with-no-clean-exit) — with *conundrum, quandary, imbroglio, contretemps*
 
 ---
 
@@ -717,6 +831,13 @@ LinkedIn and CV language levels: *Elementary → Limited working → **Professio
 Latin **proficere** = *"to make progress, get ahead"* (**pro-** forward + **facere** to make/do) — so a proficient person is one who has *advanced*, not one born able.
 
 The **-ficient / -fect** family from *facere* is GRE gold: **efficient** (working well), **sufficient** (enough made), **deficient** (falling short), **munificent**, **perfect**, **profit** (also from *proficere* — what advances you).
+
+### Also sits in
+- **Meaning cluster** · [Solidly skilled](groups.md#meaning__solidly-skilled) — with *competent, facility, prowess*
+- **Intensity scale** · [Levels of skill: passable → adept](groups.md#intensity__levels-of-skill) — with *passable, competent, adept*
+- **Opposites** · [Beginner vs. master](groups.md#antonym__beginner-vs-master) — with *neophyte, fledgling, callow, dilettante, adept, connoisseur, polymath, prowess*
+- **Opposites** · [Sure-handed vs. all thumbs](groups.md#antonym__sure-handed-vs-all-thumbs) — with *adept, adroit, deft, dexterous, facility, inept, gauche, gawky, feckless, cumbersome*
+- **Root family** · [Root: *facere* (to make, to do)](groups.md#root__facere) — with *counterfeit, efficacious, factious, feasible, malfeasance*
 
 ---
 
@@ -750,6 +871,13 @@ Polonius in *Hamlet* is prolixity itself — he rambles his way to "brevity is t
 ### Where it comes from
 Latin **prolixus** = *"poured forth, stretched out"* — **pro-** (forth) + **liquere** (to flow), the root of **liquid**, **liquor**, **liquefy**. A prolix writer's words simply keep flowing out.
 
+### Also sits in
+- **Meaning cluster** · [Too many words on the page](groups.md#meaning__too-many-words-on-the-page) — with *verbose, diffuse, expatiate*
+- **Intensity scale** · [Talking too much: voluble → loquacious → garrulous → prolix](groups.md#intensity__talking-too-much) — with *voluble, loquacious, garrulous*
+- **Connotation** · [Language swollen with nothing](groups.md#connotation__language-swollen-with-nothing) — with *bombastic, turgid, florid, pomposity*
+- **Connotation** · [Talks a lot — the word does the judging](groups.md#connotation__talks-a-lot-the-word-does-the-judging) — with *loquacious, voluble, garrulous, ramble, expatiate, verbose*
+- **Opposites** · [Padded prose vs. compressed prose](groups.md#antonym__padded-prose-vs-compressed-prose) — with *verbose, turgid, redundant, pithy, terse, brevity, economy, aphorism*
+
 ---
 
 # **scorn** *(n. / v.)* — **SKORN**
@@ -771,6 +899,11 @@ The near-rhyme fixes the temperature: this is contempt that comes out hot and au
 
 ### In the wild
 **"Hell hath no fury like a woman scorned"** — the most-quoted line in English about being rejected with contempt (Congreve's original: *"nor hell a fury like a woman scorned"*).
+
+### Also sits in
+- **Meaning cluster** · [Looking down: from private verdict to open rejection](groups.md#meaning__cold-contempt) — with *contempt, disdain, spurn*
+- **Intensity scale** · [Contempt, private to public](groups.md#intensity__contempt-private-to-public) — with *disdain, contempt, opprobrium*
+- **Connotation** · [Looking Down From Above](groups.md#connotation__looking-down-from-above) — with *disdain, deride, belittle, patronize, haughty*
 
 ---
 
@@ -803,6 +936,10 @@ Latin **sub-** (*under*) + **ordinare** (*to arrange in rank*), from **ordo, ord
 
 That root pays out across the test: **ordain**, **ordinary**, **coordinate** (*co-* = arranged at equal rank), **insubordinate** (refusing to sit below), and best of all **inordinate** — *outside the order*, hence excessive.
 
+### Also sits in
+- **Meaning cluster** · [Respectful yielding: attitude, gesture, temperament, rank](groups.md#meaning__respectful-yielding) — with *deference, obeisance, subservient*
+- **Second meaning** · [Stress shifts, meaning shifts](groups.md#second-meaning__stress-shifts-meaning-shifts) — with *appropriate, deliberate, intimate, articulate, attribute*
+
 ---
 
 # **unseemly** *(adj.)* — **un-SEEM-lee**
@@ -830,6 +967,10 @@ Political and legal reporting runs on two set phrases: **"unseemly haste"** and 
 From Old Norse **sœmiligr**, "becoming, fitting," from **sœma** = *to befit*. That's the same root as **seem**, which originally meant "to be fitting" — the modern sense "appear to be" came later.
 
 So the spelling isn't a coincidence you have to memorise: *seemly* = as it should appear, *unseemly* = not as it should appear.
+
+### Also sits in
+- **Meaning cluster** · [Offending against good form](groups.md#meaning__offending-against-good-form) — with *indecorous, gauche, impolitic*
+- **Opposites** · [Tactful vs. tactless: manners, not morals](groups.md#antonym__tactful-vs-tactless) — with *tact, discreet, urbane, cordial, decorum, propriety, boorish, gauche, churlish, abrasive, impertinent, indecorous*
 
 ---
 

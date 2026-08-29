@@ -25,6 +25,10 @@ Latin **ab-** ("away") + **rādere** ("to scrape") — to scrape away.
 
 *Rādere* is a quiet workhorse: **erase** (scrape out), **razor** (the scraper), **raze** (scrape a building to the ground), **abrade**, **rash**. Learn the root once, get five words.
 
+### Also sits in
+- **Second meaning** · [Physical sharpness → verbal sharpness](groups.md#second-meaning__physical-sharpness-verbal-sharpness) — with *caustic, mordant, astringent, trenchant, penetrating, keen*
+- **Opposites** · [Tactful vs. tactless: manners, not morals](groups.md#antonym__tactful-vs-tactless) — with *tact, discreet, urbane, cordial, decorum, propriety, boorish, gauche, churlish, impertinent, indecorous, unseemly*
+
 ---
 
 # **artful** *(adj.)* — **AHRT-fuhl**
@@ -52,6 +56,11 @@ An artful person has genuine skill, and is using it to work you.
 Latin **ars, artis** = *"skill, craft"* — which gives you **artisan, artifice, artifact, artificial**, and even **inert** (*in-* + *ars* = "without skill," hence sluggish, doing nothing).
 
 Note the slide: English **craft** did the same thing, going from *skill* to *crafty*. Skill words drift toward trickery, because a trickster is only dangerous if he's good.
+
+### Also sits in
+- **Meaning cluster** · [Sly cleverness](groups.md#meaning__sly-cleverness) — with *wily, crafty, cunning, devious*
+- **Intensity scale** · [Clever to crooked](groups.md#intensity__clever-to-crooked) — with *wily, crafty, devious*
+- **Connotation** · [Cleverness that means crooked](groups.md#connotation__cleverness-that-means-crooked) — with *cunning, crafty, wily, devious, chicanery, skullduggery*
 
 ---
 
@@ -83,6 +92,10 @@ Latin **ab-** (*away*) + **vertere** (*to turn*) — literally *turn away*.
 
 *Vertere* is one of the highest-yield roots on the exam: **divert** (turn aside), **invert** (turn upside down), **convert** (turn together, change), **subvert** (turn from beneath), **revert** (turn back), **vertigo** (the room turning), **versatile** (turns to any task), **adverse** (turned against you).
 
+### Also sits in
+- **Meaning cluster** · [Head it off in advance](groups.md#meaning__head-it-off-in-advance) — with *forestall, obviate, preclude, deter*
+- **Opposites** · [Heading it off vs. bringing it on](groups.md#antonym__heading-it-off-vs-bringing-it-on) — with *forestall, obviate, preclude, deter, engender, precipitate, induce, foment, incite*
+
 ---
 
 # **avid** *(adj.)* — **AV-id**
@@ -106,6 +119,12 @@ The stock phrase of every CV hobbies line and dating-app bio: *avid reader, avid
 
 ### Where it comes from
 Latin **avēre** = *"to crave, to long for"* → **avidus**, "greedy, eager." The same root gives **avarice** and **avaricious** — the money-hungry cousins. Knowing they're relatives is what preserves the hungry edge of *avid for*.
+
+### Also sits in
+- **Meaning cluster** · [Eager: appetite, or speed of response](groups.md#meaning__keen-to-get-going) — with *keen, alacrity*
+- **Intensity scale** · [Eager to zealous: from appetite to mission](groups.md#intensity__eager-to-zealous) — with *ardent, fervent, fervid, zealous*
+- **Opposites** · [Burning enthusiasm vs. cold indifference](groups.md#antonym__burning-enthusiasm-vs-cold-indifference) — with *ardent, zealous, fervent, fervor, alacrity, apathy, ennui, tepid, nonchalant, perfunctory, lassitude*
+- **Opposites** · [Craving vs. recoiling](groups.md#antonym__craving-vs-recoiling) — with *relish, cherish, affinity, penchant, predilection, abhor, loathe, aversion, antipathy, repugnant, odious*
 
 ---
 
@@ -135,6 +154,11 @@ Polonius in *Hamlet*: **"Brevity is the soul of wit"** — a line he delivers in
 ### Where it comes from
 Latin **brevis** = *"short."* It's hiding in a big family: **brief**, **abbreviate**, **abridge**, **breviary** (the shortened prayer book), and the musical **breve**.
 
+### Also sits in
+- **Meaning cluster** · [Saying It in Few Words](groups.md#meaning__saying-it-in-few-words) — with *laconic, terse, pithy, economy*
+- **Connotation** · [Saying Less on Purpose](groups.md#connotation__few-words-as-cool-credit) — with *laconic, pithy, understated, economy*
+- **Opposites** · [Padded prose vs. compressed prose](groups.md#antonym__padded-prose-vs-compressed-prose) — with *verbose, prolix, turgid, redundant, pithy, terse, economy, aphorism*
+
 ---
 
 # **bromide** *(n.)* — **BROH-mide**
@@ -160,6 +184,13 @@ The modern specimen everyone recognises: **"thoughts and prayers"** after a disa
 Greek **brōmos** = *"stench."* It named **bromine**, a foul-smelling element — and **potassium bromide** was the standard Victorian **sedative**, dosed out for nerves, insomnia and hysteria.
 
 So a bromide is literally a **tranquilliser in verbal form**: a phrase administered to calm you down. Once you see the drug, the meaning never slips.
+
+### Also sits in
+- **Meaning cluster** · [Stale sayings: from merely flat to falsely wise](groups.md#meaning__stale-worn-out-sayings) — with *banal, hackneyed, platitude*
+- **Meaning cluster** · [The One-Line Truth: Earned, Issued, or Counterfeit](groups.md#meaning__a-crafted-general-truth) — with *aphorism, dictum, platitude*
+- **Connotation** · [Stale from repetition](groups.md#connotation__stale-from-repetition) — with *hackneyed, banal, platitude, derivative*
+- **Opposites** · [Fresh-minted vs. secondhand](groups.md#antonym__fresh-minted-vs-secondhand) — with *ingenious, unprecedented, coin, iconoclastic, derivative, hackneyed, banal, pastiche, platitude, mimic*
+- **Opposites** · [Substance vs. hot air](groups.md#antonym__substance-vs-hot-air) — with *cogent, pithy, trenchant, aphorism, vacuous, bombastic, turgid, platitude*
 
 ---
 
@@ -189,6 +220,10 @@ Latin **circum** (*around*) + **stare** (*to stand*) → *circumstantia*, "the t
 
 Both halves pay off elsewhere: **circum-** gives *circumvent, circumscribe, circumspect, circumference*; **stare** gives *substantial, status, stance, stationary*.
 
+### Also sits in
+- **Second meaning** · [Classroom words with a technical second sense](groups.md#second-meaning__classroom-words-with-a-technical-second-sense) — with *abstract, figurative, diminutive, documentary*
+- **Root family** · [Root: circum- (around) — circumscribe, circumspect, circumstantial](groups.md#root__circum) — with *circumscribe, circumspect*
+
 ---
 
 # **cloying** *(adj.)* — **KLOY-ing**
@@ -214,6 +249,12 @@ It's a staple of film criticism — the standard word reviewers reach for when a
 From **cloy**, older sense *"to clog, to block up"* — via Old French *encloer*, from Latin **clavus** = *"nail."* To cloy a gun was to nail its touch-hole shut.
 
 That's the useful image: cloying sweetness **clogs**. Same *clavus* gives you **clove** — the spice literally named for looking like a little nail.
+
+### Also sits in
+- **Meaning cluster** · [Sweet past bearing](groups.md#meaning__sweet-past-bearing) — with *sentimental, mawkish*
+- **Second meaning** · [Kitchen words for people and prose](groups.md#second-meaning__kitchen-words-for-people-and-prose) — with *insipid, tepid, piquant, relish*
+- **Intensity scale** · [Tender to sickly](groups.md#intensity__tender-to-sickly) — with *sentimental, mawkish*
+- **Connotation** · [Feeling Laid On Too Thick](groups.md#connotation__feeling-laid-on-too-thick) — with *mawkish, sentimental, lugubrious, rhapsody*
 
 ---
 
@@ -243,6 +284,12 @@ Old French **contrefait** = *"made against"* — Latin **contra** (against) + **
 
 That **facere** shows up disguised as **-feit / -fit** in a small family worth knowing: **forfeit** (something "done wrong," hence surrendered as a penalty), **surfeit** (over-done, an excess), **benefit** (well-done). Same root, undisguised, in **fact, factory, manufacture, artifice**.
 
+### Also sits in
+- **Meaning cluster** · [Fake, not genuine — and what each word attacks](groups.md#meaning__fake-not-genuine) — with *sham, spurious, bogus, phony*
+- **Connotation** · [Fake — and how much contempt comes with it](groups.md#connotation__fake-said-with-contempt) — with *phony, bogus, sham, spurious, feign*
+- **Opposites** · [Ring of Truth vs. Exposed Fake](groups.md#antonym__ring-of-truth-vs-exposed-fake) — with *credible, veracity, verisimilitude, plausible, bogus, sham, phony, spurious, feign*
+- **Root family** · [Root: *facere* (to make, to do)](groups.md#root__facere) — with *efficacious, factious, feasible, malfeasance, proficient*
+
 ---
 
 # **denigrate** *(v.)* — **DEN-ih-grayt**
@@ -267,6 +314,14 @@ The word ends in the sound of *rate*, and denigrating is exactly that — markin
 Latin **de-** (*completely*) + **niger** (*black*) → *denigrare*, "to blacken." You blacken a name, and the reputation is what's stained.
 
 Same *niger* gives French **noir** — as in **film noir**, the genre literally named "black film."
+
+### Also sits in
+- **Meaning cluster** · [Attacking a reputation](groups.md#meaning__attack-a-reputation) — with *vilify, malign, impugn, stigmatize*
+- **Lookalike** · [deliberate / delineate / denigrate / deprecate](groups.md#lookalike__deliberate-delineate) — with *deliberate, delineate, deprecate*
+- **Intensity scale** · [Attacking a reputation](groups.md#intensity__attacking-a-reputation) — with *belittle, defame, vilify, calumny*
+- **Connotation** · [Attacks on a reputation](groups.md#connotation__attacks-on-a-reputation) — with *aspersion, impugn, malign, vilify, defame, slander, calumny*
+- **Opposites** · [Blackening a name vs. burnishing one](groups.md#antonym__blackening-a-name-vs-burnishing-one) — with *calumny, aspersion, defame, slander, malign, burnish, lionize, venerate, canonize*
+- **Opposites** · [Praising to the skies vs. tearing down](groups.md#antonym__praising-to-the-skies-vs-tearing-down) — with *extol, acclaim, laudable, meritorious, estimable, excoriate, castigate, vilify, scathing*
 
 ---
 
@@ -296,6 +351,11 @@ Latin **discipulus** = *"pupil,"* from **discere**, *"to learn."*
 
 That gives you **discipline** — originally the *training given to a pupil*, only later the punishment that enforces it. Its twin root **docēre**, *"to teach,"* covers the other half of the classroom: **docile** (teachable), **doctor** (teacher), **doctrine**, **document**.
 
+### Also sits in
+- **Meaning cluster** · [Below the Master: Server, Student, Newcomer](groups.md#meaning__devoted-follower) — with *acolyte, neophyte*
+- **Second meaning** · [Church words for secular devotion](groups.md#second-meaning__church-words-for-secular-devotion) — with *venerate, anoint, canonize, deify, acolyte, exorcise*
+- **Connotation** · [Devotion that stops questioning](groups.md#connotation__devotion-that-stops-questioning) — with *acolyte, apologist, deify, zealous*
+
 ---
 
 # **extol** *(v.)* — **ik-STOHL**
@@ -323,6 +383,12 @@ Psalm 145 opens *"I will **extol** thee, my God, O king"* — the King James phr
 Latin **ex-** ("up") + **tollere** ("to lift, raise") — to extol is literally to *raise someone up*, onto the pedestal.
 
 Same lifting root gives you **elate** (spirits raised) and the **-lation** words built on *tollere*'s partner form *lātus*: **relate, translate, prelate, superlative**.
+
+### Also sits in
+- **Meaning cluster** · [Loud public praise — and who's doing the praising](groups.md#meaning__loud-public-praise) — with *acclaim, approbation, lionize, tout*
+- **Intensity scale** · [Praise to worship](groups.md#intensity__praise-to-worship) — with *acclaim, lionize, venerate, deify*
+- **Connotation** · [Praise loud enough to stop judging](groups.md#connotation__praise-loud-enough-to-stop-judging) — with *acclaim, lionize, canonize, deify, tout*
+- **Opposites** · [Praising to the skies vs. tearing down](groups.md#antonym__praising-to-the-skies-vs-tearing-down) — with *acclaim, laudable, meritorious, estimable, excoriate, castigate, vilify, denigrate, scathing*
 
 ---
 
@@ -355,6 +421,12 @@ The two low strings under a horror-film trailer, before anything has happened on
 **fore-** (*before*) + Old English **bodian** (*to announce*), from **boda** = *"a messenger."* A forebode is literally a messenger who arrives ahead of the event — and this one only ever brings bad news.
 
 Same Germanic root sits in **bid** in its old sense of *announce, command* — which is where **forbid** comes from.
+
+### Also sits in
+- **Meaning cluster** · [Sign of what's coming](groups.md#meaning__sign-of-what-s-coming) — with *portend, presage, harbinger, ominous*
+- **Meaning cluster** · [Uneasy about what's coming](groups.md#meaning__uneasy-about-what-s-coming) — with *apprehension, timorous, qualm*
+- **Connotation** · [Omens and Impendings: the sign, not the event](groups.md#connotation__signs-of-what-s-coming-always-bad) — with *portend, presage, ominous, harbinger, imminent*
+- **Opposites** · [Omens: Signs of Good vs. Signs of Bad](groups.md#antonym__good-omen-vs-bad-omen) — with *auspicious, propitious, providential, boon, ominous, portend, presage, harbinger*
 
 ---
 
@@ -394,6 +466,10 @@ Mind the two endings — they're different roots and worth separating for good:
 
 So an **ideologue** talks the doctrine; a **demagogue** leads the crowd.
 
+### Also sits in
+- **Meaning cluster** · [Rigid by Doctrine: dogmatic, doctrinaire, ideologue, martinet](groups.md#meaning__theory-before-facts) — with *dogmatic, doctrinaire, martinet*
+- **Connotation** · [Belief Held Past Argument](groups.md#connotation__belief-held-past-argument) — with *dogmatic, doctrinaire, hidebound, ossify, zealous*
+
 ---
 
 # **impediment** *(n.)* — **im-PED-uh-muhnt**
@@ -422,6 +498,11 @@ The root pays out everywhere: **impede, expedite, pedestrian, pedal, pedestal, b
 
 🚫 Not the *ped-* in **pediatric, pedagogue, pedant** — that's Greek *pais, paidos*, "child." Same spelling, different body part.
 
+### Also sits in
+- **Meaning cluster** · [Slow it down, don't stop it](groups.md#meaning__slow-something-s-progress) — with *hinder, hamper, impede*
+- **Opposites** · [Helping it along vs. holding it back](groups.md#antonym__speeding-it-along-vs-holding-it-back) — with *expedite, bolster, abet, conducive, galvanize, hamper, hinder, impede, inhibit, curb, check*
+- **Root family** · [Root: pēs, pedis (foot) — freeing the feet vs. shackling them](groups.md#root__pes) — with *expedient, expedite, impede, pedestrian*
+
 ---
 
 # **imperative** *(adj. / n.)* — **im-PERR-uh-tiv**
@@ -447,6 +528,11 @@ Every language class you've ever sat in: the **imperative mood** is the command 
 
 ### Where it comes from
 Latin **imperāre** = *"to command,"* which gives **imperium** (command, dominion) — and from there a whole family: **emperor**, **empire**, **imperial**, **imperious**, **imperative**. Learn the root once and five words come with it.
+
+### Also sits in
+- **Meaning cluster** · [Necessary: the thing, the act, the pressure](groups.md#meaning__cannot-be-done-without) — with *indispensable, exigent*
+- **Lookalike** · [imperative / imperious / impervious](groups.md#lookalike__imperative-imperious) — with *imperious, impervious*
+- **Opposites** · [Must Be There vs. Shouldn't Be There](groups.md#antonym__can-t-do-without-vs-could-do-without) — with *indispensable, intrinsic, superfluous, redundant, extraneous, gratuitous*
 
 ---
 
@@ -479,6 +565,11 @@ Retailers put chocolate and batteries by the till precisely to trigger the **imp
 Latin **pellere / pulsus** = *"to drive, to push."* An *impulse* is a push **in**to you from within.
 
 That root pays off across the exam: **compel** (drive together, force), **propel** (drive forward), **expel** (drive out), **repel** (drive back), **dispel** (drive away), plus **pulse** and **repulsive**. Spot *-pel-* or *-puls-* and you're looking at a push.
+
+### Also sits in
+- **Meaning cluster** · [Acting before thinking](groups.md#meaning__acting-before-thinking) — with *impetuous, foolhardy, precipitate*
+- **Intensity scale** · [Impulsive to foolhardy: acting before thinking](groups.md#intensity__rash-to-reckless) — with *impetuous, foolhardy*
+- **Opposites** · [Leaping before looking vs. weighing it first](groups.md#antonym__leaping-before-looking-vs-weighing-it-first) — with *precipitate, impetuous, foolhardy, headstrong, circumspect, prudent, judicious, deliberate, chary, cogitate*
 
 ---
 
@@ -514,6 +605,11 @@ Latin **terminus** = *"boundary, end"*, plus **in-** = *"not."* Literally *unabl
 
 That root is everywhere: **terminate**, **terminal** (the end of the line — airport, illness, or cable), **terminus**, **exterminate**, and **determine** (to set the limits of a question, i.e. settle it).
 
+### Also sits in
+- **Meaning cluster** · [Dull — by sameness, by length, by pace](groups.md#meaning__boring-by-repetition) — with *monotonous, humdrum, tedious, plodding*
+- **Connotation** · [Dull, in a reviewer's register](groups.md#connotation__dull-in-a-reviewer-s-register) — with *ponderous, plodding, soporific, tedious, monotonous*
+- **Opposites** · [Never stopping vs. stopping and starting](groups.md#antonym__never-stopping-vs-stopping-and-starting) — with *incessant, perennial, perpetuate, intermittent, sporadic, fitful, desultory*
+
 ---
 
 # **intuitive** *(adj.)* — **in-TOO-i-tiv**
@@ -539,6 +635,9 @@ It's the single most overused word in product reviews and app-store blurbs — "
 Latin **intuērī** = *"to look upon, gaze at"* — *in-* (upon) + **tuērī** (to watch, guard). Intuition is knowledge you get by *looking straight at* something, with no steps in between.
 
 That root **tuērī** quietly runs a whole family of watching-over words: **tutor** (one who watches over you), **tuition**, **tutelage**, **tutorial**.
+
+### Also sits in
+- **Opposites** · [Tangled vs. plain-simple](groups.md#antonym__tangled-vs-plain-simple) — with *byzantine, convoluted, tortuous, elaborate, baroque, elementary, rudimentary, lucid*
 
 ---
 
@@ -569,6 +668,12 @@ Read the side-effects leaflet folded inside almost any box of medication: **"dro
 Latin **lassus** = *"weary, faint."*
 
 The sneaky payoff: **alas** is the same root — Old French *ha las*, literally *"ah, weary!"* So every time someone sighs *alas*, they're announcing their lassitude.
+
+### Also sits in
+- **Meaning cluster** · [No energy left — body, mood, or interest](groups.md#meaning__bone-deep-weariness) — with *weary, lethargic, languid, ennui*
+- **Intensity scale** · [Boredom to total inertia](groups.md#intensity__boredom-to-total-inertia) — with *ennui, torpor*
+- **Connotation** · [Energy gone, pity attached](groups.md#connotation__energy-gone-pity-attached) — with *torpor, lethargic, enervate, languish, ennui*
+- **Opposites** · [Burning enthusiasm vs. cold indifference](groups.md#antonym__burning-enthusiasm-vs-cold-indifference) — with *ardent, avid, zealous, fervent, fervor, alacrity, apathy, ennui, tepid, nonchalant, perfunctory*
 
 ---
 
@@ -626,6 +731,11 @@ Latin **ornāre** = *"to equip, to adorn"* → **ornātus**, "adorned." Straight
 
 The useful bonus: **suborn** is the same root (*sub-* "secretly" + *ornāre* "equip") — to secretly *fit someone out* to lie for you, i.e. bribe a witness. A GRE word hiding inside a decorating verb.
 
+### Also sits in
+- **Meaning cluster** · [Overdecorated style](groups.md#meaning__overdecorated-style) — with *elaborate, baroque, florid, embellish*
+- **Intensity scale** · [Decoration to excess](groups.md#intensity__decoration-to-excess) — with *elaborate, florid, baroque*
+- **Opposites** · [Stripped bare vs. gilded](groups.md#antonym__stripped-bare-vs-gilded) — with *unadorned, austere, spartan, utilitarian, understated, baroque, florid, flamboyant, embellish, ostentatious*
+
 ---
 
 # **paltry** *(adj.)* — **PAWL-tree**
@@ -648,6 +758,14 @@ The word does two jobs at once: it measures *and* it sneers. **Meagre** is pitia
 
 ### In the wild
 Business journalism runs on it: *"shares rose a paltry 0.3%"*, *"a paltry 12% turnout"*. The number alone is neutral — *paltry* is the reporter telling you it's an embarrassment.
+
+### Also sits in
+- **Meaning cluster** · [Not enough of it](groups.md#meaning__not-enough-of-it) — with *dearth, scant, sparse, wanting*
+- **Meaning cluster** · [Not worth bothering about](groups.md#meaning__not-worth-bothering-about) — with *trifling, trivial, frivolous*
+- **Meaning cluster** · [Very small — size vs. shortfall](groups.md#meaning__very-small) — with *minute, diminutive, scant*
+- **Intensity scale** · [Too small to matter — from measurement to contempt](groups.md#intensity__too-small-to-matter) — with *slight, trifling, trivial*
+- **Connotation** · [Small enough to dismiss](groups.md#connotation__small-enough-to-dismiss) — with *trifling, trivial, peccadillo, nominal, token*
+- **Opposites** · [Overflowing supply vs. shortage](groups.md#antonym__overflowing-supply-vs-shortage) — with *abound, copious, profuse, surfeit, inundate, dearth, scant, sparse, wanting*
 
 ---
 
@@ -733,6 +851,11 @@ Latin **prae-** (*before*) + **sagīre** (*to perceive keenly, to sense*). A Rom
 
 That second root is the payoff: *sagīre* also gives you **sagacious** (keen-scented, shrewd) and **sage** (one who perceives keenly). Learn one, get three.
 
+### Also sits in
+- **Meaning cluster** · [Sign of what's coming](groups.md#meaning__sign-of-what-s-coming) — with *portend, forebode, harbinger, ominous*
+- **Connotation** · [Omens and Impendings: the sign, not the event](groups.md#connotation__signs-of-what-s-coming-always-bad) — with *portend, forebode, ominous, harbinger, imminent*
+- **Opposites** · [Omens: Signs of Good vs. Signs of Bad](groups.md#antonym__good-omen-vs-bad-omen) — with *auspicious, propitious, providential, boon, ominous, portend, forebode, harbinger*
+
 ---
 
 # **prescribe** *(v.)* — **pri-SKRYBE**
@@ -797,6 +920,11 @@ Latin **prae-** (*before, ahead*) + **valēre** (*to be strong, be worth*) — l
 
 *Valēre* is a workhorse root: **valid** (strong enough to hold), **value**, **valour**, **invalid**, **equivalent**, **convalesce** (to grow strong again), and **prevalent** — prevail's own adjective.
 
+### Also sits in
+- **Meaning cluster** · [Rise above the rest](groups.md#meaning__rise-above-the-rest) — with *outstrip, eclipse, transcend, surmount*
+- **Opposites** · [Rising above vs. falling short](groups.md#antonym__rising-above-vs-falling-short) — with *outstrip, surmount, transcend, vanquish, falter, languish, regress, wanting*
+- **Root family** · [Root: valēre (to be strong, to be well)](groups.md#root__valere) — with *convalescent, valor*
+
 ---
 
 # **propitiate** *(v.)* — **pruh-PISH-ee-ayt**
@@ -831,6 +959,11 @@ Latin **propitius** = *"favourable, gracious"* — originally an augur's word fo
 
 Same root gives you **propitious** = *favourable, well-omened* ("a propitious moment to ask"). Learn the pair together: you **propitiate** the god so the omens turn **propitious**.
 
+### Also sits in
+- **Meaning cluster** · [Soothing anger: what the peace cost you](groups.md#meaning__soothe-someone-s-anger) — with *mollify, placate, appease, pacify, conciliatory*
+- **Lookalike** · [Good omens and steep drops: auspicious / propitious / propitiate / precipitate / precipitous](groups.md#lookalike__auspicious-precipitate) — with *auspicious, propitious, precipitate, precipitous*
+- **Intensity scale** · [Calming an angry party](groups.md#intensity__calming-an-angry-party) — with *mollify, placate, appease*
+
 ---
 
 # **recapitulate** *(v.)* — **ree-kuh-PICH-uh-layt**
@@ -862,3 +995,8 @@ The **"Previously on…"** montage at the start of a TV episode is a recap — l
 Latin **caput, capitis** = *"head"* → **capitulum**, *"little head"* = the **heading of a chapter**. To *recapitulate* was to run back through the chapter headings.
 
 That root is a goldmine: **capital, captain, chapter, decapitate, per capita, capitulate** (to draw up terms of surrender under headings), and **cap** itself.
+
+### Also sits in
+- **Meaning cluster** · [Boil it down](groups.md#meaning__boil-it-down) — with *abstract, synoptic, distill*
+- **Meaning cluster** · [Say it again](groups.md#meaning__say-it-again) — with *reiterate, perpetuate, redundant*
+- **Root family** · [Root: caput, capitis (head) → capitulum (chapter, heading)](groups.md#root__caput) — with *capitulate, precipitate*

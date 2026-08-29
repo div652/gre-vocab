@@ -26,6 +26,13 @@ French **à plomb** = *"to the plumb line"* — i.e. hanging perfectly upright. 
 
 That root also gives you **plumb** (vertical; or to sound the depths), **plumber** (originally a worker in lead pipe), and **plummet** — which *was* the lead weight before it meant to drop like one. Someone with aplomb doesn't wobble off vertical.
 
+### Also sits in
+- **Meaning cluster** · [Doing it with style: verve, panache, aplomb](groups.md#meaning__energy-with-style) — with *verve, panache*
+- **Meaning cluster** · [Poise under pressure: inner calm vs. visible style](groups.md#meaning__poise-under-pressure) — with *equanimity, imperturbable, poise*
+- **Intensity scale** · [Composure under pressure](groups.md#intensity__composure-under-pressure) — with *poise, equanimity, imperturbable*
+- **Connotation** · [Composure that earns credit](groups.md#connotation__composure-that-earns-credit) — with *poise, equanimity, stoic, imperturbable, sanguine*
+- **Opposites** · [Unshakeable Poise vs. Rattled](groups.md#antonym__unshakeable-poise-vs-rattled) — with *equanimity, imperturbable, poise, stoic, flustered, discomfit, disconcerting, nonplussed, skittish*
+
 ---
 
 # **apposite** *(adj.)* — **AP-uh-zit**
@@ -55,6 +62,12 @@ Legal writing runs on it: judges dismiss a cited case with "counsel's reliance o
 Latin **ad-** (*to, toward*) + **ponere / positus** (*to place*) — "placed right next to." The idea is a remark set alongside the matter and matching it exactly.
 
 That root is a GRE workhorse: **position, deposit, composite, juxtapose, expose, apposition** (in grammar, two nouns laid side by side: *my brother the doctor*).
+
+### Also sits in
+- **Meaning cluster** · [To the Point](groups.md#meaning__to-the-point) — with *germane, pertinent, apropos, apt, felicitous*
+- **Connotation** · [Fitting exactly — but praised for what?](groups.md#connotation__fitting-exactly-and-praised-for-it) — with *germane, pertinent, apropos, felicitous*
+- **Opposites** · [On the point vs. off it](groups.md#antonym__on-the-point-vs-off-it) — with *germane, pertinent, apropos, apt, extraneous, tangential, digression, peripheral, incidental*
+- **Root family** · [Root: ponere, positus (to place)](groups.md#root__ponere) — with *apropos, depose, posturing*
 
 ---
 
@@ -108,6 +121,13 @@ Coined by **Thomas Jefferson** (1780s), who built it as *be- + little* = "to mak
 
 That **be-** prefix is a quiet GRE workhorse meaning *make/treat as*: **bemoan**, **bedevil**, **befriend**, **becalm**.
 
+### Also sits in
+- **Meaning cluster** · [Treat as unimportant](groups.md#meaning__treat-as-unimportant) — with *detract, discount, slight, deride*
+- **Lookalike** · [belie / belittle / betray](groups.md#lookalike__belie-belittle) — with *belie, betray*
+- **Intensity scale** · [Attacking a reputation](groups.md#intensity__attacking-a-reputation) — with *denigrate, defame, vilify, calumny*
+- **Connotation** · [Looking Down From Above](groups.md#connotation__looking-down-from-above) — with *disdain, scorn, deride, patronize, haughty*
+- **Opposites** · [Raising up vs. bringing down](groups.md#antonym__raising-up-vs-bringing-down) — with *anoint, deify, lionize, canonize, venerate, depose, oust, relegate, debase, marginalize*
+
 ---
 
 # **cluster** *(n. / v.)* — **KLUS-ter**
@@ -134,6 +154,11 @@ In tech it's a job-title-level word: a **Kubernetes / Azure cluster** is a heap 
 
 ### Where it comes from
 Old English **clyster**, a bunch — kin to **clot**. Both mean *a lump of things stuck together*, which is the whole word in one image.
+
+### Also sits in
+- **Meaning cluster** · [Merge into one — and the one that only crowds](groups.md#meaning__merge-into-one) — with *amalgamate, coalesce, subsume*
+- **Intensity scale** · [Clustered, Coalesced, Amalgamated: Degrees of Becoming One](groups.md#intensity__grouped-to-fully-merged) — with *coalesce, amalgamate*
+- **Opposites** · [Merging into one vs. splitting apart](groups.md#antonym__merging-together-vs-splitting-apart) — with *amalgamate, coalesce, subsume, polarize, schism, factious, sever, disperse, dichotomy*
 
 ---
 
@@ -166,6 +191,14 @@ A laser is just **coherent light** — ordinary bulbs throw waves out every whic
 Latin **cohaerēre** = *"to stick together"* (*com-* "together" + **haerēre** "to stick, to cling").
 
 That *haerēre* is worth banking: **adhere / adhesive** (stick to), **inherent** (sticking inside, inseparable), **cohesion**, and — the one nobody expects — **hesitate**, literally *to be stuck fast*, unable to move on.
+
+### Also sits in
+- **Meaning cluster** · [Clear prose: from luminous praise to the bare minimum](groups.md#meaning__transparently-clear-prose) — with *lucid, limpid, pellucid, intelligible*
+- **Intensity scale** · [Understandable to crystal clear](groups.md#intensity__understandable-to-crystal-clear) — with *intelligible, lucid, limpid, pellucid*
+- **Connotation** · [Clarity as compliment](groups.md#connotation__clarity-as-compliment) — with *lucid, limpid, pellucid, cogent, trenchant*
+- **Opposites** · [Crystal-clear vs. impenetrable](groups.md#antonym__crystal-clear-vs-impenetrable) — with *lucid, limpid, pellucid, intelligible, abstruse, recondite, opaque, turbid, convoluted, byzantine, impenetrable*
+- **Opposites** · [Sharp-edged form vs. shapeless mass](groups.md#antonym__sharp-edged-form-vs-shapeless-mass) — with *delineate, distill, articulate, amorphous, inchoate, diffuse, turbid*
+- **Opposites** · [Sound reasoning vs. rotten reasoning](groups.md#antonym__sound-reasoning-vs-rotten-reasoning) — with *cogent, rational, empirical, fallacious, specious, sophistry, spurious, tendentious*
 
 ---
 
@@ -218,6 +251,11 @@ Old English **cræft** meant *strength, then skill, then power* — the same roo
 
 That drift is the whole word — skill quietly repurposed.
 
+### Also sits in
+- **Meaning cluster** · [Sly cleverness](groups.md#meaning__sly-cleverness) — with *wily, artful, cunning, devious*
+- **Intensity scale** · [Clever to crooked](groups.md#intensity__clever-to-crooked) — with *artful, wily, devious*
+- **Connotation** · [Cleverness that means crooked](groups.md#connotation__cleverness-that-means-crooked) — with *cunning, wily, artful, devious, chicanery, skullduggery*
+
 ---
 
 # **dismantle** *(v.)* — **dis-MAN-tuhl**
@@ -244,6 +282,10 @@ Old French **desmanteler** = *"to strip of a mantle (cloak)"*, from Latin **mant
 
 Same root gives you **mantle** (a cloak, hence "the mantle of leadership") and **mantelpiece** (the hood over a fireplace).
 
+### Also sits in
+- **Meaning cluster** · [Destroy completely: root out, lay waste, defeat, take apart](groups.md#meaning__destroy-completely) — with *eradicate, ravage, vanquish*
+- **Intensity scale** · [Weakening from below](groups.md#intensity__weakening-from-below) — with *undercut, undermine, subvert*
+
 ---
 
 # **elaborate** *(adj. / v.)* — **ih-LAB-uh-rut**
@@ -269,6 +311,13 @@ Elaborate never means merely complex; it means somebody worked at it.
 
 ### Where it comes from
 Latin **ex-** ("out") + **laborāre** ("to work") = *worked out*. The **labor** root runs everywhere: **laboratory** (a workplace), **laborious**, **collaborate** (work *with*), **belabour** (work a point to death).
+
+### Also sits in
+- **Meaning cluster** · [Overdecorated style](groups.md#meaning__overdecorated-style) — with *ornate, baroque, florid, embellish*
+- **Lookalike** · [collaborate / corroborate / elaborate](groups.md#lookalike__collaborate-corroborate) — with *collaborate, corroborate*
+- **Intensity scale** · [Decoration to excess](groups.md#intensity__decoration-to-excess) — with *ornate, florid, baroque*
+- **Intensity scale** · [Elaborate → Convoluted → Tortuous → Byzantine: detailed to impossibly tangled](groups.md#intensity__detailed-to-impossibly-tangled) — with *convoluted, tortuous, byzantine*
+- **Opposites** · [Tangled vs. plain-simple](groups.md#antonym__tangled-vs-plain-simple) — with *byzantine, convoluted, tortuous, baroque, elementary, rudimentary, intuitive, lucid*
 
 ---
 
@@ -304,6 +353,9 @@ Greek **exēgeisthai** = *"to lead out"* — **ex-** (out) + **hēgeisthai** (to
 
 That second half is the payoff: *hēgeisthai* also gives you **hegemony** — leadership, one state guiding (dominating) the rest. Two GRE words, one root about leading.
 
+### Also sits in
+- **Meaning cluster** · [Working out a meaning that won't come easily](groups.md#meaning__work-out-a-hidden-meaning) — with *construe, decipher, fathom*
+
 ---
 
 # **forgo** *(v.)* — **for-GOH**
@@ -335,6 +387,13 @@ Straight out of Economics 101: **opportunity cost** is defined as *the value of 
 Old English **forgān** — the prefix **for-** meaning *away, off, past* + **gān**, "to go." Literally *to go past* a thing.
 
 That **for-** prefix (nothing to do with *fore-* = before) is a small GRE family, and it always carries a whiff of **away / against / undoing**: **forsake** (abandon), **forbid**, **forbear** (hold off), **forswear** (renounce under oath), **forlorn** (utterly lost).
+
+### Also sits in
+- **Meaning cluster** · [Hold Yourself Back](groups.md#meaning__hold-yourself-back) — with *abstain, eschew, forbear*
+- **Meaning cluster** · [Voluntarily let go](groups.md#meaning__voluntarily-let-go) — with *relinquish, forsake, jettison*
+- **Lookalike** · [forbear / forgo / forsake](groups.md#lookalike__forbear-forgo) — with *forbear, forsake*
+- **Intensity scale** · [Going Without to Forswearing](groups.md#intensity__going-without-to-forswearing) — with *eschew, renounce, repudiate, abjure*
+- **Opposites** · [Self-denial vs. self-indulgence](groups.md#antonym__self-denial-vs-self-indulgence) — with *ascetic, austere, spartan, abstain, eschew, sober, decadent, libertine, self-indulgent, surfeit*
 
 ---
 
@@ -368,6 +427,11 @@ Latin **penetrare** = *"to pass into"* → *penetrate*, and *penetrating* (a gaz
 
 🚫 **Not *impregnable*.** That's Old French *prendre*, "to take" — literally *un-take-able*. Nothing to do with *pregnant*.
 
+### Also sits in
+- **Meaning cluster** · [Impossible to See Into](groups.md#meaning__impossible-to-see-into) — with *obscure, turbid, opaque, inscrutable*
+- **Intensity scale** · [Unclear to impossible](groups.md#intensity__unclear-to-impossible) — with *obscure, abstruse, recondite, arcane*
+- **Opposites** · [Crystal-clear vs. impenetrable](groups.md#antonym__crystal-clear-vs-impenetrable) — with *lucid, limpid, pellucid, intelligible, coherent, abstruse, recondite, opaque, turbid, convoluted, byzantine*
+
 ---
 
 # **impervious** *(adj.)* — **im-PUR-vee-uhs**
@@ -400,6 +464,9 @@ Latin **per** ("through") + **via** ("road, way") → *pervius*, "passable"; **i
 
 *Via* is a workhorse root: **obvious** (*ob-via*, in the road, so you can't miss it), **trivial** (*tri-via*, a three-road junction where common gossip was traded), **deviate** (off the road), **viaduct**, **previous**.
 
+### Also sits in
+- **Lookalike** · [imperative / imperious / impervious](groups.md#lookalike__imperative-imperious) — with *imperative, imperious*
+
 ---
 
 # **inalienable** *(adj.)* — **in-AYL-yuh-nuh-buhl**
@@ -427,6 +494,9 @@ The US Declaration of Independence: *"endowed by their Creator with certain **un
 Latin **alienus** = *"belonging to another."* To **alienate** land, in legal English, is literally to make it another's — to transfer the title. So *in-alien-able* = "cannot be made another's."
 
 Same root, useful family: **alien** (from another place), **alienate** (make someone feel other), **alienation**.
+
+### Also sits in
+- **Meaning cluster** · [Fixed and unalterable — but against what?](groups.md#meaning__fixed-and-unalterable) — with *immutable, ironclad*
 
 ---
 
@@ -460,6 +530,12 @@ Latin **aptus** = *"fitted, suited"* → **ineptus**, *"not fitted."*
 
 One root, a free set of words: **apt** (fitting), **aptitude** (natural fit for something), **adapt** (make it fit), and — via French — **attitude** (originally a figure's *fitting* posture).
 
+### Also sits in
+- **Meaning cluster** · [Socially clumsy](groups.md#meaning__socially-clumsy) — with *gauche, gawky, gaffe, infelicity*
+- **Lookalike** · [adept / adroit / apt / inept](groups.md#lookalike__adept-adroit) — with *adept, adroit, apt*
+- **Connotation** · [Clumsiness with embarrassment attached](groups.md#connotation__clumsiness-with-embarrassment-attached) — with *gawky, gauche, boorish, gaffe, infelicity*
+- **Opposites** · [Sure-handed vs. all thumbs](groups.md#antonym__sure-handed-vs-all-thumbs) — with *adept, adroit, deft, dexterous, proficient, facility, gauche, gawky, feckless, cumbersome*
+
 ---
 
 # **martinet** *(n.)* — **mar-tuh-NET**
@@ -485,6 +561,10 @@ Gunnery Sergeant Hartman in *Full Metal Jacket* — the screaming, boot-polish-i
 A real man: **Jean Martinet**, drillmaster to Louis XIV, who turned the French infantry into the best-drilled army in Europe through relentless parade-ground repetition. His name became the word for the type — and in French, *martinet* also came to mean a small **whip** used on schoolchildren.
 
 Eponyms like this are worth collecting: **boycott**, **chauvinist**, **maverick**, **quixotic** — all people first, insults second.
+
+### Also sits in
+- **Meaning cluster** · [Rigid by Doctrine: dogmatic, doctrinaire, ideologue, martinet](groups.md#meaning__theory-before-facts) — with *dogmatic, doctrinaire, ideologue*
+- **Connotation** · [Authority exercised abusively](groups.md#connotation__authority-exercised-abusively) — with *despotic, draconian, imperious, arbitrary, coercion*
 
 ---
 
@@ -514,6 +594,9 @@ From **Narcissus**, the beautiful youth of Greek myth who saw his reflection in 
 
 Freud borrowed the myth for the clinical term in 1914, which is how a Greek boy ended up in the DSM.
 
+### Also sits in
+- **Opposites** · [Playing it down vs. puffing it up](groups.md#antonym__playing-it-down-vs-puffing-it-up) — with *retiring, modest, understated, deprecate, hyperbole, bravado, pretentious, pomposity, bombastic, aggrandize*
+
 ---
 
 # **objurgation** *(n.)* — **ob-jer-GAY-shun**
@@ -541,6 +624,11 @@ Latin **ob-** (*against*) + **jurgāre** (*to chide, quarrel*), itself from **j�
 
 That *jūs* root pays out everywhere: **jury, justice, jurisdiction, perjury, abjure** — and **injury**, which is *in-* + *jūs*, "not right."
 
+### Also sits in
+- **Meaning cluster** · [Savage public criticism](groups.md#meaning__savage-public-criticism) — with *castigate, excoriate, lambaste, scathing*
+- **Connotation** · [The long angry speech](groups.md#connotation__the-long-angry-speech) — with *tirade, harangue, diatribe, polemical*
+- **Opposites** · [Tongue-lashings vs. praise that counts](groups.md#antonym__tongue-lashing-vs-warm-approval) — with *berate, upbraid, harangue, lambaste, tirade, approbation, acclaim, estimable*
+
 ---
 
 # **passable** *(adj.)* — **PASS-uh-buhl**
@@ -567,6 +655,11 @@ The word wears its own limit: a bare pass mark, never a distinction.
 ### Where it comes from
 Straight from **pass**. Both senses are the same picture: a road you can get *through*, and a performance that gets *through* — scraping past the checkpoint either way.
 
+### Also sits in
+- **Second meaning** · [Praise-shaped words that damn faintly](groups.md#second-meaning__praise-shaped-words-that-damn-faintly) — with *competent, modest, laudable*
+- **Intensity scale** · [Levels of skill: passable → adept](groups.md#intensity__levels-of-skill) — with *competent, proficient, adept*
+- **Connotation** · [Faint praise dressed as praise](groups.md#connotation__faint-praise-dressed-as-praise) — with *competent, modest, sound, laudable*
+
 ---
 
 # **penetrating** *(adj.)* — **PEN-uh-tray-ting**
@@ -587,6 +680,11 @@ Whether it's a question, a stare, a siren or a stink, the word always means the 
 
 ### In the wild
 Interviewers get praised for **penetrating questions** — the ones that get past the media training to an actual answer. If you can hear the collocation *penetrating question*, you have the word.
+
+### Also sits in
+- **Meaning cluster** · [Cuts to the heart of it](groups.md#meaning__cuts-to-the-heart-of-it) — with *trenchant, perspicacious*
+- **Second meaning** · [Physical sharpness → verbal sharpness](groups.md#second-meaning__physical-sharpness-verbal-sharpness) — with *caustic, mordant, abrasive, astringent, trenchant, keen*
+- **Opposites** · [Deep vs. skin-deep](groups.md#antonym__deep-vs-skin-deep) — with *profound, profundity, erudite, exhaustive, encyclopedic, superficial, cursory, perfunctory, glib, dilettante*
 
 ---
 
@@ -650,6 +748,9 @@ All three senses are one motion — something returning to its source — so if 
 ### Where it comes from
 Latin **re-** (*back*) + **flectere** (*to bend*) = *bend back*. That root is a GRE goldmine: **deflect** (bend away), **inflect** (bend the voice or the word-ending), **genuflect** (bend the knee), **flexible**, **reflex** (a bending-back so fast it skips the brain).
 
+### Also sits in
+- **Second meaning** · [Plain verbs doing abstract work](groups.md#second-meaning__plain-verbs-doing-abstract-work) — with *inform, render, coin, prime*
+
 ---
 
 # **resourceful** *(adj.)* — **ri-SORS-fuhl**
@@ -678,6 +779,9 @@ The word looks like "well-supplied," but it's earned in exactly the opposite con
 
 Same root, quietly everywhere: **surge**, **resurgent**, **insurgent** (rising *against*), **resurrection**, and **source** (where water rises from the ground).
 
+### Also sits in
+- **Meaning cluster** · [Good at many things](groups.md#meaning__good-at-many-things) — with *versatile, multifaceted*
+
 ---
 
 # **retrench** *(v.)* — **ri-TRENCH**
@@ -704,6 +808,9 @@ Standard business-page vocabulary: headlines like *"Airline retrenches 3,000 sta
 ### Where it comes from
 French **retrancher** = *"to cut off, cut away"* (*re-* + *trancher*, to slice). Same slice gives you **trench** (a cut in the ground), **trenchant** (cuttingly sharp — *a trenchant critique*), and **entrench**.
 
+### Also sits in
+- **Opposites** · [Squandering vs. thrift](groups.md#antonym__squandering-vs-thrift) — with *prodigal, profligate, spendthrift, squander, economy, parsimonious, canny*
+
 ---
 
 # **self-indulgent** *(adj.)* — **self-in-DUL-juhnt**
@@ -726,6 +833,10 @@ The prefix marks exactly what's missing: an outside party whose patience or judg
 
 ### In the wild
 Dessert advertising runs on this root: **"indulgent"** chocolate, ice cream sold as pure *indulgence* — the word is a selling point right up until you attach **self-** to it, and then it's an insult.
+
+### Also sits in
+- **Intensity scale** · [Indulgence to dissolution](groups.md#intensity__indulgence-to-dissolution) — with *decadent, libertine*
+- **Opposites** · [Self-denial vs. self-indulgence](groups.md#antonym__self-denial-vs-self-indulgence) — with *ascetic, austere, spartan, abstain, forgo, eschew, sober, decadent, libertine, surfeit*
 
 ---
 
@@ -755,6 +866,11 @@ Whether the spec is a hunch about a murder or a hunch about a stock, you're comm
 Latin **specula** = *"watchtower,"* from **specere** = *"to look."* To speculate is to scan the horizon from a height — you can see something out there, but you can't go down and check it.
 
 That root is a GRE goldmine: **spectacle, inspect, prospect, conspicuous, specimen, suspect, spectrum** — and **circumspect**, literally *"looking around,"* hence cautious.
+
+### Also sits in
+- **Meaning cluster** · [Reasoning past the evidence](groups.md#meaning__reasoning-past-the-evidence) — with *conjectural, extrapolate, tentative*
+- **Opposites** · [Settled beyond doubt vs. still in doubt](groups.md#antonym__settled-beyond-doubt-vs-still-in-doubt) — with *incontrovertible, conclusive, axiomatic, ironclad, corroborate, substantiate, dubious, conjectural, tenuous, tentative, suspect*
+- **Root family** · [Root: specere (to look) — who looks, and what survives a second look](groups.md#root__specere) — with *conspicuous, perspicacious, specious, suspect*
 
 ---
 
@@ -786,6 +902,13 @@ Business journalism runs on this word: every fintech story opens with a startup 
 
 *Stay* itself traces to Latin **stāre**, "to stand," which hands you **stable, static, status, constant, stance** — a whole family built on not moving.
 
+### Also sits in
+- **Lookalike** · [staid / stoic / stolid](groups.md#lookalike__staid-stoic) — with *stoic, stolid*
+- **Connotation** · [Calm that shades into lifeless](groups.md#connotation__calm-that-shades-into-lifeless) — with *placid, stolid, phlegmatic, somnolent, subdued*
+- **Opposites** · [Grave vs. flippant](groups.md#antonym__grave-vs-flippant) — with *sober, stern, decorum, levity, facetious, frivolous, droll, bawdy, raillery*
+- **Opposites** · [Orthodox vs. heretical](groups.md#antonym__orthodox-vs-heretical) — with *conventional, hidebound, doctrinaire, dogmatic, iconoclastic, heterodox, radical, eccentric, fringe*
+- **Root family** · [Root: stāre (to stand)](groups.md#root__stare) — with *extant, stanch, substantiate*
+
 ---
 
 # **suppress** *(v.)* — **suh-PRESS**
@@ -813,6 +936,12 @@ A gun **suppressor** — what films loosely call a silencer. It doesn't remove t
 Latin **sub-** (*under*) + **premere** (*to press*) — literally *press down under*.
 
 *Premere* is a workhorse root: **press, oppress** (press *against*), **repress** (press *back*), **compress** (press *together*), **express** (press *out*), **depress** (press *down*), **imprint**. Learn one, get seven.
+
+### Also sits in
+- **Meaning cluster** · [Force rather than persuade](groups.md#meaning__force-rather-than-persuade) — with *coercion, duress, dictate*
+- **Intensity scale** · [Holding something down: curb → check → curtail → suppress → quash](groups.md#intensity__holding-something-down) — with *curb, check, curtail, quash*
+- **Opposites** · [Letting it out vs. keeping it in](groups.md#antonym__letting-it-out-vs-keeping-it-in) — with *divulge, disseminate, betray, apprise, censor, cloak, occlude, reticent*
+- **Opposites** · [Stirring people up vs. calming them down](groups.md#antonym__stirring-people-up-vs-calming-them-down) — with *incite, foment, goad, agitate, provocative, pacify, mollify, placate, quash*
 
 ---
 
@@ -843,3 +972,10 @@ Latin **vestīgium** = *"footprint, track."* A vestige is the mark a thing leave
 Same root pays off elsewhere: to **investigate** is literally to *follow the footprints in* — track the traces back to what made them.
 
 🚫 **Not *vestibular*.** That's the inner-ear balance system, from *vestibule* (entrance hall) — similar sound, unrelated word.
+
+### Also sits in
+- **Meaning cluster** · [Belonging to a dead era](groups.md#meaning__belonging-to-a-dead-era) — with *archaic, obsolete, anachronistic*
+- **Meaning cluster** · [Left Over From Before](groups.md#meaning__left-over-from-before) — with *residual, extant*
+- **Intensity scale** · [Out of date by degree](groups.md#intensity__out-of-date-by-degree) — with *anachronistic, obsolete, archaic*
+- **Connotation** · [Old enough to be discredited](groups.md#connotation__old-enough-to-be-discredited) — with *obsolete, archaic, anachronistic, hidebound*
+- **Opposites** · [Just born vs. outlived its era](groups.md#antonym__just-born-vs-worn-out-with-age) — with *nascent, inchoate, fledgling, commence, archaic, obsolete, anachronistic, erstwhile*

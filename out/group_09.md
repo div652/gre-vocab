@@ -30,6 +30,11 @@ Dutch **boer** = *"farmer, peasant"* — the same word as the South African **Bo
 
 That's why the word means *unpolished* rather than *nasty*: it started as a sneer at people who had never learned drawing-room manners. Same Germanic root as **neighbour** (Old English *gebūr*, "dweller nearby").
 
+### Also sits in
+- **Meaning cluster** · [Coarse manners: the oaf, the grudge, and the snob's target](groups.md#meaning__coarse-manners) — with *churlish, philistine*
+- **Connotation** · [Clumsiness with embarrassment attached](groups.md#connotation__clumsiness-with-embarrassment-attached) — with *gawky, gauche, inept, gaffe, infelicity*
+- **Opposites** · [Tactful vs. tactless: manners, not morals](groups.md#antonym__tactful-vs-tactless) — with *tact, discreet, urbane, cordial, decorum, propriety, gauche, churlish, abrasive, impertinent, indecorous, unseemly*
+
 ---
 
 # **brook** *(v. (also n.))* — **BRUUK**
@@ -60,6 +65,10 @@ Old English **brūcan** = *"to use, to enjoy"* — so "brook no X" originally me
 
 🚫 The stream **brook** is Old English **brōc**, a separate word entirely. No connection beyond spelling.
 
+### Also sits in
+- **Meaning cluster** · [What You Will Not Put Up With](groups.md#meaning__put-up-with-it) — with *abide, countenance, condone*
+- **Second meaning** · [Innocent-Looking Words That Mean "To Tolerate"](groups.md#second-meaning__homely-words-that-mean-to-tolerate) — with *abide, countenance, forbear, condone*
+
 ---
 
 # **circumspect** *(adj.)* — **SUR-kum-spekt**
@@ -85,6 +94,14 @@ Cricket commentary lives on this word: a batter playing **a circumspect innings*
 Latin **circum** (*around*) + **specere** (*to look*) — literally *looking around you* before you move.
 
 Both halves pay off across the GRE: *circum-* gives **circumference, circumvent, circumscribe, circumlocution**; *-spect* gives **inspect, prospect, retrospect, conspicuous, perspicacious**.
+
+### Also sits in
+- **Meaning cluster** · [Caution That Counts as Good Judgment](groups.md#meaning__cautious-foresight) — with *prudent, judicious, chary*
+- **Meaning cluster** · [On watchful guard](groups.md#meaning__on-watchful-guard) — with *wary, vigilant, skittish*
+- **Meaning cluster** · [Saying the delicate thing](groups.md#meaning__saying-the-delicate-thing) — with *tact, discreet, subtle*
+- **Opposites** · [Leaping before looking vs. weighing it first](groups.md#antonym__leaping-before-looking-vs-weighing-it-first) — with *precipitate, impetuous, impulsive, foolhardy, headstrong, prudent, judicious, deliberate, chary, cogitate*
+- **Opposites** · [On guard vs. asleep at the wheel](groups.md#antonym__on-guard-vs-asleep-at-the-wheel) — with *vigilant, wary, heed, chary, oblivious, blithe, cavalier, complacent, lax*
+- **Root family** · [Root: circum- (around) — circumscribe, circumspect, circumstantial](groups.md#root__circum) — with *circumscribe, circumstantial*
 
 ---
 
@@ -120,6 +137,11 @@ Latin **comis** = *"courteous, obliging"* → **comitas**, *courtesy*.
 
 🚫 **Nothing to do with *comedy*** (Greek *kōmōidia*, "revel-song") **or *committee*** (from *commit*). Three unrelated words that happen to look alike.
 
+### Also sits in
+- **Meaning cluster** · [Correct conduct](groups.md#meaning__correct-conduct) — with *decorum, propriety, deportment*
+- **Meaning cluster** · [Formal agreement — and its three near-misses](groups.md#meaning__formal-agreement) — with *accord, consensus, détente*
+- **Opposites** · [Peacemaking vs. fight-picking](groups.md#antonym__peacemaking-vs-fight-picking) — with *conciliatory, mollify, placate, appease, amicable, détente, belligerent, pugnacious, truculent, contentious, antagonize, fractious*
+
 ---
 
 # **commensurate** *(adj.)* — **kuh-MEN-suh-rut**
@@ -150,6 +172,9 @@ Latin **com-** ("together") + **mensura** ("a measuring"), from *metiri*, "to me
 
 That root pays out widely: **measure**, **dimension**, **mensuration**, **immense** (literally *un-measurable* — too big to measure), and **menstrual** (a monthly measure).
 
+### Also sits in
+- **Meaning cluster** · [Fair to all sides](groups.md#meaning__fair-to-all-sides) — with *equitable, egalitarian, disinterested*
+
 ---
 
 # **cordial** *(adj. / n.)* — **KOR-juhl**
@@ -179,6 +204,10 @@ Latin **cor, cordis** = *"heart."* A cordial welcome is heartfelt; a cordial dri
 
 That root runs everywhere: **courage** (heart to face it), **accord** and **concord** (hearts together), **discord** (hearts apart), **record** (originally *to learn by heart*), **core**.
 
+### Also sits in
+- **Meaning cluster** · [Friendly — but friendly how?](groups.md#meaning__warmly-sociable) — with *amicable, congenial, convivial, gregarious*
+- **Opposites** · [Tactful vs. tactless: manners, not morals](groups.md#antonym__tactful-vs-tactless) — with *tact, discreet, urbane, decorum, propriety, boorish, gauche, churlish, abrasive, impertinent, indecorous, unseemly*
+
 ---
 
 # **deleterious** *(adj.)* — **del-uh-TEER-ee-uhs**
@@ -206,6 +235,12 @@ In genetics, every mutation gets sorted into one of three buckets: beneficial, n
 Greek **dēleisthai** = *"to hurt, injure"* → *dēlētērios*, "noxious."
 
 🚫 **Nothing to do with *delete*.** That's Latin *delere*, "to blot out" (*deletion, indelible*). The resemblance is pure coincidence — useful as a hook, false as history.
+
+### Also sits in
+- **Meaning cluster** · [Slow, hidden harm](groups.md#meaning__slow-hidden-harm) — with *detrimental, pernicious, insidious*
+- **Intensity scale** · [Degrees of harm: from working against you to poisoning you](groups.md#intensity__degrees-of-harm) — with *adverse, detrimental, pernicious, noxious*
+- **Connotation** · [Harm Stated Clinically](groups.md#connotation__harm-named-clinically) — with *detrimental, adverse, inimical, impair*
+- **Opposites** · [Health-giving vs. quietly poisonous](groups.md#antonym__health-giving-vs-quietly-poisonous) — with *salubrious, salutary, conducive, efficacious, benign, detrimental, pernicious, noxious, insidious, virulent*
 
 ---
 
@@ -235,6 +270,10 @@ Greek **dikha** = *"in two"* + **temnein** = *"to cut."* Literally a cutting in 
 
 That **-tomy** = *cut* is worth a lot: **anatomy** (cutting a body up to study it), **appendectomy**, **lobotomy**, **epitome** (something cut short), and **atom** — *a-tomos*, "un-cuttable," what the Greeks thought you'd hit when you ran out of cuts.
 
+### Also sits in
+- **Meaning cluster** · [A Group Splitting Apart](groups.md#meaning__a-group-splitting-apart) — with *polarize, factious, schism, strife*
+- **Opposites** · [Merging into one vs. splitting apart](groups.md#antonym__merging-together-vs-splitting-apart) — with *amalgamate, coalesce, subsume, cluster, polarize, schism, factious, sever, disperse*
+
 ---
 
 # **edify** *(v.)* — **ED-uh-feye**
@@ -260,6 +299,9 @@ British press and sports commentary run on one stock phrase: **"not an edifying 
 Latin **aedificāre** = *"to build"* (**aedes**, a building or temple + **facere**, to make). Church Latin borrowed it for building up the *soul*, and that metaphor is the whole word.
 
 Same root gives you **edifice** — a large, imposing building — so the pair locks together: an edifice is built of stone, edification is built in a person.
+
+### Also sits in
+- **Meaning cluster** · [Meant to improve you morally](groups.md#meaning__meant-to-improve-you-morally) — with *didactic, exhort*
 
 ---
 
@@ -297,6 +339,9 @@ That same *lacere* shows up, via **dēlicere** ("lure away"), in **delight**, **
 
 🚫 **Not the root of *illicit*.** That's *licēre*, "to be permitted" — giving **licit**, **licence**, and (oddly) **leisure**. Identical sound, unrelated family.
 
+### Also sits in
+- **Meaning cluster** · [Bring about vs. draw out](groups.md#meaning__bring-into-being) — with *engender, induce, precipitate, evoke*
+
 ---
 
 # **erudite** *(adj.)* — **ER-yuu-dyte**
@@ -325,6 +370,11 @@ Latin **ērudīre** = *"to polish, to instruct"* — literally **ex-** (out of) 
 
 That *rudis* gives you **rude** (unrefined), **rudimentary** (still at the raw stage), and **rudiments** (the first rough basics).
 
+### Also sits in
+- **Meaning cluster** · [Kinds of Smart: Learned, Broad, Retentive, Analytical](groups.md#meaning__deeply-learned) — with *polymath, encyclopedic, cerebral*
+- **Connotation** · [Learning as Praise: What Exactly Is Being Complimented](groups.md#connotation__learning-as-praise) — with *polymath, encyclopedic, connoisseur, sagacious*
+- **Opposites** · [Deep vs. skin-deep](groups.md#antonym__deep-vs-skin-deep) — with *profound, profundity, penetrating, exhaustive, encyclopedic, superficial, cursory, perfunctory, glib, dilettante*
+
 ---
 
 # **fecund** *(adj.)* — **FEE-kuhnd**
@@ -351,6 +401,9 @@ Demographers keep the two words apart deliberately: **fecundity** is the biologi
 ### Where it comes from
 Latin **fēcundus** = *"fruitful,"* from a root meaning **to suckle, to produce**. Same family: **fetus** (the thing produced), **feminine** (*fēmina*, she who suckles), and **felicity** (*fēlix* originally meant *fruitful*, and only later *happy* — a fruitful harvest being the original good luck).
 
+### Also sits in
+- **Opposites** · [Fertile vs. barren](groups.md#antonym__fertile-vs-barren) — with *fruitful, burgeon, replenish, barren, fallow, desiccate, futile*
+
 ---
 
 # **feeble** *(adj.)* — **FEE-buhl**
@@ -371,6 +424,9 @@ The word's stock collocations all carry a sneer, so remember it as "weak *and* n
 
 ### Where it comes from
 Latin **flēbilis** = *"to be wept over,"* from **flēre**, *"to weep."* The pity is baked into the word: something feeble is, literally, something you'd cry about.
+
+### Also sits in
+- **Meaning cluster** · [Weak and liable to break](groups.md#meaning__weak-and-liable-to-break) — with *frailty, tenuous, debilitating*
 
 ---
 
@@ -403,6 +459,12 @@ If a word choice only works, it's apt; if it makes you happy it was chosen, it's
 Latin **felix, felicis** = *"happy, lucky, fruitful."* It gives you **felicity** (bliss), **felicitate** (to congratulate), **infelicitous** (badly put), and the name **Felix**.
 
 Note the shift: Latin *felix* leans on *luck*; English *felicitous* has moved toward *aptness* — happiness in the choosing, not in the chance.
+
+### Also sits in
+- **Meaning cluster** · [Graceful in speech](groups.md#meaning__graceful-in-speech) — with *eloquent, articulate, voluble*
+- **Meaning cluster** · [To the Point](groups.md#meaning__to-the-point) — with *germane, pertinent, apposite, apropos, apt*
+- **Lookalike** · [felicitous / fortuitous / gratuitous](groups.md#lookalike__felicitous-fortuitous) — with *fortuitous, gratuitous*
+- **Connotation** · [Fitting exactly — but praised for what?](groups.md#connotation__fitting-exactly-and-praised-for-it) — with *germane, pertinent, apposite, apropos*
 
 ---
 
@@ -440,6 +502,16 @@ Old English **forberan** = *for-* + *beran* (to bear, carry).
 
 The prefix **for-** here means *away, abstain from, refuse* — and it unlocks a family: **forgo** (go without), **forbid** (bid against), **forsake**, **forswear**, **forfeit**. Whenever you see this *for-*, expect a negative.
 
+### Also sits in
+- **Meaning cluster** · [Hold Yourself Back](groups.md#meaning__hold-yourself-back) — with *abstain, forgo, eschew*
+- **Meaning cluster** · [Holding firm: endurance, resolve, restraint](groups.md#meaning__enduring-courage) — with *fortitude, stoic, resolute, steadfast*
+- **Lookalike** · [forbear / forgo / forsake](groups.md#lookalike__forbear-forgo) — with *forgo, forsake*
+- **Second meaning** · [Innocent-Looking Words That Mean "To Tolerate"](groups.md#second-meaning__homely-words-that-mean-to-tolerate) — with *brook, abide, countenance, condone*
+- **Opposites** · [Above pettiness vs. mired in it](groups.md#antonym__above-pettiness-vs-mired-in-it) — with *magnanimous, noble, captious, quibble, pedantic, finicky, peccadillo*
+- **Opposites** · [Complaining vs. bearing it in silence](groups.md#antonym__complaining-vs-bearing-it-in-silence) — with *querulous, grumble, curmudgeon, petulant, fractious, grievance, stoic, content, equanimity, abide*
+- **Opposites** · [Held in check vs. spilling over](groups.md#antonym__held-in-check-vs-spilling-over) — with *temper, curb, bridle, abstain, understated, profuse, extravagant, exorbitant, surfeit, gratuitous, lavish*
+- **Opposites** · [Letting it go vs. never letting it go](groups.md#antonym__letting-it-go-vs-never-letting-it-go) — with *magnanimous, condone, relent, exonerate, implacable, obdurate, retaliate, resent, enmity*
+
 ---
 
 # **haphazard** *(adj. / adv.)* — **hap-HAZ-erd**
@@ -464,6 +536,10 @@ Both halves mean "chance," so the word is doubly unplanned — which is exactly 
 Old Norse **happ** = *"luck, chance"* — and it pays out across the language: **happen** (what luck brings), **happy** (originally *lucky*), **hapless** (luck-less), **mishap**, **perhaps**.
 
 **Hazard** came from Arabic **az-zahr**, *"the dice,"* via Old French as the name of a dice game — chance again, and only later "danger."
+
+### Also sits in
+- **Meaning cluster** · [Done with no plan or care](groups.md#meaning__done-with-no-plan-or-care) — with *slovenly, desultory*
+- **Opposites** · [Meticulous vs. slapdash](groups.md#antonym__meticulous-vs-slapdash) — with *meticulous, punctilious, scrupulous, thorough, fastidious, cursory, perfunctory, slovenly, lax, negligent*
 
 ---
 
@@ -490,6 +566,10 @@ It's the standard word in American news writing for bad regulation: *"a **hodgep
 
 ### Where it comes from
 Old French **hochepot** — *hocher* ("to shake") + *pot*: a stew you shake the pot to mix. English turned it into the rhyming *hotchpotch*, then softened it to *hodgepodge*. The meal is still in the meaning — everything in one pot, nothing distinguishable.
+
+### Also sits in
+- **Meaning cluster** · [A mixture of sources: praised, dismissed, or merely measured](groups.md#meaning__a-mixture-of-sources) — with *eclectic, heterogeneous*
+- **Opposites** · [All of a kind vs. mixed in kind](groups.md#antonym__all-of-a-kind-vs-mixed-in-kind) — with *homogeneous, fungible, interchangeable, analogous, universal, heterogeneous, disparate, divergent, eclectic*
 
 ---
 
@@ -521,6 +601,12 @@ Same root: *pedestrian, pedal, pedicure, biped, impediment*.
 
 🚫 Not the *ped-* in **pediatric** or **pedagogy** — that's Greek *pais, paidos*, "child."
 
+### Also sits in
+- **Meaning cluster** · [Slow it down, don't stop it](groups.md#meaning__slow-something-s-progress) — with *hinder, hamper, impediment*
+- **Intensity scale** · [Getting in the Way: Friction, Drag, and Flat Impossibility](groups.md#intensity__getting-in-the-way) — with *hinder, hamper, preclude*
+- **Opposites** · [Helping it along vs. holding it back](groups.md#antonym__speeding-it-along-vs-holding-it-back) — with *expedite, bolster, abet, conducive, galvanize, hamper, hinder, impediment, inhibit, curb, check*
+- **Root family** · [Root: pēs, pedis (foot) — freeing the feet vs. shackling them](groups.md#root__pes) — with *expedient, expedite, impediment, pedestrian*
+
 ---
 
 # **impetuous** *(adj.)* — **im-PECH-oo-uhs**
@@ -551,6 +637,14 @@ Latin **impetus** = *"an attack, a rush,"* from *in-* (at) + **petere** (*to see
 
 That root pays rent across the exam: **petition** (seek a favour), **appetite** (seek food), **compete** (seek alongside), **repeat** (seek again), **perpetual** (seeking on forever), **centripetal** (seeking the centre).
 
+### Also sits in
+- **Meaning cluster** · [Acting before thinking](groups.md#meaning__acting-before-thinking) — with *impulsive, foolhardy, precipitate*
+- **Intensity scale** · [Impulsive to foolhardy: acting before thinking](groups.md#intensity__rash-to-reckless) — with *impulsive, foolhardy*
+- **Connotation** · [Boldness the speaker resents](groups.md#connotation__boldness-the-speaker-resents) — with *temerity, effrontery, brazen, foolhardy, audacious*
+- **Connotation** · [Out of Control — But Which Part?](groups.md#connotation__emotion-running-out-of-control) — with *hysterical, frenetic, tempestuous, volatile*
+- **Opposites** · [Leaping before looking vs. weighing it first](groups.md#antonym__leaping-before-looking-vs-weighing-it-first) — with *precipitate, impulsive, foolhardy, headstrong, circumspect, prudent, judicious, deliberate, chary, cogitate*
+- **Root family** · [Root: *petere* — to seek, aim at, rush toward](groups.md#root__petere) — with *competent, petulant, propitious*
+
 ---
 
 # **irascible** *(adj.)* — **ih-RAS-uh-buhl**
@@ -579,6 +673,10 @@ Latin **ira** = *anger* — giving **ire**, **irate**, **irascible**.
 
 The buried **-sc-** is the Latin *inchoative*: "beginning to." So *irascible* = liable to **start** boiling. That same **-sc-** runs through **adolescent** (beginning to grow up), **convalescent** (beginning to get well), **incandescent** (beginning to glow).
 
+### Also sits in
+- **Meaning cluster** · [Easy to set off](groups.md#meaning__easy-to-set-off) — with *petulant, fractious, truculent*
+- **Intensity scale** · [Short-tempered by degree](groups.md#intensity__short-tempered-by-degree) — with *petulant, querulous, fractious*
+
 ---
 
 # **mercenary** *(adj. / n.)* — **MER-suh-neh-ree**
@@ -606,6 +704,11 @@ Latin **mercēs, mercēdis** = *"wages, pay"* → *mercēnārius*, "a hired hand
 
 The odd cousin: **mercy**. Wages → *reward* → the reward God grants → *compassion*. (And **Mercedes** is Spanish for "mercies," from the same word.)
 
+### Also sits in
+- **Meaning cluster** · [Bought and paid for](groups.md#meaning__bought-and-paid-for) — with *venal, unscrupulous, exploitative*
+- **Connotation** · [Wanting Money: The Charge Rising](groups.md#connotation__wanting-money-charge-rising) — with *acquisitive, covet, avaricious, venal, rapacious*
+- **Opposites** · [Grasping for more vs. giving it away](groups.md#antonym__grasping-for-more-vs-giving-it-away) — with *acquisitive, avaricious, rapacious, covet, venal, altruistic, munificent, beneficent, largesse, endow*
+
 ---
 
 # **meticulous** *(adj.)* — **muh-TIK-yuh-luhs**
@@ -631,6 +734,12 @@ The word's own accent lands on the tick-mark, which is exactly what a meticulous
 Latin **metus** = *"fear"* → **meticulosus** = *"full of fear, timid."* In English it meant **frightened** right up to the 1800s, and only then slid into today's sense.
 
 That slide is the whole word: meticulous care is care born of **fear of getting it wrong**. The anxious undertone isn't your imagination — it's the original meaning showing through.
+
+### Also sits in
+- **Meaning cluster** · [Careful to the last detail](groups.md#meaning__careful-to-the-last-detail) — with *painstaking, scrupulous, thorough, exhaustive*
+- **Intensity scale** · [Careful to Nitpicking](groups.md#intensity__careful-to-nitpicking) — with *fastidious, finicky, pedantic*
+- **Connotation** · [Careful in every detail — coverage, precision, labor, conscience](groups.md#connotation__care-for-detail-as-praise) — with *thorough, painstaking, sedulous, scrupulous*
+- **Opposites** · [Meticulous vs. slapdash](groups.md#antonym__meticulous-vs-slapdash) — with *punctilious, scrupulous, thorough, fastidious, cursory, perfunctory, haphazard, slovenly, lax, negligent*
 
 ---
 
@@ -659,6 +768,11 @@ Still a live technical word in dyeing: alum is the classic **mordant**, the thin
 ### Where it comes from
 Latin **mordēre** = *"to bite."* Same root gives **remorse** (guilt that bites you back), **morsel** (a little bite), and the musical **mordent** (a quick nipped note).
 
+### Also sits in
+- **Meaning cluster** · [Criticism That Burns: Corrosive, Clever, Wounding, Bracing](groups.md#meaning__criticism-that-burns) — with *caustic, scathing, astringent*
+- **Second meaning** · [Physical sharpness → verbal sharpness](groups.md#second-meaning__physical-sharpness-verbal-sharpness) — with *caustic, abrasive, astringent, trenchant, penetrating, keen*
+- **Intensity scale** · [Sharp to wounding criticism](groups.md#intensity__sharp-to-wounding-criticism) — with *astringent, caustic, scathing*
+
 ---
 
 # **outstrip** *(v.)* — **OWT-strip**
@@ -679,6 +793,10 @@ That keeps the racing sense in front: outstripping isn't quiet excess, it's pull
 
 ### In the wild
 Newsroom shorthand you've read a hundred times: **"demand outstrips supply"** — the standard line in every story about house prices, GPUs, or concert tickets.
+
+### Also sits in
+- **Meaning cluster** · [Rise above the rest](groups.md#meaning__rise-above-the-rest) — with *eclipse, transcend, surmount, prevail*
+- **Opposites** · [Rising above vs. falling short](groups.md#antonym__rising-above-vs-falling-short) — with *surmount, transcend, prevail, vanquish, falter, languish, regress, wanting*
 
 ---
 
@@ -706,6 +824,10 @@ Latin **precārius** = *"obtained by begging"*, from **precārī**, *"to pray, e
 
 Same root: **pray**, **deprecate** (pray away → belittle), **imprecation** (a curse prayed down on someone).
 
+### Also sits in
+- **Meaning cluster** · [Liable to collapse](groups.md#meaning__liable-to-collapse) — with *perilous, jeopardize, fraught, tenuous*
+- **Intensity scale** · [From latent trouble to grave danger](groups.md#intensity__risky-to-grave-danger) — with *fraught, perilous*
+
 ---
 
 # **quirky** *(adj.)* — **KWER-kee**
@@ -726,6 +848,11 @@ The rhyme fixes the register: quirky oddity is endearing and bite-sized, not the
 
 ### In the wild
 "Quirky" is the word film critics reach for automatically with **Wes Anderson** — symmetrical shots, deadpan characters, pastel palettes. Odd, deliberate, and endearing rather than weird.
+
+### Also sits in
+- **Meaning cluster** · [Harmlessly odd](groups.md#meaning__harmlessly-odd) — with *eccentric, idiosyncratic, peculiar, whimsical*
+- **Intensity scale** · [Odd to tradition-smashing](groups.md#intensity__odd-to-tradition-smashing) — with *eccentric, heterodox, iconoclastic, radical*
+- **Connotation** · [Off the Norm, Indulged](groups.md#connotation__off-the-norm-indulged) — with *eccentric, idiosyncratic, whimsical*
 
 ---
 
@@ -757,6 +884,11 @@ A fixture of the news cycle: a candidate is asked to **repudiate** an endorsemen
 ### Where it comes from
 Latin **repudium** = *"a divorce, the casting off of a spouse."* That's the whole word in one image — repudiation is legal, formal, and always severs a bond that genuinely existed.
 
+### Also sits in
+- **Meaning cluster** · [Publicly Taking It Back](groups.md#meaning__publicly-take-back) — with *renounce, abjure, recant*
+- **Intensity scale** · [Going Without to Forswearing](groups.md#intensity__going-without-to-forswearing) — with *forgo, eschew, renounce, abjure*
+- **Opposites** · [Taking it back vs. holding to it](groups.md#antonym__taking-it-back-vs-holding-to-it) — with *recant, abjure, renounce, relinquish, forsake, adhere, steadfast, resolute, abide*
+
 ---
 
 # **tact** *(n.)* — **TAKT**
@@ -787,6 +919,11 @@ That root is a GRE goldmine: **tactile** (touchable), **tangible** (graspable), 
 
 🚫 **Not *tactics*.** That's Greek *taktikos*, "to arrange in order" — an unrelated word that just happens to collide.
 
+### Also sits in
+- **Meaning cluster** · [Saying the delicate thing](groups.md#meaning__saying-the-delicate-thing) — with *discreet, circumspect, subtle*
+- **Opposites** · [Tactful vs. tactless: manners, not morals](groups.md#antonym__tactful-vs-tactless) — with *discreet, urbane, cordial, decorum, propriety, boorish, gauche, churlish, abrasive, impertinent, indecorous, unseemly*
+- **Root family** · [Root: tangere, tactus (to touch)](groups.md#root__tangere) — with *tangential, tangible*
+
 ---
 
 # **trifling** *(adj.)* — **TRY-fling**
@@ -811,6 +948,11 @@ The buried *fling* gives you both halves at once: negligible in size, and dismis
 
 ### In the wild
 The dessert **trifle** — sponge, jam and whipped cream, gloriously mostly air — is named for exactly this: a light nothing. Rachel's beef-and-custard disaster in *Friends* is the version everyone remembers.
+
+### Also sits in
+- **Meaning cluster** · [Not worth bothering about](groups.md#meaning__not-worth-bothering-about) — with *trivial, paltry, frivolous*
+- **Intensity scale** · [Too small to matter — from measurement to contempt](groups.md#intensity__too-small-to-matter) — with *slight, trivial, paltry*
+- **Connotation** · [Small enough to dismiss](groups.md#connotation__small-enough-to-dismiss) — with *paltry, trivial, peccadillo, nominal, token*
 
 ---
 
@@ -841,3 +983,8 @@ Henry II's outburst about Thomas Becket — *"Who will rid me of this **turbulen
 
 ### Where it comes from
 Latin **turba** = *"a crowd, an uproar"* — picture a mob, and you have the whole word. Gives you **disturb** (stir the crowd up), **perturb** (thoroughly unsettle), **turbid** (water clouded by churned-up sediment), and via *turbo* (a spinning top) even **turbine**.
+
+### Also sits in
+- **Lookalike** · [truculent / turbid / turbulent / turgid](groups.md#lookalike__truculent-turbid) — with *truculent, turbid, turgid*
+- **Second meaning** · [Chemistry and Weather Words for Moods](groups.md#second-meaning__chemistry-and-weather-words-for-moods) — with *volatile, ebullient, tempestuous, buoyant*
+- **Opposites** · [Still Waters vs. Stormy](groups.md#antonym__still-waters-vs-stormy) — with *placid, serene, tranquil, quiescent, subdued, tempestuous, frenetic, restive, fraught*

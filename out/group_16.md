@@ -53,6 +53,11 @@ Frankish **bannan** = *"to proclaim, to command under threat of penalty."* A *ba
 
 That root pays off across the exam: **ban**, **abandon** (put under someone else's *bann*, i.e. give up control), **bandit** (Italian *bandito*, a man publicly proclaimed an outlaw), **contraband**, and — surprisingly — **banal**: things open to *all* the lord's tenants by proclamation became things ordinary, and then things dull.
 
+### Also sits in
+- **Meaning cluster** · [Driven Out: From a Place, a Post, or a Rank](groups.md#meaning__drive-out-of-a-place-or-post) — with *oust, depose, relegate*
+- **Intensity scale** · [Demotion to expulsion](groups.md#intensity__demotion-to-expulsion) — with *relegate, oust, depose*
+- **Opposites** · [Taking in vs. shutting out](groups.md#antonym__taking-in-vs-shutting-out) — with *subsume, amalgamate, all-encompassing, universal, marginalize, relegate, alienate, immure, quarantine*
+
 ---
 
 # **bridle** *(n. / v.)* — **BREYE-duhl**
@@ -82,6 +87,12 @@ You almost certainly know the negative first: **unbridled** ambition, unbridled 
 Old English **brīdel**, from **bregdan** = *"to pull, jerk, weave."* That yank gives you **braid** (pulling strands together) and **upbraid** (jerking a fault up in someone's face — to scold).
 
 🚫 **Nothing to do with *bride*.** That's a separate Germanic word; the identical sound is coincidence.
+
+### Also sits in
+- **Meaning cluster** · [Hold in check](groups.md#meaning__hold-in-check) — with *curb, check, inhibit, circumscribe, curtail*
+- **Second meaning** · [From Stable and Field: Farm Words That Went Mental](groups.md#second-meaning__stable-and-field-words-for-the-mind) — with *ruminate, goad, fallow, hidebound, fledgling*
+- **Second meaning** · [Ordinary words that mean "to restrain"](groups.md#second-meaning__ordinary-verbs-that-mean-to-restrain) — with *check, curb, temper, hamper, inhibit*
+- **Opposites** · [Held in check vs. spilling over](groups.md#antonym__held-in-check-vs-spilling-over) — with *temper, curb, forbear, abstain, understated, profuse, extravagant, exorbitant, surfeit, gratuitous, lavish*
 
 ---
 
@@ -117,6 +128,11 @@ Same root, big family: **complete**, **complement** (what fills the gap), **repl
 
 Odd cousin: **compliment** is the *same word* — it reached English via Spanish *cumplir*, "to fulfil the courtesies." Comply fills an obligation; compliment fills a social one.
 
+### Also sits in
+- **Meaning cluster** · [Do What the Rule Says](groups.md#meaning__do-what-the-rule-says) — with *adhere, abide, heed*
+- **Opposites** · [Falling in line vs. breaking ranks](groups.md#antonym__falling-in-line-vs-breaking-ranks) — with *adhere, acquiesce, deference, obeisance, tractable, dissent, dissident, flout, contravene, mutiny, obstreperous*
+- **Opposites** · [Refusing to budge vs. caving in](groups.md#antonym__refusing-to-budge-vs-caving-in) — with *intransigent, obdurate, obstinate, implacable, pertinacious, acquiesce, capitulate, relent, yield*
+
 ---
 
 # **crestfallen** *(adj.)* — **KREST-fah-luhn**
@@ -140,6 +156,10 @@ It's the standard word for the losing dugout at the final whistle — commentato
 
 ### Where it comes from
 Latin **crista** = *"tuft, plume, comb"* — the thing on top that stands up. A knight's crest sat on his helmet; a rooster's crest sits on his head. Both go down when he loses.
+
+### Also sits in
+- **Meaning cluster** · [Gloomy and downcast](groups.md#meaning__gloomy-and-downcast) — with *morose, glum, lugubrious*
+- **Opposites** · [Bright spirits vs. sunk spirits](groups.md#antonym__bright-spirits-vs-sunk-spirits) — with *sanguine, buoyant, jocund, elated, ebullient, morose, glum, lugubrious, plaintive, dirge*
 
 ---
 
@@ -166,6 +186,11 @@ The phrase you heard on loop in 2020: measures to **curtail the spread** of the 
 Latin **curtus** = *"shortened, cut off"* — the same root that gives you **curt** (a curt reply is a clipped one).
 
 The odd spelling comes from Old French **courtault**, a horse with a **docked tail**. English speakers heard *tail* in it and respelled accordingly — a false etymology that happens to be a perfect mnemonic.
+
+### Also sits in
+- **Meaning cluster** · [Hold in check](groups.md#meaning__hold-in-check) — with *curb, check, inhibit, bridle, circumscribe*
+- **Intensity scale** · [Holding something down: curb → check → curtail → suppress → quash](groups.md#intensity__holding-something-down) — with *curb, check, suppress, quash*
+- **Opposites** · [Swelling vs. dying down](groups.md#antonym__swelling-vs-dying-down) — with *augment, amplify, burgeon, escalate, crescendo, abate, attenuate, wane, subside, dwindling*
 
 ---
 
@@ -195,6 +220,10 @@ Latin **lux, lucis** = *light*, via **lucidus** = *bright, clear*. The **e-** is
 
 That root is worth a lot of GRE marks: **lucid** (clear-minded), **translucent** (light passes through), **pellucid** (perfectly clear — of prose or water), **elucidate**, and **Lucifer**, literally *light-bringer*.
 
+### Also sits in
+- **Meaning cluster** · [Elucidate / Delineate / Articulate: three different kinds of unclear](groups.md#meaning__make-the-obscure-clear) — with *delineate, articulate*
+- **Opposites** · [Making clear vs. muddying](groups.md#antonym__making-clear-vs-muddying) — with *delineate, distill, articulate, obfuscate, obscure, occlude, cloak*
+
 ---
 
 # **evade** *(v.)* — **ih-VAYD**
@@ -223,6 +252,11 @@ Latin **ē-** (*out*) + **vādere** (*to go*) — literally *to go out of it*.
 
 *vādere* is a workhorse root: **invade** (go *in*), **pervade** (go *through* everything), **evade** (go *out*). Even English **wade** is a cousin — going through with effort.
 
+### Also sits in
+- **Meaning cluster** · [Dodging without lying](groups.md#meaning__dodge-the-truth-in-speech) — with *equivocate, prevaricate, evasive, skirt*
+- **Opposites** · [Straight answer vs. dodging the question](groups.md#antonym__straight-answer-vs-dodging-the-question) — with *candid, frank, aver, articulate, equivocate, prevaricate, evasive, skirt, demur*
+- **Root family** · [Root: vadere (to go) — out of, into, through](groups.md#root__vadere) — with *evasive, invasive, pervasive*
+
 ---
 
 # **feckless** *(adj.)* — **FEK-luhs**
@@ -249,6 +283,12 @@ He isn't harmful, he's just a person whose efforts never produce any effect.
 
 ### In the wild
 British tabloids and welfare debates run on the phrase **\"feckless fathers\"** — men who won't work and won't pay. If you've seen the word in print, it was probably in that collocation.
+
+### Also sits in
+- **Meaning cluster** · [Won't do the work](groups.md#meaning__won-t-do-the-work) — with *indolent, shirk, dilatory, dawdle*
+- **Connotation** · [Idleness Blamed: Seven Different Accusations](groups.md#connotation__idleness-blamed) — with *indolent, shirk, dilatory, dawdle, slovenly, desultory*
+- **Opposites** · [Sure-handed vs. all thumbs](groups.md#antonym__sure-handed-vs-all-thumbs) — with *adept, adroit, deft, dexterous, proficient, facility, inept, gauche, gawky, cumbersome*
+- **Opposites** · [Tireless Industry vs. Work-Dodging](groups.md#antonym__tireless-industry-vs-work-dodging) — with *industrious, sedulous, indefatigable, painstaking, perseverance, dogged, indolent, shirk, dilatory, dawdle, sinecure*
 
 ---
 
@@ -277,6 +317,11 @@ The rhyme carries the key idea: festering isn't just being bad, it's steadily wo
 ### Where it comes from
 From Latin **fistula** = *"pipe, tube"* — and, in medicine, an ulcer that tunnels through flesh. Via Old French *festre* into English. Same root as the modern medical **fistula**: an abnormal channel that won't close and won't heal.
 
+### Also sits in
+- **Meaning cluster** · [Make a bad thing worse](groups.md#meaning__make-a-bad-thing-worse) — with *exacerbate, compound, escalate*
+- **Second meaning** · [Clinic Words for Non-Clinical Things](groups.md#second-meaning__clinic-words-for-non-clinical-things) — with *benign, virulent, endemic, ossify, cathartic*
+- **Connotation** · [Spreading — and it's always the bad thing](groups.md#connotation__spreading-and-it-s-always-the-bad-thing) — with *rampant, proliferate, recrudescent, encroach, invasive*
+
 ---
 
 # **iconoclastic** *(adj.)* — **eye-kon-uh-KLAS-tik**
@@ -303,6 +348,13 @@ Not a grumbler who objects to small things, but a demolition job aimed at whatev
 Greek **eikōn** (*image*) + **klan** (*to break*) — literally an **image-breaker**. The original iconoclasts were 8th-century Byzantines who smashed religious icons as idolatry, and the fight was so bitter the word survived the theology.
 
 Two useful families: *eikōn* gives **icon, iconic, iconography**; **-clast/-clase** gives **osteoclast** (the cell that breaks down bone) and **plagioclase** (a mineral that splits obliquely).
+
+### Also sits in
+- **Meaning cluster** · [Breaking with the official line](groups.md#meaning__open-opposition-to-authority) — with *dissent, dissident, mutiny, heterodox*
+- **Intensity scale** · [Odd to tradition-smashing](groups.md#intensity__odd-to-tradition-smashing) — with *quirky, eccentric, heterodox, radical*
+- **Opposites** · [Fresh-minted vs. secondhand](groups.md#antonym__fresh-minted-vs-secondhand) — with *ingenious, unprecedented, coin, derivative, hackneyed, banal, pastiche, bromide, platitude, mimic*
+- **Opposites** · [Held sacred vs. treated as fair game](groups.md#antonym__held-sacred-vs-treated-as-fair-game) — with *sacrosanct, inviolate, venerate, numinous, canonize, irreverent, deride, flout*
+- **Opposites** · [Orthodox vs. heretical](groups.md#antonym__orthodox-vs-heretical) — with *conventional, staid, hidebound, doctrinaire, dogmatic, heterodox, radical, eccentric, fringe*
 
 ---
 
@@ -336,6 +388,11 @@ Latin **in-** + **mūrus** = *"wall."*
 
 That root is quietly everywhere: **mural** (on a wall), **intramural** (*within* the walls — inside one school), **extramural** (outside them), and **mure** itself in older English.
 
+### Also sits in
+- **Meaning cluster** · [Shut in by force](groups.md#meaning__shut-in-by-force) — with *circumscribe, quarantine, manacle*
+- **Intensity scale** · [Limiting to walling in](groups.md#intensity__limiting-to-walling-in) — with *circumscribe, quarantine*
+- **Opposites** · [Taking in vs. shutting out](groups.md#antonym__taking-in-vs-shutting-out) — with *subsume, amalgamate, all-encompassing, universal, marginalize, relegate, banish, alienate, quarantine*
+
 ---
 
 # **improvise** *(v.)* — **IM-pruh-vize**
@@ -363,6 +420,9 @@ The word runs on two tracks. In performance (jazz, comedy, a speech) it's a **sk
 Latin **improvisus** = *"unforeseen"* — *in-* (not) + *provisus* (seen ahead), from **providere**, "to see in advance."
 
 That root pays off across the exam: **provide**, **provision**, **providence**, **improvident** (failing to plan for the future), and **prudent** (a worn-down form of *providens*). To improvise is to act where nobody saw it coming.
+
+### Also sits in
+- **Meaning cluster** · [Made Up on the Spot](groups.md#meaning__made-up-on-the-spot) — with *extemporize, makeshift, ad hoc, expedient*
 
 ---
 
@@ -398,6 +458,11 @@ The whole family is built on holding: **ex**hibit (hold *out* for viewing), **pr
 
 🚫 **Not *inhabit*.** That's Latin *habitāre*, "to dwell" — one letter apart, opposite job.
 
+### Also sits in
+- **Meaning cluster** · [Hold in check](groups.md#meaning__hold-in-check) — with *curb, check, bridle, circumscribe, curtail*
+- **Second meaning** · [Ordinary words that mean "to restrain"](groups.md#second-meaning__ordinary-verbs-that-mean-to-restrain) — with *check, curb, bridle, temper, hamper*
+- **Opposites** · [Helping it along vs. holding it back](groups.md#antonym__speeding-it-along-vs-holding-it-back) — with *expedite, bolster, abet, conducive, galvanize, hamper, hinder, impede, impediment, curb, check*
+
 ---
 
 # **inscrutable** *(adj.)* — **in-SKROO-tuh-buhl**
@@ -423,6 +488,10 @@ The stock adjective for the **Mona Lisa's smile** — five centuries of critics 
 Latin **scrutari** = *"to search through, rummage, examine"* — originally what rag-pickers did, sifting through **scruta**, "junk." Add *in-* (not) and *-able*: **not able to be rummaged through.** Same root gives you **scrutiny**, **scrutinise**, **scrutineer**.
 
 🚫 Not related to **scruples**. That's Latin *scrupulus*, "a small sharp stone in your shoe" — a nagging moral qualm. *Unscrupulous* is about conscience; *inscrutable* is about visibility.
+
+### Also sits in
+- **Meaning cluster** · [Impossible to See Into](groups.md#meaning__impossible-to-see-into) — with *obscure, turbid, opaque, impenetrable*
+- **Meaning cluster** · [Slips out of your grasp](groups.md#meaning__slips-out-of-your-grasp) — with *elusive, evasive, subtle*
 
 ---
 
@@ -451,6 +520,14 @@ This word lives in obituaries and book reviews — "**lionized by critics**", "l
 In 1700s London, the caged **lions** at the Tower were the must-see attraction, so "showing someone the lions" meant showing them the sights — and by extension a famous person became **a lion**, a sight worth being brought round to see.
 
 Latin **leo, leonis** also gives you **leonine** (lion-like) and, absurdly, **dandelion** — French *dent-de-lion*, "lion's tooth", for the jagged leaves.
+
+### Also sits in
+- **Meaning cluster** · [Loud public praise — and who's doing the praising](groups.md#meaning__loud-public-praise) — with *acclaim, approbation, extol, tout*
+- **Second meaning** · [Plain Nouns That Turn Into Verbs of Promotion](groups.md#second-meaning__plain-nouns-that-turn-into-verbs-of-promotion) — with *champion, advocate, tout, burnish*
+- **Intensity scale** · [Praise to worship](groups.md#intensity__praise-to-worship) — with *acclaim, extol, venerate, deify*
+- **Connotation** · [Praise loud enough to stop judging](groups.md#connotation__praise-loud-enough-to-stop-judging) — with *extol, acclaim, canonize, deify, tout*
+- **Opposites** · [Blackening a name vs. burnishing one](groups.md#antonym__blackening-a-name-vs-burnishing-one) — with *calumny, aspersion, defame, slander, denigrate, malign, burnish, venerate, canonize*
+- **Opposites** · [Raising up vs. bringing down](groups.md#antonym__raising-up-vs-bringing-down) — with *anoint, deify, canonize, venerate, depose, oust, relegate, debase, belittle, marginalize*
 
 ---
 
@@ -482,6 +559,12 @@ Greek **monos** (*one*) + **tonos** (*tone, pitch*) — literally *one-toned*. T
 
 **tonos** also gives you *tone, intonation, atonal, baritone,* and *tonic*.
 
+### Also sits in
+- **Meaning cluster** · [Dull — by sameness, by length, by pace](groups.md#meaning__boring-by-repetition) — with *humdrum, tedious, interminable, plodding*
+- **Intensity scale** · [Degrees of tedium](groups.md#intensity__degrees-of-tedium) — with *humdrum, tedious, soporific*
+- **Connotation** · [Dull, in a reviewer's register](groups.md#connotation__dull-in-a-reviewer-s-register) — with *ponderous, plodding, soporific, tedious, interminable*
+- **Opposites** · [Gripping vs. sleep-inducing](groups.md#antonym__gripping-vs-sleep-inducing) — with *arresting, enthrall, compelling, scintillating, piquant, soporific, tedious, humdrum, plodding, insipid, vapid*
+
 ---
 
 # **peculiar** *(adj.)* — **pih-KYOOL-yer**
@@ -510,6 +593,9 @@ Latin **pecū** = *"cattle"* → **pecūlium**, the private herd a Roman slave o
 
 Cattle were the first money, so that root runs straight into your wallet: **pecuniary** (relating to money), **impecunious** (broke), **peculate** (to embezzle — to treat public funds as your own).
 
+### Also sits in
+- **Meaning cluster** · [Harmlessly odd](groups.md#meaning__harmlessly-odd) — with *eccentric, idiosyncratic, quirky, whimsical*
+
 ---
 
 # **premeditate** *(v.)* — **pree-MED-i-tayt**
@@ -535,6 +621,9 @@ Every courtroom drama hinges on it: **premeditated murder** is what makes a kill
 Latin **prae-** (*before*) + **meditārī** (*to ponder, turn over in the mind*) — so, literally, to meditate in advance.
 
 *Meditārī* traces to a root meaning **"to take appropriate measures,"** which also gives you **medicine, remedy, moderate, modest** — the family of weighing things carefully before acting.
+
+### Also sits in
+- **Connotation** · [Words that carry the guilt inside them](groups.md#connotation__verbs-that-presume-wrongdoing) — with *perpetrate, abet, collude, conspire, malfeasance*
 
 ---
 
@@ -565,6 +654,13 @@ The open gate captures the nuance the word adds to *wasteful*: the scale of the 
 Latin **prōflīgāre** = *"to strike down, ruin"* — *pro-* (forward) + **flīgere** (to strike). The original sense is *wrecked*: first morally wrecked (dissolute), then financially wrecking (squandering).
 
 **flīgere** is a quiet workhorse root: **conflict** (strike together), **afflict** (strike at), **inflict** (strike upon). A profligate has been struck down — usually by his own hand.
+
+### Also sits in
+- **Meaning cluster** · [Wasteful with money — and the flavour of the blame](groups.md#meaning__wasteful-with-money) — with *prodigal, spendthrift, squander, extravagant*
+- **Lookalike** · [prodigal / profligate / prodigious](groups.md#lookalike__prodigal-prodigious) — with *prodigal, prodigious*
+- **Intensity scale** · [Free spending to ruinous waste](groups.md#intensity__free-spending-to-ruinous-waste) — with *lavish, extravagant, prodigal*
+- **Connotation** · [Spending condemned](groups.md#connotation__spending-condemned) — with *prodigal, spendthrift, squander, extravagant, exorbitant*
+- **Opposites** · [Squandering vs. thrift](groups.md#antonym__squandering-vs-thrift) — with *prodigal, spendthrift, squander, economy, parsimonious, retrench, canny*
 
 ---
 
@@ -598,6 +694,10 @@ Latin **re-** (*back*) + **conciliāre** (*to bring together, win over*), from *
 
 So the family: **council** (the gathering), **conciliate** / **conciliatory** (win someone over), **reconcile** (get them back in the room). To reconcile is to call the parties back to the table.
 
+### Also sits in
+- **Meaning cluster** · [Standing Between Two Sides](groups.md#meaning__standing-between-two-sides) — with *intermediary, mediate, proxy*
+- **Opposites** · [Settled harmony vs. open feud](groups.md#antonym__settled-harmony-vs-open-feud) — with *accord, consensus, amicable, acrimonious, animosity, enmity, strife*
+
 ---
 
 # **refine** *(v.)* — **ri-FEYEN**
@@ -625,6 +725,11 @@ The supermarket shelf teaches the literal sense: **refined** sugar and flour are
 From Latin **finis** = *"end, limit"* → **fine** in its older sense of *pure, unalloyed* (as in **fine gold**, 24-carat). To *re-fine* is to drive metal toward that pure endpoint.
 
 That root pays off everywhere: **finish, finite, infinite, define, confine, final, finesse**.
+
+### Also sits in
+- **Meaning cluster** · [Fixing what's wrong: how broken was it to begin with?](groups.md#meaning__fix-what-s-defective) — with *amend, remedial, ameliorate*
+- **Opposites** · [Pure vs. adulterated](groups.md#antonym__pure-vs-adulterated) — with *pristine, immaculate, unalloyed, distill, adulterate, debase, vitiate, tarnish, sordid*
+- **Root family** · [Root: *finis* (boundary, end) — the limit shared, the limit unset, the limit reached](groups.md#root__finis) — with *affinity, indefinite*
 
 ---
 
@@ -654,6 +759,10 @@ Latin **linquere** = *"to leave behind."* Relinquish is literally *to leave a th
 
 The root pays off across the exam: **relic** (what's left behind), **derelict** (left behind entirely — abandoned, neglected), **delinquent** (one who leaves his duty undone).
 
+### Also sits in
+- **Meaning cluster** · [Voluntarily let go](groups.md#meaning__voluntarily-let-go) — with *forgo, forsake, jettison*
+- **Opposites** · [Taking it back vs. holding to it](groups.md#antonym__taking-it-back-vs-holding-to-it) — with *recant, abjure, renounce, repudiate, forsake, adhere, steadfast, resolute, abide*
+
 ---
 
 # **ruminate** *(v.)* — **ROO-muh-nayt**
@@ -678,6 +787,9 @@ Therapists use it as a technical term: **rumination** is the clinical name for t
 ### Where it comes from
 Latin **rūmināre** = *"to chew the cud,"* from **rūmen**, the first stomach of a cow. A **ruminant** brings food back up and grinds it a second time — which is exactly what your brain does with an embarrassing memory.
 
+### Also sits in
+- **Second meaning** · [From Stable and Field: Farm Words That Went Mental](groups.md#second-meaning__stable-and-field-words-for-the-mind) — with *bridle, goad, fallow, hidebound, fledgling*
+
 ---
 
 # **skittish** *(adj.)* — **SKIT-ish**
@@ -698,6 +810,13 @@ The skitter is the tell: motion that's jumpy and unnecessary rather than a consi
 
 ### In the wild
 Financial news runs on this word: *"markets were skittish ahead of the Fed decision."* It's the standard way of saying investors are selling on nerves rather than news.
+
+### Also sits in
+- **Meaning cluster** · [On watchful guard](groups.md#meaning__on-watchful-guard) — with *wary, vigilant, circumspect*
+- **Meaning cluster** · [Too nervous to act](groups.md#meaning__too-nervous-to-act) — with *timorous, diffident, craven*
+- **Connotation** · [Nerve Failing](groups.md#connotation__nerve-failing) — with *craven, timorous, diffident, irresolute, vacillate*
+- **Opposites** · [Fearless vs. faint-hearted](groups.md#antonym__fearless-vs-faint-hearted) — with *intrepid, valor, plucky, mettlesome, fortitude, redoubtable, craven, timorous, diffident*
+- **Opposites** · [Unshakeable Poise vs. Rattled](groups.md#antonym__unshakeable-poise-vs-rattled) — with *equanimity, imperturbable, aplomb, poise, stoic, flustered, discomfit, disconcerting, nonplussed*
 
 ---
 
@@ -727,6 +846,11 @@ Latin **super** (*over*) + **fluere** (*to flow*) — literally *overflowing*.
 
 *Fluere* is a workhorse root: **fluent** (words flow), **fluid**, **influence** (originally an astrological "in-flowing"), **affluent** (wealth flowing toward you), **confluence** (rivers flowing together), **influx**, **flux**.
 
+### Also sits in
+- **Meaning cluster** · [More Than Is Needed: Five Kinds of Too Much](groups.md#meaning__more-than-is-needed) — with *surfeit, exorbitant, redundant, gratuitous*
+- **Connotation** · [Surplus counted as fault](groups.md#connotation__surplus-counted-as-fault) — with *redundant, extraneous, gratuitous, surfeit*
+- **Opposites** · [Must Be There vs. Shouldn't Be There](groups.md#antonym__can-t-do-without-vs-could-do-without) — with *indispensable, imperative, intrinsic, redundant, extraneous, gratuitous*
+
 ---
 
 # **synoptic** *(adj.)* — **si-NOP-tik**
@@ -754,6 +878,9 @@ Matthew, Mark and Luke are called the **Synoptic Gospels** — they can be set s
 Greek **syn-** (*together*) + **opsis** (*sight, view*) — "seeing it all together."
 
 *Opsis* is a workhorse root: **synopsis** (the view-together), **optic** (of sight), **autopsy** (*auto-* + *opsis* = seeing for oneself), **myopia** (short sight), **biopsy** (viewing living tissue).
+
+### Also sits in
+- **Meaning cluster** · [Boil it down](groups.md#meaning__boil-it-down) — with *abstract, recapitulate, distill*
 
 ---
 
@@ -787,6 +914,13 @@ A **thoroughbred** racehorse at the Derby is one bred *through and through* — 
 
 The family keeps the sense literal: a **thoroughfare** is a road that runs all the way through (hence the "No Thoroughfare" sign), and **thoroughgoing** doubles down on the same idea.
 
+### Also sits in
+- **Meaning cluster** · [Careful to the last detail](groups.md#meaning__careful-to-the-last-detail) — with *meticulous, painstaking, scrupulous, exhaustive*
+- **Meaning cluster** · [Leaving nothing out](groups.md#meaning__leaving-nothing-out) — with *exhaustive, encyclopedic, all-encompassing*
+- **Intensity scale** · [Degrees of coverage](groups.md#intensity__degrees-of-coverage) — with *exhaustive, encyclopedic, all-encompassing*
+- **Connotation** · [Careful in every detail — coverage, precision, labor, conscience](groups.md#connotation__care-for-detail-as-praise) — with *meticulous, painstaking, sedulous, scrupulous*
+- **Opposites** · [Meticulous vs. slapdash](groups.md#antonym__meticulous-vs-slapdash) — with *meticulous, punctilious, scrupulous, fastidious, cursory, perfunctory, haphazard, slovenly, lax, negligent*
+
 ---
 
 # **visionary** *(adj. / n.)* — **VIZH-uh-ner-ee**
@@ -812,6 +946,9 @@ Every Steve Jobs obituary and keynote retrospective reaches for the same word �
 
 ### Where it comes from
 Latin **vidēre** = *"to see"* (past participle *vīsus*). It's one of the great GRE roots: **vision, visible, evident, envision, revise** (*look again*), **survey** (*look over*), **provide** and **prudent** (both from *pro-vidēre*, "to see ahead" — the prudent person saw it coming).
+
+### Also sits in
+- **Opposites** · [Seeing far ahead vs. seeing no further than your nose](groups.md#antonym__seeing-far-ahead-vs-seeing-no-further-than-your-nose) — with *prescient, sagacious, prudent, myopic, oblivious, blithe, complacent*
 
 ---
 
@@ -844,3 +981,7 @@ News writing runs on one phrase: **"a vociferous critic of"** — it's the stand
 Latin **vōx, vōcis** (*voice*) + **ferre** (*to carry*) — literally *voice-carrying*.
 
 Both halves pay off elsewhere. From *vōx*: **vocal, vocation** (a *calling*), **evoke, provoke, advocate**. From *ferre*: **transfer, refer, conifer** (cone-carrying), **pestiferous** (plague-carrying).
+
+### Also sits in
+- **Meaning cluster** · [Loudly insistent](groups.md#meaning__loudly-insistent) — with *clamorous, obstreperous, boisterous*
+- **Opposites** · [Kinds of loud, kinds of quiet](groups.md#antonym__loud-vs-hushed) — with *clamorous, boisterous, cacophonous, obstreperous, clangor, subdued, placid, taciturn, croon*

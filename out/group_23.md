@@ -32,6 +32,12 @@ Latin **ad-** ("toward") + **lūdere** ("to play") → *allūdere*, "to play at,
 
 That **lūdere** root is a GRE workhorse: **elude** (play *away* → escape), **delude** (play someone false), **collude** (play together, in secret), **illusion**, **prelude**, **interlude**, **ludicrous**. Spot *-lud-/-lus-* and you're looking at play.
 
+### Also sits in
+- **Meaning cluster** · [Hinting rather than stating](groups.md#meaning__hinting-rather-than-stating) — with *allude, intimate, evoke*
+- **Lookalike** · [allusive / elusive / evasive / illusory](groups.md#lookalike__allusive-elusive) — with *elusive, evasive, illusory*
+- **Opposites** · [Saying it outright vs. hinting at it](groups.md#antonym__saying-it-outright-vs-hinting-at-it) — with *frank, candid, articulate, overt, allude, intimate, euphemism, tacit, implicit*
+- **Root family** · [Root: ludere (to play) — indirection, evasion, and things that aren't there](groups.md#root__ludere) — with *allude, collude, delusion, elusive, illusory*
+
 ---
 
 # **astute** *(adj.)* — **uh-STOOT**
@@ -60,6 +66,12 @@ It's the standard compliment in financial journalism: every profile of a success
 ### Where it comes from
 Latin **astūtus**, from **astus** = *"craft, cunning."* The word started out meaning *sly* and was gradually promoted into a compliment — which is exactly why a trace of calculation still clings to it.
 
+### Also sits in
+- **Meaning cluster** · [Shrewd Judgment: Reading People, Money, and Motives](groups.md#meaning__shrewd-read-of-people) — with *shrewd, canny, perspicacious, sagacious, acumen*
+- **Intensity scale** · [Shrewd to wise](groups.md#intensity__shrewd-to-wise) — with *canny, perspicacious, sagacious*
+- **Connotation** · [Sharp judgment, as a compliment](groups.md#connotation__sharpness-of-mind-admired) — with *shrewd, canny, sagacious, perspicacious, acumen*
+- **Opposites** · [Easily fooled vs. hard to fool](groups.md#antonym__easily-fooled-vs-hard-to-fool) — with *naive, gullible, dupe, ingenuous, artless, shrewd, canny, wily, perspicacious*
+
 ---
 
 # **commence** *(v.)* — **kuh-MENS**
@@ -83,6 +95,9 @@ American universities call graduation **commencement** — not the end of your d
 
 ### Where it comes from
 Latin **com-** (intensive) + **initiare** = *"to initiate, begin"* — the same *initiare* behind **initial**, **initiate**, **initiative**. So *commence* is literally "to initiate," which is why it never quite loses its ceremonial edge.
+
+### Also sits in
+- **Opposites** · [Just born vs. outlived its era](groups.md#antonym__just-born-vs-worn-out-with-age) — with *nascent, inchoate, fledgling, archaic, obsolete, anachronistic, vestigial, erstwhile*
 
 ---
 
@@ -111,6 +126,10 @@ That suffix always means mid-process, never arrived — which is exactly why a c
 Latin **valēre** = *"to be strong, to be well"* + **con-** (intensifier) + **-escere** (*begin to*). To convalesce is to *start growing strong again*.
 
 That root is a goldmine: **valid** (strong enough to hold), **invalid** (not strong — both the argument and the wheelchair sense), **prevail**, **valiant**, **valour**, **value**, and the Roman farewell **vale** ("be well").
+
+### Also sits in
+- **Meaning cluster** · [Recovering, Restoring, Reviving](groups.md#meaning__getting-better-after-illness) — with *resilient, replenish, invigorate*
+- **Root family** · [Root: valēre (to be strong, to be well)](groups.md#root__valere) — with *prevail, valor*
 
 ---
 
@@ -141,6 +160,14 @@ Latin **curvāre** *("to bend")* → Old French *courbe*. A **curb** was the cha
 
 Same root as **curve, curvature, curvaceous** — bending is the through-line: you bend a thing's course rather than break it.
 
+### Also sits in
+- **Meaning cluster** · [Hold in check](groups.md#meaning__hold-in-check) — with *check, inhibit, bridle, circumscribe, curtail*
+- **Second meaning** · [Ordinary words that mean "to restrain"](groups.md#second-meaning__ordinary-verbs-that-mean-to-restrain) — with *check, bridle, temper, hamper, inhibit*
+- **Intensity scale** · [Holding something down: curb → check → curtail → suppress → quash](groups.md#intensity__holding-something-down) — with *check, curtail, suppress, quash*
+- **Intensity scale** · [Turning it down vs. taking it to zero](groups.md#intensity__reducing-an-effect-to-nothing) — with *mitigate, nullify, eradicate*
+- **Opposites** · [Held in check vs. spilling over](groups.md#antonym__held-in-check-vs-spilling-over) — with *temper, bridle, forbear, abstain, understated, profuse, extravagant, exorbitant, surfeit, gratuitous, lavish*
+- **Opposites** · [Helping it along vs. holding it back](groups.md#antonym__speeding-it-along-vs-holding-it-back) — with *expedite, bolster, abet, conducive, galvanize, hamper, hinder, impede, impediment, inhibit, check*
+
 ---
 
 # **decry** *(v.)* — **di-KRYE**
@@ -166,6 +193,11 @@ A headline workhorse — *\"Critics decry the ruling,\" \"Residents decry cuts t
 
 ### Where it comes from
 Old French **descrier** = *"to cry down"* — **de-** (down) + **crier** (to cry, to proclaim). It was originally a money word: a king could *decry* a coin, publicly proclaiming it worthless so nobody would take it. That's still the shape of the modern sense — shouting a thing's value down to nothing.
+
+### Also sits in
+- **Meaning cluster** · [Formal public condemnation](groups.md#meaning__formal-public-condemnation) — with *denounce, censure, indictment, opprobrium*
+- **Intensity scale** · [Official disapproval: from mild to blistering](groups.md#intensity__official-disapproval) — with *deprecate, censure, denounce*
+- **Opposites** · [Official approval vs. official condemnation — and the tolerance in between](groups.md#antonym__official-approval-vs-official-condemnation) — with *approbation, sanction, condone, countenance, censure, denounce, opprobrium, indictment*
 
 ---
 
@@ -196,6 +228,9 @@ Alarm panels and bank systems have a **duress code** — a second PIN you enter 
 Latin **dūrus** = *"hard"* → **dūrāre**, *"to harden, to last."*
 
 One root, a lot of GRE words: **durable** and **duration** (lasting), **endure** (stay hard under strain), **obdurate** (hardened against persuasion), **dour** (hard-faced), **during**. *Duress* is the hardness turned on a person until they give way.
+
+### Also sits in
+- **Meaning cluster** · [Force rather than persuade](groups.md#meaning__force-rather-than-persuade) — with *coercion, dictate, suppress*
 
 ---
 
@@ -229,6 +264,11 @@ Latin **ē-** (*out*) + **vocāre** (*to call*), from **vōx**, *voice* — lite
 
 That root is a GRE goldmine: **invoke** (call on), **revoke** (call back), **provoke** (call forth, aggressively), **convoke** (call together), plus **vocation** (a calling), **advocate**, **vocal**, **equivocate**.
 
+### Also sits in
+- **Meaning cluster** · [Bring about vs. draw out](groups.md#meaning__bring-into-being) — with *engender, induce, precipitate, elicit*
+- **Meaning cluster** · [Hinting rather than stating](groups.md#meaning__hinting-rather-than-stating) — with *allude, allusive, intimate*
+- **Root family** · [Root: vocāre (to call)](groups.md#root__vocare) — with *advocate, provocative*
+
 ---
 
 # **fawn** *(v. (usu. *fawn over / on*))* — **FAWN**
@@ -256,6 +296,13 @@ The trauma-response list that's everywhere online — **fight, flight, freeze, f
 Old English **fagnian** = *"to rejoice, welcome gladly"* — used above all of a **dog wagging its tail at its master**. That image is the whole word: delight performed at the feet of someone above you. Same root as **fain** (*"gladly"* — *I would fain go*).
 
 🚫 **Not the baby deer.** That *fawn* came a different way entirely, from Latin **fetus** ("offspring") via French *faon*. Two unrelated words that collided in spelling.
+
+### Also sits in
+- **Meaning cluster** · [Begging, from dignified to abject](groups.md#meaning__beg-from-below) — with *entreat, supplicate, grovel*
+- **Meaning cluster** · [Fawning servility](groups.md#meaning__fawning-servility) — with *subservient, obsequious, grovel, supplicate*
+- **Intensity scale** · [Deference to Grovelling: Yielding, Then Losing Your Dignity](groups.md#intensity__deference-to-grovelling) — with *deference, subservient, obsequious, grovel*
+- **Connotation** · [Deference That Has Gone Past Dignity](groups.md#connotation__service-that-reads-as-grovelling) — with *obsequious, subservient, grovel, supplicate*
+- **Opposites** · [Grovelling from below vs. looking down from above](groups.md#antonym__grovelling-from-below-vs-looking-down-from-above) — with *obsequious, grovel, subservient, supplicate, deference, imperious, haughty, disdain, patronize, aloof*
 
 ---
 
@@ -308,6 +355,9 @@ Tom Cruise on the *Today* show in 2005, jabbing a finger at the host over psychi
 ### Where it comes from
 From Low German/Dutch **glibberig** = *"slippery."* The original English sense was literally smooth and slick; it slid straight onto speech. Keep the physical image and the word defines itself — glib words are **slippery**: they go down easily and you can't get a grip on them.
 
+### Also sits in
+- **Opposites** · [Deep vs. skin-deep](groups.md#antonym__deep-vs-skin-deep) — with *profound, profundity, penetrating, erudite, exhaustive, encyclopedic, superficial, cursory, perfunctory, dilettante*
+
 ---
 
 # **headstrong** *(adj.)* — **HED-strong**
@@ -335,6 +385,12 @@ The word is about ungovernable forward motion, not immovability — which is why
 ### In the wild
 Shakespeare, *The Taming of the Shrew* — Petruchio on Katherina: *"thus I'll curb her mad and headstrong humour."* Note the verb he reaches for: **curb**, which is literally a strap on a horse's bridle.
 
+### Also sits in
+- **Meaning cluster** · [Won't Be Steered](groups.md#meaning__wilfully-unsteerable) — with *willful, wayward, restive*
+- **Intensity scale** · [Stubborn to immovable](groups.md#intensity__stubborn-to-immovable) — with *obstinate, intransigent, obdurate, implacable*
+- **Connotation** · [Refusal to bend, condemned](groups.md#connotation__refusal-to-bend-condemned) — with *obstinate, obdurate, pertinacious, intransigent, willful*
+- **Opposites** · [Leaping before looking vs. weighing it first](groups.md#antonym__leaping-before-looking-vs-weighing-it-first) — with *precipitate, impetuous, impulsive, foolhardy, circumspect, prudent, judicious, deliberate, chary, cogitate*
+
 ---
 
 # **intermittent** *(adj.)* — **in-ter-MIT-uhnt**
@@ -360,6 +416,10 @@ An intermission is a gap with more to come, which is exactly what makes somethin
 Latin **intermittere** = *inter-* ("between") + *mittere* ("to send, to let go") — literally *to let go in between*, i.e. to leave off for a while.
 
 *Mittere* is one of the great GRE roots: **transmit** (send across), **emit** (send out), **submit** (send under), **remit**, **omit**, **mission**, **missile**, **intermission**.
+
+### Also sits in
+- **Meaning cluster** · [Stopping and starting](groups.md#meaning__stopping-and-starting) — with *sporadic, fitful, erratic, desultory*
+- **Opposites** · [Never stopping vs. stopping and starting](groups.md#antonym__never-stopping-vs-stopping-and-starting) — with *incessant, interminable, perennial, perpetuate, sporadic, fitful, desultory*
 
 ---
 
@@ -387,6 +447,10 @@ The verbs that cling to this word (*drew, raised, sparked*) tell you ire is alwa
 ### Where it comes from
 Latin **ira** = *anger*. Same root gives **irate** (angry right now) and **irascible** (quick to get angry, a permanent temperament) — a useful trio, since the GRE likes the distinction between a state and a disposition.
 
+### Also sits in
+- **Meaning cluster** · [Provoked anger: grievance and who it makes look bad](groups.md#meaning__provoked-anger) — with *umbrage, indignant, resent*
+- **Intensity scale** · [Vexation → exasperated → ire](groups.md#intensity__annoyance-to-fury) — with *vexation, exasperated*
+
 ---
 
 # **languid** *(adj.)* — **LANG-gwid**
@@ -407,6 +471,13 @@ The buried "lang" gives you the *long, drawn-out* pace, and the drawl gives you 
 
 ### Where it comes from
 Latin **languēre** = *"to be faint, to droop."* It hands you a tight family worth owning: **languid** (slow and drooping), **languor** (the pleasant heavy state itself), and **languish** (to droop *over time* — to waste away, or sit neglected: *the bill languished in committee*).
+
+### Also sits in
+- **Meaning cluster** · [No energy left — body, mood, or interest](groups.md#meaning__bone-deep-weariness) — with *weary, lethargic, lassitude, ennui*
+- **Lookalike** · [languid / languish / limpid](groups.md#lookalike__languid-languish) — with *languish, limpid*
+- **Intensity scale** · [Low Energy: From Stylish Slowness to Nearly Asleep](groups.md#intensity__low-energy-worsening) — with *sluggish, lethargic, somnolent*
+- **Opposites** · [Brisk vs. Dragging](groups.md#antonym__brisk-vs-dragging) — with *alacrity, expedite, nimble, frenetic, dawdle, dilatory, plodding, ponderous, sluggish*
+- **Opposites** · [Full of life vs. drained of it](groups.md#antonym__full-of-life-vs-drained-of-it) — with *invigorate, galvanize, vitality, verve, vivacious, enervate, debilitating, lethargic, torpor, somnolent*
 
 ---
 
@@ -431,6 +502,9 @@ That's the catch built into the word: the quiet is doing something to you, and y
 
 ### In the wild
 Standard newsroom language: *\"a **lull** in the fighting\"* — reporters reach for it precisely because it means the shooting has paused, not stopped.
+
+### Also sits in
+- **Intensity scale** · [Degrees of inactivity: pauses, not endings](groups.md#intensity__degrees-of-inactivity) — with *quiescent, dormant*
 
 ---
 
@@ -464,6 +538,12 @@ You already know the noun: **"test your mettle"**, **"prove his mettle"** — sp
 
 So "what is he made of?" is not a metaphor bolted on afterwards — it's the literal history of the word.
 
+### Also sits in
+- **Meaning cluster** · [Fearless in danger — and who's afraid of whom](groups.md#meaning__fearless-in-danger) — with *intrepid, plucky, valor, redoubtable*
+- **Intensity scale** · [Degrees of courage](groups.md#intensity__degrees-of-courage) — with *plucky, intrepid, valor*
+- **Connotation** · [Boldness the speaker admires](groups.md#connotation__boldness-the-speaker-admires) — with *intrepid, plucky, valor, redoubtable, fortitude*
+- **Opposites** · [Fearless vs. faint-hearted](groups.md#antonym__fearless-vs-faint-hearted) — with *intrepid, valor, plucky, fortitude, redoubtable, craven, timorous, skittish, diffident*
+
 ---
 
 # **mollify** *(v.)* — **MOL-uh-fye**
@@ -492,6 +572,13 @@ Latin **mollis** = *"soft"* + *-ficare* (to make). To mollify is literally to **
 
 Same root: **emollient** — the moisturiser that softens skin — and **mollusc**, the soft-bodied creature in the hard shell.
 
+### Also sits in
+- **Meaning cluster** · [Soothing anger: what the peace cost you](groups.md#meaning__soothe-someone-s-anger) — with *placate, appease, pacify, propitiate, conciliatory*
+- **Intensity scale** · [Calming an angry party](groups.md#intensity__calming-an-angry-party) — with *placate, appease, propitiate*
+- **Opposites** · [Making it worse vs. taking the edge off](groups.md#antonym__making-it-worse-vs-taking-the-edge-off) — with *exacerbate, compound, escalate, alleviate, ameliorate, assuage, mitigate, temper*
+- **Opposites** · [Peacemaking vs. fight-picking](groups.md#antonym__peacemaking-vs-fight-picking) — with *conciliatory, placate, appease, amicable, détente, comity, belligerent, pugnacious, truculent, contentious, antagonize, fractious*
+- **Opposites** · [Stirring people up vs. calming them down](groups.md#antonym__stirring-people-up-vs-calming-them-down) — with *incite, foment, goad, agitate, provocative, pacify, placate, quash, suppress*
+
 ---
 
 # **neutralize** *(v.)* — **NOO-truh-lyze**
@@ -518,6 +605,9 @@ Every antacid ad ever made: "**neutralizes** excess stomach acid." That's the li
 ### Where it comes from
 Latin **neuter** = *"neither"* (*ne* + *uter*, "not one or the other"). A neutral party is on **neither** side; to neutralize is to force something into that position of counting for neither side. Same root: **neuter, neutral, neutrality, neutron** (the particle with neither charge).
 
+### Also sits in
+- **Meaning cluster** · [Cancel Out a Plan or Force](groups.md#meaning__cancel-out-a-plan-or-force) — with *foil, confound, quash, nullify*
+
 ---
 
 # **nonplussed** *(adj.)* — **non-PLUST**
@@ -542,6 +632,11 @@ The word is literally *no more* — the point where you've run out of responses,
 Latin **non plus** = *"not more."* It named the state where nothing further can be said or done — you've hit the wall of your own responses.
 
 Same *plus* runs through **ne plus ultra** (*"nothing beyond"* — the absolute peak), **plural**, **surplus**.
+
+### Also sits in
+- **Meaning cluster** · [Baffled: fogged, stumped, stalled, outmatched](groups.md#meaning__utterly-baffled) — with *befuddled, flummoxed, confound*
+- **Second meaning** · [Not what the look-alike suggests](groups.md#second-meaning__not-what-the-look-alike-suggests) — with *apologist, disinterested, ingenuous, officious*
+- **Opposites** · [Unshakeable Poise vs. Rattled](groups.md#antonym__unshakeable-poise-vs-rattled) — with *equanimity, imperturbable, aplomb, poise, stoic, flustered, discomfit, disconcerting, skittish*
 
 ---
 
@@ -578,6 +673,9 @@ That gives you **precipice** (the drop), **precipitate** (to hurl headlong → t
 
 And **caput** = *head* is a GRE workhorse: **capital**, **captain**, **decapitate**, **per capita**.
 
+### Also sits in
+- **Lookalike** · [Good omens and steep drops: auspicious / propitious / propitiate / precipitate / precipitous](groups.md#lookalike__auspicious-precipitate) — with *auspicious, propitious, propitiate, precipitate*
+
 ---
 
 # **pretentious** *(adj.)* — **pri-TEN-shuhs**
@@ -605,6 +703,13 @@ It's the standard one-word kill in reviews — of films, restaurants, and wine l
 Latin **prae-** (*before*) + **tendere** (*to stretch*) — to stretch something out in front of you as a claim. Hence **pretend**, **pretext**, **pretension**.
 
 *Tendere* is a workhorse root: **extend** (stretch out), **distend** (stretch apart), **contend** (stretch against), **intend** (stretch toward), **portend** (stretch forward as a sign), **tendon** (the stretchy bit).
+
+### Also sits in
+- **Meaning cluster** · [Inflated, empty language](groups.md#meaning__inflated-empty-language) — with *bombastic, turgid, pomposity*
+- **Meaning cluster** · [Straining to impress](groups.md#meaning__straining-to-impress) — with *affectation, posturing, pomposity, aggrandize*
+- **Intensity scale** · [Inflated style](groups.md#intensity__inflated-style) — with *bombastic, turgid*
+- **Connotation** · [Display staged for an audience](groups.md#connotation__display-staged-for-an-audience) — with *ostentatious, affectation, posturing, bravado, histrionic*
+- **Opposites** · [Playing it down vs. puffing it up](groups.md#antonym__playing-it-down-vs-puffing-it-up) — with *retiring, modest, understated, deprecate, hyperbole, bravado, pomposity, bombastic, aggrandize, narcissism*
 
 ---
 
@@ -634,6 +739,10 @@ Latin **pro-** (*forward, toward*) + **fundus** (*bottom*) — literally *"towar
 
 **fundus** pays off elsewhere: **foundation** and **fundamental** (what sits at the bottom), **fund** (the bottom stock of money), and **founder** — when a ship founders, it goes to the bottom. Keep that separate from **flounder**, to thrash about clumsily.
 
+### Also sits in
+- **Lookalike** · [diffuse / profuse / profound](groups.md#lookalike__diffuse-profound) — with *diffuse, profuse*
+- **Opposites** · [Deep vs. skin-deep](groups.md#antonym__deep-vs-skin-deep) — with *profundity, penetrating, erudite, exhaustive, encyclopedic, superficial, cursory, perfunctory, glib, dilettante*
+
 ---
 
 # **propagate** *(v.)* — **PROP-uh-gayt**
@@ -661,6 +770,10 @@ Anyone who has changed a domain name has sat waiting for **DNS to propagate** �
 Latin **propagare** = *"to set slips"* — gardening, literally: pin a cutting into the soil and let it become a whole new plant. From **pro-** (*forward*) + the root **pag-/pac-** (*to fasten, fix*), which also gives **pact** and **compact** — things fastened down.
 
 That's the whole word. You don't broadcast a cutting; you plant it, and it grows into something that can be cut from in turn.
+
+### Also sits in
+- **Meaning cluster** · [Multiply fast](groups.md#meaning__multiply-fast) — with *burgeon, proliferate, escalate*
+- **Meaning cluster** · [Spread widely outward](groups.md#meaning__spread-widely-outward) — with *disseminate, disperse, diffuse*
 
 ---
 
@@ -726,6 +839,10 @@ Latin **refūtāre** = *"to beat back, drive off"* — **re-** (back) + a root m
 
 Same root gives **confute** (to prove decisively wrong) and, distantly, **futile** — a blow that accomplishes nothing.
 
+### Also sits in
+- **Meaning cluster** · [Show a claim is false](groups.md#meaning__show-a-claim-is-false) — with *gainsay, debunk, belie*
+- **Opposites** · [Asserting vs. disproving](groups.md#antonym__asserting-vs-disproving) — with *aver, contend, advocate, corroborate, impugn, gainsay, belie, debunk*
+
 ---
 
 # **regress** *(v. / n.)* — **ri-GRES**
@@ -758,6 +875,9 @@ Latin **regredi** = *re-* ("back") + **gradi** ("to step"), from **gradus**, "a 
 
 That root pays for itself across the exam: **progress** (step forward), **digress** (step aside), **transgress** (step across the line), **egress** / **ingress** (step out / in), **congress** (stepping together), plus **gradual**, **degree**, and **grade** — all of them steps.
 
+### Also sits in
+- **Opposites** · [Rising above vs. falling short](groups.md#antonym__rising-above-vs-falling-short) — with *outstrip, surmount, transcend, prevail, vanquish, falter, languish, wanting*
+
 ---
 
 # **repercussion** *(n.)* — **ree-per-KUSH-uhn**
@@ -784,6 +904,10 @@ Latin **quatere** = *"to shake, to strike."* Add prefixes and you get a whole GR
 
 **Re-percussion** = the striking-back, the rebound.
 
+### Also sits in
+- **Meaning cluster** · [What Follows After](groups.md#meaning__what-follows-after) — with *ramification, ensue*
+- **Connotation** · [Consequences assumed unwelcome](groups.md#connotation__consequences-assumed-unwelcome) — with *ramification, exacerbate, escalate, compound*
+
 ---
 
 # **replenish** *(v.)* — **ri-PLEN-ish**
@@ -807,6 +931,10 @@ It's the retail industry's own word: shops run on **inventory replenishment**, a
 
 ### Where it comes from
 Latin **plēnus** = *"full."* One root, a whole GRE cluster: **plenty**, **plenary** (a full session), **plenitude**, **replete** (stuffed full), **plethora** (too full), and **complete**.
+
+### Also sits in
+- **Meaning cluster** · [Recovering, Restoring, Reviving](groups.md#meaning__getting-better-after-illness) — with *convalescent, resilient, invigorate*
+- **Opposites** · [Fertile vs. barren](groups.md#antonym__fertile-vs-barren) — with *fecund, fruitful, burgeon, barren, fallow, desiccate, futile*
 
 ---
 
@@ -839,3 +967,7 @@ Every transit system in the world runs the same line: *"Please stay vigilant and
 Latin **vigil** = *"awake, watchful"* → **vigilāre**, *"to keep watch."*
 
 One root, a useful family: **vigil** (the all-night watch), **vigilante**, **reveille** (the wake-up bugle, via French *réveiller*), **surveillance** (*sur-* "over" + *veiller* "watch"), and — fittingly — **invigilate**, which is what the person pacing the aisles at your GRE centre is doing.
+
+### Also sits in
+- **Meaning cluster** · [On watchful guard](groups.md#meaning__on-watchful-guard) — with *wary, circumspect, skittish*
+- **Opposites** · [On guard vs. asleep at the wheel](groups.md#antonym__on-guard-vs-asleep-at-the-wheel) — with *wary, circumspect, heed, chary, oblivious, blithe, cavalier, complacent, lax*

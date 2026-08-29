@@ -25,6 +25,11 @@ Latin **ab-** (*away, down*) + **jacere** (*to throw*) → *abjectus*, "thrown d
 
 That root is a GRE goldmine: **eject** (throw out), **reject** (throw back), **project** (throw forward), **inject**, **dejected** (thrown down in spirit), **conjecture** (throw ideas together), **trajectory** (the path of a throw).
 
+### Also sits in
+- **Meaning cluster** · [Low and contemptible](groups.md#meaning__low-and-contemptible) — with *base, sordid*
+- **Opposites** · [Peak vs. rock bottom](groups.md#antonym__peak-vs-rock-bottom) — with *apogee, zenith, prime, nadir*
+- **Root family** · [Root: jacere, jactus (to throw)](groups.md#root__jacere) — with *conjectural, subjective*
+
 ---
 
 # **amicable** *(adj.)* — **AM-i-kuh-buhl**
@@ -59,6 +64,12 @@ Latin **amicus** = *"friend"* (from *amare*, to love). That root is worth bankin
 
 Best of all, negate it: *in- + amicus* → **inimical** (hostile, harmful) and plain old **enemy** — literally *not-a-friend*.
 
+### Also sits in
+- **Meaning cluster** · [Friendly — but friendly how?](groups.md#meaning__warmly-sociable) — with *cordial, congenial, convivial, gregarious*
+- **Lookalike** · [amenable / amicable / inimical](groups.md#lookalike__amenable-amicable) — with *amenable, inimical*
+- **Opposites** · [Peacemaking vs. fight-picking](groups.md#antonym__peacemaking-vs-fight-picking) — with *conciliatory, mollify, placate, appease, détente, comity, belligerent, pugnacious, truculent, contentious, antagonize, fractious*
+- **Opposites** · [Settled harmony vs. open feud](groups.md#antonym__settled-harmony-vs-open-feud) — with *accord, consensus, reconcile, acrimonious, animosity, enmity, strife*
+
 ---
 
 # **animosity** *(n.)* — **an-uh-MOSS-uh-tee**
@@ -84,6 +95,11 @@ Standard sports-commentary vocabulary: derby matches and title fights are always
 Latin **animus** = *spirit, mind, passion*. Animosity first meant *spiritedness, boldness* — high spirits that soured into hostile ones.
 
 The root is a GRE workhorse: **unanimous** (*one* spirit), **magnanimous** (*great* spirit — generous), **pusillanimous** (*tiny* spirit — cowardly), **equanimity** (*even* spirit — calm), plus **animate** and **animal** (things with breath in them).
+
+### Also sits in
+- **Meaning cluster** · [Settled hostility vs. settled dislike](groups.md#meaning__settled-hostility) — with *animus, enmity, antipathy, aversion*
+- **Intensity scale** · [Ill will toward an enemy](groups.md#intensity__ill-will-toward-an-enemy) — with *antipathy, animus, enmity*
+- **Opposites** · [Settled harmony vs. open feud](groups.md#antonym__settled-harmony-vs-open-feud) — with *accord, consensus, reconcile, amicable, acrimonious, enmity, strife*
 
 ---
 
@@ -115,6 +131,12 @@ Latin **vērus** = *"true"*, via *ad-* + *vērāre* → Old French *averer*, "to
 
 That root is a GRE goldmine: **verify, veracity, veritable, verdict** (*vere dictum*, "truly said"), **verisimilitude**, and plain old **very** (originally "truly").
 
+### Also sits in
+- **Intensity scale** · [Hinting to Declaring: intimate → allude → aver](groups.md#intensity__hinting-to-declaring) — with *intimate, allude*
+- **Opposites** · [Asserting vs. disproving](groups.md#antonym__asserting-vs-disproving) — with *contend, advocate, corroborate, impugn, gainsay, belie, debunk, refute*
+- **Opposites** · [Straight answer vs. dodging the question](groups.md#antonym__straight-answer-vs-dodging-the-question) — with *candid, frank, articulate, equivocate, prevaricate, evasive, evade, skirt, demur*
+- **Root family** · [Root: vērus (true) — asserting it, having it, faking it](groups.md#root__verus) — with *veracity, verisimilitude*
+
 ---
 
 # **barrage** *(n. / v.)* — **buh-RAHZH**
@@ -144,6 +166,10 @@ French **barre** = *"bar"* → **barrer**, *"to block off."* A *barrage* in Fren
 
 Same **barr-** family: **bar, barrier, barricade, debar, embargo**.
 
+### Also sits in
+- **Meaning cluster** · [Swamped by Too Much](groups.md#meaning__swamped-by-too-much) — with *inundate, assail, surfeit*
+- **Second meaning** · [Siege engineering inside an argument](groups.md#second-meaning__siege-engineering-inside-an-argument) — with *buttress, bolster, undermine, undercut, assail, entrenched*
+
 ---
 
 # **cathartic** *(adj. / n.)* — **kuh-THAR-tik**
@@ -167,6 +193,9 @@ Aristotle's *Poetics* is where the idea lives: tragedy exists to give the audien
 
 ### Where it comes from
 Greek **katharos** = *"pure, clean"* → **katharsis**, a cleansing. The medieval **Cathars** took the same root as their name: "the pure ones."
+
+### Also sits in
+- **Second meaning** · [Clinic Words for Non-Clinical Things](groups.md#second-meaning__clinic-words-for-non-clinical-things) — with *benign, virulent, endemic, fester, ossify*
 
 ---
 
@@ -193,6 +222,9 @@ The *de-* is subtraction, so you're not creating meaning, you're removing whatev
 **Cipher** comes from Arabic **ṣifr** = *"zero, empty"* — the same word that gave English **zero**. When Arabic numerals reached medieval Europe, the strange new symbols looked like secret writing, so *cipher* drifted from "zero" to "code."
 
 Both senses survive: you **decipher** a coded message, and a person of no consequence is dismissed as **"a mere cipher"** — a zero, a placeholder. That second sense is the one the GRE likes.
+
+### Also sits in
+- **Meaning cluster** · [Working out a meaning that won't come easily](groups.md#meaning__work-out-a-hidden-meaning) — with *construe, fathom, exegesis*
 
 ---
 
@@ -225,6 +257,10 @@ What makes a belief a delusion isn't that it's false — it's that contradicting
 Latin **dēlūdere** = *"to play false, to mock"* — from **lūdere**, *"to play"* (*ludus* = a game). A delusion is reality playing you for a fool.
 
 That root pays out across the whole exam: **ludicrous** (fit to be laughed at), **prelude** / **interlude** (played before / between), **allude** (play toward — hint at), **elude** (play away from — escape), **collude** (play together — secretly), **illusion**, **elusive**.
+
+### Also sits in
+- **Opposites** · [Solid enough to touch vs. dissolving in the hand](groups.md#antonym__solid-enough-to-touch-vs-dissolving-in-the-hand) — with *tangible, corporeal, palpable, empirical, illusory, amorphous, abstract, evanescent*
+- **Root family** · [Root: ludere (to play) — indirection, evasion, and things that aren't there](groups.md#root__ludere) — with *allude, allusive, collude, elusive, illusory*
 
 ---
 
@@ -261,6 +297,10 @@ Latin **dispendere** = *"to weigh out"* — *dis-* (out) + **pendere** (to weigh
 
 *pendere* is a high-yield GRE root: **pension** (money weighed out), **compensate** (weigh against), **ponder** (weigh in the mind), **pendant** (hanging), **expend**, **indispensable** (can't be waived).
 
+### Also sits in
+- **Second meaning** · [Contronyms: the word points both ways](groups.md#second-meaning__contronyms-the-word-points-both-ways) — with *sanction, compromise, unravel, yield*
+- **Root family** · [Root: pendere (to weigh, hang, pay)](groups.md#root__pendere) — with *indispensable, poise, propensity*
+
 ---
 
 # **eloquent** *(adj.)* — **EL-uh-kwuhnt**
@@ -291,6 +331,10 @@ Latin **ex-** (*out*) + **loquī** (*to speak*) — "speaking out."
 
 That root is a GRE goldmine: **loquacious** (talkative), **colloquial** (speaking together — everyday talk), **soliloquy** (speaking alone), **circumlocution** (talking *around* the point), **grandiloquent** (speaking grandly, i.e. pompous), **elocution**, and **ventriloquist** — literally a *belly-speaker*.
 
+### Also sits in
+- **Meaning cluster** · [Graceful in speech](groups.md#meaning__graceful-in-speech) — with *articulate, voluble, felicitous*
+- **Root family** · [Root: loquī (to speak) — how well, how much, to whom](groups.md#root__loqui) — with *loquacious, soliloquy*
+
 ---
 
 # **enthrall** *(v.)* — **en-THRAWL**
@@ -319,6 +363,11 @@ The enthralled audience isn't merely watching the performer — it belongs to th
 
 The old sense survives intact in **"in thrall to"**: *in thrall to her addiction* means enslaved by it, not delighted by it. Same root, no metaphor softening.
 
+### Also sits in
+- **Meaning cluster** · [Holds you spellbound](groups.md#meaning__holds-you-spellbound) — with *enchant, beguile, arresting, tantalizing*
+- **Intensity scale** · [Interest to total absorption](groups.md#intensity__interest-to-total-absorption) — with *intrigue, enchant*
+- **Opposites** · [Gripping vs. sleep-inducing](groups.md#antonym__gripping-vs-sleep-inducing) — with *arresting, compelling, scintillating, piquant, soporific, tedious, humdrum, monotonous, plodding, insipid, vapid*
+
 ---
 
 # **eradicate** *(v.)* — **ih-RAD-ih-kayt**
@@ -344,6 +393,10 @@ Smallpox is the standard example: the WHO declared it **eradicated** in 1980 —
 Latin **rādīx, rādīcis** = *"root."* *E-* (out) + *rādīc-* = "root it out."
 
 Same root gives **radical** (going to the root of things), **radish** (the root you eat), and **radix** in maths.
+
+### Also sits in
+- **Meaning cluster** · [Destroy completely: root out, lay waste, defeat, take apart](groups.md#meaning__destroy-completely) — with *ravage, vanquish, dismantle*
+- **Intensity scale** · [Turning it down vs. taking it to zero](groups.md#intensity__reducing-an-effect-to-nothing) — with *curb, mitigate, nullify*
 
 ---
 
@@ -372,6 +425,14 @@ Business and foreign-desk journalism runs on it: **fledgling startup**, **fledgl
 ### Where it comes from
 From Old English *flycge*, "feathered, fit to fly" — same family as **fly** and **flight**. That's also why **full-fledged** means fully feathered, i.e. ready for anything; a fledgling is the stage just before.
 
+### Also sits in
+- **Meaning cluster** · [Green and untried](groups.md#meaning__green-and-untried) — with *neophyte, callow, dilettante*
+- **Meaning cluster** · [Only just begun](groups.md#meaning__only-just-begun) — with *nascent, inchoate, rudimentary*
+- **Second meaning** · [From Stable and Field: Farm Words That Went Mental](groups.md#second-meaning__stable-and-field-words-for-the-mind) — with *ruminate, bridle, goad, fallow, hidebound*
+- **Intensity scale** · [Just getting started](groups.md#intensity__just-getting-started) — with *inchoate, nascent*
+- **Opposites** · [Beginner vs. master](groups.md#antonym__beginner-vs-master) — with *neophyte, callow, dilettante, proficient, adept, connoisseur, polymath, prowess*
+- **Opposites** · [Just born vs. outlived its era](groups.md#antonym__just-born-vs-worn-out-with-age) — with *nascent, inchoate, commence, archaic, obsolete, anachronistic, vestigial, erstwhile*
+
 ---
 
 # **fortitude** *(n.)* — **FOR-ti-tyood**
@@ -397,6 +458,12 @@ The two marble lions outside the New York Public Library are named **Patience** 
 
 ### Where it comes from
 Latin **fortis** = *"strong."* The root is everywhere: **fort**, **fortress**, **fortify**, **force**, **effort** — and **comfort**, literally *"to strengthen (someone) thoroughly."*
+
+### Also sits in
+- **Meaning cluster** · [Holding firm: endurance, resolve, restraint](groups.md#meaning__enduring-courage) — with *stoic, resolute, steadfast, forbear*
+- **Connotation** · [Boldness the speaker admires](groups.md#connotation__boldness-the-speaker-admires) — with *intrepid, plucky, mettlesome, valor, redoubtable*
+- **Connotation** · [Toughness admired](groups.md#connotation__toughness-admired) — with *withstand, robust, resilient, stalwart*
+- **Opposites** · [Fearless vs. faint-hearted](groups.md#antonym__fearless-vs-faint-hearted) — with *intrepid, valor, plucky, mettlesome, redoubtable, craven, timorous, skittish, diffident*
 
 ---
 
@@ -432,6 +499,11 @@ Latin **forte** = *"by chance"* (ablative of **fors**, *chance*) → **fortuitus
 
 🚫 **Not from *fortis*, "strong."** That's the other family: *fort, fortify, fortitude, effort*. A fortuitous rescue is a lucky one, not a sturdy one.
 
+### Also sits in
+- **Meaning cluster** · [Lucky and well-timed](groups.md#meaning__lucky-and-well-timed) — with *auspicious, propitious, providential, serendipitous*
+- **Lookalike** · [felicitous / fortuitous / gratuitous](groups.md#lookalike__felicitous-fortuitous) — with *felicitous, gratuitous*
+- **Opposites** · [Luck running with you vs. against you](groups.md#antonym__luck-running-with-you-vs-against-you) — with *serendipitous, providential, boon, hapless, calamitous, blighted, adverse*
+
 ---
 
 # **goad** *(v. / n.)* — **GOHD**
@@ -456,6 +528,12 @@ The biblical line *"it is hard for thee to kick against the pricks"* (Acts 9:5) 
 
 ### Where it comes from
 Old English **gād** = a *spear-point / pointed stick* for driving oxen. The literal object survives inside the metaphor: someone goading you is jabbing you along like livestock.
+
+### Also sits in
+- **Meaning cluster** · [Rouse someone to act](groups.md#meaning__rouse-someone-to-act) — with *exhort, incite, galvanize, foment*
+- **Second meaning** · [From Stable and Field: Farm Words That Went Mental](groups.md#second-meaning__stable-and-field-words-for-the-mind) — with *ruminate, bridle, fallow, hidebound, fledgling*
+- **Intensity scale** · [Stirring people up](groups.md#intensity__stirring-people-up) — with *antagonize, incite, foment*
+- **Opposites** · [Stirring people up vs. calming them down](groups.md#antonym__stirring-people-up-vs-calming-them-down) — with *incite, foment, agitate, provocative, pacify, mollify, placate, quash, suppress*
 
 ---
 
@@ -489,6 +567,9 @@ Latin **in-** ("upon") + **minēre** ("to jut, project, overhang") — something
 
 That root sorts the whole confusing family by direction: **imminent** juts *over* you (in-), **eminent** juts *out above* the crowd (ex-), **prominent** juts *forward* (pro-). Same verb, three prefixes, three GRE words.
 
+### Also sits in
+- **Connotation** · [Omens and Impendings: the sign, not the event](groups.md#connotation__signs-of-what-s-coming-always-bad) — with *portend, presage, forebode, ominous, harbinger*
+
 ---
 
 # **incontrovertible** *(adj.)* — **in-kon-truh-VER-tuh-buhl**
@@ -520,6 +601,12 @@ Courtroom staple: the closing-argument line "the evidence is **incontrovertible*
 Latin **contrā** (*against*) + **vertere** (*to turn*) → *controvert*, "to turn an argument against." Slap **in-** on the front and nothing can be turned against it.
 
 **vertere** is one of the best roots to own for the GRE: **convert, divert, invert, avert, subvert, revert, versatile, adverse, controversy**.
+
+### Also sits in
+- **Meaning cluster** · [Beyond argument](groups.md#meaning__beyond-argument) — with *conclusive, axiomatic, ironclad*
+- **Intensity scale** · [Strength of evidence: from guess to proof](groups.md#intensity__strength-of-evidence) — with *conjectural, plausible, credible, conclusive*
+- **Opposites** · [Settled beyond doubt vs. still in doubt](groups.md#antonym__settled-beyond-doubt-vs-still-in-doubt) — with *conclusive, axiomatic, ironclad, corroborate, substantiate, dubious, conjectural, tenuous, tentative, suspect, speculate*
+- **Root family** · [Root: vertere / versus (to turn) — the prefix decides the direction](groups.md#root__vertere) — with *adverse, aversion, divorced, versatile*
 
 ---
 
@@ -581,6 +668,15 @@ Latin **animus** = *"soul, spirit"* — that half is the payload. It gives you *
 
 Big soul, small soul. Learn the pair together.
 
+### Also sits in
+- **Meaning cluster** · [Generous above pettiness](groups.md#meaning__generous-above-pettiness) — with *altruistic, beneficent, noble*
+- **Lookalike** · [bene- / mal-: beneficent, benevolent, benign, magnanimous, malevolent, malign, munificent](groups.md#lookalike__beneficent-benevolent) — with *beneficent, benevolent, benign, malevolent, malign, munificent*
+- **Intensity scale** · [Degrees of generosity](groups.md#intensity__degrees-of-generosity) — with *benevolent, beneficent, munificent*
+- **Connotation** · [Giving, praised without reserve](groups.md#connotation__giving-praised-without-reserve) — with *benevolent, beneficent, munificent, altruistic*
+- **Opposites** · [Above pettiness vs. mired in it](groups.md#antonym__above-pettiness-vs-mired-in-it) — with *noble, forbear, captious, quibble, pedantic, finicky, peccadillo*
+- **Opposites** · [Letting it go vs. never letting it go](groups.md#antonym__letting-it-go-vs-never-letting-it-go) — with *forbear, condone, relent, exonerate, implacable, obdurate, retaliate, resent, enmity*
+- **Opposites** · [Wishing well vs. wishing harm](groups.md#antonym__wishing-well-vs-wishing-harm) — with *benevolent, beneficent, benign, altruistic, malevolent, malign, sadistic, animus, inimical*
+
 ---
 
 # **meritorious** *(adj.)* — **mer-i-TOR-ee-uhs**
@@ -613,6 +709,10 @@ The US military's **Meritorious Service Medal** — awarded for outstanding non-
 ### Where it comes from
 Latin **merēre / meritum** = *"to earn, to deserve."* The same root gives you **merit**, **demerit**, **meritocracy** (rule by the deserving), and **emeritus** — the professor who has *earned* his retirement and keeps the title.
 
+### Also sits in
+- **Meaning cluster** · [Deserving of praise](groups.md#meaning__deserving-of-praise) — with *laudable, estimable*
+- **Opposites** · [Praising to the skies vs. tearing down](groups.md#antonym__praising-to-the-skies-vs-tearing-down) — with *extol, acclaim, laudable, estimable, excoriate, castigate, vilify, denigrate, scathing*
+
 ---
 
 # **mutiny** *(n. / v.)* — **MYOO-tuh-nee**
@@ -638,6 +738,11 @@ Strangers can riot against you, but only your subordinates can mutiny.
 Latin **movēre** = *"to move"* → Old French **mutin**, "rebellious," from *meute*, "an uprising." A mutiny is literally a body of men **set in motion** against their commander.
 
 That root is a GRE workhorse: **motion, motive, momentum, emotion, promote, remove, mobile** — all people or things being moved.
+
+### Also sits in
+- **Meaning cluster** · [Breaking with the official line](groups.md#meaning__open-opposition-to-authority) — with *dissent, dissident, heterodox, iconoclastic*
+- **Intensity scale** · [Mild objection to revolt](groups.md#intensity__mild-objection-to-revolt) — with *demur, dissent, flout*
+- **Opposites** · [Falling in line vs. breaking ranks](groups.md#antonym__falling-in-line-vs-breaking-ranks) — with *comply, adhere, acquiesce, deference, obeisance, tractable, dissent, dissident, flout, contravene, obstreperous*
 
 ---
 
@@ -693,6 +798,11 @@ Latin **per-** (*through, thoroughly*) + **sevērus** (*strict, serious*) → **
 
 That second root is the useful one: it also gives **severe**, **severity**, and the GRE word **asseverate** (*to declare earnestly, in dead seriousness*).
 
+### Also sits in
+- **Meaning cluster** · [Persistent to the End](groups.md#meaning__persistent-to-the-end) — with *dogged, pertinacious, indefatigable, sedulous*
+- **Connotation** · [Refusal to bend, admired](groups.md#connotation__refusal-to-bend-admired) — with *dogged, indefatigable, resolute, steadfast, stalwart*
+- **Opposites** · [Tireless Industry vs. Work-Dodging](groups.md#antonym__tireless-industry-vs-work-dodging) — with *industrious, sedulous, indefatigable, painstaking, dogged, indolent, feckless, shirk, dilatory, dawdle, sinecure*
+
 ---
 
 # **render** *(v. (n. in design))* — **REN-der**
@@ -725,6 +835,9 @@ Latin **reddere** = *"to give back"* (*re-* back + *dare* to give), via Old Fren
 
 The *give-back* family is worth owning: **surrender** (give over), **rendition** (a handing-over — hence *extraordinary rendition*, and also a performance *given* to an audience), **rendezvous** (French *rendez-vous*, "present yourselves"), **rent** (what you give back for use of a thing).
 
+### Also sits in
+- **Second meaning** · [Plain verbs doing abstract work](groups.md#second-meaning__plain-verbs-doing-abstract-work) — with *inform, coin, prime, reflect*
+
 ---
 
 # **repertoire** *(n.)* — **REP-er-twahr**
@@ -750,6 +863,9 @@ The Beatles' Hamburg years are the classic case: playing five-hour sets night af
 
 ### Where it comes from
 Latin **repertorium** = *"an inventory, a list of things found"* (from *reperire*, "to find"). A repertoire is literally your **catalogue of what you can lay hands on** — which is why the same root gives **repertory** theatre, a company holding several plays in stock at once.
+
+### Also sits in
+- **Second meaning** · [Common nouns whose everyday sense hides the tested one](groups.md#second-meaning__abstract-nouns-whose-plain-sense-misleads) — with *economy, facility, latitude*
 
 ---
 
@@ -778,6 +894,12 @@ Every cloud provider sells **"resilient architecture"** — and the sales pitch 
 Latin **resilīre** = *"to leap back"* (**re-** back + **salīre** to leap).
 
 That *salīre* is a workhorse root: **salient** (a point that *leaps out* at you), **assault/assail** (*leap at*), **somersault** (*over-leap*), **sally**, **exult**, and the GRE favourite **desultory** — literally *leaping about*, hence aimless and unmethodical.
+
+### Also sits in
+- **Meaning cluster** · [Holds up under stress](groups.md#meaning__holds-up-under-stress) — with *robust, stalwart, withstand, sound*
+- **Meaning cluster** · [Recovering, Restoring, Reviving](groups.md#meaning__getting-better-after-illness) — with *convalescent, replenish, invigorate*
+- **Connotation** · [Toughness admired](groups.md#connotation__toughness-admired) — with *withstand, robust, fortitude, stalwart*
+- **Root family** · [Root: salīre (to leap) — leap at, leap between, leap back](groups.md#root__salire) — with *assail, desultory*
 
 ---
 
@@ -808,6 +930,13 @@ The **Resolute Desk** in the Oval Office — the one behind every US president i
 Latin **re-** + **solvere** = *"to loosen, release"* — your doubt gets dissolved, and what remains is the settled decision.
 
 *Solvere* is a high-yield GRE root: **solve, resolve, dissolve, absolve, solvent, dissolution** — and **dissolute**, the trap above, which is literally "loosened apart."
+
+### Also sits in
+- **Meaning cluster** · [Holding firm: endurance, resolve, restraint](groups.md#meaning__enduring-courage) — with *fortitude, stoic, steadfast, forbear*
+- **Connotation** · [Refusal to bend, admired](groups.md#connotation__refusal-to-bend-admired) — with *perseverance, dogged, indefatigable, steadfast, stalwart*
+- **Opposites** · [Taking it back vs. holding to it](groups.md#antonym__taking-it-back-vs-holding-to-it) — with *recant, abjure, renounce, repudiate, relinquish, forsake, adhere, steadfast, abide*
+- **Opposites** · [Unwavering vs. wavering](groups.md#antonym__unwavering-vs-wavering) — with *steadfast, stalwart, dogged, capricious, mercurial, fickle, vacillate, irresolute, volatile, erratic*
+- **Root family** · [Root: solvere (to loosen, dissolve) — dissolving doubt into decision](groups.md#root__solvere) — with *resolve, irresolute*
 
 ---
 
@@ -841,6 +970,12 @@ Latin **supplex** = *"bending under, kneeling"* — from *sub* ("under") + **pli
 
 **Supplicate** ("to beg") is a true cousin, not a false friend: same *supplex*, the same kneeling body. One branch kept the bending, the other kept the begging.
 
+### Also sits in
+- **Meaning cluster** · [Easily shaped, easily led](groups.md#meaning__easily-shaped) — with *pliant, malleable, plastic, tractable*
+- **Second meaning** · [Bendy materials → biddable people](groups.md#second-meaning__bendy-materials-biddable-people) — with *plastic, malleable, pliant, tractable*
+- **Opposites** · [Rigidly set vs. easily shaped](groups.md#antonym__rigidly-set-vs-easily-shaped) — with *hidebound, ossify, entrenched, ingrained, doctrinaire, immutable, malleable, pliant, plastic, tractable, amenable*
+- **Root family** · [Root: plicāre (to fold) — folded in, folded open, folds without breaking](groups.md#root__plicare) — with *exploitative, implicit, pliant*
+
 ---
 
 # **valor** *(n.)* — **VAL-er**
@@ -868,3 +1003,10 @@ Shakespeare's Falstaff, dodging a fight in *Henry IV*: **"The better part of val
 Latin **valēre** = *"to be strong, to be worth."* Strength and worth are the same idea in this root, which is why it splits two ways: **valiant, valor, prevail, convalesce** (strength) and **value, valid, invalid, evaluate, avail** (worth).
 
 Note the pair **invalid** — *in-VAL-id* (not strong: a sick person) and *IN-vuh-lid* (not valid: a bad argument). One root, two stresses.
+
+### Also sits in
+- **Meaning cluster** · [Fearless in danger — and who's afraid of whom](groups.md#meaning__fearless-in-danger) — with *intrepid, plucky, mettlesome, redoubtable*
+- **Intensity scale** · [Degrees of courage](groups.md#intensity__degrees-of-courage) — with *plucky, mettlesome, intrepid*
+- **Connotation** · [Boldness the speaker admires](groups.md#connotation__boldness-the-speaker-admires) — with *intrepid, plucky, mettlesome, redoubtable, fortitude*
+- **Opposites** · [Fearless vs. faint-hearted](groups.md#antonym__fearless-vs-faint-hearted) — with *intrepid, plucky, mettlesome, fortitude, redoubtable, craven, timorous, skittish, diffident*
+- **Root family** · [Root: valēre (to be strong, to be well)](groups.md#root__valere) — with *convalescent, prevail*

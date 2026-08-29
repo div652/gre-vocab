@@ -26,6 +26,10 @@ Latin **ad-** (*to*) + **cantus** (*song*) → *accentus*, literally "song added
 
 That *cantare* root is a GRE goldmine: **chant**, **enchant** (sing a spell onto someone), **incantation**, **recant** (sing it back), **cantata**, **descant**.
 
+### Also sits in
+- **Meaning cluster** · [Accentuate / Underscore / Amplify — turning up what's already there](groups.md#meaning__make-it-stand-out) — with *underscore, amplify*
+- **Root family** · [Root: cantāre, cantus (to sing, song) — the buried voice](groups.md#root__cantare) — with *enchant, recant*
+
 ---
 
 # **conjectural** *(adj.)* — **kuhn-JEK-chuh-ruhl**
@@ -53,6 +57,12 @@ The formal dress is the whole point: it's still a guess, just one wearing schola
 Latin **conicere** = *"to throw together"* (**com-** *together* + **jacere** *to throw*) — you fling scraps of evidence into a pile and see what shape they make.
 
 **jacere** is a GRE workhorse: **project** (throw forward), **eject**, **inject**, **reject** (throw back), **trajectory**, **dejected** (thrown down), **adjacent** (thrown near).
+
+### Also sits in
+- **Meaning cluster** · [Reasoning past the evidence](groups.md#meaning__reasoning-past-the-evidence) — with *speculate, extrapolate, tentative*
+- **Intensity scale** · [Strength of evidence: from guess to proof](groups.md#intensity__strength-of-evidence) — with *plausible, credible, conclusive, incontrovertible*
+- **Opposites** · [Settled beyond doubt vs. still in doubt](groups.md#antonym__settled-beyond-doubt-vs-still-in-doubt) — with *incontrovertible, conclusive, axiomatic, ironclad, corroborate, substantiate, dubious, tenuous, tentative, suspect, speculate*
+- **Root family** · [Root: jacere, jactus (to throw)](groups.md#root__jacere) — with *abject, subjective*
 
 ---
 
@@ -86,6 +96,11 @@ Latin **convivium** = *"a banquet"* — literally **con-** (*together*) + **vive
 
 **vivere** is a workhorse root: **vivid**, **vivacious**, **revive**, **survive**, **viable**, **vivisection** — and **bon vivant**, the person who lives well and dines better.
 
+### Also sits in
+- **Meaning cluster** · [Friendly — but friendly how?](groups.md#meaning__warmly-sociable) — with *amicable, cordial, congenial, gregarious*
+- **Connotation** · [Good cheer, and what it attaches to](groups.md#connotation__good-cheer-that-fills-a-room) — with *ebullient, vivacious, buoyant, jocund*
+- **Opposites** · [At home among people vs. shut away from them](groups.md#antonym__at-home-among-people-vs-shut-away-from-them) — with *gregarious, congenial, vivacious, recluse, aloof, misanthropic, retiring, insular*
+
 ---
 
 # **decadent** *(adj.)* — **DEK-uh-duhnt**
@@ -115,6 +130,11 @@ Dessert menus. "Decadent chocolate torte" is the one place marketers cheerfully 
 Latin **cadere** = *"to fall."* *De- + cadere* = to fall away, fall off.
 
 That root falls all through English: **cascade** (falling water), **decay**, **deciduous** (trees whose leaves fall), **cadence** (the falling of the voice), **accident** and **coincidence** (things that befall you), **occident** (the West, where the sun falls).
+
+### Also sits in
+- **Meaning cluster** · [Moral Rot: Depth, Cheapness, and Decline](groups.md#meaning__settled-moral-corruption) — with *depravity, turpitude, sordid*
+- **Intensity scale** · [Indulgence to dissolution](groups.md#intensity__indulgence-to-dissolution) — with *self-indulgent, libertine*
+- **Opposites** · [Self-denial vs. self-indulgence](groups.md#antonym__self-denial-vs-self-indulgence) — with *ascetic, austere, spartan, abstain, forgo, eschew, sober, libertine, self-indulgent, surfeit*
 
 ---
 
@@ -146,6 +166,9 @@ Latin **ē-** (*out of*) + **grex, gregis** (*flock, herd*) — literally *stand
 
 The flock unlocks a whole set: **gregarious** (happy in the herd), **congregate** (flock together), **segregate** (flock apart), **aggregate** (herded into one mass).
 
+### Also sits in
+- **Meaning cluster** · [Impossible to miss](groups.md#meaning__impossible-to-miss) — with *manifest, patent, overt, conspicuous, flagrant*
+
 ---
 
 # **evanescent** *(adj.)* — **ev-uh-NES-uhnt**
@@ -172,6 +195,12 @@ Latin **ex-** ("out") + **vanescere** ("to vanish"), from **vanus** = *"empty."*
 
 That root gives you **vanish**, **vain** (empty of substance), **vanity**, **evanescent** — all built on the idea of nothing being there.
 
+### Also sits in
+- **Meaning cluster** · [Lasting only a moment](groups.md#meaning__lasting-only-a-moment) — with *ephemeral, transient, transitory, momentary*
+- **Intensity scale** · [Brief to vanishing](groups.md#intensity__brief-to-vanishing) — with *transitory, transient, ephemeral*
+- **Opposites** · [Fleeting vs. Fixed](groups.md#antonym__fleeting-vs-permanent) — with *ephemeral, transient, transitory, momentary, perennial, immutable, entrenched, extant*
+- **Opposites** · [Solid enough to touch vs. dissolving in the hand](groups.md#antonym__solid-enough-to-touch-vs-dissolving-in-the-hand) — with *tangible, corporeal, palpable, empirical, illusory, delusion, amorphous, abstract*
+
 ---
 
 # **flamboyant** *(adj.)* — **flam-BOY-uhnt**
@@ -197,6 +226,10 @@ Freddie Mercury is the word's default illustration — practically no profile of
 French **flamboyer** = *"to blaze, to flame"*, from Latin **flamma**. Late Gothic architecture is literally called **Flamboyant** for its flame-shaped window tracery.
 
 Same fire: **flame, inflame, flambé, flammable** — and **flamingo**, the flame-coloured bird.
+
+### Also sits in
+- **Meaning cluster** · [Showy — and whether anyone meant it](groups.md#meaning__showy-for-the-audience) — with *conspicuous, ostentatious, florid*
+- **Opposites** · [Stripped bare vs. gilded](groups.md#antonym__stripped-bare-vs-gilded) — with *unadorned, austere, spartan, utilitarian, understated, ornate, baroque, florid, embellish, ostentatious*
 
 ---
 
@@ -226,6 +259,10 @@ Old English **foresteall** = *an ambush* — literally a "standing (*steall*) in
 
 **fore-** is a whole free family: *forecast, foresee, forewarn, foreboding* — all of them "before."
 
+### Also sits in
+- **Meaning cluster** · [Head it off in advance](groups.md#meaning__head-it-off-in-advance) — with *obviate, preclude, avert, deter*
+- **Opposites** · [Heading it off vs. bringing it on](groups.md#antonym__heading-it-off-vs-bringing-it-on) — with *obviate, preclude, avert, deter, engender, precipitate, induce, foment, incite*
+
 ---
 
 # **gainsay** *(v.)* — **GAYN-say**
@@ -254,6 +291,10 @@ Pure Old English, and transparent once split: **gēan** (*"against"*) + **say**.
 
 🚫 Nothing to do with **gain** (profit). That's from French *gaaignier*; the resemblance is an accident of spelling.
 
+### Also sits in
+- **Meaning cluster** · [Show a claim is false](groups.md#meaning__show-a-claim-is-false) — with *refute, debunk, belie*
+- **Opposites** · [Asserting vs. disproving](groups.md#antonym__asserting-vs-disproving) — with *aver, contend, advocate, corroborate, impugn, belie, debunk, refute*
+
 ---
 
 # **galvanize** *(v.)* — **GAL-vuh-nyze**
@@ -281,6 +322,11 @@ Galvanize never describes a mood — only a trigger, so if nothing visibly happe
 From **Luigi Galvani**, the 18th-century Italian anatomist who made a dead frog's leg kick by touching it with metal — proof that electricity moves flesh. That twitch *is* the word: something lifeless, a current, sudden movement.
 
 Same man gives you **galvanic** and the **galvanometer**.
+
+### Also sits in
+- **Meaning cluster** · [Rouse someone to act](groups.md#meaning__rouse-someone-to-act) — with *exhort, goad, incite, foment*
+- **Opposites** · [Full of life vs. drained of it](groups.md#antonym__full-of-life-vs-drained-of-it) — with *invigorate, vitality, verve, vivacious, enervate, debilitating, lethargic, torpor, languid, somnolent*
+- **Opposites** · [Helping it along vs. holding it back](groups.md#antonym__speeding-it-along-vs-holding-it-back) — with *expedite, bolster, abet, conducive, hamper, hinder, impede, impediment, inhibit, curb, check*
 
 ---
 
@@ -311,6 +357,9 @@ The standing phrase in war reporting and UN statements: **"indiscriminate attack
 Latin **cernere** = *"to sift, to separate"* — the grain from the chaff. Add *dis-* (apart) and you get **discernere**: to tell one thing from another.
 
 That sieve runs through a whole family: **discern** (tell apart), **discrete** (separate, distinct), **secret** (*se-cernere*, sifted aside), **concern**, **certain**. So *indiscriminate* is literally **unsifted** — everything left in the pile together.
+
+### Also sits in
+- **Root family** · [Root: cernere (to sift, separate, distinguish)](groups.md#root__cernere) — with *discernible, discreet*
 
 ---
 
@@ -370,6 +419,10 @@ Pink Floyd's 1987 album ***A Momentary Lapse of Reason*** — and "momentary lap
 ### Where it comes from
 Latin **momentum** — originally the tiny weight that *tips* a balance scale (from *movēre*, "to move"). That one image split two ways: the instant it takes to tip → **moment**, **momentary**; the weight doing the tipping → **momentous**, **momentum**.
 
+### Also sits in
+- **Meaning cluster** · [Lasting only a moment](groups.md#meaning__lasting-only-a-moment) — with *ephemeral, evanescent, transient, transitory*
+- **Opposites** · [Fleeting vs. Fixed](groups.md#antonym__fleeting-vs-permanent) — with *ephemeral, evanescent, transient, transitory, perennial, immutable, entrenched, extant*
+
 ---
 
 # **mundane** *(adj.)* — **mun-DAYN**
@@ -395,6 +448,10 @@ In fantasy fiction, ordinary non-magical humans get called **mundanes** — Cass
 Latin **mundus** = *"the world."* So *mundane* first meant **worldly** — the earthly realm as opposed to the heavenly one. Once you're stuck down here with the taxes and the dishes, "worldly" slides naturally into "everyday," and "everyday" slides into "boring."
 
 Same root in **extramundane** (beyond this world) and **demimonde** (French *monde*, "world" — the half-world of the socially disreputable).
+
+### Also sits in
+- **Connotation** · [Ordinary, delivered as a verdict](groups.md#connotation__ordinary-delivered-as-a-verdict) — with *humdrum, prosaic, pedestrian, banal*
+- **Opposites** · [Textbook case vs. off-model outlier](groups.md#antonym__textbook-case-vs-off-model-outlier) — with *paradigmatic, archetype, benchmark, conventional, aberrant, anomalous, incongruous, outlandish, idiosyncratic*
 
 ---
 
@@ -424,6 +481,9 @@ Straight from the **nettle**, the weed that stings your ankles — to *nettle* s
 
 The payoff is the suffix: **-some** = *"tending to produce."* Lock it once and you get **burdensome, troublesome, cumbersome, meddlesome, quarrelsome, loathsome, fulsome, noisome**.
 
+### Also sits in
+- **Meaning cluster** · [The Drip, Not the Fire: Small Persistent Annoyance](groups.md#meaning__small-persistent-annoyance) — with *irksome, vexation, exasperated*
+
 ---
 
 # **nullify** *(v.)* — **NUL-uh-fye**
@@ -449,6 +509,11 @@ Football commentary lives on this word: *"the goal is nullified — the flag is 
 Latin **nullus** = *"not any"* (from *ne* + *ullus*, "not even one") + **-ficāre**, *"to make"* — literally *make-it-none*.
 
 Same root gives you **null**, **nullity**, **nil**, and — hiding behind a prefix — **annul** (*ad-* + *nullus*), which is exactly what a court does to a marriage: not end it, but declare it never legally existed.
+
+### Also sits in
+- **Meaning cluster** · [Annul by Authority](groups.md#meaning__annul-by-authority) — with *abrogate, quash, supersede*
+- **Meaning cluster** · [Cancel Out a Plan or Force](groups.md#meaning__cancel-out-a-plan-or-force) — with *foil, confound, quash, neutralize*
+- **Intensity scale** · [Turning it down vs. taking it to zero](groups.md#intensity__reducing-an-effect-to-nothing) — with *curb, mitigate, eradicate*
 
 ---
 
@@ -478,6 +543,11 @@ Latin **ob-** (*in the way of*) + **via** (*road*) — to plant yourself across 
 
 **obvious** is the same *ob + via* — but there it means lying in the road where you can't miss it. Same root, opposite jobs: *obvious* is what's in your way; *obviate* is what gets in **its** way.
 
+### Also sits in
+- **Meaning cluster** · [Head it off in advance](groups.md#meaning__head-it-off-in-advance) — with *forestall, preclude, avert, deter*
+- **Opposites** · [Heading it off vs. bringing it on](groups.md#antonym__heading-it-off-vs-bringing-it-on) — with *forestall, preclude, avert, deter, engender, precipitate, induce, foment, incite*
+- **Root family** · [Root: via (road, way)](groups.md#root__via) — with *deviate, devious, trivial*
+
 ---
 
 # **omnipresent** *(adj.)* — **om-nee-PREZ-uhnt**
@@ -500,6 +570,11 @@ The word only has two homes — the divine and the exasperated — and nobody ha
 Latin **omnis** = *"all"* + **praesens** = *"present, at hand."*
 
 *Omnis* is one of the best-value roots on the GRE: **omniscient** (all-knowing), **omnipotent** (all-powerful), **omnivore** (eats all), **omnibus** (*"for all"* — a bill bundling everything, and the horse-drawn vehicle for everyone, which we shortened to **bus**).
+
+### Also sits in
+- **Meaning cluster** · [Everywhere at once](groups.md#meaning__everywhere-at-once) — with *ubiquitous, pervasive, endemic, rampant*
+- **Intensity scale** · [How widespread: rooted, saturated, or everywhere](groups.md#intensity__how-widespread) — with *endemic, pervasive, ubiquitous*
+- **Opposites** · [Everywhere vs. thin on the ground](groups.md#antonym__everywhere-vs-thin-on-the-ground) — with *ubiquitous, pervasive, rampant, endemic, sparse, sporadic, scant, dearth*
 
 ---
 
@@ -524,6 +599,11 @@ November 2023: every headline on the planet ran the same verb when OpenAI's boar
 
 ### Where it comes from
 Anglo-French **oster** ("to remove"), from Latin **obstāre** = *ob-* ("against") + **stāre** ("to stand"). To oust is to remove someone from where they *stand* — same *stāre* behind **obstacle**, **obstruct**, **station**, and **status**.
+
+### Also sits in
+- **Meaning cluster** · [Driven Out: From a Place, a Post, or a Rank](groups.md#meaning__drive-out-of-a-place-or-post) — with *banish, depose, relegate*
+- **Intensity scale** · [Demotion to expulsion](groups.md#intensity__demotion-to-expulsion) — with *relegate, depose, banish*
+- **Opposites** · [Raising up vs. bringing down](groups.md#antonym__raising-up-vs-bringing-down) — with *anoint, deify, lionize, canonize, venerate, depose, relegate, debase, belittle, marginalize*
 
 ---
 
@@ -550,6 +630,11 @@ Live sports and news commentary run on it — "you can feel it, the tension in t
 
 ### Where it comes from
 Latin **palpāre** = *"to touch, to stroke."* Same root gives you **palpate** — what a doctor does pressing your abdomen — and **palpitate**, a heart beating hard enough to feel.
+
+### Also sits in
+- **Meaning cluster** · [Real enough to touch](groups.md#meaning__real-enough-to-touch) — with *tangible, corporeal, discernible*
+- **Second meaning** · [Patent, Manifest, Palpable: Obvious Wearing Another Coat](groups.md#second-meaning__touchable-sounding-words-that-mean-obvious) — with *patent, manifest*
+- **Opposites** · [Solid enough to touch vs. dissolving in the hand](groups.md#antonym__solid-enough-to-touch-vs-dissolving-in-the-hand) — with *tangible, corporeal, empirical, illusory, delusion, amorphous, abstract, evanescent*
 
 ---
 
@@ -578,6 +663,12 @@ Spot the **fid** buried in the middle and you get both the meaning and the condi
 Latin **per-** (*through, to destruction*) + **fidēs** (*faith, trust*) — literally *faith wrecked*.
 
 That root is a goldmine: **fidelity**, **infidel**, **confide**, **bona fide**, **affidavit**, **fiancé** (one pledged), and the Marines' **Semper Fi**. Even the classic dog's name **Fido** is Latin for *"I trust."*
+
+### Also sits in
+- **Meaning cluster** · [Dishonest by character](groups.md#meaning__dishonest-by-character) — with *disingenuous, hypocrite, mendacity, duplicitous*
+- **Intensity scale** · [Broken Word to Treachery](groups.md#intensity__broken-word-to-treachery) — with *renege, betray*
+- **Connotation** · [Broken faith](groups.md#connotation__broken-faith) — with *renege, forsake, betray, duplicitous, mendacity*
+- **Opposites** · [Truthful by nature vs. false by design](groups.md#antonym__truthful-by-nature-vs-lying-by-nature) — with *probity, veracity, ingenuous, artless, mendacity, duplicitous, disingenuous, dissemble*
 
 ---
 
@@ -609,6 +700,13 @@ Latin **profundere** = *"to pour forth"* — **pro-** (forth) + **fundere** (to 
 
 🚫 **Not related to *profound*.** That one is *pro-* + **fundus**, "bottom" — depth, not flow.
 
+### Also sits in
+- **Meaning cluster** · [Present in great quantity](groups.md#meaning__present-in-great-quantity) — with *abound, copious, prodigious*
+- **Lookalike** · [diffuse / profuse / profound](groups.md#lookalike__diffuse-profound) — with *diffuse, profound*
+- **Opposites** · [Held in check vs. spilling over](groups.md#antonym__held-in-check-vs-spilling-over) — with *temper, curb, bridle, forbear, abstain, understated, extravagant, exorbitant, surfeit, gratuitous, lavish*
+- **Opposites** · [Overflowing supply vs. shortage](groups.md#antonym__overflowing-supply-vs-shortage) — with *abound, copious, surfeit, inundate, dearth, scant, sparse, wanting, paltry*
+- **Root family** · [Root: *fundere, fusum* — to pour](groups.md#root__fundere) — with *confound, diffuse, futile*
+
 ---
 
 # **pugnacious** *(adj.)* — **puhg-NAY-shuhs**
@@ -634,6 +732,11 @@ Latin **pugnus** = *"fist"* → **pugnāre**, *"to fight."*
 
 One root, a useful cluster: **pugilist** (a boxer — a fist-fighter), **impugn** (to attack a claim *at* it, with words), **repugnant** (literally *fighting back* against you — hence repellent).
 
+### Also sits in
+- **Meaning cluster** · [Spoiling for a fight](groups.md#meaning__spoiling-for-a-fight) — with *belligerent, truculent, contentious, fractious*
+- **Intensity scale** · [Argumentative to warlike](groups.md#intensity__argumentative-to-warlike) — with *contentious, truculent, belligerent*
+- **Opposites** · [Peacemaking vs. fight-picking](groups.md#antonym__peacemaking-vs-fight-picking) — with *conciliatory, mollify, placate, appease, amicable, détente, comity, belligerent, truculent, contentious, antagonize, fractious*
+
 ---
 
 # **sagacious** *(adj.)* — **suh-GAY-shuhs**
@@ -658,6 +761,13 @@ The hidden word carries the key nuance: this isn't just knowing things, it's see
 Latin **sagax** = *"keen-scented,"* from **sagīre**, *to perceive sharply* — originally the nose of a hunting hound picking up a trail nobody else can detect. That's the image inside the word: sensing what's there before there's evidence.
 
 Same root gives **presage** (*prae-* "before" + *sagire*) — to sniff out what's coming. Note that **sage** is *not* a relative: that's Latin *sapere*, "to taste, to be wise" (**sapient, insipid, savour**).
+
+### Also sits in
+- **Meaning cluster** · [Shrewd Judgment: Reading People, Money, and Motives](groups.md#meaning__shrewd-read-of-people) — with *astute, shrewd, canny, perspicacious, acumen*
+- **Intensity scale** · [Shrewd to wise](groups.md#intensity__shrewd-to-wise) — with *canny, astute, perspicacious*
+- **Connotation** · [Learning as Praise: What Exactly Is Being Complimented](groups.md#connotation__learning-as-praise) — with *erudite, polymath, encyclopedic, connoisseur*
+- **Connotation** · [Sharp judgment, as a compliment](groups.md#connotation__sharpness-of-mind-admired) — with *shrewd, astute, canny, perspicacious, acumen*
+- **Opposites** · [Seeing far ahead vs. seeing no further than your nose](groups.md#antonym__seeing-far-ahead-vs-seeing-no-further-than-your-nose) — with *prescient, visionary, prudent, myopic, oblivious, blithe, complacent*
 
 ---
 
@@ -691,6 +801,12 @@ Latin **sanguis, sanguinis** = *blood*. Medieval medicine held that four bodily 
 
 Same root: **sanguinary** (bloodthirsty), **consanguineous** (related by blood), and the red wine punch **sangria**.
 
+### Also sits in
+- **Meaning cluster** · [At ease — and whether that ease is earned](groups.md#meaning__wanting-nothing-more) — with *content, complacent*
+- **Second meaning** · [Humours and planets as temperament](groups.md#second-meaning__humours-and-planets-as-temperament) — with *phlegmatic, mercurial*
+- **Connotation** · [Composure that earns credit](groups.md#connotation__composure-that-earns-credit) — with *poise, aplomb, equanimity, stoic, imperturbable*
+- **Opposites** · [Bright spirits vs. sunk spirits](groups.md#antonym__bright-spirits-vs-sunk-spirits) — with *buoyant, jocund, elated, ebullient, morose, glum, lugubrious, crestfallen, plaintive, dirge*
+
 ---
 
 # **scant** *(adj. (also v.))* — **SKANT**
@@ -713,6 +829,13 @@ Scant isn't "none" and it isn't "little" — it's the amount that leaves you una
 
 ### In the wild
 Baking recipes use it as a technical measure: **"a scant cup of sugar"** means fill the cup, then tip a little out — deliberately just under.
+
+### Also sits in
+- **Meaning cluster** · [Not enough of it](groups.md#meaning__not-enough-of-it) — with *dearth, sparse, paltry, wanting*
+- **Meaning cluster** · [Very small — size vs. shortfall](groups.md#meaning__very-small) — with *minute, diminutive, paltry*
+- **Intensity scale** · [Thin supply to none at all](groups.md#intensity__thin-supply-to-none-at-all) — with *sparse, dearth, barren*
+- **Opposites** · [Everywhere vs. thin on the ground](groups.md#antonym__everywhere-vs-thin-on-the-ground) — with *ubiquitous, omnipresent, pervasive, rampant, endemic, sparse, sporadic, dearth*
+- **Opposites** · [Overflowing supply vs. shortage](groups.md#antonym__overflowing-supply-vs-shortage) — with *abound, copious, profuse, surfeit, inundate, dearth, sparse, wanting, paltry*
 
 ---
 
@@ -739,6 +862,11 @@ Derek Landy's bestselling **Skulduggery Pleasant** series — a wisecracking ske
 
 ### Where it comes from
 🚫 **Nothing to do with skulls.** No graverobbing, no bones. It's an altered form of Scots **sculduddery**, meaning obscenity or lewdness — origin otherwise unknown. English mangled the spelling toward *skull*, and the false image has stuck ever since.
+
+### Also sits in
+- **Meaning cluster** · [Underhanded trickery](groups.md#meaning__underhanded-trickery) — with *chicanery, ploy, feint*
+- **Intensity scale** · [Small Tricks to Deep Scheming](groups.md#intensity__small-tricks-to-deep-scheming) — with *ploy, chicanery*
+- **Connotation** · [Cleverness that means crooked](groups.md#connotation__cleverness-that-means-crooked) — with *cunning, crafty, wily, artful, devious, chicanery*
 
 ---
 
@@ -768,6 +896,12 @@ Latin **trivium** = *tri-* ("three") + *via* ("road") — a fork where three roa
 
 The **via** half is a workhorse: **deviate** (off the road), **devious**, **viaduct**, **convey**, and **obvious** — literally *ob viam*, "lying in the road" right in front of you.
 
+### Also sits in
+- **Meaning cluster** · [Not worth bothering about](groups.md#meaning__not-worth-bothering-about) — with *trifling, paltry, frivolous*
+- **Intensity scale** · [Too small to matter — from measurement to contempt](groups.md#intensity__too-small-to-matter) — with *slight, trifling, paltry*
+- **Connotation** · [Small enough to dismiss](groups.md#connotation__small-enough-to-dismiss) — with *paltry, trifling, peccadillo, nominal, token*
+- **Root family** · [Root: via (road, way)](groups.md#root__via) — with *deviate, devious, obviate*
+
 ---
 
 # **utilitarian** *(adj. / n.)* — **yoo-til-i-TAIR-ee-uhn**
@@ -791,6 +925,9 @@ The utility room holds the boiler and the mop: it exists to work, and no one ask
 
 ### Where it comes from
 Latin **utilis** = *"useful,"* from **uti** = *"to use."* Same root gives **utility**, **utensil**, **utilise**, and **utilitarian** — all of them about a thing earning its keep by doing a job.
+
+### Also sits in
+- **Opposites** · [Stripped bare vs. gilded](groups.md#antonym__stripped-bare-vs-gilded) — with *unadorned, austere, spartan, understated, ornate, baroque, florid, flamboyant, embellish, ostentatious*
 
 ---
 
@@ -819,3 +956,9 @@ It's the stock verdict in music and film reviews — the word a critic reaches f
 Latin **vapidus** = *"flat, stale"* — said of **wine that had lost its kick**. Same root as **vapor**: the good stuff has **evaporated**, and what's left in the glass is flavourless liquid.
 
 That image is the definition. Vapid = the wine's gone flat.
+
+### Also sits in
+- **Meaning cluster** · [Dull: flat, plodding, flavourless, empty](groups.md#meaning__dull-and-unimaginative) — with *prosaic, pedestrian, insipid*
+- **Lookalike** · [insidious / invidious / insipid / vapid — near-twins, different verdicts](groups.md#lookalike__insidious-insipid) — with *insidious, invidious, odious, insipid, vacuous, intrepid*
+- **Connotation** · [Empty where substance was expected](groups.md#connotation__empty-where-substance-was-expected) — with *vacuous, insipid, tepid, frivolous*
+- **Opposites** · [Gripping vs. sleep-inducing](groups.md#antonym__gripping-vs-sleep-inducing) — with *arresting, enthrall, compelling, scintillating, piquant, soporific, tedious, humdrum, monotonous, plodding, insipid*

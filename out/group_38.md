@@ -29,6 +29,12 @@ Persian **shāh** = *"king"*, borrowed through Arabic and Old French *eschec* �
 
 One root, a surprising family: **chess**, **checkmate** (*shāh māt*, "the king is helpless"), **exchequer** (the treasury, named for the chequered counting-cloth), **chequered**, and **cheque** (a written order that *checks* fraud by leaving a counterfoil).
 
+### Also sits in
+- **Meaning cluster** · [Hold in check](groups.md#meaning__hold-in-check) — with *curb, inhibit, bridle, circumscribe, curtail*
+- **Second meaning** · [Ordinary words that mean "to restrain"](groups.md#second-meaning__ordinary-verbs-that-mean-to-restrain) — with *curb, bridle, temper, hamper, inhibit*
+- **Intensity scale** · [Holding something down: curb → check → curtail → suppress → quash](groups.md#intensity__holding-something-down) — with *curb, curtail, suppress, quash*
+- **Opposites** · [Helping it along vs. holding it back](groups.md#antonym__speeding-it-along-vs-holding-it-back) — with *expedite, bolster, abet, conducive, galvanize, hamper, hinder, impede, impediment, inhibit, curb*
+
 ---
 
 # **phony** *(adj. / n.)* — **FOH-nee**
@@ -56,6 +62,11 @@ Holden Caulfield in *The Catcher in the Rye* uses **phony** as his whole worldvi
 ### Where it comes from
 🚫 **Nothing to do with *phone*.** That's Greek **phōnē**, *"sound"* — *telephone, phonetics, symphony, cacophony, euphony*. Identical opening, unrelated word.
 
+### Also sits in
+- **Meaning cluster** · [Fake, not genuine — and what each word attacks](groups.md#meaning__fake-not-genuine) — with *counterfeit, sham, spurious, bogus*
+- **Connotation** · [Fake — and how much contempt comes with it](groups.md#connotation__fake-said-with-contempt) — with *bogus, sham, counterfeit, spurious, feign*
+- **Opposites** · [Ring of Truth vs. Exposed Fake](groups.md#antonym__ring-of-truth-vs-exposed-fake) — with *credible, veracity, verisimilitude, plausible, bogus, counterfeit, sham, spurious, feign*
+
 ---
 
 # **querulous** *(adj.)* — **KWER-uh-luhs**
@@ -82,3 +93,9 @@ The force of the word is in the *sound* of the complaint, not its content. An in
 Latin **querī** = *"to complain."* The same root gives you **quarrel** (via *querela*, a grievance).
 
 🚫 **Not *query*.** That's Latin *quaerere*, "to ask, to seek" — *question, inquiry, quest, acquire*. Looks like a sibling, isn't one.
+
+### Also sits in
+- **Meaning cluster** · [Complaint: the tone, the mutter, the man, the claim](groups.md#meaning__habitual-complaining) — with *grumble, curmudgeon, grievance*
+- **Intensity scale** · [Short-tempered by degree](groups.md#intensity__short-tempered-by-degree) — with *petulant, fractious, irascible*
+- **Connotation** · [Complaint as a Temperament](groups.md#connotation__complaint-as-a-temperament) — with *petulant, captious, fractious, grumble, curmudgeon*
+- **Opposites** · [Complaining vs. bearing it in silence](groups.md#antonym__complaining-vs-bearing-it-in-silence) — with *grumble, curmudgeon, petulant, fractious, grievance, stoic, forbear, content, equanimity, abide*

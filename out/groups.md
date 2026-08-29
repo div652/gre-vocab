@@ -10,6 +10,7 @@ Cards teach one word at a time. This is the part they can't do: what a word look
 *Words that crowd the same patch of meaning. The definitions overlap; the nuance is what separates them.*
 
 
+<a id="meaning__a-group-splitting-apart"></a>
 ### A Group Splitting Apart
 
 All of these words live around the same event: one thing that was supposed to be whole comes apart into opposed sides. They differ on what exactly splits (ideas, opinions, an institution), whether the split is a process, a completed fact, a tendency, or merely a climate, and how much hostility is baked in. The trap is that they sit at different stages of the same story and in different parts of speech, so they almost never substitute for one another.
@@ -23,6 +24,7 @@ All of these words live around the same event: one thing that was supposed to be
 > **On the exam:** Watch the part of speech and what is doing the splitting: sentences about opinions hardening want *polarize*, sentences about a conceptual either/or want *dichotomy*, and *strife* is the decoy when the sentence describes ongoing bitterness but never actually divides the group in two.
 
 
+<a id="meaning__a-mixture-of-sources"></a>
 ### A mixture of sources: praised, dismissed, or merely measured
 
 All three describe something made of unlike parts pulled from different origins — no single style, school, or kind runs through it. What separates them is the verdict attached and whether anyone is credited with doing the mixing. One assumes a chooser with taste, one insists no one was choosing at all, and one refuses to say. The mixture is identical; the judgment is the whole difference.
@@ -34,6 +36,7 @@ All three describe something made of unlike parts pulled from different origins 
 > **On the exam:** Context tone decides the answer — approving sentences take *eclectic*, dismissive ones *hodgepodge*, clinical or statistical ones *heterogeneous*; and a blank needing an adjective rules out *hodgepodge* outright.
 
 
+<a id="meaning__a-settled-leaning-toward"></a>
 ### A settled leaning toward
 
 All of these name a leaning that is already there before any particular choice comes up — a settled tilt rather than a decision made on the spot. They differ on three axes: how respectable the thing leaned toward is, who is doing the describing (a friend, a novelist, a prosecutor, a statistician), and whether the leaning is a lasting trait or just today's lean. Miss those axes and they look interchangeable; catch them and each one is nearly forced by its context.
@@ -48,6 +51,7 @@ All of these name a leaning that is already there before any particular choice c
 > **On the exam:** The trap is valence: the sentence supplies a harmless pleasure and offers proclivity/propensity, or supplies a vice and offers penchant — read the object of the leaning, not the leaning itself.
 
 
+<a id="meaning__a-situation-with-no-clean-exit"></a>
 ### A Situation With No Clean Exit
 
 All five name trouble you cannot simply walk away from — a knot, a bind, a mess with no tidy resolution. They split on three axes: whether the difficulty is *intellectual* or *practical*; whether it describes the **person stuck** or the **situation itself**; and how big the trouble is, from a scandal that ends careers down to a spilled drink at a state dinner. Several of them also say something about the speaker — how amused, how dry, how far above the mess they wish to sound.
@@ -61,6 +65,7 @@ All five name trouble you cannot simply walk away from — a knot, a bind, a mes
 > **On the exam:** The exam banks on you flattening these into one blob called "problem" — so the correct choice usually turns on the axis, not the severity: puzzle-in-the-head (conundrum) vs. person-deciding (quandary) vs. situation-already-happened (predicament), with imbroglio requiring warring parties and contretemps requiring triviality.
 
 
+<a id="meaning__make-it-stand-out"></a>
 ### Accentuate / Underscore / Amplify — turning up what's already there
 
 All three take something that already exists and raise its salience — none of them invents, and none of them distorts. That shared honesty is why they get swapped: each one leaves the underlying fact intact and only changes how much it registers. The differences live in *what* gets raised: the sharpness of a feature, the perceived importance of a fact, or the sheer magnitude of a thing.
@@ -72,6 +77,7 @@ All three take something that already exists and raise its salience — none of 
 > **On the exam:** Sentence Equivalence loves this trio because all three fit "made X more noticeable" — decide first whether the sentence needs the thing to grow (**amplify**), to be recognised as important (**underscore**), or to be thrown into sharper contrast (**accentuate**); then check the subject, since only **underscore** is routinely driven by an event or statistic rather than a person.
 
 
+<a id="meaning__achieving-nothing"></a>
 ### Achieving nothing
 
 All three point at the same empty result: work goes in, nothing comes out. But they locate the emptiness in different places — in the attempt itself, in the thing that was supposed to produce, or in the dreamer who aimed too high. They also differ sharply in what the speaker feels about it, ranging from weary dismissal to open affection. Getting one right means asking *what is being blamed* and *how warm is the tone*.
@@ -83,6 +89,7 @@ All three point at the same empty result: work goes in, nothing comes out. But t
 > **On the exam:** The trap is treating **quixotic** as a pure synonym for doomed — it needs the idealism and the sympathy; if the passage sneers, the answer is **futile**, and if something failed to *yield*, it's **barren**.
 
 
+<a id="meaning__acting-before-thinking"></a>
 ### Acting before thinking
 
 All four condemn action that outruns deliberation — the gap between wanting and doing collapses, and judgment never gets its turn. The disapproval is real but never moral: nobody here is malicious, just unbraked. What separates them is *what* is missing — the pause, the composure, the fear, or the right moment — and how much credit the speaker gives the actor for nerve.
@@ -95,6 +102,7 @@ All four condemn action that outruns deliberation — the gap between wanting an
 > **On the exam:** The trap is **precipitate**: tested as a verb about events ("the arrest precipitated riots"), where no rashness is implied at all — and among the adjectives, only **foolhardy** requires a danger the actor could plainly see.
 
 
+<a id="meaning__actively-harmful"></a>
 ### Actively harmful
 
 All four label something as actively damaging rather than merely bad — a force, substance, condition or utterance that works to injure whatever it touches. They differ on three axes: whether the harm is *toxic* or merely *unfavourable*, whether any *opposition* is implied, and whether the damage *spreads*. All four are formal, and all four condemn. Roughly ascending in severity as listed.
@@ -107,6 +115,7 @@ All four label something as actively damaging rather than merely bad — a force
 > **On the exam:** Two traps: **adverse** vs. *averse* (conditions vs. your reluctance — only *averse* describes a feeling), and **inimical**, dangled beside *hostile* to see if you'll demand a hater; usually the answer is an environment, not an enemy.
 
 
+<a id="meaning__airily-unconcerned"></a>
 ### Airily unconcerned
 
 All three describe a conspicuous absence of concern in a situation that seems to call for some — the person is light where you expected weight. They differ in what supplies the lightness: coolness, dismissiveness, or cheer. They also differ in who is being judged. One can be pure style, one is always an accusation, and one indicts the smile more than the act.
@@ -118,6 +127,7 @@ All three describe a conspicuous absence of concern in a situation that seems to
 > **On the exam:** The trap is treating them as interchangeable "carefree"; the sentence usually names the missing element — a cool exterior wants **nonchalant**, dismissal of someone's legitimate concern wants **cavalier**, and a happy obliviousness (or a following noun like *disregard*) wants **blithe**.
 
 
+<a id="meaning__an-unrepentant-scoundrel"></a>
 ### An unrepentant scoundrel
 
 All three are elevated, faintly old-fashioned labels for a person of bad character — and all three are softened by that elevation. Each keeps the speaker at a comfortable distance: you reach for these words when you disapprove but are not actually frightened, which is why none of them lands on a murderer without sounding arch. What separates them is what each one is actually judging: whether the man can be reformed, what specific appetites he indulges, or how far beneath the speaker he stands.
@@ -129,6 +139,7 @@ All three are elevated, faintly old-fashioned labels for a person of bad charact
 > **On the exam:** Offered as interchangeable in an all-that-apply item: pick by the clue — irredeemable/beyond reform → reprobate, pleasure-seeking or dissipation → libertine, petty mischief scolded from above → miscreant.
 
 
+<a id="meaning__annul-by-authority"></a>
 ### Annul by Authority
 
 All four end something's force from a position of higher standing: what was binding, in effect, or under way stops counting. The register is formal and institutional — courts, legislatures, treaties, official documents — and the result is total, not a reduction. What separates them is *what* gets cancelled and *how*: the instrument itself, its practical effect, a live event, or its standing relative to a newer version.
@@ -141,6 +152,7 @@ All four end something's force from a position of higher standing: what was bind
 > **On the exam:** Sentence-equivalence traps hinge on the object: only **abrogate** takes a formally enacted instrument, only **supersede** requires a replacement to exist, only **quash** needs something still in motion, and only **nullify** works with an impersonal cause like inflation or a counterforce.
 
 
+<a id="meaning__argument-you-can-t-resist"></a>
 ### Argument you can't resist
 
 All four rate how much an argument, story, or claim earns your belief — and all four describe the thing being judged, not the person judging. They differ on two axes: how *much* belief is compelled (from irresistible down to merely not-yet-dismissed), and *what earns it* — the structure of the reasoning, the surface impression, or the raw force of the evidence. The trap is that they look like synonyms on a scale of "convincing," when two of them quietly decline to say anything is true.
@@ -153,6 +165,7 @@ All four rate how much an argument, story, or claim earns your belief — and al
 > **On the exam:** The exam tests whether you know **plausible** and **credible** stop short of truth while **cogent** and **compelling** don't — sentence-completion cues like *merely*, *superficially*, or a following *but* signal the weak end; *irrefutable* or *left no room to disagree* signal the strong end.
 
 
+<a id="meaning__asleep-but-not-dead"></a>
 ### Asleep but not dead
 
 All four describe a state of inactivity that is a pause rather than an ending: the thing still exists, its capacity is intact, and resumption is expected or at least possible. Each stands opposed to words that close the door — *extinct*, *defunct*, *barren*, *cancelled*. The differences are not about how inactive the thing is, but about **why it stopped and who stopped it**: an internal cycle, a lull between bouts, deliberate rest for recovery, or an authority pressing pause pending a condition. Register splits them too — two are everyday, two belong to clinics and committees.
@@ -165,6 +178,7 @@ All four describe a state of inactivity that is a pause rather than an ending: t
 > **On the exam:** The exam separates these by the *cause* of the pause, not the depth of it: look for an agent-plus-condition ("pending the ruling") → abeyance, soil/productivity or a creative drought → fallow, a clinical or geological passage → quiescent, and plain sleep-with-a-comeback → dormant; also note abeyance is a noun, so the sentence slot alone often decides it.
 
 
+<a id="meaning__wanting-nothing-more"></a>
 ### At ease — and whether that ease is earned
 
 All three describe a person at rest: no craving, no alarm, no impulse to push for more or do more. What separates them is what the calm is aimed at — what you already possess, what you expect to happen, or how you rate yourself — and whether the writer thinks the calm is justified. On the GRE they cluster because each can sit in the same "despite the mounting problems, he remained ___" frame, but each makes a different claim about the person and carries a different verdict.
@@ -176,6 +190,7 @@ All three describe a person at rest: no craving, no alarm, no impulse to push fo
 > **On the exam:** The giveaway is the writer's verdict, not the calm itself: an approving or neutral clause takes **content**, a hedged forecast about a looming risk takes **sanguine**, and an explicit warning (the threat that goes unwatched, the effort that stops) takes **complacent**.
 
 
+<a id="meaning__at-home-everywhere"></a>
 ### At home everywhere
 
 All three praise what wide exposure does to a person: the rawness is gone, nothing startles them, and they can move through unfamiliar rooms without friction. Each names a different asset the exposure bought — geographic breadth, social smoothness, or acquired discrimination — and each takes a different opposite: narrow, boorish, naive. The GRE keeps them apart by what they attach to and what they quietly withhold.
@@ -187,6 +202,7 @@ All three praise what wide exposure does to a person: the rawness is gone, nothi
 > **On the exam:** The trap is the non-human sense: only **sophisticated** can modify an algorithm, an attack, or an argument's machinery — if the blank sits before an inanimate noun, **urbane** and **cosmopolitan** are dead on arrival.
 
 
+<a id="meaning__attack-a-reputation"></a>
 ### Attacking a reputation
 
 All five damage standing rather than refute substance: they go after the person's good name, not the merits of what the person said. All are formal, all are negative, and — importantly — nearly all tilt the reader's sympathy toward the target, quietly marking the attack as undeserved and the attacker as the one at fault. What separates them is the mechanics of the damage: how loud it is, whether it's a campaign or a single thrust, what specifically is being attacked (worth, honesty, or identity), and who does the branding — one accuser, a whisper network, or the whole society.
@@ -200,6 +216,7 @@ All five damage standing rather than refute substance: they go after the person'
 > **On the exam:** The trap is the object: impugn takes motives and claims, stigmatize takes conditions and groups, denigrate takes achievements — so check what the sentence is attacking before you pick the word whose *tone* feels right.
 
 
+<a id="meaning__back-a-claim-with-evidence"></a>
 ### Backing a Claim with Evidence
 
 All of these belong to the formal language of proof — courtrooms, audits, newsrooms, research — where a statement is not accepted until something outside it does work on its behalf. They differ on *what the evidence does*: strengthen an existing story, discharge the burden on the person who told it, prop up a shaky structure, or settle a question that was still open. Three of them presuppose a claim already on the table; one of them is what you do before there is any claim at all. The GRE lives in that gap.
@@ -212,6 +229,7 @@ All of these belong to the formal language of proof — courtrooms, audits, news
 > **On the exam:** The trap is treating all four as interchangeable "prove" words: watch whether the sentence already contains a claim (substantiate/buttress), a *second* source (corroborate), or only an open question (ascertain).
 
 
+<a id="meaning__sorry-after-the-fact"></a>
 ### Bad conscience, bruised pride, and the twinge before
 
 All three name a private, uncomfortable feeling triggered by your own conduct or your own showing — the inward wince rather than anger at someone else. They split on two axes: **when** the feeling arrives (before the act or after it), and **what is injured** (your conscience or your dignity). Because all three are polite, restrained, formal-register words, English speakers reach for them interchangeably when they shouldn't — one of them involves no wrongdoing at all.
@@ -223,6 +241,7 @@ All three name a private, uncomfortable feeling triggered by your own conduct or
 > **On the exam:** The classic trap is treating **chagrin** as a guilt word: GRE sentences use it where the subject is merely embarrassed at being outdone, so a guilt/remorse answer choice fits the mood but not the meaning — and watch **qualm** appear negated, where the sentence is characterizing a person's ruthlessness, not their emotion.
 
 
+<a id="meaning__utterly-baffled"></a>
 ### Baffled: fogged, stumped, stalled, outmatched
 
 All four describe a mind that has stopped working on the problem in front of it. The differences are in *where the failure sits*: in the head (a fog), in the puzzle (a wall), in the response (a blank), or in the contest (a defeat). They also split hard on tone — two are informal and faintly comic, two are formal and let the confused party keep their dignity.
@@ -235,6 +254,7 @@ All four describe a mind that has stopped working on the problem in front of it.
 > **On the exam:** Two traps: **nonplussed** is baited with the popular-but-wrong "unfazed" sense (it means the opposite — stalled, not unbothered), and **confound** shows up on the test far more often as "defeat expectations" or "conflate" than as plain "bewilder."
 
 
+<a id="meaning__bare-and-comfortless"></a>
 ### Bare and comfortless
 
 All four say: nothing extra here — no ornament, no cushion, no indulgence. They separate on *what* is stripped and *why*. Some describe only a surface (nothing was added), some describe conditions (nothing is provided), and one describes a will (everything was refused). They're ordered below by how much self-denial they imply, from purely decorative plainness to a whole life built on renunciation.
@@ -247,6 +267,7 @@ All four say: nothing extra here — no ornament, no cushion, no indulgence. The
 > **On the exam:** The trap is treating them as interchangeable synonyms for "plain": sentence-equivalence pairs turn on evidence of *choice* (ascetic, spartan) versus mere absence of decoration (unadorned), and only austere fits a person's demeanor or a national budget.
 
 
+<a id="meaning__beg-from-below"></a>
 ### Begging, from dignified to abject
 
 All four describe approaching someone who holds power over you and trying to move them — by asking, by kneeling, by apologising, by flattering. What separates them is not the request but the **dignity**: how much of it the asker keeps, whether the surrender is chosen or merely witnessed, and whether the observer respects the person or is embarrassed for them. The list runs from composed pleading down to self-abasement. Two of them can only be said *about* someone, never *by* them.
@@ -259,6 +280,7 @@ All four describe approaching someone who holds power over you and trying to mov
 > **On the exam:** The exam hides a register swap: a courteous, respected plea needs **entreat**, but the tempting wrong answers (**grovel**, **fawn**) drag in contempt the sentence never earned — and **fawn** fails outright whenever something specific is actually being asked for.
 
 
+<a id="meaning__belonging-to-a-dead-era"></a>
 ### Belonging to a dead era
 
 All four say: this belongs to a time that has passed, and the present has moved on. They part company on *why* it's stranded. One turns on nobody using it anymore, one on something better replacing it, one on it sitting in the wrong century, one on it being a shrunken leftover of something larger. Sorting them means asking what evidence the speaker is pointing at: disuse, a successor, a mismatch, or a remnant.
@@ -271,6 +293,7 @@ All four say: this belongs to a time that has passed, and the present has moved 
 > **On the exam:** The GRE's giveaway is the trigger phrase: "superseded by" → obsolete, "out of place in its period" → anachronistic, "no longer in use" → archaic, "surviving remnant of" → vestigial; wrong answers work because all four fit a bare "old and useless" blank.
 
 
+<a id="meaning__devoted-follower"></a>
 ### Below the Master: Server, Student, Newcomer
 
 All three name someone standing *below* somebody else inside a faith, school, or movement — defined not by what they do but by their position relative to a master or an established inner circle. Every one comes out of religious life and drags that incense into secular use, so applying one to a CEO's staff or an economist's followers is always a small rhetorical choice. The differences are axis differences: one is about **service**, one about **transmitted doctrine**, one about **arrival date**. They stop being interchangeable the moment you ask whether the person is learning, fetching, or merely new.
@@ -282,6 +305,7 @@ All three name someone standing *below* somebody else inside a faith, school, or
 > **On the exam:** The trap is **neophyte**: it joins this cluster by religious origin, not by devotion — its antonyms are *veteran, adept, old hand*, so a sentence about zeal or servility wants one of the other two.
 
 
+<a id="meaning__beyond-argument"></a>
 ### Beyond argument
 
 All four say the same thing at first glance: there is nothing left to argue about. The differences lie in *why* the argument is over — because the evidence answered the question, because the proof cannot be attacked, because the claim was never up for debate to begin with, or because the thing has no seam to pry open. Three of them are verdicts reached after examination; one is a premise granted before it. And one describes a structure rather than a truth.
@@ -294,6 +318,7 @@ All four say the same thing at first glance: there is nothing left to argue abou
 > **On the exam:** The trap is treating these as interchangeable degrees of certainty: a completed-sentence blank about *unproven assumptions* wants **axiomatic**, one about *contracts and alibis* wants **ironclad**, and only a blank about evidence answering a question takes **conclusive**.
 
 
+<a id="meaning__boil-it-down"></a>
 ### Boil it down
 
 All four involve taking something large and rendering it in reduced form — the long paper, the two-hour lecture, the decade of work, made small enough to hold at once. They diverge on *what the reduction is for*: pulling the idea off the particulars, going back over ground in order, gaining altitude over the whole, or burning off everything that isn't essential. Three describe an act of compression; one of them is really about a vantage point. The GRE cares about which axis the sentence is pointing at.
@@ -306,6 +331,7 @@ All four involve taking something large and rendering it in reduced form — the
 > **On the exam:** The exam treats these as interchangeable synonyms for "summarize" and lets one clue decide: "again, in order, at the close" → recapitulate; "the whole seen at once, breadth" → synoptic; "purer and more potent than the original" → distill; "away from the particular case" → abstract.
 
 
+<a id="meaning__bought-and-paid-for"></a>
 ### Bought and paid for
 
 All four describe people or arrangements in which profit has crowded out an obligation — to a cause, an office, a rule, or another person. Each is an accusation, and each locates the rot in a different place: in the actor's motive, in the sale of a duty, in the absence of internal restraint, or in the shape of the relationship itself. They are confusable because a single villain can be all four at once; the exam separates them by asking which element the sentence actually supplies. Note also that only some of them require money at all.
@@ -318,6 +344,7 @@ All four describe people or arrangements in which profit has crowded out an obli
 > **On the exam:** The trap is swapping **venal** for **mercenary** — check whether the sentence gives you an office being sold (venal) or merely a fee-driven motive (mercenary); and remember **exploitative** modifies the deal while **unscrupulous** modifies the dealer.
 
 
+<a id="meaning__break-the-rule-openly"></a>
 ### Breaking rules: the breach, the text, the line, the deed
 
 All four sit at the moment a rule is broken, and all four are unfavourable — but they answer different questions. Two are about *how* the breach happens (with contempt on display, or as a bare procedural conflict), one is about *what kind of line* was crossed (moral, not merely administrative), and one is not about a rule at all but about the badness of the deed itself. Register also splits them: three come from statutes, courtrooms and press releases, one from scripture and conscience.
@@ -330,6 +357,7 @@ All four sit at the moment a rule is broken, and all four are unfavourable — b
 > **On the exam:** The traps are near-homophones, not meanings: **flout** ≠ *flaunt* (display proudly), **perpetrate** ≠ *perpetuate* (keep going) — and watch the part of speech, since **transgression** is the lone noun in a set of verbs.
 
 
+<a id="meaning__open-opposition-to-authority"></a>
 ### Breaking with the official line
 
 All five describe a public break with something authoritative — a ruling, a regime, an order, a creed, a reputation everyone treats as settled. Each is defined by the thing it pushes against, so none of them mean much in isolation; you need an establishment for them to work. The splits are three: what is opposed (an official position, a punishing power, a chain of command, a doctrine, a sacred cow), whether the break is speech, belief, or action, and whether the label flatters the person it lands on.
@@ -343,6 +371,7 @@ All five describe a public break with something authoritative — a ruling, a re
 > **On the exam:** The trap is target-swapping: **heterodox** deviates from a doctrine while still inside it, **iconoclastic** demolishes what's venerated, and **dissident** requires a power that can punish — the GRE builds sentences where only one of those conditions is actually present in the context.
 
 
+<a id="meaning__bring-into-being"></a>
 ### Bring about vs. draw out
 
 All five stand between an act and a result: something comes into existence, or comes to the surface, because of what someone or something did. They divide on two axes. First, is the result **new** or was it **already there, latent**, waiting to be pulled out? Second, what is the manner of the causing — an unintended by-product, a laid path, a premature tipping-over, a direct request, or a suggestion?
@@ -356,6 +385,7 @@ All five stand between an act and a result: something comes into existence, or c
 > **On the exam:** The exam leans on elicit vs. evoke (a specific response pulled from a person vs. a mood conjured by suggestion) and hides precipitate behind clue words like *suddenly*, *prematurely*, or *tensions already mounting*.
 
 
+<a id="meaning__there-by-nature"></a>
 ### Built in — by nature, birth, place, or habit
 
 All four say a quality is a permanent part of something rather than a passing or superficial addition — it won't wash off, and you can't separate it from the thing without changing what the thing is. The confusion is that they agree on *fixed* and differ entirely on *how it got there*: from the thing's own essence, from birth, from long residence in a place, or from years of repetition. Two of them also carry a verdict — one indicts an institution, one concedes defeat — while the other two are purely descriptive.
@@ -368,6 +398,7 @@ All four say a quality is a permanent part of something rather than a passing or
 > **On the exam:** The trap is treating them as interchangeable "natural/inherent" synonyms: **ingrained** is acquired (habit, not birth), **endemic** attaches to a place or population rather than an individual, and **intrinsic** contrasts with *extrinsic*, not with *learned* — GRE sentences usually hinge on exactly that contrast word.
 
 
+<a id="meaning__burning-with-feeling"></a>
 ### Burning with feeling: ardent, fervent, fervid, zealous, fervor
 
 All of these describe feeling at high temperature — devotion, conviction, or enthusiasm burning hot enough to be visible from outside. The shared image is literal heat (Latin *ardere*, "to burn"; *fervere*, "to boil"), applied to belief, love, or commitment to a cause. What separates them is not how much heat but who is holding the thermometer: whether the speaker admires the intensity, quietly distrusts it, or is just reporting the temperature. One is a noun; the rest are adjectives.
@@ -381,6 +412,7 @@ All of these describe feeling at high temperature — devotion, conviction, or e
 > **On the exam:** The exam rarely tests the shared "intense" sense — it tests the tilt, so watch for a sentence whose context word ("mob," "excess," "blindly," "admirable," "sincere") decides between fervent/ardent (approving) and fervid/zealous (raised eyebrow); it also uses fervid as a lookalike trap for fervent.
 
 
+<a id="meaning__calm-and-untroubled"></a>
 ### Calm and untroubled
 
 All four mean nothing is stirring — no ripple, no agitation, no disturbance. What separates them is *what* is undisturbed and how the writer feels about it: a visible face or sky, a whole setting, a surface that nothing can ruffle, or a process that has simply stopped for now. Approval is not shared either — one is admiring, one is warm, one is double-edged, one is coolly indifferent. And only one of them implies the calm is temporary.
@@ -393,6 +425,7 @@ All four mean nothing is stirring — no ripple, no agitation, no disturbance. W
 > **On the exam:** Sentence equivalence loves pairing these as if interchangeable — decide on the noun (a place → tranquil, a process that will resume → quiescent) and the writer's attitude (admiring → serene, faintly dismissive → placid).
 
 
+<a id="meaning__can-be-made-to-work"></a>
 ### Can Be Made to Work
 
 All four give a plan, claim, or arrangement a passing grade — it holds up, it can go forward. But each tests a *different* stress. One asks whether you can get it off the ground; one whether it stays alive afterward; one whether it withstands an attacker; one whether it has a crack in it. All four are verdicts of inspection rather than admiration, which is why they cluster: none of them means *good*, and three of them are famous for faint praise.
@@ -405,6 +438,7 @@ All four give a plan, claim, or arrangement a passing grade — it holds up, it 
 > **On the exam:** The exam works two angles: negatives (**untenable** = indefensible, **unsound** = broken at the root — both harsher than their positives are warm), and tone questions where **viable** or **sound** is the correct *lukewarm* answer against a flattering-sounding trap.
 
 
+<a id="meaning__cancel-out-a-plan-or-force"></a>
 ### Cancel Out a Plan or Force
 
 All five describe something's intended effect failing to land: a plan doesn't come off, a prediction doesn't hold, a movement doesn't spread, a force doesn't register. The split is in *what gets cancelled* and *who does the cancelling* — a scheme mid-execution, an expectation, a rising challenge to authority, an opposing force, or an instrument that had legal standing. A second split is manner: interception, humiliation, suppression from above, exact counterbalance, or voiding.
@@ -418,6 +452,7 @@ All five describe something's intended effect failing to land: a plan doesn't co
 > **On the exam:** Watch the object: schemes are foiled, expectations confounded, uprisings quashed, opponents neutralized, instruments nullified — and **confound** is planted where "confuse" feels right but "defeat" is meant.
 
 
+<a id="meaning__careful-to-the-last-detail"></a>
 ### Careful to the last detail
 
 All five praise work done with more care than the minimum — nothing skimped, nothing waved through. They diverge on *what the care is measured against*: the fineness of each detail, the hours of grinding labour, the conscience of the person doing it, the completeness of the process, or the completeness of the coverage. Swap one for another and you praise the wrong thing — you credit patience when you meant precision, or workmanship when you meant honesty. The GRE builds sentences whose surrounding clue picks exactly one of those axes.
@@ -431,6 +466,7 @@ All five praise work done with more care than the minimum — nothing skimped, n
 > **On the exam:** Sentence completions plant a moral clue (honesty, temptation, a bribe refused) to force **scrupulous** where students reach for *meticulous*, and pair *exhaustive* with completeness language (\"every case,\" \"nothing remained\") where *thorough* would be merely adequate.
 
 
+<a id="meaning__cautious-foresight"></a>
 ### Caution That Counts as Good Judgment
 
 All four describe caution that counts as *good judgment* rather than nerves — the actor has surveyed the risks and deliberately chosen to go slow, use less, or say nothing. They are the vocabulary of lawyers, bankers, editors and policy memos: formal, approving, faintly bloodless. The confusion is that English lets them share the same sentence frame, while each actually points at a different stage of the act — deciding, proportioning, watching, withholding.
@@ -443,6 +479,7 @@ All four describe caution that counts as *good judgment* rather than nerves — 
 > **On the exam:** The exam splits them by grammar and object: a blank followed by *of* wants **chary**; a blank about *how much* of something was used wants **judicious**; a blank about protecting future assets wants **prudent** — and **circumspect** shows up where the sentence mentions observers, scrutiny, or what someone declined to say.
 
 
+<a id="meaning__cheat-someone-out-of-something"></a>
 ### Cheat someone out of something
 
 All four describe getting the better of someone by trickery rather than force — the victim is talked into it, not overpowered. The differences are about where the sentence's weight falls: on the loot taken, on the credulous person taken in, on the technique used, or on the smooth talk that produced a yes. They also differ in what they grammatically attach to — a sum of money, a person, a whole style of conduct, or an action the victim performs themselves.
@@ -455,6 +492,7 @@ All four describe getting the better of someone by trickery rather than force �
 > **On the exam:** Watch the frame: only **inveigle** takes a person + *into* + an action, only **chicanery** is a mass noun with no direct victim, and **dupe** vs **swindle** splits on whether anything was actually taken.
 
 
+<a id="meaning__cheeky-disrespect-upward"></a>
 ### Cheeky disrespect upward
 
 All four accuse someone of failing to stay in their place. They require an implied hierarchy — a superior, an elder, a host, an expert — and the offence is not cruelty or crudeness but **presumption**: acting as though the rank difference weren't there. Because the accusation only makes sense from above, each says as much about the accuser (who expected deference) as about the accused, and all four carry a starched, slightly old-fashioned air. They differ in what exactly is out of line: the tone, the attitude behind it, the content of the remark, or the act itself.
@@ -467,6 +505,7 @@ All four accuse someone of failing to stay in their place. They require an impli
 > **On the exam:** Watch for **impertinent** in its \"irrelevant\" sense (legal and formal prose: *impertinent testimony*), and for **presumptuous** in sentences containing no rudeness at all — only an unearned assumption.
 
 
+<a id="meaning__transparently-clear-prose"></a>
 ### Clear prose: from luminous praise to the bare minimum
 
 All five say the meaning gets through — nothing obstructs it. They split on two axes. First, how much credit is being given: three are compliments that imply grace or beauty, two only certify that a minimum was met. Second, what is being praised or certified: the writer's mind, the surface of the prose, the fit between the parts, or merely the listener's ability to make out words at all.
@@ -480,6 +519,7 @@ All five say the meaning gets through — nothing obstructs it. They split on tw
 > **On the exam:** Watch the size of the compliment: blanks framed by *barely*, *scarcely*, or a grudging concession take **intelligible**/**coherent**, while blanks praising style or a hard idea made easy take **lucid**/**limpid**/**pellucid** — and remember **coherent** never certifies truth.
 
 
+<a id="meaning__coarse-manners"></a>
 ### Coarse manners: the oaf, the grudge, and the snob's target
 
 All three are charges of failed refinement — a person who hasn't been civilised enough to meet the moment. Each implies a standard of polish the target falls short of, and each therefore flatters the speaker, who is by implication standing above it. The confusion is that they fault three different things: how you behave, how you receive, and what you value.
@@ -491,6 +531,7 @@ All three are charges of failed refinement — a person who hasn't been civilise
 > **On the exam:** The exam separates them by target: bad table conduct → boorish, an ungracious response to generosity → churlish, contempt for art or ideas → philistine; picking on general "rudeness" alone will get you the wrong one.
 
 
+<a id="meaning__coax-by-flattery"></a>
 ### Coax by flattery
 
 All four describe getting someone to do something through charm rather than argument, force, or payment — the target says yes, and says it because they were sweet-talked. The persuader is working on feeling, not reason, and the tactics are always at least slightly beneath honest argument. What separates them is the flatterer's posture (fawning from below vs. smooth from above), how much actual deception is in the mix, and whether the target ever finds out they were handled.
@@ -503,6 +544,7 @@ All four describe getting someone to do something through charm rather than argu
 > **On the exam:** The trap is treating them as interchangeable synonyms for \"flatter\": watch the preposition (wheedle *out of* vs. inveigle/cajole *into*), and don't assume **beguile** means deceive — passages often use it for pure enchantment, with no victim at all.
 
 
+<a id="meaning__commanding-reverence"></a>
 ### Commanding reverence
 
 All four describe someone or something that people defer to — a grandeur that makes the ordinary person lower their voice. The difference is entirely in *why* the deference is owed: earned standing, demonstrated mastery, moral elevation, or sheer dangerous capability. Each also carries a different attitude in the speaker, from genuine homage to a wary bow to open sarcasm. Sorting them means asking what produces the awe, not how much awe there is.
@@ -515,6 +557,7 @@ All four describe someone or something that people defer to — a grandeur that 
 > **On the exam:** The trap is treating them as interchangeable "impressive" words — check whether the sentence supplies rank (august), demonstrated command (magisterial), self-sacrifice (noble), or an opponent to be feared (redoubtable), and watch for ironic contexts, where august and noble sour but redoubtable stays a compliment.
 
 
+<a id="meaning__habitual-complaining"></a>
 ### Complaint: the tone, the mutter, the man, the claim
 
 All four sit around chronic, low-grade complaint — the kind that recurs rather than erupts. But they name different parts of it: the *tone* the complaint is delivered in, the *act* of muttering it, the *person* known for it, and the *substance* being claimed. Three of them belittle the complaint; one of them takes it seriously and gives it standing. Sorting them is a matter of asking what the word is actually pointing at, and whether it licenses the grievance or mocks it.
@@ -527,6 +570,7 @@ All four sit around chronic, low-grade complaint — the kind that recurs rather
 > **On the exam:** The trap is treating **grievance** as a stronger synonym for the grumbling words — it's the only one about the *content* and standing of a complaint, so a sentence about pettiness of tone never wants it, and a sentence about redress or injustice never wants the others.
 
 
+<a id="meaning__convincing-on-the-surface"></a>
 ### Convincing on the surface
 
 All of these live in the gap between *seeming true* and *being true*. Each rates the surface — how convincing a claim, story, argument, or artifact looks on inspection — while leaving the underlying fact deliberately unsettled, or, at one end, settled against it. What separates them is exactly how far the speaker leans: toward belief, toward suspended judgment, toward admiration of craft, or toward outright dismissal. Watch also what each attaches to — a witness, an excuse, a stage set, a syllogism.
@@ -539,6 +583,7 @@ All of these live in the gap between *seeming true* and *being true*. Each rates
 > **On the exam:** The exam sets **plausible** against **specious** and makes you find the falsity cue: if the sentence only withholds proof, it's *plausible*; if it supplies the collapse ("until the audit exposed it"), it's *specious* — and **verisimilitude**, the lone noun, needs a made thing to modify.
 
 
+<a id="meaning__copy-another-s-manner"></a>
 ### Copying another's manner
 
 All four describe reproducing something that belongs to someone else — a manner, a voice, a face, a style. They split on three axes: **what** is copied (a person's tics, a person's excellence, an artist's style), **how faithfully** (exact, inflated, loose homage), and **why** (to reach that level, to get a laugh, to attack, to pay tribute). The copy itself is never the issue on the GRE; the attitude behind it is.
@@ -551,6 +596,7 @@ All four describe reproducing something that belongs to someone else — a manne
 > **On the exam:** The trap is connotation: **emulate** is the positive one and is often the answer where a sentence praises a successor, while **caricature** and **mimic** are offered as neutral-looking synonyms of "imitate" that quietly import ridicule.
 
 
+<a id="meaning__correct-conduct"></a>
 ### Correct conduct
 
 All four name conduct judged against a standard of correctness rather than a standard of goodness — form, not virtue. Each is formal, faintly institutional, and concerned with observing the expected outward shape of behaviour: restraint, courtesy, bearing, the done thing. A person can satisfy every one of them and still be a scoundrel; a person can violate them all without committing any moral wrong. What separates them is *what the standard governs* — the occasion, the code, the body, or the relationship between rival institutions.
@@ -563,6 +609,7 @@ All four name conduct judged against a standard of correctness rather than a sta
 > **On the exam:** Comity is the trap: it looks like a generic synonym for civility, but the sentence will always supply rival institutions (senate, nations, jurisdictions) — if the parties are individuals, it's wrong.
 
 
+<a id="meaning__creep-into-where-unwanted"></a>
 ### Creep into where unwanted
 
 All four describe crossing a line into territory — physical, legal, or personal — that belongs to someone else. What differs is *how* the line is crossed and *what is left behind*: a slow advance, a spreading footprint, an outright taking, or merely an unwanted presence. Two of them describe motion, one describes possession, one describes a personality.
@@ -575,6 +622,7 @@ All four describe crossing a line into territory — physical, legal, or persona
 > **On the exam:** The classic trap is **appropriate** — the test hides the "take without permission" verb behind the familiar "suitable" adjective; **officious** is baited by its resemblance to *official* and *efficient*, when it means neither.
 
 
+<a id="meaning__criticism-that-burns"></a>
 ### Criticism That Burns: Corrosive, Clever, Wounding, Bracing
 
 All four describe criticism sharp enough to hurt, and all four are borrowed from chemistry or the tongue — substances that burn, bite, or pucker. Because the physical metaphors overlap, the words look interchangeable in a sentence about a brutal review. They separate on three questions: whose bitterness is it, is wit required, and does the sentence admire the critic or condemn him.
@@ -587,6 +635,7 @@ All four describe criticism sharp enough to hurt, and all four are borrowed from
 > **On the exam:** The trap is defaulting to caustic or scathing when the sentence quietly admires the critic — praise for wit points to mordant, praise for bracing dryness to astringent.
 
 
+<a id="meaning__cuts-to-the-heart-of-it"></a>
 ### Cuts to the heart of it
 
 All three describe sharpness that gets past the surface of things — a mind, a remark, or a look that reaches what other people miss or would rather hide. Each is complimentary about intelligence rather than merely about cleverness, and each implies a target that has been seen through. They split on **what the adjective actually attaches to**: the words produced, the act of piercing, or the faculty doing the judging.
@@ -598,6 +647,7 @@ All three describe sharpness that gets past the surface of things — a mind, a 
 > **On the exam:** Sentence-equivalence traps hinge on the attachment point: a blank modifying *critique* or *prose* wants **trenchant**, a blank modifying *the analyst herself* wants **perspicacious**, and only **penetrating** can take a non-mental noun like cold or a stare.
 
 
+<a id="meaning__deserving-of-praise"></a>
 ### Deserving of praise
 
 All three say "this deserves praise," and all three say it in the cool, formal register of a citation, an editorial, or a chairman addressing the room — never the warm register of a friend. The differences are not in how much praise but in **what the praise attaches to**: the intention behind an act, the act itself, or the person who stands behind both. Each also carries its own institutional flavour, and each has a characteristic backhanded use where the formality itself signals reservation.
@@ -609,6 +659,7 @@ All three say "this deserves praise," and all three say it in the cool, formal r
 > **On the exam:** Two traps: the exam picks the wrong target (a laudable *result*, a meritorious *person*, an estimable *effort*) and expects you not to notice; and it counts on you reading **estimable** as "able to be estimated" — note that *inestimable* means priceless, not unworthy.
 
 
+<a id="meaning__destroy-completely"></a>
 ### Destroy completely: root out, lay waste, defeat, take apart
 
 All four bring something to a total end — not damaged, not reduced, finished. What separates them is the *route* to that end and what sits on the receiving side: a category of evil pulled up by the roots, a landscape left in ruins by a rolling force, an opponent beaten past any rematch, or a structure taken to pieces by procedure. Two of them (root-out, defeat) claim the thing is gone; one claims only that what remains is wrecked; one claims the pieces are now on the floor in order. Choosing wrongly usually means you've mismatched the verb to its object.
@@ -621,6 +672,7 @@ All four bring something to a total end — not damaged, not reduced, finished. 
 > **On the exam:** The GRE decides these by the object noun and the agent, not by intensity — a blank followed by *apartheid/the tariff regime* wants **dismantle**, by *polio/corruption* wants **eradicate**, by *coastline/by war* wants **ravage**, by a named foe or an abstract fear wants **vanquish**; the classic trap is treating **ravage** as elimination when it only means left in ruins.
 
 
+<a id="meaning__dishonest-by-character"></a>
 ### Dishonest by character
 
 All five say the falsehood isn't an isolated slip — it's structural, a property of the person or the performance. Each is a moral accusation aimed at a character rather than a correction aimed at a fact, and all but one sit in formal or written register. What separates them is *what specifically is fake*: the innocence, the professed principle, the habit of speech, the second face, or the trust itself.
@@ -634,6 +686,7 @@ All five say the falsehood isn't an isolated slip — it's structural, a propert
 > **On the exam:** The exam plants the trigger and hides it: a sentence supplying betrayed trust wants **perfidy**, a preached-then-broken standard wants **hypocrisy**, and a feigned "I had no idea" wants **disingenuous** — pick the generic "dishonest" option and you lose the point.
 
 
+<a id="meaning__do-what-the-rule-says"></a>
 ### Do What the Rule Says
 
 All four describe bending your behavior to something outside you — a regulation, an order, a promise, a warning — rather than doing as you please. What separates them is the object each one takes, where the pressure comes from, and whether it's a single act or a standing condition. One answers to institutional power, one is a sustained voluntary attachment, one is acceptance of a ruling you agreed to be bound by, and one starts with actually listening.
@@ -646,6 +699,7 @@ All four describe bending your behavior to something outside you — a regulatio
 > **On the exam:** Fill-ins hinge on the object: a court order takes *comply*, a verdict takes *abide by*, a diet or protocol takes *adhere to*, a storm warning takes *heed* — and *abide*'s "tolerate" and "endure" senses are the standard trap when the sentence has no rule in it at all.
 
 
+<a id="meaning__dodge-the-truth-in-speech"></a>
 ### Dodging without lying
 
 All of these describe getting away from a direct answer without producing an outright falsehood. The speaker is asked something specific, declines to meet it, and yet never says the false thing that would make him a liar — so the accusation lands on his *manner* rather than his facts. That is exactly why the words are useful to journalists, judges and editorialists: they impute bad faith while staying unprovable and unactionable. They split on where the dodge lives — in the wording, in the pattern of answering, in the whole relationship to an obligation, or in going around a subject's edge.
@@ -659,6 +713,7 @@ All of these describe getting away from a direct answer without producing an out
 > **On the exam:** Sentence Equivalence loves the equivocate/prevaricate pair, so the trap is a blank whose object is a *thing* (the issue, the law, the draft) — there only skirt/evade fit grammatically, and evasive's innocent \"evasive maneuvers\" sense defuses any bad-faith clue.
 
 
+<a id="meaning__energy-with-style"></a>
 ### Doing it with style: verve, panache, aplomb
 
 All three praise *how* something is done rather than what it achieves: the visible style of the execution. All three are admiring by default, and all three attach to a performance, a manner, a way of carrying something off — never to plain effort or plain results. They split on what exactly is on display: liveliness, showmanship, or unbothered calm.
@@ -670,6 +725,7 @@ All three praise *how* something is done rather than what it achieves: the visib
 > **On the exam:** The exam plants the context word and expects you to match it: "flustered most people / under fire" wants aplomb, "lively, spirited prose or playing" wants verve, "flourish, dash, an audience" wants panache — swapping them yields a sentence that reads fine but describes the wrong quality.
 
 
+<a id="meaning__done-with-no-plan-or-care"></a>
 ### Done with no plan or care
 
 All three condemn work or behaviour that lacks order and care, and all three imply someone should have done better. The difference is *what* is missing: a governing plan, a standard of tidiness, or sustained attention. One faults the method, one faults the person's habits, one faults the energy behind the effort.
@@ -681,6 +737,7 @@ All three condemn work or behaviour that lacks order and care, and all three imp
 > **On the exam:** Sentence completions bait you with a mere disorder clue; **desultory** only fits when the sentence also supplies flagging enthusiasm or drift, and **slovenly** only when a person's habits (not a procedure) are being judged.
 
 
+<a id="meaning__driven-apart-from-others"></a>
 ### Driven Apart: Enmity, Drift, and Rupture
 
 All four describe a connection that has failed — someone turned against you, someone quietly gone, or something floating free of what should hold it. They split along three axes: whether the break is an **act** or a **state**, whether it produces **hostility** or **distance**, and whether the thing separated is a **person** or an **idea**. Two are verbs for causing the rupture; two are adjectives for living in it. Reordered here as a sequence: provoke → lose → drifted apart → cut loose.
@@ -693,6 +750,7 @@ All four describe a connection that has failed — someone turned against you, s
 > **On the exam:** The GRE tests the non-marital, non-obvious senses — **divorced from** the evidence, **antagonize** as "counteract" (drugs, muscles), **alienate** as "transfer property" — and baits you into swapping *antagonize* (active enmity) for *alienate* (silent withdrawal).
 
 
+<a id="meaning__drive-out-of-a-place-or-post"></a>
 ### Driven Out: From a Place, a Post, or a Rank
 
 All four describe an involuntary removal imposed by someone with the power to impose it — the person removed does not agree, and does not get to undo it. What separates them is *what you are removed from*: a territory, a job, a throne, or simply the good seat. One of them doesn't remove you at all — it just pushes you down and leaves you there. Watch the object, not the force.
@@ -705,6 +763,7 @@ All four describe an involuntary removal imposed by someone with the power to im
 > **On the exam:** The trap is treating them as interchangeable intensities of "throw out" — but **relegate** demotes without removing, **banish** removes from a place rather than a job, and **depose** is only correct if the office is a high one.
 
 
+<a id="meaning__dug-in-against-change"></a>
 ### Dug in against change
 
 All five describe something so firmly fixed that ordinary pressure won't move it. What separates them is *why* it won't move and who is complaining: some point at long repetition, some at deliberate dug-in position, some at a mind that has stopped working. They also differ in what they attach to — a person, a habit, an institution, or a whole social condition — and in how much contempt the speaker is packing.
@@ -718,6 +777,7 @@ All five describe something so firmly fixed that ordinary pressure won't move it
 > **On the exam:** The trap is treating them as swappable synonyms for "fixed" — the blank is usually decided by what the fixity attaches to (interests entrench, habits ingrain, gamblers are inveterate, institutions go hidebound) and by whether the sentence needs a verb of *becoming*, where only **ossify** fits.
 
 
+<a id="meaning__boring-by-repetition"></a>
 ### Dull — by sameness, by length, by pace
 
 All five are verdicts of dullness, and all five blame the same culprit: nothing worth attending to is happening. They split on *why* your attention died. Two of them indict sameness — the thing never varies. Two indict duration — the thing will not stop. One indicts pace — the thing moves, but heavily. Getting the right one means asking which of those three the sentence actually gives you evidence for.
@@ -731,6 +791,7 @@ All five are verdicts of dullness, and all five blame the same culprit: nothing 
 > **On the exam:** The exam plants the deciding clue outside the blank — "day after day, identical" wants monotonous/humdrum, "three hours in, still talking" wants tedious/interminable, "slow and heavy but reliable" wants plodding; only plodding survives a positive clause.
 
 
+<a id="meaning__dull-and-unimaginative"></a>
 ### Dull: flat, plodding, flavourless, empty
 
 All four are verdicts of failure-to-interest, not failure-to-function. The thing described is usually competent, inoffensive, even correct — it simply gives the mind nothing to hold. Each word indicts a different missing ingredient: imagination, lift, flavour, substance. All are the critic's side of the transaction, so the speaker is always positioning as someone who expected more.
@@ -743,6 +804,7 @@ All four are verdicts of failure-to-interest, not failure-to-function. The thing
 > **On the exam:** Sentence Equivalence loves the insipid/vapid pair — but check whether the blank faults taste (insipid) or emptiness (vapid); also watch prosaic used approvingly for the plain true explanation, and pedestrian's decoy noun sense.
 
 
+<a id="meaning__die-down-gradually"></a>
 ### Dying down gradually
 
 All five describe a decrease that happens **by degrees** — a curve, not a cliff. None of them means "stop"; each means "less than before," and each leaves the thing at least partly intact. What separates them is not how much they reduce but **what kind of thing** is reducing, **whether anyone is doing it**, and **what the reduction is measured against** — a prior surge, a former peak, an eventual zero, or just a baseline. Pick the wrong one and the sentence still parses, which is exactly why the test likes them.
@@ -756,6 +818,7 @@ All five describe a decrease that happens **by degrees** — a curve, not a clif
 > **On the exam:** The subject decides the answer — pressures abate, swollen levels subside, prestige wanes, counted supplies dwindle, signals and arguments attenuate — so read what is shrinking before you read the choices, and know **unabated** and **on the wane** cold.
 
 
+<a id="meaning__keen-to-get-going"></a>
 ### Eager: appetite, or speed of response
 
 All three describe wanting to do something and not hiding it. They split on *what kind of thing the eagerness is*: a settled appetite that defines a person, a mild forward lean toward a task, or the visible quickness of a single response to a single request. One of them is a noun and can only ever describe how someone answered a moment; the other two are traits. And one carries a whole second life as a word about sharpness that has nothing to do with enthusiasm at all.
@@ -767,6 +830,7 @@ All three describe wanting to do something and not hiding it. They split on *wha
 > **On the exam:** The GRE rarely tests *keen* = eager — it wants *keen* = sharp/perceptive; and it baits *alacrity* against pure-speed words like *celerity*, where the missing element is cheerful willingness, not quickness.
 
 
+<a id="meaning__easily-shaped"></a>
 ### Easily shaped, easily led
 
 All five describe something that yields — a material that takes a new form under pressure, or a person who takes the form someone else wants. The confusion is that each word answers a different question: does the thing bend and spring back, or bend and stay bent? Is the yielding a virtue of the material or a weakness in the person? And is the yielding to a *shape* or to a *direction*? Tone swings hard depending on whether the subject is leather or a witness.
@@ -780,6 +844,7 @@ All five describe something that yields — a material that takes a new form und
 > **On the exam:** The exam splits them by subject and by who benefits: a positive-charge blank about a body, prose, or a negotiator wants **supple**; a blank about a solvable problem wants **tractable** (usually as *intractable*); and *pliant / malleable / plastic* are sorted by whether the yielding is temporary, hammered in, or permanent.
 
 
+<a id="meaning__easy-to-set-off"></a>
 ### Easy to set off
 
 All four describe bad temper as a **standing quality** rather than a passing mood — the person (or group) is primed to flare, and you can predict it. They are all negative, and all imply the observer has stopped excusing the behaviour. What separates them is the *shape* of the anger: how much dignity it's granted, whether it points outward at an opponent or inward as a sulk, and whether it threatens anyone or merely wears them out.
@@ -792,6 +857,7 @@ All four describe bad temper as a **standing quality** rather than a passing moo
 > **On the exam:** The trap is reading them as interchangeable synonyms for "angry," when context fixes exactly one: a splintering coalition takes **fractious**, a sulk over nothing takes **petulant**, a hostile refusal to cooperate takes **truculent**, a lifelong short fuse takes **irascible**.
 
 
+<a id="meaning__make-the-obscure-clear"></a>
 ### Elucidate / Delineate / Articulate: three different kinds of unclear
 
 All three verbs move something from unclear to clear, and all three are formal enough to sit in the same sentence about a scholar, a contract, or a witness. The differences lie in *what kind of unclearness* is being fixed: something too difficult to follow, something whose edges overlap with its neighbours, or something that has never been put into words at all. Each also implies a different actor — an expert unpacking, a drafter fixing limits, a speaker finding language. Pick by the obstacle, not by the outcome.
@@ -803,6 +869,7 @@ All three verbs move something from unclear to clear, and all three are formal e
 > **On the exam:** Sentence-equivalence traps swap them by outcome ("made clear") — check the obstacle instead: a dense text is elucidated, two adjacent categories are delineated, an inchoate feeling is articulated.
 
 
+<a id="meaning__emotion-performed"></a>
 ### Emotion Too Big: Staged, Unhinged, Stormy
 
 All three describe emotion that exceeds what the situation warrants, and all three are ways of refusing to take a feeling at face value. What separates them is *what* the excess proves: that the feeling was faked, that it destroyed the person's judgement, or that it is simply the permanent weather of a relationship. They also differ in duration — two describe an episode, one describes a pattern.
@@ -814,6 +881,7 @@ All three describe emotion that exceeds what the situation warrants, and all thr
 > **On the exam:** The GRE baits you into swapping **histrionic** for **hysterical** in Sentence Equivalence pairs — check whether the sentence implies a performance for onlookers (histrionic) or a genuine collapse of self-control (hysterical); and don't pick **tempestuous** for a single scene, since it needs an ongoing relationship or temperament.
 
 
+<a id="meaning__everywhere-at-once"></a>
 ### Everywhere at once
 
 All five describe something that has spread to a degree you can't ignore — corruption, advertising, damp, disease, dread. The confusion is that they measure spread along different axes: how many separate places it occupies, how constantly it's present, how deeply it has soaked in, how long it has lived there, and whether anything is slowing it down. Swap one for another and you change the claim, not just the wording. Two of them (endemic, rampant) aren't really about breadth at all.
@@ -827,6 +895,7 @@ All five describe something that has spread to a degree you can't ignore — cor
 > **On the exam:** The classic trap is **endemic** in a sentence about breadth — it signals *rooted and confined*, so look for a contrast with "epidemic," "introduced," or "recent"; likewise, pick **rampant** only when the sentence supplies an absent check ("unregulated," "no one intervened"), not merely a large amount.
 
 
+<a id="meaning__blameworthy-carelessness"></a>
 ### Failing a duty you owed
 
 Each of these describes a duty that didn't get done, and each carries at least a whiff of blame. What separates them is *why* the duty went undone — was the standard let slip, was it never noticed at all, or was it seen and actively ducked? — and *how hard* the word points a finger. They also differ in what they attach to: a person's fault, a system's slackness, a mind's blankness, or an act of evasion.
@@ -839,6 +908,7 @@ Each of these describes a duty that didn't get done, and each carries at least a
 > **On the exam:** The trap is **oblivious**: sentences about unnoticed danger tempt you toward the blame words, but oblivious requires only unawareness — no duty, no fault — while **negligent**, **lax**, and **shirk** all presuppose an obligation that existed.
 
 
+<a id="meaning__unable-to-settle-on-a-choice"></a>
 ### Failing to Commit to a Choice
 
 All four sit at the gap between a question and an answer — the commitment that hasn't been made. But they occupy different places in that gap: one names the inner conflict that causes the stall, one names the visible back-and-forth, one names the person who habitually stalls, and one names a single polite move made out loud to somebody else. Confusion comes from glossing all of them as "hesitant," which flattens the distinction between a mental state, a behavioral pattern, a character verdict, and a speech act.
@@ -851,6 +921,7 @@ All four sit at the gap between a question and an answer — the commitment that
 > **On the exam:** Two traps: **ambivalent** is offered where the sentence actually wants indifference or apathy (it means the opposite — caring in two directions), and **demur** is offered as a synonym for chronic wavering when it only ever denotes a single polite objection.
 
 
+<a id="meaning__fair-to-all-sides"></a>
 ### Fair to all sides
 
 All four are formal words that a careless reader flattens into "fair" or "equal." But they attach to different things: one to the *distribution* (who gets what), one to the *principle* behind the distribution, one to the *person judging* (whether they stand to gain), and one to the *ratio* between two quantities. Fairness is what they gesture at; almost none of them actually means "the same amount for everyone." Getting them right means asking what is being called fair — the share, the system, the arbiter, or the match.
@@ -863,6 +934,7 @@ All four are formal words that a careless reader flattens into "fair" or "equal.
 > **On the exam:** The classic traps: **disinterested** does not mean *uninterested* (bored), and **equitable** does not mean *equal* — that is **egalitarian**'s job; if the sentence needs a second term for comparison ("...with the risk"), it wants **commensurate**.
 
 
+<a id="meaning__fake-not-genuine"></a>
 ### Fake, not genuine — and what each word attacks
 
 All five say *this is not the real thing*. They split on two axes: **what** the fakeness attaches to — a manufactured object, an institutional procedure, a claim, a person's manner, a statistical result — and **who is speaking** — a court document, a journal referee, or someone who feels personally conned. Several also disagree about whether a deceiver is even required. Pick by target and by register, not by strength.
@@ -876,6 +948,7 @@ All five say *this is not the real thing*. They split on two axes: **what** the 
 > **On the exam:** The exam decides these by the noun in the blank — *correlation* forces **spurious**, *election/trial* forces **sham**, *currency* forces **counterfeit** — and traps you with **spurious**, which is right even when the passage makes clear no one lied.
 
 
+<a id="meaning__false-statements-that-ruin-a-name"></a>
 ### False statements that ruin a name
 
 All four describe destroying a reputation with something untrue rather than merely unkind — the target's standing in other people's eyes is the wound, and the statement is public. What separates them is not how vicious they are but what each one specifies: the act, the channel it travelled through, the malice behind it, or the fact that nothing was quite said out loud.
@@ -888,6 +961,7 @@ All four describe destroying a reputation with something untrue rather than mere
 > **On the exam:** The trap is treating them as interchangeable intensities: watch for a written or published attack (never *slander*), a vague hint with no stated claim (only *aspersion*), or a context that condemns the speaker's motive rather than their liability (*calumny*, not *defame*).
 
 
+<a id="meaning__fault-finding-over-trifles"></a>
 ### Fault-finding over trifles
 
 All four label a fuss that is out of proportion to what's at stake: the detail is small, the objection is loud, and the main question goes unaddressed. Each is a judgement on the complainer rather than on the thing complained about — the fault may be genuine, but noticing it this hard is the flaw. They split on three axes: whether it's a one-off act or a settled character, what the fusser is actually after (accuracy, superiority, or satisfaction), and how much contempt the speaker is loading in.
@@ -900,6 +974,7 @@ All four label a fuss that is out of proportion to what's at stake: the detail i
 > **On the exam:** GRE leans on the two odd senses: **finicky** in an inanimate slot (a balky machine or process, where the other three cannot go), and **quibble** in a concessive, largely favorable sentence — while **captious** and **pedantic** are reserved for the openly hostile character descriptions.
 
 
+<a id="meaning__fawning-servility"></a>
 ### Fawning servility
 
 All of these describe a person placing himself beneath someone with power over him, and all but one carry the observer's contempt built in. The differences are what kind of lowering it is: a standing condition versus a single performance, obedience versus flattery versus begging, and whether the abasement is aimed at getting something specific. Note also who speaks — these are almost all third-party verdicts, words for what the behaviour looks like from outside, not what it feels like from inside.
@@ -913,6 +988,7 @@ All of these describe a person placing himself beneath someone with power over h
 > **On the exam:** The trap is **supplicate**: it's the one word here that isn't automatically contemptible, so a reverent or religious context wants it and rejects the rest — and conversely, **subservient** is the only one that fits an inanimate subject.
 
 
+<a id="meaning__fearless-in-danger"></a>
 ### Fearless in danger — and who's afraid of whom
 
 All five sit in the territory of courage confronting danger, and all five are complimentary — none scolds the risk-taker as reckless. What separates them is the angle of view: whether the courage is a settled temperament or a single decorated deed, whether the odds are stacked against the subject or the subject *is* the threat, and whether the praise comes with a salute, a pat on the head, or a raised eyebrow. Four describe the person who faces the danger; one describes the person who *is* the danger.
@@ -926,6 +1002,7 @@ All five sit in the territory of courage confronting danger, and all five are co
 > **On the exam:** The trap is **redoubtable**: it means *inspiring* fear, not feeling none — a sentence about someone unshaken by peril wants intrepid, while one about a dreaded opponent wants redoubtable; and watch that plucky demands an underdog while mettlesome demands eagerness, so neither fits a calm, powerful subject.
 
 
+<a id="meaning__fixed-and-unalterable"></a>
 ### Fixed and unalterable — but against what?
 
 All three say a thing holds no matter what pressure is applied to it: it will not bend, break, or go away. The confusion is that each resists a *different* kind of pressure — the passage of time and circumstance, a deliberate attempt to find a gap, or an attempt to remove or hand over. They also live in different worlds: one belongs to nature and physical law, one to courtrooms and contracts, one to constitutions and declarations. Pick the wrong one and you claim the wrong kind of permanence.
@@ -937,6 +1014,7 @@ All three say a thing holds no matter what pressure is applied to it: it will no
 > **On the exam:** Watch what the sentence says is being resisted: revision over time → immutable; scrutiny or loophole-hunting → ironclad; being taken, waived, or sold → inalienable. If the object is a right, inalienable is nearly always the intended answer; if the object is a fact or law of nature, ironclad is the trap.
 
 
+<a id="meaning__fix-what-s-defective"></a>
 ### Fixing what's wrong: how broken was it to begin with?
 
 All four presuppose a starting state that falls short and an intervention that closes the gap. They differ on two axes: **how bad the starting state was** (merely improvable → substandard → wretched) and **what kind of thing is being fixed** (a text, a technique, a defect, a human condition). Each also leaks a judgment about the original — some faintly, some brutally. Ordered below by how damning that implied verdict is.
@@ -949,6 +1027,7 @@ All four presuppose a starting state that falls short and an intervention that c
 > **On the exam:** The trap is the starting state: if the passage says the thing was already sound, only **refine** fits; if it was wretched, **ameliorate**; if it's a document with a process, **amend** — and "improve" is never a clean synonym for any of them.
 
 
+<a id="meaning__for-show-only"></a>
 ### For Show Only
 
 Each of these grants that something exists or happened — the title was held, the fee was paid, the inspection occurred, the report was read — and then withholds the substance. They are the vocabulary of form without content, and their bite comes from that concession: nobody is being accused of doing nothing. The differences lie in *which* dimension goes hollow — the label, the amount, the effort, or the depth — and in how much blame the speaker is assigning.
@@ -961,6 +1040,7 @@ Each of these grants that something exists or happened — the title was held, t
 > **On the exam:** Sentence Equivalence loves **token/perfunctory** as a false pair — check whether the blank is about how *little* was done (token) or how *listlessly* (perfunctory) — and hides **nominal** and **superficial** behind their innocent senses (on-spec; skin-deep wound).
 
 
+<a id="meaning__force-rather-than-persuade"></a>
 ### Force rather than persuade
 
 All four describe getting an outcome without agreement. Someone's will, voice, or choice is overridden — by threat, by authority, or by a hand held down on top of it — and the result stands anyway. The confusion is that they carve up the same scene from different angles: the pressure applied, the state of the person under it, the terms handed down, and the thing that never got to surface.
@@ -973,6 +1053,7 @@ All four describe getting an outcome without agreement. Someone's will, voice, o
 > **On the exam:** The classic trap is coercion/duress on the same fact pattern — pick by whose perspective the sentence takes (the one applying pressure vs. the one excused by it); and remember *dictate* can be bloodless and agentless, so a neutral sentence about constraints still wants it.
 
 
+<a id="meaning__formal-agreement"></a>
 ### Formal agreement — and its three near-misses
 
 All four describe parties who are not fighting — typically states, institutions, or factions rather than individuals — and all carry diplomatic, headline-page register. But they sit at different points of the process: one is the settled document, one is the settled opinion, one is the code of conduct that lets adversaries operate side by side, and one is merely the drop in temperature that might precede any of them. The trap is that only two of them actually name an *agreement* at all; the other two name behaviour and mood.
@@ -985,6 +1066,7 @@ All four describe parties who are not fighting — typically states, institution
 > **On the exam:** The exam baits you with "agreement": in a sentence about ex-enemies merely being civil or less hostile, **consensus** and **accord** are the tempting fills, but the correct answer is **comity** (conduct) or **détente** (temperature) precisely because nothing was actually agreed.
 
 
+<a id="meaning__formal-public-condemnation"></a>
 ### Formal public condemnation
 
 All of these belong to the vocabulary of condemnation made in public, on the record, with a moral charge attached — well past private disapproval or ordinary fault-finding. What separates them is machinery: who is doing the condemning, what the condemnation lands on, and whether the word names the act, the authority behind it, the evidence supporting it, or the disgrace left afterwards. Several also flip between being something a speaker performs and something a target receives.
@@ -998,6 +1080,7 @@ All of these belong to the vocabulary of condemnation made in public, on the rec
 > **On the exam:** The trap is target and part of speech, not intensity: watch whether the sentence needs a person (denounce), a policy or trend (decry), an official body as subject (censure), a noun meaning damning evidence (indictment), or a noun meaning the scorn received (opprobrium).
 
 
+<a id="meaning__unlike-one-another"></a>
 ### Four Ways of Being Unlike
 
 All four say *these things do not match* — but they differ in what is being held up against what. One compares items side by side and declares the comparison void; one describes the internal make-up of a single whole; one tracks two things pulling apart over time from a shared start; one measures a thing against the setting it sits in. Three are cool and analytic; only one registers a clash. Pick by asking: unlike *what*, and unlike *since when*?
@@ -1010,6 +1093,7 @@ All four say *these things do not match* — but they differ in what is being he
 > **On the exam:** Check what the noun is: a collective whole takes **heterogeneous**, two things with a shared starting point take **divergent**, a thing sitting inside a setting takes **incongruous**, and a plain side-by-side contrast of unlike kinds takes **disparate** — the GRE also baits you into swapping in the warmly approving *diverse* or the condemning *deviant/inappropriate*, all of which carry judgment these four withhold.
 
 
+<a id="meaning__gone-through-without-care"></a>
 ### Four Ways of Not Really Doing It
 
 All four describe something that technically happened but didn't amount to much — the motions were gone through, the substance wasn't. The event is never denied; what's denied is depth, care, or weight. They differ by *which* thing went missing: time, interest, depth, or sincerity. Three are quiet accusations aimed at the doer; one can be purely descriptive.
@@ -1022,6 +1106,7 @@ All four describe something that technically happened but didn't amount to much 
 > **On the exam:** Sentence Equivalence loves pairing **cursory** with **perfunctory** as if they were the twin answer — check whether the sentence blames the clock (cursory) or the attitude (perfunctory); and don't reject **superficial** just because the context is a literal, non-insulting wound or crack.
 
 
+<a id="meaning__warmly-sociable"></a>
 ### Friendly — but friendly how?
 
 Every word here would be glossed "friendly" in a cheap dictionary, and all five are positive and faintly formal. What separates them is *what the friendliness attaches to*: a negotiation, a tone of address, a match between two temperaments, an evening around a table, or an appetite for company. Some of them require no affection at all; one requires no manners at all. Pick by the noun, not by the warmth.
@@ -1035,6 +1120,7 @@ Every word here would be glossed "friendly" in a cheap dictionary, and all five 
 > **On the exam:** The trap is treating them as interchangeable intensities of "friendly": Sentence Equivalence will pair **gregarious** with *sociable* against a distractor like *affable* (pleasantness ≠ appetite), or offer **cordial** where the context demands **amicable** (a settlement has parties, not feelings); read what the adjective is modifying — a dispute, a tone, a fit, an evening, or a temperament.
 
 
+<a id="meaning__fussy-about-detail"></a>
 ### Fussy about detail
 
 All four describe a refusal to let small details slide — and all four sit on the knife's edge between compliment and complaint, depending on whether the fuss is warranted. What separates them is *what the detail is about* (cleanliness and taste, correct form, trifles, sheer difficulty of the work) and *where the demand lands* (on the world around you, on your own conduct, on the people who have to satisfy you). Two of them can also describe a task or object, not just a person — and that split is where most of the exam pressure lives.
@@ -1047,6 +1133,7 @@ All four describe a refusal to let small details slide — and all four sit on t
 > **On the exam:** The exam tests these by grammatical object, not by degree: only *exacting* and *finicky* can modify a task or device (demanding vs. temperamental), and a blank about protocol or etiquette wants *punctilious* where one about dirt or taste wants *fastidious*.
 
 
+<a id="meaning__generous-above-pettiness"></a>
 ### Generous above pettiness
 
 All four praise someone for putting another's good above their own interest, and all four sit high in register — they are the words you reach for when *kind* and *generous* sound too small. What separates them is where the praise lands: on the motive behind the act, on the benefit actually delivered, on the resentment declined, or on the elevation of the character. Three of them also carry a whiff of the powerful stooping to the powerless, which is exactly why all four flip to sarcasm so easily.
@@ -1059,6 +1146,7 @@ All four praise someone for putting another's good above their own interest, and
 > **On the exam:** Sentence equivalence loves the altruistic/magnanimous swap — check whether the context supplies a rival or a grievance (magnanimous) or merely a cost with no return (altruistic); and watch beneficent/beneficial, where the answer turns on agent vs. thing.
 
 
+<a id="meaning__gloomy-and-downcast"></a>
 ### Gloomy and downcast
 
 All four describe low spirits that are visible from the outside — gloom that registers on the face, in the voice, in the room. None of them is the private ache of *sad*; each is a mood someone else is reading and reporting. What separates them is not how much it hurts but what kind of gloom it is: how long it lasts, what caused it, whether it repels company, and whether the speaker is sympathetic or amused.
@@ -1071,6 +1159,7 @@ All four describe low spirits that are visible from the outside — gloom that r
 > **On the exam:** The GRE hides the trigger in the sentence: a dashed expectation ("after the rejection letter") demands **crestfallen**, a refusal to be drawn out demands **morose**, and a mock-solemn or comic tone demands **lugubrious** — **glum** is the trap that fits the gloom but not the scale.
 
 
+<a id="meaning__good-at-many-things"></a>
 ### Good at many things
 
 All three are compliments for not being one-dimensional, and all three imply a person (or thing) who can handle more than a single narrow demand. The confusion is that English praises breadth in at least three unrelated ways: by counting how many jobs you can do well, by counting how many sides you have, and by rating what you do when the normal means run out. One is a range-of-skill claim, one is a structural description, one is a behaviour-under-scarcity claim — and only the first is really about being "good at many things."
@@ -1082,6 +1171,7 @@ All three are compliments for not being one-dimensional, and all three imply a p
 > **On the exam:** The trap is **multifaceted**, which the exam attaches to problems, crises, and negotiations — things with no talents at all — while **resourceful** is signalled by a deprivation clause ("with no funding," "stranded"), not by breadth.
 
 
+<a id="meaning__good-for-you"></a>
 ### Good for you: what kind of good, and from where
 
 All four stamp something as **good for you**, and three of them are Latinate adjectives that a careless reader flattens into a single "beneficial." The differences are about *what kind* of good: clearing the way for an outcome, being physically wholesome, correcting you through discomfort, or landing in your lap as luck. They also differ in what they attach to — a condition, a place, an experience, or a windfall — and in whether the benefit felt pleasant at the time.
@@ -1094,6 +1184,7 @@ All four stamp something as **good for you**, and three of them are Latinate adj
 > **On the exam:** The trap is **salutary/salubrious** — near-twins from the same Latin root, but the exam sets *salutary* beside an unpleasant corrective experience (a defeat, a warning) and *salubrious* beside a climate; pick by what the blank attaches to, not by the sound.
 
 
+<a id="meaning__graceful-in-speech"></a>
 ### Graceful in speech
 
 All four praise facility with language — words that come easily, land well, or do their job beautifully. But they praise four different things: the emotional effect on the audience, the structural clarity of the thought, the sheer unstalling flow of the delivery, and the rightness of the particular word chosen. Two describe the speaker; one describes the thought's shape; one describes the phrase itself and may have no speaker at all.
@@ -1106,6 +1197,7 @@ All four praise facility with language — words that come easily, land well, or
 > **On the exam:** The trap is swapping speaker-words for phrase-words: a sentence praising a well-chosen metaphor wants **felicitous**, not **eloquent**; and **voluble** is the standing decoy in "fluent" slots because it grants quantity and ease while promising nothing about quality.
 
 
+<a id="meaning__grasping-greed"></a>
 ### Grasping greed: wanting more, and wanting yours
 
 All four cover the appetite for having more — usually money, property, or things — beyond what one has or is owed. They differ on three axes: whether the greed is a settled disposition or a live craving, whether it has the power to take from someone, and whether the speaker is condemning. Three are adjectives describing a character; one is a verb describing a single act of wanting. Sorted below from coldest and most excusable to most predatory.
@@ -1118,6 +1210,7 @@ All four cover the appetite for having more — usually money, property, or thin
 > **On the exam:** The trap is treating all four as interchangeable insults: **acquisitive** can be neutral or even flattering, **covet** needs a specific object owned by someone else, and **rapacious** needs a victim — so a sentence about a harmless collector, a hoarding miser, and a plundering conqueror each admit only one answer.
 
 
+<a id="meaning__green-and-untried"></a>
 ### Green and untried
 
 All four label someone (or something) not yet proven at a pursuit, and all four invite an outsider to judge that unproven state. What separates them is *why* the person hasn't proven themselves and *what the label predicts*: recent arrival, unfinished growth, unformed character, or an unwillingness to do the work at all. Three of them concern time — give it a few years and the condition cures itself. One of them doesn't, and that's the trap.
@@ -1130,6 +1223,7 @@ All four label someone (or something) not yet proven at a pursuit, and all four 
 > **On the exam:** Watch for **dilettante** slotted where the sentence only supports "beginner" — it needs a cue of pretension or dropped commitment, not mere newness; conversely, a sentence blaming shallow dabbling will not accept **neophyte** or **fledgling**.
 
 
+<a id="meaning__mournful-grief"></a>
 ### Grief Made Audible
 
 These words cluster around sorrow that gets *expressed* rather than merely felt — grief with a sound, a face, or a tune attached. Mourning is the inward state; these are the noises and expressions it makes, from a thin whimper to a graveside chant. What separates them is the shape the grief takes: how loud, how dignified, how ritual, and whether it is being performed for an audience. Two of them also carry a second, far more testable sense that has drifted away from grief altogether.
@@ -1143,6 +1237,7 @@ These words cluster around sorrow that gets *expressed* rather than merely felt 
 > **On the exam:** The exam rarely tests the grief senses — it tests the drifted ones: **woeful** = pitifully inadequate, **lament** = publicly regret a decline, **keen** = sharp/eager, leaving you to pick a "grief" answer that isn't the point.
 
 
+<a id="meaning__guileless-openness"></a>
 ### Guileless openness: by nature vs. by choice
 
 All four describe speech that arrives without a filter — nothing hidden, nothing angled, nothing dressed up. The split that matters is *why* the filter is missing. In two of them the speaker never had one: openness is a trait of character, born of inexperience or an absence of artifice, and the tone toward such a person is fond but protective. In the other two the speaker has a filter and deliberately drops it: openness is a decision made about a delicate subject, and it earns credit precisely because concealment was available.
@@ -1155,6 +1250,7 @@ All four describe speech that arrives without a filter — nothing hidden, nothi
 > **On the exam:** Sentence equivalence pairs these across the volitional line — *candid*/*frank* (chose to speak) are swappable, *ingenuous*/*artless* (never learned not to) are swappable, but a blank whose context supplies a motive for concealment can only take the first pair; also watch for *artless* baited with a crudeness context and *ingenuous* baited by *ingenious*.
 
 
+<a id="meaning__hardened-to-suffering"></a>
 ### Hardened to suffering
 
 All three describe someone who fails to respond to pain the way a person is supposed to — the plea is made, the tears are shed, and nothing comes back. The difference is *where* the failure sits: in the sympathy (nothing is felt), in the will (something is felt and overridden), or merely in the face (nothing shows). Two of them are moral charges; one is closer to an insult about temperament.
@@ -1166,6 +1262,7 @@ All three describe someone who fails to respond to pain the way a person is supp
 > **On the exam:** The classic trap is treating **stolid** as a synonym for the other two: it describes affect and temperament, never moral hardness — sentences about *refusing to relent despite pleading* want **obdurate**, and *indifference to others' pain* wants **callous**.
 
 
+<a id="meaning__harmlessly-odd"></a>
 ### Harmlessly odd
 
 All five describe departure from the ordinary that carries no threat — nobody here is dangerous, deranged, or even seriously strange. What separates them is *which* question they answer about the oddity: how big it is (one habit or a whole life), whose it is (this individual alone or anyone), how you feel about it (charmed, puzzled, faintly uneasy), and whether it springs from a fixed trait or a passing impulse. Two of them also carry a non-odd sense the GRE cares about more than the odd one.
@@ -1179,6 +1276,7 @@ All five describe departure from the ordinary that carries no threat — nobody 
 > **On the exam:** The trap is **peculiar to X** (= exclusive to, not strange) and reading **idiosyncratic** as a synonym for odd when it only means "specific to this one case."
 
 
+<a id="meaning__harsh-clashing-sound"></a>
 ### Harsh clashing sound
 
 All three name noise that hurts — sound the speaker has already judged unpleasant, not merely loud. What separates them is *why* it hurts: too many sounds at odds with each other, one resonant metallic sound hammering on, or one thin high note drilling in. Only one is a neutral description of a sound source; the other two are verdicts, and one of those is routinely aimed at people rather than noises.
@@ -1190,6 +1288,7 @@ All three name noise that hurts — sound the speaker has already judged unpleas
 > **On the exam:** The trap is treating all three as synonyms for "very loud": GRE contexts hinge on discord (cacophonous), metal (clangor), or pitch-and-tone-policing (shrill) — and in reading comp, an author calling an opponent shrill is a signal about the author's bias, not the opponent's volume.
 
 
+<a id="meaning__hatred-with-disgust"></a>
 ### Hatred with disgust
 
 All four go past dislike into revulsion: the thing isn't merely bad, it turns the stomach or offends the conscience. Two are verbs describing what a person feels; two are adjectives ruling on what a thing deserves. They split on the source of the disgust — gut recoil versus violated principle — and on who is doing the work: the hater, or the hated thing.
@@ -1202,6 +1301,7 @@ All four go past dislike into revulsion: the thing isn't merely bad, it turns th
 > **On the exam:** Two traps: **repugnant**'s legal sense (incompatible/contradictory) shows up in sentences with no emotion in them at all, and **abhor**/**odious** demand a moral or institutional object — a blank filled by mere annoyance wants **loathe**.
 
 
+<a id="meaning__head-it-off-in-advance"></a>
 ### Head it off in advance
 
 All five stop something before it arrives — the action comes first, the unwanted event never lands. What separates them is the *mechanism*: acting early, cancelling the need, making it structurally impossible, deflecting it at the last second, or scaring off the person who would have caused it. They also differ in what sits in the object slot: an event, a requirement, a possibility, a disaster, or a human being.
@@ -1215,6 +1315,7 @@ All five stop something before it arrives — the action comes first, the unwant
 > **On the exam:** The trap is that all five fit a blank meaning "prevent" — decide instead by the object: a *need* takes obviate, a *possibility* takes preclude, a *disaster* takes avert, a *person* takes deter, a *rival's move* takes forestall.
 
 
+<a id="meaning__hidden-from-view"></a>
 ### Hidden from view: the act, the manner, the motive
 
 All five describe something deliberately kept out of open view, and all but one imply the concealer knows the open version wouldn't be tolerated. What actually separates them is **what** is being hidden and **at what scale**: a standing enterprise, a single quick act, a person's bearing, or a reason. Get the attachment point right and these stop overlapping almost entirely.
@@ -1228,6 +1329,7 @@ All five describe something deliberately kept out of open view, and all but one 
 > **On the exam:** The GRE cues these by the noun, not the definition — operation/network vs. glance vs. motive — and plants **furtive** where someone was *observed*, since it's the only one that requires a witness.
 
 
+<a id="meaning__hinting-rather-than-stating"></a>
 ### Hinting rather than stating
 
 All four get something across without putting it into words. The content arrives sideways — pointed at, gestured toward, or stirred up in the listener — and the audience has to complete the meaning. The differences are what gets conveyed (a specific referent vs. a private intention vs. a mood), and whether we're describing a single act or a whole style.
@@ -1240,6 +1342,7 @@ All four get something across without putting it into words. The content arrives
 > **On the exam:** Traps swap **allude** for **evoke** where the blank needs a nameable referent (a poet alludes to Homer; a smell only evokes), and dangle *elusive*/*illusive* beside **allusive**.
 
 
+<a id="meaning__hold-in-check"></a>
 ### Hold in check
 
 All of these mean restraint that stops short of abolition: the thing still exists, still pushes, still runs — just not at full strength or full extent. None of them destroys, bans, or eradicates, which is the single fact the whole group turns on. What separates them is *who or what does the holding* (an outside authority, an internal drag, an opposing force, your own hand on the reins) and *along which dimension the thing shrinks* — its rate, its duration, its permitted perimeter, or its forward motion.
@@ -1254,6 +1357,7 @@ All of these mean restraint that stops short of abolition: the thing still exist
 > **On the exam:** The trap answers are *abolish, quash, eradicate, suppress* — none of these six ends the thing — and the tested senses are the buried ones: **check** never means "examine," and **bridle at** means to take offence, not to control.
 
 
+<a id="meaning__hold-yourself-back"></a>
 ### Hold Yourself Back
 
 All four describe **voluntary restraint**: the thing was available, you could have had it or done it, and you chose not to. None of them mean deprivation, failure, or inability — that's the trap. They differ on three axes: *what the object is* (a habit, a specific perk, a whole category, an act of retaliation), *how long it lasts* (one moment or a standing policy), and *whether anyone else is on the receiving end*.
@@ -1266,6 +1370,7 @@ All four describe **voluntary restraint**: the thing was available, you could ha
 > **On the exam:** The GRE leans on object type — a category noun (violence, jargon) wants *eschew*, a named perk wants *forgo*, a habit wants *abstain*, and an aggrieved party in the sentence is the tell for *forbear*; watch too for *forego* ("go before") baited against *forgo*.
 
 
+<a id="meaning__enduring-courage"></a>
 ### Holding firm: endurance, resolve, restraint
 
 All of these praise someone for not giving way under pressure — the pressure stays on, and the person doesn't move. What separates them is *what* is being held: the capacity to absorb suffering, the composure shown on the face, a decision already taken, a bond or position, or the impulse to retaliate. They are also different parts of speech doing different jobs — a virtue you possess, a manner you display, a stance you hold, an action you decline — which is exactly what a sentence's grammar and clues will test.
@@ -1279,6 +1384,7 @@ All of these praise someone for not giving way under pressure — the pressure s
 > **On the exam:** The trap is slotting an endurance word where the sentence actually rewards restraint (or vice versa) — check whether the blank absorbs a blow or declines to strike one, and whether the clue is about visible composure (stoic) or an unmoved commitment (steadfast/resolute).
 
 
+<a id="meaning__holds-up-under-stress"></a>
 ### Holds up under stress
 
 All five are verdicts on something that pressure has failed to destroy — a structure, a system, an argument, a person. They split on *when* in the story you're looking: before the blow (built without flaws), during it (still functioning), after it (recovered), or across decades of them (still here). They also split on what they attach to — materials and systems, people and their loyalties, or the force doing the pushing.
@@ -1292,6 +1398,7 @@ All five are verdicts on something that pressure has failed to destroy — a str
 > **On the exam:** The classic traps: **sound**'s verb sense (to measure depth / probe cautiously — *sound out a colleague*), and swapping **robust** for **resilient** in sentence completions where the clue word is *rebounded*, *recovered*, or *bounced back*, which only *resilient* earns.
 
 
+<a id="meaning__holds-you-spellbound"></a>
 ### Holds you spellbound
 
 Every word here describes something that takes your attention rather than asking for it. The power sits in the object, not in you: you don't decide to keep looking, you find that you already are. They split on three questions — how long the hold lasts, whether the thing wants something from you, and whether you actually get what it's promising.
@@ -1305,6 +1412,7 @@ Every word here describes something that takes your attention rather than asking
 > **On the exam:** The GRE tests the conditions, not the pleasure: pick **tantalizing** only if the sentence supplies something unattained, **beguile** only if it supplies a motive or a lowered guard, and **arresting** only if the effect is a sudden halt rather than a lasting hold.
 
 
+<a id="meaning__wishing-you-harm"></a>
 ### Ill will: felt, spoken, savoured, spreading
 
 All four sit on the hostile end of human feeling — someone wants someone else damaged. They split on *where the harm lives*: in a person's settled character, in what comes out of their mouth, in the pleasure they take while it happens, or in the sheer toxic force of the hostility itself. Two describe a nature, one describes an act, one describes an intensity. Getting them right is a matter of asking what the adjective is actually attached to.
@@ -1317,6 +1425,7 @@ All four sit on the hostile end of human feeling — someone wants someone else 
 > **On the exam:** The GRE splits this group on grammar and target: malign is the odd verb (you malign a *person's reputation*), and virulent is the only one that can attach to a pathogen — a sentence about a fast-killing strain wants virulent, never malevolent.
 
 
+<a id="meaning__impossible-to-miss"></a>
 ### Impossible to miss
 
 All of these say a thing is in plain view — no digging, no inference, no benefit of the doubt. The split that matters is what the visibility is *about*: some words only report that something is showing (a fact, a manner, an object), while others add a verdict — that what's showing is a wrong, and that its being unhidden makes it worse. A second split runs underneath: whether concealment was ever an option. Words that presuppose a cover-up carry a charge the purely descriptive ones don't.
@@ -1331,6 +1440,7 @@ All of these say a thing is in plain view — no digging, no inference, no benef
 > **On the exam:** Sentence Equivalence baits you with a pair of condemning words (flagrant/egregious) when the sentence only supports visibility (manifest/conspicuous) — check whether the blank needs a wrong, or just a thing that shows.
 
 
+<a id="meaning__impossible-to-see-into"></a>
 ### Impossible to See Into
 
 All five say something stands between you and understanding — a text, a face, an institution, a liquid. What separates them is *what* does the blocking and how absolute it is: mere dimness, suspended murk, a solid surface, a sealed interior, or a perfectly visible exterior that still tells you nothing. Some also assign blame, implying the blockage was caused or chosen; others just report that the light isn't getting through.
@@ -1344,6 +1454,7 @@ All five say something stands between you and understanding — a text, a face, 
 > **On the exam:** The trap is reading them as interchangeable degrees of "unclear"; the correct answer is fixed by mechanism — sediment (**turbid**), a built barrier (**opaque**), no entrance (**impenetrable**), an unreadable face (**inscrutable**), plain dimness or low renown (**obscure**).
 
 
+<a id="meaning__inflated-empty-language"></a>
 ### Inflated, empty language
 
 All four accuse a gap between the show and the substance: the manner is inflated beyond anything it is carrying. Each is an insult, none is ever self-applied, and each is a verdict on style rather than on facts — the speaker isn't lying, he's swollen. What separates them is *what* is inflated (a voice, a page, a whole personality, a claim to taste) and *how the accusation lands on the audience* (deafened, bored, amused, or unconvinced).
@@ -1356,6 +1467,7 @@ All four accuse a gap between the show and the substance: the manner is inflated
 > **On the exam:** The classic trap is **turgid** in its literal sense (a swollen river, engorged tissue) after you've filed it under "bad writing" — and pairing **pretentious** with prose when the sentence's real target is a person's taste or a restaurant's menu.
 
 
+<a id="meaning__it-actually-works"></a>
 ### It actually works
 
 All four praise something for producing a real effect rather than merely being attempted, intended, or impressive. The trap is that they praise different parts of the transaction: one rates the power packed into the cause, one rates whether the cure did its stated job, one rates the yield left behind by an activity, and one rates the benefit that arrived disguised as an unpleasant experience. On the exam they cluster because any of them can fill a blank glossed loosely as "worked" — the sentence's surrounding cues, not the gloss, decide which.
@@ -1368,6 +1480,7 @@ All four praise something for producing a real effect rather than merely being a
 > **On the exam:** The discriminating cue is contextual, not definitional: strength-per-dose language selects potent, a remedy meeting its stated aim selects efficacious, a meeting or inquiry with takeaways selects fruitful, and a concessive "though painful/humiliating" clause selects salutary.
 
 
+<a id="meaning__keeping-apart-from-people"></a>
 ### Keeping apart from people
 
 All five put distance between a person and everyone else, so any of them can fill a blank about someone who doesn't join in. What separates them is *what kind of thing* the distance is: a quiet temperament, a manner in the room, a physical address, a narrow mental horizon, or a verdict on the species. Two of them can be affectionate, two are accusations, and one isn't about feeling at all. Ordered here from mildest and most forgivable to harshest.
@@ -1381,6 +1494,7 @@ All five put distance between a person and everyone else, so any of them can fil
 > **On the exam:** The GRE's favorite trap is **insular** vs. the rest: when the sentence is about a field, community, or country that has stopped looking outward, only **insular** works — the others need a single person with a mood; and it swaps **aloof** for **retiring** where the clue distinguishes coldness from modesty.
 
 
+<a id="meaning__deeply-learned"></a>
 ### Kinds of Smart: Learned, Broad, Retentive, Analytical
 
 All four are ways of calling someone intellectually impressive, and they split along axes English keeps blurring: where the knowledge came from, how wide it spreads, whether it can be recalled or actually used, and whether we're praising a stockpile of knowledge or a style of thinking at all. Three describe what a mind contains; one describes how it operates. Each carries its own built-in reservation — dustiness, hyperbole, flatness, coldness — so the compliment is never quite unmixed.
@@ -1393,6 +1507,7 @@ All four are ways of calling someone intellectually impressive, and they split a
 > **On the exam:** The exam swaps the axes: a sentence about recall gets **erudite** as a trap (that's depth-from-books, not retrieval), and a sentence about a cool, analytical style gets **encyclopedic** or **erudite** as bait — but **cerebral** is about *how* one thinks, not *what* one has stored.
 
 
+<a id="meaning__lasting-only-a-moment"></a>
 ### Lasting only a moment
 
 All five say a thing does not last. What separates them is *which* aspect of not-lasting they point at — total lifespan, the act of fading, the fact of passing through, impermanence as an inherent property, or sheer instantaneous brevity — and what the speaker's tone reveals. Half this family is lyrical and admiring; the other half is flat and technical. Choosing wrongly doesn't produce a false statement, it produces a false *register*: a clinical word laid over a sunset, or a wistful word laid over a voltage spike.
@@ -1406,6 +1521,7 @@ All five say a thing does not last. What separates them is *which* aspect of not
 > **On the exam:** Sentence Equivalence pairs these off by register, not definition — the correct pair is the two words whose tone fits the sentence's voice (a lab report takes *transient*, an elegy takes *evanescent*), so read the surrounding diction, not just the time span.
 
 
+<a id="meaning__lavish-giving"></a>
 ### Lavish giving: munificence, largesse, and doing good
 
 All five hover around giving on a generous scale, usually from someone who has to someone who hasn't. But they split on three separate axes: whether the word measures the **size of the gift** or the **goodness of the giver**; whether it reports an **action already taken** or merely a **kindly disposition**; and whether it stays admiring or curdles into sarcasm about the person receiving. Most are formal, most carry a faint drop in altitude from giver to recipient, and one of them is a noun — which is how the exam separates people who half-know them.
@@ -1419,6 +1535,7 @@ All five hover around giving on a generous scale, usually from someone who has t
 > **On the exam:** The classic trap is **beneficent** (deed done) vs **benevolent** (intent only) — and, one step out, *beneficial*, which describes helpful things, not helpful people. Watch part of speech too: **largesse** is the only noun in the set, so a blank taking an adjective rules it out on sight.
 
 
+<a id="meaning__leaving-nothing-out"></a>
 ### Leaving nothing out
 
 All four say the coverage is complete — no gap, no omission, nothing left outside. What separates them is *what* is being covered and *who* gets the credit: a job done without shortcuts, a set of possibilities finished off, a head full of retrievable facts, or an abstraction so wide it has no edges. They also differ in whether completeness is a virtue or a symptom; the same quality that praises a search can indict a novel or an obsession.
@@ -1431,6 +1548,7 @@ All four say the coverage is complete — no gap, no omission, nothing left outs
 > **On the exam:** The GRE tests charge, not coverage: a blank whose clause faults a work for having no argument or no selectivity wants **encyclopedic**, not the flatly complimentary **thorough**/**exhaustive** — and watch for **exhaustive** (nothing omitted) swapped for *exhausting* (nothing left in you).
 
 
+<a id="meaning__left-over-from-before"></a>
 ### Left Over From Before
 
 All three describe something that is still here after most of the whole has gone — a survivor of some process of loss, decay, removal, or extinction. Each looks backwards and quietly implies an absent majority. They split on what they claim about the survivor: whether it still works, how much of it there is, and whether the rest was destroyed or merely used up.
@@ -1442,6 +1560,7 @@ All three describe something that is still here after most of the whole has gone
 > **On the exam:** The test swaps in **vestigial** where the sentence only claims survival, not uselessness — check whether the sentence actually says the thing stopped doing its job before you accept it.
 
 
+<a id="meaning__liable-to-collapse"></a>
 ### Liable to collapse
 
 All of these describe trouble that hasn't happened yet. The structure is still standing, the deal is still on, the argument still stands up — but the support is thin, the stakes are high, and nothing guarantees the next moment. They differ in *what* is unstable: the size of the harm, the balance of the position, the strength of the connection, the atmosphere in the room, or who caused the exposure.
@@ -1455,6 +1574,7 @@ All of these describe trouble that hasn't happened yet. The structure is still s
 > **On the exam:** Sentence equivalence loves the precarious/tenuous swap — ask whether the sentence is about a *position* that could fall (precarious) or a *link* that could snap (tenuous); and remember *fraught* usually needs "with," while *jeopardize* is the group's only verb.
 
 
+<a id="meaning__lifted-with-joy"></a>
 ### Lifted with joy
 
 All four describe happiness that has been raised above the ordinary — a lift, not contentment. They differ on three axes: whether the word sits on the *person* or on the *thing that caused it*, whether the joy stays inside or spills out where everyone can see it, and how much doubt the word smuggles in about whether the feeling is proportionate or durable. Miss those axes and they look interchangeable; track them and only one fits any given sentence.
@@ -1467,6 +1587,7 @@ All four describe happiness that has been raised above the ordinary — a lift, 
 > **On the exam:** Sentence-equivalence traps hinge on placement: if the blank sits on an event or experience, only **exhilarating** works; if it sits on outward manner an observer can see, only **ebullient** does — and **euphoric** is planted where the context hints the high is unearned or doomed.
 
 
+<a id="meaning__long-angry-speech"></a>
 ### Long angry speech
 
 All four describe language used as a weapon over an extended stretch — an attack that keeps going well past the point of proportion. Each implies the speaker or writer has abandoned balance, and all but one are labels applied from outside, by someone who disliked being on the receiving end. What separates them is *what* the excess consists of: raw temper, accumulated bitterness, moralising at a trapped audience, or deliberate one-sidedness by design.
@@ -1479,6 +1600,7 @@ All four describe language used as a weapon over an extended stretch — an atta
 > **On the exam:** The trap is treating them as interchangeable synonyms for "rant": watch for the captive audience (harangue), deliberate design rather than lost temper (polemical), and remember only polemical can carry a neutral or approving charge.
 
 
+<a id="meaning__looking-down-on-others"></a>
 ### Looking down on others: bearing, command, doctrine, and condescension
 
 All four words describe superiority aimed downward — the assumption that other people rank below you, and the ways that assumption leaks out. What separates them is the channel it travels through: silent bearing, issued orders, a stated belief about who deserves power, or a kindly-sounding remark. Two are pure manner, one is doctrine, and one is a transaction between two specific people. Only one of them has a fully innocent second life.
@@ -1491,6 +1613,7 @@ All four words describe superiority aimed downward — the assumption that other
 > **On the exam:** The trap is *patronize*: the GRE loves its neutral "be a customer of / sponsor" sense in sentences whose surrounding words all hint at snobbery — and it separates *haughty* (a look) from *imperious* (an order) by whether the sentence contains a demand.
 
 
+<a id="meaning__cold-contempt"></a>
 ### Looking down: from private verdict to open rejection
 
 All four rest on the same judgment: that something or someone is worthless, unserious, beneath the person doing the judging. What separates them is how far that judgment travels — whether it stays a feeling, shows on the face, gets said out loud, or becomes an act done to someone. Because they all look downward, every one of them says something about the arrogance of the person feeling it, not just the thing dismissed.
@@ -1503,6 +1626,7 @@ All four rest on the same judgment: that something or someone is worthless, unse
 > **On the exam:** Sentence-equivalence traps hinge on whether the blank names a feeling (contempt, disdain) or an action done to an offer (spurn) — and on tone: disdain is silent and cold where scorn is public and loud, so the two are rarely interchangeable despite near-identical glosses.
 
 
+<a id="meaning__loud-public-praise"></a>
 ### Loud public praise — and who's doing the praising
 
 All five involve praise that happens in public, before an audience, rather than a private compliment. What separates them is the *source* and the *motive*: whether the praise comes from a crowd, an authority, an orator, or a salesman — and whether the reader is meant to trust it. Two of these are clean approval; two arrive with a raised eyebrow; one is neutral machinery for delivering either. They also differ in what they attach to: a work, a decision, a virtue, or a person.
@@ -1516,6 +1640,7 @@ All five involve praise that happens in public, before an audience, rather than 
 > **On the exam:** The exam splits this group on motive and source: sentence-completion contexts with "but," "self-interested," or "unproven" want **tout** or **lionize**, while a context naming an institution or authority wants **approbation** — and it will bait you with **opprobrium**, which looks like approbation but means the opposite.
 
 
+<a id="meaning__loudly-insistent"></a>
 ### Loudly insistent
 
 All four describe noise that a bystander can't tune out — sustained, unruly, socially disruptive volume rather than a single loud sound. What separates them is what the noise is *for*: pressing a demand, voicing an objection, defying authority, or simply enjoying itself. Three of the four carry a hint of the speaker's disapproval; one is warm. Getting them right means asking who is making the noise, how many of them there are, and what they want.
@@ -1528,6 +1653,7 @@ All four describe noise that a bystander can't tune out — sustained, unruly, s
 > **On the exam:** The trap is tone and target: GRE contexts supply a cheerful scene (a wedding, a pub) where only **boisterous** fits, or a defiance-of-authority scene where **obstreperous** is right and **vociferous**/**clamorous** — which need something demanded or argued — are wrong.
 
 
+<a id="meaning__low-and-contemptible"></a>
 ### Low and contemptible
 
 All three place something at the bottom — beneath dignity, beneath what a decent person or a tolerable life should be. Each carries the speaker's contempt, and each is formal enough to sound like a verdict rather than an insult. They split on *what* has sunk: the motive behind an act, the tawdry texture of the whole business, or the condition a person has been reduced to.
@@ -1539,6 +1665,7 @@ All three place something at the bottom — beneath dignity, beneath what a dece
 > **On the exam:** The trap is treating **abject** as a moral-blame word like the other two — *abject poverty* accuses nobody, while *base* and *sordid* always assign fault.
 
 
+<a id="meaning__lucky-and-well-timed"></a>
 ### Lucky and well-timed
 
 All five sit at the intersection of luck and timing: something has fallen the right way, and nobody quite arranged it. They split on two axes. First, **tense** — does the word forecast (the conditions look good, nothing has been tried yet) or report (it already happened)? Second, **agency** — was it pure chance, or does the good fortune look designed? Get those two questions right and the group untangles.
@@ -1552,6 +1679,7 @@ All five sit at the intersection of luck and timing: something has fallen the ri
 > **On the exam:** The classic traps are tense and valence: a sentence describing conditions *before* an attempt rejects **providential**, and one that requires a good outcome rejects **fortuitous**, which only guarantees the absence of a plan.
 
 
+<a id="meaning__let-out-what-was-hidden"></a>
 ### Made Known: Disclosed, Let Slip, or Duly Told
 
 All three move information from someone who has it to someone who doesn't, and all three are formal enough to look interchangeable in a sentence about disclosure. What separates them is two questions: was the information under a seal, and did the discloser mean to release it? One requires a secret broken on purpose, one requires a secret escaping against the owner's will, and one requires no secret at all — only an obligation to inform.
@@ -1563,6 +1691,7 @@ All three move information from someone who has it to someone who doesn't, and a
 > **On the exam:** The GRE stacks these as look-alike "disclose" options and decides the question on whether the passage says the information was confidential and whether the release was willed — check for a seal and for intent before picking.
 
 
+<a id="meaning__made-up-on-the-spot"></a>
 ### Made Up on the Spot
 
 All of these describe something produced without a plan — no script, no design, no proper materials — and judged against the prepared, principled version that should have existed instead. The confusion is that they split along three different axes at once: whether it's an act or a thing, whether the absence was of *preparation* or of *principle*, and whether the speaker admires the resourcefulness or is quietly filing a complaint. Two of them can be outright compliments; one is nearly always an indictment.
@@ -1576,6 +1705,7 @@ All of these describe something produced without a plan — no script, no design
 > **On the exam:** The trap is the pivot word: if the sentence contrasts with *planned* or *rehearsed*, you want improvise/extemporize/ad hoc; if it contrasts with *principled*, *honest*, or *right*, only **expedient** fits — and **extemporize** is wrong unless someone is performing in front of people.
 
 
+<a id="meaning__make-a-bad-thing-worse"></a>
 ### Make a bad thing worse
 
 All four take a situation that is *already* bad and describe it getting worse — none of them can start from neutral. They split on **mechanism and blame**: whether the worsening comes from an outside force acting on the problem, from a second act piled on top of it, from the problem's own step-by-step momentum, or from nobody touching it at all. The GRE tests exactly that split, because the sentence always tells you *how* the deterioration happened even when it doesn't say so outright.
@@ -1588,6 +1718,7 @@ All four take a situation that is *already* bad and describe it getting worse �
 > **On the exam:** Sentence-equivalence sets bait the plain intensifiers: if the clue is a second act, the answer is **compound**; if it's untouched-for-years, **fester**; if it's stage-by-stage escalation between parties, only **escalate** fits — **exacerbate** is the safe-looking wrong answer in all three.
 
 
+<a id="meaning__meaning-carried-by-figure"></a>
 ### Meaning Carried by Figure: Saying One Thing to Mean Another
 
 All of these describe language (or images) whose surface wording is not the intended content — the audience has to translate to get the real referent. What separates them is the machinery of the swap and the motive behind it: how wide the category is, whether the substitution is a single comparison or a whole coded system, and whether the indirection is meant to enrich the picture or to blur it. Three are classifying labels for a mode of expression; one is the name of an act with an agenda.
@@ -1600,6 +1731,7 @@ All of these describe language (or images) whose surface wording is not the inte
 > **On the exam:** The trap is scope and motive: **metaphorical** is one comparison, **allegorical** is a whole keyed system, **figurative** is the umbrella that also flips meaning in an art context — and **euphemism** is the only one where identifying it accuses the speaker.
 
 
+<a id="meaning__meant-to-improve-you-morally"></a>
 ### Meant to improve you morally
 
 All three involve one party working on another for their own good — an improving intent aimed at someone's character, morals, or conduct. Each carries a faint whiff of the pulpit, and each can curdle into condescension. They split on what the improver is actually doing: describing the *manner* of the teaching, naming the *effect* on the person taught, or applying *pressure* toward an act.
@@ -1611,6 +1743,7 @@ All three involve one party working on another for their own good — an improvi
 > **On the exam:** The classic trap is sliding **exhort** into a slot about content: if the sentence is about what someone is *taught*, it wants didactic or edify — exhort only fits when someone is being pushed to *do* something.
 
 
+<a id="meaning__merge-into-one"></a>
 ### Merge into one — and the one that only crowds
 
 All four describe separate things ending up together, and on a quick read they look interchangeable in a sentence like "the factions ___." The differences are structural, not stylistic: whether an outside agent does the joining or it happens on its own, whether the parts genuinely fuse or merely sit under one heading, and — in one case — whether anything joins at all rather than simply crowding close. Pick wrong and the sentence still scans, which is exactly the trap.
@@ -1623,6 +1756,7 @@ All four describe separate things ending up together, and on a quick read they l
 > **On the exam:** The GRE tests agency and structure, not meaning: it offers **coalesce** where the sentence has a subject doing the joining (needs *amalgamate*/*merge*), **amalgamate** where the merger is between unequals (needs *subsume*), and **cluster** wherever fusion is actually required.
 
 
+<a id="meaning__mocking-ridicule"></a>
 ### Mockery: from contempt to affection
 
 All five involve making someone or something look ridiculous — holding a target up so an audience laughs at it. What separates them is the machinery: whether the ridicule is an attitude or a technique, whether it lives in a published work or in a spoken remark, whether the goal is to correct, to humiliate, or simply to enjoy each other's company. They also split hard on warmth: most of this group is hostile, but not all of it.
@@ -1636,6 +1770,7 @@ All five involve making someone or something look ridiculous — holding a targe
 > **On the exam:** The trap is connotation: raillery looks like a hostile word and is scored as a friendly one, and satirical vs. caricature turns on whether the sentence stresses a moral point or a distorted exaggeration.
 
 
+<a id="meaning__settled-moral-corruption"></a>
 ### Moral Rot: Depth, Cheapness, and Decline
 
 All four describe corruption as a **condition** rather than a single wrong act — something has gone bad and stayed bad, in a person, a scandal, or a whole culture. They diverge on three axes: how deep the rot goes, who is authorised to say it, and what the rot is made of (cruelty, disgrace, luxury, or cheapness). Two are character verdicts, one is a legal test, one is a diagnosis of decline. Swapping them changes not just the severity but the speaker.
@@ -1648,6 +1783,7 @@ All four describe corruption as a **condition** rather than a single wrong act �
 > **On the exam:** The trap is scale and speaker: a bribes-and-hotel-receipts scandal is **sordid**, not **depraved**; a late empire is **decadent**, not guilty of **turpitude** — and if the passage isn't a statute or a disqualification hearing, **turpitude** is the wrong answer.
 
 
+<a id="meaning__more-than-is-needed"></a>
 ### More Than Is Needed: Five Kinds of Too Much
 
 All five mark a quantity that has passed the line of what was required — and all five carry a complaint about it. What separates them is *which* line got crossed and *who* gets blamed. Some measure count (one item too many), some measure duplication (this item already exists), some measure magnitude (the number is too big), some measure warrant (nothing called for this at all), and one measures the effect on the person on the receiving end. Substituting one for another usually swaps the accusation for a different accusation entirely.
@@ -1661,6 +1797,7 @@ All five mark a quantity that has passed the line of what was required — and a
 > **On the exam:** The trap is superfluous vs. redundant: pick **redundant** only when the passage points at duplication, otherwise **superfluous**; and expect at least one item where **gratuitous** means "free of charge," not "uncalled for."
 
 
+<a id="meaning__moving-far-too-slowly"></a>
 ### Moving far too slowly
 
 All four mark a pace below what the situation demands, and all four are complaints — nobody uses them to praise. The split is in what gets blamed for the slowness: a will that won't act, attention that drifts, a heaviness with no spark, or an engine running low on power. So the deciding question is never *how slow* but *why slow, and who is at fault* — and whether the thing being described even has a will to blame.
@@ -1673,6 +1810,7 @@ All four mark a pace below what the situation demands, and all four are complain
 > **On the exam:** The trap is animacy and intent: sentences about markets, circulation, or engines rule out **dilatory** and **dawdle** entirely, while any context naming deliberate stalling rules out **sluggish**.
 
 
+<a id="meaning__multiply-fast"></a>
 ### Multiply fast
 
 All four describe something increasing quickly and under its own momentum — not nudged up by an outside hand, but feeding on itself. The splits are three: **what** increases (the size of one thing, the number of copies, or the seriousness of a situation), **by what mechanism** (organic growth, self-copying, transmission down a chain, or provocation up a ladder), and **how the speaker feels about it**. Get the mechanism right and the connotation follows almost automatically.
@@ -1685,6 +1823,7 @@ All four describe something increasing quickly and under its own momentum — no
 > **On the exam:** Classic trap: the sentence describes a bad thing growing, and **burgeon** is offered — but burgeon needs a healthy subject; if the sentence is about number, take **proliferate**, and if it's about severity climbing step by step, take **escalate**.
 
 
+<a id="meaning__narrow-in-outlook"></a>
 ### Narrow in Outlook: Horizons That Stop Too Soon
 
 Each of these accuses someone of a horizon that ends too early — the charge is limited range, not limited intelligence, and all of them can be levelled at a person who is perfectly sharp inside their own boundary. All are negative, and all are spoken from a position of assumed width, so each says something about the speaker's vantage as well as the target's limits. What separates them is *where the boundary sits*: at the edge of a parish, at the edge of the capital's influence, at the water's edge, at the end of the current quarter, or at the door of the art gallery.
@@ -1698,6 +1837,7 @@ Each of these accuses someone of a horizon that ends too early — the charge is
 > **On the exam:** The choices differ by axis, not by strength: the context sentence must tell you whether the boundary is spatial (**parochial**, **provincial**, **insular**), temporal (**myopic**), or a matter of taste (**philistine**) — so look for "long-term consequences" or "the arts" before you look for "narrow."
 
 
+<a id="meaning__cannot-be-done-without"></a>
 ### Necessary: the thing, the act, the pressure
 
 All three say *this cannot be skipped*, but they hang that necessity on different objects. One rates a component or a person by what happens if you remove it; one rates an action by whether you are permitted to decline it; one rates a situation by how hard it is pressing on you right now. Swap them and you get sentences that are grammatical but off-key — a crisis is not "indispensable," a spare part is not "exigent."
@@ -1709,6 +1849,7 @@ All three say *this cannot be skipped*, but they hang that necessity on differen
 > **On the exam:** The trap is the object, not the strength: check whether the blank modifies a component (indispensable), a course of action (imperative), or circumstances bearing down on you (exigent).
 
 
+<a id="meaning__bone-deep-weariness"></a>
 ### No energy left — body, mood, or interest
 
 All five describe a person (or a market, or an afternoon) running on empty: movement is slow, effort feels impossible, and the spirit is as flat as the body. They differ on three axes — **what drained you** (long effort, illness, or nothing at all), **who's speaking** (a doctor, a novelist, or a self-dramatizing narrator), and **whether the emptiness is of energy or of interest**. Several are unflattering; one is a symptom you could put in a chart; one is very nearly a compliment.
@@ -1722,6 +1863,7 @@ All five describe a person (or a market, or an afternoon) running on empty: move
 > **On the exam:** The trap is a sentence about a bored aristocrat or a dull existence, where **lethargic** or **lassitude** feel close but only **ennui** answers "empty of interest, not energy" — and conversely, a positive or aesthetic context ("she crossed the room with a ___ grace") rules out everything but **languid**.
 
 
+<a id="meaning__not-caring-either-way"></a>
 ### Not Caring Either Way
 
 All four sit in the dead zone between enthusiasm and opposition: no heat in either direction. None of them means dislike — dislike is engagement, and that's precisely what's missing here. What separates them is *what* the absence of caring is being predicted of: an inner void, a chronic condition, the temperature of a specific response, or the look on someone's face.
@@ -1734,6 +1876,7 @@ All four sit in the dead zone between enthusiasm and opposition: no heat in eith
 > **On the exam:** The trap is depth: GRE sentences that describe a *reaction* (applause, a review, an endorsement) want **tepid**, but bait you with **apathetic/indifferent**, which describe the person; and a sentence about visible composure wants **nonchalant**, not a claim about inner feeling.
 
 
+<a id="meaning__not-enough-of-it"></a>
 ### Not enough of it
 
 All five say the same basic thing: there is some, but not enough. What separates them is what part of speech they occupy, what the shortfall is measured against, and whether the speaker is complaining. Some name the shortage itself, some modify the meagre thing, and one delivers a verdict after the thing has been weighed. Only one of the five is neutral about it.
@@ -1747,6 +1890,7 @@ All five say the same basic thing: there is some, but not enough. What separates
 > **On the exam:** The trap is treating them as interchangeable degrees of \"a bit less\" — the GRE actually keys on slot and stance: **sparse** is the neutral one, **wanting** must follow the verb, **dearth** must be a noun with *of*, and **paltry** vs **scant** turns on whether the sneer is at the amount's worth or at the effort behind it.
 
 
+<a id="meaning__not-original"></a>
 ### Not Original
 
 All four say a work contains nothing invented — the substance came from outside the maker. What splits them is *what it came from*: one prior model, a style deliberately put on, a phrase used to death by everybody, or simply the way things are normally done. They also differ sharply in heat: two are usable as flat description, one can be outright praise, one is always a sneer.
@@ -1759,6 +1903,7 @@ All four say a work contains nothing invented — the substance came from outsid
 > **On the exam:** The trap is polarity: only *hackneyed* is reliably pejorative, so a sentence whose surrounding clues are neutral or admiring rules it out and points to *conventional*, *derivative*, or *pastiche*.
 
 
+<a id="meaning__not-to-be-trusted"></a>
 ### Not to Be Trusted
 
 All four flag something that fails inspection: a claim, a document, a set of figures, a person's motives. They differ on two axes. First, **certainty**: two of them only raise an eyebrow — the verdict is pending — while two deliver the verdict outright. Second, **what has gone wrong**: whether the thing merely attracts doubt, or whether it has no legitimate basis, or whether it has a legitimate-looking surface over rotten reasoning.
@@ -1771,6 +1916,7 @@ All four flag something that fails inspection: a claim, a document, a set of fig
 > **On the exam:** The classic trap is swapping **spurious** and **specious**: spurious = no basis (bad pedigree), specious = plausible basis that fails (bad logic that looks good) — and only **specious** requires the thing to be superficially persuasive.
 
 
+<a id="meaning__not-worth-bothering-about"></a>
 ### Not worth bothering about
 
 All four are dismissals dressed as descriptions: each says a thing lacks enough size, weight, or seriousness to deserve your attention, and each passes judgement while pretending to measure. The differences lie in *what* is being denied — sheer quantity, importance, adequacy, or seriousness of purpose — and in who takes the blame. Two of them can also be turned on a person, where "small" becomes "unreliable."
@@ -1783,6 +1929,7 @@ All four are dismissals dressed as descriptions: each says a thing lacks enough 
 > **On the exam:** The GRE separates them by target: money and offers want **paltry**, objections and details want **trivial**, lawsuits and spending want **frivolous** — and it will bait you with **trivial** where the sentence is actually complaining that an amount fell short.
 
 
+<a id="meaning__obscure-to-all-but-specialists"></a>
 ### Obscure to all but specialists
 
 All four say the same surface thing: hardly anyone can follow this. They split on *why* almost nobody can. Two locate the barrier in the material — it is simply too deep to penetrate without training. The other two locate it in membership — the knowledge is held by a closed circle, and you are not in it. A second axis runs underneath: whether the speaker is impressed by the depth or annoyed that the thing was ever allowed to get this opaque.
@@ -1795,6 +1942,7 @@ All four say the same surface thing: hardly anyone can follow this. They split o
 > **On the exam:** Look for what the sentence supplies: a mention of initiates, a guild, or a closed circle points to esoteric/arcane, while depth, training, or scholarship points to abstruse/recondite — and if the tone is a complaint about bad writing, it's abstruse, not recondite.
 
 
+<a id="meaning__off-the-expected-pattern"></a>
 ### Off the expected pattern
 
 All four words describe something that fails to match what was expected — a norm, a model, a plan, a starting point. Each needs an implied reference line, and the interesting question is always what that line is and whether leaving it counts as a fault. They split on two axes: whether a judgement is being passed, and whether the reference is a standard you fell short of or a companion you drifted away from.
@@ -1807,6 +1955,7 @@ All four words describe something that fails to match what was expected — a no
 > **On the exam:** The GRE trades on connotation here: a sentence with "merely," "not necessarily wrong," or "yet to be explained" wants **anomalous**, while one with "troubling," "symptom," or "disciplinary" wants **aberrant** — and **divergent** is the trap answer whenever no shared origin is present.
 
 
+<a id="meaning__off-the-point"></a>
 ### Off the point
 
 All five push something away from the main point, but they disagree about whether it was ever connected in the first place. At one end sits material that came from outside and never belonged; at the other, material that genuinely arose from the main event and still gets waved off. In between are things that touch the subject once and leave, or sit at its edge. Most of them are demotions rather than refutations — they don't say *wrong*, they say *not what we're doing* — which is why they're the preferred weapons of editors, lawyers and academics.
@@ -1820,6 +1969,7 @@ All five push something away from the main point, but they disagree about whethe
 > **On the exam:** The trap is treating these as interchangeable synonyms for "irrelevant" — sentence completions hinge on the connection axis: **extraneous** requires an outside source, **incidental** requires the thing to arise from the main event, and only **digression** is a countable stretch of talk rather than a judgment.
 
 
+<a id="meaning__wandering-off-the-subject"></a>
 ### Off the point — or just going on too long
 
 All four describe talk or writing that gives a subject more room than the listener wanted. Two axes are tangled here: **direction** (does the speaker leave the main road?) and **duration** (does the speaker stay on it too long?). Most of these words criticize, but each aims at something different — the shape of the detour, the tedium of the drift, the relevance of the remark, or the sheer volume of words. Confusing them means mistaking a length complaint for a relevance complaint.
@@ -1832,6 +1982,7 @@ All four describe talk or writing that gives a subject more room than the listen
 > **On the exam:** The trap is **expatiate**: it belongs to length, not wandering, so any answer treating it as \"stray off-topic\" is wrong — and **tangential** grades relevance where the other three grade duration.
 
 
+<a id="meaning__offending-against-good-form"></a>
 ### Offending against good form
 
 All four condemn something said or done that shouldn't have been — and none of them condemns it as *wrong*. No one is harmed, no law or moral rule is broken; what's been violated is an unwritten code about how a person in that position, on that occasion, ought to behave. The speaker is judging form, polish, or calculation, which is why every one of these words is cooler and more fastidious than *rude* or *disgraceful*. The differences lie in which code was broken and who pays for breaking it.
@@ -1844,6 +1995,7 @@ All four condemn something said or done that shouldn't have been — and none of
 > **On the exam:** **Impolitic** is the trap: it sits among manners words but means *badly judged*, and the classic stem describes someone scrupulously polite who still wrecked his own position — where *unseemly* or *gauche* would be wrong.
 
 
+<a id="meaning__on-watchful-guard"></a>
 ### On watchful guard
 
 All four describe a guard that hasn't been lowered — attention held because something might go wrong. They split on four axes: what the watching is pointed at (a specific party, a general threat, your own next move, nothing in particular), whether it's sustained or a reflex, whether it stops you acting, and whether the speaker admires you for it or is quietly mocking you. Two are compliments, one is neutral, one is a put-down.
@@ -1856,6 +2008,7 @@ All four describe a guard that hasn't been lowered — attention held because so
 > **On the exam:** Sentence equivalence loves pairing **wary** with **circumspect** — check whether the caution is pointed outward at a suspect thing or inward at your own next move; and check the sentence's tone, since **skittish** sneers where **vigilant** praises.
 
 
+<a id="meaning__one-stands-in-for-another"></a>
 ### One stands in for another
 
 Every word here covers the case where one thing occupies the place of another and the arrangement still works. The split that matters is symmetry. Two of them describe **mutual** substitutability — a pool of equivalents where no member is the original and swapping runs in either direction. The other two describe **one-way** substitution — there is a specific absent original, and the stand-in is measured against it.
@@ -1868,6 +2021,7 @@ Every word here covers the case where one thing occupies the place of another an
 > **On the exam:** The trap is symmetry: a sentence with a named original ("stood in for the senator") wants **surrogate**/**proxy**, while one about undifferentiated units wants **fungible**/**interchangeable** — and only **proxy** can mean an indirect measure.
 
 
+<a id="meaning__only-just-begun"></a>
 ### Only just begun
 
 All four describe something at the bottom of its development curve — present, but not yet the full version of itself. The confusion comes from the fact that "undeveloped" splits four ways: recently started, not yet shaped, inexperienced but functioning, or stuck at the bare minimum. Two of these are claims about time, one is a claim about form, and one is a verdict on quality. Getting the group right means asking what exactly is missing — the years, the shape, the experience, or the substance.
@@ -1880,6 +2034,7 @@ All four describe something at the bottom of its development curve — present, 
 > **On the exam:** The classic trap is swapping *nascent* for *inchoate* — one dates the thing, the other faults its shape; *rudimentary* is the distractor slipped into sentences about a permanently low level, not about starting out.
 
 
+<a id="meaning__overdecorated-style"></a>
 ### Overdecorated style
 
 All of these describe something built up out of added detail — decoration, flourishes, extra parts, extra clauses — and all of them raise the same question: was the addition earned? They sit on a sliding scale from neutral admiration for craft, through polite complaint, to open contempt for ornament that has swallowed the substance. The trap is that most of them can swing either way depending on what they attach to and who is speaking, and two of them carry a completely separate second sense the GRE prefers to test.
@@ -1893,6 +2048,7 @@ All of these describe something built up out of added detail — decoration, flo
 > **On the exam:** The GRE rarely tests the decorating sense head-on — it hides the answer in the second senses (**florid** = flushed face / fully manifest symptom, **embellish** = exaggerate a true account) and forces you to read whether the sentence's tone is admiring, neutral, or damning to choose among the rest.
 
 
+<a id="meaning__overstate-past-the-truth"></a>
 ### Overstate past the truth
 
 All four describe an account that has been pushed beyond what the facts support — the size inflated, the details enriched, the shape bent, the drama cranked up. They differ on three axes: whether anyone is meant to be fooled, whether the starting material is real, and whether the charge is aimed at the content or at the effect on the audience. Some are named rhetorical devices; others are accusations. Only one of them names a technique that is openly, harmlessly false.
@@ -1905,6 +2061,7 @@ All four describe an account that has been pushed beyond what the facts support 
 > **On the exam:** The trap is treating them as one intensity scale — **hyperbole** deceives nobody, **embellish** softens the charge, and **sensational** may be praise, so context words like *lurid*, *accurate*, or *literal* decide the answer.
 
 
+<a id="meaning__parading-your-own-virtue"></a>
 ### Parading your own virtue
 
 All four live in the gap between virtue displayed and virtue actually held. Each is a way of saying *the moral show exceeds the moral substance* — but they indict different things: the smug tone, the empty costing-nothing gesture, the person's failure to live their own rule, or the pose adopted purely for leverage. Three are pure accusations; one can still be a compliment. The trap is that they overlap heavily in bad-faith contexts and almost not at all in good-faith ones.
@@ -1917,6 +2074,7 @@ All four live in the gap between virtue displayed and virtue actually held. Each
 > **On the exam:** The classic bait is offering *hypocritical* when the sentence only establishes an insufferable tone (→ **sanctimonious**), or *sanctimonious* when the sentence establishes an empty gesture with no moral preaching (→ **posturing**); watch for **pious** in ironic pairings like *pious hope*, where the neutral gloss is the wrong reading.
 
 
+<a id="meaning__persistent-to-the-end"></a>
 ### Persistent to the End
 
 All of these describe someone who keeps going: effort sustained past the point where a normal person would stop, in the face of difficulty, tedium, or discouragement. They differ on three axes the GRE cares about. First, whether the speaker approves — most are praise, one is a complaint. Second, what the persistence pushes against: opposition and failure, physical tiredness, or the sheer grind of detail. Third, what the word attaches to — a person's character, a long campaign, or an inanimate nuisance that will not go away.
@@ -1930,6 +2088,7 @@ All of these describe someone who keeps going: effort sustained past the point w
 > **On the exam:** The trap is tonal: **pertinacious** looks like a fancy upgrade of *dogged* or *tenacious*, so it gets slotted into admiring sentences where only a negative word fits — check for a "though/regrettably" signal or an exasperated speaker before choosing it.
 
 
+<a id="meaning__plot-together"></a>
 ### Plotting together
 
 All of these describe people acting together on something they would rather not be seen doing: joint action plus concealment plus, usually, someone outside the arrangement who gets hurt by it. They differ on the shape of the partnership — equal partners in a plan, rivals with a quiet understanding, or a principal and the helper who eggs him on. They also differ on where the wrongdoing comes from: some carry it in the word itself, while others are perfectly innocent until the context (a war, a court, an occupied city) turns them.
@@ -1943,6 +2102,7 @@ All of these describe people acting together on something they would rather not 
 > **On the exam:** The GRE reaches for the buried sense — *collaborate* as treason, *intrigue* as plot — and tests collude vs. conspire on whether a plan existed: colluders need only an understanding between supposed rivals, conspirators need a scheme and a victim.
 
 
+<a id="meaning__poise-under-pressure"></a>
 ### Poise under pressure: inner calm vs. visible style
 
 All four describe not being rattled when the situation would rattle most people — the blow lands, and the person stays level. The pressure is built into every one of them: none is usable to describe someone merely relaxed on a quiet afternoon. What separates them is **where the steadiness lives** — inside the mind, in the fixed temperament, in the visible body, or in the style of the performance — and whether you are *enduring* something or *pulling something off*.
@@ -1955,6 +2115,7 @@ All four describe not being rattled when the situation would rattle most people 
 > **On the exam:** The classic swap is **equanimity** vs. **aplomb** in a "with ___" slot: if the sentence gives the person a hard thing to *do*, it's aplomb; if it gives them a hard thing to *receive*, it's equanimity — and if the blank is an adjective, only **imperturbable** fits at all.
 
 
+<a id="meaning__present-in-great-quantity"></a>
 ### Present in great quantity
 
 All four say *there is a lot of it* — enough that the quantity itself becomes the point worth remarking on. They split on three axes: what the quantity attaches to (a place teeming, a supply produced, a stream pouring, a magnitude observed), whether the amount is merely ample or has tipped past what's wanted, and whether the speaker is reporting or reacting. One is a verb and cannot be swapped in as a modifier at all.
@@ -1967,6 +2128,7 @@ All four say *there is a lot of it* — enough that the quantity itself becomes 
 > **On the exam:** Sentence equivalence loves pairing **copious** with **profuse** as if interchangeable — check whether the sentence signals excess or discomfort (profuse) or just generous supply (copious); and **prodigious** is a trap for \"amazingly large,\" not \"plentiful,\" so it fails wherever a countable supply is meant.
 
 
+<a id="meaning__prop-up-and-strengthen"></a>
 ### Prop up, add to, turn up
 
 All four take something that already exists and make it more — more solid, more numerous, more intense. None of them creates from scratch, and none of them is negative. The split inside the group is between **support** words (the object was wobbling and needed help standing) and **increase** words (the object was fine, you just added to it or turned it up). The second split is *what* gets added: reinforcement, quantity, or intensity.
@@ -1979,6 +2141,7 @@ All four take something that already exists and make it more — more solid, mor
 > **On the exam:** Sentence completions hinge on whether the sentence admits weakness: a blank after "though the evidence was thin" wants **bolster/buttress**, while a neutral "already substantial holdings" wants **augment** — and if the object is a signal, effect, or point being elaborated, it's **amplify**.
 
 
+<a id="meaning__provoked-anger"></a>
 ### Provoked anger: grievance and who it makes look bad
 
 All four describe anger that comes with a claim attached: someone was wronged, slighted, or treated unfairly, and the feeling is the response to that offence. None of them is raw temper — each presupposes a trigger and a grievance. They split on whose side of the offence you're standing on, how long the feeling lasts, and whether the writer thinks the grievance was worth having.
@@ -1991,6 +2154,7 @@ All four describe anger that comes with a claim attached: someone was wronged, s
 > **On the exam:** The trap is duration and sympathy: **indignant** is a hot public protest of unfairness while **resent** is cold and stored, and **umbrage** is the one that makes the offended party look petty — so a sentence endorsing the reaction as justified rules it out.
 
 
+<a id="meaning__publicly-take-back"></a>
 ### Publicly Taking It Back
 
 All four describe cutting yourself loose from something you were previously attached to, and doing it out loud, on the record, with witnesses. None of them works for a quiet change of heart — the break has to be *announced* to count. What separates them is the object of the break (a possession, a vow, a sentence you uttered, a bond you were party to), and whether you're stepping away by choice or being made to say the words.
@@ -2003,6 +2167,7 @@ All four describe cutting yourself loose from something you were previously atta
 > **On the exam:** The exam picks by object, not vibe: a prior *statement* wants recant; a prior *bond, debt, or person*, repudiate; an *oath*, abjure; a *possession or right surrendered*, renounce.
 
 
+<a id="meaning__push-to-the-edges"></a>
 ### Push to the edges
 
 All four locate something away from the centre — the edge of a society, an argument, a hierarchy, a movement — rather than destroying or denying it. Nothing here is banned or refuted; it is simply put somewhere it can be ignored. The differences are who does the pushing, what gets pushed, and whether the edge means powerless, demoted, secondary, or disreputable.
@@ -2015,6 +2180,7 @@ All four locate something away from the centre — the edge of a society, an arg
 > **On the exam:** Sentence-equivalence traps swap **relegate** for **marginalize** — but *relegate* wants an explicit agent and a *to*-destination, while *marginalize* wants a passive subject and no villain; and **peripheral** is the answer when the sentence grants the point exists, where *trivial* or *irrelevant* would overshoot.
 
 
+<a id="meaning__fake-a-feeling"></a>
 ### Putting It On: from a fake feeling to a fake institution
 
 All of these cover a gap between what is shown and what is real: a face, manner, stance, or form put on for an audience. None requires an outright factual lie — the deceit lives in presentation, not in statements, and in every case the speaker using the word is claiming to see through the performance. What separates them is *scope* and *grammar*: a single passing emotion, a whole concealed inner self, a small habitual mannerism, a public stance, or an entire institution going through empty motions.
@@ -2028,6 +2194,7 @@ All of these cover a gap between what is shown and what is real: a face, manner,
 > **On the exam:** The trap is direction and scope: a context about *hiding* a real feeling wants **dissemble**, not **feign** (which supplies a fake one), and a context about an empty institution wants **sham**, not **affectation** (a personal quirk) or **posturing** (an unbacked stance).
 
 
+<a id="meaning__quick-light-handed-skill"></a>
 ### Quick, light-handed skill
 
 All five praise skill of the quick, economical kind — competence that shows up as speed and ease rather than force, depth, or genius. The compliment is for *how* something is done: neatly, without visible strain, faster than the difficulty seemed to allow. They separate mainly by *where* the skill lives — in the fingers, in the whole body, in the talk, or in years of accumulated command — and by how warm the praise is.
@@ -2041,6 +2208,7 @@ All five praise skill of the quick, economical kind — competence that shows up
 > **On the exam:** The shared "quick and skilful" gloss is the trap: sort by domain (fingers = dexterous, pressure and people = adroit, evasion = nimble, economy of touch = deft) and remember adept is the odd one out — durable mastery, no quickness implied, and the only member that takes *at/in* or works as a noun.
 
 
+<a id="meaning__tender-backward-looking-sadness"></a>
 ### Quiet sadness: the mood, the longing, and the thing that stings
 
 All three name sadness in its soft, refined register — nothing loud, no wailing, no grudge. The feeling is quiet, tinged with tenderness, and usually tied to distance: something absent, past, or slipping away. The differences are structural, not just intensity. Two of them describe a *person's* inward state; one describes the *thing* that produces the state in someone watching. And they differ in whether the sadness has an object at all: a vague grey mood, a specific lost thing longed for, or a precise detail that pricks.
@@ -2052,6 +2220,7 @@ All three name sadness in its soft, refined register — nothing loud, no wailin
 > **On the exam:** The classic trap swaps **poignant** for the other two in a sentence describing a person's mood — remember it modifies what causes the feeling, not the one feeling it; and if a specific lost thing is named in the sentence, the answer is **wistful**, not **pensive**.
 
 
+<a id="meaning__exalt-to-sacred-status"></a>
 ### Raising to Sacred Status
 
 All four borrow the vocabulary of religion to describe how a person or thing gets lifted above ordinary judgment. Each implies a holiness the object didn't earn by argument — reverence, godhood, sainthood, consecration — and each can be used straight or sardonically, depending on whether the reader thinks the elevation is deserved. The differences are structural: whether it's a private attitude or a public act, who performs it, whether it ranks the object or merely selects it, and whether it can ever be undone.
@@ -2064,6 +2233,7 @@ All four borrow the vocabulary of religion to describe how a person or thing get
 > **On the exam:** The exam separates them by grammar of the act, not by degree of praise: look for who does it (a person's feeling → **venerate**; a body with authority → **canonize**), whether the sentence says "beyond all criticism" (→ **deify**), and whether there's a successor or chosen one in sight (→ **anoint**).
 
 
+<a id="meaning__real-enough-to-touch"></a>
 ### Real enough to touch
 
 All four descend from the idea of touch: something is present enough to be registered by the senses rather than merely asserted, imagined, or hoped for. But each stakes out a different arena — proof, atmosphere, embodiment, and the threshold of perception — and only one of them is ever literally about hands. The trap is that they all translate as "you can feel it," which flattens four very different claims into one.
@@ -2076,6 +2246,7 @@ All four descend from the idea of touch: something is present enough to be regis
 > **On the exam:** The GRE swaps **tangible** and **palpable** in sentence completions — pick by what the noun is: measurable proof takes *tangible*, a shared mood takes *palpable*; and **discernible** answers "barely perceptible," never "physically real."
 
 
+<a id="meaning__reasoning-past-the-evidence"></a>
 ### Reasoning past the evidence
 
 All of these mark the gap between what you can actually show and what you're willing to say. Each one signals — to the reader, the audience, or yourself — that a claim is running ahead of its support and should be held loosely. The confusion comes from the fact that they flag that gap at different points: the act of leaping, the method of the leap, the evidentiary status of the result, and how tightly you're gripping the conclusion afterward.
@@ -2088,6 +2259,7 @@ All of these mark the gap between what you can actually show and what you're wil
 > **On the exam:** The classic trap swaps evidentiary status for commitment status — a "tentative conclusion" may be fully evidenced and merely unratified, while a "conjectural" one is unsupported no matter how firmly stated; likewise, extrapolate demands an existing trend where speculate demands nothing.
 
 
+<a id="meaning__getting-better-after-illness"></a>
 ### Recovering, Restoring, Reviving
 
 All four sit on the upswing after something has been drained, damaged, or knocked down — the return trip from depletion to full strength. They split on three axes: whether the word names a *state* you're in, a *trait* you have, or an *act* done to something; whether the recovery is slow or fast; and whether what comes back is *health*, *shape*, *quantity*, or *energy*. Confusion comes from the shared upward direction, not from shared grammar — two are adjectives, two are transitive verbs.
@@ -2100,6 +2272,7 @@ All four sit on the upswing after something has been drained, damaged, or knocke
 > **On the exam:** The trap is treating them as interchangeable "get better" words: GRE sentences fix the answer by what is being restored — a *level* (replenish), a *pulse* (invigorate), a *shape after a blow* (resilient) — and by whether the slot needs a slow middle state (convalescent) or a fast bounce.
 
 
+<a id="meaning__refusing-to-give-an-inch"></a>
 ### Refusing to Give an Inch — and What Fails to Move Them
 
 All four describe something that will not yield to outside pressure, and all four are the losing party's verdict rather than the holder's self-description. The difference is never *how* immovable — it's *what kind of pressure is being applied and failing*. Reason, offered terms, tears, and apology are four different levers, and each of these words names the one that bounces off. Get the lever right and the group stops being interchangeable.
@@ -2112,6 +2285,7 @@ All four describe something that will not yield to outside pressure, and all fou
 > **On the exam:** The stem hands you the failed lever — an offer refused, a plea ignored, an apology that changed nothing — and the three wrong answers are all correctly \"stubborn\" but wrong about which lever failed.
 
 
+<a id="meaning__respectful-yielding"></a>
 ### Respectful yielding: attitude, gesture, temperament, rank
 
 All four describe one party giving way to another. They split on *what* is doing the yielding: an attitude you hold, a gesture your body performs, a character defect others accuse you of, or a slot you occupy on a chart. Two are neutral or even flattering, one is corrosive, and one is pure structure with no feeling in it at all. The GRE lives in the gap between yielding by position and yielding by disposition.
@@ -2124,6 +2298,7 @@ All four describe one party giving way to another. They split on *what* is doing
 > **On the exam:** The trap is **subordinate** vs. **subservient** — rank versus grovelling; and the verb *subordinate ... to*, where the answer hinges on something valuable being deliberately given up.
 
 
+<a id="meaning__theory-before-facts"></a>
 ### Rigid by Doctrine: dogmatic, doctrinaire, ideologue, martinet
 
 All four describe someone whose fixed system outranks the situation in front of them: the conclusion was reached before the evidence arrived, and no case is allowed to change it. Each is an accusation — never self-applied — and each names a different site of the rigidity: the way beliefs are asserted, the way theory is applied, the person defined by the system, or the way rules are enforced. The split that matters is whether the rigidity is about ideas at all, or merely about procedure.
@@ -2136,6 +2311,7 @@ All four describe someone whose fixed system outranks the situation in front of 
 > **On the exam:** The trap is **martinet**: GRE blanks that say only "rigid," "unyielding," "inflexible" will bait you toward it when the sentence is actually about *ideas* (choose dogmatic/doctrinaire/ideologue) — martinet is right only when the context supplies subordinates and rules to enforce.
 
 
+<a id="meaning__rise-above-the-rest"></a>
 ### Rise above the rest
 
 All five describe ending up above something else — but they differ in *what* that something else is. One is a moving rival, one is a reputation, one is a whole category, one is a dead-weight obstacle, one is active opposition. Choosing correctly is almost never about strength or degree; it's about identifying the thing being risen above and what happens to it afterward. Get the object right and the word picks itself.
@@ -2149,6 +2325,7 @@ All five describe ending up above something else — but they differ in *what* t
 > **On the exam:** The trap is the object, not the meaning: a completion that supplies a number wants **outstrip**, an obstacle wants **surmount**, a genre wants **transcend**, a forgotten predecessor wants **eclipse** — and in reading passages **prevailing** almost always means "widespread," not "victorious."
 
 
+<a id="meaning__rouse-someone-to-act"></a>
 ### Rouse someone to act
 
 All five describe one party moving another party into action — none of them involve ordering, and none guarantee the action happens. What separates them is the *mechanism* (moral appeal, irritation, a spark, a jolt, slow heat), the *moral verdict* (who gets blamed — the rouser or the roused), and the *kind of act* produced (worthy, unlawful, ill-judged, or merely hoped for). Get the mechanism and the blame right and the group stops being confusable.
@@ -2162,6 +2339,7 @@ All five describe one party moving another party into action — none of them in
 > **On the exam:** The trap is the blame axis: sentences with a positive tail (*a speech that ___ the volunteers*) want **galvanize**, and swapping in **incite** or **foment** — the two the test offers as bait — poisons a neutral sentence with criminal intent.
 
 
+<a id="meaning__ruin-on-a-huge-scale"></a>
 ### Ruin on a huge scale
 
 All four describe destruction well past ordinary misfortune — the scale at which recovery is doubtful and the event gets remembered rather than merely regretted. All are formal enough that using them for a bad haircut reads as a joke. They separate on three axes: whether the word blames a cause or just measures the wreckage, whether it stresses total failure or total transformation, and whether it qualifies an event (adjective) or *is* the event (noun).
@@ -2174,6 +2352,7 @@ All four describe destruction well past ordinary misfortune — the scale at whi
 > **On the exam:** Part of speech eliminates **conflagration** instantly in adjective slots; among the rest, the trap is treating them as interchangeable intensities — look for whether the sentence stresses a blamed decision (**calamitous**), a total breakdown (**catastrophic**), or a world remade (**cataclysmic**).
 
 
+<a id="meaning__savage-public-criticism"></a>
 ### Savage public criticism
 
 All of these describe criticism that is harsh, sustained, and meant to be heard by more people than the target. None of them fits a quiet correction: each assumes an audience, a critic with some standing to attack, and a target who comes off worse for it. What separates them is not how angry the critic is but what the attack *is* — a formal verdict, a methodical demolition, an undignified pounding, a thunderous scolding, or a wound that actually landed. Part of speech splits them too: three verbs, one noun, one adjective.
@@ -2187,6 +2366,7 @@ All of these describe criticism that is harsh, sustained, and meant to be heard 
 > **On the exam:** The GRE rarely separates these by intensity — it separates them by grammar and framing: a blank needing a noun takes only *objurgation*, one modifying *review* or *report* takes only *scathing*, and a sentence that names the specific failing points to *castigate* over the vaguer *lambaste*.
 
 
+<a id="meaning__say-it-again"></a>
 ### Say it again
 
 All four turn on something happening more than once — content restated, ground covered again, a condition kept running past its natural end. The splits are three: *what* recurs (a sentence, a set of points, a practice), *who is doing it* (a speaker on purpose, or a society by default), and *whether the recurrence is judged useful or wasteful*. Two of these are things a speaker does to their own words; one is what a group does to a bad situation; one is the verdict passed on repetition after the fact.
@@ -2199,6 +2379,7 @@ All four turn on something happening more than once — content restated, ground
 > **On the exam:** The trap is treating **perpetuate** as a fancy synonym for repeating a statement — it takes conditions and practices, not sentences; and **redundant** in a technical passage often means the *intended* backup, not the flaw.
 
 
+<a id="meaning__saying-it-in-few-words"></a>
 ### Saying It in Few Words
 
 All of these live in the space where something is short — a reply, a line, a style — and the shortness is the noticeable thing about it. What separates them is the *verdict* attached to the shortness: whether it reads as coolness, coldness, wit, discipline, or nothing at all. Two of them judge the speaker's temperament, one judges the quality of the line, and two are nouns naming the shortness itself, only one of which extends beyond words. Getting them wrong doesn't just flatten meaning — it flips the emotional sign of the sentence.
@@ -2212,6 +2393,7 @@ All of these live in the space where something is short — a reply, a line, a s
 > **On the exam:** The GRE pairs these by temperature in Sentence Equivalence — a blank praising a speaker's wit takes **pithy**, not **terse**; a blank about a chilly reply takes **terse**, not **laconic** — and it hides **economy** behind the financial sense so you skip the "nothing wasted" reading.
 
 
+<a id="meaning__saying-little"></a>
 ### Saying little
 
 All four describe someone who says less than they could — the words are there, and they don't come out. They split on *why* and *what kind of little*: a lasting temperament, a specific subject fenced off, a style of delivery, or a performance meant to be noticed. Note that none of them means shy: shyness is inability, and every word here involves a person who has the material and withholds it. The GRE cares almost entirely about which axis each one lives on.
@@ -2224,6 +2406,7 @@ All four describe someone who says less than they could — the words are there,
 > **On the exam:** The trap is treating **reticent** and **taciturn** as interchangeable — look for an "about X" in the sentence (reticent) versus a description of the person's standing character (taciturn); and don't let **coy** slip past as mere shyness, since it always implies calculation.
 
 
+<a id="meaning__saying-the-delicate-thing"></a>
 ### Saying the delicate thing
 
 All four describe handling something that could go wrong if handled clumsily — a feeling, a secret, a risk, a fine distinction. Each praises restraint and fine judgement over bluntness, which is why they blur. They split on **what is being protected**: the listener's feelings, someone else's privacy, your own exposure, or nothing at all — just the fineness of the thing itself.
@@ -2236,6 +2419,7 @@ All four describe handling something that could go wrong if handled clumsily —
 > **On the exam:** The classic swap is **discreet** for **circumspect**: check whether the sentence protects someone else's secret (discreet) or the actor's own neck (circumspect). Also watch the homophone *discrete* (= separate) and **subtle**'s sinister sense in negative contexts.
 
 
+<a id="meaning__scold-someone-sharply"></a>
 ### Scolding: heat, rank, and hurt
 
 All five verbs cover telling someone off for a fault — disapproval delivered *at* the offender, not merely opinion expressed about them. What separates them is not the offence but the posture behind the voice: how hot it runs, whether the speaker outranks the target, whether the fault gets named, and whether the impulse is to punish, to correct, or simply to show the wound. Register matters too: one of these belongs to shouting matches, the rest to written English.
@@ -2249,6 +2433,7 @@ All five verbs cover telling someone off for a fault — disapproval delivered *
 > **On the exam:** Sentence-equivalence traps lean on the two odd senses — **admonish** as forward-looking *warn/urge* and **reproach** as a noun meaning disgrace — while completion items key on the posture word in the stem (*gently*, *at length*, *from the bench*), which rules in exactly one of these.
 
 
+<a id="meaning__settled-hostility"></a>
 ### Settled hostility vs. settled dislike
 
 All five name a dislike that has hardened — not a flash of temper but something that persists and colors how the holder behaves. The differences aren't strength so much as **what the feeling attaches to and what it's doing in the sentence**: is it a heat between two people, a motive behind an act, a standing relationship, a cold judgment about a person or idea, or a wish to be somewhere else? Two of them cover being enemies; two cover simply not being able to stand something. One is used to accuse.
@@ -2262,6 +2447,7 @@ All five name a dislike that has hardened — not a flash of temper but somethin
 > **On the exam:** The GRE splits this group by object and role: person-and-history (animosity), motive-for-an-act (animus), mutual standing state (enmity), person-or-idea judged coldly (antipathy), thing-or-activity avoided (aversion) — so read what the blank attaches to before ranking intensity.
 
 
+<a id="meaning__shameless-nerve"></a>
 ### Shameless nerve
 
 All of these describe nerve — boldness that has crossed a line other people were respecting. The line differs: sometimes it's shame, sometimes rank, sometimes caution, sometimes the decent instinct to at least hide what you're doing. Most are the offended onlooker's verdict rather than a neutral description, so the choice usually encodes who is judging whom and on what grounds. One of them can be admiring, and one says the nerve isn't real at all.
@@ -2275,6 +2461,7 @@ All of these describe nerve — boldness that has crossed a line other people we
 > **On the exam:** The trap is reading all five as negatives: **audacious** is the fence-sitter that can praise, so in a positive-daring context it's the answer the other four can't be.
 
 
+<a id="meaning__show-a-claim-is-false"></a>
 ### Show a claim is false
 
 All four sit at the point where a claim meets something that cuts against it. What separates them is *who or what does the cutting* and *whether it works*: a person marshalling proof, a person merely objecting, a public unmasking, or a mute fact that contradicts on its own. They also differ in whether the claim was ever respectable to begin with, and in one case the verb regularly ends up defending the claim rather than destroying it.
@@ -2287,6 +2474,7 @@ All four sit at the point where a claim meets something that cuts against it. Wh
 > **On the exam:** The GRE punishes the loose senses: **refute** treated as "deny" (it means "disprove, successfully"), **gainsay** read as defeating a claim when its negative frame usually upholds one, and **belie** flipped so the subject reveals rather than misrepresents.
 
 
+<a id="meaning__showy-for-the-audience"></a>
 ### Showy — and whether anyone meant it
 
 All four describe something that draws the eye: display, colour, decoration, standing out. They split on two axes. First, intent — is the showiness deliberate, staged for an audience, or does the thing simply stick out? Second, what gets judged — the person's motive, their flair, or the surface of the object or style itself.
@@ -2299,6 +2487,7 @@ All four describe something that draws the eye: display, colour, decoration, sta
 > **On the exam:** The trap is treating them as interchangeable "showy" synonyms: **conspicuous** needs no performer, **florid** needs no person, and only **flamboyant** can be praise.
 
 
+<a id="meaning__shrewd-read-of-people"></a>
 ### Shrewd Judgment: Reading People, Money, and Motives
 
 All of these praise a fast, accurate read of people and situations — the ability to size up what is really going on and what it's worth. This is worldly intelligence rather than book learning: it is earned by experience and measured by results, not by credentials. They split along three axes: how much self-interest is implied (working an angle vs. simply seeing clearly), how grand the register is (marketplace vs. lectern), and whether the insight looks at the present situation or at where it is heading.
@@ -2313,6 +2502,7 @@ All of these praise a fast, accurate read of people and situations — the abili
 > **On the exam:** The GRE separates these by what the blank rewards: **perspicacious**/**sagacious** fit sentences about insight or foresight for its own sake, while **astute**/**shrewd**/**canny** need a payoff — a deal, an angle, an advantage — in the clause; and **acumen**, the lone noun, is usually given away by the modifier before it.
 
 
+<a id="meaning__shut-in-by-force"></a>
 ### Shut in by force
 
 All four describe being held inside a boundary you did not draw — an outside hand (a law, a wall, an authority, an iron) fixing where you may go or how far you may reach. They split on what does the confining and what gets confined: an abstract limit on a power, masonry around a body, a precautionary cordon, or a cuff on a wrist. They also split on blame: one indicts the confiner, one merely states the limit, one is protective housekeeping.
@@ -2325,6 +2515,7 @@ All four describe being held inside a boundary you did not draw — an outside h
 > **On the exam:** The trap is tone-matching: a sentence blaming no one wants **circumscribe**, one indicting a tyrant wants **manacle** — and if the confined party is only *possibly* contaminated, it is **quarantine**, not the "isolate" the sentence dangles.
 
 
+<a id="meaning__sign-of-what-s-coming"></a>
 ### Sign of what's coming
 
 All five say the same basic thing: something visible now stands for something not yet here. None of them assert the future event — they assert a *sign* of it, and the sign is almost always read as bad news. What separates them is grammar and grip: whether the sign is a verb the world performs, a noun you can point at, or an atmosphere you can only feel; and how much dread is welded into the word before you add any context.
@@ -2338,6 +2529,7 @@ All five say the same basic thing: something visible now stands for something no
 > **On the exam:** The trap is part of speech, not meaning — a blank taking a noun rules out portend/presage/forebode instantly, and a blank with no named consequence after it wants ominous, not a verb.
 
 
+<a id="meaning__slanted-toward-one-side"></a>
 ### Slanted toward one side
 
 All four say the same basic thing: even-handedness is missing. Something — a person, an essay, a survey question — has already picked a side, and what looks like inquiry is really advocacy. They split on *why* and *how visibly*: whether the tilt is unconscious or engineered, hidden or announced, aimed at a conclusion or at a rival group. The GRE lives in that gap, because in loose English any of them can be glossed "biased."
@@ -2350,6 +2542,7 @@ All four say the same basic thing: even-handedness is missing. Something — a p
 > **On the exam:** The trap is concealment vs. display: **tendentious** hides its agenda behind a neutral pose, **polemical** advertises it — and only **partial** is mild enough to fit a judge who merely leans.
 
 
+<a id="meaning__sleep-inducing"></a>
 ### Sleep-inducing vs. sleepy vs. shut down
 
 All three sit in the territory of sleep and shut-down energy, and each can describe a lecture hall, a hot afternoon, or a stalled institution. The confusion is grammatical as much as semantic: one names the *cause* of drowsiness, one names the drowsiness *or* its cause, and one names the *state* left behind — a noun for inertia, not for sleep. They also differ in what they blame: a dull thing, a heavy mood, or a body and system gone inert.
@@ -2361,6 +2554,7 @@ All three sit in the territory of sleep and shut-down energy, and each can descr
 > **On the exam:** Sentence equivalence loves the cause/state split: a blank following "reduced the region to a state of ___" wants **torpor**, not the adjectives — and a blank describing the *speech itself* wants **soporific**, not the audience's **somnolent**.
 
 
+<a id="meaning__slips-out-of-your-grasp"></a>
 ### Slips out of your grasp
 
 All four describe something you fail to get hold of — but each locates the failure in a different place. In one, the target keeps moving; in another, a person is deliberately deflecting; in a third, the thing sits perfectly still and is simply too fine to register; in the last, it is fully on display and still gives up nothing. The sorting questions: is there an agent with intent, is there a pursuit, and is the problem that you can't reach it, can't notice it, or can't interpret it?
@@ -2373,6 +2567,7 @@ All four describe something you fail to get hold of — but each locates the fai
 > **On the exam:** The classic trap is swapping **elusive** and **evasive** — take evasive only when someone is deliberately deflecting a specific challenge, elusive when something is merely never caught.
 
 
+<a id="meaning__slow-something-s-progress"></a>
 ### Slow it down, don't stop it
 
 All four describe interference that makes an action slower, harder, or clumsier without ever making it impossible — the thing still limps forward. The obstruction is typically impersonal and incidental (weather, paperwork, an injury, missing data) rather than deliberate sabotage. Because they overlap so heavily in meaning, they separate mostly by texture: friction beside you, weight on you, or a body in the path. Three are verbs; one is the noun that names the obstruction itself.
@@ -2385,6 +2580,7 @@ All four describe interference that makes an action slower, harder, or clumsier 
 > **On the exam:** The distractors are usually true-stop words — thwart, foil, preclude, stymie — so pick from this group only when the action is still happening; among themselves, let the frame decide: "___ by" wants **hamper**, a flow or passage wants **impede**, a noun slot wants **impediment**.
 
 
+<a id="meaning__slow-hidden-harm"></a>
 ### Slow, hidden harm
 
 All four describe harm that isn't a single visible blow. The damage accumulates, works on something over time, and is usually reported rather than witnessed — which is why all four sit in formal registers (medicine, policy, research, editorials) and none of them fit a mugging or a car crash. They split on two axes: how much moral heat the speaker brings, and whether the harm actively hides itself.
@@ -2397,6 +2593,7 @@ All four describe harm that isn't a single visible blow. The damage accumulates,
 > **On the exam:** The trap is treating them as interchangeable "harmful": pick by what the sentence emphasizes — a clinical/physical effect (deleterious), damage to a named interest (detrimental), moral corruption (pernicious), or the fact that it went unnoticed until too late (insidious).
 
 
+<a id="meaning__sly-cleverness"></a>
 ### Sly cleverness
 
 All five describe getting what you want by indirection — trickery, misdirection, a route around the rules — rather than by force, argument, or straight dealing. The cleverness is never in question in any of them; what varies is how much the word forgives it. Each sits somewhere on a slide from grudging admiration to flat accusation, and each attaches to a different thing: the schemer's long experience, the single sly move, the polish of the execution, the cold self-interest behind it, or the crooked path itself. Two of them also carry an innocent literal sense that the sly sense has almost buried.
@@ -2410,6 +2607,7 @@ All five describe getting what you want by indirection — trickery, misdirectio
 > **On the exam:** The GRE rarely pits these against each other — it tests the buried senses: **devious** as *winding/indirect* (of a path) and **artful** as *tastefully contrived* (of an arrangement), where a context containing no deception at all rules out every synonym you were braced for.
 
 
+<a id="meaning__socially-clumsy"></a>
 ### Socially clumsy
 
 All five cover a failure of grace — someone or something lands badly in front of others, and there's a wince. But they split on *what* failed and *what form the word takes*: two are verdicts on a person (their breeding, their body), one is a verdict on their skill, and two are nouns naming the botched moment itself rather than the botcher. The tone ranges from half-fond to faintly contemptuous, and picking the wrong one misstates who is being judged and how harshly.
@@ -2423,6 +2621,7 @@ All five cover a failure of grace — someone or something lands badly in front 
 > **On the exam:** The trap is treating them as interchangeable "awkward": watch whether the sentence needs a noun for the blunder (gaffe, infelicity) or an adjective for the person, and whether the failure is of skill (inept), breeding (gauche), or coordination (gawky).
 
 
+<a id="meaning__solidly-skilled"></a>
 ### Solidly skilled
 
 All four say a person can actually do the thing — skill that's been demonstrated, not promise or potential. They differ almost entirely by altitude and by what the speaker is signalling: where on the scale from "met the standard" to "the room was impressed" the praise lands, and how much effort the doing appears to cost. Two are adjectives applied to a person, two are nouns naming the ability itself. Ordered here from floor to ceiling.
@@ -2435,6 +2634,7 @@ All four say a person can actually do the thing — skill that's been demonstrat
 > **On the exam:** The trap is treating **competent** and **proficient** as praise: sentence-completion items pair them with concessive signals ("*though* the performance was ___, it never thrilled"), where only the low-ceiling words fit and **prowess** or **facility** is the wrong-because-too-flattering distractor.
 
 
+<a id="meaning__soothe-someone-s-anger"></a>
 ### Soothing anger: what the peace cost you
 
 All of these are about taking the heat out of someone's anger — a grievance already exists, and someone is acting to bring the temperature down. They differ almost entirely in **what the peace costs and who is above whom**: whether a price was paid, whether the soother was the weaker party, and whether the calmed party ends up satisfied or merely quiet. The gloss "calm someone down" is identical across the set; the sneer, the tribute, and the surrender are not. One of them describes only a manner rather than an act.
@@ -2449,6 +2649,7 @@ All of these are about taking the heat out of someone's anger — a grievance al
 > **On the exam:** The exam plants the clue in the cost or the power gap — "gave in to every demand" (appease), "offered up to an angry superior" (propitiate), "tone that conceded nothing" (conciliatory) — and offers a bland soother like mollify or placate that fits "calmed" but ignores that clue.
 
 
+<a id="meaning__sparkling-liveliness"></a>
 ### Sparkling liveliness
 
 All five sit on the bright, high-spirited end of temperament: something is animated, up, giving off energy rather than sitting still. They split on the *channel* that energy takes — social charm, quiet good mood, resistance to being pushed down, sheer noise, or verbal brilliance — and on what noun each can legally attach to. Several also carry a second life outside people entirely: floating objects, rising markets, rough seas, flashes of light.
@@ -2462,6 +2663,7 @@ All five sit on the bright, high-spirited end of temperament: something is anima
 > **On the exam:** The GRE tests the noun, not the mood: a buoyant *economy*, a boisterous *crowd*, scintillating *conversation*, a vivacious *hostess* — pick the word whose sense-range covers the subject, and remember scintillating rewards wit while boisterous only rewards volume.
 
 
+<a id="meaning__reasoning-that-only-looks-sound"></a>
 ### Specious, Fallacious, Sophistry, Spurious: reasoning that only looks sound
 
 All four are formal, negative verdicts delivered after inspection: something presented as legitimate has been examined and found not to hold up. They differ on two axes. First, **what is broken** — the logical machinery of the argument, or its very right to be taken seriously. Second, **whether anyone meant it** — these words run from an honest mistake in the steps, through a suspiciously well-polished surface, to a flat accusation of knowing deceit. Choosing wrongly either accuses a sincere person of lying or lets a liar off as merely confused.
@@ -2474,6 +2676,7 @@ All four are formal, negative verdicts delivered after inspection: something pre
 > **On the exam:** The trap is treating them as interchangeable synonyms for "false": look for context clues about *blame* (sincere error → fallacious; deliberate → sophistry) and about *what* is defective (the inference → fallacious/specious; the origin or legitimacy → spurious).
 
 
+<a id="meaning__spoil-by-mixing-or-staining"></a>
 ### Spoiled from Within: Adulterate, Debase, Vitiate, Tarnish
 
 All four describe something good being degraded rather than destroyed — the object survives, keeps its name, and still looks roughly like itself, but it is no longer worth what it was. The damage comes from inside or from something added, not from a blow landed from outside. What separates them is *what* gets spoiled: the substance, the value, the validity, or just the gleam.
@@ -2486,6 +2689,7 @@ All four describe something good being degraded rather than destroyed — the ob
 > **On the exam:** The GRE punishes over-reading strength: a blank about an argument or a contract wants **vitiate** (validity destroyed), not **tarnish** (reputation dulled) — and **adulterate** is wrong unless something was literally mixed in.
 
 
+<a id="meaning__spoiling-for-a-fight"></a>
 ### Spoiling for a fight
 
 All five describe hostility as a *habit* rather than a passing temper: the person (or thing) is set up to produce conflict. What separates them is the kind of conflict, its heat, and who's watching. Some mean fists, some mean argument, some mean nothing worse than bickering — and one of them can be aimed at an inanimate clause in a contract.
@@ -2499,6 +2703,7 @@ All five describe hostility as a *habit* rather than a passing temper: the perso
 > **On the exam:** The GRE usually tests the odd senses, not the fight: **contentious** attached to an issue rather than a person, **fractious** attached to a coalition rather than a brawler, and **pugnacious** in a sentence where the tone is admiring.
 
 
+<a id="meaning__spread-widely-outward"></a>
 ### Spread widely outward
 
 All four take something concentrated in one place and move it outward until it covers a wide area. The tests that separate them are mechanical: does the thing multiply as it travels, does the original mass survive, is there an intended recipient, and does the spreading make it weaker. Some of these verbs care about the message arriving; others care only that the clump broke up.
@@ -2511,6 +2716,7 @@ All four take something concentrated in one place and move it outward until it c
 > **On the exam:** Expect **diffuse** as an adjective in a sentence about writing (paired against concise/trenchant), not as a verb — and expect **propagate** where a careless reader picks **disseminate**, since only propagate implies the thing reproduces itself as it goes.
 
 
+<a id="meaning__stale-worn-out-sayings"></a>
 ### Stale sayings: from merely flat to falsely wise
 
 All four are verdicts on language that has lost its force through repetition — the speaker is not describing a remark, but convicting it. The shared accusation is that nothing new was thought before the mouth opened. They split along two lines: two are adjectives that judge a thing's quality, two are nouns that name the offending remark itself; and each adds a different aggravating charge on top of staleness — tedium, laziness, false profundity, or sedation.
@@ -2523,6 +2729,7 @@ All four are verdicts on language that has lost its force through repetition —
 > **On the exam:** The classic trap is **banal** vs **hackneyed** (only **hackneyed** requires prior overuse, and only **banal** applies to non-verbal things) and **platitude** vs **bromide** (look for a "consoling," "soothing," or "reassuring" clue in the sentence — that clue selects **bromide**).
 
 
+<a id="meaning__standing-between-two-sides"></a>
 ### Standing Between Two Sides
 
 All four words live in the gap between two parties that are apart — opposed, separated, or simply unable to deal with each other directly. Something or someone occupies that gap: carrying, brokering, substituting, or finally closing it. They diverge on three questions: does the middle figure serve both sides or just one, does it hold any power to compel, and is the word naming the position, the activity, or the result?
@@ -2535,6 +2742,7 @@ All four words live in the gap between two parties that are apart — opposed, s
 > **On the exam:** The GRE rarely tests the dispute-settling sense — expect **mediate** in its colourless \"transmitted through\" use and **proxy** as a stand-in variable in a science passage, where the negotiation reading is a trap.
 
 
+<a id="meaning__stingy"></a>
 ### Stingy: Withholding What Could Be Given
 
 All five describe holding back what could be given — money, praise, detail, effort — and giving less than the situation calls for. The shared frame is *sparing to a fault*: not the admirable economy of **frugal** or **thrifty**, but withholding that invites judgment. What separates them is the source of the tightness (greed, poverty, caution), whether it describes a whole character or a single act, and how bookish the word sounds.
@@ -2548,6 +2756,7 @@ All five describe holding back what could be given — money, praise, detail, ef
 > **On the exam:** The trap is treating all five as interchangeable insults: **parsimonious** turns into praise when it modifies a theory or explanation, **penurious** may simply mean poor, and **chary** signals wariness rather than greed — pick the wrong one and the sentence's motive clause stops making sense.
 
 
+<a id="meaning__stop-resisting"></a>
 ### Stop resisting
 
 All four describe the moment resistance stops and the other side gets its way. They split on the backstory each one assumes: whether a fight ever occurred, how long it lasted, and which party was doing the pressing. They also split on who looks bad afterward — some paint the giver-in as weak, one paints them as having been the harsh one, and one paints nobody badly at all.
@@ -2560,6 +2769,7 @@ All four describe the moment resistance stops and the other side gets its way. T
 > **On the exam:** The GRE picks between these on backstory, not on strength: sentences signal "held out for months" (relent/capitulate) versus "never objected aloud" (acquiesce) — and it loves testing yield and relent through their adjectives, unyielding and relentless.
 
 
+<a id="meaning__stopping-and-starting"></a>
 ### Stopping and starting
 
 These all describe something that fails to run steadily — it comes and goes, flares and stops, or veers off with no rhythm you could predict. The shared complaint is unreliability rather than badness: the thing exists, it just won't hold. They split on *what* is irregular (gaps in one process, scattered separate events, or quality itself) and on how much blame lands on whoever is responsible.
@@ -2573,6 +2783,7 @@ These all describe something that fails to run steadily — it comes and goes, f
 > **On the exam:** The GRE decides between these by what the blank attaches to: machinery and weather take **intermittent**, scattered incidents take **sporadic**, a person's uneven performance takes **erratic**, and only half-hearted human effort takes **desultory** — so a context that supplies "aimless" but no droop of enthusiasm is a trap for it.
 
 
+<a id="meaning__straining-to-impress"></a>
 ### Straining to impress
 
 Every word here marks a gap between the show and the substance: someone is working to seem grander, deeper, or more formidable than they are, and an observer has noticed. All five are verdicts delivered from outside — nobody applies them to themselves — and the charge is never that the person is wicked, only that the performance is unearned. What separates them is *what* is being inflated (culture, importance, resolve, territory) and how big the fake is: one tic, one manner, or one whole claim to greatness.
@@ -2586,6 +2797,7 @@ Every word here marks a gap between the show and the substance: someone is worki
 > **On the exam:** The trap is matching the pose to the wrong target: hollow threats want *posturing*, not *pretentious*; a grand speaking voice wants *pomposity*; and *aggrandize* is the only option that can govern an object.
 
 
+<a id="meaning__strict-and-demanding"></a>
 ### Strict and demanding
 
 All five words describe demands that press hard on someone — bars set high, obligations that weigh, penalties that bite. They cluster because English uses "strict" and "severe" loosely for all of them, while each actually names a different part of the machinery: how tight the standard is, how much skill it costs to meet it, how unbending the method must be, how heavy the duty sits, and whether the penalty fits the crime. Three of them (the first three) can be praise in the right context; the last two never are. Getting them right means asking what the severity is *made of*, not how unpleasant it feels.
@@ -2599,6 +2811,7 @@ All five words describe demands that press hard on someone — bars set high, ob
 > **On the exam:** The trap is treating them as one intensity scale: sentences reward the word that matches what the severity attaches to — a *standard* is stringent, a *task or boss* is exacting, a *method* has rigor, a *duty* is onerous, a *penalty* is draconian — and a positive-context blank ("praised for its ___") rules out onerous and draconian outright.
 
 
+<a id="meaning__swamped-by-too-much"></a>
 ### Swamped by Too Much
 
 All four describe a quantity that exceeds what the receiver can absorb — the problem is amount, not difficulty. Each frames that excess differently: as water rising, as fire aimed at a target, as blows landing over and over, or as a meal that has gone past enjoyable. Three of them make you a victim under something; one of them makes you merely too full. The GRE keeps them close because "a lot of X" is the shared floor — the answer always turns on *how* the too-much arrives and *what it does to you*.
@@ -2611,6 +2824,7 @@ All four describe a quantity that exceeds what the receiver can absorb — the p
 > **On the exam:** Watch the direction of the excess: outside-in and unaimed → *inundate*; outside-in and aimed → *barrage*; inside-out (doubts, memories) → *assail*; no aggression at all, just too much to stomach → *surfeit*.
 
 
+<a id="meaning__sweet-past-bearing"></a>
 ### Sweet past bearing
 
 All three describe tender feeling supplied in larger doses than the occasion can absorb — sweetness, nostalgia, pity, affection — and the reader's queasy recoil from it. The shared image is sugar: pleasant in small amounts, nauseating past a point. What separates them is where the excess sits (in the person feeling, in the work manufacturing the feeling, or in the substance itself) and whether the label leaves any room for affection.
@@ -2622,6 +2836,7 @@ All three describe tender feeling supplied in larger doses than the occasion can
 > **On the exam:** The trap is treating them as interchangeable insults: **sentimental** alone can be warm, **cloying** alone can describe a dessert or a scent, and only **mawkish** carries the charge of faked, calculated emotion.
 
 
+<a id="meaning__take-the-place-of"></a>
 ### Take the Place Of: supplant, supersede, eclipse
 
 All three describe something new arriving where something older stood. The difference is what actually happens to the old thing: it can be pushed out of its position, stripped of its validity, or left standing but no longer looked at. One is about possession, one is about authority, one is about attention. Choosing among them means asking what the sentence says the predecessor lost.
@@ -2633,6 +2848,7 @@ All three describe something new arriving where something older stood. The diffe
 > **On the exam:** The sentence, not the verb, carries the giveaway: a rival or motive points to supplant, a rule/edition/version points to supersede, and a comparison of fame or brilliance points to eclipse.
 
 
+<a id="meaning__talking-too-much"></a>
 ### Talking Too Much: Where the Complaint Lands
 
 All four cover the same raw fact: a person producing far more speech than the occasion requires. What separates them is not the word count but the angle of attack — whether the speaker is admiring the ease of the flow, dryly noting the excess, or complaining about being trapped. Three are adjectives labelling the talker; one is a verb naming the drift itself. The exam almost never tests "does this mean talkative"; it tests which shade of judgement the sentence has already set up.
@@ -2645,6 +2861,7 @@ All four cover the same raw fact: a person producing far more speech than the oc
 > **On the exam:** Sentence Equivalence loves pairing these as near-synonyms, then hinging the answer on a single clue word: "effortlessly"/"never hesitated" forces **voluble**, "tedious"/"about nothing at all" forces **garrulous**, "wandered from"/"never reached the point" forces **rambling** — and **loquacious** is the safe filler that only works when the sentence stays neutral.
 
 
+<a id="meaning__small-persistent-annoyance"></a>
 ### The Drip, Not the Fire: Small Persistent Annoyance
 
 All four sit at the low end of the anger scale: irritation that comes from repetition and pettiness rather than from any single outrage. Nothing here is a fire — it's a drip, and the sufferer's characteristic gesture is a sigh, not a shout. The real dividing lines are grammatical and directional: some name the *thing* that grates, one names the *feeling*, one describes the *person* the grating has worn down. Register splits too, from plain complaint to the vocabulary of judges and editorialists.
@@ -2657,6 +2874,7 @@ All four sit at the low end of the anger scale: irritation that comes from repet
 > **On the exam:** The exam swaps these across grammatical roles — a blank describing a worn-out *person* takes exasperated, a blank describing the *task* takes irksome, the *feeling* takes vexation — and separates irksome from nettlesome by whether the annoyance is merely tedious or actually unsolvable.
 
 
+<a id="meaning__the-high-point"></a>
 ### The high point
 
 All three mark the top of something's rise — the moment or stretch when a career, empire, athlete, or reputation is running at maximum. The confusion is that each borrows its picture from somewhere different: an orbit, the sky, and a lifespan. That picture decides what the word can attach to, how grand it sounds, and whether it hints that the fall has already started.
@@ -2668,6 +2886,7 @@ All three mark the top of something's rise — the moment or stretch when a care
 > **On the exam:** Two traps: **apogee** and **zenith** are close enough to be the matched pair in Sentence Equivalence (pick both), while **prime** is rarely tested as a high point at all — it shows up as the verb meaning *to prep beforehand*.
 
 
+<a id="meaning__the-model-others-copy"></a>
 ### The model others copy
 
 All four name the thing other things get referred back to — the case that sets the terms of comparison. They split on *what kind* of standard is meant: a moral summit worth admiring, a first template that later versions repeat, the defining specimen of a category, or a bare measuring line. Two of them praise, two of them merely classify, and the ones that classify work perfectly well on failures, frauds, and disasters.
@@ -2680,6 +2899,7 @@ All four name the thing other things get referred back to — the case that sets
 > **On the exam:** The trap is assuming all four commend: **paradigmatic** and **benchmark** sit comfortably in sentences about failures, scandals, and low bars, while **paragon** cannot — check whether the blank praises or merely categorizes.
 
 
+<a id="meaning__a-crafted-general-truth"></a>
 ### The One-Line Truth: Earned, Issued, or Counterfeit
 
 All four name the same object: a short, freestanding sentence that asserts a general truth about life and is offered as wisdom. Form doesn't separate them — length, shape and subject matter can be identical. What separates them is the verdict baked into the label: whether the compression earned something, whether the speaker's standing is doing the work, or whether the line is counterfeit depth. Choosing the word is passing judgment on the saying, not describing it.
@@ -2692,6 +2912,7 @@ All four name the same object: a short, freestanding sentence that asserts a gen
 > **On the exam:** The GRE plays the polarity: a blank flanked by "merely," "hardly," or a concessive "though widely quoted" wants platitude/bromide, while praise words ("polished," "trenchant") want aphorism — and in Sentence Equivalence, platitude/bromide is the near-certain synonym pair, with dictum planted as a trap because it fits the definition but carries no contempt.
 
 
+<a id="meaning__thrown-off-composure"></a>
 ### Thrown off composure
 
 All four involve poise giving way — someone's balance, thread, or calm is disturbed by something outside them. They split along three axes: who occupies the subject slot (the disturbing thing, the person doing the disturbing, or the person disturbed), how visible the damage is, and how long it lasts. Two are momentary and social; one is a small defeat inflicted by an opponent; one is sustained churn that need not involve poise at all.
@@ -2704,6 +2925,7 @@ All four involve poise giving way — someone's balance, thread, or calm is dist
 > **On the exam:** The trap is usually **agitate**'s political sense ("agitate for reform"), planted where the sentence's emotional context baits you toward the "rattle someone" reading; secondarily, watch the direction of **disconcerting** vs **discomfit** — one names the cause, the other takes a human object.
 
 
+<a id="meaning__to-the-point"></a>
 ### To the Point
 
 Every word here says a thing fits the matter at hand — but they split into two jobs that the exam keeps confusing. The first job is **admissibility**: does this belong in the discussion at all? That's a gatekeeper's ruling, and it says nothing about whether the remark was any good. The second job is **craft**: granting that it belongs, how well was it chosen — for precision, for timing, for pleasure? A dull, clumsy remark can pass the first test; a dazzling one can fail it.
@@ -2718,6 +2940,7 @@ Every word here says a thing fits the matter at hand — but they split into two
 > **On the exam:** Two traps: **apt** usually appears in its *tendency* sense (a near-synonym of *prone*, minus the disapproval), and blanks demanding relevance-as-admissibility (germane, pertinent) will offer craft words (apposite, felicitous) that praise the wrong thing.
 
 
+<a id="meaning__too-many-words-on-the-page"></a>
 ### Too many words on the page
 
 All of these describe words outrunning their content: text or talk that occupies more space than the point inside it justifies. The complaint is never that the ideas are wrong — it's that they arrive padded, stretched, or spread so thin that nothing lands. Three are verdicts on the finished prose; one is the act of producing it. And one of them isn't really about length at all, which is where the group turns slippery.
@@ -2730,6 +2953,7 @@ All of these describe words outrunning their content: text or talk that occupies
 > **On the exam:** The trap is treating **diffuse** as a synonym for long-winded — GRE sentences use it for writing that is unfocused rather than lengthy, and reserve **prolix**/**verbose** for the antonym slot opposite *concise*, *succinct*, *pithy*, *laconic*.
 
 
+<a id="meaning__too-nervous-to-act"></a>
 ### Too nervous to act
 
 All four describe nerve failing — fear or self-doubt standing between a person and the action they could take. What separates them is *where the fear comes from and how the speaker judges it*: a settled trembling temperament, a low estimate of one's own worth, a duty abandoned to save one's skin, or a hair trigger that fires at nothing. Two of them describe a person's steady character, one describes a moment of reactivity, and one is less a description than a charge laid against someone. Get the source wrong and you get the word wrong.
@@ -2742,6 +2966,7 @@ All four describe nerve failing — fear or self-doubt standing between a person
 > **On the exam:** The trap is over-reading: sentences that merely establish hesitancy will bait you toward **craven**, which requires a betrayed duty; and **diffident** is regularly confused with *indifferent*, which it has nothing to do with.
 
 
+<a id="meaning__too-sacred-to-touch"></a>
 ### Too sacred to touch
 
 All three sit at the point where something is set apart from ordinary handling. Two of them describe protection — a thing walled off from being touched, changed, or breached — and the third describes what that kind of thing *feels* like from the outside. The trap is that they split along different axes: status conferred vs. condition preserved vs. sensation inflicted, and sincere reverence vs. raised eyebrow.
@@ -2753,6 +2978,7 @@ All three sit at the point where something is set apart from ordinary handling. 
 > **On the exam:** The exam plants **numinous** among protection words so you match it on "sacred" alone — check whether the sentence describes a rule being enforced (sacrosanct/inviolate) or a feeling being experienced (numinous); and if the tone is dry or critical, the answer is sacrosanct, never inviolate.
 
 
+<a id="meaning__trace-to-a-source"></a>
 ### Tracing something back to its source
 
 All three connect a thing to where it came from — a cause, an author, an origin. The split is who is doing the connecting. Two of them are acts of judgement performed by a person who names the source and could be wrong; the third is a statement about the world in which the effect itself does the pointing and no claimant appears at all. Watch the syntax, because it encodes exactly that difference.
@@ -2764,6 +2990,7 @@ All three connect a thing to where it came from — a cause, an author, an origi
 > **On the exam:** The trap is direction and subject: sentence completions supply a cause-first frame (*X resulted in Y*) or put the effect in subject position, which kills **ascribe**/**attribute** and leaves only **stem from** — and vice versa when a named person is doing the assigning.
 
 
+<a id="meaning__treat-as-unimportant"></a>
 ### Treat as unimportant
 
 All five reduce something's standing without ever refuting it — no argument is made, no case is answered; the value is simply lowered by treatment. The reduction can land on three different kinds of target, and that is the real fault line: a claim's evidential weight, an object's overall merit, or a person's dignity. Notice too that some require an agent doing it deliberately while others describe a flaw quietly doing it on its own, and that they range from a defensible analytical move to open contempt.
@@ -2777,6 +3004,7 @@ All five reduce something's standing without ever refuting it — no argument is
 > **On the exam:** Sentence completions hinge on the target: evidence gets discounted, a work's merit is detracted from (with obligatory *from*), a person is belittled or slighted — and none of these means *refute*, so a blank following contrary proof usually wants a stronger word.
 
 
+<a id="meaning__ease-pain-or-severity"></a>
 ### Turning it down, not off: alleviate, assuage, mitigate, ameliorate, temper
 
 All five reduce intensity without removing the thing. Every one of them is honest about being partial: the pain, the risk, the harm, the fervor is still there, just dialed down. What separates them is not strength but **what they take as an object** — a felt suffering, an emotion, a harm or risk, a whole situation, or a force running too hot — and how warm or institutional the speaker sounds. Choose by object type, not by degree.
@@ -2790,6 +3018,7 @@ All five reduce intensity without removing the thing. Every one of them is hones
 > **On the exam:** The GRE decides these by object, so let the noun pick the verb: fears→**assuage**, risk/damages→**mitigate**, conditions→**ameliorate**, pain→**alleviate**, enthusiasm→**temper** — and remember **temper** is the only one whose object can be something good.
 
 
+<a id="meaning__twisted-past-following"></a>
 ### Twisted Past Following
 
 All of these describe intricacy that has crossed the line into unfollowability — and all of them are complaints, not compliments. Each carries a hint that the tangle is not innocent: someone made it this way, and the confusion may be doing work for them. They split on *what* is tangled (a sentence, an institution, a route) and on whether the word names the resulting mess or the act of creating it.
@@ -2802,6 +3031,7 @@ All of these describe intricacy that has crossed the line into unfollowability �
 > **On the exam:** Watch two traps: *tortuous* (winding) vs *torturous* (agonizing) are different words, and in sentence equivalence only **obfuscate** fits a slot needing an action with an agent — the other three describe a state.
 
 
+<a id="meaning__underhanded-trickery"></a>
 ### Underhanded trickery
 
 All four cover getting an advantage by deceiving someone rather than overpowering them — the win comes from misdirection, concealment or clever manoeuvring. They split on three axes: **scale** (a whole practice of cheating vs. one move), **legitimacy** (flatly dishonest vs. fair play), and **register** (indictment vs. newspaper column). Two of them name a kind of dishonesty; two name a single tactic, only one of which is even wrong.
@@ -2814,6 +3044,7 @@ All four cover getting an advantage by deceiving someone rather than overpowerin
 > **On the exam:** The trap is treating all four as pejorative — sentences about sport, negotiation or war want the sanctioned *feint*, while a sentence whose deception is legal-but-slimy wants *chicanery*, not *skullduggery*.
 
 
+<a id="meaning__understood-without-being-said"></a>
 ### Understood without being said
 
 All four cover meaning that travels without being stated outright — the content arrives, but nobody puts it on the record. The split runs two ways. Two are adjectives describing a *state* of shared-but-unspoken understanding; two are verbs describing an *act* of gesturing at something you decline to name. Within each pair, the difference is whether the unspoken thing lives in the logic of what was said or in the silence between two parties, and whether the indirection is about delicacy or about avoiding a name.
@@ -2826,6 +3057,7 @@ All four cover meaning that travels without being stated outright — the conten
 > **On the exam:** The trap is *implicit* meaning **absolute** (implicit faith, implicit obedience) where the sentence rewards "unquestioning," not "unstated"; secondarily, *allude* is wrong wherever the thing is actually named, and *intimate* is wrong wherever the hint is sly or hostile.
 
 
+<a id="meaning__uneasy-about-what-s-coming"></a>
 ### Uneasy about what's coming
 
 All four sit *before* the event — the unease of something bad that hasn't arrived yet, not the shock of something that has. They split on what the dread attaches to: a named upcoming event, an ominous sign, a person's permanent character, or your own conscience about an act you're about to commit. Three are feelings; one is what a sign *does*.
@@ -2838,6 +3070,7 @@ All four sit *before* the event — the unease of something bad that hasn't arri
 > **On the exam:** The trap is **apprehension** meaning *arrest* or *comprehension*, and **forebode** being irreversibly bad where *portend* and *presage* are neutral.
 
 
+<a id="meaning__unexcitable-by-nature"></a>
 ### Unexcitable by nature
 
 All four describe a person who doesn't visibly react — no flinching, no fuss, no outburst. The distinctions live in *why* the reaction is missing and *who is judging*. In three of them the feeling itself is faint or absent (a matter of constitution or surface); in one the feeling is fully present and deliberately held down. The words also split on approval: some are neutral description, some quiet praise, one is a slur wearing a lab coat.
@@ -2850,6 +3083,7 @@ All four describe a person who doesn't visibly react — no flinching, no fuss, 
 > **On the exam:** The trap is treating them as interchangeable synonyms for \"calm\": look at what the sentence supplies — if there's a hardship being borne, it's **stoic**; if the blank is a criticism of dullness, it's **stolid**; if it's scenery or a surface, only **placid** fits.
 
 
+<a id="meaning__unimpeachable-honesty"></a>
 ### Unimpeachable honesty
 
 All three certify that someone or something can be trusted, but they certify different objects. One vouches for a person's incorruptibility in a position of trust; one vouches for whether a statement is actually true; one vouches for the care a conscience takes while doing a job. Confusion comes from the shared halo of "honest" — the work is remembering that a claim can have truth, a person can have character, and an action can have care, and these words don't swap.
@@ -2861,6 +3095,7 @@ All three certify that someone or something can be trusted, but they certify dif
 > **On the exam:** The trap is swapping the object: sentence-completion stems put **veracity** where money and office demand **probity**, and lean on *unscrupulous* in a purely procedural context to make you read the moral sense as mere sloppiness.
 
 
+<a id="meaning__easily-taken-in"></a>
 ### Unseasoned and Easily Taken In
 
 All four describe a missing layer of worldly armor — the guard that makes an experienced person pause before believing, or before speaking with confidence about what they haven't lived. The judgment is almost always delivered from outside and from above: someone more seasoned is doing the labeling. They split on two axes — whether the failure is a **standing trait** or a **single episode**, and whether an actual deceiver had to be involved at all.
@@ -2873,6 +3108,7 @@ All four describe a missing layer of worldly armor — the guard that makes an e
 > **On the exam:** The trap is **callow**, which the exam slots into "easily fooled" contexts where it doesn't belong — it needs an unformed, untested person, not a deceived one; watch also for **naive**'s neutral technical sense (naive subjects, naive art) in science passages.
 
 
+<a id="meaning__unspoiled-and-pure"></a>
 ### Unspoiled and pure
 
 All four say a thing is free of some contaminant — nothing has diluted it, dirtied it, worn it, or breached it. The whole group is positive, and each word is a compliment about an absence. What separates them is *what kind of contamination is missing*: an admixture, a history of use, a mark or error, or a violation of something protected. Get the contaminant right and the words stop overlapping.
@@ -2885,6 +3121,7 @@ All four say a thing is free of some contaminant — nothing has diluted it, dir
 > **On the exam:** The trap is swapping **pristine** and **immaculate** (never used vs. carefully cleaned) and pairing **unalloyed** with a concrete noun or an unpleasant one — it only takes positive abstractions, and the sentence usually negates it to hint at a flaw.
 
 
+<a id="meaning__very-small"></a>
 ### Very small — size vs. shortfall
 
 All four say "small," but they split on *what kind of small*. Two measure physical size — how little space a thing occupies, whether under a magnifier or standing next to you. The other two measure an amount against a benchmark: there is some, it just falls short of what the job, the promise, or common decency required. Confusion comes from the fact that all four can precede a quantity noun, but only the second pair carries a verdict.
@@ -2897,6 +3134,7 @@ All four say "small," but they split on *what kind of small*. Two measure physic
 > **On the exam:** The trap is treating them as interchangeable size words: sentence-completion items hinge on whether the blank needs neutral physical smallness (minute/diminutive) or a shortfall with blame attached (scant/paltry), and on whether the surrounding clause supplies the contempt that paltry already contains.
 
 
+<a id="meaning__voluntarily-let-go"></a>
 ### Voluntarily let go
 
 Every word here describes a letting-go that is chosen rather than suffered — no theft, no accident, no defeat. What separates them is the shape of the release: whether the thing was ever in your hands, whether anyone receives it, what pressure forced the decision, and whether the act reflects badly on you. Two are cool and procedural, one is judgmental, one happens under duress.
@@ -2909,6 +3147,7 @@ Every word here describes a letting-go that is chosen rather than suffered — n
 > **On the exam:** Watch the sentence's pressure cue: a rightful claim handed over → relinquish; something merely available → forgo; survival or lightening the load → jettison; loyalty language (vows, faith, those who trusted you) → forsake.
 
 
+<a id="meaning__wasteful-with-money"></a>
 ### Wasteful with money — and the flavour of the blame
 
 All of these hover around spending or using up more than you should, and all of them (in their money sense) disapprove. What separates them is *what the disapproval is aimed at*: the proportion of a single act, the habit of a person, the moral character behind it, or the loss of the thing itself. They also differ in scale — a household eyebrow-raise versus a national treasury — and in grammar, since one is the verb the others describe.
@@ -2922,6 +3161,7 @@ All of these hover around spending or using up more than you should, and all of 
 > **On the exam:** The GRE mostly tests the non-money uses: **extravagant** attached to claims or praise, and the fake "returning home" sense of **prodigal**.
 
 
+<a id="meaning__weak-and-liable-to-break"></a>
 ### Weak and liable to break
 
 All four sit on the idea of insufficient strength — something that cannot hold, cannot function, or cannot bear the weight put on it. What separates them is what the weakness attaches to (a body, a character, a link, a capacity), whether the word names the weak thing or the force that weakened it, and above all the speaker's stance: pity, forgiveness, polite doubt, or clinical fact. Choosing wrongly here doesn't produce a slightly-off sentence; it produces the wrong attitude toward the person described.
@@ -2934,6 +3174,7 @@ All four sit on the idea of insufficient strength — something that cannot hold
 > **On the exam:** The trap is direction and register: the blank wants **debilitating** when it names the agent that stripped capacity, **tenuous** when it modifies evidence or a link, and **feeble** only where the writer is passing scornful judgement on an effort — with **frailty** reserved for when the slot needs a noun and a forgiving tone.
 
 
+<a id="meaning__weaken-from-underneath"></a>
 ### Weaken from underneath
 
 All four describe damage done to the support of a thing rather than to its face. Nothing is confronted, knocked over, or destroyed outright: the structure is left standing while whatever held it up is quietly removed, so it fails from below or from within. What separates them is *how long it takes*, *whether anyone meant it*, and *what exactly is lost* — support, control, or validity.
@@ -2946,6 +3187,7 @@ All four describe damage done to the support of a thing rather than to its face.
 > **On the exam:** Sentence Equivalence loves the undermine/undercut pair as an easy match — check whether the sentence signals slow erosion or a single stroke before pairing; and when the blank concerns validity rather than power (evidence, a claim, a contract), vitiate is the answer none of the others can take.
 
 
+<a id="meaning__drain-of-strength"></a>
 ### Weakening Without Destroying
 
 All four describe force being taken out of something that survives the process — strength, capacity, intensity, or effectiveness reduced rather than abolished. None of them means "destroy," and none means "one sharp blow"; each implies something left standing in a lesser state. They split on what gets weakened (a person's vigor, a faculty, a signal, a capability), whether the weakening crosses a functional threshold, and whether the speaker is diagnosing, moralizing, or just measuring.
@@ -2958,6 +3200,7 @@ All four describe force being taken out of something that survives the process �
 > **On the exam:** The GRE baits **enervate** as if it meant "energize" (it means the reverse), and baits **attenuate** as if it were harmful — in context it is often the answer precisely because the sentence signals deliberate, measured reduction with no blame.
 
 
+<a id="meaning__what-follows-after"></a>
 ### What Follows After
 
 All three name the aftermath of an act — the thing that happens *because* something else happened. Each insists on a causal link rather than mere sequence, and each carries a formal, written-up register: reports, policy papers, court filings. The splits are direction and stance. Two are nouns for consequences that are anticipated and dreaded; one is a verb for consequences already unfolding on the page, and it takes no object at all.
@@ -2969,6 +3212,7 @@ All three name the aftermath of an act — the thing that happens *because* some
 > **On the exam:** Sentence Equivalence loves to dangle **ramifications**/**repercussions** as an easy pair — check whether the sentence is about a tangle of effects to trace or a delayed blow to absorb; and if the blank takes a direct object, **ensue** is dead on arrival.
 
 
+<a id="meaning__put-up-with-it"></a>
 ### What You Will Not Put Up With
 
 All four mean *to tolerate* — to let something stand without objecting. All four are, in practice, negative-only verbs: the natural sentence is "I cannot ___," "would not ___," "will ___ no." That shared negativity is the trap, because it hides four different refusals: a refusal of taste, a refusal by authority, a refusal to sanction, and a refusal to be morally implicated. What separates them is who is refusing, and what kind of thing they refuse.
@@ -2981,6 +3225,7 @@ All four mean *to tolerate* — to let something stand without objecting. All fo
 > **On the exam:** Sentence Equivalence loves the condone/countenance pair — plug both in and check whether the blank's object is an established wrong (condone) or a proposal awaiting approval (countenance); *brook* is unusable unless the sentence supplies "no."
 
 
+<a id="meaning__changing-without-warning"></a>
 ### Whim over reason
 
 All of these describe behaviour that answers to impulse rather than to reason, rule, or principle — so you cannot predict it, and you cannot argue with it. The differences are about *whose* whim it is, *what* it costs you, and *how* it lands on the person described. Some are mild social complaints, one is almost a compliment, one is a warning to get clear, and one is a charge levelled at authority. A single sentence context — a lover, a stock, a king, a fine — usually decides which is right.
@@ -2994,6 +3239,7 @@ All of these describe behaviour that answers to impulse rather than to reason, r
 > **On the exam:** The trap is filing **arbitrary** under "random/changeable" — GRE sentences use it for a fixed rule with no rationale, and reward **mercurial** where the tone is admiring rather than accusing.
 
 
+<a id="meaning__willing-to-go-along"></a>
 ### Willing to go along
 
 All four describe an absence of resistance — someone or something that yields instead of pushing back. They differ in *where the yielding comes from*: openness before the fact, steerability by a handler, a swallowed objection after the fact, or simply never acting at all. Ordered here from most agency retained to least. Two of them also swing away from people entirely and describe **problems** that yield to a method, which is where the GRE most often plants them.
@@ -3006,6 +3252,7 @@ All four describe an absence of resistance — someone or something that yields 
 > **On the exam:** The trap is animacy: sentences apply **amenable** and **tractable** to equations, data, and diseases, so a test-taker primed on the people-sense reads "compliant" into a purely technical blank — and **intractable** appears far more often than its positive twin.
 
 
+<a id="meaning__without-clear-shape"></a>
 ### Without Clear Shape
 
 All four describe something you can't get a firm outline around — no edges, no fixed limit, no centre of gravity. The confusion is that each locates the shapelessness somewhere different: in the object itself, in how early it is, in a limit nobody set, or in how thinly the material is spread. Only one of them implies the thing is too *new* to have form; only one implies there's plenty of substance, just no focus. Get the source of the formlessness right and the four stop overlapping.
@@ -3018,6 +3265,7 @@ All four describe something you can't get a firm outline around — no edges, no
 > **On the exam:** Traps swap **inchoate** for "incomplete" (it means barely begun, not half-finished) and **diffuse** for "vague" or "empty" (the material is there — it just never concentrates).
 
 
+<a id="meaning__wilfully-unsteerable"></a>
 ### Won't Be Steered
 
 All four describe a failure of control — someone or something that will not be directed by the person who is supposed to be doing the directing. Crucially, none of them means simply *immovable*: unlike *stubborn* or *obstinate*, which dig in and refuse to go, these words all involve motion that has escaped its handler. The differences are in who has slipped the leash, whether the escape is defiance or drift, and how much blame the speaker is assigning by choosing the word.
@@ -3030,6 +3278,7 @@ All four describe a failure of control — someone or something that will not be
 > **On the exam:** The exam's favourite trap is **restive** ≠ *restless* — a restive crowd is on the edge of mutiny, not on the edge of sleep; the second-favourite is a **willful** answer where only the "deliberate act" sense fits the sentence, not the "headstrong person" one.
 
 
+<a id="meaning__won-t-do-the-work"></a>
 ### Won't do the work
 
 All five point at work that isn't getting done, and all carry blame. What differs is *where* the fault is located: in a person's settled character, in their competence, in a specific duty they slid out of, in the tempo of an action, or in mere aimless drift. Some brand a whole life; others complain about one afternoon. Some imply the work fell to somebody else; others imply nothing more than that you're late.
@@ -3043,6 +3292,7 @@ All five point at work that isn't getting done, and all carry blame. What differ
 > **On the exam:** The trap is treating **indolent** and **dilatory** as synonyms for "slow" — indolent is unwillingness to exert oneself at all, dilatory is delay in acting; and **shirk** is the only one that needs a duty as its object.
 
 
+<a id="meaning__work-out-a-hidden-meaning"></a>
 ### Working out a meaning that won't come easily
 
 All four concern meaning that doesn't arrive on its own — something stands between a reader and what a text, act, or person actually means, and work has to be done to close the gap. What separates them is *where the obstacle sits*: at the surface (you can't even make out the message), in the ambiguity (you can read it two ways and must pick one), in the depth (you've read it and still can't get to the bottom of it), or in the method (a whole disciplined apparatus brought to bear line by line). One is also a noun naming an activity rather than a verb naming a mental act.
@@ -3062,6 +3312,7 @@ All four concern meaning that doesn't arrive on its own — something stands bet
 *Words confused by sight or sound, not by meaning. Mixing these up is the cheapest way to lose a mark.*
 
 
+<a id="lookalike__acrimonious-parsimonious"></a>
 ### acrimonious / parsimonious / penurious / sanctimonious
 
 Four long, formal, Latinate adjectives that hiss to the same ending and all sound like character flaws — which is exactly the problem, because only two of them mean anything close to each other. Three describe a defect in a person's dealings (money, money, righteousness); one describes the poisoned air between two parties. The shared register is the trap: each is bookish, disapproving, and the kind of word that appears in an obituary or a court report, so they feel interchangeable in a sentence where only one fits.
@@ -3074,6 +3325,7 @@ Four long, formal, Latinate adjectives that hiss to the same ending and all soun
 > **On the exam:** The GRE rarely tests these against their synonyms — it drops one into a blank where another is expected (a *penurious* tip vs. a *parsimonious* theory vs. an *acrimonious* split), so read what the adjective attaches to: a relationship, a wallet, a life, or a sermon.
 
 
+<a id="lookalike__adept-adroit"></a>
 ### adept / adroit / apt / inept
 
 All four descend from Latin *aptus*, "fitted, suited," and the family resemblance is real: each asks whether a person and a task are well matched. Three of them turn that fit into a judgement of skill — high, high-and-quick, or embarrassingly low — while one keeps the older, plainer meaning of suitedness. The near-identical shells (*-ept*, *-pt*, *ad-*, *in-*) make them easy to swap on sight, and the prefixes do not pair up the way they look like they should.
@@ -3086,6 +3338,7 @@ All four descend from Latin *aptus*, "fitted, suited," and the family resemblanc
 > **On the exam:** Two traps: sentence-equivalence pairs *apt to* with *liable/prone to* and counts on you missing that only *apt* is verdict-free; and antonym logic tempts you to read *inept* as the negation of *apt* when its live opposite is *adept*.
 
 
+<a id="lookalike__allusive-elusive"></a>
 ### allusive / elusive / evasive / illusory
 
 Four near-twins built on overlapping Latin roots (*ludere*, "to play," plus *vadere*, "to go"), and all four describe something you can't get at directly. In each case the straight line between you and the thing is broken — by hinting instead of stating, by slipping away, by dodging, or by not being there at all. The differences lie in where the failure sits: in the style, in the quarry, in the dodger's intent, or in reality itself.
@@ -3098,6 +3351,7 @@ Four near-twins built on overlapping Latin roots (*ludere*, "to play," plus *vad
 > **On the exam:** Sentence completions love the elusive/illusory swap: hopes that were never achievable are **illusory**, hopes that stayed just out of reach are **elusive** — only one of them says the thing existed.
 
 
+<a id="lookalike__amenable-amicable"></a>
 ### amenable / amicable / inimical
 
 Three formal adjectives that look like relatives and mostly take **to**, each describing how one party or condition stands toward another: cooperatively, peaceably, or destructively. The resemblance is largely an accident of spelling — two come from *amicus* (friend), one does not, and one is its outright negation. What actually separates them is what they attach to: a person's willingness, the tone of a dealing, or the effect of an environment.
@@ -3109,6 +3363,7 @@ Three formal adjectives that look like relatives and mostly take **to**, each de
 > **On the exam:** The classic trap is treating **inimical** as friendly on the strength of *ami-*, and swapping **amenable** for **amicable** in a blank like "was ___ to the proposal" — only *amenable* can follow a person plus a method or suggestion.
 
 
+<a id="lookalike__ardent-arduous"></a>
 ### ardent / arduous / onerous
 
 Three formal adjectives that look and sound like siblings and all signal something *intense* — but the intensity lives in three different places: in the feeling, in the effort, or in the obligation. Two of them are complaints about work; one is a compliment about devotion. The spelling similarity does most of the damage here, since the meanings barely overlap once you see them side by side.
@@ -3120,6 +3375,7 @@ Three formal adjectives that look and sound like siblings and all signal somethi
 > **On the exam:** The exam pits **arduous** against **onerous** on a task blank and settles it with context: exhausting effort → arduous; imposed, resented duty → onerous. **Ardent** is pure spelling bait — it fails any sentence whose subject isn't a person's enthusiasm.
 
 
+<a id="lookalike__belie-belittle"></a>
 ### belie / belittle / betray
 
 Three verbs that start with *be-* and blur together on the page, though only two of them actually compete for meaning. Those two sit at opposite ends of one axis: whether a surface hides an inner truth or leaks it. The third has nothing to do with concealment at all — it's about assigning worth — and gets chosen on shape alone by test-takers who register the prefix and stop reading.
@@ -3131,6 +3387,7 @@ Three verbs that start with *be-* and blur together on the page, though only two
 > **On the exam:** Watch the subject of the verb: *her steady voice* belies panic, *her shaking hands* betray it — swap them and the sentence still parses but points the wrong way, which is exactly the trap.
 
 
+<a id="lookalike__beneficent-benevolent"></a>
 ### bene- / mal-: beneficent, benevolent, benign, magnanimous, malevolent, malign, munificent
 
 All of these are built from Latin *bene* ("well") or *male* ("ill") welded to a root meaning wishing (*volens*), doing (*facere*), or being born/natured (*natus*) — so they all sit on the same axis of goodwill and ill will and look almost interchangeable on the page. The real fault lines are three: **wish vs. deed** (does the word describe what someone feels or what they actually did?), **presence vs. absence** (active good versus merely nothing harmful), and **cost** (does the generosity require money, or a swallowed grudge?). Nearly all of them also imply the subject holds the power in the exchange, which is why several turn sardonic so easily. Only one is primarily a verb.
@@ -3146,6 +3403,7 @@ All of these are built from Latin *bene* ("well") or *male* ("ill") welded to a 
 > **On the exam:** The GRE plays the roots against the sentence: *-volent* is wishing, *-ficent* is doing, and *benign* is only the absence of harm — so a blank that specifies "endowed the hospital" rejects **benevolent**, "meant well but never acted" rejects **beneficent**, and "the amendment looked drastic but proved ___" wants **benign**, never **benevolent**.
 
 
+<a id="lookalike__boisterous-obdurate"></a>
 ### boisterous / obdurate / obsequious / obstinate / obstreperous
 
 These are confusable by shape, not by sense: four near-identical *ob-* words plus one that sounds like it belongs with them. What little meaning they do share is a person who is hard to deal with — either because they will not yield, or because they yield far too much, or because they are too loud to manage. The trap is that the look-alikes sit on opposite axes: two are about immovability, two are about noise, and one is about total capitulation. Recognising the word is never the problem; sorting which axis it lives on is.
@@ -3159,6 +3417,7 @@ These are confusable by shape, not by sense: four near-identical *ob-* words plu
 > **On the exam:** The exam pairs the look-alikes as distractors — obdurate vs. obstinate (heart vs. opinion) and obstreperous vs. boisterous (defiance vs. good humour) — and slips obsequious in as a fifth "stubborn" option when it means the exact opposite.
 
 
+<a id="lookalike__callous-callow"></a>
 ### callous / callow / fallow
 
 Three near-twins separated by two letters, and each names an absence — of feeling, of experience, of activity. But they land on completely different subjects: one on a hardened adult, one on an untested young person, one on ground or time. Nothing but the spelling connects them, which is exactly why they get swapped. Fix each to its own root and the confusion dies.
@@ -3170,6 +3429,7 @@ Three near-twins separated by two letters, and each names an absence — of feel
 > **On the exam:** Two traps: **callow** slotted into a sentence about indifference to suffering (that's *callous*), and **fallow** read as a synonym for barren or wasted — fallow promises recovery, barren denies it.
 
 
+<a id="lookalike__chary-wary"></a>
 ### chary / wary / weary
 
 Three words separated by a single letter, and only two of them are even about caution. *Chary* and *wary* both describe a guarded stance toward something — each takes *of*, and both mark the speaker as unwilling to proceed at face value. *Weary* has no caution in it at all; it belongs to exhaustion. The whole group turns on the fact that all three fit the same frame, "___ of his promises," and each produces a different sentence.
@@ -3181,6 +3441,7 @@ Three words separated by a single letter, and only two of them are even about ca
 > **On the exam:** In a blank, "wary of" and "weary of" are both grammatical — decide by whether the context supplies a threat to watch (wary) or a long grind to be sick of (weary); pick chary only when the blank governs something being doled out.
 
 
+<a id="lookalike__collaborate-corroborate"></a>
 ### collaborate / corroborate / elaborate
 
 Three long Latin verbs that rhyme, share the -orate ending, and all describe doing something *to* a piece of work or a claim — building it with someone, propping it up, or filling it out. Two of them genuinely descend from *labor* (work); the middle one comes from *robur* (strength) and only sounds like a sibling. Nothing about their meanings actually overlaps once you stop looking at the letters, which is exactly why the exam pairs them.
@@ -3192,6 +3453,7 @@ Three long Latin verbs that rhyme, share the -orate ending, and all describe doi
 > **On the exam:** The classic trap is a sentence about a second witness or a lab result offering "collaborate" — testimony *corroborates*; only people collaborate.
 
 
+<a id="lookalike__deliberate-delineate"></a>
 ### deliberate / delineate / denigrate / deprecate
 
 These four share almost no meaning — what they share is a shape: four syllables, a *de-* opening, an *-ate* ending, and a formal Latinate register that puts all of them in the same paragraph about authors, arguments and reputations. Any of them can fill "The critic ___d the theory," so under time pressure the eye grabs the wrong one on rhythm alone. The only genuine semantic overlap is between the two disapproval verbs, and there the split is temperature and target. Sort them by what the verb *does* to its object: judges intent, draws a boundary, damages a reputation, or registers mild dissent.
@@ -3204,6 +3466,7 @@ These four share almost no meaning — what they share is a shape: four syllable
 > **On the exam:** Sentence-equivalence traps live in the **denigrate/deprecate** pair — if the sentence signals restraint ("gently," "in measured terms," "while conceding the merits"), the strong word is wrong; **delineate** is the decoy whenever the blank actually wants a neutral verb of description.
 
 
+<a id="lookalike__desultory-dilatory"></a>
 ### desultory / dilatory / dilettante
 
 Three formal, negative Latinate words that all accuse someone of not applying themselves properly — and that look almost identical on the page, with two of them sharing a *dil-* opening and two sharing an *-atory/-ultory* ending. Each one indicts a different failing: the *shape* of the effort, the *timing* of it, and the *depth* of it. All three are judgments handed down by an observer, never self-descriptions.
@@ -3215,6 +3478,7 @@ Three formal, negative Latinate words that all accuse someone of not applying th
 > **On the exam:** In sentence completions, scan for the clue type: deadlines, delays and impatient stakeholders point to **dilatory**; scattered, unfocused, drifting effort points to **desultory**; and **dilettante** is usually eliminable on grammar alone, since it's the noun.
 
 
+<a id="lookalike__didactic-pedantic"></a>
 ### didactic / pedantic / pedestrian
 
 Three critical adjectives aimed at writing, argument, and intellectual manner — and the shared work they do is dismissal. Each says a performance failed in some unwelcome-mind way: too eager to instruct, too fixated on trivia, too flat to matter. The lookalike trap is on top of that: two of them open with *ped-* from unrelated roots (Greek *paid-*, child, versus Latin *ped-*, foot), so the spelling groups them while the meanings don't.
@@ -3226,6 +3490,7 @@ Three critical adjectives aimed at writing, argument, and intellectual manner �
 > **On the exam:** Sort by what's being attacked: intent to teach (didactic), fuss over trivia (pedantic), plain dullness (pedestrian) — and never let the shared *ped-* pull *pedestrian* toward learning, which it has nothing to do with.
 
 
+<a id="lookalike__diffuse-profound"></a>
 ### diffuse / profuse / profound
 
 Three words that look almost interchangeable on the page and all suggest, vaguely, "a lot of something." Two of them come from *fundere*, to pour, and describe how something is distributed — thinly across a space, or in a torrent out of a source. The third only looks like a pouring word: it comes from *fundus*, bottom, and measures depth rather than amount. The GRE's trap is that all three attach comfortably to the same abstract nouns — apologies, silence, changes, prose — while saying completely different things about them.
@@ -3237,6 +3502,7 @@ Three words that look almost interchangeable on the page and all suggest, vaguel
 > **On the exam:** Watch the collocation swap: *profuse apologies* (too many) vs *profound regret* (deeply felt) vs a *diffuse* apology (rambling) — the exam counts on the shared -f- spelling to make you pick by sound instead of by axis: thinned-out, poured-out, or deep.
 
 
+<a id="lookalike__disingenuous-ingenious"></a>
 ### disingenuous / ingenious / ingenuous
 
 Three words separated by a letter or two, all describing how a mind comes across — clever, artless, or faking artless. The spelling similarity is the whole trap: the two that look most alike (ingenious / ingenuous) are unrelated in meaning, and the one that looks like a negation (dis- + ingenuous) negates the *frankness* word, not the *clever* word. So the pairings the eye suggests are exactly wrong.
@@ -3248,6 +3514,7 @@ Three words separated by a letter or two, all describing how a mind comes across
 > **On the exam:** The exam banks on the false pairing: it offers *ingenious* where the sentence needs artlessness, and treats *disingenuous* as if it negated cleverness — it negates candor.
 
 
+<a id="lookalike__doctrinaire-dogged"></a>
 ### dogmatic / doctrinaire / dogged
 
 Three words that share the *dog-* opening and a common flavor of immovability — something here will not yield. The split is what refuses to move: two of them fix the *mind* (a belief that admits no challenge, no exception), one fixes the *feet* (an effort that admits no quitting). That's also a split in judgment: locking down a belief earns contempt, locking down your effort earns applause. Reordered so the two belief words sit side by side and the outlier stands last.
@@ -3259,6 +3526,7 @@ Three words that share the *dog-* opening and a common flavor of immovability �
 > **On the exam:** The trap is the shared *dog-*: a sentence praising someone who kept going through setbacks wants **dogged**, but the eye drifts to **dogmatic**; when both belief words fit, choose **doctrinaire** only if a theory is being applied to practice.
 
 
+<a id="lookalike__facetious-factious"></a>
 ### facetious / factious / fractious
 
 Three words separated by one or two letters, all of them negative, all of them accusations about someone's behaviour — which is why the eye slides between them. But they operate in three unrelated domains: one is about humour, one is about the structure of an organisation, one is about temper. Nothing about their meanings overlaps; the confusion is purely orthographic, so the fix is a hard mapping from spelling to domain rather than a shading of degree.
@@ -3270,6 +3538,7 @@ Three words separated by one or two letters, all of them negative, all of them a
 > **On the exam:** The trap is factious/fractious in the same slot: a coalition can be described by either, so decide from the rest of the sentence — organised rival blocs (factious) versus general bad-tempered bickering (fractious); if the subject is one irritable person, only fractious is possible.
 
 
+<a id="lookalike__feasible-plausible"></a>
 ### feasible / plausible / viable
 
 Three minimum-bar adjectives. Each certifies that something clears a floor and pointedly declines to say more — which is why they all read as lukewarm, and why they get swapped for one another. The trap is that the floors are different: one is about whether a thing can be carried out, one about whether a claim can be believed, one about whether a thing can keep going. Two of them judge actions; one judges assertions.
@@ -3281,6 +3550,7 @@ Three minimum-bar adjectives. Each certifies that something clears a floor and p
 > **On the exam:** The exam decides between them with the noun and the timeframe: an *explanation* takes plausible, a *plan given the budget* takes feasible, a *venture that must last* takes viable — and it rewards you for reading all three as faint praise, not endorsement.
 
 
+<a id="lookalike__felicitous-fortuitous"></a>
 ### felicitous / fortuitous / gratuitous
 
 Three formal four-syllable adjectives that end in the same *-itous* and all comment on how something came about — but on three different axes: whether it was well-judged, whether anyone planned it, and whether anything justified it. The shape is the trap; the Latin roots are unrelated (*felix* happy, *fors* chance, *gratis* free). One is praise, one is neutral report, one is an accusation.
@@ -3292,6 +3562,7 @@ Three formal four-syllable adjectives that end in the same *-itous* and all comm
 > **On the exam:** Sentence-equivalence traps swap **fortuitous** into a slot that rewards a deliberate good choice (**felicitous**) — and lean on the popular "luckily accidental" reading when the GRE is testing plain *unplanned*.
 
 
+<a id="lookalike__fervent-fervid"></a>
 ### fervent / fervid / florid
 
 Three formal adjectives that look and sound nearly identical and all suggest something running hot or overflowing. The first two are true siblings from the Latin for *boil* and differ only in temperature and in whether the speaker approves; the third comes from *flower* and only borrows the family resemblance — its "heat" is a flushed face or a surface piled with ornament. The trap is that all three can be dropped into a sentence about an overheated speech and sound plausible, even though one describes the feeling, one judges the feeling, and one describes only the wrapping.
@@ -3303,6 +3574,7 @@ Three formal adjectives that look and sound nearly identical and all suggest som
 > **On the exam:** The GRE builds sentences about overheated rhetoric where all three fit the slot: check whether the blank judges the sincerity of the feeling (fervent/fervid) or the ornamentation of the delivery (florid) — and whether the surrounding tone approves.
 
 
+<a id="lookalike__forbear-forgo"></a>
 ### forbear / forgo / forsake
 
 All three are "for-" verbs that a lazy dictionary glosses as *give up*, and all three describe a person ending up without something they had access to. The difference is never intensity first — it's **what the verb takes as its object**: an action you were provoked into taking, a benefit sitting in front of you, or a tie that already had a claim on you. Two are chosen restraint; one is a breach. Two are cool; one is loaded.
@@ -3314,6 +3586,7 @@ All three are "for-" verbs that a lazy dictionary glosses as *give up*, and all 
 > **On the exam:** Answer choices will all fit "gave up" — pick by the object: an act you had the right to commit → forbear, a benefit you could have taken → forgo, a bond that had a hold on you → forsake.
 
 
+<a id="lookalike__auspicious-precipitate"></a>
 ### Good omens and steep drops: auspicious / propitious / propitiate / precipitate / precipitous
 
 Five formal words separated by two or three letters, and the eye slides right over the difference. Semantically they split into two families that the spelling keeps welding together: one reads the **signs and conditions before an attempt** (favourable, promising — or a favour that has to be bought back), the other describes **something arriving too fast or dropping too steeply** (a crisis tipped early, a cliff, a plunging graph). All of them judge a thing at its outset rather than reporting its outcome, which is why a wrong pick still reads as grammatical. Sorted below by family, not alphabet.
@@ -3327,6 +3600,7 @@ Five formal words separated by two or three letters, and the eye slides right ov
 > **On the exam:** Classic traps: *precipitate* vs *precipitous* (people act precipitately; declines are precipitous), *propitious* planted where the verb *propitiate* is required, and *auspicious*/*propitious* offered as a Sentence Equivalence pair where they genuinely are interchangeable.
 
 
+<a id="lookalike__heterodox-heterogeneous"></a>
 ### heterodox / heterogeneous / homogeneous
 
 Three formal adjectives built from the Greek pair *hetero-* (other) and *homo-* (same), which is exactly why the eye slides between them. Two of them are a true antonym pair about **composition** — whether the parts of a thing are alike or unlike. The third only looks like it belongs: it is about **belief**, and its second half is a different root entirely. Sorting them is a matter of asking what the adjective is attached to — a mixture, or a mind.
@@ -3338,6 +3612,7 @@ Three formal adjectives built from the Greek pair *hetero-* (other) and *homo-* 
 > **On the exam:** The trap is prefix-matching: a sentence about dissenting economic theories offers *heterogeneous*, or a sentence about a mixed population offers *heterodox* — check the second half of the word, not the first.
 
 
+<a id="lookalike__imperative-imperious"></a>
 ### imperative / imperious / impervious
 
 Three words separated by two letters, and only two of them are actually related. The first pair descends from Latin *imperare*, "to command" — one names the demand itself, the other names a person's manner of issuing demands. The third is a stranger wearing the family face: its root is *per-*, "through," and it has nothing to do with authority at all — it is about what fails to get through a surface. The trap is that all three can appear in sentences about force being applied, so the eye supplies whichever meaning the context seems to want.
@@ -3349,6 +3624,7 @@ Three words separated by two letters, and only two of them are actually related.
 > **On the exam:** Watch the preposition: a blank followed by *to* is almost always **impervious**; *it is ___ that* is almost always **imperative**; a blank modifying a person's tone, gesture, or wave of the hand is **imperious**.
 
 
+<a id="lookalike__impertinent-impudent"></a>
 ### impertinent / impudent / pernicious / perspicacious / pertinacious / pertinent
 
 These are not a meaning-group; they are a **spelling** group. Six formal words built on look-alike Latin stems — *per-* and *im-per-* plus three or four letters of blur — that the eye files as one word and the memory then fills in with the wrong definition. Only two of them are genuinely close in sense (both mean cheeky); the rest run off in completely different directions: slow harm, sharp insight, stubborn grip, relevance. The danger is that each one is common enough to feel familiar and rare enough that you never checked which was which.
@@ -3363,6 +3639,7 @@ These are not a meaning-group; they are a **spelling** group. Six formal words b
 > **On the exam:** The GRE baits the stem, not the sense: it will offer **pertinacious** where a sentence needs **pertinent**, or **perspicacious** where it needs **perspicuous** (clearly expressed) — read the letters after *per-* before you commit.
 
 
+<a id="lookalike__indolent-insolent"></a>
 ### indolent / insolent / insular
 
 These three are a spelling trap, not a meaning trap: same `in-` opening, same three-syllable shape, same formal register, and all three are negative words you can level at a person. That is the entire overlap — semantically they share nothing. Each attacks a different axis: **effort**, **deference**, and **breadth of exposure**. Because the confusion is in the eye and ear, the fix is to bolt each word to its own scene.
@@ -3374,6 +3651,7 @@ These three are a spelling trap, not a meaning trap: same `in-` opening, same th
 > **On the exam:** In text completions the blank's neighbours give it away: exertion/torpor cues → **indolent**, a superior being addressed → **insolent**, contact with outsiders or new ideas → **insular** — the exam is betting you match letters instead of reading the axis.
 
 
+<a id="lookalike__insidious-insipid"></a>
 ### insidious / invidious / insipid / vapid — near-twins, different verdicts
 
 These are formal adjectives that collide on the page rather than in meaning: four syllables, an in- or v- opening, and an -id/-ious tail that the eye skims over. Two small families hide inside the noise — one about doing harm or earning hatred, one about having nothing inside — plus one word that is not negative at all. On a timed test the shape is read before the sense, so the fix is to attach each one to what it can actually modify: a disease, a comparison, a regime, a soup, a smile, a speech, an explorer.
@@ -3389,6 +3667,7 @@ These are formal adjectives that collide on the page rather than in meaning: fou
 > **On the exam:** The classic trap is insidious/invidious in a sentence about a comparison or distinction — ask whether the harm is hidden and slow (insidious) or public and resentment-breeding (invidious); and remember intrepid is the lone positive, so it is the plant in any answer set that otherwise reads as criticism.
 
 
+<a id="lookalike__laconic-tacit"></a>
 ### laconic / tacit / taciturn
 
 All three orbit the space where speech is absent — few words said, or none at all. But they attach to different things: one to a particular utterance, one to a person's lifelong temperament, and one to a meaning that got across without anyone opening their mouth. Two of them (**tacit**, **taciturn**) even share a root, *tacere*, "to be silent," which is exactly why they get swapped. The third looks like it belongs but comes from Laconia — Sparta — whose citizens were famous for cutting replies.
@@ -3400,6 +3679,7 @@ All three orbit the space where speech is absent — few words said, or none at 
 > **On the exam:** Watch what the blank modifies: an abstract noun (approval, agreement, admission) takes **tacit**; a person described across years takes **taciturn**; a specific reply or remark takes **laconic** — the GRE's favorite trap is offering **taciturn** where the sentence is really about an unspoken agreement.
 
 
+<a id="lookalike__languid-languish"></a>
 ### languid / languish / limpid
 
 These three collide on the page, not in meaning. Two of them are genuine relatives from Latin *languēre*, "to be faint," and share the idea of strength draining away into slow, drooping weakness. The third only *looks* like it belongs — it comes from *limpidus*, "clear," and describes transparency, not fatigue. All three are soft-sounding literary words, which is exactly why a hurried reader lets the wrong one slide past unchallenged.
@@ -3411,6 +3691,7 @@ These three collide on the page, not in meaning. Two of them are genuine relativ
 > **On the exam:** The trap is grammatical before it is semantic: a blank taking a verb can only be **languish**, and a sentence praising clear writing wants **limpid** — but the answer choices will sit adjacent so the eye supplies the wrong one.
 
 
+<a id="lookalike__lucid-pellucid"></a>
 ### lucid / pellucid / placate / placid
 
 Two unrelated Latin roots that blur at a glance: *luc-* "light" and *plac-* "calm, please." The overlap isn't just spelling — all four sit in the same emotional weather of *nothing clouding, nothing churning*, so a wrong pick still reads plausibly in a sentence about clarity or calm. The dividing lines are hard ones, though: one root is about **light passing through** (prose, water, a mind), the other about **turbulence being absent or removed** (a surface, a person's anger). And only one of the four is a verb.
@@ -3423,6 +3704,7 @@ Two unrelated Latin roots that blur at a glance: *luc-* "light" and *plac-* "cal
 > **On the exam:** The trap is a blank that could take "clear-headed" or "unruffled" — check whether the sentence is about *understanding* (luc-) or *disturbance* (plac-), and whether it needs a verb with an angry object.
 
 
+<a id="lookalike__lugubrious-salubrious"></a>
 ### lugubrious / salubrious / salutary
 
 Two of these are genuine relatives, from Latin *salus* (health, wellbeing), and both mean roughly "good for you" in a formal register — which is exactly why they get swapped. The third only shares the sound: it comes from *lugere*, to mourn, and has nothing to do with health at all. So the real work is twofold: don't let the -ubrious ending drag the mournful one into the health family, and then split the two health words by what they attach to — a *place* versus an *experience*, a pleasant condition versus an unpleasant one that improved you.
@@ -3434,6 +3716,7 @@ Two of these are genuine relatives, from Latin *salus* (health, wellbeing), and 
 > **On the exam:** The trap is the sound, not the sense: a health/climate blank baits **salutary** (which needs a lesson or shock, not air), a lesson/warning blank baits **salubrious**, and any gloomy context baits **lugubrious** into a slot where a plain "sad" word belongs.
 
 
+<a id="lookalike__predilection-proclivity"></a>
 ### predilection / proclivity / propensity
 
 All three are formal nouns for a leaning that was already in place before the moment of choice — habitual, characteristic, and not consciously adopted. Each takes *for* (or *toward*), each describes the person rather than the occasion, and each implies the leaning will show up again. The splits are what the leaning attaches to (a kind of thing you like vs. a thing you keep doing), how damning it is, and who is doing the describing.
@@ -3445,6 +3728,7 @@ All three are formal nouns for a leaning that was already in place before the mo
 > **On the exam:** Dictionaries make these near-synonyms, so the GRE decides between them with the object and the speaker: a liked *thing* wants predilection, an innate vice wants proclivity, and a measured or non-human tendency wants propensity.
 
 
+<a id="lookalike__prodigal-prodigious"></a>
 ### prodigal / profligate / prodigious
 
 Three formal, look-alike Latinate adjectives built on the idea of *too much*. Two of them are verdicts on how someone spends — money poured out past the point of sense, with blame attached. The third abandons the spending idea entirely and keeps only the excess, describing sheer size that stops you in your tracks. The trap is that all three sound expensive and slightly disreputable, and only two of them are.
@@ -3456,6 +3740,7 @@ Three formal, look-alike Latinate adjectives built on the idea of *too much*. Tw
 > **On the exam:** The GRE rarely asks these head-to-head; it plants one in a sentence where the *other* would fit the sound and not the sense — an amount that needs **prodigious**, a budget that needs **profligate** — and separately baits the "returning" misreading of **prodigal**.
 
 
+<a id="lookalike__staid-stoic"></a>
 ### staid / stoic / stolid
 
 All three describe a person who registers nothing on the surface — sober, unexcitable, giving you a flat calm instead of a reaction. They split on what the calm is made of and whether it earns respect: dull conventionality, disciplined endurance, or an empty interior. Two are quiet insults; one is quiet praise. The near-identical spellings make them the classic GRE swap.
@@ -3467,6 +3752,7 @@ All three describe a person who registers nothing on the surface — sober, unex
 > **On the exam:** The exam banks on *stoic* vs *stolid* — same look, opposite verdicts (feeling mastered vs. no feeling at all) — and slips in *staid* where the sentence is about dull respectability, not composure under duress.
 
 
+<a id="lookalike__truculent-turbid"></a>
 ### truculent / turbid / turbulent / turgid
 
 Four negative adjectives separated by two or three letters, and two of them genuinely descend from the same Latin *turba*, "disorder." All four can be aimed at bad writing, which is where the GRE lives. But they diagnose four unrelated failures: a hostile temperament, an unclear medium, unstable motion, and bloated bulk. The letters overlap; the meanings barely touch.
@@ -3479,6 +3765,7 @@ Four negative adjectives separated by two or three letters, and two of them genu
 > **On the exam:** The trap is turbid vs. turgid in a sentence about bad writing: if the blank blames obscurity, it's turbid; if it blames pomp or bloat, it's turgid.
 
 
+<a id="lookalike__versatile-volatile"></a>
 ### versatile / volatile / voluble
 
 These three are confused by eye, not by meaning — three or four syllables, two of them sharing the opening **vol-**, all built on Latin verbs of motion: *vertere* (turn), *volare* (fly), *volvere* (roll). That shared metaphor of easy movement is the real trap, because each can be loosely glossed as "moves readily," and a hazy reader will drop any of the three into a sentence about a person who changes or moves fast. In use they overlap almost nowhere: one rates ability, one rates stability, one rates speech.
@@ -3497,6 +3784,7 @@ These three are confused by eye, not by meaning — three or four syllables, two
 *Ordinary words whose tested sense is not the one you already know. The danger is that you never look twice.*
 
 
+<a id="second-meaning__bendy-materials-biddable-people"></a>
 ### Bendy materials → biddable people
 
 Every word here starts as a physical property — something that gives way under pressure instead of snapping — and then gets applied to people, minds, and wills. The metaphor is the same each time: a person under influence is a substance under hands. What separates them is *what happens to the shape afterwards* (kept, sprung back, or irrelevant), *who is doing the pressing*, and whether the speaker admires the give or is quietly noting how usable it makes you.
@@ -3510,6 +3798,7 @@ Every word here starts as a physical property — something that gives way under
 > **On the exam:** The trap is assuming all five are mild insults: **supple** is straight praise, and **tractable** applied to a problem is purely technical — so a "yielding = pushover" reading kills the right answer.
 
 
+<a id="second-meaning__light-and-shadow-words-that-mean-hide-or-outdo"></a>
 ### Blocking the View: hide, outshine, sidestep
 
 Every word here starts as something physical — a shadow falling across a disc, a garment thrown over the shoulders, a sealed artery, a road running along a lakeshore — and the GRE tests the *figurative* extension instead: something ends up unseen, unclear, or untouched. In each case the hidden thing survives intact; nothing is destroyed, only kept out of view or out of reach. What separates them is the **mechanism** of the blocking — brightness, murk, covering, physical closure, or a wide berth — and whether anyone intended it.
@@ -3523,6 +3812,7 @@ Every word here starts as something physical — a shadow falling across a disc,
 > **On the exam:** The literal sense is the decoy — the tested answer is almost always figurative, except for **occlude**, which has no figurative use at all, so an abstract object (a truth, a legacy) rules it out and points to *obscure* or *cloak*.
 
 
+<a id="second-meaning__sky-and-lever-words-for-peaks-and-turning-points"></a>
 ### Borrowed Points: Sky, Orbit, Music, Lever
 
 Every word here started as a technical term — a point on the celestial sphere, a point in an orbit, a marking in a score, a point on a machine — and each is now used almost entirely for the figurative sense. That shared migration is the trap: they all get flattened in memory into "the big important moment," so a test-taker reaches for whichever one sounds most impressive. But they mark different things — the top of an arc, the bottom of one, the climb toward a top, and a point that isn't on an arc at all. The literal sense is what disambiguates them; keep it in view and they stop blurring.
@@ -3536,6 +3826,7 @@ Every word here started as a technical term — a point on the celestial sphere,
 > **On the exam:** The classic bait is a sentence describing a steady *build* with *zenith*/*apogee*/*culmination* on offer beside *crescendo* — and the reverse, a sentence naming a summit that tempts you into *crescendo*; meanwhile *fulcrum* gets slotted in wherever a blank means "central" or "decisive," though it specifically means leverage.
 
 
+<a id="second-meaning__chemistry-and-weather-words-for-moods"></a>
 ### Chemistry and Weather Words for Moods
 
 All five start as descriptions of physical behavior — how a liquid evaporates or boils, how air and water churn, whether an object floats — and then get handed to temperaments, relationships, markets and historical periods. The transfer is what makes them confusable: each one imports the *physics* of its source, so the real question is never "is this unstable?" but "unstable in which way — about to erupt, bubbling upward, storm-hot, merely churning, or bobbing back up?" The GRE trades on the fact that all five can modify the same nouns (a marriage, a decade, an economy) while promising very different things about them.
@@ -3549,6 +3840,7 @@ All five start as descriptions of physical behavior — how a liquid evaporates 
 > **On the exam:** Distractors here differ by temperature and direction, not by degree: **turbulent** fits any unsettled thing, **tempestuous** needs hot emotion, **volatile** needs a looming threat, and **ebullient** (loud joy) is separated from **buoyant** (unsinkable joy) only by whether the sentence stresses noise or recovery.
 
 
+<a id="second-meaning__church-words-for-secular-devotion"></a>
 ### Church words for secular devotion
 
 These are all sacramental machinery — rites of the altar, ranks of the clergy, the making and unmaking of holy things — lent out to politics, criticism, business and fandom. The literal sense is rarely what a GRE passage wants; what carries over is the *incense*, the implication that ordinary human judgment has been replaced by something ritual, hereditary or unquestionable. That residue is what makes them treacherous: the same word can confer dignity or quietly accuse the people doing the revering. The confusion comes from lumping them as "religious praise words" when they differ sharply in who acts, on whom, and with what authority.
@@ -3564,6 +3856,7 @@ These are all sacramental machinery — rites of the altar, ranks of the clergy,
 > **On the exam:** The trap is reading them as interchangeable honorifics: the exam tests *who performs the act* (institution vs. individual vs. predecessor) and whether the sentence's tone is admiring or accusing — deify and acolyte usually signal the author's disapproval, canonize and anoint signal conferred authority, venerate signals only the feeling.
 
 
+<a id="second-meaning__classroom-words-with-a-technical-second-sense"></a>
 ### Classroom words with a technical second sense
 
 Each of these is a word you first met as a plain descriptive term, and each has a second life as a term of art inside one specific discipline — publishing, art criticism, linguistics, law, history. The GRE rarely wants the sense you learned in school; it drops the word into a passage where the specialist sense is the only one that fits and lets the familiar meaning mislead you. The tell is always the surrounding subject matter, not the sentence itself.
@@ -3577,6 +3870,7 @@ Each of these is a word you first met as a plain descriptive term, and each has 
 > **On the exam:** The exam plants the everyday sense as a plausible-looking wrong answer and rewards the disciplinary one — so read the passage's field before you read the word.
 
 
+<a id="second-meaning__clear-water-clear-prose"></a>
 ### Clear water → clear prose
 
 Every word here measures one thing: how much passes through. Physically, that's light through water, glass, or air; figuratively, it's meaning through sentences — how much effort the reader spends before the idea arrives. The group splits into the transparent end and the blocked end, and the whole set moved from describing liquids to describing writing and minds by the same metaphor. The GRE almost never needs the literal sense; it needs to know whether the medium lets you through, half-lets you through, or stops you cold.
@@ -3590,6 +3884,7 @@ Every word here measures one thing: how much passes through. Physically, that's 
 > **On the exam:** Sentence Equivalence loves the limpid/pellucid pair as interchangeable answers; the trap is grabbing lucid instead, which won't describe literal water — and at the negative end, turbid (temporarily clouded) is not a fit where the sentence demands opaque (impenetrable).
 
 
+<a id="second-meaning__clinic-words-for-non-clinical-things"></a>
 ### Clinic Words for Non-Clinical Things
 
 All six begin in the sickroom — tumours, toxins, infections, wounds, bones, purgatives — and all six do most of their GRE work far from it, describing policies, prejudices, bureaucracies, grievances and grief. The metaphor is never decorative: each smuggles in a specific clinical claim about *how* the thing is bad, or not bad. The trap is that the literal sense is neutral diagnosis while the figurative sense is usually a verdict, and both can appear in one passage. Read them for what the medical picture asserts — spread, permanence, neglect, hardening, release — not for general approval or disapproval.
@@ -3604,6 +3899,7 @@ All six begin in the sickroom — tumours, toxins, infections, wounds, bones, pu
 > **On the exam:** The exam runs the literal sense in a science passage and the figurative sense elsewhere, then makes the answer hinge on what the metaphor asserts — spread (virulent), permanence (endemic), neglect (fester), rigidity (ossify) — so reading them all as generic "bad" picks wrong every time.
 
 
+<a id="second-meaning__abstract-nouns-whose-plain-sense-misleads"></a>
 ### Common nouns whose everyday sense hides the tested one
 
 Each of these carries an everyday sense so dominant — national finances, a building, map coordinates, a concert programme — that it masks the sense the GRE actually tests. In every case the hidden meaning is about a person operating: how sparingly they use their means, how easily they execute, how much room they've been given, how much they have ready to deploy. Because the tested senses all sit in the same neighbourhood of *skill and resources*, they blur together once you strip away the concrete sense. The separations are sharp, though: one grades quality, one grades ease, one grades permission, one grades inventory.
@@ -3616,6 +3912,7 @@ Each of these carries an everyday sense so dominant — national finances, a bui
 > **On the exam:** The prepositions give it away: economy *of*, facility *with/for*, latitude *to* (usually granted), repertoire *of* — and the surrounding passage will be about art, law or performance precisely so the concrete sense stays plausible.
 
 
+<a id="second-meaning__contronyms-the-word-points-both-ways"></a>
 ### Contronyms: the word points both ways
 
 Each of these words carries two senses that pull in opposite directions — grant and punish, produce and surrender, mend and destroy, hand out and do away with. The two senses aren't accidents of homonymy; they descend from one root idea (an authority binding, a thread pulled, a thing given up) that can be read as gain or loss depending on who's on which end. What separates them is the *trigger*: what tells you which sense is live — a preposition, a grammatical number, transitivity, or the part of speech.
@@ -3629,6 +3926,7 @@ Each of these words carries two senses that pull in opposite directions — gran
 > **On the exam:** The trap answer always fits the everyday sense; the credited answer runs on the buried one — so when *sanction*, *compromise*, or *dispense* appears, check the grammar (plural? participle? followed by *with*?) before you check the meaning.
 
 
+<a id="second-meaning__courtroom-senses-hiding-in-everyday-words"></a>
 ### Courtroom senses hiding in everyday words
 
 Each of these is a common word that the law also uses as a term of art — and the legal sense is narrower, colder, and often unrelated in feel to the one you reach for first. The everyday meaning is what you recognise; the legal meaning is what the GRE tests. The trap is that the familiar sense usually still *fits* the sentence well enough to feel right, so the wrong reading rarely announces itself. What separates them is which direction the hiding runs: whether the courtroom sense is buried under the common one, or the common one is a metaphor stolen from the courtroom.
@@ -3643,6 +3941,7 @@ Each of these is a common word that the law also uses as a term of art — and t
 > **On the exam:** The GRE nearly always wants the sense you didn't reach for first, and the tell is grammatical, not semantic — check the article, the plural, and the preposition before you check the meaning.
 
 
+<a id="second-meaning__legal-words-whose-tested-sense-is-figurative"></a>
 ### Courtroom Words Off Duty
 
 All four come from the courtroom and the police station — seizing a suspect, charging a crime, showing sufficient grounds — and all four are tested on the sense that has walked out of that building and into ordinary prose. The legal weight never fully drops off: each keeps the force of a formal proceeding while pointing at a face, a report, a system, or a response. The confusion is directional. In some of these the figurative use has taken over and the legal one is nearly dead; in others the literal legal sense is exactly the buried meaning the exam is fishing for.
@@ -3655,6 +3954,7 @@ All four come from the courtroom and the police station — seizing a suspect, c
 > **On the exam:** The trap is context priming: a passage about crime pushes you to read "apprehension" as dread and "arresting" as police work, when the answer usually needs the sense the surrounding subject matter did *not* prime.
 
 
+<a id="second-meaning__fencing-and-card-table-tactics"></a>
 ### Fencing and card-table tactics
 
 All three are borrowed from the duel and the game table, and all three name a *move* inside a contest rather than a state of affairs: something one player does to another while the other is still playing. That shared arena is what blurs them — each involves an opponent, an advantage, and a moment. What separates them is direction and stance: one misleads, one gets a move stopped, one gets a move judged. Each also carries a second sense the exam prefers to the obvious one.
@@ -3666,6 +3966,7 @@ All three are borrowed from the duel and the game table, and all three name a *m
 > **On the exam:** GRE prefers the off-sense: **foil** almost always means the Watson-to-Holmes contrast, not "thwart" — and it will offer **feint** and **ploy** as interchangeable when only *ploy* carries contempt.
 
 
+<a id="second-meaning__stable-and-field-words-for-the-mind"></a>
 ### From Stable and Field: Farm Words That Went Mental
 
 Every word here started in a barn, a pasture, or a nest, and every one now earns its keep describing minds, careers, institutions, and tempers. The literal sense is still technically alive — you can bridle a horse, leave an acre fallow — but the GRE almost never wants it. The confusion is that a reader who knows the farm sense guesses at the human sense, and a reader who knows the human sense forgets the image that governs it. The image is the key: what the animal or field is doing tells you exactly what the abstraction does.
@@ -3680,6 +3981,7 @@ Every word here started in a barn, a pasture, or a nest, and every one now earns
 > **On the exam:** Sentence-equivalence sets exploit the pairs: *bridle*/*goad* both concern shaping behaviour but in opposite directions, and *fallow*/*hidebound* both mean "producing nothing" while disagreeing entirely about whether it's fixable — read the sentence for direction and blame, not just for idleness or control.
 
 
+<a id="second-meaning__geography-as-narrow-mindedness"></a>
 ### Geography as narrow-mindedness
 
 All three start as literal map words — a province, a parish, an island — and all three are used on the GRE in their figurative sense: a mind whose reach stops at some boundary. The charge in every case is limited *range*, never limited intelligence; each can be leveled at someone perfectly capable inside their own patch. What separates them is which feature of the map does the metaphorical work: distance from the centre, size of the patch, or the water around it.
@@ -3691,6 +3993,7 @@ All three start as literal map words — a province, a parish, an island — and
 > **On the exam:** The exam usually keys on the literal sense you've forgotten (parish, island, non-capital) or forces a choice between them via context: "sealed off, incurious" → insular; "small-stakes, only matters locally" → parochial; "unsophisticated, behind the metropolis" → provincial.
 
 
+<a id="second-meaning__homographs-a-wholly-different-word"></a>
 ### Homographs: A Wholly Different Word
 
 Each of these is a word you've read a thousand times in its ordinary sense — a month, a unit of time, what's inside a box, an everyday enthusiasm. The GRE ignores that sense entirely and tests a second one that arrives from a different direction: a different stress pattern, a different part of speech, sometimes a different root word that just happens to share the spelling. The danger isn't that the tested meaning is hard; it's that the familiar meaning fires first and you never look again. Treat a spelling you recognize instantly as a signal to slow down, not speed up.
@@ -3703,6 +4006,7 @@ Each of these is a word you've read a thousand times in its ordinary sense — a
 > **On the exam:** The sentence will make the common sense grammatically or logically impossible — a noun-only word sitting in an adjective slot, an "eager" reading in a funeral sentence — so let the syntax, not your first recognition, pick the meaning.
 
 
+<a id="second-meaning__humours-and-planets-as-temperament"></a>
 ### Humours and planets as temperament
 
 Ancient physiology held that a person's fixed disposition came from bodily fluids and the planets that ruled them — blood, phlegm, and quicksilver each producing a recognizable type. The literal substances have dropped away, and what survives in modern English is the temperament: a settled, constitutional way of being, not a mood someone happens to be in today. All three are formal, all three describe what a person *is* rather than how they are reacting, and all three can be praise or diagnosis depending on whether the writer thinks the situation warranted a reaction. The trap is that they are not synonyms of each other — each one preserves a different piece of the old theory.
@@ -3714,6 +4018,7 @@ Ancient physiology held that a person's fixed disposition came from bodily fluid
 > **On the exam:** Sentence-equivalence pairs "sanguine" with "phlegmatic" as though both just meant calm — but only sanguine asserts a good outcome, and only phlegmatic can mean torpid; watch also for the literal senses (sanguine = blood-red, mercurial = quicksilver-like) surfacing in older passages.
 
 
+<a id="second-meaning__in-name-only-not-in-fact"></a>
 ### In name only, not in fact
 
 Something real happened, or really exists — the fee was charged, the apology was given, the title was conferred — and none of it carries the weight the form promises. The gap is between the outward record and the actual substance behind it, and each of these words locates that gap somewhere different: in the size of what was given, in the label attached to it, or in the attention paid while doing it. All three let a speaker grant the fact and withhold the credit, which is why they read as understated criticism rather than open accusation.
@@ -3725,6 +4030,7 @@ Something real happened, or really exists — the fee was charged, the apology w
 > **On the exam:** Sort by what the emptiness attaches to: **perfunctory** modifies how an act was performed, **token** how much was given, **nominal** what something is called — and watch for nominal's on-spec technical sense in finance/engineering contexts, where it means the opposite of hollow.
 
 
+<a id="second-meaning__homely-words-that-mean-to-tolerate"></a>
 ### Innocent-Looking Words That Mean "To Tolerate"
 
 All five verbs cover the ground between *permit* and *endure*: letting something objectionable stand instead of moving against it. None means *enjoy* or *approve* — each is a form of non-objection, which is why they cluster so tightly in the negative ("will not ___"). What makes the group treacherous is that most of them wear an innocent disguise; as nouns they are a stream, a face, and an ancestor. The exam's interest is almost entirely in the buried verb.
@@ -3738,6 +4044,7 @@ All five verbs cover the ground between *permit* and *endure*: letting something
 > **On the exam:** Expect *brook* and *countenance* offered as a Sentence Equivalence pair inside a negated clause, with *forbear* dangled as the trap — it points at the speaker's own restraint, not at permitting another's behavior.
 
 
+<a id="second-meaning__kitchen-words-for-people-and-prose"></a>
 ### Kitchen words for people and prose
 
 All five started at the table and ended up in criticism: flavour, sweetness, sharpness, temperature and appetite, borrowed to judge prose, performances, remarks and people. The palate metaphor does real work in each — the critic is positioned as someone tasting, and the verdict is about how much sensation arrived and whether it was welcome. What separates them is where on the plate the fault lies: too little, too much, just right — or not in the dish at all, but in the diner.
@@ -3751,6 +4058,7 @@ All five started at the table and ended up in criticism: flavour, sweetness, sha
 > **On the exam:** The classic swap is **insipid** for **tepid** — one says the work had no flavour, the other says the crowd had no warmth; check whether the blank sits on the object or on the reaction.
 
 
+<a id="second-meaning__leaning-and-liking-not-incompleteness"></a>
 ### Leaning and liking, not incompleteness
 
 Each of these has a famous everyday sense that has nothing to do with the tested one — incomplete, fitting, sloping — and behind it a second sense meaning *disposed toward*. In that second sense all three describe a leaning rather than a commitment: something short of a decision, a settled habit, or an outright preference that a person has not necessarily acted on. They differ in who is doing the leaning, whether it counts as a flaw, and whether the object is a course of action or a thing you simply enjoy.
@@ -3762,6 +4070,7 @@ Each of these has a famous everyday sense that has nothing to do with the tested
 > **On the exam:** Sentence-equivalence stems bury these in contexts that bait the famous sense — a "partial" observer isn't half an observer, an "apt" student in a tendency sentence isn't a clever one; check whether the blank wants bias, prediction, or a hedge.
 
 
+<a id="second-meaning__nautical-words-on-dry-land"></a>
 ### Nautical words on dry land
 
 Each of these began at sea — cargo going over the side, a line dropped to measure depth, ships running side by side, a hull that won't sink — and each now does most of its work on land, in offices, markets and arguments. The trap is that the figurative sense isn't free-floating: the original physical image still constrains what the word can attach to and what it implies. Knowing the literal sense is what tells you the figurative one is narrower than its dictionary synonym. Test yourself on which nautical picture is still doing the work.
@@ -3774,6 +4083,7 @@ Each of these began at sea — cargo going over the side, a line dropped to meas
 > **On the exam:** The GRE plants the nautical word in a landlocked sentence (a budget, a memo, a motive) and offers a literal-sea distractor plus a too-broad synonym — *discard* for **jettison**, *know* for **fathom**, *informed* for **abreast**, *joyful* for **buoyant**; the right answer is the one that keeps the original image's constraint.
 
 
+<a id="second-meaning__not-what-the-look-alike-suggests"></a>
 ### Not what the look-alike suggests
 
 Each of these sits one letter, one prefix, or one root away from a much commoner word — and that commoner word is the one your brain supplies. The real definitions aren't obscure; the problem is that the wrong reading arrives first and feels fluent, so nothing signals an error. In several cases the true sense is not merely different from the decoy but close to its opposite. Learning them means learning the decoy alongside them, because on the exam the decoy is what's being tested.
@@ -3787,6 +4097,7 @@ Each of these sits one letter, one prefix, or one root away from a much commoner
 > **On the exam:** Sentence-equivalence and text-completion items are built so the decoy sense *also* fits the blank loosely — check whether the sentence rewards impartiality or boredom, bewilderment or composure, cleverness or innocence, before choosing.
 
 
+<a id="second-meaning__ordinary-verbs-that-mean-to-restrain"></a>
 ### Ordinary words that mean "to restrain"
 
 Every word here holds something back without destroying it — the force is still there, still moving, just slowed, capped, steered, or weighed down. That shared meaning is easy; the distinctions live elsewhere. Ask who is applying the restraint (an agent choosing to, or circumstance imposing it), whether it's wanted or resented, and whether the thing restrained is a moving body, a rising quantity, a hot impulse, or an effort in progress. Most of these also hide their GRE sense behind a common everyday one.
@@ -3801,6 +4112,7 @@ Every word here holds something back without destroying it — the force is stil
 > **On the exam:** Two traps at once: the everyday noun senses (a tick mark, a pavement edge, a picnic basket, losing your temper) are decoys, and once you're in the right sense the answer hinges on whether the restraint is deliberate and desired (check/curb/bridle), improving by admixture (temper), or an unwelcome drag (hamper/inhibit).
 
 
+<a id="second-meaning__touchable-sounding-words-that-mean-obvious"></a>
 ### Patent, Manifest, Palpable: Obvious Wearing Another Coat
 
 All three mean *obvious* — not needing proof, argument, or a second look — and all three arrive at that meaning through a more concrete sense the reader is likelier to know first: a legal grant, a cargo list, a thing you can touch. That extra baggage is exactly what separates them. One is used to call out a falsehood, one is the institutional word for something coming plainly into view, and one measures how hard a thing presses on you rather than how easily it is seen.
@@ -3812,6 +4124,7 @@ All three mean *obvious* — not needing proof, argument, or a second look — a
 > **On the exam:** The exam hides the adjective behind the famous noun — a sentence about inventions or ship cargo where **patent**/**manifest** must mean "obvious" instead — and offers **palpable** for a plain fact, where it needs a felt atmosphere.
 
 
+<a id="second-meaning__physical-sharpness-verbal-sharpness"></a>
 ### Physical sharpness → verbal sharpness
 
 Every word here starts as a physical property — burning, biting, scraping, puckering, honing, piercing — and gets lent to speech, mind, or manner. The literal sense is never dead; it tells you exactly *how* the figurative sharpness works, and therefore what it implies. The real fault line is not intensity but attitude: some of these condemn the speaker as bitter, some half-admire them as clever, and some are straight compliments about the quality of a mind. Getting the group right means asking what the sharpness does to its target and what it reveals about whoever wielded it.
@@ -3827,6 +4140,7 @@ Every word here starts as a physical property — burning, biting, scraping, puc
 > **On the exam:** The trap is assuming the whole group is hostile: **trenchant** and **keen** are compliments and **astringent** often is, so the answer usually turns on whether the sentence rewards accuracy, wit, or bitterness — and on the buried second senses (keen = eager/to wail, mordant = dye fixative, astringent = skin toner).
 
 
+<a id="second-meaning__plain-nouns-that-turn-into-verbs-of-promotion"></a>
 ### Plain Nouns That Turn Into Verbs of Promotion
 
 Each of these started as something concrete — a prizewinner, a courtroom pleader, a ticket hustler, a lion, a rubbed piece of metal — and each has a second life as a verb meaning *to raise something's public standing*. That's the shared job: making a cause, a person, or a reputation look better in front of an audience. They split on three axes: **what** gets promoted (an idea, a policy, a human being, an existing reputation), **who** is doing it (a lone partisan, a paid mouth, a whole crowd), and **whether the word is sneering at the promoter**. Two of these are clean; three come with a built-in raised eyebrow.
@@ -3840,6 +4154,7 @@ Each of these started as something concrete — a prizewinner, a courtroom plead
 > **On the exam:** The literal noun sense is the decoy; past that, the split is connotation — **tout**, **lionize**, and **burnish** all carry a whiff of the undeserved, so any sentence hinting at self-interest, faddishness, or cosmetic fixes rules out **champion** and **advocate**.
 
 
+<a id="second-meaning__plain-verbs-doing-abstract-work"></a>
 ### Plain verbs doing abstract work
 
 These are short, ordinary verbs you have known since childhood — which is exactly the problem. Each carries a second, more abstract sense that the everyday meaning crowds out, and the GRE writes its sentence around the abstract one. You don't misread them because they're hard; you misread them because you're sure you already know them and stop reading. The tell is usually the grammar: an inanimate subject, an adjective hanging off the end, an object that couldn't possibly take the literal sense.
@@ -3853,6 +4168,7 @@ These are short, ordinary verbs you have known since childhood — which is exac
 > **On the exam:** Sentence equivalence blanks pick these because both everyday and abstract senses are grammatical — only the inanimate subject or the trailing adjective reveals which one is in play.
 
 
+<a id="second-meaning__praise-shaped-words-that-damn-faintly"></a>
 ### Praise-shaped words that damn faintly
 
 Each of these looks like a compliment and functions as a limit. The praise is real but bounded, and the bound is the message: something cleared a bar, or was small, or was well-intentioned — and the reader is meant to notice what went unsaid. All four also carry a second, non-evaluative sense (legal fitness, physical crossability, literal smallness, plain approval) that the GRE prefers to test, because students only know the flattering surface.
@@ -3865,6 +4181,7 @@ Each of these looks like a compliment and functions as a limit. The praise is re
 > **On the exam:** The GRE rarely tests the warm reading: it builds a sentence whose contrast signal ("merely," "though," "at best") forces the deflating sense, or drops **competent** and **passable** into legal/geographic contexts where the faint-praise reading is the trap.
 
 
+<a id="second-meaning__proper-nouns-carrying-a-fixed-character"></a>
 ### Proper Nouns That Became Verdicts
 
 Every word here started as a name — an empire, a city, a lawgiver, a tribe, a knight, a soldier — and hardened into a permanent judgment about one trait. The origin is dead weight on the exam: you are never asked about Byzantium or Don Quixote, only about the single quality the name now stands for. The trap is that several of them describe rules, several describe bareness, and several describe a person's whole outlook, so they cluster into near-neighbours that are in fact answering completely different questions: is it *tangled*, or *harsh*? Is the *room* bare, or the *sentence*? Is the fool *lovable*, or *smug*?
@@ -3880,6 +4197,7 @@ Every word here started as a name — an empire, a city, a lawgiver, a tribe, a 
 > **On the exam:** The classic swap is byzantine↔draconian (tangled vs. brutally harsh) and spartan↔laconic (a bare room vs. bare speech); expect the sentence's object — code, cell, reply, crusade — to be the only clue.
 
 
+<a id="second-meaning__saying-it-without-saying-it"></a>
 ### Saying it without saying it
 
 All three move information without a plain statement carrying it. Something is conveyed — a suggestion, a reference, a hidden feeling — while the words that would name it outright are never spoken, so the sender can be understood without being on record. The group splits on control: two of these are the sender's deliberate choice of indirectness, and one is a leak that happens against the sender's will. The GRE tests all three in their quiet senses, not their famous ones.
@@ -3891,6 +4209,7 @@ All three move information without a plain statement carrying it. Something is c
 > **On the exam:** Classic second-meaning trap: each word's loud sense (private/close, refer-vs-elude, disloyalty) is the decoy — check whether the sentence wants deliberate hinting, indirect reference, or an unintended leak.
 
 
+<a id="second-meaning__metal-and-coinage-words-for-reputation"></a>
 ### Shine, Alloy, and Worth: Forge Words Gone Abstract
 
 Every word here starts at the forge or the mint — polishing metal, letting it dull, cutting a coin with cheaper stuff, mixing an alloy, quenching steel — and the GRE only ever wants the abstract sense. They split along one fault line: some work on the **surface** (how bright a reputation looks) and some work on the **composition** (whether something inferior got stirred into the substance itself). Within the composition group they split again, on whether the mixing is fraud or craft. Get the axis right and the answer choices sort themselves.
@@ -3905,6 +4224,7 @@ Every word here starts at the forge or the mint — polishing metal, letting it 
 > **On the exam:** The trap is treating "mix something in" as automatically bad — adulterate and debase condemn, temper compliments; and burnish/tarnish sound like value change when they only touch the shine.
 
 
+<a id="second-meaning__siege-engineering-inside-an-argument"></a>
 ### Siege engineering inside an argument
 
 Every word here is borrowed from fortification and siege — walls propped from outside, tunnels dug beneath foundations, artillery aimed at a target, troops dug into trenches — and on the GRE all of them arrive figuratively, applied to claims, reputations, policies and positions. The shared picture is a structure that either stands or falls depending on what is under it and what is fired at it. They become confusable because they all describe a *move* in that siege; they differ in direction (adding support vs. removing it vs. battering), in timescale (one stroke vs. a campaign), and in whether the damage is done in the open or out of sight.
@@ -3920,6 +4240,7 @@ Every word here is borrowed from fortification and siege — walls propped from 
 > **On the exam:** The GRE pairs buttress/bolster and undermine/undercut as if interchangeable — decide by the object (evidence for a claim vs. a sagging morale) and the timescale (one stroke vs. a patient campaign), not by direction.
 
 
+<a id="second-meaning__stress-shifts-meaning-shifts"></a>
 ### Stress shifts, meaning shifts
 
 Every word here is a familiar adjective or noun that hides a less familiar verb — and the verb is the one the GRE tests. Say them aloud and the shift is audible: the final syllable goes from a swallowed schwa (*-uht*) in the adjective/noun to a full *-ATE* in the verb, and with `attribute` the stress itself jumps (ATT-ribute the noun, a-TRIB-ute the verb). The trap is that the everyday sense is so loud in your ear that you read the verb as if it were the adjective, and the sentence collapses into nonsense. Learn each one as two separate entries that happen to share a spelling.
@@ -3934,6 +4255,7 @@ Every word here is a familiar adjective or noun that hides a less familiar verb 
 > **On the exam:** The GRE plants these in verb slots where your ear automatically supplies the adjective — if a sentence goes strange, re-read the word as a verb before you re-read the sentence.
 
 
+<a id="second-meaning__swollen-and-flushed-overwritten"></a>
 ### Swollen, flushed, heavy → overwritten
 
 Each of these begins as a description of a body or an object — distended with fluid, red in the face, too massive to move gracefully — and then gets aimed at prose that suffers the same defect. All four are complaints about style that is *too much*: too inflated, too decorated, too slow, too loud. The trap is that they are not interchangeable insults; the physical image each one comes from determines exactly which fault it names. Knowing the literal sense tells you which stylistic sin is being charged.
@@ -3953,6 +4275,7 @@ Each of these begins as a description of a body or an object — distended with 
 *One dimension, ordered weakest to strongest. Sentence Equivalence often turns on exactly this.*
 
 
+<a id="intensity__angry-speeches"></a>
 ### Angry speeches: from scolding to venom
 
 All three name a speech that is too long, too hot, and no longer persuading anyone. Each is a verdict the audience passes, never a label a speaker claims: they concede that words had force while denying they had reason. What separates them is not how loud but what the anger is made of — moralising, loss of control, or settled bitterness — and who is trapped listening.
@@ -3964,6 +4287,7 @@ All three name a speech that is too long, too hot, and no longer persuading anyo
 > **On the exam:** All three fit "long angry speech," so the sentence decides it by target and temperature: captive listeners being scolded → harangue; a speaker who snapped in the moment → tirade; a sustained written attack on an idea → diatribe.
 
 
+<a id="intensity__argumentative-to-warlike"></a>
 ### Argumentative to warlike
 
 All four describe hostility as a *trait* rather than a passing mood — a person set up to fight, or a thing set up to be fought over. None of them means merely angry; anger is provoked and passes, while these describe how someone is standing before you say anything. What separates them is how far along the fight is: still an argument, an appetite for one, a scowl daring you to start it, or blows already being exchanged. Register splits them too — one belongs to committee minutes, one to war reporting, one to arrest reports.
@@ -3976,6 +4300,7 @@ All four describe hostility as a *trait* rather than a passing mood — a person
 > **On the exam:** The exam separates these by *what they attach to* and *who is looking*: only contentious takes an issue as its subject, only pugnacious can be admiring, only truculent supplies the sulk, and only belligerent names a warring state.
 
 
+<a id="intensity__asking-to-abasement"></a>
 ### Asking to abasement
 
 All three describe asking someone who holds power over you, humbly and with feeling — not a horizontal request between equals. What separates them is how much of the asker's dignity is spent in the asking, and whether the writer approves. The scale runs from a plea that leaves the asker's standing intact, through one that formally surrenders it, to one the observer finds degrading. Choosing wrongly doesn't change the action described; it changes what the sentence says about the person doing it.
@@ -3987,6 +4312,7 @@ All three describe asking someone who holds power over you, humbly and with feel
 > **On the exam:** The exam hinges these on the sentence's attitude, not its action — a clue like "with quiet dignity" or "without losing composure" forces **entreat**, an explicit power gap or kneeling image forces **supplicate**, and any word of contempt from the narrator forces **grovel**.
 
 
+<a id="intensity__attacking-a-reputation"></a>
 ### Attacking a reputation
 
 All five are ways of talking someone down — lowering how they are regarded, by the listener or by the world. They differ on three axes: whether the attack must be **false**, whether it must be **public**, and how **wicked** the target ends up looking. At the low end the victim merely seems small and unimpressive; at the high end they seem evil, and the attacker seems like a liar. Most of these words judge the speaker as much as the target.
@@ -4000,6 +4326,7 @@ All five are ways of talking someone down — lowering how they are regarded, by
 > **On the exam:** The trap is the falsity axis: only **defame** and **calumny** entail a lie, so a sentence stipulating "though every word was true" kills them and rewards **denigrate**/**vilify** — and **calumny**'s noun slot is often the cleanest structural giveaway.
 
 
+<a id="intensity__barely-visible-to-blatant"></a>
 ### Barely detectable to brazen
 
 All five rate how strongly something registers on an observer — from the faint trace you have to hunt for, up to the offence nobody could pretend not to see. The scale is not just about brightness, though: as it climbs, the words stop describing the thing and start judging it. At the low end the burden sits on the perceiver's attention; at the high end it sits on the offender's shamelessness.
@@ -4013,6 +4340,7 @@ All five rate how strongly something registers on an observer — from the faint
 > **On the exam:** The exam separates these by collocation, not by brightness — the right answer is the one that fits the noun (a *flagrant* violation, a *patent* lie, a *conspicuous* absence), and "no discernible" is the giveaway for a sentence about careful measurement finding nothing.
 
 
+<a id="intensity__boredom-to-total-inertia"></a>
 ### Boredom to total inertia
 
 All three name a settled low-energy state in which nothing gets done — not a mood that passes but one that has set in. None of them is an accusation: in each case the person is described as *afflicted*, not blamed, which is what separates the whole group from laziness, sloth, or indolence. They differ in where the deficit sits — in your interest, in your body, or in your motion at all — and in how far gone you are.
@@ -4024,6 +4352,7 @@ All three name a settled low-energy state in which nothing gets done — not a m
 > **On the exam:** Watch the subject of the sentence: only **torpor** takes an economy, a bureaucracy, or a hibernating animal, and only **ennui** requires someone with tastes to be bored of.
 
 
+<a id="intensity__brief-to-vanishing"></a>
 ### Brief to vanishing
 
 All four say a thing does not last, and any of them can be swapped into "a ___ pleasure" without breaking the sentence. What separates them is not how long the thing lasts but what the speaker is pointing at: whether impermanence is a philosophical property, a recorded fact, a lifespan, or an act of disappearing. Register does the rest of the work — one belongs to sermons, one to incident reports, two to poetry. The scale runs from "this will end" to "this is dissolving as you watch."
@@ -4036,6 +4365,7 @@ All four say a thing does not last, and any of them can be swapped into "a ___ p
 > **On the exam:** Sentence Equivalence loves pairing two of these and rewarding the one whose register matches the sentence — clinical context takes **transient**, aesthetic context takes **ephemeral**/**evanescent**, and a sentence about worldly glory takes **transitory**.
 
 
+<a id="intensity__broken-word-to-treachery"></a>
 ### Broken Word to Treachery
 
 All three cover the failure of someone who was trusted — a commitment given, then violated. They differ in how much of the bond is broken and how harshly the speaker judges it: one is a walked-back deal, one is a person handed over, one is a moral verdict. The scale runs from procedural bad faith to condemnation. Note that the middle term also carries a second, quieter sense that has nothing to do with malice at all.
@@ -4047,6 +4377,7 @@ All three cover the failure of someone who was trusted — a commitment given, t
 > **On the exam:** The trap is sense 2 of **betray** — in a sentence about a face, a voice, or a gesture revealing hidden feeling, the answer is not treachery-flavored at all, and *perfidy* is planted to pull you there.
 
 
+<a id="intensity__calming-an-angry-party"></a>
 ### Calming an angry party
 
 Someone is already angry, and you are doing something to bring the temperature down. All four assume a grievance that exists before you act, and all four are transitive — you calm *them*. What separates them is the price of the calm and what it says about the two parties: whether you merely said the soothing thing, handed over something cheap, surrendered outright, or paid tribute upward to a power that outranks you.
@@ -4059,6 +4390,7 @@ Someone is already angry, and you are doing something to bring the temperature d
 > **On the exam:** The exam builds a sentence whose blank needs a *cost* or a *power gap* — a diplomat yielding territory, a supplicant before a board — and offers **mollify** as the trap: it fits "calm them down" but carries no concession and no hierarchy.
 
 
+<a id="intensity__careful-to-nitpicking"></a>
 ### Careful to Nitpicking
 
 All four describe close attention to small details — the same observable behaviour of not letting anything small slide. What separates them is not how much attention, but the verdict passed on it: whether the detail-work was worth doing, whether it makes the person tiresome to be around, and whether the speaker is admiring, needling, or sneering. The scale runs from care that earns respect to care that reveals a defect in the person doing it.
@@ -4071,6 +4403,7 @@ All four describe close attention to small details — the same observable behav
 > **On the exam:** The exam rarely tests the behaviour — it tests the verdict, giving you a sentence whose surrounding tone (admiring vs. exasperated vs. contemptuous) is the only thing separating a correct **meticulous** from a trap **pedantic**; watch too for the object senses, where only **finicky** fits a machine and only **pedantic** fits an argument.
 
 
+<a id="intensity__changeable-to-dangerously-unstable"></a>
 ### Changeable to dangerously unstable
 
 All four describe something that will not hold still — mood, loyalty, or behaviour that shifts suddenly and without a reason you could argue with. The shared complaint is unpredictability, not wrongness: the problem isn't the position taken, it's that no position lasts. What separates them is who is doing the changing, how much power they hold over you, and how bad it gets when they swing — from mild disappointment to real hazard.
@@ -4083,6 +4416,7 @@ All four describe something that will not hold still — mood, loyalty, or behav
 > **On the exam:** The exam rarely tests these against each other; it tests the flavour the sentence supplies — a "brilliant but exhausting" artist wants **mercurial**, a tyrant whose rulings can't be appealed wants **capricious**, an unstable region or market wants **volatile**, a lost fanbase wants **fickle**.
 
 
+<a id="intensity__cheeky-to-shameless"></a>
 ### Cheeky to shameless
 
 All four describe boldness that ought to have been embarrassed and wasn't. The offence is never the content of the act — it's the failure to show the deference or shame the situation called for, done openly rather than behind anyone's back. The first three are calibrated against a hierarchy and are almost always spoken *downward* by the person who expected respect; the last needs no hierarchy at all, only an audience. They scale from mildly out-of-line to entirely past caring.
@@ -4095,6 +4429,7 @@ All four describe boldness that ought to have been embarrassed and wasn't. The o
 > **On the exam:** Traps hinge on direction and shame: if the sentence supplies a superior being disrespected, the answer is in the impertinent–insolent band (pick by warmth: prissy → cheeky → contemptuous); if it stresses that the act was done openly, in public, or without embarrassment, it's **brazen**.
 
 
+<a id="intensity__clever-to-crooked"></a>
 ### Clever to crooked
 
 All four describe getting your way by wits and indirection rather than by force, candour, or the rules — the plan you didn't see forming, the question with a hook in it, the route that doesn't go straight. They share a peculiar tonal problem: the cleverness is genuinely impressive, so each word hovers somewhere between compliment and accusation. What separates them is how far along that arc each sits, and whether the word points at the talent or at the dirty method.
@@ -4107,6 +4442,7 @@ All four describe getting your way by wits and indirection rather than by force,
 > **On the exam:** Only **devious** is safely negative — a sentence admiring a shrewd strategist can take *artful*, *wily*, or *crafty*, so an approving blank eliminates *devious* first; watch also for the innocent literal senses of *artful* (tastefully contrived) and *devious* (winding).
 
 
+<a id="intensity__grouped-to-fully-merged"></a>
 ### Clustered, Coalesced, Amalgamated: Degrees of Becoming One
 
 All three describe separate things ending up together, and they sit on a line from "near" to "no longer separate." The question each answers is how much individual identity survives the joining — do the parts remain countable, do they blur, or do they cease to exist as parts at all? A secondary axis runs alongside: whether anything is doing the joining, or whether it simply happens. Misreading a passage usually comes from assuming togetherness implies fusion.
@@ -4118,6 +4454,7 @@ All three describe separate things ending up together, and they sit on a line fr
 > **On the exam:** Sentence equivalence pairs **coalesce** with **amalgamate** as if interchangeable — check whether the sentence supplies an agent doing the merging (amalgamate) or lets it happen on its own (coalesce); and never accept **cluster** where the sentence requires the parts to stop being distinct.
 
 
+<a id="intensity__composure-under-pressure"></a>
 ### Composure under pressure
 
 All four describe not cracking when something would make most people crack — the steady hand, the level voice, the unrattled mind. What separates them is *where* the steadiness lives and how much the situation demanded. Some name what an observer sees in the body or the performance; others name the inner state, or the fixed temperament that produces it. Nearly all are compliments, and each presupposes a pressure worth withstanding — none can be earned on an easy day.
@@ -4130,6 +4467,7 @@ All four describe not cracking when something would make most people crack — t
 > **On the exam:** The GRE exploits the manner/mind split — a sentence about pulling something off with flair wants aplomb, not equanimity; a sentence about a person's settled character wants the adjective, not a one-occasion noun.
 
 
+<a id="intensity__contempt-private-to-public"></a>
 ### Contempt, private to public
 
 All four are the downward look — the judgment that someone or something is beneath serious consideration, not merely wrong or disliked. What separates them is not how much you despise but how far the despising travels: felt behind a still face, delivered as a verdict, said out loud, or roared by a crowd. Each step outward also adds a witness, and the last one leaves a stain the target has to live under.
@@ -4142,6 +4480,7 @@ All four are the downward look — the judgment that someone or something is ben
 > **On the exam:** The exam tests audience, not heat: a blank about a silent inward judgment takes **contempt** or **disdain**, one about a public storm takes **opprobrium**, and sentences where the object is an offer or an aid — "she ___ their assistance" — want **scorned**, exploiting the rejection sense the others don't carry.
 
 
+<a id="intensity__contentment-to-euphoria"></a>
 ### Contentment to euphoria
 
 All four describe a person in a positive emotional state, ranged from placid satisfaction up to a soaring high. They differ on three axes the GRE actually tests: **temperature** (how much upward energy is in the feeling), **duration** (settled trait vs. brief spike), and **cause** (unprompted disposition vs. triggered by a specific event). They also differ in what they imply about the person feeling it — resilience, complacency, or a high that shouldn't be trusted.
@@ -4154,6 +4493,7 @@ All four describe a person in a positive emotional state, ranged from placid sat
 > **On the exam:** The trap is treating this as a single volume knob: *content* is not weak happiness but absence of desire, *buoyant* measures resistance to being brought down rather than intensity, and *euphoric* smuggles in a warning that the high is unreal — pick by implication, not by loudness.
 
 
+<a id="intensity__decoration-to-excess"></a>
 ### Decoration to excess
 
 All four describe something worked up with more detail than the bare function required — a building, a sentence, a costume, a plan. They differ in whether the extra is *structure* or *surface*, and in how much disapproval rides along: the scale runs from admiring the effort, to noticing the decoration, to objecting to it, to declaring the decoration has eaten the thing. Almost all of them are aimed at prose on the GRE.
@@ -4166,6 +4506,7 @@ All four describe something worked up with more detail than the bare function re
 > **On the exam:** The exam picks the slot by attitude, not by degree: a sentence that praises craftsmanship wants **elaborate**, one that mocks the writer wants **florid** or **baroque** — and it will bait you with the face sense of *florid* in a passage about a red-cheeked character.
 
 
+<a id="intensity__deference-to-grovelling"></a>
 ### Deference to Grovelling: Yielding, Then Losing Your Dignity
 
 All of these describe placing yourself below someone else — letting their judgment, wishes, or vanity outrank your own. The scale runs from a respectful half-step back to crawling: how much self-respect is surrendered, whether the yielding is a settled condition or a performance, and whether the speaker admires it or is disgusted by it. Only the first is something you would say about yourself; the rest are verdicts delivered from outside, by a watcher who thinks less of the person doing it.
@@ -4179,6 +4520,7 @@ All of these describe placing yourself below someone else — letting their judg
 > **On the exam:** The trap is the first-vs-rest split: **deference** is neutral-to-flattering while everything after it is contemptuous, so GRE sentences signal with a single evaluative word ("merely," "sickening," "to his credit") — read the clue for whether the writer approves before picking.
 
 
+<a id="intensity__degrees-of-calm"></a>
 ### Degrees of calm
 
 All three mean undisturbed — no agitation, no ripple, nothing stirring. They part company over *what* holds the calm and *how much credit* the speaker gives for it. One is a surface nothing ruffles, one is a setting nothing has ever troubled, one is a visible clarity that reads as almost luminous. The scale runs from calm that may be mere inertness up to calm that is a kind of achievement.
@@ -4190,6 +4532,7 @@ All three mean undisturbed — no agitation, no ripple, nothing stirring. They p
 > **On the exam:** The GRE leans on **placid**'s pejorative shade — in a sentence criticizing a dull character, "placid" fits where "serene" and "tranquil" (both approving) cannot; and it rewards knowing **serene** is the only one that survives surrounding chaos.
 
 
+<a id="intensity__degrees-of-concealment"></a>
 ### Degrees of concealment
 
 All three describe keeping something out of open view, and all three describe deliberate, controlled concealment rather than accident or shyness. What separates them is *why* the thing is hidden and how the hiding reflects on whoever is doing it — protecting someone else's privacy, withholding official acknowledgement, or evading a rule. The scale runs from praiseworthy tact through neutral non-disclosure to organised illegitimacy.
@@ -4201,6 +4544,7 @@ All three describe keeping something out of open view, and all three describe de
 > **On the exam:** The trap is treating them as interchangeable synonyms for "secret": check who benefits — a protected confidence wants **discreet**, an unacknowledged official act wants **covert**, a prohibited organised one wants **clandestine**.
 
 
+<a id="intensity__degrees-of-courage"></a>
 ### Degrees of courage
 
 All four praise someone for facing danger or difficulty without backing down, and all four are approving — none of them scolds the way *reckless* or *foolhardy* does. What separates them is how much nerve is being claimed, and what the speaker's posture is while claiming it: affectionate condescension, amused admiration, sober respect, or ceremonial honour. They also differ in what the courage attaches to — a small underdog, a temperament straining at the leash, a sustained ordeal, or a single heroic act under fire.
@@ -4213,6 +4557,7 @@ All four praise someone for facing danger or difficulty without backing down, an
 > **On the exam:** The trap is part of speech and register: **valor** is a noun (never fills an adjective slot), and sentence-completion items key on the surrounding tone — an underdog or diminutive cue wants **plucky**, a sustained expedition wants **intrepid**, and a formal citation or battlefield context wants **valor**.
 
 
+<a id="intensity__degrees-of-coverage"></a>
 ### Degrees of coverage
 
 All four say nothing was left out — but they answer different questions: *left out of what?* One measures a job done properly, one measures a finite set of cases run to the end, one measures a whole subject held in someone's head, one measures a scope with no visible edges. The scale runs from a task you can finish to a totality you can only gesture at. As the scope widens, the claim gets grander and the risk of overkill or suffocation grows with it.
@@ -4225,6 +4570,7 @@ All four say nothing was left out — but they answer different questions: *left
 > **On the exam:** Watch for **exhaustive/exhausting** swapped in a completion, and for **encyclopedic** offered where the sentence actually praises depth or originality — it only ever certifies breadth.
 
 
+<a id="intensity__degrees-of-generosity"></a>
 ### Degrees of generosity
 
 All four describe good done from a position of advantage — the giver has the money, the power, or the upper hand, and the recipient does not. They are formal, admiring words, which is exactly why they turn sardonic so easily when the altitude is unearned. What separates them is what the giver actually surrenders: a good wish, an actual benefit, a grudge they were entitled to keep, or a very large sum.
@@ -4237,6 +4583,7 @@ All four describe good done from a position of advantage — the giver has the m
 > **On the exam:** The classic trap is swapping **benevolent** for **beneficent** — sentences that specify an act performed ("her ___ funding of the clinic") want the deed word, not the disposition word; and **magnanimous** is wrong in any sentence with no adversary to forgive.
 
 
+<a id="intensity__degrees-of-harm"></a>
 ### Degrees of harm: from working against you to poisoning you
 
 All five say something is working out badly for you, and all five sit in formal registers — reports, journals, judgments — so on the page they blur together. But they differ along two axes the GRE loves. First, *how* the harm arrives: mere opposition, a measured decline, a slow secret rot, or outright poison. Second, *who's talking*: a neutral clinician recording an effect, or an alarmed moralist warning you about a corruption.
@@ -4250,6 +4597,7 @@ All five say something is working out badly for you, and all five sit in formal 
 > **On the exam:** The trap is treating them as interchangeable synonyms for "harmful": **adverse** need not damage anything, **pernicious** carries moral alarm the clinical words refuse, and **noxious** demands an actual poison — so the right answer is fixed by the sentence's register and by what the adjective attaches to (a ruling, a statistic, a doctrine, a gas).
 
 
+<a id="intensity__degrees-of-inactivity"></a>
 ### Degrees of inactivity: pauses, not endings
 
 All three describe something that has stopped acting without having stopped existing. Each one leaves the door open: the eruption, the fighting, the infection, the rivalry is expected back. What separates them is the time-scale of the pause and whether the pause is being described (clinically, from outside) or exploited (on someone who doesn't know better). None of them means "over" — that's the job of *extinct*, *defunct*, *moribund*.
@@ -4261,6 +4609,7 @@ All three describe something that has stopped acting without having stopped exis
 > **On the exam:** The trap is treating them as interchangeable synonyms for "inactive": watch the slot's part of speech (a "___ in the fighting" is a noun, so only *lull* fits) and watch for a completion that demands stored potential (*dormant talent*, never *quiescent talent*).
 
 
+<a id="intensity__degrees-of-overstatement"></a>
 ### Degrees of overstatement
 
 All three take something true and stretch it, and none of them is outright invention — the raw material is real, only the proportions are off. What separates them is how far the stretch goes and whether the audience is meant to notice. At one end the additions are small enough to pass for fact; at the other the excess is so large that nobody could mistake it for a claim. The GRE uses them as a scale from quietly misleading to openly theatrical.
@@ -4272,6 +4621,7 @@ All three take something true and stretch it, and none of them is outright inven
 > **On the exam:** The trap is reading the scale as one of guilt rather than size: hyperbole is the wildest exaggeration but the most honest, so passages calling a claim "mere hyperbole" are dismissing it as overheated, not fraudulent.
 
 
+<a id="intensity__degrees-of-slant"></a>
 ### Degrees of slant: from quiet tilt to open attack
 
 All three describe writing, argument, or judgement that leans one way instead of weighing both. The shared accusation is that the thing was never really open to the other side. What separates them is how much force the leaning carries and how honest it is about itself — from an unconscious tilt, through a slant engineered to look like neutrality, to an open assault that never pretended otherwise.
@@ -4283,6 +4633,7 @@ All three describe writing, argument, or judgement that leans one way instead of
 > **On the exam:** The trap is treating them as interchangeable synonyms for "biased": a sentence about a study that *appears* even-handed needs **tendentious**, one about open attack needs **polemical**, and one about a person's soft favouritism needs **partial**.
 
 
+<a id="intensity__degrees-of-tedium"></a>
 ### Degrees of tedium
 
 All four register dullness, and all four blame sameness or slowness rather than incompetence — the thing isn't bad, it just won't stop or won't vary. The ladder runs from a mild sigh at unchanging routine, through sameness that numbs, through length that wears patience thin, up to dullness strong enough to shut the eyes. What separates them is *what* the complaint is actually about — repetition, effect, duration, or physical result — and how much contempt the speaker is willing to show.
@@ -4295,6 +4646,7 @@ All four register dullness, and all four blame sameness or slowness rather than 
 > **On the exam:** The trap is **soporific**'s neutral medical sense — in a sentence about drugs or sedation it means sleep-inducing with no scorn attached; and note that **tedious** needs only length while **monotonous** and **humdrum** need actual repetition.
 
 
+<a id="intensity__demotion-to-expulsion"></a>
 ### Demotion to expulsion
 
 All four describe someone with authority moving a person (or thing) down or out against their will. The scale is *how far out you end up*: a worse seat at the same table, no seat, no throne, no country. They differ on what exactly gets taken — your rank, your office, or your right to be physically present — and on how high you had to be standing in the first place.
@@ -4307,6 +4659,7 @@ All four describe someone with authority moving a person (or thing) down or out 
 > **On the exam:** Watch the two traps: *relegate* looks like removal but only ever means demotion-in-place, and *depose* fails whenever the subject isn't a ruler — or is secretly the courtroom sense.
 
 
+<a id="intensity__dodging-the-truth-to-lying"></a>
 ### Dodging the truth to lying
 
 All three describe a speaker who does not want you to have the truth, arranged by how far each one goes to keep it from you. The first two stop short of asserting anything false — they work by ambiguity and evasion, preserving the defense "I never said that." The third abandons that defense entirely and manufactures the falsehood outright. The dividing line the group turns on is whether a false statement is actually made.
@@ -4318,6 +4671,7 @@ All three describe a speaker who does not want you to have the truth, arranged b
 > **On the exam:** Answer choices lump all three under "lie" — but only **fabricate** requires a false statement to exist, and it alone carries a wholly neutral sense (manufacturing from parts) that the GRE uses to bait you in engineering or manufacturing contexts.
 
 
+<a id="intensity__doubtful-to-outright-fake"></a>
 ### Doubtful to outright fake
 
 All four say *don't trust this* — but they sit at different points on a line running from withheld judgment to delivered verdict. At the weak end, the speaker only registers doubt and stops short of a charge; at the strong end, the thing is flatly declared not genuine. They also differ in who or what is being doubted, and in whether a deceiver has to exist at all. Register splits them again: two are the language of the audit report, one is the language of saying it out loud.
@@ -4330,6 +4684,7 @@ All four say *don't trust this* — but they sit at different points on a line r
 > **On the exam:** The trap is direction and degree: **dubious** is the only one that can describe the person feeling the doubt, and only **bogus** commits to "fake" — a passage where a scientist calls a correlation *spurious* is not accusing anyone of lying.
 
 
+<a id="intensity__dull-to-worn-out"></a>
 ### Dull to worn-out
 
 Every one of these is a negative verdict on something that failed to be interesting — and none of them says the thing is *wrong*. They split along one axis: whether the dullness is inherent flatness (it never had lift) or acquired staleness (it was used until the life went out of it). The early members indict the thing itself; the later ones indict how many times you've heard it before. All four are critics' words, and all four assume the subject was supposed to be interesting.
@@ -4342,6 +4697,7 @@ Every one of these is a negative verdict on something that failed to be interest
 > **On the exam:** Sentence Equivalence loves pairing these for a "two words, same meaning" answer — check the sentence's cue: "repeated," "overused," "once fresh" points to the staleness pair; "accurate but lifeless," "competent," "no spark" points to the flatness pair.
 
 
+<a id="intensity__eager-to-zealous"></a>
 ### Eager to zealous: from appetite to mission
 
 All five describe wanting or believing at high temperature — enthusiasm strong enough to organize how someone spends their time. The scale runs from a settled appetite, through admirable burning devotion, to devotion that has passed the point where a cool observer stays comfortable. What separates them is not how much feeling there is but who is measuring it: some are the words a fan uses about himself, others are the words a bystander uses about him. Watch also what each attaches to — a hobby, a person, a private hope, a cause.
@@ -4355,6 +4711,7 @@ All five describe wanting or believing at high temperature — enthusiasm strong
 > **On the exam:** The classic trap is fervent/fervid, near-twins where only fervid carries the wince — and **avid** followed by *for*, which quietly means greedy, not fond.
 
 
+<a id="intensity__effort-withheld"></a>
 ### Effort withheld
 
 All four describe work that was technically performed but starved of real effort, and all four accuse without accusing anyone of outright failure. The scale runs from how deep the effort went, to how fast it was done, to how little the doer cared, to whether it was ever meant to accomplish anything at all. Each blames a different missing ingredient: depth, time, interest, sincerity.
@@ -4367,6 +4724,7 @@ All four describe work that was technically performed but starved of real effort
 > **On the exam:** The trap is treating them as interchangeable synonyms for "minimal"; let the sentence's blame word choose — hasty/quick → cursory, dutiful/uninterested → perfunctory, for appearances/symbolic → token, shallow/surface-only → superficial.
 
 
+<a id="intensity__detailed-to-impossibly-tangled"></a>
 ### Elaborate → Convoluted → Tortuous → Byzantine: detailed to impossibly tangled
 
 All four describe something built out of many interlocking parts — an argument, a plot, a procedure, a piece of prose — that takes work to follow. What separates them is where the blame lands: on the effort someone invested, on needless knots, on a wandering route, or on a whole system rigged to be impenetrable. Each also carries a different dose of suspicion that the intricacy is deliberate cover.
@@ -4379,6 +4737,7 @@ All four describe something built out of many interlocking parts — an argument
 > **On the exam:** Sentence completions hinge on whether the blank praises or condemns — **elaborate** survives an admiring context, the other three don't; **byzantine** demands a system as its noun, and *tortuous* is a common trap for *torturous*.
 
 
+<a id="intensity__enduring-to-conquering"></a>
 ### Enduring to conquering
 
 All three report a successful encounter with something working against you, and all three are flattering to the subject — the difficulty was real and you came out on top. What separates them is what happens to the difficulty afterward. It can keep pressing while you refuse to break, it can remain exactly where it is while you get past it, or it can be finished off entirely. The scale runs from passive resistance to total conquest.
@@ -4390,6 +4749,7 @@ All three report a successful encounter with something working against you, and 
 > **On the exam:** Watch the object: a force pressing on you cues **withstand**, an impersonal barrier cues **surmount**, an adversary cues **vanquish** — and watch whether the sentence says the difficulty is still there afterward.
 
 
+<a id="intensity__faulty-to-deliberately-deceptive-argument"></a>
 ### Faulty → deliberately deceptive argument
 
 All three condemn reasoning rather than facts: the conclusion may even be correct, but the route to it doesn't hold. They are graded by two independent dials — how *attractive* the bad reasoning looks, and how *culpable* the person making it is. The ladder runs from a neutral structural verdict, to a verdict that the argument's polish is doing the work, to an accusation that the polish was applied on purpose.
@@ -4401,6 +4761,7 @@ All three condemn reasoning rather than facts: the conclusion may even be correc
 > **On the exam:** Traps hinge on plausibility and blame: **specious** never fits an argument described as transparently absurd (it must first persuade), and **fallacious** never fits when the passage stresses intent to deceive — that slot belongs to **sophistry**.
 
 
+<a id="intensity__feeling-to-performance"></a>
 ### Feeling to performance
 
 All three are verdicts passed from outside on someone else's emotion: the speaker has decided the feeling outruns what caused it. None of them describes emotion neutrally — each one discounts the display in the act of naming it. What separates them is the *charge*: that the feeling is unearned, that it has swamped the person's judgement, or that it was never felt at all. Ordered here from soft real feeling to pure theatre.
@@ -4412,6 +4773,7 @@ All three are verdicts passed from outside on someone else's emotion: the speake
 > **On the exam:** The trap is treating them as one "too emotional" slot — context names the tell: an audience being played to → histrionic, self-control gone → hysterical, tenderness the subject hasn't earned → sentimental.
 
 
+<a id="intensity__firm-to-tyrannical-command"></a>
 ### Firm to tyrannical command
 
 All three describe imposing your will on other people, and they sit on a single rising line: how much force is behind the will, and how much right the person has to it. The scale runs from force that is socially licensed, to force asserted without warrant, to force that has become law unto itself. Each step also shifts the target of the description — from what someone says, to how they carry themselves, to what power they actually wield.
@@ -4423,6 +4785,7 @@ All three describe imposing your will on other people, and they sit on a single 
 > **On the exam:** The trap is treating "confident and forceful" as one continuous idea: GRE sentences separate them by evidence — a clue about *manner* (a gesture, a tone, a raised eyebrow) points to imperious, while a clue about *unchecked authority and caprice* points to despotic, and any positive or self-descriptive framing forces assertive.
 
 
+<a id="intensity__fixed-by-habit-to-unchangeable"></a>
 ### Fixed by Habit to Unchangeable
 
 All four say a thing is stuck. What differs is *why* it won't move: because repetition wore it in, because it has dug itself a defensive position, because whoever holds it refuses to bend, or because its own nature forbids change. They also differ in what they attach to — a habit, an interest, an institution, a law — and in how much blame the speaker is assigning. Read as a scale, they run from "hard to scrub out" to "cannot be altered by anyone."
@@ -4435,6 +4798,7 @@ All four say a thing is stuck. What differs is *why* it won't move: because repe
 > **On the exam:** The trap is treating them as interchangeable degrees: the exam keys on collocation and blame — social ills are *entrenched*, personal habits *ingrained*, institutions *hidebound*, laws of nature *immutable* — so a sentence about a stubborn committee wants **hidebound**, never **immutable**.
 
 
+<a id="intensity__free-spending-to-ruinous-waste"></a>
 ### Free spending to ruinous waste
 
 All four describe outflow that exceeds the normal measure — money, resources, or praise going out in quantities most people would not spend. What separates them is how much blame the speaker loads onto that outflow: whether it is simply a lot, more than the occasion called for, or an act of ruin the speaker is condemning. The scale runs from admiring abundance to a moral verdict on the spender. Three of the four also detach from money entirely and attach to claims, praise, or character.
@@ -4447,6 +4811,7 @@ All four describe outflow that exceeds the normal measure — money, resources, 
 > **On the exam:** The trap is money: GRE sentences most often use these of praise, claims, and character, and reward the reader who picks **extravagant** for an overreaching theory or **profligate** for a dissolute life.
 
 
+<a id="intensity__dislike-to-loathing"></a>
 ### From cold aversion to moral abhorrence
 
 All four name the wish to have nothing to do with something, and all four are stronger than mere preference — none of them is "I'd rather not." They differ on temperature (cool and settled vs. hot and visceral), on what they attach to (an activity, a person, a practice), and on what they reveal about the speaker. The two nouns describe a standing state you carry around; the two verbs describe an active recoil aimed at a target. Grammar splits them too: you *have* an aversion or an antipathy, you *loathe* or *abhor* a thing.
@@ -4459,6 +4824,7 @@ All four name the wish to have nothing to do with something, and all four are st
 > **On the exam:** Sentence Equivalence loves this set because the correct pair is usually fixed by register and object, not strength: a clinical or economic blank takes aversion, a moral-outrage blank takes abhor, and antipathy/aversion look interchangeable until you check whether the object is a person or an activity.
 
 
+<a id="intensity__risky-to-grave-danger"></a>
 ### From latent trouble to grave danger
 
 All three describe a situation that could go badly — the harm is anticipated, not yet delivered. They differ in what supplies the threat: internal tension, structural instability, or the sheer magnitude of what's out there. Move along the scale and the danger shifts from *implied*, to *imminent*, to *severe*. None of them means the disaster has happened; each says a different thing about why you should worry.
@@ -4470,6 +4836,7 @@ All three describe a situation that could go badly — the harm is anticipated, 
 > **On the exam:** The GRE bets you'll read *fraught* as "dangerous" — it isn't; it's loaded-with or tense — and that you'll take *precarious* as harmful when it only means unsupported.
 
 
+<a id="intensity__getting-in-the-way"></a>
 ### Getting in the Way: Friction, Drag, and Flat Impossibility
 
 All four describe something interfering with an action, plan, or process — and all four are typically caused by a circumstance rather than a villain: weather, paperwork, an injury, a clause. Three of them only add cost: the effort still happens, just slower, clumsier, or more expensively. The fourth belongs to a different category entirely — it removes the option before the effort can begin. The GRE lives in the gap between "made harder" and "made impossible."
@@ -4482,6 +4849,7 @@ All four describe something interfering with an action, plan, or process — and
 > **On the exam:** The three friction verbs are near-interchangeable, so the sentence's logic — not the word — decides: if the subject still finished, hinder/hamper/impede fit and preclude is the trap; if the option vanished entirely, only preclude works.
 
 
+<a id="intensity__giving-in"></a>
 ### Giving in: from softening to surrender
 
 All three describe the moment someone stops holding a position and lets the other side have its way. What separates them is who was doing the resisting, whether the resistance was ever visible, and how much is surrendered at the end. One is the hard party easing up, one is the quiet party never objecting out loud, one is the losing party accepting the winner's terms. The order runs from a small softening to a total collapse.
@@ -4493,6 +4861,7 @@ All three describe the moment someone stops holding a position and lets the othe
 > **On the exam:** The trap is swapping **acquiesce** and **capitulate**: look for whether the passage shows visible resistance first (capitulate) or silent compliance throughout (acquiesce) — and watch for **relent** used of weather, pain, or pressure rather than people.
 
 
+<a id="intensity__going-without-to-forswearing"></a>
 ### Going Without to Forswearing
 
 All five describe giving up or turning away from something you had, held, or could have had — by choice, not by loss. What separates them is how much apparatus the act requires: whether it is a one-off or a rule, private or on the record, a quiet walking-away or a hostile disowning, freely done or extracted under oath. Move down the list and you add audience, permanence, and consequence.
@@ -4506,6 +4875,7 @@ All five describe giving up or turning away from something you had, held, or cou
 > **On the exam:** The trap is at the seams: if the sentence gives no audience or ceremony, the top three are all wrong (a private decision can't be renounced, repudiated, or abjured), and if it describes an ongoing principle rather than one occasion, *forgo* is wrong — also watch the *forgo*/*forego* (to precede) homophone.
 
 
+<a id="intensity__grades-of-greed"></a>
 ### Grades of greed
 
 All three describe wanting more than you have and reaching for it, and all three are formal enough that the exam prefers them to plain *greedy*. They differ on two axes at once: how hot the wanting is, and whether anyone gets hurt by it. At the cool end the wanting is just a habit of accumulation; in the middle it has become a moral defect of character; at the hot end it has power behind it and leaves someone stripped. Register rises with intensity, and so does the certainty that the speaker is condemning.
@@ -4517,6 +4887,7 @@ All three describe wanting more than you have and reaching for it, and all three
 > **On the exam:** Sentence-equivalence traps pair acquisitive with the other two as if all were pejorative — check whether the sentence supplies a victim (rapacious), a moral judgment about wealth (avaricious), or merely accumulation (acquisitive).
 
 
+<a id="intensity__growth-out-of-control"></a>
 ### Growth out of control
 
 All three describe something increasing fast and on its own steam — no one is adding units by hand. The differences are the speaker's verdict and what exactly is increasing: the size of one thing, the number of copies, or the absence of anything holding it back. They sit on a rising scale from welcome to alarming, and the exam almost always tests the verdict rather than the rate.
@@ -4528,6 +4899,7 @@ All three describe something increasing fast and on its own steam — no one is 
 > **On the exam:** Sentence-equivalence traps hinge on the sentence's attitude marker, not its size marker — a clause like "despite regulators' efforts" forces **rampant**, "showed early promise" forces **burgeon**, and **proliferate** is the deceptively safe middle that's only right when the sentence is counting copies; also note **rampant** is an adjective and drops out of any verb slot.
 
 
+<a id="intensity__hesitant-to-unable-to-decide"></a>
 ### Hesitant to unable to decide
 
 All three describe commitment that hasn't been made or held. The scale runs from a single act performed lightly, to a person who can't bring himself to choose, to a sustained record of choosing and un-choosing. What separates them is scope (one act vs. the whole character), duration (a moment vs. weeks), and how much blame the speaker is assigning.
@@ -4539,6 +4911,7 @@ All three describe commitment that hasn't been made or held. The scale runs from
 > **On the exam:** The trap is treating **tentative** as a synonym for the other two — it takes a plan or a gesture, not a character, and often carries no criticism at all; separately, don't take **vacillate** for *equivocate*, which is deliberate slipperiness rather than genuine inability to settle.
 
 
+<a id="intensity__hinting-to-declaring"></a>
 ### Hinting to Declaring: intimate → allude → aver
 
 All three are verbs for putting a proposition into circulation, and the GRE sorts them by how much of themselves the speaker puts behind it. At one end the content arrives sideways, unstated, deniable — the listener has to reconstruct it. At the other end it is planted flatly as fact, with the speaker's credibility staked on it. All three are formal-register words that show up in the same habitats — courtrooms, diplomacy, criticism, 19th-century prose — so register won't separate them; only commitment will.
@@ -4550,6 +4923,7 @@ All three are verbs for putting a proposition into circulation, and the GRE sort
 > **On the exam:** Watch the sentence's stance cue: contrast words like "rather than stating outright" or "declined to say plainly" kill *aver*, while "in the face of mounting evidence" or "flatly" kills the other two — and if the blank is followed by *to*, only *allude* fits.
 
 
+<a id="intensity__holding-something-down"></a>
 ### Holding something down: curb → check → curtail → suppress → quash
 
 All five verbs describe applying force to something that has its own momentum — a movement, an emotion, a budget, a revolt — and reducing what it does. They differ along one axis above all: how much of the thing survives the act. At the low end the thing keeps running, just inside limits; at the high end it is finished off in a single authoritative stroke. A second axis runs alongside: who is doing the holding, and whether the pressure has to stay applied to keep working.
@@ -4563,6 +4937,7 @@ All five verbs describe applying force to something that has its own momentum �
 > **On the exam:** The trap is completeness: sentence-equivalence stems that say the thing continued in reduced form reward curb/check/curtail and punish quash, while stems with "in a single stroke," "once and for all," or a court as subject rule out suppress.
 
 
+<a id="intensity__how-widespread"></a>
 ### How widespread: rooted, saturated, or everywhere
 
 All four say a thing is not an isolated occurrence — it is spread across a space, a system, or a population, and it stays there. They diverge on *how* the spread works: whether it is confined to one place and rooted in it, soaked into the substance of a single thing, replicated in countless places, or simply there the whole time with no escape. The scale runs from bounded-but-permanent up to inescapable-by-definition. Register matters too: two of them start in technical or theological vocabulary and carry that weight into figurative use.
@@ -4575,6 +4950,7 @@ All four say a thing is not an isolated occurrence — it is spread across a spa
 > **On the exam:** The trap is treating *endemic* as a synonym for widespread — GRE contexts reward the reader who sees it means confined to and rooted in one place; the *pervasive*/*ubiquitous* split turns on saturating one thing versus recurring in many.
 
 
+<a id="intensity__ill-will-toward-an-enemy"></a>
 ### Ill will toward an enemy
 
 All four name settled ill will — not a flash of temper but something that persists and colors how one party regards another. They rise from cool aversion, through hostility that motivates conduct, to open bad blood, to a standing state of being enemies. What separates them is less the temperature than the grammar: whether the word names a feeling, a motive, an atmosphere, or a relationship — and whether the thing disliked has to be a person at all.
@@ -4587,6 +4963,7 @@ All four name settled ill will — not a flash of temper but something that pers
 > **On the exam:** Sentence Equivalence sorts these by frame, not force: a blank pointing at a *thing* or *idea* takes antipathy, one inside "motivated by ___" takes animus, one naming a decades-old *relationship* between clans or nations takes enmity — animosity is the trap that sounds right everywhere and is only correct when the hostility is personal and showing.
 
 
+<a id="intensity__rash-to-reckless"></a>
 ### Impulsive to foolhardy: acting before thinking
 
 All three describe action that outruns judgment — the deed happens before deliberation catches up. They share a mild-to-strong disapproval that is aimed at the *absence of thought*, not at bad intent; nobody described this way is malicious, only unbraked. What separates them is what fills the gap where thought should have been: nothing at all, heat, or nerve. They also differ in whether they label a person's standing habit or a single spectacular decision.
@@ -4598,6 +4975,7 @@ All three describe action that outruns judgment — the deed happens before deli
 > **On the exam:** All three fit "acted without thinking," so the sentence must name the discriminator: an emotion word points to impetuous, a stated hazard or feat of nerve to foolhardy, and a bare description of character to impulsive.
 
 
+<a id="intensity__indulgence-to-dissolution"></a>
 ### Indulgence to dissolution
 
 All three describe a life given over to pleasure with the brakes off, and all three carry disapproval — but they disapprove of different things and at different volumes. One faults a lack of discipline, one reads pleasure as a symptom of something collapsing, one names an outright abandonment of moral rules. They also differ in what they can attach to: a habit, a civilisation, or a man.
@@ -4609,6 +4987,7 @@ All three describe a life given over to pleasure with the brakes off, and all th
 > **On the exam:** The trap is treating them as one dial of "how much fun" — the exam picks between them on *what's implied*: undisciplined, in decline, or morally unbound.
 
 
+<a id="intensity__hard-work-to-tirelessness"></a>
 ### Industrious → Indefatigable: Hard Work to Tirelessness
 
 All four praise a person for effort rather than talent — for staying on the task instead of solving it brilliantly. They differ along two axes: how much resistance the work involves (routine labor vs. grinding through setbacks), and where the admiration lands (visible output, meticulous care, refusal to quit, or sheer inexhaustibility). The higher you go, the less the word says about what got produced and the more it says about the will behind it.
@@ -4621,6 +5000,7 @@ All four praise a person for effort rather than talent — for staying on the ta
 > **On the exam:** The trap is treating all four as interchangeable fills for "hardworking"; the sentence plants a clue about resistance (obstacles → *dogged*), duration (years without flagging → *indefatigable*), or meticulousness (→ *sedulous*).
 
 
+<a id="intensity__inflated-style"></a>
 ### Inflated style
 
 All three name a gap between the grandeur of the presentation and the substance behind it — the show is bigger than what earns it. Each is a verdict delivered by an unimpressed observer, never a self-description and never a compliment. They differ in what is being inflated (a person's cultural standing, a speaker's vocabulary, a page of prose) and in how the failure lands on the audience: as eye-rolling, as laughter, as exhaustion.
@@ -4632,6 +5012,7 @@ All three name a gap between the grandeur of the presentation and the substance 
 > **On the exam:** Watch the target: only **pretentious** can describe a person or a thing, while **bombastic** and **turgid** must land on words — and if the sentence's complaint is boredom rather than noise, it wants **turgid** (which may also appear in its literal "swollen river" sense).
 
 
+<a id="intensity__interest-to-total-absorption"></a>
 ### Interest to total absorption
 
 All three describe something outside you taking hold of your attention — you don't decide to be interested, the thing does it to you. They line up on how much of you it takes: a pricked curiosity, a warm spell, a total loss of everything else in the room. Their metaphors track that escalation exactly: a tangle you want to unpick, a magic charm, and a state of bondage. The English is passive by default in all three — the thing has the power, you receive it.
@@ -4643,6 +5024,7 @@ All three describe something outside you taking hold of your attention — you d
 > **On the exam:** Two traps: the GRE almost always wants **intrigue**'s scheming sense, and it baits you into using it for total absorption — but a crowd that sat spellbound through three hours was **enthralled**, never merely intrigued.
 
 
+<a id="intensity__just-getting-started"></a>
 ### Just getting started
 
 All three describe something at the very beginning of its existence, before it has been tested or fully developed. They mark a thing as early rather than defective — the judgment withheld, not delivered. The differences are how much shape the thing has yet acquired: an unformed stirring, a newly existing entity, or a young venture already up and running. The order below runs from least formed to most formed.
@@ -4654,6 +5036,7 @@ All three describe something at the very beginning of its existence, before it h
 > **On the exam:** Sentence-equivalence pairs **nascent** with *emerging* and **inchoate** with *amorphous/unformed* — if the sentence stresses formlessness rather than earliness, *nascent* is the trap.
 
 
+<a id="intensity__levels-of-skill"></a>
 ### Levels of skill: passable → adept
 
 All four rate how well someone does a thing, and all four sit in the crowded middle of the scale — above incompetence, below genius. That's the trap: none of them means "brilliant," but they differ sharply in how much credit they hand over and how much they withhold. Two of them are praise thin enough to function as criticism; the other two are genuine, if unglamorous, compliments. The scale runs from clearing the bar to commanding the craft.
@@ -4666,6 +5049,7 @@ All four rate how well someone does a thing, and all four sit in the crowded mid
 > **On the exam:** The GRE tests these as *negatives*: sentence-completion stems with "merely," "no more than," or a concessive "though" want **passable** or **competent**, and picking **adept** or **proficient** there overshoots the sentence's disparaging tone.
 
 
+<a id="intensity__limiting-to-walling-in"></a>
 ### Limiting to walling in
 
 All three describe confinement imposed on someone or something by an outside force — a boundary is set, and the thing inside no longer has the run of the world. What separates them is how much space is left inside the boundary and how permanent the wall is: a line drawn around your permitted range, a temporary cordon pending a verdict, or masonry with no door. All three carry the sense that the confinement was decided elsewhere, though one of them can be turned on oneself.
@@ -4677,6 +5061,7 @@ All three describe confinement imposed on someone or something by an outside for
 > **On the exam:** The trap is treating them as interchangeable severity levels: watch whether the sentence limits a *power* (circumscribe), isolates a *risk* pending judgement (quarantine), or seals a *body* behind walls (immure) — and remember only immure can be done to oneself by choice.
 
 
+<a id="intensity__low-energy-worsening"></a>
 ### Low Energy: From Stylish Slowness to Nearly Asleep
 
 All four describe something moving, working, or reacting below full power — a body, a market, an afternoon. They line up by how far the energy has drained away, from a mild unhurriedness that can still look good, through slowness read as malfunction, to a drained state that a doctor would note, to something on the verge of actual sleep. What really separates them is not degree alone but *who is judging and why*: one flatters, one diagnoses a fault, one records a symptom, one paints a mood. Getting the direction of the judgment wrong is the whole trap.
@@ -4689,6 +5074,7 @@ All four describe something moving, working, or reacting below full power — a 
 > **On the exam:** The GRE loads this group with connotation traps: **languid** is the one that can be praise, **somnolent** is the one that can describe the *cause* rather than the sufferer, and **sluggish** attaches to machinery and markets where the others sound wrong.
 
 
+<a id="intensity__making-a-bad-thing-worse"></a>
 ### Making a bad thing worse
 
 All three take a situation that is *already* bad and describe it getting worse — none of them can start from a neutral baseline. Where they split is the *mechanism* of worsening: whether something new was added on top, whether the existing trouble simply got more severe, or whether it climbed to a higher level in stages. That mechanism also determines who or what gets blamed, and how formal the sentence sounds.
@@ -4700,6 +5086,7 @@ All three take a situation that is *already* bad and describe it getting worse �
 > **On the exam:** The trap is mechanism-blindness: sentences that supply a distinct second act want **compound**, ones describing a step up in kind want **escalate**, and only **exacerbate** fits when nothing new happens but an existing condition intensifies — plus the neutral "escalate to my manager" sense is fair game.
 
 
+<a id="intensity__making-bigger"></a>
 ### Making Bigger: Adding To, Turning Up, Puffing Up
 
 All three enlarge something that already exists — none of them creates. The differences are *what* gets enlarged and *whether the enlargement is honest*: you can add material to a stock, raise the intensity of a signal, or inflate a reputation while the substance underneath stays exactly the same. Register climbs across the group, and so does the speaker's willingness to judge: the first two report a change, the last one condemns it.
@@ -4711,6 +5098,7 @@ All three enlarge something that already exists — none of them creates. The di
 > **On the exam:** Sentence Equivalence baits you with **aggrandize** for a neutral increase — check the sentence for scorn before picking it; and let the object decide between the other two: a stock or supply takes **augment**, a signal or effect takes **amplify**.
 
 
+<a id="intensity__mild-objection-to-revolt"></a>
 ### Mild objection to revolt
 
 All four are refusals to go along with something backed by authority — a proposal, a ruling, a rule, a command. They differ in how much of the refusal is spoken versus acted, how public it is, and how much of the authority itself it rejects. At the low end the objector still defers and may yet comply; at the high end the objector has taken the authority's power away from it. The scale also shifts register: the first two are things you *say*, the last two are things you *do*.
@@ -4723,6 +5111,7 @@ All four are refusals to go along with something backed by authority — a propo
 > **On the exam:** The trap is treating these as interchangeable degrees of "disagree": **demur** and **dissent** are speech acts and can't govern a rule the way **flout** does, **flout** takes rules and never people, and **mutiny** requires subordinates against their own commanders — a citizenry or a customer base cannot mutiny.
 
 
+<a id="intensity__minor-fault-to-depravity"></a>
 ### Minor fault to depravity
 
 All four name wrongdoing measured against a moral standard rather than a mere rule — the vocabulary of conscience, sermon and tribunal rather than of the police blotter. They differ almost entirely in how much weight the speaker puts on the act and how far the judgement reaches: from a fault so slight it is named in order to be forgiven, up to corruption so complete it condemns the person rather than the deed. The scale also tracks scope: the first two describe *acts*, the last two describe *character*.
@@ -4735,6 +5124,7 @@ All four name wrongdoing measured against a moral standard rather than a mere ru
 > **On the exam:** The trap is **peccadillo** in a sentence with a stern-sounding frame — the surrounding gravity tempts you toward transgression, but a clause containing "merely," "indulgent," or "forgave" demands the diminishing word; likewise **turpitude** is correct only where an official consequence is in view, not where mere wickedness is described.
 
 
+<a id="intensity__misgiving-to-horror"></a>
 ### Misgiving to horror
 
 All three name disquiet at something wrong or threatening, and they sit on a rising scale — from a hesitation barely worth mentioning, through sustained dread, to frozen horror. They also split on timing and target: two of them face forward at something not yet done or not yet arrived, while the strongest looks back at something already revealed. Register climbs with intensity too, from everyday to distinctly literary.
@@ -4746,6 +5136,7 @@ All three name disquiet at something wrong or threatening, and they sit on a ris
 > **On the exam:** The trap isn't the scale — it's that **apprehension** is usually tested in its non-fear senses (*arrest*, *understanding*), so if dread doesn't fit the sentence, swap one of those in.
 
 
+<a id="intensity__odd-to-tradition-smashing"></a>
 ### Odd to tradition-smashing
 
 All five mark a departure from what's accepted — the norm, the convention, the received doctrine. They differ on two axes at once: **how far** the departure goes (a charming habit vs. a foundation torn up) and **what** it departs from (personal behaviour vs. a body of belief vs. the structure of a system). The low end is tolerated or enjoyed; the high end changes something. Confusion comes from treating them as interchangeable degrees of "weird," when the top three aren't about weirdness at all.
@@ -4759,6 +5150,7 @@ All five mark a departure from what's accepted — the norm, the convention, the
 > **On the exam:** The GRE's favourite trap is treating **radical** as a synonym for extreme or drastic — it tests *fundamental/foundation-level*, often modifying an abstract noun (revision, departure) with no politics anywhere in the sentence; second trap is offering **eccentric** where the context is about beliefs, which needs **heterodox**.
 
 
+<a id="intensity__off-the-expected-course"></a>
 ### Off the expected course
 
 All three say a thing has left the path it was supposed to follow, and all three are the formal, analytic way to say it rather than the casual *weird* or *odd*. The difference is what supplies the path — a shared starting point, a predictive model, or a norm of proper functioning — and how much blame attaches to leaving it. They run from pure geometry to pure diagnosis: measuring an angle, flagging a misfit, reporting a failure.
@@ -4770,6 +5162,7 @@ All three say a thing has left the path it was supposed to follow, and all three
 > **On the exam:** Sentence-equivalence traps swap **anomalous** for **aberrant**: check whether the sentence merely flags a misfit or already condemns it — and reject **divergent** wherever no shared starting point exists.
 
 
+<a id="intensity__official-disapproval"></a>
 ### Official disapproval: from mild to blistering
 
 All four are ways of publicly registering that something is wrong, and all four sit in formal register — the language of editorials, tribunals, and podiums rather than of an argument in a kitchen. What separates them is heat and authority: how loud the speaker is, whether an institution stands behind the words, and whether the target is a person or a practice. Some of these are merely spoken; one is an official act with a record attached.
@@ -4782,6 +5175,7 @@ All four are ways of publicly registering that something is wrong, and all four 
 > **On the exam:** The trap is **deprecate** — it looks like a strong Latinate condemnation word and sits next to three fierce ones, so test writers plant it where the sentence signals restraint ("mildly", "gently", "merely") and reward you for noticing the temperature drop.
 
 
+<a id="intensity__out-of-date-by-degree"></a>
 ### Out of date by degree
 
 All four say a thing belongs to an earlier time and the present has moved on without it. They differ in how far gone it is — still operating but out of place, superseded by something better, long dropped out of use, or reduced to a functionless husk — and in the attitude that comes with the verdict: mockery, market logic, antiquarian distance, clinical diagnosis. The trap is that each one implies a different *reason* the thing no longer fits, not just a different amount of age.
@@ -4794,6 +5188,7 @@ All four say a thing belongs to an earlier time and the present has moved on wit
 > **On the exam:** The GRE separates these by what the sentence supplies: a named replacement points to **obsolete**, a surviving-but-inert structure to **vestigial**, a jarring modern context to **anachronistic**, and sheer age-with-disuse to **archaic** — so read the clause that explains *why* it no longer fits, not the one that says it's old.
 
 
+<a id="intensity__praise-to-worship"></a>
 ### Praise to worship
 
 All five say good things about someone or something loudly enough for others to hear — praise that is public, performed, and escalating in temperature. What separates them is how far up the ladder the praise climbs (a good review → a ceremony → a parade → an altar) and how much judgment the praiser has surrendered along the way. The higher you go, the more the word stops describing the object and starts describing the crowd. The top three carry a built-in raised eyebrow: the writer using them is often measuring the gap between the adulation and what earned it.
@@ -4807,6 +5202,7 @@ All five say good things about someone or something loudly enough for others to 
 > **On the exam:** The exam tests the eyebrow, not the volume: if the sentence's tone is skeptical or measures adulation against merit, the answer is **lionize/deify** (or **venerate** in a "no longer questioned" context), while a neutral report of settled public praise wants **acclaim**.
 
 
+<a id="intensity__backing-something-up"></a>
 ### Propping up → fighting for: bolster, buttress, champion
 
 All three add strength to something that would be weaker without you. The confusion is that each answers "support" in a sentence-completion stem, but they differ on two axes: how much structural weight the support carries, and how much the supporter is exposed. The first two supply material to a thing that is sagging; the last supplies a person willing to take the hits. Moving down the list, attention shifts from the object's weakness to the supporter's commitment.
@@ -4818,6 +5214,7 @@ All three add strength to something that would be weaker without you. The confus
 > **On the exam:** Sentence Equivalence loves bolster/buttress as the synonym pair — champion sits nearby but takes a different object (a cause, a person) and marks the supporter's stake, not the object's shakiness; the noun "winner" sense is the decoy.
 
 
+<a id="intensity__pulling-away-from-people"></a>
 ### Pulling away from people
 
 All four describe a person who keeps other people at arm's length, and all four are dispositions rather than passing moods. What separates them is how far the withdrawal goes and what feeling drives it: a preference for the background, a chosen coolness, a physical removal from society, or a settled contempt for the species. The scale runs from merely unassuming to actively wanting nothing to do with humankind. Note also that only one of them is primarily a noun — a label for a whole way of living rather than a description of manner.
@@ -4830,6 +5227,7 @@ All four describe a person who keeps other people at arm's length, and all four 
 > **On the exam:** The trap is treating them as interchangeable degrees of "unsociable" — but the passage always signals *which axis*: attention (retiring), warmth (aloof), physical location (recluse), or opinion of mankind (misanthropic); a hermit-like character who is kind to visitors is a recluse, not a misanthrope.
 
 
+<a id="intensity__respect-to-awe"></a>
 ### Respect to awe
 
 All three say something deserves to be looked up to, and all three are formal enough that a plain "impressive" would sound wrong. What separates them is how much the thing looming over you, and what the response is: measured approval, deference, or a chill down the spine. They also scale by what they can attach to — a competent person, an ancient institution, a place where you feel watched.
@@ -4841,6 +5239,7 @@ All three say something deserves to be looked up to, and all three are formal en
 > **On the exam:** The exam leans on register and target: a sentence about a *committee* or *jurist* wants **august**, a sentence about a *scholar's record* wants **estimable**, and only a sentence with dread, mystery, or the divine in it takes **numinous** — pick by what the adjective is modifying, not by how impressive the thing sounds.
 
 
+<a id="intensity__scale-of-disaster"></a>
 ### Scale of disaster
 
 All three sit above *disastrous* on the severity ladder: they describe ruin large enough that no one is going to patch it up afterwards. They share a formal, headline-and-history-book register, and all three are routinely inflated in casual speech precisely because their real meanings are so absolute. What actually separates them is not how bad, but *what kind* of bad — whether the emphasis falls on the wreckage a choice left behind, on a system ceasing to function all at once, or on an upheaval that remakes the landscape.
@@ -4852,6 +5251,7 @@ All three sit above *disastrous* on the severity ladder: they describe ruin larg
 > **On the exam:** Severity won't decide these — the sentence will. Look for the agency clue (a decision, a policy, a blunder → **calamitous**), the failure clue (a structure, a system, all at once → **catastrophic**), or the upheaval clue (an era ends, an industry realigns → **cataclysmic**).
 
 
+<a id="intensity__scolding-mild-to-savage"></a>
 ### Scolding, mild to savage
 
 All six mean *to tell someone off for a fault*, and all six are negative and mostly formal — so on a sentence-completion they look interchangeable. They separate on four axes: **heat** (a warning vs. a tirade), **audience** (a private word vs. an on-the-record denunciation), **the source of the speaker's standing** (rank, moral high ground, or simple hurt), and **what the speaker wants** (that you fix it, that you feel it, or that nothing of you is left). The list runs from correction to destruction.
@@ -4866,6 +5266,7 @@ All six mean *to tell someone off for a fault*, and all six are negative and mos
 > **On the exam:** The exam keys on the surrounding adverbs — *publicly, savagely, at length, gently, with advice* — so a blank scolded "mildly but firmly" wants **admonish** and one delivered "in a scathing editorial" wants **excoriate** or **castigate**; also watch **admonish + to-infinitive** (pure warning, no anger) and the frozen noun **beyond reproach**.
 
 
+<a id="intensity__shades-of-gloom"></a>
 ### Shades of gloom: pensive → wistful → glum → morose → lugubrious
 
 All five describe a low, unhappy mood as it *appears from the outside* — on a face, in a silence, across a room. None of them names sharp grief or a specific loss; they name a settled weather system, something a person is *in* rather than something that just happened to them. What separates them is how heavy the gloom is, whether it is pleasant or sour, and whether other people are made to suffer it.
@@ -4879,6 +5280,7 @@ All five describe a low, unhappy mood as it *appears from the outside* — on a 
 > **On the exam:** The trap is treating them as interchangeable slots on one dial: the exam keys on the *social* charge — wistful is fond, glum is trivial, morose blames, lugubrious mocks — so a sentence whose real signal is "nobody could cheer him up" wants morose, not glum, and a sentence whose signal is "absurdly overdone" wants lugubrious, not morose.
 
 
+<a id="intensity__sharp-to-wounding-criticism"></a>
 ### Sharp to wounding criticism
 
 All four describe criticism with an edge — sharp, unsoftened, delivered with skill rather than blunt force. The differences are heat and intent: whether the sharpness tightens, bites, burns, or wounds, and whether the speaker is bracing you, amusing you, or trying to take something out of you. Two of them can be compliments to the critic's style; two are damage reports. Watch also what each attaches to — a person, a manner, or the attack itself.
@@ -4891,6 +5293,7 @@ All four describe criticism with an edge — sharp, unsoftened, delivered with s
 > **On the exam:** Tone traps: the exam offers **caustic** or **scathing** where the sentence praises a writer's discipline (wants **astringent**) or flags dry humour (wants **mordant**) — check whether the context is admiring, amused, or wounded.
 
 
+<a id="intensity__short-tempered-by-degree"></a>
 ### Short-tempered by degree
 
 All four describe someone who is unpleasant to be around because they are perpetually a little angry — irritable, hard to satisfy, prone to snapping or grumbling. All four are judgments passed from outside; nobody applies them to themselves. What separates them is the *shape* of the temper: how loud it is, whether it comes out as a whine or a fight, whether it's a passing sulk or a lifelong disposition, and how much force the word grants the anger.
@@ -4903,6 +5306,7 @@ All four describe someone who is unpleasant to be around because they are perpet
 > **On the exam:** The sentence tells you which one by its subject and its trigger — a squabbling group takes **fractious**, a whining voice takes **querulous**, a trivial slight takes **petulant**, a forty-year reputation takes **irascible**; and only **irascible** survives a context that admires the person.
 
 
+<a id="intensity__shrewd-to-wise"></a>
 ### Shrewd to wise
 
 All four praise someone for sharp judgement about people and situations — the ability to see what's actually going on and not be fooled. All four are complimentary, which is exactly the trap: each one is the respectable twin of *cunning*, *crafty*, or *sly*. They separate on what the sharpness is *for* — protecting your money, seizing an opening, reading a motive, or calling the future — and on how grand the praise sounds.
@@ -4915,6 +5319,7 @@ All four praise someone for sharp judgement about people and situations — the 
 > **On the exam:** Watch the sentence's clue-type: money/refusal → canny, opportunity seized → astute, hidden motive detected → perspicacious, outcome proved right later → sagacious; and beware answer choices like *cunning* or *devious*, which fit the skill but flip the tone.
 
 
+<a id="intensity__shy-to-cowardly"></a>
 ### Shy to cowardly
 
 All three describe someone who hangs back when they could step forward, and all three are unflattering. The difference is what supplies the brake — a low estimate of your own worth, a nervous fear of acting, or the willingness to abandon a duty to keep yourself safe — and how harshly the speaker is judging you for it. The scale runs from a sympathetic diagnosis of self-doubt to a moral conviction.
@@ -4926,6 +5331,7 @@ All three describe someone who hangs back when they could step forward, and all 
 > **On the exam:** The sentence's moral temperature decides it: a self-underrating student is diffident, a dithering committee timorous, and only a betrayed obligation licenses craven — so watch for whether the context supplies a duty that was abandoned.
 
 
+<a id="intensity__small-tricks-to-deep-scheming"></a>
 ### Small Tricks to Deep Scheming
 
 All three name getting your way by cunning rather than force — deception, indirection, working an angle the other side can't see. Every one of them is a judgement passed by an observer: nobody describes their own conduct this way. What separates them is size and setting: one clever move, a whole method of exploiting the rules, or a general climate of sneaky dealing. Register splits them too, from courtroom-formal to newspaper-jokey.
@@ -4937,6 +5343,7 @@ All three name getting your way by cunning rather than force — deception, indi
 > **On the exam:** The trap is register, not meaning: contexts marked *legal, procedural, technically-permitted* want **chicanery**, jocular or unproven *something-fishy* contexts want **skullduggery**, and a sentence describing one discrete tactic (especially a harmless one) wants **ploy** — all three fit the blank's negative sense, so only the surrounding tone decides.
 
 
+<a id="intensity__soft-to-deafening"></a>
 ### Soft to deafening
 
 All four describe sound by its volume and texture, running from a near-whisper up to a din that drowns everything out. Each also carries a fixed attitude toward that noise — tender, indulgent, disapproving, or awed — so the wrong pick misreports how the speaker feels, not just how many decibels there were. They differ further in what makes the sound: one throat, a crowd of throats, or struck metal.
@@ -4949,6 +5356,7 @@ All four describe sound by its volume and texture, running from a near-whisper u
 > **On the exam:** The trap is treating these as interchangeable volume synonyms — the answer usually turns on source and attitude: one voice vs. a crowd vs. metal, fond vs. annoyed.
 
 
+<a id="intensity__sparing-to-miserly"></a>
 ### Sparing to miserly
 
 All four describe giving out less than one should — money, praise, food, effort — and all four are judgments rather than compliments. Where *frugal* and *thrifty* credit you for spending carefully, this set treats the withholding as a fault: grudging, mean, or pitiful. They differ in how much is withheld, whether money must be involved, how formal the word is, and how much contempt the speaker is loading in.
@@ -4961,6 +5369,7 @@ All four describe giving out less than one should — money, praise, food, effor
 > **On the exam:** Two favorite traps: **parsimonious** applied to a theory is praise, not a slur; and **penurious** may mean poor rather than stingy, so a sentence about hardship rather than character is signaling sense (1).
 
 
+<a id="intensity__sparing-with-words"></a>
 ### Sparing with words
 
 All three describe someone who gives you less speech than the situation invites. The differences are in scope: whether the sparseness is a property of a single utterance, of one guarded subject, or of the person's whole disposition. Note also whether the silence implies *nothing more to say* or *something deliberately kept back* — that's what flips these between admiring and suspicious. The order below widens from a remark, to a topic, to a lifetime.
@@ -4972,6 +5381,7 @@ All three describe someone who gives you less speech than the situation invites.
 > **On the exam:** The classic trap is **reticent** vs **taciturn**: pick reticent only when the sentence supplies a subject being withheld ("about her past"), taciturn when it characterizes the person in general — and **laconic** when the sentence points at the words themselves, not the speaker.
 
 
+<a id="intensity__stirring-people-up"></a>
 ### Stirring people up
 
 All four describe deliberately working on someone until they act — and all four put the blame on the one doing the working, not the one who ends up acting. None is neutral: each quietly assumes the resulting action is bad, unwise, or hostile. They separate along two axes: whether the target is one person or a crowd, and whether the pressure is a single push or sustained heat. What changes as you move up the scale is scope and duration — from private needling, to a ruptured relationship, to a mob in the street, to unrest cultivated for months.
@@ -4984,6 +5394,7 @@ All four describe deliberately working on someone until they act — and all fou
 > **On the exam:** The trap is incite/foment: take a time cue ("for years," "quietly, from abroad") or an abstract mass noun (resentment, discord) as foment, and a single moment plus a countable act (a riot, a mutiny) as incite.
 
 
+<a id="intensity__strength-of-evidence"></a>
 ### Strength of evidence: from guess to proof
 
 Every word here answers the same question — how much weight can this claim bear? They form a ladder running from a gap filled by inference, through claims that merely sound or feel believable, up to evidence that ends the argument entirely. The trap is that the ladder has two rails: some of these rate how a claim *strikes* a listener, others rate what the *evidence* actually establishes. Sounding good and being proven are different measurements, and only the top of the scale claims the second.
@@ -4997,6 +5408,7 @@ Every word here answers the same question — how much weight can this claim bea
 > **On the exam:** The classic construction pits the two rails against each other — "the theory was ___, but decades of digging produced nothing to confirm it" wants *plausible* or *conjectural*, never *credible*; and watch for the negations, since *inconclusive* and *not incontrovertible* mean "unsettled," not "false."
 
 
+<a id="intensity__strength-of-inclination"></a>
 ### Strength of inclination
 
 All four name a settled leaning toward something — not a passing mood but a standing feature of the person, the kind of thing you could predict about them. They differ along two axes at once: how deep the leaning runs (a taste you indulge → a bias you carry → a trait you can't help) and how much moral shade the writer is throwing. The lighter end attaches to objects and pleasures; the heavier end attaches to behaviour, and increasingly to behaviour someone is being held accountable for. The escalation is roughly taste → bias → leaning → diagnosis.
@@ -5009,6 +5421,7 @@ All four name a settled leaning toward something — not a passing mood but a st
 > **On the exam:** Answer choices often hinge on what the noun attaches to and who's judging: a taste (penchant), a prior preference (predilection), a vice (proclivity), or a predictable trait on record (propensity).
 
 
+<a id="intensity__strict-to-tyrannical"></a>
 ### Strict to tyrannical
 
 All four say a line is being held and no exceptions are coming. They differ in what's actually severe — the enforcer's manner, the height of the bar, the size of the penalty, or the ruler's unchecked will — and in how much the speaker is condemning. The scale runs from mere firmness through exacting precision to disproportionate punishment to naked tyranny, and roughly halfway along it stops being description and becomes accusation.
@@ -5021,6 +5434,7 @@ All four say a line is being held and no exceptions are coming. They differ in w
 > **On the exam:** **Stringent** is the trap: it's the only one that can be a compliment and the only one that can't take a person — if the sentence praises tight standards, the "harsh" answers are all wrong.
 
 
+<a id="intensity__stubborn-to-immovable"></a>
 ### Stubborn to immovable
 
 All five describe a person who will not be moved off a course by outside pressure — advice, argument, offered terms, or begging. What separates them is *which* pressure is failing and how damning the speaker means to be. Read from mild self-will to absolute, permanent hardness: the early members resist persuasion, the late ones resist mercy. Several also detach from opinion entirely and become a fixed hostility or an unstoppable force.
@@ -5034,6 +5448,7 @@ All five describe a person who will not be moved off a course by outside pressur
 > **On the exam:** The sentence names the pressure that failed — "despite every concession offered" points to intransigent, "no amount of weeping moved him" to obdurate, "ignored every warning and pressed on" to headstrong; wrong answers are the group-mates that resist a different pressure.
 
 
+<a id="intensity__sweet-talking-someone-into-it"></a>
 ### Sweet-talking someone into it
 
 All three describe getting a yes out of someone who started out unwilling — and getting it through soft verbal charm rather than through argument, payment, or threat. The target is never forced; they are flattered, coaxed, and worked on until they give in. What separates them is how honest the charm is and how it sounds: warm persistence at one end, ingratiating angling in the middle, outright smooth deception at the far end.
@@ -5045,6 +5460,7 @@ All three describe getting a yes out of someone who started out unwilling — an
 > **On the exam:** The GRE hides the deception line — only the strongest of the three admits actual trickery — and tests the prepositions (into for all three, plus the extraction sense "out of" for the middle one).
 
 
+<a id="intensity__talking-too-much"></a>
 ### Talking too much: voluble → loquacious → garrulous → prolix
 
 All four describe a flood of words, and they differ mainly in how much disapproval is packed into the label — from admiring the flow, to noting the excess dryly, to openly complaining. They also differ in what exactly is wrong: too fluent, too much, too aimless, or too long. Three describe a person mid-conversation; one describes the output on the page.
@@ -5057,6 +5473,7 @@ All four describe a flood of words, and they differ mainly in how much disapprov
 > **On the exam:** The trap is reading all four as plain synonyms of "talkative" — the sentence almost always plants a clue: approval points to **voluble**, triviality to **garrulous**, and a document rather than a person to **prolix**, which alone modifies prose.
 
 
+<a id="intensity__teasing-to-public-ridicule"></a>
 ### Teasing to public ridicule
 
 All three describe mockery deployed as wit — laughter aimed at somebody, delivered with enough craft that it counts as humor rather than mere insult. What separates them is how much damage is intended and how public the delivery is: the same joke can be a gift between friends, a weapon against an institution, or a demolition of one named person. Watch also for whether the word describes the *social act*, the *method*, or the *finished piece*.
@@ -5068,6 +5485,7 @@ All three describe mockery deployed as wit — laughter aimed at somebody, deliv
 > **On the exam:** The trap is treating all three as generic "mockery": sentence-equivalence questions hinge on whether the context supplies affection (raillery), a reformist target (satirical), or a named public victim (lampoon).
 
 
+<a id="intensity__tender-to-sickly"></a>
 ### Tender to sickly
 
 All three describe emotion — or sweetness — supplied in greater quantity than the occasion can absorb. The scale runs from feeling that merely governs someone, through feeling laid on so thickly it nauseates, to pleasantness that has curdled from sheer repetition. Each implies a judgment about *dosage*, not about whether feeling belongs at all. The higher two are permanent insults; only the first can be said kindly.
@@ -5079,6 +5497,7 @@ All three describe emotion — or sweetness — supplied in greater quantity tha
 > **On the exam:** Watch for context that only permits the neutral end — an affectionate keepsake sentence takes *sentimental*, and the trap answers *mawkish*/*cloying* are wrong purely because their contempt has nowhere to land.
 
 
+<a id="intensity__thin-supply-to-none-at-all"></a>
 ### Thin supply to none at all
 
 All four report that there isn't much of something, and they line up from "spread thin but present" to "yields nothing at all." What separates them is the yardstick: thinness across an area, a shortfall against what was required, a shortage across a whole field or market, or an outright failure to produce. They also differ in temperature — one is a measurement, the others are complaints, and the last is close to an accusation.
@@ -5091,6 +5510,7 @@ All four report that there isn't much of something, and they line up from "sprea
 > **On the exam:** Traps run in both directions: a judgement-loaded sentence ("regrettably ___ regard for safety") rules out neutral **sparse**, while "very little, but some" rules out **barren** — and only **dearth** fits a noun slot after *a*.
 
 
+<a id="intensity__too-small-to-matter"></a>
 ### Too small to matter — from measurement to contempt
 
 All four call something small enough to be discounted, and the gradient runs from *how much* to *how little you think of it*. At one end the smallness is simply a fact you could verify with a thermometer or a stopwatch; at the other the size is a pretext for scorn, and the real content of the word is the speaker's disdain. The middle of the range is where the exam lives: words that look like measurements but are actually verdicts already delivered. Watch what each one attaches to — a quantity, a claim, or a person — because that governs which one is idiomatic.
@@ -5103,6 +5523,7 @@ All four call something small enough to be discounted, and the gradient runs fro
 > **On the exam:** Two traps: the noun/verb **slight** (a snub, not a size), and swapping **paltry** for **trivial** — paltry needs a quantity that fell short of an expectation, trivial dismisses an idea's importance.
 
 
+<a id="intensity__reducing-an-effect-to-nothing"></a>
 ### Turning it down vs. taking it to zero
 
 All four verbs act on something unwanted — a force, a harm, a practice — and reduce its power. What separates them is how much survives the operation and what exactly gets shrunk: the thing's momentum, the severity of the damage it does, its legal force, or its existence. The bottom of the scale leaves the thing running at a lower setting; the top leaves nothing to run. The two words at the top both reach zero, but not zero of the same thing.
@@ -5115,6 +5536,7 @@ All four verbs act on something unwanted — a force, a harm, a practice — and
 > **On the exam:** Sentence-equivalence traps hang on the remainder: any clause conceding the thing persists ("though flooding still occurred") kills nullify/eradicate, and any clause saying it counted for nothing ("the raise vanished into rising rents") kills curb/mitigate.
 
 
+<a id="intensity__twinge-to-crushing-remorse"></a>
 ### Twinge to crushing remorse
 
 All three name a private pang of self-directed discomfort — the feeling that something has gone wrong and that you are implicated. They differ on two axes at once: **timing** (before the act, at the moment of exposure, after the wrong) and **stakes** (a flicker of hesitation, a bruised ego, a crushed conscience). Only the first and last are about conscience at all; the middle one is about dignity, which is exactly what makes the trio treacherous. Intensity climbs steeply across them, and so does what the feeling costs you to admit.
@@ -5126,6 +5548,7 @@ All three name a private pang of self-directed discomfort — the feeling that s
 > **On the exam:** The trap is treating **chagrin** as mild guilt: the exam builds sentences where the trigger is a bruised ego (being upstaged, proved wrong) and rewards you only for noticing that no wrongdoing occurred — while **qualm** is baited by its negation, so read for whether the sentence needs "hesitated" or "didn't hesitate."
 
 
+<a id="intensity__unbothered-to-unfeeling"></a>
 ### Unbothered to unfeeling
 
 All four describe a missing reaction — the concern, alarm, or sympathy that the situation called for simply isn't there. What separates them is *what's absent and why*: whether it's only absent from the face, absent because the person never looked, absent because they've decided the matter is beneath their attention, or absent because the capacity to feel it has worn away. They also climb a moral ladder: the first is a manner, the last is a charge.
@@ -5138,6 +5561,7 @@ All four describe a missing reaction — the concern, alarm, or sympathy that th
 > **On the exam:** The exam banks on you treating these as interchangeable "doesn't care" synonyms — but only **callous** requires someone else's suffering, only **blithe** requires cheerfulness, and only **nonchalant** can be neutral or even flattering.
 
 
+<a id="intensity__unclear-to-impossible"></a>
 ### Unclear to impossible
 
 All five describe something the mind can't get hold of — meaning that fails to arrive. They differ on *why* the light doesn't get through: because the thing is small and unnoticed, because its content is genuinely deep, because it sits far off the beaten track of learning, because access is restricted to initiates, or because there is simply no way in at all. They also differ in who gets blamed — the subject, the writer, or nobody. The ordering below runs from mild dimness to total blockage.
@@ -5151,6 +5575,7 @@ All five describe something the mind can't get hold of — meaning that fails to
 > **On the exam:** The GRE most often tests **obscure** as a verb meaning "overshadow," and separates **arcane**'s locked door from **abstruse**/**recondite**'s sheer depth — and remember nothing is *somewhat* impenetrable.
 
 
+<a id="intensity__understandable-to-crystal-clear"></a>
 ### Understandable to crystal clear
 
 All five say that something can be gotten through — meaning, or light, passes without being blocked. What separates them is how much credit that earns. At the bottom the claim is only that comprehension was possible at all; in the middle it is that the parts hold together; at the top it is that the medium has vanished, leaving nothing between the reader and the idea. The lower words are diagnoses, often grudging; the upper words are compliments, and increasingly literary ones.
@@ -5164,6 +5589,7 @@ All five say that something can be gotten through — meaning, or light, passes 
 > **On the exam:** The trap is treating the low end as praise: **intelligible** and **coherent** are floors, so GRE contexts pair them with *barely*, *scarcely*, *at least* — while a sentence praising a hard idea made easy wants **lucid**, and one praising water or beautiful prose wants **limpid/pellucid**.
 
 
+<a id="intensity__unfeeling-to-cruel"></a>
 ### Unfeeling to cruel: callous → malevolent → sadistic
 
 All three describe a person whose relationship to someone else's pain has gone wrong, and all three get lazily glossed as "cruel." The scale runs from absence to appetite: first the failure to feel anything, then the wish that harm come to you, then the relish when it does. What separates them is not how bad the person is but *where the badness sits* — in a missing reaction, in a standing disposition, or in the pleasure taken.
@@ -5175,6 +5601,7 @@ All three describe a person whose relationship to someone else's pain has gone w
 > **On the exam:** The GRE's favorite trap is treating **callous** as a synonym for cruelty — it will offer it for a passage about indifference or neglect, where the correct reading is that no one intended harm at all; conversely **malevolent** and **sadistic** both require intent, and only **sadistic** requires that the suffering be enjoyed.
 
 
+<a id="intensity__annoyance-to-fury"></a>
 ### Vexation → exasperated → ire
 
 All three name the state of being angered, and all three sit in the register of writing rather than shouting — they get *described*, not screamed. What separates them is heat and direction: how much of it is teeth-grinding endurance versus outward-facing anger, and whether it belongs to the person feeling it or to someone the offender has provoked. Two are the low, worn-down end of the scale; one is the word for real anger aimed at a target.
@@ -5186,6 +5613,7 @@ All three name the state of being angered, and all three sit in the register of 
 > **On the exam:** The trap is treating these as interchangeable synonyms for "angry": GRE contexts signal *repetition* (exasperated), *a petty ongoing nuisance* (vexation), or *a provoking act with an offended party* (ire) — pick on the trigger, not the temperature.
 
 
+<a id="intensity__weakening-from-below"></a>
 ### Weakening from below
 
 All four describe weakening or destroying a structure without a frontal assault — no wrecking ball, no open declaration of war. The damage works on what holds the thing up, or on its parts, rather than hitting its face. What separates them is how much of the structure ends up gone and how visible the hand doing it is: from one blow that leaves the thing standing but hollow, through patient erosion, to internal takeover, to complete disassembly. All take abstract structures as objects — authority, arguments, regimes, systems.
@@ -5198,6 +5626,7 @@ All four describe weakening or destroying a structure without a frontal assault 
 > **On the exam:** The trap is treating them as interchangeable synonyms for "weaken"; the sentence almost always fixes one of two things — how long it took (single gesture vs. slow erosion) or how much survives (hollowed vs. overturned vs. taken to pieces).
 
 
+<a id="intensity__weakening-a-thing"></a>
 ### Weakening: from dialed down to disabled
 
 All four describe force, strength, or capacity being reduced without being destroyed — the thing survives, just less able. They separate on three axes: what gets weakened (a signal, a faculty, a person's vitality, a whole life), whether the weakening is deliberate or inflicted, and how far down the scale it goes. The scale runs from a neutral, measured turning-down to a total loss of normal functioning.
@@ -5210,6 +5639,7 @@ All four describe force, strength, or capacity being reduced without being destr
 > **On the exam:** **Attenuate** is the trap: the exam plants it where the context is neutral or intentional (a signal, a claim, a dose), so picking a harm-word like *impair* or *debilitate* on reflex costs you the point.
 
 
+<a id="intensity__willing-to-submissive"></a>
 ### Willing → Steerable → Shapeable → Servile
 
 All four describe someone (or something) that yields rather than resists — the absence of pushback. The scale runs from cooperative willingness, through being easily steered, to having no resistance left, to obedience that has swallowed the self. Three of them also have a second, temperature-free life applied to non-humans: problems that yield to method, materials that bend, parts that serve a whole. The trap is that the same "goes along with it" behavior is neutral praise at one end and an insult at the other.
@@ -5229,6 +5659,7 @@ All four describe someone (or something) that yields rather than resists — the
 *Words whose charge is stronger or more one-sided than the definition suggests.*
 
 
+<a id="connotation__argument-that-only-looks-sound"></a>
 ### Argument That Only Looks Sound
 
 All of these live in the gap between how an argument *sounds* and whether it *holds*. Something has been constructed well enough to pass inspection — the vocabulary is respectable, the structure looks like reasoning — and the word's job is to say what's wrong underneath. They differ in what exactly they indict: the logic, the truth, the origin, the direction, or the arguer's good faith. Get that wrong and you've accused someone of the wrong crime.
@@ -5243,6 +5674,7 @@ All of these live in the gap between how an argument *sounds* and whether it *ho
 > **On the exam:** The classic trap is **plausible** for **specious**: if the sentence already establishes that the argument collapsed, *plausible* is wrong because it never claims falsity — and watch for **tendentious**, which answers "slanted," not "invalid."
 
 
+<a id="connotation__attacks-on-a-reputation"></a>
 ### Attacks on a reputation
 
 All of these are ways of damaging what other people think of someone. They differ along three axes the GRE loves: **mechanism** (a hint, a frontal challenge, a sustained campaign, a flat lie), **truth** (some require the statement to be false; others work perfectly well when it's true), and **audience** (whispered behind the back versus published to a crowd, with lawyers attached). Reordered here from the sideways and the sly to the outright false.
@@ -5259,6 +5691,7 @@ All of these are ways of damaging what other people think of someone. They diffe
 > **On the exam:** The trap is falsity and part of speech: denigrate/vilify/malign/impugn can be done with true statements, while defame/slander/calumny cannot — and aspersion and calumny are nouns, so a blank taking a verb rules them out on sight.
 
 
+<a id="connotation__authority-exercised-abusively"></a>
 ### Authority exercised abusively
 
 All of these describe power being used badly, and in every case the complaint is about *how* it is exercised, not whether the person legitimately holds it. They separate along axes the GRE loves: whether the fault is too little rule (whim, no stated principle) or too much rule (rigid, disproportionate enforcement); whether the charge attaches to a whole regime, a written policy, a personality, or a single act; and whether real authority is required or mere bearing will do. Fix which axis a word sits on and the group stops blurring.
@@ -5273,6 +5706,7 @@ All of these describe power being used badly, and in every case the complaint is
 > **On the exam:** The trap is reading them all as "harsh": **arbitrary** attacks the *absence* of a rule while **draconian** and **martinet** attack an *excess* of one, and only **arbitrary** has a neutral sense the test can hide behind.
 
 
+<a id="connotation__belief-held-past-argument"></a>
 ### Belief Held Past Argument
 
 These all describe conviction that has stopped negotiating with the world. The belief may be right or wrong — that's not the charge; the charge is that nothing outside the believer is allowed to move it, whether that's an opposing argument, an inconvenient case, or a changed century. They split on *what* is frozen (the discussion, the theory, the inherited habit), on whether you're describing a manner, a person, or an institution, and on whether the rigidity is a state or a decline. One of them isn't rigid at all — it's hot — and that's the whole trap.
@@ -5287,6 +5721,7 @@ These all describe conviction that has stopped negotiating with the world. The b
 > **On the exam:** Sentence Equivalence loves the **dogmatic / doctrinaire** pair; the classic wrong second pick is **zealous**, which supplies intensity, not closure — a zealous convert can still be argued out of it.
 
 
+<a id="connotation__boldness-the-speaker-admires"></a>
 ### Boldness the speaker admires
 
 All six are approving words for courage: the speaker is on the subject's side, and the nerve is being praised rather than diagnosed as recklessness. They split on three axes. First, what kind of courage — going toward danger, holding under it, or simply being frightening to face. Second, who qualifies — an underdog, a soldier, an opponent, a patient. Third, how the praise sounds — ceremonial, literary, warmly amused, or faintly patronising.
@@ -5301,6 +5736,7 @@ All six are approving words for courage: the speaker is on the subject's side, a
 > **On the exam:** The trap is fit, not warmth: all six are positive, so the answer turns on whether the sentence supplies an underdog (plucky), an opponent's viewpoint (redoubtable), a battlefield (valor), or a long ordeal (fortitude) — and on whether the blank needs a noun.
 
 
+<a id="connotation__boldness-the-speaker-resents"></a>
 ### Boldness the speaker resents
 
 All of these describe someone ignoring a limit that everyone else respected — and all but one come pre-loaded with the speaker's disapproval. The split that matters is *who gets hurt*: some of these words are complaints about an offence given to other people (you presumed, you weren't ashamed), while others are complaints about danger the bold person is walking into themselves. A second split is *what exactly is being condemned* — your rank, your lack of shame, your lack of caution, or your lack of a pause. The daring itself is never in doubt in any of them; only the verdict on it changes.
@@ -5315,6 +5751,7 @@ All of these describe someone ignoring a limit that everyone else respected — 
 > **On the exam:** The trap is treating **audacious** as automatically negative: on the GRE its blank usually sits in a sentence that admires the risk, while temerity/effrontery blanks always carry an offended party — scan for who is affronted before you pick.
 
 
+<a id="connotation__broken-faith"></a>
 ### Broken faith
 
 Someone had a claim on your honesty or loyalty, and it wasn't honored. All of these name a failure of good faith, which is why they blur — but they split along three lines: *what* was broken (a stated promise, an emotional bond, a confidence, the truth itself), whether it's a single act or a standing condition of character, and how loudly the word convicts. Some are cool enough for a contract dispute; others are verdicts you deliver when you've decided a person is rotten.
@@ -5329,6 +5766,7 @@ Someone had a claim on your honesty or loyalty, and it wasn't honored. All of th
 > **On the exam:** The trap is **betray** = *reveal inadvertently* (his voice betrayed his fear), never the loyalty sense; the second trap pits **mendacity** against **duplicity** — mendacity needs no second face, duplicity needs no false statement.
 
 
+<a id="connotation__calm-that-shades-into-lifeless"></a>
 ### Calm that shades into lifeless
 
 All of these describe a low level of visible animation — nothing is stirring, nothing is reacting, the needle sits near zero. Because English treats liveliness as a virtue, each one is a shade away from an accusation of dullness, and the reader has to decide from context whether the quiet is admirable or damning. What actually separates them is *what* has gone flat (feeling, manners, alertness, volume), *why* (inborn temperament, policy, an event that pressed it down), and whether the word describes a state or its cause.
@@ -5343,6 +5781,7 @@ All of these describe a low level of visible animation — nothing is stirring, 
 > **On the exam:** The trap is treating them as interchangeable synonyms for "calm": the GRE decides the answer on cause and history — **subdued** demands a prior higher level, **phlegmatic** demands there never was one, **staid** requires the dullness be about convention rather than emotion.
 
 
+<a id="connotation__care-for-detail-turned-into-a-fault"></a>
 ### Care for detail, curdled into a fault
 
 All of these describe attention to small details that has stopped being useful — but the words split on where the fuss is aimed. Three of them describe a standard you hold for yourself and what you'll accept; three describe an objection you press on someone else. That's the axis to fix first, because the GRE's sentences almost always supply a target (a host, a carburettor, a footnote, an opponent) rather than a definition. The second axis is blame: some of these can be earned praise, others are pure verdict on the fusser.
@@ -5357,6 +5796,7 @@ All of these describe attention to small details that has stopped being useful �
 > **On the exam:** Watch the target noun: a person's standards (fastidious, punctilious), a machine (finicky), or another person's error (pedantic, captious, quibble) — and remember fastidious/punctilious can be compliments while pedantic/captious never are.
 
 
+<a id="connotation__care-for-detail-as-praise"></a>
 ### Careful in every detail — coverage, precision, labor, conscience
 
 All five are compliments for care rather than for brilliance — the praise goes to someone who attends to small things and doesn't cut corners. What separates them is *which* dimension of care is being praised: how much ground was covered, how fine the finish is, how much grinding effort went in, how long the effort was sustained, or whether the care was owed to a conscience rather than to a standard of workmanship. None of them credits talent, speed, or insight; a person can be all five and still be slow and unoriginal.
@@ -5370,6 +5810,7 @@ All five are compliments for care rather than for brilliance — the praise goes
 > **On the exam:** The trap is treating them as interchangeable synonyms for "careful": the GRE builds sentences whose blank turns on honesty (only **scrupulous** fits), on sustained effort (**sedulous**/**painstaking**), or on completeness of coverage (**thorough**) — and sometimes tests **thorough** as an intensifier meaning "utter," not "careful" at all.
 
 
+<a id="connotation__changeability-condemned"></a>
 ### Changeability condemned
 
 All five say the same base thing: this person, market, or force will not hold still, and you cannot count on it. What differs is the *charge* laid against the change — is it disloyal, arbitrary, unstable, thrilling, or dangerous? — and *what* the change attaches to: a lover's affection, a ruler's decree, a patient's pulse, a genius's temper, a chemical or a crowd. Pick wrong and you get the fact right but the accusation wrong.
@@ -5383,6 +5824,7 @@ All five say the same base thing: this person, market, or force will not hold st
 > **On the exam:** Sentence completions signal the choice through the surrounding praise or fear, not the change itself: admiration in the clause forces **mercurial**, a ruler or arbiter forces **capricious**, measurements and performance force **erratic**, and any hint of explosion or evacuation forces **volatile** — **fickle** only survives when what shifted was someone's devotion.
 
 
+<a id="connotation__clarity-as-compliment"></a>
 ### Clarity as compliment
 
 Every word here is praise for something being clear — and on the GRE, praise-for-clarity words cluster densely enough that the answer choices often differ only in what is being complimented. Three of them describe transparency (what passes through untouched), two describe reasoning (whether the parts hold or the conclusion binds), and one describes an edge (clarity that penetrates). They also split by register: some are ordinary evaluation, some belong to book reviews and obituaries, some to judges and peer reviewers. Getting the group right means asking not "is it clear?" but "clear in what respect, and who is saying so?"
@@ -5397,6 +5839,7 @@ Every word here is praise for something being clear — and on the GRE, praise-f
 > **On the exam:** The trap is treating them as interchangeable clarity words: a sentence whose blank demands compelling force wants **cogent**, one demanding mere internal consistency wants **coherent**, one demanding sharp critique wants **trenchant** — and if two of **limpid/pellucid/lucid** appear together in Sentence Equivalence, they are usually the intended pair.
 
 
+<a id="connotation__cleverness-that-means-crooked"></a>
 ### Cleverness that means crooked
 
 All of these describe intelligence pointed at getting around someone rather than through a problem: the skill is real, the method is indirect, and the target didn't see it coming. None of them denies the brains — that's why they sting differently from plain *dishonest*, which says nothing about competence. What separates them is the **tone of the accusation** (cold contempt vs. grudging half-smile), the **scale** (a dodged chore vs. a rigged committee vs. buried fine print), and the **register** (courtroom-adjacent formality vs. newspaper-column wink).
@@ -5412,6 +5855,7 @@ All of these describe intelligence pointed at getting around someone rather than
 > **On the exam:** The GRE rarely tests "is this clever?" — it tests *how much the speaker disapproves*, so the answer usually hinges on whether the sentence is admiring (wily, artful), petty (crafty), cold (cunning), or institutional (chicanery); watch too for the older literal senses of **devious** (winding) and **artful** (tastefully contrived), which are prime second-meaning bait.
 
 
+<a id="connotation__clumsiness-with-embarrassment-attached"></a>
 ### Clumsiness with embarrassment attached
 
 All of these describe a failure of smoothness that makes onlookers wince rather than gasp — nobody here is malicious, just badly calibrated. They split along three axes: what fumbles (a body, a set of manners, a skill, a sentence), whether the word names a lasting trait or a single moment, and how much the speaker is looking down while saying it. The judgment ranges from half-fond indulgence to open class contempt, and the exam lives in that spread.
@@ -5426,6 +5870,7 @@ All of these describe a failure of smoothness that makes onlookers wince rather 
 > **On the exam:** The trap is the speaker's stance, not the definition: sentences signal a snobbish narrator (gauche, boorish), a fond one (gawky), or a tactful one (infelicity) — and note that gaffe and infelicity are nouns naming one event, so any blank taking an adjective for a person eliminates them instantly.
 
 
+<a id="connotation__coaxing-that-means-manipulation"></a>
 ### Coaxing That Shades Into Manipulation
 
 All of these get a person to do, give, or believe something without force and without honest argument — the lever is charm, flattery, or a hidden angle. The target consents; that's the whole point. What separates them is *how much deception is in the mix*, *who the word blames* (the operator or the victim), and *how much dignity the operator has while doing it*. Two are near-innocent, two are frankly sly, one names the fool, and one names the trick itself.
@@ -5440,6 +5885,7 @@ All of these get a person to do, give, or believe something without force and wi
 > **On the exam:** The GRE splits this group on register and blame — cajole/wheedle/dupe are neutral-register, inveigle formal, beguile literary — and tests the prepositions: wheedle something *out of*, inveigle someone *into* or one's way *into*.
 
 
+<a id="connotation__complaint-as-a-temperament"></a>
 ### Complaint as a Temperament
 
 All of these describe someone whose default setting is dissatisfaction — the grievance is a standing habit, not a reaction to one genuine outrage. Every one of them belittles the complainer rather than validating the complaint: the implied verdict is that the trouble is small and the reaction is disproportionate. They split on *how* the discontent comes out — the sound of it, the childishness of it, the nitpicking of it, the squabbling of it — and on whether it targets a person, a piece of work, or nobody at all.
@@ -5454,6 +5900,7 @@ All of these describe someone whose default setting is dissatisfaction — the g
 > **On the exam:** The GRE clusters three of these as near-synonyms and forces you to pick by target: **captious** needs something to find fault *with* (a text, an argument), **petulant** needs the offence to be beneath an adult, **querulous** needs an audible whine — swap them and the sentence breaks.
 
 
+<a id="connotation__composure-that-earns-credit"></a>
 ### Composure that earns credit
 
 All of these describe not cracking when the situation gives you every reason to crack — and all of them pay the person a compliment for it. Each implies a pressure in the background: bad news, an insult, an audience, a crisis. What separates them is *which part* is being praised — the visible bearing, the difficulty of the feat pulled off, the evenness of the reaction, the silence about the pain, or the permanence of the temperament. One of them isn't about demeanour at all, but about the forecast you're holding.
@@ -5468,6 +5915,7 @@ All of these describe not cracking when the situation gives you every reason to 
 > **On the exam:** **Sanguine** is the trap: planted among composure words but testing optimism about an *outcome*, so its sentence cues it with "despite the losses / even as the deficit widened" rather than with any description of how someone behaved.
 
 
+<a id="connotation__consequences-assumed-unwelcome"></a>
 ### Consequences assumed unwelcome
 
 Every word here names an effect or an increase — things that in the abstract could go either way — but each has absorbed a negative default from the company it keeps. Nobody traces the happy strands, nobody warns of the delightful delayed echo, nobody intensifies a good situation with these verbs. The dictionary sense stays neutral; usage has made the bad reading automatic, so the word itself does the editorializing while pretending to be descriptive. The differences lie in *how* the badness arrives: sideways in branches, later at a distance, deeper into an existing wound, up a ladder of stages, or piled on by a second act.
@@ -5481,6 +5929,7 @@ Every word here names an effect or an increase — things that in the abstract c
 > **On the exam:** The trap is a blank where a neutral word (increase, effect, result) fits the logic perfectly — the answer is whichever of these the sentence has pre-loaded: an existing affliction → exacerbate, a second act by the same agent → compound, a first rung → escalate, delay and distance → repercussion, unmapped breadth → ramification.
 
 
+<a id="connotation__service-that-reads-as-grovelling"></a>
 ### Deference That Has Gone Past Dignity
 
 All of these describe behaviour aimed *upward* — at someone with power over you — that has crossed the line where self-respect used to be. The contempt lives in the observer, not the actor: these are verdicts passed by a third party watching, and almost nobody applies them to themselves. What separates them is which part of the abasement is on display — the flattering manner, the surrendered judgment, the hovering praise, the self-humiliating apology, or the kneeling request.
@@ -5494,6 +5943,7 @@ All of these describe behaviour aimed *upward* — at someone with power over yo
 > **On the exam:** The exam banks on you flattening all five into "humble" — but only **supplicate** can be neutral or admirable, and Sentence Equivalence pairs usually split on flattery (obsequious/fawning) vs. obedience (subservient) vs. self-abasement (grovel), with *deferential* and *compliant* offered as near-misses that lack the contempt.
 
 
+<a id="connotation__devotion-that-stops-questioning"></a>
 ### Devotion that stops questioning
 
 All of these come out of the religious cupboard and get used on secular targets: a founder, an economist, a party, a regime. Each marks the point where loyalty has replaced judgement — the devotee no longer weighs the thing, only serves it. And each aims its judgement at the devotee, not the object: the person being worshipped may be fine; the worshipping is what's being reported. Their connotations are set almost entirely by who is speaking, since practically no one applies these labels to themselves.
@@ -5507,6 +5957,7 @@ All of these come out of the religious cupboard and get used on secular targets:
 > **On the exam:** The exam sets these against neutral terms (supporter, advocate, adherent, eager) and scores the contempt in the sentence, not the dictionary — and reliably baits *apologist* toward "one who apologises."
 
 
+<a id="connotation__display-staged-for-an-audience"></a>
 ### Display staged for an audience
 
 Every word here says the same thing about a piece of behaviour: it exists to be seen. There is a performer and there is a crowd, and the gap between what's shown and what's actually there is the whole point. All six are verdicts rather than descriptions — using one is a claim that you can see the machinery. They divide by *what* is being faked: money, cultivation, personality, resolve, courage, or feeling.
@@ -5521,6 +5972,7 @@ Every word here says the same thing about a piece of behaviour: it exists to be 
 > **On the exam:** The trap is treating them as interchangeable synonyms for "showy" — sentence-equivalence answers turn on *what* is being counterfeited (wealth vs. taste vs. nerve vs. feeling) and whether the performer is calculating (**posturing**) or frightened (**bravado**).
 
 
+<a id="connotation__distance-read-as-coldness"></a>
 ### Distance read as coldness
 
 All five describe a gap where warmth was expected, and all five are named by the person on the cold end of it. But the gap has five different sources — a chosen stance, an unreachable interior, a blank one, a clipped mouth, a hardened conscience — and they carry wildly different charges. Two are near-verdicts on character, one is a slur on intelligence, one is a measurement of length, and one barely judges the person at all. The trap is treating them as interchangeable degrees of "cold" when they differ in what the coldness attaches to and who is to blame.
@@ -5534,6 +5986,7 @@ All five describe a gap where warmth was expected, and all five are named by the
 > **On the exam:** The distractors are sorted by what the coldness attaches to — a stance, a possibility, a face, a reply, an act — so check the object in the sentence before the connotation: only one of these can be blamed for someone's pain, and only one can modify a chance.
 
 
+<a id="connotation__dull-in-a-reviewer-s-register"></a>
 ### Dull, in a reviewer's register
 
 Every one of these is a verdict of "boring," delivered in the voice of someone reviewing a book, a speech, or a shift at work. They differ by *which* feature of the dullness gets blamed: sheer weight, slow pace, sleep-inducing effect, worn-down patience, unbearable length, or unvarying sameness. They also differ in how much they reveal about the complainer — some sound like measured criticism, others like a trapped person venting. The GRE cares about that split, because the sentence usually supplies the cause of the dullness and expects you to match it.
@@ -5548,6 +6001,7 @@ Every one of these is a verdict of "boring," delivered in the voice of someone r
 > **On the exam:** Sentence-equivalence pairs these off each other constantly — the clue is the *cause* named in the sentence (a droning sameness → monotonous; a speech that won't end → interminable; heavy self-serious prose → ponderous), so read for the diagnosis, not the insult.
 
 
+<a id="connotation__easily-shaped-and-that-s-the-flaw"></a>
 ### Easily shaped — and who's holding the hammer
 
 All five describe something that offers little resistance to an outside force — a mind, a person, a material, or a problem that yields rather than pushes back. The differences are in *what kind* of yielding: taking a permanent new shape, bending under momentary pressure, going where you steer it, or simply agreeing to a proposal. The other axis is temperature: applied to materials and problems these are neutral or admiring, but applied to a person's convictions most of them quietly transfer the credit to whoever is doing the shaping.
@@ -5561,6 +6015,7 @@ All five describe something that offers little resistance to an outside force �
 > **On the exam:** The GRE's trick is the agent: **malleable/plastic/pliant** yield to a shaper, **tractable** to a driver, **amenable** to a specific proposal — and it hides the coldly technical senses (a *tractable* equation, a tumour *amenable to* surgery) in science passages where the human connotation is a trap.
 
 
+<a id="connotation__empty-where-substance-was-expected"></a>
 ### Empty where substance was expected
 
 All five are verdicts of hollowness: something arrived where substance was owed, and the substance wasn't there. None is a neutral description — each carries a faint sneer, and each implies a standard the thing failed to meet. What separates them is *which* substance went missing: thought, interest, flavour, warmth, or weight. Get that right and the group stops being interchangeable.
@@ -5574,6 +6029,7 @@ All five are verdicts of hollowness: something arrived where substance was owed,
 > **On the exam:** The GRE picks by what's absent: a lukewarm *response* wants **tepid**, a pointless *lawsuit* wants **frivolous**, a blank *stare* wants **vacuous** — choose on the missing quality, not the shared "empty."
 
 
+<a id="connotation__energy-gone-pity-attached"></a>
 ### Energy gone, pity attached
 
 All of these describe a collapse of energy or will that is framed as something happening *to* someone rather than a fault they chose — which is why none of them carry the scolding of *lazy*, *idle*, or *slothful*. The sympathy is built in: heat, illness, neglect, or sheer stagnation drained the subject, and the observer is meant to feel sorry, not annoyed. They split along four axes: part of speech, whether the cause is named, whether the state is bodily or mental, and how much literary self-regard the word carries.
@@ -5588,6 +6044,7 @@ All of these describe a collapse of energy or will that is framed as something h
 > **On the exam:** Two traps: **enervate** looks like *energize* and reverses meaning, and **ennui** is boredom, not tiredness — a rested, healthy aristocrat can be full of it.
 
 
+<a id="connotation__faint-praise-dressed-as-praise"></a>
 ### Faint praise dressed as praise
 
 Every word here is formally positive and functionally deflating: the sentence approves, and the reader hears a ceiling. Each one grants some real virtue — adequacy, correctness, good intent, absence of flaw — while conspicuously declining to grant excellence, and the withholding is the message. They are the register of examiners, reviewers, auditors and referees: people obliged to say something favourable about work that did not impress them. What separates them is *which* compliment is being paid and *which* is being pointedly skipped.
@@ -5601,6 +6058,7 @@ Every word here is formally positive and functionally deflating: the sentence ap
 > **On the exam:** Four of these hide a literal, non-evaluative sense the GRE prefers to test — *passable* road, *competent* jurisdiction, *modest* dress, *sound* the depths — and in Sentence Equivalence they signal the faint-praise sense with a concessive clue ("solid if uninspired," "well-meant but ineffectual") that tells you which compliment is being withheld.
 
 
+<a id="connotation__fake-said-with-contempt"></a>
 ### Fake — and how much contempt comes with it
 
 All of these mark something as not genuine, but they differ mainly in *who is speaking and how much scorn they load in*. At one end sits the language of a seizure notice or a peer review — cool, formal, making a charge. At the other sits the language of someone who has just been taken in and is saying so out loud. They also differ in what they attach to: money and documents, claims and statistics, ceremonies and institutions, or a person's face.
@@ -5615,6 +6073,7 @@ All of these mark something as not genuine, but they differ mainly in *who is sp
 > **On the exam:** The GRE splits these by register and by whether a deceiver exists: a scientific or judicial sentence takes *spurious* (no liar required) while a scoffing one takes *bogus*/*phony*, and "spurious correlation" is the classic trap for students who read *spurious* as "someone lied."
 
 
+<a id="connotation__feeling-laid-on-too-thick"></a>
 ### Feeling Laid On Too Thick
 
 Every one of these says the same structural thing: the feeling on display is larger than the occasion earns. The criticism is never that emotion is present — it's that it has been poured on past the point where an audience can absorb it, so the display stops persuading and starts embarrassing. What separates them is *which* feeling is overdone (sweetness, tenderness, grief, enthusiasm), whether the excess attaches to a person, a made thing, or a manner of delivery, and how much contempt the speaker is signing their name to.
@@ -5628,6 +6087,7 @@ Every one of these says the same structural thing: the feeling on display is lar
 > **On the exam:** The GRE hides the answer in the *flavor* of the excess, not the excess itself — a clue about sugar points to cloying, about funerals to lugubrious, about gushing praise to rhapsodize; pick on emotion type and these stop being interchangeable.
 
 
+<a id="connotation__fitting-exactly-and-praised-for-it"></a>
 ### Fitting exactly — but praised for what?
 
 All five bless something as fitting the matter at hand, and all five are formal enough that the everyday *relevant* would do the flat work instead. What separates them is what each one is actually praising: bare connection to the question, the authority to say the connection matters, the accuracy of a chosen illustration, the timing of a remark, or the pleasure the wording gives. They also differ in who speaks them — a parliamentarian, a judge, a literary critic, a dinner guest, a reviewer — and in what they can attach to, from a document to a metaphor to an outcome.
@@ -5641,6 +6101,7 @@ All five bless something as fitting the matter at hand, and all five are formal 
 > **On the exam:** The exam splits them on praise: a sentence that only establishes a logical connection supports germane/pertinent, while one signaling delight or well-chosen wording demands felicitous/apposite — and the wrong-half choice always looks defensible.
 
 
+<a id="connotation__giving-from-a-height"></a>
 ### Giving from a height
 
 All four describe kindness that travels downhill — from someone with money, power, or standing to someone without. The height is the shared ingredient, and it's what makes each word slightly uncomfortable even when nothing cruel is meant: the giver could stop, and both parties know it. They split on what actually crosses the gap (cash, protection, manner, or merely goodwill) and on who ends up looking bad — the one above or the one below.
@@ -5653,6 +6114,7 @@ All four describe kindness that travels downhill — from someone with money, po
 > **On the exam:** The GRE leans on **patronize** sense 2 (\"patronized the shop for years\") and on **benevolent** meaning intent rather than action — pick the wrong sense and the sentence's tone flips.
 
 
+<a id="connotation__giving-in-the-word-blames-you"></a>
 ### Giving in — the word blames you
 
 All five describe abandoning a position under pressure from someone or something else. What separates them is not how much ground you gave up but what the word says about you for giving it: whether there was a fight first, whether you spoke up, whether the yielding is charged as weakness or credited as mercy. The GRE treats them as a blame gradient, from the ones that convict the surrenderer to the ones that let a bend look graceful. Read the surrounding sentence for the backstory it supplies — that backstory is what picks the word.
@@ -5666,6 +6128,7 @@ All five describe abandoning a position under pressure from someone or something
 > **On the exam:** The sentence supplies a backstory clue — "after months of resistance," "though privately opposed," "she had refused for years" — and the trap answer is the giving-in word whose implied backstory the sentence never set up.
 
 
+<a id="connotation__giving-praised-without-reserve"></a>
 ### Giving, praised without reserve
 
 All five are formal praise for someone who does good by others, and all five carry a faint whiff of the giver's superiority — they are words for the party who *has* something to give. What separates them is which part of the giving gets praised: the wish, the deed, the sum, the grudge forgone, or the motive behind it all. Because they are all approving and all Latinate, the exam can swap one for another and the sentence still *sounds* right; only the specific object of praise rules four of them out.
@@ -5679,6 +6142,7 @@ All five are formal praise for someone who does good by others, and all five car
 > **On the exam:** The favourite trap is **benevolent** vs. **beneficent** (wish vs. deed); the second is offering **munificent** or **altruistic** where the sentence supplies a defeated rival or a forgiven wrong — that context belongs only to **magnanimous**.
 
 
+<a id="connotation__good-cheer-that-fills-a-room"></a>
 ### Good cheer, and what it attaches to
 
 All five praise high spirits that other people can see — cheerfulness expressed outward rather than felt privately. They split on three questions: how loud the cheer is, what it's a response to, and what kind of noun it properly modifies (a temperament, a person in company, a mood under pressure, or the occasion itself). Every one is a compliment, but the compliments are about different things — volume, charm, resilience, atmosphere, hospitality. Choosing wrongly rarely makes a sentence false; it makes it faintly off.
@@ -5692,6 +6156,7 @@ All five praise high spirits that other people can see — cheerfulness expresse
 > **On the exam:** The exam rarely tests the shared "cheerful" core — it plants the noun (a market, an evening, a rebounding mood, a hostess) and expects you to pick the adjective that noun actually takes.
 
 
+<a id="connotation__good-for-you-said-approvingly"></a>
 ### Good For You — Six Kinds of Favourable
 
 All six are formal, positive words for *something turned out well* or *conditions are good* — and the GRE knows that reading them all as "approving" gets you nowhere. The real divisions are three: **what kind of good** (health, effect, luck), **what it attaches to** (a place, a remedy, a moment, an omen, a timing), and **whether the event has happened yet**. Three of them judge a result; three judge a setup. Get the timeline wrong and the sentence collapses even though the connotation fits.
@@ -5706,6 +6171,7 @@ All six are formal, positive words for *something turned out well* or *condition
 > **On the exam:** Every option in this group is positive and formal, so connotation-elimination fails by design — sort instead by tense (propitious/auspicious look forward, providential/salutary/efficacious look back) and by collocate (a *place* is salubrious, a *drug* efficacious, a *lesson* salutary).
 
 
+<a id="connotation__harm-named-morally"></a>
 ### Harm Named Morally
 
 These are all condemnations, not reports. Each one says damage is being done *and* that the speaker disapproves — the fact and the verdict arrive in the same word. What separates them is where the condemnation lands: on the mechanism of the harm (how quietly it works, how fast it spreads, how physically toxic it is), on the will behind it, or on how cheap and disqualifying the motive was. Three run on a poison metaphor, one judges intention with no deed required, and two judge character — one with contempt, one with a gavel.
@@ -5720,6 +6186,7 @@ These are all condemnations, not reports. Each one says damage is being done *an
 > **On the exam:** The classic trap is effect-vs-intent: **pernicious** damns the working of a thing regardless of who meant what, **malevolent** damns the wish regardless of whether anything happened — and the GRE will offer both for a sentence that only supports one. Note too that **turpitude** is the lone noun, so it fills a different slot entirely.
 
 
+<a id="connotation__harm-named-clinically"></a>
 ### Harm Stated Clinically
 
 All of these name damage without any heat behind it — harm as a finding, not a complaint. They belong to the register of medical inserts, audit reports, court rulings and policy papers, where the damage is usually gradual, measurable, and reported by an observer rather than felt by a victim. Because the emotional temperature is identical across all five, the GRE separates them on three other axes: what kind of thing is harmed, whether the word needs a *to*-complement, and whether the harm is destruction, disadvantage, opposition, or degradation.
@@ -5733,6 +6200,7 @@ All of these name damage without any heat behind it — harm as a finding, not a
 > **On the exam:** Watch the syntax slot: a blank followed by *to* rules out bare-standing **deleterious** and **adverse** and forces **detrimental**/**inimical**, while a blank taking a direct object (*___ his judgment*) can only be **impair** — and *adverse* is routinely swapped with the unrelated *averse* (unwilling).
 
 
+<a id="connotation__holding-money-too-tight"></a>
 ### Holding money too tight
 
 All four describe giving out less than could or should be given — money first, but also praise, detail, effort, sympathy. None of them is thrift you admire: *frugal* and *thrifty* are compliments, and these words all sit on the far side of that line, where carefulness has curdled into withholding. What separates them is not degree of tightness but what the accusation says: whether the person is greedy, broke, coldly calculating, or simply short-changing you right now.
@@ -5745,6 +6213,7 @@ All four describe giving out less than could or should be given — money first,
 > **On the exam:** Two traps: **parsimonious** turns complimentary the moment it modifies a theory or model, and **penurious** may be testing plain poverty, not stinginess — check what the sentence says the person *has* before assuming meanness.
 
 
+<a id="connotation__honesty-as-a-compliment"></a>
 ### Honesty as a Compliment
 
 Every word here is praise for someone who won't lie, fudge, or spin — but they don't praise the same thing. Some describe an act of speech (what a person said, and how plainly), some describe a standing quality of character (what a person is, tested against temptation or an audit), and one describes a structural fact (what a person stands to gain, i.e. nothing). Because they all read as approval, the exam swaps them freely and lets you assume any of them fits a "good, truthful person" blank. They don't: each attaches to a different object — a statement, an office, a position, a sentence about to be spoken.
@@ -5759,6 +6228,7 @@ Every word here is praise for someone who won't lie, fudge, or spin — but they
 > **On the exam:** The signature trap is **disinterested** ≠ uninterested — the exam sets up a sentence about a bored juror or an indifferent audience and dangles it; and in the reverse direction it offers character words (probity, scrupulous) where the sentence actually needs the no-stake meaning. Second trap: **veracity** for people when the blank is a claim's truth, and **probity** in casual contexts where only its formal, money-and-office register fits.
 
 
+<a id="connotation__idleness-blamed"></a>
 ### Idleness Blamed: Seven Different Accusations
 
 Every one of these says work is not getting done properly, and every one blames somebody for it — none is a neutral report. What separates them is *which* failure is being charged: the person's underlying temperament, their lifelong incapacity, a duty ducked, time deliberately wasted, a slow pace, a shoddy result, or scattered half-hearted attention. They also differ sharply in heat — some are affectionate nudges, some are formal complaints on the record, and one writes off a whole character. Match the accusation to the axis the sentence is actually about.
@@ -5774,6 +6244,7 @@ Every one of these says work is not getting done properly, and every one blames 
 > **On the exam:** The GRE picks the axis in the sentence and hides it in one clause — "in order to postpone the vote" forces *dilatory* over *indolent*, "flitting between chapters" forces *desultory*, "left his colleagues to finish it" forces *shirk*; the trap answers are the ones that merely sound lazy.
 
 
+<a id="connotation__inexperience-mocked"></a>
 ### Inexperience mocked
 
 All five fault someone for being unfinished — not stupid, just untested, unguarded, or unwilling to put in the years. The deficiency is exposure and seriousness, not intelligence, which is why every one of them can be said with a smile or a sneer depending on the speaker's altitude. What separates them is *what* is being blamed: an expectation about the world, an outcome (you got conned), a birthday, a piece of behaviour, or a level of commitment. Get the object of blame wrong and you pick the wrong word.
@@ -5787,6 +6258,7 @@ All five fault someone for being unfinished — not stupid, just untested, ungua
 > **On the exam:** The GRE offers two words that both fit "immature" and decides the answer on the object of blame — check whether the sentence faults a belief (naive/gullible), an age (callow), a public act (puerile), or a work ethic (dilettante).
 
 
+<a id="connotation__language-swollen-with-nothing"></a>
 ### Language swollen with nothing
 
 All of these attack the packaging rather than the goods: language that has been inflated, decorated, or stretched past what the thought inside it can support. Every one is an insult, and every one is aimed at style — the argument may be fine, or absent; that isn't the charge. What separates them is *which* kind of excess is being named: sheer volume, sheer length, ornament, dead weight, or the self-importance of the person producing it.
@@ -5800,6 +6272,7 @@ All of these attack the packaging rather than the goods: language that has been 
 > **On the exam:** Each word owns a different axis of excess — length, loudness, ornament, weight — so the sentence's own clue ("though his reasoning was sound", "four pages to say no", "flushed from the wine") decides which fits; and remember turgid and florid also have literal physical senses that surface in non-style sentences.
 
 
+<a id="connotation__learning-as-praise"></a>
 ### Learning as Praise: What Exactly Is Being Complimented
 
 Every word here is a compliment paid for knowing things, and all of them are formal enough to sound like a citation or an obituary. What separates them is *which* part of knowing gets the credit: where it came from, how far it spreads, how much of it can be recalled, how finely it discriminates, or whether it produces good decisions at all. Two of them praise stored knowledge, one praises trained taste, and one praises judgment that may rest on no book learning whatsoever. The GRE lives in that gap.
@@ -5813,6 +6286,7 @@ Every word here is a compliment paid for knowing things, and all of them are for
 > **On the exam:** The trap is treating them as interchangeable praise: a sentence that specifies breadth (**polymath**), recall (**encyclopedic**), book-depth (**erudite**), fine judgment of quality (**connoisseur**), or foresight (**sagacious**) will make three of the other four positively wrong.
 
 
+<a id="connotation__looking-down-from-above"></a>
 ### Looking Down From Above
 
 Every word here assumes a height gap: someone has placed themselves above the target and is acting on that assumption. What separates them is temperature (cold silence vs. curled lip), volume (a raised eyebrow vs. a public laugh), and what gets attacked (the person, their achievement, or nothing in particular — just a manner worn in the room). They also split grammatically: some name a feeling, some an act done to a victim, one names only a bearing.
@@ -5827,6 +6301,7 @@ Every word here assumes a height gap: someone has placed themselves above the ta
 > **On the exam:** The classic trap is **patronize** in its innocent sense ("patronized the same tailor for years") — pick the contempt reading only if the sentence supplies a person being talked down to; and remember **haughty** describes the person's manner while the rest describe an act aimed at a target.
 
 
+<a id="connotation__narrow-horizons"></a>
 ### Narrow horizons
 
 Every one of these is a charge someone levels at a person, institution, or country for operating inside a frame that is too small — and for not noticing. They split along two axes. The first is **what the boundary is drawn around**: a parish, a province, an island, a fiscal quarter, a tribe. The second is **whether anything hostile lives past the boundary**: some of these words say only that the outside world was never in view; others say the outside world is in view and is despised. Confusing the two halves is the whole trap.
@@ -5841,6 +6316,7 @@ Every one of these is a charge someone levels at a person, institution, or count
 > **On the exam:** The GRE offers a hostility word (chauvinistic, xenophobic) where the sentence only supports a limited horizon, and slips in myopic when the missing dimension is time rather than place — check what the blank is narrow *about* before you pick.
 
 
+<a id="connotation__nerve-failing"></a>
 ### Nerve Failing
 
 All of these describe a failure of nerve — someone who should act, commit, or hold firm, and doesn't. But the failure has different sources: fear of danger, fear of one's own inadequacy, or simple inability to settle on a course. They also differ in what the speaker is doing by using them: some deliver a moral verdict, some sketch a temperament, and one is merely condescending. The GRE cares less about the shared "won't act" and more about *why* the person won't and *how harshly* the sentence judges them.
@@ -5855,6 +6331,7 @@ All of these describe a failure of nerve — someone who should act, commit, or 
 > **On the exam:** The trap is sentence-completion context: the blank's *cause* decides the answer — a threat outside you takes timorous/skittish, a low opinion of yourself takes diffident, an unmade decision takes irresolute/vacillate, and a betrayed obligation takes craven.
 
 
+<a id="connotation__obscurity-blamed-on-the-writer"></a>
 ### Obscurity Blamed on the Writer
 
 All six say the same thing: I could not follow this, and that is your fault. None is neutral — each carries an implied accusation that the difficulty was avoidable, that a clearer version existed and wasn't written. What separates them is *what the difficulty is made of* — depth, murk, knots, detours, institutional sprawl — and *how much intent* the speaker is willing to allege, from mild suspicion up to flat charge of bad faith.
@@ -5869,6 +6346,7 @@ All six say the same thing: I could not follow this, and that is your fault. Non
 > **On the exam:** Every word here is negative, so tone gets you nowhere — the answer turns on what the obscurity is made of (depth / murk / knots / detours / institutions) and whether the sentence blames a person, which only **obfuscate** does outright; also watch the **tortuous**/*torturous* swap, which is about twisting, not pain.
 
 
+<a id="connotation__off-the-norm-condemned"></a>
 ### Off the norm — and who's judging
 
 Every word here marks something as departing from what was expected. The differences aren't in *how far* it departs but in **which norm got broken and who is doing the noticing**: a clinical standard, a moral path, the bounds of plausibility, a written procedure, or simply the surrounding context. Each word also comes with a built-in speaker — a diagnostician, a disappointed guardian, an amused bystander, an auditor, an observer of a scene. Getting the group right means asking what the reference point is, not how strange the thing is.
@@ -5882,6 +6360,7 @@ Every word here marks something as departing from what was expected. The differe
 > **On the exam:** The trap is treating all five as generic \"strange\": scan the sentence for the reference point — a stated procedure or number pulls **deviate**, a setting to clash with pulls **incongruous**, a person who strayed pulls **wayward**, and an exaggerated claim pulls **outlandish**.
 
 
+<a id="connotation__off-the-norm-indulged"></a>
 ### Off the Norm, Indulged
 
 All four describe departure from the conventional that the speaker declines to condemn. The oddity is registered, then tolerated, enjoyed, or admired — nobody is being warned away. What separates them is *what* is odd (a trait, a whole life, a method, a motive), how big it is, how formal the speaker is being, and how much affection is riding along. Their harsher cousins — *bizarre*, *aberrant*, *capricious*, *erratic* — cover the same deviation with the goodwill removed.
@@ -5894,6 +6373,7 @@ All four describe departure from the conventional that the speaker declines to c
 > **On the exam:** The trap is assuming all four are safely positive: GRE contexts about power, rules, or decisions want **whimsical** as a criticism, and sentences about a *method* want the neutral **idiosyncratic**, not the affectionate **quirky**.
 
 
+<a id="connotation__old-enough-to-be-discredited"></a>
 ### Old enough to be discredited
 
 All five describe something the world has moved past — old in a way that isn't merely old, but *wrong now*. The differences are in what the pastness attaches to and how much contempt rides along: whether a successor exists, whether the thing still functions, whether it's out of use or merely out of place, and whether the fault lies with the object or with the people defending it. Some are clinical labels a scientist could use; others are insults dressed as description.
@@ -5907,6 +6387,7 @@ All five describe something the world has moved past — old in a way that isn't
 > **On the exam:** The trap is treating them as interchangeable synonyms for "old": watch whether the sentence supplies a replacement (obsolete), a still-present but useless remnant (vestigial), a time mismatch (anachronistic), or human resistance to change (hidebound).
 
 
+<a id="connotation__signs-of-what-s-coming-always-bad"></a>
 ### Omens and Impendings: the sign, not the event
 
 These all live in the gap between a warning and the harm — the moment when nothing has happened yet but something is clearly on its way. English usage has darkened nearly all of them, so that pointing any of them at good news reads as a joke even when the dictionary permits it. What separates them is grammar and grip: which are verbs for the sign, which is the adjective, which is the noun for the sign-bearer, and which is not about signs at all but about how soon the thing lands.
@@ -5921,6 +6402,7 @@ These all live in the gap between a warning and the harm — the moment when not
 > **On the exam:** The exam's favourite trap is the sentence that supplies a *positive* outcome — the blank still takes **portend** or **harbinger** (both technically neutral) but never **forebode**; the second trap swaps a signalling verb for **imminent**, which describes the event's nearness, not any warning of it.
 
 
+<a id="connotation__ordinary-delivered-as-a-verdict"></a>
 ### Ordinary, delivered as a verdict
 
 All five say *not interesting* — but they differ almost entirely in how much contempt the speaker is smuggling in, and in what they blame the dullness on. One end simply locates a thing among the chores and passes no judgement; the other end is a sneer at something that had every chance to be interesting and wasn't. In between, the fault shifts: sameness over time, absence of poetry, absence of lift, absence of originality. The exam cares less about the shared "boring" and more about who is speaking and how hard they are hitting.
@@ -5934,6 +6416,7 @@ All five say *not interesting* — but they differ almost entirely in how much c
 > **On the exam:** Sentence equivalence traps you here: the blank's tone word ("merely," "damning," "affectionately") decides between neutral *mundane* and contemptuous *banal* — pick by heat, not by the shared meaning.
 
 
+<a id="connotation__emotion-running-out-of-control"></a>
 ### Out of Control — But Which Part?
 
 All five describe something whose energy has outrun its brakes, and all five can be said with either disapproval or a grudging thrill. The trap is that they locate the loss of control in different places: in a person's judgement, in the tempo of activity, in the weather of a relationship, in the risk of a future eruption, or in one headlong decision. They also differ in tense — some report chaos already visible, one only forecasts it.
@@ -5947,6 +6430,7 @@ All five describe something whose energy has outrun its brakes, and all five can
 > **On the exam:** The GRE loves the mismatch of target: a blank about pace or activity wants **frenetic** even when the sentence sounds emotional, and a blank about a calm-but-dangerous situation wants **volatile** precisely because no chaos is visible yet.
 
 
+<a id="connotation__overstepping-your-standing"></a>
 ### Overstepping your standing
 
 All of these accuse someone of behaving as if they had a standing they were never given — speaking, asking, helping, or acting from a position above their actual place. The offence is never the content alone; it is the breach of a boundary everyone present understood. Because that boundary is usually a hierarchy, the words tell you as much about the speaker (who expected deference) as about the offender. They differ in what form the overreach takes — an act, a question, a tone, a favour nobody asked for — and in how much shamelessness is being alleged.
@@ -5961,6 +6445,7 @@ All of these accuse someone of behaving as if they had a standing they were neve
 > **On the exam:** The distractors differ by direction and form, not degree: officious pushes help downward, insolent and impudent push attitude upward, presumptuous needs no rudeness at all — and impertinent's sleeper sense "irrelevant" is the classic trap in a legal or formal sentence.
 
 
+<a id="connotation__praise-loud-enough-to-stop-judging"></a>
 ### Praise loud enough to stop judging
 
 All six describe praise pitched loud enough that assessment stops happening — the volume, the crowd, or the institution takes over from the judgment. What separates them is who is doing the praising (one speaker at a podium, a whole field, a church, a salesman), how permanent the verdict is meant to be, and whether the writer using the word believes it. Several are set-ups: the author reaches for them precisely to signal that the enthusiasm outran the evidence.
@@ -5975,6 +6460,7 @@ All six describe praise pitched loud enough that assessment stops happening — 
 > **On the exam:** Sentence equivalence loves the sneer: a blank framed by *though*, *merely*, or a deflating second clause wants **lionize**, **deify**, or **touted** — not the neutral **acclaim**.
 
 
+<a id="connotation__refusal-to-bend-admired"></a>
 ### Refusal to bend, admired
 
 All of these describe someone who will not move, quit, or defect — and all of them treat that as a virtue rather than a fault. The behaviour is identical to stubbornness; only the speaker's approval differs. What separates them is *what* is being praised: the grinding effort, the settled decision, the loyalty under pressure, the sheer unspent stamina, or the years already served.
@@ -5989,6 +6475,7 @@ All of these describe someone who will not move, quit, or defect — and all of 
 > **On the exam:** The GRE tests the *attitude*, not the behaviour: the same immovability is obstinate, obdurate, intransigent, or pertinacious when the sentence disapproves — let the surrounding praise or blame, not the action described, pick the answer.
 
 
+<a id="connotation__refusal-to-bend-condemned"></a>
 ### Refusal to bend, condemned
 
 All of these describe someone who will not yield — will not change position, take advice, or be moved by pressure. What unites them is not the immovability but the **verdict**: each one is the disapproving name for a firmness that admiring words (*resolute*, *steadfast*, *tenacious*, *determined*) would praise. They split on what exactly is being resisted — an argument, a plea for mercy, an offer of terms, a hand on the wheel — and on who is doing the complaining.
@@ -6003,6 +6490,7 @@ All of these describe someone who will not yield — will not change position, t
 > **On the exam:** The GRE's favourite move is the neutral-vs-condemning swap: the passage supplies approval (*resolute*, *tenacious*), so the answer is the praising twin, not **obstinate** or **pertinacious** — read the surrounding attitude, not the behaviour.
 
 
+<a id="connotation__thrift-counted-as-virtue"></a>
 ### Restraint Counted as Virtue
 
 All four turn holding back into a compliment. Where *stingy*, *miserly*, and *parsimonious* treat not-spending as a character flaw, these treat it as evidence of skill or judgment: the person or performance used less and got it right. The shared claim is that the restraint was chosen and controlled, not forced by fear or greed. They split on **what** is being restrained — resources, money, risk, or amount — and on whether the praise lands on a thing or on a person.
@@ -6015,6 +6503,7 @@ All four turn holding back into a compliment. Where *stingy*, *miserly*, and *pa
 > **On the exam:** The trap is sentiment: a sentence praising restraint invites *parsimonious*, *frugal*, or *miserly* as distractors — check whether the blank is being credited or blamed, then whether it modifies a person (canny, prudent, judicious) or a thing's design (economy).
 
 
+<a id="connotation__few-words-as-cool-credit"></a>
 ### Saying Less on Purpose
 
 All five treat smallness — of word count, volume, or effort — as evidence of control rather than of poverty. The shared claim is that the speaker or maker *could* have given you more and withheld it, so what's left is doing extra work. That's what makes them praise where *terse*, *curt*, and *sparse* are complaints. They split on what's being measured (words, emphasis, waste, time), whether the praise lands on the person or the product, and how much warmth comes with it.
@@ -6028,6 +6517,7 @@ All five treat smallness — of word count, volume, or effort — as evidence of
 > **On the exam:** The trap is treating them as interchangeable praise: **understated** flips to an accusation when attached to a number, **brevity** turns elegiac when attached to time, and **laconic** is the only one that can read as cold.
 
 
+<a id="connotation__scolding-at-full-volume"></a>
 ### Scolding at full volume
 
 All six describe telling someone off harshly and at length — not a disagreement but a punishment delivered in words. They differ along three axes: **who's watching** (a closed door, a courtroom, a front page), **what the speaker's standing is** (an angry peer vs. an authority pronouncing a verdict), and **whether the attacker comes off well**. Some make the critic sound righteous; others quietly convict the critic of losing control. One of them isn't criticism at all — it's a speech.
@@ -6042,6 +6532,7 @@ All six describe telling someone off harshly and at length — not a disagreemen
 > **On the exam:** The GRE separates these by audience and authority, not by loudness: a sentence with "in private," "for his lateness," "the tribunal found," or "the crowd could not leave" is telling you which one fits — and the wrong answer is usually the right intensity in the wrong setting.
 
 
+<a id="connotation__secrecy-that-implies-guilt"></a>
 ### Secrecy that implies guilt
 
 All five describe something kept out of sight where the concealment is itself the accusation — the thing is hidden because daylight would end it. What separates them is *what* is hidden: a person's manner, a single act, a standing operation, a reason, or the damage being done. Two of them don't require a sneaking person at all.
@@ -6055,6 +6546,7 @@ All five describe something kept out of sight where the concealment is itself th
 > **On the exam:** The trap is reading all five as "sneaky"; check what the sentence puts under cover — a face (furtive), an act (surreptitious), an organisation (clandestine), a reason (ulterior), or the damage (insidious) — and note that the last two need no sneaking agent at all.
 
 
+<a id="connotation__sharpness-of-mind-admired"></a>
 ### Sharp judgment, as a compliment
 
 All of these praise a fast, accurate read of a real situation — a person, a deal, a motive — rather than raw brainpower or book learning. Every one is positive, so the test isn't good-versus-bad but *what the sharpness is aimed at* and *how much self-interest shows*. They split along three lines: how cold the compliment is (visible angle-working versus none), what the judgment targets (money, timing, the future, another person's mind), and register (marketplace-neutral versus formal and flattering).
@@ -6069,6 +6561,7 @@ All of these praise a fast, accurate read of a real situation — a person, a de
 > **On the exam:** Register and target do the work: money or bargaining → *canny/shrewd*, timing an advantage → *astute*, a judgment proven right years later → *sagacious*, seeing through a person's motives → *perspicacious*; and since **acumen** is the lone noun, grammar alone often eliminates or selects it.
 
 
+<a id="connotation__skill-that-looks-effortless"></a>
 ### Skill that looks effortless
 
 All of these praise competence that shows no strain — the thing gets done quickly, cleanly, and without visible effort. They differ along three axes: **what the skill attaches to** (fingers, a single move, a whole domain, a social crisis), **whether depth or speed is being praised**, and **whether the ease is purely admirable or slightly suspicious**. Note also that one member is a noun, not an adjective. Reordered here from most physical to most abstract.
@@ -6083,6 +6576,7 @@ All of these praise competence that shows no strain — the thing gets done quic
 > **On the exam:** The GRE picks the winner by what the skill attaches to — hands (*dexterous*), one clean move (*deft*), a hostile interlocutor (*adroit*), a whole discipline (*adept*) — and baits you with *adroit*/*facility* in sentences whose tone is faintly disapproving.
 
 
+<a id="connotation__small-enough-to-dismiss"></a>
 ### Small enough to dismiss
 
 Every word here calls something small — and then uses that smallness to settle a question. The size claim is never neutral reporting; it's an argument that the thing needn't be respected, needn't be debated, needn't be punished, or needn't be believed. They diverge on *who takes the hit*: the person who offered too little, the thing itself, the offender being let off, or the actor staging a gesture that only resembles the real thing.
@@ -6097,6 +6591,7 @@ Every word here calls something small — and then uses that smallness to settle
 > **On the exam:** The clue is never the size — it's who the sentence blames: a stingy giver takes **paltry**, a dismissive speaker **trifling** or **trivial**, a forgiven offender **peccadillo**, a hollow office or formality fee **nominal**, and bad-faith show of compliance **token**.
 
 
+<a id="connotation__spending-condemned"></a>
 ### Spending condemned
 
 All of these say that too much went out the door and the speaker disapproves. The split that matters is what the disapproval lands on: some blame the *person* — their character, their habit, the ruin they are walking into — while others blame the *amount*, saying it overshot the occasion or the going rate. A second split is what gets lost: money only, or money plus anything else valuable that cannot be recovered. Register runs from a raised eyebrow to a moral indictment.
@@ -6111,6 +6606,7 @@ All of these say that too much went out the door and the speaker disapproves. Th
 > **On the exam:** The GRE separates blame-the-spender (profligate, prodigal, spendthrift, squander) from blame-the-amount (extravagant, exorbitant), and springs two traps: **prodigal** never means "returning," and **extravagant** is as often about claims as about cash.
 
 
+<a id="connotation__spreading-and-it-s-always-the-bad-thing"></a>
 ### Spreading — and it's always the bad thing
 
 All six describe something getting bigger, deeper, or further in than it should, and in every case the word itself supplies the disapproval — the writer has already ruled on whether this is welcome. What separates them is which axis the complaint runs along: absence of restraint, mechanism of multiplication, decay from neglect, return after dormancy, movement across a boundary, or foreign occupation of territory. Two of them (the biological/medical ones) keep a genuinely neutral technical use; the rest cannot be salvaged into praise.
@@ -6125,6 +6621,7 @@ All six describe something getting bigger, deeper, or further in than it should,
 > **On the exam:** The trap is treating them as interchangeable intensifiers of "spreading" — pick by axis (no brake / self-copying / neglect / recurrence / boundary crossed / foreign occupation), and remember that *proliferate* and *invasive* can be clinically neutral while the rest are always a complaint.
 
 
+<a id="connotation__stale-from-repetition"></a>
 ### Stale from repetition
 
 Every word here is a verdict of unoriginality, and each one is negative — the speaker is not reporting a fact but registering fatigue or disdain. They cluster because the usual complaint is the same: this has been said or done before, and nothing was added. What separates them is *why* it's dead — worn smooth by repetition, drained of all interest, borrowed wholesale from a source, or dressed up as wisdom or comfort so no one has to think.
@@ -6138,6 +6635,7 @@ Every word here is a verdict of unoriginality, and each one is negative — the 
 > **On the exam:** The trap is treating them as interchangeable synonyms for "unoriginal": watch whether the sentence stresses *repetition* (hackneyed), *dullness* (banal), *borrowed source* (derivative), *false profundity* (platitude), or *false comfort* (bromide) — and note that two are nouns, which kills half the options on grammar alone.
 
 
+<a id="connotation__surplus-counted-as-fault"></a>
 ### Surplus counted as fault
 
 Every word here says *there is more of this than there should be* — and treats that surplus as a flaw, not a bonus. What separates them is the **reason** the excess counts against you: sheer quantity, duplication, irrelevance, lack of any justification, or volume so large it sickens. All five lean formal and carry a judgment about whoever let the excess happen. English has plenty of neutral or approving words for "more" (*surplus*, *abundance*, *ample*); none of these is one.
@@ -6151,6 +6649,7 @@ Every word here says *there is more of this than there should be* — and treats
 > **On the exam:** The GRE builds sentences where two or three fit the blank grammatically and only the *cause* of the excess decides it — check whether the surplus repeats (redundant), strays off-topic (extraneous), was unprovoked (gratuitous), or simply piled too high (superfluous, surfeit).
 
 
+<a id="connotation__talks-a-lot-the-word-does-the-judging"></a>
 ### Talks a lot — the word does the judging
 
 All of these say "too many words," and the fact itself is never in dispute. What separates them is the verdict smuggled into the choice: how harsh the speaker is being, and whether the excess is charming, tedious, aimless, or merely padded. They also split along a second axis — some describe a *person* who won't stop, others describe a *text* that won't end. Pick the wrong one and you accidentally compliment someone, or accuse a memo of being an old man on a porch.
@@ -6166,6 +6665,7 @@ All of these say "too many words," and the fact itself is never in dispute. What
 > **On the exam:** The trap is connotation-matching in Sentence Equivalence: *voluble* and *loquacious* can pair (talkative person, no sting), and *verbose* and *prolix* can pair (padded prose), but crossing the axes — garrulous with verbose, prolix with voluble — is always the wrong pair.
 
 
+<a id="connotation__the-long-angry-speech"></a>
 ### The long angry speech
 
 All of these describe sustained verbal aggression — an attack that goes on well past the point of persuading anyone, and that indicts the speaker as much as the target. Length is doing the work in every one of them: a single cutting line cannot qualify. They differ in what supplies the heat (raw rage, moralising, bitterness toward an idea, scolding for a fault), in whether an audience is trapped listening, and in how bookish the word sounds when you reach for it.
@@ -6179,6 +6679,7 @@ All of these describe sustained verbal aggression — an attack that goes on wel
 > **On the exam:** The trap is grammatical and tonal, not semantic: only **polemical** is an adjective and the only one that can be neutral or approving; only **harangue** is also a verb taking a direct object; only **diatribe** sits comfortably on the printed page.
 
 
+<a id="connotation__toughness-admired"></a>
 ### Toughness admired
 
 All five approve of holding up under force — and the exam counts on you accepting "tough = tough" and stopping there. They differ on three axes: whether the blow actually lands, whether the strength is structural or moral, and whether it's a property of a thing or a record earned by a person over time. One repels the force, one bends and returns, one absorbs it silently for years. Get the axis right and the answer choices separate cleanly.
@@ -6192,6 +6693,7 @@ All five approve of holding up under force — and the exam counts on you accept
 > **On the exam:** Sentence-equivalence traps pair **resilient** with **robust** as if interchangeable: check whether the passage says the damage already landed (resilient) or that the thing held without breaking (robust) — and if the blank is a person praised for years of loyal service, only **stalwart** fits.
 
 
+<a id="connotation__virtue-performed-rather-than-held"></a>
 ### Virtue performed rather than held
 
 All five sit in the gap between professed morality and lived morality — the suspicion that a stance is being *displayed* rather than *held*. Each one indicts a different piece of that gap: the tone of the display, the emptiness of the words, the person's actual conduct, the urge to lecture, the absence of any intention to act. Two of them can be entirely neutral in the right sentence; the other three are accusations no matter where you put them.
@@ -6205,6 +6707,7 @@ All five sit in the gap between professed morality and lived morality — the su
 > **On the exam:** The GRE leans on polarity: **pious** and **didactic** take their charge from what they modify, while **sanctimonious** and **posturing** are pejorative in every context — and only **hypocrite** actually asserts that the person's conduct contradicts the principle.
 
 
+<a id="connotation__wanting-money-charge-rising"></a>
 ### Wanting Money: The Charge Rising
 
 Every one of these says money or property is doing the wanting. They separate on three axes: how much blame the speaker is assigning, whether there is a victim on the other side of the desire, and whether the fault is wanting too much or wanting the wrong thing in place of something better. The mild end describes a habit; the harsh end describes a crime with a person underneath it. Ordered below from coldest to most damning.
@@ -6219,6 +6722,7 @@ Every one of these says money or property is doing the wanting. They separate on
 > **On the exam:** The GRE swaps in *rapacious* where the sentence has no victim and *avaricious* where the sentence has a bribe — check for a person being taken from (rapacious) versus a price being paid (venal); also expect *coveted* used approvingly and *acquisitive* used neutrally of a firm, and never confuse *venal* with *venial* (pardonable).
 
 
+<a id="connotation__verbs-that-presume-wrongdoing"></a>
 ### Words that carry the guilt inside them
 
 Each of these words presumes the act was wrong before you've said anything about it — the disapproval is baked into the vocabulary, not added by the sentence around it. Use any of them on an innocent object and the result is irony, not description. What separates them is which slot in the wrongful act they occupy: doing it, helping someone else do it, quietly agreeing with a partner, planning it beforehand, or betraying an office while doing it. All six belong to the courtroom, the regulator's report, and the crime page.
@@ -6240,6 +6744,7 @@ Each of these words presumes the act was wrong before you've said anything about
 *Words learned against their opposite, which fixes both at once.*
 
 
+<a id="antonym__above-pettiness-vs-mired-in-it"></a>
 ### Above pettiness vs. mired in it
 
 Every word here turns on the same question: what do you do about a small fault? One pole rises above it — the grievance is real, the right to press it is real, and it gets waived. The other pole descends into it — the fault is trivial, and someone makes it the whole conversation. The trap is that the axis isn't "nice vs. mean" but *proportion*: what size of offence a person notices, and whether noticing it makes them look big or small.
@@ -6256,6 +6761,7 @@ Every word here turns on the same question: what do you do about a small fault? 
 > **On the exam:** Sentence completions build the contrast on power and scale — a victor who is **magnanimous** vs. a critic who is **captious** — while the traps live in the softer words: **quibble** can be a compliment in disguise, **finicky** can describe a machine, and **peccadillo** names the offence rather than the person objecting to it.
 
 
+<a id="antonym__all-of-a-kind-vs-mixed-in-kind"></a>
 ### All of a kind vs. mixed in kind
 
 Every word here judges how alike the members of a set are — whether a group is all one thing or a mix of unlike things. The trap is that they answer different questions: some describe what a whole is *made of*, some claim one member can *replace* another, some assert a *parallel* between things known to differ, and some deliver a *verdict* on the mixture rather than a description of it. Two also smuggle in extra freight — a shared starting point, or a claim of total coverage — that has nothing to do with likeness. Sort by which question the sentence is actually asking before you pick.
@@ -6274,6 +6780,7 @@ Every word here judges how alike the members of a set are — whether a group is
 > **On the exam:** The exam plants *analogous* and *universal* in sameness contexts where they don't fit — neither describes a mixture — and forces the *homogeneous / fungible / interchangeable* choice on a single hinge: made of the same stuff, countable as equal units, or equal in effect.
 
 
+<a id="antonym__asserting-vs-disproving"></a>
 ### Asserting vs. disproving
 
 Every one of these words describes something done to a claim that is already on the table — putting it forward, standing behind it, propping it up with evidence, or knocking it down. They sort along two axes the GRE loves: which end of the fight you're on, and how much you're claiming to have *accomplished*. Merely saying a thing is false sits at one end; proving it false sits at the other, and several of these words get misused as if they were interchangeable across that gap. A second trap: two of them aren't really about truth at all — one is about what *ought* to be done, and one has no human speaker.
@@ -6291,6 +6798,7 @@ Every one of these words describes something done to a claim that is already on 
 > **On the exam:** The GRE tests the success gap — *refute* means proved false, while *impugn* and *gainsay* only challenge — and it flips *belie*, whose subject is always the misleading thing, never the revealer.
 
 
+<a id="antonym__at-home-among-people-vs-shut-away-from-them"></a>
 ### At home among people vs. shut away from them
 
 Every word here places someone on a single axis: how much of other people they want. One end is the person who seeks out company and is at their best in it; the other is the person who keeps a distance, whether that means a locked front door, a cool manner in a crowded room, or a mind that never looks past its own circle. The trap is that the words do not differ in *degree* so much as in *what part of sociability they measure* — appetite, occasion, fit, display, address, manner, doctrine, or range. Pick the wrong dimension and you get a word that is warm or cold in the right direction but wrong about the person.
@@ -6308,6 +6816,7 @@ Every word here places someone on a single axis: how much of other people they w
 > **On the exam:** Sentence completions almost always plant the *cause* of the distance — a snub or cool manner points to **aloof**, contempt for humanity to **misanthropic**, a vanished address to **recluse**, mere shyness to **retiring**, a closed community to **insular** — so read the clue for the reason, not the intensity; on the warm side, watch the **congenial**/**convivial**/**genial** lookalikes, where only **congenial** can modify a place or a job.
 
 
+<a id="antonym__beginner-vs-master"></a>
 ### Beginner vs. master
 
 All of these place someone on the arc from just-arrived to fully in command of a craft. The confusion is that they don't measure the same thing: some mark *time served* (how recently you entered), some mark *commitment* (whether you're doing the work or playing at it), some mark *attainment* (how good you actually are), and one measures the ability to *judge* rather than to do. Attitude splits them further — the beginner words range from tender to contemptuous, and the expert words from grudging to reverent.
@@ -6325,6 +6834,7 @@ All of these place someone on the arc from just-arrived to fully in command of a
 > **On the exam:** The exam hinges on the difference between *unskilled* and *uncommitted* — **dilettante** is the trap for any blank that merely means "beginner," since it condemns the attitude, not the ability; **proficient** is the trap for "expert," since it deliberately stops below it.
 
 
+<a id="antonym__blackening-a-name-vs-burnishing-one"></a>
 ### Blackening a name vs. burnishing one
 
 Every word here moves a reputation — not a person's feelings, but how third parties rate them. Six push the standing down through damaging speech; four push it up through praise, reverence, or official blessing. They blur because English sorts them on axes the definitions don't announce: whether the claim must be *false*, whether it's *spoken or published*, whether it's *stated or merely hinted*, whether *one person or a crowd or an institution* is doing it, and whether the word's disapproval falls on the target or on the speaker.
@@ -6343,6 +6853,7 @@ Every word here moves a reputation — not a person's feelings, but how third pa
 > **On the exam:** The trap is treating the six negatives as interchangeable: only **defame**, **slander** and **calumny** require the claim to be false, while **denigrate** and **malign** need only be unfair — and on the positive side the exam swaps a felt reverence (**venerate**) for a public fuss (**lionize**) or an institutional ruling (**canonize**).
 
 
+<a id="antonym__brass-nerve-vs-shrinking-back"></a>
 ### Brass nerve vs. shrinking back
 
 All of these place someone on one axis: how far you push yourself forward in a room, and whether the room licenses it. At one end the person takes more than their standing allows; at the other they take less than their standing permits; in the middle sits the one behavior everyone approves of. The trap is that most of these words aren't descriptions of the act at all — they're the observer's verdict on it, so the same nerve gets called courage, audacity, or temerity depending on who's narrating.
@@ -6361,6 +6872,7 @@ All of these place someone on one axis: how far you push yourself forward in a r
 > **On the exam:** Watch the noun slot: "had the ___ to" takes both effrontery and temerity, and the sentence must tell you whether the sin was shamelessness or overstepped rank — and remember audacious and coy carry no fixed verdict, so the surrounding clause, not the word, sets the sign.
 
 
+<a id="antonym__bright-spirits-vs-sunk-spirits"></a>
 ### Bright spirits vs. sunk spirits
 
 Every word here places a mood on a vertical axis — spirits rising or spirits sinking — and most of them describe the *outside* of that mood rather than the inside: what an observer sees on the face, hears in the voice, or infers from the fact that someone hasn't buckled yet. They split on four questions: is this a settled temperament or a spike, is it caused by a specific event, is it visible to others, and does the speaker approve. Get those four wrong and "cheerful" words that mean very different things collapse into one blob. Several also carry a sting the gloss hides — a compliment with an eyebrow raised, or a diagnosis dressed as sympathy.
@@ -6380,6 +6892,7 @@ Every word here places a mood on a vertical axis — spirits rising or spirits s
 > **On the exam:** The classic traps: **sanguine** tested as "expects a good outcome" (not "happy") in a sentence whose context is explicitly bad news, and **dirge** slipped into an adjective slot's answer bank as the odd noun out — plus **elated**/**ebullient** offered together, where only the visible-overflow one fits a sentence about how someone *appeared*.
 
 
+<a id="antonym__brisk-vs-dragging"></a>
 ### Brisk vs. Dragging
 
 Every word here is a verdict on **tempo** — how fast someone or something moves through a task, and what that speed reveals. The first four sit on the fast end, the rest on the slow end, but neither end is a single idea: speed can mean willingness, deftness, or chaos, and slowness can mean heaviness, obstruction, illness, or style. The GRE cares less about which end a word sits on than about *what it blames or praises* — the pace is only the surface. Get the attitude behind the tempo wrong and every one of these looks interchangeable.
@@ -6398,6 +6911,7 @@ Every word here is a verdict on **tempo** — how fast someone or something move
 > **On the exam:** Antonym-style items love the clean pairs (nimble/ponderous, alacrity/reluctance, dilatory/prompt); the real trap is sentence equivalence, where two slow words fit the blank but only one carries the sentence's implied blame, symptom, or admiration.
 
 
+<a id="antonym__burning-enthusiasm-vs-cold-indifference"></a>
 ### Burning enthusiasm vs. cold indifference
 
 This is a temperature scale for caring. At one end, feeling runs hot enough to show — in devotion, in appetite, in how fast someone moves when asked. At the other end the heat is gone, and the words split by *what* is missing: the interest, the energy, the sincerity, or merely the appearance of concern. The GRE rarely asks you to tell hot from cold; it asks you to tell which *kind* of hot or which *kind* of cold, because the group's members are not interchangeable within their own half.
@@ -6418,6 +6932,7 @@ This is a temperature scale for caring. At one end, feeling runs hot enough to s
 > **On the exam:** The trap is same-temperature substitution: a blank about a half-hearted *act* wants perfunctory, not apathy; one about a lukewarm *reaction* wants tepid, not nonchalant; one about drained energy wants lassitude, not ennui.
 
 
+<a id="antonym__clearing-of-blame-vs-pinning-it-on"></a>
 ### Clearing blame vs. pinning it on
 
 Every word here is a move in the same transaction: fault is on the table, and someone is deciding how much of it sticks and to whom. They differ on three axes — direction (does the word lift blame or fasten it?), source of authority (evidence, a court, an institution, the crowd, or a wounded relationship), and how much guilt survives the move. The clearing words are not equally clean, and the accusing words are not equally official: some are verdicts, some are only charges, and one is just looking the other way.
@@ -6435,6 +6950,7 @@ Every word here is a move in the same transaction: fault is on the table, and so
 > **On the exam:** The trap is size-of-claim: **exonerate/exculpate** wipe the guilt out, **extenuating** leaves it fully intact and shrinks only the penalty, and **condone** neither disproves nor excuses — it lets a wrong you acknowledge pass.
 
 
+<a id="antonym__complaining-vs-bearing-it-in-silence"></a>
 ### Complaining vs. bearing it in silence
 
 Something is wrong, or feels wrong — and the question is whether it comes out of your mouth. One half of this group names the noise: the pitch of the complaint, its volume, its childishness, its legitimacy, the sort of person who makes it habitually. The other half names the silence: enduring, refraining, staying level, or simply having nothing to complain about in the first place. The trap is that the silences are not equivalent — suppressed feeling, withheld retaliation, and genuine absence of want all look identical from outside.
@@ -6454,6 +6970,7 @@ Something is wrong, or feels wrong — and the question is whether it comes out 
 > **On the exam:** The exam leans on the fact that these words judge different things — tone (querulous), volume (grumble), scale of the offence (petulant), legitimacy (grievance) — so a blank rejects a synonym that judges the wrong axis; on the silent side it separates *content* (nothing wanted) from *stoic*/*equanimity* (something felt and withheld).
 
 
+<a id="antonym__craving-vs-recoiling"></a>
 ### Craving vs. recoiling
 
 Every word here marks the direction of a pull: toward a thing or away from it. What separates them is not which side they sit on but four other things — **how much heat** (a mild standing preference vs. a shudder), **how deep the root goes** (a taste you picked up vs. something built into you), **whether a moral claim is being made** (bad for me vs. wrong in itself), and **what the word is grammatically doing** — describing the thing, naming a state you're in, or reporting an act of feeling. Get those four right and the pairs line up across the axis.
@@ -6474,6 +6991,7 @@ Every word here marks the direction of a pull: toward a thing or away from it. W
 > **On the exam:** The GRE hides the direction rather than the intensity — negated attraction words (*did not relish*, *not averse to*) and the affinity/antipathy mirror let a blank flip polarity while the sentence around it stays neutral.
 
 
+<a id="antonym__crystal-clear-vs-impenetrable"></a>
 ### Crystal-clear vs. impenetrable
 
 Every word here answers one question: can meaning get from the page to the reader? On one side, the ones that say yes — but they set wildly different bars, from a bare "the sounds were words" to a literary compliment about beauty and calm. On the other, the ones that say no — and they differ on *why* no: because the subject itself is deep, because the maker tangled it, because sediment is stirred up in it, or because the surface simply gives nothing back. The exam cares less about clear-vs-unclear than about which bar and which cause.
@@ -6494,6 +7012,7 @@ Every word here answers one question: can meaning get from the page to the reade
 > **On the exam:** The trap is matching register and cause, not polarity: on the clear side it swaps a compliment (limpid, pellucid) for a bare threshold (intelligible, coherent); on the murky side it swaps difficulty-of-subject (abstruse, recondite) for fault-of-maker (convoluted, byzantine, turbid) or total blockage (opaque, impenetrable).
 
 
+<a id="antonym__deep-vs-skin-deep"></a>
 ### Deep vs. skin-deep
 
 All of these measure how far something goes past the surface — a thought, a look, a body of knowledge, a piece of work. One half says it reached the bottom (or covered every inch); the other says it stopped at the top. The confusion is that "deep" splits two ways the exam keeps conflating — **vertical** depth (insight that reaches bedrock) and **horizontal** completeness (coverage that leaves nothing out) — and "shallow" splits three ways depending on *why* it stayed shallow: haste, indifference, or slickness.
@@ -6513,6 +7032,7 @@ All of these measure how far something goes past the surface — a thought, a lo
 > **On the exam:** The trap is rarely the obvious profound/superficial pair — it's (a) slotting **exhaustive** or **encyclopedic** into a sentence that needs depth when they only promise coverage, and (b) choosing among **cursory** (too fast), **perfunctory** (didn't care), and **glib** (too smooth), where the sentence always specifies which cause.
 
 
+<a id="antonym__easily-fooled-vs-hard-to-fool"></a>
 ### Easily fooled vs. hard to fool
 
 All of these words rank a person on one axis: how well they see through other people. At one end sits the person who takes the world at face value — trusting, unguarded, no instinct that anyone might be working them; at the other, the person who reads motives fast, prices things correctly, and cannot be sold a story. The confusion is that each end splits several ways. On the trusting end, some words fault the person's picture of the world, some fault their believing, and some only describe an unarmored manner; on the sharp end, some words mean you can't be deceived, and one means you're the one doing the deceiving.
@@ -6531,6 +7051,7 @@ All of these words rank a person on one axis: how well they see through other pe
 > **On the exam:** Two traps: **artless** and **ingenuous** are tested as compliments about candour (not as "clumsy" or "dishonest" — that's *disingenuous*), and **wily** is planted among the sharp words when it actually names the deceiver, not the undeceived.
 
 
+<a id="antonym__emotion-on-display-vs-emotion-locked-down"></a>
 ### Emotion on display vs. emotion locked down
 
 One axis, two poles: how much feeling reaches the surface. At one end, emotion spills out past the point where an observer finds it credible or bearable — the complaint is always excess, though the excess is variously theatrical, uncontrolled, syrupy or stormy. At the other end, the surface stays flat — but flat for very different reasons, and the whole difficulty is telling *suppressed* feeling from *absent* feeling from *feeling replaced by thought*. Almost every word here is a verdict on the person, not a neutral report.
@@ -6549,6 +7070,7 @@ One axis, two poles: how much feeling reaches the surface. At one end, emotion s
 > **On the exam:** The GRE rarely tests display-vs-restraint (too easy); it tests *within* a pole — histrionic vs. hysterical (faked vs. genuinely uncontrolled), mawkish vs. sentimental (always insulting vs. sometimes fond), and above all stoic vs. phlegmatic vs. stolid, where the answer turns on whether the passage credits the person with feeling something.
 
 
+<a id="antonym__everywhere-vs-thin-on-the-ground"></a>
 ### Everywhere vs. thin on the ground
 
 All of these answer the same question — how much of this thing is around, and how is it spread? — and the answer runs from "saturating the environment" to "barely there at all." The trap is that they measure different axes: some count *places*, some count *time*, some measure *depth of penetration*, and some measure a *shortfall against what was expected*. Two things can be equally frequent and take opposite adjectives here, depending on whether the writer cares about coverage, permanence, restraint, or adequacy. Several also smuggle in a verdict — approval, weariness, or outright complaint — that the neutral members don't.
@@ -6566,6 +7088,7 @@ All of these answer the same question — how much of this thing is around, and 
 > **On the exam:** The classic trap is **endemic**, which looks like a synonym for "widespread" but actually restricts to one place — and the sparse/sporadic pair, where the answer turns on whether the gaps are in space or in time.
 
 
+<a id="antonym__falling-in-line-vs-breaking-ranks"></a>
 ### Falling in line vs. breaking ranks
 
 Every word here places a person somewhere on the line between doing what authority requires and refusing it. The axis has three variables the GRE plays with: **who holds the power**, **how visible the act is**, and **what the actor privately feels about it**. Some of these words report only the outward act and say nothing about the inner state; others smuggle in resentment, contempt, respect, or fear. The compliance half is not all willing, and the defiance half is not all principled.
@@ -6586,6 +7109,7 @@ Every word here places a person somewhere on the line between doing what authori
 > **On the exam:** The exam tests attitude, not action: it will offer several words that fit the same rule-and-authority frame and let the credited answer hinge on one hidden feature — swallowed objection (*acquiesce*), open contempt (*flout*), procedural neutrality (*contravene*), or personal risk (*dissident*).
 
 
+<a id="antonym__fearless-vs-faint-hearted"></a>
 ### Fearless vs. faint-hearted
 
 All ten sit on one axis: something threatening arrives, and the person either holds or folds. What separates them is almost never *how much* nerve — it's what kind of pressure is applied (a battle, a long illness, a decision, a bigger opponent), whether the word names a single act or a standing temperament, and what the speaker is doing by choosing it: saluting, patting on the head, or filing a charge. The praise half splits by shape of courage — going out, holding on, or looming over someone else. The fear half splits by *what* is feared — the danger, the decision, or oneself.
@@ -6604,6 +7128,7 @@ All ten sit on one axis: something threatening arrives, and the person either ho
 > **On the exam:** The exam rarely tests these as pure opposites — it plants one qualifier (a long illness, a smaller team, a decision unmade, no danger at all) and only one word matches that dimension, so pairing "brave/cowardly" by degree gets you a trap answer.
 
 
+<a id="antonym__feeling-for-others-vs-hardened-to-them"></a>
 ### Feeling for others vs. hardened to them
 
 Every word here fixes your stance toward another person's inner life: whether you register what they feel, and what that registering costs or produces. The warm half splits by *what the feeling does* — enter someone, share their bad luck aloud, guard what you hold dear, or dispense goodwill from above. The cold half splits by *why the feeling is absent* — worn away by exposure, replaced by enjoyment, generalised into contempt for the species, or present but refused. The trap is that "warm" and "cold" are the easy part; the exam tests the split *within* each half.
@@ -6620,6 +7145,7 @@ Every word here fixes your stance toward another person's inner life: whether yo
 > **On the exam:** The cold four are the real test: **callous** feels nothing, **sadistic** feels pleasure, **obdurate** feels the plea and denies it anyway, **misanthropic** has no one in front of it at all — and on the warm side the exam banks on you treating **empathetic** (perception) and **benevolent** (goodwill from above) as synonyms.
 
 
+<a id="antonym__fertile-vs-barren"></a>
 ### Fertile vs. barren
 
 These words all sit on the axis of **yield**: whether something has the power to produce, is actively producing, or produces nothing. The failure they describe is never mere emptiness — it's the failure of something that *ought* to bear (soil, a womb, a decade, an effort) to bear anything. Sorting them requires asking three questions: is the word judging *capacity* or *results*? Is the shortfall permanent, chosen, or momentary? And does it attach to land, to people, or to effort?
@@ -6636,6 +7162,7 @@ These words all sit on the axis of **yield**: whether something has the power to
 > **On the exam:** The traps are the near-misses: *fallow* (paused, still good) swapped for *barren* (incapable), and *fruitless* (came back empty this time) swapped for *futile* (could never have worked) — plus *desiccated*, which the GRE plants in sentences about lifeless writing, not dry ground.
 
 
+<a id="antonym__fleeting-vs-permanent"></a>
 ### Fleeting vs. Fixed
 
 Every word here answers "how long does this last?" — one half says *barely*, the other says *effectively forever*. But the real distinctions are not on the clock. Each word encodes a different **reason** for the brevity (it's designed to be short, it's dissolving as you watch, it's a phase, it's an instant) or a different **kind** of permanence (it keeps returning, it cannot be altered, it resists being moved, it merely survived). Two words on the same side of the divide are rarely interchangeable, and two words on opposite sides are rarely true opposites.
@@ -6653,6 +7180,7 @@ Every word here answers "how long does this last?" — one half says *barely*, t
 > **On the exam:** The trap is assuming the two halves are opposites: *extant* answers "did it survive?" not "will it last," and *perennial* means recurring, not unending — so the "correct antonym" of a brevity word is usually the one matching its **reason**, not its duration.
 
 
+<a id="antonym__fresh-minted-vs-secondhand"></a>
 ### Fresh-minted vs. secondhand
 
 Every word here judges one thing: is there anything new in this, or has it all been here before? One pole covers making something the record has never held — a neat contrivance, a first instance, a new term, a toppled idol. The other pole covers serving up what already exists — sometimes openly and honestly, sometimes as filler where thought should be. Since almost all of them are verdicts rather than descriptions, the distinctions live in *what* is being rated (a device, a date, a phrase, a whole work, a style, a person) and *how much* credit or contempt rides along.
@@ -6672,6 +7200,7 @@ Every word here judges one thing: is there anything new in this, or has it all b
 > **On the exam:** The trap is treating the stale-side words as interchangeable: the answer usually turns on what is stale (one remark vs. a whole work vs. a style) and why it's condemned (fake wisdom, fake comfort, or sheer overuse) — and on reading *unprecedented* literally as "no prior case," never as "huge" or "unforeseeable."
 
 
+<a id="antonym__full-of-life-vs-drained-of-it"></a>
 ### Full of life vs. drained of it
 
 One axis: how much life-force is present, and whether it is being put in or taken out. The top half covers energy arriving or on display — as a jolt from outside, as an underlying reserve, as visible sparkle. The bottom half covers energy leaking away — by slow sapping, by sudden incapacity, or by simple drowsiness. The exam's work is done by the side details: verb or noun, cause or sufferer, clinical or flattering, and whether the word demands that something actually *happen*.
@@ -6691,6 +7220,7 @@ One axis: how much life-force is present, and whether it is being put in or take
 > **On the exam:** The perennial trap is **enervate**, which looks like "energize" but means its opposite; the second is choosing between *invigorate* and *galvanize* — ask whether the sentence requires strength restored or action actually taken.
 
 
+<a id="antonym__grasping-for-more-vs-giving-it-away"></a>
 ### Grasping for more vs. giving it away
 
 All of these track the movement of money, goods, or advantage relative to the self — either pulled inward or pushed outward — and almost all of them carry a verdict on the person doing the moving. The confusion isn't across the divide (nobody mixes up greed with giving); it's *within* each side, where the words differ not in direction but in what they specify: whether desire is settled or predatory, whether the object belongs to someone else, whether a duty is for sale, whether the gift is large, permanent, motive-pure, or handed down from a height. The two halves are also not clean mirrors — the taking words range from neutral to damning, while the giving words range from admiring to quietly contemptuous of the receiver.
@@ -6710,6 +7240,7 @@ All of these track the movement of money, goods, or advantage relative to the se
 > **On the exam:** The exam plays on the fact that neither side is uniform — it will offer *acquisitive* where the sentence demands a victim (needs *rapacious*) or *avaricious* where a duty is being sold (needs *venal*); watch too for the positive *coveted*, and never confuse **venal** (bribable) with **venial** (a forgivable sin).
 
 
+<a id="antonym__grave-vs-flippant"></a>
 ### Grave vs. flippant
 
 Every word here takes a position on how much weight a moment deserves. One half describes the state of taking things seriously — in judgment, in manner, in face, in observed form — and the other describes lightness, whether that lightness is a breach, a dodge, a defect, a style, or a gift. What makes them confusable is that the exam rarely tells you which side is being praised: gravity can be admirable or deadening, and levity can be a scandal or the only thing that saves the room. Sort them by two questions: does the word describe a person, an occasion, or a verdict on one — and does the speaker approve?
@@ -6728,6 +7259,7 @@ Every word here takes a position on how much weight a moment deserves. One half 
 > **On the exam:** The trap is assuming the light words are all pejorative and the grave words all approving: only *facetious* and *frivolous* are fixed condemnations, while *levity* and *droll* flip with the speaker, *raillery* is affectionate, and *staid* quietly insults the serious side.
 
 
+<a id="antonym__gripping-vs-sleep-inducing"></a>
 ### Gripping vs. sleep-inducing
 
 Every word here is a verdict on one thing: whether something holds attention or bleeds it away. The top half describes the different mechanisms by which a thing seizes you — a halt, a surrender, a force, a sparkle, a pleasing sharp bite. The bottom half describes the different ways a thing loses you — it runs too long, never varies, moves too heavily, or has nothing in it to begin with. The trap is that within each half the words are not interchangeable: each names a *specific* cause of the grip or the dullness, and the exam picks whichever one the sentence has quietly set up.
@@ -6748,6 +7280,7 @@ Every word here is a verdict on one thing: whether something holds attention or 
 > **On the exam:** The exam rarely tests grip-vs-dull directly; it tests *which* dullness — sentence completions plant the cause (a two-hour runtime → tedious; a droning voice → monotonous; a pretty but empty debut → vapid), and picking any other dull word feels right and scores zero.
 
 
+<a id="antonym__grovelling-from-below-vs-looking-down-from-above"></a>
 ### Grovelling from below vs. looking down from above
 
 Every word here describes a vertical position between two people — one party placed below, the other above — and describes it through *manner*, not actual rank. None of them measures who really holds power; they measure how someone carries themselves in the presence of power, either shrinking under it or presuming it. Almost all are the observer's verdict: you don't apply them to yourself. The group splits into the servile half (praise, obedience, begging, dignity surrendered) and the superior half (command, coldness, condescension, distance), with one member sitting on the fence as the respectable version of yielding.
@@ -6767,6 +7300,7 @@ Every word here describes a vertical position between two people — one party p
 > **On the exam:** The trap is **deference** — it sits in a list of grovelling words but is neutral-to-positive, so a sentence-completion blank that reads "servile" may actually want the one word here that doesn't insult; the second trap is **patronize**'s wholly innocent "be a customer of" sense.
 
 
+<a id="antonym__heading-it-off-vs-bringing-it-on"></a>
 ### Heading it off vs. bringing it on
 
 Every verb here acts on an event that has not happened yet. One half intervenes so the event never arrives; the other half is the reason it arrives at all. Within each half the dictionary meanings nearly overlap, so the only thing that separates them is *mechanism*: whether the force is a person, a rule, a fear, or a slow campaign — and whether it lands early, at the last second, or on the need for the thing rather than the thing itself.
@@ -6785,6 +7319,7 @@ Every verb here acts on an event that has not happened yet. One half intervenes 
 > **On the exam:** The trap is almost never prevent-vs-cause; it's inside one half — **preclude** and **obviate** look swappable until you check whether the blank's object is the event or the *need* for it, and **forestall** vs **avert** turns entirely on whether the danger was distant or already at the door.
 
 
+<a id="antonym__health-giving-vs-quietly-poisonous"></a>
 ### Health-giving vs. quietly poisonous
 
 All of these judge an influence by its effect on health or wellbeing, and all speak from an outside, clinical vantage — the doctor, the report, the leader column — rather than from the person being affected. The positive half praises conditions or remedies that do you good; the negative half condemns harm that is typically slow, cumulative and stated as a finding. The real work is in the second axis: how *direct* the effect is (cause vs. mere setting), how *visible* it is (announced vs. hidden), and how *fast* (a decade of drift vs. an aggressive spread).
@@ -6804,6 +7339,7 @@ All of these judge an influence by its effect on health or wellbeing, and all sp
 > **On the exam:** The trap is that the exam rarely tests good-vs-bad here — it tests the second axis, so the wrong answer is a synonym of the right one that gets the *mechanism* wrong: hidden (insidious) vs. condemned (pernicious), enabling (conducive) vs. effective (efficacious), harmless (benign) vs. helpful.
 
 
+<a id="antonym__held-in-check-vs-spilling-over"></a>
 ### Held in check vs. spilling over
 
 Every word here rates a force against the limit that ought to contain it. One half describes the force being held inside that limit — deliberately, by someone who could have let it run — and the other describes it breaking past. Within each half the words are near-interchangeable at gloss level, which is exactly the problem: they differ not in *how much* restraint or excess, but in *what is being measured* — the mechanism of the holding back, or the dimension along which the thing overshot (volume, price, occasion, justification, the recipient's stomach).
@@ -6824,6 +7360,7 @@ Every word here rates a force against the limit that ought to contain it. One ha
 > **On the exam:** The trap is never the direction — it is the dimension: a blank meaning "too much" is filled by exactly one of these depending on whether the sentence is measuring flow (profuse), occasion (extravagant), price (exorbitant), satiety (surfeit), or justification (gratuitous); on the restraint side, watch temper (adds a counterweight) against curb (applies a brake), and forbear (held back toward a person) against abstain (held back from a substance or act).
 
 
+<a id="antonym__held-sacred-vs-treated-as-fair-game"></a>
 ### Held sacred vs. treated as fair game
 
 Every word here sits on one side of a line: something a group has placed above question, and the act of crossing that line anyway. The reverence half splits three ways — the *status* a thing is granted, the *feeling* it produces, and the *act* by which people or institutions confer it. The irreverence half splits by target and temperature: some words mock the sacred thing, some dismantle it, one simply breaks the rule in public. The GRE lives in those splits, not in the sacred/profane divide itself.
@@ -6841,6 +7378,7 @@ Every word here sits on one side of a line: something a group has placed above q
 > **On the exam:** Watch the direction of the arrow: reverence words are tested on who supplies it — the defenders (*sacrosanct*), an institution (*canonize*), the devotee (*venerate*), or the object itself (*numinous*) — and *flout* is regularly baited with *flaunt* in sentence-equivalence pairs.
 
 
+<a id="antonym__speeding-it-along-vs-holding-it-back"></a>
 ### Helping it along vs. holding it back
 
 Every word here is an outside force applied to something already under way: one half clears the path, adds power, or creates favourable conditions; the other half adds friction. Crucially, almost none of them start or finish anything. The forward words don't cause the outcome, they enable it; the backward words don't stop the thing, they slow, weaken, or hold it. What separates them is *what* they act on (a queue, an argument, a crowd, an impulse, a policy), whether the force is a jolt or a background condition, and what the choice of word reveals about the person using it.
@@ -6861,6 +7399,7 @@ Every word here is an outside force applied to something already under way: one 
 > **On the exam:** The trap is always strength: the exam baits the restraint words with *prevent, halt, abolish* and the forward words with *cause, produce* — but every word in this group is partial, so the correct answer stops short of the absolute. Second nouns (hamper = basket, bolster = cushion, curb = kerb, check = counterweight) are the other bait.
 
 
+<a id="antonym__hidden-vs-out-in-the-open"></a>
 ### Hidden vs. out in the open
 
 Every word here answers the same question: was concealment attempted, and did it work? They cluster at two poles — things kept back from view, and things displayed in full view — but the pole alone never settles which word fits. What separates them within each half is scale (an operation or a glance?), legitimacy (forbidden or merely unannounced?), what's hidden (the act or the reason for it?), and whether the speaker is reporting or condemning. Note too that the "open" words split three ways: open to the eye, open to the mind, and open in a way that aggravates an offence.
@@ -6879,6 +7418,7 @@ Every word here answers the same question: was concealment attempted, and did it
 > **On the exam:** The exam rarely asks hidden-vs-open outright; it makes you pick within a pole — covert/clandestine/surreptitious differ by scale and legitimacy, not by depth of secrecy, and conspicuous (eye) is not manifest/patent (mind) is not flagrant (offence).
 
 
+<a id="antonym__impartial-vs-slanted"></a>
 ### Impartial vs. slanted
 
 Every word here judges whether a person, a text, or a distribution treats all sides fairly — or quietly tips toward one. The split is not just positive vs. negative: the "fair" words disagree about *what* fairness is (no stake in it, shares calibrated to desert, shares equal by principle), and the "slanted" words disagree about *how* the tilt works (unconscious affection, engineered disguise, open attack, group supremacy) and *who* it hurts. Choosing right means matching the word to what it attaches to — a role, an outcome, a system, a document, a temperament.
@@ -6895,6 +7435,7 @@ Every word here judges whether a person, a text, or a distribution treats all si
 > **On the exam:** Classic traps: *disinterested* baited with "uninterested/bored," *equitable* baited with "equal," and passages that call a work **tendentious** (slant hidden under a claim of objectivity) where a careless reader picks *polemical* (slant announced).
 
 
+<a id="antonym__just-born-vs-worn-out-with-age"></a>
 ### Just born vs. outlived its era
 
 All of these place something on a timeline relative to its useful life: either it has barely started and hasn't earned judgment yet, or it has run past its moment and survives as a leftover. The two poles are easy to tell apart; the trouble is *inside* each pole, where the words differ on one hidden variable — whether the new thing has shape yet, and whether the old thing was replaced, merely abandoned, or simply demoted. Two members aren't about age at all: one names the *act* of starting, the other names a *change of status*. Sort by that hidden variable, not by old-vs-new.
@@ -6912,6 +7453,7 @@ All of these place something on a timeline relative to its useful life: either i
 > **On the exam:** The old/new split is a decoy — the real question is always within a pole: archaic (fell out of use) vs. obsolete (was replaced) vs. vestigial (still present, still useless), or nascent (small but shaped) vs. inchoate (no shape at all); and commence/erstwhile get slipped in because neither is actually about age.
 
 
+<a id="antonym__loud-vs-hushed"></a>
 ### Kinds of loud, kinds of quiet
 
 Every word here sits somewhere on one dial: how much noise a person, crowd, or thing is making. That shared axis is exactly the trap — on a first pass they sort into "loud pile" and "quiet pile" and look swappable within each pile. They aren't. Each one encodes a *reason* for the volume — a demand, high spirits, defiance, ringing metal, a mood that dropped, a temperament, a wish to soothe — and the reason, not the decibels, is what the exam actually tests.
@@ -6930,6 +7472,7 @@ Every word here sits somewhere on one dial: how much noise a person, crowd, or t
 > **On the exam:** Antonym and sentence-equivalence items pair on the *reason*, not the volume: a blank about an ugly clash of sounds takes cacophonous over clamorous, one about a lone insistent critic takes vociferous over clamorous, and the quiet side punishes subdued/taciturn confusion — subdued needs a prior louder state, taciturn needs a lifelong one.
 
 
+<a id="antonym__lavish-giving-vs-tight-fisted-withholding"></a>
 ### Lavish giving vs. tight-fisted withholding
 
 Every word here measures how freely something flows out of a giver's hands — money, gifts, praise, effort, attention. One half describes the flow opened wide, the other describes it pinched shut. The confusion isn't just which side a word sits on: it's *what* each one actually measures. Some rate the scale of the gift, some the moral quality of the giver, some the direction of the flow (downward, from someone who could stop), and some the motive for holding back — greed, fear, or cold calculation.
@@ -6948,6 +7491,7 @@ Every word here measures how freely something flows out of a giver's hands — m
 > **On the exam:** Two traps: **parsimonious** and **chary** are not slurs when applied to theories and risks respectively — a "parsimonious explanation" is praise — and **stinting** almost always appears negated (*unstinting*), so a passage's *without stinting* is a generosity clue, not a stinginess one.
 
 
+<a id="antonym__leaping-before-looking-vs-weighing-it-first"></a>
 ### Leaping before looking vs. weighing it first
 
 One axis runs through all of these: how much thought stands between the impulse and the act. On one side, the gap is missing — the act arrives too fast, too hot, or too deaf to warning, and the word is a rebuke aimed at the speed. On the other, the gap is deliberately maintained — the risks are surveyed, the odds weighed, the response measured — and the word is praise, or at least a description of forethought. The GRE lives on the fact that each side splits internally: the fast words differ in *what* went missing (reflection, calm, humility, respect for danger), and the slow words differ in *what* the thinking is for (safety, proportion, intent, sheer duration).
@@ -6967,6 +7511,7 @@ One axis runs through all of these: how much thought stands between the impulse 
 > **On the exam:** The exam rarely tests fast-vs-slow; it tests within a side — a blank needing "ignored an obvious danger" (foolhardy) where "acted on a whim" (impulsive) is the decoy, or "praised for restraint" (judicious) where the safety word (prudent) doesn't fit; watch too for *deliberate* and *cogitate*, which look like compliments here but are neutral.
 
 
+<a id="antonym__letting-it-go-vs-never-letting-it-go"></a>
 ### Letting it go vs. never letting it go
 
 Every word here sits downstream of an injury: someone was wronged, and someone has the standing to punish, protest, or strike back. The group splits on what happens to that entitlement — it is waived, deferred, formally erased, or kept forever. The second thing to track is *what kind of thing* each word names: a private feeling, a single act, a verdict, or a permanent standing condition. Sentence completions live in that second distinction more often than in the first.
@@ -6985,6 +7530,7 @@ Every word here sits downstream of an injury: someone was wronged, and someone h
 > **On the exam:** The traps are the near-misses, not the opposites: **condone** ≠ forgive (it's tolerating a wrong you still call wrong), **exonerate** ≠ pardon (pardon presumes guilt, exoneration denies it), and **obdurate** vs. **implacable** turns on whether it's pity or persuasion that fails.
 
 
+<a id="antonym__letting-it-out-vs-keeping-it-in"></a>
 ### Letting it out vs. keeping it in
 
 Every word here is about the traffic of information across a barrier: something moves out to an audience, or something is stopped before it gets there. What separates them is never *whether* the thing came out but *how* — who authorized it, whether a seal was broken, whether anyone chose it, and what was done to the thing to keep it down. The GRE builds these into two-sided sentences ("far from ___ing the findings, the board ___ed them"), so the pairs have to be read as opposites of manner, not just of direction.
@@ -7002,6 +7548,7 @@ Every word here is about the traffic of information across a barrier: something 
 > **On the exam:** The traps are within-side, not across: divulge (a seal) vs. disseminate (reach) vs. apprise (a duty); suppress (held down) vs. censor (cut out) vs. cloak (draped over) — plus betray's involuntary sense and reticent's *chosen* silence, both of which students misread as ordinary revealing and ordinary shyness.
 
 
+<a id="antonym__everyone-equal-vs-a-chosen-few-above"></a>
 ### Levelling vs. Ranking: Equal, Fair, and Above
 
 All of these words are about how human beings get ranked against one another — whether anyone stands above anyone else, and how the difference is justified or enacted. One pole insists on flatness or fairness in how status and resources are distributed; the other assumes a ladder, and either occupies it, defends it, or performs it in conversation. They split along three axes the exam loves: belief vs. behaviour vs. plain structure, approval vs. accusation vs. neutrality, and whether the ranking is by class, by group, or by nothing at all.
@@ -7016,6 +7563,7 @@ All of these words are about how human beings get ranked against one another —
 > **On the exam:** The set-up trap is treating **equitable** as a synonym for equal (it licenses unequal shares) and expecting **echelon** to carry contempt (it is pure structure, no attitude) — plus **patronize**'s neutral "be a customer of" sense dropped into an otherwise hostile sentence.
 
 
+<a id="antonym__luck-running-with-you-vs-against-you"></a>
 ### Luck running with you vs. against you
 
 Every word here describes an outcome that arrives rather than one you engineered — handed to a person or a project by chance, timing, weather, policy, or a higher power. They split on two axes the GRE loves to blur: whether the outcome helps or harms, and whether the word is reporting *how* the thing came about (unplanned, unsought, seemingly designed) or *how much damage or good it did*. Ordinary usage smears those distinctions constantly, so an ear-based guess is exactly what the exam is baiting.
@@ -7032,6 +7580,7 @@ Every word here describes an outcome that arrives rather than one you engineered
 > **On the exam:** The standard traps: reading **fortuitous** as "fortunate" when the passage only means *unplanned*, and confusing **adverse** (circumstances working against you) with *averse* (a person's reluctance).
 
 
+<a id="antonym__lying-dormant-vs-breaking-out"></a>
 ### Lying dormant vs. breaking out
 
 Every word here describes a capacity that is not currently being expressed — or has just stopped being contained. The first half names quiet that is not death: the thing still exists, and something could restart it. The second half names what happens when the brake comes off: the return, the growth, the spread. The distinctions live in the fine print — who imposed the pause, whether the quiet is restorative or degenerative, and whether the resurgence is a beginning, a return, or a failure of control.
@@ -7049,6 +7598,7 @@ Every word here describes a capacity that is not currently being expressed — o
 > **On the exam:** The exam splits the quiet words on details you can't get from a gloss — abeyance needs an authority, fallow needs restoration, torpor needs no comeback — and baits antonym pairs with near-misses: fallow≠barren, dormant≠extinct, proliferate≠merely increase, rampant≠widespread.
 
 
+<a id="antonym__making-clear-vs-muddying"></a>
 ### Making clear vs. muddying
 
 All eight words concern whether light gets through to a thing. The first four are operations that increase clarity; the last four put something between the thing and the viewer. What separates members within each half is **method** — explaining, edge-drawing, boiling down, putting into words on one side; adding noise, dimming, sealing, and draping on the other — and, on the muddying side, **whether anyone meant to do it**.
@@ -7065,6 +7615,7 @@ All eight words concern whether light gets through to a thing. The first four ar
 > **On the exam:** The trap is treating **obscure** and **obfuscate** as interchangeable — sentence-completion items hinge on intent (a cloud obscures; only a person obfuscates) — and on the clear side, on **delineate** meaning *bound* rather than *explain*.
 
 
+<a id="antonym__making-it-worse-vs-taking-the-edge-off"></a>
 ### Making it worse vs. taking the edge off
 
 All nine verbs turn a dial on a situation that is already bad — three turn it up, six turn it down. None of them starts the problem and none of them ends it: the trouble pre-exists, and afterwards it is still there, just more or less severe. So the choice between them is almost never about direction (the sentence tells you that) but about *what* is being turned: a physical harm, a penalty, a feeling, a person's temper, or a whole social situation. Get the object wrong and the sentence collapses even when the direction is right.
@@ -7082,6 +7633,7 @@ All nine verbs turn a dial on a situation that is already bad — three turn it 
 > **On the exam:** The exam rarely tests direction — the sentence's contrast marker gives that away — it tests object type, so the trap answer is a right-direction verb with the wrong noun after it (mitigating grief, assuaging emissions, mollifying a shortage, ameliorating fears); and **temper** is baited as an antonym of *exacerbate* when the thing being toned down is desirable, not bad.
 
 
+<a id="antonym__merging-together-vs-splitting-apart"></a>
 ### Merging into one vs. splitting apart
 
 All of these track what happens to the boundaries between things: either separate parts lose their edges and become one, or one body develops edges and comes apart. The interesting question is never direction alone but mechanism — is there an agent doing the joining or does it happen on its own, are the parts equals or is one filed under the other, and when something breaks, does it leave two rival bodies, two hostile moods, or nothing at all. Several of these also live outside the human-conflict frame entirely, describing where objects sit or how categories are drawn.
@@ -7100,6 +7652,7 @@ All of these track what happens to the boundaries between things: either separat
 > **On the exam:** The exam rarely tests direction alone — it tests mechanism, so the trap is choosing a word that joins or splits the right way but with the wrong agency (coalesce vs. amalgamate), the wrong hierarchy (amalgamate vs. subsume), or the wrong casualty: two rival bodies (schism), two hostile moods (polarize), or nothing left standing at all (disperse).
 
 
+<a id="antonym__meticulous-vs-slapdash"></a>
 ### Meticulous vs. slapdash
 
 Every word here rates how much care went into a piece of work — and all of them are judgements, not measurements. The top half says the care was extreme; the bottom half says it was missing. What separates words *within* each half is never the amount of care but its **flavour**: whether the care is about accuracy, form, or conscience; and, on the failing side, whether the fault was haste, indifference, disorder, habit, slackness, or blameworthy omission. Two words can describe the same botched inspection and accuse the inspector of entirely different sins.
@@ -7119,6 +7672,7 @@ Every word here rates how much care went into a piece of work — and all of the
 > **On the exam:** The GRE rarely asks \"careful or careless?\" — it asks which *fault* the sentence names, so cursory (too fast) and perfunctory (didn't care, but finished) are the classic paired trap, as are lax (failed to enforce) and negligent (blameworthy failure of duty); it also punishes readers who assume fastidious and punctilious are straight praise.
 
 
+<a id="antonym__can-t-do-without-vs-could-do-without"></a>
 ### Must Be There vs. Shouldn't Be There
 
 Every word here answers one question: does this thing have to be present? One half says yes — remove it and something breaks, or someone is demanding it. The other half says no — there's too much of it, it repeats what's already there, it came from outside, or nobody asked for it. The trap is that the "no" words are not interchangeable: each names a *different reason* the thing shouldn't be there, and the GRE builds its answer choices around exactly that difference.
@@ -7134,6 +7688,7 @@ Every word here answers one question: does this thing have to be present? One ha
 > **On the exam:** Sentence Equivalence loves the superfluous/redundant/extraneous cluster as a fake "obvious pair" — pick only the one the sentence's evidence licenses (repetition → redundant, outside the topic → extraneous, mere surplus → superfluous), and remember intrinsic's antonym is extraneous, not superfluous.
 
 
+<a id="antonym__never-stopping-vs-stopping-and-starting"></a>
 ### Never stopping vs. stopping and starting
 
 All of these describe how something is distributed in time: whether it runs without a break or comes in pieces with gaps. The first four say the thing won't quit — no pause, no end, or it keeps returning. The last four say the thing keeps quitting — bursts and stops, nothing sustained. Nearly all of them are complaints, so the real work is deciding *which* complaint: too long, too repetitive, too patchy, or too half-hearted.
@@ -7150,6 +7705,7 @@ All of these describe how something is distributed in time: whether it runs with
 > **On the exam:** The exam pairs a "no gaps" word with a "gaps" word in the same sentence and hangs the answer on one contrast cue (*but*, *rather than*, *no longer*); within the gap words, it exploits that **desultory** judges the person's attention while **intermittent** and **sporadic** only describe the pattern.
 
 
+<a id="antonym__official-approval-vs-official-condemnation"></a>
 ### Official approval vs. official condemnation — and the tolerance in between
 
 These are all verdicts handed down on someone's conduct, and almost all of them come from a position with standing to judge: a board, a court, a government, a public. They run along one axis — actively bless it, quietly let it pass, or publicly damn it — and the middle of that axis is where the confusion lives, because "not objecting" reads like approval but is not. Note also that the condemnation words differ less in meaning than in machinery: who speaks, to whom, about a person or a practice, and whether the word names the act of condemning or the disgrace left behind.
@@ -7167,6 +7723,7 @@ These are all verdicts handed down on someone's conduct, and almost all of them 
 > **On the exam:** The classic trap is *sanction* as a contronym; the subtler one is treating *condone* or *countenance* as endorsement when a sentence demands active praise (*approbation*) — both mean only that no objection was raised.
 
 
+<a id="antonym__good-omen-vs-bad-omen"></a>
 ### Omens: Signs of Good vs. Signs of Bad
 
 Every word here lives in the gap between the sign and the thing signified. Nothing has happened yet: there is a condition, a silence, a first robin, a cloud — and it points forward to an outcome that is still pending. The group splits on the direction the sign points, and then again on what part of the scene each word grabs: the occasion, the conditions, the timing, the benefit itself, the atmosphere, the act of signalling, or the messenger. Get the direction right and you still have to get the part right.
@@ -7184,6 +7741,7 @@ Every word here lives in the gap between the sign and the thing signified. Nothi
 > **On the exam:** The trap is picking the outcome word over the omen word — *fortunate*, *successful*, *disastrous* describe results, but every blank in this group describes the sign; watch too for litotes (*not inauspicious*), which flips the whole sentence.
 
 
+<a id="antonym__on-guard-vs-asleep-at-the-wheel"></a>
 ### On guard vs. asleep at the wheel
 
 Every word here answers one question: is the danger being watched, or is it being missed? One half describes attention paid to risk — held over time, aimed at a suspect, weighed before acting, or acted on when warned. The other half describes attention withheld — never registered, waved off, smiled past, or allowed to go slack. The confusion isn't within a half so much as across it: the exam pairs them as opposites, so you need to know *which kind* of watching and *which kind* of failing each one names.
@@ -7202,6 +7760,7 @@ Every word here answers one question: is the danger being watched, or is it bein
 > **On the exam:** The trap is treating the four negatives as one blur called "careless" — the exam distinguishes them by *why* the danger was missed (never registered = oblivious, dismissed from above = cavalier, success bred it = complacent, a duty went slack = lax), and it loves "failed to heed" as the setup that signals the answer must be a not-watching word.
 
 
+<a id="antonym__on-the-point-vs-off-it"></a>
 ### On the point vs. off it
 
 Every word here is a ruling on whether something belongs in the discussion. One half says yes — this bears on the question, and often praises how precisely it lands. The other half says no — and each says no in a different register, from the cold "this was never part of the job" to the polite "it exists, it's just not the point." Because the negative half is uniformly softer than *irrelevant*, the whole group trades on how a dismissal is delivered: what it concedes, who has the standing to deliver it, and how fatal it actually is.
@@ -7220,6 +7779,7 @@ Every word here is a ruling on whether something belongs in the discussion. One 
 > **On the exam:** The GRE rarely tests the obvious flip; it pairs *germane/pertinent* or *peripheral/incidental* as candidate equivalent-pairs where only one fits the sentence's frame (a ruling vs. a byproduct), and it hides **apt** in sentences using sense 2, *apt to*, where "fitting" is nonsense.
 
 
+<a id="antonym__orthodox-vs-heretical"></a>
 ### Orthodox vs. heretical
 
 Every word here places something relative to the accepted centre — the standard method, the official creed, the way the respectable people do it. One half sits at that centre, ranging from merely doing what's usual to refusing to let anything else be done; the other half sits outside it, ranging from a mildly odd habit to a deliberate assault on what a field holds sacred. The traps are two: on the inside, whether the word simply describes normality or accuses someone of rigidity; on the outside, *what* deviates — a belief, a behaviour, a social position, or the depth of the proposed change — and whether the deviation earns admiration or contempt.
@@ -7238,6 +7798,7 @@ Every word here places something relative to the accepted centre — the standar
 > **On the exam:** The exam rarely tests the obvious orthodox/heretical split — it makes you choose *within* one side, so pick on the specific axis: rigidity of manner (**dogmatic**) vs. rigidity of theory (**doctrinaire**) vs. rigidity of habit (**hidebound**); and, on the other side, behaviour (**eccentric**) vs. belief (**heterodox**) vs. standing (**fringe**) vs. depth (**radical**).
 
 
+<a id="antonym__overflowing-supply-vs-shortage"></a>
 ### Overflowing supply vs. shortage
 
 Every word here answers the question *how much?* — and answers it at one extreme or the other: far more than normal, or noticeably less than needed. The trap isn't the direction (any reader can sort plenty from shortage); it's that within each side the words differ by **grammar, target, and attitude**. Some are neutral measurements, some are compliments, and some are accusations aimed at whoever supplied the amount. The first five run from plain plenty to excess that harms; the last five run from bare scarcity to contemptible insufficiency.
@@ -7256,6 +7817,7 @@ Every word here answers the question *how much?* — and answers it at one extre
 > **On the exam:** The exam rarely tests plenty-vs-shortage; it tests which member of one side the sentence's tone demands — a clause about readers giving up signals **surfeit** or **inundate**, not the neutral *copious* or *abound*, and a clause criticising an author's effort signals **scant** or **paltry**, not the merely descriptive *sparse*.
 
 
+<a id="antonym__padded-prose-vs-compressed-prose"></a>
 ### Padded prose vs. compressed prose
 
 Every word here is a verdict on how many words were used to do a job. One side says *too many* — the text is padded, and the reader pays for it in time and patience. The other side says *few, and well chosen* — compression treated as a skill, sometimes as an artifact. The confusion is that within each side the words are not interchangeable: they differ on **what** the excess is made of (bulk, pomposity, duplication) and on **what** the shortness buys you (substance, chill, mere shortness, control).
@@ -7273,6 +7835,7 @@ Every word here is a verdict on how many words were used to do a job. One side s
 > **On the exam:** The padded four look swappable in a blank, so the exam decides it on the *kind* of excess — a clue about pomposity forces **turgid**, a clue about repeating something already said forces **redundant**, and only sheer length lets **verbose**/**prolix** in; on the other side it splits **pithy** (good) from **terse** (cold) by the tone of the surrounding sentence, not by length.
 
 
+<a id="antonym__peacemaking-vs-fight-picking"></a>
 ### Peacemaking vs. fight-picking
 
 Every word here measures the temperature between two parties who could be at war. One half lowers it — soothing an angry counterpart, or naming the state of non-hostility that results; the other half raises it — describing someone who carries a fight around with them, or the act of turning a neutral party into an enemy. The confusions are never across the divide; they're inside each half. On the peace side, the words differ by what the peacemaker actually gave up and how much dignity survived. On the hostility side, they differ by whether you're looking at a posture, a lifelong temperament, or a property of the disputed thing itself.
@@ -7294,6 +7857,7 @@ Every word here measures the temperature between two parties who could be at war
 > **On the exam:** GRE blanks in this family turn on price and posture: whether the sentence says something was surrendered (**appease**), tossed out cheaply (**placate**), or merely said in a pleasant tone (**conciliatory**) — and on the other side, whether the hostility is a stance taken now (**belligerent**), a permanent temperament (**pugnacious**/**truculent**), or a quality of the issue rather than the person (**contentious**).
 
 
+<a id="antonym__peak-vs-rock-bottom"></a>
 ### Peak vs. rock bottom
 
 All five sit at the far ends of a rise-and-fall curve: three name the top, two name the bottom. The confusion isn't just high-vs-low — it's grammatical. Some of these name a **point on a trajectory** (a moment you can date), one names a **stretch of time**, and one names a **condition** rather than a position at all. Choosing correctly means knowing not only which end of the arc a word marks, but what kind of thing it marks there.
@@ -7307,6 +7871,7 @@ All five sit at the far ends of a rise-and-fall curve: three name the top, two n
 > **On the exam:** The trap is never zenith/nadir — it's slotting *abject* where a point-in-time noun is required, or reading *prime* as a synonym for peak when the sentence wants the verb "prepared beforehand."
 
 
+<a id="antonym__playing-it-down-vs-puffing-it-up"></a>
 ### Playing it down vs. puffing it up
 
 Every word here measures the gap between what something actually is and how loudly it gets presented. One pole closes the gap downward — the claim comes in under the reality, by temperament, by taste, or by explicit disapproval. The other pole opens it upward — the manner, the vocabulary, the swagger, or the reputation is bigger than what's underneath. What separates the words inside each pole is *what* is being dialed up or down (a style, a number, a personality, a courage claim, a bid for status) and *who* gets to say it — most of these are verdicts an observer delivers, not labels anyone claims for themselves.
@@ -7326,6 +7891,7 @@ Every word here measures the gap between what something actually is and how loud
 > **On the exam:** The trap is polarity assumptions: the down-pole words are neutral-to-positive (**understated** and **retiring** are compliments, **modest** cuts both ways), and **hyperbole** is the up-pole word that carries no accusation of dishonesty — so a blank calling for "mere exaggeration, openly meant" rejects **bombastic** and **bravado**.
 
 
+<a id="antonym__praising-to-the-skies-vs-tearing-down"></a>
 ### Praising to the skies vs. tearing down
 
 All ten are formal, public verdicts on worth — someone with a platform declaring a person, an act, or a piece of work admirable or contemptible, on the record and with an audience. None of them is a private opinion: they belong to ceremonies, citations, editorials, reviews and inquiry reports. The traps are not up-versus-down, which is obvious, but the finer axes inside each half: who is doing the judging (one speaker, a crowd, an institution), what the verdict attaches to (an intention, a deed, a reputation, the criticism itself), and whether the word quietly editorialises about whether the verdict was deserved.
@@ -7344,6 +7910,7 @@ All ten are formal, public verdicts on worth — someone with a platform declari
 > **On the exam:** The direction is the easy half; the trap answer is right-direction-wrong-target — **laudable** goal vs. **meritorious** service, one speaker's **extol** vs. a field's **acclaim**, small-making **denigrate** vs. evil-making **vilify** — so read what the blank actually attaches to (an intention, a deed, a reputation, the criticism itself) before you pick.
 
 
+<a id="antonym__propping-up-vs-undermining"></a>
 ### Propping up vs. undermining
 
 Every verb here moves the strength of something along a scale — up or down — and almost always something abstract: an argument, an authority, a faculty, a mood, a claim's validity. What separates them is not the direction but the **axis** they act on: structural support, sheer quantity, bodily energy, evidentiary backing, or legal soundness. They also differ in whether the object was already ailing, whether the force comes from outside or from within, and whether anyone is to blame. Pairing them as simple opposites is what gets people into trouble; the true opposites here run in matched pairs along the same axis.
@@ -7363,6 +7930,7 @@ Every verb here moves the strength of something along a scale — up or down —
 > **On the exam:** The trap is cross-axis substitution — an answer choice that weakens in the wrong way (**impair** where the sentence needs **vitiate**'s invalidation, **attenuate** where it needs **undermine**'s stealth) — plus **enervate**, which looks like *energize* and means its opposite.
 
 
+<a id="antonym__pure-vs-adulterated"></a>
 ### Pure vs. adulterated
 
 These words all sit on one axis: whether a thing is free of foreign or inferior matter, or has had something lesser worked into it. Half describe the clean state (and the two processes that produce it — stripping impurities out, or boiling the essence down), half describe the damage (something cheap mixed in, value lowered, validity destroyed, shine dulled, motives revealed as grubby). The traps come from the *kind* of purity or corruption at stake: original vs. achieved, physical vs. abstract, surface vs. structural, value vs. validity.
@@ -7381,6 +7949,7 @@ These words all sit on one axis: whether a thing is free of foreign or inferior 
 > **On the exam:** The GRE rarely tests "pure vs. dirty"; it tests which axis — expect distill/refine and vitiate/tarnish/debase as the near-miss pairs, and watch for unalloyed and unadulterated arriving negated, where the sentence's real claim is *there's a catch*.
 
 
+<a id="antonym__raising-up-vs-bringing-down"></a>
 ### Raising up vs. bringing down
 
 All eleven move someone up or down a ladder — of office, of reputation, of worth. The elevating half differs mainly in **who does the raising** (an institution, a crowd, a patron, a private believer) and **how permanent it is**; the lowering half differs in **what actually gets taken** — the job, the rank, the quality, or just the audience's estimate. Almost none of them are about merit; they're about status being conferred or withdrawn by someone else. The trap is that a word can raise or lower a person without touching what they can actually do.
@@ -7400,6 +7969,7 @@ All eleven move someone up or down a ladder — of office, of reputation, of wor
 > **On the exam:** The up/down split is too easy to be the test; the exam works inside one half — asking whether the lowering verb took the office (**depose**, **oust**), the rank (**relegate**), the quality (**debase**), or only the audience's opinion (**belittle**, **marginalize**), and whether the exalting was done by an institution (**canonize**), a crowd (**lionize**), a patron (**anoint**), or a believer (**venerate**, **deify**).
 
 
+<a id="antonym__refusing-to-budge-vs-caving-in"></a>
 ### Refusing to budge vs. caving in
 
 Every word here answers one question: does the position hold when pressure is applied? The first five name the holding — a refusal that survives argument, pleading, time, or force — and are mostly the complaint of whoever is being blocked. The last five name the giving way, and they differ chiefly in what came *before* the surrender: a fight, a silence, an order, or a long stretch of harshness. The GRE's leverage is that the words are not simple opposites — each one presupposes a different backstory and a different relationship between the two parties.
@@ -7418,6 +7988,7 @@ Every word here answers one question: does the position hold when pressure is ap
 > **On the exam:** The trap is treating the surrender verbs as interchangeable: GRE sentences supply the backstory (a long siege, a swallowed objection, a rule, a softened harshness) and only one verb's presupposition fits — and it will pair the reversal with *unyielding* or *implacable* rather than a plain negation.
 
 
+<a id="antonym__rigidly-set-vs-easily-shaped"></a>
 ### Rigidly set vs. easily shaped
 
 Every word here answers one question: can this thing be given a new shape? The first six say no — a habit, position, doctrine, or law that resists whatever pressure is applied to it. The last six say yes — a material, mind, person, or problem that yields to hands, arguments, or method. The difficulty is that both halves are internally crowded: within "won't change" the words differ on *why* (age, decay, depth, theory, nature), and within "will change" they differ on *who does the shaping* and whether that's a compliment.
@@ -7438,6 +8009,7 @@ Every word here answers one question: can this thing be given a new shape? The f
 > **On the exam:** The exam rarely opposes these cleanly — it buries the split inside a sentence-equivalence pair where one option means *steerable by a person* and the other *solvable by a method* (tractable, amenable), or dangles **supple** where a contemptuous context actually demands **malleable**.
 
 
+<a id="antonym__ring-of-truth-vs-exposed-fake"></a>
 ### Ring of Truth vs. Exposed Fake
 
 Every word here sits on the gap between seeming true and being true. One end names the appearance of truth — how convincing something looks before anyone checks — and the other names the verdict delivered after someone checked and found nothing behind it. The confusion is that the first group sounds like an endorsement but never asserts truth, while the second sounds like neutral description but is always a judgement. The distinction to hold: does the word rate the surface, or pronounce on what's underneath?
@@ -7456,6 +8028,7 @@ Every word here sits on the gap between seeming true and being true. One end nam
 > **On the exam:** The trap is reading *plausible*, *credible*, and *verisimilitude* as claims of truth — every one of them is compatible with the thing being false, and sentence-equivalence items exploit exactly that gap; also keep *veracity* (truthfulness) clear of *voracity* (greed).
 
 
+<a id="antonym__rising-above-vs-falling-short"></a>
 ### Rising above vs. falling short
 
 Every word here plots something against a bar: a rival, an obstacle, a standard, a level you used to hold. Five of them clear it, four sag under it. What separates them is *what* is being cleared or lost — a moving competitor, an inert barrier, the measuring scale itself, a prolonged struggle, an enemy — and, on the failing side, whether the collapse is a mid-stride wobble, a long neglected fade, a slide back down ground already won, or simply a verdict delivered after the weighing.
@@ -7473,6 +8046,7 @@ Every word here plots something against a bar: a rival, an obstacle, a standard,
 > **On the exam:** The trap is object-type, not direction: GRE blanks reward knowing you surmount an obstacle, vanquish an enemy, outstrip a rate, and transcend a category — plus the two ambush senses, **prevailing** meaning "currently dominant" and **wanting** meaning "deficient," not "desiring."
 
 
+<a id="antonym__saying-it-outright-vs-hinting-at-it"></a>
 ### Saying it outright vs. hinting at it
 
 Every one of these concerns how much of a meaning gets put on the record. At one pole, the awkward thing is named plainly and on purpose; at the other it is transmitted anyway — by a gesture toward it, a softened substitute word, or silence that both parties read the same way. The trap is that both poles are successful communication; what separates them is whether the speaker can later be held to the words.
@@ -7491,6 +8065,7 @@ Every one of these concerns how much of a meaning gets put on the record. At one
 > **On the exam:** Two traps: *tacit* vs. *implicit* turns on whether a second party had to read the silence; and *implicit faith/trust/obedience* means "absolute," not "unstated."
 
 
+<a id="antonym__seeing-far-ahead-vs-seeing-no-further-than-your-nose"></a>
 ### Seeing far ahead vs. seeing no further than your nose
 
 Every word here rates a mind by its relationship to the future. One half is praise for seeing consequences before they arrive; the other half is blame for not seeing them at all. The distinctions are not about intelligence — they're about *range* (how far ahead) and *cause* (why the far thing wasn't seen: never noticed, noticed and forgotten, noticed and smiled past, noticed and stopped watching). The praise words also differ in what they credit: a correct call, a standing habit of judgment, a bold invention, or a safe choice.
@@ -7507,6 +8082,7 @@ Every word here rates a mind by its relationship to the future. One half is prai
 > **On the exam:** The trap is treating the group as two buckets: the exam splits *within* a side — prescient vs. prudent (right call vs. safe choice), myopic vs. oblivious (saw too little vs. saw nothing) — and floats **visionary** as praise when the sentence's context makes it a charge of impracticality.
 
 
+<a id="antonym__self-denial-vs-self-indulgence"></a>
 ### Self-denial vs. self-indulgence
 
 Every word here sits on one axis: how much pleasure, comfort or excess a person allows themselves. One half names restraint — chosen going-without, or the bare conditions that result from it. The other half names the collapse of restraint — appetite given free rein, and the decline or nausea that follows. The traps live inside each half, not across it: the restraint words split into *lives lived that way*, *things that look that way*, and *acts of declining*; the excess words split into a moral verdict, a character type, and a sheer quantity.
@@ -7526,6 +8102,7 @@ Every word here sits on one axis: how much pleasure, comfort or excess a person 
 > **On the exam:** The exam rarely tests restraint against excess; it tests *within* each half — **austere** vs. **ascetic** (conditions vs. creed), **forgo** vs. **eschew** (one perk vs. a principled category), **decadent** vs. **self-indulgent** (civilizational decline vs. one person's weakness) — and it always means **sober** in sense 2 and **decadent** in the harsh older sense, never the chocolate-advert one.
 
 
+<a id="antonym__settled-beyond-doubt-vs-still-in-doubt"></a>
 ### Settled beyond doubt vs. still in doubt
 
 Every word here rates how much doubt a claim still admits — and, just as often, *where* the doubt comes from. One half describes claims that are closed: nothing left to argue, no loophole, no need for proof at all. The other half describes claims still hanging in the air: too thin, too unsupported, too fishy, or simply not final yet. Two of them are verbs for the act of shoring a claim up, which is the bridge between the halves — and the real trap is that "not proven" splits several ways: no evidence, weak evidence, evidence that smells wrong, and evidence not yet in.
@@ -7546,6 +8123,7 @@ Every word here rates how much doubt a claim still admits — and, just as often
 > **On the exam:** The exam rarely tests proven-vs-doubtful; it tests which *flavour* of doubt — no evidence (conjectural, speculate), weak evidence (tenuous), evidence that smells (dubious, suspect), or nothing wrong at all, just not final (tentative) — and pairs corroborate with substantiate to check whether you know if the backing comes from a second party or from the claimant.
 
 
+<a id="antonym__settled-harmony-vs-open-feud"></a>
 ### Settled harmony vs. open feud
 
 All of these describe the state of relations between parties — how two sides stand toward each other after, or during, a dispute. One half names the condition of things being settled (agreed, patched up, conducted without rancour); the other names the condition of things being broken (bitterness, ill will, ongoing conflict). The trap is that they are not interchangeable within their own half: some name a *feeling*, some a *relationship*, some the *tone of a proceeding*, and some the *conflict itself*. Sorting them by which of those four things they attach to matters more than sorting them by hot and cold.
@@ -7562,6 +8140,7 @@ All of these describe the state of relations between parties — how two sides s
 > **On the exam:** The exam rarely tests hot vs. cold here — it tests grammatical slot: *amicable/acrimonious* modify a proceeding, *animosity* is felt, *enmity* is a standing relation, *strife* is the conflict; expect a wrong answer that is the right temperature but the wrong kind of noun (and a *consensus*-as-unanimity trap).
 
 
+<a id="antonym__sharp-edged-form-vs-shapeless-mass"></a>
 ### Sharp-edged form vs. shapeless mass
 
 Every one of these words is an answer to the same question: does the thing have edges? One half names the operations that give something edges — fixing where it stops, boiling it to a core, making its parts hold together, breaking it into sayable pieces. The other half names the ways a thing can fail to have edges — no shape at all, no shape *yet*, shape spread too thin to register, or shape hidden behind murk. The GRE loves the set because the failures are not interchangeable: a thing can be perfectly organised and still unreadable, or intensely felt and still nameless.
@@ -7578,6 +8157,7 @@ Every one of these words is an answer to the same question: does the thing have 
 > **On the exam:** The traps are the near-pairs: distill↔diffuse (concentration), delineate↔amorphous (edges), articulate↔inchoate (put into words vs. too new to name) — and turbid, which is muddy, not shapeless, so it never opposes delineate.
 
 
+<a id="antonym__solid-enough-to-touch-vs-dissolving-in-the-hand"></a>
 ### Solid enough to touch vs. dissolving in the hand
 
 These words sort the world by how much substance a thing has — whether it can be touched, shown, measured, or grasped, or whether it thins out the moment you reach for it. One half insists on evidence and physical presence; the other half names the various ways something can seem present without being solid. The trap is that "insubstantial" fractures into very different failures: no shape, no body, no reality, no duration, no reliable believer.
@@ -7595,6 +8175,7 @@ These words sort the world by how much substance a thing has — whether it can 
 > **On the exam:** The exam rarely pairs a clean opposite; it makes you pick *which kind* of insubstantiality the sentence set up — shapeless (amorphous), unreal (illusory), theoretical (abstract), or fading (evanescent).
 
 
+<a id="antonym__sound-reasoning-vs-rotten-reasoning"></a>
 ### Sound reasoning vs. rotten reasoning
 
 These are all verdicts on an argument rather than on the world: they judge how a claim was built, not whether the claim happens to be true. Half certify that the machinery works — the parts fit, the evidence is real, the conclusion follows. The other half say the machinery is broken or rigged, from an honest logical slip to an elegant construction designed to steer you. The trap in every one of them is the gap between reasoning and result: a well-built argument can reach a false conclusion, and a rotten one can stumble onto a true one.
@@ -7612,6 +8193,7 @@ These are all verdicts on an argument rather than on the world: they judge how a
 > **On the exam:** The exam baits you into reading the negatives as "false" and the positives as "true"; sort them instead by what each actually grades — source (empirical), internal fit (coherent), force (cogent), a broken step (fallacious), deceptive polish (specious, sophistry), no basis at all (spurious), engineered slant (tendentious).
 
 
+<a id="antonym__squandering-vs-thrift"></a>
 ### Squandering vs. thrift
 
 One axis: resources pouring out versus resources held back. The wasteful half all condemn — but they differ in scale, in whether the charge is moral or merely exasperated, and in what part of speech they occupy. The sparing half is the trap, because holding back can be a skill, a vice, or an emergency measure, and the exam picks whichever verdict you didn't expect.
@@ -7628,6 +8210,7 @@ One axis: resources pouring out versus resources held back. The wasteful half al
 > **On the exam:** Three built-in flips: **prodigal** never means *returning*, **parsimonious** turns complimentary when applied to a theory, and **economy** praises skill where *parsimony* condemns meanness.
 
 
+<a id="antonym__still-waters-vs-stormy"></a>
 ### Still Waters vs. Stormy
 
 Every word here answers one question: how disturbed is it? They run from surfaces nothing ruffles, through stillness that is only a pause or only a drop, to churning, shouting, racing, insubordinate agitation — and one word where nothing has moved yet but the trouble is already packed inside. The trap is that they are not simply points on a single dial. They differ in *what* is disturbed (a face, a scene, a system, a relationship, a chain of command), whether the quiet is genuine or merely current, and whether the agitation is physical motion, emotional heat, or political pressure.
@@ -7646,6 +8229,7 @@ Every word here answers one question: how disturbed is it? They run from surface
 > **On the exam:** The GRE picks these by *what* is disturbed, not how much: quiescent pairs against "active," subdued against a stated earlier liveliness, restive against obedient, and fraught against relaxed — so a straight calm/stormy reading will land you on the wrong choice.
 
 
+<a id="antonym__stirring-people-up-vs-calming-them-down"></a>
 ### Stirring people up vs. calming them down
 
 Every one of these verbs is somebody acting on other people's emotional temperature — raising it until they move, or lowering it until they stop. The first half assumes the crowd was quiet and someone made it loud; the second assumes it was loud and someone made it quiet. What separates them inside each half is mechanics: whether the pressure is a single spark or months of slow heat, aimed at one person or a whole population, applied by persuasion, irritation, a concession, or a boot. And the calming half splits again — some of these soothe the feeling, others simply crush the thing.
@@ -7664,6 +8248,7 @@ Every one of these verbs is somebody acting on other people's emotional temperat
 > **On the exam:** The traps are within each half, not across it: **incite** vs **foment** turns on a spark vs. slow heat, **quash** vs **suppress** on gone-in-one-stroke vs. held-down-and-still-pushing, and **mollify**/**placate** vs **quash**/**suppress** on whether the object is a person's feelings or the trouble itself.
 
 
+<a id="antonym__straight-answer-vs-dodging-the-question"></a>
 ### Straight answer vs. dodging the question
 
 These words all describe how a speaker handles a question or subject that is uncomfortable to answer — whether they meet it head-on or manage their way around it. Crucially, neither pole is about lying. The dodgers stop short of a flat falsehood (that's what makes them hard to pin down), and the straight-talkers do more than merely not lie: they volunteer, commit, or clarify when they had every excuse not to. What separates them is the *manner* under pressure — plus one imposter that rates only the clarity of the words, and another that declines without deceiving.
@@ -7682,6 +8267,7 @@ These words all describe how a speaker handles a question or subject that is unc
 > **On the exam:** The trap is the two words that don't belong to either pole: **articulate** grades clarity (an articulate answer can be evasive) and **demur** is mild objection, not deception — and on the honest side, **aver** measures certainty while **candid** measures disclosure, so they never swap.
 
 
+<a id="antonym__stripped-bare-vs-gilded"></a>
 ### Stripped bare vs. gilded
 
 Every word here judges how much decoration a thing carries — a room, a dress, a sentence, a story, a person's manner. One half describes surfaces with the ornament taken off; the other describes surfaces with ornament piled on. What separates words within each half is never the *amount* of decoration but the freight riding alongside it: whether the plainness was chosen or incidental, whether the excess is fussy or theatrical, and above all whether the writer approves. Several of these are verdicts wearing the costume of description.
@@ -7701,6 +8287,7 @@ Every word here judges how much decoration a thing carries — a room, a dress, 
 > **On the exam:** Sentence Equivalence pairs are built from the *freight*, not the decoration level: a blank about withheld comfort takes **spartan/austere**, one about withheld emphasis takes **understated**, and one about a performing motive takes **ostentatious** — and watch for the second senses (**florid** = flushed, **baroque** = the period) that make a passage read wrong until you switch.
 
 
+<a id="antonym__stung-by-conscience-vs-shameless"></a>
 ### Stung by Conscience vs. Shameless
 
 These words all measure one thing: whether a person's conscience registers a hit. On one side sits the flinch — before the act, after it, or as a standing habit of mind. On the other sits its conspicuous absence, where the wrong is done in full view and the offender declines to blush. What separates them within each camp is timing (before vs. after the deed), target (the act, the manner, or the person), and who is speaking — several of these are verdicts delivered from outside, loaded with the speaker's indignation.
@@ -7718,6 +8305,7 @@ These words all measure one thing: whether a person's conscience registers a hit
 > **On the exam:** The trap is assuming every word here concerns guilt: **chagrin** is wounded pride, **impudent** is breached rank, and **scrupulous** is a character trait rather than an episode of feeling.
 
 
+<a id="antonym__substance-vs-hot-air"></a>
 ### Substance vs. hot air
 
 Every word here rates the ratio of thought to words. One half praises language that carries more than its size — reasoning that holds, sentences that pay for themselves. The other half attacks language that carries less than its size — swelling, padding, or recycling where an idea should be. What makes them confusable is that all nine judge the *expression* rather than the facts, so the tell is the sign (earned or fraudulent) and the axis (logic, brevity, edge, bulk, staleness), not the topic.
@@ -7735,6 +8323,7 @@ Every word here rates the ratio of thought to words. One half praises language t
 > **On the exam:** The GRE tests these on valence signals ("for all his ___ delivery, the argument was ___") and loves the near-twins — aphorism/platitude share a form, bombastic/turgid share a vice — so knowing only which side a word sits on won't pick between the two answers on that side.
 
 
+<a id="antonym__sure-handed-vs-all-thumbs"></a>
 ### Sure-handed vs. all thumbs
 
 All of these judge how well someone handles a task — the hands, the tongue, the tricky moment — and the group runs from fluent command down through visible bungling. The positive half is nearly interchangeable in a dictionary and separates almost entirely by *domain* (fingers, mind, whole craft) and by *how much* praise is being granted. The negative half splits by *what* is being blamed: the performance, the manners, the body, the character, or the object itself.
@@ -7754,6 +8343,7 @@ All of these judge how well someone handles a task — the hands, the tongue, th
 > **On the exam:** Two traps: *adept/inept* look like a prefix pair but aren't related, and *feckless* is offered where the sentence actually needs incompetence at a task rather than lifelong uselessness — plus *facility* whose "building" sense is never the tested one.
 
 
+<a id="antonym__swelling-vs-dying-down"></a>
 ### Swelling vs. dying down
 
 Every word here moves an existing thing along a scale of size, force, or intensity — up in the first half, down in the second. None of them creates and none of them destroys: there is something before the change and something after, only more or less of it. What actually separates them is three things: **who is doing it** (an outside agent turning a dial vs. the thing changing on its own), **whether a prior peak or base is implied**, and **how the speaker feels about it** — promising, alarming, relieved, or coolly neutral.
@@ -7773,6 +8363,7 @@ Every word here moves an existing thing along a scale of size, force, or intensi
 > **On the exam:** Sort by agency first — **augment, amplify, attenuate, curtail** need a doer; **burgeon, escalate, subside, wane, dwindle, abate** happen on their own — then check whether a prior peak (*wane, subside*) or a zero endpoint (*dwindle*) is required; the classic trap is a blank wanting the *build* that gets filled with a peak word instead of **crescendo**.
 
 
+<a id="antonym__tactful-vs-tactless"></a>
 ### Tactful vs. tactless: manners, not morals
 
 All of these measure conduct against the unwritten rules of an occasion rather than against right and wrong. One half names the social judgment itself (or the standard it answers to); the other names its failure. None is a moral term: you can satisfy every one of these and still be a scoundrel, or breach them all and harm nobody. What separates them is *what* is being judged — a faculty, a manner, a code, or one offending act — and *who* is presuming to judge it.
@@ -7794,6 +8385,7 @@ All of these measure conduct against the unwritten rules of an occasion rather t
 > **On the exam:** The trap is moral escalation: sentences support only a breach of *form* (unseemly, indecorous, gauche) while a tempting choice condemns *character* (disgraceful, unscrupulous, malicious) — and among the positives, watch whether the blank needs a faculty (tact), a standard (decorum, propriety), or a manner (urbane, cordial).
 
 
+<a id="antonym__taking-in-vs-shutting-out"></a>
 ### Taking in vs. shutting out
 
 Every word here is about a boundary and which side something ends up on: pulled inside so it counts as part of the whole, or pushed outside so it doesn't count at all. The inclusion words differ over *how* the parts survive absorption — filed under a heading, fused beyond recognition, or simply covered with nothing left over. The exclusion words differ over *mechanism*: whether the target is demoted, expelled, walled in, held pending, or just quietly left to drift away. Confusion comes from treating them as interchangeable in/out labels when the exam is always testing the mechanism and the actor.
@@ -7812,6 +8404,7 @@ Every word here is about a boundary and which side something ends up on: pulled 
 > **On the exam:** The trap is treating these as generic in/out synonyms: the sentence's real clue is the mechanism and the actor — is the target still inside (marginalize), lower (relegate), ordered out (banish), drifting off unbidden (alienate), or held pending (quarantine)? — and on the other side, whether the parts survive as a labelled sub-case (subsume) or dissolve into one entity (amalgamate).
 
 
+<a id="antonym__taking-it-back-vs-holding-to-it"></a>
 ### Taking it back vs. holding to it
 
 Every word here answers one question: do you let go of the thing, or hold on to it? The first six are ways of releasing — a belief, an oath, a claim, a title, a person — and they differ by *what* gets released and how much shame, ceremony, or betrayal comes with it. The last four are ways of holding — to a rule, to a person, to a decision — and they differ by whether the constancy is procedural, loyal, or willed. The GRE builds sentences where a blank sits on one side of that hinge and the other side is stated plainly.
@@ -7830,6 +8423,7 @@ Every word here answers one question: do you let go of the thing, or hold on to 
 > **On the exam:** Sentence equivalence loves the release verbs as near-pairs — but only **recant/abjure** (a professed belief) and **renounce/relinquish** (a held claim) truly swap; **repudiate** adds hostility and **forsake** adds betrayal, so pairing across those lines is the wrong answer.
 
 
+<a id="antonym__talks-too-much-vs-says-little"></a>
 ### Talks too much vs. says little
 
 All of these measure speech against what the occasion actually required — either far past it or well short of it. None is a comment on truth or intelligence: the flood words never mean the speaker is wrong, only that no one could get out of the room, and the sparse words never mean the speaker has nothing to say. What separates them is *why* the amount is off — rambling triviality, easy fluency, single-topic thoroughness, cool deliberate brevity, fixed temperament, or deliberate withholding — and whether the speaker is judging, admiring, or merely noting.
@@ -7846,6 +8440,7 @@ All of these measure speech against what the occasion actually required — eith
 > **On the exam:** The exam's favourite traps: treating **reticent** as a synonym for shy or for **taciturn** (it needs a topic and implies choice), and building sentence completions where the blank is settled by whether the clause praises fluency (**voluble**) or complains about pointless content (**garrulous**).
 
 
+<a id="antonym__tangled-vs-plain-simple"></a>
 ### Tangled vs. plain-simple
 
 These words sit on a single axis: how much work it takes to get through something. On one end, things whose parts have multiplied, twisted, or been piled on until following them is a chore; on the other, things that go down without effort. The trap is that "hard" and "simple" each split several ways — a thing can be hard because it's tangled, because it's roundabout, or because it's over-decorated; and it can be easy because the content is beginner-level, because the skill is barely developed, or because a hard thing was presented perfectly. Those are different claims about different objects, and the exam tests exactly that difference.
@@ -7863,6 +8458,7 @@ These words sit on a single axis: how much work it takes to get through somethin
 > **On the exam:** A blank asking for the opposite of *convoluted* wants **lucid** (clarity of expression), not **elementary** or **rudimentary** — those downgrade the content's level or development, and the exam stocks all three as choices.
 
 
+<a id="antonym__textbook-case-vs-off-model-outlier"></a>
 ### Textbook case vs. off-model outlier
 
 Every word here positions a case against a pattern. One pole says the case *is* the pattern — the instance you'd point to, measure by, or expect; the other says it sits outside the pattern — the reading that won't fit, the detail that won't blend, the habit no one else has. The axis is fit with a model, not quality: a defining case can be a defining catastrophe, and an off-pattern case can be a breakthrough or a charming quirk. What separates the words inside each pole is *which* standard is invoked (an origin, a measuring line, mere habit) and how much blame the deviation carries.
@@ -7881,6 +8477,7 @@ Every word here positions a case against a pattern. One pole says the case *is* 
 > **On the exam:** The exam bets you'll read the first pole as praise and the second as condemnation — but **paradigmatic** and **benchmark** can label failures, and **anomalous** and **idiosyncratic** carry no fault at all; the live distinctions are anomalous (no blame) vs. aberrant (blame) and incongruous (clashes with a setting) vs. outlandish (excessive on its own).
 
 
+<a id="antonym__tireless-industry-vs-work-dodging"></a>
 ### Tireless Industry vs. Work-Dodging
 
 All of these sit on one axis: how much effort a person will actually put into work — and how the observer judges it. The positive half is not one virtue but four different ones (visible output, fine-grained care, refusal to tire, refusal to quit), which is why they are not interchangeable praise. The negative half splits just as finely: the failing may be a settled temperament, a shortfall of competence, the dodging of a specific duty, mere slowness of pace, or a job that was hollow to begin with. The trap is treating each half as a bag of synonyms; what the exam tests is *which* kind of effort is being credited and *where* the blame is being placed.
@@ -7901,6 +8498,7 @@ All of these sit on one axis: how much effort a person will actually put into wo
 > **On the exam:** Traps live in the mismatched pairings: *dilatory* is about tempo and possible intent (not laziness), *feckless* is incompetence (not comfort), *indolent* is disposition (not a dodged duty), and *sinecure* blames a job (not a worker) — so an "opposite of indefatigable" item will bait you with any lazy-sounding word instead of the one about stamina.
 
 
+<a id="antonym__tongue-lashing-vs-warm-approval"></a>
 ### Tongue-lashings vs. praise that counts
 
 Two poles of public verdict. On one side, words for verbal punishment: someone with a grievance goes on too long, too loudly, and the language records both the scolding and the scolder's loss of composure. On the other, words for approval that carries weight — praise issued by a crowd, an institution, or a judge whose opinion settles something, not affection between friends. The confusion within each pole is about *who* delivers it, *how long* it lasts, and whether the word is judging the target or quietly judging the speaker.
@@ -7918,6 +8516,7 @@ Two poles of public verdict. On one side, words for verbal punishment: someone w
 > **On the exam:** The GRE leans on part of speech and delivery: an "impassioned ___" wants the noun (tirade/harangue/objurgation), "___ him for his negligence" wants a verb that takes a named fault (upbraid), and it baits approbation into meaning mere liking or estimable into meaning "estimate-able."
 
 
+<a id="antonym__truthful-by-nature-vs-lying-by-nature"></a>
 ### Truthful by nature vs. false by design
 
 All nine judge the gap between what a person shows and what is actually true — and all treat that gap (or its absence) as a settled trait rather than a single incident. The first four say there is no gap: nothing is being hidden, whether from principle, from accuracy, or from never having learned to hide. The last five say the gap is the point, and they differ mainly in *what* is being concealed — the facts, the intent, the face, or the loyalty. Every one of them is formal; none of these words shows up in ordinary speech.
@@ -7935,6 +8534,7 @@ All nine judge the gap between what a person shows and what is actually true —
 > **On the exam:** The classic trap is the prefix pair: *ingenuous* → *disingenuous* is a real reversal, but *artless* → *artful* is not a clean one, and *artless* also means "crude" — so a sentence about a clumsy sketch can bait you into the wrong sense. Watch too for **probity** slotted where truthfulness is wanted: the context must involve funds, office, or trust, not honest speech.
 
 
+<a id="antonym__unshakeable-poise-vs-rattled"></a>
 ### Unshakeable Poise vs. Rattled
 
 Every word here assumes the same scene: something happens that could knock a person off balance — a hostile question, bad news, an insult, a sudden noise. The group splits on which half of that scene the word describes. Five name the composure that survives it (and they differ on whether the calm is inner, outward, permanent, or stylish); five name the balance giving way (and they differ on who or what is doing the knocking, and how hard). The traps live in the grammar as much as the meaning: some of these words attach to the rattled person, one attaches to the thing that rattles, and one is something an agent does to a victim.
@@ -7953,6 +8553,7 @@ Every word here assumes the same scene: something happens that could knock a per
 > **On the exam:** Two standard traps: **nonplussed** on the GRE means *stalled and blank*, never the colloquial American "unfazed"; and the negatives differ by grammatical role — a lawyer **discomfits** a witness, the witness is **flustered**, and the question itself is **disconcerting**.
 
 
+<a id="antonym__unwavering-vs-wavering"></a>
 ### Unwavering vs. wavering
 
 Every word here rates something on a single axis: does it hold its position over time, or not? One pole is praise for constancy — the mind, the loyalty, or the effort that stays put when staying is costly. The other pole is blame for instability — the mood, allegiance, decision, or performance that will not stay where you left it. The distinctions inside each pole are about *what* fails to move or fails to stay: a decision, an attachment, a temperament, a track record — and about who is judging.
@@ -7972,6 +8573,7 @@ Every word here rates something on a single axis: does it hold its position over
 > **On the exam:** Sentence-equivalence items hinge on a contrast word ("though," "far from"), so the pole is easy — the trap is picking the wrong flavor of instability: check whether the sentence is about loyalty (fickle), authority (capricious), danger (volatile), performance (erratic), or a stalled decision (irresolute/vacillate).
 
 
+<a id="antonym__wishing-well-vs-wishing-harm"></a>
 ### Wishing well vs. wishing harm
 
 Every word here describes the stance one party takes toward another's welfare — the good or harm intended, delivered, or simply made likely. They split along three axes the GRE loves: **disposition vs. deed** (wanting good/ill versus actually conferring it), **cost or occasion** (what the goodwill or malice required of the agent), and **agent vs. condition** (whether a person is behind it at all). Latin *bene-* and *male-* mark the poles, which is exactly why the mirrored pairs are so easy to blur.
@@ -7990,6 +8592,7 @@ Every word here describes the stance one party takes toward another's welfare �
 > **On the exam:** The classic traps: benevolent/beneficent (wish vs. deed) and benign/inimical, where the sentence describes conditions with no agent — if a person is doing it, benign and inimical are usually wrong.
 
 
+<a id="antonym__workable-vs-hopeless"></a>
 ### Workable vs. hopeless
 
 Every word here delivers a verdict on whether a plan, claim, or effort will hold up — and the whole group hinges on *which test* is being applied. Some certify only that the mechanics work out, some that the thing survives on its own, some that it withstands attack, some that it demonstrably delivered. On the failing side, the doom can sit in the execution, the goal, the reasoning, or the results — four different places for the same collapse. The GRE builds its traps in the gap between "possible," "sustainable," "defensible," and "actually produced something."
@@ -8007,6 +8610,7 @@ Every word here delivers a verdict on whether a plan, claim, or effort will hold
 > **On the exam:** The trap is treating the positive four as interchangeable synonyms for "possible" — feasible answers *can we do it*, viable *will it survive*, tenable *can it be defended*, efficacious *did it work*; on the failing side, check whether the sentence dooms the effort (futile), the goal (quixotic), the reasoning (fanciful), or the apparent result (illusory).
 
 
+<a id="antonym__worldly-vs-narrow"></a>
 ### Worldly vs. narrow
 
 Every word here rates how wide someone's frame of reference is — how much of the world outside their own patch they have taken in, and whether the unfamiliar meets ease or refusal. Half the group praises reach; half diagnoses its absence. The confusion is that they measure *different* widths: cultures, manners, taste, geography, or tolerance itself. They also differ in temperature — some are cool clinical diagnoses, one is a straight accusation, and one is pure snobbery.
@@ -8031,6 +8635,7 @@ Every word here rates how wide someone's frame of reference is — how much of t
 *Words built from the same root. Learn the root once and the family comes with it.*
 
 
+<a id="root__pathos"></a>
 ### pathos (feeling) + anti- (against): feeling against, feeling nothing, feeling into
 
 All three are built on Greek *pathos* — feeling, suffering — and each names a stance toward what someone else feels or does. The prefix decides everything: feeling *against* it, feeling *nothing* at all, or feeling *into* it. What makes them confusable is that two of them are negative and get used about the same subjects (a public, an electorate, an audience), so writers slide between "they're hostile to it" and "they can't be bothered." That slide is exactly the distinction the words exist to hold apart.
@@ -8042,6 +8647,7 @@ All three are built on Greek *pathos* — feeling, suffering — and each names 
 > **On the exam:** The classic trap is **antipathy** vs **apathy** in sentence completions: look at whether the surrounding clause describes a target (aversion *to* something specific) or a failure to respond (couldn't be *roused*, didn't turn out, shrugged) — hostility and indifference read alike in a blank but never in the sentence around it.
 
 
+<a id="root__facere"></a>
 ### Root: *facere* (to make, to do)
 
 Latin *facere* — "to make, to do" — sits under all of these, usually worn down to *-fic-*, *-feas-*, *-fect-*, *-fac-*. What each word inherits is a different question about the doing: can it be done at all, did it actually work, who did it, was the doer allowed to, and what got made in the process. They aren't synonyms, so the trap isn't meaning — it's that the shared root makes them look interchangeable on the page, and several of them are dressed in the same cold formal register.
@@ -8056,6 +8662,7 @@ Latin *facere* — "to make, to do" — sits under all of these, usually worn do
 > **On the exam:** Two swaps to watch: **feasible** offered where the sentence needs **efficacious** (doable ≠ it worked), and **factious** confused with *fractious* — a factious cabinet splits into camps, a fractious child just won't behave.
 
 
+<a id="root__finis"></a>
 ### Root: *finis* (boundary, end) — the limit shared, the limit unset, the limit reached
 
 Every word here is built on Latin *finis*, a boundary line — the edge where one thing stops and the next begins. The family splits by what each word does with that edge: one word puts two things on either side of the same border, one refuses to draw the border at all, and one works a thing up to its finished edge. Knowing the root gets you into the neighbourhood but not to the door, because the surface meanings — kinship, vagueness, polishing — look unrelated until you see the line underneath.
@@ -8067,6 +8674,7 @@ Every word here is built on Latin *finis*, a boundary line — the edge where on
 > **On the exam:** The classic traps are near-homophone drift: **indefinite** misread as *infinite* (endless) when it means merely unspecified, and **affinity** misread as chosen fondness when the point is inherent kinship.
 
 
+<a id="root__fundere"></a>
 ### Root: *fundere, fusum* — to pour
 
 All four come from Latin *fundere, fusum* — to pour — and each keeps a different direction of the pour. Something poured together becomes indistinguishable; poured apart, it thins to nothing; poured forth, it floods; poured out of a leaky vessel, it is simply lost. The confusion is partly visual — *-found*, *-fuse*, *fut-* all look like relatives, which they are — and partly conceptual, since three of them describe a failure of concentration and it's easy to blur which kind of failure each names: mixed, scattered, wasted, or overflowing.
@@ -8079,6 +8687,7 @@ All four come from Latin *fundere, fusum* — to pour — and each keeps a diffe
 > **On the exam:** The GRE rarely uses these in their easy senses: it wants **confound** = defeat expectation or conflate two things, **diffuse** as an adjective insulting an argument's structure — and it counts on you misreading *diffuse* (spread thin) as its homophone *defuse* (make harmless).
 
 
+<a id="root__petere"></a>
 ### Root: *petere* — to seek, aim at, rush toward
 
 Latin *petere* means motion with a target: to make for, aim at, rush at, and by extension to seek or ask. Each word here preserves a different slice of that motion — the aim landing on its mark, the rush itself, the snap at something small, or the favourable drift of things toward you. The prefixes do the sorting: seeking *together*, seeking *into*, seeking *forward*. In modern English their meanings share nothing; the root is a filing system, not a definition, so never reason from one to another.
@@ -8091,6 +8700,7 @@ Latin *petere* means motion with a target: to make for, aim at, rush at, and by 
 > **On the exam:** The exam never tests the root; it tests the two negative temperament words against each other — swap **impetuous** (too fast) for **petulant** (too small) and the sentence's logic quietly breaks — and leans on **competent**'s faint-praise ceiling and **propitious**'s strictly before-the-fact timing.
 
 
+<a id="root__aequus"></a>
 ### Root: aequus, aequalis (level, equal)
 
 Latin *aequus* means level, even, on the same plane — and its descendants apply that levelness to four completely different surfaces: a society, a mind, a judgement, and a sentence. Because they all sound like "equal," the temptation is to read every one of them as being about identical shares, which only one of them is actually near. Three carry the levelness as a virtue; one carries it as a defect, because the two things held level are two readings of what you just said.
@@ -8103,6 +8713,7 @@ Latin *aequus* means level, even, on the same plane — and its descendants appl
 > **On the exam:** The favorite trap is treating **equitable** as a synonym for *equal* (or for **egalitarian**) — the exam builds sentences where the fair outcome is explicitly the unequal one; the second trap is **equivocate**, whose root looks virtuous but whose sentence context is always accusatory.
 
 
+<a id="root__bene"></a>
 ### Root: bene- (well) + facere (to do) — beneficent / benevolent / benign
 
 All three descend from Latin *bene*, "well," and all three tell you that something is on your side — or at least not against you. The differences are about **how far the goodness travels**: from actually handing over the money, to merely wishing you well, to simply not hurting you. They also differ in what they attach to: two describe agents with the power to help, one mostly describes effects, conditions, and things that turn out not to be dangerous. Read them as a descending scale of commitment, not as synonyms for "kind."
@@ -8114,6 +8725,7 @@ All three descend from Latin *bene*, "well," and all three tell you that somethi
 > **On the exam:** The trap is treating them as interchangeable "kind": GRE contexts reward **benign** when the passage says a feared thing proved harmless, **benevolent** when goodwill is stated but unspent, and **beneficent** only when an actual benefit was delivered.
 
 
+<a id="root__cantare"></a>
 ### Root: cantāre, cantus (to sing, song) — the buried voice
 
 All three come from Latin *cantāre*, "to sing" — and in every one, the singing has become something a voice **does to** a thing: a tone laid over it, a spell sung onto it, a statement sung back and undone. The root is buried, so the family looks like coincidence rather than kinship; what actually survives is the idea that utterance changes status. One heightens what's already there, one binds a listener, one unmakes what was said. Recognising the root won't give you the meanings — but it explains why the spellings rhyme when the senses don't.
@@ -8125,6 +8737,7 @@ All three come from Latin *cantāre*, "to sing" — and in every one, the singin
 > **On the exam:** The GRE never tests the root — it tests whether *recant* means "retract publicly" (not merely "reconsider") and whether *accentuate* means "heighten what's there" (not "exaggerate" or "add"); the shared "cant" is a red herring the test counts on you over-reading.
 
 
+<a id="root__caput"></a>
 ### Root: caput, capitis (head) → capitulum (chapter, heading)
 
 Latin *caput*, "head," splits two ways here, and the split is the whole group. Routed through *capitulum* — a little head, hence a chapter heading — it produces words about points set out under headings: terms drawn up and signed, points gone back over in order. Routed through the plain literal head, it produces going head-first: over an edge, before you meant to. The result is near-identical spellings sitting on unrelated meanings, with one member of the group only pretending to be family.
@@ -8136,6 +8749,7 @@ Latin *caput*, "head," splits two ways here, and the split is the whole group. R
 > **On the exam:** The trap isn't the look-alike pair — it's **precipitate**, which the GRE tests as the adjective ("headlong, rash") far more often than as the verb everyone memorizes.
 
 
+<a id="root__cernere"></a>
 ### Root: cernere (to sift, separate, distinguish)
 
 Latin *cernere* means to sift — to run something through a sieve so the parts come apart and can be told from one another. Every word here reports on that sifting: whether a thing can be picked out from its background at all, whether a person sorts carefully what they let slip, whether anyone bothered to separate the deserving from the rest. The confusion is that the root lands in three different places — in the eye, in the judgment, and in the act of choosing — and two of the words sit next to near-homophone traps.
@@ -8147,6 +8761,7 @@ Latin *cernere* means to sift — to run something through a sieve so the parts 
 > **On the exam:** The exam leans on the near-twins — **discreet** (tactful) vs *discrete* (separate), and **discernible** (of the thing) vs *discerning* (of the observer); check whether the blank wants a property of the object or a virtue of the person.
 
 
+<a id="root__circum"></a>
 ### Root: circum- (around) — circumscribe, circumspect, circumstantial
 
 All three are built from *circum-* — "around" — and each puts the important action **at the perimeter rather than at the center**. A boundary is drawn around a thing to fix how far it may extend; a person looks around at the risks before stepping forward; facts stand around an event without ever touching it. The root is the only thing they share: one is something done *to* a freedom, one is a quality *of* a person, one is a status *of* evidence. Knowing the root tells you nothing about which word fits a sentence — only the slot it has to fill does.
@@ -8158,6 +8773,7 @@ All three are built from *circum-* — "around" — and each puts the important 
 > **On the exam:** The trap is treating a shared root as shared meaning: **circumscribe** limits a thing, **circumspect** describes a mind, **circumstantial** grades evidence — grammar, not etymology, tells you which one is even eligible.
 
 
+<a id="root__claudere"></a>
 ### Root: claudere (to shut, close)
 
 Latin *claudere* means "to shut," and every word here is a closing — the difference is entirely in *what* gets shut. A question can be closed, a passage can be closed, a future possibility can be closed off before it opens, and a person can shut himself in. The root gives you the certainty that something is sealed; it doesn't tell you which of those four things it is, and the prefixes are close enough in shape to blur under time pressure.
@@ -8170,6 +8786,7 @@ Latin *claudere* means "to shut," and every word here is a closing — the diffe
 > **On the exam:** The trap is **preclude** vs. **occlude** — one letter apart, but **preclude** takes only abstractions (possibilities, outcomes) and **occlude** only physical passages or views; a sentence-equivalence pair will hinge on exactly that.
 
 
+<a id="root__credere"></a>
 ### Root: crēdere (to believe, entrust)
 
 All three come from Latin *crēdere*, "to believe, entrust" — but they attach to completely different parts of the act of believing. One describes the claim (does it deserve belief?), one describes the listener (can they get it down?), and one describes a person whose "wrong belief" curdled centuries ago into plain bad behavior. The trap is assuming shared etymology means shared subject matter: they don't even take the same kind of noun.
@@ -8181,6 +8798,7 @@ All three come from Latin *crēdere*, "to believe, entrust" — but they attach 
 > **On the exam:** The classic swap is **incredulous** for *incredible* — remember incredulous needs a person, face, or tone; and don't confuse either with *credulous*, which means the opposite failing (believes everything).
 
 
+<a id="root__dicere"></a>
 ### Root: dicere, dictum (to say)
 
 All three descend from Latin *dicere* (to say), and all three name speech that comes down from a position of authority rather than across from an equal. None of them is conversation: one party pronounces, the other receives. What separates them is *which part of the act* each word names — the imposing, the finished pronouncement, or the accusation.
@@ -8192,6 +8810,7 @@ All three descend from Latin *dicere* (to say), and all three name speech that c
 > **On the exam:** The GRE usually wants the figurative **indictment** ("the results are an indictment of the policy" = damning proof, not a grand jury) and the impersonal **dictate** ("supply dictates price" = determines), while test-takers hunt for a courtroom or a tyrant.
 
 
+<a id="root__ducere"></a>
 ### Root: dūcere (to lead) — conducive, induce, subdued
 
 Latin *dūcere* means to lead, and each of these words is about one thing steering another into a state it wouldn't have reached alone — without ever using open force. Nothing here is a blunt cause; something is led *toward* an outcome, led *into* an action, or led *down* from a higher pitch. The confusion is that all three describe influence at one remove, so the real question is always: is the word naming the conditions, the agent, or the aftermath?
@@ -8203,6 +8822,7 @@ Latin *dūcere* means to lead, and each of these words is about one thing steeri
 > **On the exam:** The exam hides the root behind surface meanings — **subdued** reads as pure mood and **conducive** as pure setting — then offers *conducive* where a sentence needs an actual cause; if the blank takes a direct object or an agent, *conducive* is wrong on grammar alone.
 
 
+<a id="root__fervere"></a>
 ### Root: fervēre (to boil, glow)
 
 Latin *fervēre*, to boil or glow, gives this family a single image: emotion at high temperature. All of them describe feeling that is intense, sincere, and visible rather than cool and reasoned — the passion of the believer, the patriot, the devotee. What separates them is not how much heat but how the speaker feels about it, and whether the heat is being attributed to a person or simply named as a condition.
@@ -8214,6 +8834,7 @@ Latin *fervēre*, to boil or glow, gives this family a single image: emotion at 
 > **On the exam:** The trap is treating fervent and fervid as free substitutes — sentence-equivalence pairs hinge on whether the surrounding clause praises the feeling (fervent) or flags it as excessive (fervid).
 
 
+<a id="root__fingere"></a>
 ### Root: fingere (to shape, mould, invent)
 
 Latin *fingere* meant to shape clay, and from there to shape something that wasn't there before — an appearance, a movement, a meaning. Everything under this root is *made*, not found: a manufactured state, a manufactured motion, a manufactured sense of a word. The confusion is double. Two of them are pronounced identically (FAYNT) and both involve misdirection, while the third shares the "not the real thing" idea but carries no deceit at all.
@@ -8225,6 +8846,7 @@ Latin *fingere* meant to shape clay, and from there to shape something that wasn
 > **On the exam:** Sentence-equivalence items lean on the homophone split (feign = pretend to feel; feint = mislead by moving) and on figurative flipping to "representational" the instant the passage turns to painting.
 
 
+<a id="root__gignere"></a>
 ### Root: gignere, genitus (to beget) → genius (spirit)
 
 All three descend from *gignere* — to beget, to be born — and each keeps a different piece of that birth. One is about what gets brought into being; two are about the nature something was *born with*: a temperament born alongside yours, or an openness you were born with and never trained out of. What makes them confusable is not their meanings, which barely overlap, but their shared shell: three formal, bookish -gen- words, each a near-twin of a more common word it does not mean.
@@ -8236,6 +8858,7 @@ All three descend from *gignere* — to beget, to be born — and each keeps a d
 > **On the exam:** The trap here is orthographic, not semantic: ingenuous/ingenious and congenial/congenital differ by a letter or two and by everything else — read the stem twice before you read the sentence.
 
 
+<a id="root__jacere"></a>
 ### Root: jacere, jactus (to throw)
 
 All three are built from Latin *jacere*, "to throw," and in each the prefix — not the root — carries the whole meaning: thrown **down**, thrown **together**, thrown **under**. The result is three formal, Latinate adjectives that share a faint downgrading function: each demotes something, whether a person's standing, a claim's evidentiary status, or a judgment's authority. The trap is that "demotion" is where the similarity stops — one rates a condition, one rates proof, one locates where a judgment lives.
@@ -8247,6 +8870,7 @@ All three are built from Latin *jacere*, "to throw," and in each the prefix — 
 > **On the exam:** Sentence-equivalence baits **conjectural** against **subjective** in evidence contexts — ask whether the sentence complains that proof is missing (conjectural) or that no shared standard exists (subjective); for **abject**, reject traps like *severe* or *extreme* that carry the intensity but drop the loss of dignity.
 
 
+<a id="root__legere"></a>
 ### Root: legere (to pick out, read) — attention chosen, withheld, and received
 
 Latin *legere* means to pick out, gather, choose — and by extension, to read, since reading is picking letters out of a page. Every word here is about **selective attention**: what the mind picks up, fails to pick up, or has already picked out before it looks. The prefix does all the real work, so the shared root tells you the topic (attention, selection) but never the verdict. Note also that none of these three is a synonym for the others — they are relatives, not rivals, and the danger is treating a familiar root as a definition.
@@ -8258,6 +8882,7 @@ Latin *legere* means to pick out, gather, choose — and by extension, to read, 
 > **On the exam:** The exam doesn't confuse these with each other — it confuses each with its own near-twin (*intelligible* ≠ *intelligent*, *negligent* ≠ *negligible*), and punishes anyone who reasons from "*legere* = read" to a guessed meaning.
 
 
+<a id="root__loqui"></a>
 ### Root: loquī (to speak) — how well, how much, to whom
 
 Latin *loquī* means "to speak," and these three all describe speech — but each one pins down a different variable. One rates the **quality** of the talk, one rates the **quantity**, one specifies the **audience** (namely, that there isn't one). None of them is a synonym for another: a person can talk constantly and move no one, or speak beautifully in a single sentence, or speak brilliantly to an empty room.
@@ -8269,6 +8894,7 @@ Latin *loquī* means "to speak," and these three all describe speech — but eac
 > **On the exam:** Two favorite traps: swapping **loquacious** for **eloquent** (talking a lot ≠ talking well), and the wordless sense of **eloquent** in sentence-equivalence items like "her silence was more ______ than any protest."
 
 
+<a id="root__ludere"></a>
 ### Root: ludere (to play) — indirection, evasion, and things that aren't there
 
 Latin *ludere* means "to play," and the game in every one of these words is played between what's shown and what's actually there. Something is always held off-stage: pointed at but not named, kept from a third party, slipping away as you close on it, or present only as an appearance with nothing behind it. What makes the group treacherous is that the gap sits in a different place each time — sometimes in the speaker's tact, sometimes in the world's slipperiness, sometimes in one person's refusal to be corrected. Three of them are also near-homophones with genuinely different jobs.
@@ -8283,6 +8909,7 @@ Latin *ludere* means "to play," and the game in every one of these words is play
 > **On the exam:** The exam drops *allusive*, *elusive*, and *illusory* into the same answer set and lets your ear pick one: check whether the blank describes a style that hints, a thing that escapes, or a thing with nothing behind it.
 
 
+<a id="root__ob"></a>
 ### Root: ob- (against) — the heart, the will, the volume
 
 All three are built on **ob-** ("against") and all three name a resistance that won't give way to pressure. Each locates that resistance in a different place: in the heart that won't soften, in the will that won't reverse, in the body that won't be quieted. All three are verdicts from the person being blocked — nobody calls themselves any of these.
@@ -8294,6 +8921,7 @@ All three are built on **ob-** ("against") and all three name a resistance that 
 > **On the exam:** The trap is treating them as interchangeable "stubborn": check whether the sentence supplies pity being refused (obdurate), a losing argument being continued (obstinate), or actual disruptive noise (obstreperous).
 
 
+<a id="root__pendere"></a>
 ### Root: pendere (to weigh, hang, pay)
 
 Latin *pendere* is the merchant's scale: goods hung from a hook, weighed out, paid for. Every word here keeps one frame of that picture — the measured portion handed over, the weight suspended and not yet settled, the pan tipped permanently to one side. They don't overlap in meaning, which is exactly the danger: they share a spelling family and nothing else, so recognizing the root tells you where the image comes from but never what the word does in a sentence.
@@ -8306,6 +8934,7 @@ Latin *pendere* is the merchant's scale: goods hung from a hook, weighed out, pa
 > **On the exam:** The trap is direction, not definition: *dispense* hands out, *dispense with* throws away, and *indispensable* is that second sense negated — so a sentence-equivalence stem can hinge entirely on a two-letter preposition or a prefix.
 
 
+<a id="root__plicare"></a>
 ### Root: plicāre (to fold) — folded in, folded open, folds without breaking
 
 Latin *plicāre* is the fold, and this family splits by what the fold is doing. Fold something *in* and it's present but not on the page — meaning carried without being stated. Fold it *open* (ex-) and you've laid the thing out to be worked over, which slides easily from "make use of" to "use up." And a thing that simply takes a fold without cracking is bendable — a quality that is high praise for leather and a wrist, and an insult for a spine. So the group's real question is never "does it bend?" but *who folds it, and what happens after*.
@@ -8318,6 +8947,7 @@ Latin *plicāre* is the fold, and this family splits by what the fold is doing. 
 > **On the exam:** The root is never the trap — the traps are **implicit** sense 2 (absolute, not partial) and the fact that **pliant** and **supple** describe identical physical behaviour with opposite verdicts about the person.
 
 
+<a id="root__ponere"></a>
 ### Root: ponere, positus (to place)
 
 Latin *ponere / positus* means to put or place, and every word here is a different answer to the question *placed where?* — beside the matter, toward the purpose, down from a throne, or into a stance. Two of them place a remark (and are near-twins in sound and sense, which is the whole danger); one removes a person from a position; one holds a position for show. The root is a memory hook, not a meaning: knowing it tells you a placement is involved, never which one.
@@ -8330,6 +8960,7 @@ Latin *ponere / positus* means to put or place, and every word here is a differe
 > **On the exam:** The exam trades on the apposite/apropos overlap — if the sentence stresses *when* the remark came, it wants apropos; if it stresses *how exactly it fit*, apposite — and separately baits *apposite* against *opposite*.
 
 
+<a id="root__pes"></a>
 ### Root: pēs, pedis (foot) — freeing the feet vs. shackling them
 
 Latin *pēs, pedis* means "foot," and every word here is a metaphor about feet on a journey. *Ex-ped-* is pulling a foot out of the snare — getting free, getting moving. *Im-ped-* is the foot caught in a shackle — still able to shuffle, but slowed and encumbered. The whole group is therefore about *progress toward a goal* and whether it is being released, dragged on, or (in the last case) merely trudged through on foot instead of taking flight.
@@ -8343,6 +8974,7 @@ Latin *pēs, pedis* means "foot," and every word here is a metaphor about feet o
 > **On the exam:** The exam's favourite trap is **expedient**: the root and the neighbour *expedite* both smell efficient and useful, so test-takers slot it into a blank whose surrounding clause ("...though everyone knew it was wrong") is actually signalling compromised principle.
 
 
+<a id="root__rapere"></a>
 ### Root: rapere (to seize, snatch)
 
 Latin *rapere* means to seize or snatch, and each of these words keeps a different piece of that act. One keeps the grabbing hand and the hunger behind it; one keeps the violence of what gets carried off, leaving a stripped landscape; one keeps only the quickness — the snatch done before anyone can look up. Because the root splits three ways, these words are not synonyms and rarely substitute for one another; the confusion is that the shared etymology makes them feel like a scale of the same idea.
@@ -8354,6 +8986,7 @@ Latin *rapere* means to seize or snatch, and each of these words keeps a differe
 > **On the exam:** The trap is treating the shared root as shared meaning — the exam counts on you reasoning "seize" and picking the wrong one; choose by what the sentence emphasizes (the taker's hunger, the wreckage left, or the stealth of the doing).
 
 
+<a id="root__salire"></a>
 ### Root: salīre (to leap) — leap at, leap between, leap back
 
 Latin *salīre*, "to leap," survives in all three as a buried physical image, and the prefix decides where the leap goes: *at* a target, *away* from one thing to the next, *back* to the original shape. What unites them is motion under pressure — something springs, and the word records the direction. The confusion isn't that the meanings overlap (they barely do); it's that the shared root makes them feel related when they behave completely differently on the page. Two of the three describe force landing on something; the third describes energy that never lands anywhere at all.
@@ -8365,6 +8998,7 @@ Latin *salīre*, "to leap," survives in all three as a buried physical image, an
 > **On the exam:** The root is a memory aid, not an answer key — the GRE tests these in unrelated sentences, and the trap is letting "leap" pull you toward motion words when *desultory* is really about half-heartedness and *resilient* about recovery.
 
 
+<a id="root__sedere"></a>
 ### Root: sedere (to sit) — where you sit decides what you mean
 
 Each of these buries Latin *sedere*, "to sit," and none of them means anything like sitting. The work is done entirely by the prefix, which says **where** the sitting happens relative to something else: apart from the group, in wait beside the road, still there after the rest has gone, on top of what came before. So the root is a spelling and memory hook, not a meaning: it tells you a position is being taken toward some other thing, and the prefix tells you which position. Learn the four positions and the words stop blurring.
@@ -8377,6 +9011,7 @@ Each of these buries Latin *sedere*, "to sit," and none of them means anything l
 > **On the exam:** The root never picks the answer — these four never compete for one blank; the GRE tests each against its own near-twin (supersede/supplant, insidious/sinister, residual/remaining, dissident/rebel), so use *sedere* for spelling and recall only.
 
 
+<a id="root__sentire"></a>
 ### Root: sentire (to feel, to perceive)
 
 Latin *sentire* covers both halves of feeling: the physical registering of a stimulus and the inner emotional response to it. Every word here is a prefix or suffix hung on that stem — feeling *with* others, feeling *apart* from them, feeling *back* at an old wound, the raw *sensation* itself, the tender *sentiment*. The trap is assuming the root guarantees emotion: two of these are about the temperature of a group's agreement, and one is about jolting an audience's nerves rather than moving its heart. Knowing the root gets you into the neighbourhood; it will not tell you which house.
@@ -8390,6 +9025,7 @@ Latin *sentire* covers both halves of feeling: the physical registering of a sti
 > **On the exam:** The GRE's favourite move is swapping **sensational** and **sentimental** in criticism of prose — both mean "laid on too thick," but one overdoes shock and the other overdoes tenderness; secondarily it pairs **consensus** and **dissent** in text completions that hinge on consensus *not* meaning unanimity.
 
 
+<a id="root__solvere"></a>
 ### Root: solvere (to loosen, dissolve) — dissolving doubt into decision
 
 Latin *solvere* means to loosen or dissolve, and *re-* + *solvere* gives the family its shared move: a knot of doubt is dissolved and something previously unsettled becomes settled. Every word here turns on the same question — has the mind stopped moving? One names the act and the firmness itself, one praises a person in whom that firmness has already hardened, one convicts a person in whom it never formed. The confusion is that they describe the same axis from three different distances: the event, the settled state, and its failure.
@@ -8401,6 +9037,7 @@ Latin *solvere* means to loosen or dissolve, and *re-* + *solvere* gives the fam
 > **On the exam:** The trap is the technical sense of **resolve** — "separate into constituent parts / render distinguishable" (forces, stars, harmonies) — which the GRE prefers over the everyday "settle a dispute"; secondarily, it tests that *irresolute* carries blame while *undecided* does not.
 
 
+<a id="root__spargere"></a>
 ### Root: spargere (to scatter, sprinkle)
 
 Latin *spargere* is what you do with a handful of seed or a flick of water: throw so the pieces land apart, thin and separate, each one landing where it will. The root shows up in three grammatical slots — the act of breaking a mass apart, the thin state left behind afterward, and the figurative version where what gets sprinkled is doubt. Confusion comes from the shared picture of "spread out": all three describe things that are present but not concentrated. What separates them is what is being scattered, and whether anyone did the scattering on purpose.
@@ -8412,6 +9049,7 @@ Latin *spargere* is what you do with a handful of seed or a flick of water: thro
 > **On the exam:** The traps are semantic near-misses: **sparse** is offered where *scarce/meagre* is meant (it's about spacing, not shortage), and **aspersion** is offered where an open *accusation* is meant — GRE contexts usually cue it with a denial or a whispered, unrebuttable slight.
 
 
+<a id="root__specere"></a>
 ### Root: specere (to look) — who looks, and what survives a second look
 
 Latin *specere*, "to look," runs through every one of these — but each puts the looking in a different place. Some describe the **thing being looked at** (how visible it is, how well it survives a second look); others describe the **person doing the looking** (how sharp their eye is, how thin the evidence they're reasoning from). The confusion is that all five hover around the gap between how something appears and what it actually is. Sorting them means asking two questions: who is doing the looking, and has a verdict been reached?
@@ -8425,6 +9063,7 @@ Latin *specere*, "to look," runs through every one of these — but each puts th
 > **On the exam:** Two traps: *perspicacious* (sharp-eyed observer) versus the lookalike *perspicuous* (clearly expressed — a property of the text, not the reader); and *suspect* versus *specious*, where the exam rewards the weaker word when the sentence says "not yet disproven."
 
 
+<a id="root__stringere"></a>
 ### Root: stringere (to draw tight, bind)
 
 Latin *stringere* means to draw tight, bind, or squeeze. Every word here involves tension applied — something pulled taut, clamped down, or contracted. The confusion is that the tightening lands in different places: on a rule, on the tongue, or on the thing being squeezed. Two of them also look nearly identical on the page and differ by a single letter.
@@ -8436,6 +9075,7 @@ Latin *stringere* means to draw tight, bind, or squeeze. Every word here involve
 > **On the exam:** The classic trap is the missing *a-*: check whether the blank governs a rule or requirement (**stringent**) or a taste, tone, or style (**astringent**) — and don't assume **distressed** just means "upset" when the sentence is about assets or furniture.
 
 
+<a id="root__stare"></a>
 ### Root: stāre (to stand)
 
 Latin *stāre* gives all of these the image of something holding its position instead of moving, leaking, or falling. The root shows up in four directions: remaining in place over time, refusing to move at all, keeping something from running out, and being solid enough to hold weight. The overlap is structural rather than semantic — they are not synonyms, so the risk is misreading the root, not confusing the definitions.
@@ -8448,6 +9088,7 @@ Latin *stāre* gives all of these the image of something holding its position in
 > **On the exam:** Traps are the lookalikes, not the meanings: **stanch** (stop a flow) vs *staunch* (loyal), **staid** vs *stayed*, **extant** vs *extinct* — and in sentence equivalence, **substantiate** is swapped for *corroborate*, which wrongly demands a second independent source.
 
 
+<a id="root__sub"></a>
 ### Root: sub- (under, from below)
 
 Every word here puts one thing *under* another — but "under" does different work in each. In one it means beneath in rank; in another, back down to a lower level; in another, filed under a bigger heading; in the last, attacking from underneath. What makes them confusable is that all four describe a loss of height, standing, or independence, so under time pressure the prefix feels like the meaning. The discriminators are **who is doing it** and **what happens to the smaller thing**.
@@ -8460,6 +9101,7 @@ Every word here puts one thing *under* another — but "under" does different wo
 > **On the exam:** Sentence-completion items hinge on agency — a blank whose subject acts alone (fever, uproar, swelling) can only be **subside**; if an actor is named, ask whether the smaller thing is filed (**subsume**) or hollowed out (**subvert**).
 
 
+<a id="root__tacere"></a>
 ### Root: tacēre (to be silent)
 
 All three descend from Latin *tacēre*, "to be silent," and all three describe something that goes unsaid. The confusion is that they locate the silence in three different places: in a person's choice on one topic, in a person's permanent disposition, and in the agreement itself rather than in any person. Two of them describe speakers; one describes a thing that was never spoken. Getting them right means asking what the silence is *doing* — withholding, characterizing, or communicating.
@@ -8471,6 +9113,7 @@ All three descend from Latin *tacēre*, "to be silent," and all three describe s
 > **On the exam:** Sentence Equivalence loves offering *reticent* and *taciturn* as a "pair" — check for a topic: if the sentence names what he won't discuss, only **reticent** fits; if it describes him across all conversations, only **taciturn** does. **Tacit** is the giveaway distractor whenever the blank modifies a person instead of an agreement.
 
 
+<a id="root__tangere"></a>
 ### Root: tangere, tactus (to touch)
 
 Every word here is a metaphor about contact — how much of something is actually touching something else. Full contact means substance you can lay a hand on; a single point of contact means grazing past; contact between people means knowing exactly how hard to press. The root supplies the image, but each word chooses a different amount of touch, and that amount is the whole meaning.
@@ -8482,6 +9125,7 @@ Every word here is a metaphor about contact — how much of something is actuall
 > **On the exam:** The trap is that tangible and tangential share a root and their first four letters but sit at opposite ends of the contact scale — check whether the sentence is grading reality or relevance.
 
 
+<a id="root__tempus"></a>
 ### Root: tempus, temporis (time)
 
 All four descend from *tempus* — time — but each has drifted somewhere different, and the GRE tests the drift, not the root. Two stay literal (a point in time; a shared moment in time), one turns metaphysical (what exists in time is perishable, therefore worldly rather than eternal), and one wanders off through *tempestas*, "season/weather," into emotional storms. The confusion is that they all look like they should mean "having to do with time," so a test-taker reaches for a chronological reading where the intended sense is secular, or unprepared, or furious.
@@ -8494,6 +9138,7 @@ All four descend from *tempus* — time — but each has drifted somewhere diffe
 > **On the exam:** The GRE baits you with the root: sentences about *temporal* rulers or *contemporary* documents reward the non-chronological or eyewitness reading and punish the reflex "having to do with time."
 
 
+<a id="root__tendere"></a>
 ### Root: tendere (to stretch) — which way is it pulling?
 
 Latin *tendere* meant to stretch, strain, or pull taut — and every word here is a different answer to the question *stretched in which direction?* Something can be strained against an opposing force, pushed outward from within, let slack after being pulled tight, stretched forward in time, or pulled steadily toward one conclusion. The root gives you the tension; it never gives you the direction, and the direction is the entire meaning. These are five destinations from one starting point, which is why recognizing the root without pinning the vector is worse than useless.
@@ -8507,6 +9152,7 @@ Latin *tendere* meant to stretch, strain, or pull taut — and every word here i
 > **On the exam:** The GRE baits root-spotters: the sentence supplies tension, two *tendere* words match the vibe, and only one matches the vector — fix whether the stretch is against, outward, slackening, forward, or toward before you fill the blank.
 
 
+<a id="root__tenuis"></a>
 ### Root: tenuis (thin) — attenuate, extenuating, tenuous
 
 Latin *tenuis* means thin, and every word here is about something stretched thin rather than cut off. Each one reduces force — of a signal, of blame, of an argument's support — while leaving the thing itself standing. None of them means *remove*, *disprove*, or *clear*, and that surviving remnant is the whole family trait. They split by what gets thinned and by whether the word names an act, an excuse, or a verdict.
@@ -8518,6 +9164,7 @@ Latin *tenuis* means thin, and every word here is about something stretched thin
 > **On the exam:** Traps swap these for words of elimination — *nullify* for **attenuate**, *exonerating* for **extenuating**, *false* or *fabricated* for **tenuous** — but all three only thin; the thing survives.
 
 
+<a id="root__tenere"></a>
 ### Root: tenēre (to hold) — holding back, holding on, holding up
 
 All four descend from Latin *tenēre*, "to hold," and each keeps a different piece of that grip. The prefix decides the direction: *abs-* holds yourself away from something, *per-* holds all the way through to the thing that matters, and the bare stem holds a position against pressure. The trap is that a shared root guarantees nothing about shared meaning — two of these come from the same prefix and stem and still land in opposite parts of a sentence, one describing a person who won't let go and one describing a fact that belongs on the table.
@@ -8530,6 +9177,7 @@ All four descend from Latin *tenēre*, "to hold," and each keeps a different pie
 > **On the exam:** Pertinent and pertinacious are the whole game — one is a compliment to a fact, the other a complaint about a person — and tenable is baited with answer choices meaning "true" or "convincing" when it only means "not yet demolished."
 
 
+<a id="root__trahere"></a>
 ### Root: trahere, tractus — to drag, pull (abs-, de-, -able)
 
 Every word here is a different answer to the question *what gets pulled, and which way?* Latin **trahere/tractus** means to drag or draw, so each member describes a pull: something drawn off an object, something drawn away from its worth, or something that can be drawn along by whoever holds the lead. They look alike and they all involve subtraction or traction, which is exactly why the prefixes do the real work — **abs-/ab-** (away from), **de-** (down from), and the bare stem plus **-able** (capable of being pulled).
@@ -8541,6 +9189,7 @@ Every word here is a different answer to the question *what gets pulled, and whi
 > **On the exam:** Two traps: **abstract** baited with *vague/imprecise* (wrong — abstraction is distance from the concrete, not fuzziness), and **detract** offered in a sentence-equivalence answer missing its obligatory *from*; also expect **intractable** rather than tractable, and check whether the noun it modifies is a person (stubborn) or a problem (unsolvable).
 
 
+<a id="root__unda"></a>
 ### Root: unda (wave), via abundāre (to overflow)
 
 All three come from water rising past its edge, and all three describe a quantity that exceeds what the situation requires. What differs is where the excess sits: whether it simply *exists* in profusion, whether it *arrives* at someone who can't absorb it, or whether it's *already there twice*. They also differ in grammar and blame — one takes no object and assigns no fault, one needs a victim, and one is a verdict.
@@ -8552,6 +9201,7 @@ All three come from water rising past its edge, and all three describe a quantit
 > **On the exam:** The trap is treating them as interchangeable "too much": the GRE picks sentences where only one grammar works (abound takes no object, inundate needs a recipient) and loves redundant's positive engineering sense — deliberate duplication as a safeguard, not a flaw.
 
 
+<a id="root__vadere"></a>
 ### Root: vadere (to go) — out of, into, through
 
 Latin *vadere* means "to go," and each of these words is that going plus a direction: out of (e-), into (in-), through (per-). All four involve something crossing a line it either shouldn't cross or is trying not to be caught behind — a duty, a boundary, a habitat, a whole atmosphere. Three of them carry the implication of a violation; the confusion comes from mistaking which way the motion runs and whether a boundary is being fled, breached, or already dissolved.
@@ -8564,6 +9214,7 @@ Latin *vadere* means "to go," and each of these words is that going plus a direc
 > **On the exam:** The trap is **invasive** vs **pervasive**: invasive needs a violated boundary and something identifiable doing the violating; pervasive needs total saturation and no agent — so a sentence about corruption "throughout every ministry" wants pervasive, while one about questions "into her marriage" wants invasive.
 
 
+<a id="root__valere"></a>
 ### Root: valēre (to be strong, to be well)
 
 Latin *valēre* covers two overlapping ideas — to have physical force, and to be in good health — and its English descendants split that inheritance three ways. One tracks strength returning to a body, one tracks strength proving itself against opposition, one tracks strength as a virtue of character. All three assume a contest with weakness, sickness, or danger; the difference is where in that contest the word sits and whether it describes a condition, an outcome, or a quality worth honoring.
@@ -8575,6 +9226,7 @@ Latin *valēre* covers two overlapping ideas — to have physical force, and to 
 > **On the exam:** The exam almost never tests **prevail** as "win" — it tests *prevailing* meaning "currently dominant" (where the winning is forgotten) and *prevail upon* meaning "persuade"; and it uses **convalescent** figuratively for markets and institutions, where "recovering but still weak" is the whole answer.
 
 
+<a id="root__vertere"></a>
 ### Root: vertere / versus (to turn) — the prefix decides the direction
 
 Every word here is a turning, and the prefix says which way: turned against you, turned away from, turned apart, turned back (an argument), turned to many uses. Because the root image is the same, the words look like relatives and get swapped — especially the two that both mean "turn from/against." The real differences are grammatical and directional: who does the turning (a force outside you, or you yourself), what the turning attaches to (conditions, feelings, evidence, skills), and whether the turn is a fault or a virtue.
@@ -8588,6 +9240,7 @@ Every word here is a turning, and the prefix says which way: turned against you,
 > **On the exam:** The classic trap is adverse/averse: the exam offers "adverse to risk" where only *averse* (or *aversion*) fits, banking on the shared root to hide the fact that one describes a force and the other a feeling.
 
 
+<a id="root__via"></a>
 ### Root: via (road, way)
 
 Latin *via* is a road, and each of these words freezes a different moment on it: leaving the road, taking a crooked one, standing in the road to block it, and the crossroads where everybody walks. The trap here is not meaning but shape — three of them start with a *-vi-* cluster and get mixed up on sight, and the fourth hides its road entirely. Once you can name which relation to the road each one encodes, they stop bleeding into each other.
@@ -8600,6 +9253,7 @@ Latin *via* is a road, and each of these words freezes a different moment on it:
 > **On the exam:** The GRE's favourite here is **obviate**, baited by *obvious* — sentences reward "make unnecessary" and punish "make clear"; secondarily it swaps **deviate** and **devious** in answer pairs, where only one can take *from*.
 
 
+<a id="root__vocare"></a>
 ### Root: vocāre (to call)
 
 Latin *vocāre*, "to call," and every word here is a species of calling — but they differ in who is called, by whom, and how hard. One calls *to* an audience on someone's behalf, one calls something *out* of a listener's memory gently and unbidden, one calls a reaction *forth* on purpose. The prefix does all the work: *ad-* (toward), *e-* (out of), *pro-* (forth). The confusion is that all three describe a stimulus producing a response, so they look interchangeable until you ask whether the response was pleaded for, quietly summoned, or deliberately baited.
@@ -8611,6 +9265,7 @@ Latin *vocāre*, "to call," and every word here is a species of calling — but 
 > **On the exam:** The exam's favourite trap is swapping **evoke** for **provoke/provocative** — a passage that quietly summons nostalgia is not one that deliberately picks a fight; watch also for **provocative** in a tone question, where it can be the credit or the charge.
 
 
+<a id="root__verus"></a>
 ### Root: vērus (true) — asserting it, having it, faking it
 
 All three descend from Latin *vērus*, "true," but each fastens onto a different link in the chain between a fact and the person reporting it. One is the act of putting a claim forward as true; one is the property of being true (and of being the kind of source that tells the truth); one is the mere look of truth, which can sit on something entirely false. All three are formal enough that they signal courtroom, criticism, or reportage rather than ordinary speech.

@@ -26,6 +26,11 @@ That *unda* pays out across the exam: **abundant**, **inundate** (flood in), **u
 
 🚫 Nothing to do with **bound**. No leaping, no boundary.
 
+### Also sits in
+- **Meaning cluster** · [Present in great quantity](groups.md#meaning__present-in-great-quantity) — with *copious, profuse, prodigious*
+- **Opposites** · [Overflowing supply vs. shortage](groups.md#antonym__overflowing-supply-vs-shortage) — with *copious, profuse, surfeit, inundate, dearth, scant, sparse, wanting, paltry*
+- **Root family** · [Root: unda (wave), via abundāre (to overflow)](groups.md#root__unda) — with *inundate, redundant*
+
 ---
 
 # **amorphous** *(adj.)* — **uh-MOR-fuhs**
@@ -52,6 +57,11 @@ Note where the word actually turns up: less often on clouds and jellyfish than o
 ### Where it comes from
 Greek **a-** (*without*) + **morphē** (*form*). One root, a lot of GRE mileage: **metamorphosis** (change of form), **morpheme** (smallest unit of meaning-form), **anthropomorphic** (given human form), **polymorphous** (many forms), and **morphine** — named for **Morpheus**, the shape-shifting god of dreams.
 
+### Also sits in
+- **Meaning cluster** · [Without Clear Shape](groups.md#meaning__without-clear-shape) — with *inchoate, indefinite, diffuse*
+- **Opposites** · [Sharp-edged form vs. shapeless mass](groups.md#antonym__sharp-edged-form-vs-shapeless-mass) — with *delineate, distill, coherent, articulate, inchoate, diffuse, turbid*
+- **Opposites** · [Solid enough to touch vs. dissolving in the hand](groups.md#antonym__solid-enough-to-touch-vs-dissolving-in-the-hand) — with *tangible, corporeal, palpable, empirical, illusory, delusion, abstract, evanescent*
+
 ---
 
 # **austere** *(adj.)* — **aw-STEER**
@@ -75,6 +85,11 @@ Lock the rhyme, then add the one thing severe lacks: what's austere has had ever
 
 ### Where it comes from
 Greek **austērós** = *"drying, harsh to the tongue"* — first said of wine and unripe fruit that puckers your mouth. That's the whole flavour of the word: something with all the sweetness taken out.
+
+### Also sits in
+- **Meaning cluster** · [Bare and comfortless](groups.md#meaning__bare-and-comfortless) — with *unadorned, spartan, ascetic*
+- **Opposites** · [Self-denial vs. self-indulgence](groups.md#antonym__self-denial-vs-self-indulgence) — with *ascetic, spartan, abstain, forgo, eschew, sober, decadent, libertine, self-indulgent, surfeit*
+- **Opposites** · [Stripped bare vs. gilded](groups.md#antonym__stripped-bare-vs-gilded) — with *unadorned, spartan, utilitarian, understated, ornate, baroque, florid, flamboyant, embellish, ostentatious*
 
 ---
 
@@ -112,6 +127,11 @@ Old English **belēogan** = *"to deceive by lying"* — **be-** ("about, over") 
 
 🚫 Not the *lie* that means recline (Old English *licgan*), and no relation to **believe**, despite the look.
 
+### Also sits in
+- **Meaning cluster** · [Show a claim is false](groups.md#meaning__show-a-claim-is-false) — with *refute, gainsay, debunk*
+- **Lookalike** · [belie / belittle / betray](groups.md#lookalike__belie-belittle) — with *belittle, betray*
+- **Opposites** · [Asserting vs. disproving](groups.md#antonym__asserting-vs-disproving) — with *aver, contend, advocate, corroborate, impugn, gainsay, debunk, refute*
+
 ---
 
 # **capricious** *(adj.)* — **kuh-PRISH-uhs**
@@ -140,6 +160,12 @@ Italian **capriccio** = *"a whim, a sudden start"* — and Italians linked it to
 
 The goat runs through the family: **Capricorn** (the goat-horned sign), **caper** (to skip about), **capriole** (a horse's leap), **caprice** (the whim itself). In music a **capriccio** is a piece that changes direction on impulse — same idea, scored.
 
+### Also sits in
+- **Meaning cluster** · [Whim over reason](groups.md#meaning__changing-without-warning) — with *fickle, mercurial, volatile, arbitrary*
+- **Intensity scale** · [Changeable to dangerously unstable](groups.md#intensity__changeable-to-dangerously-unstable) — with *fickle, mercurial, volatile*
+- **Connotation** · [Changeability condemned](groups.md#connotation__changeability-condemned) — with *fickle, erratic, mercurial, volatile*
+- **Opposites** · [Unwavering vs. wavering](groups.md#antonym__unwavering-vs-wavering) — with *steadfast, resolute, stalwart, dogged, mercurial, fickle, vacillate, irresolute, volatile, erratic*
+
 ---
 
 # **cerebral** *(adj.)* — **suh-REE-bruhl**
@@ -162,6 +188,10 @@ Same grammar, opposite organ — and the organ tells you the temperature, since 
 
 ### In the wild
 **Cerebral palsy** — the everyday medical term that pins the root down: a condition originating in the **brain**, not the muscles.
+
+### Also sits in
+- **Meaning cluster** · [Kinds of Smart: Learned, Broad, Retentive, Analytical](groups.md#meaning__deeply-learned) — with *erudite, polymath, encyclopedic*
+- **Opposites** · [Emotion on display vs. emotion locked down](groups.md#antonym__emotion-on-display-vs-emotion-locked-down) — with *histrionic, hysterical, mawkish, sentimental, tempestuous, stoic, phlegmatic, stolid, imperturbable*
 
 ---
 
@@ -195,6 +225,11 @@ Latin **con-** (*together*) + **genialis**, from **genius** — your guardian sp
 
 That root is a GRE goldmine: **genius, genial, genuine, genus, generate, gene, progeny** — and **congenital**, literally *"born together with you,"* which is exactly why it means "from birth" and not "friendly."
 
+### Also sits in
+- **Meaning cluster** · [Friendly — but friendly how?](groups.md#meaning__warmly-sociable) — with *amicable, cordial, convivial, gregarious*
+- **Opposites** · [At home among people vs. shut away from them](groups.md#antonym__at-home-among-people-vs-shut-away-from-them) — with *gregarious, convivial, vivacious, recluse, aloof, misanthropic, retiring, insular*
+- **Root family** · [Root: gignere, genitus (to beget) → genius (spirit)](groups.md#root__gignere) — with *engender, ingenuous*
+
 ---
 
 # **conspicuous** *(adj.)* — **kuhn-SPIK-yoo-uhs**
@@ -227,6 +262,13 @@ Latin **specere** = *"to look"*, with **con-** as an intensifier: *fully in view
 
 That root is a GRE goldmine: **spectacle, inspect, prospect, suspicion, specimen, perspicacious** — all of them about looking.
 
+### Also sits in
+- **Meaning cluster** · [Impossible to miss](groups.md#meaning__impossible-to-miss) — with *manifest, patent, overt, flagrant, egregious*
+- **Meaning cluster** · [Showy — and whether anyone meant it](groups.md#meaning__showy-for-the-audience) — with *ostentatious, flamboyant, florid*
+- **Intensity scale** · [Barely detectable to brazen](groups.md#intensity__barely-visible-to-blatant) — with *discernible, manifest, patent, flagrant*
+- **Opposites** · [Hidden vs. out in the open](groups.md#antonym__hidden-vs-out-in-the-open) — with *covert, clandestine, surreptitious, furtive, ulterior, overt, manifest, patent, flagrant*
+- **Root family** · [Root: specere (to look) — who looks, and what survives a second look](groups.md#root__specere) — with *perspicacious, specious, speculate, suspect*
+
 ---
 
 # **cursory** *(adj.)* — **KER-suh-ree**
@@ -252,6 +294,12 @@ Lawyers and journalists lean on one stock phrase: **\"even a cursory glance at t
 Latin **currere** = *"to run"* (via *cursor*, "a runner"). A cursory look literally *runs past* its subject.
 
 That root is a GRE goldmine: **current** (water running), **occur**, **recur**, **incur**, **concur**, **excursion** (a run out), **precursor** (one who runs ahead), **courier**, **discourse**.
+
+### Also sits in
+- **Meaning cluster** · [Four Ways of Not Really Doing It](groups.md#meaning__gone-through-without-care) — with *perfunctory, superficial, token*
+- **Intensity scale** · [Effort withheld](groups.md#intensity__effort-withheld) — with *superficial, perfunctory, token*
+- **Opposites** · [Deep vs. skin-deep](groups.md#antonym__deep-vs-skin-deep) — with *profound, profundity, penetrating, erudite, exhaustive, encyclopedic, superficial, perfunctory, glib, dilettante*
+- **Opposites** · [Meticulous vs. slapdash](groups.md#antonym__meticulous-vs-slapdash) — with *meticulous, punctilious, scrupulous, thorough, fastidious, perfunctory, haphazard, slovenly, lax, negligent*
 
 ---
 
@@ -311,6 +359,14 @@ Latin **deus** (*god*) + **-ficare** (*to make*, from *facere*). Literally "god-
 
 *Deus* is a workhorse root: **deity**, **divine**, **deism**, **deus ex machina** — and **adieu**, which is French *à Dieu*, "to God."
 
+### Also sits in
+- **Meaning cluster** · [Raising to Sacred Status](groups.md#meaning__exalt-to-sacred-status) — with *venerate, canonize, anoint*
+- **Second meaning** · [Church words for secular devotion](groups.md#second-meaning__church-words-for-secular-devotion) — with *venerate, anoint, canonize, disciple, acolyte, exorcise*
+- **Intensity scale** · [Praise to worship](groups.md#intensity__praise-to-worship) — with *acclaim, extol, lionize, venerate*
+- **Connotation** · [Devotion that stops questioning](groups.md#connotation__devotion-that-stops-questioning) — with *acolyte, disciple, apologist, zealous*
+- **Connotation** · [Praise loud enough to stop judging](groups.md#connotation__praise-loud-enough-to-stop-judging) — with *extol, acclaim, lionize, canonize, tout*
+- **Opposites** · [Raising up vs. bringing down](groups.md#antonym__raising-up-vs-bringing-down) — with *anoint, lionize, canonize, venerate, depose, oust, relegate, debase, belittle, marginalize*
+
 ---
 
 # **didactic** *(adj.)* — **dye-DAK-tik**
@@ -342,6 +398,11 @@ Every Aesop fable that ends **"and the moral of the story is…"** is didactic l
 Greek **didaskein** = *"to teach."*
 
 Worth the detour for its cousin: **autodidact** — *self*-teacher, someone educated without schooling. That one shows up on the GRE more often than *didactic* does.
+
+### Also sits in
+- **Meaning cluster** · [Meant to improve you morally](groups.md#meaning__meant-to-improve-you-morally) — with *edify, exhort*
+- **Lookalike** · [didactic / pedantic / pedestrian](groups.md#lookalike__didactic-pedantic) — with *pedantic, pedestrian*
+- **Connotation** · [Virtue performed rather than held](groups.md#connotation__virtue-performed-rather-than-held) — with *sanctimonious, pious, hypocrite, posturing*
 
 ---
 
@@ -377,6 +438,10 @@ That root pays off across the exam: **seminal** (an idea that seeds everything a
 
 English did the same metaphor twice — *broadcast* originally meant sowing seed by hand across a wide arc, long before radio borrowed it.
 
+### Also sits in
+- **Meaning cluster** · [Spread widely outward](groups.md#meaning__spread-widely-outward) — with *propagate, disperse, diffuse*
+- **Opposites** · [Letting it out vs. keeping it in](groups.md#antonym__letting-it-out-vs-keeping-it-in) — with *divulge, betray, apprise, suppress, censor, cloak, occlude, reticent*
+
 ---
 
 # **feasible** *(adj.)* — **FEE-zuh-buhl**
@@ -409,6 +474,12 @@ Old French **faisable**, "doable," from **faire** ← Latin **facere** = *"to do
 
 That root is a GRE goldmine: **facile** (easily done), **factotum** (does everything), **efficacious** (gets it done), **artifice**, **benefactor**, **deficient**, **feat**.
 
+### Also sits in
+- **Meaning cluster** · [Can Be Made to Work](groups.md#meaning__can-be-made-to-work) — with *viable, tenable, sound*
+- **Lookalike** · [feasible / plausible / viable](groups.md#lookalike__feasible-plausible) — with *plausible, viable*
+- **Opposites** · [Workable vs. hopeless](groups.md#antonym__workable-vs-hopeless) — with *viable, tenable, efficacious, fruitful, futile, quixotic, fanciful, illusory*
+- **Root family** · [Root: *facere* (to make, to do)](groups.md#root__facere) — with *counterfeit, efficacious, factious, malfeasance, proficient*
+
 ---
 
 # **flout** *(v.)* — **FLOWT**
@@ -435,6 +506,12 @@ A secret violation is never a flout; the whole word depends on being seen.
 
 ### In the wild
 Pandemic headlines ran on this verb — "partygoers **flouting** lockdown rules" was in the news almost daily in 2020, always with that tut-tutting official tone.
+
+### Also sits in
+- **Meaning cluster** · [Breaking rules: the breach, the text, the line, the deed](groups.md#meaning__break-the-rule-openly) — with *contravene, transgression, perpetrate*
+- **Intensity scale** · [Mild objection to revolt](groups.md#intensity__mild-objection-to-revolt) — with *demur, dissent, mutiny*
+- **Opposites** · [Falling in line vs. breaking ranks](groups.md#antonym__falling-in-line-vs-breaking-ranks) — with *comply, adhere, acquiesce, deference, obeisance, tractable, dissent, dissident, contravene, mutiny, obstreperous*
+- **Opposites** · [Held sacred vs. treated as fair game](groups.md#antonym__held-sacred-vs-treated-as-fair-game) — with *sacrosanct, inviolate, venerate, numinous, canonize, irreverent, iconoclastic, deride*
 
 ---
 
@@ -470,6 +547,10 @@ Greek **homos** = *"same"* + **genos** = *"kind, race."*
 
 *Homos* is a workhorse: **homonym** (same name), **homophone** (same sound), **homogenize**. Its partner **heteros** (*other*) gives you **heterogeneous**, **heterodox** — learn the pair and you get both halves of any GRE contrast sentence.
 
+### Also sits in
+- **Lookalike** · [heterodox / heterogeneous / homogeneous](groups.md#lookalike__heterodox-heterogeneous) — with *heterodox, heterogeneous*
+- **Opposites** · [All of a kind vs. mixed in kind](groups.md#antonym__all-of-a-kind-vs-mixed-in-kind) — with *fungible, interchangeable, analogous, universal, heterogeneous, disparate, divergent, eclectic, hodgepodge*
+
 ---
 
 # **humdrum** *(adj. / n.)* — **HUM-drum**
@@ -487,6 +568,12 @@ The word is literally the sound of something droning on unchanged, which is exac
 ### In sentences
 1. After the expedition, he found the **humdrum** rhythm of committee meetings and commuter trains almost unbearable.
 2. Same desk, same sandwich, same bus home — it's all a bit **humdrum**, honestly.
+
+### Also sits in
+- **Meaning cluster** · [Dull — by sameness, by length, by pace](groups.md#meaning__boring-by-repetition) — with *monotonous, tedious, interminable, plodding*
+- **Intensity scale** · [Degrees of tedium](groups.md#intensity__degrees-of-tedium) — with *monotonous, tedious, soporific*
+- **Connotation** · [Ordinary, delivered as a verdict](groups.md#connotation__ordinary-delivered-as-a-verdict) — with *mundane, prosaic, pedestrian, banal*
+- **Opposites** · [Gripping vs. sleep-inducing](groups.md#antonym__gripping-vs-sleep-inducing) — with *arresting, enthrall, compelling, scintillating, piquant, soporific, tedious, monotonous, plodding, insipid, vapid*
 
 ---
 
@@ -515,6 +602,13 @@ Standard wine- and food-critic vocabulary: an **insipid** wine is one with no ac
 Latin **in-** (*not*) + **sapidus** (*tasty*), from **sapere** = *"to taste"* — and, because taste and judgement were one idea to the Romans, also *"to be wise."*
 
 That double sense pays out across the exam: **sapid** (full of flavour), **savour**, **savoury**, **sage**, **sapient**, **Homo sapiens** — the "wise" ape, literally the one with taste.
+
+### Also sits in
+- **Meaning cluster** · [Dull: flat, plodding, flavourless, empty](groups.md#meaning__dull-and-unimaginative) — with *prosaic, pedestrian, vapid*
+- **Lookalike** · [insidious / invidious / insipid / vapid — near-twins, different verdicts](groups.md#lookalike__insidious-insipid) — with *insidious, invidious, odious, vapid, vacuous, intrepid*
+- **Second meaning** · [Kitchen words for people and prose](groups.md#second-meaning__kitchen-words-for-people-and-prose) — with *tepid, cloying, piquant, relish*
+- **Connotation** · [Empty where substance was expected](groups.md#connotation__empty-where-substance-was-expected) — with *vacuous, vapid, tepid, frivolous*
+- **Opposites** · [Gripping vs. sleep-inducing](groups.md#antonym__gripping-vs-sleep-inducing) — with *arresting, enthrall, compelling, scintillating, piquant, soporific, tedious, humdrum, monotonous, plodding, vapid*
 
 ---
 
@@ -546,6 +640,13 @@ Latin **loquī** = *"to speak."* One of the highest-yield GRE roots going:
 
 Spot *loqu-* or *locu-* and you're looking at a word about talking.
 
+### Also sits in
+- **Meaning cluster** · [Talking Too Much: Where the Complaint Lands](groups.md#meaning__talking-too-much) — with *garrulous, voluble, ramble*
+- **Intensity scale** · [Talking too much: voluble → loquacious → garrulous → prolix](groups.md#intensity__talking-too-much) — with *voluble, garrulous, prolix*
+- **Connotation** · [Talks a lot — the word does the judging](groups.md#connotation__talks-a-lot-the-word-does-the-judging) — with *voluble, garrulous, ramble, expatiate, verbose, prolix*
+- **Opposites** · [Talks too much vs. says little](groups.md#antonym__talks-too-much-vs-says-little) — with *garrulous, voluble, expatiate, ramble, laconic, taciturn, reticent*
+- **Root family** · [Root: loquī (to speak) — how well, how much, to whom](groups.md#root__loqui) — with *eloquent, soliloquy*
+
 ---
 
 # **misanthropic** *(adj.)* — **mis-uhn-THROP-ik**
@@ -573,6 +674,12 @@ The **Grinch** is the pop-culture misanthrope in full: he doesn't have a quarrel
 Greek **misein** (*to hate*) + **anthrōpos** (*human being*).
 
 Both halves pay off elsewhere: *misein* gives **misogyny** (+ *gynē*, woman) and **misandry** (+ *anēr*, man); *anthrōpos* gives **anthropology**, **anthropomorphic**, and — with *philein*, to love — **philanthropy**, the exact mirror image.
+
+### Also sits in
+- **Meaning cluster** · [Keeping apart from people](groups.md#meaning__keeping-apart-from-people) — with *retiring, aloof, recluse, insular*
+- **Intensity scale** · [Pulling away from people](groups.md#intensity__pulling-away-from-people) — with *retiring, aloof, recluse*
+- **Opposites** · [At home among people vs. shut away from them](groups.md#antonym__at-home-among-people-vs-shut-away-from-them) — with *gregarious, convivial, congenial, vivacious, recluse, aloof, retiring, insular*
+- **Opposites** · [Feeling for others vs. hardened to them](groups.md#antonym__feeling-for-others-vs-hardened-to-them) — with *empathetic, commiserate, cherish, benevolent, callous, sadistic, obdurate*
 
 ---
 
@@ -640,6 +747,11 @@ Latin **neglegere** = *nec* ("not") + *legere* ("to pick up, gather, read") — 
 
 Best of all, its exact opposite comes from the same place: **diligent** — the one who picks things up carefully.
 
+### Also sits in
+- **Meaning cluster** · [Failing a duty you owed](groups.md#meaning__blameworthy-carelessness) — with *lax, oblivious, shirk*
+- **Opposites** · [Meticulous vs. slapdash](groups.md#antonym__meticulous-vs-slapdash) — with *meticulous, punctilious, scrupulous, thorough, fastidious, cursory, perfunctory, haphazard, slovenly, lax*
+- **Root family** · [Root: legere (to pick out, read) — attention chosen, withheld, and received](groups.md#root__legere) — with *intelligible, predilection*
+
 ---
 
 # **obsequious** *(adj.)* — **uhb-SEE-kwee-uhs**
@@ -670,6 +782,13 @@ Latin **ob-** ("toward") + **sequi** ("to follow") — literally *following clos
 
 **sequi** is a high-yield GRE root: **sequel, sequence, consequence, subsequent, non sequitur** ("it does not follow"), and — with a sound shift — **pursue, persecute, prosecute**.
 
+### Also sits in
+- **Meaning cluster** · [Fawning servility](groups.md#meaning__fawning-servility) — with *subservient, fawn, grovel, supplicate*
+- **Lookalike** · [boisterous / obdurate / obsequious / obstinate / obstreperous](groups.md#lookalike__boisterous-obdurate) — with *boisterous, obdurate, obstinate, obstreperous*
+- **Intensity scale** · [Deference to Grovelling: Yielding, Then Losing Your Dignity](groups.md#intensity__deference-to-grovelling) — with *deference, subservient, fawn, grovel*
+- **Connotation** · [Deference That Has Gone Past Dignity](groups.md#connotation__service-that-reads-as-grovelling) — with *subservient, fawn, grovel, supplicate*
+- **Opposites** · [Grovelling from below vs. looking down from above](groups.md#antonym__grovelling-from-below-vs-looking-down-from-above) — with *fawn, grovel, subservient, supplicate, deference, imperious, haughty, disdain, patronize, aloof*
+
 ---
 
 # **placate** *(v.)* — **pluh-KAYT**
@@ -692,6 +811,13 @@ You're buying off someone's anger with a token offering — which is exactly the
 
 ### Where it comes from
 Latin **placāre** = *"to soothe"* — the causative of **placēre**, *"to please."* One root, a lot of GRE words: **placid** (calm), **complacent** (pleased with yourself), **placebo** (Latin for *"I shall please"* — a pill that soothes and nothing more), and the useful opposite **implacable** (*not* able to be soothed — a rage or an enemy that no concession will touch).
+
+### Also sits in
+- **Meaning cluster** · [Soothing anger: what the peace cost you](groups.md#meaning__soothe-someone-s-anger) — with *mollify, appease, pacify, propitiate, conciliatory*
+- **Lookalike** · [lucid / pellucid / placate / placid](groups.md#lookalike__lucid-pellucid) — with *lucid, pellucid, placid*
+- **Intensity scale** · [Calming an angry party](groups.md#intensity__calming-an-angry-party) — with *mollify, appease, propitiate*
+- **Opposites** · [Peacemaking vs. fight-picking](groups.md#antonym__peacemaking-vs-fight-picking) — with *conciliatory, mollify, appease, amicable, détente, comity, belligerent, pugnacious, truculent, contentious, antagonize, fractious*
+- **Opposites** · [Stirring people up vs. calming them down](groups.md#antonym__stirring-people-up-vs-calming-them-down) — with *incite, foment, goad, agitate, provocative, pacify, mollify, quash, suppress*
 
 ---
 
@@ -718,6 +844,11 @@ Listen to any true-crime documentary or courtroom scene: nobody has a *liking* f
 Latin **pro-** (*forward*) + **clivus** (*slope*) — literally "a slope forward," a tilt.
 
 Same slope gives you **declivity** (a downward slope) and **acclivity** (an upward one), both GRE-worthy; the related root *clinare* ("to lean") gives **incline, decline, recline, proclivity**'s whole leaning family.
+
+### Also sits in
+- **Meaning cluster** · [A settled leaning toward](groups.md#meaning__a-settled-leaning-toward) — with *penchant, predilection, propensity, affinity, inclined*
+- **Lookalike** · [predilection / proclivity / propensity](groups.md#lookalike__predilection-proclivity) — with *predilection, propensity*
+- **Intensity scale** · [Strength of inclination](groups.md#intensity__strength-of-inclination) — with *penchant, predilection, propensity*
 
 ---
 
@@ -747,6 +878,9 @@ Latin **puer** = *"boy."* Puerile is literally *boyish* — which tells you why 
 
 🚫 **Not related to *pure***, despite the sound. That's Latin *purus* — *purify, puritan, purge*.
 
+### Also sits in
+- **Connotation** · [Inexperience mocked](groups.md#connotation__inexperience-mocked) — with *naive, gullible, callow, dilettante*
+
 ---
 
 # **quixotic** *(adj.)* — **kwik-SOT-ik**
@@ -775,6 +909,11 @@ Straight from **Don Quixote**, the hero of Cervantes' 1605 novel — an ageing g
 
 That scene gave English a second phrase you already know: **tilting at windmills** — attacking imaginary enemies with total sincerity.
 
+### Also sits in
+- **Meaning cluster** · [Achieving nothing](groups.md#meaning__achieving-nothing) — with *futile, barren*
+- **Second meaning** · [Proper Nouns That Became Verdicts](groups.md#second-meaning__proper-nouns-carrying-a-fixed-character) — with *byzantine, draconian, spartan, laconic, philistine, chauvinistic*
+- **Opposites** · [Workable vs. hopeless](groups.md#antonym__workable-vs-hopeless) — with *feasible, viable, tenable, efficacious, fruitful, futile, fanciful, illusory*
+
 ---
 
 # **spendthrift** *(n. / adj.)* — **SPEND-thrift**
@@ -800,6 +939,11 @@ The word looks like it should mean "frugal", but *thrift* here is the **object**
 **Thrift** originally meant *"thriving, prosperity, accumulated savings"* — it's the noun of **thrive**. So a spendthrift is literally one who **spends his thriving**.
 
 Only later did *thrift* narrow into "frugality" (the habit that produces the savings), which is what makes the word look self-contradictory today. Same root: **thrive, thrifty, thrift shop**.
+
+### Also sits in
+- **Meaning cluster** · [Wasteful with money — and the flavour of the blame](groups.md#meaning__wasteful-with-money) — with *prodigal, profligate, squander, extravagant*
+- **Connotation** · [Spending condemned](groups.md#connotation__spending-condemned) — with *profligate, prodigal, squander, extravagant, exorbitant*
+- **Opposites** · [Squandering vs. thrift](groups.md#antonym__squandering-vs-thrift) — with *prodigal, profligate, squander, economy, parsimonious, retrench, canny*
 
 ---
 
@@ -833,6 +977,14 @@ Calvin Coolidge was nicknamed **"Silent Cal"** for exactly this. The famous stor
 ### Where it comes from
 Latin **tacēre** = *"to be silent"* — which also gives you **tacit** (understood without being said), **tacitly**, and **reticent** (*re-* + *tacēre*, to keep silent about). The Roman historian **Tacitus** carried the same name.
 
+### Also sits in
+- **Meaning cluster** · [Saying little](groups.md#meaning__saying-little) — with *reticent, laconic, coy*
+- **Lookalike** · [laconic / tacit / taciturn](groups.md#lookalike__laconic-tacit) — with *laconic, tacit*
+- **Intensity scale** · [Sparing with words](groups.md#intensity__sparing-with-words) — with *laconic, reticent*
+- **Opposites** · [Kinds of loud, kinds of quiet](groups.md#antonym__loud-vs-hushed) — with *clamorous, boisterous, vociferous, cacophonous, obstreperous, clangor, subdued, placid, croon*
+- **Opposites** · [Talks too much vs. says little](groups.md#antonym__talks-too-much-vs-says-little) — with *garrulous, loquacious, voluble, expatiate, ramble, laconic, reticent*
+- **Root family** · [Root: tacēre (to be silent)](groups.md#root__tacere) — with *reticent, tacit*
+
 ---
 
 # **wary** *(adj.)* — **WAIR-ee**
@@ -857,3 +1009,8 @@ On guard; watchful because you suspect danger or a trick.
 
 ### Where it comes from
 Old English **wær** = *"watchful, on one's guard."* The same root gives **aware** (watching outward), **beware** (be on guard), and the *-ward/guard* family — **ward, warden, guard, regard** all come from the sense of keeping watch over something.
+
+### Also sits in
+- **Meaning cluster** · [On watchful guard](groups.md#meaning__on-watchful-guard) — with *vigilant, circumspect, skittish*
+- **Lookalike** · [chary / wary / weary](groups.md#lookalike__chary-wary) — with *chary, weary*
+- **Opposites** · [On guard vs. asleep at the wheel](groups.md#antonym__on-guard-vs-asleep-at-the-wheel) — with *vigilant, circumspect, heed, chary, oblivious, blithe, cavalier, complacent, lax*

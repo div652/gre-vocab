@@ -56,6 +56,9 @@ Greek **allos** = *"other"* + **agoreuein** = *"to speak in the agora,"* the pub
 
 Both halves pay off elsewhere: *allos* gives **allergy** (the body reacting *otherly*), **allonym**, **allele**; the *agora* gives **agoraphobia** (fear of the open square) and even **category** (*kata-* + *agoreuein*, originally "to accuse publicly").
 
+### Also sits in
+- **Meaning cluster** · [Meaning Carried by Figure: Saying One Thing to Mean Another](groups.md#meaning__meaning-carried-by-figure) — with *figurative, metaphorical, euphemism*
+
 ---
 
 # **allude** *(v.)* — **uh-LOOD**
@@ -88,6 +91,14 @@ Latin **ad-** ("toward") + **ludere** ("to play") — literally *to play toward*
 
 That root pays off across a whole family: **elude** (play *away* — escape), **delude** (play someone *false*), **collude** (play *together*, secretly), **prelude** / **interlude** (play before / between), **ludicrous** (fit only for play).
 
+### Also sits in
+- **Meaning cluster** · [Hinting rather than stating](groups.md#meaning__hinting-rather-than-stating) — with *allusive, intimate, evoke*
+- **Meaning cluster** · [Understood without being said](groups.md#meaning__understood-without-being-said) — with *tacit, implicit, intimate*
+- **Second meaning** · [Saying it without saying it](groups.md#second-meaning__saying-it-without-saying-it) — with *intimate, betray*
+- **Intensity scale** · [Hinting to Declaring: intimate → allude → aver](groups.md#intensity__hinting-to-declaring) — with *intimate, aver*
+- **Opposites** · [Saying it outright vs. hinting at it](groups.md#antonym__saying-it-outright-vs-hinting-at-it) — with *frank, candid, articulate, overt, allusive, intimate, euphemism, tacit, implicit*
+- **Root family** · [Root: ludere (to play) — indirection, evasion, and things that aren't there](groups.md#root__ludere) — with *allusive, collude, delusion, elusive, illusory*
+
 ---
 
 # **amplify** *(v.)* — **AM-pluh-fye**
@@ -114,6 +125,12 @@ Latin **amplus** = *"large, spacious"* + **-ficāre** (*facere*, "to make"). Lit
 
 Same root gives you **ample** (plenty), **amplitude** (the size of a wave's swing), and **amplification**. And **-fy / -ficāre** is a free GRE bonus: *clarify, ratify, mollify, vilify* — all "make it X."
 
+### Also sits in
+- **Meaning cluster** · [Accentuate / Underscore / Amplify — turning up what's already there](groups.md#meaning__make-it-stand-out) — with *accentuate, underscore*
+- **Meaning cluster** · [Prop up, add to, turn up](groups.md#meaning__prop-up-and-strengthen) — with *bolster, buttress, augment*
+- **Intensity scale** · [Making Bigger: Adding To, Turning Up, Puffing Up](groups.md#intensity__making-bigger) — with *augment, aggrandize*
+- **Opposites** · [Swelling vs. dying down](groups.md#antonym__swelling-vs-dying-down) — with *augment, burgeon, escalate, crescendo, abate, attenuate, wane, subside, dwindling, curtail*
+
 ---
 
 # **catastrophic** *(adj.)* — **kat-uh-STROF-ik**
@@ -139,6 +156,10 @@ Therapists talk about **catastrophizing** — spiralling from "he hasn't texted 
 Greek **kata-** (*down*) + **strephein** (*to turn*) = **katastrophē**, "the overturning." In Greek drama it was a neutral technical term: the sudden final turn of the plot — the scene after which nothing can be undone.
 
 That **strephein** shows up again in **apostrophe** (a turning away — to address someone absent) and **strophe** (the turn a chorus made across the stage). The **cata-** "down" half runs through **catapult**, **cataract**, **catalyst**.
+
+### Also sits in
+- **Meaning cluster** · [Ruin on a huge scale](groups.md#meaning__ruin-on-a-huge-scale) — with *calamitous, cataclysmic, conflagration*
+- **Intensity scale** · [Scale of disaster](groups.md#intensity__scale-of-disaster) — with *calamitous, cataclysmic*
 
 ---
 
@@ -169,6 +190,9 @@ Latin **con-** (*together*) + **tempus, temporis** (*time*) — literally "shari
 
 That root pays off everywhere: **temporary** (lasting a short time), **temporal** (of time, or of the worldly world as opposed to the eternal), **tempo**, **extempore** (out of the moment, unprepared), **temporize** (stall for time).
 
+### Also sits in
+- **Root family** · [Root: tempus, temporis (time)](groups.md#root__tempus) — with *temporal, extemporize, tempestuous*
+
 ---
 
 # **conundrum** *(n.)* — **kuh-NUN-drum**
@@ -189,6 +213,9 @@ Both halves are hiding in plain sight: it tricks you rather than wounds you, whi
 
 ### In the wild
 Headline writers live on it — "the productivity **conundrum**", "the China **conundrum**". Spot the pattern and you've got the register: a problem serious enough to write about, puzzling enough that nobody has the answer.
+
+### Also sits in
+- **Meaning cluster** · [A Situation With No Clean Exit](groups.md#meaning__a-situation-with-no-clean-exit) — with *quandary, predicament, imbroglio, contretemps*
 
 ---
 
@@ -218,6 +245,12 @@ Latin **fāma** = *"report, rumour, what people say about you"* — so *fame* or
 
 That root pays off across the list: **famous**, **infamous** (famous *for* something bad), **infamy**, **defamation**.
 
+### Also sits in
+- **Meaning cluster** · [False statements that ruin a name](groups.md#meaning__false-statements-that-ruin-a-name) — with *slander, calumny, aspersion*
+- **Intensity scale** · [Attacking a reputation](groups.md#intensity__attacking-a-reputation) — with *belittle, denigrate, vilify, calumny*
+- **Connotation** · [Attacks on a reputation](groups.md#connotation__attacks-on-a-reputation) — with *aspersion, impugn, denigrate, malign, vilify, slander, calumny*
+- **Opposites** · [Blackening a name vs. burnishing one](groups.md#antonym__blackening-a-name-vs-burnishing-one) — with *calumny, aspersion, slander, denigrate, malign, burnish, lionize, venerate, canonize*
+
 ---
 
 # **detract** *(v.)* — **dih-TRAKT**
@@ -246,6 +279,10 @@ Latin **de-** (*down, away*) + **trahere** (*to pull, drag*) — to drag value d
 
 **trahere** is one of the highest-yield GRE roots: **tractor** (pulls), **attract** (pulls toward), **extract** (pulls out), **retract** (pulls back), **subtract** (pulls out from under), **protract** (drags out lengthwise), **contract** (pulls together), **abstract** (pulled away from the concrete).
 
+### Also sits in
+- **Meaning cluster** · [Treat as unimportant](groups.md#meaning__treat-as-unimportant) — with *belittle, discount, slight, deride*
+- **Root family** · [Root: trahere, tractus — to drag, pull (abs-, de-, -able)](groups.md#root__trahere) — with *abstract, tractable*
+
 ---
 
 # **detrimental** *(adj.)* — **det-ruh-MEN-tuhl**
@@ -271,6 +308,12 @@ This is the house style of public-health and workplace copy — "**detrimental**
 Latin **terere** = *"to rub, wear away"*; **de-** + *terere* → **dēterere**, "to rub off," giving **dētrīmentum**, *damage caused by wearing down*.
 
 That root pays out across the GRE: **attrition** (wearing away by friction), **trite** (an idea rubbed smooth by overuse), **detritus** (the debris left after rubbing away), **contrite** (crushed, worn down by guilt).
+
+### Also sits in
+- **Meaning cluster** · [Slow, hidden harm](groups.md#meaning__slow-hidden-harm) — with *deleterious, pernicious, insidious*
+- **Intensity scale** · [Degrees of harm: from working against you to poisoning you](groups.md#intensity__degrees-of-harm) — with *adverse, deleterious, pernicious, noxious*
+- **Connotation** · [Harm Stated Clinically](groups.md#connotation__harm-named-clinically) — with *deleterious, adverse, inimical, impair*
+- **Opposites** · [Health-giving vs. quietly poisonous](groups.md#antonym__health-giving-vs-quietly-poisonous) — with *salubrious, salutary, conducive, efficacious, benign, deleterious, pernicious, noxious, insidious, virulent*
 
 ---
 
@@ -302,6 +345,12 @@ Latin **de-** (*off*) + **via** (*road*) = **"off the main road."** The devious 
 
 That *via* is a GRE workhorse: **deviate** (turn off the road), **obvious** (*ob + via* — lying right in your way, so you can't miss it), **trivial** (*tri + via* — where three roads meet, the street corner where the cheap gossip is), plus **viaduct**, **convey**, **envoy**.
 
+### Also sits in
+- **Meaning cluster** · [Sly cleverness](groups.md#meaning__sly-cleverness) — with *wily, crafty, artful, cunning*
+- **Intensity scale** · [Clever to crooked](groups.md#intensity__clever-to-crooked) — with *artful, wily, crafty*
+- **Connotation** · [Cleverness that means crooked](groups.md#connotation__cleverness-that-means-crooked) — with *cunning, crafty, wily, artful, chicanery, skullduggery*
+- **Root family** · [Root: via (road, way)](groups.md#root__via) — with *deviate, obviate, trivial*
+
 ---
 
 # **dormant** *(adj.)* — **DOR-muhnt**
@@ -325,6 +374,11 @@ Volcanoes are officially sorted into **active / dormant / extinct** — and the 
 
 ### Where it comes from
 Latin **dormīre** = *"to sleep."* The family is unusually easy: **dormitory** (a sleeping room), **dormer** window (it sits in the roof over the bedrooms), and the **dormouse** — named for how much it hibernates, which is why Lewis Carroll's is permanently nodding off at the tea party.
+
+### Also sits in
+- **Meaning cluster** · [Asleep but not dead](groups.md#meaning__asleep-but-not-dead) — with *quiescent, fallow, abeyance*
+- **Intensity scale** · [Degrees of inactivity: pauses, not endings](groups.md#intensity__degrees-of-inactivity) — with *lull, quiescent*
+- **Opposites** · [Lying dormant vs. breaking out](groups.md#antonym__lying-dormant-vs-breaking-out) — with *quiescent, abeyance, fallow, torpor, recrudescent, burgeon, proliferate, rampant*
 
 ---
 
@@ -353,6 +407,12 @@ A newsroom staple: every COVID lockdown, immigration bill, and social-media ban 
 A real man. **Draco** wrote Athens' first written law code around 621 BC, and it prescribed **death for almost everything** — including stealing a cabbage. Plutarch reports the crack that Draco's laws were written **not in ink but in blood**.
 
 So the word carries his reputation, not a general idea of strictness: one legislator so over-the-top that his name became the adjective for punishment out of all proportion.
+
+### Also sits in
+- **Meaning cluster** · [Strict and demanding](groups.md#meaning__strict-and-demanding) — with *stringent, exacting, rigor, onerous*
+- **Second meaning** · [Proper Nouns That Became Verdicts](groups.md#second-meaning__proper-nouns-carrying-a-fixed-character) — with *byzantine, spartan, laconic, philistine, quixotic, chauvinistic*
+- **Intensity scale** · [Strict to tyrannical](groups.md#intensity__strict-to-tyrannical) — with *stern, stringent, despotic*
+- **Connotation** · [Authority exercised abusively](groups.md#connotation__authority-exercised-abusively) — with *despotic, imperious, arbitrary, martinet, coercion*
 
 ---
 
@@ -383,6 +443,12 @@ The French Revolution's motto — *Liberté, **Égalité**, Fraternité* — is 
 French **égal** ← Latin **aequus** / **aequalis** = *"level, even."*
 
 That root pays off across the GRE: **equity** (fairness), **equanimity** (a *level* mind under pressure), **equivocate** (giving two claims *equal* weight, so you say nothing), **adequate** (levelling up to the requirement), and **iniquity** — *in-* + *aequus*, literally "un-level," hence gross injustice or wickedness.
+
+### Also sits in
+- **Meaning cluster** · [Fair to all sides](groups.md#meaning__fair-to-all-sides) — with *equitable, disinterested, commensurate*
+- **Opposites** · [Impartial vs. slanted](groups.md#antonym__impartial-vs-slanted) — with *disinterested, equitable, partial, tendentious, polemical, invidious, chauvinistic*
+- **Opposites** · [Levelling vs. Ranking: Equal, Fair, and Above](groups.md#antonym__everyone-equal-vs-a-chosen-few-above) — with *equitable, elitist, echelon, chauvinistic, patronize*
+- **Root family** · [Root: aequus, aequalis (level, equal)](groups.md#root__aequus) — with *equitable, equanimity, equivocate*
 
 ---
 
@@ -418,6 +484,11 @@ Latin **ēlūdere** = *"to escape by play"* — *ex-* (out) + *lūdere* (to play
 
 That *lūdere* root is a GRE goldmine: **allude** (play toward → hint), **delude** and **illusion** (play someone false), **collude** (play together, secretly), **prelude** and **interlude** (play before / between), **ludicrous** (fit only for play).
 
+### Also sits in
+- **Meaning cluster** · [Slips out of your grasp](groups.md#meaning__slips-out-of-your-grasp) — with *evasive, subtle, inscrutable*
+- **Lookalike** · [allusive / elusive / evasive / illusory](groups.md#lookalike__allusive-elusive) — with *allusive, evasive, illusory*
+- **Root family** · [Root: ludere (to play) — indirection, evasion, and things that aren't there](groups.md#root__ludere) — with *allude, allusive, collude, delusion, illusory*
+
 ---
 
 # **erstwhile** *(adj. (also adv., archaic))* — **ERST-wyle**
@@ -445,6 +516,9 @@ Newspaper and obituary English runs on it — "his **erstwhile** ally," "the ban
 Old English **ǣrest** = *"earliest,"* the superlative of **ǣr** = *"before"* — which also gives you **ere** (*"ere long"*) and **early**. German kept it plain: *erst* still means "first."
 
 So *erstwhile* is literally **"at the earliest while"** — back in the day.
+
+### Also sits in
+- **Opposites** · [Just born vs. outlived its era](groups.md#antonym__just-born-vs-worn-out-with-age) — with *nascent, inchoate, fledgling, commence, archaic, obsolete, anachronistic, vestigial*
 
 ---
 
@@ -527,6 +601,10 @@ Latin **finis** = *"end, boundary."* To **define** something is to *set bounds a
 
 That root pays out across the exam: **finite, infinite, finish, final, confine, definitive**.
 
+### Also sits in
+- **Meaning cluster** · [Without Clear Shape](groups.md#meaning__without-clear-shape) — with *amorphous, inchoate, diffuse*
+- **Root family** · [Root: *finis* (boundary, end) — the limit shared, the limit unset, the limit reached](groups.md#root__finis) — with *affinity, refine*
+
 ---
 
 # **ingenious** *(adj.)* — **in-JEEN-yuhs**
@@ -563,6 +641,10 @@ It also gives **engine**: a medieval *engin* was any ingenious contrivance, usua
 
 🚫 **Not the root of *ingenuous*.** That's Latin *ingenuus*, "free-born" — hence frank, unspoilt, the manner of someone with nothing to hide.
 
+### Also sits in
+- **Lookalike** · [disingenuous / ingenious / ingenuous](groups.md#lookalike__disingenuous-ingenious) — with *disingenuous, ingenuous*
+- **Opposites** · [Fresh-minted vs. secondhand](groups.md#antonym__fresh-minted-vs-secondhand) — with *unprecedented, coin, iconoclastic, derivative, hackneyed, banal, pastiche, bromide, platitude, mimic*
+
 ---
 
 # **keen** *(adj. / v.)* — **KEEN**
@@ -594,6 +676,12 @@ Old English **cēne** = *"bold, brave, wise"* — from the Germanic root for **k
 
 🚫 **The verb is a different word.** *To keen* over a corpse is Irish **caoinim**, "I weep" — borrowed into English in the 1800s. No connection to sharpness at all.
 
+### Also sits in
+- **Meaning cluster** · [Eager: appetite, or speed of response](groups.md#meaning__keen-to-get-going) — with *avid, alacrity*
+- **Meaning cluster** · [Grief Made Audible](groups.md#meaning__mournful-grief) — with *plaintive, woeful, dirge, lament*
+- **Second meaning** · [Homographs: A Wholly Different Word](groups.md#second-meaning__homographs-a-wholly-different-word) — with *august, minute, content*
+- **Second meaning** · [Physical sharpness → verbal sharpness](groups.md#second-meaning__physical-sharpness-verbal-sharpness) — with *caustic, mordant, abrasive, astringent, trenchant, penetrating*
+
 ---
 
 # **multifaceted** *(adj.)* — **muhl-tee-FAS-uh-tid**
@@ -621,6 +709,9 @@ Job ads and performance reviews run on it: *"a multifaceted role"* is HR for *yo
 From French **facette**, "little face" — the flat cut surfaces a jeweller grinds onto a gemstone, so a diamond literally has facets. Behind it, Latin **facies** = *face, form*.
 
 Same root: **facade** (the face of a building), **surface**, **efface** and **deface** (rub out / spoil the face).
+
+### Also sits in
+- **Meaning cluster** · [Good at many things](groups.md#meaning__good-at-many-things) — with *versatile, resourceful*
 
 ---
 
@@ -703,6 +794,10 @@ News writing runs on the figurative sense: *"a **sobering** reminder,"* *"**sobe
 ### Where it comes from
 Latin **sōbrius** = *sē-* ("without") + ***ēbrius*** ("drunk"). That second half is the payoff: *ēbrius* gives you **inebriated** — so *sober* is literally *un-inebriated*, and **sobriety** is the state of it.
 
+### Also sits in
+- **Opposites** · [Grave vs. flippant](groups.md#antonym__grave-vs-flippant) — with *staid, stern, decorum, levity, facetious, frivolous, droll, bawdy, raillery*
+- **Opposites** · [Self-denial vs. self-indulgence](groups.md#antonym__self-denial-vs-self-indulgence) — with *ascetic, austere, spartan, abstain, forgo, eschew, decadent, libertine, self-indulgent, surfeit*
+
 ---
 
 # **stem from** *(phrasal v.)* — **STEM fruhm**
@@ -729,6 +824,9 @@ The phrase is a backwards-pointing verb: you say it about the cause, not the con
 
 ### In the wild
 **Stem cells** — the same metaphor, made literal: the cell every other cell type grows out of.
+
+### Also sits in
+- **Meaning cluster** · [Tracing something back to its source](groups.md#meaning__trace-to-a-source) — with *ascribe, attribute*
 
 ---
 
@@ -758,6 +856,12 @@ Latin **sub-** (*under*) + **dūcere** (*to lead*) — literally *led under*, br
 
 **dūcere** is a GRE workhorse: *induce, deduce, conduct, produce, seduce, ductile, aqueduct* — all leading something somewhere.
 
+### Also sits in
+- **Connotation** · [Calm that shades into lifeless](groups.md#connotation__calm-that-shades-into-lifeless) — with *placid, stolid, phlegmatic, staid, somnolent*
+- **Opposites** · [Kinds of loud, kinds of quiet](groups.md#antonym__loud-vs-hushed) — with *clamorous, boisterous, vociferous, cacophonous, obstreperous, clangor, placid, taciturn, croon*
+- **Opposites** · [Still Waters vs. Stormy](groups.md#antonym__still-waters-vs-stormy) — with *placid, serene, tranquil, quiescent, turbulent, tempestuous, frenetic, restive, fraught*
+- **Root family** · [Root: dūcere (to lead) — conducive, induce, subdued](groups.md#root__ducere) — with *conducive, induce*
+
 ---
 
 # **token** *(adj. / n.)* — **TOH-kuhn**
@@ -785,6 +889,13 @@ Old English **tācen** = *"sign, mark, portent"* — still visible in **betoken*
 
 So the oldest sense is simply **a sign** — and the modern insult follows straight from it: a token effort is a *sign* of effort, offered instead of the effort.
 
+### Also sits in
+- **Meaning cluster** · [For Show Only](groups.md#meaning__for-show-only) — with *nominal, perfunctory, superficial*
+- **Meaning cluster** · [Four Ways of Not Really Doing It](groups.md#meaning__gone-through-without-care) — with *cursory, perfunctory, superficial*
+- **Second meaning** · [In name only, not in fact](groups.md#second-meaning__in-name-only-not-in-fact) — with *nominal, perfunctory*
+- **Intensity scale** · [Effort withheld](groups.md#intensity__effort-withheld) — with *superficial, cursory, perfunctory*
+- **Connotation** · [Small enough to dismiss](groups.md#connotation__small-enough-to-dismiss) — with *paltry, trifling, trivial, peccadillo, nominal*
+
 ---
 
 # **unravel** *(v.)* — **un-RAV-uhl**
@@ -811,6 +922,9 @@ Pulled deliberately it yields the truth; pulled by circumstance it just comes ap
 ### In the wild
 **"Unravel"** — the *Tokyo Ghoul* opening theme, a song entirely about a mind coming apart at the seams. The intransitive sense, four minutes long.
 
+### Also sits in
+- **Second meaning** · [Contronyms: the word points both ways](groups.md#second-meaning__contronyms-the-word-points-both-ways) — with *sanction, compromise, dispense, yield*
+
 ---
 
 # **withstand** *(v.)* — **widh-STAND**
@@ -836,3 +950,8 @@ It's the standard verb on spec sheets: a watch **rated to withstand 100 m**, a r
 Old English **wiþ** = *"against"* (not "alongside") + **standan** = *"to stand."* To withstand is literally to **stand against**.
 
 That old adversarial *with-* unlocks a set: **withhold** (hold back), **withdraw** (draw back), and best of all **notwithstanding** = *"not standing against it"* → **despite**. The fossil survives in ordinary speech too: to *fight with* someone is to fight against them.
+
+### Also sits in
+- **Meaning cluster** · [Holds up under stress](groups.md#meaning__holds-up-under-stress) — with *robust, resilient, stalwart, sound*
+- **Intensity scale** · [Enduring to conquering](groups.md#intensity__enduring-to-conquering) — with *surmount, vanquish*
+- **Connotation** · [Toughness admired](groups.md#connotation__toughness-admired) — with *robust, resilient, fortitude, stalwart*

@@ -409,7 +409,11 @@ def stage_render() -> None:
         head, blurb = HEADINGS[kind]
         parts.append(f"\n---\n\n## {head}\n\n*{blurb}*\n")
         for g in gs:
-            parts.append(f"\n### {g['title']}\n\n{g['core'].strip()}\n")
+            # Explicit anchor keyed on the group id, not the heading text.
+            # Heading text collides across kinds ("Deception" exists as both a
+            # meaning cluster and a connotation group); the id is the filename,
+            # so it is unique by construction and stable across regeneration.
+            parts.append(f"\n<a id=\"{g['id']}\"></a>\n### {g['title']}\n\n{g['core'].strip()}\n")
             for w in g.get("words", []):
                 parts.append(f"- **{w['word']}** — {w['nuance'].strip()}")
             if g.get("exam_note"):

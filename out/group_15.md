@@ -24,6 +24,10 @@ Latin **alius** = *"other"* → **alienus**, *"belonging to another."* To aliena
 
 Same root, free words: **alias** (otherwise called), **alibi** (*elsewhere*), **alien**, **inalienable**.
 
+### Also sits in
+- **Meaning cluster** · [Driven Apart: Enmity, Drift, and Rupture](groups.md#meaning__driven-apart-from-others) — with *antagonize, estranged, divorced*
+- **Opposites** · [Taking in vs. shutting out](groups.md#antonym__taking-in-vs-shutting-out) — with *subsume, amalgamate, all-encompassing, universal, marginalize, relegate, banish, immure, quarantine*
+
 ---
 
 # **apathy** *(n.)* — **AP-uh-thee**
@@ -58,6 +62,11 @@ Greek **a-** (*without*) + **pathos** (*feeling, suffering*) = literally *feelin
 
 That *pathos* unlocks a whole shelf: **sympathy** (feeling *with*), **empathy** (feeling *into*), **antipathy** (feeling *against*), **pathetic** (stirring feeling), **pathology** (the study of what you suffer from).
 
+### Also sits in
+- **Meaning cluster** · [Not Caring Either Way](groups.md#meaning__not-caring-either-way) — with *ennui, tepid, nonchalant*
+- **Opposites** · [Burning enthusiasm vs. cold indifference](groups.md#antonym__burning-enthusiasm-vs-cold-indifference) — with *ardent, avid, zealous, fervent, fervor, alacrity, ennui, tepid, nonchalant, perfunctory, lassitude*
+- **Root family** · [pathos (feeling) + anti- (against): feeling against, feeling nothing, feeling into](groups.md#root__pathos) — with *antipathy, empathetic*
+
 ---
 
 # **apropos** *(adj. / prep. / adv.)* — **ap-ruh-POH**
@@ -89,6 +98,12 @@ French **à propos** = *"to the purpose,"* from Latin **prōpositum**, from **pr
 
 That root places things forward everywhere: **propose, proposition, purpose, exponent, component, opponent, postpone**.
 
+### Also sits in
+- **Meaning cluster** · [To the Point](groups.md#meaning__to-the-point) — with *germane, pertinent, apposite, apt, felicitous*
+- **Connotation** · [Fitting exactly — but praised for what?](groups.md#connotation__fitting-exactly-and-praised-for-it) — with *germane, pertinent, apposite, felicitous*
+- **Opposites** · [On the point vs. off it](groups.md#antonym__on-the-point-vs-off-it) — with *germane, pertinent, apposite, apt, extraneous, tangential, digression, peripheral, incidental*
+- **Root family** · [Root: ponere, positus (to place)](groups.md#root__ponere) — with *apposite, depose, posturing*
+
 ---
 
 # **apt** *(adj.)* — **APT**
@@ -119,6 +134,12 @@ Latin **aptus** = *"fastened, fitted"* (from *apere*, to fasten). The family is 
 
 🚫 **Not *adept*.** That's Latin *adipisci*, "to attain" — an *adeptus* was an alchemist who had already attained the secret. Similar sound, different root, different claim.
 
+### Also sits in
+- **Meaning cluster** · [To the Point](groups.md#meaning__to-the-point) — with *germane, pertinent, apposite, apropos, felicitous*
+- **Lookalike** · [adept / adroit / apt / inept](groups.md#lookalike__adept-adroit) — with *adept, adroit, inept*
+- **Second meaning** · [Leaning and liking, not incompleteness](groups.md#second-meaning__leaning-and-liking-not-incompleteness) — with *partial, inclined*
+- **Opposites** · [On the point vs. off it](groups.md#antonym__on-the-point-vs-off-it) — with *germane, pertinent, apposite, apropos, extraneous, tangential, digression, peripheral, incidental*
+
 ---
 
 # **cloak** *(v. / n.)* — **KLOHK**
@@ -145,6 +166,11 @@ Harry Potter's **Invisibility Cloak** — the garment whose entire job is to hid
 From Medieval Latin **clocca** = *"bell"* — the early travelling cloak hung in a wide bell shape from the shoulders.
 
 Same bell root gives you **clock** (which began as a bell that struck the hour) and the **cloche** — the bell-shaped hat, and the glass dome over a dessert.
+
+### Also sits in
+- **Second meaning** · [Blocking the View: hide, outshine, sidestep](groups.md#second-meaning__light-and-shadow-words-that-mean-hide-or-outdo) — with *eclipse, obscure, occlude, skirt*
+- **Opposites** · [Letting it out vs. keeping it in](groups.md#antonym__letting-it-out-vs-keeping-it-in) — with *divulge, disseminate, betray, apprise, suppress, censor, occlude, reticent*
+- **Opposites** · [Making clear vs. muddying](groups.md#antonym__making-clear-vs-muddying) — with *elucidate, delineate, distill, articulate, obfuscate, obscure, occlude*
 
 ---
 
@@ -180,6 +206,11 @@ That root is a GRE goldmine: **sense, sentiment, sentient, consent, assent, diss
 
 🚫 **Not *census*.** That's Latin *censēre*, "to assess" — the same root as *censor* and *censure*. Similar look, unrelated word.
 
+### Also sits in
+- **Meaning cluster** · [Formal agreement — and its three near-misses](groups.md#meaning__formal-agreement) — with *accord, comity, détente*
+- **Opposites** · [Settled harmony vs. open feud](groups.md#antonym__settled-harmony-vs-open-feud) — with *accord, reconcile, amicable, acrimonious, animosity, enmity, strife*
+- **Root family** · [Root: sentire (to feel, to perceive)](groups.md#root__sentire) — with *dissent, resent, sensational, sentimental*
+
 ---
 
 # **distort** *(v.)* — **di-STORT**
@@ -210,6 +241,9 @@ Latin **dis-** (*apart*) + **torquēre, tortus** (*to twist*) — to twist apart
 
 *Torquēre* is a workhorse root: **contort** (twist together), **extort** (twist money *out* of someone), **retort** (a reply twisted back at you), **tortuous** (full of twists), **torture**, **torque**, and legal **tort** — a "twisted" wrong.
 
+### Also sits in
+- **Meaning cluster** · [Overstate past the truth](groups.md#meaning__overstate-past-the-truth) — with *hyperbole, embellish, sensational*
+
 ---
 
 # **divergent** *(adj.)* — **dih-VER-junt**
@@ -235,6 +269,12 @@ Robert Frost's "Two roads **diverged** in a yellow wood" — the most quoted lin
 
 ### Where it comes from
 Latin **dis-** (*apart*) + **vergere** (*to bend, incline, turn*). The root pays off across a family: **converge** = bend together, **verge** = the edge where a surface starts to bend away, *verge on* = incline toward.
+
+### Also sits in
+- **Meaning cluster** · [Four Ways of Being Unlike](groups.md#meaning__unlike-one-another) — with *disparate, heterogeneous, incongruous*
+- **Meaning cluster** · [Off the expected pattern](groups.md#meaning__off-the-expected-pattern) — with *aberrant, anomalous, deviate*
+- **Intensity scale** · [Off the expected course](groups.md#intensity__off-the-expected-course) — with *anomalous, aberrant*
+- **Opposites** · [All of a kind vs. mixed in kind](groups.md#antonym__all-of-a-kind-vs-mixed-in-kind) — with *homogeneous, fungible, interchangeable, analogous, universal, heterogeneous, disparate, eclectic, hodgepodge*
 
 ---
 
@@ -264,6 +304,11 @@ Latin **efferre**, *"to carry out, raise up"* — past participle **ēlātus**, 
 
 The **-lat-** ("carried") chunk is worth owning, because it pays out across the exam: **translate** (carried across), **relate** (carried back), **collate** (carried together), **prelate** (carried in front → high-ranking), **superlative** (carried above the rest). Elated = carried upward.
 
+### Also sits in
+- **Meaning cluster** · [Lifted with joy](groups.md#meaning__lifted-with-joy) — with *euphoric, exhilarating, ebullient*
+- **Intensity scale** · [Contentment to euphoria](groups.md#intensity__contentment-to-euphoria) — with *content, buoyant, euphoric*
+- **Opposites** · [Bright spirits vs. sunk spirits](groups.md#antonym__bright-spirits-vs-sunk-spirits) — with *sanguine, buoyant, jocund, ebullient, morose, glum, lugubrious, crestfallen, plaintive, dirge*
+
 ---
 
 # **enchant** *(v.)* — **en-CHANT**
@@ -292,6 +337,11 @@ Latin **incantāre** = *"to sing a spell upon"* — *in-* (on) + **cantāre** (t
 
 *cantāre* pays out widely: **chant**, **incantation**, **canticle**, **descant**, **accent**, and **recant** — literally *to sing back*, i.e. to take back what you said.
 
+### Also sits in
+- **Meaning cluster** · [Holds you spellbound](groups.md#meaning__holds-you-spellbound) — with *enthrall, beguile, arresting, tantalizing*
+- **Intensity scale** · [Interest to total absorption](groups.md#intensity__interest-to-total-absorption) — with *intrigue, enthrall*
+- **Root family** · [Root: cantāre, cantus (to sing, song) — the buried voice](groups.md#root__cantare) — with *accentuate, recant*
+
 ---
 
 # **entrenched** *(adj. (from v. entrench))* — **en-TRENCHT**
@@ -319,6 +369,13 @@ Standard newsroom furniture: *entrenched interests*, *deeply entrenched inequali
 Old French **trenchier** = *"to cut."* A **trench** is a cut in the ground; to **entrench** is to put yourself *into* one and defend it. WWI is the picture the word never lost — both armies so entrenched that the front line barely moved in four years.
 
 Same root, two more GRE words: **trenchant** (cutting, incisive — a trenchant critique) and **retrench** (cut back, especially spending).
+
+### Also sits in
+- **Meaning cluster** · [Dug in against change](groups.md#meaning__dug-in-against-change) — with *hidebound, ingrained, ossify, inveterate*
+- **Second meaning** · [Siege engineering inside an argument](groups.md#second-meaning__siege-engineering-inside-an-argument) — with *buttress, bolster, undermine, undercut, assail, barrage*
+- **Intensity scale** · [Fixed by Habit to Unchangeable](groups.md#intensity__fixed-by-habit-to-unchangeable) — with *ingrained, hidebound, immutable*
+- **Opposites** · [Fleeting vs. Fixed](groups.md#antonym__fleeting-vs-permanent) — with *ephemeral, evanescent, transient, transitory, momentary, perennial, immutable, extant*
+- **Opposites** · [Rigidly set vs. easily shaped](groups.md#antonym__rigidly-set-vs-easily-shaped) — with *hidebound, ossify, ingrained, doctrinaire, immutable, malleable, pliant, plastic, supple, tractable, amenable*
 
 ---
 
@@ -382,6 +439,10 @@ Latin **plicāre** = *"to fold"*; **explicāre** = *"to unfold, unroll"* — whi
 
 That fold-root is a workhorse: **explicit** (unfolded, spelled out), **explicate**, **complicated** (folded together), **implicate**, **pliable**, **deploy** and **employ** (both literally "unfold").
 
+### Also sits in
+- **Meaning cluster** · [Bought and paid for](groups.md#meaning__bought-and-paid-for) — with *mercenary, venal, unscrupulous*
+- **Root family** · [Root: plicāre (to fold) — folded in, folded open, folds without breaking](groups.md#root__plicare) — with *implicit, pliant, supple*
+
 ---
 
 # **foreseeable** *(adj.)* — **for-SEE-uh-buhl**
@@ -431,6 +492,12 @@ The traditional wedding vow: *"**forsaking** all others, keep thee only unto her
 ### Where it comes from
 The prefix **for-** here isn't "for" — it's the Old English negator meaning *away, utterly, wrongly*. Once you spot it, a whole set opens up: **forbid** (order away), **forgo** (go without), **forswear** (swear off), **forlorn** (utterly lost), **forget** (fail to grasp).
 
+### Also sits in
+- **Meaning cluster** · [Voluntarily let go](groups.md#meaning__voluntarily-let-go) — with *relinquish, forgo, jettison*
+- **Lookalike** · [forbear / forgo / forsake](groups.md#lookalike__forbear-forgo) — with *forbear, forgo*
+- **Connotation** · [Broken faith](groups.md#connotation__broken-faith) — with *perfidy, renege, betray, duplicitous, mendacity*
+- **Opposites** · [Taking it back vs. holding to it](groups.md#antonym__taking-it-back-vs-holding-to-it) — with *recant, abjure, renounce, repudiate, relinquish, adhere, steadfast, resolute, abide*
+
 ---
 
 # **gratify** *(v.)* — **GRAT-uh-fye**
@@ -479,6 +546,10 @@ That rhyme keeps the compliance half of the word attached, so you remember heed 
 ### In the wild
 Every hurricane news cycle runs the same sentence: *"residents who failed to **heed** evacuation orders."* Officials issue warnings; you heed them or you don't.
 
+### Also sits in
+- **Meaning cluster** · [Do What the Rule Says](groups.md#meaning__do-what-the-rule-says) — with *comply, adhere, abide*
+- **Opposites** · [On guard vs. asleep at the wheel](groups.md#antonym__on-guard-vs-asleep-at-the-wheel) — with *vigilant, wary, circumspect, chary, oblivious, blithe, cavalier, complacent, lax*
+
 ---
 
 # **judicious** *(adj.)* — **joo-DISH-uhs**
@@ -511,6 +582,11 @@ Latin **judicium** = *"judgment,"* from **ius** (law) + **dicere** (to say) — 
 
 That root pays off across the exam: **judge, judgment, judicial, judiciary, adjudicate, injudicious** (rash), and **prejudice** — literally *pre-judging*, deciding before the evidence.
 
+### Also sits in
+- **Meaning cluster** · [Caution That Counts as Good Judgment](groups.md#meaning__cautious-foresight) — with *prudent, circumspect, chary*
+- **Connotation** · [Restraint Counted as Virtue](groups.md#connotation__thrift-counted-as-virtue) — with *economy, canny, prudent*
+- **Opposites** · [Leaping before looking vs. weighing it first](groups.md#antonym__leaping-before-looking-vs-weighing-it-first) — with *precipitate, impetuous, impulsive, foolhardy, headstrong, circumspect, prudent, deliberate, chary, cogitate*
+
 ---
 
 # **lucid** *(adj.)* — **LOO-sid**
@@ -536,6 +612,15 @@ Both words hide the same *luc-* (light), and lucid writing works exactly like gl
 
 ### Where it comes from
 Latin **lux, lucis** = *light*, via **lūcēre** = *to shine*. It's a high-yield root: **elucidate** (shed light on), **translucent** (light passes through), **pellucid** (utterly clear), **lucent**, and **Lucifer** — literally *light-bearer*.
+
+### Also sits in
+- **Meaning cluster** · [Clear prose: from luminous praise to the bare minimum](groups.md#meaning__transparently-clear-prose) — with *limpid, pellucid, intelligible, coherent*
+- **Lookalike** · [lucid / pellucid / placate / placid](groups.md#lookalike__lucid-pellucid) — with *pellucid, placate, placid*
+- **Second meaning** · [Clear water → clear prose](groups.md#second-meaning__clear-water-clear-prose) — with *pellucid, limpid, turbid, opaque*
+- **Intensity scale** · [Understandable to crystal clear](groups.md#intensity__understandable-to-crystal-clear) — with *intelligible, coherent, limpid, pellucid*
+- **Connotation** · [Clarity as compliment](groups.md#connotation__clarity-as-compliment) — with *limpid, pellucid, cogent, coherent, trenchant*
+- **Opposites** · [Crystal-clear vs. impenetrable](groups.md#antonym__crystal-clear-vs-impenetrable) — with *limpid, pellucid, intelligible, coherent, abstruse, recondite, opaque, turbid, convoluted, byzantine, impenetrable*
+- **Opposites** · [Tangled vs. plain-simple](groups.md#antonym__tangled-vs-plain-simple) — with *byzantine, convoluted, tortuous, elaborate, baroque, elementary, rudimentary, intuitive*
 
 ---
 
@@ -565,6 +650,13 @@ Latin **pertinēre** = *"to reach through to, to belong to"* — **per-** (*thro
 
 That *tenēre* root is a GRE goldmine: **pertain, tenacious, tenure, tenant, retain, sustain, abstain, tenet** — all of them about holding.
 
+### Also sits in
+- **Meaning cluster** · [To the Point](groups.md#meaning__to-the-point) — with *germane, apposite, apropos, apt, felicitous*
+- **Lookalike** · [impertinent / impudent / pernicious / perspicacious / pertinacious / pertinent](groups.md#lookalike__impertinent-impudent) — with *impertinent, impudent, pernicious, perspicacious, pertinacious*
+- **Connotation** · [Fitting exactly — but praised for what?](groups.md#connotation__fitting-exactly-and-praised-for-it) — with *germane, apposite, apropos, felicitous*
+- **Opposites** · [On the point vs. off it](groups.md#antonym__on-the-point-vs-off-it) — with *germane, apposite, apropos, apt, extraneous, tangential, digression, peripheral, incidental*
+- **Root family** · [Root: tenēre (to hold) — holding back, holding on, holding up](groups.md#root__tenere) — with *abstain, pertinacious, tenable*
+
 ---
 
 # **propriety** *(n.)* — **pruh-PRY-uh-tee**
@@ -592,6 +684,10 @@ Jane Austen runs on this word — and so does **Bridgerton**, where a single unc
 Latin **proprius** = *"one's own, particular to oneself."* What is *proper* to a situation is what belongs to it.
 
 Same root, one family: **proper**, **property**, **appropriate** (to make one's own), **proprietary**, **expropriate**, **misappropriate**.
+
+### Also sits in
+- **Meaning cluster** · [Correct conduct](groups.md#meaning__correct-conduct) — with *decorum, deportment, comity*
+- **Opposites** · [Tactful vs. tactless: manners, not morals](groups.md#antonym__tactful-vs-tactless) — with *tact, discreet, urbane, cordial, decorum, boorish, gauche, churlish, abrasive, impertinent, indecorous, unseemly*
 
 ---
 
@@ -623,6 +719,10 @@ Latin **scintilla** = *"a spark."* English kept the noun whole: **a scintilla** 
 
 The same spark reached us twice through French: **tinsel** (*estincelle*, sparkle) and **stencil** (originally, to spangle with bright colour).
 
+### Also sits in
+- **Meaning cluster** · [Sparkling liveliness](groups.md#meaning__sparkling-liveliness) — with *vivacious, jocund, buoyant, boisterous*
+- **Opposites** · [Gripping vs. sleep-inducing](groups.md#antonym__gripping-vs-sleep-inducing) — with *arresting, enthrall, compelling, piquant, soporific, tedious, humdrum, monotonous, plodding, insipid, vapid*
+
 ---
 
 # **sensational** *(adj.)* — **sen-SAY-shuh-nuhl**
@@ -653,6 +753,10 @@ Latin **sentīre** = *"to feel, to perceive."* One root, a large family: **sense
 
 So *sensational* literally means *"of the feelings"* — content aimed at the nerve endings.
 
+### Also sits in
+- **Meaning cluster** · [Overstate past the truth](groups.md#meaning__overstate-past-the-truth) — with *hyperbole, embellish, distort*
+- **Root family** · [Root: sentire (to feel, to perceive)](groups.md#root__sentire) — with *consensus, dissent, resent, sentimental*
+
 ---
 
 # **sophisticated** *(adj.)* — **suh-FIS-ti-kay-tid**
@@ -681,6 +785,10 @@ Greek **sophos** = *"wise"* → **sophistēs**, the *sophist*: a paid teacher of
 
 The root pays out widely: **philosophy** (*philo-* love + *sophos* wise), **sophist**, **sophistry** (plausible false reasoning), and **sophomore** — literally *sophos* + *mōros* (fool), the **wise fool**, which is exactly why **sophomoric** means juvenile pseudo-cleverness.
 
+### Also sits in
+- **Meaning cluster** · [At home everywhere](groups.md#meaning__at-home-everywhere) — with *cosmopolitan, urbane*
+- **Opposites** · [Worldly vs. narrow](groups.md#antonym__worldly-vs-narrow) — with *cosmopolitan, urbane, eclectic, provincial, parochial, insular, xenophobic, philistine*
+
 ---
 
 # **strife** *(n.)* — **STRYFE**
@@ -704,6 +812,10 @@ The buried *strive* gives you both halves of the nuance: effort on both sides, a
 
 ### Where it comes from
 Old French **estrif** (*quarrel*), from **estriver**, *"to strive."* Same root, split in two: **strive** kept the effort, **strife** kept the fighting.
+
+### Also sits in
+- **Meaning cluster** · [A Group Splitting Apart](groups.md#meaning__a-group-splitting-apart) — with *dichotomy, polarize, factious, schism*
+- **Opposites** · [Settled harmony vs. open feud](groups.md#antonym__settled-harmony-vs-open-feud) — with *accord, consensus, reconcile, amicable, acrimonious, animosity, enmity*
 
 ---
 
@@ -731,6 +843,12 @@ That "on purpose" is the whole compliment, since nobody praises an accidental wh
 
 ### In the wild
 "**Understated** elegance" is boilerplate in watch and car reviews and luxury ad copy — and it always means the same thing: expensive, and refusing to say so.
+
+### Also sits in
+- **Connotation** · [Saying Less on Purpose](groups.md#connotation__few-words-as-cool-credit) — with *laconic, pithy, brevity, economy*
+- **Opposites** · [Held in check vs. spilling over](groups.md#antonym__held-in-check-vs-spilling-over) — with *temper, curb, bridle, forbear, abstain, profuse, extravagant, exorbitant, surfeit, gratuitous, lavish*
+- **Opposites** · [Playing it down vs. puffing it up](groups.md#antonym__playing-it-down-vs-puffing-it-up) — with *retiring, modest, deprecate, hyperbole, bravado, pretentious, pomposity, bombastic, aggrandize, narcissism*
+- **Opposites** · [Stripped bare vs. gilded](groups.md#antonym__stripped-bare-vs-gilded) — with *unadorned, austere, spartan, utilitarian, ornate, baroque, florid, flamboyant, embellish, ostentatious*
 
 ---
 
@@ -761,6 +879,9 @@ Latin **scrupulus** = *a small sharp stone* — the pebble in your sandal you ca
 So *unscrupulous* is literally **nothing in the shoe**. Nothing pricks; he keeps walking.
 
 Same root: **scruple**, **scrupulous** (careful to the point of conscience), **scrupulosity**.
+
+### Also sits in
+- **Meaning cluster** · [Bought and paid for](groups.md#meaning__bought-and-paid-for) — with *mercenary, venal, exploitative*
 
 ---
 
@@ -795,6 +916,13 @@ The word almost always arrives attached to doubt, so if you can hear "questioned
 Latin **vērus** = *"true"* → **vēritās**, truth. It pays out across the whole exam: **verify** (make true), **verdict** (*vere dictum*, truly said), **veritable** (genuinely so), **aver** (assert as true), **verisimilitude** (the *look* of truth), and plain **very** — which once meant "truly," as in *the very man I wanted*.
 
 🚫 **Not *vorare*, "to devour"** — that's *voracious, devour, carnivore, omnivore*.
+
+### Also sits in
+- **Meaning cluster** · [Unimpeachable honesty](groups.md#meaning__unimpeachable-honesty) — with *probity, scrupulous*
+- **Connotation** · [Honesty as a Compliment](groups.md#connotation__honesty-as-a-compliment) — with *frank, candid, probity, scrupulous, disinterested*
+- **Opposites** · [Ring of Truth vs. Exposed Fake](groups.md#antonym__ring-of-truth-vs-exposed-fake) — with *credible, verisimilitude, plausible, bogus, counterfeit, sham, phony, spurious, feign*
+- **Opposites** · [Truthful by nature vs. false by design](groups.md#antonym__truthful-by-nature-vs-lying-by-nature) — with *probity, ingenuous, artless, mendacity, duplicitous, disingenuous, dissemble, perfidy*
+- **Root family** · [Root: vērus (true) — asserting it, having it, faking it](groups.md#root__verus) — with *aver, verisimilitude*
 
 ---
 
@@ -831,6 +959,13 @@ Latin **virus** originally meant *"poison, slimy venom"* — the germ sense is m
 
 So **virulent hatred** isn't a metaphor stretched thin; it's the literal, original word — hatred with venom in it.
 
+### Also sits in
+- **Meaning cluster** · [Actively harmful](groups.md#meaning__actively-harmful) — with *adverse, inimical, noxious*
+- **Meaning cluster** · [Ill will: felt, spoken, savoured, spreading](groups.md#meaning__wishing-you-harm) — with *malevolent, malign, sadistic*
+- **Second meaning** · [Clinic Words for Non-Clinical Things](groups.md#second-meaning__clinic-words-for-non-clinical-things) — with *benign, endemic, fester, ossify, cathartic*
+- **Connotation** · [Harm Named Morally](groups.md#connotation__harm-named-morally) — with *pernicious, noxious, malevolent, sordid, turpitude*
+- **Opposites** · [Health-giving vs. quietly poisonous](groups.md#antonym__health-giving-vs-quietly-poisonous) — with *salubrious, salutary, conducive, efficacious, benign, deleterious, detrimental, pernicious, noxious, insidious*
+
 ---
 
 # **volatile** *(adj.)* — **VOL-uh-tuhl**
@@ -860,3 +995,12 @@ Your RAM is **volatile memory**: cut the power and everything in it is simply go
 Latin **volāre** = *"to fly."* *Volatilis* meant *flying, fleeting* — first used in English of birds and insects, then of liquids that "fly off" as vapour, and only later of tempers and markets.
 
 Same root: **volley** (a flight of arrows), **volant** (flying, in heraldry), **vol-au-vent** (pastry so light it "flies in the wind").
+
+### Also sits in
+- **Meaning cluster** · [Whim over reason](groups.md#meaning__changing-without-warning) — with *fickle, mercurial, capricious, arbitrary*
+- **Lookalike** · [versatile / volatile / voluble](groups.md#lookalike__versatile-volatile) — with *versatile, voluble*
+- **Second meaning** · [Chemistry and Weather Words for Moods](groups.md#second-meaning__chemistry-and-weather-words-for-moods) — with *ebullient, tempestuous, turbulent, buoyant*
+- **Intensity scale** · [Changeable to dangerously unstable](groups.md#intensity__changeable-to-dangerously-unstable) — with *fickle, capricious, mercurial*
+- **Connotation** · [Changeability condemned](groups.md#connotation__changeability-condemned) — with *capricious, fickle, erratic, mercurial*
+- **Connotation** · [Out of Control — But Which Part?](groups.md#connotation__emotion-running-out-of-control) — with *hysterical, frenetic, tempestuous, impetuous*
+- **Opposites** · [Unwavering vs. wavering](groups.md#antonym__unwavering-vs-wavering) — with *steadfast, resolute, stalwart, dogged, capricious, mercurial, fickle, vacillate, irresolute, erratic*

@@ -26,6 +26,11 @@ Greek **agōn** = *"a contest, a struggle"* (the games, the arena) + **anti-** =
 
 That root pays out across the list: **agony** (the struggle itself), **agonize** (to writhe in it), **protagonist** (*prōtos*, first — the one who struggles *first*, i.e. the lead), **antagonism**.
 
+### Also sits in
+- **Meaning cluster** · [Driven Apart: Enmity, Drift, and Rupture](groups.md#meaning__driven-apart-from-others) — with *alienate, estranged, divorced*
+- **Intensity scale** · [Stirring people up](groups.md#intensity__stirring-people-up) — with *goad, incite, foment*
+- **Opposites** · [Peacemaking vs. fight-picking](groups.md#antonym__peacemaking-vs-fight-picking) — with *conciliatory, mollify, placate, appease, amicable, détente, comity, belligerent, pugnacious, truculent, contentious, fractious*
+
 ---
 
 # **barren** *(adj.)* — **BA-ruhn**
@@ -48,6 +53,11 @@ Same sound, and the image locks in the key idea: not merely bare, but *incapable
 
 ### In the wild
 In *The Handmaid's Tale*, Gilead's law holds that sterile men don't exist — there are only women who are fruitful and women who are **barren**. The novel's whole horror runs on that one word.
+
+### Also sits in
+- **Meaning cluster** · [Achieving nothing](groups.md#meaning__achieving-nothing) — with *futile, quixotic*
+- **Intensity scale** · [Thin supply to none at all](groups.md#intensity__thin-supply-to-none-at-all) — with *sparse, scant, dearth*
+- **Opposites** · [Fertile vs. barren](groups.md#antonym__fertile-vs-barren) — with *fecund, fruitful, burgeon, replenish, fallow, desiccate, futile*
 
 ---
 
@@ -75,6 +85,14 @@ Shaggy's 1995 hit **"Boombastic"** — a deliberate pun on *bombastic*, and the 
 
 🚫 **Nothing to do with *bomb*.** The explosive is unrelated (Greek *bombos*, "booming noise") — the resemblance is what makes the mnemonic work, not what makes the word mean this.
 
+### Also sits in
+- **Meaning cluster** · [Inflated, empty language](groups.md#meaning__inflated-empty-language) — with *turgid, pomposity, pretentious*
+- **Second meaning** · [Swollen, flushed, heavy → overwritten](groups.md#second-meaning__swollen-and-flushed-overwritten) — with *turgid, florid, ponderous*
+- **Intensity scale** · [Inflated style](groups.md#intensity__inflated-style) — with *pretentious, turgid*
+- **Connotation** · [Language swollen with nothing](groups.md#connotation__language-swollen-with-nothing) — with *turgid, florid, prolix, pomposity*
+- **Opposites** · [Playing it down vs. puffing it up](groups.md#antonym__playing-it-down-vs-puffing-it-up) — with *retiring, modest, understated, deprecate, hyperbole, bravado, pretentious, pomposity, aggrandize, narcissism*
+- **Opposites** · [Substance vs. hot air](groups.md#antonym__substance-vs-hot-air) — with *cogent, pithy, trenchant, aphorism, vacuous, turgid, platitude, bromide*
+
 ---
 
 # **cajole** *(v.)* — **kuh-JOHL**
@@ -95,6 +113,11 @@ The stressed syllable is literally the sound of *jolly*, which is the tactic: ke
 
 ### In the wild
 It's a fixture of political reporting: a party whip spends the night before a vote **cajoling** holdouts — the standard pairing is "cajoling and arm-twisting," which tells you exactly where the word sits on the scale (the soft half).
+
+### Also sits in
+- **Meaning cluster** · [Coax by flattery](groups.md#meaning__coax-by-flattery) — with *wheedle, inveigle, beguile*
+- **Intensity scale** · [Sweet-talking someone into it](groups.md#intensity__sweet-talking-someone-into-it) — with *wheedle, inveigle*
+- **Connotation** · [Coaxing That Shades Into Manipulation](groups.md#connotation__coaxing-that-means-manipulation) — with *wheedle, inveigle, beguile, dupe, ploy*
 
 ---
 
@@ -123,6 +146,14 @@ Old English **cearig** = *"full of care, anxious"* — the same **caru** that gi
 
 🚫 Nothing to do with **charity**, **charisma**, or **cherish** — those are Latin/Greek imports (*carus* "dear", *charis* "grace"). Chary is homegrown Germanic.
 
+### Also sits in
+- **Meaning cluster** · [Caution That Counts as Good Judgment](groups.md#meaning__cautious-foresight) — with *prudent, judicious, circumspect*
+- **Meaning cluster** · [Stingy: Withholding What Could Be Given](groups.md#meaning__stingy) — with *miserly, parsimonious, penurious, stinting*
+- **Lookalike** · [chary / wary / weary](groups.md#lookalike__chary-wary) — with *wary, weary*
+- **Opposites** · [Lavish giving vs. tight-fisted withholding](groups.md#antonym__lavish-giving-vs-tight-fisted-withholding) — with *munificent, largesse, beneficent, lavish, endow, miserly, parsimonious, penurious, stinting*
+- **Opposites** · [Leaping before looking vs. weighing it first](groups.md#antonym__leaping-before-looking-vs-weighing-it-first) — with *precipitate, impetuous, impulsive, foolhardy, headstrong, circumspect, prudent, judicious, deliberate, cogitate*
+- **Opposites** · [On guard vs. asleep at the wheel](groups.md#antonym__on-guard-vs-asleep-at-the-wheel) — with *vigilant, wary, circumspect, heed, oblivious, blithe, cavalier, complacent, lax*
+
 ---
 
 # **curmudgeon** *(n.)* — **ker-MUJ-uhn**
@@ -145,6 +176,11 @@ The growl is real but the bite isn't, which is exactly the word's affectionate e
 
 ### In the wild
 Carl Fredricksen in Pixar's ***Up*** — the growling old man who tells the kids to get off his lawn and then turns out to be the softest character in the film. That arc *is* the word.
+
+### Also sits in
+- **Meaning cluster** · [Complaint: the tone, the mutter, the man, the claim](groups.md#meaning__habitual-complaining) — with *querulous, grumble, grievance*
+- **Connotation** · [Complaint as a Temperament](groups.md#connotation__complaint-as-a-temperament) — with *querulous, petulant, captious, fractious, grumble*
+- **Opposites** · [Complaining vs. bearing it in silence](groups.md#antonym__complaining-vs-bearing-it-in-silence) — with *querulous, grumble, petulant, fractious, grievance, stoic, forbear, content, equanimity, abide*
 
 ---
 
@@ -173,6 +209,10 @@ Claudius in *Hamlet*, listing the upside-down state of Denmark: **"With mirth in
 From Latin **dīrige** — *"direct!"* — the first word of the antiphon sung in the medieval Office of the Dead: *Dirige, Domine, Deus meus, in conspectu tuo viam meam* ("Direct my way in thy sight, O Lord"). The service got nicknamed after its opening word, and the nickname became the name for the music.
 
 Same root as **direct**, **dirigible** (a steerable airship) and **dirigisme** (state direction of an economy) — all from *dirigere*, "to steer."
+
+### Also sits in
+- **Meaning cluster** · [Grief Made Audible](groups.md#meaning__mournful-grief) — with *plaintive, woeful, lament, keen*
+- **Opposites** · [Bright spirits vs. sunk spirits](groups.md#antonym__bright-spirits-vs-sunk-spirits) — with *sanguine, buoyant, jocund, elated, ebullient, morose, glum, lugubrious, crestfallen, plaintive*
 
 ---
 
@@ -206,6 +246,12 @@ Courtroom and parliamentary boilerplate: **"my estimable colleague"** — a phra
 ### Where it comes from
 Latin **aestimāre** = *"to value, to put a price on."* The whole family is one act of appraisal: **estimate** (put a number on it), **esteem** (put a value on a person), **estimable** (worth valuing), **inestimable** (off the scale).
 
+### Also sits in
+- **Meaning cluster** · [Deserving of praise](groups.md#meaning__deserving-of-praise) — with *laudable, meritorious*
+- **Intensity scale** · [Respect to awe](groups.md#intensity__respect-to-awe) — with *august, numinous*
+- **Opposites** · [Praising to the skies vs. tearing down](groups.md#antonym__praising-to-the-skies-vs-tearing-down) — with *extol, acclaim, laudable, meritorious, excoriate, castigate, vilify, denigrate, scathing*
+- **Opposites** · [Tongue-lashings vs. praise that counts](groups.md#antonym__tongue-lashing-vs-warm-approval) — with *berate, upbraid, harangue, objurgation, lambaste, tirade, approbation, acclaim*
+
 ---
 
 # **euphemism** *(n.)* — **YOO-fuh-miz-uhm**
@@ -234,6 +280,10 @@ Greek **eu-** (*good, well*) + **phēmē** (*speech, saying*) = "speaking well o
 
 Both halves pay off. **eu-** gives you *euphoria* (good feeling), *eulogy* (good words), *euphony* (good sound), *euthanasia* (good death). **phēmē** gives you **blasphemy** — *blas-* (evil) + *phēmē*, the exact mirror image: speaking ill of the sacred.
 
+### Also sits in
+- **Meaning cluster** · [Meaning Carried by Figure: Saying One Thing to Mean Another](groups.md#meaning__meaning-carried-by-figure) — with *figurative, metaphorical, allegorical*
+- **Opposites** · [Saying it outright vs. hinting at it](groups.md#antonym__saying-it-outright-vs-hinting-at-it) — with *frank, candid, articulate, overt, allude, allusive, intimate, tacit, implicit*
+
 ---
 
 # **excoriate** *(v.)* — **ik-SKOR-ee-ayt**
@@ -261,6 +311,12 @@ Still literal in medicine: DSM-5 lists **excoriation disorder** (compulsive skin
 Latin **ex-** ("off") + **corium** ("hide, skin") — to take the hide off. *Corium* also gives **cuirass**, the leather breastplate.
 
 🚫 **Not *excruciate*.** That's Latin *crux*, "cross" — pain on a cross, not pain from a flaying. Different root, different torture.
+
+### Also sits in
+- **Meaning cluster** · [Savage public criticism](groups.md#meaning__savage-public-criticism) — with *castigate, lambaste, objurgation, scathing*
+- **Intensity scale** · [Scolding, mild to savage](groups.md#intensity__scolding-mild-to-savage) — with *admonish, reproach, upbraid, berate, castigate*
+- **Connotation** · [Scolding at full volume](groups.md#connotation__scolding-at-full-volume) — with *upbraid, berate, castigate, lambaste, harangue*
+- **Opposites** · [Praising to the skies vs. tearing down](groups.md#antonym__praising-to-the-skies-vs-tearing-down) — with *extol, acclaim, laudable, meritorious, estimable, castigate, vilify, denigrate, scathing*
 
 ---
 
@@ -296,6 +352,9 @@ Latin **exigere** = *"to drive out, demand, require"* — from **ex-** (out) + *
 
 That root pays out widely: **exact** (both "precise" and "to exact a toll"), **exigency**, and from *agere* alone — **agent, agenda, act, agile, agitate**. Anything that *drives*.
 
+### Also sits in
+- **Meaning cluster** · [Necessary: the thing, the act, the pressure](groups.md#meaning__cannot-be-done-without) — with *indispensable, imperative*
+
 ---
 
 # **haughty** *(adj.)* — **HAW-tee**
@@ -323,6 +382,11 @@ Proverbs 16:18, King James Bible: *"Pride goeth before destruction, and an **hau
 Old French **haut** = *"high"* (from Latin **altus**), so haughty = *high-and-mighty*, literally.
 
 Same root pays out across the exam: **altitude**, **alto**, **exalt**, **hauteur** (the noun for this exact manner), and **haute cuisine**.
+
+### Also sits in
+- **Meaning cluster** · [Looking down on others: bearing, command, doctrine, and condescension](groups.md#meaning__looking-down-on-others) — with *imperious, elitist, patronize*
+- **Connotation** · [Looking Down From Above](groups.md#connotation__looking-down-from-above) — with *disdain, scorn, deride, belittle, patronize*
+- **Opposites** · [Grovelling from below vs. looking down from above](groups.md#antonym__grovelling-from-below-vs-looking-down-from-above) — with *obsequious, fawn, grovel, subservient, supplicate, deference, imperious, disdain, patronize, aloof*
 
 ---
 
@@ -369,6 +433,13 @@ The *turb* is literally *turbulence* — stirring, churning — and *im-* means 
 ### Where it comes from
 Latin **turbāre** = *"to stir up, throw into confusion,"* from **turba**, *"a crowd, an uproar."* Picture the disorder of a mob and the whole family opens up: **disturb**, **perturb**, **turbulent**, **turbid** (water stirred cloudy), **turmoil**, and even **trouble**. *Imperturbable* = the crowd cannot be made to churn.
 
+### Also sits in
+- **Meaning cluster** · [Poise under pressure: inner calm vs. visible style](groups.md#meaning__poise-under-pressure) — with *equanimity, poise, aplomb*
+- **Intensity scale** · [Composure under pressure](groups.md#intensity__composure-under-pressure) — with *poise, aplomb, equanimity*
+- **Connotation** · [Composure that earns credit](groups.md#connotation__composure-that-earns-credit) — with *poise, aplomb, equanimity, stoic, sanguine*
+- **Opposites** · [Emotion on display vs. emotion locked down](groups.md#antonym__emotion-on-display-vs-emotion-locked-down) — with *histrionic, hysterical, mawkish, sentimental, tempestuous, stoic, phlegmatic, stolid, cerebral*
+- **Opposites** · [Unshakeable Poise vs. Rattled](groups.md#antonym__unshakeable-poise-vs-rattled) — with *equanimity, aplomb, poise, stoic, flustered, discomfit, disconcerting, nonplussed, skittish*
+
 ---
 
 # **implacable** *(adj.)* — **im-PLAK-uh-buhl**
@@ -398,6 +469,12 @@ Kyle Reese's warning in **The Terminator** is the finest definition of *implacab
 Latin **placāre** = *"to soothe, calm down"* + **in-** (*not*). Literally: **un-soothe-able.**
 
 Same root pays out across the exam: **placate** (soothe), **placid** (soothed, calm), **complacent** (smugly pleased and therefore idle), **placebo** (*"I shall please"*).
+
+### Also sits in
+- **Meaning cluster** · [Refusing to Give an Inch — and What Fails to Move Them](groups.md#meaning__refusing-to-give-an-inch) — with *obstinate, intransigent, obdurate*
+- **Intensity scale** · [Stubborn to immovable](groups.md#intensity__stubborn-to-immovable) — with *headstrong, obstinate, intransigent, obdurate*
+- **Opposites** · [Letting it go vs. never letting it go](groups.md#antonym__letting-it-go-vs-never-letting-it-go) — with *magnanimous, forbear, condone, relent, exonerate, obdurate, retaliate, resent, enmity*
+- **Opposites** · [Refusing to budge vs. caving in](groups.md#antonym__refusing-to-budge-vs-caving-in) — with *intransigent, obdurate, obstinate, pertinacious, acquiesce, capitulate, relent, yield, comply*
 
 ---
 
@@ -429,6 +506,11 @@ Probably **lam** ("to beat" — as in *on the lam*, running from a hiding) + **b
 
 🚫 Nothing to do with basting a roast in the kitchen; that's a different *baste* entirely. The lamb is a pun, not a parent.
 
+### Also sits in
+- **Meaning cluster** · [Savage public criticism](groups.md#meaning__savage-public-criticism) — with *castigate, excoriate, objurgation, scathing*
+- **Connotation** · [Scolding at full volume](groups.md#connotation__scolding-at-full-volume) — with *upbraid, berate, castigate, excoriate, harangue*
+- **Opposites** · [Tongue-lashings vs. praise that counts](groups.md#antonym__tongue-lashing-vs-warm-approval) — with *berate, upbraid, harangue, objurgation, tirade, approbation, acclaim, estimable*
+
 ---
 
 # **miscreant** *(n. / adj.)* — **MIS-kree-uhnt**
@@ -457,6 +539,10 @@ Old French **mescreant** = *"disbelieving"* — **mes-** (*wrongly*) + **creant*
 
 *Credere* is a workhorse root: **credit, credible, creed, credential, credulous, incredulous** — and **recreant** (one who *re*-believes, i.e. surrenders: a coward, a traitor).
 
+### Also sits in
+- **Meaning cluster** · [An unrepentant scoundrel](groups.md#meaning__an-unrepentant-scoundrel) — with *reprobate, libertine*
+- **Root family** · [Root: crēdere (to believe, entrust)](groups.md#root__credere) — with *credible, incredulous*
+
 ---
 
 # **peccadillo** *(n.)* — **pek-uh-DIL-oh**
@@ -484,6 +570,11 @@ Standard political-scandal vocabulary: reporters reach for "youthful **peccadill
 Spanish **pecadillo**, little sin — diminutive of *pecado*, from Latin **peccāre**, *"to sin, to stumble."*
 
 Same root gives you the high-value GRE word **impeccable**: literally *un-sin-able*, incapable of fault — hence flawless taste, an impeccable record. Also **peccant** (offending, faulty).
+
+### Also sits in
+- **Intensity scale** · [Minor fault to depravity](groups.md#intensity__minor-fault-to-depravity) — with *transgression, turpitude, depravity*
+- **Connotation** · [Small enough to dismiss](groups.md#connotation__small-enough-to-dismiss) — with *paltry, trifling, trivial, nominal, token*
+- **Opposites** · [Above pettiness vs. mired in it](groups.md#antonym__above-pettiness-vs-mired-in-it) — with *magnanimous, noble, forbear, captious, quibble, pedantic, finicky*
 
 ---
 
@@ -514,6 +605,12 @@ Hebrew **P'lishtim**, the Philistines — the Israelites' coastal enemies in the
 The modern sense is student slang. German university men called the non-academic townsfolk **Philister** — outsiders, the enemy across the wall — and Matthew Arnold hauled it into English in *Culture and Anarchy* (1869) to mock the middle class that cared about money and not beauty. That sneer is still audible in the word.
 
 🚫 **Nothing to do with Greek *phil-*, "love."** *Philosophy, philanthropy, philology, bibliophile* — all that family, and the philistine belongs to none of it.
+
+### Also sits in
+- **Meaning cluster** · [Coarse manners: the oaf, the grudge, and the snob's target](groups.md#meaning__coarse-manners) — with *boorish, churlish*
+- **Meaning cluster** · [Narrow in Outlook: Horizons That Stop Too Soon](groups.md#meaning__narrow-in-outlook) — with *parochial, provincial, insular, myopic*
+- **Second meaning** · [Proper Nouns That Became Verdicts](groups.md#second-meaning__proper-nouns-carrying-a-fixed-character) — with *byzantine, draconian, spartan, laconic, quixotic, chauvinistic*
+- **Opposites** · [Worldly vs. narrow](groups.md#antonym__worldly-vs-narrow) — with *cosmopolitan, urbane, sophisticated, eclectic, provincial, parochial, insular, xenophobic*
 
 ---
 
@@ -547,6 +644,13 @@ Latin **re-** (*back*) + **legāre** (*to send, to depute*) — literally *to se
 
 That *legāre* is worth banking: **delegate** (send someone in your place), **legate** (a papal envoy), **legacy** and **bequeath** (what you send on after you), **colleague** (one sent along with you).
 
+### Also sits in
+- **Meaning cluster** · [Driven Out: From a Place, a Post, or a Rank](groups.md#meaning__drive-out-of-a-place-or-post) — with *banish, oust, depose*
+- **Meaning cluster** · [Push to the edges](groups.md#meaning__push-to-the-edges) — with *marginalize, peripheral, fringe*
+- **Intensity scale** · [Demotion to expulsion](groups.md#intensity__demotion-to-expulsion) — with *oust, depose, banish*
+- **Opposites** · [Raising up vs. bringing down](groups.md#antonym__raising-up-vs-bringing-down) — with *anoint, deify, lionize, canonize, venerate, depose, oust, debase, belittle, marginalize*
+- **Opposites** · [Taking in vs. shutting out](groups.md#antonym__taking-in-vs-shutting-out) — with *subsume, amalgamate, all-encompassing, universal, marginalize, banish, alienate, immure, quarantine*
+
 ---
 
 # **repugnant** *(adj.)* — **ri-PUG-nuhnt**
@@ -574,6 +678,10 @@ Chief Justice Marshall in *Marbury v. Madison* (1803): **"a law repugnant to the
 Latin **re-** ("back") + **pugnāre** ("to fight"), from **pugnus**, "fist." Literally *to fight back against*.
 
 That root is a GRE goldmine: **pugnacious** (spoiling for a fight), **pugilist** (boxer), **impugn** (attack someone's claim), **inexpugnable** (unassailable).
+
+### Also sits in
+- **Meaning cluster** · [Hatred with disgust](groups.md#meaning__hatred-with-disgust) — with *abhor, loathe, odious*
+- **Opposites** · [Craving vs. recoiling](groups.md#antonym__craving-vs-recoiling) — with *relish, cherish, affinity, penchant, predilection, avid, abhor, loathe, aversion, antipathy, odious*
 
 ---
 
@@ -605,6 +713,14 @@ The everyday phrase **"it has sentimental value"** — the standard excuse for k
 ### Where it comes from
 Latin **sentīre** = *"to feel."* One of the highest-yield roots on the test: **sentient** (able to feel), **sentiment**, **consent** (feel with), **dissent** (feel apart), **resent** (feel back at), **sensitive**, **sense**.
 
+### Also sits in
+- **Meaning cluster** · [Sweet past bearing](groups.md#meaning__sweet-past-bearing) — with *mawkish, cloying*
+- **Intensity scale** · [Feeling to performance](groups.md#intensity__feeling-to-performance) — with *hysterical, histrionic*
+- **Intensity scale** · [Tender to sickly](groups.md#intensity__tender-to-sickly) — with *mawkish, cloying*
+- **Connotation** · [Feeling Laid On Too Thick](groups.md#connotation__feeling-laid-on-too-thick) — with *mawkish, cloying, lugubrious, rhapsody*
+- **Opposites** · [Emotion on display vs. emotion locked down](groups.md#antonym__emotion-on-display-vs-emotion-locked-down) — with *histrionic, hysterical, mawkish, tempestuous, stoic, phlegmatic, stolid, cerebral, imperturbable*
+- **Root family** · [Root: sentire (to feel, to perceive)](groups.md#root__sentire) — with *consensus, dissent, resent, sensational*
+
 ---
 
 # **squander** *(v.)* — **SKWON-der**
@@ -625,6 +741,11 @@ Nothing is stolen and nothing is bought; the value just drifts away because nobo
 
 ### In the wild
 Standard commentary-box English: a team that goes 2–0 up and draws 2–2 has **squandered** the lead — you'll hear it every match weekend.
+
+### Also sits in
+- **Meaning cluster** · [Wasteful with money — and the flavour of the blame](groups.md#meaning__wasteful-with-money) — with *prodigal, profligate, spendthrift, extravagant*
+- **Connotation** · [Spending condemned](groups.md#connotation__spending-condemned) — with *profligate, prodigal, spendthrift, extravagant, exorbitant*
+- **Opposites** · [Squandering vs. thrift](groups.md#antonym__squandering-vs-thrift) — with *prodigal, profligate, spendthrift, economy, parsimonious, retrench, canny*
 
 ---
 
@@ -650,6 +771,9 @@ The Sex Pistols' 1980 film **The Great Rock 'n' Roll Swindle**, in which manager
 ### Where it comes from
 From German **schwindeln** = *"to be dizzy"* — and, by extension, *to tell tall tales*. A **Schwindler** was a giddy schemer; London slang borrowed it in the 1760s. The swindler makes your head spin, and you sign.
 
+### Also sits in
+- **Meaning cluster** · [Cheat someone out of something](groups.md#meaning__cheat-someone-out-of-something) — with *dupe, chicanery, inveigle*
+
 ---
 
 # **tangible** *(adj.)* — **TAN-juh-buhl**
@@ -673,6 +797,11 @@ Every company balance sheet splits **tangible assets** (buildings, machines, sto
 
 ### Where it comes from
 Latin **tangere** = *"to touch."* One root, a whole GRE cluster: **tangent** (a line just touching a curve), **tangential** (barely touching the topic), **contact**, **contagious** (caught by touch), **tactile**, and **intact** — literally *un-touched*.
+
+### Also sits in
+- **Meaning cluster** · [Real enough to touch](groups.md#meaning__real-enough-to-touch) — with *palpable, corporeal, discernible*
+- **Opposites** · [Solid enough to touch vs. dissolving in the hand](groups.md#antonym__solid-enough-to-touch-vs-dissolving-in-the-hand) — with *corporeal, palpable, empirical, illusory, delusion, amorphous, abstract, evanescent*
+- **Root family** · [Root: tangere, tactus (to touch)](groups.md#root__tangere) — with *tact, tangential*
 
 ---
 
@@ -698,6 +827,11 @@ The gross-out sound gives you the meaning and the collocation gives you the regi
 
 ### In the wild
 Every US visa application asks whether you have ever been arrested for **"a crime involving moral turpitude."** That form is where most people meet this word for the first and only time — and it tells you everything about its register.
+
+### Also sits in
+- **Meaning cluster** · [Moral Rot: Depth, Cheapness, and Decline](groups.md#meaning__settled-moral-corruption) — with *depravity, decadent, sordid*
+- **Intensity scale** · [Minor fault to depravity](groups.md#intensity__minor-fault-to-depravity) — with *peccadillo, transgression, depravity*
+- **Connotation** · [Harm Named Morally](groups.md#connotation__harm-named-morally) — with *pernicious, noxious, virulent, malevolent, sordid*
 
 ---
 
@@ -725,6 +859,11 @@ From **alloy** ← Old French *aloier* ← Latin **alligare** = *"to bind to"* (
 
 The *lig-* root ties a lot together: **ally, alliance, ligament, oblige, liable**.
 
+### Also sits in
+- **Meaning cluster** · [Unspoiled and pure](groups.md#meaning__unspoiled-and-pure) — with *pristine, immaculate, inviolate*
+- **Second meaning** · [Shine, Alloy, and Worth: Forge Words Gone Abstract](groups.md#second-meaning__metal-and-coinage-words-for-reputation) — with *burnish, tarnish, debase, adulterate, temper*
+- **Opposites** · [Pure vs. adulterated](groups.md#antonym__pure-vs-adulterated) — with *pristine, immaculate, distill, refine, adulterate, debase, vitiate, tarnish, sordid*
+
 ---
 
 # **undercut** *(v. / n.)* — **UN-der-kut**
@@ -749,6 +888,12 @@ The haircut called an **undercut** — shaved underneath, long on top — is the
 ### Where it comes from
 Plain *under* + *cut*, and the source is mining and logging: you **undercut** a coal seam or a tree by chopping a notch out of its base, so the mass above comes down under its own weight. That's the figurative sense exactly — you never touch the top, you remove what it rests on.
 
+### Also sits in
+- **Meaning cluster** · [Weaken from underneath](groups.md#meaning__weaken-from-underneath) — with *undermine, subvert, vitiate*
+- **Second meaning** · [Siege engineering inside an argument](groups.md#second-meaning__siege-engineering-inside-an-argument) — with *buttress, bolster, undermine, assail, barrage, entrenched*
+- **Intensity scale** · [Weakening from below](groups.md#intensity__weakening-from-below) — with *undermine, subvert, dismantle*
+- **Opposites** · [Propping up vs. undermining](groups.md#antonym__propping-up-vs-undermining) — with *bolster, buttress, augment, invigorate, corroborate, undermine, impair, enervate, vitiate, attenuate*
+
 ---
 
 # **wheedle** *(v.)* — **WEE-duhl**
@@ -768,6 +913,11 @@ Same nagging persistence, opposite method: needling is pressure by irritation, w
 ### In sentences
 1. Over three dinners he **wheedled** the old woman into changing her will, praising her judgement at every course.
 2. She **wheedled** an extra day off out of her manager by telling him he was the only reasonable person in the building.
+
+### Also sits in
+- **Meaning cluster** · [Coax by flattery](groups.md#meaning__coax-by-flattery) — with *cajole, inveigle, beguile*
+- **Intensity scale** · [Sweet-talking someone into it](groups.md#intensity__sweet-talking-someone-into-it) — with *cajole, inveigle*
+- **Connotation** · [Coaxing That Shades Into Manipulation](groups.md#connotation__coaxing-that-means-manipulation) — with *cajole, inveigle, beguile, dupe, ploy*
 
 ---
 
@@ -798,3 +948,7 @@ Greek **xenos** = *"stranger, foreigner"* + **phobos** = *"fear."*
 *Xenos* is worth banking: **xenon** (the noble gas, named "the strange one" because it wouldn't react with anything), **xenophile** (a lover of the foreign — the exact opposite), **xenograft** (tissue transplanted from another species).
 
 And *phobos* gives you every *-phobia* you'll ever meet — plus **Phobos**, the moon of Mars named for the god of Fear.
+
+### Also sits in
+- **Connotation** · [Narrow horizons](groups.md#connotation__narrow-horizons) — with *parochial, provincial, insular, myopic, chauvinistic*
+- **Opposites** · [Worldly vs. narrow](groups.md#antonym__worldly-vs-narrow) — with *cosmopolitan, urbane, sophisticated, eclectic, provincial, parochial, insular, philistine*

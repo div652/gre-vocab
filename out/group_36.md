@@ -25,6 +25,10 @@ Latin **ad-** (*to*) + **cor, cordis** (*heart*) — literally *bringing hearts 
 
 One root, a whole GRE family: **concord** (hearts together — peace), **discord** (hearts apart — strife), **cordial** (warm, heartfelt), **courage** (heart), and **record** (originally *to call back to the heart* — to memorise).
 
+### Also sits in
+- **Meaning cluster** · [Formal agreement — and its three near-misses](groups.md#meaning__formal-agreement) — with *consensus, comity, détente*
+- **Opposites** · [Settled harmony vs. open feud](groups.md#antonym__settled-harmony-vs-open-feud) — with *consensus, reconcile, amicable, acrimonious, animosity, enmity, strife*
+
 ---
 
 # **ad hoc** *(adj. / adv.)* — **ad HOK**
@@ -52,6 +56,9 @@ Every analytics tool sells **"ad hoc queries"** or **"ad hoc reporting"** — me
 Latin **ad hoc** = *"to this."* Straight to *this* case, no further.
 
 Worth banking the whole *ad-* phrasebook, since the GRE likes them: **ad hominem** (*to the man* — attack the person, not the argument), **ad nauseam** (*to sickness*), **ad infinitum** (*to infinity*), **ad lib** ← *ad libitum* (*at pleasure*).
+
+### Also sits in
+- **Meaning cluster** · [Made Up on the Spot](groups.md#meaning__made-up-on-the-spot) — with *improvise, extemporize, makeshift, expedient*
 
 ---
 
@@ -85,6 +92,11 @@ Latin **haerēre** = *"to stick."* Add *ad-* ("to") and you get sticking **to** 
 
 The root pays out widely: **cohere/coherent** (stick together), **inherent** (sticking *in* — built into the thing), **adhesive**, and — the surprise — **hesitate**, from *haesitāre*, "to be stuck," which is exactly what hesitation is.
 
+### Also sits in
+- **Meaning cluster** · [Do What the Rule Says](groups.md#meaning__do-what-the-rule-says) — with *comply, abide, heed*
+- **Opposites** · [Falling in line vs. breaking ranks](groups.md#antonym__falling-in-line-vs-breaking-ranks) — with *comply, acquiesce, deference, obeisance, tractable, dissent, dissident, flout, contravene, mutiny, obstreperous*
+- **Opposites** · [Taking it back vs. holding to it](groups.md#antonym__taking-it-back-vs-holding-to-it) — with *recant, abjure, renounce, repudiate, relinquish, forsake, steadfast, resolute, abide*
+
 ---
 
 # **all-encompassing** *(adj.)* — **awl-en-KUM-puh-sing**
@@ -111,6 +123,11 @@ The word literally encircles its subject, which is why it suits boundless things
 Old French **compasser** = *"to measure by pacing around"* — from Latin **com-** (together) + **passus** (a step). To *encompass* something is to walk a ring around it.
 
 Same root steps into **compass**, **pass**, **passage**, **pace** and **surpass**.
+
+### Also sits in
+- **Meaning cluster** · [Leaving nothing out](groups.md#meaning__leaving-nothing-out) — with *thorough, exhaustive, encyclopedic*
+- **Intensity scale** · [Degrees of coverage](groups.md#intensity__degrees-of-coverage) — with *thorough, exhaustive, encyclopedic*
+- **Opposites** · [Taking in vs. shutting out](groups.md#antonym__taking-in-vs-shutting-out) — with *subsume, amalgamate, universal, marginalize, relegate, banish, alienate, immure, quarantine*
 
 ---
 
@@ -139,6 +156,11 @@ Oscar Wilde is the patron saint of the form — *"I can resist everything except
 Greek **aphorismos**, from **apo-** (*off, away*) + **horizein** (*to bound, to define*) — literally a *marking-off*, a definition. Hippocrates' medical *Aphorisms* opened with "Life is short, art is long."
 
 Same **horizein** gives you **horizon** — the line that bounds what you can see. Same **apo-** gives **apogee**, **apostasy**, **apostrophe**.
+
+### Also sits in
+- **Meaning cluster** · [The One-Line Truth: Earned, Issued, or Counterfeit](groups.md#meaning__a-crafted-general-truth) — with *dictum, platitude, bromide*
+- **Opposites** · [Padded prose vs. compressed prose](groups.md#antonym__padded-prose-vs-compressed-prose) — with *verbose, prolix, turgid, redundant, pithy, terse, brevity, economy*
+- **Opposites** · [Substance vs. hot air](groups.md#antonym__substance-vs-hot-air) — with *cogent, pithy, trenchant, vacuous, bombastic, turgid, platitude, bromide*
 
 ---
 
@@ -171,6 +193,10 @@ Literally a **bench** + a **mark**. Victorian surveyors chiselled a mark into a 
 
 So the whole modern meaning is already in the object: a *fixed physical reference point that everything else is measured from*. Same **-mark** family, different jobs: **landmark** (you navigate by it), **hallmark** (it identifies), **earmark** (it reserves).
 
+### Also sits in
+- **Meaning cluster** · [The model others copy](groups.md#meaning__the-model-others-copy) — with *paragon, archetype, paradigmatic*
+- **Opposites** · [Textbook case vs. off-model outlier](groups.md#antonym__textbook-case-vs-off-model-outlier) — with *paradigmatic, archetype, conventional, mundane, aberrant, anomalous, incongruous, outlandish, idiosyncratic*
+
 ---
 
 # **blighted** *(adj. / v. (past part.))* — **BLEYE-tid**
@@ -193,6 +219,9 @@ Something blighted was once lit up with promise and has been slowly dimmed by an
 
 ### In the wild
 **Potato blight** caused the Irish Famine — a fungus that crept through the fields and turned a healthy staple crop black in the ground. That's the literal picture behind every figurative use.
+
+### Also sits in
+- **Opposites** · [Luck running with you vs. against you](groups.md#antonym__luck-running-with-you-vs-against-you) — with *serendipitous, fortuitous, providential, boon, hapless, calamitous, adverse*
 
 ---
 
@@ -223,6 +252,12 @@ Philippians 4:11 — *"I have learned, in whatsoever state I am, therewith to be
 Latin **continēre** = *"to hold together, hold in"* (**con-** *together* + **tenēre** *to hold*) → *contentus*, "restrained, satisfied."
 
 The whole family is about holding: **contain, container, continent** (as an adjective, *self-restrained*), **incontinent** (unable to hold it in), **countenance** (your bearing — how you hold yourself). And **tenēre** alone gives **tenacious, tenant, retain, detain, tenable**.
+
+### Also sits in
+- **Meaning cluster** · [At ease — and whether that ease is earned](groups.md#meaning__wanting-nothing-more) — with *sanguine, complacent*
+- **Second meaning** · [Homographs: A Wholly Different Word](groups.md#second-meaning__homographs-a-wholly-different-word) — with *august, minute, keen*
+- **Intensity scale** · [Contentment to euphoria](groups.md#intensity__contentment-to-euphoria) — with *buoyant, elated, euphoric*
+- **Opposites** · [Complaining vs. bearing it in silence](groups.md#antonym__complaining-vs-bearing-it-in-silence) — with *querulous, grumble, curmudgeon, petulant, fractious, grievance, stoic, forbear, equanimity, abide*
 
 ---
 
@@ -256,6 +291,12 @@ The word wears its meaning on the outside: *base* metals are the cheap ones (lea
 
 So the whole word is literally *"to lower the low-ness"* — to push something further down the scale of worth.
 
+### Also sits in
+- **Meaning cluster** · [Spoiled from Within: Adulterate, Debase, Vitiate, Tarnish](groups.md#meaning__spoil-by-mixing-or-staining) — with *adulterate, vitiate, tarnish*
+- **Second meaning** · [Shine, Alloy, and Worth: Forge Words Gone Abstract](groups.md#second-meaning__metal-and-coinage-words-for-reputation) — with *burnish, tarnish, adulterate, unalloyed, temper*
+- **Opposites** · [Pure vs. adulterated](groups.md#antonym__pure-vs-adulterated) — with *pristine, immaculate, unalloyed, distill, refine, adulterate, vitiate, tarnish, sordid*
+- **Opposites** · [Raising up vs. bringing down](groups.md#antonym__raising-up-vs-bringing-down) — with *anoint, deify, lionize, canonize, venerate, depose, oust, relegate, belittle, marginalize*
+
 ---
 
 # **disconcerting** *(adj.)* — **dis-kuhn-SER-ting**
@@ -278,6 +319,10 @@ The damage is to harmony and poise, not to safety — which is exactly why the w
 From **concert** (via French *concerter*, from Latin *conserere / concertare* — "to bring into agreement"), plus the reversing prefix **dis-**. To *concert* is to get parties acting in harmony; to **disconcert** is to break that harmony.
 
 Same root gives you **concert**, **concerted** (*a concerted effort* = agreed and coordinated, not merely strong), and **concerto**.
+
+### Also sits in
+- **Meaning cluster** · [Thrown off composure](groups.md#meaning__thrown-off-composure) — with *discomfit, flustered, agitate*
+- **Opposites** · [Unshakeable Poise vs. Rattled](groups.md#antonym__unshakeable-poise-vs-rattled) — with *equanimity, imperturbable, aplomb, poise, stoic, flustered, discomfit, nonplussed, skittish*
 
 ---
 
@@ -311,6 +356,11 @@ Latin **ex-** (*out*) + **stāre** (*to stand*) — "standing out, still standin
 
 🚫 Not related to **extent** — that's *tendere*, "to stretch" (*extend, tension, tendency*). Same first five letters, unrelated word.
 
+### Also sits in
+- **Meaning cluster** · [Left Over From Before](groups.md#meaning__left-over-from-before) — with *vestigial, residual*
+- **Opposites** · [Fleeting vs. Fixed](groups.md#antonym__fleeting-vs-permanent) — with *ephemeral, evanescent, transient, transitory, momentary, perennial, immutable, entrenched*
+- **Root family** · [Root: stāre (to stand)](groups.md#root__stare) — with *staid, stanch, substantiate*
+
 ---
 
 # **facility** *(n.)* — **fuh-SIL-uh-tee**
@@ -338,6 +388,12 @@ Every sign you walk past — *sports facility, correctional facility, medical fa
 ### Where it comes from
 Latin **facilis** = *"easy,"* from **facere** = *"to do, to make."* That root is everywhere: **facilitate** (make easy), **faculty** (an ability — or the people who have it), **factory**, **manufacture**, **benefactor**, **affect**. If a GRE word has *fac-* or *fic-* in it, it's usually about **doing or making**.
 
+### Also sits in
+- **Meaning cluster** · [Solidly skilled](groups.md#meaning__solidly-skilled) — with *competent, proficient, prowess*
+- **Second meaning** · [Common nouns whose everyday sense hides the tested one](groups.md#second-meaning__abstract-nouns-whose-plain-sense-misleads) — with *economy, latitude, repertoire*
+- **Connotation** · [Skill that looks effortless](groups.md#connotation__skill-that-looks-effortless) — with *dexterous, deft, nimble, adroit, adept*
+- **Opposites** · [Sure-handed vs. all thumbs](groups.md#antonym__sure-handed-vs-all-thumbs) — with *adept, adroit, deft, dexterous, proficient, inept, gauche, gawky, feckless, cumbersome*
+
 ---
 
 # **fitful** *(adj.)* — **FIT-fuhl**
@@ -363,6 +419,10 @@ Macbeth on the murdered Duncan: *"After life's **fitful** fever he sleeps well."
 From the noun **fit** in its old sense of *a sudden seizure or paroxysm* — an epileptic **fit**, a coughing fit, a fit of rage. Something fitful comes in those little attacks.
 
 🚫 **Not the *fit* that means "suitable" or "in shape."** Unrelated word entirely — a fitful jacket is not a well-tailored one.
+
+### Also sits in
+- **Meaning cluster** · [Stopping and starting](groups.md#meaning__stopping-and-starting) — with *intermittent, sporadic, erratic, desultory*
+- **Opposites** · [Never stopping vs. stopping and starting](groups.md#antonym__never-stopping-vs-stopping-and-starting) — with *incessant, interminable, perennial, perpetuate, intermittent, sporadic, desultory*
 
 ---
 
@@ -391,6 +451,12 @@ The standard news-and-courtroom phrase **"charged with inciting a riot"** — th
 Latin **citāre** = *"to set in motion, summon, call forth"*, with **in-** = *"on, into"*. Literally: to set someone moving.
 
 That root is worth banking: **cite** (summon a source), **recite** (call out again), **excite** (stir out of calm), **solicit**, **resuscitate** (call back to life).
+
+### Also sits in
+- **Meaning cluster** · [Rouse someone to act](groups.md#meaning__rouse-someone-to-act) — with *exhort, goad, galvanize, foment*
+- **Intensity scale** · [Stirring people up](groups.md#intensity__stirring-people-up) — with *goad, antagonize, foment*
+- **Opposites** · [Heading it off vs. bringing it on](groups.md#antonym__heading-it-off-vs-bringing-it-on) — with *forestall, obviate, preclude, avert, deter, engender, precipitate, induce, foment*
+- **Opposites** · [Stirring people up vs. calming them down](groups.md#antonym__stirring-people-up-vs-calming-them-down) — with *foment, goad, agitate, provocative, pacify, mollify, placate, quash, suppress*
 
 ---
 
@@ -424,6 +490,11 @@ Latin **in-** ("in") + **dūcere** ("to lead") — literally *lead in*.
 
 **-duc-** is one of the highest-yield roots on the GRE: **conduct** (lead together), **produce** (lead forth), **reduce** (lead back), **seduce** (lead astray), **abduct** (lead away), **educate** (lead out), **aqueduct** (leads water). Spot *-duc-* and you're looking at leading.
 
+### Also sits in
+- **Meaning cluster** · [Bring about vs. draw out](groups.md#meaning__bring-into-being) — with *engender, precipitate, elicit, evoke*
+- **Opposites** · [Heading it off vs. bringing it on](groups.md#antonym__heading-it-off-vs-bringing-it-on) — with *forestall, obviate, preclude, avert, deter, engender, precipitate, foment, incite*
+- **Root family** · [Root: dūcere (to lead) — conducive, induce, subdued](groups.md#root__ducere) — with *conducive, subdued*
+
 ---
 
 # **infelicity** *(n.)* — **in-fuh-LIS-uh-tee**
@@ -453,6 +524,10 @@ Latin **felix, felicis** = *"happy, lucky, fruitful"* + the negating **in-**.
 The whole family is cheerful except this one: **felicity** (bliss), **felicitous** (aptly, happily phrased), **felicitations** (congratulations), and the name **Felix** — "the lucky one."
 
 Note that *felicitous* already means **well-put**, not merely happy — so *infelicitous* is the natural adjective for a phrase that misses.
+
+### Also sits in
+- **Meaning cluster** · [Socially clumsy](groups.md#meaning__socially-clumsy) — with *gauche, gawky, gaffe, inept*
+- **Connotation** · [Clumsiness with embarrassment attached](groups.md#connotation__clumsiness-with-embarrassment-attached) — with *gawky, gauche, boorish, inept, gaffe*
 
 ---
 
@@ -488,6 +563,12 @@ Latin **inter** (*between*) + **legere** (*to pick out, read*) → *intellegere*
 
 **legere** is a GRE workhorse: **legible**, **lecture**, **legend** (*things to be read*), **elect** and **select** (*pick out*), **collect**, and **intellect** itself.
 
+### Also sits in
+- **Meaning cluster** · [Clear prose: from luminous praise to the bare minimum](groups.md#meaning__transparently-clear-prose) — with *lucid, limpid, pellucid, coherent*
+- **Intensity scale** · [Understandable to crystal clear](groups.md#intensity__understandable-to-crystal-clear) — with *coherent, lucid, limpid, pellucid*
+- **Opposites** · [Crystal-clear vs. impenetrable](groups.md#antonym__crystal-clear-vs-impenetrable) — with *lucid, limpid, pellucid, coherent, abstruse, recondite, opaque, turbid, convoluted, byzantine, impenetrable*
+- **Root family** · [Root: legere (to pick out, read) — attention chosen, withheld, and received](groups.md#root__legere) — with *negligent, predilection*
+
 ---
 
 # **makeshift** *(adj. (also n.))* — **MAYK-shift**
@@ -513,6 +594,9 @@ News reports run on this word: a **makeshift memorial** of flowers and candles o
 From the old phrase **"to make shift"** = *to contrive, to manage somehow*. **Shift** here means **an expedient**, not movement.
 
 That older sense unlocks a cousin: **shiftless** = not lazy in the sleepy sense but **lacking resourcefulness**, unable to contrive anything for yourself.
+
+### Also sits in
+- **Meaning cluster** · [Made Up on the Spot](groups.md#meaning__made-up-on-the-spot) — with *improvise, extemporize, ad hoc, expedient*
 
 ---
 
@@ -599,6 +683,14 @@ Latin **plaudere** = *"to clap, applaud"* → *plausibilis*, "deserving applause
 
 Same root: **applaud, applause, plaudits** — and **explode**, from *explodere*, "to clap a bad actor **off** the stage."
 
+### Also sits in
+- **Meaning cluster** · [Argument you can't resist](groups.md#meaning__argument-you-can-t-resist) — with *compelling, cogent, credible*
+- **Meaning cluster** · [Convincing on the surface](groups.md#meaning__convincing-on-the-surface) — with *credible, verisimilitude, specious*
+- **Lookalike** · [feasible / plausible / viable](groups.md#lookalike__feasible-plausible) — with *feasible, viable*
+- **Intensity scale** · [Strength of evidence: from guess to proof](groups.md#intensity__strength-of-evidence) — with *conjectural, credible, conclusive, incontrovertible*
+- **Connotation** · [Argument That Only Looks Sound](groups.md#connotation__argument-that-only-looks-sound) — with *fallacious, specious, spurious, tendentious, sophistry*
+- **Opposites** · [Ring of Truth vs. Exposed Fake](groups.md#antonym__ring-of-truth-vs-exposed-fake) — with *credible, veracity, verisimilitude, bogus, counterfeit, sham, phony, spurious, feign*
+
 ---
 
 # **posturing** *(n. / v. (gerund))* — **POS-cher-ing**
@@ -624,6 +716,14 @@ Nobody's straight back at a dinner table is natural, and neither is the outrage 
 Latin **pōnere / positus** = *"to place, to put."* A **posture** is literally how you've placed your body; posturing is placing yourself in a stance for an audience.
 
 Same root, whole GRE family: **position, posit, deposit, compose, impose, juxtapose, repository**.
+
+### Also sits in
+- **Meaning cluster** · [Parading your own virtue](groups.md#meaning__parading-your-own-virtue) — with *sanctimonious, pious, hypocrite*
+- **Meaning cluster** · [Putting It On: from a fake feeling to a fake institution](groups.md#meaning__fake-a-feeling) — with *feign, dissemble, affectation, sham*
+- **Meaning cluster** · [Straining to impress](groups.md#meaning__straining-to-impress) — with *pretentious, affectation, pomposity, aggrandize*
+- **Connotation** · [Display staged for an audience](groups.md#connotation__display-staged-for-an-audience) — with *ostentatious, pretentious, affectation, bravado, histrionic*
+- **Connotation** · [Virtue performed rather than held](groups.md#connotation__virtue-performed-rather-than-held) — with *sanctimonious, pious, hypocrite, didactic*
+- **Root family** · [Root: ponere, positus (to place)](groups.md#root__ponere) — with *apposite, apropos, depose*
 
 ---
 
@@ -655,6 +755,9 @@ Latin **posse / potens** = *"to be able, being able."* Enormously productive: **
 
 So the core sense is always **ability**, not bulk. Something potent *can do* something.
 
+### Also sits in
+- **Meaning cluster** · [It actually works](groups.md#meaning__it-actually-works) — with *efficacious, fruitful, salutary*
+
 ---
 
 # **redundant** *(adj.)* — **ri-DUN-duhnt**
@@ -680,6 +783,14 @@ Corporate life: being **"made redundant"** is the British phrase for being laid 
 
 ### Where it comes from
 Latin **redundare** = *"to overflow"* — *re-* (back) + **unda** (*wave*). That *unda* is a high-yield GRE root: **inundate** (flood in), **abundant** (waves of it), **undulate** (move in waves), **surround**.
+
+### Also sits in
+- **Meaning cluster** · [More Than Is Needed: Five Kinds of Too Much](groups.md#meaning__more-than-is-needed) — with *surfeit, exorbitant, superfluous, gratuitous*
+- **Meaning cluster** · [Say it again](groups.md#meaning__say-it-again) — with *reiterate, recapitulate, perpetuate*
+- **Connotation** · [Surplus counted as fault](groups.md#connotation__surplus-counted-as-fault) — with *superfluous, extraneous, gratuitous, surfeit*
+- **Opposites** · [Must Be There vs. Shouldn't Be There](groups.md#antonym__can-t-do-without-vs-could-do-without) — with *indispensable, imperative, intrinsic, superfluous, extraneous, gratuitous*
+- **Opposites** · [Padded prose vs. compressed prose](groups.md#antonym__padded-prose-vs-compressed-prose) — with *verbose, prolix, turgid, pithy, terse, brevity, economy, aphorism*
+- **Root family** · [Root: unda (wave), via abundāre (to overflow)](groups.md#root__unda) — with *abound, inundate*
 
 ---
 
@@ -708,6 +819,10 @@ Standard boardroom and Westminster boilerplate before bad news: *"In this review
 Latin **sacrōsanctus** = *sacer* ("sacred") + *sanctus* ("consecrated") — holy said twice, belt and braces, because it originally described something protected by a binding religious oath.
 
 Both halves are GRE workhorses: *sacer* → **sacred, sacrifice, sacrament, consecrate**; *sanctus* → **saint, sanctuary, sanctity, sanction, sanctimonious**.
+
+### Also sits in
+- **Meaning cluster** · [Too sacred to touch](groups.md#meaning__too-sacred-to-touch) — with *inviolate, numinous*
+- **Opposites** · [Held sacred vs. treated as fair game](groups.md#antonym__held-sacred-vs-treated-as-fair-game) — with *inviolate, venerate, numinous, canonize, irreverent, iconoclastic, deride, flout*
 
 ---
 
@@ -739,6 +854,11 @@ From Middle English **shrewe** = *"a wicked, malicious person"* (and the small s
 
 That history is exactly why the word still has a faint chill in it — the praise was originally an insult, and never fully lost the edge.
 
+### Also sits in
+- **Meaning cluster** · [Shrewd Judgment: Reading People, Money, and Motives](groups.md#meaning__shrewd-read-of-people) — with *astute, canny, perspicacious, sagacious, acumen*
+- **Connotation** · [Sharp judgment, as a compliment](groups.md#connotation__sharpness-of-mind-admired) — with *astute, canny, sagacious, perspicacious, acumen*
+- **Opposites** · [Easily fooled vs. hard to fool](groups.md#antonym__easily-fooled-vs-hard-to-fool) — with *naive, gullible, dupe, ingenuous, artless, astute, canny, wily, perspicacious*
+
 ---
 
 # **unadorned** *(adj.)* — **un-uh-DORND**
@@ -764,6 +884,10 @@ Journalists and lawyers live on the collocation **"the plain, unadorned facts"**
 **adorn** ← Latin **ad-** (*to*) + **ornāre** (*to equip, to embellish*). Same root gives **ornament**, **ornate**, and **suborn** (literally *to equip secretly* — i.e. to bribe a witness).
 
 So *ornate* and *unadorned* are exact opposites built from the same Latin block.
+
+### Also sits in
+- **Meaning cluster** · [Bare and comfortless](groups.md#meaning__bare-and-comfortless) — with *austere, spartan, ascetic*
+- **Opposites** · [Stripped bare vs. gilded](groups.md#antonym__stripped-bare-vs-gilded) — with *austere, spartan, utilitarian, understated, ornate, baroque, florid, flamboyant, embellish, ostentatious*
 
 ---
 
@@ -817,6 +941,9 @@ Old North French **warant** = *"protector, guarantee."* Northern French kept the
 
 A warrant is the paper that *guarantees* an act is lawful — hence *warranted* = backed, licensed, justified.
 
+### Also sits in
+- **Second meaning** · [Courtroom Words Off Duty](groups.md#second-meaning__legal-words-whose-tested-sense-is-figurative) — with *arresting, apprehension, indictment*
+
 ---
 
 # **wistful** *(adj.)* — **WIST-fuhl**
@@ -839,3 +966,7 @@ The whisper captures the register: not a cry of grief, just a soft private ache 
 
 ### In the wild
 The Beatles' **"In My Life"** is wistfulness in three minutes — *\"There are places I'll remember all my life, though some have changed\"* — fond, backward-looking, and completely free of bitterness.
+
+### Also sits in
+- **Meaning cluster** · [Quiet sadness: the mood, the longing, and the thing that stings](groups.md#meaning__tender-backward-looking-sadness) — with *pensive, poignant*
+- **Intensity scale** · [Shades of gloom: pensive → wistful → glum → morose → lugubrious](groups.md#intensity__shades-of-gloom) — with *pensive, glum, morose, lugubrious*
