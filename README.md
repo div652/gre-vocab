@@ -97,9 +97,26 @@ progress.
 
 ## Live
 
-**https://div652.github.io/gre-vocab/** — the flashcard app, served by GitHub Pages.
-It is one self-contained file with no server or network dependency, so it works
-offline once loaded and runs the same on a phone as on a desktop.
+**Web —** https://div652.github.io/gre-vocab/ (GitHub Pages)
+**Android —** [download the APK](https://github.com/div652/gre-vocab/releases/latest/download/gre-vocab.apk)
+
+Both run the identical self-contained `flashcards.html`. The web build has no
+server or network dependency once loaded; the Android build bundles the same file
+into `assets/` and never touches the network at all.
+
+The APK is built by CI on every change to the web app, so the two never drift.
+It requires Android 8.0+, targets API 35 (Android 15), and asks for no permissions.
+
+### Android build notes
+
+Assets are served through `WebViewAssetLoader` on an `https://` origin rather than
+loaded as `file:///android_asset/`. `localStorage` on a `file://` origin is
+unreliable across WebView versions, and `localStorage` is exactly where the
+difficulty marks live.
+
+Export uses a small JS bridge, because a `blob:` download inside a WebView is
+silently dropped by DownloadManager. The web build calls `AndroidBridge.saveText`
+when it is present and falls back to a normal blob download everywhere else.
 
 ## Source data
 

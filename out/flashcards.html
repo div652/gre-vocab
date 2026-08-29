@@ -333,7 +333,14 @@ $("shuffle").onclick = () => {
 };
 
 $("exp").onclick = () => {
-  const blob = new Blob([JSON.stringify(marks,null,2)],{type:"application/json"});
+  const text = JSON.stringify(marks,null,2);
+  // Inside the Android WebView wrapper a blob download silently does nothing,
+  // so hand the text to the native side instead when the bridge is present.
+  if(window.AndroidBridge && AndroidBridge.saveText){
+    AndroidBridge.saveText("difficulty.json", text);
+    return;
+  }
+  const blob = new Blob([text],{type:"application/json"});
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob); a.download = "difficulty.json"; a.click();
 };

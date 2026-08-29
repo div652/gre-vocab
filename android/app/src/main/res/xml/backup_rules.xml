@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- WebView local storage holds the difficulty marks; back it up. -->
+    <include domain="database" path="." />
+    <include domain="file" path="." />
+</full-backup-content>

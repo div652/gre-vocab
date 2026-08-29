@@ -1,0 +1,96 @@
+name: Build APK
+
+# The APK is just the web app in a shell, so it is rebuilt whenever the web app
+# changes. No Android SDK is needed on anyone's machine.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "out/flashcards.html"
+      - "android/**"
+      - ".github/workflows/android.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bundle the web app into the APK
+        run: |
+          test -f out/flashcards.html || { echo "out/flashcards.html missing"; exit 1; }
+          mkdir -p android/app/src/main/assets
+          cp out/flashcards.html android/app/src/main/assets/flashcards.html
+          ls -lh android/app/src/main/assets/
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: android-actions/setup-android@v3
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.11.1"
+
+      - name: Restore signing key
+        id: signing
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
+        run: |
+          if [ -z "$KEYSTORE_B64" ]; then
+            echo "No keystore secret; building unsigned (installable only after manual signing)."
+            echo "signed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "$KEYSTORE_B64" | base64 -d > "$RUNNER_TEMP/release.jks"
+            echo "signed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build release APK
+        working-directory: android
+        env:
+          VERSION_CODE: ${{ github.run_number }}
+          VERSION_NAME: "1.0.${{ github.run_number }}"
+          KEYSTORE_PATH: ${{ steps.signing.outputs.signed == 'true' && format('{0}/release.jks', runner.temp) || '' }}
+          KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: gradle --no-daemon assembleRelease
+
+      - name: Collect the APK
+        id: apk
+        run: |
+          src=$(find android/app/build/outputs/apk/release -name "*.apk" | head -1)
+          test -n "$src" || { echo "no APK produced"; exit 1; }
+          mkdir -p dist && cp "$src" dist/gre-vocab.apk
+          echo "size=$(du -h dist/gre-vocab.apk | cut -f1)" >> "$GITHUB_OUTPUT"
+          ls -lh dist/
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gre-vocab-apk
+          path: dist/gre-vocab.apk
+
+      # A release per build means /releases/latest/download/gre-vocab.apk is a
+      # stable URL that always serves the newest build.
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="v1.0.${{ github.run_number }}"
+          gh release create "$tag" dist/gre-vocab.apk \
+            --title "GRE Vocab $tag" \
+            --notes "Offline Android build of the flashcard app — 1112 cards and 655 groups bundled in.
+
+          **Install:** download \`gre-vocab.apk\` below and open it. Android will ask you to allow installing from this source; that is expected for any app not from the Play Store.
+
+          Requires Android 8.0 or newer. Built and tested against Android 15 (API 35).
+
+          APK size: ${{ steps.apk.outputs.size }}" \
+            --latest
