@@ -49,7 +49,18 @@ android {
     androidResources { noCompress += listOf("html") }
 }
 
+// androidx drags in Kotlin's stdlib transitively even though this app is pure
+// Java, and it arrives twice: kotlin-stdlib 1.8.22 plus the legacy
+// kotlin-stdlib-jdk7/jdk8 1.6.21. Since Kotlin 1.8 the jdk7/jdk8 artifacts were
+// folded into the main stdlib, so every class in them is a duplicate and
+// checkDuplicateClasses fails the build. Drop the legacy pair.
+configurations.all {
+    exclude(group = "org.jetbrains.kotlin", module = "kotlin-stdlib-jdk7")
+    exclude(group = "org.jetbrains.kotlin", module = "kotlin-stdlib-jdk8")
+}
+
 dependencies {
+    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.9.24"))
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("androidx.webkit:webkit:1.12.1")
     implementation("androidx.core:core:1.13.1")
