@@ -189,7 +189,8 @@ const GROUPS = __GROUPS__;
 const KINDLABEL = __KINDLABEL__;
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
-let mode = "browse", order = [], idx = 0, revealed = false, openWord = null, openGroup = null;
+let mode = "browse", order = [], idx = 0, revealed = false,
+    openWord = null, openGroup = null, quizGroup = null;
 
 /* word -> the groups it belongs to, so a card can show its neighbourhoods */
 const GROUPS_OF = {};
@@ -274,6 +275,7 @@ function groupHTML(g, open){
          return `<li class="d-${m}"><strong>${esc(w.word)}</strong> — ${md(w.nuance).replace(/<\/?p>/g,"")}</li>`;
        }).join("") + `</ul>`;
   if(g.exam_note) h += `<blockquote><strong>On the exam:</strong> ${md(g.exam_note).replace(/<\/?p>/g,"")}</blockquote>`;
+  h += `<div style="margin-top:16px"><button class="qgroup" data-gid="${esc(g.id)}">Quiz just these ${g.words.length} words →</button></div>`;
   return h + `</div>`;
 }
 
@@ -285,7 +287,10 @@ function renderGroups(){
     ? list.map(g => groupHTML(g, g.id === openGroup)).join("")
     : `<div class="empty">No group matches that.</div>`;
   document.querySelectorAll("#groups .grow").forEach(el =>
-    el.onclick = () => { openGroup = openGroup === el.dataset.gid ? null : el.dataset.gid; renderGroups(); });
+    el.onclick = () => go(openGroup === el.dataset.gid
+      ? "/groups" : "/groups/" + encodeURIComponent(el.dataset.gid)));
+  document.querySelectorAll("#groups .qgroup").forEach(el =>
+    el.onclick = e => { e.stopPropagation(); go("/quiz/" + encodeURIComponent(el.dataset.gid)); });
 }
 
 function renderBrowse(){
@@ -301,7 +306,8 @@ function renderBrowse(){
   }).join("") : `<div class="empty">Nothing matches that filter.</div>`;
 
   document.querySelectorAll("#browse .row").forEach(el =>
-    el.onclick = () => { openWord = openWord === el.dataset.w ? null : el.dataset.w; renderBrowse(); });
+    el.onclick = () => go(openWord === el.dataset.w
+      ? "/browse" : "/browse/" + encodeURIComponent(el.dataset.w)));
   wireMarks(renderBrowse);
 }
 
@@ -396,19 +402,41 @@ function maskWord(text, word){
 }
 /* Groups a word sits in, largest first, so distractors come from a real cluster. */
 const groupsFor = w => (GROUPS_OF[w.toLowerCase()] || []);
+/* Distractors in strict preference order, each tier exhausted before the next:
+   the group being quizzed, then any group the word belongs to, then random.
+   Shuffling the tiers together would let a random word beat an in-cluster one,
+   which is exactly what makes a question easy. */
 function distractors(card, n){
-  const pool = new Set();
-  for(const g of groupsFor(card.word))
-    for(const m of g.words)
-      if(m.word.toLowerCase() !== card.word.toLowerCase()) pool.add(m.word);
-  let out = shuffled([...pool]).slice(0, n);
-  while(out.length < n){                       // fall back to random words
+  const self = card.word.toLowerCase();
+  const take = (src, seen) => shuffled([...new Set(src)]
+      .filter(w => w.toLowerCase() !== self && !seen.has(w.toLowerCase())));
+
+  const scoped = quizGroup && groupById(quizGroup);
+  const tier1 = scoped ? scoped.words.map(m => m.word) : [];
+  const tier2 = groupsFor(card.word).flatMap(g => g.words.map(m => m.word));
+
+  const out = [], seen = new Set();
+  for(const tier of [tier1, tier2]){
+    for(const w of take(tier, seen)){
+      if(out.length >= n) break;
+      out.push(w); seen.add(w.toLowerCase());
+    }
+  }
+  for(let i = 0; out.length < n && i < 400; i++){   // last resort: random
     const r = pick(CARDS).word;
-    if(r.toLowerCase() !== card.word.toLowerCase() && !out.includes(r)) out.push(r);
+    if(r.toLowerCase() !== self && !seen.has(r.toLowerCase())){ out.push(r); seen.add(r.toLowerCase()); }
   }
   return out;
 }
 const glossOf = w => (CARDS.find(c => c.word.toLowerCase() === w.toLowerCase()) || {}).one_line || "";
+const groupById = id => GROUPS.find(g => g.id === id);
+/* Words of the group the quiz is scoped to, or null when quizzing everything. */
+function scopedCards(){
+  const g = quizGroup && groupById(quizGroup);
+  if(!g) return null;
+  const want = new Set(g.words.map(m => m.word.toLowerCase()));
+  return CARDS.filter(c => want.has(c.word.toLowerCase()));
+}
 
 /* ---- question generators: each returns {type,label,stem,options,answer,why} or null ---- */
 const GEN = {
@@ -481,8 +509,9 @@ let quizOnlyDue = JSON.parse(localStorage.getItem("gre-vocab-qdue") || "true");
 let q = null, qAnswered = false, qScore = {right:0, total:0}, qStarted = false;
 
 function nextQuestion(){
-  let pool = filtered();
-  if(quizOnlyDue){ const d = pool.filter(isDue); if(d.length) pool = d; }
+  let pool = scopedCards() || filtered();
+  // A group is small, so "only what's due" would usually empty it. Scope wins.
+  if(quizOnlyDue && !quizGroup){ const d = pool.filter(isDue); if(d.length) pool = d; }
   if(!pool.length){ q = null; return; }
   for(let i=0;i<40;i++){
     const c = pick(pool);
@@ -507,6 +536,7 @@ function answerQuestion(choice){
 function renderQuiz(){
   const el = $("quiz");
   if(!qStarted){
+    const scoped = quizGroup && groupById(quizGroup);
     const labels = {cloze:"Fill in the blank — a real sentence with the word removed, distractors drawn from its own meaning cluster. Closest to the actual exam.",
       nuance:"A nuance from one of your group write-ups, with the word hidden. Pure discrimination between near-synonyms.",
       odd:"Four words from one cluster plus an intruder. Tests whether you've internalised the cluster.",
@@ -514,9 +544,12 @@ function renderQuiz(){
       connotation:"Positive, neutral or negative — the thing Sentence Equivalence turns on.",
       recall:"Produce the word from its definition. Hardest, and worth several passive reviews."};
     el.innerHTML = `<div class="q"><div class="setup">
-      <h3>Quiz</h3>
-      <p class="hint">${dueCount()} of ${CARDS.length} words are due for review today.</p>
-      <label><input type="checkbox" id="qdue" ${quizOnlyDue?"checked":""}>
+      <h3>Quiz${scoped ? ": " + esc(scoped.title) : ""}</h3>
+      ${scoped
+        ? `<p class="hint">${scoped.words.length} words in this group — ${scoped.words.map(m=>esc(m.word)).join(" · ")}<br>
+             <span class="chip" id="qall">quiz all ${CARDS.length} words instead</span></p>`
+        : `<p class="hint">${dueCount()} of ${CARDS.length} words are due for review today.</p>`}
+      <label style="${scoped?"opacity:.5":""}"><input type="checkbox" id="qdue" ${quizOnlyDue?"checked":""} ${scoped?"disabled":""}>
         <span><strong>Only ask what's due</strong><br><span class="hint">Spaced repetition. Uncheck to drill everything.</span></span></label>
       <hr class="sep">
       ${Object.keys(GEN).map(k=>`<label><input type="checkbox" class="qt" value="${k}" ${quizTypes.includes(k)?"checked":""}>
@@ -531,13 +564,14 @@ function renderQuiz(){
       localStorage.setItem("gre-vocab-qdue", JSON.stringify(quizOnlyDue));
       qStarted = true; qScore = {right:0,total:0}; nextQuestion(); renderQuiz();
     };
+    if($("qall")) $("qall").onclick = () => go("/quiz");
     return;
   }
   if(!q){ el.innerHTML = `<div class="empty">Nothing due. Uncheck "only what's due" to keep drilling.</div>`; return; }
 
   const pct = qScore.total ? Math.round(qScore.right/qScore.total*100) : 0;
   let h = `<div class="q">
-    <div class="qhead"><span class="qtype">${esc(q.label)}</span>
+    <div class="qhead"><span class="qtype">${esc(q.label)}${quizGroup && groupById(quizGroup) ? " · " + esc(groupById(quizGroup).title) : ""}</span>
       <span class="score">${qScore.right}/${qScore.total}${qScore.total?` · ${pct}%`:""} · <span class="due">${dueCount()} due</span></span></div>
     <div class="qstem">${q.stem}</div>`;
 
@@ -570,10 +604,8 @@ function renderQuiz(){
   if(t && !qAnswered){ t.focus(); t.onkeydown = e => { if(e.key==="Enter" && t.value.trim()) answerQuestion(t.value); }; }
   const nx = $("qnext");
   if(nx) nx.onclick = () => { nextQuestion(); renderQuiz(); };
-  el.querySelectorAll(".verdict .chip").forEach(ch => ch.onclick = () => {
-    openWord = ch.dataset.w; setMode("browse");
-    document.querySelector(`#browse .row[data-w="${CSS.escape(openWord)}"]`)?.scrollIntoView({block:"center"});
-  });
+  el.querySelectorAll(".verdict .chip").forEach(ch =>
+    ch.onclick = () => go("/browse/" + encodeURIComponent(ch.dataset.w)));
 }
 
 function render(){
@@ -589,21 +621,72 @@ document.addEventListener("click", e => {
   const chip = e.target.closest(".chip");
   if(!chip) return;
   e.stopPropagation();
-  openGroup = chip.dataset.gid;
-  setMode("groups");
-  document.querySelector(`#groups .grow[data-gid="${CSS.escape(openGroup)}"]`)
-    ?.scrollIntoView({block:"center"});
+  go("/groups/" + encodeURIComponent(chip.dataset.gid));
 });
 
-function setMode(m){
+/* ==========================================================================
+   Routing
+   --------------------------------------------------------------------------
+   Without this the app is one history entry, so Back leaves the site entirely
+   instead of stepping back through what you were reading. Every navigation
+   pushes a hash route, and the last route is persisted so reopening the app
+   returns you to where you were rather than to the top of the word list.
+
+   Routes:  /browse  /browse/<word>  /drill  /quiz  /quiz/<groupId>
+            /groups  /groups/<groupId>
+   ========================================================================== */
+
+const ROUTE_KEY = "gre-vocab-route";
+const MODES = [["browse","mBrowse"],["drill","mDrill"],["quiz","mQuiz"],["groups","mGroups"]];
+
+function currentRoute(){
+  let r = "/" + mode;
+  if(mode === "browse" && openWord)  r += "/" + encodeURIComponent(openWord);
+  if(mode === "groups" && openGroup) r += "/" + encodeURIComponent(openGroup);
+  if(mode === "quiz"   && quizGroup) r += "/" + encodeURIComponent(quizGroup);
+  return r;
+}
+
+/* Apply a route to the UI. Does not touch history - callers decide that. */
+function applyRoute(route){
+  const bits = (route || "/browse").split("/");
+  let m = bits[1] || "browse";
+  const arg = bits[2] ? decodeURIComponent(bits[2]) : null;
+  if(!MODES.some(([k]) => k === m)) m = "browse";
+
+  const prevMode = mode, prevQuizGroup = quizGroup;
   mode = m;
-  [["browse","mBrowse"],["drill","mDrill"],["quiz","mQuiz"],["groups","mGroups"]].forEach(([k,id]) => {
+  openWord  = m === "browse" ? arg : null;
+  openGroup = m === "groups" ? arg : null;
+  quizGroup = m === "quiz"   ? arg : null;
+
+  MODES.forEach(([k, id]) => {
     $(id).classList.toggle("on", k === m);
     $(k).classList.toggle("hidden", k !== m);
   });
   if(m === "drill") revealed = false;
+  // Re-show the quiz setup when entering the quiz fresh or switching scope, so
+  // a group-scoped quiz doesn't silently continue the previous session.
+  if(m === "quiz" && (prevMode !== "quiz" || prevQuizGroup !== quizGroup)) qStarted = false;
+
+  localStorage.setItem(ROUTE_KEY, route);
   render();
+  if(arg) setTimeout(() => {
+    const sel = m === "browse" ? `#browse .row[data-w="${CSS.escape(arg)}"]`
+                               : `#groups .grow[data-gid="${CSS.escape(arg)}"]`;
+    document.querySelector(sel)?.scrollIntoView({block:"center"});
+  }, 0);
 }
+
+function go(route, replace){
+  if(!replace && location.hash.slice(1) === route){ applyRoute(route); return; }
+  history[replace ? "replaceState" : "pushState"]({route}, "", "#" + route);
+  applyRoute(route);
+}
+
+function setMode(m){ go("/" + m); }
+
+window.addEventListener("popstate", () => applyRoute(location.hash.slice(1) || "/browse"));
 
 /* ---- wiring ---- */
 const groups = [...new Set(CARDS.flatMap(c=>c.groups||[]))].sort((a,b)=>a-b);
@@ -615,7 +698,7 @@ $("group").innerHTML = `<option value="">all groups</option>` +
 
 $("mBrowse").onclick = () => setMode("browse");
 $("mDrill").onclick  = () => setMode("drill");
-$("mQuiz").onclick   = () => { qStarted = false; setMode("quiz"); };
+$("mQuiz").onclick   = () => setMode("quiz");
 $("mGroups").onclick = () => setMode("groups");
 
 $("shuffle").onclick = () => {
@@ -648,6 +731,9 @@ $("file").onchange = e => {
   });
 };
 
+/* Restore where you were: URL hash wins, else the last route from last time. */
+go(location.hash.slice(1) || localStorage.getItem(ROUTE_KEY) || "/browse", true);
+
 document.addEventListener("keydown", e => {
   if(mode!=="drill" || /input|select/i.test(e.target.tagName)) return;
   if(e.key===" "){ e.preventDefault(); revealed=true; renderDrill(); }
@@ -658,7 +744,6 @@ document.addEventListener("keydown", e => {
   if(e.key==="ArrowLeft")  $("prev")?.click();
 });
 
-render();
 </script></body></html>
 """
 
