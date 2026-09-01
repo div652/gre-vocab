@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat01__b1",
+  "gregmat_group": 1,
+  "words": [
+    "capricious",
+    "cerebral",
+    "congenial",
+    "conspicuous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Tenure at the sultan's court depended less on merit than on the {1} favor of a ruler whose reversals no minister could predict or appeal, and so even the ablest advisers cultivated a deliberate {2}, judging it safer to be overlooked than admired.",
+      "blanks": [
+        {
+          "options": [
+            "capricious",
+            "resolute",
+            "cordial"
+          ],
+          "answers": [
+            "capricious"
+          ]
+        },
+        {
+          "options": [
+            "obscurity",
+            "flamboyance",
+            "candor"
+          ],
+          "answers": [
+            "obscurity"
+          ]
+        }
+      ],
+      "words": [
+        "capricious"
+      ],
+      "explanation": "The relative clause specifies changes that cannot be predicted or appealed, exercised by a ruler over dependents — exactly the power gap capricious names; resolute reverses the sense and cordial describes warmth, not volatility. The second blank is fixed by \"safer to be overlooked than admired,\" which demands obscurity and rules out flamboyance; candor would be a stance toward truth, not toward visibility.",
+      "id": "gregmat01__b1__tc2__00",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "Colonial magistrates were empowered to set fines at their own discretion, and to the villagers the resulting penalties seemed wholly {1}: unrelated to the gravity of the offense and impossible to anticipate from one week to the next.",
+      "blanks": [
+        {
+          "options": [
+            "capricious",
+            "arbitrary",
+            "punitive",
+            "exorbitant",
+            "equitable",
+            "transparent"
+          ],
+          "answers": [
+            "capricious",
+            "arbitrary"
+          ]
+        }
+      ],
+      "words": [
+        "capricious"
+      ],
+      "explanation": "\"Unrelated to the gravity of the offense\" and \"impossible to anticipate\" describe whim exercised over others rather than severity, which is what capricious and arbitrary share. Punitive and exorbitant fit the register and would make sense of \"penalties,\" but they claim the fines were harsh, not unreasoned; equitable and transparent contradict the sentence outright.",
+      "id": "gregmat01__b1__se__01",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the published guidelines prepared candidates for an examiner so {1} that a thesis he had praised one year was failed the next on grounds he declined to specify.",
+      "blanks": [
+        {
+          "options": [
+            "capricious",
+            "exacting",
+            "stalwart",
+            "phlegmatic",
+            "erudite"
+          ],
+          "answers": [
+            "capricious"
+          ]
+        }
+      ],
+      "words": [
+        "capricious"
+      ],
+      "explanation": "The examiner reverses himself without explanation and the candidates must simply live with it, which is the power-gap sense of capricious. Exacting would explain harshness but not inconsistency, erudite explains only his learning, and stalwart and phlegmatic both imply the steadiness the sentence denies.",
+      "id": "gregmat01__b1__cloze__02",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics who had admired the director's early thrillers found her latest film exhaustingly {1}: every scene invites the audience to solve something, and not one of them invites it to {2}.",
+      "blanks": [
+        {
+          "options": [
+            "cerebral",
+            "mawkish",
+            "histrionic"
+          ],
+          "answers": [
+            "cerebral"
+          ]
+        },
+        {
+          "options": [
+            "grieve",
+            "deliberate",
+            "infer"
+          ],
+          "answers": [
+            "grieve"
+          ]
+        }
+      ],
+      "words": [
+        "cerebral"
+      ],
+      "explanation": "A film made entirely of puzzles is cerebral — all head, and \"exhaustingly\" supplies the criticism the word carries when overdone; mawkish and histrionic would describe an excess of feeling, the opposite complaint. The colon sets puzzle-solving against what is missing, so the second blank must name an emotional response: deliberate and infer merely restate the thinking the film already demands.",
+      "id": "gregmat01__b1__tc2__03",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "For all his want of pace, the midfielder was an unusually {1} player, reading passing lanes several moves ahead and winning possession by anticipation rather than by force.",
+      "blanks": [
+        {
+          "options": [
+            "cerebral",
+            "analytical",
+            "erudite",
+            "tenacious",
+            "phlegmatic",
+            "gregarious"
+          ],
+          "answers": [
+            "cerebral",
+            "analytical"
+          ]
+        }
+      ],
+      "words": [
+        "cerebral"
+      ],
+      "explanation": "Reading the game ahead of it describes a mode of playing — intellect over instinct and athleticism — which cerebral and analytical both name. Erudite would credit him with book learning, which has nothing to do with anticipation on a pitch; tenacious and phlegmatic are plausible football compliments but describe doggedness and calm rather than thought.",
+      "id": "gregmat01__b1__se__04",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "Neither man was warm by nature, yet through the Arctic winter they proved thoroughly {1} companions: each preferred silence to talk, and each found the other's reticence restful rather than rude.",
+      "blanks": [
+        {
+          "options": [
+            "congenial",
+            "agreeable",
+            "convivial",
+            "gregarious",
+            "vivacious",
+            "aloof"
+          ],
+          "answers": [
+            "congenial",
+            "agreeable"
+          ]
+        }
+      ],
+      "words": [
+        "congenial"
+      ],
+      "explanation": "The point is fit, not sociability: two reticent men suit each other, which congenial and agreeable both capture. Convivial, gregarious and vivacious all import the festive talkativeness the sentence explicitly denies, and aloof describes the temperament they share rather than the success of the pairing.",
+      "id": "gregmat01__b1__se__05",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "The thin, stony soils of the escarpment, all but useless for cereals, turned out to be remarkably {1} to the vine, which fruits best where it is kept slightly starved.",
+      "blanks": [
+        {
+          "options": [
+            "congenial",
+            "convivial",
+            "gregarious",
+            "amicable",
+            "cordial"
+          ],
+          "answers": [
+            "congenial"
+          ]
+        }
+      ],
+      "words": [
+        "congenial"
+      ],
+      "explanation": "Only congenial can take a place or set of conditions as its subject and mean well-suited to something's needs; the contrast with cereals establishes suitability as the point. Convivial, gregarious, amicable and cordial are all claims about people's sociability or relations and cannot describe soil at all.",
+      "id": "gregmat01__b1__cloze__06",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "In a hall where every other delegate wore the drab uniform of the party, the ambassador's scarlet sash made him instantly {1}; his prominence was nonetheless less {2} than it looked, since protocol rather than vanity had dictated the costume.",
+      "blanks": [
+        {
+          "options": [
+            "conspicuous",
+            "furtive",
+            "phlegmatic"
+          ],
+          "answers": [
+            "conspicuous"
+          ]
+        },
+        {
+          "options": [
+            "ostentatious",
+            "discernible",
+            "covert"
+          ],
+          "answers": [
+            "ostentatious"
+          ]
+        }
+      ],
+      "words": [
+        "conspicuous"
+      ],
+      "explanation": "The first blank reports pure visibility — one red garment against uniform drab — which is conspicuous; furtive and phlegmatic describe concealment and temperament, neither of which follows from the contrast. The second blank turns on intent: \"protocol rather than vanity\" denies showmanship, so ostentatious is the term being withdrawn, while discernible would merely repeat the visibility already granted and covert contradicts it.",
+      "id": "gregmat01__b1__tc2__07",
+      "unit": "gregmat01__b1",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": []
+}

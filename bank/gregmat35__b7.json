@@ -1,0 +1,134 @@
+{
+  "unit": "gregmat35__b7",
+  "gregmat_group": 35,
+  "words": [
+    "suppress",
+    "vestigial"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The regime's reflex was always to {1} dissent rather than to {2} the discontent that produced it: grievances were pinned down by force for a decade, never met with the concessions that might have dissolved them.",
+      "blanks": [
+        {
+          "options": [
+            "suppress",
+            "foment",
+            "placate"
+          ],
+          "answers": [
+            "suppress"
+          ]
+        },
+        {
+          "options": [
+            "mollify",
+            "quash",
+            "foment"
+          ],
+          "answers": [
+            "mollify"
+          ]
+        }
+      ],
+      "words": [
+        "suppress"
+      ],
+      "explanation": "The colon glosses both halves: dissent is \"pinned down by force\" (suppress — pressure applied from above, nothing destroyed) while the underlying discontent is never soothed by concessions (mollify). Foment and placate reverse the logic in the first blank, since a regime that stirred up or appeased dissent would not be pinning it down; quash in the second blank would repeat the force idea rather than supply the contrast the sentence demands.",
+      "id": "gregmat35__b7__tc2__00",
+      "unit": "gregmat35__b7",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "Though the garrison managed to {1} the uprising within a week, the grain tax that had provoked it remained in force, and by the following spring the countryside was in arms again.",
+      "blanks": [
+        {
+          "options": [
+            "foment",
+            "suppress",
+            "conceal",
+            "incite",
+            "quash",
+            "anticipate"
+          ],
+          "answers": [
+            "suppress",
+            "quash"
+          ]
+        }
+      ],
+      "words": [
+        "suppress"
+      ],
+      "explanation": "The concessive \"though\" requires a verb of putting down by force, and suppress and quash are the two that deliver it. Foment and incite mean the opposite — bringing the rising about — while conceal and anticipate fit the grammar and tone but describe hiding or foreseeing the revolt rather than crushing it, which would leave \"in arms again\" without its contrast.",
+      "id": "gregmat35__b7__se__01",
+      "unit": "gregmat35__b7",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "The office of Lord High Steward is now purely {1}: it is still named in the statutes and still ceremonially filled at every coronation — hardly a post that has fallen out of use — yet it discharges none of the judicial powers that once made it the most formidable office in the realm.",
+      "blanks": [
+        {
+          "options": [
+            "vestigial",
+            "obsolete",
+            "extant",
+            "nascent",
+            "residual"
+          ],
+          "answers": [
+            "vestigial"
+          ]
+        }
+      ],
+      "words": [
+        "vestigial"
+      ],
+      "explanation": "The sentence insists on two things at once: the office survives and is even exercised, but it does none of its former work — precisely the diagnosis vestigial makes. Obsolete, the nearest trap, claims the thing has passed out of use, which the dashed clause explicitly denies; extant and residual assert only survival or leftover quantity and say nothing about lost function.",
+      "id": "gregmat35__b7__cloze__02",
+      "unit": "gregmat35__b7",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "The trustees' power to veto appointments, which a century ago genuinely {1} the director's ambitions, is now {2}: it is invoked at every meeting as a matter of form and has altered no decision since the war.",
+      "blanks": [
+        {
+          "options": [
+            "curbed",
+            "fomented",
+            "divulged"
+          ],
+          "answers": [
+            "curbed"
+          ]
+        },
+        {
+          "options": [
+            "vestigial",
+            "obsolete",
+            "nascent"
+          ],
+          "answers": [
+            "vestigial"
+          ]
+        }
+      ],
+      "words": [
+        "vestigial",
+        "suppress"
+      ],
+      "explanation": "The first blank must name what a veto once did to ambitions — held them in check (curbed) — since the second half contrasts that former force with present emptiness. Vestigial fits because the power is still fully present and regularly exercised yet accomplishes nothing; obsolete is blocked by \"invoked at every meeting,\" which is the opposite of fallen into disuse, and nascent inverts the century-long decline the sentence describes.",
+      "id": "gregmat35__b7__tc2__03",
+      "unit": "gregmat35__b7",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": []
+}

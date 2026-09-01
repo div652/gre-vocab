@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat22__b0",
+  "gregmat_group": 22,
+  "words": [
+    "arresting",
+    "chastise",
+    "cumbersome",
+    "economy"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the film's images are so {1} that viewers stop mid-thought to stare at them, critics have proved willing to forgive a screenplay that is by almost any measure {2}.",
+      "blanks": [
+        {
+          "options": [
+            "arresting",
+            "insipid",
+            "soporific"
+          ],
+          "answers": [
+            "arresting"
+          ]
+        },
+        {
+          "options": [
+            "plodding",
+            "piquant",
+            "scintillating"
+          ],
+          "answers": [
+            "plodding"
+          ]
+        }
+      ],
+      "words": [
+        "arresting"
+      ],
+      "explanation": "The clause \"stop mid-thought to stare\" describes exactly what an arresting image does — it halts attention instantly — while insipid and soporific describe images no one would look at twice. The second blank must name a fault, since the critics are said to forgive it; piquant and scintillating are both praise, leaving plodding.",
+      "id": "gregmat22__b0__tc2__00",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Though its subject is only a bleak stretch of industrial waterfront, the photograph is oddly {1}: one halts in front of it well before one understands why.",
+      "blanks": [
+        {
+          "options": [
+            "arresting",
+            "compelling",
+            "tantalizing",
+            "scintillating",
+            "humdrum",
+            "insipid"
+          ],
+          "answers": [
+            "arresting",
+            "compelling"
+          ]
+        }
+      ],
+      "words": [
+        "arresting"
+      ],
+      "explanation": "Arresting and compelling both mean the image seizes and holds attention regardless of whether it pleases, which suits a bleak subject that stops the viewer before it charms her. Tantalizing implies something desirable dangled just out of reach and scintillating implies sparkle or wit, neither of which the waterfront supplies; humdrum and insipid reverse the sentence.",
+      "id": "gregmat22__b0__se__01",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "A modern reader notices how quickly the pastoral letter escalates: its opening pages merely {1} the congregation for small lapses, but by the third page the bishop is {2} his flock from a great height, invoking the rod as readily as the sermon.",
+      "blanks": [
+        {
+          "options": [
+            "admonish",
+            "extol",
+            "absolve"
+          ],
+          "answers": [
+            "admonish"
+          ]
+        },
+        {
+          "options": [
+            "chastising",
+            "reproaching",
+            "commending"
+          ],
+          "answers": [
+            "chastising"
+          ]
+        }
+      ],
+      "words": [
+        "chastise"
+      ],
+      "explanation": "\"Merely\" plus \"small lapses\" calls for the mildest form of correction, admonish, since extol and absolve are not corrections at all. The escalation to a rebuke delivered from above and shadowed by physical punishment is chastising; reproaching expresses disappointment without either the rank gap or the rod, and commending contradicts the sentence.",
+      "id": "gregmat22__b0__tc2__02",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Victorian school records make the older sense of the term plain: a master who resolved to {1} an idle pupil might deliver a lecture, a caning, or both, and would have thought the two acts continuous.",
+      "blanks": [
+        {
+          "options": [
+            "chastise",
+            "reproach",
+            "upbraid",
+            "berate",
+            "admonish"
+          ],
+          "answers": [
+            "chastise"
+          ]
+        }
+      ],
+      "words": [
+        "chastise"
+      ],
+      "explanation": "Only chastise retains, from biblical and older usage, the sense of punishing physically as well as verbally, which is what makes the lecture and the caning a single act here. Reproach, upbraid, berate, and admonish are purely verbal, differing among themselves only in heat and gentleness.",
+      "id": "gregmat22__b0__cloze__03",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "The permitting regime is less punishing than {1}: every reasonable application is approved in the end, but only after the same form has been initialed by eight separate offices.",
+      "blanks": [
+        {
+          "options": [
+            "cumbersome",
+            "unwieldy",
+            "onerous",
+            "feckless",
+            "gauche",
+            "expeditious"
+          ],
+          "answers": [
+            "cumbersome",
+            "unwieldy"
+          ]
+        }
+      ],
+      "words": [
+        "cumbersome"
+      ],
+      "explanation": "Cumbersome and unwieldy both name clunky, friction-producing bulk rather than genuine hardship, which is precisely the distinction drawn by \"less punishing than.\" Onerous is the burdensome hardship the sentence explicitly rules out; feckless would mean the process accomplishes nothing, yet applications are approved, and gauche describes social awkwardness.",
+      "id": "gregmat22__b0__se__04",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Early sound cameras had to be sealed inside padded booths to keep their whirring off the soundtrack, and the resulting rig was so {1} that directors briefly gave up the moving shot altogether.",
+      "blanks": [
+        {
+          "options": [
+            "cumbersome",
+            "onerous",
+            "gawky",
+            "inept",
+            "deft"
+          ],
+          "answers": [
+            "cumbersome"
+          ]
+        }
+      ],
+      "words": [
+        "cumbersome"
+      ],
+      "explanation": "The complaint is about physical bulk that makes equipment hard to move, which is the literal core of cumbersome. Onerous would describe a duty or burden imposed on someone rather than an object's clumsiness, gawky and inept attach to persons and their coordination, and deft is the opposite quality.",
+      "id": "gregmat22__b0__cloze__05",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The trouble with the manual was never its subject but its {1}: an instruction that might have run to four words instead sprawled across a paragraph, so the revision that finally arrived was less a rewrite than a lesson in {2}.",
+      "blanks": [
+        {
+          "options": [
+            "prolixity",
+            "opacity",
+            "concision"
+          ],
+          "answers": [
+            "prolixity"
+          ]
+        },
+        {
+          "options": [
+            "economy",
+            "parsimony",
+            "verbosity"
+          ],
+          "answers": [
+            "economy"
+          ]
+        }
+      ],
+      "words": [
+        "economy"
+      ],
+      "explanation": "An instruction sprawling across a paragraph when four words would serve is a fault of sheer wordiness, prolixity, not of obscurity (opacity), and concision would be no fault at all. The corrective is economy, the removal of waste so that everything left is doing work; parsimony would imply mean-spirited stinting, and verbosity repeats the disease rather than the cure.",
+      "id": "gregmat22__b0__tc2__06",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Watching a veteran farrier work is a lesson in {1}: no blow of the hammer lands where the last one did, and no motion is made twice.",
+      "blanks": [
+        {
+          "options": [
+            "economy",
+            "parsimony",
+            "brevity",
+            "alacrity",
+            "austerity"
+          ],
+          "answers": [
+            "economy"
+          ]
+        }
+      ],
+      "words": [
+        "economy"
+      ],
+      "explanation": "Economy is the only one of these that leaves language behind and can describe motion — the sparing, waste-free use of effort that the clauses about repeated blows and motions spell out. Parsimony would import stinginess, brevity concerns shortness of speech, alacrity is eagerness, and austerity is severity or plainness rather than efficiency.",
+      "id": "gregmat22__b0__cloze__07",
+      "unit": "gregmat22__b0",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": []
+}

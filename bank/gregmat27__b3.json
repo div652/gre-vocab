@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat27__b3",
+  "gregmat_group": 27,
+  "words": [
+    "heady",
+    "imperturbable",
+    "implacable",
+    "lambaste"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Creditors who had spent a decade quietly rescheduling the colony's debts turned {1} after the second default: no offer of partial repayment, however generous, would {2} them again, and the matter went to arbitration.",
+      "blanks": [
+        {
+          "options": [
+            "implacable",
+            "magnanimous",
+            "nonplussed"
+          ],
+          "answers": [
+            "implacable"
+          ]
+        },
+        {
+          "options": [
+            "mollify",
+            "discomfit",
+            "exonerate"
+          ],
+          "answers": [
+            "mollify"
+          ]
+        }
+      ],
+      "words": [
+        "implacable"
+      ],
+      "explanation": "The concessive \"however generous\" tells you that appeasement is what fails, so blank two must name appeasement (mollify) and blank one the disposition that appeasement cannot touch: implacable. Magnanimous reverses the logic, since generous offers would succeed with forgiving creditors, and nonplussed means bewildered rather than unappeasable; discomfit and exonerate describe things offers were never meant to do to the creditors.",
+      "id": "gregmat27__b3__tc2__00",
+      "unit": "gregmat27__b3",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "The first months after the coup were {1} enough that even seasoned diplomats filed dispatches promising a golden age; only the ambassador, {2} as ever, noted drily that the grain reserves would be gone by March.",
+      "blanks": [
+        {
+          "options": [
+            "heady",
+            "implacable",
+            "mawkish"
+          ],
+          "answers": [
+            "heady"
+          ]
+        },
+        {
+          "options": [
+            "imperturbable",
+            "tempestuous",
+            "skittish"
+          ],
+          "answers": [
+            "imperturbable"
+          ]
+        }
+      ],
+      "words": [
+        "heady",
+        "imperturbable"
+      ],
+      "explanation": "Blank one must explain why experienced professionals stopped judging soundly, which is precisely heady: intoxicating enough to cloud judgment, not merely pleasant. Blank two needs the settled temperament that the general excitement cannot reach, so imperturbable fits, while skittish and tempestuous describe people easily agitated and could not produce a dry warning about grain.",
+      "id": "gregmat27__b3__tc2__01",
+      "unit": "gregmat27__b3",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "The review did not so much assess the novel as {1} it, and even readers who disliked the book found the critic's twenty pages of {2} more revealing of his own rancor than of any flaw in the plot.",
+      "blanks": [
+        {
+          "options": [
+            "lambaste",
+            "extol",
+            "condone"
+          ],
+          "answers": [
+            "lambaste"
+          ]
+        },
+        {
+          "options": [
+            "objurgation",
+            "approbation",
+            "equanimity"
+          ],
+          "answers": [
+            "objurgation"
+          ]
+        }
+      ],
+      "words": [
+        "lambaste"
+      ],
+      "explanation": "\"Rancor\" and the sheer length of the attack fix blank two as sustained abuse, that is, objurgation, and blank one as the pounding rather than reasoned verb, lambaste. Extol and approbation would make the passage praise, which the mention of rancor forbids, and equanimity names composure, which nobody fills twenty pages with.",
+      "id": "gregmat27__b3__tc2__02",
+      "unit": "gregmat27__b3",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Accounts of the dot-com boom dwell on its {1} early years, when share prices doubled on rumor alone and even cautious investors quietly stopped reading balance sheets.",
+      "blanks": [
+        {
+          "options": [
+            "heady",
+            "intoxicating",
+            "halcyon",
+            "bracing",
+            "sobering",
+            "austere"
+          ],
+          "answers": [
+            "heady",
+            "intoxicating"
+          ]
+        }
+      ],
+      "words": [
+        "heady"
+      ],
+      "explanation": "The detail that careful people stopped checking the numbers calls for a word meaning exhilarating to the point of impaired judgment, which heady and intoxicating both supply. Halcyon means tranquil and prosperous rather than giddy, bracing suggests an invigorating shock that sharpens rather than dulls, and sobering and austere reverse the sense entirely.",
+      "id": "gregmat27__b3__se__03",
+      "unit": "gregmat27__b3",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Surveys of the delta describe the {1} encroachment of salt water, which has taken a village a year for two decades and has answered to no levee yet built.",
+      "blanks": [
+        {
+          "options": [
+            "implacable",
+            "relentless",
+            "obdurate",
+            "intransigent",
+            "capricious",
+            "desultory"
+          ],
+          "answers": [
+            "implacable",
+            "relentless"
+          ]
+        }
+      ],
+      "words": [
+        "implacable"
+      ],
+      "explanation": "The subject is an impersonal force that keeps advancing and defeats every countermeasure, which is exactly the reach of implacable and relentless. Obdurate and intransigent describe persons or positions that refuse to move, not something that moves against you, while capricious and desultory contradict the steady annual advance.",
+      "id": "gregmat27__b3__se__04",
+      "unit": "gregmat27__b3",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than raise his objections in committee, the senator gave over an hour of floor time to {1} the nominee, returning again and again to a decades-old lawsuit long after his colleagues had stopped listening.",
+      "blanks": [
+        {
+          "options": [
+            "lambasting",
+            "admonishing",
+            "censuring",
+            "reprimanding",
+            "gainsaying"
+          ],
+          "answers": [
+            "lambasting"
+          ]
+        }
+      ],
+      "words": [
+        "lambaste"
+      ],
+      "explanation": "The attack is public, prolonged past the point of usefulness, and makes the attacker look excessive, which is the particular flavor of lambaste. Admonishing is a mild warning, reprimanding and censuring imply formal authority or an official act of condemnation that a speech is not, and gainsaying merely means contradicting.",
+      "id": "gregmat27__b3__cloze__06",
+      "unit": "gregmat27__b3",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Successive envoys came bearing concessions — first a partial withdrawal, then reparations, then the disputed port itself — and each returned to report the emir {1}, bent not on defending a position but on the ruin of the dynasty that had deposed his father.",
+      "blanks": [
+        {
+          "options": [
+            "implacable",
+            "obstinate",
+            "obdurate",
+            "intransigent",
+            "pertinacious"
+          ],
+          "answers": [
+            "implacable"
+          ]
+        }
+      ],
+      "words": [
+        "implacable"
+      ],
+      "explanation": "What fails here is appeasement, offer after offer, and the hostility points outward at a target rather than sitting on a demand, which is what distinguishes implacable from the rest. Obstinate, obdurate, intransigent, and pertinacious all describe refusing to budge from a position, a reading the clause \"not on defending a position\" explicitly rules out.",
+      "id": "gregmat27__b3__cloze__07",
+      "unit": "gregmat27__b3",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The blank only requires \"calm/unruffled under sudden crisis,\" and four options satisfy that, forming two defensible pairs. \"Imperturbable\" and \"unflappable\" are the tightest match (situational composure), but \"phlegmatic\" and \"stolid\" are themselves near-synonyms meaning unexcitable/impassive and would also produce a coherent sentence (\"proved utterly phlegmatic/stolid ... reciting the checklist in an even voice\"). The only weak discriminator is that phlegmatic/stolid connote a habitually dull, unemotional temperament, which sits oddly with \"voluble and even clownish on the ground\" — but that is a connotation argument, not a meaning-of-the-sentence argument, and a careful test-taker could reasonably choose the phlegmatic/stolid pair and be marked wrong. To fix, remove one of phlegmatic/stolid (leaving it as a non-pairing distractor), or add explicit wording that the calm is a surprising switch in a normally excitable man rather than a settled sluggish disposition.",
+      "stem": "Voluble and even clownish on the ground, the flight instructor proved utterly {1} the instant an engine quit, reciting the emergency checklist in an even voice while his students shouted over him."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat09__b3",
+  "gregmat_group": 9,
+  "words": [
+    "feeble",
+    "felicitous",
+    "forbear",
+    "haphazard"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The commission faulted the inquiry less for its conclusions than for its method: witnesses were interviewed in whatever order chance brought them forward, a procedure so {1} that whole months of the period under review went unexamined, and the chairman's {2} reply — that the archive itself was to blame — only deepened the impression of an investigation nobody had troubled to plan.",
+      "blanks": [
+        {
+          "options": [
+            "haphazard",
+            "punctilious",
+            "exhaustive"
+          ],
+          "answers": [
+            "haphazard"
+          ]
+        },
+        {
+          "options": [
+            "feeble",
+            "debilitating",
+            "fortuitous"
+          ],
+          "answers": [
+            "feeble"
+          ]
+        }
+      ],
+      "words": [
+        "haphazard",
+        "feeble"
+      ],
+      "explanation": "Blank 1 is fixed by \"in whatever order chance brought them forward\": no one imposed an order, which is precisely haphazard, whereas punctilious and exhaustive would praise the very method being condemned. Blank 2 needs a word that both reports an excuse and sneers at it — feeble says the attempt was made and was pathetic; debilitating describes something that saps strength, and fortuitous means occurring by chance, neither of which can be said of a reply.",
+      "id": "gregmat09__b3__tc2__00",
+      "unit": "gregmat09__b3",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics who had come to the new translation with knives drawn {1} to press their objections, for the rendering of the closing line — a single archaic verb where every predecessor had used two words — struck them as so {2} that even the poet's detractors took to quoting it.",
+      "blanks": [
+        {
+          "options": [
+            "forbore",
+            "hastened",
+            "resolved"
+          ],
+          "answers": [
+            "forbore"
+          ]
+        },
+        {
+          "options": [
+            "felicitous",
+            "fortuitous",
+            "gratuitous"
+          ],
+          "answers": [
+            "felicitous"
+          ]
+        }
+      ],
+      "words": [
+        "forbear",
+        "felicitous"
+      ],
+      "explanation": "The critics had both the standing and the appetite to attack and declined to, which is exactly forbear; hastened reverses the logic and resolved would mean they went ahead. Blank 2 must praise a deliberate choice of wording as both apt and delightful — felicitous; fortuitous would credit chance for what was plainly chosen, and gratuitous would condemn the choice as uncalled-for.",
+      "id": "gregmat09__b3__tc2__01",
+      "unit": "gregmat09__b3",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "By the time the rescue party dug the climber out of the snow, his pulse was so {1} that two of them had to check in turn before either was willing to say he was alive.",
+      "blanks": [
+        {
+          "options": [
+            "feeble",
+            "faint",
+            "erratic",
+            "sluggish",
+            "robust",
+            "palpable"
+          ],
+          "answers": [
+            "feeble",
+            "faint"
+          ]
+        }
+      ],
+      "words": [
+        "feeble"
+      ],
+      "explanation": "The clue is that the pulse could barely be detected at all, which is a matter of strength: feeble and faint are interchangeable here and produce equivalent sentences. Erratic concerns irregularity and sluggish concerns rate, so neither explains the difficulty of detection, while robust and palpable contradict it.",
+      "id": "gregmat09__b3__se__03",
+      "unit": "gregmat09__b3",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "Though the bank was entitled to foreclose the moment the second payment was missed, it {1} for nearly a year, giving the family time to sell the farm on its own terms.",
+      "blanks": [
+        {
+          "options": [
+            "forbore",
+            "abstained",
+            "eschewed",
+            "desisted",
+            "forsook"
+          ],
+          "answers": [
+            "forbore"
+          ]
+        }
+      ],
+      "words": [
+        "forbear"
+      ],
+      "explanation": "Forbear is the verb for declining to exercise a power you hold against someone else, and the provocation and mercy are both present here. Abstained would describe self-denial with no target, and desisted would require that the bank had already begun foreclosing and then stopped; eschewed and forsook demand an object and mean avoid and abandon respectively.",
+      "id": "gregmat09__b3__cloze__04",
+      "unit": "gregmat09__b3",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "The title he finally settled on was more than merely accurate: it was {1} — three words that named the book's subject and, in their odd cadence, somehow enacted it.",
+      "blanks": [
+        {
+          "options": [
+            "felicitous",
+            "germane",
+            "apposite",
+            "fortuitous",
+            "veracious"
+          ],
+          "answers": [
+            "felicitous"
+          ]
+        }
+      ],
+      "words": [
+        "felicitous"
+      ],
+      "explanation": "The phrase \"more than merely accurate\" rules out words that promise only fitness: germane and apposite say the title suits the matter and stop there. Felicitous adds the pleasure — the small click of rightness the sentence is describing — while fortuitous credits chance and veracious merely repeats truthfulness.",
+      "id": "gregmat09__b3__cloze__05",
+      "unit": "gregmat09__b3",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Darwin's notebooks are the opposite of {1}: every entry is dated and keyed to the passage it revises, and when a conjecture struck him as premature he {2} to write it down at all until a second observation had confirmed it.",
+      "blanks": [
+        {
+          "options": [
+            "haphazard",
+            "systematic",
+            "laborious"
+          ],
+          "answers": [
+            "haphazard"
+          ]
+        },
+        {
+          "options": [
+            "forbore",
+            "hastened",
+            "endeavored"
+          ],
+          "answers": [
+            "forbore"
+          ]
+        }
+      ],
+      "words": [
+        "haphazard",
+        "forbear"
+      ],
+      "explanation": "Dating and cross-keying every entry is evidence of imposed order, so the notebooks are the opposite of haphazard; calling them the opposite of systematic would contradict that evidence, and laborious describes effort rather than order. Blank 2 needs restraint he was entitled to abandon — forbore; hastened reverses the sense, and endeavored would have him trying to do the very thing the clause says he withheld until confirmation.",
+      "id": "gregmat09__b3__tc2__06",
+      "unit": "gregmat09__b3",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "Asked to account for the missing funds, the treasurer offered a {1} explanation about clerical error that not even his allies on the board pretended to credit.",
+      "blanks": [
+        {
+          "options": [
+            "feeble",
+            "frail",
+            "debilitating",
+            "punctilious",
+            "protracted"
+          ],
+          "answers": [
+            "feeble"
+          ]
+        }
+      ],
+      "words": [
+        "feeble"
+      ],
+      "explanation": "Feeble is the word that can sneer at an attempt: the explanation was offered and was pathetic, which is why no one credits it. Frail describes bodies and fragile objects rather than arguments, debilitating describes what weakens something else, and punctilious and protracted would praise the explanation's care or note only its length.",
+      "id": "gregmat09__b3__cloze__07",
+      "unit": "gregmat09__b3",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['haphazard', 'arbitrary'] vs ['haphazard', 'slapdash']",
+      "problem": "Three options are mutually substitutable, so no single pair is forced. \"Haphazard\" pairs equally well with \"arbitrary\" (chance-governed, matching \"whatever order chance put them\") or with \"slapdash\" (careless/unsystematic — a standard listed synonym of haphazard, supported by \"without ... supervision\" and \"hopelessly\"). A reasonable test-taker choosing haphazard/slapdash has a defensible reading but would be marked wrong. Fix by removing either \"slapdash\" or \"arbitrary\" from the option set.",
+      "stem": "The 1890 territorial census is worthless to demographers: enumerators worked without fixed routes, standard forms, or supervision, recording households in whatever order chance put them in their path, so the returns are hopelessly {1}."
+    }
+  ]
+}

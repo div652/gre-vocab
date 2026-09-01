@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat21__b2",
+  "gregmat_group": 21,
+  "words": [
+    "dispense",
+    "eloquent",
+    "enthrall",
+    "eradicate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The ministry's rhetoric promised to {1} malaria from the province within a decade, yet clinics that could {2} quinine only in weekly rations of a few dozen doses achieved nothing more ambitious than holding the caseload steady.",
+      "blanks": [
+        {
+          "options": [
+            "eradicate",
+            "mitigate",
+            "curb"
+          ],
+          "answers": [
+            "eradicate"
+          ]
+        },
+        {
+          "options": [
+            "dispense",
+            "disburse",
+            "appropriate"
+          ],
+          "answers": [
+            "dispense"
+          ]
+        }
+      ],
+      "words": [
+        "eradicate",
+        "dispense"
+      ],
+      "explanation": "The contrast is between a promise of total elimination and an outcome of mere containment, so blank 1 must name the absolute claim: eradicate. Mitigate and curb are precisely what the clinics did achieve, so either would erase the contrast. Blank 2 needs the verb for handing out medicine in allotted portions — dispense; disburse is for money, and appropriate means to set funds aside.",
+      "id": "gregmat21__b2__tc2__00",
+      "unit": "gregmat21__b2",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "Modern directors almost invariably {1} the play's long declamatory prologue, working from the assumption that a contemporary audience must be {2} within the first ten minutes or is lost for the evening.",
+      "blanks": [
+        {
+          "options": [
+            "dispense with",
+            "dwell on",
+            "restore"
+          ],
+          "answers": [
+            "dispense with"
+          ]
+        },
+        {
+          "options": [
+            "enthralled",
+            "edified",
+            "mollified"
+          ],
+          "answers": [
+            "enthralled"
+          ]
+        }
+      ],
+      "words": [
+        "dispense",
+        "enthrall"
+      ],
+      "explanation": "The second clause explains the first: because attention must be seized and held at once, the slow opening is waived as unnecessary — dispense with, not dwell on or restore. Blank 2 requires total absorption, which is enthralled; edified (instructed) is what the prologue itself might do, and mollified wrongly implies the audience arrived angry.",
+      "id": "gregmat21__b2__tc2__01",
+      "unit": "gregmat21__b2",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "The pamphlet remains the most {1} indictment of the workhouse ever written — no reader finishes it without feeling the cold of those dormitories — and yet it did not {2} the system it attacked, which survived another forty years, reformed only at the edges.",
+      "blanks": [
+        {
+          "options": [
+            "eloquent",
+            "voluble",
+            "prolix"
+          ],
+          "answers": [
+            "eloquent"
+          ]
+        },
+        {
+          "options": [
+            "eradicate",
+            "curb",
+            "mitigate"
+          ],
+          "answers": [
+            "eradicate"
+          ]
+        }
+      ],
+      "words": [
+        "eloquent",
+        "eradicate"
+      ],
+      "explanation": "Blank 1 is measured by effect on the reader, which is the mark of eloquent; voluble and prolix describe mere quantity of words and would not explain the felt cold. Blank 2 must be the total claim that the concession denies: the pamphlet plainly did curb and mitigate the abuses (\"reformed at the edges\"), so only eradicate — leaving nothing to regrow — is what it failed to do.",
+      "id": "gregmat21__b2__tc2__02",
+      "unit": "gregmat21__b2",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "The commission's final volume advances no argument whatever; yet its bare tables of infant mortality, printed without a word of comment, are more {1} than any of the speeches that occasioned the inquiry.",
+      "blanks": [
+        {
+          "options": [
+            "eloquent",
+            "telling",
+            "felicitous",
+            "voluble",
+            "tendentious",
+            "perfunctory"
+          ],
+          "answers": [
+            "eloquent",
+            "telling"
+          ]
+        }
+      ],
+      "words": [
+        "eloquent"
+      ],
+      "explanation": "Since the tables contain no language at all, the blank must use the sense of vivid expressive force rather than verbal skill: eloquent and telling both mean that the figures speak more powerfully than any oratory. Felicitous and voluble describe phrasing and talkativeness, which the volume explicitly lacks; tendentious and perfunctory fit the grammar but reverse the compliment.",
+      "id": "gregmat21__b2__se__03",
+      "unit": "gregmat21__b2",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Sanitary reformers of the 1880s wrote as though cholera might be {1} outright rather than merely held at bay between outbreaks: the bacillus, they insisted, could be driven from the city's water for good.",
+      "blanks": [
+        {
+          "options": [
+            "eradicated",
+            "extirpated",
+            "curbed",
+            "mitigated",
+            "nullified",
+            "tolerated"
+          ],
+          "answers": [
+            "eradicated",
+            "extirpated"
+          ]
+        }
+      ],
+      "words": [
+        "eradicate"
+      ],
+      "explanation": "\"Rather than merely held at bay\" and \"for good\" demand totality with no remainder, which eradicated and extirpated supply as near-synonyms. Curbed and mitigated form the trap pair — they name exactly the partial control the sentence rejects — while nullified applies to effects or provisions, not organisms, and tolerated inverts the sense.",
+      "id": "gregmat21__b2__se__04",
+      "unit": "gregmat21__b2",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Because ratification was a foregone conclusion, the delegates {1} the customary week of committee hearings and put the treaty to a vote on the second morning.",
+      "blanks": [
+        {
+          "options": [
+            "dispensed with",
+            "contended with",
+            "reckoned with",
+            "complied with",
+            "presided over"
+          ],
+          "answers": [
+            "dispensed with"
+          ]
+        }
+      ],
+      "words": [
+        "dispense"
+      ],
+      "explanation": "The hearings were skipped as superfluous, which is dispense with — to waive something as unnecessary. Contended with and reckoned with would mean the delegates confronted the hearings rather than skipping them, and complied with or presided over would mean the week was held after all.",
+      "id": "gregmat21__b2__cloze__05",
+      "unit": "gregmat21__b2",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Lincoln's Second Inaugural runs to barely seven hundred words, and its theology is knotty and its syntax anything but plain; still, hearers who had endured years of stump oratory judged it the most {1} address of the age — it left the crowd, one reporter noted, unable to applaud.",
+      "blanks": [
+        {
+          "options": [
+            "eloquent",
+            "articulate",
+            "felicitous",
+            "loquacious",
+            "voluble"
+          ],
+          "answers": [
+            "eloquent"
+          ]
+        }
+      ],
+      "words": [
+        "eloquent"
+      ],
+      "explanation": "The evidence offered is the speech's effect on its hearers, who were too moved to clap, and that audience-measured power is what eloquent names. Articulate (merely clear) and felicitous (aptly phrased) are ruled out by the knotty theology and unplain syntax, while loquacious and voluble denote volume of talk and contradict seven hundred words.",
+      "id": "gregmat21__b2__cloze__07",
+      "unit": "gregmat21__b2",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence needs a word meaning \"captivated/held spellbound,\" and two options deliver that. \"Enthralled\" is the best fit (its etymological sense of being held in thrall echoes \"ushers could not empty the hall\"), but \"beguiled\" independently means charmed or enchanted and reads perfectly naturally in \"so beguiled that ushers could not empty the hall.\" Nothing in the sentence supplies the discriminating nuance — no hint of deception, illusion, or time passing unnoticed that would favor one over the other, and no hint of held-captive imagery strong enough to exclude \"beguiled.\" A reasonable test-taker choosing \"beguiled\" would be marked wrong on a distinction the sentence never draws. (The remaining three are cleanly out: \"tantalized\" requires something withheld, and \"nonplussed\"/\"nettled\" are wrong in valence.) Fix by adding a discriminator — e.g. spectators unaware of how much time had passed (favoring \"beguiled\") or physically rooted in their seats (favoring \"enthralled\") — or by replacing \"beguiled\" with a non-synonym distractor.",
+      "stem": "Accounts of the 1896 tour describe spectators who sat through the same flickering three-minute film a dozen times over, so {1} that ushers could not empty the hall between showings."
+    }
+  ]
+}

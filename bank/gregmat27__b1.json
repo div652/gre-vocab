@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat27__b1",
+  "gregmat_group": 27,
+  "words": [
+    "chary",
+    "curmudgeon",
+    "dirge",
+    "estimable"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The foundation's endowment was by all accounts {1}, yet its trustees remained {2} of grants to untested organizations, releasing money only after years of quiet observation.",
+      "blanks": [
+        {
+          "options": [
+            "munificent",
+            "penurious",
+            "stinting"
+          ],
+          "answers": [
+            "munificent"
+          ]
+        },
+        {
+          "options": [
+            "chary",
+            "cavalier",
+            "impetuous"
+          ],
+          "answers": [
+            "chary"
+          ]
+        }
+      ],
+      "words": [
+        "chary"
+      ],
+      "explanation": "\"Yet\" demands a contrast between the size of the fund and the trustees' reluctance to part with it, so the first blank must be the lavish term, munificent; penurious and stinting would merely agree with the withholding and destroy the contrast. Chary fits the second blank exactly because it takes \"of\" and rates how little is handed over, while cavalier and impetuous describe the opposite of releasing money only after years of observation.",
+      "id": "gregmat27__b1__tc2__00",
+      "unit": "gregmat27__b1",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Colleagues describe the veteran editor as {1} praise, doling out approval so rarely that a single favorable word from him is treated by junior staff as a coronation.",
+      "blanks": [
+        {
+          "options": [
+            "chary of",
+            "sparing with",
+            "weary of",
+            "suspicious of",
+            "contemptuous of",
+            "prodigal with"
+          ],
+          "answers": [
+            "chary of",
+            "sparing with"
+          ]
+        }
+      ],
+      "words": [
+        "chary"
+      ],
+      "explanation": "The second clause specifies that he gives out approval rarely, so the blank must mean withholding a supply: chary of and sparing with are the two that say this, and chary's characteristic \"of\" construction is the tell. Weary of, suspicious of and contemptuous of all fit the grammar and the gruff tone but describe attitudes toward praise received rather than parsimony in bestowing it, and prodigal with reverses the sense outright.",
+      "id": "gregmat27__b1__se__01",
+      "unit": "gregmat27__b1",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from the {1} that his gruff public manner suggested, the naturalist was privately warm and unfailingly kind; the perpetual grumbling about modern farming was, his colleagues insisted, a performance rather than evidence of any real {2}.",
+      "blanks": [
+        {
+          "options": [
+            "curmudgeon",
+            "stoic",
+            "ascetic"
+          ],
+          "answers": [
+            "curmudgeon"
+          ]
+        },
+        {
+          "options": [
+            "misanthropy",
+            "equanimity",
+            "forbearance"
+          ],
+          "answers": [
+            "misanthropy"
+          ]
+        }
+      ],
+      "words": [
+        "curmudgeon"
+      ],
+      "explanation": "The gruff manner and perpetual grumbling point to curmudgeon; a stoic bears things in silence and an ascetic renounces comforts, neither of which involves complaining aloud. The second blank must name the real ill-will the grumbling only mimics, so misanthropy is required, whereas equanimity and forbearance would name the very calm the grumbling contradicts.",
+      "id": "gregmat27__b1__tc2__02",
+      "unit": "gregmat27__b1",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers took to calling the columnist a {1}, but the label was affectionate: his weekly denunciations of self-checkout machines and ambient restaurant music had become the paper's best-loved feature.",
+      "blanks": [
+        {
+          "options": [
+            "curmudgeon",
+            "misanthrope",
+            "martinet",
+            "pedant",
+            "sycophant"
+          ],
+          "answers": [
+            "curmudgeon"
+          ]
+        }
+      ],
+      "words": [
+        "curmudgeon"
+      ],
+      "explanation": "Curmudgeon is the one complaint-word said fondly, and the small, specific, anti-modern grievances listed are its signature. Misanthrope is the close trap, but it denotes serious hatred of humanity on principle and could never be called affectionate; a martinet enforces discipline and a pedant fusses over learning, neither of which involves grousing about checkout machines.",
+      "id": "gregmat27__b1__cloze__03",
+      "unit": "gregmat27__b1",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "The conductor took the finale, marked allegro con brio in the score, at so {1} a tempo that the movement came across less as a celebration than as a {2}.",
+      "blanks": [
+        {
+          "options": [
+            "leaden",
+            "headlong",
+            "buoyant"
+          ],
+          "answers": [
+            "leaden"
+          ]
+        },
+        {
+          "options": [
+            "dirge",
+            "paean",
+            "overture"
+          ],
+          "answers": [
+            "dirge"
+          ]
+        }
+      ],
+      "words": [
+        "dirge"
+      ],
+      "explanation": "\"Less a celebration than\" requires the second blank to name something funereal, and dirge is the term that indicts tempo itself — a paean is a song of praise, which would restate celebration rather than oppose it, and an overture merely opens a work. The first blank must supply the cause of that dragging effect, so leaden fits while headlong and buoyant would produce exactly the brio the sentence says was missing.",
+      "id": "gregmat27__b1__tc2__04",
+      "unit": "gregmat27__b1",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Ethnomusicologists working in the highlands have transcribed the {1} that the women of each village sing over their dead, a slow unaccompanied chant passed down through generations.",
+      "blanks": [
+        {
+          "options": [
+            "dirge",
+            "threnody",
+            "paean",
+            "carol",
+            "madrigal",
+            "ballad"
+          ],
+          "answers": [
+            "dirge",
+            "threnody"
+          ]
+        }
+      ],
+      "words": [
+        "dirge"
+      ],
+      "explanation": "Sung over the dead and slow, the piece can only be a funeral song, and dirge and threnody are the two options that denote precisely that. A paean is a song of triumph or praise and a carol is festive, while madrigal and ballad name secular forms defined by structure or narrative rather than by mourning.",
+      "id": "gregmat27__b1__se__05",
+      "unit": "gregmat27__b1",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Though his opponent was by every measure an {1} constitutional scholar, the senator's deference proved purely ceremonial: the compliment served only as the prelude to a wholesale {2} of the man's judicial record.",
+      "blanks": [
+        {
+          "options": [
+            "estimable",
+            "meretricious",
+            "feckless"
+          ],
+          "answers": [
+            "estimable"
+          ]
+        },
+        {
+          "options": [
+            "excoriation",
+            "encomium",
+            "approbation"
+          ],
+          "answers": [
+            "excoriation"
+          ]
+        }
+      ],
+      "words": [
+        "estimable"
+      ],
+      "explanation": "\"By every measure\" marks the first blank as genuine respect granted on merit, which is estimable; meretricious means showily false and feckless means ineffectual, and either would make the senator's deference unremarkable rather than ceremonial. \"Only as the prelude to\" signals that the praise gives way to attack, so excoriation is needed, while encomium and approbation would continue the praise the sentence sets up as a mere pretense.",
+      "id": "gregmat27__b1__tc2__06",
+      "unit": "gregmat27__b1",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only establishes that the praise is respectful but unaffectionate, which leaves three defensible options. 'Estimable' (worthy of esteem), 'redoubtable' (formidable), and 'august' (venerable) are all admiring-without-warmth and all work in 'an ___ practitioner of archival method.' The clause 'without ever suggesting that a single reader had been moved by her prose' rules out 'beloved' and the pejorative 'meretricious,' but does nothing to distinguish tepid esteem from formidability or venerability. A cue pinning down faintness/mildness specifically (e.g. 'no more than an ___ practitioner,' 'faint praise') would be needed to make 'estimable' the only answer.",
+      "stem": "The prize citation was cool and carefully measured, describing the historian as an {1} practitioner of archival method without ever suggesting that a single reader had been moved by her prose."
+    }
+  ]
+}

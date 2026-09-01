@@ -1,0 +1,105 @@
+{
+  "unit": "gregmat27__b7",
+  "gregmat_group": 27,
+  "words": [
+    "wheedle",
+    "xenophobic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Where his predecessor had simply {1} the trustees into compliance with threats of resignation, Hollis, who held no comparable leverage, was reduced to {2} small favors out of them one at a time.",
+      "blanks": [
+        {
+          "options": [
+            "browbeaten",
+            "flattered",
+            "beguiled"
+          ],
+          "answers": [
+            "browbeaten"
+          ]
+        },
+        {
+          "options": [
+            "wheedling",
+            "extorting",
+            "duping"
+          ],
+          "answers": [
+            "wheedling"
+          ]
+        }
+      ],
+      "words": [
+        "wheedle"
+      ],
+      "explanation": "The predecessor's method is glossed by \"threats of resignation,\" which requires browbeaten; flattered and beguiled both name soft persuasion and so contradict the threats. The second blank must name what is left when leverage is gone: wheedling is precisely the coaxing, flattering extraction of small favors \"out of\" someone by a person with no power, whereas extorting presupposes exactly the leverage Hollis is said to lack, and duping would require a deception the sentence never mentions.",
+      "id": "gregmat27__b7__tc2__00",
+      "unit": "gregmat27__b7",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Having exhausted his own allowance, Freddie spent the better part of an afternoon {1} his aunt, praising her generosity and recalling her many kindnesses, until she agreed to advance him the fare to Marseilles.",
+      "blanks": [
+        {
+          "options": [
+            "wheedling",
+            "cajoling",
+            "browbeating",
+            "badgering",
+            "hectoring",
+            "defrauding"
+          ],
+          "answers": [
+            "wheedling",
+            "cajoling"
+          ]
+        }
+      ],
+      "words": [
+        "wheedle"
+      ],
+      "explanation": "The praise and the recital of past kindnesses mark this as persuasion by flattery, which is what both wheedling and cajoling name, and the two yield sentences of equivalent meaning here. Badgering and hectoring fit the grammar and the long afternoon perfectly well, but they describe wearing someone down by nagging or bullying rather than sweet-talking them, and browbeating adds intimidation; defrauding would mean the money was taken by deceit rather than granted.",
+      "id": "gregmat27__b7__se__01",
+      "unit": "gregmat27__b7",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the agitation of the 1920s fell on Poles and Ukrainians, people indistinguishable from their accusers by any racial measure, historians have preferred to call it {1} rather than racist: what it punished was accent, origin, and custom.",
+      "blanks": [
+        {
+          "options": [
+            "xenophobic",
+            "provincial",
+            "insular",
+            "parochial",
+            "myopic"
+          ],
+          "answers": [
+            "xenophobic"
+          ]
+        }
+      ],
+      "words": [
+        "xenophobic"
+      ],
+      "explanation": "The sentence defines the hostility as directed at the outsider by accent, origin, and custom rather than by race, which is exactly the ground xenophobic covers and the reason it is offered as an alternative to racist. Provincial, insular, and parochial describe narrow horizons or self-enclosure, not active hostility toward foreigners, and myopic merely names shortsightedness; none of them would stand in contrast to racist as the sentence demands.",
+      "id": "gregmat27__b7__cloze__03",
+      "unit": "gregmat27__b7",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean: \"four languages heard in a single morning's market\" forces cosmopolitan, and insular/provincial are plainly excluded. Blank 2 is not clean. \"Xenophobic\" is the best fit (warnings against foreign merchants and laborers = hostility to outsiders), but \"parochial\" is also genuinely defensible: it is the standard antonym of cosmopolitan, so it produces exactly the jarring contrast the sentence advertises, and pamphlets denouncing Levantines and Slovenes can fairly be called narrow/parochial in outlook. The sentence gives no cue that isolates hostility-toward-foreigners from mere narrowness — the contrast structure (\"cosmopolitan ... all the more jarring\") actually pulls toward parochial. A reasonable test-taker choosing parochial would be marked wrong on a nuance the sentence never enforces. To fix, add a cue of fear or aggression (e.g. \"with their lurid warnings\" / \"urging expulsion of...\") or replace parochial with a distractor that is not a cosmopolitan-antonym.",
+      "stem": "Trieste's long reputation as a thoroughly {1} port, where four languages might be heard in a single morning's market, makes the {2} pamphlets of the 1890s, with their warnings about Levantine merchants and Slovene laborers, all the more jarring to historians of the Adriatic."
+    }
+  ]
+}

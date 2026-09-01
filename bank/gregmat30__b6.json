@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat30__b6",
+  "gregmat_group": 30,
+  "words": [
+    "soliloquy",
+    "spurn",
+    "stolid",
+    "temerity"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Hamlet delivers the speech to an empty stage, and critics have long read the {1} as the play's one guarantee of candour: with no auditor to be managed, the prince has no motive to {2}.",
+      "blanks": [
+        {
+          "options": [
+            "soliloquy",
+            "monologue",
+            "harangue"
+          ],
+          "answers": [
+            "soliloquy"
+          ]
+        },
+        {
+          "options": [
+            "dissemble",
+            "digress",
+            "extemporize"
+          ],
+          "answers": [
+            "dissemble"
+          ]
+        }
+      ],
+      "words": [
+        "soliloquy"
+      ],
+      "explanation": "The defining condition of a soliloquy is that no one is listening — \"an empty stage\" — whereas a monologue is an extended speech aimed at hearers and a harangue is aimed at them aggressively. The second blank must name what an audience would tempt him into, and only dissemble (conceal one's real thoughts) explains why absence of listeners guarantees candour; digressing or improvising has nothing to do with sincerity.",
+      "id": "gregmat30__b6__tc2__00",
+      "unit": "gregmat30__b6",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Having offered his rival a face-saving compromise only to see it {1}, Bismarck concluded that no settlement short of war would ever satisfy Vienna.",
+      "blanks": [
+        {
+          "options": [
+            "spurned",
+            "rebuffed",
+            "ratified",
+            "misconstrued",
+            "retracted",
+            "forestalled"
+          ],
+          "answers": [
+            "spurned",
+            "rebuffed"
+          ]
+        }
+      ],
+      "words": [
+        "spurn"
+      ],
+      "explanation": "An offer that is thrown back contemptuously is spurned or rebuffed, and the two yield sentences of the same meaning; both also require, as the sentence supplies, something actually offered. Ratified reverses the logic that leads to war, while misconstrued (misunderstood), retracted (withdrawn by the offerer himself), and forestalled (pre-empted) each change what happened to the compromise rather than restating it.",
+      "id": "gregmat30__b6__se__02",
+      "unit": "gregmat30__b6",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "The exiled duke had {1} every overture of reconciliation the court extended, and so found no advocate when he at last needed one: the ministers remembered his {2} far longer than they remembered his grievances.",
+      "blanks": [
+        {
+          "options": [
+            "spurned",
+            "solicited",
+            "forfeited"
+          ],
+          "answers": [
+            "spurned"
+          ]
+        },
+        {
+          "options": [
+            "hauteur",
+            "contrition",
+            "candour"
+          ],
+          "answers": [
+            "hauteur"
+          ]
+        }
+      ],
+      "words": [
+        "spurn"
+      ],
+      "explanation": "Overtures were extended to him, so the verb must describe rejecting what was offered; solicited reverses the direction of the offer and forfeited would mean losing something already his. The second blank must name the quality that outlasted the quarrel and cost him allies — hauteur, the arrogance a spurned party resents; contrition and candour would have won him advocates, not deprived him of them.",
+      "id": "gregmat30__b6__tc2__03",
+      "unit": "gregmat30__b6",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "Because its author was an apprentice printer rather than a fellow of the Society, the pamphlet's correction of the Astronomer Royal registered not as a contribution to be weighed but as {1}, and the minutes preserve the members' {2} at being instructed by a tradesman.",
+      "blanks": [
+        {
+          "options": [
+            "temerity",
+            "diffidence",
+            "erudition"
+          ],
+          "answers": [
+            "temerity"
+          ]
+        },
+        {
+          "options": [
+            "indignation",
+            "deference",
+            "gratitude"
+          ],
+          "answers": [
+            "indignation"
+          ]
+        }
+      ],
+      "words": [
+        "temerity"
+      ],
+      "explanation": "Temerity is always the offended party's verdict on someone who spoke above his station, which is exactly the hierarchy the stem builds between apprentice and fellow; diffidence is the opposite failing and erudition would make the pamphlet the contribution the sentence says it was not taken for. The second blank must register offence at that presumption, so indignation follows, while deference and gratitude would mean the Society accepted the correction.",
+      "id": "gregmat30__b6__tc2__04",
+      "unit": "gregmat30__b6",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Ambassadors accustomed to unbroken flattery were startled when a junior secretary interrupted the minister to correct his figures; several afterwards spoke of the young man's {1}, though not one of them disputed that his arithmetic was sound.",
+      "blanks": [
+        {
+          "options": [
+            "temerity",
+            "deference",
+            "diffidence",
+            "prolixity",
+            "sagacity"
+          ],
+          "answers": [
+            "temerity"
+          ]
+        }
+      ],
+      "words": [
+        "temerity"
+      ],
+      "explanation": "The complaint survives the concession that he was right, so what offended was the presumption of a junior correcting a superior — the precise charge temerity makes. Deference and diffidence name the shrinking behaviour he conspicuously failed to show, prolixity concerns long-windedness, and sagacity would be praise, which the startled ambassadors plainly did not intend.",
+      "id": "gregmat30__b6__cloze__05",
+      "unit": "gregmat30__b6",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Reporters who had come expecting an outburst found the defendant so {1} that the verdict seemed to reach him the way weather reaches an ox: registered, perhaps, but never acknowledged.",
+      "blanks": [
+        {
+          "options": [
+            "stolid",
+            "phlegmatic",
+            "histrionic",
+            "mawkish",
+            "tempestuous",
+            "cerebral"
+          ],
+          "answers": [
+            "stolid",
+            "phlegmatic"
+          ]
+        }
+      ],
+      "words": [
+        "stolid"
+      ],
+      "explanation": "Stolid and phlegmatic both describe an unexcitable, wholly unreactive temperament, and the ox simile confirms the dull-blooded rather than disciplined variety. Histrionic, mawkish, and tempestuous all put emotion on display, which is what the reporters expected and did not get, and cerebral would attribute intellect rather than the absence of visible feeling.",
+      "id": "gregmat30__b6__se__06",
+      "unit": "gregmat30__b6",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "Nineteenth-century travellers habitually described the Breton peasantry as {1}, mistaking for an absence of inner life what was in fact a prudent {2} before strangers who held power over them.",
+      "blanks": [
+        {
+          "options": [
+            "stolid",
+            "tempestuous",
+            "mawkish"
+          ],
+          "answers": [
+            "stolid"
+          ]
+        },
+        {
+          "options": [
+            "reticence",
+            "volubility",
+            "effusiveness"
+          ],
+          "answers": [
+            "reticence"
+          ]
+        }
+      ],
+      "words": [
+        "stolid"
+      ],
+      "explanation": "The travellers' error is glossed as inferring \"an absence of inner life\" from a flat exterior, which is exactly the unflattering charge stolid makes; tempestuous and mawkish would attribute conspicuous feeling instead. The second blank must name the guarded behaviour actually shown, so reticence fits, whereas volubility and effusiveness describe people who reveal too much rather than too little.",
+      "id": "gregmat30__b6__tc2__07",
+      "unit": "gregmat30__b6",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"monologue\" is also defensible. The sentence tries to separate soliloquy from monologue via \"addressed to no one,\" but its second cue — \"thought overheard rather than speech delivered\" — actually argues against soliloquy (which is speech delivered aloud, merely unaddressed) and toward Joyce's canonical \"interior monologue,\" i.e. unvoiced thought. \"A forty-page monologue\" is idiomatic and consistent with every constraint in the sentence, so a reasonable test-taker choosing it would be marked wrong. To fix, either drop the \"thought rather than speech\" clause and add a cue that requires spokenness with no listener, or replace \"monologue\" with a clearly wrong distractor.",
+      "stem": "Molly Bloom's closing chapter is addressed to no one at all — not to Leopold, not to any imagined confidant — and is best described as a forty-page {1}, thought overheard rather than speech delivered."
+    }
+  ]
+}

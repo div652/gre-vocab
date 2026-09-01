@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat24__b2",
+  "gregmat_group": 24,
+  "words": [
+    "despotic",
+    "deviate",
+    "disinterested",
+    "escalate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The reform looked like a concession, but it was closer to a codification of the ruler's power: the new legal code was {1}, prescribing death for thefts once punished by a fine, and yet by publishing any rules at all the shah ceased to be purely {2}, since a will that must be set down in advance is no longer simply whim.",
+      "blanks": [
+        {
+          "options": [
+            "draconian",
+            "permissive",
+            "capricious"
+          ],
+          "answers": [
+            "draconian"
+          ]
+        },
+        {
+          "options": [
+            "despotic",
+            "imperious",
+            "stern"
+          ],
+          "answers": [
+            "despotic"
+          ]
+        }
+      ],
+      "words": [
+        "despotic"
+      ],
+      "explanation": "The first blank is fixed by the example given — death for petty theft is severity, which is what draconian names; capricious would describe unpredictability, and the code is anything but unpredictable. The second blank must name the trait that publishing fixed rules destroys, and that trait is arbitrary personal will: despotic. Imperious describes an overbearing manner, which a ruler could keep even under a published code, so it does not answer the clause about whim.",
+      "id": "gregmat24__b2__tc2__00",
+      "unit": "gregmat24__b2",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Even players who admired the conductor's musicianship found his rehearsals insufferable: he brooked no question, reversed his own instructions without explanation, and treated the orchestra as an extension of his personal will — a {1} presence whom no one dared contradict.",
+      "blanks": [
+        {
+          "options": [
+            "despotic",
+            "imperious",
+            "draconian",
+            "exacting",
+            "assertive",
+            "deferential"
+          ],
+          "answers": [
+            "despotic",
+            "imperious"
+          ]
+        }
+      ],
+      "words": [
+        "despotic"
+      ],
+      "explanation": "The sentence describes a person dominating others by sheer will, so despotic and imperious both fit and mean the same thing here: overbearingly commanding, with no appeal. Exacting is tonally at home in a rehearsal but names consistently high standards, which the reversed instructions rule out; draconian attaches to the harshness of rules or penalties, not to a personality, and no rules are at issue.",
+      "id": "gregmat24__b2__se__01",
+      "unit": "gregmat24__b2",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "The dean had long tolerated the professor's tendency to {1} into personal anecdote for whole class sessions; what finally prompted a formal inquiry was the discovery that he had quietly {2} from the syllabus the department had approved, examining students on texts no colleague had ever seen.",
+      "blanks": [
+        {
+          "options": [
+            "digress",
+            "prevaricate",
+            "temporize"
+          ],
+          "answers": [
+            "digress"
+          ]
+        },
+        {
+          "options": [
+            "deviated",
+            "obviated",
+            "capitulated"
+          ],
+          "answers": [
+            "deviated"
+          ]
+        }
+      ],
+      "words": [
+        "deviate"
+      ],
+      "explanation": "The contrast between what was tolerated and what triggered an inquiry separates two kinds of departure: digress covers wandering off the topic in speech, while deviate requires a specified course to leave — here, the approved syllabus. Prevaricate (evade the truth) and temporize (stall) do not fit \"into personal anecdote,\" and obviate (make unnecessary) is only a look-alike of the answer.",
+      "id": "gregmat24__b2__tc2__02",
+      "unit": "gregmat24__b2",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Tolerance bands exist precisely so that inspectors need not judge each component individually: any dimension that {1} from the specification by more than half a millimetre is rejected automatically, whatever the machinist's explanation.",
+      "blanks": [
+        {
+          "options": [
+            "deviates",
+            "digresses",
+            "wavers",
+            "obviates",
+            "abates"
+          ],
+          "answers": [
+            "deviates"
+          ]
+        }
+      ],
+      "words": [
+        "deviate"
+      ],
+      "explanation": "The sentence names an explicit reference line — the specification — and a measured departure from it, which is exactly the condition deviate requires. Digress applies to talk that wanders off topic, not to a machined dimension; waver suggests hesitation or fluctuation rather than a fixed measurable gap, and obviate and abate are unrelated in sense.",
+      "id": "gregmat24__b2__cloze__03",
+      "unit": "gregmat24__b2",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "By charter, the audit committee is chaired by someone who holds no shares in the firm and draws no bonus tied to its results, an arrangement intended to guarantee that at least one {1} voice is heard whenever executive pay is set.",
+      "blanks": [
+        {
+          "options": [
+            "disinterested",
+            "impartial",
+            "equitable",
+            "tendentious",
+            "scrupulous",
+            "uninterested"
+          ],
+          "answers": [
+            "disinterested",
+            "impartial"
+          ]
+        }
+      ],
+      "words": [
+        "disinterested"
+      ],
+      "explanation": "The charter removes the chair's financial stake, so what is guaranteed is a voice with nothing to gain either way: disinterested and impartial are equivalent here. Equitable would describe the fairness of the outcome rather than the position of the person judging, and uninterested — the standard trap — would mean bored, which no charter would try to ensure; scrupulous praises moral care, not the absence of a stake.",
+      "id": "gregmat24__b2__se__04",
+      "unit": "gregmat24__b2",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers assumed that a scholar who had spent forty years defending the attribution could not possibly be {1} about the newly discovered infrared images; the irony was that his chief opponent, who cared nothing for the painting itself, proved just as {2}, having staked his own standing on the opposite verdict.",
+      "blanks": [
+        {
+          "options": [
+            "disinterested",
+            "tendentious",
+            "credulous"
+          ],
+          "answers": [
+            "disinterested"
+          ]
+        },
+        {
+          "options": [
+            "partial",
+            "apathetic",
+            "equitable"
+          ],
+          "answers": [
+            "partial"
+          ]
+        }
+      ],
+      "words": [
+        "disinterested"
+      ],
+      "explanation": "The first blank needs the quality a forty-year commitment destroys — freedom from a personal stake — which is disinterested; tendentious would reverse the logic, since such a scholar could very easily be tendentious. The second blank is fixed by \"having staked his own standing\": the opponent's indifference to the painting does not save him, because reputation is itself a stake, so he too is partial rather than apathetic.",
+      "id": "gregmat24__b2__tc2__05",
+      "unit": "gregmat24__b2",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "What began as a quarrel over grazing rights {1} by degrees into a shooting war, each clan answering the last raid with a larger one; the mediators' failure was not that they {2} the dispute but that they arrived only after the first killings.",
+      "blanks": [
+        {
+          "options": [
+            "escalated",
+            "burgeoned",
+            "proliferated"
+          ],
+          "answers": [
+            "escalated"
+          ]
+        },
+        {
+          "options": [
+            "exacerbated",
+            "mitigated",
+            "adjudicated"
+          ],
+          "answers": [
+            "exacerbated"
+          ]
+        }
+      ],
+      "words": [
+        "escalate"
+      ],
+      "explanation": "\"Each clan answering the last raid with a larger one\" describes a ladder of reciprocal steps, which is what escalate uniquely names; burgeon and proliferate describe growth or multiplication, and nothing here multiplies. The second blank sits in a denied accusation — the mediators are absolved of making things worse — so exacerbated fits, while mitigated would make the clause absurd (easing a dispute is not the charge anyone would deny).",
+      "id": "gregmat24__b2__tc2__06",
+      "unit": "gregmat24__b2",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options fit the only constraint the sentence imposes (growth in scope). \"burgeoned\" means to grow/expand rapidly and produces substantially the same sentence meaning as \"escalated\" and \"snowballed\"; the sentence gives no cue that discriminates manner of growth, so pairing burgeoned with either intended word is defensible and would be marked wrong. Only \"proliferated\" (needs countable multiplying entities, not one walkout) and the abate/wane pair (wrong direction) are cleanly excluded. Fix: replace burgeoned with a growth word that is genuinely blocked here, or add a clause that pins the accretive/intensifying sense (e.g. \"drawing in one union after another\").",
+      "stem": "Every concession the ministry offered was read as weakness and answered with a fresh demand, so that a walkout confined at first to pension clerks {1} steadily until the ports themselves were shut."
+    }
+  ]
+}

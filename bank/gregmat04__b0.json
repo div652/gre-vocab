@@ -1,0 +1,238 @@
+{
+  "unit": "gregmat04__b0",
+  "gregmat_group": 4,
+  "words": [
+    "abstain",
+    "approbation",
+    "cherish",
+    "corroborate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The bylaws permitted any trustee with a financial interest in the outcome to {1} — to be recorded as present while registering neither assent nor dissent — but Marchetti judged the endowment vote too consequential for such {2} and cast an outright no.",
+      "blanks": [
+        {
+          "options": [
+            "abstain",
+            "forgo",
+            "eschew"
+          ],
+          "answers": [
+            "abstain"
+          ]
+        },
+        {
+          "options": [
+            "equivocation",
+            "approbation",
+            "opprobrium"
+          ],
+          "answers": [
+            "equivocation"
+          ]
+        }
+      ],
+      "words": [
+        "abstain"
+      ],
+      "explanation": "Only abstain carries the parliamentary sense the dash defines — present and counted, but voting neither way; forgo and eschew mean to do without some thing and both demand a direct object, so neither can stand alone here. In the second blank, declining to come down on either side is equivocation, whereas approbation is formal praise and opprobrium public disgrace, and neither names a non-vote.",
+      "id": "gregmat04__b0__tc2__00",
+      "unit": "gregmat04__b0",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Rejected by the salon juries whose {1} could have made his career overnight, Cézanne worked two decades in near obscurity; the popular {2} that finally greeted his late canvases arrived long after he had stopped expecting it.",
+      "blanks": [
+        {
+          "options": [
+            "approbation",
+            "opprobrium",
+            "censure"
+          ],
+          "answers": [
+            "approbation"
+          ]
+        },
+        {
+          "options": [
+            "acclaim",
+            "indictment",
+            "sanction"
+          ],
+          "answers": [
+            "acclaim"
+          ]
+        }
+      ],
+      "words": [
+        "approbation"
+      ],
+      "explanation": "The juries hold the standing to confer or withhold a career-making blessing, which is approbation; opprobrium and censure are condemnation and would not make a career. The second blank is noisy, popular, and enthusiastic — acclaim — while a sanction is granted by an authorizing body and an indictment by a court, so neither is something that \"greets\" paintings.",
+      "id": "gregmat04__b0__tc2__02",
+      "unit": "gregmat04__b0",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "No treatment, however promising its trial data, may be advertised to the public until it has received the formal, and often grudging, {1} of the licensing board.",
+      "blanks": [
+        {
+          "options": [
+            "approbation",
+            "sanction",
+            "acclaim",
+            "censure",
+            "opprobrium",
+            "indictment"
+          ],
+          "answers": [
+            "approbation",
+            "sanction"
+          ]
+        }
+      ],
+      "words": [
+        "approbation"
+      ],
+      "explanation": "Approbation and sanction both denote approval issued by a body with the authority to issue it, which is exactly what a licensing board supplies. Acclaim is enthusiastic public praise and is ruled out by \"grudging,\" while censure, opprobrium, and indictment all reverse the sentence into condemnation.",
+      "id": "gregmat04__b0__se__03",
+      "unit": "gregmat04__b0",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "The whole account rested on a single deathbed statement, and since no document or second witness ever surfaced to {1} it, the episode remains among the most {2} passages in the emperor's biography.",
+      "blanks": [
+        {
+          "options": [
+            "corroborate",
+            "elaborate",
+            "belie"
+          ],
+          "answers": [
+            "corroborate"
+          ]
+        },
+        {
+          "options": [
+            "conjectural",
+            "incontrovertible",
+            "axiomatic"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "corroborate"
+      ],
+      "explanation": "A second witness or independent document supplying support for a claim already on the table is corroboration; elaborate means to expand on something, and belie means to contradict it, which reverses the logic of \"no witness ever surfaced.\" With the claim left unsupported, it stays conjectural, whereas incontrovertible and axiomatic would assert the certainty the sentence denies.",
+      "id": "gregmat04__b0__tc2__04",
+      "unit": "gregmat04__b0",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the ballistics report came from a laboratory with no connection to either party, it did what the victim's repeated retelling never could: it {1} her account of the shooting.",
+      "blanks": [
+        {
+          "options": [
+            "corroborated",
+            "reiterated",
+            "ascertained",
+            "elaborated",
+            "collaborated"
+          ],
+          "answers": [
+            "corroborated"
+          ]
+        }
+      ],
+      "words": [
+        "corroborate"
+      ],
+      "explanation": "The sentence turns on independence — a source unconnected to either side confirming a claim someone else made — which is the defining requirement of corroborate. Reiterated is exactly the self-repetition the sentence rules out, ascertain means to establish a fact by inquiry rather than to back up another's testimony, and elaborate and collaborate are the familiar lookalikes.",
+      "id": "gregmat04__b0__cloze__05",
+      "unit": "gregmat04__b0",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "Long after the house itself had been sold, she continued to {1} the summers she had spent there, shielding those memories from her family's habit of making comedy of them.",
+      "blanks": [
+        {
+          "options": [
+            "cherish",
+            "treasure",
+            "relish",
+            "romanticize",
+            "disparage",
+            "catalogue"
+          ],
+          "answers": [
+            "cherish",
+            "treasure"
+          ]
+        }
+      ],
+      "words": [
+        "cherish"
+      ],
+      "explanation": "Cherish and treasure both combine lasting affection with protectiveness, which the shielding clause makes central. Relish means to savor something with keen enjoyment and carries no protective force, romanticize would accuse her of gilding the past, and disparage and catalogue change the sentence outright.",
+      "id": "gregmat04__b0__se__06",
+      "unit": "gregmat04__b0",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "The dispatches from the front had been unambiguous for months, yet the cabinet went on {1} the belief that a negotiated peace was imminent — a hope no report from the field ever {2}, and one its own intelligence staff had quietly given up.",
+      "blanks": [
+        {
+          "options": [
+            "cherishing",
+            "relishing",
+            "eschewing"
+          ],
+          "answers": [
+            "cherishing"
+          ]
+        },
+        {
+          "options": [
+            "corroborated",
+            "belied",
+            "elaborated"
+          ],
+          "answers": [
+            "corroborated"
+          ]
+        }
+      ],
+      "words": [
+        "cherish",
+        "corroborate"
+      ],
+      "explanation": "Cherish is the word for continuing to hold something dear past the point where it should have been let go, which is why one cherishes an illusion; relish would mean savoring the belief for pleasure, and eschew reverses the sense. The field reports never supplied independent support for the hope, so they never corroborated it; belied would mean nothing ever contradicted it, contradicting the unambiguous evidence in the first clause.",
+      "id": "gregmat04__b0__tc2__07",
+      "unit": "gregmat04__b0",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only requires \"refrained from,\" and two options carry that meaning with the preposition \"from.\" \"Abstained from wine\" is the most idiomatic and the standard collocation for lifelong non-drinking, so it is almost certainly the intended key. But \"forbore from wine\" is also grammatical and attested (Merriam-Webster defines forbear as \"to refrain from, abstain,\" with the example \"forbear from comment\"), and the clue actually argues for it: since Ramón feels no distaste, he must be holding himself back from something he'd otherwise enjoy — precisely forbear's connotation of effortful self-restraint. Nothing in the sentence discriminates between the two except collocational taste (abstain pairs habitually/duratively with drink; forbear tends to take a gerund or an occasion-specific object), which is too fine a distinction to mark a test-taker wrong on. Eschewed is ruled out only by the preposition (it is transitive: \"eschewed wine\"), which makes it a grammar trap rather than a meaning contrast; desisted (cease an activity in progress) and demurred (raise an objection) are cleanly wrong. Fix by rewriting so the blank needs the specific sense — e.g., if the target is \"abstained,\" add a temperance-pledge/self-denial-as-doctrine cue; if the target is \"forbore,\" drop the \"rather than from any distaste\" clause that invites the restraint reading.",
+      "stem": "For thirty years, on principle rather than from any distaste, Ramón {1} from wine at tables where every other guest drank freely."
+    }
+  ]
+}

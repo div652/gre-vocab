@@ -1,0 +1,260 @@
+{
+  "unit": "gregmat01__b0",
+  "gregmat_group": 1,
+  "words": [
+    "abound",
+    "amorphous",
+    "austere",
+    "belie"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Rumours of an imminent coup {1} in the capital that spring, yet the general's placid schedule — ceremonial dinners, a hospital opening, a week's shooting in the hills — appeared to {2} them.",
+      "blanks": [
+        {
+          "options": [
+            "abounded",
+            "abated",
+            "faltered"
+          ],
+          "answers": [
+            "abounded"
+          ]
+        },
+        {
+          "options": [
+            "belie",
+            "corroborate",
+            "herald"
+          ],
+          "answers": [
+            "belie"
+          ]
+        }
+      ],
+      "words": [
+        "abound",
+        "belie"
+      ],
+      "explanation": "The \"yet\" demands that the second clause work against the first, so the rumours must be everywhere (abounded) and the general's untroubled routine must silently contradict them (belie). Corroborate reverses the logic, and herald would make the schedule announce a coup rather than argue against one; abated or faltered would leave nothing for the placid schedule to contradict.",
+      "id": "gregmat01__b0__tc2__00",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "Whatever else was wrong with the Elizabethan playhouse, it was not short of stock devices: in the repertories of the two decades after 1590, ghosts, disguised dukes, and shipwrecked twins simply {1}.",
+      "blanks": [
+        {
+          "options": [
+            "abounded",
+            "inundated",
+            "engulfed",
+            "dwindled",
+            "coalesced"
+          ],
+          "answers": [
+            "abounded"
+          ]
+        }
+      ],
+      "words": [
+        "abound"
+      ],
+      "explanation": "Abound is intransitive — the plentiful things themselves are the subject, and the effect is \"everywhere you look,\" which is exactly what the repertories show. Inundate and engulf are transitive and need an object to flood or swallow; dwindled contradicts \"not short of,\" and coalesced would say the devices merged rather than teemed.",
+      "id": "gregmat01__b0__cloze__01",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Early drafts of the constitution left the executive's powers {1}, and the delegates' work in the final weeks consisted largely of efforts to {2} them: naming each authority, fixing its limits, and barring everything not named.",
+      "blanks": [
+        {
+          "options": [
+            "amorphous",
+            "circumscribed",
+            "invidious"
+          ],
+          "answers": [
+            "amorphous"
+          ]
+        },
+        {
+          "options": [
+            "delineate",
+            "obfuscate",
+            "abrogate"
+          ],
+          "answers": [
+            "delineate"
+          ]
+        }
+      ],
+      "words": [
+        "amorphous"
+      ],
+      "explanation": "The colon spells out the remedy — naming, limiting, enumerating — which is drawing an outline, so the second blank is delineate and the prior state must be outline-less, i.e. amorphous. Circumscribed already means bounded, which would make the delegates' month of work pointless; obfuscate and abrogate would blur or abolish the powers rather than give them edges.",
+      "id": "gregmat01__b0__tc2__02",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "The grievances that eventually hardened into a formal platform were, in that first winter, still {1}: keenly felt, endlessly discussed, but not yet reducible to a single stated demand.",
+      "blanks": [
+        {
+          "options": [
+            "amorphous",
+            "inchoate",
+            "spurious",
+            "quiescent",
+            "ubiquitous",
+            "tendentious"
+          ],
+          "answers": [
+            "amorphous",
+            "inchoate"
+          ]
+        }
+      ],
+      "words": [
+        "amorphous"
+      ],
+      "explanation": "Both amorphous and inchoate describe something real but as yet unformed, which is precisely the gap between grievances deeply felt and grievances given a shape. Quiescent is contradicted by \"keenly felt, endlessly discussed,\" and spurious would call the grievances false rather than unformed — a change of meaning, not a synonym.",
+      "id": "gregmat01__b0__se__03",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "Visitors who arrived at the retreat expecting some concession to comfort found its lodgings resolutely {1}: iron cots, unheated stone cells, and a diet of bread and broth.",
+      "blanks": [
+        {
+          "options": [
+            "austere",
+            "spartan",
+            "sumptuous",
+            "squalid",
+            "provisional",
+            "ostentatious"
+          ],
+          "answers": [
+            "austere",
+            "spartan"
+          ]
+        }
+      ],
+      "words": [
+        "austere"
+      ],
+      "explanation": "Austere and spartan both name a deliberate stripping away of comfort, which is what iron cots and unheated cells amount to. Squalid would add filth and disorder, a different charge altogether, and provisional would say the lodgings were temporary rather than bare; sumptuous and ostentatious reverse the sense.",
+      "id": "gregmat01__b0__se__04",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues who knew Hollis only from the committee room remembered an {1} man — unsmiling, brusque, impatient of small talk — and that manner wholly {2} the private generosity disclosed when his will was read.",
+      "blanks": [
+        {
+          "options": [
+            "austere",
+            "affable",
+            "mercurial"
+          ],
+          "answers": [
+            "austere"
+          ]
+        },
+        {
+          "options": [
+            "belied",
+            "advertised",
+            "corroborated"
+          ],
+          "answers": [
+            "belied"
+          ]
+        }
+      ],
+      "words": [
+        "austere",
+        "belie"
+      ],
+      "explanation": "The appositive \"unsmiling, brusque, impatient of small talk\" fixes the first blank as austere, the one word in the set that reaches a person's face and manner. Because the generosity surfaced only posthumously, the manner must have given a false impression of it — belied; advertised and corroborated would have the stern exterior disclosing what in fact stayed hidden.",
+      "id": "gregmat01__b0__tc2__05",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers observed that the memoir's breezy, anecdotal surface quite {1} the scholarship beneath it: the footnotes alone ran to eighty pages, and every family story had been checked against parish records.",
+      "blanks": [
+        {
+          "options": [
+            "belied",
+            "betrayed",
+            "belittled",
+            "corroborated",
+            "presaged"
+          ],
+          "answers": [
+            "belied"
+          ]
+        }
+      ],
+      "words": [
+        "belie"
+      ],
+      "explanation": "The surface misrepresents what lies under it, and belie is the verb whose subject is the deceiver and whose object is the truth being covered up. Betrayed is the trap: it would mean the breezy surface let the scholarship show, the opposite of what the sentence describes; corroborated and presaged likewise make the surface disclose rather than disguise.",
+      "id": "gregmat01__b0__cloze__06",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Though a decade of record receipts meant that the treasury {1} in unspent reserves, the chancellor's budget was pointedly {2}: subsidies cut, allowances withdrawn, even his own department's staff trimmed.",
+      "blanks": [
+        {
+          "options": [
+            "abounded",
+            "dwindled",
+            "languished"
+          ],
+          "answers": [
+            "abounded"
+          ]
+        },
+        {
+          "options": [
+            "austere",
+            "prodigal",
+            "equivocal"
+          ],
+          "answers": [
+            "austere"
+          ]
+        }
+      ],
+      "words": [
+        "abound",
+        "austere"
+      ],
+      "explanation": "\"Record receipts\" fixes the first blank as abounded, and the colon's list of cuts fixes the second as austere — the standard word for a budget stripped of perks. \"Though\" requires the two halves to clash, which prodigal would destroy by making plenty produce spending; equivocal would describe unclear wording rather than the plain fact of withdrawal.",
+      "id": "gregmat01__b0__tc2__07",
+      "unit": "gregmat01__b0",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat05__b5",
+  "gregmat_group": 5,
+  "words": [
+    "plodding",
+    "prosaic",
+    "remedial",
+    "restive"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers granted that the biography was {1} — no claim left unsourced, no surviving witness uninterviewed — and for that very reason found its {2} progress forgivable: eight hundred pages that trudge, but arrive.",
+      "blanks": [
+        {
+          "options": [
+            "scrupulous",
+            "desultory",
+            "scintillating"
+          ],
+          "answers": [
+            "scrupulous"
+          ]
+        },
+        {
+          "options": [
+            "plodding",
+            "arresting",
+            "frenetic"
+          ],
+          "answers": [
+            "plodding"
+          ]
+        }
+      ],
+      "words": [
+        "plodding"
+      ],
+      "explanation": "The dashes gloss blank one as exhaustive documentation, so 'scrupulous' is forced; 'desultory' (aimless, unmethodical) contradicts the sourcing, and 'scintillating' would make the concession pointless. Blank two must name a fault that thoroughness excuses, and 'trudge, but arrive' is the signature of plodding — heavy, spark-free, yet finishing the job — where 'frenetic' inverts the pace and 'arresting' is not a fault at all.",
+      "id": "gregmat05__b5__tc2__00",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Even sympathetic readers conceded that the philosopher's prose was {1}: it advanced by heavy, effortful steps, hauling each qualification along with it, and never once by a leap.",
+      "blanks": [
+        {
+          "options": [
+            "plodding",
+            "ponderous",
+            "hackneyed",
+            "insipid",
+            "scintillating",
+            "nimble"
+          ],
+          "answers": [
+            "plodding",
+            "ponderous"
+          ]
+        }
+      ],
+      "words": [
+        "plodding"
+      ],
+      "explanation": "The clue is weight and labour of movement — 'heavy, effortful steps' and the absence of a leap — which is exactly what 'plodding' and 'ponderous' share, so the two sentences mean the same thing. 'Hackneyed' faults staleness from overuse and 'insipid' faults flavourlessness; both are plausible complaints about prose but neither is about the drag of the pace, and 'scintillating' and 'nimble' reverse the sense.",
+      "id": "gregmat05__b5__se__01",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "For a decade the loss of the trawler sustained rumours of sabotage and insurance fraud, until a salvage survey established the {1} truth: a corroded seacock, and a bilge pump that had been disconnected for repairs and never reconnected.",
+      "blanks": [
+        {
+          "options": [
+            "prosaic",
+            "hackneyed",
+            "insipid",
+            "vapid",
+            "soporific"
+          ],
+          "answers": [
+            "prosaic"
+          ]
+        }
+      ],
+      "words": [
+        "prosaic"
+      ],
+      "explanation": "The sentence stages a deflation — a thrilling theory collapsing into an unglamorous but demonstrably correct account — and 'prosaic' is the only one of these that can describe something true and useful, faulting merely its lack of colour. 'Hackneyed' would require the explanation to be worn out by repetition, while 'insipid', 'vapid', and 'soporific' judge the flavour or effect of an utterance rather than the flatness of a fact.",
+      "id": "gregmat05__b5__cloze__02",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "The visiting lecturer's account of the uprising was so {1} — a chronology of dates and troop numbers unrelieved by any argument about causes — that within the hour even the dutiful front rows had grown {2}, shuffling their papers and glancing at the door.",
+      "blanks": [
+        {
+          "options": [
+            "prosaic",
+            "tendentious",
+            "scintillating"
+          ],
+          "answers": [
+            "prosaic"
+          ]
+        },
+        {
+          "options": [
+            "restive",
+            "quiescent",
+            "placid"
+          ],
+          "answers": [
+            "restive"
+          ]
+        }
+      ],
+      "words": [
+        "prosaic",
+        "restive"
+      ],
+      "explanation": "Blank one is defined by the dash: dates without interpretation is flatness, not bias, so 'prosaic' fits where 'tendentious' (slanted toward a thesis) is ruled out by 'unrelieved by any argument'. Blank two needs the audience's response to that flatness while still held in place by the occasion — fidgeting under a constraint they cannot yet break is precisely 'restive', whereas 'quiescent' and 'placid' describe the settledness the shuffling contradicts.",
+      "id": "gregmat05__b5__tc2__03",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "The inspectorate stopped short of ordering the school closed, requiring instead that {1} work on the foundations — cracked lintels replaced, drainage rerouted — be certified complete before the autumn term.",
+      "blanks": [
+        {
+          "options": [
+            "remedial",
+            "corrective",
+            "punitive",
+            "palliative",
+            "cosmetic",
+            "preliminary"
+          ],
+          "answers": [
+            "remedial",
+            "corrective"
+          ]
+        }
+      ],
+      "words": [
+        "remedial"
+      ],
+      "explanation": "A defect exists and the order is to repair it, which is the neutral engineering sense shared by 'remedial' and 'corrective'. 'Punitive' would make the works a penalty rather than a repair, 'palliative' would concede the fault remains beneath a relieved symptom, and 'cosmetic' — plausible in an inspection report — asserts the opposite of structural repair.",
+      "id": "gregmat05__b5__se__04",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Admitted on the strength of his portfolio rather than his transcript, the sculptor spent his first semester in {1} algebra, relearning material his classmates had finished at sixteen.",
+      "blanks": [
+        {
+          "options": [
+            "remedial",
+            "preliminary",
+            "elective",
+            "ancillary",
+            "provisional"
+          ],
+          "answers": [
+            "remedial"
+          ]
+        }
+      ],
+      "words": [
+        "remedial"
+      ],
+      "explanation": "The sentence establishes a shortfall against a standard everyone else has already met, and 'remedial' is the word that both repairs and diagnoses that shortfall. 'Preliminary' would mean the course simply comes first in a sequence — true for all students, and so at odds with 'relearning' what the classmates finished years earlier — while 'elective', 'ancillary', and 'provisional' say nothing about deficiency.",
+      "id": "gregmat05__b5__cloze__05",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "After a third year of failed harvests and unrelieved requisitioning, the northern provinces had become so {1} that the viceroy kept two regiments encamped outside the capital through the winter.",
+      "blanks": [
+        {
+          "options": [
+            "restive",
+            "quiescent",
+            "languid",
+            "frenetic",
+            "wayward"
+          ],
+          "answers": [
+            "restive"
+          ]
+        }
+      ],
+      "words": [
+        "restive"
+      ],
+      "explanation": "The regiments put an authority in the frame whose grip is slipping, which is the condition 'restive' names: collective impatience under restraint, just short of open revolt. 'Wayward' describes erratic individual character rather than a population straining against control, 'quiescent' and 'languid' are the calm the garrison would make unnecessary, and 'frenetic' denotes frantic activity, not suppressed insubordination.",
+      "id": "gregmat05__b5__cloze__06",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Inheriting a garrison made {1} by eight months of arrears and by officers who were heckled on parade, the new commander announced {2} measures aimed not at the ringleaders but at the conditions that had produced them: back pay within the week, and an inquiry into the quartermaster's accounts.",
+      "blanks": [
+        {
+          "options": [
+            "restive",
+            "prosaic",
+            "placid"
+          ],
+          "answers": [
+            "restive"
+          ]
+        },
+        {
+          "options": [
+            "remedial",
+            "punitive",
+            "dilatory"
+          ],
+          "answers": [
+            "remedial"
+          ]
+        }
+      ],
+      "words": [
+        "restive",
+        "remedial"
+      ],
+      "explanation": "Heckling under discipline is insubordination short of mutiny, so blank one takes 'restive'; 'placid' contradicts it and 'prosaic' judges dullness of expression, not the mood of troops. Blank two is fixed by 'aimed not at the ringleaders but at the conditions', which excludes 'punitive' and demands the vocabulary of repair — and 'dilatory' would describe delay, the opposite of pay delivered within the week.",
+      "id": "gregmat05__b5__tc2__07",
+      "unit": "gregmat05__b5",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": []
+}

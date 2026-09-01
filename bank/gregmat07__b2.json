@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat07__b2",
+  "gregmat_group": 7,
+  "words": [
+    "indefatigable",
+    "indolent",
+    "insular",
+    "intransigent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though every other member of the survey team had abandoned the work after a single dispiriting season, Hutton's {1} gathering of specimens went on for two decades — a record that testifies less to genius than to plain {2}.",
+      "blanks": [
+        {
+          "options": [
+            "indefatigable",
+            "dilatory",
+            "desultory"
+          ],
+          "answers": [
+            "indefatigable"
+          ]
+        },
+        {
+          "options": [
+            "perseverance",
+            "virtuosity",
+            "complacency"
+          ],
+          "answers": [
+            "perseverance"
+          ]
+        }
+      ],
+      "words": [
+        "indefatigable"
+      ],
+      "explanation": "The concession (everyone else quit; he continued twenty years) demands a word for un-tiring output, so blank one is indefatigable; dilatory means prone to delay and desultory means unsystematic, neither of which explains two decades of sustained work. In blank two, 'less to genius than to' sets up a contrast with talent, which rules out virtuosity (a synonym for genius) and complacency (self-satisfaction, not effort), leaving perseverance.",
+      "id": "gregmat07__b2__tc2__00",
+      "unit": "gregmat07__b2",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Her four decades in the archive met with no resistance worth the name and yielded no dramatic discoveries; what impressed her colleagues was simply the {1} flow of catalogues and monographs, undiminished by age or by the sheer volume of the labor.",
+      "blanks": [
+        {
+          "options": [
+            "indefatigable",
+            "tireless",
+            "dogged",
+            "pertinacious",
+            "resolute",
+            "desultory"
+          ],
+          "answers": [
+            "indefatigable",
+            "tireless"
+          ]
+        }
+      ],
+      "words": [
+        "indefatigable"
+      ],
+      "explanation": "The sentence stresses the absence of fatigue rather than the overcoming of obstacles, which is exactly what indefatigable and tireless name. Dogged, pertinacious and resolute all presuppose opposition or a purpose held against pressure, and the clause 'met with no resistance worth the name' explicitly removes any; desultory (fitful, unmethodical) contradicts an undiminished flow.",
+      "id": "gregmat07__b2__se__01",
+      "unit": "gregmat07__b2",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Byron's letters from Venice present the poet as agreeably {1}, drifting from café to canal for weeks together without setting down a line; the pose was of course a {2}, since those same months produced two cantos of Don Juan.",
+      "blanks": [
+        {
+          "options": [
+            "indolent",
+            "feckless",
+            "slovenly"
+          ],
+          "answers": [
+            "indolent"
+          ]
+        },
+        {
+          "options": [
+            "fabrication",
+            "sinecure",
+            "penance"
+          ],
+          "answers": [
+            "fabrication"
+          ]
+        }
+      ],
+      "words": [
+        "indolent"
+      ],
+      "explanation": "Only indolent can be modified by 'agreeably' — it names a comfortable temperamental aversion to exertion, whereas feckless imputes irresponsibility and slovenly describes untidiness, neither of which is agreeable or about idleness as pleasure. Blank two is fixed by 'since those same months produced two cantos': the self-portrait was false, hence fabrication; a sinecure is a paid post without duties, and a penance is self-imposed suffering.",
+      "id": "gregmat07__b2__tc2__02",
+      "unit": "gregmat07__b2",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "The oncologist argued against immediate surgery: the lesion was {1}, having grown scarcely at all across three years of imaging and causing the patient no pain whatever.",
+      "blanks": [
+        {
+          "options": [
+            "indolent",
+            "fulminant",
+            "insolent",
+            "refractory",
+            "malignant"
+          ],
+          "answers": [
+            "indolent"
+          ]
+        }
+      ],
+      "words": [
+        "indolent"
+      ],
+      "explanation": "In its medical sense indolent means slow-growing and painless, which is precisely what the evidence in the clause reports and what justifies watchful waiting. Fulminant means sudden and severe (the opposite), refractory means unresponsive to treatment though nothing has yet been tried, malignant would argue for surgery rather than against it, and insolent — the standard lookalike — means impudent.",
+      "id": "gregmat07__b2__cloze__03",
+      "unit": "gregmat07__b2",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "For thirty years the field's journals cited chiefly one another and its conferences drew the same hundred participants; the resulting {1} was less a matter of arrogance than of {2}, for no one there felt that anything outside was being missed.",
+      "blanks": [
+        {
+          "options": [
+            "insularity",
+            "intransigence",
+            "indolence"
+          ],
+          "answers": [
+            "insularity"
+          ]
+        },
+        {
+          "options": [
+            "complacency",
+            "chauvinism",
+            "mendacity"
+          ],
+          "answers": [
+            "complacency"
+          ]
+        }
+      ],
+      "words": [
+        "insular"
+      ],
+      "explanation": "A discipline that reads and meets only itself is cut off and narrowed by that isolation — insularity; intransigence would require terms offered and refused, and indolence would impute laziness, which steady citing and conferencing is not. Blank two is set by 'less a matter of arrogance than of' plus the final clause: chauvinism is a species of arrogance and so is excluded by the contrast, mendacity (lying) is irrelevant, and feeling that nothing is missed is the very definition of complacency.",
+      "id": "gregmat07__b2__tc2__04",
+      "unit": "gregmat07__b2",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Having taught, published, and quarrelled for decades entirely within the borders of one national tradition, the school grew so {1} that its senior members could not name a living scholar working abroad.",
+      "blanks": [
+        {
+          "options": [
+            "insular",
+            "parochial",
+            "cosmopolitan",
+            "urbane",
+            "aloof",
+            "myopic"
+          ],
+          "answers": [
+            "insular",
+            "parochial"
+          ]
+        }
+      ],
+      "words": [
+        "insular"
+      ],
+      "explanation": "Insular and parochial both mean narrow through confinement to one's own small world, and either yields the same sentence about a school ignorant of everything beyond its borders. Cosmopolitan and urbane reverse the meaning; aloof describes standoffishness toward persons rather than narrowness of range; myopic concerns failure of foresight, not ignorance of what lies outside.",
+      "id": "gregmat07__b2__se__05",
+      "unit": "gregmat07__b2",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Three rounds of mediation collapsed, not because the miners' demands were extravagant but because the company proved {1}: having tabled what it called a final offer in April, it declined every subsequent amendment, however {2}.",
+      "blanks": [
+        {
+          "options": [
+            "intransigent",
+            "dilatory",
+            "feckless"
+          ],
+          "answers": [
+            "intransigent"
+          ]
+        },
+        {
+          "options": [
+            "trifling",
+            "exorbitant",
+            "oblique"
+          ],
+          "answers": [
+            "trifling"
+          ]
+        }
+      ],
+      "words": [
+        "intransigent"
+      ],
+      "explanation": "Terms were tabled and every revision refused, which is the bargaining-table refusal to move that intransigent names; dilatory would mean the company delayed rather than refused, and feckless would mean it was merely ineffectual. Blank two must intensify that refusal — 'however trifling' shows even the smallest change was rejected — whereas exorbitant would make the refusals perfectly reasonable and oblique is beside the point.",
+      "id": "gregmat07__b2__tc2__06",
+      "unit": "gregmat07__b2",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence sets up a contrast with \"genial and even pliable\" and the evidence (accepting not one amendment to a text pronounced final) points to an unwillingness to compromise. \"Intransigent\" is the best fit because it is specifically about refusing to compromise in negotiation. But \"obstinate\" — stubbornly refusing to change one's position — fits the same slot just as naturally (\"he became obstinate the moment terms were on the table\"), and \"headstrong\" (willfully insisting on one's own way) is also arguable. With three distractors that are near-synonyms of the keyed word and only two clear throwaways (irresolute, indolent), nothing in the sentence discriminates among them, so a reasonable test-taker choosing \"obstinate\" would be marked wrong on a defensible reading. Replace the synonymous distractors with words that fail on some specific dimension (e.g. \"brusque\", \"punctilious\", \"mercurial\") or add wording that demands the negotiation-specific sense.",
+      "stem": "Genial and even pliable in private, he became {1} the moment terms were on the table: at Geneva he accepted not one amendment to a text he had pronounced final on the day he arrived."
+    }
+  ]
+}

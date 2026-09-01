@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat27__b4",
+  "gregmat_group": 27,
+  "words": [
+    "miscreant",
+    "peccadillo",
+    "philistine",
+    "relegate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The trustees were entirely unembarrassed by their own {1} standard — a work's worth was simply its resale price — and so the difficult, unsellable installation the curator had championed was quietly {2} a storeroom no visitor ever entered.",
+      "blanks": [
+        {
+          "options": [
+            "philistine",
+            "boorish",
+            "parochial"
+          ],
+          "answers": [
+            "philistine"
+          ]
+        },
+        {
+          "options": [
+            "relegated to",
+            "marginalized within",
+            "elevated to"
+          ],
+          "answers": [
+            "relegated to"
+          ]
+        }
+      ],
+      "words": [
+        "philistine",
+        "relegate"
+      ],
+      "explanation": "The trustees judge art by price and feel no shame about it — that smug preference for the profitable over the beautiful is precisely philistine; boorish would describe coarse manners, which are not at issue, and parochial would mean narrow in range rather than contemptuous of art's value. The second blank needs a deliberate downward move with a destination attached ('to a storeroom'): relegated fits, elevated reverses the direction, and marginalized takes no such 'to'-phrase and would say the work was pushed to the edges rather than filed away in one particular hole.",
+      "id": "gregmat27__b4__tc2__00",
+      "unit": "gregmat27__b4",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "The magistrate, who had known the families for thirty years, addressed the two {1} with a severity that was plainly mock, treating a stolen bicycle bell and a trampled hedge as {2} rather than as the opening chapter of a criminal career.",
+      "blanks": [
+        {
+          "options": [
+            "miscreants",
+            "felons",
+            "libertines"
+          ],
+          "answers": [
+            "miscreants"
+          ]
+        },
+        {
+          "options": [
+            "peccadilloes",
+            "transgressions",
+            "atrocities"
+          ],
+          "answers": [
+            "peccadilloes"
+          ]
+        }
+      ],
+      "words": [
+        "miscreant",
+        "peccadillo"
+      ],
+      "explanation": "The mock severity and the trivial offences call for miscreants, the dry, faintly archaic word an authority uses to look down on small fry; felon is a legal category far too grave for a bicycle bell, and libertine names sexual dissipation, not petty mischief. Peccadilloes both concedes the wrongdoing and waves it away, which is what the contrast with 'a criminal career' demands, whereas transgressions and atrocities would make the offences serious and destroy the joke.",
+      "id": "gregmat27__b4__tc2__01",
+      "unit": "gregmat27__b4",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "In the school's economy of punishment, the worst fate awaiting a persistent but essentially harmless {1} was to be {2} the back row, where the master's questions never reached him and his existence was tacitly forgotten.",
+      "blanks": [
+        {
+          "options": [
+            "miscreant",
+            "libertine",
+            "sycophant"
+          ],
+          "answers": [
+            "miscreant"
+          ]
+        },
+        {
+          "options": [
+            "relegated to",
+            "ousted from",
+            "immured in"
+          ],
+          "answers": [
+            "relegated to"
+          ]
+        }
+      ],
+      "words": [
+        "miscreant",
+        "relegate"
+      ],
+      "explanation": "'Persistent but essentially harmless' points to miscreant, the amused, lofty label for a minor offender; libertine implies debauchery and sycophant means a flatterer, neither of which is an offence against school discipline. Relegated is the only option that keeps the boy inside the room at a worse position — ousted would expel him from the back row rather than send him to it, and immured means walled up, an absurd overstatement here.",
+      "id": "gregmat27__b4__tc2__02",
+      "unit": "gregmat27__b4",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Once the indispensable language of European diplomacy, French has been steadily {1} a ceremonial role in institutions whose real business is now transacted almost entirely in English.",
+      "blanks": [
+        {
+          "options": [
+            "relegated to",
+            "consigned to",
+            "elevated to",
+            "restored to",
+            "subsumed into",
+            "venerated as"
+          ],
+          "answers": [
+            "relegated to",
+            "consigned to"
+          ]
+        }
+      ],
+      "words": [
+        "relegate"
+      ],
+      "explanation": "The language remains present but has been pushed down to an ornamental function, so relegated to and consigned to both give the required sense of a dismissive demotion within a system. Elevated to and restored to fit the grammar and the formal register perfectly but reverse the movement; subsumed into would mean absorbed and lost, and venerated as says the opposite of what the contrast with 'real business' establishes.",
+      "id": "gregmat27__b4__se__03",
+      "unit": "gregmat27__b4",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Ruskin reserved his sharpest scorn not for the workman who had never entered a gallery, but for the prosperous manufacturer who had entered one and emerged satisfied that the whole business was a waste of good capital — the {1} in his purest form.",
+      "blanks": [
+        {
+          "options": [
+            "philistine",
+            "ignoramus",
+            "parvenu",
+            "dilettante",
+            "provincial"
+          ],
+          "answers": [
+            "philistine"
+          ]
+        }
+      ],
+      "words": [
+        "philistine"
+      ],
+      "explanation": "The sentence explicitly excludes mere ignorance — the manufacturer looked at the art and pronounced it worthless by the measure of profit — which is the settled, self-satisfied hostility to culture that philistine names. Ignoramus describes the absence of knowledge the sentence has just ruled out, provincial describes narrow horizons rather than contempt for art, parvenu concerns social climbing, and a dilettante dabbles in the arts instead of despising them.",
+      "id": "gregmat27__b4__cloze__05",
+      "unit": "gregmat27__b4",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "The chronicler's tone toward the rioting apprentices is one of amused condescension throughout: they appear as unruly {1} to be birched and sent home to their masters, never as men whose grievances might merit a hearing.",
+      "blanks": [
+        {
+          "options": [
+            "miscreants",
+            "felons",
+            "libertines",
+            "martyrs",
+            "ideologues"
+          ],
+          "answers": [
+            "miscreants"
+          ]
+        }
+      ],
+      "words": [
+        "miscreant"
+      ],
+      "explanation": "Miscreants captures the chronicler's amused altitude — a lofty, faintly archaic word that shrinks the rioters into naughty small fry deserving a birching rather than an answer. Felons would impose the very legal gravity the tone withholds, libertines names dissipation rather than disorder, and martyrs and ideologues would grant the apprentices exactly the dignity of cause that the sentence says the chronicler denies them.",
+      "id": "gregmat27__b4__cloze__06",
+      "unit": "gregmat27__b4",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Defenders of the funding cuts insisted they were merely being practical, but the minister's observation that a symphony orchestra 'produces nothing anyone can sell' revealed something closer to a {1} conviction: that whatever cannot be priced need not be preserved.",
+      "blanks": [
+        {
+          "options": [
+            "philistine",
+            "boorish",
+            "churlish",
+            "insular",
+            "xenophobic"
+          ],
+          "answers": [
+            "philistine"
+          ]
+        }
+      ],
+      "words": [
+        "philistine"
+      ],
+      "explanation": "The minister is not rude but complacently certain that value equals market price, and philistine is the adjective for that smug subordination of art to profit. Boorish and churlish concern coarse or ungracious manners, which the polished official phrasing pointedly lacks, while insular and xenophobic describe a narrowness about outsiders and foreign influence rather than a hostility to culture as such.",
+      "id": "gregmat27__b4__cloze__07",
+      "unit": "gregmat27__b4",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options are defensible minimizers, not two. \"Foibles\" (a minor weakness or flaw of character) fits \"dismissed as mere foibles, forgivable...\" idiomatically and yields substantially the same sentence meaning as \"peccadilloes.\" The intended discriminator is presumably that a foible is a harmless quirk/eccentricity while a peccadillo is a small *sin* — and gambling debts and serial infidelities are moral offenses, not quirks — but the sentence supplies no cue that directs the test-taker to that fine distinction; the framing (\"mere,\" \"forgivable\") only signals \"trivialize the fault,\" which foibles does. A reasonable test-taker choosing peccadilloes + foibles would be marked wrong. Fix by replacing \"foibles\" with a clear distractor (e.g. \"eccentricities\" is still risky; better: \"extravagances\" or \"vagaries\" or a non-fault word).",
+      "stem": "The authorized biography hurries past its subject's gambling debts and serial infidelities as mere {1}, forgivable in a man whose public achievements were so considerable."
+    }
+  ]
+}

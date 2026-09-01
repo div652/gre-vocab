@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat24__b7",
+  "gregmat_group": 24,
+  "words": [
+    "surmount",
+    "tangential"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Cortés's chroniclers preferred to cast the conquest as a contest of arms, but its decisive achievements were logistical: having {1} thin air, washed-out passes, and starvation rations, the Spaniards needed only a season to {2} an emperor whose armies had never lost a field.",
+      "blanks": [
+        {
+          "options": [
+            "surmounted",
+            "vanquished",
+            "prevailed"
+          ],
+          "answers": [
+            "surmounted"
+          ]
+        },
+        {
+          "options": [
+            "vanquish",
+            "surmount",
+            "eclipse"
+          ],
+          "answers": [
+            "vanquish"
+          ]
+        }
+      ],
+      "words": [
+        "surmount"
+      ],
+      "explanation": "The sentence sorts two kinds of achievement: inert obstacles (altitude, ruined roads, hunger) are surmounted, while a human adversary is vanquished. \"Vanquished\" cannot take the first blank because the mountains do not lose to anyone, and \"surmount\" cannot take the second because its object is never an opponent; \"prevailed\" is intransitive and cannot govern a noun, and \"eclipse\" would mean merely outshining the emperor rather than destroying his power.",
+      "id": "gregmat24__b7__tc2__00",
+      "unit": "gregmat24__b7",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Working with four inks and a press half a century out of date, Kollwitz contrived to {1} the technical poverty of her materials so completely that critics wrote of the prints as though no machinery had stood between her hand and the paper.",
+      "blanks": [
+        {
+          "options": [
+            "surmount",
+            "transcend",
+            "withstand",
+            "eclipse",
+            "outstrip",
+            "languish"
+          ],
+          "answers": [
+            "surmount",
+            "transcend"
+          ]
+        }
+      ],
+      "words": [
+        "surmount"
+      ],
+      "explanation": "The critics' reaction — as though the equipment had left no trace — requires a verb meaning that the limitation was risen above, which both \"surmount\" and \"transcend\" supply. \"Withstand\" is the tempting near-miss: it means she merely endured the bad press without being broken by it, a weaker and different claim, and \"eclipse\" would mean outshining the materials rather than getting past them; \"outstrip\" needs a rival being outpaced, and \"languish\" is intransitive and reverses the sense.",
+      "id": "gregmat24__b7__se__01",
+      "unit": "gregmat24__b7",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Interviewers found him exhausting: a question about his boyhood in Odessa would produce an answer that started there and ended, twenty minutes later, on the metallurgy of ships' bells — a {1} habit of mind that no amount of prompting could discipline.",
+      "blanks": [
+        {
+          "options": [
+            "tangential",
+            "extraneous",
+            "incidental",
+            "peripheral",
+            "apposite"
+          ],
+          "answers": [
+            "tangential"
+          ]
+        }
+      ],
+      "words": [
+        "tangential"
+      ],
+      "explanation": "The answer genuinely begins on the topic and then flies off from it, and the sentence describes a persistent manner of thinking rather than a single stray remark — the one word here that names a habit of mind is \"tangential.\" \"Extraneous,\" \"incidental,\" and \"peripheral\" judge a piece of content as unimportant or foreign to the matter and do not describe how someone talks, while \"apposite\" means strikingly apt, the reverse of what exhausted the interviewers.",
+      "id": "gregmat24__b7__cloze__02",
+      "unit": "gregmat24__b7",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "To call a colleague's objection irrelevant is to deny it any purchase whatever; to call it {1} is subtler and frequently more lethal, since the word {2} the connection before ruling that the argument has gone somewhere else entirely.",
+      "blanks": [
+        {
+          "options": [
+            "tangential",
+            "apposite",
+            "extraneous"
+          ],
+          "answers": [
+            "tangential"
+          ]
+        },
+        {
+          "options": [
+            "concedes",
+            "repudiates",
+            "exaggerates"
+          ],
+          "answers": [
+            "concedes"
+          ]
+        }
+      ],
+      "words": [
+        "tangential"
+      ],
+      "explanation": "The second blank must name what distinguishes this verdict from a flat charge of irrelevance — it grants the link and then rules it out of bounds — which fixes \"concedes\" and, with it, \"tangential,\" the term that allows exactly one point of contact. \"Extraneous\" fails because it denies belonging outright and so would be no subtler than \"irrelevant,\" and \"apposite\" means apt, which no one would call lethal.",
+      "id": "gregmat24__b7__tc2__03",
+      "unit": "gregmat24__b7",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": []
+}

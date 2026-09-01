@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat23__b0",
+  "gregmat_group": 23,
+  "words": [
+    "allusive",
+    "astute",
+    "commence",
+    "convalescent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Pound's early cantos are so {1} that an unprepared reader hears only murk; the unmarked snatches of Provencal and Confucian text are not lapses of craft but an {2} compliment to those equipped to recognize them.",
+      "blanks": [
+        {
+          "options": [
+            "allusive",
+            "frank",
+            "inchoate"
+          ],
+          "answers": [
+            "allusive"
+          ]
+        },
+        {
+          "options": [
+            "implicit",
+            "overt",
+            "obsolete"
+          ],
+          "answers": [
+            "implicit"
+          ]
+        }
+      ],
+      "words": [
+        "allusive"
+      ],
+      "explanation": "The unnamed borrowings from other texts are the defining mark of allusive writing, and the clause \"not lapses of craft\" kills inchoate, which would blame the difficulty on formlessness rather than design. In the second blank, a compliment paid by silent quotation is by definition implicit; overt would contradict the fact that the sources are unmarked.",
+      "id": "gregmat23__b0__tc2__00",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from the impulsive gambler of legend, Bismarck was {1} enough to goad the French into declaring war themselves; the pose of injured innocence he then struck was so convincing that even hostile courts mistook it for {2} candor rather than statecraft.",
+      "blanks": [
+        {
+          "options": [
+            "astute",
+            "ingenuous",
+            "convalescent"
+          ],
+          "answers": [
+            "astute"
+          ]
+        },
+        {
+          "options": [
+            "artless",
+            "wily",
+            "tacit"
+          ],
+          "answers": [
+            "artless"
+          ]
+        }
+      ],
+      "words": [
+        "astute"
+      ],
+      "explanation": "Astute is the compliment for reading a situation and engineering the advantage—here, making the enemy fire first—whereas ingenuous would name the very naivety Bismarck was only pretending to. The second blank must be the quality the pose counterfeits, so it needs artless (guileless); wily would be a synonym for what the courts failed to see, not for what they saw.",
+      "id": "gregmat23__b0__tc2__01",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Six months after the coup the country was at best {1} — the banks had reopened, the curfew was gone — yet the new government's authority remained so {2} that observers thought a single bad harvest might undo it.",
+      "blanks": [
+        {
+          "options": [
+            "convalescent",
+            "moribund",
+            "robust"
+          ],
+          "answers": [
+            "convalescent"
+          ]
+        },
+        {
+          "options": [
+            "precarious",
+            "entrenched",
+            "overt"
+          ],
+          "answers": [
+            "precarious"
+          ]
+        }
+      ],
+      "words": [
+        "convalescent"
+      ],
+      "explanation": "Convalescent names exactly the middle state the sentence describes: past the crisis (banks open, curfew lifted) but far from well, so moribund and robust each contradict one half of the evidence. The second blank is fixed by \"a single bad harvest might undo it,\" which demands precarious; entrenched reverses the sense.",
+      "id": "gregmat23__b0__tc2__02",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Three years after the default the economy was merely {1} — no longer collapsing, certainly, but nowhere near strong enough to absorb another shock.",
+      "blanks": [
+        {
+          "options": [
+            "convalescent",
+            "recuperating",
+            "moribund",
+            "resilient",
+            "vestigial",
+            "nascent"
+          ],
+          "answers": [
+            "convalescent",
+            "recuperating"
+          ]
+        }
+      ],
+      "words": [
+        "convalescent"
+      ],
+      "explanation": "The dashes define the blank as a slow middle state between illness and health, which convalescent and recuperating both name. Moribund contradicts \"no longer collapsing\"; resilient praises a capacity to bounce back that \"merely\" and \"nowhere near strong enough\" explicitly deny, and nascent would wrongly make this old economy a new one.",
+      "id": "gregmat23__b0__se__03",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers hoping for a protest novel found the book's politics too {1}: the massacre is never narrated, only glimpsed in an epigraph and in a character's half-remembered nursery rhyme.",
+      "blanks": [
+        {
+          "options": [
+            "allusive",
+            "oblique",
+            "illusory",
+            "strident",
+            "ingenuous",
+            "decorous"
+          ],
+          "answers": [
+            "allusive",
+            "oblique"
+          ]
+        }
+      ],
+      "words": [
+        "allusive"
+      ],
+      "explanation": "An atrocity present only as epigraph and fragment is pointed at rather than stated, which is what allusive and oblique both describe. Strident asserts the opposite kind of failure, decorous would fault the book's manners rather than its indirection, and illusory would claim the politics are not there at all rather than merely unspoken.",
+      "id": "gregmat23__b0__se__04",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Lincoln's decision to fill his cabinet with his fiercest rivals has long been read as an {1} stroke: it bound the men most capable of destroying him to the survival of his own administration.",
+      "blanks": [
+        {
+          "options": [
+            "astute",
+            "ingenuous",
+            "artless",
+            "gullible",
+            "allusive"
+          ],
+          "answers": [
+            "astute"
+          ]
+        }
+      ],
+      "words": [
+        "astute"
+      ],
+      "explanation": "The sentence describes spotting the angle in a political situation and turning it to advantage, which is precisely astute. Ingenuous, artless, and gullible all name the failure to see such angles, and allusive describes a style of writing, not a calculation.",
+      "id": "gregmat23__b0__cloze__05",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "By long convention no debate may {1} until the mace has been laid upon the table; members who speak before that moment are addressing, in the eyes of the House, a chamber that does not yet officially exist.",
+      "blanks": [
+        {
+          "options": [
+            "commence",
+            "adjourn",
+            "culminate",
+            "prevail",
+            "elapse"
+          ],
+          "answers": [
+            "commence"
+          ]
+        }
+      ],
+      "words": [
+        "commence"
+      ],
+      "explanation": "\"Does not yet officially exist\" fixes the blank as the ceremonial act of beginning, which is commence's home ground. Adjourn and culminate refer to ending, prevail to winning out, and elapse takes time rather than proceedings as its subject.",
+      "id": "gregmat23__b0__cloze__06",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Under the old statute no tribunal could {1} proceedings until every affected party had been served, a requirement that left the {2} inquiry looking moribund before it had heard a single witness.",
+      "blanks": [
+        {
+          "options": [
+            "commence",
+            "adjourn",
+            "prolong"
+          ],
+          "answers": [
+            "commence"
+          ]
+        },
+        {
+          "options": [
+            "nascent",
+            "archaic",
+            "vestigial"
+          ],
+          "answers": [
+            "nascent"
+          ]
+        }
+      ],
+      "words": [
+        "commence"
+      ],
+      "explanation": "Formal proceedings that cannot open until service is complete require commence; adjourn and prolong both presuppose the hearing has already begun. The second blank turns on the antithesis with \"moribund\" and on \"before it had heard a single witness,\" which make the inquiry newly born—nascent—rather than outdated or leftover.",
+      "id": "gregmat23__b0__tc2__07",
+      "unit": "gregmat23__b0",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": []
+}

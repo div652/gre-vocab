@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat09__b1",
+  "gregmat_group": 9,
+  "words": [
+    "commensurate",
+    "cordial",
+    "deleterious",
+    "dichotomy"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The commission found that the fines levied on the refinery were in no way {1} with the {2} effects of three decades of unmonitored discharge into the estuary, and it recommended raising them tenfold.",
+      "blanks": [
+        {
+          "options": [
+            "commensurate",
+            "equitable",
+            "disinterested"
+          ],
+          "answers": [
+            "commensurate"
+          ]
+        },
+        {
+          "options": [
+            "deleterious",
+            "salutary",
+            "negligible"
+          ],
+          "answers": [
+            "deleterious"
+          ]
+        }
+      ],
+      "words": [
+        "commensurate",
+        "deleterious"
+      ],
+      "explanation": "The recommendation to raise the fines tenfold tells you the harm was large and the penalty too small for its scale, which is exactly the relational claim 'commensurate with' makes; 'equitable' and 'disinterested' are moral words about fairness among parties and do not take 'with' a quantity of damage. In the second blank, 'salutary' (beneficial) and 'negligible' (trivial) would both argue for lowering the fines, while 'deleterious' supplies the clinical, cumulative harm that decades of discharge inflict on an ecosystem.",
+      "id": "gregmat09__b1__tc2__00",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Accounts of Jefferson's retirement describe a host who was unfailingly {1} without ever being warm enough to be mistaken for a friend; callers who arrived hoping for {2} left with nothing beyond graciousness and, some weeks later, a long letter of thanks.",
+      "blanks": [
+        {
+          "options": [
+            "cordial",
+            "effusive",
+            "churlish"
+          ],
+          "answers": [
+            "cordial"
+          ]
+        },
+        {
+          "options": [
+            "intimacy",
+            "decorum",
+            "impertinence"
+          ],
+          "answers": [
+            "intimacy"
+          ]
+        }
+      ],
+      "words": [
+        "cordial"
+      ],
+      "explanation": "The clause 'without ever being warm enough to be mistaken for a friend' describes genuine but deliberately distanced warmth, which is precisely cordial; 'effusive' gushes past that limit and 'churlish' contradicts 'unfailingly' and 'graciousness.' The second blank must name what the callers wanted and did not get, and since they plainly received courtesy, 'decorum' fails; only 'intimacy' is the thing cordiality withholds.",
+      "id": "gregmat09__b1__tc2__01",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians of the occupation have grown impatient with the tidy {1} of collaborator and resister, pointing out that most villagers {2} between the two roles depending on which army happened to be quartered in the town that month.",
+      "blanks": [
+        {
+          "options": [
+            "dichotomy",
+            "amalgam",
+            "schism"
+          ],
+          "answers": [
+            "dichotomy"
+          ]
+        },
+        {
+          "options": [
+            "oscillated",
+            "coalesced",
+            "polarized"
+          ],
+          "answers": [
+            "oscillated"
+          ]
+        }
+      ],
+      "words": [
+        "dichotomy"
+      ],
+      "explanation": "What the historians reject is the either/or frame that treats the two labels as exhaustive and mutually exclusive, which is a dichotomy; 'amalgam' names a blending and would state the historians' own conclusion rather than the target of their impatience, and 'schism' describes a group of people splitting, not a pair of ideas. In the second blank only 'oscillated' takes 'between' in the required sense of moving back and forth, whereas 'coalesced' means merging and 'polarized' means driving apart.",
+      "id": "gregmat09__b1__tc2__02",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Longitudinal data now show that even modest but chronic sleep restriction has measurable {1} effects on cardiovascular function, which is why cardiologists have begun to treat insufficient sleep as an independent risk factor.",
+      "blanks": [
+        {
+          "options": [
+            "deleterious",
+            "detrimental",
+            "salutary",
+            "salubrious",
+            "benign",
+            "negligible"
+          ],
+          "answers": [
+            "deleterious",
+            "detrimental"
+          ]
+        }
+      ],
+      "words": [
+        "deleterious"
+      ],
+      "explanation": "The clause about treating sleep loss as a risk factor fixes the effects as harmful and clinically measured, so 'deleterious' and 'detrimental' yield equivalent sentences in the detached register of a medical report. The trap is the pair 'salutary' and 'salubrious,' which are near-synonyms of each other and grammatically comfortable here, but they mean health-giving and so contradict the risk-factor clause; 'benign' and 'negligible' fail for the same reason.",
+      "id": "gregmat09__b1__se__03",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Neither government had forgiven the other for the border incident, yet the ceremony at which ambassadors were exchanged was studiously {1}: warm enough to satisfy the photographers, distant enough to commit no one to anything.",
+      "blanks": [
+        {
+          "options": [
+            "cordial",
+            "amicable",
+            "convivial",
+            "gregarious",
+            "churlish",
+            "perfunctory"
+          ],
+          "answers": [
+            "cordial",
+            "amicable"
+          ]
+        }
+      ],
+      "words": [
+        "cordial"
+      ],
+      "explanation": "'Cordial' and 'amicable' both denote real friendliness that stops well short of intimacy, which is exactly the diplomatic register the second half of the sentence describes. 'Convivial' implies festivity that unforgiven rivals would not manage, 'gregarious' describes a sociable person rather than an occasion, 'churlish' and 'perfunctory' both contradict the stated warmth.",
+      "id": "gregmat09__b1__se__04",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "The junior physicians objected that the fee schedule tracked nothing but seniority, and they demanded rates {1} with the actual complexity of each procedure performed.",
+      "blanks": [
+        {
+          "options": [
+            "commensurate",
+            "proportionate",
+            "equitable",
+            "egalitarian",
+            "coterminous",
+            "consonant"
+          ],
+          "answers": [
+            "commensurate",
+            "proportionate"
+          ]
+        }
+      ],
+      "words": [
+        "commensurate"
+      ],
+      "explanation": "The demand is that one quantity scale with another, and 'commensurate' and 'proportionate' are the two options that assert that relation between rates and complexity. 'Equitable' and 'egalitarian' are the tempting fairness pair, but they judge how parties are treated relative to one another rather than matching a payment to a measured degree of difficulty; 'coterminous' means sharing the same boundaries and 'consonant' merely means in harmony with, neither of which produces the scaling claim.",
+      "id": "gregmat09__b1__se__05",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "Critics of the period argued that the familiar {1} of nature and culture was not a discovery about the world but an artifact of the vocabulary used to describe it: nothing obliges anyone to sort every human practice into one of two exhaustive boxes.",
+      "blanks": [
+        {
+          "options": [
+            "dichotomy",
+            "schism",
+            "amalgamation",
+            "factionalism",
+            "hierarchy"
+          ],
+          "answers": [
+            "dichotomy"
+          ]
+        }
+      ],
+      "words": [
+        "dichotomy"
+      ],
+      "explanation": "The final clause specifies an either/or frame with only two mutually exclusive and collectively exhaustive options, which is the defining content of 'dichotomy.' 'Schism' and 'factionalism' split communities of people rather than concepts, 'amalgamation' names the opposite operation, and 'hierarchy' would rank the two terms rather than oppose them.",
+      "id": "gregmat09__b1__cloze__06",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "The renewal was refused on the ground that the laboratory's five-year output, two conference posters and a single unreplicated paper, was not remotely {1} with the seven-figure sum it had absorbed.",
+      "blanks": [
+        {
+          "options": [
+            "commensurate",
+            "coextensive",
+            "equitable",
+            "tantamount",
+            "redolent"
+          ],
+          "answers": [
+            "commensurate"
+          ]
+        }
+      ],
+      "words": [
+        "commensurate"
+      ],
+      "explanation": "The sentence sets a measure of output against a measure of money and finds the two off by orders of magnitude, which is the scale comparison 'commensurate with' exists to make. 'Coextensive' concerns identical extent or boundaries, 'equitable' judges fairness among claimants rather than the fit between reward and result, and 'tantamount' and 'redolent' both take 'to' and 'of' respectively while meaning equivalent to and suggestive of.",
+      "id": "gregmat09__b1__cloze__07",
+      "unit": "gregmat09__b1",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": []
+}

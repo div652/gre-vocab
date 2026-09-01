@@ -1,0 +1,236 @@
+{
+  "unit": "gregmat19__b1",
+  "gregmat_group": 19,
+  "words": [
+    "coin",
+    "cunning",
+    "discomfit",
+    "dissent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The book's key terms were far from {2}: nearly every phrase its author claimed to have {1} can be found, verbatim, in pamphlets published twenty years earlier.",
+      "blanks": [
+        {
+          "options": [
+            "coined",
+            "flouted",
+            "primed"
+          ],
+          "answers": [
+            "coined"
+          ]
+        },
+        {
+          "options": [
+            "unprecedented",
+            "derivative",
+            "banal"
+          ],
+          "answers": [
+            "unprecedented"
+          ]
+        }
+      ],
+      "words": [
+        "coin"
+      ],
+      "explanation": "The colon introduces evidence that the terms are old, so the first clause must be a denial of novelty: far from unprecedented. That fixes blank one as the claim of authorship over language — to coin is to mint a word and put it into circulation — while flouted (defied) and primed (prepared) do not take a phrase as object in this sense. Derivative and banal fail because \"far from derivative\" would contradict, not be explained by, the evidence that follows.",
+      "id": "gregmat19__b1__tc2__00",
+      "unit": "gregmat19__b1",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "The syndrome had been described in scattered case reports for decades but remained nameless until a Zurich neurologist {1} the term now used in every textbook, which passed into clinical usage within a year.",
+      "blanks": [
+        {
+          "options": [
+            "coined",
+            "mimicked",
+            "rendered",
+            "primed",
+            "informed"
+          ],
+          "answers": [
+            "coined"
+          ]
+        }
+      ],
+      "words": [
+        "coin"
+      ],
+      "explanation": "The sentence supplies exactly the two conditions the verb requires: a name that did not exist before, and one that caught on. Coin means to invent a word and put it into circulation, with a quiet claim of authorship; mimicked would mean he copied an existing term, which the words \"remained nameless\" rule out, and rendered, primed and informed do not describe originating a name.",
+      "id": "gregmat19__b1__cloze__01",
+      "unit": "gregmat19__b1",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Contemporaries could never decide whether Talleyrand's diplomacy showed statesmanship or mere {1}: the settlements he brokered did serve France, but several enriched him personally, an arrangement that would have {2} a less brazen negotiator.",
+      "blanks": [
+        {
+          "options": [
+            "cunning",
+            "equanimity",
+            "deference"
+          ],
+          "answers": [
+            "cunning"
+          ]
+        },
+        {
+          "options": [
+            "discomfited",
+            "emboldened",
+            "exonerated"
+          ],
+          "answers": [
+            "discomfited"
+          ]
+        }
+      ],
+      "words": [
+        "cunning",
+        "discomfit"
+      ],
+      "explanation": "The contrast with statesmanship, plus the detail of private enrichment, demands a noun for cleverness turned to self-interest: cunning names the faculty itself, whereas equanimity (calm) and deference (submission) describe temperament, not scheming. In the second blank, \"less brazen\" means more capable of shame, so the arrangement would have destroyed such a man's composure — discomfited; emboldened reverses the logic and exonerated would require an accusation to clear him of.",
+      "id": "gregmat19__b1__tc2__02",
+      "unit": "gregmat19__b1",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "The cross-examination was designed to {1} the witness, but she met each insinuation with such {2} that it was the prosecutor's own confidence that began to fray.",
+      "blanks": [
+        {
+          "options": [
+            "discomfit",
+            "exonerate",
+            "corroborate"
+          ],
+          "answers": [
+            "discomfit"
+          ]
+        },
+        {
+          "options": [
+            "aplomb",
+            "obstreperousness",
+            "chicanery"
+          ],
+          "answers": [
+            "aplomb"
+          ]
+        }
+      ],
+      "words": [
+        "discomfit"
+      ],
+      "explanation": "An examination built on insinuation aims to break the witness's poise, which is discomfit's exact work — an adversary does it to you and your composure collapses; exonerate and corroborate describe outcomes a hostile examiner would not seek. The \"but\" then requires the quality that defeats that aim, self-possession under attack, so aplomb is needed; obstreperousness (unruliness) would have helped the prosecutor, and chicanery would impute trickery to the witness.",
+      "id": "gregmat19__b1__tc2__04",
+      "unit": "gregmat19__b1",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "The minister who had entered the press conference radiating confidence left it visibly {1}, unable to explain why his own department's figures contradicted the claim he had just made.",
+      "blanks": [
+        {
+          "options": [
+            "discomfited",
+            "flustered",
+            "imperturbable",
+            "stoic",
+            "vindicated",
+            "sanguine"
+          ],
+          "answers": [
+            "discomfited",
+            "flustered"
+          ]
+        }
+      ],
+      "words": [
+        "discomfit"
+      ],
+      "explanation": "The reversal from confidence to inability to answer requires words for lost composure, and discomfited and flustered are equivalent here, the first merely adding the sense of a small defeat inflicted by an opponent. Imperturbable and stoic would describe the poise he arrived with rather than what replaced it, and vindicated and sanguine fit the grammar and register but assert that the encounter went well, which the second clause denies.",
+      "id": "gregmat19__b1__se__05",
+      "unit": "gregmat19__b1",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the charter permitted members to enter their objections in the record but gave them no power to delay a measure, {1} on that council was purely {2}: a minority could state its grounds and then watch the majority proceed unimpeded.",
+      "blanks": [
+        {
+          "options": [
+            "dissent",
+            "acquiescence",
+            "mutiny"
+          ],
+          "answers": [
+            "dissent"
+          ]
+        },
+        {
+          "options": [
+            "symbolic",
+            "punitive",
+            "clandestine"
+          ],
+          "answers": [
+            "symbolic"
+          ]
+        }
+      ],
+      "words": [
+        "dissent"
+      ],
+      "explanation": "The charter describes exactly what dissent is — reasoned disagreement stated on the record inside the body that overrules it — whereas mutiny names a revolt no charter would license and acquiescence names the opposite act of falling in line. Since the objection changes no outcome, it can only be symbolic; punitive is impossible when nobody is penalized, and clandestine contradicts a disagreement entered in the record.",
+      "id": "gregmat19__b1__tc2__06",
+      "unit": "gregmat19__b1",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Filed in the very court that had just overruled him, Justice Harlan's lone {1} in Plessy v. Ferguson carried no legal force in 1896, yet its reasoning was adopted almost verbatim by the Court that reversed the case fifty-eight years later.",
+      "blanks": [
+        {
+          "options": [
+            "dissent",
+            "demurral",
+            "heterodoxy",
+            "obeisance",
+            "mutiny"
+          ],
+          "answers": [
+            "dissent"
+          ]
+        }
+      ],
+      "words": [
+        "dissent"
+      ],
+      "explanation": "The sentence describes a discrete, on-the-record disagreement lodged within the institution that rejected it, which is what dissent uniquely names. Demurral is a mild hesitation rather than a filed opinion, heterodoxy is a standing unorthodoxy of belief rather than a single document, obeisance is submission, and mutiny implies insurrection rather than argument through the body's own procedures.",
+      "id": "gregmat19__b1__cloze__07",
+      "unit": "gregmat19__b1",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option set contains two complete synonym pairs — cunning/guile and chicanery/skullduggery — and the sentence does not decisively exclude the second. The intended logic is presumably \"he broke no rules, so his edge was legitimate shrewdness (cunning/guile),\" reinforced by the second clause, which describes strategic perceptiveness rather than any deceptive act. But the concessive phrasing \"nothing he did violated the LETTER of the rules\" is the standard idiom for someone who did violate their spirit — i.e., technically-legal sharp practice, which is precisely what chicanery (classically, trickery via technicalities) and skullduggery denote. A reasonable test-taker who reads that concession as the operative clue picks chicanery/skullduggery and is marked wrong. Fixing it requires either removing one distractor pair or adding an explicit fairness signal (e.g., \"and he did nothing underhanded; he prevailed by sheer ___\").",
+      "stem": "Nothing he did violated the letter of the rules; he prevailed by sheer {1}, reading his rivals' incentives more accurately than they read his."
+    }
+  ]
+}

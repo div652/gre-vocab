@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat19__b0",
+  "gregmat_group": 19,
+  "words": [
+    "acolyte",
+    "anoint",
+    "base",
+    "coercion"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the aging publisher had never publicly {1} a successor, his empire fell to be fought over by a circle of {2} whose decades of deference had left none of them fit for independent command.",
+      "blanks": [
+        {
+          "options": [
+            "anointed",
+            "deified",
+            "deposed"
+          ],
+          "answers": [
+            "anointed"
+          ]
+        },
+        {
+          "options": [
+            "acolytes",
+            "neophytes",
+            "adversaries"
+          ],
+          "answers": [
+            "acolytes"
+          ]
+        }
+      ],
+      "words": [
+        "anoint",
+        "acolyte"
+      ],
+      "explanation": "Anoint is the verb for singling out a chosen successor and handing over the aura along with the office; deify would make the successor a god rather than an heir, and depose is the opposite motion, removal rather than selection. The second blank must name devoted servants whose loyalty outran their judgement — acolytes — since neophytes would be newcomers, which contradicts 'decades of deference,' and adversaries contradicts deference altogether.",
+      "id": "gregmat19__b0__tc2__00",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Blackmail is objectionable twice over: it is {1} in its motive, since the blackmailer wants nothing beyond money, and it operates by {2}, since the victim's consent, real enough on paper, has been hollowed out in advance by threat.",
+      "blanks": [
+        {
+          "options": [
+            "base",
+            "abject",
+            "inscrutable"
+          ],
+          "answers": [
+            "base"
+          ]
+        },
+        {
+          "options": [
+            "coercion",
+            "suasion",
+            "stealth"
+          ],
+          "answers": [
+            "coercion"
+          ]
+        }
+      ],
+      "words": [
+        "base",
+        "coercion"
+      ],
+      "explanation": "Base is the character verdict passed on a motive — greed, spite, cowardice measured against a code of honour — whereas abject describes wretchedness or self-abasement, not a mercenary motive, and inscrutable would deny that the motive is plain. The second clause describes a choice that is formally made but emptied out by threat, which is precisely coercion; suasion is the persuasion coercion replaces, and stealth would mean the victim never knew.",
+      "id": "gregmat19__b0__tc2__01",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Constitutional lawyers keep the two cases apart: an assembly may lawfully {1} a new monarch when the throne falls vacant, but an abdication signed with troops in the antechamber is void for {2}, whatever the parchment records.",
+      "blanks": [
+        {
+          "options": [
+            "anoint",
+            "relegate",
+            "depose"
+          ],
+          "answers": [
+            "anoint"
+          ]
+        },
+        {
+          "options": [
+            "coercion",
+            "negligence",
+            "ambiguity"
+          ],
+          "answers": [
+            "coercion"
+          ]
+        }
+      ],
+      "words": [
+        "anoint",
+        "coercion"
+      ],
+      "explanation": "Only anoint fits the lawful elevation of a new monarch to a vacant throne; relegate demotes and depose removes an incumbent, both the reverse of the act described. Troops in the antechamber make the signature a product of applied threat — coercion — rather than of carelessness (negligence) or unclear drafting (ambiguity).",
+      "id": "gregmat19__b0__tc2__02",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "For all the grandeur of its published aims, the expedition rested on motives no less {1} than the wish to strip a conquered province of its silver.",
+      "blanks": [
+        {
+          "options": [
+            "base",
+            "sordid",
+            "abject",
+            "lofty",
+            "obscure",
+            "pragmatic"
+          ],
+          "answers": [
+            "base",
+            "sordid"
+          ]
+        }
+      ],
+      "words": [
+        "base"
+      ],
+      "explanation": "Base and sordid both convict a motive of moral lowness — greed dressed up as grandeur — and yield sentences of the same meaning. Abject denotes wretchedness or grovelling rather than mercenary meanness; lofty reverses the sense, and obscure and pragmatic fit the grammar while asserting something quite different about the motives.",
+      "id": "gregmat19__b0__se__03",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "The court set aside the confession, holding that a statement extracted after eleven hours of questioning without counsel is the product of {1} rather than of conscience.",
+      "blanks": [
+        {
+          "options": [
+            "coercion",
+            "duress",
+            "suasion",
+            "exhaustion",
+            "deliberation",
+            "protocol"
+          ],
+          "answers": [
+            "coercion",
+            "duress"
+          ]
+        }
+      ],
+      "words": [
+        "coercion"
+      ],
+      "explanation": "Coercion and duress both name a decision compelled by pressure or threat, and either makes the confession legally worthless in the same way. Suasion is the persuasion the sentence rules out; exhaustion and deliberation are grammatically comfortable but describe a physical state and a considered choice respectively, neither of which is a ground for voiding the statement.",
+      "id": "gregmat19__b0__se__04",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "The seminar's atmosphere discouraged dissent: the professor was ringed by {1} who repeated his formulations back to him and treated any objection as a species of impiety.",
+      "blanks": [
+        {
+          "options": [
+            "acolytes",
+            "disciples",
+            "neophytes",
+            "skeptics",
+            "rivals",
+            "functionaries"
+          ],
+          "answers": [
+            "acolytes",
+            "disciples"
+          ]
+        }
+      ],
+      "words": [
+        "acolyte"
+      ],
+      "explanation": "Acolytes and disciples both denote followers whose devotion has displaced independent judgement, which is exactly what the impiety clause describes. Neophytes would assert inexperience rather than devotion — the sentence says nothing about how long these people have been there — while skeptics and rivals contradict the deference, and functionaries points to administrative office instead of belief.",
+      "id": "gregmat19__b0__se__05",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Though the party's rules still required a ballot, everyone understood that the retiring chancellor's endorsement would effectively {1} his successor, transferring an aura of legitimacy that no vote could confer.",
+      "blanks": [
+        {
+          "options": [
+            "anoint",
+            "canonize",
+            "venerate",
+            "relegate",
+            "depose"
+          ],
+          "answers": [
+            "anoint"
+          ]
+        }
+      ],
+      "words": [
+        "anoint"
+      ],
+      "explanation": "Anoint is the word for designating a chosen successor so that the choice reads as ordained rather than merely decided — the transfer of aura is its signature. Canonize declares a saint and venerate merely reveres someone already in place; neither selects an heir, and relegate and depose move in the opposite direction.",
+      "id": "gregmat19__b0__cloze__06",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "For thirty years he had been less a colleague than an {1}: he handled the director's correspondence, echoed his verdicts in committee, and was never once recorded as having disagreed with him.",
+      "blanks": [
+        {
+          "options": [
+            "acolyte",
+            "protégé",
+            "neophyte",
+            "adversary",
+            "arbiter"
+          ],
+          "answers": [
+            "acolyte"
+          ]
+        }
+      ],
+      "words": [
+        "acolyte"
+      ],
+      "explanation": "The details are all attendance and unquestioning service, which is what acolyte names — the follower whose function is to serve and whose loyalty has outrun independent judgement. A protégé is being groomed and would eventually stand on his own, a neophyte would be new rather than thirty years in place, and adversary and arbiter both imply an independence the sentence explicitly denies.",
+      "id": "gregmat19__b0__cloze__07",
+      "unit": "gregmat19__b0",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": []
+}

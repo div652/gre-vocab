@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat33__b5",
+  "gregmat_group": 33,
+  "words": [
+    "keen",
+    "multifaceted",
+    "omniscient",
+    "remarkable"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Nineteenth-century novelists routinely claimed the privileges of an {1} narrator, entering any character's private thoughts at will; Flaubert, by contrast, often confined himself to what a merely {2} observer, stationed in the corner of the room, could have inferred from a gesture or a glance.",
+      "blanks": [
+        {
+          "options": [
+            "omniscient",
+            "multifaceted",
+            "remarkable"
+          ],
+          "answers": [
+            "omniscient"
+          ]
+        },
+        {
+          "options": [
+            "keen",
+            "avid",
+            "versatile"
+          ],
+          "answers": [
+            "keen"
+          ]
+        }
+      ],
+      "words": [
+        "omniscient",
+        "keen"
+      ],
+      "explanation": "The first blank names the narrator's unlimited access to interior life, which is omniscience, not many-sidedness (multifaceted) or mere conspicuousness (remarkable). The second blank needs the human limit case — someone who only sees, but sees finely — so keen in its sense of acutely perceptive; avid would describe the observer's appetite rather than the sharpness of his perception, and versatile his range of skills, neither of which is what inference from a gesture requires.",
+      "id": "gregmat33__b5__tc2__00",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Retired from the bench at seventy, Justice Rowan became a {1} gardener, spending more hours in her greenhouse than she had ever spent in chambers.",
+      "blanks": [
+        {
+          "options": [
+            "keen",
+            "avid",
+            "desultory",
+            "methodical",
+            "itinerant",
+            "celebrated"
+          ],
+          "answers": [
+            "keen",
+            "avid"
+          ]
+        }
+      ],
+      "words": [
+        "keen"
+      ],
+      "explanation": "The hours logged in the greenhouse establish enthusiasm, and keen and avid are the two words that make the sentence report exactly that — keen in its everyday British sense of leaning forward, avid a shade hungrier but equivalent here. Methodical and desultory both attach naturally to a gardener and are grammatically faultless, but they describe how she works rather than how much she wants to, and desultory flatly contradicts the evidence of the clause.",
+      "id": "gregmat33__b5__se__01",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "The priest's graveside eulogy was measured and brief; only when the coffin was lowered did the older women of the townland begin to {1}, in a high, sustained, wordless cry that the visiting folklorist later transcribed as music rather than speech.",
+      "blanks": [
+        {
+          "options": [
+            "keen",
+            "elegize",
+            "intone",
+            "remonstrate",
+            "brood"
+          ],
+          "answers": [
+            "keen"
+          ]
+        }
+      ],
+      "words": [
+        "keen"
+      ],
+      "explanation": "Set against the priest's measured speech, the blank must name loud ritual wailing over the dead, which is the verb keen — a homograph wholly unrelated to the adjective meaning sharp or eager. Intone would make the sound a level chant rather than a high rising cry, and elegize means to compose a formal poem of mourning, an act of controlled authorship rather than vocal abandon.",
+      "id": "gregmat33__b5__cloze__02",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Early accounts reduced the famine to a single cause, the failure of one crop, but the commission's report insisted that the catastrophe had been {1}, tracing it to tenure law, export policy and administrative doctrine at once; what was {2} was less any one of these findings than the willingness of a government body to indict itself.",
+      "blanks": [
+        {
+          "options": [
+            "multifaceted",
+            "monolithic",
+            "omniscient"
+          ],
+          "answers": [
+            "multifaceted"
+          ]
+        },
+        {
+          "options": [
+            "remarkable",
+            "incidental",
+            "plausible"
+          ],
+          "answers": [
+            "remarkable"
+          ]
+        }
+      ],
+      "words": [
+        "multifaceted",
+        "remarkable"
+      ],
+      "explanation": "The list of three simultaneous causes forces multifaceted, the word for many-sidedness treated as real structure; monolithic asserts the single cause the commission rejected. The second blank must mark what compels comment — a self-indicting official report — and remarkable does that coolly, whereas incidental would call it minor and plausible would rate its credibility, neither of which the concessive comparison supports.",
+      "id": "gregmat33__b5__tc2__03",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Paul Robeson resists the single label that biographers reach for: he was a {1} figure — trained lawyer, All-American athlete, concert bass, and lifelong campaigner — and no account that fixes on one of these survives contact with the others.",
+      "blanks": [
+        {
+          "options": [
+            "multifaceted",
+            "versatile",
+            "resourceful",
+            "peripatetic",
+            "indefatigable",
+            "controversial"
+          ],
+          "answers": [
+            "multifaceted",
+            "versatile"
+          ]
+        }
+      ],
+      "words": [
+        "multifaceted"
+      ],
+      "explanation": "The catalogue of unrelated careers, plus the warning against fixing on one, calls for many-sidedness, and multifaceted and versatile are the two options that deliver it. Controversial and indefatigable are both true of Robeson and read smoothly in the slot, but neither is entailed by a list of distinct talents, and resourceful praises ingenuity under constraint rather than breadth.",
+      "id": "gregmat33__b5__se__04",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Brilliant and insufferable, the young editor conducted himself as though he were {1}: he met every correction with a pained smile, as if the point had merely slipped his mind rather than been news to him.",
+      "blanks": [
+        {
+          "options": [
+            "omniscient",
+            "erudite",
+            "dogmatic",
+            "shrewd",
+            "meticulous"
+          ],
+          "answers": [
+            "omniscient"
+          ]
+        }
+      ],
+      "words": [
+        "omniscient"
+      ],
+      "explanation": "The joke in the second clause is that he cannot admit being told anything new, which is the posture of one who claims to know everything already — omniscient, used here in its mocking application to a human being. Erudite would credit him with learning acquired by effort, and shrewd implies calculation and angles, which is precisely the flavour the sentence does not have.",
+      "id": "gregmat33__b5__cloze__05",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "For an administration that had campaigned on fiscal discipline, the budget displayed a {1} indifference to arithmetic, projecting revenues that no forecaster outside the party was willing to endorse.",
+      "blanks": [
+        {
+          "options": [
+            "remarkable",
+            "striking",
+            "feigned",
+            "habitual",
+            "cheerful",
+            "grudging"
+          ],
+          "answers": [
+            "remarkable",
+            "striking"
+          ]
+        }
+      ],
+      "words": [
+        "remarkable"
+      ],
+      "explanation": "The opening contrast between the campaign promise and the budget makes the indifference conspicuous enough to compel comment, and remarkable and striking are the pair that say so — remarkable runs in reverse like this, attaching to failures as readily as to feats. Feigned and habitual sit comfortably in the slot and are individually plausible of a government, but one makes the indifference a pretence and the other makes it routine, which drains the contrast the sentence has just set up.",
+      "id": "gregmat33__b5__se__06",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Hazlitt's prose is {1} in the older sense of the word — an edge rather than an ornament, drawn across whatever it touches — and it is therefore {2} that so cutting a writer should have been, in company, the mildest and most easily wounded of men.",
+      "blanks": [
+        {
+          "options": [
+            "keen",
+            "multifaceted",
+            "omniscient"
+          ],
+          "answers": [
+            "keen"
+          ]
+        },
+        {
+          "options": [
+            "remarkable",
+            "inevitable",
+            "unsurprising"
+          ],
+          "answers": [
+            "remarkable"
+          ]
+        }
+      ],
+      "words": [
+        "keen",
+        "remarkable"
+      ],
+      "explanation": "The gloss \"an edge rather than an ornament\" fixes the first blank as sharpness, the original sense of keen, which covers blades, frosts and minds alike; multifaceted would praise range and omniscient knowledge, neither of them a matter of edge. The second blank then depends on the first: because the prose is cutting and the man was mild, the contrast draws comment, so remarkable — while inevitable and unsurprising would deny the very incongruity the sentence builds.",
+      "id": "gregmat33__b5__tc2__07",
+      "unit": "gregmat33__b5",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": []
+}

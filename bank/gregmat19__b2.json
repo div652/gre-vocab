@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat19__b2",
+  "gregmat_group": 19,
+  "words": [
+    "distill",
+    "dubious",
+    "ebullient",
+    "facetious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers complained that the first edition {1} its argument beneath three hundred pages of qualification; the revised version, by contrast, manages to {2} the whole case into a single chapter that strikes harder than the original ever did.",
+      "blanks": [
+        {
+          "options": [
+            "obscured",
+            "delineated",
+            "articulated"
+          ],
+          "answers": [
+            "obscured"
+          ]
+        },
+        {
+          "options": [
+            "distill",
+            "recapitulate",
+            "adulterate"
+          ],
+          "answers": [
+            "distill"
+          ]
+        }
+      ],
+      "words": [
+        "distill"
+      ],
+      "explanation": "The complaint about an argument buried \"beneath\" endless qualification requires a verb of muddying, so obscured is forced; delineated and articulated both mean the opposite, to make sharp and clear. In the second clause the chapter \"strikes harder than the original,\" which is the specific test for distill: recapitulate would only restate the case at less length, and it carries no promise that the shorter version is more potent.",
+      "id": "gregmat19__b2__tc2__00",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Faraday's gift as a lecturer lay less in what he chose to include than in what he was willing to throw away: he could {1} a year of laboratory work into a twenty-minute demonstration more persuasive than any paper he ever published.",
+      "blanks": [
+        {
+          "options": [
+            "distill",
+            "recapitulate",
+            "abridge",
+            "obfuscate",
+            "adumbrate"
+          ],
+          "answers": [
+            "distill"
+          ]
+        }
+      ],
+      "words": [
+        "distill"
+      ],
+      "explanation": "Two cues fix the answer: everything inessential is discarded, and the product is stronger than the source, which is precisely what distill asserts. Recapitulate would mean merely running through the year's work again in brief, and abridge means cutting a text down to a shorter version of itself, neither of which explains why the demonstration outperformed the papers.",
+      "id": "gregmat19__b2__cloze__01",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "The prosecution's case rested on ledgers whose provenance was at best {1}, and jurors unwilling to convict on documents that no independent witness could {2} returned an acquittal within the hour.",
+      "blanks": [
+        {
+          "options": [
+            "dubious",
+            "incontrovertible",
+            "immaculate"
+          ],
+          "answers": [
+            "dubious"
+          ]
+        },
+        {
+          "options": [
+            "corroborate",
+            "obfuscate",
+            "refute"
+          ],
+          "answers": [
+            "corroborate"
+          ]
+        }
+      ],
+      "words": [
+        "dubious"
+      ],
+      "explanation": "\"At best\" grades the ledgers downward and the acquittal confirms the doubt, so dubious is required; incontrovertible and immaculate would both make the jury's refusal to convict inexplicable. The second blank needs the support the evidence lacked, which is corroborate; refute inverts the logic, since evidence a witness could refute would hardly be the ground of a conviction.",
+      "id": "gregmat19__b2__tc2__02",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "An auditor's vocabulary is built for insinuation: calling a run of transactions {1} raises the eyebrow without committing the firm to the assertion that anything is outright fake, a charge that would have to be proved in court.",
+      "blanks": [
+        {
+          "options": [
+            "dubious",
+            "suspect",
+            "spurious",
+            "bogus",
+            "specious",
+            "unimpeachable"
+          ],
+          "answers": [
+            "dubious",
+            "suspect"
+          ]
+        }
+      ],
+      "words": [
+        "dubious"
+      ],
+      "explanation": "The sentence asks for the mild, deniable label that stops short of an accusation, and dubious and suspect are exactly that pair. Spurious and bogus are synonyms of each other, but both assert that the thing is fake, which the clause explicitly rules out; specious describes reasoning that only looks sound, and unimpeachable reverses the meaning.",
+      "id": "gregmat19__b2__se__03",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Photographs from the tour show two different men: the {1} figure who worked the crowds each night, greeting strangers and talking over the applause, and the {2} passenger slumped against the window of the bus at dawn.",
+      "blanks": [
+        {
+          "options": [
+            "ebullient",
+            "sanguine",
+            "decorous"
+          ],
+          "answers": [
+            "ebullient"
+          ]
+        },
+        {
+          "options": [
+            "morose",
+            "garrulous",
+            "convivial"
+          ],
+          "answers": [
+            "morose"
+          ]
+        }
+      ],
+      "words": [
+        "ebullient"
+      ],
+      "explanation": "The first blank is defined by observable conduct — loud, fast, overflowing toward strangers — which is ebullient; sanguine describes an inner expectation that things will turn out well, and decorous would describe restraint rather than excess. The second blank must reverse that public animation, so morose fits, while garrulous and convivial would repeat it.",
+      "id": "gregmat19__b2__tc2__04",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Offstage Ellington was guarded and almost curt with reporters, but before an audience he turned {1}, bantering between numbers and conducting the applause as though it were another instrument.",
+      "blanks": [
+        {
+          "options": [
+            "ebullient",
+            "exuberant",
+            "sanguine",
+            "urbane",
+            "phlegmatic",
+            "taciturn"
+          ],
+          "answers": [
+            "ebullient",
+            "exuberant"
+          ]
+        }
+      ],
+      "words": [
+        "ebullient"
+      ],
+      "explanation": "The banter and the theatrical handling of the applause describe visible, overflowing high spirits, which ebullient and exuberant both name. Sanguine would say only that he was optimistic and urbane that he was polished, neither of which contrasts with being guarded and curt, while phlegmatic and taciturn restate the offstage manner instead of opposing it.",
+      "id": "gregmat19__b2__se__05",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Asked at the inquiry how many warnings his department had ignored, the minister said he had lost count somewhere after the first hundred — a {1} reply that the families in the gallery, who had waited four years for {2}, received in stony silence.",
+      "blanks": [
+        {
+          "options": [
+            "facetious",
+            "factious",
+            "staid"
+          ],
+          "answers": [
+            "facetious"
+          ]
+        },
+        {
+          "options": [
+            "an accounting",
+            "raillery",
+            "levity"
+          ],
+          "answers": [
+            "an accounting"
+          ]
+        }
+      ],
+      "words": [
+        "facetious"
+      ],
+      "explanation": "The joke is not merely a joke but a joke offered where a serious answer was owed, and the stony silence marks the misjudged timing, which is what facetious charges; factious means given to creating factions and staid would describe the sober reply he failed to give. The families waited for a reckoning, so an accounting is required, and raillery or levity would absurdly have them longing for more of the very banter that silenced them.",
+      "id": "gregmat19__b2__tc2__06",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Interviewers soon learned not to raise politics with Nabokov, who would turn {1} the moment a question grew earnest, parrying each one with a pun until the subject collapsed of its own weight.",
+      "blanks": [
+        {
+          "options": [
+            "facetious",
+            "factious",
+            "fractious",
+            "plaintive",
+            "sober"
+          ],
+          "answers": [
+            "facetious"
+          ]
+        }
+      ],
+      "words": [
+        "facetious"
+      ],
+      "explanation": "Meeting an earnest question with a pun in order to evade it is the defining behaviour of facetious, which indicts the timing rather than the wit. Factious means divisive within a group and fractious means irritable and unruly; both are lookalikes that describe conflict, not deflection by joking, and sober names the response he refused to give.",
+      "id": "gregmat19__b2__cloze__07",
+      "unit": "gregmat19__b2",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": []
+}

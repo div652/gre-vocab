@@ -1,0 +1,135 @@
+{
+  "unit": "gregmat20__b7",
+  "gregmat_group": 20,
+  "words": [
+    "vanquish",
+    "woeful"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the insurgent column had not merely withstood but {1} every force the empire sent against it for a decade, its final campaign was so {2} — supply trains left unguarded, orders issued in flat contradiction of one another — that the collapse astonished no one.",
+      "blanks": [
+        {
+          "options": [
+            "vanquished",
+            "languished",
+            "transcended"
+          ],
+          "answers": [
+            "vanquished"
+          ]
+        },
+        {
+          "options": [
+            "woeful",
+            "plaintive",
+            "keening"
+          ],
+          "answers": [
+            "woeful"
+          ]
+        }
+      ],
+      "words": [
+        "vanquish",
+        "woeful"
+      ],
+      "explanation": "\"Not merely withstood but ___\" demands an escalation from surviving an attack to finishing off an opponent, which is exactly vanquished; languished is intransitive and means the opposite, and one transcends limits or categories, not armies. The second blank must grade the campaign's competence, and woeful is the only option in the group that can condemn quality — plaintive and keening describe sounds of grief and cannot say that something was pitifully done.",
+      "id": "gregmat20__b7__tc2__00",
+      "unit": "gregmat20__b7",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers agreed that the research underpinning the new biography was {1}: whole decades of its subject's life had been reconstructed from a single memoir of doubtful reliability.",
+      "blanks": [
+        {
+          "options": [
+            "woeful",
+            "lamentable",
+            "cursory",
+            "plaintive",
+            "exhaustive",
+            "scrupulous"
+          ],
+          "answers": [
+            "woeful",
+            "lamentable"
+          ]
+        }
+      ],
+      "words": [
+        "woeful"
+      ],
+      "explanation": "The colon supplies a verdict on quality — evidence so thin that the result is pitiable — and woeful and lamentable both deliver that judgement, yielding sentences of the same force. Cursory fits the sentence but describes the haste of the effort rather than the pitiableness of the result, and it has no partner among the options; plaintive belongs to the sound of grief, not to the assessment of scholarship, while exhaustive and scrupulous reverse the meaning the colon establishes.",
+      "id": "gregmat20__b7__se__01",
+      "unit": "gregmat20__b7",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "In the cosmology the epic assumes, plague and famine are simply to be endured, since they have no face to strike at; only the sea-serpent, a foe with a name and a will, can be {1} — cut down once, and sung of for generations after.",
+      "blanks": [
+        {
+          "options": [
+            "vanquished",
+            "eradicated",
+            "surmounted",
+            "withstood",
+            "dismantled"
+          ],
+          "answers": [
+            "vanquished"
+          ]
+        }
+      ],
+      "words": [
+        "vanquish"
+      ],
+      "explanation": "The sentence turns on the distinction between an impersonal affliction and a named adversary, and vanquish is the word reserved for defeating an opponent outright, with the glory attaching to the victor. Eradicate is precisely what one does to plague and famine — conditions, not contestants — and is therefore excluded by the contrast; withstood means merely enduring, which the first clause has already assigned to the afflictions, and surmount and dismantle apply to obstacles and structures rather than to a foe put to death.",
+      "id": "gregmat20__b7__cloze__02",
+      "unit": "gregmat20__b7",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Two decades after she had, as she believed, {1} the stage fright of her early career, a single hostile interviewer was enough to make her {2} mid-sentence, proof that the terror had been suppressed rather than destroyed.",
+      "blanks": [
+        {
+          "options": [
+            "vanquished",
+            "withstood",
+            "languished"
+          ],
+          "answers": [
+            "vanquished"
+          ]
+        },
+        {
+          "options": [
+            "falter",
+            "prevail",
+            "transcend"
+          ],
+          "answers": [
+            "falter"
+          ]
+        }
+      ],
+      "words": [
+        "vanquish",
+        "woeful"
+      ],
+      "explanation": "The closing clause insists on a distinction between suppression and destruction, so the first blank needs the verb of final, total conquest — vanquish, which takes abstract adversaries like fear gracefully — whereas withstood claims only that she endured the fear, which is not the belief the sentence goes on to puncture. The second blank must name the small public collapse that exposes that belief: falter is to break off unsteadily, while prevail would assert the opposite outcome and transcend the wrong kind of outcome altogether.",
+      "id": "gregmat20__b7__tc2__03",
+      "unit": "gregmat20__b7",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": []
+}

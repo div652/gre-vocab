@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat33__b3",
+  "gregmat_group": 33,
+  "words": [
+    "draconian",
+    "egalitarian",
+    "elusive",
+    "erstwhile"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The new penal code was not merely {1} — magistrates had always been expected to enforce demanding rules — but {2}: it fixed a mandatory ten-year term for offences that a decade earlier had drawn a fine.",
+      "blanks": [
+        {
+          "options": [
+            "exacting",
+            "arbitrary",
+            "equitable"
+          ],
+          "answers": [
+            "exacting"
+          ]
+        },
+        {
+          "options": [
+            "draconian",
+            "stringent",
+            "imperious"
+          ],
+          "answers": [
+            "draconian"
+          ]
+        }
+      ],
+      "words": [
+        "draconian"
+      ],
+      "explanation": "The dash clause defines the first blank as ordinary demandingness, which is exacting; arbitrary (capricious) and equitable (fair) do not describe rules that ask a great deal. The colon then supplies a ratio — a decade in prison where a fine once served — and draconian is the only option that condemns a penalty as wildly out of scale with the offence, whereas stringent merely means tight and imperious describes an overbearing manner, not a punishment.",
+      "id": "gregmat33__b3__tc2__00",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Critics of the 1990s sentencing guidelines objected not to the principle of mandatory minimums but to the {1} penalties they generated: under the three-strikes rule, a third shoplifting conviction could bring twenty-five years to life.",
+      "blanks": [
+        {
+          "options": [
+            "draconian",
+            "stringent",
+            "onerous",
+            "exacting",
+            "despotic"
+          ],
+          "answers": [
+            "draconian"
+          ]
+        }
+      ],
+      "words": [
+        "draconian"
+      ],
+      "explanation": "The colon supplies a mismatch between a trivial offence and a near-permanent sentence, and draconian is precisely the accusation that a punishment is disproportionate to what provoked it. Stringent and exacting say only that a standard is tight or demanding, onerous says a burden is heavy, and despotic would indict the tyrannical character of the authority rather than the scale of the penalty.",
+      "id": "gregmat33__b3__cloze__01",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Though the society's founding charter was avowedly {1} — no titles, no reserved seats on the council, a single pay scale from porter to director — its admissions procedure remained frankly {2}, screening applicants by lineage and school.",
+      "blanks": [
+        {
+          "options": [
+            "egalitarian",
+            "equitable",
+            "disinterested"
+          ],
+          "answers": [
+            "egalitarian"
+          ]
+        },
+        {
+          "options": [
+            "elitist",
+            "arbitrary",
+            "quixotic"
+          ],
+          "answers": [
+            "elitist"
+          ]
+        }
+      ],
+      "words": [
+        "egalitarian"
+      ],
+      "explanation": "Flat pay and the abolition of rank are structural levelling, which is egalitarian; equitable would mean shares calibrated to circumstance (and so tolerates unequal pay), and disinterested means merely unbiased. The concessive Though demands an opposite in the second blank, and filtering by lineage and school is elitist rather than arbitrary — that screen is systematic, not random — while quixotic describes impractical idealism.",
+      "id": "gregmat33__b3__tc2__02",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "The land redistribution proposed in the early republic was defended in explicitly {1} terms: no citizen, its architects insisted, should inherit a station above his neighbours, the aim being not a fairer apportionment of rank but the abolition of rank itself.",
+      "blanks": [
+        {
+          "options": [
+            "egalitarian",
+            "equitable",
+            "disinterested",
+            "elitist",
+            "arbitrary"
+          ],
+          "answers": [
+            "egalitarian"
+          ]
+        }
+      ],
+      "words": [
+        "egalitarian"
+      ],
+      "explanation": "The closing clause rejects fairer shares in favour of abolishing rank altogether, which is the egalitarian program: circumstance should stop mattering. Equitable is the trap, since it means shares calibrated to circumstance and therefore accepts inequality when justified; disinterested means impartial, and elitist and arbitrary contradict the sentence outright.",
+      "id": "gregmat33__b3__cloze__03",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "For thirty years the particle remained {1}, predicted by theory and hunted by every major laboratory yet never once registered; a few physicists began to suspect that it was {2} altogether — an artifact of the equations rather than a feature of the world.",
+      "blanks": [
+        {
+          "options": [
+            "elusive",
+            "evasive",
+            "obsolete"
+          ],
+          "answers": [
+            "elusive"
+          ]
+        },
+        {
+          "options": [
+            "illusory",
+            "allusive",
+            "vestigial"
+          ],
+          "answers": [
+            "illusory"
+          ]
+        }
+      ],
+      "words": [
+        "elusive"
+      ],
+      "explanation": "A thing pursued and never caught is elusive, which describes the outcome of a chase and requires no intent; evasive would credit the particle with deliberate dodging, and obsolete concerns being outdated. The second blank is glossed by the appositive — a creature of the equations, not the world — so it must be illusory (not really there), while allusive means making indirect reference and vestigial means a surviving trace.",
+      "id": "gregmat33__b3__tc2__04",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Proust's great subject is the {1} character of involuntary memory: the recollection that arrives unbidden and dissolves at the very moment one turns to inspect it.",
+      "blanks": [
+        {
+          "options": [
+            "elusive",
+            "fugitive",
+            "evasive",
+            "illusory",
+            "indelible",
+            "capricious"
+          ],
+          "answers": [
+            "elusive",
+            "fugitive"
+          ]
+        }
+      ],
+      "words": [
+        "elusive"
+      ],
+      "explanation": "Both elusive and fugitive describe something that slips away as one reaches for it, so either yields the same sentence about memory escaping inspection. Evasive would attribute intent to the memory, illusory would claim it was never real rather than merely ungraspable, indelible reverses the sense, and capricious concerns unpredictability rather than escape — and none of these four pairs with another to give a second equivalent reading.",
+      "id": "gregmat33__b3__se__05",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "By 1793 Burke was denouncing in the Commons the very men he had championed a decade earlier, and Fox — his {1} ally on the American question — had become the chief target of his invective.",
+      "blanks": [
+        {
+          "options": [
+            "erstwhile",
+            "sometime",
+            "steadfast",
+            "ostensible",
+            "nascent",
+            "implacable"
+          ],
+          "answers": [
+            "erstwhile",
+            "sometime"
+          ]
+        }
+      ],
+      "words": [
+        "erstwhile"
+      ],
+      "explanation": "The alliance has been broken and reversed, so the blank must mean former: erstwhile and sometime both carry exactly that backward glance before the noun. Steadfast and implacable would describe a loyalty or hostility still in force, ostensible would suggest the alliance was only apparent, and nascent would make it newly begun — the opposite of what the sentence records.",
+      "id": "gregmat33__b3__se__06",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "The retrospective was assembled by an {1} radical: the painter whose 1890 manifesto had demanded the dissolution of the academy now sat on its selection committee and voted to turn the young away.",
+      "blanks": [
+        {
+          "options": [
+            "erstwhile",
+            "nascent",
+            "fledgling",
+            "incipient",
+            "anachronistic"
+          ],
+          "answers": [
+            "erstwhile"
+          ]
+        }
+      ],
+      "words": [
+        "erstwhile"
+      ],
+      "explanation": "The colon contrasts what the painter once demanded with what he now does, so the blank must mean one-time or former, which is erstwhile — and the faint irony of the reversal is exactly its flavour. Nascent, fledgling and incipient all place the radicalism at its beginning rather than in the past, and anachronistic would mean out of its proper time rather than simply over.",
+      "id": "gregmat33__b3__cloze__07",
+      "unit": "gregmat33__b3",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": []
+}

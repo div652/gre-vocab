@@ -1,0 +1,258 @@
+{
+  "unit": "gregmat13__b4",
+  "gregmat_group": 13,
+  "words": [
+    "illusory",
+    "invidious",
+    "lethargic",
+    "metaphorical"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the treaty carried no enforcement provision of any kind, the security it promised was {1} rather than {2}: reassuring on paper, worthless the instant a signatory chose to test it.",
+      "blanks": [
+        {
+          "options": [
+            "illusory",
+            "tenable",
+            "palpable"
+          ],
+          "answers": [
+            "illusory"
+          ]
+        },
+        {
+          "options": [
+            "tangible",
+            "evanescent",
+            "quixotic"
+          ],
+          "answers": [
+            "tangible"
+          ]
+        }
+      ],
+      "words": [
+        "illusory"
+      ],
+      "explanation": "The colon splits the sentence into appearance (\"reassuring on paper\") and reality (\"worthless\"), so blank 1 needs a word for something that looks real but has no substance — illusory — and blank 2 its opposite, something solid enough to rely on: tangible. Palpable would make blank 1 mean the reverse of what the colon explains, and evanescent would say the security was real but brief, which no enforcement clause was ever there to make it.",
+      "id": "gregmat13__b4__tc2__00",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "The stockade gave the settlers a sense of safety that turned out to be entirely {1}: from within, the palisade looked formidable, but its posts had rotted at the base and the first serious assault pushed a whole section flat.",
+      "blanks": [
+        {
+          "options": [
+            "illusory",
+            "elusive",
+            "allusive",
+            "evasive",
+            "palpable"
+          ],
+          "answers": [
+            "illusory"
+          ]
+        }
+      ],
+      "words": [
+        "illusory"
+      ],
+      "explanation": "The settlers did possess the feeling of safety; what they lacked was anything behind it, which is precisely illusory — appearance without substance. Elusive would mean the safety kept slipping out of reach rather than dissolving on inspection, and allusive (making indirect reference) and evasive (dodging) are the standard lookalikes, not meanings that fit a rotted palisade.",
+      "id": "gregmat13__b4__cloze__01",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the committee ranked the two novelists by sales figures rather than by craft, its verdict struck the literary press as {1}: far from {2}, it seemed calculated to breed bad blood between writers who had never been rivals.",
+      "blanks": [
+        {
+          "options": [
+            "invidious",
+            "insipid",
+            "equitable"
+          ],
+          "answers": [
+            "invidious"
+          ]
+        },
+        {
+          "options": [
+            "disinterested",
+            "chauvinistic",
+            "vacuous"
+          ],
+          "answers": [
+            "disinterested"
+          ]
+        }
+      ],
+      "words": [
+        "invidious"
+      ],
+      "explanation": "\"Far from\" makes blank 2 the opposite of a verdict engineered to breed bad blood, so it must mean impartial: disinterested. Blank 1 then names that unfair, resentment-provoking ranking — invidious; equitable would contradict the second half outright, and insipid faults the verdict for dullness rather than for the ill will it stirs up.",
+      "id": "gregmat13__b4__tc2__02",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Ordered to close one of two equally productive departments, the dean found herself in an {1} position: whichever she spared, the other's faculty would conclude that they alone had been judged expendable.",
+      "blanks": [
+        {
+          "options": [
+            "invidious",
+            "insidious",
+            "vapid",
+            "elusive",
+            "equitable"
+          ],
+          "answers": [
+            "invidious"
+          ]
+        }
+      ],
+      "words": [
+        "invidious"
+      ],
+      "explanation": "The clue is that any choice leaves someone aggrieved — the defining sense of invidious, which points at the resentment an act provokes in others. Insidious would mean the position advanced some harm by stealth, which nothing here suggests, and equitable describes the fairness the dean cannot achieve rather than the bind she is in.",
+      "id": "gregmat13__b4__cloze__03",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Trading on the exchange was {1} for most of that summer: daily volumes sank to their lowest level in a decade, and the index moved less than a point in either direction for weeks at a stretch.",
+      "blanks": [
+        {
+          "options": [
+            "lethargic",
+            "sluggish",
+            "buoyant",
+            "volatile",
+            "erratic",
+            "frenetic"
+          ],
+          "answers": [
+            "lethargic",
+            "sluggish"
+          ]
+        }
+      ],
+      "words": [
+        "lethargic"
+      ],
+      "explanation": "Record-low volume and a nearly motionless index describe a market drained of activity, which both lethargic and sluggish convey. Volatile and erratic would require the index to swing rather than sit still, frenetic reverses the pace entirely, and buoyant describes rising prices, not stalled ones.",
+      "id": "gregmat13__b4__se__04",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Her editor mistook a medical condition for a defect of character, calling her {1} when in fact an untreated thyroid disorder had left her {2} for the better part of a year — eager to write, and physically unable to stay awake past noon.",
+      "blanks": [
+        {
+          "options": [
+            "indolent",
+            "somnolent",
+            "enervated"
+          ],
+          "answers": [
+            "indolent"
+          ]
+        },
+        {
+          "options": [
+            "lethargic",
+            "galvanized",
+            "querulous"
+          ],
+          "answers": [
+            "lethargic"
+          ]
+        }
+      ],
+      "words": [
+        "lethargic"
+      ],
+      "explanation": "Blank 1 must be the accusation of a \"defect of character\" — indolent blames the writer for choosing not to work, whereas somnolent and enervated describe states that happen to a person and so would collapse the editor's error. Blank 2 needs the clinical counterpart, drowsiness with a diagnosed cause: lethargic, which is compatible with being eager to write in a way that laziness is not.",
+      "id": "gregmat13__b4__tc2__05",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Rushdie complained that reviewers had taken a single word far too literally: the character's \"drowning\" was {1} — one image standing in for the loss of his place in the community — and was never meant as the opening move of a sustained allegory.",
+      "blanks": [
+        {
+          "options": [
+            "metaphorical",
+            "figurative",
+            "allegorical",
+            "hyperbolic",
+            "euphemistic",
+            "prosaic"
+          ],
+          "answers": [
+            "metaphorical",
+            "figurative"
+          ]
+        }
+      ],
+      "words": [
+        "metaphorical"
+      ],
+      "explanation": "The gloss \"one image standing in for\" a fact, offered to head off a literal reading, is exactly what metaphorical and figurative both name. Allegorical is ruled out by the clause disavowing a sustained allegory, hyperbolic would make the word an exaggeration of something that did happen, and euphemistic would make it a softening of an unpleasant truth.",
+      "id": "gregmat13__b4__se__06",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Weber's iron cage is {1}, of course — no clerk was ever locked inside one — yet the constraints the image names are {2} enough: the mortgage schedule, the pension vesting date, the tenure clock.",
+      "blanks": [
+        {
+          "options": [
+            "metaphorical",
+            "empirical",
+            "literal"
+          ],
+          "answers": [
+            "metaphorical"
+          ]
+        },
+        {
+          "options": [
+            "palpable",
+            "illusory",
+            "evanescent"
+          ],
+          "answers": [
+            "palpable"
+          ]
+        }
+      ],
+      "words": [
+        "metaphorical",
+        "illusory"
+      ],
+      "explanation": "The dash concedes that no actual cage exists, fixing blank 1 as metaphorical, the standing opposite of literal; \"yet\" then demands that the constraints themselves be real, and the concrete list of dates and schedules makes them palpable. Illusory would deny the reality that the examples establish, and evanescent would make those fixed obligations fleeting.",
+      "id": "gregmat13__b4__tc2__07",
+      "unit": "gregmat13__b4",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": []
+}

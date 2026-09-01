@@ -1,0 +1,185 @@
+{
+  "unit": "gregmat14__b4",
+  "gregmat_group": 14,
+  "words": [
+    "fruitful",
+    "inborn",
+    "polymath",
+    "reticent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the delegates sat down for barely an hour, the exchange proved unexpectedly {1} — three of the four disputed clauses were rewritten before lunch — whereas the marathon sessions of the previous spring, for all their duration, had been utterly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "fruitful",
+            "feasible",
+            "tenable"
+          ],
+          "answers": [
+            "fruitful"
+          ]
+        },
+        {
+          "options": [
+            "futile",
+            "fallow",
+            "illusory"
+          ],
+          "answers": [
+            "futile"
+          ]
+        }
+      ],
+      "words": [
+        "fruitful"
+      ],
+      "explanation": "The second clause reports what came of the meeting — rewritten clauses — so the first blank must judge yield, which is what fruitful does; feasible and tenable judge only whether something is workable or defensible, not whether it produced anything, and a meeting that has already happened is past being feasible. In the contrast, futile names effort with nothing to show for it, while fallow describes unplanted ground and illusory describes something falsely believed in, neither of which is the point about long sessions that simply achieved nothing.",
+      "id": "gregmat14__b4__tc2__00",
+      "unit": "gregmat14__b4",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Two decades after the geneticist and the philologist first compared notes, their improbable partnership looks like anything but a curiosity: it has yielded four joint monographs and an entire subfield, and even the early sceptics now concede that it was remarkably {1}.",
+      "blanks": [
+        {
+          "options": [
+            "fruitful",
+            "productive",
+            "futile",
+            "quixotic",
+            "protracted",
+            "tenable"
+          ],
+          "answers": [
+            "fruitful",
+            "productive"
+          ]
+        }
+      ],
+      "words": [
+        "fruitful"
+      ],
+      "explanation": "The monographs and the new subfield are the harvest of a long joint effort, so the blank must praise the outcome: fruitful and productive are interchangeable here. Protracted fits the twenty-year span tonally but describes duration rather than result, quixotic would call the venture nobly impractical when it demonstrably worked, and futile and tenable are excluded by the concession of the sceptics.",
+      "id": "gregmat14__b4__se__01",
+      "unit": "gregmat14__b4",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "He published on hydrodynamics, Sanskrit prosody, and bone disease alike, but colleagues who read the papers closely judged him a {1} rather than the {2} his admirers proclaimed: the range was genuine, yet in each field he had done little more than restate what specialists already knew.",
+      "blanks": [
+        {
+          "options": [
+            "dilettante",
+            "neophyte",
+            "connoisseur"
+          ],
+          "answers": [
+            "dilettante"
+          ]
+        },
+        {
+          "options": [
+            "polymath",
+            "virtuoso",
+            "sage"
+          ],
+          "answers": [
+            "polymath"
+          ]
+        }
+      ],
+      "words": [
+        "polymath"
+      ],
+      "explanation": "The colon supplies the exact distinction: real breadth without depth in any field, which is a dilettante, as against the mastery of several unrelated fields that earns the title polymath. Neophyte would mean a beginner, which contradicts his publishing across three disciplines; connoisseur and virtuoso both denote refined command within a single domain and so miss the multiplicity the sentence is built on.",
+      "id": "gregmat14__b4__tc2__04",
+      "unit": "gregmat14__b4",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "By the time of his death he had held chairs in three faculties — Assyriology, epidemiology, and music theory — and the obituaries, straining for a term adequate to such range, settled on {1}.",
+      "blanks": [
+        {
+          "options": [
+            "polymath",
+            "connoisseur",
+            "dilettante",
+            "neophyte",
+            "adept"
+          ],
+          "answers": [
+            "polymath"
+          ]
+        }
+      ],
+      "words": [
+        "polymath"
+      ],
+      "explanation": "Three professorships in unrelated disciplines establish both breadth and genuine mastery, and polymath is the noun reserved for that combination — fittingly here, since the title is conferred by others in an obituary. Dilettante would deny the depth the chairs prove, neophyte denies it outright, and connoisseur and adept each describe expertise within one field rather than across several.",
+      "id": "gregmat14__b4__cloze__05",
+      "unit": "gregmat14__b4",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians prize the diary precisely because its author, so {1} in public about his part in the coup, used its pages to {2} what he had spent thirty years refusing to admit.",
+      "blanks": [
+        {
+          "options": [
+            "reticent",
+            "garrulous",
+            "tacit"
+          ],
+          "answers": [
+            "reticent"
+          ]
+        },
+        {
+          "options": [
+            "divulge",
+            "suppress",
+            "cloak"
+          ],
+          "answers": [
+            "divulge"
+          ]
+        }
+      ],
+      "words": [
+        "reticent"
+      ],
+      "explanation": "The blanks turn on the same axis: silence in public against disclosure on the page. Reticent is the word for holding back on a particular subject — note the about — where garrulous means the reverse and tacit describes something understood without being stated rather than a person; divulge supplies the release the private pages afford, while suppress and cloak would merely repeat the concealment the sentence contrasts.",
+      "id": "gregmat14__b4__tc2__07",
+      "unit": "gregmat14__b4",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence sets up a clean nature-vs-nurture contrast (\"or merely the residue of a childhood... under a relentless father\"), so the blank needs \"innate.\" \"Inborn\" is the cleanest fit, but \"intrinsic\" is also genuinely defensible: standard dictionaries define it as \"belonging to the essential nature or constitution\" and list it as a synonym of innate/inherent, and it likewise opposes \"acquired through drilling.\" A test-taker choosing \"intrinsic\" would be marked wrong on a stylistic preference (inborn foregrounds birth; intrinsic foregrounds essence) rather than on meaning. The other three are clearly out: \"ingrained\" denotes fixed by long habit and so sides with the training explanation, \"endemic\" is geographic/prevalence, \"tacit\" means unspoken. Replacing \"intrinsic\" with a non-innateness word (e.g. \"prodigious,\" \"unerring\") would make the item unique.",
+      "stem": "Musicologists still argue over whether Mozart's ear for remote modulation was {1} or merely the residue of a childhood spent at the keyboard under a relentless father."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is clean and unique: only \"ingrained\" pairs with \"by a decade of patient ritual correction\" (occluded = blocked/hidden, replenished = refilled — neither works). Blank {1} is the problem. The sentence sets up the standard innate-vs-acquired contrast, and both \"inborn\" and \"intrinsic\" fill it defensibly: \"struck her less as intrinsic (belonging to the villagers' own nature) than as something ingrained by ritual correction\" is an entirely idiomatic reading, since \"intrinsic\" is routinely opposed to \"acquired/learned.\" The interpolated clue (\"no infant arrives knowing to whom he must bow\") points at birth and so slightly favors \"inborn,\" but it does not exclude \"intrinsic,\" whose sense of inherent-by-nature is likewise refuted by the same clue. A careful test-taker choosing \"intrinsic\" would be marked wrong on a distinction the sentence never enforces. (\"tacit\" = unspoken, is not in opposition to learned behavior, so it is a fair distractor.) To fix, replace \"intrinsic\" with an option that does not mean inherent — e.g. \"instinctive\" is equally bad, but something like \"performative,\" \"grudging,\" or \"strategic\" would leave \"inborn\" as the only fit.",
+      "stem": "Wherever the anthropologist looked, the villagers' deference struck her less as {1} — no infant, after all, arrives knowing to whom he must bow — than as something {2} by a decade of patient ritual correction."
+    },
+    {
+      "why": "verifier answered differently: ['reticent', 'taciturn'] vs ['guarded', 'reticent']",
+      "problem": "The sentence sets up a simple contrast (expansive on everything else / uncommunicative on this one point), but THREE options satisfy it, not two. \"Reticent\" and \"taciturn\" are the intended synonym pair, yet \"guarded\" is an equally idiomatic and semantically close fit — \"on the single question of who had authorized the payment he remained guarded\" is natural English and conveys the same withholding. Nothing in the sentence distinguishes total silence (reticent/taciturn) from cautious, partial disclosure (guarded): there is no cue such as \"said nothing at all\" or \"answered only in careful generalities\" to force one reading. A test-taker who picks reticent + guarded has a defensible answer and would be marked wrong. Secondary weakness: \"taciturn\" normally describes a habitual disposition rather than silence on one specific topic, which makes it the shakier half of the intended key while \"guarded\" reads more naturally — the distractor is a better fit than the key. To repair, replace \"guarded\" with a non-fitting option (e.g. \"prolix\" or \"effusive\") or add a cue that rules out cautious-but-speaking, e.g. \"he simply refused to utter a word.\"",
+      "stem": "He would expound for hours on the campaign's logistics, its budget, even the failings of his own staff, but on the single question of who had authorized the payment he remained {1}."
+    }
+  ]
+}

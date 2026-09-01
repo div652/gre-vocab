@@ -19,6 +19,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 CARDS = HERE / "cards"
 GROUPS = HERE / "groups"
+BANK = HERE / "bank"
 OUT = HERE / "out"
 
 # Order the group kinds by study value, most useful first.
@@ -137,6 +138,12 @@ strong{color:#fff} em{color:var(--dim)}
 .setup label{display:flex;gap:9px;align-items:flex-start;margin:9px 0;cursor:pointer}
 .setup input[type=checkbox]{margin-top:4px;accent-color:var(--accent)}
 .setup .hint{color:var(--dim);font-size:13px}
+.blankgrp{margin-top:16px}
+.blankgrp h5{margin:0 0 7px;font-size:11px;letter-spacing:1.1px;
+  text-transform:uppercase;color:var(--accent);font-weight:650}
+.blankgrp .opts{margin-top:0}
+.opt.picked{border-color:var(--accent);background:rgba(122,162,247,.12)}
+.opt.missed{border-color:var(--easy);border-style:dashed}
 
 /* ---- groups ---- */
 .row.grow{border-left-color:var(--accent)}
@@ -186,6 +193,7 @@ ul.nuance li{border-left:3px solid var(--line);padding:5px 0 5px 12px;margin:9px
 <script>
 const CARDS = __DATA__;
 const GROUPS = __GROUPS__;
+const BANK = __BANK__;
 const KINDLABEL = __KINDLABEL__;
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
@@ -495,6 +503,9 @@ const GEN = {
       options: ["positive","neutral","negative"], answer: c.connotation,
       why: `**${c.word}** is ${c.connotation}. ${c.one_line}`};
   },
+  tc2(c){ return bankQuestion(c, "tc2"); },
+  se(c){ return bankQuestion(c, "se"); },
+  fresh(c){ return bankQuestion(c, "cloze"); },
   recall(c){
     return {type:"recall", label:"Type the word", typed:true,
       stem: `<p>${esc(c.one_line)}</p><p style="color:var(--dim);font-size:14px">Starts with <strong>${esc(c.word[0])}</strong> · ${c.word.length} letters</p>`,
@@ -503,8 +514,140 @@ const GEN = {
   },
 };
 
+/* ---- the pre-generated, independently verified bank ---------------------
+   Each bank question was written offline and then blind re-solved by a second
+   pass that had to agree on the answer AND judge it uniquely determined. They
+   are the only source of real two-blank Text Completion and six-option Sentence
+   Equivalence, which templates cannot produce.
+   Seen ids are remembered so a question does not repeat until its pool is dry. */
+const SEEN_KEY = "gre-vocab-seenq-v1";
+let seenQ = new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || "[]"));
+const markSeen = id => { seenQ.add(id);
+  localStorage.setItem(SEEN_KEY, JSON.stringify([...seenQ])); };
+
+const BANK_BY_WORD = {};
+BANK.forEach(q => (q.words||[]).forEach(w =>
+  (BANK_BY_WORD[w.toLowerCase()] ||= []).push(q)));
+
+function bankQuestion(card, kind){
+  let pool = (BANK_BY_WORD[card.word.toLowerCase()] || []).filter(q => q.type === kind);
+  if(!pool.length) return null;
+  const fresh = pool.filter(q => !seenQ.has(q.id));
+  const q = pick(fresh.length ? fresh : pool);   // recycle only once exhausted
+  // Blanks the user must fill: tc2 has two picking one each, se has one picking two.
+  const blanks = q.blanks.map((b, i) => ({
+    label: q.type === "tc2" ? `Blank (${i === 0 ? "i" : "ii"})` : "Choose two",
+    options: shuffled(b.options), answers: b.answers,
+    need: q.type === "se" ? 2 : 1, sel: [],
+  }));
+  return {
+    type: q.type, bankId: q.id, multi: true, blanks,
+    label: q.type === "tc2" ? "Text Completion — two blanks"
+         : q.type === "se"  ? "Sentence Equivalence — pick two"
+         : "Fill the blank",
+    stem: esc(q.stem)
+            .replace(/\{1\}/g, '<span class="blank">———</span>')
+            .replace(/\{2\}/g, '<span class="blank">———</span>'),
+    why: q.explanation,
+  };
+}
+
+/* ---- live top-up via Google Gemini -------------------------------------
+   Optional. The bank is offline and verified; this is the escape hatch for
+   when you want something it has never asked before.
+
+   The key is YOURS, stored only in this browser's localStorage, and is sent
+   only to generativelanguage.googleapis.com. Anyone with access to this device
+   can read it, so use a free-tier key and restrict it in the Google console.
+
+   Live questions are NOT verified - nothing blind-solves them before you see
+   them - so they are off by default and labelled when they appear. */
+const GEM_KEY = "gre-vocab-gemini-key", GEM_MODEL = "gre-vocab-gemini-model";
+const gemKey   = () => localStorage.getItem(GEM_KEY) || "";
+const gemModel = () => localStorage.getItem(GEM_MODEL) || "";
+const GEM_BASE = "https://generativelanguage.googleapis.com/v1beta";
+
+async function gemListModels(key){
+  const r = await fetch(`${GEM_BASE}/models?key=${encodeURIComponent(key)}`);
+  if(!r.ok) throw new Error((await r.json().catch(()=>({})))?.error?.message || `HTTP ${r.status}`);
+  const j = await r.json();
+  return (j.models||[])
+    .filter(m => (m.supportedGenerationMethods||[]).includes("generateContent"))
+    .map(m => m.name.replace(/^models\//, ""))
+    .sort();
+}
+
+const LIVE_SYSTEM = `You write a single GRE verbal practice question.
+
+Formats: "tc2" = one sentence with two interacting blanks written {1} and {2},
+three options each. "se" = one sentence with blank {1}, six options, EXACTLY two
+correct that give equivalent meaning. "cloze" = blank {1}, five options, one answer.
+
+Rules:
+- EXACTLY ONE answer set may be defensible. If a second option also genuinely
+  fits, the question is broken. Add constraining context rather than hoping.
+- The sentence must MAKE the word necessary, through contrast, cause or concession.
+- Distractors must be near-synonyms or genuine confusables, never random words.
+- Never put the answer or a variant of it elsewhere in the stem.
+- Real adult subject matter: history, science, criticism, politics, biography.
+- Answers must reproduce option strings verbatim.
+- Explanation: why the answer fits and why the nearest wrong option does not.`;
+
+const LIVE_SCHEMA = {
+  type:"OBJECT",
+  properties:{
+    type:{type:"STRING", enum:["tc2","se","cloze"]},
+    stem:{type:"STRING"},
+    blanks:{type:"ARRAY", items:{type:"OBJECT", properties:{
+      options:{type:"ARRAY", items:{type:"STRING"}},
+      answers:{type:"ARRAY", items:{type:"STRING"}}},
+      required:["options","answers"]}},
+    explanation:{type:"STRING"}},
+  required:["type","stem","blanks","explanation"],
+};
+
+async function liveQuestion(card, kind){
+  const key = gemKey(), model = gemModel();
+  if(!key || !model) throw new Error("no key or model set");
+  const near = groupsFor(card.word).slice(0,4).map(g =>
+    `${g.title}: ${g.words.map(m=>m.word).join(", ")}`).join("\n");
+  const prompt = `Write ONE question of type "${kind}" whose target word is "${card.word}".
+
+${card.word} (${card.pos||""}) — ${card.one_line||""}
+${card.means||""}
+
+Near-synonyms and confusables to draw distractors from:
+${near || "(none recorded)"}`;
+
+  const r = await fetch(`${GEM_BASE}/models/${encodeURIComponent(model)}:generateContent?key=${encodeURIComponent(key)}`,
+    {method:"POST", headers:{"Content-Type":"application/json"},
+     body: JSON.stringify({
+       systemInstruction:{parts:[{text:LIVE_SYSTEM}]},
+       contents:[{role:"user", parts:[{text:prompt}]}],
+       generationConfig:{responseMimeType:"application/json", responseSchema:LIVE_SCHEMA},
+     })});
+  if(!r.ok) throw new Error((await r.json().catch(()=>({})))?.error?.message || `HTTP ${r.status}`);
+  const j = await r.json();
+  const txt = j?.candidates?.[0]?.content?.parts?.[0]?.text;
+  if(!txt) throw new Error("empty response");
+  const g = JSON.parse(txt);
+
+  const blanks = g.blanks.map((b,i) => ({
+    label: g.type === "tc2" ? `Blank (${i===0?"i":"ii"})` : "Choose two",
+    options: shuffled(b.options), answers: b.answers,
+    need: g.type === "se" ? 2 : 1, sel: [],
+  }));
+  return {
+    type:g.type, multi:true, live:true, blanks, card,
+    label:(g.type==="tc2"?"Text Completion":g.type==="se"?"Sentence Equivalence":"Fill the blank")+" — live, unverified",
+    stem: esc(g.stem).replace(/\{1\}/g,'<span class="blank">———</span>')
+                     .replace(/\{2\}/g,'<span class="blank">———</span>'),
+    why: g.explanation,
+  };
+}
+
 let quizTypes = JSON.parse(localStorage.getItem("gre-vocab-qtypes") ||
-  '["cloze","nuance","odd","strongest","connotation","recall"]');
+  '["tc2","se","fresh","cloze","nuance","odd","strongest","connotation","recall"]');
 let quizOnlyDue = JSON.parse(localStorage.getItem("gre-vocab-qdue") || "true");
 let q = null, qAnswered = false, qScore = {right:0, total:0}, qStarted = false;
 
@@ -522,11 +665,28 @@ function nextQuestion(){
   q = {...GEN.recall(pick(pool)), card: pick(pool)}; qAnswered = false;
 }
 
+const sameSet = (a,b) => a.length===b.length &&
+  a.map(x=>String(x).toLowerCase()).sort().join("|") ===
+  b.map(x=>String(x).toLowerCase()).sort().join("|");
+
+/* tc2 and se are graded all-or-nothing: both blanks, or both words. */
+function checkMulti(){
+  if(qAnswered) return;
+  qAnswered = true;
+  const ok = q.blanks.every(b => sameSet(b.sel, b.answers));
+  qScore.total++; if(ok) qScore.right++;
+  if(q.bankId) markSeen(q.bankId);
+  schedule(q.card.word, ok ? 4 : 0);
+  q.ok = ok;
+  renderQuiz();
+}
+
 function answerQuestion(choice){
   if(qAnswered) return;
   qAnswered = true;
   const ok = String(choice).trim().toLowerCase() === String(q.answer).trim().toLowerCase();
   qScore.total++; if(ok) qScore.right++;
+  if(q.bankId) markSeen(q.bankId);
   // Odd-one-out grades the cluster it tested, not the outsider.
   schedule(q.card.word, ok ? 4 : 0);
   q.chosen = choice; q.ok = ok;
@@ -537,7 +697,11 @@ function renderQuiz(){
   const el = $("quiz");
   if(!qStarted){
     const scoped = quizGroup && groupById(quizGroup);
-    const labels = {cloze:"Fill in the blank — a real sentence with the word removed, distractors drawn from its own meaning cluster. Closest to the actual exam.",
+    const labels = {
+      tc2:"Two-blank Text Completion from the verified bank. The real exam format, and the closest practice you have to the test itself.",
+      se:"Sentence Equivalence from the bank — six options, pick the two that mean the same thing here.",
+      fresh:"Fill in the blank in a brand-new sentence from the bank, rather than one of the card's own two.",
+      cloze:"Fill in the blank — a real sentence with the word removed, distractors drawn from its own meaning cluster. Closest to the actual exam.",
       nuance:"A nuance from one of your group write-ups, with the word hidden. Pure discrimination between near-synonyms.",
       odd:"Four words from one cluster plus an intruder. Tests whether you've internalised the cluster.",
       strongest:"Pick the strongest word on an intensity scale.",
@@ -554,8 +718,46 @@ function renderQuiz(){
       <hr class="sep">
       ${Object.keys(GEN).map(k=>`<label><input type="checkbox" class="qt" value="${k}" ${quizTypes.includes(k)?"checked":""}>
         <span><strong>${k}</strong><br><span class="hint">${labels[k]}</span></span></label>`).join("")}
+      <hr class="sep">
+      <details ${gemKey()?"":""}>
+        <summary style="cursor:pointer;color:var(--dim);font-size:13px">
+          Live question generation (optional) — ${gemKey()&&gemModel() ? "configured: "+esc(gemModel()) : "not set up"}
+        </summary>
+        <p class="hint" style="margin-top:10px">
+          Adds a <strong>Fresh</strong> button that generates a brand-new question on the spot
+          with Google Gemini. Free tier. Your key is stored only in this browser and sent only
+          to Google — anyone using this device can read it, so use a restricted free-tier key.
+          Live questions are <strong>not verified</strong>, unlike the ${BANK.length} in the bank.
+        </p>
+        <input id="gkey" placeholder="Gemini API key from aistudio.google.com"
+               value="${esc(gemKey())}" style="width:100%;margin:6px 0">
+        <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+          <button id="gcheck">Check key and list models</button>
+          <select id="gmodel" style="min-width:220px"></select>
+        </div>
+        <p class="hint" id="gstatus"></p>
+      </details>
       <div style="margin-top:18px"><button id="qstart" class="on">Start</button></div>
     </div></div>`;
+
+    const gsel = $("gmodel"), gst = $("gstatus");
+    const fillModels = list => {
+      gsel.innerHTML = list.map(m => `<option ${m===gemModel()?"selected":""}>${esc(m)}</option>`).join("");
+    };
+    if(gemModel()) fillModels([gemModel()]);
+    $("gcheck").onclick = async () => {
+      const k = $("gkey").value.trim();
+      if(!k){ gst.textContent = "Enter a key first."; return; }
+      gst.textContent = "checking…";
+      try{
+        const models = await gemListModels(k);
+        localStorage.setItem(GEM_KEY, k);
+        fillModels(models);
+        if(!models.includes(gemModel())) localStorage.setItem(GEM_MODEL, models[0] || "");
+        gst.textContent = `Key works. ${models.length} usable models.`;
+      }catch(e){ gst.textContent = "Failed: " + e.message; }
+    };
+    gsel.onchange = () => localStorage.setItem(GEM_MODEL, gsel.value);
     $("qstart").onclick = () => {
       quizTypes = [...document.querySelectorAll(".qt:checked")].map(x=>x.value);
       if(!quizTypes.length) quizTypes = ["cloze"];
@@ -575,7 +777,24 @@ function renderQuiz(){
       <span class="score">${qScore.right}/${qScore.total}${qScore.total?` · ${pct}%`:""} · <span class="due">${dueCount()} due</span></span></div>
     <div class="qstem">${q.stem}</div>`;
 
-  if(q.typed){
+  if(q.multi){
+    h += q.blanks.map((b, bi) => `<div class="blankgrp"><h5>${esc(b.label)}</h5><div class="opts">` +
+      b.options.map(o => {
+        let cls = "";
+        if(qAnswered){
+          if(b.answers.some(a => a.toLowerCase() === o.toLowerCase()))
+            cls = b.sel.some(x => x.toLowerCase() === o.toLowerCase()) ? "correct" : "missed";
+          else if(b.sel.some(x => x.toLowerCase() === o.toLowerCase())) cls = "wrong";
+        } else if(b.sel.some(x => x.toLowerCase() === o.toLowerCase())) cls = "picked";
+        return `<button class="opt ${cls}" data-b="${bi}" data-o="${esc(o)}" ${qAnswered?"disabled":""}>${esc(o)}</button>`;
+      }).join("") + `</div></div>`).join("");
+    if(!qAnswered){
+      const ready = q.blanks.every(b => b.sel.length === b.need);
+      h += `<div class="qfoot"><span class="score">` +
+           q.blanks.map(b => `${b.sel.length}/${b.need}`).join(" · ") +
+           ` selected</span><button id="qcheck" class="on" ${ready?"":"disabled"}>Check</button></div>`;
+    }
+  } else if(q.typed){
     h += `<input id="typed" placeholder="type the word and press Enter" ${qAnswered?"disabled":""}
              value="${qAnswered?esc(q.chosen||""):""}">`;
   } else {
@@ -591,19 +810,47 @@ function renderQuiz(){
   }
 
   if(qAnswered){
-    h += `<div class="verdict"><h4>${q.ok?"Correct":"Not quite — it was <em>"+esc(q.answer)+"</em>"}</h4>${md(q.why)}
+    const ansText = q.multi
+      ? q.blanks.map(b => b.answers.join(" + ")).join("   ·   ")
+      : String(q.answer);
+    h += `<div class="verdict"><h4>${q.ok?"Correct":"Not quite — it was <em>"+esc(ansText)+"</em>"}</h4>${md(q.why)}
+          ${q.live?`<p class="hint">Generated live and not verified — if you think your answer was defensible, it may well have been.</p>`:""}
           <div style="margin-top:8px"><span class="chip" data-w="${esc(q.card.word)}">open the full card for ${esc(q.card.word)}</span></div></div>
           <div class="qfoot"><span class="score">${q.ok?"scheduled further out":"back in the pile for tomorrow"}</span>
-          <button id="qnext" class="on">Next →</button></div>`;
+          <span>${gemKey()&&gemModel()?`<button id="qfresh">Fresh (live)</button> `:""}<button id="qnext" class="on">Next →</button></span></div>`;
   }
   h += `</div>`;
   el.innerHTML = h;
 
-  el.querySelectorAll(".opt").forEach(b => b.onclick = () => answerQuestion(b.dataset.o));
+  if(q.multi){
+    el.querySelectorAll(".blankgrp .opt").forEach(btn => btn.onclick = () => {
+      const blank = q.blanks[+btn.dataset.b], o = btn.dataset.o;
+      const i = blank.sel.findIndex(x => x.toLowerCase() === o.toLowerCase());
+      if(i >= 0) blank.sel.splice(i, 1);
+      else { if(blank.sel.length >= blank.need) blank.sel.shift(); blank.sel.push(o); }
+      renderQuiz();
+    });
+    if($("qcheck")) $("qcheck").onclick = checkMulti;
+  } else {
+    el.querySelectorAll(".opt").forEach(b => b.onclick = () => answerQuestion(b.dataset.o));
+  }
   const t = $("typed");
   if(t && !qAnswered){ t.focus(); t.onkeydown = e => { if(e.key==="Enter" && t.value.trim()) answerQuestion(t.value); }; }
   const nx = $("qnext");
   if(nx) nx.onclick = () => { nextQuestion(); renderQuiz(); };
+  const fr = $("qfresh");
+  if(fr) fr.onclick = async () => {
+    fr.disabled = true; fr.textContent = "generating…";
+    try{
+      const pool = scopedCards() || filtered();
+      const kind = pick(["tc2","se","cloze"]);
+      q = await liveQuestion(pick(pool), kind);
+      qAnswered = false; renderQuiz();
+    }catch(e){
+      fr.disabled = false; fr.textContent = "Fresh (live)";
+      alert("Live generation failed: " + e.message);
+    }
+  };
   el.querySelectorAll(".verdict .chip").forEach(ch =>
     ch.onclick = () => go("/browse/" + encodeURIComponent(ch.dataset.w)));
 }
@@ -781,16 +1028,29 @@ def main() -> int:
     groups.sort(key=lambda g: (KIND_ORDER.index(g["kind"]) if g["kind"] in KIND_ORDER else 99,
                                g["title"].lower()))
 
+    # Pre-generated, independently verified exam-format questions.
+    bank = []
+    for f in sorted(BANK.glob("*.json")):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        for q in d.get("questions", []):
+            bank.append({k: q[k] for k in
+                         ("id", "type", "stem", "blanks", "words", "explanation")
+                         if k in q} | {"g": q.get("gregmat_group")})
+
     OUT.mkdir(exist_ok=True)
     html = (TEMPLATE
             .replace("__DATA__", json.dumps(data, ensure_ascii=False))
             .replace("__GROUPS__", json.dumps(groups, ensure_ascii=False))
+            .replace("__BANK__", json.dumps(bank, ensure_ascii=False))
             .replace("__KINDLABEL__", json.dumps(KIND_LABEL, ensure_ascii=False)))
     dest = OUT / "flashcards.html"
     dest.write_text(html, encoding="utf-8")
 
-    print(f"{len(data)} cards + {len(groups)} groups -> {dest}  "
-          f"({dest.stat().st_size/1024:.0f} KB)")
+    print(f"{len(data)} cards + {len(groups)} groups + {len(bank)} bank questions "
+          f"-> {dest}  ({dest.stat().st_size/1024:.0f} KB)")
     return 0
 
 

@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat23__b7",
+  "gregmat_group": 23,
+  "words": [
+    "replenish",
+    "vigilant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Since the aquifer's recovery is measured in centuries, the irrigation board's plan amounted to deferral rather than remedy: no season of rain could {1} what a single dry summer had exhausted, and orchards that had been {2} since the valley was first settled withered within a decade.",
+      "blanks": [
+        {
+          "options": [
+            "replenish",
+            "invigorate",
+            "desiccate"
+          ],
+          "answers": [
+            "replenish"
+          ]
+        },
+        {
+          "options": [
+            "fecund",
+            "fallow",
+            "futile"
+          ],
+          "answers": [
+            "fecund"
+          ]
+        }
+      ],
+      "words": [
+        "replenish"
+      ],
+      "explanation": "The object of the first blank is a quantity of stored water that has been drawn down, and the sentence asks whether the old level can be regained, which is exactly what replenish means; invigorate would require something living to be given energy, and a depleted volume of groundwater has no vitality to restore. The second blank must describe orchards that were productive for generations before they withered, so fecund is required — fallow would mean deliberately left unplanted and resting, which contradicts a history of bearing fruit.",
+      "id": "gregmat23__b7__tc2__00",
+      "unit": "gregmat23__b7",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Nelson's squadron could not hold the blockade indefinitely: every few weeks a frigate had to slip away to Gibraltar to {1} the water casks and beef barrels that four months on station had emptied.",
+      "blanks": [
+        {
+          "options": [
+            "replenish",
+            "restore",
+            "invigorate",
+            "convalesce",
+            "burgeon"
+          ],
+          "answers": [
+            "replenish"
+          ]
+        }
+      ],
+      "words": [
+        "replenish"
+      ],
+      "explanation": "The frigate is topping supplies back up to their former level after consumption, which is the logistical sense replenish carries. Restore would apply to a damaged cask or a lost condition rather than to a used-up quantity, invigorate and convalesce belong to bodies and vitality, and burgeon is intransitive growth, not the filling of a store.",
+      "id": "gregmat23__b7__cloze__01",
+      "unit": "gregmat23__b7",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "The ward sister on night duty was expected to remain {1} until dawn, since a fever might turn at any hour and no one else would be awake to notice the change.",
+      "blanks": [
+        {
+          "options": [
+            "vigilant",
+            "watchful",
+            "wary",
+            "circumspect",
+            "complacent",
+            "skittish"
+          ],
+          "answers": [
+            "vigilant",
+            "watchful"
+          ]
+        }
+      ],
+      "words": [
+        "vigilant"
+      ],
+      "explanation": "The sentence describes a post held for hours against a danger that may or may not arrive, so vigilant and watchful both yield the same sense of sustained attentive guard. Wary and skittish denote suspicion or nervousness directed at something already sensed, and circumspect describes prudence before acting rather than continuous observation; complacent reverses the meaning outright.",
+      "id": "gregmat23__b7__se__02",
+      "unit": "gregmat23__b7",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission's report faulted no single inspector: two decades without a derailment had left the agency as a whole {1}, so that examinations meant to be {2} had dwindled into a paperwork ritual conducted from the office.",
+      "blanks": [
+        {
+          "options": [
+            "complacent",
+            "chary",
+            "skittish"
+          ],
+          "answers": [
+            "complacent"
+          ]
+        },
+        {
+          "options": [
+            "vigilant",
+            "circumspect",
+            "cavalier"
+          ],
+          "answers": [
+            "vigilant"
+          ]
+        }
+      ],
+      "words": [
+        "vigilant"
+      ],
+      "explanation": "A long stretch without accidents breeds unearned confidence, so the first blank must be complacent; chary and skittish would make the agency more cautious, which cannot explain the decay that follows. The second blank names the standard the inspections have fallen away from, and only vigilant describes sustained watch for danger — circumspect concerns weighing consequences before acting, and cavalier is itself a form of the negligence being criticized.",
+      "id": "gregmat23__b7__tc2__03",
+      "unit": "gregmat23__b7",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": []
+}

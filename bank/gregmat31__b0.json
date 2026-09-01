@@ -1,0 +1,253 @@
+{
+  "unit": "gregmat31__b0",
+  "gregmat_group": 31,
+  "words": [
+    "abrogate",
+    "aghast",
+    "apprise",
+    "beguile"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the charter had been lawfully enacted and remained in force, the assembly could not simply disregard it; it had to {1} the document outright, with nothing put in its place, and the older members, who had drafted the disputed clause forty years earlier, sat {2}, unable to summon a word of protest.",
+      "blanks": [
+        {
+          "options": [
+            "abrogate",
+            "supersede",
+            "quash"
+          ],
+          "answers": [
+            "abrogate"
+          ]
+        },
+        {
+          "options": [
+            "aghast",
+            "apprehensive",
+            "vindicated"
+          ],
+          "answers": [
+            "aghast"
+          ]
+        }
+      ],
+      "words": [
+        "abrogate",
+        "aghast"
+      ],
+      "explanation": "The first blank needs a word for formally striking off an instrument that everyone concedes was validly in force, which is abrogate; supersede is excluded because nothing was put in the charter's place, and quash applies to verdicts, warrants or revolts rather than to an enacted charter. The second blank must name the frozen, wordless shock of the drafters watching their own work destroyed, which is aghast; apprehensive points forward to a feared event rather than backward to an accomplished one, and vindicated reverses the sense.",
+      "id": "gregmat31__b0__tc2__00",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Rather than amend the colonial statute piecemeal, the new parliament voted to {1} it entirely, striking it from the books in a single session.",
+      "blanks": [
+        {
+          "options": [
+            "abrogate",
+            "rescind",
+            "supersede",
+            "ratify",
+            "promulgate",
+            "contravene"
+          ],
+          "answers": [
+            "abrogate",
+            "rescind"
+          ]
+        }
+      ],
+      "words": [
+        "abrogate"
+      ],
+      "explanation": "Only abrogate and rescind mean to repeal an enactment by the authority that made it, and both yield the same sentence: the statute is struck off wholesale. Supersede would require a replacement instrument, which \"striking it from the books\" rules out; ratify and promulgate are the opposite legislative acts, and contravene means to violate a law rather than to end it.",
+      "id": "gregmat31__b0__se__01",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "Visitors moved briskly through the exhibition until the last room, where they stood {1} before photographs of the famine that the catalogue had blandly labeled \"documentary evidence.\"",
+      "blanks": [
+        {
+          "options": [
+            "aghast",
+            "apprehensive",
+            "chagrined",
+            "wistful",
+            "jaded"
+          ],
+          "answers": [
+            "aghast"
+          ]
+        }
+      ],
+      "words": [
+        "aghast"
+      ],
+      "explanation": "The scene calls for the arrested, speechless revulsion produced by something ghastly, and aghast is the only option that carries horror rather than mere unease. Apprehensive would mean the visitors feared something still to come, and chagrined would reduce atrocity photographs to a source of embarrassment.",
+      "id": "gregmat31__b0__cloze__02",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "The statute treats disclosure as an obligation owed rather than a courtesy extended: a director who neglects to {1} the board of a pending suit is liable even when his silence was mere forgetfulness rather than a deliberate attempt to {2} the facts.",
+      "blanks": [
+        {
+          "options": [
+            "apprise",
+            "divulge",
+            "disseminate"
+          ],
+          "answers": [
+            "apprise"
+          ]
+        },
+        {
+          "options": [
+            "suppress",
+            "betray",
+            "corroborate"
+          ],
+          "answers": [
+            "suppress"
+          ]
+        }
+      ],
+      "words": [
+        "apprise"
+      ],
+      "explanation": "Grammar settles the first blank: apprise takes a human object plus of, whereas one divulges or disseminates the information itself, not the board of it; the duty-owed framing also suits apprise, which imputes no secrecy. The second blank must name the culpable alternative the sentence contrasts with forgetfulness, namely active concealment, so suppress is required; betray would mean letting the facts slip, the reverse of silence.",
+      "id": "gregmat31__b0__tc2__03",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Under the doctrine of informed consent, a surgeon must ensure that the patient has been {1} of every material risk, however remote the chance of its occurring.",
+      "blanks": [
+        {
+          "options": [
+            "apprised",
+            "notified",
+            "disabused",
+            "absolved",
+            "divulged",
+            "betrayed"
+          ],
+          "answers": [
+            "apprised",
+            "notified"
+          ]
+        }
+      ],
+      "words": [
+        "apprise"
+      ],
+      "explanation": "Apprised and notified both mean formally told what one was owed, and either produces the same duty-to-inform sentence. Disabused of and absolved of are grammatical in this legal register but mean stripped of a false belief and released from liability; divulged and betrayed take the information rather than the person as their object and so cannot follow \"the patient has been.\"",
+      "id": "gregmat31__b0__se__04",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "Ice-bound for six weeks, the crew {1} the interminable evenings with cards and doggerel, while the captain, who had {2} no one of how little flour remained, let the singing go on.",
+      "blanks": [
+        {
+          "options": [
+            "beguiled",
+            "enthralled",
+            "cajoled"
+          ],
+          "answers": [
+            "beguiled"
+          ]
+        },
+        {
+          "options": [
+            "apprised",
+            "divulged",
+            "betrayed"
+          ],
+          "answers": [
+            "apprised"
+          ]
+        }
+      ],
+      "words": [
+        "beguile",
+        "apprise"
+      ],
+      "explanation": "Only beguile takes a stretch of time as its object in the sense of passing it agreeably; enthrall and cajole require a person to be spellbound or coaxed, and neither can govern \"the evenings.\" The second blank again turns on construction and on duty: one apprises a person of a fact, while divulge and betray take the fact itself, and the captain's omission is a failure to tell what the crew was owed.",
+      "id": "gregmat31__b0__tc2__05",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "The pamphlet's danger lay in its geniality: its jokes {1} readers who would have bristled at open argument, lowering their guard long before they noticed what they had conceded.",
+      "blanks": [
+        {
+          "options": [
+            "beguiled",
+            "wheedled",
+            "hectored",
+            "apprised",
+            "quashed"
+          ],
+          "answers": [
+            "beguiled"
+          ]
+        }
+      ],
+      "words": [
+        "beguile"
+      ],
+      "explanation": "The sentence requires charm that the reader enjoys and that quietly does the work of persuasion, which is exactly beguile: pleasure and a motive in the same breath. Wheedled implies coaxing flattery aimed at extracting a specific concession and sits oddly with jokes, while hectored describes the badgering the pamphlet conspicuously avoids.",
+      "id": "gregmat31__b0__cloze__06",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "When the auditors described how the charity's bequests had actually been spent, even trustees who had long suspected mismanagement were {1}.",
+      "blanks": [
+        {
+          "options": [
+            "aghast",
+            "horrified",
+            "apprehensive",
+            "incredulous",
+            "vindicated",
+            "contrite"
+          ],
+          "answers": [
+            "aghast",
+            "horrified"
+          ]
+        }
+      ],
+      "words": [
+        "aghast"
+      ],
+      "explanation": "The concessive \"even trustees who had long suspected\" demands a reaction stronger than expectation, and aghast and horrified both supply shocked revulsion at what the report revealed. Incredulous fails because these trustees had already suspected the worst, apprehensive names anxiety about what is still to come, and vindicated describes being proved right rather than being appalled.",
+      "id": "gregmat31__b0__se__07",
+      "unit": "gregmat31__b0",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": []
+}

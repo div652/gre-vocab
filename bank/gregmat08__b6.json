@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat08__b6",
+  "gregmat_group": 8,
+  "words": [
+    "sanguine",
+    "scant",
+    "skullduggery",
+    "trivial"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The bank's economists remained {1} about the recovery even though the quarterly figures gave their position {2} support, dismissing the contraction as a statistical artifact rather than the beginning of a trend.",
+      "blanks": [
+        {
+          "options": [
+            "crestfallen",
+            "sanguine",
+            "lugubrious"
+          ],
+          "answers": [
+            "sanguine"
+          ]
+        },
+        {
+          "options": [
+            "copious",
+            "profuse",
+            "scant"
+          ],
+          "answers": [
+            "scant"
+          ]
+        }
+      ],
+      "words": [
+        "sanguine",
+        "scant"
+      ],
+      "explanation": "The concessive \"even though\" plus the dismissal of the contraction fixes blank 1 as cheerful confidence held against discouraging news, which is exactly sanguine; crestfallen and lugubrious reverse the direction. Blank 2 must supply the discouraging news, and scant is the word for support that exists but falls short of what the claim required — copious and profuse would make the concession incoherent.",
+      "id": "gregmat08__b6__tc2__00",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "What the muckrakers uncovered at City Hall was less grand corruption than petty {1}: rigged bids for sidewalk repair, cousins quietly installed as inspectors, offenses individually {2} but cumulatively corrosive of public trust.",
+      "blanks": [
+        {
+          "options": [
+            "skullduggery",
+            "ploy",
+            "feint"
+          ],
+          "answers": [
+            "skullduggery"
+          ]
+        },
+        {
+          "options": [
+            "egregious",
+            "trivial",
+            "rampant"
+          ],
+          "answers": [
+            "trivial"
+          ]
+        }
+      ],
+      "words": [
+        "skullduggery",
+        "trivial"
+      ],
+      "explanation": "Blank 1 needs a mass noun for a whole habit of small, out-of-sight double-dealing, which is skullduggery; a ploy or a feint is one discrete maneuver, not a category of conduct, and a feint is specifically a distraction. Blank 2 is fixed by the contrast with \"cumulatively corrosive\": each offense must be dismissible on its own, so trivial — egregious and rampant would destroy the opposition the sentence builds.",
+      "id": "gregmat08__b6__tc2__01",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Excavation of the hilltop site has yielded {1} evidence of continuous occupation: one disputed potsherd and a hearth of uncertain date.",
+      "blanks": [
+        {
+          "options": [
+            "copious",
+            "scant",
+            "unambiguous",
+            "paltry",
+            "profuse",
+            "sporadic"
+          ],
+          "answers": [
+            "scant",
+            "paltry"
+          ]
+        }
+      ],
+      "words": [
+        "scant"
+      ],
+      "explanation": "The colon supplies the standard: what was recovered is pitifully less than a claim of continuous occupation requires, so scant and paltry both work and mean the same thing here. Copious and profuse fit the slot grammatically but reverse the sense the examples establish, and unambiguous describes quality rather than the shortfall in quantity.",
+      "id": "gregmat08__b6__se__02",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers who dismissed the discrepancy between the two editions as {1} had not noticed that the altered passage was precisely the one read aloud at the heresy trial.",
+      "blanks": [
+        {
+          "options": [
+            "deliberate",
+            "trifling",
+            "spurious",
+            "trivial",
+            "cryptic",
+            "frivolous"
+          ],
+          "answers": [
+            "trivial",
+            "trifling"
+          ]
+        }
+      ],
+      "words": [
+        "trivial"
+      ],
+      "explanation": "\"Had not noticed\" marks the dismissal as mistaken, so the blank must deny the discrepancy any weight: trivial and trifling are interchangeable in that verdict. Spurious would mean the discrepancy was not genuine and deliberate would mean it was intended — both fit the grammar and the tone but assert something quite different, and neither has a partner among the options.",
+      "id": "gregmat08__b6__se__03",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The commissioner's memoirs describe a decade of ward-level {1}: ballots recovered from car trunks, precinct captains bought off with liquor licenses, and not one indictment to show for any of it.",
+      "blanks": [
+        {
+          "options": [
+            "cunning",
+            "rectitude",
+            "skullduggery",
+            "brinkmanship",
+            "ploys",
+            "chicanery"
+          ],
+          "answers": [
+            "skullduggery",
+            "chicanery"
+          ]
+        }
+      ],
+      "words": [
+        "skullduggery"
+      ],
+      "explanation": "The examples are underhanded dealing done out of sight and never proved in court, which is the territory shared by skullduggery and chicanery. Cunning names the cleverness rather than the crooked dealing itself, and brinkmanship — deliberately courting disaster — fits the register while changing the accusation entirely; rectitude inverts it.",
+      "id": "gregmat08__b6__se__04",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "Even as the ice sheet's collapse accelerated, the ministry's chief scientist stayed oddly {1} about the seawalls, assuring reporters that they would hold well into the next century.",
+      "blanks": [
+        {
+          "options": [
+            "mercurial",
+            "phlegmatic",
+            "sanguine",
+            "lugubrious",
+            "imperturbable"
+          ],
+          "answers": [
+            "sanguine"
+          ]
+        }
+      ],
+      "words": [
+        "sanguine"
+      ],
+      "explanation": "The scientist is not merely unruffled; he is predicting a good outcome in the face of evidence that points the other way, and that forecast held against trouble is what sanguine names. Phlegmatic and imperturbable describe a temperament that does not react, which would leave the assurance about the next century unexplained.",
+      "id": "gregmat08__b6__cloze__05",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Two years of subpoenas produced {1} proof of the {2} that reporters were certain had preceded the rezoning vote: a handful of ambiguous emails, and not one of the promised backroom bargains.",
+      "blanks": [
+        {
+          "options": [
+            "incontrovertible",
+            "copious",
+            "scant"
+          ],
+          "answers": [
+            "scant"
+          ]
+        },
+        {
+          "options": [
+            "largesse",
+            "skullduggery",
+            "brinkmanship"
+          ],
+          "answers": [
+            "skullduggery"
+          ]
+        }
+      ],
+      "words": [
+        "scant",
+        "skullduggery"
+      ],
+      "explanation": "The colon shows the subpoenas returned something, but far less than a two-year investigation was supposed to yield, so blank 1 is scant rather than copious or incontrovertible. \"Backroom bargains\" pins blank 2 to sneaky dealing that is suspected but unprovable — skullduggery — where largesse means open generosity and brinkmanship means pushing a confrontation to the edge.",
+      "id": "gregmat08__b6__tc2__06",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "The referees rejected the paper not because its central lemma was false but because the only case the argument actually settled was the {1} one, in which every coefficient is set to zero.",
+      "blanks": [
+        {
+          "options": [
+            "ancillary",
+            "paltry",
+            "trifling",
+            "trivial",
+            "nominal"
+          ],
+          "answers": [
+            "trivial"
+          ]
+        }
+      ],
+      "words": [
+        "trivial"
+      ],
+      "explanation": "In mathematics the degenerate case — all coefficients zero — has a fixed technical name, the trivial case, and that neutral jargon sense is what the clause after the comma defines. Trifling and paltry carry the everyday note of contempt without the technical meaning, and ancillary would wrongly imply a subsidiary case rather than the degenerate one.",
+      "id": "gregmat08__b6__cloze__07",
+      "unit": "gregmat08__b6",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": []
+}

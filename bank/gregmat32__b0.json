@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat32__b0",
+  "gregmat_group": 32,
+  "words": [
+    "abstruse",
+    "auxiliary",
+    "caricature",
+    "depravity"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers conceded that the physics was inherently {1} — no exposition, however skilled, could make Hawking radiation easy — but they faulted the author nonetheless for {2} matters further with a private notation that no working physicist had ever adopted.",
+      "blanks": [
+        {
+          "options": [
+            "abstruse",
+            "intelligible",
+            "derivative"
+          ],
+          "answers": [
+            "abstruse"
+          ]
+        },
+        {
+          "options": [
+            "obfuscating",
+            "elucidating",
+            "emulating"
+          ],
+          "answers": [
+            "obfuscating"
+          ]
+        }
+      ],
+      "words": [
+        "abstruse"
+      ],
+      "explanation": "The dash-clause says no exposition could make the material easy, so the first blank must mean deep and hard to grasp: abstruse. \"Intelligible\" reverses that, and \"derivative\" (unoriginal) says nothing about difficulty. The second blank follows \"faulted,\" so it must name a fault the author added on top of an already hard subject — obfuscating; elucidating would be a virtue, and emulating has no object here.",
+      "id": "gregmat32__b0__tc2__00",
+      "unit": "gregmat32__b0",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "When the main turbine failed the ship did not go dark: an {1} generator, idle until that moment but fully capable, took up the entire electrical load — something the merely {2} equipment stowed beside it, built for cleaning and monitoring, could never have done.",
+      "blanks": [
+        {
+          "options": [
+            "auxiliary",
+            "vestigial",
+            "ornamental"
+          ],
+          "answers": [
+            "auxiliary"
+          ]
+        },
+        {
+          "options": [
+            "ancillary",
+            "primary",
+            "indispensable"
+          ],
+          "answers": [
+            "ancillary"
+          ]
+        }
+      ],
+      "words": [
+        "auxiliary"
+      ],
+      "explanation": "The generator is held in reserve yet strong enough to carry the whole load, which is exactly auxiliary — subordinate in rank, not in capability; vestigial and ornamental would deny it any working function. The contrasted equipment does menial support work (cleaning, monitoring), so it is ancillary, peripheral rather than merely secondary; \"primary\" and \"indispensable\" would destroy the contrast the sentence is built on.",
+      "id": "gregmat32__b0__tc2__02",
+      "unit": "gregmat32__b0",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "Unable to fund a second full-time crew, the county relied each fire season on {1} companies of trained volunteers, fully equipped to fight a blaze unaided but called out only when the regular stations were stretched.",
+      "blanks": [
+        {
+          "options": [
+            "auxiliary",
+            "reserve",
+            "ancillary",
+            "subordinate",
+            "itinerant",
+            "clandestine"
+          ],
+          "answers": [
+            "auxiliary",
+            "reserve"
+          ]
+        }
+      ],
+      "words": [
+        "auxiliary"
+      ],
+      "explanation": "The volunteers are competent enough to fight a fire on their own but are held back until the regulars are overstretched — backup support, which auxiliary and reserve both express, yielding the same sentence. Ancillary would make them peripheral hangers-on rather than firefighters, and subordinate speaks only to rank; itinerant and clandestine fit the grammar but assert travel and secrecy the sentence never mentions.",
+      "id": "gregmat32__b0__se__03",
+      "unit": "gregmat32__b0",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "The cartoonist's power lay in {1} rather than invention: the minister's jaw really was that heavy, and precisely because every reader could recognize the feature, the {2} proved impossible to shrug off.",
+      "blanks": [
+        {
+          "options": [
+            "amplification",
+            "fabrication",
+            "emulation"
+          ],
+          "answers": [
+            "amplification"
+          ]
+        },
+        {
+          "options": [
+            "caricature",
+            "pastiche",
+            "encomium"
+          ],
+          "answers": [
+            "caricature"
+          ]
+        }
+      ],
+      "words": [
+        "caricature"
+      ],
+      "explanation": "\"Rather than invention\" and \"really was that heavy\" force the first blank toward enlarging something genuinely present: amplification; fabrication is the invention the sentence rules out, and emulation would mean imitating admiringly. The finished drawing is therefore a caricature, which exaggerates real features — a pastiche merely assembles borrowed styles, and an encomium is praise, which nobody would need to shrug off.",
+      "id": "gregmat32__b0__tc2__04",
+      "unit": "gregmat32__b0",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Defenders of the novel insisted that its financier was not a portrait but a {1}: every trait the character displayed the living man had displayed too, only swollen to three times its natural size.",
+      "blanks": [
+        {
+          "options": [
+            "caricature",
+            "parody",
+            "pastiche",
+            "fabrication",
+            "effigy"
+          ],
+          "answers": [
+            "caricature"
+          ]
+        }
+      ],
+      "words": [
+        "caricature"
+      ],
+      "explanation": "The colon defines the term precisely: nothing is invented, real traits are simply inflated, which is the method a caricature names. Parody imitates a style rather than a person's features, pastiche assembles borrowings, and fabrication would mean the traits were made up, which the sentence denies; an effigy is a figure made to be burned or displayed, not a distorted likeness in prose.",
+      "id": "gregmat32__b0__cloze__05",
+      "unit": "gregmat32__b0",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "The prosecutor argued that the pattern of crimes revealed not momentary weakness but settled {1}: a character in which cruelty met no internal resistance whatever.",
+      "blanks": [
+        {
+          "options": [
+            "depravity",
+            "turpitude",
+            "decadence",
+            "negligence",
+            "cupidity",
+            "contrition"
+          ],
+          "answers": [
+            "depravity",
+            "turpitude"
+          ]
+        }
+      ],
+      "words": [
+        "depravity"
+      ],
+      "explanation": "The colon specifies wickedness lodged permanently in the character rather than a lapse, which depravity and turpitude both name, producing equivalent sentences. Decadence would describe self-indulgent decline, not cruelty without restraint, and negligence describes carelessness rather than wickedness; cupidity narrows the vice to greed, and contrition would make the defendant remorseful, contradicting the clause.",
+      "id": "gregmat32__b0__se__06",
+      "unit": "gregmat32__b0",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "The memoirist takes care not to confuse categories: the thefts of his own adolescence he records as {1}, embarrassing but easily forgiven, whereas his uncle's methodical cruelty toward the household servants he offers as evidence of settled {2}.",
+      "blanks": [
+        {
+          "options": [
+            "peccadilloes",
+            "atrocities",
+            "felonies"
+          ],
+          "answers": [
+            "peccadilloes"
+          ]
+        },
+        {
+          "options": [
+            "depravity",
+            "indiscretion",
+            "eccentricity"
+          ],
+          "answers": [
+            "depravity"
+          ]
+        }
+      ],
+      "words": [
+        "depravity"
+      ],
+      "explanation": "\"Embarrassing but easily forgiven\" fixes the first blank at the trivial end of the scale — peccadilloes; atrocities and felonies are far too grave to be shrugged off that way. Methodical cruelty set against those small lapses demands the heaviest term available, depravity; indiscretion belongs with the adolescent thefts, and eccentricity registers oddity rather than moral rot.",
+      "id": "gregmat32__b0__tc2__07",
+      "unit": "gregmat32__b0",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['obscure'] vs ['abstruse']",
+      "problem": "\"Abstruse\" is an equally defensible fit. The intended logic is presumably that \"the subject matter was identical\" removes content-difficulty explanations (esoteric, arcane, abstruse all point to inherently deep or specialized content), leaving a defect of expression — \"obscure,\" the direct antonym of \"clarity.\" But that distinction is far too fine to be decisive: \"abstruse prose/papers\" is standard idiomatic usage for writing that is hard to follow regardless of whether the underlying topic is deep, and the sentence's evidence (students needing a commentary to follow the argument) is fully satisfied by \"abstruse.\" \"Arcane\" is also arguably usable in its loose sense of \"impenetrable.\" Only \"prolix\" (merely verbose) and \"esoteric\" (restricted to initiates — contradicted by the identical-subject clause) are cleanly excluded. A well-prepared test-taker could reasonably choose \"abstruse\" and be marked wrong, so the item is not usable as written; it needs a clue that pins the fault to the writing itself (e.g. \"so tangled and elliptical\") or the removal of \"abstruse\"/\"arcane\" from the option set.",
+      "stem": "The subject matter was identical in both cases, yet where his lectures were models of clarity, his published papers were so {1} that even his own doctoral students kept a colleague's commentary at hand in order to follow the argument."
+    }
+  ]
+}

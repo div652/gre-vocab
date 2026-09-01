@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat01__b6",
+  "gregmat_group": 1,
+  "words": [
+    "proclivity",
+    "puerile",
+    "quixotic",
+    "spendthrift"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Historians still disagree about Kono's decade-long, one-man effort to reassemble the imperial archives lost in the fire: some treat it as simply {1}, a waste of the best years of a fine scholar, while others hold that its very hopelessness was the point and describe it, admiringly, as {2}.",
+      "blanks": [
+        {
+          "options": [
+            "futile",
+            "efficacious",
+            "tenable"
+          ],
+          "answers": [
+            "futile"
+          ]
+        },
+        {
+          "options": [
+            "quixotic",
+            "illusory",
+            "barren"
+          ],
+          "answers": [
+            "quixotic"
+          ]
+        }
+      ],
+      "words": [
+        "quixotic"
+      ],
+      "explanation": "The first clause glosses its own blank as \"a waste,\" which rules out the two success words and leaves futile; the second clause reverses the judgment with \"admiringly,\" so it needs a word that grants the dreamer his gallantry while conceding the odds. Quixotic is the only option here that can be warm. Barren merely repeats the verdict of the first blank instead of contrasting with it, and illusory diagnoses the aim as unreal rather than noble.",
+      "id": "gregmat01__b6__tc2__00",
+      "unit": "gregmat01__b6",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Waste, the economists insist, is a matter of proportion rather than sum: the emir's purchases, however {1}, drew on oil revenues that replenish themselves each year, whereas the heir who empties a trust fund earns the name {2} precisely because the pot he drains can never be refilled.",
+      "blanks": [
+        {
+          "options": [
+            "extravagant",
+            "parsimonious",
+            "nominal"
+          ],
+          "answers": [
+            "extravagant"
+          ]
+        },
+        {
+          "options": [
+            "spendthrift",
+            "miser",
+            "dilettante"
+          ],
+          "answers": [
+            "spendthrift"
+          ]
+        }
+      ],
+      "words": [
+        "spendthrift"
+      ],
+      "explanation": "The concessive \"however\" requires a word conceding great expense that the renewing revenues then excuse, so extravagant fits and its two opposites in scale do not. The second blank names a person as a type whose defining feature is draining a finite pot — spendthrift — whereas miser names the reverse habit and dilettante concerns dabbling, not money.",
+      "id": "gregmat01__b6__tc2__02",
+      "unit": "gregmat01__b6",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "Two decades after the trust was opened to him, nothing whatever remained: friends who had once found his {1} habits merely amusing were by then quietly lending him rent money.",
+      "blanks": [
+        {
+          "options": [
+            "spendthrift",
+            "profligate",
+            "parsimonious",
+            "penurious",
+            "canny",
+            "exorbitant"
+          ],
+          "answers": [
+            "spendthrift",
+            "profligate"
+          ]
+        }
+      ],
+      "words": [
+        "spendthrift"
+      ],
+      "explanation": "An inheritance emptied in twenty years demands a word for habitual wasteful spending, and spendthrift and profligate are interchangeable in this financial context. Parsimonious and canny describe the opposite disposition and would leave the ruin unexplained; penurious describes the poverty that results rather than the habit that caused it, and exorbitant attaches to prices and demands, not to a person's habits.",
+      "id": "gregmat01__b6__se__03",
+      "unit": "gregmat01__b6",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers agreed that the satire in the novelist's last book was {1} — snickering nicknames, lavatory humor, a running joke about a rival's baldness — and the fact that he was sixty when he wrote it made the verdict harsher rather than gentler, since the same jokes from an adolescent would have seemed merely {2}.",
+      "blanks": [
+        {
+          "options": [
+            "puerile",
+            "mordant",
+            "abstruse"
+          ],
+          "answers": [
+            "puerile"
+          ]
+        },
+        {
+          "options": [
+            "callow",
+            "jaded",
+            "sinister"
+          ],
+          "answers": [
+            "callow"
+          ]
+        }
+      ],
+      "words": [
+        "puerile"
+      ],
+      "explanation": "The listed examples are childish silliness and the reviewers are delivering a verdict from a height, which is puerile rather than mordant, a term of praise for biting wit. The second blank turns on the same distinction the first one depends on: a young writer cannot be puerile, because the sting requires someone old enough to know better, so the softer charge left for an adolescent is callow inexperience.",
+      "id": "gregmat01__b6__tc2__04",
+      "unit": "gregmat01__b6",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "For all the constitutional gravity of the motion before it, the chamber descended by the second hour into {1} heckling — members braying one another's accents, one waving a rubber chicken — conduct that would have embarrassed a schoolyard.",
+      "blanks": [
+        {
+          "options": [
+            "puerile",
+            "callow",
+            "naive",
+            "gullible",
+            "decorous"
+          ],
+          "answers": [
+            "puerile"
+          ]
+        }
+      ],
+      "words": [
+        "puerile"
+      ],
+      "explanation": "The contrast between constitutional gravity and rubber chickens calls for a word meaning childishly silly and beneath the occasion, delivered as a verdict. Callow, naive, and gullible all describe inexperience or credulity rather than immature conduct, and none of them can be charged against seasoned legislators; decorous reverses the sense.",
+      "id": "gregmat01__b6__cloze__05",
+      "unit": "gregmat01__b6",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "The report's authors cautioned that a single barroom brawl proves very little; what the parole board must weigh is whether the record as a whole discloses a settled {1} toward violence rather than one disastrous evening.",
+      "blanks": [
+        {
+          "options": [
+            "proclivity",
+            "propensity",
+            "aversion",
+            "aptitude",
+            "affinity",
+            "ambivalence"
+          ],
+          "answers": [
+            "proclivity",
+            "propensity"
+          ]
+        }
+      ],
+      "words": [
+        "proclivity"
+      ],
+      "explanation": "The sentence asks for a habitual leaning toward disreputable conduct, which proclivity and propensity both supply and which is precisely the register of parole boards and psychiatrists. Aversion fits the grammar while reversing the meaning, aptitude names a capacity rather than an inclination, and affinity suggests kinship or attraction to a thing rather than a settled tendency to act.",
+      "id": "gregmat01__b6__se__06",
+      "unit": "gregmat01__b6",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics soon noticed the biographer's favorite trick: he described his subject's most innocent habits in the vocabulary of vice — a {1} for crossword puzzles, an addiction to long walks, a weakness for cats — so that a blameless life came to seem faintly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "proclivity",
+            "penchant",
+            "affinity"
+          ],
+          "answers": [
+            "proclivity"
+          ]
+        },
+        {
+          "options": [
+            "disreputable",
+            "exemplary",
+            "arduous"
+          ],
+          "answers": [
+            "disreputable"
+          ]
+        }
+      ],
+      "words": [
+        "proclivity"
+      ],
+      "explanation": "The clause \"the vocabulary of vice,\" reinforced by \"addiction\" and \"weakness,\" demands the term that smells of vice even when attached to something harmless; penchant is the word one uses of good coffee and carries no such taint, and affinity is neutral kinship. The second blank records the effect of that trick, so only disreputable follows; exemplary and arduous name qualities the trick was not designed to insinuate.",
+      "id": "gregmat01__b6__tc2__07",
+      "unit": "gregmat01__b6",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The colon-explanation (one lawyer, no budget, no backing, no constituency, versus an industry with limitless counsel) establishes only a hopeless mismatch of odds — it does not isolate the idealistic/romantic-crusade nuance that distinguishes \"quixotic\" from plain hopelessness. \"Futile\" fits the same slot just as naturally (\"looked futile\" — appearance, later contradicted by \"that he ultimately prevailed\"), and the closing clause about \"absurd\" odds supports either. \"Fanciful\" is a weaker but arguable third fit. The sentence would need a cue toward idealism or tilting-at-windmills (rather than mere doom) to make \"quixotic\" the only defensible choice; as written a test-taker choosing \"futile\" is being marked wrong for a defensible reading. Only \"feasible\" and \"illusory\" are clearly excluded.",
+      "stem": "Nader's first campaign against Detroit looked {1}: a single lawyer with no budget, no institutional backing, and no constituency, arrayed against an industry with limitless counsel — that he ultimately prevailed makes the odds he began with no less absurd."
+    }
+  ]
+}

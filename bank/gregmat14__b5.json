@@ -1,0 +1,201 @@
+{
+  "unit": "gregmat14__b5",
+  "gregmat_group": 14,
+  "words": [
+    "stringent",
+    "subservient",
+    "surreptitious",
+    "tantalizing"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "By lowering the permissible contaminant level from ten parts per million to one, the commission made the standard markedly more {1} without making it more {2}: no new penalty was attached, and no plant that had met the old limit in good faith was punished under the new one.",
+      "blanks": [
+        {
+          "options": [
+            "stringent",
+            "astringent",
+            "imperious"
+          ],
+          "answers": [
+            "stringent"
+          ]
+        },
+        {
+          "options": [
+            "draconian",
+            "exacting",
+            "conspicuous"
+          ],
+          "answers": [
+            "draconian"
+          ]
+        }
+      ],
+      "words": [
+        "stringent"
+      ],
+      "explanation": "Narrowing a numerical limit is precisely what stringent describes — the tightness of the bar itself; astringent, though built on the same root stringere, means sharp or caustic (of a substance or a remark) and cannot modify a regulatory standard. The second blank is fixed by the clause about penalties and punishment, which is the domain of draconian; exacting would speak to how much effort compliance costs, a matter the sentence never raises.",
+      "id": "gregmat14__b5__tc2__00",
+      "unit": "gregmat14__b5",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "What makes the certification hard to obtain is not the labor involved, since the tests themselves are quick and cheap for any competent lab, but the {1} tolerances: a deviation of half a micron disqualifies the entire batch.",
+      "blanks": [
+        {
+          "options": [
+            "stringent",
+            "exacting",
+            "onerous",
+            "draconian",
+            "arbitrary",
+            "provisional"
+          ],
+          "answers": [
+            "stringent",
+            "exacting"
+          ]
+        }
+      ],
+      "words": [
+        "stringent"
+      ],
+      "explanation": "Stringent and exacting both describe a specification that permits almost no deviation, and either yields the same sentence. Onerous and draconian are ruled out by the sentence's own concessions — the work is cheap, so nothing is burdensome, and no punishment is mentioned — while arbitrary would imply the half-micron figure was chosen at random, which the sentence does not suggest.",
+      "id": "gregmat14__b5__se__01",
+      "unit": "gregmat14__b5",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "In the functionalist creed that dominated the Chicago School, ornament was not banished from the facade so much as made {1} to structure, tolerated only where it made the building's load-bearing logic legible from the street.",
+      "blanks": [
+        {
+          "options": [
+            "subservient",
+            "obsequious",
+            "servile",
+            "fawning",
+            "supplicating"
+          ],
+          "answers": [
+            "subservient"
+          ]
+        }
+      ],
+      "words": [
+        "subservient"
+      ],
+      "explanation": "Only subservient carries the neutral second sense of subordinate, serving a larger purpose, and only it takes a non-human subject such as ornament. Obsequious, fawning, and supplicating all require a person performing flattery or entreaty, and servile, though close, describes the temperament of a person in bondage rather than the rank of one design element beneath another.",
+      "id": "gregmat14__b5__cloze__03",
+      "unit": "gregmat14__b5",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Now that the seminar bars laptops, the doctoral students are reduced to {1} glances at the phones in their laps, each one timed to the instant the instructor turns toward the board.",
+      "blanks": [
+        {
+          "options": [
+            "surreptitious",
+            "furtive",
+            "clandestine",
+            "overt",
+            "perfunctory",
+            "resigned"
+          ],
+          "answers": [
+            "surreptitious",
+            "furtive"
+          ]
+        }
+      ],
+      "words": [
+        "surreptitious"
+      ],
+      "explanation": "Surreptitious and furtive both name a small, quick, guilty act performed in a gap in someone's attention, and either produces the same sentence. Clandestine belongs to organized secrecy — cells, operations, affairs — not to a glance stolen in three seconds; perfunctory and resigned fit the grammar and the classroom tone but describe boredom rather than concealment, and overt reverses the meaning outright.",
+      "id": "gregmat14__b5__se__05",
+      "unit": "gregmat14__b5",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "The fragment of papyrus recovered at Oxyrhynchus is {1} in the extreme: it gives the conspirators' meeting place, the hour, and the password, and then tears away at precisely the point where the ringleader would have been named.",
+      "blanks": [
+        {
+          "options": [
+            "tantalizing",
+            "enthralling",
+            "beguiling",
+            "arresting",
+            "enchanting"
+          ],
+          "answers": [
+            "tantalizing"
+          ]
+        }
+      ],
+      "words": [
+        "tantalizing"
+      ],
+      "explanation": "The defining feature here is the withholding — the document stops one step short of the answer — and tantalizing is the only one of these words that requires an unbridgeable gap. Enthralling, beguiling, and enchanting all describe a spell that is actually cast, and arresting merely means it seizes the attention; none of them implies frustration.",
+      "id": "gregmat14__b5__cloze__06",
+      "unit": "gregmat14__b5",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "The collider data of that season were {1}: the anomaly surfaced in every run, always a hair below the {2} five-sigma threshold, a bar the collaboration adopted not to punish premature claims but simply to keep statistical coincidences out of the literature.",
+      "blanks": [
+        {
+          "options": [
+            "tantalizing",
+            "conclusive",
+            "enthralling"
+          ],
+          "answers": [
+            "tantalizing"
+          ]
+        },
+        {
+          "options": [
+            "stringent",
+            "draconian",
+            "stern"
+          ],
+          "answers": [
+            "stringent"
+          ]
+        }
+      ],
+      "words": [
+        "tantalizing",
+        "stringent"
+      ],
+      "explanation": "The two blanks interact: the threshold is what keeps the result permanently just out of reach, and a result you can almost but never quite claim is tantalizing rather than conclusive or merely enthralling. Stringent names the narrowness of the statistical bar, while draconian and stern are excluded by the explicit statement that the rule was set to filter noise rather than to punish anyone.",
+      "id": "gregmat14__b5__tc2__07",
+      "unit": "gregmat14__b5",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 offers two near-interchangeable options, \"subservient\" and \"obsequious,\" and the sentence provides no clue that separates them. The discriminating idea in the clause is intellectual capture (\"absorbed the court's account… no longer held one of his own\"), which neither word denotes; both simply mean excessively compliant/servile, and both fit the intended contrast with a merely \"deferential\" predecessor. A reasonable test-taker choosing \"obsequious\" would be marked wrong without justification. Blank 1 is fine and uniquely \"deferential\" (\"servile\" would destroy the contrast the sentence draws; \"contemptuous\" clashes with bowing as protocol demanded).",
+      "stem": "Diplomatic memoirs of the period distinguish sharply between the {1} envoy, who bowed as low as protocol demanded but still cabled home exactly what he believed, and his {2} successor, who had so thoroughly absorbed the court's account of events that he no longer held one of his own."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean (clandestine). Blank {2} is not uniquely determined: \"discreet\" and \"surreptitious\" are near-synonyms here — both mean acting so as to go unnoticed, and the sentence gives no cue that isolates illicit stealth from unobtrusive tact. \"Surreptitious\" is only marginally better on connotation (the act is illicit and career-ending, and succeeds by luck rather than judgment), so a reasonable test-taker could defend \"discreet\" and be marked wrong.",
+      "stem": "The leak proved to be the work not of a {1} network patiently seeded inside the ministry over a decade, but of a bored clerk who took a {2} photograph of a file left open on a colleague's desk — an act that would have ended his career had anyone in the room looked up."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "unit": "gregmat03__b2",
+  "gregmat_group": 3,
+  "words": [
+    "assuage",
+    "betray",
+    "bucolic",
+    "burgeon"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the chancellor's carefully modulated statement did much to {1} the anxieties of bondholders, a slight catch in his voice at every mention of the deficit {2} a misgiving his prepared text had been drafted to hide.",
+      "blanks": [
+        {
+          "options": [
+            "assuage",
+            "exacerbate",
+            "escalate"
+          ],
+          "answers": [
+            "assuage"
+          ]
+        },
+        {
+          "options": [
+            "betrayed",
+            "suppressed",
+            "belied"
+          ],
+          "answers": [
+            "betrayed"
+          ]
+        }
+      ],
+      "words": [
+        "assuage",
+        "betray"
+      ],
+      "explanation": "\"Though\" sets the calming speech against the leaking tell, so blank one must mean to take the edge off an emotion — assuage, whose object is characteristically fears or anxieties; exacerbate and escalate push the wrong way. In blank two the catch in his voice is an involuntary detail that gives away a concealed feeling, which is exactly betray; belie would mean the catch exposed the misgiving as false, the reverse of what the sentence says, and a voice cannot suppress what it is revealing.",
+      "id": "gregmat03__b2__tc2__00",
+      "unit": "gregmat03__b2",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "The governor's pledge of emergency funds did little to {1} the fears of residents who had spent three nights watching the river climb toward their doorsteps.",
+      "blanks": [
+        {
+          "options": [
+            "assuage",
+            "alleviate",
+            "exacerbate",
+            "articulate",
+            "vindicate",
+            "anticipate"
+          ],
+          "answers": [
+            "assuage",
+            "alleviate"
+          ]
+        }
+      ],
+      "words": [
+        "assuage"
+      ],
+      "explanation": "A pledge of aid is offered to reduce fear, and both assuage and alleviate mean to lessen without curing, yielding sentences of the same meaning. Exacerbate reverses the direction; articulate (express), vindicate (justify) and anticipate (foresee) all fit the grammar and the formal register but each changes what the pledge failed to do, and none pairs with another option as a synonym.",
+      "id": "gregmat03__b2__se__01",
+      "unit": "gregmat03__b2",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "On the tape the ambassador's replies are unfailingly bland, but a half-second hesitation before every mention of the border commission {1} an unease she had plainly rehearsed to keep out of her voice.",
+      "blanks": [
+        {
+          "options": [
+            "betrays",
+            "divulges",
+            "belies",
+            "apprises",
+            "suppresses"
+          ],
+          "answers": [
+            "betrays"
+          ]
+        }
+      ],
+      "words": [
+        "betray"
+      ],
+      "explanation": "The subject is a small involuntary tell working against the person it belongs to, which is precisely betray. Divulge requires a person deliberately handing over information, and apprise requires a person being informed of something; belie would mean the hesitation proved the unease unreal, and suppress says the opposite of what the hesitation does.",
+      "id": "gregmat03__b2__cloze__02",
+      "unit": "gregmat03__b2",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Constable's patrons wanted the valley {1} — cattle dozing in gold light, not a rut or a puddle in sight — and so the {2} brickworks along the river, whose chimneys had already begun to smudge the sky he paints an untroubled blue, go unrecorded.",
+      "blanks": [
+        {
+          "options": [
+            "bucolic",
+            "squalid",
+            "austere"
+          ],
+          "answers": [
+            "bucolic"
+          ]
+        },
+        {
+          "options": [
+            "burgeoning",
+            "dormant",
+            "derelict"
+          ],
+          "answers": [
+            "burgeoning"
+          ]
+        }
+      ],
+      "words": [
+        "bucolic",
+        "burgeon"
+      ],
+      "explanation": "Blank one describes the countryside prettified for a buyer — no mud, no labor — which is bucolic; squalid and austere both deny the golden charm the clause spells out. Blank two needs works that are active and expanding enough to already be dirtying the sky, so burgeoning fits, while dormant and derelict describe operations producing no smoke at all.",
+      "id": "gregmat03__b2__tc2__03",
+      "unit": "gregmat03__b2",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Within a decade of the first clubs opening on Beale Street, what had been a handful of itinerant players became a {1} scene that drew musicians from three states.",
+      "blanks": [
+        {
+          "options": [
+            "burgeoning",
+            "flourishing",
+            "dormant",
+            "fractious",
+            "insular",
+            "derivative"
+          ],
+          "answers": [
+            "burgeoning",
+            "flourishing"
+          ]
+        }
+      ],
+      "words": [
+        "burgeon"
+      ],
+      "explanation": "A few players growing in ten years into a magnet for outsiders calls for rapid, healthy expansion, and burgeoning and flourishing convey that equivalently. Dormant contradicts the growth outright, while fractious, insular and derivative are all natural adjectives for a music scene that would say something entirely different — and, unlike the answer pair, none of them is a synonym of any other option.",
+      "id": "gregmat03__b2__se__04",
+      "unit": "gregmat03__b2",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Officials assumed that the {1} tourist trade would {2} local anger over the hunting ban, but the handful of seasonal jobs it produced changed few minds in the villages.",
+      "blanks": [
+        {
+          "options": [
+            "burgeoning",
+            "dwindling",
+            "fallow"
+          ],
+          "answers": [
+            "burgeoning"
+          ]
+        },
+        {
+          "options": [
+            "assuage",
+            "compound",
+            "betray"
+          ],
+          "answers": [
+            "assuage"
+          ]
+        }
+      ],
+      "words": [
+        "burgeon",
+        "assuage"
+      ],
+      "explanation": "Only a fast-growing trade could be expected to yield the jobs the officials counted on, so burgeoning fits; a dwindling or fallow trade would give them nothing to hope for. Blank two takes an emotion as its object and must mean to soften it, which is assuage; compound would mean deepening the anger the officials wanted gone, and one does not betray a resentment that is already public.",
+      "id": "gregmat03__b2__tc2__06",
+      "unit": "gregmat03__b2",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Promised safe passage across the border, the courier {1} the location of the safe house, and the raid came before dawn.",
+      "blanks": [
+        {
+          "options": [
+            "betrayed",
+            "divulged",
+            "suppressed",
+            "misrepresented",
+            "recorded",
+            "verified"
+          ],
+          "answers": [
+            "betrayed",
+            "divulged"
+          ]
+        }
+      ],
+      "words": [
+        "betray"
+      ],
+      "explanation": "Here the courier acts deliberately and in breach of trust, so betray in its first sense — handing over what was entrusted — and divulge both produce a sentence in which the enemy learns the address, and the raid follows. Suppressed and misrepresented would keep the raiders away, and recorded or verified describe handling the information without passing it on.",
+      "id": "gregmat03__b2__se__07",
+      "unit": "gregmat03__b2",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Bucolic\" is the best answer — the listed images (meadows at dusk, a farmhouse where no one ever appears to be working) are idealized pastoral scenes, and the ironic \"though the milk arrives by tanker\" contrast depends on the imagery being a prettified fiction. But \"agrarian\" also literally fits: meadows, a milked cow, and a farmhouse are agrarian imagery, and the sentence's only real constraint is that the imagery be rural-farm-flavored and at odds with industrial tanker delivery — a constraint \"agrarian\" satisfies. The distinction rests entirely on connotation (idyllic/leisured vs. farming/land-cultivation), and the sentence never supplies a clue that positively excludes \"agrarian\"; the \"no one ever appears to be working\" detail is a soft hint at best, not a disqualifier. (\"Squalid,\" \"provincial,\" and \"feral\" are cleanly wrong.) To make this unique, the blank needs wording that demands the *idealizing* sense — e.g. adding that the images are \"improbably serene\" or \"a fantasy of rural ease\" — or \"agrarian\" should be replaced with a non-rural distractor.",
+      "stem": "The cooperative's advertisements trade in {1} imagery — meadows at dusk, a hand-milked cow, a farmhouse where no one ever appears to be working — though the milk itself arrives by tanker from a plant forty miles away."
+    }
+  ]
+}

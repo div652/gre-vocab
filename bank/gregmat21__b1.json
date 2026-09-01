@@ -1,0 +1,171 @@
+{
+  "unit": "gregmat21__b1",
+  "gregmat_group": 21,
+  "words": [
+    "barrage",
+    "cathartic",
+    "decipher",
+    "delusion"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "For three days after the editorial ran, the paper's ombudsman was {1} with calls from subscribers demanding a retraction, and he could not return even the most urgent of them.",
+      "blanks": [
+        {
+          "options": [
+            "barraged",
+            "inundated",
+            "regaled",
+            "mollified",
+            "entrusted",
+            "indulged"
+          ],
+          "answers": [
+            "barraged",
+            "inundated"
+          ]
+        }
+      ],
+      "words": [
+        "barrage"
+      ],
+      "explanation": "The volume is overwhelming and hostile and it pins the ombudsman down, so barraged and inundated both yield the same sentence: swamped past the point of response. Regaled, mollified and indulged are all idiomatic with \"with\" but make the calls pleasant or placating, which the demand for a retraction rules out; entrusted turns the calls into a duty conferred rather than an onslaught received.",
+      "id": "gregmat21__b1__se__01",
+      "unit": "gregmat21__b1",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Mourners often report that the wake, for all its awkwardness, proved unexpectedly {1}: grief that had been held rigidly in check for days at last broke, and, having broken, eased.",
+      "blanks": [
+        {
+          "options": [
+            "cathartic",
+            "palliative",
+            "innocuous",
+            "endemic",
+            "virulent"
+          ],
+          "answers": [
+            "cathartic"
+          ]
+        }
+      ],
+      "words": [
+        "cathartic"
+      ],
+      "explanation": "The sentence describes a build-up that breaks all at once and leaves relief behind — the defining shape of a cathartic experience. Palliative would mean the grief was merely dulled rather than discharged, which contradicts \"broke\"; innocuous, endemic and virulent describe harmlessness, prevalence and severity, none of which is a form of release.",
+      "id": "gregmat21__b1__cloze__03",
+      "unit": "gregmat21__b1",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "The only surviving copy of the treaty is so water-damaged that the crucial clause on succession is all but {1}, and scholars must reconstruct its terms from later summaries.",
+      "blanks": [
+        {
+          "options": [
+            "indecipherable",
+            "illegible",
+            "apocryphal",
+            "tendentious",
+            "superfluous",
+            "ambiguous"
+          ],
+          "answers": [
+            "indecipherable",
+            "illegible"
+          ]
+        }
+      ],
+      "words": [
+        "decipher"
+      ],
+      "explanation": "Water damage attacks the marks on the page, not the sense of the words, so the clause cannot be read at all: indecipherable and illegible give equivalent sentences. Ambiguous would mean the surviving text supports several readings, a difficulty of meaning rather than of legibility, and it has no partner among the options; apocryphal, tendentious and superfluous concern authenticity, bias and redundancy, none of which follows from physical damage.",
+      "id": "gregmat21__b1__se__05",
+      "unit": "gregmat21__b1",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "A {1} differs from an ordinary error in surviving its own refutation: show a credulous man the wires and the ghost vanishes, but show the court astrologer his failed prediction and his conviction is only further {2}, the disappointing evidence absorbed as one more proof of the system's subtlety.",
+      "blanks": [
+        {
+          "options": [
+            "delusion",
+            "allusion",
+            "conjecture"
+          ],
+          "answers": [
+            "delusion"
+          ]
+        },
+        {
+          "options": [
+            "entrenched",
+            "dispelled",
+            "undermined"
+          ],
+          "answers": [
+            "entrenched"
+          ]
+        }
+      ],
+      "words": [
+        "delusion"
+      ],
+      "explanation": "The defining trait named here — a false belief that outlives the evidence against it — is a delusion; a conjecture is provisional by nature and yields to disproof, and an allusion is an indirect reference, not a belief at all. The second blank must register that the refuting evidence strengthens the astrologer's conviction, so entrenched; dispelled and undermined both describe the belief giving way, which the clause about absorbing the evidence explicitly denies.",
+      "id": "gregmat21__b1__tc2__06",
+      "unit": "gregmat21__b1",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Long after the internal polling had turned catastrophic, the candidate went on promising a landslide — a {1} his aides stopped bothering to contest, having learned that contrary numbers only made him more certain.",
+      "blanks": [
+        {
+          "options": [
+            "delusion",
+            "illusion",
+            "pretense",
+            "allusion",
+            "hypothesis"
+          ],
+          "answers": [
+            "delusion"
+          ]
+        }
+      ],
+      "words": [
+        "delusion"
+      ],
+      "explanation": "The belief is held with full conviction and is strengthened rather than dissolved by disconfirming data, which is precisely a delusion. An illusion collapses once the evidence is shown; a pretense would mean he knew better and was performing, contradicted by \"made him more certain\"; a hypothesis is held tentatively, and an allusion is a reference rather than a belief.",
+      "id": "gregmat21__b1__cloze__07",
+      "unit": "gregmat21__b1",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 has two defensible answers. \"Barrage\" and \"volley\" are near-synonyms both idiomatic with \"questions,\" and both fit the sense of relentless press questioning. The sentence tries to discriminate with \"kept up ... unbroken for twenty minutes,\" which favors \"barrage\" (durative, sustained bombardment) over \"volley\" (technically a single simultaneous discharge). But figurative \"volley\" is commonly used for a rapid succession, and \"a volley of questions\" is a stock phrase — a reasonable test-taker could pick it and be marked wrong on a fine aspectual nuance the sentence only weakly enforces. Blank 1 is clean (\"buttress\" is unambiguous; \"undercut\" contradicts the minister's purpose and \"construe\" is ungrammatical here); the flaw is entirely in the second option set. Fix by replacing \"volley\" with a word that is clearly wrong in kind (e.g. \"rebuttal\" or \"digression\") rather than a synonym of the key.",
+      "stem": "The minister arrived with a statement crafted to {1} her position with fresh employment figures, but she never read a line of it: from the moment she reached the podium the press corps kept up a {2} of questions about the leaked memo, unbroken for twenty minutes and calculated to leave her no opening."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean and uniquely determined (cathartic). Blank 2 is not: both \"soothing\" and \"harrowing\" fit the sentence as written. The intended reading is presumably \"no merely soothing evening\" — i.e., gentle theatre can't produce pity and terror, so the horror is necessary. But \"no merely harrowing evening in the theatre could deliver\" is equally coherent and arguably better supported by the immediately preceding clause: the sentence has just insisted the horror is \"not an end in itself,\" so \"merely harrowing\" (harrowing without the discharge that follows) is precisely the deficient case, and it mirrors the reviewers' error of mistaking method for aim. Nothing after the blank disambiguates which deficiency \"merely\" points at — lack of intensity or lack of release — so a reasonable test-taker choosing \"harrowing\" would be marked wrong on a defensible reading. Rewriting the tail to name the missing element (e.g., \"…that no evening of unrelieved brutality could deliver\" for one reading, or \"…that no gentler, more consoling evening could deliver\" for the other) would fix it.",
+      "stem": "Reviewers who called the production gratuitously brutal mistook its method for its aim: the horror of the fourth act is not an end in itself but the precondition of the {1} discharge that follows, a release of pity and terror that no merely {2} evening in the theatre could deliver."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is unambiguous (fathom; transcribe/itemize the motives are incoherent), but blank {1} admits two defensible answers. \"Decipher\" is the better fit — faded ink plus a private shorthand are obstacles to making out the marks, and it forms the cleanest escalation with \"let alone fathom the motives.\" However, \"construe\" (to interpret the meaning of) also genuinely fits: illegible, coded entries block interpretation as well, and \"could not reliably construe the ledger's entries, let alone fathom the motives of the man who made them\" is idiomatic and still escalates from the entries to the person. Since \"fathom\" is used up by blank {2}, a test-taker who reads blank {1} as an interpretation step rather than a legibility step picks \"construe\" and is marked wrong. To make it unique, the first clause needs to pin the difficulty explicitly to reading the characters (e.g., \"could not even make out the characters\") or otherwise contrast reading against interpreting.",
+      "stem": "Because the ink had faded to a rust-colored blur and the clerk kept his accounts in a private shorthand, the historians could not reliably {1} the ledger's entries, let alone {2} the motives of the man who made them."
+    }
+  ]
+}

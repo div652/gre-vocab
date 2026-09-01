@@ -1,0 +1,238 @@
+{
+  "unit": "gregmat20__b6",
+  "gregmat_group": 20,
+  "words": [
+    "supplicate",
+    "terse",
+    "tirade",
+    "universal"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The treaty obliged the defeated city's magistrates to {1} for terms — the protocol prescribed even the placement of their hands — while the victorious consul watched from the dais, {2} enough that no one present could mistake the ceremony for a negotiation between equals.",
+      "blanks": [
+        {
+          "options": [
+            "supplicate",
+            "entreat",
+            "fawn"
+          ],
+          "answers": [
+            "supplicate"
+          ]
+        },
+        {
+          "options": [
+            "imperious",
+            "obsequious",
+            "deferential"
+          ],
+          "answers": [
+            "imperious"
+          ]
+        }
+      ],
+      "words": [
+        "supplicate"
+      ],
+      "explanation": "Blank 1 needs a word that carries bodily posture, since the protocol governs the hands: to supplicate is to ask from the knees, in prescribed form. Entreat names only earnest asking and has no posture, and fawn is flattery rather than petition. Blank 2 must invert that posture — the consul looks down from above, so imperious, not the two words for looking up from below.",
+      "id": "gregmat20__b6__tc2__00",
+      "unit": "gregmat20__b6",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "In the medieval rite the penitent did not merely ask but {1}: kneeling at the chancel step with palms turned upward, he was required to make his petition with his body as much as with his voice.",
+      "blanks": [
+        {
+          "options": [
+            "supplicate",
+            "entreat",
+            "grovel",
+            "fawn",
+            "importune"
+          ],
+          "answers": [
+            "supplicate"
+          ]
+        }
+      ],
+      "words": [
+        "supplicate"
+      ],
+      "explanation": "The clause \"not merely ask\" rules out entreat, which is simply earnest asking; what is added is the kneeling body, which is exactly what supplicate contributes. Grovel is abasement that shames the person doing it, whereas here the lowering is the correct liturgical form, and importune means to pester repeatedly.",
+      "id": "gregmat20__b6__cloze__01",
+      "unit": "gregmat20__b6",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Though scrupulously polite, the director's answer was so {1} — four sentences, no salutation, no closing — that the staff read it correctly as notice that further {2} on the matter would be unwelcome.",
+      "blanks": [
+        {
+          "options": [
+            "terse",
+            "prolix",
+            "obsequious"
+          ],
+          "answers": [
+            "terse"
+          ]
+        },
+        {
+          "options": [
+            "entreaty",
+            "approbation",
+            "economy"
+          ],
+          "answers": [
+            "entreaty"
+          ]
+        }
+      ],
+      "words": [
+        "terse",
+        "supplicate"
+      ],
+      "explanation": "Blank 1 must name shortness whose coldness is itself the message; terse fits a single utterance that is grammatically correct and emotionally shut, while prolix is its opposite and obsequious describes fawning, not brevity. Blank 2 follows from that chill: what is being refused is any further asking, so entreaty, not praise (approbation) or concision (economy).",
+      "id": "gregmat20__b6__tc2__02",
+      "unit": "gregmat20__b6",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Where Cicero needs a paragraph to destroy a man, Tacitus needs a clause; the {1} manner of the Annals leaves the reader to supply the indignation the historian himself withholds.",
+      "blanks": [
+        {
+          "options": [
+            "terse",
+            "laconic",
+            "prolix",
+            "turgid",
+            "mordant",
+            "sonorous"
+          ],
+          "answers": [
+            "terse",
+            "laconic"
+          ]
+        }
+      ],
+      "words": [
+        "terse"
+      ],
+      "explanation": "The comparison with Cicero's paragraph forces a word meaning stripped to the fewest words, which terse and laconic both supply. Prolix, turgid and sonorous all describe expansive or swollen prose and so contradict the contrast; mordant fits the tone of the sentence but means biting, and the stem explicitly says the indignation is withheld.",
+      "id": "gregmat20__b6__se__03",
+      "unit": "gregmat20__b6",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "What the pamphlet's admirers praised as a {1} — a sustained and closely reasoned assault on the ministry's finances — its enemies dismissed as a mere {2}, the work of a man who had lost his temper on page one and gone on writing for sixty pages more.",
+      "blanks": [
+        {
+          "options": [
+            "polemic",
+            "panegyric",
+            "recantation"
+          ],
+          "answers": [
+            "polemic"
+          ]
+        },
+        {
+          "options": [
+            "tirade",
+            "apologia",
+            "encomium"
+          ],
+          "answers": [
+            "tirade"
+          ]
+        }
+      ],
+      "words": [
+        "tirade"
+      ],
+      "explanation": "The two blanks are the same object under opposed descriptions: reasoned attack versus temper, so blank 1 takes polemic (argumentative attack) and blank 2 takes tirade, the word that convicts the speaker of losing control at length. Panegyric and encomium are praise, and an apologia is a defence, none of which can describe an assault on the ministry.",
+      "id": "gregmat20__b6__tc2__05",
+      "unit": "gregmat20__b6",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Searching the ethnographic archive for a single society that lacked it, investigators found none; song addressed to infants now appears to be {1} rather than merely, as earlier and more cautious surveys had concluded, common.",
+      "blanks": [
+        {
+          "options": [
+            "universal",
+            "ubiquitous",
+            "prevalent",
+            "widespread",
+            "sporadic",
+            "idiosyncratic"
+          ],
+          "answers": [
+            "universal",
+            "ubiquitous"
+          ]
+        }
+      ],
+      "words": [
+        "universal"
+      ],
+      "explanation": "\"Not a single society lacked it\" and the explicit contrast with \"merely common\" demand a claim of totality, which universal and ubiquitous both make. Prevalent and widespread are exactly the weaker, exception-tolerating words the sentence sets aside, and sporadic and idiosyncratic assert the opposite of pervasiveness.",
+      "id": "gregmat20__b6__se__06",
+      "unit": "gregmat20__b6",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Anthropologists long treated the prohibition as {1}, a rule of every society without exception; the documentation of a few genuine departures was therefore enough to force a retreat to the far weaker claim that it is merely {2}.",
+      "blanks": [
+        {
+          "options": [
+            "universal",
+            "anomalous",
+            "heterogeneous"
+          ],
+          "answers": [
+            "universal"
+          ]
+        },
+        {
+          "options": [
+            "widespread",
+            "categorical",
+            "unprecedented"
+          ],
+          "answers": [
+            "widespread"
+          ]
+        }
+      ],
+      "words": [
+        "universal"
+      ],
+      "explanation": "The appositive \"without exception\" fixes blank 1 as universal, the strength of which is what makes a handful of counterexamples fatal. Blank 2 must be the weaker fallback that tolerates those holdouts, so widespread; categorical would be a stronger claim, not a retreat, and unprecedented says something has never happened at all.",
+      "id": "gregmat20__b6__tc2__07",
+      "unit": "gregmat20__b6",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence supports at least three of the five options, so a reasonable test-taker could be marked wrong. The context establishes only \"a prolonged, loud, one-sided outpouring of anger that the chair had to cut off.\" \"Tirade\" is the best fit because the described progression (abandoning notes, then thesis, then subject) signals content-free rage rather than a structured attack, and \"tirade\" carries no requirement of a topic or target. But \"diatribe\" (a bitter, abusive denunciation) and \"harangue\" (a lengthy, aggressive lecture delivered at a captive audience — precisely a faculty meeting) are both fully idiomatic in the slot, and nothing in the sentence rules either out; the \"abandoned his subject\" clue is too subtle a discriminator to make the choice forced. \"Objurgation\" (harsh rebuke) is weaker, since no one is being scolded, and \"colloquy\" (a conversation/dialogue) is the only clean distractor, since the passage explicitly denies any exchange occurred. To make this usable the sentence needs a discriminator that actively excludes the near-synonyms — e.g. specifying a named target and an indictment (favoring \"diatribe\"), or a captive audience being lectured (favoring \"harangue\") — or the near-synonyms should be replaced with non-fitting options.",
+      "stem": "Colleagues remember the episode less as an argument than as a collapse: for forty minutes the professor shouted down every attempt to interrupt, abandoning his notes, then his thesis, and at last his subject, until the chair adjourned the meeting simply to end the {1}."
+    }
+  ]
+}

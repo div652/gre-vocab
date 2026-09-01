@@ -1,0 +1,260 @@
+{
+  "unit": "gregmat25__b2",
+  "gregmat_group": 25,
+  "words": [
+    "conclusive",
+    "conspire",
+    "delineate",
+    "disentangle"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The commission labeled its reconstruction of the crash {1}, since the flight recorder had been crushed beyond reading; only the recovery of the second data unit, the investigators wrote, could ever make the account {2}.",
+      "blanks": [
+        {
+          "options": [
+            "conjectural",
+            "incontrovertible",
+            "ironclad"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        },
+        {
+          "options": [
+            "conclusive",
+            "dubious",
+            "tenuous"
+          ],
+          "answers": [
+            "conclusive"
+          ]
+        }
+      ],
+      "words": [
+        "conclusive"
+      ],
+      "explanation": "With the primary evidence destroyed, the reconstruction can only be a reasoned guess — conjectural — so incontrovertible and ironclad, which assert the opposite, are impossible in blank one. Blank two names what the missing data unit would supply: the closing of the question, which is exactly conclusive; dubious and tenuous describe evidence that fails to close anything, and nothing would be gained by recovering a device in order to make an account doubtful.",
+      "id": "gregmat25__b2__tc2__00",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Defense counsel conceded that the DNA match, taken together with the timestamped surveillance footage, was {1}, and abandoned the alibi she had spent three days constructing.",
+      "blanks": [
+        {
+          "options": [
+            "conclusive",
+            "incontrovertible",
+            "plausible",
+            "credible",
+            "conjectural",
+            "tenuous"
+          ],
+          "answers": [
+            "conclusive",
+            "incontrovertible"
+          ]
+        }
+      ],
+      "words": [
+        "conclusive"
+      ],
+      "explanation": "Only evidence that ends the argument would force counsel to discard a defense she had built at length, and conclusive and incontrovertible both mean precisely that the matter is closed. Plausible and credible describe evidence one may still resist, which is why they form the trap pair here; conjectural and tenuous describe weak evidence and would leave the alibi worth keeping.",
+      "id": "gregmat25__b2__se__01",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing so purposeful as deliberate wrecking was involved — a failed radio, an unseasonable thaw, and a guide's sprained ankle merely {1} to strand the party for a week — yet with the campsite buried under snow every reconstruction of those days remained {2}, and rumors of foul play persisted for years.",
+      "blanks": [
+        {
+          "options": [
+            "conspired",
+            "colluded",
+            "intrigued"
+          ],
+          "answers": [
+            "conspired"
+          ]
+        },
+        {
+          "options": [
+            "conjectural",
+            "incontrovertible",
+            "ironclad"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "conspire"
+      ],
+      "explanation": "Of the plotting verbs, only conspire takes inanimate subjects in the half-joking fatalistic sense the sentence sets up: weather and equipment cannot collude or intrigue, since those require agents who can agree. The buried campsite leaves the record unverifiable and the rumors alive, so the reconstruction must be conjectural; incontrovertible and ironclad would make the persistence of rumor unintelligible.",
+      "id": "gregmat25__b2__tc2__02",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Letters recovered from the ambassador's estate show that three of the ministers had {1} with the exiled pretender for at least a year before the coup, meeting under assumed names in a rented house in Ostend.",
+      "blanks": [
+        {
+          "options": [
+            "conspired",
+            "colluded",
+            "collaborated",
+            "corresponded",
+            "abetted",
+            "premeditated"
+          ],
+          "answers": [
+            "conspired",
+            "colluded"
+          ]
+        }
+      ],
+      "words": [
+        "conspire"
+      ],
+      "explanation": "The assumed names and the coup supply both elements the answer needs — secrecy and a treacherous shared object — and conspired and colluded each carry that guilt inside them. Collaborated and corresponded fit the grammar and the period tone but describe innocent joint work or mere letter-writing; abetted and premeditated take direct objects rather than a with-phrase and name helping or forethought, not the secret agreement itself.",
+      "id": "gregmat25__b2__se__03",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Where his predecessor had {1} the competing jurisdictions of the two agencies, leaving field officers to guess in each case which one held authority, the new administrator {2} them, setting down in writing exactly where one mandate ended and the other began.",
+      "blanks": [
+        {
+          "options": [
+            "obscured",
+            "delineated",
+            "elucidated"
+          ],
+          "answers": [
+            "obscured"
+          ]
+        },
+        {
+          "options": [
+            "delineated",
+            "obfuscated",
+            "distilled"
+          ],
+          "answers": [
+            "delineated"
+          ]
+        }
+      ],
+      "words": [
+        "delineate"
+      ],
+      "explanation": "The officers' having to guess tells you the predecessor left the jurisdictions muddied, so obscured is required and its two clarifying rivals are ruled out. The second clause specifies where one mandate stops and the next starts, which is boundary work rather than simplification: that is delineated, whereas obfuscated repeats the predecessor's failure and distilled would mean reducing the mandates to their essence, not fixing their edges.",
+      "id": "gregmat25__b2__tc2__04",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "Weber's essay is valuable less for its account of bureaucratic motive than for its sustained effort to {1} the point at which administrative authority ends and political authority begins.",
+      "blanks": [
+        {
+          "options": [
+            "delineate",
+            "deliberate",
+            "denigrate",
+            "deprecate",
+            "obfuscate"
+          ],
+          "answers": [
+            "delineate"
+          ]
+        }
+      ],
+      "words": [
+        "delineate"
+      ],
+      "explanation": "The object is a boundary between two adjacent things, and delineate is the verb for marking exactly where one stops and the other starts. Deliberate means to weigh or consider and does not take such an object; denigrate and deprecate mean to disparage, and obfuscate would describe the failure the essay is being praised for avoiding.",
+      "id": "gregmat25__b2__cloze__05",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians of the revolt face a peculiar difficulty: paid propaganda and eyewitness testimony were set side by side in the same cheap pamphlets, so that {1} the two now demands the patience of a conservator, and any account advertising itself as an {2} narrative of the rising invites immediate suspicion.",
+      "blanks": [
+        {
+          "options": [
+            "disentangling",
+            "obfuscating",
+            "corroborating"
+          ],
+          "answers": [
+            "disentangling"
+          ]
+        },
+        {
+          "options": [
+            "ironclad",
+            "tentative",
+            "conjectural"
+          ],
+          "answers": [
+            "ironclad"
+          ]
+        }
+      ],
+      "words": [
+        "disentangle",
+        "conclusive"
+      ],
+      "explanation": "The two kinds of text grew together on the page and must now be separated slowly, strand by strand — the patience of a conservator points to disentangling, not to obfuscating them further or to corroborating one with the other. The second blank must name the overclaim that draws suspicion, so it is ironclad; tentative and conjectural are modest claims that no one would find suspicious.",
+      "id": "gregmat25__b2__tc2__06",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Scholars have spent a century trying to {1} the several hands at work in the Homeric poems, patiently separating layers of oral formula that grew into one another over many generations of singers.",
+      "blanks": [
+        {
+          "options": [
+            "disentangle",
+            "unravel",
+            "extricate",
+            "obfuscate",
+            "denigrate",
+            "corroborate"
+          ],
+          "answers": [
+            "disentangle",
+            "unravel"
+          ]
+        }
+      ],
+      "words": [
+        "disentangle"
+      ],
+      "explanation": "The layers are described as having grown into one another, and disentangle and unravel both name the slow, strand-by-strand undoing of exactly that kind of knot. Extricate would need something freed from a trap and connotes quick rescue rather than century-long patience; obfuscate and corroborate fit the scholarly register but name muddying and confirming, and denigrate names disparagement.",
+      "id": "gregmat25__b2__se__07",
+      "unit": "gregmat25__b2",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": []
+}

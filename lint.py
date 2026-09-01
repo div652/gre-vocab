@@ -122,11 +122,75 @@ def check(card: dict, path: Path) -> list[str]:
     return p
 
 
+BANK = Path(__file__).parent / "bank"
+
+
+def leaks(answer: str, stem: str) -> bool:
+    """Does the answer give itself away by appearing in the stem?
+
+    Must be prefix containment on whole tokens, not the loose 4-char stem used
+    for sentences. That looser rule flagged four questions falsely - 'assuage'
+    against "assumed", 'largesse' against "larger", 'contend' against
+    "controlled" - none of which reveal anything. Real leaks are inflections:
+    abound / abounded.
+    """
+    a = answer.strip().lower()
+    if len(a) < 4:
+        return False
+    for tok in re.findall(r"[a-z]+", stem.lower()):
+        if len(tok) < 4:
+            continue
+        if tok.startswith(a) or (a.startswith(tok) and len(tok) >= len(a) - 2):
+            return True
+    return False
+
+
+def check_bank() -> int:
+    files = sorted(BANK.glob("*.json"))
+    if not files:
+        print(f"no bank in {BANK}")
+        return 1
+    qs = [q for f in files for q in json.loads(f.read_text(encoding="utf-8"))["questions"]]
+    bad: list[tuple[str, list[str]]] = []
+    for q in qs:
+        p = []
+        if q["type"] == "tc2":
+            if len(q["blanks"]) != 2: p.append("tc2 needs 2 blanks")
+            if "{2}" not in q["stem"]: p.append("stem missing {2}")
+            if any(len(b["answers"]) != 1 for b in q["blanks"]): p.append("tc2 wants 1 answer per blank")
+        else:
+            if len(q["blanks"]) != 1: p.append("needs exactly 1 blank")
+            need = 2 if q["type"] == "se" else 1
+            if len(q["blanks"][0]["answers"]) != need: p.append(f"{q['type']} needs {need} answers")
+            if q["type"] == "se" and len(q["blanks"][0]["options"]) != 6: p.append("se needs 6 options")
+        if "{1}" not in q["stem"]: p.append("stem missing {1}")
+        for b in q["blanks"]:
+            if any(a not in b["options"] for a in b["answers"]): p.append("answer not among options")
+            if len(set(o.lower() for o in b["options"])) != len(b["options"]): p.append("duplicate options")
+            for a in b["answers"]:
+                if leaks(a, q["stem"]): p.append(f"answer '{a}' leaks into the stem")
+        if not (q.get("explanation") or "").strip(): p.append("no explanation")
+        if p: bad.append((q["id"], p))
+
+    print(f"{len(qs)} bank questions, {len(qs)-len(bad)} clean, {len(bad)} with problems")
+    print("types:", dict(Counter(q["type"] for q in qs)))
+    print("words covered:", len({w.lower() for q in qs for w in (q.get("words") or [])}))
+    if bad:
+        print("\ndetail:")
+        for qid, ps in bad[:30]:
+            print(f"  {qid}: {'; '.join(ps)}")
+    return 1 if bad else 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--fixlist", action="store_true")
+    ap.add_argument("--bank", action="store_true", help="check the generated question bank instead")
     args = ap.parse_args()
+
+    if args.bank:
+        return check_bank()
 
     files = sorted(CARDS.glob("*.json"))
     if not files:

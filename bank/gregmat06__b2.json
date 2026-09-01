@@ -1,0 +1,258 @@
+{
+  "unit": "gregmat06__b2",
+  "gregmat_group": 6,
+  "words": [
+    "dissemble",
+    "dogged",
+    "dupe",
+    "empirical"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though his private memoirs record the {1} with which he greeted the treaty's terms, everyone at the signing remembered only an unruffled courtesy — evidence of how completely the ambassador could {2} even an emotion of that force.",
+      "blanks": [
+        {
+          "options": [
+            "revulsion",
+            "equanimity",
+            "rectitude"
+          ],
+          "answers": [
+            "revulsion"
+          ]
+        },
+        {
+          "options": [
+            "dissemble",
+            "feign",
+            "corroborate"
+          ],
+          "answers": [
+            "dissemble"
+          ]
+        }
+      ],
+      "words": [
+        "dissemble"
+      ],
+      "explanation": "\"Though\" sets the private feeling against the public calm, so the first blank must name something violent enough to be worth hiding; equanimity would leave nothing concealed. Feign runs the wrong direction — it means manufacturing a feeling one does not have, whereas dissemble means covering a real one behind a composed exterior.",
+      "id": "gregmat06__b2__tc2__00",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Nine years of dead ends would have worn out anyone else, yet Wilkins went on knocking at the same doors, and it was this {1} refusal to let the case go, rather than any flash of deductive brilliance, that at last produced a witness.",
+      "blanks": [
+        {
+          "options": [
+            "dogged",
+            "pertinacious",
+            "dogmatic",
+            "doctrinaire",
+            "dilatory",
+            "mercurial"
+          ],
+          "answers": [
+            "dogged",
+            "pertinacious"
+          ]
+        }
+      ],
+      "words": [
+        "dogged"
+      ],
+      "explanation": "The sentence praises unglamorous endurance across years of failure and explicitly denies cleverness, which is exactly the territory of dogged and pertinacious. Dogmatic and doctrinaire are the lookalike trap — they form a synonymous pair of their own, but they describe rigid adherence to doctrine, not persistence; dilatory and mercurial contradict the sentence outright.",
+      "id": "gregmat06__b2__se__01",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the review board accepted the clinic's glowing testimonials without once demanding {1} corroboration — a controlled trial, a mortality table, anything arrived at by measurement — hundreds of patients were {2} into abandoning therapies that demonstrably worked.",
+      "blanks": [
+        {
+          "options": [
+            "empirical",
+            "anecdotal",
+            "tendentious"
+          ],
+          "answers": [
+            "empirical"
+          ]
+        },
+        {
+          "options": [
+            "duped",
+            "swindled",
+            "mollified"
+          ],
+          "answers": [
+            "duped"
+          ]
+        }
+      ],
+      "words": [
+        "empirical",
+        "dupe"
+      ],
+      "explanation": "The dash spells out what was missing — trials, tables, measurement — which is the definition of empirical evidence; anecdotal describes the testimonials the board did accept. Swindle requires being cheated of money or property, but what these patients lost was a true belief, and it is precisely credulity that dupe imputes to the victim.",
+      "id": "gregmat06__b2__tc2__02",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Kepler's three laws began as purely {1} generalizations — curves fitted to the tables of planetary positions Tycho Brahe had spent decades compiling — and acquired a causal rationale only when Newton derived them from gravitation.",
+      "blanks": [
+        {
+          "options": [
+            "empirical",
+            "a priori",
+            "axiomatic",
+            "fallacious",
+            "speculative"
+          ],
+          "answers": [
+            "empirical"
+          ]
+        }
+      ],
+      "words": [
+        "empirical"
+      ],
+      "explanation": "The laws are described as curves fitted to observed positions, with explanation arriving only later, which marks their source as observation rather than reasoning. A priori and axiomatic name the opposite source, and fallacious is a verdict on truth — empirical labels where a claim came from, never whether it is correct.",
+      "id": "gregmat06__b2__cloze__03",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "The pamphlet flatters its readers as {1} judges of evidence even while it labors to make {2} of them, a maneuver so brazen that later propagandists lifted it wholesale.",
+      "blanks": [
+        {
+          "options": [
+            "perspicacious",
+            "credulous",
+            "captious"
+          ],
+          "answers": [
+            "perspicacious"
+          ]
+        },
+        {
+          "options": [
+            "dupes",
+            "patrons",
+            "arbiters"
+          ],
+          "answers": [
+            "dupes"
+          ]
+        }
+      ],
+      "words": [
+        "dupe"
+      ],
+      "explanation": "Flattery requires a compliment, so the first blank must be laudatory, ruling out credulous and the fault-finding captious; the irony is that the flattered readers are in fact being taken in. Only dupe supplies a noun for the person successfully tricked, which is what \"even while\" demands as the counterweight to the compliment.",
+      "id": "gregmat06__b2__tc2__04",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Pepys's diary is valuable precisely because, written in a shorthand no colleague could decipher, it gave him no occasion to {1}: down go the envy, the vanity and the petty grudges that his public manner was built to smooth away.",
+      "blanks": [
+        {
+          "options": [
+            "dissemble",
+            "prevaricate",
+            "demur",
+            "recant",
+            "extemporize"
+          ],
+          "answers": [
+            "dissemble"
+          ]
+        }
+      ],
+      "words": [
+        "dissemble"
+      ],
+      "explanation": "The contrast is between feelings actually held and the face presented to colleagues, which is the specific work of dissembling — concealing real motives behind an agreeable front. Prevaricate concerns evasive statements made to someone who has asked a question, and nothing here is being asked, denied, or retracted.",
+      "id": "gregmat06__b2__cloze__05",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues who had written Rous off as {1} — forever seizing on a hypothesis and dropping it a season later — were confounded by the {2} with which he pursued the tumor-virus question through five decades of institutional indifference.",
+      "blanks": [
+        {
+          "options": [
+            "mercurial",
+            "punctilious",
+            "indolent"
+          ],
+          "answers": [
+            "mercurial"
+          ]
+        },
+        {
+          "options": [
+            "doggedness",
+            "dogmatism",
+            "diffidence"
+          ],
+          "answers": [
+            "doggedness"
+          ]
+        }
+      ],
+      "words": [
+        "dogged"
+      ],
+      "explanation": "The dash defines the first blank as taking things up and abandoning them, which is inconstancy rather than laziness or fastidiousness. Dogmatism would describe rigid conviction about the hypothesis, not the unglamorous refusal to quit across fifty years that the sentence actually credits him with.",
+      "id": "gregmat06__b2__tc2__06",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "For nearly a decade the forged Hitler diaries {1} not only tabloid editors but two eminent historians into pronouncing the volumes authentic, until a laboratory found postwar polyester in their bindings.",
+      "blanks": [
+        {
+          "options": [
+            "duped",
+            "beguiled",
+            "cajoled",
+            "wheedled",
+            "embarrassed",
+            "deterred"
+          ],
+          "answers": [
+            "duped",
+            "beguiled"
+          ]
+        }
+      ],
+      "words": [
+        "dupe"
+      ],
+      "explanation": "What the forgery produced was false belief in credulous experts, and duped and beguiled both mean led into that belief by deception. Cajole and wheedle form a tempting second pair, but they denote coaxing by flattery or pleading — something a document cannot do, and which describes pressure to act rather than being taken in.",
+      "id": "gregmat06__b2__se__07",
+      "unit": "gregmat06__b2",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,184 @@
+{
+  "unit": "gregmat01__b3",
+  "gregmat_group": 1,
+  "words": [
+    "disseminate",
+    "feasible",
+    "flout",
+    "homogeneous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the ministry's own bulletins reached only the capital, public-health officers used village radio to {1} the new quarantine rules across the countryside; that so many households then {2} them in plain view of the inspectors suggests the failure lay not in reach but in trust.",
+      "blanks": [
+        {
+          "options": [
+            "disseminate",
+            "divulge",
+            "suppress"
+          ],
+          "answers": [
+            "disseminate"
+          ]
+        },
+        {
+          "options": [
+            "flouted",
+            "heeded",
+            "misconstrued"
+          ],
+          "answers": [
+            "flouted"
+          ]
+        }
+      ],
+      "words": [
+        "disseminate",
+        "flout"
+      ],
+      "explanation": "The first blank needs a deliberate one-to-many push of official content to a whole population, which is disseminate; divulge would make the rules a secret being let slip to someone, and suppress reverses the logic of using radio to reach people. The second blank is fixed by \"in plain view\" and by the closing contrast: the rules arrived and were understood, so the breach was open defiance (flouted), not obedience (heeded) or misunderstanding (misconstrued).",
+      "id": "gregmat01__b3__tc2__00",
+      "unit": "gregmat01__b3",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission kept its two judgments carefully apart: with the concrete stockpiled, the labor contracted, and twelve years allotted, the sea wall was plainly {1}; whether it was anything but {2}, given that the town behind it was emptying year by year, the engineers declined to say.",
+      "blanks": [
+        {
+          "options": [
+            "feasible",
+            "fanciful",
+            "efficacious"
+          ],
+          "answers": [
+            "feasible"
+          ]
+        },
+        {
+          "options": [
+            "futile",
+            "arduous",
+            "exorbitant"
+          ],
+          "answers": [
+            "futile"
+          ]
+        }
+      ],
+      "words": [
+        "feasible"
+      ],
+      "explanation": "The inventory of materials, labor, and time is a ruling on resources alone, which is exactly what feasible certifies; fanciful contradicts that inventory, and efficacious would claim the wall works, a question the second clause says the engineers refused to touch. The second blank must state the doubt raised by a town that is emptying — a wall protecting nobody is pointless, hence futile, whereas arduous and exorbitant speak to effort and cost, which the first clause has already settled.",
+      "id": "gregmat01__b3__tc2__01",
+      "unit": "gregmat01__b3",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Nineteenth-century travelers described the valley as culturally {1}, a single people speaking a single tongue; yet tax rolls naming four languages and three liturgies suggest a population far more {2} than any of those accounts allow.",
+      "blanks": [
+        {
+          "options": [
+            "homogeneous",
+            "heterodox",
+            "factious"
+          ],
+          "answers": [
+            "homogeneous"
+          ]
+        },
+        {
+          "options": [
+            "heterogeneous",
+            "fungible",
+            "uniform"
+          ],
+          "answers": [
+            "heterogeneous"
+          ]
+        }
+      ],
+      "words": [
+        "homogeneous"
+      ],
+      "explanation": "The appositive \"a single people speaking a single tongue\" defines the first blank as sameness of composition, which is homogeneous; heterodox concerns departure from orthodox doctrine and factious concerns internal quarrelling, neither of which the appositive describes. The \"yet\" plus the four languages forces the second blank to reverse the first, so heterogeneous is required — uniform would merely repeat the travelers' claim, and fungible means interchangeable in value, which says nothing about internal variety.",
+      "id": "gregmat01__b3__tc2__05",
+      "unit": "gregmat01__b3",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "Solar-sail propulsion stayed a blackboard exercise for decades not because anyone doubted the physics but because no one could make a sheet of the necessary area and thinness; only when polymer manufacture caught up did such a craft become {1} to build.",
+      "blanks": [
+        {
+          "options": [
+            "feasible",
+            "plausible",
+            "tenable",
+            "efficacious",
+            "quixotic"
+          ],
+          "answers": [
+            "feasible"
+          ]
+        }
+      ],
+      "words": [
+        "feasible"
+      ],
+      "explanation": "What changed was the availability of materials, and feasible is the word that measures a project against the resources actually in hand. Plausible and tenable concern whether a claim can be believed or defended — explicitly excluded, since the physics was never in doubt — while efficacious would judge how well the sail works, and quixotic reverses the sentence.",
+      "id": "gregmat01__b3__cloze__06",
+      "unit": "gregmat01__b3",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "The duke did not quietly contravene the sumptuary statutes; he {1} them, parading through the cathedral square on the feast day in the very silks the law had named.",
+      "blanks": [
+        {
+          "options": [
+            "flouted",
+            "abrogated",
+            "evaded",
+            "deplored",
+            "ratified"
+          ],
+          "answers": [
+            "flouted"
+          ]
+        }
+      ],
+      "words": [
+        "flout"
+      ],
+      "explanation": "The semicolon sets \"quietly\" against a public breach staged for an audience, and flout is the verb that adds exactly that visible contempt to the act of breaking a rule. Evaded implies the concealment the parading rules out, abrogated would mean formally repealing the statutes rather than violating them, deplored has the duke merely objecting, and ratified makes him endorse the law he is defying.",
+      "id": "gregmat01__b3__cloze__07",
+      "unit": "gregmat01__b3",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": [
+    {
+      "why": "structure: needs 1 blank",
+      "problem": null,
+      "stem": "Cheap letterpress printing allowed the sect to {1} its doctrines far beyond the three parishes where they had first taken root; within a decade its pamphlets were turning up in market towns two hundred miles away."
+    },
+    {
+      "why": "structure: needs 1 blank",
+      "problem": null,
+      "stem": "Openly and with evident relish, the guild masters {1} the ban on imported cloth, hanging bolts of Flemish wool in the windows that faced the magistrate's own house."
+    },
+    {
+      "why": "structure: needs 1 blank",
+      "problem": null,
+      "stem": "Cores drilled at twenty points across the lava field proved surprisingly {1}: the same fine-grained basalt at every depth, with none of the ash bands that a long pause between eruptions would have left behind."
+    }
+  ]
+}

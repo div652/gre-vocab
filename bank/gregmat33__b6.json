@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat33__b6",
+  "gregmat_group": 33,
+  "words": [
+    "sober",
+    "stem from",
+    "subdued",
+    "token"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Earlier biographers had built whole chapters on {1} conjecture about the poet's supposed affairs; Marchetti's volume is by contrast so {2} in its handling of evidence that it declines even to name correspondents whose letters have not survived.",
+      "blanks": [
+        {
+          "options": [
+            "frivolous",
+            "austere",
+            "cursory"
+          ],
+          "answers": [
+            "frivolous"
+          ]
+        },
+        {
+          "options": [
+            "sober",
+            "staid",
+            "perfunctory"
+          ],
+          "answers": [
+            "sober"
+          ]
+        }
+      ],
+      "words": [
+        "sober"
+      ],
+      "explanation": "Chapters \"built\" on unfounded speculation about affairs are self-indulgent, i.e. frivolous, not austere (self-denying) or cursory (hasty — one does not build whole chapters cursorily). The contrast demands a word for judgment unclouded by appetite or hope, which is sober; staid describes a prim manner rather than evidentiary rigor, and perfunctory would mean the evidence was handled carelessly, the opposite of refusing to go beyond it.",
+      "id": "gregmat33__b6__tc2__00",
+      "unit": "gregmat33__b6",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The renovation replaced the previous décor's clashing primaries with a {1} palette of greys, ochres, and unpolished oak.",
+      "blanks": [
+        {
+          "options": [
+            "sober",
+            "subdued",
+            "decadent",
+            "cacophonous",
+            "boisterous",
+            "frenetic"
+          ],
+          "answers": [
+            "sober",
+            "subdued"
+          ]
+        }
+      ],
+      "words": [
+        "sober",
+        "subdued"
+      ],
+      "explanation": "Greys and ochres set against \"clashing primaries\" require a word for muted and quietly restrained: applied to colour, sober and subdued are interchangeable and carry no sadness, only tastefulness. Cacophonous is the trap — it is genuinely used of clashing colour schemes, but it describes what was removed; decadent and boisterous likewise fit the noun while reversing the sense.",
+      "id": "gregmat33__b6__se__01",
+      "unit": "gregmat33__b6",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "The unrest {1} not from any single grievance but from decades of quiet exclusion, and the ministry's answer — one advisory council, unfunded and unable to summon witnesses — was so plainly a {2} gesture that it deepened the anger it was meant to soothe.",
+      "blanks": [
+        {
+          "options": [
+            "stemmed",
+            "ascribed",
+            "attributed"
+          ],
+          "answers": [
+            "stemmed"
+          ]
+        },
+        {
+          "options": [
+            "token",
+            "magnanimous",
+            "clamorous"
+          ],
+          "answers": [
+            "token"
+          ]
+        }
+      ],
+      "words": [
+        "stem from",
+        "token"
+      ],
+      "explanation": "With the effect (the unrest) as subject and the origin as object, only stemmed works; ascribe and attribute need a person doing the assigning and take \"to,\" not \"from\" — the sentence has no such claimant. A council deliberately sized to look like compliance while guaranteeing nothing is the classic token gesture, whereas magnanimous would concede real generosity and clamorous describes noise, not minimalism.",
+      "id": "gregmat33__b6__tc2__02",
+      "unit": "gregmat33__b6",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "The bank gave employee representatives one seat on a fifteen-member board — a real vote, cast in real meetings, but a {1} one, sized precisely to satisfy the regulator without putting any decision at risk.",
+      "blanks": [
+        {
+          "options": [
+            "token",
+            "perfunctory",
+            "cursory",
+            "nominal",
+            "superficial"
+          ],
+          "answers": [
+            "token"
+          ]
+        }
+      ],
+      "words": [
+        "token"
+      ],
+      "explanation": "Token is the only one of these that attacks the quantity and imputes strategy: the concession was calculated to be the smallest thing that still counts. Nominal is excluded outright by \"a real vote, cast in real meetings\" (the seat is not in name only), and perfunctory, cursory, and superficial all impute carelessness or haste, which \"sized precisely\" flatly contradicts.",
+      "id": "gregmat33__b6__cloze__03",
+      "unit": "gregmat33__b6",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Three pages of {1} arithmetic — half the reserves booked as recoverable had in fact already been pumped — put an end to a decade of expansion talk in the boardroom.",
+      "blanks": [
+        {
+          "options": [
+            "sobering",
+            "galvanizing",
+            "droll",
+            "austere",
+            "frenetic"
+          ],
+          "answers": [
+            "sobering"
+          ]
+        }
+      ],
+      "words": [
+        "sober"
+      ],
+      "explanation": "Figures that jolt a room out of comfortable optimism and silence its expansion plans are sobering. Galvanizing is the closest competitor in force but points the other way — it spurs a body into action rather than deflating its hopes — and droll, austere, and frenetic describe humor, plainness, and agitation rather than a shock to unwarranted confidence.",
+      "id": "gregmat33__b6__cloze__05",
+      "unit": "gregmat33__b6",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "The mood at the product launch was {1} rather than celebratory, since word of the layoffs had reached the floor an hour earlier; even the after-dinner speeches, normally {2}, were kept brief and free of jokes.",
+      "blanks": [
+        {
+          "options": [
+            "subdued",
+            "placid",
+            "obstreperous"
+          ],
+          "answers": [
+            "subdued"
+          ]
+        },
+        {
+          "options": [
+            "bawdy",
+            "somnolent",
+            "perfunctory"
+          ],
+          "answers": [
+            "bawdy"
+          ]
+        }
+      ],
+      "words": [
+        "subdued",
+        "sober"
+      ],
+      "explanation": "An hour-old rumor pressing a celebration down calls for subdued, which names a fall from an expected higher pitch; placid would describe untroubled calm with no cause behind it, and obstreperous reverses the sense. \"Free of jokes\" fixes the second blank on bawdy — speeches that are normally coarse and jocular — while somnolent and perfunctory would give no reason for the jokes to be missed.",
+      "id": "gregmat33__b6__tc2__06",
+      "unit": "gregmat33__b6",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The party's collapse {1} from a contradiction present at its founding: it had promised deep tax cuts and an expanded pension in the same manifesto.",
+      "blanks": [
+        {
+          "options": [
+            "stemmed",
+            "arose",
+            "recoiled",
+            "diverged",
+            "ascribed",
+            "attributed"
+          ],
+          "answers": [
+            "stemmed",
+            "arose"
+          ]
+        }
+      ],
+      "words": [
+        "stem from"
+      ],
+      "explanation": "Both stemmed and arose take the effect as subject and trace it backward to its origin, yielding sentences of the same meaning. Recoiled and diverged fit the grammar and the tone but say the collapse pulled away from the contradiction rather than issuing from it, and ascribed and attributed require an agent doing the assigning, with \"to\" rather than \"from.\"",
+      "id": "gregmat33__b6__se__07",
+      "unit": "gregmat33__b6",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['taciturn'] vs ['subdued']",
+      "problem": "Two options genuinely fit. \"Taciturn\" is supported by the speech-specific clue (baited reporters all season -> now answers in monosyllables), but \"subdued\" fits at least as well: it is the standard collocation for a losing locker room, it covers the monosyllabic answers, and it additionally explains \"left early\" (dejection), which taciturn does not. Taciturn also sits awkwardly with \"uncharacteristically,\" since it names a habitual disposition of persons rather than a one-night state of a room. The sentence does not disambiguate between reticence and deflation, so a reasonable test-taker choosing \"subdued\" would be marked wrong. (Placid, phlegmatic, and staid are all safely excluded -- they describe unexcitable or sedate temperament, not silence, and are not contradicted by reporter-baiting.)",
+      "stem": "The locker room after the elimination game was uncharacteristically {1}: players who had baited reporters all season now answered in monosyllables and left early."
+    }
+  ]
+}

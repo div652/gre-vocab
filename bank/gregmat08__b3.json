@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat08__b3",
+  "gregmat_group": 8,
+  "words": [
+    "momentary",
+    "mundane",
+    "nettlesome",
+    "nullify"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Counsel insisted that the outburst revealed no {1} hostility toward the witness, only a {2} lapse of temper — four seconds of raised voice that ought not to be weighed against a decade of exemplary service.",
+      "blanks": [
+        {
+          "options": [
+            "entrenched",
+            "evanescent",
+            "anomalous"
+          ],
+          "answers": [
+            "entrenched"
+          ]
+        },
+        {
+          "options": [
+            "momentary",
+            "protracted",
+            "perennial"
+          ],
+          "answers": [
+            "momentary"
+          ]
+        }
+      ],
+      "words": [
+        "momentary"
+      ],
+      "explanation": "The defense sets a settled disposition against a four-second slip, so blank one needs a word for something fixed and long-established (entrenched) and blank two needs the shortest duration word available. Momentary is exactly the term for an instant, and it is the one that does defensive work — asking that the failure be waived; protracted and perennial both contradict \"four seconds,\" and evanescent describes something fading, not something rooted.",
+      "id": "gregmat08__b3__tc2__00",
+      "unit": "gregmat08__b3",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The diarist's attention is strikingly undiscriminating: he gives as many pages to the {1} business of provisioning the household — flour, candles, laundry — as to the siege outside the walls, and records both without a trace of condescension.",
+      "blanks": [
+        {
+          "options": [
+            "mundane",
+            "quotidian",
+            "banal",
+            "arcane",
+            "august",
+            "onerous"
+          ],
+          "answers": [
+            "mundane",
+            "quotidian"
+          ]
+        }
+      ],
+      "words": [
+        "mundane"
+      ],
+      "explanation": "The sentence needs a word placing the household chores at ground level, everyday and unremarkable, and \"without a trace of condescension\" forbids any sneer: mundane and quotidian both do this neutrally. Banal is the trap — it passes a verdict of staleness and unoriginality, precisely the contempt the diarist is said to withhold; arcane, august, and onerous each fit the grammar but change the claim to obscure, dignified, or burdensome.",
+      "id": "gregmat08__b3__se__02",
+      "unit": "gregmat08__b3",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Committee work is {1} by design — agendas, minutes, quorums, all of it deliberately dull — yet that flat surface conceals a {2} question that no procedural reform has ever settled: who decides what reaches the agenda in the first place.",
+      "blanks": [
+        {
+          "options": [
+            "mundane",
+            "outlandish",
+            "august"
+          ],
+          "answers": [
+            "mundane"
+          ]
+        },
+        {
+          "options": [
+            "nettlesome",
+            "momentary",
+            "negligible"
+          ],
+          "answers": [
+            "nettlesome"
+          ]
+        }
+      ],
+      "words": [
+        "mundane",
+        "nettlesome"
+      ],
+      "explanation": "The list of routine procedural apparatus fixes blank one as ordinary and low-level, which mundane supplies without judgment, while outlandish and august point in opposite directions. Blank two must name a problem that resists solution and keeps returning — nettlesome, the bookish word for a persistent thorn; momentary is ruled out by \"no procedural reform has ever settled,\" and negligible is ruled out by \"conceals,\" which promises something that matters.",
+      "id": "gregmat08__b3__tc2__03",
+      "unit": "gregmat08__b3",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The treaty fixed the border to everyone's satisfaction but left a {1} question of fishing rights that four successive commissions have failed to settle and that resurfaces at every renegotiation.",
+      "blanks": [
+        {
+          "options": [
+            "nettlesome",
+            "vexing",
+            "tractable",
+            "trifling",
+            "arcane",
+            "moot"
+          ],
+          "answers": [
+            "nettlesome",
+            "vexing"
+          ]
+        }
+      ],
+      "words": [
+        "nettlesome"
+      ],
+      "explanation": "A question that four commissions could not resolve and that keeps coming back is nagging and thorny rather than explosive, which is precisely nettlesome, and vexing is its near-equivalent here. Moot is the sharpest trap — it means the question no longer has practical bearing, the opposite of one that resurfaces; tractable and trifling deny the difficulty outright, and arcane makes it obscure rather than irritating.",
+      "id": "gregmat08__b3__se__04",
+      "unit": "gregmat08__b3",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "Successive editors treated the misattributed epigraph as a {1} detail — never grave enough to halt publication, never quite fixable either — and so it was reproduced, with an apologetic footnote, in edition after edition.",
+      "blanks": [
+        {
+          "options": [
+            "nettlesome",
+            "infuriating",
+            "momentary",
+            "tedious",
+            "banal"
+          ],
+          "answers": [
+            "nettlesome"
+          ]
+        }
+      ],
+      "words": [
+        "nettlesome"
+      ],
+      "explanation": "The detail stings, resists clean solution, and keeps recurring without ever becoming a crisis — the exact scale and register of nettlesome. Infuriating is too hot and loud for a bibliographic footnote; tedious would say the detail wears editors out, banal would call it unoriginal, and momentary contradicts a problem surviving edition after edition.",
+      "id": "gregmat08__b3__cloze__05",
+      "unit": "gregmat08__b3",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the two provisions {1} each other exactly — one indexing pensions to inflation, the other freezing total outlays at the previous year's level — the practical effect of the celebrated reform on retirees was {2}.",
+      "blanks": [
+        {
+          "options": [
+            "nullified",
+            "reinforced",
+            "superseded"
+          ],
+          "answers": [
+            "nullified"
+          ]
+        },
+        {
+          "options": [
+            "nil",
+            "cumulative",
+            "salutary"
+          ],
+          "answers": [
+            "nil"
+          ]
+        }
+      ],
+      "words": [
+        "nullify"
+      ],
+      "explanation": "Two opposing provisions meeting and canceling with nothing left over is the arithmetic sense of nullify, which requires no authority at all — inflation or an offsetting clause will do — and it forces blank two to zero. Superseded would mean one provision replaced the other, not that they canceled mutually; reinforced and the paired \"cumulative\" or \"salutary\" would require the two measures to pull the same way.",
+      "id": "gregmat08__b3__tc2__06",
+      "unit": "gregmat08__b3",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Finding that the jurors had been instructed in error, the appellate court {1} the verdict, which now carries no more legal force than if it had never been returned.",
+      "blanks": [
+        {
+          "options": [
+            "nullified",
+            "voided",
+            "undermined",
+            "mitigated",
+            "eradicated",
+            "reinstated"
+          ],
+          "answers": [
+            "nullified",
+            "voided"
+          ]
+        }
+      ],
+      "words": [
+        "nullify"
+      ],
+      "explanation": "\"No more legal force than if it had never been returned\" demands total cancellation of effect, which nullified and voided both deliver. Undermined leaves the verdict standing but shaky and mitigated leaves a remainder, so neither reaches zero; eradicated is wrong in register for a legal instrument, and reinstated reverses the sentence's meaning.",
+      "id": "gregmat08__b3__se__07",
+      "unit": "gregmat08__b3",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options are defensible. The sentence only constrains the blank to \"very brief\" (the \"perhaps three seconds\" gloss, contrasted with \"any pattern of crew fatigue\"), which rules out chronic, protracted, and entrenched — but both \"momentary\" and \"ephemeral\" mean short-lived. Nothing in the sentence discriminates between them except collocation (\"ephemeral\" idiomatically modifies things that exist and then fade — fame, beauty — rather than a three-second lapse), and that is a stylistic preference, not a constraint the sentence imposes. A reasonable test-taker could choose \"ephemeral\" and be marked wrong. Fix by replacing \"ephemeral\" with a long-duration distractor (e.g. \"habitual\") so only one brief-duration option remains.",
+      "stem": "The incident report attributes the near-miss to a {1} inattention at the controls — perhaps three seconds — rather than to any pattern of crew fatigue."
+    }
+  ]
+}

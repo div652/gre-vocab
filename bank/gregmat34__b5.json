@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat34__b5",
+  "gregmat_group": 34,
+  "words": [
+    "omit",
+    "ornate",
+    "paltry",
+    "pejorative"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the compilers of the first edition had quietly {1} every term they judged indecent, later scholars wrongly inferred that such language was rare in the period; the few vulgarisms that did make it into the text were tagged with labels — \"low\", \"coarse\" — that were frankly {2} rather than descriptive.",
+      "blanks": [
+        {
+          "options": [
+            "omitted",
+            "embellished",
+            "catalogued"
+          ],
+          "answers": [
+            "omitted"
+          ]
+        },
+        {
+          "options": [
+            "pejorative",
+            "laudatory",
+            "euphemistic"
+          ],
+          "answers": [
+            "pejorative"
+          ]
+        }
+      ],
+      "words": [
+        "omit",
+        "pejorative"
+      ],
+      "explanation": "The second half — \"the few vulgarisms that did make it into the text\" — establishes that the rest never got in at all, which is exactly omission; \"catalogued\" would have preserved them and \"embellished\" describes decoration, not exclusion. \"Low\" and \"coarse\" are labels that express contempt for a word, the precise job of a pejorative; \"euphemistic\" would mean the labels softened the words rather than sneering at them, and \"laudatory\" reverses the sense.",
+      "id": "gregmat34__b5__tc2__00",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "The chapel's {1} rood screen — every inch of it carved, gilded, and crocketed — is the more astonishing beside the churchwardens' accounts, which record a {2} payment for the work, barely a quarter of the sum the carvers had been promised.",
+      "blanks": [
+        {
+          "options": [
+            "ornate",
+            "austere",
+            "utilitarian"
+          ],
+          "answers": [
+            "ornate"
+          ]
+        },
+        {
+          "options": [
+            "paltry",
+            "princely",
+            "provisional"
+          ],
+          "answers": [
+            "paltry"
+          ]
+        }
+      ],
+      "words": [
+        "ornate",
+        "paltry"
+      ],
+      "explanation": "\"Carved, gilded, and crocketed\" is surface decoration piled on, which is what ornate names; austere and utilitarian both describe the absence of such ornament. The payment is measured against what was promised and falls insultingly short, which is paltry's implied comparison — \"princely\" reverses it, and \"provisional\" says the payment was temporary rather than contemptibly small.",
+      "id": "gregmat34__b5__tc2__01",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Modern editors of the journals have {1} the long devotional passages, on the theory that readers come for the gossip; the effect is to make a writer whose prose was in fact densely {2} sound as brisk and plain as a newspaperman.",
+      "blanks": [
+        {
+          "options": [
+            "omitted",
+            "annotated",
+            "restored"
+          ],
+          "answers": [
+            "omitted"
+          ]
+        },
+        {
+          "options": [
+            "ornate",
+            "laconic",
+            "colloquial"
+          ],
+          "answers": [
+            "ornate"
+          ]
+        }
+      ],
+      "words": [
+        "omit",
+        "ornate"
+      ],
+      "explanation": "Only leaving the passages out can produce the stated effect: annotating them or restoring them would keep the elaborate prose in view. The contrast with \"brisk and plain\" requires a word for prose thick with ornament, so ornate fits, whereas laconic is nearly a synonym for brisk and colloquial would be consistent with plainness rather than opposed to it.",
+      "id": "gregmat34__b5__tc2__02",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers who had praised the {1} manner of the early novels — the piled-up epithets, the sentences that curl back on themselves — found the same habits insufferable in a book about famine.",
+      "blanks": [
+        {
+          "options": [
+            "ornate",
+            "florid",
+            "unadorned",
+            "derivative",
+            "ponderous",
+            "understated"
+          ],
+          "answers": [
+            "ornate",
+            "florid"
+          ]
+        }
+      ],
+      "words": [
+        "ornate"
+      ],
+      "explanation": "Piled-up epithets and self-involving sentences describe prose laid thick with decoration, which both ornate and florid name. Unadorned and understated say the opposite; ponderous points at heaviness and slowness rather than ornament, and derivative concerns originality, not surface.",
+      "id": "gregmat34__b5__se__03",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "\"Bureaucrat\" entered English as a neutral description of an office-holder, but by the end of the nineteenth century the word had become so thoroughly {1} that no civil servant would have applied it to himself.",
+      "blanks": [
+        {
+          "options": [
+            "pejorative",
+            "derogatory",
+            "euphemistic",
+            "archaic",
+            "technical",
+            "ubiquitous"
+          ],
+          "answers": [
+            "pejorative",
+            "derogatory"
+          ]
+        }
+      ],
+      "words": [
+        "pejorative"
+      ],
+      "explanation": "The contrast with \"neutral\" and the fact that no one would claim the label point to a word that now belittles whoever it is applied to: pejorative and derogatory are equivalent here. Euphemistic would mean the word softened something unpleasant, archaic that it had merely fallen out of use, and technical that it had narrowed into jargon — none of which explains the civil servant's refusal.",
+      "id": "gregmat34__b5__se__04",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "The company's final offer — {1} compensation for a decade of exposure, as the miners' solicitor described it — was rejected within the hour, less because it fell short than because it gave offence.",
+      "blanks": [
+        {
+          "options": [
+            "paltry",
+            "derisory",
+            "belated",
+            "conditional",
+            "punitive",
+            "generous"
+          ],
+          "answers": [
+            "paltry",
+            "derisory"
+          ]
+        }
+      ],
+      "words": [
+        "paltry"
+      ],
+      "explanation": "\"Less because it fell short than because it gave offence\" asks for a word that sneers at the amount rather than merely measuring it, and paltry and derisory both say the sum insults whoever offered it. Belated and conditional are plausible complaints about an offer but concern timing and terms, punitive would make the sum a penalty rather than a payment, and generous contradicts the rejection.",
+      "id": "gregmat34__b5__se__05",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Audit rules distinguish sharply between falsifying a figure and simply {1} one: a liability that never appears on the balance sheet misleads just as effectively, yet leaves no altered entry for an inspector to catch.",
+      "blanks": [
+        {
+          "options": [
+            "omitting",
+            "deleting",
+            "inflating",
+            "disputing",
+            "itemizing"
+          ],
+          "answers": [
+            "omitting"
+          ]
+        }
+      ],
+      "words": [
+        "omit"
+      ],
+      "explanation": "The liability \"never appears\" and there is \"no altered entry,\" so nothing was ever recorded and then removed — that is omission, a fault of absence. Deleting is the trap: it presupposes the figure was there and was taken out, which would leave exactly the trace the sentence says is missing.",
+      "id": "gregmat34__b5__cloze__06",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Sullivan's later commercial blocks are often described as severe cages of steel and glass, but the description holds only at a distance: approach the entrance and you meet an {1} band of pressed terracotta foliage, a cheap material worked to within an inch of its life.",
+      "blanks": [
+        {
+          "options": [
+            "ornate",
+            "opulent",
+            "austere",
+            "utilitarian",
+            "understated"
+          ],
+          "answers": [
+            "ornate"
+          ]
+        }
+      ],
+      "words": [
+        "ornate"
+      ],
+      "explanation": "Foliage worked over every inch of a surface is decoration added on top of the building, which is precisely ornate. Opulent is the near miss — it claims costliness, and the sentence pointedly calls the terracotta cheap — while austere, utilitarian and understated all contradict the lavish detail described.",
+      "id": "gregmat34__b5__cloze__07",
+      "unit": "gregmat34__b5",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": []
+}

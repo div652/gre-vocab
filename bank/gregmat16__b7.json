@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat16__b7",
+  "gregmat_group": 16,
+  "words": [
+    "visionary",
+    "vociferous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "For all the elegance of his engravings, Ledoux remained {1}: the ideal city he drew presupposed a treasury no municipality of the period possessed, whereas his rival, {2} to the point of timidity, proposed nothing that the year's appropriation could not cover.",
+      "blanks": [
+        {
+          "options": [
+            "visionary",
+            "myopic",
+            "complacent"
+          ],
+          "answers": [
+            "visionary"
+          ]
+        },
+        {
+          "options": [
+            "prudent",
+            "oblivious",
+            "blithe"
+          ],
+          "answers": [
+            "prudent"
+          ]
+        }
+      ],
+      "words": [
+        "visionary"
+      ],
+      "explanation": "The colon explains blank one — plans requiring resources that do not exist — which is the pejorative side of visionary: bold conception untethered from feasibility. Myopic is its opposite (seeing no further than the present), and complacent describes satisfaction, not overreach. Blank two must name the countervailing trait of a man who designs strictly within the budget; prudent fits, while oblivious and blithe would make his budgetary discipline accidental rather than deliberate, contradicting \"to the point of timidity.\"",
+      "id": "gregmat16__b7__tc2__00",
+      "unit": "gregmat16__b7",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "The commissioners had expected the rezoning to pass unremarked; instead the neighborhood mounted {1} objections, conducted entirely through petitions and sworn testimony, that stalled the measure for a year.",
+      "blanks": [
+        {
+          "options": [
+            "vociferous",
+            "clamorous",
+            "obstreperous",
+            "boisterous",
+            "subdued",
+            "placid"
+          ],
+          "answers": [
+            "vociferous",
+            "clamorous"
+          ]
+        }
+      ],
+      "words": [
+        "vociferous"
+      ],
+      "explanation": "Vociferous and clamorous both mean loudly and persistently outspoken in complaint, and both attach naturally to objections, yielding sentences of the same meaning. Obstreperous and boisterous denote unruly or rowdy behavior rather than an argued position, and the clause specifying petitions and sworn testimony marks the campaign as orderly; subdued and placid reverse the sense entirely.",
+      "id": "gregmat16__b7__se__01",
+      "unit": "gregmat16__b7",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from the {1} resistance the ministry had braced for — packed halls, circulating petitions, denunciations from the pulpit — the new levy was met by a {2} populace that appeared to have concluded in advance that protest would change nothing.",
+      "blanks": [
+        {
+          "options": [
+            "vociferous",
+            "taciturn",
+            "placid"
+          ],
+          "answers": [
+            "vociferous"
+          ]
+        },
+        {
+          "options": [
+            "subdued",
+            "obstreperous",
+            "clamorous"
+          ],
+          "answers": [
+            "subdued"
+          ]
+        }
+      ],
+      "words": [
+        "vociferous"
+      ],
+      "explanation": "The appositive list of packed halls, petitions and denunciations defines blank one as noisy, insistent public objection, which is vociferous; taciturn and placid would describe the very quiet the sentence says did not occur. \"Far from\" then requires blank two to invert that, so subdued is needed, while obstreperous and clamorous would restate the loudness the ministry feared instead of contrasting with it.",
+      "id": "gregmat16__b7__tc2__02",
+      "unit": "gregmat16__b7",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Critics granted that the master plan was {1} — no architect before had conceived of a city built entirely above its own rail lines — while insisting that not a single span of it could ever be financed.",
+      "blanks": [
+        {
+          "options": [
+            "visionary",
+            "prescient",
+            "sagacious",
+            "prudent",
+            "myopic"
+          ],
+          "answers": [
+            "visionary"
+          ]
+        }
+      ],
+      "words": [
+        "visionary"
+      ],
+      "explanation": "The dash clause praises unprecedented originality of conception, and the closing clause denies practicality, which is exactly the double edge of visionary. Prescient would require that the plan accurately foresaw some later event, but nothing here is predicted or borne out; sagacious and prudent imply sound practical judgment, which the final clause denies, and myopic asserts the opposite of bold conception.",
+      "id": "gregmat16__b7__cloze__03",
+      "unit": "gregmat16__b7",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": []
+}

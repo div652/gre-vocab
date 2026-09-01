@@ -1,0 +1,227 @@
+{
+  "unit": "gregmat23__b4",
+  "gregmat_group": 23,
+  "words": [
+    "mettlesome",
+    "mollify",
+    "neutralize",
+    "nonplussed"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "His biographers stress that the officer's bravery was of a particular kind: not the {1} calm of a man who stands his ground under fire, but the {2} appetite of one who could not be held back from the charge.",
+      "blanks": [
+        {
+          "options": [
+            "intrepid",
+            "timorous",
+            "skittish"
+          ],
+          "answers": [
+            "intrepid"
+          ]
+        },
+        {
+          "options": [
+            "mettlesome",
+            "stoic",
+            "craven"
+          ],
+          "answers": [
+            "mettlesome"
+          ]
+        }
+      ],
+      "words": [
+        "mettlesome"
+      ],
+      "explanation": "The sentence splits courage into two kinds, so the first blank must name steady fearlessness (intrepid) and the second the eager, barely governable sort (mettlesome, the horse straining at the bridle). Timorous and skittish denote fear, which cannot modify the 'calm' of a man holding his ground; stoic and craven both contradict an 'appetite' for the charge.",
+      "id": "gregmat23__b4__tc2__00",
+      "unit": "gregmat23__b4",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Kipling's young subalterns are never merely brave; they are {1}, forever champing to be let at the enemy and forever needing to be reined in by cooler heads.",
+      "blanks": [
+        {
+          "options": [
+            "mettlesome",
+            "intrepid",
+            "plucky",
+            "redoubtable",
+            "stoic"
+          ],
+          "answers": [
+            "mettlesome"
+          ]
+        }
+      ],
+      "words": [
+        "mettlesome"
+      ],
+      "explanation": "'Never merely brave' rules out the plain courage words — intrepid, plucky, redoubtable and stoic all say only that a man does not flinch. What the sentence adds is eagerness that outruns control, which is exactly mettlesome: courage as appetite, energy that has to be reined in.",
+      "id": "gregmat23__b4__cloze__01",
+      "unit": "gregmat23__b4",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from {1} the strikers, the company's carefully worded expression of sympathy seemed only to {2} them: it named no wage figure at all, and the men read that omission as contempt.",
+      "blanks": [
+        {
+          "options": [
+            "mollifying",
+            "provoking",
+            "exacerbating"
+          ],
+          "answers": [
+            "mollifying"
+          ]
+        },
+        {
+          "options": [
+            "antagonize",
+            "assuage",
+            "neutralize"
+          ],
+          "answers": [
+            "antagonize"
+          ]
+        }
+      ],
+      "words": [
+        "mollify"
+      ],
+      "explanation": "'Far from X ... only Y' demands that the blanks run in opposite directions, and the closing clause fixes the direction: the gesture aimed at feelings failed and gave offense instead, so it was meant to mollify and served to antagonize. Provoking and exacerbating in the first blank would make the reversal incoherent, and assuage in the second would require anger that the men's reading of the omission as contempt plainly refutes.",
+      "id": "gregmat23__b4__tc2__02",
+      "unit": "gregmat23__b4",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "The communiqué reported that the enemy battery had been {1} — a verb chosen, one correspondent noted acidly, precisely because it declined to say whether the gunners had been killed, captured, or merely driven off.",
+      "blanks": [
+        {
+          "options": [
+            "neutralized",
+            "quashed",
+            "foiled",
+            "confounded",
+            "nullified"
+          ],
+          "answers": [
+            "neutralized"
+          ]
+        }
+      ],
+      "words": [
+        "neutralize"
+      ],
+      "explanation": "The point is a clinical euphemism that reports only that a force now counts for nothing while leaving its fate unspoken, which is the bureaucratic signature of neutralized. Quashed suits revolts and verdicts, foiled and confounded apply to plans and expectations rather than to a gun battery, and nullified belongs to legal effects and instruments.",
+      "id": "gregmat23__b4__cloze__04",
+      "unit": "gregmat23__b4",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "The rebate granted to domestic mills was calculated to {1} whatever cost advantage foreign producers had gained from cheaper coal, leaving the two sides to compete on quality alone.",
+      "blanks": [
+        {
+          "options": [
+            "neutralize",
+            "nullify",
+            "compound",
+            "magnify",
+            "foil",
+            "confound"
+          ],
+          "answers": [
+            "neutralize",
+            "nullify"
+          ]
+        }
+      ],
+      "words": [
+        "neutralize"
+      ],
+      "explanation": "'Leaving the two sides to compete on quality alone' means the advantage has been cancelled out to zero, which neutralize and nullify both express. Compound and magnify would enlarge the advantage rather than erase it, and foil and confound take plans, schemes or expectations as their objects, not a differential in costs.",
+      "id": "gregmat23__b4__se__05",
+      "unit": "gregmat23__b4",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Asked a routine question about her retirement, the ambassador answered instead with an intimate confession about her marriage; the assembled reporters were {1}, not because her meaning was in any way obscure, but because {2} had deserted them entirely.",
+      "blanks": [
+        {
+          "options": [
+            "nonplussed",
+            "befuddled",
+            "unfazed"
+          ],
+          "answers": [
+            "nonplussed"
+          ]
+        },
+        {
+          "options": [
+            "their powers of reply",
+            "their comprehension",
+            "their patience"
+          ],
+          "answers": [
+            "their powers of reply"
+          ]
+        }
+      ],
+      "words": [
+        "nonplussed"
+      ],
+      "explanation": "The sentence explicitly denies any failure of understanding, so the faculty that fails must be the response, and that stall in the face of something socially unaccountable is precisely nonplussed. Befuddled and 'their comprehension' both locate the failure in understanding, which the stem rules out, and unfazed would contradict the admission that something deserted them.",
+      "id": "gregmat23__b4__tc2__06",
+      "unit": "gregmat23__b4",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "The interruption was so far outside the etiquette of the occasion that the mourners neither protested nor wept but simply sat {1}, each waiting for someone else to supply a response that no one had.",
+      "blanks": [
+        {
+          "options": [
+            "nonplussed",
+            "flustered",
+            "befuddled",
+            "indignant",
+            "disconsolate"
+          ],
+          "answers": [
+            "nonplussed"
+          ]
+        }
+      ],
+      "words": [
+        "nonplussed"
+      ],
+      "explanation": "'Neither protested nor wept' excludes indignant and disconsolate, and 'simply sat' excludes the visible agitation of flustered. What remains is a blank stall in which everyone grasps the situation but no one can produce a reply — bewilderment about how to react, not about what was meant, which is nonplussed rather than befuddled.",
+      "id": "gregmat23__b4__cloze__07",
+      "unit": "gregmat23__b4",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence direction is clear (the second clause — \"if anything, its studied vagueness deepened the suspicion\" — shows the statement failed to *reduce* anxiety), so \"exacerbate,\" \"compound,\" and \"foment\" are cleanly wrong. The defect is on the correct side: there are THREE words meaning \"to soothe/appease\" — mollify, assuage, and propitiate — so more than one pair yields equivalent sentences. The only thing separating propitiate is collocation (it normally takes a person, deity, or offended party as its object rather than an abstract emotion like \"anxiety\"), which is a subtler discrimination than the GRE's own answer key usually rests on; a strong test-taker who reads propitiate as a straight synonym of mollify/appease would pick a defensible pair and be marked wrong. Fix by replacing one of the three (e.g. swap \"propitiate\" for a worsening word like \"aggravate,\" or drop \"mollify\" and keep propitiate out entirely).",
+      "stem": "Nothing in the minister's prepared statement did anything to {1} public anxiety about the reactor; if anything, its studied vagueness deepened the suspicion that something was being withheld."
+    }
+  ]
+}

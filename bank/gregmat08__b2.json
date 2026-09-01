@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat08__b2",
+  "gregmat_group": 8,
+  "words": [
+    "gainsay",
+    "galvanize",
+    "indiscriminate",
+    "innocuous"
+  ],
+  "questions": [
+    {
+      "type": "cloze",
+      "stem": "The dissenting justices quarreled with the majority's tone and with its handling of precedent, yet on the narrow factual question at the heart of the case not one of them ventured to {1} the trial judge's findings.",
+      "blanks": [
+        {
+          "options": [
+            "gainsay",
+            "corroborate",
+            "belie",
+            "advocate",
+            "foment"
+          ],
+          "answers": [
+            "gainsay"
+          ]
+        }
+      ],
+      "words": [
+        "gainsay"
+      ],
+      "explanation": "The concession \"quarreled with the tone ... yet\" requires a verb of flat denial that the dissenters declined to perform: to gainsay is to contradict an assertion outright. Corroborate reverses the logic (they were hostile, not supportive), and belie needs an inanimate subject that misrepresents something — a person who disputes a finding does not belie it.",
+      "id": "gregmat08__b2__cloze__00",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Bound in plain grey wrappers and priced at a penny, the pamphlet struck the censors as too {1} to be worth suppressing — a misjudgment, since within a month it had {2} a peasantry that had borne the same taxes in silence for forty years.",
+      "blanks": [
+        {
+          "options": [
+            "innocuous",
+            "incendiary",
+            "trenchant"
+          ],
+          "answers": [
+            "innocuous"
+          ]
+        },
+        {
+          "options": [
+            "galvanized",
+            "mollified",
+            "enervated"
+          ],
+          "answers": [
+            "galvanized"
+          ]
+        }
+      ],
+      "words": [
+        "innocuous",
+        "galvanize"
+      ],
+      "explanation": "Something judged not worth suppressing must have looked harmless, and innocuous carries exactly the retrospective suspicion the word \"misjudgment\" invites; incendiary and trenchant would have guaranteed suppression rather than exempted it. The second blank needs a jolt out of the forty years of silence, which is galvanize's precondition of inertness — mollified would soothe an already restive group, and enervated would deepen the torpor the sentence says was broken.",
+      "id": "gregmat08__b2__tc2__01",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Decades of inconclusive committee reports had left the profession sunk in torpor; a single blunt paragraph in the surgeon general's letter {1} it, and within a year three hundred hospitals had rewritten their protocols.",
+      "blanks": [
+        {
+          "options": [
+            "galvanized",
+            "roused",
+            "enervated",
+            "impeded",
+            "exhorted",
+            "vindicated"
+          ],
+          "answers": [
+            "galvanized",
+            "roused"
+          ]
+        }
+      ],
+      "words": [
+        "galvanize"
+      ],
+      "explanation": "Torpor followed by decisive action within a year demands a sudden shock into motion, and galvanized and roused are equivalent here — both presuppose an inert subject and report that it moved. Enervated and impeded fit the grammar but reverse the outcome, exhorted describes urging without any guarantee of effect, and vindicated speaks to a claim's justification rather than to a profession's awakening.",
+      "id": "gregmat08__b2__se__02",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "The anthology's editor was admired precisely for her severity: where earlier collections had been {1}, sweeping up doggerel alongside the masterpieces, hers admitted a poem only after {2} comparison with everything else its author had written.",
+      "blanks": [
+        {
+          "options": [
+            "indiscriminate",
+            "discerning",
+            "austere"
+          ],
+          "answers": [
+            "indiscriminate"
+          ]
+        },
+        {
+          "options": [
+            "exacting",
+            "cursory",
+            "sanguine"
+          ],
+          "answers": [
+            "exacting"
+          ]
+        }
+      ],
+      "words": [
+        "indiscriminate"
+      ],
+      "explanation": "The clause \"sweeping up doggerel alongside the masterpieces\" defines the first blank as a failure to sort, which is the reproach built into indiscriminate; discerning names the opposite quality, and austere describes plainness rather than a refusal to distinguish. The contrasted method must then be rigorous, so exacting fits, while cursory would restate the fault the sentence is contrasting.",
+      "id": "gregmat08__b2__tc2__03",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The general's {1} shelling of the valley — barracks and schoolhouses, conscripts and farmers alike — drew condemnation even from the capitals that had armed him.",
+      "blanks": [
+        {
+          "options": [
+            "indiscriminate",
+            "wholesale",
+            "methodical",
+            "desultory",
+            "sporadic",
+            "punitive"
+          ],
+          "answers": [
+            "indiscriminate",
+            "wholesale"
+          ]
+        }
+      ],
+      "words": [
+        "indiscriminate"
+      ],
+      "explanation": "The appositive pairs a military target with a civilian one twice over, so the blank must mean \"drawing no distinctions,\" and indiscriminate and wholesale both convey blanket destruction that spares nothing. Desultory and sporadic fit the grammar but describe fitfulness rather than failure to distinguish, methodical implies the sorting the sentence denies, and punitive names a motive without producing a synonymous pair.",
+      "id": "gregmat08__b2__se__04",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "What began as an {1} remark about the weather at a diplomatic dinner became, once the transcript was leaked, the pretext for a monthlong rupture between the two governments.",
+      "blanks": [
+        {
+          "options": [
+            "innocuous",
+            "incendiary",
+            "mordant",
+            "inscrutable",
+            "portentous"
+          ],
+          "answers": [
+            "innocuous"
+          ]
+        }
+      ],
+      "words": [
+        "innocuous"
+      ],
+      "explanation": "The construction \"what began as X became a rupture\" requires X to have seemed incapable of doing harm, and innocuous is the word for things that pass inspection and only later prove consequential. Incendiary, mordant, and portentous all supply the danger in advance and so collapse the sentence's contrast; inscrutable describes opacity, not harmlessness.",
+      "id": "gregmat08__b2__cloze__05",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics who had once been unnerved by his early films found the new one merely {1}: a picture so anxious to give offense to no one that it {2} even the mild provocations of his student work.",
+      "blanks": [
+        {
+          "options": [
+            "innocuous",
+            "harrowing",
+            "mordant"
+          ],
+          "answers": [
+            "innocuous"
+          ]
+        },
+        {
+          "options": [
+            "eschewed",
+            "courted",
+            "magnified"
+          ],
+          "answers": [
+            "eschewed"
+          ]
+        }
+      ],
+      "words": [
+        "innocuous"
+      ],
+      "explanation": "\"Merely\" signals innocuous in its dismissive second life — so inoffensive that it cannot move anyone — whereas harrowing and mordant would restore the disturbance the critics say has been lost. A film anxious to offend nobody must have avoided its own earlier provocations, so eschewed follows; courted and magnified would make the sentence contradict its own premise.",
+      "id": "gregmat08__b2__tc2__06",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Colleagues might grumble at his manner and his hoarding of specimens, but none of them cared to {1} his claim of priority, for the notebooks were dated, witnessed, and countersigned.",
+      "blanks": [
+        {
+          "options": [
+            "gainsay",
+            "dispute",
+            "corroborate",
+            "concede",
+            "belie",
+            "ridicule"
+          ],
+          "answers": [
+            "gainsay",
+            "dispute"
+          ]
+        }
+      ],
+      "words": [
+        "gainsay"
+      ],
+      "explanation": "The dated and witnessed notebooks make the claim unassailable, so the blank names the contradiction nobody attempted, and gainsay and dispute are equivalent acts of denying an assertion. Corroborate and concede fit the grammar while reversing the stance, ridicule attacks the man rather than the truth of the claim, and belie would require the evidence itself, not a colleague, as its subject.",
+      "id": "gregmat08__b2__se__07",
+      "unit": "gregmat08__b2",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": []
+}

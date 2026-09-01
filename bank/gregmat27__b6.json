@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat27__b6",
+  "gregmat_group": 27,
+  "words": [
+    "tangible",
+    "turpitude",
+    "unalloyed",
+    "undercut"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Ministers pointed to the reform as proof of national renewal, but the wage data quietly {1} that claim: after three years, not one {2} gain — in earnings, in hours, in job security — could be set beside the promises.",
+      "blanks": [
+        {
+          "options": [
+            "undercut",
+            "corroborated",
+            "bolstered"
+          ],
+          "answers": [
+            "undercut"
+          ]
+        },
+        {
+          "options": [
+            "tangible",
+            "evanescent",
+            "tangential"
+          ],
+          "answers": [
+            "tangible"
+          ]
+        }
+      ],
+      "words": [
+        "undercut",
+        "tangible"
+      ],
+      "explanation": "The colon explains how the data behave toward the claim: they leave it standing but hollow, so only undercut works, while corroborated and bolstered would have the evidence supporting the promise the sentence says it failed. The second blank needs the auditable-evidence word — gains in earnings, hours and security are exactly what can be counted — so tangible; evanescent (fleeting) and tangential (beside the point) describe gains that existed, whereas the sentence says none did.",
+      "id": "gregmat27__b6__tc2__00",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "The bar association drew a sharp line between the two complaints: a missed filing deadline was a mere {1}, remediable by a fine, whereas the fabrication of client signatures amounted to moral {2} and warranted permanent disbarment.",
+      "blanks": [
+        {
+          "options": [
+            "peccadillo",
+            "malfeasance",
+            "depravity"
+          ],
+          "answers": [
+            "peccadillo"
+          ]
+        },
+        {
+          "options": [
+            "turpitude",
+            "decadence",
+            "negligence"
+          ],
+          "answers": [
+            "turpitude"
+          ]
+        }
+      ],
+      "words": [
+        "turpitude"
+      ],
+      "explanation": "\"Mere\" and \"remediable by a fine\" fix the first blank at the trivial end of the scale, which is peccadillo; malfeasance and depravity name serious wrongdoing and would collapse the contrast the sentence is built on. The second blank sits inside the fixed legal phrase and must name the category that disqualifies a practitioner, which is turpitude; decadence describes self-indulgent decline rather than a statutory finding, and negligence implies carelessness, impossible for a deliberate forgery.",
+      "id": "gregmat27__b6__tc2__01",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Praise for the memoir was warm but hardly {1}: the very reviewers who called its prose luminous {2} their own compliments by dwelling on how conveniently the author had forgotten the years of the occupation.",
+      "blanks": [
+        {
+          "options": [
+            "unalloyed",
+            "illusory",
+            "pristine"
+          ],
+          "answers": [
+            "unalloyed"
+          ]
+        },
+        {
+          "options": [
+            "undercut",
+            "corroborated",
+            "burnished"
+          ],
+          "answers": [
+            "undercut"
+          ]
+        }
+      ],
+      "words": [
+        "unalloyed",
+        "undercut"
+      ],
+      "explanation": "\"Warm but hardly ___\" announces that something lesser has been stirred into the praise, which is precisely unalloyed; illusory would deny that the praise was real, and pristine concerns unspoiled condition rather than dilution of an abstraction. In the second blank the reviewers weaken their own compliments in a single gesture — the classic self-inflicted undercut — while corroborated and burnished would strengthen or polish the praise the sentence says was qualified.",
+      "id": "gregmat27__b6__tc2__02",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "By the fourth day of the strike the tension inside the plant had grown so {1} that foremen stopped walking the shop floor alone.",
+      "blanks": [
+        {
+          "options": [
+            "palpable",
+            "tangible",
+            "discernible",
+            "evanescent",
+            "illusory",
+            "corporeal"
+          ],
+          "answers": [
+            "palpable",
+            "tangible"
+          ]
+        }
+      ],
+      "words": [
+        "tangible"
+      ],
+      "explanation": "The \"so ___ that\" construction requires an atmosphere thick enough to be felt, and palpable and tangible both carry that sense of an intangible thing acquiring near-physical force. Discernible means merely detectable and is far too weak to explain men refusing to walk alone; evanescent and illusory make the tension fade or vanish, and corporeal would assert that the tension literally had a body.",
+      "id": "gregmat27__b6__se__03",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "For all the prestige the prize conferred, the laureate's pleasure in it was not {1}, mixed as it was with guilt over the collaborator whom the committee had passed over.",
+      "blanks": [
+        {
+          "options": [
+            "unalloyed",
+            "unqualified",
+            "pristine",
+            "immaculate",
+            "tempered",
+            "feigned"
+          ],
+          "answers": [
+            "unalloyed",
+            "unqualified"
+          ]
+        }
+      ],
+      "words": [
+        "unalloyed"
+      ],
+      "explanation": "\"Mixed as it was with guilt\" names a lesser element stirred into a positive abstraction, so the negated blank must mean pure and complete: unalloyed and unqualified are equivalent here. Pristine and immaculate describe things unspoiled or unsoiled rather than undiluted feeling; \"not tempered\" and \"not feigned\" both read smoothly but reverse the sense, denying moderation or insincerity instead of purity.",
+      "id": "gregmat27__b6__se__04",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "What the tribunal had to settle was not whether the officer's conduct had been depraved — on that point everyone agreed — but whether it satisfied the statutory definition of moral {1}, the narrow category that alone permits revoking a commission.",
+      "blanks": [
+        {
+          "options": [
+            "turpitude",
+            "peccadillo",
+            "decadence",
+            "transgression",
+            "negligence"
+          ],
+          "answers": [
+            "turpitude"
+          ]
+        }
+      ],
+      "words": [
+        "turpitude"
+      ],
+      "explanation": "The sentence explicitly separates the felt judgment (depravity, already conceded) from the legal category being applied, and turpitude is the term that lives inside statutes and disqualifies the holder of an office. Peccadillo names a trifling fault, transgression any breach at all, and neither decadence nor negligence is a recognized statutory ground for stripping a commission.",
+      "id": "gregmat27__b6__cloze__05",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Because it assembled its cabinets offshore, the new firm could {1} the established manufacturers by nearly a third, and within two years the older factories had lost every contract they held with the retail chains.",
+      "blanks": [
+        {
+          "options": [
+            "undercut",
+            "undermine",
+            "subvert",
+            "vitiate",
+            "attenuate"
+          ],
+          "answers": [
+            "undercut"
+          ]
+        }
+      ],
+      "words": [
+        "undercut"
+      ],
+      "explanation": "The quantified price margin — \"by nearly a third\" — calls for the commercial sense of selling more cheaply than a rival, which only undercut carries. Undermine and subvert describe eroding or overthrowing a position rather than pricing beneath one, and vitiate and attenuate mean to spoil and to thin out, neither of which takes competitors as an object in this way.",
+      "id": "gregmat27__b6__cloze__06",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "The board had heard quite enough about vision and culture; what it wanted from the incoming chief executive were {1} results — margins, retention figures, shipping dates — that could be audited before the next annual meeting.",
+      "blanks": [
+        {
+          "options": [
+            "tangible",
+            "corporeal",
+            "evanescent",
+            "amorphous",
+            "tangential"
+          ],
+          "answers": [
+            "tangible"
+          ]
+        }
+      ],
+      "words": [
+        "tangible"
+      ],
+      "explanation": "The list of countable measures and the demand that they be auditable point to the evidence word, tangible, with its implied suspicion that the previous offering was talk. Corporeal would require the results to have physical bodies; evanescent, amorphous and tangential all describe the vagueness the board is rejecting rather than the proof it demands.",
+      "id": "gregmat27__b6__cloze__07",
+      "unit": "gregmat27__b6",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": []
+}

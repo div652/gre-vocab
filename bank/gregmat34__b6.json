@@ -1,0 +1,179 @@
+{
+  "unit": "gregmat34__b6",
+  "gregmat_group": 34,
+  "words": [
+    "prefigure",
+    "presage",
+    "prescribe",
+    "prevail"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "The sudden freezing of interbank lending in the summer of 1907 {1} a panic that would shutter banks across the country within months, though the financiers watching the figures dismissed the episode as a passing squeeze.",
+      "blanks": [
+        {
+          "options": [
+            "presaged",
+            "portended",
+            "belied",
+            "precluded",
+            "compounded",
+            "echoed"
+          ],
+          "answers": [
+            "presaged",
+            "portended"
+          ]
+        }
+      ],
+      "words": [
+        "presage"
+      ],
+      "explanation": "The freeze was a sign of a disaster still to come, which is precisely what presage and portend both assert, and neither requires anyone to have read the sign correctly. \"Compounded\" would make the panic already underway rather than approaching, \"echoed\" points backwards to something prior, and belied and precluded reverse or cancel the relation the sentence establishes.",
+      "id": "gregmat34__b6__se__02",
+      "unit": "gregmat34__b6",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "The statutes of that period {1} the exact number of witnesses required for a will to be valid, leaving executors and probate judges no discretion whatever in the matter.",
+      "blanks": [
+        {
+          "options": [
+            "prescribed",
+            "proscribed",
+            "presaged",
+            "prevailed",
+            "prefigured"
+          ],
+          "answers": [
+            "prescribed"
+          ]
+        }
+      ],
+      "words": [
+        "prescribe"
+      ],
+      "explanation": "A statute lays a requirement down with binding authority and admits no discretion, which is the core of prescribe. Proscribed is the near-homograph trap — it means forbade, and a statute cannot forbid the number of witnesses it demands — while prevailed is intransitive and could not take \"the exact number\" as an object.",
+      "id": "gregmat34__b6__cloze__04",
+      "unit": "gregmat34__b6",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "A grammar that {1} usage tells us only how a language is in fact spoken; one that {2} it tells us how the authorities hold it ought to be spoken, and treating the first sort of book as though it were the second has produced a century of pointless quarrels.",
+      "blanks": [
+        {
+          "options": [
+            "catalogues",
+            "prescribes",
+            "censures"
+          ],
+          "answers": [
+            "catalogues"
+          ]
+        },
+        {
+          "options": [
+            "prescribes",
+            "proscribes",
+            "presages"
+          ],
+          "answers": [
+            "prescribes"
+          ]
+        }
+      ],
+      "words": [
+        "prescribe"
+      ],
+      "explanation": "The sentence sets the descriptive against the prescriptive, so the first blank must be neutral recording and the second must be the laying down of rules by an authority — prescribe. Putting prescribes in the first blank collapses the contrast the sentence is built on, and proscribes would have the grammar banning usage outright rather than legislating how it ought to run.",
+      "id": "gregmat34__b6__tc2__05",
+      "unit": "gregmat34__b6",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Outnumbered in every engagement they fought, the insurgents nonetheless {1} in the end, simply by outlasting an occupier whose support at home had begun to {2} after the third year of casualties.",
+      "blanks": [
+        {
+          "options": [
+            "prevailed",
+            "outstripped",
+            "vanquished"
+          ],
+          "answers": [
+            "prevailed"
+          ]
+        },
+        {
+          "options": [
+            "falter",
+            "harden",
+            "crystallize"
+          ],
+          "answers": [
+            "falter"
+          ]
+        }
+      ],
+      "words": [
+        "prevail"
+      ],
+      "explanation": "Prevail is the only one of the three that is intransitive and that requires sustained opposition finally overcome, which is what a war of attrition supplies; outstripped and vanquished both demand an object the sentence never gives them. The second blank must record the occupier's weakening, since that erosion is what the insurgents outlast — hardening or crystallizing support would explain the opposite outcome.",
+      "id": "gregmat34__b6__tc2__06",
+      "unit": "gregmat34__b6",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Despite a decade of well-funded challenges, the older interpretation still {1} in the field's standard textbooks, so that graduate students absorb it thoroughly before they ever encounter an alternative.",
+      "blanks": [
+        {
+          "options": [
+            "prevails",
+            "predominates",
+            "falters",
+            "languishes",
+            "wanes",
+            "circulates"
+          ],
+          "answers": [
+            "prevails",
+            "predominates"
+          ]
+        }
+      ],
+      "words": [
+        "prevail"
+      ],
+      "explanation": "The sentence needs a verb meaning that the old view remains the dominant one in force, which is the \"prevailing view\" sense of prevail and is matched by predominates. Falters, languishes and wanes all describe a view losing ground, contradicting \"despite a decade of challenges,\" and circulates says only that the view is present, not that it holds the field.",
+      "id": "gregmat34__b6__se__07",
+      "unit": "gregmat34__b6",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 has two defensible answers. \"Prefiguring\" and \"presaging\" are near-synonyms meaning \"foreshadowing / serving as an early sign of,\" and the sentence supplies no cue that discriminates between them — the only real work the sentence does is exclude \"prescribing.\" Blank 2 is well constrained (\"visible only to readers who already know how the later books turn out\" = retrospective), but since TC2 requires both blanks correct for credit, a reasonable test-taker choosing \"presaging\" would be marked wrong on a defensible reading. The item needs blank 1 rewritten with one clear distractor, e.g. replacing \"presaging\" with a word that genuinely fails (such as \"eclipsing\" or \"recapitulating\").",
+      "stem": "Critics now read the fragmentary early novellas as {1} the mature trilogy, but the correspondence is wholly {2} — a pattern visible only to readers who already know how the later books turn out, and one the young author can hardly have intended."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options are near-synonyms in the required sense of \"foreshadow\": prefigures, presages, and portends. \"Prefigures\" is the best fit (foreshadowing by resemblance, no intent implied, standard art-historical idiom), but \"presages\" is fully defensible — the sentence contains no cue that excludes it, and the only objection is a soft connotative preference (presage leans toward omen/warning of an event). \"Portends\" is weaker but in the same family. A reasonable test-taker choosing \"presages\" would be marked wrong on a distinction the sentence does not enforce. Fix by replacing the synonymous distractors with words outside the foreshadowing family (e.g. \"parodies\", \"belies\", \"presupposes\").",
+      "stem": "Art historians often observe that the flattened, weightless space of late Byzantine icons {1} the deliberate anti-illusionism of early modernist painting, though the twelfth-century workshops obviously had no such program in view."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is well constrained (\"the reading proved apt\" + a defeat that killed him → the comet was read as ominous; auspicious and decorative both fail). But blank 2 has two genuinely interchangeable correct answers: \"presaged\" and \"prefigured\" both mean foreshadowed/foretold, and either reads naturally as \"the sign ___ a defeat.\" Nothing in the sentence distinguishes the omen-sense of \"presage\" from the foreshadowing-sense of \"prefigure\"; only \"prescribed\" is clearly wrong. A test-taker who picks \"prefigured\" would be marked wrong for no principled reason. Fix by replacing one of the two synonyms with a distinct distractor (e.g. \"precluded\" or \"postdated\").",
+      "stem": "The chronicler records that the comet of 1066 was read on all sides as {1}, and in Harold's case the reading proved apt: the sign {2} a defeat that cost him both his crown and his life before the year was out."
+    }
+  ]
+}

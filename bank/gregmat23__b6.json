@@ -1,0 +1,202 @@
+{
+  "unit": "gregmat23__b6",
+  "gregmat_group": 23,
+  "words": [
+    "recourse",
+    "refute",
+    "regress",
+    "repercussion"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "The 1911 excavation did not merely cast doubt on the land-bridge hypothesis; it {1} it, turning up a stratigraphy that the theory's remaining defenders could not explain away.",
+      "blanks": [
+        {
+          "options": [
+            "refuted",
+            "debunked",
+            "gainsaid",
+            "corroborated",
+            "impugned",
+            "conceded"
+          ],
+          "answers": [
+            "refuted",
+            "debunked"
+          ]
+        }
+      ],
+      "words": [
+        "refute"
+      ],
+      "explanation": "The structure \"did not merely cast doubt ... it ___\" demands an escalation from suspicion to accomplished disproof, and the evidence clause confirms the job was finished: refuted and debunked both mean the claim was shown to be false. Gainsaid is only denial or contradiction, which is weaker than the doubt already mentioned, and impugned attacks credibility rather than establishing falsity; corroborated and conceded reverse the sense.",
+      "id": "gregmat23__b6__se__00",
+      "unit": "gregmat23__b6",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers complained that the biographer nowhere {1} the rumor of a secret first marriage; she merely {2} the diarist who had circulated it, and an unreliable witness leaves the story itself untouched.",
+      "blanks": [
+        {
+          "options": [
+            "refutes",
+            "corroborates",
+            "entertains"
+          ],
+          "answers": [
+            "refutes"
+          ]
+        },
+        {
+          "options": [
+            "impugns",
+            "vouches for",
+            "echoes"
+          ],
+          "answers": [
+            "impugns"
+          ]
+        }
+      ],
+      "words": [
+        "refute"
+      ],
+      "explanation": "The closing clause says the story survives, so the first blank must name the thing she failed to do — establish its falsity — which is refutes; corroborates would support the rumor and entertains describes mere consideration. The second blank must be the lesser act she did perform, an attack on the source's credibility, which is impugns: vouches for and echoes would strengthen rather than undermine the diarist.",
+      "id": "gregmat23__b6__tc2__01",
+      "unit": "gregmat23__b6",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Mendel's conclusions about heredity were reached by counting peas in a monastery garden, without {1} to the microscopy that later biologists would consider indispensable.",
+      "blanks": [
+        {
+          "options": [
+            "recourse",
+            "deference",
+            "regress",
+            "repercussion",
+            "ramification"
+          ],
+          "answers": [
+            "recourse"
+          ]
+        }
+      ],
+      "words": [
+        "recourse"
+      ],
+      "explanation": "The fixed phrase is \"without recourse to,\" meaning without turning to a resource one might have needed; the sentence contrasts a crude method with the equipment he did not fall back on. Deference fits the grammar but would mean without respect for the microscopy, a claim about attitude rather than about means employed.",
+      "id": "gregmat23__b6__cloze__02",
+      "unit": "gregmat23__b6",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Historians continue to argue about the {1} of the 1931 devaluation, which unsettled economies whose governments had no part whatever in the decision.",
+      "blanks": [
+        {
+          "options": [
+            "repercussions",
+            "ramifications",
+            "antecedents",
+            "motives",
+            "provisions",
+            "safeguards"
+          ],
+          "answers": [
+            "repercussions",
+            "ramifications"
+          ]
+        }
+      ],
+      "words": [
+        "repercussion"
+      ],
+      "explanation": "The relative clause describes harm spreading outward to uninvolved parties, so the blank must name downstream consequences: repercussions and ramifications are equivalent here. Antecedents and motives point backwards to causes and intentions rather than effects, and provisions or safeguards would describe the terms of the measure itself.",
+      "id": "gregmat23__b6__se__04",
+      "unit": "gregmat23__b6",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "The bank's failure was contained within a week, but its {1} were felt for a decade in mill towns that had never held an account there, and the very lag that carried the damage so far also {2} the difficulty of assigning blame.",
+      "blanks": [
+        {
+          "options": [
+            "repercussions",
+            "antecedents",
+            "provisions"
+          ],
+          "answers": [
+            "repercussions"
+          ]
+        },
+        {
+          "options": [
+            "compounded",
+            "mitigated",
+            "forestalled"
+          ],
+          "answers": [
+            "compounded"
+          ]
+        }
+      ],
+      "words": [
+        "repercussion"
+      ],
+      "explanation": "The contrast between a failure contained in a week and effects felt for a decade at a distance calls for repercussions, the second-order harm that travels and lands on bystanders; antecedents look backwards and provisions are terms of an agreement. Because the delay is what obscures causation, the second blank must intensify the difficulty, so compounded is right and mitigated or forestalled reverse the logic.",
+      "id": "gregmat23__b6__tc2__05",
+      "unit": "gregmat23__b6",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Far from consolidating the gains of the previous decade, the province {1}: by 1990 infant mortality stood higher than it had in 1975, before the first rural dispensaries opened.",
+      "blanks": [
+        {
+          "options": [
+            "regressed",
+            "backslid",
+            "stagnated",
+            "faltered",
+            "prevailed",
+            "flourished"
+          ],
+          "answers": [
+            "regressed",
+            "backslid"
+          ]
+        }
+      ],
+      "words": [
+        "regress"
+      ],
+      "explanation": "The colon supplies the proof: conditions are now worse than at the starting point, so the province moved backwards along ground it had already gained, which regressed and backslid both express. Stagnated would mean no movement at all and faltered only a loss of momentum, neither of which accounts for figures falling below the pre-reform baseline.",
+      "id": "gregmat23__b6__se__07",
+      "unit": "gregmat23__b6",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is not uniquely determined. \"Regressed\" is the most precise fit, since \"resuming habits their doctors had thought permanently abandoned\" restates the idea of returning to a prior state. However, \"faltered\" also genuinely fits: it is standard idiom in recovery/clinical contexts (\"several patients faltered within months, resuming habits...\"), and the sentence contains nothing that excludes losing ground or stumbling as opposed to specifically reverting. A reasonable test-taker could select \"faltered\" and be marked wrong. Blank 1 is fine — \"recourse\" is uniquely correct, with \"ramification\" and \"precedent\" both incoherent after \"beyond the emergency room.\" To fix, add a discriminator to blank 2's clause that requires a return to an earlier state rather than mere weakening (e.g., \"not merely weakened but back where they had started\").",
+      "stem": "When the county clinic closed, families of the discharged patients found they had no {1} beyond the emergency room, and several of the patients, deprived of routine supervision, {2} within months, resuming habits their doctors had thought permanently abandoned."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"faltered\" is a live second answer. The only thing favoring \"regressed\" is the child simile, but a witness giving monosyllabic answers to the simplest questions under strain is a textbook description of faltering, and \"faltered visibly\" is the more idiomatic collocation. The sentence contains no hesitation-vs-reversion discriminator strong enough to rule it out, so a reasonable test-taker can pick \"faltered\" and be marked wrong. Fix by adding an explicit developmental cue (e.g. \"seemed to shed thirty years\", \"reverted\") or by dropping \"faltered\" from the options.",
+      "stem": "Under the strain of the deposition the witness, an accomplished litigator himself, {1} visibly, answering the simplest questions in the sullen monosyllables of a scolded child."
+    }
+  ]
+}

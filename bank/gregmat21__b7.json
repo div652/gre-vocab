@@ -1,0 +1,113 @@
+{
+  "unit": "gregmat21__b7",
+  "gregmat_group": 21,
+  "words": [
+    "supple",
+    "valor"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Observers who watched him give ground on procedural matters concluded that the ambassador was simply {1}; the negotiating transcripts show something quite different — a {2} tactician who conceded on form precisely in order to hold firm on substance.",
+      "blanks": [
+        {
+          "options": [
+            "pliable",
+            "mettlesome",
+            "hidebound"
+          ],
+          "answers": [
+            "pliable"
+          ]
+        },
+        {
+          "options": [
+            "supple",
+            "tractable",
+            "doctrinaire"
+          ],
+          "answers": [
+            "supple"
+          ]
+        }
+      ],
+      "words": [
+        "supple"
+      ],
+      "explanation": "The first clause reports a misreading of his concessions as weakness, so blank 1 needs the word for someone bent by others: pliable. Blank 2 must correct that reading, and only supple describes bending that comes from strength and springs back; tractable would merely restate the charge the sentence is refuting, and doctrinaire contradicts a man who concedes at all.",
+      "id": "gregmat21__b7__tc2__00",
+      "unit": "gregmat21__b7",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Drafted in the flat administrative prose of the adjutant general's office, the citation nonetheless conveyed the {1} of a corporal who had crossed sixty yards of open ground under machine-gun fire to drag two wounded men into cover.",
+      "blanks": [
+        {
+          "options": [
+            "valor",
+            "gallantry",
+            "composure",
+            "prudence",
+            "alacrity",
+            "diffidence"
+          ],
+          "answers": [
+            "valor",
+            "gallantry"
+          ]
+        }
+      ],
+      "words": [
+        "valor"
+      ],
+      "explanation": "A medal citation for a deed done under fire calls for the ceremonial words for battlefield courage, and valor and gallantry are interchangeable there. Composure would praise his calm rather than his courage and alacrity only his promptness, while prudence and diffidence describe the opposite of running into machine-gun fire.",
+      "id": "gregmat21__b7__se__02",
+      "unit": "gregmat21__b7",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "The regimental history is careful to separate the two officers: Major Ellis's {1} was a matter of temperament, visible in his shipboard pranks and his flat refusal to duck, whereas Colonel Farr's reputation rests on three particular acts of {2}, each attested by witnesses and engraved on a citation.",
+      "blanks": [
+        {
+          "options": [
+            "mettle",
+            "fortitude",
+            "diffidence"
+          ],
+          "answers": [
+            "mettle"
+          ]
+        },
+        {
+          "options": [
+            "valor",
+            "temerity",
+            "prudence"
+          ],
+          "answers": [
+            "valor"
+          ]
+        }
+      ],
+      "words": [
+        "valor"
+      ],
+      "explanation": "The sentence opposes a standing disposition to a set of countable deeds: mettle names spirited temperament, while valor names the awarded act, which is why it appears with citations and engraving. Fortitude would mean endurance of hardship rather than the high spirits the pranks illustrate, and temerity is recklessness — no one engraves a citation for it.",
+      "id": "gregmat21__b7__tc2__03",
+      "unit": "gregmat21__b7",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options genuinely fit. The sentence's differentiator (\"drew back to its own shape rather than keeping the bend\") cleanly rules out MALLEABLE (permanent deformation), TRACTABLE (easily managed/governed — wrong register for a strap's physical springiness), and HIDEBOUND (the opposite). But it does not rule out PLIANT, which by standard definition means \"supple enough to bend freely or repeatedly without breaking\" — i.e. a recognized synonym of supple, and an equally idiomatic collocation with leather. The intended supple/pliant split (springs back vs. stays bent) is not a codified sense distinction; that contrast holds for malleable, not for pliant. A test-taker choosing \"pliant\" would be defensibly correct and wrongly marked. Fix by dropping \"pliant\" from the option set (or replacing it with a clearly plastic-deformation word like \"ductile\").",
+      "stem": "Decades of oiling and use had left the cavalry harness {1}: it took the horse's motion without cracking, and when the load came off it drew back to its own shape rather than keeping the bend."
+    }
+  ]
+}

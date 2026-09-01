@@ -1,0 +1,181 @@
+{
+  "unit": "gregmat05__b1",
+  "gregmat_group": 5,
+  "words": [
+    "diminutive",
+    "discernible",
+    "enigmatic",
+    "estranged"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The regiment's finest marksman was a {1} man whose rifle stock had to be cut down to fit him, and though historians have combed the after-action reports, they find in them no {2} trace of condescension from the officers he served under.",
+      "blanks": [
+        {
+          "options": [
+            "diminutive",
+            "minute",
+            "paltry"
+          ],
+          "answers": [
+            "diminutive"
+          ]
+        },
+        {
+          "options": [
+            "discernible",
+            "flagrant",
+            "corporeal"
+          ],
+          "answers": [
+            "discernible"
+          ]
+        }
+      ],
+      "words": [
+        "diminutive",
+        "discernible"
+      ],
+      "explanation": "Diminutive is smallness of stature and attaches naturally to people, which the shortened rifle stock confirms; minute means so small as to be nearly invisible, and paltry measures meagreness of quantity or worth, not height. In the second blank, a trace is by definition faint, so it can only be discernible (just detectable after careful search) — flagrant means blatant and contradicts trace, while corporeal means bodily.",
+      "id": "gregmat05__b1__tc2__00",
+      "unit": "gregmat05__b1",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics call the late self-portraits {1} rather than merely opaque — each seems to pose a question one might, with patience, answer — and the same withholding governed his dealings with the {2} son who had adored him as a boy but saw him only twice after 1946.",
+      "blanks": [
+        {
+          "options": [
+            "enigmatic",
+            "inscrutable",
+            "banal"
+          ],
+          "answers": [
+            "enigmatic"
+          ]
+        },
+        {
+          "options": [
+            "estranged",
+            "divorced",
+            "antagonized"
+          ],
+          "answers": [
+            "estranged"
+          ]
+        }
+      ],
+      "words": [
+        "enigmatic",
+        "estranged"
+      ],
+      "explanation": "Enigmatic is riddle-like: it promises a solution and invites you to look for one, which is exactly what \"pose a question one might answer\" describes, whereas inscrutable is explicitly excluded by \"rather than merely opaque\" because it offers nothing to work on. The son's case is one of cold distance following a former closeness — the defining shape of estranged — not of a marriage dissolved (divorced) or of active provocation (antagonized).",
+      "id": "gregmat05__b1__tc2__01",
+      "unit": "gregmat05__b1",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "The chemists reported that the additive produced a shift in colour so slight that it was barely {1} against the control sample, and they declined to call it an effect at all.",
+      "blanks": [
+        {
+          "options": [
+            "discernible",
+            "perceptible",
+            "conspicuous",
+            "manifest",
+            "palpable",
+            "flagrant"
+          ],
+          "answers": [
+            "discernible",
+            "perceptible"
+          ]
+        }
+      ],
+      "words": [
+        "discernible"
+      ],
+      "explanation": "The sentence places the shift at the very edge of detection, where only discernible and perceptible belong, and the two yield the same sentence. Conspicuous, manifest and flagrant all assert obviousness and reverse the meaning, and palpable claims something felt or almost touchable, which a faint difference in colour is not.",
+      "id": "gregmat05__b1__se__04",
+      "unit": "gregmat05__b1",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "After the litigation over their father's estate, Henry remained {1} from the brother with whom he had shared a studio for thirty years; the two never exchanged a word again.",
+      "blanks": [
+        {
+          "options": [
+            "estranged",
+            "alienated",
+            "divorced",
+            "reconciled",
+            "sequestered",
+            "antagonized"
+          ],
+          "answers": [
+            "estranged",
+            "alienated"
+          ]
+        }
+      ],
+      "words": [
+        "estranged"
+      ],
+      "explanation": "Estranged and alienated both name a lasting loss of affection between people formerly close, and either produces the same sentence here. Reconciled contradicts the silence that follows, divorced imports a marital sense, sequestered would describe mere physical separation, and antagonized reports an act of provocation rather than the resulting cold distance.",
+      "id": "gregmat05__b1__se__05",
+      "unit": "gregmat05__b1",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Russian manages in one syllable what English needs a whole phrase for: the suffix -echka turns a name into a {1}, so that Anna, addressed by her grandmother, becomes Anechka.",
+      "blanks": [
+        {
+          "options": [
+            "diminutive",
+            "honorific",
+            "cognate",
+            "euphemism",
+            "epithet"
+          ],
+          "answers": [
+            "diminutive"
+          ]
+        }
+      ],
+      "words": [
+        "diminutive"
+      ],
+      "explanation": "As a noun, a diminutive is precisely a word-form signalling smallness or affection, which is what the suffix produces. An honorific would signal deference rather than fondness, a cognate is a word sharing an ancestor in another language, a euphemism softens something unpleasant, and an epithet is a characterizing term attached to a name, not a modification of it.",
+      "id": "gregmat05__b1__cloze__06",
+      "unit": "gregmat05__b1",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is sound — \"diminutive\" is the only idiomatic choice with \"stature\" (scant takes quantity nouns; minute means microscopic). Blank 2 is defective: all three options mean roughly \"noticeable,\" and the sentence provides no discriminating constraint. \"No palpable difference\" between two performances is entirely idiomatic and semantically satisfies the contrast just as well as \"no discernible difference\"; \"no conspicuous difference\" is only marginally weaker. A reasonable test-taker could pick \"palpable\" and be wrongly marked incorrect. To fix, the distractors for blank 2 should be replaced with words that fail on meaning rather than degree (e.g. \"invidious\", \"auditory\"), or the sentence should add a cue that forces the detectability sense (e.g. \"listeners could not reliably identify which performance was which\").",
+      "stem": "The notices dwelt on the conductor's {1} stature — she worked from a raised box so that the second violins could see her at all — yet under blind comparison listeners reported no {2} difference between her Brahms and that of her six-foot predecessor."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 has two defensible answers. \"Enigmatic\" and \"inscrutable\" are near-synonyms here, and the sentence provides no discriminating signal. The only argued distinction — that \"enigmatic\" suits something that invites competing readings while \"inscrutable\" suits something that resists reading altogether — is far too fine to be decisive, and \"its purpose remains inscrutable\" is perfectly natural given biographers who cannot settle on a reading. A reasonable test-taker choosing \"inscrutable\" would be marked wrong without cause. Fix by replacing one of the two with a distractor that genuinely fails (e.g. \"self-evident\" or \"settled\"). Blank 1 is sound: \"estranged from\" is the only idiomatic and semantic fit.",
+      "stem": "The hundred-page letter Kafka wrote to the father from whom he had long been {1} was never delivered, and its purpose remains {2}: biographers keep proposing readings — accusation, plea, or a performance that only pretended to have an addressee — and each seems, for a while, to fit."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three of the five options (enigmatic, cryptic, inscrutable) are near-synonyms that all satisfy the clue. The clause \"neither like evasion nor like blankness, but like an answer withheld\" plus \"every court went on guessing\" only eliminates the wrong-direction options (candid, discernible); it provides no feature that distinguishes puzzling-invites-guessing (enigmatic) from hidden-meaning-not-disclosed (cryptic) from cannot-be-read (inscrutable). \"An answer withheld\" arguably favors cryptic as strongly as enigmatic. Fix by replacing two of the three synonyms with different wrong-direction distractors, or by adding a discriminating detail (e.g., something about deliberately encoded remarks vs. an unreadable face).",
+      "stem": "Ambassadors who dealt with her for years agreed that she was {1}: her silences felt neither like evasion nor like blankness, but like an answer withheld, and every court in Europe went on guessing at it."
+    }
+  ]
+}

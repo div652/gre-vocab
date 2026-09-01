@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat32__b2",
+  "gregmat_group": 32,
+  "words": [
+    "entreat",
+    "gregarious",
+    "indictment",
+    "indignant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Her counsel had urged her to weep and {1} before the magistrate, but Mrs. Astley did nothing of the kind: she merely {2} him to reconsider, standing as erect as though she were conferring a favor rather than asking one.",
+      "blanks": [
+        {
+          "options": [
+            "grovel",
+            "demur",
+            "equivocate"
+          ],
+          "answers": [
+            "grovel"
+          ]
+        },
+        {
+          "options": [
+            "entreated",
+            "badgered",
+            "harangued"
+          ],
+          "answers": [
+            "entreated"
+          ]
+        }
+      ],
+      "words": [
+        "entreat"
+      ],
+      "explanation": "The counsel's advice and her refusal of it must sit at opposite ends of one scale — abasement versus dignified pleading — so blank 1 needs the abject word, grovel, and blank 2 the composed one. Entreated is the only plea here whose dignity survives intact, which is what \"standing as erect as though she were conferring a favor\" demands; badgered and harangued describe aggressive pestering, the opposite of a petitioner's deference, and demur (to object mildly) is not something counsel would pair with weeping.",
+      "id": "gregmat32__b2__tc2__00",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "In letter after letter the exiled bishop {1} the young king, with the deference of a subject who knows he has no claim to press and only a favor to ask.",
+      "blanks": [
+        {
+          "options": [
+            "entreated",
+            "besought",
+            "cajoled",
+            "hectored",
+            "badgered",
+            "flattered"
+          ],
+          "answers": [
+            "entreated",
+            "besought"
+          ]
+        }
+      ],
+      "words": [
+        "entreat"
+      ],
+      "explanation": "The clause specifies a plea made from powerlessness but with manners intact, which is exactly entreated and besought — earnest, courteous begging. Cajoled and flattered describe coaxing by pleasing a listener rather than appealing to him, and hectored and badgered supply pressure where the sentence insists on deference.",
+      "id": "gregmat32__b2__se__01",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Field notes describe the species as strictly {1}: a solitary individual is almost never recorded, and even during the molt the birds crowd by the hundred onto a single sandbar.",
+      "blanks": [
+        {
+          "options": [
+            "gregarious",
+            "insular",
+            "retiring",
+            "aloof",
+            "misanthropic"
+          ],
+          "answers": [
+            "gregarious"
+          ]
+        }
+      ],
+      "words": [
+        "gregarious"
+      ],
+      "explanation": "The colon explains the blank with flocking behavior, and gregarious carries precisely that literal biological sense of living in herds or flocks. Insular, retiring, and aloof all point the opposite way, toward separation, and misanthropic requires a capacity to dislike humankind that birds do not have.",
+      "id": "gregmat32__b2__cloze__02",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues remembered him as relentlessly {1} — an unfilled evening struck him as a problem to be solved — and yet almost no one called him {2}: he talked over his guests, monopolized every table, and left a room tired rather than warmed.",
+      "blanks": [
+        {
+          "options": [
+            "gregarious",
+            "retiring",
+            "insular"
+          ],
+          "answers": [
+            "gregarious"
+          ]
+        },
+        {
+          "options": [
+            "congenial",
+            "garrulous",
+            "imperious"
+          ],
+          "answers": [
+            "congenial"
+          ]
+        }
+      ],
+      "words": [
+        "gregarious"
+      ],
+      "explanation": "The \"and yet\" splits appetite for company from pleasantness in company: he sought people out constantly (gregarious) without being agreeable to be with, so blank 2 must be the word for pleasant company, congenial. Garrulous and imperious fail because the evidence after the colon establishes rather than denies those traits, and retiring or insular would contradict a man who cannot tolerate a free evening.",
+      "id": "gregmat32__b2__tc2__03",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "The commission volunteered no opinion and recommended no penalties; it merely printed the figures — ninety percent of the safety inspections had been fabricated — and the bare tabulation stood as a damning {1} of the entire regulatory apparatus.",
+      "blanks": [
+        {
+          "options": [
+            "indictment",
+            "censure",
+            "opprobrium",
+            "approbation",
+            "extenuation"
+          ],
+          "answers": [
+            "indictment"
+          ]
+        }
+      ],
+      "words": [
+        "indictment"
+      ],
+      "explanation": "Because the commission expressly condemns nothing, the accusing force has to come from the evidence itself, and indictment is the only word here that a statistic can constitute with no one speaking. Censure is a rebuke delivered by an authority and opprobrium is public disgrace heaped on by others — both require the condemning voice the sentence rules out — while approbation and extenuation would excuse rather than accuse.",
+      "id": "gregmat32__b2__cloze__04",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "Zola's open letter was a sweeping {1} of the general staff: it named the officers who had forged the evidence against Dreyfus and demanded that they themselves be brought to trial.",
+      "blanks": [
+        {
+          "options": [
+            "indictment",
+            "denunciation",
+            "vindication",
+            "exculpation",
+            "extenuation",
+            "encomium"
+          ],
+          "answers": [
+            "indictment",
+            "denunciation"
+          ]
+        }
+      ],
+      "words": [
+        "indictment"
+      ],
+      "explanation": "Naming culprits and demanding their prosecution makes the letter a formal public accusation, which indictment and denunciation both express. Vindication, exculpation, and extenuation all move blame away from the general staff rather than onto it, and encomium is outright praise.",
+      "id": "gregmat32__b2__se__05",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Presented with figures that amounted to a devastating {1} of his own department, the commissioner was less contrite than {2}, demanding to know by what right a panel of civilians impugned the honor of men who had risked their lives.",
+      "blanks": [
+        {
+          "options": [
+            "indictment",
+            "exoneration",
+            "encomium"
+          ],
+          "answers": [
+            "indictment"
+          ]
+        },
+        {
+          "options": [
+            "indignant",
+            "abashed",
+            "mollified"
+          ],
+          "answers": [
+            "indignant"
+          ]
+        }
+      ],
+      "words": [
+        "indictment",
+        "indignant"
+      ],
+      "explanation": "Blank 1 must be damning, since it is what he is expected to feel contrite about, and only indictment presents evidence as proof of guilt. Blank 2 is set against contrite: he claims a violated right rather than admitting fault, which is indignant — abashed is merely another form of shame and so collapses the contrast, and mollified would mean he had been appeased.",
+      "id": "gregmat32__b2__tc2__06",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "When the committee suggested that her data had been quietly massaged, Franklin was {1}: she wrote to the whole department to ask what evidence anyone possessed for so grave an insinuation.",
+      "blanks": [
+        {
+          "options": [
+            "indignant",
+            "affronted",
+            "chagrined",
+            "abashed",
+            "contrite",
+            "nonplussed"
+          ],
+          "answers": [
+            "indignant",
+            "affronted"
+          ]
+        }
+      ],
+      "words": [
+        "indignant"
+      ],
+      "explanation": "Her public demand for evidence is an outward protest against an insult, the posture indignant and affronted share. Chagrined and abashed turn the feeling inward as embarrassment, contrite concedes the fault the sentence shows her rejecting, and nonplussed would leave her bewildered rather than mid-protest.",
+      "id": "gregmat32__b2__se__07",
+      "unit": "gregmat32__b2",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat30__b0",
+  "gregmat_group": 30,
+  "words": [
+    "aberrant",
+    "abide",
+    "bravado",
+    "callow"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the tomb is in nearly every particular a {1} of Fifth Dynasty practice, the fourteen-degree gap between its burial shaft and true north struck the excavators as {2} enough to warrant a formal inquiry into the surveyors' competence.",
+      "blanks": [
+        {
+          "options": [
+            "paradigm",
+            "curiosity",
+            "hybrid"
+          ],
+          "answers": [
+            "paradigm"
+          ]
+        },
+        {
+          "options": [
+            "aberrant",
+            "mundane",
+            "derivative"
+          ],
+          "answers": [
+            "aberrant"
+          ]
+        }
+      ],
+      "words": [
+        "aberrant"
+      ],
+      "explanation": "The concession \"in nearly every particular\" sets the tomb up as a textbook specimen, so the first blank needs a word for the standard case: a paradigm. Against that baseline the single misalignment is not merely noted but treated as a fault demanding explanation — an inquiry into competence — which is exactly what aberrant asserts; mundane and derivative describe unremarkable or imitative work and would give the excavators nothing to investigate.",
+      "id": "gregmat30__b0__tc2__00",
+      "unit": "gregmat30__b0",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the colonel's twenty-year record prepared the board for the conduct described in the dispatches: not merely unusual but {1}, it prompted the inquiry to begin with his medical file rather than with his orders.",
+      "blanks": [
+        {
+          "options": [
+            "aberrant",
+            "anomalous",
+            "idiosyncratic",
+            "unorthodox",
+            "singular"
+          ],
+          "answers": [
+            "aberrant"
+          ]
+        }
+      ],
+      "words": [
+        "aberrant"
+      ],
+      "explanation": "The construction \"not merely unusual but ___\" rejects any word that only records a departure from the norm, which is all that anomalous, singular, and unorthodox do. Aberrant goes further and convicts: it presents the deviation as a malfunction requiring explanation, which is why the board reaches for a medical file. Idiosyncratic would attribute the behavior to settled personal quirk, the opposite of something newly pathological.",
+      "id": "gregmat30__b0__cloze__01",
+      "unit": "gregmat30__b0",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "The union had pledged in advance to {1} by whatever terms the arbitrator set, so its later refusal to implement the wage schedule struck even sympathetic observers as {2}.",
+      "blanks": [
+        {
+          "options": [
+            "abide",
+            "comply",
+            "adhere"
+          ],
+          "answers": [
+            "abide"
+          ]
+        },
+        {
+          "options": [
+            "duplicitous",
+            "resolute",
+            "stoic"
+          ],
+          "answers": [
+            "duplicitous"
+          ]
+        }
+      ],
+      "words": [
+        "abide"
+      ],
+      "explanation": "Only abide takes the preposition \"by\" in this sense — one complies with and adheres to terms — and it is the right verb precisely because the union had consented in advance to be bound by a ruling it had not yet heard. That prior consent is what makes the reversal a breach of faith rather than mere firmness, so duplicitous fits; resolute and stoic would praise or excuse conduct the sentence marks as indefensible.",
+      "id": "gregmat30__b0__tc2__02",
+      "unit": "gregmat30__b0",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Confronted at the shareholders' meeting with figures he could not refute, the chief executive answered in the loud, defiant manner of a man who already knows he has lost the room; it was pure {1}.",
+      "blanks": [
+        {
+          "options": [
+            "bravado",
+            "posturing",
+            "temerity",
+            "effrontery",
+            "hyperbole",
+            "equivocation"
+          ],
+          "answers": [
+            "bravado",
+            "posturing"
+          ]
+        }
+      ],
+      "words": [
+        "bravado"
+      ],
+      "explanation": "The clause \"a man who already knows he has lost\" makes the defiance a performance covering defeat, which is precisely what bravado and posturing both name. Temerity and effrontery describe nerve the speaker genuinely has — recklessness and insolence — rather than a display masking fear, and equivocation would require evasion, which the loud defiance rules out.",
+      "id": "gregmat30__b0__se__03",
+      "unit": "gregmat30__b0",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Dynasties fell, the language of the liturgy changed twice, and the abbey itself burned to its foundations; yet the rule Benedict had written {1}, copied out and observed in houses he never saw.",
+      "blanks": [
+        {
+          "options": [
+            "abided",
+            "lapsed",
+            "faltered",
+            "receded",
+            "foundered"
+          ],
+          "answers": [
+            "abided"
+          ]
+        }
+      ],
+      "words": [
+        "abide"
+      ],
+      "explanation": "The concessive \"yet\" demands a verb of survival to answer the catalogue of collapse, and abide in its older sense means exactly to remain and endure. Lapsed, faltered, foundered, and receded all describe the rule giving way, which would make the closing clause about its continued copying and observance contradictory.",
+      "id": "gregmat30__b0__cloze__05",
+      "unit": "gregmat30__b0",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "Fresh from the academy and anxious to be mistaken for a veteran, the {1} lieutenant greeted his first bombardment with a {2} that did not survive the opening hour of it.",
+      "blanks": [
+        {
+          "options": [
+            "callow",
+            "seasoned",
+            "taciturn"
+          ],
+          "answers": [
+            "callow"
+          ]
+        },
+        {
+          "options": [
+            "bravado",
+            "temerity",
+            "diffidence"
+          ],
+          "answers": [
+            "bravado"
+          ]
+        }
+      ],
+      "words": [
+        "callow",
+        "bravado"
+      ],
+      "explanation": "\"Fresh from the academy\" rules out seasoned and points to character not yet tested by anything, which is callow; taciturn describes manner, not experience, and would not explain his anxiety to be taken for a veteran. That same anxiety marks his boldness as staged for onlookers and hollow underneath — bravado — whereas temerity would credit him with real, if reckless, nerve, and diffidence reverses the sense entirely.",
+      "id": "gregmat30__b0__tc2__06",
+      "unit": "gregmat30__b0",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "A man of settled and irritable tastes, Housman could not {1} the {2} assurance of undergraduates who delivered final verdicts on poets they had been reading for a single term.",
+      "blanks": [
+        {
+          "options": [
+            "abide",
+            "gainsay",
+            "forbear"
+          ],
+          "answers": [
+            "abide"
+          ]
+        },
+        {
+          "options": [
+            "callow",
+            "erudite",
+            "diffident"
+          ],
+          "answers": [
+            "callow"
+          ]
+        }
+      ],
+      "words": [
+        "abide",
+        "callow"
+      ],
+      "explanation": "\"Could not abide\" reports a temperamental allergy to a person's habits, which is what \"settled and irritable tastes\" prepares; gainsay would mean contradict, and forbear cannot take a direct object this way. The undergraduates' fault is pronouncing on what they have not lived with, so the assurance is callow — unripe rather than learned, and plainly not diffident.",
+      "id": "gregmat30__b0__tc2__07",
+      "unit": "gregmat30__b0",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"naive\" is a third genuinely defensible option. The sentence's evidence — age 23, three weeks out of seminary, holding forth on bereavement and long marriage with an assurance that makes his elders wince — supports inexperience AND unworldly lack of discernment equally well. \"Callow\" and \"naive\" are close enough in ordinary usage (\"callow youth\" / \"naive youth\") that a test-taker pairing callow+naive produces a sentence essentially alike in meaning to callow+fledgling, and would be marked wrong. To disambiguate, the sentence needs a cue that isolates newness-in-role (which fledgling and callow share and naive does not) rather than the general immaturity all three carry — or \"naive\" should be replaced with a distractor that doesn't fit.",
+      "stem": "The {1} curate, twenty-three and three weeks out of the seminary, lectured his parishioners on bereavement and long marriage with an assurance that made the older among them wince."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "unit": "gregmat36__b2",
+  "gregmat_group": 36,
+  "words": [
+    "debase",
+    "disconcerting",
+    "extant",
+    "facility"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Gibbon's account suggests that the later emperors did not so much abolish the consulship as {1} it: the title survived, the robes survived, and the annual ceremony went on, but every power attached to the office had drained away, leaving a purely {2} dignity.",
+      "blanks": [
+        {
+          "options": [
+            "debase",
+            "depose",
+            "oust"
+          ],
+          "answers": [
+            "debase"
+          ]
+        },
+        {
+          "options": [
+            "vestigial",
+            "extant",
+            "ephemeral"
+          ],
+          "answers": [
+            "vestigial"
+          ]
+        }
+      ],
+      "words": [
+        "debase",
+        "extant"
+      ],
+      "explanation": "The office keeps its name and face value while its worth is talked down, which is exactly debase; depose and oust remove a person from an office and cannot take the office itself as object. In the second blank, form persisting after function is gone is vestigial — extant would claim only that the dignity still exists (and the sentence has already said so), and ephemeral would wrongly make it short-lived rather than hollow.",
+      "id": "gregmat36__b2__tc2__00",
+      "unit": "gregmat36__b2",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Renaissance apothecaries, trading in a spice worth more by weight than gold, so regularly {1} their saffron with dyed marigold petals that the guild courts heard little else.",
+      "blanks": [
+        {
+          "options": [
+            "adulterated",
+            "debased",
+            "tarnished",
+            "burnished",
+            "distilled",
+            "hoarded"
+          ],
+          "answers": [
+            "adulterated",
+            "debased"
+          ]
+        }
+      ],
+      "words": [
+        "debase"
+      ],
+      "explanation": "Both correct choices name the same act — cheapening a valuable substance by mixing an inferior one into it while it keeps its old name and price. Tarnished would mean staining a reputation rather than diluting a commodity, hoarded fits the economics of a costly spice but describes withholding rather than corrupting, and burnished and distilled run the opposite way, toward polishing and purifying.",
+      "id": "gregmat36__b2__se__01",
+      "unit": "gregmat36__b2",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the envoy's bearing suggested alarm: he met the minister's {1} silence — a pause held perhaps three seconds longer than the question warranted — with unbroken {2}, and resumed his brief as though no gap had opened at all.",
+      "blanks": [
+        {
+          "options": [
+            "disconcerting",
+            "appalling",
+            "harrowing"
+          ],
+          "answers": [
+            "disconcerting"
+          ]
+        },
+        {
+          "options": [
+            "aplomb",
+            "contrition",
+            "volubility"
+          ],
+          "answers": [
+            "aplomb"
+          ]
+        }
+      ],
+      "words": [
+        "disconcerting"
+      ],
+      "explanation": "The stimulus is a slightly overlong pause, which wrong-foots without frightening: appalling implies moral shock and harrowing implies anguish, both far too strong for a silence the envoy simply absorbs. The second blank must name composure held intact, which is aplomb; contrition would supply guilt and volubility mere talkativeness, neither of which is the opposite of being rattled.",
+      "id": "gregmat36__b2__tc2__02",
+      "unit": "gregmat36__b2",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers kept returning to the novel's tone, which they found {1}: the narrator recounts a mass funeral in the brisk, statistic-laden register of a sports report, and never signals that the mismatch is intended.",
+      "blanks": [
+        {
+          "options": [
+            "disconcerting",
+            "discomfited",
+            "flustered",
+            "imperturbable",
+            "harrowing"
+          ],
+          "answers": [
+            "disconcerting"
+          ]
+        }
+      ],
+      "words": [
+        "disconcerting"
+      ],
+      "explanation": "The tone is what throws the reader off balance, and only disconcerting describes the stimulus; discomfited and flustered describe the person who has been thrown, so a tone cannot be either. Imperturbable reverses the sense, and harrowing would promise devastation where the point is precisely that the prose refuses to be devastating.",
+      "id": "gregmat36__b2__cloze__03",
+      "unit": "gregmat36__b2",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Only three copies of the 1543 quarto are {1}, and even these are so badly {2} — waterlogged at the margins, rebound in the eighteenth century, missing whole gatherings — that any account of the original typography must remain conjectural.",
+      "blanks": [
+        {
+          "options": [
+            "extant",
+            "transient",
+            "immutable"
+          ],
+          "answers": [
+            "extant"
+          ]
+        },
+        {
+          "options": [
+            "mutilated",
+            "pristine",
+            "immaculate"
+          ],
+          "answers": [
+            "mutilated"
+          ]
+        }
+      ],
+      "words": [
+        "extant"
+      ],
+      "explanation": "The first blank counts what survived a process that destroyed the rest, which is the scholarly work extant does; transient would say the copies are short-lived and immutable that they are unchanging, and the second half of the sentence insists they have changed badly. The listed damage forces mutilated, and both pristine and immaculate would make the concluding admission of conjecture unintelligible.",
+      "id": "gregmat36__b2__tc2__04",
+      "unit": "gregmat36__b2",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Known for nearly a century only from Cretaceous fossils and assumed to have died with the ammonites, the coelacanth was shown to be {1} when a South African trawler hauled a living specimen aboard in 1938.",
+      "blanks": [
+        {
+          "options": [
+            "extant",
+            "vestigial",
+            "residual",
+            "perennial",
+            "entrenched"
+          ],
+          "answers": [
+            "extant"
+          ]
+        }
+      ],
+      "words": [
+        "extant"
+      ],
+      "explanation": "The claim being overturned is extinction, and extant asserts existence and nothing more, which is precisely what a living specimen establishes. Vestigial and residual would describe a shrunken remnant or leftover portion of something largely used up, and perennial and entrenched speak to persistence or fixity rather than to bare survival of a lineage presumed lost.",
+      "id": "gregmat36__b2__cloze__05",
+      "unit": "gregmat36__b2",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Where his rival labored over a single quartet for two seasons, blackening page after page of revisions, Mendelssohn composed with a {1} that struck some contemporaries as almost {2}: the fair copy looked like a first draft because it was one.",
+      "blanks": [
+        {
+          "options": [
+            "facility",
+            "doggedness",
+            "deliberation"
+          ],
+          "answers": [
+            "facility"
+          ]
+        },
+        {
+          "options": [
+            "unearned",
+            "arduous",
+            "meticulous"
+          ],
+          "answers": [
+            "unearned"
+          ]
+        }
+      ],
+      "words": [
+        "facility"
+      ],
+      "explanation": "The contrast with laborious revision demands a word for fluent, visibly effortless execution, which is facility; doggedness and deliberation both name the slow, effortful manner the sentence assigns to the rival instead. The second blank must register the faint suspicion that attaches to ease — that it came too cheaply — so unearned follows, while arduous and meticulous would contradict the whole point about first drafts.",
+      "id": "gregmat36__b2__tc2__06",
+      "unit": "gregmat36__b2",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence contains three plausible \"skill\" words, not two. \"Facility\" and \"deftness\" are the intended pair (light, effortless skill, supported by \"so nearly costless\"), but \"prowess\" also means notable skill/ability and fits idiomatically (\"conceded her prowess in converting a hostile question into a joke\"). Nothing in the sentence positively excludes it — the effortlessness clue is compatible with, rather than contradictory to, prowess — so a test-taker could defensibly pair prowess with facility or with deftness and be marked wrong. (\"Tenacity,\" \"erudition,\" and \"obduracy\" are clean distractors.) Fix by replacing \"prowess\" with a word that has no skill sense, or by adding a clue that rules out sheer power/excellence in favor of light, effortless adroitness.",
+      "stem": "Even her opponents conceded her {1} in converting a hostile question into an occasion for a joke; the deflection looked so nearly costless that no one in the room noticed the question had gone unanswered."
+    }
+  ]
+}

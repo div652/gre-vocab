@@ -1,0 +1,200 @@
+{
+  "unit": "gregmat14__b3",
+  "gregmat_group": 14,
+  "words": [
+    "divorced",
+    "elitist",
+    "exacting",
+    "flummoxed"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The new academy advertised itself as {1} — tuition waived, no family name required — but an entrance examination in classical Greek quietly restored the {2} order its founders claimed to have abolished.",
+      "blanks": [
+        {
+          "options": [
+            "egalitarian",
+            "patronizing",
+            "exacting"
+          ],
+          "answers": [
+            "egalitarian"
+          ]
+        },
+        {
+          "options": [
+            "elitist",
+            "equitable",
+            "chauvinistic"
+          ],
+          "answers": [
+            "elitist"
+          ]
+        }
+      ],
+      "words": [
+        "elitist"
+      ],
+      "explanation": "The dashes define the advertised principle as fee-free and birth-blind, i.e. egalitarian; exacting would describe the difficulty of the standard, not its openness. The Greek examination reinstates rule by a favored few, so the restored order is elitist — equitable reverses the sense, and chauvinistic denotes aggressive group loyalty rather than a belief that a chosen few should govern.",
+      "id": "gregmat14__b3__tc2__01",
+      "unit": "gregmat14__b3",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "The manual, written by engineers for engineers, left ordinary purchasers utterly {1}; the firm's remedy — a glossy leaflet demonstrating how to plug the machine into a wall socket — struck those same purchasers as insufferably {2}.",
+      "blanks": [
+        {
+          "options": [
+            "flummoxed",
+            "estranged",
+            "punctilious"
+          ],
+          "answers": [
+            "flummoxed"
+          ]
+        },
+        {
+          "options": [
+            "patronizing",
+            "imperious",
+            "egalitarian"
+          ],
+          "answers": [
+            "patronizing"
+          ]
+        }
+      ],
+      "words": [
+        "flummoxed"
+      ],
+      "explanation": "Buyers confronted with an unusable document are stumped by a specific puzzle and have no next move: flummoxed. Estranged would require alienation from a person or community, and punctilious describes fussiness over detail rather than a state of confusion. The remedy explains something insultingly obvious, which is condescension — patronizing — not the domineering command implied by imperious.",
+      "id": "gregmat14__b3__tc2__02",
+      "unit": "gregmat14__b3",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Hand-binding a folio is {1} work: a single misaligned fold ruins the sheet, and even a practiced artisan completes only two or three volumes in a day.",
+      "blanks": [
+        {
+          "options": [
+            "exacting",
+            "painstaking",
+            "onerous",
+            "fastidious",
+            "punctilious",
+            "draconian"
+          ],
+          "answers": [
+            "exacting",
+            "painstaking"
+          ]
+        }
+      ],
+      "words": [
+        "exacting"
+      ],
+      "explanation": "The colon supplies both criteria the word must satisfy: intolerance of the smallest error and a heavy cost in time and stamina — exacting and painstaking each carry both, and both treat the standard as legitimate rather than fussy. Fastidious and punctilious describe a person's attention to detail, not the demands a task makes; onerous captures burden but not precision, and draconian describes punitive severity in rules.",
+      "id": "gregmat14__b3__se__03",
+      "unit": "gregmat14__b3",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Presented with a fossil that had the jaw of a mammal and the shoulder girdle of a reptile, the anatomists who had confidently classified every other specimen in the drawer were, for once, {1}.",
+      "blanks": [
+        {
+          "options": [
+            "flummoxed",
+            "stumped",
+            "exasperated",
+            "incredulous",
+            "chastened",
+            "vindicated"
+          ],
+          "answers": [
+            "flummoxed",
+            "stumped"
+          ]
+        }
+      ],
+      "words": [
+        "flummoxed"
+      ],
+      "explanation": "\"For once\" contrasts habitual confidence with a particular object that defeats it: the specialists know exactly what they are looking at and have no move, which is flummoxed or stumped. Exasperated names irritation rather than bafflement, incredulous names disbelief, and chastened and vindicated concern how the episode reflects on the anatomists' standing, not their inability to classify.",
+      "id": "gregmat14__b3__se__04",
+      "unit": "gregmat14__b3",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "Critics of the preservation scheme objected less to its cost than to its premise, {1} in the plainest sense: that a committee of connoisseurs, rather than the residents who would live with the results, ought to decide which streets were worth saving.",
+      "blanks": [
+        {
+          "options": [
+            "elitist",
+            "haughty",
+            "imperious",
+            "patronizing",
+            "egalitarian"
+          ],
+          "answers": [
+            "elitist"
+          ]
+        }
+      ],
+      "words": [
+        "elitist"
+      ],
+      "explanation": "What is described is a doctrine about who should hold power — a chosen few by taste, over ordinary people — which is exactly the charge elitist makes, and it can be levelled at a premise or a policy. Haughty, imperious, and patronizing all name a manner adopted toward the person in front of you, which a premise cannot have; egalitarian reverses the meaning entirely.",
+      "id": "gregmat14__b3__cloze__06",
+      "unit": "gregmat14__b3",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "Ford was an {1} supervisor: he returned drafts until every citation conformed to the house form, and yet no one who worked under him ever thought the standard arbitrary.",
+      "blanks": [
+        {
+          "options": [
+            "exacting",
+            "stringent",
+            "draconian",
+            "finicky",
+            "onerous"
+          ],
+          "answers": [
+            "exacting"
+          ]
+        }
+      ],
+      "words": [
+        "exacting"
+      ],
+      "explanation": "The blank modifies a person who makes severe demands on his subordinates' care and skill, and the closing clause concedes that those demands were legitimate — both conditions fit exacting alone. Stringent and onerous apply to rules and burdens rather than to a human demander; finicky would convict him of pointless fussiness, which the final clause denies, and draconian implies punitive harshness.",
+      "id": "gregmat14__b3__cloze__07",
+      "unit": "gregmat14__b3",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean (\"admired ... yet\" plus \"taken such trouble to assemble\" clearly wants praise for painstaking work: exacting; perfunctory and imperious both fail). Blank 2 is broken: all three options are near-synonyms meaning \"separated/disconnected from,\" and the sentence supplies no semantic feature that picks one out — only idiomatic register does. \"Divorced from\" is the standard collocation for an argument detached from its evidence, but \"estranged from\" and \"alienated from\" are defensible readings of the same relation (a test-taker choosing either has picked a phrase that fits the sentence's logic exactly as well). A GRE blank must be decidable by meaning, not by which synonym happens to be the more common metaphor; as written this blank would mark a reasonable test-taker wrong. Replace two of the three with options that differ in sense (e.g., \"at odds with\" vs. \"corroborated by\" vs. \"extrapolated from\").",
+      "stem": "Reviewers admired the biography's {1} reconstruction of Hume's daily correspondence, yet found its sweeping claims about the Enlightenment temperament oddly {2} the very letters the author had taken such trouble to assemble."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options — \"divorced from\", \"estranged from\", \"alienated from\" — are near-synonyms meaning \"separated/disconnected from\", and the sentence provides no semantic constraint that rules the latter two out. \"Divorced from\" is the natural collocation for a model detached from empirical data, but the only thing eliminating \"alienated from\" / \"estranged from\" is an idiomatic animacy preference (those normally describe people), not anything the sentence states. A test-taker choosing \"alienated from\" has a defensible reading and would be marked wrong. Only \"antagonized by\" (wrong direction/voice) and \"averse to\" (ascribes distaste to an inanimate model) are cleanly eliminable, so the item has three live candidates for one blank.",
+      "stem": "Macroeconomic models that assume perfectly rational agents have been attacked for decades as {1} the untidy behavior that laboratory experiments actually record."
+    }
+  ]
+}

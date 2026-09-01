@@ -1,0 +1,161 @@
+{
+  "unit": "gregmat15__b7",
+  "gregmat_group": 15,
+  "words": [
+    "virulent",
+    "volatile"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Historians of the period are careful to distinguish the pamphleteer's early polemics, which were merely {1} — forceful, but directed at ministerial policy rather than at persons — from the columns he wrote after 1893, whose {2} abuse of immigrant families was reprinted in provincial papers and poisoned local politics for a generation.",
+      "blanks": [
+        {
+          "options": [
+            "vehement",
+            "benign",
+            "noxious"
+          ],
+          "answers": [
+            "vehement"
+          ]
+        },
+        {
+          "options": [
+            "virulent",
+            "insidious",
+            "salutary"
+          ],
+          "answers": [
+            "virulent"
+          ]
+        }
+      ],
+      "words": [
+        "virulent"
+      ],
+      "explanation": "The dash defines blank 1 as force without malice, which is exactly vehement; benign contradicts \"forceful\" and noxious would concede the harm the sentence is withholding until later. Blank 2 needs venom that spreads and infects — the reprinting and the \"poisoned\" politics — so virulent is required; insidious names harm that works secretly, which open printed abuse cannot, and salutary is the opposite of what is described.",
+      "id": "gregmat15__b7__tc2__00",
+      "unit": "gregmat15__b7",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission attributes the refinery fire less to any single act of negligence than to a culture of improvisation: workers habitually decanted a highly {1} solvent into open trays, trusting that the fumes would disperse, and supervisors treated such {2} of written procedure as proof of initiative rather than as an invitation to disaster.",
+      "blanks": [
+        {
+          "options": [
+            "volatile",
+            "viscous",
+            "versatile"
+          ],
+          "answers": [
+            "volatile"
+          ]
+        },
+        {
+          "options": [
+            "infractions",
+            "ratifications",
+            "vindications"
+          ],
+          "answers": [
+            "infractions"
+          ]
+        }
+      ],
+      "words": [
+        "volatile"
+      ],
+      "explanation": "Fumes rising from an open tray point to a liquid that evaporates readily and dangerously — the literal chemical sense of volatile; a viscous solvent would sit in the tray, and versatile is only a lookalike. Blank 2 must name the workers' departure from \"written procedure,\" which infractions does, whereas ratifications and vindications would mean the procedure was upheld, leaving nothing for supervisors to excuse.",
+      "id": "gregmat15__b7__tc2__01",
+      "unit": "gregmat15__b7",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers who had lavished praise on his first novel greeted the sequel with attacks so {1} — sneering imputations about the author's marriage and finances rather than any judgment of his prose — that two of the reviewers' own colleagues publicly disavowed them.",
+      "blanks": [
+        {
+          "options": [
+            "virulent",
+            "vitriolic",
+            "vehement",
+            "trenchant",
+            "perfunctory",
+            "mercurial"
+          ],
+          "answers": [
+            "virulent",
+            "vitriolic"
+          ]
+        }
+      ],
+      "words": [
+        "virulent"
+      ],
+      "explanation": "The attacks are personal, poisonous, and shameful enough to be disavowed, so the blank must name venom, not mere energy: virulent and vitriolic are equivalent here. Vehement would describe force alone (one can be vehement in defense of someone) and trenchant would praise the reviews as incisive — both fit the grammar while changing the meaning; perfunctory contradicts the sustained malice and mercurial names inconstancy, not hostility.",
+      "id": "gregmat15__b7__se__02",
+      "unit": "gregmat15__b7",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "With rival militias encamped on either bank of the river and the last food convoy turned back at gunpoint, the border districts remained far too {1} for unarmed monitors to be deployed there.",
+      "blanks": [
+        {
+          "options": [
+            "volatile",
+            "combustible",
+            "capricious",
+            "mercurial",
+            "fractious",
+            "moribund"
+          ],
+          "answers": [
+            "volatile",
+            "combustible"
+          ]
+        }
+      ],
+      "words": [
+        "volatile"
+      ],
+      "explanation": "The danger is that the situation may erupt into violence at any moment, which is precisely what volatile and combustible convey of a place. Capricious and mercurial describe changeable temperament or whim rather than latent explosion and would be odd of districts; fractious would say only that the districts are quarrelsome, and moribund reverses the sense entirely.",
+      "id": "gregmat15__b7__se__03",
+      "unit": "gregmat15__b7",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Epidemiologists stress that the 1918 strain was not simply more transmissible than its predecessors but far more {1}: it killed previously healthy adults within days and resisted every treatment then available.",
+      "blanks": [
+        {
+          "options": [
+            "virulent",
+            "insidious",
+            "pernicious",
+            "endemic",
+            "salubrious"
+          ],
+          "answers": [
+            "virulent"
+          ]
+        }
+      ],
+      "words": [
+        "virulent"
+      ],
+      "explanation": "The sentence sets transmissibility aside and asks for the term of art for a pathogen's destructive power — one that kills fast and defies treatment — which is virulent. Insidious would require a stealthy, gradual onset that \"within days\" rules out, pernicious likewise suggests slow moral or physical corrosion, endemic speaks to a disease's constant presence in a region rather than its severity, and salubrious is health-giving.",
+      "id": "gregmat15__b7__cloze__04",
+      "unit": "gregmat15__b7",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,245 @@
+{
+  "unit": "gregmat02__b3",
+  "gregmat_group": 2,
+  "words": [
+    "brazen",
+    "calumny",
+    "candid",
+    "castigate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The commission {1} the chairman less for the diversion of funds, which was modest, than for the {2} of it: he had moved the money in open session and minuted the transaction himself, as if inviting the board to try stopping him.",
+      "blanks": [
+        {
+          "options": [
+            "castigated",
+            "exonerated",
+            "lampooned"
+          ],
+          "answers": [
+            "castigated"
+          ]
+        },
+        {
+          "options": [
+            "brazenness",
+            "furtiveness",
+            "contrition"
+          ],
+          "answers": [
+            "brazenness"
+          ]
+        }
+      ],
+      "words": [
+        "castigate",
+        "brazen"
+      ],
+      "explanation": "The sentence names a specific failing and delivers a verdict from a body with authority, which is exactly the work castigate does; exonerated reverses the judgment, and lampooned (to satirize) belongs to comic writing, not a commission's findings. For the second blank, the act was done in open session and self-recorded, so what offends is the shamelessness of doing it in full view: furtiveness describes the opposite behavior, and contrition would require the very embarrassment he refuses to show.",
+      "id": "gregmat02__b3__tc2__00",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Advised by counsel to settle quietly, the financier chose instead to {1} it out, appearing on the courthouse steps each morning, unembarrassed and smiling, to declare the charges an impertinence.",
+      "blanks": [
+        {
+          "options": [
+            "brazen",
+            "sweat",
+            "ride",
+            "stick",
+            "wait"
+          ],
+          "answers": [
+            "brazen"
+          ]
+        }
+      ],
+      "words": [
+        "brazen"
+      ],
+      "explanation": "Sweat, ride, stick and wait it out all describe passively enduring an ordeal until it passes; the financier is doing something active and public, facing down an accusation by refusing to look ashamed, which is the specific sense of brazen it out. The details that decide it are unembarrassed and the daily appearance before cameras, neither of which is endurance.",
+      "id": "gregmat02__b3__cloze__01",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "The charges of treason were fabrications, spread at court by a rival who knew them to be false, and yet the {1} outlived both men and colored three centuries of the admiral's reputation.",
+      "blanks": [
+        {
+          "options": [
+            "calumny",
+            "slander",
+            "invective",
+            "encomium",
+            "indiscretion",
+            "bravado"
+          ],
+          "answers": [
+            "calumny",
+            "slander"
+          ]
+        }
+      ],
+      "words": [
+        "calumny"
+      ],
+      "explanation": "The sentence establishes both falsehood and deliberate aim at a reputation, which is precisely what calumny and slander name, so the two produce equivalent sentences. Invective is abusive language that may be perfectly truthful, indiscretion suggests a careless disclosure rather than an invented charge, and encomium (formal praise) reverses the sense entirely.",
+      "id": "gregmat02__b3__se__02",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "What distinguishes the new biography is its refusal of both easy courses: it neither recycles the {1} circulated by the duke's creditors nor shrinks from a {2} accounting of the debts that were genuine.",
+      "blanks": [
+        {
+          "options": [
+            "calumnies",
+            "encomiums",
+            "disclaimers"
+          ],
+          "answers": [
+            "calumnies"
+          ]
+        },
+        {
+          "options": [
+            "candid",
+            "guarded",
+            "cursory"
+          ],
+          "answers": [
+            "candid"
+          ]
+        }
+      ],
+      "words": [
+        "calumny",
+        "candid"
+      ],
+      "explanation": "The contrast with debts that were genuine marks the creditors' stories as malicious falsehoods, so calumnies is required; encomiums would be praise, which hostile creditors do not circulate. The second blank must name the opposite failing, concealment of unflattering fact, so the book gives the disclosure it might have suppressed: guarded and cursory both describe the shrinking the sentence says it refuses.",
+      "id": "gregmat02__b3__tc2__03",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "The tribunal's language was unusually severe: it {1} the ministry by name for having suppressed a safety report whose findings would have delayed the launch.",
+      "blanks": [
+        {
+          "options": [
+            "castigated",
+            "admonished",
+            "lampooned",
+            "exonerated",
+            "importuned"
+          ],
+          "answers": [
+            "castigated"
+          ]
+        }
+      ],
+      "words": [
+        "castigate"
+      ],
+      "explanation": "Castigate is the judicial register the sentence calls for: a public rebuke, from moral authority, naming a specific offense on the record. Admonished is the trap, but it denotes a mild warning and is ruled out by unusually severe; lampooned implies ridicule, importuned means to pester with requests, and exonerated is the reverse verdict.",
+      "id": "gregmat02__b3__cloze__04",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Analysts credited the chief executive with an unusually {1} account of the quarter: rather than bury the write-down in a footnote, she named its size in her opening remarks, along with her own share of the blame for it.",
+      "blanks": [
+        {
+          "options": [
+            "candid",
+            "frank",
+            "guarded",
+            "sanguine",
+            "grudging",
+            "laconic"
+          ],
+          "answers": [
+            "candid",
+            "frank"
+          ]
+        }
+      ],
+      "words": [
+        "candid"
+      ],
+      "explanation": "She volunteers unflattering information she had every incentive to hide, so candid and frank are the pair, both meaning openly honest about the awkward. Guarded and grudging describe the withholding the sentence explicitly contrasts, while sanguine (cheerfully optimistic) and laconic (using few words) are tonally plausible but describe mood and length rather than disclosure.",
+      "id": "gregmat02__b3__se__05",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Interviewers found her {1} on subjects most politicians treat as off-limits, from her divorce to her party's collapsing finances, though on the question of a successor she would say nothing at all.",
+      "blanks": [
+        {
+          "options": [
+            "candid",
+            "effusive",
+            "garrulous",
+            "evasive",
+            "tactful"
+          ],
+          "answers": [
+            "candid"
+          ]
+        }
+      ],
+      "words": [
+        "candid"
+      ],
+      "explanation": "What the sentence measures is willingness to disclose what there was reason to conceal, which is candid; the closing clause about the successor confirms that the openness is chosen rather than merely talkative. Garrulous and effusive describe quantity and warmth of speech, not disclosure, and evasive and tactful both name the dodging she declines to do.",
+      "id": "gregmat02__b3__cloze__06",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers who had praised the first novel {1} the second, calling its politics not merely naive but dishonest.",
+      "blanks": [
+        {
+          "options": [
+            "castigated",
+            "excoriated",
+            "admonished",
+            "extolled",
+            "tolerated",
+            "revisited"
+          ],
+          "answers": [
+            "castigated",
+            "excoriated"
+          ]
+        }
+      ],
+      "words": [
+        "castigate"
+      ],
+      "explanation": "The charge of dishonesty, delivered in public and on the record, calls for severe rebuke, and castigated and excoriated are equivalent at that intensity. Admonished is too mild for an accusation of bad faith, extolled and tolerated point the wrong way, and revisited describes returning to a subject rather than condemning it.",
+      "id": "gregmat02__b3__se__07",
+      "unit": "gregmat02__b3",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": []
+}

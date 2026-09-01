@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat06__b6",
+  "gregmat_group": 6,
+  "words": [
+    "tractable",
+    "transient",
+    "ubiquitous",
+    "underscore"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The mediators arrived expecting a quarrel that would prove {1} once the parties were finally seated at one table, but forty years of collapsed talks had left positions so {2} that each new round did little more than restate the impasse.",
+      "blanks": [
+        {
+          "options": [
+            "tractable",
+            "obstreperous",
+            "immutable"
+          ],
+          "answers": [
+            "tractable"
+          ]
+        },
+        {
+          "options": [
+            "entrenched",
+            "malleable",
+            "transient"
+          ],
+          "answers": [
+            "entrenched"
+          ]
+        }
+      ],
+      "words": [
+        "tractable"
+      ],
+      "explanation": "The contrastive \"but\" requires an optimistic first blank and an obstructive second: the mediators expected a solvable problem (tractable, the technical sense — one that yields to method) and met positions dug in beyond reach (entrenched). \"Immutable\" in blank 1 would make the two halves agree rather than clash, and \"malleable\" or \"transient\" positions would have dissolved long before the fortieth year, leaving no impasse to restate.",
+      "id": "gregmat06__b6__tc2__00",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Victorian schoolmasters prized the {1} pupil over the merely clever one, and their reports accordingly dwell far less on intellectual promise than on a boy's readiness to {2} without argument.",
+      "blanks": [
+        {
+          "options": [
+            "tractable",
+            "obstreperous",
+            "doctrinaire"
+          ],
+          "answers": [
+            "tractable"
+          ]
+        },
+        {
+          "options": [
+            "comply",
+            "dissent",
+            "mutiny"
+          ],
+          "answers": [
+            "comply"
+          ]
+        }
+      ],
+      "words": [
+        "tractable"
+      ],
+      "explanation": "The second clause defines the first: what the reports measure is steerability, so the prized pupil is tractable and the readiness in question is a readiness to comply. \"Obstreperous\" names the boy such reports complained of, and \"dissent without argument\" is self-contradictory — dissent and mutiny are precisely what the schoolmaster's approval excludes.",
+      "id": "gregmat06__b6__tc2__01",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "The engineers traced the blackout not to any structural defect but to a {1} surge in voltage that lasted three milliseconds and left no trace whatever in the hardware.",
+      "blanks": [
+        {
+          "options": [
+            "transient",
+            "momentary",
+            "sporadic",
+            "pervasive",
+            "perennial",
+            "entrenched"
+          ],
+          "answers": [
+            "transient",
+            "momentary"
+          ]
+        }
+      ],
+      "words": [
+        "transient"
+      ],
+      "explanation": "Three milliseconds and no residue demand a word for brief duration, and transient — the engineer's cold, clinical term for a passing fault — pairs with momentary to give the same sentence twice. \"Sporadic\" is grammatical and technical-sounding but describes a pattern of recurrence rather than a single short event, while \"pervasive,\" \"perennial,\" and \"entrenched\" all assert the persistence the sentence explicitly denies.",
+      "id": "gregmat06__b6__se__02",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Census takers found the county's population largely {1}: pipeline crews who rented rooms for a single season and then followed the work north.",
+      "blanks": [
+        {
+          "options": [
+            "transient",
+            "ephemeral",
+            "evanescent",
+            "endemic",
+            "entrenched"
+          ],
+          "answers": [
+            "transient"
+          ]
+        }
+      ],
+      "words": [
+        "transient"
+      ],
+      "explanation": "Only transient carries the sense of passing through in physical space — people who arrive, stay briefly, and move on — which is exactly what the colon spells out. \"Ephemeral\" and \"evanescent\" mean short-lived and belong to sunsets and beauty, not to crews who are still perfectly alive somewhere north; \"endemic\" and \"entrenched\" describe populations that are fixed in place.",
+      "id": "gregmat06__b6__cloze__03",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Having no patience for deliberation, the new director packed the oversight committee with {1} appointees who could be relied upon to ratify whatever the executive put before them.",
+      "blanks": [
+        {
+          "options": [
+            "tractable",
+            "pliant",
+            "obstreperous",
+            "dissident",
+            "hidebound",
+            "ossified"
+          ],
+          "answers": [
+            "tractable",
+            "pliant"
+          ]
+        }
+      ],
+      "words": [
+        "tractable"
+      ],
+      "explanation": "The relative clause supplies the test — appointees who ratify on cue are being led, which is what tractable (steerable by whoever holds the reins) and pliant both name, and both carry the same faint condescension. \"Obstreperous\" and \"dissident\" describe the members such a director was avoiding, and \"hidebound\" and \"ossified\" mean rigidly set in old habits, a disposition that resists direction rather than yielding to it.",
+      "id": "gregmat06__b6__se__04",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from being confined to hospital wards, resistance genes proved {1} — turning up in every soil and sediment sample drawn from six continents — a result that {2} the futility of containment measures aimed at clinical settings alone.",
+      "blanks": [
+        {
+          "options": [
+            "ubiquitous",
+            "sporadic",
+            "transient"
+          ],
+          "answers": [
+            "ubiquitous"
+          ]
+        },
+        {
+          "options": [
+            "underscored",
+            "contravened",
+            "exaggerated"
+          ],
+          "answers": [
+            "underscored"
+          ]
+        }
+      ],
+      "words": [
+        "ubiquitous",
+        "underscore"
+      ],
+      "explanation": "\"Every sample from six continents\" is a count of locations, which is what ubiquitous asserts — inescapable presence, not the scattered occurrence of \"sporadic\" or the brief duration of \"transient.\" In the second blank the finding does not inflate the futility (\"exaggerated\") or run counter to it (\"contravened\"); it makes an already existing futility impossible to overlook, which is underscore's characteristic work when the subject is a fact or a result rather than a speaker.",
+      "id": "gregmat06__b6__tc2__05",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "The audit disclosed nothing that veteran inspectors had not long suspected; it merely {1} a fragility in the certification regime that everyone had until then found convenient to ignore.",
+      "blanks": [
+        {
+          "options": [
+            "underscored",
+            "amplified",
+            "exaggerated",
+            "ossified",
+            "flouted"
+          ],
+          "answers": [
+            "underscored"
+          ]
+        }
+      ],
+      "words": [
+        "underscore"
+      ],
+      "explanation": "\"Disclosed nothing new\" and \"merely\" establish that the fragility was already there and only its visibility changed, which is precisely what underscore does — it adds no volume, just a pointing finger. \"Amplified\" would mean the audit increased the fragility itself, and \"exaggerated\" would mean it overstated a weakness the sentence treats as real.",
+      "id": "gregmat06__b6__cloze__06",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "By 1995 the logo had become {1} — on billboards in Lagos, on T-shirts in Warsaw, on the sails of boats in the Aegean — and had thereby forfeited whatever power to startle it once possessed.",
+      "blanks": [
+        {
+          "options": [
+            "ubiquitous",
+            "omnipresent",
+            "endemic",
+            "rampant",
+            "sporadic",
+            "scant"
+          ],
+          "answers": [
+            "ubiquitous",
+            "omnipresent"
+          ]
+        }
+      ],
+      "words": [
+        "ubiquitous"
+      ],
+      "explanation": "The three scattered continents, and the saturation so complete that the logo stopped registering, call for ubiquitous and its close equal omnipresent. \"Endemic\" would confine the logo to one locale as a native feature, contradicting the global list; \"rampant\" describes unchecked proliferation of something harmful rather than presence everywhere, and \"sporadic\" and \"scant\" reverse the sentence's point.",
+      "id": "gregmat06__b6__se__07",
+      "unit": "gregmat06__b6",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,155 @@
+{
+  "unit": "gregmat07__b3",
+  "gregmat_group": 7,
+  "words": [
+    "intrepid",
+    "irreverent",
+    "loathe",
+    "malign"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Her editors preferred the word {1}, and used it of a correspondent they took to be constitutionally unmoved by shellfire; she herself claimed to be no more than {2}, insisting that her nerve was the accident of a particular morning rather than any fixed feature of her character.",
+      "blanks": [
+        {
+          "options": [
+            "intrepid",
+            "redoubtable",
+            "timorous"
+          ],
+          "answers": [
+            "intrepid"
+          ]
+        },
+        {
+          "options": [
+            "plucky",
+            "mettlesome",
+            "craven"
+          ],
+          "answers": [
+            "plucky"
+          ]
+        }
+      ],
+      "words": [
+        "intrepid"
+      ],
+      "explanation": "The first blank needs a word for a settled, unshakable temperament in the face of danger, which is exactly intrepid; redoubtable means formidable to opponents — it describes who fears you, not what you fail to fear. The second blank must name courage that is momentary rather than characteristic, so plucky fits and mettlesome fails, since mettle is precisely the fixed quality of character the correspondent denies having (craven is excluded by her admitted nerve).",
+      "id": "gregmat07__b3__tc2__00",
+      "unit": "gregmat07__b3",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "Ross's third assault on the Northwest Passage confirmed his standing as the age's most {1} navigator: it was not that he rose to particular crises, but that uncharted water seemed to be the only element in which he was entirely at home.",
+      "blanks": [
+        {
+          "options": [
+            "intrepid",
+            "plucky",
+            "redoubtable",
+            "valorous",
+            "timorous"
+          ],
+          "answers": [
+            "intrepid"
+          ]
+        }
+      ],
+      "words": [
+        "intrepid"
+      ],
+      "explanation": "Intrepid names a standing disposition toward the unknown — expeditions, frontiers, unmapped water — which is what the second clause insists on. Plucky is the nearest miss but denotes spirited nerve in a particular pinch, the very reading the sentence rules out with \"not that he rose to particular crises\"; valorous belongs to battlefield gallantry and redoubtable to the fear one inspires in others.",
+      "id": "gregmat07__b3__cloze__01",
+      "unit": "gregmat07__b3",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Fitzgerald's life of the general is {1} on nearly every page — she punctures his self-mythology, quotes his worst verse, and treats his famous last words as a punchline — and yet she never {2} him, so that the reader closes the book oddly fonder of the man than when he opened it.",
+      "blanks": [
+        {
+          "options": [
+            "irreverent",
+            "obsequious",
+            "sanctimonious"
+          ],
+          "answers": [
+            "irreverent"
+          ]
+        },
+        {
+          "options": [
+            "maligns",
+            "lionizes",
+            "canonizes"
+          ],
+          "answers": [
+            "maligns"
+          ]
+        }
+      ],
+      "words": [
+        "irreverent",
+        "malign"
+      ],
+      "explanation": "The catalogue of punctured myths and jokes at the subject's expense is cheeky disrespect toward what others hold sacred — irreverent, not obsequious (fawning) or sanctimonious (piously superior). The \"and yet\" demands something worse that she abstains from, and only maligns supplies it: to lionize or canonize would be to glorify him, which does not contrast with mockery at all, whereas the point is that teasing a reputation is not the same as steadily blackening one.",
+      "id": "gregmat07__b3__tc2__03",
+      "unit": "gregmat07__b3",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "Long after the mill itself had closed, epidemiologists were still tracing the {1} effects of its runoff on the valley's water table — harm done by a process that intended nothing whatever.",
+      "blanks": [
+        {
+          "options": [
+            "malign",
+            "malevolent",
+            "sadistic",
+            "benign",
+            "munificent"
+          ],
+          "answers": [
+            "malign"
+          ]
+        }
+      ],
+      "words": [
+        "malign"
+      ],
+      "explanation": "As an adjective, malign means evil in effect, with no implication of a will behind it, which is what the closing clause insists upon. Malevolent is the trap: it requires an agent who wishes harm, and runoff wishes nothing; sadistic goes further still, and benign and munificent are positive.",
+      "id": "gregmat07__b3__cloze__05",
+      "unit": "gregmat07__b3",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": [
+    {
+      "why": "structure: needs 1 blank",
+      "problem": null,
+      "stem": "Beerbohm's parodies of the Victorian sages are {1} without being cruel: he kneels at none of their altars, yet he plainly loves the cadences he is taking apart."
+    },
+    {
+      "why": "structure: needs 1 blank",
+      "problem": null,
+      "stem": "For thirty years the minister's rivals {1} him in private letters and at dinner tables, never once in print, so that his standing decayed steadily without his ever being handed a charge he could answer."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean: \"distaste\" and \"hardened... no longer merely disagreed\" require a negative feeling, so \"antipathy\" is the only fit (\"affinity\" and \"penchant\" are both positive). Blank 2 is defective: \"loathed\" and \"abhorred\" are near-perfect synonyms, both denoting intense hatred well beyond mere disagreement, and both are idiomatic here. The gut-versus-conscience clause is too weak to separate them — one can argue \"loathed\" is the more visceral, stomach-level word, but \"abhorred\" (literally \"shudder away from\") is an equally defensible physical-revulsion word, and a test-taker choosing it would be marked wrong for no principled reason. Only \"indulged\" is excluded. The sentence needs a distinguishing constraint (e.g., a second dimension of meaning that only one verb carries) or a replacement distractor.",
+      "stem": "What began as a mild {1} — the professional distaste of one stylist for another's prose — had hardened by the end of Nabokov's life into something else: he no longer merely disagreed with Freud, he {2} him, with a revulsion he located in the stomach rather than in the conscience."
+    },
+    {
+      "why": "structure: needs 1 blank",
+      "problem": null,
+      "stem": "Even colleagues who shared her politics conceded that she {1} the chairman — not merely disagreed with him, not merely disliked him, but recoiled from him as from something spoiled."
+    }
+  ]
+}

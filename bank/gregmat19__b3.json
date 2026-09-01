@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat19__b3",
+  "gregmat_group": 19,
+  "words": [
+    "fallible",
+    "florid",
+    "gawky",
+    "inveigle"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because eyewitness memory is {1} even in a witness of unimpeachable honesty, reformers contend that a conviction resting on identification alone is {2}, however sincerely that identification was offered.",
+      "blanks": [
+        {
+          "options": [
+            "fallible",
+            "mendacious",
+            "venal"
+          ],
+          "answers": [
+            "fallible"
+          ]
+        },
+        {
+          "options": [
+            "unsafe",
+            "irreproachable",
+            "incontrovertible"
+          ],
+          "answers": [
+            "unsafe"
+          ]
+        }
+      ],
+      "words": [
+        "fallible"
+      ],
+      "explanation": "The concession \"even in a witness of unimpeachable honesty\" rules out mendacious and venal, which both allege bad faith; fallible is precisely the word for a standing capacity to err without any charge of dishonesty. That capacity for innocent error is what makes an identification-only conviction unsafe, whereas incontrovertible would reverse the reformers' argument and irreproachable praises conduct rather than assessing reliability.",
+      "id": "gregmat19__b3__tc2__00",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "The rationale for double-blind protocols is not that researchers are dishonest but that they are {1}: expectation quietly shapes what a hopeful observer notices and records.",
+      "blanks": [
+        {
+          "options": [
+            "fallible",
+            "mendacious",
+            "indolent",
+            "dogmatic",
+            "venal"
+          ],
+          "answers": [
+            "fallible"
+          ]
+        }
+      ],
+      "words": [
+        "fallible"
+      ],
+      "explanation": "The sentence explicitly withdraws the charge of dishonesty, so mendacious and venal are excluded, and unconscious expectation is neither laziness nor doctrinal rigidity. Fallible names exactly what remains: human equipment that slips without anyone intending it to.",
+      "id": "gregmat19__b3__cloze__01",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Even critics who admire Gibbon's cadences concede that his tribute to the Antonines is {1}, every noun trailed by two adjectives it plainly does not need.",
+      "blanks": [
+        {
+          "options": [
+            "florid",
+            "baroque",
+            "austere",
+            "laconic",
+            "utilitarian",
+            "elegiac"
+          ],
+          "answers": [
+            "florid",
+            "baroque"
+          ]
+        }
+      ],
+      "words": [
+        "florid"
+      ],
+      "explanation": "The clause about superfluous adjectives specifies decoration in excess, which florid and baroque both deliver: florid supplies the verdict that the flourishes have crowded out the sense, baroque the same charge of encrustation. Austere, laconic and utilitarian all describe the opposite fault of bareness, and elegiac names a mood of mourning rather than a density of ornament.",
+      "id": "gregmat19__b3__se__02",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Twenty years of port and committee dinners had left the bishop with a {1} complexion, which his physician read, correctly, as a warning about his blood pressure.",
+      "blanks": [
+        {
+          "options": [
+            "florid",
+            "sallow",
+            "wan",
+            "ashen",
+            "gawky"
+          ],
+          "answers": [
+            "florid"
+          ]
+        }
+      ],
+      "words": [
+        "florid"
+      ],
+      "explanation": "Sallow, wan and ashen all describe a face drained of colour, the reverse of what drink and hypertension produce, and gawky concerns limbs rather than complexion. Florid carries the physical sense the card flags: red and flushed from heat, drink or pressure, not the glow of health.",
+      "id": "gregmat19__b3__cloze__03",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "At sixteen the future president was {1} — all elbows and unmanaged height — yet contemporaries insisted the condition was {2}, and by thirty the same frame carried an unmistakable authority on a platform.",
+      "blanks": [
+        {
+          "options": [
+            "gawky",
+            "gauche",
+            "adroit"
+          ],
+          "answers": [
+            "gawky"
+          ]
+        },
+        {
+          "options": [
+            "transient",
+            "congenital",
+            "feigned"
+          ],
+          "answers": [
+            "transient"
+          ]
+        }
+      ],
+      "words": [
+        "gawky"
+      ],
+      "explanation": "\"All elbows and unmanaged height\" points at the body, so gawky rather than gauche, which concerns social tact and class; adroit reverses the sense entirely. The second blank is fixed by \"by thirty ... authority\": the trait was outgrown, which transient states and congenital denies, while feigned would absurdly make adolescent clumsiness a performance.",
+      "id": "gregmat19__b3__tc2__04",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "The yearling was still {1}, its legs appearing to belong to some larger animal, though the trainer promised it would grow into them.",
+      "blanks": [
+        {
+          "options": [
+            "gawky",
+            "ungainly",
+            "gauche",
+            "inept",
+            "dexterous",
+            "placid"
+          ],
+          "answers": [
+            "gawky",
+            "ungainly"
+          ]
+        }
+      ],
+      "words": [
+        "gawky"
+      ],
+      "explanation": "Oversized legs and the promise of outgrowing them call for physical awkwardness, which gawky and ungainly both name. Gauche and inept describe social or practical incompetence and cannot apply to a colt's proportions; dexterous reverses the meaning and placid describes temperament instead.",
+      "id": "gregmat19__b3__se__05",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Having failed to {1} the board with actuarial tables, the financier simply {2} its chairman into a weekend at his lake house, where three days of flattery accomplished what the figures had not.",
+      "blanks": [
+        {
+          "options": [
+            "sway",
+            "inveigle",
+            "coerce"
+          ],
+          "answers": [
+            "sway"
+          ]
+        },
+        {
+          "options": [
+            "inveigled",
+            "swindled",
+            "browbeat"
+          ],
+          "answers": [
+            "inveigled"
+          ]
+        }
+      ],
+      "words": [
+        "inveigle"
+      ],
+      "explanation": "The first blank takes the neutral, evidence-based attempt that failed, so sway; coerce imports force that a table of figures cannot exert, and inveigle would wrongly attribute flattery to the actuarial pitch. The second blank needs the smooth coaxing that followed, and inveigle is the member of this family built on \"into\" and defined by charm rather than by a fabricated story (swindled) or by bullying (browbeat).",
+      "id": "gregmat19__b3__tc2__06",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Ponzi threatened no one and forged not a single document; he merely {1} respectable Bostonians into surrendering their savings, and many of them thanked him for the opportunity.",
+      "blanks": [
+        {
+          "options": [
+            "inveigled",
+            "cajoled",
+            "swindled",
+            "coerced",
+            "compelled",
+            "browbeat"
+          ],
+          "answers": [
+            "inveigled",
+            "cajoled"
+          ]
+        }
+      ],
+      "words": [
+        "inveigle"
+      ],
+      "explanation": "Because the victims consent and are grateful, the blank must describe winning them over by charm, which inveigled and cajoled both do while taking the \"into doing something\" construction. Coerced, compelled and browbeat all require the pressure the sentence expressly denies, and swindled describes cheating someone out of money rather than talking them into handing it over.",
+      "id": "gregmat19__b3__se__07",
+      "unit": "gregmat19__b3",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": []
+}

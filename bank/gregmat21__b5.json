@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat21__b5",
+  "gregmat_group": 21,
+  "words": [
+    "meritorious",
+    "mutiny",
+    "paradoxical",
+    "perseverance"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Contemporary defenders of the Spithead sailors of 1797 insisted that the fleet's action was no {1} but a disciplined petition for back pay, and they noted that the very crews now threatened with the noose had months earlier been cited for {2} conduct under French fire.",
+      "blanks": [
+        {
+          "options": [
+            "mutiny",
+            "demurral",
+            "obeisance"
+          ],
+          "answers": [
+            "mutiny"
+          ]
+        },
+        {
+          "options": [
+            "meritorious",
+            "perfunctory",
+            "obstreperous"
+          ],
+          "answers": [
+            "meritorious"
+          ]
+        }
+      ],
+      "words": [
+        "mutiny",
+        "meritorious"
+      ],
+      "explanation": "The defence turns on denying a capital crime, and only mutiny — armed revolt by sworn subordinates against their own officers — carries the noose that the sentence invokes; a demurral is precisely what a disciplined petition is, so it cannot be the thing being denied, and obeisance is submission. The second blank is filled by an official citation for service under fire, which is the home ground of meritorious; perfunctory conduct would not be cited at all.",
+      "id": "gregmat21__b5__tc2__00",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "The critic's post-mortem on the restaurant made clear that the cooks had done far more than grumble: on the night the new owner seized their share of the tips, they {1}, abandoning their stations in the middle of service and refusing to return until he was gone.",
+      "blanks": [
+        {
+          "options": [
+            "mutinied",
+            "demurred",
+            "dissented",
+            "acquiesced",
+            "equivocated"
+          ],
+          "answers": [
+            "mutinied"
+          ]
+        }
+      ],
+      "words": [
+        "mutiny"
+      ],
+      "explanation": "The sentence explicitly rules out mere complaint and describes subordinates in a kitchen brigade breaking their obligations to a superior by concerted action, which is exactly what mutinied names. Demurred and dissented stay at the level of objection or argument, the \"more than grumble\" the sentence has already excluded, and acquiesced reverses the meaning.",
+      "id": "gregmat21__b5__cloze__01",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "Sleep clinicians warn of a genuinely {1} result: the very {2} that serves a patient well in every other domain — trying harder, refusing to be discouraged by failure — is what keeps the insomniac staring at the ceiling.",
+      "blanks": [
+        {
+          "options": [
+            "paradoxical",
+            "laudable",
+            "heterodox"
+          ],
+          "answers": [
+            "paradoxical"
+          ]
+        },
+        {
+          "options": [
+            "perseverance",
+            "indolence",
+            "deference"
+          ],
+          "answers": [
+            "perseverance"
+          ]
+        }
+      ],
+      "words": [
+        "paradoxical",
+        "perseverance"
+      ],
+      "explanation": "The second blank is defined outright by the appositive — sustained effort maintained in the face of failure and discouragement is perseverance, not indolence or deference. That definition then fixes the first blank: a virtue that reliably helps everywhere else yet reliably harms here is self-contradictory on its face and still true, which is paradoxical; laudable would praise the result the sentence is warning against, and heterodox concerns departure from received opinion.",
+      "id": "gregmat21__b5__tc2__02",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Anesthesiologists have documented a {1} reaction to benzodiazepines: in a small fraction of patients, a drug prescribed precisely to calm produces violent agitation instead — an outcome that flatly opposes the compound's purpose and is nonetheless reproducible enough to have its own name in the literature.",
+      "blanks": [
+        {
+          "options": [
+            "paradoxical",
+            "contradictory",
+            "spurious",
+            "apocryphal",
+            "tendentious"
+          ],
+          "answers": [
+            "paradoxical"
+          ]
+        }
+      ],
+      "words": [
+        "paradoxical"
+      ],
+      "explanation": "Both halves of the description survive scrutiny — the drug really is a sedative and it really does agitate these patients — which is the defining condition for paradoxical. Contradictory would require one half to be false, and the clause about reproducibility is inserted specifically to rule out spurious and apocryphal as well.",
+      "id": "gregmat21__b5__cloze__03",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "What the biography finally documents is not genius but {1}: eleven failed expeditions, each answered by another winter of fundraising and another refitted ship, and then, on the twelfth attempt, the pole.",
+      "blanks": [
+        {
+          "options": [
+            "perseverance",
+            "doggedness",
+            "obstinacy",
+            "ingenuity",
+            "alacrity",
+            "indolence"
+          ],
+          "answers": [
+            "perseverance",
+            "doggedness"
+          ]
+        }
+      ],
+      "words": [
+        "perseverance"
+      ],
+      "explanation": "The sentence supplies repeated failure, sustained effort, and eventual vindication, so it needs an admiring word for outlasting setbacks: perseverance and doggedness are interchangeable here. Obstinacy names the same refusal to stop but marks it as pointless, which the successful twelfth attempt contradicts, and ingenuity would credit cleverness where the sentence has explicitly denied genius.",
+      "id": "gregmat21__b5__se__04",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Though his tactical judgment in the field was poor, the general's forty years of unglamorous administrative work were judged sufficiently {1} that the crown rewarded him with a title and a pension.",
+      "blanks": [
+        {
+          "options": [
+            "meritorious",
+            "laudable",
+            "perfunctory",
+            "negligible",
+            "ostentatious",
+            "quixotic"
+          ],
+          "answers": [
+            "meritorious",
+            "laudable"
+          ]
+        }
+      ],
+      "words": [
+        "meritorious"
+      ],
+      "explanation": "An official reward conferred for long service demands a word meaning \"deserving of praise or recompense,\" and meritorious and laudable are equivalent in that frame. Perfunctory and negligible fit the tone of \"unglamorous\" and would read smoothly, but they make the crown's reward inexplicable; ostentatious and quixotic describe manner and motive rather than desert.",
+      "id": "gregmat21__b5__se__05",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "The screening rule exists to filter out nuisance filings, not to bar the courthouse door: a plaintiff who can show a {1} claim — one resting on genuine legal substance rather than on a wish to harass — is entitled to a hearing however unpopular the suit may be.",
+      "blanks": [
+        {
+          "options": [
+            "meritorious",
+            "laudable",
+            "estimable",
+            "quixotic",
+            "tendentious"
+          ],
+          "answers": [
+            "meritorious"
+          ]
+        }
+      ],
+      "words": [
+        "meritorious"
+      ],
+      "explanation": "In law, meritorious is a term of art for a claim with real substance, the precise opposite of the frivolous or vexatious filing the rule targets. Laudable and estimable also mean praiseworthy, but they praise conduct or character and have no legal sense; a claim that deserves a hearing need not be admirable at all.",
+      "id": "gregmat21__b5__cloze__06",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "Bligh's fatal error lay less in cruelty than in his assumption of automatic {1}: when the crew's grievances over water rations went unanswered month after month, what began as muttering below decks hardened into open {2}.",
+      "blanks": [
+        {
+          "options": [
+            "deference",
+            "dissent",
+            "ambivalence"
+          ],
+          "answers": [
+            "deference"
+          ]
+        },
+        {
+          "options": [
+            "mutiny",
+            "demurral",
+            "heterodoxy"
+          ],
+          "answers": [
+            "mutiny"
+          ]
+        }
+      ],
+      "words": [
+        "mutiny"
+      ],
+      "explanation": "The captain's mistake was expecting unquestioning submission from subordinates, which is deference; dissent and ambivalence describe the crew's eventual state, not what he took for granted. The second blank completes an escalation from muttering, so it must name the seizure of the ship itself — mutiny — whereas demurral is milder than the muttering already mentioned and heterodoxy is a matter of belief rather than action.",
+      "id": "gregmat21__b5__tc2__07",
+      "unit": "gregmat21__b5",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": []
+}

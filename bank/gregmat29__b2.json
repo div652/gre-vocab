@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat29__b2",
+  "gregmat_group": 29,
+  "words": [
+    "contretemps",
+    "conviction",
+    "croon",
+    "depose"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Determined to project composure, the press secretary characterized the corridor shouting match between the two ministers as a passing {1}; within a month it had grown into an {2} that entangled three departments and two foreign governments.",
+      "blanks": [
+        {
+          "options": [
+            "contretemps",
+            "debacle",
+            "quandary"
+          ],
+          "answers": [
+            "contretemps"
+          ]
+        },
+        {
+          "options": [
+            "imbroglio",
+            "conundrum",
+            "predicament"
+          ],
+          "answers": [
+            "imbroglio"
+          ]
+        }
+      ],
+      "words": [
+        "contretemps"
+      ],
+      "explanation": "The sentence sets a deliberate minimization against a later escalation: blank one must name something beneath the level of real trouble, which is exactly what contretemps does, whereas debacle asserts disaster and quandary names a dilemma rather than a spat. Blank two must be a tangled, spreading mess that \"entangled\" bodies and governments, which is imbroglio; a conundrum is a puzzle and a predicament is a fix one person is in, and neither implies entanglement of parties.",
+      "id": "gregmat29__b2__tc2__00",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians of the summit note that the talks nearly foundered over a {1} so slight that the official communique omitted it entirely: the Soviet delegation, seated below the salt at the opening banquet, walked out before the soup.",
+      "blanks": [
+        {
+          "options": [
+            "contretemps",
+            "imbroglio",
+            "quandary",
+            "conundrum",
+            "debacle"
+          ],
+          "answers": [
+            "contretemps"
+          ]
+        }
+      ],
+      "words": [
+        "contretemps"
+      ],
+      "explanation": "Only contretemps builds smallness into its meaning — a petty mishap or slight arriving at the worst possible moment — and the clause \"so slight that the communique omitted it\" demands that smallness. Imbroglio and debacle both require scale, while quandary and conundrum describe a problem one must solve, not an offense taken over a seating plan.",
+      "id": "gregmat29__b2__cloze__01",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Opposing counsel {1} the whistleblower for two days in a hotel conference room, hunting for anything that might discredit her, and settled at last on a decades-old {2} for which she had served eighteen months in a federal penitentiary.",
+      "blanks": [
+        {
+          "options": [
+            "deposed",
+            "arraigned",
+            "sanctioned"
+          ],
+          "answers": [
+            "deposed"
+          ]
+        },
+        {
+          "options": [
+            "conviction",
+            "liability",
+            "sanction"
+          ],
+          "answers": [
+            "conviction"
+          ]
+        }
+      ],
+      "words": [
+        "depose",
+        "conviction"
+      ],
+      "explanation": "Sworn testimony taken by lawyers outside court is a deposition, so only deposed fits a two-day session in a hotel conference room; arraignment happens before a judge, and counsel cannot sanction a witness. The served prison sentence fixes blank two as a conviction — a verdict of guilt — where liability is civil responsibility and a sanction is a penalty imposed without any finding of criminal guilt.",
+      "id": "gregmat29__b2__tc2__02",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "After eleven years in power, the prime minister was {1} not by riot or coup but by a quiet vote of no confidence among his own backbenchers.",
+      "blanks": [
+        {
+          "options": [
+            "deposed",
+            "ousted",
+            "banished",
+            "relegated",
+            "anointed",
+            "canonized"
+          ],
+          "answers": [
+            "deposed",
+            "ousted"
+          ]
+        }
+      ],
+      "words": [
+        "depose"
+      ],
+      "explanation": "The sentence describes removal from the highest office by procedural means, which deposed and ousted both convey, the former stressing rank and formality and the latter the mere fact of being turned out. Banished would mean driven from the country rather than from office, relegated means demoted to a lower place, and anointed and canonized raise a figure up instead of bringing him down.",
+      "id": "gregmat29__b2__se__03",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "The band's late style traded the {1} of the early stadium records — feedback, shouted choruses, drums mixed to the front — for something almost domestic: Havens now {2} his lyrics into a microphone set inches from his lips.",
+      "blanks": [
+        {
+          "options": [
+            "clangor",
+            "restraint",
+            "subtlety"
+          ],
+          "answers": [
+            "clangor"
+          ]
+        },
+        {
+          "options": [
+            "crooned",
+            "bellowed",
+            "declaimed"
+          ],
+          "answers": [
+            "crooned"
+          ]
+        }
+      ],
+      "words": [
+        "croon"
+      ],
+      "explanation": "The appositive list of feedback and shouted choruses rules out restraint and subtlety and demands clangor, a harsh ringing din. The contrast then forces blank two to the soft end of the same dial: crooned is low, close and sentimental, while bellowed repeats the loudness just rejected and declaimed implies formal, projected oratory rather than intimacy.",
+      "id": "gregmat29__b2__tc2__04",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Volunteers at the shelter are taught to {1} at a frightened dog rather than address it in ordinary speech, since a low, unbroken stream of sound registers as reassurance where clear words register as command.",
+      "blanks": [
+        {
+          "options": [
+            "croon",
+            "bellow",
+            "prattle",
+            "expostulate",
+            "declaim"
+          ],
+          "answers": [
+            "croon"
+          ]
+        }
+      ],
+      "words": [
+        "croon"
+      ],
+      "explanation": "Croon covers soft, low, soothing sound directed at someone, and it extends beyond singing to cooing speech, which is precisely what a low unbroken stream of reassurance is. Prattle is idle chatter with no soothing intent, expostulate is to remonstrate, and bellow and declaim both raise the volume the sentence rules out.",
+      "id": "gregmat29__b2__cloze__05",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians still puzzle over the paradox: the same officer whose letters brim with republican {1} — he wrote of the constitution as something a man should be prepared to die for — led the column that {2} the elected president three years later.",
+      "blanks": [
+        {
+          "options": [
+            "conviction",
+            "sanction",
+            "entitlement"
+          ],
+          "answers": [
+            "conviction"
+          ]
+        },
+        {
+          "options": [
+            "deposed",
+            "venerated",
+            "lionized"
+          ],
+          "answers": [
+            "deposed"
+          ]
+        }
+      ],
+      "words": [
+        "conviction",
+        "depose"
+      ],
+      "explanation": "A belief one would die for is a conviction, not a sanction (official approval or a penalty) or an entitlement (a claimed right). The word paradox requires the second blank to reverse the first, and deposed supplies the reversal by removing the head of state from office, whereas venerated and lionized would exalt him and leave no contradiction at all.",
+      "id": "gregmat29__b2__tc2__06",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Reading the memoir, one is struck less by the elegance of its prose than by the {1} with which its author clung to positions that cost him his post, his friendships, and eventually his citizenship.",
+      "blanks": [
+        {
+          "options": [
+            "conviction",
+            "certitude",
+            "complacency",
+            "diffidence",
+            "ambivalence",
+            "equanimity"
+          ],
+          "answers": [
+            "conviction",
+            "certitude"
+          ]
+        }
+      ],
+      "words": [
+        "conviction"
+      ],
+      "explanation": "Beliefs held at ruinous personal cost require a word for unshakable commitment, and conviction and certitude both supply it, yielding sentences of the same force. Diffidence and ambivalence contradict the clinging the sentence describes, while complacency and equanimity name a settled calm rather than a belief, and neither would explain the losses the author accepted.",
+      "id": "gregmat29__b2__se__07",
+      "unit": "gregmat29__b2",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": []
+}

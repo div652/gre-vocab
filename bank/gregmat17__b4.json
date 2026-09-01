@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat17__b4",
+  "gregmat_group": 17,
+  "words": [
+    "incessant",
+    "inclined",
+    "inveterate",
+    "miserly"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Whereas the drilling on the neighboring lot had once been {1} — a burst at dawn, then silence until noon — by August it was {2}, and the residents' petitions to the council grew correspondingly bitter.",
+      "blanks": [
+        {
+          "options": [
+            "intermittent",
+            "incessant",
+            "perennial"
+          ],
+          "answers": [
+            "intermittent"
+          ]
+        },
+        {
+          "options": [
+            "incessant",
+            "sporadic",
+            "desultory"
+          ],
+          "answers": [
+            "incessant"
+          ]
+        }
+      ],
+      "words": [
+        "incessant"
+      ],
+      "explanation": "The dash-clause defines blank one for us: noise that starts and stops is intermittent, not perennial (recurring season after season) and certainly not incessant. \"Whereas\" then demands the opposite in blank two, and the bitterness of the petitions rules out sporadic and desultory, which would only restate the original pattern; incessant supplies both the unbroken duration and the speaker's exhaustion.",
+      "id": "gregmat17__b4__tc2__00",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers admired the novel's atmosphere but wearied of its {1} rain, which falls in all but two chapters and comes to feel less like weather than like a nervous tic.",
+      "blanks": [
+        {
+          "options": [
+            "incessant",
+            "unremitting",
+            "intermittent",
+            "sporadic",
+            "perennial",
+            "torrential"
+          ],
+          "answers": [
+            "incessant",
+            "unremitting"
+          ]
+        }
+      ],
+      "words": [
+        "incessant"
+      ],
+      "explanation": "\"Falls in all but two chapters\" plus \"wearied of\" calls for a word meaning unbroken and irritating, which incessant and unremitting both supply. Intermittent and sporadic describe rain that stops, perennial describes something that returns each year rather than never pausing, and torrential describes volume rather than duration — heavy rain can be brief.",
+      "id": "gregmat17__b4__se__01",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Though an {1} contrarian in print, having spent forty years attacking whichever consensus lay nearest to hand, Hazlitt proved in private conversation surprisingly {2} to agree, offering assent where his readers would have expected a quarrel.",
+      "blanks": [
+        {
+          "options": [
+            "inveterate",
+            "incipient",
+            "intermittent"
+          ],
+          "answers": [
+            "inveterate"
+          ]
+        },
+        {
+          "options": [
+            "inclined",
+            "loath",
+            "obliged"
+          ],
+          "answers": [
+            "inclined"
+          ]
+        }
+      ],
+      "words": [
+        "inveterate",
+        "inclined"
+      ],
+      "explanation": "\"Forty years\" is the giveaway for blank one: inveterate names a habit aged into character, whereas incipient marks a habit just beginning and intermittent one that comes and goes. \"Though\" sets private manner against public practice, and since he actually offers assent, loath is contradicted; obliged would import a compulsion the sentence never supplies, while inclined names exactly the mild, voluntary leaning at issue.",
+      "id": "gregmat17__b4__tc2__02",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Asked whether her government would ratify the treaty, the ambassador said only that she was {1} to view it favorably — a formula that conceded a leaning while withholding any commitment.",
+      "blanks": [
+        {
+          "options": [
+            "inclined",
+            "determined",
+            "obliged",
+            "loath",
+            "prone"
+          ],
+          "answers": [
+            "inclined"
+          ]
+        }
+      ],
+      "words": [
+        "inclined"
+      ],
+      "explanation": "The sentence explicitly wants a lean without a commitment, which is precisely what inclined offers; determined and obliged both close the exit door, the first by resolve and the second by compulsion. Loath reverses the direction, and prone names a standing statistical tendency, usually toward a fault, rather than a position taken on this one question.",
+      "id": "gregmat17__b4__cloze__03",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Three decades of small stakes and late nights had made him an {1} gambler — less a man with a habit than a habit with a man.",
+      "blanks": [
+        {
+          "options": [
+            "inveterate",
+            "confirmed",
+            "ingrained",
+            "entrenched",
+            "hidebound",
+            "reformed"
+          ],
+          "answers": [
+            "inveterate",
+            "confirmed"
+          ]
+        }
+      ],
+      "words": [
+        "inveterate"
+      ],
+      "explanation": "Only inveterate and confirmed can label the person rather than the practice, and both mean fixed in a habit by long years of it. Ingrained and entrenched attach to habits, prejudices, and interests, not to the individual who holds them; hidebound means narrowly resistant to new ideas, and reformed fits the slot tonally while reversing the sentence's sense.",
+      "id": "gregmat17__b4__se__04",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "The border dispute proved intractable not because the stakes were high — the valley is nearly worthless — but because the {1} hostility between the two clans was older than any grievance either side could still name.",
+      "blanks": [
+        {
+          "options": [
+            "inveterate",
+            "incipient",
+            "sporadic",
+            "fitful",
+            "desultory"
+          ],
+          "answers": [
+            "inveterate"
+          ]
+        }
+      ],
+      "words": [
+        "inveterate"
+      ],
+      "explanation": "\"Older than any grievance either side could still name\" demands a word for enmity hardened by age, and inveterate applied to a feeling means exactly that: too old to be argued away. Incipient reverses the chronology, while sporadic, fitful, and desultory all describe hostility that flares and lapses, which would make the dispute tractable rather than intractable.",
+      "id": "gregmat17__b4__cloze__05",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "The estate papers reveal a man who was {1} rather than merely frugal: though his rents brought in far more than he could spend, he heated a single room through the winter and dismissed his cook, and he was equally {2} with praise, which his children remember receiving perhaps twice.",
+      "blanks": [
+        {
+          "options": [
+            "miserly",
+            "munificent",
+            "prodigal"
+          ],
+          "answers": [
+            "miserly"
+          ]
+        },
+        {
+          "options": [
+            "stinting",
+            "lavish",
+            "effusive"
+          ],
+          "answers": [
+            "stinting"
+          ]
+        }
+      ],
+      "words": [
+        "miserly"
+      ],
+      "explanation": "\"Rather than merely frugal\" rejects a compliment for economy and demands contempt, and the detail of a rich man freezing to save on fuel is the miser's picture exactly; munificent and prodigal describe open-handed spending. \"Equally\" carries the withholding over to praise, so lavish and effusive are excluded by the children's memory of hearing it twice, leaving stinting.",
+      "id": "gregmat17__b4__tc2__06",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Critics of the university's endowment noted the irony: an institution sitting on nine billion dollars had been {1} in its support of the very scholars it exists to sustain, funding fewer fellowships than colleges a tenth its size.",
+      "blanks": [
+        {
+          "options": [
+            "miserly",
+            "parsimonious",
+            "munificent",
+            "beneficent",
+            "chary",
+            "judicious"
+          ],
+          "answers": [
+            "miserly",
+            "parsimonious"
+          ]
+        }
+      ],
+      "words": [
+        "miserly"
+      ],
+      "explanation": "The irony turns on great wealth paired with grudging disbursement, so miserly and parsimonious both fit and mean the same thing here. Munificent and beneficent form a tempting pair but reverse the sentence, judicious would praise the restraint the critics deplore, and chary means warily cautious about a risk, which is not the charge being made against an institution with nine billion dollars.",
+      "id": "gregmat17__b4__se__07",
+      "unit": "gregmat17__b4",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": []
+}

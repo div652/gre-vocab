@@ -1,0 +1,231 @@
+{
+  "unit": "gregmat35__b4",
+  "gregmat_group": 35,
+  "words": [
+    "martinet",
+    "narcissism",
+    "objurgation",
+    "passable"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Colleagues who had braced for a zealot met instead a {1}: the new director held no discernible theory of anything, yet he enforced the office's {2} — the misfiled requisition, the unbuttoned collar — with a fervor that left the purposes behind those rules wholly unexamined.",
+      "blanks": [
+        {
+          "options": [
+            "martinet",
+            "doctrinaire",
+            "iconoclast"
+          ],
+          "answers": [
+            "martinet"
+          ]
+        },
+        {
+          "options": [
+            "minutiae",
+            "dogmas",
+            "precedents"
+          ],
+          "answers": [
+            "minutiae"
+          ]
+        }
+      ],
+      "words": [
+        "martinet"
+      ],
+      "explanation": "The clause \"no discernible theory of anything\" kills both doctrinaire and dogmas, since those require a body of belief; a martinet's rigidity is about rules and discipline and is compatible with total intellectual emptiness. Precedents fails because a misfiled requisition or an unbuttoned collar is a triviality, not a governing case, and iconoclast names someone who attacks received rules rather than enforcing them.",
+      "id": "gregmat35__b4__tc2__00",
+      "unit": "gregmat35__b4",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers relish the irony that the reformer whose pamphlets denounced arbitrary authority ran his own household like a {1}, posting a schedule on the kitchen door and docking his children's allowance for lateness at breakfast.",
+      "blanks": [
+        {
+          "options": [
+            "martinet",
+            "ideologue",
+            "pedant",
+            "dilettante",
+            "sybarite"
+          ],
+          "answers": [
+            "martinet"
+          ]
+        }
+      ],
+      "words": [
+        "martinet"
+      ],
+      "explanation": "A martinet holds power over subordinates and spends it on the letter of petty rules — precisely the schedule and the docked allowance. Pedant is the nearest trap, but pedantry is fussiness about learning and accuracy and needs no chain of command, while ideologue would require the rigidity to follow from doctrine rather than from the timetable itself.",
+      "id": "gregmat35__b4__cloze__01",
+      "unit": "gregmat35__b4",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "Later critics diagnosed in the memoir not mere confidence but a settled {1}: every friendship it records is valued strictly for the reflection it offered the author, and each friend is dropped the moment he stops supplying one.",
+      "blanks": [
+        {
+          "options": [
+            "narcissism",
+            "egotism",
+            "modesty",
+            "pomposity",
+            "candor",
+            "cynicism"
+          ],
+          "answers": [
+            "narcissism",
+            "egotism"
+          ]
+        }
+      ],
+      "words": [
+        "narcissism"
+      ],
+      "explanation": "Narcissism and egotism both name an inflated self-love that conscripts other people into admiring the self, which is exactly what the colon spells out. Pomposity is the closest wrong option but describes an inflated manner of speech or bearing rather than a hunger for reflected admiration, and it has no partner here; modesty and candor contradict the sentence outright.",
+      "id": "gregmat35__b4__se__02",
+      "unit": "gregmat35__b4",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "The strategists had mistaken their candidate's appetite for applause for ordinary ambition; only when the polls turned did they see a {1} that could not survive the withdrawal of admiration, and the {2} manner they had prized as showmanship curdled into open contempt for the crowds that no longer supplied it.",
+      "blanks": [
+        {
+          "options": [
+            "narcissism",
+            "diffidence",
+            "pragmatism"
+          ],
+          "answers": [
+            "narcissism"
+          ]
+        },
+        {
+          "options": [
+            "bombastic",
+            "retiring",
+            "self-deprecating"
+          ],
+          "answers": [
+            "bombastic"
+          ]
+        }
+      ],
+      "words": [
+        "narcissism"
+      ],
+      "explanation": "The first blank must name a self-love that depends on an audience and goes cold when the audience does, which is narcissism rather than diffidence or pragmatism. The second blank must be the puffed-up style that could be misread as showmanship: bombastic fits, while retiring and self-deprecating are the play-it-down words and could never be mistaken for showmanship.",
+      "id": "gregmat35__b4__tc2__03",
+      "unit": "gregmat35__b4",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "What the minutes primly record as a caution was, by every eyewitness account, twenty unbroken minutes of {1}, audible the length of the corridor and ending only when the chairman's voice gave out.",
+      "blanks": [
+        {
+          "options": [
+            "objurgation",
+            "tirade",
+            "reprimand",
+            "reproach",
+            "approbation",
+            "demurral"
+          ],
+          "answers": [
+            "objurgation",
+            "tirade"
+          ]
+        }
+      ],
+      "words": [
+        "objurgation"
+      ],
+      "explanation": "The sentence sets the official record against what actually happened, so the blank must escalate: sustained, loud, at length, which is what objurgation and tirade share. Reprimand simply restates \"caution\" and so cannot supply the contrast, and reproach is quiet and wounded rather than audible down a corridor; approbation and demurral point the wrong way entirely.",
+      "id": "gregmat35__b4__se__04",
+      "unit": "gregmat35__b4",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "The restoration is {1}: the tears in the canvas no longer show, though no one who has studied the artist's other panels would call the retouching anything more than the minimum the museum was prepared to accept.",
+      "blanks": [
+        {
+          "options": [
+            "passable",
+            "serviceable",
+            "adept",
+            "proficient",
+            "laudable",
+            "slapdash"
+          ],
+          "answers": [
+            "passable",
+            "serviceable"
+          ]
+        }
+      ],
+      "words": [
+        "passable"
+      ],
+      "explanation": "The second clause caps the praise at the bare minimum, which is precisely the ceiling that passable and serviceable both signal. Adept and proficient form a tempting synonym pair, but they assert genuine skill and so contradict \"nothing more than the minimum\"; laudable overpraises and slapdash would mean the work fell below the bar rather than just clearing it.",
+      "id": "gregmat35__b4__se__06",
+      "unit": "gregmat35__b4",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "The engineers' report was carefully hedged: the mountain road would indeed be {1} by June, but only in the narrowest sense, since the regraded surface they proposed was {2} rather than durable, a stopgap certain to wash out in the first heavy rains.",
+      "blanks": [
+        {
+          "options": [
+            "passable",
+            "tenable",
+            "laudable"
+          ],
+          "answers": [
+            "passable"
+          ]
+        },
+        {
+          "options": [
+            "expedient",
+            "exemplary",
+            "monumental"
+          ],
+          "answers": [
+            "expedient"
+          ]
+        }
+      ],
+      "words": [
+        "passable"
+      ],
+      "explanation": "The first blank takes the crossing sense of passable — open to travel — which neither tenable (defensible as a position or argument) nor laudable (praiseworthy) can supply for a road. The second blank is fixed by the contrast with \"durable\" and by \"stopgap\": expedient names a makeshift adopted for convenience, whereas exemplary and monumental would praise the very work the sentence is disparaging.",
+      "id": "gregmat35__b4__tc2__07",
+      "unit": "gregmat35__b4",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Four of the five options fit. The sentence only rules out 'approbation' (contradicted by 'never flattering' and 'thundered at a servant'). 'Objurgation', 'reprimand', 'reproach', and 'remonstrance' are near-synonyms, and the context supplies no discriminator: 'thundered' already carries the vehemence, so the noun need not be the intense one, and 'three unbroken pages of reproach / of remonstrance / of reprimand' are all idiomatic. The item tests recognition of the rare word 'objurgation' rather than any constraint in the sentence; a test-taker choosing 'reproach' or 'remonstrance' would be marked wrong despite a fully defensible reading. To fix, replace the three synonyms with distractors that fail the context (e.g. words implying praise, silence, or measured mildness), or add a clue that demands extreme vehemence/length and excludes a brief formal 'reprimand'.",
+      "stem": "Boswell is affectionate but never flattering: he gives us three unbroken pages of {1}, thundered at a servant who had let the fire go out and audible, we are told, from the street below."
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "unit": "gregmat28__b2",
+  "gregmat_group": 28,
+  "words": [
+    "disdain",
+    "disperse",
+    "distend",
+    "endemic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Where the outgoing minister had courted the parliamentary press with an almost {1} attentiveness, his successor {2} to explain himself to reporters at all, treating their questions as beneath the dignity of his office.",
+      "blanks": [
+        {
+          "options": [
+            "obsequious",
+            "aloof",
+            "imperious"
+          ],
+          "answers": [
+            "obsequious"
+          ]
+        },
+        {
+          "options": [
+            "disdained",
+            "deigned",
+            "condescended"
+          ],
+          "answers": [
+            "disdained"
+          ]
+        }
+      ],
+      "words": [
+        "disdain"
+      ],
+      "explanation": "The contrast \"Where ... his successor\" demands opposite postures: fawning attention below versus a refusal to stoop from above, so blank 1 needs obsequious (aloof and imperious would describe the successor, not the courtier). In blank 2 only disdained takes an infinitive to mean refusal — deigned and condescended both mean he did consent to explain, which contradicts \"beneath the dignity of his office,\" and neither licenses the negative-polarity \"at all.\"",
+      "id": "gregmat28__b2__tc2__00",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Offered a sinecure at the ministry as consolation for his dismissal, the deposed undersecretary {1} it, preferring obscurity to a post he regarded as a bribe dressed up as a courtesy.",
+      "blanks": [
+        {
+          "options": [
+            "disdained",
+            "spurned",
+            "derided",
+            "tolerated",
+            "extolled",
+            "solicited"
+          ],
+          "answers": [
+            "disdained",
+            "spurned"
+          ]
+        }
+      ],
+      "words": [
+        "disdain"
+      ],
+      "explanation": "\"Preferring obscurity\" establishes that he ended up with nothing, so the verb must denote contemptuous refusal: disdained and spurned both mean to reject as beneath one. Derided is the trap — mockery is tonally apt but he could ridicule the offer and still accept it, so it does not deliver the refusal the sentence requires; tolerated, extolled, and solicited each reverse the outcome.",
+      "id": "gregmat28__b2__se__01",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The demonstration that the Home Office had feared would {1} into a single ungovernable mass on the common instead {2} within two hours, its columns drifting off down the side roads in the rain.",
+      "blanks": [
+        {
+          "options": [
+            "coalesce",
+            "splinter",
+            "dwindle"
+          ],
+          "answers": [
+            "coalesce"
+          ]
+        },
+        {
+          "options": [
+            "dispersed",
+            "amalgamated",
+            "distended"
+          ],
+          "answers": [
+            "dispersed"
+          ]
+        }
+      ],
+      "words": [
+        "disperse"
+      ],
+      "explanation": "\"Instead\" hinges the sentence on a reversal: the feared merging in blank 1 against the actual scattering in blank 2, confirmed by \"drifting off down the side roads.\" Only coalesce yields \"a single mass\" (splinter and dwindle describe the opposite trajectory), and only dispersed names a concentration breaking apart — amalgamated repeats the fear rather than reversing it, and distended would require swelling from internal pressure, not thinning away.",
+      "id": "gregmat28__b2__tc2__02",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "Newton showed that a prism does not manufacture color but merely {1} the light passing through it: a beam entering as white emerges as a fan of wavelengths, each refracted at its own angle.",
+      "blanks": [
+        {
+          "options": [
+            "disperses",
+            "diffuses",
+            "disseminates",
+            "propagates",
+            "amalgamates"
+          ],
+          "answers": [
+            "disperses"
+          ]
+        }
+      ],
+      "words": [
+        "disperse"
+      ],
+      "explanation": "The beam is a concentration that ceases to be one, its components separated and sent in different directions — the exact sense of disperses. Diffuses would mean softening or spreading the light evenly, which is the opposite of separating it into a fan; disseminates and propagates both require something transmitted to recipients or carried onward, and amalgamates reverses the direction entirely.",
+      "id": "gregmat28__b2__cloze__03",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "The autopsy report described a liver of unremarkable weight but a stomach so {1} by trapped gas that it had pressed upward against the diaphragm.",
+      "blanks": [
+        {
+          "options": [
+            "distended",
+            "dispersed",
+            "atrophied",
+            "ossified",
+            "diffused"
+          ],
+          "answers": [
+            "distended"
+          ]
+        }
+      ],
+      "words": [
+        "distend"
+      ],
+      "explanation": "\"Trapped gas\" pressing outward until the organ pushes on the diaphragm is pressure from within forcing the walls out — precisely distended. Atrophied and ossified describe wasting and hardening rather than swelling, while dispersed and diffused would mean the stomach itself was scattered or spread thin, which no container does under internal pressure.",
+      "id": "gregmat28__b2__cloze__04",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "In districts where hookworm had been {1} for generations, the survey physicians recorded the same paradox again and again: children whose bellies were grotesquely {2} while their arms and legs wasted to sticks.",
+      "blanks": [
+        {
+          "options": [
+            "endemic",
+            "epidemic",
+            "sporadic"
+          ],
+          "answers": [
+            "endemic"
+          ]
+        },
+        {
+          "options": [
+            "distended",
+            "emaciated",
+            "atrophied"
+          ],
+          "answers": [
+            "distended"
+          ]
+        }
+      ],
+      "words": [
+        "distend",
+        "endemic"
+      ],
+      "explanation": "\"For generations\" rules out epidemic, which names an arriving-and-passing surge, and sporadic, which would not produce the same finding \"again and again\"; endemic is the word for permanent residence in one place or population. Blank 2 turns on the paradox marked by \"while\": the limbs waste, so the belly must do the contrary thing and swell outward, which emaciated and atrophied cannot express.",
+      "id": "gregmat28__b2__tc2__05",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Isolated from any mainland for some eighty million years, New Zealand developed a bird fauna largely {1} to the islands: the kiwi, the kakapo, and the moa evolved there and were found nowhere else on earth.",
+      "blanks": [
+        {
+          "options": [
+            "endemic",
+            "indigenous",
+            "ubiquitous",
+            "naturalized",
+            "migratory",
+            "sporadic"
+          ],
+          "answers": [
+            "endemic",
+            "indigenous"
+          ]
+        }
+      ],
+      "words": [
+        "endemic"
+      ],
+      "explanation": "\"Evolved there and found nowhere else\" calls for native-to-this-place-alone, which endemic and indigenous both supply in this biological context. Naturalized is the sharpest trap because it sounds like belonging, but it means introduced from elsewhere and then established, contradicting eighty million years of isolation; ubiquitous claims the birds are everywhere, and migratory and sporadic describe movement and frequency rather than origin.",
+      "id": "gregmat28__b2__se__06",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "Officials preferred to characterize the bribery as {1} — a few isolated lapses by junior clerks — but the auditors concluded that it was {2}, woven into the bureau's routine procedure for the better part of forty years.",
+      "blanks": [
+        {
+          "options": [
+            "sporadic",
+            "pervasive",
+            "chronic"
+          ],
+          "answers": [
+            "sporadic"
+          ]
+        },
+        {
+          "options": [
+            "endemic",
+            "incipient",
+            "aberrant"
+          ],
+          "answers": [
+            "endemic"
+          ]
+        }
+      ],
+      "words": [
+        "endemic"
+      ],
+      "explanation": "The \"but\" sets the officials' minimizing account against the auditors' structural one, so blank 1 must match \"a few isolated lapses\" — sporadic — while pervasive and chronic would concede the auditors' case. Blank 2 needs settled, permanent residence in that institution: endemic; incipient contradicts \"forty years,\" and aberrant would make the bribery a departure from routine rather than the routine itself.",
+      "id": "gregmat28__b2__tc2__07",
+      "unit": "gregmat28__b2",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": []
+}

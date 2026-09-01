@@ -1,0 +1,208 @@
+{
+  "unit": "gregmat12__b0",
+  "gregmat_group": 12,
+  "words": [
+    "acrimonious",
+    "belligerent",
+    "beneficent",
+    "canny"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "What began as a routine renegotiation between the studio and its distributor of thirty years turned {1}, with each side accusing the other of bad faith in the trade press; by the third week the mediator had abandoned any hope of {2} the former partners and simply set a date for arbitration.",
+      "blanks": [
+        {
+          "options": [
+            "acrimonious",
+            "amicable",
+            "penurious"
+          ],
+          "answers": [
+            "acrimonious"
+          ]
+        },
+        {
+          "options": [
+            "reconciling",
+            "antagonizing",
+            "indemnifying"
+          ],
+          "answers": [
+            "reconciling"
+          ]
+        }
+      ],
+      "words": [
+        "acrimonious"
+      ],
+      "explanation": "Mutual accusations of bad faith between longtime allies is exactly the earned bitterness acrimonious names, and a mediator's abandoned hope must be the hope of reconciling the two sides. Amicable reverses the sense the accusations establish, and penurious (poverty-stricken, tight-fisted) is only a look-alike of acrimonious; antagonizing describes what the parties were already doing to each other, not what a mediator attempts.",
+      "id": "gregmat12__b0__tc2__00",
+      "unit": "gregmat12__b0",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "The correspondence between the two physicists, cordial for a decade, turned {1} after the priority dispute of 1927, and neither man afterward mentioned the other in print except to sneer.",
+      "blanks": [
+        {
+          "options": [
+            "acrimonious",
+            "rancorous",
+            "perfunctory",
+            "sporadic",
+            "conciliatory",
+            "laconic"
+          ],
+          "answers": [
+            "acrimonious",
+            "rancorous"
+          ]
+        }
+      ],
+      "words": [
+        "acrimonious"
+      ],
+      "explanation": "The sneering and the collapse of a decade's cordiality demand a word for settled bitterness between former allies, which acrimonious and rancorous supply in equal measure. Perfunctory (going through the motions) and sporadic (intermittent) both fit the noun \"correspondence\" comfortably but describe its manner or frequency rather than its hostility, and neither is equivalent to the other; conciliatory and laconic contradict the sneer outright or say nothing about it.",
+      "id": "gregmat12__b0__se__01",
+      "unit": "gregmat12__b0",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Sent to Geneva ostensibly to sound out terms, the envoy proved anything but {1}: he demanded reparations before sitting down, dismissed the mediator's agenda as an insult, and announced that his government's patience had a deadline — a performance so {2} that two neutral delegations withdrew that afternoon.",
+      "blanks": [
+        {
+          "options": [
+            "conciliatory",
+            "indecisive",
+            "cryptic"
+          ],
+          "answers": [
+            "conciliatory"
+          ]
+        },
+        {
+          "options": [
+            "belligerent",
+            "plaintive",
+            "equivocal"
+          ],
+          "answers": [
+            "belligerent"
+          ]
+        }
+      ],
+      "words": [
+        "belligerent"
+      ],
+      "explanation": "An envoy sent to sound out terms is expected to be conciliatory, and \"anything but\" inverts that expectation into the open, active hostility of belligerent — hostility that has already reached the voice and the table. Indecisive and cryptic fail because the envoy is perfectly decisive and perfectly clear; plaintive (querulous, complaining) and equivocal (evasive) would not drive neutral parties out of the room.",
+      "id": "gregmat12__b0__tc2__02",
+      "unit": "gregmat12__b0",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "Under the armistice signed at Mudros, each of the {1} was to withdraw its forces ten kilometers behind the line of contact, and a commission of neutral officers was empowered to verify compliance on both sides.",
+      "blanks": [
+        {
+          "options": [
+            "belligerents",
+            "arbiters",
+            "mediators",
+            "partisans",
+            "expatriates"
+          ],
+          "answers": [
+            "belligerents"
+          ]
+        }
+      ],
+      "words": [
+        "belligerent"
+      ],
+      "explanation": "The sentence needs the noun sense of belligerent: a state formally at war, which is why it can possess forces (\"its forces\") and be distinguished from the neutral commission. Arbiters and mediators are precisely the neutral third parties the sentence sets apart from the blank, and partisans are irregular fighters rather than the treaty-signing powers a withdrawal clause binds.",
+      "id": "gregmat12__b0__cloze__03",
+      "unit": "gregmat12__b0",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the surviving ledgers suggests {1}; they record instead the plodding, {2} habits of a man who checked every invoice twice, borrowed only in panics, and never once signed a lease he had not first walked away from.",
+      "blanks": [
+        {
+          "options": [
+            "brilliance",
+            "duplicity",
+            "indigence"
+          ],
+          "answers": [
+            "brilliance"
+          ]
+        },
+        {
+          "options": [
+            "canny",
+            "dilatory",
+            "mercenary"
+          ],
+          "answers": [
+            "canny"
+          ]
+        }
+      ],
+      "words": [
+        "canny"
+      ],
+      "explanation": "\"Plodding\" sets the contrast: not the flash of brilliance but the low, practical competence of canny, whose hallmark is precisely knowing when to walk away from a deal. Duplicity and indigence are not what plodding care contrasts with; dilatory (procrastinating) is refuted by the twice-checked invoices, and mercenary would impute motive rather than describe the careful bargaining the ledgers document.",
+      "id": "gregmat12__b0__tc2__06",
+      "unit": "gregmat12__b0",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "The dealer's reputation rested not on connoisseurship — he could barely date a canvas — but on his {1} sense of when a seller was desperate: he never bid against himself, and he acquired three Vermeers for what a rival had paid for one.",
+      "blanks": [
+        {
+          "options": [
+            "canny",
+            "shrewd",
+            "ruthless",
+            "avaricious",
+            "guileless",
+            "munificent"
+          ],
+          "answers": [
+            "canny",
+            "shrewd"
+          ]
+        }
+      ],
+      "words": [
+        "canny"
+      ],
+      "explanation": "The sentence praises a practical, money-facing sharpness — reading a seller, refusing to overpay — which canny and shrewd express interchangeably, and it explicitly denies him the deeper learning that connoisseurship would require. Ruthless and avaricious both fit the tone of hard dealing but assert mercilessness and greed rather than accurate judgment, and they are not equivalent to each other; guileless and munificent describe a man who would have overpaid.",
+      "id": "gregmat12__b0__se__07",
+      "unit": "gregmat12__b0",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean: \"merely beneficial\" (a tariff schedule that happens to raise wages produces good effects) is the only fit — \"malign\" is the opposite and \"munificent\" (lavishly generous with gifts/money) can't describe an incidental effect and clashes with \"merely.\"\n\nBlank {2} is not uniquely determined. The intended pair is clearly beneficial/beneficent, and the morphological echo plus \"conferred the benefit\" points that way — beneficent = actually doing good. But \"benevolent\" is genuinely defensible for the same slot, and the sentence's own explanatory clause partly favors it: the stated criterion is that the agent acted \"deliberately\" and \"can be thanked,\" i.e., the distinguishing feature is intention/goodwill, which is exactly benevolence's semantic core. Nothing in the sentence excludes a well-meaning agent, so a test-taker who reads \"deliberately\" as the operative clue and picks \"benevolent\" is being marked wrong on a dictionary nicety (doing good vs. wishing good) that the sentence does not actually isolate. To make it unique, the clause would need to contrast disposition with action explicitly — e.g., \"not merely well-intentioned but shown in the deed itself.\" (\"sanctimonious\" is a clear distractor and poses no problem.)",
+      "stem": "The foundation's charter draws a sharp line between the merely {1} and the genuinely {2}: a tariff schedule that happens to raise rural wages satisfies the first description, but the second is reserved for an agent who has deliberately conferred the benefit and can be thanked for it."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence's contrast (private contempt vs. concrete good works: rebuilding, endowing, forgiving arrears) points at \"beneficent\" — doing good regardless of inner disposition — and the intended trap is presumably \"benevolent\" (kindly disposed), which the \"he despised most of them\" clause is meant to rule out. But that distinction is not reliably enforceable: standard dictionaries gloss \"benevolent\" as \"marked by or disposed to doing good / organized for charitable purposes\" (benevolent fund, benevolent society), so a test-taker can defensibly read \"he was by any measure benevolent\" as a claim about his charitable conduct, exactly as the three listed deeds establish. Two options genuinely fit, and the sentence supplies no wording that forces the deed/disposition split (e.g. nothing like \"in his actions, if not in his heart\"). \"Beneficial\" is wrong (it describes effects, not persons, and would need an object), and \"penurious\"/\"sanctimonious\" are cleanly excluded — so the item has exactly one bad pair, which is the failure mode that makes it unusable as written.",
+      "stem": "Whatever the earl privately felt about his tenants — and his diaries suggest he despised most of them — he was by any measure {1}: he rebuilt the almshouses at his own cost, endowed the parish school in perpetuity, and forgave three years of arrears after the flood."
+    }
+  ]
+}

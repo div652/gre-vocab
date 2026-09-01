@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat03__b4",
+  "gregmat_group": 3,
+  "words": [
+    "coalesce",
+    "cogent",
+    "compelling",
+    "contend"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "What began as a dozen parish relief committees, each jealously guarding its own charter, did not merely federate but {1}: by 1889 no observer could say which body had contributed which plank of the movement's {2} program.",
+      "blanks": [
+        {
+          "options": [
+            "coalesced",
+            "dispersed",
+            "clustered"
+          ],
+          "answers": [
+            "coalesced"
+          ]
+        },
+        {
+          "options": [
+            "seamless",
+            "factious",
+            "provisional"
+          ],
+          "answers": [
+            "seamless"
+          ]
+        }
+      ],
+      "words": [
+        "coalesce"
+      ],
+      "explanation": "\"Did not merely federate\" demands a verb stronger than joining-while-staying-separate, and the second clause — nobody can trace a plank back to its committee — means the parts have stopped being identifiable, so the program is seamless. Clustered is the trap: clustered things sit together but remain countable and distinguishable, which is exactly what the sentence denies; dispersed reverses the direction entirely.",
+      "id": "gregmat03__b4__tc2__00",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "The dissent is routinely praised as {1}, yet its power is rhetorical rather than logical: Harlan {2} that the statute was without precedent, but in three thousand words he cites not one case.",
+      "blanks": [
+        {
+          "options": [
+            "cogent",
+            "vacuous",
+            "specious"
+          ],
+          "answers": [
+            "cogent"
+          ]
+        },
+        {
+          "options": [
+            "contends",
+            "demonstrates",
+            "corroborates"
+          ],
+          "answers": [
+            "contends"
+          ]
+        }
+      ],
+      "words": [
+        "cogent",
+        "contend"
+      ],
+      "explanation": "The \"yet ... rhetorical rather than logical\" contrast requires that the praise in blank one be praise of the reasoning specifically, which only cogent supplies (vacuous and specious are not praise at all). Blank two must name an assertion advanced against opposition and unaccompanied by proof — contends; demonstrates and corroborates both presuppose the evidence the second clause says is missing.",
+      "id": "gregmat03__b4__tc2__01",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers found the memoir's middle section so {1} that they read it at a single sitting, even as they judged its central argument about wartime guilt too {2} to survive an hour's scrutiny.",
+      "blanks": [
+        {
+          "options": [
+            "compelling",
+            "soporific",
+            "cogent"
+          ],
+          "answers": [
+            "compelling"
+          ]
+        },
+        {
+          "options": [
+            "specious",
+            "trenchant",
+            "pellucid"
+          ],
+          "answers": [
+            "specious"
+          ]
+        }
+      ],
+      "words": [
+        "compelling",
+        "cogent"
+      ],
+      "explanation": "The concession \"even as\" splits grip from logic: the prose held readers fast (compelling, the only one of the three that works on narrative), while the reasoning collapsed under examination (specious — superficially attractive but unsound). Cogent is the near-miss, but cogency describes tight argument, which the second half explicitly denies, and it would not explain reading straight through.",
+      "id": "gregmat03__b4__tc2__02",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Over three centuries the valley's rival dialects {1} into a single speech in which no trace of the older boundaries can now be heard.",
+      "blanks": [
+        {
+          "options": [
+            "coalesced",
+            "fused",
+            "clustered",
+            "polarized",
+            "dispersed",
+            "proliferated"
+          ],
+          "answers": [
+            "coalesced",
+            "fused"
+          ]
+        }
+      ],
+      "words": [
+        "coalesce"
+      ],
+      "explanation": "\"No trace of the older boundaries\" requires verbs in which the constituents lose their separate identity, and coalesced and fused both name that gradual, agentless becoming-one. Clustered fails because clustered elements remain individually visible; polarized, dispersed, and proliferated all move away from unity rather than toward it.",
+      "id": "gregmat03__b4__se__03",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Whatever one makes of the author's politics, her brief against the tariff is {1}: every premise is documented, and the conclusion follows from them without a gap.",
+      "blanks": [
+        {
+          "options": [
+            "cogent",
+            "compelling",
+            "specious",
+            "bombastic",
+            "tendentious",
+            "vacuous"
+          ],
+          "answers": [
+            "cogent",
+            "compelling"
+          ]
+        }
+      ],
+      "words": [
+        "cogent",
+        "compelling"
+      ],
+      "explanation": "Documented premises plus a gapless inference is a description of argumentative force, so cogent and compelling both apply and yield equivalent sentences. Specious and vacuous name the opposite defect, bombastic concerns inflated style rather than logic, and tendentious would accuse the brief of the partisanship the opening clause deliberately sets aside.",
+      "id": "gregmat03__b4__se__04",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Even after independence was recognized, the new republic had to {1} with inherited debts, a hostile navy offshore, and interior provinces that had never accepted its authority.",
+      "blanks": [
+        {
+          "options": [
+            "contend",
+            "comply",
+            "dispense",
+            "interfere",
+            "tamper"
+          ],
+          "answers": [
+            "contend"
+          ]
+        }
+      ],
+      "words": [
+        "contend"
+      ],
+      "explanation": "In its second sense contend means to grapple with adversity — difficulty implied, defeat not conceded — which is exactly the republic's relation to debts, a blockading navy, and rebellious provinces. Comply would mean submitting to them, and dispense, interfere, and tamper describe stances no state takes toward its own solvency or territory.",
+      "id": "gregmat03__b4__cloze__05",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Even readers who rejected every one of the book's conclusions admitted that its opening chapter was {1}; several confessed to finishing it at one sitting before they began arguing with it.",
+      "blanks": [
+        {
+          "options": [
+            "compelling",
+            "cogent",
+            "plausible",
+            "humdrum",
+            "insipid"
+          ],
+          "answers": [
+            "compelling"
+          ]
+        }
+      ],
+      "words": [
+        "compelling"
+      ],
+      "explanation": "The readers were gripped and yet unpersuaded, and compelling is the only one of these that can describe irresistible narrative pull independent of assent. Cogent and plausible are both verdicts on the reasoning, which these readers explicitly rejected; humdrum and insipid contradict the single-sitting detail.",
+      "id": "gregmat03__b4__cloze__06",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Two of the three referees {1} that the effect vanishes once seasonal variation is controlled for — a claim the authors dispute at length in their published reply.",
+      "blanks": [
+        {
+          "options": [
+            "contend",
+            "aver",
+            "concede",
+            "corroborate",
+            "gainsay",
+            "recant"
+          ],
+          "answers": [
+            "contend",
+            "aver"
+          ]
+        }
+      ],
+      "words": [
+        "contend"
+      ],
+      "explanation": "The dash-clause establishes that the referees are asserting something actively opposed, so the blank needs a verb of maintaining a position under challenge: contend and aver both do this. Corroborate presupposes supporting evidence for someone else's claim rather than advancing a contested one, concede would make the statement a reluctant admission rather than an attack, and gainsay and recant point at denial and retraction instead.",
+      "id": "gregmat03__b4__se__07",
+      "unit": "gregmat03__b4",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": []
+}

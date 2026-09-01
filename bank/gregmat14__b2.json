@@ -1,0 +1,223 @@
+{
+  "unit": "gregmat14__b2",
+  "gregmat_group": 14,
+  "words": [
+    "correlate",
+    "deride",
+    "dictate",
+    "discreet"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The epidemiologist's paper claimed only that the two trends {1} — that they had risen and fallen in step across the same decade — and never that one had produced the other; it was precisely this refusal to name a cause that hostile columnists, who wanted a villain, went on to {2} as academic cowardice.",
+      "blanks": [
+        {
+          "options": [
+            "correlate",
+            "dictate",
+            "converge"
+          ],
+          "answers": [
+            "correlate"
+          ]
+        },
+        {
+          "options": [
+            "deride",
+            "canonize",
+            "corroborate"
+          ],
+          "answers": [
+            "deride"
+          ]
+        }
+      ],
+      "words": [
+        "correlate",
+        "deride"
+      ],
+      "explanation": "The first blank must name a relationship that stops short of cause, which is exactly what correlate promises and no more; converge would mean the two trends approached one another, a different claim, and dictate would assert the causal control the sentence explicitly disclaims. In the second blank the columnists treat the caution as contemptible rather than merely questionable, so deride fits; canonize reverses the attitude and corroborate would have them confirming the finding rather than mocking the author.",
+      "id": "gregmat14__b2__tc2__00",
+      "unit": "gregmat14__b2",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Holding no cards whatever at the conference table, the smaller republic was in no position to {1} terms, and its envoy in the end accomplished more through {2} approaches made in corridors and over dinner — none of which ever reached the official record — than through anything he was permitted to say in session.",
+      "blanks": [
+        {
+          "options": [
+            "dictate",
+            "ratify",
+            "solicit"
+          ],
+          "answers": [
+            "dictate"
+          ]
+        },
+        {
+          "options": [
+            "discreet",
+            "imperious",
+            "boorish"
+          ],
+          "answers": [
+            "discreet"
+          ]
+        }
+      ],
+      "words": [
+        "dictate",
+        "discreet"
+      ],
+      "explanation": "Weakness is what rules out the first blank's answer: dictate means handing terms down from authority with no consultation, which is exactly what a party with no leverage cannot do, whereas soliciting terms is precisely what such a party can still do and ratifying them is a later formality. The second blank needs approaches that attract no notice and leave no trace, which is discreet; imperious would contradict the envoy's weak position, and boorish describes tactlessness rather than tactful invisibility.",
+      "id": "gregmat14__b2__tc2__01",
+      "unit": "gregmat14__b2",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "When the proposal for a lunar interferometer first reached the funding committee, the established astronomers did not so much argue against it as {1} it, treating the whole scheme as a joke unworthy of a formal reply.",
+      "blanks": [
+        {
+          "options": [
+            "deride",
+            "ridicule",
+            "venerate",
+            "canonize",
+            "patronize",
+            "scrutinize"
+          ],
+          "answers": [
+            "deride",
+            "ridicule"
+          ]
+        }
+      ],
+      "words": [
+        "deride"
+      ],
+      "explanation": "The clause \"a joke unworthy of a formal reply\" calls for mockery from above that substitutes for argument, and deride and ridicule are interchangeable there. Venerate and canonize form their own equivalent pair but reverse the attitude; patronize implies a condescending kindness rather than open contempt, and scrutinize is the very examination the astronomers refused to give.",
+      "id": "gregmat14__b2__se__02",
+      "unit": "gregmat14__b2",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Her biographer proved unusually {1} about the illness of the poet's last decade, naming the diagnosis only in the few places where the surviving letters made silence impossible.",
+      "blanks": [
+        {
+          "options": [
+            "discreet",
+            "reticent",
+            "candid",
+            "forthright",
+            "indiscriminate",
+            "gauche"
+          ],
+          "answers": [
+            "discreet",
+            "reticent"
+          ]
+        }
+      ],
+      "words": [
+        "discreet"
+      ],
+      "explanation": "The biographer withholds private information except where the evidence forces disclosure, so discreet and reticent both yield the same sentence: sparing of what he says about a matter that belongs to someone else. Candid and forthright would make an equivalent pair too, but they invert the behavior described by the second clause; indiscriminate is its opposite in another direction, and gauche concerns social clumsiness rather than the guarding of information.",
+      "id": "gregmat14__b2__se__03",
+      "unit": "gregmat14__b2",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "The epidemiologists were careful to say that the two curves merely {1}: the figures showed the rates climbing and falling together over the same twenty years, but nothing in them established which, if either, was acting on the other.",
+      "blanks": [
+        {
+          "options": [
+            "correlate",
+            "converge",
+            "precipitate",
+            "corroborate",
+            "dictate"
+          ],
+          "answers": [
+            "correlate"
+          ]
+        }
+      ],
+      "words": [
+        "correlate"
+      ],
+      "explanation": "Correlate is the measured claim that two quantities track each other while saying nothing about why, which is exactly the hedge the colon goes on to spell out. Precipitate and dictate would assert the causal direction the researchers decline to name; converge would mean the curves drew closer together, and corroborate would concern evidence supporting a claim rather than two variables moving in step.",
+      "id": "gregmat14__b2__cloze__04",
+      "unit": "gregmat14__b2",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "Where the founding charter is silent, it is long custom rather than any written statute that {1} the order in which the provinces are seated and the sequence in which their delegates may speak.",
+      "blanks": [
+        {
+          "options": [
+            "dictates",
+            "coerces",
+            "suppresses",
+            "ratifies",
+            "contests"
+          ],
+          "answers": [
+            "dictates"
+          ]
+        }
+      ],
+      "words": [
+        "dictate"
+      ],
+      "explanation": "This is the cool, impersonal sense of dictate — determines, leaves no choice — with no one in a position of command; custom simply settles the question the charter left open. Coerces and suppresses both require a threat or a force applied against resistance, which no custom is exerting here, while ratifies presupposes an existing enactment to confirm and contests would mean disputing the order rather than fixing it.",
+      "id": "gregmat14__b2__cloze__05",
+      "unit": "gregmat14__b2",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "The bank's inquiries were made in plain view — at dinner tables, in club rooms, in the ordinary course of conversation — and yet were so {1} that the family never suspected its finances had been examined at all.",
+      "blanks": [
+        {
+          "options": [
+            "discreet",
+            "clandestine",
+            "covert",
+            "impertinent",
+            "brazen"
+          ],
+          "answers": [
+            "discreet"
+          ]
+        }
+      ],
+      "words": [
+        "discreet"
+      ],
+      "explanation": "Discreet describes a question put so lightly that no one registers it as a question, which is the only option compatible with inquiries conducted openly at dinner. Clandestine and covert both require the activity itself to be hidden, and the sentence insists it was not; impertinent and brazen describe exactly the conspicuousness the inquiries avoided.",
+      "id": "gregmat14__b2__cloze__07",
+      "unit": "gregmat14__b2",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['lampooned'] vs ['derided']",
+      "problem": "Multiple options are defensible. \"Derided\" satisfies every cue in the sentence (mockery instead of refutation, amused audience, treating the work as a joke) just as well as \"lampooned\"; nothing in the sentence forces the specifically satirical/performative sense that would distinguish the two. \"Caricatured\" is arguably live too (distorting the work into a ridiculous version rather than engaging it, to an amused audience). Only \"patronized\" and \"discounted\" are clean rejects. A reasonable test-taker choosing \"derided\" would be marked wrong. Fix by removing \"derided\" (and likely \"caricatured\") or by adding a cue that demands mocking imitation, e.g. reading passages aloud in a mock-solemn voice.",
+      "stem": "Rather than trouble himself with a refutation, the senior physicist simply {1} the paper before an amused seminar audience, treating a decade of careful work as a joke that no one need answer."
+    }
+  ]
+}

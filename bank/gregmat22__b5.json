@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat22__b5",
+  "gregmat_group": 22,
+  "words": [
+    "phlegmatic",
+    "prodigious",
+    "propensity",
+    "qualm"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Contemporaries praised the captain's {1} bearing as the ship broke apart beneath him, but the ship's surgeon offered a deflating account: what passed for courage was merely a {2} constitution, a nervous system too sluggish to register that anything had gone wrong.",
+      "blanks": [
+        {
+          "options": [
+            "imperturbable",
+            "tempestuous",
+            "mawkish"
+          ],
+          "answers": [
+            "imperturbable"
+          ]
+        },
+        {
+          "options": [
+            "phlegmatic",
+            "stoic",
+            "histrionic"
+          ],
+          "answers": [
+            "phlegmatic"
+          ]
+        }
+      ],
+      "words": [
+        "phlegmatic"
+      ],
+      "explanation": "The first blank must name the admired calm the surgeon then reinterprets, so only imperturbable works; tempestuous and mawkish describe emotion on display. The second blank must explain that calm as constitutional dullness, which is exactly phlegmatic — stoic would mean the captain felt the danger and mastered it, contradicting \"too sluggish to register\" anything.",
+      "id": "gregmat22__b5__tc2__00",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "The dispatches call Rear-Admiral Cradock {1}, but the word cuts both ways: the same slowness to alarm that steadied his crew also left him unmoved by intelligence that should have alarmed anyone.",
+      "blanks": [
+        {
+          "options": [
+            "phlegmatic",
+            "stoic",
+            "mercurial",
+            "histrionic",
+            "cerebral"
+          ],
+          "answers": [
+            "phlegmatic"
+          ]
+        }
+      ],
+      "words": [
+        "phlegmatic"
+      ],
+      "explanation": "Only phlegmatic carries the double edge the sentence insists on: it diagnoses a temperament so slow to register feeling that the same trait reads as steadiness or as torpor depending on whether the crisis deserved a response. Stoic is the nearest trap but describes deliberate endurance of what one does feel, which cannot be praised and faulted in the single stroke the sentence performs.",
+      "id": "gregmat22__b5__cloze__01",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The legend of Balzac rests on two excesses: a working stamina so {1} that contemporaries doubted a single man could sustain it, and an appetite for silk and gilt so {2} that only ceaseless writing kept his creditors at bay.",
+      "blanks": [
+        {
+          "options": [
+            "prodigious",
+            "copious",
+            "profuse"
+          ],
+          "answers": [
+            "prodigious"
+          ]
+        },
+        {
+          "options": [
+            "profligate",
+            "abstemious",
+            "phlegmatic"
+          ],
+          "answers": [
+            "profligate"
+          ]
+        }
+      ],
+      "words": [
+        "prodigious"
+      ],
+      "explanation": "Copious and profuse quantify an amount of something countable, so they cannot modify stamina, a matter of degree; prodigious can, and it supplies the amazement the clause about disbelieving contemporaries requires. The second blank must explain the creditors, which needs the wastefulness of profligate — abstemious reverses the sense, and phlegmatic describes temperament, not spending.",
+      "id": "gregmat22__b5__tc2__02",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Humboldt's notebooks from the Orinoco proved so {1} that his editors needed the better part of a decade merely to catalogue them.",
+      "blanks": [
+        {
+          "options": [
+            "prodigious",
+            "copious",
+            "prodigal",
+            "profligate",
+            "desultory",
+            "paltry"
+          ],
+          "answers": [
+            "prodigious",
+            "copious"
+          ]
+        }
+      ],
+      "words": [
+        "prodigious"
+      ],
+      "explanation": "A decade spent merely cataloguing establishes sheer bulk, and prodigious and copious both name it, yielding sentences of equivalent meaning. Prodigal and profligate are the lookalike trap and mean wastefully extravagant, not numerous; desultory fits the register but would describe aimless notebooks rather than voluminous ones, and paltry inverts the sense.",
+      "id": "gregmat22__b5__se__03",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The court took care to separate taste from tendency: evidence of the defendant's {1} for violent films was excluded, since what a man likes to watch establishes no measurable {2} to act on it.",
+      "blanks": [
+        {
+          "options": [
+            "penchant",
+            "propensity",
+            "revulsion"
+          ],
+          "answers": [
+            "penchant"
+          ]
+        },
+        {
+          "options": [
+            "propensity",
+            "predilection",
+            "affinity"
+          ],
+          "answers": [
+            "propensity"
+          ]
+        }
+      ],
+      "words": [
+        "propensity"
+      ],
+      "explanation": "The sentence explicitly opposes taste to tendency, so the first blank takes penchant, the word for a liking one indulges, while the second takes propensity, the clinical term for an assessed and measurable rate of acting. Predilection would merely restate the preference the court has already dismissed, collapsing the contrast the sentence is built on.",
+      "id": "gregmat22__b5__tc2__04",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Metallurgists use the term without a trace of metaphor: cold-rolled steel has a measurable {1} to fracture below a certain temperature, one that can be plotted against a thermometer.",
+      "blanks": [
+        {
+          "options": [
+            "propensity",
+            "penchant",
+            "predilection",
+            "proclivity",
+            "affinity"
+          ],
+          "answers": [
+            "propensity"
+          ]
+        }
+      ],
+      "words": [
+        "propensity"
+      ],
+      "explanation": "Propensity alone applies literally to inanimate things and names a quantifiable rate of behaving, which is why the sentence stresses that no metaphor is involved. Penchant, predilection and proclivity all report a liking or leaning that only a person can have, and affinity would describe an attraction between substances rather than a likelihood of failing.",
+      "id": "gregmat22__b5__cloze__05",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The general's journals distinguish two kinds of unease: he confesses real {1} about how the campaign might end, yet records not one {2} about the order that began it — the burning of the town seems never to have troubled his conscience at all.",
+      "blanks": [
+        {
+          "options": [
+            "apprehension",
+            "contrition",
+            "effrontery"
+          ],
+          "answers": [
+            "apprehension"
+          ]
+        },
+        {
+          "options": [
+            "qualm",
+            "chagrin",
+            "reproach"
+          ],
+          "answers": [
+            "qualm"
+          ]
+        }
+      ],
+      "words": [
+        "qualm"
+      ],
+      "explanation": "The first unease points forward at an outcome the general fears, which is apprehension; contrition would look backward at his own wrongdoing, and the second half of the sentence denies he felt any. The second blank needs the small flicker of conscience that precedes an act and is here reported as absent — a qualm; chagrin is vexation after the fact, and a reproach is directed at someone else.",
+      "id": "gregmat22__b5__tc2__06",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Even as she signed the order closing the mill, she betrayed not the slightest {1} about the hundreds it would put out of work.",
+      "blanks": [
+        {
+          "options": [
+            "qualm",
+            "compunction",
+            "apprehension",
+            "contrition",
+            "chagrin",
+            "effrontery"
+          ],
+          "answers": [
+            "qualm",
+            "compunction"
+          ]
+        }
+      ],
+      "words": [
+        "qualm"
+      ],
+      "explanation": "The moment described is the act itself, so the blank must name the twinge of conscience that could have stayed her hand: qualm and compunction are exactly that pair, and both are idiomatic after \"not the slightest.\" Apprehension would make her afraid of consequences to herself rather than scrupulous, while contrition and chagrin arrive only after a deed, and effrontery names shamelessness rather than the scruple whose absence is being noted.",
+      "id": "gregmat22__b5__se__07",
+      "unit": "gregmat22__b5",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": []
+}

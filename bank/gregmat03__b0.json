@@ -1,0 +1,181 @@
+{
+  "unit": "gregmat03__b0",
+  "gregmat_group": 3,
+  "words": [
+    "abate",
+    "abjure",
+    "anomalous",
+    "antipathy"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though his instinctive {1} to the reformers' creed had long been known to his friends as a recoil he could never quite justify, the magistrates were not satisfied by private feeling: because he had once professed that creed, they required him to {2} it aloud, on oath, before the assembled town.",
+      "blanks": [
+        {
+          "options": [
+            "antipathy",
+            "apathy",
+            "affinity"
+          ],
+          "answers": [
+            "antipathy"
+          ]
+        },
+        {
+          "options": [
+            "abjure",
+            "forgo",
+            "extol"
+          ],
+          "answers": [
+            "abjure"
+          ]
+        }
+      ],
+      "words": [
+        "antipathy",
+        "abjure"
+      ],
+      "explanation": "\"Recoil he could never quite justify\" names a settled, unaccountable dislike — antipathy; apathy is the absence of feeling, which nothing can be a recoil of, and affinity is its opposite. The second blank is set by \"aloud, on oath, before the assembled town\": abjure is renunciation performed as a sworn formula, whereas forgo merely means to do without a thing going forward and extol reverses the sense entirely.",
+      "id": "gregmat03__b0__tc2__00",
+      "unit": "gregmat03__b0",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Public {1} toward the levy has proved more durable than its architects hoped: five years after passage, repeal petitions still reach the legislature in the volume they did in its first month, the feeling {2} by long familiarity.",
+      "blanks": [
+        {
+          "options": [
+            "antipathy",
+            "apathy",
+            "ardor"
+          ],
+          "answers": [
+            "antipathy"
+          ]
+        },
+        {
+          "options": [
+            "unabated",
+            "mellowed",
+            "kindled"
+          ],
+          "answers": [
+            "unabated"
+          ]
+        }
+      ],
+      "words": [
+        "antipathy",
+        "abate"
+      ],
+      "explanation": "Petitions demanding repeal are evidence of standing dislike, which rules out apathy (no feeling at all) and ardor (enthusiasm), leaving antipathy, the word that takes an abstraction like a tax as its object. Unabated captures a pressure that has never let up, matching the unchanged volume of petitions; mellowed would contradict that constancy, and kindled implies the feeling was ignited later rather than sustained from the first month.",
+      "id": "gregmat03__b0__tc2__02",
+      "unit": "gregmat03__b0",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Rather than dismiss the {1} readings as instrument error, Bell asked whether the standard model itself might have failed to predict them.",
+      "blanks": [
+        {
+          "options": [
+            "anomalous",
+            "aberrant",
+            "paradigmatic",
+            "conventional",
+            "mundane",
+            "spurious"
+          ],
+          "answers": [
+            "anomalous",
+            "aberrant"
+          ]
+        }
+      ],
+      "words": [
+        "anomalous"
+      ],
+      "explanation": "The clause \"failed to predict them\" requires readings that depart from the pattern, and anomalous and aberrant are interchangeable here. Paradigmatic, conventional, and mundane all describe results the model would have expected, so there would be nothing to dismiss; spurious asserts that the readings are false, which is precisely the verdict Bell declines to reach.",
+      "id": "gregmat03__b0__se__04",
+      "unit": "gregmat03__b0",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Kneeling as the clerk read the formula aloud, he was made to {1} the allegiance he had sworn to the exiled king.",
+      "blanks": [
+        {
+          "options": [
+            "abjure",
+            "renounce",
+            "recant",
+            "forgo",
+            "ratify",
+            "extol"
+          ],
+          "answers": [
+            "abjure",
+            "renounce"
+          ]
+        }
+      ],
+      "words": [
+        "abjure"
+      ],
+      "explanation": "Abjure and renounce both mean to give up a bond formally, and the recited formula supplies exactly the ceremony abjure implies. Recant applies to a statement or opinion one has uttered, not to a sworn loyalty; forgo means to do without something one might have had, while ratify and extol would have him affirming the allegiance rather than surrendering it.",
+      "id": "gregmat03__b0__se__05",
+      "unit": "gregmat03__b0",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Diplomats had assured the aid agencies that the bombardment would slacken once winter closed the mountain roads, but it continued {1} through January, reducing the city's outskirts to rubble.",
+      "blanks": [
+        {
+          "options": [
+            "unabated",
+            "attenuated",
+            "curtailed",
+            "waning",
+            "dwindling"
+          ],
+          "answers": [
+            "unabated"
+          ]
+        }
+      ],
+      "words": [
+        "abate"
+      ],
+      "explanation": "The contrastive \"but,\" reinforced by the destruction of the outskirts, demands that the shelling never let up, which is exactly what unabated asserts. Attenuated, curtailed, waning, and dwindling all describe force that is diminishing — the outcome the diplomats predicted and the sentence denies.",
+      "id": "gregmat03__b0__cloze__06",
+      "unit": "gregmat03__b0",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "A second option pair is fully defensible: \"mundane\" + \"materialized.\" Read that way, the readings were ordinary/unremarkable only during the brief interval before the vibration appeared — i.e., they went bad as soon as vibration was present — which supports exactly the same conclusion (the vibration-sensitive instrument, not the sample, is at fault). The sentence's logic only requires that the deviant readings track the presence of vibration; it does not distinguish between describing the good window (mundane/materialized) and the bad window (anomalous/abated). A test-taker who picks mundane/materialized has a coherent, self-consistent reading and would be marked wrong. To force uniqueness, the sentence needs a cue that fixes which window is described (e.g., \"readings deviated from the sample's known values only during...\" or naming the vibration as decaying/settling).",
+      "stem": "Because the sensor's readings were {1} only during the brief interval when the rig's vibration had not yet {2}, the team concluded that the fault lay with the instrument rather than with the sample."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence needs a word meaning \"dislike\" (the contrast with sitting through ceremony in good humor is clear), but THREE options carry that meaning: antipathy, aversion, and animus. \"Animus\" (hostility, ill will) is a defensible substitute — \"a lifelong animus to/toward ceremony\" is idiomatic enough and yields essentially the same sentence meaning — so a test-taker could reasonably pair animus with antipathy or aversion and be marked wrong. The intended pair is antipathy/aversion (animus connotes active malice usually directed at persons, and is stronger than the mild distaste the sentence implies), but that distinction is too fine to make the answer set unique. Replacing \"animus\" with a genuine distractor (e.g. \"reverence\" or \"indifference\") would fix it.",
+      "stem": "A lifelong {1} to ceremony of any kind did not prevent the physicist from sitting through three hours of speeches in Stockholm with every appearance of good humor."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The colon clause only establishes that the mechanism is an unparalleled outlier, which rules out \"paradigmatic,\" \"mundane,\" and \"conventional\" but leaves two defensible answers. \"Anomalous\" is the idiomatic choice for an artifact that deviates from the expected pattern in a record, but \"aberrant\" is a near-synonym (\"deviating from the normal type\") and a reasonable test-taker could select it and be marked wrong. The sentence supplies no cue — no evaluative or pathological coloring, no register signal — that separates the two. To fix, replace \"aberrant\" with a distractor that fails the \"unparalleled\" test (e.g., \"derivative,\" \"fragmentary,\" \"ubiquitous\").",
+      "stem": "The Antikythera mechanism is {1} in the archaeological record: no gearing of comparable sophistication appears anywhere else for another thousand years."
+    }
+  ]
+}

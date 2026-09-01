@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat07__b6",
+  "gregmat_group": 7,
+  "words": [
+    "salubrious",
+    "sanction",
+    "sedulous",
+    "soporific"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The sanitary reformers of the 1840s promised their scheme would do double duty: replacing the fetid courts and cesspools of the parish with wide streets and running water would make the district genuinely {1}, and the spectacle of one quarter so transformed would have a {2} effect on ratepayers elsewhere, shaming the complacent into imitation.",
+      "blanks": [
+        {
+          "options": [
+            "salubrious",
+            "lugubrious",
+            "soporific"
+          ],
+          "answers": [
+            "salubrious"
+          ]
+        },
+        {
+          "options": [
+            "salutary",
+            "propitious",
+            "efficacious"
+          ],
+          "answers": [
+            "salutary"
+          ]
+        }
+      ],
+      "words": [
+        "salubrious"
+      ],
+      "explanation": "Blank 1 describes a place whose air and water have been made health-giving, which is exactly salubrious; lugubrious means mournful and soporific means sleep-inducing. Blank 2 needs the corrective, morally beneficial force of an example: salutary attaches to lessons and effects, whereas propitious describes favourable circumstances or omens, and efficacious describes a remedy that works, making 'efficacious effect' both redundant and wrong in kind.",
+      "id": "gregmat07__b6__tc2__00",
+      "unit": "gregmat07__b6",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "For his detective's lodgings the novelist chose a hotel of decidedly {1} character: peeling wallpaper, a lobby that smelled of gin at eleven in the morning, and a clientele the desk clerk pointedly declined to describe.",
+      "blanks": [
+        {
+          "options": [
+            "insalubrious",
+            "salubrious",
+            "salutary",
+            "providential",
+            "auspicious"
+          ],
+          "answers": [
+            "insalubrious"
+          ]
+        }
+      ],
+      "words": [
+        "salubrious"
+      ],
+      "explanation": "The details are not about bad air but about disrepute, and insalubrious is precisely the word that has drifted from 'unhealthy' to 'seedy', which is why the negative form survives where the positive one sounds quaint. Salubrious would praise the place, while salutary, providential and auspicious are all favourable words describing beneficial lessons, lucky interventions and promising omens respectively.",
+      "id": "gregmat07__b6__cloze__01",
+      "unit": "gregmat07__b6",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Parliament alone may {1} the sale of Crown land, so the minister's private understanding with the developer, however well intentioned, was void from the outset — and the select committee's report, far from excusing the lapse, amounted to a stinging {2}.",
+      "blanks": [
+        {
+          "options": [
+            "sanction",
+            "condone",
+            "decry"
+          ],
+          "answers": [
+            "sanction"
+          ]
+        },
+        {
+          "options": [
+            "censure",
+            "approbation",
+            "exculpation"
+          ],
+          "answers": [
+            "censure"
+          ]
+        }
+      ],
+      "words": [
+        "sanction"
+      ],
+      "explanation": "Blank 1 requires the granting of binding legal authority by a body competent to grant it, which is sanction; condone means to overlook a wrong rather than to authorise a transaction, and decry would reverse the logic that follows. Blank 2 must be condemnation, since 'far from excusing' rules out both approbation (praise) and exculpation (clearing of blame).",
+      "id": "gregmat07__b6__tc2__02",
+      "unit": "gregmat07__b6",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "The general assembly may pass as many resolutions deploring the coup as it likes, but only the security council can impose the {1} — frozen accounts, an arms embargo, a ban on the junta's travel — that make deploring it expensive.",
+      "blanks": [
+        {
+          "options": [
+            "sanctions",
+            "opprobrium",
+            "censure",
+            "indictments",
+            "approbation"
+          ],
+          "answers": [
+            "sanctions"
+          ]
+        }
+      ],
+      "words": [
+        "sanction"
+      ],
+      "explanation": "The blank names coercive measures designed to change a government's behaviour by imposing costs, which is the plural noun sanctions. Opprobrium and censure are expressions of disgrace or disapproval — precisely the toothless deploring the sentence contrasts them with — while indictments are formal criminal charges against persons, and approbation is approval.",
+      "id": "gregmat07__b6__cloze__03",
+      "unit": "gregmat07__b6",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues assumed the curatorship was a {1}, a comfortable perch for a man three years from retirement; instead its holder proved so {2} that within a year every uncatalogued crate in the cellar had been opened, its contents listed, and each item shelved by provenance.",
+      "blanks": [
+        {
+          "options": [
+            "sinecure",
+            "liability",
+            "indictment"
+          ],
+          "answers": [
+            "sinecure"
+          ]
+        },
+        {
+          "options": [
+            "sedulous",
+            "feckless",
+            "indolent"
+          ],
+          "answers": [
+            "sedulous"
+          ]
+        }
+      ],
+      "words": [
+        "sedulous"
+      ],
+      "explanation": "Blank 1 needs a post that pays without demanding work — a sinecure — since a liability is a burden or drawback and an indictment is a formal accusation, neither of which is a comfortable perch. Blank 2 is fixed by the 'instead' and by the inventory of patient, detailed labour: sedulous praises exactly that thoroughness, while feckless and indolent would describe the idler the colleagues wrongly expected.",
+      "id": "gregmat07__b6__tc2__05",
+      "unit": "gregmat07__b6",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Whether by design or by miscalculation, counsel's three-hour recitation of shipping schedules proved {1}: two jurors' heads had dropped by the second hour, and the judge called an early recess.",
+      "blanks": [
+        {
+          "options": [
+            "soporific",
+            "narcotic",
+            "monotonous",
+            "scintillating",
+            "arresting",
+            "piquant"
+          ],
+          "answers": [
+            "soporific",
+            "narcotic"
+          ]
+        }
+      ],
+      "words": [
+        "soporific"
+      ],
+      "explanation": "The evidence in the sentence is literal sleep, so the blank must name something that induces it: soporific and narcotic both do. Monotonous describes the unvarying sameness of the recitation rather than its effect on the jurors, and scintillating, arresting and piquant all describe speech that grips or sharpens attention, which the recess disproves.",
+      "id": "gregmat07__b6__se__06",
+      "unit": "gregmat07__b6",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers granted that the novel's premise was {1} — a village that wakes each morning with its memories redistributed — but its execution, four hundred pages of undifferentiated interior monologue, proved so {2} that few readers survived to reach the reversal the premise had promised.",
+      "blanks": [
+        {
+          "options": [
+            "arresting",
+            "insipid",
+            "humdrum"
+          ],
+          "answers": [
+            "arresting"
+          ]
+        },
+        {
+          "options": [
+            "soporific",
+            "piquant",
+            "scintillating"
+          ],
+          "answers": [
+            "soporific"
+          ]
+        }
+      ],
+      "words": [
+        "soporific"
+      ],
+      "explanation": "The concessive 'granted... but' requires praise in blank 1 and its opposite in blank 2, so insipid and humdrum are excluded at the first blank and piquant and scintillating at the second. Soporific is the reviewer's dry, faintly amused verdict of unbearable dullness, and 'few readers survived to reach' the ending confirms that the prose put them under.",
+      "id": "gregmat07__b6__tc2__07",
+      "unit": "gregmat07__b6",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence contains three near-synonyms that all fit the blank: \"sedulous,\" \"assiduous,\" and \"indefatigable.\" Sedulous and assiduous are the tightest pair (both = painstakingly diligent, attentive to detail), and the intended logic is presumably that the \"tedious rather than the heroic\" framing rules out \"indefatigable\" as too energetic/heroic in flavor. But that discrimination is far too fine to be reliable: \"indefatigable patience\" is an extremely common collocation and describes exactly \"a man willing to verify one quotation slip at a time\" — tirelessness is precisely what one-slip-at-a-time verification demands. A test-taker who pairs \"indefatigable\" with either \"assiduous\" or \"sedulous\" has a defensible reading and would be marked wrong. The three negative options (perfunctory, dilatory, desultory) are all clearly excluded, so the question effectively offers a 3-choose-2 among genuine synonyms. To fix it, replace one of the three positives with a word that has no synonym in the set, or sharpen the sentence to explicitly contrast tireless energy against meticulous care.",
+      "stem": "The obstacles Murray met in editing the dictionary were of the tedious rather than the heroic kind — no rival press, no hostile board of delegates — and the work rewarded instead the {1} patience of a man willing to verify one quotation slip at a time."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat11__b6",
+  "gregmat_group": 11,
+  "words": [
+    "satirical",
+    "sham",
+    "skirt",
+    "sluggish"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers who dismissed the novel as merely {1} mistook its design, for Bulgakov ridicules the ministry not to vent private spleen at particular men but to leave the whole institution's absurdity exposed to public correction; the book is {2} in the strictest sense.",
+      "blanks": [
+        {
+          "options": [
+            "sarcastic",
+            "ponderous",
+            "bogus"
+          ],
+          "answers": [
+            "sarcastic"
+          ]
+        },
+        {
+          "options": [
+            "satirical",
+            "spurious",
+            "plodding"
+          ],
+          "answers": [
+            "satirical"
+          ]
+        }
+      ],
+      "words": [
+        "satirical"
+      ],
+      "explanation": "The first blank must name the reading the reviewers wrongly settled for, and the clause that follows — \"private spleen at particular men\" — describes sarcasm exactly: personal, sour, aimed at individuals. The second blank must name what the book actually is, and the stated aim of exposing an institution's folly for correction is the moral engine that defines satirical; ponderous and plodding describe pace, and spurious would mean the book was fake rather than pointed.",
+      "id": "gregmat11__b6__tc2__00",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission observed every procedural nicety — sworn testimony, cross-examination, a bound report tabled before Parliament — and it was precisely this fidelity to form that led critics to call the whole exercise a {1}: the machinery was perfectly {2}, but it enclosed nothing.",
+      "blanks": [
+        {
+          "options": [
+            "sham",
+            "counterfeit",
+            "lampoon"
+          ],
+          "answers": [
+            "sham"
+          ]
+        },
+        {
+          "options": [
+            "genuine",
+            "fraudulent",
+            "improvised"
+          ],
+          "answers": [
+            "genuine"
+          ]
+        }
+      ],
+      "words": [
+        "sham"
+      ],
+      "explanation": "A sham is the one word here that indicts a form — a trial, an inquiry, an election — that executes every correct motion and means nothing, which is why the catalogue of scrupulous procedure supports rather than undercuts the charge. Counterfeit would accuse the documents themselves of being forged, and the second blank rules that out: the contrastive \"but it enclosed nothing\" requires that the machinery be authentic, with the hollowness lying in the procedure rather than in any faked paper.",
+      "id": "gregmat11__b6__tc2__01",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Every clause of the statute was scrupulously observed, and yet its intent was wholly defeated: the bank had not {1} the law so much as {2} it, keeping to the very edge of the prohibition at each step.",
+      "blanks": [
+        {
+          "options": [
+            "violated",
+            "enforced",
+            "anticipated"
+          ],
+          "answers": [
+            "violated"
+          ]
+        },
+        {
+          "options": [
+            "skirted",
+            "flouted",
+            "contravened"
+          ],
+          "answers": [
+            "skirted"
+          ]
+        }
+      ],
+      "words": [
+        "skirt"
+      ],
+      "explanation": "The construction \"not X so much as Y\" demands that the first blank be the charge being refused — outright breach — and \"every clause scrupulously observed\" confirms it; banks do not enforce statutes, and anticipating one is not a fault. The second blank must name evasion that breaks nothing, which is precisely skirting; flout means open defiance and contravene means violation, both flatly contradicted by the technical compliance the sentence insists on.",
+      "id": "gregmat11__b6__tc2__02",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "For three quarters of an hour the nominee {1} every question about the memorandum, speaking at length, breaking no rule of candor, and touching the substance of the matter not once.",
+      "blanks": [
+        {
+          "options": [
+            "skirted",
+            "sidestepped",
+            "belabored",
+            "entertained",
+            "anticipated",
+            "invited"
+          ],
+          "answers": [
+            "skirted",
+            "sidestepped"
+          ]
+        }
+      ],
+      "words": [
+        "skirt"
+      ],
+      "explanation": "Skirted and sidestepped both denote going around a question without refusing it or answering it, which is exactly the behavior described: voluble, technically compliant, substantively empty. Belabored would mean he dwelt on the questions at exhausting length, and entertained, anticipated, and invited all imply he engaged the substance — the opposite of touching it \"not once.\"",
+      "id": "gregmat11__b6__se__03",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Three days at altitude left even the fittest members of the party {1}: their limbs answered slowly, and chores that had taken ten minutes at sea level now consumed half a morning.",
+      "blanks": [
+        {
+          "options": [
+            "sluggish",
+            "lethargic",
+            "dilatory",
+            "ponderous",
+            "querulous",
+            "fastidious"
+          ],
+          "answers": [
+            "sluggish",
+            "lethargic"
+          ]
+        }
+      ],
+      "words": [
+        "sluggish"
+      ],
+      "explanation": "Sluggish and lethargic both describe slowness as a symptom of depleted power, with no choice involved — which fits climbers whose bodies, not their intentions, have been altered by thin air. Dilatory blames someone for choosing to delay, ponderous describes heavy, laborious bulk rather than lost energy, and querulous and fastidious fit the grammar while naming temperament instead of vitality.",
+      "id": "gregmat11__b6__se__04",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Rather than admit that his nerve had failed him on the eve of the ascent, the porter {1} a fever, complete with a convincing shiver, and was excused from the party.",
+      "blanks": [
+        {
+          "options": [
+            "shammed",
+            "feigned",
+            "professed",
+            "disclosed",
+            "exaggerated",
+            "avowed"
+          ],
+          "answers": [
+            "shammed",
+            "feigned"
+          ]
+        }
+      ],
+      "words": [
+        "sham"
+      ],
+      "explanation": "Shammed and feigned both mean he produced a fever he did not have, which the staged shiver and the concealed real motive together require. Professed and avowed mean only that he declared it, disclosed presupposes a genuine condition revealed, and exaggerated would grant him an actual fever that he merely inflated.",
+      "id": "gregmat11__b6__se__05",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Hogarth's engravings of the gin craze are not affectionate studies of low life but {1} indictments, exaggerating the drunkard's ruin until Parliament could no longer pretend the trade needed no regulation.",
+      "blanks": [
+        {
+          "options": [
+            "satirical",
+            "sarcastic",
+            "spurious",
+            "plaintive",
+            "deferential"
+          ],
+          "answers": [
+            "satirical"
+          ]
+        }
+      ],
+      "words": [
+        "satirical"
+      ],
+      "explanation": "Exaggeration aimed at a target and pressed toward legislative reform is the defining shape of satire: ridicule with a moral engine under it. Sarcastic is the trap — it names a sour, personal jab delivered in conversation, not a sustained work with a public target — and spurious, plaintive, and deferential all misdescribe the pictures' aggressive purpose.",
+      "id": "gregmat11__b6__cloze__06",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Two rate cuts failed to revive the economy: factory orders crept up by less than a percent, hiring stalled outright, and by autumn even the finance ministry conceded that growth remained {1}.",
+      "blanks": [
+        {
+          "options": [
+            "sluggish",
+            "dilatory",
+            "indolent",
+            "frenetic",
+            "precipitous"
+          ],
+          "answers": [
+            "sluggish"
+          ]
+        }
+      ],
+      "words": [
+        "sluggish"
+      ],
+      "explanation": "Sluggish diagnoses underperformance as a symptom of low power and applies naturally to impersonal things — engines, digestion, an economy — which is what an abstraction like growth requires. Dilatory and indolent both attribute the slowness to a will that could have chosen otherwise, and an economy has nobody to scold; frenetic and precipitous describe speed, not its absence.",
+      "id": "gregmat11__b6__cloze__07",
+      "unit": "gregmat11__b6",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": []
+}

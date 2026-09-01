@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat24__b4",
+  "gregmat_group": 24,
+  "words": [
+    "inundate",
+    "ironclad",
+    "jeopardize",
+    "mercurial"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "For nearly a decade the county archive had contended with such a {1} of gifts that it accessioned barely a box a year; then a single evening's television documentary {2} its two-person staff with cartons hauled down from attics across three counties.",
+      "blanks": [
+        {
+          "options": [
+            "dearth",
+            "surfeit",
+            "profusion"
+          ],
+          "answers": [
+            "dearth"
+          ]
+        },
+        {
+          "options": [
+            "inundated",
+            "jeopardized",
+            "corroborated"
+          ],
+          "answers": [
+            "inundated"
+          ]
+        }
+      ],
+      "words": [
+        "inundate"
+      ],
+      "explanation": "\"Barely a box a year\" fixes the first blank as scarcity, and the pivot at \"then\" requires the second blank to name the opposite condition — sheer impersonal volume arriving all at once, which is inundated. Surfeit and profusion invert the first clause; jeopardized would mean the donations endangered the staff's holdings rather than buried them, and corroborated has no object it could confirm.",
+      "id": "gregmat24__b4__tc2__00",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Counsel had assembled what she believed to be an {1} alibi — three unacquainted witnesses, a timestamped receipt, and highway camera footage — and she cautioned her client that the smallest embellishment on the stand would {2} it.",
+      "blanks": [
+        {
+          "options": [
+            "ironclad",
+            "tenuous",
+            "conjectural"
+          ],
+          "answers": [
+            "ironclad"
+          ]
+        },
+        {
+          "options": [
+            "jeopardize",
+            "substantiate",
+            "corroborate"
+          ],
+          "answers": [
+            "jeopardize"
+          ]
+        }
+      ],
+      "words": [
+        "ironclad",
+        "jeopardize"
+      ],
+      "explanation": "An alibi is a constructed defense that opponents will try to pry open, so the accumulated, mutually independent evidence makes it ironclad — no loophole left — whereas tenuous and conjectural describe exactly the flimsiness the evidence rules out. The warning about embellishment then demands jeopardize, which puts a good already in hand at risk through one's own act; substantiate and corroborate would mean the lie strengthened the case.",
+      "id": "gregmat24__b4__tc2__01",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics who prized the conductor's {1} readings — one night languid and inward, the next all fury — nonetheless conceded that the players would have profited from a more {2} hand during the long weeks of rehearsal that preceded the tour.",
+      "blanks": [
+        {
+          "options": [
+            "mercurial",
+            "phlegmatic",
+            "dogged"
+          ],
+          "answers": [
+            "mercurial"
+          ]
+        },
+        {
+          "options": [
+            "steadfast",
+            "capricious",
+            "tentative"
+          ],
+          "answers": [
+            "steadfast"
+          ]
+        }
+      ],
+      "words": [
+        "mercurial"
+      ],
+      "explanation": "The paired extremes of temperament, admired by critics, call for mercurial, which alone among the choices carries a glint of glamour; phlegmatic and dogged describe the very evenness the sentence denies. \"Nonetheless\" then requires a corrective opposite in the second blank, so steadfast fits and capricious merely restates the problem.",
+      "id": "gregmat24__b4__tc2__02",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "In the fortnight after the fellowship was publicized in the national press, the two-member selection committee found itself {1} applications, the great majority of them from candidates who had plainly never read the eligibility criteria.",
+      "blanks": [
+        {
+          "options": [
+            "inundated with",
+            "swamped with",
+            "entrusted with",
+            "confronted with",
+            "credited with",
+            "acquainted with"
+          ],
+          "answers": [
+            "inundated with",
+            "swamped with"
+          ]
+        }
+      ],
+      "words": [
+        "inundate"
+      ],
+      "explanation": "The point is volume arriving from outside and burying a tiny committee, which is precisely inundated with and swamped with. Confronted with and entrusted with fit the grammar and the tone but say only that the applications were received or given into the committee's care, losing the sense of being overrun; credited with and acquainted with change the meaning entirely.",
+      "id": "gregmat24__b4__se__03",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Redrafted after two costly suits, the distribution agreement was {1}: it anticipated in advance every evasion the regional licensees had previously contrived.",
+      "blanks": [
+        {
+          "options": [
+            "ironclad",
+            "airtight",
+            "axiomatic",
+            "incontrovertible",
+            "conjectural",
+            "tenuous"
+          ],
+          "answers": [
+            "ironclad",
+            "airtight"
+          ]
+        }
+      ],
+      "words": [
+        "ironclad"
+      ],
+      "explanation": "A contract drafted to leave no loophole for an adversary to exploit is ironclad or airtight — both assess workmanship on a document with seams someone is prying at. Axiomatic and incontrovertible are plausible in register but apply to claims about the world rather than to arrangements, and conjectural and tenuous say the reverse of what the second clause establishes.",
+      "id": "gregmat24__b4__se__04",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Mediators cautioned that the raid, militarily trivial though it was, might {1} a ceasefire that had held through eleven difficult months.",
+      "blanks": [
+        {
+          "options": [
+            "jeopardize",
+            "consolidate",
+            "corroborate",
+            "inundate",
+            "ratify"
+          ],
+          "answers": [
+            "jeopardize"
+          ]
+        }
+      ],
+      "words": [
+        "jeopardize"
+      ],
+      "explanation": "The ceasefire is a good already possessed and still salvageable, and a specific act threatens it — the exact situation jeopardize names. Consolidate and ratify would strengthen or formalize it, corroborate applies to claims rather than to arrangements, and inundate concerns volume pouring in, not risk.",
+      "id": "gregmat24__b4__cloze__05",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Biographers founder on Coleridge because the letters veer within a single page from exalted schemes to abject self-reproach, a {1} temperament that no tidy narrative arc will accommodate.",
+      "blanks": [
+        {
+          "options": [
+            "mercurial",
+            "phlegmatic",
+            "dogged",
+            "steadfast",
+            "resolute"
+          ],
+          "answers": [
+            "mercurial"
+          ]
+        }
+      ],
+      "words": [
+        "mercurial"
+      ],
+      "explanation": "Swings between brilliance and despair inside one page describe a temperament that is quick, unpredictable, and faintly glamorous — mercurial. Phlegmatic denotes the opposite disposition, unruffled and slow, while dogged, steadfast, and resolute all name the constancy the letters conspicuously lack.",
+      "id": "gregmat24__b4__cloze__06",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "The founder was as {1} as she was inventive, scrapping a product line one week and resurrecting it the next; her board's fear was less that the reversals were wrong than that announcing each of them on social media would {2} the financing round she had spent a year courting.",
+      "blanks": [
+        {
+          "options": [
+            "mercurial",
+            "phlegmatic",
+            "stalwart"
+          ],
+          "answers": [
+            "mercurial"
+          ]
+        },
+        {
+          "options": [
+            "jeopardize",
+            "consolidate",
+            "substantiate"
+          ],
+          "answers": [
+            "jeopardize"
+          ]
+        }
+      ],
+      "words": [
+        "mercurial",
+        "jeopardize"
+      ],
+      "explanation": "Pairing the blank with \"inventive\" signals the half-admiring tone that only mercurial supplies among these options; phlegmatic and stalwart describe the steadiness her behavior contradicts. The second blank needs a verb by which her own conduct endangers something valuable but not yet lost — jeopardize — whereas consolidate and substantiate would have the reversals securing the round.",
+      "id": "gregmat24__b4__tc2__07",
+      "unit": "gregmat24__b4",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": []
+}

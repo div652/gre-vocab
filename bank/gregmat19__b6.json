@@ -1,0 +1,253 @@
+{
+  "unit": "gregmat19__b6",
+  "gregmat_group": 19,
+  "words": [
+    "prime",
+    "radical",
+    "recrudescent",
+    "temporal"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "By claiming the right to depose an emperor, Gregory VII arrogated to the papacy a {1} authority that his predecessors had willingly conceded to kings — not an extension of an existing prerogative but a {2} redefinition of where sovereignty originated.",
+      "blanks": [
+        {
+          "options": [
+            "temporal",
+            "spiritual",
+            "doctrinal"
+          ],
+          "answers": [
+            "temporal"
+          ]
+        },
+        {
+          "options": [
+            "radical",
+            "conventional",
+            "nominal"
+          ],
+          "answers": [
+            "radical"
+          ]
+        }
+      ],
+      "words": [
+        "temporal",
+        "radical"
+      ],
+      "explanation": "The authority in question is one earlier popes left to kings, so it cannot be spiritual or doctrinal — those were never conceded; it is temporal, worldly power over persons and states. The second blank is fixed by the contrast with a mere extension of prerogative: a change that resets the origin of sovereignty goes to the root, which is radical, whereas nominal would mean the change was in name only and conventional would contradict the whole sentence.",
+      "id": "gregmat19__b6__tc2__00",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Defense counsel conceded that the detective had supplied no facts outright, but argued that his string of leading questions had nonetheless {1} the witness so thoroughly that the eventual identification was less a memory than a {2}.",
+      "blanks": [
+        {
+          "options": [
+            "primed",
+            "informed",
+            "rendered"
+          ],
+          "answers": [
+            "primed"
+          ]
+        },
+        {
+          "options": [
+            "recitation",
+            "revelation",
+            "refutation"
+          ],
+          "answers": [
+            "recitation"
+          ]
+        }
+      ],
+      "words": [
+        "prime"
+      ],
+      "explanation": "The clause \"supplied no facts outright\" is there to kill informed, which requires the transfer of information; primed is exactly the word for preparing someone in advance so that the desired response emerges on cue. The second blank follows from the first: a witness prepared beforehand gives back what was planted, a recitation, rather than a revelation, which would imply genuine new knowledge.",
+      "id": "gregmat19__b6__tc2__01",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Public health officials had long treated cholera in the province as a closed chapter, and the {1} outbreaks of the 1890s — in the very districts that had gone two decades without a recorded case — were met with improvisation rather than plans.",
+      "blanks": [
+        {
+          "options": [
+            "recrudescent",
+            "resurgent",
+            "quiescent",
+            "endemic",
+            "rampant",
+            "sporadic"
+          ],
+          "answers": [
+            "recrudescent",
+            "resurgent"
+          ]
+        }
+      ],
+      "words": [
+        "recrudescent"
+      ],
+      "explanation": "Twenty case-free years followed by fresh outbreaks demands a word for breaking out again after dormancy: recrudescent and resurgent are equivalent here. Endemic would mean the disease was continuously present, contradicting the twenty quiet years; quiescent contradicts \"outbreaks\" outright; and rampant (widespread) and sporadic (scattered) describe extent rather than return, so each changes the sentence's meaning and neither pairs with another option.",
+      "id": "gregmat19__b6__se__02",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Reconciling the Michelson–Morley result with Maxwell's equations demanded no mere emendation of Newtonian mechanics but a {1} reworking of its premises about space and simultaneity.",
+      "blanks": [
+        {
+          "options": [
+            "radical",
+            "thoroughgoing",
+            "doctrinaire",
+            "staid",
+            "cosmetic",
+            "provisional"
+          ],
+          "answers": [
+            "radical",
+            "thoroughgoing"
+          ]
+        }
+      ],
+      "words": [
+        "radical"
+      ],
+      "explanation": "\"No mere emendation ... but\" sets up depth: the premises themselves are rebuilt, which is what radical and thoroughgoing both name. Cosmetic and provisional fit the slot grammatically and sound plausible in scientific prose, but both say the opposite of a foundational rebuild; doctrinaire (rigidly attached to dogma) and staid (unadventurous) describe temperament, not scope.",
+      "id": "gregmat19__b6__se__03",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "The concordat left the archbishop his sacraments and his courts of conscience while transferring every {1} prerogative — taxation, conscription, the naming of magistrates — to the crown.",
+      "blanks": [
+        {
+          "options": [
+            "temporal",
+            "secular",
+            "spiritual",
+            "ecclesiastical",
+            "contemporary",
+            "hereditary"
+          ],
+          "answers": [
+            "temporal",
+            "secular"
+          ]
+        }
+      ],
+      "words": [
+        "temporal"
+      ],
+      "explanation": "The listed powers are worldly ones, explicitly set against the sacraments the archbishop keeps, so temporal and secular are equivalent here. Spiritual and ecclesiastical name precisely what was retained rather than surrendered; hereditary fits the register but misdescribes taxation and conscription; contemporary trades on the shared root tempus and means \"of the present day,\" not \"of this world.\"",
+      "id": "gregmat19__b6__se__04",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "In the best-known of the experiments, subjects who had just unscrambled sentences containing words associated with old age walked measurably more slowly down the exit corridor; the vocabulary had {1} them, quite without their noticing, to enact the stereotype it evoked.",
+      "blanks": [
+        {
+          "options": [
+            "primed",
+            "goaded",
+            "steeled",
+            "informed",
+            "rendered"
+          ],
+          "answers": [
+            "primed"
+          ]
+        }
+      ],
+      "words": [
+        "prime"
+      ],
+      "explanation": "Prime is the verb for a preliminary step that shapes a later response, which is exactly the experimental effect described — and the phrase \"without their noticing\" rules out goaded, which implies felt provocation. Informed would require the subjects to have been told something, and steeled means fortified against hardship, neither of which is what an unscrambling task does.",
+      "id": "gregmat19__b6__cloze__05",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Malaria in the Pontine marshes was never eliminated, only held down; each lapse in drainage funding was followed within a season by {1} fevers in villages that had already congratulated themselves on their deliverance.",
+      "blanks": [
+        {
+          "options": [
+            "recrudescent",
+            "quiescent",
+            "dormant",
+            "virulent",
+            "sporadic"
+          ],
+          "answers": [
+            "recrudescent"
+          ]
+        }
+      ],
+      "words": [
+        "recrudescent"
+      ],
+      "explanation": "\"Never eliminated, only held down\" plus the return after each lapse specifies a disease breaking out again from dormancy, which is recrudescent. Virulent is the trap for a hasty reader, but it describes severity rather than recurrence; quiescent and dormant name the quiet interval the fevers have just ended, and sporadic describes scattered incidence, not a return.",
+      "id": "gregmat19__b6__cloze__06",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Aware that a {1} rewriting of the ministry's founding statutes would provoke resistance of a wholly different order from that met by any trimming of its budgets, the chancellor spent two years {2} the press with carefully leaked drafts, so that by the time the bill appeared no editorial writer would find it startling.",
+      "blanks": [
+        {
+          "options": [
+            "radical",
+            "cosmetic",
+            "ancillary"
+          ],
+          "answers": [
+            "radical"
+          ]
+        },
+        {
+          "options": [
+            "priming",
+            "rendering",
+            "coaxing"
+          ],
+          "answers": [
+            "priming"
+          ]
+        }
+      ],
+      "words": [
+        "radical",
+        "prime"
+      ],
+      "explanation": "The founding statutes are the foundation of the ministry, and they are opposed to mere budget trimming, so the rewriting is radical — cosmetic and ancillary would both make the anticipated resistance inexplicable. The second blank describes preparing an audience in advance so the eventual announcement lands as expected, which is priming; rendering does not take this construction, and coaxing would imply persuading the press toward some action rather than conditioning its reaction.",
+      "id": "gregmat19__b6__tc2__07",
+      "unit": "gregmat19__b6",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": []
+}

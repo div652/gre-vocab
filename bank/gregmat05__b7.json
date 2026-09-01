@@ -1,0 +1,128 @@
+{
+  "unit": "gregmat05__b7",
+  "gregmat_group": 5,
+  "words": [
+    "weary",
+    "zealous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Constituents who had at first admired the senator's {1} pursuit of ethics reform — the subpoenas, the late-night sessions, the refusal to let any lead drop — grew {2} of it after four years of hearings that yielded ever more testimony and ever fewer indictments; by the last session the public gallery sat empty.",
+      "blanks": [
+        {
+          "options": [
+            "zealous",
+            "perfunctory",
+            "nonchalant"
+          ],
+          "answers": [
+            "zealous"
+          ]
+        },
+        {
+          "options": [
+            "weary",
+            "wary",
+            "chary"
+          ],
+          "answers": [
+            "weary"
+          ]
+        }
+      ],
+      "words": [
+        "zealous",
+        "weary"
+      ],
+      "explanation": "The catalogue of subpoenas and late-night sessions describes tireless conduct in service of a cause, which is exactly zealous; perfunctory (going through the motions) and nonchalant (unconcerned) contradict the effort described and could not be admired on those grounds. In the second blank the public does not become cautious about the hearings, it runs out of patience with them — the fed-up sense of weary of; wary and chary would mean the constituents suspected some danger in the hearings, which the empty gallery and the mere tedium of no indictments do not support.",
+      "id": "gregmat05__b7__tc2__00",
+      "unit": "gregmat05__b7",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Wilberforce's {1} campaigning against the slave trade — four decades of pamphlets, petitions, and parliamentary motions reintroduced after each defeat — exhausted allies who shared his convictions but not his stamina.",
+      "blanks": [
+        {
+          "options": [
+            "zealous",
+            "fervent",
+            "dogmatic",
+            "doctrinaire",
+            "perfunctory",
+            "tepid"
+          ],
+          "answers": [
+            "zealous",
+            "fervent"
+          ]
+        }
+      ],
+      "words": [
+        "zealous"
+      ],
+      "explanation": "Zealous and fervent both describe burning, sustained devotion to a cause and yield sentences of the same meaning here. Dogmatic and doctrinaire would praise nothing about his energy and instead charge him with holding a position past argument — a different claim entirely — while perfunctory and tepid contradict the forty years of reintroduced motions.",
+      "id": "gregmat05__b7__se__01",
+      "unit": "gregmat05__b7",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "By the fifth season even the network's own executives had grown {1} of the formula they had spent years defending — another amnesiac heiress, another wrongly accused twin — and they quietly commissioned something else.",
+      "blanks": [
+        {
+          "options": [
+            "weary",
+            "tired",
+            "wary",
+            "chary",
+            "enamored",
+            "protective"
+          ],
+          "answers": [
+            "weary",
+            "tired"
+          ]
+        }
+      ],
+      "words": [
+        "weary"
+      ],
+      "explanation": "Weary of and tired of are interchangeable in the sense of fed up, which is what the mocking list of repeated plots and the decision to commission a replacement establish. Wary and chary would say the executives feared some risk in the formula rather than finding it stale, and enamored or protective reverse the sentence, since men still fond of the formula would not have replaced it.",
+      "id": "gregmat05__b7__se__02",
+      "unit": "gregmat05__b7",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Two years of procedural litigation, most of it over matters no one outside the courtroom could follow, had {1} even the plaintiffs' most committed backers, several of whom quietly stopped returning the lawyers' calls.",
+      "blanks": [
+        {
+          "options": [
+            "wearied",
+            "chastened",
+            "galvanized",
+            "mollified",
+            "nonplussed"
+          ],
+          "answers": [
+            "wearied"
+          ]
+        }
+      ],
+      "words": [
+        "weary"
+      ],
+      "explanation": "The sentence names a long grinding cause — two years of unfollowable procedure — and an effect of spirit going out of people, which is precisely what the verb wearied denotes. Chastened is the nearest wrong answer but requires a rebuke or a humbling error, and nothing here corrects the backers; galvanized and mollified point the wrong way, and nonplussed means bewildered rather than worn down.",
+      "id": "gregmat05__b7__cloze__03",
+      "unit": "gregmat05__b7",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": []
+}

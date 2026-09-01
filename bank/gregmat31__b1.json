@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat31__b1",
+  "gregmat_group": 31,
+  "words": [
+    "boon",
+    "callous",
+    "coddle",
+    "crescendo"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Meteorologists had warned that the record snowpack would {1} a summer of catastrophic flooding; instead the slow, even melt proved a {2} to valley farmers, who irrigated late into August without drawing a single reservoir down to its floor.",
+      "blanks": [
+        {
+          "options": [
+            "portend",
+            "attenuate",
+            "subside"
+          ],
+          "answers": [
+            "portend"
+          ]
+        },
+        {
+          "options": [
+            "boon",
+            "bane",
+            "calamity"
+          ],
+          "answers": [
+            "boon"
+          ]
+        }
+      ],
+      "words": [
+        "boon"
+      ],
+      "explanation": "\"Warned that\" requires a verb of foretelling disaster, so the snowpack must portend the flood; attenuate would mean the snowpack weakened the flooding, which no one would warn about, and subside is intransitive. The second blank is fixed by \"instead\" plus the farmers' good fortune: an unearned benefit arriving from outside is a boon, whereas bane and calamity would make the reversal no reversal at all.",
+      "id": "gregmat31__b1__tc2__00",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues excused the surgeon's manner as mere {1} — the professional distance that three decades of trauma work will produce in anyone — but the family, who had just heard him describe their father's death as a scheduling inconvenience, found it simply {2}.",
+      "blanks": [
+        {
+          "options": [
+            "aloofness",
+            "malevolence",
+            "commiseration"
+          ],
+          "answers": [
+            "aloofness"
+          ]
+        },
+        {
+          "options": [
+            "callous",
+            "stolid",
+            "nonchalant"
+          ],
+          "answers": [
+            "callous"
+          ]
+        }
+      ],
+      "words": [
+        "callous"
+      ],
+      "explanation": "The first blank is the exculpatory reading — distance mistaken for coldness, which is aloofness; malevolence would not be an excuse and commiseration is its opposite. The second blank must be the family's charge that feeling was owed and absent, which is callous; stolid describes an unexpressive temperament rather than an offense, and nonchalant means merely unbothered, too mild to name what wounded them.",
+      "id": "gregmat31__b1__tc2__01",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "The academy's detractors charge that its young prodigies are {1} rather than trained: shielded from every setback until one bad season leaves them {2}, with no reserves of resilience they were ever required to build.",
+      "blanks": [
+        {
+          "options": [
+            "coddled",
+            "patronized",
+            "chastened"
+          ],
+          "answers": [
+            "coddled"
+          ]
+        },
+        {
+          "options": [
+            "undone",
+            "hardened",
+            "buoyed"
+          ],
+          "answers": [
+            "undone"
+          ]
+        }
+      ],
+      "words": [
+        "coddle"
+      ],
+      "explanation": "\"Shielded from every setback\" defines the first blank as over-protection into softness — coddled; patronized means treated condescendingly and chastened means humbled by rebuke, neither of which involves removing difficulty. The second blank follows from that softness meeting a real reversal, so undone is required; hardened and buoyed would reward the very protection the sentence is indicting.",
+      "id": "gregmat31__b1__tc2__02",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "What began as scattered grumbling in the letters column swelled over three months into a steady {1} of protest, yet the editors, treating each week's outrage as the campaign's {2}, were astonished every Monday to find it louder still.",
+      "blanks": [
+        {
+          "options": [
+            "crescendo",
+            "nadir",
+            "abatement"
+          ],
+          "answers": [
+            "crescendo"
+          ]
+        },
+        {
+          "options": [
+            "zenith",
+            "fulcrum",
+            "harbinger"
+          ],
+          "answers": [
+            "zenith"
+          ]
+        }
+      ],
+      "words": [
+        "crescendo"
+      ],
+      "explanation": "\"Swelled\" and \"louder still\" demand a word for the mounting itself, which is crescendo; nadir is the low point and abatement is the opposite of swelling. The second blank names the editors' error — mistaking a stage of the climb for the high point, a zenith; fulcrum means pivot and harbinger means forerunner, neither of which would explain their weekly astonishment.",
+      "id": "gregmat31__b1__tc2__03",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Whatever its architects intended, the 1944 GI Bill proved an unlooked-for {1} for the construction trades: a decade of federally guaranteed mortgages began just as wartime contracts were expiring.",
+      "blanks": [
+        {
+          "options": [
+            "boon",
+            "windfall",
+            "bane",
+            "precedent",
+            "novelty",
+            "rebuke"
+          ],
+          "answers": [
+            "boon",
+            "windfall"
+          ]
+        }
+      ],
+      "words": [
+        "boon"
+      ],
+      "explanation": "The colon supplies well-timed help arriving from outside and unearned by the trades themselves, which is exactly what boon and windfall name. Bane and rebuke reverse the valence, while precedent and novelty are grammatical and tonally apt but describe the bill's status rather than any benefit it conferred.",
+      "id": "gregmat31__b1__se__04",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers who had admired the memoir's candor balked at the chapter on his mother's dementia, finding its jokes about her confusion not bracing but {1}.",
+      "blanks": [
+        {
+          "options": [
+            "callous",
+            "heartless",
+            "aloof",
+            "terse",
+            "blithe",
+            "sadistic"
+          ],
+          "answers": [
+            "callous",
+            "heartless"
+          ]
+        }
+      ],
+      "words": [
+        "callous"
+      ],
+      "explanation": "The complaint is that suffering failed to register where sympathy was owed, and callous and heartless are equivalent charges here, both attaching comfortably to jokes. Sadistic would allege pleasure taken in the cruelty, a stronger and different accusation; aloof and terse describe manner rather than absence of feeling, and blithe implies only carelessness.",
+      "id": "gregmat31__b1__se__05",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Ptolemy's advisers, later writers agree, {1} him: every difficulty was removed from his path before he could meet it, so that his first genuine crisis found him with no habit of endurance whatever.",
+      "blanks": [
+        {
+          "options": [
+            "coddled",
+            "indulged",
+            "patronized",
+            "schooled",
+            "chastened",
+            "harried"
+          ],
+          "answers": [
+            "coddled",
+            "indulged"
+          ]
+        }
+      ],
+      "words": [
+        "coddle"
+      ],
+      "explanation": "Removing every difficulty in advance, with the implied verdict that it left him soft, is what coddled and indulged both convey. Patronized would mean they condescended to him rather than protected him, and schooled, chastened, and harried all describe treatment that would have produced the endurance he conspicuously lacks.",
+      "id": "gregmat31__b1__se__06",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "Public fury did not erupt overnight: through the spring of 1789 the pamphlets, the bread riots, and the refused taxes formed a slow {1} that the ministry, attending only to whichever night had been loudest, never learned to read.",
+      "blanks": [
+        {
+          "options": [
+            "crescendo",
+            "zenith",
+            "nadir",
+            "fulcrum",
+            "abatement"
+          ],
+          "answers": [
+            "crescendo"
+          ]
+        }
+      ],
+      "words": [
+        "crescendo"
+      ],
+      "explanation": "\"Did not erupt overnight\" and \"slow\" call for the gradual building of intensity, which is precisely a crescendo. Zenith and nadir name the high and low points rather than the climb, fulcrum names a pivot, and abatement would describe fury dying away.",
+      "id": "gregmat31__b1__cloze__07",
+      "unit": "gregmat31__b1",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": []
+}

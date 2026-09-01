@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat28__b4",
+  "gregmat_group": 28,
+  "words": [
+    "inchoate",
+    "penchant",
+    "quandary",
+    "quarantine"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "A decade of smoldering resentment had produced neither a manifesto nor a list of demands; the movement's anger remained {1}, and its would-be leaders could not {2} even a single grievance precisely enough to negotiate over it.",
+      "blanks": [
+        {
+          "options": [
+            "inchoate",
+            "nascent",
+            "coherent"
+          ],
+          "answers": [
+            "inchoate"
+          ]
+        },
+        {
+          "options": [
+            "articulate",
+            "mitigate",
+            "exaggerate"
+          ],
+          "answers": [
+            "articulate"
+          ]
+        }
+      ],
+      "words": [
+        "inchoate"
+      ],
+      "explanation": "The anger is old but shapeless, which is exactly what inchoate names; nascent would claim it is newly born, and \"a decade of smoldering\" rules that out, while coherent contradicts the absence of demands. In the second blank, only articulate answers to \"precisely enough to negotiate\" — one cannot mitigate or exaggerate a grievance precisely.",
+      "id": "gregmat28__b4__tc2__00",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Two decades of committee meetings had done nothing to sharpen it: the union's central complaint was as {1} as on the day it was first raised, keenly felt and never quite formulated.",
+      "blanks": [
+        {
+          "options": [
+            "inchoate",
+            "amorphous",
+            "nascent",
+            "vestigial",
+            "coherent",
+            "articulate"
+          ],
+          "answers": [
+            "inchoate",
+            "amorphous"
+          ]
+        }
+      ],
+      "words": [
+        "inchoate"
+      ],
+      "explanation": "\"Keenly felt and never quite formulated\" calls for shapelessness, and inchoate and amorphous are interchangeable here. Nascent claims youth rather than formlessness and is defeated by \"two decades\"; vestigial would mean a shrunken remnant, and coherent and articulate reverse the sense.",
+      "id": "gregmat28__b4__se__01",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The clinic's file recorded a {1} for risk-taking in the flat language of pathology; his friends, who had ridden in his cars and covered his bets, would have called it merely a {2}, and a charming one.",
+      "blanks": [
+        {
+          "options": [
+            "propensity",
+            "penchant",
+            "aversion"
+          ],
+          "answers": [
+            "propensity"
+          ]
+        },
+        {
+          "options": [
+            "penchant",
+            "aversion",
+            "affliction"
+          ],
+          "answers": [
+            "penchant"
+          ]
+        }
+      ],
+      "words": [
+        "penchant",
+        "propensity"
+      ],
+      "explanation": "The sentence turns on register: a clinical file records a propensity, the cold diagnostic word, while friends smiling at a fondness for fast cars and long odds would say penchant. Aversion inverts the direction of the liking, and affliction cannot be the thing called \"charming.\"",
+      "id": "gregmat28__b4__tc2__02",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the household accounts is more constant than Pepys's {1} for a fine wig: he records each purchase with the guilty relish of a man who knows precisely what he is spending on vanity.",
+      "blanks": [
+        {
+          "options": [
+            "penchant",
+            "aversion",
+            "antipathy",
+            "quandary",
+            "conundrum"
+          ],
+          "answers": [
+            "penchant"
+          ]
+        }
+      ],
+      "words": [
+        "penchant"
+      ],
+      "explanation": "A habitual, slightly indulgent taste for something small and frivolous is a penchant, and \"guilty relish\" confirms he enjoys the habit. Aversion and antipathy would make him recoil from wigs rather than buy them repeatedly, and a quandary or conundrum is a problem, not a liking.",
+      "id": "gregmat28__b4__cloze__03",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The arithmetic presented no {1} — the shortfall admitted of exactly one arrangement of cuts — yet the trustees left the meeting in a {2}, since that single arrangement required breaking a promise made to every constituency in turn.",
+      "blanks": [
+        {
+          "options": [
+            "conundrum",
+            "quandary",
+            "precedent"
+          ],
+          "answers": [
+            "conundrum"
+          ]
+        },
+        {
+          "options": [
+            "quandary",
+            "conundrum",
+            "reprieve"
+          ],
+          "answers": [
+            "quandary"
+          ]
+        }
+      ],
+      "words": [
+        "quandary",
+        "conundrum"
+      ],
+      "explanation": "A conundrum is a puzzle whose answer must be found, and the first clause denies there is any puzzle: the numbers yield one solution. What remains is a quandary — the answer is in plain sight and the trustees hate what it costs — and reprieve would mean relief rather than paralysis.",
+      "id": "gregmat28__b4__tc2__04",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Offered the ambassadorship on condition that she repudiate her own report, Hale found herself in a {1} from which no amount of deliberation produced an escape: to accept was to be discredited, to refuse was to be silenced.",
+      "blanks": [
+        {
+          "options": [
+            "quandary",
+            "predicament",
+            "conundrum",
+            "imbroglio",
+            "contretemps",
+            "reverie"
+          ],
+          "answers": [
+            "quandary",
+            "predicament"
+          ]
+        }
+      ],
+      "words": [
+        "quandary"
+      ],
+      "explanation": "Both available choices carry a cost and she must pick one, which is precisely a quandary or a predicament. A conundrum would imply a hidden solution waiting to be worked out, an imbroglio a tangled public quarrel and a contretemps a minor mishap, while reverie fits the grammar but describes daydreaming rather than being stuck.",
+      "id": "gregmat28__b4__se__05",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "Not one of the sailors had fallen ill; it was their {1} to the fever ashore, rather than any confirmed case aboard, that persuaded the port authority to {2} the ship for forty days.",
+      "blanks": [
+        {
+          "options": [
+            "exposure",
+            "immunity",
+            "indifference"
+          ],
+          "answers": [
+            "exposure"
+          ]
+        },
+        {
+          "options": [
+            "quarantine",
+            "banish",
+            "condemn"
+          ],
+          "answers": [
+            "quarantine"
+          ]
+        }
+      ],
+      "words": [
+        "quarantine"
+      ],
+      "explanation": "The contrast with \"any confirmed case\" makes exposure the only fit, and exposure without illness is the defining trigger for quarantine: the possibly infected are held for a bounded period until the doubt clears. Banish and condemn would treat the crew as guilty and expel or punish them permanently, which \"for forty days\" excludes.",
+      "id": "gregmat28__b4__tc2__06",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "When the audit turned up irregularities in three of the survey's datasets, the lab {1} them: withheld from every subsequent analysis, neither discarded nor trusted, pending identification of the error.",
+      "blanks": [
+        {
+          "options": [
+            "quarantined",
+            "expunged",
+            "banished",
+            "immured",
+            "subsumed"
+          ],
+          "answers": [
+            "quarantined"
+          ]
+        }
+      ],
+      "words": [
+        "quarantine"
+      ],
+      "explanation": "The data are set aside as possible contaminants pending judgment, which is the metaphorical force of quarantined. Expunged and banished imply permanent removal, ruled out by \"neither discarded,\" immured suggests punitive walling-in, and subsumed would mean absorbing them into the analysis rather than holding them out of it.",
+      "id": "gregmat28__b4__cloze__07",
+      "unit": "gregmat28__b4",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": []
+}

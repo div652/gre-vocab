@@ -1,0 +1,258 @@
+{
+  "unit": "gregmat28__b6",
+  "gregmat_group": 28,
+  "words": [
+    "redoubtable",
+    "retiring",
+    "shrill",
+    "sophistry"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Off the court her manner was so {1} that reporters filing copy about the tournament routinely forgot she was in the draw; across the net, however, she was a {2} presence, one whom even the top seeds admitted they approached with something close to dread.",
+      "blanks": [
+        {
+          "options": [
+            "retiring",
+            "brazen",
+            "gregarious"
+          ],
+          "answers": [
+            "retiring"
+          ]
+        },
+        {
+          "options": [
+            "redoubtable",
+            "plucky",
+            "august"
+          ],
+          "answers": [
+            "redoubtable"
+          ]
+        }
+      ],
+      "words": [
+        "redoubtable",
+        "retiring"
+      ],
+      "explanation": "The first clause explains why she went unnoticed, so it needs the word for declining attention: retiring; brazen and gregarious would both have made her conspicuous. The second half supplies an opponent and their dread, which is the exact signature of redoubtable — plucky would describe her own courage in the face of danger rather than the fear she creates, and august commands reverence without any fear in it.",
+      "id": "gregmat28__b6__tc2__00",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Cross-examination was where the old barrister earned his name: a {1} opponent who could dismantle a witness's account in a quarter of an hour, he was a man the Crown preferred to settle with rather than meet in open court.",
+      "blanks": [
+        {
+          "options": [
+            "redoubtable",
+            "formidable",
+            "intrepid",
+            "plucky",
+            "august",
+            "timorous"
+          ],
+          "answers": [
+            "redoubtable",
+            "formidable"
+          ]
+        }
+      ],
+      "words": [
+        "redoubtable"
+      ],
+      "explanation": "The sentence describes the fear he inspires in an adversary who would rather avoid him, which redoubtable and formidable both express, redoubtable adding a note of respect. Intrepid and plucky point the fear the other way — they describe someone facing danger, not supplying it — while august claims dignity without menace and timorous reverses the sense entirely.",
+      "id": "gregmat28__b6__se__01",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "Her colleagues at the laboratory were careful to call her {1} rather than unsociable: she liked company well enough and answered every letter, but she let others take the podium, the interviews, and in the end the credit.",
+      "blanks": [
+        {
+          "options": [
+            "retiring",
+            "misanthropic",
+            "aloof",
+            "gregarious",
+            "brazen"
+          ],
+          "answers": [
+            "retiring"
+          ]
+        }
+      ],
+      "words": [
+        "retiring"
+      ],
+      "explanation": "The sentence explicitly denies dislike of people and instead lists things she declined — podium, interviews, credit — which is precisely what retiring names. Misanthropic and aloof describe an attitude toward other people, ruled out by her sociability, while gregarious and brazen contradict the second clause.",
+      "id": "gregmat28__b6__cloze__02",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The industry's commissioned report was not merely {1} — an honest error in a technical document might have been forgiven — but outright {2}, the work of counsel who plainly understood what the mortality data showed and had built an elegant case for arguing past it.",
+      "blanks": [
+        {
+          "options": [
+            "fallacious",
+            "tendentious",
+            "cogent"
+          ],
+          "answers": [
+            "fallacious"
+          ]
+        },
+        {
+          "options": [
+            "sophistry",
+            "hyperbole",
+            "bombast"
+          ],
+          "answers": [
+            "sophistry"
+          ]
+        }
+      ],
+      "words": [
+        "sophistry"
+      ],
+      "explanation": "The dash concedes the possibility of an honest error, so the first blank needs the word for reasoning that is simply faulty — fallacious — since tendentious already imputes the bias the sentence is holding in reserve. The second blank must escalate to knowing bad faith by a skilled arguer, which is sophistry; hyperbole is overstatement and bombast mere inflated style, neither of which involves a case constructed to deceive.",
+      "id": "gregmat28__b6__tc2__03",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "After a decade of sounding the same alarm in the same words, the campaign's rhetoric had grown so {1} that even sympathetic editors stopped printing it, faulting the pitch of the complaint instead of answering its substance.",
+      "blanks": [
+        {
+          "options": [
+            "shrill",
+            "strident",
+            "cacophonous",
+            "plaintive",
+            "sonorous",
+            "measured"
+          ],
+          "answers": [
+            "shrill",
+            "strident"
+          ]
+        }
+      ],
+      "words": [
+        "shrill"
+      ],
+      "explanation": "The editors object to the pitch of a single insistent note repeated past endurance, which is what shrill and strident both describe. Cacophonous requires many clashing sounds rather than one grating one; plaintive would make the campaign mournful, and sonorous or measured would give editors nothing to complain about.",
+      "id": "gregmat28__b6__se__04",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "For three hundred pages the biographer's prose is {1} — patient, unemphatic, content to let the archive speak for itself — which is why the {2} tone of the final chapter, hammering a single accusation for forty pages, lands as such a shock.",
+      "blanks": [
+        {
+          "options": [
+            "understated",
+            "bombastic",
+            "tendentious"
+          ],
+          "answers": [
+            "understated"
+          ]
+        },
+        {
+          "options": [
+            "shrill",
+            "august",
+            "plaintive"
+          ],
+          "answers": [
+            "shrill"
+          ]
+        }
+      ],
+      "words": [
+        "shrill"
+      ],
+      "explanation": "The appositive after the first blank defines it — patient and unemphatic — so understated is required, and bombastic or tendentious would contradict the gloss. The contrast then demands a word for loud, one-note insistence that grates: shrill; august would praise the chapter's dignity and plaintive would make it mournful rather than hectoring.",
+      "id": "gregmat28__b6__tc2__05",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "Contemporaries agreed on the paradox in Cavendish: a man so {1} that he let others read his papers aloud to the Royal Society while he sat silent at the back, though genial enough in private correspondence, he nevertheless had the {2} to contradict Newton's most powerful followers in print.",
+      "blanks": [
+        {
+          "options": [
+            "retiring",
+            "misanthropic",
+            "brazen"
+          ],
+          "answers": [
+            "retiring"
+          ]
+        },
+        {
+          "options": [
+            "temerity",
+            "diffidence",
+            "fortitude"
+          ],
+          "answers": [
+            "temerity"
+          ]
+        }
+      ],
+      "words": [
+        "retiring"
+      ],
+      "explanation": "He is present, well-liked and merely declining the podium, which is retiring; misanthropic is excluded by his geniality and brazen by his silence. The concessive nevertheless requires nerve directed at powerful men — temerity — whereas diffidence would repeat the first blank and fortitude names endurance under hardship rather than the boldness to contradict.",
+      "id": "gregmat28__b6__tc2__06",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "For centuries Zeno's paradoxes were waved away as ingenious {1}, verbal traps laid to embarrass an opponent rather than arguments meant to establish anything true; only when mathematicians took the question of limits seriously did the puzzles recover their standing.",
+      "blanks": [
+        {
+          "options": [
+            "sophistry",
+            "hyperbole",
+            "conjecture",
+            "pedantry",
+            "candor"
+          ],
+          "answers": [
+            "sophistry"
+          ]
+        }
+      ],
+      "words": [
+        "sophistry"
+      ],
+      "explanation": "The appositive describes clever argument built to trap rather than to find truth, which is the definition of sophistry. Conjecture is an honest guess, hyperbole is exaggeration rather than false reasoning, pedantry is fussiness over detail, and candor is the opposite of the bad faith the sentence alleges.",
+      "id": "gregmat28__b6__cloze__07",
+      "unit": "gregmat28__b6",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": []
+}

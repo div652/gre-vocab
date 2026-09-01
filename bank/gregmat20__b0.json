@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat20__b0",
+  "gregmat_group": 20,
+  "words": [
+    "abreast",
+    "confound",
+    "digression",
+    "discrepancy"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "An editor who has not kept {1} of the shifting scholarship can hardly be blamed for being {2} by a submission that calmly overturns findings her whole generation was trained to treat as settled.",
+      "blanks": [
+        {
+          "options": [
+            "abreast",
+            "conversant",
+            "aloof"
+          ],
+          "answers": [
+            "abreast"
+          ]
+        },
+        {
+          "options": [
+            "confounded",
+            "nullified",
+            "quashed"
+          ],
+          "answers": [
+            "confounded"
+          ]
+        }
+      ],
+      "words": [
+        "abreast",
+        "confound"
+      ],
+      "explanation": "Only \"abreast\" takes \"of\" and carries the required sense of pulling level with a body of knowledge that keeps moving; \"conversant\" demands \"with,\" and \"aloof\" would mean deliberately standing apart rather than falling behind. In the second blank the object is a person whose expectations have been overturned, which is precisely what \"confound\" does — \"nullify\" and \"quash\" cancel forces or rulings, not minds.",
+      "id": "gregmat20__b0__tc2__00",
+      "unit": "gregmat20__b0",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "What the audience took for an idle {1} on medieval crop rotation proved to be the argument's hinge, a reversal that {2} the listeners who had stopped taking notes the moment the historian left her announced subject.",
+      "blanks": [
+        {
+          "options": [
+            "digression",
+            "peroration",
+            "rejoinder"
+          ],
+          "answers": [
+            "digression"
+          ]
+        },
+        {
+          "options": [
+            "confounded",
+            "foiled",
+            "neutralized"
+          ],
+          "answers": [
+            "confounded"
+          ]
+        }
+      ],
+      "words": [
+        "digression",
+        "confound"
+      ],
+      "explanation": "A \"digression\" is a bounded departure from a main subject with a return built in, which is exactly what the sentence describes; a \"peroration\" is a speech's closing flourish and a \"rejoinder\" a reply, neither of which the setup supports. \"Confounded\" alone can take listeners as its object and mean that their expectation was defeated — \"foiled\" thwarts a plan and \"neutralized\" cancels a force, and an audience holds neither.",
+      "id": "gregmat20__b0__tc2__01",
+      "unit": "gregmat20__b0",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "The report wanders for three pages into a {1} on the history of double-entry bookkeeping before circling back to the single {2} that had provoked the inquiry in the first place: a ledger entry for which no invoice exists.",
+      "blanks": [
+        {
+          "options": [
+            "digression",
+            "addendum",
+            "apologia"
+          ],
+          "answers": [
+            "digression"
+          ]
+        },
+        {
+          "options": [
+            "discrepancy",
+            "redundancy",
+            "ambiguity"
+          ],
+          "answers": [
+            "discrepancy"
+          ]
+        }
+      ],
+      "words": [
+        "digression",
+        "discrepancy"
+      ],
+      "explanation": "\"Circling back\" marks the detour as temporary, which is the defining feature of a digression; an \"addendum\" is appended material and an \"apologia\" a formal defense, and neither is something a text returns from. The second blank names a ledger entry with no matching invoice — two records that were supposed to agree and do not — which is a discrepancy, whereas \"redundancy\" implies duplication and \"ambiguity\" mere unclarity.",
+      "id": "gregmat20__b0__tc2__02",
+      "unit": "gregmat20__b0",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Epidemiologists complained that the press coverage of the trial persistently {1} correlation and causation, treating a modest statistical association as though it had settled the question of what the drug actually did.",
+      "blanks": [
+        {
+          "options": [
+            "confounded",
+            "conflated",
+            "distinguished",
+            "disentangled",
+            "quashed",
+            "nullified"
+          ],
+          "answers": [
+            "confounded",
+            "conflated"
+          ]
+        }
+      ],
+      "words": [
+        "confound"
+      ],
+      "explanation": "The complaint is that two things which should be kept apart were run together, so \"confounded\" and \"conflated\" are equivalent here — this merging sense is the one \"confound\" carries beyond mere bewilderment. \"Distinguished\" and \"disentangled\" form a tempting synonymous pair of their own but reverse the meaning, since the coverage plainly failed to separate the two; \"quashed\" and \"nullified\" suppress or void a thing rather than mix two things up.",
+      "id": "gregmat20__b0__se__03",
+      "unit": "gregmat20__b0",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "What drew the auditors' attention was not the size of the sums but a small {1} between the payroll ledger and the bank statements, two records that ought to have agreed to the penny.",
+      "blanks": [
+        {
+          "options": [
+            "discrepancy",
+            "inconsistency",
+            "correspondence",
+            "convergence",
+            "ambiguity",
+            "redundancy"
+          ],
+          "answers": [
+            "discrepancy",
+            "inconsistency"
+          ]
+        }
+      ],
+      "words": [
+        "discrepancy"
+      ],
+      "explanation": "\"Ought to have agreed\" establishes an expectation of matching that was violated, which is exactly what \"discrepancy\" and \"inconsistency\" both name. \"Correspondence\" and \"convergence\" fit the frame smoothly but describe agreement rather than its failure, and \"ambiguity\" and \"redundancy\" describe unclear or duplicated data rather than two figures that clash.",
+      "id": "gregmat20__b0__se__04",
+      "unit": "gregmat20__b0",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "Consular officers are expected to remain {1} of every amendment to the visa regulations, since a rule read six months ago may already have been superseded twice.",
+      "blanks": [
+        {
+          "options": [
+            "abreast",
+            "buoyant",
+            "adrift",
+            "conversant",
+            "fathomed"
+          ],
+          "answers": [
+            "abreast"
+          ]
+        }
+      ],
+      "words": [
+        "abreast"
+      ],
+      "explanation": "\"Abreast of\" means kept level with something that keeps moving, which the clause about superseded rules makes necessary. \"Adrift of\" would mean trailing behind rather than staying level, \"conversant\" requires \"with\" and implies settled familiarity rather than ongoing pursuit, and \"buoyant\" and \"fathomed\" are nautical words with no bearing on currency of knowledge.",
+      "id": "gregmat20__b0__cloze__05",
+      "unit": "gregmat20__b0",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "Quoted at fifty to one by every bookmaker, the outsider led wire to wire and {1} the forecasters who had spent the week explaining why she could not win.",
+      "blanks": [
+        {
+          "options": [
+            "confounded",
+            "quashed",
+            "foiled",
+            "neutralized",
+            "nullified"
+          ],
+          "answers": [
+            "confounded"
+          ]
+        }
+      ],
+      "words": [
+        "confound"
+      ],
+      "explanation": "Only \"confound\" can take forecasters — people holding an expectation — as its object and mean that the expectation was publicly defeated and its holders embarrassed. \"Foiled\" would require a plan or attempt to thwart, and \"quashed,\" \"neutralized\" and \"nullified\" cancel rulings, threats or effects, none of which a set of predictions supplies.",
+      "id": "gregmat20__b0__cloze__07",
+      "unit": "gregmat20__b0",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"ramblings\" is a genuinely defensible second answer. The sentence gives no cue that separates \"a departure from the main topic\" (digression) from \"aimless discursive wandering\" (rambling) — disappearing for whole chapters into a relative's hobbyhorses fits both, and the concessive \"yet ... precisely\" arguably suits \"ramblings\" better, since \"digression\" already presupposes a return and weakens the contrast. The other three (non sequiturs, redundancies, discrepancies) are clean distractors, but the near-synonym pair makes the item unfair as written.",
+      "stem": "Sterne's narrator disappears for whole chapters into his uncle's hobbyhorses, yet each of these {1} ends by depositing the reader precisely where the abandoned thread resumes."
+    }
+  ]
+}

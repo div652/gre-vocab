@@ -1,0 +1,282 @@
+{
+  "unit": "gregmat33__b4",
+  "gregmat_group": 33,
+  "words": [
+    "gloat",
+    "harrowing",
+    "indefinite",
+    "ingenious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The escape itself was {1} — a tunnel driven with sharpened soup spoons and shored up with bed slats — but the prisoners' accounts of the eighteen months spent underground are so {2} that the archive still keeps the transcripts under restricted access.",
+      "blanks": [
+        {
+          "options": [
+            "ingenious",
+            "ingenuous",
+            "derivative"
+          ],
+          "answers": [
+            "ingenious"
+          ]
+        },
+        {
+          "options": [
+            "harrowing",
+            "indefinite",
+            "banal"
+          ],
+          "answers": [
+            "harrowing"
+          ]
+        }
+      ],
+      "words": [
+        "ingenious",
+        "harrowing"
+      ],
+      "explanation": "The appositive describes a workaround improvised from spoons and bed slats, which is praise for contrivance — ingenious; ingenuous means guilelessly naive and describes a person's manner, not a feat of engineering. The second clause explains restricted access, so the accounts must be acutely distressing (harrowing) rather than merely dull (banal), which would explain neglect, not protection.",
+      "id": "gregmat33__b4__tc2__00",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Having won only an {1} stay of eviction — the judge named no date on which the case might resume — the tenants' counsel declined to {2}, reminding her clients that the landlord's appeal was still pending.",
+      "blanks": [
+        {
+          "options": [
+            "indefinite",
+            "inchoate",
+            "unprecedented"
+          ],
+          "answers": [
+            "indefinite"
+          ]
+        },
+        {
+          "options": [
+            "gloat",
+            "capitulate",
+            "equivocate"
+          ],
+          "answers": [
+            "gloat"
+          ]
+        }
+      ],
+      "words": [
+        "indefinite",
+        "gloat"
+      ],
+      "explanation": "A stay with no stated resumption date is indefinite: the limit was never set, which is precisely what inchoate (unformed, undeveloped) does not mean. Because the reprieve is provisional rather than a settled victory, the lawyer refuses the smug display of triumph — gloat; capitulating would mean surrendering the case she has just partly won.",
+      "id": "gregmat33__b4__tc2__01",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Tax specialists conceded that the holding structure was {1}, a genuine feat of legal engineering, even as they dismissed the firm's insistence that it had been devised chiefly for the benefit of small shareholders as transparently {2}.",
+      "blanks": [
+        {
+          "options": [
+            "ingenious",
+            "ingenuous",
+            "hackneyed"
+          ],
+          "answers": [
+            "ingenious"
+          ]
+        },
+        {
+          "options": [
+            "disingenuous",
+            "harrowing",
+            "indefinite"
+          ],
+          "answers": [
+            "disingenuous"
+          ]
+        }
+      ],
+      "words": [
+        "ingenious",
+        "indefinite"
+      ],
+      "explanation": "\"A genuine feat of legal engineering\" praises clever contrivance, so the structure is ingenious; ingenuous would call it innocently artless, contradicting the engineering. The second half rejects a stated motive as insincere, which is disingenuous — a claim can be disingenuous whether or not the scheme itself is admirable.",
+      "id": "gregmat33__b4__tc2__02",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Buried for forty years in a provincial archive, the deportees' diaries give an account of the winter crossing so {1} that the editors appended a warning to the volume's first page.",
+      "blanks": [
+        {
+          "options": [
+            "harrowing",
+            "wrenching",
+            "unvarnished",
+            "meandering",
+            "inchoate",
+            "banal"
+          ],
+          "answers": [
+            "harrowing",
+            "wrenching"
+          ]
+        }
+      ],
+      "words": [
+        "harrowing"
+      ],
+      "explanation": "A printed warning implies the narrative is acutely distressing to read, and harrowing and wrenching both denote that lasting emotional wringing. Unvarnished (plainly told, without softening) and inchoate (formless) fit the grammar and the subject but describe the manner of the telling rather than its effect on the reader.",
+      "id": "gregmat33__b4__se__03",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The ministry announced not the fixed six-month closure that traders had expected but an {1} one, refusing to name any date on which the border might reopen.",
+      "blanks": [
+        {
+          "options": [
+            "indefinite",
+            "open-ended",
+            "amorphous",
+            "inchoate",
+            "diffuse",
+            "provisional"
+          ],
+          "answers": [
+            "indefinite",
+            "open-ended"
+          ]
+        }
+      ],
+      "words": [
+        "indefinite"
+      ],
+      "explanation": "The contrast with a fixed six-month term and the refusal to name a reopening date point to a closure whose end was simply never set: indefinite and open-ended. Amorphous, inchoate and diffuse concern lack of shape or concentration rather than an unstated limit, and provisional would imply the closure awaits confirmation, which is not what withholding a date means.",
+      "id": "gregmat33__b4__se__04",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Short of copper for the calutron windings, the project's engineers hit on an {1} substitute: thousands of tons of silver borrowed from the Treasury vaults and drawn into wire.",
+      "blanks": [
+        {
+          "options": [
+            "ingenious",
+            "inventive",
+            "derivative",
+            "hackneyed",
+            "ingenuous",
+            "expedient"
+          ],
+          "answers": [
+            "ingenious",
+            "inventive"
+          ]
+        }
+      ],
+      "words": [
+        "ingenious"
+      ],
+      "explanation": "Borrowing bullion to stand in for a scarce metal is exactly the neat, unexpected contrivance that ingenious and inventive both name. Expedient fits the sentence but praises mere convenience rather than cleverness, and derivative and hackneyed would mean the solution was secondhand, which the passage contradicts.",
+      "id": "gregmat33__b4__se__05",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Rather than {1} over the collapse of a rival house, the auctioneer sent its directors a private note of sympathy — a gesture the trade found either gracious or shrewdly calculated.",
+      "blanks": [
+        {
+          "options": [
+            "gloat",
+            "crow",
+            "brood",
+            "quibble",
+            "capitulate",
+            "demur"
+          ],
+          "answers": [
+            "gloat",
+            "crow"
+          ]
+        }
+      ],
+      "words": [
+        "gloat"
+      ],
+      "explanation": "The sentence sets a display of smug satisfaction at a rival's ruin against a note of sympathy, and gloat and crow are the two words for that open self-congratulation. Brood over the collapse would mean dwelling on it gloomily, and quibble over it would mean cavilling at details — both fit grammatically but reverse or dissolve the contrast with graciousness.",
+      "id": "gregmat33__b4__se__06",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "The statute permitted the home secretary to detain foreign nationals for an {1} period, wording the courts read not as a promise of permanence but as a deliberate refusal to specify any terminus at all.",
+      "blanks": [
+        {
+          "options": [
+            "indefinite",
+            "amorphous",
+            "inchoate",
+            "diffuse",
+            "perpetual"
+          ],
+          "answers": [
+            "indefinite"
+          ]
+        }
+      ],
+      "words": [
+        "indefinite"
+      ],
+      "explanation": "The court explicitly distinguishes the wording from a claim of permanence, which rules out perpetual, and locates the problem in an unstated limit rather than a want of form, which rules out amorphous, inchoate and diffuse. Indefinite is the only word that describes a boundary someone could have set and pointedly did not.",
+      "id": "gregmat33__b4__cloze__07",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "The documentary's middle hour, assembled almost entirely from footage the survivors themselves shot, proved so {1} that several festivals stationed counsellors in the lobby after the first screening.",
+      "blanks": [
+        {
+          "options": [
+            "harrowing",
+            "macabre",
+            "poignant",
+            "lurid",
+            "tedious"
+          ],
+          "answers": [
+            "harrowing"
+          ]
+        }
+      ],
+      "words": [
+        "harrowing"
+      ],
+      "explanation": "Counsellors are posted because viewers leave shaken, which is the specific effect harrowing names. Poignant would mean touchingly sad, a far milder register, while macabre and lurid describe a fascination with gruesomeness or sensation that first-hand survivor footage is not being accused of.",
+      "id": "gregmat33__b4__cloze__08",
+      "unit": "gregmat33__b4",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": []
+}

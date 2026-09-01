@@ -1,0 +1,222 @@
+{
+  "unit": "gregmat35__b0",
+  "gregmat_group": 35,
+  "words": [
+    "aplomb",
+    "apposite",
+    "beholden",
+    "belittle"
+  ],
+  "questions": [
+    {
+      "type": "cloze",
+      "stem": "Questioned about the accounting error by a committee that had already concluded he was lying, the treasurer spoke for ninety minutes without once raising his voice or losing the thread, an {1} his own lawyers found unnerving.",
+      "blanks": [
+        {
+          "options": [
+            "aplomb",
+            "indignation",
+            "prolixity",
+            "contrition",
+            "diffidence"
+          ],
+          "answers": [
+            "aplomb"
+          ]
+        }
+      ],
+      "words": [
+        "aplomb"
+      ],
+      "explanation": "The sentence supplies a situation that would fluster anyone and then reports no visible strain at all, which is precisely aplomb — poise displayed in the execution of a hard thing. Indignation and contrition name emotions he conspicuously does not show, diffidence contradicts the ninety-minute command of the material, and prolixity would describe mere length rather than the manner his lawyers found unnerving.",
+      "id": "gregmat35__b0__cloze__01",
+      "unit": "gregmat35__b0",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "The judge dismissed most of the brief as {1} — page after page of legislative history bearing on a question no party had raised — but singled out one {2} analogy to maritime salvage law, which framed the dispute more exactly than either side's own argument had.",
+      "blanks": [
+        {
+          "options": [
+            "extraneous",
+            "dispositive",
+            "understated"
+          ],
+          "answers": [
+            "extraneous"
+          ]
+        },
+        {
+          "options": [
+            "apposite",
+            "peripheral",
+            "ornamental"
+          ],
+          "answers": [
+            "apposite"
+          ]
+        }
+      ],
+      "words": [
+        "apposite"
+      ],
+      "explanation": "The dash explains the first blank as material addressing an unraised question, so it is extraneous; dispositive would mean decisive, the opposite of what a dismissal implies. The second blank praises an analogy that framed the dispute more exactly than the parties did — apposite, landing on the precise nerve of the matter — whereas peripheral repeats the fault just criticized and ornamental would concede the analogy is decorative rather than exact.",
+      "id": "gregmat35__b0__tc2__02",
+      "unit": "gregmat35__b0",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Coming from a novelist who had spent thirty years denying the influence, the epigraph from Nietzsche struck reviewers as unexpectedly {1}: six words that name the exact anxiety the book spends four hundred pages circling.",
+      "blanks": [
+        {
+          "options": [
+            "apposite",
+            "apocryphal",
+            "tendentious",
+            "gratuitous",
+            "derivative"
+          ],
+          "answers": [
+            "apposite"
+          ]
+        }
+      ],
+      "words": [
+        "apposite"
+      ],
+      "explanation": "The colon defines the blank as a quotation that names the book's central anxiety exactly, which is the evaluative praise apposite carries for things said. Gratuitous would mean the epigraph was unnecessary, apocryphal that it was misattributed, and tendentious that it pushed an agenda — none of which follows from a phrase that hits the mark.",
+      "id": "gregmat35__b0__cloze__03",
+      "unit": "gregmat35__b0",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "The panel's independence proved more apparent than real: its members were {1} the very industry whose safety record they had been convened to evaluate.",
+      "blanks": [
+        {
+          "options": [
+            "beholden to",
+            "indebted to",
+            "hostile to",
+            "indifferent to",
+            "impervious to",
+            "superior to"
+          ],
+          "answers": [
+            "beholden to",
+            "indebted to"
+          ]
+        }
+      ],
+      "words": [
+        "beholden"
+      ],
+      "explanation": "The colon explains why the independence was illusory, so the blank must describe an obligation that compromises judgment: beholden to and indebted to both mean under a debt that limits you. Hostile to and indifferent to fit the grammar and the sober register but would either explain nothing or actually support the panel's independence, and impervious to and superior to likewise remove the leverage the sentence requires.",
+      "id": "gregmat35__b0__se__04",
+      "unit": "gregmat35__b0",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "After accepting three years of subsidy, the institute found itself {1} to a benefactor whose research methods its own fellows had once {2} in print, a predicament the director conceded was intellectually untenable.",
+      "blanks": [
+        {
+          "options": [
+            "beholden",
+            "impervious",
+            "indifferent"
+          ],
+          "answers": [
+            "beholden"
+          ]
+        },
+        {
+          "options": [
+            "belittled",
+            "endorsed",
+            "emulated"
+          ],
+          "answers": [
+            "belittled"
+          ]
+        }
+      ],
+      "words": [
+        "beholden",
+        "belittle"
+      ],
+      "explanation": "Money accepted creates an obligation that constrains criticism, so the first blank is beholden; impervious and indifferent would describe exactly the freedom the sentence says has been lost. The predicament is untenable only if the earlier published judgment was dismissive — belittled — since having endorsed or emulated the benefactor's methods would make the subsidy comfortable rather than embarrassing.",
+      "id": "gregmat35__b0__tc2__05",
+      "unit": "gregmat35__b0",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "Unable to explain away the novel's sales, hostile critics have taken to {1} its ambitions, recasting a book that reorganized the form as a lucky accident of timing.",
+      "blanks": [
+        {
+          "options": [
+            "belittling",
+            "disparaging",
+            "lionizing",
+            "extolling",
+            "scrutinizing",
+            "misconstruing"
+          ],
+          "answers": [
+            "belittling",
+            "disparaging"
+          ]
+        }
+      ],
+      "words": [
+        "belittle"
+      ],
+      "explanation": "Recasting real achievement as luck is the definition of talking something down, and belittling and disparaging are equivalent here. Lionizing and extolling reverse the critics' evident hostility, while scrutinizing and misconstruing fit the tone but describe examining or misunderstanding the ambitions rather than shrinking them.",
+      "id": "gregmat35__b0__se__06",
+      "unit": "gregmat35__b0",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Her supervisor never raised his voice; he simply found, week after week, a mild and smiling way to {1} whatever she had managed to accomplish, until she began describing her own promotion as a fluke.",
+      "blanks": [
+        {
+          "options": [
+            "belittle",
+            "vilify",
+            "deride",
+            "rebuke",
+            "lionize"
+          ],
+          "answers": [
+            "belittle"
+          ]
+        }
+      ],
+      "words": [
+        "belittle"
+      ],
+      "explanation": "The passage insists on mildness, repetition, and cumulative damage to how she rates her own work — the signature of belittling, which shrinks an achievement politely rather than attacking it. Vilify and deride require open viciousness or ridicule that the phrase mild and smiling rules out, rebuke would answer a fault rather than an accomplishment, and lionize means the reverse.",
+      "id": "gregmat35__b0__cloze__07",
+      "unit": "gregmat35__b0",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is clean: \"absorbed the shout and spun it into the evening's best punchline\" plus \"half the room took [it] for stagecraft\" demands poised self-possession, so \"aplomb\" is the only fit (\"stoicism\" is mere endurance and doesn't produce a punchline; \"trepidation\" reverses the sense). Blank {1} is not sufficiently constrained. \"Disconcerting\" is the natural pairing with \"dread\" and sets up the contrast with the comic's composure, but \"tangential\" is genuinely defensible on the same sentence: a heckle IS an off-topic intrusion, and the \"yet\" clause explicitly resolves it into the evening's best punchline — i.e., the irrelevant interruption was made relevant. A reasonable test-taker could pick \"tangential\" and be marked wrong, so the question should be repaired (e.g., add an explicit unsettling/nerve-rattling cue in the first clause, or replace \"tangential\" with a clearly inapt distractor).",
+      "stem": "A heckler is exactly the kind of {1} intrusion most performers dread, yet this comic absorbed the shout and spun it into the evening's best punchline with an {2} that half the room took for stagecraft."
+    }
+  ]
+}

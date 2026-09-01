@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat20__b2",
+  "gregmat_group": 20,
+  "words": [
+    "harbinger",
+    "intrinsic",
+    "largesse",
+    "libertine"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Victorian naturalists prized the returning swallow less for itself than as a {1}: its arrival, they held, {2} the end of winter more reliably than any almanac.",
+      "blanks": [
+        {
+          "options": [
+            "harbinger",
+            "vestige",
+            "casualty"
+          ],
+          "answers": [
+            "harbinger"
+          ]
+        },
+        {
+          "options": [
+            "portended",
+            "forestalled",
+            "belied"
+          ],
+          "answers": [
+            "portended"
+          ]
+        }
+      ],
+      "words": [
+        "harbinger"
+      ],
+      "explanation": "The colon makes the swallow an advance sign of a season still to come, which is exactly a harbinger; a vestige is a trace left behind by something already past, so it points the wrong way in time. In the second blank, portend means to give advance warning of, while forestall would mean the swallow prevented winter's end and belie would mean its arrival contradicted it.",
+      "id": "gregmat20__b2__tc2__00",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "Contemporaries came to regard the aging marshal less as a commander than as a {1} of defeat: wherever the ministry dispatched him, capitulation followed within the season.",
+      "blanks": [
+        {
+          "options": [
+            "harbinger",
+            "arbiter",
+            "vestige",
+            "casualty",
+            "beneficiary"
+          ],
+          "answers": [
+            "harbinger"
+          ]
+        }
+      ],
+      "words": [
+        "harbinger"
+      ],
+      "explanation": "Harbinger is the one noun here that can be a human being who arrives ahead of an event and announces it, which the pattern of dispatch-then-capitulation requires. An arbiter decides an outcome rather than merely signaling it, and a casualty or beneficiary comes after the defeat rather than before it.",
+      "id": "gregmat20__b2__cloze__01",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "The prize committee's report distinguished sharply between qualities {1} to the manuscript — its argument, its cadences — and {2} facts about the author's celebrity, which it declared irrelevant to literary merit.",
+      "blanks": [
+        {
+          "options": [
+            "intrinsic",
+            "endemic",
+            "imperative"
+          ],
+          "answers": [
+            "intrinsic"
+          ]
+        },
+        {
+          "options": [
+            "extraneous",
+            "indispensable",
+            "ingrained"
+          ],
+          "answers": [
+            "extraneous"
+          ]
+        }
+      ],
+      "words": [
+        "intrinsic"
+      ],
+      "explanation": "The sentence is built on the contrast between what belongs to the work by its own nature and what has been attached from outside, which is precisely the analytical work intrinsic does; endemic describes what is native to a place or population, not to a text. Extraneous names the outside matter the committee discards, whereas indispensable would make the celebrity essential and so contradict the closing clause.",
+      "id": "gregmat20__b2__tc2__02",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Whether gold possesses any {1} worth — value that would survive the collapse of every market that prices it — is a question economists have never settled.",
+      "blanks": [
+        {
+          "options": [
+            "intrinsic",
+            "inherent",
+            "inborn",
+            "ingrained",
+            "endemic",
+            "speculative"
+          ],
+          "answers": [
+            "intrinsic",
+            "inherent"
+          ]
+        }
+      ],
+      "words": [
+        "intrinsic"
+      ],
+      "explanation": "The dash defines the blank as worth left over once external pricing is stripped away, so intrinsic and inherent both yield the same claim about value belonging to the metal itself. Inborn and ingrained require a living creature or a habit, and speculative fits the register smoothly but reverses the sense, making the value depend on the very markets the sentence subtracts.",
+      "id": "gregmat20__b2__se__03",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Dickens was scrupulous about money in part because he had watched his father live on the {1} of relatives, and he grasped early that such gifts, however freely offered, leave the recipient permanently {2}.",
+      "blanks": [
+        {
+          "options": [
+            "largesse",
+            "avarice",
+            "penury"
+          ],
+          "answers": [
+            "largesse"
+          ]
+        },
+        {
+          "options": [
+            "beholden",
+            "solvent",
+            "munificent"
+          ],
+          "answers": [
+            "beholden"
+          ]
+        }
+      ],
+      "words": [
+        "largesse"
+      ],
+      "explanation": "Largesse names the handout itself as it flows down from those with means to a dependent, which is what living on relatives describes; avarice and penury name grasping and poverty, neither of which one can live on in this sense. The second blank must register the cost of receiving from above, so beholden follows, while solvent would erase the drawback the clause insists on.",
+      "id": "gregmat20__b2__tc2__04",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "The banker's {1} was visible all over the city — a library, two hospitals, an orphanage — though his own clerks, kept on starvation wages, saw little of it.",
+      "blanks": [
+        {
+          "options": [
+            "largesse",
+            "munificence",
+            "vanity",
+            "altruism",
+            "parsimony",
+            "cupidity"
+          ],
+          "answers": [
+            "largesse",
+            "munificence"
+          ]
+        }
+      ],
+      "words": [
+        "largesse"
+      ],
+      "explanation": "Only largesse and munificence name lavish giving on a grand scale, which the catalogue of buildings supplies. Vanity and altruism both read naturally in the sentence but describe motives rather than the giving itself, and the clerks' wages in fact undercut altruism; parsimony and cupidity reverse the meaning outright.",
+      "id": "gregmat20__b2__se__05",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "The play refuses any easy verdict: its hero is a {1} rather than a mere brute — his debauchery arrives with epigrams and a theory of pleasure — and the audience finds itself {2} by the very appetites the last act condemns.",
+      "blanks": [
+        {
+          "options": [
+            "libertine",
+            "ascetic",
+            "hypocrite"
+          ],
+          "answers": [
+            "libertine"
+          ]
+        },
+        {
+          "options": [
+            "charmed",
+            "repelled",
+            "chastened"
+          ],
+          "answers": [
+            "charmed"
+          ]
+        }
+      ],
+      "words": [
+        "libertine"
+      ],
+      "explanation": "A libertine pursues sex and drink as a creed complete with wit and justification, which is what the epigrams and the theory of pleasure establish against mere brutishness; an ascetic renounces such appetites and a hypocrite would conceal rather than defend them. The second blank must be at odds with the condemnation it is set against, so charmed fits and repelled or chastened would remove the tension the sentence advertises.",
+      "id": "gregmat20__b2__tc2__06",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "Casanova's memoirs present the {1} not as a sinner awaiting correction but as a philosopher of pleasure, equipped with a system, a wine list, and a defence.",
+      "blanks": [
+        {
+          "options": [
+            "libertine",
+            "penitent",
+            "ascetic",
+            "misanthrope",
+            "miser"
+          ],
+          "answers": [
+            "libertine"
+          ]
+        }
+      ],
+      "words": [
+        "libertine"
+      ],
+      "explanation": "The sentence asks for a figure whose indulgence is stylish and argued for rather than repented, which is the libertine's signature glamour. A penitent is the sinner under correction the sentence explicitly rejects, and an ascetic or miser withholds pleasure instead of theorizing it.",
+      "id": "gregmat20__b2__cloze__07",
+      "unit": "gregmat20__b2",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": []
+}

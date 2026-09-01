@@ -1,0 +1,208 @@
+{
+  "unit": "gregmat10__b2",
+  "gregmat_group": 10,
+  "words": [
+    "expedite",
+    "fastidious",
+    "feign",
+    "furtive"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The reform was advertised as a means to {1} claims that the old office had let languish for the better part of a decade, but the new affidavit requirement soon proved a fresh {2}, adding months to files that had already waited years.",
+      "blanks": [
+        {
+          "options": [
+            "expedite",
+            "curtail",
+            "appraise"
+          ],
+          "answers": [
+            "expedite"
+          ]
+        },
+        {
+          "options": [
+            "impediment",
+            "expedient",
+            "precedent"
+          ],
+          "answers": [
+            "impediment"
+          ]
+        }
+      ],
+      "words": [
+        "expedite"
+      ],
+      "explanation": "The sentence is built on delay: files that \"languish\" for a decade need to be moved through the system faster, which is exactly what expedite means — clearing away the bureaucratic drag. Curtail would cut the claims short rather than speed them, and appraise addresses evaluation, not time. In the second blank, \"adding months\" demands a word for an obstacle: an expedient is a convenient means to an end (and, note, the same pēs root pulling the opposite way), not a delay.",
+      "id": "gregmat10__b2__tc2__00",
+      "unit": "gregmat10__b2",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Under wartime pressure the ministry moved to {1} the approval of therapies that would ordinarily have crawled through three years of committee review.",
+      "blanks": [
+        {
+          "options": [
+            "expedite",
+            "accelerate",
+            "impede",
+            "curb",
+            "scrutinize",
+            "publicize"
+          ],
+          "answers": [
+            "expedite",
+            "accelerate"
+          ]
+        }
+      ],
+      "words": [
+        "expedite"
+      ],
+      "explanation": "Only expedite and accelerate yield the same sentence — a process that would normally crawl is made to move faster, with expedite carrying the extra flavor of authority cutting through the committee backlog. Impede and curb reverse the meaning, and scrutinize and publicize both fit the grammar and the official register while describing something else entirely: examining approvals or announcing them, not hurrying them.",
+      "id": "gregmat10__b2__se__01",
+      "unit": "gregmat10__b2",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "As a laboratory technician she was {1}, logging every reagent to the milligram; as a dinner guest she was merely {2}, returning a glass to the kitchen over a single water spot.",
+      "blanks": [
+        {
+          "options": [
+            "meticulous",
+            "slovenly",
+            "cursory"
+          ],
+          "answers": [
+            "meticulous"
+          ]
+        },
+        {
+          "options": [
+            "fastidious",
+            "scrupulous",
+            "thorough"
+          ],
+          "answers": [
+            "fastidious"
+          ]
+        }
+      ],
+      "words": [
+        "fastidious"
+      ],
+      "explanation": "The two halves are deliberately parallel, and \"merely\" marks the descent from a virtue to a fault: the same exactitude that is praiseworthy at the bench is squeamishness at the table, which is fastidious and nothing else. Scrupulous and thorough are compliments about the conscientious performance of work, so neither can follow \"merely\" or explain a returned glass; in the first blank, slovenly and cursory would contradict the milligram-level logging.",
+      "id": "gregmat10__b2__tc2__02",
+      "unit": "gregmat10__b2",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "Proust's narrator is so {1} that a stained tablecloth or an ill-laundered napkin can spoil an entire evening for him.",
+      "blanks": [
+        {
+          "options": [
+            "fastidious",
+            "punctilious",
+            "scrupulous",
+            "meticulous",
+            "cursory"
+          ],
+          "answers": [
+            "fastidious"
+          ]
+        }
+      ],
+      "words": [
+        "fastidious"
+      ],
+      "explanation": "The trigger here is physical distaste — a stain, a badly laundered napkin — and being repelled by such things is the special province of fastidious, which alone carries a threshold for disgust. Punctilious concerns fine points of form and etiquette, scrupulous concerns conscience, and meticulous concerns care in carrying out a task; none of the three describes a man ruined by a smudge.",
+      "id": "gregmat10__b2__cloze__03",
+      "unit": "gregmat10__b2",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Rather than admit he had never opened the novel under discussion, he {1} a weary familiarity with it, nodding along at plot twists he was hearing for the first time.",
+      "blanks": [
+        {
+          "options": [
+            "feigned",
+            "affected",
+            "evinced",
+            "disavowed",
+            "ridiculed",
+            "resented"
+          ],
+          "answers": [
+            "feigned",
+            "affected"
+          ]
+        }
+      ],
+      "words": [
+        "feign"
+      ],
+      "explanation": "The clause \"rather than admit he had never opened the novel\" establishes that the familiarity is manufactured and put on for company, so only feigned and affected produce the same sentence. Evinced would mean he genuinely displayed familiarity he actually possessed, and disavowed reverses the whole social maneuver; ridiculed and resented fit the grammar and the tone but describe attitudes toward the book rather than a pretense of knowing it.",
+      "id": "gregmat10__b2__se__05",
+      "unit": "gregmat10__b2",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "The operation itself remained {1} for eleven months, run out of rented rooms and financed through shell accounts; what undid it was no breach of secrecy but the {2} bearing of one courier, whose darting glances in the departure hall drew a customs officer across the floor.",
+      "blanks": [
+        {
+          "options": [
+            "clandestine",
+            "ostentatious",
+            "perfunctory"
+          ],
+          "answers": [
+            "clandestine"
+          ]
+        },
+        {
+          "options": [
+            "furtive",
+            "imperturbable",
+            "punctilious"
+          ],
+          "answers": [
+            "furtive"
+          ]
+        }
+      ],
+      "words": [
+        "furtive"
+      ],
+      "explanation": "The sentence sets an operation against a person, and that is exactly the line between the two words: an enterprise conducted invisibly is clandestine, while a manner that broadcasts guilt to an observer is furtive. Furtive cannot take the first blank because the scheme's concealment never failed — \"no breach of secrecy\" — and imperturbable would give the courier the calm that would have saved him, while punctilious describes attention to form rather than a nervous bearing.",
+      "id": "gregmat10__b2__tc2__07",
+      "unit": "gregmat10__b2",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['evinced', 'affectation'] vs ['affectation', 'feigned']",
+      "problem": "Blank {2} is well constrained — \"so studied a calm\" plus \"only those who knew her well caught the ___\" forces \"affectation\" (\"sincerity\" and \"contrition\" have no support). Blank {1} is not. Once blank {2} is \"affectation,\" the sentence works equally well with \"evinced\" (she outwardly displayed serene indifference; intimates detected that the calm was put on — the artifice is new information) and with \"feigned\" (she put on serene indifference; intimates caught the pretense — merely redundant with \"affectation,\" not contradictory). Nothing in the sentence rules either out: \"Nothing in her manner suggested strain\" is satisfied by both a genuine-seeming display and a successful pretense, and \"studied\" cues artifice in either reading. A test-taker choosing \"feigned\" is making a defensible reading, so the item would mark a reasonable answer wrong. (\"betrayed\" is the only clearly bad option, since one does not unintentionally betray a serene indifference.) Fix: replace \"feigned\" with a distractor that genuinely conflicts, or reword blank {2}'s clause so the pretense is only detectable, not stated.",
+      "stem": "Nothing in the ambassador's manner suggested strain: she {1} a serene indifference to the insult, and only those who knew her well caught the {2} in so studied a calm."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence does not discriminate among three near-synonyms. \"Furtive\" is the best answer because it denotes the *visible appearance* of guilty stealth, which explains why the supervisor noticed — but \"surreptitious\" is a standard collocation with \"glances\" and denotes attempted-secret manner, not guaranteed concealment, so it fits the sentence just as well; \"covert\" is also arguable. Nothing in the sentence supplies the cue (clumsiness, nervousness, guilt, or explicit irony about failed concealment) that would force the connotative distinction between furtive and surreptitious. Only \"ulterior\" (collocates solely with motive/purpose) and, more weakly, \"clandestine\" (modifies planned activities, not looks) are cleanly eliminable, leaving at least two defensible answers.",
+      "stem": "The security footage caught nothing criminal — only a clerk whose glances toward the records room were so {1} that a supervisor ordered an audit the next morning."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat02__b4",
+  "gregmat_group": 2,
+  "words": [
+    "caustic",
+    "construe",
+    "contrite",
+    "convoluted"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the statute's central provision is so {1}, each side was able to {2} it to its own advantage, and the appeal turned less on the facts than on which reading the court would adopt.",
+      "blanks": [
+        {
+          "options": [
+            "convoluted",
+            "pellucid",
+            "rudimentary"
+          ],
+          "answers": [
+            "convoluted"
+          ]
+        },
+        {
+          "options": [
+            "construe",
+            "decipher",
+            "fathom"
+          ],
+          "answers": [
+            "construe"
+          ]
+        }
+      ],
+      "words": [
+        "convoluted",
+        "construe"
+      ],
+      "explanation": "Only a needlessly twisted provision could bear two self-serving readings, so the first blank must be 'convoluted'; 'pellucid' and 'rudimentary' would leave nothing to fight over. 'Construe' is the act of assigning one of two possible meanings, which is what advocates do; 'decipher' assumes the text is encoded rather than legible, and 'fathom' is private comprehension, neither of which can be done 'to one's own advantage.'",
+      "id": "gregmat02__b4__tc2__00",
+      "unit": "gregmat02__b4",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Jurors who had steeled themselves for the {1} defiance the tabloids had promised saw instead a man so plainly {2} — head bowed, offering neither excuse nor explanation — that they recommended the lightest sentence the statute allowed.",
+      "blanks": [
+        {
+          "options": [
+            "brazen",
+            "halting",
+            "scrupulous"
+          ],
+          "answers": [
+            "brazen"
+          ]
+        },
+        {
+          "options": [
+            "contrite",
+            "chagrined",
+            "impudent"
+          ],
+          "answers": [
+            "contrite"
+          ]
+        }
+      ],
+      "words": [
+        "contrite"
+      ],
+      "explanation": "'Instead' demands that the two blanks be opposites: shameless defiance against humbled regret, so 'brazen' sets up 'contrite.' 'Chagrined' names bruised pride or embarrassment and concedes no fault, which cannot square with the withdrawal of all excuses; 'impudent' would merely repeat the defiance the jurors did not see.",
+      "id": "gregmat02__b4__tc2__01",
+      "unit": "gregmat02__b4",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "The veteran rewrite man's jokes were less {1} than {2}: they were aimed not at amusing his colleagues but at stripping a layer of skin off them, and everyone in the newsroom knew which private failures lay behind the bitterness.",
+      "blanks": [
+        {
+          "options": [
+            "genial",
+            "obscure",
+            "rehearsed"
+          ],
+          "answers": [
+            "genial"
+          ]
+        },
+        {
+          "options": [
+            "caustic",
+            "ribald",
+            "self-deprecating"
+          ],
+          "answers": [
+            "caustic"
+          ]
+        }
+      ],
+      "words": [
+        "caustic"
+      ],
+      "explanation": "The 'less X than Y' frame plus 'not at amusing... but at stripping a layer of skin off' forces a contrast between friendliness and corrosive attack, so 'genial' pairs with 'caustic.' 'Ribald' and 'self-deprecating' are plausible descriptions of newsroom joking but point at indecency and self-mockery, not at wounding others, and neither explains the speaker's own bitterness that the sentence insists upon.",
+      "id": "gregmat02__b4__tc2__02",
+      "unit": "gregmat02__b4",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Wilde's put-downs tend to delight even their victims; Swift's are {1}, meant to take the skin off, and the bitterness of the man behind them is never in doubt.",
+      "blanks": [
+        {
+          "options": [
+            "caustic",
+            "scathing",
+            "trenchant",
+            "urbane",
+            "oblique",
+            "whimsical"
+          ],
+          "answers": [
+            "caustic",
+            "scathing"
+          ]
+        }
+      ],
+      "words": [
+        "caustic"
+      ],
+      "explanation": "The clause specifies wounding intent plus the speaker's own bitterness, which 'caustic' and 'scathing' both supply, yielding equivalent sentences. 'Trenchant' means incisive and effective — a compliment about penetration, not about injury — while 'urbane' and 'whimsical' describe exactly the Wildean manner the sentence contrasts Swift with.",
+      "id": "gregmat02__b4__se__03",
+      "unit": "gregmat02__b4",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "The lease requires only that the tenant 'maintain the premises'; whether that obliges her to replace the roof depends entirely on how narrowly the court elects to {1} the phrase.",
+      "blanks": [
+        {
+          "options": [
+            "construe",
+            "decipher",
+            "fathom",
+            "transcribe",
+            "annotate"
+          ],
+          "answers": [
+            "construe"
+          ]
+        }
+      ],
+      "words": [
+        "construe"
+      ],
+      "explanation": "The wording is perfectly legible; what is at issue is which of two possible meanings will be made official, and that choice is 'construe.' 'Decipher' presupposes something encoded or illegible, and 'fathom' describes private comprehension of something deep rather than an authoritative, contestable ruling.",
+      "id": "gregmat02__b4__cloze__05",
+      "unit": "gregmat02__b4",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "The memoir's closing chapters are {1} in a way the earlier ones are not: the author names the colleagues he injured, withdraws the justifications he once offered, and asks nothing of the reader in return.",
+      "blanks": [
+        {
+          "options": [
+            "contrite",
+            "chagrined",
+            "scrupulous",
+            "brazen",
+            "evasive"
+          ],
+          "answers": [
+            "contrite"
+          ]
+        }
+      ],
+      "words": [
+        "contrite"
+      ],
+      "explanation": "Conceding fault, facing the wronged parties, and abandoning every excuse is the precise content of 'contrite.' 'Chagrined' would register only the author's wounded pride and stops short of admitting wrong, while 'scrupulous' describes conscientiousness beforehand rather than remorse after.",
+      "id": "gregmat02__b4__cloze__06",
+      "unit": "gregmat02__b4",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "The ambassador warned that any delay in replying would be {1} by the junta as tacit approval, whatever Washington's actual intentions.",
+      "blanks": [
+        {
+          "options": [
+            "construed",
+            "interpreted",
+            "deciphered",
+            "fathomed",
+            "disregarded",
+            "rebuffed"
+          ],
+          "answers": [
+            "construed",
+            "interpreted"
+          ]
+        }
+      ],
+      "words": [
+        "construe"
+      ],
+      "explanation": "Silence is being assigned a meaning it need not bear, so 'construed' and 'interpreted' produce equivalent sentences, the former simply marking the reading as contested and consequential. 'Deciphered' and 'fathomed' would require a hidden or hard-to-grasp message rather than an ambiguous act, and 'disregarded' and 'rebuffed' reverse the point, since the junta is drawing a conclusion, not dismissing one.",
+      "id": "gregmat02__b4__se__07",
+      "unit": "gregmat02__b4",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option set contains two complete synonym pairs that both fit. Intended: convoluted/tortuous (needlessly twisted presentation). But abstruse/recondite is also a valid pair and produces a coherent sentence — \"his exposition was so abstruse/recondite that few readers reached the second chapter\" is idiomatic and still blames the author, satisfying \"the fault lay with the author rather than his subject.\" The only thing separating the pairs is the soft connotation that abstruse/recondite usually implies inherently deep subject matter (clashing with \"elementary\"), which the sentence does not decisively enforce. Remove one of abstruse/recondite, or add a cue that specifically signals tangled/circuitous structure rather than general obscurity.",
+      "stem": "Reviewers agreed that the fault lay with the author rather than his subject: the material was elementary, yet his exposition of it was so {1} that few readers reached the second chapter."
+    }
+  ]
+}

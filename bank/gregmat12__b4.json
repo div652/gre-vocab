@@ -1,0 +1,225 @@
+{
+  "unit": "gregmat12__b4",
+  "gregmat_group": 12,
+  "words": [
+    "lucrative",
+    "magisterial",
+    "onerous",
+    "opprobrium"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The patent-litigation practice he built was extraordinarily {1} — the settlements alone kept forty associates employed — but its habit of suing individual inventors eventually drew such {2} from the rest of the bar that corporate clients began taking their work quietly elsewhere.",
+      "blanks": [
+        {
+          "options": [
+            "lucrative",
+            "affluent",
+            "opulent"
+          ],
+          "answers": [
+            "lucrative"
+          ]
+        },
+        {
+          "options": [
+            "opprobrium",
+            "approbation",
+            "indictment"
+          ],
+          "answers": [
+            "opprobrium"
+          ]
+        }
+      ],
+      "words": [
+        "lucrative",
+        "opprobrium"
+      ],
+      "explanation": "A practice, deal or venture is lucrative; a person is affluent and a lifestyle or interior is opulent, so only lucrative can modify a business activity. In the second blank, approbation is the opposite (approval), and an indictment is a formal charge one body brings rather than the diffuse, moralised scorn a whole profession pours out — which is exactly opprobrium.",
+      "id": "gregmat12__b4__tc2__00",
+      "unit": "gregmat12__b4",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Having built a modest advisory shop into a {1} enterprise, Sloan discussed management in a {2} manner that his juniors found less inspiring than intimidating: he did not argue his positions so much as pronounce them to the room.",
+      "blanks": [
+        {
+          "options": [
+            "lucrative",
+            "affluent",
+            "onerous"
+          ],
+          "answers": [
+            "lucrative"
+          ]
+        },
+        {
+          "options": [
+            "magisterial",
+            "august",
+            "ardent"
+          ],
+          "answers": [
+            "magisterial"
+          ]
+        }
+      ],
+      "words": [
+        "lucrative",
+        "magisterial"
+      ],
+      "explanation": "Affluent describes the owner rather than the enterprise, and onerous reverses the sense of a firm that has flourished, leaving lucrative. August would mean the manner commanded reverence through venerable dignity, but the sentence says it intimidated rather than inspired and that he lectured instead of arguing — the faintly cold, talking-down authority of the master, which is magisterial.",
+      "id": "gregmat12__b4__tc2__02",
+      "unit": "gregmat12__b4",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "What began as a favour to friends — rebuilding vintage amplifiers in a garage — turned out to be unexpectedly {1}, and within three years the repair bench had displaced the salaried job that once supported it.",
+      "blanks": [
+        {
+          "options": [
+            "lucrative",
+            "remunerative",
+            "affluent",
+            "opulent",
+            "arduous",
+            "onerous"
+          ],
+          "answers": [
+            "lucrative",
+            "remunerative"
+          ]
+        }
+      ],
+      "words": [
+        "lucrative"
+      ],
+      "explanation": "Lucrative and remunerative both mean richly profitable and both attach to an activity, which is what the clause about displacing a salary requires. Affluent and opulent describe people and their surroundings, not undertakings; arduous and onerous fit the grammar and the tone but would explain the sideline's growth by its difficulty rather than by its returns.",
+      "id": "gregmat12__b4__se__03",
+      "unit": "gregmat12__b4",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "After the falsified spectra came to light, the physicist spent his last decade in provincial obscurity, living under {1} that no later retraction or defence could lift.",
+      "blanks": [
+        {
+          "options": [
+            "opprobrium",
+            "obloquy",
+            "approbation",
+            "indictment",
+            "scrutiny",
+            "vindication"
+          ],
+          "answers": [
+            "opprobrium",
+            "obloquy"
+          ]
+        }
+      ],
+      "words": [
+        "opprobrium"
+      ],
+      "explanation": "The idiom 'living under' calls for the lingering disgrace left by public scorn, which is the second sense of both opprobrium and obloquy. Indictment and scrutiny sit comfortably in the same frame but denote a formal charge and mere close attention, neither of which is disgrace; approbation and vindication would reverse the sentence entirely.",
+      "id": "gregmat12__b4__se__04",
+      "unit": "gregmat12__b4",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "The compliance regime imposed on small clinics is frankly {1}: nothing in it is intellectually taxing, but the monthly accretion of forms can be neither delegated nor set down.",
+      "blanks": [
+        {
+          "options": [
+            "onerous",
+            "burdensome",
+            "arduous",
+            "exacting",
+            "draconian",
+            "remunerative"
+          ],
+          "answers": [
+            "onerous",
+            "burdensome"
+          ]
+        }
+      ],
+      "words": [
+        "onerous"
+      ],
+      "explanation": "Onerous and burdensome both measure weight of obligation and are indifferent to difficulty, which is what a sentence insisting the work is easy yet inescapable demands. Arduous and exacting are grammatically and tonally at home but assert the strenuousness the clause has just denied; draconian would claim harsh punishment, and remunerative is off the axis altogether.",
+      "id": "gregmat12__b4__se__05",
+      "unit": "gregmat12__b4",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "Braudel's {1} study of the Mediterranean — three volumes, four decades of archival work, and a bibliography no rival has since matched — remains the point from which every later account of the period departs.",
+      "blanks": [
+        {
+          "options": [
+            "magisterial",
+            "august",
+            "redoubtable",
+            "onerous",
+            "lucrative"
+          ],
+          "answers": [
+            "magisterial"
+          ]
+        }
+      ],
+      "words": [
+        "magisterial"
+      ],
+      "explanation": "Only magisterial can be applied to a work to mean the definitive treatment, so complete in its command of the subject that dissent feels presumptuous. August names venerable dignity and redoubtable names a formidable opponent, both properly said of persons or institutions rather than of a book's authority.",
+      "id": "gregmat12__b4__cloze__06",
+      "unit": "gregmat12__b4",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "The lease seemed generous until the tenants reached the maintenance clause, which obliged them to repoint the brickwork every fifth year at their own expense — a duty nobody called difficult, merely {1}.",
+      "blanks": [
+        {
+          "options": [
+            "onerous",
+            "arduous",
+            "exacting",
+            "ardent",
+            "lucrative"
+          ],
+          "answers": [
+            "onerous"
+          ]
+        }
+      ],
+      "words": [
+        "onerous"
+      ],
+      "explanation": "The concession 'nobody called it difficult' rules out arduous and exacting, which both assert strenuous effort or demanding precision. What remains is the sense of an obligation that costs money and cannot be put down, which is onerous; ardent is the lookalike meaning passionate.",
+      "id": "gregmat12__b4__cloze__07",
+      "unit": "gregmat12__b4",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean: \"treated arithmetic incapacity as though it were moral delinquency\" demands censure, so \"opprobrium\" is right — \"approbation\" is praise, and \"sanction\" (a penalty imposed by an authority, or, in its other sense, approval) is not something a newspaper issues. Blank {2} is not uniquely determined: \"onerous\" and \"arduous\" are near-synonyms for burdensome/difficult, and \"arduous schedule\" is a standard collocation. The sentence only requires that the schedule be too hard to meet — it supplies no cue that distinguishes financial burden (onerous) from strenuous effort (arduous), so a test-taker who picks \"arduous\" has a defensible reading and would be marked wrong. \"Lucrative\" is the only clear distractor. To fix, replace \"arduous\" with an option that cannot mean burdensome (e.g., \"provisional\", \"opaque\", \"protracted\"), or add wording that pins the blank to financial burden.",
+      "stem": "The reparations schedule was so {2} that even sympathetic economists conceded the republic could not meet it; yet each missed installment brought fresh {1} from the Allied press, which treated arithmetic incapacity as though it were moral delinquency."
+    }
+  ]
+}

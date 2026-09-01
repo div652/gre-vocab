@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat16__b4",
+  "gregmat_group": 16,
+  "words": [
+    "monotonous",
+    "peculiar",
+    "premeditate",
+    "profligate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers praised the novel's premise as {1}, yet complained that its prose — built almost entirely from short declarative sentences of identical rhythm and length — grew {2} well before the midpoint.",
+      "blanks": [
+        {
+          "options": [
+            "arresting",
+            "insipid",
+            "plodding"
+          ],
+          "answers": [
+            "arresting"
+          ]
+        },
+        {
+          "options": [
+            "monotonous",
+            "scintillating",
+            "piquant"
+          ],
+          "answers": [
+            "monotonous"
+          ]
+        }
+      ],
+      "words": [
+        "monotonous"
+      ],
+      "explanation": "\"Praised... yet complained\" sets a positive first term against a negative second, so blank 1 needs a word of approval: arresting, while insipid and plodding are both verdicts of dullness. Blank 2 is fixed by \"identical rhythm and length\" — sameness wearing the reader down is exactly monotonous; scintillating and piquant would reverse the complaint into praise.",
+      "id": "gregmat16__b4__tc2__00",
+      "unit": "gregmat16__b4",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the burial rites are {1} to this single valley — no neighbouring settlement practices anything resembling them — archaeologists read them not as evidence of a shared regional culture but as a mark of the community's {2}.",
+      "blanks": [
+        {
+          "options": [
+            "peculiar",
+            "whimsical",
+            "universal"
+          ],
+          "answers": [
+            "peculiar"
+          ]
+        },
+        {
+          "options": [
+            "isolation",
+            "assimilation",
+            "conformity"
+          ],
+          "answers": [
+            "isolation"
+          ]
+        }
+      ],
+      "words": [
+        "peculiar"
+      ],
+      "explanation": "The preposition \"to\" plus the exclusivity clause signals peculiar in its second sense — belonging to one group alone — not oddness; whimsical does not take \"to,\" and universal is contradicted by the dash clause. Blank 2 follows from that exclusivity: rites no neighbour shares point to isolation, whereas assimilation and conformity would imply the regional commonality the sentence denies.",
+      "id": "gregmat16__b4__tc2__02",
+      "unit": "gregmat16__b4",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "The housekeeper would say only that there had been a {1} smell on the landing that week — a word the inspector suspected she had chosen because it committed her to nothing.",
+      "blanks": [
+        {
+          "options": [
+            "peculiar",
+            "bizarre",
+            "eccentric",
+            "idiosyncratic",
+            "whimsical"
+          ],
+          "answers": [
+            "peculiar"
+          ]
+        }
+      ],
+      "words": [
+        "peculiar"
+      ],
+      "explanation": "The clue is evasion: the word must register that something is off without specifying what, which is the particular office of peculiar. Bizarre commits the speaker to a strong claim and so fails \"committed her to nothing,\" while eccentric, idiosyncratic, and whimsical describe persons and their habits rather than a smell.",
+      "id": "gregmat16__b4__cloze__03",
+      "unit": "gregmat16__b4",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Prosecutors insisted that the arson had been {1} rather than impulsive, citing accelerants bought a fortnight before the fire; the jury, however, found the surviving timeline too {2} to sustain so deliberate a sequence of events.",
+      "blanks": [
+        {
+          "options": [
+            "premeditated",
+            "perpetrated",
+            "abetted"
+          ],
+          "answers": [
+            "premeditated"
+          ]
+        },
+        {
+          "options": [
+            "muddled",
+            "meticulous",
+            "damning"
+          ],
+          "answers": [
+            "muddled"
+          ]
+        }
+      ],
+      "words": [
+        "premeditate"
+      ],
+      "explanation": "\"Rather than impulsive\" demands a word meaning planned in advance — premeditated — whereas perpetrated merely says the act was carried out and abetted says someone assisted another's act. Blank 2 must explain the jury's rejection of that planned chronology, so the timeline has to be muddled; meticulous would support the prosecution and damning would concede its case.",
+      "id": "gregmat16__b4__tc2__04",
+      "unit": "gregmat16__b4",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the aide's correspondence suggests that he {1} the betrayal; the decision seems to have been taken in the hour itself, under pressures he could not have foreseen.",
+      "blanks": [
+        {
+          "options": [
+            "premeditated",
+            "perpetrated",
+            "abetted",
+            "disavowed",
+            "lamented"
+          ],
+          "answers": [
+            "premeditated"
+          ]
+        }
+      ],
+      "words": [
+        "premeditate"
+      ],
+      "explanation": "The second clause concedes that the betrayal happened but locates the decision in the moment, so what the letters fail to show is forethought — premeditated. Perpetrated would deny he did it at all, contradicting the concession; abetted makes him another's helper, and disavowed and lamented describe reactions after the fact.",
+      "id": "gregmat16__b4__cloze__05",
+      "unit": "gregmat16__b4",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Successive ministers denounced their predecessor as {1} with the colony's revenues, though the ledgers suggest the money went less to private luxury than to fortifications that no invasion ever justified.",
+      "blanks": [
+        {
+          "options": [
+            "profligate",
+            "prodigal",
+            "parsimonious",
+            "canny",
+            "exorbitant",
+            "prodigious"
+          ],
+          "answers": [
+            "profligate",
+            "prodigal"
+          ]
+        }
+      ],
+      "words": [
+        "profligate"
+      ],
+      "explanation": "The charge is ruinous free spending of public money, which profligate and prodigal both convey and which the concessive clause qualifies rather than withdraws. Parsimonious and canny fit the frame smoothly but reverse the accusation into thrift or shrewdness; exorbitant describes prices, not spenders, and prodigious means merely enormous.",
+      "id": "gregmat16__b4__se__06",
+      "unit": "gregmat16__b4",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Having spent his twenties {1} — an inheritance, two houses, and most of a family name gone inside six years — he liked to present his later {2} not as a virtue but as plain arithmetic.",
+      "blanks": [
+        {
+          "options": [
+            "profligately",
+            "parsimoniously",
+            "cautiously"
+          ],
+          "answers": [
+            "profligately"
+          ]
+        },
+        {
+          "options": [
+            "parsimony",
+            "prodigality",
+            "extravagance"
+          ],
+          "answers": [
+            "parsimony"
+          ]
+        }
+      ],
+      "words": [
+        "profligate"
+      ],
+      "explanation": "The catalogue of losses fixes blank 1 as profligately; parsimoniously and cautiously would leave the inheritance intact. \"Later\" plus \"not a virtue but plain arithmetic\" then requires the opposite habit, parsimony — prodigality and extravagance would merely repeat the ruin the first clause has already described.",
+      "id": "gregmat16__b4__tc2__07",
+      "unit": "gregmat16__b4",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"humdrum\" is a near-exact synonym of \"monotonous\" (dull through unvarying sameness) and fits the slot just as well: \"what might have been simply humdrum instead becomes hypnotic.\" The sentence supplies only one discriminating device — the \"hardly long by the standards of the genre\" aside, which eliminates \"interminable\" — and nothing distinguishes monotonous from humdrum. \"Monotonous\" is presumably intended because of the literal echo of \"one tone,\" but that is an etymological pun, not a semantic constraint the sentence enforces. (\"Vapid\" is also arguably defensible as a description of an unvarying, substanceless drone.) A test-taker choosing humdrum would be marked wrong without justification; the question needs a clue that specifically requires unvarying-ness rather than generic dullness.",
+      "stem": "The score sustains one tone at one dynamic for eleven minutes — hardly long by the standards of the genre — so that what might have been simply {1} instead becomes hypnotic once the upper voices begin to phase against it."
+    }
+  ]
+}

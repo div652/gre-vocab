@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat32__b6",
+  "gregmat_group": 32,
+  "words": [
+    "rampant",
+    "remote",
+    "reprobate",
+    "turbid"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The blight had lain {1} in the province's orchards for nearly a decade, noticed by no one and doing no visible harm, until the dismantling of the inspection service allowed it to run {2} through an entire season's crop.",
+      "blanks": [
+        {
+          "options": [
+            "dormant",
+            "ubiquitous",
+            "fallow"
+          ],
+          "answers": [
+            "dormant"
+          ]
+        },
+        {
+          "options": [
+            "rampant",
+            "quiescent",
+            "scant"
+          ],
+          "answers": [
+            "rampant"
+          ]
+        }
+      ],
+      "words": [
+        "rampant"
+      ],
+      "explanation": "The sentence is built on a before/after hinge: a decade of doing nothing visible (dormant) versus a single season of spreading with nothing left to check it (rampant). Ubiquitous would claim the blight was everywhere, which contradicts \"noticed by no one,\" and fallow describes uncultivated land, not a latent disease; quiescent and scant in the second blank would repeat the earlier state rather than reverse it.",
+      "id": "gregmat32__b6__tc2__00",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "Contemporary pamphleteers blamed the panic not on any single swindler but on the {1} speculation that a decade of toothless regulation had done nothing to slow.",
+      "blanks": [
+        {
+          "options": [
+            "rampant",
+            "unbridled",
+            "ubiquitous",
+            "furtive",
+            "sporadic",
+            "dormant"
+          ],
+          "answers": [
+            "rampant",
+            "unbridled"
+          ]
+        }
+      ],
+      "words": [
+        "rampant"
+      ],
+      "explanation": "The relative clause specifies an absent brake — regulation that did nothing to slow the speculation — so the blank must name growth without restraint, which rampant and unbridled both do. Ubiquitous only counts heads (how widely spread), saying nothing about rate or restraint, while sporadic and dormant contradict the panic and furtive substitutes concealment for uncontrolled growth.",
+      "id": "gregmat32__b6__se__01",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Acquaintances found Eliot's manner {1} rather than cold — he was courteous to every visitor and confiding in none — so that the prospect of hearing him speak candidly about his own life always seemed {2}.",
+      "blanks": [
+        {
+          "options": [
+            "remote",
+            "callous",
+            "truculent"
+          ],
+          "answers": [
+            "remote"
+          ]
+        },
+        {
+          "options": [
+            "faint",
+            "imminent",
+            "assured"
+          ],
+          "answers": [
+            "faint"
+          ]
+        }
+      ],
+      "words": [
+        "remote"
+      ],
+      "explanation": "\"Rather than cold\" and \"courteous to every visitor\" rule out callous (hard-hearted) and truculent (belligerent): the man is unreachable, not unkind, which is precisely remote. The second blank must extend that unreachability to a probability, so faint fits, whereas imminent and assured would promise the candor the first clause denies.",
+      "id": "gregmat32__b6__tc2__02",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Since his wife's death he had grown neither unfriendly nor superior — he still greeted callers warmly and asked after their children — but something in him had gone {1}, as though he were answering from a room considerably further back than the one in which he sat.",
+      "blanks": [
+        {
+          "options": [
+            "remote",
+            "aloof",
+            "callous",
+            "terse",
+            "truculent"
+          ],
+          "answers": [
+            "remote"
+          ]
+        }
+      ],
+      "words": [
+        "remote"
+      ],
+      "explanation": "Remote names unreachability without attributing any choice or attitude to the person, which is why the image of answering from further back fits it exactly. Aloof, the nearest option, implies deliberately standing apart with a hint of superiority — explicitly excluded by \"neither unfriendly nor superior\" — while callous, terse and truculent all import coldness, brevity or hostility the sentence denies.",
+      "id": "gregmat32__b6__cloze__03",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "The diarist has no talent for repentance: he sets down each swindle without a flicker of {1}, and by the third volume the reader has given up expecting reform and settled into a grudging fondness for the old {2}.",
+      "blanks": [
+        {
+          "options": [
+            "contrition",
+            "effrontery",
+            "torpor"
+          ],
+          "answers": [
+            "contrition"
+          ]
+        },
+        {
+          "options": [
+            "reprobate",
+            "libertine",
+            "penitent"
+          ],
+          "answers": [
+            "reprobate"
+          ]
+        }
+      ],
+      "words": [
+        "reprobate"
+      ],
+      "explanation": "\"No talent for repentance\" demands the absence of contrition; effrontery is what he displays rather than lacks, and torpor is irrelevant to a man busily swindling. The second blank needs a word for someone written off as past reforming yet spoken of half-fondly — reprobate — whereas libertine specifies sensual indulgence rather than fraud, and penitent reverses the whole sentence.",
+      "id": "gregmat32__b6__tc2__04",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Twelve years of prison chaplaincy had left Father Owens with a blunt taxonomy: the merely weak, whom he still expected to see redeemed, and the {1}, whom he had long since consigned to the category his Calvinist grandfather would have called the damned.",
+      "blanks": [
+        {
+          "options": [
+            "reprobates",
+            "miscreants",
+            "libertines",
+            "ingrates",
+            "novices"
+          ],
+          "answers": [
+            "reprobates"
+          ]
+        }
+      ],
+      "words": [
+        "reprobate"
+      ],
+      "explanation": "The contrast is not between degrees of misconduct but between the redeemable and those judged past saving, and reprobate is the term whose theological history carries exactly that verdict. Miscreants names wrongdoers without implying they are beyond reform, libertines specifies a particular vice, and ingrates and novices describe the wrong failing altogether.",
+      "id": "gregmat32__b6__cloze__05",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "After three days of rain the normally clear chalk stream ran so {1} that the surveyors, standing in six inches of water, could not make out their own boots.",
+      "blanks": [
+        {
+          "options": [
+            "turbid",
+            "murky",
+            "limpid",
+            "brackish",
+            "placid",
+            "frigid"
+          ],
+          "answers": [
+            "turbid",
+            "murky"
+          ]
+        }
+      ],
+      "words": [
+        "turbid"
+      ],
+      "explanation": "Rain has stirred sediment into suspension, and the test of the blank is that the water cannot be seen through: turbid and murky are the two options that mean exactly that. Limpid is the antonym, brackish concerns salinity, and placid and frigid describe the stream's motion and temperature — all plausible of water, none of them about opacity.",
+      "id": "gregmat32__b6__se__06",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "The ideas themselves are not hard; every argument in the book could be restated in a paragraph. That is why reviewers called the prose {1} rather than merely demanding: the sentences do not carry difficult material, they stir up sediment around simple material.",
+      "blanks": [
+        {
+          "options": [
+            "turbid",
+            "abstruse",
+            "recondite",
+            "turgid",
+            "truculent"
+          ],
+          "answers": [
+            "turbid"
+          ]
+        }
+      ],
+      "words": [
+        "turbid"
+      ],
+      "explanation": "Abstruse and recondite locate the difficulty in the subject, which the first sentence explicitly denies; the charge here is that a writer has clouded something that was already clear, and the suspended-sediment image makes turbid the only fit. Turgid (swollen, pompous) and truculent (aggressive) are lookalikes that describe a different vice of style or temperament entirely.",
+      "id": "gregmat32__b6__cloze__07",
+      "unit": "gregmat32__b6",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": []
+}

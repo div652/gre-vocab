@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat30__b1",
+  "gregmat_group": 30,
+  "words": [
+    "capitulate",
+    "cogitate",
+    "deportment",
+    "extemporize"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Having held out through eleven weeks of a strike that emptied its warehouses, the board proved less {1} than its public statements had suggested: it {2}, adopting the union's pension draft without amending a single clause.",
+      "blanks": [
+        {
+          "options": [
+            "intransigent",
+            "circumspect",
+            "mercurial"
+          ],
+          "answers": [
+            "intransigent"
+          ]
+        },
+        {
+          "options": [
+            "capitulated",
+            "demurred",
+            "cogitated"
+          ],
+          "answers": [
+            "capitulated"
+          ]
+        }
+      ],
+      "words": [
+        "capitulate"
+      ],
+      "explanation": "The second blank must name the collapse of a long resistance on the opponent's own terms — adopting the other side's draft unaltered is capitulation, not demurral (objection) or mere deliberation. That collapse in turn shows the board was less unyielding than advertised, so the first blank needs intransigent; circumspect (cautious) has no logical quarrel with giving in, and mercurial runs backwards, since caving after a long standoff is a change of position rather than evidence of steadiness.",
+      "id": "gregmat30__b1__tc2__00",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Neither siege engines nor famine moved the garrison for eleven months; when the defenders at last {1}, they did so on conditions dictated wholly by the besiegers and marched out under a flag the enemy had chosen.",
+      "blanks": [
+        {
+          "options": [
+            "capitulated",
+            "acquiesced",
+            "relented",
+            "temporized",
+            "dissented"
+          ],
+          "answers": [
+            "capitulated"
+          ]
+        }
+      ],
+      "words": [
+        "capitulate"
+      ],
+      "explanation": "Capitulate is the only word that presupposes a prior siege and specifies that the winner sets the conditions, which is exactly what the dictated terms establish. Acquiesce would mean the garrison had gone along quietly from the outset, which eleven months of resistance rules out; relent describes softening one's own severity rather than accepting an enemy's terms, and temporize means stalling for time, which is what the defenders stopped doing.",
+      "id": "gregmat30__b1__cloze__01",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues who did not know him mistook the long silences for {1}; in fact Whitehead was accustomed to {2} for weeks over a single objection before committing a word of reply to paper.",
+      "blanks": [
+        {
+          "options": [
+            "torpor",
+            "impetuosity",
+            "erudition"
+          ],
+          "answers": [
+            "torpor"
+          ]
+        },
+        {
+          "options": [
+            "cogitate",
+            "extemporize",
+            "capitulate"
+          ],
+          "answers": [
+            "cogitate"
+          ]
+        }
+      ],
+      "words": [
+        "cogitate"
+      ],
+      "explanation": "The second blank must describe slow, sustained mental labor sustained over weeks, which is cogitate; extemporize means composing on the spot before an audience and contradicts weeks of delay, and capitulate requires an opponent. Because the sentence corrects a misreading, the first blank has to be the unflattering interpretation of silence — torpor — whereas erudition would flatter him and produce no contrast, and impetuosity is precisely what long silence cannot look like.",
+      "id": "gregmat30__b1__tc2__02",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Darwin did not answer Mivart's objection at once; he let it sit for the better part of a year, {1} over it in notebook after notebook until every consequence had been traced.",
+      "blanks": [
+        {
+          "options": [
+            "cogitating",
+            "ruminating",
+            "extemporizing",
+            "capitulating",
+            "temporizing",
+            "equivocating"
+          ],
+          "answers": [
+            "cogitating",
+            "ruminating"
+          ]
+        }
+      ],
+      "words": [
+        "cogitate"
+      ],
+      "explanation": "Cogitating and ruminating both denote turning a matter over in the mind deliberately and at length, which is what a year of notebooks records, so they yield equivalent sentences. Temporizing would make the delay a stalling tactic rather than sustained thought, equivocating would make it deliberate ambiguity, and extemporizing denotes unprepared performance before listeners — the opposite of private, protracted deliberation.",
+      "id": "gregmat30__b1__se__03",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "What the finishing school actually assessed was {1} rather than character: a girl might be sullen and grasping within and still take full marks, provided her carriage and her manner of addressing her elders were {2}.",
+      "blanks": [
+        {
+          "options": [
+            "deportment",
+            "comity",
+            "probity"
+          ],
+          "answers": [
+            "deportment"
+          ]
+        },
+        {
+          "options": [
+            "impeccable",
+            "desultory",
+            "peremptory"
+          ],
+          "answers": [
+            "impeccable"
+          ]
+        }
+      ],
+      "words": [
+        "deportment"
+      ],
+      "explanation": "Carriage and manner before elders are physical bearing graded by an observer, which is deportment; comity is mutual civility between parties or nations, and probity is integrity of character, which the sentence explicitly sets aside. The second blank must state the standard that earns full marks, so impeccable is required — desultory means aimless and peremptory means brusquely commanding, neither of which a school would reward.",
+      "id": "gregmat30__b1__tc2__04",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "The inspecting officer's report said nothing of the recruit's courage or intelligence; it confined itself, as a drillmaster's report must, to {1} — the angle of the salute, the stillness of the shoulders, the way he crossed a threshold under review.",
+      "blanks": [
+        {
+          "options": [
+            "deportment",
+            "demeanor",
+            "decorum",
+            "propriety",
+            "comity"
+          ],
+          "answers": [
+            "deportment"
+          ]
+        }
+      ],
+      "words": [
+        "deportment"
+      ],
+      "explanation": "Every item enumerated is posture and bearing scored against a standard by a watching superior, which is the precise sense of deportment. Demeanor names the air or mood a person gives off rather than the disciplined body, decorum and propriety concern conduct appropriate to a social occasion, and comity concerns courteous relations between parties.",
+      "id": "gregmat30__b1__cloze__05",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "When the lectern lamp failed and his notes went dark, Bryan {1} for forty minutes, and the audience, far from pitying him, took the hour as evidence of a {2} that prepared texts tend to conceal.",
+      "blanks": [
+        {
+          "options": [
+            "extemporized",
+            "temporized",
+            "demurred"
+          ],
+          "answers": [
+            "extemporized"
+          ]
+        },
+        {
+          "options": [
+            "mastery",
+            "desperation",
+            "affectation"
+          ],
+          "answers": [
+            "mastery"
+          ]
+        }
+      ],
+      "words": [
+        "extemporize"
+      ],
+      "explanation": "Speaking at length before an audience with the script unavailable is extemporizing; temporizing means stalling for time and demurring means objecting, neither of which fills forty minutes of platform speech. Because the crowd is said to be far from pitying him, the second blank must be creditable — mastery — while desperation and affectation would both describe a failure the sentence expressly denies.",
+      "id": "gregmat30__b1__tc2__06",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "The sermon that survives in print was never composed on paper: Whitefield {1} it in an open field before ten thousand people, and a shorthand writer in the crowd took it down.",
+      "blanks": [
+        {
+          "options": [
+            "extemporized",
+            "improvised",
+            "rehearsed",
+            "declaimed",
+            "temporized",
+            "transcribed"
+          ],
+          "answers": [
+            "extemporized",
+            "improvised"
+          ]
+        }
+      ],
+      "words": [
+        "extemporize"
+      ],
+      "explanation": "Extemporized and improvised both mean delivered without prior preparation, which the absence of any written text and the presence of a stenographer together require. Declaimed fits the register and the setting but says only that he spoke rhetorically, rehearsed contradicts the opening clause, temporized substitutes delay for delivery, and transcribed describes the shorthand writer's work rather than the preacher's.",
+      "id": "gregmat30__b1__se__07",
+      "unit": "gregmat30__b1",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": []
+}

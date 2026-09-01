@@ -1,0 +1,228 @@
+{
+  "unit": "gregmat23__b5",
+  "gregmat_group": 23,
+  "words": [
+    "precipitous",
+    "pretentious",
+    "profound",
+    "propagate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Investors had read the firm's first two quarters as {1}, but a {2} slide in market share — from thirty percent to nine in half a year — showed how badly those omens had been read.",
+      "blanks": [
+        {
+          "options": [
+            "auspicious",
+            "precipitate",
+            "ostentatious"
+          ],
+          "answers": [
+            "auspicious"
+          ]
+        },
+        {
+          "options": [
+            "precipitous",
+            "propitious",
+            "perfunctory"
+          ],
+          "answers": [
+            "precipitous"
+          ]
+        }
+      ],
+      "words": [
+        "precipitous"
+      ],
+      "explanation": "\"Omens\" points blank 1 to auspicious, which means promising in the manner of a favorable sign; precipitate would mean rash, which quarters cannot be. Blank 2 needs the alarming, cliff-edged fall that the figures describe, and precipitous is the only option that names a plunge — propitious is the lookalike that means favorable, the opposite of what a collapsing share implies.",
+      "id": "gregmat23__b5__tc2__00",
+      "unit": "gregmat23__b5",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "The last mile of the pilgrim road is so {1} that pack mules cannot be taken above the tree line and every sack of flour must be carried up on a man's back.",
+      "blanks": [
+        {
+          "options": [
+            "precipitous",
+            "propitious",
+            "precipitate",
+            "auspicious",
+            "profuse"
+          ],
+          "answers": [
+            "precipitous"
+          ]
+        }
+      ],
+      "words": [
+        "precipitous"
+      ],
+      "explanation": "The clue is physical: a gradient too dangerous for animals, which is precipitous in its literal sense of dangerously steep. Precipitate concerns haste rather than slope, and propitious and auspicious both mean favorable — a road cannot be favorable in a way that stops mules.",
+      "id": "gregmat23__b5__cloze__01",
+      "unit": "gregmat23__b5",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Though the prices were modest, the restaurant struck critics as {1}: the wine list quoted Baudelaire, the waiters recited each dish's \"philosophy,\" and the whole performance laid claim to a refinement the cooking never delivered.",
+      "blanks": [
+        {
+          "options": [
+            "pretentious",
+            "ostentatious",
+            "bombastic",
+            "turgid",
+            "histrionic"
+          ],
+          "answers": [
+            "pretentious"
+          ]
+        }
+      ],
+      "words": [
+        "pretentious"
+      ],
+      "explanation": "A claim to refinement unsupported by the substance is the defining case of pretentious, and the word attaches to objects such as menus as readily as to people. Ostentatious is ruled out by the modest prices, since it describes display of money; bombastic and turgid describe inflated language rather than an unearned claim to taste.",
+      "id": "gregmat23__b5__cloze__03",
+      "unit": "gregmat23__b5",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers noted that the book wore its scholarship lightly: what impressed them was less the range of its citations than the {1} character of its central argument, which traced the present crisis back to a quarrel over church lands in the 1530s.",
+      "blanks": [
+        {
+          "options": [
+            "profound",
+            "penetrating",
+            "erudite",
+            "exhaustive",
+            "cursory",
+            "glib"
+          ],
+          "answers": [
+            "profound",
+            "penetrating"
+          ]
+        }
+      ],
+      "words": [
+        "profound"
+      ],
+      "explanation": "Tracing a crisis to its root is depth rather than breadth, so profound and penetrating both fit and yield the same sentence. Erudite and exhaustive are excluded by \"less the range of its citations than,\" which explicitly sets learning and coverage aside, while cursory and glib reverse the praise.",
+      "id": "gregmat23__b5__se__04",
+      "unit": "gregmat23__b5",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from being a local gap in his training, the quartermaster's ignorance of rail scheduling was {1} — it reached down to the arithmetic of loading a single boxcar — and it {2} through the chain of command, each subordinate copying the miscalculation into orders of his own.",
+      "blanks": [
+        {
+          "options": [
+            "profound",
+            "cursory",
+            "superficial"
+          ],
+          "answers": [
+            "profound"
+          ]
+        },
+        {
+          "options": [
+            "propagated",
+            "diffused",
+            "abated"
+          ],
+          "answers": [
+            "propagated"
+          ]
+        }
+      ],
+      "words": [
+        "profound",
+        "propagate"
+      ],
+      "explanation": "\"Far from a local gap\" and \"reached down to\" call for ignorance that goes all the way to the bottom, which is the completeness sense of profound; cursory and superficial describe the shallowness the sentence denies. Blank 2 needs a spread in which every recipient becomes a new source of the error, which is propagate — diffuse would mean the error thinned out as it travelled, not that it was reproduced intact.",
+      "id": "gregmat23__b5__tc2__05",
+      "unit": "gregmat23__b5",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "The libel was not simply {1} from a single London press; because every reader was urged to copy the sheet by hand and pass it to a neighbor, the story {2} through the parishes, each recipient becoming a new point of transmission.",
+      "blanks": [
+        {
+          "options": [
+            "disseminated",
+            "propagated",
+            "aggrandized"
+          ],
+          "answers": [
+            "disseminated"
+          ]
+        },
+        {
+          "options": [
+            "propagated",
+            "dispersed",
+            "subsided"
+          ],
+          "answers": [
+            "propagated"
+          ]
+        }
+      ],
+      "words": [
+        "propagate"
+      ],
+      "explanation": "Blank 1 describes one source scattering copies outward, which is disseminate, and the sentence rejects that model as insufficient. Blank 2 supplies the chain the first blank lacks — copies that make further copies — so propagate is required; disperse would mean the story scattered and thinned rather than replicated.",
+      "id": "gregmat23__b5__tc2__06",
+      "unit": "gregmat23__b5",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "In fiber of this purity a light pulse can {1} for nearly eighty kilometers before the signal must be amplified.",
+      "blanks": [
+        {
+          "options": [
+            "propagate",
+            "disseminate",
+            "disperse",
+            "proliferate",
+            "escalate"
+          ],
+          "answers": [
+            "propagate"
+          ]
+        }
+      ],
+      "words": [
+        "propagate"
+      ],
+      "explanation": "Propagate is the technical verb for a wave or signal travelling onward through a medium, which is exactly what a pulse does in a fiber. Disseminate and disperse require scattering outward from a source, and proliferate and escalate describe growth in quantity or intensity, none of which a single pulse traversing a cable does.",
+      "id": "gregmat23__b5__cloze__07",
+      "unit": "gregmat23__b5",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean: only \"pomposity\" is a foible of the established gentry that would earn \"mild amusement\" and contrast with the contempt reserved for the arriviste; \"modesty\" and \"profundity\" are virtues no one is amused by. Blank 2 is not unique. \"Pretentious\" is the intended fit (he advertises a discernment he does not possess — a claim to merit he lacks), but \"ostentatious\" also genuinely fits: unread first editions and freshly acquired Wagner opinions put on conspicuous display is textbook ostentation, and the sentence's own verb \"advertise\" plus \"merely\" (showy surface, no substance) supports it. A reasonable test-taker choosing \"ostentatious\" would be marked wrong on a distinction the sentence never forces. To fix, replace \"ostentatious\" with a decoy that cannot describe showy display (e.g. \"diffident\" or \"meticulous\"), or sharpen the cue toward falsity (\"a fraud he cannot sustain\") so ostentation reads as too weak.",
+      "stem": "Wharton grants the old families a mild amusement at their {1}, reserving her contempt for the arriviste whose unread first editions and freshly acquired opinions on Wagner advertise a discernment he does not possess and so strike her as merely {2}."
+    }
+  ]
+}

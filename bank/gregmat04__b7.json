@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat04__b7",
+  "gregmat_group": 4,
+  "words": [
+    "tranquil",
+    "vacillate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Critics who take Constable's late canvases as documentary evidence forget how {1} his Suffolk actually was: the decade he painted saw rick-burnings and machine-breaking across the county, and the {2} afternoons of his pictures were an act of deliberate nostalgic invention.",
+      "blanks": [
+        {
+          "options": [
+            "turbulent",
+            "placid",
+            "quiescent"
+          ],
+          "answers": [
+            "turbulent"
+          ]
+        },
+        {
+          "options": [
+            "tranquil",
+            "fraught",
+            "restive"
+          ],
+          "answers": [
+            "tranquil"
+          ]
+        }
+      ],
+      "words": [
+        "tranquil"
+      ],
+      "explanation": "The colon explains the misreading: the real county was convulsed by arson and riot, so the first blank must be turbulent, and the painted afternoons must be its warm opposite. Tranquil is exactly right for a scene or moment that seems never to have been disturbed at all, whereas fraught and restive would describe the unrest rather than the invention; quiescent in the first blank would mean merely dormant, which cannot be squared with rick-burnings.",
+      "id": "gregmat04__b7__tc2__00",
+      "unit": "gregmat04__b7",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "Tourists come away with an image of the fjord as {1} — an unbroken mirror at dusk, the fishing boats motionless against the cliffs — even though winter gales make it one of the most treacherous stretches of the Norwegian coast.",
+      "blanks": [
+        {
+          "options": [
+            "tranquil",
+            "placid",
+            "tempestuous",
+            "turbulent",
+            "restive",
+            "subdued"
+          ],
+          "answers": [
+            "tranquil",
+            "placid"
+          ]
+        }
+      ],
+      "words": [
+        "tranquil"
+      ],
+      "explanation": "The appositive — an unbroken mirror, motionless boats — fixes the blank as undisturbed stillness, which both tranquil and placid supply, and both attach naturally to water and to scenery. Subdued fits the tone but means muted or held down, a calm imposed on something, not a surface that appears never to have been troubled; tempestuous and turbulent describe the winter gales the sentence concedes, not the picture the tourists carry away.",
+      "id": "gregmat04__b7__se__01",
+      "unit": "gregmat04__b7",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from being the {1} pragmatist his defenders describe, Buchanan {2} for months over Fort Sumter, ordering the garrison reinforced, countermanding the order, and then reinstating it, until the decision was taken out of his hands entirely.",
+      "blanks": [
+        {
+          "options": [
+            "resolute",
+            "capricious",
+            "timorous"
+          ],
+          "answers": [
+            "resolute"
+          ]
+        },
+        {
+          "options": [
+            "vacillated",
+            "demurred",
+            "equivocated"
+          ],
+          "answers": [
+            "vacillated"
+          ]
+        }
+      ],
+      "words": [
+        "vacillate"
+      ],
+      "explanation": "The catalogue of orders given, revoked, and reissued is visible motion over time, which is precisely vacillated; equivocated would mean speaking so as to avoid committing himself, and demurred would mean objecting rather than reversing. Since \"far from\" demands the opposite of that record, the first blank must be resolute — capricious and timorous would describe the same failing the sentence is exposing, not the virtue his defenders claim.",
+      "id": "gregmat04__b7__tc2__02",
+      "unit": "gregmat04__b7",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "Where Lincoln's cabinet complained that their president merely moved slowly, the ministers of Napoleon III complained that he {1}: a scheme approved in the morning would be withdrawn by evening and revived, unaltered, the following week.",
+      "blanks": [
+        {
+          "options": [
+            "vacillated",
+            "demurred",
+            "equivocated",
+            "capitulated",
+            "persevered"
+          ],
+          "answers": [
+            "vacillated"
+          ]
+        }
+      ],
+      "words": [
+        "vacillate"
+      ],
+      "explanation": "The clause after the colon describes a decision made, unmade, and remade — a countable pattern of reversals, which is what vacillated names and what distinguishes it from slowness. Equivocated would require evasive language rather than reversed decisions, demurred would mean he objected, and capitulated and persevered each describe settling on one course rather than oscillating between them.",
+      "id": "gregmat04__b7__cloze__03",
+      "unit": "gregmat04__b7",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat18__b5",
+  "gregmat_group": 18,
+  "words": [
+    "modest",
+    "noxious",
+    "pernicious",
+    "predicament"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though its sponsors had promised a breakthrough therapy, the trial yielded only {1} improvements in survival, which the company's press office nonetheless announced with a {2} that the data plainly could not sustain.",
+      "blanks": [
+        {
+          "options": [
+            "modest",
+            "laudable",
+            "insidious"
+          ],
+          "answers": [
+            "modest"
+          ]
+        },
+        {
+          "options": [
+            "bravado",
+            "reticence",
+            "deference"
+          ],
+          "answers": [
+            "bravado"
+          ]
+        }
+      ],
+      "words": [
+        "modest"
+      ],
+      "explanation": "\"Only\" plus the broken promise of a breakthrough demands a word that concedes the gains were real but underwhelming, which is exactly modest in its measuring sense; laudable is praise, and praise would make the second half's complaint incoherent, since the boasting would then be earned. Insidious describes hidden harm and cannot modify improvements at all. In the second blank only bravado — swagger beyond what the evidence supports — matches \"could not sustain\"; reticence and deference would be understatement, not overreach.",
+      "id": "gregmat18__b5__tc2__00",
+      "unit": "gregmat18__b5",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "For a man whose fortune had reshaped three industries, his bearing at the dinner was strikingly {1}: he told no stories of his own triumphs and mentioned the collection upstairs only when a guest pressed him about it.",
+      "blanks": [
+        {
+          "options": [
+            "modest",
+            "understated",
+            "bombastic",
+            "pretentious",
+            "obsequious",
+            "imperious"
+          ],
+          "answers": [
+            "modest",
+            "understated"
+          ]
+        }
+      ],
+      "words": [
+        "modest"
+      ],
+      "explanation": "The evidence given — no self-advertisement, no display of wealth — describes a man who declines to trade on what he plainly has, so modest and understated both yield the same sentence. Bombastic and pretentious reverse it, and while obsequious and imperious both fit the grammar and the formal register, fawning and domineering are not the same thing as declining to boast.",
+      "id": "gregmat18__b5__se__01",
+      "unit": "gregmat18__b5",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The mill's smokestacks poured out fumes {1} enough to scar the lungs of anyone who worked a shift beneath them; more {2} still, and far slower to be undone, was the doctrine the owners quietly propagated for a generation — that such injuries were simply the price of prosperity.",
+      "blanks": [
+        {
+          "options": [
+            "noxious",
+            "obnoxious",
+            "salutary"
+          ],
+          "answers": [
+            "noxious"
+          ]
+        },
+        {
+          "options": [
+            "pernicious",
+            "conspicuous",
+            "salubrious"
+          ],
+          "answers": [
+            "pernicious"
+          ]
+        }
+      ],
+      "words": [
+        "noxious",
+        "pernicious"
+      ],
+      "explanation": "Scarred lungs mean literal bodily injury, which is noxious; obnoxious fumes would merely offend the nose, and salutary would mean health-giving. The second blank shifts from a substance to a doctrine spread quietly over a generation and morally condemned, the signature use of pernicious; conspicuous contradicts \"quietly propagated,\" and salubrious again reverses the sense.",
+      "id": "gregmat18__b5__tc2__02",
+      "unit": "gregmat18__b5",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians now treat the \"safety valve\" thesis as a {1} myth: for half a century it excused the misery of eastern factory towns by insisting that any dissatisfied laborer could simply go west and take up land.",
+      "blanks": [
+        {
+          "options": [
+            "pernicious",
+            "pertinent",
+            "pertinacious",
+            "impertinent",
+            "perspicacious"
+          ],
+          "answers": [
+            "pernicious"
+          ]
+        }
+      ],
+      "words": [
+        "pernicious"
+      ],
+      "explanation": "The myth did its damage slowly, invisibly, and morally — it licensed indifference to suffering for fifty years — which is precisely pernicious. The other options are its lookalikes with unrelated meanings: pertinent is relevant, pertinacious is stubbornly persistent, impertinent is insolent, and perspicacious is keenly discerning, and a myth that was discerning would not need excusing.",
+      "id": "gregmat18__b5__cloze__03",
+      "unit": "gregmat18__b5",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Having assured the board that the merger would require no new financing, the chief executive found himself in a {1} of his own making when the lenders balked: he could either publicly {2} the assurance he had given or watch the deal collapse.",
+      "blanks": [
+        {
+          "options": [
+            "predicament",
+            "contretemps",
+            "vindication"
+          ],
+          "answers": [
+            "predicament"
+          ]
+        },
+        {
+          "options": [
+            "repudiate",
+            "corroborate",
+            "reiterate"
+          ],
+          "answers": [
+            "repudiate"
+          ]
+        }
+      ],
+      "words": [
+        "predicament"
+      ],
+      "explanation": "\"Of his own making\" and the two costly exits mark a sustained bind he walked into, the idiomatic home of predicament; a contretemps is a brief social mishap, and vindication would mean he was proved right. The second blank must name the option that saves the deal at a price, so it has to be taking back the assurance — reiterating or corroborating it would leave the financing gap untouched and the deal collapsing anyway.",
+      "id": "gregmat18__b5__tc2__05",
+      "unit": "gregmat18__b5",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "The 1858 sanitary report attributed the epidemic to the {1} vapors rising off the Thames at low tide, an explanation that held until Snow traced the outbreak to a single contaminated pump.",
+      "blanks": [
+        {
+          "options": [
+            "noxious",
+            "obnoxious",
+            "benign",
+            "salubrious",
+            "superfluous"
+          ],
+          "answers": [
+            "noxious"
+          ]
+        }
+      ],
+      "words": [
+        "noxious"
+      ],
+      "explanation": "Miasma theory held that the river air actually caused disease, so the vapors must be described as physically injurious — noxious. Obnoxious would mean only that they were offensive to be near, which would explain no epidemic, and benign and salubrious both attribute health rather than harm.",
+      "id": "gregmat18__b5__cloze__06",
+      "unit": "gregmat18__b5",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The advance was {1} — enough to keep him in rent for a year and no more — so that when he had exhausted it on two years of archival travel, the novelist was in a {2} that no editor felt any obligation to relieve.",
+      "blanks": [
+        {
+          "options": [
+            "modest",
+            "lavish",
+            "laudable"
+          ],
+          "answers": [
+            "modest"
+          ]
+        },
+        {
+          "options": [
+            "predicament",
+            "windfall",
+            "reprieve"
+          ],
+          "answers": [
+            "predicament"
+          ]
+        }
+      ],
+      "words": [
+        "modest",
+        "predicament"
+      ],
+      "explanation": "The dash defines the sum precisely as small but sufficient, which rules out lavish and makes modest the measuring word the sentence has already glossed; laudable would praise the advance rather than size it. Having spent it twice over, he is stuck in trouble he brought on himself, which is a predicament — a windfall or a reprieve would be rescue, and nothing needing relief.",
+      "id": "gregmat18__b5__tc2__07",
+      "unit": "gregmat18__b5",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The intended pair is clearly \"predicament\"/\"quandary\" (a difficult situation with two bad exits), and \"contretemps\" (a minor embarrassing mishap), \"windfall,\" and \"reprieve\" are clean rejects. But \"conundrum\" is a live third option: it is standardly defined as \"a confusing and difficult problem,\" it is commonly used in the idiom \"in a conundrum,\" and it overlaps with \"quandary\" at least as much as \"quandary\" overlaps with \"predicament.\" A test-taker who reads the sentence as describing a perplexing no-win problem could defensibly pick quandary + conundrum and be marked wrong. To make the item unique, drop \"conundrum\" (e.g. replace with a clearly wrong distractor like \"reverie\" or \"sinecure\"), or add wording that stresses being trapped in a situation rather than facing a puzzle.",
+      "stem": "Ordered to hold a position he knew to be indefensible, the colonel was in a {1}: withdrawing would expose the flank of an allied division, while obeying would cost him his battalion."
+    }
+  ]
+}

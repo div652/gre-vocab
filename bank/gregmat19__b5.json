@@ -1,0 +1,210 @@
+{
+  "unit": "gregmat19__b5",
+  "gregmat_group": 19,
+  "words": [
+    "noble",
+    "parochial",
+    "pedestrian",
+    "prevaricate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Historians of the reign have found the king's conduct difficult to reconcile: releasing his captives without ransom, at ruinous cost to a treasury already strained by war, looks {1} in the extreme, yet the same monarch spent his last decade prosecuting {2} quarrels over precedence at court that no one outside the palace walls could be brought to care about.",
+      "blanks": [
+        {
+          "options": [
+            "noble",
+            "captious",
+            "pedantic"
+          ],
+          "answers": [
+            "noble"
+          ]
+        },
+        {
+          "options": [
+            "parochial",
+            "august",
+            "magnanimous"
+          ],
+          "answers": [
+            "parochial"
+          ]
+        }
+      ],
+      "words": [
+        "noble",
+        "parochial"
+      ],
+      "explanation": "The first blank needs decency at altitude — a principle upheld at genuine personal cost — which is exactly noble; captious and pedantic describe fault-finding and fussiness, the opposite of the elevation the sentence describes. The second blank is governed by \"no one outside the palace walls could be brought to care\": that is the signature of parochial, whose giveaway is not stubbornness but stakes too small for any outsider. August would make the squabbles imposing rather than trivial, and magnanimous would praise them.",
+      "id": "gregmat19__b5__tc2__00",
+      "unit": "gregmat19__b5",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Having crushed the rebellion within a single season, the young emperor proved so {1} in victory — no confiscations, no trials, a general amnesty — that his own councillors accused him of rewarding treason.",
+      "blanks": [
+        {
+          "options": [
+            "magnanimous",
+            "noble",
+            "august",
+            "redoubtable",
+            "captious",
+            "pedestrian"
+          ],
+          "answers": [
+            "magnanimous",
+            "noble"
+          ]
+        }
+      ],
+      "words": [
+        "noble"
+      ],
+      "explanation": "The listed clemencies are all forgone advantages, so the blank must name generosity that rises above revenge: magnanimous and noble both do, and yield sentences of equivalent force. August and redoubtable describe the awe or dread a figure commands rather than what he surrenders, and neither idiomatically modifies conduct \"in victory\" this way; captious and pedestrian are simply the wrong register of judgment.",
+      "id": "gregmat19__b5__se__01",
+      "unit": "gregmat19__b5",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "Billed at its founding as a review that would range across continents, the magazine in its first year printed only {1} notices of small local exhibitions, and printed them in a prose so {2} that even its most sympathetic subscribers could find nothing worth quoting aloud.",
+      "blanks": [
+        {
+          "options": [
+            "parochial",
+            "august",
+            "redoubtable"
+          ],
+          "answers": [
+            "parochial"
+          ]
+        },
+        {
+          "options": [
+            "pedestrian",
+            "magisterial",
+            "captious"
+          ],
+          "answers": [
+            "pedestrian"
+          ]
+        }
+      ],
+      "words": [
+        "parochial",
+        "pedestrian"
+      ],
+      "explanation": "The promised sweep \"across continents\" sets up the reversal the first blank must deliver: coverage that never looks past its own small patch, which is parochial. The second blank must name competent writing that fails to lift — pedestrian, whose metaphor is plodding rather than badness; magisterial would make the prose commanding, and captious would make it carping rather than dull.",
+      "id": "gregmat19__b5__tc2__03",
+      "unit": "gregmat19__b5",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Kasparov dismissed the engine's early games as {1}: it never blundered, never risked anything, and never produced a move that a strong club player could not have found for himself.",
+      "blanks": [
+        {
+          "options": [
+            "pedestrian",
+            "pedantic",
+            "didactic",
+            "abstruse",
+            "redoubtable"
+          ],
+          "answers": [
+            "pedestrian"
+          ]
+        }
+      ],
+      "words": [
+        "pedestrian"
+      ],
+      "explanation": "The verdict grants competence and denies inspiration — sound play that never rises above the ordinary — which is the critic's sense of pedestrian. Pedantic and didactic are its lookalikes but concern fussiness over detail and a compulsion to instruct, neither of which is at issue in a chess game; abstruse would mean the moves were hard to follow, the reverse of the complaint.",
+      "id": "gregmat19__b5__cloze__05",
+      "unit": "gregmat19__b5",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "The contrast between the two witnesses was instructive: where the engineer was {1} to the point of self-incrimination, volunteering dates and memoranda no one had asked him for, the chief executive {2} for three hours, never uttering a demonstrable falsehood and never once answering the question actually put to him.",
+      "blanks": [
+        {
+          "options": [
+            "candid",
+            "captious",
+            "parochial"
+          ],
+          "answers": [
+            "candid"
+          ]
+        },
+        {
+          "options": [
+            "prevaricated",
+            "averred",
+            "forbore"
+          ],
+          "answers": [
+            "prevaricated"
+          ]
+        }
+      ],
+      "words": [
+        "prevaricate"
+      ],
+      "explanation": "\"Volunteering... no one had asked for\" fixes the first blank as candid, straightforwardness carried past self-interest; captious and parochial describe carping and narrowness, neither of which explains self-incrimination. The second blank needs a sustained evasion that stops short of lying — prevaricated — since averred means to assert positively and forbore means to hold back from acting, and only prevaricate covers three hours of shifting ground.",
+      "id": "gregmat19__b5__tc2__06",
+      "unit": "gregmat19__b5",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Pressed for a fourth time on when the company had learned of the defect, the spokesman continued to {1}, offering assurances that were technically accurate and answers that fit questions no one had asked.",
+      "blanks": [
+        {
+          "options": [
+            "prevaricate",
+            "equivocate",
+            "fabricate",
+            "aver",
+            "demur",
+            "expostulate"
+          ],
+          "answers": [
+            "prevaricate",
+            "equivocate"
+          ]
+        }
+      ],
+      "words": [
+        "prevaricate"
+      ],
+      "explanation": "Both prevaricate and equivocate name evasion that misleads without committing to a falsehood, which is exactly what \"technically accurate\" preserves. Fabricate is the trap for readers who skim, but it requires inventing something false, which the sentence rules out; aver means to assert flatly, demur means to object or hesitate to comply, and expostulate means to protest — none describes a dodge.",
+      "id": "gregmat19__b5__se__07",
+      "unit": "gregmat19__b5",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Parochial\" is the best fit — the colon gloss (\"no one beyond those two corridors could be made to care\") defines the dispute as being of merely local, petty interest, which is parochial's core sense. But \"insular\" is genuinely defensible: standard dictionary sense includes \"reflecting a narrow, provincial viewpoint,\" making it a near-synonym of parochial in exactly this use. The opening clause (\"neither faculty was in any sense cut off from the wider field\") is presumably meant to block insular by pre-empting the \"isolated\" reading, but the concessive \"and yet\" actually invites the contrast — outward-facing institutions, yet an inward-turned quarrel — so a careful test-taker can build a clean case for \"insular\" and would be marked wrong. Xenophobic, pedestrian, and august are cleanly excluded.",
+      "stem": "Neither faculty was in any sense cut off from the wider field — both recruited internationally and published abroad — and yet the dispute that consumed them for two years, over which department's name would head the funding application, was {1} in the extreme: no one beyond those two corridors could be made to care."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The blank needs \"dull/uninspired,\" and three options carry that sense: pedestrian, prosaic, and banal. The opening clause (\"he never borrowed; every theme was his own invention\") is clearly engineered to knock out the staleness words, and it does exclude \"hackneyed\" (which strictly means recycled from overuse). But \"banal\" does not require derivation — a wholly original tune can be banal, i.e. obvious, insipid, \"entirely without lift.\" A test-taker could reasonably answer prosaic + banal or pedestrian + banal and produce a coherent, near-equivalent sentence, so the pair is not uniquely determined. \"August\" and \"painstaking\" are clean distractors, but the three-way overlap among pedestrian/prosaic/banal is a real defect.",
+      "stem": "Whatever else might be charged against the composer, he never borrowed: every theme in the score was his own invention, and every one of them {1} — competent, forward-moving, and entirely without lift."
+    }
+  ]
+}

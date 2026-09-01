@@ -1,0 +1,130 @@
+{
+  "unit": "gregmat05__b4",
+  "gregmat_group": 5,
+  "words": [
+    "laudable",
+    "lax",
+    "marginalize",
+    "panache"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The charity's aim — to rehouse every family displaced by the flood within a single year — was {1}, but its {2} vetting of the contractors it hired meant that a third of the promised units were never built at all.",
+      "blanks": [
+        {
+          "options": [
+            "laudable",
+            "perfunctory",
+            "scathing"
+          ],
+          "answers": [
+            "laudable"
+          ]
+        },
+        {
+          "options": [
+            "lax",
+            "punctilious",
+            "meticulous"
+          ],
+          "answers": [
+            "lax"
+          ]
+        }
+      ],
+      "words": [
+        "laudable",
+        "lax"
+      ],
+      "explanation": "The \"but\" demands praise for the aim followed by the failure that undid it: laudable is exactly the word for commending an intention whose result fell short, while perfunctory and scathing are both hostile and would leave nothing for the contrast to turn on. In the second blank, lax names slackness where strictness was owed — the vetting that let bad contractors through; punctilious and meticulous would describe careful vetting and so could not explain the unbuilt units.",
+      "id": "gregmat05__b4__tc2__00",
+      "unit": "gregmat05__b4",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Where his predecessor had drawn a careful, metronomic Beethoven from the orchestra, the young conductor took the finale with such {1} that the brass seemed to be daring the audience to sit still.",
+      "blanks": [
+        {
+          "options": [
+            "panache",
+            "verve",
+            "aplomb",
+            "circumspection",
+            "restraint",
+            "fastidiousness"
+          ],
+          "answers": [
+            "panache",
+            "verve"
+          ]
+        }
+      ],
+      "words": [
+        "panache"
+      ],
+      "explanation": "The contrast with a careful, metronomic reading calls for dash and high spirits, and panache and verve both supply it. Aplomb is the trap: it means unruffled composure under pressure, which is compatible with a metronomic performance and therefore does not create the contrast; circumspection, restraint and fastidiousness all describe the predecessor instead.",
+      "id": "gregmat05__b4__se__02",
+      "unit": "gregmat05__b4",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Reformers objected that the new committee structure, however unintentionally, {1} precisely those residents whose neighborhoods the plan would remake: they kept their seats, but somehow never their turn to speak.",
+      "blanks": [
+        {
+          "options": [
+            "marginalized",
+            "sidelined",
+            "banished",
+            "lionized",
+            "subsumed",
+            "excoriated"
+          ],
+          "answers": [
+            "marginalized",
+            "sidelined"
+          ]
+        }
+      ],
+      "words": [
+        "marginalize"
+      ],
+      "explanation": "\"However unintentionally\" and \"kept their seats, but never their turn to speak\" describe people left present yet unheard, with no villain to name: marginalized and sidelined both capture that and are interchangeable here. Banished contradicts their keeping their seats; excoriated would mean the structure denounced them, subsumed would mean it absorbed them, and lionized reverses the complaint entirely.",
+      "id": "gregmat05__b4__se__07",
+      "unit": "gregmat05__b4",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options are genuinely interchangeable here, not two. \"Lax,\" \"negligent,\" and \"cavalier\" all describe a safety regime that has degenerated into disregard for its own procedures, and all three produce sentences of equivalent meaning given the evidence (untested alarms, forgotten drills). Nothing in the sentence selects failure-of-duty (negligent) over absence-of-strictness (lax) over offhand disregard (cavalier) — \"grown steadily cavalier over two decades\" is fully idiomatic. \"Cursory\" is a weaker fourth candidate (it fits inspections better than a regime) but is not clearly excluded either. The meticulous/punctilious pair is a clean reverse-direction trap, but the intended pair among the negative words is undeterminable. Fix by removing one of lax/negligent/cavalier and replacing it with a distractor that is negative but not synonymous (e.g. \"brittle\" or \"adversarial\").",
+      "stem": "Investigators traced the explosion less to any single mistake than to a safety regime that had grown steadily {1} over two decades: alarms went untested for years, and no supervisor could recall the last evacuation drill."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean: \"no better than ___\" plus \"safe tempos, unremarkable phrasing\" plus the concessive \"yet\" forces a middling positive — \"competent\" (exemplary contradicts the deflating clues; slovenly would make \"no better than\" nonsensical and clashes with \"technically\"). Blank 2 is the defect. \"Panache\" and \"verve\" are near-synonyms in exactly the register the sentence needs, and the sentence does not cleanly separate them. The intended discriminator is presumably \"pitched squarely at the gallery and held a beat too long\" = deliberate showmanship, which is panache's core (flamboyant display). But \"verve\" (dash, spirit, brio) collocates just as naturally with \"flung off the final cadenza\" and is fully compatible with a showy, crowd-pleasing flourish — a reasonable test-taker choosing it would be marked wrong on a shade of connotation, not on evidence in the sentence. Only \"aplomb\" (composure under pressure, not display) is safely excluded. To make it unique, blank 2 needs a clue that rewards flamboyance specifically and penalizes mere energy — e.g. contrasting the showiness with the playing's actual musical content, or wording that makes the gesture theatrical rather than vigorous.",
+      "stem": "Technically the debut was no better than {1} — the tempos safe, the phrasing unremarkable — yet the {2} with which she flung off the final cadenza, the closing flourish pitched squarely at the gallery and held a beat too long for anyone to miss it, was what made her name."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"relegate\" is a second defensible answer. The sentence's only constraint is \"not barred outright, but pushed into inferior/peripheral standing,\" and both marginalize and relegate satisfy it. The explanatory clause (\"given the piecework that led nowhere\") actually describes consignment to lower-grade work, which points at relegate as strongly as the excluded-from-councils detail points at marginalize. The common objection that relegate requires a \"to X\" complement fails — absolute usage is idiomatic (\"did not abolish the office so much as relegate it\"). banish and proscribe are clearly wrong (they mean the outright barring the sentence denies), and excoriate is wrong in sense and register, so the item is a genuine two-way split between the remaining pair. Needs revision to isolate the center/periphery sense unique to marginalize.",
+      "stem": "Historians of the medieval guilds now argue that the statutes did not so much bar women from the trades as quietly {1} them: nominally eligible, they were given the piecework that led nowhere and were never summoned to the councils where prices were fixed."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is not constrained. \"Grants flowed to whichever applicants kept lawyers on retainer\" is compatible with both polarities: lax enforcement (eligibility rules never applied, so legal muscle decides outcomes) and stringent/punctilious enforcement (rules so exacting that only applicants with standing counsel can comply). Both readings yield the same blank-2 outcome — rural co-ops \"further marginalized\" — so blank 2 provides no disambiguating leverage. If anything, \"lawyers on retainer\" is more naturally explained by hyper-technical enforcement, so a test-taker choosing \"stringent\" is reasoning soundly and would be marked wrong. Compounding this, \"stringent\" and \"punctilious\" are near-synonyms in this context, so neither could be the key without the other being equally defensible; that construction quirk is the only reason to infer \"lax\" was intended, which is an artifact of test conventions rather than anything the sentence says. Fix by adding a signal that fixes the polarity — e.g. \"so lax that no one checked whether applicants met the eligibility criteria at all\" or \"so punctilious that a single misfiled form voided an application.\"",
+      "stem": "Because the agency's enforcement of the participation rules was so {1}, grants flowed to whichever applicants kept lawyers on retainer, and the rural cooperatives the program had been written to serve found themselves further {2} by a scheme meant to lift them."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options are genuine synonyms and both satisfy the sentence: \"laudable\" and \"meritorious\" each mean \"deserving praise,\" which is exactly what the \"and yet\" contrast (failed machines vs. admired ambition) demands. The sentence supplies no further constraint — no register, scope, or nuance cue — that would rule out \"meritorious.\" The only thing favoring \"laudable\" is collocation (\"a laudable ambition/goal\" is the more idiomatic pairing), which is not a defensible basis for marking \"meritorious\" wrong. The three distractors (passable, competent, perfunctory) are cleanly eliminated, so the question effectively has two credited-quality answers on a single-blank cloze. Fix by replacing \"meritorious\" with a distractor that fails the contrast, or by adding a cue that selects a specific shade of praise.",
+      "stem": "Every one of Babbage's calculating engines went unfinished in his lifetime, and yet the ambition behind them — to mechanize the entire labor of computation — strikes modern engineers as entirely {1}."
+    }
+  ]
+}

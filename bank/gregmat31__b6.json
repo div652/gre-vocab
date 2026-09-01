@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat31__b6",
+  "gregmat_group": 31,
+  "words": [
+    "sinuous",
+    "sordid",
+    "stanch",
+    "surfeit"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The guidebook had promised a {1} coastal drive, all long curves the author claimed to relish; what the family actually met was a {2} sequence of switchbacks that left three of them carsick and the driver white-knuckled.",
+      "blanks": [
+        {
+          "options": [
+            "sinuous",
+            "tortuous",
+            "staid"
+          ],
+          "answers": [
+            "sinuous"
+          ]
+        },
+        {
+          "options": [
+            "tortuous",
+            "sinuous",
+            "copious"
+          ],
+          "answers": [
+            "tortuous"
+          ]
+        }
+      ],
+      "words": [
+        "sinuous"
+      ],
+      "explanation": "Both blanks describe curving roads, but the sentence sets an admiring promise against a punishing reality: curves the writer \"claimed to relish\" call for sinuous, the word that finds winding graceful, while carsickness and white knuckles call for tortuous, the same twisting experienced as an ordeal. Staid (sedate, sober) contradicts a road made of long curves, and copious describes quantity, not the quality that sickens passengers.",
+      "id": "gregmat31__b6__tc2__00",
+      "unit": "gregmat31__b6",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "Art Nouveau designers abandoned the right angle almost entirely, letting {1} lines of wrought iron run through balcony, banister, and doorframe with a suppleness that struck contemporaries as almost botanical.",
+      "blanks": [
+        {
+          "options": [
+            "sinuous",
+            "tortuous",
+            "sordid",
+            "staid",
+            "profuse"
+          ],
+          "answers": [
+            "sinuous"
+          ]
+        }
+      ],
+      "words": [
+        "sinuous"
+      ],
+      "explanation": "Sinuous names curving that is graceful and unbroken, which is exactly what \"suppleness\" and the vegetal comparison require. Tortuous would import difficulty and strain, at odds with lines that run and flow; staid means sober and unmoving, and profuse speaks to quantity rather than to shape.",
+      "id": "gregmat31__b6__cloze__01",
+      "unit": "gregmat31__b6",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Engels's chapters on Manchester dwell on the {1} courts behind the mills: cellars streaming with damp, refuse heaped against the doors, three families to a single room.",
+      "blanks": [
+        {
+          "options": [
+            "squalid",
+            "sordid",
+            "spartan",
+            "austere",
+            "pristine",
+            "cloistered"
+          ],
+          "answers": [
+            "squalid",
+            "sordid"
+          ]
+        }
+      ],
+      "words": [
+        "sordid"
+      ],
+      "explanation": "The catalogue of damp, refuse, and overcrowding demands the sense of physical filth, and sordid retains that literal squalor alongside its moral sense, making it and squalid equivalent here. Spartan and austere denote deliberate bareness rather than dirt, pristine reverses the meaning, and cloistered concerns seclusion, not condition.",
+      "id": "gregmat31__b6__se__02",
+      "unit": "gregmat31__b6",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "The biographer resists the temptation to make her subject a monster: the betrayals she documents are not acts of grand {1} but something far more {2} — small sums borrowed and never repaid, a dead friend's letters quietly sold to a rival.",
+      "blanks": [
+        {
+          "options": [
+            "depravity",
+            "penury",
+            "prodigality"
+          ],
+          "answers": [
+            "depravity"
+          ]
+        },
+        {
+          "options": [
+            "sordid",
+            "pernicious",
+            "virulent"
+          ],
+          "answers": [
+            "sordid"
+          ]
+        }
+      ],
+      "words": [
+        "sordid"
+      ],
+      "explanation": "The sentence scales evil down, so the first blank must name the grand version it rejects — depravity — while the second names the cheap, embarrassing alternative illustrated by petty theft and sold letters, which is precisely sordid. Penury (poverty) and prodigality (wastefulness) are not forms of wickedness at all, and pernicious and virulent describe how much harm something does rather than how shabby the motive is.",
+      "id": "gregmat31__b6__tc2__03",
+      "unit": "gregmat31__b6",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "The central bank's weekend guarantee was intended not to cure the underlying insolvency but merely to {1} the outflow of deposits until markets reopened on Monday.",
+      "blanks": [
+        {
+          "options": [
+            "stanch",
+            "inundate",
+            "substantiate",
+            "adulterate",
+            "forbear"
+          ],
+          "answers": [
+            "stanch"
+          ]
+        }
+      ],
+      "words": [
+        "stanch"
+      ],
+      "explanation": "Stanch means to stop a flow already escaping — blood, money, members — and it implies containment rather than cure, which the sentence explicitly contrasts with curing insolvency. Inundate reverses the direction, substantiate means to support with evidence, adulterate means to corrupt by dilution, and forbear means to refrain from acting.",
+      "id": "gregmat31__b6__cloze__04",
+      "unit": "gregmat31__b6",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "Emergency transfers could {1} the immediate hemorrhage of specie from the Treasury, but critics observed that such measures are inherently {2}: they hold a crisis in check without touching the fiscal rot that produced it.",
+      "blanks": [
+        {
+          "options": [
+            "stanch",
+            "exacerbate",
+            "substantiate"
+          ],
+          "answers": [
+            "stanch"
+          ]
+        },
+        {
+          "options": [
+            "palliative",
+            "curative",
+            "gratuitous"
+          ],
+          "answers": [
+            "palliative"
+          ]
+        }
+      ],
+      "words": [
+        "stanch"
+      ],
+      "explanation": "A hemorrhage is a flow in progress, so the first blank takes stanch, the verb of pressure on the wound; exacerbate would worsen it and substantiate has nothing to do with flows. The colon then defines the second blank as containment without cure, which is palliative — curative asserts the opposite, and gratuitous means uncalled-for.",
+      "id": "gregmat31__b6__tc2__05",
+      "unit": "gregmat31__b6",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "A reading public long {1} with heroic biography turned instead to the diaries of clerks and shopkeepers, finding in their {2} record of grain prices and rainfall a welcome relief from greatness.",
+      "blanks": [
+        {
+          "options": [
+            "surfeited",
+            "bereft",
+            "enthralled"
+          ],
+          "answers": [
+            "surfeited"
+          ]
+        },
+        {
+          "options": [
+            "unadorned",
+            "grandiloquent",
+            "exorbitant"
+          ],
+          "answers": [
+            "unadorned"
+          ]
+        }
+      ],
+      "words": [
+        "surfeit"
+      ],
+      "explanation": "The turn away from greatness is explained only if readers had been fed heroic lives past the point of appetite, which is the verb surfeit; bereft would leave them hungry for more heroes, and enthralled would give them no reason to defect. The second blank must match prices and rainfall as an antidote to grandeur, so unadorned fits while grandiloquent reintroduces the very inflation being escaped and exorbitant misapplies excess to a plain ledger.",
+      "id": "gregmat31__b6__tc2__07",
+      "unit": "gregmat31__b6",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options — surfeit, glut, and profusion — all fit the sentence, so no unique pair exists. The sentence only requires \"an overwhelming quantity\"; \"such a profusion of documentation that jurors... stopped glancing at the exhibits\" reads perfectly idiomatically. \"Surfeit\" and \"glut\" are the tighter pair because both specifically denote excess beyond what is wanted (matching \"sated\"), but a reasonable test-taker could pair \"profusion\" with either one and be marked wrong. To fix, drop \"profusion\" (or replace it with a non-quantity distractor); \"dearth\"/\"paucity\" (opposite) and \"miscellany\" (variety, not volume) are correctly excluded.",
+      "stem": "Rather than clarifying the case, the prosecution produced such a {1} of documentation that jurors, sated by the second afternoon, stopped so much as glancing at the exhibits."
+    }
+  ]
+}

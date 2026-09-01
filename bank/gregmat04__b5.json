@@ -1,0 +1,255 @@
+{
+  "unit": "gregmat04__b5",
+  "gregmat_group": 4,
+  "words": [
+    "polemical",
+    "precipitate",
+    "profundity",
+    "prophetic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the pamphlet is shelved with Milton's treatises, it was never meant as {1} inquiry; it is {2} from its opening line, built to leave one named opponent's position in ruins.",
+      "blanks": [
+        {
+          "options": [
+            "disinterested",
+            "tendentious",
+            "invidious"
+          ],
+          "answers": [
+            "disinterested"
+          ]
+        },
+        {
+          "options": [
+            "polemical",
+            "discursive",
+            "equitable"
+          ],
+          "answers": [
+            "polemical"
+          ]
+        }
+      ],
+      "words": [
+        "polemical"
+      ],
+      "explanation": "The concessive \"though\" sets a genuine weighing of evidence against declared combat, so blank 1 needs the impartiality word, disinterested, and blank 2 the word for writing designed to demolish, polemical. Tendentious and invidious would make blank 1 restate rather than oppose blank 2, and equitable in blank 2 contradicts \"leave his opponent's position in ruins.\"",
+      "id": "gregmat04__b5__tc2__00",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "The book is {1} rather than merely biased: Hazlitt announces his adversaries on the second page and devotes the remaining three hundred to dismantling them.",
+      "blanks": [
+        {
+          "options": [
+            "polemical",
+            "tendentious",
+            "partial",
+            "chauvinistic",
+            "invidious"
+          ],
+          "answers": [
+            "polemical"
+          ]
+        }
+      ],
+      "words": [
+        "polemical"
+      ],
+      "explanation": "\"Rather than merely biased\" explicitly rules out the slant words — tendentious, partial and chauvinistic all mean tilted toward one side — and asks for something stronger: openly declared attack, which is polemical. Invidious means calculated to arouse ill will or resentment, a matter of effect on bystanders rather than of demolishing an argument.",
+      "id": "gregmat04__b5__cloze__01",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "The treaty did not create the rivalry between the two courts; it merely {1} a war that decades of dynastic maneuvering had already made all but inevitable, and its signatories were afterward blamed for failing to {2} an outcome any patient observer could see coming.",
+      "blanks": [
+        {
+          "options": [
+            "precipitated",
+            "forestalled",
+            "obviated"
+          ],
+          "answers": [
+            "precipitated"
+          ]
+        },
+        {
+          "options": [
+            "avert",
+            "foment",
+            "hasten"
+          ],
+          "answers": [
+            "avert"
+          ]
+        }
+      ],
+      "words": [
+        "precipitate"
+      ],
+      "explanation": "Blank 1 needs the verb for tipping over a crisis that was already loaded — precipitated — since forestalled and obviated would mean the treaty prevented the war the clause says it brought on. Blank 2 must be the heading-off verb, avert, because the signatories are blamed for failing to do it; foment and hasten would make them culpable for succeeding at something.",
+      "id": "gregmat04__b5__tc2__02",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "The general's {1} assault — launched before his siege guns had come within range of the walls — cost him a position that one more week of patience would have handed him intact.",
+      "blanks": [
+        {
+          "options": [
+            "precipitate",
+            "impetuous",
+            "judicious",
+            "chary",
+            "propitious",
+            "tendentious"
+          ],
+          "answers": [
+            "precipitate",
+            "impetuous"
+          ]
+        }
+      ],
+      "words": [
+        "precipitate"
+      ],
+      "explanation": "The dash clause specifies an attack made before conditions were ripe, so the blank must mean rashly premature: precipitate and impetuous both deliver that, precipitate stressing the bad timing and impetuous the haste of the actor. Judicious and chary make the general careful, contradicting the sentence; propitious describes favorable circumstances rather than a person's conduct, and tendentious concerns bias in argument.",
+      "id": "gregmat04__b5__se__03",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers mistook the novel's {1} for {2}; in fact its sentences resisted paraphrase not because they had reached the bottom of anything but because they had been contrived to resist it.",
+      "blanks": [
+        {
+          "options": [
+            "obscurity",
+            "lucidity",
+            "candor"
+          ],
+          "answers": [
+            "obscurity"
+          ]
+        },
+        {
+          "options": [
+            "profundity",
+            "pedantry",
+            "superficiality"
+          ],
+          "answers": [
+            "profundity"
+          ]
+        }
+      ],
+      "words": [
+        "profundity"
+      ],
+      "explanation": "\"Resisted paraphrase\" and \"contrived to resist\" identify blank 1 as obscurity, and the denial that the prose \"reached the bottom of anything\" tells us reviewers had credited it with depth, which is profundity. Superficiality is the opposite of what admirers imagined, and pedantry names fussy display of learning, not depth — a difficult surface is being confused here with a deep interior.",
+      "id": "gregmat04__b5__tc2__04",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "What distinguishes Chekhov's late stories is not stylistic novelty but a {1} the early comic sketches never attempt: they go down to the ground of an ordinary unhappiness and stop only there.",
+      "blanks": [
+        {
+          "options": [
+            "profundity",
+            "erudition",
+            "lucidity",
+            "acerbity",
+            "exhaustiveness"
+          ],
+          "answers": [
+            "profundity"
+          ]
+        }
+      ],
+      "words": [
+        "profundity"
+      ],
+      "explanation": "The colon defines the quality as reaching the ground of a subject and going no further, which is depth of insight — profundity. Erudition would credit learning rather than insight, lucidity clarity, acerbity sharpness of tone, and exhaustiveness coverage; none of them is depth, and the stories are praised for what they reach, not for how much they cover.",
+      "id": "gregmat04__b5__cloze__05",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "When it circulated in 1947, the memorandum struck its readers in the department as needlessly {1}; only after the alliance came apart precisely as its author had described did those same readers begin to call it {2}.",
+      "blanks": [
+        {
+          "options": [
+            "alarmist",
+            "prescient",
+            "perfunctory"
+          ],
+          "answers": [
+            "alarmist"
+          ]
+        },
+        {
+          "options": [
+            "prophetic",
+            "ominous",
+            "polemical"
+          ],
+          "answers": [
+            "prophetic"
+          ]
+        }
+      ],
+      "words": [
+        "prophetic"
+      ],
+      "explanation": "\"Needlessly\" plus the later reversal requires a dismissive first blank — alarmist — since prescient would already be the compliment the second half withholds until events confirm it. The second blank is the verdict handed down after the fact, prophetic; ominous would only repeat the foreboding readers had already noticed and dismissed, and says nothing about the forecast having come true.",
+      "id": "gregmat04__b5__tc2__06",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "Composed in the months after Versailles, Keynes's last chapter reads today less as a warning than as an unnervingly {1} account: the resentments he sketched hardened, detail for detail, into the politics of the following decade.",
+      "blanks": [
+        {
+          "options": [
+            "prophetic",
+            "ominous",
+            "polemical",
+            "tendentious",
+            "precipitate"
+          ],
+          "answers": [
+            "prophetic"
+          ]
+        }
+      ],
+      "words": [
+        "prophetic"
+      ],
+      "explanation": "\"Less as a warning than as\" deliberately excludes the foreboding word, ominous, and the confirmation clause — events matched the text detail for detail — supplies the outcome-based verdict, prophetic. Polemical and tendentious describe the chapter's slant rather than its accuracy, and precipitate would describe something brought on too early, not something foretold correctly.",
+      "id": "gregmat04__b5__cloze__07",
+      "unit": "gregmat04__b5",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": []
+}

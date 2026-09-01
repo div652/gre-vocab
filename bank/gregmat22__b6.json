@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat22__b6",
+  "gregmat_group": 22,
+  "words": [
+    "renege",
+    "stinting",
+    "temper",
+    "tentative"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Provincial governments had budgeted around the transfers for years, so when the treasury {1} on the funding formula outright — not deferring the payments but cancelling them — the premiers denounced the decision as {2} rather than as a hard choice forced by a shrinking revenue base.",
+      "blanks": [
+        {
+          "options": [
+            "reneged",
+            "equivocated",
+            "stinted"
+          ],
+          "answers": [
+            "reneged"
+          ]
+        },
+        {
+          "options": [
+            "perfidy",
+            "parsimony",
+            "prudence"
+          ],
+          "answers": [
+            "perfidy"
+          ]
+        }
+      ],
+      "words": [
+        "renege"
+      ],
+      "explanation": "The provinces had the treasury's word and arranged their finances around it, and the commitment was not merely trimmed but abandoned: that is reneging, and the charge it invites is broken faith, i.e. perfidy. \"Equivocated\" would mean the treasury spoke evasively rather than acted, and \"stinted\" would mean it paid something less than was due — but the sentence specifies outright cancellation. \"Parsimony\" names tight-fistedness, which is precisely the fiscal-necessity reading the premiers are rejecting.",
+      "id": "gregmat22__b6__tc2__00",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Ratings agencies punish not the single missed payment but what it discloses: a government willing to {1} on obligations its creditors had every reason to treat as binding.",
+      "blanks": [
+        {
+          "options": [
+            "renege",
+            "demur",
+            "forbear",
+            "stint",
+            "vacillate"
+          ],
+          "answers": [
+            "renege"
+          ]
+        }
+      ],
+      "words": [
+        "renege"
+      ],
+      "explanation": "The obligations were already undertaken and the creditors relied on them, which is exactly the prior commitment that renege requires. \"Demur\" and \"forbear\" describe declining or holding back before any promise exists, and \"vacillate\" describes wavering rather than repudiating; \"stint\" would mean paying grudgingly, not walking away from the terms.",
+      "id": "gregmat22__b6__cloze__01",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "Though the foundation's endowment had never been larger, its trustees {1} on the very programs that had made its name, and grantees who still remembered the founder's {2} were slow to forgive the change.",
+      "blanks": [
+        {
+          "options": [
+            "stinted",
+            "lavished",
+            "capitalized"
+          ],
+          "answers": [
+            "stinted"
+          ]
+        },
+        {
+          "options": [
+            "largesse",
+            "mendacity",
+            "perfidy"
+          ],
+          "answers": [
+            "largesse"
+          ]
+        }
+      ],
+      "words": [
+        "stinting"
+      ],
+      "explanation": "A swollen endowment paired with shrunken programs describes rationing what could and should have flowed freely — stinting — and the founder's remembered opposite is largesse, open-handed giving. \"Lavished on\" reverses the logic the concessive \"though\" sets up, and \"mendacity\" and \"perfidy\" would require a broken promise or a lie, neither of which the sentence supplies.",
+      "id": "gregmat22__b6__tc2__02",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Her supervisor's approval, when it came at all, was so {1} that graduate students learned to hear a single muttered \"adequate\" as a triumph.",
+      "blanks": [
+        {
+          "options": [
+            "stinting",
+            "effusive",
+            "munificent",
+            "categorical",
+            "disingenuous"
+          ],
+          "answers": [
+            "stinting"
+          ]
+        }
+      ],
+      "words": [
+        "stinting"
+      ],
+      "explanation": "Praise doled out in one grudging syllable is praise rationed below what was earned, which is the force of stinting. \"Effusive\" and \"munificent\" both denote unstinting abundance and so invert the sentence, \"categorical\" describes how absolute a statement is rather than how sparingly it is given, and nothing suggests the supervisor was insincere.",
+      "id": "gregmat22__b6__cloze__03",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "The commission's report {1} its praise for the new curriculum with a blunt reminder of how many earlier reforms had been abandoned inside a year.",
+      "blanks": [
+        {
+          "options": [
+            "tempered",
+            "qualified",
+            "reinforced",
+            "belied",
+            "exacerbated",
+            "mollified"
+          ],
+          "answers": [
+            "tempered",
+            "qualified"
+          ]
+        }
+      ],
+      "words": [
+        "temper"
+      ],
+      "explanation": "The praise is not withdrawn; a counterweight is set beside it so that the assessment sits in proportion, which both \"tempered\" and \"qualified\" express. \"Reinforced\" would make the reminder of failures strengthen the praise, and \"belied\" would mean the praise was exposed as false rather than moderated; \"exacerbated\" and \"mollified\" take troubles and people as objects, not commendations.",
+      "id": "gregmat22__b6__se__04",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The clemency board's charge is not to {1} the law but to {2} it: the sentences handed down remain on the books, yet mercy is admitted in the cases where rigid application would serve no one.",
+      "blanks": [
+        {
+          "options": [
+            "abrogate",
+            "codify",
+            "ratify"
+          ],
+          "answers": [
+            "abrogate"
+          ]
+        },
+        {
+          "options": [
+            "temper",
+            "compound",
+            "supplant"
+          ],
+          "answers": [
+            "temper"
+          ]
+        }
+      ],
+      "words": [
+        "temper"
+      ],
+      "explanation": "\"Not X but Y\" plus \"the sentences remain on the books\" sets annulment against moderation: to abrogate is to cancel, while to temper is to add mercy as a counterweight so that nothing is deleted. \"Codify\" and \"ratify\" describe writing down or approving law rather than voiding it, and \"supplant\" would replace the law outright — the very cancellation the sentence denies — while \"compound\" would aggravate its severity.",
+      "id": "gregmat22__b6__tc2__05",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Because the agreement still awaited ratification by the full membership, the union's negotiators described the wage settlement as {1}, binding on no one until the ballots had been counted.",
+      "blanks": [
+        {
+          "options": [
+            "tentative",
+            "provisional",
+            "ironclad",
+            "contentious",
+            "unprecedented",
+            "disingenuous"
+          ],
+          "answers": [
+            "tentative",
+            "provisional"
+          ]
+        }
+      ],
+      "words": [
+        "tentative"
+      ],
+      "explanation": "An arrangement reached but not yet settled, and openly acknowledged as changeable, is tentative or provisional — pencil rather than pen, with no criticism implied. \"Ironclad\" contradicts \"binding on no one,\" while \"contentious,\" \"unprecedented,\" and \"disingenuous\" all read naturally in the slot but say something about dispute, novelty, or bad faith rather than about whether the deal is final.",
+      "id": "gregmat22__b6__se__06",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Watching the recording of her first deposition, she winced at how {1} she sounded, every assertion trailing upward into something like a question, though she had never for a moment doubted the facts she was reciting.",
+      "blanks": [
+        {
+          "options": [
+            "tentative",
+            "irresolute",
+            "laconic",
+            "querulous",
+            "vacillating"
+          ],
+          "answers": [
+            "tentative"
+          ]
+        }
+      ],
+      "words": [
+        "tentative"
+      ],
+      "explanation": "The final clause removes any indecision about the facts, so what the recording exposes is manner — a delivery that tests the ground rather than plants a foot — which is the hesitant sense of tentative. \"Irresolute\" and \"vacillating\" would require her to be unable to settle on a position, which she plainly has; \"laconic\" concerns brevity and \"querulous\" a complaining tone, neither of which the rising inflection indicates.",
+      "id": "gregmat22__b6__cloze__07",
+      "unit": "gregmat22__b6",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": []
+}

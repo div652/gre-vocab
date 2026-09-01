@@ -1,0 +1,236 @@
+{
+  "unit": "gregmat18__b3",
+  "gregmat_group": 18,
+  "words": [
+    "dissident",
+    "efficacious",
+    "equitable",
+    "erratic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The regime's official histories dismiss the exiled poet as a common troublemaker, but abroad she was taken for the era's exemplary {1}: a woman whose refusal to {2} cost her a professorship, a passport, and finally a country.",
+      "blanks": [
+        {
+          "options": [
+            "dissident",
+            "contrarian",
+            "iconoclast"
+          ],
+          "answers": [
+            "dissident"
+          ]
+        },
+        {
+          "options": [
+            "acquiesce",
+            "mutiny",
+            "flout"
+          ],
+          "answers": [
+            "acquiesce"
+          ]
+        }
+      ],
+      "words": [
+        "dissident"
+      ],
+      "explanation": "Only \"dissident\" names a person who opposes a ruling power that can punish her, and the enumerated price — career, passport, exile — is exactly that retaliation; a contrarian disagrees for sport and an iconoclast attacks revered beliefs, neither of which presumes a state able to strip a passport. In the second blank the sentence needs the thing she would not do, so it must be the compliant term: \"refusal to mutiny\" or \"refusal to flout\" would make her obedient and reverse the sentence.",
+      "id": "gregmat18__b3__tc2__00",
+      "unit": "gregmat18__b3",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Sakharov's passage from decorated weapons physicist to the Soviet Union's most famous {1} can be measured in confiscations: his clearance, his laboratory, and at last his freedom of movement, all forfeited over essays that were never even printed at home.",
+      "blanks": [
+        {
+          "options": [
+            "dissident",
+            "mutineer",
+            "heretic",
+            "contrarian",
+            "malcontent"
+          ],
+          "answers": [
+            "dissident"
+          ]
+        }
+      ],
+      "words": [
+        "dissident"
+      ],
+      "explanation": "The opposition here is voiced in writing and punished by the state, which is precisely the dissident's profile: speech as the weapon, personal ruin as the price. A mutineer takes collective action against command, a heretic offends religious doctrine rather than a government, and contrarian and malcontent describe temperament — disagreement for its own sake or habitual grumbling — not a man stripped of his laboratory for what he wrote.",
+      "id": "gregmat18__b3__cloze__01",
+      "unit": "gregmat18__b3",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Physicians abandoned the tincture not because it was inert — under controlled trial conditions it proved demonstrably {1} — but because its strength varied so wildly from batch to batch that its effects at the bedside were hopelessly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "efficacious",
+            "salubrious",
+            "tenable"
+          ],
+          "answers": [
+            "efficacious"
+          ]
+        },
+        {
+          "options": [
+            "erratic",
+            "intermittent",
+            "sporadic"
+          ],
+          "answers": [
+            "erratic"
+          ]
+        }
+      ],
+      "words": [
+        "efficacious",
+        "erratic"
+      ],
+      "explanation": "\"Efficacious\" is the clinical term for a remedy that achieves the specific effect it was given for, which is what a controlled trial establishes; salubrious describes something generally health-giving (a climate, a diet) and tenable describes a position that can be defended, not a drug that cures. The second blank is set up by variation in degree rather than in timing: intermittent and sporadic would say the effects came and went, whereas the batch-to-batch inconsistency makes the outcome unpredictable, the sense unique to erratic.",
+      "id": "gregmat18__b3__tc2__02",
+      "unit": "gregmat18__b3",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The mediator warned the heirs that carving the estate into identical portions would be scrupulously {1} without being remotely {2}: the sister who had spent a decade nursing their father had, by any honest accounting, earned more than a fifth.",
+      "blanks": [
+        {
+          "options": [
+            "equal",
+            "tendentious",
+            "invidious"
+          ],
+          "answers": [
+            "equal"
+          ]
+        },
+        {
+          "options": [
+            "equitable",
+            "egalitarian",
+            "commensurate"
+          ],
+          "answers": [
+            "equitable"
+          ]
+        }
+      ],
+      "words": [
+        "equitable"
+      ],
+      "explanation": "The sentence turns on the standard distinction between identical shares and shares calibrated to desert, so the first blank must name the arithmetic virtue of the identical split and the second must name the justice it fails to deliver. Egalitarian would simply restate the identical division and so cannot be what the split lacks; commensurate needs an explicit standard to be proportioned to, whereas equitable rates the outcome itself as properly matched to what each party is due.",
+      "id": "gregmat18__b3__tc2__04",
+      "unit": "gregmat18__b3",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Readers who take Rawls's principle as a demand for {1} holdings miss its point: it tolerates striking disparities of wealth, provided the arrangement generating them is {2} — bent, that is, to the greatest benefit of those worst off.",
+      "blanks": [
+        {
+          "options": [
+            "uniform",
+            "commensurate",
+            "tractable"
+          ],
+          "answers": [
+            "uniform"
+          ]
+        },
+        {
+          "options": [
+            "equitable",
+            "egalitarian",
+            "disinterested"
+          ],
+          "answers": [
+            "equitable"
+          ]
+        }
+      ],
+      "words": [
+        "equitable"
+      ],
+      "explanation": "The first blank must name the misreading that the second half denies — identical holdings — so \"uniform\" is required; commensurate would mean proportioned to something, which is close to what Rawls actually endorses, and tractable means docile. In the second blank, egalitarian would reinstate the very equality the sentence has just rejected, and disinterested describes a judge without a stake rather than a distribution; only equitable judges the arrangement as giving each party what is properly due, even when the resulting shares are unequal.",
+      "id": "gregmat18__b3__tc2__05",
+      "unit": "gregmat18__b3",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Grant's early reputation suffered less from any single defeat than from the {1} quality of his campaigning — brilliance at one river fort, near-catastrophe at the next landing — which left Washington unable to guess which general would turn up on a given morning.",
+      "blanks": [
+        {
+          "options": [
+            "erratic",
+            "sporadic",
+            "intermittent",
+            "desultory",
+            "dogged"
+          ],
+          "answers": [
+            "erratic"
+          ]
+        }
+      ],
+      "words": [
+        "erratic"
+      ],
+      "explanation": "The complaint is not that the campaigning stopped and started but that its quality swung unpredictably against a standard that should have held, which is the specific charge carried by erratic. Sporadic and intermittent concern timing and frequency, desultory means aimless and half-hearted rather than wildly variable, and dogged asserts the persistence the passage is not questioning.",
+      "id": "gregmat18__b3__cloze__06",
+      "unit": "gregmat18__b3",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Navigators mistrusted the early liquid compass less for any consistent error, which could have been corrected arithmetically, than for the {1} behaviour of its needle, which might hold true for an hour and then drift thirty degrees for no reason anyone could name.",
+      "blanks": [
+        {
+          "options": [
+            "erratic",
+            "wayward",
+            "sporadic",
+            "intermittent",
+            "desultory",
+            "fitful"
+          ],
+          "answers": [
+            "erratic",
+            "wayward"
+          ]
+        }
+      ],
+      "words": [
+        "erratic"
+      ],
+      "explanation": "Both erratic and wayward describe a needle that deviates unpredictably from the course it ought to keep, which is what the contrast with a consistent, correctable error demands. Sporadic, intermittent, and fitful all locate the trouble in timing — occurring in scattered bursts or stopping and starting — whereas the needle never stops working, and desultory implies aimless, unmethodical effort, a charge that fits a researcher rather than an instrument.",
+      "id": "gregmat18__b3__se__07",
+      "unit": "gregmat18__b3",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three of the six options are mutually substitutable here, not two. The blank only requires \"effective against the parasite,\" and 'efficacious', 'effectual', and 'potent' all satisfy that. 'Potent' is fully idiomatic with the object (\"as potent against the parasite\"), and in a drug context potency is precisely the dimension being compared — the \"only mild doses\" clue arguably favors it (same effect at a lower dose = greater potency) rather than excluding it. Nothing in the sentence discriminates among the three, so a test-taker selecting efficacious+potent or effectual+potent has an equally defensible pair and would be wrongly marked incorrect. Fix by swapping 'potent' for a distractor in a different sense (e.g. 'pungent', 'cogent', 'trenchant').",
+      "stem": "Because the regimen involves only mild doses of a cheap generic, epidemiologists were surprised to find it fully as {1} against the parasite as the hospital-administered therapy it replaced."
+    }
+  ]
+}

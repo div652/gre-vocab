@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat17__b0",
+  "gregmat_group": 17,
+  "words": [
+    "acclaim",
+    "ascertain",
+    "assertive",
+    "bogus"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Malone's biography of the industrialist met with such {1} that even the reviewers who had spent a decade {2} his earlier books conceded that this one would stand.",
+      "blanks": [
+        {
+          "options": [
+            "acclaim",
+            "vilification",
+            "indifference"
+          ],
+          "answers": [
+            "acclaim"
+          ]
+        },
+        {
+          "options": [
+            "denigrating",
+            "extolling",
+            "corroborating"
+          ],
+          "answers": [
+            "denigrating"
+          ]
+        }
+      ],
+      "words": [
+        "acclaim"
+      ],
+      "explanation": "\"Conceded\" marks a reversal, so the reviewers must previously have been hostile — denigrating, not extolling — and the reception must be collective, settled praise: acclaim. Indifference is tonally plausible for a critical reception but cannot produce a concession that the book will stand, and vilification would make the concession incoherent.",
+      "id": "gregmat17__b0__tc2__00",
+      "unit": "gregmat17__b0",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "The symphony he completed at twenty-three met with the kind of public {1} that no later work of his ever recovered, and critics spent the rest of his career measuring him against it.",
+      "blanks": [
+        {
+          "options": [
+            "acclaim",
+            "approbation",
+            "notoriety",
+            "censure",
+            "scrutiny",
+            "obloquy"
+          ],
+          "answers": [
+            "acclaim",
+            "approbation"
+          ]
+        }
+      ],
+      "words": [
+        "acclaim"
+      ],
+      "explanation": "Only acclaim and approbation name public praise, and in this context — a crowd's verdict on a work — they are interchangeable. Notoriety and scrutiny both fit the register of a career watched by critics but mean fame for the wrong reasons and close examination respectively, while censure and obloquy invert the sentence's logic of a peak never regained.",
+      "id": "gregmat17__b0__se__01",
+      "unit": "gregmat17__b0",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Long before anyone had lodged a formal accusation, the auditors managed to {1} that the invoices were {2}: the vendor named on them had been dissolved three years before the work was supposedly performed.",
+      "blanks": [
+        {
+          "options": [
+            "ascertain",
+            "corroborate",
+            "surmise"
+          ],
+          "answers": [
+            "ascertain"
+          ]
+        },
+        {
+          "options": [
+            "bogus",
+            "dubious",
+            "exorbitant"
+          ],
+          "answers": [
+            "bogus"
+          ]
+        }
+      ],
+      "words": [
+        "ascertain",
+        "bogus"
+      ],
+      "explanation": "With no accusation yet on the table there is no claim to corroborate; the auditors settled an open question by checking, which is ascertain, and the documentary proof rules out mere surmise. The dissolved vendor makes the invoices demonstrably fake rather than merely dubious, and exorbitant would describe the amounts, not their authenticity.",
+      "id": "gregmat17__b0__tc2__02",
+      "unit": "gregmat17__b0",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Because the family had kept no diaries and the parish register had burned in 1802, the historian could do little to {1} even the year of the composer's birth.",
+      "blanks": [
+        {
+          "options": [
+            "ascertain",
+            "establish",
+            "corroborate",
+            "substantiate",
+            "buttress",
+            "adjudicate"
+          ],
+          "answers": [
+            "ascertain",
+            "establish"
+          ]
+        }
+      ],
+      "words": [
+        "ascertain"
+      ],
+      "explanation": "The sentence contains no existing assertion, only an unanswered question, so the verb must mean \"find out for certain\": ascertain and establish. Corroborate, substantiate and buttress all presuppose a claim already made that evidence would strengthen, and adjudicate would require a dispute to be settled by judgment rather than a fact to be discovered.",
+      "id": "gregmat17__b0__se__03",
+      "unit": "gregmat17__b0",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Waving the printout as though its figures had been invented on the spot by someone with a grant to justify, the radio host dismissed the entire study as {1}.",
+      "blanks": [
+        {
+          "options": [
+            "bogus",
+            "counterfeit",
+            "feigned",
+            "dubious",
+            "tendentious"
+          ],
+          "answers": [
+            "bogus"
+          ]
+        }
+      ],
+      "words": [
+        "bogus"
+      ],
+      "explanation": "The contemptuous, spoken register and the charge that the numbers were simply made up call for bogus, which attacks checkable claims and comes with an eye-roll built in. Dubious is far too mild for figures alleged to be fabricated outright, counterfeit requires a physical imitation of something genuine, and tendentious would concede the data exist while faulting their slant.",
+      "id": "gregmat17__b0__cloze__04",
+      "unit": "gregmat17__b0",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "The workshop promised not the {1} bluster of the stereotypical closer but something narrower and much harder to teach: an {2} manner that named a price once, plainly, and then declined to apologize for it.",
+      "blanks": [
+        {
+          "options": [
+            "imperious",
+            "diffident",
+            "coy"
+          ],
+          "answers": [
+            "imperious"
+          ]
+        },
+        {
+          "options": [
+            "assertive",
+            "brazen",
+            "timorous"
+          ],
+          "answers": [
+            "assertive"
+          ]
+        }
+      ],
+      "words": [
+        "assertive"
+      ],
+      "explanation": "\"Bluster\" and the contrast with something \"narrower\" require an excess in the first blank — imperious, the domineering extreme — and the approved middle in the second: assertive, firm without hostility. Brazen would restate the shamelessness the sentence is explicitly setting aside, and diffident or timorous describe the passive end of the scale, which no sales workshop is promising.",
+      "id": "gregmat17__b0__tc2__05",
+      "unit": "gregmat17__b0",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "The mediator's aim was to make each tenant {1}: able to state a grievance plainly and to repeat it without embarrassment, yet never to state it at the landlord's expense.",
+      "blanks": [
+        {
+          "options": [
+            "assertive",
+            "imperious",
+            "diffident",
+            "brazen",
+            "obsequious"
+          ],
+          "answers": [
+            "assertive"
+          ]
+        }
+      ],
+      "words": [
+        "assertive"
+      ],
+      "explanation": "The sentence describes exactly the middle of the passive-to-aggressive scale — full force, no hostility — which is assertive. Imperious and brazen supply the force but violate the closing clause about the landlord's expense, while diffident and obsequious describe the shrinking tenant the mediator is trying to change.",
+      "id": "gregmat17__b0__cloze__06",
+      "unit": "gregmat17__b0",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option list contains two viable synonym pairs, not one. \"Bogus\" and \"spurious\" (false, not genuine) are the intended pair, but \"counterfeit\" and \"sham\" are also mutual synonyms meaning \"fake / passed off as real,\" and both work with fabricated laboratory numbers. The sentence only establishes that the data were not real; it gives no cue that would favor \"false\" over \"forged/pretended,\" so it fails to eliminate the counterfeit/sham pair. (\"Proprietary\" and \"provisional\" are clean distractors — proprietary data would be withheld, not unreproducible, and provisional data would be preliminary rather than false.) Fix by replacing counterfeit and sham with words that cannot pair with each other, e.g. \"unassailable\" and \"preliminary.\"",
+      "stem": "Reviewers eventually showed that the paper's most frequently cited figure rested on {1} data: numbers that no laboratory, the author's own included, has ever managed to produce again."
+    }
+  ]
+}

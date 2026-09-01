@@ -1,0 +1,151 @@
+{
+  "unit": "gregmat08__b1",
+  "gregmat_group": 8,
+  "words": [
+    "egregious",
+    "evanescent",
+    "flamboyant",
+    "forestall"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The panel had circulated its draft precisely to {1} the accusation that its numbers were unreliable, but an outside reviewer turned up a flaw that was not merely obvious but {2}: a tenfold overstatement of projected revenue that voided the report entirely.",
+      "blanks": [
+        {
+          "options": [
+            "forestall",
+            "precipitate",
+            "foment"
+          ],
+          "answers": [
+            "forestall"
+          ]
+        },
+        {
+          "options": [
+            "egregious",
+            "patent",
+            "conspicuous"
+          ],
+          "answers": [
+            "egregious"
+          ]
+        }
+      ],
+      "words": [
+        "forestall",
+        "egregious"
+      ],
+      "explanation": "Circulating the draft in advance of the expected charge is exactly forestalling — acting early to block something one sees coming; precipitate and foment would bring the accusation on instead. The second blank must escalate beyond \"obvious,\" so patent and conspicuous are merely redundant restatements of visibility, while egregious alone rates the fault's severity — bad enough to void the report.",
+      "id": "gregmat08__b1__tc2__00",
+      "unit": "gregmat08__b1",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Routine sloppiness pervaded the filings, but the tribunal reserved its severest language for one {1} breach — the shredding of documents that had been under subpoena for six months — which by itself justified dissolving the firm.",
+      "blanks": [
+        {
+          "options": [
+            "egregious",
+            "flagrant",
+            "patent",
+            "overt",
+            "inadvertent",
+            "trifling"
+          ],
+          "answers": [
+            "egregious",
+            "flagrant"
+          ]
+        }
+      ],
+      "words": [
+        "egregious"
+      ],
+      "explanation": "The breach is set against mere sloppiness and is grave enough to end the firm, so the blank must measure badness: egregious and flagrant both mean conspicuously, indefensibly bad. Patent and overt fit the grammar and the legal register but report only that something was open to view, which cannot explain the severest censure, and inadvertent and trifling contradict the sentence outright.",
+      "id": "gregmat08__b1__se__02",
+      "unit": "gregmat08__b1",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The governor's midnight pledge of unlimited liquidity was intended to {1} the run on deposits that bankers expected to begin the moment the doors opened.",
+      "blanks": [
+        {
+          "options": [
+            "forestall",
+            "avert",
+            "obviate",
+            "mitigate",
+            "precipitate",
+            "hasten"
+          ],
+          "answers": [
+            "forestall",
+            "avert"
+          ]
+        }
+      ],
+      "words": [
+        "forestall"
+      ],
+      "explanation": "The pledge is made before the anticipated run in order to stop it happening at all, which is what forestall and avert both say. Mitigate would only soften a run that still occurred, obviate means render unnecessary — a panic is not something anyone needs — and precipitate and hasten would bring the run on rather than head it off.",
+      "id": "gregmat08__b1__se__03",
+      "unit": "gregmat08__b1",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "Though his tactical writing was dry to the point of severity, Cruyff's play was {1}: the drag-backs and outside-of-the-boot passes were executed with a visible relish that spectators found infectious.",
+      "blanks": [
+        {
+          "options": [
+            "flamboyant",
+            "ostentatious",
+            "garish",
+            "austere",
+            "understated"
+          ],
+          "answers": [
+            "flamboyant"
+          ]
+        }
+      ],
+      "words": [
+        "flamboyant"
+      ],
+      "explanation": "The showiness here is enjoyed by player and crowd alike, which is the admiring shade that only flamboyant carries; ostentatious would impute vulgar self-advertisement and garish applies to colour that offends the eye, not to technique. Austere and understated describe the prose the sentence contrasts with the play.",
+      "id": "gregmat08__b1__cloze__05",
+      "unit": "gregmat08__b1",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is not uniquely determined: \"momentary\" fits the clue \"thinning and dissolving even as it sounded\" nearly as well as \"evanescent\". Both mean short-lived/fleeting, and the sentence gives no evidence that separates \"fading gradually away\" from \"lasting only an instant\" — a test-taker choosing \"momentary\" would be marked wrong on a fine synonym shade, not on textual evidence. Blank 1 is fine (unadorned contradicts \"flung hair and swooping arms\"; ostentatious contradicts \"nothing vulgar\").",
+      "stem": "Even critics who thought him self-indulgent conceded that there was nothing vulgar in the display: his platform manner was simply {1}, all flung hair and swooping arms, while the tone he drew from the strings seemed always to be {2}, thinning and dissolving even as it sounded."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The \"not simply brief but ___\" construction demands an intensification of \"brief,\" and the trailing clue \"dissolving even as the brush moved\" points to vanishing-in-the-act, which matches \"evanescent\" (literally, fading from view) best. But \"ephemeral\" is a genuine competitor: it also means lasting only a very short time, it reads naturally in the slot (\"not simply brief but ephemeral, dissolving even as...\"), and nothing in the sentence rules it out. \"Momentary\" is weaker (a plain synonym of brief, so the \"not simply... but\" escalation collapses), and \"perennial\"/\"tangible\" are the clear opposites/irrelevancies — so the item really turns on a fine evanescent-vs-ephemeral distinction that the sentence does not decisively enforce. A careful test-taker choosing \"ephemeral\" would be marked wrong without a defensible basis.",
+      "stem": "What the Impressionists set themselves to capture was by definition uncapturable: the play of light on water, not simply brief but {1}, dissolving even as the brush moved to record it."
+    },
+    {
+      "why": "verifier answered differently: ['garish', 'egregious'] vs ['egregious', 'flamboyant']",
+      "problem": "Blank {2} is clean and unique (egregious: \"buried\" rules out conspicuous, \"grave enough to require condemnation\" rules out momentary). Blank {1} is ambiguous: the sentence only requires a word for decorative ornament the commission did NOT fault, and both \"garish\" and \"flamboyant\" satisfy that. The phrase \"had long since come to enjoy\" faintly implies initial distaste (favoring garish), but it is equally natural to say residents have long enjoyed the flamboyant ornament — nothing in the sentence forces the ornament to have been objectionable. Only \"utilitarian\" is genuinely excluded, leaving two defensible choices.",
+      "stem": "The commission faulted not the {1} ornament of the façade, which residents had long since come to enjoy, but an {2} miscalculation buried in the load-bearing survey — an error grave enough to require the building's condemnation."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is clean and uniquely determined by the dash-clause gloss (evanescent). Blank 1 is not: \"forestall\" and \"obviate\" are both defensible. Obviate means \"to prevent or avert (a difficulty)\" as well as \"to render unnecessary,\" and nothing in the sentence discriminates between the two words. If anything, obviate is the stronger reading, since making facsimiles does not head off the physical fading of the emulsions at all — it renders the resulting loss of the images inconsequential, which is obviate's characteristic sense. A well-prepared test-taker could reasonably select obviate and be marked wrong. To fix, add a cue that the archive is acting in advance of the fading (e.g., a time marker like \"while the prints were still legible\") or replace obviate with a clearly wrong distractor.",
+      "stem": "Anxious to {1} the loss of pictures that the cheap new emulsions had rendered {2} — legible for a season and then thinning into blank paper — the archive commissioned facsimiles of every print in its holdings."
+    }
+  ]
+}

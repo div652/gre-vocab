@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat31__b5",
+  "gregmat_group": 31,
+  "words": [
+    "rhapsody",
+    "serendipitous",
+    "shirk",
+    "sinecure"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the harbor commissionership had long been a {1} — a reward for party loyalty carrying a stipend, a title, and almost no obligations — it attracted men who wished to figure in public life without the {2} that genuine office demands.",
+      "blanks": [
+        {
+          "options": [
+            "sinecure",
+            "tribunal",
+            "apprenticeship"
+          ],
+          "answers": [
+            "sinecure"
+          ]
+        },
+        {
+          "options": [
+            "exertion",
+            "subterfuge",
+            "notoriety"
+          ],
+          "answers": [
+            "exertion"
+          ]
+        }
+      ],
+      "words": [
+        "sinecure"
+      ],
+      "explanation": "The appositive spells out the definition of a sinecure: pay and status with the duties hollowed out, typically as a favor to a loyalist. An apprenticeship or a tribunal would both entail substantial work, which the sentence explicitly denies, and the second blank must name what such a post spares its holder — labor, not deceit or fame.",
+      "id": "gregmat31__b5__tc2__00",
+      "unit": "gregmat31__b5",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "The inspector's report distinguishes carefully between the merely {1} clerk, who fully intends to file the paperwork and never quite gets to it, and the one who {2} the task outright, knowing that some colleague down the corridor will be obliged to take it up.",
+      "blanks": [
+        {
+          "options": [
+            "dilatory",
+            "sedulous",
+            "disgruntled"
+          ],
+          "answers": [
+            "dilatory"
+          ]
+        },
+        {
+          "options": [
+            "shirks",
+            "botches",
+            "delegates"
+          ],
+          "answers": [
+            "shirks"
+          ]
+        }
+      ],
+      "words": [
+        "shirk"
+      ],
+      "explanation": "The first clerk means well but drags — dilatory — while the second sees the duty and slides out of it, leaving it on someone else, which is precisely shirking. \"Botches\" fails because the second clerk never performs the task at all, and \"delegates\" implies a legitimate transfer rather than the abandonment the sentence describes; \"sedulous\" would contradict the clerk's failure to file.",
+      "id": "gregmat31__b5__tc2__01",
+      "unit": "gregmat31__b5",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "Penzias and Wilson set out only to eliminate a persistent hiss in their antenna; the {1} result was the detection of the radiation left over from the Big Bang.",
+      "blanks": [
+        {
+          "options": [
+            "serendipitous",
+            "providential",
+            "auspicious",
+            "propitious",
+            "calamitous"
+          ],
+          "answers": [
+            "serendipitous"
+          ]
+        }
+      ],
+      "words": [
+        "serendipitous"
+      ],
+      "explanation": "Serendipitous is the precise word for a valuable find that was not the object of the search, which is exactly what the contrast between the hiss and the cosmic background sets up. Providential would import a sense of timely deliverance from difficulty, and auspicious and propitious describe conditions that bode well for something still to come, not a discovery already made.",
+      "id": "gregmat31__b5__cloze__03",
+      "unit": "gregmat31__b5",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "What the founders' retellings present as a {1} encounter — two strangers seated together by a booking error, a company born of the conversation — the surviving correspondence shows to have been a meeting {2} months in advance by a mutual investor.",
+      "blanks": [
+        {
+          "options": [
+            "serendipitous",
+            "hapless",
+            "calamitous"
+          ],
+          "answers": [
+            "serendipitous"
+          ]
+        },
+        {
+          "options": [
+            "engineered",
+            "disparaged",
+            "rescinded"
+          ],
+          "answers": [
+            "engineered"
+          ]
+        }
+      ],
+      "words": [
+        "serendipitous"
+      ],
+      "explanation": "The first blank must name the flattering version of the story — an unsought accident that yielded something valuable — and the second must name what the archive substitutes for it, deliberate arrangement. Hapless and calamitous invert the outcome, which the clause \"a company born of the conversation\" forbids, and a meeting that was disparaged or rescinded would not be a meeting that took place at all.",
+      "id": "gregmat31__b5__tc2__04",
+      "unit": "gregmat31__b5",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than abolish the inspectorate outright, the ministry quietly converted it into a {1}: the title and the salary survived the reorganization, the duties did not.",
+      "blanks": [
+        {
+          "options": [
+            "sinecure",
+            "requisition",
+            "sabbatical",
+            "tribunal",
+            "apprenticeship"
+          ],
+          "answers": [
+            "sinecure"
+          ]
+        }
+      ],
+      "words": [
+        "sinecure"
+      ],
+      "explanation": "A sinecure is an office hollowed of its work while its pay and standing remain, which is what the colon defines. A sabbatical is temporary leave granted to a person rather than a permanent condition of the post, and a requisition, tribunal, or apprenticeship names something that either is not an office or entails real duties.",
+      "id": "gregmat31__b5__cloze__05",
+      "unit": "gregmat31__b5",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Neighbors charmed by his manner were slow to notice how consistently he {1} the small obligations of communal life — the shoveled walk, the borrowed ladder returned — leaving them to whoever happened to notice the lapse.",
+      "blanks": [
+        {
+          "options": [
+            "shirked",
+            "evaded",
+            "honored",
+            "delegated",
+            "resented",
+            "bemoaned"
+          ],
+          "answers": [
+            "shirked",
+            "evaded"
+          ]
+        }
+      ],
+      "words": [
+        "shirk"
+      ],
+      "explanation": "Shirked and evaded both mean sliding out of duties one was bound to perform, and the closing clause — the work falling to whoever noticed — confirms that the obligations were dodged rather than discharged. \"Delegated\" is the nearest trap but implies assigning the work to a particular person, which the vague \"whoever happened to notice\" rules out, and resented or bemoaned describe an attitude toward duties one may still be performing.",
+      "id": "gregmat31__b5__se__06",
+      "unit": "gregmat31__b5",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "The memoir's opening chapters are disciplined, even austere, but the pages recalling the author's first summer in Rome dissolve into a {1} so unrestrained that even admiring reviewers found the prose {2}.",
+      "blanks": [
+        {
+          "options": [
+            "rhapsody",
+            "dirge",
+            "polemic"
+          ],
+          "answers": [
+            "rhapsody"
+          ]
+        },
+        {
+          "options": [
+            "cloying",
+            "lugubrious",
+            "trenchant"
+          ],
+          "answers": [
+            "cloying"
+          ]
+        }
+      ],
+      "words": [
+        "rhapsody"
+      ],
+      "explanation": "A rhapsody is praise that has slipped its formal leash, which matches both \"unrestrained\" and the contrast with the austere opening, and the natural complaint against such gushing is that it is cloying — sweetness laid on too thick. A dirge would be mournful and pair with lugubrious, and a polemic would be argumentative and pair with trenchant, but neither is something admiring reviewers would fault as excess of feeling.",
+      "id": "gregmat31__b5__tc2__07",
+      "unit": "gregmat31__b5",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence contains no polarity marker, so a second synonym pair also fits. \"Rhapsodized/gushed\" is clearly the intended pair (effusive aesthetic enthusiasm displacing a technical appraisal), and it is supported by the length (\"twenty minutes\") and the loss of order. But \"carped/quibbled\" is an equally tight synonym pair that the sentence never excludes: an astronomer who \"carped/quibbled for twenty minutes about the color of Saturn's rings\" — e.g. fixating on the instrument's color fidelity or chromatic aberration — is likewise substituting an obsessive digression for the requested brief, orderly assessment. Nothing in \"abandoning any pretense of orderly assessment\" specifies enthusiasm rather than fault-finding; only rambling. A test-taker who reads the fixation as pettiness rather than delight picks carped/quibbled and is marked wrong. Fix by adding an affect cue (e.g. \"instead ____ for twenty minutes about the *glorious* color of Saturn's rings\" or \"in unfeigned delight\").",
+      "stem": "Asked for a brief technical appraisal of the new telescope, the astronomer instead {1} for twenty minutes about the color of Saturn's rings, abandoning any pretense of orderly assessment."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat10__b1",
+  "gregmat_group": 10,
+  "words": [
+    "eschew",
+    "esoteric",
+    "evasive",
+    "exculpate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Convinced that a decorated sentence was merely a form of {1}, Orwell {2} metaphor, Latinate diction, and every other ornament that allowed a writer to sound thoughtful without having thought.",
+      "blanks": [
+        {
+          "options": [
+            "self-indulgence",
+            "austerity",
+            "candor"
+          ],
+          "answers": [
+            "self-indulgence"
+          ]
+        },
+        {
+          "options": [
+            "eschewed",
+            "condoned",
+            "extolled"
+          ],
+          "answers": [
+            "eschewed"
+          ]
+        }
+      ],
+      "words": [
+        "eschew"
+      ],
+      "explanation": "The first blank must name the vice Orwell diagnoses in ornament, and only self-indulgence explains why he would refuse it on principle; austerity is the discipline he practices, not the fault he sees. The second blank then requires a verb of principled refusal, which is exactly eschewed — condoned and extolled would have him endorsing the very thing the first clause condemns.",
+      "id": "gregmat10__b1__tc2__00",
+      "unit": "gregmat10__b1",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "The sect's founders held that any comfort dulled the attention that prayer required, and so {1} property, ornament, and even cooked food.",
+      "blanks": [
+        {
+          "options": [
+            "eschewed",
+            "abjured",
+            "extolled",
+            "coveted",
+            "condoned",
+            "catalogued"
+          ],
+          "answers": [
+            "eschewed",
+            "abjured"
+          ]
+        }
+      ],
+      "words": [
+        "eschew"
+      ],
+      "explanation": "The clause supplies a doctrinal reason for going without, so the blank needs a verb of deliberate, principled refusal: eschewed and abjured both supply it and yield sentences of the same meaning. Extolled and coveted fit the grammar and the solemn tone but reverse the sense, condoned makes the founders merely tolerant of comfort, and catalogued turns ascetics into inventory clerks.",
+      "id": "gregmat10__b1__se__01",
+      "unit": "gregmat10__b1",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "The mathematics in these early papers is elementary and the prose is plain; what makes them {1} is simply that they were written for the thirty or so colleagues who already agreed about what a grammar was supposed to explain.",
+      "blanks": [
+        {
+          "options": [
+            "esoteric",
+            "abstruse",
+            "recondite",
+            "turgid",
+            "opaque"
+          ],
+          "answers": [
+            "esoteric"
+          ]
+        }
+      ],
+      "words": [
+        "esoteric"
+      ],
+      "explanation": "The sentence explicitly denies difficulty — the math is elementary, the prose plain — and locates the problem in the tiny circle of readers addressed, which is precisely the audience-based sense of esoteric. Abstruse and recondite would require the content to be hard, and turgid and opaque would require the writing to be inflated or impenetrable, both of which the first clause rules out.",
+      "id": "gregmat10__b1__cloze__02",
+      "unit": "gregmat10__b1",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission's report contrived to be {1} where it should have been plain, burying its central finding in a notation perhaps thirty specialists could read, and {2} where it should have been direct, conceding that oversight had failed while never indicating who had failed to oversee.",
+      "blanks": [
+        {
+          "options": [
+            "esoteric",
+            "candid",
+            "derivative"
+          ],
+          "answers": [
+            "esoteric"
+          ]
+        },
+        {
+          "options": [
+            "evasive",
+            "elusive",
+            "forthright"
+          ],
+          "answers": [
+            "evasive"
+          ]
+        }
+      ],
+      "words": [
+        "esoteric",
+        "evasive"
+      ],
+      "explanation": "The first appositive defines the fault as writing legible only to a closed circle of specialists — an audience restriction, hence esoteric — while candid and forthright belong to the plainness the report failed to achieve. The second blank describes a document dodging a specific question, naming the failure but not the person, which is evasive; elusive would describe something merely hard to pin down rather than a deliberate dodge of an incoming question.",
+      "id": "gregmat10__b1__tc2__03",
+      "unit": "gregmat10__b1",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "Radar held the aircraft only intermittently, and on each contact the pilot took {1} action, dropping to wave height and turning hard into the coastal clutter.",
+      "blanks": [
+        {
+          "options": [
+            "evasive",
+            "elusive",
+            "allusive",
+            "illusory",
+            "invasive"
+          ],
+          "answers": [
+            "evasive"
+          ]
+        }
+      ],
+      "words": [
+        "evasive"
+      ],
+      "explanation": "Here the word must describe deliberate maneuvers taken against a specific pursuer — the technical, morally neutral sense fixed by the collocation evasive action. Elusive describes the outcome of being hard to catch rather than the act of dodging, allusive concerns indirect reference in speech, and illusory means unreal; none of these is something a pilot can take.",
+      "id": "gregmat10__b1__cloze__04",
+      "unit": "gregmat10__b1",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "The timestamped access logs did not merely raise doubts about the charge; they {1} the engineer outright, showing that the valve had been opened remotely while she was three hundred miles away.",
+      "blanks": [
+        {
+          "options": [
+            "exculpated",
+            "exonerated",
+            "indicted",
+            "impugned",
+            "censured",
+            "stigmatized"
+          ],
+          "answers": [
+            "exculpated",
+            "exonerated"
+          ]
+        }
+      ],
+      "words": [
+        "exculpate"
+      ],
+      "explanation": "The evidence establishes that she could not have done it, so the blank needs a verb meaning cleared of blame by proof: exculpated and exonerated are interchangeable here. Impugned and censured fit the formal legal register and the grammar but make the logs damning rather than clearing, and indicted and stigmatized likewise point the finger back at her.",
+      "id": "gregmat10__b1__se__05",
+      "unit": "gregmat10__b1",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "The same cache of letters that {1} the quartermaster, proving he had signed the requisitions under duress, served to {2} his commanding officer, whose annotations in the margins showed precisely who had given the order.",
+      "blanks": [
+        {
+          "options": [
+            "exculpated",
+            "impugned",
+            "censured"
+          ],
+          "answers": [
+            "exculpated"
+          ]
+        },
+        {
+          "options": [
+            "inculpate",
+            "exonerate",
+            "absolve"
+          ],
+          "answers": [
+            "inculpate"
+          ]
+        }
+      ],
+      "words": [
+        "exculpate"
+      ],
+      "explanation": "Duress removes the quartermaster's blame, so the first blank must clear him; impugned and censured would do the opposite of what the letters prove. The word same establishes one body of evidence cutting two ways, so the second blank must reverse direction and fasten blame on the officer whose marginal orders are documented — inculpate, not the clearing verbs exonerate or absolve.",
+      "id": "gregmat10__b1__tc2__06",
+      "unit": "gregmat10__b1",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options are genuinely defensible. The evidence (she was elsewhere when the transfers happened) clears her of blame, which is exactly what \"exculpate\" means — but \"vindicate\" carries the same core sense of \"clear from suspicion or blame\" and is a standard synonym in that use. The \"though\" clause is presumably meant to split them (cleared of wrongdoing ≠ proven right about her warnings), but it doesn't do that work reliably: being cleared of culpability and having one's prior warnings acknowledged are separate propositions, so \"enough to vindicate her, though the board stopped short of conceding her earlier warnings were justified\" reads perfectly naturally. A test-taker choosing \"vindicate\" would be making a well-supported reading and would be marked wrong. (The other three are clearly out: \"condone\" = excuse a wrong actually committed, \"extenuate\" = lessen the seriousness of an offense — both presuppose guilt — and \"impugn\" is the opposite direction.)",
+      "stem": "The ledger entries placed her outside the building an hour before the transfers were authorized, which was enough to {1} her, though the board stopped well short of conceding that her earlier warnings about the account had been justified."
+    }
+  ]
+}

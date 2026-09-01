@@ -1,0 +1,211 @@
+{
+  "unit": "gregmat01__b4",
+  "gregmat_group": 1,
+  "words": [
+    "humdrum",
+    "insipid",
+    "loquacious",
+    "misanthropic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Thoreau's retreat to Walden is still read as a {1} withdrawal, a settled contempt for the species as such; in fact his journals record a man who walked into town most days and delighted in gossip, and who found the pond's winter routine — the same ice, the same birds, week after week — finally more {2} than restorative.",
+      "blanks": [
+        {
+          "options": [
+            "misanthropic",
+            "gregarious",
+            "convivial"
+          ],
+          "answers": [
+            "misanthropic"
+          ]
+        },
+        {
+          "options": [
+            "humdrum",
+            "arresting",
+            "piquant"
+          ],
+          "answers": [
+            "humdrum"
+          ]
+        }
+      ],
+      "words": [
+        "misanthropic",
+        "humdrum"
+      ],
+      "explanation": "Blank 1 is fixed by \"contempt for the species as such\": misanthropy is hatred aimed at humankind wholesale, and gregarious and convivial name the opposite disposition. Blank 2 is fixed by \"the same ice, the same birds, week after week\" — sameness over a long stretch is precisely humdrum, whereas arresting and piquant would make the silence gripping rather than wearying, contradicting the contrast with \"restorative.\"",
+      "id": "gregmat01__b4__tc2__00",
+      "unit": "gregmat01__b4",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "The rule of her table, observed for forty years, was that a guest should be either {1} or silent: a talker in full flow could carry an entire evening, whereas a {2} contributor — pleasant, agreeable, and utterly without savour — killed the evening faster than any bore.",
+      "blanks": [
+        {
+          "options": [
+            "loquacious",
+            "laconic",
+            "reticent"
+          ],
+          "answers": [
+            "loquacious"
+          ]
+        },
+        {
+          "options": [
+            "insipid",
+            "piquant",
+            "arresting"
+          ],
+          "answers": [
+            "insipid"
+          ]
+        }
+      ],
+      "words": [
+        "loquacious",
+        "insipid"
+      ],
+      "explanation": "Blank 1 is glossed by \"a talker in full flow\" and stands opposite \"silent,\" so laconic and reticent are excluded. Blank 2 is glossed by \"utterly without savour,\" the literal charge insipid makes, while piquant and arresting would praise exactly the flavour the guest is said to lack.",
+      "id": "gregmat01__b4__tc2__03",
+      "unit": "gregmat01__b4",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "Ten years of the same commute, the same desk, and the same three faces at lunch had produced a life he could describe only as {1}, though pressed to complain he could not name a single thing actually wrong with it.",
+      "blanks": [
+        {
+          "options": [
+            "humdrum",
+            "monotonous",
+            "soporific",
+            "onerous",
+            "idyllic",
+            "frenetic"
+          ],
+          "answers": [
+            "humdrum",
+            "monotonous"
+          ]
+        }
+      ],
+      "words": [
+        "humdrum"
+      ],
+      "explanation": "The triple \"same... same... same\" over a decade names dullness by repetition, which is what humdrum and monotonous share. Onerous and frenetic describe burden and speed rather than sameness, soporific claims the life induces sleep, and idyllic tempts because nothing is wrong with the life — but the sentence is a grumble, not praise.",
+      "id": "gregmat01__b4__se__04",
+      "unit": "gregmat01__b4",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "Far from hiding himself away, Swift dined out constantly and relished company; his {1} streak showed itself instead in a settled conviction that the species at large was vicious and beyond improvement.",
+      "blanks": [
+        {
+          "options": [
+            "misanthropic",
+            "reclusive",
+            "retiring",
+            "aloof",
+            "insular"
+          ],
+          "answers": [
+            "misanthropic"
+          ]
+        }
+      ],
+      "words": [
+        "misanthropic"
+      ],
+      "explanation": "Misanthropy is contempt for humankind as a whole, and it is compatible with a busy social life, which is why the clause about dining out constantly does not disturb it. Reclusive, retiring, aloof, and insular all describe withdrawal from company, which the first clause explicitly denies.",
+      "id": "gregmat01__b4__cloze__05",
+      "unit": "gregmat01__b4",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Editors prized him precisely because his materials were so {1} — parish registers, freight schedules, decades of weather logs — and yet the prose he built from them was anything but {2}: he could make a tide table read like a chase.",
+      "blanks": [
+        {
+          "options": [
+            "humdrum",
+            "arresting",
+            "invidious"
+          ],
+          "answers": [
+            "humdrum"
+          ]
+        },
+        {
+          "options": [
+            "insipid",
+            "scintillating",
+            "piquant"
+          ],
+          "answers": [
+            "insipid"
+          ]
+        }
+      ],
+      "words": [
+        "humdrum",
+        "insipid"
+      ],
+      "explanation": "Blank 1 needs a word for material that is dull through unvarying repetition — registers, schedules, and logs — which is humdrum; arresting reverses the sense and invidious means provoking resentment. Blank 2 sits under \"anything but,\" so it must be the negative term the tide-table sentence disproves: insipid. Scintillating and piquant are what the prose actually is, and inserting either would make the clause contradict itself.",
+      "id": "gregmat01__b4__tc2__06",
+      "unit": "gregmat01__b4",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "Adams found Jefferson unexpectedly {1} at table, holding forth until two in the morning on soils, ploughs, crop rotation, and the Roman poets.",
+      "blanks": [
+        {
+          "options": [
+            "loquacious",
+            "garrulous",
+            "laconic",
+            "taciturn",
+            "querulous",
+            "sententious"
+          ],
+          "answers": [
+            "loquacious",
+            "garrulous"
+          ]
+        }
+      ],
+      "words": [
+        "loquacious"
+      ],
+      "explanation": "\"Holding forth until two in the morning\" across four unrelated subjects establishes sheer volume of talk, the sense loquacious and garrulous share. Laconic and taciturn are the direct opposites, querulous means peevishly complaining, and sententious means moralizing in pompous maxims — none of which the evidence of the sentence supports.",
+      "id": "gregmat01__b4__se__07",
+      "unit": "gregmat01__b4",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "A second pair genuinely fits: \"banal\" + \"derivative\" both mean trite/unoriginal and produce a coherent, arguably better-signalled sentence, because the concessive frame (\"premises were startlingly original, BUT the execution ___\") explicitly sets up an original/unoriginal contrast. The colon clue (\"nothing whatever to savour\") is meant to force the flavourless reading (insipid/vapid), but it does not rule out stale, clichéd prose — hackneyed writing also offers nothing to relish. \"Banal\" further overlaps with insipid/vapid in the general sense of \"dull,\" creating a three-way tangle. Remove either \"banal\" or \"derivative\" and sharpen the clue toward flatness rather than staleness (e.g. \"the prose so flat that page after page went by with nothing whatever to savour\").",
+      "stem": "Reviewers conceded that the young novelist's premises were startlingly original, but found the execution {1}: page after page went by with nothing whatever to savour."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three of the five options (loquacious, garrulous, prolix) are near-synonyms that all fit \"talked far too much for four hours.\" The only thing separating them is the euphemism cue, which requires the mildest/most neutral term — a register distinction, not a meaning distinction. \"Garrulous\" is arguably the most accurate description of a witness volunteering unrequested trivia at length, and a test-taker reading the blank as describing (rather than understating) the behavior picks it with a straight face. \"Prolix\" is similarly defensible as a dry stylistic downgrade. The defect is that the sentence never states the harsher characterization the euphemism is softening, so there is no anchor fixing how mild the blank must be; the discrimination rests on outside knowledge of connotation rather than on sentence logic.",
+      "stem": "Calling the chauffeur merely {1} was counsel's dry euphemism for a witness who, over four unbroken hours, volunteered a great deal that no one in the court had asked for."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat17__b2",
+  "gregmat_group": 17,
+  "words": [
+    "disingenuous",
+    "divulge",
+    "dogmatic",
+    "fallacious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The senator's defense of the projection was not merely {1} — it leapt from a single anomalous quarter to a decade-long trend, an inference no economist on the panel would have signed — but {2} as well, since she posed her objection as an innocent request for clarification while knowing perfectly well which definition of \"deficit\" was in play.",
+      "blanks": [
+        {
+          "options": [
+            "fallacious",
+            "cogent",
+            "empirical"
+          ],
+          "answers": [
+            "fallacious"
+          ]
+        },
+        {
+          "options": [
+            "disingenuous",
+            "ingenuous",
+            "dogmatic"
+          ],
+          "answers": [
+            "disingenuous"
+          ]
+        }
+      ],
+      "words": [
+        "fallacious",
+        "disingenuous"
+      ],
+      "explanation": "The dash-clause names a broken inference — a leap from one data point to a trend — which is exactly what fallacious diagnoses: the path to the conclusion, not the arguer's honesty. The second blank adds a separate charge, feigned innocence masking exact knowledge, which is disingenuous; ingenuous would mean she genuinely was naive, contradicting \"knowing perfectly well,\" and dogmatic would describe an unarguable tone rather than a pretended one.",
+      "id": "gregmat17__b2__tc2__00",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Bound by the confidentiality clause of the settlement, the former executive would not {1} even the sum her employer had paid to end the suit, let alone the allegations that had prompted it.",
+      "blanks": [
+        {
+          "options": [
+            "divulge",
+            "disclose",
+            "disseminate",
+            "suppress",
+            "cloak",
+            "apprise"
+          ],
+          "answers": [
+            "divulge",
+            "disclose"
+          ]
+        }
+      ],
+      "words": [
+        "divulge"
+      ],
+      "explanation": "The object is a nameable secret under seal — a settlement figure — so the sentence needs a verb meaning to unseal it: divulge and disclose are interchangeable here. Suppress and cloak fit the grammar and the formal register but reverse the meaning, describing what the clause already accomplishes; disseminate means to spread broadly rather than to reveal a confidence, and apprise requires a person as its object (apprise the board of the sum).",
+      "id": "gregmat17__b2__se__01",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Whatever one makes of Kael's verdicts on Kubrick, they were rarely offered as arguments at all: backed by no school and no program, they were simply {1} — pronouncements from which a reader could trace no route back to evidence, and none forward to a rebuttal.",
+      "blanks": [
+        {
+          "options": [
+            "dogmatic",
+            "doctrinaire",
+            "tentative",
+            "heterodox",
+            "ingenuous"
+          ],
+          "answers": [
+            "dogmatic"
+          ]
+        }
+      ],
+      "words": [
+        "dogmatic"
+      ],
+      "explanation": "The fault located here is one of delivery — flat pronouncement in place of argument — and the stem explicitly strips away any system of belief, which is what dogmatic uniquely permits: it attaches to a tone or an utterance and needs no doctrine behind it. Doctrinaire is the trap, but it requires precisely the school or program the sentence says is absent; heterodox describes the content's relation to orthodoxy, not its manner.",
+      "id": "gregmat17__b2__cloze__02",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Because departmental policy requires officers to remain {1} about any pending investigation, the sergeant's decision to {2} the informant's name at an open press conference struck his colleagues as not merely irregular but reckless.",
+      "blanks": [
+        {
+          "options": [
+            "reticent",
+            "forthcoming",
+            "brazen"
+          ],
+          "answers": [
+            "reticent"
+          ]
+        },
+        {
+          "options": [
+            "divulge",
+            "suppress",
+            "corroborate"
+          ],
+          "answers": [
+            "divulge"
+          ]
+        }
+      ],
+      "words": [
+        "divulge"
+      ],
+      "explanation": "The causal \"because\" makes the second act a violation of the first: a policy of silence is broken by an officer who chooses to unseal a protected name, and divulge is the word for a deliberate agent releasing a nameable confidence. Suppress would honor the policy rather than breach it, so nothing would strike colleagues as reckless, and forthcoming in the first blank would leave the press conference unremarkable.",
+      "id": "gregmat17__b2__tc2__03",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Every sentence of the apology was technically accurate, which is precisely why the pose of bewilderment it sustained throughout — as though its author could not conceive why anyone had taken offense — struck the review committee as {1}.",
+      "blanks": [
+        {
+          "options": [
+            "disingenuous",
+            "insincere",
+            "mendacious",
+            "ingenuous",
+            "artless",
+            "ingenious"
+          ],
+          "answers": [
+            "disingenuous",
+            "insincere"
+          ]
+        }
+      ],
+      "words": [
+        "disingenuous"
+      ],
+      "explanation": "What is counterfeit is the bewilderment, not the facts, so disingenuous and insincere are the equivalent pair. Mendacious is ruled out by \"technically accurate,\" since it charges outright falsehood; ingenuous and artless would credit the pose as genuine, and ingenious — the lookalike — would praise the apology's cleverness rather than impugn its honesty.",
+      "id": "gregmat17__b2__se__04",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Hume's quarrel with the astrologer was never about sincerity; a man may believe his own tables devoutly and still reason badly. The inference from an unbroken run of past coincidences to a necessary connection between planet and harvest is {1} however earnestly it is advanced.",
+      "blanks": [
+        {
+          "options": [
+            "fallacious",
+            "mendacious",
+            "disingenuous",
+            "dogmatic",
+            "cogent"
+          ],
+          "answers": [
+            "fallacious"
+          ]
+        }
+      ],
+      "words": [
+        "fallacious"
+      ],
+      "explanation": "The stem twice insists the astrologer is sincere and locates the defect in an inference, which is exactly the territory fallacious owns: it is neutral about motive and names a broken step of reasoning. Mendacious and disingenuous both impute bad faith, which the sentence has explicitly conceded away, and dogmatic would describe the manner of assertion rather than the structure of the argument.",
+      "id": "gregmat17__b2__cloze__05",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from being the {1} traditionalist his opponents caricatured, Boas held his central claims loosely, abandoning them whenever the fieldwork embarrassed them; what his students inherited was therefore less a body of settled doctrine than a habit of {2}.",
+      "blanks": [
+        {
+          "options": [
+            "dogmatic",
+            "iconoclastic",
+            "tentative"
+          ],
+          "answers": [
+            "dogmatic"
+          ]
+        },
+        {
+          "options": [
+            "self-correction",
+            "certitude",
+            "deference"
+          ],
+          "answers": [
+            "self-correction"
+          ]
+        }
+      ],
+      "words": [
+        "dogmatic"
+      ],
+      "explanation": "\"Far from\" sets up a contrast with what follows, so the first blank must name the opposite of holding claims loosely and revising them — the closed, unarguable posture of the dogmatic. Tentative would describe Boas as he actually was rather than as his enemies painted him, and iconoclastic contradicts \"traditionalist\"; the second blank then names the inherited habit, which the revising of embarrassed claims makes self-correction rather than certitude.",
+      "id": "gregmat17__b2__tc2__06",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers found the paper's conclusion congenial and quite possibly true, yet the derivation that produced it was {1}: causation had been inferred from a correlation observed in one unreplicated growing season.",
+      "blanks": [
+        {
+          "options": [
+            "fallacious",
+            "unsound",
+            "tendentious",
+            "plausible",
+            "cogent",
+            "ingenious"
+          ],
+          "answers": [
+            "fallacious",
+            "unsound"
+          ]
+        }
+      ],
+      "words": [
+        "fallacious"
+      ],
+      "explanation": "The conclusion may hold, but the route to it is broken — a named error, post hoc reasoning from a single season — so fallacious and unsound are the equivalent pair, both faulting the inference rather than the claim. Tendentious would allege bias in the author, which the reviewers' warmth toward the conclusion does not support; plausible and cogent commend the reasoning the colon goes on to demolish, and ingenious praises its cleverness.",
+      "id": "gregmat17__b2__se__07",
+      "unit": "gregmat17__b2",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": []
+}

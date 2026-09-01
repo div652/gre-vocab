@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat05__b0",
+  "gregmat_group": 5,
+  "words": [
+    "aloof",
+    "clangor",
+    "conventional",
+    "debunk"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Two habits earned the composer his reputation for coldness: he refused to {1} the aristocrats whose subscriptions kept him solvent, and he remained {2} in company, offering even the musicians who admired him neither confidences nor complaints.",
+      "blanks": [
+        {
+          "options": [
+            "fawn on",
+            "disdain",
+            "gainsay"
+          ],
+          "answers": [
+            "fawn on"
+          ]
+        },
+        {
+          "options": [
+            "aloof",
+            "obsequious",
+            "vivacious"
+          ],
+          "answers": [
+            "aloof"
+          ]
+        }
+      ],
+      "words": [
+        "aloof"
+      ],
+      "explanation": "The colon promises two behaviors that add up to a reputation for coldness: refusing to flatter (fawn on) patrons, and being present but unforthcoming. Disdain and gainsay fail because refusing to scorn or refusing to contradict would not read as cold. In the second blank, obsequious is the opposite of the first habit and vivacious the opposite of the whole sentence; aloof is the one word for someone who is in company and still will not engage.",
+      "id": "gregmat05__b0__tc2__00",
+      "unit": "gregmat05__b0",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Colleagues who sat beside her for a decade described her as {1}: present at every meeting, unfailingly courteous, and yet somehow never available to be known.",
+      "blanks": [
+        {
+          "options": [
+            "aloof",
+            "remote",
+            "gregarious",
+            "obsequious",
+            "callous",
+            "taciturn"
+          ],
+          "answers": [
+            "aloof",
+            "remote"
+          ]
+        }
+      ],
+      "words": [
+        "aloof"
+      ],
+      "explanation": "The sentence sets up a person who attends and is polite but withholds herself, which is exactly the chosen, unexplained distance named by aloof and by remote. Callous would mean unfeeling toward others' suffering, and taciturn would mean habitually silent, but she is described as courteous and in constant company; gregarious and obsequious point the other way entirely.",
+      "id": "gregmat05__b0__se__01",
+      "unit": "gregmat05__b0",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "The poem's forge scene works entirely by contrast: twenty lines of {1} pastoral murmur give way, without transition, to the {2} of hammer on anvil, stroke after stroke.",
+      "blanks": [
+        {
+          "options": [
+            "subdued",
+            "clamorous",
+            "obstreperous"
+          ],
+          "answers": [
+            "subdued"
+          ]
+        },
+        {
+          "options": [
+            "clangor",
+            "croon",
+            "cacophony"
+          ],
+          "answers": [
+            "clangor"
+          ]
+        }
+      ],
+      "words": [
+        "clangor"
+      ],
+      "explanation": "\"By contrast\" requires the opening to be quiet, so clamorous and obstreperous are excluded and subdued is forced. The second blank names a sustained metallic ringing, which is clangor; croon is a soft low singing, and cacophony would require a jumble of discordant sounds rather than one iron stroke repeated.",
+      "id": "gregmat05__b0__tc2__02",
+      "unit": "gregmat05__b0",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Descending to the engine room, the inspector could barely make out the chief engineer's shouted answers above the {1} of pistons and loose deck plating.",
+      "blanks": [
+        {
+          "options": [
+            "clangor",
+            "croon",
+            "vociferation",
+            "murmur",
+            "placidity"
+          ],
+          "answers": [
+            "clangor"
+          ]
+        }
+      ],
+      "words": [
+        "clangor"
+      ],
+      "explanation": "Metal striking metal, loud enough to bury a shout, is the precise territory of clangor. Vociferation would be loud human outcry, which machinery cannot produce, while croon, murmur, and placidity all name softness where the sentence demands din.",
+      "id": "gregmat05__b0__cloze__03",
+      "unit": "gregmat05__b0",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers could not decide what to make of the surgeon-poet: his operative technique was resolutely {1}, favoring the incision that every textbook still recommends, while his verse was so {2} that critics could name no tradition to place it in.",
+      "blanks": [
+        {
+          "options": [
+            "conventional",
+            "iconoclastic",
+            "anomalous"
+          ],
+          "answers": [
+            "conventional"
+          ]
+        },
+        {
+          "options": [
+            "idiosyncratic",
+            "derivative",
+            "hackneyed"
+          ],
+          "answers": [
+            "idiosyncratic"
+          ]
+        }
+      ],
+      "words": [
+        "conventional"
+      ],
+      "explanation": "Doing what every textbook recommends is the neutral, procedural sense of conventional; iconoclastic and anomalous would contradict the textbook clause and destroy the contrast the sentence is built on. Verse that belongs to no nameable tradition is idiosyncratic, whereas derivative and hackneyed would mean it belongs to an existing tradition all too obviously.",
+      "id": "gregmat05__b0__tc2__04",
+      "unit": "gregmat05__b0",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Marketed as a decisive break with the past, the firm's new headquarters proves in every structural respect {1}: a steel frame, a glass curtain wall, and a floor plan indistinguishable from that of the 1960s towers around it.",
+      "blanks": [
+        {
+          "options": [
+            "conventional",
+            "iconoclastic",
+            "outlandish",
+            "anomalous",
+            "idiosyncratic"
+          ],
+          "answers": [
+            "conventional"
+          ]
+        }
+      ],
+      "words": [
+        "conventional"
+      ],
+      "explanation": "The colon supplies features indistinguishable from the surrounding norm, which is what conventional means: doing what the room already does. Iconoclastic, outlandish, anomalous, and idiosyncratic all assert departure from the norm and so contradict the evidence the sentence itself offers.",
+      "id": "gregmat05__b0__cloze__05",
+      "unit": "gregmat05__b0",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "The newly recovered diaries record three months of methodical revision, allowing scholars at last to {1} the cherished story that the composer wrote the mass in a single feverish night.",
+      "blanks": [
+        {
+          "options": [
+            "debunk",
+            "refute",
+            "corroborate",
+            "embellish",
+            "aver",
+            "extol"
+          ],
+          "answers": [
+            "debunk",
+            "refute"
+          ]
+        }
+      ],
+      "words": [
+        "debunk"
+      ],
+      "explanation": "Evidence of three months' labor destroys a story about one night, and it is a story with standing and admirers, which is precisely what one debunks or refutes. Corroborate, aver, and extol would have the diaries supporting a claim they contradict, and embellish would mean adding to the legend rather than exposing it.",
+      "id": "gregmat05__b0__se__07",
+      "unit": "gregmat05__b0",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['corroborating', 'belies'] vs ['corroborates', 'debunking']",
+      "problem": "Blank 2 is not uniquely determined. The evidence clause (borrowed law books, tutors' receipts the subject denied needing) establishes only that the biography undercuts the self-taught legend — and BOTH \"belies\" and \"impugns\" express exactly that. \"Quietly impugns the legend, producing the receipts...\" is a perfectly idiomatic sentence; the only argument against it is a soft register claim that \"impugn\" connotes overt attack while \"quietly\" suggests understatement, which is far too thin a hook for a scored item. A test-taker who picks \"impugns\" is defensibly right.\n\nBlank 1 has a weaker but real second issue: \"averring\" also means asserting the legend as true, so \"far from averring the legend ... quietly belies it\" is coherent; \"corroborating\" is preferable mainly because it pairs with documentary evidence, not because \"averring\" is logically excluded.\n\nThere is also a structural loophole: \"far from\" can negate manner rather than direction (cf. \"far from shouting, he whispered\"), so a solver can read \"Far from debunking the legend, the new biography quietly belies it\" as \"it doesn't loudly demolish the legend, it quietly undercuts it\" — an internally consistent, if less likely, reading that the sentence does nothing to block.",
+      "stem": "Far from {1} the legend of the self-taught frontier lawyer, the new biography quietly {2} it, producing the borrowed law books and tutors' receipts that its subject had always denied needing."
+    }
+  ]
+}

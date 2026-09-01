@@ -1,0 +1,236 @@
+{
+  "unit": "gregmat08__b0",
+  "gregmat_group": 8,
+  "words": [
+    "accentuate",
+    "conjectural",
+    "convivial",
+    "decadent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Since no documentation of the chapel's original coloring survives, the restorers' choice of vermilion is frankly {1}; they insist, however, that the shade merely {2} contrasts the painter himself had built into the composition.",
+      "blanks": [
+        {
+          "options": [
+            "conjectural",
+            "incontrovertible",
+            "meticulous"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        },
+        {
+          "options": [
+            "accentuates",
+            "exaggerates",
+            "obscures"
+          ],
+          "answers": [
+            "accentuates"
+          ]
+        }
+      ],
+      "words": [
+        "accentuate",
+        "conjectural"
+      ],
+      "explanation": "The absence of documentation makes the color an inference rather than a finding, which is exactly what conjectural labels; incontrovertible asserts the opposite evidentiary status, and meticulous grades care rather than proof. In the second blank, the restorers' defense is that the vermilion only sharpens contrasts the painter had already put there — the definition of accentuate, whereas exaggerate would concede they had pushed past the truth and obscure would concede they had hidden it.",
+      "id": "gregmat08__b0__tc2__00",
+      "unit": "gregmat08__b0",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Median incomes fell at roughly the same rate in every bracket, so the downturn cannot be said to have widened the country's class divide; what it did was {1} a division that decades of prosperity had kept discreetly out of view.",
+      "blanks": [
+        {
+          "options": [
+            "accentuate",
+            "underscore",
+            "exacerbate",
+            "engender",
+            "mitigate",
+            "blur"
+          ],
+          "answers": [
+            "accentuate",
+            "underscore"
+          ]
+        }
+      ],
+      "words": [
+        "accentuate"
+      ],
+      "explanation": "The sentence explicitly denies that the gap grew, so the missing word must mean \"made an existing division conspicuous\": accentuate and underscore both do exactly that and yield equivalent sentences. Exacerbate and engender fail because they assert, respectively, that the divide worsened and that it was created, which the first clause rules out; mitigate and blur reverse the sense.",
+      "id": "gregmat08__b0__se__01",
+      "unit": "gregmat08__b0",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "Ussher's chronology of creation is {1} through and through — no inscription, archive, or observation supports its dates — and yet he set it down with the flat confidence of a clerk copying a ledger.",
+      "blanks": [
+        {
+          "options": [
+            "conjectural",
+            "tentative",
+            "incontrovertible",
+            "empirical",
+            "polemical"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "conjectural"
+      ],
+      "explanation": "Conjectural grades the claim's evidentiary standing — inference unsupported by documentation — which is precisely what the dashed clause spells out, and it is compatible with the flat confidence of the final clause. Tentative would describe how the claim is held, and the sentence insists it was held without hesitation; empirical and incontrovertible describe the evidence the chronology conspicuously lacks.",
+      "id": "gregmat08__b0__cloze__02",
+      "unit": "gregmat08__b0",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Radiometric dating fixes the skull at 300,000 years and no one disputes the figure, but the account of how its owner actually lived is {1}: behavior fossilizes poorly, so nearly every claim in that account rests on {2} from present-day foraging peoples.",
+      "blanks": [
+        {
+          "options": [
+            "conjectural",
+            "substantiated",
+            "axiomatic"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        },
+        {
+          "options": [
+            "extrapolation",
+            "corroboration",
+            "transcription"
+          ],
+          "answers": [
+            "extrapolation"
+          ]
+        }
+      ],
+      "words": [
+        "conjectural"
+      ],
+      "explanation": "The contrast with the undisputed date, plus the admission that behavior leaves no trace, marks the behavioral account as inference rather than evidence — conjectural; substantiated claims the opposite, and axiomatic would mean assumed without needing proof. The second blank must name the move that produces such inference, reasoning outward from a known case to an unknown one, which is extrapolation; corroboration would supply the very support the sentence says is missing.",
+      "id": "gregmat08__b0__tc2__03",
+      "unit": "gregmat08__b0",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "By temperament Larkin was {1} — he kept few friends and dreaded small talk — and so his birthday dinners came as a surprise to those who knew him: {2} affairs that ran past midnight, with the wine going round and the argument never flagging.",
+      "blanks": [
+        {
+          "options": [
+            "retiring",
+            "gregarious",
+            "ebullient"
+          ],
+          "answers": [
+            "retiring"
+          ]
+        },
+        {
+          "options": [
+            "convivial",
+            "decorous",
+            "perfunctory"
+          ],
+          "answers": [
+            "convivial"
+          ]
+        }
+      ],
+      "words": [
+        "convivial"
+      ],
+      "explanation": "The dash gloss — few friends, a dread of small talk — fixes the first blank as retiring, the opposite of gregarious or ebullient, and it is that disposition that makes the dinners surprising. The second blank needs a word for the occasion rather than the man, one that carries table, wine, and a long evening: convivial does, while decorous would describe restraint the wine and argument contradict and perfunctory would make the dinners brief and dutiful.",
+      "id": "gregmat08__b0__tc2__04",
+      "unit": "gregmat08__b0",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "By the 1890s Vienna's sterner critics had settled on a single verdict for the city's painting: {1} — technically dazzling, endlessly ornamental, and produced, they charged, by a society that had stopped believing in anything worth building.",
+      "blanks": [
+        {
+          "options": [
+            "decadent",
+            "ascetic",
+            "austere",
+            "nascent",
+            "derivative"
+          ],
+          "answers": [
+            "decadent"
+          ]
+        }
+      ],
+      "words": [
+        "decadent"
+      ],
+      "explanation": "Decadent is the one option that joins luxurious ornament to the charge of decline from a former height — pleasure and polish standing in for conviction, which is exactly the accusation the final clause makes. Derivative would fault the painting for unoriginality rather than softness, and ascetic and austere name the self-denial the critics say Vienna has abandoned.",
+      "id": "gregmat08__b0__cloze__06",
+      "unit": "gregmat08__b0",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Gibbon's Rome is finally a morality play: the {1} republic of Cato, whose citizens ate at their own hearths and grudged themselves every comfort, gives way to an empire so {2} that a proconsul could tax a province to stock one night's banquet.",
+      "blanks": [
+        {
+          "options": [
+            "austere",
+            "opulent",
+            "fractious"
+          ],
+          "answers": [
+            "austere"
+          ]
+        },
+        {
+          "options": [
+            "decadent",
+            "spartan",
+            "sober"
+          ],
+          "answers": [
+            "decadent"
+          ]
+        }
+      ],
+      "words": [
+        "decadent"
+      ],
+      "explanation": "Citizens who eat at home and grudge themselves comfort are austere; opulent contradicts the description and fractious names quarrelsomeness the clause never mentions. The second blank must complete the fall from that height into luxury taken instead of civic effort — decadent — while spartan and sober are synonyms of the first answer and would collapse the contrast the sentence is built on.",
+      "id": "gregmat08__b0__tc2__07",
+      "unit": "gregmat08__b0",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option set contains three words from the same \"merry/sociable gathering\" family — convivial, jocund, and gregarious — and the sentence provides no clue that discriminates among them. The evidence given (plain food, wine that \"did not stop,\" no one leaving before 1 a.m.) points to sustained sociable enjoyment; \"convivial\" + \"gregarious\" is at least as defensible a pair on that evidence as \"convivial\" + \"jocund,\" since nothing in the sentence specifies mirth/laughter as opposed to sociability. The only thing arguably ruling out \"gregarious\" is a fine usage point (it canonically describes people's disposition rather than an event), which is too thin a hook for a test-taker to be marked wrong on. Decorous, perfunctory, and austere are correctly excluded (austere is actively contradicted by the endless wine and late hours), but the intended pair is not uniquely determined. Fix by dropping either \"jocund\" or \"gregarious\" from the options, or by adding a clue that selects mirth specifically (e.g. mention of laughter/argument overheard from the street).",
+      "stem": "Contemporary accounts of the Thursday dinners in Gordon Square describe evenings that were unfailingly {1}: the food was plain, the wine did not stop, and no one rose from the table before one in the morning."
+    }
+  ]
+}

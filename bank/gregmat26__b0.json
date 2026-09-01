@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat26__b0",
+  "gregmat_group": 26,
+  "words": [
+    "apprehension",
+    "ardent",
+    "axiomatic",
+    "cease"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the delegates professed {1} enthusiasm for the treaty at the signing ceremony, their private correspondence from those same weeks betrays a steady {2} that the disarmament clauses would prove unenforceable.",
+      "blanks": [
+        {
+          "options": [
+            "ardent",
+            "arduous",
+            "perfunctory"
+          ],
+          "answers": [
+            "ardent"
+          ]
+        },
+        {
+          "options": [
+            "apprehension",
+            "indictment",
+            "ennui"
+          ],
+          "answers": [
+            "apprehension"
+          ]
+        }
+      ],
+      "words": [
+        "ardent",
+        "apprehension"
+      ],
+      "explanation": "\"Though\" sets public warmth against private dread, so the first blank must be strongly positive: ardent, the flattering word for burning devotion. Arduous is the lookalike meaning laborious, and perfunctory (going through the motions) would destroy the contrast rather than create it. The second blank needs uneasy anticipation of a specific coming event — the clauses failing — which is apprehension; an indictment is a formal charge and ennui is boredom, not dread.",
+      "id": "gregmat26__b0__tc2__00",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Douglass found in the young senator an unexpectedly {1} advocate, one who pressed the emancipation bill on the floor long after cooler colleagues had written it off.",
+      "blanks": [
+        {
+          "options": [
+            "ardent",
+            "fervent",
+            "nominal",
+            "belated",
+            "tepid",
+            "perfunctory"
+          ],
+          "answers": [
+            "ardent",
+            "fervent"
+          ]
+        }
+      ],
+      "words": [
+        "ardent"
+      ],
+      "explanation": "The clause about pressing the bill after others had given up demands a word for burning commitment, and ardent and fervent are interchangeable here, both yielding an admiring description of intense devotion. Nominal (an advocate in name only) and belated (arriving late) fit the grammar and the formal register but describe an entirely different senator. Tepid and perfunctory point the opposite way, matching the \"cooler colleagues\" the sentence explicitly contrasts him with.",
+      "id": "gregmat26__b0__se__01",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "The crew boarded the refitted submarine with unmistakable {1}, aware that the same hull had failed a pressure test only a month before.",
+      "blanks": [
+        {
+          "options": [
+            "apprehension",
+            "trepidation",
+            "resignation",
+            "composure",
+            "alacrity",
+            "indifference"
+          ],
+          "answers": [
+            "apprehension",
+            "trepidation"
+          ]
+        }
+      ],
+      "words": [
+        "apprehension"
+      ],
+      "explanation": "The known prior failure supplies a specific impending danger, which is exactly what apprehension and trepidation attach to — restrained dread of what is about to happen. Resignation (accepting a fate without protest) and composure both fit the sentence smoothly and are the tempting wrong pair, but neither means dread. Alacrity and indifference reverse or flatten the feeling the second clause has just motivated.",
+      "id": "gregmat26__b0__se__02",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "The statute authorizes officers to cross county lines only when the {1} of a suspect in flight cannot otherwise be accomplished.",
+      "blanks": [
+        {
+          "options": [
+            "apprehension",
+            "indictment",
+            "arraignment",
+            "subpoena",
+            "deposition"
+          ],
+          "answers": [
+            "apprehension"
+          ]
+        }
+      ],
+      "words": [
+        "apprehension"
+      ],
+      "explanation": "Here the tested sense is the legal one: apprehension means the physical seizure of a person, which is what pursuit across county lines would accomplish. Indictment and arraignment are paperwork stages that follow a capture rather than effect one, and a subpoena or deposition concerns testimony, not custody. Dread makes no sense in the slot, which is the cue to reach for the courtroom meaning.",
+      "id": "gregmat26__b0__cloze__03",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "What one generation of economists held to be {1} — a starting point too plain to require any defense — the next insisted on treating as a mere hypothesis, demanding the sort of field data that might actually {2} it.",
+      "blanks": [
+        {
+          "options": [
+            "axiomatic",
+            "conjectural",
+            "corroborated"
+          ],
+          "answers": [
+            "axiomatic"
+          ]
+        },
+        {
+          "options": [
+            "substantiate",
+            "obviate",
+            "presuppose"
+          ],
+          "answers": [
+            "substantiate"
+          ]
+        }
+      ],
+      "words": [
+        "axiomatic"
+      ],
+      "explanation": "A premise granted without defense is axiomatic; conjectural means the opposite (offered as guesswork), and corroborated would mean evidence had already been supplied, which the appositive denies. The second blank must name what field data does for a hypothesis — substantiate it; obviate means to make unnecessary, and presuppose is what the earlier generation did, not what data can do.",
+      "id": "gregmat26__b0__tc2__04",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "For most of the nineteenth century it was {1} among European geologists that the earth's features arose from forces still observable today; the principle was not so much defended as presupposed.",
+      "blanks": [
+        {
+          "options": [
+            "axiomatic",
+            "incontrovertible",
+            "conjectural",
+            "tendentious",
+            "tenuous"
+          ],
+          "answers": [
+            "axiomatic"
+          ]
+        }
+      ],
+      "words": [
+        "axiomatic"
+      ],
+      "explanation": "The final clause — not defended, merely presupposed — describes a claim sitting before the argument as a granted starting point, which is precisely axiomatic. Incontrovertible is the closest trap, but it describes a conclusion whose evidence has become overwhelming, and no evidence is being offered here at all. Conjectural and tenuous say the claim was shaky, and tendentious says it was slanted toward a cause.",
+      "id": "gregmat26__b0__cloze__05",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "The 1817 armistice obliged both squadrons to {1} fire at midnight, yet skirmishing dragged on for weeks — less from bad faith, most historians now conclude, than from the {2} manner in which the order was relayed to distant garrisons.",
+      "blanks": [
+        {
+          "options": [
+            "cease",
+            "rescind",
+            "protract"
+          ],
+          "answers": [
+            "cease"
+          ]
+        },
+        {
+          "options": [
+            "perfunctory",
+            "ardent",
+            "expeditious"
+          ],
+          "answers": [
+            "perfunctory"
+          ]
+        }
+      ],
+      "words": [
+        "cease",
+        "ardent"
+      ],
+      "explanation": "Fire is an ongoing activity brought to an end by official instrument, the formal register cease was made for; rescind applies to orders and statutes rather than to fire, and protract would mean prolonging it. The second blank must explain a delay that is careless rather than deliberate: a perfunctory relay, done listlessly and by rote. Expeditious would make the delay inexplicable, and ardent points toward something one is devoted to, never at a manner of transmitting orders.",
+      "id": "gregmat26__b0__tc2__06",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "The commission's letter directed the firm to {1} and desist from advertising the tonic as a cure for consumption.",
+      "blanks": [
+        {
+          "options": [
+            "cease",
+            "forbear",
+            "abstain",
+            "relent",
+            "withdraw"
+          ],
+          "answers": [
+            "cease"
+          ]
+        }
+      ],
+      "words": [
+        "cease"
+      ],
+      "explanation": "The formal legal doublet is fixed — cease and desist — and the register of an official commission letter is exactly where cease belongs. Forbear and abstain mean holding back from something not yet begun, whereas the firm is already advertising; relent means to soften toward a plea, and withdraw would need an object such as the claim.",
+      "id": "gregmat26__b0__cloze__07",
+      "unit": "gregmat26__b0",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat36__b4",
+  "gregmat_group": 36,
+  "words": [
+    "intelligible",
+    "makeshift",
+    "onetime",
+    "opportunistic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers conceded that the English version of Bergson's essay was, at bottom, {1} — but only barely: what the original had rendered {2} in a dozen unhurried pages the translator had compressed into a thicket of subordinate clauses.",
+      "blanks": [
+        {
+          "options": [
+            "intelligible",
+            "pellucid",
+            "impenetrable"
+          ],
+          "answers": [
+            "intelligible"
+          ]
+        },
+        {
+          "options": [
+            "lucid",
+            "turbid",
+            "recondite"
+          ],
+          "answers": [
+            "lucid"
+          ]
+        }
+      ],
+      "words": [
+        "intelligible"
+      ],
+      "explanation": "\"Conceded ... at bottom, but only barely\" marks the bare floor of comprehension, which is exactly what intelligible certifies; pellucid is luminous praise and cannot be qualified by \"only barely,\" while impenetrable would deny that the bar was cleared at all. The second blank must praise the original against the translator's thicket, so lucid is required — turbid and recondite would make the original as murky as the version being criticized, destroying the contrast.",
+      "id": "gregmat36__b4__tc2__00",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "The volunteers' subtitles at least made the thick regional dialect {1} to outsiders, though nobody pretended the phrasing was graceful or the jokes intact.",
+      "blanks": [
+        {
+          "options": [
+            "intelligible",
+            "comprehensible",
+            "mellifluous",
+            "idiomatic",
+            "cryptic",
+            "decorous"
+          ],
+          "answers": [
+            "intelligible",
+            "comprehensible"
+          ]
+        }
+      ],
+      "words": [
+        "intelligible"
+      ],
+      "explanation": "The concessive \"at least ... though nobody pretended\" sets the standard at the minimum — the meaning got through — which is precisely the work intelligible and comprehensible do. Mellifluous and decorous are the qualities the sentence explicitly denies, idiomatic claims a naturalness the clumsy phrasing rules out, and cryptic reverses the sense.",
+      "id": "gregmat36__b4__se__01",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "In the Platonic scheme the {1} realm — grasped by intellect alone and wholly unavailable to sight or touch — enjoys a permanence that the shifting world of particulars can never attain.",
+      "blanks": [
+        {
+          "options": [
+            "intelligible",
+            "sensible",
+            "palpable",
+            "corporeal",
+            "empirical"
+          ],
+          "answers": [
+            "intelligible"
+          ]
+        }
+      ],
+      "words": [
+        "intelligible"
+      ],
+      "explanation": "Philosophy uses intelligible as a technical term for what is apprehended by intellect rather than by the senses, which is what \"grasped by intellect alone\" names. Sensible is its standing opposite in that very contrast, and palpable, corporeal, and empirical all locate the realm in the sensory world the clause explicitly excludes.",
+      "id": "gregmat36__b4__cloze__02",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "The field hospitals of the retreat were {1} affairs, their operating tables improvised from barn doors and their lamps rigged out of bayonets, yet the surgery performed in them was anything but {2}: every amputation followed a protocol the staff had drilled for years.",
+      "blanks": [
+        {
+          "options": [
+            "makeshift",
+            "prefabricated",
+            "sanctioned"
+          ],
+          "answers": [
+            "makeshift"
+          ]
+        },
+        {
+          "options": [
+            "extemporized",
+            "meticulous",
+            "humane"
+          ],
+          "answers": [
+            "extemporized"
+          ]
+        }
+      ],
+      "words": [
+        "makeshift"
+      ],
+      "explanation": "Tables from barn doors and lamps from bayonets are physical stand-ins assembled from whatever lay to hand — the exact province of makeshift; prefabricated asserts the opposite origin and sanctioned speaks to authorization rather than construction. The colon then explains what the surgery was not: a long-drilled protocol excludes extemporized, whereas \"anything but meticulous\" would contradict the drilling and \"anything but humane\" is unsupported by anything in the sentence.",
+      "id": "gregmat36__b4__tc2__03",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "After the levee gave way, families slept for weeks under {1} shelters of tarpaulin and salvaged plywood that the relief agency kept promising to replace with proper housing.",
+      "blanks": [
+        {
+          "options": [
+            "makeshift",
+            "improvised",
+            "prefabricated",
+            "sturdy",
+            "capacious",
+            "ceremonial"
+          ],
+          "answers": [
+            "makeshift",
+            "improvised"
+          ]
+        }
+      ],
+      "words": [
+        "makeshift"
+      ],
+      "explanation": "Tarpaulin and salvaged plywood awaiting replacement by \"proper housing\" describe a crude temporary substitute thrown together from what was available, so makeshift and improvised yield equivalent sentences. Prefabricated implies factory manufacture rather than salvage, and sturdy and capacious both fit the noun comfortably while asserting a solidity or scale the passage never claims.",
+      "id": "gregmat36__b4__se__04",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Now that the two have not spoken in a decade, the memoir is unsparing about her {1} mentor, whose late conversion to the reform cause it treats as nakedly {2}: a bid for relevance timed to the polling, not a change of mind.",
+      "blanks": [
+        {
+          "options": [
+            "onetime",
+            "prospective",
+            "putative"
+          ],
+          "answers": [
+            "onetime"
+          ]
+        },
+        {
+          "options": [
+            "opportunistic",
+            "principled",
+            "quixotic"
+          ],
+          "answers": [
+            "opportunistic"
+          ]
+        }
+      ],
+      "words": [
+        "onetime",
+        "opportunistic"
+      ],
+      "explanation": "A decade of silence establishes a relationship that is over, which is the then-versus-now force of onetime; prospective points forward to a mentorship not yet begun, and putative would question whether the man ever held the role rather than note that he no longer does. The gloss after the colon — a position chosen by circumstance rather than conviction — defines opportunistic, while principled asserts the conviction being denied and quixotic would make the conversion impractically idealistic instead of self-serving.",
+      "id": "gregmat36__b4__tc2__05",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Historians still divide over the pact of 1939: some read it as a considered response to encirclement, others as merely {1}, an arrangement seized because it happened to be available and dropped the moment it was not.",
+      "blanks": [
+        {
+          "options": [
+            "opportunistic",
+            "expedient",
+            "principled",
+            "doctrinaire",
+            "punitive",
+            "prescient"
+          ],
+          "answers": [
+            "opportunistic",
+            "expedient"
+          ]
+        }
+      ],
+      "words": [
+        "opportunistic"
+      ],
+      "explanation": "Set against \"a considered response,\" the blank must name the absence of strategy or principle — a bargain taken because it was there — which opportunistic and expedient both convey. Principled and doctrinaire each supply the conviction the clause rules out, prescient credits exactly the foresight being denied, and punitive misdescribes a pact of convenience.",
+      "id": "gregmat36__b4__se__06",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "The museum's {1} director, dismissed after the forgery scandal and long since replaced, now earns a comfortable living advising collectors on authentication.",
+      "blanks": [
+        {
+          "options": [
+            "onetime",
+            "incumbent",
+            "interim",
+            "prospective",
+            "presumptive"
+          ],
+          "answers": [
+            "onetime"
+          ]
+        }
+      ],
+      "words": [
+        "onetime"
+      ],
+      "explanation": "Dismissal plus \"long since replaced\" fixes the role firmly in the past, and onetime is the neutral attributive word for a role once held and now finished. Incumbent asserts he still holds the post, prospective and presumptive place him before it, and interim would describe the terms of an appointment the sentence never mentions.",
+      "id": "gregmat36__b4__cloze__07",
+      "unit": "gregmat36__b4",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": []
+}

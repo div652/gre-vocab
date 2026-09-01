@@ -1,0 +1,234 @@
+{
+  "unit": "gregmat17__b5",
+  "gregmat_group": 17,
+  "words": [
+    "patent",
+    "petulant",
+    "pithy",
+    "pliant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Confronted with the photographs, the minister neither conceded the point nor troubled to rebut it, retreating instead into a {1} silence broken only by complaints about the committee's catering, while the alibi he had submitted remained a {2} fiction that no one on either side any longer pretended to credit.",
+      "blanks": [
+        {
+          "options": [
+            "petulant",
+            "magnanimous",
+            "judicious"
+          ],
+          "answers": [
+            "petulant"
+          ]
+        },
+        {
+          "options": [
+            "patent",
+            "surreptitious",
+            "discernible"
+          ],
+          "answers": [
+            "patent"
+          ]
+        }
+      ],
+      "words": [
+        "petulant",
+        "patent"
+      ],
+      "explanation": "The silence is broken by a grievance about catering — a trivial complaint substituted for argument — which is exactly petulant sulking rather than magnanimity or judgment. For the second blank, the clause \"no one on either side any longer pretended to credit\" describes a claim lying wide open, which is patent; surreptitious fails because the alibi was filed openly, and discernible would say the falsity was merely detectable, contradicting the fact that everyone had stopped pretending.",
+      "id": "gregmat17__b5__tc2__00",
+      "unit": "gregmat17__b5",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Where his predecessor had proved endlessly {1}, softening any verdict the moment an advertiser complained, the new editor wrote {2} notices — a dozen words that could settle a novel's fate — and ignored the proprietors' hints altogether.",
+      "blanks": [
+        {
+          "options": [
+            "pliant",
+            "obdurate",
+            "querulous"
+          ],
+          "answers": [
+            "pliant"
+          ]
+        },
+        {
+          "options": [
+            "pithy",
+            "prolix",
+            "vacuous"
+          ],
+          "answers": [
+            "pithy"
+          ]
+        }
+      ],
+      "words": [
+        "pliant",
+        "pithy"
+      ],
+      "explanation": "The predecessor takes the shape of whoever pushes — pliant, not obdurate (which would mean he never yielded) and not querulous (complaining, which he is not). The second blank needs a word for brevity that carries real weight, since a dozen words decide a novel's fate: prolix denies the brevity and vacuous denies the substance, leaving pithy, the only one that certifies the line was good.",
+      "id": "gregmat17__b5__tc2__01",
+      "unit": "gregmat17__b5",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers found the memoir's grievances {1} — three pages are given over to a misplaced dinner invitation — yet conceded that its author could still turn a {2} phrase, compressing a decade of exile into a single clause.",
+      "blanks": [
+        {
+          "options": [
+            "petulant",
+            "harrowing",
+            "cogent"
+          ],
+          "answers": [
+            "petulant"
+          ]
+        },
+        {
+          "options": [
+            "pithy",
+            "turgid",
+            "laborious"
+          ],
+          "answers": [
+            "pithy"
+          ]
+        }
+      ],
+      "words": [
+        "petulant",
+        "pithy"
+      ],
+      "explanation": "Three pages on a lost dinner invitation is an adult nursing a child's offence, so the grievances are petulant, not harrowing (which the triviality forbids) or cogent (which would praise their reasoning). The concession signalled by \"yet\" requires a virtue, and compressing a decade into one clause is precisely pithy — turgid and laborious are the failings that concession is meant to rule out.",
+      "id": "gregmat17__b5__tc2__02",
+      "unit": "gregmat17__b5",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Franklin's maxims owe their durability less to originality than to their form: nearly every one is {1}, packing a whole argument about thrift or industry into a line short enough to be remembered on first hearing.",
+      "blanks": [
+        {
+          "options": [
+            "pithy",
+            "epigrammatic",
+            "prolix",
+            "turgid",
+            "bombastic",
+            "vacuous"
+          ],
+          "answers": [
+            "pithy",
+            "epigrammatic"
+          ]
+        }
+      ],
+      "words": [
+        "pithy"
+      ],
+      "explanation": "The sentence demands compression that still carries a full argument, which is what pithy and epigrammatic both assert; each yields the same claim about form and quality. Prolix, turgid, and bombastic all describe inflated language and reverse the sense, while vacuous denies the substance the sentence explicitly credits.",
+      "id": "gregmat17__b5__se__03",
+      "unit": "gregmat17__b5",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Instead of answering the substance of the review, the novelist fired off a {1} letter to the editor grumbling that his name had been misspelled and that the notice had been printed below the fold.",
+      "blanks": [
+        {
+          "options": [
+            "petulant",
+            "querulous",
+            "conciliatory",
+            "trenchant",
+            "magisterial",
+            "laconic"
+          ],
+          "answers": [
+            "petulant",
+            "querulous"
+          ]
+        }
+      ],
+      "words": [
+        "petulant"
+      ],
+      "explanation": "The letter ignores the argument and whines about two trifles, so petulant and querulous both fit and mean the same thing here: peevish complaint out of all proportion to its occasion. Conciliatory, trenchant, and magisterial each fit the noun comfortably but describe a letter that engages, cuts, or commands rather than sulks, and laconic speaks only to length, of which nothing is said.",
+      "id": "gregmat17__b5__se__04",
+      "unit": "gregmat17__b5",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "The regents were not looking for a reformer to head the university; they wanted a candidate {1} enough to ratify whatever the largest donors had settled on before the search began.",
+      "blanks": [
+        {
+          "options": [
+            "pliant",
+            "malleable",
+            "obdurate",
+            "intractable",
+            "doctrinaire",
+            "mercurial"
+          ],
+          "answers": [
+            "pliant",
+            "malleable"
+          ]
+        }
+      ],
+      "words": [
+        "pliant"
+      ],
+      "explanation": "Someone who will simply take the shape of the donors' wishes is pliant or malleable, and either word leaves the sentence's meaning unchanged. Obdurate and intractable describe the resistance the regents are trying to avoid, doctrinaire would make the candidate rigidly committed to ideas of his own, and mercurial describes unpredictability rather than yielding.",
+      "id": "gregmat17__b5__se__05",
+      "unit": "gregmat17__b5",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Bowyers prized yew because a single stave furnishes two materials at once: heartwood that resists compression, and sapwood {1} enough to be drawn nearly double without splintering.",
+      "blanks": [
+        {
+          "options": [
+            "pliant",
+            "brittle",
+            "friable",
+            "refractory",
+            "ossified"
+          ],
+          "answers": [
+            "pliant"
+          ]
+        }
+      ],
+      "words": [
+        "pliant"
+      ],
+      "explanation": "Applied to a material, pliant means bending far without breaking, which is exactly the property the bow requires. Brittle and friable name the failure the sentence rules out, refractory means stubbornly resistant to working, and ossified means hardened past all flexibility.",
+      "id": "gregmat17__b5__cloze__07",
+      "unit": "gregmat17__b5",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options — patent, flagrant, conspicuous — all mean \"blatantly obvious,\" and the sentence only constrains the blank to that sense (the evidence shows the claim is plainly false). \"Patent nonsense\" is the idiomatic collocation and is clearly intended, but \"flagrant nonsense\" is attested English and \"conspicuous\" is semantically parallel, so the item is decided by collocation feel rather than by anything the sentence actually specifies. Replace flagrant/conspicuous with distractors that fail on meaning, not just usage.",
+      "stem": "To describe the arrangement as a partnership between equals is {1} nonsense: one party set the prices, appointed the directors, and could dissolve the venture at a week's notice."
+    }
+  ]
+}

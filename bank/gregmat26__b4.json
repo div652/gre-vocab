@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat26__b4",
+  "gregmat_group": 26,
+  "words": [
+    "ingrained",
+    "insolent",
+    "lampoon",
+    "lavish"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Anthropologists caution that a custom {1} by centuries of daily repetition will not dissolve at the stroke of a pen; only where norms have remained relatively {2} does legislation change behavior quickly.",
+      "blanks": [
+        {
+          "options": [
+            "ingrained",
+            "intrinsic",
+            "endemic"
+          ],
+          "answers": [
+            "ingrained"
+          ]
+        },
+        {
+          "options": [
+            "pliant",
+            "hidebound",
+            "immutable"
+          ],
+          "answers": [
+            "pliant"
+          ]
+        }
+      ],
+      "words": [
+        "ingrained"
+      ],
+      "explanation": "Only ingrained names a fixity produced by repetition over time, which is what \"by centuries of daily repetition\" demands; intrinsic and endemic describe what belongs to a thing by its nature or its locale, not what was worked into it by habit. The second blank must be the opposite of that fixity, so pliant is required — hidebound and immutable would make legislation futile rather than swift.",
+      "id": "gregmat26__b4__tc2__00",
+      "unit": "gregmat26__b4",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "A century of coal smoke had driven a {1} film into the cathedral's limestone, and four months of scrubbing lifted it only in patches.",
+      "blanks": [
+        {
+          "options": [
+            "ingrained",
+            "entrenched",
+            "inveterate",
+            "hidebound",
+            "ossified"
+          ],
+          "answers": [
+            "ingrained"
+          ]
+        }
+      ],
+      "words": [
+        "ingrained"
+      ],
+      "explanation": "Of this family, only ingrained still works literally, of dirt driven into a surface until it resists removal. Entrenched applies to positions and power arrangements, inveterate to habits, hidebound and ossified to minds and institutions — none can describe a film of soot in stone.",
+      "id": "gregmat26__b4__cloze__01",
+      "unit": "gregmat26__b4",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Every order had been executed to the letter, so the captain could allege no disobedience; what he resented was the {1} pause before each \"sir\" — a silence that {2} the deference the word was supposed to convey.",
+      "blanks": [
+        {
+          "options": [
+            "insolent",
+            "indolent",
+            "officious"
+          ],
+          "answers": [
+            "insolent"
+          ]
+        },
+        {
+          "options": [
+            "belied",
+            "amplified",
+            "protracted"
+          ],
+          "answers": [
+            "belied"
+          ]
+        }
+      ],
+      "words": [
+        "insolent"
+      ],
+      "explanation": "Insolent is the one word here for disrespect aimed upward that lives in attitude rather than in any punishable act — you can be insolent while obeying perfectly, which is exactly the captain's complaint. Indolent means lazy and officious means meddlesomely eager to serve, neither of which a contemptuous pause conveys; belied is required because the silence contradicts the respect the word \"sir\" pretends to offer.",
+      "id": "gregmat26__b4__tc2__02",
+      "unit": "gregmat26__b4",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "Clumsiness among the servants was forgiven readily enough; the footman dismissed that spring had done nothing worse than answer the countess in a tone that assumed they were equals, an {1} she could not be seen to overlook.",
+      "blanks": [
+        {
+          "options": [
+            "insolence",
+            "indolence",
+            "insularity",
+            "imprudence",
+            "ingenuousness"
+          ],
+          "answers": [
+            "insolence"
+          ]
+        }
+      ],
+      "words": [
+        "insolent"
+      ],
+      "explanation": "Insolence is disrespect directed at a superior, and the offense here is precisely the refusal to defer to rank. Indolence (laziness) and insularity (narrowness of outlook) are the standard lookalikes and describe nothing in the sentence, while imprudence and ingenuousness would make the footman merely rash or artless rather than disrespectful.",
+      "id": "gregmat26__b4__cloze__03",
+      "unit": "gregmat26__b4",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "The pamphlet is less a {1} of place-seeking as a general vice of the age than a {2} of one named minister, whose wig, gait, and stammer it reproduced for the delight of the coffeehouses.",
+      "blanks": [
+        {
+          "options": [
+            "satire",
+            "lampoon",
+            "panegyric"
+          ],
+          "answers": [
+            "satire"
+          ]
+        },
+        {
+          "options": [
+            "lampoon",
+            "apologia",
+            "raillery"
+          ],
+          "answers": [
+            "lampoon"
+          ]
+        }
+      ],
+      "words": [
+        "lampoon"
+      ],
+      "explanation": "The sentence sets a general vice against one identified man, which is the satire/lampoon distinction: satire exposes a vice, a lampoon humiliates a specific, named target in public print. Panegyric and apologia are praise and defense, the reverse of the intended sense, and raillery is light banter between people, too affectionate and too private for a printed assault on a minister's stammer.",
+      "id": "gregmat26__b4__tc2__04",
+      "unit": "gregmat26__b4",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Though {1} with titles and pensions where his favorites were concerned, the emperor was {2} in everything touching the fleet, which rotted at anchor for want of a few thousand crowns.",
+      "blanks": [
+        {
+          "options": [
+            "lavish",
+            "chary",
+            "stinting"
+          ],
+          "answers": [
+            "lavish"
+          ]
+        },
+        {
+          "options": [
+            "parsimonious",
+            "munificent",
+            "prodigal"
+          ],
+          "answers": [
+            "parsimonious"
+          ]
+        }
+      ],
+      "words": [
+        "lavish"
+      ],
+      "explanation": "The rotting fleet fixes the second blank as parsimonious, since munificent and prodigal would both have money flowing toward the ships. \"Though\" then requires the first blank to reverse that, and only lavish pours out in abundance; chary and stinting are further synonyms of withholding and would destroy the contrast.",
+      "id": "gregmat26__b4__tc2__06",
+      "unit": "gregmat26__b4",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Course after course kept arriving long after the guests had stopped eating; the banquet was so {1} that the city's creditors, reading the accounts the following week, wondered how a bankrupt guild had paid for any of it.",
+      "blanks": [
+        {
+          "options": [
+            "lavish",
+            "sumptuous",
+            "ostentatious",
+            "perfunctory",
+            "protracted",
+            "parsimonious"
+          ],
+          "answers": [
+            "lavish",
+            "sumptuous"
+          ]
+        }
+      ],
+      "words": [
+        "lavish"
+      ],
+      "explanation": "The creditors' astonishment is at sheer volume and expense poured out, which lavish and sumptuous both supply. Ostentatious shifts the charge to vulgar display rather than abundance, and protracted, though tempting after \"long after the guests had stopped eating,\" describes duration, which would not puzzle a creditor reading accounts; perfunctory and parsimonious contradict the scene outright.",
+      "id": "gregmat26__b4__se__07",
+      "unit": "gregmat26__b4",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Lampoon\" is the best fit — a published piece of ridicule aimed at a person, which is exactly what draws a libel suit — and \"encomium\" (praise), \"apologia\" (defense), and \"raillery\" (light, usually spoken banter, and awkward as a countable published item) are all clearly out. But \"parody\" is also defensible: in ordinary usage one speaks of a magazine's parody of a politician, and nothing in the sentence rules it out. The strict distinction (parody imitates an existing work or style, whereas this image merely caricatures a person as a horse's rear) is too fine and too implicit for the sentence to enforce; a reasonable test-taker could pick \"parody\" and be marked wrong. Either drop \"parody\" from the options or add a cue that the piece is not an imitation of any prior work (e.g. mention it as a cartoon/caricature that pilloried him).",
+      "stem": "The magazine's celebrated {1} of the prime minister, which showed him as the rear half of a pantomime horse, cost its editor a libel suit and doubled his circulation within a month."
+    }
+  ]
+}

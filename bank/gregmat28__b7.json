@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat28__b7",
+  "gregmat_group": 28,
+  "words": [
+    "substantiate",
+    "wily"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Without money, seniority, or a faction of his own, Cabrera survived a decade in the state legislature by being {1} rather than strong — absenting himself from doomed votes, trading small favours for large ones, letting more powerful rivals overcommit and then collecting the wreckage — until the bosses who had once dismissed him as {2} discovered that every committee they wanted was already his.",
+      "blanks": [
+        {
+          "options": [
+            "wily",
+            "artless",
+            "perspicacious"
+          ],
+          "answers": [
+            "wily"
+          ]
+        },
+        {
+          "options": [
+            "naive",
+            "duplicitous",
+            "canny"
+          ],
+          "answers": [
+            "naive"
+          ]
+        }
+      ],
+      "words": [
+        "wily"
+      ],
+      "explanation": "The listed tactics are all feints and delays by a man playing a weak hand over many years, which is exactly the territory of wily; artless would contradict the manoeuvring, and perspicacious names sharp perception rather than tactical evasion, which is not what the dodging and trading illustrate. The second blank must be what the bosses wrongly believed, and only naive registers underestimation — canny would mean they had judged him correctly, and duplicitous is an accusation of dishonesty, not a reason to dismiss him as harmless.",
+      "id": "gregmat28__b7__tc2__00",
+      "unit": "gregmat28__b7",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The tribunal places the burden squarely on the accuser: an officer who alleges misconduct must {1} the charge from her own records within thirty days, and any complaint still resting on {2} inference at that deadline is struck from the docket without a hearing.",
+      "blanks": [
+        {
+          "options": [
+            "substantiate",
+            "corroborate",
+            "ascertain"
+          ],
+          "answers": [
+            "substantiate"
+          ]
+        },
+        {
+          "options": [
+            "conjectural",
+            "incontrovertible",
+            "axiomatic"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "substantiate"
+      ],
+      "explanation": "The clause \"from her own records\" makes this the speaker's burden to make her own assertion hold up, which is precisely substantiate; corroborate is wrong because corroboration is confirmation arriving from a second, independent source, and one cannot corroborate one's own claim, while ascertain means to find out a fact, not to prove an assertion already made. The second blank names what fails that burden, so it must mean unproven guesswork — conjectural — whereas incontrovertible and axiomatic describe claims settled beyond doubt, which would never be struck.",
+      "id": "gregmat28__b7__tc2__01",
+      "unit": "gregmat28__b7",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Two years of subpoenas produced not a single document that would {1} the whistle-blower's account of the meeting, and the allegation therefore stands in the record as unproven.",
+      "blanks": [
+        {
+          "options": [
+            "substantiate",
+            "corroborate",
+            "ascertain",
+            "refute",
+            "embellish",
+            "complicate"
+          ],
+          "answers": [
+            "substantiate",
+            "corroborate"
+          ]
+        }
+      ],
+      "words": [
+        "substantiate"
+      ],
+      "explanation": "\"Stands as unproven\" requires the missing document to be supporting evidence, and substantiate and corroborate both mean to supply such backing, yielding equivalent sentences. Refute and complicate would make the document work against the account, embellish would make it decorate rather than support, and ascertain means to determine a fact rather than to bear out someone's testimony.",
+      "id": "gregmat28__b7__se__02",
+      "unit": "gregmat28__b7",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "For six years the smallholder kept the bank's lawyers at bay with a {1} sequence of appeals, adjournments and half-honoured settlements, conceding a little whenever the case threatened to reach a judge and reopening the dispute the moment their attention wandered.",
+      "blanks": [
+        {
+          "options": [
+            "wily",
+            "perspicacious",
+            "ingenuous",
+            "gullible",
+            "staid"
+          ],
+          "answers": [
+            "wily"
+          ]
+        }
+      ],
+      "words": [
+        "wily"
+      ],
+      "explanation": "A weaker party outlasting a stronger one through feints, delays and tactical concessions is the signature of wily. Perspicacious would credit unusual insight rather than manoeuvre, and ingenuous and gullible describe the sort of person such tactics are used against; staid, meaning sober and unadventurous, describes temperament, not stratagem.",
+      "id": "gregmat28__b7__cloze__03",
+      "unit": "gregmat28__b7",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": []
+}

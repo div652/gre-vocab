@@ -1,0 +1,208 @@
+{
+  "unit": "gregmat23__b2",
+  "gregmat_group": 23,
+  "words": [
+    "fawn",
+    "fret",
+    "glib",
+    "headstrong"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Saint-Simon's memoirs catch the paradox of Versailles exactly: the courtier who was {1} with the servants of his own household turned abjectly {2} the instant the king glanced his way, hovering at his elbow and laughing a beat too long at every royal witticism.",
+      "blanks": [
+        {
+          "options": [
+            "imperious",
+            "subservient",
+            "obsequious"
+          ],
+          "answers": [
+            "imperious"
+          ]
+        },
+        {
+          "options": [
+            "fawning",
+            "aloof",
+            "disdainful"
+          ],
+          "answers": [
+            "fawning"
+          ]
+        }
+      ],
+      "words": [
+        "fawn"
+      ],
+      "explanation": "The sentence is built on a reversal: the same man looks down at home and grovels at court, so blank 1 needs the domineering term (imperious) and blank 2 the grovelling one. Subservient or obsequious in blank 1 would destroy the contrast by making him servile in both settings, and aloof or disdainful in blank 2 contradicts the hovering and over-eager laughter, which is precisely the physical, doggish posture that fawning names.",
+      "id": "gregmat23__b2__tc2__00",
+      "unit": "gregmat23__b2",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Contemporaries found Boswell's manner toward Johnson faintly embarrassing to watch: he hovered, assented before the sentence was finished, and laughed at remarks he had plainly heard a dozen times, so that even friendly observers called it {1}.",
+      "blanks": [
+        {
+          "options": [
+            "fawning",
+            "obsequious",
+            "perfunctory",
+            "aloof",
+            "imperious",
+            "patronizing"
+          ],
+          "answers": [
+            "fawning",
+            "obsequious"
+          ]
+        }
+      ],
+      "words": [
+        "fawn"
+      ],
+      "explanation": "Hovering, premature agreement and overdone laughter describe servility that has passed the point of dignity, which is what both fawning and obsequious convey. Aloof, imperious and patronizing all fit the grammar of a description of manner but reverse the direction of the deference, and perfunctory would mean he went through the motions with too little attention rather than too much.",
+      "id": "gregmat23__b2__se__01",
+      "unit": "gregmat23__b2",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Wollstonecraft's Swedish letters swing between two registers: pages of grand political speculation, and paragraphs in which she {1} over the price of lodgings and the punctuality of the post — small daily anxieties that {2} a composure no public catastrophe could disturb.",
+      "blanks": [
+        {
+          "options": [
+            "frets",
+            "gloats",
+            "expounds"
+          ],
+          "answers": [
+            "frets"
+          ]
+        },
+        {
+          "options": [
+            "erode",
+            "cement",
+            "vindicate"
+          ],
+          "answers": [
+            "erode"
+          ]
+        }
+      ],
+      "words": [
+        "fret"
+      ],
+      "explanation": "Blank 1 must name low-grade worry over trivia to justify calling them anxieties, and blank 2 must complete the paradox that what large disasters cannot shake, small repetitions wear down — the same wearing-away sense the verb carries physically. Gloats and expounds describe pleasure and exposition rather than worry, while cement and vindicate would make the daily anxieties strengthen the composure the sentence says they undermine.",
+      "id": "gregmat23__b2__tc2__03",
+      "unit": "gregmat23__b2",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "For all its {1}, the candidate's reply left the panel unpersuaded: it came back too fast and too smoothly polished, a {2} formula that had evidently cost him no thought whatever.",
+      "blanks": [
+        {
+          "options": [
+            "fluency",
+            "profundity",
+            "candor"
+          ],
+          "answers": [
+            "fluency"
+          ]
+        },
+        {
+          "options": [
+            "glib",
+            "erudite",
+            "tentative"
+          ],
+          "answers": [
+            "glib"
+          ]
+        }
+      ],
+      "words": [
+        "glib"
+      ],
+      "explanation": "The concessive frame grants the reply one virtue while the rest of the sentence withholds substance, so blank 1 must be the merely verbal quality (fluency) and blank 2 the word for fluency that has replaced thinking. Profundity or candor would be the very things the sentence denies him, and erudite or tentative contradict a formula delivered fast, smooth and unthinking.",
+      "id": "gregmat23__b2__tc2__04",
+      "unit": "gregmat23__b2",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers dismissed the book's central thesis as {1}: a set of explanations that slide over every real difficulty with an ease that only advertises how little the author troubled to think.",
+      "blanks": [
+        {
+          "options": [
+            "glib",
+            "facile",
+            "cursory",
+            "penetrating",
+            "erudite",
+            "exhaustive"
+          ],
+          "answers": [
+            "glib",
+            "facile"
+          ]
+        }
+      ],
+      "words": [
+        "glib"
+      ],
+      "explanation": "Both glib and facile name smoothness achieved by evading difficulty, which is precisely what sliding over hard points with too much ease describes. Cursory is the nearest trap but means hasty and inattentive rather than slickly fluent, and it has no partner among the options; penetrating, erudite and exhaustive fit the grammar of a verdict on a thesis while praising the depth the sentence denies.",
+      "id": "gregmat23__b2__se__05",
+      "unit": "gregmat23__b2",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Everyone who served with the young Churchill described the same quality, and it was not obstinacy: he was never immovable, and changed his mind readily enough, but once he had settled on a course he made a {1} rush at it, deaf to the staff officers shouting behind him.",
+      "blanks": [
+        {
+          "options": [
+            "headstrong",
+            "obdurate",
+            "intransigent",
+            "restive",
+            "supercilious"
+          ],
+          "answers": [
+            "headstrong"
+          ]
+        }
+      ],
+      "words": [
+        "headstrong"
+      ],
+      "explanation": "The sentence explicitly rules out immovability and describes forward motion on one's own judgement that no advice can steer, which is headstrong rather than stubborn. Obdurate and intransigent both mean refusing to budge or compromise, the quality the stem denies; restive is impatience under restraint, and supercilious concerns contempt for others rather than direction of one's own.",
+      "id": "gregmat23__b2__cloze__06",
+      "unit": "gregmat23__b2",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Brooding\" is a fully defensible second answer. Standard dictionaries define \"brood (over)\" as \"to dwell anxiously or gloomily on a subject,\" and \"brooding over whether a single comma had been misplaced\" is idiomatic and semantically identical to the intended reading. The sentence's cues (pacing, rechecking proofs, useless at his desk) establish anxious preoccupation, which both words satisfy; nothing in the sentence forces the specific agitated-worry nuance of \"fretting\" over the ruminative nuance of \"brooding\" — indeed \"pacing\" and \"rechecking\" already supply the agitation, leaving the blank free to carry either. The three remaining options are cleanly wrong (\"expostulating\" and \"cavilling\" both require a person or claim being objected to, and Darwin is alone objecting to nothing; \"gloating\" is tonally opposite), so the item effectively offers two working answers out of five. To salvage it, replace \"brooding\" with a distractor that cannot mean anxious dwelling, or add a cue that requires outward agitation rather than inward rumination.",
+      "stem": "In the weeks after the manuscript went to the printer, Darwin was useless at his desk — pacing the study, rechecking proofs he had already corrected, {1} over whether a single comma in the third chapter had been misplaced."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options fit, not two. The dash-clause is engineered to eliminate 'obdurate' (via \"not immovable\") but never excludes 'wayward', whose core sense is exactly \"self-willed, refusing to be guided by others\" — and the clause \"she abandoned schemes as readily as she formed them\" positively reinforces wayward's capricious/erratic component. So 'wayward' pairs defensibly with either 'headstrong' or 'willful', and a reasonable test-taker choosing it would be marked wrong. To fix, either drop 'wayward' from the options or add a disclaimer that neutralizes it (e.g. \"not erratic in conduct, not a strayer\"), the way \"not immovable\" neutralizes 'obdurate'.",
+      "stem": "Her guardians reached for the same word in every letter: the girl was {1} — not sullen, not immovable, since she abandoned schemes as readily as she formed them, but wholly incapable of being steered by anyone's judgement except her own."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "unit": "gregmat28__b5",
+  "gregmat_group": 28,
+  "words": [
+    "quash",
+    "quibble",
+    "ravage",
+    "recant"
+  ],
+  "questions": [
+    {
+      "type": "cloze",
+      "stem": "The reviewer's enthusiasm for the biography was nearly unqualified: her one {1} was that the appendix of letters had been printed without dates.",
+      "blanks": [
+        {
+          "options": [
+            "quibble",
+            "peccadillo",
+            "encomium",
+            "indictment",
+            "precept"
+          ],
+          "answers": [
+            "quibble"
+          ]
+        }
+      ],
+      "words": [
+        "quibble"
+      ],
+      "explanation": "The sentence needs a name for a single small objection raised against an otherwise admired book, and quibble is precisely that — an act of petty complaint, and the one such word usable politely, conceding that everything else was fine. A peccadillo is a minor fault someone commits, not an objection someone makes; an encomium is praise, and an indictment would be far too grave for a missing set of dates.",
+      "id": "gregmat28__b5__cloze__02",
+      "unit": "gregmat28__b5",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "Though his colleagues dismissed him as {1}, forever {2} about the placement of a footnote or the spelling of a Ukrainian village, his objections now and then exposed a genuine error of fact.",
+      "blanks": [
+        {
+          "options": [
+            "captious",
+            "magnanimous",
+            "resolute"
+          ],
+          "answers": [
+            "captious"
+          ]
+        },
+        {
+          "options": [
+            "quibbling",
+            "forbearing",
+            "recanting"
+          ],
+          "answers": [
+            "quibbling"
+          ]
+        }
+      ],
+      "words": [
+        "quibble"
+      ],
+      "explanation": "\"Dismissed him as\" demands a fault, and the fault is illustrated by trivial complaints about footnotes and spellings, so captious — habitually fault-finding over trifles — is the trait, while magnanimous and resolute are both compliments. The second blank names the act that displays that trait: quibbling is arguing over a detail too small to touch the argument, whereas forbearing means refraining from complaint and recanting means withdrawing one's own earlier claim.",
+      "id": "gregmat28__b5__tc2__03",
+      "unit": "gregmat28__b5",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The epidemic did not {1} the province — its towns and villages all stood where they had — but it {2} them so completely that a generation later travelers still remarked on the silence of the streets.",
+      "blanks": [
+        {
+          "options": [
+            "eradicate",
+            "vanquish",
+            "nullify"
+          ],
+          "answers": [
+            "eradicate"
+          ]
+        },
+        {
+          "options": [
+            "ravaged",
+            "quashed",
+            "curtailed"
+          ],
+          "answers": [
+            "ravaged"
+          ]
+        }
+      ],
+      "words": [
+        "ravage"
+      ],
+      "explanation": "The clause between the dashes says the settlements still exist, so the negated first blank must be the verb of outright removal, eradicate; vanquish would cast the province as a defeated opponent and nullify applies to legal instruments, not places. The second blank needs destruction that leaves its object standing but ruined and whose damage persists for a generation, which is ravage — quash requires authority stopping something in one stroke, and curtail merely shortens or limits.",
+      "id": "gregmat28__b5__tc2__04",
+      "unit": "gregmat28__b5",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Sixty years of open-pit mining had so thoroughly {1} the valley that the reclamation authority could not agree on what condition it was supposed to restore.",
+      "blanks": [
+        {
+          "options": [
+            "ravaged",
+            "devastated",
+            "eradicated",
+            "vanquished",
+            "dismantled",
+            "superseded"
+          ],
+          "answers": [
+            "ravaged",
+            "devastated"
+          ]
+        }
+      ],
+      "words": [
+        "ravage"
+      ],
+      "explanation": "The valley is still there to be restored, only wrecked by decades of impersonal, cumulative damage — ravaged and devastated both say exactly that and yield equivalent sentences. Eradicated would mean the valley no longer existed, vanquished treats it as a defeated adversary, dismantled implies orderly disassembly, and superseded would mean it was replaced by something else.",
+      "id": "gregmat28__b5__se__05",
+      "unit": "gregmat28__b5",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "Having sworn in open court that she had seen the defendant at the scene, the witness startled the gallery a week later by {1} the whole of that testimony.",
+      "blanks": [
+        {
+          "options": [
+            "recanting",
+            "relinquishing",
+            "forsaking",
+            "abrogating",
+            "disparaging"
+          ],
+          "answers": [
+            "recanting"
+          ]
+        }
+      ],
+      "words": [
+        "recant"
+      ],
+      "explanation": "There is a prior public statement, and the witness now stands before the same audience and declares it false, which is the exact office of recant — a performance of retraction of one's own words. Relinquishing and forsaking mean giving up or abandoning something one holds rather than declaring it untrue, abrogating applies to laws and agreements, and disparaging one's own testimony would be to belittle it, not to withdraw it.",
+      "id": "gregmat28__b5__cloze__06",
+      "unit": "gregmat28__b5",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "Offered his freedom on a single condition, the prisoner declined to {1} anything he had written, and ten years in the camps left him as {2} as he had been on the day of sentencing.",
+      "blanks": [
+        {
+          "options": [
+            "recant",
+            "quibble over",
+            "curtail"
+          ],
+          "answers": [
+            "recant"
+          ]
+        },
+        {
+          "options": [
+            "steadfast",
+            "magnanimous",
+            "captious"
+          ],
+          "answers": [
+            "steadfast"
+          ]
+        }
+      ],
+      "words": [
+        "recant"
+      ],
+      "explanation": "The single condition attached to freedom can only be a public disowning of his published work, and recant is the verb for taking back words one has professed under exactly such pressure; quibble over means fussing at a detail, and curtail would merely shorten the writings. The second blank must register that the pressure failed, so steadfast is required — magnanimous concerns generosity and captious concerns pettiness, neither of which the decade in the camps was testing.",
+      "id": "gregmat28__b5__tc2__07",
+      "unit": "gregmat28__b5",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean: \"half-measures would only ___ discontent\" plus the contrast with decisive action forces a word meaning \"stir up,\" and pacify/placate are near-synonyms of each other that both contradict the sentence, so only \"foment\" works. Blank {2} is defective: \"quash\" and \"suppress\" are both standard, idiomatic collocations with \"mutiny\" and both convey putting it down by force. \"Suppress a mutiny\" is at least as common a phrase as \"quash a mutiny,\" and nothing in the sentence — a single night's decisive action, a decade of quiet — distinguishes them; the finality cue rules out only \"curb.\" A reasonable test-taker who picks \"suppress\" would be marked wrong for no defensible reason.",
+      "stem": "Convinced that half-measures would only {1} the garrison's discontent, the viceroy resolved to {2} the mutiny in a single night's action, and no further rising troubled the province for a decade."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option set contains a three-way synonym cluster, so more than one pair is defensible. \"Quash,\" \"nullify,\" and \"abrogate\" all mean to void/annul by authority. \"Quash an indictment\" is the idiomatic legal collocation and \"nullify\" is the plain-English equivalent, so quash+nullify is presumably intended — but a reasonable test-taker could pick nullify+abrogate (the two most nearly identical in dictionary meaning: to annul or repeal formally), or quash+abrogate, and produce a sentence with the same meaning. The sentence itself supplies no discriminating context: nothing distinguishes \"formally repeal by authority\" from \"declare void,\" and abrogate's usual restriction to laws/treaties/customs rather than a single indictment is a collocation nicety, not a meaning difference the sentence tests. (Supersede, curtail, and foment are clean distractors.) Fix by replacing abrogate with a word that fails on meaning, e.g. \"vacate\" as a correct partner and something like \"expedite\" or \"ratify\" as the distractor.",
+      "stem": "Finding that the grand jury had been improperly instructed, the appellate court moved to {1} the indictment before the case could come to trial."
+    }
+  ]
+}

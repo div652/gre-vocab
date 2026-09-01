@@ -1,0 +1,222 @@
+{
+  "unit": "gregmat04__b3",
+  "gregmat_group": 4,
+  "words": [
+    "intimate",
+    "invigorate",
+    "mitigate",
+    "obsolete"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Too circumspect to state his intentions {1}, and bearing his colleagues no ill will, the chairman merely {2} that he might not stand for another term — a remark he could disown a week later as idle speculation.",
+      "blanks": [
+        {
+          "options": [
+            "outright",
+            "obliquely",
+            "tacitly"
+          ],
+          "answers": [
+            "outright"
+          ]
+        },
+        {
+          "options": [
+            "intimated",
+            "averred",
+            "insinuated"
+          ],
+          "answers": [
+            "intimated"
+          ]
+        }
+      ],
+      "words": [
+        "intimate"
+      ],
+      "explanation": "\"Too circumspect to state his intentions outright\" sets up the contrast the second blank must complete: the chairman conveyed the news indirectly, which is exactly what intimate means. Obliquely and tacitly would make the first clause self-contradictory, since circumspection is precisely what produces oblique speech. Averred is a flat declaration, incompatible with a remark he can later disown, and insinuated is sly and malicious — ruled out by \"bearing his colleagues no ill will.\"",
+      "id": "gregmat04__b3__tc2__00",
+      "unit": "gregmat04__b3",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "In a letter otherwise given over to parish accounts, the bishop {1} that he had already settled on a successor — he named no one, and the courtesy of the hint was that he could later insist he had promised nothing at all.",
+      "blanks": [
+        {
+          "options": [
+            "intimated",
+            "insinuated",
+            "averred",
+            "articulated",
+            "disclosed"
+          ],
+          "answers": [
+            "intimated"
+          ]
+        }
+      ],
+      "words": [
+        "intimate"
+      ],
+      "explanation": "Intimate is the genteel, deliberate hint dropped by someone in a position to say more, framed so the speaker keeps deniability — precisely the situation described. Insinuate is the nearest trap but carries malice or a discreditable imputation, which the letter's courteous tone excludes; averred, articulated, and disclosed all mean saying the thing plainly, which the second clause explicitly denies.",
+      "id": "gregmat04__b3__cloze__01",
+      "unit": "gregmat04__b3",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "A single televised debate {1} a campaign that had drifted for weeks: volunteers came back, small donations surged, and the candidate himself seemed suddenly awake.",
+      "blanks": [
+        {
+          "options": [
+            "invigorated",
+            "galvanized",
+            "vindicated",
+            "salvaged",
+            "enervated",
+            "vitiated"
+          ],
+          "answers": [
+            "invigorated",
+            "galvanized"
+          ]
+        }
+      ],
+      "words": [
+        "invigorate"
+      ],
+      "explanation": "The evidence listed is a return of energy and activity, so the blank must mean \"filled with fresh life\": invigorated and galvanized yield sentences of equivalent meaning, with the debate supplying the jolt from outside. Vindicated (proved right) and salvaged (rescued from failure) fit the tone and grammar but assert something different, and neither pairs with any other option; enervated and vitiated reverse the sense.",
+      "id": "gregmat04__b3__se__02",
+      "unit": "gregmat04__b3",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "The package was framed less as a way to {1} an economy that was, by every measure, already expanding briskly than as a way to {2} the regional damage that the announced plant closures were certain to inflict.",
+      "blanks": [
+        {
+          "options": [
+            "invigorate",
+            "replenish",
+            "enervate"
+          ],
+          "answers": [
+            "invigorate"
+          ]
+        },
+        {
+          "options": [
+            "mitigate",
+            "obviate",
+            "exacerbate"
+          ],
+          "answers": [
+            "mitigate"
+          ]
+        }
+      ],
+      "words": [
+        "invigorate",
+        "mitigate"
+      ],
+      "explanation": "Only invigorate can take a target that was never depleted — the economy is \"already expanding briskly\" — whereas replenish presupposes a shortfall to be topped back up, and enervate reverses the sense. In the second blank, damage that is \"certain to inflict\" cannot be obviated (prevented, made unnecessary) and would not be exacerbated by relief spending; mitigate is the exact fit, since it turns the harm down without removing it.",
+      "id": "gregmat04__b3__tc2__03",
+      "unit": "gregmat04__b3",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "The judge accepted that the defendant's early cooperation with investigators could not excuse the fraud, but held that it did {1} it, and sentenced accordingly at the low end of the guideline range.",
+      "blanks": [
+        {
+          "options": [
+            "mitigate",
+            "alleviate",
+            "assuage",
+            "exculpate",
+            "exacerbate"
+          ],
+          "answers": [
+            "mitigate"
+          ]
+        }
+      ],
+      "words": [
+        "mitigate"
+      ],
+      "explanation": "Mitigate is the legal term of art for making an offence look less grave without excusing it — exactly the distinction the sentence draws. Exculpate would clear the defendant entirely, which the first clause rules out; alleviate and assuage take suffering, pain, or feelings as their object rather than a crime; exacerbate is the opposite.",
+      "id": "gregmat04__b3__cloze__04",
+      "unit": "gregmat04__b3",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "Within a decade of the transistor's commercial debut, the elaborate craft of vacuum-tube circuit design was {1}: the new components did everything the old ones had done and did it better, so no working engineer had reason to go back.",
+      "blanks": [
+        {
+          "options": [
+            "obsolete",
+            "outmoded",
+            "anachronistic",
+            "vestigial",
+            "hidebound",
+            "nascent"
+          ],
+          "answers": [
+            "obsolete",
+            "outmoded"
+          ]
+        }
+      ],
+      "words": [
+        "obsolete"
+      ],
+      "explanation": "The clause after the colon describes a superior replacement driving the old practice out of use, which is what obsolete and outmoded both assert. Anachronistic describes something conspicuously misplaced in its era rather than simply superseded, and vestigial describes a surviving remnant, not a discarded practice; hidebound characterizes narrow-minded people, and nascent reverses the timeline.",
+      "id": "gregmat04__b3__se__05",
+      "unit": "gregmat04__b3",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "What struck the party was that the guides, who had rested well and were in no way spent, came down from the cold ridge visibly {1} — quicker in step and sharper in speech than they had been at the trailhead.",
+      "blanks": [
+        {
+          "options": [
+            "invigorated",
+            "replenished",
+            "restored",
+            "enervated",
+            "assuaged"
+          ],
+          "answers": [
+            "invigorated"
+          ]
+        }
+      ],
+      "words": [
+        "invigorate"
+      ],
+      "explanation": "Invigorate is the only option that works on a subject who was never depleted: the cold supplies vitality from outside, and the guides are pointedly described as rested and \"in no way spent.\" Replenished and restored both presuppose a prior deficit and are killed by that clause; enervated reverses the sense, and assuaged requires a distress or appetite to be soothed.",
+      "id": "gregmat04__b3__cloze__07",
+      "unit": "gregmat04__b3",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean: \"in 2005 ... dismissed as a passing novelty\" plus \"a decade on\" requires an emerging market, so \"nascent\" is the only fit (\"vestigial\" implies a dying remnant, \"entrenched\" contradicts \"passing novelty\"). Blank {2} is the defect: all three options are near-synonyms for \"out of date,\" and the sentence does not exclude two of them. The intended discriminator is presumably \"an apparatus for which the trade had found a wholesale substitute\" = superseded/replaced = \"obsolete,\" but \"looked not merely costly but archaic\" and \"not merely costly but anachronistic\" are both idiomatic and fully supported by the same context (a warehouse-and-freight system persisting into the e-book era is literally out of its time). A reasonable test-taker choosing \"anachronistic\" or \"archaic\" would be marked wrong without a textual basis for the distinction. Blank {2} needs distractors that are genuinely inappropriate (e.g. a word implying mere expense, or fragility) rather than three synonyms of \"outdated.\"",
+      "stem": "Publishers who in 2005 dismissed the {1} market for electronic books as a passing novelty were unready when, a decade on, their warehouse-and-freight distribution system looked not merely costly but {2} — an apparatus for which the trade had found a wholesale substitute."
+    }
+  ]
+}

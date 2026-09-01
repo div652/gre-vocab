@@ -1,0 +1,227 @@
+{
+  "unit": "gregmat34__b1",
+  "gregmat_group": 34,
+  "words": [
+    "brevity",
+    "bromide",
+    "circumstantial",
+    "cloying"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Franklin's wartime dispatches derive their force from {1} rather than from {2}: he pared every report down to its essentials without ever letting the compression sound like a rebuke to the reader.",
+      "blanks": [
+        {
+          "options": [
+            "brevity",
+            "prolixity",
+            "bombast"
+          ],
+          "answers": [
+            "brevity"
+          ]
+        },
+        {
+          "options": [
+            "terseness",
+            "economy",
+            "understatement"
+          ],
+          "answers": [
+            "terseness"
+          ]
+        }
+      ],
+      "words": [
+        "brevity"
+      ],
+      "explanation": "The clause after the colon describes cutting to essentials, which rules out prolixity and bombast and fixes brevity in the first blank. The second blank must name the shortness the dispatches avoid, and only terseness carries the curtness that would \"sound like a rebuke\"; economy is merely another word for the virtue already praised, and understatement implies restraint of emphasis, not rudeness.",
+      "id": "gregmat34__b1__tc2__00",
+      "unit": "gregmat34__b1",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Tacitus is admired above all for his {1}: entire reigns are compassed in a clause, and nothing survives in a sentence that the sense can spare.",
+      "blanks": [
+        {
+          "options": [
+            "brevity",
+            "economy",
+            "acerbity",
+            "curtness",
+            "prolixity",
+            "bombast"
+          ],
+          "answers": [
+            "brevity",
+            "economy"
+          ]
+        }
+      ],
+      "words": [
+        "brevity"
+      ],
+      "explanation": "\"Entire reigns in a clause\" and \"nothing survives that the sense can spare\" both point to shortness of expression, which brevity and economy supply as near-synonyms here. Acerbity (sourness of tone) and curtness (shortness born of rudeness) are tonally plausible for a severe historian but describe temper rather than length, and prolixity and bombast name the opposite fault.",
+      "id": "gregmat34__b1__se__01",
+      "unit": "gregmat34__b1",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Asked to account for the collapse of the reforms, the minister offered the committee only {1} — \"these things take time,\" \"no one ever said it would be easy\" — a performance that was less an argument than an attempt to {2} his questioners into acquiescence.",
+      "blanks": [
+        {
+          "options": [
+            "bromides",
+            "aphorisms",
+            "dicta"
+          ],
+          "answers": [
+            "bromides"
+          ]
+        },
+        {
+          "options": [
+            "lull",
+            "provoke",
+            "edify"
+          ],
+          "answers": [
+            "lull"
+          ]
+        }
+      ],
+      "words": [
+        "bromide"
+      ],
+      "explanation": "The quoted remarks are worn comforts deployed to close down a hard question, which is precisely a bromide; an aphorism would have to be pointed and earned, and a dictum would be an authoritative pronouncement, not a soothing evasion. The second blank must name the sedative effect that makes acquiescence follow, so lull is required — provoke contradicts acquiescence and edify would concede the minister was actually teaching something.",
+      "id": "gregmat34__b1__tc2__02",
+      "unit": "gregmat34__b1",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Sinclair Lewis's Babbitt endures as the definitive American {1}: a man whose every opinion arrives pre-worn and smoothed, calculated to comfort the room and disturb no one in it.",
+      "blanks": [
+        {
+          "options": [
+            "bromide",
+            "iconoclast",
+            "aphorist",
+            "mimic",
+            "pedant"
+          ],
+          "answers": [
+            "bromide"
+          ]
+        }
+      ],
+      "words": [
+        "bromide"
+      ],
+      "explanation": "Bromide uniquely names the person as well as the remark — the tediously conventional man whose secondhand comforts exist to keep anyone from having to think. An iconoclast disturbs settled opinion rather than soothing it, an aphorist coins sayings instead of recycling them, and a mimic or pedant would fault imitation or fussiness, not the sedative blandness the sentence describes.",
+      "id": "gregmat34__b1__cloze__03",
+      "unit": "gregmat34__b1",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "The prosecution never produced anyone who had seen the shooting, and the defense pressed hard on that absence: the case, however dense with suggestive detail, remained {1}, and the jurors were urged to be {2} about inferences that no witness had ever confirmed.",
+      "blanks": [
+        {
+          "options": [
+            "circumstantial",
+            "incontrovertible",
+            "documentary"
+          ],
+          "answers": [
+            "circumstantial"
+          ]
+        },
+        {
+          "options": [
+            "circumspect",
+            "credulous",
+            "peremptory"
+          ],
+          "answers": [
+            "circumspect"
+          ]
+        }
+      ],
+      "words": [
+        "circumstantial"
+      ],
+      "explanation": "Evidence that is abundant and suggestive yet unwitnessed is by definition circumstantial — it points by inference rather than demonstrating; incontrovertible reverses the concession and documentary would require papers, which the sentence never mentions. The second blank follows from the defense's aim: jurors are asked to be wary, so circumspect fits, while credulous is the opposite of what the defense wants and peremptory describes brusque authority, not caution.",
+      "id": "gregmat34__b1__tc2__04",
+      "unit": "gregmat34__b1",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers of the memoir complained of a strange disproportion: the great crises of the author's life are dispatched in a paragraph, while {1} matters — the make of a borrowed car, the weather on one Tuesday in 1974 — are allowed to fill whole chapters.",
+      "blanks": [
+        {
+          "options": [
+            "circumstantial",
+            "momentous",
+            "cardinal",
+            "seminal",
+            "contentious"
+          ],
+          "answers": [
+            "circumstantial"
+          ]
+        }
+      ],
+      "words": [
+        "circumstantial"
+      ],
+      "explanation": "Here circumstantial carries its quieter sense of incidental and inessential — details that surround the life without being of it, which is exactly what the examples illustrate. Momentous, cardinal and seminal all assert importance and so contradict the complaint of disproportion, and contentious would require disputed matter rather than trivia.",
+      "id": "gregmat34__b1__cloze__05",
+      "unit": "gregmat34__b1",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "The deathbed scenes that reduced Victorian readers to tears strike most modern critics as {1}: the pathos is laid on and laid on without a break, until sympathy curdles into irritation.",
+      "blanks": [
+        {
+          "options": [
+            "cloying",
+            "insipid",
+            "hackneyed",
+            "derivative",
+            "piquant"
+          ],
+          "answers": [
+            "cloying"
+          ]
+        }
+      ],
+      "words": [
+        "cloying"
+      ],
+      "explanation": "The fault named is excess without relief — pleasure that goes on until it sickens — which is the precise charge of cloying, and \"curdles\" supplies its characteristic aftertaste. Insipid and piquant point to too little flavor and to welcome sharpness respectively, while hackneyed and derivative would accuse Dickens of staleness or borrowing rather than of piling sentiment on past bearing.",
+      "id": "gregmat34__b1__cloze__07",
+      "unit": "gregmat34__b1",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options, not two, fit the \"sickeningly sweet\" slot. Besides the intended pair (cloying, saccharine), \"mawkish\" is standardly defined as sickly-sweet — and its original, literal domain is taste, not sentiment — so a reasonable test-taker could choose cloying+mawkish or saccharine+mawkish and produce a sentence alike in meaning. Nothing in the sentence (a literal liqueur, a literal coating sweetness) rules mawkish out; if anything the literal-taste context invites it. The distractors insipid/astringent/piquant are cleanly wrong, but the redundant third synonym makes the answer set non-unique.",
+      "stem": "Poured over ice and cut with soda the liqueur is refreshing, but taken neat it is {1}, coating the palate with a sweetness that no amount of water afterward quite rinses away."
+    }
+  ]
+}

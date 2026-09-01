@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat31__b7",
+  "gregmat_group": 31,
+  "words": [
+    "ulterior",
+    "voluble"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The bequest was announced with {1} fanfare — a press conference, a bronze plaque, a photograph in every morning paper — yet the trustees suspected an {2} motive, since the new wing would carry the donor's name just as his firm went on trial for fraud.",
+      "blanks": [
+        {
+          "options": [
+            "conspicuous",
+            "furtive",
+            "clandestine"
+          ],
+          "answers": [
+            "conspicuous"
+          ]
+        },
+        {
+          "options": [
+            "ulterior",
+            "overt",
+            "patent"
+          ],
+          "answers": [
+            "ulterior"
+          ]
+        }
+      ],
+      "words": [
+        "ulterior"
+      ],
+      "explanation": "The catalogue of publicity (press conference, plaque, newspapers) demands a word for display, so only conspicuous fits the first blank; furtive and clandestine would contradict the very announcement being described. The second blank needs a reason standing behind the stated one, which is precisely ulterior; overt and patent both mean openly visible, and one does not \"suspect\" a motive that is already on show.",
+      "id": "gregmat31__b7__tc2__00",
+      "unit": "gregmat31__b7",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "The board released the funds only after satisfying itself that the developer harbored no {1} motives: his stated interest in preserving the wetland was, they concluded, exactly the interest he had.",
+      "blanks": [
+        {
+          "options": [
+            "ulterior",
+            "covert",
+            "overt",
+            "manifest",
+            "insidious",
+            "flagrant"
+          ],
+          "answers": [
+            "ulterior",
+            "covert"
+          ]
+        }
+      ],
+      "words": [
+        "ulterior"
+      ],
+      "explanation": "The clause \"exactly the interest he had\" establishes that nothing lay behind the stated reason, so the blank must mean concealed: ulterior and covert both yield that sentence. Overt and manifest mean the opposite and would absurdly deny him any open motive at all, while insidious and flagrant charge him with harm or brazenness rather than with hiding anything.",
+      "id": "gregmat31__b7__se__01",
+      "unit": "gregmat31__b7",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "The ambassador was {1}: he never groped for a word, and his rapid, effortless replies — brief as they invariably were — left interviewers no opening in which to interject.",
+      "blanks": [
+        {
+          "options": [
+            "voluble",
+            "prolix",
+            "garrulous",
+            "verbose",
+            "taciturn"
+          ],
+          "answers": [
+            "voluble"
+          ]
+        }
+      ],
+      "words": [
+        "voluble"
+      ],
+      "explanation": "The stem measures ease of flow — no groping, no stalling — while explicitly noting that the replies were brief, which rules out prolix, verbose, and garrulous, all of which fault a speaker for excess or rambling. Taciturn reverses the picture entirely; only voluble describes speech that pours out fluently without any claim about its length.",
+      "id": "gregmat31__b7__cloze__02",
+      "unit": "gregmat31__b7",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "In private the novelist was {1}, parrying her interviewers with monosyllables; onstage, however, she turned startlingly {2}, her sentences arriving in unbroken sequence and at speed, though she seldom held the lectern for more than ten minutes.",
+      "blanks": [
+        {
+          "options": [
+            "taciturn",
+            "garrulous",
+            "articulate"
+          ],
+          "answers": [
+            "taciturn"
+          ]
+        },
+        {
+          "options": [
+            "voluble",
+            "prolix",
+            "laconic"
+          ],
+          "answers": [
+            "voluble"
+          ]
+        }
+      ],
+      "words": [
+        "voluble"
+      ],
+      "explanation": "Monosyllabic parrying calls for taciturn; garrulous contradicts it outright, and articulate describes the quality of speech rather than its scarcity. The second blank is fixed by \"unbroken sequence and at speed\" together with the ten-minute limit: voluble names fluency without implying length, whereas prolix would require tedious wordiness the short talk excludes, and laconic would undo the contrast the sentence sets up.",
+      "id": "gregmat31__b7__tc2__03",
+      "unit": "gregmat31__b7",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": []
+}

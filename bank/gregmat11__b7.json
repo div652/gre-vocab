@@ -1,0 +1,113 @@
+{
+  "unit": "gregmat11__b7",
+  "gregmat_group": 11,
+  "words": [
+    "spartan",
+    "truculent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers took the {1} galleries — unpainted concrete, a single bench, no wall text — as proof of a depleted endowment; the architect's notebooks, however, record a program of deliberate {2}, each comfort withdrawn so that nothing would compete with the paintings.",
+      "blanks": [
+        {
+          "options": [
+            "spartan",
+            "ornate",
+            "palatial"
+          ],
+          "answers": [
+            "spartan"
+          ]
+        },
+        {
+          "options": [
+            "asceticism",
+            "destitution",
+            "embellishment"
+          ],
+          "answers": [
+            "asceticism"
+          ]
+        }
+      ],
+      "words": [
+        "spartan"
+      ],
+      "explanation": "The catalogue of what is absent (no paint, no seating, no text) rules out \"ornate\" and \"palatial\" and requires a word for comfortless bareness. The second blank must name that bareness as a chosen principle rather than an accident of funds, which is why \"destitution\" fails: it is precisely the misreading the notebooks correct, since destitution is imposed while spartan conditions are imposed on oneself.",
+      "id": "gregmat11__b7__tc2__00",
+      "unit": "gregmat11__b7",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Two weeks into the strike the shop steward's manner had turned {1}: he met each of management's proposals with folded arms and a glare, and seemed to be daring the negotiators to break off talks altogether.",
+      "blanks": [
+        {
+          "options": [
+            "truculent",
+            "belligerent",
+            "conciliatory",
+            "phlegmatic",
+            "laconic",
+            "effusive"
+          ],
+          "answers": [
+            "truculent",
+            "belligerent"
+          ]
+        }
+      ],
+      "words": [
+        "truculent"
+      ],
+      "explanation": "Folded arms, a glare, and a dare describe settled aggressive hostility, so \"truculent\" and \"belligerent\" alone yield equivalent sentences. \"Laconic\" is the tempting near-miss because the steward says little, but terseness is not hostility and it has no synonym among the remaining options; \"conciliatory\" and \"phlegmatic\" reverse the sense entirely.",
+      "id": "gregmat11__b7__se__01",
+      "unit": "gregmat11__b7",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Facing censure and openly hoping for leniency, Hollis was expected to give {1} testimony; instead he proved {2}, answering in monosyllables with folded arms and all but inviting the chair to cite him for contempt.",
+      "blanks": [
+        {
+          "options": [
+            "conciliatory",
+            "evasive",
+            "exhaustive"
+          ],
+          "answers": [
+            "conciliatory"
+          ]
+        },
+        {
+          "options": [
+            "truculent",
+            "laconic",
+            "contrite"
+          ],
+          "answers": [
+            "truculent"
+          ]
+        }
+      ],
+      "words": [
+        "truculent"
+      ],
+      "explanation": "A man hoping for leniency would be expected to placate the committee, so the first blank must be \"conciliatory\"; \"evasive\" describes slipperiness, which hoping for leniency does not predict and which the contrast with the second blank does not oppose. \"Laconic\" would account for the monosyllables but not for the glowering invitation to a contempt citation — only \"truculent\" carries the sullen menace aimed at authority.",
+      "id": "gregmat11__b7__tc2__02",
+      "unit": "gregmat11__b7",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"spartan\" is the most idiomatic fit, but \"ascetic\" is a genuine near-synonym that the sentence does not exclude. Dictionaries give \"ascetic\" the sense \"austere in appearance, manner, or attitude,\" and \"deliberately ascetic quarters — one stove, hammocks, no upholstery\" reads naturally, especially since the austerity here is a chosen discipline (self-denial to harden the men), which is exactly ascetic's connotation. Nothing in the clue set — bare furnishings, deliberate deprivation, fear of softness — distinguishes the two words. (\"destitute\" wrongly implies poverty rather than chosen plainness, \"understated\" implies restrained taste rather than hardship, and \"decadent\" is the opposite.) A test-taker choosing \"ascetic\" would be defensibly correct, so the item has two workable answers.",
+      "stem": "Nansen kept the expedition's winter quarters deliberately {1} — one stove, hammocks in place of berths, not a scrap of upholstery — convinced that men grown accustomed to comfort would falter once the crossing began."
+    }
+  ]
+}

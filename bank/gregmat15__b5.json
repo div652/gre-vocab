@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat15__b5",
+  "gregmat_group": 15,
+  "words": [
+    "propriety",
+    "scintillating",
+    "sensational",
+    "sophisticated"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The oversight committee took pains to separate legality from {1}: nothing the treasurer had done was forbidden by statute, yet trustees still found his private solicitation of the museum's donors {2}.",
+      "blanks": [
+        {
+          "options": [
+            "propriety",
+            "comity",
+            "deportment"
+          ],
+          "answers": [
+            "propriety"
+          ]
+        },
+        {
+          "options": [
+            "unseemly",
+            "boorish",
+            "impertinent"
+          ],
+          "answers": [
+            "unseemly"
+          ]
+        }
+      ],
+      "words": [
+        "propriety"
+      ],
+      "explanation": "The contrast is between what the law forbids and what the shared code forbids, and only propriety names that code in the abstract and attaches to an act rather than a person — one questions the propriety of a solicitation, not its comity or its deportment. In the second blank, unseemly likewise judges the act as unfitting; boorish would charge the treasurer with coarse manners and impertinent with insolence toward a superior, neither of which is what soliciting donors quietly amounts to.",
+      "id": "gregmat15__b5__tc2__00",
+      "unit": "gregmat15__b5",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Her correspondence alternates without warning: pages of {1} talk — puns, reversals, aphorisms struck off in passing — give way to household accounts so {2} that even her devoted editor abridged them.",
+      "blanks": [
+        {
+          "options": [
+            "scintillating",
+            "cordial",
+            "tactful"
+          ],
+          "answers": [
+            "scintillating"
+          ]
+        },
+        {
+          "options": [
+            "humdrum",
+            "piquant",
+            "impertinent"
+          ],
+          "answers": [
+            "humdrum"
+          ]
+        }
+      ],
+      "words": [
+        "scintillating"
+      ],
+      "explanation": "Puns, reversals, and aphorisms are a display of quick cleverness in the writing itself, which is what scintillating rates; cordial would praise the letters' warmth and tactful their discretion, neither of which the examples illustrate. The second blank must be the flat opposite that drove an editor to cut — humdrum — whereas piquant and impertinent both describe writing with bite, which is what these pages conspicuously lack.",
+      "id": "gregmat15__b5__tc2__02",
+      "unit": "gregmat15__b5",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Reading the transcript now, one sees how little the debate's fame rests on argument: what the audience carried away was an hour of {1} repartee, quotable and quick, that settled none of the questions at issue.",
+      "blanks": [
+        {
+          "options": [
+            "scintillating",
+            "jocund",
+            "boisterous",
+            "buoyant",
+            "vivacious"
+          ],
+          "answers": [
+            "scintillating"
+          ]
+        }
+      ],
+      "words": [
+        "scintillating"
+      ],
+      "explanation": "The sentence praises the output — an hour of talk — for brilliance and speed while conceding it lacked depth, and scintillating is the word that rates cleverness in what was produced and hints at flash over substance. Jocund, boisterous, buoyant, and vivacious all describe the temperament or animal spirits of persons rather than the wit of the exchange, and none carries the implication that nothing was resolved.",
+      "id": "gregmat15__b5__cloze__03",
+      "unit": "gregmat15__b5",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Because every individual claim in the broadcast could be sourced, the network insisted it had {2} nothing; the objection, however, was never to fidelity but to proportion, and an hour engineered to make viewers gasp is {1} whether or not a word of it is false.",
+      "blanks": [
+        {
+          "options": [
+            "sensational",
+            "meticulous",
+            "soporific"
+          ],
+          "answers": [
+            "sensational"
+          ]
+        },
+        {
+          "options": [
+            "fabricated",
+            "corroborated",
+            "curtailed"
+          ],
+          "answers": [
+            "fabricated"
+          ]
+        }
+      ],
+      "words": [
+        "sensational"
+      ],
+      "explanation": "Sensational judges the effect on the audience — the engineered gasp — and so survives the concession that the facts check out, which is precisely the sentence's point; meticulous and soporific would each contradict that design. The second blank must name the charge the network denies while conceding presentation, and only fabricated does; corroborated reverses the sense and curtailed addresses length, not truth.",
+      "id": "gregmat15__b5__tc2__04",
+      "unit": "gregmat15__b5",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "The Sunday papers' coverage of the poisoning was accurate in nearly every particular and still {1}: column upon column on the discoloration of the corpse, scarcely a line on the evidence that convicted the cook.",
+      "blanks": [
+        {
+          "options": [
+            "sensational",
+            "lurid",
+            "hyperbolic",
+            "exhaustive",
+            "insipid",
+            "dispassionate"
+          ],
+          "answers": [
+            "sensational",
+            "lurid"
+          ]
+        }
+      ],
+      "words": [
+        "sensational"
+      ],
+      "explanation": "Sensational and lurid both indict coverage that is built for shock and gore rather than for proportion, and neither requires the reporting to be untrue, which matters because the stem stipulates accuracy. Hyperbolic and the others fail on that stipulation or reverse it: hyperbole is overstatement past the truth, exhaustive would praise coverage that in fact omits the trial, and insipid and dispassionate describe the very flatness these columns avoid.",
+      "id": "gregmat15__b5__se__05",
+      "unit": "gregmat15__b5",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Editors who assume that a rural readership must be {1} underestimate how widely a farmer may have traveled and read; the letters column of a county weekly is often more {2} in its judgments than that of the metropolitan daily.",
+      "blanks": [
+        {
+          "options": [
+            "parochial",
+            "eclectic",
+            "urbane"
+          ],
+          "answers": [
+            "parochial"
+          ]
+        },
+        {
+          "options": [
+            "sophisticated",
+            "provincial",
+            "boisterous"
+          ],
+          "answers": [
+            "sophisticated"
+          ]
+        }
+      ],
+      "words": [
+        "sophisticated"
+      ],
+      "explanation": "The sentence sets a false assumption against the evidence of travel and reading, so the first blank must be the narrowness the editors wrongly presume — parochial — while eclectic and urbane would make their assumption flattering and the correction pointless. The second blank names the acquired discrimination that wide exposure produces, which is sophisticated; provincial merely restates the first blank and boisterous describes noise, not judgment.",
+      "id": "gregmat15__b5__tc2__06",
+      "unit": "gregmat15__b5",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "The intrusion was plainly not the work of an idle amateur: the code rewrote its own signature each time a defense detected it, a {1} operation that took the bank's analysts eleven months to reconstruct.",
+      "blanks": [
+        {
+          "options": [
+            "sophisticated",
+            "urbane",
+            "cosmopolitan",
+            "eclectic",
+            "sensational"
+          ],
+          "answers": [
+            "sophisticated"
+          ]
+        }
+      ],
+      "words": [
+        "sophisticated"
+      ],
+      "explanation": "Applied to a thing rather than a person, sophisticated means intricate and technically advanced, which is exactly what self-rewriting code that resisted analysis for eleven months requires. Urbane and cosmopolitan describe only human polish or breadth of experience, eclectic would mean assembled from varied sources rather than complex, and sensational would judge the attack's effect on an audience instead of its design.",
+      "id": "gregmat15__b5__cloze__07",
+      "unit": "gregmat15__b5",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three of the six options are near-synonyms in the required sense of \"standards of correct social behavior\": propriety, decorum, and deportment. The sentence's evidence (\"a misplaced guest or a mistimed toast\") supports all three — a mistimed toast is exactly a lapse of deportment (manner of conducting oneself). Nothing in the sentence discriminates deportment from the intended pair, so a reasonable test-taker could choose decorum + deportment or propriety + deportment and be marked wrong. (Comity, candor, and erudition are correctly out.) Replace deportment with a distractor from a different semantic field, or add a cue that pins the blank to formal protocol/convention rather than personal bearing.",
+      "stem": "Ambassadors of the period were forgiven substantive blunders far more readily than lapses of {1}, since a misplaced guest or a mistimed toast could be construed abroad as a calculated insult."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "unit": "gregmat01__b7",
+  "gregmat_group": 1,
+  "words": [
+    "taciturn",
+    "wary"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "Though his correspondence runs to nine volumes of exuberant gossip, Hollis in company was unnervingly {1}, offering little beyond a nod and a remark about the trains.",
+      "blanks": [
+        {
+          "options": [
+            "laconic",
+            "taciturn",
+            "garrulous",
+            "voluble",
+            "placid",
+            "obstreperous"
+          ],
+          "answers": [
+            "laconic",
+            "taciturn"
+          ]
+        }
+      ],
+      "words": [
+        "taciturn"
+      ],
+      "explanation": "The contrast with nine volumes of gossip, plus \"little beyond a nod,\" demands a word for saying very little in person: laconic and taciturn produce equivalent sentences here. Garrulous and voluble fit the grammar and the biographical register but reverse the sense the \"though\" sets up; placid describes an even temper rather than a scarcity of speech, and obstreperous describes noisy unruliness.",
+      "id": "gregmat01__b7__se__01",
+      "unit": "gregmat01__b7",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Having watched three comparable ventures collapse, the partners were {1} of the founder's projections yet not so {2} as to pull out: their money stayed in the fund, and their auditors stayed in his offices.",
+      "blanks": [
+        {
+          "options": [
+            "wary",
+            "oblivious",
+            "dismissive"
+          ],
+          "answers": [
+            "wary"
+          ]
+        },
+        {
+          "options": [
+            "alarmed",
+            "complacent",
+            "blithe"
+          ],
+          "answers": [
+            "alarmed"
+          ]
+        }
+      ],
+      "words": [
+        "wary"
+      ],
+      "explanation": "The colon defines the attitude precisely — distrust aimed at a particular party that watches rather than withdraws — which is wary; oblivious is ruled out by the auditors and dismissive by the money left in place. The second blank must be a stronger degree of that same distrust for \"yet not so ... as to pull out\" to work, so alarmed is required; complacent and blithe would make withdrawal the opposite of what they imply.",
+      "id": "gregmat01__b7__tc2__02",
+      "unit": "gregmat01__b7",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "Negotiators who had dealt with the regime twice before remained {1} of its sudden concessions, combing each clause for the loophole they were certain it contained.",
+      "blanks": [
+        {
+          "options": [
+            "wary",
+            "weary",
+            "circumspect",
+            "complacent",
+            "blithe"
+          ],
+          "answers": [
+            "wary"
+          ]
+        }
+      ],
+      "words": [
+        "wary"
+      ],
+      "explanation": "The distrust here has a named object — the concessions — and it takes the form of active scrutiny rather than retreat, which is what wary means and what the idiom \"wary of\" supports. Circumspect describes the general caution of one's own conduct and does not take an \"of\" object in this sense; weary is the lookalike (tired), while complacent and blithe describe the unguarded attitude the clause-combing rules out.",
+      "id": "gregmat01__b7__cloze__03",
+      "unit": "gregmat01__b7",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean (reticence is the only option jurors would read as concealment). Blank 2 is not unique: \"guarded\" fits the sentence as written just as well as \"taciturn.\" Both mean uncommunicative, and \"no more forthcoming with his own mother than with a prosecutor\" — a phrase about willingness to divulge information — arguably suits \"guarded\" even better. Distinguishing them requires an unstated inference that the defense needs innate disposition (taciturn) rather than deliberate caution (guarded, which would concede the concealment the jurors suspect); the sentence supplies no cue for that. Fix by adding a cue for effortless habitual silence (e.g. \"a boy who answered in monosyllables\") or by replacing \"guarded\" with a non-synonymous distractor.",
+      "stem": "Jurors instinctively read {1} on the stand as evidence of something concealed, so the defense took pains to establish that Whitcomb had been {2} since boyhood — no more forthcoming with his own mother than with a prosecutor."
+    }
+  ]
+}

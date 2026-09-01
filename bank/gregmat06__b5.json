@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat06__b5",
+  "gregmat_group": 6,
+  "words": [
+    "subjective",
+    "subvert",
+    "timorous",
+    "tortuous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The review is exasperating on two counts: the argument is {1}, doubling back through every rejected reading before it arrives at the one the critic clearly wanted all along, and the verdict it finally delivers is {2}, resting on nothing firmer than what the canvas made him feel one afternoon in Madrid.",
+      "blanks": [
+        {
+          "options": [
+            "tortuous",
+            "lucid",
+            "rudimentary"
+          ],
+          "answers": [
+            "tortuous"
+          ]
+        },
+        {
+          "options": [
+            "subjective",
+            "conjectural",
+            "empirical"
+          ],
+          "answers": [
+            "subjective"
+          ]
+        }
+      ],
+      "words": [
+        "tortuous",
+        "subjective"
+      ],
+      "explanation": "The first blank is fixed by \"doubling back through every rejected reading before it arrives\" — a complaint about the route, which is exactly what tortuous names; lucid and rudimentary would deny the detours. The second blank rests on \"what the canvas made him feel,\" i.e. a judgment that lives in the observer: subjective. Conjectural is the near-miss — it means resting on guesswork about facts, whereas nothing here is being guessed at; the critic knows what he felt, and that is precisely the problem.",
+      "id": "gregmat06__b5__tc2__00",
+      "unit": "gregmat06__b5",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Tovey's celebrated essay on the late quartets is frankly {1}: it is less an account of what Beethoven wrote than a record of what the music did to Tovey on a particular evening.",
+      "blanks": [
+        {
+          "options": [
+            "subjective",
+            "impressionistic",
+            "tendentious",
+            "conjectural",
+            "dogmatic",
+            "empirical"
+          ],
+          "answers": [
+            "subjective",
+            "impressionistic"
+          ]
+        }
+      ],
+      "words": [
+        "subjective"
+      ],
+      "explanation": "\"What the music did to Tovey\" locates the essay in the listener rather than the score, which is what both subjective and impressionistic assert, and they yield equivalent sentences. Tendentious is the trap: it alleges an agenda distorting the account, but subjectivity is not bias — no one accuses Tovey of arguing for anything, only of reporting his own experience. Conjectural and dogmatic describe unproven inference and inflexible assertion respectively, neither of which is at issue, and empirical reverses the sense.",
+      "id": "gregmat06__b5__se__01",
+      "unit": "gregmat06__b5",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "The old pilgrim road to the monastery is {1}, doubling back on itself a dozen times in the final two miles as it works around the shoulders of the ridge.",
+      "blanks": [
+        {
+          "options": [
+            "tortuous",
+            "serpentine",
+            "arduous",
+            "precipitous",
+            "treacherous",
+            "byzantine"
+          ],
+          "answers": [
+            "tortuous",
+            "serpentine"
+          ]
+        }
+      ],
+      "words": [
+        "tortuous"
+      ],
+      "explanation": "\"Doubling back on itself a dozen times\" specifies bends, not difficulty, and only tortuous and serpentine mean winding; tortuous is one of the few words in its family with a live literal sense for roads and rivers. Arduous, precipitous and treacherous all suit a mountain road tonally but assert strenuousness, steepness and danger — none of which the clause supports. Byzantine belongs to institutions and procedures rather than terrain, and it stresses intricate tangle rather than mere curvature.",
+      "id": "gregmat06__b5__se__02",
+      "unit": "gregmat06__b5",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "The statute was never repealed, and its text stands untouched to this day; it was simply {1} by a long series of {2} rulings whose qualifications and cross-references converted its central prohibition, by degrees, into a license.",
+      "blanks": [
+        {
+          "options": [
+            "subverted",
+            "abrogated",
+            "dismantled"
+          ],
+          "answers": [
+            "subverted"
+          ]
+        },
+        {
+          "options": [
+            "tortuous",
+            "peremptory",
+            "laconic"
+          ],
+          "answers": [
+            "tortuous"
+          ]
+        }
+      ],
+      "words": [
+        "subvert",
+        "tortuous"
+      ],
+      "explanation": "The first blank must describe an overturning worked quietly from inside a structure left formally intact: abrogated is ruled out by \"never repealed,\" and dismantled by \"its text stands untouched,\" leaving subverted, the word for hollowing something out until it means its opposite. The second blank is fixed by \"qualifications and cross-references,\" the marks of a ruling that reaches its destination by way of everywhere else; peremptory (abrupt, commanding) and laconic (terse) both contradict that accumulation.",
+      "id": "gregmat06__b5__tc2__03",
+      "unit": "gregmat06__b5",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers praised the film precisely for its refusal of the form it inhabits: the detective solves nothing, the confession explains nothing, and the final reel {1} every expectation the first hour had been at pains to establish.",
+      "blanks": [
+        {
+          "options": [
+            "subverts",
+            "vitiates",
+            "corroborates",
+            "forestalls",
+            "vindicates"
+          ],
+          "answers": [
+            "subverts"
+          ]
+        }
+      ],
+      "words": [
+        "subvert"
+      ],
+      "explanation": "Only subvert can be used as praise, and this is its idiomatic home: a work that turns its own genre's conventions against themselves. Vitiate would mean to impair the validity of something — it belongs to contracts and arguments, not audience expectations — while corroborates and vindicates confirm rather than overturn, and forestalls would mean the expectations were prevented from forming at all, which the sentence explicitly denies.",
+      "id": "gregmat06__b5__cloze__04",
+      "unit": "gregmat06__b5",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Her sentences do arrive at their point eventually, but only after a {1} passage through subordinate clauses, parentheses and second thoughts, so that a reader must often return to the opening words to recall what was being claimed.",
+      "blanks": [
+        {
+          "options": [
+            "tortuous",
+            "laconic",
+            "pellucid",
+            "desultory",
+            "mordant"
+          ],
+          "answers": [
+            "tortuous"
+          ]
+        }
+      ],
+      "words": [
+        "tortuous"
+      ],
+      "explanation": "The complaint is about the route rather than the tangle: the prose gets there, having detoured through everything else, which is the specific charge tortuous makes. Desultory is the plausible wrong answer, but it implies aimless drifting with no destination, and the sentence insists the point is reached; laconic and pellucid describe terseness and clarity, and mordant describes bite.",
+      "id": "gregmat06__b5__cloze__06",
+      "unit": "gregmat06__b5",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Aware that any ranking of the submissions would rest on criteria finally {1}, and unwilling to defend a preference it could not demonstrate to a skeptic, the jury took the {2} course of dividing the prize equally among all six finalists.",
+      "blanks": [
+        {
+          "options": [
+            "subjective",
+            "quantifiable",
+            "empirical"
+          ],
+          "answers": [
+            "subjective"
+          ]
+        },
+        {
+          "options": [
+            "timorous",
+            "audacious",
+            "peremptory"
+          ],
+          "answers": [
+            "timorous"
+          ]
+        }
+      ],
+      "words": [
+        "subjective",
+        "timorous"
+      ],
+      "explanation": "The second clause turns on criteria that cannot be demonstrated to a skeptic — judgments lodged in the judges rather than in the works, hence subjective; quantifiable and empirical would give the jury exactly the external warrant it lacks. That unprovability is what makes the jury shrink from deciding at all, which is the timorous disposition: fear of the moment of commitment. Audacious and peremptory would each describe a jury that did commit, boldly or dictatorially.",
+      "id": "gregmat06__b5__tc2__07",
+      "unit": "gregmat06__b5",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"craven\" is equally defensible. The sentence's behavioral evidence — dodging every decision that might displease anyone, for eleven years — supports any word meaning \"cowardly,\" and both timorous and craven carry that core meaning; they differ only in intensity/contempt. The intended discriminator is presumably \"Nothing so dramatic as fear of reprisal,\" pushing toward the milder timorous. But that clause denies a specific dramatic *motive* (fear of retaliation), not cowardice in general, and craven cowardice need not stem from fear of reprisal either — a body that abdicates every judgment call to avoid displeasing constituents is a textbook use of \"craven.\" A reasonable test-taker choosing craven would be marked wrong on a shade-of-degree inference the sentence does not firmly license. (intransigent, mercurial, and punctilious are all clearly out: the commission compromises by deferring rather than refusing, shows no volatility, and its studies are avoidance rather than scrupulous attention to detail.)",
+      "stem": "Nothing so dramatic as fear of reprisal explains the commission's record; it was simply {1} — presented with any decision that might displease a constituency, it ordered another study instead, for eleven consecutive years."
+    }
+  ]
+}

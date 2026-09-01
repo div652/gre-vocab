@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat17__b6",
+  "gregmat_group": 17,
+  "words": [
+    "sanctimonious",
+    "sound",
+    "tarnish",
+    "tepid"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The reformer's own ledgers show him to have been as {1} in his private dealings as the mill owners he attacked, which makes the {2} tone of his pamphlets — the audible sighing over other men's hardness of heart — particularly hard to stomach.",
+      "blanks": [
+        {
+          "options": [
+            "parsimonious",
+            "magnanimous",
+            "acrimonious"
+          ],
+          "answers": [
+            "parsimonious"
+          ]
+        },
+        {
+          "options": [
+            "sanctimonious",
+            "penurious",
+            "querulous"
+          ],
+          "answers": [
+            "sanctimonious"
+          ]
+        }
+      ],
+      "words": [
+        "sanctimonious"
+      ],
+      "explanation": "Blank 1 must name the very fault the mill owners were attacked for — hardness of heart over money — so parsimonious; magnanimous reverses it and acrimonious describes bitterness, not tight-fistedness. Blank 2 needs the word for a manner that parades moral superiority downward at the reader, and the hypocrisy established in blank 1 clinches sanctimonious. Querulous is merely complaining and penurious is the lookalike meaning poverty or miserliness, neither of which describes a preaching tone.",
+      "id": "gregmat17__b6__tc2__00",
+      "unit": "gregmat17__b6",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the bishop's own conduct was open to reproach; what alienated the congregation was the {1} delivery of his sermons, the sighing pauses that invited each listener to measure his shortcomings against the preacher's.",
+      "blanks": [
+        {
+          "options": [
+            "sanctimonious",
+            "pious",
+            "acrimonious",
+            "penurious",
+            "austere"
+          ],
+          "answers": [
+            "sanctimonious"
+          ]
+        }
+      ],
+      "words": [
+        "sanctimonious"
+      ],
+      "explanation": "The stem grants that the bishop's conduct is blameless, so the fault lies wholly in the performance — the showy display of superior virtue aimed at the listener, which is sanctimonious. Pious would name genuine devotion and would not explain the alienation; austere describes severity of style rather than moral preening, and acrimonious and penurious are the standard lookalikes.",
+      "id": "gregmat17__b6__cloze__01",
+      "unit": "gregmat17__b6",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than announce the merger outright, the chairman first {1} several board members on the question, hoping to learn in private how much resistance the plan would meet.",
+      "blanks": [
+        {
+          "options": [
+            "sounded",
+            "apprised",
+            "tarnished",
+            "censured",
+            "placated"
+          ],
+          "answers": [
+            "sounded"
+          ]
+        }
+      ],
+      "words": [
+        "sound"
+      ],
+      "explanation": "The chairman is measuring the depth of feeling before committing himself, which is the verb sense of sound — to probe cautiously, as one sounds a channel. Apprised is the nearest trap but runs the wrong way: it would mean he informed the members, whereas the stem says he hoped to learn from them.",
+      "id": "gregmat17__b6__cloze__03",
+      "unit": "gregmat17__b6",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Mint officials drew a sharp line between the two harms: melting cheaper metal into the coinage would {1} the currency itself, whereas the rumour alone could do no more than {2} the mint's name — a film that a decade of honest issue might polish away.",
+      "blanks": [
+        {
+          "options": [
+            "debase",
+            "burnish",
+            "temper"
+          ],
+          "answers": [
+            "debase"
+          ]
+        },
+        {
+          "options": [
+            "tarnish",
+            "adulterate",
+            "vitiate"
+          ],
+          "answers": [
+            "tarnish"
+          ]
+        }
+      ],
+      "words": [
+        "tarnish"
+      ],
+      "explanation": "Blank 1 describes cheap metal lowering the intrinsic worth of the coin, the textbook sense of debase; burnish means to polish and temper means to harden or moderate. Blank 2 is set against that real corruption of substance: the rumour leaves the mint intact and merely dulls its lustre, and the appositive about a film that can be polished away names tarnish exactly. Adulterate and vitiate both allege that something has been substantively corrupted or invalidated, which the sentence explicitly denies.",
+      "id": "gregmat17__b6__tc2__04",
+      "unit": "gregmat17__b6",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Decades of unqualified praise had left the composer's name spotless, and the letters revealing his plagiarism did more to {1} it than any hostile review ever had.",
+      "blanks": [
+        {
+          "options": [
+            "tarnish",
+            "sully",
+            "burnish",
+            "vitiate",
+            "adulterate",
+            "refine"
+          ],
+          "answers": [
+            "tarnish",
+            "sully"
+          ]
+        }
+      ],
+      "words": [
+        "tarnish"
+      ],
+      "explanation": "A reputation that was spotless can be dulled or stained, so tarnish and sully produce equivalent sentences; both presuppose a lustre to lose. Burnish and refine fit grammatically but reverse the meaning into improvement, while adulterate and vitiate require something mixed in or invalidated rather than a name blemished from outside.",
+      "id": "gregmat17__b6__se__05",
+      "unit": "gregmat17__b6",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "No critic actually attacked the novel; what sank it was a {1} approval, praise with so little heat in it that readers took the notices for polite dismissals.",
+      "blanks": [
+        {
+          "options": [
+            "tepid",
+            "lukewarm",
+            "ardent",
+            "fervent",
+            "scathing",
+            "unstinting"
+          ],
+          "answers": [
+            "tepid",
+            "lukewarm"
+          ]
+        }
+      ],
+      "words": [
+        "tepid"
+      ],
+      "explanation": "The stem specifies approval drained of heat, which is the literal-to-figurative range tepid and lukewarm share exactly. Ardent, fervent and unstinting all fit the noun approval tonally but supply the enthusiasm the sentence says was missing, and scathing is excluded by the opening clause denying any attack.",
+      "id": "gregmat17__b6__se__06",
+      "unit": "gregmat17__b6",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Nobody walked out, and the applause was genuine, if {1}; the ambassador nonetheless left understanding that so measured a welcome constituted a rebuke sharper than any {2} could have delivered.",
+      "blanks": [
+        {
+          "options": [
+            "tepid",
+            "effusive",
+            "acrimonious"
+          ],
+          "answers": [
+            "tepid"
+          ]
+        },
+        {
+          "options": [
+            "invective",
+            "encomium",
+            "lassitude"
+          ],
+          "answers": [
+            "invective"
+          ]
+        }
+      ],
+      "words": [
+        "tepid"
+      ],
+      "explanation": "Blank 1 must concede that a response occurred while draining it of warmth — applause that happened but stayed cool — which is tepid; effusive contradicts measured and acrimonious would make the reception hostile, ruining the concession that nobody walked out. Blank 2 supplies the overt attack against which the cool welcome is judged more wounding, so invective. Encomium is praise, and lassitude names weariness rather than any delivered rebuke.",
+      "id": "gregmat17__b6__tc2__07",
+      "unit": "gregmat17__b6",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is clean and well-constrained: the trustees wanted a scheme that would \"remake the department,\" and the auditors found no error, so the dismissal must be about lack of ambition, not defect — \"pedestrian\" is the only fit (\"untenable\" and \"incoherent\" both contradict the flawless audit).\n\nBlank {1} is not unique. The clue (\"went through the financing line by line and found no error\") supports \"sound\" as the precise match — free of defect. But \"robust\" is also genuinely defensible: \"financially robust\" is idiomatic, and a test-taker can read \"no error found by three auditors\" as establishing that the proposal is solid/robust. The sentence provides nothing that discriminates between soundness (absence of flaw) and robustness (strength under stress) — no stress-test, no adverse-conditions language that would make \"robust\" overreach in an obvious way. A reasonable test-taker who picks \"robust\" would be marked wrong on a distinction the sentence never draws. (\"Laudable\" is correctly excluded — an audit certifies correctness, not praiseworthiness.) Fix by adding a discriminator, e.g. \"found not a single error or omission\" plus \"the proposal was unimpeachably {1}\", or by replacing \"robust\" with a clearly wrong distractor.",
+      "stem": "Three auditors went through the financing line by line and found no error, so by any inspector's standard the proposal was {1}; the trustees, however, had asked for a scheme that would remake the department, and they dismissed it as {2} and funded a bolder rival."
+    }
+  ]
+}

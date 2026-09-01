@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat22__b1",
+  "gregmat_group": 22,
+  "words": [
+    "elementary",
+    "embellish",
+    "euphoric",
+    "exonerate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers admired the biography's prose, calling it {1} even where the diplomatic history grew tangled, but several noted with embarrassment an {2} blunder in the second chapter, where the Treaty of Utrecht is dated a full decade too late.",
+      "blanks": [
+        {
+          "options": [
+            "lucid",
+            "byzantine",
+            "tortuous"
+          ],
+          "answers": [
+            "lucid"
+          ]
+        },
+        {
+          "options": [
+            "elementary",
+            "elaborate",
+            "intuitive"
+          ],
+          "answers": [
+            "elementary"
+          ]
+        }
+      ],
+      "words": [
+        "elementary"
+      ],
+      "explanation": "The concession \"even where the history grew tangled\" requires a word of praise for clarity, so lucid; byzantine and tortuous would describe the tangle rather than the prose that survives it. In the second blank, a misdated treaty is a mistake at the first and simplest level, which is exactly what elementary means when attached to an error, and it supplies the embarrassment the sentence reports; elaborate points the opposite way, toward intricacy, and an intricate blunder would be no cause for shame at basics.",
+      "id": "gregmat22__b1__tc2__00",
+      "unit": "gregmat22__b1",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Because the lectures were meant for an audience off the street, Feynman kept his treatment of quantum electrodynamics deliberately {1}, presupposing nothing beyond arithmetic and a willingness to sit still.",
+      "blanks": [
+        {
+          "options": [
+            "elementary",
+            "rudimentary",
+            "abstruse",
+            "byzantine",
+            "lucid",
+            "exhaustive"
+          ],
+          "answers": [
+            "elementary",
+            "rudimentary"
+          ]
+        }
+      ],
+      "words": [
+        "elementary"
+      ],
+      "explanation": "\"Presupposing nothing beyond arithmetic\" fixes the level of the material at the first and simplest, which elementary and rudimentary both name, and here they are interchangeable. Lucid is the trap: it fits the tone and the pedagogical purpose but means clear rather than basic, and a treatment can be perfectly lucid while assuming years of physics; abstruse and byzantine invert the sense, and exhaustive contradicts a lecture that presupposes nothing.",
+      "id": "gregmat22__b1__se__01",
+      "unit": "gregmat22__b1",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The memoirist concedes that he has {1} certain episodes, adding a livelier dinner guest here and a heavier rain there, but he insists that nothing in the book is {2}: every character he describes existed, and every scene had a real occasion.",
+      "blanks": [
+        {
+          "options": [
+            "embellished",
+            "caricatured",
+            "corroborated"
+          ],
+          "answers": [
+            "embellished"
+          ]
+        },
+        {
+          "options": [
+            "fabricated",
+            "understated",
+            "ornate"
+          ],
+          "answers": [
+            "fabricated"
+          ]
+        }
+      ],
+      "words": [
+        "embellish"
+      ],
+      "explanation": "Adding untrue ornamental detail to a story that is otherwise true is precisely embellish; caricature would require distortion aimed at ridicule, and corroborate means to confirm with evidence, which the guest and the rain plainly are not. The second blank is fixed by the defense that follows it, since \"every character existed\" answers the charge of wholesale invention, and fabricate is the word for inventing the thing entire, which is exactly what embellishing does not do.",
+      "id": "gregmat22__b1__tc2__02",
+      "unit": "gregmat22__b1",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Asked why the whale in his account gained ten feet at every retelling, the old mate was unrepentant: he had never in his life invented a voyage, he said, but he saw no harm in {1} one.",
+      "blanks": [
+        {
+          "options": [
+            "embellishing",
+            "fabricating",
+            "corroborating",
+            "expurgating",
+            "recanting"
+          ],
+          "answers": [
+            "embellishing"
+          ]
+        }
+      ],
+      "words": [
+        "embellish"
+      ],
+      "explanation": "The mate's own distinction, that he never invented a voyage, rules out fabricating, which is invention from nothing, and leaves the mild offense of dressing a real voyage in untrue detail, which is embellishing. Corroborating would confirm the tale rather than inflate it, expurgating would cut material out, and recanting would withdraw the story altogether.",
+      "id": "gregmat22__b1__cloze__03",
+      "unit": "gregmat22__b1",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "Those who knew Sibelius describe a man habitually {1}, given to long silences and blacker moods; the single exception the letters record is the night of the Second Symphony's premiere, when he was reportedly {2}, drinking with the cellists until dawn.",
+      "blanks": [
+        {
+          "options": [
+            "saturnine",
+            "ebullient",
+            "punctilious"
+          ],
+          "answers": [
+            "saturnine"
+          ]
+        },
+        {
+          "options": [
+            "euphoric",
+            "content",
+            "disconsolate"
+          ],
+          "answers": [
+            "euphoric"
+          ]
+        }
+      ],
+      "words": [
+        "euphoric"
+      ],
+      "explanation": "Long silences and blacker moods define the first blank as gloom of temperament, so saturnine; ebullient contradicts the silences and punctilious describes exactness rather than mood. The second blank must be extreme enough to count as the single exception to a lifetime of gloom, which euphoric supplies as the top of the scale of elation, whereas content names a mild settled satisfaction that would neither be remarkable nor explain drinking until dawn, and disconsolate merely repeats the gloom.",
+      "id": "gregmat22__b1__tc2__04",
+      "unit": "gregmat22__b1",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission's report {1} the engineer, concluding that the valve had already failed when he reached the control room, but the same document {2} his supervisors, who had ignored three written warnings in as many months.",
+      "blanks": [
+        {
+          "options": [
+            "exonerated",
+            "impugned",
+            "condoned"
+          ],
+          "answers": [
+            "exonerated"
+          ]
+        },
+        {
+          "options": [
+            "censured",
+            "vindicated",
+            "extenuated"
+          ],
+          "answers": [
+            "censured"
+          ]
+        }
+      ],
+      "words": [
+        "exonerate"
+      ],
+      "explanation": "An official finding that the failure preceded the engineer's arrival clears him of blame affirmatively, which is exonerate; impugn would attack him and condone would excuse a wrong he is here shown not to have committed. The \"but\" demands that the supervisors receive the opposite treatment, and their ignored warnings call for formal rebuke, so censure; vindicate would clear them and extenuate would soften their fault rather than pronounce it.",
+      "id": "gregmat22__b1__tc2__06",
+      "unit": "gregmat22__b1",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Twenty-two years after the conviction, the laboratory's reanalysis of the blood on the doorframe {1} him completely, matching it to a man who had by then died in another state's custody.",
+      "blanks": [
+        {
+          "options": [
+            "exonerated",
+            "exculpated",
+            "impugned",
+            "censured",
+            "condoned",
+            "indicted"
+          ],
+          "answers": [
+            "exonerated",
+            "exculpated"
+          ]
+        }
+      ],
+      "words": [
+        "exonerate"
+      ],
+      "explanation": "Evidence identifying a different man establishes that the convicted man did not do it, and exonerate and exculpate both mean to clear of blame in just this affirmative, official way. Condone is the trap for the unwary, since it presumes the act occurred and merely overlooks it, while impugn, censure, and indict all move toward blame rather than away from it.",
+      "id": "gregmat22__b1__se__07",
+      "unit": "gregmat22__b1",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence supplies three near-interchangeable positive options, not two. \"An intoxication\" only tells us the staff were in a state of giddy, drug-like high spirits — a description satisfied equally by \"euphoric,\" \"elated,\" and \"ebullient.\" \"Ebullient\" (bubbling over with excitement) produces a sentence just as coherent as the euphoric/elated pair, and a test-taker choosing euphoric + ebullient (or elated + ebullient) has a defensible reading; nothing in the sentence distinguishes inner feeling from outward exuberance. (\"Content\" is too mild to count as an intoxication, and \"jaded\"/\"circumspect\" are clear opposites, so those three are properly excluded.) To fix, either remove \"ebullient\" or add a cue that pins the trait to felt elation rather than demonstrative behavior.",
+      "stem": "For three days after the returns came in the campaign staff were {1}, an intoxication that no one expected to survive the first vote on the budget."
+    }
+  ]
+}

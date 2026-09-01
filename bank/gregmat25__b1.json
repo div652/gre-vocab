@@ -1,0 +1,214 @@
+{
+  "unit": "gregmat25__b1",
+  "gregmat_group": 25,
+  "words": [
+    "articulate",
+    "auspicious",
+    "bereft",
+    "captious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the commission's report ran to four hundred pages, it contrived only to {1} the dispute; not until a junior clerk circulated a two-page memorandum did anyone {2} the precise question at issue in terms both parties could recognize.",
+      "blanks": [
+        {
+          "options": [
+            "obfuscate",
+            "elucidate",
+            "distill"
+          ],
+          "answers": [
+            "obfuscate"
+          ]
+        },
+        {
+          "options": [
+            "articulate",
+            "equivocate",
+            "skirt"
+          ],
+          "answers": [
+            "articulate"
+          ]
+        }
+      ],
+      "words": [
+        "articulate"
+      ],
+      "explanation": "\"Contrived only to\" plus the contrast with the clerk's memo requires a verb of muddying, so elucidate and distill invert the logic. In the second blank, the memo is credited with finally giving the dispute a statable form — that is articulating it; equivocate and skirt both name evasion, which \"not until... did anyone\" would praise absurdly.",
+      "id": "gregmat25__b1__tc2__00",
+      "unit": "gregmat25__b1",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "In fact the premiere was far more {1} than anyone in the hall could have guessed: reviewers dismissed the symphony as derivative, a verdict that seemed to {2} a modest provincial career, yet three of its themes return, transfigured, in the late quartets.",
+      "blanks": [
+        {
+          "options": [
+            "auspicious",
+            "ominous",
+            "precipitous"
+          ],
+          "answers": [
+            "auspicious"
+          ]
+        },
+        {
+          "options": [
+            "portend",
+            "forestall",
+            "vindicate"
+          ],
+          "answers": [
+            "portend"
+          ]
+        }
+      ],
+      "words": [
+        "auspicious"
+      ],
+      "explanation": "The premiere is a beginning that turned out to be a sign of future success, which is exactly what auspicious names; ominous reverses the omen and precipitous refers to steepness or rashness. The reviewers' verdict points forward to an expected small career, so it portends it — forestall would mean preventing that career and vindicate would mean justifying it.",
+      "id": "gregmat25__b1__tc2__02",
+      "unit": "gregmat25__b1",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "The new government's first cabinet meeting produced two resignations and a leaked transcript within a single week — hardly the {1} beginning that an administration elected on a promise of unity had hoped for.",
+      "blanks": [
+        {
+          "options": [
+            "auspicious",
+            "ominous",
+            "providential",
+            "propitiatory",
+            "precipitate"
+          ],
+          "answers": [
+            "auspicious"
+          ]
+        }
+      ],
+      "words": [
+        "auspicious"
+      ],
+      "explanation": "Auspicious attaches to openings and debuts and describes the omen rather than the outcome, which is why the litotes \"hardly the auspicious beginning\" is the standard dry obituary for something that failed at once. Ominous inverts the sense, providential means delivered by lucky intervention rather than promising, and propitiatory means intended to appease.",
+      "id": "gregmat25__b1__cloze__03",
+      "unit": "gregmat25__b1",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "By 1941 Zweig was {1} of nearly everything that had sustained him — his readers, his publishers, his language, his Vienna — and the memoir he wrote in exile is less an autobiography than an attempt to {2} a world that had already ceased to exist.",
+      "blanks": [
+        {
+          "options": [
+            "bereft",
+            "weary",
+            "innocent"
+          ],
+          "answers": [
+            "bereft"
+          ]
+        },
+        {
+          "options": [
+            "conjure",
+            "extol",
+            "indict"
+          ],
+          "answers": [
+            "conjure"
+          ]
+        }
+      ],
+      "words": [
+        "bereft"
+      ],
+      "explanation": "Bereft requires that the thing was once possessed and then taken away, which the list of things that \"had sustained him\" supplies; weary of would mean he tired of them voluntarily, and innocent of would deny he ever had them. The second blank must describe summoning back what is gone, so conjure fits where praising or accusing would not.",
+      "id": "gregmat25__b1__tc2__04",
+      "unit": "gregmat25__b1",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "The 1919 settlement left the empire {1} of the provinces from which it had drawn both its grain and its conscripts, and the rump state that survived could supply itself with neither.",
+      "blanks": [
+        {
+          "options": [
+            "bereft",
+            "shorn",
+            "wary",
+            "resentful",
+            "heedless",
+            "contemptuous"
+          ],
+          "answers": [
+            "bereft",
+            "shorn"
+          ]
+        }
+      ],
+      "words": [
+        "bereft"
+      ],
+      "explanation": "Only bereft and shorn convey territory once held and then stripped away, which the closing clause about failing supply confirms. Wary, resentful, heedless and contemptuous all take \"of\" and are tonally at home in a sentence about a defeated empire, but each describes an attitude toward the provinces rather than the loss of them.",
+      "id": "gregmat25__b1__se__05",
+      "unit": "gregmat25__b1",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "The seminar's newest member proved so {1} that colleagues soon began circulating drafts privately: his commentary never touched an argument's structure or evidence, only its {2} — a misdated footnote here, an inconsistent hyphen there.",
+      "blanks": [
+        {
+          "options": [
+            "captious",
+            "forbearing",
+            "magnanimous"
+          ],
+          "answers": [
+            "captious"
+          ]
+        },
+        {
+          "options": [
+            "minutiae",
+            "premises",
+            "implications"
+          ],
+          "answers": [
+            "minutiae"
+          ]
+        }
+      ],
+      "words": [
+        "captious"
+      ],
+      "explanation": "The colleagues' retreat marks the disposition as an unpleasant one, so forbearing and magnanimous — which name precisely the tolerance he lacks — are excluded, and captious supplies the standing habit of fault-finding for its own sake. Footnotes and hyphens are minutiae, not premises or implications, which are the structural matters the sentence says he ignored.",
+      "id": "gregmat25__b1__tc2__06",
+      "unit": "gregmat25__b1",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Articulate\" is the best fit — it covers both giving voice/written form to something never \"set down or stated aloud\" and the sense of jointing something into distinct parts (eleven numbered demands). But the sentence does not exclude \"delineate,\" which means to describe or outline with precision, marking the boundaries of something previously vague: \"the first document in which they delineated it, breaking a diffuse grievance into eleven numbered demands\" reads perfectly naturally, and the diffuse→itemized contrast supports it just as well. \"Distill\" is a weaker but not absurd third reading (concentrating a diffuse mood into eleven points), though breaking into components is analysis rather than distillation. Because a reasonable test-taker could defend \"delineate,\" the blank is not uniquely determined; the sentence would need a cue specific to utterance/voicing (e.g. that the demands were finally *spoken* or *given words*) rather than merely to precision and enumeration.",
+      "stem": "For years the workers' resentment had been a mood rather than a claim, never once set down or stated aloud; the strike committee's manifesto was the first document in which they {1} it, breaking a diffuse grievance into eleven numbered demands."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two defensible pairs. \"Captious\"/\"caviling\" (petty fault-finding) is presumably intended, but \"punctilious\"/\"fastidious\" (scrupulously attentive to small points of form) is an equally standard synonym pair and fits the described behavior — confining comment to misdated footnotes and inconsistent hyphenation is exactly what a punctilious/fastidious reader would do. The sentence supplies the negative evaluation independently (\"never engaged an argument at all\"; colleagues send drafts elsewhere), so it does not constrain the blank to the pejorative objection-raising sense. A test-taker picking punctilious/fastidious would be wrongly marked incorrect.",
+      "stem": "Younger colleagues learned to send their drafts elsewhere, for the professor's reports never engaged an argument at all: {1} to the last, he confined his four pages of comment to misdated footnotes and inconsistent hyphenation."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "unit": "gregmat32__b1",
+  "gregmat_group": 32,
+  "words": [
+    "dilettante",
+    "effrontery",
+    "encroach",
+    "endow"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers agreed that Hartley's command of Byzantine coinage was genuinely {1}, and so the standard sneer at him as a mere {2} — a rich man amusing himself among antiquities between shooting parties — struck them as both lazy and unjust.",
+      "blanks": [
+        {
+          "options": [
+            "encyclopedic",
+            "cursory",
+            "perfunctory"
+          ],
+          "answers": [
+            "encyclopedic"
+          ]
+        },
+        {
+          "options": [
+            "dilettante",
+            "connoisseur",
+            "polymath"
+          ],
+          "answers": [
+            "dilettante"
+          ]
+        }
+      ],
+      "words": [
+        "dilettante"
+      ],
+      "explanation": "The clause \"and so ... struck them as unjust\" requires blank 1 to be praise, so cursory and perfunctory are excluded; only encyclopedic makes the sneer undeserved. Blank 2 must name the insult being rebutted — playing at a subject for pleasure — which is dilettante; connoisseur credits real discernment and polymath real breadth, so neither could be introduced by \"a mere\" or answered by evidence of deep knowledge.",
+      "id": "gregmat32__b1__tc2__00",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Though he published nothing and dropped each subject the moment it ceased to amuse him, Ferris bristled at being called a {1}, insisting that decades of unpaid reading had made him a scholar in everything but title.",
+      "blanks": [
+        {
+          "options": [
+            "dilettante",
+            "neophyte",
+            "connoisseur",
+            "adept",
+            "polymath"
+          ],
+          "answers": [
+            "dilettante"
+          ]
+        }
+      ],
+      "words": [
+        "dilettante"
+      ],
+      "explanation": "The charge Ferris resents is pretension without commitment — he abandons subjects once they stop entertaining him — which is precisely dilettante. Neophyte and fledgling-type words denote inexperience that time cures, but Ferris has had decades; connoisseur, adept and polymath are all compliments and no one would bristle at them.",
+      "id": "gregmat32__b1__cloze__01",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "Having lifted half his monograph from a colleague's unpublished notes, Vance then had the {1} to complain in print that the man he had robbed was slow to acknowledge the debt.",
+      "blanks": [
+        {
+          "options": [
+            "effrontery",
+            "temerity",
+            "diffidence",
+            "prudence",
+            "sagacity",
+            "contrition"
+          ],
+          "answers": [
+            "effrontery",
+            "temerity"
+          ]
+        }
+      ],
+      "words": [
+        "effrontery"
+      ],
+      "explanation": "The frame \"had the ___ to\" plus an act the writer plainly finds indefensible calls for shameless nerve, and effrontery and temerity are the two words that supply it. Diffidence and contrition invert the sense — a shrinking or repentant man does not publish that complaint — while prudence and sagacity would praise the move as shrewd, changing the sentence's meaning rather than duplicating it.",
+      "id": "gregmat32__b1__se__02",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "The forger's correspondence betrays no {1} of any kind: having sold the museum a Vermeer of his own manufacture, he had the {2} to offer, for a further fee, to authenticate it.",
+      "blanks": [
+        {
+          "options": [
+            "qualm",
+            "bravado",
+            "presumption"
+          ],
+          "answers": [
+            "qualm"
+          ]
+        },
+        {
+          "options": [
+            "effrontery",
+            "contrition",
+            "prudence"
+          ],
+          "answers": [
+            "effrontery"
+          ]
+        }
+      ],
+      "words": [
+        "effrontery"
+      ],
+      "explanation": "Blank 1 must name the thing a swindler's letters conspicuously lack — a twinge of conscience — so qualm fits, whereas bravado and presumption are qualities the second clause shows him possessing in abundance, not missing. Blank 2 then names the missing blush itself: effrontery is boldness that ought to have been ashamed, while contrition contradicts \"no qualm\" and prudence would make the second offer cautious rather than brazen.",
+      "id": "gregmat32__b1__tc2__03",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "What the commoners resented was less the scale of the enclosure than its pace: every spring the manor's hedges {1} a few more yards upon the waste, an advance so {2} that no single season's loss ever seemed worth a lawsuit.",
+      "blanks": [
+        {
+          "options": [
+            "encroached",
+            "proliferated",
+            "receded"
+          ],
+          "answers": [
+            "encroached"
+          ]
+        },
+        {
+          "options": [
+            "incremental",
+            "flagrant",
+            "precipitate"
+          ],
+          "answers": [
+            "incremental"
+          ]
+        }
+      ],
+      "words": [
+        "encroach"
+      ],
+      "explanation": "Blank 1 needs a verb of gradual trespass taking \"upon\" a named thing, which is exactly encroach; proliferate describes multiplication rather than advance on someone's ground, and recede reverses the direction the hedges are moving. Blank 2 must explain why no year's loss was worth litigating, so incremental follows; flagrant and precipitate would each make the taking conspicuous enough to fight over, contradicting the sentence's stress on pace.",
+      "id": "gregmat32__b1__tc2__04",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Marsh grass that once grew a mile inland is gone, and with every storm the tide {1} a little further on fields that the deeds still describe as arable.",
+      "blanks": [
+        {
+          "options": [
+            "encroaches",
+            "proliferates",
+            "recedes",
+            "festers",
+            "recrudesces"
+          ],
+          "answers": [
+            "encroaches"
+          ]
+        }
+      ],
+      "words": [
+        "encroach"
+      ],
+      "explanation": "The sea is taking land by degrees and the idiom is to encroach on something, which the sentence supplies with \"on fields.\" Recedes moves the water the wrong way given the vanished grass; proliferates, festers and recrudesces describe multiplication, rot and relapse rather than a slow advance onto another's ground.",
+      "id": "gregmat32__b1__cloze__05",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Though the family's mills had been raised by men of famously {1} habits — one grandfather is said to have reused envelopes until they fell apart — the last of the line {2} the university with a sum large enough to support the chair in perpetuity.",
+      "blanks": [
+        {
+          "options": [
+            "parsimonious",
+            "munificent",
+            "rapacious"
+          ],
+          "answers": [
+            "parsimonious"
+          ]
+        },
+        {
+          "options": [
+            "endowed",
+            "saddled",
+            "indulged"
+          ],
+          "answers": [
+            "endowed"
+          ]
+        }
+      ],
+      "words": [
+        "endow"
+      ],
+      "explanation": "\"Though\" sets the founders against the heir, and the envelope detail fixes blank 1 as tight-fistedness: parsimonious, not munificent (which would remove the contrast) or rapacious (grasping outward, not withholding). Blank 2 needs the formal verb for settling a permanent fund on an institution — endow — since saddled would recast a welcome bequest as a burden and indulged reduces a perpetual chair to a treat.",
+      "id": "gregmat32__b1__tc2__06",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Musicians often speak of perfect pitch as an accomplishment, but it is not acquired by practice: a child is either {1} with it from birth or spends a lifetime approximating it by ear.",
+      "blanks": [
+        {
+          "options": [
+            "endowed",
+            "inculcated",
+            "apprised",
+            "inured",
+            "encumbered"
+          ],
+          "answers": [
+            "endowed"
+          ]
+        }
+      ],
+      "words": [
+        "endow"
+      ],
+      "explanation": "The sentence rules out training and locates the gift at birth, which is the second sense of endow — furnished with a quality by nature rather than by effort. Inculcated names exactly the drilled-in learning the sentence denies, apprised and inured take the wrong prepositions and senses, and encumbered would make a coveted faculty a burden.",
+      "id": "gregmat32__b1__cloze__07",
+      "unit": "gregmat32__b1",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,238 @@
+{
+  "unit": "gregmat15__b2",
+  "gregmat_group": 15,
+  "words": [
+    "elated",
+    "enchant",
+    "entrenched",
+    "exotic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "News of the acquittal left the defendant's relatives {1}, cheering on the courthouse steps; the defendant himself, worn down by four years of hearings, remained oddly {2}, as though the verdict had arrived too late to mean anything.",
+      "blanks": [
+        {
+          "options": [
+            "elated",
+            "crestfallen",
+            "plaintive"
+          ],
+          "answers": [
+            "elated"
+          ]
+        },
+        {
+          "options": [
+            "glum",
+            "jocund",
+            "buoyant"
+          ],
+          "answers": [
+            "glum"
+          ]
+        }
+      ],
+      "words": [
+        "elated"
+      ],
+      "explanation": "The first blank must name a sudden lift of spirits produced by a specific piece of news, which is exactly what elated denotes; crestfallen and plaintive contradict the cheering. The second blank is fixed by the contrastive \"oddly\" and by the verdict arriving \"too late to mean anything\" — the defendant feels no such lift, so glum is required, while jocund and buoyant would restate the relatives' joy rather than oppose it.",
+      "id": "gregmat15__b2__tc2__00",
+      "unit": "gregmat15__b2",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Listeners who found the composer's early songs {1} — they left the hall humming, half in love — were unprepared for the late symphonies, which {2} rather than charm: grim, relentless, and impossible to break off from.",
+      "blanks": [
+        {
+          "options": [
+            "enchanting",
+            "tantalizing",
+            "intriguing"
+          ],
+          "answers": [
+            "enchanting"
+          ]
+        },
+        {
+          "options": [
+            "enthrall",
+            "beguile",
+            "intrigue"
+          ],
+          "answers": [
+            "enthrall"
+          ]
+        }
+      ],
+      "words": [
+        "enchant"
+      ],
+      "explanation": "The first blank is fixed by \"humming, half in love\": enchanting carries warmth and a touch of romance, whereas tantalizing implies teasing with something withheld and intriguing implies mere curiosity. The second blank must denote total absorption by grim material, which enchant expressly cannot do and which intrigue is far too weak for; beguile would smuggle in charm, the very thing the sentence rules out.",
+      "id": "gregmat15__b2__tc2__02",
+      "unit": "gregmat15__b2",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Travelers of the 1890s were {1} by the village — its lantern-lit lanes and improbably tuneful bells kept them lingering for weeks past their intended departure.",
+      "blanks": [
+        {
+          "options": [
+            "enchanted",
+            "enthralled",
+            "intrigued",
+            "amused",
+            "disconcerted",
+            "exasperated"
+          ],
+          "answers": [
+            "enchanted",
+            "enthralled"
+          ]
+        }
+      ],
+      "words": [
+        "enchant"
+      ],
+      "explanation": "The travelers are held past their own plans, so the blank needs a word for being gripped as if spellbound: enchanted and enthralled both supply that and yield sentences of the same force. Intrigued and amused fit the tone but name much milder states — curiosity and pleasant diversion do not detain anyone for weeks — and disconcerted and exasperated reverse the sense of the lingering.",
+      "id": "gregmat15__b2__se__03",
+      "unit": "gregmat15__b2",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Anthropologists found the deference shown to the old landowning families far more {1} than the framers of the land reform had assumed: three generations of redistribution had failed to dislodge it.",
+      "blanks": [
+        {
+          "options": [
+            "entrenched",
+            "ingrained",
+            "ephemeral",
+            "transitory",
+            "hidebound",
+            "malleable"
+          ],
+          "answers": [
+            "entrenched",
+            "ingrained"
+          ]
+        }
+      ],
+      "words": [
+        "entrenched"
+      ],
+      "explanation": "\"Failed to dislodge\" demands a word meaning dug in past the reach of ordinary pressure, and entrenched and ingrained are interchangeable here. Ephemeral and transitory form a tempting synonym pair, but they assert the opposite of what the evidence shows, malleable likewise; hidebound would pass judgement on the narrow-mindedness of the people rather than describe the fixity of the attitude, which is all the sentence establishes.",
+      "id": "gregmat15__b2__se__04",
+      "unit": "gregmat15__b2",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Constitutional drafters distinguish between rights that are merely legislated — and therefore as {1} as the majority that enacted them — and those deliberately {2}, armored by supermajority requirements against the very legislatures that might later resent them.",
+      "blanks": [
+        {
+          "options": [
+            "transient",
+            "immutable",
+            "inveterate"
+          ],
+          "answers": [
+            "transient"
+          ]
+        },
+        {
+          "options": [
+            "entrenched",
+            "ossified",
+            "undermined"
+          ],
+          "answers": [
+            "entrenched"
+          ]
+        }
+      ],
+      "words": [
+        "entrenched"
+      ],
+      "explanation": "The contrast structure makes the first blank the opposite of the protected case: a right lasting only as long as a shifting majority is transient, while immutable and inveterate would collapse the distinction the sentence is drawing. The second blank needs the one word for fixity that can be deliberate and protective — entrenched — since ossified implies decay nobody chooses and undermined states the reverse of what supermajority armor does.",
+      "id": "gregmat15__b2__tc2__05",
+      "unit": "gregmat15__b2",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers in 1955 praised the actress's {1} beauty, a compliment that now reads as a way of admiring her and holding her at arm's length in the same breath.",
+      "blanks": [
+        {
+          "options": [
+            "exotic",
+            "homely",
+            "austere",
+            "insipid",
+            "pallid"
+          ],
+          "answers": [
+            "exotic"
+          ]
+        }
+      ],
+      "words": [
+        "exotic"
+      ],
+      "explanation": "Only exotic both flatters and distances, because it locates its object as foreign from the speaker's vantage — precisely the double motion the second clause describes. Austere and pallid describe the look itself without any implied outsider's angle, while homely and insipid are not compliments at all.",
+      "id": "gregmat15__b2__cloze__06",
+      "unit": "gregmat15__b2",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Botanists have learned to distrust the romance of the word {1}: the shrub sold in Victorian catalogues for its far-flung origins is often the same one that, a century on, is so {2} in the hedgerows that no amount of cutting will clear it.",
+      "blanks": [
+        {
+          "options": [
+            "exotic",
+            "endemic",
+            "perennial"
+          ],
+          "answers": [
+            "exotic"
+          ]
+        },
+        {
+          "options": [
+            "entrenched",
+            "ephemeral",
+            "tractable"
+          ],
+          "answers": [
+            "entrenched"
+          ]
+        }
+      ],
+      "words": [
+        "exotic",
+        "entrenched"
+      ],
+      "explanation": "The first blank must be the word that means \"from far away\" and that carries the glamour the botanists distrust; endemic asserts the opposite origin and perennial speaks to lifespan, not provenance. The second blank is settled by \"no amount of cutting will clear it\" — the plant is dug in, so entrenched is required, and ephemeral and tractable both promise the easy removal the clause denies.",
+      "id": "gregmat15__b2__tc2__07",
+      "unit": "gregmat15__b2",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only requires \"intense joy at a long-awaited success\" (the contrast clause \"though the mood evaporated\" confirms a positive, elevated mood). Two options satisfy that equally: \"elated\" and \"ebullient\" are near-synonyms for exuberant delight, and \"ebullient\" works fine with a group of chemists reacting to a breakthrough. The only thing separating them is a faint idiomatic preference (\"elated at\" is a standard collocation, \"ebullient at\" slightly less so), which is far too thin to make one answer defensibly correct and the other wrong. A test-taker who picks \"ebullient\" would be marked wrong for no substantive reason. To fix, replace one of the two synonyms (e.g. swap \"ebullient\" for something like \"vindicated,\" \"relieved,\" or \"nonplussed\") or add a constraint that distinguishes degree/duration of the emotion. (\"Content\" is too mild for eleven months of failure, \"sanguine\" means optimistic about the future rather than delighted by a result, and \"morose\" is the opposite — those three are fine distractors.)",
+      "stem": "The chemists were {1} at the first clean spectrum after eleven months of failed runs, though the mood evaporated when the referee's report arrived the following week."
+    }
+  ]
+}

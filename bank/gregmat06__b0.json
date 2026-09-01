@@ -1,0 +1,239 @@
+{
+  "unit": "gregmat06__b0",
+  "gregmat_group": 6,
+  "words": [
+    "admonish",
+    "aesthetic",
+    "affectation",
+    "alleviate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Judge Hooper's closing remarks were less a rebuke than a piece of counsel: rather than {1} the jurors for their evident impatience, she simply {2} them to weigh the medical testimony once more before deliberating.",
+      "blanks": [
+        {
+          "options": [
+            "excoriating",
+            "consoling",
+            "exonerating"
+          ],
+          "answers": [
+            "excoriating"
+          ]
+        },
+        {
+          "options": [
+            "admonished",
+            "berated",
+            "commended"
+          ],
+          "answers": [
+            "admonished"
+          ]
+        }
+      ],
+      "words": [
+        "admonish"
+      ],
+      "explanation": "The colon sets up a contrast between a harsh scolding (rejected) and counsel (accepted), so blank one needs the savage end of the reproof scale — excoriating — while blank two needs the mild, forward-facing verb that takes advice as its object: admonished them to weigh. Berated is the trap: it names heat and hurt, contradicting \"less a rebuke,\" and it does not point the jurors toward what to do next. Consoling and exonerating misread \"impatience\" as grief or guilt.",
+      "id": "gregmat06__b0__tc2__00",
+      "unit": "gregmat06__b0",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Hospice care neither cures nor pretends to; its entire purpose is to {1} suffering that medicine can no longer end.",
+      "blanks": [
+        {
+          "options": [
+            "assuage",
+            "alleviate",
+            "exacerbate",
+            "compound",
+            "prolong",
+            "rationalize"
+          ],
+          "answers": [
+            "assuage",
+            "alleviate"
+          ]
+        }
+      ],
+      "words": [
+        "alleviate"
+      ],
+      "explanation": "The clause \"neither cures nor pretends to\" demands a verb that promises lighter suffering without promising a fix, which is exactly the shared claim of alleviate and assuage. Exacerbate and compound fit the grammar but invert the sense; prolong and rationalize are tonally plausible in a clinical sentence yet describe extending or explaining suffering, not easing it.",
+      "id": "gregmat06__b0__se__01",
+      "unit": "gregmat06__b0",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "The landmarks commission rejected the proposed cladding on purely {1} grounds: the panels were sound, cheap, and simple to maintain, but their mottled gray finish would have jarred against the limestone of every other facade on the square.",
+      "blanks": [
+        {
+          "options": [
+            "aesthetic",
+            "structural",
+            "fiscal",
+            "punitive",
+            "procedural"
+          ],
+          "answers": [
+            "aesthetic"
+          ]
+        }
+      ],
+      "words": [
+        "aesthetic"
+      ],
+      "explanation": "The sentence explicitly concedes soundness, cost, and maintenance, leaving only the question of how the panels would look — the domain the word aesthetic names. Structural and fiscal are the very objections the sentence rules out, and the word marks a category of consideration rather than praise, so nothing in \"jarred\" argues against it.",
+      "id": "gregmat06__b0__cloze__02",
+      "unit": "gregmat06__b0",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Wilde's green carnation was less a symbol than an {1}: a studied gesture whose interest was entirely {2}, announcing a devotion to surface that no moral or political reading of it could improve upon.",
+      "blanks": [
+        {
+          "options": [
+            "affectation",
+            "mannerism",
+            "admonition"
+          ],
+          "answers": [
+            "affectation"
+          ]
+        },
+        {
+          "options": [
+            "aesthetic",
+            "punitive",
+            "mercenary"
+          ],
+          "answers": [
+            "aesthetic"
+          ]
+        }
+      ],
+      "words": [
+        "affectation",
+        "aesthetic"
+      ],
+      "explanation": "\"Studied\" marks the gesture as chosen and worn for an audience, which is an affectation; a mannerism is an unchosen personal quirk and carries no verdict of pose. The second blank is fixed by the closing contrast — moral and political readings are excluded — leaving the domain of beauty and surface, which is what aesthetic designates.",
+      "id": "gregmat06__b0__tc2__03",
+      "unit": "gregmat06__b0",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "What his admirers took for eccentricity was in fact rehearsed: the drawled vowels and the ever-present cigarette holder were {1}, adopted at twenty and maintained for forty years to advertise a temperament he did not actually possess.",
+      "blanks": [
+        {
+          "options": [
+            "affectations",
+            "poses",
+            "mannerisms",
+            "quirks",
+            "convictions",
+            "credentials"
+          ],
+          "answers": [
+            "affectations",
+            "poses"
+          ]
+        }
+      ],
+      "words": [
+        "affectation"
+      ],
+      "explanation": "\"Rehearsed,\" \"adopted,\" and \"a temperament he did not actually possess\" all insist the traits were deliberately assumed for effect, which is precisely what affectations and poses assert. Mannerisms and quirks fit the vowels and the cigarette holder perfectly as description but are morally neutral — they name habits without claiming they were put on — so they change the sentence's charge rather than preserving it.",
+      "id": "gregmat06__b0__se__04",
+      "unit": "gregmat06__b0",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Patients report real relief, and yet the compound leaves the underlying degeneration untouched: it can {1} the tremors that make ordinary tasks difficult without in any way {2} their cause.",
+      "blanks": [
+        {
+          "options": [
+            "alleviate",
+            "eradicate",
+            "aggravate"
+          ],
+          "answers": [
+            "alleviate"
+          ]
+        },
+        {
+          "options": [
+            "eliminating",
+            "diagnosing",
+            "hastening"
+          ],
+          "answers": [
+            "eliminating"
+          ]
+        }
+      ],
+      "words": [
+        "alleviate"
+      ],
+      "explanation": "The two blanks divide symptom from disease: the drug lessens what is felt but removes nothing, so the first blank takes alleviate and the second takes eliminating. Eradicate fails the first blank because the sentence denies any removal, and aggravate contradicts the reported relief; diagnosing and hastening describe identifying or speeding a cause rather than abolishing it.",
+      "id": "gregmat06__b0__tc2__05",
+      "unit": "gregmat06__b0",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers treated the archaic spellings and inverted syntax as mere {1} — a costume rather than a style — and even his own editor at last {2} him to write in the language he actually spoke.",
+      "blanks": [
+        {
+          "options": [
+            "affectation",
+            "erudition",
+            "inadvertence"
+          ],
+          "answers": [
+            "affectation"
+          ]
+        },
+        {
+          "options": [
+            "admonished",
+            "reproached",
+            "extolled"
+          ],
+          "answers": [
+            "admonished"
+          ]
+        }
+      ],
+      "words": [
+        "affectation",
+        "admonish"
+      ],
+      "explanation": "The appositive \"a costume rather than a style\" defines the tics as borrowed and worn for effect, which is affectation; erudition would make them genuine learning and inadvertence would make them accidental, both of which the costume image forbids. The second blank must govern an infinitive of advice, and only admonish among scolding verbs faces forward in that way — one reproaches a person for a past fault, not to a future course.",
+      "id": "gregmat06__b0__tc2__07",
+      "unit": "gregmat06__b0",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options are near-synonyms and the sentence separates them only by collocation, not by logic. \"Alleviated\" and \"assuaged\" both mean \"lessened in severity without removing,\" which is exactly what the sentence requires (contrast with \"eliminate,\" plus the partial four-minute improvement). The only argument against \"assuaged\" is idiomatic: it normally takes feelings, pain, hunger, or guilt as its object rather than a traffic bottleneck. That is a usage preference, not a semantic exclusion, and a well-prepared test-taker who knows assuage = \"mitigate, make less severe\" can defend it and would be marked wrong. Fix by replacing \"assuaged\" with a distractor that fails on meaning (e.g., \"entrenched,\" \"compounded,\" or \"relocated\") so only one option survives.",
+      "stem": "The new interchange did not eliminate the bottleneck at the river crossing; it merely {1} it, shaving some four minutes off the average morning commute."
+    }
+  ]
+}

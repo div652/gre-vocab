@@ -1,0 +1,255 @@
+{
+  "unit": "gregmat25__b5",
+  "gregmat_group": 25,
+  "words": [
+    "relent",
+    "rhetoric",
+    "rigor",
+    "sparse"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "For thirty years the parole board had been {1} in its refusal to reopen the case; when it at last {2} — moved not by new evidence, nor by any pressure it could not have withstood, but by the simple weariness of the men who sat on it — even the prisoner's lawyers were caught off guard.",
+      "blanks": [
+        {
+          "options": [
+            "implacable",
+            "equivocal",
+            "perfunctory"
+          ],
+          "answers": [
+            "implacable"
+          ]
+        },
+        {
+          "options": [
+            "relented",
+            "capitulated",
+            "retaliated"
+          ],
+          "answers": [
+            "relented"
+          ]
+        }
+      ],
+      "words": [
+        "relent"
+      ],
+      "explanation": "The thirty-year refusal establishes a hard position held against all comers, which is what implacable names; equivocal (hedging) and perfunctory (going through the motions) both contradict a refusal sustained that long. Capitulated is the trap: it means surrendering to a force, and the sentence explicitly rules out new evidence and irresistible pressure, leaving only the softening of the harsh party — relented.",
+      "id": "gregmat25__b5__tc2__00",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "The rains that had kept the delta under water since late August gave no sign of easing, and only in the middle of October did they finally {1}, opening a narrow window in which relief convoys could move inland.",
+      "blanks": [
+        {
+          "options": [
+            "relent",
+            "acquiesce",
+            "capitulate",
+            "forbear",
+            "condone"
+          ],
+          "answers": [
+            "relent"
+          ]
+        }
+      ],
+      "words": [
+        "relent"
+      ],
+      "explanation": "Of these near-synonyms of giving way, only relent takes an impersonal subject: rain, heat, and pain relent, but they cannot acquiesce or capitulate, both of which require an agent yielding to another party. Forbear (hold back from acting) and condone (overlook an offence) describe deliberate human restraint or pardon, which weather cannot exercise.",
+      "id": "gregmat25__b5__cloze__01",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "A full century after the eruption, plant life on the lava field remains {1}, confined to the handful of pockets where wind-blown ash collected deeply enough for seeds to lodge.",
+      "blanks": [
+        {
+          "options": [
+            "sparse",
+            "scant",
+            "profuse",
+            "rampant",
+            "endemic",
+            "ubiquitous"
+          ],
+          "answers": [
+            "sparse",
+            "scant"
+          ]
+        }
+      ],
+      "words": [
+        "sparse"
+      ],
+      "explanation": "The clause about a handful of pockets specifies growth that is present but thinly distributed, so sparse and scant both yield the same sentence. Profuse, rampant, and ubiquitous each fit the grammar but assert abundance or spread, the opposite of what the pockets imply, and endemic makes a claim about where the plants originate rather than how much of them there is.",
+      "id": "gregmat25__b5__se__02",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Readers of Cicero are often startled to find that in the ancient curriculum {1} was a technical discipline, complete with a taxonomy of figures and a theory of proof, and not the term of {2} it has become in political commentary, where it names words offered in place of deeds.",
+      "blanks": [
+        {
+          "options": [
+            "rhetoric",
+            "philology",
+            "cosmology"
+          ],
+          "answers": [
+            "rhetoric"
+          ]
+        },
+        {
+          "options": [
+            "abuse",
+            "art",
+            "endearment"
+          ],
+          "answers": [
+            "abuse"
+          ]
+        }
+      ],
+      "words": [
+        "rhetoric"
+      ],
+      "explanation": "Only rhetoric is both an ancient discipline of figures and proofs and a modern slur for empty talk; philology studies texts and languages and carries no pejorative modern life. In the second blank, term of art would mean a neutral technical usage, which is precisely the sense the sentence contrasts with, so the derogatory modern use requires abuse.",
+      "id": "gregmat25__b5__tc2__03",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians of abolition now attend not only to what Douglass argued but to the {1} with which he argued it: the biblical cadences, the calculated pauses, the self-deprecation that disarmed audiences who had come to jeer.",
+      "blanks": [
+        {
+          "options": [
+            "rhetoric",
+            "sophistry",
+            "polemic",
+            "erudition",
+            "veracity"
+          ],
+          "answers": [
+            "rhetoric"
+          ]
+        }
+      ],
+      "words": [
+        "rhetoric"
+      ],
+      "explanation": "Cadence, pause, and strategic self-presentation are techniques of persuasion — how a thing is said — which is exactly what rhetoric names, in its neutral disciplinary sense. Sophistry would accuse Douglass of fallacious trickery, polemic names an attacking piece of writing rather than a set of devices, and erudition and veracity concern learning and truthfulness, not delivery.",
+      "id": "gregmat25__b5__cloze__04",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "The very {1} that makes his published proofs exemplary — no step skipped, no gap quietly papered over — becomes, when turned on his graduate students, a {2} that has driven three of them out of mathematics altogether.",
+      "blanks": [
+        {
+          "options": [
+            "rigor",
+            "rhetoric",
+            "whimsy"
+          ],
+          "answers": [
+            "rigor"
+          ]
+        },
+        {
+          "options": [
+            "severity",
+            "magnanimity",
+            "diffidence"
+          ],
+          "answers": [
+            "severity"
+          ]
+        }
+      ],
+      "words": [
+        "rigor"
+      ],
+      "explanation": "The sentence needs one quality that reads as praise applied to a method and as cruelty applied to people, and rigor is that swing word; rhetoric concerns persuasion rather than unbroken proof, and whimsy is its opposite. The second blank must name the punitive face of that same unbendingness, so severity follows, whereas magnanimity and diffidence would give no reason for students to flee.",
+      "id": "gregmat25__b5__tc2__05",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "Few of the recruits had any real conception of what the {1} of a polar winter would amount to: eighteen weeks without sunrise, temperatures low enough to freeze mercury, and a ration that left half the party scurvied by spring.",
+      "blanks": [
+        {
+          "options": [
+            "rigors",
+            "strictures",
+            "sanctions",
+            "embellishments",
+            "exactions"
+          ],
+          "answers": [
+            "rigors"
+          ]
+        }
+      ],
+      "words": [
+        "rigor"
+      ],
+      "explanation": "Darkness, cold, and bad rations are hardships imposed by circumstance with no rule-maker behind them, which is the sense of the plural rigors. Strictures are restrictions or sharp criticisms, sanctions are penalties imposed by an authority, and exactions are demands for payment — all require someone doing the imposing, which a winter cannot do.",
+      "id": "gregmat25__b5__cloze__06",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the array's readings are dense over the North Atlantic but {1} across the southern ocean, climatologists must {2} the gaps with model output rather than observation, which is why trends in the far south are the least trustworthy figures in the entire record.",
+      "blanks": [
+        {
+          "options": [
+            "sparse",
+            "copious",
+            "redundant"
+          ],
+          "answers": [
+            "sparse"
+          ]
+        },
+        {
+          "options": [
+            "bridge",
+            "widen",
+            "exploit"
+          ],
+          "answers": [
+            "bridge"
+          ]
+        }
+      ],
+      "words": [
+        "sparse"
+      ],
+      "explanation": "The contrast with dense, together with the gaps mentioned next, calls for a word about thin spatial distribution: sparse, not copious (abundant) or redundant (duplicated). The second blank must describe substituting model output where measurement is missing, so bridge fits; widen would make the gaps worse, and exploit would treat the absence of data as an advantage.",
+      "id": "gregmat25__b5__tc2__07",
+      "unit": "gregmat25__b5",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": []
+}

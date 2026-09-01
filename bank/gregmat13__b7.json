@@ -1,0 +1,136 @@
+{
+  "unit": "gregmat13__b7",
+  "gregmat_group": 13,
+  "words": [
+    "subtle",
+    "superficial"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the forgery reproduced the master's brushwork closely enough to deceive the gallery's own curators, conservators eventually caught a {1} discrepancy in the ground layer — a difference of perhaps half a shade, which no {2} inspection could ever have registered.",
+      "blanks": [
+        {
+          "options": [
+            "subtle",
+            "inscrutable",
+            "flagrant"
+          ],
+          "answers": [
+            "subtle"
+          ]
+        },
+        {
+          "options": [
+            "superficial",
+            "exhaustive",
+            "penetrating"
+          ],
+          "answers": [
+            "superficial"
+          ]
+        }
+      ],
+      "words": [
+        "subtle",
+        "superficial"
+      ],
+      "explanation": "\"A difference of perhaps half a shade\" specifies a matter of degree so fine it is easy to miss, which is exactly subtle; inscrutable would mean the discrepancy resisted interpretation, but here it was detected and measured, and flagrant contradicts the deception. The second blank must name the kind of looking that stops at the surface and so misses what lies in the ground layer — superficial; exhaustive and penetrating inspections would have found it, destroying the sentence's logic.",
+      "id": "gregmat13__b7__tc2__00",
+      "unit": "gregmat13__b7",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Reassured that the explosion had left the machinist with only {1} burns, the investigators turned to his account of the accident, which proved so {2} in its distinctions — this hiss a half-second before that flash — that they rebuilt the sequence from his testimony alone.",
+      "blanks": [
+        {
+          "options": [
+            "superficial",
+            "mortal",
+            "suppurating"
+          ],
+          "answers": [
+            "superficial"
+          ]
+        },
+        {
+          "options": [
+            "subtle",
+            "perfunctory",
+            "garbled"
+          ],
+          "answers": [
+            "subtle"
+          ]
+        }
+      ],
+      "words": [
+        "superficial",
+        "subtle"
+      ],
+      "explanation": "The first blank exploits superficial's literal, wholly neutral sense — affecting only the surface, and therefore good news, which is what \"reassured\" demands; mortal and suppurating both make the reassurance absurd. The second blank describes a mind able to register fine distinctions of timing, the complimentary sense of subtle; perfunctory and garbled would both make the testimony useless, contradicting the fact that the sequence was reconstructed from it.",
+      "id": "gregmat13__b7__tc2__01",
+      "unit": "gregmat13__b7",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Kant's later readers have complained that his engagement with Hume was ultimately {1}: a glance at the opening pages of the Enquiry rather than a reckoning with the argument that follows.",
+      "blanks": [
+        {
+          "options": [
+            "superficial",
+            "cursory",
+            "penetrating",
+            "exhaustive",
+            "derivative",
+            "polemical"
+          ],
+          "answers": [
+            "superficial",
+            "cursory"
+          ]
+        }
+      ],
+      "words": [
+        "superficial",
+        "cursory"
+      ],
+      "explanation": "The colon defines the blank as reading that stopped at the surface, and superficial and cursory both yield that charge — one measuring the depth reached, the other the brevity of the attention, but here producing equivalent sentences. Penetrating and exhaustive reverse the meaning, while derivative and polemical are plausible critical insults that describe unoriginality or combativeness rather than shallowness, and neither has a partner among the options.",
+      "id": "gregmat13__b7__se__02",
+      "unit": "gregmat13__b7",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "The regime's wartime propaganda rarely announced itself as such; its most effective instruments were {1} — a shift of emphasis in a caption, a photograph cropped by an inch — and readers absorbed the argument without ever noticing that an argument had been made.",
+      "blanks": [
+        {
+          "options": [
+            "subtle",
+            "strident",
+            "inscrutable",
+            "perfunctory",
+            "superficial"
+          ],
+          "answers": [
+            "subtle"
+          ]
+        }
+      ],
+      "words": [
+        "subtle"
+      ],
+      "explanation": "The examples are tiny, deliberate adjustments of degree that work precisely because they escape notice, which is subtle in its craftier, manipulative sense. Strident contradicts \"rarely announced itself\"; inscrutable would mean the captions could not be read at all, whereas these were read and believed; perfunctory and superficial would fault the propagandists' effort or depth, but the passage credits their effectiveness.",
+      "id": "gregmat13__b7__cloze__03",
+      "unit": "gregmat13__b7",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": []
+}

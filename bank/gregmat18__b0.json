@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat18__b0",
+  "gregmat_group": 18,
+  "words": [
+    "abet",
+    "accessible",
+    "acquisitive",
+    "amalgamate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The indictment turns on a distinction the jury must not blur: the night clerk merely {1} the theft, unlocking a service door and then looking studiously away, whereas the security chief had conceived and {2} it.",
+      "blanks": [
+        {
+          "options": [
+            "abetted",
+            "perpetrated",
+            "thwarted"
+          ],
+          "answers": [
+            "abetted"
+          ]
+        },
+        {
+          "options": [
+            "perpetrated",
+            "abetted",
+            "curbed"
+          ],
+          "answers": [
+            "perpetrated"
+          ]
+        }
+      ],
+      "words": [
+        "abet"
+      ],
+      "explanation": "The clerk supplies cover rather than doing the deed, which is exactly abetting — second-fiddle help welded to a wrong; the chief, who conceived the plan, perpetrated it. \"Thwarted\" contradicts unlocking the door and looking away, and \"perpetrated\" cannot fill the first blank because \"merely\" and \"whereas\" set the helper against the principal.",
+      "id": "gregmat18__b0__tc2__00",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "The station armed no one and issued no orders, yet the tribunal held that its nightly exhortations had {1} the militias, encouragement being punishable no less than the act it produces.",
+      "blanks": [
+        {
+          "options": [
+            "abetted",
+            "hampered",
+            "bolstered",
+            "amalgamated",
+            "expedited"
+          ],
+          "answers": [
+            "abetted"
+          ]
+        }
+      ],
+      "words": [
+        "abet"
+      ],
+      "explanation": "Abet is the legal term for supplying the push or the nerve behind another's wrongdoing, which is precisely what the tribunal is punishing. \"Bolstered\" would merely mean strengthened and carries no guilt, so it does not explain why the broadcaster is criminally liable, while \"hampered\" reverses the sense.",
+      "id": "gregmat18__b0__cloze__01",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers were divided over the book: some found it the rare account of quantum electrodynamics that is {1} to a reader with no mathematics beyond algebra, while physicists complained that such clarity had been bought at the cost of precision.",
+      "blanks": [
+        {
+          "options": [
+            "accessible",
+            "intelligible",
+            "impenetrable",
+            "congenial",
+            "indispensable",
+            "condescending"
+          ],
+          "answers": [
+            "accessible",
+            "intelligible"
+          ]
+        }
+      ],
+      "words": [
+        "accessible"
+      ],
+      "explanation": "The physicists' complaint about \"such clarity\" fixes the blank as praise for comprehensibility, and accessible and intelligible are equivalent in that sense. \"Impenetrable\" is the opposite of the clarity the second clause concedes, and \"congenial\" or \"indispensable\" would be compliments about welcome or necessity rather than about being understood without training.",
+      "id": "gregmat18__b0__se__02",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The bequest foundered on an incompatibility of temperaments: the museum's charter required that every object remain {1} to any scholar who asked to see it, whereas the donor, {2} to the last, had spent forty years buying pictures precisely so that no one else could look at them.",
+      "blanks": [
+        {
+          "options": [
+            "accessible",
+            "indispensable",
+            "impervious"
+          ],
+          "answers": [
+            "accessible"
+          ]
+        },
+        {
+          "options": [
+            "acquisitive",
+            "munificent",
+            "altruistic"
+          ],
+          "answers": [
+            "acquisitive"
+          ]
+        }
+      ],
+      "words": [
+        "accessible",
+        "acquisitive"
+      ],
+      "explanation": "The charter guarantees a low barrier to seeing the objects, which is accessible; the donor's settled forty-year policy of getting and keeping is acquisitive. \"Munificent\" and \"altruistic\" describe giving away and so contradict the hoarding the clause describes, and \"impervious to any scholar\" reverses the openness the charter demands.",
+      "id": "gregmat18__b0__tc2__03",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Though he left school at fourteen and never mastered an equation, Faraday had an {1} mind, absorbing whatever came within reach — bookbinding, chemistry, the whole of the Encyclopaedia Britannica.",
+      "blanks": [
+        {
+          "options": [
+            "acquisitive",
+            "avaricious",
+            "rapacious",
+            "venal",
+            "mercenary"
+          ],
+          "answers": [
+            "acquisitive"
+          ]
+        }
+      ],
+      "words": [
+        "acquisitive"
+      ],
+      "explanation": "Only acquisitive can be neutral or even complimentary: it names a settled disposition to take in and keep, here knowledge rather than money, and it has no victim. \"Avaricious\" and \"rapacious\" are grades of money-greed that require an object of plunder, and \"venal\" and \"mercenary\" impute corruptibility or payment, none of which suits an unpaid appetite for learning.",
+      "id": "gregmat18__b0__cloze__04",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The 1889 act did not merely invite the parish boards to cooperate; it {1} them, dissolving nine authorities into one county council with a single budget and a single name — an outcome the smaller parishes, jealous of their autonomy, had for decades contrived to {2}.",
+      "blanks": [
+        {
+          "options": [
+            "amalgamated",
+            "clustered",
+            "coalesced"
+          ],
+          "answers": [
+            "amalgamated"
+          ]
+        },
+        {
+          "options": [
+            "impede",
+            "expedite",
+            "endorse"
+          ],
+          "answers": [
+            "impede"
+          ]
+        }
+      ],
+      "words": [
+        "amalgamate",
+        "abet"
+      ],
+      "explanation": "One budget and one name means the parts genuinely fuse under official action, which is amalgamate; clustering only groups things that remain distinct, and coalesce describes parts drifting together of themselves rather than a legislature imposing a merger. The parishes' jealousy of their autonomy makes \"impede\" the only fit, since expediting or endorsing the merger would be the opposite of guarding independence.",
+      "id": "gregmat18__b0__tc2__05",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Under pressure from the regulator, the ministry {1} the four regional carriers, and within a year one national airline flew under one livery where four had competed.",
+      "blanks": [
+        {
+          "options": [
+            "amalgamated",
+            "consolidated",
+            "clustered",
+            "privatized",
+            "franchised",
+            "deregulated"
+          ],
+          "answers": [
+            "amalgamated",
+            "consolidated"
+          ]
+        }
+      ],
+      "words": [
+        "amalgamate"
+      ],
+      "explanation": "Four companies becoming one airline with one livery is fusion by official act, so amalgamated and consolidated yield equivalent sentences. \"Clustered\" would leave the four carriers separate though grouped, and privatized, franchised, and deregulated all describe plausible ministerial policies that say nothing about four entities becoming one.",
+      "id": "gregmat18__b0__se__06",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Critics who had admired the early poems for the labour they demanded found the new collection disappointingly {1}: every allusion glossed in a footnote, every inversion straightened, nothing left for the reader to do.",
+      "blanks": [
+        {
+          "options": [
+            "accessible",
+            "abstruse",
+            "derivative",
+            "mellifluous",
+            "austere"
+          ],
+          "answers": [
+            "accessible"
+          ]
+        }
+      ],
+      "words": [
+        "accessible"
+      ],
+      "explanation": "The colon explains the blank as a barrier lowered to nothing, and accessible carries exactly that faintly dismissive critical sense of work that asks nothing of its audience. \"Abstruse\" names the difficulty the critics miss rather than its removal, and \"derivative\" would be an unrelated charge of unoriginality that the glossing and straightening do not support.",
+      "id": "gregmat18__b0__cloze__07",
+      "unit": "gregmat18__b0",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": []
+}

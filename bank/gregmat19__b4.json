@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat19__b4",
+  "gregmat_group": 19,
+  "words": [
+    "jettison",
+    "mendacity",
+    "munificent",
+    "naive"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Only a {1} reading of the summit could treat the ambassador's late concessions as spontaneous goodwill: he {2} his most cherished demands at precisely the moment when clinging to them would have sunk the talks.",
+      "blanks": [
+        {
+          "options": [
+            "naive",
+            "astute",
+            "shrewd"
+          ],
+          "answers": [
+            "naive"
+          ]
+        },
+        {
+          "options": [
+            "jettisoned",
+            "coveted",
+            "reiterated"
+          ],
+          "answers": [
+            "jettisoned"
+          ]
+        }
+      ],
+      "words": [
+        "naive",
+        "jettison"
+      ],
+      "explanation": "The colon explains what the mistaken reading misses — that the concessions were tactical, made under pressure — so the first blank must name the failure of worldly judgment: naive. Astute and shrewd are synonyms of each other and describe exactly the reader who would not be fooled, so both are wrong for the same reason; and in the second blank only jettisoned captures giving up something valued because carrying it would have caused a collapse, whereas reiterated contradicts \"concessions\" and coveted describes wanting, not surrendering.",
+      "id": "gregmat19__b4__tc2__00",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "As the balloon sank toward the ridge, the crew {1} the scientific instruments they had spent two years calibrating — equipment nobody wanted to lose, but the basket would never clear the rocks with it aboard.",
+      "blanks": [
+        {
+          "options": [
+            "jettisoned",
+            "forwent",
+            "forsook",
+            "bequeathed",
+            "salvaged"
+          ],
+          "answers": [
+            "jettisoned"
+          ]
+        }
+      ],
+      "words": [
+        "jettison"
+      ],
+      "explanation": "Jettison is the word for throwing valuable cargo overboard under duress so that the vehicle keeps going, which is exactly what the second clause describes. Forwent is wrong because one can only forgo what one has not yet taken on, forsook implies walking away and leaving a thing behind rather than dumping it in flight, and salvaged reverses the sense the sentence requires.",
+      "id": "gregmat19__b4__cloze__01",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "The biography is at pains to show that the tycoon's {1} gifts — the wings and reading rooms that still carry his name — coexisted with a private {2} so habitual that his own children learned to verify anything he told them.",
+      "blanks": [
+        {
+          "options": [
+            "munificent",
+            "parsimonious",
+            "perfidious"
+          ],
+          "answers": [
+            "munificent"
+          ]
+        },
+        {
+          "options": [
+            "mendacity",
+            "veracity",
+            "probity"
+          ],
+          "answers": [
+            "mendacity"
+          ]
+        }
+      ],
+      "words": [
+        "munificent",
+        "mendacity"
+      ],
+      "explanation": "\"Coexisted with\" sets a public virtue against a private vice, and the named wings and reading rooms fix the first blank as praise for the scale of the giving: munificent. Parsimonious contradicts the gifts outright; in the second blank, the detail that his children checked everything he said points to lying as a settled habit — mendacity — while veracity and probity name precisely the truthfulness the sentence denies him.",
+      "id": "gregmat19__b4__tc2__02",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "What the memoir documents is not a single scandal but a climate: in that household {1} was so ordinary that the children learned to cross-check one another's accounts rather than expect any of them to be true.",
+      "blanks": [
+        {
+          "options": [
+            "mendacity",
+            "perfidy",
+            "credulity",
+            "effrontery",
+            "probity"
+          ],
+          "answers": [
+            "mendacity"
+          ]
+        }
+      ],
+      "words": [
+        "mendacity"
+      ],
+      "explanation": "Mendacity names untruthfulness as a standing condition — the ambient weather of a person or a household — which is what \"not a single scandal but a climate\" demands. Perfidy would require a specific betrayal of trust and effrontery a specific insolent act; credulity is believing too readily rather than lying, and probity is the honesty the sentence rules out.",
+      "id": "gregmat19__b4__cloze__03",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "The new wing was financed by a single {1} bequest, a sum so far beyond the trustees' most hopeful projections that it covered construction, an endowment, and a decade of acquisitions besides.",
+      "blanks": [
+        {
+          "options": [
+            "munificent",
+            "lavish",
+            "beneficent",
+            "benevolent",
+            "parsimonious",
+            "stinting"
+          ],
+          "answers": [
+            "munificent",
+            "lavish"
+          ]
+        }
+      ],
+      "words": [
+        "munificent"
+      ],
+      "explanation": "The sentence measures the gift, not the giver's heart: everything after the comma is about magnitude, so the blank must mean enormous in scale, which munificent and lavish both supply. Beneficent and benevolent form a tempting pair, but they attribute kindly intent and say nothing about size; parsimonious and stinting invert the sentence.",
+      "id": "gregmat19__b4__se__04",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Sold on a promise of guaranteed returns, the {1} investors handed over their savings without once asking to see an audited statement.",
+      "blanks": [
+        {
+          "options": [
+            "naive",
+            "credulous",
+            "astute",
+            "shrewd",
+            "avaricious",
+            "chary"
+          ],
+          "answers": [
+            "naive",
+            "credulous"
+          ]
+        }
+      ],
+      "words": [
+        "naive"
+      ],
+      "explanation": "The failure described is one of belief — accepting a promise without verification — so naive and credulous both yield the same sentence: trusting beyond what experience warrants. Astute and shrewd are a pair, but they describe the investor who would have demanded the statement; avaricious names greed rather than trustfulness, and chary means wary, the opposite of the behavior shown.",
+      "id": "gregmat19__b4__se__05",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "The campaign {1} its most experienced strategist within a week of the leaked memos, less because his advice had failed than because the {2} they exposed made him a weight the ticket could not carry into the final month.",
+      "blanks": [
+        {
+          "options": [
+            "jettisoned",
+            "forwent",
+            "absolved"
+          ],
+          "answers": [
+            "jettisoned"
+          ]
+        },
+        {
+          "options": [
+            "mendacity",
+            "probity",
+            "reticence"
+          ],
+          "answers": [
+            "mendacity"
+          ]
+        }
+      ],
+      "words": [
+        "jettison",
+        "mendacity"
+      ],
+      "explanation": "\"A weight the ticket could not carry\" is the defining situation for jettison: dropping something of real value because continuing to bear it would bring the whole enterprise down; forwent is impossible for a person already on staff, and absolved would mean clearing him rather than cutting him loose. The second blank must name what the memos revealed that turned him into a liability, and only mendacity — habitual untruthfulness — does that, since probity would have protected him and reticence is not a disqualifying revelation.",
+      "id": "gregmat19__b4__tc2__06",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Carnegie's library program was {1} by any measure — some twenty-five hundred buildings paid for outright — though critics observed that the conditions he attached did rather more for his name than for the towns.",
+      "blanks": [
+        {
+          "options": [
+            "munificent",
+            "beneficent",
+            "magnanimous",
+            "penurious",
+            "mercenary"
+          ],
+          "answers": [
+            "munificent"
+          ]
+        }
+      ],
+      "words": [
+        "munificent"
+      ],
+      "explanation": "Munificent praises the sheer scale of a public gift and commits to nothing about whether the money did any good, which is why it survives the concessive clause about self-interest. Beneficent and magnanimous would assert exactly the benefit and largeness of spirit that the critics deny; penurious and mercenary invert the giving the dash makes explicit.",
+      "id": "gregmat19__b4__cloze__07",
+      "unit": "gregmat19__b4",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": []
+}

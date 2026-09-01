@@ -1,0 +1,227 @@
+{
+  "unit": "gregmat35__b1",
+  "gregmat_group": 35,
+  "words": [
+    "cluster",
+    "coherent",
+    "contemplate",
+    "crafty"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the two firms never actually {1} — each kept its own board, its own auditors, and its own balance sheet — regulators described the arrangement as a mere {2} of allied companies rather than a single enterprise.",
+      "blanks": [
+        {
+          "options": [
+            "amalgamated",
+            "dispersed",
+            "polarized"
+          ],
+          "answers": [
+            "amalgamated"
+          ]
+        },
+        {
+          "options": [
+            "cluster",
+            "amalgam",
+            "dichotomy"
+          ],
+          "answers": [
+            "cluster"
+          ]
+        }
+      ],
+      "words": [
+        "cluster"
+      ],
+      "explanation": "The dashes establish that the firms remain separately countable entities, so blank one needs the verb of true fusion that is being denied (amalgamated), and blank two needs the word for things merely sitting close together while staying distinct — cluster. Amalgam is the trap: it names the very merger the sentence says never occurred, whereas a cluster reports concentration without claiming that anything became one.",
+      "id": "gregmat35__b1__tc2__00",
+      "unit": "gregmat35__b1",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Within minutes of the verdict, reporters {1} on the courthouse steps, a hundred of them pressed into a space meant for a dozen, each still shouting his own question over the others.",
+      "blanks": [
+        {
+          "options": [
+            "clustered",
+            "dispersed",
+            "coalesced",
+            "seceded",
+            "fused"
+          ],
+          "answers": [
+            "clustered"
+          ]
+        }
+      ],
+      "words": [
+        "cluster"
+      ],
+      "explanation": "The sentence stresses physical crowding while insisting the reporters remain individually distinguishable — each shouting his own question — which is exactly what cluster reports: proximity, not union. Coalesced and fused would claim the crowd became a single body, and dispersed and seceded reverse the movement described.",
+      "id": "gregmat35__b1__cloze__01",
+      "unit": "gregmat35__b1",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "A conspiracy theory may be flawlessly {1} — every episode dovetailing neatly with the next — and yet be {2} from beginning to end, since parts that fit one another are no evidence at all that the premises are sound.",
+      "blanks": [
+        {
+          "options": [
+            "coherent",
+            "amorphous",
+            "abstruse"
+          ],
+          "answers": [
+            "coherent"
+          ]
+        },
+        {
+          "options": [
+            "fallacious",
+            "empirical",
+            "intelligible"
+          ],
+          "answers": [
+            "fallacious"
+          ]
+        }
+      ],
+      "words": [
+        "coherent"
+      ],
+      "explanation": "The first blank is glossed by \"every episode dovetailing with the next\": that is hanging-together, which is coherent, not shapelessness (amorphous) or difficulty (abstruse). The \"and yet\" then demands a word for rotten reasoning, since the point is that internal fit says nothing about soundness; intelligible would restate the first blank rather than oppose it, and empirical would praise what the sentence is condemning.",
+      "id": "gregmat35__b1__tc2__02",
+      "unit": "gregmat35__b1",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "The prosecutor conceded that the alibi was internally {1} — each detail fit neatly with the last, and nothing in it contradicted anything else — and argued instead that the whole of it had been invented.",
+      "blanks": [
+        {
+          "options": [
+            "coherent",
+            "cogent",
+            "lucid",
+            "veracious",
+            "trenchant"
+          ],
+          "answers": [
+            "coherent"
+          ]
+        }
+      ],
+      "words": [
+        "coherent"
+      ],
+      "explanation": "The gloss after the dash describes parts fitting together without contradiction, which is precisely coherence and nothing more. Cogent and trenchant would concede persuasive force, which the prosecutor plainly does not; lucid concerns clarity of expression rather than internal fit; veracious would concede truth, which the second clause denies.",
+      "id": "gregmat35__b1__cloze__03",
+      "unit": "gregmat35__b1",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Having {1} the fresco for the better part of an hour — long enough that a guard twice asked whether she was unwell — the restorer announced that she was at last prepared to {2} the removal of the overpaint, a step she had refused to authorize for a decade.",
+      "blanks": [
+        {
+          "options": [
+            "contemplated",
+            "glimpsed",
+            "catalogued"
+          ],
+          "answers": [
+            "contemplated"
+          ]
+        },
+        {
+          "options": [
+            "undertake",
+            "postpone",
+            "deplore"
+          ],
+          "answers": [
+            "undertake"
+          ]
+        }
+      ],
+      "words": [
+        "contemplate"
+      ],
+      "explanation": "An hour of motionless looking, alarming enough to worry a guard, is long, unhurried absorption rather than a glance (glimpsed) or an act of inventory (catalogued). The second blank is fixed by \"at last\" set against a decade of refusal: the deliberation ends in action, so postpone and deplore both reverse the sentence's arc.",
+      "id": "gregmat35__b1__tc2__04",
+      "unit": "gregmat35__b1",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "For the better part of a summer Lincoln {1} the proclamation, drafting and redrafting it in private before he would show a single line of it to his cabinet.",
+      "blanks": [
+        {
+          "options": [
+            "contemplated",
+            "pondered",
+            "shelved",
+            "dictated",
+            "disparaged",
+            "circulated"
+          ],
+          "answers": [
+            "contemplated",
+            "pondered"
+          ]
+        }
+      ],
+      "words": [
+        "contemplate"
+      ],
+      "explanation": "Months of private drafting describe sustained, weighty deliberation, and contemplated and pondered are interchangeable for exactly that. Shelved and disparaged are grammatically and tonally comfortable but assert abandonment or contempt rather than sustained thought, and circulated contradicts the secrecy the second clause insists on.",
+      "id": "gregmat35__b1__se__05",
+      "unit": "gregmat35__b1",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the memoir suggests grand villainy: the author's brother was never more than {1}, contriving his small advantages — the larger bedroom, the last of the wine — by maneuvers no one noticed until afterward.",
+      "blanks": [
+        {
+          "options": [
+            "crafty",
+            "Machiavellian",
+            "rapacious",
+            "imperious",
+            "guileless"
+          ],
+          "answers": [
+            "crafty"
+          ]
+        }
+      ],
+      "words": [
+        "crafty"
+      ],
+      "explanation": "\"Never more than\" plus a bedroom and a bottle sets the scale at the domestic and nearly harmless, which is where crafty lives. Machiavellian is the tempting near-synonym but implies exactly the grand villainy the first clause rules out; rapacious names greed rather than slyness, and guileless denies the maneuvering outright.",
+      "id": "gregmat35__b1__cloze__07",
+      "unit": "gregmat35__b1",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['ingenuous', 'wheedled'] vs ['crafty', 'wheedled']",
+      "problem": "Blank {2} is not uniquely determined. The sentence only requires that the deed be a petty, small-scale victory (\"never once a conspiracy\"), and \"a landlady bullied out of a week's rent\" satisfies that just as well as \"wheedled\" — nothing in the sentence specifies the Dodger's method (charm vs. intimidation). The intended link to \"ingenuous\" is weak, since wheedling itself involves guile, and TC blanks should be independently determinable. A test-taker choosing \"bullied\" would be defensibly reasoning and still marked wrong. Blank {1} is sound: \"Far from the master schemer\" forces an opposite (\"ingenuous\"), ruling out \"crafty\" (same family as schemer, with no \"merely\" to license the downgrade) and \"imperious\" (off-axis). Fix suggestion: add a cue for {2} such as \"a landlady charmed/coaxed by a smile\" or rewrite the distractor so only one manner-word fits.",
+      "stem": "Far from the master schemer of legend, Dickens's Dodger is a {1} boy whose victories are all small ones — a handkerchief lifted in a crowd, a landlady {2} out of a week's rent — and never once a conspiracy."
+    }
+  ]
+}

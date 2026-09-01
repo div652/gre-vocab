@@ -1,0 +1,150 @@
+{
+  "unit": "gregmat24__b6",
+  "gregmat_group": 24,
+  "words": [
+    "quiescent",
+    "reiterate",
+    "subside",
+    "subsume"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The union of 1707 did not {1} two kingdoms into a new polity of equal partners; it {2} the smaller under institutions the larger had built and kept, from its parliament to its law of succession and its name.",
+      "blanks": [
+        {
+          "options": [
+            "amalgamate",
+            "banish",
+            "polarize"
+          ],
+          "answers": [
+            "amalgamate"
+          ]
+        },
+        {
+          "options": [
+            "subsumed",
+            "coalesced",
+            "marginalized"
+          ],
+          "answers": [
+            "subsumed"
+          ]
+        }
+      ],
+      "words": [
+        "subsume"
+      ],
+      "explanation": "The semicolon sets a fusion of equals against a hierarchy, so blank one needs the fusion word, amalgamate, and blank two the filing word: the smaller kingdom survives but now counts as a part of an existing structure, which is exactly subsume. Coalesced is intransitive here and would repeat the merger idea the sentence has just denied, while marginalized describes pushing to the edge rather than placing under a heading.",
+      "id": "gregmat24__b6__tc2__01",
+      "unit": "gregmat24__b6",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Once the emergency rations reached the depot, the clamor at the gates began to {1}, and by nightfall only a few stragglers were still waiting there.",
+      "blanks": [
+        {
+          "options": [
+            "subside",
+            "abate",
+            "escalate",
+            "crescendo",
+            "proliferate",
+            "coalesce"
+          ],
+          "answers": [
+            "subside",
+            "abate"
+          ]
+        }
+      ],
+      "words": [
+        "subside"
+      ],
+      "explanation": "The noise rose and is now settling back of its own accord as the cause is removed, which is precisely subside and abate. Escalate, crescendo and proliferate all describe increase, contradicting the near-empty gates at nightfall, and coalesce would describe the crowd merging rather than the clamor dying away.",
+      "id": "gregmat24__b6__se__03",
+      "unit": "gregmat24__b6",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "For nearly forty years the border dispute remained {1}, surfacing only in the rhetoric of election seasons, until the discovery of offshore gas gave both governments a reason to press their old claims in earnest.",
+      "blanks": [
+        {
+          "options": [
+            "quiescent",
+            "dormant",
+            "rampant",
+            "fraught",
+            "tempestuous",
+            "recrudescent"
+          ],
+          "answers": [
+            "quiescent",
+            "dormant"
+          ]
+        }
+      ],
+      "words": [
+        "quiescent"
+      ],
+      "explanation": "The dispute is inactive but intact and demonstrably capable of revival, which is what quiescent and dormant both name. Rampant and tempestuous describe an active, unchecked conflict, recrudescent describes the flare-up the gas discovery threatens rather than the forty quiet years, and fraught would make the period tense rather than inactive.",
+      "id": "gregmat24__b6__se__04",
+      "unit": "gregmat24__b6",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Core samples showed that the saturated clay beneath the north wing had continued to {1} year after year, leaving the gallery floor nearly three centimeters lower at its western end than on the day the museum opened.",
+      "blanks": [
+        {
+          "options": [
+            "subside",
+            "attenuate",
+            "wane",
+            "abate",
+            "burgeon"
+          ],
+          "answers": [
+            "subside"
+          ]
+        }
+      ],
+      "words": [
+        "subside"
+      ],
+      "explanation": "Only subside carries the literal physical sense of ground or a structure sinking back to a lower level, which the measured drop in the floor requires. Attenuate, wane and abate describe an intensity diminishing rather than a mass settling downward, and burgeon reverses the direction entirely.",
+      "id": "gregmat24__b6__cloze__07",
+      "unit": "gregmat24__b6",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is fine (only \"subsided\" fits \"once again registering\"), but blank 1 has two defensible options. \"Quiescent\" is the conventional geological contrast with \"extinct,\" yet \"recrudescent\" (breaking out anew after a lull) is exactly what the evidence clause describes — tremors that had stopped are now returning. The clause only establishes that the mountain is not extinct, which supports either word; indeed, tremors currently registering slightly undercut calling it quiescent. A reasonable test-taker choosing \"recrudescent\" would be marked wrong.",
+      "stem": "Geologists were careful to describe the mountain as {1} rather than extinct: the tremors that had {2} in the years after the 1987 eruption were once again registering on instruments across the valley."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} offers two near-synonyms that both fit. \"Reiterated\" is the better idiomatic match for repeating a fixed formula verbatim and it chimes with \"a position stated often enough,\" but \"recapitulated\" (go back over / restate what was said before) is also defensible for restating a formula issued in March. The only contrast the sentence enforces at blank {1} is repetition vs. new substance (\"only,\" \"a fourth time\"), which both words satisfy; only \"disavowed\" is clearly excluded. A reasonable test-taker could choose \"recapitulated\" and be marked wrong. Blank {2} is sound: \"abated\" is uniquely supported by \"had not ... in the slightest\" after a stonewalling performance (\"coalesced\" is not what pressure does when it fails to lessen, and \"crescendoed\" would have the press conclude the pressure hadn't grown, which doesn't follow from him repeating himself).",
+      "stem": "Asked a fourth time whether he would resign, the minister only {1} the formula he had issued in March, on the theory that a position stated often enough is eventually believed; the press took the performance as proof that the pressure on him had not {2} in the slightest."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three of the six options are near-synonyms for \"say again\": reiterate, restate, and recapitulate. The intended pair is almost certainly reiterate/restate (the clause \"in very nearly the words he had used\" points to verbatim repetition rather than the condensed summary that \"recapitulate\" strictly implies), but that distinction is too fine to be decisive — one can perfectly well recapitulate a position in nearly the same words, and \"recapitulate his government's long-standing position\" is idiomatic English. A reasonable test-taker could defend {reiterate, recapitulate} or {restate, recapitulate} as producing essentially the same sentence meaning, so the sentence does not force a single pair. Fix by replacing \"recapitulate\" with a word that clearly fails the sentence (e.g. \"repudiate\" or \"extemporize\"), or by sharpening the context so the summarizing sense is explicitly excluded. (Disavow, amplify, and qualify are correctly non-viable: all three contradict \"rather than engage\" plus near-identical wording.)",
+      "stem": "Rather than engage with the question, the ambassador chose simply to {1} his government's long-standing position, in very nearly the words he had used at the previous session."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options genuinely fit. \"Subsumed\" is the best fit (the idiom \"subsumed under\" and the sense of absorbing specifics into a broader category), but \"amalgamated\" — to combine into a unified whole — describes the same event just as well: three separate entries becoming one. The sentence provides no cue distinguishing hierarchical inclusion from lateral merging; the concessive clause about persisting differences works for both. Only the preposition \"under\" mildly favors \"subsumed,\" which is a collocation preference rather than a semantic constraint, so a reasonable test-taker choosing \"amalgamated\" would be marked wrong unfairly.",
+      "stem": "Under the revised classification the three regional dialects lost their separate entries and were {1} under a single language heading, although field linguists went on recording the differences among them."
+    }
+  ]
+}

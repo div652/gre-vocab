@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat21__b0",
+  "gregmat_group": 21,
+  "words": [
+    "abject",
+    "amicable",
+    "animosity",
+    "aver"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the commission's own inspectors flatly {1} that conditions in the mill towns had improved, the photographs entered into evidence showed families reduced to a poverty so {2} that it left them no claim to dignity at all.",
+      "blanks": [
+        {
+          "options": [
+            "averred",
+            "intimated",
+            "conceded"
+          ],
+          "answers": [
+            "averred"
+          ]
+        },
+        {
+          "options": [
+            "abject",
+            "base",
+            "incipient"
+          ],
+          "answers": [
+            "abject"
+          ]
+        }
+      ],
+      "words": [
+        "aver",
+        "abject"
+      ],
+      "explanation": "\"Flatly\" rules out intimated, which means to hint rather than to declare, and inspectors defending their own findings are asserting, not conceding a point against themselves; aver is the flat, credibility-staking assertion made in the teeth of contradiction. In the second blank, base names moral vileness in a person or motive, which poverty cannot possess, while abject names a condition sunk so low that dignity itself is gone — exactly what the clause about \"no claim to dignity\" demands.",
+      "id": "gregmat21__b0__tc2__00",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "The dissolution of the partnership was, on paper, entirely {1} — the assets were divided in a single afternoon and no suit was ever filed — yet colleagues noticed that the two men, once inseparable, now spoke of each other with an {2} that no settlement document could dissolve.",
+      "blanks": [
+        {
+          "options": [
+            "amicable",
+            "acrimonious",
+            "protracted"
+          ],
+          "answers": [
+            "amicable"
+          ]
+        },
+        {
+          "options": [
+            "animosity",
+            "equanimity",
+            "ambivalence"
+          ],
+          "answers": [
+            "animosity"
+          ]
+        }
+      ],
+      "words": [
+        "amicable",
+        "animosity"
+      ],
+      "explanation": "The single afternoon and absent lawsuit make protracted and acrimonious impossible; amicable is precisely the word for a proceeding that passed without the hostility everyone forecast. The \"yet\" then demands heat rather than its absence: equanimity and ambivalence are cool states, whereas animosity is bad blood with temperature, personal and audible in the way each man names the other.",
+      "id": "gregmat21__b0__tc2__01",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Historians treat the quarrel as a matter of doctrine, but the correspondence reveals a personal {1}, flaring at every mention of the other's name, that owed far more to a snub at court in 1613 than to any point of theology.",
+      "blanks": [
+        {
+          "options": [
+            "animosity",
+            "enmity",
+            "grievance",
+            "vanity",
+            "comity",
+            "accord"
+          ],
+          "answers": [
+            "animosity",
+            "enmity"
+          ]
+        }
+      ],
+      "words": [
+        "animosity"
+      ],
+      "explanation": "Animosity and enmity both name settled, active hostility between persons and yield sentences of the same meaning here. Grievance would name the specific complaint rather than the ill will it generated, and vanity, comity and accord — the last two denoting courteous or harmonious relations — all contradict the flaring and the snub.",
+      "id": "gregmat21__b0__se__02",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Everyone expected the fight over the estate to end in a courtroom, but the heirs' negotiations proved unexpectedly {1}, and the terms were signed within a month without a single motion being filed.",
+      "blanks": [
+        {
+          "options": [
+            "amicable",
+            "cordial",
+            "acrimonious",
+            "contentious",
+            "truculent",
+            "protracted"
+          ],
+          "answers": [
+            "amicable",
+            "cordial"
+          ]
+        }
+      ],
+      "words": [
+        "amicable"
+      ],
+      "explanation": "With no motion filed and a settlement in a month, the negotiations must have been free of hostility, which amicable and cordial both convey in this context. Acrimonious, contentious and truculent all reverse the sense the sentence has just established, and protracted is refuted by the month-long timeline.",
+      "id": "gregmat21__b0__se__03",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Pressed a fourth time by counsel, the witness declined to soften a word of her account and {1} that she had seen the defendant leave the warehouse shortly after midnight.",
+      "blanks": [
+        {
+          "options": [
+            "averred",
+            "alluded",
+            "equivocated",
+            "demurred",
+            "conjectured"
+          ],
+          "answers": [
+            "averred"
+          ]
+        }
+      ],
+      "words": [
+        "aver"
+      ],
+      "explanation": "Refusing to soften the account rules out equivocated and demurred, both of which describe hedging or declining to commit, and conjectured would turn eyewitness testimony into a guess. Aver is the formal verb for stating something firmly as fact under pressure, and unlike allude it takes a \"that\" clause directly.",
+      "id": "gregmat21__b0__cloze__04",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Three seasons of drought had reduced the once-prosperous smallholders to an {1} dependence on relief rations, queuing each morning for grain they had formerly grown themselves.",
+      "blanks": [
+        {
+          "options": [
+            "abject",
+            "base",
+            "sordid",
+            "ancillary",
+            "nominal"
+          ],
+          "answers": [
+            "abject"
+          ]
+        }
+      ],
+      "words": [
+        "abject"
+      ],
+      "explanation": "Base and sordid impute moral vileness or squalid self-interest to the smallholders, who are victims rather than wrongdoers here. Abject describes a condition sunk so low that dignity is stripped away — the humiliation of queuing for what one used to grow — while ancillary and nominal would make the dependence secondary or merely notional, which the queuing contradicts.",
+      "id": "gregmat21__b0__cloze__05",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Confronted with the auditors' findings, the treasurer did not hedge for an instant: he {1} that the ledgers had never been altered, and offered to swear to it before the board.",
+      "blanks": [
+        {
+          "options": [
+            "averred",
+            "contended",
+            "intimated",
+            "equivocated",
+            "conceded",
+            "speculated"
+          ],
+          "answers": [
+            "averred",
+            "contended"
+          ]
+        }
+      ],
+      "words": [
+        "aver"
+      ],
+      "explanation": "Both averred and contended describe putting one's credibility behind a flat assertion in the face of contradiction, which the offer to swear confirms. Intimated and speculated weaken the claim to a hint or a guess, equivocated is expressly excluded by \"did not hedge,\" and conceded would absurdly cast a self-exculpating denial as an admission against interest.",
+      "id": "gregmat21__b0__se__06",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "His apology was so thoroughly self-abasing — so {1} in its crawling — that it embarrassed even the colleagues he had wronged, and it did nothing to dispel the {2} that a decade of small slights had built up between them.",
+      "blanks": [
+        {
+          "options": [
+            "abject",
+            "candid",
+            "conciliatory"
+          ],
+          "answers": [
+            "abject"
+          ]
+        },
+        {
+          "options": [
+            "animosity",
+            "comity",
+            "accord"
+          ],
+          "answers": [
+            "animosity"
+          ]
+        }
+      ],
+      "words": [
+        "abject",
+        "animosity"
+      ],
+      "explanation": "Conciliatory would describe an apology aimed at peace, and candid one that is merely honest; only abject captures the grovelling loss of dignity that \"self-abasing\" and \"crawling\" specify, with the faint contempt that embarrasses onlookers. The second blank must name what a decade of slights accumulates, and comity and accord are forms of harmony rather than the personal ill will animosity denotes.",
+      "id": "gregmat21__b0__tc2__07",
+      "unit": "gregmat21__b0",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat16__b0",
+  "gregmat_group": 16,
+  "words": [
+    "antedate",
+    "banish",
+    "bridle",
+    "comply"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Radiocarbon assays overturned the tidy sequence in which cave painting was held to have followed the first farms: the pigments in the lower gallery {1} the settlement above them by nearly four millennia, and the older chronology was quietly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "antedate",
+            "postdate",
+            "corroborate"
+          ],
+          "answers": [
+            "antedate"
+          ]
+        },
+        {
+          "options": [
+            "abandoned",
+            "vindicated",
+            "reinstated"
+          ],
+          "answers": [
+            "abandoned"
+          ]
+        }
+      ],
+      "words": [
+        "antedate"
+      ],
+      "explanation": "\"Overturned\" fixes the outcome — the old chronology was abandoned, not vindicated or reinstated — and that outcome is only possible if the paintings are the older of the two, i.e. if they antedate the settlement. \"Postdate\" reverses the direction and would leave the traditional sequence standing; \"corroborate\" cannot govern the measure \"by nearly four millennia.\"",
+      "id": "gregmat16__b0__tc2__00",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "The auditors' entire case turned on a single document: the managing partner had {1} the transfer authorization so that the payment appeared to have cleared three days before the asset freeze took effect.",
+      "blanks": [
+        {
+          "options": [
+            "antedated",
+            "postdated",
+            "notarized",
+            "countersigned",
+            "rescinded"
+          ],
+          "answers": [
+            "antedated"
+          ]
+        }
+      ],
+      "words": [
+        "antedate"
+      ],
+      "explanation": "Antedate's second sense is to mark a paper with a date earlier than the true one, which is exactly what makes the payment look as though it preceded the freeze. \"Postdated\" would push the date forward and defeat the fraud; notarizing, countersigning and rescinding all leave the date itself untouched.",
+      "id": "gregmat16__b0__cloze__01",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "The tribunal did not merely {1} him from the ministry, as it had done with lesser functionaries who displeased it; it {2} him from the country altogether, on pain of death should he ever recross the frontier.",
+      "blanks": [
+        {
+          "options": [
+            "oust",
+            "immure",
+            "alienate"
+          ],
+          "answers": [
+            "oust"
+          ]
+        },
+        {
+          "options": [
+            "banished",
+            "ostracized",
+            "relegated"
+          ],
+          "answers": [
+            "banished"
+          ]
+        }
+      ],
+      "words": [
+        "banish"
+      ],
+      "explanation": "\"Not merely ... altogether\" sets up an escalation from loss of post to loss of country: one is ousted from an office, banished from a territory. \"Ostracized\" names an informal social freezing-out with no decree behind it, which contradicts the death penalty for return, and \"immure\" (wall in) and \"relegate\" cannot take \"from the ministry / from the country\" in this construction.",
+      "id": "gregmat16__b0__tc2__02",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Convicted of an offence the sources never specify, the poet spent his last two decades in a garrison town on the Black Sea, {1} by an imperial decree that no succeeding emperor troubled to revoke.",
+      "blanks": [
+        {
+          "options": [
+            "banished",
+            "exiled",
+            "ostracized",
+            "marginalized",
+            "alienated",
+            "immured"
+          ],
+          "answers": [
+            "banished",
+            "exiled"
+          ]
+        }
+      ],
+      "words": [
+        "banish"
+      ],
+      "explanation": "An imperial decree barring a man from the capital for life is banishment, and \"exiled\" yields a sentence of the same meaning — both name formal expulsion from a place by authority. \"Ostracized\" and \"marginalized\" describe social exclusion with no legal force, \"alienated\" describes estrangement of feeling, and \"immured\" would mean shut up in confinement rather than expelled to a distant province.",
+      "id": "gregmat16__b0__se__03",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Accustomed to unbroken deference from junior colleagues, the emeritus professor visibly {1} at the suggestion that his own tables had been superseded by the survey data.",
+      "blanks": [
+        {
+          "options": [
+            "bridled",
+            "acquiesced",
+            "relented",
+            "capitulated",
+            "assented"
+          ],
+          "answers": [
+            "bridled"
+          ]
+        }
+      ],
+      "words": [
+        "bridle"
+      ],
+      "explanation": "To bridle at something is to draw oneself up in wounded dignity — offence registering on the body, which is what \"visibly\" and the professor's habitual deference set up. Every other option describes yielding or agreeing, the opposite reaction, and none accounts for the affront to a man used to being deferred to.",
+      "id": "gregmat16__b0__cloze__04",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "A constitution that merely {1} the executive leaves that office intact and usable, its energy simply directed; the framers, whatever their fear of monarchy, wanted a presidency held in check, not {2}.",
+      "blanks": [
+        {
+          "options": [
+            "bridles",
+            "abrogates",
+            "immures"
+          ],
+          "answers": [
+            "bridles"
+          ]
+        },
+        {
+          "options": [
+            "eviscerated",
+            "tempered",
+            "circumscribed"
+          ],
+          "answers": [
+            "eviscerated"
+          ]
+        }
+      ],
+      "words": [
+        "bridle"
+      ],
+      "explanation": "\"Leaves that office intact and usable, its energy simply directed\" describes restraint that steers rather than destroys — precisely bridling, whereas abrogating would annul the power and immuring is not something done to an office. Blank two must complete a contrast with \"held in check,\" so it needs a word for gutting; \"tempered\" and \"circumscribed\" are themselves forms of holding in check and would make the contrast collapse.",
+      "id": "gregmat16__b0__tc2__05",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "The subpoena left the archive no room for discretion: officers who failed to {1} within ten working days would face contempt proceedings in federal court.",
+      "blanks": [
+        {
+          "options": [
+            "comply",
+            "acquiesce",
+            "concur",
+            "defer",
+            "relent"
+          ],
+          "answers": [
+            "comply"
+          ]
+        }
+      ],
+      "words": [
+        "comply"
+      ],
+      "explanation": "Comply is the institutional word for performing what a demand with power behind it requires, and a deadline enforced by contempt proceedings calls for a discrete act, not a state of mind. \"Acquiesce\" and \"relent\" describe an attitude of ceasing to object, \"concur\" means to agree in opinion, and \"defer\" means to yield to another's judgment — none of which is what a subpoena measures in ten days.",
+      "id": "gregmat16__b0__cloze__06",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Refiners that {1} the new sulfur limit will find their costs rising modestly for a decade, but the alternative — a shuttered plant and a consent decree — is far worse.",
+      "blanks": [
+        {
+          "options": [
+            "comply with",
+            "conform to",
+            "contend with",
+            "dispense with",
+            "quibble with",
+            "tamper with"
+          ],
+          "answers": [
+            "comply with",
+            "conform to"
+          ]
+        }
+      ],
+      "words": [
+        "comply"
+      ],
+      "explanation": "The contrast with closure and a consent decree shows the refiners are meeting the standard, so \"comply with\" and \"conform to\" produce equivalent sentences. \"Dispense with\" (do away with) and \"tamper with\" describe evading or corrupting the rule rather than satisfying it, and \"contend with\" and \"quibble with\" fit the grammar while saying only that the firms struggle against or cavil at the limit.",
+      "id": "gregmat16__b0__se__07",
+      "unit": "gregmat16__b0",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": []
+}

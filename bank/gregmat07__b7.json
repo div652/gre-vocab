@@ -1,0 +1,134 @@
+{
+  "unit": "gregmat07__b7",
+  "gregmat_group": 7,
+  "words": [
+    "stern",
+    "tendentious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the commission's questionnaire framed each item as settled fact while quietly presupposing the government's own account of the riots, reviewers concluded that the resulting report was {1} rather than merely {2}: the tilt had been engineered, not stumbled into.",
+      "blanks": [
+        {
+          "options": [
+            "tendentious",
+            "polemical",
+            "disinterested"
+          ],
+          "answers": [
+            "tendentious"
+          ]
+        },
+        {
+          "options": [
+            "partial",
+            "cogent",
+            "spurious"
+          ],
+          "answers": [
+            "partial"
+          ]
+        }
+      ],
+      "words": [
+        "tendentious"
+      ],
+      "explanation": "The report wears the costume of neutral fact-gathering while steering the reader, and the closing clause insists the slant was deliberate — that engineered-but-concealed bias is precisely tendentious. Polemical fails because a polemic argues openly and admits its side, whereas this document conceals its purpose; disinterested is the opposite charge. The second blank needs the milder accusation the first is being contrasted with: partial names an ordinary one-sidedness, while spurious would allege outright fabrication and cogent praises the reasoning.",
+      "id": "gregmat07__b7__tc2__00",
+      "unit": "gregmat07__b7",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Photographs of Reconstruction-era schoolteachers almost never show a smile, and the profession's own manuals explain why: they urged on the novice a {1} bearing, unyielding and forgiving of nothing, as the surest deterrent to disorder in a crowded room.",
+      "blanks": [
+        {
+          "options": [
+            "stern",
+            "severe",
+            "staid",
+            "droll",
+            "frivolous",
+            "despotic"
+          ],
+          "answers": [
+            "stern",
+            "severe"
+          ]
+        }
+      ],
+      "words": [
+        "stern"
+      ],
+      "explanation": "The bearing described is unbending and grim-faced, meant to forestall misbehavior, which stern and severe both name, yielding sentences of the same meaning. Staid is the trap: it means sedate and settled, respectable rather than forbidding, and a merely staid manner deters nothing; despotic overshoots into tyranny, which the sentence's modest classroom aim does not support. Droll and frivolous run the opposite way, toward amusement and unseriousness.",
+      "id": "gregmat07__b7__se__01",
+      "unit": "gregmat07__b7",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "The museum's wall texts read as flat chronology, but every date selected and every reprisal left unmentioned worked to exonerate the occupying regime; historians reviewing the exhibit called it {1}.",
+      "blanks": [
+        {
+          "options": [
+            "tendentious",
+            "polemical",
+            "fallacious",
+            "spurious",
+            "invidious"
+          ],
+          "answers": [
+            "tendentious"
+          ]
+        }
+      ],
+      "words": [
+        "tendentious"
+      ],
+      "explanation": "The display presents itself as neutral chronology while its selections and omissions quietly push a verdict — a slant engineered and disguised, which is what tendentious charges. Polemical would require open advocacy, and the exhibit's whole method is to look like it is not arguing; fallacious and spurious concern defective or fabricated reasoning rather than concealed purpose, and invidious means calculated to provoke resentment.",
+      "id": "gregmat07__b7__cloze__02",
+      "unit": "gregmat07__b7",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Contemporary accounts dwell on the {1} of the proceedings rather than on the verdict: the presiding judge's {2} face, betraying neither sympathy nor outrage, quieted the gallery more effectively than any threat of removal could have.",
+      "blanks": [
+        {
+          "options": [
+            "decorum",
+            "raillery",
+            "sophistry"
+          ],
+          "answers": [
+            "decorum"
+          ]
+        },
+        {
+          "options": [
+            "stern",
+            "droll",
+            "despotic"
+          ],
+          "answers": [
+            "stern"
+          ]
+        }
+      ],
+      "words": [
+        "stern",
+        "decorum"
+      ],
+      "explanation": "A face that gives nothing away and forgives nothing is stern, and it is the source of the courtroom's propriety, so the first blank must be decorum. Despotic fails because the judge imposes order by bearing alone rather than by tyrannical exercise of power — the sentence explicitly contrasts his face with threats — and droll is the opposite of an expressionless one. Raillery and sophistry name banter and crooked argument, neither of which a hushed gallery illustrates.",
+      "id": "gregmat07__b7__tc2__03",
+      "unit": "gregmat07__b7",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": []
+}

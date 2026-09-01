@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat02__b0",
+  "gregmat_group": 2,
+  "words": [
+    "adulterate",
+    "advocate",
+    "aggrandize",
+    "alacrity"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Only when the assay came back did the collectors understand why the ultramarine had looked so lifeless: the pigment had been {1} with cheap barite, and the dealer's reputation for scrupulous sourcing was {2} within the week.",
+      "blanks": [
+        {
+          "options": [
+            "adulterated",
+            "distilled",
+            "burnished"
+          ],
+          "answers": [
+            "adulterated"
+          ]
+        },
+        {
+          "options": [
+            "tarnished",
+            "corroborated",
+            "aggrandized"
+          ],
+          "answers": [
+            "tarnished"
+          ]
+        }
+      ],
+      "words": [
+        "adulterate"
+      ],
+      "explanation": "Blank 1 needs a verb naming the physical mixing-in of a cheaper substance for profit: that is adulterate, not distill (which separates out and purifies) or burnish (which polishes). Blank 2 must register the consequence of an exposed fraud, so the reputation is tarnished; corroborated would confirm the dealer's good name, and aggrandized would inflate it, both contradicting the discovery.",
+      "id": "gregmat02__b0__tc2__00",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Desperate to fund the Flanders campaign, mint officials quietly {1} the silver coinage with copper — a fraud the merchants of Antwerp detected within a single season.",
+      "blanks": [
+        {
+          "options": [
+            "adulterated",
+            "debased",
+            "refined",
+            "distilled",
+            "augmented",
+            "burnished"
+          ],
+          "answers": [
+            "adulterated",
+            "debased"
+          ]
+        }
+      ],
+      "words": [
+        "adulterate"
+      ],
+      "explanation": "With coinage, adulterate and debase converge on exactly the same act: secretly alloying precious metal with a base one, which is why \"debase the coinage\" is the standing historical phrase. Refined and distilled would mean the opposite — removing impurity rather than introducing it — and augmented, though grammatical, would describe honestly increasing the stock, which no one would call a fraud.",
+      "id": "gregmat02__b0__se__01",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Private distaste is cheap: dozens of senators deplored the statute in the cloakroom, yet only Sumner would {1} its repeal from the floor, knowing that colleagues who agreed with him in private would publicly {2} every figure he cited.",
+      "blanks": [
+        {
+          "options": [
+            "advocate",
+            "corroborate",
+            "gainsay"
+          ],
+          "answers": [
+            "advocate"
+          ]
+        },
+        {
+          "options": [
+            "impugn",
+            "aver",
+            "champion"
+          ],
+          "answers": [
+            "impugn"
+          ]
+        }
+      ],
+      "words": [
+        "advocate"
+      ],
+      "explanation": "The contrast between cloakroom sympathy and the floor demands a verb of open, public pleading for a cause, which is advocate; gainsay would have Sumner denying the repeal he wants, and corroborate takes evidence, not a proposal, as its object. Blank 2 must name the hostile response those same colleagues offer in public, so impugn — to attack as false — is required, while aver and champion would have them backing him rather than undercutting him.",
+      "id": "gregmat02__b0__tc2__02",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Legal aid societies rested on a simple premise: the indigent defendant, unable to retain counsel, needs an {1} to speak for him in a proceeding where silence is taken for guilt.",
+      "blanks": [
+        {
+          "options": [
+            "advocate",
+            "apologist",
+            "arbiter",
+            "adversary",
+            "amanuensis"
+          ],
+          "answers": [
+            "advocate"
+          ]
+        }
+      ],
+      "words": [
+        "advocate"
+      ],
+      "explanation": "An advocate is precisely one who pleads another's cause aloud, and the word attaches naturally to the powerless party who cannot speak for himself. An apologist defends a doctrine or a discredited position rather than a person; an arbiter decides between parties instead of taking a side, an adversary opposes the defendant, and an amanuensis merely writes at dictation.",
+      "id": "gregmat02__b0__cloze__03",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Contemporaries remarked on the discrepancy between Franklin's public {1} — the plain coat, the studied simplicity of manner — and a diplomacy calculated at every turn to {2} both his own standing and that of his young republic.",
+      "blanks": [
+        {
+          "options": [
+            "modesty",
+            "pomposity",
+            "bravado"
+          ],
+          "answers": [
+            "modesty"
+          ]
+        },
+        {
+          "options": [
+            "aggrandize",
+            "deprecate",
+            "vitiate"
+          ],
+          "answers": [
+            "aggrandize"
+          ]
+        }
+      ],
+      "words": [
+        "aggrandize"
+      ],
+      "explanation": "The plain coat and studied simplicity gloss blank 1 as modesty; pomposity or bravado would make the self-presentation match rather than clash with the ambitious diplomacy, destroying the announced discrepancy. Blank 2 therefore needs a verb of inflating power and reputation — aggrandize — whereas deprecate would play the standing down and vitiate would spoil rather than enlarge it.",
+      "id": "gregmat02__b0__tc2__04",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Historians of the reign agree that the successive Rhenish campaigns did little for the empire's security and served chiefly to {1} the emperor's personal dominions at his neighbors' expense.",
+      "blanks": [
+        {
+          "options": [
+            "aggrandize",
+            "augment",
+            "consolidate",
+            "curtail",
+            "partition",
+            "tarnish"
+          ],
+          "answers": [
+            "aggrandize",
+            "augment"
+          ]
+        }
+      ],
+      "words": [
+        "aggrandize"
+      ],
+      "explanation": "\"At his neighbors' expense\" fixes the sense as territorial enlargement, and with dominions as the object aggrandize and augment yield equivalent sentences, the first merely adding the note of self-serving gain the clause already supplies. Consolidate would mean tightening control over existing lands rather than adding to them, while curtail and partition reduce or divide the dominions and tarnish speaks to reputation, not extent.",
+      "id": "gregmat02__b0__se__05",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Asked to take the night watch — a duty the rest of the crew evaded by every available pretext — Hobbes rose with such {1} that the captain suspected he had been waiting all evening to be asked.",
+      "blanks": [
+        {
+          "options": [
+            "alacrity",
+            "lassitude",
+            "nonchalance",
+            "trepidation",
+            "diffidence"
+          ],
+          "answers": [
+            "alacrity"
+          ]
+        }
+      ],
+      "words": [
+        "alacrity"
+      ],
+      "explanation": "The captain's inference — that Hobbes had been hoping for the request — requires a word in which promptness is evidence of eagerness, which is exactly alacrity. Lassitude and diffidence would slow or soften the response, trepidation would make it fearful, and nonchalance describes indifference to the task rather than the visible willingness that provokes the captain's suspicion.",
+      "id": "gregmat02__b0__cloze__06",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "The clerk who for months had met every request for the ledgers with {1} excuses — files mislaid, the responsible officer unavailable — produced the entire dossier with {2} the morning the minister's own name appeared on the subpoena.",
+      "blanks": [
+        {
+          "options": [
+            "dilatory",
+            "nimble",
+            "ardent"
+          ],
+          "answers": [
+            "dilatory"
+          ]
+        },
+        {
+          "options": [
+            "alacrity",
+            "lassitude",
+            "ennui"
+          ],
+          "answers": [
+            "alacrity"
+          ]
+        }
+      ],
+      "words": [
+        "alacrity"
+      ],
+      "explanation": "The mislaid files and absent officer characterize the excuses as calculated stalling, so blank 1 must be dilatory; nimble and ardent would credit the clerk with speed or zeal he was plainly withholding. Blank 2 supplies the reversal — a brisk, willing compliance the moment his own interest is at stake — which alacrity names, while lassitude and ennui would merely continue the earlier sluggishness and leave the contrast unmade.",
+      "id": "gregmat02__b0__tc2__07",
+      "unit": "gregmat02__b0",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": []
+}

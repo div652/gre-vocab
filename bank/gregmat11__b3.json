@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat11__b3",
+  "gregmat_group": 11,
+  "words": [
+    "limpid",
+    "mawkish",
+    "obeisance",
+    "ostentatious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "One reviewer praised the biography's {1} exposition, which carries a reader through four decades of monetary policy without a moment's strain; another complained that the subject is irreducibly {2}, and that prose this smooth could only have been bought by leaving the hard parts out.",
+      "blanks": [
+        {
+          "options": [
+            "limpid",
+            "turbid",
+            "convoluted"
+          ],
+          "answers": [
+            "limpid"
+          ]
+        },
+        {
+          "options": [
+            "abstruse",
+            "pellucid",
+            "unadorned"
+          ],
+          "answers": [
+            "abstruse"
+          ]
+        }
+      ],
+      "words": [
+        "limpid"
+      ],
+      "explanation": "The first clause describes prose that costs the reader no effort, which is exactly what limpid praises — the calm, untroubled surface of the style; turbid and convoluted both name the opposite. The second reviewer's objection only makes sense if the material itself is genuinely hard, so abstruse is required: pellucid would agree with the first reviewer rather than contradict him, and unadorned describes plainness of manner, not difficulty of subject.",
+      "id": "gregmat11__b3__tc2__00",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Divers had chosen the atoll for its {1} shallows, where the coral floor thirty feet down stood out as distinctly as if it lay under a pane of glass.",
+      "blanks": [
+        {
+          "options": [
+            "limpid",
+            "pellucid",
+            "turbid",
+            "opaque",
+            "languid",
+            "brackish"
+          ],
+          "answers": [
+            "limpid",
+            "pellucid"
+          ]
+        }
+      ],
+      "words": [
+        "limpid"
+      ],
+      "explanation": "Water through which a floor thirty feet down is plainly visible is limpid or pellucid, and the two words are interchangeable in exactly this literary description of still, transparent water. Turbid and opaque reverse the meaning; brackish and languid are plausible descriptions of tropical shallows but say something about salinity and sluggishness rather than clarity, and languid is merely the lookalike of the intended word.",
+      "id": "gregmat11__b3__se__01",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "The eulogy struck him as {1}: every anecdote had been tooled to extract a tear, so that the grief on offer felt less discovered than manufactured for the occasion.",
+      "blanks": [
+        {
+          "options": [
+            "mawkish",
+            "lugubrious",
+            "stoic",
+            "cerebral",
+            "imperturbable"
+          ],
+          "answers": [
+            "mawkish"
+          ]
+        }
+      ],
+      "words": [
+        "mawkish"
+      ],
+      "explanation": "The charge is not that the speech was sad but that its emotion was engineered to extract tears it had not earned — the precise accusation carried by mawkish. Lugubrious would say only that the tone was mournful, which a eulogy is entitled to be; stoic, cerebral and imperturbable all describe emotion withheld rather than laid on too thick.",
+      "id": "gregmat11__b3__cloze__02",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Dickens's deathbed scenes divide the centuries: the very passage that reduced Victorian audiences to tears now strikes many readers as {1}, its pathos so relentlessly worked up that they meet it with the {2} detachment of people determined not to be manipulated.",
+      "blanks": [
+        {
+          "options": [
+            "mawkish",
+            "trenchant",
+            "austere"
+          ],
+          "answers": [
+            "mawkish"
+          ]
+        },
+        {
+          "options": [
+            "stoic",
+            "histrionic",
+            "hysterical"
+          ],
+          "answers": [
+            "stoic"
+          ]
+        }
+      ],
+      "words": [
+        "mawkish"
+      ],
+      "explanation": "Pathos \"relentlessly worked up\" is sentiment laid on past the point of moving anyone, and the modern reader's verdict is hostile — mawkish; trenchant praises incisiveness and austere would describe emotional restraint, the opposite of what the scene is accused of. The second blank must name the reader's refusal to be moved, so stoic fits, while histrionic and hysterical describe emotion displayed rather than withheld.",
+      "id": "gregmat11__b3__tc2__03",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "British envoys to the Qing court balked at the prescribed {1} — nine knockings of the head against the floor, performed before the assembled ministers — reading it as an admission of vassalage rather than a mere formality of greeting.",
+      "blanks": [
+        {
+          "options": [
+            "obeisance",
+            "deference",
+            "acquiescence",
+            "dissent",
+            "temperament"
+          ],
+          "answers": [
+            "obeisance"
+          ]
+        }
+      ],
+      "words": [
+        "obeisance"
+      ],
+      "explanation": "The blank is in apposition to a described bodily act performed in front of witnesses, and obeisance is the only one of these words that names such a gesture. Deference and acquiescence name an attitude and a yielding of will, neither of which is a thing one can perform nine times against a floor; dissent reverses the sense and temperament belongs to character, not ceremony.",
+      "id": "gregmat11__b3__cloze__04",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing at the shrine was left to improvisation: the pilgrims' {1} — bows timed to a drumbeat, foreheads lowered to the mat in unison — had been rehearsed for weeks, so that visitors who arrived expecting raw devotion came away calling the rite {2}.",
+      "blanks": [
+        {
+          "options": [
+            "obeisance",
+            "dissent",
+            "bravado"
+          ],
+          "answers": [
+            "obeisance"
+          ]
+        },
+        {
+          "options": [
+            "mechanical",
+            "impromptu",
+            "fervid"
+          ],
+          "answers": [
+            "mechanical"
+          ]
+        }
+      ],
+      "words": [
+        "obeisance"
+      ],
+      "explanation": "Bows and lowered foreheads are homage physically performed before onlookers, which is obeisance; dissent contradicts the whole scene and bravado names swagger rather than submission. Because the sequence was drilled for weeks, the disappointed visitors' verdict must be mechanical — impromptu flatly contradicts \"rehearsed,\" and fervid would grant them the raw devotion the sentence says they did not find.",
+      "id": "gregmat11__b3__tc2__05",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The Medici understood that {1} charity defeats itself: a chapel with the family arms cut over every doorway advertises the donor rather than the gift, whereas the bequests entered anonymously in the guild ledgers were {2} by design, purchasing influence precisely by declining to announce themselves.",
+      "blanks": [
+        {
+          "options": [
+            "ostentatious",
+            "spartan",
+            "utilitarian"
+          ],
+          "answers": [
+            "ostentatious"
+          ]
+        },
+        {
+          "options": [
+            "understated",
+            "conspicuous",
+            "florid"
+          ],
+          "answers": [
+            "understated"
+          ]
+        }
+      ],
+      "words": [
+        "ostentatious"
+      ],
+      "explanation": "Giving whose point is to be seen and admired — arms carved over every doorway — is ostentatious, the word that convicts the motive; spartan and utilitarian describe austerity and mere usefulness, which is the opposite of what the chapel does. The contrasting anonymous bequests \"decline to announce themselves,\" so understated is required, while conspicuous and florid would restate the showiness the sentence is setting them against.",
+      "id": "gregmat11__b3__tc2__06",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "The parvenu's {1} entrances — the scarlet cape, the retinue, the timing calculated so that the whole room would turn — were the standing joke of the season.",
+      "blanks": [
+        {
+          "options": [
+            "ostentatious",
+            "flamboyant",
+            "understated",
+            "furtive",
+            "perfunctory",
+            "austere"
+          ],
+          "answers": [
+            "ostentatious",
+            "flamboyant"
+          ]
+        }
+      ],
+      "words": [
+        "ostentatious"
+      ],
+      "explanation": "A cape, a retinue and timing engineered to make a room turn is display staged for an audience, and ostentatious and flamboyant both name that showiness, yielding sentences of equivalent force. Furtive and perfunctory fit the grammar and the mocking tone but describe stealth and going through the motions; understated and austere reverse the meaning outright.",
+      "id": "gregmat11__b3__se__07",
+      "unit": "gregmat11__b3",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": []
+}

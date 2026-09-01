@@ -1,0 +1,195 @@
+{
+  "unit": "gregmat31__b3",
+  "gregmat_group": 31,
+  "words": [
+    "immaculate",
+    "obfuscate",
+    "ossify",
+    "pastiche"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Once the academy's curriculum had {1} — the same drawing exercises set for a century, with no instructor able to say what they were meant to teach — the prizes inevitably went to whatever most resembled Ingres, and even the boldest student canvases amounted to little more than competent {2}.",
+      "blanks": [
+        {
+          "options": [
+            "ossified",
+            "festered",
+            "distilled"
+          ],
+          "answers": [
+            "ossified"
+          ]
+        },
+        {
+          "options": [
+            "pastiche",
+            "parody",
+            "caricature"
+          ],
+          "answers": [
+            "pastiche"
+          ]
+        }
+      ],
+      "words": [
+        "ossify",
+        "pastiche"
+      ],
+      "explanation": "A once-purposeful practice repeated unchanged for a century until nothing in it moves is the narrative of decline that ossify names; festered would mean it grew septic or bitter, and distilled would mean it was refined to its essence, the opposite of the sentence's complaint. The second blank describes work that openly reproduces another artist's manner in earnest — pastiche — whereas parody imitates to mock and caricature exaggerates features, neither of which a prize-seeking student is doing.",
+      "id": "gregmat31__b3__tc2__01",
+      "unit": "gregmat31__b3",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "A ministry founded as a wartime improvisation had, fifty years on, grown so {1} that expedients adopted for a single season were now defended as immutable, and no proposal to revise one had survived committee in a decade.",
+      "blanks": [
+        {
+          "options": [
+            "ossified",
+            "hidebound",
+            "byzantine",
+            "convoluted",
+            "venerable",
+            "malleable"
+          ],
+          "answers": [
+            "ossified",
+            "hidebound"
+          ]
+        }
+      ],
+      "words": [
+        "ossify"
+      ],
+      "explanation": "The evidence is rigidity — temporary measures defended as unalterable and revision impossible — so ossified and hidebound both yield a ministry set hard against change. Byzantine and convoluted would form a tidy pair meaning tangled or overcomplicated, but complexity does not explain why nothing can be amended; venerable praises age rather than diagnosing paralysis, and malleable reverses the sentence.",
+      "id": "gregmat31__b3__se__02",
+      "unit": "gregmat31__b3",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "The chairman's twelve-page reply, which hung a qualifier on nearly every figure it cited, seemed designed less to explain the shortfall than to {1} it.",
+      "blanks": [
+        {
+          "options": [
+            "obfuscate",
+            "obscure",
+            "elucidate",
+            "distill",
+            "compound",
+            "extenuate"
+          ],
+          "answers": [
+            "obfuscate",
+            "obscure"
+          ]
+        }
+      ],
+      "words": [
+        "obfuscate"
+      ],
+      "explanation": "\"Less to explain ... than to\" demands a verb of muddying, and the method described — burying each number under qualifiers — is exactly obfuscation, with obscure carrying the same sense once the context supplies the intent. Elucidate and distill would clarify; compound would mean worsening the shortfall itself rather than the reader's grasp of it, and extenuate would mean excusing it.",
+      "id": "gregmat31__b3__se__03",
+      "unit": "gregmat31__b3",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "After eleven years of cleaning with cotton swabs, the chapel ceiling is {1}: not a fleck remains of the candle soot that had blackened it for three centuries.",
+      "blanks": [
+        {
+          "options": [
+            "immaculate",
+            "spotless",
+            "unalloyed",
+            "inviolate",
+            "venerable",
+            "sullied"
+          ],
+          "answers": [
+            "immaculate",
+            "spotless"
+          ]
+        }
+      ],
+      "words": [
+        "immaculate"
+      ],
+      "explanation": "The colon defines the blank as the absence of any mark whatever, achieved by labor, which immaculate and spotless both express. Unalloyed applies to purity of substance or feeling rather than surfaces, inviolate means never breached or violated, venerable comments on age, and sullied states the opposite of what the second clause reports.",
+      "id": "gregmat31__b3__se__04",
+      "unit": "gregmat31__b3",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "What began as a set of provisional field remedies had, by the 1890s, {1} into a licensing code so fixed that a physician who adjusted a dosage on clinical grounds risked losing his practice.",
+      "blanks": [
+        {
+          "options": [
+            "ossified",
+            "atrophied",
+            "festered",
+            "proliferated",
+            "dissipated"
+          ],
+          "answers": [
+            "ossified"
+          ]
+        }
+      ],
+      "words": [
+        "ossify"
+      ],
+      "explanation": "The sentence traces something once flexible and improvised hardening into a rule that admits no adjustment — the precise arc of ossify. Atrophied and dissipated would mean the remedies wasted away or scattered, yet the code is very much in force; festered implies rot or grievance, and proliferated describes multiplication rather than rigidity.",
+      "id": "gregmat31__b3__cloze__05",
+      "unit": "gregmat31__b3",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "The band's third album is an affectionate {1} of sixties soul, reproducing the horn charts and plate reverb of the Stax studio openly and with no hint of ridicule.",
+      "blanks": [
+        {
+          "options": [
+            "pastiche",
+            "parody",
+            "caricature",
+            "plagiarism",
+            "bromide"
+          ],
+          "answers": [
+            "pastiche"
+          ]
+        }
+      ],
+      "words": [
+        "pastiche"
+      ],
+      "explanation": "An imitation of a whole style that is affectionate, announced, and unmocking is a pastiche. Parody and caricature both require mockery or exaggeration, which the sentence explicitly rules out; plagiarism requires concealment, contradicted by \"openly\"; and a bromide is a stale platitude, not a work modeled on another's manner.",
+      "id": "gregmat31__b3__cloze__07",
+      "unit": "gregmat31__b3",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is clean and unambiguous: the \"yet\" plus \"auditors could not trace one dollar to its source\" forces a word meaning \"obscured,\" so \"obfuscated\" is the only fit (\"elucidated\" and \"delineated\" both mean the opposite).\n\nBlank 1 is defective. \"Immaculate\" and \"pristine\" are near-synonyms here and both are fully supported by the clue \"every column footed to the penny, not a single entry scratched out\" — immaculate = spotless/without error, pristine = unspoiled/unmarked (arguably even better matched to \"not a single entry scratched out\"). A reasonable test-taker choosing \"pristine\" would be marked wrong for no defensible reason. Only \"inviolate\" (not violated/breached, a security or sanctity sense) is clearly off. The sentence needs a discriminating cue — e.g. something about accuracy vs. physical condition — to isolate one of the two.",
+      "stem": "The ledgers themselves were {1} — every column footed to the penny, not a single entry scratched out — yet the explanatory notes bound with them so thoroughly {2} the origin of the revenue that auditors could not trace one dollar to its source."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence sets up a clear contrast with \"would have made plain,\" so the blank needs a word meaning \"obscure\" — which eliminates elucidate, delineate, and distill cleanly. But TWO options carry that meaning: \"obfuscate\" and \"occlude.\" \"Obfuscate\" is the more idiomatic choice (confusing via needless complexity, exactly what a \"thicket of provisos and cross-references\" does), while \"occlude\" leans toward physical blocking/covering, so it's slightly less natural with an abstract object like \"figures.\" Still, \"occlude\" is regularly used metaphorically for obscuring, and a strong test-taker could defensibly select it; nothing in the sentence distinguishes deliberate-confusion from blocking-from-view. The distractor set needs \"occlude\" replaced with a word that is clearly wrong (e.g. \"tabulate\" or \"corroborate\").",
+      "stem": "Asked to account for the overruns, the contractor submitted a four-hundred-page appendix whose thicket of provisos and cross-references managed to {1} figures that one table would have made plain."
+    }
+  ]
+}

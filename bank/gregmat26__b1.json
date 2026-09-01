@@ -1,0 +1,261 @@
+{
+  "unit": "gregmat26__b1",
+  "gregmat_group": 26,
+  "words": [
+    "conducive",
+    "corporeal",
+    "doctrinaire",
+    "eclectic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Administrators promised that the open-plan laboratory would prove {1} to collaboration; the researchers reported the reverse, complaining that a room in which every conversation was audible {2} the sustained concentration their work demanded.",
+      "blanks": [
+        {
+          "options": [
+            "conducive",
+            "salubrious",
+            "deleterious"
+          ],
+          "answers": [
+            "conducive"
+          ]
+        },
+        {
+          "options": [
+            "impeded",
+            "expedited",
+            "galvanized"
+          ],
+          "answers": [
+            "impeded"
+          ]
+        }
+      ],
+      "words": [
+        "conducive"
+      ],
+      "explanation": "The semicolon plus \"reported the reverse\" requires a promised benefit in blank 1 and a reported harm in blank 2, so only conducive/impeded holds together. Deleterious would make administrators advertise damage, and salubrious asserts a healthful quality of a thing rather than naming a relation to a desired outcome — it is conducive, not salubrious, that idiomatically takes \"to\" and points at an enabling background condition.",
+      "id": "gregmat26__b1__tc2__00",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Trained under a single master yet {1} in his mature practice, the architect borrowed freely from Gothic vaulting, Bauhaus glazing, and Andalusian courtyard plans — a range of influence that his more {2} colleagues, for whom any deviation from the master's principles amounted to apostasy, could only deplore.",
+      "blanks": [
+        {
+          "options": [
+            "eclectic",
+            "hidebound",
+            "insular"
+          ],
+          "answers": [
+            "eclectic"
+          ]
+        },
+        {
+          "options": [
+            "doctrinaire",
+            "heterodox",
+            "iconoclastic"
+          ],
+          "answers": [
+            "doctrinaire"
+          ]
+        }
+      ],
+      "words": [
+        "eclectic",
+        "doctrinaire"
+      ],
+      "explanation": "The list of borrowed traditions fixes blank 1 as eclectic — deliberate selection across schools — while hidebound and insular describe exactly the opposite habit. Blank 2 must name the colleagues who treat the master's system as binding doctrine, which is doctrinaire; heterodox and iconoclastic would describe people who break with the school, not people who deplore breaking with it.",
+      "id": "gregmat26__b1__tc2__01",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Roman jurists divided estates by seizability: a field or a herd was {1} property, which could be laid hands upon and carried off, whereas a right of way, being {2}, could be vindicated only by an action at law.",
+      "blanks": [
+        {
+          "options": [
+            "corporeal",
+            "amorphous",
+            "illusory"
+          ],
+          "answers": [
+            "corporeal"
+          ]
+        },
+        {
+          "options": [
+            "intangible",
+            "palpable",
+            "empirical"
+          ],
+          "answers": [
+            "intangible"
+          ]
+        }
+      ],
+      "words": [
+        "corporeal"
+      ],
+      "explanation": "The clause \"laid hands upon\" demands a word for having a body, and the contrast with a bare legal right demands its negation, so corporeal/intangible is the only pair the sentence licenses. Illusory would deny the field exists at all rather than say it is embodied, and palpable in blank 2 would collapse the very distinction the sentence is built on.",
+      "id": "gregmat26__b1__tc2__02",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Though he advertised himself as a strict empiricist, his economics proved {1}: each anomalous result was explained away so that the model itself never had to be revised.",
+      "blanks": [
+        {
+          "options": [
+            "doctrinaire",
+            "dogmatic",
+            "eclectic",
+            "heterodox",
+            "iconoclastic",
+            "malleable"
+          ],
+          "answers": [
+            "doctrinaire",
+            "dogmatic"
+          ]
+        }
+      ],
+      "words": [
+        "doctrinaire"
+      ],
+      "explanation": "A theory protected from every disconfirming case is held past argument, which is what both doctrinaire and dogmatic name; here they yield equivalent sentences. Eclectic, heterodox, and iconoclastic all describe a thinker who ranges outside or against an orthodoxy — the reverse of someone shielding a single model — and malleable would contradict the refusal to revise.",
+      "id": "gregmat26__b1__se__03",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Aquinas denies that angels are {1} beings: whatever presence they have in a place, he argues, is achieved by the exercise of power and not by occupying space.",
+      "blanks": [
+        {
+          "options": [
+            "corporeal",
+            "material",
+            "illusory",
+            "evanescent",
+            "amorphous",
+            "spectral"
+          ],
+          "answers": [
+            "corporeal",
+            "material"
+          ]
+        }
+      ],
+      "words": [
+        "corporeal"
+      ],
+      "explanation": "The contrast is between having physical substance and having none, so corporeal and material are the pair that produce the same sentence. Illusory and spectral fit the theological register but assert that angels are unreal or ghostly rather than that they lack bodies, and evanescent and amorphous concern duration and shape, not embodiment.",
+      "id": "gregmat26__b1__se__04",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Bequeathed intact to the university, the collection was famously {1}: Sanskrit epics, dime detective novels, and treatises on canal engineering stood on one shelf, each acquired because its owner had judged that particular book worth having.",
+      "blanks": [
+        {
+          "options": [
+            "eclectic",
+            "catholic",
+            "parochial",
+            "insular",
+            "homogeneous",
+            "doctrinaire"
+          ],
+          "answers": [
+            "eclectic",
+            "catholic"
+          ]
+        }
+      ],
+      "words": [
+        "eclectic"
+      ],
+      "explanation": "The final clause credits a discriminating owner who ignored genre boundaries, which is precisely the compliment carried by eclectic and by catholic in the sense of broad-ranging taste. Parochial, insular, and homogeneous all describe narrowness or sameness, and doctrinaire would imply a single governing theory rather than deliberate breadth.",
+      "id": "gregmat26__b1__se__05",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "The commission concluded that the reforms had accomplished little directly, but had at least produced an environment {1} to the growth of small enterprises, one in which credit was cheap and licensing no longer arbitrary.",
+      "blanks": [
+        {
+          "options": [
+            "conducive",
+            "salutary",
+            "efficacious",
+            "benign",
+            "detrimental"
+          ],
+          "answers": [
+            "conducive"
+          ]
+        }
+      ],
+      "words": [
+        "conducive"
+      ],
+      "explanation": "The sentence concedes that the reforms caused nothing directly and then describes background conditions that merely clear the way, which is exactly the enabling relation conducive names — and the frame \"to the growth of\" is its standard complement. Salutary and benign would assert that the environment is itself beneficial rather than that it leads toward a stated outcome, and efficacious would credit the reforms with producing the result the sentence has just denied.",
+      "id": "gregmat26__b1__cloze__06",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "The medium's defenders insisted that what appeared at the séance was no trick of vapor and lamplight but a {1} visitor, whose hand several sitters had held; the skeptics replied only that a room kept in darkness was less {2} to observation than to fraud.",
+      "blanks": [
+        {
+          "options": [
+            "corporeal",
+            "evanescent",
+            "illusory"
+          ],
+          "answers": [
+            "corporeal"
+          ]
+        },
+        {
+          "options": [
+            "conducive",
+            "detrimental",
+            "inimical"
+          ],
+          "answers": [
+            "conducive"
+          ]
+        }
+      ],
+      "words": [
+        "corporeal",
+        "conducive"
+      ],
+      "explanation": "Blank 1 is fixed by \"whose hand several sitters had held,\" which insists on a body against the alternative of vapor and light; evanescent and illusory would concede the skeptics' case. Blank 2 sits in a \"less ___ to X than to Y\" frame that requires a word for favoring an outcome, so conducive is the only fit — detrimental or inimical would perversely make darkness better for observation than for fraud.",
+      "id": "gregmat26__b1__tc2__07",
+      "unit": "gregmat26__b1",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": []
+}

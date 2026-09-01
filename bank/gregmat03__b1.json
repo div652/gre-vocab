@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat03__b1",
+  "gregmat_group": 3,
+  "words": [
+    "arcane",
+    "arduous",
+    "artless",
+    "ascetic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reformers argued that the committee's {1} rules of precedence — accreted over two centuries and intelligible now only to the clerks who administered them — served less to protect deliberation than to {2} newcomers who might otherwise have challenged the leadership.",
+      "blanks": [
+        {
+          "options": [
+            "arcane",
+            "arduous",
+            "ascetic"
+          ],
+          "answers": [
+            "arcane"
+          ]
+        },
+        {
+          "options": [
+            "exclude",
+            "cultivate",
+            "exonerate"
+          ],
+          "answers": [
+            "exclude"
+          ]
+        }
+      ],
+      "words": [
+        "arcane"
+      ],
+      "explanation": "Rules that have silted up over two centuries and can be read only by the clerks who keep them are arcane: obscure in a way that walls outsiders off, which is exactly why they serve to exclude newcomers. Arduous would describe effort sustained over time, not impenetrability, and rules are not the kind of thing that tires you out; ascetic would describe chosen self-denial, which has no bearing on procedural obscurity.",
+      "id": "gregmat03__b1__tc2__00",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Even its most {1} champions concede that ratification will be {2}: four years of line-by-line bargaining separate the current draft from any signature.",
+      "blanks": [
+        {
+          "options": [
+            "ardent",
+            "arcane",
+            "artless"
+          ],
+          "answers": [
+            "ardent"
+          ]
+        },
+        {
+          "options": [
+            "arduous",
+            "cursory",
+            "expeditious"
+          ],
+          "answers": [
+            "arduous"
+          ]
+        }
+      ],
+      "words": [
+        "arduous"
+      ],
+      "explanation": "The concessive \"Even its most ___ champions concede\" demands the warmest supporters — ardent — and what they concede must be unwelcome, so four years of clause-by-clause haggling makes the process arduous, hard through sustained exertion. Arduous and ardent are lookalikes with no shared meaning; cursory and expeditious both describe speed, which the four-year timetable rules out.",
+      "id": "gregmat03__b1__tc2__01",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "The tone of the memoir is {1}: she records her humiliations without varnish and with no evident sense that they might be turned to advantage — a candor her rivals, masters of the {2} confession, can only counterfeit.",
+      "blanks": [
+        {
+          "options": [
+            "artless",
+            "mendacious",
+            "arcane"
+          ],
+          "answers": [
+            "artless"
+          ]
+        },
+        {
+          "options": [
+            "calculated",
+            "unpremeditated",
+            "inadvertent"
+          ],
+          "answers": [
+            "calculated"
+          ]
+        }
+      ],
+      "words": [
+        "artless"
+      ],
+      "explanation": "Artless denies artifice, not truthfulness: the author is not working an angle, which is precisely what her rivals, who stage their confessions for effect, must fake. Mendacious would make her a liar, contradicting \"candor\"; and only calculated supplies the contrast that \"counterfeit\" requires, since an unpremeditated or inadvertent confession could not be mastered.",
+      "id": "gregmat03__b1__tc2__02",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Even after his novels had made him rich, Tolstoy kept to a {1} regimen of coarse bread, cold rooms, and a peasant's blouse, which his family found by turns admirable and insufferable.",
+      "blanks": [
+        {
+          "options": [
+            "ascetic",
+            "austere",
+            "penurious",
+            "fastidious",
+            "decadent",
+            "indolent"
+          ],
+          "answers": [
+            "ascetic",
+            "austere"
+          ]
+        }
+      ],
+      "words": [
+        "ascetic"
+      ],
+      "explanation": "Ascetic and austere both describe a way of living stripped of comfort, and here the stripping is deliberate — the wealth is stated, so the bareness is refused rather than suffered. Penurious would attribute the plainness to poverty or stinginess, which the opening clause forbids, and fastidious would make him merely particular rather than self-denying.",
+      "id": "gregmat03__b1__se__03",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "The guild guarded its {1} lore jealously, imparting the formulas for its glazes only to apprentices who had served seven years and sworn never to divulge them.",
+      "blanks": [
+        {
+          "options": [
+            "arcane",
+            "esoteric",
+            "apocryphal",
+            "venerable",
+            "mundane",
+            "remunerative"
+          ],
+          "answers": [
+            "arcane",
+            "esoteric"
+          ]
+        }
+      ],
+      "words": [
+        "arcane"
+      ],
+      "explanation": "Both arcane and esoteric name knowledge reserved for initiates, which is what an oath and a seven-year apprenticeship establish. Apocryphal would question whether the formulas are genuine, and venerable would only make them old — neither says the knowledge is closed off, which is the sentence's whole point.",
+      "id": "gregmat03__b1__se__04",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Her testimony was so {1} that even the prosecutor seemed reluctant to press her: she volunteered the very details most harmful to her case, apparently never considering how they might be used against her.",
+      "blanks": [
+        {
+          "options": [
+            "artless",
+            "guileless",
+            "disingenuous",
+            "canny",
+            "mendacious",
+            "fastidious"
+          ],
+          "answers": [
+            "artless",
+            "guileless"
+          ]
+        }
+      ],
+      "words": [
+        "artless"
+      ],
+      "explanation": "Artless and guileless both mean free of calculation, which is what a witness who hands the prosecution its ammunition unprompted displays. Disingenuous and mendacious would make her testimony insincere or false, and canny would make her a shrewd operator — each reverses the behavior the second clause describes.",
+      "id": "gregmat03__b1__se__05",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "The survey was as {1} as anything the Ordnance Department had attempted: eight seasons of triangulation carried out on foot, in country where a single peak might cost a month.",
+      "blanks": [
+        {
+          "options": [
+            "arduous",
+            "arcane",
+            "ardent",
+            "artless",
+            "ascetic"
+          ],
+          "answers": [
+            "arduous"
+          ]
+        }
+      ],
+      "words": [
+        "arduous"
+      ],
+      "explanation": "Eight seasons of walking measurement is effort stretched across years, which is precisely what arduous names, as against mere difficulty at a moment. Arcane would say the work was unintelligible rather than punishing, and ardent, its lookalike, describes passion, which belongs to people and not to a task.",
+      "id": "gregmat03__b1__cloze__06",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Having sold the mills, handed the proceeds to the parish, and moved into an unheated cottage on the moor, Ruskin's disciple became something of a local {1}, admired and pitied in roughly equal measure.",
+      "blanks": [
+        {
+          "options": [
+            "ascetic",
+            "aesthete",
+            "dilettante",
+            "savant",
+            "epicure"
+          ],
+          "answers": [
+            "ascetic"
+          ]
+        }
+      ],
+      "words": [
+        "ascetic"
+      ],
+      "explanation": "The man had money and refused it, which is the defining mark of an ascetic: comfort renounced on principle rather than simply absent. An aesthete would be devoted to beauty and a dilettante to dabbling, and an epicure is the opposite of a man in an unheated cottage.",
+      "id": "gregmat03__b1__cloze__07",
+      "unit": "gregmat03__b1",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": []
+}

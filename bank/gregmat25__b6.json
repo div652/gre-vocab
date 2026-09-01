@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat25__b6",
+  "gregmat_group": 25,
+  "words": [
+    "steadfast",
+    "suspect",
+    "tedious",
+    "vitality"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though her colleagues assumed she would quietly {1} the theory once the funding dried up, Hodgkin remained {2} in her defense of it, revising the model a dozen times without ever surrendering its central claim.",
+      "blanks": [
+        {
+          "options": [
+            "recant",
+            "substantiate",
+            "corroborate"
+          ],
+          "answers": [
+            "recant"
+          ]
+        },
+        {
+          "options": [
+            "steadfast",
+            "capricious",
+            "irresolute"
+          ],
+          "answers": [
+            "steadfast"
+          ]
+        }
+      ],
+      "words": [
+        "steadfast"
+      ],
+      "explanation": "\"Though\" sets the expected desertion against what actually happened, so blank one needs a verb of taking it back — recant — while substantiate and corroborate would mean supporting the theory and destroy the contrast. Blank two must then name the constancy she showed under pressure: steadfast, not capricious or irresolute, both of which describe the wavering she conspicuously did not do.",
+      "id": "gregmat25__b6__tc2__00",
+      "unit": "gregmat25__b6",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Long after his cause had become politically embarrassing, Casement's few remaining supporters proved {1}, visiting him in prison when acquaintances of thirty years would not cross the street to greet him.",
+      "blanks": [
+        {
+          "options": [
+            "steadfast",
+            "stalwart",
+            "indefatigable",
+            "fickle",
+            "capricious",
+            "irresolute"
+          ],
+          "answers": [
+            "steadfast",
+            "stalwart"
+          ]
+        }
+      ],
+      "words": [
+        "steadfast"
+      ],
+      "explanation": "The sentence is about staying loyal when leaving would have been easier, which is precisely what steadfast and stalwart both assert of a supporter. Indefatigable is tempting but praises tirelessness of effort rather than constancy of allegiance, and fickle, capricious and irresolute name the desertion the sentence attributes to everyone else.",
+      "id": "gregmat25__b6__se__01",
+      "unit": "gregmat25__b6",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "The referees stopped well short of alleging fraud; they observed only that the timing of the measurements was {1}, and that until the raw traces were deposited the group's conclusion must remain {2}.",
+      "blanks": [
+        {
+          "options": [
+            "suspect",
+            "conclusive",
+            "axiomatic"
+          ],
+          "answers": [
+            "suspect"
+          ]
+        },
+        {
+          "options": [
+            "conjectural",
+            "incontrovertible",
+            "corroborated"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "suspect"
+      ],
+      "explanation": "Referees who decline to allege fraud but still withhold trust need the dry, passive hedge: the timing invites doubt, so it is suspect, whereas conclusive and axiomatic would put the timing beyond question. Blank two follows from the missing raw traces — the conclusion is unsupported guesswork, hence conjectural, and calling it incontrovertible or corroborated would contradict the very condition the referees impose.",
+      "id": "gregmat25__b6__tc2__02",
+      "unit": "gregmat25__b6",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "The auditor's letter was careful never to call the overseas invoices fabrications; it said only that a number of them were {1} and that the board should commission a fuller review.",
+      "blanks": [
+        {
+          "options": [
+            "suspect",
+            "spurious",
+            "bogus",
+            "specious",
+            "incontrovertible"
+          ],
+          "answers": [
+            "suspect"
+          ]
+        }
+      ],
+      "words": [
+        "suspect"
+      ],
+      "explanation": "Because the letter explicitly refuses to allege fabrication, the blank must raise doubt without asserting falsity — that is the professional understatement of suspect. Spurious and bogus would flatly declare the invoices fake, specious describes reasoning that only looks sound, and incontrovertible reverses the sense entirely.",
+      "id": "gregmat25__b6__cloze__03",
+      "unit": "gregmat25__b6",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Rereading the trial transcript is {1} rather than difficult: every question put to the witness is simple, and it is only their repetition, page after identical page, that finally {2} the reader.",
+      "blanks": [
+        {
+          "options": [
+            "tedious",
+            "arduous",
+            "scintillating"
+          ],
+          "answers": [
+            "tedious"
+          ]
+        },
+        {
+          "options": [
+            "enervates",
+            "enthralls",
+            "galvanizes"
+          ],
+          "answers": [
+            "enervates"
+          ]
+        }
+      ],
+      "words": [
+        "tedious"
+      ],
+      "explanation": "\"Rather than difficult\" rules out arduous, and the complaint that follows is one of length and sameness, not dullness of a gripping kind, so tedious is the only fit; scintillating would contradict the whole sentence. Blank two names what unvarying repetition does to a reader — it drains him, so enervates, while enthralls and galvanizes describe being energized instead.",
+      "id": "gregmat25__b6__tc2__04",
+      "unit": "gregmat25__b6",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "The copyist's work was not delicate, merely {1}: eight hours a day transcribing columns of figures that never varied in form and never came to an end.",
+      "blanks": [
+        {
+          "options": [
+            "tedious",
+            "wearisome",
+            "soporific",
+            "insipid",
+            "arduous",
+            "exacting"
+          ],
+          "answers": [
+            "tedious",
+            "wearisome"
+          ]
+        }
+      ],
+      "words": [
+        "tedious"
+      ],
+      "explanation": "The complaint is about duration and sameness wearing down patience, which tedious and wearisome express identically. Arduous and exacting are excluded by \"not delicate, merely,\" which denies difficulty; soporific would claim the work induces sleep and insipid that it lacks savor, neither of which is the same charge as endlessness.",
+      "id": "gregmat25__b6__se__05",
+      "unit": "gregmat25__b6",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Visitors who expected a museum piece are struck instead by the {1} of the language: far from being a relic kept alive by grant money, Welsh in these valleys is anything but {2}, since it is argued in, joked in, and used to sell secondhand cars.",
+      "blanks": [
+        {
+          "options": [
+            "vitality",
+            "torpor",
+            "austerity"
+          ],
+          "answers": [
+            "vitality"
+          ]
+        },
+        {
+          "options": [
+            "moribund",
+            "ubiquitous",
+            "colloquial"
+          ],
+          "answers": [
+            "moribund"
+          ]
+        }
+      ],
+      "words": [
+        "vitality"
+      ],
+      "explanation": "The examples show a language still in ordinary daily use, so the first blank names visible aliveness — vitality — while torpor and austerity would describe the museum piece the visitors wrongly anticipated. \"Anything but\" then requires the opposite of that liveliness: moribund; ubiquitous and colloquial are not negated by the evidence given and would make the sentence self-contradictory.",
+      "id": "gregmat25__b6__tc2__06",
+      "unit": "gregmat25__b6",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The evidence (companies written off are still touring decades later) points to staying power / life force, which \"vitality\" captures best, and \"torpor\" and \"prestige\" are correctly wrong. But the option list contains three near-synonyms for liveliness — vitality, verve, vivacity — and the sentence does not clearly discriminate among them. \"Underestimated its verve\" is a perfectly idiomatic thing to say about a theatre scene, and a test-taker who reads the continued touring as evidence of undiminished energy/spirit has a defensible case for \"verve\" (and, less naturally, \"vivacity\"). Only the fine shade that vitality alone connotes capacity to survive rather than mere liveliness of manner separates them, and the sentence never forces that shade. Replace verve/vivacity with distractors that are not synonyms of the key.",
+      "stem": "Critics who pronounced the repertory theatre dead in 1990 had badly underestimated its {1}: three of the companies they wrote off are still touring the same circuit today."
+    }
+  ]
+}

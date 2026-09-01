@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat05__b3",
+  "gregmat_group": 5,
+  "words": [
+    "imperious",
+    "impertinent",
+    "invasive",
+    "irresolute"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though her actual rank in the ministry was junior, Lady Cavendish's manner was so {1} that visiting officials found themselves obeying instructions she had no standing whatever to give; her clerks, for their part, cultivated a {2} that only encouraged her.",
+      "blanks": [
+        {
+          "options": [
+            "imperious",
+            "haughty",
+            "impervious"
+          ],
+          "answers": [
+            "imperious"
+          ]
+        },
+        {
+          "options": [
+            "deference",
+            "effrontery",
+            "disdain"
+          ],
+          "answers": [
+            "deference"
+          ]
+        }
+      ],
+      "words": [
+        "imperious"
+      ],
+      "explanation": "The sentence turns on obedience actually being produced — officials find themselves complying — which requires a manner that issues commands, not one that merely radiates superiority; haughty describes pride looking down, but a haughty person need never give an order. Impervious (impenetrable) is only a lookalike. The second blank must name what subordinates offer such a person and what would reinforce the habit: deference, not the shameless boldness of effrontery or the contempt of disdain.",
+      "id": "gregmat05__b3__tc2__00",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Balanchine seldom raised his voice in rehearsal: he named a correction once, turned away, and left the dancer to discover that nothing short of compliance had ever been contemplated — a manner his company found {1} rather than merely demanding.",
+      "blanks": [
+        {
+          "options": [
+            "imperious",
+            "domineering",
+            "haughty",
+            "assertive",
+            "obsequious",
+            "impervious"
+          ],
+          "answers": [
+            "imperious",
+            "domineering"
+          ]
+        }
+      ],
+      "words": [
+        "imperious"
+      ],
+      "explanation": "Imperious and domineering both name a manner that imposes one's will and treats refusal as unavailable, which is exactly what the quiet, unrepeated correction dramatizes. Haughty would only say he thought himself superior, leaving the expected compliance unexplained; assertive is ruled out by 'rather than merely demanding,' which calls for something stronger than firmness, and obsequious reverses the direction of the relation.",
+      "id": "gregmat05__b3__se__01",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "The interviewer's question about the widow's finances was not so much cruel as {2}: it presumed an intimacy she had never granted, and the studio audience's discomfort had less to do with any injury done than with a breach of {1}.",
+      "blanks": [
+        {
+          "options": [
+            "decorum",
+            "doctrine",
+            "effrontery"
+          ],
+          "answers": [
+            "decorum"
+          ]
+        },
+        {
+          "options": [
+            "impertinent",
+            "abrasive",
+            "pernicious"
+          ],
+          "answers": [
+            "impertinent"
+          ]
+        }
+      ],
+      "words": [
+        "impertinent"
+      ],
+      "explanation": "The fault identified is presuming a standing one does not have — asking what one has no right to ask — which is precisely impertinence; abrasive would make the offense one of harsh manner, and pernicious one of harm, both explicitly excluded by 'not so much cruel' and 'less to do with any injury done.' The first blank needs the code of conduct that such a question violates: decorum, since a doctrine is a body of belief and effrontery is the offense itself, not the standard breached.",
+      "id": "gregmat05__b3__tc2__02",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Asked at the press conference what he had paid for his country house, the minister observed that the question was {1} — it reached into a private transaction no reporter had any standing to raise — and then, with a thin smile, answered it.",
+      "blanks": [
+        {
+          "options": [
+            "impertinent",
+            "presumptuous",
+            "pertinent",
+            "perspicacious",
+            "pertinacious",
+            "urbane"
+          ],
+          "answers": [
+            "impertinent",
+            "presumptuous"
+          ]
+        }
+      ],
+      "words": [
+        "impertinent"
+      ],
+      "explanation": "The clause between the dashes defines the fault as overstepping — the questioner claimed a standing he lacked — so impertinent and presumptuous yield equivalent sentences, and the arch half-amusement of answering anyway is idiomatic for both. Pertinent reverses the sense, perspicacious would praise the question's shrewdness rather than fault it, and pertinacious (doggedly persistent) describes a questioner's stubbornness, not a single question's trespass.",
+      "id": "gregmat05__b3__se__03",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Purple loosestrife arrived in New England as a garden ornamental; two centuries on, it has choked the sedges and cattails out of the wetlands it entered, and every state agency in the region now classifies it as {1}.",
+      "blanks": [
+        {
+          "options": [
+            "invasive",
+            "pervasive",
+            "evasive",
+            "endemic",
+            "ephemeral"
+          ],
+          "answers": [
+            "invasive"
+          ]
+        }
+      ],
+      "words": [
+        "invasive"
+      ],
+      "explanation": "The plant got in, spread, and displaced what was already there — a footprint taken over, which is the technical ecological sense of invasive. Pervasive would record only that it is everywhere, saying nothing about the natives it has crowded out; endemic means native to the place, which the first clause flatly contradicts.",
+      "id": "gregmat05__b3__cloze__04",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Ecologists take care to distinguish introduced plants that are merely {1} — abundant across a whole continent yet doing no damage to the communities they join — from the genuinely {2} ones, which secure a foothold and then take over the ground the natives had held.",
+      "blanks": [
+        {
+          "options": [
+            "pervasive",
+            "rampant",
+            "transient"
+          ],
+          "answers": [
+            "pervasive"
+          ]
+        },
+        {
+          "options": [
+            "invasive",
+            "impervious",
+            "indigenous"
+          ],
+          "answers": [
+            "invasive"
+          ]
+        }
+      ],
+      "words": [
+        "invasive"
+      ],
+      "explanation": "The contrast is between wide distribution without harm and wide distribution with displacement, so the first blank needs a neutral word for sheer extent — pervasive — while rampant carries the unchecked, damaging spread the clause explicitly denies and transient contradicts 'abundant across a whole continent.' The second blank names the harmful case: invasive, since indigenous would make the newcomers native and impervious is only a soundalike.",
+      "id": "gregmat05__b3__tc2__05",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians have been unkind to Hooker at Chancellorsville. It was not that he lacked physical courage, nor that he kept revising his design as the reports came in — he had a plan, and every hour let it sit unissued while Lee moved. He was, the verdict runs, fatally {1}.",
+      "blanks": [
+        {
+          "options": [
+            "irresolute",
+            "craven",
+            "capricious",
+            "mercurial",
+            "dogged"
+          ],
+          "answers": [
+            "irresolute"
+          ]
+        }
+      ],
+      "words": [
+        "irresolute"
+      ],
+      "explanation": "Irresolute is the retrospective verdict on a person who cannot bring himself to act at the decisive moment, and it covers pure inaction as readily as wavering — he need not have hesitated between plans, only failed to order one. Craven is excluded by the denial of cowardice; capricious and mercurial both require the changeability the second clause rules out; dogged means the opposite.",
+      "id": "gregmat05__b3__cloze__06",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Each time the cabinet came to the point of decision, Aberdeen discovered some further consultation to be undertaken, some fresh dispatch to be awaited; colleagues who genuinely admired his learning judged him nonetheless {1} at precisely the moments that mattered.",
+      "blanks": [
+        {
+          "options": [
+            "irresolute",
+            "vacillating",
+            "dogged",
+            "imperious",
+            "brazen",
+            "perspicacious"
+          ],
+          "answers": [
+            "irresolute",
+            "vacillating"
+          ]
+        }
+      ],
+      "words": [
+        "irresolute"
+      ],
+      "explanation": "Repeatedly finding a reason to postpone at the moment of choice is a failure to commit, and irresolute and vacillating render that failure equivalently. Dogged and imperious describe the opposite temperament — persistence and command — while perspicacious is blocked by 'nonetheless,' which requires a fault to set against the admired learning rather than a second compliment.",
+      "id": "gregmat05__b3__se__07",
+      "unit": "gregmat05__b3",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": []
+}

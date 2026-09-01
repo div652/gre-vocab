@@ -1,0 +1,179 @@
+{
+  "unit": "gregmat08__b5",
+  "gregmat_group": 8,
+  "words": [
+    "perfidy",
+    "profuse",
+    "pugnacious",
+    "sagacious"
+  ],
+  "questions": [
+    {
+      "type": "cloze",
+      "stem": "Feigning surrender in order to open fire on the troops who advance to accept it is treated by the Geneva Conventions not as a permissible ruse but as {1}: the offense lies in exploiting the enemy's legal obligation to honor a good-faith signal.",
+      "blanks": [
+        {
+          "options": [
+            "perfidy",
+            "mendacity",
+            "disingenuousness",
+            "truculence",
+            "obfuscation"
+          ],
+          "answers": [
+            "perfidy"
+          ]
+        }
+      ],
+      "words": [
+        "perfidy"
+      ],
+      "explanation": "The sentence turns on a bond that the law itself creates — the obligation to honor a surrender — and on its deliberate exploitation, which is the technical and moral definition of perfidy. Mendacity and disingenuousness describe untruthfulness as a habit or a pose, and neither requires a prior trust to violate; truculence and obfuscation are simply the wrong concepts.",
+      "id": "gregmat08__b5__cloze__01",
+      "unit": "gregmat08__b5",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Her apologies were {1} — renewed at every turn of the conversation until the whole table was uncomfortable — yet the amends she actually offered were {2}.",
+      "blanks": [
+        {
+          "options": [
+            "profuse",
+            "understated",
+            "tempered"
+          ],
+          "answers": [
+            "profuse"
+          ]
+        },
+        {
+          "options": [
+            "paltry",
+            "prodigious",
+            "copious"
+          ],
+          "answers": [
+            "paltry"
+          ]
+        }
+      ],
+      "words": [
+        "profuse"
+      ],
+      "explanation": "The dash clause describes speech pouring out past the point anyone wants it, which is precisely profuse rather than merely plentiful; understated and tempered contradict the described excess. The \"yet\" then demands a term of deficiency for the second blank, and paltry supplies it, while prodigious and copious would make the two halves agree instead of clash.",
+      "id": "gregmat08__b5__tc2__02",
+      "unit": "gregmat08__b5",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The emperor's letters bestow {1} praise on his frontier generals, yet the honors actually conferred on them at Rome were conspicuously meagre.",
+      "blanks": [
+        {
+          "options": [
+            "profuse",
+            "lavish",
+            "grudging",
+            "scant",
+            "measured",
+            "gratuitous"
+          ],
+          "answers": [
+            "profuse",
+            "lavish"
+          ]
+        }
+      ],
+      "words": [
+        "profuse"
+      ],
+      "explanation": "The contrast with meagre honors requires praise given in overflowing quantity, and profuse and lavish both name that outpouring. Grudging, scant, and measured all fit the grammar but destroy the contrast by making the praise as stinting as the honors; gratuitous would mean the praise was uncalled-for rather than abundant, and it has no partner among the options.",
+      "id": "gregmat08__b5__se__03",
+      "unit": "gregmat08__b5",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "At the time, the treasurer's insistence on hedging a currency that no one on the board thought at risk struck them as merely {1}; only when the peso collapsed four years later did the decision come to look {2}.",
+      "blanks": [
+        {
+          "options": [
+            "pusillanimous",
+            "prescient",
+            "mercenary"
+          ],
+          "answers": [
+            "pusillanimous"
+          ]
+        },
+        {
+          "options": [
+            "sagacious",
+            "myopic",
+            "blithe"
+          ],
+          "answers": [
+            "sagacious"
+          ]
+        }
+      ],
+      "words": [
+        "sagacious"
+      ],
+      "explanation": "\"Merely\" signals the board's dismissal, so the first blank must be belittling — pusillanimous, faint-hearted caution — and prescient would credit the very foresight the board failed to see. The second blank needs judgment vindicated by how events turned out, which is sagacious; myopic and blithe would reverse the verdict the collapse delivers.",
+      "id": "gregmat08__b5__tc2__06",
+      "unit": "gregmat08__b5",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The pamphlet's warning that a paper currency untethered from specie must end in ruin seemed merely alarmist to its first readers; the inflation of the following decade made it look {1}.",
+      "blanks": [
+        {
+          "options": [
+            "sagacious",
+            "prescient",
+            "myopic",
+            "complacent",
+            "erudite",
+            "ingenuous"
+          ],
+          "answers": [
+            "sagacious",
+            "prescient"
+          ]
+        }
+      ],
+      "words": [
+        "sagacious"
+      ],
+      "explanation": "The sentence's whole structure is a later event reversing an early verdict, so the blank must praise judgment that pointed correctly forward: sagacious and prescient both do. Myopic and complacent fit the grammar but keep the reader's original dismissal in force; erudite would praise the pamphlet's learning rather than its foresight, and ingenuous would call it naive.",
+      "id": "gregmat08__b5__se__07",
+      "unit": "gregmat08__b5",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['mendacity', 'effrontery'] vs ['mendacity', 'perfidy']",
+      "problem": "Blank {1} is clean: \"everyone there lied\" locks in \"mendacity\" (veracity is the opposite; acumen is irrelevant). Blank {2} is not uniquely determined. \"Prevarication\" is correctly excluded as a mere synonym of the forgivable everyday lying, but BOTH \"perfidy\" and \"effrontery\" genuinely fit. The relative clause describes two things at once: the minister is literally \"selling\" his sovereign while sworn to him — that is textbook perfidy (breach of faith, treachery) — and he does so while piously invoking the oath, which is textbook effrontery (shameless gall). The sentence gives no cue that decides between the substance (betrayal) and the manner (brazenness); a test-taker choosing \"perfidy\" has an equally defensible reading and would be marked wrong. To make it unique, the contrast clause would need to point explicitly at one axis (e.g. \"...but not the shamelessness of a minister who...\" vs. \"...but not the treachery of a minister who sold him to a foreign power\").",
+      "stem": "Talleyrand's contemporaries could forgive the everyday {1} of the chancelleries — everyone there lied, and everyone knew it — but not the {2} of a minister who invoked his oath to the sovereign in the very act of selling him."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only requires that the senator's public floor manner contrast with his closed-door manner; it never specifies the direction of the contrast. So \"deferential\" + \"truculent\" (and equally \"diffident\" + \"truculent\") satisfies the sentence just as well as the intended \"pugnacious\" + \"emollient.\" The only thing forcing the intended pair is the meta-observation that truculent and fractious are near-synonyms and therefore neither can be a unique blank-2 answer — an answer-choice artifact, not a cue in the sentence. \"Relentlessly\" leans toward pugnacious but does not exclude \"relentlessly deferential.\" Fix by adding a directional cue, e.g. \"known for the ferocity of his speeches\" or \"his reputation for bruising rhetoric,\" and by replacing one of the two aggressive blank-2 options with a non-synonym.",
+      "stem": "Colleagues who knew the senator only from the floor, where he was relentlessly {1}, were startled by the {2} manner he brought to closed-door bargaining."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only establishes that the columnist is combative and fight-seeking, and three options (\"pugnacious,\" \"truculent,\" \"belligerent\") all satisfy that. \"Truculent instincts\" and \"belligerent instincts\" are both idiomatic and fully consistent with \"went looking for arguments\" and \"never let an adversary off lightly\" — nothing in the sentence distinguishes verbal sparring from defiance or hostility, or rules out either distractor. Only \"irascible\" (quick to anger, a temper trait rather than a fight-seeking one) and \"fractious\" (unruly/hard to manage) are genuinely weaker. A reasonable test-taker choosing \"belligerent\" or \"truculent\" would be marked wrong without justification. Fix by replacing the near-synonym distractors, or by adding a cue that discriminates — e.g. relish/enjoyment of the contest to favor \"pugnacious,\" or sullen resentment to favor \"truculent.\"",
+      "stem": "A columnist of thoroughly {1} instincts, she went looking for arguments the way other writers go looking for anecdotes, and her readers subscribed precisely because she never let an adversary off lightly."
+    }
+  ]
+}

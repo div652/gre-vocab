@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat07__b4",
+  "gregmat_group": 7,
+  "words": [
+    "malleable",
+    "neophyte",
+    "plastic",
+    "platitude"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Far from being the {1} recruit his sponsors had counted on, the young deputy proved {2}, rejecting even those instructions that arrived with the leadership's explicit blessing.",
+      "blanks": [
+        {
+          "options": [
+            "malleable",
+            "doctrinaire",
+            "hidebound"
+          ],
+          "answers": [
+            "malleable"
+          ]
+        },
+        {
+          "options": [
+            "intractable",
+            "amenable",
+            "callow"
+          ],
+          "answers": [
+            "intractable"
+          ]
+        }
+      ],
+      "words": [
+        "malleable"
+      ],
+      "explanation": "The sponsors wanted someone they could shape, so blank 1 needs the hammer word: malleable puts the shaping in the sponsors' hands. Neither antonym works, because \"doctrinaire\" and \"hidebound\" already mean rigid and would agree with, not contrast with, the deputy's refusals; \"far from\" demands opposition. Blank 2 must name that rigidity under direction, which is intractable, not amenable (its opposite) or callow (raw, which says nothing about resisting orders).",
+      "id": "gregmat07__b4__tc2__00",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "The gilder's whole trade rests on a single property of gold: an ounce, patiently worked under the hammer, will spread into a leaf thin enough to sheathe an entire altarpiece without once tearing, no other metal being so {1}.",
+      "blanks": [
+        {
+          "options": [
+            "malleable",
+            "ductile",
+            "pliant",
+            "supple",
+            "immutable"
+          ],
+          "answers": [
+            "malleable"
+          ]
+        }
+      ],
+      "words": [
+        "malleable"
+      ],
+      "explanation": "Beaten under a hammer into a sheet is the defining case of malleability; ductile is the neighbouring term for metal that can be drawn out into wire, a different operation entirely. Pliant and supple describe bending without breaking, which is not what a goldbeater's hammer tests, and immutable is the antonym.",
+      "id": "gregmat07__b4__cloze__01",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers took the collection for the work of a {1}, when in fact its author had been publishing in the quarterlies for a decade; the poems' apparent artlessness was not {2} but an effect secured by years of revision.",
+      "blanks": [
+        {
+          "options": [
+            "neophyte",
+            "adept",
+            "iconoclast"
+          ],
+          "answers": [
+            "neophyte"
+          ]
+        },
+        {
+          "options": [
+            "callowness",
+            "prowess",
+            "erudition"
+          ],
+          "answers": [
+            "callowness"
+          ]
+        }
+      ],
+      "words": [
+        "neophyte"
+      ],
+      "explanation": "The \"when in fact\" clause corrects an impression of recent arrival, so blank 1 must mean newly admitted to the field: neophyte, not adept (a master, which the reviewers precisely failed to see) or iconoclast (an image-breaker, unrelated to inexperience). Blank 2 names the quality wrongly inferred from artlessness, and only callowness is the greenness of the untried; prowess and erudition would make the sentence deny the very skill the revision proves.",
+      "id": "gregmat07__b4__tc2__02",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Every autumn the litigation department absorbs a dozen {1}, fresh from the bar examination and conspicuously aware that the partners are watching them.",
+      "blanks": [
+        {
+          "options": [
+            "neophytes",
+            "novices",
+            "acolytes",
+            "dilettantes",
+            "adepts",
+            "iconoclasts"
+          ],
+          "answers": [
+            "neophytes",
+            "novices"
+          ]
+        }
+      ],
+      "words": [
+        "neophyte"
+      ],
+      "explanation": "The sentence is about people who have just crossed a threshold into an institution and are under the gaze of those already inside, which is exactly neophytes, and novices is its plain institutional equivalent. Acolytes would import devotion to a master rather than mere recency of admission, dilettantes would accuse them of dabbling, and adepts and iconoclasts reverse or change the sense outright.",
+      "id": "gregmat07__b4__se__03",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Nineteenth-century neurology held the adult cortex to be essentially {1}, its wiring settled once childhood closed; the demonstration that stroke patients can conscript undamaged regions to assume lost functions showed instead that the mature brain stays {2} enough to take a new configuration and keep it.",
+      "blanks": [
+        {
+          "options": [
+            "immutable",
+            "malleable",
+            "tractable"
+          ],
+          "answers": [
+            "immutable"
+          ]
+        },
+        {
+          "options": [
+            "plastic",
+            "refractory",
+            "ossified"
+          ],
+          "answers": [
+            "plastic"
+          ]
+        }
+      ],
+      "words": [
+        "plastic"
+      ],
+      "explanation": "Blank 1 restates \"wiring settled\" as an absolute, so it needs immutable; malleable and tractable would say the opposite and destroy the contrast the second clause depends on. Blank 2 must name the reversal, and plastic is the technical term for material that assumes a new form and retains it, which the clause spells out; refractory and ossified both mean resistant to reshaping.",
+      "id": "gregmat07__b4__tc2__04",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "Sculptors of the workshop preferred alabaster to marble on strictly practical grounds: it was a thoroughly {1} medium, soft enough to take whatever form the chisel proposed and firm enough afterward to keep it.",
+      "blanks": [
+        {
+          "options": [
+            "plastic",
+            "refractory",
+            "ductile",
+            "immutable",
+            "supple"
+          ],
+          "answers": [
+            "plastic"
+          ]
+        }
+      ],
+      "words": [
+        "plastic"
+      ],
+      "explanation": "Taking a new form and then holding it is the precise content of plastic, which is why it is the standard adjective for a sculptural medium. Refractory and immutable name stone that resists the chisel, ductile belongs to metal drawn into wire, and supple describes something that bends and springs back rather than something that keeps an imposed shape.",
+      "id": "gregmat07__b4__cloze__05",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "The commencement speaker filled forty minutes with {1} of the sort no one can dispute and no one remembers, that failure is only feedback and that the graduates must follow their passion, each line delivered with the gravity of hard-won insight.",
+      "blanks": [
+        {
+          "options": [
+            "platitudes",
+            "bromides",
+            "aphorisms",
+            "dicta",
+            "apothegms",
+            "encomia"
+          ],
+          "answers": [
+            "platitudes",
+            "bromides"
+          ]
+        }
+      ],
+      "words": [
+        "platitude"
+      ],
+      "explanation": "The quoted lines are stale moral filler dressed up as profundity, which is what platitudes names and what bromides names in the same soothing, secondhand register. Aphorisms and apothegms credit the sayings with genuine compressed wisdom, dicta implies authoritative pronouncement, and encomia are speeches of praise, so all four change the sentence's verdict rather than preserving it.",
+      "id": "gregmat07__b4__se__06",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Asked what the collapse had taught him, the chairman produced only {1}, that markets are cyclical, that hindsight is easy, remarks whose air of hard-won wisdom could not disguise their {2}.",
+      "blanks": [
+        {
+          "options": [
+            "platitudes",
+            "aphorisms",
+            "jeremiads"
+          ],
+          "answers": [
+            "platitudes"
+          ]
+        },
+        {
+          "options": [
+            "vacuity",
+            "trenchancy",
+            "cogency"
+          ],
+          "answers": [
+            "vacuity"
+          ]
+        }
+      ],
+      "words": [
+        "platitude"
+      ],
+      "explanation": "Blank 1 needs the noun for a stale moral line that only wears the face of insight, which is platitudes; aphorisms would grant the chairman real compressed wisdom, and jeremiads are denunciations, not consolations. Blank 2 must be what the borrowed gravity fails to hide, and vacuity is emptiness of content, whereas trenchancy and cogency would credit the remarks with exactly the substance the sentence denies them.",
+      "id": "gregmat07__b4__tc2__07",
+      "unit": "gregmat07__b4",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": []
+}

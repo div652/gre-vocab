@@ -1,0 +1,261 @@
+{
+  "unit": "gregmat36__b5",
+  "gregmat_group": 36,
+  "words": [
+    "plausible",
+    "posturing",
+    "potent",
+    "redundant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers found the defendant's account of that evening {1} enough on first hearing, but the station's ticket records eventually exposed it as {2}: the train he claimed to have taken had been cancelled all that week.",
+      "blanks": [
+        {
+          "options": [
+            "plausible",
+            "incontrovertible",
+            "fallacious"
+          ],
+          "answers": [
+            "plausible"
+          ]
+        },
+        {
+          "options": [
+            "spurious",
+            "conjectural",
+            "tendentious"
+          ],
+          "answers": [
+            "spurious"
+          ]
+        }
+      ],
+      "words": [
+        "plausible"
+      ],
+      "explanation": "The first blank must rate only how the story sounded initially, leaving room for the later refutation, which is exactly what plausible does; incontrovertible would make the refutation impossible, and fallacious would destroy the contrast signalled by \"but.\" The second blank names what the records proved — an account that is simply false — so spurious fits, whereas conjectural would say the story was merely speculative and tendentious would say it was biased, neither of which is what a cancelled train establishes.",
+      "id": "gregmat36__b5__tc2__00",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Because the model's central assumptions cannot be tested directly, the review committee authorized the trial only after judging them {1} on the strength of the analogous historical cases the author cited.",
+      "blanks": [
+        {
+          "options": [
+            "plausible",
+            "credible",
+            "specious",
+            "spurious",
+            "conclusive",
+            "conjectural"
+          ],
+          "answers": [
+            "plausible",
+            "credible"
+          ]
+        }
+      ],
+      "words": [
+        "plausible"
+      ],
+      "explanation": "The committee proceeds because the untestable assumptions still sound believable, so plausible and credible both yield a sentence about surface believability sufficient to justify a trial. Specious and spurious would mean the assumptions were false — no reason to authorize anything — while conclusive is ruled out by \"cannot be tested directly,\" and conjectural describes guesswork, which would be grounds for hesitation rather than approval.",
+      "id": "gregmat36__b5__se__01",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues who knew him privately insisted that his floor speeches against the treaty were {1} staged for a restive primary electorate rather than conviction — he had, after all, drafted two of its clauses himself — and yet the performance was {2} enough to stall ratification for a year.",
+      "blanks": [
+        {
+          "options": [
+            "posturing",
+            "sanctimony",
+            "erudition"
+          ],
+          "answers": [
+            "posturing"
+          ]
+        },
+        {
+          "options": [
+            "credible",
+            "spurious",
+            "redundant"
+          ],
+          "answers": [
+            "credible"
+          ]
+        }
+      ],
+      "words": [
+        "posturing",
+        "plausible"
+      ],
+      "explanation": "The first blank needs a word for a public position adopted for effect and leverage with no intention behind it, which is posturing; sanctimony would require a parade of moral superiority, and the clue here is authorship of the treaty, not piety. The second blank must explain why other senators believed the pose, so credible works, while spurious describes the speeches from the knowing colleagues' vantage and cannot explain the delay, and redundant is irrelevant.",
+      "id": "gregmat36__b5__tc2__02",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Having neither the ships nor the trained crews to close the strait for a single day, the admiral intended his broadcast threats as pure {1}, calculated to win concessions before the negotiations opened.",
+      "blanks": [
+        {
+          "options": [
+            "posturing",
+            "bravado",
+            "sophistry",
+            "sanctimony",
+            "pedantry",
+            "deference"
+          ],
+          "answers": [
+            "posturing",
+            "bravado"
+          ]
+        }
+      ],
+      "words": [
+        "posturing"
+      ],
+      "explanation": "The threats are a display of strength the admiral cannot back, so posturing and bravado both produce a sentence about an empty show meant to intimidate. Sophistry would require a deceptive argument rather than a bluffed threat, sanctimony a display of virtue, pedantry a fuss over detail, and deference the opposite of a threat.",
+      "id": "gregmat36__b5__se__03",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "A quantity of inland taipan venom no larger than a grain of salt is {1} enough to kill several adults, which is why remote clinics stock antivenom against a snake almost no one ever sees.",
+      "blanks": [
+        {
+          "options": [
+            "potent",
+            "efficacious",
+            "salutary",
+            "fruitful",
+            "redundant"
+          ],
+          "answers": [
+            "potent"
+          ]
+        }
+      ],
+      "words": [
+        "potent"
+      ],
+      "explanation": "The sentence stresses enormous effect from a tiny dose, which is precisely what potent measures — concentrated strength per unit, with no judgment about whether the effect is good. Efficacious and salutary would both imply a beneficial or remedial result, and fruitful a productive one, none of which describes a lethal venom.",
+      "id": "gregmat36__b5__cloze__04",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "The style manual's objection to the phrase \"advance planning\" is not that it is {1} — no reader loses time over two extra syllables — but that it is {2}: planning is by definition something one does beforehand.",
+      "blanks": [
+        {
+          "options": [
+            "prolix",
+            "laconic",
+            "equivocal"
+          ],
+          "answers": [
+            "prolix"
+          ]
+        },
+        {
+          "options": [
+            "redundant",
+            "euphemistic",
+            "elliptical"
+          ],
+          "answers": [
+            "redundant"
+          ]
+        }
+      ],
+      "words": [
+        "redundant"
+      ],
+      "explanation": "The dash clause dismisses a charge about mere length, so the first blank must name that charge: prolix, not laconic (its opposite) or equivocal (ambiguity, a different fault). The colon then supplies the real complaint — the modifier repeats what the noun already contains — which is redundant; euphemistic would mean softening an unpleasant term and elliptical would mean leaving words out, the reverse of the problem.",
+      "id": "gregmat36__b5__tc2__05",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Since the new sensor array reported precisely the values the older gauges had already been displaying, the flight engineers judged it {1} and stripped it from the console.",
+      "blanks": [
+        {
+          "options": [
+            "redundant",
+            "superfluous",
+            "indispensable",
+            "intrinsic",
+            "exorbitant",
+            "conjectural"
+          ],
+          "answers": [
+            "redundant",
+            "superfluous"
+          ]
+        }
+      ],
+      "words": [
+        "redundant"
+      ],
+      "explanation": "The array is removed because it merely duplicates existing readings, so redundant and superfluous both give a sentence about equipment surplus to requirement. Indispensable and intrinsic reverse the logic, exorbitant would concern cost rather than duplication, and conjectural would describe the readings' reliability, which the sentence never questions.",
+      "id": "gregmat36__b5__se__06",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "The pamphlet's economics were {1} — no trained reader took its arithmetic seriously even in 1832 — and yet its central image of the nation as a household sinking into debt proved so {2} that ministers were still reaching for it a century later.",
+      "blanks": [
+        {
+          "options": [
+            "fallacious",
+            "cogent",
+            "conjectural"
+          ],
+          "answers": [
+            "fallacious"
+          ]
+        },
+        {
+          "options": [
+            "potent",
+            "verbose",
+            "tendentious"
+          ],
+          "answers": [
+            "potent"
+          ]
+        }
+      ],
+      "words": [
+        "potent",
+        "plausible"
+      ],
+      "explanation": "The dash clause says the arithmetic failed on inspection, so the first blank must charge unsound reasoning: fallacious, not cogent (the opposite) or conjectural, which would fault the pamphlet for guessing rather than for reasoning badly. The second blank explains a single image's outsized and lasting force on politics, which is potent; verbose describes bulk of words, and tendentious describes bias, neither of which accounts for the image's durability.",
+      "id": "gregmat36__b5__tc2__07",
+      "unit": "gregmat36__b5",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": []
+}

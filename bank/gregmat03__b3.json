@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat03__b3",
+  "gregmat_group": 3,
+  "words": [
+    "cacophonous",
+    "canonize",
+    "censure",
+    "chicanery"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Whereas the symphony's opening movement is almost {1} — a single line unwinding without incident — the finale pits brass, strings, and percussion against one another until the effect is frankly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "placid",
+            "taciturn",
+            "obstreperous"
+          ],
+          "answers": [
+            "placid"
+          ]
+        },
+        {
+          "options": [
+            "cacophonous",
+            "shrill",
+            "subdued"
+          ],
+          "answers": [
+            "cacophonous"
+          ]
+        }
+      ],
+      "words": [
+        "cacophonous"
+      ],
+      "explanation": "The contrast with the finale's clashing sections requires a calm word in the first blank: placid describes untroubled evenness, while taciturn describes a person's habitual silence, not a musical texture, and obstreperous reverses the contrast. In the second blank, cacophonous is the only option that names sounds fighting one another; shrill refers to a single piercing pitch and subdued contradicts the pitting of sections against each other.",
+      "id": "gregmat03__b3__tc2__00",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Far from speaking with one voice, the coalition arrived at the hearing with a {1} jumble of demands — the unions', the farmers', and the exporters' each cutting straight across the others.",
+      "blanks": [
+        {
+          "options": [
+            "cacophonous",
+            "discordant",
+            "vociferous",
+            "subdued",
+            "perfunctory",
+            "exhaustive"
+          ],
+          "answers": [
+            "cacophonous",
+            "discordant"
+          ]
+        }
+      ],
+      "words": [
+        "cacophonous"
+      ],
+      "explanation": "The demands are described as mutually cutting across one another, so the blank must convey clashing plurality: cacophonous and discordant both do, and cacophonous transfers freely from noise to a mess of contradictory positions. Vociferous is the tempting near-miss — it means loudly insistent, which a set of demands can be while still agreeing perfectly — and it has no synonym among the remaining choices; subdued, perfunctory, and exhaustive each describe a different property altogether.",
+      "id": "gregmat03__b3__se__01",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Reputation is not conferred by affection: readers privately {1} the book for two generations, but it was not {2} until the universities placed it on their syllabi and the scholarly editions began to appear.",
+      "blanks": [
+        {
+          "options": [
+            "venerated",
+            "extolled",
+            "lionized"
+          ],
+          "answers": [
+            "venerated"
+          ]
+        },
+        {
+          "options": [
+            "canonized",
+            "anointed",
+            "deified"
+          ],
+          "answers": [
+            "canonized"
+          ]
+        }
+      ],
+      "words": [
+        "canonize"
+      ],
+      "explanation": "\"Privately\" rules out extolled and lionized, both of which denote loud public celebration (and lionizing is done to persons, not books), leaving venerated for the quiet, personal reverence. The second blank needs the institutional act with a procedure behind it — syllabi, scholarly editions — which is canonized; anointed means designating a chosen successor and deified means treating as a god, neither of which is something an academy does by curriculum.",
+      "id": "gregmat03__b3__tc2__02",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "The academy did not merely admire Dickinson; over three decades it {1} her, fixing her place in the survey course so securely that dissent from her greatness came to seem an eccentricity rather than an argument.",
+      "blanks": [
+        {
+          "options": [
+            "canonized",
+            "lionized",
+            "venerated",
+            "extolled",
+            "burnished"
+          ],
+          "answers": [
+            "canonized"
+          ]
+        }
+      ],
+      "words": [
+        "canonize"
+      ],
+      "explanation": "Canonize is the institutional act that puts a reputation past debate, which is exactly what the survey course and the closing of argument describe. Lionized and extolled name enthusiastic praise that can come from anyone and can fade, venerated is reverence without procedure, and burnished merely means polished up — none of them carries the finality of official enshrinement.",
+      "id": "gregmat03__b3__cloze__03",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Finding that the senator had misused travel funds but broken no law, the ethics committee voted only to {1} him; he kept his seat, his committee assignments, and his salary, and carried away nothing but the mark on the record.",
+      "blanks": [
+        {
+          "options": [
+            "censure",
+            "reprimand",
+            "exonerate",
+            "condone",
+            "lionize",
+            "tout"
+          ],
+          "answers": [
+            "censure",
+            "reprimand"
+          ]
+        }
+      ],
+      "words": [
+        "censure"
+      ],
+      "explanation": "The committee votes, condemns, and yet imposes no material penalty, so the blank must be formal disapproval that stops at words: censure and reprimand are the pair. Exonerate and condone fit the grammar and the institutional tone but reverse the finding of misuse, while lionize and tout turn a rebuke into praise.",
+      "id": "gregmat03__b3__se__04",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the association had no power to revoke a license or levy a fine, the heaviest sanction available to it was a formal {1}, entered in the minutes and read aloud at the annual meeting.",
+      "blanks": [
+        {
+          "options": [
+            "censure",
+            "indictment",
+            "opprobrium",
+            "aspersion",
+            "calumny"
+          ],
+          "answers": [
+            "censure"
+          ]
+        }
+      ],
+      "words": [
+        "censure"
+      ],
+      "explanation": "A sanction voted by a professional body and entered in its minutes is a censure — condemnation whose entire force is the official mark it leaves. An indictment is a criminal charge that only a grand jury or prosecutor can bring, opprobrium is diffuse public disgrace rather than an instrument a board can issue, and aspersion and calumny are slurs, which implies the charge is false.",
+      "id": "gregmat03__b3__cloze__05",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "The scandal turned on {1} rather than force: no one was threatened and no ledger falsified, since every transfer was authorized by a statute read against its evident purpose, so that the auditors, however uneasy, were obliged to pronounce the whole arrangement {2}.",
+      "blanks": [
+        {
+          "options": [
+            "chicanery",
+            "coercion",
+            "mendacity"
+          ],
+          "answers": [
+            "chicanery"
+          ]
+        },
+        {
+          "options": [
+            "lawful",
+            "larcenous",
+            "negligent"
+          ],
+          "answers": [
+            "lawful"
+          ]
+        }
+      ],
+      "words": [
+        "chicanery"
+      ],
+      "explanation": "The sentence eliminates its own distractors: \"no one was threatened\" rules out coercion and \"no ledger falsified\" rules out mendacity, leaving chicanery, the trickery that works through statutes and fine print. The second blank must follow from every transfer being statutorily authorized, so the auditors can only call it lawful — larcenous would contradict that authorization, and negligent misdescribes a scheme this deliberately engineered.",
+      "id": "gregmat03__b3__tc2__06",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Reading the trial transcript, one is struck less by any outright falsehood than by the patient {1} of the defense — a motion to strike here, a jurisdictional objection there, a witness list amended on the eve of trial, every maneuver of it squarely within the rules.",
+      "blanks": [
+        {
+          "options": [
+            "chicanery",
+            "skullduggery",
+            "calumny",
+            "invective",
+            "effrontery"
+          ],
+          "answers": [
+            "chicanery"
+          ]
+        }
+      ],
+      "words": [
+        "chicanery"
+      ],
+      "explanation": "Chicanery is the one word for trickery that operates through procedure and stays technically permissible, which the closing clause insists upon. Skullduggery is the near-miss but implies covert, plainly dishonest dealing rather than maneuvers made openly on the record; calumny is defamation, invective is abusive language, and effrontery is mere brazenness, none of which the listed motions illustrate.",
+      "id": "gregmat03__b3__cloze__07",
+      "unit": "gregmat03__b3",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": []
+}

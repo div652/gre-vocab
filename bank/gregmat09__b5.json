@@ -1,0 +1,195 @@
+{
+  "unit": "gregmat09__b5",
+  "gregmat_group": 9,
+  "words": [
+    "mercenary",
+    "meticulous",
+    "mordant",
+    "outstrip"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Critics who dismissed Sargent as {1} misread the evidence: he did take the commissions that paid best, but the {2} rendering of a sitter's cuffs and knuckles betrays an absorption in the work itself that no fee could have purchased.",
+      "blanks": [
+        {
+          "options": [
+            "mercenary",
+            "altruistic",
+            "munificent"
+          ],
+          "answers": [
+            "mercenary"
+          ]
+        },
+        {
+          "options": [
+            "meticulous",
+            "cursory",
+            "perfunctory"
+          ],
+          "answers": [
+            "meticulous"
+          ]
+        }
+      ],
+      "words": [
+        "mercenary",
+        "meticulous"
+      ],
+      "explanation": "The charge being rebutted is that money was the painter's only motive, which is precisely mercenary; altruistic and munificent are praise and cannot follow \"dismissed as.\" The rebuttal works only if the brushwork shows exacting care with small details, so meticulous is required, while cursory and perfunctory would concede the critics' point rather than refute it.",
+      "id": "gregmat09__b5__tc2__00",
+      "unit": "gregmat09__b5",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers reached for \"cruel\" when the better word was {1}: Parker's verdicts wounded because they were exact and funny, not because they were {2}, and the actors she flayed were known to repeat her lines at parties.",
+      "blanks": [
+        {
+          "options": [
+            "mordant",
+            "effusive",
+            "laudatory"
+          ],
+          "answers": [
+            "mordant"
+          ]
+        },
+        {
+          "options": [
+            "vituperative",
+            "meticulous",
+            "ingratiating"
+          ],
+          "answers": [
+            "vituperative"
+          ]
+        }
+      ],
+      "words": [
+        "mordant"
+      ],
+      "explanation": "The sentence insists the sting came from wit and accuracy rather than from abuse, which is exactly the intelligence mordant requires; effusive and laudatory are forms of praise and contradict \"wounded.\" The second blank must name the crude alternative the first blank is being distinguished from, so vituperative (mere railing) fits where meticulous and ingratiating describe no attack at all.",
+      "id": "gregmat09__b5__tc2__01",
+      "unit": "gregmat09__b5",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Enrollment {1} even the most generous projections within three years, so the school-building program that trustees had once denounced as {2} came in retrospect to look almost timid.",
+      "blanks": [
+        {
+          "options": [
+            "outstripped",
+            "lagged behind",
+            "matched"
+          ],
+          "answers": [
+            "outstripped"
+          ]
+        },
+        {
+          "options": [
+            "prodigal",
+            "haphazard",
+            "perfunctory"
+          ],
+          "answers": [
+            "prodigal"
+          ]
+        }
+      ],
+      "words": [
+        "outstrip"
+      ],
+      "explanation": "Only a program earlier condemned as extravagant can later look \"timid,\" so the second blank must be prodigal; haphazard and perfunctory name sloppiness, which timidity does not reverse. That reversal happens only if the numbers pulled away from the forecasts, which is the quantitative, race-already-in-motion sense of outstripped; lagged behind or matched would leave the original charge standing.",
+      "id": "gregmat09__b5__tc2__02",
+      "unit": "gregmat09__b5",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "The condottieri were {1} in the strictest sense — they fought for whoever met their price and thought nothing of changing employers between campaigns — and their contracts, {2} in stipulating rates of pay, forage, and shares of ransom, read less like oaths of allegiance than like invoices.",
+      "blanks": [
+        {
+          "options": [
+            "mercenaries",
+            "zealots",
+            "conscripts"
+          ],
+          "answers": [
+            "mercenaries"
+          ]
+        },
+        {
+          "options": [
+            "punctilious",
+            "cursory",
+            "slovenly"
+          ],
+          "answers": [
+            "punctilious"
+          ]
+        }
+      ],
+      "words": [
+        "mercenary",
+        "meticulous"
+      ],
+      "explanation": "Fighting for whoever pays, with no country or cause, is the literal definition of mercenaries; zealots fight from conviction and conscripts are compelled, both of which the clause rules out. Documents that itemize pay, forage, and ransom shares are exacting about formal terms, so punctilious fits, while cursory and slovenly would make the contracts read nothing like invoices.",
+      "id": "gregmat09__b5__tc2__03",
+      "unit": "gregmat09__b5",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Demand for rare-earth magnets has {1} domestic production every year since 2015, and the gap is now widening faster than new mines can be permitted.",
+      "blanks": [
+        {
+          "options": [
+            "outstripped",
+            "outpaced",
+            "transcended",
+            "offset",
+            "forestalled",
+            "throttled"
+          ],
+          "answers": [
+            "outstripped",
+            "outpaced"
+          ]
+        }
+      ],
+      "words": [
+        "outstrip"
+      ],
+      "explanation": "Two quantities are both moving and one is drawing away, leaving a widening gap: that is precisely outstripped and outpaced, which are interchangeable with rates and volumes. Offset and throttled would imply the gap had been closed or suppressed, forestalled means prevented in advance, and transcended asks for limits or categories risen above rather than a production figure exceeded.",
+      "id": "gregmat09__b5__se__05",
+      "unit": "gregmat09__b5",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence gives only one signal — that the description is extremely detailed — and four options satisfy it. \"Meticulous,\" \"painstaking,\" \"scrupulous,\" and \"thorough\" all fit the context of recording glaze colour, weight to the tenth of a gram, and chip angles, and they produce sentences of essentially equivalent meaning. A test-taker could defensibly pair meticulous/scrupulous, painstaking/thorough, meticulous/thorough, etc. Only \"cursory\" (opposite) and \"finicky\" (pejorative fussiness, awkward here) are clearly excluded, leaving no unique pair. To fix it, the sentence needs a discriminating cue — e.g. emphasis on the labour/effort involved (favouring painstaking) or on ethical care/exhaustive coverage — and the extra near-synonyms should be cut.",
+      "stem": "The catalogue's value lies less in its interpretive ambition than in its {1} description of every fragment: glaze colour, weight to the tenth of a gram, and the exact angle of each chip."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"scathing\" is a second defensible answer. The clues (praising the editor's talent for making enemies, mourners attending to verify he is dead) describe harsh, cutting criticism, which \"scathing\" names directly; \"laughing\" does not exclude it, since scathing satire commonly provokes laughter. \"Mordant\" is better only because it additionally encodes the mordacious humor implied by \"laughing and uneasy,\" but that is a best-fit distinction, not an exclusion. The sentence needs a clause that requires wit/dark comedy (e.g., barbs delivered affectionately, or mourners unsure whether they were being consoled or entertained) to rule out \"scathing.\"",
+      "stem": "Even the eulogy was {1}: he praised the dead editor's genius for making enemies, remarked on the impressive turnout of people who had come to confirm the news, and left the congregation laughing and uneasy at once."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence does not discriminate among the options — all five are near-synonyms for painstaking attention to detail. \"Meticulous,\" \"scrupulous,\" and \"punctilious\" are essentially interchangeable here (all fit \"measured to the millimetre and checked twice over\"), and \"exhaustive\"/\"thorough\" fit \"every hairline crack\" equally well. There is no contextual axis (coverage vs. precision, moral vs. procedural care, positive vs. pejorative connotation) that rules any of them out, so at least three answers are defensible. As a cloze item it is unusable; it would only work as Sentence Equivalence, and even then the option set contains too many mutually valid pairs.",
+      "stem": "The report ran to eleven pages and advanced no general conclusions; what won it a following among conservators was its {1} notation of every hairline crack, measured to the millimetre and checked against the previous survey twice over."
+    }
+  ]
+}

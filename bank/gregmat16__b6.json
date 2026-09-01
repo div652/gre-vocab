@@ -1,0 +1,209 @@
+{
+  "unit": "gregmat16__b6",
+  "gregmat_group": 16,
+  "words": [
+    "skittish",
+    "superfluous",
+    "synoptic",
+    "thorough"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The board's reassurances were {1}: the market had absorbed the merger news weeks earlier, and any further statement risked unsettling shareholders so {2} that a routine footnote in the quarterly filing could touch off a selloff.",
+      "blanks": [
+        {
+          "options": [
+            "superfluous",
+            "indispensable",
+            "imperative"
+          ],
+          "answers": [
+            "superfluous"
+          ]
+        },
+        {
+          "options": [
+            "skittish",
+            "imperturbable",
+            "intrepid"
+          ],
+          "answers": [
+            "skittish"
+          ]
+        }
+      ],
+      "words": [
+        "superfluous",
+        "skittish"
+      ],
+      "explanation": "Because the news had already been absorbed, one more statement is simply more than the situation required — superfluous; indispensable and imperative both assert the opposite. The second blank must explain why speech is dangerous, and skittish supplies the hair trigger, a reaction wildly out of proportion to its cause; imperturbable shareholders would ignore a footnote entirely.",
+      "id": "gregmat16__b6__tc2__00",
+      "unit": "gregmat16__b6",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers admired the biography's {1} handling of the campaign years — no ledger unopened, no surviving correspondent left uninterviewed — yet regretted that it never paused for a {2} chapter setting those years against the politics of the century as a whole.",
+      "blanks": [
+        {
+          "options": [
+            "thorough",
+            "cursory",
+            "haphazard"
+          ],
+          "answers": [
+            "thorough"
+          ]
+        },
+        {
+          "options": [
+            "synoptic",
+            "meticulous",
+            "punctilious"
+          ],
+          "answers": [
+            "synoptic"
+          ]
+        }
+      ],
+      "words": [
+        "thorough",
+        "synoptic"
+      ],
+      "explanation": "The dashes itemize full coverage of the process — everywhere gone, everything checked — which is precisely thorough, while cursory and haphazard describe the opposite habit. The second blank names what such coverage still lacks, a wide vantage on the whole; meticulous and punctilious would only repeat the fine-grained care the book already has, whereas synoptic is about breadth of view rather than fineness of finish.",
+      "id": "gregmat16__b6__tc2__01",
+      "unit": "gregmat16__b6",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Having already made the same argument at length in his opening remarks, the senator found the rebuttal he had prepared for the afternoon session {1}, and he sat down without delivering a word of it.",
+      "blanks": [
+        {
+          "options": [
+            "redundant",
+            "indispensable",
+            "superfluous",
+            "premature",
+            "imperative",
+            "injudicious"
+          ],
+          "answers": [
+            "superfluous",
+            "redundant"
+          ]
+        }
+      ],
+      "words": [
+        "superfluous"
+      ],
+      "explanation": "Since the ground has been covered already, the speech is one item more than the occasion required, and both superfluous and redundant yield that sense of a thing not needed because it adds nothing new. Indispensable and imperative form a tempting pair but assert exactly the reverse; premature is contradicted by \"already,\" and injudicious would fault the speech's wisdom rather than its necessity.",
+      "id": "gregmat16__b6__se__02",
+      "unit": "gregmat16__b6",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Once observers across the continent began wiring their barometer readings to a single office, a forecaster could at last draw one {1} chart on which the whole pressure field stood visible as it had been at a single hour.",
+      "blanks": [
+        {
+          "options": [
+            "synoptic",
+            "cursory",
+            "exhaustive",
+            "distilled",
+            "punctilious"
+          ],
+          "answers": [
+            "synoptic"
+          ]
+        }
+      ],
+      "words": [
+        "synoptic"
+      ],
+      "explanation": "The chart's virtue is width and simultaneity — every region seen together from above — which is what synoptic denotes, and meteorologists use the term in exactly this sense. Exhaustive is the nearest trap, but it claims completeness of detail rather than a whole surveyed at once, and distilled would suggest the opposite operation, boiling the data down rather than laying it all out.",
+      "id": "gregmat16__b6__cloze__04",
+      "unit": "gregmat16__b6",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Placid enough under saddle to be trusted with a beginner, the mare was nonetheless {1}: a wheelbarrow tipping over three paddocks away would send her careening down the fence line.",
+      "blanks": [
+        {
+          "options": [
+            "skittish",
+            "timorous",
+            "craven",
+            "irresolute",
+            "indolent"
+          ],
+          "answers": [
+            "skittish"
+          ]
+        }
+      ],
+      "words": [
+        "skittish"
+      ],
+      "explanation": "The sentence insists the animal is ordinarily calm and then supplies a trivial trigger and an explosive response, which is the signature of skittish: reactivity out of all proportion to the threat. Timorous, the closest competitor, names a settled fearful disposition and is ruled out by \"placid enough to be trusted with a beginner\"; craven implies moral cowardice, which no horse can be charged with.",
+      "id": "gregmat16__b6__cloze__05",
+      "unit": "gregmat16__b6",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "The new director's first act was to commission a {1} survey of the museum's holdings — not another inventory of a single wing, but one account in which the entire collection could be seen together — a project her predecessor, {2} about anything that might expose past deaccessions, had quietly shelved twice.",
+      "blanks": [
+        {
+          "options": [
+            "synoptic",
+            "exhaustive",
+            "cursory"
+          ],
+          "answers": [
+            "synoptic"
+          ]
+        },
+        {
+          "options": [
+            "skittish",
+            "imperturbable",
+            "sanguine"
+          ],
+          "answers": [
+            "skittish"
+          ]
+        }
+      ],
+      "words": [
+        "synoptic",
+        "skittish"
+      ],
+      "explanation": "The appositive contrasts the survey not with an incomplete count but with a piecemeal one, so what is wanted is breadth and simultaneity of view: synoptic, where exhaustive would promise fullness of detail without the single vantage. The predecessor's repeated shelving is flinching rather than reasoning, which skittish captures; imperturbable and sanguine would both describe someone untroubled by the prospect and so explain nothing.",
+      "id": "gregmat16__b6__tc2__07",
+      "unit": "gregmat16__b6",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three positive options are mutually substitutable: thorough, meticulous, and exhaustive. The intended pair is presumably thorough/exhaustive (completeness), with meticulous as a distractor meaning \"painstakingly careful about detail\" — but the sentence does not enforce that distinction. \"Every ledger re-audited\" and \"every lead run to ground\" support painstaking care just as well as comprehensive scope, and thorough/meticulous are near-synonyms in ordinary usage. A test-taker choosing meticulous + exhaustive (or meticulous + thorough) produces a sentence of essentially the same meaning and would be marked wrong. Fix by removing meticulous, or by adding a cue that isolates scope over care (e.g., contrasting the original inquiry's narrow remit).",
+      "stem": "The commission's final report was {1}: every witness re-interviewed, every ledger re-audited, every lead the original inquiry had abandoned run to ground."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The logic (one clerk could have done the whole job, so a third auditor is one more body than the work requires) points to \"superfluous\" — exceeding what is needed — and \"indispensable\" (opposite) and \"dilatory\" (slow; unrelated) are clearly out. The defect is that \"extraneous\" is also defensible: in standard usage it means \"not forming an essential or vital part\" and is routinely treated as a synonym of \"superfluous\" (the two are a classic Sentence Equivalence pair). Nothing in the sentence forces the excess-in-number sense over the not-essential sense — the \"however capable he proved\" clause does no discriminating work, since capability is irrelevant to both readings. A reasonable test-taker could pick \"extraneous\" and be marked wrong. To fix, replace \"extraneous\" with a word that cannot mean \"unnecessary\" (e.g., \"meticulous\", \"peripheral\" is also risky — better \"officious\" or \"ancillary\"-free choice), or convert the item to Sentence Equivalence with superfluous/extraneous as the intended pair. (\"Gratuitous\" is a weaker distractor — it means unwarranted/uncalled-for and normally modifies acts or remarks, not a person.)",
+      "stem": "One clerk could have reconciled the parish accounts in a morning, so the third auditor the vestry appointed, however capable he proved, was simply {1}."
+    }
+  ]
+}

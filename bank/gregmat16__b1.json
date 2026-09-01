@@ -1,0 +1,224 @@
+{
+  "unit": "gregmat16__b1",
+  "gregmat_group": 16,
+  "words": [
+    "crestfallen",
+    "curtail",
+    "elucidate",
+    "evade"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The emergency statute did not abolish the right of assembly so much as {1} it — marches were still permitted, but for one hour and only on routes the police approved — and ministers {2} every question about when the limits would lapse, offering assurances carefully shaped to sound like answers.",
+      "blanks": [
+        {
+          "options": [
+            "curtail",
+            "quash",
+            "amplify"
+          ],
+          "answers": [
+            "curtail"
+          ]
+        },
+        {
+          "options": [
+            "evaded",
+            "elucidated",
+            "entertained"
+          ],
+          "answers": [
+            "evaded"
+          ]
+        }
+      ],
+      "words": [
+        "curtail",
+        "evade"
+      ],
+      "explanation": "\"Did not abolish ... so much as\" demands a word for cutting something down while leaving it alive, which is curtail; quash would abolish outright and so contradicts the concession, and amplify reverses it. In blank 2, answers \"shaped to sound like answers\" describe bad-faith dodging of a legitimate claim — evaded — whereas elucidated would mean the ministers actually made the matter clear and entertained would mean they took the questions up.",
+      "id": "gregmat16__b1__tc2__01",
+      "unit": "gregmat16__b1",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "The new statute stopped short of repealing the right of appeal; it merely {1} it, admitting petitions only within a fourteen-day window and only from parties already represented by counsel.",
+      "blanks": [
+        {
+          "options": [
+            "curtailed",
+            "abridged",
+            "quashed",
+            "suspended",
+            "augmented",
+            "codified"
+          ],
+          "answers": [
+            "curtailed",
+            "abridged"
+          ]
+        }
+      ],
+      "words": [
+        "curtail"
+      ],
+      "explanation": "Because the right survives in reduced form, the blank needs a verb of imposed shortening: curtailed and abridged are the standard legal pair for cutting back a right without extinguishing it. Quashed and suspended would end or halt the right altogether, contradicting \"stopped short of repealing\"; augmented reverses the sense, and codified fits the register but describes writing a rule down rather than trimming it.",
+      "id": "gregmat16__b1__se__02",
+      "unit": "gregmat16__b1",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Pressed on whether the ministry had known of the contamination before the wells were sunk, the spokesman {1} the question for a full twenty minutes, speaking at length without ever conceding a date.",
+      "blanks": [
+        {
+          "options": [
+            "evaded",
+            "skirted",
+            "belabored",
+            "entertained",
+            "obfuscated",
+            "curtailed"
+          ],
+          "answers": [
+            "evaded",
+            "skirted"
+          ]
+        }
+      ],
+      "words": [
+        "evade"
+      ],
+      "explanation": "Speaking at length while never answering is dodging something that had a claim on him, so evaded and skirted are the equivalent pair. Belabored (dwelt on it exhaustively) and entertained (took it up seriously) fit grammatically but reverse the point; obfuscated describes muddying content rather than slipping past a demand, and curtailed contradicts the twenty minutes of talk.",
+      "id": "gregmat16__b1__se__03",
+      "unit": "gregmat16__b1",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Told at the door that the auditions had closed an hour early, she went from chattering excitement to {1} silence in the space of a sentence — though by the time the bus came she was laughing about it.",
+      "blanks": [
+        {
+          "options": [
+            "crestfallen",
+            "morose",
+            "lugubrious",
+            "sardonic",
+            "plaintive"
+          ],
+          "answers": [
+            "crestfallen"
+          ]
+        }
+      ],
+      "words": [
+        "crestfallen"
+      ],
+      "explanation": "The sentence supplies both a prior high and an instant, visible collapse that passes within minutes, which is exactly what crestfallen names. Morose and lugubrious describe settled dispositions — sullen gloom and funereal mournfulness — that cannot arise and dissolve inside a bus wait, and sardonic and plaintive name mockery and complaint rather than deflation.",
+      "id": "gregmat16__b1__cloze__04",
+      "unit": "gregmat16__b1",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Asked to {1} the clause that had already baffled two lower courts, counsel instead {2} it, retreating into a fog of qualifications that left the bench no better informed than when the hearing began.",
+      "blanks": [
+        {
+          "options": [
+            "elucidate",
+            "curtail",
+            "evade"
+          ],
+          "answers": [
+            "elucidate"
+          ]
+        },
+        {
+          "options": [
+            "obfuscated",
+            "delineated",
+            "distilled"
+          ],
+          "answers": [
+            "obfuscated"
+          ]
+        }
+      ],
+      "words": [
+        "elucidate"
+      ],
+      "explanation": "A clause that has baffled two courts is already stated but impenetrable, so what is wanted is sustained expert unpacking — elucidate — not shortening it (curtail) or dodging it (evade, which takes a claim or a pursuer, not a text needing explanation). Blank 2 must name the opposite outcome, and a fog of qualifications that informs no one is obfuscation; delineated and distilled would both have satisfied the court's request.",
+      "id": "gregmat16__b1__tc2__05",
+      "unit": "gregmat16__b1",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "The lectures are prized less for any discovery of Feynman's own than for the patience with which he {1} arguments that generations of textbooks had left impenetrable.",
+      "blanks": [
+        {
+          "options": [
+            "elucidated",
+            "explicated",
+            "delineated",
+            "articulated",
+            "obscured",
+            "abridged"
+          ],
+          "answers": [
+            "elucidated",
+            "explicated"
+          ]
+        }
+      ],
+      "words": [
+        "elucidate"
+      ],
+      "explanation": "\"Left impenetrable\" plus \"patience\" points to sustained explanation of matter that was already on the page but opaque: elucidated and explicated are the equivalent pair. Delineated concerns marking out boundaries and articulated concerns putting something into words for the first time — neither addresses prior difficulty — while obscured reverses the sense and abridged means only that he made the arguments shorter.",
+      "id": "gregmat16__b1__se__06",
+      "unit": "gregmat16__b1",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "A stress fracture {1} a career that selectors had expected to run another five seasons: she played on at reduced pace for two more years and then retired.",
+      "blanks": [
+        {
+          "options": [
+            "curtailed",
+            "quashed",
+            "curbed",
+            "circumscribed",
+            "abated"
+          ],
+          "answers": [
+            "curtailed"
+          ]
+        }
+      ],
+      "words": [
+        "curtail"
+      ],
+      "explanation": "The career continues but in shortened form, and the cut is imposed from outside and unwelcome — the precise sense of curtailed. Quashed would mean the career was ended outright, curbed means held in check rather than shortened, circumscribed would mean its limits were fixed in advance, and abated describes something dying down of its own accord.",
+      "id": "gregmat16__b1__cloze__07",
+      "unit": "gregmat16__b1",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['ebullient', 'morose'] vs ['crestfallen', 'morose']",
+      "problem": "Blank 1 is underdetermined. Blank 2 is fine — \"in triumph and rebuff alike\" plus \"stony silence\" forces an invariant gloom, so only \"morose\" works. But nothing in the sentence reveals whether the grant was actually renewed, so both \"ebullient\" (fronted participle read causally: assured, and duly delighted) and \"crestfallen\" (read concessively: assured for weeks, then blindsided) fit. Indeed, the second clause insists the outcome is unreadable from the director and explicitly entertains both \"triumph and rebuff,\" keeping both outcomes live. There is no adversative (\"yet,\" \"despite\") to force the ironic reading and no confirmation (\"as promised\") to force the straight one, so a test-taker choosing \"crestfallen\" would be marked wrong on a sentence that never excluded it. Fix by pinning the outcome in the opening clause, e.g. \"...and finding those assurances honored\" (→ ebullient) or \"...only to learn otherwise\" (→ crestfallen).",
+      "stem": "Assured for weeks that the grant would be renewed, the postdocs filed out of the committee room visibly {1}; the director's stony silence, by contrast, told the visitors nothing, since colleagues had long since stopped reading anything into a {2} manner he wore in triumph and rebuff alike."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat13__b2",
+  "gregmat_group": 13,
+  "words": [
+    "credible",
+    "diffuse",
+    "documentary",
+    "exhaustive"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Intelligence officers are trained to describe such a warning as {1} rather than {2}: the phrasing concedes that no independent source has yet confirmed a word of it, while still committing the agency to act on it tonight.",
+      "blanks": [
+        {
+          "options": [
+            "credible",
+            "specious",
+            "spurious"
+          ],
+          "answers": [
+            "credible"
+          ]
+        },
+        {
+          "options": [
+            "incontrovertible",
+            "plausible",
+            "conjectural"
+          ],
+          "answers": [
+            "incontrovertible"
+          ]
+        }
+      ],
+      "words": [
+        "credible"
+      ],
+      "explanation": "The sentence needs a word that falls short of proof yet justifies action — credible is exactly that threshold, whereas specious and spurious would forbid acting at all. The contrasted term must be the one that overclaims, so incontrovertible is required; plausible and conjectural sit below credible, not above it, and would make the concession clause pointless.",
+      "id": "gregmat13__b2__tc2__00",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Although the early dating of the manuscript rests on nothing firmer than the style of its script, the argument is {1} enough that several editors have provisionally adopted it pending further evidence.",
+      "blanks": [
+        {
+          "options": [
+            "credible",
+            "plausible",
+            "incontrovertible",
+            "specious",
+            "conjectural",
+            "tendentious"
+          ],
+          "answers": [
+            "credible",
+            "plausible"
+          ]
+        }
+      ],
+      "words": [
+        "credible"
+      ],
+      "explanation": "The editors adopt the dating provisionally, so the sentence needs a word meaning believable-but-unproven: credible and plausible both clear that bar and yield the same sentence. Incontrovertible contradicts the admission of thin evidence; specious would mean the argument is actually false, which the sentence never says; conjectural and tendentious would explain rejection, not adoption.",
+      "id": "gregmat13__b2__se__01",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "The catalogue raisonné is {1} — every surviving sheet is entered, down to the studio scraps — and yet its commentary is so {2} that one closes each entry with every detail in hand and no point in view.",
+      "blanks": [
+        {
+          "options": [
+            "exhaustive",
+            "cursory",
+            "desultory"
+          ],
+          "answers": [
+            "exhaustive"
+          ]
+        },
+        {
+          "options": [
+            "diffuse",
+            "elliptical",
+            "mordant"
+          ],
+          "answers": [
+            "diffuse"
+          ]
+        }
+      ],
+      "words": [
+        "exhaustive",
+        "diffuse"
+      ],
+      "explanation": "The parenthesis defines total coverage of a finite set, which is precisely exhaustive; cursory and desultory describe the opposite of complete. The second blank is diagnosed by \"every detail in hand and no point in view\" — material all present but pooled nowhere, the signature of diffuse; elliptical would mean details are omitted, and mordant describes a biting tone the sentence never suggests.",
+      "id": "gregmat13__b2__tc2__02",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "The framers designed the constitution less to fortify the executive than to {1} authority among a dozen provincial assemblies, so that no single office could move without the acquiescence of the rest.",
+      "blanks": [
+        {
+          "options": [
+            "diffuse",
+            "disperse",
+            "consolidate",
+            "entrench",
+            "propagate",
+            "delineate"
+          ],
+          "answers": [
+            "diffuse",
+            "disperse"
+          ]
+        }
+      ],
+      "words": [
+        "diffuse"
+      ],
+      "explanation": "Authority is being spread out until no one holder is strong, so diffuse and disperse both work and mean the same thing here. Consolidate and entrench are grammatically and tonally natural but reverse the sense; propagate means to multiply or transmit rather than to distribute an existing store; delineate concerns marking boundaries, not scattering power.",
+      "id": "gregmat13__b2__se__03",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the estate's claim rested entirely on {1} evidence — deeds, tax rolls, a notarized bill of sale — the court was spared any need to weigh the {2} of the surviving tenants, whose recollections of the transfer differed sharply from one another.",
+      "blanks": [
+        {
+          "options": [
+            "documentary",
+            "circumstantial",
+            "figurative"
+          ],
+          "answers": [
+            "documentary"
+          ]
+        },
+        {
+          "options": [
+            "veracity",
+            "verisimilitude",
+            "erudition"
+          ],
+          "answers": [
+            "veracity"
+          ]
+        }
+      ],
+      "words": [
+        "documentary"
+      ],
+      "explanation": "The listed items are written records placed in a folder, which is what documentary evidence means; circumstantial evidence is indirect inference, and these deeds prove the transfer directly. The second blank concerns whether people are telling the truth — veracity — not whether an account merely seems lifelike, which is verisimilitude, nor how learned the tenants were.",
+      "id": "gregmat13__b2__tc2__04",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians of the medieval peasantry labor under a permanent handicap: the {1} record was compiled by and for landlords, so tenants surface only as names ruled into someone else's ledger.",
+      "blanks": [
+        {
+          "options": [
+            "documentary",
+            "testimonial",
+            "anecdotal",
+            "figurative",
+            "apocryphal"
+          ],
+          "answers": [
+            "documentary"
+          ]
+        }
+      ],
+      "words": [
+        "documentary"
+      ],
+      "explanation": "A ledger is a written instrument, so the record in question is documentary — based on papers rather than on anyone's spoken account. Testimonial is the exact contrast the word implies, evidence that walks into court and talks, and is ruled out by the ledger; anecdotal and apocryphal describe unverified stories, not estate accounts.",
+      "id": "gregmat13__b2__cloze__05",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Ellmann's life of Joyce is {1}: there is scarcely a letter, a laundry bill, or an overheard remark from the Trieste years that fails to turn up somewhere in its nine hundred pages.",
+      "blanks": [
+        {
+          "options": [
+            "exhaustive",
+            "encyclopedic",
+            "painstaking",
+            "erudite",
+            "cursory",
+            "tendentious"
+          ],
+          "answers": [
+            "exhaustive",
+            "encyclopedic"
+          ]
+        }
+      ],
+      "words": [
+        "exhaustive"
+      ],
+      "explanation": "The evidence offered is that nothing whatever has been left out, a claim about coverage, and exhaustive and encyclopedic both make that claim. Painstaking would praise the care taken rather than the completeness achieved, and erudite the author's learning; cursory and tendentious contradict the sentence outright.",
+      "id": "gregmat13__b2__se__06",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Burke's late pamphlets are prolix but never {1}: however many pages he consumes, every paragraph is bent toward the same conclusion, and the reader is never in doubt about where the argument is going.",
+      "blanks": [
+        {
+          "options": [
+            "diffuse",
+            "trenchant",
+            "verbose",
+            "cogent",
+            "laconic"
+          ],
+          "answers": [
+            "diffuse"
+          ]
+        }
+      ],
+      "words": [
+        "diffuse"
+      ],
+      "explanation": "The sentence turns on the distinction between too many words and no centre: Burke is granted the first fault and denied the second, which is diffuse. Verbose merely restates prolix and so cannot be the thing contrasted with it; trenchant and cogent are praise and would make \"never\" nonsensical; laconic contradicts prolix.",
+      "id": "gregmat13__b2__cloze__07",
+      "unit": "gregmat13__b2",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": []
+}

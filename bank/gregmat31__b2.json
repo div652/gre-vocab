@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat31__b2",
+  "gregmat_group": 31,
+  "words": [
+    "extenuating",
+    "frenetic",
+    "fringe",
+    "hapless"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The tribunal declined to {1} the officer outright, but it accepted that the collapse of the chain of command on the night in question was an {2} circumstance, and cut his sentence by half.",
+      "blanks": [
+        {
+          "options": [
+            "exonerate",
+            "censure",
+            "stigmatize"
+          ],
+          "answers": [
+            "exonerate"
+          ]
+        },
+        {
+          "options": [
+            "extenuating",
+            "exculpatory",
+            "immaterial"
+          ],
+          "answers": [
+            "extenuating"
+          ]
+        }
+      ],
+      "words": [
+        "extenuating"
+      ],
+      "explanation": "The verdict stands and only the punishment shrinks, so the tribunal refused a full clearing (exonerate) while granting a partial excuse (extenuating). Censure and stigmatize invert the logic — had he been spared blame there would be no sentence left to halve — and exculpatory would clear him entirely, contradicting the retained conviction; immaterial facts would move the sentence not at all.",
+      "id": "gregmat31__b2__tc2__00",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Her counsel offered the untreated illness and the months of withheld wages not as a defence but as {1} facts, hoping the judge would shorten the sentence rather than cancel it.",
+      "blanks": [
+        {
+          "options": [
+            "extenuating",
+            "mitigating",
+            "exculpatory",
+            "exonerating",
+            "damning",
+            "incidental"
+          ],
+          "answers": [
+            "extenuating",
+            "mitigating"
+          ]
+        }
+      ],
+      "words": [
+        "extenuating"
+      ],
+      "explanation": "Extenuating and mitigating both mean supplying a partial excuse that reduces blame or penalty while leaving guilt intact, which is exactly what \"not as a defence\" and \"shorten rather than cancel\" specify. Exculpatory and exonerating are themselves a tempting synonym pair, but they claim innocence outright and so contradict the sentence's own framing; damning reverses the direction and incidental would give the judge no reason to shorten anything.",
+      "id": "gregmat31__b2__se__01",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "Photographs taken on the exchange floor at the height of the panic show a {1} scramble of arms and torn order slips, an image hard to reconcile with the {2} marble lobby one flight below, where a porter goes on polishing the brass.",
+      "blanks": [
+        {
+          "options": [
+            "frenetic",
+            "languid",
+            "quiescent"
+          ],
+          "answers": [
+            "frenetic"
+          ]
+        },
+        {
+          "options": [
+            "placid",
+            "tempestuous",
+            "restive"
+          ],
+          "answers": [
+            "placid"
+          ]
+        }
+      ],
+      "words": [
+        "frenetic"
+      ],
+      "explanation": "\"Hard to reconcile\" demands opposed pictures: chaotic speed above, undisturbed calm below, and the polishing porter fixes the second blank as placid. Languid and quiescent describe the wrong floor, while tempestuous and restive would make the lobby agitated too and destroy the contrast the sentence is built on.",
+      "id": "gregmat31__b2__tc2__02",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "Balanchine's late ballets abandoned the long romantic line for a {1} attack — step piled on step at a tempo the corps could barely survive, let alone phrase.",
+      "blanks": [
+        {
+          "options": [
+            "frenetic",
+            "languid",
+            "ponderous",
+            "plodding",
+            "subdued"
+          ],
+          "answers": [
+            "frenetic"
+          ]
+        }
+      ],
+      "words": [
+        "frenetic"
+      ],
+      "explanation": "The clause after the dash specifies extreme speed and an overload of material, which is precisely what frenetic names: pace beyond any visible governor. Languid and subdued describe low energy, while ponderous and plodding describe heaviness and slowness — the opposite of a tempo dancers can barely survive.",
+      "id": "gregmat31__b2__cloze__03",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "For three decades continental drift was relegated to the {1} of geology, sneered at in the respectable journals as a mapmaker's daydream; then the seafloor magnetic surveys of the 1960s carried it, within a single decade, into the {2} of the discipline.",
+      "blanks": [
+        {
+          "options": [
+            "fringe",
+            "vanguard",
+            "bedrock"
+          ],
+          "answers": [
+            "fringe"
+          ]
+        },
+        {
+          "options": [
+            "orthodoxy",
+            "heterodoxy",
+            "obscurity"
+          ],
+          "answers": [
+            "orthodoxy"
+          ]
+        }
+      ],
+      "words": [
+        "fringe"
+      ],
+      "explanation": "The sentence traces a movement from outside the bounds of legitimacy to the settled centre, so fringe pairs with orthodoxy. Vanguard and bedrock both confer prestige and cannot follow \"sneered at,\" while heterodoxy and obscurity would leave the theory where it started and cancel the \"then\" that marks the reversal.",
+      "id": "gregmat31__b2__tc2__04",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "The commission's report took care to separate the mainstream conservation societies from the {1} groups that had begun spiking trees and burning equipment, tactics the movement's own officers publicly disavowed.",
+      "blanks": [
+        {
+          "options": [
+            "fringe",
+            "staid",
+            "conventional",
+            "hidebound",
+            "quiescent"
+          ],
+          "answers": [
+            "fringe"
+          ]
+        }
+      ],
+      "words": [
+        "fringe"
+      ],
+      "explanation": "The groups are set against the mainstream and their methods are repudiated by the movement's leadership, which is the exact position fringe names: outside the boundary of accepted legitimacy. Staid, conventional and hidebound all place the groups at or behind the centre, and quiescent contradicts the arson and sabotage described.",
+      "id": "gregmat31__b2__cloze__05",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "The novel's comedy depends entirely on its {1} narrator, a clerk to whom things merely happen: every scheme of his employer's miscarries in his hands, while every {2} turn of the plot — an unexpected legacy, a rainstorm that arrives at just the right moment — is reserved for somebody else.",
+      "blanks": [
+        {
+          "options": [
+            "hapless",
+            "tempestuous",
+            "iconoclastic"
+          ],
+          "answers": [
+            "hapless"
+          ]
+        },
+        {
+          "options": [
+            "serendipitous",
+            "calamitous",
+            "blighted"
+          ],
+          "answers": [
+            "serendipitous"
+          ]
+        }
+      ],
+      "words": [
+        "hapless"
+      ],
+      "explanation": "The legacy and the well-timed rainstorm are strokes of good fortune, so the second blank is serendipitous, and the fact that they always land on someone else makes the passive, comically unlucky narrator hapless. Tempestuous and iconoclastic imply an agent who acts, contradicting \"to whom things merely happen,\" while calamitous or blighted would make those windfalls disasters.",
+      "id": "gregmat31__b2__tc2__06",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "The expedition's diaries quietly turn the {1} quartermaster into a running joke: the one sledge he loaded went through the ice, and the one rifle he cleaned jammed at the moment of firing.",
+      "blanks": [
+        {
+          "options": [
+            "hapless",
+            "luckless",
+            "providential",
+            "fortuitous",
+            "indomitable",
+            "calamitous"
+          ],
+          "answers": [
+            "hapless",
+            "luckless"
+          ]
+        }
+      ],
+      "words": [
+        "hapless"
+      ],
+      "explanation": "Misfortune keeps landing on the quartermaster while he stands there taking it, and the diarists find it faintly funny — hapless and luckless both carry that passive, pitiable-but-comic bad luck. Providential and fortuitous form a matching pair in the opposite direction, indomitable praises a resilience the anecdotes deny him, and calamitous would blame him for causing disasters rather than suffering them.",
+      "id": "gregmat31__b2__se__07",
+      "unit": "gregmat31__b2",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": []
+}

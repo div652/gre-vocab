@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat35__b3",
+  "gregmat_group": 35,
+  "words": [
+    "impenetrable",
+    "impervious",
+    "inalienable",
+    "inept"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers praised the monograph's opening chapters as models of {1} exposition, but the technical appendix, thick with undefined notation and unexplained shorthand, proved {2} even to specialists who had spent whole careers in the field.",
+      "blanks": [
+        {
+          "options": [
+            "lucid",
+            "turbid",
+            "convoluted"
+          ],
+          "answers": [
+            "lucid"
+          ]
+        },
+        {
+          "options": [
+            "impenetrable",
+            "coherent",
+            "prolix"
+          ],
+          "answers": [
+            "impenetrable"
+          ]
+        }
+      ],
+      "words": [
+        "impenetrable"
+      ],
+      "explanation": "The contrastive \"but\" pairs praise with failure: the chapters are clear (lucid), while the appendix defeats even experts, so effort buys nothing — impenetrable. Turbid and convoluted would make the first clause a criticism, destroying the contrast, and coherent reverses the second; prolix (wordy) names a different fault and would not defeat a specialist, only bore one.",
+      "id": "gregmat35__b3__tc2__00",
+      "unit": "gregmat35__b3",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "His manners were impeccable and no one recalled him giving offense, but as a negotiator he was strikingly {1}: he mistook a routine courtesy for a substantive concession and left the two delegations further apart than he had found them.",
+      "blanks": [
+        {
+          "options": [
+            "inept",
+            "maladroit",
+            "boorish",
+            "gauche",
+            "adroit",
+            "imperious"
+          ],
+          "answers": [
+            "inept",
+            "maladroit"
+          ]
+        }
+      ],
+      "words": [
+        "inept"
+      ],
+      "explanation": "The sentence explicitly clears him of rudeness and indicts only his handling of the task, so the blank must mean bunglingly incompetent: inept and maladroit both give that. Gauche and boorish are about breaches of decorum, which the first clause rules out; adroit reverses the sense, and imperious describes overbearing manner rather than failed skill.",
+      "id": "gregmat35__b3__se__01",
+      "unit": "gregmat35__b3",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "The new director's manner was frankly {1} — orders issued without explanation, countermanded without apology — yet she seemed oddly {2} to the resentment this bred, continuing as though the murmuring in the corridors were simply inaudible.",
+      "blanks": [
+        {
+          "options": [
+            "imperious",
+            "imperative",
+            "inept"
+          ],
+          "answers": [
+            "imperious"
+          ]
+        },
+        {
+          "options": [
+            "impervious",
+            "inscrutable",
+            "indispensable"
+          ],
+          "answers": [
+            "impervious"
+          ]
+        }
+      ],
+      "words": [
+        "impervious"
+      ],
+      "explanation": "The unexplained, unapologetic orders describe a domineering manner (imperious); imperative means urgent or commanded rather than commanding in temperament, and inept would not follow from decisive orders. The second blank needs the resentment to strike her without effect — impervious — while inscrutable would mean she could not be read and indispensable is nonsense with \"to the resentment.\"",
+      "id": "gregmat35__b3__tc2__03",
+      "unit": "gregmat35__b3",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Locke's case rests on the claim that certain rights are not merely protected against seizure but {1}: a man cannot bargain them away even by his own deliberate consent.",
+      "blanks": [
+        {
+          "options": [
+            "inalienable",
+            "immutable",
+            "ironclad",
+            "inviolable",
+            "indelible"
+          ],
+          "answers": [
+            "inalienable"
+          ]
+        }
+      ],
+      "words": [
+        "inalienable"
+      ],
+      "explanation": "The colon defines the blank as non-transferability by the holder himself, which is exactly what inalienable adds to ordinary protection. Immutable and indelible concern resistance to change or erasure over time, ironclad merely means airtight, and inviolable describes what others may not breach — none of them limits the right-holder's own power to sign the right away.",
+      "id": "gregmat35__b3__cloze__04",
+      "unit": "gregmat35__b3",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "The court drew a sharp line between the two claims: the boundary, fixed by the 1889 treaty and thereafter {1}, could not be redrawn to suit either government's convenience, whereas the villagers' right of passage was {2}, a claim they could not have given up even had they put their names to the developer's contract.",
+      "blanks": [
+        {
+          "options": [
+            "immutable",
+            "inalienable",
+            "provisional"
+          ],
+          "answers": [
+            "immutable"
+          ]
+        },
+        {
+          "options": [
+            "inalienable",
+            "ironclad",
+            "revocable"
+          ],
+          "answers": [
+            "inalienable"
+          ]
+        }
+      ],
+      "words": [
+        "inalienable"
+      ],
+      "explanation": "A boundary line resists alteration, so it is immutable; inalienable attaches to rights and means unsurrenderable by the holder, which a line on a map cannot be, and provisional contradicts \"could not be redrawn.\" The second blank is glossed by a clause about the villagers' own inability to surrender the right — the defining force of inalienable — where ironclad would say only that the right is firmly established, and revocable reverses it.",
+      "id": "gregmat35__b3__tc2__05",
+      "unit": "gregmat35__b3",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Though {1} enough at the bench — his glassware immaculate, his titrations exact — he became hopelessly {2} the moment he had to defend the work aloud, mumbling through questions he had answered in print a dozen times.",
+      "blanks": [
+        {
+          "options": [
+            "deft",
+            "inept",
+            "feckless"
+          ],
+          "answers": [
+            "deft"
+          ]
+        },
+        {
+          "options": [
+            "inept",
+            "adroit",
+            "imperious"
+          ],
+          "answers": [
+            "inept"
+          ]
+        }
+      ],
+      "words": [
+        "inept"
+      ],
+      "explanation": "The dash-clause documents precise, skilled handiwork, so the first blank must be deft; inept and feckless both deny competence and would contradict the immaculate glassware. \"Though\" then demands the opposite quality when he speaks — visible, embarrassing incompetence, or inept — while adroit repeats the first blank's sense and imperious describes overbearing authority, not fumbling.",
+      "id": "gregmat35__b3__tc2__06",
+      "unit": "gregmat35__b3",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "Throughout two days of cross-examination his expression never altered: the jurors could read in it neither alarm at the prosecutor's disclosures nor relief at his own counsel's objections, and they retired complaining that the man had remained {1}.",
+      "blanks": [
+        {
+          "options": [
+            "impenetrable",
+            "inscrutable",
+            "guileless",
+            "imperious",
+            "animated",
+            "limpid"
+          ],
+          "answers": [
+            "impenetrable",
+            "inscrutable"
+          ]
+        }
+      ],
+      "words": [
+        "impenetrable"
+      ],
+      "explanation": "The jurors can extract no feeling at all from the face, so the blank must mean giving nothing away: impenetrable and inscrutable are equivalent here. Guileless and limpid describe a transparent, readable candor — the opposite of what the jurors report — while animated contradicts \"never altered,\" and imperious would describe a haughty bearing rather than an unreadable one.",
+      "id": "gregmat35__b3__se__07",
+      "unit": "gregmat35__b3",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Impervious to argument\" is the most idiomatic fit, but \"immune\" is a near-synonym in exactly this frame (\"immune to argument/reason/persuasion\" is a standard collocation) and satisfies every constraint the sentence imposes — nothing in the sentence distinguishes penetration-resistance from resistance-to-effect. \"Indifferent to argument\" is also defensible (unmoved by what he hears; his courtesy is manner, not engagement). Only \"imperious\" and \"inscrutable\" are cleanly wrong, so a reasonable test-taker choosing \"immune\" would be marked wrong on a distinction the sentence never draws. Needs a discriminating cue (e.g., a metaphor of penetration/erosion — \"counterevidence beat against him and found him wholly ___\") or replacement of the two synonymous distractors.",
+      "stem": "He heard out every objection with unfailing courtesy and then proceeded exactly as before; three decades of accumulating counterevidence found him wholly {1} to argument."
+    }
+  ]
+}

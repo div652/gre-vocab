@@ -1,0 +1,234 @@
+{
+  "unit": "gregmat29__b5",
+  "gregmat_group": 29,
+  "words": [
+    "jocund",
+    "languish",
+    "nadir",
+    "nimble"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The industry reached its {1} in the winter of 1932, when a quarter of its workforce stood idle; recovery, however, was slow to arrive, and output {2} at that level for another five years before the first new orders came in.",
+      "blanks": [
+        {
+          "options": [
+            "nadir",
+            "apogee",
+            "crescendo"
+          ],
+          "answers": [
+            "nadir"
+          ]
+        },
+        {
+          "options": [
+            "languished",
+            "rallied",
+            "dwindled"
+          ],
+          "answers": [
+            "languished"
+          ]
+        }
+      ],
+      "words": [
+        "nadir",
+        "languish"
+      ],
+      "explanation": "A quarter of the workforce idle marks the deepest trough of the arc, which is precisely what nadir names; apogee and crescendo both denote a high or rising point. In the second blank, \"at that level\" rules out dwindled (which requires further decline, impossible below the lowest point) and \"before the first new orders came in\" rules out rallied, leaving the flat, neglected stalling that languished describes.",
+      "id": "gregmat29__b5__tc2__00",
+      "unit": "gregmat29__b5",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Jonson's masque is {1} in mood and {2} in movement: the light air of a May morning is carried by verse that slips past each metrical obstacle rather than trudging through it.",
+      "blanks": [
+        {
+          "options": [
+            "jocund",
+            "lugubrious",
+            "boisterous"
+          ],
+          "answers": [
+            "jocund"
+          ]
+        },
+        {
+          "options": [
+            "nimble",
+            "dexterous",
+            "plodding"
+          ],
+          "answers": [
+            "nimble"
+          ]
+        }
+      ],
+      "words": [
+        "jocund",
+        "nimble"
+      ],
+      "explanation": "Jocund is the poet's word for bright, weightless cheer, and it can settle on a morning as easily as on a person; boisterous would add the noise and rowdiness that \"light air\" explicitly excludes, and lugubrious inverts the mood. Nimble is the one quality defined by evading rather than executing — slipping past the obstacle — whereas dexterous praises handled skill and plodding names the trudging the sentence rejects.",
+      "id": "gregmat29__b5__tc2__01",
+      "unit": "gregmat29__b5",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Although the airline's stock touched its {1} that spring, the crisis found its managers unexpectedly {2}: within eight months they had shed two subsidiaries, renegotiated every lease, and opened four routes their competitors were still studying.",
+      "blanks": [
+        {
+          "options": [
+            "nadir",
+            "zenith",
+            "fulcrum"
+          ],
+          "answers": [
+            "nadir"
+          ]
+        },
+        {
+          "options": [
+            "nimble",
+            "dilatory",
+            "ponderous"
+          ],
+          "answers": [
+            "nimble"
+          ]
+        }
+      ],
+      "words": [
+        "nadir",
+        "nimble"
+      ],
+      "explanation": "\"Although ... the crisis\" requires the lowest point of the stock's arc, which is the nadir; zenith is its exact opposite and fulcrum is a pivot, not a low. The second blank is fixed by the speed of the maneuvering against rivals who are still deliberating — nimble, the one word here that scales from a body to a whole organization, while dilatory and ponderous both name the slowness the managers conspicuously lacked.",
+      "id": "gregmat29__b5__tc2__02",
+      "unit": "gregmat29__b5",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Nothing in the sickroom letters betrays her condition: the tone is unfailingly {1} — never effusive, and never anxious to insist that she would recover — but bright, as though each morning still arrived full of sun.",
+      "blanks": [
+        {
+          "options": [
+            "jocund",
+            "buoyant",
+            "ebullient",
+            "convivial",
+            "sanguine",
+            "plaintive"
+          ],
+          "answers": [
+            "jocund",
+            "buoyant"
+          ]
+        }
+      ],
+      "words": [
+        "jocund"
+      ],
+      "explanation": "Jocund and buoyant both name a light, unforced brightness of spirit, and either yields the same sentence. \"Never effusive\" excludes ebullient, which bubbles over; \"never anxious to insist that she would recover\" excludes sanguine, which is optimism about an outcome rather than present cheer; convivial requires company, and plaintive reverses the tone.",
+      "id": "gregmat29__b5__se__03",
+      "unit": "gregmat29__b5",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "For thirty years the score {1} in a Prague archive, catalogued but unread, until a graduate student recognized the composer's hand on the title page.",
+      "blanks": [
+        {
+          "options": [
+            "languished",
+            "moldered",
+            "faltered",
+            "regressed",
+            "prevailed",
+            "circulated"
+          ],
+          "answers": [
+            "languished",
+            "moldered"
+          ]
+        }
+      ],
+      "words": [
+        "languish"
+      ],
+      "explanation": "Both languished and moldered describe something left to decay unnoticed in a place where no one comes for it, with the blame quietly attached to whoever should have looked. Faltered and regressed require a process already under way that then stumbles or reverses, which a shelved manuscript is not; circulated contradicts \"unread,\" and prevailed inverts the sense entirely.",
+      "id": "gregmat29__b5__se__04",
+      "unit": "gregmat29__b5",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Analysts attributed the firm's survival to its {1} structure: with only three tiers of management it could abandon a failing product and re-tool a plant within months, while larger rivals were still convening committees.",
+      "blanks": [
+        {
+          "options": [
+            "nimble",
+            "agile",
+            "adroit",
+            "dexterous",
+            "ponderous",
+            "plodding"
+          ],
+          "answers": [
+            "nimble",
+            "agile"
+          ]
+        }
+      ],
+      "words": [
+        "nimble"
+      ],
+      "explanation": "Nimble and agile are the only two that describe quickness of movement in an organization rather than in a pair of hands, and both produce the same claim about the firm. Adroit and dexterous praise skill in execution rather than speed of redirection and sit oddly on \"structure\"; ponderous and plodding name the very slowness the rivals display.",
+      "id": "gregmat29__b5__se__05",
+      "unit": "gregmat29__b5",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians usually place the {1} of the Republic's fortunes at Cannae in 216 BC, when the loss of some fifty thousand men left Rome with no field army at all.",
+      "blanks": [
+        {
+          "options": [
+            "nadir",
+            "zenith",
+            "apogee",
+            "crescendo",
+            "fulcrum"
+          ],
+          "answers": [
+            "nadir"
+          ]
+        }
+      ],
+      "words": [
+        "nadir"
+      ],
+      "explanation": "The sentence surveys a whole arc and delivers a verdict on its single deepest trough, which is what nadir means; zenith and apogee both name the summit of that same arc. Crescendo is a swelling toward intensity and fulcrum a point of leverage, neither of which measures fortune's lowest ebb.",
+      "id": "gregmat29__b5__cloze__06",
+      "unit": "gregmat29__b5",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only constrains the blank to \"declined/weakened without dying,\" and three of the five options satisfy that. \"Languished\" is the best fit because it alone naturally takes a duration (\"for a season\") and denotes persisting in a weakened state. But \"regressed\" fits the evidence clause almost as well — \"fewer and paler leaves with each attempt\" is literally backward movement — and \"faltered\" (lost vigor, weakened) is also defensible for a plant that neither died nor thrived. Nothing in the sentence rules out the momentary/stumbling nuance of \"faltered\" or the backsliding nuance of \"regressed\"; only \"rallied\" and \"proliferated\" are clearly excluded. A reasonable test-taker could pick \"regressed\" or \"faltered\" and be marked wrong. To make it unique, the sentence would need a cue that specifically demands prolonged listless survival (e.g. \"but merely ___ in a state of suspended half-life for a season\") or an explicit contrast against outright reversal.",
+      "stem": "Deprived of light for weeks beneath the ash cloud, the seedlings did not die outright but {1} for a season, putting out fewer and paler leaves with each attempt."
+    }
+  ]
+}

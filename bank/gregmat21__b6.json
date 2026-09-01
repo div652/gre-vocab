@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat21__b6",
+  "gregmat_group": 21,
+  "words": [
+    "render",
+    "repertoire",
+    "resilient",
+    "resolute"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Six weeks of bombardment had {1} the harbor's cranes and rail links useless, yet the port authority remained {2}, drawing up reconstruction schedules while the shelling continued.",
+      "blanks": [
+        {
+          "options": [
+            "rendered",
+            "coined",
+            "primed"
+          ],
+          "answers": [
+            "rendered"
+          ]
+        },
+        {
+          "options": [
+            "resolute",
+            "mercurial",
+            "irresolute"
+          ],
+          "answers": [
+            "resolute"
+          ]
+        }
+      ],
+      "words": [
+        "render",
+        "resolute"
+      ],
+      "explanation": "Sense 1 of render is the only one of the three verbs that takes an adjective complement — you render something useless, you cannot coin or prime a crane useless. The second blank turns on the concessive 'yet': the plans go forward under fire, so the authority's mind is settled (resolute), not wavering (irresolute) or volatile (mercurial).",
+      "id": "gregmat21__b6__tc2__00",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "The upholstery foam proved unexpectedly {1}: crushed flat under a season of heavy use, it sprang back to its original contour within minutes of being unloaded.",
+      "blanks": [
+        {
+          "options": [
+            "resilient",
+            "elastic",
+            "robust",
+            "durable",
+            "sound",
+            "stalwart"
+          ],
+          "answers": [
+            "resilient",
+            "elastic"
+          ]
+        }
+      ],
+      "words": [
+        "resilient"
+      ],
+      "explanation": "The sentence concedes that the damage landed — the foam was crushed flat — and praises only the return to shape, which is exactly what resilient and elastic name. Robust, durable and sound would all claim the material resisted deformation in the first place, contradicting 'crushed flat,' and stalwart describes loyalty or sturdiness in persons, not the springback of a material.",
+      "id": "gregmat21__b6__se__01",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "The regional economy proved remarkably {1}: the collapse of the shipping trade cost it a fifth of its jobs in eighteen months, yet output had climbed back to pre-crisis levels before the decade was out.",
+      "blanks": [
+        {
+          "options": [
+            "resilient",
+            "robust",
+            "convalescent",
+            "stalwart",
+            "indefatigable"
+          ],
+          "answers": [
+            "resilient"
+          ]
+        }
+      ],
+      "words": [
+        "resilient"
+      ],
+      "explanation": "Resilient is the only word that admits the blow and praises the speed of the return, which is the structure the colon sets up: heavy losses, then full recovery. Robust would assert the economy never took the damage, and convalescent would describe something still recovering rather than something already restored.",
+      "id": "gregmat21__b6__cloze__02",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "Celebrated less for the extent of her {1} — she performed perhaps thirty pieces in all — than for the scrupulous fidelity with which she {2} each of them, the pianist built a career on playing a handful of sonatas more exactly than anyone else.",
+      "blanks": [
+        {
+          "options": [
+            "repertoire",
+            "latitude",
+            "facility"
+          ],
+          "answers": [
+            "repertoire"
+          ]
+        },
+        {
+          "options": [
+            "rendered",
+            "informed",
+            "reflected"
+          ],
+          "answers": [
+            "rendered"
+          ]
+        }
+      ],
+      "words": [
+        "repertoire",
+        "render"
+      ],
+      "explanation": "Only a repertoire — the stock of pieces one is ready to perform — can be measured by 'thirty pieces in all'; latitude is freedom of action and facility is ease of execution, neither of which is counted in works. The second blank needs sense 3 of render, the performer's realization of a score in sound; to inform or reflect a sonata says nothing about executing it faithfully.",
+      "id": "gregmat21__b6__tc2__03",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Deprived by age of the fastball that had made his reputation, the pitcher survived four more seasons on an enlarged {1} of off-speed deliveries that left hitters guessing.",
+      "blanks": [
+        {
+          "options": [
+            "repertoire",
+            "chronicle",
+            "economy",
+            "facility",
+            "latitude"
+          ],
+          "answers": [
+            "repertoire"
+          ]
+        }
+      ],
+      "words": [
+        "repertoire"
+      ],
+      "explanation": "A repertoire is the set of things one can produce on demand, which is precisely what a pitcher's stock of pitches is. Chronicle is the trap for the word's history sense — a record of what has been done — whereas a repertoire is what is available now; economy and facility name thrift and ease, not an inventory of moves.",
+      "id": "gregmat21__b6__cloze__04",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Having weighed the objections once and dismissed them, the chancellor stayed {1} through weeks of parliamentary pressure to reopen the question, and the bill reached the vote unaltered.",
+      "blanks": [
+        {
+          "options": [
+            "resolute",
+            "steadfast",
+            "scrupulous",
+            "conciliatory",
+            "mercurial",
+            "irresolute"
+          ],
+          "answers": [
+            "resolute",
+            "steadfast"
+          ]
+        }
+      ],
+      "words": [
+        "resolute"
+      ],
+      "explanation": "The deciding is explicitly over — the objections were weighed and dismissed — so the sentence needs a word for a settled mind holding under pressure, which resolute and steadfast supply identically here. Scrupulous (meticulous) and conciliatory (accommodating) fit the political register but describe care and compromise rather than fixity, and mercurial and irresolute name the wavering the chancellor refuses.",
+      "id": "gregmat21__b6__se__05",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "The jurors deliberated for nine days but could not {1} a verdict on the graver of the two charges, and the judge, his patience exhausted, declared a mistrial.",
+      "blanks": [
+        {
+          "options": [
+            "render",
+            "relinquish",
+            "coin",
+            "prime",
+            "reflect"
+          ],
+          "answers": [
+            "render"
+          ]
+        }
+      ],
+      "words": [
+        "render"
+      ],
+      "explanation": "This is sense 2 — to deliver what is owed or formally required — and a verdict is the paradigm case, along with rendering aid or an account. Relinquish means to surrender something one already holds, which a jury that never reached a verdict cannot do, and coin would mean inventing the verdict as a new expression.",
+      "id": "gregmat21__b6__cloze__06",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "Her biographers draw a careful distinction: her health was never {1} — three bouts of typhus left her frail for years afterward — but her purpose was {2}, and each spring she returned to the survey work regardless.",
+      "blanks": [
+        {
+          "options": [
+            "resilient",
+            "mercurial",
+            "indefatigable"
+          ],
+          "answers": [
+            "resilient"
+          ]
+        },
+        {
+          "options": [
+            "resolute",
+            "capricious",
+            "convalescent"
+          ],
+          "answers": [
+            "resolute"
+          ]
+        }
+      ],
+      "words": [
+        "resilient",
+        "resolute"
+      ],
+      "explanation": "The dash clause specifies slow return to former condition, which denies resilience specifically — the word is about the speed of the bounce back, not about tirelessness (indefatigable) or unpredictability (mercurial). The contrasting blank praises a fixed intention carried out year after year, which is resolute; convalescent would describe her body, not her purpose, and capricious reverses the sense.",
+      "id": "gregmat21__b6__tc2__07",
+      "unit": "gregmat21__b6",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": []
+}

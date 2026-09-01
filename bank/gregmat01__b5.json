@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat01__b5",
+  "gregmat_group": 1,
+  "words": [
+    "misnomer",
+    "negligent",
+    "obsequious",
+    "placate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Calling the arrangement a \"partnership\" was a {1} rather than a {2}: the drafters had simply borrowed a familiar term from an older statute, not set out to conceal which party actually held the capital.",
+      "blanks": [
+        {
+          "options": [
+            "misnomer",
+            "encomium",
+            "hyperbole"
+          ],
+          "answers": [
+            "misnomer"
+          ]
+        },
+        {
+          "options": [
+            "subterfuge",
+            "solecism",
+            "redundancy"
+          ],
+          "answers": [
+            "subterfuge"
+          ]
+        }
+      ],
+      "words": [
+        "misnomer"
+      ],
+      "explanation": "The clause after the colon says the wrong label was inherited by accident, so the first blank needs a word for an inaccurate name — misnomer — while the second must name the deceit being ruled out, which is subterfuge. Encomium (lavish praise) and hyperbole (overstatement) describe tone, not misapplied nomenclature; solecism is a breach of grammar or etiquette, not an attempt to conceal, so it cannot be what \"set out to conceal\" denies.",
+      "id": "gregmat01__b5__tc2__00",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "Ornithologists concede that \"nighthawk\" is a {1}: the bird belongs to the nightjar family and is no relation to any hawk.",
+      "blanks": [
+        {
+          "options": [
+            "misnomer",
+            "malapropism",
+            "euphemism",
+            "epithet",
+            "tautology"
+          ],
+          "answers": [
+            "misnomer"
+          ]
+        }
+      ],
+      "words": [
+        "misnomer"
+      ],
+      "explanation": "The sentence faults the name for being factually wrong about what it names, which is exactly a misnomer. A malapropism is a comically wrong word substituted for a similar-sounding one by a speaker who blunders, whereas no one blunders here — the name is a settled historical accident; a euphemism would have to soften something unpleasant, which \"hawk\" does not.",
+      "id": "gregmat01__b5__cloze__01",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the statute imposed on landlords an affirmative duty to maintain common stairwells, the court held the owner not merely {1} but {2}: the railing that gave way had gone uninspected for eleven years.",
+      "blanks": [
+        {
+          "options": [
+            "careless",
+            "imperious",
+            "fastidious"
+          ],
+          "answers": [
+            "careless"
+          ]
+        },
+        {
+          "options": [
+            "negligent",
+            "oblivious",
+            "punctilious"
+          ],
+          "answers": [
+            "negligent"
+          ]
+        }
+      ],
+      "words": [
+        "negligent"
+      ],
+      "explanation": "\"Not merely X but Y\" demands an escalation from ordinary sloppiness to formal culpability, and the invoked statutory duty is what makes negligent — the verdict word, which presupposes a duty owed and assigns blame — the only fit for the second blank. Oblivious would be a step sideways into mere unawareness rather than up into liability, and punctilious and fastidious reverse the sense entirely.",
+      "id": "gregmat01__b5__tc2__02",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "The inquiry found the harbor authority {1} in the discharge of its inspection duties: mandatory checks of the moorings had been quietly skipped for the better part of a decade.",
+      "blanks": [
+        {
+          "options": [
+            "negligent",
+            "lax",
+            "scrupulous",
+            "punctilious",
+            "fastidious",
+            "imperious"
+          ],
+          "answers": [
+            "negligent",
+            "lax"
+          ]
+        }
+      ],
+      "words": [
+        "negligent"
+      ],
+      "explanation": "A formal inquiry finding that required checks went undone calls for a term of fault about a duty owed, and negligent and lax both deliver that verdict of slack, blameworthy omission. Scrupulous, punctilious, and fastidious all fit the grammar and the official register but assert the opposite — exacting care — and imperious describes overbearing manner rather than any failure of diligence.",
+      "id": "gregmat01__b5__se__03",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "The ambassador's manner toward the young king went well beyond the {1} owed a sovereign and shaded into the {2} of a man angling for office: he anticipated every whim and laughed a beat too long at every joke.",
+      "blanks": [
+        {
+          "options": [
+            "deference",
+            "disdain",
+            "effrontery"
+          ],
+          "answers": [
+            "deference"
+          ]
+        },
+        {
+          "options": [
+            "obsequiousness",
+            "obstinacy",
+            "boisterousness"
+          ],
+          "answers": [
+            "obsequiousness"
+          ]
+        }
+      ],
+      "words": [
+        "obsequious"
+      ],
+      "explanation": "What is legitimately \"owed a sovereign\" is deference, and the sentence then escalates past that limit into servility with a motive, which is obsequiousness. Disdain and effrontery are not owed to anyone and so cannot fill the first blank; obstinacy and boisterousness are lookalike words for stubbornness and noise, neither of which the whim-anticipating and laughing illustrate.",
+      "id": "gregmat01__b5__tc2__04",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "Even his allies winced at the {1} tone of the memoir's dedication to the party chairman, which read less like gratitude than like an application for promotion.",
+      "blanks": [
+        {
+          "options": [
+            "obsequious",
+            "fawning",
+            "perfunctory",
+            "haughty",
+            "imperious",
+            "laconic"
+          ],
+          "answers": [
+            "obsequious",
+            "fawning"
+          ]
+        }
+      ],
+      "words": [
+        "obsequious"
+      ],
+      "explanation": "Flattery so thick that onlookers wince, and so plainly angled at advancement, is obsequious or fawning — both name servility that has gone past dignity in pursuit of something. Perfunctory would make the dedication cursory rather than excessive, and haughty and imperious put the writer above the chairman rather than beneath him, which the \"application for promotion\" rules out.",
+      "id": "gregmat01__b5__se__05",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Rather than {1} the striking miners with a raise that would have cost the company almost nothing, the board chose to {2} them further by advertising for replacement labor within the week.",
+      "blanks": [
+        {
+          "options": [
+            "placate",
+            "censure",
+            "emulate"
+          ],
+          "answers": [
+            "placate"
+          ]
+        },
+        {
+          "options": [
+            "antagonize",
+            "mollify",
+            "exonerate"
+          ],
+          "answers": [
+            "antagonize"
+          ]
+        }
+      ],
+      "words": [
+        "placate"
+      ],
+      "explanation": "\"Rather than\" sets a cheap concession that would have quieted the strikers against the course actually taken, so the first blank needs placate — soothing anger with a token give — and the second needs antagonize, since hiring replacements inflames rather than settles. Mollify would duplicate the abandoned option instead of opposing it, and censure and exonerate belong to judgment rather than to the management of a grievance.",
+      "id": "gregmat01__b5__tc2__06",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "A handful of cosmetic revisions to the charter proved enough to {1} the delegates who had spent the morning threatening to walk out.",
+      "blanks": [
+        {
+          "options": [
+            "placate",
+            "mollify",
+            "antagonize",
+            "embolden",
+            "rebuke",
+            "dismiss"
+          ],
+          "answers": [
+            "placate",
+            "mollify"
+          ]
+        }
+      ],
+      "words": [
+        "placate"
+      ],
+      "explanation": "Anger already exists and a small concession quiets it, which is precisely what placate and mollify describe. Antagonize and embolden fit the grammar and the parliamentary register but would leave the delegates more likely to walk out, not less, and rebuke and dismiss make the chair act against the delegates rather than soothe them.",
+      "id": "gregmat01__b5__se__07",
+      "unit": "gregmat01__b5",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": []
+}

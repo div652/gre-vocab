@@ -1,0 +1,211 @@
+{
+  "unit": "gregmat27__b2",
+  "gregmat_group": 27,
+  "words": [
+    "euphemism",
+    "excoriate",
+    "exigent",
+    "haughty"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Running to four hundred pages, the commission's report {1} the agency's leadership clause by clause, reserving its harshest passages for the internal memoranda in which \"attrition of assets\" functioned as a {2} bland enough that no reader could picture what it described.",
+      "blanks": [
+        {
+          "options": [
+            "excoriated",
+            "extolled",
+            "vindicated"
+          ],
+          "answers": [
+            "excoriated"
+          ]
+        },
+        {
+          "options": [
+            "euphemism",
+            "metaphor",
+            "allusion"
+          ],
+          "answers": [
+            "euphemism"
+          ]
+        }
+      ],
+      "words": [
+        "excoriate",
+        "euphemism"
+      ],
+      "explanation": "\"Four hundred pages... clause by clause... harshest passages\" demands the sustained, itemized public flaying that excoriated names; extolled and vindicated reverse the direction entirely. The second blank is not a picture substituted for a thing (metaphor) or an indirect reference to something known (allusion) but a bland phrase substituted for a brutal one so the reader imagines nothing — the defining work of a euphemism.",
+      "id": "gregmat27__b2__tc2__00",
+      "unit": "gregmat27__b2",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Handed a treasury weeks from default, the new director treated the emergency as an occasion for ceremony rather than triage: even as her creditors' demands grew more {1}, she received their envoys with the same {2} composure, as though impatience were a defect peculiar to them.",
+      "blanks": [
+        {
+          "options": [
+            "exigent",
+            "tacit",
+            "meritorious"
+          ],
+          "answers": [
+            "exigent"
+          ]
+        },
+        {
+          "options": [
+            "haughty",
+            "deferential",
+            "harried"
+          ],
+          "answers": [
+            "haughty"
+          ]
+        }
+      ],
+      "words": [
+        "exigent",
+        "haughty"
+      ],
+      "explanation": "Demands that press harder as default nears are exigent — actively exacting action now — whereas tacit (unspoken) and meritorious (deserving praise) describe nothing the sentence has set up. Her unruffled bearing, which treats others' urgency as their personal failing, is haughty; deferential inverts the relation, and harried would contradict \"composure.\"",
+      "id": "gregmat27__b2__tc2__01",
+      "unit": "gregmat27__b2",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "In a notice that itemized the novel's failures over six columns, Hardwick {1} a book she had been expected, given her long friendship with its author, to handle gently.",
+      "blanks": [
+        {
+          "options": [
+            "excoriated",
+            "lambasted",
+            "admonished",
+            "belittled",
+            "extolled",
+            "acclaimed"
+          ],
+          "answers": [
+            "excoriated",
+            "lambasted"
+          ]
+        }
+      ],
+      "words": [
+        "excoriate"
+      ],
+      "explanation": "Six columns of itemized failure is savage, sustained public demolition, which excoriated and lambasted both name. Admonished is a mild warning and belittled is a passing dismissal — neither matches six columns of attack — while extolled and acclaimed point in the opposite direction from a review the author's friends expected to be gentler.",
+      "id": "gregmat27__b2__se__02",
+      "unit": "gregmat27__b2",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "A collector of {1} taste, Isabella Stewart Gardner returned canvases that other patrons would have hung without a murmur, and she kept her dealers in a condition of perpetual anxiety.",
+      "blanks": [
+        {
+          "options": [
+            "exigent",
+            "exacting",
+            "haughty",
+            "eclectic",
+            "indiscriminate",
+            "conventional"
+          ],
+          "answers": [
+            "exigent",
+            "exacting"
+          ]
+        }
+      ],
+      "words": [
+        "exigent"
+      ],
+      "explanation": "Sending back pictures others would happily hang, and leaving dealers permanently nervous, marks a standard that is hard to satisfy: exigent in its second sense, matched by exacting. Haughty would describe her bearing toward people rather than the severity of her standards, and eclectic, indiscriminate and conventional all describe the range or ordinariness of a taste, not its difficulty.",
+      "id": "gregmat27__b2__se__03",
+      "unit": "gregmat27__b2",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "Orwell treats \"pacification\" and \"transfer of population\" as instruments rather than accidents of style: each is a {1} selected so that the burned villages and the families driven onto the roads never rise before the reader's eye.",
+      "blanks": [
+        {
+          "options": [
+            "euphemism",
+            "dysphemism",
+            "allegory",
+            "metaphor",
+            "aphorism"
+          ],
+          "answers": [
+            "euphemism"
+          ]
+        }
+      ],
+      "words": [
+        "euphemism"
+      ],
+      "explanation": "A soft official phrase substituted for a brutal reality, chosen precisely to keep the listener from imagining it, is a euphemism. A dysphemism is the opposite substitution — the deliberately ugly word — while allegory, metaphor and aphorism describe figures or compressed maxims, none of which involve dulling what the audience pictures.",
+      "id": "gregmat27__b2__cloze__04",
+      "unit": "gregmat27__b2",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "The order reached the valley described as a \"phased relocation of households,\" a {1} badly at odds with the {2} instruction printed beneath it: residents had ninety minutes to be gone.",
+      "blanks": [
+        {
+          "options": [
+            "euphemism",
+            "hyperbole",
+            "allegory"
+          ],
+          "answers": [
+            "euphemism"
+          ]
+        },
+        {
+          "options": [
+            "exigent",
+            "desultory",
+            "decorous"
+          ],
+          "answers": [
+            "exigent"
+          ]
+        }
+      ],
+      "words": [
+        "euphemism",
+        "exigent"
+      ],
+      "explanation": "\"Phased relocation of households\" understates a forced ninety-minute evacuation, so it is a euphemism, not hyperbole (which exaggerates) or allegory (an extended figurative narrative). The instruction that allows ninety minutes is exigent — it exacts action immediately — whereas desultory would mean aimless and decorous merely proper, neither of which produces the clash the sentence turns on.",
+      "id": "gregmat27__b2__tc2__06",
+      "unit": "gregmat27__b2",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options are defensible. The blank needs a word for arrogant, rank-conscious superiority conveyed wordlessly, which fits \"haughty\" — but \"imperious\" is a standard near-synonym (arrogantly superior, disdainful) and fits the chin-tilt image just as naturally. The sentence's only attempt to separate them is the concession that she \"issued almost none\" of the orders, which is meant to disqualify \"imperious\" for its command sense; that is far too subtle a hook, since \"imperious\" is routinely used of manner and bearing rather than actual commands (an \"imperious tilt of the chin\" is idiomatic English). A reasonable test-taker choosing \"imperious\" would be marked wrong for no real reason. The remaining three (obsequious, deferential, garrulous) are clear distractors.",
+      "stem": "What the tenants resented was not that the countess issued orders — she issued almost none — but the {1} tilt of the chin with which she passed them on the road, a silence that contrived to rank everyone it declined to notice."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only establishes that the expression was un-gracious/arrogant, which leaves three interchangeable candidates: haughty, supercilious, and imperious. All three denote arrogant superiority and all three explain the family's refusal; nothing distinguishes disdain (haughty/supercilious) from domineering command (imperious). A test-taker choosing haughty+imperious or supercilious+imperious has an equally defensible pair, so the item lacks a unique answer. Fix by dropping one of the three or adding a cue that pins the sense (e.g. contempt for the viewer vs. habit of command).",
+      "stem": "Sargent renders the duchess's {1} expression so exactly that her family, who had commissioned the portrait in the expectation of graciousness, refused delivery of the canvas."
+    }
+  ]
+}

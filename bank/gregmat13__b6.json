@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat13__b6",
+  "gregmat_group": 13,
+  "words": [
+    "pellucid",
+    "perpetuate",
+    "rational",
+    "scathing"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Colleagues who had found Chandrasekhar's earlier monographs all but impenetrable were startled by the {1} exposition of his new textbook; the single {2} notice it received drew blood over the arithmetic alone, never over the prose.",
+      "blanks": [
+        {
+          "options": [
+            "pellucid",
+            "turbid",
+            "recondite"
+          ],
+          "answers": [
+            "pellucid"
+          ]
+        },
+        {
+          "options": [
+            "scathing",
+            "laudatory",
+            "perfunctory"
+          ],
+          "answers": [
+            "scathing"
+          ]
+        }
+      ],
+      "words": [
+        "pellucid",
+        "scathing"
+      ],
+      "explanation": "The contrast with the earlier \"impenetrable\" monographs, plus the surprise it caused, demands a word of luminous clarity: pellucid. Turbid and recondite would restate the old obscurity rather than mark the change. In the second blank, \"drew blood\" proves the criticism wounded, which is precisely what scathing measures; a laudatory notice would not fault anything, and a perfunctory one, by definition going through the motions, would not land hard enough to draw blood.",
+      "id": "gregmat13__b6__tc2__00",
+      "unit": "gregmat13__b6",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Divers working the cenote described water so {1} that the limestone floor forty feet below appeared to lie within arm's reach.",
+      "blanks": [
+        {
+          "options": [
+            "pellucid",
+            "limpid",
+            "turbid",
+            "opaque",
+            "placid",
+            "brackish"
+          ],
+          "answers": [
+            "pellucid",
+            "limpid"
+          ]
+        }
+      ],
+      "words": [
+        "pellucid"
+      ],
+      "explanation": "Only pellucid and limpid say that one can see straight through the water, which is what the visible floor forty feet down requires. Turbid and opaque reverse the meaning, while placid (unruffled) and brackish (salty) are perfectly idiomatic of water but describe its surface and salinity, not its transparency — a still or briny pool can be entirely unreadable to the eye.",
+      "id": "gregmat13__b6__se__01",
+      "unit": "gregmat13__b6",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Wartime planners defended rationing as a {1} response to scarcity, each allotment derived from measured need; critics replied that the scheme distributed nothing efficiently and served instead to {2} the very shortages it had been designed to end.",
+      "blanks": [
+        {
+          "options": [
+            "rational",
+            "specious",
+            "fallacious"
+          ],
+          "answers": [
+            "rational"
+          ]
+        },
+        {
+          "options": [
+            "perpetuate",
+            "reiterate",
+            "forestall"
+          ],
+          "answers": [
+            "perpetuate"
+          ]
+        }
+      ],
+      "words": [
+        "rational",
+        "perpetuate"
+      ],
+      "explanation": "The first blank reports how the planners themselves characterized the policy — allotments \"derived from measured need\" is reasoning from premises, i.e. rational; no defender would advertise his own scheme as specious or fallacious, terms that belong to the critics' side of the sentence. In the second, \"served instead to\" signals failure, so forestall (prevent) contradicts the logic, and reiterate concerns saying something again, whereas a shortage is a condition kept alive.",
+      "id": "gregmat13__b6__tc2__02",
+      "unit": "gregmat13__b6",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Textbooks that present the frontier as empty land awaiting settlement do not merely simplify; they {1} a myth whose political usefulness has never lapsed, handing it intact to each new cohort of readers.",
+      "blanks": [
+        {
+          "options": [
+            "perpetuate",
+            "recapitulate",
+            "prolong",
+            "extol",
+            "supplant"
+          ],
+          "answers": [
+            "perpetuate"
+          ]
+        }
+      ],
+      "words": [
+        "perpetuate"
+      ],
+      "explanation": "\"Handing it intact to each new cohort\" describes keeping a falsehood in force indefinitely, the exact charge carried by perpetuate. Recapitulate would mean only summarizing the myth on the page, a single act of restatement rather than transmission; prolong implies stretching out something already ending, whereas this myth's usefulness \"has never lapsed.\"",
+      "id": "gregmat13__b6__cloze__03",
+      "unit": "gregmat13__b6",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "The tribunal's sentencing formula was, in the narrow sense, entirely {1}: every penalty followed inexorably from the stated premises. That the outcomes were nonetheless monstrous provoked a {2} minority opinion, which pronounced the arithmetic impeccable and the results barbarous.",
+      "blanks": [
+        {
+          "options": [
+            "rational",
+            "reasonable",
+            "humane"
+          ],
+          "answers": [
+            "rational"
+          ]
+        },
+        {
+          "options": [
+            "scathing",
+            "temperate",
+            "equivocal"
+          ],
+          "answers": [
+            "scathing"
+          ]
+        }
+      ],
+      "words": [
+        "rational",
+        "scathing"
+      ],
+      "explanation": "\"Every penalty followed inexorably from the stated premises\" is a claim about process, which is what rational asserts; reasonable would import fairness and moderation and so collide with the monstrous outcomes the sentence goes on to concede. For the second blank, an opinion calling the results barbarous is contemptuous and wounding — scathing — while temperate would understate it and equivocal would suggest hedging, which the flat verdict \"impeccable and barbarous\" rules out.",
+      "id": "gregmat13__b6__tc2__04",
+      "unit": "gregmat13__b6",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Wit had nothing to do with it: the report's {1} final paragraph, devoid of jokes and heavy with contempt, ended the inspector's career within a month.",
+      "blanks": [
+        {
+          "options": [
+            "scathing",
+            "mordant",
+            "laudatory",
+            "perfunctory",
+            "equivocal"
+          ],
+          "answers": [
+            "scathing"
+          ]
+        }
+      ],
+      "words": [
+        "scathing"
+      ],
+      "explanation": "Scathing measures damage done and requires only severity and scorn, both supplied here by the contempt and the ruined career. Mordant is the trap, but it specifically denotes biting wit, which the opening clause and \"devoid of jokes\" explicitly exclude; laudatory, perfunctory, and equivocal all describe paragraphs that could not have ended a career.",
+      "id": "gregmat13__b6__cloze__05",
+      "unit": "gregmat13__b6",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Faraday's Christmas lectures owed their fame less to novelty than to their {1} construction: a bricklayer in the back row could follow the argument from first premise to final demonstration without once losing the thread.",
+      "blanks": [
+        {
+          "options": [
+            "pellucid",
+            "abstruse",
+            "recondite",
+            "convoluted",
+            "turgid"
+          ],
+          "answers": [
+            "pellucid"
+          ]
+        }
+      ],
+      "words": [
+        "pellucid"
+      ],
+      "explanation": "An untrained listener tracking the whole argument without losing the thread indicates clarity offered as praise, which is pellucid. Abstruse and recondite denote learning too deep for a general audience, convoluted denotes tangled structure, and turgid denotes swollen prose — each the opposite of what the bricklayer's success demonstrates.",
+      "id": "gregmat13__b6__cloze__07",
+      "unit": "gregmat13__b6",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options — perpetuated, sustained, and prolonged — all fill the \"kept the false story going\" slot, so more than one pair yields the same sentence meaning. The only thing separating \"prolonged\" from the intended pair is collocation nuance (prolong = extend the duration of something with a natural endpoint; perpetuate/sustain = keep in existence indefinitely), and the sentence actively undercuts that distinction by framing the legend as lasting across \"three generations of schoolchildren\" — i.e., a duration being extended. A reasonable test-taker choosing perpetuated + prolonged would be marked wrong on a distinction the sentence never enforces. Fix by replacing \"prolonged\" with a word that fails on logic rather than idiom (e.g. \"curtailed\" or \"recounted\").",
+      "stem": "Far from correcting the record, the bronze plaque outside the courthouse has {1} the legend, assuring three generations of schoolchildren that the trial was scrupulously fair."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "unit": "gregmat32__b5",
+  "gregmat_group": 32,
+  "words": [
+    "paragon",
+    "patronize",
+    "penurious",
+    "piquant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The duke's public {1} — the endowed hospital, the subsidized orchestra, the annual dole of coal — was financed by a domestic economy so {2} that his own household went without candles after eight o'clock.",
+      "blanks": [
+        {
+          "options": [
+            "largesse",
+            "avarice",
+            "indolence"
+          ],
+          "answers": [
+            "largesse"
+          ]
+        },
+        {
+          "options": [
+            "penurious",
+            "munificent",
+            "sanctimonious"
+          ],
+          "answers": [
+            "penurious"
+          ]
+        }
+      ],
+      "words": [
+        "penurious"
+      ],
+      "explanation": "The list of endowments defines the first blank as open-handed giving, so largesse; avarice would contradict the hospital and the orchestra outright. The second blank must oppose the first — candles rationed at eight — demanding a word for living as though there were nothing, whereas munificent would merely repeat the first blank instead of reversing it.",
+      "id": "gregmat32__b5__tc2__01",
+      "unit": "gregmat32__b5",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "What rescues the memoir from the {1} of its genre is the author's instinct for the {2} detail — the bishop's mispronounced Latin, the smell of wet dogs in the vestry — small observations that wake the reader without ever curdling into cruelty.",
+      "blanks": [
+        {
+          "options": [
+            "tedium",
+            "acerbity",
+            "opacity"
+          ],
+          "answers": [
+            "tedium"
+          ]
+        },
+        {
+          "options": [
+            "piquant",
+            "cloying",
+            "insipid"
+          ],
+          "answers": [
+            "piquant"
+          ]
+        }
+      ],
+      "words": [
+        "piquant"
+      ],
+      "explanation": "\"Wake the reader\" identifies the genre's default vice as dullness, so tedium; acerbity would make the sentence incoherent, since the rescuing detail is itself a kind of sharpness. The second blank needs a sharpness that pleases and stays small and well judged — \"without ever curdling into cruelty\" — which is piquant, while insipid names the flaw being escaped and cloying names excess sweetness rather than excess bite.",
+      "id": "gregmat32__b5__tc2__02",
+      "unit": "gregmat32__b5",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the correspondence suggests {1}: Lady Ottoline neither lectured her protégés nor softened her verdicts to spare them, but simply {2} the young poets whose work she admired, buying their pamphlets by the dozen and quietly paying their rent.",
+      "blanks": [
+        {
+          "options": [
+            "condescension",
+            "obsequiousness",
+            "acrimony"
+          ],
+          "answers": [
+            "condescension"
+          ]
+        },
+        {
+          "options": [
+            "patronized",
+            "coddled",
+            "fawned over"
+          ],
+          "answers": [
+            "patronized"
+          ]
+        }
+      ],
+      "words": [
+        "patronize"
+      ],
+      "explanation": "Lecturing and softening verdicts are both acts performed from above, so the quality being denied is condescension, not obsequiousness, which points from below. The second blank turns on the word's other, wholly neutral sense — buying from and financially sponsoring — so patronized fits, while coddled would reintroduce the very condescension the first clause has just denied.",
+      "id": "gregmat32__b5__tc2__03",
+      "unit": "gregmat32__b5",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "Though the estate yielded an income ample enough for any indulgence he cared to name, Whitaker grew steadily more {1} with age, heating a single room of the great house and mending his own boots by lamplight.",
+      "blanks": [
+        {
+          "options": [
+            "penurious",
+            "parsimonious",
+            "munificent",
+            "imperious",
+            "acrimonious",
+            "sanctimonious"
+          ],
+          "answers": [
+            "penurious",
+            "parsimonious"
+          ]
+        }
+      ],
+      "words": [
+        "penurious"
+      ],
+      "explanation": "The contrast between an ample income and a rationed household establishes meanness with money rather than genuine want, which penurious and parsimonious convey with the same disapproving, bookish tone. Munificent and imperious both fit the grammar and the aristocratic register but reverse or change the sense, while acrimonious and sanctimonious are the standard lookalikes — bitterness and false piety — neither of which explains the mended boots.",
+      "id": "gregmat32__b5__se__04",
+      "unit": "gregmat32__b5",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "The gallery's new wall texts, which gloss every painting as though for a child while congratulating themselves on meeting the public halfway, strike many critics as {1} rather than merely arrogant.",
+      "blanks": [
+        {
+          "options": [
+            "patronizing",
+            "condescending",
+            "imperious",
+            "haughty",
+            "obsequious",
+            "egalitarian"
+          ],
+          "answers": [
+            "patronizing",
+            "condescending"
+          ]
+        }
+      ],
+      "words": [
+        "patronize"
+      ],
+      "explanation": "The texts insult by over-explaining while posing as helpful, which is exactly the kindness-wrapped contempt shared by patronizing and condescending. \"Rather than merely arrogant\" sets plain hauteur aside as the lesser charge, excluding imperious and haughty; obsequious points from below instead, and egalitarian is what the wall texts falsely claim to be.",
+      "id": "gregmat32__b5__se__05",
+      "unit": "gregmat32__b5",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Sichuan cooking's reputation for brute heat misleads: the finest dishes are {1}, their vinegar-and-pepper sharpness calibrated to wake the palate rather than to numb it.",
+      "blanks": [
+        {
+          "options": [
+            "piquant",
+            "acrid",
+            "cloying",
+            "insipid",
+            "astringent"
+          ],
+          "answers": [
+            "piquant"
+          ]
+        }
+      ],
+      "words": [
+        "piquant"
+      ],
+      "explanation": "The sentence insists the sharpness is measured and welcome — it wakes rather than numbs — and piquant is the only option that builds approval into the sharpness itself. Acrid and astringent name sharpness that assaults or puckers, cloying names excess sweetness, and insipid names the absence of flavor the sentence plainly denies.",
+      "id": "gregmat32__b5__cloze__07",
+      "unit": "gregmat32__b5",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is clean and unambiguous (the schoolmaster gloss plus \"never openly disparaging\" pins \"patronizing\" and excludes \"belittling\"). Blank 1 is not uniquely determined: both \"a paragon\" (exemplar of temperance) and \"a votary\" (devotee of temperance) fit the frame \"regarded him as ___ of judicial temperance\" and equally support the closing logic that his condescension betrays \"the very quality it had admired.\" The sentence supplies no cue distinguishing embodying the virtue from being devoted to it, so \"a votary\" is defensibly correct and a reasonable test-taker choosing it would be wrongly marked. Fix by adding an exemplar cue to blank 1's context (e.g. \"his every ruling had exhibited\" / \"held up to junior judges as ___ of judicial temperance\") or by replacing \"votary\" with a clearly wrong distractor.",
+      "stem": "Because his colleagues had long regarded him as {1} of judicial temperance, his new habit of {2} the litigants before him — never openly disparaging them, merely explaining their own interests back to them in the fond, simplifying tone of a schoolmaster — struck the court as a betrayal of the very quality it had admired."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"A paragon\" is the best fit (a model of excellence, matching the ironic setup of a fall from grace), but \"an archetype\" is also genuinely defensible: in ordinary usage \"an archetype of X\" means a quintessential/original example that others are patterned on, which sits comfortably with the appositive \"the standard against which every other office was measured.\" The sentence supplies no cue that isolates the excellence connotation of \"paragon\" from the template/prototype sense of \"archetype,\" so a reasonable test-taker could choose \"archetype\" and be marked wrong. (The other three — beneficiary, arbiter, precursor — are cleanly excluded.) Fix by adding an evaluative marker the appositive can only support for \"paragon,\" e.g. \"the unimpeachable standard\" or \"an ideal no other office was thought to approach.\"",
+      "stem": "For a decade the bureau appeared in training manuals as {1} of procedural transparency, the standard against which every other office was measured, which made the discovery that it had destroyed eleven years of email especially awkward."
+    }
+  ]
+}

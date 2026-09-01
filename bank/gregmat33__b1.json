@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat33__b1",
+  "gregmat_group": 33,
+  "words": [
+    "catastrophic",
+    "contemporary",
+    "conundrum",
+    "defame"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the trading house's ledgers record not a slow erosion of capital but its disappearance within a single week, historians call the collapse {1} rather than gradual, and they weigh the {2} testimony of the firm's own clerks more heavily than reconstructions offered a century afterward.",
+      "blanks": [
+        {
+          "options": [
+            "catastrophic",
+            "calamitous",
+            "cyclical"
+          ],
+          "answers": [
+            "catastrophic"
+          ]
+        },
+        {
+          "options": [
+            "contemporary",
+            "retrospective",
+            "temporal"
+          ],
+          "answers": [
+            "contemporary"
+          ]
+        }
+      ],
+      "words": [
+        "catastrophic",
+        "contemporary"
+      ],
+      "explanation": "The first blank is set against \"gradual,\" so it needs the word that specifically means sudden and total failure: catastrophic measures completeness of collapse, whereas calamitous only reports that great misfortune resulted and is perfectly compatible with a slow ruin. The second blank is set against evidence produced \"a century afterward,\" which requires contemporary in its relational sense, of the same era as the event; temporal merely means pertaining to time or worldly, and retrospective describes exactly the later reconstructions being rejected.",
+      "id": "gregmat33__b1__tc2__00",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Everything we know about the mutiny comes from depositions taken decades later; not a single {1} document — no logbook entry, no dispatch, no letter written while the ship was still at sea — survives.",
+      "blanks": [
+        {
+          "options": [
+            "contemporary",
+            "contemporaneous",
+            "temporal",
+            "extemporaneous",
+            "corroborating",
+            "apocryphal"
+          ],
+          "answers": [
+            "contemporary",
+            "contemporaneous"
+          ]
+        }
+      ],
+      "words": [
+        "contemporary"
+      ],
+      "explanation": "The appositive defines what is missing — records made while the events were still unfolding — so contemporary and contemporaneous, both meaning of the same time as the thing described, are the equivalent pair. Temporal and extemporaneous are traps from the same Latin root (tempus) but mean worldly or time-bound and unrehearsed; corroborating and apocryphal fit the slot smoothly yet change the claim from when the documents were written to whether they confirm or invent.",
+      "id": "gregmat33__b1__se__01",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "In aerospace engineering the term is technical rather than rhetorical: a spar that sheds rivets over a decade has merely fatigued, whereas one that parts in a single instant has undergone {1} failure.",
+      "blanks": [
+        {
+          "options": [
+            "catastrophic",
+            "calamitous",
+            "cataclysmic",
+            "deleterious",
+            "incremental"
+          ],
+          "answers": [
+            "catastrophic"
+          ]
+        }
+      ],
+      "words": [
+        "catastrophic"
+      ],
+      "explanation": "Catastrophic failure is the engineer's term of art for a component giving way all at once and completely, which is precisely the contrast drawn with gradual fatigue. Calamitous points at the human misery a disaster produces and cataclysmic at violent upheaval on a geological or social scale; neither names the suddenness and totality of the mechanical event, and deleterious (merely harmful) is far too weak for a part that parts in an instant.",
+      "id": "gregmat33__b1__cloze__02",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Why cave painters on three continents should have used the same handful of geometric signs is less a crisis for archaeology than an enduring {1}: no one's livelihood depends on the answer, and no one can supply one.",
+      "blanks": [
+        {
+          "options": [
+            "conundrum",
+            "enigma",
+            "quandary",
+            "predicament",
+            "imbroglio",
+            "contretemps"
+          ],
+          "answers": [
+            "conundrum",
+            "enigma"
+          ]
+        }
+      ],
+      "words": [
+        "conundrum"
+      ],
+      "explanation": "The sentence explicitly denies that anyone is in trouble and leaves only intellectual bafflement, so conundrum and enigma — a puzzle nobody can solve — are the equivalent pair. Quandary and predicament describe a person stuck in bad circumstances or forced to choose between bad options, imbroglio a tangled embarrassing mess, and contretemps a minor social mishap; all four attach to a plight rather than to an unanswered question.",
+      "id": "gregmat33__b1__se__03",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Libel doctrine harbors a {1} that no jurisdiction has resolved cleanly: because a statement must be false in order to {2} anyone, the more accurate and the more devastating a publication is, the safer its author stands.",
+      "blanks": [
+        {
+          "options": [
+            "conundrum",
+            "predicament",
+            "imbroglio"
+          ],
+          "answers": [
+            "conundrum"
+          ]
+        },
+        {
+          "options": [
+            "defame",
+            "insult",
+            "belittle"
+          ],
+          "answers": [
+            "defame"
+          ]
+        }
+      ],
+      "words": [
+        "conundrum",
+        "defame"
+      ],
+      "explanation": "The first blank belongs to a body of doctrine, not to a person in difficulty, and names an unresolved intellectual puzzle — the mark of a conundrum; a predicament requires someone trapped in circumstances and an imbroglio a tangled quarrel. The second blank supplies the puzzle's premise: only defame carries falsity as part of its definition, whereas one can insult or belittle a person with statements that are entirely true.",
+      "id": "gregmat33__b1__tc2__04",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "The statute is narrower than it looks: to recover damages a plaintiff must show that the defendant {1} him — published assertions of fact that were both untrue and injurious to his standing — since abuse, however vicious, is not actionable when it asserts nothing.",
+      "blanks": [
+        {
+          "options": [
+            "defamed",
+            "belittled",
+            "vilified",
+            "denigrated",
+            "impugned"
+          ],
+          "answers": [
+            "defamed"
+          ]
+        }
+      ],
+      "words": [
+        "defame"
+      ],
+      "explanation": "The clause spells out the legal test — false factual assertions published to the injury of reputation — which is the definition of defamation and of no other word here. Vilified and denigrated describe abusive or disparaging speech that the sentence expressly says is not actionable, belittled means treated as unimportant, and impugned means called into question, none of which requires the statement to be false.",
+      "id": "gregmat33__b1__cloze__05",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the pamphlet was true, and yet its falsehoods {1} the banker so thoroughly that depositors were queuing before dawn; for a house that had stood eighty years the result was {2} — not a season of retrenchment but liquidation.",
+      "blanks": [
+        {
+          "options": [
+            "defamed",
+            "lampooned",
+            "belittled"
+          ],
+          "answers": [
+            "defamed"
+          ]
+        },
+        {
+          "options": [
+            "catastrophic",
+            "protracted",
+            "negligible"
+          ],
+          "answers": [
+            "catastrophic"
+          ]
+        }
+      ],
+      "words": [
+        "defame",
+        "catastrophic"
+      ],
+      "explanation": "The opening clause insists the charges were false and the consequence was a wrecked public reputation, which is defamation; lampooned points to satire, whose exaggeration is understood as such, and belittled means made to seem trivial rather than dishonest. The second blank is fixed by the closing contrast: liquidation instead of retrenchment is failure that is total and past repair, whereas protracted describes a slow drawn-out decline and negligible reverses the sense entirely.",
+      "id": "gregmat33__b1__tc2__06",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Although the frescoes are routinely discussed alongside Giotto's, no {1} source so much as mentions them: the earliest surviving reference to the chapel's decoration was written nearly two centuries after it was finished.",
+      "blanks": [
+        {
+          "options": [
+            "contemporary",
+            "temporal",
+            "extemporaneous",
+            "ecclesiastical",
+            "apocryphal"
+          ],
+          "answers": [
+            "contemporary"
+          ]
+        }
+      ],
+      "words": [
+        "contemporary"
+      ],
+      "explanation": "The colon supplies the constraint — the earliest notice postdates the painting by two hundred years — so what is missing is a source from the same era as the work, the relational sense of contemporary. Temporal (worldly, or having to do with time) and extemporaneous (unrehearsed) are root-family traps; ecclesiastical and apocryphal read naturally in the slot but would make the sentence about the source's institutional origin or dubious authenticity rather than its date.",
+      "id": "gregmat33__b1__cloze__07",
+      "unit": "gregmat33__b1",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": []
+}

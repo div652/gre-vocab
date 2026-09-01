@@ -1,0 +1,209 @@
+{
+  "unit": "gregmat23__b3",
+  "gregmat_group": 23,
+  "words": [
+    "intermittent",
+    "ire",
+    "languid",
+    "lull"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The observatory's power supply proved {1} throughout the winter — dying for an hour, reviving without explanation, dying again — and the resulting record of solar activity was accordingly {2}, useful only where the outages happened to fall outside the periods of greatest interest.",
+      "blanks": [
+        {
+          "options": [
+            "intermittent",
+            "incessant",
+            "perennial"
+          ],
+          "answers": [
+            "intermittent"
+          ]
+        },
+        {
+          "options": [
+            "fragmentary",
+            "exhaustive",
+            "redundant"
+          ],
+          "answers": [
+            "fragmentary"
+          ]
+        }
+      ],
+      "words": [
+        "intermittent"
+      ],
+      "explanation": "The dashes describe one continuing supply that keeps cutting out and coming back, which is exactly intermittent; incessant means it never stopped at all, and perennial would mean recurring year after year rather than minute to minute. The second blank follows from the outages: a record full of holes is fragmentary, not exhaustive.",
+      "id": "gregmat23__b3__tc2__00",
+      "unit": "gregmat23__b3",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Diagnostics on the pacemaker showed that the fault was {1} rather than permanent: telemetry dropped out for a few seconds and then restored itself, dozens of times over the course of a single night.",
+      "blanks": [
+        {
+          "options": [
+            "intermittent",
+            "desultory",
+            "incessant",
+            "perennial",
+            "dilatory"
+          ],
+          "answers": [
+            "intermittent"
+          ]
+        }
+      ],
+      "words": [
+        "intermittent"
+      ],
+      "explanation": "A signal that cuts out and returns repeatedly within one continuing transmission is the textbook engineering use of intermittent, and the contrast with permanent seals it. Desultory would describe aimless, unmethodical effort rather than a device fault, and incessant would mean the dropout never let up.",
+      "id": "gregmat23__b3__cloze__01",
+      "unit": "gregmat23__b3",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Sargent's portrait shows the duchess reclining with a {1} indifference that his patrons admired as the height of elegance, though her physician's letters suggest the pose recorded not studied ease but genuine {2}: she had been feverish for most of that summer.",
+      "blanks": [
+        {
+          "options": [
+            "languid",
+            "frenetic",
+            "plodding"
+          ],
+          "answers": [
+            "languid"
+          ]
+        },
+        {
+          "options": [
+            "lassitude",
+            "vivacity",
+            "alacrity"
+          ],
+          "answers": [
+            "lassitude"
+          ]
+        }
+      ],
+      "words": [
+        "languid"
+      ],
+      "explanation": "Languid is the only word for slowness that can flatter — patrons read the drooping pose as elegance — where plodding would be an insult and frenetic its opposite. The concession then swings to the other sense of that same slowness: real depletion, which is lassitude, not the liveliness of vivacity or the briskness of alacrity.",
+      "id": "gregmat23__b3__tc2__04",
+      "unit": "gregmat23__b3",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "After the central bank's announcement, trading on the exchange stayed {1} all afternoon, with volumes barely a third of the weekly average and hours passing between sizable orders.",
+      "blanks": [
+        {
+          "options": [
+            "languid",
+            "sluggish",
+            "frenetic",
+            "erratic",
+            "buoyant",
+            "intermittent"
+          ],
+          "answers": [
+            "languid",
+            "sluggish"
+          ]
+        }
+      ],
+      "words": [
+        "languid",
+        "intermittent"
+      ],
+      "explanation": "In market prose languid loses its flattering shimmer and means simply limp, which makes it interchangeable with sluggish here. Erratic and intermittent both describe unevenness rather than low volume, and frenetic and buoyant reverse the sense the volume figures establish.",
+      "id": "gregmat23__b3__se__05",
+      "unit": "gregmat23__b3",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "The volcano's long {1} — three centuries in which not even a plume of steam escaped the crater — had {2} the villages on its slopes into building right up to the vents.",
+      "blanks": [
+        {
+          "options": [
+            "quiescence",
+            "upheaval",
+            "cataclysm"
+          ],
+          "answers": [
+            "quiescence"
+          ]
+        },
+        {
+          "options": [
+            "lulled",
+            "startled",
+            "goaded"
+          ],
+          "answers": [
+            "lulled"
+          ]
+        }
+      ],
+      "words": [
+        "lull"
+      ],
+      "explanation": "Three centuries without so much as steam is a pause, not an ending, which is quiescence rather than upheaval or cataclysm. That deceptive calm is precisely what lulls people into false security; goaded would require provocation and startled the opposite of a quiet stretch.",
+      "id": "gregmat23__b3__tc2__06",
+      "unit": "gregmat23__b3",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "Negotiators used the brief {1} in the shelling to evacuate the hospital's upper floors, knowing that the bombardment would resume at nightfall.",
+      "blanks": [
+        {
+          "options": [
+            "lull",
+            "respite",
+            "escalation",
+            "barrage",
+            "stalemate",
+            "salvo"
+          ],
+          "answers": [
+            "lull",
+            "respite"
+          ]
+        }
+      ],
+      "words": [
+        "lull"
+      ],
+      "explanation": "Because the shelling is expected to resume, the blank must name a temporary quiet inside ongoing violence, and lull and respite both do exactly that. Escalation, barrage and salvo all describe the firing itself rather than a gap in it, and a stalemate is a deadlock that could last for months, not a brief window before nightfall.",
+      "id": "gregmat23__b3__se__07",
+      "unit": "gregmat23__b3",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is clean and unique: \"explained himself far too many times already\" demands weary indifference — lassitude; alacrity (eagerness) and verve (energy) are both wrong-direction and easily eliminated.\n\nBlank 1 is not uniquely determined. The sentence only tells us the supporters were angry/offended enough to protest, and both \"ire\" and \"umbrage\" denote exactly that (anger vs. offense/resentment at a perceived affront by someone they had trusted to be fair). Nothing in the sentence discriminates between them; only the idiom \"drew the ire of\" favors ire, and a test-taker who reads \"umbrage\" as the offense taken at his betrayal of scrupulous fairness has a genuinely defensible pick. (Chagrin is weaker — it connotes private mortification/disappointment rather than something one directs at another in protest — but it is not absurd either.) The distractor set needs umbrage replaced with a clearly wrong-direction word (e.g., \"approbation\" or \"indifference\") for this blank to be sound.",
+      "stem": "His decision to overturn the result on a technicality drew the {1} of supporters who had until then thought him scrupulously fair; he met their protests with the {2} of a man who had explained himself far too many times already."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Ire\" is clearly the intended answer — \"drew the ire of\" is the fixed collocation, and ennui/lassitude (boredom, listlessness) are easy throwaways. But the sentence only constrains the blank to \"displeasure strong enough to prompt three protest statements,\" and both \"umbrage\" (offense/resentment, exactly what a diocese would take at a carnival routed past its cathedral) and, more weakly, \"vexation\" satisfy that. \"Drew the umbrage of the diocese\" is semantically apt and grammatically fine; the only thing ruling it out is idiom preference for \"take umbrage,\" which is a collocation trap rather than a meaning distinction. A careful test-taker who picks \"umbrage\" would be marked wrong for a defensible reading, so the item is not cleanly unique. Fix: replace umbrage (and ideally vexation) with a word whose meaning, not just its usual verb pairing, fails here — e.g. \"reticence\" or \"indifference\" — or add a cue that demands specifically hot anger.",
+      "stem": "Her decision to reroute the carnival procession past the cathedral drew the {1} of the diocese, which issued three separate statements of protest before the week was out."
+    }
+  ]
+}

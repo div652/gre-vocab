@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat18__b4",
+  "gregmat_group": 18,
+  "words": [
+    "industrious",
+    "inform",
+    "irksome",
+    "manacle"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The biography is careful to separate the two Herschel brothers: William was relentlessly {1}, filling notebook after notebook with sweep after sweep of the night sky, while Frederick contrived to {2} any duty that demanded sustained attention.",
+      "blanks": [
+        {
+          "options": [
+            "industrious",
+            "indolent",
+            "dilatory"
+          ],
+          "answers": [
+            "industrious"
+          ]
+        },
+        {
+          "options": [
+            "shirk",
+            "dawdle",
+            "immure"
+          ],
+          "answers": [
+            "shirk"
+          ]
+        }
+      ],
+      "words": [
+        "industrious"
+      ],
+      "explanation": "The first clause reports visible, continuous output — notebooks filled, sweeps completed — which is exactly what industrious names, and which indolent (lazy) and dilatory (slow to start) contradict. In the second clause the contrastive \"while\" demands a word for evading work that takes a direct object: shirk does, dawdle is intransitive (one dawdles over a duty, one does not dawdle it), and immure means to wall in.",
+      "id": "gregmat18__b4__tc2__00",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Whatever the roughness of his individual entries, the clerk proved so {1} that a backlog of twenty years' correspondence was sorted and catalogued within three seasons.",
+      "blanks": [
+        {
+          "options": [
+            "industrious",
+            "sedulous",
+            "painstaking",
+            "fastidious",
+            "indolent",
+            "dilatory"
+          ],
+          "answers": [
+            "industrious",
+            "sedulous"
+          ]
+        }
+      ],
+      "words": [
+        "industrious"
+      ],
+      "explanation": "The measure of the clerk is sheer productive volume — twenty years cleared in three seasons — so industrious and sedulous, both meaning steadily hardworking, are the equivalent pair. Painstaking and fastidious would praise care and exactness, which the opening concession (\"whatever the roughness of his individual entries\") explicitly withholds, and indolent and dilatory reverse the sense the result clause requires.",
+      "id": "gregmat18__b4__se__01",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "A conviction that no landscape is politically innocent {1} every chapter of her history of the plantation South; the thesis is nowhere stated outright, yet it governs which fields she describes and which silences she permits to stand.",
+      "blanks": [
+        {
+          "options": [
+            "informs",
+            "renders",
+            "coins",
+            "primes",
+            "reflects"
+          ],
+          "answers": [
+            "informs"
+          ]
+        }
+      ],
+      "words": [
+        "inform"
+      ],
+      "explanation": "The sentence describes a conviction that is never announced but shapes the book from within — the GRE's favored sense of inform, meaning to pervade and give form to. Reflects inverts the direction (the chapters would reflect the conviction, not the reverse), while renders and primes require complements the sentence does not supply and coins applies to minting a term, not suffusing a work.",
+      "id": "gregmat18__b4__cloze__02",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Readers hoping the memoir will {1} them of the campaign's chronology should look elsewhere: dates and battle names barely surface, and what the book offers instead is a sensibility so thoroughly {2} by exile that even its descriptions of furniture read as elegy.",
+      "blanks": [
+        {
+          "options": [
+            "apprise",
+            "render",
+            "prime"
+          ],
+          "answers": [
+            "apprise"
+          ]
+        },
+        {
+          "options": [
+            "informed",
+            "rendered",
+            "coined"
+          ],
+          "answers": [
+            "informed"
+          ]
+        }
+      ],
+      "words": [
+        "inform"
+      ],
+      "explanation": "The first blank needs the plain sense of passing on detachable facts, and only apprise takes the idiom \"apprise someone of\"; render and prime do not. The second blank needs the opposite direction — a shaping presence soaked through the whole book rather than reported in it — which is informed; rendered would require a resulting state (rendered mute) and coined belongs to inventing words.",
+      "id": "gregmat18__b4__tc2__03",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "The revised procurement rules impose no genuine hardship, only an endless succession of {1} redundancies — a second signature here, a duplicated form there — that between them devour an hour of every working day.",
+      "blanks": [
+        {
+          "options": [
+            "irksome",
+            "nettlesome",
+            "infuriating",
+            "arduous",
+            "innocuous",
+            "cryptic"
+          ],
+          "answers": [
+            "irksome",
+            "nettlesome"
+          ]
+        }
+      ],
+      "words": [
+        "irksome"
+      ],
+      "explanation": "The redundancies are petty, repeated and merely wearing, which is precisely the register of irksome and nettlesome — the drip rather than the fire. Infuriating overstates a scale the clause \"no genuine hardship\" rules out, arduous would make the work strenuous rather than tedious, and innocuous denies the annoyance the sentence insists on.",
+      "id": "gregmat18__b4__se__04",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Darwin came to regard the eight years spent measuring and drawing barnacles less as a scientific triumph than as an {1} obligation, a stretch of pure drudgery he later claimed no man had a right to inflict on himself.",
+      "blanks": [
+        {
+          "options": [
+            "irksome",
+            "harrowing",
+            "infuriating",
+            "exigent",
+            "edifying"
+          ],
+          "answers": [
+            "irksome"
+          ]
+        }
+      ],
+      "words": [
+        "irksome"
+      ],
+      "explanation": "\"Pure drudgery\" specifies tedium — dull, repetitive, wearing — which is the exact complaint irksome registers, and it registers it with the bookish restraint the sentence maintains. Harrowing would make the years anguishing rather than boring, infuriating supplies a heat the passage never reaches, exigent means pressingly urgent, and edifying reverses the judgment.",
+      "id": "gregmat18__b4__cloze__05",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Douglass refuses the analogy his northern audiences found so comforting: the plantation hand was {1} at the wrists by men who owned him outright, whereas the mill worker was at worst {2} by poverty, narrowed in his choices but never another man's property.",
+      "blanks": [
+        {
+          "options": [
+            "manacled",
+            "circumscribed",
+            "nettled"
+          ],
+          "answers": [
+            "manacled"
+          ]
+        },
+        {
+          "options": [
+            "circumscribed",
+            "immured",
+            "manumitted"
+          ],
+          "answers": [
+            "circumscribed"
+          ]
+        }
+      ],
+      "words": [
+        "manacle"
+      ],
+      "explanation": "The phrase \"at the wrists\" fixes the first blank on manacled, the one word in the set that names wrist-irons and carries an oppressor with it; circumscribed describes an abstract limit and nettled a petty irritation. The second blank must be the weaker term Douglass concedes to the wage laborer — circumscribed, merely limited — since immured would wall him in bodily and manumitted would mean formally freed from slavery, which he never was.",
+      "id": "gregmat18__b4__tc2__06",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Under the pass laws, Black South Africans were not simply inconvenienced but {1} by a bureaucracy that could seize a man for stepping outside the district printed in his book.",
+      "blanks": [
+        {
+          "options": [
+            "manacled",
+            "shackled",
+            "circumscribed",
+            "immured",
+            "quarantined",
+            "emboldened"
+          ],
+          "answers": [
+            "manacled",
+            "shackled"
+          ]
+        }
+      ],
+      "words": [
+        "manacle"
+      ],
+      "explanation": "The contrast with \"not simply inconvenienced\" calls for the strongest figurative binding by a tyrannical power, and manacled and shackled are the near-identical pair, both importing irons and an oppressor. Circumscribed is too mild and unpaired, immured means walled in one place and quarantined implies isolation for contagion, while emboldened reverses the sense entirely.",
+      "id": "gregmat18__b4__se__07",
+      "unit": "gregmat18__b4",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,222 @@
+{
+  "unit": "gregmat18__b1",
+  "gregmat_group": 18,
+  "words": [
+    "attenuate",
+    "augment",
+    "aversion",
+    "blithe"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because these receivers are calibrated for whispers rather than shouts, engineers deliberately {1} the incoming signal at the antenna; without that precaution, a single terrestrial broadcast would {2} the detector for hours.",
+      "blanks": [
+        {
+          "options": [
+            "attenuate",
+            "amplify",
+            "augment"
+          ],
+          "answers": [
+            "attenuate"
+          ]
+        },
+        {
+          "options": [
+            "impair",
+            "invigorate",
+            "buttress"
+          ],
+          "answers": [
+            "impair"
+          ]
+        }
+      ],
+      "words": [
+        "attenuate"
+      ],
+      "explanation": "The receiver is built for faint inputs, so the engineers must reduce the signal in a controlled, deliberate way — the technical sense of attenuate; amplify and augment both increase it and would make the second clause incoherent. In the second blank, a swamped detector is degraded, not strengthened, so impair is the only fit, and it is impair's harm-to-function sense that explains why attenuation is needed in the first place.",
+      "id": "gregmat18__b1__tc2__00",
+      "unit": "gregmat18__b1",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Rather than replace the cathedral's eighteenth-century organ, the restorers concealed a bank of speakers in the triforium in order to {1} its sound in the farthest transepts, where the original ranks had never carried.",
+      "blanks": [
+        {
+          "options": [
+            "augment",
+            "amplify",
+            "attenuate",
+            "curtail",
+            "aggrandize",
+            "vitiate"
+          ],
+          "answers": [
+            "augment",
+            "amplify"
+          ]
+        }
+      ],
+      "words": [
+        "augment"
+      ],
+      "explanation": "The old instrument stays and something is added to it, so the sentence needs an increase applied to an existing base: augment and amplify both yield that reading and are interchangeable here. Attenuate and curtail fit the grammar but reverse the sense; aggrandize concerns inflated importance or status rather than volume, and vitiate means to spoil or corrupt.",
+      "id": "gregmat18__b1__se__01",
+      "unit": "gregmat18__b1",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Economists model the household's behavior not as timidity but as ordinary risk {1}: offered two prospects of identical expected value, it reliably chooses the one with the narrower spread of outcomes.",
+      "blanks": [
+        {
+          "options": [
+            "aversion",
+            "animosity",
+            "antipathy",
+            "enmity",
+            "repugnance"
+          ],
+          "answers": [
+            "aversion"
+          ]
+        }
+      ],
+      "words": [
+        "aversion"
+      ],
+      "explanation": "Aversion is the register-neutral, quasi-technical term for a settled wish to avoid a thing or condition, which is exactly what an economist means by preferring low variance. Animosity, enmity, and antipathy all denote hostility directed at persons or groups, and repugnance implies moral disgust — none of them describe an impersonal preference over lotteries.",
+      "id": "gregmat18__b1__cloze__02",
+      "unit": "gregmat18__b1",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The prospectus alarms less by what it promises than by its {1} assumption, nowhere argued and nowhere withdrawn, that depositors will simply wait; only the auditors' appended warnings {2} an optimism that the document itself does nothing to check.",
+      "blanks": [
+        {
+          "options": [
+            "blithe",
+            "grudging",
+            "hedged"
+          ],
+          "answers": [
+            "blithe"
+          ]
+        },
+        {
+          "options": [
+            "attenuate",
+            "corroborate",
+            "amplify"
+          ],
+          "answers": [
+            "attenuate"
+          ]
+        }
+      ],
+      "words": [
+        "blithe",
+        "attenuate"
+      ],
+      "explanation": "An assumption made lightly and never defended, about a risk that ought to have been faced, is the classic blithe assumption; grudging and hedged would both imply the drafters felt the danger, which the second clause denies. The warnings thin the optimism without dispelling it — the measured, partial reduction attenuate names — whereas corroborate and amplify would strengthen the very confidence the auditors were appending caveats to.",
+      "id": "gregmat18__b1__tc2__03",
+      "unit": "gregmat18__b1",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "The vaccine depended on a live virus so thoroughly {1} by hundreds of passages through chick-embryo culture that it still multiplied in the recipient but no longer produced disease.",
+      "blanks": [
+        {
+          "options": [
+            "attenuated",
+            "enervated",
+            "vitiated",
+            "abated",
+            "curtailed"
+          ],
+          "answers": [
+            "attenuated"
+          ]
+        }
+      ],
+      "words": [
+        "attenuate"
+      ],
+      "explanation": "The virus survives and reproduces; only its virulence has been dialed down, by deliberate laboratory procedure — precisely the technical sense of attenuate. Enervate drains a living creature's vitality and is used of persons, vitiate means to spoil or invalidate outright, abate describes something subsiding of itself, and curtail means cut short in duration or extent.",
+      "id": "gregmat18__b1__cloze__04",
+      "unit": "gregmat18__b1",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "The inquiry faulted not the crew's competence but the operator's {1} handling of the maintenance logs, which were signed off month after month by supervisors who had plainly never opened them.",
+      "blanks": [
+        {
+          "options": [
+            "blithe",
+            "cavalier",
+            "cynical",
+            "punitive",
+            "scrupulous",
+            "exacting"
+          ],
+          "answers": [
+            "blithe",
+            "cavalier"
+          ]
+        }
+      ],
+      "words": [
+        "blithe"
+      ],
+      "explanation": "Logs cheerfully certified without being read are handled with untroubled, unexamining ease, and blithe and cavalier both name that airy disregard, yielding equivalent sentences. Scrupulous and exacting are synonyms of each other but are contradicted by the unopened logs; cynical and punitive impute deliberate bad faith or vindictiveness, which the inquiry expressly declined to allege.",
+      "id": "gregmat18__b1__se__06",
+      "unit": "gregmat18__b1",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "His aim in requesting the Prussian cavalry was not to shore up a faltering line but to {1} a force already formidable, and his staff privately judged the two additional divisions unnecessary.",
+      "blanks": [
+        {
+          "options": [
+            "augment",
+            "bolster",
+            "buttress",
+            "invigorate",
+            "aggrandize"
+          ],
+          "answers": [
+            "augment"
+          ]
+        }
+      ],
+      "words": [
+        "augment"
+      ],
+      "explanation": "The sentence explicitly denies that anything was faltering, so the word must express sheer quantity added to a sound base — which is augment, and which is exactly what bolster and buttress cannot mean, since both presuppose something weak or under pressure. Invigorate would restore lost energy to a flagging force, and aggrandize concerns swelling importance or power rather than numbers.",
+      "id": "gregmat18__b1__cloze__07",
+      "unit": "gregmat18__b1",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean: the quip \"fundraising was begging on letterhead\" is plainly disparaging, so \"aversion\" is the only fit (\"relish\" contradicts the quip, and \"expressed her resignation\" without an object reads as quitting a post and doesn't explain the trustees' surprise). Blank 2 is the defect: \"augment\" and \"buttress\" are both defensible. Nothing in the sentence discriminates between enlarging the endowment and shoring it up — \"buttress the endowment\" is ordinary usage in institutional-finance prose, and the only clue (\"already exceeded the college's annual costs\") merely signals that further strengthening of any kind is unnecessary, which suits both verbs. Only \"attenuate\" is clearly excluded, leaving two live options where a GRE blank needs one. Fix by replacing \"buttress\" with a word that cannot mean \"increase\" (e.g. \"administer\", \"liquidate\"), or by adding a magnitude cue such as \"to double an endowment\" / \"to add another fifty million to an endowment\" that forces size rather than security.",
+      "stem": "Given how frankly she had expressed her {1} — fundraising, she liked to say, was begging on letterhead — the trustees were startled to hear her propose a campaign to {2} an endowment that already exceeded the college's annual costs."
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat11__b1",
+  "gregmat_group": 11,
+  "words": [
+    "clandestine",
+    "complacent",
+    "cumbersome",
+    "debilitating"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The agency's own files call the program covert, but the press found a blunter and more accurate word for it: a {1} enterprise of safe houses, forged passports and bribed customs officers, run for eleven years by men so practiced in deception that not even a {2} glance ever gave them away.",
+      "blanks": [
+        {
+          "options": [
+            "clandestine",
+            "discreet",
+            "manifest"
+          ],
+          "answers": [
+            "clandestine"
+          ]
+        },
+        {
+          "options": [
+            "furtive",
+            "imperious",
+            "brazen"
+          ],
+          "answers": [
+            "furtive"
+          ]
+        }
+      ],
+      "words": [
+        "clandestine"
+      ],
+      "explanation": "The first blank attaches to a standing illegal organization sustained for years — safe houses, forged papers, bribed officials — which is exactly what clandestine names; discreet is merely tactful reticence and carries no illegitimacy, and manifest reverses the sense. The second blank describes a momentary manner, the twitch that betrays a person, which is furtive's territory rather than clandestine's; brazen would contradict 'never gave them away,' and imperious names authority, not nerves.",
+      "id": "gregmat11__b1__tc2__00",
+      "unit": "gregmat11__b1",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Prohibition did not so much end the American liquor trade as reorganize it: within two years of the ban, {1} distilleries with payrolls, delivery routes and bribed inspectors were operating behind the storefronts of legitimate businesses in every large city.",
+      "blanks": [
+        {
+          "options": [
+            "clandestine",
+            "furtive",
+            "brazen",
+            "discreet",
+            "conspicuous"
+          ],
+          "answers": [
+            "clandestine"
+          ]
+        }
+      ],
+      "words": [
+        "clandestine"
+      ],
+      "explanation": "What is being described is a hidden standing enterprise with infrastructure and payroll, kept out of sight because it is outlawed — the precise case for clandestine. Furtive would describe a nervous manner rather than an organization, and brazen and conspicuous both contradict the concealment behind legitimate storefronts; discreet implies tactful restraint, not criminality.",
+      "id": "gregmat11__b1__cloze__01",
+      "unit": "gregmat11__b1",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Two decades without a serious tremor had left the city's building inspectors {1}, signing off on retrofits they had never so much as examined; the seismologists who protested this drift conceded, even so, that no bureaucracy can remain indefinitely {2} against a danger that announces itself once a century.",
+      "blanks": [
+        {
+          "options": [
+            "complacent",
+            "prescient",
+            "wary"
+          ],
+          "answers": [
+            "complacent"
+          ]
+        },
+        {
+          "options": [
+            "vigilant",
+            "oblivious",
+            "blithe"
+          ],
+          "answers": [
+            "vigilant"
+          ]
+        }
+      ],
+      "words": [
+        "complacent"
+      ],
+      "explanation": "The first blank must name a smug, unearned ease whose consequence is that people stop checking — the inspectors quit examining anything — and only complacent carries that rebuke; prescient and wary describe the opposite posture. The second blank needs the antonym of that lapse, the watchfulness the seismologists know cannot be sustained forever, so vigilant is required; oblivious and blithe would merely repeat the failure rather than name what is being given up.",
+      "id": "gregmat11__b1__tc2__02",
+      "unit": "gregmat11__b1",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Three consecutive championships made the club {1}: it let its scouting network lapse, allowed the training grounds to fall into disrepair, and dismissed the rising sides in the league as curiosities until it was relegated.",
+      "blanks": [
+        {
+          "options": [
+            "complacent",
+            "content",
+            "sanguine",
+            "blithe",
+            "mercurial"
+          ],
+          "answers": [
+            "complacent"
+          ]
+        }
+      ],
+      "words": [
+        "complacent"
+      ],
+      "explanation": "Complacent is the only option that combines self-satisfaction with the specific consequence named here — the club stops scouting, stops maintaining, stops improving — and it alone carries the rebuke that the ease was unwise. Content is approving and implies no neglect, sanguine describes optimism about outcomes rather than smugness about oneself, and blithe names casual unconcern without the success-bred vanity the sentence establishes.",
+      "id": "gregmat11__b1__cloze__03",
+      "unit": "gregmat11__b1",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The new grant procedure is not so much {1} as {2}: no single form on its own imposes any real hardship, yet the sequence of fourteen of them, each requiring a signature from an office that keeps different hours, can consume a month.",
+      "blanks": [
+        {
+          "options": [
+            "onerous",
+            "trivial",
+            "arcane"
+          ],
+          "answers": [
+            "onerous"
+          ]
+        },
+        {
+          "options": [
+            "cumbersome",
+            "punitive",
+            "negligible"
+          ],
+          "answers": [
+            "cumbersome"
+          ]
+        }
+      ],
+      "words": [
+        "cumbersome"
+      ],
+      "explanation": "The colon explains the contrast: the burden denied is hardship, so the first blank must be onerous, and arcane is excluded because nothing in the sentence concerns obscurity. What is affirmed is friction — clunky, slow, eventually navigable — which is cumbersome; punitive would restore the hardship the sentence just disclaimed, and negligible contradicts losing a month.",
+      "id": "gregmat11__b1__tc2__04",
+      "unit": "gregmat11__b1",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "The earliest magnetic-resonance scanners were so {1} that installing one meant demolishing a wall: the magnet alone weighed several tons and could not be repositioned once it had been sited.",
+      "blanks": [
+        {
+          "options": [
+            "cumbersome",
+            "unwieldy",
+            "onerous",
+            "delicate",
+            "prohibitive",
+            "inept"
+          ],
+          "answers": [
+            "cumbersome",
+            "unwieldy"
+          ]
+        }
+      ],
+      "words": [
+        "cumbersome"
+      ],
+      "explanation": "The complaint is bulk and awkwardness of handling — tons of magnet that will not go through a doorway — which cumbersome and unwieldy express identically. Onerous names burdensome hardship rather than physical unmanageability, prohibitive points at cost, delicate reverses the picture of brute mass, and inept can only describe a person's clumsiness, not an object's.",
+      "id": "gregmat11__b1__se__05",
+      "unit": "gregmat11__b1",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The pain was constant but not, in the strict clinical sense, {1}: it {2} her concentration for an hour or two each morning without ever removing her capacity to work, and she filed her columns on deadline for another nine years.",
+      "blanks": [
+        {
+          "options": [
+            "debilitating",
+            "negligible",
+            "chronic"
+          ],
+          "answers": [
+            "debilitating"
+          ]
+        },
+        {
+          "options": [
+            "impaired",
+            "obliterated",
+            "sharpened"
+          ],
+          "answers": [
+            "impaired"
+          ]
+        }
+      ],
+      "words": [
+        "debilitating"
+      ],
+      "explanation": "Debilitating marks a threshold — function stops — and the sentence explicitly denies that threshold while granting that the pain was real, so it is the only word the clinical qualifier can be attached to; chronic is contradicted by 'constant but not' and negligible by the pain's persistence. The second blank must name partial weakening that leaves capacity intact, which is impair; obliterated would cross the very threshold the sentence denies.",
+      "id": "gregmat11__b1__tc2__06",
+      "unit": "gregmat11__b1",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options form a near-synonymous cluster: debilitating, incapacitating, and enervating all mean \"weakening/draining of strength.\" The evidence clause (\"unable to climb a single flight of stairs\") supports any of them, so a test-taker could defensibly select enervating + debilitating instead of debilitating + incapacitating and produce a sentence with the same meaning. Enervating needs to be removed (or the sentence needs a discriminator forcing total loss of function rather than mere fatigue). Separately, \"protracted\" is strongly cued by \"for months on end\" but has no synonym partner, which is a distractor asymmetry — the duration clue pulls toward an option that cannot be part of a valid pair.",
+      "stem": "Post-viral syndromes drew serious research funding only once clinicians conceded that they were {1} in a way ordinary convalescence is not: patients who had never before missed a day's work found themselves unable to climb a single flight of stairs for months on end."
+    }
+  ]
+}

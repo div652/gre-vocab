@@ -1,0 +1,231 @@
+{
+  "unit": "gregmat04__b4",
+  "gregmat_group": 4,
+  "words": [
+    "opaque",
+    "paradigmatic",
+    "pedantic",
+    "placid"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reformers had at first assumed that the ministry's secrecy was largely {1}, the accidental residue of a filing system nobody had updated since the war; the deeper they dug, however, the more the licensing process looked deliberately {2}, each inquiry routed into a channel that gave nothing back at all.",
+      "blanks": [
+        {
+          "options": [
+            "inadvertent",
+            "calculated",
+            "ruinous"
+          ],
+          "answers": [
+            "inadvertent"
+          ]
+        },
+        {
+          "options": [
+            "opaque",
+            "abstruse",
+            "recondite"
+          ],
+          "answers": [
+            "opaque"
+          ]
+        }
+      ],
+      "words": [
+        "opaque"
+      ],
+      "explanation": "The concessive structure requires blank one to name accidental secrecy (\"accidental residue\") and blank two to name secrecy that was built on purpose; \"calculated\" would collapse the contrast the sentence turns on. \"Abstruse\" and \"recondite\" describe subject matter that is hard because it is deep or arcane, which no administrative channel can be; \"opaque\" is the word for a surface that returns nothing, and applied to an institution it carries exactly the accusation of chosen blockage the sentence is making.",
+      "id": "gregmat04__b4__tc2__00",
+      "unit": "gregmat04__b4",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "Critics who had admired the clarity of her early essays found the posthumous volume simply {1}: sentence after sentence refused to yield even a provisional sense of what was being claimed.",
+      "blanks": [
+        {
+          "options": [
+            "opaque",
+            "impenetrable",
+            "abstruse",
+            "convoluted",
+            "limpid",
+            "pedantic"
+          ],
+          "answers": [
+            "opaque",
+            "impenetrable"
+          ]
+        }
+      ],
+      "words": [
+        "opaque"
+      ],
+      "explanation": "\"Refused to yield even a provisional sense\" describes a total barrier rather than mere difficulty, so \"opaque\" and \"impenetrable\" both produce the same sentence. \"Abstruse\" would blame the difficulty on recondite subject matter and \"convoluted\" on tangled syntax — both concede that a reader could eventually get through — while \"limpid\" reverses the meaning and \"pedantic\" indicts the author's fussiness, not her unreadability.",
+      "id": "gregmat04__b4__se__01",
+      "unit": "gregmat04__b4",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians return to the panic of 1907 not because it was {1} but because it was {2}: every element later theorists would enumerate — the rumor, the run on deposits, the rescue underwritten by private capital — appears in it in almost schematic form.",
+      "blanks": [
+        {
+          "options": [
+            "anomalous",
+            "exemplary",
+            "obscure"
+          ],
+          "answers": [
+            "anomalous"
+          ]
+        },
+        {
+          "options": [
+            "paradigmatic",
+            "aberrant",
+            "idiosyncratic"
+          ],
+          "answers": [
+            "paradigmatic"
+          ]
+        }
+      ],
+      "words": [
+        "paradigmatic"
+      ],
+      "explanation": "The \"not X but Y\" frame demands an opposition, and the colon defines Y as the case in which the whole standard pattern appears cleanly, which fixes blank two as \"paradigmatic\" and blank one as its antonym, \"anomalous.\" \"Exemplary\" fails in blank one because it is close in sense to the answer in blank two rather than opposed to it, and \"aberrant\" and \"idiosyncratic\" would contradict the schematic typicality the colon spells out.",
+      "id": "gregmat04__b4__tc2__02",
+      "unit": "gregmat04__b4",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "His chapter corrected two centuries of his predecessors' transliteration of Anatolian place-names and left the collapse of the treaty itself unexplained; the effect was less {1} than {2}, learning paraded for its own sake rather than brought to bear on the question at hand.",
+      "blanks": [
+        {
+          "options": [
+            "rigorous",
+            "tendentious",
+            "evasive"
+          ],
+          "answers": [
+            "rigorous"
+          ]
+        },
+        {
+          "options": [
+            "pedantic",
+            "laconic",
+            "magnanimous"
+          ],
+          "answers": [
+            "pedantic"
+          ]
+        }
+      ],
+      "words": [
+        "pedantic"
+      ],
+      "explanation": "The \"less X than Y\" construction contrasts scholarship that serves the argument with scholarship that merely displays itself, so blank one takes the term of praise, \"rigorous,\" and blank two the charge of misplaced priority, \"pedantic.\" \"Tendentious\" and \"evasive\" would accuse him of bias or dodging rather than of misdirected care, and neither \"laconic\" nor \"magnanimous\" names a fault about displayed erudition.",
+      "id": "gregmat04__b4__tc2__04",
+      "unit": "gregmat04__b4",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "The referee's {1} objections — a mislabeled figure, a citation style inconsistent across two footnotes — never once touched the paper's central claim about migration rates.",
+      "blanks": [
+        {
+          "options": [
+            "pedantic",
+            "captious",
+            "didactic",
+            "magnanimous",
+            "sweeping",
+            "incisive"
+          ],
+          "answers": [
+            "pedantic",
+            "captious"
+          ]
+        }
+      ],
+      "words": [
+        "pedantic"
+      ],
+      "explanation": "The examples are technicalities, and the clause insists they miss what mattered, so \"pedantic\" and \"captious\" both yield an objection that is petty fault-finding over trifles. \"Sweeping\" and \"incisive\" both credit the objections with reaching the substance the sentence says they never reached; \"didactic\" describes a wish to instruct, and \"magnanimous\" reverses the tone entirely.",
+      "id": "gregmat04__b4__se__05",
+      "unit": "gregmat04__b4",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "After a week of gales the harbor was so {1} by Sunday morning that the moored fishing boats seemed painted onto the water rather than floating on it.",
+      "blanks": [
+        {
+          "options": [
+            "placid",
+            "tranquil",
+            "turbulent",
+            "frenetic",
+            "restive",
+            "somnolent"
+          ],
+          "answers": [
+            "placid",
+            "tranquil"
+          ]
+        }
+      ],
+      "words": [
+        "placid"
+      ],
+      "explanation": "The image of an utterly unruffled surface, set against the preceding gales, is satisfied equally by \"placid\" and \"tranquil.\" \"Turbulent\" and \"frenetic\" contradict the stillness, \"restive\" imports human restlessness, and \"somnolent\" describes drowsiness rather than the absence of disturbance on a surface.",
+      "id": "gregmat04__b4__se__06",
+      "unit": "gregmat04__b4",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "At dawn the reservoir was so {1} that the pines along the far bank were reproduced on it without a tremor, every needle legible in the reflection.",
+      "blanks": [
+        {
+          "options": [
+            "placid",
+            "turbid",
+            "tempestuous",
+            "staid",
+            "somnolent"
+          ],
+          "answers": [
+            "placid"
+          ]
+        }
+      ],
+      "words": [
+        "placid"
+      ],
+      "explanation": "A reflection that is perfect down to the needle requires a surface nothing disturbs, which is precisely what \"placid\" denotes. \"Turbid\" would mean the water was clouded with sediment and so could not mirror anything; \"tempestuous\" reverses the sense, and \"staid\" and \"somnolent\" describe manners and drowsiness, neither of which a body of water displays.",
+      "id": "gregmat04__b4__cloze__07",
+      "unit": "gregmat04__b4",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"exemplary\" is a live second answer. In its non-laudatory sense — \"serving as an example; typical\" — \"the exemplary case of regulatory capture\" reads naturally and satisfies the \"pattern in its cleanest form\" clue just as well. The only thing distinguishing it is the praise connotation clashing with \"a ruling nobody defended,\" which is a connotative tilt rather than a semantic exclusion. \"Paradigmatic\" is better (paradigm literally means pattern, and \"the paradigmatic case\" is the set phrase), but a reasonable test-taker choosing \"exemplary\" would be defensibly right and marked wrong. Either drop \"exemplary\" from the options or sharpen the sentence so the laudatory sense is unambiguously blocked (e.g. make the blank modify something the students clearly do not admire).",
+      "stem": "Caught between contradictory statutes and an industry that supplied most of its technical staff, the commission issued a ruling nobody defended; law students now read it as the {1} case of regulatory capture — not a curiosity of the archives, but the pattern in its cleanest form."
+    }
+  ]
+}

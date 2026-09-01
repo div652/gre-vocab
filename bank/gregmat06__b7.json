@@ -1,0 +1,84 @@
+{
+  "unit": "gregmat06__b7",
+  "gregmat_group": 6,
+  "words": [
+    "venal",
+    "venerate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Muckrakers of the period were careful to distinguish the merely {1} legislator, who pursued wealth as ardently as any speculator but broke no law in doing so, from his {2} colleague, whose committee vote could be had for a fixed and widely known sum.",
+      "blanks": [
+        {
+          "options": [
+            "acquisitive",
+            "venal",
+            "altruistic"
+          ],
+          "answers": [
+            "acquisitive"
+          ]
+        },
+        {
+          "options": [
+            "venal",
+            "avaricious",
+            "rapacious"
+          ],
+          "answers": [
+            "venal"
+          ]
+        }
+      ],
+      "words": [
+        "venal"
+      ],
+      "explanation": "The sentence turns on a distinction between legal appetite and criminal sale, so blank one needs a pure greed word — acquisitive — and \"broke no law in doing so\" rules out venal there. Blank two must name what greed alone cannot: an office with a price list, which is venal. Avaricious and rapacious are also mere greed words, so choosing either would collapse the very contrast the sentence sets up.",
+      "id": "gregmat06__b7__tc2__00",
+      "unit": "gregmat06__b7",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Where his own students had merely admired the old philologist, the next generation came to {1} him, quoting his marginalia as though it were scripture and passing over his errors in embarrassed silence.",
+      "blanks": [
+        {
+          "options": [
+            "venerate",
+            "revere",
+            "canonize",
+            "lionize",
+            "extol",
+            "denigrate"
+          ],
+          "answers": [
+            "venerate",
+            "revere"
+          ]
+        }
+      ],
+      "words": [
+        "venerate"
+      ],
+      "explanation": "Venerate and revere both name an attitude of deep, quasi-sacred respect that places its object above ordinary criticism, which is exactly what treating marginalia as scripture and errors as unmentionable amounts to. Canonize names a conferral of status by some authority rather than an attitude, lionize means to fête someone as a celebrity, and extol means to praise loudly — none of which fits a silence-keeping deference, and denigrate reverses the sense.",
+      "id": "gregmat06__b7__se__02",
+      "unit": "gregmat06__b7",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"mercenary\" is a genuine second answer. The sentence only establishes that the inspectors let money, not carelessness, drive them — money-motivated behavior — which \"mercenary\" names as well as \"venal\" does. \"Venal\" is the better fit because it carries the specific sense of a public official corruptible by bribes, matching the sale of a safety certificate at a known price, but nothing in the sentence rules out the broader \"mercenary.\" Fix by removing \"mercenary\" or by adding a cue that the fee was illicit/off-the-books, which \"mercenary\" cannot cover.",
+      "stem": "The port's building inspectors were not so much negligent as frankly {1}: a certificate of structural safety cost eighty dollars, and every contractor in the district knew the figure."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is clean — \"hunting out the seams in books long held sacred\" forces \"iconoclastic\" (\"deferential\" reverses the contrast, \"numinous\" is a category error). Blank {1} is the defect: both \"venerate\" and \"lionize\" are defensible. The sentence only requires a verb meaning \"praise uncritically / hold as beyond reproach,\" and lionize (to treat as an object of great celebrity/acclaim) satisfies that as well as venerate does; posthumous lionizing is standard usage, so \"fifty years dead\" does not rule it out. The intended discriminator is presumably that venerate pairs with \"sacred\"/\"beyond reproach\" while lionize targets a person's celebrity rather than the quality of individual chapters — too fine a distinction to mark a test-taker wrong on. Fix by replacing \"lionize\" with an option that is clearly unfit (e.g. \"scrutinize\" or \"anthologize\").",
+      "stem": "Where an earlier generation of critics was content to {1} Melville — a writer fifty years dead and already installed in every syllabus — treating even his slackest chapters as beyond reproach, the present generation is aggressively {2}, hunting out the seams in books long held sacred."
+    }
+  ]
+}

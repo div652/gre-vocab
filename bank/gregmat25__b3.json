@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat25__b3",
+  "gregmat_group": 25,
+  "words": [
+    "exhort",
+    "frailty",
+    "grievance",
+    "harangue"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Holding no office and commanding no troops, the pamphleteer could appeal only to conscience, {1} his readers to petition the Crown by lawful means; that every petition was ignored became one more {2} for a public already convinced that redress was owed it.",
+      "blanks": [
+        {
+          "options": [
+            "exhorting",
+            "inciting",
+            "decreeing"
+          ],
+          "answers": [
+            "exhorting"
+          ]
+        },
+        {
+          "options": [
+            "grievance",
+            "grumble",
+            "concession"
+          ],
+          "answers": [
+            "grievance"
+          ]
+        }
+      ],
+      "words": [
+        "exhort",
+        "grievance"
+      ],
+      "explanation": "The first clause establishes a speaker with no power to compel who appeals to conscience and urges a lawful, respectable act — that is exactly exhorting; inciting implies stirring people toward disorder or wrongdoing, and decreeing presupposes the authority the pamphleteer explicitly lacks. The second blank needs a complaint that asserts an injustice and a claim to redress, which is a grievance; a grumble is a passing mutter with no claim of entitlement behind it.",
+      "id": "gregmat25__b3__tc2__00",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "What was announced as a brief address became a two-hour {1}: the bishop, more scolding than enraged and secure in the knowledge that no one could leave the cathedral, dwelt on every {2} of his flock until even the devout grew restive.",
+      "blanks": [
+        {
+          "options": [
+            "harangue",
+            "tirade",
+            "benediction"
+          ],
+          "answers": [
+            "harangue"
+          ]
+        },
+        {
+          "options": [
+            "frailty",
+            "grievance",
+            "debility"
+          ],
+          "answers": [
+            "frailty"
+          ]
+        }
+      ],
+      "words": [
+        "harangue",
+        "frailty"
+      ],
+      "explanation": "Length, a moralizing rather than furious tone, and above all an audience that cannot escape define a harangue; a tirade is a hot burst of rage, short-winded by nature and indifferent to whether anyone is trapped. The second blank names the small habitual moral failings of the congregation — frailties — whereas debility is strictly bodily weakness and a grievance would be a complaint the flock held against someone else.",
+      "id": "gregmat25__b3__tc2__01",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Contemporaries drew a sharp line between the two preachers: Whitefield {1} his listeners, warming them toward acts of charity with nothing but appeal and fervour, whereas Mather simply {2} them, keeping a congregation that could not decently walk out through an hour of reproof.",
+      "blanks": [
+        {
+          "options": [
+            "exhorted",
+            "edified",
+            "catechized"
+          ],
+          "answers": [
+            "exhorted"
+          ]
+        },
+        {
+          "options": [
+            "harangued",
+            "mollified",
+            "extolled"
+          ],
+          "answers": [
+            "harangued"
+          ]
+        }
+      ],
+      "words": [
+        "exhort",
+        "harangue"
+      ],
+      "explanation": "Exhort aims at action, not understanding: Whitefield's fervour is directed at getting people to give, while edify and catechize both describe transmitting moral instruction or doctrine. Mather's hour of reproof delivered to listeners who cannot leave is the textbook harangue; mollify and extol reverse the tone entirely.",
+      "id": "gregmat25__b3__tc2__02",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Invited to propose a fifteen-minute toast, the novelist instead delivered an hour-long {1} against the publishing industry, and the guests, penned in at their tables, listened in embarrassed silence.",
+      "blanks": [
+        {
+          "options": [
+            "harangue",
+            "diatribe",
+            "homily",
+            "encomium",
+            "soliloquy",
+            "peroration"
+          ],
+          "answers": [
+            "harangue",
+            "diatribe"
+          ]
+        }
+      ],
+      "words": [
+        "harangue"
+      ],
+      "explanation": "Both harangue and diatribe name a sustained, hostile speech delivered at an audience, so either yields the same sentence. A homily is a moralizing address without the denunciation, an encomium is formal praise, a soliloquy is speech to oneself, and a peroration is merely the closing section of a speech, not an hour of attack.",
+      "id": "gregmat25__b3__se__03",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "The late portraits are unsparing: they record the {1} of a man who twenty years before had crossed the Alps on foot, his hands now unsteady, his frame shrunken beneath the coat.",
+      "blanks": [
+        {
+          "options": [
+            "frailty",
+            "infirmity",
+            "languor",
+            "indolence",
+            "vanity",
+            "resolve"
+          ],
+          "answers": [
+            "frailty",
+            "infirmity"
+          ]
+        }
+      ],
+      "words": [
+        "frailty"
+      ],
+      "explanation": "The unsteady hands and shrunken frame point to bodily weakness and breakability, which frailty and infirmity both name. Languor is listlessness and indolence is habitual idleness — states of energy or will rather than of a failing body — and vanity and resolve concern character, not physical decline.",
+      "id": "gregmat25__b3__se__04",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Thirty years after the demotion he was still nursing the same {1}, rehearsing for anyone who would listen the promotion he believed had been stolen from him.",
+      "blanks": [
+        {
+          "options": [
+            "grievance",
+            "grudge",
+            "grumble",
+            "quibble",
+            "misgiving",
+            "reverie"
+          ],
+          "answers": [
+            "grievance",
+            "grudge"
+          ]
+        }
+      ],
+      "words": [
+        "grievance"
+      ],
+      "explanation": "A grievance and a grudge are both kept and fed over years and both assert that a wrong was done, which is what \"nursing\" and \"stolen from him\" require. A grumble is a passing mutter, a quibble a petty technical objection, a misgiving an apprehension about the future, and a reverie a daydream — none of them a standing claim of injustice.",
+      "id": "gregmat25__b3__se__05",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "The encyclical carries no weight in civil law; it can only {1} heads of state to treat the warming climate as a moral question, and two governments have already announced that they will do nothing of the kind.",
+      "blanks": [
+        {
+          "options": [
+            "exhort",
+            "compel",
+            "incite",
+            "goad",
+            "edify"
+          ],
+          "answers": [
+            "exhort"
+          ]
+        }
+      ],
+      "words": [
+        "exhort"
+      ],
+      "explanation": "Exhort is urging by moral appeal from a speaker with no power to enforce, which is precisely why the document can be shrugged off. Compel contradicts \"no weight in civil law\"; incite implies rousing toward disorder; goad implies needling or provocation; and edify aims at improving understanding rather than at producing an action.",
+      "id": "gregmat25__b3__cloze__06",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "Boswell's Life is affectionate precisely because it conceals none of its subject's {1}: the superstition, the greed at table, the dread of solitude are all set down without any hint that they disqualify the man who had them.",
+      "blanks": [
+        {
+          "options": [
+            "frailties",
+            "transgressions",
+            "debilities",
+            "grievances",
+            "machinations"
+          ],
+          "answers": [
+            "frailties"
+          ]
+        }
+      ],
+      "words": [
+        "frailty"
+      ],
+      "explanation": "Frailties are the small built-in failings a biographer can record with tenderness rather than condemnation, which the clause \"without any hint that they disqualify\" demands. Transgressions would make them offenses against a rule, debilities would make them physical impairments, grievances are complaints one holds against others, and machinations imply scheming.",
+      "id": "gregmat25__b3__cloze__07",
+      "unit": "gregmat25__b3",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": []
+}

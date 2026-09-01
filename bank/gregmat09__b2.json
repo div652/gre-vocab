@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat09__b2",
+  "gregmat_group": 9,
+  "words": [
+    "edify",
+    "elicit",
+    "erudite",
+    "fecund"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Boswell's transcript of the quarrel is undeniably {1} — no other source preserves so much of what was actually said that evening — and yet the spectacle of two aging scholars trading insults over a misplaced comma is hardly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "informative",
+            "exhortatory",
+            "cursory"
+          ],
+          "answers": [
+            "informative"
+          ]
+        },
+        {
+          "options": [
+            "edifying",
+            "erudite",
+            "didactic"
+          ],
+          "answers": [
+            "edifying"
+          ]
+        }
+      ],
+      "words": [
+        "edify"
+      ],
+      "explanation": "The dash explains that the transcript preserves an unmatched quantity of detail, which makes it informative (and rules out cursory, its opposite); the concessive \"and yet\" then demands a word for the value the document lacks, and a squalid spectacle is precisely what is not edifying. Erudite would praise the scholars' learning rather than the moral quality of the scene, and didactic describes an intention to instruct, not the improvement produced in a viewer.",
+      "id": "gregmat09__b2__tc2__00",
+      "unit": "gregmat09__b2",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "The trustees hoped that a year among the great books would prove {1}, but the graduates emerged merely better informed — not, so far as anyone could tell, better.",
+      "blanks": [
+        {
+          "options": [
+            "edifying",
+            "ennobling",
+            "didactic",
+            "instructive",
+            "exhortatory",
+            "diverting"
+          ],
+          "answers": [
+            "edifying",
+            "ennobling"
+          ]
+        }
+      ],
+      "words": [
+        "edify"
+      ],
+      "explanation": "The final clause sets \"better informed\" against \"better,\" so the blank must name moral improvement in the recipient: edifying and ennobling are the pair. Instructive and didactic concern the transfer or intended transfer of information — exactly what the students did receive, so they contradict the contrast rather than completing it.",
+      "id": "gregmat09__b2__se__01",
+      "unit": "gregmat09__b2",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "The most {1} questions, the reporter came to realize, were not the accusatory ones but the mild ones, which {2} from guarded officials admissions they had never intended to make.",
+      "blanks": [
+        {
+          "options": [
+            "productive",
+            "abrasive",
+            "perfunctory"
+          ],
+          "answers": [
+            "productive"
+          ]
+        },
+        {
+          "options": [
+            "elicited",
+            "extorted",
+            "engendered"
+          ],
+          "answers": [
+            "elicited"
+          ]
+        }
+      ],
+      "words": [
+        "elicit"
+      ],
+      "explanation": "The second clause shows that the mild questions yielded what the aggressive ones did not, so the first blank must mean fruitful; perfunctory would explain no such yield. Extorted implies coercion, which the mildness excludes, and engendered means to bring something into being rather than to draw a latent thing out of a particular person — the sense the phrase \"from guarded officials\" requires.",
+      "id": "gregmat09__b2__tc2__02",
+      "unit": "gregmat09__b2",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "The survey was designed to {1} from respondents the one figure they were least likely to volunteer unprompted: the size of their household debt.",
+      "blanks": [
+        {
+          "options": [
+            "elicit",
+            "evoke",
+            "induce",
+            "precipitate",
+            "engender"
+          ],
+          "answers": [
+            "elicit"
+          ]
+        }
+      ],
+      "words": [
+        "elicit"
+      ],
+      "explanation": "The figure already exists and is merely withheld, and the construction targets a specific person as source, which is exactly the transaction elicit names. Evoke calls up a feeling or memory rather than a fact, induce persuades someone to act, and precipitate and engender describe causing something to come about, not drawing an existing item out.",
+      "id": "gregmat09__b2__cloze__03",
+      "unit": "gregmat09__b2",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers conceded that the study was {1} — Halloran had evidently read every printed word on the subject in six languages — but doubted whether so much reading had yielded any {2} of judgment whatever.",
+      "blanks": [
+        {
+          "options": [
+            "erudite",
+            "glib",
+            "cursory"
+          ],
+          "answers": [
+            "erudite"
+          ]
+        },
+        {
+          "options": [
+            "profundity",
+            "dilettantism",
+            "superficiality"
+          ],
+          "answers": [
+            "profundity"
+          ]
+        }
+      ],
+      "words": [
+        "erudite"
+      ],
+      "explanation": "Exhaustive reading in six languages is the defining ground of erudition, and glib and cursory both deny the effort the dash documents. The \"but\" then requires the quality that wide reading conspicuously failed to produce; profundity is the depth of judgment that book learning can leave untouched, whereas doubting that reading yielded superficiality or dilettantism inverts the complaint.",
+      "id": "gregmat09__b2__tc2__04",
+      "unit": "gregmat09__b2",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Gibbon's footnotes are famously {1}, ranging with equal ease over Byzantine chronicles, Arabic geographers, and the patristic Latin of the fourth century.",
+      "blanks": [
+        {
+          "options": [
+            "erudite",
+            "learned",
+            "glib",
+            "cursory",
+            "penetrating",
+            "mordant"
+          ],
+          "answers": [
+            "erudite",
+            "learned"
+          ]
+        }
+      ],
+      "words": [
+        "erudite"
+      ],
+      "explanation": "What the sentence documents is command of a vast body of reading, which is what erudite and learned jointly name. Penetrating would praise analytic insight rather than accumulated study, and mordant praises wit — neither has a partner here, while glib and cursory contradict the evidence of range.",
+      "id": "gregmat09__b2__se__05",
+      "unit": "gregmat09__b2",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "The decade after 1905 was extraordinarily {1}: in ten years the group issued three manifestos, founded two journals, and left a body of painting still not fully catalogued — an outpouring the more startling because the years just before it had been so {2}.",
+      "blanks": [
+        {
+          "options": [
+            "fecund",
+            "fallow",
+            "exhaustive"
+          ],
+          "answers": [
+            "fecund"
+          ]
+        },
+        {
+          "options": [
+            "barren",
+            "prolific",
+            "tumultuous"
+          ],
+          "answers": [
+            "barren"
+          ]
+        }
+      ],
+      "words": [
+        "fecund"
+      ],
+      "explanation": "The colon inventories teeming creative production, which fecund names and fallow flatly denies; exhaustive describes thoroughness of coverage, not generative abundance. \"The more startling because\" then requires a contrast with that abundance, so the preceding years must have been barren — prolific would repeat the first blank and destroy the contrast.",
+      "id": "gregmat09__b2__tc2__06",
+      "unit": "gregmat09__b2",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options are genuine synonyms here: \"fecund\" and \"prolific\" both mean abundantly productive, and both collocate naturally with an abundance of ideas. The sentence offers no discriminator strong enough to eliminate \"prolific\" — the \"not in finished scores, but in ... ideas\" clause explicitly redirects the abundance to ideas, which is exactly the sense in which \"prolific\" would apply (\"a prolific period of invention\"). Distinguishing them requires a fine connotative judgment (that \"prolific\" implies counted finished output) that the sentence does not enforce. Either replace \"prolific\" with a non-synonymous distractor, or add a cue that demands the fertility/generativity sense specifically.",
+      "stem": "The years around 1910 were the most {1} of the composer's life — not in finished scores, of which there were remarkably few, but in the sheer teeming abundance of ideas she set down and abandoned."
+    }
+  ]
+}

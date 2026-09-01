@@ -1,0 +1,253 @@
+{
+  "unit": "gregmat11__b0",
+  "gregmat_group": 11,
+  "words": [
+    "abhor",
+    "boisterous",
+    "chivalrous",
+    "churlish"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "In public the senator {1} the practice of torture in terms that admitted no exception; his voting record, however, revealed at most a mild {2}, one he set aside whenever intelligence officials pressed him to authorize it.",
+      "blanks": [
+        {
+          "options": [
+            "abhorred",
+            "countenanced",
+            "relished"
+          ],
+          "answers": [
+            "abhorred"
+          ]
+        },
+        {
+          "options": [
+            "aversion",
+            "affinity",
+            "penchant"
+          ],
+          "answers": [
+            "aversion"
+          ]
+        }
+      ],
+      "words": [
+        "abhor"
+      ],
+      "explanation": "The semicolon and \"however\" set absolute public condemnation against a feeling weak enough to be dropped on request, so blank one needs the top of the hatred scale — abhorred, the verb of moral line-drawing about a practice. Countenanced and relished would leave nothing for the contrast to work against. In blank two only aversion is a feeling one could \"set aside\" in order to authorize torture; a penchant or affinity would be a liking for it, which reverses the sentence.",
+      "id": "gregmat11__b0__tc2__00",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Whatever his failings as a politician, Adams genuinely {1} the traffic in human beings, and spent his last years in Congress fighting it at the cost of every alliance he had.",
+      "blanks": [
+        {
+          "options": [
+            "abhorred",
+            "loathed",
+            "countenanced",
+            "tolerated",
+            "relished",
+            "cherished"
+          ],
+          "answers": [
+            "abhorred",
+            "loathed"
+          ]
+        }
+      ],
+      "words": [
+        "abhor"
+      ],
+      "explanation": "Abhorred and loathed are the two that yield the same sentence: deep disgust at a practice, consistent with a career spent fighting it. Countenanced and tolerated form a tempting equivalent pair of their own, and relished and cherished another, but both pairs are killed by the clause about fighting the traffic at ruinous personal cost.",
+      "id": "gregmat11__b0__se__01",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "By the third hour the college's victory celebration had grown so {1} that the porters, who had watched a century of such nights, propped the gates open and waited it out with folded arms.",
+      "blanks": [
+        {
+          "options": [
+            "boisterous",
+            "obdurate",
+            "obsequious",
+            "obstinate",
+            "placid"
+          ],
+          "answers": [
+            "boisterous"
+          ]
+        }
+      ],
+      "words": [
+        "boisterous"
+      ],
+      "explanation": "Only boisterous describes noisy, physical high spirits — the surplus energy of people enjoying themselves, which the porters indulge rather than suppress. Obdurate and obstinate mean unyielding, obsequious means fawning, and none of the three is a property of a sound or a crowd's exuberance; placid reverses the sentence, since a calm celebration would need no waiting out.",
+      "id": "gregmat11__b0__cloze__02",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Promised an easy November passage, the emigrants spent three days pinned to their bunks while the {1} Atlantic sent crockery sliding the length of the galley.",
+      "blanks": [
+        {
+          "options": [
+            "boisterous",
+            "turbulent",
+            "placid",
+            "halcyon",
+            "cacophonous",
+            "obstreperous"
+          ],
+          "answers": [
+            "boisterous",
+            "turbulent"
+          ]
+        }
+      ],
+      "words": [
+        "boisterous"
+      ],
+      "explanation": "Of wind and sea, boisterous carries its older sense of rough and wild, making it equivalent here to turbulent. Placid and halcyon form a plausible pair but contradict the flying crockery; cacophonous concerns discordant sound and obstreperous concerns noisy defiance of control, neither of which is a way for an ocean to behave.",
+      "id": "gregmat11__b0__se__03",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Offered the seat with a flourish she found more theatrical than {1}, she took it anyway: to refuse a courtesy that had plainly cost the man something, however dated its style, would have been {2}.",
+      "blanks": [
+        {
+          "options": [
+            "chivalrous",
+            "obsequious",
+            "boorish"
+          ],
+          "answers": [
+            "chivalrous"
+          ]
+        },
+        {
+          "options": [
+            "churlish",
+            "obstinate",
+            "imprudent"
+          ],
+          "answers": [
+            "churlish"
+          ]
+        }
+      ],
+      "words": [
+        "chivalrous",
+        "churlish"
+      ],
+      "explanation": "Blank one contrasts empty display with the genuine article — self-sacrificing, faintly archaic gallantry — which is chivalrous; obsequious would make the gesture self-serving flattery rather than something that cost him, and boorish is not a standard anyone is falling short of. Blank two names the failure to rise to a kindness one has accepted the value of, which is precisely churlish; obstinate describes stubbornness and imprudent a miscalculation, neither of which is about ingratitude.",
+      "id": "gregmat11__b0__tc2__04",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Scott's novels fixed the popular image of the Middle Ages as an age of {1} self-denial — the knight surrendering his horse, his cloak and his place in the line — though the chronicles record a good deal more plunder than protection.",
+      "blanks": [
+        {
+          "options": [
+            "chivalrous",
+            "obsequious",
+            "urbane",
+            "boisterous",
+            "churlish"
+          ],
+          "answers": [
+            "chivalrous"
+          ]
+        }
+      ],
+      "words": [
+        "chivalrous"
+      ],
+      "explanation": "The examples are all acts of protective, honourable self-sacrifice performed under a code, which is what chivalrous means. Urbane describes polished social manner and implies no sacrifice, obsequious implies servility aimed at advantage, and boisterous and churlish are the wrong register entirely.",
+      "id": "gregmat11__b0__cloze__05",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Given how promptly the foundation covered the museum's deficit, it would be {1} to dwell now on the conditions it attached to the gift.",
+      "blanks": [
+        {
+          "options": [
+            "churlish",
+            "ungracious",
+            "gauche",
+            "brusque",
+            "imprudent",
+            "impertinent"
+          ],
+          "answers": [
+            "churlish",
+            "ungracious"
+          ]
+        }
+      ],
+      "words": [
+        "churlish"
+      ],
+      "explanation": "The frame is the concessive negative in which churlish lives — a sour, grudging response to a benefit already received — and ungracious says the same thing. Gauche means socially clumsy and brusque means curt in manner, faults of style rather than of gratitude; imprudent and impertinent both fit the grammar but change the complaint to unwisdom or presumption.",
+      "id": "gregmat11__b0__se__06",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The innkeeper, who had prayed all winter for exactly this custom, found he could not resent the {1} crowd singing in his yard after the races: to grudge a man his noise when the man's money was already in the till would have been {2}.",
+      "blanks": [
+        {
+          "options": [
+            "boisterous",
+            "obsequious",
+            "taciturn"
+          ],
+          "answers": [
+            "boisterous"
+          ]
+        },
+        {
+          "options": [
+            "churlish",
+            "chivalrous",
+            "vociferous"
+          ],
+          "answers": [
+            "churlish"
+          ]
+        }
+      ],
+      "words": [
+        "boisterous",
+        "churlish"
+      ],
+      "explanation": "Blank one must name cheerful, loud, unresentable rowdiness — boisterous — since taciturn crowds make no noise to resent and obsequious describes fawning, not volume. Blank two turns on the innkeeper having already profited: complaining anyway would be the small, grudging meanness of spirit that churlish names, whereas chivalrous is praise and vociferous merely repeats the idea of loudness.",
+      "id": "gregmat11__b0__tc2__07",
+      "unit": "gregmat11__b0",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": []
+}

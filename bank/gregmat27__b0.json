@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat27__b0",
+  "gregmat_group": 27,
+  "words": [
+    "antagonize",
+    "barren",
+    "bombastic",
+    "cajole"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Advisers pressed the ambassador to keep his tone {1} throughout the negotiations, warning that to {2} a junta that controlled every border crossing would leave the relief convoys stranded in the desert.",
+      "blanks": [
+        {
+          "options": [
+            "conciliatory",
+            "truculent",
+            "bombastic"
+          ],
+          "answers": [
+            "conciliatory"
+          ]
+        },
+        {
+          "options": [
+            "antagonize",
+            "placate",
+            "mollify"
+          ],
+          "answers": [
+            "antagonize"
+          ]
+        }
+      ],
+      "words": [
+        "antagonize"
+      ],
+      "explanation": "The warning clause specifies a concrete retaliation — convoys stranded by a power that can punish him — so the second blank needs the verb for turning a neutral party into an active opponent, and only antagonize does that; placate and mollify would make the warning nonsense. The first blank must then name the opposite posture, and truculent or bombastic would be exactly the behavior the advisers are cautioning against.",
+      "id": "gregmat27__b0__tc2__00",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "His repeated public attacks on the committee's chair served only to {1} the very members whose votes he would need in the autumn.",
+      "blanks": [
+        {
+          "options": [
+            "antagonize",
+            "alienate",
+            "mollify",
+            "embolden",
+            "dishearten",
+            "impress"
+          ],
+          "answers": [
+            "antagonize",
+            "alienate"
+          ]
+        }
+      ],
+      "words": [
+        "antagonize"
+      ],
+      "explanation": "The sentence describes attacks that backfire by turning needed allies against the speaker, which is what both antagonize and alienate deliver — the two produce sentences of the same import here. Mollify would reverse the logic of \"attacks ... served only to,\" while embolden, dishearten, and impress each fit grammatically but describe changes in the members' confidence or opinion rather than the loss of their goodwill.",
+      "id": "gregmat27__b0__se__01",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Decades of intensive cotton planting had left the delta soil {1}, and the reclamation scheme, for all the money poured into it, proved {2}: not one of the promised orchards ever came to anything.",
+      "blanks": [
+        {
+          "options": [
+            "barren",
+            "fallow",
+            "fecund"
+          ],
+          "answers": [
+            "barren"
+          ]
+        },
+        {
+          "options": [
+            "futile",
+            "lucrative",
+            "contentious"
+          ],
+          "answers": [
+            "futile"
+          ]
+        }
+      ],
+      "words": [
+        "barren"
+      ],
+      "explanation": "The first blank describes exhausted ground that can no longer yield, which is barren; fallow is wrong because it names land deliberately rested rather than land ruined by overuse, and fecund reverses the sense. The colon then glosses the second blank as an effort that accomplished nothing, so futile follows, while lucrative contradicts the colon and contentious describes disagreement rather than failure.",
+      "id": "gregmat27__b0__tc2__02",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Three years of shuttle diplomacy proved wholly {1}: the delegations went home without a treaty, without a truce, and without so much as an agreed agenda.",
+      "blanks": [
+        {
+          "options": [
+            "barren",
+            "futile",
+            "acrimonious",
+            "protracted",
+            "fruitful",
+            "clandestine"
+          ],
+          "answers": [
+            "barren",
+            "futile"
+          ]
+        }
+      ],
+      "words": [
+        "barren"
+      ],
+      "explanation": "The colon lists a total absence of yield from a process that was supposed to produce something, and barren and futile both name that emptiness of result, giving equivalent sentences. Acrimonious and protracted are tonally plausible for failed talks but describe bitterness and length rather than sterility, fruitful contradicts the list, and clandestine is irrelevant to outcome.",
+      "id": "gregmat27__b0__se__03",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Even sympathetic listeners left the rally unpersuaded: the candidate's delivery was unmistakably {1}, and the thunder of his perorations only advertised how {2} the program behind them was.",
+      "blanks": [
+        {
+          "options": [
+            "bombastic",
+            "understated",
+            "halting"
+          ],
+          "answers": [
+            "bombastic"
+          ]
+        },
+        {
+          "options": [
+            "vacuous",
+            "cogent",
+            "trenchant"
+          ],
+          "answers": [
+            "vacuous"
+          ]
+        }
+      ],
+      "words": [
+        "bombastic"
+      ],
+      "explanation": "\"Thunder\" and \"perorations\" establish a loud performance, so the first blank takes bombastic; understated and halting both describe the opposite kind of speaker. The second blank must be what the volume exposes rather than conceals, and only vacuous supplies the emptiness that explains why sympathetic listeners went away unpersuaded — cogent and trenchant would make the grandeur earned.",
+      "id": "gregmat27__b0__tc2__04",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Whatever his patience in committee work, the senator was on the floor a {1} orator, forever swelling a routine appropriations bill into a matter of national destiny.",
+      "blanks": [
+        {
+          "options": [
+            "bombastic",
+            "grandiloquent",
+            "laconic",
+            "pedestrian",
+            "punctilious",
+            "mendacious"
+          ],
+          "answers": [
+            "bombastic",
+            "grandiloquent"
+          ]
+        }
+      ],
+      "words": [
+        "bombastic"
+      ],
+      "explanation": "The participial clause defines the trait — small matter, inflated language — and bombastic and grandiloquent are the two words for exactly that puffery, yielding equivalent sentences. Laconic and pedestrian describe the reverse fault, punctilious speaks to fussiness about correctness, and mendacious would charge him with lying, whereas the sentence charges him only with inflation.",
+      "id": "gregmat27__b0__se__05",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Neither reasoned argument nor open threat had moved the holdouts, so the whip spent a fortnight trying to {1} them one at a time; the concessions he surrendered along the way made the eventual passage of the bill look less like a triumph than a {2}.",
+      "blanks": [
+        {
+          "options": [
+            "cajole",
+            "browbeat",
+            "rebuke"
+          ],
+          "answers": [
+            "cajole"
+          ]
+        },
+        {
+          "options": [
+            "capitulation",
+            "vindication",
+            "windfall"
+          ],
+          "answers": [
+            "capitulation"
+          ]
+        }
+      ],
+      "words": [
+        "cajole"
+      ],
+      "explanation": "Argument and threat are explicitly ruled out, leaving the third route — sustained flattery and coaxing applied to people who keep refusing — so cajole is required; browbeat is the excluded threat and rebuke would drive the holdouts further off. The second blank is fixed by the concessions surrendered, which turn the victory into a capitulation rather than a vindication or a windfall.",
+      "id": "gregmat27__b0__tc2__06",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "For three months the curator {1} the reclusive collector — weekly letters, unhurried visits, admiring remarks about his eye for provenance — until the old man at last consented to lend the triptych.",
+      "blanks": [
+        {
+          "options": [
+            "cajoled",
+            "coerced",
+            "alienated",
+            "antagonized",
+            "deprecated"
+          ],
+          "answers": [
+            "cajoled"
+          ]
+        }
+      ],
+      "words": [
+        "cajole"
+      ],
+      "explanation": "The dashes itemize sustained flattery applied over months to someone who was initially unwilling, which is precisely cajoling; coerced would require pressure or force rather than compliments. Alienated and antagonized would have ended the loan rather than secured it, and deprecated means to belittle, the opposite of what the curator was doing.",
+      "id": "gregmat27__b0__cloze__07",
+      "unit": "gregmat27__b0",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": []
+}

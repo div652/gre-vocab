@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat14__b0",
+  "gregmat_group": 14,
+  "words": [
+    "acquiesce",
+    "adroit",
+    "amend",
+    "animus"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the junior partners privately regarded the merger as ruinous, not one was willing to {1} openly, and their eventual decision to {2} in the chairman's plan was reported outside the firm as unanimity rather than as the exhaustion it really was.",
+      "blanks": [
+        {
+          "options": [
+            "dissent",
+            "acquiesce",
+            "capitulate"
+          ],
+          "answers": [
+            "dissent"
+          ]
+        },
+        {
+          "options": [
+            "acquiesce",
+            "mutiny",
+            "remonstrate"
+          ],
+          "answers": [
+            "acquiesce"
+          ]
+        }
+      ],
+      "words": [
+        "acquiesce"
+      ],
+      "explanation": "The partners objected privately but never voiced it, so the first blank names the open opposition nobody offered (dissent) and the second names the silent consent that followed (acquiesce in). \"Capitulate\" fails in blank one because the partners did in fact give in, and it fails as a substitute in blank two because capitulation follows a fight that was actually waged — the whole point here is that the objection stayed unspoken. Note also the idiom the second blank tests: one acquiesces in or to a decision.",
+      "id": "gregmat14__b0__tc2__00",
+      "unit": "gregmat14__b0",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Faced with a press corps that had arrived armed with unmistakable {1}, the ambassador proved so {2} under questioning that not one reporter managed to put the question he had come to ask.",
+      "blanks": [
+        {
+          "options": [
+            "animus",
+            "deference",
+            "facility"
+          ],
+          "answers": [
+            "animus"
+          ]
+        },
+        {
+          "options": [
+            "adroit",
+            "inept",
+            "tractable"
+          ],
+          "answers": [
+            "adroit"
+          ]
+        }
+      ],
+      "words": [
+        "animus",
+        "adroit"
+      ],
+      "explanation": "Reporters who come \"armed\" and are then thwarted must have arrived with settled hostility driving their conduct, which is animus; deference is the opposite posture, and facility is a skill, not a motive. The second blank needs the quick, socially skilful evasion that defeats them: adroit is precisely skill exercised under pressure from other people, whereas a tractable ambassador would have gone along with the questioning and an inept one would have been cornered.",
+      "id": "gregmat14__b0__tc2__01",
+      "unit": "gregmat14__b0",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics charged that the sponsor of the measure was moved less by fiscal prudence than by frank {1} toward an agency he had spent a decade attacking; the committee nonetheless voted merely to {2} the bill rather than to kill it outright.",
+      "blanks": [
+        {
+          "options": [
+            "animus",
+            "deference",
+            "ambivalence"
+          ],
+          "answers": [
+            "animus"
+          ]
+        },
+        {
+          "options": [
+            "amend",
+            "rescind",
+            "flout"
+          ],
+          "answers": [
+            "amend"
+          ]
+        }
+      ],
+      "words": [
+        "animus",
+        "amend"
+      ],
+      "explanation": "A decade of attacks establishes standing hostility offered as the motive for the sponsor's act, which is exactly what animus alleges; deference and ambivalence both contradict that history. The second blank contrasts with killing the bill, so it must be the procedural alteration that leaves the instrument alive under its own name: to amend. Rescind would repeal it, and a committee cannot flout a bill it is voting on.",
+      "id": "gregmat14__b0__tc2__02",
+      "unit": "gregmat14__b0",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Asked repeatedly whether he had known of the payments, the witness gave answers so {1} that the prosecutor spent an hour circling the same ground without once cornering him.",
+      "blanks": [
+        {
+          "options": [
+            "adroit",
+            "deft",
+            "inept",
+            "gauche",
+            "perfunctory",
+            "cumbersome"
+          ],
+          "answers": [
+            "adroit",
+            "deft"
+          ]
+        }
+      ],
+      "words": [
+        "adroit"
+      ],
+      "explanation": "The witness is never cornered, so the answers must display quick, light-handed skill under hostile questioning: adroit and deft are interchangeable here. Inept, gauche, and cumbersome all describe clumsiness and would predict the opposite outcome, and perfunctory answers — careless and cursory — fit the grammar but explain nothing about why the prosecutor failed.",
+      "id": "gregmat14__b0__se__03",
+      "unit": "gregmat14__b0",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "Irritation at a colleague passes in a day; what the tribunal had to establish was {1} — a settled hostility that could actually account for the dismissal.",
+      "blanks": [
+        {
+          "options": [
+            "animus",
+            "pique",
+            "aversion",
+            "deference",
+            "ennui"
+          ],
+          "answers": [
+            "animus"
+          ]
+        }
+      ],
+      "words": [
+        "animus"
+      ],
+      "explanation": "The sentence demands a lasting hostility alleged as the cause of an action, which is animus, the word courts use when a decision is said to have been motivated by ill will. Pique is precisely the day-long irritation the first clause excludes, and aversion is passive distaste or avoidance rather than a motive that explains conduct.",
+      "id": "gregmat14__b0__cloze__05",
+      "unit": "gregmat14__b0",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "Having lost the vote in committee and having no appetite for a public fight, the minister {1} in a policy she had spent two years privately opposing.",
+      "blanks": [
+        {
+          "options": [
+            "acquiesced",
+            "capitulated",
+            "dissented",
+            "balked",
+            "remonstrated"
+          ],
+          "answers": [
+            "acquiesced"
+          ]
+        }
+      ],
+      "words": [
+        "acquiesce"
+      ],
+      "explanation": "The objection was never voiced and the minister simply stopped resisting, which is acquiescence — consent registered by silence, and idiomatically acquiesce in a policy. Capitulate implies an open struggle that was finally lost and takes to rather than in, while dissented, balked, and remonstrated all describe the public resistance the minister explicitly declined to mount.",
+      "id": "gregmat14__b0__cloze__06",
+      "unit": "gregmat14__b0",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "The delegates voted to {1} Article 7 — striking two words from its second sentence — rather than to reopen the entire treaty.",
+      "blanks": [
+        {
+          "options": [
+            "amend",
+            "refine",
+            "ameliorate",
+            "redress",
+            "rescind"
+          ],
+          "answers": [
+            "amend"
+          ]
+        }
+      ],
+      "words": [
+        "amend"
+      ],
+      "explanation": "An authorized body altering specific wording of a text by vote, with the article surviving under its own name, is amendment in the strict procedural sense. Refine describes making something subtler or purer and is not an on-record act performed by a vote; ameliorate applies to conditions, redress to wrongs, and rescind would abolish Article 7 rather than edit it.",
+      "id": "gregmat14__b0__cloze__07",
+      "unit": "gregmat14__b0",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['rescind', 'abrogate'] vs ['amend', 'revise']",
+      "problem": "The sentence supports two distinct synonym pairs. The intended answer is presumably rescind/abrogate (kill just the disclosure section rather than scrap the whole statute), but amend/revise fits just as naturally: \"Unwilling to scrap a statute that had taken six years to pass, the committee voted only to amend/revise the section on disclosure, leaving the rest of the law intact.\" The clause \"leaving the rest of the law intact\" only limits the SCOPE of the action to one section — it does not distinguish repealing that section from rewriting it — and \"only,\" if anything, favors the milder action (amend/revise) over outright repeal. Nothing in the sentence tells the test-taker whether the committee removed or merely modified the section, so a reasonable solver choosing amend/revise would be marked wrong. Fix by adding a cue that forces deletion (e.g., \"voted only to strike the section... so that its reporting requirements no longer applied\") or one that forces modification.",
+      "stem": "Unwilling to scrap a statute that had taken six years to pass, the committee voted only to {1} the section on disclosure, leaving the rest of the law intact."
+    }
+  ]
+}

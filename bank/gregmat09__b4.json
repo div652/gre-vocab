@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat09__b4",
+  "gregmat_group": 9,
+  "words": [
+    "hodgepodge",
+    "impede",
+    "impetuous",
+    "irascible"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the tax code had grown by accretion over half a century rather than by any single design, reformers dismissed it as a {1} whose overlapping exemptions {2} routine compliance without ever making it outright impossible.",
+      "blanks": [
+        {
+          "options": [
+            "hodgepodge",
+            "mosaic",
+            "hierarchy"
+          ],
+          "answers": [
+            "hodgepodge"
+          ]
+        },
+        {
+          "options": [
+            "impeded",
+            "precluded",
+            "expedited"
+          ],
+          "answers": [
+            "impeded"
+          ]
+        }
+      ],
+      "words": [
+        "hodgepodge",
+        "impede"
+      ],
+      "explanation": "\"Grown by accretion... rather than by any single design\" plus the verb \"dismissed\" demands the noun that pronounces the mixture unplanned and incoherent; a mosaic is precisely the mixture someone arranged for effect, and a hierarchy is ordered rather than mixed at all. In the second blank, \"without ever making it outright impossible\" is the definitional line between slowing something down and stopping it: precluded would assert the impossibility the clause denies, and expedited reverses the sense entirely.",
+      "id": "gregmat09__b4__tc2__00",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Rather than the coherent doctrine its title promises, the general's memoir offers a {1} of borrowed maxims, half-remembered anecdotes, and score-settling asides, thrown together in no discernible order.",
+      "blanks": [
+        {
+          "options": [
+            "hodgepodge",
+            "farrago",
+            "medley",
+            "mosaic",
+            "amalgam",
+            "synthesis"
+          ],
+          "answers": [
+            "hodgepodge",
+            "farrago"
+          ]
+        }
+      ],
+      "words": [
+        "hodgepodge"
+      ],
+      "explanation": "\"In no discernible order\" and the deflating \"rather than the coherent doctrine its title promises\" call for a noun that both names a mixture and condemns it as unplanned, which hodgepodge and farrago alone do. Medley and mosaic imply an arranger with a pleasing or artful intention, amalgam is a neutral technical blend, and synthesis claims the very coherence the sentence withholds.",
+      "id": "gregmat09__b4__se__01",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "Engineers warned that silt accumulating behind the weir would gradually {1} the river's flow through the delta, so that water still reached the sea but too slowly to clear the channels before the spring rains.",
+      "blanks": [
+        {
+          "options": [
+            "impede",
+            "expedite",
+            "preclude",
+            "abet",
+            "bolster"
+          ],
+          "answers": [
+            "impede"
+          ]
+        }
+      ],
+      "words": [
+        "impede"
+      ],
+      "explanation": "The sentence insists the water still gets through, only more slowly, which is exactly the drag-not-stoppage that impede names, and flow is its most characteristic object. Preclude would make the passage impossible, contradicting \"still reached the sea,\" while expedite, abet, and bolster all help the flow along rather than obstruct it.",
+      "id": "gregmat09__b4__cloze__02",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues who had endured his temper for forty years remembered him as {1} to the end, yet they insisted that his rulings from the bench were never {2}: each was the product of weeks of cold, unhurried deliberation.",
+      "blanks": [
+        {
+          "options": [
+            "irascible",
+            "irate",
+            "taciturn"
+          ],
+          "answers": [
+            "irascible"
+          ]
+        },
+        {
+          "options": [
+            "impetuous",
+            "judicious",
+            "circumspect"
+          ],
+          "answers": [
+            "impetuous"
+          ]
+        }
+      ],
+      "words": [
+        "irascible",
+        "impetuous"
+      ],
+      "explanation": "\"For forty years... to the end\" marks a lifelong disposition, which is irascible; irate names a passing state of anger appropriate to a particular provocation, not a standing trait, and taciturn describes silence rather than temper. The second blank must contrast with \"weeks of cold, unhurried deliberation,\" so it needs the word for headlong action driven by feeling — judicious and circumspect would make the sentence assert that his rulings were never careful, precisely the opposite of what follows.",
+      "id": "gregmat09__b4__tc2__03",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Her resignation, emailed to the board within an hour of the vote and bitterly regretted by the next morning, struck even her closest allies as {1}.",
+      "blanks": [
+        {
+          "options": [
+            "impetuous",
+            "precipitate",
+            "foolhardy",
+            "headstrong",
+            "judicious",
+            "chary"
+          ],
+          "answers": [
+            "impetuous",
+            "precipitate"
+          ]
+        }
+      ],
+      "words": [
+        "impetuous"
+      ],
+      "explanation": "The details are all about speed and heat — an hour's interval, next-morning regret — so the two words that mean acted-on-too-fast, impetuous and precipitate, produce equivalent sentences. Foolhardy would fault her for courting a danger she should have feared and headstrong for refusing advice, neither of which the sentence supplies, while judicious and chary describe the caution she conspicuously lacked.",
+      "id": "gregmat09__b4__se__04",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "Toscanini's players learned to work around a temperament that had been {1} since his youth: the smallest lapse of intonation could set off an eruption, though the storm passed as quickly as it had gathered and left no grudge behind.",
+      "blanks": [
+        {
+          "options": [
+            "irascible",
+            "querulous",
+            "petulant",
+            "truculent",
+            "phlegmatic"
+          ],
+          "answers": [
+            "irascible"
+          ]
+        }
+      ],
+      "words": [
+        "irascible"
+      ],
+      "explanation": "The sentence isolates one thing only — a very low ignition point in a lifelong disposition — and says nothing about how the anger behaves afterward, which is exactly irascible's narrow claim. Querulous means chronically complaining and petulant childishly sulky, both of which imply a lingering aftermath the sentence denies; truculent implies menace and aggression, and phlegmatic names the opposite temperament.",
+      "id": "gregmat09__b4__cloze__05",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "The young lieutenant's {1} charge, launched before the artillery had finished its barrage, did not so much assist the assault as {2} it: the smoke of his own advance blinded the gunners for a critical quarter of an hour.",
+      "blanks": [
+        {
+          "options": [
+            "impetuous",
+            "methodical",
+            "perfunctory"
+          ],
+          "answers": [
+            "impetuous"
+          ]
+        },
+        {
+          "options": [
+            "impede",
+            "preclude",
+            "galvanize"
+          ],
+          "answers": [
+            "impede"
+          ]
+        }
+      ],
+      "words": [
+        "impetuous",
+        "impede"
+      ],
+      "explanation": "A charge launched too early, in advance of orders and of the barrage, is the headlong action driven by ardor that impetuous names; methodical contradicts the prematurity and perfunctory would make the charge half-hearted rather than overeager. The second blank is fixed by \"for a critical quarter of an hour\" — a temporary obstruction, not the outright cancellation preclude would assert, and certainly not the spur that galvanize implies.",
+      "id": "gregmat09__b4__tc2__06",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Though the memoir dwells on his generosity toward students, it does not conceal the {1} streak — the sudden flares of temper over a misplaced comma — that made junior colleagues rehearse their questions before knocking on his door.",
+      "blanks": [
+        {
+          "options": [
+            "irascible",
+            "choleric",
+            "querulous",
+            "truculent",
+            "imperious",
+            "phlegmatic"
+          ],
+          "answers": [
+            "irascible",
+            "choleric"
+          ]
+        }
+      ],
+      "words": [
+        "irascible"
+      ],
+      "explanation": "\"Sudden flares of temper\" over trivia describes a low threshold for anger as a settled trait, and irascible and choleric are the two words that mean exactly that. Querulous points to peevish complaining rather than flaring, truculent to sustained belligerence, and imperious to a domineering manner that need involve no anger at all; phlegmatic is the antonym.",
+      "id": "gregmat09__b4__se__07",
+      "unit": "gregmat09__b4",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": []
+}

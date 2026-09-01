@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat36__b1",
+  "gregmat_group": 36,
+  "words": [
+    "aphorism",
+    "benchmark",
+    "blighted",
+    "content"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "La Rochefoucauld's readers have never claimed that his psychology is new; what they admire is the {1} of the writing, which files a paragraph's worth of moralizing down to a single {2}, balanced so exactly that one remembers it against one's will.",
+      "blanks": [
+        {
+          "options": [
+            "economy",
+            "prolixity",
+            "obscurity"
+          ],
+          "answers": [
+            "economy"
+          ]
+        },
+        {
+          "options": [
+            "aphorism",
+            "platitude",
+            "digression"
+          ],
+          "answers": [
+            "aphorism"
+          ]
+        }
+      ],
+      "words": [
+        "aphorism"
+      ],
+      "explanation": "\"Files a paragraph's worth down to\" one memorable line demands economy, not prolixity (padding) or obscurity (which would not make a line quotable). The second blank must be the crafted, balanced one-liner — an aphorism; a platitude is the insult version, a line whose phrasing is stale, which contradicts the praise for exact balance, and a digression is the opposite of compression.",
+      "id": "gregmat36__b1__tc2__00",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the two laboratories had assayed the enzyme by protocols that differed at nearly every step, their yield figures were {1}; only after the field settled on one standardized procedure could either group {2} its results against the other's.",
+      "blanks": [
+        {
+          "options": [
+            "incommensurable",
+            "indisputable",
+            "redundant"
+          ],
+          "answers": [
+            "incommensurable"
+          ]
+        },
+        {
+          "options": [
+            "benchmark",
+            "extol",
+            "jettison"
+          ],
+          "answers": [
+            "benchmark"
+          ]
+        }
+      ],
+      "words": [
+        "benchmark"
+      ],
+      "explanation": "Different protocols mean the numbers cannot be placed on a common scale — incommensurable; indisputable and redundant would not require a standardized procedure to fix. Benchmarking is precisely the operation that a shared standard makes possible: the same test, run the same way, so one result can be measured against another; extol praises rather than measures.",
+      "id": "gregmat36__b1__tc2__01",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "The town's history reads less like a disaster than an infection: a local economy that was still genuinely {1} in 1890 had by 1925 been {2}, hollowed out slowly and from the edges inward as one mill after another drifted south.",
+      "blanks": [
+        {
+          "options": [
+            "flourishing",
+            "moribund",
+            "anomalous"
+          ],
+          "answers": [
+            "flourishing"
+          ]
+        },
+        {
+          "options": [
+            "blighted",
+            "razed",
+            "invigorated"
+          ],
+          "answers": [
+            "blighted"
+          ]
+        }
+      ],
+      "words": [
+        "blighted"
+      ],
+      "explanation": "The contrast with 1925 and the word \"still\" require that the earlier economy was thriving, and blight only makes sense on something that had life in it, so flourishing is the only fit. Blighted captures damage that creeps in from outside and spreads gradually; razed implies sudden, total destruction, which contradicts \"slowly and from the edges inward.\"",
+      "id": "gregmat36__b1__tc2__02",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Hale's colleagues took his refusal of the directorship for {1}, an inference his diaries — page after page of doubt about the worth of his own work — flatly contradict; he was, more simply, {2}: he wanted nothing he did not already have.",
+      "blanks": [
+        {
+          "options": [
+            "self-satisfaction",
+            "indecision",
+            "rancor"
+          ],
+          "answers": [
+            "self-satisfaction"
+          ]
+        },
+        {
+          "options": [
+            "content",
+            "complacent",
+            "sanguine"
+          ],
+          "answers": [
+            "content"
+          ]
+        }
+      ],
+      "words": [
+        "content"
+      ],
+      "explanation": "The diaries disprove a high estimate of his own merit, so the mistaken inference was self-satisfaction, and that same disproof rules out complacent in the second blank, since complacency is smugness about oneself. Content names only the absence of appetite — nothing missing, nothing craved — while sanguine would make a claim about the future turning out well, which the sentence never raises.",
+      "id": "gregmat36__b1__tc2__03",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Wilde bequeathed no system of thought, only {1}: sentences weighted so exactly that they claim no authority beyond their own polish, and that are still quoted long after the arguments they once adorned have been forgotten.",
+      "blanks": [
+        {
+          "options": [
+            "aphorisms",
+            "epigrams",
+            "platitudes",
+            "bromides",
+            "dicta",
+            "homilies"
+          ],
+          "answers": [
+            "aphorisms",
+            "epigrams"
+          ]
+        }
+      ],
+      "words": [
+        "aphorism"
+      ],
+      "explanation": "Aphorisms and epigrams are both short, authored, visibly crafted lines, which is exactly what \"weighted so exactly\" and \"their own polish\" describe. Platitudes and bromides are the stale, worn-smooth versions and cannot be praised for craft; dicta rest on the authority of the person pronouncing them, which the sentence explicitly denies, and homilies are moralizing addresses rather than single sentences.",
+      "id": "gregmat36__b1__se__04",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Two decades of soil exhaustion and steady emigration had {1} a countryside that eighteenth-century travellers had unanimously described as the richest in the province.",
+      "blanks": [
+        {
+          "options": [
+            "blighted",
+            "withered",
+            "razed",
+            "depopulated",
+            "replenished",
+            "eclipsed"
+          ],
+          "answers": [
+            "blighted",
+            "withered"
+          ]
+        }
+      ],
+      "words": [
+        "blighted"
+      ],
+      "explanation": "Blighted and withered both name a slow shriveling of something that had been rich beforehand, which is what the contrast with the travellers' reports establishes. Razed means violently leveled all at once, and depopulated names only one of the two causes rather than the general ruin; replenished reverses the sense, and eclipsed would mean merely outshone by somewhere else.",
+      "id": "gregmat36__b1__se__05",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "No one holds up the index fund as a model of investing genius; it is simply the {1} against which every active manager's performance is measured, fairly or not, at the end of each year.",
+      "blanks": [
+        {
+          "options": [
+            "benchmark",
+            "paragon",
+            "archetype",
+            "aberration",
+            "precedent"
+          ],
+          "answers": [
+            "benchmark"
+          ]
+        }
+      ],
+      "words": [
+        "benchmark"
+      ],
+      "explanation": "A benchmark is a cold measuring line that need not be excellent, which is exactly the concession made by \"no one holds it up as a model of investing genius.\" Paragon and archetype both denote something admired or copied for its perfection, and the sentence has just refused that praise; an aberration is an outlier and could not serve as a standard.",
+      "id": "gregmat36__b1__cloze__06",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Thirty years in the same country parish, with no application for preferment anywhere on record, left Herbert neither embittered nor restless but genuinely {1} with the work immediately in front of him.",
+      "blanks": [
+        {
+          "options": [
+            "content",
+            "complacent",
+            "sanguine",
+            "elated",
+            "stoic"
+          ],
+          "answers": [
+            "content"
+          ]
+        }
+      ],
+      "words": [
+        "content"
+      ],
+      "explanation": "Content names an absence of craving — nothing sought, nothing missing — which is what the unsought preferment and the denial of restlessness establish. Complacent would impute smug self-approval that the sentence never supplies, sanguine would be optimism about what is coming rather than satisfaction with what is here, and elated points upward to an excitement the low-temperature description rules out.",
+      "id": "gregmat36__b1__cloze__07",
+      "unit": "gregmat36__b1",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": []
+}

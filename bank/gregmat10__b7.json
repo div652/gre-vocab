@@ -1,0 +1,84 @@
+{
+  "unit": "gregmat10__b7",
+  "gregmat_group": 10,
+  "words": [
+    "tout",
+    "wane"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "In the 1890s the tonic was {1} by the firm that bottled it as a specific against everything from neuralgia to consumption, though its only active ingredient was diluted alcohol.",
+      "blanks": [
+        {
+          "options": [
+            "touted",
+            "trumpeted",
+            "lionized",
+            "canonized",
+            "disparaged",
+            "deprecated"
+          ],
+          "answers": [
+            "touted",
+            "trumpeted"
+          ]
+        }
+      ],
+      "words": [
+        "tout"
+      ],
+      "explanation": "\"Touted\" and \"trumpeted\" both mean promoted loudly by an interested party making an inflated forward claim, which is precisely the seller-as-praiser situation the sentence sets up. \"Lionized\" applies to people made into celebrities, and \"canonized\" means enshrined as sacred or authoritative — neither describes a sales pitch. \"Disparaged\" and \"deprecated\" fit the syntax and the sardonic tone but invert the meaning, since the manufacturer is plainly overselling.",
+      "id": "gregmat10__b7__se__01",
+      "unit": "gregmat10__b7",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Because political influence is always measured against what was once held, historians describe Roman authority in Britain as having {1} rather than {2}: garrisons thinned, coinage grew scarce, and administration devolved piecemeal to local hands, with no datable moment of rupture.",
+      "blanks": [
+        {
+          "options": [
+            "waned",
+            "burgeoned",
+            "ossified"
+          ],
+          "answers": [
+            "waned"
+          ]
+        },
+        {
+          "options": [
+            "plummeted",
+            "abated",
+            "dwindled"
+          ],
+          "answers": [
+            "plummeted"
+          ]
+        }
+      ],
+      "words": [
+        "wane"
+      ],
+      "explanation": "The first blank needs a decline reckoned from a peak, so \"waned\" fits, while \"burgeoned\" is growth and \"ossified\" means hardened into rigidity rather than diminished. The \"rather than\" construction requires the second blank to name the sharper, faster version of the same movement that the evidence explicitly rules out, and only \"plummeted\" is fast and alarming. \"Abated\" and \"dwindled\" are as gradual as \"waned,\" so either would make the intended contrast collapse.",
+      "id": "gregmat10__b7__tc2__03",
+      "unit": "gregmat10__b7",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is clean (waned is the only decrease word), but blank {1} is not unique: both \"touted\" and \"lionized\" are positive verbs that fit \"the very utilities that had staked their capital on them\" plus the glowing appositive, and the sentence contains no cue distinguishing self-interested promotion from adulation. \"Lionize\" is not strictly person-restricted (MW: \"to treat as an object of great interest or importance\"), so a reasonable test-taker choosing it would be marked wrong without textual justification. Fix by signaling the promotional/commercial register of the praise (e.g. \"in prospectuses and sales literature\") or by replacing \"lionized\" with a clearly negative or neutral distractor.",
+      "stem": "Breeder reactors were {1} throughout the 1970s by the very utilities that had staked their capital on them — the machine that would render uranium scarcity irrelevant; when construction costs climbed and no commercial plant materialized, official enthusiasm {2} just as steadily as it had risen."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only establishes the direction of the blank (decline, contrasted with \"swelled again\"), and four of the five options — waned, subsided, attenuated, abated — all mean \"diminished.\" Only \"burgeoned\" is excluded. \"Waned\" is the most idiomatic with \"reputation\" and best mirrors \"swelled\" (wax/wane), but that is a collocational preference, not a constraint the sentence imposes; nothing about a gradual multi-decade decline in standing rules out \"attenuated\" or \"subsided\" or \"abated.\" A reasonable test-taker picking \"attenuated\" would be marked wrong for no principled reason. To fix, replace three of the decline synonyms with distractors that fail the direction test or the register (e.g. \"crested,\" \"ossified,\" \"diversified\"), or add a qualifier that only one word satisfies (e.g. \"abruptly,\" \"to near-total obscurity\").",
+      "stem": "The rhythm of literary standing is cyclical rather than terminal: Coleridge's reputation {1} through the Victorian period and swelled again after 1900, so that no verdict on him has held for more than two generations."
+    }
+  ]
+}

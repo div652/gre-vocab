@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat11__b5",
+  "gregmat_group": 11,
+  "words": [
+    "preclude",
+    "predilection",
+    "rapacious",
+    "relish"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The arbitration clause did not {1} litigation altogether; it merely {2} it, obliging the parties to exhaust two rounds of mediation before any suit could be filed.",
+      "blanks": [
+        {
+          "options": [
+            "preclude",
+            "hamper",
+            "precipitate"
+          ],
+          "answers": [
+            "preclude"
+          ]
+        },
+        {
+          "options": [
+            "impeded",
+            "obviated",
+            "engendered"
+          ],
+          "answers": [
+            "impeded"
+          ]
+        }
+      ],
+      "words": [
+        "preclude"
+      ],
+      "explanation": "The structure is a denial of total impossibility followed by a weaker concession, so blank 1 needs the flat-impossibility word (preclude) and blank 2 the friction word (impeded). Choosing 'hamper' in blank 1 collapses the contrast, since 'merely impeded' would then restate rather than downgrade it; 'obviated' fails in blank 2 because the clause makes suits harder to file, not unnecessary.",
+      "id": "gregmat11__b5__tc2__00",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the sample was handled repeatedly before anyone thought to record its provenance, the resulting contamination {1} any confident dating of the burial: no technique now available can fix its age within three centuries.",
+      "blanks": [
+        {
+          "options": [
+            "precludes",
+            "forestalls",
+            "obviates",
+            "averts",
+            "deters"
+          ],
+          "answers": [
+            "precludes"
+          ]
+        }
+      ],
+      "words": [
+        "preclude"
+      ],
+      "explanation": "The colon spells out flat impossibility arising from a state of affairs, which is exactly preclude's impersonal, structural force. 'Forestalls' and 'averts' would require an agent heading off an unwanted event in time, and 'obviates' would mean the dating had been rendered unnecessary rather than unattainable.",
+      "id": "gregmat11__b5__cloze__01",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Far from finding cross-examination an ordeal, Darrow {1} it, drawing out each contradiction slowly enough that his pleasure was plain to the jury.",
+      "blanks": [
+        {
+          "options": [
+            "relished",
+            "savored",
+            "abhorred",
+            "loathed",
+            "endured",
+            "tolerated"
+          ],
+          "answers": [
+            "relished",
+            "savored"
+          ]
+        }
+      ],
+      "words": [
+        "relish"
+      ],
+      "explanation": "Relish and savor both denote visible, appetitive enjoyment drawn out over time, which is what the slow handling and evident pleasure describe. 'Abhorred' and 'loathed' invert the sentence, and 'endured' and 'tolerated' — though they form a tempting matched pair — describe getting through something unpleasant, which 'far from finding it an ordeal' has already ruled out.",
+      "id": "gregmat11__b5__se__02",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Though the museum's founder is remembered as a scholarly collector with a {1} for early Flemish panels, his contemporaries reached for a harsher word, describing a {2} buyer who stripped impoverished estates of the heirlooms their owners could no longer afford to keep.",
+      "blanks": [
+        {
+          "options": [
+            "predilection",
+            "antipathy",
+            "aversion"
+          ],
+          "answers": [
+            "predilection"
+          ]
+        },
+        {
+          "options": [
+            "rapacious",
+            "munificent",
+            "venal"
+          ],
+          "answers": [
+            "rapacious"
+          ]
+        }
+      ],
+      "words": [
+        "predilection",
+        "rapacious"
+      ],
+      "explanation": "'Though' sets a mild, creditable taste against a damning charge, so blank 1 needs the polite standing preference (predilection) and blank 2 the strongest greed word, one that requires power and a stripped victim. 'Antipathy' and 'aversion' would make the founder dislike what he collected and destroy the concession; 'venal' means open to bribery and 'munificent' means lavishly generous, neither of which describes plundering estates.",
+      "id": "gregmat11__b5__tc2__03",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "With a private army to enforce its charters, the company was not merely acquisitive but {1}: it taxed the harvest, seized the looms of weavers who had no recourse, and left famine in the districts it administered.",
+      "blanks": [
+        {
+          "options": [
+            "rapacious",
+            "avaricious",
+            "mercenary",
+            "venal",
+            "parsimonious"
+          ],
+          "answers": [
+            "rapacious"
+          ]
+        }
+      ],
+      "words": [
+        "rapacious"
+      ],
+      "explanation": "The colon supplies armed seizure and stripped victims, the conditions that distinguish rapacity from ordinary greed. Avarice hoards money as a private vice and would not be an escalation over 'acquisitive' in this context of plunder; 'venal' means purchasable, 'mercenary' merely money-motivated, and 'parsimonious' means stingy.",
+      "id": "gregmat11__b5__cloze__04",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Even in his earliest reviews Mencken showed a marked {1} for continental theory, citing Hegel where his contemporaries reached for Locke — a matter of taste, his biographer insists, rather than of expertise.",
+      "blanks": [
+        {
+          "options": [
+            "predilection",
+            "penchant",
+            "facility",
+            "aptitude",
+            "distaste",
+            "aversion"
+          ],
+          "answers": [
+            "predilection",
+            "penchant"
+          ]
+        }
+      ],
+      "words": [
+        "predilection"
+      ],
+      "explanation": "Predilection and penchant both name a settled, pre-formed liking, which is what a habitual preference for one tradition over another amounts to. 'Facility' and 'aptitude' fit the frame grammatically but denote skill, which the closing clause explicitly excludes; 'distaste' and 'aversion' contradict the evidence that he kept citing Hegel by choice.",
+      "id": "gregmat11__b5__se__05",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Churchill {1} the wartime broadcasts, lingering audibly over the cadence of his own periods; Attlee's temperament, all committee-room dryness, {2} any comparable performance at the microphone, whatever his speechwriters put in front of him.",
+      "blanks": [
+        {
+          "options": [
+            "relished",
+            "endured",
+            "tolerated"
+          ],
+          "answers": [
+            "relished"
+          ]
+        },
+        {
+          "options": [
+            "precluded",
+            "forestalled",
+            "obviated"
+          ],
+          "answers": [
+            "precluded"
+          ]
+        }
+      ],
+      "words": [
+        "relish",
+        "preclude"
+      ],
+      "explanation": "Lingering audibly over one's own cadences is savouring, so blank 1 must be relished; 'endured' or 'tolerated' would contradict the detail. In blank 2 a fixed temperament is a condition, not an agent acting in time, which is preclude rather than forestall, and 'obviated' would wrongly say the performance was rendered unnecessary rather than impossible.",
+      "id": "gregmat11__b5__tc2__06",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Asked whether he would return to the table, the ambassador allowed only that he did not {1} the prospect of another winter of shuttle diplomacy — an understatement his aides read as something close to despair.",
+      "blanks": [
+        {
+          "options": [
+            "relish",
+            "abide",
+            "brook",
+            "countenance",
+            "forestall"
+          ],
+          "answers": [
+            "relish"
+          ]
+        }
+      ],
+      "words": [
+        "relish"
+      ],
+      "explanation": "'Did not relish the prospect' is the standard English understatement for dread, which is exactly how the aides interpret it. 'Abide,' 'brook,' and 'countenance' in the negative would mean he refused to permit or endure the talks — a declaration, not a wry admission of dismay — and 'forestall' would say he failed to prevent them.",
+      "id": "gregmat11__b5__cloze__07",
+      "unit": "gregmat11__b5",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": []
+}

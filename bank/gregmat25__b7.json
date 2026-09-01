@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat25__b7",
+  "gregmat_group": 25,
+  "words": [
+    "whimsical",
+    "yield"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Gaudí's mushroom chimneys and lizard-backed benches are praised as {1}, the word registering a designer's delight in passing fancy; but the same readiness to act on momentary impulse, found in a magistrate whose rulings litigants must be able to anticipate, earns the harsher label {2}.",
+      "blanks": [
+        {
+          "options": [
+            "whimsical",
+            "peculiar",
+            "obdurate"
+          ],
+          "answers": [
+            "whimsical"
+          ]
+        },
+        {
+          "options": [
+            "capricious",
+            "idiosyncratic",
+            "unyielding"
+          ],
+          "answers": [
+            "capricious"
+          ]
+        }
+      ],
+      "words": [
+        "whimsical"
+      ],
+      "explanation": "The sentence turns on one quality — acting on passing fancy — receiving warm praise in design and condemnation in a judge, which is exactly the split between whimsical and capricious. \"Peculiar\" names oddity without the note of praise or of motive, and \"idiosyncratic\" names a stable personal trait rather than the unpredictability that makes a magistrate dangerous; \"obdurate\" and \"unyielding\" describe rigidity, the opposite of impulse.",
+      "id": "gregmat25__b7__tc2__00",
+      "unit": "gregmat25__b7",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "The mediator had counted on some flexibility from at least one party, but on the question of pension liabilities both delegations proved entirely {1}, and the talks collapsed inside a week.",
+      "blanks": [
+        {
+          "options": [
+            "unyielding",
+            "obdurate",
+            "acquiescent",
+            "capricious",
+            "whimsical",
+            "idiosyncratic"
+          ],
+          "answers": [
+            "unyielding",
+            "obdurate"
+          ]
+        }
+      ],
+      "words": [
+        "yield"
+      ],
+      "explanation": "\"Flexibility ... but\" sets up refusal to give an inch, and unyielding and obdurate are the two options that name exactly that rigidity. \"Acquiescent\" reverses the sense the contrast demands, while \"capricious,\" \"whimsical,\" and \"idiosyncratic\" would each yield a grammatical sentence about erratic or peculiar negotiators — a different failure, and one that pairs with nothing else on the list.",
+      "id": "gregmat25__b7__se__01",
+      "unit": "gregmat25__b7",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the menagerie was plotted in advance: Lear drew whatever long-legged creature amused him on a given morning, and the pages have a {1} charm that a more deliberate illustrator could never have contrived.",
+      "blanks": [
+        {
+          "options": [
+            "whimsical",
+            "idiosyncratic",
+            "peculiar",
+            "intransigent",
+            "methodical"
+          ],
+          "answers": [
+            "whimsical"
+          ]
+        }
+      ],
+      "words": [
+        "whimsical"
+      ],
+      "explanation": "The clause insists the drawings followed the artist's passing amusement rather than any plan, which is precisely what whimsical names — motive, not mere oddity. \"Idiosyncratic\" and \"peculiar\" would describe a stable quirk of style, consistent with careful deliberation and so at odds with \"could never have contrived\"; \"intransigent\" and \"methodical\" contradict the sentence outright.",
+      "id": "gregmat25__b7__cloze__02",
+      "unit": "gregmat25__b7",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the exchange suggested defeat: the senator simply {1} the floor to her colleague, as the chamber's rules encourage, and observers who read the gesture as a {2} extracted by three weeks of lobbying badly misjudged it.",
+      "blanks": [
+        {
+          "options": [
+            "yielded",
+            "acquiesced",
+            "appeased"
+          ],
+          "answers": [
+            "yielded"
+          ]
+        },
+        {
+          "options": [
+            "capitulation",
+            "courtesy",
+            "precedent"
+          ],
+          "answers": [
+            "capitulation"
+          ]
+        }
+      ],
+      "words": [
+        "yield"
+      ],
+      "explanation": "Only yield can take \"the floor\" as an object and carry the neutral, even courteous sense the first clause demands; acquiesce is intransitive and implies prior resistance, and appease implies placating an opponent. The second blank must name the mistaken reading — defeat under pressure — so capitulation is required, whereas \"courtesy\" is the correct reading the observers are said to have missed.",
+      "id": "gregmat25__b7__tc2__03",
+      "unit": "gregmat25__b7",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": []
+}

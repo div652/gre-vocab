@@ -1,0 +1,211 @@
+{
+  "unit": "gregmat04__b2",
+  "gregmat_group": 4,
+  "words": [
+    "fervid",
+    "garrulous",
+    "incendiary",
+    "inimical"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Where the early pamphlets had been cool and analytical, the wartime ones were so {1} that magistrates reading them aloud in council judged them frankly {2} — less an argument than a match dropped into dry grass.",
+      "blanks": [
+        {
+          "options": [
+            "fervid",
+            "laconic",
+            "florid"
+          ],
+          "answers": [
+            "fervid"
+          ]
+        },
+        {
+          "options": [
+            "incendiary",
+            "contentious",
+            "adverse"
+          ],
+          "answers": [
+            "incendiary"
+          ]
+        }
+      ],
+      "words": [
+        "fervid",
+        "incendiary"
+      ],
+      "explanation": "The contrast with \"cool and analytical\" demands heat, and the magistrates are outsiders passing judgement on an overheated text — exactly the stance fervid encodes; florid would name ornament rather than temperature, and nothing in the sentence concerns style. For the second blank, contentious would say only that people disagreed, whereas the match-in-dry-grass image names deliberate ignition, which is what incendiary asserts.",
+      "id": "gregmat04__b2__tc2__00",
+      "unit": "gregmat04__b2",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "The strict speaking clock proved {1} to the very deliberation it was meant to protect: careful members fell silent rather than truncate an argument, while the {2} ones merely compressed the same digressions into a faster patter.",
+      "blanks": [
+        {
+          "options": [
+            "inimical",
+            "conducive",
+            "integral"
+          ],
+          "answers": [
+            "inimical"
+          ]
+        },
+        {
+          "options": [
+            "garrulous",
+            "laconic",
+            "reticent"
+          ],
+          "answers": [
+            "garrulous"
+          ]
+        }
+      ],
+      "words": [
+        "inimical",
+        "garrulous"
+      ],
+      "explanation": "The colon explains a failure, so the rule worked against the thing it was meant to protect: inimical to, the structural-opposition sense, while conducive and integral would both make the clock a help. The second blank must name the members who kept talking about nothing — digressions is the giveaway — so garrulous, not laconic or reticent, which describe the ones who fell silent.",
+      "id": "gregmat04__b2__tc2__01",
+      "unit": "gregmat04__b2",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "The thin, salt-crusted soils of the delta are {1} to nearly every crop the colonists imported; after four seasons only a hardy local millet was still being sown.",
+      "blanks": [
+        {
+          "options": [
+            "inimical",
+            "detrimental",
+            "congenial",
+            "salutary",
+            "amenable",
+            "hospitable"
+          ],
+          "answers": [
+            "inimical",
+            "detrimental"
+          ]
+        }
+      ],
+      "words": [
+        "inimical"
+      ],
+      "explanation": "Only one crop survives, so the soils work against the imported plants: inimical and detrimental both mean harmful to, and both take the required to. Congenial, salutary and hospitable are the tonally smooth reversals, and amenable is the lookalike trap — it would mean the soil was willing to be managed, not that it killed what was planted.",
+      "id": "gregmat04__b2__se__03",
+      "unit": "gregmat04__b2",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "The biography is scrupulous about dates and documents, but its {1} defence of Byron's conduct toward his creditors reads less like history than like advocacy.",
+      "blanks": [
+        {
+          "options": [
+            "fervid",
+            "fervent",
+            "florid",
+            "perfunctory",
+            "desultory",
+            "laconic"
+          ],
+          "answers": [
+            "fervid",
+            "fervent"
+          ]
+        }
+      ],
+      "words": [
+        "fervid"
+      ],
+      "explanation": "The defence is hot enough to overwhelm the scholarship, and fervid and fervent both mean burning with feeling, yielding equivalent sentences here. Florid is the lookalike and names ornateness of style, which would not by itself turn history into advocacy; perfunctory, desultory and laconic all describe a defence too slack to be mistaken for special pleading.",
+      "id": "gregmat04__b2__se__04",
+      "unit": "gregmat04__b2",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "The broadside was not merely partisan but {1}: it printed the magistrates' home addresses beneath a woodcut of a blazing courthouse and advised readers which hour was best.",
+      "blanks": [
+        {
+          "options": [
+            "incendiary",
+            "contentious",
+            "polemical",
+            "controversial",
+            "provocative"
+          ],
+          "answers": [
+            "incendiary"
+          ]
+        }
+      ],
+      "words": [
+        "incendiary"
+      ],
+      "explanation": "The \"not merely\" construction requires something beyond partisanship, and the addresses plus the recommended hour show a text engineered to produce violence, which is precisely what incendiary claims. Polemical and contentious describe aggressive argument, and controversial only reports that people disagreed; none of them attributes to the author the intent to have something burn.",
+      "id": "gregmat04__b2__cloze__05",
+      "unit": "gregmat04__b2",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians agree that the station's nightly broadcasts were {1} by design — naming villages, urging listeners to act before dawn — and that the atmosphere they created was {2} to any settlement the negotiators might still have reached.",
+      "blanks": [
+        {
+          "options": [
+            "incendiary",
+            "equivocal",
+            "decorous"
+          ],
+          "answers": [
+            "incendiary"
+          ]
+        },
+        {
+          "options": [
+            "inimical",
+            "conducive",
+            "indifferent"
+          ],
+          "answers": [
+            "inimical"
+          ]
+        }
+      ],
+      "words": [
+        "incendiary",
+        "inimical"
+      ],
+      "explanation": "\"By design\" plus the naming of targets points to intent to ignite violence, the defining element of incendiary; equivocal would mean the broadcasts were ambiguous, which contradicts the explicit instructions. The second blank names an environment that made an outcome impossible, so inimical to, not conducive to, and indifferent would deny the causal link the sentence asserts.",
+      "id": "gregmat04__b2__tc2__06",
+      "unit": "gregmat04__b2",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only requires \"excessively talkative/long-winded,\" and FOUR options satisfy that: garrulous, prolix, loquacious, and voluble. Nothing in the context discriminates among them — the clues (\"endurance test,\" anecdotes that \"arrived nowhere\") point at tedious verbosity in general, which garrulous and prolix carry most strongly, but loquacious + voluble form an equally coherent synonym pair meaning \"given to abundant, fluent speech,\" and garrulous + loquacious is the textbook pairing. Only taciturn and laconic are excluded. A test-taker could defensibly pick any of at least three different pairs, so the item has no unique answer. Fix by cutting two of the four talkative words (e.g., leave only garrulous and prolix plus two additional non-fitting distractors), or by adding a clue that forces \"tedious length\" over \"mere fluency.\"",
+      "stem": "Diners of the period recalled Dr. Hollis with dread: his {1} table talk turned every meal into an endurance test, each anecdote about a neighbour's fence spawning three more that arrived nowhere."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three of the five options (garrulous, loquacious, voluble) all mean \"talkative\" and all satisfy the contrast with \"eloquent.\" Only taciturn and reticent are excluded. \"Garrulous\" is the best fit because it uniquely connotes tedious rambling about trivia, matching the hour on a garden gate and the trapped guests — but the sentence provides no cue that discriminates it from \"loquacious,\" which fits the not-eloquent-merely-talkative contrast just as idiomatically. A reasonable test-taker choosing \"loquacious\" would be marked wrong without having made an error.",
+      "stem": "Uncle Ferdinand was not eloquent, merely {1}: he could spend an hour on the provenance of a garden gate, and no guest had yet discovered a way out of the room."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "unit": "gregmat10__b4",
+  "gregmat_group": 10,
+  "words": [
+    "nonchalant",
+    "partial",
+    "pensive",
+    "portend"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the monitoring data — swarms of shallow tremors, a bulging flank — {1} an eruption within weeks, the governor gave a {2} press conference, shrugging at the questions and joking about lava tourism, and the coastal towns made no preparations.",
+      "blanks": [
+        {
+          "options": [
+            "portended",
+            "forestalled",
+            "discounted"
+          ],
+          "answers": [
+            "portended"
+          ]
+        },
+        {
+          "options": [
+            "nonchalant",
+            "tendentious",
+            "pensive"
+          ],
+          "answers": [
+            "nonchalant"
+          ]
+        }
+      ],
+      "words": [
+        "portend",
+        "nonchalant"
+      ],
+      "explanation": "Instrument readings are things, not people, and what they signal here is disaster, so they portend the eruption; data cannot forestall (prevent) or discount (dismiss) the event they are evidence of. The second blank is fixed by the shrug and the joke — visible unconcern, which is exactly what nonchalant reports; tendentious would mean slanted toward a cause, and pensive would mean sunk in melancholy thought, the opposite of joking.",
+      "id": "gregmat10__b4__tc2__00",
+      "unit": "gregmat10__b4",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "What unsettled the tellers was not the robbery itself but the thief's {1} departure: he strolled to the door, paused to hold it open for an elderly customer, and whistled his way down the street.",
+      "blanks": [
+        {
+          "options": [
+            "nonchalant",
+            "blithe",
+            "callous",
+            "furtive",
+            "harried",
+            "punctilious"
+          ],
+          "answers": [
+            "nonchalant",
+            "blithe"
+          ]
+        }
+      ],
+      "words": [
+        "nonchalant"
+      ],
+      "explanation": "Nonchalant and blithe both describe an outward manner free of any sign of anxiety, which is precisely what the strolling and whistling display. Callous would assert unfeeling cruelty toward someone's suffering, a claim the sentence never makes; furtive and harried fit the noun 'departure' comfortably but describe the sneaking or frantic exit the details explicitly rule out.",
+      "id": "gregmat10__b4__se__01",
+      "unit": "gregmat10__b4",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Though her memoir is unabashedly {1} — every rival she ever fought appears in it as either a fool or a knave — the closing chapter is unexpectedly {2}, turning over the friendships that decades of feuding had cost her.",
+      "blanks": [
+        {
+          "options": [
+            "partial",
+            "disinterested",
+            "equitable"
+          ],
+          "answers": [
+            "partial"
+          ]
+        },
+        {
+          "options": [
+            "pensive",
+            "nonchalant",
+            "jubilant"
+          ],
+          "answers": [
+            "pensive"
+          ]
+        }
+      ],
+      "words": [
+        "partial",
+        "pensive"
+      ],
+      "explanation": "A book that casts every opponent as a fool is tilted toward one side, so partial is required; disinterested and equitable name the neutrality the dash-clause denies. The 'though' then demands a reversal of that combative tone, and pensive supplies it — quiet thought shaded with sadness — whereas nonchalant would mean she shows no concern at all and jubilant would mean she rejoices in the losses.",
+      "id": "gregmat10__b4__tc2__02",
+      "unit": "gregmat10__b4",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "The commission's report, drafted largely by officials seconded from the very ministry it had been convened to scrutinize, struck outside reviewers as so {1} that its conclusions were dismissed almost before they were read.",
+      "blanks": [
+        {
+          "options": [
+            "partial",
+            "tendentious",
+            "disinterested",
+            "perfunctory",
+            "exhaustive",
+            "anodyne"
+          ],
+          "answers": [
+            "partial",
+            "tendentious"
+          ]
+        }
+      ],
+      "words": [
+        "partial"
+      ],
+      "explanation": "Both partial and tendentious describe a document slanted toward the interest it should have judged neutrally, and either yields the same reason for the summary dismissal. Disinterested names the impartiality the staffing arrangement makes impossible; perfunctory (done carelessly) and anodyne (inoffensive) fit the grammar and the register but explain the reviewers' distrust of the conclusions far less directly, and neither has a partner among the options.",
+      "id": "gregmat10__b4__se__03",
+      "unit": "gregmat10__b4",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "In the finished portrait Rembrandt has thinned away the half-smile of the preparatory study, leaving a face that is simply {1}: absorbed in something the viewer is never told, neither grieving nor glad.",
+      "blanks": [
+        {
+          "options": [
+            "pensive",
+            "wistful",
+            "morose",
+            "lugubrious",
+            "ebullient"
+          ],
+          "answers": [
+            "pensive"
+          ]
+        }
+      ],
+      "words": [
+        "pensive"
+      ],
+      "explanation": "Pensive is the one option that names quiet absorption in thought with no object supplied, which is what 'something the viewer is never told' insists on. Wistful would require a named absent thing to be longed for; morose and lugubrious assert a settled gloom that 'neither grieving nor glad' excludes, and ebullient reverses the mood entirely.",
+      "id": "gregmat10__b4__cloze__05",
+      "unit": "gregmat10__b4",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Falling water tables and a second consecutive failed monsoon {1} a famine that the region's depleted relief agencies were in no position to meet.",
+      "blanks": [
+        {
+          "options": [
+            "portend",
+            "presage",
+            "forestall",
+            "belie",
+            "chronicle",
+            "obscure"
+          ],
+          "answers": [
+            "portend",
+            "presage"
+          ]
+        }
+      ],
+      "words": [
+        "portend"
+      ],
+      "explanation": "Portend and presage both mean to serve as a sign of something coming, and each takes the disaster itself as its object, as the clause about unprepared agencies requires. Forestall would mean the conditions prevent the famine, which contradicts the sentence's dread; belie and obscure are grammatically smooth but would make the drought conceal a famine rather than announce one.",
+      "id": "gregmat10__b4__se__06",
+      "unit": "gregmat10__b4",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues took the chancellor's {1} silence through the long budget debate — the downcast gaze, the sentences left unfinished — for nothing worse than fatigue; in hindsight it {2} the resignation she announced a week later.",
+      "blanks": [
+        {
+          "options": [
+            "pensive",
+            "nonchalant",
+            "partial"
+          ],
+          "answers": [
+            "pensive"
+          ]
+        },
+        {
+          "options": [
+            "portended",
+            "belied",
+            "forestalled"
+          ],
+          "answers": [
+            "portended"
+          ]
+        }
+      ],
+      "words": [
+        "pensive",
+        "portend"
+      ],
+      "explanation": "The downcast gaze and trailing sentences describe an outwardly observed mood of sad abstraction, which is pensive; nonchalant would claim she looked untroubled, and partial would claim she favored a side. The silence is then retrospectively read as an omen of the resignation, so it portended it — belied would mean it gave a false impression of the resignation, and forestalled would mean it prevented the event that in fact occurred.",
+      "id": "gregmat10__b4__tc2__07",
+      "unit": "gregmat10__b4",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The contrast (\"austere and forbidding in public... in private ___ to exactly the sort of light salon waltzes he would not deign to mention\") requires a word meaning secretly fond of/drawn to. \"Partial\" is the cleanest idiom (\"partial to\" = having a liking for), but \"susceptible\" is also genuinely defensible: \"in private susceptible to exactly the sort of light salon waltzes\" reads as \"privately a sucker for them / not immune to their charms,\" which satisfies the same public-vs-private contrast and is standard GRE-level usage. Nothing in the sentence distinguishes an active fondness from a weakness for, so a reasonable test-taker choosing \"susceptible\" would be marked wrong on idiom preference alone. (The other three — averse, indifferent, hostile — all fail, since they would merely echo his public austerity and destroy the contrast.)",
+      "stem": "Austere and forbidding in his public pronouncements on music, Sibelius was in private {1} to exactly the sort of light salon waltzes he would not deign to mention in an interview."
+    }
+  ]
+}

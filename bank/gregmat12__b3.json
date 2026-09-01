@@ -1,0 +1,210 @@
+{
+  "unit": "gregmat12__b3",
+  "gregmat_group": 12,
+  "words": [
+    "hackneyed",
+    "incongruous",
+    "interchangeable",
+    "laconic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Whitman's admirers insist that his long catalogues were startlingly original in 1855; a century of imitation has since worn them {1}, so that a device once prized for its audacity now strikes first-time readers as merely {2}.",
+      "blanks": [
+        {
+          "options": [
+            "hackneyed",
+            "incongruous",
+            "laconic"
+          ],
+          "answers": [
+            "hackneyed"
+          ]
+        },
+        {
+          "options": [
+            "derivative",
+            "iconoclastic",
+            "unprecedented"
+          ],
+          "answers": [
+            "derivative"
+          ]
+        }
+      ],
+      "words": [
+        "hackneyed"
+      ],
+      "explanation": "The cause named is a century of imitation — wear through repetition — which is exactly what hackneyed indicts; incongruous would require a setting to clash with, and laconic concerns brevity. In the second blank, \"merely\" signals a deflating verdict, so iconoclastic and unprecedented (both restatements of the audacity being lost) are excluded, leaving derivative: readers who met the copies first now take the original for a copy.",
+      "id": "gregmat12__b3__tc2__00",
+      "unit": "gregmat12__b3",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "The eulogy was assembled almost entirely out of phrases that generations of funeral oratory had already used to death — a life well lived, gone but not forgotten — and the mourners' attention drifted from the first {1} sentence onward.",
+      "blanks": [
+        {
+          "options": [
+            "hackneyed",
+            "banal",
+            "incongruous",
+            "outlandish",
+            "laconic",
+            "unprecedented"
+          ],
+          "answers": [
+            "hackneyed",
+            "banal"
+          ]
+        }
+      ],
+      "words": [
+        "hackneyed"
+      ],
+      "explanation": "The sentence supplies a track record of overuse, which makes hackneyed exact and banal an acceptable equivalent, since both leave the reader with flat, exhausted language. Incongruous and outlandish fit grammatically and are tonally plausible but assert a clash or a strangeness that the stock funeral phrases plainly do not have, and neither pairs with any other option to yield the same sentence twice.",
+      "id": "gregmat12__b3__se__01",
+      "unit": "gregmat12__b3",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics at first dismissed the exposed brass ductwork as {1} — industrial plumbing stranded among marble nudes — but Havelock argues that the jarring was calculated, since the sculptor wanted the gallery's serene classicism to look {2} rather than inevitable.",
+      "blanks": [
+        {
+          "options": [
+            "incongruous",
+            "hackneyed",
+            "interchangeable"
+          ],
+          "answers": [
+            "incongruous"
+          ]
+        },
+        {
+          "options": [
+            "conventional",
+            "paradigmatic",
+            "unprecedented"
+          ],
+          "answers": [
+            "conventional"
+          ]
+        }
+      ],
+      "words": [
+        "incongruous"
+      ],
+      "explanation": "The appositive gives a thing at odds with its surroundings, which is precisely incongruous; hackneyed would charge overuse and interchangeable would claim the ductwork could be swapped for the nudes without loss. The second blank is fixed by \"rather than inevitable\": the sculptor wants the classical style seen as one chosen convention among others, so conventional is required, while paradigmatic edges toward inevitability and unprecedented reverses the contrast.",
+      "id": "gregmat12__b3__tc2__02",
+      "unit": "gregmat12__b3",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "A grain elevator does not return the very bushels a farmer deposited, and no depositor objects, since wheat of a given grade is {1}: one lot serves as well as another.",
+      "blanks": [
+        {
+          "options": [
+            "interchangeable",
+            "fungible",
+            "analogous",
+            "disparate",
+            "idiosyncratic",
+            "ubiquitous"
+          ],
+          "answers": [
+            "interchangeable",
+            "fungible"
+          ]
+        }
+      ],
+      "words": [
+        "interchangeable"
+      ],
+      "explanation": "The colon defines the blank as substitution without loss, which interchangeable and fungible both name, the second being the commercial term of art for exactly this case. Analogous and ubiquitous read smoothly in the slot but assert resemblance or wide occurrence rather than substitutability, and disparate and idiosyncratic reverse the sentence's logic.",
+      "id": "gregmat12__b3__se__05",
+      "unit": "gregmat12__b3",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Wellington's field dispatches are famously {1}: he reported the storming of a fortified city in nine words and appended nothing by way of comment.",
+      "blanks": [
+        {
+          "options": [
+            "laconic",
+            "terse",
+            "taciturn",
+            "reticent",
+            "garrulous",
+            "ornate"
+          ],
+          "answers": [
+            "laconic",
+            "terse"
+          ]
+        }
+      ],
+      "words": [
+        "laconic"
+      ],
+      "explanation": "The evidence is what was written — nine words doing the work of a paragraph — so the blank must describe the style of the writing, and laconic and terse both do, with the same dry compression. Taciturn and reticent are the tempting near-misses: they describe a person's disposition to stay silent or hold back, not the character of a text that was in fact composed and sent.",
+      "id": "gregmat12__b3__se__06",
+      "unit": "gregmat12__b3",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Hemingway's Nick Adams is not evasive — he answers every question put to him — but his replies are so {1} that readers routinely mistake compression for indifference, and the emotional weight of the stories is borne less by statement than by {2}.",
+      "blanks": [
+        {
+          "options": [
+            "laconic",
+            "voluble",
+            "prosaic"
+          ],
+          "answers": [
+            "laconic"
+          ]
+        },
+        {
+          "options": [
+            "omission",
+            "elaboration",
+            "embellishment"
+          ],
+          "answers": [
+            "omission"
+          ]
+        }
+      ],
+      "words": [
+        "laconic"
+      ],
+      "explanation": "The clause \"he answers every question\" rules out silence-based readings and points to the manner of the answers, and only laconic yields the cool compression that could be misread as indifference; voluble reverses it and prosaic denotes dullness, not brevity. The second blank contrasts with \"statement,\" so it must name what is left unsaid — omission — while elaboration and embellishment would add words rather than withhold them.",
+      "id": "gregmat12__b3__tc2__07",
+      "unit": "gregmat12__b3",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence's logic — an intrinsically ordinary object made strange only by its surroundings — cleanly rules out \"outlandish,\" \"aberrant,\" and \"idiosyncratic,\" all of which impute intrinsic weirdness and so clash with \"unremarkable.\" But \"anomalous\" is also relational: an anomaly is defined against a surrounding set, and against coffee urns and folding chairs the ballroom chandelier is exactly the thing that deviates from the norm. \"Incongruous\" is the better, more idiomatic fit (\"looked incongruous\" names the mismatch itself), yet nothing in the sentence positively excludes \"anomalous,\" so a reasonable test-taker could choose it and be marked wrong. Needs a distractor swap (e.g., replace \"anomalous\" with an intrinsic-strangeness word like \"grotesque\" or \"flamboyant\").",
+      "stem": "The chandelier itself was unremarkable — the sort that had hung in a thousand hotel ballrooms — yet suspended above the coffee urns and folding chairs of the union hall it looked frankly {1}."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} has two defensible answers. \"Interchangeable\" and \"indistinguishable\" both fit: the sentence restricts the claim to \"under loads this light\" and hedges it with \"effectively,\" so the conceded measurable difference in tensile strength does not rule out \"effectively indistinguishable\" (a standard collocation in exactly this concessive frame). Nothing in the second clause (\"the discrepancy is real, but ... immaterial\") discriminates between them — it supports either reading equally. Only \"homogeneous\" is clearly excluded, since it describes uniform internal composition rather than equivalence between two distinct items. Blank {2} is fine and uniquely \"immaterial.\"",
+      "stem": "The commission concedes that the aluminum fasteners differ measurably in tensile strength from the steel ones, yet insists that under loads this light the two are effectively {1}; the discrepancy is real, but for a deck of this span it is {2}."
+    }
+  ]
+}

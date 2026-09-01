@@ -1,0 +1,260 @@
+{
+  "unit": "gregmat29__b0",
+  "gregmat_group": 29,
+  "words": [
+    "abscond",
+    "apogee",
+    "aspersion",
+    "bawdy"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The pamphlet stopped short of alleging theft outright — it merely {1} on the bursar's peculiar bookkeeping — but within a fortnight the man had {2} with the endowment, and the insinuation acquired the force of proof.",
+      "blanks": [
+        {
+          "options": [
+            "cast aspersions",
+            "returned a verdict",
+            "conferred laurels"
+          ],
+          "answers": [
+            "cast aspersions"
+          ]
+        },
+        {
+          "options": [
+            "absconded",
+            "trifled",
+            "reckoned"
+          ],
+          "answers": [
+            "absconded"
+          ]
+        }
+      ],
+      "words": [
+        "aspersion",
+        "abscond"
+      ],
+      "explanation": "\"Stopped short of alleging theft outright\" and \"the insinuation\" both demand a smear that never states anything, which is exactly what casting aspersions is; returning a verdict would be a formal, open finding, the opposite of insinuation. In the second blank, fleeing secretly with money that is not yours is absconding — \"trifled with\" (treated lightly) and \"reckoned with\" (contended with) are grammatical but leave the endowment where it was, whereas the sentence needs the money gone with the man.",
+      "id": "gregmat29__b0__tc2__00",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "The cashier, entrusted with the takings of the whole county fair, {1} with a month's receipts days before the ledgers were to be audited.",
+      "blanks": [
+        {
+          "options": [
+            "absconded",
+            "decamped",
+            "dallied",
+            "tampered",
+            "parted",
+            "reckoned"
+          ],
+          "answers": [
+            "absconded",
+            "decamped"
+          ]
+        }
+      ],
+      "words": [
+        "abscond"
+      ],
+      "explanation": "Only \"absconded\" and \"decamped\" describe a sudden, furtive departure taking the money along, and in this context they are interchangeable. \"Tampered with\" the receipts and \"parted with\" them both fit the grammar but describe meddling or relinquishing rather than flight, and neither pairs with another option to make an equivalent sentence.",
+      "id": "gregmat29__b0__se__01",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the label's 1968 catalogue represented not a plateau but the {1} of a long arc, the thin records that followed read less as failures than as the predictable {2} of a trajectory with nowhere left to climb.",
+      "blanks": [
+        {
+          "options": [
+            "apogee",
+            "nadir",
+            "fulcrum"
+          ],
+          "answers": [
+            "apogee"
+          ]
+        },
+        {
+          "options": [
+            "descent",
+            "resurgence",
+            "gestation"
+          ],
+          "answers": [
+            "descent"
+          ]
+        }
+      ],
+      "words": [
+        "apogee"
+      ],
+      "explanation": "\"Not a plateau but ... a long arc\" with \"nowhere left to climb\" calls for the far point of a curve, an apogee; a nadir is the low point and a fulcrum is a pivot, neither of which explains a climb already finished. The second blank must complete the arc's shape, so only descent follows — a resurgence or a gestation would contradict the exhausted trajectory the first blank establishes.",
+      "id": "gregmat29__b0__tc2__02",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "By the failure before Vienna in 1683, Ottoman military power had passed its {1}, and the two centuries that followed were a long contraction of the empire's frontiers.",
+      "blanks": [
+        {
+          "options": [
+            "apogee",
+            "zenith",
+            "nadir",
+            "fulcrum",
+            "crescendo",
+            "inception"
+          ],
+          "answers": [
+            "apogee",
+            "zenith"
+          ]
+        }
+      ],
+      "words": [
+        "apogee"
+      ],
+      "explanation": "The contraction that follows means the empire had already passed its highest point, and apogee and zenith are the two options that name that summit. \"Nadir\" is the low point — passing it would predict recovery, not decline — while a fulcrum is a pivot, a crescendo a swelling of sound, and an inception a beginning.",
+      "id": "gregmat29__b0__se__03",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Her disclaimer — that she cast no {1} on the trustee's probity, and merely wondered aloud how he had financed the villa — was itself the smear, since a vague insinuation, unlike a formal charge, gives an accused man nothing to {2}.",
+      "blanks": [
+        {
+          "options": [
+            "aspersions",
+            "indictments",
+            "encomiums"
+          ],
+          "answers": [
+            "aspersions"
+          ]
+        },
+        {
+          "options": [
+            "rebut",
+            "retract",
+            "embellish"
+          ],
+          "answers": [
+            "rebut"
+          ]
+        }
+      ],
+      "words": [
+        "aspersion"
+      ],
+      "explanation": "The fixed idiom is \"cast aspersions,\" and the clause \"a vague insinuation, unlike a formal charge\" rules out indictments, which are stated openly and can be answered; encomiums are praise. The second blank must name what the victim cannot do with a claim too vague to answer — rebut it; he has nothing of his own to retract, and embellishing would help the smear rather than defend against it.",
+      "id": "gregmat29__b0__tc2__04",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "The biographer's method is not accusation but {1}: the book never says the general took bribes, only that his household grew unaccountably rich in the years he sat on the procurement board.",
+      "blanks": [
+        {
+          "options": [
+            "aspersion",
+            "slander",
+            "indictment",
+            "encomium",
+            "exoneration"
+          ],
+          "answers": [
+            "aspersion"
+          ]
+        }
+      ],
+      "words": [
+        "aspersion"
+      ],
+      "explanation": "Aspersion is the right word precisely because nothing is asserted — the damage is done sideways, by juxtaposition, leaving no proposition to disprove. Slander requires a false statement actually made, and the stem insists the book \"never says\" it; indictment is a formal charge, and encomium and exoneration point the other way entirely.",
+      "id": "gregmat29__b0__cloze__05",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "The songs collected from the eighteenth-century taverns are {1} rather than pornographic: coarse about bodies and appetites, but written to set a whole room laughing.",
+      "blanks": [
+        {
+          "options": [
+            "bawdy",
+            "ribald",
+            "lewd",
+            "staid",
+            "mordant",
+            "sententious"
+          ],
+          "answers": [
+            "bawdy",
+            "ribald"
+          ]
+        }
+      ],
+      "words": [
+        "bawdy"
+      ],
+      "explanation": "Bawdy and ribald both mean indecent in a broadly comic way, which is what \"coarse ... but written to set a whole room laughing\" specifies. \"Lewd\" fits the coarseness but carries a leering, private salacity the sentence explicitly sets aside, and it has no partner among the options; staid, mordant, and sententious contradict the cheerful indecency outright.",
+      "id": "gregmat29__b0__se__06",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Restoration audiences drew a distinction the censors could not: the comedy's jokes about anatomy and appetite were {1} rather than obscene, pitched at a roomful of laughter and not at any private itch, and the proprietors defended them as harmless {2}.",
+      "blanks": [
+        {
+          "options": [
+            "bawdy",
+            "lascivious",
+            "mawkish"
+          ],
+          "answers": [
+            "bawdy"
+          ]
+        },
+        {
+          "options": [
+            "levity",
+            "decorum",
+            "calumny"
+          ],
+          "answers": [
+            "levity"
+          ]
+        }
+      ],
+      "words": [
+        "bawdy"
+      ],
+      "explanation": "\"Pitched at a roomful of laughter and not at any private itch\" is the exact line between bawdy, which wants a laugh, and lascivious, which wants arousal; mawkish means sickly sentimental and has nothing to do with indecency. The second blank must name what such jokes amount to if harmless — levity, frivolous amusement — whereas decorum would describe their absence and calumny would make them attacks on someone's name.",
+      "id": "gregmat29__b0__tc2__07",
+      "unit": "gregmat29__b0",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": []
+}

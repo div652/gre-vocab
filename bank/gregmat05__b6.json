@@ -1,0 +1,261 @@
+{
+  "unit": "gregmat05__b6",
+  "gregmat_group": 5,
+  "words": [
+    "sporadic",
+    "stigmatize",
+    "undermine",
+    "utterly"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Although the insurgents' attacks were {1} — a bomb in one province, a week of quiet, an ambush two hundred miles away — they proved sufficient to {2} the public confidence the provincial government had spent a decade accumulating.",
+      "blanks": [
+        {
+          "options": [
+            "sporadic",
+            "incessant",
+            "endemic"
+          ],
+          "answers": [
+            "sporadic"
+          ]
+        },
+        {
+          "options": [
+            "undermine",
+            "bolster",
+            "invigorate"
+          ],
+          "answers": [
+            "undermine"
+          ]
+        }
+      ],
+      "words": [
+        "sporadic",
+        "undermine"
+      ],
+      "explanation": "The dashed gloss describes separate instances scattered across both time and space with no rhythm, which is exactly sporadic; incessant would mean the attacks never stopped, and endemic would mean they were a permanent fixture of the region rather than scattered occurrences. The second blank must be damaging, since \"although\" concedes that small attacks still did harm, and confidence built up slowly over a decade is the classic thing one erodes from below — bolster and invigorate run the wrong way.",
+      "id": "gregmat05__b6__tc2__00",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "Funding for the observatory has been {1} rather than assured: a large federal grant one year, nothing at all for the next three, then a private bequest that no one had anticipated.",
+      "blanks": [
+        {
+          "options": [
+            "sporadic",
+            "intermittent",
+            "provisional",
+            "perennial",
+            "scant",
+            "munificent"
+          ],
+          "answers": [
+            "sporadic",
+            "intermittent"
+          ]
+        }
+      ],
+      "words": [
+        "sporadic"
+      ],
+      "explanation": "The colon spells out money arriving at unpredictable, unequal intervals, which both sporadic and intermittent capture. Perennial would mean the funding recurred year after year, the opposite of the pattern described; scant and munificent both fix a quantity rather than a rhythm and are contradicted by \"a large federal grant,\" while provisional would describe funding granted conditionally, not funding that comes and goes.",
+      "id": "gregmat05__b6__se__01",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Because leprosy was for centuries {1} as a mark of divine punishment rather than treated as an ordinary contagion, a diagnosis left the sufferer {2} alone: family, parish, and guild all withdrew within days.",
+      "blanks": [
+        {
+          "options": [
+            "stigmatized",
+            "exonerated",
+            "censured"
+          ],
+          "answers": [
+            "stigmatized"
+          ]
+        },
+        {
+          "options": [
+            "utterly",
+            "briefly",
+            "nominally"
+          ],
+          "answers": [
+            "utterly"
+          ]
+        }
+      ],
+      "words": [
+        "stigmatize",
+        "utterly"
+      ],
+      "explanation": "Stigmatize is the branding of a whole condition as shameful by a community — which is what family, parish, and guild jointly do — whereas censure is formal disapproval aimed at an act or an officeholder, and exonerate clears blame rather than attaching it. The second blank takes an extreme, unhappy state pushed to its limit, which is utterly's home ground; \"briefly\" is refuted by the permanence of the exclusion, and \"nominally\" would mean alone in name only, which the colon flatly contradicts.",
+      "id": "gregmat05__b6__tc2__02",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Sontag observed that tuberculosis had been romanticized as the affliction of poets while cancer was {1}, so that patients hid their diagnoses from employers and sometimes from their own families.",
+      "blanks": [
+        {
+          "options": [
+            "stigmatized",
+            "censured",
+            "impugned",
+            "exonerated",
+            "condoned"
+          ],
+          "answers": [
+            "stigmatized"
+          ]
+        }
+      ],
+      "words": [
+        "stigmatize"
+      ],
+      "explanation": "Only stigmatize describes a diffuse social disgrace settling on a condition and its sufferers, which is why concealment follows. Censure requires a blameworthy act and an authority to pronounce on it, impugn attacks the truth of a claim or a motive, and exonerate and condone both move in the opposite, blame-clearing direction.",
+      "id": "gregmat05__b6__cloze__03",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "A steady drip of anonymous leaks from inside his own department never confronted the chairman openly; it simply {1} his authority until the board's vote to replace him was a formality.",
+      "blanks": [
+        {
+          "options": [
+            "undermined",
+            "undercut",
+            "bolstered",
+            "buttressed",
+            "invigorated",
+            "eclipsed"
+          ],
+          "answers": [
+            "undermined",
+            "undercut"
+          ]
+        }
+      ],
+      "words": [
+        "undermine"
+      ],
+      "explanation": "The sentence supplies both marks of undermining and undercutting: slow accumulation and a refusal to attack in the open, with authority as the foundation being eaten away from below. Bolstered, buttressed, and invigorated all prop the chairman up and cannot end in his replacement, and eclipsed would require a rival who outshone him rather than leaks that hollowed him out.",
+      "id": "gregmat05__b6__se__04",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "By the time the retreating column reached the Berezina, its supply train had been abandoned, its cavalry had eaten its own horses, and the force that had crossed into Russia six hundred thousand strong was {1} spent.",
+      "blanks": [
+        {
+          "options": [
+            "utterly",
+            "ostensibly",
+            "sporadically",
+            "marginally",
+            "nominally"
+          ],
+          "answers": [
+            "utterly"
+          ]
+        }
+      ],
+      "words": [
+        "utterly"
+      ],
+      "explanation": "Utterly is the intensifier for an extreme and calamitous state with nothing whatever left in reserve, which the three accumulating clauses establish. Ostensibly and nominally would suggest the exhaustion was only apparent, marginally understates it to the point of absurdity, and sporadically describes a rhythm of occurrence rather than a degree.",
+      "id": "gregmat05__b6__cloze__05",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "The garrison's resistance was {1} — a volley from one rooftop, an hour of silence, then a burst from a lane three streets away — yet the general, {2} humiliated by a delay he had assured Paris could not occur, reported that the whole city had risen in revolt.",
+      "blanks": [
+        {
+          "options": [
+            "sporadic",
+            "relentless",
+            "ubiquitous"
+          ],
+          "answers": [
+            "sporadic"
+          ]
+        },
+        {
+          "options": [
+            "utterly",
+            "scarcely",
+            "momentarily"
+          ],
+          "answers": [
+            "utterly"
+          ]
+        }
+      ],
+      "words": [
+        "sporadic",
+        "utterly"
+      ],
+      "explanation": "The dashes itemize scattered, unpredictable bursts of fire rather than continuous pressure, ruling out relentless, and ubiquitous would claim the firing came from everywhere at once, which the intervals of silence deny. Only a humiliation carried to its extreme explains a dispatch that inflates a handful of snipers into a general uprising; scarcely and momentarily supply too little motive for the exaggeration.",
+      "id": "gregmat05__b6__tc2__06",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Public-health officials now warn that campaigns which {1} drug users as morally degenerate quietly {2} the very objective they proclaim, since addicts who expect contempt at the clinic door simply stop appearing there.",
+      "blanks": [
+        {
+          "options": [
+            "stigmatize",
+            "exculpate",
+            "extenuate"
+          ],
+          "answers": [
+            "stigmatize"
+          ]
+        },
+        {
+          "options": [
+            "undermine",
+            "further",
+            "publicize"
+          ],
+          "answers": [
+            "undermine"
+          ]
+        }
+      ],
+      "words": [
+        "stigmatize",
+        "undermine"
+      ],
+      "explanation": "Stigmatize is the branding of an entire class of people as shameful, which is what \"as morally degenerate\" specifies; exculpate and extenuate both reduce blame rather than fasten it on. The second blank needs a slow, self-inflicted erosion of the campaign's own aim — furthering the objective contradicts the addicts' withdrawal, and publicizing it would leave the objective intact.",
+      "id": "gregmat05__b6__tc2__07",
+      "unit": "gregmat05__b6",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": []
+}

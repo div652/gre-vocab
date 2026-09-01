@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat27__b5",
+  "gregmat_group": 27,
+  "words": [
+    "repugnant",
+    "sentimental",
+    "squander",
+    "swindle"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The abolitionist pamphleteers aimed less to prove the trade unprofitable than to render it {1}, moving the question from the ledger to the conscience; complaints about mere {2} could always be met with better bookkeeping, but revulsion could not be answered at all.",
+      "blanks": [
+        {
+          "options": [
+            "repugnant",
+            "exorbitant",
+            "imperturbable"
+          ],
+          "answers": [
+            "repugnant"
+          ]
+        },
+        {
+          "options": [
+            "economy",
+            "chicanery",
+            "penchant"
+          ],
+          "answers": [
+            "economy"
+          ]
+        }
+      ],
+      "words": [
+        "repugnant"
+      ],
+      "explanation": "The sentence opposes the ledger to the conscience, so the first blank must name an offence to moral principle: repugnant. Exorbitant would keep the argument inside the ledger, which is exactly what the pamphleteers are said to abandon; and the second blank must name the cost-based objection that better bookkeeping could answer, which is economy rather than chicanery, since fraud is not cured by arithmetic.",
+      "id": "gregmat27__b5__tc2__00",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "cloze",
+      "stem": "The court struck the indemnity clause not because its terms were unjust but because they were plainly {1} to the provisions governing the rest of the agreement: two clauses cannot both stand when each nullifies the other.",
+      "blanks": [
+        {
+          "options": [
+            "repugnant",
+            "odious",
+            "extraneous",
+            "subordinate",
+            "ancillary"
+          ],
+          "answers": [
+            "repugnant"
+          ]
+        }
+      ],
+      "words": [
+        "repugnant"
+      ],
+      "explanation": "This is the dry legal sense of repugnant: incompatible, contradictory, with no moral charge — and the clause is explicitly said not to be unjust, which rules out odious. Extraneous would mean merely irrelevant, but the sentence says each clause nullifies the other, which is conflict rather than irrelevance.",
+      "id": "gregmat27__b5__cloze__01",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Dickens's death scenes have never wanted for defenders, yet even his admirers concede that the passing of Little Nell is {1}: the grief is laid on far thicker than so slight a character can bear.",
+      "blanks": [
+        {
+          "options": [
+            "sentimental",
+            "mawkish",
+            "hysterical",
+            "tempestuous",
+            "cerebral",
+            "stoic"
+          ],
+          "answers": [
+            "sentimental",
+            "mawkish"
+          ]
+        }
+      ],
+      "words": [
+        "sentimental"
+      ],
+      "explanation": "The complaint is that tender feeling has been indulged past what the subject warrants, which is precisely sentimental and its harsher twin mawkish. Hysterical and tempestuous name frenzy and storminess rather than excess sweetness, and cerebral and stoic invert the charge entirely.",
+      "id": "gregmat27__b5__se__02",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the general's own letters supports the {1} figure of the postwar memoirs, forever weeping over dead horses and drummer boys; on paper he was {2}, entering casualty totals in the same flat hand he used for forage returns.",
+      "blanks": [
+        {
+          "options": [
+            "sentimental",
+            "imperturbable",
+            "cerebral"
+          ],
+          "answers": [
+            "sentimental"
+          ]
+        },
+        {
+          "options": [
+            "stoic",
+            "mawkish",
+            "tempestuous"
+          ],
+          "answers": [
+            "stoic"
+          ]
+        }
+      ],
+      "words": [
+        "sentimental"
+      ],
+      "explanation": "The two halves must oppose each other: the memoirs' weeping figure is sentimental, while the letters show feeling locked down, that is, stoic. Imperturbable or cerebral in the first blank would make the sentence agree with itself instead of contradicting the memoirs, and mawkish in the second would describe the very softness the flat casualty ledger is offered to disprove.",
+      "id": "gregmat27__b5__tc2__03",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "The dynasty's collapse is usually laid to {1} at court — the silver fountains, the imported peacocks — but the treasury registers point to a duller cause: three ministers who {2} a solvent inheritance not on pleasure but on wars nobody remembered wanting.",
+      "blanks": [
+        {
+          "options": [
+            "extravagance",
+            "chicanery",
+            "parsimony"
+          ],
+          "answers": [
+            "extravagance"
+          ]
+        },
+        {
+          "options": [
+            "squandered",
+            "retrenched",
+            "swindled"
+          ],
+          "answers": [
+            "squandered"
+          ]
+        }
+      ],
+      "words": [
+        "squander"
+      ],
+      "explanation": "The fountains and peacocks gloss the first blank as lavish spending, so extravagance fits, parsimony reverses it, and chicanery names deceit rather than display. The second blank needs a verb for throwing away something valuable that was genuinely yours — squandered; you swindle a person, not an inheritance you already hold, and retrench means to cut back, the opposite of the ministers' conduct.",
+      "id": "gregmat27__b5__tc2__04",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "Within a single generation the heirs had {1} a fortune that three generations of shipping had taken to build, and by 1911 the estate itself was in the hands of creditors.",
+      "blanks": [
+        {
+          "options": [
+            "squandered",
+            "dissipated",
+            "mortgaged",
+            "bequeathed",
+            "consolidated",
+            "retrenched"
+          ],
+          "answers": [
+            "squandered",
+            "dissipated"
+          ]
+        }
+      ],
+      "words": [
+        "squander"
+      ],
+      "explanation": "Squandered and dissipated both mean to fritter away something valuable through folly, which the creditors' seizure confirms. Mortgaged and bequeathed fit the financial register and the grammar but describe deliberate, orderly transactions, and consolidated or retrenched would leave the estate intact rather than lost.",
+      "id": "gregmat27__b5__se__05",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "tc2",
+      "stem": "What the affair amounted to was less a robbery than a {1}: no one was threatened, and every victim signed his own cheque, having been {2} by a prospectus of remarkable plausibility.",
+      "blanks": [
+        {
+          "options": [
+            "swindle",
+            "coercion",
+            "foible"
+          ],
+          "answers": [
+            "swindle"
+          ]
+        },
+        {
+          "options": [
+            "inveigled",
+            "abhorred",
+            "indemnified"
+          ],
+          "answers": [
+            "inveigled"
+          ]
+        }
+      ],
+      "words": [
+        "swindle"
+      ],
+      "explanation": "Money changes hands through the victims' own trust rather than through force, which is exactly a swindle; coercion is ruled out by the clause that no one was threatened. The second blank needs the means of that trust — inveigled, coaxed by a plausible story — where indemnified would mean compensated and abhorred would describe a revulsion the victims plainly did not feel.",
+      "id": "gregmat27__b5__tc2__06",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    },
+    {
+      "type": "se",
+      "stem": "The prospectus promised dividends from a Cornish mine that had never existed; before the scheme collapsed its author had {1} some four hundred subscribers, most of them country clergymen of modest means.",
+      "blanks": [
+        {
+          "options": [
+            "swindled",
+            "defrauded",
+            "reimbursed",
+            "audited",
+            "canvassed",
+            "inveigled"
+          ],
+          "answers": [
+            "swindled",
+            "defrauded"
+          ]
+        }
+      ],
+      "words": [
+        "swindle"
+      ],
+      "explanation": "A fictitious mine that took real subscriptions means property actually changed hands by deception, so swindled and defrauded are equivalent here, the second merely more clinical. Reimbursed and audited fit the financial register but reverse or neutralize the wrongdoing, canvassed means only to solicit, and inveigled would require a clause naming what the subscribers were coaxed into.",
+      "id": "gregmat27__b5__se__07",
+      "unit": "gregmat27__b5",
+      "verified": true,
+      "gregmat_group": 27
+    }
+  ],
+  "rejects": []
+}

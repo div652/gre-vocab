@@ -1,0 +1,105 @@
+{
+  "unit": "gregmat08__b7",
+  "gregmat_group": 8,
+  "words": [
+    "utilitarian",
+    "vapid"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "The host's questions were unfailingly pleasant and unfailingly {1}: no guest could have taken offence at them, and no viewer could have learned anything from them either.",
+      "blanks": [
+        {
+          "options": [
+            "vapid",
+            "insipid",
+            "insidious",
+            "tedious",
+            "soporific",
+            "piquant"
+          ],
+          "answers": [
+            "vapid",
+            "insipid"
+          ]
+        }
+      ],
+      "words": [
+        "vapid"
+      ],
+      "explanation": "The sentence calls for agreeable emptiness — inoffensive on the surface, hollow underneath — which is precisely what vapid and insipid share in this context. \"Tedious\" and \"soporific\" fit grammatically and tonally but say the questions wearied the audience, which \"unfailingly pleasant\" denies; \"insidious\" would make the pleasantness a cover for harm, contradicted by \"no guest could have taken offence.\"",
+      "id": "gregmat08__b7__se__01",
+      "unit": "gregmat08__b7",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Her early essays had been {1} — quick, mischievous, alive on the page — so admirers were startled by the {2} pieties of the late memoir, agreeable sentences that might have been composed by no one in particular.",
+      "blanks": [
+        {
+          "options": [
+            "scintillating",
+            "ostentatious",
+            "plodding"
+          ],
+          "answers": [
+            "scintillating"
+          ]
+        },
+        {
+          "options": [
+            "vapid",
+            "caustic",
+            "invidious"
+          ],
+          "answers": [
+            "vapid"
+          ]
+        }
+      ],
+      "words": [
+        "vapid"
+      ],
+      "explanation": "\"Quick, mischievous, alive\" defines the first blank as sparkle rather than showiness (ostentatious) or heaviness (plodding), and only that earlier brilliance makes the later book startling. The second blank must name prose that is pleasant yet empty, which is vapid; \"caustic\" and \"invidious\" both imply sentences that sting, ruled out by \"agreeable.\"",
+      "id": "gregmat08__b7__tc2__02",
+      "unit": "gregmat08__b7",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "Bentham's defenders insisted that a policy be judged solely by the aggregate welfare it produces — a strictly {1} calculation in which one person's suffering may be cancelled by another's gain.",
+      "blanks": [
+        {
+          "options": [
+            "utilitarian",
+            "austere",
+            "spartan",
+            "unadorned",
+            "frivolous"
+          ],
+          "answers": [
+            "utilitarian"
+          ]
+        }
+      ],
+      "words": [
+        "utilitarian"
+      ],
+      "explanation": "\"Aggregate welfare\" and the trading of one person's loss against another's gain name the doctrine of the greatest good for the greatest number, so the technical philosophical sense of utilitarian is required. The remaining options describe plainness or triviality of style, not a moral calculus, and none of them can characterize how consequences are summed.",
+      "id": "gregmat08__b7__cloze__03",
+      "unit": "gregmat08__b7",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean (only \"ornate\" preserves the contrast with a building that \"proclaim[s] no principle\"). Blank {2} is not uniquely determined: \"austere\" fits the sentence as written just as well as \"utilitarian.\" Bare concrete blocks set against ornate nineteenth-century quadrangles invite \"austere,\" and nothing in the sentence rules out severity or lack of ornament. The intended discriminator — that \"the rooms inside are the right size for the work done in them\" describes fitness-to-purpose (utilitarian) rather than absence of ornament (austere) — is real but subtle, and it does not make \"austere\" false, only less precisely echoed. A reasonable test-taker choosing \"austere\" would be marked wrong on a distinction the sentence never enforces. Fix: add a clue that excludes plainness-as-aesthetic, e.g. \"whose {2} concrete blocks, neither handsome nor deliberately severe, proclaim no principle...\", or replace \"austere\" with a clearly wrong distractor.",
+      "stem": "Visitors who knew the college only from its {1} nineteenth-century quadrangles were unprepared for the new physics building, whose {2} concrete blocks proclaim no principle at all beyond the fact that the rooms inside are the right size for the work done in them."
+    }
+  ]
+}

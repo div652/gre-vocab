@@ -1,0 +1,113 @@
+{
+  "unit": "gregmat22__b7",
+  "gregmat_group": 22,
+  "words": [
+    "unprecedented",
+    "vivacious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Critics who hailed the novel's fractured chronology as {1} had plainly not read Sterne: the device is {2}, lifted almost intact from Tristram Shandy.",
+      "blanks": [
+        {
+          "options": [
+            "unprecedented",
+            "hackneyed",
+            "banal"
+          ],
+          "answers": [
+            "unprecedented"
+          ]
+        },
+        {
+          "options": [
+            "derivative",
+            "ingenious",
+            "iconoclastic"
+          ],
+          "answers": [
+            "derivative"
+          ]
+        }
+      ],
+      "words": [
+        "unprecedented"
+      ],
+      "explanation": "The critics are praising the book, so the first blank must be a compliment claiming novelty; hackneyed and banal are insults and cannot follow \"hailed.\" The colon then explains why the claim collapses — an earlier instance exists in Sterne — so the device is derivative, borrowed from a source, not ingenious or iconoclastic, neither of which is refuted merely by naming a predecessor.",
+      "id": "gregmat22__b7__tc2__00",
+      "unit": "gregmat22__b7",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Contemporaries agreed that the salon owed its success less to Mme Geoffrin's judgment than to her manner: {1} where her rivals were merely correct, she could draw even the most reticent guest into the talk.",
+      "blanks": [
+        {
+          "options": [
+            "vivacious",
+            "ebullient",
+            "garrulous",
+            "imperious",
+            "languid",
+            "aloof"
+          ],
+          "answers": [
+            "vivacious",
+            "ebullient"
+          ]
+        }
+      ],
+      "words": [
+        "vivacious"
+      ],
+      "explanation": "The contrast with rivals who were \"merely correct,\" plus the effect on reticent guests, calls for warm, high-spirited animation in company: vivacious and ebullient both supply that and yield equivalent sentences. Garrulous and imperious fit the grammar and the social setting but change the meaning — tedious volubility and domineering manner would repel a shy guest, not draw one out — while languid and aloof reverse the sense entirely.",
+      "id": "gregmat22__b7__se__02",
+      "unit": "gregmat22__b7",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The biographer is careful to separate the sisters' gifts: Charlotte was {1}, riding before breakfast and walking the moors in any weather, while Frances, who was winded by a single flight of stairs, was the more {2} of the two, holding a table of strangers in laughter for whole evenings.",
+      "blanks": [
+        {
+          "options": [
+            "indefatigable",
+            "congenial",
+            "phlegmatic"
+          ],
+          "answers": [
+            "indefatigable"
+          ]
+        },
+        {
+          "options": [
+            "vivacious",
+            "athletic",
+            "lethargic"
+          ],
+          "answers": [
+            "vivacious"
+          ]
+        }
+      ],
+      "words": [
+        "vivacious"
+      ],
+      "explanation": "The two blanks divide one word's territory: the first is supported only by feats of bodily stamina, so indefatigable fits and congenial (a social quality) and phlegmatic (its opposite) do not. The second describes energy that comes out as talk and laughter aimed at other people, which is precisely vivacious; athletic is excluded by Frances's breathlessness on the stairs, and lethargic contradicts the whole evening of laughter.",
+      "id": "gregmat22__b7__tc2__03",
+      "unit": "gregmat22__b7",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence's only logical constraint is a \"small gesture, but significant against a long history\" contrast, and two options satisfy it. \"Unprecedented\" is supported by the scope phrase \"in nine centuries of dispute,\" which reads as a never-before-in-that-span frame. But \"momentous\" fits the same contrast just as naturally — a tiny handshake that is nonetheless hugely consequential set against nine centuries of feuding is the standard rhetorical shape, and nothing in the sentence (no \"first,\" \"never before,\" \"no one had ever\") forces the first-occurrence reading over the significance reading. \"Unforeseen\" is a weaker third possibility (unexpected after so long a quarrel), though it sits awkwardly with the \"in nine centuries\" frame. A reasonable test-taker choosing \"momentous\" would be marked wrong on a sentence that does not actually exclude it.",
+      "stem": "The gesture was a small one — a handshake exchanged at the threshold, before witnesses — but in nine centuries of dispute between the two houses it was {1}."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "unit": "gregmat14__b6",
+  "gregmat_group": 14,
+  "words": [
+    "tantamount",
+    "torpor",
+    "trenchant",
+    "umbrage"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers who had grown used to the {1} of the journal's book pages were startled by the new critic's debut, a {2} dissection of a celebrated biography that left nothing of its central claim standing.",
+      "blanks": [
+        {
+          "options": [
+            "torpor",
+            "asperity",
+            "rigor"
+          ],
+          "answers": [
+            "torpor"
+          ]
+        },
+        {
+          "options": [
+            "trenchant",
+            "turgid",
+            "vacuous"
+          ],
+          "answers": [
+            "trenchant"
+          ]
+        }
+      ],
+      "words": [
+        "torpor",
+        "trenchant"
+      ],
+      "explanation": "\"Startled\" demands that the old pages be the opposite of the new essay: inert, low-energy, going nowhere — torpor. Asperity (harshness) or rigor would make a cutting debut unsurprising rather than startling. In the second blank only trenchant explains an analysis that dismantles the claim; turgid (bloated) and vacuous (empty) describe writing that could not do that.",
+      "id": "gregmat14__b6__tc2__00",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the drafters regarded any reference to \"occupied\" territory as {1} to a verdict already delivered against them, the delegation bristled with theatrical {2} at a single adjective in the preamble.",
+      "blanks": [
+        {
+          "options": [
+            "tantamount",
+            "immaterial",
+            "subordinate"
+          ],
+          "answers": [
+            "tantamount"
+          ]
+        },
+        {
+          "options": [
+            "umbrage",
+            "candor",
+            "humility"
+          ],
+          "answers": [
+            "umbrage"
+          ]
+        }
+      ],
+      "words": [
+        "tantamount",
+        "umbrage"
+      ],
+      "explanation": "The causal \"Because\" requires that one word be treated as counting, in effect, as a condemnation — the exact work tantamount does; immaterial would remove any motive for objecting. \"Theatrical\" and \"a single adjective\" mark the reaction as over-ready wounded pride, which is umbrage rather than candor or humility.",
+      "id": "gregmat14__b6__tc2__01",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Malaria kept Ross bedridden for weeks, and long after the fever broke he remained sunk in a {1} so complete that even lifting a pen across the page exhausted him.",
+      "blanks": [
+        {
+          "options": [
+            "torpor",
+            "lassitude",
+            "ennui",
+            "abeyance",
+            "vivacity",
+            "ferment"
+          ],
+          "answers": [
+            "torpor",
+            "lassitude"
+          ]
+        }
+      ],
+      "words": [
+        "torpor"
+      ],
+      "explanation": "The evidence is bodily — no strength to move a pen — so the blank needs a noun for drained physical inertia, which torpor and lassitude both supply. Ennui is mental boredom, not depleted energy, and abeyance is the suspension of a process rather than a state of a body; vivacity and ferment invert the sense.",
+      "id": "gregmat14__b6__se__02",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Hazlitt's essays on the Lake poets survive less for their generosity than for their {1} analysis, which isolates the precise assumption on which each poet's reputation had been resting.",
+      "blanks": [
+        {
+          "options": [
+            "trenchant",
+            "incisive",
+            "turgid",
+            "bombastic",
+            "lucid",
+            "mordant"
+          ],
+          "answers": [
+            "trenchant",
+            "incisive"
+          ]
+        }
+      ],
+      "words": [
+        "trenchant"
+      ],
+      "explanation": "\"Isolates the precise assumption\" praises analysis that cuts straight to the load-bearing point, which is what trenchant and incisive jointly mean. Lucid promises only clarity and mordant only biting tone, neither of which is accuracy of penetration; turgid and bombastic describe inflated prose and contradict the compliment.",
+      "id": "gregmat14__b6__se__03",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "For a Roman commander, quitting his province before a successor arrived was {1} to desertion, whatever justifications he later laid before the Senate.",
+      "blanks": [
+        {
+          "options": [
+            "tantamount",
+            "indifferent",
+            "preliminary",
+            "tangential",
+            "susceptible"
+          ],
+          "answers": [
+            "tantamount"
+          ]
+        }
+      ],
+      "words": [
+        "tantamount"
+      ],
+      "explanation": "The act is not formally desertion, yet the concessive clause insists it was judged as though it were — precisely the gap tantamount names. The other options all take \"to\" but assert relations (irrelevance, sequence, vulnerability) that leave the sentence's verdict unmade.",
+      "id": "gregmat14__b6__cloze__04",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "Johnson, who could absorb a savage review without flinching, nonetheless took {1} at the bookseller's suggestion that his dictionary be abridged for schoolboys.",
+      "blanks": [
+        {
+          "options": [
+            "umbrage",
+            "ire",
+            "rancor",
+            "indignation",
+            "chagrin"
+          ],
+          "answers": [
+            "umbrage"
+          ]
+        }
+      ],
+      "words": [
+        "umbrage"
+      ],
+      "explanation": "Only umbrage completes the fixed idiom \"take ___ at,\" and only umbrage carries the raised eyebrow the contrast invites: a man indifferent to real attacks bridling at a small slight to his dignity. Ire, rancor, indignation and chagrin name related feelings but are not taken at anything.",
+      "id": "gregmat14__b6__cloze__05",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Leaving the flood-control fund unspent for a third straight year was, the editorial argued, {1} to an admission that the state had no policy whatever — {2} dressed up as fiscal caution.",
+      "blanks": [
+        {
+          "options": [
+            "tantamount",
+            "incidental",
+            "antecedent"
+          ],
+          "answers": [
+            "tantamount"
+          ]
+        },
+        {
+          "options": [
+            "torpor",
+            "acumen",
+            "vigilance"
+          ],
+          "answers": [
+            "torpor"
+          ]
+        }
+      ],
+      "words": [
+        "tantamount",
+        "torpor"
+      ],
+      "explanation": "The editorial is stripping away a technicality to say what inaction really amounts to, so the first blank must be tantamount; incidental and antecedent describe side-relations or sequence, not equivalence in effect. \"Dressed up as\" requires something discreditable underneath, and torpor — inertia rather than deliberate thrift — is the only option that squares with having no policy at all.",
+      "id": "gregmat14__b6__tc2__06",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Members long accustomed to the committee's emollient minutes received the auditor's report with {1}, since its {2} summary of the pension shortfall named, in three sentences, the decision each of them had hoped would go unmentioned.",
+      "blanks": [
+        {
+          "options": [
+            "umbrage",
+            "alacrity",
+            "gratitude"
+          ],
+          "answers": [
+            "umbrage"
+          ]
+        },
+        {
+          "options": [
+            "trenchant",
+            "prolix",
+            "anodyne"
+          ],
+          "answers": [
+            "trenchant"
+          ]
+        }
+      ],
+      "words": [
+        "umbrage",
+        "trenchant"
+      ],
+      "explanation": "Men whose evasions have been exposed react with wounded, defensive offence — umbrage — not with eagerness or thanks. The second blank must praise a summary that is both brief and unanswerable: trenchant, whereas prolix would contradict \"three sentences\" and anodyne would contradict the naming of what was to stay hidden.",
+      "id": "gregmat14__b6__tc2__07",
+      "unit": "gregmat14__b6",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat28__b0",
+  "gregmat_group": 28,
+  "words": [
+    "abeyance",
+    "abstract",
+    "affront",
+    "agitate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "With the succession still contested, the barony was not extinguished but merely held in {1} — a legal nicety that hardly consoled the tenants, who went on {2} for partition of the estate through three successive parliaments.",
+      "blanks": [
+        {
+          "options": [
+            "abeyance",
+            "abrogation",
+            "quiescence"
+          ],
+          "answers": [
+            "abeyance"
+          ]
+        },
+        {
+          "options": [
+            "agitating",
+            "acquiescing",
+            "dissembling"
+          ],
+          "answers": [
+            "agitating"
+          ]
+        }
+      ],
+      "words": [
+        "abeyance",
+        "agitate"
+      ],
+      "explanation": "The title still exists but its operation is parked pending an heir, which is exactly abeyance — a deliberate suspension with an agent and a triggering condition; abrogation would mean it was abolished, which the sentence explicitly denies, and quiescence names mere natural quiet, with no authority holding it and no event expected to restart it. In the second blank the tenants are unconsoled and keep pressing across decades, so they agitate for partition — sustained campaigning, the sense that takes for or against; acquiescing would reverse the sense of their dissatisfaction.",
+      "id": "gregmat28__b0__tc2__00",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "Ruskin's objection to the scheme was less {1} than visceral: he took the demolition of the chapel as a personal {2}, an injury to his standing as the city's self-appointed conscience.",
+      "blanks": [
+        {
+          "options": [
+            "abstract",
+            "tangible",
+            "disingenuous"
+          ],
+          "answers": [
+            "abstract"
+          ]
+        },
+        {
+          "options": [
+            "affront",
+            "oversight",
+            "rebuke"
+          ],
+          "answers": [
+            "affront"
+          ]
+        }
+      ],
+      "words": [
+        "abstract",
+        "affront"
+      ],
+      "explanation": "The construction less X than visceral demands a term for objection at a distance from the concrete case, and that is abstract — theoretical rather than tied to a particular injury; tangible would name the visceral pole rather than contrast with it. The second blank is glossed by injury to his standing, which is the definition of an affront, an open insult to dignity; an oversight implies mere accident, and a rebuke would be a reprimand of his conduct rather than damage to his honour.",
+      "id": "gregmat28__b0__tc2__01",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The trustees held the endowment decision in {1} for a further term while they argued over an entirely {2} question — whether a university owes anything to posterity — that bore no relation to the four applications actually before them.",
+      "blanks": [
+        {
+          "options": [
+            "abeyance",
+            "dormancy",
+            "perpetuity"
+          ],
+          "answers": [
+            "abeyance"
+          ]
+        },
+        {
+          "options": [
+            "abstract",
+            "empirical",
+            "procedural"
+          ],
+          "answers": [
+            "abstract"
+          ]
+        }
+      ],
+      "words": [
+        "abeyance",
+        "abstract"
+      ],
+      "explanation": "Someone with authority has paused a live matter until a later term, which is the institutional formula held in abeyance; dormancy describes something naturally quiet, with no agent and no condition for its revival, and perpetuity would make the pause permanent, contradicting for a further term. The second blank must name a question detached from the actual cases, so abstract; empirical would mean grounded in observed evidence, and procedural questions concern how business is conducted, not what a university owes posterity.",
+      "id": "gregmat28__b0__tc2__02",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "From nine hundred pages of trial testimony the reporter contrived to {1} the single admission on which the entire appeal would eventually turn.",
+      "blanks": [
+        {
+          "options": [
+            "abstract",
+            "distill",
+            "recapitulate",
+            "extrapolate",
+            "embellish",
+            "corroborate"
+          ],
+          "answers": [
+            "abstract",
+            "distill"
+          ]
+        }
+      ],
+      "words": [
+        "abstract"
+      ],
+      "explanation": "The sentence requires drawing one essential item out of a great mass, which both abstract (in its verbal sense, to extract or lift free) and distill express. Recapitulate would mean summarizing the whole record rather than isolating one part of it, and extrapolate means projecting beyond the evidence, which is the opposite of finding something already in it.",
+      "id": "gregmat28__b0__se__03",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Coming from a government that had ratified the convention only a year earlier, the summary expulsion of the monitors struck the delegates as an {1} to the very principles it still professed to uphold.",
+      "blanks": [
+        {
+          "options": [
+            "affront",
+            "insult",
+            "indictment",
+            "rebuke",
+            "provocation",
+            "corrective"
+          ],
+          "answers": [
+            "affront",
+            "insult"
+          ]
+        }
+      ],
+      "words": [
+        "affront"
+      ],
+      "explanation": "What is needed is an act of open disrespect directed at something's dignity or standing, and affront and insult are interchangeable here, both taking to. An indictment would be an accusation levelled against the government rather than an offence done to the principles, and a corrective implies a legitimate remedy rather than an offence at all.",
+      "id": "gregmat28__b0__se__04",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "Throughout the 1840s the Chartist press {1} ceaselessly for an extension of the franchise, refusing to let the question subside in the long intervals between elections.",
+      "blanks": [
+        {
+          "options": [
+            "agitated",
+            "provoked",
+            "mollified",
+            "quashed",
+            "demurred"
+          ],
+          "answers": [
+            "agitated"
+          ]
+        }
+      ],
+      "words": [
+        "agitate"
+      ],
+      "explanation": "Sustained public campaigning for a cause is agitation, and the word takes for exactly as the sentence requires. Provoked names a single jab that elicits a reaction rather than a decade of organized pressure, and mollified and quashed would have the press settling the question rather than keeping it unsettled.",
+      "id": "gregmat28__b0__cloze__05",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "The envoy's refusal to rise during the anthem {1} his hosts in the one way protocol cannot absorb: it denied them, before witnesses, the deference their office was owed.",
+      "blanks": [
+        {
+          "options": [
+            "affronted",
+            "discomfited",
+            "agitated",
+            "unnerved",
+            "chastened"
+          ],
+          "answers": [
+            "affronted"
+          ]
+        }
+      ],
+      "words": [
+        "affront"
+      ],
+      "explanation": "The injury described is public and aimed at dignity and office, which is precisely what it means to affront someone. Discomfited and unnerved describe a loss of composure rather than of honour, and chastened implies the hosts were corrected for some fault of their own.",
+      "id": "gregmat28__b0__cloze__06",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "Under the terms of the ceasefire the demarcation of the disputed border was placed in {1}, the survey teams to resume work only once the arbitral tribunal had issued its ruling.",
+      "blanks": [
+        {
+          "options": [
+            "abeyance",
+            "abrogation",
+            "torpor",
+            "arrears",
+            "dormancy"
+          ],
+          "answers": [
+            "abeyance"
+          ]
+        }
+      ],
+      "words": [
+        "abeyance"
+      ],
+      "explanation": "A negotiated pause imposed by authority and awaiting a specific event — the tribunal's ruling — is the textbook use of abeyance. Abrogation would mean the demarcation had been annulled rather than deferred, while torpor and dormancy describe inactivity that simply sets in, with nobody having ordered it and nothing scheduled to end it.",
+      "id": "gregmat28__b0__cloze__07",
+      "unit": "gregmat28__b0",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": []
+}

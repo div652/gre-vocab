@@ -1,0 +1,258 @@
+{
+  "unit": "gregmat35__b6",
+  "gregmat_group": 35,
+  "words": [
+    "retrench",
+    "self-indulgent",
+    "speculate",
+    "staid"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The board conceded that its earlier expansion plans had been {1} — four new plants built on borrowed money in a single year — and resolved to {2}, shuttering two of them and freezing all hiring.",
+      "blanks": [
+        {
+          "options": [
+            "profligate",
+            "parsimonious",
+            "canny"
+          ],
+          "answers": [
+            "profligate"
+          ]
+        },
+        {
+          "options": [
+            "retrench",
+            "speculate",
+            "squander"
+          ],
+          "answers": [
+            "retrench"
+          ]
+        }
+      ],
+      "words": [
+        "retrench"
+      ],
+      "explanation": "\"Conceded\" marks the earlier plans as a fault, and building four plants on borrowed money is wasteful spending, so profligate is required; parsimonious and canny would both be self-congratulatory rather than confessional. The second blank is the corrective response — closing plants and freezing hiring is a sharp contraction, which is retrench; squander would repeat the error and speculate names risk-taking, not cutting back.",
+      "id": "gregmat35__b6__tc2__00",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "When the endowment lost a fifth of its value in a single year, the college had little choice but to {1}: sabbaticals were suspended, three departments were merged, and the new library was shelved indefinitely.",
+      "blanks": [
+        {
+          "options": [
+            "retrench",
+            "economize",
+            "temporize",
+            "speculate",
+            "dissemble",
+            "improvise"
+          ],
+          "answers": [
+            "retrench",
+            "economize"
+          ]
+        }
+      ],
+      "words": [
+        "retrench"
+      ],
+      "explanation": "The colon introduces a list of concrete cuts, so the blank must mean to reduce spending and operations under financial pressure: retrench and economize both do. Temporize (play for time) and improvise fit the grammar and the crisis tone but describe delay or ad-hoc coping rather than contraction, and speculate would mean gambling the remaining endowment — the opposite response.",
+      "id": "gregmat35__b6__se__01",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics who had dismissed the director's earlier films as {1} — three-hour cuts from which no editor was permitted to remove a frame — were startled by the new work's {2} economy of means.",
+      "blanks": [
+        {
+          "options": [
+            "self-indulgent",
+            "ascetic",
+            "austere"
+          ],
+          "answers": [
+            "self-indulgent"
+          ]
+        },
+        {
+          "options": [
+            "spartan",
+            "decadent",
+            "libertine"
+          ],
+          "answers": [
+            "spartan"
+          ]
+        }
+      ],
+      "words": [
+        "self-indulgent"
+      ],
+      "explanation": "A film whose maker refuses all editing is pleasing himself rather than his audience, which is precisely self-indulgent; ascetic and austere describe the restraint that is absent here and would contradict the dash clause. The second blank must praise the reversal — a stripped-down economy of means is spartan, whereas decadent and libertine would restate the old fault the sentence says was startlingly abandoned.",
+      "id": "gregmat35__b6__tc2__02",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "The first hundred pages of the memoir catalogue every meal the author ate in Rome; readers who had been promised a history of the papacy found the digression {1}.",
+      "blanks": [
+        {
+          "options": [
+            "self-indulgent",
+            "ascetic",
+            "perspicacious",
+            "tentative",
+            "decorous"
+          ],
+          "answers": [
+            "self-indulgent"
+          ]
+        }
+      ],
+      "words": [
+        "self-indulgent"
+      ],
+      "explanation": "A writer devoting a hundred pages to his own dinners while the promised subject waits is gratifying himself at the reader's expense — the core sense of self-indulgent. Ascetic describes the abstemiousness the passage conspicuously lacks, and perspicacious, tentative and decorous all name qualities the disappointed readers are not complaining about.",
+      "id": "gregmat35__b6__cloze__03",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the diary breaks off in 1847, biographers can only {1} about why Alcott left Boston so abruptly; the popular story that she was fleeing a creditor remains {2}, resting on gossip recorded thirty years after the fact.",
+      "blanks": [
+        {
+          "options": [
+            "speculate",
+            "corroborate",
+            "substantiate"
+          ],
+          "answers": [
+            "speculate"
+          ]
+        },
+        {
+          "options": [
+            "conjectural",
+            "incontrovertible",
+            "axiomatic"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "speculate"
+      ],
+      "explanation": "The missing diary removes the evidence, so the biographers can reason but not prove — they speculate; corroborate and substantiate both require the documentation the sentence says is gone. The second blank must match that evidentiary vacuum: a story resting on late gossip is conjectural, while incontrovertible and axiomatic would claim exactly the certainty the clause denies.",
+      "id": "gregmat35__b6__tc2__04",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than examining the underlying businesses and holding for years, Hudson {1} in railway shares, buying on rumor and selling within the week.",
+      "blanks": [
+        {
+          "options": [
+            "speculated",
+            "invested",
+            "retrenched",
+            "extrapolated",
+            "abstained"
+          ],
+          "answers": [
+            "speculated"
+          ]
+        }
+      ],
+      "words": [
+        "speculate"
+      ],
+      "explanation": "Buying on rumor and flipping within a week is betting on price movement, the financial sense of speculate. Invested is the trap the sentence explicitly rules out — \"rather than examining the underlying businesses and holding for years\" describes the investor Hudson is not; retrenched and abstained describe pulling back, and extrapolated names a form of inference, not a trade.",
+      "id": "gregmat35__b6__cloze__05",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "The new curator's neon installations were conceived as a rebuke to the museum's {1} reputation: decades of brown galleries, hushed docents, and portraits acquired by committee.",
+      "blanks": [
+        {
+          "options": [
+            "staid",
+            "sedate",
+            "venerable",
+            "iconoclastic",
+            "phlegmatic",
+            "precarious"
+          ],
+          "answers": [
+            "staid",
+            "sedate"
+          ]
+        }
+      ],
+      "words": [
+        "staid"
+      ],
+      "explanation": "The colon supplies the content of the reputation — respectable, conventional and slightly lifeless — which staid and sedate both convey, and the word must be unflattering enough to warrant a rebuke. Venerable fits the old-institution tone but admires rather than deflates, iconoclastic is the curator's quality rather than the museum's, and phlegmatic describes an unexcitable temperament rather than institutional dullness.",
+      "id": "gregmat35__b6__se__06",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "The partners cultivated a determinedly {1} exterior — grey suits, surnames only, a lobby as hushed as a chapel — precisely because the trade that paid for it, buying distressed debt on the chance of a rebound, was too {2} to advertise.",
+      "blanks": [
+        {
+          "options": [
+            "staid",
+            "facetious",
+            "iconoclastic"
+          ],
+          "answers": [
+            "staid"
+          ]
+        },
+        {
+          "options": [
+            "speculative",
+            "decorous",
+            "somnolent"
+          ],
+          "answers": [
+            "speculative"
+          ]
+        }
+      ],
+      "words": [
+        "staid",
+        "speculate"
+      ],
+      "explanation": "Grey suits, surnames and a chapel-like hush describe sober conventionality carried to the point of dullness, which is staid; facetious and iconoclastic would clash with every detail in the dash clause. The second blank must name what the sober façade conceals — buying distressed debt on the chance of a rebound is speculative, whereas decorous and somnolent would make the trade indistinguishable from the exterior and destroy the sentence's contrast.",
+      "id": "gregmat35__b6__tc2__07",
+      "unit": "gregmat35__b6",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": []
+}

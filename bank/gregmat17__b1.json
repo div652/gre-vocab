@@ -1,0 +1,177 @@
+{
+  "unit": "gregmat17__b1",
+  "gregmat_group": 17,
+  "words": [
+    "cataclysmic",
+    "circumscribe",
+    "complementary",
+    "contentious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The 1867 charter did not so much {1} the governor's authority as {2} it: the powers it enumerated he could exercise as freely as ever, but beyond that list he could do nothing whatever.",
+      "blanks": [
+        {
+          "options": [
+            "curb",
+            "circumvent",
+            "ratify"
+          ],
+          "answers": [
+            "curb"
+          ]
+        },
+        {
+          "options": [
+            "circumscribe",
+            "immure",
+            "manacle"
+          ],
+          "answers": [
+            "circumscribe"
+          ]
+        }
+      ],
+      "words": [
+        "circumscribe"
+      ],
+      "explanation": "\"As freely as ever\" rules out any holding-in-check within the permitted sphere, so the rejected term is \"curb\"; \"circumvent\" (evade) and \"ratify\" (confirm) do not describe what a charter does to a power. The contrast then requires a word for fixing the outer perimeter in advance, which is circumscribe — immure and manacle confine bodies, not scopes, and both carry an accusation the charter's legitimate grant does not.",
+      "id": "gregmat17__b1__tc2__02",
+      "unit": "gregmat17__b1",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Her biographer insists that the poet's provincial upbringing never stifled her imagination but only {1} its subject matter: she wrote with undiminished power, yet always about the same four square miles.",
+      "blanks": [
+        {
+          "options": [
+            "circumscribed",
+            "immured",
+            "manacled",
+            "quarantined",
+            "inhibited"
+          ],
+          "answers": [
+            "circumscribed"
+          ]
+        }
+      ],
+      "words": [
+        "circumscribe"
+      ],
+      "explanation": "The sentence denies any loss of force and reports only a fixed boundary on scope, which is precisely circumscribe's work. \"Inhibited\" would restate the stifling the sentence has just refused, and immured, manacled, and quarantined all shut in a body or an infection rather than bounding the range of a subject.",
+      "id": "gregmat17__b1__cloze__03",
+      "unit": "gregmat17__b1",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "In the sonata's slow movement the piano never doubles the violin's line but answers it, the sustained chords of the one filling the silences left by the other's staccato figures; the two parts are strictly {1}.",
+      "blanks": [
+        {
+          "options": [
+            "complementary",
+            "congruent",
+            "redundant",
+            "discordant",
+            "interchangeable"
+          ],
+          "answers": [
+            "complementary"
+          ]
+        }
+      ],
+      "words": [
+        "complementary"
+      ],
+      "explanation": "Each instrument supplies what the other omits, which is the defining interlocking relation of complementary parts. \"Congruent\" and \"interchangeable\" would require the sameness the sentence denies with \"never doubles,\" \"redundant\" would make one part superfluous, and \"discordant\" contradicts the evident cooperation.",
+      "id": "gregmat17__b1__cloze__05",
+      "unit": "gregmat17__b1",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "The treaty's language on sovereignty was deliberately {1}, papering over the one question that had brought the parties to war; predictably, that clause became the most {2} article in the document, invoked by both governments for decades to justify opposite claims.",
+      "blanks": [
+        {
+          "options": [
+            "equivocal",
+            "exhaustive",
+            "peremptory"
+          ],
+          "answers": [
+            "equivocal"
+          ]
+        },
+        {
+          "options": [
+            "contentious",
+            "belligerent",
+            "truculent"
+          ],
+          "answers": [
+            "contentious"
+          ]
+        }
+      ],
+      "words": [
+        "contentious"
+      ],
+      "explanation": "A clause that papers over a dispute must be deliberately double-edged, so \"equivocal\" is required; \"exhaustive\" and \"peremptory\" would settle the question rather than blur it. Of the argument words, only contentious attaches to a thing — an article that generates dispute — while belligerent and truculent describe the temper of persons or states, not the text they quarrel over.",
+      "id": "gregmat17__b1__tc2__06",
+      "unit": "gregmat17__b1",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Whether the cave paintings at Lascaux served ritual or merely decorative ends remains the most {1} question in the field: two conferences running have ended with the rival camps trading accusations instead of evidence.",
+      "blanks": [
+        {
+          "options": [
+            "contentious",
+            "controversial",
+            "intractable",
+            "arcane",
+            "speculative",
+            "settled"
+          ],
+          "answers": [
+            "contentious",
+            "controversial"
+          ]
+        }
+      ],
+      "words": [
+        "contentious"
+      ],
+      "explanation": "The colon supplies open, repeated quarrelling among rival camps, which makes contentious and controversial equivalent here — both mean the question provokes dispute. \"Intractable\" would attribute the trouble to the question's resistance to solution rather than to the fighting, \"arcane\" and \"speculative\" describe obscurity and want of evidence rather than conflict, and \"settled\" reverses the sentence.",
+      "id": "gregmat17__b1__se__07",
+      "unit": "gregmat17__b1",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean: only \"calamitous\" is negated by \"destroyed no property and took no lives\" (\"unprecedented\" and \"protracted\" have no link to that clause). Blank 2 is not clean. \"Ruinous\" is correctly excluded (it presupposes destruction), but \"cataclysmic\" and \"catastrophic\" are dictionary near-synonyms, and the sentence provides no cue that discriminates them. The only discriminator is a fine lexical intuition — that \"cataclysm\" primarily denotes a violent large-scale natural upheaval while \"catastrophe\" foregrounds damage/suffering (and so would merely restate blank 1's \"calamitous,\" making the contrast circular). But \"geologists describe\" actually cuts the other way: \"catastrophic\" is the established geological technical term (catastrophism, catastrophic vs. uniformitarian processes) for exactly this kind of abrupt, large-scale reshaping of a landscape. A well-prepared test-taker can defensibly choose \"catastrophic\" and be marked wrong. Either replace the trap distractor or add a cue that rules it out (e.g., wording that explicitly separates human harm from physical upheaval as a matter of the word's meaning).",
+      "stem": "Because the flood destroyed no property and took no lives, calling it {1} would be absurd; and yet the river's course was so utterly redrawn, its old channel abandoned and its delta relocated, that geologists describe the event as {2} nonetheless."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option set contains four near-interchangeable \"disaster\" words (cataclysmic, catastrophic, calamitous, ruinous) plus one magnitude word (seismic) and one throwaway (incremental). The intended logic is presumably that \"bankrupted not a single carrier\" rules out words implying ruin, leaving upheaval-of-magnitude — but that logic cuts against \"cataclysmic\" just as hard as against \"catastrophic,\" since a cataclysm is by definition a disastrous upheaval. If \"cataclysmic\" is admitted as merely \"hugely disruptive,\" then \"catastrophic\" and \"calamitous\" (routinely used hyperbolically for sweeping, non-fatal upheaval) are equally admissible, and catastrophic + calamitous — or calamitous + ruinous — form a perfectly synonymous pair producing equivalent sentences. So a test-taker who picks catastrophic/calamitous has a genuinely defensible answer. Conversely, if the no-bankruptcy clause is taken to exclude all destruction words, \"seismic\" is left with no synonym at all and the item has no valid pair. Either reading breaks the question; it needs the redundant disaster synonyms trimmed and a second true magnitude word (e.g. \"tectonic\" or \"sweeping\") supplied.",
+      "stem": "Deregulation bankrupted not a single carrier, yet by dissolving the route networks that had organized the industry for forty years it forced a {1} realignment from which no participant emerged in anything like its former shape."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is cleanly determined (\"complementary\" — the final clause defines mutual completion, ruling out supplementary/redundant), but blank 1 admits two defensible fillers. The intended reading is the escalation \"not merely able to coexist (compatible) → actively completing each other (complementary).\" However, \"not merely\" can also function concessively rather than as an upgrade: \"not merely antagonistic; they were complementary, each man providing precisely the discipline the other conspicuously lacked\" is idiomatic and coherent — the clash was real but productive, which fits the actual Watson/Crick dynamic and the contrast set up between \"reckless synthesis\" and \"physical rigour.\" Nothing in the sentence excludes prior friction, so a reasonable test-taker choosing \"antagonistic\" would be marked wrong. To fix, force the escalation reading, e.g. \"were not merely mutually tolerable; they were...\" or add a marker that blocks concession (\".. were far more than merely ___; they were ___\").",
+      "stem": "Watson's flair for reckless synthesis and Crick's insistence on physical rigour were not merely {1}; they were {2}, each man providing precisely the discipline the other conspicuously lacked."
+    }
+  ]
+}

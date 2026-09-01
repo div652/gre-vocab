@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat02__b6",
+  "gregmat_group": 2,
+  "words": [
+    "demur",
+    "derivative",
+    "desiccate",
+    "diatribe"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Asked point-blank whether he would seek a third term, the governor neither confirmed nor denied but simply {1}; his critics, unsatisfied, accused him of precisely the sort of {2} that had marked his entire tenure.",
+      "blanks": [
+        {
+          "options": [
+            "demurred",
+            "averred",
+            "dissented"
+          ],
+          "answers": [
+            "demurred"
+          ]
+        },
+        {
+          "options": [
+            "evasiveness",
+            "candor",
+            "deference"
+          ],
+          "answers": [
+            "evasiveness"
+          ]
+        }
+      ],
+      "words": [
+        "demur"
+      ],
+      "explanation": "To demur is to balk politely — here, to decline the question rather than answer it, which is exactly what \"neither confirmed nor denied\" describes and what critics then brand as evasiveness. Averred is ruled out because it means to assert flatly, contradicting the refusal to confirm or deny; dissented requires a proposition to disagree with, and none is offered. Candor is the opposite of what an accusation would allege, and deference has nothing to do with withholding an answer.",
+      "id": "gregmat02__b6__tc2__00",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Offered the chairmanship on condition that he abandon his laboratory, Whitfield {1} — not a flat refusal, but hesitation pronounced enough that the board quietly let the offer lapse.",
+      "blanks": [
+        {
+          "options": [
+            "demurred",
+            "balked",
+            "acquiesced",
+            "prevaricated",
+            "dissented",
+            "flouted"
+          ],
+          "answers": [
+            "demurred",
+            "balked"
+          ]
+        }
+      ],
+      "words": [
+        "demur"
+      ],
+      "explanation": "Demurred and balked both denote a mild, visible reluctance short of outright refusal, which the dash clause defines explicitly. Dissented and flouted are too strong — one states disagreement outright, the other defies openly — and the sentence rules out a \"flat refusal\"; acquiesced reverses the meaning. Prevaricated concerns evading the truth in speech, not hesitating over an offer.",
+      "id": "gregmat02__b6__se__01",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers granted that the young composer's orchestration was flawless, yet found the symphony hopelessly {1}: the scherzo is Mahler's, the finale Sibelius's, and nothing in the work belongs to the man who signed it.",
+      "blanks": [
+        {
+          "options": [
+            "derivative",
+            "iconoclastic",
+            "hackneyed",
+            "unprecedented",
+            "ingenious"
+          ],
+          "answers": [
+            "derivative"
+          ]
+        }
+      ],
+      "words": [
+        "derivative"
+      ],
+      "explanation": "Derivative is the diagnosis that a work's contents can be traced back to identifiable sources, which is exactly what naming Mahler and Sibelius does. Hackneyed would mean stale from overuse — a sneer about tiredness, not about provenance — and the complaint here is borrowing, not banality. Iconoclastic and unprecedented assert the opposite, and ingenious contradicts the criticism entirely.",
+      "id": "gregmat02__b6__cloze__02",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Hailed on publication as {1}, the manifesto now reads as thoroughly {2}: nearly every phrase in it can be found in pamphlets circulating a decade earlier.",
+      "blanks": [
+        {
+          "options": [
+            "iconoclastic",
+            "evasive",
+            "banal"
+          ],
+          "answers": [
+            "iconoclastic"
+          ]
+        },
+        {
+          "options": [
+            "derivative",
+            "unprecedented",
+            "ingenious"
+          ],
+          "answers": [
+            "derivative"
+          ]
+        }
+      ],
+      "words": [
+        "derivative"
+      ],
+      "explanation": "The contrast between contemporary praise and present verdict requires a word of radical originality in the first blank and one of borrowed content in the second, and the colon clause — phrases found in earlier pamphlets — names the source that makes derivative the precise term. Banal and evasive are not praise, so neither can occupy the first blank. Unprecedented and ingenious would make the second clause contradict its own explanation.",
+      "id": "gregmat02__b6__tc2__03",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Once prized for its warmth, his late criticism had become {1}: scrupulously argued, technically impeccable, and drained of every trace of feeling.",
+      "blanks": [
+        {
+          "options": [
+            "desiccated",
+            "bloodless",
+            "fecund",
+            "fallow",
+            "banal",
+            "polemical"
+          ],
+          "answers": [
+            "desiccated",
+            "bloodless"
+          ]
+        }
+      ],
+      "words": [
+        "desiccate"
+      ],
+      "explanation": "Figuratively, desiccated describes something intact but wholly drained of vitality — the sense the final clause spells out — and bloodless carries the same charge of lifelessness despite competence. Banal is tempting in tone but alleges dullness and cliché, which \"scrupulously argued, technically impeccable\" resists; fallow and fecund concern productivity rather than vitality, and polemical describes heat, the very quality said to be absent.",
+      "id": "gregmat02__b6__se__04",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "The dry, sealed air of the chamber had so completely {1} the funerary offerings that the loaves of bread, three thousand years old, snapped like plaster when lifted.",
+      "blanks": [
+        {
+          "options": [
+            "desiccated",
+            "macerated",
+            "fossilized",
+            "replenished",
+            "putrefied"
+          ],
+          "answers": [
+            "desiccated"
+          ]
+        }
+      ],
+      "words": [
+        "desiccate"
+      ],
+      "explanation": "Desiccated names the process of drying carried to its limit, which is what dry sealed air does and what leaves bread rigid enough to snap. Macerated means softened by soaking and putrefied means rotted — both require the moisture the chamber lacks — while fossilized would mean mineral replacement over geological time, not preservation as a brittle husk.",
+      "id": "gregmat02__b6__cloze__05",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "What opened as a measured audit of the university's finances had degenerated by its third page into a {1}: the author having abandoned argument for abuse, even readers who shared his {2} about the endowment stopped reading.",
+      "blanks": [
+        {
+          "options": [
+            "diatribe",
+            "apologia",
+            "bromide"
+          ],
+          "answers": [
+            "diatribe"
+          ]
+        },
+        {
+          "options": [
+            "misgivings",
+            "equanimity",
+            "erudition"
+          ],
+          "answers": [
+            "misgivings"
+          ]
+        }
+      ],
+      "words": [
+        "diatribe"
+      ],
+      "explanation": "A diatribe is a sustained, venomous attack that has traded reasoning for invective, which is precisely the degeneration the colon describes. An apologia is a defense, the reverse of an attack, and a bromide is a stale platitude rather than an outpouring of abuse. Misgivings is required because the readers must agree with the author's suspicions yet still abandon him over his manner.",
+      "id": "gregmat02__b6__tc2__06",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Forty pages of unbroken invective against the mill owners, the pamphlet is less an argument than a {1}, and it converted no one who was not already persuaded.",
+      "blanks": [
+        {
+          "options": [
+            "diatribe",
+            "tirade",
+            "polemic",
+            "apologia",
+            "panegyric",
+            "bromide"
+          ],
+          "answers": [
+            "diatribe",
+            "tirade"
+          ]
+        }
+      ],
+      "words": [
+        "diatribe"
+      ],
+      "explanation": "Diatribe and tirade both name a long, bitter torrent of abuse, and both labels concede force while denying reason — exactly the judgment the sentence renders. Polemic is the trap: it too is a hostile attack, but a polemic is argument-shaped, and the stem explicitly says the pamphlet is less an argument. Apologia and panegyric denote defense and praise, and a bromide is a platitude, not invective.",
+      "id": "gregmat02__b6__se__07",
+      "unit": "gregmat02__b6",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat10__b0",
+  "gregmat_group": 10,
+  "words": [
+    "acumen",
+    "antithesis",
+    "ascribe",
+    "befuddled"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Celebrated for the theoretical elegance of his monographs, Farrar proved to be the {1} of the effective department head: a want of the most ordinary administrative {2} left three years of budgets in disarray.",
+      "blanks": [
+        {
+          "options": [
+            "antithesis",
+            "embodiment",
+            "forerunner"
+          ],
+          "answers": [
+            "antithesis"
+          ]
+        },
+        {
+          "options": [
+            "acumen",
+            "erudition",
+            "rectitude"
+          ],
+          "answers": [
+            "acumen"
+          ]
+        }
+      ],
+      "words": [
+        "antithesis",
+        "acumen"
+      ],
+      "explanation": "The colon explains a failure, so blank 1 must reverse the praise of the first clause: he is not merely a different sort of administrator but the direct opposite of a good one, which is antithesis rather than embodiment or forerunner. Blank 2 names the practical, domain-bound judgment he lacks — administrative acumen; erudition is precisely what his monographs prove he has, and a want of rectitude would produce fraud, not muddled budgets.",
+      "id": "gregmat10__b0__tc2__00",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "The witness's chronology doubled back on itself so often that the jurors, visibly {1} by it, {2} the contradictions to sheer fatigue rather than to any design to mislead.",
+      "blanks": [
+        {
+          "options": [
+            "befuddled",
+            "mollified",
+            "incensed"
+          ],
+          "answers": [
+            "befuddled"
+          ]
+        },
+        {
+          "options": [
+            "ascribed",
+            "likened",
+            "opposed"
+          ],
+          "answers": [
+            "ascribed"
+          ]
+        }
+      ],
+      "words": [
+        "befuddled",
+        "ascribe"
+      ],
+      "explanation": "A tangled chronology fogs the mind rather than soothing or angering it, so blank 1 is befuddled; mollified and incensed both describe feeling toward the witness, which the sentence never raises. Blank 2 sits in the frame \"___ X to Y,\" assigning a cause on inference rather than proof — the signature use of ascribe; likened would make fatigue a comparison rather than a source, and opposed inverts the logic.",
+      "id": "gregmat10__b0__tc2__01",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Intended as a catechism for the newly converted, the tract buried every doctrine under so many qualifications that it left its readers thoroughly {1}, becoming the {2} of the plain instruction it had promised.",
+      "blanks": [
+        {
+          "options": [
+            "befuddled",
+            "edified",
+            "chastened"
+          ],
+          "answers": [
+            "befuddled"
+          ]
+        },
+        {
+          "options": [
+            "antithesis",
+            "apotheosis",
+            "precursor"
+          ],
+          "answers": [
+            "antithesis"
+          ]
+        }
+      ],
+      "words": [
+        "befuddled",
+        "antithesis"
+      ],
+      "explanation": "Piled-up qualifications dull the reader's grasp, so blank 1 must be befuddled; edified is the very effect a catechism intends and would cancel the contrast, and chastened describes moral humbling, not confusion. Blank 2 completes that reversal — the tract stands against plain instruction, so antithesis, whereas apotheosis would make it instruction's highest form and precursor merely places it earlier in time.",
+      "id": "gregmat10__b0__tc2__02",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Nineteenth-century editors {1} the anonymous pamphlet to Swift on the strength of its cadences alone, and no manuscript has since turned up to confirm the guess.",
+      "blanks": [
+        {
+          "options": [
+            "ascribed",
+            "attributed",
+            "dedicated",
+            "addressed",
+            "consigned",
+            "likened"
+          ],
+          "answers": [
+            "ascribed",
+            "attributed"
+          ]
+        }
+      ],
+      "words": [
+        "ascribe"
+      ],
+      "explanation": "The editors are assigning authorship on stylistic inference, which is exactly what ascribed and attributed both mean in the frame \"___ X to Y.\" Dedicated and addressed fit the grammar and the period register but describe what an author does with a text, not what a scholar concludes about its origin; consigned and likened change the relation to handing over and comparing.",
+      "id": "gregmat10__b0__se__03",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Three glasses of claret and a solid hour of the notary's Latin had left the old squire entirely {1}, nodding gravely at clauses he could not have paraphrased to save his estate.",
+      "blanks": [
+        {
+          "options": [
+            "befuddled",
+            "flummoxed",
+            "enthralled",
+            "incensed",
+            "mollified",
+            "edified"
+          ],
+          "answers": [
+            "befuddled",
+            "flummoxed"
+          ]
+        }
+      ],
+      "words": [
+        "befuddled"
+      ],
+      "explanation": "Drink and dense jargon are classic agents of a fogged, non-tracking confusion, and befuddled and flummoxed both deliver that sense here. Enthralled and edified would make the squire an engaged listener, contradicting his inability to paraphrase a word, while incensed and mollified supply an emotional reaction the sentence gives no cause for.",
+      "id": "gregmat10__b0__se__04",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Whatever Morgan's limitations as a thinker, no one denied his tactical {1}: he could read a rival's balance sheet at a glance and name the price at which the man would sell.",
+      "blanks": [
+        {
+          "options": [
+            "acumen",
+            "shrewdness",
+            "erudition",
+            "probity",
+            "prescience",
+            "obstinacy"
+          ],
+          "answers": [
+            "acumen",
+            "shrewdness"
+          ]
+        }
+      ],
+      "words": [
+        "acumen"
+      ],
+      "explanation": "The evidence offered is practical, worldly judgment exercised in one arena, which acumen and shrewdness both name, and the concession \"whatever his limitations as a thinker\" pointedly separates this from intellect. Erudition is book learning and is what he is granted no credit for; probity and obstinacy fit the tone of a financier's portrait but describe honesty and stubbornness, and prescience would require foreseeing the future rather than sizing up the man in front of him.",
+      "id": "gregmat10__b0__se__05",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the Bauhaus workshop treated ornament as something close to a moral failing, the gilded, tasselled parlor of the Second Empire was, for its teachers, less an alternative style than the {1} of everything the school stood for.",
+      "blanks": [
+        {
+          "options": [
+            "antithesis",
+            "apotheosis",
+            "prototype",
+            "corollary",
+            "analogue"
+          ],
+          "answers": [
+            "antithesis"
+          ]
+        }
+      ],
+      "words": [
+        "antithesis"
+      ],
+      "explanation": "\"Less an alternative style than\" demands a word stronger than difference — the parlor is charged with standing against the school's principles, which is antithesis. Apotheosis would make it their highest expression, corollary a consequence of them, and prototype or analogue would make it an early or parallel version rather than a repudiation.",
+      "id": "gregmat10__b0__cloze__06",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "Barred by her sex from any formal training in finance, Hetty Green nonetheless possessed a commercial {1} — an instinct for the moment to buy and the man to distrust — that left much of Wall Street poorer for having tested it.",
+      "blanks": [
+        {
+          "options": [
+            "acumen",
+            "erudition",
+            "probity",
+            "prescience",
+            "volubility"
+          ],
+          "answers": [
+            "acumen"
+          ]
+        }
+      ],
+      "words": [
+        "acumen"
+      ],
+      "explanation": "The sentence supplies a domain (\"commercial\"), denies formal study, and defines the quality as an instinct for practical dealing and for reading people — the exact profile of acumen. Erudition is the schooling she was denied, prescience would mean foreseeing events rather than judging the man across the table, and probity and volubility name honesty and talkativeness, neither of which impoverishes a counterparty.",
+      "id": "gregmat10__b0__cloze__07",
+      "unit": "gregmat10__b0",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": []
+}

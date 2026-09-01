@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat10__b6",
+  "gregmat_group": 10,
+  "words": [
+    "slight",
+    "somnolent",
+    "stoic",
+    "supersede"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Two decades of guaranteed subsidy had left the industry {1} — no new entrants, no new products, no urgency — and the White Paper's proposals, drafted to {2} it, amounted to little more than fresh paperwork.",
+      "blanks": [
+        {
+          "options": [
+            "somnolent",
+            "fractious",
+            "insolvent"
+          ],
+          "answers": [
+            "somnolent"
+          ]
+        },
+        {
+          "options": [
+            "galvanize",
+            "enervate",
+            "chasten"
+          ],
+          "answers": [
+            "galvanize"
+          ]
+        }
+      ],
+      "words": [
+        "somnolent"
+      ],
+      "explanation": "The dashes define a sector that has dozed off rather than one that is quarrelsome or bankrupt, and somnolent is the word for that figurative drowsiness in things that ought to be active. The second blank must supply the remedy for torpor, so galvanize is required: enervate would drain what is already drained, and chasten punishes an industry that is misbehaving, not one that has stopped moving.",
+      "id": "gregmat10__b6__tc2__01",
+      "unit": "gregmat10__b6",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "The courtroom after lunch — warm air, the drone of the clerk's recitation, a fan turning slowly overhead — was so {1} that three jurors' notes trailed off in mid-sentence.",
+      "blanks": [
+        {
+          "options": [
+            "somnolent",
+            "soporific",
+            "placid",
+            "staid",
+            "stolid",
+            "phlegmatic"
+          ],
+          "answers": [
+            "somnolent",
+            "soporific"
+          ]
+        }
+      ],
+      "words": [
+        "somnolent"
+      ],
+      "explanation": "The result clause demands a word that describes something as sleep-inducing, and somnolent and soporific are the two that carry that causative sense — somnolent reversibly (the drowsy scene and the thing that made it so), soporific directly. Placid, staid, stolid and phlegmatic all describe calm or unexcitability, but none of them explains why the jurors' pens stopped moving; a placid room does not put anyone to sleep.",
+      "id": "gregmat10__b6__se__02",
+      "unit": "gregmat10__b6",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Once the 2004 building code took effect it {1} the older fire regulations entirely: inspectors who continued to cite the earlier clauses were reminded that those provisions no longer carried any legal force.",
+      "blanks": [
+        {
+          "options": [
+            "superseded",
+            "supplanted",
+            "eclipsed",
+            "augmented",
+            "ratified",
+            "revived"
+          ],
+          "answers": [
+            "superseded",
+            "supplanted"
+          ]
+        }
+      ],
+      "words": [
+        "supersede"
+      ],
+      "explanation": "Both superseded and supplanted mean the new code took the old regulations' place, and the colon confirms the old clauses have lost their standing outright. Eclipsed would mean only that the old rules were overshadowed while still in force, augmented and ratified would leave them operative, and revived reverses the sentence.",
+      "id": "gregmat10__b6__se__03",
+      "unit": "gregmat10__b6",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Field hospitals of the period rewarded the {1} patient — the one who bit down on a strap and said nothing — and quietly punished the {2} one, whose steady stream of complaints surgeons read as a defect of character rather than as evidence of pain.",
+      "blanks": [
+        {
+          "options": [
+            "stoic",
+            "insensible",
+            "voluble"
+          ],
+          "answers": [
+            "stoic"
+          ]
+        },
+        {
+          "options": [
+            "querulous",
+            "resolute",
+            "taciturn"
+          ],
+          "answers": [
+            "querulous"
+          ]
+        }
+      ],
+      "words": [
+        "stoic"
+      ],
+      "explanation": "Biting down on a strap shows that the pain is fully felt and deliberately unexpressed, which is precisely stoic; insensible would mean he felt nothing, and voluble would make him the very patient the second half condemns. The contrast then requires the complainer: querulous names the habit of peevish complaint, while resolute and taciturn both contradict the \"steady stream of complaints\" the clause supplies.",
+      "id": "gregmat10__b6__tc2__04",
+      "unit": "gregmat10__b6",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "By seating the ambassador below the junior consuls and leaving his title out of the printed program, the ministry {1} him so unmistakably that his government recalled him within the week.",
+      "blanks": [
+        {
+          "options": [
+            "slighted",
+            "snubbed",
+            "derided",
+            "upbraided",
+            "mollified",
+            "outmaneuvered"
+          ],
+          "answers": [
+            "slighted",
+            "snubbed"
+          ]
+        }
+      ],
+      "words": [
+        "slight"
+      ],
+      "explanation": "The offence consists entirely of omissions — a low seat, a missing title — which is the exact territory of slight and snub: the insult is delivered by treating someone as not worth the trouble, without a word being said. Deride and upbraid both require open speech against him, mollified reverses the meaning, and outmaneuvered describes a defeat in tactics rather than a discourtesy.",
+      "id": "gregmat10__b6__se__05",
+      "unit": "gregmat10__b6",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "Reporters described the widow's bearing at the sentencing as {1}: she did not weep, though the effort of not weeping was plain in her hands.",
+      "blanks": [
+        {
+          "options": [
+            "stoic",
+            "impassive",
+            "apathetic",
+            "phlegmatic",
+            "insouciant"
+          ],
+          "answers": [
+            "stoic"
+          ]
+        }
+      ],
+      "words": [
+        "stoic"
+      ],
+      "explanation": "The visible effort is the whole clue — the grief is present and being deliberately held down, which is stoic rather than any word implying absence of feeling. Impassive would describe a blank face and phlegmatic an unexcitable temperament, both contradicted by the hands; apathetic denies that she cares, and insouciant makes her carefree.",
+      "id": "gregmat10__b6__cloze__06",
+      "unit": "gregmat10__b6",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "The committee's decision to list a junior colleague as first author was plainly deliberate, yet Whitmore recorded the {1} in her notebook and never raised it again — a silence her biographers, straining for drama, read as indifference rather than as the {2} discipline it was.",
+      "blanks": [
+        {
+          "options": [
+            "slight",
+            "oversight",
+            "rebuke"
+          ],
+          "answers": [
+            "slight"
+          ]
+        },
+        {
+          "options": [
+            "stoic",
+            "stolid",
+            "staid"
+          ],
+          "answers": [
+            "stoic"
+          ]
+        }
+      ],
+      "words": [
+        "slight",
+        "stoic"
+      ],
+      "explanation": "\"Plainly deliberate\" rules out oversight, and since the committee condemned nothing openly but simply left her name out of first place, the injury is a slight rather than a rebuke. The second blank is set against \"indifference\": stoic keeps the feeling present and merely unexpressed, whereas stolid would concede that she felt nothing and staid would describe mere sobriety of manner, not endurance.",
+      "id": "gregmat10__b6__tc2__07",
+      "unit": "gregmat10__b6",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is clean and unique (omission from the volume/index = slighted, not derided/denounced). Blank 1 is not sufficiently constrained: \"eclipsed\" also fits — \"No later edition has eclipsed the 1911 manual, which by statute remains the authority of record\" is idiomatic and internally consistent. The only discriminator is that \"by statute\" concerns legal displacement (supersede) rather than prominence (eclipse), a distinction too fine to make one answer uniquely defensible. To fix, sharpen the clue toward legal replacement (e.g. \"no later edition has ___ it, since only an act of the legislature can replace the text now in force\"), which would kill \"eclipsed\" outright.",
+      "stem": "No later edition has {1} the 1911 dispensary manual, which by statute remains the authority of record in the province; its compiler, however, was steadily {2} — omitted from the commemorative volume, his name absent even from the index."
+    }
+  ]
+}

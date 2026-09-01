@@ -1,0 +1,200 @@
+{
+  "unit": "gregmat25__b4",
+  "gregmat_group": 25,
+  "words": [
+    "ploy",
+    "poise",
+    "pomposity",
+    "proxy"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers took the professor's manner for arrogance, though he never once claimed superiority over anyone; what they were hearing was mere {1}, the orotund delivery and the weighty pause before the obvious, which made him a man less to be feared than to be {2} over the dinner table.",
+      "blanks": [
+        {
+          "options": [
+            "pomposity",
+            "narcissism",
+            "chicanery"
+          ],
+          "answers": [
+            "pomposity"
+          ]
+        },
+        {
+          "options": [
+            "punctured",
+            "consoled",
+            "rebuffed"
+          ],
+          "answers": [
+            "punctured"
+          ]
+        }
+      ],
+      "words": [
+        "pomposity"
+      ],
+      "explanation": "The concession that he claimed no superiority removes arrogance and narcissism, which are about asserted self-worth, and leaves the fault located entirely in delivery — ceremony, cadence, the theatrical pause — which is pomposity. The second blank follows from the comic rather than fearsome character of that fault: an inflated manner is punctured, whereas consoled and rebuffed would imply he was distressed or making a demand.",
+      "id": "gregmat25__b4__tc2__02",
+      "unit": "gregmat25__b4",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Unable to make the voyage himself, the bishop appointed a curate to act as his {1} in the colony — an arrangement the settlers thought irregular but not {2}, since the authority in question had been openly granted rather than quietly usurped.",
+      "blanks": [
+        {
+          "options": [
+            "proxy",
+            "impostor",
+            "arbiter"
+          ],
+          "answers": [
+            "proxy"
+          ]
+        },
+        {
+          "options": [
+            "illicit",
+            "tedious",
+            "salutary"
+          ],
+          "answers": [
+            "illicit"
+          ]
+        }
+      ],
+      "words": [
+        "proxy"
+      ],
+      "explanation": "A proxy is a substitute whose authority was expressly delegated, which is exactly what \"openly granted rather than quietly usurped\" specifies; an impostor takes a place without permission, and an arbiter decides between two parties rather than standing in for one. The second blank must name what open delegation rules out, so illicit is required — the settlers' objection is to the irregularity, not the legality.",
+      "id": "gregmat25__b4__tc2__03",
+      "unit": "gregmat25__b4",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Thrust before the cameras at fifteen to answer questions about her father's indictment, she handled the press with {1} that seasoned political officers admitted they could not have managed themselves.",
+      "blanks": [
+        {
+          "options": [
+            "poise",
+            "aplomb",
+            "candour",
+            "truculence",
+            "diffidence",
+            "volubility"
+          ],
+          "answers": [
+            "poise",
+            "aplomb"
+          ]
+        }
+      ],
+      "words": [
+        "poise"
+      ],
+      "explanation": "Only poise and aplomb name self-possessed composure displayed under pressure, and in this context they are interchangeable. Candour and volubility fit grammatically and are even complimentary in tone, but they describe frankness and fluency rather than steadiness; truculence and diffidence describe belligerence and shrinking, neither of which is what seasoned officers would envy.",
+      "id": "gregmat25__b4__se__04",
+      "unit": "gregmat25__b4",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Because the medieval rolls record no wages at all, economists have been driven to use the price of a bushel of wheat as a {1} for the labourer's standard of living — a crude one, but the only measure the archives permit.",
+      "blanks": [
+        {
+          "options": [
+            "proxy",
+            "surrogate",
+            "precursor",
+            "corollary",
+            "harbinger",
+            "benchmark"
+          ],
+          "answers": [
+            "proxy",
+            "surrogate"
+          ]
+        }
+      ],
+      "words": [
+        "proxy"
+      ],
+      "explanation": "The sentence needs a term for a measurable stand-in used because the real quantity cannot be observed, and proxy and surrogate are equivalent in that role. Precursor and harbinger would make wheat prices something that comes before or foretells living standards rather than substituting for them, and a corollary is a consequence; benchmark is tonally plausible but means a fixed reference standard, so it has no partner among the options.",
+      "id": "gregmat25__b4__se__05",
+      "unit": "gregmat25__b4",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians of advertising treat the \"limited-time offer\" as the trade's oldest {1}: one cheap manoeuvre, seen through by nearly every customer, that still manages to shorten deliberation.",
+      "blanks": [
+        {
+          "options": [
+            "ploy",
+            "chicanery",
+            "skullduggery",
+            "feint",
+            "cabal"
+          ],
+          "answers": [
+            "ploy"
+          ]
+        }
+      ],
+      "words": [
+        "ploy"
+      ],
+      "explanation": "\"One cheap manoeuvre\" fixes the scale at a single tactical move rather than a practice, and \"seen through by nearly every customer\" matches the dismissive note the word carries — both point to ploy. Chicanery and skullduggery denote sustained underhandedness rather than one countable move, a feint requires misdirection away from the real object, and a cabal is a conspiring group of people, not a tactic.",
+      "id": "gregmat25__b4__cloze__06",
+      "unit": "gregmat25__b4",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "What finally deflates the memoir is not vanity about his achievements, which were real enough, but sheer {1}: every trivial recollection is delivered with the ceremony of a state proclamation.",
+      "blanks": [
+        {
+          "options": [
+            "pomposity",
+            "bravado",
+            "narcissism",
+            "mendacity",
+            "diffidence"
+          ],
+          "answers": [
+            "pomposity"
+          ]
+        }
+      ],
+      "words": [
+        "pomposity"
+      ],
+      "explanation": "The sentence explicitly sets aside vanity about achievement and locates the fault in the manner of delivery — ceremony lavished on trivia — which is pomposity. Narcissism and bravado concern self-absorption and swaggering displays of daring rather than grandiose style, mendacity would require lying, and diffidence is the opposite of the inflation described.",
+      "id": "gregmat25__b4__cloze__07",
+      "unit": "gregmat25__b4",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean (only \"chicanery\" is a wrongdoing word an inquiry would seek a pattern of). Blank 2 is not uniquely determined: both \"ploy\" and \"feint\" fit. \"Ploy\" is marginally better because the offer is genuine rather than a pretense — it is a tactic for advantage, not a misdirection. But nothing in the sentence establishes the missing element that would exclude \"feint\": the firm is never described as appearing to do one thing while doing another, and \"a transparent feint\" is idiomatic. A test-taker reading the deliberately timed expiry as misdirection aimed at the competitor picks \"feint\" on a defensible reading and gets marked wrong. To fix, add a cue that forces the ploy/feint distinction — e.g. make the offer a diversion from something else (favoring \"feint\"), or emphasize plain advantage-seeking with no pretense (favoring \"ploy\") — or replace \"feint\" with a distractor that is clearly wrong.",
+      "stem": "The inquiry found no pattern of {1} in the firm's dealings; what it found was a single, rather transparent {2} — a free-shipping offer timed to expire on the morning a competitor's sale began."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is clean: \"refusal to be ___ by even the most insinuating question\" requires \"discomfited\" (\"disabused\" = freed of an error, \"mollified\" = appeased — neither works with \"insinuating question\"). Blank 1 is not unique. \"Poise\" and \"equanimity\" are near-synonyms and both are fully supported by the appositive (\"the unhurried hands, the level voice, the refusal to be discomfited\") and by the contrast with private panic. The only discriminator is a very fine one — poise names outward composure of manner while equanimity names evenness of temper, so the outward-observation framing (\"witnesses ... remember\") tilts slightly to poise — but that distinction is far too subtle to make a test-taker who chooses \"equanimity\" wrong. (\"Bravado\" is correctly excluded: bluster conflicts with unhurried hands and a level voice.) The sentence needs a cue that separates displayed manner from inner tranquility (e.g. \"remember only her outward ___\" plus a word choice that makes equanimity impossible) before it can be used.",
+      "stem": "Her diaries record nights of panic before each session, yet witnesses to the hearing remember only her {1} — the unhurried hands, the level voice, the refusal to be {2} by even the most insinuating question."
+    }
+  ]
+}

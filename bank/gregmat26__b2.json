@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat26__b2",
+  "gregmat_group": 26,
+  "words": [
+    "equanimity",
+    "exorbitant",
+    "fickle",
+    "figurative"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Given how bitterly he had fought the merger for two years, the chairman's {1} on the morning of the vote astonished the board: he congratulated the victors, cleared his desk, and left without so much as a {2}.",
+      "blanks": [
+        {
+          "options": [
+            "equanimity",
+            "petulance",
+            "fractiousness"
+          ],
+          "answers": [
+            "equanimity"
+          ]
+        },
+        {
+          "options": [
+            "grumble",
+            "boast",
+            "pretext"
+          ],
+          "answers": [
+            "grumble"
+          ]
+        }
+      ],
+      "words": [
+        "equanimity"
+      ],
+      "explanation": "The concession (\"bitterly he had fought\") plus \"astonished\" demands a calm reaction to a defeat inflicted on him, which is equanimity; petulance and fractiousness would have been exactly what everyone expected, so nothing would astonish. The second blank must name what a composed loser conspicuously omits — a complaint, i.e. a grumble — while a boast is unavailable to the losing side and a pretext answers no cue in the sentence.",
+      "id": "gregmat26__b2__tc2__00",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "Alone in his cell, with no audience to impress and no gesture left to perform, More met the sentence with an {1} that his letters give no sign of faking.",
+      "blanks": [
+        {
+          "options": [
+            "equanimity",
+            "aplomb",
+            "poise",
+            "complacency",
+            "petulance"
+          ],
+          "answers": [
+            "equanimity"
+          ]
+        }
+      ],
+      "words": [
+        "equanimity"
+      ],
+      "explanation": "Aplomb and poise are visible, performed self-assurance, and the sentence explicitly strips away the audience and the performance, leaving only the inward evenness of mind that equanimity names. Complacency would imply unearned satisfaction rather than composure under a blow, and petulance is its opposite.",
+      "id": "gregmat26__b2__cloze__01",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Although the trustees had promised to {1} acquisition spending after the audit, the sum they paid for the disputed bronze was so {2} that several longtime donors closed their chequebooks in protest.",
+      "blanks": [
+        {
+          "options": [
+            "curb",
+            "inflate",
+            "chronicle"
+          ],
+          "answers": [
+            "curb"
+          ]
+        },
+        {
+          "options": [
+            "exorbitant",
+            "superfluous",
+            "redundant"
+          ],
+          "answers": [
+            "exorbitant"
+          ]
+        }
+      ],
+      "words": [
+        "exorbitant"
+      ],
+      "explanation": "\"Although\" sets a promise of restraint against an act of excess, so the first blank must mean hold in check: inflate reverses the contrast and chronicle promises only record-keeping, which nothing would violate. The second blank measures magnitude of price, which is exorbitant; superfluous and redundant describe things not needed or duplicated, not sums grossly too large.",
+      "id": "gregmat26__b2__tc2__02",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "The commission reserved its sharpest language for the private ambulance operators, whose charge for a ten-mile transfer often exceeded a week's wages and struck the panel as frankly {1}.",
+      "blanks": [
+        {
+          "options": [
+            "exorbitant",
+            "extortionate",
+            "profligate",
+            "gratuitous",
+            "superfluous",
+            "negligible"
+          ],
+          "answers": [
+            "exorbitant",
+            "extortionate"
+          ]
+        }
+      ],
+      "words": [
+        "exorbitant"
+      ],
+      "explanation": "Both correct choices deliver the same indignant verdict on a sum far beyond any fair rate, which is what the wage comparison sets up. Profligate would blame the operators for wasteful spending rather than for overcharging, gratuitous and superfluous would call the fee uncalled-for rather than too large, and negligible reverses the sense.",
+      "id": "gregmat26__b2__se__03",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Anyone who mistakes the enthusiasm of a mass readership for {1} will be disabused soon enough: the public that queued around the block for a novelist's debut can prove entirely {2} by the time his second book is announced.",
+      "blanks": [
+        {
+          "options": [
+            "constancy",
+            "ubiquity",
+            "mediocrity"
+          ],
+          "answers": [
+            "constancy"
+          ]
+        },
+        {
+          "options": [
+            "fickle",
+            "resolute",
+            "stalwart"
+          ],
+          "answers": [
+            "fickle"
+          ]
+        }
+      ],
+      "words": [
+        "fickle"
+      ],
+      "explanation": "The colon explains the mistake, and what the second clause disproves is durable loyalty, so the first blank must be constancy rather than ubiquity or mediocrity, neither of which the queue would evidence. The second blank names the readership that drops an author between books, which is fickle; resolute and stalwart would describe the very steadiness the sentence says is absent.",
+      "id": "gregmat26__b2__tc2__04",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Studio executives now complain that the audience for these franchises has grown {1}: an affection that once sustained a series for a decade migrates to a rival's hero within a single season.",
+      "blanks": [
+        {
+          "options": [
+            "fickle",
+            "capricious",
+            "exacting",
+            "discerning",
+            "insatiable",
+            "implacable"
+          ],
+          "answers": [
+            "fickle",
+            "capricious"
+          ]
+        }
+      ],
+      "words": [
+        "fickle"
+      ],
+      "explanation": "The colon defines the trait as favour transferred on a whim, and fickle and capricious both name exactly that, yielding sentences of the same meaning. Exacting and discerning fit the executives' complaining register but would blame the audience for high standards rather than for shifting allegiance, and insatiable and implacable describe appetite and unappeasable hostility, neither of which the migration illustrates.",
+      "id": "gregmat26__b2__se__05",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "The catalogue essay separates the two Beckmanns: the early canvases, still {1} enough that one can put a name to every sitter, and the late ones, in which the human body survives only as a {2} for exile.",
+      "blanks": [
+        {
+          "options": [
+            "figurative",
+            "abstract",
+            "schematic"
+          ],
+          "answers": [
+            "figurative"
+          ]
+        },
+        {
+          "options": [
+            "metaphor",
+            "euphemism",
+            "replica"
+          ],
+          "answers": [
+            "metaphor"
+          ]
+        }
+      ],
+      "words": [
+        "figurative"
+      ],
+      "explanation": "In a gallery context the word for painting that depicts recognisable people is figurative, and the naming of sitters rules out abstract and schematic, both of which would defeat identification. The second blank needs the body standing in for something it is not, which is a metaphor; a euphemism softens an unpleasant term rather than picturing exile, and a replica would be a literal copy.",
+      "id": "gregmat26__b2__tc2__06",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "When Hobbes calls the commonwealth an \"artificial man,\" the description is {1}: no reader of the period supposed the state possessed lungs or a spleen.",
+      "blanks": [
+        {
+          "options": [
+            "figurative",
+            "literal",
+            "tendentious",
+            "euphemistic",
+            "prescriptive"
+          ],
+          "answers": [
+            "figurative"
+          ]
+        }
+      ],
+      "words": [
+        "figurative"
+      ],
+      "explanation": "The second clause insists the words are not to be taken at face value, which is precisely the classifying sense of figurative, and literal states the reverse. Tendentious would charge Hobbes with bias, euphemistic would require an unpleasant fact being softened, and prescriptive would concern what ought to be rather than how the phrase is to be read.",
+      "id": "gregmat26__b2__cloze__07",
+      "unit": "gregmat26__b2",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat16__b3",
+  "gregmat_group": 16,
+  "words": [
+    "improvise",
+    "inhibit",
+    "inscrutable",
+    "lionize"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the chairman's testimony was perfectly audible and grammatical, his manner remained {1}: the committee adjourned certain only that something had {2} his candor, and unable to say what.",
+      "blanks": [
+        {
+          "options": [
+            "inscrutable",
+            "turbid",
+            "effusive"
+          ],
+          "answers": [
+            "inscrutable"
+          ]
+        },
+        {
+          "options": [
+            "inhibited",
+            "galvanized",
+            "abetted"
+          ],
+          "answers": [
+            "inhibited"
+          ]
+        }
+      ],
+      "words": [
+        "inscrutable",
+        "inhibit"
+      ],
+      "explanation": "The concession \"perfectly audible and grammatical\" rules out turbid, which means muddy or muddled; the point is a clear surface that still yields nothing to a reader, which is exactly inscrutable. In the second blank, candor that is present but withheld calls for a drag on it — inhibited — whereas galvanized and abetted both push it forward and would leave the committee with an explanation rather than a puzzle.",
+      "id": "gregmat16__b3__tc2__00",
+      "unit": "gregmat16__b3",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "The conference circuit {1} her as the discipline's great synthesizer, yet colleagues who watched her fill a ninety-minute slot with {2} remarks — no notes, no slides, whole arguments assembled at the podium — suspected that the reputation rested as much on platform manner as on published work.",
+      "blanks": [
+        {
+          "options": [
+            "lionized",
+            "marginalized",
+            "scrutinized"
+          ],
+          "answers": [
+            "lionized"
+          ]
+        },
+        {
+          "options": [
+            "improvised",
+            "rehearsed",
+            "exhaustive"
+          ],
+          "answers": [
+            "improvised"
+          ]
+        }
+      ],
+      "words": [
+        "lionize",
+        "improvise"
+      ],
+      "explanation": "A crowd of conference-goers making a public fuss over a person, with the writer hinting that the fuss outran the work, is precisely lionized; marginalized reverses the sentiment and scrutinized describes examination, not celebration. The appositive \"no notes, no slides, assembled at the podium\" fixes the second blank as improvised and directly contradicts rehearsed.",
+      "id": "gregmat16__b3__tc2__01",
+      "unit": "gregmat16__b3",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "When the fire alarm emptied the hall and scattered his index cards across the stage, Bernstein {1} the remainder of the lecture, stitching it together out of memory and whatever the audience shouted up at him.",
+      "blanks": [
+        {
+          "options": [
+            "improvised",
+            "extemporized",
+            "rehearsed",
+            "curtailed",
+            "belabored",
+            "transcribed"
+          ],
+          "answers": [
+            "improvised",
+            "extemporized"
+          ]
+        }
+      ],
+      "words": [
+        "improvise"
+      ],
+      "explanation": "With the notes gone and the talk assembled on the spot from memory, only improvised and extemporized fit, and for a spoken lecture they are true equivalents. Rehearsed contradicts the loss of preparation, and curtailed would mean he cut the lecture short rather than stitching the rest of it together.",
+      "id": "gregmat16__b3__se__02",
+      "unit": "gregmat16__b3",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Within a year of his defection the young pianist was {1} by Manhattan society — benefit galas, magazine covers, a standing table at the Russian Tea Room — though critics who had heard him in Kiev thought the playing unchanged and unremarkable.",
+      "blanks": [
+        {
+          "options": [
+            "lionized",
+            "feted",
+            "extolled",
+            "venerated",
+            "snubbed",
+            "tolerated"
+          ],
+          "answers": [
+            "lionized",
+            "feted"
+          ]
+        }
+      ],
+      "words": [
+        "lionize"
+      ],
+      "explanation": "The dashes list forms of public treatment — parties, covers, a reserved table — not things anyone said about the playing, so the pair must denote being paraded and made much of: lionized and feted. Extolled would mean praised in words (which the critics pointedly withhold), and venerated imports a reverence that galas and magazine covers do not describe.",
+      "id": "gregmat16__b3__se__03",
+      "unit": "gregmat16__b3",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "The compound does not kill the bacterium outright; it merely {1} the enzyme that thickens the cell wall, buying the immune system a few days.",
+      "blanks": [
+        {
+          "options": [
+            "inhibits",
+            "eradicates",
+            "expedites",
+            "proscribes",
+            "galvanizes"
+          ],
+          "answers": [
+            "inhibits"
+          ]
+        }
+      ],
+      "words": [
+        "inhibit"
+      ],
+      "explanation": "\"Does not kill outright\" and \"merely\" call for a drag rather than an abolition, which is inhibits; eradicates overshoots, and expedites and galvanizes push the enzyme the wrong way. Proscribes means to forbid by authority, which no chemical can do to an enzyme.",
+      "id": "gregmat16__b3__cloze__05",
+      "unit": "gregmat16__b3",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Being {1} at twenty-three proved a mixed inheritance for the biographer: the adulation surrounding her first book so {2} her that a decade passed before she could finish a second.",
+      "blanks": [
+        {
+          "options": [
+            "lionized",
+            "maligned",
+            "anthologized"
+          ],
+          "answers": [
+            "lionized"
+          ]
+        },
+        {
+          "options": [
+            "inhibited",
+            "emboldened",
+            "galvanized"
+          ],
+          "answers": [
+            "inhibited"
+          ]
+        }
+      ],
+      "words": [
+        "lionize",
+        "inhibit"
+      ],
+      "explanation": "\"Adulation\" identifies the first blank as public fêting of a person — lionized — and excludes maligned, while anthologized describes what happens to texts, not the fuss made over an author. The ten-year silence means the attention acted as a restraint on her, so inhibited is required; emboldened and galvanized would have produced the opposite result.",
+      "id": "gregmat16__b3__tc2__06",
+      "unit": "gregmat16__b3",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Cut off by the flood for eleven days, the field hospital {1}: a barn door served as an operating table, and sutures were drawn from fishing line.",
+      "blanks": [
+        {
+          "options": [
+            "improvised",
+            "temporized",
+            "retrenched",
+            "capitulated",
+            "equivocated"
+          ],
+          "answers": [
+            "improvised"
+          ]
+        }
+      ],
+      "words": [
+        "improvise"
+      ],
+      "explanation": "The examples show a staff making do with whatever lay at hand rather than with proper equipment, which is the practical sense of improvised. Temporized means to stall for time and equivocated to speak evasively — neither describes building an operating theatre out of a barn door — and retrenched and capitulated would mean cutting back or giving up, not continuing to operate.",
+      "id": "gregmat16__b3__cloze__07",
+      "unit": "gregmat16__b3",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence sets up a contrast between transparent wording and unreadable purpose, which \"inscrutable\" captures — but \"obscure\" is an equally defensible fill. \"Obscure\" standardly collocates with \"intent\" (\"the intent remained obscure\") and means precisely \"not clearly understood,\" which is exactly what lets both governments claim vindication. Nothing in the sentence discriminates between the two: the em-dash gloss rules out difficulty of parsing, not difficulty of divining purpose, and both words survive that constraint. (The distractors are fine — \"convoluted\" clashes with clauses that parse on first reading, \"tendentious\" implies a discernible slant toward one side, and \"provisional\" speaks to duration rather than clarity.) To make it unique, the sentence would need a cue that the ambiguity was deliberate/unreadable-by-design rather than merely unclear — e.g., stressing that the drafters' motives were being hidden — which would favor \"inscrutable\" over \"obscure.\"",
+      "stem": "Diplomats found the tribunal's language plain enough — every clause parsed on a first reading — and yet its intent remained {1}, so that both governments went home announcing vindication."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat06__b3",
+  "gregmat_group": 6,
+  "words": [
+    "engender",
+    "entitled",
+    "pertinacious",
+    "presumptuous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The inquiry was convened to {1} rumours of collusion before they could harden into settled belief, but its refusal to name the officials who had approved the contracts {2} precisely the suspicion it had been asked to lay to rest.",
+      "blanks": [
+        {
+          "options": [
+            "forestall",
+            "foment",
+            "elicit"
+          ],
+          "answers": [
+            "forestall"
+          ]
+        },
+        {
+          "options": [
+            "engendered",
+            "obviated",
+            "averted"
+          ],
+          "answers": [
+            "engendered"
+          ]
+        }
+      ],
+      "words": [
+        "engender"
+      ],
+      "explanation": "\"Before they could harden\" fixes the first blank as heading something off, so forestall is the only fit; foment and elicit would have the inquiry stirring up or drawing out the very rumours it opposes. The \"but\" then demands a verb of bringing-about, and engender is exactly right for an unintended abstract by-product — suspicion arising from evasiveness that no one meant to produce — whereas obviated and averted would repeat the first blank's sense and destroy the contrast.",
+      "id": "gregmat06__b3__tc2__00",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Nobody in the ministry set out to inflame the district; still, the levy's wildly uneven enforcement {1} a resentment that outlasted the statute itself by a generation.",
+      "blanks": [
+        {
+          "options": [
+            "engendered",
+            "bred",
+            "fomented",
+            "elicited",
+            "forestalled",
+            "precluded"
+          ],
+          "answers": [
+            "engendered",
+            "bred"
+          ]
+        }
+      ],
+      "words": [
+        "engender"
+      ],
+      "explanation": "Engendered and bred both mean gave rise to as an unintended consequence, which is what an impersonal condition — uneven enforcement — does to an abstract feeling. Fomented is the trap: it names deliberate agitation by an agent, and the opening clause rules out any such intent; elicited requires a stimulus drawing out a specific response, and forestalled and precluded reverse the sentence.",
+      "id": "gregmat06__b3__se__01",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "She had held the acting appointment for barely six weeks, yet she behaved as though it {1} her to the deference customarily paid a department chair — which is why colleagues who found her manners otherwise unexceptionable still described her as {2}.",
+      "blanks": [
+        {
+          "options": [
+            "entitled",
+            "obligated",
+            "subjected"
+          ],
+          "answers": [
+            "entitled"
+          ]
+        },
+        {
+          "options": [
+            "presumptuous",
+            "insolent",
+            "impudent"
+          ],
+          "answers": [
+            "presumptuous"
+          ]
+        }
+      ],
+      "words": [
+        "entitled",
+        "presumptuous"
+      ],
+      "explanation": "The first blank takes the cold, legalistic sense of entitled — conferring a rightful claim to something — while obligated and subjected would make the deference a burden imposed on her rather than a privilege claimed by her. The second blank must name an act of assuming unearned standing without any rudeness of manner, which is presumptuous exactly; insolent and impudent both charge disrespectful behaviour, and the clause grants that her manners were unexceptionable.",
+      "id": "gregmat06__b3__tc2__02",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the pension act was drafted to strip the board of all discretion, a veteran with the requisite years of service is {1} to the full annuity whether or not the officers regard his conduct since discharge as exemplary.",
+      "blanks": [
+        {
+          "options": [
+            "entitled",
+            "liable",
+            "amenable",
+            "competent",
+            "deposed"
+          ],
+          "answers": [
+            "entitled"
+          ]
+        }
+      ],
+      "words": [
+        "entitled"
+      ],
+      "explanation": "Entitled to is the bureaucratic construction for a claim the statute grants outright, with no judgement of the claimant attached — precisely what \"strip the board of all discretion\" sets up. Liable to would make the annuity something he is exposed to rather than owed, and amenable, competent and deposed are courtroom words that do not take a benefit as their object.",
+      "id": "gregmat06__b3__cloze__03",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Three official denials and a meticulous documentary refutation notwithstanding, the story proved {1}, resurfacing in the local press every election season for the next two decades.",
+      "blanks": [
+        {
+          "options": [
+            "pertinacious",
+            "tenacious",
+            "pernicious",
+            "pertinent",
+            "perspicacious",
+            "impertinent"
+          ],
+          "answers": [
+            "pertinacious",
+            "tenacious"
+          ]
+        }
+      ],
+      "words": [
+        "pertinacious"
+      ],
+      "explanation": "Both pertinacious and tenacious describe a grip that will not be loosened, and both attach comfortably to a non-person such as a rumour that outlives its refutation. Pernicious and pertinent are the tonally plausible traps — a story can be either — but they say the rumour was harmful or relevant, not that it refused to die; perspicacious and impertinent describe discernment and cheek, neither of which is at issue.",
+      "id": "gregmat06__b3__se__04",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "The biography admires in the young reformer an {1} refusal to accept a first rejection as final; in the old man still filing petitions about a bridge demolished years earlier, the same quality strikes the biographer as merely {2}.",
+      "blanks": [
+        {
+          "options": [
+            "indefatigable",
+            "capricious",
+            "perfunctory"
+          ],
+          "answers": [
+            "indefatigable"
+          ]
+        },
+        {
+          "options": [
+            "pertinacious",
+            "assiduous",
+            "resolute"
+          ],
+          "answers": [
+            "pertinacious"
+          ]
+        }
+      ],
+      "words": [
+        "pertinacious"
+      ],
+      "explanation": "The first blank sits inside praise, so it needs the complimentary persistence word: indefatigable, since capricious contradicts sustained refusal and perfunctory contradicts effort altogether. The second blank must convert that same persistence into a fault the biographer has tired of, and pertinacious is the only pejorative of the three — assiduous and resolute would still be compliments, which \"merely\" and the demolished bridge forbid.",
+      "id": "gregmat06__b3__tc2__05",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Her tone throughout was studiously deferential, and yet the letter was {1} all the same: a second-year graduate student advising the trustees which of the museum's Rembrandts ought to be deaccessioned.",
+      "blanks": [
+        {
+          "options": [
+            "presumptuous",
+            "insolent",
+            "impudent",
+            "obdurate",
+            "ingenuous"
+          ],
+          "answers": [
+            "presumptuous"
+          ]
+        }
+      ],
+      "words": [
+        "presumptuous"
+      ],
+      "explanation": "Presumptuous names the act of claiming a standing one has not been granted, and it can be committed with perfect courtesy — which is why the deferential tone does not cancel it. Insolent and impudent both require rudeness of manner and are ruled out by that same clause; obdurate concerns stubbornness and ingenuous naivety, neither of which is the letter's offence.",
+      "id": "gregmat06__b3__cloze__06",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "For a first-year lecturer to correct the department's most eminent Latinist in open seminar seemed {1} — an assumption of standing that none of his seniors had extended to him.",
+      "blanks": [
+        {
+          "options": [
+            "presumptuous",
+            "impertinent",
+            "officious",
+            "ingenuous",
+            "perspicacious",
+            "sedulous"
+          ],
+          "answers": [
+            "presumptuous",
+            "impertinent"
+          ]
+        }
+      ],
+      "words": [
+        "presumptuous"
+      ],
+      "explanation": "The appositive defines the offence as reaching past one's place, and presumptuous and impertinent both name exactly that failure of standing before a superior. Officious is the closest trap but describes intrusive helpfulness — volunteering unwanted service — rather than claiming rank one lacks; ingenuous and perspicacious would excuse or even praise the lecturer, and sedulous describes diligence, not overreach.",
+      "id": "gregmat06__b3__se__07",
+      "unit": "gregmat06__b3",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": []
+}

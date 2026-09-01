@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat07__b5",
+  "gregmat_group": 7,
+  "words": [
+    "prescient",
+    "pristine",
+    "reproach",
+    "robust"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Keynes's 1919 warning about the reparations imposed on Germany was dismissed by many contemporaries as the {1} of a man temperamentally unable to accept any settlement he had not himself drafted; the decade that followed, however, proved the analysis {2}.",
+      "blanks": [
+        {
+          "options": [
+            "querulousness",
+            "sagacity",
+            "circumspection"
+          ],
+          "answers": [
+            "querulousness"
+          ]
+        },
+        {
+          "options": [
+            "prescient",
+            "myopic",
+            "complacent"
+          ],
+          "answers": [
+            "prescient"
+          ]
+        }
+      ],
+      "words": [
+        "prescient"
+      ],
+      "explanation": "The pivot on \"however\" demands a dismissive term first and a vindicating one second: contemporaries heard only peevish complaint (querulousness), while events later showed the analysis had read the evidence correctly in advance. Sagacity and circumspection are praise, so nothing would be \"dismissed\" as either; myopic and complacent describe the very short-sightedness that prescient denies.",
+      "id": "gregmat07__b5__tc2__00",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "Reread after the 2008 collapse, Brooksley Born's 1998 memorandum on unregulated derivatives looks less like the routine caution of a regulator covering herself than like something genuinely {1}: nearly every hazard it enumerated came to pass within a decade.",
+      "blanks": [
+        {
+          "options": [
+            "prescient",
+            "prudent",
+            "sanguine",
+            "myopic",
+            "complacent"
+          ],
+          "answers": [
+            "prescient"
+          ]
+        }
+      ],
+      "words": [
+        "prescient"
+      ],
+      "explanation": "The colon supplies the test — the enumerated hazards actually materialized — so the memo did not merely counsel care, it foresaw events, which is prescient. Prudent is explicitly ruled out by the contrast with \"routine caution,\" and sanguine (cheerfully optimistic) misreads a document full of warnings.",
+      "id": "gregmat07__b5__cloze__01",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Because so few copies of the 1611 quarto survived the fire unhandled, collectors will pay extravagantly for one in {1} condition, its gilt unrubbed and its pages unfoxed.",
+      "blanks": [
+        {
+          "options": [
+            "pristine",
+            "immaculate",
+            "inviolate",
+            "unalloyed",
+            "restored",
+            "serviceable"
+          ],
+          "answers": [
+            "pristine",
+            "immaculate"
+          ]
+        }
+      ],
+      "words": [
+        "pristine"
+      ],
+      "explanation": "Describing an object's physical state as flawless, pristine and immaculate yield equivalent sentences, and the details of unrubbed gilt and unfoxed pages fix that sense. Restored and serviceable both fit grammatically but reverse the point — a restored or merely usable copy is precisely what commands no premium — while inviolate implies a prohibition and unalloyed a lack of admixture, neither of which is at issue in a book's condition.",
+      "id": "gregmat07__b5__se__02",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "The bay looks {1} only because a fleet of municipal skiffs skims its surface each morning before dawn; what visitors take for the handiwork of nature is in fact a shoreline laboriously kept {2}.",
+      "blanks": [
+        {
+          "options": [
+            "pristine",
+            "sordid",
+            "forbidding"
+          ],
+          "answers": [
+            "pristine"
+          ]
+        },
+        {
+          "options": [
+            "immaculate",
+            "inviolate",
+            "unalloyed"
+          ],
+          "answers": [
+            "immaculate"
+          ]
+        }
+      ],
+      "words": [
+        "pristine"
+      ],
+      "explanation": "The sentence turns on the gap between seeming and doing: the water appears never to have been touched (pristine), yet that appearance is manufactured by daily labor, which is exactly what immaculate names — clean because someone cleaned it. Sordid and forbidding would make the skiffs' work pointless, and inviolate (never violated, because forbidden) and unalloyed (unmixed) cannot be the result of effort.",
+      "id": "gregmat07__b5__tc2__03",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Having no authority to discipline the young violinist, she was left with {1} alone — a look that told him he had let her down — and it stung far more than any formal {2} the conservatory's board could have voted.",
+      "blanks": [
+        {
+          "options": [
+            "reproach",
+            "indictment",
+            "condonation"
+          ],
+          "answers": [
+            "reproach"
+          ]
+        },
+        {
+          "options": [
+            "censure",
+            "extenuation",
+            "exculpation"
+          ],
+          "answers": [
+            "censure"
+          ]
+        }
+      ],
+      "words": [
+        "reproach"
+      ],
+      "explanation": "The first blank must name wordless blame delivered by someone with no institutional standing and an injured feeling — that is reproach, not an indictment (a formal charge) and certainly not condonation, which excuses rather than blames. The second blank contrasts that private hurt with the official act a board can vote, which is censure; extenuation and exculpation would clear him instead of condemning him.",
+      "id": "gregmat07__b5__tc2__04",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "When her son quietly sold the last of the family silver, his mother neither shouted nor threatened; she merely {1} him with a silence he found harder to bear than any tirade.",
+      "blanks": [
+        {
+          "options": [
+            "reproached",
+            "berated",
+            "castigated",
+            "excoriated",
+            "exonerated"
+          ],
+          "answers": [
+            "reproached"
+          ]
+        }
+      ],
+      "words": [
+        "reproach"
+      ],
+      "explanation": "Reproach is blame powered by hurt rather than volume, so it can be conveyed by silence — which is what the sentence requires, since she \"neither shouted nor threatened.\" Berated, castigated, and excoriated all denote loud or savage scolding and are excluded by the contrast with a tirade; exonerated would clear him of blame entirely.",
+      "id": "gregmat07__b5__cloze__05",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the estimate barely moved when the authors {1} their assumptions — halving the discount rate, dropping the outlier years, restricting the sample to postwar data — reviewers treated the finding as {2} rather than as an artifact of one lucky specification.",
+      "blanks": [
+        {
+          "options": [
+            "perturbed",
+            "vindicated",
+            "obscured"
+          ],
+          "answers": [
+            "perturbed"
+          ]
+        },
+        {
+          "options": [
+            "robust",
+            "stalwart",
+            "tenuous"
+          ],
+          "answers": [
+            "robust"
+          ]
+        }
+      ],
+      "words": [
+        "robust"
+      ],
+      "explanation": "The listed manipulations are deliberate stresses applied to the model, so the first blank must mean disturbed or varied (perturbed); vindicated and obscured describe outcomes, not the act of altering assumptions. A result that keeps holding while such stress is applied is robust, whereas tenuous is its opposite and stalwart describes steadfast people or supporters, not measurements.",
+      "id": "gregmat07__b5__tc2__06",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Far from the perfunctory rubber-stamping the press had predicted, the committee's session ran to three hours of {1} argument, with members openly challenging the chair's figures and one another's.",
+      "blanks": [
+        {
+          "options": [
+            "robust",
+            "vigorous",
+            "desultory",
+            "cursory",
+            "resilient",
+            "decorous"
+          ],
+          "answers": [
+            "robust",
+            "vigorous"
+          ]
+        }
+      ],
+      "words": [
+        "robust"
+      ],
+      "explanation": "Applied to debate, robust carries its hearty, no-holds-barred sense and is interchangeable with vigorous, which the open challenges confirm. Desultory and cursory contradict the three hours of contention, decorous fits the register but reverses the point, and resilient describes recovering from stress rather than conducting an argument.",
+      "id": "gregmat07__b5__se__07",
+      "unit": "gregmat07__b5",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": []
+}

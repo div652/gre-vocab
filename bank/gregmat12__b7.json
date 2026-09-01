@@ -1,0 +1,126 @@
+{
+  "unit": "gregmat12__b7",
+  "gregmat_group": 12,
+  "words": [
+    "verisimilitude",
+    "vitiate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "For three hours the reenactment sustained a {1} that even specialists found unnerving — the dialect, the mended coats, the smell of tallow — and then a single glimpse of a wristwatch on a farmhand's arm {2} the whole illusion.",
+      "blanks": [
+        {
+          "options": [
+            "verisimilitude",
+            "veracity",
+            "spuriousness"
+          ],
+          "answers": [
+            "verisimilitude"
+          ]
+        },
+        {
+          "options": [
+            "vitiated",
+            "buttressed",
+            "corroborated"
+          ],
+          "answers": [
+            "vitiated"
+          ]
+        }
+      ],
+      "words": [
+        "verisimilitude",
+        "vitiate"
+      ],
+      "explanation": "The catalogue of crafted details (dialect, coats, tallow) calls for verisimilitude, the lifelike quality of a made thing; veracity would claim the reenactment was literally truthful, which is not what a staged performance can possess, and spuriousness would make the specialists' reaction absurd. The second clause turns on one small flaw destroying a whole effect, which is precisely vitiate; buttressed and corroborated would have the anachronism supporting rather than ruining the illusion.",
+      "id": "gregmat12__b7__tc2__00",
+      "unit": "gregmat12__b7",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Because the sample had been drawn entirely from paid subscribers, a single defect of design {1} findings that were in every other respect meticulous.",
+      "blanks": [
+        {
+          "options": [
+            "vitiated",
+            "invalidated",
+            "tarnished",
+            "adulterated",
+            "corroborated",
+            "buttressed"
+          ],
+          "answers": [
+            "vitiated",
+            "invalidated"
+          ]
+        }
+      ],
+      "words": [
+        "vitiate"
+      ],
+      "explanation": "The logic is that one fatal flaw robs otherwise careful findings of their standing, so vitiated and invalidated are equivalent here: the results survive in form but no longer count. Tarnished and adulterated fit the tone but say something weaker and different — sullied or contaminated, yet still usable — while corroborated and buttressed would absurdly have a design defect strengthening the results.",
+      "id": "gregmat12__b7__se__01",
+      "unit": "gregmat12__b7",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "What reviewers admired in the film was not its fidelity to the historical record, since it invents whole characters and compresses a decade into a season, but the sheer {1} of its 1840s interiors, down to the grease banked on the stove and the wear in the floorboards.",
+      "blanks": [
+        {
+          "options": [
+            "verisimilitude",
+            "veracity",
+            "plausibility",
+            "credibility",
+            "spuriousness"
+          ],
+          "answers": [
+            "verisimilitude"
+          ]
+        }
+      ],
+      "words": [
+        "verisimilitude"
+      ],
+      "explanation": "The sentence explicitly denies that the film is true to the record and then praises the crafted texture of its sets, which is exactly the compliment verisimilitude pays to fabrication. Veracity would assert the truthfulness the first clause rules out, while plausibility and credibility assess how likely a claim is to be true rather than how convincingly a made object is rendered.",
+      "id": "gregmat12__b7__cloze__02",
+      "unit": "gregmat12__b7",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "The appellate court did not weigh the evidence at all: once it emerged that a juror had accepted money from the defendant's brother, the bribe was held to have {1} the verdict, which therefore could not stand.",
+      "blanks": [
+        {
+          "options": [
+            "vitiated",
+            "tarnished",
+            "debased",
+            "attenuated",
+            "bolstered"
+          ],
+          "answers": [
+            "vitiated"
+          ]
+        }
+      ],
+      "words": [
+        "vitiate"
+      ],
+      "explanation": "That the verdict \"could not stand\" and that the court declined to review the evidence signals a loss of legal validity, the specific work vitiate does. Tarnished and debased would leave the verdict standing though sullied or cheapened, attenuated implies mere weakening by degrees, and bolstered reverses the sense entirely.",
+      "id": "gregmat12__b7__cloze__03",
+      "unit": "gregmat12__b7",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": []
+}

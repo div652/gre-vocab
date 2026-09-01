@@ -1,0 +1,76 @@
+{
+  "unit": "gregmat30__b7",
+  "gregmat_group": 30,
+  "words": [
+    "tenuous",
+    "verve"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "The quartet's intonation was imperfect all evening, yet they tore into the finale's syncopations with such headlong {1} that the audience forgave every smudged entrance.",
+      "blanks": [
+        {
+          "options": [
+            "verve",
+            "panache",
+            "aplomb",
+            "restraint",
+            "torpor",
+            "fidelity"
+          ],
+          "answers": [
+            "verve",
+            "panache"
+          ]
+        }
+      ],
+      "words": [
+        "verve"
+      ],
+      "explanation": "Verve and panache both name dash and flair in the execution itself, and either yields the same sentence: energy so infectious that sloppiness is pardoned. Aplomb is the trap — it denotes unruffled composure, which \"headlong\" explicitly excludes; restraint and fidelity are tonally at home in a concert review but would not explain why listeners overlooked errors, and torpor contradicts the sentence outright.",
+      "id": "gregmat30__b7__se__01",
+      "unit": "gregmat30__b7",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Apart from a shared printer, nothing ties the pamphlet to Defoe but one ambiguous marginal note — a connection so {1} that the least scrutiny snaps it, and most bibliographers now leave the attribution open.",
+      "blanks": [
+        {
+          "options": [
+            "tenuous",
+            "dubious",
+            "conjectural",
+            "tentative",
+            "incontrovertible"
+          ],
+          "answers": [
+            "tenuous"
+          ]
+        }
+      ],
+      "words": [
+        "tenuous"
+      ],
+      "explanation": "The metaphor of a link that scrutiny snaps points to tenuous, which describes a connection resting on almost nothing. Dubious would imply the attribution is suspect of dishonesty and conjectural that it is pure guess, neither of which fits a link described as breakable; tentative describes a scholar's provisional stance rather than the frailty of the evidence, and incontrovertible reverses the sense.",
+      "id": "gregmat30__b7__cloze__03",
+      "unit": "gregmat30__b7",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean: \"carries the reader briskly\" demands energy, so only \"verve\" works (\"torpor\" and \"gravity\" both contradict briskness). Blank 2 is not unique. The intended answer is presumably \"tenuous\" — the result clause (\"a single unreliable deposition would sever it\") is about fragility, and a tenuous chain is one whose links barely hold. But \"conjectural\" is also genuinely defensible: a chain of inference resting on unverified supposition rather than documented fact is exactly the kind of chain that collapses when one deposition proves unreliable, and \"so conjectural that...\" is idiomatic. Nothing in the sentence distinguishes weakness-of-link (tenuous) from speculativeness-of-basis (conjectural), and both are stock GRE words for shaky reasoning, so a reasonable test-taker who picks \"conjectural\" would be marked wrong without a defensible basis. Either replace \"conjectural\" with a clear wrong option, or add a cue that isolates fragility (e.g. attribute the weakness to the chain's length/single-thread structure) or speculation (e.g. contrast with documentary evidence).",
+      "stem": "Reviewers conceded that Hastings narrates the siege with a {1} that carries the reader briskly through three hundred pages, but they objected that his central claim — that the garrison was betrayed from within — hangs on a chain of inference so {2} that a single unreliable deposition would sever it."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only requires the blank to mean \"not strong enough,\" and four of the six options satisfy that: tenuous and flimsy (weak/insubstantial), but also conjectural (speculative, not established) and dubious (doubtful). \"Too conjectural to bear the weight of a nationwide recall\" and \"too dubious to bear the weight...\" are both idiomatic and are near-synonyms of each other, so conjectural + dubious forms a second defensible pair — and a test-taker could also justify tenuous + conjectural. The \"stopped short of accusing them of fraud\" clue rules out corroborated and ironclad but does nothing to separate the four weakness words. To fix, one of the two competing pairs should be broken up (e.g., replace \"dubious\" with a word that cannot mean weakly supported, such as \"arcane\" or \"belated\") and the sentence should specify the *kind* of deficiency — e.g., \"rested on inference rather than measurement, and so was too ___\" to force the speculative sense, or \"a chain of associations too ___\" to force the thin/weak sense.",
+      "stem": "The committee stopped well short of accusing the researchers of fraud; it found only that the causal chain linking the additive to the tumors was too {1} to bear the weight of a nationwide recall."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "unit": "gregmat36__b7",
+  "gregmat_group": 36,
+  "words": [
+    "warranted",
+    "wistful"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The commission writes in the voice of the audit rather than the pulpit: it grants that the lapses occurred, holds that nothing beyond a written reprimand is {1} on the evidence gathered, and rejects the demands for the inspector's outright removal as a {2} response to a first offense.",
+      "blanks": [
+        {
+          "options": [
+            "warranted",
+            "indicted",
+            "arresting"
+          ],
+          "answers": [
+            "warranted"
+          ]
+        },
+        {
+          "options": [
+            "measured",
+            "belated",
+            "disproportionate"
+          ],
+          "answers": [
+            "disproportionate"
+          ]
+        }
+      ],
+      "words": [
+        "warranted"
+      ],
+      "explanation": "The cool, impersonal register and the phrase \"on the evidence gathered\" call for warranted, which asserts that the grounds are sufficient for a given response, not that the response is admirable. Indicted and arresting are courtroom words off duty — one means formally charged, the other means striking — and neither can take \"nothing beyond a reprimand\" as its subject; the second blank must name the fault the commission finds in the demand for removal, and only disproportionate matches the logic of a penalty exceeding its grounds, since measured would make the demand reasonable and belated concerns timing, not severity.",
+      "id": "gregmat36__b7__tc2__00",
+      "unit": "gregmat36__b7",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Whenever the talk at dinner turned to the hill farm his family had sold off after the war, Hollis grew {1}, describing the blossom in the upper orchard as though it were still there for him to walk beneath.",
+      "blanks": [
+        {
+          "options": [
+            "wistful",
+            "nostalgic",
+            "pensive",
+            "glum",
+            "morose",
+            "lugubrious"
+          ],
+          "answers": [
+            "wistful",
+            "nostalgic"
+          ]
+        }
+      ],
+      "words": [
+        "wistful"
+      ],
+      "explanation": "The sentence supplies a specific lost object, remembered fondly and beyond recovery, which is exactly the territory shared by wistful and nostalgic; both yield a soft, longing sadness rather than raw grief. Pensive says only that he became thoughtful and omits the longing, while glum, morose, and lugubrious all make the mood heavier or more sullen than the fond, dwelling description of blossom allows, and none of them pairs with another option to give equivalent sentences.",
+      "id": "gregmat36__b7__se__02",
+      "unit": "gregmat36__b7",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers agreed that the drug's benefit was real but slight, and that the trial data therefore {1} a cautious regional pilot rather than the nationwide rollout the ministry had already announced.",
+      "blanks": [
+        {
+          "options": [
+            "warranted",
+            "indicted",
+            "apprehended",
+            "discounted",
+            "foreshadowed"
+          ],
+          "answers": [
+            "warranted"
+          ]
+        }
+      ],
+      "words": [
+        "warranted"
+      ],
+      "explanation": "With \"therefore\" the sentence asks what course of action the evidence provides sufficient grounds for, which is precisely what warranted means: licensed by the evidence, and proportionate to it. Indicted and apprehended are the courtroom senses left idling, discounted would mean the data dismissed the pilot and so reverses the contrast, and foreshadowed treats the data as a prediction of what will happen rather than a justification for what should be done.",
+      "id": "gregmat36__b7__cloze__03",
+      "unit": "gregmat36__b7",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is well controlled: \"not a grudge against the regime that expelled him\" points specifically at resentment, so \"embittered\" beats \"lugubrious\" (gloom, not rancor) and \"pensive\" (which wouldn't need to be \"disarmed\"). Blank 2 is not uniquely determined. \"Morose\" is correctly excluded by \"gentleness,\" but both \"wistful\" and \"poignant\" fit \"a ___ backward look at a city he knows he will never re-enter\" idiomatically and semantically. The sentence only requires that the look be tender/sad rather than resentful, and \"poignant backward look\" satisfies that just as naturally as \"wistful backward look\" — nothing in the sentence distinguishes longing-for-the-irrecoverable (wistful) from keenly affecting (poignant). A reasonable test-taker who picks \"poignant\" would be marked wrong without justification; blank 2 needs a cue that forces the yearning/longing sense (e.g., \"a ___ backward look, more longing than lament\").",
+      "stem": "Critics who expected the exiled poet's last lyrics to be {1} were disarmed by their gentleness: what the poems set down is not a grudge against the regime that expelled him but a {2} backward look at a city he knows he will never re-enter."
+    }
+  ]
+}

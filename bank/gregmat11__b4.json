@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat11__b4",
+  "gregmat_group": 11,
+  "words": [
+    "panacea",
+    "perfunctory",
+    "perilous",
+    "pervasive"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Enthusiasts of the 1990s promoted microcredit as a {1} for rural poverty; economists who found that small loans raised household income only where local markets already functioned treated such claims as {2} and urged donors to adopt far more modest expectations.",
+      "blanks": [
+        {
+          "options": [
+            "panacea",
+            "palliative",
+            "precedent"
+          ],
+          "answers": [
+            "panacea"
+          ]
+        },
+        {
+          "options": [
+            "extravagant",
+            "warranted",
+            "tentative"
+          ],
+          "answers": [
+            "extravagant"
+          ]
+        }
+      ],
+      "words": [
+        "panacea"
+      ],
+      "explanation": "The second blank tells you the claim was inflated and needed deflating, so the first must name the grandest possible promise — a single remedy for the whole problem — which is what panacea denotes. A palliative claims only partial relief, so calling something a palliative could not be branded extravagant; warranted and tentative both contradict the demand for modest expectations.",
+      "id": "gregmat11__b4__tc2__00",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians of the Progressive Era observe that compulsory schooling was sold to legislatures not as one reform among many but as a {1}: a single institution that would dissolve crime, pauperism, and factional strife alike.",
+      "blanks": [
+        {
+          "options": [
+            "panacea",
+            "precedent",
+            "palliative",
+            "stopgap",
+            "sinecure"
+          ],
+          "answers": [
+            "panacea"
+          ]
+        }
+      ],
+      "words": [
+        "panacea"
+      ],
+      "explanation": "The colon defines the word for you — one institution curing every listed ill — which is exactly the universal-cure claim carried by panacea. A palliative or stopgap would relieve or postpone rather than dissolve, and a precedent is merely a first instance, not a cure at all.",
+      "id": "gregmat11__b4__cloze__01",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission's hearings were procedurally {1} — every witness the statute required was called, every filing deadline met — and yet the questioning itself proved so {2} that reporters left convinced the members had stopped caring about the outcome months earlier.",
+      "blanks": [
+        {
+          "options": [
+            "impeccable",
+            "irregular",
+            "expedited"
+          ],
+          "answers": [
+            "impeccable"
+          ]
+        },
+        {
+          "options": [
+            "perfunctory",
+            "punctilious",
+            "adversarial"
+          ],
+          "answers": [
+            "perfunctory"
+          ]
+        }
+      ],
+      "words": [
+        "perfunctory"
+      ],
+      "explanation": "The dashes certify that every formal requirement was satisfied, so the first blank must praise the procedure, while \"and yet\" demands that the second fault not the completeness of the work but the spirit in which it was done — indifference wearing the costume of compliance. Punctilious would repeat the praise instead of reversing it, and adversarial questioning would show engagement rather than the lost interest the reporters infer.",
+      "id": "gregmat11__b4__tc2__02",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "The safety review was so {1} that the inspectors certified the ferry as seaworthy without once descending to the engine room.",
+      "blanks": [
+        {
+          "options": [
+            "perfunctory",
+            "cursory",
+            "meticulous",
+            "exhaustive",
+            "haphazard",
+            "protracted"
+          ],
+          "answers": [
+            "perfunctory",
+            "cursory"
+          ]
+        }
+      ],
+      "words": [
+        "perfunctory"
+      ],
+      "explanation": "An inspection that skips the engine room outright was conducted with the minimum effort the duty allowed, and perfunctory and cursory both name that going-through-the-motions treatment. Meticulous and exhaustive are excluded by the very evidence offered, protracted describes length rather than effort, and haphazard imputes disorder rather than indifference — and pairs with nothing.",
+      "id": "gregmat11__b4__se__03",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the passage through the Bab-el-Mandeb had become genuinely {1} — two freighters had gone down there in a single month — underwriters stopped writing policies for the route altogether, a withdrawal that shipowners denounced as {2} but were powerless to reverse.",
+      "blanks": [
+        {
+          "options": [
+            "perilous",
+            "lucrative",
+            "congested"
+          ],
+          "answers": [
+            "perilous"
+          ]
+        },
+        {
+          "options": [
+            "precipitate",
+            "overdue",
+            "equitable"
+          ],
+          "answers": [
+            "precipitate"
+          ]
+        }
+      ],
+      "words": [
+        "perilous"
+      ],
+      "explanation": "Two vessels sunk in a month establishes grave danger to life and property, which is what perilous rates — not mere traffic or profit. The second blank must supply the owners' grievance, so it has to fault the insurers for acting too hastily; no one denounces a decision for being overdue or equitable.",
+      "id": "gregmat11__b4__tc2__04",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "Writing in the winter of 1940, one British essayist addressed his readers as men and women living through {1} times — an hour, he said, in which a single misjudgment by the government might cost the country its independence altogether.",
+      "blanks": [
+        {
+          "options": [
+            "perilous",
+            "tenuous",
+            "halcyon",
+            "invasive",
+            "sporadic"
+          ],
+          "answers": [
+            "perilous"
+          ]
+        }
+      ],
+      "words": [
+        "perilous"
+      ],
+      "explanation": "The stakes named are national extinction, and perilous is the elevated word that rates the gravity of the harm and attaches idiomatically to times and hours. Tenuous would describe how flimsy a thing is rather than how much it threatens, and halcyon reverses the sense entirely.",
+      "id": "gregmat11__b4__cloze__05",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission's finding was not that corruption in the ministry had been spectacular but that it was {1}: petty kickbacks had soaked so far into ordinary procurement that clerks entered them in the ledgers without embarrassment, treating as {2} what the statute plainly called theft.",
+      "blanks": [
+        {
+          "options": [
+            "pervasive",
+            "sporadic",
+            "flagrant"
+          ],
+          "answers": [
+            "pervasive"
+          ]
+        },
+        {
+          "options": [
+            "routine",
+            "aberrant",
+            "clandestine"
+          ],
+          "answers": [
+            "routine"
+          ]
+        }
+      ],
+      "words": [
+        "pervasive"
+      ],
+      "explanation": "\"Soaked so far into ordinary procurement\" is the language of saturation, and the contrast with \"spectacular\" rules out flagrant while the clerks' habitual bookkeeping rules out sporadic. The second blank must name what such saturation does to perception — the practice stops registering as wrongdoing — so routine is required; clandestine is contradicted by open entry in the ledgers.",
+      "id": "gregmat11__b4__tc2__06",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "By the late 1930s the household radio set had become so {1} that a politician could speak into a microphone in Washington and assume, without inquiring, that he was being heard in kitchens from Maine to Oregon.",
+      "blanks": [
+        {
+          "options": [
+            "pervasive",
+            "ubiquitous",
+            "endemic",
+            "rampant",
+            "sporadic",
+            "negligible"
+          ],
+          "answers": [
+            "pervasive",
+            "ubiquitous"
+          ]
+        }
+      ],
+      "words": [
+        "pervasive"
+      ],
+      "explanation": "The evidence is that the device could be presumed present in every household across the continent, and pervasive and ubiquitous both convey that saturation of a population. Endemic would confine the sets to one region, rampant imports an unchecked and unwelcome spread the neutral sentence does not support, and sporadic and negligible contradict the assumption of a nationwide audience.",
+      "id": "gregmat11__b4__se__07",
+      "unit": "gregmat11__b4",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": []
+}

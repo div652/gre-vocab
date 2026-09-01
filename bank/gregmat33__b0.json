@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat33__b0",
+  "gregmat_group": 33,
+  "words": [
+    "affluent",
+    "allegorical",
+    "allude",
+    "amplify"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because school funding is tied to local property taxes, the system does not merely mirror the inequality it inherits but {1} it: districts drawn around {2} suburbs routinely spend three times per pupil what their poorer neighbors can.",
+      "blanks": [
+        {
+          "options": [
+            "amplifies",
+            "attenuates",
+            "fabricates"
+          ],
+          "answers": [
+            "amplifies"
+          ]
+        },
+        {
+          "options": [
+            "affluent",
+            "indigent",
+            "ascetic"
+          ],
+          "answers": [
+            "affluent"
+          ]
+        }
+      ],
+      "words": [
+        "amplify",
+        "affluent"
+      ],
+      "explanation": "The structure \"does not merely mirror ... but ___\" demands a verb that turns up something already present, which is exactly amplify; fabricates fails because the inequality is inherited, not invented, and attenuates reverses the sense the spending gap illustrates. In the second blank, the contrast with \"poorer neighbors\" requires settled group wealth — affluent attaches naturally to suburbs and households — while indigent means destitute and ascetic describes chosen self-denial, not money.",
+      "id": "gregmat33__b0__tc2__00",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Animal Farm is {1} in the strictest sense — a parallel structure in which each beast and each purge answers to a definite counterpart in Soviet history — yet Orwell preferred, when interviewed, merely to {2} that scheme rather than spell it out.",
+      "blanks": [
+        {
+          "options": [
+            "allegorical",
+            "figurative",
+            "euphemistic"
+          ],
+          "answers": [
+            "allegorical"
+          ]
+        },
+        {
+          "options": [
+            "allude to",
+            "aver",
+            "belabor"
+          ],
+          "answers": [
+            "allude to"
+          ]
+        }
+      ],
+      "words": [
+        "allegorical",
+        "allude"
+      ],
+      "explanation": "The dash clause defines allegory precisely: a systematic key in which every character and event has an assigned counterpart, which is more than the local, phrase-level substitution covered by figurative, and nothing here softens an unpleasant term as euphemistic would. \"Merely ... rather than spell it out\" then forces the verb of pointed indirection, allude to, against aver (to declare positively) and belabor (to dwell on at length).",
+      "id": "gregmat33__b0__tc2__01",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The commission's report contained no fresh evidence of wrongdoing; it merely {1} charges that whistle-blowers had made a decade earlier, ensuring that they could no longer be quietly ignored.",
+      "blanks": [
+        {
+          "options": [
+            "amplified",
+            "magnified",
+            "attenuated",
+            "fabricated",
+            "corroborated",
+            "catalogued"
+          ],
+          "answers": [
+            "amplified",
+            "magnified"
+          ]
+        }
+      ],
+      "words": [
+        "amplify"
+      ],
+      "explanation": "The charges already existed and the report added no evidence, so the blank must mean turning up the volume on something given: amplified and magnified do this and are equivalent here. Corroborated is the trap for a hurried reader, but confirming charges requires the fresh evidence the sentence explicitly denies; fabricated would mean inventing them, attenuated reverses the outcome clause, and catalogued has no equivalent partner among the options.",
+      "id": "gregmat33__b0__se__02",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The association's archives record a swift transformation: within two decades the tenements had come down, townhouses had gone up, and the old industrial waterfront had become resolutely {1}.",
+      "blanks": [
+        {
+          "options": [
+            "affluent",
+            "well-heeled",
+            "ostentatious",
+            "genteel",
+            "bohemian",
+            "industrious"
+          ],
+          "answers": [
+            "affluent",
+            "well-heeled"
+          ]
+        }
+      ],
+      "words": [
+        "affluent"
+      ],
+      "explanation": "Tenements replaced by townhouses describes a district that has acquired comfortable, settled money, and affluent and well-heeled are the pair that say exactly that of a place. Ostentatious names vulgar display rather than wealth itself, genteel implies refinement often without money, bohemian points the wrong way socially, and industrious (a lure planted by \"industrial\") describes diligence, not prosperity.",
+      "id": "gregmat33__b0__se__03",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Readers who take Moby-Dick to be {1} — the whale standing point for point for God, or for capital, or for the void — often find the book diminished the moment they settle on a key, since a code that explains everything leaves nothing further to discover.",
+      "blanks": [
+        {
+          "options": [
+            "allegorical",
+            "metaphorical",
+            "euphemistic",
+            "didactic",
+            "elliptical"
+          ],
+          "answers": [
+            "allegorical"
+          ]
+        }
+      ],
+      "words": [
+        "allegorical"
+      ],
+      "explanation": "\"Point for point\" and \"a key\" describe a systematic correspondence running through a whole work, which is allegory; metaphorical would cover a single figure without the machinery of one-to-one substitution the sentence insists on. Euphemistic (softening an unpleasant term), didactic (openly instructive) and elliptical (leaving things out) all miss the decoding structure that makes the disappointment intelligible.",
+      "id": "gregmat33__b0__cloze__04",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Diplomatic notes seldom name the offending state outright; the 1957 protest merely {1} to \"certain activities in the eastern provinces,\" leaving every reader to supply the government that both chancelleries could have named.",
+      "blanks": [
+        {
+          "options": [
+            "alluded",
+            "averred",
+            "intimated",
+            "evoked",
+            "articulated"
+          ],
+          "answers": [
+            "alluded"
+          ]
+        }
+      ],
+      "words": [
+        "allude"
+      ],
+      "explanation": "The referent is definite and checkable — both sides could name the government — but is pointedly left unnamed, which is precisely to allude, the one verb here that takes to. Intimated and evoked also suggest indirection but are transitive and, in intimate's case, suggest hinting at something private rather than gesturing at a known third party; averred and articulated would mean stating the matter plainly, which the sentence denies.",
+      "id": "gregmat33__b0__cloze__05",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "Pressed to {1} his assertion that the poem is {2}, the critic obliged with a list of correspondences: the drowned pilot for the old church, the empty lighthouse for a vacated papacy, the ferryman for Erasmus.",
+      "blanks": [
+        {
+          "options": [
+            "amplify",
+            "qualify",
+            "retract"
+          ],
+          "answers": [
+            "amplify"
+          ]
+        },
+        {
+          "options": [
+            "allegorical",
+            "euphemistic",
+            "extemporaneous"
+          ],
+          "answers": [
+            "allegorical"
+          ]
+        }
+      ],
+      "words": [
+        "amplify",
+        "allegorical"
+      ],
+      "explanation": "He \"obliged with a list,\" so he said more about the claim rather than limiting it (qualify) or withdrawing it (retract) — this is amplify in its GRE sense of expanding on a statement. The list itself, assigning each figure a counterpart in church history, defines an allegorical reading; euphemistic concerns softened language and extemporaneous concerns lack of preparation.",
+      "id": "gregmat33__b0__tc2__06",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Marketers draw a sharp line between the newly rich, whose purchases are conspicuous and faintly anxious, and {1} households, whose spending is habitual, unhurried, and all but invisible.",
+      "blanks": [
+        {
+          "options": [
+            "affluent",
+            "opulent",
+            "prodigal",
+            "avaricious",
+            "destitute"
+          ],
+          "answers": [
+            "affluent"
+          ]
+        }
+      ],
+      "words": [
+        "affluent"
+      ],
+      "explanation": "The contrast is between sudden money on display and long-settled money spent without thought, and affluent is the sociologist's term for the latter, attaching naturally to households. Opulent names exactly the luxurious display the sentence calls invisible, prodigal means wastefully lavish, avaricious means grasping, and destitute inverts the meaning entirely.",
+      "id": "gregmat33__b0__cloze__07",
+      "unit": "gregmat33__b0",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": []
+}

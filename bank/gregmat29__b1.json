@@ -1,0 +1,231 @@
+{
+  "unit": "gregmat29__b1",
+  "gregmat_group": 29,
+  "words": [
+    "chagrin",
+    "collude",
+    "commiserate",
+    "conflagration"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Much to the {1} of a commission that had spent a decade citing the industry as a model of open competition, the two largest firms — each legally obliged to tender independently — had for years quietly {2}, settling in advance which of them would submit the lower bid.",
+      "blanks": [
+        {
+          "options": [
+            "chagrin",
+            "contrition",
+            "effrontery"
+          ],
+          "answers": [
+            "chagrin"
+          ]
+        },
+        {
+          "options": [
+            "colluded",
+            "collaborated",
+            "commiserated"
+          ],
+          "answers": [
+            "colluded"
+          ]
+        }
+      ],
+      "words": [
+        "chagrin",
+        "collude"
+      ],
+      "explanation": "The commission has done nothing wrong; it has merely been publicly proved wrong about a sector it praised, which is wounded pride — chagrin — rather than contrition, which would require misconduct of its own. In the second blank, the firms were legally required to be at arm's length and their understanding was secret and self-serving, which is precisely collusion; collaborated names open, blameless cooperation and would not be an offence at all.",
+      "id": "gregmat29__b1__tc2__00",
+      "unit": "gregmat29__b1",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Having both been passed over in favour of an outside hire, the two deputies met that evening less to plot than to {1}, each confessing the {2} of having assumed for years that the succession was already settled in his own favour.",
+      "blanks": [
+        {
+          "options": [
+            "commiserate",
+            "conspire",
+            "remonstrate"
+          ],
+          "answers": [
+            "commiserate"
+          ]
+        },
+        {
+          "options": [
+            "chagrin",
+            "contrition",
+            "effrontery"
+          ],
+          "answers": [
+            "chagrin"
+          ]
+        }
+      ],
+      "words": [
+        "commiserate",
+        "chagrin"
+      ],
+      "explanation": "\"Less to plot than to\" explicitly rules out conspire, and remonstrate would require someone to argue against; what two equally disappointed men do together is commiserate, sharing misfortune as fellow sufferers. The second blank names the sting of having been shown up in one's own assumptions of importance — chagrin, bruised dignity — where contrition would imply the deputies had committed some wrong rather than merely overrated themselves.",
+      "id": "gregmat29__b1__tc2__01",
+      "unit": "gregmat29__b1",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Nothing in the episode touched Ellison's integrity; what he felt as the theory he had publicly pronounced dead was vindicated in every particular was therefore not guilt but pure {1}.",
+      "blanks": [
+        {
+          "options": [
+            "chagrin",
+            "mortification",
+            "contrition",
+            "compunction",
+            "effrontery",
+            "indignation"
+          ],
+          "answers": [
+            "chagrin",
+            "mortification"
+          ]
+        }
+      ],
+      "words": [
+        "chagrin"
+      ],
+      "explanation": "Chagrin and mortification both name the smart of humiliated pride, which is exactly what a man feels on being conspicuously proved wrong. Contrition and compunction are a synonym pair of their own, but both presuppose wrongdoing and are shut out by \"not guilt\"; indignation would make Ellison angry at an injustice rather than embarrassed at his own error.",
+      "id": "gregmat29__b1__se__02",
+      "unit": "gregmat29__b1",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "A single overturned lamp in the timber yard set off the {1} that leapt the canal and consumed nine warehouses before the tide turned.",
+      "blanks": [
+        {
+          "options": [
+            "conflagration",
+            "inferno",
+            "calamity",
+            "debacle",
+            "upheaval",
+            "imbroglio"
+          ],
+          "answers": [
+            "conflagration",
+            "inferno"
+          ]
+        }
+      ],
+      "words": [
+        "conflagration"
+      ],
+      "explanation": "Only conflagration and inferno name the burning thing itself, and the verbs — leapt, consumed — require a fire rather than an event described from outside. Calamity, debacle and upheaval are labels one attaches to a disaster and cannot themselves leap a canal; imbroglio denotes a confused entanglement, usually political.",
+      "id": "gregmat29__b1__se__03",
+      "unit": "gregmat29__b1",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Passed over for the same fellowship on the same afternoon, the two postdocs spent the evening {1} over cheap wine; neither offered the other advice, and neither wanted any.",
+      "blanks": [
+        {
+          "options": [
+            "commiserating",
+            "remonstrating",
+            "equivocating",
+            "gloating",
+            "dissembling"
+          ],
+          "answers": [
+            "commiserating"
+          ]
+        }
+      ],
+      "words": [
+        "commiserate"
+      ],
+      "explanation": "Commiserate is horizontal — sympathy exchanged between equals who have suffered the same reverse — and it is characteristically talk that fixes nothing, which the clause about advice makes explicit. Gloating reverses the emotion, while remonstrating, equivocating and dissembling all describe forms of argument or concealment that the shared misfortune gives them no occasion for.",
+      "id": "gregmat29__b1__cloze__05",
+      "unit": "gregmat29__b1",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "A quarrel over a single fishing licence widened, treaty by treaty, into a {1} that within two years had engulfed six powers and half their colonies.",
+      "blanks": [
+        {
+          "options": [
+            "conflagration",
+            "imbroglio",
+            "contretemps",
+            "cataclysm",
+            "quandary"
+          ],
+          "answers": [
+            "conflagration"
+          ]
+        }
+      ],
+      "words": [
+        "conflagration"
+      ],
+      "explanation": "Used figuratively, conflagration keeps the shape of a fire: something local that spreads outward until it consumes everything adjacent, which is exactly the movement from one licence to six belligerent powers. Imbroglio suggests tangled confusion rather than scale, contretemps a trivial mishap, and quandary a dilemma; cataclysm names a sudden violent upheaval and lacks the spreading-from-a-flashpoint sense the sentence builds.",
+      "id": "gregmat29__b1__cloze__06",
+      "unit": "gregmat29__b1",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "The relief committee's minutes distinguish the two visitors sharply: Hale, who had lost his own farm to the same flood, came only to {1} with the tenants, whereas Brandon, who arrived with a ledger and a lecture on thrift, struck them as merely {2}.",
+      "blanks": [
+        {
+          "options": [
+            "commiserate",
+            "intercede",
+            "remonstrate"
+          ],
+          "answers": [
+            "commiserate"
+          ]
+        },
+        {
+          "options": [
+            "callous",
+            "benevolent",
+            "contrite"
+          ],
+          "answers": [
+            "callous"
+          ]
+        }
+      ],
+      "words": [
+        "commiserate"
+      ],
+      "explanation": "Hale is a fellow victim rather than a patron or an advocate, so he can only commiserate; intercede would require him to plead with the tenants on someone else's behalf, and remonstrate would make him their critic. The contrast set up by \"whereas\" then demands a word for unfeeling hardness in Brandon — callous — since benevolent would destroy the opposition and contrite would absurdly credit him with remorse.",
+      "id": "gregmat29__b1__tc2__07",
+      "unit": "gregmat29__b1",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Colluded\" and \"conspired\" are near-synonyms and both fit the sentence as written. The intended distinction is presumably that collusion can be tacit (no meeting, no written plan — the antitrust term \"tacit collusion\" is standard), while \"conspiracy\" implies an actual agreement. But that distinction is too fine to be decisive here: conspiracy is routinely inferred from purely circumstantial evidence, and \"the tribunal nonetheless concluded they had conspired, since each had for years relied on the other\" reads perfectly naturally. A reasonable test-taker choosing \"conspired\" would be defensibly right, so the question has no unique answer. (Absconded, remonstrated, and arbitrated are cleanly wrong.) Fix by removing one of the two synonyms, or by adding wording that explicitly rules out any agreement — e.g. \"had arrived at an unspoken accommodation\" framing that only \"colluded\" tolerates.",
+      "stem": "No meeting was ever proved and no written plan was ever found; the tribunal nonetheless concluded that the two supposedly independent auditing firms had {1}, since each had for years relied on the other to leave the same accounts unexamined."
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "unit": "gregmat11__b2",
+  "gregmat_group": 11,
+  "words": [
+    "deliberate",
+    "droll",
+    "eccentric",
+    "fractious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Defense counsel conceded that the page had been omitted but insisted the omission was {1} rather than {2} — the work of a clerk too tired to notice at two in the morning, not of anyone who had weighed in advance what its absence would accomplish.",
+      "blanks": [
+        {
+          "options": [
+            "inadvertent",
+            "calculated",
+            "judicious"
+          ],
+          "answers": [
+            "inadvertent"
+          ]
+        },
+        {
+          "options": [
+            "deliberate",
+            "impetuous",
+            "precipitate"
+          ],
+          "answers": [
+            "deliberate"
+          ]
+        }
+      ],
+      "words": [
+        "deliberate"
+      ],
+      "explanation": "The dash-clause splits the sentence in two: exhaustion maps to {1} and prior weighing of consequences maps to {2}, so the pair must be accident versus forethought. Deliberate is the word for an act whose consequences were weighed beforehand, which is exactly why prosecutors reach for it; impetuous and precipitate would describe acting without thought, the opposite of what counsel is denying.",
+      "id": "gregmat11__b2__tc2__00",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Officers who expected the temperament of a man famous for cavalry charges to be {1} were startled by the {2} progress of his first campaign: three weeks of surveying ground and questioning farmers before a single order to advance was issued.",
+      "blanks": [
+        {
+          "options": [
+            "impetuous",
+            "circumspect",
+            "judicious"
+          ],
+          "answers": [
+            "impetuous"
+          ]
+        },
+        {
+          "options": [
+            "deliberate",
+            "frenetic",
+            "capricious"
+          ],
+          "answers": [
+            "deliberate"
+          ]
+        }
+      ],
+      "words": [
+        "deliberate"
+      ],
+      "explanation": "\"Startled by\" demands that the two blanks oppose each other, and the colon defines the second: weeks of preparation before acting. That is deliberate in its pace sense — unhurried because the thing is being given the time it deserves — while the expectation set up by cavalry charges is impetuousness; circumspect and judicious would remove the surprise entirely.",
+      "id": "gregmat11__b2__tc2__01",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "Where his predecessors had ruled from the bench within minutes of the final argument, Judge Hallam would {1} for weeks over a single evidentiary question, and litigants learned to expect no ruling before the next term.",
+      "blanks": [
+        {
+          "options": [
+            "deliberate",
+            "cogitate",
+            "temporize",
+            "demur",
+            "expatiate",
+            "capitulate"
+          ],
+          "answers": [
+            "deliberate",
+            "cogitate"
+          ]
+        }
+      ],
+      "words": [
+        "deliberate"
+      ],
+      "explanation": "The contrast with ruling \"within minutes\" calls for a verb of prolonged private thought, which deliberate and cogitate both supply. Temporize is the trap: it fits the delay but attributes it to stalling for advantage rather than to thinking, and demur (to object) and expatiate (to speak at length) describe the wrong activity altogether.",
+      "id": "gregmat11__b2__se__02",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the memoir is uproarious: its humour is {1}, so flatly delivered and so seldom signalled that half the audience misses the joke, and the reviewers who complained of the book's {2} had merely mistaken deadpan for solemnity.",
+      "blanks": [
+        {
+          "options": [
+            "droll",
+            "facetious",
+            "bawdy"
+          ],
+          "answers": [
+            "droll"
+          ]
+        },
+        {
+          "options": [
+            "staidness",
+            "raillery",
+            "levity"
+          ],
+          "answers": [
+            "staidness"
+          ]
+        }
+      ],
+      "words": [
+        "droll"
+      ],
+      "explanation": "Humour that is flat, unsignalled, and easily missed is droll; facetious wit is conspicuously jokey, which is what \"seldom signalled\" rules out. The second blank must name what a reader who missed the joke would wrongly accuse the book of — excessive gravity, i.e. staidness — whereas levity would mean they had detected the comedy after all.",
+      "id": "gregmat11__b2__tc2__03",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "A famously {1} companion at dinner, Lamb would offer his oddest observations in the flat, faintly puzzled tone of a man reporting the weather, so that his guests often laughed a full sentence late.",
+      "blanks": [
+        {
+          "options": [
+            "droll",
+            "bombastic",
+            "garrulous",
+            "sardonic",
+            "effusive"
+          ],
+          "answers": [
+            "droll"
+          ]
+        }
+      ],
+      "words": [
+        "droll"
+      ],
+      "explanation": "The delayed laughter and the weather-report delivery point to dry, understated, peculiar wit — droll. Sardonic would require mockery or bitterness, which the faintly puzzled tone excludes, and bombastic, garrulous, and effusive all describe an excess of manner incompatible with flatness.",
+      "id": "gregmat11__b2__cloze__04",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "se",
+      "stem": "The village regarded his habits — the forty clocks, the purple suit worn daily for thirty years — as {1} rather than alarming, the harmless fixtures of a man everyone had known since boyhood.",
+      "blanks": [
+        {
+          "options": [
+            "eccentric",
+            "quirky",
+            "iconoclastic",
+            "hidebound",
+            "affected",
+            "doctrinaire"
+          ],
+          "answers": [
+            "eccentric",
+            "quirky"
+          ]
+        }
+      ],
+      "words": [
+        "eccentric"
+      ],
+      "explanation": "\"Rather than alarming\" and \"harmless\" fix the sense as odd but tolerated, which eccentric and quirky both give. Iconoclastic would make the oddity an assault on received belief rather than a private habit, affected would make it a pose rather than genuine, and hidebound and doctrinaire denote rigid conventionality — the reverse of odd.",
+      "id": "gregmat11__b2__se__05",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "Though his colleagues filed him away as merely {1} — the cape, the rescued owls, the refusal to keep a telephone — the published work was in fact fiercely {2}, overturning the very assumptions on which three generations of the discipline had been built.",
+      "blanks": [
+        {
+          "options": [
+            "eccentric",
+            "doctrinaire",
+            "querulous"
+          ],
+          "answers": [
+            "eccentric"
+          ]
+        },
+        {
+          "options": [
+            "iconoclastic",
+            "orthodox",
+            "whimsical"
+          ],
+          "answers": [
+            "iconoclastic"
+          ]
+        }
+      ],
+      "words": [
+        "eccentric"
+      ],
+      "explanation": "\"Though ... merely ... in fact\" sets harmless personal oddity against genuine intellectual assault: the cape and the owls are eccentricity, a tolerated private strangeness, while overturning a discipline's founding assumptions is iconoclasm. Whimsical would keep the work in the same harmless register the concession is meant to exceed, and orthodox contradicts the overturning outright.",
+      "id": "gregmat11__b2__tc2__06",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "tc2",
+      "stem": "The coalition held together only while its founder lived; within a month of his funeral it had grown so {2} that ministers were briefing against one another in the Sunday papers, and correspondents who had once admired its discipline now doubted that any {1} could last out the session.",
+      "blanks": [
+        {
+          "options": [
+            "comity",
+            "autonomy",
+            "levity"
+          ],
+          "answers": [
+            "comity"
+          ]
+        },
+        {
+          "options": [
+            "fractious",
+            "stoic",
+            "doctrinaire"
+          ],
+          "answers": [
+            "fractious"
+          ]
+        }
+      ],
+      "words": [
+        "fractious"
+      ],
+      "explanation": "Ministers briefing against one another is internal squabbling that threatens to split the group, which is precisely the collective use of fractious; doctrinaire would describe rigid ideology rather than mutual sniping, and stoic reverses the sense. What such squabbling destroys is comity — courteous relations among members — not autonomy or levity.",
+      "id": "gregmat11__b2__tc2__07",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    },
+    {
+      "type": "cloze",
+      "stem": "The ward sister's notes described the patient not as dangerous but merely as {1}: resistant to every routine, aggrieved by the food, and forever ringing the bell for trifles.",
+      "blanks": [
+        {
+          "options": [
+            "fractious",
+            "truculent",
+            "belligerent",
+            "pugnacious",
+            "stoic"
+          ],
+          "answers": [
+            "fractious"
+          ]
+        }
+      ],
+      "words": [
+        "fractious"
+      ],
+      "explanation": "\"Not as dangerous but merely\" rules out truculent, belligerent, and pugnacious, all of which imply an aggressive threat, while stoic contradicts the complaining. Fractious is exactly the nurse's word for a cranky, resistant charge — a nuisance to manage, described from a position of authority.",
+      "id": "gregmat11__b2__cloze__08",
+      "unit": "gregmat11__b2",
+      "verified": true,
+      "gregmat_group": 11
+    }
+  ],
+  "rejects": []
+}

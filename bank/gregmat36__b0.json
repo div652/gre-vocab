@@ -1,0 +1,228 @@
+{
+  "unit": "gregmat36__b0",
+  "gregmat_group": 36,
+  "words": [
+    "accord",
+    "ad hoc",
+    "adhere",
+    "all-encompassing"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The communiqué announced a genuine {1} — hostilities suspended, ambassadors restored, trade delegations exchanged — but the mediators took care to add that no {2} had yet been signed, and that the thaw therefore rested on nothing more binding than mutual goodwill.",
+      "blanks": [
+        {
+          "options": [
+            "détente",
+            "animosity",
+            "comity"
+          ],
+          "answers": [
+            "détente"
+          ]
+        },
+        {
+          "options": [
+            "accord",
+            "consensus",
+            "strife"
+          ],
+          "answers": [
+            "accord"
+          ]
+        }
+      ],
+      "words": [
+        "accord"
+      ],
+      "explanation": "The first blank names a warming of relations without a document, which is exactly détente; animosity reverses the sense and comity denotes a general habit of courteous dealing rather than a thaw that can be announced. The second blank must be the one thing in the group that has parties, terms, and a signing ceremony — an accord; a consensus is a shared opinion, not an instrument anyone signs, which is precisely why the mediators say the peace is still unbinding.",
+      "id": "gregmat36__b0__tc2__00",
+      "unit": "gregmat36__b0",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "After a century in which its fellowships went only to men, the academy at last voted to {1} the crystallographer full membership, together with the emeritus title and pension that had always attended it.",
+      "blanks": [
+        {
+          "options": [
+            "accord",
+            "relegate",
+            "repudiate",
+            "subsume",
+            "flout"
+          ],
+          "answers": [
+            "accord"
+          ]
+        }
+      ],
+      "words": [
+        "accord"
+      ],
+      "explanation": "The verb sense of accord is bestowal from a body with the standing to bestow — one accords membership, recognition, honours. Relegate would push her downward rather than raise her, and repudiate would reject her outright; both contradict the sentence's arc from exclusion to belated honour.",
+      "id": "gregmat36__b0__cloze__01",
+      "unit": "gregmat36__b0",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics charged that the agency's answer to each outbreak had been purely {1} — shaped by whatever crisis stood in front of it, discarded once that crisis passed, and carrying no principle forward to the next one; what the inspectorate needed instead, they argued, was a standing protocol that field officers could {2} in every emergency to come.",
+      "blanks": [
+        {
+          "options": [
+            "ad hoc",
+            "all-encompassing",
+            "exhaustive"
+          ],
+          "answers": [
+            "ad hoc"
+          ]
+        },
+        {
+          "options": [
+            "adhere to",
+            "contravene",
+            "improvise"
+          ],
+          "answers": [
+            "adhere to"
+          ]
+        }
+      ],
+      "words": [
+        "ad hoc",
+        "adhere"
+      ],
+      "explanation": "The first blank is defined by the clause after it — built for this one case with no governing principle — which is the intellectual complaint ad hoc makes; all-encompassing and exhaustive would praise the response's coverage, the opposite of the charge. The second blank must name faithful, continuing attachment to a standard over time, which is adhere; contravene inverts it, and improvise merely restates the failure the protocol is meant to cure.",
+      "id": "gregmat36__b0__tc2__02",
+      "unit": "gregmat36__b0",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than abandon the model, its defenders introduced a carefully drafted but transparently {1} assumption — one contrived to absorb the anomalous readings and nothing else, with no independent evidence or principle to recommend it.",
+      "blanks": [
+        {
+          "options": [
+            "ad hoc",
+            "extemporaneous",
+            "makeshift",
+            "exhaustive",
+            "amicable"
+          ],
+          "answers": [
+            "ad hoc"
+          ]
+        }
+      ],
+      "words": [
+        "ad hoc"
+      ],
+      "explanation": "An assumption bolted onto a theory purely to stop it being refuted is the classic ad hoc move: no principle behind it that would survive the next case. Extemporaneous and makeshift both imply hasty or unpolished manufacture, which \"carefully drafted\" explicitly rules out — the complaint here is intellectual, not aesthetic.",
+      "id": "gregmat36__b0__cloze__03",
+      "unit": "gregmat36__b0",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "For eleven years the laboratory {1} the safety protocol without a single lapse, a record all the more striking because no inspector ever visited the site to enforce it.",
+      "blanks": [
+        {
+          "options": [
+            "adhered to",
+            "abided by",
+            "flouted",
+            "circumvented",
+            "rewrote",
+            "audited"
+          ],
+          "answers": [
+            "adhered to",
+            "abided by"
+          ]
+        }
+      ],
+      "words": [
+        "adhere"
+      ],
+      "explanation": "\"Without a single lapse\" and the absence of any enforcer call for continuous, self-imposed observance of a standard, which adhered to and abided by express identically here. Flouted and circumvented describe defying or evading the rule, and rewrote and audited fit the grammar while describing something the laboratory did to the protocol rather than under it.",
+      "id": "gregmat36__b0__se__04",
+      "unit": "gregmat36__b0",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Though he had publicly {1} the doctrine that made his name, denouncing it at length in a letter to the newspapers, he remained in private an {2} of the ascetic regimen it prescribed, rising at four each morning to pray.",
+      "blanks": [
+        {
+          "options": [
+            "repudiated",
+            "espoused",
+            "heeded"
+          ],
+          "answers": [
+            "repudiated"
+          ]
+        },
+        {
+          "options": [
+            "adherent",
+            "apostate",
+            "dissident"
+          ],
+          "answers": [
+            "adherent"
+          ]
+        }
+      ],
+      "words": [
+        "adhere"
+      ],
+      "explanation": "The public denunciation fixes the first blank as repudiated, since espoused and heeded would have him embracing the doctrine he is attacking. \"Though\" then demands a private reversal: an adherent is one who keeps faithfully to a discipline of his own choosing, whereas apostate and dissident would merely repeat the public rejection and destroy the contrast.",
+      "id": "gregmat36__b0__tc2__05",
+      "unit": "gregmat36__b0",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "By his final year at the board, chess had become an {1} obsession, crowding out friendship, appetite and sleep alike until nothing else could get a hearing.",
+      "blanks": [
+        {
+          "options": [
+            "all-encompassing",
+            "exhaustive",
+            "thorough",
+            "encyclopedic",
+            "ad hoc"
+          ],
+          "answers": [
+            "all-encompassing"
+          ]
+        }
+      ],
+      "words": [
+        "all-encompassing"
+      ],
+      "explanation": "Turned on a passion rather than a survey, all-encompassing becomes claustrophobic: the obsession has no edges and leaves room for nothing else, which is what the crowding out of friendship and sleep describes. Exhaustive, thorough and encyclopedic all measure coverage of a subject and cannot describe a feeling that consumes a life.",
+      "id": "gregmat36__b0__cloze__07",
+      "unit": "gregmat36__b0",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean: \"every regional archive visited... no claim left unverified\" forces \"exhaustive\" (cursory and ad hoc are opposites). Blank {2} is not unique — \"all-encompassing\" and \"encyclopedic\" both mean total coverage and both fit \"so ___ that it seemed to have no outside at all, with no fact, no feeling and no era falling beyond its reach\"; \"so encyclopedic that nothing fell beyond its reach\" is entirely idiomatic. The only arguments for all-encompassing are soft: (a) \"attempted something else entirely\" hints blank 2 shouldn't restate blank 1's thoroughness, and encyclopedic is a near-cousin of exhaustive; (b) \"no feeling\" tilts slightly away from encyclopedic's fact/knowledge connotation. Neither excludes encyclopedic, so a careful test-taker can defensibly pick it and be marked wrong. Fix by swapping \"encyclopedic\" for a distractor that does not mean comprehensive.",
+      "stem": "Her first book was admirably {1}: every regional archive visited, every disputed footnote run to ground, no claim left unverified. The second attempted something else entirely — an account of human striving so {2} that it seemed to have no outside at all, with no fact, no feeling and no era falling beyond its reach."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "unit": "gregmat09__b7",
+  "gregmat_group": 9,
+  "words": [
+    "trifling",
+    "turbulent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Historians long dismissed the tariff quarrel of 1852 as a {1} squabble over pennies, but the archives show it opening a decade so {2} that three ministries fell before the customs schedules were finally settled.",
+      "blanks": [
+        {
+          "options": [
+            "trifling",
+            "incendiary",
+            "protracted"
+          ],
+          "answers": [
+            "trifling"
+          ]
+        },
+        {
+          "options": [
+            "turbulent",
+            "quiescent",
+            "subdued"
+          ],
+          "answers": [
+            "turbulent"
+          ]
+        }
+      ],
+      "words": [
+        "trifling",
+        "turbulent"
+      ],
+      "explanation": "The contrast (\"dismissed ... but the archives show\") requires the first blank to record the historians' contempt for something too small to matter, which is exactly what trifling does; incendiary reverses the judgement, and protracted measures duration rather than triviality, so it would not be something the archives could overturn. The second blank must name the churning instability that topples three ministries: turbulent, whereas quiescent and subdued describe precisely the calm that did not obtain.",
+      "id": "gregmat09__b7__tc2__00",
+      "unit": "gregmat09__b7",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "The years between the two revolutions were so {1} that no ministry survived a full session, and provincial governors learned to rule by improvisation rather than by statute.",
+      "blanks": [
+        {
+          "options": [
+            "turbulent",
+            "tempestuous",
+            "quiescent",
+            "subdued",
+            "turgid",
+            "truculent"
+          ],
+          "answers": [
+            "turbulent",
+            "tempestuous"
+          ]
+        }
+      ],
+      "words": [
+        "turbulent"
+      ],
+      "explanation": "Governments falling within a session and administration reduced to improvisation demand a word for violent instability, and turbulent and tempestuous are interchangeable here. Quiescent and subdued fit the grammar and the formal register but assert the opposite condition, while turgid (swollen, bombastic) and truculent (belligerent) are the standard lookalike traps and describe neither an era nor its disorder.",
+      "id": "gregmat09__b7__se__01",
+      "unit": "gregmat09__b7",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "The lake's surface, {1} with silt washed down by the storm, betrayed nothing of the {2} currents below, which had already carried two swimmers past the breakwater.",
+      "blanks": [
+        {
+          "options": [
+            "turbid",
+            "turgid",
+            "truculent"
+          ],
+          "answers": [
+            "turbid"
+          ]
+        },
+        {
+          "options": [
+            "turbulent",
+            "placid",
+            "nominal"
+          ],
+          "answers": [
+            "turbulent"
+          ]
+        }
+      ],
+      "words": [
+        "turbulent"
+      ],
+      "explanation": "Silt in suspension makes water cloudy, which is turbid; turgid means swollen or pompous and truculent means aggressive, neither of which follows from sediment. The second blank must contradict the opaque, unrevealing surface with the violent unsettled motion that sweeps swimmers away — turbulent — since placid would remove the danger the clause reports and nominal does not apply to moving water.",
+      "id": "gregmat09__b7__tc2__03",
+      "unit": "gregmat09__b7",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"paltry\" is a near-synonym of \"trifling\" (both = trivial/of little worth; paltry also carries \"mean, contemptible\"), and the sentence offers no discriminator between the frivolous/shiftless sense and the contemptible/worthless sense — a test-taker could reasonably read \"a paltry young man\" as contemptible and be marked wrong. The only thing separating them is a usage convention (paltry usually modifies quantities), not anything the sentence tests. Remove \"paltry\" from the options or add wording that requires the frivolity sense specifically.",
+      "stem": "His mother's letters despair of him as a {1} young man, one who has never kept a post for longer than a season and borrows without any expectation of repaying."
+    }
+  ]
+}

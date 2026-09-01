@@ -1,0 +1,134 @@
+{
+  "unit": "gregmat19__b7",
+  "gregmat_group": 19,
+  "words": [
+    "transitory",
+    "viable"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Keynes's defenders insisted that the postwar surge in prices was {1} — an adjustment that would subside of its own accord once supply caught up with demand — while his critics answered that no manufacturing sector could remain {2} if the currency lost half its value in a decade.",
+      "blanks": [
+        {
+          "options": [
+            "transitory",
+            "entrenched",
+            "immutable"
+          ],
+          "answers": [
+            "transitory"
+          ]
+        },
+        {
+          "options": [
+            "viable",
+            "feasible",
+            "illusory"
+          ],
+          "answers": [
+            "viable"
+          ]
+        }
+      ],
+      "words": [
+        "transitory",
+        "viable"
+      ],
+      "explanation": "The dash clause defines the first blank as a phase that ends by its own nature, which is exactly transitory; entrenched and immutable assert the opposite of an adjustment that subsides. The second blank concerns whether an existing sector can keep operating rather than collapse, the survival sense of viable — feasible would ask whether the sector could be undertaken, which makes no sense of something already running, and illusory concedes nothing to the critics' argument.",
+      "id": "gregmat19__b7__tc2__00",
+      "unit": "gregmat19__b7",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "se",
+      "stem": "Boethius consoles himself with the reflection that the favors of Fortune are {1}: the wheel turns without pause, and whatever it lifts up it must in time bring down again.",
+      "blanks": [
+        {
+          "options": [
+            "transitory",
+            "transient",
+            "perennial",
+            "entrenched",
+            "immutable",
+            "ineradicable"
+          ],
+          "answers": [
+            "transitory",
+            "transient"
+          ]
+        }
+      ],
+      "words": [
+        "transitory"
+      ],
+      "explanation": "The colon explains the blank: what rises must fall, so Fortune's gifts are impermanent by nature — transitory and transient both carry that sense and yield equivalent sentences. Perennial, entrenched, immutable, and ineradicable all fit the grammar and the elevated register, but each asserts permanence, which the turning wheel flatly contradicts; note also that they cannot be paired with each other, since the sentence's own explanation rules them out.",
+      "id": "gregmat19__b7__se__01",
+      "unit": "gregmat19__b7",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "cloze",
+      "stem": "Conservationists reported that the surviving herd of forty animals, though outwardly healthy, was too inbred to be genetically {1}: absent an infusion of new bloodlines, the population would dwindle no matter how strictly the reserve was patrolled.",
+      "blanks": [
+        {
+          "options": [
+            "viable",
+            "feasible",
+            "tenable",
+            "plausible",
+            "efficacious"
+          ],
+          "answers": [
+            "viable"
+          ]
+        }
+      ],
+      "words": [
+        "viable"
+      ],
+      "explanation": "The sentence is about whether a population can sustain itself without outside support, which is the biological core of viable. Feasible and efficacious apply to actions or remedies rather than to a breeding population, tenable to positions one defends, and plausible to claims one credits — none of them can be said of a herd's capacity to persist.",
+      "id": "gregmat19__b7__cloze__02",
+      "unit": "gregmat19__b7",
+      "verified": true,
+      "gregmat_group": 19
+    },
+    {
+      "type": "tc2",
+      "stem": "The review panel damned the orbital-telescope proposal with the faintest of praise: the engineering was {1}, they conceded, in that the instrument would not fail the moment it left the launch pad, yet nothing in the science case suggested the mission would ever prove {2}.",
+      "blanks": [
+        {
+          "options": [
+            "viable",
+            "quixotic",
+            "futile"
+          ],
+          "answers": [
+            "viable"
+          ]
+        },
+        {
+          "options": [
+            "fruitful",
+            "feasible",
+            "sound"
+          ],
+          "answers": [
+            "fruitful"
+          ]
+        }
+      ],
+      "words": [
+        "viable"
+      ],
+      "explanation": "The concession sets a deliberately low bar — the instrument merely survives — which is precisely what viable grants and what quixotic or futile would deny. The second blank must name the higher standard the mission fails to meet, so it has to mean productive rather than merely workable: feasible and sound would restate the concession just made and destroy the faint-praise structure the colon sets up.",
+      "id": "gregmat19__b7__tc2__03",
+      "unit": "gregmat19__b7",
+      "verified": true,
+      "gregmat_group": 19
+    }
+  ],
+  "rejects": []
+}

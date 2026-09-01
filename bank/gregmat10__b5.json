@@ -1,0 +1,234 @@
+{
+  "unit": "gregmat10__b5",
+  "gregmat_group": 10,
+  "words": [
+    "provincial",
+    "rudimentary",
+    "salutary",
+    "sever"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though its founders had promised a collection of international scope, the museum's acquisitions committee proved stubbornly {1}, dismissing anything painted beyond the county line as decadent; its catalogue, meanwhile, remained {2}, listing dates and dimensions and venturing nothing further.",
+      "blanks": [
+        {
+          "options": [
+            "provincial",
+            "cosmopolitan",
+            "eclectic"
+          ],
+          "answers": [
+            "provincial"
+          ]
+        },
+        {
+          "options": [
+            "rudimentary",
+            "byzantine",
+            "elaborate"
+          ],
+          "answers": [
+            "rudimentary"
+          ]
+        }
+      ],
+      "words": [
+        "provincial",
+        "rudimentary"
+      ],
+      "explanation": "Blank 1 needs a word for a taste whose frame of reference stops at the county line, which is exactly provincial; cosmopolitan and eclectic would describe the international scope the committee refused. Blank 2 needs a downgrade — a catalogue giving only the barest facts — so rudimentary fits, while byzantine and elaborate both claim an excess of development the clause explicitly denies.",
+      "id": "gregmat10__b5__tc2__00",
+      "unit": "gregmat10__b5",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "For all the range of his reading, the critic's judgments were finally {1}: he took the conventions of one small literary circle for the permanent laws of art.",
+      "blanks": [
+        {
+          "options": [
+            "provincial",
+            "parochial",
+            "myopic",
+            "philistine",
+            "cosmopolitan",
+            "urbane"
+          ],
+          "answers": [
+            "provincial",
+            "parochial"
+          ]
+        }
+      ],
+      "words": [
+        "provincial"
+      ],
+      "explanation": "Mistaking local custom for universal law is the shared charge of provincial and parochial, and here the sentence concedes his erudition so that only the narrowness of horizon is at issue. Myopic would fault his failure to see consequences ahead rather than his boundaries of reference, and philistine would accuse him of hostility to culture — impossible for a man defined by the range of his reading.",
+      "id": "gregmat10__b5__se__01",
+      "unit": "gregmat10__b5",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "The expedition's medical provision was {1} and would remain so for all twenty-six months of the voyage: a crate of bandages, a little morphine, and not one man aboard trained beyond first aid.",
+      "blanks": [
+        {
+          "options": [
+            "rudimentary",
+            "elementary",
+            "nascent",
+            "inchoate",
+            "byzantine",
+            "elaborate"
+          ],
+          "answers": [
+            "rudimentary",
+            "elementary"
+          ]
+        }
+      ],
+      "words": [
+        "rudimentary"
+      ],
+      "explanation": "Rudimentary and elementary both measure the provision against what full provision would be and find only the barest level, which is what the list of supplies establishes. Nascent and inchoate would make this a beginning stage still taking shape, but the clause \"would remain so for all twenty-six months\" forecloses any development, and byzantine and elaborate invert the sense entirely.",
+      "id": "gregmat10__b5__se__02",
+      "unit": "gregmat10__b5",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Inspectors found sanitation at the camp {1} — a trench, a tarpaulin, and one standpipe for four hundred people — yet the publication of their findings had at least one {2} effect: the ministry funded proper drains within the month.",
+      "blanks": [
+        {
+          "options": [
+            "rudimentary",
+            "elaborate",
+            "byzantine"
+          ],
+          "answers": [
+            "rudimentary"
+          ]
+        },
+        {
+          "options": [
+            "salutary",
+            "deleterious",
+            "auspicious"
+          ],
+          "answers": [
+            "salutary"
+          ]
+        }
+      ],
+      "words": [
+        "rudimentary",
+        "salutary"
+      ],
+      "explanation": "The inventory of a trench and a single standpipe fixes blank 1 as rudimentary, the minimum that counts as provision at all; elaborate and byzantine describe surplus complication. Blank 2 needs the good that arrives through something unwelcome — an embarrassing report producing reform — which is salutary; deleterious reverses the outcome, and auspicious would describe a promising omen rather than a corrective consequence already achieved.",
+      "id": "gregmat10__b5__tc2__03",
+      "unit": "gregmat10__b5",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Nineteenth-century physicians dispatched consumptives to Davos in the settled conviction that the thin alpine air was {1}.",
+      "blanks": [
+        {
+          "options": [
+            "salutary",
+            "salubrious",
+            "lugubrious",
+            "propitious",
+            "noxious",
+            "deleterious"
+          ],
+          "answers": [
+            "salutary",
+            "salubrious"
+          ]
+        }
+      ],
+      "words": [
+        "salutary"
+      ],
+      "explanation": "In its older, narrower sense salutary means health-giving, which is precisely what salubrious means of air and climate, so the two yield equivalent sentences here. Noxious and deleterious reverse the doctors' conviction, lugubrious (mournful) is the sound-alike trap, and propitious would say the air favored some undertaking rather than that it restored the lungs.",
+      "id": "gregmat10__b5__se__05",
+      "unit": "gregmat10__b5",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "The vote cost them more than they had reckoned: a single show of hands was enough to {1} bonds that four decades of shared work had made seem permanent, leaving the founders with no standing in the movement at all.",
+      "blanks": [
+        {
+          "options": [
+            "sever",
+            "strain",
+            "polarize",
+            "subsume",
+            "coalesce"
+          ],
+          "answers": [
+            "sever"
+          ]
+        }
+      ],
+      "words": [
+        "sever"
+      ],
+      "explanation": "Sever is the verb of finality — nothing is left joining the two halves — which is what \"no standing in the movement at all\" demands. Strain is the near miss: it fits the grammar and the drama but describes a bond under stress that still holds, while polarize, subsume, and coalesce name division into camps, absorption, and merging rather than a clean break.",
+      "id": "gregmat10__b5__cloze__06",
+      "unit": "gregmat10__b5",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Once the abbey {1} its remaining links with the metropolitan see, its theology grew steadily more {2}, answering to the concerns of the single valley visible from its walls and to nothing beyond.",
+      "blanks": [
+        {
+          "options": [
+            "severed",
+            "renewed",
+            "subsumed"
+          ],
+          "answers": [
+            "severed"
+          ]
+        },
+        {
+          "options": [
+            "provincial",
+            "cosmopolitan",
+            "eclectic"
+          ],
+          "answers": [
+            "provincial"
+          ]
+        }
+      ],
+      "words": [
+        "sever",
+        "provincial"
+      ],
+      "explanation": "The two blanks are causally linked: only a complete break with the centre — severed — explains a theology that afterward acknowledges nothing beyond one valley, and renewed would predict the opposite drift. Blank 2 calls for the word that carries the centre-versus-edge hierarchy the sentence has just set up, so provincial beats cosmopolitan and eclectic, which describe the breadth the abbey has lost.",
+      "id": "gregmat10__b5__tc2__07",
+      "unit": "gregmat10__b5",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} has two defensible answers. The sentence only requires \"beneficial,\" and both \"salutary\" and \"salubrious\" mean beneficial — Merriam-Webster glosses salubrious as \"favorable to or promoting health or well-being,\" and figurative uses (\"a salubrious effect\") are attested. The intended salutary/salubrious split (consequence vs. physical healthfulness) is a soft usage distinction that nothing in the sentence enforces; there is no health or environment cue making salubrious a category error. A test-taker choosing salubrious would be wrongly marked. Blank {1} is fine — \"severed its ties\" is uniquely idiomatic and the merger words contradict \"in a fit of pique.\" Fix: swap salubrious for an unambiguously wrong option such as \"ruinous\" or \"negligible.\"",
+      "stem": "Analysts forecast ruin when the firm, in a fit of pique, {1} its ties with the distributor that carried four-fifths of its output; the shock proved {2}, however, driving the company into direct sales and doubling its margins within the year."
+    }
+  ]
+}

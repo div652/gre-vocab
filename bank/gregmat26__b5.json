@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat26__b5",
+  "gregmat_group": 26,
+  "words": [
+    "lugubrious",
+    "macabre",
+    "morose",
+    "officious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Dickens gives the undertaker a manner so {1} — the sighing, the drooping whiskers, the professionally lowered voice — that the reliable effect on readers is {2} rather than sympathy.",
+      "blanks": [
+        {
+          "options": [
+            "lugubrious",
+            "wistful",
+            "morose"
+          ],
+          "answers": [
+            "lugubrious"
+          ]
+        },
+        {
+          "options": [
+            "amusement",
+            "dread",
+            "irritation"
+          ],
+          "answers": [
+            "amusement"
+          ]
+        }
+      ],
+      "words": [
+        "lugubrious"
+      ],
+      "explanation": "The listed details are a performance of grief — sighs, drooping whiskers, a lowered voice — and lugubrious is the one word that judges mournfulness as laid on thick enough to tip into comedy, which is what makes blank two amusement. Wistful is gentle, faintly regretful longing, far too mild for something exaggerated; morose describes a sullen, unsociable temperament, not a manner staged for an audience, and neither would produce laughter rather than sympathy.",
+      "id": "gregmat26__b5__tc2__00",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Critics blamed the score: its {1} tempo, with the brass dragging each cadence out to twice its length, tipped the graveside scene into unintentional farce.",
+      "blanks": [
+        {
+          "options": [
+            "lugubrious",
+            "funereal",
+            "plaintive",
+            "mawkish",
+            "morose",
+            "buoyant"
+          ],
+          "answers": [
+            "lugubrious",
+            "funereal"
+          ]
+        }
+      ],
+      "words": [
+        "lugubrious"
+      ],
+      "explanation": "Only lugubrious and funereal denote gloom that is heavy and drawn out — exactly what a tempo dragged to twice its length produces — and both carry the excess that tips solemnity into farce. Plaintive describes a thin, sorrowful cry rather than heaviness of pace; mawkish is sickly sentimentality, not slowness; morose names a sullen human mood and cannot describe a tempo; buoyant reverses the sense.",
+      "id": "gregmat26__b5__se__01",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "The anatomy museum's holdings strike most visitors as {1} rather than merely clinical: skeletons posed mid-waltz, preserved specimens ranged like a family portrait, an arrangement that treats mortality as {2}.",
+      "blanks": [
+        {
+          "options": [
+            "macabre",
+            "lugubrious",
+            "morose"
+          ],
+          "answers": [
+            "macabre"
+          ]
+        },
+        {
+          "options": [
+            "spectacle",
+            "taboo",
+            "abstraction"
+          ],
+          "answers": [
+            "spectacle"
+          ]
+        }
+      ],
+      "words": [
+        "macabre"
+      ],
+      "explanation": "Macabre is gruesomeness put on display — corpses and bones staged theatrically — which is precisely what posing skeletons mid-waltz does, and that theatricality forces spectacle in the second blank. Lugubrious and morose both name gloom of feeling or manner, and neither can describe an exhibit of remains; taboo would mean the museum hid mortality rather than arranging it for viewing.",
+      "id": "gregmat26__b5__tc2__02",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers praised the novel's {1} humour — a running joke about the narrator's bungled attempts to dispose of his employer's body — while conceding that squeamish readers would abandon it by chapter three.",
+      "blanks": [
+        {
+          "options": [
+            "macabre",
+            "lugubrious",
+            "mawkish",
+            "morose",
+            "plaintive"
+          ],
+          "answers": [
+            "macabre"
+          ]
+        }
+      ],
+      "words": [
+        "macabre"
+      ],
+      "explanation": "Corpses played for laughs is the defining territory of macabre, which unlike its neighbours can be a term of praise when attached to comedy. Lugubrious and morose describe gloom rather than gruesomeness and would contradict humour; mawkish means cloyingly sentimental, the opposite of a corpse-disposal joke; plaintive names a sorrowful sound.",
+      "id": "gregmat26__b5__cloze__03",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "What colleagues first took for {1} withdrawal — a man quietly thinking something through — hardened over the following year into something frankly {2}: he met every overture with a curtness that discouraged repetition.",
+      "blanks": [
+        {
+          "options": [
+            "pensive",
+            "insolent",
+            "ebullient"
+          ],
+          "answers": [
+            "pensive"
+          ]
+        },
+        {
+          "options": [
+            "morose",
+            "crestfallen",
+            "plaintive"
+          ],
+          "answers": [
+            "morose"
+          ]
+        }
+      ],
+      "words": [
+        "morose"
+      ],
+      "explanation": "The sentence runs along the ladder of gloom from mild to severe: pensive is exactly the reflective, thinking-it-through state the first clause glosses, and morose supplies the sullen, cheer-resisting end point that rebuffing every overture illustrates. Crestfallen names dejection at a particular setback and would not harden over a year into curtness toward others; plaintive expresses sorrow outward and appeals for sympathy, whereas this man shuts people out.",
+      "id": "gregmat26__b5__tc2__04",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Far from the genial host of his earlier years, the aging composer had grown {1}, answering guests in monosyllables and taking evident satisfaction in refusing to be cheered.",
+      "blanks": [
+        {
+          "options": [
+            "morose",
+            "sullen",
+            "crestfallen",
+            "wistful",
+            "plaintive",
+            "jocund"
+          ],
+          "answers": [
+            "morose",
+            "sullen"
+          ]
+        }
+      ],
+      "words": [
+        "morose"
+      ],
+      "explanation": "Morose and sullen both denote gloom turned outward as ill humour — a settled bad mood inflicted on others and defended against comfort — which is what monosyllabic answers and refusing to be cheered describe. Crestfallen implies a specific disappointment rather than a temperament; wistful and plaintive are gentle, sympathetic kinds of sadness with none of the sourness; jocund is its opposite.",
+      "id": "gregmat26__b5__se__05",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the porter's actual remit entitled him to question arriving guests, yet he cross-examined each one with a thoroughness they found insufferably {1} — the manner of a man who relished the {2} his post had never conferred.",
+      "blanks": [
+        {
+          "options": [
+            "officious",
+            "disinterested",
+            "impudent"
+          ],
+          "answers": [
+            "officious"
+          ]
+        },
+        {
+          "options": [
+            "authority",
+            "expertise",
+            "obligation"
+          ],
+          "answers": [
+            "authority"
+          ]
+        }
+      ],
+      "words": [
+        "officious"
+      ],
+      "explanation": "Officious names precisely the gap the sentence sets up: a small functionary enforcing procedure nobody asked him to enforce, which makes authority the thing his post never granted but he enjoys wielding. Impudent would mean cheek or disrespect, whereas the porter's fault is excessive zeal in seeming to do his job; disinterested means impartial, which describes no failing at all here.",
+      "id": "gregmat26__b5__tc2__06",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "The newly appointed warden proved insufferably {1}, materializing in doorways to lecture residents on recycling rules they had followed correctly for a decade and to rearrange their bins for them.",
+      "blanks": [
+        {
+          "options": [
+            "officious",
+            "meddlesome",
+            "presumptuous",
+            "imperious",
+            "punctilious",
+            "sanctimonious"
+          ],
+          "answers": [
+            "officious",
+            "meddlesome"
+          ]
+        }
+      ],
+      "words": [
+        "officious"
+      ],
+      "explanation": "Officious and meddlesome both mean intruding into other people's business under the guise of being helpful, which is exactly the unasked-for lecturing and bin-rearranging described. Presumptuous is overstepping one's standing in general and imperious is domineering command, neither of which captures the pretence of service; punctilious is mere fussiness about correct detail, and sanctimonious is moral self-display, both of which change the charge against the warden.",
+      "id": "gregmat26__b5__se__07",
+      "unit": "gregmat26__b5",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat01__b2",
+  "gregmat_group": 1,
+  "words": [
+    "cursory",
+    "daunting",
+    "deify",
+    "didactic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the auditors gave the subsidiary's ledgers only a {1} glance before signing off, the discrepancies that a more {2} review would certainly have surfaced went undetected for another decade.",
+      "blanks": [
+        {
+          "options": [
+            "cursory",
+            "exhaustive",
+            "encyclopedic"
+          ],
+          "answers": [
+            "cursory"
+          ]
+        },
+        {
+          "options": [
+            "meticulous",
+            "slovenly",
+            "negligent"
+          ],
+          "answers": [
+            "meticulous"
+          ]
+        }
+      ],
+      "words": [
+        "cursory"
+      ],
+      "explanation": "The structure sets a too-fast look against the careful one that would have caught the errors, so blank 1 needs the word for a hasty surface pass and blank 2 its opposite. Exhaustive and encyclopedic contradict \"only ... glance\" and would have caught the discrepancies, while slovenly and negligent are themselves failures of care and could not have surfaced anything.",
+      "id": "gregmat01__b2__tc2__00",
+      "unit": "gregmat01__b2",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "The building inspector's {1} walk-through — twenty minutes for a forty-story tower — satisfied the letter of the regulation while missing every structural defect the requirement existed to catch.",
+      "blanks": [
+        {
+          "options": [
+            "cursory",
+            "perfunctory",
+            "exhaustive",
+            "punctilious",
+            "clandestine",
+            "protracted"
+          ],
+          "answers": [
+            "cursory",
+            "perfunctory"
+          ]
+        }
+      ],
+      "words": [
+        "cursory"
+      ],
+      "explanation": "Twenty minutes for forty floors, plus compliance in form but not substance, demands a word for an inspection done too fast and without real attention; cursory and perfunctory both name that withheld effort and yield equivalent sentences. Exhaustive and punctilious describe the thoroughness the sentence says was absent, protracted contradicts the stated speed, and clandestine names secrecy rather than superficiality.",
+      "id": "gregmat01__b2__se__01",
+      "unit": "gregmat01__b2",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Though the prospect of rebuilding the burned archive from surviving fragments was frankly {1}, Muratori refused to let his collaborators {2} him for undertaking it, insisting that any competent clerk placed in his position would have done precisely the same.",
+      "blanks": [
+        {
+          "options": [
+            "daunting",
+            "negligible",
+            "tedious"
+          ],
+          "answers": [
+            "daunting"
+          ]
+        },
+        {
+          "options": [
+            "deify",
+            "depose",
+            "belittle"
+          ],
+          "answers": [
+            "deify"
+          ]
+        }
+      ],
+      "words": [
+        "daunting",
+        "deify"
+      ],
+      "explanation": "The concession requires blank 1 to name something formidable enough to warrant acclaim, and Muratori's insistence that anyone would have done the same is a refusal of excessive exaltation, which fixes blank 2. Negligible and tedious give nothing worth praising, depose reverses the direction entirely, and belittle is what his own modest remark performs rather than what he resists.",
+      "id": "gregmat01__b2__tc2__03",
+      "unit": "gregmat01__b2",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "For a translator with one slim volume of poetry to her name, a nine-hundred-page novel written in three dialects and almost without punctuation was a {1} commission, and she came very close to declining it.",
+      "blanks": [
+        {
+          "options": [
+            "daunting",
+            "formidable",
+            "tedious",
+            "prestigious",
+            "thankless",
+            "remunerative"
+          ],
+          "answers": [
+            "daunting",
+            "formidable"
+          ]
+        }
+      ],
+      "words": [
+        "daunting"
+      ],
+      "explanation": "Her inexperience set against the book's scale and difficulty, and her near-refusal, call for a word meaning so imposing that it drains confidence before one starts; daunting and formidable are equivalent here. Tedious, thankless, prestigious, and remunerative all fit the slot grammatically but substitute dullness, ingratitude, or reward for the intimidation the sentence builds.",
+      "id": "gregmat01__b2__se__04",
+      "unit": "gregmat01__b2",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "cloze",
+      "stem": "The official biographies travel well past admiration and past even veneration: they {1} the man, so that no record of miscalculation can any longer reach him and every blunder is read as strategy imperfectly understood.",
+      "blanks": [
+        {
+          "options": [
+            "deify",
+            "extol",
+            "acclaim",
+            "lionize",
+            "tout"
+          ],
+          "answers": [
+            "deify"
+          ]
+        }
+      ],
+      "words": [
+        "deify"
+      ],
+      "explanation": "The sentence places the required word at the far end of a ladder whose earlier rungs — admiration, veneration — are named and rejected, and describes a subject rendered wholly immune to criticism, which is deify's specific charge against the worshipper. Extol, acclaim, lionize, and tout are all forms of loud praise that stop well short of godhood and would leave the subject still open to judgment.",
+      "id": "gregmat01__b2__cloze__05",
+      "unit": "gregmat01__b2",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers granted that the novel's prose was anything but {1} — every sentence freshly turned, no phrase merely inherited — yet they found its plotting insufferably {2}, since each character's fate arrives stamped with the verdict the author wishes the reader to reach.",
+      "blanks": [
+        {
+          "options": [
+            "pedestrian",
+            "opaque",
+            "ornate"
+          ],
+          "answers": [
+            "pedestrian"
+          ]
+        },
+        {
+          "options": [
+            "didactic",
+            "pedantic",
+            "derivative"
+          ],
+          "answers": [
+            "didactic"
+          ]
+        }
+      ],
+      "words": [
+        "didactic"
+      ],
+      "explanation": "\"Freshly turned, no phrase merely inherited\" defines blank 1 as the absence of the commonplace, and plots that deliver the author's moral verdict are the classic complaint that a work lectures rather than tells. Opaque and ornate describe difficulty and decoration rather than dullness; pedantic names fussiness over minutiae and derivative names unoriginality, neither of which is the delivery of a lesson.",
+      "id": "gregmat01__b2__tc2__06",
+      "unit": "gregmat01__b2",
+      "verified": true,
+      "gregmat_group": 1
+    },
+    {
+      "type": "se",
+      "stem": "What opens as a wry comedy of provincial manners collapses in its last three chapters into a {1} tract, with characters halting mid-scene to spell out the lesson the reader is expected to carry away.",
+      "blanks": [
+        {
+          "options": [
+            "didactic",
+            "sententious",
+            "pedantic",
+            "pedestrian",
+            "mordant",
+            "allusive"
+          ],
+          "answers": [
+            "didactic",
+            "sententious"
+          ]
+        }
+      ],
+      "words": [
+        "didactic"
+      ],
+      "explanation": "Characters pausing to articulate the moral is instruction displacing storytelling, and didactic and sententious both name that moralizing, lecturing manner. Pedantic would mean fussing over technical detail rather than preaching, while pedestrian, mordant, and allusive substitute dullness, bitterness, and indirection for the sermon the sentence describes.",
+      "id": "gregmat01__b2__se__07",
+      "unit": "gregmat01__b2",
+      "verified": true,
+      "gregmat_group": 1
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only rules out two options. \"Neither dangerous\" excludes \"perilous,\" and \"nor especially difficult in its particulars\" excludes \"arduous\" (strenuous/difficult). But the remaining three all fit the logic of \"sheer scale ... so ___ that curators quit before starting\": \"daunting\" (intimidating in prospect — fits the pre-emptive resignation), \"onerous\" (burdensome by sheer quantity — arguably the most literal match for volume rather than difficulty, since each task is easy but there are 40,000 of them), and \"tedious\" (40,000 repetitive, uncatalogued specimens is a textbook case of monotony driving people away). Nothing in the sentence distinguishes intimidation from burdensomeness from monotony, so a test-taker choosing \"onerous\" or \"tedious\" would be defensibly reasoning and still marked wrong. The blank needs a discriminating cue — e.g. mentioning that the curators quit at the mere sight of the backlog (→ daunting) or that the work was mind-numbingly repetitive (→ tedious).",
+      "stem": "The work was neither dangerous nor especially difficult in its particulars; it was the sheer scale of it — forty thousand uncatalogued specimens — that proved so {1} that two of the three curators resigned before the first shelf was finished."
+    }
+  ]
+}

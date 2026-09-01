@@ -1,0 +1,261 @@
+{
+  "unit": "gregmat03__b5",
+  "gregmat_group": 3,
+  "words": [
+    "copious",
+    "cosmopolitan",
+    "deference",
+    "desultory"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The Beagle notebooks record Darwin's geology in {1} detail — hundreds of pages of strata measured, dated, and sketched — but his shipboard reading was, by his own account, {2}: a few chapters of one volume taken up and abandoned for another, nothing pursued to the end.",
+      "blanks": [
+        {
+          "options": [
+            "copious",
+            "scant",
+            "sparse"
+          ],
+          "answers": [
+            "copious"
+          ]
+        },
+        {
+          "options": [
+            "desultory",
+            "methodical",
+            "incessant"
+          ],
+          "answers": [
+            "desultory"
+          ]
+        }
+      ],
+      "words": [
+        "copious",
+        "desultory"
+      ],
+      "explanation": "The appositive after the first dash quantifies the output — hundreds of pages generated — so the notebooks were copious; scant and sparse contradict the evidence given. The second blank needs a word for effort that both wanders and droops, which is desultory: methodical reverses the sense, and incessant would describe unbroken reading rather than reading repeatedly abandoned.",
+      "id": "gregmat03__b5__tc2__00",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Though his manners were famously rough, the young attaché — schooled in Alexandria, Cairo, and Paris — was so {1} that no foreign custom could disconcert him; his one acknowledged fault was a {2} so ingrained that he yielded the floor to any colleague whose sole advantage was seniority.",
+      "blanks": [
+        {
+          "options": [
+            "cosmopolitan",
+            "urbane",
+            "insular"
+          ],
+          "answers": [
+            "cosmopolitan"
+          ]
+        },
+        {
+          "options": [
+            "deference",
+            "hauteur",
+            "dissent"
+          ],
+          "answers": [
+            "deference"
+          ]
+        }
+      ],
+      "words": [
+        "cosmopolitan",
+        "deference"
+      ],
+      "explanation": "The concession \"though his manners were famously rough\" is there precisely to exclude urbane, which praises polish and manners; cosmopolitan measures range — the absence of any flinch at the foreign — and a blunt man can have it. The second blank must name respectful yielding to rank, which is deference; hauteur (looking down from above) and dissent (breaking ranks) both contradict yielding the floor.",
+      "id": "gregmat03__b5__tc2__01",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Boswell's method explains the biography's texture: he took {1} notes after every meeting, so that conversations held in 1763 could be set down, phrase by phrase, two decades later.",
+      "blanks": [
+        {
+          "options": [
+            "copious",
+            "voluminous",
+            "meticulous",
+            "cursory",
+            "desultory",
+            "scant"
+          ],
+          "answers": [
+            "copious",
+            "voluminous"
+          ]
+        }
+      ],
+      "words": [
+        "copious"
+      ],
+      "explanation": "Reconstructing a conversation phrase by phrase twenty years on requires sheer quantity of record, and copious and voluminous both say the notes ran to great volume. Meticulous is the trap: it praises care rather than amount, and no other option pairs with it to make an equivalent sentence, while cursory, desultory, and scant all deny the very fullness the result demonstrates.",
+      "id": "gregmat03__b5__se__02",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers found the inquiry {1}: a witness interviewed here, a document requested there, and then long stretches in which nothing whatever was done.",
+      "blanks": [
+        {
+          "options": [
+            "desultory",
+            "haphazard",
+            "methodical",
+            "protracted",
+            "tenacious",
+            "impartial"
+          ],
+          "answers": [
+            "desultory",
+            "haphazard"
+          ]
+        }
+      ],
+      "words": [
+        "desultory"
+      ],
+      "explanation": "The colon spells out drifting, unfinished effort — a bit here, a bit there, then nothing — which is exactly what desultory and haphazard both fault. Protracted is plausible from the \"long stretches\" and tonally at home in a review, but it indicts only duration, not aimlessness, and neither it nor tenacious, methodical, or impartial has a partner producing an equivalent sentence.",
+      "id": "gregmat03__b5__se__03",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Trieste under the Habsburgs was a genuinely {1} city: Italian, Slovene, Greek, and Yiddish were all spoken along its quays, and no single tongue or creed set the terms for the rest.",
+      "blanks": [
+        {
+          "options": [
+            "cosmopolitan",
+            "urbane",
+            "eclectic",
+            "parochial",
+            "insular"
+          ],
+          "answers": [
+            "cosmopolitan"
+          ]
+        }
+      ],
+      "words": [
+        "cosmopolitan"
+      ],
+      "explanation": "Only cosmopolitan describes a place by the mix of peoples and languages it holds without any one of them dominating. Urbane would attribute polished manners to the city rather than range, eclectic applies to taste assembled from varied sources rather than to a resident population, and parochial and insular assert the opposite.",
+      "id": "gregmat03__b5__cloze__04",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "The committee postponed the vote in {1} to the chairman's illness — not because anyone had been persuaded by his objections, but because it seemed indecent to settle the matter while he lay in hospital.",
+      "blanks": [
+        {
+          "options": [
+            "deference",
+            "obeisance",
+            "subservience",
+            "capitulation",
+            "compliance"
+          ],
+          "answers": [
+            "deference"
+          ]
+        }
+      ],
+      "words": [
+        "deference"
+      ],
+      "explanation": "The fixed idiom is \"in deference to,\" meaning out of respect for, and the sentence insists the members kept their own judgment — they were not persuaded — which is deference's defining self-limiting quality. Subservience and obeisance imply grovelling or homage from below, capitulation implies surrendering one's position, and compliance implies following a directive, which the chairman never issued.",
+      "id": "gregmat03__b5__cloze__05",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Though its municipal council remained closed to anyone not born within the parish, the port itself was by any measure {1}: {2} consignments of spices, dialects, and creeds came ashore each season, and none of it struck the dockhands as worth remarking on.",
+      "blanks": [
+        {
+          "options": [
+            "cosmopolitan",
+            "parochial",
+            "insular"
+          ],
+          "answers": [
+            "cosmopolitan"
+          ]
+        },
+        {
+          "options": [
+            "copious",
+            "scant",
+            "desultory"
+          ],
+          "answers": [
+            "copious"
+          ]
+        }
+      ],
+      "words": [
+        "cosmopolitan",
+        "copious"
+      ],
+      "explanation": "\"Though\" sets the council's narrowness against the port's character, and the closing clause — nobody found the foreign remarkable — yields cosmopolitan rather than its opposites, parochial and insular. The second blank describes what the harbour received season after season, so copious fits that steady generous supply; scant contradicts the abundance, and desultory faults human effort, not the volume of goods.",
+      "id": "gregmat03__b5__tc2__06",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "Board meetings under the founder were {1} affairs — a proposal raised, dropped, taken up again an hour later — because the directors' {2}, freely offered and never servile, ensured that no measure he had not already blessed was pressed to a vote.",
+      "blanks": [
+        {
+          "options": [
+            "desultory",
+            "obstreperous",
+            "mutinous"
+          ],
+          "answers": [
+            "desultory"
+          ]
+        },
+        {
+          "options": [
+            "deference",
+            "obsequiousness",
+            "obstinacy"
+          ],
+          "answers": [
+            "deference"
+          ]
+        }
+      ],
+      "words": [
+        "desultory",
+        "deference"
+      ],
+      "explanation": "Because nobody would push a point, the discussion drifts and dies, which is desultory; obstreperous and mutinous would describe the unruly boardroom the rest of the sentence rules out. The qualifier \"freely offered and never servile\" separates deference — voluntary, dignified yielding to rank — from obsequiousness, which is grovelling, while obstinacy would produce resistance rather than acquiescence.",
+      "id": "gregmat03__b5__tc2__07",
+      "unit": "gregmat03__b5",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": []
+}

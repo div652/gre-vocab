@@ -1,0 +1,216 @@
+{
+  "unit": "gregmat15__b3",
+  "gregmat_group": 15,
+  "words": [
+    "exploitative",
+    "foreseeable",
+    "forsake",
+    "gratify"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The commission found the recruitment contracts to be not merely severe but {1}, since the agencies had deliberately sought out migrants who had no other lawful route into the labor market; that such workers would end up carrying unpayable debts was, the report insisted, entirely {2}.",
+      "blanks": [
+        {
+          "options": [
+            "exploitative",
+            "venal",
+            "mercenary"
+          ],
+          "answers": [
+            "exploitative"
+          ]
+        },
+        {
+          "options": [
+            "foreseeable",
+            "incidental",
+            "implausible"
+          ],
+          "answers": [
+            "foreseeable"
+          ]
+        }
+      ],
+      "words": [
+        "exploitative",
+        "foreseeable"
+      ],
+      "explanation": "The clue for the first blank is the power imbalance — workers with no other option being used up — which is precisely what exploitative asserts, and it can be predicated of an arrangement such as a contract rather than of a person. Venal (bribable) and mercenary (money-driven) are character verdicts on people and say nothing about the helplessness of the other party. The second blank rests on \"deliberately sought out\": if the targeting was calculated, the resulting debt is something a sensible party could have predicted, not incidental (a minor side effect) and certainly not implausible.",
+      "id": "gregmat15__b3__tc2__00",
+      "unit": "gregmat15__b3",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Critics of the internship economy argue that the arrangement is not simply uneven but {1}: firms draw months of skilled labor out of young people who, lacking any other entry into the profession, are in no position to refuse.",
+      "blanks": [
+        {
+          "options": [
+            "exploitative",
+            "mercenary",
+            "venal",
+            "unscrupulous",
+            "grasping"
+          ],
+          "answers": [
+            "exploitative"
+          ]
+        }
+      ],
+      "words": [
+        "exploitative"
+      ],
+      "explanation": "The subject of the blank is \"the arrangement,\" and only exploitative delivers a verdict on a structure rather than on a person's character; the colon then supplies its defining condition, a party who cannot refuse. Mercenary, unscrupulous and grasping describe the motives or morals of individuals and would require a human subject, while venal specifically means open to bribery, which is not at issue here.",
+      "id": "gregmat15__b3__cloze__01",
+      "unit": "gregmat15__b3",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Her letters return again and again to the same wound: that the man who had sworn to stand by her through the trial could {1} her in the week the verdict came down.",
+      "blanks": [
+        {
+          "options": [
+            "forsake",
+            "abandon",
+            "repudiate",
+            "relinquish",
+            "renege",
+            "rebuke"
+          ],
+          "answers": [
+            "forsake",
+            "abandon"
+          ]
+        }
+      ],
+      "words": [
+        "forsake"
+      ],
+      "explanation": "The sentence describes walking out on a person to whom a vow was owed, so forsake and abandon both yield the sentence \"he left her,\" differing only in register. Repudiate would mean formally disowning her or denying the validity of a claim, relinquish requires a possession or right rather than a person, rebuke means to reproach, and renege takes a promise as its object and needs \"on,\" not a human being.",
+      "id": "gregmat15__b3__se__02",
+      "unit": "gregmat15__b3",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Under the doctrine of proximate cause, a defendant answers only for harms that were a {1} consequence of his negligence, not for freak chains of events that no one in his position could have been expected to reckon with.",
+      "blanks": [
+        {
+          "options": [
+            "foreseeable",
+            "inevitable",
+            "immediate",
+            "incidental",
+            "culpable"
+          ],
+          "answers": [
+            "foreseeable"
+          ]
+        }
+      ],
+      "words": [
+        "foreseeable"
+      ],
+      "explanation": "The contrasting clause defines the answer as what a reasonable person could have known was likely, which is foreseeability rather than a claim about certainty or timing. Inevitable would wrongly require that the harm was bound to occur, immediate concerns position in the causal chain rather than knowability, and culpable describes the defendant, not the harm.",
+      "id": "gregmat15__b3__cloze__04",
+      "unit": "gregmat15__b3",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Darwin's enormous letter to Asa Gray was written less to settle their disagreement than to {1} his correspondent's long-standing curiosity about orchid fertilization, answering each of his questions in almost indecent detail.",
+      "blanks": [
+        {
+          "options": [
+            "gratify",
+            "provoke",
+            "mollify",
+            "vindicate",
+            "deflect"
+          ],
+          "answers": [
+            "gratify"
+          ]
+        }
+      ],
+      "words": [
+        "gratify"
+      ],
+      "explanation": "Curiosity is a wish rather than a need, and the closing clause shows the letter giving Gray exactly what he had wanted, which is what gratify means. Provoke and deflect run against a letter that answers every question, mollify would require Gray to be angry rather than curious, and vindicate would mean showing that the curiosity was warranted.",
+      "id": "gregmat15__b3__cloze__05",
+      "unit": "gregmat15__b3",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Given how far the region's aquifers had been drawn down since the 1970s, the failure of the well fields in 2011 was less a catastrophe than a {1} outcome — one hydrologists had in fact been describing in print for three decades.",
+      "blanks": [
+        {
+          "options": [
+            "foreseeable",
+            "predictable",
+            "inevitable",
+            "imminent",
+            "anomalous",
+            "unremarkable"
+          ],
+          "answers": [
+            "foreseeable",
+            "predictable"
+          ]
+        }
+      ],
+      "words": [
+        "foreseeable"
+      ],
+      "explanation": "The dash clause is about what experts had already said in advance, so the blank concerns knowability, and foreseeable and predictable are interchangeable in that sense. Inevitable asserts that nothing could have prevented the collapse, a claim about necessity rather than about what could be known, while imminent concerns nearness in time, anomalous reverses the sense, and unremarkable would make the failure trivial rather than anticipated.",
+      "id": "gregmat15__b3__se__06",
+      "unit": "gregmat15__b3",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "The regents, whose salaries the duke's household paid, made a practice of {1} his every whim, so that by twenty he had never once been told that a thing could not be done.",
+      "blanks": [
+        {
+          "options": [
+            "gratifying",
+            "indulging",
+            "anticipating",
+            "curbing",
+            "deriding",
+            "misjudging"
+          ],
+          "answers": [
+            "gratifying",
+            "indulging"
+          ]
+        }
+      ],
+      "words": [
+        "gratify"
+      ],
+      "explanation": "The result clause — the duke was never refused anything — requires that the whims were given in to, and gratifying and indulging both say exactly that. Anticipating means guessing a wish before it is voiced, which is not the same as granting it, and curbing, deriding and misjudging all contradict a young man who has never heard the word no.",
+      "id": "gregmat15__b3__se__07",
+      "unit": "gregmat15__b3",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['recanted', 'gratify'] vs ['forsook', 'gratify']",
+      "problem": "Blank {2} is clean: \"gratify ... vanity\" is the standard collocation (you mollify anger or a person, not a vanity; \"vindicate a vanity\" is incoherent). Blank {1} is the defect: all three options are near-synonyms that fit \"the vows he had taken at eighteen\" idiomatically — forsook (abandoned), recanted (formally renounced), relinquished (gave up). The sentence supplies no clue that discriminates among them: \"a reversal\" and \"change of conviction\" are satisfied by any of the three, and \"forsook his vows\" is arguably the most idiomatic phrase of the set, so a test-taker choosing it would be marked wrong without justification. To make it unique the sentence would need something like a formal/public act of renunciation (favoring \"recanted\") or an explicit surrender of something held (favoring \"relinquished\").",
+      "stem": "Forced to choose between his order and his patron, the young monk {1} the vows he had taken at eighteen — a reversal his biographers explain less by any change of conviction than by his eagerness to {2} a powerful man's vanity."
+    }
+  ]
+}

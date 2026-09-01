@@ -1,0 +1,187 @@
+{
+  "unit": "gregmat34__b4",
+  "gregmat_group": 34,
+  "words": [
+    "impulsive",
+    "interminable",
+    "intuitive",
+    "lassitude"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "Delegates who had been promised a fortnight's work found the sessions {1}: nine months on, with the agenda no shorter than it had been at the outset, not one of them could name a date by which the talks might plausibly close.",
+      "blanks": [
+        {
+          "options": [
+            "interminable",
+            "unending",
+            "intermittent",
+            "desultory",
+            "soporific",
+            "monotonous"
+          ],
+          "answers": [
+            "interminable",
+            "unending"
+          ]
+        }
+      ],
+      "words": [
+        "interminable"
+      ],
+      "explanation": "The complaint is purely about duration with no visible terminus, so interminable and unending yield equivalent sentences, the first adding the exasperation of the trapped listener. Monotonous and soporific charge sameness or dullness rather than length, desultory charges aimlessness, and intermittent would mean the sessions kept stopping — the opposite of talks that never end.",
+      "id": "gregmat34__b4__se__02",
+      "unit": "gregmat34__b4",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers conceded that the novel's suspense is {1} — flaring in one chapter, then absent for three — but their real grievance concerned length: the middle section, they wrote, is not repetitive so much as simply {2}.",
+      "blanks": [
+        {
+          "options": [
+            "intermittent",
+            "incessant",
+            "unrelenting"
+          ],
+          "answers": [
+            "intermittent"
+          ]
+        },
+        {
+          "options": [
+            "monotonous",
+            "humdrum",
+            "interminable"
+          ],
+          "answers": [
+            "interminable"
+          ]
+        }
+      ],
+      "words": [
+        "interminable"
+      ],
+      "explanation": "The dash gloss — flaring, then absent — forces a stop-and-start word, and both incessant and unrelenting assert the reverse. Blank 2 is fixed by \"not repetitive so much as,\" which explicitly rejects the sameness charge carried by monotonous and humdrum and leaves the pure claim of endlessness, interminable.",
+      "id": "gregmat34__b4__tc2__03",
+      "unit": "gregmat34__b4",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "The new cataloguing system was praised as {1} — a first-time user could file a record without once opening the manual — whereas the software it replaced had been so {2} that even veteran librarians kept a laminated flowchart taped to the monitor.",
+      "blanks": [
+        {
+          "options": [
+            "intuitive",
+            "rudimentary",
+            "tortuous"
+          ],
+          "answers": [
+            "intuitive"
+          ]
+        },
+        {
+          "options": [
+            "byzantine",
+            "lucid",
+            "elementary"
+          ],
+          "answers": [
+            "byzantine"
+          ]
+        }
+      ],
+      "words": [
+        "intuitive"
+      ],
+      "explanation": "Blank 1 is praise for a design understood without instruction, which is the object-sense of intuitive; rudimentary would fault the system as bare rather than commend it, and tortuous belongs on the other side of the contrast. Blank 2 must name the tangled complexity that necessitates a flowchart — byzantine — while lucid and elementary would both make the flowchart unnecessary.",
+      "id": "gregmat34__b4__tc2__04",
+      "unit": "gregmat34__b4",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Travellers took for indolence what the residents of the delta station understood to be {1}: in that climate the will to act simply seeped away, and clerks who had disembarked full of {2} found themselves, within a single season, unable to face one dispatch before noon.",
+      "blanks": [
+        {
+          "options": [
+            "lassitude",
+            "ennui",
+            "nonchalance"
+          ],
+          "answers": [
+            "lassitude"
+          ]
+        },
+        {
+          "options": [
+            "alacrity",
+            "apathy",
+            "torpor"
+          ],
+          "answers": [
+            "alacrity"
+          ]
+        }
+      ],
+      "words": [
+        "lassitude"
+      ],
+      "explanation": "Blank 1 needs the condition that befalls the body and mood under heat and is wrongly read as laziness — lassitude — where ennui would blame boredom and nonchalance would imply an unruffled attitude rather than a drained one. Blank 2 must name what the newcomers arrived with and then lost, so it requires brisk eagerness, alacrity; apathy and torpor describe the end state, not the starting one.",
+      "id": "gregmat34__b4__tc2__06",
+      "unit": "gregmat34__b4",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "The August heat settled over the garrison as a kind of {1}: not boredom, since the men had work enough to fill the day, and not indifference to duty either, but a heaviness of body and will that made the smallest errand seem impossible to arrange.",
+      "blanks": [
+        {
+          "options": [
+            "lassitude",
+            "languor",
+            "ennui",
+            "apathy",
+            "alacrity",
+            "fervor"
+          ],
+          "answers": [
+            "lassitude",
+            "languor"
+          ]
+        }
+      ],
+      "words": [
+        "lassitude"
+      ],
+      "explanation": "Lassitude and languor both name a heavy, melancholy draining of energy brought on by heat, and they produce equivalent sentences here. The stem expressly disowns boredom, which rules out ennui, and disowns indifference, which rules out apathy; alacrity and fervor name the eagerness the heat has destroyed.",
+      "id": "gregmat34__b4__se__07",
+      "unit": "gregmat34__b4",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['deliberate', 'impulsive'] vs ['foolhardy', 'impulsive']",
+      "problem": null,
+      "stem": "Biographers have resisted calling Byron's flight from England a {1} act, since that word implies a danger weighed and then knowingly courted; the letters instead disclose a man constitutionally {2}, in whom the interval between wanting a thing and doing it had never existed at all."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Precipitate\" is a live second answer. The sentence's contrast is \"not calculating but ___,\" i.e., acting without deliberation — and \"precipitate\" (adj.) means exactly \"done or acting suddenly, without careful consideration.\" It is standardly used of persons (\"he was precipitate in his commitments\") and appears on GRE lists as a near-synonym of impetuous/impulsive. \"Impulsive\" is the better fit because the second half also stresses whim-driven inconstancy (abandoning everything by evening), which impulse-following captures and mere haste does not; but a careful test-taker who reads the blank as answering only \"not calculating\" has a defensible case for \"precipitate\" and would be marked wrong. To make the item clean, replace \"precipitate\" with a distractor that does not overlap (the sentence already excludes headstrong = stubbornly fixed, foolhardy = recklessly bold about risk, and judicious = the opposite).",
+      "stem": "Colleagues in the statehouse found the young senator not calculating but {1}: his alliances, his bills, and his public quarrels alike seemed to issue from whatever had struck him that morning, and he was as likely to have abandoned all three by evening."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"intuitive\" and \"instinctive\" are near-synonyms and both fit as written. The clue — reasoning \"never actually been carried out\" and arriving \"at the correct picture whole\" — establishes only that the insight bypassed explicit derivation, which is exactly what both words denote in ordinary usage (\"instinctive grasp/feel for\" is idiomatic for precisely this). Nothing in the sentence tests the fine distinction (unlearned/innate vs. non-inferential apprehension), so a test-taker choosing \"instinctive\" is defensible but would be marked wrong. Secondarily, \"empirical\" is weakly arguable — the contrast with \"the mathematics that would justify it\" invites an observation-vs-formalism reading, and Faraday was famously an experimentalist — though \"reasoning never carried out\" cuts against it. Fix by rewriting the second clause to reward only non-inferential apprehension, or by replacing \"instinctive\" with a clear loser.",
+      "stem": "Faraday's colleagues, unable to follow reasoning that had in many cases never actually been carried out, nonetheless granted that his sense of how the field behaved was {1}: he arrived at the correct picture whole, decades before anyone supplied the mathematics that would justify it."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "unit": "gregmat32__b7",
+  "gregmat_group": 32,
+  "words": [
+    "turgid",
+    "vacuous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the commission's findings were {1} enough to survive a decade of hostile scrutiny, its report was so {2} that hardly any legislator ever reached the recommendations printed on the final page.",
+      "blanks": [
+        {
+          "options": [
+            "cogent",
+            "vacuous",
+            "turbid"
+          ],
+          "answers": [
+            "cogent"
+          ]
+        },
+        {
+          "options": [
+            "turgid",
+            "terse",
+            "trenchant"
+          ],
+          "answers": [
+            "turgid"
+          ]
+        }
+      ],
+      "words": [
+        "turgid"
+      ],
+      "explanation": "The concession \"Though\" sets substance against presentation: the findings must be sound (cogent), while the writing must be the kind that defeats readers. Turgid is exactly that — heavy, pompous prose one sinks in — whereas terse and trenchant would give the report compression and bite, which cannot explain why no one finished it; turbid (muddy) would describe the findings' clarity, not their strength.",
+      "id": "gregmat32__b7__tc2__00",
+      "unit": "gregmat32__b7",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Pressed on monetary policy, the candidate produced forty seconds of confident, even spirited speech that on later reading proved entirely {1}: fluent syntax arranged around no proposition whatever.",
+      "blanks": [
+        {
+          "options": [
+            "vacuous",
+            "vapid",
+            "insipid",
+            "tepid",
+            "prolix"
+          ],
+          "answers": [
+            "vacuous"
+          ]
+        }
+      ],
+      "words": [
+        "vacuous"
+      ],
+      "explanation": "Vacuous means containing no thought at all, which is precisely what \"no proposition whatever\" specifies. Vapid and insipid, and likewise tepid, accuse a performance of being flat, flavorless or lukewarm — all contradicted by \"confident, even spirited\" — and prolix would require a flood of words, not forty seconds.",
+      "id": "gregmat32__b7__cloze__02",
+      "unit": "gregmat32__b7",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Delivered with great authority, the address was praised at the time as {1}; read cold in the transcript a decade later, it is plainly {2} — stately cadence after stately cadence enclosing no argument at all.",
+      "blanks": [
+        {
+          "options": [
+            "trenchant",
+            "ponderous",
+            "prolix"
+          ],
+          "answers": [
+            "trenchant"
+          ]
+        },
+        {
+          "options": [
+            "vacuous",
+            "cogent",
+            "pithy"
+          ],
+          "answers": [
+            "vacuous"
+          ]
+        }
+      ],
+      "words": [
+        "vacuous"
+      ],
+      "explanation": "The semicolon pits contemporary praise against a later verdict, so the first blank must be commendatory and the second damning. Trenchant (incisive) is the only praise on offer, since ponderous and prolix are complaints; vacuous fits the gloss \"no argument at all,\" while cogent and pithy would credit the speech with the very substance the dash denies it.",
+      "id": "gregmat32__b7__tc2__03",
+      "unit": "gregmat32__b7",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options are defensible, so no unique pair. The clue \"each modest claim swathed in ceremonial qualification ... defeats all but the most dutiful reader\" supports turgid (pompously inflated), ponderous (heavy, laborious), and prolix (wordy) equally well. Turgid+prolix is as coherent a pair as turgid+ponderous, since turgid standardly means overblown AND verbose. The \"mere ninety pages\" concession does not block prolix — prolixity is wordiness relative to content, and \"short yet long-winded\" is the natural reading of that concession. A test-taker choosing turgid+prolix would be wrongly marked incorrect. Fix by removing prolix from the options or rewording the dash-clause to isolate plodding heaviness rather than verbal padding.",
+      "stem": "Though the treatise runs a mere ninety pages, its {1} manner — each modest claim swathed in ceremonial qualification — defeats all but the most dutiful reader."
+    }
+  ]
+}

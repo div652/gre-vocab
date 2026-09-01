@@ -1,0 +1,125 @@
+{
+  "unit": "gregmat02__b7",
+  "gregmat_group": 2,
+  "words": [
+    "incredulous",
+    "ingenuous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Onnes's first announcement — that a metal could be made to carry current with no resistance whatever — struck the assembled physicists as anything but {1}; several of his own students met the demonstration with {2} laughter, and only its repetition in a rival laboratory put an end to the mockery.",
+      "blanks": [
+        {
+          "options": [
+            "credible",
+            "mendacious",
+            "ingenious"
+          ],
+          "answers": [
+            "credible"
+          ]
+        },
+        {
+          "options": [
+            "incredulous",
+            "ingenuous",
+            "disingenuous"
+          ],
+          "answers": [
+            "incredulous"
+          ]
+        }
+      ],
+      "words": [
+        "incredulous"
+      ],
+      "explanation": "The claim's failure to seem believable (credible) is what produces the audience's open disbelief, and only independent replication repairs it — so the two blanks are linked as cause and reaction. Mendacious would accuse Onnes of lying, which replication of the experiment would not settle, and ingenious concerns cleverness rather than belief. For the second blank, ingenuous laughter would be innocent and disingenuous laughter feigned; only incredulous names the reaction of listeners who cannot get a claim to go down.",
+      "id": "gregmat02__b7__tc2__00",
+      "unit": "gregmat02__b7",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Fresh from a childhood spent almost entirely among her father's tenant farmers, Dorothea arrived in London with an {1} frankness that her new acquaintances found charming and, privately, alarming: she volunteered her estimate of each of them long before she had learned what such estimates cost.",
+      "blanks": [
+        {
+          "options": [
+            "artless",
+            "ingenuous",
+            "disingenuous",
+            "ingenious",
+            "shrewd",
+            "wily"
+          ],
+          "answers": [
+            "artless",
+            "ingenuous"
+          ]
+        }
+      ],
+      "words": [
+        "ingenuous"
+      ],
+      "explanation": "Artless and ingenuous both describe openness that comes from never having learned concealment, which is exactly what the clause about not knowing the cost of her opinions establishes. Shrewd and wily fit the grammar and the social setting but reverse the meaning, and disingenuous — openness feigned for advantage — is the word's live antonym; ingenious (clever) is merely its look-alike.",
+      "id": "gregmat02__b7__se__01",
+      "unit": "gregmat02__b7",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians have long puzzled over the tone of the young envoy's dispatches: where his superiors buried every unwelcome fact in circumlocution, he transcribed the court's insults verbatim, apparently never suspecting that a career might depend on tact — a manner better called {1} than defiant.",
+      "blanks": [
+        {
+          "options": [
+            "ingenuous",
+            "disingenuous",
+            "ingenious",
+            "perspicacious",
+            "wily"
+          ],
+          "answers": [
+            "ingenuous"
+          ]
+        }
+      ],
+      "words": [
+        "ingenuous"
+      ],
+      "explanation": "\"Never suspecting\" marks the envoy's openness as a condition of inexperience rather than a calculated stance, which is precisely what ingenuous diagnoses. Disingenuous would mean he only pretended not to know the rules, and perspicacious or wily would credit him with the very worldliness the sentence denies him.",
+      "id": "gregmat02__b7__cloze__02",
+      "unit": "gregmat02__b7",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "When the telegram reported that the whole fleet had gone down in a single afternoon, the cabinet's first response was not grief but an {1} silence: no one questioned the sender's reliability, yet minister after minister asked to have the message read again, unable to make the sentence mean what it plainly said.",
+      "blanks": [
+        {
+          "options": [
+            "incredulous",
+            "credible",
+            "skeptical",
+            "dismissive",
+            "disingenuous"
+          ],
+          "answers": [
+            "incredulous"
+          ]
+        }
+      ],
+      "words": [
+        "incredulous"
+      ],
+      "explanation": "Incredulous names visible, involuntary disbelief — the stare, the request to hear it again — and the sentence supplies exactly that behavior. Skeptical is ruled out because the ministers doubt neither the source nor the report's accuracy, and dismissive is ruled out because they keep returning to the message rather than waving it away; credible would describe a claim, not a silence.",
+      "id": "gregmat02__b7__cloze__03",
+      "unit": "gregmat02__b7",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": []
+}

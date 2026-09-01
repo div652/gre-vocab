@@ -1,0 +1,231 @@
+{
+  "unit": "gregmat18__b2",
+  "gregmat_group": 18,
+  "words": [
+    "contempt",
+    "dawdle",
+    "deflect",
+    "discount"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Ordered to explain the missing ledgers, the executive spent the morning trying to {1} the court's questions, blaming his subordinates rather than answering anything himself; by adjournment the judge had held him in {2} and imposed a fine.",
+      "blanks": [
+        {
+          "options": [
+            "deflect",
+            "rebut",
+            "discount"
+          ],
+          "answers": [
+            "deflect"
+          ]
+        },
+        {
+          "options": [
+            "contempt",
+            "disdain",
+            "opprobrium"
+          ],
+          "answers": [
+            "contempt"
+          ]
+        }
+      ],
+      "words": [
+        "deflect",
+        "contempt"
+      ],
+      "explanation": "To rebut is to meet a charge with argument, which the clause \"rather than answering anything himself\" rules out; to discount is to reduce the weight given a claim, not to redirect it — only deflect names the angling of questions onto someone else. The second blank is fixed by law and idiom: a judge holds a party in contempt and sanctions him, whereas disdain would be a private feeling and opprobrium the public disgrace that follows, neither of which a court can impose.",
+      "id": "gregmat18__b2__tc2__00",
+      "unit": "gregmat18__b2",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Nothing in the ambassador's correspondence betrays it, but his private diaries record a cold, unvoiced {1} for colleagues he had long since judged his intellectual inferiors — a verdict he never gave them the satisfaction of hearing.",
+      "blanks": [
+        {
+          "options": [
+            "contempt",
+            "disdain",
+            "derision",
+            "opprobrium",
+            "indignation",
+            "deference"
+          ],
+          "answers": [
+            "contempt",
+            "disdain"
+          ]
+        }
+      ],
+      "words": [
+        "contempt"
+      ],
+      "explanation": "Contempt and disdain both name a downward-looking verdict that can remain entirely interior, which is what \"unvoiced\" and \"never gave them the satisfaction of hearing\" demand. Derision must be expressed to exist and opprobrium is censure delivered publicly by others, so both contradict the secrecy; indignation is anger at a wrong rather than a judgment of worthlessness, and deference reverses the direction of the look.",
+      "id": "gregmat18__b2__se__01",
+      "unit": "gregmat18__b2",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The foreman's report distinguished the two crews carefully: the first was frankly {1}, manufacturing delays so that the job would run past its penalty date, while the second merely {2}, ambling from task to task with no motive worse than distraction.",
+      "blanks": [
+        {
+          "options": [
+            "dilatory",
+            "desultory",
+            "industrious"
+          ],
+          "answers": [
+            "dilatory"
+          ]
+        },
+        {
+          "options": [
+            "dawdled",
+            "shirked",
+            "persevered"
+          ],
+          "answers": [
+            "dawdled"
+          ]
+        }
+      ],
+      "words": [
+        "dawdle"
+      ],
+      "explanation": "The first crew invents delay on purpose, which is dilatory in its full sense of culpable withholding; desultory would describe aimless hopping about, and industrious reverses the charge. The second blank is defined by \"no motive worse than distraction\" — shirking implies duty actively evaded, whereas dawdling is drift by someone genuinely still at the work.",
+      "id": "gregmat18__b2__tc2__02",
+      "unit": "gregmat18__b2",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Rather than answer the accusation, the minister {1} it, turning every question about the shortfall into an occasion to praise the diligence of his staff.",
+      "blanks": [
+        {
+          "options": [
+            "deflected",
+            "sidestepped",
+            "rebutted",
+            "refuted",
+            "conceded",
+            "discounted"
+          ],
+          "answers": [
+            "deflected",
+            "sidestepped"
+          ]
+        }
+      ],
+      "words": [
+        "deflect"
+      ],
+      "explanation": "Deflected and sidestepped both describe angling a charge away without engaging it, which is what redirecting attention to the staff accomplishes. Rebutted and refuted are tempting as a pair, but each means answering the accusation on its merits, which \"Rather than answer\" forbids; conceded reverses the sentence, and discounted would mean reducing the charge's credibility rather than evading it.",
+      "id": "gregmat18__b2__se__04",
+      "unit": "gregmat18__b2",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the chronicler was a paid client of the very family whose exploits he records, modern historians {1} his account of the siege without discarding it, treating his casualty figures as ceilings rather than counts.",
+      "blanks": [
+        {
+          "options": [
+            "discount",
+            "refute",
+            "corroborate",
+            "dismiss",
+            "deride"
+          ],
+          "answers": [
+            "discount"
+          ]
+        }
+      ],
+      "words": [
+        "discount"
+      ],
+      "explanation": "The historians keep using the chronicle but assign it less evidentiary weight, which is precisely to discount it. Dismiss would mean waving it away entirely, ruled out by \"without discarding it\"; refute requires demonstrating falsity, corroborate reverses the judgment, and deride adds a mockery the passage's sober method does not support.",
+      "id": "gregmat18__b2__cloze__05",
+      "unit": "gregmat18__b2",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "The journal's referees quietly {1} the amateur's observations rather than test them — a reflex owing less to any demonstrated flaw in his method than to a settled {2} for work done outside the universities.",
+      "blanks": [
+        {
+          "options": [
+            "discounted",
+            "refuted",
+            "corroborated"
+          ],
+          "answers": [
+            "discounted"
+          ]
+        },
+        {
+          "options": [
+            "contempt",
+            "opprobrium",
+            "indulgence"
+          ],
+          "answers": [
+            "contempt"
+          ]
+        }
+      ],
+      "words": [
+        "discount",
+        "contempt"
+      ],
+      "explanation": "Since the referees never tested the observations, they cannot have refuted them, which requires argument or evidence, and corroborated reverses the sentence; they simply marked the findings down in credibility, which is to discount. The second blank names a standing judgment that amateur work is beneath serious notice — contempt — where opprobrium would be public disgrace heaped by a community and indulgence would be its opposite.",
+      "id": "gregmat18__b2__tc2__06",
+      "unit": "gregmat18__b2",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "A Whipple shield does not stop a micrometeoroid so much as {1} it: an angled outer sheet turns the particle from its original course and scatters its energy across a wide area before anything reaches the pressurized hull.",
+      "blanks": [
+        {
+          "options": [
+            "deflect",
+            "absorb",
+            "arrest",
+            "repel",
+            "deter"
+          ],
+          "answers": [
+            "deflect"
+          ]
+        }
+      ],
+      "words": [
+        "deflect"
+      ],
+      "explanation": "The shield neither halts nor soaks up the impact but angles it away, which is the literal core of deflect. Absorb and arrest are both excluded by \"does not stop,\" repel would mean driving the particle back the way it came, and deter applies to discouraging an agent that can choose, not to a projectile.",
+      "id": "gregmat18__b2__cloze__07",
+      "unit": "gregmat18__b2",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"dawdled\" and \"loitered\" are near-synonyms and both fit. Loiter's standard sense \"to proceed slowly and idly, with frequent stops\" (M-W: \"loitered along the way\") matches \"stopping to skip stones and count barges\" just as well as dawdle does, and the late arrival is explained equally by either. The sentence supplies no cue separating them — the only differentiator is the mild awkwardness of \"loitered the whole length\" as a transitive extent phrase, a usage subtlety too fine to decide a vocabulary item. Either add a cue that requires dawdle specifically (e.g., a deadline/time-wasting-against-instructions emphasis paired with continuous motion) or replace \"loitered\" with a distractor that is clearly wrong. (\"plodded\" is a weaker but non-trivial distractor too: it shares the slowness, and only its \"steady, laborious trudge\" connotation rules it out.)",
+      "stem": "Told to be at the ferry slip by six, the boys {1} the whole length of the towpath, stopping to skip stones and count barges, and reached the landing in time to watch the last boat pull away."
+    }
+  ]
+}

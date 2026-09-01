@@ -1,0 +1,255 @@
+{
+  "unit": "gregmat29__b6",
+  "gregmat_group": 29,
+  "words": [
+    "ominous",
+    "outlandish",
+    "propitious",
+    "prurient"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Nothing in the dispatch described an attack, and the ambassador could point to no threat in its wording; what he found {1} was the bare fact of its arrival at four in the morning, a circumstance that seemed to {2} some rupture he could not yet name.",
+      "blanks": [
+        {
+          "options": [
+            "ominous",
+            "auspicious",
+            "imminent"
+          ],
+          "answers": [
+            "ominous"
+          ]
+        },
+        {
+          "options": [
+            "portend",
+            "forestall",
+            "propitiate"
+          ],
+          "answers": [
+            "portend"
+          ]
+        }
+      ],
+      "words": [
+        "ominous"
+      ],
+      "explanation": "The sentence is built on a gap: nothing has happened, yet harm is signalled, which is exactly what ominous names — an atmosphere, not an attack. Auspicious reverses the sign, and imminent cannot follow \"found\" in this construction because it describes the event's nearness, not the ambassador's impression. Blank two must be the verb of foreshadowing, portend; forestall would mean preventing the rupture and propitiate means appeasing, neither of which a four-a.m. arrival does.",
+      "id": "gregmat29__b6__tc2__00",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "When the barrage stopped altogether on the third night, the veterans agreed that the resulting silence was far more {1} than the shelling had ever been, since it could only mean that the guns were being moved forward.",
+      "blanks": [
+        {
+          "options": [
+            "ominous",
+            "propitious",
+            "imminent",
+            "incongruous",
+            "salutary"
+          ],
+          "answers": [
+            "ominous"
+          ]
+        }
+      ],
+      "words": [
+        "ominous"
+      ],
+      "explanation": "The silence itself does no harm; it announces harm to come, which is the precise territory of ominous — the hush before the growl rather than the growl. Propitious and salutary are favourable, imminent would have to describe the attack rather than the quiet, and incongruous would say only that the silence was out of place, not that it warned of anything.",
+      "id": "gregmat29__b6__cloze__01",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "With the harvest gathered, the rival claimant newly dead, and the northern passes not yet blocked by snow, Henry judged the autumn of 1141 a singularly {1} moment to press his claim on the crown.",
+      "blanks": [
+        {
+          "options": [
+            "propitious",
+            "auspicious",
+            "ominous",
+            "precipitous",
+            "fortuitous",
+            "imminent"
+          ],
+          "answers": [
+            "propitious",
+            "auspicious"
+          ]
+        }
+      ],
+      "words": [
+        "propitious"
+      ],
+      "explanation": "The enumerated conditions have tilted in Henry's favour before he has attempted anything, so the blank wants a forecast of favourable circumstances: propitious and auspicious are interchangeable with \"moment\" and yield the same sentence. Fortuitous would attribute the alignment to chance rather than to conditions read and acted upon, precipitous means steep or headlong, and ominous and imminent point the wrong way entirely.",
+      "id": "gregmat29__b6__se__02",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Investors mistook a merely {1} climate — cheap credit, a docile regulator, a decade without a shock — for a permanent guarantee, and so were wholly unprepared when the index began its {2} descent toward the year's low.",
+      "blanks": [
+        {
+          "options": [
+            "propitious",
+            "precipitous",
+            "ominous"
+          ],
+          "answers": [
+            "propitious"
+          ]
+        },
+        {
+          "options": [
+            "precipitous",
+            "auspicious",
+            "imminent"
+          ],
+          "answers": [
+            "precipitous"
+          ]
+        }
+      ],
+      "words": [
+        "propitious"
+      ],
+      "explanation": "The first blank is glossed by the listed favourable conditions and by \"merely,\" which concedes that good conditions are not certainties: propitious names the promising setup, while ominous inverts it and precipitous belongs to the fall, not the climate. The second blank needs that steep drop, so precipitous lands there; auspicious contradicts a descent to the year's low, and imminent cannot modify a descent already underway.",
+      "id": "gregmat29__b6__tc2__03",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Editors rejected the manuscript not because its central conjecture was {1} — a good deal of durable physics began as heresy — but because the author supported it with claims so {2} that no referee could keep a straight face: talking crystals, a fourth sex, a moon that rang like a bell.",
+      "blanks": [
+        {
+          "options": [
+            "unorthodox",
+            "conventional",
+            "mundane"
+          ],
+          "answers": [
+            "unorthodox"
+          ]
+        },
+        {
+          "options": [
+            "outlandish",
+            "anomalous",
+            "incongruous"
+          ],
+          "answers": [
+            "outlandish"
+          ]
+        }
+      ],
+      "words": [
+        "outlandish"
+      ],
+      "explanation": "The dash-clause about heresy fixes the first blank as unorthodox, since the editors are conceding that unorthodoxy alone is no disqualification; conventional and mundane would make the concession meaningless. The second blank must convey extravagance met with amused disbelief, which is outlandish; anomalous merely reports statistical deviation and incongruous reports mismatch, and neither explains why a referee would laugh.",
+      "id": "gregmat29__b6__tc2__04",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Victorian travel writers were paid by the marvel, and their volumes duly filled with {1} inventions — dog-headed men, rivers of quicksilver, a city paved in cinnamon — which comfortable readers at home half-believed.",
+      "blanks": [
+        {
+          "options": [
+            "outlandish",
+            "aberrant",
+            "idiosyncratic",
+            "mundane",
+            "ominous"
+          ],
+          "answers": [
+            "outlandish"
+          ]
+        }
+      ],
+      "words": [
+        "outlandish"
+      ],
+      "explanation": "The examples are extravagant fabrications that seem to come from no known world, and outlandish carries exactly that flavour of exotic overreach and amused disbelief. Aberrant would classify the inventions as departures from a norm and idiosyncratic would make them merely personal quirks, while mundane is the opposite and ominous imports a threat the passage never suggests.",
+      "id": "gregmat29__b6__cloze__05",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "The court held that the memoir's clinical account of the assault served a documentary purpose and was not calculated to gratify {1} interest, however avidly the tabloids had quoted the passage.",
+      "blanks": [
+        {
+          "options": [
+            "prurient",
+            "lewd",
+            "obscene",
+            "licentious",
+            "mundane"
+          ],
+          "answers": [
+            "prurient"
+          ]
+        }
+      ],
+      "words": [
+        "prurient"
+      ],
+      "explanation": "The blank judges the appetite of the reader being catered to, not the conduct described or the text itself, and prurient is the word for that spectator's itch. Lewd and obscene characterize material rather than interest, licentious describes a person's own dissolute behaviour, and mundane is tonally inert here.",
+      "id": "gregmat29__b6__cloze__06",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers objected that the camera lingers where the novel had merely {1}, turning an austere study of grief into an invitation to {2} spectatorship.",
+      "blanks": [
+        {
+          "options": [
+            "implied",
+            "elaborated",
+            "exaggerated"
+          ],
+          "answers": [
+            "implied"
+          ]
+        },
+        {
+          "options": [
+            "prurient",
+            "lewd",
+            "obscene"
+          ],
+          "answers": [
+            "prurient"
+          ]
+        }
+      ],
+      "words": [
+        "prurient"
+      ],
+      "explanation": "\"Lingers where the novel had merely\" sets up a contrast between showing and withholding, so only implied completes the opposition; elaborated and exaggerated would make the novel the more explicit of the two. The second blank modifies spectatorship — the watching, not the thing watched — and prurient is the term that indicts the onlooker's appetite, whereas lewd and obscene describe the material itself.",
+      "id": "gregmat29__b6__tc2__07",
+      "unit": "gregmat29__b6",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": []
+}

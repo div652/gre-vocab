@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat28__b1",
+  "gregmat_group": 28,
+  "words": [
+    "august",
+    "burnish",
+    "coy",
+    "deprecate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though its members were fond of describing themselves as an {1} body charged with the fate of the republic, the commission's minutes record little but wrangling over precedence and expenses — a legacy that no amount of retrospective {2} is likely to dignify.",
+      "blanks": [
+        {
+          "options": [
+            "august",
+            "numinous",
+            "laconic"
+          ],
+          "answers": [
+            "august"
+          ]
+        },
+        {
+          "options": [
+            "burnishing",
+            "denigration",
+            "calumny"
+          ],
+          "answers": [
+            "burnishing"
+          ]
+        }
+      ],
+      "words": [
+        "august",
+        "burnish"
+      ],
+      "explanation": "The first blank needs the word for institutional standing that the members claim for themselves and that the petty minutes undercut: august, which attaches to bodies and assemblies and turns ironic exactly here; numinous denotes divine or spiritual awe, and laconic describes terse speech, not corporate dignity. The second blank must name an act of polishing an existing reputation, since the point is that the record cannot be made to look dignified; denigration and calumny would blacken the record rather than dignify it, reversing the sentence's logic.",
+      "id": "gregmat28__b1__tc2__00",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "The memoir is less a confession than a calculated effort to {1} a legacy that two decades of litigation had left visibly dull.",
+      "blanks": [
+        {
+          "options": [
+            "burnish",
+            "polish",
+            "tarnish",
+            "debase",
+            "denigrate",
+            "tout"
+          ],
+          "answers": [
+            "burnish",
+            "polish"
+          ]
+        }
+      ],
+      "words": [
+        "burnish"
+      ],
+      "explanation": "\"Visibly dull\" plus a self-serving memoir demands a verb meaning to restore lustre to something that already exists: burnish and polish are exact equivalents in this figurative use. Tarnish, debase and denigrate all darken rather than brighten, and tout means to promote something loudly, which is advertisement rather than the quiet buffing of an existing reputation.",
+      "id": "gregmat28__b1__se__01",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "Asked directly whether the department would be shuttered, the minister was studiously {1}, allowing only that \"certain arrangements\" were under review; she then confined herself to {2} the resulting press speculation as unhelpful — a reproof far too mild to pass for a denial.",
+      "blanks": [
+        {
+          "options": [
+            "coy",
+            "diffident",
+            "brazen"
+          ],
+          "answers": [
+            "coy"
+          ]
+        },
+        {
+          "options": [
+            "deprecating",
+            "decrying",
+            "extolling"
+          ],
+          "answers": [
+            "deprecating"
+          ]
+        }
+      ],
+      "words": [
+        "coy",
+        "deprecate"
+      ],
+      "explanation": "\"Studiously\" and the teasing hint at \"certain arrangements\" mark the reticence as performed and managed, which is coy; diffident describes genuine want of confidence and cannot be studied, and brazen is its opposite. The second blank is governed by \"confined herself to\" and \"far too mild\": deprecating is cool, measured disapproval, whereas decrying is vehement public denunciation and extolling would be praise.",
+      "id": "gregmat28__b1__tc2__02",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "For all his willingness to expound on method, the biographer remained {1} about his sources, dangling references to a cache of letters he then declined to describe.",
+      "blanks": [
+        {
+          "options": [
+            "coy",
+            "cagey",
+            "candid",
+            "forthcoming",
+            "taciturn",
+            "brazen"
+          ],
+          "answers": [
+            "coy",
+            "cagey"
+          ]
+        }
+      ],
+      "words": [
+        "coy"
+      ],
+      "explanation": "He talks freely but withholds the good part while making sure his audience notices the withholding, which is precisely coy or cagey. Candid and forthcoming reverse the meaning; taciturn would describe a man of few words, contradicting his readiness to expound; brazen describes shameless boldness rather than teasing evasion.",
+      "id": "gregmat28__b1__se__03",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "Founded before the republic itself and still convening in rooms hung with the portraits of its first officers, the society had acquired by the 1890s an {1} character that no mere record of recent achievement could have conferred.",
+      "blanks": [
+        {
+          "options": [
+            "august",
+            "redoubtable",
+            "estimable",
+            "magisterial",
+            "meretricious"
+          ],
+          "answers": [
+            "august"
+          ]
+        }
+      ],
+      "words": [
+        "august"
+      ],
+      "explanation": "The reverence here derives entirely from age, lineage and continuity — the clause explicitly rules out achievement as its source — and august is the word whose dignity comes from standing rather than merit. Redoubtable and estimable both credit demonstrated ability or worth, and magisterial implies commanding authority in performance; meretricious means showily false.",
+      "id": "gregmat28__b1__cloze__04",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "cloze",
+      "stem": "The maintainers did not delete the old interface outright; they merely {1} it, so that existing programs continued to run while new code was officially steered elsewhere.",
+      "blanks": [
+        {
+          "options": [
+            "deprecated",
+            "denigrated",
+            "delineated",
+            "censured",
+            "jettisoned"
+          ],
+          "answers": [
+            "deprecated"
+          ]
+        }
+      ],
+      "words": [
+        "deprecate"
+      ],
+      "explanation": "Marking something as still functional but officially discouraged and headed for removal is the technical sense of deprecate. Denigrate means to attack a reputation and delineate to describe in outline; censure is a formal reprimand aimed at persons or conduct; jettisoned contradicts \"did not delete outright.\"",
+      "id": "gregmat28__b1__cloze__05",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "His handlers hoped that the gala, with its parade of loyal former colleagues, would {1} a reputation dimmed by a decade of small scandals; the editorial pages, however, {2} the whole exercise in dry, unhurried prose as unseemly and refused to play along.",
+      "blanks": [
+        {
+          "options": [
+            "burnish",
+            "tarnish",
+            "adulterate"
+          ],
+          "answers": [
+            "burnish"
+          ]
+        },
+        {
+          "options": [
+            "deprecated",
+            "lionized",
+            "venerated"
+          ],
+          "answers": [
+            "deprecated"
+          ]
+        }
+      ],
+      "words": [
+        "burnish",
+        "deprecate"
+      ],
+      "explanation": "The handlers' aim is cosmetic restoration of an existing but dimmed reputation, which is to burnish it; tarnish and adulterate would degrade the thing they are trying to save. The second blank must express disapproval consistent with \"refused to play along\" and with \"dry, unhurried prose\" — the measured censure of a leading article, i.e. deprecated — whereas lionized and venerated are forms of praise.",
+      "id": "gregmat28__b1__tc2__06",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "The trust's headquarters, an {1} pile of blackened stone that had housed the same family firm since 1804, seemed contrived to make petitioners feel their own smallness.",
+      "blanks": [
+        {
+          "options": [
+            "august",
+            "venerable",
+            "garish",
+            "numinous",
+            "redoubtable",
+            "ostentatious"
+          ],
+          "answers": [
+            "august",
+            "venerable"
+          ]
+        }
+      ],
+      "words": [
+        "august"
+      ],
+      "explanation": "Age, continuity and inherited dignity are the source of the building's power over visitors, and august and venerable both name reverence earned by long standing. Garish and ostentatious impute vulgar display rather than dignity, numinous suggests the presence of the divine, and redoubtable casts the building as an adversary to be feared rather than an institution to be revered.",
+      "id": "gregmat28__b1__se__07",
+      "unit": "gregmat28__b1",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": []
+}

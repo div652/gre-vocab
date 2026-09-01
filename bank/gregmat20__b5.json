@@ -1,0 +1,250 @@
+{
+  "unit": "gregmat20__b5",
+  "gregmat_group": 20,
+  "words": [
+    "prowess",
+    "schism",
+    "slander",
+    "stalwart"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Contemporaries who despised Wallenstein still described his military {1} in near-heroic terms, even as they dismissed him as a {2} in matters of statecraft, forever meddling in negotiations he had not troubled to understand.",
+      "blanks": [
+        {
+          "options": [
+            "prowess",
+            "competence",
+            "facility"
+          ],
+          "answers": [
+            "prowess"
+          ]
+        },
+        {
+          "options": [
+            "dilettante",
+            "connoisseur",
+            "adept"
+          ],
+          "answers": [
+            "dilettante"
+          ]
+        }
+      ],
+      "words": [
+        "prowess"
+      ],
+      "explanation": "\"Near-heroic terms\" from men who hated him demands a word that admires and is bolted to a domain, which is prowess; competence is faint praise and would contradict the heroic register, and facility denotes easy fluency rather than displayed valor. In the second blank, someone who meddles in work he has not bothered to master is a dilettante, a dabbler, whereas a connoisseur or an adept would possess exactly the mastery the clause denies him.",
+      "id": "gregmat20__b5__tc2__00",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "The chronicle passes over Richard's disastrous statecraft in near silence and dwells instead on his {1} at Arsuf, where he is said to have broken a Saracen line single-handed.",
+      "blanks": [
+        {
+          "options": [
+            "prowess",
+            "fortitude",
+            "competence",
+            "perseverance",
+            "temerity"
+          ],
+          "answers": [
+            "prowess"
+          ]
+        }
+      ],
+      "words": [
+        "prowess"
+      ],
+      "explanation": "The sentence celebrates a spectacular martial feat before an admiring audience, which is the original heroic sense of prowess: bravery and skill in battle. Fortitude and perseverance describe endurance of hardship over time rather than a single displayed deed, competence is too flat for a chronicler's praise, and temerity would condemn the charge as reckless rather than glorify it.",
+      "id": "gregmat20__b5__cloze__01",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Whether the party's {1} mood in the 1890s, with cliques denouncing one another in the press and rival slates at every congress, caused the {2} of 1903 or merely rehearsed it, no historian disputes that by 1904 there stood two organizations where there had been one, each claiming to be the authentic movement.",
+      "blanks": [
+        {
+          "options": [
+            "factious",
+            "mercurial",
+            "callow"
+          ],
+          "answers": [
+            "factious"
+          ]
+        },
+        {
+          "options": [
+            "schism",
+            "dichotomy",
+            "strife"
+          ],
+          "answers": [
+            "schism"
+          ]
+        }
+      ],
+      "words": [
+        "schism"
+      ],
+      "explanation": "Rival cliques and competing slates describe a body riddled with internal parties, which is precisely factious; mercurial would say the mood changed unpredictably and callow would say it was immature, neither of which the evidence supports. The second blank must name a completed, formal break leaving two rival bodies, so schism is required: strife is ongoing conflict within one body, and a dichotomy is an abstract division of a concept, not an institutional rupture.",
+      "id": "gregmat20__b5__tc2__02",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "What the encyclical delicately terms a {1} began as a quarrel over the wording of a single clause and ended with two hierarchies, each excommunicating the other and each insisting it alone was the true church.",
+      "blanks": [
+        {
+          "options": [
+            "schism",
+            "dichotomy",
+            "strife",
+            "apostasy",
+            "calumny"
+          ],
+          "answers": [
+            "schism"
+          ]
+        }
+      ],
+      "words": [
+        "schism"
+      ],
+      "explanation": "Two rival hierarchies where there was one, each claiming legitimacy over a point of doctrine, is the defining picture of a schism. Apostasy is the abandonment of the faith by an individual rather than a split of the body into halves, strife names the quarrelling without the structural break, a dichotomy is a conceptual division, and calumny concerns reputation, not organization.",
+      "id": "gregmat20__b5__cloze__03",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "The senator's claim that his rival had pocketed contractors' money, repeated at rally after rally but never once committed to print, was {1} of a kind the courts have long held actionable.",
+      "blanks": [
+        {
+          "options": [
+            "slander",
+            "calumny",
+            "libel",
+            "invective",
+            "hyperbole",
+            "censure"
+          ],
+          "answers": [
+            "slander",
+            "calumny"
+          ]
+        }
+      ],
+      "words": [
+        "slander"
+      ],
+      "explanation": "Slander and calumny both name a false statement of fact that damages a reputation, and in a spoken, unprinted setting they are interchangeable here. Libel is excluded by the explicit detail that nothing was printed; invective is abuse rather than a factual allegation, hyperbole would make the claim mere exaggeration, and censure is formal disapproval, which no one could be sued for uttering.",
+      "id": "gregmat20__b5__se__04",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "A {1} of the movement for thirty unglamorous years, Hoban was destroyed in a fortnight by a rumour no editor dared publish: {2} passed from mouth to mouth in conference corridors, alleging thefts that the audited accounts show never occurred.",
+      "blanks": [
+        {
+          "options": [
+            "stalwart",
+            "neophyte",
+            "dilettante"
+          ],
+          "answers": [
+            "stalwart"
+          ]
+        },
+        {
+          "options": [
+            "slander",
+            "libel",
+            "invective"
+          ],
+          "answers": [
+            "slander"
+          ]
+        }
+      ],
+      "words": [
+        "stalwart",
+        "slander"
+      ],
+      "explanation": "Thirty years of unglamorous service to one cause identifies the long-serving dependable member, a stalwart, whereas a neophyte has just arrived and a dilettante would never do the drudgery. The second blank must be spoken and falsely factual: the claims travelled by mouth and never reached print, which rules out libel, and they allege specific thefts disproved by the accounts, which is more than invective's abuse.",
+      "id": "gregmat20__b5__tc2__05",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Through three failed strikes and a decade of hostile legislation, Brennan remained the union's most {1} ally in Parliament, voting with it even when doing so cost him his place on the front bench.",
+      "blanks": [
+        {
+          "options": [
+            "stalwart",
+            "steadfast",
+            "indefatigable",
+            "irresolute",
+            "mercurial",
+            "callow"
+          ],
+          "answers": [
+            "stalwart",
+            "steadfast"
+          ]
+        }
+      ],
+      "words": [
+        "stalwart"
+      ],
+      "explanation": "The sentence praises loyalty maintained over years at personal cost, so stalwart and steadfast are equivalent here, both meaning dependable and immovable in support. Indefatigable would praise tirelessness rather than constancy and pairs with no other option; irresolute and mercurial assert the opposite of loyalty, and callow contradicts the decade of service.",
+      "id": "gregmat20__b5__se__06",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "After forty seasons of keeping the books, chalking the lines and never once seeking the podium, Dyer was the sort of unglamorous {1} without whom small clubs quietly fold.",
+      "blanks": [
+        {
+          "options": [
+            "stalwart",
+            "fledgling",
+            "dilettante",
+            "virtuoso",
+            "connoisseur"
+          ],
+          "answers": [
+            "stalwart"
+          ]
+        }
+      ],
+      "words": [
+        "stalwart"
+      ],
+      "explanation": "As a noun, stalwart names exactly this figure: the long-serving, reliable member who does the thankless work year after year. A fledgling is new, a dilettante dabbles without commitment, and virtuoso and connoisseur both point to brilliance or refined taste, which the sentence explicitly disclaims with \"unglamorous\" and \"never once seeking the podium.\"",
+      "id": "gregmat20__b5__cloze__07",
+      "unit": "gregmat20__b5",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": []
+}

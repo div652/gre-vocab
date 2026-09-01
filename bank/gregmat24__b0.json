@@ -1,0 +1,209 @@
+{
+  "unit": "gregmat24__b0",
+  "gregmat_group": 24,
+  "words": [
+    "assail",
+    "benevolent",
+    "berate",
+    "buoyant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The colonial administration styled itself {1} — a guardian acting on behalf of peoples it judged unready to govern themselves — but nationalist pamphleteers {2} that self-portrait for three decades, hammering at it issue after issue until the phrase could not be printed without irony.",
+      "blanks": [
+        {
+          "options": [
+            "benevolent",
+            "malevolent",
+            "obdurate"
+          ],
+          "answers": [
+            "benevolent"
+          ]
+        },
+        {
+          "options": [
+            "assailed",
+            "buttressed",
+            "berated"
+          ],
+          "answers": [
+            "assailed"
+          ]
+        }
+      ],
+      "words": [
+        "benevolent",
+        "assail"
+      ],
+      "explanation": "The appositive defines a self-image of kindly guardianship exercised from above, which is precisely benevolent; malevolent and obdurate would make the administration's own flattering self-description incoherent. In the second blank, buttressed reverses the logic signaled by 'until the phrase could not be printed without irony,' and berated is wrong because one berates a person at length, not a 'self-portrait' — assail is the verb of repeated blows delivered against a claim or position.",
+      "id": "gregmat24__b0__tc2__00",
+      "unit": "gregmat24__b0",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "The manager's habit of {1} his players from the touchline — ten-minute tirades over a single misplaced pass — might have broken a lesser squad, but this one proved unaccountably {2}: it lost the match and not, as everyone had predicted, the season.",
+      "blanks": [
+        {
+          "options": [
+            "berating",
+            "admonishing",
+            "cajoling"
+          ],
+          "answers": [
+            "berating"
+          ]
+        },
+        {
+          "options": [
+            "buoyant",
+            "ebullient",
+            "morose"
+          ],
+          "answers": [
+            "buoyant"
+          ]
+        }
+      ],
+      "words": [
+        "berate",
+        "buoyant"
+      ],
+      "explanation": "'Ten-minute tirades' supplies both the duration and the volume that distinguish berating from admonishing, which is a brief and comparatively gentle warning, and from cajoling, which coaxes rather than scolds. The second blank describes spirits that should have sunk under pressure and did not, which is buoyant; ebullient names visible bubbling-over high spirits, inappropriate to a team that has just lost, and morose contradicts 'unaccountably.'",
+      "id": "gregmat24__b0__tc2__01",
+      "unit": "gregmat24__b0",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "When the commission's final report appeared, epidemiologists {1} its central table, publishing objection after objection in the journals until the authors quietly withdrew it.",
+      "blanks": [
+        {
+          "options": [
+            "assailed",
+            "lambasted",
+            "corroborated",
+            "buttressed",
+            "appraised",
+            "inundated"
+          ],
+          "answers": [
+            "assailed",
+            "lambasted"
+          ]
+        }
+      ],
+      "words": [
+        "assail"
+      ],
+      "explanation": "'Objection after objection' until a withdrawal requires sustained hostile attack, which assailed and lambasted both supply. Corroborated and buttressed would have the critics supporting the very table they destroyed, appraised is neutral evaluation rather than attack, and inundated takes the recipient of a flood ('inundated the authors with objections'), not the document itself.",
+      "id": "gregmat24__b0__se__02",
+      "unit": "gregmat24__b0",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Six months of strikes and a currency crisis should have flattened household spending, yet retail figures for the quarter were surprisingly {1}, with volumes up in every region.",
+      "blanks": [
+        {
+          "options": [
+            "buoyant",
+            "ebullient",
+            "sanguine",
+            "volatile",
+            "munificent"
+          ],
+          "answers": [
+            "buoyant"
+          ]
+        }
+      ],
+      "words": [
+        "buoyant"
+      ],
+      "explanation": "Buoyant is the standard term for demand or a market that stays high despite downward pressure, and the sentence supplies exactly that pressure. Sanguine describes a person's optimism, not measured volumes; ebullient names exuberant human spirits; volatile would predict swings rather than uniform gains; munificent concerns generosity in giving.",
+      "id": "gregmat24__b0__cloze__05",
+      "unit": "gregmat24__b0",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "In the months before the launch the chief engineer was {1} by doubts that arrived singly and relentlessly — one new failure mode each night, until sleep gave way to calculation.",
+      "blanks": [
+        {
+          "options": [
+            "assailed",
+            "inundated",
+            "undermined",
+            "harangued",
+            "placated"
+          ],
+          "answers": [
+            "assailed"
+          ]
+        }
+      ],
+      "words": [
+        "assail"
+      ],
+      "explanation": "Assailed is the idiomatic verb for doubts attacking from within, and 'singly and relentlessly' describes blow after blow rather than a single deluge, which is what inundated would require. Harangued needs a haranguing speaker, undermined would describe the erosion of his authority or argument rather than his state of mind, and placated reverses the sense.",
+      "id": "gregmat24__b0__cloze__06",
+      "unit": "gregmat24__b0",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "{1} for months by creditors, lawsuits, and the defection of his own partners, Barnum nevertheless remained improbably {2}, opening a new hall within the year and assuring the press that bankruptcy had merely cleared his desk.",
+      "blanks": [
+        {
+          "options": [
+            "Assailed",
+            "Berated",
+            "Bolstered"
+          ],
+          "answers": [
+            "Assailed"
+          ]
+        },
+        {
+          "options": [
+            "buoyant",
+            "crestfallen",
+            "obdurate"
+          ],
+          "answers": [
+            "buoyant"
+          ]
+        }
+      ],
+      "words": [
+        "assail",
+        "buoyant"
+      ],
+      "explanation": "Berated is tempting because creditors can scold, but lawsuits and a defection cannot speak; assailed accommodates impersonal agents delivering repeated blows, and bolstered contradicts the concessive 'nevertheless.' The second blank names spirits that survived exactly that battering, which is buoyant — crestfallen reverses it, and obdurate describes stubbornness rather than the cheerfulness implied by the quip to the press.",
+      "id": "gregmat24__b0__tc2__07",
+      "unit": "gregmat24__b0",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option list contains an overcrowded synonym field: benevolent, benign, and beneficent all denote \"kindly / good-doing,\" and beneficent + munificent form a second self-consistent pair meaning \"lavishly generous.\" Because the sentence explicitly marks the image as cultivated (i.e. false), an image of active generosity contradicted by shrinking disbursements is fully coherent — \"projected a munificent image even as he gave less each year.\" The only discriminator is the appositive (\"wished every applicant well\" = disposition, not action), which is too fine a hinge to carry the item. A test-taker choosing benevolent + beneficent, or beneficent + munificent, is making a defensible lexical judgment and would be marked wrong. Fix by removing beneficent or munificent in favor of a clear non-fit, or by sharpening the gloss to stress words-without-money.",
+      "stem": "The foundation's chairman cultivated a {1} public image — the smiling patron who wished every applicant well — even as the endowment's actual disbursements shrank year after year."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"chastising\" also fits. The sentence itself supplies the volume (\"at full volume\") and the duration (\"two unbroken minutes\"), so the blank doesn't need a verb that inherently means angry-and-at-length — any severe-scolding verb slots in. \"Chastising the linesman at full volume for two unbroken minutes\" is idiomatic and semantically consistent, so a reasonable test-taker could choose it and be marked wrong. Berating is the better/intended answer (it natively means to scold angrily at length, vs. admonish = mild warning, reproach = disappointed rebuke, censure = formal condemnation), but it is not uniquely defensible against chastising. Fix by replacing \"chastising\" with a clearly mild or formal option, or by removing the explicit intensity/duration cues so the verb must carry them.",
+      "stem": "Newsreel footage shows the manager {1} the linesman at full volume for two unbroken minutes, a display that cost him more in dignity than the disputed goal ever could have."
+    }
+  ]
+}

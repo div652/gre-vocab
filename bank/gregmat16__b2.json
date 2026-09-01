@@ -1,0 +1,231 @@
+{
+  "unit": "gregmat16__b2",
+  "gregmat_group": 16,
+  "words": [
+    "feckless",
+    "fester",
+    "iconoclastic",
+    "immure"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "No one doubted the minister's intelligence, his energy, or his mastery of the brief — he rose early and produced memoranda by the ream — but four years in office had yielded not one completed reform, and even his allies had begun to call him {1}.",
+      "blanks": [
+        {
+          "options": [
+            "feckless",
+            "ineffectual",
+            "indolent",
+            "dilatory",
+            "inept",
+            "dogged"
+          ],
+          "answers": [
+            "feckless",
+            "ineffectual"
+          ]
+        }
+      ],
+      "words": [
+        "feckless"
+      ],
+      "explanation": "Feckless and ineffectual both name the same verdict — much motion, nothing accomplished — and produce equivalent sentences. Indolent and dilatory form the tempting false pair, but both accuse him of laziness or delay, which the early rising and reams of memoranda explicitly rule out; inept is excluded by the conceded mastery of the brief, since feckless is a charge about results, not about competence.",
+      "id": "gregmat16__b2__se__01",
+      "unit": "gregmat16__b2",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission's findings were {1} rather than debated, and the resentments it had so carefully documented were left to {2}, turning septic in a way that no later concession could drain.",
+      "blanks": [
+        {
+          "options": [
+            "shelved",
+            "publicized",
+            "disputed"
+          ],
+          "answers": [
+            "shelved"
+          ]
+        },
+        {
+          "options": [
+            "fester",
+            "dissipate",
+            "ossify"
+          ],
+          "answers": [
+            "fester"
+          ]
+        }
+      ],
+      "words": [
+        "fester"
+      ],
+      "explanation": "\"Rather than debated\" excludes disputed as a near-repetition and publicized as the opposite of burial, leaving shelved — the neglect that the second blank requires as its cause. Fester is the only verb whose whole mechanism is time plus inattention, and the septic imagery confirms it: ossify would mean the grievance merely hardened, and dissipate reverses the sentence.",
+      "id": "gregmat16__b2__tc2__02",
+      "unit": "gregmat16__b2",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Management's refusal to acknowledge the closure plan for eighteen months did nothing to reconcile the crew to it; the silence merely gave the grievance time to {1}.",
+      "blanks": [
+        {
+          "options": [
+            "fester",
+            "rankle",
+            "dissipate",
+            "abate",
+            "ossify",
+            "proliferate"
+          ],
+          "answers": [
+            "fester",
+            "rankle"
+          ]
+        }
+      ],
+      "words": [
+        "fester"
+      ],
+      "explanation": "Fester and rankle both describe a wrong that grows more poisonous the longer it goes unaddressed, so either yields the same sentence. Dissipate and abate are the plausible-looking false pair, but they would make the eighteen months of silence a success rather than a failure; ossify says the grievance grew rigid, not septic, and proliferate would mean the grievance multiplied rather than deepened.",
+      "id": "gregmat16__b2__se__03",
+      "unit": "gregmat16__b2",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers who had dismissed her early essays as merely {1} — contrarianism practiced for its own sake — conceded that the new book was genuinely {2}, since it dismantled the founding assumption on which the entire discipline had been built.",
+      "blanks": [
+        {
+          "options": [
+            "perverse",
+            "derivative",
+            "deferential"
+          ],
+          "answers": [
+            "perverse"
+          ]
+        },
+        {
+          "options": [
+            "iconoclastic",
+            "hidebound",
+            "doctrinaire"
+          ],
+          "answers": [
+            "iconoclastic"
+          ]
+        }
+      ],
+      "words": [
+        "iconoclastic"
+      ],
+      "explanation": "The appositive defines the first blank as reflexive contrarianism, which perverse captures and derivative (secondhand) and deferential (respectful) contradict. The second blank must mark the upgrade from cheap contrarianism to demolition worth taking seriously, and only iconoclastic carries both the scale — a discipline's founding assumption — and the admiration; hidebound and doctrinaire describe the orthodoxy she attacked, not her attack.",
+      "id": "gregmat16__b2__tc2__04",
+      "unit": "gregmat16__b2",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "Nothing was sacred to the younger historians — the founders' reputations, the received periodization, even the authority of the archive itself were all treated as fair game — and their {1} manner delighted as many readers as it appalled.",
+      "blanks": [
+        {
+          "options": [
+            "iconoclastic",
+            "irreverent",
+            "staid",
+            "hidebound",
+            "derivative",
+            "doctrinaire"
+          ],
+          "answers": [
+            "iconoclastic",
+            "irreverent"
+          ]
+        }
+      ],
+      "words": [
+        "iconoclastic"
+      ],
+      "explanation": "Given \"nothing was sacred\" and \"fair game,\" iconoclastic and irreverent both name a refusal to treat revered things as untouchable, and the two sentences mean the same. Staid and hidebound are the trap pair — they fit the tone of a historical profession but reverse the sense, describing exactly the reverence being flouted; doctrinaire and derivative accuse the historians of rigidity and unoriginality, neither of which would delight or appall anyone.",
+      "id": "gregmat16__b2__se__05",
+      "unit": "gregmat16__b2",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Having published nothing for eleven years, Ferguson had of his own accord {1} himself in the seminary library, emerging only for meals and returning even his sister's letters unopened.",
+      "blanks": [
+        {
+          "options": [
+            "immured",
+            "manacled",
+            "banished",
+            "circumscribed",
+            "relegated"
+          ],
+          "answers": [
+            "immured"
+          ]
+        }
+      ],
+      "words": [
+        "immure"
+      ],
+      "explanation": "Immure is the one word here that a person can do to himself and that means sealing oneself within walls, which is exactly the scholar's voluntary cloister. Banished and relegated require an external authority and would contradict \"of his own accord\"; circumscribed would only limit his movements rather than shut him in, and manacled substitutes irons for masonry.",
+      "id": "gregmat16__b2__cloze__06",
+      "unit": "gregmat16__b2",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "What the abbey's rule imposed went well beyond {1}: the sisters were {2}, sealed behind stone whose only breach was the grated turn through which their food was passed.",
+      "blanks": [
+        {
+          "options": [
+            "circumscription",
+            "veneration",
+            "emulation"
+          ],
+          "answers": [
+            "circumscription"
+          ]
+        },
+        {
+          "options": [
+            "immured",
+            "quarantined",
+            "alienated"
+          ],
+          "answers": [
+            "immured"
+          ]
+        }
+      ],
+      "words": [
+        "immure"
+      ],
+      "explanation": "\"Went well beyond\" demands that the first blank name a milder degree of the same thing — restriction of movement, or circumscription — so that the second blank can supply the extreme; veneration and emulation are not confinements at all. Immured is the masonry word the stone and the sealed breach require, whereas quarantine is a temporary medical procedure and alienated describes estrangement of feeling rather than enclosure.",
+      "id": "gregmat16__b2__tc2__07",
+      "unit": "gregmat16__b2",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is well controlled: \"could not fairly be called idle... yet\" rules out \"indolent\" (a synonym of idle) and \"sedulous\" (no contrast with \"not idle\"), leaving \"feckless\" — busy but ineffectual. Blank {1}, however, is not uniquely determined. \"Nothing whatever\" is the tightest fit, but \"several bitter quarrels\" also genuinely supports \"feckless\": thirty years of frantic scheming that produced only strife and no improvement to the estate is exactly the picture of an energetic but ineffectual man. Nothing else in the sentence excludes conflict as the outcome, so a reasonable test-taker could pick \"several bitter quarrels\" with \"feckless\" and be marked wrong. To repair, make the first blank's support explicit (e.g. add \"not one of them completed\" or otherwise signal total absence of results rather than merely worthless results).",
+      "stem": "Rising before dawn and forever drafting new schemes for the improvement of the estate, the young baronet could not fairly be called idle; yet his biographer, surveying thirty years that yielded {1}, judges him {2} all the same."
+    }
+  ]
+}

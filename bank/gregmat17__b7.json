@@ -1,0 +1,134 @@
+{
+  "unit": "gregmat17__b7",
+  "gregmat_group": 17,
+  "words": [
+    "upbraid",
+    "vexation"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Adams's letters to his son shift register without warning: pages of querulous {1} about trifling household expenses he was powerless to correct from three thousand miles away give way, abruptly, to a paragraph in which he {2} the young man — not by raising his voice, but by naming the moral lapse itself and anatomizing it in unsparing detail.",
+      "blanks": [
+        {
+          "options": [
+            "vexation",
+            "ire",
+            "approbation"
+          ],
+          "answers": [
+            "vexation"
+          ]
+        },
+        {
+          "options": [
+            "berates",
+            "upbraids",
+            "chides"
+          ],
+          "answers": [
+            "upbraids"
+          ]
+        }
+      ],
+      "words": [
+        "vexation",
+        "upbraid"
+      ],
+      "explanation": "Blank 1 needs the low-grade, helpless annoyance of a man stuck with petty obstacles he cannot remove — vexation; ire is hot outward fury, which fits neither \"querulous\" nor \"trifling,\" and approbation is praise. Blank 2 is fixed by the two contrasts the sentence draws: the fault is explicitly named and dissected, which rules out berates (vehemence and volume, never a specified charge, and expressly excluded by \"not by raising his voice\"), and the tone is unsparing moral reproach, which rules out chides (mild, almost affectionate).",
+      "id": "gregmat17__b7__tc2__00",
+      "unit": "gregmat17__b7",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Far from erupting, Gibbon in his preface calmly and point by point {1} the reviewers for the very negligence with which they had charged him, quoting their own careless footnotes back at them.",
+      "blanks": [
+        {
+          "options": [
+            "upbraids",
+            "reproaches",
+            "berates",
+            "lambastes",
+            "absolves",
+            "lampoons"
+          ],
+          "answers": [
+            "upbraids",
+            "reproaches"
+          ]
+        }
+      ],
+      "words": [
+        "upbraid"
+      ],
+      "explanation": "Upbraids and reproaches both mean to charge someone directly with a named fault, and both tolerate the cold, itemized delivery the sentence describes. Berates and lambastes would form a pair of their own, but each denotes vehement, loud abuse and is excluded by \"far from erupting\" and \"calmly\"; absolves reverses the sense, and lampoons substitutes ridicule for reproach.",
+      "id": "gregmat17__b7__se__01",
+      "unit": "gregmat17__b7",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "The barnacle monographs became for Darwin a standing {1}: eight years of dissection that he could neither bring himself to abandon nor manage to finish, and that he mentioned in letters only to grumble at the hours it stole from the species question.",
+      "blanks": [
+        {
+          "options": [
+            "vexation",
+            "ire",
+            "tirade",
+            "objurgation",
+            "approbation"
+          ],
+          "answers": [
+            "vexation"
+          ]
+        }
+      ],
+      "words": [
+        "vexation"
+      ],
+      "explanation": "The blank names a persistent, low-grade irritant that the sufferer is powerless to be rid of — precisely vexation, which can denote either the feeling or the thing causing it. Ire would demand a flash of hot anger rather than eight years of grumbling; tirade and objurgation are scoldings delivered at someone, not annoyances endured, and approbation is approval.",
+      "id": "gregmat17__b7__cloze__02",
+      "unit": "gregmat17__b7",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "The Board's permitting rules were not so much oppressive as {1} — a thicket of small, unappealable, endlessly repeated requirements — and they accordingly provoked in applicants far less indignation than a slow, grinding {2}.",
+      "blanks": [
+        {
+          "options": [
+            "irksome",
+            "onerous",
+            "estimable"
+          ],
+          "answers": [
+            "irksome"
+          ]
+        },
+        {
+          "options": [
+            "ire",
+            "vexation",
+            "acclaim"
+          ],
+          "answers": [
+            "vexation"
+          ]
+        }
+      ],
+      "words": [
+        "vexation"
+      ],
+      "explanation": "\"Not so much oppressive as\" demands a contrast with heavy tyranny, so the rules must be petty and wearing rather than crushing: irksome, not onerous (which is simply another word for burdensome and so restates what is being denied) and not estimable (praise). The second blank is governed by \"far less indignation than,\" which excludes ire — ire is indignation at full heat — leaving vexation, the low-grade, helpless annoyance appropriate to obstacles too small to fight and too many to escape.",
+      "id": "gregmat17__b7__tc2__03",
+      "unit": "gregmat17__b7",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": []
+}

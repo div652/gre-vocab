@@ -1,0 +1,105 @@
+{
+  "unit": "gregmat03__b7",
+  "gregmat_group": 3,
+  "words": [
+    "prodigal",
+    "verbose"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Readers who take the epithet to connote homecoming invert the story entirely: the heir was {1} first and contrite only by necessity, since remorse — and the road back — occurred to him only after the last of the estate had been {2}.",
+      "blanks": [
+        {
+          "options": [
+            "prodigal",
+            "penitent",
+            "canny"
+          ],
+          "answers": [
+            "prodigal"
+          ]
+        },
+        {
+          "options": [
+            "squandered",
+            "retrenched",
+            "bequeathed"
+          ],
+          "answers": [
+            "squandered"
+          ]
+        }
+      ],
+      "words": [
+        "prodigal"
+      ],
+      "explanation": "The sentence is built to dismantle the parable-driven misreading: the heir's defining quality came before, and caused, his return, so blank 1 must name the wasting of the money, not the repentance that followed — which rules out penitent (and canny, the reverse). Blank 2 must describe the estate's disappearance; retrench means to cut back spending, and bequeath means to leave by will, neither of which empties a fortune through the heir's own conduct.",
+      "id": "gregmat03__b7__tc2__00",
+      "unit": "gregmat03__b7",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Whatever his severity as an examiner, Ruskin was {1} of encouragement to beginners, filling their margins with more commendation than most of them would receive in a lifetime.",
+      "blanks": [
+        {
+          "options": [
+            "prodigal",
+            "parsimonious",
+            "chary",
+            "prodigious",
+            "exorbitant"
+          ],
+          "answers": [
+            "prodigal"
+          ]
+        }
+      ],
+      "words": [
+        "prodigal"
+      ],
+      "explanation": "This is the one wholly complimentary use of the word: prodigal of X means lavishly generous with X, and only prodigal takes that idiom with of while carrying no blame here. Parsimonious and chary of both mean sparing or cautious — the opposite of filling margins with praise — and prodigious, the standard lookalike, means enormous or astonishing rather than freely given.",
+      "id": "gregmat03__b7__cloze__01",
+      "unit": "gregmat03__b7",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "The judgment's reasoning is widely admired, but even its defenders concede that the writing is {1}: a distinction Holmes would have drawn in a single sentence is here spread across nine pages of subordinate clauses and cross-references.",
+      "blanks": [
+        {
+          "options": [
+            "verbose",
+            "prolix",
+            "pithy",
+            "turgid",
+            "redundant",
+            "opaque"
+          ],
+          "answers": [
+            "verbose",
+            "prolix"
+          ]
+        }
+      ],
+      "words": [
+        "verbose"
+      ],
+      "explanation": "The colon defines the charge as sheer word count — sound reasoning delivered at nine pages' length instead of one — and verbose and prolix are the pair that means exactly that. Turgid would fault the prose for inflated grandiosity, redundant for saying the same thing twice, and opaque for being unintelligible, but the sentence concedes the reasoning is clear and admired; pithy reverses the criticism outright.",
+      "id": "gregmat03__b7__se__02",
+      "unit": "gregmat03__b7",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 has two viable answers. \"Verbose\" and \"loquacious\" both mean using too many words, and the sentence supplies no logical criterion distinguishing them — the only ground for preferring \"verbose\" is collocation (verbose applies to writing, loquacious canonically to speakers/speech). Since the buried material is prose being personified anyway (\"apparatus of qualification\"), a careful test-taker could reasonably select \"loquacious.\" Blank 2 is fine: \"pithy\" is the only concise-writer option, with \"voluble\" and \"ornate\" both pointing the wrong way. Fix by replacing \"loquacious\" with a non-wordiness distractor (e.g. \"opaque\" or \"meager\").",
+      "stem": "The findings are sound; it is their presentation that fails, for the panel has buried each conclusion beneath so {1} an apparatus of qualification that the reader must quarry for what a {2} draftsman would have set in plain view."
+    }
+  ]
+}

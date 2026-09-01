@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat04__b1",
+  "gregmat_group": 4,
+  "words": [
+    "disparate",
+    "emulate",
+    "enervate",
+    "ephemeral"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Nothing in the two composers' training was shared, and Ligeti maintained that their formal ambitions were finally {1}; the younger man nevertheless set out to {2} his elder's ferocious discipline — never the tics of his podium manner — copying scores by hand until he could work at the same pace.",
+      "blanks": [
+        {
+          "options": [
+            "disparate",
+            "analogous",
+            "derivative"
+          ],
+          "answers": [
+            "disparate"
+          ]
+        },
+        {
+          "options": [
+            "emulate",
+            "caricature",
+            "mimic"
+          ],
+          "answers": [
+            "emulate"
+          ]
+        }
+      ],
+      "words": [
+        "disparate",
+        "emulate"
+      ],
+      "explanation": "Blank 1 needs a word saying the two bodies of work are unlike in kind and so cannot be measured against each other: disparate. Analogous asserts the opposite likeness the semicolon's contrast rules out, and derivative would make the elder's influence total rather than absent. Blank 2 is fixed by \"discipline — never the tics\" and by the copying done for the copier's own advancement: emulate takes the model as a standard to reach, whereas mimic and caricature reproduce surface mannerisms for an audience.",
+      "id": "gregmat04__b1__tc2__00",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Colonial medical writers held that the delta's heat did not merely tire the newcomer but {1} him, draining the will along with the muscle; whatever vigour he had carried out from Europe was, on their account, {2} — bright through a single cold season and then simply gone.",
+      "blanks": [
+        {
+          "options": [
+            "enervated",
+            "galvanized",
+            "impaired"
+          ],
+          "answers": [
+            "enervated"
+          ]
+        },
+        {
+          "options": [
+            "ephemeral",
+            "perennial",
+            "latent"
+          ],
+          "answers": [
+            "ephemeral"
+          ]
+        }
+      ],
+      "words": [
+        "enervate",
+        "ephemeral"
+      ],
+      "explanation": "\"Not merely tire\" demands an intensified sapping of a living being's vigour and will, which is exactly enervate; impair applies to a faculty or function rather than to a man's spirit, and galvanize reverses the direction. Blank 2 must name a lifespan of one season followed by nothing: ephemeral. Perennial says the reverse, and latent would mean the vigour was present but unexpressed, not extinguished.",
+      "id": "gregmat04__b1__tc2__01",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Young officers who joined the fleet in 1806 hoped to {1} Nelson, matching and if possible surpassing a record they had memorized action by action; ten years of blockade duty off Brest left most of them {2} instead — not wounded, not defeated, merely limp, the appetite for command quietly gone.",
+      "blanks": [
+        {
+          "options": [
+            "emulate",
+            "mimic",
+            "lionize"
+          ],
+          "answers": [
+            "emulate"
+          ]
+        },
+        {
+          "options": [
+            "enervated",
+            "invigorated",
+            "exasperated"
+          ],
+          "answers": [
+            "enervated"
+          ]
+        }
+      ],
+      "words": [
+        "emulate",
+        "enervate"
+      ],
+      "explanation": "\"Matching and if possible surpassing\" is the definition of emulate; lionize would have them merely celebrating Nelson, and mimic would reduce the ambition to copying his manner. Blank 2 is constrained by \"not wounded... merely limp\": monotony has drained their will, which is enervated. Exasperated names irritation, not depletion, and invigorated contradicts the sentence.",
+      "id": "gregmat04__b1__tc2__02",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "The court poets prized the cherry over the pine for precisely the reason a forester would scorn it: its beauty was {1}, finished within the week that produced it, and therefore to their minds the truer emblem of a human life.",
+      "blanks": [
+        {
+          "options": [
+            "ephemeral",
+            "evanescent",
+            "meretricious",
+            "perennial",
+            "immutable",
+            "unassuming"
+          ],
+          "answers": [
+            "ephemeral",
+            "evanescent"
+          ]
+        }
+      ],
+      "words": [
+        "ephemeral"
+      ],
+      "explanation": "The clause \"finished within the week that produced it\" fixes the sense as lasting only a moment, and ephemeral and evanescent are interchangeable here, both carrying the admiring note the poets intend. Perennial and immutable invert the meaning, and meretricious would condemn the blossom as showily false rather than short-lived; unassuming fits the grammar but describes modesty, not duration.",
+      "id": "gregmat04__b1__se__03",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "Forty years of ceremonial idleness at Versailles had left the provincial nobility {1}: still rich and still titled, but without the appetite for the field or the estate that had once justified either.",
+      "blanks": [
+        {
+          "options": [
+            "enervated",
+            "debilitated",
+            "galvanized",
+            "invigorated",
+            "impoverished",
+            "ostracized"
+          ],
+          "answers": [
+            "enervated",
+            "debilitated"
+          ]
+        }
+      ],
+      "words": [
+        "enervate"
+      ],
+      "explanation": "Idleness and luxury are the classic agents of enervation, and the sentence supplies its symptom — vigour and will drained away — so enervated and debilitated both yield a nobility sapped of strength. Galvanized and invigorated reverse the direction, and impoverished is expressly denied by \"still rich\"; ostracized would describe exclusion by others rather than a condition produced from within.",
+      "id": "gregmat04__b1__se__04",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "Counsel's entire strategy was to convince the court that the two seizures were {1} — one a wartime requisition of shipping, the other a peacetime taking of farmland — and that a precedent settled for the first could therefore have no bearing on the second.",
+      "blanks": [
+        {
+          "options": [
+            "disparate",
+            "heterogeneous",
+            "divergent",
+            "incongruous",
+            "analogous"
+          ],
+          "answers": [
+            "disparate"
+          ]
+        }
+      ],
+      "words": [
+        "disparate"
+      ],
+      "explanation": "The argument is that the two cases differ in kind and so may not be reasoned from one to the other, which is the specific work disparate does. Heterogeneous describes a single collection mixed within itself rather than two items set side by side, and divergent implies a shared origin from which the two have drifted apart — here there is none. Incongruous would say a thing clashes with its setting, and analogous asserts the very likeness counsel is denying.",
+      "id": "gregmat04__b1__cloze__05",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "Coltrane's biographers stress that the months spent transcribing Charlie Parker were not the tribute of a fan and not a turn put on for audiences: he wanted the older man's fluency at his own disposal, and drilled twelve hours a day to {1} it.",
+      "blanks": [
+        {
+          "options": [
+            "emulate",
+            "mimic",
+            "caricature",
+            "parody",
+            "disparage"
+          ],
+          "answers": [
+            "emulate"
+          ]
+        }
+      ],
+      "words": [
+        "emulate"
+      ],
+      "explanation": "The copying is aimed at the copier's own attainment — he wants the fluency for himself — which is emulation, imitation with ambition behind it. Mimic, caricature and parody all point outward at an audience and at manner rather than achievement, and the sentence has already excluded performance; disparage reverses the attitude of admiration the passage records.",
+      "id": "gregmat04__b1__cloze__06",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "In modern protocol design the session key is deliberately {1}: generated when the exchange opens, never written to disk, and destroyed the moment the connection closes, so that a later breach of the server cannot unlock yesterday's traffic.",
+      "blanks": [
+        {
+          "options": [
+            "ephemeral",
+            "immutable",
+            "provisional",
+            "redundant",
+            "opaque"
+          ],
+          "answers": [
+            "ephemeral"
+          ]
+        }
+      ],
+      "words": [
+        "ephemeral"
+      ],
+      "explanation": "Engineering has a settled term for something short-lived by design and not to be relied on beyond its moment, and the described lifespan — created, used, destroyed — is exactly it. Provisional would imply a stopgap awaiting a permanent replacement, which no such key receives; immutable concerns whether a value can change, redundant whether it is duplicated for safety, and opaque whether its internals are visible, none of which is the property the sentence spells out.",
+      "id": "gregmat04__b1__cloze__07",
+      "unit": "gregmat04__b1",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": []
+}

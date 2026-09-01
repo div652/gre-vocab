@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat30__b4",
+  "gregmat_group": 30,
+  "words": [
+    "nominal",
+    "obdurate",
+    "obstreperous",
+    "odious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the treaty conferred on the emperor {1} authority over the province — a sovereignty that existed on parchment and nowhere else — the garrison commander's word was the only one the local magistrates felt any obligation to {2}.",
+      "blanks": [
+        {
+          "options": [
+            "nominal",
+            "perfunctory",
+            "obdurate"
+          ],
+          "answers": [
+            "nominal"
+          ]
+        },
+        {
+          "options": [
+            "heed",
+            "flout",
+            "ratify"
+          ],
+          "answers": [
+            "heed"
+          ]
+        }
+      ],
+      "words": [
+        "nominal"
+      ],
+      "explanation": "The appositive \"existed on parchment and nowhere else\" says the title is genuine while the power behind it is not, which is exactly what nominal claims: it attacks the label, not anyone's conduct. Perfunctory would condemn the way a duty is performed, but nothing here is performed half-heartedly; the authority simply has no substance. The second blank must name what magistrates do for a command they actually respect, so heed follows, while flout would contradict the contrast just established.",
+      "id": "gregmat30__b4__tc2__00",
+      "unit": "gregmat30__b4",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "The union's economists cautioned against celebrating too early: although {1} wages had risen nine percent over the contract's term, prices had climbed faster still, so the members' purchasing power had in fact fallen.",
+      "blanks": [
+        {
+          "options": [
+            "nominal",
+            "token",
+            "perfunctory",
+            "trifling",
+            "superficial"
+          ],
+          "answers": [
+            "nominal"
+          ]
+        }
+      ],
+      "words": [
+        "nominal"
+      ],
+      "explanation": "This is the technical sense — the stated, unadjusted figure, set against the \"real\" value once inflation is netted out — and only nominal carries it. Token and trifling would mean the nine-percent raise was negligible, contradicting the sentence's point that the number looks impressive and is merely misleading. Perfunctory and superficial describe how something is done or how deep it goes, not a measured quantity before adjustment.",
+      "id": "gregmat30__b4__cloze__01",
+      "unit": "gregmat30__b4",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "Shown the photographs of the flooded tenements, the landlord remained {1}; the misery was not in doubt, and neither, it became clear, was his refusal to {2}.",
+      "blanks": [
+        {
+          "options": [
+            "obdurate",
+            "obstreperous",
+            "credulous"
+          ],
+          "answers": [
+            "obdurate"
+          ]
+        },
+        {
+          "options": [
+            "relent",
+            "retaliate",
+            "dissent"
+          ],
+          "answers": [
+            "relent"
+          ]
+        }
+      ],
+      "words": [
+        "obdurate"
+      ],
+      "explanation": "\"The misery was not in doubt\" rules out any failure of perception: he sees the suffering and declines to be moved, which is precisely obdurate — a failure of will, and a condemnation rather than a report. Obstreperous would require noise and unruliness, and nothing here is loud. The second blank must name the softening he withholds, so relent fits, whereas retaliate imports an aggression the sentence never attributes to him.",
+      "id": "gregmat30__b4__tc2__03",
+      "unit": "gregmat30__b4",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "What had begun as a {1} crowd — cheerful, noisy, entirely willing to be marshalled into lines — turned {2} only after the constables started making arrests, shouting down every order and closing ranks against removal.",
+      "blanks": [
+        {
+          "options": [
+            "boisterous",
+            "obstreperous",
+            "taciturn"
+          ],
+          "answers": [
+            "boisterous"
+          ]
+        },
+        {
+          "options": [
+            "obstreperous",
+            "subdued",
+            "deferential"
+          ],
+          "answers": [
+            "obstreperous"
+          ]
+        }
+      ],
+      "words": [
+        "obstreperous"
+      ],
+      "explanation": "The two blanks split volume from defiance: the crowd is loud throughout, so what changes is the arrival of resistance to control. Boisterous is high spirits nobody minds, which is why \"entirely willing to be marshalled\" fixes the first blank; obstreperous adds the refusal to be handled that shouting down orders supplies. Subdued and deferential would erase the very change the sentence is built to describe.",
+      "id": "gregmat30__b4__tc2__04",
+      "unit": "gregmat30__b4",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "The flight crew's incident report described a passenger who had become too {1} to be managed at all — bellowing over the safety announcement, ignoring the purser, and twice refusing to return to his seat.",
+      "blanks": [
+        {
+          "options": [
+            "obstreperous",
+            "boisterous",
+            "obdurate",
+            "obsequious",
+            "taciturn"
+          ],
+          "answers": [
+            "obstreperous"
+          ]
+        }
+      ],
+      "words": [
+        "obstreperous"
+      ],
+      "explanation": "Both ingredients are present — sustained volume and open defiance of people trying to impose order — and only obstreperous requires both. Boisterous covers the noise but implies harmless exuberance, which the refusals contradict; obdurate covers the refusal but says nothing about noise and belongs to pleas for mercy, not cabin instructions. The dry, from-above register of an official report is also obstreperous's native habitat.",
+      "id": "gregmat30__b4__cloze__05",
+      "unit": "gregmat30__b4",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "The pamphlet's claim was that a statute compelling neighbours to inform upon one another is not merely impolitic but {1} — that no citizen could read its provisions without disgust.",
+      "blanks": [
+        {
+          "options": [
+            "odious",
+            "repugnant",
+            "insidious",
+            "invidious",
+            "insipid",
+            "injudicious"
+          ],
+          "answers": [
+            "odious",
+            "repugnant"
+          ]
+        }
+      ],
+      "words": [
+        "odious"
+      ],
+      "explanation": "\"Not merely impolitic\" escalates from bad policy to moral revulsion, and the disgust clause fixes the register: odious and repugnant both mean deserving of hatred, with the judgement lodged in the statute itself. Injudicious merely restates impolitic, which the sentence has explicitly moved past. Insidious would require the statute to work by stealth when it compels openly, and invidious points to resentment or unfair discrimination rather than revulsion.",
+      "id": "gregmat30__b4__se__06",
+      "unit": "gregmat30__b4",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission did not stop at calling the deportation orders unwise; it pronounced them {1}, a verdict framed to make neutrality impossible for any reader — and then, in the next paragraph, {2} the officials who had drafted them of personal blame.",
+      "blanks": [
+        {
+          "options": [
+            "odious",
+            "insidious",
+            "injudicious"
+          ],
+          "answers": [
+            "odious"
+          ]
+        },
+        {
+          "options": [
+            "absolved",
+            "indicted",
+            "apprised"
+          ],
+          "answers": [
+            "absolved"
+          ]
+        }
+      ],
+      "words": [
+        "odious"
+      ],
+      "explanation": "Odious does not merely report distaste; it declares the orders to deserve hatred and recruits the reader into that verdict, which is what \"neutrality impossible\" demands. Injudicious repeats \"unwise,\" the charge the sentence says was insufficient, and insidious would attribute concealment to orders issued openly. The second blank turns on the same distinction — the condemnation attaches to the thing, not the men — so absolved is required, while indicted would collapse the contrast the dash sets up.",
+      "id": "gregmat30__b4__tc2__07",
+      "unit": "gregmat30__b4",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option set contains three near-synonyms for \"unyielding,\" not two. \"Obdurate\" and \"implacable\" are the intended pair (both carry the sense of being unmoved by pleas or pity), but \"obstinate\" is a standard dictionary synonym of \"obdurate\" (\"stubbornly refusing to change one's opinion or course\") and fits the sentence just as well: a creditor on whom no account of hardship makes an impression can be described as remaining obstinate. The sentence gives no cue that distinguishes \"hardened against compassion\" from plain \"stubbornness\" — it only says he would not budge — so a test-taker who selects obdurate + obstinate has a defensible reading and would be marked wrong. To fix, replace \"obstinate\" with a clearly non-synonymous distractor (e.g. \"circumspect\", \"voluble\"), or add a cue that isolates the pity/appeasement sense from mere stubbornness. (\"Magnanimous\", \"tractable\", and \"perfunctory\" are clean distractors.)",
+      "stem": "Even after the lawyer produced the medical bills and the eviction notice was read aloud in open court, the creditor remained {1}: no account of the family's hardship, however particular, made the slightest impression on him."
+    }
+  ]
+}

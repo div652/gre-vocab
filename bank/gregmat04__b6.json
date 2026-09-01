@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat04__b6",
+  "gregmat_group": 4,
+  "words": [
+    "prudent",
+    "punctilious",
+    "recondite",
+    "scrupulous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Far from the {1} speculator his rivals depicted, Vanderbilt proved {2}: he had spent the boom years accumulating cash reserves against precisely the panic that swept his competitors away in 1873.",
+      "blanks": [
+        {
+          "options": [
+            "impetuous",
+            "chary",
+            "sagacious"
+          ],
+          "answers": [
+            "impetuous"
+          ]
+        },
+        {
+          "options": [
+            "prudent",
+            "headstrong",
+            "oblivious"
+          ],
+          "answers": [
+            "prudent"
+          ]
+        }
+      ],
+      "words": [
+        "prudent"
+      ],
+      "explanation": "\"Far from\" demands that the first blank name the charge being refuted and the second the reality, so blank one must mean acting without weighing consequences (impetuous) and blank two must mean having weighed them (prudent). Chary and sagacious fail in blank one because they would agree with, rather than contradict, the second clause. Prudent is exact for blank two because the reserves guard against a future cost the firm itself would have to pay.",
+      "id": "gregmat04__b6__tc2__00",
+      "unit": "gregmat04__b6",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "The commission's insistence that the utility begin setting aside decommissioning money forty years in advance was not environmental idealism but ordinary {1} finance: the liability would fall on the company itself, and it would fall all at once.",
+      "blanks": [
+        {
+          "options": [
+            "prudent",
+            "judicious",
+            "circumspect",
+            "chary",
+            "canny"
+          ],
+          "answers": [
+            "prudent"
+          ]
+        }
+      ],
+      "words": [
+        "prudent"
+      ],
+      "explanation": "Prudent is the word for provisioning against a future cost you will personally have to meet — its home ground is reserves, insurance and contingency funds. Judicious would praise the soundness of a choice among options and circumspect the survey of risks before acting, neither of which describes forty years of set-aside money; canny implies shrewd advantage-seeking, and the sentence explicitly denies that any advantage is in view.",
+      "id": "gregmat04__b6__cloze__01",
+      "unit": "gregmat04__b6",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "Though his dispatches were {1}, padded with hasty generalizations no editor could verify, Harrington was {2} in matters of protocol, never calling on a foreign minister without the correct card and the correct form of address.",
+      "blanks": [
+        {
+          "options": [
+            "cursory",
+            "exhaustive",
+            "recondite"
+          ],
+          "answers": [
+            "cursory"
+          ]
+        },
+        {
+          "options": [
+            "punctilious",
+            "lax",
+            "brazen"
+          ],
+          "answers": [
+            "punctilious"
+          ]
+        }
+      ],
+      "words": [
+        "punctilious"
+      ],
+      "explanation": "\"Though\" sets careless work against exact conduct: blank one must mean hastily and superficially done (cursory), and blank two must name exactness about correct form, which is punctilious. Exhaustive and recondite would destroy the contrast in blank one, and lax would merely repeat the carelessness in blank two; brazen describes shamelessness, not ceremony.",
+      "id": "gregmat04__b6__tc2__02",
+      "unit": "gregmat04__b6",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "cloze",
+      "stem": "A career attaché of the old school, Ferrand was {1} to a fault: he could recite the order of precedence at a state dinner, and he regarded a misdirected salutation on an envelope as an injury to the service.",
+      "blanks": [
+        {
+          "options": [
+            "punctilious",
+            "scrupulous",
+            "fastidious",
+            "pedantic",
+            "exacting"
+          ],
+          "answers": [
+            "punctilious"
+          ]
+        }
+      ],
+      "words": [
+        "punctilious"
+      ],
+      "explanation": "Precedence at dinner and the correct form of address are questions of protocol and ceremony, which is punctilious territory — exactness about correct form rather than about the quality of work. Scrupulous would point to conscience, fastidious to squeamish taste, pedantic to parading learning, and exacting to standards imposed on others, whereas Ferrand's care governs his own observance of form.",
+      "id": "gregmat04__b6__cloze__03",
+      "unit": "gregmat04__b6",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "Boas's monograph on tone sandhi is {1}: for all its acknowledged importance, it has perhaps two dozen readers alive, each of whom spent years acquiring the languages needed to follow the argument at all.",
+      "blanks": [
+        {
+          "options": [
+            "recondite",
+            "abstruse",
+            "lucid",
+            "convoluted",
+            "cursory",
+            "tendentious"
+          ],
+          "answers": [
+            "recondite",
+            "abstruse"
+          ]
+        }
+      ],
+      "words": [
+        "recondite"
+      ],
+      "explanation": "The sentence attributes the book's inaccessibility to genuine depth — years of preparation are required — so recondite and abstruse, both meaning deep and difficult in a way only specialists can penetrate, yield equivalent sentences. Convoluted would blame the prose rather than the subject and pairs with nothing here; lucid reverses the sense, and cursory and tendentious describe hasty and biased treatment, which the sentence never suggests.",
+      "id": "gregmat04__b6__se__04",
+      "unit": "gregmat04__b6",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "tc2",
+      "stem": "The auditors arrived expecting the usual small {1} — rounding in the firm's favor, incidental charges quietly buried — and were disarmed to find a bookkeeper so {2} that she had reported, unprompted, an overpayment no one else would ever have caught and whose correction cost her her own commission.",
+      "blanks": [
+        {
+          "options": [
+            "chicanery",
+            "probity",
+            "effrontery"
+          ],
+          "answers": [
+            "chicanery"
+          ]
+        },
+        {
+          "options": [
+            "scrupulous",
+            "meticulous",
+            "punctilious"
+          ],
+          "answers": [
+            "scrupulous"
+          ]
+        }
+      ],
+      "words": [
+        "scrupulous"
+      ],
+      "explanation": "Blank one is defined by its own examples: quiet rounding and buried charges are petty deception, hence chicanery, not probity or the open insolence of effrontery. Blank two must explain a self-costly disclosure nobody would have detected, which is a matter of conscience rather than accuracy — meticulous would account for finding the error but not for surrendering the commission, and punctilious concerns correct form, not honesty.",
+      "id": "gregmat04__b6__tc2__06",
+      "unit": "gregmat04__b6",
+      "verified": true,
+      "gregmat_group": 4
+    },
+    {
+      "type": "se",
+      "stem": "Ellis's transcription of the shorthand diaries was so {1} that later editors, working from far better photographs and with a century of additional scholarship behind them, found almost nothing in it to correct.",
+      "blanks": [
+        {
+          "options": [
+            "scrupulous",
+            "meticulous",
+            "cursory",
+            "capricious",
+            "tendentious",
+            "laconic"
+          ],
+          "answers": [
+            "scrupulous",
+            "meticulous"
+          ]
+        }
+      ],
+      "words": [
+        "scrupulous"
+      ],
+      "explanation": "The evidence offered is near-perfect accuracy sustained over a long labor, so scrupulous and meticulous produce equivalent sentences — the latter in its plain sense of exact workmanship, the former in its extended sense of exactness owed to the text. Cursory reverses the meaning outright, while capricious, tendentious and laconic describe unpredictability, bias and terseness, none of which a correction-free transcription speaks to.",
+      "id": "gregmat04__b6__se__07",
+      "unit": "gregmat04__b6",
+      "verified": true,
+      "gregmat_group": 4
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only requires \"specializing in obscure/abstruse learning,\" and three of the five options are near-perfect synonyms for that. \"Recondite\" is the most idiomatic (\"the most recondite of scholars\"), but \"esoteric\" (mastering knowledge understood by only a few — pseudepigrapha, Syriac, Coptic) and \"arcane\" (mysterious, known to initiates) fit the first clause just as well, and the contrast clause (\"and yet he could lay it out for a first-year student\") discriminates among them not at all — it only rules out a word meaning \"clear/accessible,\" which none of them is. \"Impenetrable\" is also arguably defensible as a contrast with lucid teaching, though it strains as a description of a person rather than of prose. Only \"myopic\" is clearly wrong. A well-prepared test-taker choosing \"esoteric\" or \"arcane\" would be marked wrong for no principled reason; the sentence needs a second constraint (e.g., something about the difficulty of his own writings, or about hidden/secret vs. merely deep knowledge) to isolate one answer.",
+      "stem": "Fluent in Syriac and Coptic and thoroughly at home in the pseudepigrapha, Wilberforce was the most {1} of scholars, and yet he could lay out the tangle of manuscript filiation for a first-year student without a trace of condescension."
+    }
+  ]
+}

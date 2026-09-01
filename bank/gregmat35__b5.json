@@ -1,0 +1,258 @@
+{
+  "unit": "gregmat35__b5",
+  "gregmat_group": 35,
+  "words": [
+    "penetrating",
+    "picturesque",
+    "reflect",
+    "resourceful"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though rivals dismissed his published reviews as {1} — the work of a man who could skim a novel in an hour and file copy by evening — the private notebooks contain {2} readings that anticipate objections the novelists themselves had not yet seen.",
+      "blanks": [
+        {
+          "options": [
+            "cursory",
+            "trenchant",
+            "encyclopedic"
+          ],
+          "answers": [
+            "cursory"
+          ]
+        },
+        {
+          "options": [
+            "penetrating",
+            "glib",
+            "picturesque"
+          ],
+          "answers": [
+            "penetrating"
+          ]
+        }
+      ],
+      "words": [
+        "penetrating"
+      ],
+      "explanation": "The appositive about skimming and filing the same day fixes blank one as an accusation of haste, so only cursory works; trenchant and encyclopedic would be compliments no rival would level as dismissal. \"Though\" then forces a reversal, and the notebooks are described as reaching what the authors had not yet seen — that is penetrating, insight that breaks through to what is hidden, whereas glib names exactly the shallowness being denied.",
+      "id": "gregmat35__b5__tc2__00",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "Even under two layers of oilskin, the men working the deck found the January wind off the Grand Banks so {1} that it seemed to reach the skin unimpeded.",
+      "blanks": [
+        {
+          "options": [
+            "penetrating",
+            "keen",
+            "caustic",
+            "mordant",
+            "abrasive",
+            "astringent"
+          ],
+          "answers": [
+            "penetrating",
+            "keen"
+          ]
+        }
+      ],
+      "words": [
+        "penetrating"
+      ],
+      "explanation": "The clause \"reach the skin unimpeded\" asks for cold that gets through a barrier, which is the physical sense shared by penetrating and keen. Caustic and mordant have only figurative bite — sarcasm, not weather — and astringent belongs to taste and texture; abrasive would describe a wind that scours a surface, which is the opposite of one that passes through clothing without resistance.",
+      "id": "gregmat35__b5__se__01",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics objected that the photographs made the miners' poverty look merely {1}, an arrangement of soot and shadow to be admired from a comfortable distance, and that the accompanying essay on union politics was equally {2}.",
+      "blanks": [
+        {
+          "options": [
+            "picturesque",
+            "squalid",
+            "sublime"
+          ],
+          "answers": [
+            "picturesque"
+          ]
+        },
+        {
+          "options": [
+            "glib",
+            "exhaustive",
+            "trenchant"
+          ],
+          "answers": [
+            "glib"
+          ]
+        }
+      ],
+      "words": [
+        "picturesque"
+      ],
+      "explanation": "The appositive — something composed to be admired from a distance — supplies the barbed sense of picturesque, hardship turned into scenery; squalid is what poverty actually is, not what an admirer sees, and sublime names an awe far too large for soot and shadow. \"Equally\" then requires a second charge of surface treatment, so glib fits, while exhaustive and trenchant would credit the essay with exactly the depth the critics deny.",
+      "id": "gregmat35__b5__tc2__02",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "The guidebook lingers over the harbour's {1} disorder — crooked slate roofs, a half-ruined mill, lanes too narrow for a car — and says nothing about the collapse of the fishery that emptied the place.",
+      "blanks": [
+        {
+          "options": [
+            "picturesque",
+            "quaint",
+            "sublime",
+            "majestic",
+            "squalid",
+            "imposing"
+          ],
+          "answers": [
+            "picturesque",
+            "quaint"
+          ]
+        }
+      ],
+      "words": [
+        "picturesque"
+      ],
+      "explanation": "Crooked roofs, a ruined mill and narrow lanes are small, aged and irregular, the exact register of picturesque and quaint, which here produce the same sentence. Sublime, majestic and imposing all demand scale and awe rather than charm, and squalid would make the guidebook's lingering unaccountable.",
+      "id": "gregmat35__b5__se__03",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "The board's report named no individual, observing only that the eighteen-month delay in disclosing the losses {1} poorly on the firm's internal controls.",
+      "blanks": [
+        {
+          "options": [
+            "reflected",
+            "informed",
+            "rendered",
+            "coined",
+            "primed"
+          ],
+          "answers": [
+            "reflected"
+          ]
+        }
+      ],
+      "words": [
+        "reflect"
+      ],
+      "explanation": "The sentence describes blame arriving indirectly — no one is accused, yet discredit attaches — which is the third sense of reflect, to serve as evidence bringing credit or discredit. Informed, rendered, coined and primed are all plain verbs that do abstract work elsewhere, but none takes \"poorly on\" or conveys a verdict by ricochet.",
+      "id": "gregmat35__b5__cloze__04",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Retirement finally gave him leisure to {1} on choices he had made too quickly to examine at the time, and the memoir that came of it is {2}: it names his own miscalculations more exactly than his enemies ever managed to.",
+      "blanks": [
+        {
+          "options": [
+            "reflect",
+            "deliberate",
+            "speculate"
+          ],
+          "answers": [
+            "reflect"
+          ]
+        },
+        {
+          "options": [
+            "penetrating",
+            "picturesque",
+            "perfunctory"
+          ],
+          "answers": [
+            "penetrating"
+          ]
+        }
+      ],
+      "words": [
+        "reflect",
+        "penetrating"
+      ],
+      "explanation": "The object is a set of choices already made, so the verb must look backward and unhurriedly: that is reflect, whereas deliberate moves toward a decision still open and speculate conjectures about what is unknown rather than what one did. The second blank is fixed by the colon — a book that gets past its author's own defences to his miscalculations is penetrating, not perfunctory, and picturesque would praise vividness instead of depth.",
+      "id": "gregmat35__b5__tc2__05",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Stranded with a dead radio and no spare parts, the survey crew proved remarkably {1}: they rebuilt a working antenna from a mess-tin lid, a bunk spring, and wire stripped out of the stove.",
+      "blanks": [
+        {
+          "options": [
+            "resourceful",
+            "versatile",
+            "multifaceted",
+            "erudite",
+            "meticulous"
+          ],
+          "answers": [
+            "resourceful"
+          ]
+        }
+      ],
+      "words": [
+        "resourceful"
+      ],
+      "explanation": "The point is not how many skills the crew had but what they did once the proper means were gone, which is precisely what resourceful rates — improvisation under bad conditions. Versatile and multifaceted would report a breadth of competence the sentence never mentions, erudite concerns learning, and meticulous would praise care rather than invention.",
+      "id": "gregmat35__b5__cloze__06",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Her colleagues, who had filed her away as merely {1} — a competent hand at half a dozen unrelated jobs — revised that estimate the night a burst pipe and a failed generator revealed her to be genuinely {2}.",
+      "blanks": [
+        {
+          "options": [
+            "versatile",
+            "perspicacious",
+            "erudite"
+          ],
+          "answers": [
+            "versatile"
+          ]
+        },
+        {
+          "options": [
+            "resourceful",
+            "encyclopedic",
+            "picturesque"
+          ],
+          "answers": [
+            "resourceful"
+          ]
+        }
+      ],
+      "words": [
+        "resourceful"
+      ],
+      "explanation": "The dash defines the first blank as breadth without depth — competence at several unrelated jobs — which is versatile, not perspicacious insight or erudite learning. \"Revised that estimate\" then demands something the crisis, and only the crisis, revealed: resourceful names what she did with no parts and no warning, while encyclopedic would merely restate breadth of knowledge.",
+      "id": "gregmat35__b5__tc2__07",
+      "unit": "gregmat35__b5",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": []
+}

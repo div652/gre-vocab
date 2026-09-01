@@ -1,0 +1,201 @@
+{
+  "unit": "gregmat02__b5",
+  "gregmat_group": 2,
+  "words": [
+    "covet",
+    "craven",
+    "decorum",
+    "deft"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "By every public measure the steel magnate was {1} — two hundred endowed libraries, nine-tenths of his fortune given away before he died — and yet his letters reveal a smaller man who for thirty years {2} a rival's Vermeers and was consoled by no acquisition of his own.",
+      "blanks": [
+        {
+          "options": [
+            "munificent",
+            "mercenary",
+            "avaricious"
+          ],
+          "answers": [
+            "munificent"
+          ]
+        },
+        {
+          "options": [
+            "coveted",
+            "appraised",
+            "bequeathed"
+          ],
+          "answers": [
+            "coveted"
+          ]
+        }
+      ],
+      "words": [
+        "covet"
+      ],
+      "explanation": "The public record — libraries endowed, a fortune given away — demands munificent (lavishly generous); mercenary and avaricious would contradict the giving rather than contrast with the private failing. In the second blank, covet is the only verb for a sustained, inward craving fixed on a particular object that belongs to someone else, which is why no purchase of his own could console him; appraised merely means valued, and one cannot bequeath what one does not own.",
+      "id": "gregmat02__b5__tc2__00",
+      "unit": "gregmat02__b5",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "In the story of Naboth's vineyard the sin named is not theft but appetite: for years the king {1} a plot of ground he could see from his window, and the acres already in his possession gave him no pleasure whatever.",
+      "blanks": [
+        {
+          "options": [
+            "coveted",
+            "hoarded",
+            "appropriated",
+            "bequeathed",
+            "squandered"
+          ],
+          "answers": [
+            "coveted"
+          ]
+        }
+      ],
+      "words": [
+        "covet"
+      ],
+      "explanation": "Covet is desire aimed at one specific thing another person owns, nursed inwardly over time and never satisfied by what one already has — exactly the appetite the sentence describes. Appropriated is the closest trap, but the sentence explicitly denies that the sin is theft, and hoarded and squandered concern property already held.",
+      "id": "gregmat02__b5__cloze__01",
+      "unit": "gregmat02__b5",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Historians have been unsparing about the ministry's conduct in 1938: its {1} acquiescence to a demand it had publicly sworn to resist earned it the contempt of a generation that saw, in that surrender, only ministers anxious to save themselves.",
+      "blanks": [
+        {
+          "options": [
+            "craven",
+            "pusillanimous",
+            "timorous",
+            "diffident",
+            "irresolute",
+            "skittish"
+          ],
+          "answers": [
+            "craven",
+            "pusillanimous"
+          ]
+        }
+      ],
+      "words": [
+        "craven"
+      ],
+      "explanation": "Craven and pusillanimous both deliver a verdict of contemptible cowardice: a duty was owed, it was dropped, and self-preservation was the motive — precisely what \"sworn to resist\" and \"anxious to save themselves\" establish. Timorous, diffident and skittish describe a nervous temperament rather than a blameworthy choice, and irresolute names indecision, whereas the ministry decided quite definitely to give in.",
+      "id": "gregmat02__b5__se__02",
+      "unit": "gregmat02__b5",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers singled out the twenty-year leap at the novel's midpoint: a {1} pair of sentences that accomplishes in a breath what a lesser writer would have spent an entire chapter explaining.",
+      "blanks": [
+        {
+          "options": [
+            "deft",
+            "adroit",
+            "meticulous",
+            "audacious",
+            "cumbersome",
+            "inept"
+          ],
+          "answers": [
+            "deft",
+            "adroit"
+          ]
+        }
+      ],
+      "words": [
+        "deft"
+      ],
+      "explanation": "Deft and adroit both praise skill that uses no more effort than it needs, which is exactly the compliment implied by two sentences doing a chapter's work. Meticulous would praise painstaking care — the opposite of the economy described — and audacious would praise nerve rather than finesse; cumbersome and inept invert the sense entirely.",
+      "id": "gregmat02__b5__se__05",
+      "unit": "gregmat02__b5",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "The surgeon's reputation rested not on the difficulty of the operations she chose but on her economy: three stitches where others used ten, each placed so {1} that students in the gallery routinely failed to see it happen.",
+      "blanks": [
+        {
+          "options": [
+            "deft",
+            "meticulous",
+            "tentative",
+            "cumbersome",
+            "ostentatious"
+          ],
+          "answers": [
+            "deft"
+          ]
+        }
+      ],
+      "words": [
+        "deft"
+      ],
+      "explanation": "Deft praises lightness and speed of touch — the movement takes exactly the effort required and so looks like nothing at all, which is why the students miss it. Meticulous is the plausible near-miss, but it implies slow, painstaking care rather than economy, and a meticulous stitch would be conspicuously deliberate rather than invisible.",
+      "id": "gregmat02__b5__cloze__06",
+      "unit": "gregmat02__b5",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing about the burglary suggested opportunism: the entry was {1} — one pane cut, one case opened, nine minutes from street back to street — and the detectives concluded that the thief had {2} this one reliquary for years, since ten more valuable objects were left untouched on their shelves.",
+      "blanks": [
+        {
+          "options": [
+            "deft",
+            "cumbersome",
+            "frenzied"
+          ],
+          "answers": [
+            "deft"
+          ]
+        },
+        {
+          "options": [
+            "coveted",
+            "catalogued",
+            "pilfered"
+          ],
+          "answers": [
+            "coveted"
+          ]
+        }
+      ],
+      "words": [
+        "deft",
+        "covet"
+      ],
+      "explanation": "The itemized economy of the break-in — one pane, one case, nine minutes — calls for deft, which praises a job done with no wasted motion; cumbersome and frenzied would contradict that precision. Coveted supplies the second blank because only a long-nursed desire for one particular object already in someone else's keeping explains why richer objects were ignored; catalogued describes a survey rather than a motive, and the thief cannot have pilfered the piece before stealing it.",
+      "id": "gregmat02__b5__tc2__07",
+      "unit": "gregmat02__b5",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} is clean: \"every courtesy observed, every form of address correct\" points unambiguously to decorum (levity and acrimony both contradict the punctilious formality). Blank {2} is defective: \"mettlesome\" (spirited, bold) is the only clear distractor, leaving TWO near-synonyms for cowardice — \"craven\" and \"timorous.\" Nothing in the sentence separates them. The cue (\"gave the decree it had sworn to defeat an assent that saved every member's seat\") establishes only that the capitulation was cowardly and self-interested; both words denote fear-driven surrender. One can argue craven fits better because it carries contemptible self-serving connotation while timorous suggests mere timidity, but \"a timorous assent\" is idiomatic and fully defensible for a body too frightened to follow through on its vow — a reasonable test-taker choosing timorous would be marked wrong on a shade of connotation the sentence never constrains. Replace timorous with a word not synonymous with craven (e.g., \"punctilious\" or \"belated\") to make the blank single-answer.",
+      "stem": "The chamber preserved its {1} to the very end — every courtesy observed, every form of address correct — and then gave the emergency decree it had sworn to defeat a {2} assent that saved every member's seat and nothing else."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The blank is underdetermined: the only constraint is \"unwritten standard of conduct a formal proceeding requires,\" which decorum, propriety, and deportment all satisfy. \"Propriety\" in particular fits the frame \"the ___ that a hearing in progress demands of everyone present\" just as naturally as \"decorum,\" and \"deportment\" is defensible too; \"comity\" is a mild stretch but is aided by its legal register. Only \"candor\" is cleanly excludable. A reasonable test-taker choosing \"propriety\" would be marked wrong for no articulable reason. The sentence needs a discriminator favoring decorum's collective-atmosphere sense (e.g. the hush/solemnity of the room) over propriety's correctness-of-individual-conduct sense.",
+      "stem": "When the gallery began shouting, the judge warned that he would clear the room: what the outburst offended, he said, was no written rule of evidence but the {1} that a hearing in progress demands of everyone present."
+    }
+  ]
+}

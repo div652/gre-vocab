@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat20__b4",
+  "gregmat_group": 20,
+  "words": [
+    "nascent",
+    "perennial",
+    "pious",
+    "providential"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers who filed the genre away as {1} had the chronology exactly backwards: far from having outlived its audience, it was in those years {2}, its conventions still being improvised by writers who had no models to imitate.",
+      "blanks": [
+        {
+          "options": [
+            "obsolete",
+            "embryonic",
+            "perennial"
+          ],
+          "answers": [
+            "obsolete"
+          ]
+        },
+        {
+          "options": [
+            "nascent",
+            "vestigial",
+            "moribund"
+          ],
+          "answers": [
+            "nascent"
+          ]
+        }
+      ],
+      "words": [
+        "nascent"
+      ],
+      "explanation": "\"Far from having outlived its audience\" tells you the reviewers' charge was that the genre was past its time, so the first blank must be obsolete; \"conventions still being improvised\" places the genre at its moment of coming into being, which is exactly what nascent claims. Vestigial and moribund, like obsolete, describe a late or residual stage, and embryonic would make the reviewers agree with the writer rather than be corrected by him.",
+      "id": "gregmat20__b4__tc2__00",
+      "unit": "gregmat20__b4",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Writing in 1948, the economist treated the country's {1} electronics sector with a caution he never extended to its long-established shipyards, observing that firms less than three years old rarely survive their first downturn.",
+      "blanks": [
+        {
+          "options": [
+            "nascent",
+            "fledgling",
+            "entrenched",
+            "obsolete",
+            "vestigial",
+            "perennial"
+          ],
+          "answers": [
+            "nascent",
+            "fledgling"
+          ]
+        }
+      ],
+      "words": [
+        "nascent"
+      ],
+      "explanation": "The contrast with \"long-established\" shipyards and the reference to firms under three years old fix the sector at its beginning, and both nascent and fledgling say that. Entrenched and perennial fit the grammar and the sober register but assert durability, the opposite of what the sentence needs; obsolete and vestigial describe something at the end of its life rather than the start.",
+      "id": "gregmat20__b4__se__01",
+      "unit": "gregmat20__b4",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Officials preferred to present each flare-up of the water-rights dispute as a {1} irritation, provoked by one unusually dry summer; the record suggests instead a {2} grievance, falling silent for years and returning, in almost identical language, with every drought.",
+      "blanks": [
+        {
+          "options": [
+            "transient",
+            "perpetual",
+            "chronic"
+          ],
+          "answers": [
+            "transient"
+          ]
+        },
+        {
+          "options": [
+            "perennial",
+            "incessant",
+            "vestigial"
+          ],
+          "answers": [
+            "perennial"
+          ]
+        }
+      ],
+      "words": [
+        "perennial"
+      ],
+      "explanation": "The officials' story attributes the trouble to a single dry summer, so their word must reduce it to something passing: transient. The record's counterclaim is not that the grievance never stops but that it keeps coming back on schedule, which is precisely perennial; incessant is ruled out by \"falling silent for years,\" and perpetual and chronic fail in the first blank for the same reason.",
+      "id": "gregmat20__b4__tc2__02",
+      "unit": "gregmat20__b4",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "The abbot's biographer takes care to separate his private devotions, which she believes were entirely {1}, from the {2} declarations he issued on behalf of the order — pledges of charity that cost the monastery nothing and that no one, least of all their author, expected to be honoured.",
+      "blanks": [
+        {
+          "options": [
+            "sincere",
+            "sanctimonious",
+            "posturing"
+          ],
+          "answers": [
+            "sincere"
+          ]
+        },
+        {
+          "options": [
+            "pious",
+            "penitent",
+            "doctrinaire"
+          ],
+          "answers": [
+            "pious"
+          ]
+        }
+      ],
+      "words": [
+        "pious"
+      ],
+      "explanation": "The biographer's whole distinction is between devotion she credits and public statements she does not, so the first blank must vindicate the private practice: sincere. In the second blank, pious turns acid next to an abstract noun — a pious pledge is virtue displayed at no cost — whereas penitent and doctrinaire describe contrition and rigid dogma, neither of which is what pledges nobody meant to keep amount to.",
+      "id": "gregmat20__b4__tc2__04",
+      "unit": "gregmat20__b4",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Whatever his private convictions, the senator's floor speeches on frugality were {1} performances: he denounced public waste in tones of wounded virtue while quietly securing the largest appropriation in the state's history.",
+      "blanks": [
+        {
+          "options": [
+            "pious",
+            "sanctimonious",
+            "didactic",
+            "impassioned",
+            "perfunctory",
+            "extemporaneous"
+          ],
+          "answers": [
+            "pious",
+            "sanctimonious"
+          ]
+        }
+      ],
+      "words": [
+        "pious"
+      ],
+      "explanation": "\"Tones of wounded virtue\" set against his own appropriation make the speeches a display of righteousness that costs the speaker nothing, and here pious and sanctimonious converge on that sense. Didactic is the closest trap but means instructive or preachy about a subject, not self-righteous about oneself; impassioned and perfunctory both suit the setting grammatically while asserting something quite different about how the speeches were delivered.",
+      "id": "gregmat20__b4__se__05",
+      "unit": "gregmat20__b4",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "The gale that scattered the invasion fleet was {1} for the defenders, since it rose on the one night the harbour chain lay broken, and correspondingly {2} for the attackers, who lost in six hours more ships than they had in the previous three campaigns.",
+      "blanks": [
+        {
+          "options": [
+            "providential",
+            "adverse",
+            "incidental"
+          ],
+          "answers": [
+            "providential"
+          ]
+        },
+        {
+          "options": [
+            "calamitous",
+            "propitious",
+            "salutary"
+          ],
+          "answers": [
+            "calamitous"
+          ]
+        }
+      ],
+      "words": [
+        "providential"
+      ],
+      "explanation": "For the defenders the storm arrived at the single moment that could save them, luck so well timed it looks arranged — providential; adverse and incidental would deny that the gale helped them at all. \"Correspondingly\" requires the mirror image for the attackers, and only calamitous is a disaster; propitious and salutary are favourable words that would contradict the fleet's losses.",
+      "id": "gregmat20__b4__tc2__06",
+      "unit": "gregmat20__b4",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians of the crossing still describe the fog over the strait as {1}: it held until the last transport had cleared the shallows and lifted the moment the guns could no longer reach them, so that to the exhausted crews it seemed less like weather than like an arrangement made on their behalf.",
+      "blanks": [
+        {
+          "options": [
+            "providential",
+            "auspicious",
+            "propitious",
+            "fortuitous",
+            "salubrious"
+          ],
+          "answers": [
+            "providential"
+          ]
+        }
+      ],
+      "words": [
+        "providential"
+      ],
+      "explanation": "The rescue has already happened and the timing looks designed rather than accidental, which is exactly providential. Auspicious and propitious point forward, describing conditions that promise a good outcome rather than one already delivered, and fortuitous insists on pure chance, the reading the crews are said to reject; salubrious concerns health.",
+      "id": "gregmat20__b4__cloze__07",
+      "unit": "gregmat20__b4",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"perpetual\" is also defensible. The blank modifies \"line\" (the budget item), not the buckling. The seasonal cue (\"when the thaw comes\", \"as reliably as the thaw itself\") supports perennial's sense of annual recurrence, but the clause immediately attached to the blank — \"that no council has ever managed to strike out\" — describes uninterrupted persistence of the line item across budgets, which is exactly what perpetual means. Since the sentence never forces the reader to apply the recurrence cue to the line rather than to the repair, a reasonable test-taker can pick perpetual and be marked wrong. The sentence would need to explicitly break continuity (e.g., the line disappearing and returning each year) to isolate perennial.",
+      "stem": "The city's budget carries a {1} line that no council has ever managed to strike out: when the thaw comes, the same stretch of road buckles, and the same repair is voted through as reliably as the thaw itself."
+    }
+  ]
+}

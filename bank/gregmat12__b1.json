@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat12__b1",
+  "gregmat_group": 12,
+  "words": [
+    "cavalier",
+    "distressed",
+    "dwindling",
+    "eclipse"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Decades without a single incident had left the inspectorate {1}, and so it accepted without comment the operator's {2} claim that the corroded valves were not worth an entry in the log.",
+      "blanks": [
+        {
+          "options": [
+            "complacent",
+            "chary",
+            "vigilant"
+          ],
+          "answers": [
+            "complacent"
+          ]
+        },
+        {
+          "options": [
+            "cavalier",
+            "oblivious",
+            "callous"
+          ],
+          "answers": [
+            "cavalier"
+          ]
+        }
+      ],
+      "words": [
+        "cavalier"
+      ],
+      "explanation": "An unbroken safety record breeds complacent trust, which explains why no one challenged the operator; chary and vigilant would have produced the opposite response. The second blank needs an attitude that waves a known risk away as beneath recording: that is cavalier. Oblivious fails because the operator is plainly aware of the valves and is dismissing them, and callous requires suffering to be indifferent to, not a rule or a risk.",
+      "id": "gregmat12__b1__tc2__00",
+      "unit": "gregmat12__b1",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers admired the biography's archival depth but faulted its {1} treatment of contrary evidence, which the author waved aside in a single footnote as the quibbling of lesser minds.",
+      "blanks": [
+        {
+          "options": [
+            "cavalier",
+            "oblivious",
+            "callous",
+            "circumspect",
+            "chary"
+          ],
+          "answers": [
+            "cavalier"
+          ]
+        }
+      ],
+      "words": [
+        "cavalier"
+      ],
+      "explanation": "The author knows the counter-evidence exists and dismisses it from a height, as beneath serious discussion — the lordly unconcern that cavalier names. Oblivious would mean he never noticed it, which the footnote disproves, and callous would require indifference to someone's pain rather than to facts. Circumspect and chary describe the wariness he conspicuously lacks.",
+      "id": "gregmat12__b1__cloze__01",
+      "unit": "gregmat12__b1",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "The chairs were new, but the factory had sanded, stained and flogged them with chains until they looked a century old; in the trade, furniture treated this way is called {1}.",
+      "blanks": [
+        {
+          "options": [
+            "distressed",
+            "dilapidated",
+            "decrepit",
+            "distraught",
+            "derelict"
+          ],
+          "answers": [
+            "distressed"
+          ]
+        }
+      ],
+      "words": [
+        "distressed"
+      ],
+      "explanation": "Distressed is the specific trade label for surfaces deliberately battered to counterfeit age — the one sense in which the word is a selling point. Dilapidated, decrepit and derelict describe genuine ruin that has actually befallen an object, not a manufactured finish, and none is used as a name for the technique; distraught applies to people only.",
+      "id": "gregmat12__b1__cloze__03",
+      "unit": "gregmat12__b1",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "The retreat of the shoreline had no villain and no crisis — no dam, no drought, only a century of evaporation — and so the commission described the lake as steadily {1} rather than {2} by any human agency.",
+      "blanks": [
+        {
+          "options": [
+            "dwindling",
+            "burgeoning",
+            "cresting"
+          ],
+          "answers": [
+            "dwindling"
+          ]
+        },
+        {
+          "options": [
+            "curtailed",
+            "augmented",
+            "heeded"
+          ],
+          "answers": [
+            "curtailed"
+          ]
+        }
+      ],
+      "words": [
+        "dwindling"
+      ],
+      "explanation": "Dwindling is the agentless word: things dwindle by themselves, slowly and toward nothing, which is exactly the contrast the sentence draws with deliberate human action. Curtailed supplies that opposing pole because it requires someone to do the cutting; augmented reverses the direction and heeded makes no sense of a lake.",
+      "id": "gregmat12__b1__tc2__04",
+      "unit": "gregmat12__b1",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "As the empire's reserves of silver {1} — the mines at Laurium exhausted, no new conquests to replenish them — successive emperors resorted to debasing the coinage.",
+      "blanks": [
+        {
+          "options": [
+            "dwindled",
+            "waned",
+            "abated",
+            "attenuated",
+            "curtailed",
+            "burgeoned"
+          ],
+          "answers": [
+            "dwindled",
+            "waned"
+          ]
+        }
+      ],
+      "words": [
+        "dwindling"
+      ],
+      "explanation": "Dwindled and waned both describe a stock diminishing gradually of its own accord, and either yields the same sentence. Abated and attenuated attach to intensities that have peaked or to forces being weakened, not to a countable reserve; curtailed demands an agent doing the cutting and would need a passive construction, and burgeoned reverses the sense the debasement depends on.",
+      "id": "gregmat12__b1__se__05",
+      "unit": "gregmat12__b1",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "The older projections were neither {1} nor withdrawn — they stayed in print, and surveyors went on using them — yet Mercator's grid so thoroughly {2} them that within a generation writers spoke as though no other way of drawing the world had ever existed.",
+      "blanks": [
+        {
+          "options": [
+            "discredited",
+            "vindicated",
+            "amplified"
+          ],
+          "answers": [
+            "discredited"
+          ]
+        },
+        {
+          "options": [
+            "eclipsed",
+            "supplanted",
+            "surmounted"
+          ],
+          "answers": [
+            "eclipsed"
+          ]
+        }
+      ],
+      "words": [
+        "eclipse"
+      ],
+      "explanation": "The first blank sits in a list of misfortunes the projections escaped, so it must be a negative fate: discredited, not the approving vindicated or amplified. Because the maps kept both their accuracy and their users, they were not replaced, which rules out supplanted; what they lost was attention, and eclipse is precisely the loss of notice to something brighter standing in front. Surmounted would require an obstacle overcome.",
+      "id": "gregmat12__b1__tc2__06",
+      "unit": "gregmat12__b1",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Mendel's paper was neither disputed nor displaced; it was simply {1}, sitting uncited for thirty-five years in the very journals its rivals filled.",
+      "blanks": [
+        {
+          "options": [
+            "eclipsed",
+            "overshadowed",
+            "supplanted",
+            "superseded",
+            "transcended",
+            "vindicated"
+          ],
+          "answers": [
+            "eclipsed",
+            "overshadowed"
+          ]
+        }
+      ],
+      "words": [
+        "eclipse"
+      ],
+      "explanation": "Eclipsed and overshadowed both mean the work went unnoticed while brighter rivals held the field, and each preserves the sentence's point that nothing was wrong with the paper itself. Supplanted and superseded are explicitly excluded by \"neither disputed nor displaced,\" since both assert that something took its place or its authority; transcended describes rising above rather than being lost from view, and vindicated reverses the sense.",
+      "id": "gregmat12__b1__se__07",
+      "unit": "gregmat12__b1",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['distressed', 'burgeoning'] vs ['distressed', 'dwindling']",
+      "problem": null,
+      "stem": "The fund's returns came from {1} manufacturers — firms whose bonds sold for pennies precisely because default seemed certain — and it had no interest in reversing the {2} payrolls that had made those bonds cheap in the first place."
+    }
+  ]
+}

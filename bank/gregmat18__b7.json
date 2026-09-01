@@ -1,0 +1,106 @@
+{
+  "unit": "gregmat18__b7",
+  "gregmat_group": 18,
+  "words": [
+    "unseemly",
+    "veritable"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "No one suggested that the heirs had done anything unlawful; it was the practiced, almost rehearsed efficiency with which they inventoried the estate on the morning of the funeral that the older relatives found {1}.",
+      "blanks": [
+        {
+          "options": [
+            "unseemly",
+            "indecorous",
+            "gauche",
+            "churlish",
+            "impolitic",
+            "avaricious"
+          ],
+          "answers": [
+            "unseemly",
+            "indecorous"
+          ]
+        }
+      ],
+      "words": [
+        "unseemly"
+      ],
+      "explanation": "The concession \"nothing unlawful\" locates the offence in propriety rather than law or morality, and unseemly and indecorous are precise equivalents for a breach of good form given the occasion. Gauche is excluded because it names social clumsiness or want of polish, whereas this behaviour is \"practiced, almost rehearsed\" — smooth, not awkward. Churlish (surly, ungenerous), impolitic (unwise) and avaricious (greedy) each fit the slot tonally but describe temperament, strategy or motive rather than the affront to decorum, and none pairs with a second option.",
+      "id": "gregmat18__b7__se__01",
+      "unit": "gregmat18__b7",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "The geophysical survey had promised nothing more than a farmstead, but the trenches exposed paved streets, cisterns and a colonnaded market — a {1} city, and one that no ancient author so much as mentions.",
+      "blanks": [
+        {
+          "options": [
+            "veritable",
+            "virtual",
+            "putative",
+            "ostensible",
+            "nominal"
+          ],
+          "answers": [
+            "veritable"
+          ]
+        }
+      ],
+      "words": [
+        "veritable"
+      ],
+      "explanation": "The excavated streets, cisterns and market establish that the strong word \"city\" is fully earned, and veritable exists precisely to insist that such a description is deserved. Every other option hedges in the opposite direction: virtual means in effect but not in fact, nominal means in name only, and putative and ostensible mean merely supposed or apparent — all flatly contradicted by the physical evidence just listed.",
+      "id": "gregmat18__b7__cloze__02",
+      "unit": "gregmat18__b7",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Memoirs of the period record a {1} epidemic of walkouts: at three successive conferences a delegation rose and left mid-speech, a gesture that injured no one and settled nothing, and that even sympathetic observers thought {2} in envoys whose entire profession is the management of appearances.",
+      "blanks": [
+        {
+          "options": [
+            "veritable",
+            "ostensible",
+            "nominal"
+          ],
+          "answers": [
+            "veritable"
+          ]
+        },
+        {
+          "options": [
+            "unseemly",
+            "churlish",
+            "impertinent"
+          ],
+          "answers": [
+            "unseemly"
+          ]
+        }
+      ],
+      "words": [
+        "veritable",
+        "unseemly"
+      ],
+      "explanation": "The colon supplies documented recurrence at three conferences, which licenses the hyperbole \"epidemic\" and calls for veritable, the word whose job is to certify that an exaggerated description is deserved; ostensible and nominal would instead deny that the walkouts were what they seemed. In the second blank, \"injured no one and settled nothing\" removes the harm that churlish (mean-spirited, ungracious) implies, and there is no superior being addressed insolently, which impertinent requires. The clue \"in envoys whose entire profession is the management of appearances\" points to the offence unseemly names: not cruelty or insolence but a failure of dignity measured against one's position.",
+      "id": "gregmat18__b7__tc2__03",
+      "unit": "gregmat18__b7",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is clean and unique: the result clause (\"not one reporter could wring a story from them\") requires a word meaning guarded/uninformative, so only \"discreet\" works; \"abrasive\" and \"impertinent\" are contradictions.\n\nBlank 1 is defective. The sentence's only constraint is the contrast with the dismissed \"tactical cost,\" which rules out \"impolitic\" (the prudential/strategic word) and demands a decorum-based objection. But TWO of the three options are decorum words, and nothing in the sentence discriminates between them. \"Open dissent at a state banquet would look unseemly in a man of his office\" (improper, unbecoming his station) and \"…would look churlish in a man of his office\" (boorish, ungracious toward one's hosts at a banquet) are both fully idiomatic and both satisfy the required propriety/tactics contrast — arguably \"churlish\" is even better supported by the specific setting of a banquet, where the offense is ingratitude toward hosts. A reasonable test-taker choosing \"churlish\" would be marked wrong without cause. Fix: replace \"churlish\" with a second tactics/consequence word (e.g., \"counterproductive\") so only one decorum option remains, or add a cue that pins the objection to rank rather than manners (e.g., \"beneath the dignity of his office\").",
+      "stem": "The ambassador was unmoved by warnings about the tactical cost of speaking out; what silenced him was the thought that open dissent at a state banquet would look {1} in a man of his office, and so he offered remarks so {2} that not one reporter could wring a story from them."
+    }
+  ]
+}

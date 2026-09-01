@@ -1,0 +1,225 @@
+{
+  "unit": "gregmat33__b2",
+  "gregmat_group": 33,
+  "words": [
+    "detract",
+    "detrimental",
+    "devious",
+    "dormant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the parasite can lie {1} in muscle tissue for decades, physicians caution that a regimen pronounced curative at six months may in the end prove {2} to the patient: the drug's toxicity accumulates steadily while the infection simply waits.",
+      "blanks": [
+        {
+          "options": [
+            "dormant",
+            "eradicated",
+            "rampant"
+          ],
+          "answers": [
+            "dormant"
+          ]
+        },
+        {
+          "options": [
+            "detrimental",
+            "salutary",
+            "efficacious"
+          ],
+          "answers": [
+            "detrimental"
+          ]
+        }
+      ],
+      "words": [
+        "dormant",
+        "detrimental"
+      ],
+      "explanation": "The infection \"simply waits\" — inactive but intact — which is exactly dormant; eradicated would close the door the sentence deliberately leaves ajar, and rampant contradicts the waiting. The second blank must register harm reckoned against the patient's interest and accumulating over time, and detrimental is the clinical, relational word that takes to; salutary and efficacious would make the toxicity clause nonsense.",
+      "id": "gregmat33__b2__tc2__00",
+      "unit": "gregmat33__b2",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "The biography documents at length the {1} maneuvers — flattering letters, well-placed intermediaries, promises left studiously vague — by which Kepler secured Tycho's observations, though none of it {2} from the achievement that followed.",
+      "blanks": [
+        {
+          "options": [
+            "devious",
+            "guileless",
+            "impulsive"
+          ],
+          "answers": [
+            "devious"
+          ]
+        },
+        {
+          "options": [
+            "detracts",
+            "diminishes",
+            "disparages"
+          ],
+          "answers": [
+            "detracts"
+          ]
+        }
+      ],
+      "words": [
+        "devious",
+        "detract"
+      ],
+      "explanation": "The catalogue of intermediaries and vague promises describes a crooked, roundabout route to a goal, which is devious; impulsive is the opposite of such patient staging, and guileless reverses the sense. The second blank is fixed by the preposition: one detracts from something, whereas diminish and disparage take direct objects, so only detracts is grammatical here even though all three concern lessening.",
+      "id": "gregmat33__b2__tc2__01",
+      "unit": "gregmat33__b2",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The inspectors' report stopped well short of outrage, observing only that the practice of assigning unsupervised casework to first-year associates had proved {1} to the firm's standard of client service.",
+      "blanks": [
+        {
+          "options": [
+            "detrimental",
+            "deleterious",
+            "conducive",
+            "salutary",
+            "insidious",
+            "incidental"
+          ],
+          "answers": [
+            "detrimental",
+            "deleterious"
+          ]
+        }
+      ],
+      "words": [
+        "detrimental"
+      ],
+      "explanation": "The deadpan register (\"stopped well short of outrage,\" \"observing only\") calls for harm stated as a finding, and detrimental and deleterious are the two clinical words for measurable damage. Conducive and incidental both fit the frame \"___ to\" and read plausibly, but one makes the practice helpful and the other makes it irrelevant; insidious would import stealth and sinister intent the report pointedly avoids.",
+      "id": "gregmat33__b2__se__02",
+      "unit": "gregmat33__b2",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The feud between the two families, {1} for a generation while the old patriarchs were still alive, broke out again within a week of the last funeral.",
+      "blanks": [
+        {
+          "options": [
+            "dormant",
+            "quiescent",
+            "extinct",
+            "defunct",
+            "rancorous",
+            "dissolved"
+          ],
+          "answers": [
+            "dormant",
+            "quiescent"
+          ]
+        }
+      ],
+      "words": [
+        "dormant"
+      ],
+      "explanation": "\"Broke out again\" requires a word for a pause rather than an ending, and dormant and quiescent both describe inactivity with the capacity to resume intact. Extinct, defunct, and dissolved all close the door the second clause reopens; rancorous fits the noun and the tone but describes bitterness in force, not a lull.",
+      "id": "gregmat33__b2__se__03",
+      "unit": "gregmat33__b2",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "The surveyors abandoned the old post road, whose {1} course around every ridge and marsh added forty miles to a journey the new turnpike would cover in a straight line.",
+      "blanks": [
+        {
+          "options": [
+            "devious",
+            "circuitous",
+            "direct",
+            "wily",
+            "artful",
+            "precipitous"
+          ],
+          "answers": [
+            "devious",
+            "circuitous"
+          ]
+        }
+      ],
+      "words": [
+        "devious"
+      ],
+      "explanation": "This is the older, literal sense of devious — winding, indirect — which pairs with circuitous to describe a route that loops rather than goes straight. Wily and artful belong to the word's figurative family but ascribe cunning to a person, not shape to a road; precipitous (steep) and direct are plausible of roads but say something else entirely.",
+      "id": "gregmat33__b2__se__04",
+      "unit": "gregmat33__b2",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than challenge the board outright, Haldeman preferred a {1} approach: a leak to a friendly columnist, an unsigned memorandum, a question planted with a junior trustee.",
+      "blanks": [
+        {
+          "options": [
+            "devious",
+            "forthright",
+            "peremptory",
+            "dormant",
+            "magnanimous"
+          ],
+          "answers": [
+            "devious"
+          ]
+        }
+      ],
+      "words": [
+        "devious"
+      ],
+      "explanation": "The colon lists nothing but indirect routes to the objective — third parties, anonymity, planted questions — which is the method devious names. Forthright and peremptory both describe the direct confrontation the sentence explicitly rejects, and neither dormant nor magnanimous can characterize an active scheme.",
+      "id": "gregmat33__b2__cloze__06",
+      "unit": "gregmat33__b2",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Loyalists maintained that the party was merely {1}: its offices were unstaffed and its treasury untouched, but the membership rolls survived intact and the charter had never been revoked, so a single crisis could put it back in the streets.",
+      "blanks": [
+        {
+          "options": [
+            "dormant",
+            "defunct",
+            "extinct",
+            "discredited",
+            "insurgent"
+          ],
+          "answers": [
+            "dormant"
+          ]
+        }
+      ],
+      "words": [
+        "dormant"
+      ],
+      "explanation": "The intact rolls, the unrevoked charter, and the prospect of revival specify inactivity with the capacity to act preserved, which is dormant. Defunct and extinct both assert that the party has ceased to exist, the very claim the loyalists are rebutting; discredited concerns reputation and insurgent describes the opposite of the present quiet.",
+      "id": "gregmat33__b2__cloze__07",
+      "unit": "gregmat33__b2",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"deviates\" is also genuinely defensible, so the item has two workable answers. The sentence's only real constraint is the \"from ... without spoiling it\" frame, which both words satisfy: a corridor that \"opens awkwardly\" is precisely a departure from the building's otherwise coherent scheme, so \"deviates from an otherwise coherent design without in the least spoiling it\" reads cleanly and idiomatically. Worse, the concessive tail actively favors \"deviates\": \"detract\" already means to diminish the whole's worth, so saying the flaw detracts \"without in the least spoiling it\" is close to self-contradictory (it spoils it a little, by definition), whereas \"deviate\" is value-neutral and pairs naturally with the no-harm clause. A careful test-taker who notices that tension will pick \"deviates\" and be marked wrong. To fix, rewrite the tail so only a diminishment verb works (e.g., \"... slightly ___ from an otherwise coherent design, though the effect is trivial\") or make the contrast one of degree rather than kind, and consider replacing \"deviates\" with a clearly wrong distractor. (\"derives,\" \"stems,\" and \"recoils\" are all safely illogical here.)",
+      "stem": "The building's one real flaw — a service corridor that opens awkwardly onto the atrium — {1} from an otherwise coherent design without in the least spoiling it."
+    }
+  ]
+}

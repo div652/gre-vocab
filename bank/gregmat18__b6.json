@@ -1,0 +1,209 @@
+{
+  "unit": "gregmat18__b6",
+  "gregmat_group": 18,
+  "words": [
+    "proficient",
+    "prolix",
+    "scorn",
+    "subordinate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the guild's apprenticeship demanded seven years of copying before a single original design was permitted, it turned out engravers who were reliably {1} at the burin yet, never having been asked to invent, remained {2} in matters of composition.",
+      "blanks": [
+        {
+          "options": [
+            "proficient",
+            "gauche",
+            "feckless"
+          ],
+          "answers": [
+            "proficient"
+          ]
+        },
+        {
+          "options": [
+            "neophytes",
+            "connoisseurs",
+            "polymaths"
+          ],
+          "answers": [
+            "neophytes"
+          ]
+        }
+      ],
+      "words": [
+        "proficient"
+      ],
+      "explanation": "Seven years of drill producing reliable work is exactly the earned, unglamorous skill \"proficient\" names, and it takes the preposition \"at\" the sentence supplies; \"gauche\" and \"feckless\" would contradict \"reliably.\" The second blank must register the untrained half of the contrast, so \"neophytes\" fits where \"connoisseurs\" and \"polymaths\" would credit precisely the sophistication the clause denies.",
+      "id": "gregmat18__b6__tc2__00",
+      "unit": "gregmat18__b6",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Marshall's strategy required the Allies to {1} every tactical opportunity in Italy to the single aim of a cross-Channel invasion, a calculus that Churchill, who had staked his reputation on the Mediterranean campaign, met with open {2}.",
+      "blanks": [
+        {
+          "options": [
+            "subordinate",
+            "belittle",
+            "spurn"
+          ],
+          "answers": [
+            "subordinate"
+          ]
+        },
+        {
+          "options": [
+            "scorn",
+            "deference",
+            "obeisance"
+          ],
+          "answers": [
+            "scorn"
+          ]
+        }
+      ],
+      "words": [
+        "subordinate",
+        "scorn"
+      ],
+      "explanation": "The frame \"X ___ to Y,\" with something real sacrificed so the higher aim prevails, is the verb \"subordinate\"; \"belittle\" and \"spurn\" do not take that \"to\" construction and describe disparagement or refusal rather than ranking. The second blank is marked \"open,\" which demands contempt with an audience, so \"scorn\" fits while \"deference\" and \"obeisance\" would have Churchill yielding to the plan he opposed.",
+      "id": "gregmat18__b6__tc2__01",
+      "unit": "gregmat18__b6",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Even the treatise's admirers concede that it is fatally {1}: an argument sound in every particular is spread across four hundred pages that a disciplined editor could have reduced to forty.",
+      "blanks": [
+        {
+          "options": [
+            "prolix",
+            "verbose",
+            "abstruse",
+            "derivative",
+            "pithy",
+            "trenchant"
+          ],
+          "answers": [
+            "prolix",
+            "verbose"
+          ]
+        }
+      ],
+      "words": [
+        "prolix"
+      ],
+      "explanation": "The complaint is sheer length, not quality of thought, since the argument is granted to be sound and merely needs cutting; \"prolix\" and \"verbose\" both name that padding, the former with a bookish sneer at the reader's endurance. \"Abstruse\" would fault difficulty and \"derivative\" originality, neither of which the sentence alleges, while \"pithy\" and \"trenchant\" are praise for the compression the treatise conspicuously lacks.",
+      "id": "gregmat18__b6__se__02",
+      "unit": "gregmat18__b6",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "se",
+      "stem": "Offered a state pension by the government that had jailed him for a decade, Hajek {1} it, saying that he would not be paid for years that had been stolen from him.",
+      "blanks": [
+        {
+          "options": [
+            "spurned",
+            "scorned",
+            "belittled",
+            "courted",
+            "solicited",
+            "tolerated"
+          ],
+          "answers": [
+            "spurned",
+            "scorned"
+          ]
+        }
+      ],
+      "words": [
+        "scorn"
+      ],
+      "explanation": "The sentence needs a verb of flat refusal aimed at the offer itself, which is the second sense of \"scorn\" and the whole meaning of \"spurn.\" \"Belittled\" would have him merely disparaging the pension rather than turning it down, and \"courted,\" \"solicited,\" and \"tolerated\" all have him accepting or seeking it.",
+      "id": "gregmat18__b6__se__03",
+      "unit": "gregmat18__b6",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "cloze",
+      "stem": "After eighteen months of intensive instruction the trade officers were thoroughly {1} in Mandarin, able to conduct routine negotiations without an interpreter, if never with a native's ease.",
+      "blanks": [
+        {
+          "options": [
+            "proficient",
+            "passable",
+            "callow",
+            "inept",
+            "garrulous"
+          ],
+          "answers": [
+            "proficient"
+          ]
+        }
+      ],
+      "words": [
+        "proficient"
+      ],
+      "explanation": "Drilled training yielding reliable working competence that stops short of brilliance is precisely \"proficient,\" which also wants the \"in\" the sentence provides. \"Passable\" pitches a rung too low for officers who negotiate unaided and sits oddly under \"thoroughly,\" while \"callow\" and \"inept\" contradict the training and \"garrulous\" concerns quantity of speech, not command of a language.",
+      "id": "gregmat18__b6__cloze__04",
+      "unit": "gregmat18__b6",
+      "verified": true,
+      "gregmat_group": 18
+    },
+    {
+      "type": "tc2",
+      "stem": "Gibbon's defenders insist that his enormous paragraphs are architecture rather than padding; his detractors, unconvinced, find those same pages merely {1}, and prefer historians whose {2} lets a verdict land in a single line.",
+      "blanks": [
+        {
+          "options": [
+            "prolix",
+            "pithy",
+            "terse"
+          ],
+          "answers": [
+            "prolix"
+          ]
+        },
+        {
+          "options": [
+            "economy",
+            "redundancy",
+            "bombast"
+          ],
+          "answers": [
+            "economy"
+          ]
+        }
+      ],
+      "words": [
+        "prolix"
+      ],
+      "explanation": "\"Merely\" reduces the paragraphs to the padding the defenders deny, so the first blank must be the critic's word for tedious length, \"prolix\"; \"pithy\" and \"terse\" would concede the defenders' case. The second blank praises the opposite virtue, compression, so \"economy\" fits where \"redundancy\" repeats the fault and \"bombast\" names inflation rather than concision.",
+      "id": "gregmat18__b6__tc2__06",
+      "unit": "gregmat18__b6",
+      "verified": true,
+      "gregmat_group": 18
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"subordinated\" is the best fit (and the idiomatic architectural term), but \"deferential\" is also genuinely defensible: \"every ornamental flourish is deferential to the sweep of the vault\" is grammatical (the adjective takes \"to\"), and \"deferential\" is standard architecture-criticism usage for an element that yields to a dominant form — exactly the meaning the result clause (\"no single detail can draw the eye away from the whole\") demands. Nothing in the sentence discriminates between the two, so a reasonable test-taker choosing \"deferential\" would be marked wrong on idiom preference rather than meaning. (The other three are clearly out: \"spurned\" and \"antithetical\" reverse the logic, and \"allotted to\" doesn't yield the required sense.) Fix by removing \"deferential\" or by adding a cue that requires an agent-performed action, e.g. \"every ornamental flourish has been ___ to the sweep of the vault.\"",
+      "stem": "In Soane's finished design every ornamental flourish is {1} to the sweep of the vault, so that no single detail can draw the eye away from the whole."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The contrast (silent, restrained disapproval vs. loud, public mockery) only fixes the blank's polarity as \"expressed contempt,\" and two options carry exactly that meaning: \"scorn\" and \"disdain\" are near-synonyms. \"Heaped scorn on\" is the tighter idiom, but \"heaped disdain on\" is perfectly grammatical and semantically identical here, so a reasonable test-taker choosing \"disdain\" would be marked wrong on collocation alone. (\"Hauteur\" is haughty superiority of manner rather than something one heaps on a proposal, and deference/obeisance are the wrong polarity, so those three are correctly excluded.) Fix by replacing \"disdain\" with a distractor that is not a synonym of scorn.",
+      "stem": "Where his predecessor had confined her disapproval to a raised eyebrow and a turned shoulder, Mbeki heaped {1} on the proposal at rally after rally, mocking its authors by name."
+    }
+  ]
+}

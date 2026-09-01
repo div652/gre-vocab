@@ -1,0 +1,223 @@
+{
+  "unit": "gregmat34__b3",
+  "gregmat_group": 34,
+  "words": [
+    "forebode",
+    "ideologue",
+    "impediment",
+    "imperative"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "The stage direction asks for a silence that is not restful but {1}: the audience should feel the catastrophe arriving several minutes before any character on stage names it.",
+      "blanks": [
+        {
+          "options": [
+            "foreboding",
+            "ominous",
+            "propitious",
+            "auspicious",
+            "perfunctory",
+            "decorous"
+          ],
+          "answers": [
+            "foreboding",
+            "ominous"
+          ]
+        }
+      ],
+      "words": [
+        "forebode"
+      ],
+      "explanation": "Only foreboding and ominous name a silence that signals coming disaster, and \"not restful but —\" plus \"feel the catastrophe arriving\" fixes that sense. Propitious and auspicious are the exact inversion — signs of good fortune — and perfunctory and decorous describe manner rather than menace, fitting the grammar while emptying the sentence of its dread.",
+      "id": "gregmat34__b3__se__01",
+      "unit": "gregmat34__b3",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians of the New Deal still divide over Roosevelt: was he a {1}, forcing every emergency to fit a settled theory of political economy, or an improviser who tried whatever the season seemed to demand?",
+      "blanks": [
+        {
+          "options": [
+            "ideologue",
+            "martinet",
+            "iconoclast",
+            "pedant",
+            "apostate"
+          ],
+          "answers": [
+            "ideologue"
+          ]
+        }
+      ],
+      "words": [
+        "ideologue"
+      ],
+      "explanation": "An ideologue classifies the whole person by the doctrine he serves and fits the facts to the system, which is precisely the alternative the sentence poses against the improviser. A martinet enforces rules and discipline rather than doctrine, a pedant fusses over scholarly detail, and an iconoclast attacks received belief instead of clinging to it.",
+      "id": "gregmat34__b3__cloze__02",
+      "unit": "gregmat34__b3",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "What the private letters reveal is not the {1} of the floor speeches but a tactician: the senator who invoked first principles at the podium proved, in committee, entirely {2}, trading away half his bill to secure the votes that would carry the rest.",
+      "blanks": [
+        {
+          "options": [
+            "ideologue",
+            "martinet",
+            "dilettante"
+          ],
+          "answers": [
+            "ideologue"
+          ]
+        },
+        {
+          "options": [
+            "pragmatic",
+            "doctrinaire",
+            "imperious"
+          ],
+          "answers": [
+            "pragmatic"
+          ]
+        }
+      ],
+      "words": [
+        "ideologue"
+      ],
+      "explanation": "The sentence sets up the standard political-writing opposition: the ideologue refuses the workable deal on principle, so the man who trades half a bill for votes is his opposite, the pragmatist. Martinet faults discipline rather than doctrine and dilettante faults seriousness, neither of which the speeches-versus-committee contrast is about; doctrinaire and imperious in the second blank would repeat the posture the clause is explicitly abandoning.",
+      "id": "gregmat34__b3__tc2__03",
+      "unit": "gregmat34__b3",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Reformers argued that the poll tax and the literacy test operated less as safeguards of an informed electorate than as a deliberate {1} to Black registration, one that federal courts would take decades to remove.",
+      "blanks": [
+        {
+          "options": [
+            "impediment",
+            "hindrance",
+            "inducement",
+            "incentive",
+            "precursor",
+            "warrant"
+          ],
+          "answers": [
+            "impediment",
+            "hindrance"
+          ]
+        }
+      ],
+      "words": [
+        "impediment"
+      ],
+      "explanation": "Impediment and hindrance both name a standing condition that drags on progress toward a goal and are the nouns that idiomatically get \"removed,\" which the closing clause requires. Inducement and incentive fit the grammar and the legal register but reverse the direction of the effect, and precursor and warrant describe sequence and authorization rather than obstruction.",
+      "id": "gregmat34__b3__se__04",
+      "unit": "gregmat34__b3",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Demosthenes' biographers dwell on the {1} that he is said to have conquered by declaiming over the surf with pebbles in his mouth, though the anecdote may well be a later invention.",
+      "blanks": [
+        {
+          "options": [
+            "impediment",
+            "obstruction",
+            "deterrent",
+            "curb",
+            "check"
+          ],
+          "answers": [
+            "impediment"
+          ]
+        }
+      ],
+      "words": [
+        "impediment"
+      ],
+      "explanation": "Impediment is the formal word for a lasting personal condition that encumbers rather than blocks, and it is the term that attaches to speech; one overcomes an impediment, exactly as the sentence describes. Obstruction implies a physical blockage of a passage, while deterrent, curb, and check all name something imposed to restrain an action rather than a defect carried by the speaker.",
+      "id": "gregmat34__b3__cloze__05",
+      "unit": "gregmat34__b3",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "The report's language shifts register in its final pages: what earlier chapters called desirable is now {1}, a duty the ministry cannot decline without answering for the consequences, and the modest sensor network once treated as optional is pronounced {2} to any forecast worth issuing.",
+      "blanks": [
+        {
+          "options": [
+            "imperative",
+            "expedient",
+            "discretionary"
+          ],
+          "answers": [
+            "imperative"
+          ]
+        },
+        {
+          "options": [
+            "indispensable",
+            "superfluous",
+            "extraneous"
+          ],
+          "answers": [
+            "indispensable"
+          ]
+        }
+      ],
+      "words": [
+        "imperative"
+      ],
+      "explanation": "Imperative grades an action and speaks with the voice of command — something requires it and refusal carries consequences — which the apposition \"a duty the ministry cannot decline\" spells out; expedient means merely advantageous and discretionary contradicts the duty outright. The second blank grades a thing rather than an act, so indispensable is the right partner, and superfluous or extraneous would restore the optional status the clause says has been revoked.",
+      "id": "gregmat34__b3__tc2__06",
+      "unit": "gregmat34__b3",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Having testified that the massacre could have been halted with a single battalion, the general could no longer present intervention as a matter of choice; his own words had converted it into a moral {1}.",
+      "blanks": [
+        {
+          "options": [
+            "imperative",
+            "obligation",
+            "prerogative",
+            "pretext",
+            "indulgence",
+            "contrivance"
+          ],
+          "answers": [
+            "imperative",
+            "obligation"
+          ]
+        }
+      ],
+      "words": [
+        "imperative"
+      ],
+      "explanation": "As a noun, imperative names a duty that must be discharged, and moral obligation says the same thing, so the two produce equivalent sentences once \"no longer a matter of choice\" is established. Prerogative is the trap: it fits the grammar and the moral register but denotes a right one may exercise or waive, and pretext, indulgence, and contrivance all impute bad faith the sentence never assigns.",
+      "id": "gregmat34__b3__se__07",
+      "unit": "gregmat34__b3",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} has two defensible answers. The clue phrase — \"a formless dread that she could attach to no object\" — is satisfied equally by \"foreboding\" (sense of impending ill) and \"apprehension\" (anxious dread of what is to come); \"a vague/nameless apprehension\" is idiomatic and does not require a stated object. Nothing else in the sentence discriminates between them, so a test-taker choosing \"apprehension\" would be marked wrong on an arbitrary basis. Only \"qualm\" is properly excluded (a qualm is a misgiving normally tied to a specific act). Blank {2} is fine and uniquely \"ominous\". To fix, either replace \"apprehension\" with a clear loser (e.g. \"resentment\", \"resolve\") or add a discriminator that requires the impending-doom sense specific to \"foreboding\" (e.g. \"a sense that something was about to happen\").",
+      "stem": "Nothing in particular was wrong that spring — no bad news had arrived, no ordeal stood marked on the calendar — and yet the diaries record a {1} she could attach to no object at all, a formless dread that made even the morning post seem {2}."
+    }
+  ]
+}

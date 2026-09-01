@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat26__b7",
+  "gregmat_group": 26,
+  "words": [
+    "transcend",
+    "treatise"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Even critics hostile to Hitchcock's reputation granted that his thrillers {1} those of his many imitators in sheer technical craft; his admirers went further, insisting that the late films {2} the genre entirely and must be judged by no standard but their own.",
+      "blanks": [
+        {
+          "options": [
+            "outstripped",
+            "fell short of",
+            "merely resembled"
+          ],
+          "answers": [
+            "outstripped"
+          ]
+        },
+        {
+          "options": [
+            "transcended",
+            "eclipsed",
+            "surmounted"
+          ],
+          "answers": [
+            "transcended"
+          ]
+        }
+      ],
+      "words": [
+        "transcend"
+      ],
+      "explanation": "\"Granted\" marks a concession of merit from unfriendly critics, so the first blank must be a comparative win over rivals on the same scale: outstripped. \"Went further\" then demands a stronger and different claim, and the closing clause — judged by no standard but their own — means the films have left the category, not merely bested competitors within it. Eclipsed would only repeat the first blank's comparative claim, and surmounted treats a genre as an obstacle cleared rather than a scale abandoned.",
+      "id": "gregmat26__b7__tc2__00",
+      "unit": "gregmat26__b7",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Though it was issued as a mere pamphlet, Locke's work is in substance a {1}: it proceeds from first principles and answers every standing objection in turn, and it is precisely this {2} that has kept it on university syllabi for three centuries.",
+      "blanks": [
+        {
+          "options": [
+            "treatise",
+            "tract",
+            "primer"
+          ],
+          "answers": [
+            "treatise"
+          ]
+        },
+        {
+          "options": [
+            "exhaustiveness",
+            "brevity",
+            "levity"
+          ],
+          "answers": [
+            "exhaustiveness"
+          ]
+        }
+      ],
+      "words": [
+        "treatise"
+      ],
+      "explanation": "The concessive \"though ... a mere pamphlet\" requires the first blank to name something weighty and systematic, which rules out tract and primer — both are short forms, so either would nullify the contrast. Only a treatise proceeds from first principles through every objection, and the second blank must name that same methodical completeness: exhaustiveness, not brevity (which contradicts the colon's evidence) or levity (wrong quality altogether).",
+      "id": "gregmat26__b7__tc2__01",
+      "unit": "gregmat26__b7",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Asked for a single page of notes on the drainage dispute, the parish clerk instead produced a {1} of some two hundred pages, complete with appendices and a history of local water law since the Conquest.",
+      "blanks": [
+        {
+          "options": [
+            "treatise",
+            "disquisition",
+            "tract",
+            "precis",
+            "memorandum",
+            "bulletin"
+          ],
+          "answers": [
+            "treatise",
+            "disquisition"
+          ]
+        }
+      ],
+      "words": [
+        "treatise"
+      ],
+      "explanation": "The joke depends on length and systematic thoroughness wildly exceeding the occasion, and only treatise and disquisition denote a long, formal, methodical work on one subject. Precis, memorandum, and bulletin all denote the short document that was actually requested, and a tract is a brief partisan pamphlet — none of them registers the absurd heft that the appendices and centuries of legal history establish.",
+      "id": "gregmat26__b7__se__02",
+      "unit": "gregmat26__b7",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "Plotinus holds that the soul's proper aim is not to master the material world but to {1} it altogether, entering a condition to which the world's categories simply do not apply.",
+      "blanks": [
+        {
+          "options": [
+            "transcend",
+            "surmount",
+            "outstrip",
+            "eclipse",
+            "vanquish"
+          ],
+          "answers": [
+            "transcend"
+          ]
+        }
+      ],
+      "words": [
+        "transcend"
+      ],
+      "explanation": "\"Not to master ... but to\" excludes every word of conquest or competition, so vanquish, surmount, and outstrip are all ruled out by the sentence's own contrast. Eclipse would mean outshining the material world while still being measured against it, whereas the final clause — categories that no longer apply — describes exactly the move off the scale that transcend names.",
+      "id": "gregmat26__b7__cloze__03",
+      "unit": "gregmat26__b7",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": []
+}

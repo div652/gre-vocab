@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat12__b2",
+  "gregmat_group": 12,
+  "words": [
+    "encyclopedic",
+    "exacerbate",
+    "exasperated",
+    "fungible"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though her recall of nineteenth-century case law was {1} — no minor citation ever seemed to escape it — colleagues found her briefs curiously {2}, dense with precedent yet innocent of any organizing argument.",
+      "blanks": [
+        {
+          "options": [
+            "encyclopedic",
+            "sagacious",
+            "cursory"
+          ],
+          "answers": [
+            "encyclopedic"
+          ]
+        },
+        {
+          "options": [
+            "inert",
+            "trenchant",
+            "judicious"
+          ],
+          "answers": [
+            "inert"
+          ]
+        }
+      ],
+      "words": [
+        "encyclopedic"
+      ],
+      "explanation": "The first clause describes total, retrievable coverage of stored fact, which is exactly what encyclopedic praises; sagacious would claim wisdom, and cursory contradicts \"no citation ever escaped.\" The second blank must complete the concession — everything present, nothing argued — so it needs inert, whereas trenchant and judicious would credit the briefs with the incisiveness and judgment the sentence denies them.",
+      "id": "gregmat12__b2__tc2__00",
+      "unit": "gregmat12__b2",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Fleming's knowledge of Caribbean birdlife was {1}, extending even to the plumage variations of subspecies he had never observed in the field.",
+      "blanks": [
+        {
+          "options": [
+            "encyclopedic",
+            "exhaustive",
+            "cursory",
+            "glib",
+            "penetrating",
+            "anecdotal"
+          ],
+          "answers": [
+            "encyclopedic",
+            "exhaustive"
+          ]
+        }
+      ],
+      "words": [
+        "encyclopedic"
+      ],
+      "explanation": "The supporting clause measures breadth of stored detail, not depth of understanding, so only encyclopedic and exhaustive — both meaning nothing left uncovered — yield equivalent sentences. Penetrating would praise analytic depth rather than coverage, while cursory, glib, and anecdotal all describe knowledge that is thin or unsystematic, which the clause flatly contradicts.",
+      "id": "gregmat12__b2__se__01",
+      "unit": "gregmat12__b2",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "The emergency subsidy was intended to {1} the region's food shortage, but by encouraging wholesalers to hoard grain against future price rises it merely {2} it.",
+      "blanks": [
+        {
+          "options": [
+            "alleviate",
+            "escalate",
+            "precipitate"
+          ],
+          "answers": [
+            "alleviate"
+          ]
+        },
+        {
+          "options": [
+            "exacerbated",
+            "assuaged",
+            "forestalled"
+          ],
+          "answers": [
+            "exacerbated"
+          ]
+        }
+      ],
+      "words": [
+        "exacerbate"
+      ],
+      "explanation": "\"Intended to\" plus the adversative \"but ... merely\" requires a remedy in the first blank and its opposite in the second: alleviate then exacerbated. Escalate and precipitate would make the policy's aim perverse, and in the second blank assuaged and forestalled both describe relief or prevention, which the hoarding clause rules out.",
+      "id": "gregmat12__b2__tc2__02",
+      "unit": "gregmat12__b2",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "The governor's offhand reference to \"outside agitators\" did nothing to calm the city and in fact {1} tensions that had been mounting for weeks.",
+      "blanks": [
+        {
+          "options": [
+            "exacerbated",
+            "precipitated",
+            "mollified",
+            "allayed",
+            "engendered"
+          ],
+          "answers": [
+            "exacerbated"
+          ]
+        }
+      ],
+      "words": [
+        "exacerbate"
+      ],
+      "explanation": "Because the tensions had \"been mounting for weeks,\" the remark can only intensify a condition that already exists — the precise requirement of exacerbate. Precipitated and engendered would mean the remark created the tensions, while mollified and allayed contradict \"did nothing to calm.\"",
+      "id": "gregmat12__b2__cloze__03",
+      "unit": "gregmat12__b2",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Having explained the same clerical error to four departments, each of which referred her to a fifth, Marta sounded less incensed than {1}; her final letter to the ombudsman reads as one long {2} rather than a threat.",
+      "blanks": [
+        {
+          "options": [
+            "exasperated",
+            "vindictive",
+            "sanguine"
+          ],
+          "answers": [
+            "exasperated"
+          ]
+        },
+        {
+          "options": [
+            "sigh",
+            "tirade",
+            "indictment"
+          ],
+          "answers": [
+            "sigh"
+          ]
+        }
+      ],
+      "words": [
+        "exasperated"
+      ],
+      "explanation": "The repetition — the same error, four times, always deflected — and the contrast with \"incensed\" point to patience worn out rather than anger, which is exasperated; vindictive intensifies the anger the sentence rejects and sanguine reverses it. \"Rather than a threat\" then demands the deflated register that goes with exasperation, so sigh fits where the accusatory tirade and indictment do not.",
+      "id": "gregmat12__b2__tc2__04",
+      "unit": "gregmat12__b2",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Because a barrel of Brent crude is {1} — no refinery inquires which barrel it has been allocated — futures contracts can be settled without anyone inspecting the goods; a Rembrandt, by contrast, is {2}, and its price is inseparable from its particular history.",
+      "blanks": [
+        {
+          "options": [
+            "fungible",
+            "eclectic",
+            "heterogeneous"
+          ],
+          "answers": [
+            "fungible"
+          ]
+        },
+        {
+          "options": [
+            "unrepeatable",
+            "interchangeable",
+            "standardized"
+          ],
+          "answers": [
+            "unrepeatable"
+          ]
+        }
+      ],
+      "words": [
+        "fungible"
+      ],
+      "explanation": "The dash clause — nobody asks which barrel — is the definition of fungible: units with no separate identities, hence the contractual convenience the clause describes. \"By contrast\" plus \"its particular history\" then demands the opposite property, so unrepeatable is required, while interchangeable and standardized would repeat the crude-oil case instead of opposing it.",
+      "id": "gregmat12__b2__tc2__06",
+      "unit": "gregmat12__b2",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "The union's fury was provoked less by the layoffs themselves than by the memo that described frontline staff as {1} units to be redeployed wherever headcount happened to fall short.",
+      "blanks": [
+        {
+          "options": [
+            "fungible",
+            "indispensable",
+            "versatile",
+            "autonomous",
+            "heterogeneous"
+          ],
+          "answers": [
+            "fungible"
+          ]
+        }
+      ],
+      "words": [
+        "fungible"
+      ],
+      "explanation": "\"Units to be redeployed wherever headcount fell short\" treats workers as perfectly substitutable stock, the insult that fungible delivers by borrowing the vocabulary of commodities. Versatile would flatter the staff's adaptability rather than deny their individuality, indispensable and autonomous reverse the memo's logic, and heterogeneous asserts the very differences the memo erases.",
+      "id": "gregmat12__b2__cloze__07",
+      "unit": "gregmat12__b2",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options sit in the same semantic family (exasperated, vexed, enraged) and the sentence never calibrates intensity, so two different pairs are defensible. 'exasperated + vexed' is the tightest synonym match, but the 'too ___ even to raise her voice' construction demands an extreme — mild 'vexed' would not stop someone from shouting, whereas 'too enraged to speak' is idiomatic — which licenses 'exasperated + enraged' just as well. A test-taker reasoning correctly from the sentence's intensity logic can pick enraged and be marked wrong. Fix by replacing one of the three with a non-anger distractor, or by adding a cue that fixes the degree (e.g. 'worn down' vs. 'incandescent').",
+      "stem": "By the ninth time the automated help line routed her back to the same menu, Naomi was too {1} even to raise her voice; she simply hung up."
+    }
+  ]
+}

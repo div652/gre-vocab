@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat09__b0",
+  "gregmat_group": 9,
+  "words": [
+    "boorish",
+    "brook",
+    "circumspect",
+    "comity"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The treaty's preamble was a monument to {1}, each signatory undertaking to honor the other's courts and consular forms without being under any obligation to do so; the emperor's private instructions to his ministers were less generous, ordering them to {2} no infringement of imperial jurisdiction, however technical.",
+      "blanks": [
+        {
+          "options": [
+            "comity",
+            "détente",
+            "appeasement"
+          ],
+          "answers": [
+            "comity"
+          ]
+        },
+        {
+          "options": [
+            "brook",
+            "forbear",
+            "mollify"
+          ],
+          "answers": [
+            "brook"
+          ]
+        }
+      ],
+      "words": [
+        "comity",
+        "brook"
+      ],
+      "explanation": "Comity is exactly the voluntary, unowed deference of one institution or state to another's forms and rulings, which is what the preamble describes; détente is a relaxation of hostility between enemies and appeasement is one-sided concession to an aggressor, neither of which is reciprocal honoring of legal forms. The second blank needs a transitive verb of tolerating an abstract resistance, and the idiom is brook no X: forbear means to refrain (one forbears from acting, one does not forbear an infringement) and mollify takes a person, not a trespass.",
+      "id": "gregmat09__b0__tc2__00",
+      "unit": "gregmat09__b0",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Bismarck's dispatches from St Petersburg are the work of a man who had learned to be {1}: he set down nothing that could not be read aloud by an enemy, and he mocked the {2} enthusiasm of younger envoys who cabled their opinions home before an interview had properly ended.",
+      "blanks": [
+        {
+          "options": [
+            "circumspect",
+            "punctilious",
+            "sanguine"
+          ],
+          "answers": [
+            "circumspect"
+          ]
+        },
+        {
+          "options": [
+            "precipitate",
+            "judicious",
+            "deliberate"
+          ],
+          "answers": [
+            "precipitate"
+          ]
+        }
+      ],
+      "words": [
+        "circumspect"
+      ],
+      "explanation": "The first blank describes a man surveying his own exposure before committing anything to paper, which is circumspection; punctilious would mean scrupulous about forms and details rather than about consequences, and sanguine means cheerfully optimistic. The mocked envoys act before the evidence is in, so the second blank is precipitate — judicious and deliberate name the very restraint Bismarck practices and would make his mockery incoherent.",
+      "id": "gregmat09__b0__tc2__01",
+      "unit": "gregmat09__b0",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers who dismissed Whitman as merely {1} mistook a calculated assault on drawing-room refinement for {2}: the coarseness of Leaves of Grass was a programme, not an accident.",
+      "blanks": [
+        {
+          "options": [
+            "boorish",
+            "churlish",
+            "impertinent"
+          ],
+          "answers": [
+            "boorish"
+          ]
+        },
+        {
+          "options": [
+            "obliviousness",
+            "malice",
+            "affectation"
+          ],
+          "answers": [
+            "obliviousness"
+          ]
+        }
+      ],
+      "words": [
+        "boorish"
+      ],
+      "explanation": "Boorish is coarseness that proceeds from not noticing, which is why it pairs with obliviousness — the reviewers took a deliberate programme for an unwitting lapse of breeding. Churlish (surly, mean-spirited) and impertinent (insolent toward a superior) both imply an aimed intent, and malice and affectation are likewise deliberate, so they cannot be what a calculated act was mistaken for.",
+      "id": "gregmat09__b0__tc2__02",
+      "unit": "gregmat09__b0",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Once the inquiry's subpoenas arrived, the department's spokesman became markedly more {1}, releasing no formulation that had not first been vetted by counsel.",
+      "blanks": [
+        {
+          "options": [
+            "circumspect",
+            "guarded",
+            "laconic",
+            "vigilant",
+            "cavalier",
+            "complacent"
+          ],
+          "answers": [
+            "circumspect",
+            "guarded"
+          ]
+        }
+      ],
+      "words": [
+        "circumspect"
+      ],
+      "explanation": "Circumspect and guarded both describe speech restrained by a survey of how it might later be used against the speaker, which is what vetting by counsel enforces. Laconic changes the claim to mere brevity, and vigilant points outward at an external threat rather than at one's own exposure; cavalier and complacent describe the carelessness the subpoenas have just ended.",
+      "id": "gregmat09__b0__se__04",
+      "unit": "gregmat09__b0",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "Cromwell's letters to the Scottish commissioners leave no opening for negotiation: he would, he wrote, {1} no further delay in the disbanding of their army.",
+      "blanks": [
+        {
+          "options": [
+            "brook",
+            "forbear",
+            "mollify",
+            "extenuate",
+            "disabuse"
+          ],
+          "answers": [
+            "brook"
+          ]
+        }
+      ],
+      "words": [
+        "brook"
+      ],
+      "explanation": "Brook survives almost exclusively in the construction brook no plus an abstract noun of resistance — delay, dissent, interference — announced by someone with the power to enforce the refusal, which fits Cromwell exactly. Forbear means to refrain and does not take such an object, mollify and disabuse take persons, and extenuate means to make excuses for a fault rather than to permit one.",
+      "id": "gregmat09__b0__cloze__05",
+      "unit": "gregmat09__b0",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "The two courts had ruled in opposite directions, yet each stayed its own order pending the other's review — an exercise in {1} that no statute compelled and no litigant could have invoked as a right.",
+      "blanks": [
+        {
+          "options": [
+            "comity",
+            "decorum",
+            "propriety",
+            "consensus",
+            "détente"
+          ],
+          "answers": [
+            "comity"
+          ]
+        }
+      ],
+      "words": [
+        "comity"
+      ],
+      "explanation": "Comity is the restraint institutions extend to one another voluntarily, with no authority to compel it — the detail that no statute requires the stay and no party can demand it is the definition. Decorum and propriety concern the correct outward conduct of persons rather than dealings between tribunals, consensus is impossible here since the courts disagreed, and détente presupposes hostilities to be eased rather than rivalry conducted with mutual deference.",
+      "id": "gregmat09__b0__cloze__06",
+      "unit": "gregmat09__b0",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Boswell's portrait is double-edged: at table Johnson could be frankly {1}, bolting his food and shouting down his host, yet in print he was so {2} that a decade of political controversy yields scarcely a sentence his enemies could quote against him.",
+      "blanks": [
+        {
+          "options": [
+            "boorish",
+            "urbane",
+            "diffident"
+          ],
+          "answers": [
+            "boorish"
+          ]
+        },
+        {
+          "options": [
+            "circumspect",
+            "cavalier",
+            "effusive"
+          ],
+          "answers": [
+            "circumspect"
+          ]
+        }
+      ],
+      "words": [
+        "boorish",
+        "circumspect"
+      ],
+      "explanation": "The first blank is filled by the physical conduct described — bolting food, shouting down a host — which is boorishness, while urbane names the polish he lacks and diffident contradicts the shouting. The yet sets manners against judgment: circumspect explains prose that gives an enemy nothing to quote, whereas cavalier would produce exactly the quotable indiscretions the clause denies, and effusive describes unguarded warmth rather than restraint.",
+      "id": "gregmat09__b0__tc2__07",
+      "unit": "gregmat09__b0",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The distractor set contains three near-synonyms for ill-mannered rudeness: boorish, loutish, and churlish (MW defines churlish as \"vulgar; marked by a lack of civility\"). A test-taker can defensibly pair boorish+churlish instead of boorish+loutish; the only discriminator is churlish's connotation of surliness/ill-temper, which the clause \"rather than malicious\" excludes only obliquely. Additionally, gauche (\"socially clumsy, tactless, not ill-intentioned\") is the single word that best matches \"never notices the silence that follows\" and \"without ever meaning to,\" so boorish+gauche is another tempting pick. Fix by removing churlish and gauche (or by replacing loutish so only one synonym pair survives).",
+      "stem": "Tom Buchanan gives offense without ever meaning to: he bellows across the table, asks what a man's house cost, and never notices the silence that follows — {1} rather than malicious."
+    }
+  ]
+}

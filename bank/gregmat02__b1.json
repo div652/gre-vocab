@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat02__b1",
+  "gregmat_group": 2,
+  "words": [
+    "ambivalent",
+    "ameliorate",
+    "amenable",
+    "anachronistic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Nothing in the correspondence suggests apathy: Nadia Boulanger's stance toward her brother's posthumous fame was thoroughly {1}, and precisely because she prized and resented that fame in equal measure she could {2} for the better part of a decade over whether to publish his letters.",
+      "blanks": [
+        {
+          "options": [
+            "ambivalent",
+            "indifferent",
+            "doctrinaire"
+          ],
+          "answers": [
+            "ambivalent"
+          ]
+        },
+        {
+          "options": [
+            "vacillate",
+            "acquiesce",
+            "demur"
+          ],
+          "answers": [
+            "vacillate"
+          ]
+        }
+      ],
+      "words": [
+        "ambivalent"
+      ],
+      "explanation": "\"Prized and resented in equal measure\" describes two opposing feelings held at once, which is ambivalent; indifferent is explicitly ruled out by \"nothing suggests apathy,\" since indifference is zero feeling rather than a tug-of-war. In the second blank, only vacillate takes a span of years and an \"over whether\" clause: demur is a single act of mild objection, and acquiesce would mean she gave in, which contradicts the decade of non-decision.",
+      "id": "gregmat02__b1__tc2__00",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "For all the assurance of his public testimony, Oppenheimer's private posture toward the hydrogen bomb was {1}: he regarded the device at once as a technical temptation he could not bring himself to refuse and as a moral catastrophe he could never forgive.",
+      "blanks": [
+        {
+          "options": [
+            "ambivalent",
+            "indifferent",
+            "irresolute",
+            "apathetic",
+            "doctrinaire"
+          ],
+          "answers": [
+            "ambivalent"
+          ]
+        }
+      ],
+      "words": [
+        "ambivalent"
+      ],
+      "explanation": "The \"at once ... and\" structure names two contradictory attitudes held simultaneously, which is the precise sense of ambivalent. Indifferent and apathetic would mean he felt nothing, the opposite of a man torn twice over, and irresolute would describe a failure to settle on an action rather than the divided feeling the sentence actually reports.",
+      "id": "gregmat02__b1__cloze__01",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "The 1834 reforms did remarkably little to {1} conditions in the workhouses; if anything, the new dietary schedules {2} the very malnutrition the commissioners had been appointed to end.",
+      "blanks": [
+        {
+          "options": [
+            "ameliorate",
+            "refine",
+            "amend"
+          ],
+          "answers": [
+            "ameliorate"
+          ]
+        },
+        {
+          "options": [
+            "exacerbated",
+            "mitigated",
+            "tempered"
+          ],
+          "answers": [
+            "exacerbated"
+          ]
+        }
+      ],
+      "words": [
+        "ameliorate"
+      ],
+      "explanation": "Ameliorate is the verb for making an already bad state of affairs less bad, and workhouse conditions are exactly such a condition; refine presupposes something decent that can be polished, and amend applies to documents and statutes rather than to living conditions. \"If anything\" signals escalation past mere failure, so only exacerbated fits — mitigated and tempered would say the schedules reduced the malnutrition, which contradicts the concessive turn.",
+      "id": "gregmat02__b1__tc2__02",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Sanitary reformers of the 1840s could not rebuild the rookeries outright, but the model-lodging acts did at least something to {1} the overcrowding that made those districts lethal.",
+      "blanks": [
+        {
+          "options": [
+            "ameliorate",
+            "alleviate",
+            "exacerbate",
+            "compound",
+            "escalate",
+            "entrench"
+          ],
+          "answers": [
+            "ameliorate",
+            "alleviate"
+          ]
+        }
+      ],
+      "words": [
+        "ameliorate"
+      ],
+      "explanation": "\"Could not rebuild ... but did at least something\" demands a verb of partial relief, and ameliorate and alleviate both mean to take the edge off a bad condition without curing it. Exacerbate, compound and escalate all push in the opposite direction, and entrench, though it reads smoothly, would mean the acts fixed the overcrowding permanently in place.",
+      "id": "gregmat02__b1__se__03",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Though the committee's chairman was personally {1} to a phased timetable, the statute he administered proved {2}: its deadlines followed from a formula that no amount of administrative discretion could bend.",
+      "blanks": [
+        {
+          "options": [
+            "amenable",
+            "inimical",
+            "amicable"
+          ],
+          "answers": [
+            "amenable"
+          ]
+        },
+        {
+          "options": [
+            "immutable",
+            "pliant",
+            "supple"
+          ],
+          "answers": [
+            "immutable"
+          ]
+        }
+      ],
+      "words": [
+        "amenable"
+      ],
+      "explanation": "Amenable to means open to a proposal without necessarily being enthusiastic, which is what a chairman willing to consider a phased timetable is; inimical to would make him hostile to it, and amicable describes friendly relations between parties, not receptiveness to a plan. \"Though\" sets the man's flexibility against the law's rigidity, and a formula nothing can bend is immutable, whereas pliant and supple would say the statute yielded easily.",
+      "id": "gregmat02__b1__tc2__04",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "Negotiators who had braced for another deadlock found the incoming minister unexpectedly {1}, since he accepted within an afternoon the inspection timetable his predecessor had rejected out of hand.",
+      "blanks": [
+        {
+          "options": [
+            "amenable",
+            "tractable",
+            "irresolute",
+            "doctrinaire",
+            "entrenched",
+            "inimical"
+          ],
+          "answers": [
+            "amenable",
+            "tractable"
+          ]
+        }
+      ],
+      "words": [
+        "amenable"
+      ],
+      "explanation": "Accepting in an afternoon what the predecessor refused outright marks the minister as willing to go along, and amenable and tractable both carry that sense here, differing only in flattery: amenable credits him with openness while tractable hints he is easily steered. Doctrinaire, entrenched and inimical all describe the deadlock that failed to materialize, and irresolute would mean he could not decide at all, which the swift acceptance contradicts.",
+      "id": "gregmat02__b1__se__05",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the guild's charter had been drafted for a market town of ten thousand souls, its provisions struck the council of a modern city of two million as plainly {1}; repeal nonetheless crawled, as successive committees {2} rather than voting, each unwilling to be remembered as the body that extinguished an eight-century institution.",
+      "blanks": [
+        {
+          "options": [
+            "anachronistic",
+            "nascent",
+            "inchoate"
+          ],
+          "answers": [
+            "anachronistic"
+          ]
+        },
+        {
+          "options": [
+            "vacillated",
+            "acquiesced",
+            "ameliorated"
+          ],
+          "answers": [
+            "vacillated"
+          ]
+        }
+      ],
+      "words": [
+        "anachronistic"
+      ],
+      "explanation": "The charter is not merely old but visibly mismatched with the setting it still governs, which is what anachronistic names; nascent and inchoate would describe something just coming into being, the reverse of a survival dragged forward. \"Rather than voting\" requires a verb of chronic non-decision, so vacillated fits, while acquiesced would mean the committees consented and ameliorated needs an object naming a bad condition.",
+      "id": "gregmat02__b1__tc2__06",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers otherwise admiring of the film's period research fastened on one {1} detail: in a scene set decades before the mechanism was invented, a pendulum clock on the parlor wall plainly carries a minute hand.",
+      "blanks": [
+        {
+          "options": [
+            "anachronistic",
+            "obsolete",
+            "archaic",
+            "vestigial",
+            "erstwhile"
+          ],
+          "answers": [
+            "anachronistic"
+          ]
+        }
+      ],
+      "words": [
+        "anachronistic"
+      ],
+      "explanation": "The error is an object appearing in a period that could not have produced it, and anachronistic is the only one of these built on mismatch between a thing and its surrounding frame. Obsolete, archaic and vestigial all say the clock is outmoded or a leftover, whereas the problem is that it is too advanced for the scene, and erstwhile merely means former.",
+      "id": "gregmat02__b1__cloze__07",
+      "unit": "gregmat02__b1",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": []
+}

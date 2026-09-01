@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat20__b3",
+  "gregmat_group": 20,
+  "words": [
+    "malfeasance",
+    "manifest",
+    "minute",
+    "modish"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the indictment alleged not simple incompetence but {1} — the commissioner had quietly steered maintenance contracts to a firm he himself owned — prosecutors also had to establish that the clerks who processed the invoices had knowingly {2} him rather than obeying instructions in ignorance.",
+      "blanks": [
+        {
+          "options": [
+            "malfeasance",
+            "collusion",
+            "conspiracy"
+          ],
+          "answers": [
+            "malfeasance"
+          ]
+        },
+        {
+          "options": [
+            "abetted",
+            "premeditated",
+            "counterfeited"
+          ],
+          "answers": [
+            "abetted"
+          ]
+        }
+      ],
+      "words": [
+        "malfeasance"
+      ],
+      "explanation": "Malfeasance is precisely wrongdoing by an officeholder who betrays the duty attached to his office, which is what a commissioner enriching himself through contracts has done acting alone. Collusion and conspiracy both require a secret partner, and the sentence stresses that the only other participants were ignorant clerks; the second blank then needs abetted, since knowing assistance to another's crime is aiding, not planning it in advance (premeditated) or forging documents (counterfeited).",
+      "id": "gregmat20__b3__tc2__00",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "The inspector general took pains to separate the agency's chronic inefficiency, which wasted money through sheer disorganization, from the outright {1} of a single procurement officer who had rerouted maintenance funds into an account of his own.",
+      "blanks": [
+        {
+          "options": [
+            "malfeasance",
+            "collusion",
+            "negligence",
+            "premeditation",
+            "insolvency"
+          ],
+          "answers": [
+            "malfeasance"
+          ]
+        }
+      ],
+      "words": [
+        "malfeasance"
+      ],
+      "explanation": "The contrast with inefficiency demands a word for deliberate, illegal abuse of an official position, and malfeasance is exactly that. Negligence describes carelessness and so falls on the wrong side of the contrast; collusion would require a confederate, and the officer is described as acting alone.",
+      "id": "gregmat20__b3__cloze__01",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "The appellate court reversed without reaching the other claims, holding that the judge's instruction on burden of proof contained an error so {1} that no further argument about its effect on the verdict was necessary.",
+      "blanks": [
+        {
+          "options": [
+            "manifest",
+            "patent",
+            "discernible",
+            "covert",
+            "surreptitious",
+            "negligible"
+          ],
+          "answers": [
+            "manifest",
+            "patent"
+          ]
+        }
+      ],
+      "words": [
+        "manifest"
+      ],
+      "explanation": "The court's refusal to hear further argument requires an error evident on its face, and manifest and patent are the two courtroom words for exactly that degree of obviousness. Discernible concedes only that the error can be detected with effort, which would invite rather than foreclose argument, while covert and surreptitious describe deliberate concealment and negligible reverses the sense entirely.",
+      "id": "gregmat20__b3__se__02",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Though the composer's resentment of Brahms was carefully {1} during his lifetime — not a surviving letter or interview betrays a word of it — the grudge {2} unmistakably in the parodic brass writing of his last two symphonies.",
+      "blanks": [
+        {
+          "options": [
+            "concealed",
+            "conspicuous",
+            "premeditated"
+          ],
+          "answers": [
+            "concealed"
+          ]
+        },
+        {
+          "options": [
+            "manifested",
+            "dissembled",
+            "evaporated"
+          ],
+          "answers": [
+            "manifested"
+          ]
+        }
+      ],
+      "words": [
+        "manifest"
+      ],
+      "explanation": "The dash clause establishes that nothing in the documentary record shows the resentment, so the first blank must mean hidden, and the contrastive though then requires a verb for something hidden surfacing into view — the defining motion of manifest. Conspicuous contradicts the evidence given; dissembled would mean the grudge disguised itself, the opposite of appearing unmistakably, and evaporated denies that it appeared at all.",
+      "id": "gregmat20__b3__tc2__03",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Vasari's account of the fresco is so {1} that it records the number of nails in the scaffolding and the price of each pigment, yet it never explains why the commission was awarded to so obscure a painter.",
+      "blanks": [
+        {
+          "options": [
+            "minute",
+            "exhaustive",
+            "scant",
+            "paltry",
+            "diminutive",
+            "tendentious"
+          ],
+          "answers": [
+            "minute",
+            "exhaustive"
+          ]
+        }
+      ],
+      "words": [
+        "minute"
+      ],
+      "explanation": "Counting nails and pricing pigments illustrates an account that goes into the tiniest particulars, the second sense of minute, and exhaustive is its equivalent here. Scant and paltry fit the grammar but assert the opposite — a thin account — and diminutive would describe the physical size of the text rather than its thoroughness.",
+      "id": "gregmat20__b3__se__04",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "Only under raking light did the conservators find the forger's hand: {1} ridges of varnish along the sitter's collar, differences of surface that no unaided eye could have registered.",
+      "blanks": [
+        {
+          "options": [
+            "minute",
+            "paltry",
+            "scant",
+            "diminutive",
+            "conspicuous"
+          ],
+          "answers": [
+            "minute"
+          ]
+        }
+      ],
+      "words": [
+        "minute"
+      ],
+      "explanation": "Minute means small at the very threshold of detection, which is what special lighting and the failure of the unaided eye establish. Paltry and scant concern insufficient quantity or worth rather than perceptible size, diminutive describes something merely small in stature rather than barely detectable, and conspicuous contradicts the whole sentence.",
+      "id": "gregmat20__b3__cloze__05",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "The dean dismissed the proposed syllabus as a parade of {1} theories, each of them certain to be displaced within a season by whatever the conference circuit happened to endorse next.",
+      "blanks": [
+        {
+          "options": [
+            "modish",
+            "faddish",
+            "abstruse",
+            "doctrinaire",
+            "seminal",
+            "heterodox"
+          ],
+          "answers": [
+            "modish",
+            "faddish"
+          ]
+        }
+      ],
+      "words": [
+        "modish"
+      ],
+      "explanation": "The clause about displacement within a season calls for words meaning fashionable at the moment and therefore transient, and modish and faddish carry precisely that dismissive implication. Abstruse concerns difficulty, doctrinaire rigidity, and heterodox departure from orthodoxy — none of which entails a short shelf life — while seminal would praise the theories as founding rather than passing.",
+      "id": "gregmat20__b3__se__06",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "Although the townhouse's furnishings were relentlessly {1} — every piece the very object the design quarterlies had blessed that season — the effect was not elegance but {2}, since no object in the rooms had been chosen for its own sake.",
+      "blanks": [
+        {
+          "options": [
+            "modish",
+            "eclectic",
+            "antiquated"
+          ],
+          "answers": [
+            "modish"
+          ]
+        },
+        {
+          "options": [
+            "conformity",
+            "austerity",
+            "extravagance"
+          ],
+          "answers": [
+            "conformity"
+          ]
+        }
+      ],
+      "words": [
+        "modish"
+      ],
+      "explanation": "Furnishings selected because the magazines endorsed them this season are modish rather than merely stylish: the word points at the calendar and carries the faint mockery the sentence goes on to justify. Eclectic would imply variety of source, which the uniform seasonal endorsement rules out, and the second blank must name what such deference produces — conformity — rather than plainness (austerity) or costliness (extravagance), neither of which follows from choosing what others have approved.",
+      "id": "gregmat20__b3__tc2__07",
+      "unit": "gregmat20__b3",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": []
+}

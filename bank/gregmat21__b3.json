@@ -1,0 +1,255 @@
+{
+  "unit": "gregmat21__b3",
+  "gregmat_group": 21,
+  "words": [
+    "fledgling",
+    "fortitude",
+    "fortuitous",
+    "goad"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Historians of the early republic tend to conflate two very different things: the {1} institutions that were already governing, however clumsily, within a year of independence, and the {2} constitutional theories that had yet to be embodied in any office at all.",
+      "blanks": [
+        {
+          "options": [
+            "fledgling",
+            "vestigial",
+            "obsolete"
+          ],
+          "answers": [
+            "fledgling"
+          ]
+        },
+        {
+          "options": [
+            "inchoate",
+            "archaic",
+            "proficient"
+          ],
+          "answers": [
+            "inchoate"
+          ]
+        }
+      ],
+      "words": [
+        "fledgling"
+      ],
+      "explanation": "The first clause describes bodies that are new but already operating and doing their job badly, which is exactly what fledgling means; vestigial and obsolete would make them survivals of an older order, contradicting \"within a year of independence.\" The contrast with theories \"yet to be embodied in any office\" requires a word for something merely begun and not yet realized, which is inchoate — archaic would again make them old rather than unformed.",
+      "id": "gregmat21__b3__tc2__00",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "What the memoir records is not the triumph of an established studio but the improvisations of a {1} one: three employees, one camera, and a payroll met, some months, only by borrowing.",
+      "blanks": [
+        {
+          "options": [
+            "fledgling",
+            "callow",
+            "obsolete",
+            "vestigial",
+            "adept"
+          ],
+          "answers": [
+            "fledgling"
+          ]
+        }
+      ],
+      "words": [
+        "fledgling"
+      ],
+      "explanation": "The studio is up and running yet precarious, which is the precise force of fledgling — out of the nest, flying badly, and applied naturally to a venture. Callow is the tempting near-synonym but describes the naivety of a person's judgment or manner, not the young, underfunded state of an enterprise, and the contrast drawn is with \"established,\" not with \"mature in outlook.\"",
+      "id": "gregmat21__b3__cloze__01",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Eight months of chemotherapy tested nothing so much as her {1}: there was no enemy to outwit and no decision to defend, only the daily business of getting through.",
+      "blanks": [
+        {
+          "options": [
+            "fortitude",
+            "endurance",
+            "valor",
+            "resolve",
+            "temerity",
+            "diffidence"
+          ],
+          "answers": [
+            "fortitude",
+            "endurance"
+          ]
+        }
+      ],
+      "words": [
+        "fortitude"
+      ],
+      "explanation": "Fortitude and endurance both name the capacity to bear prolonged hardship, and here they yield sentences of the same meaning. Resolve is excluded because the sentence explicitly denies any decision or purpose being held to, and valor is excluded because there is no adversary or danger to face down; temerity (recklessness) and diffidence (shyness) invert the sense entirely.",
+      "id": "gregmat21__b3__se__02",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "The siege called for nothing so cheap as the {1} of a single charge; what it required was the {2} of a garrison that had to hold, unwatched and unrelieved, for nineteen months.",
+      "blanks": [
+        {
+          "options": [
+            "valor",
+            "diffidence",
+            "obstinacy"
+          ],
+          "answers": [
+            "valor"
+          ]
+        },
+        {
+          "options": [
+            "fortitude",
+            "prowess",
+            "temerity"
+          ],
+          "answers": [
+            "fortitude"
+          ]
+        }
+      ],
+      "words": [
+        "fortitude"
+      ],
+      "explanation": "The structure sets a brief, spectacular act against a long, unobserved one: the first blank must name the showy courage of a charge, which is valor, while diffidence and obstinacy name timidity and stubbornness rather than bravery. The second blank needs the capacity to endure over time without audience or heroics, which is fortitude; prowess is demonstrable skill and temerity is rashness, neither of which is what nineteen months of holding on tests.",
+      "id": "gregmat21__b3__tc2__03",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "The convergence of the two research programs was entirely {1} — no committee had arranged it, and neither director knew of the other — yet its immediate consequences were {2}: for three years the laboratories unwittingly duplicated each other's experiments.",
+      "blanks": [
+        {
+          "options": [
+            "fortuitous",
+            "serendipitous",
+            "orchestrated"
+          ],
+          "answers": [
+            "fortuitous"
+          ]
+        },
+        {
+          "options": [
+            "adverse",
+            "auspicious",
+            "negligible"
+          ],
+          "answers": [
+            "adverse"
+          ]
+        }
+      ],
+      "words": [
+        "fortuitous"
+      ],
+      "explanation": "The second blank must be unfavorable, since three years of wasted duplication is neither auspicious nor negligible, and that harm is what settles the first blank: only fortuitous reports pure chance without promising a happy result. Serendipitous would build in the good fortune the sentence then denies, and orchestrated is ruled out by \"no committee had arranged it.\"",
+      "id": "gregmat21__b3__tc2__04",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "The archivist maintained that the identical slip in the two codices was {1} rather than inherited: a scribe in Rouen and a scribe in Padua had simply blundered at the same word.",
+      "blanks": [
+        {
+          "options": [
+            "fortuitous",
+            "providential",
+            "felicitous",
+            "gratuitous",
+            "auspicious"
+          ],
+          "answers": [
+            "fortuitous"
+          ]
+        }
+      ],
+      "words": [
+        "fortuitous"
+      ],
+      "explanation": "The contrast with \"inherited\" — that is, with descent from a common exemplar — demands a word meaning \"arising by chance, without any linking cause,\" which is fortuitous in its strict sense. Providential and auspicious import a favorable design or omen that a shared copying error plainly lacks, felicitous means aptly happy, and the lookalike gratuitous means uncalled-for or unwarranted.",
+      "id": "gregmat21__b3__cloze__05",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "His aides spent the recess trying to {1} him, knowing that the committee's counsel intended all afternoon to {2} him into exactly the sort of unguarded outburst that would discredit his testimony.",
+      "blanks": [
+        {
+          "options": [
+            "placate",
+            "embolden",
+            "upbraid"
+          ],
+          "answers": [
+            "placate"
+          ]
+        },
+        {
+          "options": [
+            "goad",
+            "exhort",
+            "mollify"
+          ],
+          "answers": [
+            "goad"
+          ]
+        }
+      ],
+      "words": [
+        "goad"
+      ],
+      "explanation": "The two blanks pull against each other: the aides work to calm a man the opposing counsel means to needle, so the first must be placate, not embolden (which would abet the outburst) or upbraid (which would provoke it). The second blank takes the construction \"—— him into an outburst\" and requires provocation by irritation, which is goad; exhort appeals to reason and would never produce an unguarded slip, and mollify soothes.",
+      "id": "gregmat21__b3__tc2__06",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the correspondence suggests persuasion; the columnist simply reprinted the same insinuation week after week until he had {1} the ambassador into a reply that ended her career.",
+      "blanks": [
+        {
+          "options": [
+            "goaded",
+            "exhorted",
+            "galvanized",
+            "placated",
+            "cajoled"
+          ],
+          "answers": [
+            "goaded"
+          ]
+        }
+      ],
+      "words": [
+        "goad"
+      ],
+      "explanation": "The mechanism described is repeated needling of a single target, ending in a self-destructive act — the signature of goad, whose victim acts chiefly to make the jabbing stop. Exhorted and cajoled both work by appeal, whether earnest or flattering, which the sentence rules out with \"nothing suggests persuasion\"; galvanized implies a rousing to effective action rather than a ruinous slip.",
+      "id": "gregmat21__b3__cloze__07",
+      "unit": "gregmat21__b3",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": []
+}

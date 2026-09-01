@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat22__b4",
+  "gregmat_group": 22,
+  "words": [
+    "inviolate",
+    "liability",
+    "obstinate",
+    "painstaking"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the delegates at Locarno had sworn that the eastern frontier would remain {1}, the general's {2} refusal to withdraw so much as a single garrison from the disputed valley made the pledge a dead letter within a month.",
+      "blanks": [
+        {
+          "options": [
+            "inviolate",
+            "immaculate",
+            "unalloyed"
+          ],
+          "answers": [
+            "inviolate"
+          ]
+        },
+        {
+          "options": [
+            "obstinate",
+            "obsequious",
+            "boisterous"
+          ],
+          "answers": [
+            "obstinate"
+          ]
+        }
+      ],
+      "words": [
+        "inviolate",
+        "obstinate"
+      ],
+      "explanation": "A border that a solemn oath forbids anyone to cross is inviolate — whole because touching it was prohibited; immaculate and unalloyed concern spotlessness and purity of composition, not breach of a protected line. The second blank needs a word for refusal pushed past reason: obsequious (fawning) is its opposite in spirit, and boisterous describes noise, not immovability.",
+      "id": "gregmat22__b4__tc2__00",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "For decades the museum's uncatalogued backlog was spoken of as an asset in waiting; only after a {1} inventory, conducted box by box over four years, did the trustees concede that the bequest was in fact a {2}, consuming more in conservation costs than it could ever repay in scholarly value.",
+      "blanks": [
+        {
+          "options": [
+            "painstaking",
+            "dilatory",
+            "feckless"
+          ],
+          "answers": [
+            "painstaking"
+          ]
+        },
+        {
+          "options": [
+            "liability",
+            "sinecure",
+            "windfall"
+          ],
+          "answers": [
+            "liability"
+          ]
+        }
+      ],
+      "words": [
+        "painstaking",
+        "liability"
+      ],
+      "explanation": "Four years of box-by-box labour is the very picture of painstaking work; dilatory (slow through procrastination) and feckless (ineffectual) would explain nothing being finished, not a completed inventory. The ledger language of the second clause — costs exceeding return — calls for the accounting verdict liability, whereas a sinecure is a paid post requiring no work and a windfall is unearned gain.",
+      "id": "gregmat22__b4__tc2__01",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Until the emergency decree of 1938, the immunity of deputies from arrest had been regarded as {1}, a guarantee that no ministry, however desperate its position, had dared to touch.",
+      "blanks": [
+        {
+          "options": [
+            "inviolate",
+            "sacrosanct",
+            "pristine",
+            "expendable",
+            "contentious",
+            "obsolete"
+          ],
+          "answers": [
+            "inviolate",
+            "sacrosanct"
+          ]
+        }
+      ],
+      "words": [
+        "inviolate"
+      ],
+      "explanation": "The guarantee is presented as protected by something like taboo — untouched precisely because touching it was forbidden — which is what inviolate and sacrosanct both convey. Pristine would say only that the immunity was unspoiled, with no notion of prohibition, and expendable, contentious and obsolete all fit the grammar while contradicting the clause about no ministry daring to touch it.",
+      "id": "gregmat22__b4__se__02",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Neighbours came to describe the old farmer as {1}: for eleven years he turned down every offer for his fields, long after refusing had ceased to serve any interest of his own.",
+      "blanks": [
+        {
+          "options": [
+            "obstinate",
+            "obdurate",
+            "obstreperous",
+            "obsequious",
+            "gregarious",
+            "magnanimous"
+          ],
+          "answers": [
+            "obstinate",
+            "obdurate"
+          ]
+        }
+      ],
+      "words": [
+        "obstinate"
+      ],
+      "explanation": "Refusal sustained past the point of self-interest is what obstinate and obdurate both name, and both carry the same disapproving verdict. Obstreperous means noisily unruly and obsequious means fawning — near-lookalikes that describe manner rather than immovability — while gregarious and magnanimous fit the sentence's grammar but reverse its sense.",
+      "id": "gregmat22__b4__se__03",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "By the final season the striker's wages consumed a fifth of the payroll while his defensive lapses conceded more goals than his finishing won, and the board reluctantly entered him in the column where he belonged: a {1}.",
+      "blanks": [
+        {
+          "options": [
+            "liability",
+            "nuisance",
+            "sinecure",
+            "stipend",
+            "dividend"
+          ],
+          "answers": [
+            "liability"
+          ]
+        }
+      ],
+      "words": [
+        "liability"
+      ],
+      "explanation": "The sentence is doing arithmetic — what he costs against what he returns — which is exactly the balance-sheet judgement liability delivers. A nuisance merely irritates and implies no net cost, a sinecure is a post that demands nothing of its holder, and a stipend and a dividend are payments rather than burdens.",
+      "id": "gregmat22__b4__cloze__04",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Her gift was never quickness of eye but sheer stamina: the reassembly of the chapel frescoes, fragment by numbered fragment across nine years, was {1} rather than inspired.",
+      "blanks": [
+        {
+          "options": [
+            "painstaking",
+            "dilatory",
+            "desultory",
+            "indolent",
+            "feckless"
+          ],
+          "answers": [
+            "painstaking"
+          ]
+        }
+      ],
+      "words": [
+        "painstaking"
+      ],
+      "explanation": "The sentence explicitly credits stamina over talent and describes years of slow, fiddly labour, which is precisely what painstaking praises. Dilatory, desultory, indolent and feckless all denote failures of application — delay, aimlessness, laziness, ineffectuality — and would contradict the nine years of sustained work.",
+      "id": "gregmat22__b4__cloze__05",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Only a {1} comparison of the two manuscripts, letter by letter across sixteen hundred folios, could have established that both descend from a single lost exemplar.",
+      "blanks": [
+        {
+          "options": [
+            "painstaking",
+            "sedulous",
+            "perfunctory",
+            "provisional",
+            "tendentious",
+            "impromptu"
+          ],
+          "answers": [
+            "painstaking",
+            "sedulous"
+          ]
+        }
+      ],
+      "words": [
+        "painstaking"
+      ],
+      "explanation": "Letter-by-letter work over sixteen hundred folios demands patient, laborious diligence, and painstaking and sedulous both credit exactly that grinding effort. Perfunctory and impromptu describe work done carelessly or without preparation, while provisional and tendentious fit the grammar but speak to a comparison's status and bias rather than the labour behind it.",
+      "id": "gregmat22__b4__se__06",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The committee's report credits Halloran's {1} collation of the parish registers — thirty years of Sundays bent over the same ledgers — while noting that his {2} rejection of every dating method he had not himself devised left much of the resulting chronology unusable.",
+      "blanks": [
+        {
+          "options": [
+            "painstaking",
+            "desultory",
+            "dilatory"
+          ],
+          "answers": [
+            "painstaking"
+          ]
+        },
+        {
+          "options": [
+            "obstinate",
+            "sedulous",
+            "deferential"
+          ],
+          "answers": [
+            "obstinate"
+          ]
+        }
+      ],
+      "words": [
+        "painstaking",
+        "obstinate"
+      ],
+      "explanation": "The dash supplies the evidence for the first blank — three decades of patient drudgery — which desultory (fitful) and dilatory (procrastinating) directly contradict. The second blank must convey unreasoning resistance that damages his own work: sedulous would praise the same diligence again rather than name the flaw, and deferential describes yielding to others, the opposite of what he does.",
+      "id": "gregmat22__b4__tc2__07",
+      "unit": "gregmat22__b4",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": []
+}

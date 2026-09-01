@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat06__b4",
+  "gregmat_group": 6,
+  "words": [
+    "probity",
+    "proliferate",
+    "specious",
+    "spurious"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The commission's report drew a sharp line between the two officers: the treasurer, whose {1} in administering the endowment survived a forensic audit unblemished, and the registrar, who chose to {2} when questioned about the missing receipts rather than admit the shortfall outright.",
+      "blanks": [
+        {
+          "options": [
+            "probity",
+            "candor",
+            "mendacity"
+          ],
+          "answers": [
+            "probity"
+          ]
+        },
+        {
+          "options": [
+            "dissemble",
+            "capitulate",
+            "acquiesce"
+          ],
+          "answers": [
+            "dissemble"
+          ]
+        }
+      ],
+      "words": [
+        "probity"
+      ],
+      "explanation": "Probity is honesty of the institutional, auditable kind — incorruptibility in handling funds or an office — which is exactly what a forensic audit tests. Candor is frankness in speech and has nothing to survive in an audit; mendacity would reverse the praise. The second blank must name active concealment, so dissemble fits where capitulate (surrender) and acquiesce (consent) do not.",
+      "id": "gregmat06__b4__tc2__00",
+      "unit": "gregmat06__b4",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Nominated to chair the disciplinary tribunal, she was selected less for her doctrinal brilliance than for a reputation for {1} that three decades of administering client escrow accounts had never once put in question.",
+      "blanks": [
+        {
+          "options": [
+            "probity",
+            "veracity",
+            "candor",
+            "artlessness",
+            "perfidy"
+          ],
+          "answers": [
+            "probity"
+          ]
+        }
+      ],
+      "words": [
+        "probity"
+      ],
+      "explanation": "Probity is the word for honesty exercised over money or an office that is not one's own, and escrow accounts are the paradigm case. Veracity concerns the truth of what a person says rather than the handling of entrusted funds, and artlessness merely denotes a lack of guile; perfidy is the opposite of what the nomination rewards.",
+      "id": "gregmat06__b4__cloze__01",
+      "unit": "gregmat06__b4",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Once article-processing charges made open-access publishing lucrative, journals of dubious editorial standing {1}, until the indexing services could no longer keep pace with the sheer number of new titles.",
+      "blanks": [
+        {
+          "options": [
+            "proliferated",
+            "burgeoned",
+            "escalated",
+            "festered",
+            "languished",
+            "coalesced"
+          ],
+          "answers": [
+            "proliferated",
+            "burgeoned"
+          ]
+        }
+      ],
+      "words": [
+        "proliferate"
+      ],
+      "explanation": "The clue is the indexers' inability to keep up with the number of titles, so the blank must mean a rapid multiplication in count, which both proliferated and burgeoned supply. Escalated describes intensification in severity, not increase in headcount, and festered describes something rankling or suppurating rather than multiplying; languished and coalesced go the wrong way entirely.",
+      "id": "gregmat06__b4__se__02",
+      "unit": "gregmat06__b4",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Critics of the accord objected that its verification clauses were so permissive that it would in practice {1} the very technologies it purported to contain, since any signatory could ship enrichment equipment abroad under the cover of civilian research.",
+      "blanks": [
+        {
+          "options": [
+            "proliferate",
+            "burgeon",
+            "encroach",
+            "curtail",
+            "arrogate"
+          ],
+          "answers": [
+            "proliferate"
+          ]
+        }
+      ],
+      "words": [
+        "proliferate"
+      ],
+      "explanation": "Proliferate is the one option here that takes a direct object — to proliferate weapons or technologies is to cause them to spread — which the syntax requires. Burgeon and encroach are intransitive and cannot govern \"technologies\"; curtail reverses the sense, and arrogate means to claim something for oneself without right.",
+      "id": "gregmat06__b4__cloze__03",
+      "unit": "gregmat06__b4",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Students of rhetoric are drilled to separate the merely {1} from the genuinely {2}: a chain of inferences can march from premise to conclusion in impeccable order and still rest on a definition that no working scientist would accept.",
+      "blanks": [
+        {
+          "options": [
+            "specious",
+            "abstruse",
+            "tendentious"
+          ],
+          "answers": [
+            "specious"
+          ]
+        },
+        {
+          "options": [
+            "cogent",
+            "coherent",
+            "ornate"
+          ],
+          "answers": [
+            "cogent"
+          ]
+        }
+      ],
+      "words": [
+        "specious"
+      ],
+      "explanation": "Specious names reasoning that is built to pass a first inspection and fail a second, which is precisely the argument described — orderly on the surface, rotten at its foundation. The second blank cannot be coherent, since the sentence already grants the argument its orderly internal consistency; what it lacks is soundness, that is, cogency. Abstruse (hard to follow) and tendentious (slanted toward a conclusion) miss the surface-plausibility that is the whole point.",
+      "id": "gregmat06__b4__tc2__04",
+      "unit": "gregmat06__b4",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the correlation held only during the two seasons in which the instrument was miscalibrated, the reviewers concluded that it was {1}, and the elaborate causal narrative erected upon it was quietly {2} by its authors.",
+      "blanks": [
+        {
+          "options": [
+            "spurious",
+            "specious",
+            "mendacious"
+          ],
+          "answers": [
+            "spurious"
+          ]
+        },
+        {
+          "options": [
+            "retracted",
+            "vindicated",
+            "propagated"
+          ],
+          "answers": [
+            "retracted"
+          ]
+        }
+      ],
+      "words": [
+        "spurious"
+      ],
+      "explanation": "A pattern produced by a faulty instrument has no legitimate basis in the world, and spurious is the term for such an artifact — crucially, it requires no liar, which is why mendacious (deliberately untruthful) is wrong. Specious would be a verdict on reasoning that looks sound, whereas the fault here lies in the data themselves; once the correlation is gone, the story built on it must be withdrawn, not confirmed or spread.",
+      "id": "gregmat06__b4__tc2__06",
+      "unit": "gregmat06__b4",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Generations of historians cited the charter as proof of the abbey's ancient privileges, but paper manufactured two centuries after the document's supposed sealing shows it to be {1}.",
+      "blanks": [
+        {
+          "options": [
+            "spurious",
+            "bogus",
+            "dubious",
+            "tendentious",
+            "extant",
+            "unimpeachable"
+          ],
+          "answers": [
+            "spurious",
+            "bogus"
+          ]
+        }
+      ],
+      "words": [
+        "spurious"
+      ],
+      "explanation": "The watermark evidence settles the question, so the blank must assert outright fakery, which spurious and bogus both do. Dubious stops short at mere doubt, and the sentence has moved past doubt to proof; tendentious would accuse the charter of bias rather than forgery, extant merely says it survives, and unimpeachable asserts the reverse.",
+      "id": "gregmat06__b4__se__07",
+      "unit": "gregmat06__b4",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The clue after the colon (\"impeccably lawyerly on first hearing, it dissolves the moment anyone asked...\") calls for a word meaning \"superficially plausible but empty,\" which is exactly \"specious\" — but \"spurious\" is a genuine second fit. Merriam-Webster defines spurious as \"having a deceptively genuine appearance / of a deceitful nature,\" and \"a spurious distinction\" is a standard idiom for a distinction with no real basis. Nothing in the sentence separates the two: both capture surface-plausibility plus underlying falsity, and a judge dismissing a distinction as \"spurious\" is at least as idiomatic as \"specious.\" (The distractors are fine: \"cogent\" is the opposite, \"tendentious\" means slanted toward a thesis rather than hollow, and \"redundant\" would mean duplicative rather than unsatisfiable.) A reasonable test-taker who picks \"spurious\" would be marked wrong on a defensible reading, so the item needs a discriminating clue — e.g. wording that stresses the seeming-vs-being contrast in a way only \"specious\" tracks, or replacing \"spurious\" with a non-synonym distractor.",
+      "stem": "The appeal turned on a distinction between inadvertence and recklessness that the judges dismissed as {1}: impeccably lawyerly on first hearing, it dissolved the moment anyone asked what evidence could ever satisfy it."
+    }
+  ]
+}

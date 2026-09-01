@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat35__b2",
+  "gregmat_group": 35,
+  "words": [
+    "dismantle",
+    "elaborate",
+    "exegesis",
+    "forgo"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The colonial revenue service was a remarkably {1} apparatus, a dozen overlapping bureaus each auditing the others, and the successor government therefore chose to {2} it office by office across a decade rather than abolish it in a single decree.",
+      "blanks": [
+        {
+          "options": [
+            "elaborate",
+            "rudimentary",
+            "lucid"
+          ],
+          "answers": [
+            "elaborate"
+          ]
+        },
+        {
+          "options": [
+            "dismantle",
+            "eradicate",
+            "vanquish"
+          ],
+          "answers": [
+            "dismantle"
+          ]
+        }
+      ],
+      "words": [
+        "elaborate",
+        "dismantle"
+      ],
+      "explanation": "A dozen bureaus auditing one another describes a structure built of many carefully fitted parts, which is elaborate; rudimentary says the opposite and lucid praises clarity rather than counting parts. The second blank is fixed by the contrast with abolishing by decree: dismantle supplies the method — office by office, in sequence — whereas eradicate and vanquish name a result achieved by force and would collapse the sentence's opposition between patient procedure and a single stroke.",
+      "id": "gregmat35__b2__tc2__00",
+      "unit": "gregmat35__b2",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "Rather than demolish the teahouse where it stood, the museum's conservators spent three weeks numbering every beam and joint so that a crew could {1} the building and raise it again, unharmed, in Osaka.",
+      "blanks": [
+        {
+          "options": [
+            "dismantle",
+            "disassemble",
+            "undermine",
+            "subvert",
+            "ravage",
+            "eradicate"
+          ],
+          "answers": [
+            "dismantle",
+            "disassemble"
+          ]
+        }
+      ],
+      "words": [
+        "dismantle"
+      ],
+      "explanation": "Numbered beams and a building raised again unharmed require the sense of orderly taking-apart into parts, which dismantle and disassemble share exactly. Undermine and subvert would mean weakening the structure covertly from beneath, and ravage and eradicate both end in ruin or absence — the one outcome the conservators are at pains to avoid.",
+      "id": "gregmat35__b2__se__01",
+      "unit": "gregmat35__b2",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Investigators grew suspicious less of the theft than of the manager's account of the evening: a story perfectly clear at every point, timed to the minute and corroborated by receipts he happened to have kept, and yet so {1} that no innocent night could have furnished quite so many convenient parts.",
+      "blanks": [
+        {
+          "options": [
+            "elaborate",
+            "convoluted",
+            "ornate",
+            "florid",
+            "rudimentary"
+          ],
+          "answers": [
+            "elaborate"
+          ]
+        }
+      ],
+      "words": [
+        "elaborate"
+      ],
+      "explanation": "The suspicion attaches to the sheer number of carefully fitted pieces and the effort behind them, which is what elaborate measures. Convoluted is ruled out because the stem insists the story is perfectly clear rather than tangled, and ornate and florid concern decorative surface, which an alibi has none of; rudimentary reverses the sense.",
+      "id": "gregmat35__b2__cloze__02",
+      "unit": "gregmat35__b2",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the papyrus survives only in a fifth-century Latin translation, the editor chose to {1} the line-by-line {2} the series normally demands, offering instead a plain restatement of what the chapter seems to argue.",
+      "blanks": [
+        {
+          "options": [
+            "forgo",
+            "embellish",
+            "corroborate"
+          ],
+          "answers": [
+            "forgo"
+          ]
+        },
+        {
+          "options": [
+            "exegesis",
+            "paraphrase",
+            "polemic"
+          ],
+          "answers": [
+            "exegesis"
+          ]
+        }
+      ],
+      "words": [
+        "forgo",
+        "exegesis"
+      ],
+      "explanation": "Losing the original language removes the tools — Greek diction, historical usage — on which exegesis, a systematic line-by-line drawing-out of a text's meaning, depends; paraphrase is excluded because the plain restatement is offered as the substitute, and polemic argues rather than interprets. The editor declines a treatment he was entitled to give but never began, which is precisely forgo, while embellish and corroborate describe adding ornament and supplying confirmation.",
+      "id": "gregmat35__b2__tc2__03",
+      "unit": "gregmat35__b2",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "se",
+      "stem": "Kermode complained that the seminar had begun to treat the novel as scripture, subjecting a hundred pages of light comedy to the sort of {1} ordinarily reserved for disputed points of canon law.",
+      "blanks": [
+        {
+          "options": [
+            "exegesis",
+            "explication",
+            "paraphrase",
+            "encomium",
+            "invective",
+            "redaction"
+          ],
+          "answers": [
+            "exegesis",
+            "explication"
+          ]
+        }
+      ],
+      "words": [
+        "exegesis"
+      ],
+      "explanation": "Canon law supplies the model of systematic, line-by-line interpretation with scholarly apparatus, a sense carried equally by exegesis and explication. Paraphrase merely restates and involves no method, encomium praises and invective attacks, and redaction is editorial cutting rather than interpretation.",
+      "id": "gregmat35__b2__se__04",
+      "unit": "gregmat35__b2",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "cloze",
+      "stem": "Over eight sessions the commission repealed the guild statutes in order — first the apprenticeship monopoly, then the price schedules, finally the courts that enforced them — in what was less a revolution than a patient, procedural effort to {1} an institution its predecessors had spent four centuries assembling.",
+      "blanks": [
+        {
+          "options": [
+            "dismantle",
+            "undermine",
+            "subvert",
+            "eradicate",
+            "ravage"
+          ],
+          "answers": [
+            "dismantle"
+          ]
+        }
+      ],
+      "words": [
+        "dismantle"
+      ],
+      "explanation": "The statutes come apart in a named sequence, openly and on the record, and the sentence stresses that the thing was built up over centuries — the conditions dismantle was made for. Undermine and subvert require weakening from below or from within, which sits badly with public repeal, and eradicate and ravage name a wiping-out achieved by force rather than an orderly taking-apart.",
+      "id": "gregmat35__b2__cloze__05",
+      "unit": "gregmat35__b2",
+      "verified": true,
+      "gregmat_group": 35
+    },
+    {
+      "type": "tc2",
+      "stem": "What began as a modest {1} of a two-line lyric had swollen, by the third edition, into an apparatus so {2} — appendices on metre, a concordance, three tables of variant readings — that the couplet seemed less read than buried.",
+      "blanks": [
+        {
+          "options": [
+            "exegesis",
+            "palinode",
+            "lampoon"
+          ],
+          "answers": [
+            "exegesis"
+          ]
+        },
+        {
+          "options": [
+            "elaborate",
+            "ornate",
+            "florid"
+          ],
+          "answers": [
+            "elaborate"
+          ]
+        }
+      ],
+      "words": [
+        "exegesis",
+        "elaborate"
+      ],
+      "explanation": "An apparatus of metrical appendices, concordance and variant tables is the scholarly machinery of exegesis, whereas a palinode retracts an earlier position and a lampoon mocks. The second blank must measure accumulated parts and labour, which is elaborate; ornate and florid describe decorated surfaces, and tables of variants are not decoration but joinery.",
+      "id": "gregmat35__b2__tc2__06",
+      "unit": "gregmat35__b2",
+      "verified": true,
+      "gregmat_group": 35
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The option set contains too many mutually substitutable \"give up\" verbs. Besides the intended forgo/waive pair, \"renounce\" fits the sentence acceptably (\"renounced the customary fee\" is attested usage) and yields substantially the same meaning as forgo, so forgo+renounce or waive+renounce are defensible picks that would be marked wrong. \"Renounce\" and \"abjure\" are also near-exact synonyms of each other, forming a second candidate pair. Replace renounce (and preferably abjure) with distractors from a different semantic family, or add a cue that forces the \"decline to claim what is owed\" sense over the \"formally disavow\" sense.",
+      "stem": "Assigned the case by the court rather than retained by the family, the barrister felt obliged to {1} the customary fee, and no bill was ever sent."
+    }
+  ]
+}

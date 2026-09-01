@@ -1,0 +1,261 @@
+{
+  "unit": "gregmat17__b3",
+  "gregmat_group": 17,
+  "words": [
+    "foolhardy",
+    "hinder",
+    "impair",
+    "impugn"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reviewers of the expedition's medical log concluded that Mallory's final push was less {1} than it has always looked: hypoxia had by then so {2} his judgment that the danger he ran was one he could no longer perceive, let alone weigh.",
+      "blanks": [
+        {
+          "options": [
+            "foolhardy",
+            "headstrong",
+            "precipitate"
+          ],
+          "answers": [
+            "foolhardy"
+          ]
+        },
+        {
+          "options": [
+            "impaired",
+            "debilitated",
+            "enervated"
+          ],
+          "answers": [
+            "impaired"
+          ]
+        }
+      ],
+      "words": [
+        "foolhardy",
+        "impair"
+      ],
+      "explanation": "Foolhardy requires that the danger be visible and consciously disregarded, so the finding that Mallory could no longer perceive the risk is precisely what disqualifies the charge; headstrong (willful against advice) and precipitate (hasty) are not negated by an inability to see danger. In the second blank, impair is the verb that takes a single named faculty and reports it degraded rather than gone, whereas debilitate and enervate drain a whole person of strength.",
+      "id": "gregmat17__b3__tc2__00",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "The flurry of subpoenas did not halt the inquiry outright; it merely {1} the proceedings, buying defense counsel the weeks he needed to {2} the credibility of the state's chief witness without ever having to disprove a word of her testimony.",
+      "blanks": [
+        {
+          "options": [
+            "hindered",
+            "precluded",
+            "galvanized"
+          ],
+          "answers": [
+            "hindered"
+          ]
+        },
+        {
+          "options": [
+            "impugn",
+            "refute",
+            "corroborate"
+          ],
+          "answers": [
+            "impugn"
+          ]
+        }
+      ],
+      "words": [
+        "hinder",
+        "impugn"
+      ],
+      "explanation": "\"Did not halt... outright\" sets up the friction-not-stoppage sense that hinder carries, while preclude means to make impossible and galvanize reverses the direction. The second blank is fixed by \"without ever having to disprove\": to refute is to defeat a claim with proof, whereas to impugn is only to cast doubt on someone's honesty or credibility.",
+      "id": "gregmat17__b3__tc2__01",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "The reef was charted, the swell was rising, and two boats had already been lost that month, so the captain's decision to run the channel after dark was not merely bold but {1} — a gamble the subsequent inquiry called indefensible.",
+      "blanks": [
+        {
+          "options": [
+            "foolhardy",
+            "reckless",
+            "audacious",
+            "impetuous",
+            "prudent",
+            "circumspect"
+          ],
+          "answers": [
+            "foolhardy",
+            "reckless"
+          ]
+        }
+      ],
+      "words": [
+        "foolhardy"
+      ],
+      "explanation": "The listed hazards were all known in advance, and the inquiry's verdict makes the sentence condemnatory, so only foolhardy and reckless — both faulting the disregard of evident danger — complete it equivalently. Audacious admires the nerve rather than condemning it, and impetuous describes an act of sudden impulse, which a deliberate night crossing of a charted reef is not; prudent and circumspect are excluded by \"not merely bold but.\"",
+      "id": "gregmat17__b3__se__02",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than dispute a single figure in the economist's data, her critics chose to {1} her motives, observing at every opportunity that the study had been underwritten by the very industry it cleared.",
+      "blanks": [
+        {
+          "options": [
+            "impugn",
+            "refute",
+            "corroborate",
+            "gainsay",
+            "extenuate"
+          ],
+          "answers": [
+            "impugn"
+          ]
+        }
+      ],
+      "words": [
+        "impugn"
+      ],
+      "explanation": "The critics leave the findings untouched and attack the author's honesty instead, which is exactly what impugn does: it questions integrity or motive without proving anything. Refute and gainsay would require engaging the claims themselves — the option the sentence explicitly says was declined — and corroborate and extenuate move in the wrong direction entirely.",
+      "id": "gregmat17__b3__cloze__03",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "se",
+      "stem": "Neither the fog nor the frozen ground stopped the excavation; they merely {1} it, so that a single season's work stretched across two.",
+      "blanks": [
+        {
+          "options": [
+            "hindered",
+            "impeded",
+            "precluded",
+            "expedited",
+            "galvanized",
+            "abetted"
+          ],
+          "answers": [
+            "hindered",
+            "impeded"
+          ]
+        }
+      ],
+      "words": [
+        "hinder"
+      ],
+      "explanation": "The first clause denies outright stoppage and the result clause reports delay, so the blank needs a word for friction that slows without preventing: hindered and impeded are interchangeable here. Precluded asserts the very impossibility the sentence rules out, and expedited, galvanized, and abetted would all have the weather helping the dig along.",
+      "id": "gregmat17__b3__se__04",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "cloze",
+      "stem": "Prolonged exposure to the solvent does not blind workers outright, but it demonstrably {1} their colour discrimination, and technicians in the older plants failed the Ishihara plates at three times the expected rate.",
+      "blanks": [
+        {
+          "options": [
+            "impairs",
+            "obliterates",
+            "enervates",
+            "debilitates",
+            "precludes"
+          ],
+          "answers": [
+            "impairs"
+          ]
+        }
+      ],
+      "words": [
+        "impair"
+      ],
+      "explanation": "The workers still see and still take the test; one specific faculty simply works worse, which is the partial damage impair is reserved for. Obliterates and precludes deny that the capacity survives at all, and enervates and debilitates describe a whole person drained of vigour rather than one named ability degraded.",
+      "id": "gregmat17__b3__cloze__05",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Counsel never alleged that the samples had been fabricated; he sought only to {1} the analyst's independence by producing his consulting invoices, and to argue that the lapses in refrigeration had {2} the evidence — degraded it, not destroyed it — enough to make the match unreliable.",
+      "blanks": [
+        {
+          "options": [
+            "impugn",
+            "refute",
+            "exonerate"
+          ],
+          "answers": [
+            "impugn"
+          ]
+        },
+        {
+          "options": [
+            "impaired",
+            "precluded",
+            "obliterated"
+          ],
+          "answers": [
+            "impaired"
+          ]
+        }
+      ],
+      "words": [
+        "impugn",
+        "impair"
+      ],
+      "explanation": "Producing the invoices casts doubt on the analyst's honesty without disproving his science, which is the frontal but unproven challenge impugn names; refute would require defeating the findings, and exonerate clears rather than accuses. The appositive \"degraded it, not destroyed it\" then forces impaired, since preclude and obliterate both report the evidentiary value as wholly gone.",
+      "id": "gregmat17__b3__tc2__06",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    },
+    {
+      "type": "tc2",
+      "stem": "Amundsen's caution has often been mistaken for timidity, but the polar record shows the reverse: he declined the {1} dashes that make Scott's diaries so thrilling precisely because he understood that one frostbitten man would {2} the whole party for weeks.",
+      "blanks": [
+        {
+          "options": [
+            "foolhardy",
+            "judicious",
+            "deliberate"
+          ],
+          "answers": [
+            "foolhardy"
+          ]
+        },
+        {
+          "options": [
+            "hinder",
+            "preclude",
+            "expedite"
+          ],
+          "answers": [
+            "hinder"
+          ]
+        }
+      ],
+      "words": [
+        "foolhardy",
+        "hinder"
+      ],
+      "explanation": "The contrast with Amundsen's own prudence requires a word that condemns Scott's dashes as courage spent against obvious danger, which is foolhardy; judicious and deliberate would praise exactly the quality the sentence assigns to Amundsen instead. \"For weeks\" then fixes the second blank on hinder, a slowing rather than the outright impossibility of preclude.",
+      "id": "gregmat17__b3__tc2__07",
+      "unit": "gregmat17__b3",
+      "verified": true,
+      "gregmat_group": 17
+    }
+  ],
+  "rejects": []
+}

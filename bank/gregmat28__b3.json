@@ -1,0 +1,210 @@
+{
+  "unit": "gregmat28__b3",
+  "gregmat_group": 28,
+  "words": [
+    "enmity",
+    "gauche",
+    "hysterical",
+    "impudent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Wharton's newcomers fail not through malice but through ignorance of a code no one will state aloud: the arriviste's gift of an ostentatiously costly vase is {1} precisely because he cannot see that in this drawing room {2} requires the modest offering rather than the expensive one.",
+      "blanks": [
+        {
+          "options": [
+            "gauche",
+            "impudent",
+            "churlish"
+          ],
+          "answers": [
+            "gauche"
+          ]
+        },
+        {
+          "options": [
+            "decorum",
+            "temerity",
+            "animosity"
+          ],
+          "answers": [
+            "decorum"
+          ]
+        }
+      ],
+      "words": [
+        "gauche"
+      ],
+      "explanation": "\"Not through malice but through ignorance\" rules out impudent (cheeky disrespect aimed upward) and churlish (surly ill temper); the blunder comes from never having learned the rules, which is exactly gauche. The second blank names the unstated code that dictates the modest gift — propriety, i.e. decorum — where temerity (nerve) and animosity (ill will) name nothing a drawing room could require.",
+      "id": "gregmat28__b3__tc2__02",
+      "unit": "gregmat28__b3",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "For all his command of the technical literature, the young physicist was hopelessly {1} in company, meeting a courtesy with a correction and a joke with a blank stare.",
+      "blanks": [
+        {
+          "options": [
+            "gauche",
+            "maladroit",
+            "adroit",
+            "urbane",
+            "pedantic",
+            "impertinent"
+          ],
+          "answers": [
+            "gauche",
+            "maladroit"
+          ]
+        }
+      ],
+      "words": [
+        "gauche"
+      ],
+      "explanation": "Gauche and maladroit both mean socially clumsy, and either yields the same sentence: a man with no feel for how company works. Adroit and urbane reverse the sense; pedantic and impertinent are tempting because he corrects people, but pedantic describes fussiness about learning rather than social ineptitude, and impertinent would imply deliberate cheek rather than obliviousness.",
+      "id": "gregmat28__b3__se__03",
+      "unit": "gregmat28__b3",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "The first dispatches about the outbreak were filed in Whitehall as {1}, and the label did the work that argument would have cost: once a warning is taken to issue from a mind {2} by fear rather than one weighing evidence, no official is obliged to answer what it actually says.",
+      "blanks": [
+        {
+          "options": [
+            "hysterical",
+            "phlegmatic",
+            "urbane"
+          ],
+          "answers": [
+            "hysterical"
+          ]
+        },
+        {
+          "options": [
+            "overmastered",
+            "disciplined",
+            "vindicated"
+          ],
+          "answers": [
+            "overmastered"
+          ]
+        }
+      ],
+      "words": [
+        "hysterical"
+      ],
+      "explanation": "The second blank must describe the mind that the dismissal imputes, opposed to \"weighing evidence,\" so only \"overmastered\" works — a disciplined mind would weigh evidence, and \"vindicated by fear\" is incoherent. That loss of control is precisely the charge in \"hysterical,\" a word that discredits judgement rather than sincerity; phlegmatic and urbane describe composure and would give the ministry no excuse at all.",
+      "id": "gregmat28__b3__tc2__04",
+      "unit": "gregmat28__b3",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "At the sound of the second explosion the orderly line at the embassy gate dissolved into a {1} crush of people who could no longer be reasoned with or directed.",
+      "blanks": [
+        {
+          "options": [
+            "hysterical",
+            "frenzied",
+            "restive",
+            "histrionic",
+            "stolid",
+            "phlegmatic"
+          ],
+          "answers": [
+            "hysterical",
+            "frenzied"
+          ]
+        }
+      ],
+      "words": [
+        "hysterical"
+      ],
+      "explanation": "Hysterical and frenzied both describe emotion past the point of control, which is what \"could no longer be reasoned with\" requires, and hysterical uniquely scales to a crowd. Restive means merely restless and impatient, and histrionic would imply the panic was performed for an audience rather than genuinely uncontrollable; stolid and phlegmatic describe the composure the crowd has just lost.",
+      "id": "gregmat28__b3__se__05",
+      "unit": "gregmat28__b3",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "tc2",
+      "stem": "What galled the magistrate was less the apprentice's offence than his bearing in the dock: not the chilly {1} of a hardened offender who despises the court, but something {2} — a grin, a ready back-answer, a cheerful presumption that rank simply did not apply to him.",
+      "blanks": [
+        {
+          "options": [
+            "insolence",
+            "diffidence",
+            "contrition"
+          ],
+          "answers": [
+            "insolence"
+          ]
+        },
+        {
+          "options": [
+            "impudent",
+            "obsequious",
+            "timorous"
+          ],
+          "answers": [
+            "impudent"
+          ]
+        }
+      ],
+      "words": [
+        "impudent"
+      ],
+      "explanation": "The first blank is glossed by \"despises the court,\" which names cold contempt — insolence — while diffidence (shyness) and contrition (remorse) would not gall anyone. The second blank is set against that coldness and described as grinning and pleased with itself: that is impudence, cheek from below rather than contempt; obsequious (fawning) and timorous (fearful) contradict the grin.",
+      "id": "gregmat28__b3__tc2__06",
+      "unit": "gregmat28__b3",
+      "verified": true,
+      "gregmat_group": 28
+    },
+    {
+      "type": "se",
+      "stem": "Addressing the Colonial Secretary as though he were a fellow undergraduate, the junior clerk was gone within the week; the department had no room for the {1} subordinate.",
+      "blanks": [
+        {
+          "options": [
+            "impudent",
+            "insolent",
+            "diffident",
+            "timorous",
+            "contrite",
+            "punctilious"
+          ],
+          "answers": [
+            "impudent",
+            "insolent"
+          ]
+        }
+      ],
+      "words": [
+        "impudent"
+      ],
+      "explanation": "Impudent and insolent both mean disrespectful toward a superior, and either produces the same charge against a clerk who ignores rank. Diffident and timorous describe the shrinking deference he conspicuously lacks, contrite would mean he was sorry, and punctilious describes exact observance of the very forms he violated.",
+      "id": "gregmat28__b3__se__07",
+      "unit": "gregmat28__b3",
+      "verified": true,
+      "gregmat_group": 28
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 offers two near-synonyms, \"enmity\" and \"animosity,\" and the sentence does not decisively exclude either. The intended discriminator is presumably the clause \"a standing relation rather than a present feeling,\" which favors \"enmity\" (the structural condition of being enemies) over \"animosity\" (active hostile feeling). But that distinction is a matter of connotative shading, not denotation — the two words are listed as synonyms in standard dictionaries, and \"the animosity between them was a standing relation rather than a present feeling\" is fully idiomatic English. A careful test-taker could choose \"animosity\" on defensible grounds and be marked wrong, so the question is not uniquely answerable as written. Blank 1 is sound (\"even\" forces escalation along the positive axis of \"courtesy,\" which only \"cordial\" satisfies).",
+      "stem": "On the rare public occasion the Percys and the Nevilles met with a punctilious, even {1}, courtesy, and no man then living could recall a specific injury done by one house to the other; the {2} between them, however, was a standing relation rather than a present feeling, and needed no fresh grievance to remain in force."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence's cues (\"formal,\" and the state outlasting everyone who actually felt the insult) push toward a word denoting an institutionalized *state* of hostility rather than a felt emotion, which favors \"enmity.\" But \"animosity\" is a near-synonym and collocates extremely naturally here — \"generations of animosity between two houses\" is idiomatic English, and animosity is routinely attributed to families and factions rather than only to individuals. \"Antipathy\" is weaker but also arguable. Only \"chagrin\" (vexation/embarrassment at oneself) and \"aversion\" (desire to avoid, and it doesn't take \"between two houses\") are cleanly excluded, so the item forces a fine enmity-vs-animosity register judgment that a reasonable test-taker can lose. To make it unique, the sentence needs a cue that rules out a felt emotion outright (e.g., something about a status ratified by treaty or registered by the commune).",
+      "stem": "Historians of the Italian city-states observe that a vendetta could harden into a formal {1} between two houses that outlasted the original quarrel by generations, persisting long after every person who had felt the heat of the first insult was dead."
+    }
+  ]
+}

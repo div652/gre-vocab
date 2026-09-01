@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat29__b3",
+  "gregmat_group": 29,
+  "words": [
+    "dowdy",
+    "détente",
+    "echelon",
+    "ennui"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Photographs of the trade delegation show suits that were expensive and immaculately pressed yet unmistakably {1}: not {2} — there is no fraying at the cuffs, no shine at the elbows — merely shapeless, joyless, and cut to a pattern abandoned ten years earlier.",
+      "blanks": [
+        {
+          "options": [
+            "dowdy",
+            "gaudy",
+            "opulent"
+          ],
+          "answers": [
+            "dowdy"
+          ]
+        },
+        {
+          "options": [
+            "shabby",
+            "ostentatious",
+            "austere"
+          ],
+          "answers": [
+            "shabby"
+          ]
+        }
+      ],
+      "words": [
+        "dowdy"
+      ],
+      "explanation": "The suits are costly and pristine but shapeless and out of fashion, which is precisely dowdy — dullness, not flash, so gaudy and opulent both fight the sentence's concessive \"yet.\" The second blank is defined by its own gloss: fraying cuffs and shiny elbows describe wear, so shabby is required; austere would name deliberate plainness, not deterioration.",
+      "id": "gregmat29__b3__tc2__00",
+      "unit": "gregmat29__b3",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers complained that the designer had put the heiress in {1} tweeds — spotless, costly, and utterly without shape or flair — when the novel presents her as the most dazzlingly dressed woman in the county.",
+      "blanks": [
+        {
+          "options": [
+            "dowdy",
+            "frumpy",
+            "shabby",
+            "gaudy",
+            "ostentatious",
+            "meticulous"
+          ],
+          "answers": [
+            "dowdy",
+            "frumpy"
+          ]
+        }
+      ],
+      "words": [
+        "dowdy"
+      ],
+      "explanation": "Dowdy and frumpy both mean drab and unfashionable without implying wear or poverty, which is exactly what \"spotless, costly, and utterly without shape or flair\" specifies. Shabby is ruled out by \"spotless\" and \"costly\"; gaudy and ostentatious form a tempting second pair but reverse the meaning, since the fault is too little style, not too much.",
+      "id": "gregmat29__b3__se__01",
+      "unit": "gregmat29__b3",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Neither department conceded a line of its proposal and no joint appointment was ever made, yet after the dean's intervention a wary {1} held for three years: the circulating memos stopped, the budget hearings grew quiet, and each side simply ceased to attack.",
+      "blanks": [
+        {
+          "options": [
+            "détente",
+            "comity",
+            "consensus",
+            "accord",
+            "appeasement"
+          ],
+          "answers": [
+            "détente"
+          ]
+        }
+      ],
+      "words": [
+        "détente"
+      ],
+      "explanation": "Only détente describes hostility easing without anything being settled or anyone being reconciled, which is what \"neither conceded\" plus \"ceased to attack\" jointly demand. Consensus and accord require substantive agreement, appeasement requires one side to give ground, and comity requires warmth that \"wary\" explicitly denies.",
+      "id": "gregmat29__b3__cloze__03",
+      "unit": "gregmat29__b3",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "The firm advertises itself as thoroughly {1} — no titles on the doors, no reserved parking, salary bands published to all — yet every decision of consequence is still taken in its uppermost {2}, by six people whose names have never appeared in an annual report.",
+      "blanks": [
+        {
+          "options": [
+            "egalitarian",
+            "elitist",
+            "paternalistic"
+          ],
+          "answers": [
+            "egalitarian"
+          ]
+        },
+        {
+          "options": [
+            "echelons",
+            "factions",
+            "enclaves"
+          ],
+          "answers": [
+            "echelons"
+          ]
+        }
+      ],
+      "words": [
+        "echelon"
+      ],
+      "explanation": "The abolished titles and published salaries describe a flattened hierarchy, so egalitarian is required and elitist would restate rather than set up the contrast the \"yet\" announces. The second blank must name the top rungs of a ranked structure: echelons presumes exactly that ladder, whereas factions implies rival groupings and enclaves implies separateness, neither of which is about rank.",
+      "id": "gregmat29__b3__tc2__04",
+      "unit": "gregmat29__b3",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Advancement in the ministry is glacial: an official may spend fifteen years in a single {1} of the bureaucracy, mastering its forms and deferences, before being permitted to rise to the next.",
+      "blanks": [
+        {
+          "options": [
+            "echelon",
+            "tier",
+            "faction",
+            "coterie",
+            "bastion",
+            "sinecure"
+          ],
+          "answers": [
+            "echelon",
+            "tier"
+          ]
+        }
+      ],
+      "words": [
+        "echelon"
+      ],
+      "explanation": "\"Rise to the next\" establishes a ranked ladder, and echelon and tier are the two options that denote one graded level of such a structure. Faction and coterie denote groups defined by alliance or intimacy rather than rank, a bastion is a stronghold, and a sinecure is a post without duties — none of them is something one ascends out of.",
+      "id": "gregmat29__b3__se__05",
+      "unit": "gregmat29__b3",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "Diagnosed with nothing worse than {1}, the young marquis was in truth perfectly capable of exertion — he had hunted all that morning — and suffered no {2} of any kind; what ailed him was that he could no longer name a single thing worth wanting.",
+      "blanks": [
+        {
+          "options": [
+            "ennui",
+            "torpor",
+            "alacrity"
+          ],
+          "answers": [
+            "ennui"
+          ]
+        },
+        {
+          "options": [
+            "lassitude",
+            "fervor",
+            "chagrin"
+          ],
+          "answers": [
+            "lassitude"
+          ]
+        }
+      ],
+      "words": [
+        "ennui"
+      ],
+      "explanation": "The final clause locates the complaint in exhausted interest rather than exhausted energy, which is ennui exactly; torpor would mean the sluggishness the hunting scene rules out, and alacrity means brisk eagerness. The second blank must name the bodily depletion the marquis is said to lack, so lassitude fits, while fervor and chagrin describe intensity and mortification instead.",
+      "id": "gregmat29__b3__tc2__06",
+      "unit": "gregmat29__b3",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "The novel's hero has money, health, and an appetite for nothing: having sampled every diversion Paris affords before the age of twenty-six, he settles into an elegant {1} that he is rather proud to describe at length to anyone unwise enough to sit near him.",
+      "blanks": [
+        {
+          "options": [
+            "ennui",
+            "apathy",
+            "lassitude",
+            "torpor",
+            "nonchalance"
+          ],
+          "answers": [
+            "ennui"
+          ]
+        }
+      ],
+      "words": [
+        "ennui"
+      ],
+      "explanation": "Ennui is the boredom of a man who has tried everything and found nothing worth continuing, and the detail that he is proud to expound on it captures the vanity the word carries as a self-flattering credential. Apathy is blank unconcern with no such backstory or cachet, lassitude and torpor describe drained physical energy that his health contradicts, and nonchalance is studied coolness rather than settled weariness.",
+      "id": "gregmat29__b3__cloze__07",
+      "unit": "gregmat29__b3",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is ambiguous: both \"détente\" (easing of tension without settling disputes) and \"comity\" (surface civility/courteous conduct) satisfy every constraint in the sentence — less than friendship, no borders settled, private hostility retained, only public grievance-airing suspended. The final clause (\"undertaken only to stop rehearsing their grievances aloud\") arguably supports \"comity\" as strongly as \"détente,\" and nothing else in the sentence discriminates. Blank 2 is fine (\"truculent\" is the only option consistent with \"not friendship\" and \"as ... as they had been a decade earlier\"). To fix, add a tension/hostility-reduction cue that only \"détente\" satisfies (e.g., \"a mere ___ in a decades-long standoff\") or drop \"comity\" for a clearly wrong distractor.",
+      "stem": "The 1972 agreements produced not friendship but a mere {1} — not one disputed border was settled — and both capitals remained privately as {2} as they had been a decade earlier, having undertaken only to stop rehearsing their grievances aloud."
+    }
+  ]
+}

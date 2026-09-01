@@ -1,0 +1,234 @@
+{
+  "unit": "gregmat26__b6",
+  "gregmat_group": 26,
+  "words": [
+    "ramification",
+    "serene",
+    "supplant",
+    "tacit"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The board treated the cheaper alloy as a curiosity until it began to {1} imported steel in three separate markets at once, at which point counsel was asked to trace the tax {2} in every jurisdiction the switch would touch.",
+      "blanks": [
+        {
+          "options": [
+            "supplant",
+            "ensue",
+            "escalate"
+          ],
+          "answers": [
+            "supplant"
+          ]
+        },
+        {
+          "options": [
+            "ramifications",
+            "euphemisms",
+            "allusions"
+          ],
+          "answers": [
+            "ramifications"
+          ]
+        }
+      ],
+      "words": [
+        "supplant",
+        "ramification"
+      ],
+      "explanation": "The alloy pushes an incumbent product out of markets it held, which is displacement — supplant; ensue is intransitive and merely means to follow, and escalate would describe an increase in intensity, not one product ousting another. The second blank needs the branching web of consequences a decision sends outward across jurisdictions, which is exactly what ramifications names; euphemisms and allusions concern how something is said, not what results from it.",
+      "id": "gregmat26__b6__tc2__00",
+      "unit": "gregmat26__b6",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Neither delegation would put the arrangement on paper; there was only a {1} understanding, honored for a decade, that patrols would not cross the ridge — which is why the ambassador's {2} bearing at the press conference, unruffled even as reporters produced photographs of the crossing, struck correspondents as rehearsed.",
+      "blanks": [
+        {
+          "options": [
+            "tacit",
+            "overt",
+            "articulate"
+          ],
+          "answers": [
+            "tacit"
+          ]
+        },
+        {
+          "options": [
+            "serene",
+            "restive",
+            "fraught"
+          ],
+          "answers": [
+            "serene"
+          ]
+        }
+      ],
+      "words": [
+        "tacit",
+        "serene"
+      ],
+      "explanation": "An understanding that two parties honor without ever committing it to paper is tacit — silence functioning as agreement; overt and articulate both require the thing to be stated openly, which the clause explicitly denies. The second blank needs composure that is visible and unclouded while the room turns against him, which is serene's specialty; restive and fraught describe agitation, the opposite of what \"unruffled\" establishes.",
+      "id": "gregmat26__b6__tc2__01",
+      "unit": "gregmat26__b6",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "For two generations the {1} pastorals of the Hudson River School hung in every respectable parlor, until the raw, agitated canvases of the modernists {2} them so thoroughly that dealers could scarcely give the older pictures away.",
+      "blanks": [
+        {
+          "options": [
+            "serene",
+            "turbulent",
+            "frenetic"
+          ],
+          "answers": [
+            "serene"
+          ]
+        },
+        {
+          "options": [
+            "supplanted",
+            "compounded",
+            "escalated"
+          ],
+          "answers": [
+            "supplanted"
+          ]
+        }
+      ],
+      "words": [
+        "serene",
+        "supplant"
+      ],
+      "explanation": "The modernist canvases are \"raw, agitated,\" so the paintings they displaced must be their opposite: cloudless, untroubled pastorals, i.e. serene; turbulent and frenetic would repeat the modernists' quality rather than contrast with it. The second blank needs one style dispossessing another that held the market — supplanted; compounded and escalated denote intensification, and neither explains why the older pictures became unsellable.",
+      "id": "gregmat26__b6__tc2__02",
+      "unit": "gregmat26__b6",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "The treaty's drafters were so absorbed in the disputed border that they gave almost no thought to the {1} of granting fishing rights in perpetuity, though the disputes that followed would occupy jurists for the better part of a century.",
+      "blanks": [
+        {
+          "options": [
+            "ramifications",
+            "repercussions",
+            "precedents",
+            "antecedents",
+            "provisions",
+            "ambiguities"
+          ],
+          "answers": [
+            "ramifications",
+            "repercussions"
+          ]
+        }
+      ],
+      "words": [
+        "ramification"
+      ],
+      "explanation": "The sentence contrasts what the drafters ignored with the century of disputes that followed, so the blank must mean unwelcome consequences: ramifications and repercussions both supply that and yield equivalent sentences. Precedents and antecedents point backwards to what came before rather than forward to what results, and provisions would name clauses of the treaty itself, not their effects.",
+      "id": "gregmat26__b6__se__03",
+      "unit": "gregmat26__b6",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Nothing was ever committed to paper, yet the mill owners' {1} agreement not to poach one another's workers held firm for thirty years and depressed wages across the whole county.",
+      "blanks": [
+        {
+          "options": [
+            "tacit",
+            "implicit",
+            "overt",
+            "candid",
+            "laconic",
+            "articulate"
+          ],
+          "answers": [
+            "tacit",
+            "implicit"
+          ]
+        }
+      ],
+      "words": [
+        "tacit"
+      ],
+      "explanation": "Since nothing was written down but the agreement nonetheless bound the parties, the blank must mean understood without being stated: tacit and implicit both do, and are interchangeable here. Overt, candid, and articulate all require the pact to have been declared openly, which the first clause rules out, and laconic would describe terseness of expression rather than the absence of any expression at all.",
+      "id": "gregmat26__b6__se__04",
+      "unit": "gregmat26__b6",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Painters came to the lagoon chiefly for its water, which in the weeks after the autumn gales blew themselves out could stay {1} for a month together — not a ripple to trouble the reflections.",
+      "blanks": [
+        {
+          "options": [
+            "serene",
+            "tranquil",
+            "turbulent",
+            "restive",
+            "fraught",
+            "brackish"
+          ],
+          "answers": [
+            "serene",
+            "tranquil"
+          ]
+        }
+      ],
+      "words": [
+        "serene"
+      ],
+      "explanation": "\"Not a ripple to trouble the reflections\" fixes the blank as untroubled calm, and serene and tranquil are interchangeable for an unbroken water surface. Turbulent and restive describe exactly the agitation the dash rules out, fraught belongs to situations rather than surfaces, and brackish would characterize the water's salinity, not its stillness.",
+      "id": "gregmat26__b6__se__05",
+      "unit": "gregmat26__b6",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "The general issued no order and put nothing in writing, but his conspicuous refusal to discipline the officers responsible amounted to {1} approval of the reprisals.",
+      "blanks": [
+        {
+          "options": [
+            "tacit",
+            "overt",
+            "frank",
+            "allusive",
+            "laconic"
+          ],
+          "answers": [
+            "tacit"
+          ]
+        }
+      ],
+      "words": [
+        "tacit"
+      ],
+      "explanation": "Approval conveyed purely by declining to act — silence read by everyone as consent — is tacit, and the phrase carries the complicity the sentence implies. Overt and frank would require the general to have said so outright, allusive would mean he hinted at it in words, and laconic would describe an order given tersely rather than never given at all.",
+      "id": "gregmat26__b6__cloze__07",
+      "unit": "gregmat26__b6",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options genuinely fit. \"Supplanted\" is the best answer because \"signing dispatches from that man's desk\" denotes literally taking over the chancellor's position, and supplant carries the connotation of displacement by scheming (matching \"assiduously flattering\"). But \"eclipsed\" also works: the secretary outshines/surpasses his former trainer in standing, and the desk clause reads naturally as the consequence a year later rather than a restatement. The sentence provides no discriminator that excludes the \"surpass in prominence\" reading, so a reasonable test-taker choosing \"eclipsed\" would be wrongly marked. Fix by removing \"eclipsed\" as a distractor, or by adding a cue that forces the displacement sense (e.g., \"ousted by intrigue rather than merit\").",
+      "stem": "By assiduously flattering the queen's confessor, the young secretary {1} the very chancellor who had trained him, and within a year he was signing dispatches from that man's desk."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat15__b4",
+  "gregmat_group": 15,
+  "words": [
+    "heed",
+    "judicious",
+    "lucid",
+    "pertinent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Ellis's admirers call her tactics daring; her biographers call them {1}, noting that she pressed each advantage exactly as far as it would go and no further, and that she {2} the subordinates who warned her when a position had ceased to be worth holding.",
+      "blanks": [
+        {
+          "options": [
+            "judicious",
+            "precipitate",
+            "foolhardy"
+          ],
+          "answers": [
+            "judicious"
+          ]
+        },
+        {
+          "options": [
+            "heeded",
+            "humored",
+            "overruled"
+          ],
+          "answers": [
+            "heeded"
+          ]
+        }
+      ],
+      "words": [
+        "judicious",
+        "heed"
+      ],
+      "explanation": "The first blank is fixed by \"exactly as far as it would go and no further\" — praise for hitting the right amount, which is judicious; precipitate and foolhardy would describe someone who did not stop at the correct point. The second blank must describe not merely listening to the warnings but acting on them, since she in fact withdrew: humored means indulging advisers without complying, and overruled reverses the outcome.",
+      "id": "gregmat15__b4__tc2__00",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Faraday's Christmas lectures were {1} without ever being condescending: he left the mathematics out not to spare his audience difficulty but because none of it was {2} to the demonstration proceeding on the bench in front of them.",
+      "blanks": [
+        {
+          "options": [
+            "lucid",
+            "abstruse",
+            "rudimentary"
+          ],
+          "answers": [
+            "lucid"
+          ]
+        },
+        {
+          "options": [
+            "pertinent",
+            "extraneous",
+            "ancillary"
+          ],
+          "answers": [
+            "pertinent"
+          ]
+        }
+      ],
+      "words": [
+        "lucid",
+        "pertinent"
+      ],
+      "explanation": "\"Without ever being condescending\" blocks rudimentary — the lectures were transparent, not dumbed down — and abstruse contradicts the whole sentence; lucid is exactly the word for hard material made clear. In the second blank the omission must be justified by irrelevance, so saying none of it was extraneous or ancillary would perversely mean all of it mattered.",
+      "id": "gregmat15__b4__tc2__01",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians of the 1889 flood record a bitter irony: the townspeople might well have {1} the engineers' repeated cautions had those cautions been couched in anything more {2} than the technical jargon in which they were actually issued.",
+      "blanks": [
+        {
+          "options": [
+            "heeded",
+            "disputed",
+            "commissioned"
+          ],
+          "answers": [
+            "heeded"
+          ]
+        },
+        {
+          "options": [
+            "lucid",
+            "byzantine",
+            "elaborate"
+          ],
+          "answers": [
+            "lucid"
+          ]
+        }
+      ],
+      "words": [
+        "heed",
+        "lucid"
+      ],
+      "explanation": "The counterfactual requires that the townspeople would have attended to and acted on the cautions, which is heed; disputed and commissioned describe things they demonstrably did not fail to do, and neither yields an irony. \"Anything more {2} than technical jargon\" demands a word for clarity, so byzantine and elaborate point in precisely the wrong direction.",
+      "id": "gregmat15__b4__tc2__02",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Though the cosmology it expounds is genuinely difficult, Weinberg's slim book is remarkably {1}: the reader is never conscious of the prose at all, only of the argument moving forward.",
+      "blanks": [
+        {
+          "options": [
+            "lucid",
+            "limpid",
+            "abstruse",
+            "recondite",
+            "trenchant",
+            "discursive"
+          ],
+          "answers": [
+            "lucid",
+            "limpid"
+          ]
+        }
+      ],
+      "words": [
+        "lucid"
+      ],
+      "explanation": "Lucid and limpid both name prose so clear that the reader looks through it to the ideas, which is what \"never conscious of the prose\" specifies. Abstruse and recondite invert the sense; trenchant praises incisive force rather than transparency, and discursive would describe prose that wanders — plausible in tone but the opposite of what the second clause reports.",
+      "id": "gregmat15__b4__se__03",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "The judge cut the questioning short, ruling that the witness's account of the defendant's unhappy childhood, however affecting, was not {1} to the narrow issue of who had signed the contract.",
+      "blanks": [
+        {
+          "options": [
+            "pertinent",
+            "germane",
+            "tangential",
+            "extraneous",
+            "pertinacious",
+            "impertinent"
+          ],
+          "answers": [
+            "pertinent",
+            "germane"
+          ]
+        }
+      ],
+      "words": [
+        "pertinent"
+      ],
+      "explanation": "Both pertinent and germane assert that the testimony bears on the issue before the court, and the judge's ruling is that it does not. Tangential and extraneous already mean off the point, so negating them reverses the ruling; pertinacious (stubbornly persistent) and impertinent (insolent) are lookalikes that would make the judge object to the witness's manner rather than to the relevance of the evidence.",
+      "id": "gregmat15__b4__se__04",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "The Colonial Office had ample warning: three separate surveyors reported that the embankment would not survive a monsoon, and the ministry's failure to {1} them is now the standard illustration of the era's administrative complacency.",
+      "blanks": [
+        {
+          "options": [
+            "heed",
+            "solicit",
+            "corroborate",
+            "question",
+            "anticipate"
+          ],
+          "answers": [
+            "heed"
+          ]
+        }
+      ],
+      "words": [
+        "heed"
+      ],
+      "explanation": "The reports existed and were ignored, so what the ministry failed to do was register the warnings and act on them — heed. Solicit and anticipate are ruled out because the surveys had already been made and delivered; corroborate and question would criticize the ministry for insufficient scrutiny, whereas the charge here is complacency in the face of advice it had.",
+      "id": "gregmat15__b4__cloze__05",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "The conductor's cuts to the score proved {1}: he removed just enough of the ballet music to keep the drama moving, and stopped well short of the wholesale excisions his predecessors had permitted themselves.",
+      "blanks": [
+        {
+          "options": [
+            "judicious",
+            "arbitrary",
+            "perfunctory",
+            "precipitate",
+            "sweeping"
+          ],
+          "answers": [
+            "judicious"
+          ]
+        }
+      ],
+      "words": [
+        "judicious"
+      ],
+      "explanation": "The sentence praises proportion — the right amount of cutting, neither too little nor too much — which is the specific work judicious does. Sweeping is contradicted by \"stopped well short\", arbitrary by \"just enough\", and perfunctory and precipitate by the evident deliberation behind the choice.",
+      "id": "gregmat15__b4__cloze__06",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "For most of that last winter her grandmother knew no one, but there were intervals — an hour after breakfast, once an entire afternoon — in which she was wholly {1}, asking after the children by name and arguing about the election as she always had.",
+      "blanks": [
+        {
+          "options": [
+            "lucid",
+            "placid",
+            "sanguine",
+            "phlegmatic",
+            "garrulous"
+          ],
+          "answers": [
+            "lucid"
+          ]
+        }
+      ],
+      "words": [
+        "lucid"
+      ],
+      "explanation": "The contrast with \"knew no one\" calls for a word meaning mentally clear and rational, the clinical sense of lucid that gives us the phrase lucid interval. Placid is the standard lookalike but describes calm temperament, and sanguine, phlegmatic, and garrulous all name dispositions rather than the return of rational awareness.",
+      "id": "gregmat15__b4__cloze__07",
+      "unit": "gregmat15__b4",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": []
+}

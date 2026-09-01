@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat21__b4",
+  "gregmat_group": 21,
+  "words": [
+    "imminent",
+    "incontrovertible",
+    "itinerant",
+    "magnanimous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The consul's dispatches, full of talk of massing cavalry, were read in the Senate as {1} of war; the consul himself, however, insisted that no crossing of the river was {2}, and asked leave to winter his legions at home.",
+      "blanks": [
+        {
+          "options": [
+            "harbingers",
+            "corroborations",
+            "vindications"
+          ],
+          "answers": [
+            "harbingers"
+          ]
+        },
+        {
+          "options": [
+            "imminent",
+            "conjectural",
+            "tenable"
+          ],
+          "answers": [
+            "imminent"
+          ]
+        }
+      ],
+      "words": [
+        "imminent"
+      ],
+      "explanation": "The dispatches are signs pointing forward to a war that has not begun, which is exactly a harbinger; corroboration would require an existing claim to confirm, and vindication a charge already disputed. The second blank turns on timing rather than proof: the consul concedes the danger but denies that an attack could come at any moment, so imminent is required, while calling a crossing conjectural or tenable says nothing about how soon it would occur.",
+      "id": "gregmat21__b4__tc2__00",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "By the third week of the run on deposits the directors had stopped debating whether the bank could be saved and had begun rehearsing how they would conduct themselves during a failure they now regarded as {1}.",
+      "blanks": [
+        {
+          "options": [
+            "imminent",
+            "impending",
+            "ominous",
+            "conjectural",
+            "remote",
+            "gradual"
+          ],
+          "answers": [
+            "imminent",
+            "impending"
+          ]
+        }
+      ],
+      "words": [
+        "imminent"
+      ],
+      "explanation": "The directors have given up on averting the failure and are preparing for its arrival, so the blank must mean about to happen at any moment: imminent and impending are interchangeable here. Ominous would misassign the word, since a failure is the dreaded event rather than the sign of one, and conjectural, remote, and gradual all read smoothly but reverse or dilute the nearness the sentence has established.",
+      "id": "gregmat21__b4__se__01",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "The ledger, kept in the forger's own hand and itemizing every payment he took for the 'discovered' manuscripts, rendered the fraud itself {1}; only his motive remains {2}, and his biographers have filled that gap with guesses ranging from avarice to spite.",
+      "blanks": [
+        {
+          "options": [
+            "incontrovertible",
+            "plausible",
+            "tenuous"
+          ],
+          "answers": [
+            "incontrovertible"
+          ]
+        },
+        {
+          "options": [
+            "conjectural",
+            "axiomatic",
+            "corroborated"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "incontrovertible"
+      ],
+      "explanation": "A ledger in the man's own hand is documentary proof that leaves an opponent nowhere to stand, so the fraud is incontrovertible; merely plausible would understate what such evidence does, and tenuous contradicts it. The semicolon then sets proof against guesswork, and only conjectural names what biographers must supply by speculation, whereas axiomatic and corroborated would both place the motive on the settled side of the contrast.",
+      "id": "gregmat21__b4__tc2__02",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "The defence had prepared for a case resting on inference and innuendo and was visibly unsettled when the prosecution instead produced evidence the jurors plainly found {1}: a signed receipt, a bank transfer, and a security recording of the handoff.",
+      "blanks": [
+        {
+          "options": [
+            "incontrovertible",
+            "ironclad",
+            "plausible",
+            "circumstantial",
+            "conjectural",
+            "tendentious"
+          ],
+          "answers": [
+            "incontrovertible",
+            "ironclad"
+          ]
+        }
+      ],
+      "words": [
+        "incontrovertible"
+      ],
+      "explanation": "Documents, transfers, and footage are evidence that cannot be argued against, and incontrovertible and ironclad both name proof that withstands attack. Circumstantial and conjectural describe precisely the inferential case the defence expected and did not get, and plausible marks something merely credible, a much weaker grade of proof than the listed exhibits warrant.",
+      "id": "gregmat21__b4__se__03",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the orchards hired only for the six weeks of the harvest, the picking force was necessarily {1}, a condition that Victorian reformers persistently mistook for {2}, legislating against men who in fact worked harder than their accusers ever had.",
+      "blanks": [
+        {
+          "options": [
+            "itinerant",
+            "sedentary",
+            "gregarious"
+          ],
+          "answers": [
+            "itinerant"
+          ]
+        },
+        {
+          "options": [
+            "indolence",
+            "penury",
+            "mendacity"
+          ],
+          "answers": [
+            "indolence"
+          ]
+        }
+      ],
+      "words": [
+        "itinerant"
+      ],
+      "explanation": "A workforce that follows a six-week harvest from orchard to orchard moves because the job moves, which is the defining case of itinerant; sedentary reverses this and gregarious is beside the point. The second blank is fixed by the closing clause: the reformers' error was to read constant travel as laziness, so indolence is what the men are falsely charged with, while penury would have been true of them and mendacity has nothing to do with movement.",
+      "id": "gregmat21__b4__tc2__04",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "cloze",
+      "stem": "Early Methodism depended on {1} preachers, men who rode a fixed circuit of moorland villages and were never lodged in one parish long enough to draw a stipend from it.",
+      "blanks": [
+        {
+          "options": [
+            "itinerant",
+            "vagrant",
+            "cloistered",
+            "sedentary",
+            "apostate"
+          ],
+          "answers": [
+            "itinerant"
+          ]
+        }
+      ],
+      "words": [
+        "itinerant"
+      ],
+      "explanation": "The men travel on a set circuit in order to do a job, which is what itinerant means; vagrant would imply no work and no route and carries an insult these preachers' calling does not support. Cloistered and sedentary describe the opposite condition, and apostate concerns doctrine rather than movement.",
+      "id": "gregmat21__b4__cloze__05",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "tc2",
+      "stem": "Having spent three years pursuing the surrender, the general proved unexpectedly {1} in the terms he set down: the defeated officers kept their sidearms and their horses, a leniency that the faction in the capital demanding treason trials could read only as {2}.",
+      "blanks": [
+        {
+          "options": [
+            "magnanimous",
+            "implacable",
+            "captious"
+          ],
+          "answers": [
+            "magnanimous"
+          ]
+        },
+        {
+          "options": [
+            "indulgence",
+            "subterfuge",
+            "effrontery"
+          ],
+          "answers": [
+            "indulgence"
+          ]
+        }
+      ],
+      "words": [
+        "magnanimous"
+      ],
+      "explanation": "The general holds every advantage and had every warrant for vengeance, yet declines it, which is the precise occasion magnanimous requires; implacable and captious describe the pettiness he refuses. The hostile faction, wanting trials, would characterize such terms as culpable softness toward the guilty, so indulgence follows, whereas subterfuge alleges concealment and effrontery insolence, neither of which is at issue in a complaint about mercy.",
+      "id": "gregmat21__b4__tc2__06",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    },
+    {
+      "type": "se",
+      "stem": "Though the recount had cost him an office he had held for twelve years, Whitfield's concession was unexpectedly {1}: he praised the discipline of his rival's campaign, urged his own supporters to cooperate with the incoming administration, and never once alluded to the disputed ballots.",
+      "blanks": [
+        {
+          "options": [
+            "magnanimous",
+            "gracious",
+            "implacable",
+            "captious",
+            "perfunctory",
+            "condescending"
+          ],
+          "answers": [
+            "magnanimous",
+            "gracious"
+          ]
+        }
+      ],
+      "words": [
+        "magnanimous"
+      ],
+      "explanation": "Whitfield had a grievance he was entitled to press and instead praises the man who beat him, so magnanimous and gracious both fit and yield sentences of the same meaning. Implacable and captious name the resentment he conspicuously declines, condescending would spoil the praise it describes, and perfunctory is contradicted by a concession that goes out of its way to be generous in three separate particulars.",
+      "id": "gregmat21__b4__se__07",
+      "unit": "gregmat21__b4",
+      "verified": true,
+      "gregmat_group": 21
+    }
+  ],
+  "rejects": []
+}

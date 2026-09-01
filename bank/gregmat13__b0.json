@@ -1,0 +1,207 @@
+{
+  "unit": "gregmat13__b0",
+  "gregmat_group": 13,
+  "words": [
+    "affinity",
+    "altruistic",
+    "baroque",
+    "byzantine"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Critics of the new opera house named two separate failures: the facade was {1}, its gilded scrollwork multiplying until the ornament had crowded out any legible structure beneath it, while the commission that approved the design was {2}, a warren of subcommittees, delegated votes and unrecorded understandings that no outside auditor has managed to trace.",
+      "blanks": [
+        {
+          "options": [
+            "baroque",
+            "austere",
+            "rudimentary"
+          ],
+          "answers": [
+            "baroque"
+          ]
+        },
+        {
+          "options": [
+            "byzantine",
+            "baroque",
+            "intelligible"
+          ],
+          "answers": [
+            "byzantine"
+          ]
+        }
+      ],
+      "words": [
+        "baroque",
+        "byzantine"
+      ],
+      "explanation": "Blank 1 describes decoration that has taken over the thing it decorates — the defining charge of baroque; austere and rudimentary describe the opposite, a surface stripped of ornament. Blank 2 describes an institution whose intricacy hides its workings from outsiders, which is byzantine; baroque is wrong there because a committee structure is not decorative, and intelligible contradicts the auditors' failure.",
+      "id": "gregmat13__b0__tc2__00",
+      "unit": "gregmat13__b0",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Economists have long treated the anonymous bequest as a puzzle: the donor can extract no reciprocity, no reputation, not even gratitude, so the gift looks genuinely {1}; skeptics answer only that the very absence of a witness makes whatever {2} motives it might conceal impossible to disprove.",
+      "blanks": [
+        {
+          "options": [
+            "altruistic",
+            "magnanimous",
+            "acquisitive"
+          ],
+          "answers": [
+            "altruistic"
+          ]
+        },
+        {
+          "options": [
+            "mercenary",
+            "beneficent",
+            "inimical"
+          ],
+          "answers": [
+            "mercenary"
+          ]
+        }
+      ],
+      "words": [
+        "altruistic"
+      ],
+      "explanation": "The evidence offered — no return of any kind to the giver — grades motive alone, which is precisely what altruistic asserts; magnanimous grades bearing and generally requires a rival or a slight to rise above, and acquisitive reverses the sense. Blank 2 needs the self-interested motive the skeptic suspects, so mercenary fits, while beneficent would make the skeptics agree with the donor's admirers and inimical alleges hostility rather than gain.",
+      "id": "gregmat13__b0__tc2__01",
+      "unit": "gregmat13__b0",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Linnaeus had grouped whales with fish on the strength of habitat and body shape; Darwin's insistence that the {1} between a whale and a bear lay in bone and blood rather than in the water one of them happened to inhabit forced naturalists to abandon a taxonomy built on {2} resemblance.",
+      "blanks": [
+        {
+          "options": [
+            "affinity",
+            "disparity",
+            "antipathy"
+          ],
+          "answers": [
+            "affinity"
+          ]
+        },
+        {
+          "options": [
+            "superficial",
+            "structural",
+            "inherent"
+          ],
+          "answers": [
+            "superficial"
+          ]
+        }
+      ],
+      "words": [
+        "affinity"
+      ],
+      "explanation": "Used with between, affinity means inherent kinship — exactly the descent-based relation Darwin asserted — whereas disparity claims difference and antipathy claims mutual hostility, neither of which follows from bone and blood. Blank 2 must name the discredited criterion, habitat and outward shape, so superficial is right; structural names the very evidence Darwin preferred, and inherent would make the old taxonomy correct.",
+      "id": "gregmat13__b0__tc2__02",
+      "unit": "gregmat13__b0",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Long before she had read a word of philosophy, Weil displayed an unmistakable {1} for hard cases: the argument that cost her friends, the position no one else in the room would defend.",
+      "blanks": [
+        {
+          "options": [
+            "affinity",
+            "penchant",
+            "aversion",
+            "antipathy",
+            "indifference",
+            "capacity"
+          ],
+          "answers": [
+            "affinity",
+            "penchant"
+          ]
+        }
+      ],
+      "words": [
+        "affinity"
+      ],
+      "explanation": "Affinity for and penchant for both name an attraction that draws her toward difficult positions, and the two sentences say the same thing. Aversion, antipathy and indifference are grammatically smooth but reverse or neutralize the pull, and capacity substitutes ability for liking — she might be able to argue hard cases without seeking them out.",
+      "id": "gregmat13__b0__se__04",
+      "unit": "gregmat13__b0",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Biologists puzzled for a century over the sterile worker bee, whose behaviour is {1} in the strict technical sense: it imposes a reproductive cost on the individual performing it and returns that individual nothing whatever.",
+      "blanks": [
+        {
+          "options": [
+            "altruistic",
+            "acquisitive",
+            "magnanimous",
+            "benevolent",
+            "venal"
+          ],
+          "answers": [
+            "altruistic"
+          ]
+        }
+      ],
+      "words": [
+        "altruistic"
+      ],
+      "explanation": "The definition supplied — cost to the actor, no return to the actor — is the technical definition of altruism used in evolutionary biology, and altruistic is the only option that grades the balance of cost and benefit rather than a feeling. Benevolent would attribute good will to an insect, magnanimous requires a rival or a slight risen above, and acquisitive and venal name the opposite motive.",
+      "id": "gregmat13__b0__cloze__05",
+      "unit": "gregmat13__b0",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers who admired the novel's ambition still balked at its prose, which grew steadily more {1}: every noun trailing two adjectives, every scene halted for an epic simile, until the decoration was carrying more weight than the story it was meant to adorn.",
+      "blanks": [
+        {
+          "options": [
+            "baroque",
+            "byzantine",
+            "austere",
+            "laconic",
+            "turbid"
+          ],
+          "answers": [
+            "baroque"
+          ]
+        }
+      ],
+      "words": [
+        "baroque"
+      ],
+      "explanation": "The fault described is ornament piled on until it becomes load-bearing — showy decoration, which is what baroque names. Byzantine would require tangled procedure and hidden insiders rather than adjectives; turbid means muddy and unclear, which the sentence never alleges; and austere and laconic describe the opposite vice.",
+      "id": "gregmat13__b0__cloze__06",
+      "unit": "gregmat13__b0",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The blank only needs \"not just slow but tangled/impenetrably complex,\" and three options carry that meaning, not two. \"Byzantine\" (intricate, insider-riddled — best matched to the unpublished exemptions and retained ex-regulators) and \"convoluted\" (hard to follow) are the intended pair, but \"baroque\" is standard idiomatic English for an over-elaborate bureaucracy (\"a baroque permitting system\") and yields a sentence essentially equivalent to either of them. So {byzantine, convoluted}, {byzantine, baroque}, and {convoluted, baroque} are all defensible pairings. The intended trap seems to be the baroque/ornate decorative pair, but only \"ornate\" is genuinely disqualified (it denotes surface decoration, not procedural complexity), which leaves baroque as an orphan third fit rather than half of a rejected pair. \"Elementary\" and \"lucid\" are clear opposites and fine as distractors. To fix, replace \"baroque\" with a decorative-only synonym that cannot mean over-complicated (e.g. \"florid\" or \"rococo\" is still risky — better \"embellished\" or \"decorous\"), or add sentence content that pins the pair to opacity/secrecy specifically (e.g. \"opaque\"/\"impenetrable\" family) rather than mere elaborateness.",
+      "stem": "Reformers concluded that the licensing regime was not merely slow but {1}: a lattice of overlapping permits, unpublished exemptions, and appeal routes known only to firms that keep a former regulator on retainer."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence's logic (fluorine bonds with/attacks everything, so it can't be isolated) rules out the two negative options (aversion, antipathy) but leaves three near-synonyms of \"strong liking/tendency toward\" — affinity, penchant, predilection — all of which take the preposition \"for\" and all of which produce a coherent sentence (\"its penchant/predilection for very nearly every other element\" reads as its eagerness to combine with them). \"Affinity\" is clearly best because it is the literal chemical term for the tendency to form bonds, and because \"very nearly every\" undercuts the selectivity implied by penchant/predilection, but that distinction is one of register rather than of sentence logic; a reasonable test-taker who picks \"predilection\" or \"penchant\" has a defensible reading. To make the answer unique, the distractors should not be synonyms of the key (e.g., replace penchant/predilection with words like volatility, obscurity, or reticence), or the sentence should add a cue that demands the technical sense.",
+      "stem": "Fluorine resisted isolation for decades because of its {1} for very nearly every other element: it attacks glass, water, and the very vessels chemists built to contain it."
+    }
+  ]
+}

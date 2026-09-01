@@ -1,0 +1,216 @@
+{
+  "unit": "gregmat22__b3",
+  "gregmat_group": 22,
+  "words": [
+    "gaffe",
+    "heterodox",
+    "histrionic",
+    "implicit"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "What the ambassador committed at the podium was not a breach of etiquette but a {1}: an inconveniently true observation that escaped him within range of the microphones, and the correspondents who filed the story wrote it up with a relish nearer to {2} than to indignation.",
+      "blanks": [
+        {
+          "options": [
+            "gaffe",
+            "faux pas",
+            "mutiny"
+          ],
+          "answers": [
+            "gaffe"
+          ]
+        },
+        {
+          "options": [
+            "amusement",
+            "contrition",
+            "censure"
+          ],
+          "answers": [
+            "amusement"
+          ]
+        }
+      ],
+      "words": [
+        "gaffe"
+      ],
+      "explanation": "The clause \"not a breach of etiquette\" explicitly rules out faux pas, which is precisely a violation of manners; a gaffe is the tactless or embarrassingly true thing that gets said aloud in public. The second blank must name what \"relish\" is closer to and what indignation is not — amusement; censure is a synonym for the indignation being denied, and contrition would belong to the speaker, not the reporters.",
+      "id": "gregmat22__b3__tc2__00",
+      "unit": "gregmat22__b3",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "Though her monetary theories were emphatically {1}, she never left the profession that ignored them, preferring to quarrel with its founding assumptions from inside; the department chairs who dismissed her were themselves so {2} that they took any challenge to the standard model as evidence of incompetence.",
+      "blanks": [
+        {
+          "options": [
+            "heterodox",
+            "heterogeneous",
+            "conventional"
+          ],
+          "answers": [
+            "heterodox"
+          ]
+        },
+        {
+          "options": [
+            "dogmatic",
+            "iconoclastic",
+            "quirky"
+          ],
+          "answers": [
+            "dogmatic"
+          ]
+        }
+      ],
+      "words": [
+        "heterodox"
+      ],
+      "explanation": "Heterodox is exactly the word for beliefs that depart from accepted doctrine while their holder remains inside the discipline, arguing with the creed rather than renouncing it; heterogeneous is the lookalike meaning \"varied in composition,\" which says nothing about doctrine. The second blank must describe men who equate dissent with incompetence — dogmatic; iconoclastic would make them the tradition-smashers rather than its enforcers.",
+      "id": "gregmat22__b3__tc2__02",
+      "unit": "gregmat22__b3",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The defense counsel's collapse into sobs struck the jurors as {1} rather than heartfelt — the timing was too exact, the recovery too quick — and by the time they retired they were regarding even his soberest arguments with {2}.",
+      "blanks": [
+        {
+          "options": [
+            "histrionic",
+            "hysterical",
+            "tempestuous"
+          ],
+          "answers": [
+            "histrionic"
+          ]
+        },
+        {
+          "options": [
+            "skepticism",
+            "credulity",
+            "deference"
+          ],
+          "answers": [
+            "skepticism"
+          ]
+        }
+      ],
+      "words": [
+        "histrionic"
+      ],
+      "explanation": "Exact timing and instant recovery are evidence of calculation, and histrionic is the only one of the three that alleges the emotion was staged for an audience; hysterical and tempestuous concede that the feeling is real and object only to its violence. Once the jurors judge the display fake, what carries over to his other arguments is skepticism, not credulity or deference.",
+      "id": "gregmat22__b3__tc2__04",
+      "unit": "gregmat22__b3",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers agreed that the actor's grief was {1}: every tremor seemed measured against the camera's position, and not one of them came away believing a tear had cost him anything.",
+      "blanks": [
+        {
+          "options": [
+            "histrionic",
+            "theatrical",
+            "hysterical",
+            "mawkish",
+            "stoic",
+            "tempestuous"
+          ],
+          "answers": [
+            "histrionic",
+            "theatrical"
+          ]
+        }
+      ],
+      "words": [
+        "histrionic"
+      ],
+      "explanation": "Emotion calibrated to a camera and believed by no one is performance rather than feeling, which histrionic and theatrical both convey. Hysterical and tempestuous would grant that the grief was genuine and merely uncontrolled, mawkish charges cloying sentiment rather than fakery, and stoic reverses the sentence outright.",
+      "id": "gregmat22__b3__se__05",
+      "unit": "gregmat22__b3",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "The crew's obedience to a captain of thirty years' standing was {1}: no order was ever weighed, let alone challenged, which is why the mate's request that the new course be explained registered less as curiosity than as a {2} rebuke.",
+      "blanks": [
+        {
+          "options": [
+            "implicit",
+            "grudging",
+            "provisional"
+          ],
+          "answers": [
+            "implicit"
+          ]
+        },
+        {
+          "options": [
+            "veiled",
+            "overt",
+            "warranted"
+          ],
+          "answers": [
+            "veiled"
+          ]
+        }
+      ],
+      "words": [
+        "implicit"
+      ],
+      "explanation": "With trust, faith, or obedience, implicit means absolute and unquestioning, which is what \"no order was ever weighed\" establishes; grudging and provisional both introduce the reservation the sentence rules out. The mate does not criticize in so many words, so his question is a veiled rebuke — overt would contradict the fact that he only asked for an explanation.",
+      "id": "gregmat22__b3__tc2__06",
+      "unit": "gregmat22__b3",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "The paper nowhere defends its premise that growth is desirable; the assumption is left {1}, though a hostile reader has no trouble drawing it out of every model the authors build.",
+      "blanks": [
+        {
+          "options": [
+            "implicit",
+            "tacit",
+            "explicit",
+            "overt",
+            "unsubstantiated",
+            "self-evident"
+          ],
+          "answers": [
+            "implicit",
+            "tacit"
+          ]
+        }
+      ],
+      "words": [
+        "implicit"
+      ],
+      "explanation": "The premise is never stated yet is recoverable from the models, so it is left implicit or tacit — the two words are interchangeable in this sense. Explicit and overt reverse the sentence, unsubstantiated describes a claim that is made but unproven rather than one never made, and self-evident would explain why no defense is needed instead of describing how the assumption is carried.",
+      "id": "gregmat22__b3__se__07",
+      "unit": "gregmat22__b3",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"gaffe\" is the idiomatic choice (a politician's brief verbal blunder that dominates a news cycle, then is displaced by a fresher one), but \"infelicity\" — an unfortunate, ill-chosen turn of phrase — fits the sentence just as well: a twelve-word remark that drew a week of hostile press and nothing more is precisely an ill-judged expression rather than a substantive scandal, and the clause \"and nothing more\" arguably even favors the milder word. Nothing in the sentence discriminates severity, register, or intent between the two, so a reasonable test-taker choosing \"infelicity\" would be marked wrong on taste alone. (The other three — affectation, bravado, posturing — describe a manner or pose rather than a discrete misstep, and none reads naturally as something \"driven out of the news cycle by a fresher one.\")",
+      "stem": "Only twelve words long, the remark cost the minister a week of hostile headlines and nothing more; by the following Monday one {1} had been driven out of the news cycle by a fresher one."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options — heterodox, unorthodox, and heretical — are near-synonyms that all satisfy the sentence, so no unique pair exists. The blank only needs \"deviating from accepted doctrine,\" and \"heretical\" delivers exactly that; with \"Although,\" a strong word arguably works even better as a concession (\"Although they called his models heretical, they still treated him as a colleague rather than an apostate\"). One could argue \"heretical\" is too strong because it aligns with \"apostate to be shunned,\" but that is a fine rhetorical judgment, not a semantic exclusion — and \"heretical\"/\"heterodox\" is itself a legitimate synonym pair, so a test-taker choosing it would be marked wrong on defensible reasoning. (The distractors doctrinaire, hidebound, derivative are correctly out: they mean rigidly dogmatic, resistant to change, and unoriginal, none of which set up the strayed-from-consensus contrast.)",
+      "stem": "Although the economists he attacked called his models {1}, they went on inviting him to their conferences, treating him as a colleague who had strayed from the consensus rather than as an apostate to be shunned."
+    }
+  ]
+}

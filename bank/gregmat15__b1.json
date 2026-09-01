@@ -1,0 +1,261 @@
+{
+  "unit": "gregmat15__b1",
+  "gregmat_group": 15,
+  "words": [
+    "cloak",
+    "consensus",
+    "distort",
+    "divergent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the memoirist never invented an episode outright but merely resequenced the ones he had actually lived, his critics found the charge hard to press: he did not falsify his youth so much as {1} it, and the ostentatious piety of his prose {2} the calculation behind every chapter.",
+      "blanks": [
+        {
+          "options": [
+            "distort",
+            "divulge",
+            "elucidate"
+          ],
+          "answers": [
+            "distort"
+          ]
+        },
+        {
+          "options": [
+            "cloaked",
+            "delineated",
+            "disseminated"
+          ],
+          "answers": [
+            "cloaked"
+          ]
+        }
+      ],
+      "words": [
+        "distort",
+        "cloak"
+      ],
+      "explanation": "Every element of the memoir is genuine and only the arrangement is falsified, which is precisely distortion rather than invention; divulge and elucidate would mean he disclosed or clarified his past, contradicting the critics' complaint. In the second blank the surface piety covers the motive underneath without removing it, the defining action of cloak, whereas delineate and disseminate would expose the calculation instead of draping it.",
+      "id": "gregmat15__b1__tc2__00",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Every member of the panel had trained under the same statistician, so the chair expected their estimates to line up; instead, as each turned to a different archive, the figures grew steadily more {1}, and the {2} he had hoped to announce dissolved into a stack of competing memoranda.",
+      "blanks": [
+        {
+          "options": [
+            "divergent",
+            "homogeneous",
+            "interchangeable"
+          ],
+          "answers": [
+            "divergent"
+          ]
+        },
+        {
+          "options": [
+            "consensus",
+            "comity",
+            "strife"
+          ],
+          "answers": [
+            "consensus"
+          ]
+        }
+      ],
+      "words": [
+        "divergent",
+        "consensus"
+      ],
+      "explanation": "The estimates share a common origin and the gap between them widens over time, which is exactly divergent; homogeneous and interchangeable would describe convergence, the outcome the sentence says did not occur. The second blank names the settled collective position a chair would announce for a single deliberating body: comity is mere courteous mutual recognition rather than an agreed position, and strife is what the memoranda represent, not what he hoped to declare.",
+      "id": "gregmat15__b1__tc2__01",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "The ministry's annual report {1} the scale of the deficit in a fog of subheadings and footnotes, so that no figure had technically been withheld and yet nothing could be seen.",
+      "blanks": [
+        {
+          "options": [
+            "cloaked",
+            "obscured",
+            "elucidated",
+            "divulged",
+            "delineated",
+            "embellished"
+          ],
+          "answers": [
+            "cloaked",
+            "obscured"
+          ]
+        }
+      ],
+      "words": [
+        "cloak"
+      ],
+      "explanation": "Nothing is removed or altered; the numbers are merely covered over until they cannot be made out, so cloaked and obscured both fit and mean the same thing here. Elucidated, divulged, and delineated all describe bringing the figure into view, the opposite of what the clause about seeing nothing establishes, and embellished would require padding that the phrase \"no figure had technically been withheld\" rules out.",
+      "id": "gregmat15__b1__se__02",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "No treaty was drafted and no vote was ever taken; over two decades of quiet attrition among the holdouts, the discipline simply arrived at a {1} that drifting plates explained the matching coastlines.",
+      "blanks": [
+        {
+          "options": [
+            "consensus",
+            "accord",
+            "détente",
+            "unanimity",
+            "comity"
+          ],
+          "answers": [
+            "consensus"
+          ]
+        }
+      ],
+      "words": [
+        "consensus"
+      ],
+      "explanation": "A settled collective position that forms inside one field without paperwork or a tally is a consensus; accord and détente both name arrangements struck between two opposed parties across a table, which the absence of any treaty excludes. Unanimity is wrong because the holdouts merely stopped objecting rather than agreeing, and consensus is precisely the word that claims collective authority without promising every member signed on.",
+      "id": "gregmat15__b1__cloze__03",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Two centuries after the colonists broke with the mother country, legal vocabularies that had once been identical were so {1} that a single term could carry opposite meanings on the two shores.",
+      "blanks": [
+        {
+          "options": [
+            "divergent",
+            "disparate",
+            "homogeneous",
+            "analogous",
+            "fungible",
+            "anomalous"
+          ],
+          "answers": [
+            "divergent",
+            "disparate"
+          ]
+        }
+      ],
+      "words": [
+        "divergent"
+      ],
+      "explanation": "The vocabularies began as one and have grown unlike, so divergent and disparate both describe the resulting unlikeness and yield equivalent sentences. Homogeneous, analogous, and fungible all assert sameness or substitutability, and anomalous would require a norm from which one specimen departs, whereas here neither shore is the outlier.",
+      "id": "gregmat15__b1__se__04",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers conceded that the documentary quoted each source accurately and yet {1} the record all the same, since the order in which the clips were cut implied a chain of causation that no speaker had asserted.",
+      "blanks": [
+        {
+          "options": [
+            "distorted",
+            "fabricated",
+            "embellished",
+            "divulged",
+            "elucidated"
+          ],
+          "answers": [
+            "distorted"
+          ]
+        }
+      ],
+      "words": [
+        "distort"
+      ],
+      "explanation": "Distort is the only verb that leaves every element genuine while bending the whole away from the truth, which is why the accusation survives the concession that the quotations are accurate. Fabricated would require invented material and embellished would require added exaggeration, but nothing was added or made up; divulged and elucidated describe disclosure and clarification rather than misrepresentation.",
+      "id": "gregmat15__b1__cloze__05",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Sceptics argued that the two laboratories' findings were not genuinely {1} at all: one team had relied on an uncalibrated sensor whose slow drift {2} every reading it produced, so an apparent quarrel about the ocean was in fact a quarrel about an instrument.",
+      "blanks": [
+        {
+          "options": [
+            "divergent",
+            "analogous",
+            "fungible"
+          ],
+          "answers": [
+            "divergent"
+          ]
+        },
+        {
+          "options": [
+            "distorted",
+            "suppressed",
+            "disseminated"
+          ],
+          "answers": [
+            "distorted"
+          ]
+        }
+      ],
+      "words": [
+        "divergent",
+        "distort"
+      ],
+      "explanation": "The labs began from the same question and their results appeared to move apart, so divergent is what the sceptics deny; analogous and fungible would assert likeness, which no one disputed. The drift warps genuine measurements rather than withholding or circulating them, making distorted correct and suppressed and disseminated beside the point, since every reading was recorded and reported.",
+      "id": "gregmat15__b1__tc2__06",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Talk of an \"emerging {1}\" let the chairman {2} a decision he had in fact reached alone: no vote was ever called, and the members who had objected in committee were never told that they had been overruled.",
+      "blanks": [
+        {
+          "options": [
+            "consensus",
+            "comity",
+            "strife"
+          ],
+          "answers": [
+            "consensus"
+          ]
+        },
+        {
+          "options": [
+            "cloak",
+            "divulge",
+            "articulate"
+          ],
+          "answers": [
+            "cloak"
+          ]
+        }
+      ],
+      "words": [
+        "consensus",
+        "cloak"
+      ],
+      "explanation": "Consensus is the term of art that claims a body's collective agreement without any tally, which is exactly the authority the chairman borrows when no vote exists; comity denotes mutual courtesy and strife would announce the disagreement he was hiding. The chairman covers his unilateral decision in that language rather than disclosing or spelling it out, so cloak is required and divulge and articulate reverse the direction of the deception.",
+      "id": "gregmat15__b1__tc2__07",
+      "unit": "gregmat15__b1",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": []
+}

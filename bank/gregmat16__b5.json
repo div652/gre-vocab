@@ -1,0 +1,206 @@
+{
+  "unit": "gregmat16__b5",
+  "gregmat_group": 16,
+  "words": [
+    "reconcile",
+    "refine",
+    "relinquish",
+    "ruminate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The border commission's mandate sounded lofty — to end the {1} that had kept the two provinces raiding each other for a decade — but its actual labor was clerical: to {2} two land registries whose acreage figures had never once agreed.",
+      "blanks": [
+        {
+          "options": [
+            "animosity",
+            "accord",
+            "proxy"
+          ],
+          "answers": [
+            "animosity"
+          ]
+        },
+        {
+          "options": [
+            "reconcile",
+            "refine",
+            "relinquish"
+          ],
+          "answers": [
+            "reconcile"
+          ]
+        }
+      ],
+      "words": [
+        "reconcile"
+      ],
+      "explanation": "The relative clause \"had kept the two provinces raiding\" fixes blank one as hostility, so \"accord\" (settled harmony) reverses the sense and \"proxy\" names a substitute agent, not a state of relations. Blank two needs the act of making two conflicting records agree, which is reconcile's second sense; \"refine\" would presuppose registries that were already sound and merely needed polishing, and \"relinquish\" would mean surrendering the registries rather than squaring them.",
+      "id": "gregmat16__b5__tc2__00",
+      "unit": "gregmat16__b5",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Even after three appeals had failed, Zola's closest ally could not {1} himself to a verdict he still believed monstrous, and he went on petitioning long after his colleagues had quietly accepted defeat.",
+      "blanks": [
+        {
+          "options": [
+            "reconcile",
+            "repudiate",
+            "relinquish",
+            "mediate",
+            "forsake"
+          ],
+          "answers": [
+            "reconcile"
+          ]
+        }
+      ],
+      "words": [
+        "reconcile"
+      ],
+      "explanation": "The reflexive frame \"___ himself to a verdict\" calls for the sense of accepting something unwelcome that cannot be changed, which is reconcile's third sense. \"Repudiate\" and \"forsake\" would mean rejecting or deserting the verdict, the opposite of accepting it, and neither takes this reflexive construction; \"mediate\" requires two parties between whom one stands, and there is no second party here.",
+      "id": "gregmat16__b5__cloze__01",
+      "unit": "gregmat16__b5",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "cloze",
+      "stem": "Term limits are defended less as a check on incompetence than as a guarantee of orderly succession: an officeholder who has done nothing whatever wrong must nonetheless {1} the office on a fixed date, handing the seals to a successor already waiting.",
+      "blanks": [
+        {
+          "options": [
+            "relinquish",
+            "forgo",
+            "forsake",
+            "jettison",
+            "abjure"
+          ],
+          "answers": [
+            "relinquish"
+          ]
+        }
+      ],
+      "words": [
+        "relinquish"
+      ],
+      "explanation": "The officeholder legitimately holds the post and passes it to a waiting successor, which is precisely relinquish's transactional handover. \"Forgo\" would require that the office was never held, \"forsake\" imputes desertion or disloyalty that the clause \"has done nothing whatever wrong\" explicitly rules out, \"jettison\" treats the thing as ballast, and \"abjure\" implies a sworn repudiation of a belief or allegiance.",
+      "id": "gregmat16__b5__cloze__03",
+      "unit": "gregmat16__b5",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "The apparatus Faraday left behind was crude in execution but conceptually {1}, so his successors had only to {2} it — trimming losses, tightening tolerances — rather than to think the problem through from the beginning.",
+      "blanks": [
+        {
+          "options": [
+            "sound",
+            "muddled",
+            "provisional"
+          ],
+          "answers": [
+            "sound"
+          ]
+        },
+        {
+          "options": [
+            "refine",
+            "amend",
+            "ameliorate"
+          ],
+          "answers": [
+            "refine"
+          ]
+        }
+      ],
+      "words": [
+        "refine"
+      ],
+      "explanation": "The contrast \"rather than to think the problem through from the beginning\" requires that the underlying conception was already good, so blank one is \"sound\"; \"muddled\" or \"provisional\" would demand rebuilding. Blank two then needs the one verb whose starting point is something already sound and whose fix is subtractive — trimming and tightening — whereas \"amend\" and \"ameliorate\" both presuppose a fault or a bad condition to be corrected.",
+      "id": "gregmat16__b5__tc2__04",
+      "unit": "gregmat16__b5",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "tc2",
+      "stem": "Wharton's narrator calls the Van Degens the most {1} family in New York, but the praise carries a barb, for in her hands the word never denotes taste alone and always implies {2} — a superiority measured silently against the coarser cousins in the next room.",
+      "blanks": [
+        {
+          "options": [
+            "refined",
+            "pristine",
+            "immaculate"
+          ],
+          "answers": [
+            "refined"
+          ]
+        },
+        {
+          "options": [
+            "condescension",
+            "candor",
+            "amity"
+          ],
+          "answers": [
+            "condescension"
+          ]
+        }
+      ],
+      "words": [
+        "refine"
+      ],
+      "explanation": "Only \"refined\" is applied to persons as a term for cultivated manners, and only it curdles into snobbery, which is what the second half of the sentence describes; \"pristine\" and \"immaculate\" mean unspoiled or spotless and do not describe a family's breeding. Blank two must name that snobbery, and \"candor\" (frankness) and \"amity\" (friendliness) both contradict the \"barb\" and the silent measuring against inferiors.",
+      "id": "gregmat16__b5__tc2__05",
+      "unit": "gregmat16__b5",
+      "verified": true,
+      "gregmat_group": 16
+    },
+    {
+      "type": "se",
+      "stem": "For months after the hearing he did nothing but {1} over the slight, replaying the exchange each night with no more resolution than the night before.",
+      "blanks": [
+        {
+          "options": [
+            "ruminate",
+            "brood",
+            "reminisce",
+            "quibble",
+            "gloat",
+            "exult"
+          ],
+          "answers": [
+            "ruminate",
+            "brood"
+          ]
+        }
+      ],
+      "words": [
+        "ruminate"
+      ],
+      "explanation": "The sentence supplies duration, repetition, and a pointed absence of any conclusion, which is the stuck inward chewing that ruminate and brood share. \"Reminisce\" would make the memory fond, \"gloat\" and \"exult\" make it triumphant — impossible for a slight — and \"quibble over\" requires an opponent and a petty point of dispute rather than a solitary replaying.",
+      "id": "gregmat16__b5__se__06",
+      "unit": "gregmat16__b5",
+      "verified": true,
+      "gregmat_group": 16
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence (\"agreed to ___ his claim to the regency,\" with the powers then passing to a council) only requires \"give up / disavow,\" which too many options satisfy, so no unique pair emerges. \"Repudiate\" is a standard, idiomatic near-synonym of \"renounce\" when applied to a claim (repudiate/renounce a claim, a treaty, a debt), so {renounce, repudiate} is a defensible alternative pair; \"jettison\" (\"jettison his claim\") and, more weakly, \"forgo\" also read as giving up the claim. Nothing in the sentence distinguishes formally surrendering possession (relinquish) from disowning validity (repudiate) — the clause about powers passing intact tells us the outcome, not the manner. To be usable, the sentence needs a discriminator (e.g. wording that stresses handing over something he actually held, and removal of \"repudiate\" or \"jettison\" as a distractor).",
+      "stem": "Faced with mounting parliamentary opposition, the duke agreed to {1} his claim to the regency, and the powers he had exercised for six years passed intact to a council of ministers."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"deliberate\" is also genuinely defensible. The sentence's clues — \"endlessly,\" \"circling yields no new knowledge,\" \"wears a groove in the mind\" — describe futile repetitive thinking, which \"ruminate (upon)\" names precisely; but \"deliberate upon a choice already irrevocably made\" is idiomatic English and describes exactly the same futility (weighing options when the decision can no longer change), and \"endlessly\" already supplies the unproductive-repetition sense that would otherwise be carried by \"ruminate\" alone. Nothing in the sentence rules deliberate out — it is not a wrong-tone or wrong-idiom trap, just a slightly less pointed choice — so a reasonable test-taker could pick it and be marked wrong. (\"vacillate upon\" and \"bridle upon\" are unidiomatic, and \"expound\" implies an external audience, contradicting \"in the mind,\" so those three are clean distractors.) To fix, add a signal that the thinking is passive replay rather than evaluation, e.g. \"no longer weighing anything, merely revisiting.\"",
+      "stem": "Kierkegaard warns against the temptation to {1} endlessly upon a choice already irrevocably made, since such circling yields no new knowledge and merely wears a groove in the mind."
+    }
+  ]
+}

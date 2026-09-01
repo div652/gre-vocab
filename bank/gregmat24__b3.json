@@ -1,0 +1,260 @@
+{
+  "unit": "gregmat24__b3",
+  "gregmat_group": 24,
+  "words": [
+    "exorcise",
+    "finicky",
+    "foil",
+    "intertwined"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Unable to {1} the coup by any means the constitution afforded him, the deposed president spent his exile writing a memoir that was less a history than a rite — an attempt to {2} a humiliation that no later vindication had ever loosened.",
+      "blanks": [
+        {
+          "options": [
+            "foil",
+            "exorcise",
+            "venerate"
+          ],
+          "answers": [
+            "foil"
+          ]
+        },
+        {
+          "options": [
+            "exorcise",
+            "foil",
+            "canonize"
+          ],
+          "answers": [
+            "exorcise"
+          ]
+        }
+      ],
+      "words": [
+        "foil",
+        "exorcise"
+      ],
+      "explanation": "The first blank takes a plot already in motion that must be intercepted, which is exactly foil; the second takes a clinging, faintly shameful residue that resists leaving and is driven out by something ceremonial (the memoir as \"rite\"), which is exorcise. The two words trade places as each other's trap: you cannot exorcise a coup, because a coup is an active scheme rather than a haunting, and you cannot foil a humiliation, because there is no attempt left to thwart.",
+      "id": "gregmat24__b3__tc2__00",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Wilkerson insisted that the reunion tour was not nostalgia but therapy — a last chance to {1} the failures that had shadowed the band for thirty years.",
+      "blanks": [
+        {
+          "options": [
+            "exorcise",
+            "purge",
+            "rehearse",
+            "immortalize",
+            "excuse",
+            "conceal"
+          ],
+          "answers": [
+            "exorcise",
+            "purge"
+          ]
+        }
+      ],
+      "words": [
+        "exorcise"
+      ],
+      "explanation": "\"Therapy\" and \"shadowed\" establish that the failures still cling and must be driven out, which exorcise and purge both accomplish with equivalent force. Rehearse is the sharpest trap because it fits the musical setting and takes the same object, but it means to go over the failures again, the opposite of ridding oneself of them; immortalize, excuse, and conceal each preserve rather than expel.",
+      "id": "gregmat24__b3__se__01",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Early gene-sequencing rigs were notoriously {1}, halting whenever the ambient temperature drifted half a degree, so the laboratory came to prize technicians whose {2} attention to daily calibration verged on the obsessive.",
+      "blanks": [
+        {
+          "options": [
+            "finicky",
+            "captious",
+            "pedantic"
+          ],
+          "answers": [
+            "finicky"
+          ]
+        },
+        {
+          "options": [
+            "meticulous",
+            "quibbling",
+            "forbearing"
+          ],
+          "answers": [
+            "meticulous"
+          ]
+        }
+      ],
+      "words": [
+        "finicky"
+      ],
+      "explanation": "Only finicky transfers from people to machinery: a rig that demands fiddly handling to work at all is finicky, whereas captious and pedantic describe a person's fault-finding and presuppose an opinion the object cannot hold. The second blank needs painstaking care presented as a virtue, which is meticulous; quibbling would import petty dispute and forbearing would import patience with others, neither of which is what calibration requires.",
+      "id": "gregmat24__b3__tc2__02",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "The 1954 prototype's engine was famously {1}: it would run beautifully for an hour and then, for reasons no mechanic could ever name, refuse to start at all.",
+      "blanks": [
+        {
+          "options": [
+            "finicky",
+            "temperamental",
+            "fastidious",
+            "cumbersome",
+            "robust",
+            "obsolete"
+          ],
+          "answers": [
+            "finicky",
+            "temperamental"
+          ]
+        }
+      ],
+      "words": [
+        "finicky"
+      ],
+      "explanation": "An engine that works only under conditions no one can pin down is finicky or temperamental, and in this context the two are interchangeable. Fastidious is the near-miss: it belongs to the same family of fussiness but applies to a person's taste and care, not to an unreliable mechanism; cumbersome, robust, and obsolete are ordinary machine adjectives that fit the register while contradicting or ignoring the colon's evidence.",
+      "id": "gregmat24__b3__se__03",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "The smuggling run was {1} at the last moment by a customs officer's idle inspection of a manifest — an accident of timing that left the conspirators looking less sinister than {2}.",
+      "blanks": [
+        {
+          "options": [
+            "foiled",
+            "exorcised",
+            "ratified"
+          ],
+          "answers": [
+            "foiled"
+          ]
+        },
+        {
+          "options": [
+            "inept",
+            "magnanimous",
+            "punctilious"
+          ],
+          "answers": [
+            "inept"
+          ]
+        }
+      ],
+      "words": [
+        "foil"
+      ],
+      "explanation": "A specific attempt already under way, intercepted at the last moment, is foiled; exorcised would require a haunting rather than an operation, and ratified would mean the opposite of stopping it. The second blank follows from the first, since foiling deflates a scheme rather than crushing it, leaving the schemers merely bungling — inept — rather than generous or scrupulous.",
+      "id": "gregmat24__b3__tc2__04",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "In Boswell's Life, the biographer's own settled conventionality serves as a {1} to his subject: the flatter and more ordinary the narrating voice, the more startling Johnson's eccentricities appear.",
+      "blanks": [
+        {
+          "options": [
+            "foil",
+            "ploy",
+            "feint",
+            "pretext",
+            "rebuke"
+          ],
+          "answers": [
+            "foil"
+          ]
+        }
+      ],
+      "words": [
+        "foil"
+      ],
+      "explanation": "The sentence describes contrast that throws another's qualities into relief, which is precisely the noun foil; nothing here is being blocked or deceived. Ploy and feint belong to the scheming, fencing side of the word's family and would require a stratagem, while pretext implies concealed motive and rebuke implies criticism, neither of which the flat narrating voice supplies.",
+      "id": "gregmat24__b3__cloze__05",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "By the 1890s the two shipping families' fortunes had grown so {1} that a bankruptcy on one side of the Mersey reliably produced a foreclosure on the other within the month.",
+      "blanks": [
+        {
+          "options": [
+            "intertwined",
+            "interwoven",
+            "divergent",
+            "precarious",
+            "comparable",
+            "unremarkable"
+          ],
+          "answers": [
+            "intertwined",
+            "interwoven"
+          ]
+        }
+      ],
+      "words": [
+        "intertwined"
+      ],
+      "explanation": "The mechanical transmission of one family's collapse to the other requires mutual, inseparable involvement, and intertwined and interwoven convey that identically. Precarious is the strongest distractor because shaky finances also end in foreclosure, but it describes each fortune's own fragility rather than the link between them; comparable states mere resemblance, and divergent and unremarkable contradict the causal chain.",
+      "id": "gregmat24__b3__se__06",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians long treated the abolition campaign and the movement for women's suffrage as {1} enterprises that happened to share a decade; recent work on their overlapping leaderships, subscription lists, and printing shops shows the two to have been so {2} that neither can now be narrated alone.",
+      "blanks": [
+        {
+          "options": [
+            "discrete",
+            "kindred",
+            "clandestine"
+          ],
+          "answers": [
+            "discrete"
+          ]
+        },
+        {
+          "options": [
+            "intertwined",
+            "intermittent",
+            "incidental"
+          ],
+          "answers": [
+            "intertwined"
+          ]
+        }
+      ],
+      "words": [
+        "intertwined"
+      ],
+      "explanation": "The semicolon sets old view against new, so the first blank must mean separate — discrete — and the second must mean fused past disentangling, which is intertwined. Kindred fails because it already concedes the kinship the new scholarship is said to discover, and intermittent and incidental describe frequency and importance rather than the vanished boundary that makes separate narration impossible.",
+      "id": "gregmat24__b3__tc2__07",
+      "unit": "gregmat24__b3",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": []
+}

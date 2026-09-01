@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat32__b3",
+  "gregmat_group": 32,
+  "words": [
+    "ineluctable",
+    "inquisitive",
+    "latitude",
+    "levity"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "When defense counsel attempted a joke, the judge cut him off: a capital trial, he said, was no occasion for {1}, least of all now that the accumulated forensic evidence had rendered the verdict {2}, whatever rhetorical struggle still remained to be staged.",
+      "blanks": [
+        {
+          "options": [
+            "levity",
+            "gravity",
+            "decorum"
+          ],
+          "answers": [
+            "levity"
+          ]
+        },
+        {
+          "options": [
+            "ineluctable",
+            "conjectural",
+            "fortuitous"
+          ],
+          "answers": [
+            "ineluctable"
+          ]
+        }
+      ],
+      "words": [
+        "levity",
+        "ineluctable"
+      ],
+      "explanation": "The judge is rebuking a joke made where weight was expected, which is precisely levity; gravity and decorum are what the courtroom demanded, so putting either in the blank reverses the sentence. In the second blank, the concession \"whatever rhetorical struggle still remained\" marks a fight already lost, which is ineluctable rather than conjectural (still open to guess) or fortuitous (a matter of chance).",
+      "id": "gregmat32__b3__tc2__00",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "The memorial committee rejected the sculptor's whimsical, brightly painted maquette, insisting that a monument to the famine's dead could admit no trace of {1}.",
+      "blanks": [
+        {
+          "options": [
+            "levity",
+            "frivolity",
+            "gravity",
+            "decorum",
+            "austerity",
+            "pathos"
+          ],
+          "answers": [
+            "levity",
+            "frivolity"
+          ]
+        }
+      ],
+      "words": [
+        "levity"
+      ],
+      "explanation": "A whimsical design at a famine memorial is lightness intruding where solemnity is owed, so levity and frivolity yield the same sentence. Gravity, decorum and austerity are the qualities the committee wants rather than the ones it forbids, and pathos — pity-evoking sorrow — would be welcome at a memorial, not excluded.",
+      "id": "gregmat32__b3__se__01",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Gibbon presents the empire's collapse not as a train of blunders that shrewder emperors might have averted but as the {1} working out of forces set in motion centuries before any of them took the purple.",
+      "blanks": [
+        {
+          "options": [
+            "ineluctable",
+            "fortuitous",
+            "capricious",
+            "equivocal",
+            "provisional"
+          ],
+          "answers": [
+            "ineluctable"
+          ]
+        }
+      ],
+      "words": [
+        "ineluctable"
+      ],
+      "explanation": "The contrast with blunders that might have been averted demands a word meaning that no effort could have prevented the outcome, which is ineluctable. Fortuitous and capricious both attribute the collapse to chance or whim, the opposite of long-set causation, while equivocal and provisional describe uncertainty rather than necessity.",
+      "id": "gregmat32__b3__cloze__02",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the survey's designers granted field interviewers unusual {1} in framing follow-up questions, the most {2} among them drew out testimony far richer than the scripted protocol could have yielded — at the price, statisticians complained, of comparability across regions.",
+      "blanks": [
+        {
+          "options": [
+            "latitude",
+            "economy",
+            "candour"
+          ],
+          "answers": [
+            "latitude"
+          ]
+        },
+        {
+          "options": [
+            "inquisitive",
+            "punctilious",
+            "taciturn"
+          ],
+          "answers": [
+            "inquisitive"
+          ]
+        }
+      ],
+      "words": [
+        "latitude",
+        "inquisitive"
+      ],
+      "explanation": "Latitude is freedom to act granted within rules, exactly what designers hand to interviewers; economy (thrift) and candour (frankness) are qualities of speech, not permissions conferred. The second blank needs the trait that produces extra questions and hence richer testimony: inquisitive, whereas punctilious interviewers would cling to the protocol and taciturn ones would ask less, not more.",
+      "id": "gregmat32__b3__tc2__03",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "The new sentencing statute is unusually prescriptive, leaving trial judges almost no {1}: the ranges are fixed, and any departure from them must be justified in a written opinion subject to immediate appeal.",
+      "blanks": [
+        {
+          "options": [
+            "latitude",
+            "facility",
+            "economy",
+            "repertoire",
+            "jurisdiction"
+          ],
+          "answers": [
+            "latitude"
+          ]
+        }
+      ],
+      "words": [
+        "latitude"
+      ],
+      "explanation": "Fixed ranges and mandatory written justification remove room to manoeuvre within the rules, which is latitude. Facility (ease or aptitude), economy (thrift) and repertoire (stock of available pieces) are all common nouns with tempting second senses that name a capacity rather than a permission, and jurisdiction concerns whether a court may hear a case at all, not how freely it may sentence.",
+      "id": "gregmat32__b3__cloze__04",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "Far from accepting the ministry's official account, the young correspondent proved relentlessly {1}, returning week after week with questions that officials had assumed were long since settled.",
+      "blanks": [
+        {
+          "options": [
+            "inquisitive",
+            "probing",
+            "deferential",
+            "credulous",
+            "garrulous",
+            "punctilious"
+          ],
+          "answers": [
+            "inquisitive",
+            "probing"
+          ]
+        }
+      ],
+      "words": [
+        "inquisitive"
+      ],
+      "explanation": "The correspondent's curiosity is expressed as repeated questioning, so inquisitive and probing produce equivalent sentences. Deferential and credulous describe a reporter who would have accepted the official account, and garrulous (talking at length) and punctilious (fussy about form) fit the tone but name traits unrelated to pressing for answers.",
+      "id": "gregmat32__b3__se__05",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Eighteenth-century editors were allowed such {1} in silently improving the manuscripts they printed that modern scholars confront an {2} uncertainty: no amount of collation or stylistic analysis can now establish which sentences the author himself composed.",
+      "blanks": [
+        {
+          "options": [
+            "latitude",
+            "economy",
+            "reticence"
+          ],
+          "answers": [
+            "latitude"
+          ]
+        },
+        {
+          "options": [
+            "ineluctable",
+            "incipient",
+            "ostensible"
+          ],
+          "answers": [
+            "ineluctable"
+          ]
+        }
+      ],
+      "words": [
+        "latitude",
+        "ineluctable"
+      ],
+      "explanation": "Editors were permitted freedom to alter texts within their office, which is latitude; economy and reticence describe restraint, the very opposite of silent rewriting. The second blank is fixed by \"no amount of collation ... can now establish\": the uncertainty cannot be got round, so it is ineluctable, not incipient (just beginning) or ostensible (apparent but not real).",
+      "id": "gregmat32__b3__tc2__06",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "Her neighbours described her charitably as {1}, though everyone at the table understood that her steady interest in their visitors, their rents and their salaries amounted to something rather less benign.",
+      "blanks": [
+        {
+          "options": [
+            "inquisitive",
+            "officious",
+            "gregarious",
+            "fastidious",
+            "ingenuous"
+          ],
+          "answers": [
+            "inquisitive"
+          ]
+        }
+      ],
+      "words": [
+        "inquisitive"
+      ],
+      "explanation": "Inquisitive is the polite word reached for when nosy is meant, which is exactly the charitable-description-with-a-wink the sentence sets up. Officious means meddling by pressing unwanted help or authority rather than asking questions, gregarious merely means sociable, and fastidious and ingenuous describe fussiness and naivety, neither of which the neighbours' unease would be softening.",
+      "id": "gregmat32__b3__cloze__07",
+      "unit": "gregmat32__b3",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": []
+}

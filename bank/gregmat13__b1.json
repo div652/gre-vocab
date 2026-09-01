@@ -1,0 +1,254 @@
+{
+  "unit": "gregmat13__b1",
+  "gregmat_group": 13,
+  "words": [
+    "compromise",
+    "conciliatory",
+    "countenance",
+    "covert"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the {1} channel through which the station communicated with its agents had been {2} by a single careless message, every operative whose safety depended on its secrecy was withdrawn within the week.",
+      "blanks": [
+        {
+          "options": [
+            "covert",
+            "conspicuous",
+            "overt"
+          ],
+          "answers": [
+            "covert"
+          ]
+        },
+        {
+          "options": [
+            "compromised",
+            "sanctioned",
+            "corroborated"
+          ],
+          "answers": [
+            "compromised"
+          ]
+        }
+      ],
+      "words": [
+        "covert",
+        "compromise"
+      ],
+      "explanation": "The channel's value lay in secrecy, so it must have been covert — conspicuous and overt describe exactly what a deniable communications link is not. For the second blank, the withdrawal of operatives shows the channel was exposed and rendered unsafe, which is compromise in its GRE sense of damaged or breached; sanctioned (authorized) and corroborated (confirmed) are grammatical but describe approval or verification, neither of which would force an evacuation.",
+      "id": "gregmat13__b1__tc2__00",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Chronic sleep deprivation so thoroughly {1} the immune system that infections a rested body would clear in days become genuinely dangerous.",
+      "blanks": [
+        {
+          "options": [
+            "compromised",
+            "impaired",
+            "fortified",
+            "regulated",
+            "sanctioned",
+            "countenanced"
+          ],
+          "answers": [
+            "compromised",
+            "impaired"
+          ]
+        }
+      ],
+      "words": [
+        "compromise"
+      ],
+      "explanation": "The result clause — ordinary infections turning dangerous — requires a verb of weakening, and compromised and impaired are equivalent in this medical context. Fortified reverses the sense and regulated makes deprivation sound merely modulating; sanctioned and countenanced are the trap words, since they belong to compromise's and countenance's other, approval-related meanings and cannot sensibly take an immune system as object.",
+      "id": "gregmat13__b1__se__01",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Though he conceded not a single point of substance, the ambassador's tone throughout was so {1} that the delegation left the room convinced a settlement was near.",
+      "blanks": [
+        {
+          "options": [
+            "conciliatory",
+            "placatory",
+            "truculent",
+            "obsequious",
+            "peremptory",
+            "equivocal"
+          ],
+          "answers": [
+            "conciliatory",
+            "placatory"
+          ]
+        }
+      ],
+      "words": [
+        "conciliatory"
+      ],
+      "explanation": "The concession clause sets up the word's defining feature: a manner that soothes hostility while surrendering nothing, which is precisely conciliatory or placatory. Truculent and peremptory would make the delegation's optimism inexplicable; obsequious grovels and equivocal merely blurs, and neither has a synonym among the options, so neither can complete an equivalent pair.",
+      "id": "gregmat13__b1__se__02",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "The general's public statements grew steadily more {1} with each week of negotiation, even as his {2} shipments of arms to the militias continued unabated — a duplicity the mediators uncovered only after the ceasefire had collapsed.",
+      "blanks": [
+        {
+          "options": [
+            "conciliatory",
+            "belligerent",
+            "laconic"
+          ],
+          "answers": [
+            "conciliatory"
+          ]
+        },
+        {
+          "options": [
+            "covert",
+            "overt",
+            "ostentatious"
+          ],
+          "answers": [
+            "covert"
+          ]
+        }
+      ],
+      "words": [
+        "conciliatory",
+        "covert"
+      ],
+      "explanation": "The charge of duplicity requires the public face and the private conduct to point in opposite directions: soothing words outside, arms shipments hidden from view. Belligerent would align the statements with the shipments and destroy the contradiction, and laconic describes length rather than temperature; overt and ostentatious would have made the shipments visible, leaving the mediators nothing to uncover.",
+      "id": "gregmat13__b1__tc2__03",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "The late photographs of Whitman show a {1} so deeply seamed by illness and weather that admirers read into it every hardship of the poet's final decade.",
+      "blanks": [
+        {
+          "options": [
+            "countenance",
+            "demeanor",
+            "mien",
+            "bearing",
+            "silhouette"
+          ],
+          "answers": [
+            "countenance"
+          ]
+        }
+      ],
+      "words": [
+        "countenance"
+      ],
+      "explanation": "Seamed describes lined skin, so the noun must denote the face itself, which is countenance in its literary sense. Demeanor, mien, and bearing all name overall manner or air rather than physical features and cannot be seamed, and a silhouette shows outline only, which would register no lines at all.",
+      "id": "gregmat13__b1__cloze__04",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the seminar was concealed, exactly: the senior faculty's hostility was legible to every student in the room, yet it stayed {1}, expressed in the timing of interruptions rather than in any sentence that could be quoted back.",
+      "blanks": [
+        {
+          "options": [
+            "covert",
+            "overt",
+            "flagrant",
+            "furtive",
+            "clandestine"
+          ],
+          "answers": [
+            "covert"
+          ]
+        }
+      ],
+      "words": [
+        "covert"
+      ],
+      "explanation": "The sentence describes hostility that is plainly perceived but never stated, which is the one thing covert uniquely covers: unstated rather than unseen. Furtive and clandestine both require actual concealment, which the opening clause explicitly denies, while overt and flagrant would mean the hostility was said aloud.",
+      "id": "gregmat13__b1__cloze__05",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "The abbot, indulgent in matters of diet and dress, would not {1} the smallest departure from the liturgy his order had used for six centuries.",
+      "blanks": [
+        {
+          "options": [
+            "countenance",
+            "brook",
+            "ordain",
+            "deprecate",
+            "forestall",
+            "rationalize"
+          ],
+          "answers": [
+            "countenance",
+            "brook"
+          ]
+        }
+      ],
+      "words": [
+        "countenance"
+      ],
+      "explanation": "The contrast with his indulgence elsewhere calls for a verb of tolerating, and in the negative countenance and brook are interchangeable: he refused to let the departure stand under his authority. Ordain would mean he declined to decree the departure, forestall that he declined to prevent it, and deprecate and rationalize concern condemning or excusing — all grammatical, none equivalent to each other.",
+      "id": "gregmat13__b1__se__06",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Both delegations arrived with {1} language carefully prepared, but neither would put a single concession on the table, and after three weeks the talks yielded not a {2} — no side gave up anything at all — but a communiqué praising the atmosphere of the discussions.",
+      "blanks": [
+        {
+          "options": [
+            "conciliatory",
+            "truculent",
+            "peremptory"
+          ],
+          "answers": [
+            "conciliatory"
+          ]
+        },
+        {
+          "options": [
+            "compromise",
+            "stalemate",
+            "rupture"
+          ],
+          "answers": [
+            "compromise"
+          ]
+        }
+      ],
+      "words": [
+        "conciliatory",
+        "compromise"
+      ],
+      "explanation": "The pivot on but requires the prepared language to promise cooperation that the delegations' conduct then withheld, which is conciliatory; truculent and peremptory would make the refusal to concede a continuation rather than a reversal. The appositive — no side gave up anything — defines the second blank as a settlement of mutual concession, so compromise is required, whereas a stalemate or rupture is what such talks produce when no one concedes, not what they failed to produce.",
+      "id": "gregmat13__b1__tc2__07",
+      "unit": "gregmat13__b1",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": []
+}

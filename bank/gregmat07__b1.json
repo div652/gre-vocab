@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat07__b1",
+  "gregmat_group": 7,
+  "words": [
+    "dearth",
+    "explicable",
+    "hyperbole",
+    "immutable"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Nineteenth-century travel writing about the Levant is {1} — the shelves of any research library groan with it — yet there remains a striking {2} of accounts by women, whose observations survive mostly in unpublished family letters.",
+      "blanks": [
+        {
+          "options": [
+            "copious",
+            "paltry",
+            "sporadic"
+          ],
+          "answers": [
+            "copious"
+          ]
+        },
+        {
+          "options": [
+            "dearth",
+            "surfeit",
+            "profusion"
+          ],
+          "answers": [
+            "dearth"
+          ]
+        }
+      ],
+      "words": [
+        "dearth"
+      ],
+      "explanation": "The groaning shelves force an abundance word in the first blank, and \"yet\" then demands a shortage word in the second: a dearth of women's accounts. \"Surfeit\" and \"profusion\" both name excess and would cancel the contrast the sentence has just set up, while \"paltry\" or \"sporadic\" would contradict the library image outright.",
+      "id": "gregmat07__b1__tc2__00",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers praised the biography's narrative verve while lamenting its {1} of documentary support: whole chapters rest on a single much-quoted memoir.",
+      "blanks": [
+        {
+          "options": [
+            "dearth",
+            "paucity",
+            "surfeit",
+            "ubiquity",
+            "sensationalism",
+            "distortion"
+          ],
+          "answers": [
+            "dearth",
+            "paucity"
+          ]
+        }
+      ],
+      "words": [
+        "dearth"
+      ],
+      "explanation": "\"Lamenting\" plus the reliance on one memoir establishes that evidence is in short supply, which \"dearth\" and \"paucity\" both name — each is a noun for a shortage of something the speaker thinks ought to be more plentiful. \"Surfeit\" and \"ubiquity\" reverse the sense, and \"sensationalism\" and \"distortion\" fault the book's handling of evidence rather than its quantity.",
+      "id": "gregmat07__b1__se__01",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from being the {1} outburst the tabloids described, the mutiny became entirely {2} the moment the pay ledgers were opened: sailors eight months in arrears require no exotic motive.",
+      "blanks": [
+        {
+          "options": [
+            "motiveless",
+            "premeditated",
+            "ruinous"
+          ],
+          "answers": [
+            "motiveless"
+          ]
+        },
+        {
+          "options": [
+            "explicable",
+            "immutable",
+            "hyperbolic"
+          ],
+          "answers": [
+            "explicable"
+          ]
+        }
+      ],
+      "words": [
+        "explicable"
+      ],
+      "explanation": "The ledgers supply a plain cause, so the mutiny turns out to be accountable — explicable — and \"far from\" requires the first blank to name the opposite state, an act without discoverable reason. \"Premeditated\" would already imply a motive and so destroy the contrast, and neither \"immutable\" (unchangeable) nor \"hyperbolic\" (exaggerated) has anything to do with whether a cause can be found.",
+      "id": "gregmat07__b1__tc2__02",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "Anthropologists have long insisted that customs which strike a visitor as arbitrary are usually perfectly {1} once the local economy of obligation and debt is understood.",
+      "blanks": [
+        {
+          "options": [
+            "explicable",
+            "immutable",
+            "entrenched",
+            "sporadic",
+            "inexorable"
+          ],
+          "answers": [
+            "explicable"
+          ]
+        }
+      ],
+      "words": [
+        "explicable"
+      ],
+      "explanation": "The clause \"once ... is understood\" promises that an account of the custom exists, which is precisely the claim \"explicable\" makes — not that the custom is obvious, but that it can be accounted for. \"Entrenched\" and \"immutable\" describe how firmly a practice is fixed, which knowledge of the local economy would do nothing to establish.",
+      "id": "gregmat07__b1__cloze__03",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "The claim that the new bridge would \"end poverty in the county\" was mere {1}; nobody, least of all the officials who drafted the slogan, expected it to be weighed as a literal forecast.",
+      "blanks": [
+        {
+          "options": [
+            "hyperbole",
+            "overstatement",
+            "mendacity",
+            "pomposity",
+            "understatement",
+            "pedantry"
+          ],
+          "answers": [
+            "hyperbole",
+            "overstatement"
+          ]
+        }
+      ],
+      "words": [
+        "hyperbole"
+      ],
+      "explanation": "Because the excess is open and no one is meant to believe it, the slogan is exaggeration for effect, which \"hyperbole\" and \"overstatement\" both name. \"Mendacity\" is the trap: it would make the officials liars, but the sentence stipulates that the claim was never offered as literal truth, and lying depends on the audience being taken in.",
+      "id": "gregmat07__b1__se__04",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Ancient historians did not regard a battle narrative as {1} merely because its casualty figures were swollen past belief; the {2} was understood by writer and audience alike as a way of registering scale, not as a total to be audited.",
+      "blanks": [
+        {
+          "options": [
+            "deceitful",
+            "pedestrian",
+            "derivative"
+          ],
+          "answers": [
+            "deceitful"
+          ]
+        },
+        {
+          "options": [
+            "hyperbole",
+            "understatement",
+            "obscurity"
+          ],
+          "answers": [
+            "hyperbole"
+          ]
+        }
+      ],
+      "words": [
+        "hyperbole"
+      ],
+      "explanation": "Figures \"swollen past belief\" that both parties read as a gesture toward scale are hyperbole, and the sentence's whole point is that such open exaggeration does not amount to lying — so the first blank must be the charge being denied. \"Pedestrian\" and \"derivative\" are aesthetic complaints that the clause about inflated figures gives no ground for.",
+      "id": "gregmat07__b1__tc2__05",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "Nineteenth-century geologists quarrelled over almost everything, yet nearly all of them assumed that the laws governing the earth were {1}; what they actually disputed was whether those laws had always operated at the {2} pace observable today or in sudden, violent paroxysms.",
+      "blanks": [
+        {
+          "options": [
+            "immutable",
+            "ephemeral",
+            "malleable"
+          ],
+          "answers": [
+            "immutable"
+          ]
+        },
+        {
+          "options": [
+            "measured",
+            "capricious",
+            "negligible"
+          ],
+          "answers": [
+            "measured"
+          ]
+        }
+      ],
+      "words": [
+        "immutable"
+      ],
+      "explanation": "What the geologists held in common is that the laws themselves cannot change — immutable is a claim about the nature of a thing, not merely about its having stayed the same so far — while the second blank must oppose \"sudden, violent paroxysms\" and so calls for a steady pace. \"Malleable\" would mean the laws could be reshaped, which is the position the sentence says nobody took.",
+      "id": "gregmat07__b1__tc2__06",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "He wrote about the class system as if it were {1}, a feature of the natural order, rather than an arrangement that particular men had made and other men might unmake.",
+      "blanks": [
+        {
+          "options": [
+            "immutable",
+            "unalterable",
+            "contingent",
+            "perennial",
+            "pervasive",
+            "venerable"
+          ],
+          "answers": [
+            "immutable",
+            "unalterable"
+          ]
+        }
+      ],
+      "words": [
+        "immutable"
+      ],
+      "explanation": "The contrast with something men made and could unmake requires a word meaning incapable of being changed at all, which \"immutable\" and \"unalterable\" supply. \"Perennial\" says only that a thing persists and \"pervasive\" that it is everywhere — both are compatible with eventual change — while \"contingent\" states the very position the writer is being accused of denying.",
+      "id": "gregmat07__b1__se__07",
+      "unit": "gregmat07__b1",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat29__b4",
+  "gregmat_group": 29,
+  "words": [
+    "expatiate",
+    "fraught",
+    "fulcrum",
+    "imbroglio"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "In committee Hume was famously {1}, offering a nod where his colleagues offered speeches; yet on the single subject of land drainage he would {2} for the better part of an hour, to the visible astonishment of men who had never heard him finish a sentence.",
+      "blanks": [
+        {
+          "options": [
+            "taciturn",
+            "garrulous",
+            "voluble"
+          ],
+          "answers": [
+            "taciturn"
+          ]
+        },
+        {
+          "options": [
+            "expatiate",
+            "digress",
+            "demur"
+          ],
+          "answers": [
+            "expatiate"
+          ]
+        }
+      ],
+      "words": [
+        "expatiate"
+      ],
+      "explanation": "The clause \"a nod where his colleagues offered speeches\" fixes blank 1 as habitual silence, so garrulous and voluble are excluded; the astonishment then depends on the second blank describing an outpouring. Expatiate is the only option that means holding forth at length on a topic — digress means the opposite of staying \"on the single subject,\" and demur means to raise an objection, which cannot be sustained for an hour on drainage.",
+      "id": "gregmat29__b4__tc2__00",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers complained less about the biographer's judgment than about her proportions: she could {1} for thirty pages upon the furnishings of a rented room, never once straying from her subject and never once explaining why it should detain us.",
+      "blanks": [
+        {
+          "options": [
+            "expatiate",
+            "digress",
+            "ramble",
+            "equivocate",
+            "prevaricate"
+          ],
+          "answers": [
+            "expatiate"
+          ]
+        }
+      ],
+      "words": [
+        "expatiate"
+      ],
+      "explanation": "The sentence supplies both the length (thirty pages), the collocation (\"upon\" a topic), and an explicit denial of wandering, which is exactly the profile of expatiate: dryly excessive volume on a subject the speaker never leaves. Digress and ramble both require leaving the point, which \"never once straying from her subject\" rules out, and equivocate and prevaricate concern evasive or misleading speech rather than quantity.",
+      "id": "gregmat29__b4__cloze__01",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "The armistice looked orderly on paper, but its language was {1} with ambiguities about the disputed corridor — questions the negotiators had not so much settled as {2}, leaving a later generation to discover what had actually been signed.",
+      "blanks": [
+        {
+          "options": [
+            "fraught",
+            "tenuous",
+            "precarious"
+          ],
+          "answers": [
+            "fraught"
+          ]
+        },
+        {
+          "options": [
+            "deferred",
+            "adjudicated",
+            "rescinded"
+          ],
+          "answers": [
+            "deferred"
+          ]
+        }
+      ],
+      "words": [
+        "fraught"
+      ],
+      "explanation": "Only fraught takes \"with\" and means loaded with latent trouble; tenuous and precarious describe a thing liable to collapse and do not govern a following noun in this construction. Blank 2 is fixed by \"not so much settled as,\" which demands a word contrasting with settlement: adjudicated is a synonym for settling, and rescinded would mean the ambiguities were cancelled rather than passed on to the future.",
+      "id": "gregmat29__b4__tc2__02",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "The dinner that followed the acquittal was {1}: nobody mentioned the trial, everybody watched everybody else, and the most ordinary remark seemed capable of setting something off.",
+      "blanks": [
+        {
+          "options": [
+            "fraught",
+            "strained",
+            "placid",
+            "convivial",
+            "tempestuous",
+            "perfunctory"
+          ],
+          "answers": [
+            "fraught",
+            "strained"
+          ]
+        }
+      ],
+      "words": [
+        "fraught"
+      ],
+      "explanation": "Standing alone, fraught means tense and wary, and strained produces the same sentence — an atmosphere in which trouble is packed in but has not yet gone off. Tempestuous is the trap: it describes trouble already erupting, whereas the diners are conspicuously not erupting; placid and convivial reverse the meaning, and perfunctory would describe the dinner as going through the motions rather than as charged.",
+      "id": "gregmat29__b4__se__03",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Holding only nine seats in a chamber of six hundred, the regional party nevertheless became the {1} of the coalition: no budget could pass without it, and the slightest shift in its position swung the whole assembly.",
+      "blanks": [
+        {
+          "options": [
+            "fulcrum",
+            "linchpin",
+            "crux",
+            "zenith",
+            "nadir",
+            "harbinger"
+          ],
+          "answers": [
+            "fulcrum",
+            "linchpin"
+          ]
+        }
+      ],
+      "words": [
+        "fulcrum"
+      ],
+      "explanation": "Both fulcrum and linchpin name the small element on which a much larger structure turns or depends, and either yields the same claim about a nine-seat party moving an entire assembly. Crux names the central difficulty of a problem rather than a component that carries the weight, while zenith, nadir, and harbinger are borrowed from height, depth, and prophecy and say nothing about leverage.",
+      "id": "gregmat29__b4__se__04",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "The least imposing figure at the table, the assistant secretary proved to be the {1} of the talks: she advanced no proposal of her own, yet each delegation's pressure had to be exerted through her, and a few degrees of movement on her part shifted the settlement enormously.",
+      "blanks": [
+        {
+          "options": [
+            "fulcrum",
+            "catalyst",
+            "crux",
+            "apogee",
+            "precursor"
+          ],
+          "answers": [
+            "fulcrum"
+          ]
+        }
+      ],
+      "words": [
+        "fulcrum"
+      ],
+      "explanation": "The sentence is built out of the physics of a lever — a small, still point through which force is applied and around which a large outcome pivots — which is precisely fulcrum. A catalyst initiates a reaction, but she is explicitly described as advancing nothing herself; crux would name the hard problem rather than the person, and apogee and precursor concern a high point and something that comes before.",
+      "id": "gregmat29__b4__cloze__05",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "What began as a mere {1} over the seating at a state dinner had within a month hardened into a genuine {2}: three ministries were briefing against one another, the ambassador had stopped speaking to the protocol office, and no two accounts of the original slight agreed.",
+      "blanks": [
+        {
+          "options": [
+            "contretemps",
+            "cataclysm",
+            "schism"
+          ],
+          "answers": [
+            "contretemps"
+          ]
+        },
+        {
+          "options": [
+            "imbroglio",
+            "quandary",
+            "fiasco"
+          ],
+          "answers": [
+            "imbroglio"
+          ]
+        }
+      ],
+      "words": [
+        "imbroglio"
+      ],
+      "explanation": "\"Began as a mere ... hardened into\" requires a trivial mishap first, which is contretemps; cataclysm and schism are already grave and leave nothing to escalate into. The second blank is then fixed by multiple feuding parties and irreconcilable accounts — the tangled, acrimonious snarl of an imbroglio — whereas a quandary is a dilemma one person faces and a fiasco requires an outright failure, which nothing here has yet produced.",
+      "id": "gregmat29__b4__tc2__06",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "The memoir devotes sixty pages to the broadcasting {1} of 1978, in which two ministries, a network, and a bankrupt contractor accused one another of bad faith for three years without ever agreeing on what had been promised to whom.",
+      "blanks": [
+        {
+          "options": [
+            "imbroglio",
+            "quandary",
+            "conundrum",
+            "predicament",
+            "debacle"
+          ],
+          "answers": [
+            "imbroglio"
+          ]
+        }
+      ],
+      "words": [
+        "imbroglio"
+      ],
+      "explanation": "Several parties, mutual recrimination, and no agreed account of events describe an imbroglio, the dry formal word for a tangled and faintly scandalous public dispute. Quandary, conundrum, and predicament all name a difficulty a single person confronts rather than a quarrel among many, and debacle would require the affair to have ended in collapse or humiliating failure, which the sentence never asserts.",
+      "id": "gregmat29__b4__cloze__07",
+      "unit": "gregmat29__b4",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": []
+}

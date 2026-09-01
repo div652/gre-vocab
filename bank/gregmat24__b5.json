@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat24__b5",
+  "gregmat_group": 24,
+  "words": [
+    "oblivious",
+    "perpetrate",
+    "plaintive",
+    "poignant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The lookout was less {1} than simply {2}: the smoke had never registered with him at all, and so the blame that later settled on his name lacked the sting reserved for duties knowingly abandoned.",
+      "blanks": [
+        {
+          "options": [
+            "negligent",
+            "circumspect",
+            "prescient"
+          ],
+          "answers": [
+            "negligent"
+          ]
+        },
+        {
+          "options": [
+            "oblivious",
+            "cavalier",
+            "wary"
+          ],
+          "answers": [
+            "oblivious"
+          ]
+        }
+      ],
+      "words": [
+        "oblivious"
+      ],
+      "explanation": "The closing clause denies that any duty was knowingly abandoned, so the term being rejected in the first blank is the one that presumes a failed obligation — negligent — while the second blank must name a pure blank in perception, which is oblivious. Cavalier fails because it describes someone who has noticed and shrugged, whereas the sentence insists the smoke never registered; circumspect and prescient are alertness words that leave the contrast with duty unexplained.",
+      "id": "gregmat24__b5__tc2__00",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Sequestered for months in the mountain observatory, the astronomers were {1} of the war that had broken out below; they descended in the spring to find the borders redrawn and the mails suspended.",
+      "blanks": [
+        {
+          "options": [
+            "oblivious",
+            "indifferent",
+            "complacent",
+            "cavalier",
+            "chary"
+          ],
+          "answers": [
+            "oblivious"
+          ]
+        }
+      ],
+      "words": [
+        "oblivious"
+      ],
+      "explanation": "Learning of the war only on descending proves the news never reached them, which is the blankness that oblivious reports (and it takes the formal complement of). Indifferent and cavalier would require that they knew of the war and discounted it, and complacent would imply a smug confidence about it — all of which the sentence rules out.",
+      "id": "gregmat24__b5__cloze__01",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "The forgeries were too numerous and too intricate for a single hand; investigators eventually concluded that no one man could have {1} them in the eighteen months the dealer had been in the country.",
+      "blanks": [
+        {
+          "options": [
+            "perpetrated",
+            "committed",
+            "abetted",
+            "condoned",
+            "authenticated",
+            "contravened"
+          ],
+          "answers": [
+            "perpetrated",
+            "committed"
+          ]
+        }
+      ],
+      "words": [
+        "perpetrate"
+      ],
+      "explanation": "The question is who actually carried out the fraudulent deeds, so perpetrated and committed pair as equivalents, with perpetrate carrying the extra note of official disapproval that a fraud invites. Abetted and condoned each name a bystander's relation to a crime rather than its execution, authenticated reverses the sense, and contravened takes a rule or statute as its object, not the forgeries themselves.",
+      "id": "gregmat24__b5__se__02",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the statute reached only those who had {1} the fraud themselves, the financiers who had merely {2} it — lending their names to the prospectus and their silence to the auditors — escaped indictment altogether.",
+      "blanks": [
+        {
+          "options": [
+            "perpetrated",
+            "contravened",
+            "flouted"
+          ],
+          "answers": [
+            "perpetrated"
+          ]
+        },
+        {
+          "options": [
+            "abetted",
+            "premeditated",
+            "denounced"
+          ],
+          "answers": [
+            "abetted"
+          ]
+        }
+      ],
+      "words": [
+        "perpetrate"
+      ],
+      "explanation": "The sentence divides principals from helpers: the first blank must name executing the deed itself, which is what perpetrate does, while the second, glossed by lending names and silence, must name assistance — abetted. Contravened and flouted take a law or norm as object rather than the fraud, premeditated would make the financiers planners rather than accessories, and denounced would have earned them thanks, not the escape from indictment the sentence describes.",
+      "id": "gregmat24__b5__tc2__03",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Recordings of the abandoned pup's calls are unmistakably {1}: thin, rising, pitched less like grief than like a request, and evolved, the biologists argue, to bring an adult back to the beach.",
+      "blanks": [
+        {
+          "options": [
+            "plaintive",
+            "lugubrious",
+            "morose",
+            "sonorous",
+            "jocund"
+          ],
+          "answers": [
+            "plaintive"
+          ]
+        }
+      ],
+      "words": [
+        "plaintive"
+      ],
+      "explanation": "A thin, high sound that functions as an appeal rather than a lament is exactly plaintive, whose root it shares with plaintiff. Lugubrious would mean heavy, overdone gloom, which the phrase less like grief excludes; morose describes a person's settled temper rather than a cry, and sonorous points to depth and resonance.",
+      "id": "gregmat24__b5__cloze__04",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Whatever its folk origins, the melody that closes the second act is unmistakably {1}: a single oboe over held strings, sounding for all the world like a plea.",
+      "blanks": [
+        {
+          "options": [
+            "plaintive",
+            "doleful",
+            "strident",
+            "sonorous",
+            "jocund",
+            "ebullient"
+          ],
+          "answers": [
+            "plaintive",
+            "doleful"
+          ]
+        }
+      ],
+      "words": [
+        "plaintive"
+      ],
+      "explanation": "A solo oboe that sounds like a plea is mournful in a thin, appealing way, and plaintive and doleful are the pair that delivers that sense. Strident and sonorous describe sound plausibly but denote harshness and resonant depth rather than sorrow, while jocund and ebullient reverse the mood entirely.",
+      "id": "gregmat24__b5__se__05",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "The documentary's most {1} passage is not the funeral but a single domestic detail — the dead man's boots, still set by the door — and it is precisely this restraint that spares the film the {2} sentimentality of its predecessors.",
+      "blanks": [
+        {
+          "options": [
+            "poignant",
+            "plaintive",
+            "morose"
+          ],
+          "answers": [
+            "poignant"
+          ]
+        },
+        {
+          "options": [
+            "maudlin",
+            "austere",
+            "oblique"
+          ],
+          "answers": [
+            "maudlin"
+          ]
+        }
+      ],
+      "words": [
+        "poignant"
+      ],
+      "explanation": "The stem praises a small, exact detail for piercing the viewer, which is the work poignant does; the contrast with restraint then requires the second blank to name emotional excess, hence maudlin. Plaintive attaches to a sound or expression and carries a note of complaint rather than critical praise, morose describes a person's gloom, and austere and oblique would make the predecessors restrained rather than overwrought.",
+      "id": "gregmat24__b5__tc2__06",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "What makes the photograph {1} is not the rubble behind the family but the birthday cake one child is still holding — the one intact thing in the frame, and the measure of everything the shell took.",
+      "blanks": [
+        {
+          "options": [
+            "poignant",
+            "wistful",
+            "pensive",
+            "plaintive",
+            "lugubrious"
+          ],
+          "answers": [
+            "poignant"
+          ]
+        }
+      ],
+      "words": [
+        "poignant"
+      ],
+      "explanation": "The blank labels the photograph — the stimulus that pierces an observer through one precise, bittersweet detail — and that is poignant. Wistful and pensive describe the inner state of a person doing the longing or musing, not the object that provokes it; plaintive requires a sound or expression, and lugubrious names heavy, exaggerated gloom rather than a sharp sting.",
+      "id": "gregmat24__b5__cloze__07",
+      "unit": "gregmat24__b5",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": []
+}

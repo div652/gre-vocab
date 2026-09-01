@@ -1,0 +1,228 @@
+{
+  "unit": "gregmat13__b5",
+  "gregmat_group": 13,
+  "words": [
+    "mimic",
+    "numinous",
+    "obscure",
+    "overt"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The young pianist's admirers insisted that he did not merely {1} Rubinstein — the theatrical wrist, the audible sigh before a cadenza — but rather sought to {2} the discipline that had made those gestures earned.",
+      "blanks": [
+        {
+          "options": [
+            "mimic",
+            "venerate",
+            "flout"
+          ],
+          "answers": [
+            "mimic"
+          ]
+        },
+        {
+          "options": [
+            "emulate",
+            "caricature",
+            "deride"
+          ],
+          "answers": [
+            "emulate"
+          ]
+        }
+      ],
+      "words": [
+        "mimic"
+      ],
+      "explanation": "The appositive lists surface tics — wrist, sigh — which is exactly what one mimics: close reproduction of outward manner. The contrast \"not merely... but rather\" demands an admiring, substantive copying in the second blank, which is emulate; caricature would exaggerate the mannerisms rather than reach past them, and deride reverses the sentence's praise.",
+      "id": "gregmat13__b5__tc2__00",
+      "unit": "gregmat13__b5",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "The runaway success of his one novel has long {1} the political journalism that occupied most of his working life and that specialists now regard as the more durable achievement.",
+      "blanks": [
+        {
+          "options": [
+            "obscured",
+            "eclipsed",
+            "cloaked",
+            "elucidated",
+            "distilled",
+            "amplified"
+          ],
+          "answers": [
+            "obscured",
+            "eclipsed"
+          ]
+        }
+      ],
+      "words": [
+        "obscure"
+      ],
+      "explanation": "The sentence needs the idea of hiding by outshining: the famous book has kept the journalism out of view, which is precisely obscure and eclipse in their overshadowing sense. Cloaked implies a deliberate act of concealment by some agent, which a novel's success cannot perform; amplified, elucidated and distilled all reverse or distort the meaning.",
+      "id": "gregmat13__b5__se__01",
+      "unit": "gregmat13__b5",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Descending into the unlit chamber of the barrow, the excavators reported not aesthetic pleasure but something {1}: an awe shot through with dread, as though the space itself were somehow attentive to them.",
+      "blanks": [
+        {
+          "options": [
+            "numinous",
+            "sacrosanct",
+            "august",
+            "estimable",
+            "inviolate"
+          ],
+          "answers": [
+            "numinous"
+          ]
+        }
+      ],
+      "words": [
+        "numinous"
+      ],
+      "explanation": "The gloss after the colon — awe mixed with dread, a sense of being noticed by something larger — is the definition of numinous, a sensation a place inflicts. Sacrosanct and inviolate name a protected status conferred from outside, not a felt experience, and august and estimable carry dignity or worth without any shiver of fear.",
+      "id": "gregmat13__b5__cloze__02",
+      "unit": "gregmat13__b5",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "The cathedral's founding charter had for eight centuries declared the site {1}, yet tourists filing through the floodlit nave reported no {2} shudder whatever; the sensation they had travelled for waited, if anywhere, in the unlit crypt below.",
+      "blanks": [
+        {
+          "options": [
+            "sacrosanct",
+            "numinous",
+            "irreverent"
+          ],
+          "answers": [
+            "sacrosanct"
+          ]
+        },
+        {
+          "options": [
+            "numinous",
+            "august",
+            "opaque"
+          ],
+          "answers": [
+            "numinous"
+          ]
+        }
+      ],
+      "words": [
+        "numinous"
+      ],
+      "explanation": "A charter can confer only a status — sacrosanct, protected from violation — since no document can legislate a feeling into a building. The second blank, modifying \"shudder\" and glossed by \"the sensation they had travelled for,\" needs numinous; august denotes imposing dignity with no element of dread, and the whole point of the contrast is that sacrosanct status guarantees no numinous effect.",
+      "id": "gregmat13__b5__tc2__03",
+      "unit": "gregmat13__b5",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the treaty's crucial clause was so {1}, each signatory could read into it whatever its interests required; only when one government committed a wholly {2} breach, uniformed troops crossing the line in daylight, was the ambiguity finally forced to a resolution.",
+      "blanks": [
+        {
+          "options": [
+            "obscure",
+            "manifest",
+            "candid"
+          ],
+          "answers": [
+            "obscure"
+          ]
+        },
+        {
+          "options": [
+            "overt",
+            "tacit",
+            "surreptitious"
+          ],
+          "answers": [
+            "overt"
+          ]
+        }
+      ],
+      "words": [
+        "obscure",
+        "overt"
+      ],
+      "explanation": "A clause that lets every party read in its own meaning is one the light does not get through — obscure; manifest and candid would make the text plain and destroy the causal logic. The breach must be undisguised to force a reckoning, and \"in daylight\" where concealment was expected marks it overt, whereas surreptitious would leave the ambiguity comfortably intact and tacit is not a way of acting at all.",
+      "id": "gregmat13__b5__tc2__04",
+      "unit": "gregmat13__b5",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Until 1937 the intervention was conducted through deniable shipments and advisers in civilian dress; the arrival of a uniformed division under its own colours was the first {1} act of war.",
+      "blanks": [
+        {
+          "options": [
+            "overt",
+            "flagrant",
+            "conspicuous",
+            "manifest",
+            "tacit"
+          ],
+          "answers": [
+            "overt"
+          ]
+        }
+      ],
+      "words": [
+        "overt"
+      ],
+      "explanation": "The sentence is built on the abandonment of concealment — deniability, civilian dress — so it needs the live antonym of covert, describing the manner in which the act was done. Flagrant would stress outrageousness and conspicuous mere noticeability, while manifest describes how plainly a fact is evident rather than how openly a deed is performed.",
+      "id": "gregmat13__b5__cloze__05",
+      "unit": "gregmat13__b5",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "The composer passed her last decade in an {1} Silesian town that appears on no rail map of the period, which is why her final manuscripts sat unexamined for nearly a century.",
+      "blanks": [
+        {
+          "options": [
+            "obscure",
+            "arcane",
+            "abstruse",
+            "recondite",
+            "inscrutable"
+          ],
+          "answers": [
+            "obscure"
+          ]
+        }
+      ],
+      "words": [
+        "obscure"
+      ],
+      "explanation": "What is wanted is the \"little-known, off the map\" sense, and obscure is the only member of this family that can describe a place rather than an idea or text. Arcane, abstruse and recondite all characterize knowledge that is hard to penetrate or requires initiation, and inscrutable describes something that gives away nothing when examined.",
+      "id": "gregmat13__b5__cloze__06",
+      "unit": "gregmat13__b5",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"mimics\" is clearly intended (biological mimicry; \"so exactly ... that a bird avoids both\" demands close, faithful imitation), and \"caricatures\"/\"parodies\" (exaggerated, distorting imitation) and \"obscures\" (conceals rather than copies) are properly excluded by \"so exactly.\" But \"emulates\" is a bare synonym of \"imitates\" and is not excluded by anything in the sentence: \"banding so exactly emulates the warning coloration of wasps\" reads sensibly and satisfies the same causal logic. The only objection is a soft connotative one — emulate usually implies an intentional agent striving to match or surpass a model — which is too weak to make a test-taker's choice of \"emulates\" wrong. Two options are defensible, so the item is not usable as written; replacing \"emulates\" with a word that genuinely fails the \"so exactly ... that\" constraint would fix it.",
+      "stem": "Palatable hoverflies survive in numbers because their banding so exactly {1} the warning coloration of wasps that a bird punished once by a sting will thereafter avoid both insects."
+    }
+  ]
+}

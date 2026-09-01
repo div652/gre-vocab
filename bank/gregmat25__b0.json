@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat25__b0",
+  "gregmat_group": 25,
+  "words": [
+    "adept",
+    "adverse",
+    "appropriate",
+    "archetype"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Sargent's contemporaries assumed his fluency with the brush was inborn, but he had in fact begun as a near {1}, and only a decade spent copying the Venetians made him the {2} they imagined he had always been.",
+      "blanks": [
+        {
+          "options": [
+            "connoisseur",
+            "polymath",
+            "neophyte"
+          ],
+          "answers": [
+            "neophyte"
+          ]
+        },
+        {
+          "options": [
+            "adept",
+            "dilettante",
+            "apprentice"
+          ],
+          "answers": [
+            "adept"
+          ]
+        }
+      ],
+      "words": [
+        "adept"
+      ],
+      "explanation": "The sentence runs from a starting point of ignorance to earned mastery, so blank one needs a beginner: a neophyte, not a connoisseur (a discerning judge, not a novice) or a polymath (breadth of learning). Blank two must name what a decade of practice produces, which is an adept, the noun for one who has mastered a difficult art; a dilettante dabbles without commitment and an apprentice is still learning, so both contradict the arc the sentence describes.",
+      "id": "gregmat25__b0__tc2__00",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Thirty years in the archives at Simancas left Braudel entirely {1} in the paleography of Spanish chancery hand, a mastery no visiting researcher could improvise.",
+      "blanks": [
+        {
+          "options": [
+            "adept",
+            "proficient",
+            "dexterous",
+            "nimble",
+            "inept",
+            "callow"
+          ],
+          "answers": [
+            "adept",
+            "proficient"
+          ]
+        }
+      ],
+      "words": [
+        "adept"
+      ],
+      "explanation": "The blank must denote command of a learned body of knowledge built up over decades, which both adept in and proficient in supply. Dexterous and nimble fit the grammar but denote quickness of hand or foot, precisely the improvised facility the sentence rules out, while inept and callow contradict the mastery named in the second clause.",
+      "id": "gregmat25__b0__se__01",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Wind-tunnel data showed that the airframe handled acceptably in calm air but grew dangerously unstable under {1} conditions; the review board therefore judged the design {2} for polar routes, where such weather is routine rather than exceptional.",
+      "blanks": [
+        {
+          "options": [
+            "adverse",
+            "averse",
+            "anomalous"
+          ],
+          "answers": [
+            "adverse"
+          ]
+        },
+        {
+          "options": [
+            "untenable",
+            "paradigmatic",
+            "serviceable"
+          ],
+          "answers": [
+            "untenable"
+          ]
+        }
+      ],
+      "words": [
+        "adverse"
+      ],
+      "explanation": "Adverse names conditions working against a stated interest, here the aircraft's stability; averse describes a person's disinclination and cannot modify conditions, and anomalous is defeated by the closing clause, which insists such weather is routine. Given instability in weather the route guarantees, the board's verdict must be untenable, not serviceable (which reverses the judgment) or paradigmatic (which evaluates typicality, not fitness).",
+      "id": "gregmat25__b0__tc2__02",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "The prospectus devotes forty pages to the {1} effects that a sustained rise in interest rates would have on the fund's leveraged positions.",
+      "blanks": [
+        {
+          "options": [
+            "adverse",
+            "averse",
+            "aberrant",
+            "adept",
+            "incontrovertible"
+          ],
+          "answers": [
+            "adverse"
+          ]
+        }
+      ],
+      "words": [
+        "adverse"
+      ],
+      "explanation": "Adverse is the formal term for effects that run counter to a named interest, exactly the institutional register of a prospectus. Averse, its constant lookalike, applies only to a person's unwillingness and takes to, while aberrant would claim the effects are deviant rather than harmful.",
+      "id": "gregmat25__b0__cloze__03",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "What the museum described as stewardship the delegation called plunder: the bronzes had been {1} in the course of a punitive expedition, and no amount of scholarly care in the century since could {2} a transfer to which no owner had ever consented.",
+      "blanks": [
+        {
+          "options": [
+            "appropriated",
+            "encroached",
+            "attributed"
+          ],
+          "answers": [
+            "appropriated"
+          ]
+        },
+        {
+          "options": [
+            "legitimize",
+            "obviate",
+            "exacerbate"
+          ],
+          "answers": [
+            "legitimize"
+          ]
+        }
+      ],
+      "words": [
+        "appropriate"
+      ],
+      "explanation": "Appropriated is the cool, official-sounding word for taking possession without permission, which is why it fits a sentence that sets stewardship against plunder; encroach ends in mere intrusion rather than ownership and does not take an object, and attributed concerns assigning authorship. The second blank must name what conservation cannot achieve for an unconsented transfer, namely legitimize it; obviate (make unnecessary) and exacerbate (worsen) leave the contrast unresolved.",
+      "id": "gregmat25__b0__tc2__04",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "se",
+      "stem": "Over three quiet years the committee chair {1} powers that the charter had reserved to the full board, until members discovered that budgets were being set without a vote.",
+      "blanks": [
+        {
+          "options": [
+            "appropriated",
+            "usurped",
+            "delegated",
+            "relinquished",
+            "questioned",
+            "ratified"
+          ],
+          "answers": [
+            "appropriated",
+            "usurped"
+          ]
+        }
+      ],
+      "words": [
+        "appropriate"
+      ],
+      "explanation": "The chair took for himself authority belonging to others, so appropriated and usurped both yield the same sentence. Delegated and relinquished reverse the direction of the transfer, and questioned or ratified fit the grammar while describing debate or approval rather than seizure.",
+      "id": "gregmat25__b0__se__05",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from being an eccentric outlier, Byron's Manfred proved {1}: he was re-enacted so persistently by later novelists that critics ceased treating him as one brooding protagonist among many and began treating him as the {2} from which the whole brooding line descends.",
+      "blanks": [
+        {
+          "options": [
+            "paradigmatic",
+            "idiosyncratic",
+            "outlandish"
+          ],
+          "answers": [
+            "paradigmatic"
+          ]
+        },
+        {
+          "options": [
+            "archetype",
+            "paragon",
+            "benchmark"
+          ],
+          "answers": [
+            "archetype"
+          ]
+        }
+      ],
+      "words": [
+        "archetype"
+      ],
+      "explanation": "The opening concession rules out idiosyncratic and outlandish, which would merely restate the eccentric outlier the sentence denies, leaving paradigmatic for a figure the tradition keeps reproducing. The second blank must claim priority and descent, which is archetype; a paragon is a model of excellence and a benchmark a standard for measurement, and neither implies that later versions issue from it.",
+      "id": "gregmat25__b0__tc2__06",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    },
+    {
+      "type": "cloze",
+      "stem": "Jung insisted that the Trickster was no invention of a single storyteller but an {1} figure, surfacing independently in Norse, Yoruba and Winnebago narratives because it lies at the bottom of the pattern such stories keep re-enacting.",
+      "blanks": [
+        {
+          "options": [
+            "archetypal",
+            "anomalous",
+            "idiosyncratic",
+            "conventional",
+            "outlandish"
+          ],
+          "answers": [
+            "archetypal"
+          ]
+        }
+      ],
+      "words": [
+        "archetype"
+      ],
+      "explanation": "The figure is described as a deep template that unrelated traditions independently re-enact, which is precisely what archetypal claims. Conventional would make the Trickster merely ordinary rather than foundational, while anomalous, idiosyncratic and outlandish all assert deviation, contradicting the independent recurrence the sentence reports.",
+      "id": "gregmat25__b0__cloze__07",
+      "unit": "gregmat25__b0",
+      "verified": true,
+      "gregmat_group": 25
+    }
+  ],
+  "rejects": []
+}

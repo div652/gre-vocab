@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat12__b5",
+  "gregmat_group": 12,
+  "words": [
+    "parsimonious",
+    "peripheral",
+    "provocative",
+    "renounce"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the foundation's endowment had grown enormous, its trustees remained {1} in their disbursements; applicants who left empty-handed year after year came to regard the policy as less a matter of prudence than of sheer {2}.",
+      "blanks": [
+        {
+          "options": [
+            "parsimonious",
+            "munificent",
+            "prodigal"
+          ],
+          "answers": [
+            "parsimonious"
+          ]
+        },
+        {
+          "options": [
+            "miserliness",
+            "largesse",
+            "profligacy"
+          ],
+          "answers": [
+            "miserliness"
+          ]
+        }
+      ],
+      "words": [
+        "parsimonious"
+      ],
+      "explanation": "The applicants leave empty-handed despite an enormous endowment, so the trustees withhold rather than give: parsimonious, and the judgment passed on it is miserliness. Prodigal and profligacy would describe reckless spending, which contradicts the empty-handed applicants, and munificent/largesse reverse the sentence entirely.",
+      "id": "gregmat12__b5__tc2__00",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "Copernicus's system was at first no more accurate in its predictions than Ptolemy's, yet astronomers came to prefer it because it was the more {1} account, dispensing with the elaborate scaffolding of epicycles the older model had required.",
+      "blanks": [
+        {
+          "options": [
+            "parsimonious",
+            "penurious",
+            "sanctimonious",
+            "acrimonious",
+            "prodigal"
+          ],
+          "answers": [
+            "parsimonious"
+          ]
+        }
+      ],
+      "words": [
+        "parsimonious"
+      ],
+      "explanation": "Applied to a theory rather than a person, parsimonious is praise: it means economical, requiring the fewest assumptions — exactly the virtue of shedding epicycles. Penurious keeps only the money sense of poverty or stinginess, and the remaining lookalikes (self-righteous, bitter, wasteful) have nothing to do with explanatory economy.",
+      "id": "gregmat12__b5__cloze__01",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "The board never denied that the environmental objections had merit; it simply treated them as {2} to the project's financial rationale, a maneuver that effectively {1} the critics while appearing to grant them a hearing.",
+      "blanks": [
+        {
+          "options": [
+            "marginalized",
+            "emboldened",
+            "exonerated"
+          ],
+          "answers": [
+            "marginalized"
+          ]
+        },
+        {
+          "options": [
+            "peripheral",
+            "germane",
+            "indispensable"
+          ],
+          "answers": [
+            "peripheral"
+          ]
+        }
+      ],
+      "words": [
+        "peripheral"
+      ],
+      "explanation": "Peripheral is the polite demotion: it concedes the objections are real (the board 'never denied that they had merit') while sliding them off the centre, which is exactly how the critics get marginalized. Germane and indispensable would make the objections central and destroy the maneuver, and neither emboldened nor exonerated describes a critic who has been quietly set aside.",
+      "id": "gregmat12__b5__tc2__02",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers admired the biography's handling of the poet's late religious crisis but complained that entire chapters on her brother's failed shipping ventures were {1} to the story the book had set out to tell.",
+      "blanks": [
+        {
+          "options": [
+            "peripheral",
+            "tangential",
+            "germane",
+            "pivotal",
+            "contentious",
+            "indispensable"
+          ],
+          "answers": [
+            "peripheral",
+            "tangential"
+          ]
+        }
+      ],
+      "words": [
+        "peripheral"
+      ],
+      "explanation": "The complaint is that the shipping chapters sit off to the side of the book's real subject, so peripheral and tangential yield the same sentence. Germane, pivotal, and indispensable all fit the grammar but make those chapters central, turning a complaint into praise; contentious is tonally plausible but says the chapters were disputed, not off-topic.",
+      "id": "gregmat12__b5__se__03",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Far from seeking consensus, the pamphlet was {1} by design: its author had calculated that a thesis framed to {2} his opponents would find more readers than any judicious survey of the evidence could hope to.",
+      "blanks": [
+        {
+          "options": [
+            "provocative",
+            "conciliatory",
+            "apposite"
+          ],
+          "answers": [
+            "provocative"
+          ]
+        },
+        {
+          "options": [
+            "goad",
+            "placate",
+            "vindicate"
+          ],
+          "answers": [
+            "goad"
+          ]
+        }
+      ],
+      "words": [
+        "provocative"
+      ],
+      "explanation": "'Far from seeking consensus' plus 'by design' demands a word meaning calculated to inflame — provocative — and the thesis is accordingly framed to goad opponents into responding. Conciliatory and placate move toward settling the quarrel the author wants to start, and vindicate would have him proving his opponents right.",
+      "id": "gregmat12__b5__tc2__04",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "Even historians who thought the monograph's central claim untenable called it {1}: by insisting that the revolution had begun in the provinces, it obliged a whole generation to defend premises they had never thought to examine.",
+      "blanks": [
+        {
+          "options": [
+            "provocative",
+            "innocuous",
+            "derivative",
+            "tendentious",
+            "sanctimonious"
+          ],
+          "answers": [
+            "provocative"
+          ]
+        }
+      ],
+      "words": [
+        "provocative"
+      ],
+      "explanation": "In criticism, provocative is praise for a book that deliberately unsettles its field and starts the argument — which is what the concession 'even historians who thought the claim untenable' sets up. Tendentious is the trap: it also implies a book pushing a thesis, but it is purely pejorative and so cannot be the compliment the concessive structure requires; innocuous and derivative describe books that provoke nothing.",
+      "id": "gregmat12__b5__cloze__05",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "The prince's abdication speech {1} every claim to the throne, yet it was in no sense a {2}: he maintained that his house's right to rule had always been legitimate, and that he was paying a price rather than confessing a mistake.",
+      "blanks": [
+        {
+          "options": [
+            "renounced",
+            "recanted",
+            "ratified"
+          ],
+          "answers": [
+            "renounced"
+          ]
+        },
+        {
+          "options": [
+            "recantation",
+            "sacrifice",
+            "formality"
+          ],
+          "answers": [
+            "recantation"
+          ]
+        }
+      ],
+      "words": [
+        "renounce"
+      ],
+      "explanation": "Renounce is the one word here for formally and publicly surrendering something you legitimately hold, with no admission of error — which is why the speech can give up the throne without being a recantation. Recanted in the first blank would flatly contradict the second half, and 'sacrifice' fails because the prince describes himself precisely as paying a price.",
+      "id": "gregmat12__b5__tc2__06",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Under the terms of the 1713 settlement Philip was required to {1} any claim to the French crown on behalf of himself and his heirs, a concession the other powers regarded as the treaty's entire point.",
+      "blanks": [
+        {
+          "options": [
+            "renounce",
+            "relinquish",
+            "abrogate",
+            "arrogate",
+            "consolidate",
+            "adjudicate"
+          ],
+          "answers": [
+            "renounce",
+            "relinquish"
+          ]
+        }
+      ],
+      "words": [
+        "renounce"
+      ],
+      "explanation": "A claim one holds can be renounced or relinquished — formally given up — and either verb produces the same treaty. Arrogate means to seize a claim without right and consolidate to strengthen one, both the reverse of a concession; abrogate applies to laws and treaties rather than to a claimant's title, and adjudicate would have Philip judging the claim instead of surrendering it.",
+      "id": "gregmat12__b5__se__07",
+      "unit": "gregmat12__b5",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": []
+}

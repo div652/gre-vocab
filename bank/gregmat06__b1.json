@@ -1,0 +1,263 @@
+{
+  "unit": "gregmat06__b1",
+  "gregmat_group": 6,
+  "words": [
+    "analogous",
+    "bolster",
+    "chauvinistic",
+    "connoisseur"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Although the two legal systems grew up on opposite edges of Europe and remained wholly {1} in procedure, the medieval English jury and the Icelandic panel of neighbors discharged {2} functions: each asked local men to certify facts that the court itself had no way of knowing.",
+      "blanks": [
+        {
+          "options": [
+            "disparate",
+            "interchangeable",
+            "eclectic"
+          ],
+          "answers": [
+            "disparate"
+          ]
+        },
+        {
+          "options": [
+            "analogous",
+            "homogeneous",
+            "divergent"
+          ],
+          "answers": [
+            "analogous"
+          ]
+        }
+      ],
+      "words": [
+        "analogous"
+      ],
+      "explanation": "\"Although\" sets the two halves against each other: the systems differ in substance (disparate) yet correspond in what they do (analogous). \"Interchangeable\" would destroy the concession, and \"homogeneous\" is wrong in the second blank because it would claim the two institutions are of one kind rather than merely parallel in function — analogous asserts a shared relation between things understood to be unalike.",
+      "id": "gregmat06__b1__tc2__00",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "The cephalopod eye is now the textbook case of convergence: it differs from the vertebrate eye in almost every structural detail, down to the wiring of the retina, and yet it is precisely {1} to it, having arrived independently at the same solution to the problem of focusing light.",
+      "blanks": [
+        {
+          "options": [
+            "analogous",
+            "homogeneous",
+            "indistinguishable",
+            "fungible",
+            "interchangeable"
+          ],
+          "answers": [
+            "analogous"
+          ]
+        }
+      ],
+      "words": [
+        "analogous"
+      ],
+      "explanation": "The sentence insists on structural difference while asserting an identity of function, which is exactly what analogous claims — and the idiom is analogous *to*. \"Indistinguishable\" and \"interchangeable\" are ruled out by \"differs in almost every structural detail,\" and \"homogeneous\" would describe one uniform class rather than a correspondence between two unlike things.",
+      "id": "gregmat06__b1__cloze__01",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers observed that the appendix of freshly tabulated prices did little more than {1} an argument the author had already advanced in his opening chapter, since it introduced no new line of reasoning and answered none of the standing objections.",
+      "blanks": [
+        {
+          "options": [
+            "bolster",
+            "buttress",
+            "undermine",
+            "undercut",
+            "attenuate",
+            "vitiate"
+          ],
+          "answers": [
+            "bolster",
+            "buttress"
+          ]
+        }
+      ],
+      "words": [
+        "bolster"
+      ],
+      "explanation": "The appendix adds support to an existing argument without extending it, so the blank needs a propping-up verb: bolster and buttress are interchangeable when the object is a case or an argument. The other four all point the opposite way — undermine and undercut sap the argument, attenuate thins it, vitiate spoils it — and each yields a coherent but contrary sentence.",
+      "id": "gregmat06__b1__se__02",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "The chancellor's emergency package was framed less as a reward to a thriving sector than as an attempt to {1} one whose order books had been thinning for a decade; manufacturers replied that the new licensing rules attached to the money would in practice {2} the very firms it was meant to rescue.",
+      "blanks": [
+        {
+          "options": [
+            "bolster",
+            "augment",
+            "expedite"
+          ],
+          "answers": [
+            "bolster"
+          ]
+        },
+        {
+          "options": [
+            "impede",
+            "galvanize",
+            "buttress"
+          ],
+          "answers": [
+            "impede"
+          ]
+        }
+      ],
+      "words": [
+        "bolster"
+      ],
+      "explanation": "Bolster is the propping word that concedes weakness in its object — an industry whose order books are thinning is exactly what one bolsters, whereas augment merely adds quantity and expedite hurries a process along. The second blank turns on \"replied\" and \"in practice,\" which demand a reversal of the intended help; galvanize and buttress would both aid the firms and leave the objection incoherent.",
+      "id": "gregmat06__b1__tc2__03",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "The trustees had commissioned what they hoped would be a {1} survey of the region's music, but the manuscript that arrived was frankly {2}: every innovation of consequence, its author maintained, had been made within his own nation's borders, and the neighboring traditions were dismissed in a footnote as derivative.",
+      "blanks": [
+        {
+          "options": [
+            "disinterested",
+            "tendentious",
+            "invidious"
+          ],
+          "answers": [
+            "disinterested"
+          ]
+        },
+        {
+          "options": [
+            "chauvinistic",
+            "egalitarian",
+            "erudite"
+          ],
+          "answers": [
+            "chauvinistic"
+          ]
+        }
+      ],
+      "words": [
+        "chauvinistic"
+      ],
+      "explanation": "\"But\" and the colon require an expectation of impartiality overturned by boastful national partiality: a disinterested survey is what trustees commission, and a book crediting every advance to one's own country is chauvinistic. \"Tendentious\" cannot fill the first blank because no one hopes for a slanted survey, and \"erudite\" in the second would praise learning rather than name the flaw the colon goes on to illustrate.",
+      "id": "gregmat06__b1__tc2__05",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "se",
+      "stem": "The wartime pamphlets are unreadable today not because their prose is poor but because they are so unabashedly {1}, urging readers to believe that no other people had ever produced a poet, a general, or a loaf of bread worth the name.",
+      "blanks": [
+        {
+          "options": [
+            "chauvinistic",
+            "jingoistic",
+            "parochial",
+            "insular",
+            "xenophobic",
+            "egalitarian"
+          ],
+          "answers": [
+            "chauvinistic",
+            "jingoistic"
+          ]
+        }
+      ],
+      "words": [
+        "chauvinistic"
+      ],
+      "explanation": "The pamphlets proclaim the boastful superiority of one's own nation over all others, which is what chauvinistic and jingoistic both name. Parochial and insular describe a narrow horizon — ignorance of the outside world rather than swaggering comparison with it — and xenophobic names fear or hatred of foreigners, not the smug conviction that one's own people are better.",
+      "id": "gregmat06__b1__se__06",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "cloze",
+      "stem": "Two decades of methodical tasting had turned him into something more than an enthusiast: he had become a {1}, capable of naming from an unlabeled glass not merely the region but the slope on which the grapes had ripened.",
+      "blanks": [
+        {
+          "options": [
+            "connoisseur",
+            "aficionado",
+            "dilettante",
+            "neophyte",
+            "polymath"
+          ],
+          "answers": [
+            "connoisseur"
+          ]
+        }
+      ],
+      "words": [
+        "connoisseur"
+      ],
+      "explanation": "The point of the sentence is fineness of discrimination — a trained palate delivering a verdict — which is precisely what connoisseur denotes. \"Aficionado\" is excluded by \"more than an enthusiast,\" since enthusiasm is all it supplies; dilettante implies dabbling, neophyte a beginner, and polymath breadth of learning rather than refined judgment in one domain.",
+      "id": "gregmat06__b1__cloze__07",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    },
+    {
+      "type": "tc2",
+      "stem": "The dealer's correspondence reveals a man of two minds: in his letters to the great collectors he presents himself as a {1} who has merely been lucky in his purchases, yet the annotations in his stock-books are those of a {2}, dating a canvas from the handling of its shadows alone.",
+      "blanks": [
+        {
+          "options": [
+            "dilettante",
+            "polymath",
+            "adept"
+          ],
+          "answers": [
+            "dilettante"
+          ]
+        },
+        {
+          "options": [
+            "connoisseur",
+            "neophyte",
+            "philistine"
+          ],
+          "answers": [
+            "connoisseur"
+          ]
+        }
+      ],
+      "words": [
+        "connoisseur"
+      ],
+      "explanation": "The contrast is between a pose of amateurism and a private record of trained judgment: a dilettante dabbles and might credit luck, while a connoisseur discriminates finely enough to date a picture by its brushwork. \"Polymath\" and \"adept\" both concede real mastery and so ruin the self-deprecation of the first half, and neither neophyte nor philistine could produce the expert annotations described in the second.",
+      "id": "gregmat06__b1__tc2__08",
+      "unit": "gregmat06__b1",
+      "verified": true,
+      "gregmat_group": 6
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options are defensible. \"Buttress\" is a direct synonym of \"bolster\" (to strengthen/support something under strain), and it is idiomatic with morale (\"buttress flagging morale\"). The sentence supplies no clue that separates them — both fit \"his mere presence would ___ spirits that shelling had left dangerously low.\" As written this looks like a Sentence Equivalence pair (bolster/buttress) mistakenly cast as a single-answer cloze. Fix by dropping one of the two, or by adding a context clue that forces the more idiomatic \"bolster.\" (Corroborate and attenuate are fine distractors; augment is weak but at least distinguishable, since it denotes increase in quantity rather than restoration of a depleted quality.)",
+      "stem": "Rather than issue another communique from headquarters, the general spent three days walking the forward trenches in full view of his men, calculating that his mere presence would {1} spirits that four months of shelling had left dangerously low."
+    }
+  ]
+}

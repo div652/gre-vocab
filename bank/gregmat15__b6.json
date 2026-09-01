@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat15__b6",
+  "gregmat_group": 15,
+  "words": [
+    "strife",
+    "understated",
+    "unscrupulous",
+    "veracity"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Gibbon presents the reign neither as a series of quarrels with nameable victors nor as a doctrinal split into two rival camps, but as an era of civil {1}: a decade in which the provinces sank into a settled {2} that no imperial edict could dispel.",
+      "blanks": [
+        {
+          "options": [
+            "strife",
+            "schism",
+            "accord"
+          ],
+          "answers": [
+            "strife"
+          ]
+        },
+        {
+          "options": [
+            "animosity",
+            "amity",
+            "consensus"
+          ],
+          "answers": [
+            "animosity"
+          ]
+        }
+      ],
+      "words": [
+        "strife"
+      ],
+      "explanation": "Strife names the persisting bitter climate itself — no sides counted, no doctrine, no resolution — which is exactly what the sentence leaves after ruling out both a decisive quarrel and a two-camp split; schism would name precisely the doctrinal division the clause excludes. The second blank must supply the hostility that makes the climate bitter, so amity and consensus reverse the sense.",
+      "id": "gregmat15__b6__tc2__00",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Between the lockout of 1892 and the settlement of 1902 the coalfields knew almost unbroken industrial {1}; no arbitration board managed to keep the peace for longer than a single season.",
+      "blanks": [
+        {
+          "options": [
+            "strife",
+            "discord",
+            "schism",
+            "polarization",
+            "accord",
+            "consensus"
+          ],
+          "answers": [
+            "strife",
+            "discord"
+          ]
+        }
+      ],
+      "words": [
+        "strife"
+      ],
+      "explanation": "Strife and discord both denote sustained conflict as a condition rather than an event, which is what \"almost unbroken\" over a decade requires. Schism and polarization describe a structure of division — a body splitting, opinion moving to extremes — not the climate of fighting, while accord and consensus contradict the clause about arbitration failing.",
+      "id": "gregmat15__b6__se__01",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "The grief scenes are deliberately {1} — no swelling score, no tearful close-up — on the conviction that a held silence registers more forcibly than any {2} display of feeling.",
+      "blanks": [
+        {
+          "options": [
+            "understated",
+            "ostentatious",
+            "perfunctory"
+          ],
+          "answers": [
+            "understated"
+          ]
+        },
+        {
+          "options": [
+            "florid",
+            "laconic",
+            "austere"
+          ],
+          "answers": [
+            "florid"
+          ]
+        }
+      ],
+      "words": [
+        "understated"
+      ],
+      "explanation": "Understated is restraint chosen on purpose by someone with the material to do more, which is what \"deliberately\" plus the stated conviction establishes; perfunctory would make the omissions careless rather than calculated, and ostentatious reverses them. The comparison demands that the second blank name the showy alternative, so florid fits where laconic and austere merely restate the restraint.",
+      "id": "gregmat15__b6__tc2__02",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Reviewers praised the memoir's {1} treatment of the siege: across six hundred richly detailed pages Klemperer never once raises his voice, and the horror gathers force precisely because he declines to underline it.",
+      "blanks": [
+        {
+          "options": [
+            "understated",
+            "laconic",
+            "austere",
+            "bombastic",
+            "effusive"
+          ],
+          "answers": [
+            "understated"
+          ]
+        }
+      ],
+      "words": [
+        "understated"
+      ],
+      "explanation": "Understated is the word for substance held back on purpose, and the sentence makes the effect depend on that refusal to emphasize. Laconic would claim brevity, which six hundred pages contradicts, and austere would claim a stripped, unfurnished manner, which \"richly detailed\" rules out.",
+      "id": "gregmat15__b6__cloze__03",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission describes the brokers as neither cruel nor especially greedy, merely {1}: they felt none of the {2} that would have stopped a colleague from writing a loan he knew the borrower could never repay.",
+      "blanks": [
+        {
+          "options": [
+            "unscrupulous",
+            "venal",
+            "mercenary"
+          ],
+          "answers": [
+            "unscrupulous"
+          ]
+        },
+        {
+          "options": [
+            "compunction",
+            "cupidity",
+            "bravado"
+          ],
+          "answers": [
+            "compunction"
+          ]
+        }
+      ],
+      "words": [
+        "unscrupulous"
+      ],
+      "explanation": "Unscrupulous names a missing moral brake and says nothing about motive, which is why it survives the concession that the brokers were not especially greedy; venal and mercenary both make money the point and are excluded by that same clause. The second blank must name the inward check that others feel, so compunction fits where cupidity (greed) and bravado do not.",
+      "id": "gregmat15__b6__tc2__04",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Deregulation handed the mortgage market to {1} operators — men who would never have called themselves wicked, and who simply failed to feel the hesitation that keeps other people honest.",
+      "blanks": [
+        {
+          "options": [
+            "unscrupulous",
+            "unprincipled",
+            "venal",
+            "duplicitous",
+            "exacting",
+            "scrupulous"
+          ],
+          "answers": [
+            "unscrupulous",
+            "unprincipled"
+          ]
+        }
+      ],
+      "words": [
+        "unscrupulous"
+      ],
+      "explanation": "Unscrupulous and unprincipled both describe the absence of restraint rather than any particular vice, matching a sentence that denies wickedness and locates the fault in a missing hesitation. Venal narrows the charge to being bought and duplicitous to active deceit, while scrupulous states the opposite of what the clause describes.",
+      "id": "gregmat15__b6__se__05",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Defense counsel conceded the officer's personal {1}, noting that his word had gone unchallenged in twenty years on the force, while insisting that the {2} of a report reconstructed from memory a decade after the arrest could not simply be assumed.",
+      "blanks": [
+        {
+          "options": [
+            "probity",
+            "mendacity",
+            "verisimilitude"
+          ],
+          "answers": [
+            "probity"
+          ]
+        },
+        {
+          "options": [
+            "veracity",
+            "plausibility",
+            "provenance"
+          ],
+          "answers": [
+            "veracity"
+          ]
+        }
+      ],
+      "words": [
+        "veracity"
+      ],
+      "explanation": "The sentence turns on granting the man's uprightness — probity — while contesting the document, and veracity is the term that attaches to a statement or record and typically appears under exactly this kind of challenge. Plausibility concerns how convincing the report seems rather than whether it is accurate, and provenance concerns where it came from, which is not in doubt.",
+      "id": "gregmat15__b6__tc2__06",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "Scholars disputed the {1} of the Donation of Constantine for centuries — a genuine imperial grant, or an eighth-century fabrication? — until Valla demonstrated in 1440 that its Latin could not have been written in the fourth.",
+      "blanks": [
+        {
+          "options": [
+            "veracity",
+            "verisimilitude",
+            "probity",
+            "plausibility",
+            "candor"
+          ],
+          "answers": [
+            "veracity"
+          ]
+        }
+      ],
+      "words": [
+        "veracity"
+      ],
+      "explanation": "Veracity is the only option that attaches to a document and asks whether its account is true, which is precisely the genuine-or-forged question posed. Verisimilitude would concern the appearance of truth the forgery successfully maintained, while probity and candor describe persons rather than texts.",
+      "id": "gregmat15__b6__cloze__07",
+      "unit": "gregmat15__b6",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": []
+}

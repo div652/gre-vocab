@@ -1,0 +1,258 @@
+{
+  "unit": "gregmat02__b2",
+  "gregmat_group": 2,
+  "words": [
+    "audacious",
+    "avaricious",
+    "banal",
+    "benign"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Officers who admired the manoeuvre called it {1}, a word that in their mouths carried nothing but praise; the captains Nelson had passed over preferred to describe the very same disregard of standing orders as sheer {2}.",
+      "blanks": [
+        {
+          "options": [
+            "audacious",
+            "brazen",
+            "timorous"
+          ],
+          "answers": [
+            "audacious"
+          ]
+        },
+        {
+          "options": [
+            "effrontery",
+            "largesse",
+            "diffidence"
+          ],
+          "answers": [
+            "effrontery"
+          ]
+        }
+      ],
+      "words": [
+        "audacious"
+      ],
+      "explanation": "The sentence forces one word that can be pure praise and one that is pure censure for an identical act. Audacious is the only member of this family that takes its charge from the speaker, so it can carry the admirers' approval; brazen arrives pre-loaded with disapproval and would sit badly with \"nothing but praise,\" while effrontery supplies the resentment the passed-over captains need. Timorous and diffidence reverse the sense entirely, and largesse denotes generosity, not nerve.",
+      "id": "gregmat02__b2__tc2__00",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "The decision to stake the entire code-breaking programme on a machine that had not yet been built was {1} rather than reckless: the risk was enormous, but every stage of it had been costed in advance.",
+      "blanks": [
+        {
+          "options": [
+            "audacious",
+            "foolhardy",
+            "brazen",
+            "impudent",
+            "diffident"
+          ],
+          "answers": [
+            "audacious"
+          ]
+        }
+      ],
+      "words": [
+        "audacious"
+      ],
+      "explanation": "\"Rather than reckless\" explicitly excludes foolhardy, which means daring without calculation, and the second clause insists the risk was calculated. Brazen and impudent require cheek directed at some person or authority, which no one here is defying; diffident is the opposite of any risk-taking. Audacious alone marks a limit boldly overstepped while leaving room for the sentence to approve.",
+      "id": "gregmat02__b2__cloze__01",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "The novel is careful to distinguish the brothers: the elder is merely {1}, buying land and pictures for the pleasure of possessing them, while the younger is {2}, converting every inheritance back into coin and counting it twice a week.",
+      "blanks": [
+        {
+          "options": [
+            "acquisitive",
+            "rapacious",
+            "munificent"
+          ],
+          "answers": [
+            "acquisitive"
+          ]
+        },
+        {
+          "options": [
+            "avaricious",
+            "mercenary",
+            "beneficent"
+          ],
+          "answers": [
+            "avaricious"
+          ]
+        }
+      ],
+      "words": [
+        "avaricious"
+      ],
+      "explanation": "\"Merely\" signals the milder appetite: acquisitive is simply the wish to accumulate possessions, which matches buying things for the pleasure of owning them, whereas rapacious implies seizing or plundering and is ruled out by \"buying.\" The younger brother's coin-counting is the classic miser, and avaricious narrows greed specifically to money and hoarding; mercenary would mean acting only for payment, which describes a hireling rather than a hoarder, and beneficent contradicts the portrait outright.",
+      "id": "gregmat02__b2__tc2__02",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "cloze",
+      "stem": "Gibbon gives us not an emperor who stripped the provinces in the field but one of an entirely {1} cast, who turned every honour and office into coin and lent it back at interest to the men he had already taxed.",
+      "blanks": [
+        {
+          "options": [
+            "avaricious",
+            "rapacious",
+            "munificent",
+            "prodigal",
+            "altruistic"
+          ],
+          "answers": [
+            "avaricious"
+          ]
+        }
+      ],
+      "words": [
+        "avaricious"
+      ],
+      "explanation": "The opening clause deliberately rejects the plundering emperor, which disqualifies rapacious, the word for greed that seizes; what remains is greed that accumulates and lends, money as the whole of a character. That hoarding, money-specific verdict is exactly avaricious, whereas prodigal (wasteful), munificent and altruistic all describe parting with wealth rather than amassing it.",
+      "id": "gregmat02__b2__cloze__03",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers split over the thriller's dialogue: some dismissed it as {1}, the very lines they had heard in a hundred earlier films, while others argued that its flatness was deliberate — an {2} gamble that viewers would end up watching their own expectations rather than the plot.",
+      "blanks": [
+        {
+          "options": [
+            "banal",
+            "iconoclastic",
+            "unprecedented"
+          ],
+          "answers": [
+            "banal"
+          ]
+        },
+        {
+          "options": [
+            "audacious",
+            "timorous",
+            "derivative"
+          ],
+          "answers": [
+            "audacious"
+          ]
+        }
+      ],
+      "words": [
+        "banal",
+        "audacious"
+      ],
+      "explanation": "The first blank needs a verdict of tired predictability, which banal supplies; iconoclastic and unprecedented both assert novelty and so contradict \"heard in a hundred earlier films.\" The second blank must praise the same flatness as a large deliberate risk, and audacious is the one word here that can admire a limit ignored; timorous denies the risk a gamble entails, and derivative would merely repeat the charge the defenders are answering.",
+      "id": "gregmat02__b2__tc2__04",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "The eulogy was assembled almost wholly out of {1} consolations — clouds with silver linings, better places, long rests — formulas repeated so often that the mourners registered nothing at all.",
+      "blanks": [
+        {
+          "options": [
+            "banal",
+            "hackneyed",
+            "derivative",
+            "sincere",
+            "iconoclastic",
+            "ingenious"
+          ],
+          "answers": [
+            "banal",
+            "hackneyed"
+          ]
+        }
+      ],
+      "words": [
+        "banal"
+      ],
+      "explanation": "The stem stresses formulas worn out by repetition, and banal and hackneyed both deliver that verdict of staleness, producing sentences of the same meaning. Derivative would accuse the speech of copying a particular source rather than of being everyone's common stock, and sincere fits the grammar while changing the point entirely, since a heartfelt phrase can still be worn; iconoclastic and ingenious assert the originality the sentence denies.",
+      "id": "gregmat02__b2__se__05",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "tc2",
+      "stem": "Where a {1} ruler builds hospitals and endows schools, a merely {2} one does nothing whatever — and is thanked, in quiet decades, for the harm he has not done.",
+      "blanks": [
+        {
+          "options": [
+            "beneficent",
+            "malign",
+            "mercenary"
+          ],
+          "answers": [
+            "beneficent"
+          ]
+        },
+        {
+          "options": [
+            "benign",
+            "magnanimous",
+            "pernicious"
+          ],
+          "answers": [
+            "benign"
+          ]
+        }
+      ],
+      "words": [
+        "benign"
+      ],
+      "explanation": "The sentence is built on the contrast between doing good and merely not doing harm: beneficent names active good works, which is what building and endowing describe, while benign is almost entirely negative in force and fits a ruler who does nothing at all. Magnanimous would still require generous action and so clashes with \"does nothing whatever\"; malign, mercenary and pernicious all import harm or self-interest the sentence rules out.",
+      "id": "gregmat02__b2__tc2__06",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    },
+    {
+      "type": "se",
+      "stem": "The clause looked {1} enough — an alteration of two words in a subordinate provision — yet it quietly transferred the power of appointment from the assembly to the minister.",
+      "blanks": [
+        {
+          "options": [
+            "benign",
+            "innocuous",
+            "insidious",
+            "pernicious",
+            "salutary",
+            "deliberate"
+          ],
+          "answers": [
+            "benign",
+            "innocuous"
+          ]
+        }
+      ],
+      "words": [
+        "benign"
+      ],
+      "explanation": "\"Yet\" demands that the clause first appear to threaten nothing, and benign and innocuous both mean precisely harmless in effect, yielding equivalent sentences. Insidious and pernicious are synonyms of each other but describe the hidden damage revealed after the \"yet,\" so they cannot fill the slot before it; salutary claims positive benefit rather than mere harmlessness, and deliberate fits the grammar while making a claim about intent instead of appearance.",
+      "id": "gregmat02__b2__se__07",
+      "unit": "gregmat02__b2",
+      "verified": true,
+      "gregmat_group": 2
+    }
+  ],
+  "rejects": []
+}

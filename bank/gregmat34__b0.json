@@ -1,0 +1,259 @@
+{
+  "unit": "gregmat34__b0",
+  "gregmat_group": 34,
+  "words": [
+    "abrasive",
+    "artful",
+    "avert",
+    "avid"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The fault was texture rather than intent: his {1} manner wore down collaborators year after year, yet he was never {2}, since he took no pleasure whatever in the sting his remarks left behind.",
+      "blanks": [
+        {
+          "options": [
+            "abrasive",
+            "cordial",
+            "urbane"
+          ],
+          "answers": [
+            "abrasive"
+          ]
+        },
+        {
+          "options": [
+            "caustic",
+            "tactless",
+            "gauche"
+          ],
+          "answers": [
+            "caustic"
+          ]
+        }
+      ],
+      "words": [
+        "abrasive"
+      ],
+      "explanation": "The first clause describes chronic friction that wears people down without malice, which is exactly abrasive; cordial and urbane would contradict \"wore down.\" The second blank is fixed by \"took no pleasure in the sting\": caustic burns and means to, so it is what he is being acquitted of, whereas tactless and gauche describe faults he plainly does have.",
+      "id": "gregmat34__b0__tc2__00",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "The chairman's {1} handling of the hostile question — he answered a slightly different one, and did it so smoothly that the questioner sat down satisfied — {2} the floor revolt that had seemed certain an hour earlier.",
+      "blanks": [
+        {
+          "options": [
+            "artful",
+            "boorish",
+            "perfunctory"
+          ],
+          "answers": [
+            "artful"
+          ]
+        },
+        {
+          "options": [
+            "averted",
+            "precipitated",
+            "fomented"
+          ],
+          "answers": [
+            "averted"
+          ]
+        }
+      ],
+      "words": [
+        "artful",
+        "avert"
+      ],
+      "explanation": "A dodge admired for how smoothly it was executed is artful; boorish or perfunctory handling would have provoked the revolt rather than defusing it, which is why the blanks lock together. Averted is right because the revolt was already bearing down and was turned aside at the last moment, while precipitated and fomented would mean he caused it.",
+      "id": "gregmat34__b0__tc2__01",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "The lobbyist, {1} for access above all else, made himself indispensable through a long series of {2} favors — errands run, introductions arranged, a car sent to the airport — no one of which ever quite looked like a bribe.",
+      "blanks": [
+        {
+          "options": [
+            "avid",
+            "abrasive",
+            "nonchalant"
+          ],
+          "answers": [
+            "avid"
+          ]
+        },
+        {
+          "options": [
+            "artful",
+            "ostentatious",
+            "perfunctory"
+          ],
+          "answers": [
+            "artful"
+          ]
+        }
+      ],
+      "words": [
+        "avid",
+        "artful"
+      ],
+      "explanation": "Followed by \"for,\" avid turns hungry — a standing craving for access, which nonchalant reverses and abrasive does not even address. The favors must be artful because their whole point is that the craft conceals the transaction; ostentatious favors would advertise it, and perfunctory ones would not have made him indispensable.",
+      "id": "gregmat34__b0__tc2__02",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Though the quarterly never sold more than four thousand copies, its {1} subscribers — many of them keeping complete runs bound in leather — gave it an influence out of all proportion to its circulation.",
+      "blanks": [
+        {
+          "options": [
+            "avid",
+            "keen",
+            "tepid",
+            "fastidious",
+            "itinerant",
+            "sporadic"
+          ],
+          "answers": [
+            "avid",
+            "keen"
+          ]
+        }
+      ],
+      "words": [
+        "avid"
+      ],
+      "explanation": "The bound runs establish sustained, appetitive devotion, and avid and keen both name that enthusiasm and yield equivalent sentences. Tepid and sporadic reverse the sense; fastidious describes discrimination rather than eagerness, and itinerant is simply irrelevant to readers of a journal.",
+      "id": "gregmat34__b0__se__03",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Her students remembered the {1} tone of her seminars — questions fired without preamble, an answer cut off midsentence, praise withheld on principle — though not one of them ever accused her of malice.",
+      "blanks": [
+        {
+          "options": [
+            "abrasive",
+            "brusque",
+            "caustic",
+            "urbane",
+            "punctilious",
+            "diffident"
+          ],
+          "answers": [
+            "abrasive",
+            "brusque"
+          ]
+        }
+      ],
+      "words": [
+        "abrasive"
+      ],
+      "explanation": "Abrasive and brusque both name a manner that grates through bluntness and missing social cushioning, which is what the catalogue of behaviors describes. Caustic is the trap: it implies bitterness aimed at wounding, which the final clause explicitly rules out; urbane and diffident invert the tone, and punctilious describes scrupulous correctness instead.",
+      "id": "gregmat34__b0__se__04",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "The window display was an {1} arrangement of dried grasses and driftwood, composed with great care to look like something the tide had happened to leave behind.",
+      "blanks": [
+        {
+          "options": [
+            "artful",
+            "crafty",
+            "devious",
+            "wily",
+            "ostentatious"
+          ],
+          "answers": [
+            "artful"
+          ]
+        }
+      ],
+      "words": [
+        "artful"
+      ],
+      "explanation": "This is the clean sense of artful: tastefully contrived, where the skill is admired and nothing is being put over on anyone. Crafty, devious, and wily all require a person deceiving someone for advantage, and ostentatious contradicts a display designed to look accidental.",
+      "id": "gregmat34__b0__cloze__05",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Only a last-minute infusion of central-bank credit {1} the collapse of the clearing houses, which by Thursday evening stood hours from failing.",
+      "blanks": [
+        {
+          "options": [
+            "averted",
+            "obviated",
+            "precluded",
+            "deterred",
+            "precipitated"
+          ],
+          "answers": [
+            "averted"
+          ]
+        }
+      ],
+      "words": [
+        "avert"
+      ],
+      "explanation": "Avert is the last-second deflection of a harm already in motion, which \"hours from failing\" makes the only fit. Obviate means to render unnecessary and preclude to make impossible in advance — both describe acting before the danger materialized — while deter applies to dissuading an agent and precipitate would mean the credit caused the collapse.",
+      "id": "gregmat34__b0__cloze__06",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Contemporaries mistook his ambition for something merely {1} — a burst of feeling that a single victory would exhaust — when in fact he was {2} for glory, and no campaign, however total, ever satisfied the appetite.",
+      "blanks": [
+        {
+          "options": [
+            "eager",
+            "insatiable",
+            "mercenary"
+          ],
+          "answers": [
+            "eager"
+          ]
+        },
+        {
+          "options": [
+            "avid",
+            "tepid",
+            "nonchalant"
+          ],
+          "answers": [
+            "avid"
+          ]
+        }
+      ],
+      "words": [
+        "avid"
+      ],
+      "explanation": "Eager is a burst of feeling attached to one occasion, which the dash defines outright; insatiable would collapse the contrast the sentence is built on. Avid names the standing, renewing appetite set against that, whereas tepid and nonchalant would make the closing clause about unsatisfied hunger incoherent.",
+      "id": "gregmat34__b0__tc2__07",
+      "unit": "gregmat34__b0",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": []
+}

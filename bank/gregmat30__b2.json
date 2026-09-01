@@ -1,0 +1,235 @@
+{
+  "unit": "gregmat30__b2",
+  "gregmat_group": 30,
+  "words": [
+    "factious",
+    "fallow",
+    "feint",
+    "flagrant"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The framers of the 1789 charter had hoped that a single provincial assembly would {1} the colony's rival commercial interests into one deliberative body; within two sessions the chamber had proved so {2} that every debate ended with a fresh bloc caucusing for its own county's advantage.",
+      "blanks": [
+        {
+          "options": [
+            "amalgamate",
+            "disperse",
+            "polarize"
+          ],
+          "answers": [
+            "amalgamate"
+          ]
+        },
+        {
+          "options": [
+            "factious",
+            "facetious",
+            "fractious"
+          ],
+          "answers": [
+            "factious"
+          ]
+        }
+      ],
+      "words": [
+        "factious"
+      ],
+      "explanation": "\"Into one deliberative body\" demands a verb of merging, so amalgamate; disperse and polarize both drive the interests apart. The second blank is fixed by the outcome described — sub-groups repeatedly forming and voting for their own advantage — which is precisely factious; fractious would mean the members were merely irritable and unruly, and facetious (flippant) is only a lookalike.",
+      "id": "gregmat30__b2__tc2__00",
+      "unit": "gregmat30__b2",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians who blame the old council's paralysis on its {1} character point to the three standing blocs into which it had settled, each of which reliably voted the interests of its own district against those of the realm.",
+      "blanks": [
+        {
+          "options": [
+            "factious",
+            "fractious",
+            "facetious",
+            "quiescent",
+            "dormant"
+          ],
+          "answers": [
+            "factious"
+          ]
+        }
+      ],
+      "words": [
+        "factious"
+      ],
+      "explanation": "The council is described as permanently divided into self-interested blocs judged from the standpoint of the whole realm, which is exactly what factious names. Fractious would describe unruly tempers rather than the formation of rival camps, facetious is a flippancy word, and quiescent and dormant would say the council was inactive rather than divided.",
+      "id": "gregmat30__b2__cloze__01",
+      "unit": "gregmat30__b2",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "For the decade after his first novel Ellison published nothing whatever, an interval his admirers have always preferred to call {1} rather than merely {2}: the drafts accumulating in his desk suggested a talent quietly restoring itself, not one used up.",
+      "blanks": [
+        {
+          "options": [
+            "fallow",
+            "fecund",
+            "rampant"
+          ],
+          "answers": [
+            "fallow"
+          ]
+        },
+        {
+          "options": [
+            "barren",
+            "dormant",
+            "latent"
+          ],
+          "answers": [
+            "barren"
+          ]
+        }
+      ],
+      "words": [
+        "fallow"
+      ],
+      "explanation": "Because he published nothing, the first blank cannot be fecund or rampant, both of which assert abundant output; fallow supplies the generous reading the sentence insists on, that the ground is still good. The second blank must be the harsh verdict being rejected — barren means nothing will grow at all — whereas dormant and latent are neutral words for suspended potential and would not contrast with fallow.",
+      "id": "gregmat30__b2__tc2__02",
+      "unit": "gregmat30__b2",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "The laboratory's official history treats the twelve years between its two celebrated discoveries as {1} rather than wasted: the funding was renewed, the senior staff were kept on, and the later work grew directly out of what was assembled without fanfare in that stretch.",
+      "blanks": [
+        {
+          "options": [
+            "fallow",
+            "dormant",
+            "barren",
+            "fecund",
+            "callow",
+            "futile"
+          ],
+          "answers": [
+            "fallow",
+            "dormant"
+          ]
+        }
+      ],
+      "words": [
+        "fallow"
+      ],
+      "explanation": "The sentence explicitly rejects \"wasted\" and shows continuity of resources and eventual yield, so the blank needs a word for idleness that preserves potential: fallow and dormant both do. Barren and futile assert that nothing could come of the period, fecund reverses the sense of an unproductive stretch, and callow describes immaturity rather than inactivity.",
+      "id": "gregmat30__b2__se__03",
+      "unit": "gregmat30__b2",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "The manoeuvre was neither {1} nor error but orthodox tactics: the column advanced down the coastal road precisely so that it would be observed, a {2} that pulled the defenders' reserves eastward while the real crossing was forced upriver at dawn.",
+      "blanks": [
+        {
+          "options": [
+            "chicanery",
+            "cowardice",
+            "candor"
+          ],
+          "answers": [
+            "chicanery"
+          ]
+        },
+        {
+          "options": [
+            "feint",
+            "evasion",
+            "capitulation"
+          ],
+          "answers": [
+            "feint"
+          ]
+        }
+      ],
+      "words": [
+        "feint"
+      ],
+      "explanation": "\"But orthodox tactics\" rules out underhanded dealing, so the first blank is chicanery, the word for trickery outside the rules; cowardice and candor have no quarrel with orthodoxy. The second blank must name a deception the enemy is meant to see and act on, which is a feint; an evasion avoids contact rather than inviting it, and a capitulation is a surrender.",
+      "id": "gregmat30__b2__tc2__04",
+      "unit": "gregmat30__b2",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Late in the third round the challenger let his left hand drop, a {1} the champion read exactly as he was intended to, lowering his guard into the right cross that ended the bout.",
+      "blanks": [
+        {
+          "options": [
+            "feint",
+            "chicanery",
+            "skullduggery",
+            "malfeasance",
+            "effrontery"
+          ],
+          "answers": [
+            "feint"
+          ]
+        }
+      ],
+      "words": [
+        "feint"
+      ],
+      "explanation": "The deception here is a physical movement made in order to be noticed and acted upon inside the rules of the sport, which is the definition of a feint. Chicanery and skullduggery imply illegitimate trickery, malfeasance is official wrongdoing, and effrontery is shameless nerve rather than a tactical move.",
+      "id": "gregmat30__b2__cloze__05",
+      "unit": "gregmat30__b2",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission's report distinguished sharply between the {1} violations, such as the kickbacks handed over in the ministry's own reception hall, and the {2} arrangements that surfaced only after eighteen months of forensic accounting.",
+      "blanks": [
+        {
+          "options": [
+            "flagrant",
+            "surreptitious",
+            "hypothetical"
+          ],
+          "answers": [
+            "flagrant"
+          ]
+        },
+        {
+          "options": [
+            "clandestine",
+            "overt",
+            "patent"
+          ],
+          "answers": [
+            "clandestine"
+          ]
+        }
+      ],
+      "words": [
+        "flagrant"
+      ],
+      "explanation": "Bribes exchanged in the ministry's own reception hall are wrongdoing conducted without the least attempt at concealment, which is what flagrant adds to a violation; surreptitious and hypothetical both contradict the example. The contrasting blank must describe misconduct hidden until forensic work exposed it, so clandestine is required and overt and patent, which mean open to view, reverse the contrast.",
+      "id": "gregmat30__b2__tc2__06",
+      "unit": "gregmat30__b2",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['flagrant', 'overt'] vs ['egregious', 'flagrant']",
+      "problem": "Three of the six options form two overlapping viable pairs, and \"flagrant\" belongs to both. The colon-clause evidence (\"carried it out under the eyes of auditors\") cues openness, favoring flagrant + overt. But the same clause — auditors had \"twice written to beg them to stop,\" and the whole sentence contrasts a deliberate wrong with an \"accidental oversight\" — equally supports the outrageousness sense, giving flagrant + egregious (a standard GRE synonym pair). A test-taker who reads the two written warnings as evidence of how bad, rather than how open, the conduct was will pick \"egregious\" and be marked wrong on a fully defensible reading. To fix, either drop \"egregious\" (leaving flagrant/overt cleanly cued by the concealment contrast) or drop \"overt\" and rewrite the evidence to stress severity rather than visibility.",
+      "stem": "Far from being the accidental oversight the bank's counsel described, the diversion of client deposits was a {1} abuse of trust: the directors carried it out under the eyes of auditors who had twice written to beg them to stop."
+    }
+  ]
+}

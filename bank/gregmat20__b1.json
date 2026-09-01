@@ -1,0 +1,206 @@
+{
+  "unit": "gregmat20__b1",
+  "gregmat_group": 20,
+  "words": [
+    "duplicitous",
+    "expedient",
+    "fabricate",
+    "glum"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Historians long dismissed the envoy as merely {1} — a negotiator who shaded the truth whenever a deal began to slip away — but the recovered correspondence reveals a far more systematic operation: assuring the crown of his devotion in one letter and promising the rebels arms in the next, he was thoroughly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "disingenuous",
+            "scrupulous",
+            "garrulous"
+          ],
+          "answers": [
+            "disingenuous"
+          ]
+        },
+        {
+          "options": [
+            "duplicitous",
+            "ingenuous",
+            "crestfallen"
+          ],
+          "answers": [
+            "duplicitous"
+          ]
+        }
+      ],
+      "words": [
+        "duplicitous"
+      ],
+      "explanation": "Blank 1 must name the mild, occasional insincerity the historians settled for, which is disingenuous; scrupulous contradicts \"shaded the truth\" and garrulous describes talkativeness, not dishonesty. Blank 2 needs the word for two performances staged for two audiences at once — crown in one letter, rebels in the next — which is precisely duplicitous. Ingenuous is its opposite (guileless), and crestfallen describes a mood, not a character.",
+      "id": "gregmat20__b1__tc2__00",
+      "unit": "gregmat20__b1",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "The relief plan was hardly improvised — the ministry had modelled it for two years — yet it was {1} in the older, sharper sense of the word: it cleared the governor's re-election hurdle at the cost of the very farmers it claimed to help, a {2} his biographers still struggle to excuse.",
+      "blanks": [
+        {
+          "options": [
+            "expedient",
+            "ad hoc",
+            "makeshift"
+          ],
+          "answers": [
+            "expedient"
+          ]
+        },
+        {
+          "options": [
+            "calculation",
+            "oversight",
+            "improvisation"
+          ],
+          "answers": [
+            "calculation"
+          ]
+        }
+      ],
+      "words": [
+        "expedient"
+      ],
+      "explanation": "\"Hardly improvised... modelled for two years\" explicitly rules out ad hoc and makeshift, which describe unpreparedness; expedient is the one word in the set that indicts motive rather than planning — it worked, and it worked for the man choosing it. Blank 2 must name a deliberate self-serving choice, so calculation fits, while oversight implies inadvertence and improvisation repeats the very thing the opening clause denies.",
+      "id": "gregmat20__b1__tc2__01",
+      "unit": "gregmat20__b1",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "tc2",
+      "stem": "The tribunal distinguished carefully between the witnesses who {1}, dodging under cross-examination with replies that were technically accurate and deliberately unhelpful, and the clerk who had plainly {2} his account, supplying invented dates, a receipt printed the week before the hearing, and a corroborating colleague who did not exist.",
+      "blanks": [
+        {
+          "options": [
+            "equivocated",
+            "absconded",
+            "recanted"
+          ],
+          "answers": [
+            "equivocated"
+          ]
+        },
+        {
+          "options": [
+            "fabricated",
+            "prevaricated",
+            "demurred"
+          ],
+          "answers": [
+            "fabricated"
+          ]
+        }
+      ],
+      "words": [
+        "fabricate"
+      ],
+      "explanation": "Blank 1 describes answers true on their face but evasive, which is equivocating; absconded (fled) and recanted (withdrew earlier testimony) name different acts entirely. Blank 2 requires more than evasion: the clerk built a falsehood out of manufactured parts, and to fabricate is to construct a lie detailed enough to survive inspection, whereas to prevaricate is only to dodge — exactly the distinction the tribunal is drawing — and to demur is merely to object.",
+      "id": "gregmat20__b1__tc2__02",
+      "unit": "gregmat20__b1",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "se",
+      "stem": "Spectral analysis of the ink established that the marginal notes attributed to Newton had been {1}, probably in the 1930s, when a single London dealer supplied several such discoveries to credulous collectors.",
+      "blanks": [
+        {
+          "options": [
+            "fabricated",
+            "forged",
+            "misdated",
+            "transcribed",
+            "annotated",
+            "restored"
+          ],
+          "answers": [
+            "fabricated",
+            "forged"
+          ]
+        }
+      ],
+      "words": [
+        "fabricate"
+      ],
+      "explanation": "A dealer manufacturing discoveries for buyers means the notes were built and passed off as genuine, and fabricated and forged are exact twins in this documentary sense, yielding sentences of equivalent meaning. Misdated would mean the notes are authentic but wrongly assigned, and transcribed, annotated, and restored all describe legitimate scholarly or conservation work rather than deception.",
+      "id": "gregmat20__b1__se__04",
+      "unit": "gregmat20__b1",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "His was not the occasional falsehood of the ordinary politician but a sustained {1} performance: to the abolitionists he pledged his vote, to the planters his silence, and for eleven years he kept the two audiences from ever meeting.",
+      "blanks": [
+        {
+          "options": [
+            "duplicitous",
+            "perfidious",
+            "disingenuous",
+            "ingenuous",
+            "querulous"
+          ],
+          "answers": [
+            "duplicitous"
+          ]
+        }
+      ],
+      "words": [
+        "duplicitous"
+      ],
+      "explanation": "The sentence is built around two simultaneous performances aimed at two audiences deliberately kept apart, which is the structural charge carried by duplicitous. Perfidious would stress a trust broken rather than the double game itself, and disingenuous names the lesser, one-off insincerity the opening clause explicitly rejects; ingenuous is the antonym and querulous means peevishly complaining.",
+      "id": "gregmat20__b1__cloze__05",
+      "unit": "gregmat20__b1",
+      "verified": true,
+      "gregmat_group": 20
+    },
+    {
+      "type": "cloze",
+      "stem": "The general conceded in his memoirs that burning the bridge had been {1} rather than necessary: it bought his column a single day's march and cost the villagers the only route by which they carried grain to market.",
+      "blanks": [
+        {
+          "options": [
+            "expedient",
+            "imperative",
+            "prudent",
+            "impetuous",
+            "pedestrian"
+          ],
+          "answers": [
+            "expedient"
+          ]
+        }
+      ],
+      "words": [
+        "expedient"
+      ],
+      "explanation": "The act served the general's immediate advantage while imposing an unjustified cost on others, and the confessional framing marks it as a lapse of principle rather than of planning — the stain expedient uniquely carries. Imperative would restore the necessity the sentence denies, prudent is praise no one would concede in a memoir, impetuous implies rashness rather than a coldly useful choice, and pedestrian means unimaginative.",
+      "id": "gregmat20__b1__cloze__06",
+      "unit": "gregmat20__b1",
+      "verified": true,
+      "gregmat_group": 20
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options belong to the same \"sad\" cluster: glum, crestfallen, and lugubrious. The sentence only requires \"dejected after a loss,\" and provides no cue that discriminates lugubrious (mournful, gloomy — merely with a connotation of exaggerated or habitual doleful manner) from glum. A reasonable test-taker could pair glum + lugubrious and produce a sentence of essentially the same meaning, so the intended glum + crestfallen pair is not uniquely defensible. Fix by replacing lugubrious with a word that is clearly wrong in context (e.g., a positive or unrelated term), or by adding a cue that specifically demands the \"brought low by defeat\" sense.",
+      "stem": "Losing the county final on a disputed penalty left the squad {1} for an evening, though the mood had lifted well before the coach called them in on Monday."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The only constraint the sentence supplies is degree: the mood must be mild/temporary enough to be dispelled instantly by a card game. That correctly eliminates \"despondent,\" \"inconsolable,\" and \"lugubrious\" (deep, prolonged, or theatrically funereal), but it does not distinguish \"glum\" from \"morose.\" Both mean gloomy/sullen in an everyday, reversible way, and \"the children spent the afternoon morose at the window\" is just as idiomatic and just as compatible with reviving at the offer of cards. Since \"morose\" is generally treated as denoting sullen ill-humor rather than an extreme grief, nothing in the sentence rules it out, so a reasonable test-taker choosing it would be marked wrong without justification. To make the item unique the sentence would need a cue that separates mild downheartedness from sullen ill-temper (e.g. adding that the children were sulking/silently resentful, or explicitly signalling only-mildly-dampened spirits).",
+      "stem": "Rain had cancelled the excursion, and the children spent the afternoon {1} at the window, reviving the instant someone proposed a game of cards."
+    }
+  ]
+}

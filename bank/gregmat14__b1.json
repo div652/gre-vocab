@@ -1,0 +1,236 @@
+{
+  "unit": "gregmat14__b1",
+  "gregmat_group": 14,
+  "words": [
+    "apologist",
+    "astringent",
+    "collaborate",
+    "competent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "He had never joined the party and privately professed contempt for its leaders, but his tireless recasting of its massacres as regrettable necessities persuaded his colleagues that he was less the {1} scholar he claimed to be than the regime's ablest {2}.",
+      "blanks": [
+        {
+          "options": [
+            "disinterested",
+            "ingenuous",
+            "nonplussed"
+          ],
+          "answers": [
+            "disinterested"
+          ]
+        },
+        {
+          "options": [
+            "apologist",
+            "acolyte",
+            "disciple"
+          ],
+          "answers": [
+            "apologist"
+          ]
+        }
+      ],
+      "words": [
+        "apologist"
+      ],
+      "explanation": "He claims to weigh evidence impartially, so blank 1 needs \"disinterested\" (unbiased), not \"ingenuous\" (naive) or \"nonplussed\" (bewildered). Blank 2 must name someone who argues in defence of the indefensible: \"acolyte\" and \"disciple\" both require personal devotion, which the sentence explicitly denies by noting he never joined and despised the leadership — only \"apologist\" describes the work of dressing atrocities up as reasonable.",
+      "id": "gregmat14__b1__tc2__00",
+      "unit": "gregmat14__b1",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "Her supporters insisted she was merely an advocate of aggressive policing; her critics, noting how readily she explained away each death in custody as a tragic misunderstanding, reached for a harsher label and called her an {1} for institutional violence.",
+      "blanks": [
+        {
+          "options": [
+            "apologist",
+            "acolyte",
+            "adversary",
+            "arbiter",
+            "apostate"
+          ],
+          "answers": [
+            "apologist"
+          ]
+        }
+      ],
+      "words": [
+        "apologist"
+      ],
+      "explanation": "The sentence sets up a deliberate escalation from the neutral \"advocate\" to something accusatory, and the behaviour described — explaining away deaths — is defence of the indefensible, which is exactly \"apologist.\" \"Acolyte\" would report devotion rather than argument, \"arbiter\" implies impartial judgment, and \"adversary\" and \"apostate\" reverse the direction of her loyalty entirely.",
+      "id": "gregmat14__b1__cloze__01",
+      "unit": "gregmat14__b1",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "se",
+      "stem": "Far from indulging his subjects, the critic writes in a manner best called {1}: he dries the sentiment out of every anecdote, so that readers finish an essay feeling scoured and tightened rather than flattered — and yet never wounded.",
+      "blanks": [
+        {
+          "options": [
+            "astringent",
+            "bracing",
+            "mordant",
+            "emollient",
+            "florid",
+            "ingratiating"
+          ],
+          "answers": [
+            "astringent",
+            "bracing"
+          ]
+        }
+      ],
+      "words": [
+        "astringent"
+      ],
+      "explanation": "\"Scoured and tightened\" but \"never wounded\" describes severity that is dry and tonic rather than hot, which is precisely the pair \"astringent\" and \"bracing.\" \"Mordant\" bites and \"emollient\" softens, so each changes the meaning; \"florid\" and \"ingratiating\" name the very indulgence the first clause rules out.",
+      "id": "gregmat14__b1__se__02",
+      "unit": "gregmat14__b1",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Readers who opened the collection hoping for consolation met instead a wit so {1} that no bereavement escaped a joke; and yet the poems consoled by their very severity, which was {2} — the tightening sting of an antiseptic, not the burn of acid.",
+      "blanks": [
+        {
+          "options": [
+            "mordant",
+            "maudlin",
+            "orotund"
+          ],
+          "answers": [
+            "mordant"
+          ]
+        },
+        {
+          "options": [
+            "astringent",
+            "corrosive",
+            "emollient"
+          ],
+          "answers": [
+            "astringent"
+          ]
+        }
+      ],
+      "words": [
+        "astringent"
+      ],
+      "explanation": "Jokes made at the expense of every bereavement are biting, so blank 1 takes \"mordant\"; \"maudlin\" (tearfully sentimental) is what the readers wanted and did not get, and \"orotund\" describes pomp of voice, not sharpness. Blank 2 is fixed by the closing image: \"corrosive\" is the burn the sentence denies and \"emollient\" the softening it denies, leaving \"astringent,\" the dry, medicinal sting that does the reader good.",
+      "id": "gregmat14__b1__tc2__03",
+      "unit": "gregmat14__b1",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the tribunal drew no distinction between clerks who had merely kept the trams running and the officials who had actively {1} in the deportations, it condemned men whose only offence had been a bureaucratic {2} the occupier happened to find useful.",
+      "blanks": [
+        {
+          "options": [
+            "collaborated",
+            "corroborated",
+            "elaborated"
+          ],
+          "answers": [
+            "collaborated"
+          ]
+        },
+        {
+          "options": [
+            "competence",
+            "complicity",
+            "intransigence"
+          ],
+          "answers": [
+            "competence"
+          ]
+        }
+      ],
+      "words": [
+        "collaborate",
+        "competent"
+      ],
+      "explanation": "Under occupation, working with the enemy is \"collaborated\"; \"corroborated\" (confirmed testimony) and \"elaborated\" (developed in detail) are the standard look-alike traps and make no sense of \"in the deportations.\" Blank 2 must name something innocent, since these men are contrasted with the deportation officials — \"complicity\" would collapse that contrast and \"intransigence\" would make them obstructive rather than useful, so only \"competence,\" mere adequacy at a job, fits.",
+      "id": "gregmat14__b1__tc2__04",
+      "unit": "gregmat14__b1",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "cloze",
+      "stem": "After the liberation the village barber was dragged into the square, not for any conspiracy against his neighbours nor for any secret dealing, but simply for having {1} with the occupying garrison — cutting their hair, taking their money, laughing at their jokes.",
+      "blanks": [
+        {
+          "options": [
+            "collaborated",
+            "corroborated",
+            "colluded",
+            "conspired",
+            "commiserated"
+          ],
+          "answers": [
+            "collaborated"
+          ]
+        }
+      ],
+      "words": [
+        "collaborate"
+      ],
+      "explanation": "The sentence rules out plotting and secrecy outright, so \"colluded\" and \"conspired\" are excluded by the very clause that precedes the blank; what remains is ordinary, open cooperation with an enemy occupier, which is the treasonous sense of \"collaborated.\" \"Corroborated\" needs testimony or evidence as its object, and \"commiserated\" would make him a sympathizer in grief rather than a servant of the garrison.",
+      "id": "gregmat14__b1__cloze__05",
+      "unit": "gregmat14__b1",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "The psychiatrist's report settled one question and left another open: the accused was {1} to stand trial, able to follow the evidence and instruct counsel, but whether he had been {2} at the moment of the killing — aware of what his hands were doing — the jury would have to decide.",
+      "blanks": [
+        {
+          "options": [
+            "competent",
+            "entitled",
+            "liable"
+          ],
+          "answers": [
+            "competent"
+          ]
+        },
+        {
+          "options": [
+            "lucid",
+            "remorseful",
+            "exculpated"
+          ],
+          "answers": [
+            "lucid"
+          ]
+        }
+      ],
+      "words": [
+        "competent"
+      ],
+      "explanation": "The appositive defines legal fitness — following evidence, instructing counsel — which is the courtroom sense of \"competent\"; \"entitled\" would assert a right rather than a capacity, and \"liable\" concerns responsibility for damage. Blank 2 is fixed by \"aware of what his hands were doing,\" a question of mental clarity, so \"lucid\" is required: \"remorseful\" concerns feeling after the act and \"exculpated\" is the verdict the jury has not yet reached.",
+      "id": "gregmat14__b1__tc2__07",
+      "unit": "gregmat14__b1",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options fit the \"technically flawless but unmemorable\" slot, so two distinct defensible pairs exist. The intended pair is presumably competent/passable (faint praise = \"damning in its mildness\"). But \"adept\" is a straightforward near-synonym of \"competent\" — an adept staging is precisely one where every cue hits and every note is in place — and {competent, adept} yields two sentences that are equivalent to each other. A test-taker who reads \"passable\" as too grudging for a production where nothing went wrong (passable implies barely acceptable, with visible flaws tolerated, whereas the evidence clause describes flawless execution) would reasonably choose competent + adept and be marked wrong. The sentence gives no cue about degree of skill — only about memorability — so it cannot discriminate between \"merely acceptable\" and \"skilled.\" To fix, drop either \"adept\" or \"passable\" (and add a distractor that clearly fails), or add a degree cue such as \"no better than ___\".",
+      "stem": "The verdict on the new production was damning in its mildness: the staging was {1} — every cue hit, every note in place — and no one left the theatre able to recall a single moment of it."
+    }
+  ]
+}

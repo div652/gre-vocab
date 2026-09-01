@@ -1,0 +1,249 @@
+{
+  "unit": "gregmat26__b3",
+  "gregmat_group": 26,
+  "words": [
+    "flustered",
+    "gullible",
+    "idiosyncratic",
+    "incidental"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Reporters had counted on the ambassador's being {1} by the abrupt question about his brother's government contracts; instead he fielded it with the sort of {2} that suggested he had rehearsed the moment for years.",
+      "blanks": [
+        {
+          "options": [
+            "flustered",
+            "gratified",
+            "vindicated"
+          ],
+          "answers": [
+            "flustered"
+          ]
+        },
+        {
+          "options": [
+            "aplomb",
+            "agitation",
+            "contrition"
+          ],
+          "answers": [
+            "aplomb"
+          ]
+        }
+      ],
+      "words": [
+        "flustered"
+      ],
+      "explanation": "\"Instead\" demands a reversal: the expected reaction must be a loss of composure and the actual one its opposite, so flustered pairs with aplomb. Agitation would restate rather than reverse the first blank, and gratified or vindicated set up no contrast with self-possession at all.",
+      "id": "gregmat26__b3__tc2__00",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "The editors, who for years had treated wire copy as gospel, now concede that the newsroom was {1}: it ran forged memos that even a cursory check of the dates would have exposed.",
+      "blanks": [
+        {
+          "options": [
+            "credulous",
+            "gullible",
+            "complacent",
+            "parochial",
+            "mercenary",
+            "truculent"
+          ],
+          "answers": [
+            "credulous",
+            "gullible"
+          ]
+        }
+      ],
+      "words": [
+        "gullible"
+      ],
+      "explanation": "The failure described is believing what it was handed without verifying, which is precisely credulous and gullible. Complacent is the most tempting wrong answer — it names self-satisfied inattention rather than belief — and parochial, mercenary, and truculent each fit the tone of institutional self-criticism while describing a different vice, none of them paired with another option.",
+      "id": "gregmat26__b3__se__01",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Because a hitch in a horse's gait is often {1} — a quirk of that one animal that implies nothing whatever about its breed or its training — veterinarians warn against treating any single case as {2}.",
+      "blanks": [
+        {
+          "options": [
+            "idiosyncratic",
+            "aberrant",
+            "outlandish"
+          ],
+          "answers": [
+            "idiosyncratic"
+          ]
+        },
+        {
+          "options": [
+            "paradigmatic",
+            "incidental",
+            "spurious"
+          ],
+          "answers": [
+            "paradigmatic"
+          ]
+        }
+      ],
+      "words": [
+        "idiosyncratic"
+      ],
+      "explanation": "The dash clause defines the first blank as belonging to one case and generalizing to nothing, which is idiosyncratic; aberrant and outlandish both assert deviation from a norm, a claim the sentence never makes. The warning that follows must therefore forbid reading one animal as the type, so paradigmatic is required — incidental or spurious would concern importance or falsity, not representativeness.",
+      "id": "gregmat26__b3__tc2__02",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "tc2",
+      "stem": "Defense counsel never disputed the witness's account of the quarrel; he argued that the quarrel was {1} to the charge, an episode that arose from the evening's events without bearing on whether the money had changed hands, and the judge, agreeing that it was hardly {2}, struck the testimony.",
+      "blanks": [
+        {
+          "options": [
+            "incidental",
+            "germane",
+            "fabricated"
+          ],
+          "answers": [
+            "incidental"
+          ]
+        },
+        {
+          "options": [
+            "pertinent",
+            "prejudicial",
+            "extraneous"
+          ],
+          "answers": [
+            "pertinent"
+          ]
+        }
+      ],
+      "words": [
+        "incidental"
+      ],
+      "explanation": "The appositive grants the quarrel full membership in the evening's events while denying it any bearing on the charge, which is exactly incidental rather than germane or fabricated. The judge's agreement must restate that denial, so \"hardly pertinent\" follows; \"hardly extraneous\" would reverse it, and prejudicial would be a reason to exclude the testimony as too damaging, not as beside the point.",
+      "id": "gregmat26__b3__tc2__03",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "Accustomed to hostile interrogation, the veteran organizer was undone not by the prosecutor's threats but by the jury foreman's unexpected word of thanks, which left her briefly {1}: she stopped mid-sentence, reddened, and started the answer over.",
+      "blanks": [
+        {
+          "options": [
+            "flustered",
+            "panicked",
+            "mortified",
+            "indignant",
+            "unflappable"
+          ],
+          "answers": [
+            "flustered"
+          ]
+        }
+      ],
+      "words": [
+        "flustered"
+      ],
+      "explanation": "The cause is pleasant and the symptoms are small and visible — a lost thread, a blush, a fresh start — which is the signature of being flustered. Panicked imports real danger and mortified imports shame, neither of which a word of thanks produces, while indignant and unflappable contradict the described behavior outright.",
+      "id": "gregmat26__b3__cloze__04",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "The letters reveal a man his relatives found exasperating: not naive about the world in general, and certainly no innocent in business, but flatly {1} where investment schemes were concerned — he was talked into a fourth one the year he died.",
+      "blanks": [
+        {
+          "options": [
+            "gullible",
+            "artless",
+            "callow",
+            "ingenuous",
+            "shrewd"
+          ],
+          "answers": [
+            "gullible"
+          ]
+        }
+      ],
+      "words": [
+        "gullible"
+      ],
+      "explanation": "The sentence insists on a standing, unexcused susceptibility to being taken in, which only gullible names; the repeated relapse rules out any appeal to inexperience, so callow fails. Artless and ingenuous describe a person's own guilelessness of manner rather than a habit of believing others, and shrewd reverses the sense.",
+      "id": "gregmat26__b3__cloze__05",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "se",
+      "stem": "Ozu's violations of screen direction, once taken by critics for simple incompetence, are now discussed as {1} — a grammar entirely his own, which no successor has adopted and no rulebook anticipates.",
+      "blanks": [
+        {
+          "options": [
+            "idiosyncratic",
+            "quirky",
+            "conventional",
+            "paradigmatic",
+            "derivative",
+            "arbitrary"
+          ],
+          "answers": [
+            "idiosyncratic",
+            "quirky"
+          ]
+        }
+      ],
+      "words": [
+        "idiosyncratic"
+      ],
+      "explanation": "A style that belongs to one director and founds no school is idiosyncratic, and quirky yields an equivalent sentence about a manner peculiar to him. Arbitrary is the closest wrong answer — it would revive the charge of carelessness the sentence has just set aside — while conventional, paradigmatic, and derivative each deny the very singularity the clause after the dash asserts.",
+      "id": "gregmat26__b3__se__06",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    },
+    {
+      "type": "cloze",
+      "stem": "None of these outlays was superfluous — the calibration lamps and the technicians' lodging were genuinely required by the launch — yet the budget swept them together under a single heading of {1} expenses, as if their smallness beside the cost of the mirror made them one thing.",
+      "blanks": [
+        {
+          "options": [
+            "incidental",
+            "extraneous",
+            "exorbitant",
+            "germane",
+            "punitive"
+          ],
+          "answers": [
+            "incidental"
+          ]
+        }
+      ],
+      "words": [
+        "incidental"
+      ],
+      "explanation": "The costs are real and attached to the main enterprise but minor beside it, which is exactly what incidental means and why the accounting term is \"incidentals.\" Extraneous is the nearest trap, but it would throw the items out of the project altogether, a reading the opening clause explicitly forbids; exorbitant contradicts their smallness, and germane and punitive answer questions the sentence is not asking.",
+      "id": "gregmat26__b3__cloze__07",
+      "unit": "gregmat26__b3",
+      "verified": true,
+      "gregmat_group": 26
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat10__b3",
+  "gregmat_group": 10,
+  "words": [
+    "hamper",
+    "indispensable",
+    "lament",
+    "myopic"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the expedition's radios never actually failed, the unremitting static so {1} communication that orders arrived garbled and hours late; the party kept moving toward the pass, but at a {2} pace.",
+      "blanks": [
+        {
+          "options": [
+            "hampered",
+            "precluded",
+            "expedited"
+          ],
+          "answers": [
+            "hampered"
+          ]
+        },
+        {
+          "options": [
+            "halting",
+            "brisk",
+            "uniform"
+          ],
+          "answers": [
+            "halting"
+          ]
+        }
+      ],
+      "words": [
+        "hamper"
+      ],
+      "explanation": "Because the radios still worked and orders still arrived, communication was weighed down rather than stopped, which is exactly what hampered means; precluded would make the messages impossible, contradicting \"arrived garbled.\" The second blank must register that same reduced capacity, so halting is required — the concessive \"but\" rules out brisk, and uniform describes regularity rather than difficulty.",
+      "id": "gregmat10__b3__tc2__00",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "The dig was not halted by the November rains so much as {1} by them: the crew went on trenching every day, but through mud that cut their daily yield by half.",
+      "blanks": [
+        {
+          "options": [
+            "hampered",
+            "thwarted",
+            "precluded",
+            "expedited",
+            "checked"
+          ],
+          "answers": [
+            "hampered"
+          ]
+        }
+      ],
+      "words": [
+        "hamper"
+      ],
+      "explanation": "The construction \"not halted ... so much as\" demands a word for drag rather than stoppage, and hampered is precisely the encumbrance that leaves the actor working at reduced strength. Thwarted, precluded, and checked all assert that the work was stopped or defeated, which the sentence explicitly denies, and expedited reverses the sense.",
+      "id": "gregmat10__b3__cloze__01",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Kepler could never have derived his laws without Tycho Brahe's decades of naked-eye measurements; to the very theory that overthrew Brahe's own cosmology, his observations proved {1}.",
+      "blanks": [
+        {
+          "options": [
+            "indispensable",
+            "essential",
+            "superfluous",
+            "extraneous",
+            "intrinsic",
+            "exigent"
+          ],
+          "answers": [
+            "indispensable",
+            "essential"
+          ]
+        }
+      ],
+      "words": [
+        "indispensable"
+      ],
+      "explanation": "\"Could never have derived ... without\" is the subtraction test itself: remove the data and the achievement collapses, so indispensable and essential both fit and mean the same thing here. Superfluous and extraneous assert the opposite, intrinsic would require some thing for the data to be inherent in, and exigent describes pressing urgency rather than necessity of a component.",
+      "id": "gregmat10__b3__se__02",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "The board wrote off the corporate archive as a mere cost center, a judgment that proved {1}: within five years the papers it had ordered destroyed would have been {2} to defending the firm's patents in court.",
+      "blanks": [
+        {
+          "options": [
+            "myopic",
+            "prescient",
+            "prudent"
+          ],
+          "answers": [
+            "myopic"
+          ]
+        },
+        {
+          "options": [
+            "indispensable",
+            "superfluous",
+            "gratuitous"
+          ],
+          "answers": [
+            "indispensable"
+          ]
+        }
+      ],
+      "words": [
+        "myopic",
+        "indispensable"
+      ],
+      "explanation": "The colon makes the second clause the evidence for the first: destroying records that the firm could not have litigated without shows a decision sound this quarter and ruinous within five years, which is myopia — narrow vision in time, not stupidity. Prescient and prudent would require the judgment to have been vindicated, and superfluous or gratuitous would make the loss costless, leaving the colon with nothing to explain.",
+      "id": "gregmat10__b3__tc2__03",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "Cosmopolitan by any ordinary measure — multilingual staff, embassies on four continents, a standing interest in foreign practice — the ministry was nonetheless {1}, drafting budgets that resolved the present quarter's crisis and guaranteed the next decade's.",
+      "blanks": [
+        {
+          "options": [
+            "myopic",
+            "parochial",
+            "insular",
+            "provincial",
+            "chauvinistic"
+          ],
+          "answers": [
+            "myopic"
+          ]
+        }
+      ],
+      "words": [
+        "myopic"
+      ],
+      "explanation": "The opening clause concedes broad geographic and cultural horizons, so every distractor that faults a narrow sense of territory — parochial, insular, provincial, chauvinistic — is ruled out by the sentence's own evidence. What remains is narrowness along the axis of time, and myopic is the word whose horizon stops at the immediate.",
+      "id": "gregmat10__b3__cloze__04",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "se",
+      "stem": "Editorials of the 1890s {1} the decline of civic oratory in tones normally reserved for a bereavement, as though a change in public manners were a death in the family.",
+      "blanks": [
+        {
+          "options": [
+            "lament",
+            "bemoan",
+            "extol",
+            "chronicle",
+            "ridicule",
+            "precipitate"
+          ],
+          "answers": [
+            "lament",
+            "bemoan"
+          ]
+        }
+      ],
+      "words": [
+        "lament"
+      ],
+      "explanation": "The funeral comparison calls for grief given public, dignified voice over an abstraction — a decline — and lament and bemoan are interchangeable in exactly that use. Extol and ridicule set the wrong attitude, chronicle records without mourning, and precipitate would make the editorials the cause of the decline rather than its mourners.",
+      "id": "gregmat10__b3__se__05",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics of the networks routinely {1} the disappearance of the long-form radio documentary, but nostalgia should not be allowed to {2} clear thinking about why the form died: it was slow, ruinously expensive, and built for an audience that no longer exists.",
+      "blanks": [
+        {
+          "options": [
+            "lament",
+            "extol",
+            "chronicle"
+          ],
+          "answers": [
+            "lament"
+          ]
+        },
+        {
+          "options": [
+            "hamper",
+            "sharpen",
+            "expedite"
+          ],
+          "answers": [
+            "hamper"
+          ]
+        }
+      ],
+      "words": [
+        "lament",
+        "hamper"
+      ],
+      "explanation": "The critics treat the form's loss as an occasion for public regret, which is lament; extol praises the form rather than mourning its passing, and chronicle would merely record it, leaving the \"but\" of the next clause unearned. In the second blank, nostalgia is a weight on analysis that still proceeds, so hamper fits, while sharpen and expedite would make sentiment an aid rather than a drag.",
+      "id": "gregmat10__b3__tc2__06",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    },
+    {
+      "type": "cloze",
+      "stem": "For two decades no one else at the foundry could read the German maintenance manuals, a fact that made Hoffmann quietly {1}: when he finally retired, the main furnace stood cold for a month.",
+      "blanks": [
+        {
+          "options": [
+            "indispensable",
+            "imperative",
+            "intrinsic",
+            "exigent",
+            "superfluous"
+          ],
+          "answers": [
+            "indispensable"
+          ]
+        }
+      ],
+      "words": [
+        "indispensable"
+      ],
+      "explanation": "The furnace going cold the moment he left is the subtraction test applied to a person, which is what indispensable measures. Imperative and exigent describe an order or a pressing deadline rather than a person one cannot do without, intrinsic would make him an inherent property of the foundry, and superfluous says the opposite of what the closing clause demonstrates.",
+      "id": "gregmat10__b3__cloze__07",
+      "unit": "gregmat10__b3",
+      "verified": true,
+      "gregmat_group": 10
+    }
+  ],
+  "rejects": []
+}

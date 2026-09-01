@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat36__b3",
+  "gregmat_group": 36,
+  "words": [
+    "fitful",
+    "incite",
+    "induce",
+    "infelicity"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Because the compound {1} sleep rather than merely permitting it, the rest it produces is notoriously {2}: patients surface a dozen times before dawn and wake convinced they have not slept at all.",
+      "blanks": [
+        {
+          "options": [
+            "induces",
+            "forestalls",
+            "precludes"
+          ],
+          "answers": [
+            "induces"
+          ]
+        },
+        {
+          "options": [
+            "fitful",
+            "incessant",
+            "perennial"
+          ],
+          "answers": [
+            "fitful"
+          ]
+        }
+      ],
+      "words": [
+        "induce",
+        "fitful"
+      ],
+      "explanation": "A drug that manufactures a state the body would not have reached on its own induces it; forestalls and precludes would mean it prevents sleep, which contradicts \"the rest it produces.\" The second blank is fixed by the surfacing and the waking unrefreshed — sleep that starts and stops and never takes hold is fitful, whereas incessant and perennial would describe sleep that never lets up, the opposite of what the colon explains.",
+      "id": "gregmat36__b3__tc2__00",
+      "unit": "gregmat36__b3",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "The hospital's generator ran only {1} through the night — twenty minutes of light, then a long stretch of dark, then light again — so that the surgeon finished the amputation by torchlight.",
+      "blanks": [
+        {
+          "options": [
+            "fitfully",
+            "intermittently",
+            "incessantly",
+            "perennially",
+            "methodically",
+            "imperceptibly"
+          ],
+          "answers": [
+            "fitfully",
+            "intermittently"
+          ]
+        }
+      ],
+      "words": [
+        "fitful"
+      ],
+      "explanation": "The dashed clause spells out a stop-start pattern, which both fitfully and intermittently name, and here they yield sentences of the same meaning. Incessantly and perennially assert the opposite — power that never fails — while methodically would make the alternation regular and deliberate and imperceptibly would make it unnoticeable, neither of which squares with a surgeon driven to torchlight.",
+      "id": "gregmat36__b3__se__01",
+      "unit": "gregmat36__b3",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Postwar recovery in the region was {1}: two bumper harvests and then a currency collapse, a construction boom dead inside a year, a surge in exports that no ministry could sustain past the following spring.",
+      "blanks": [
+        {
+          "options": [
+            "fitful",
+            "desultory",
+            "incessant",
+            "inexorable",
+            "perennial"
+          ],
+          "answers": [
+            "fitful"
+          ]
+        }
+      ],
+      "words": [
+        "fitful"
+      ],
+      "explanation": "The colon lists bursts of real vigour that repeatedly flare and die without taking hold — exactly what fitful means. Desultory is the nearest trap but implies aimless, half-hearted effort, and bumper harvests and booms are not half-hearted; incessant, inexorable and perennial all describe something that keeps going, which the list flatly denies.",
+      "id": "gregmat36__b3__cloze__02",
+      "unit": "gregmat36__b3",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "No one accused the mill owners of having {1} the strike — there had been no speeches at the gates, no agitators in the yard — only of having {2} a handful of foremen, with promises of promotion, to name the men who had organized it.",
+      "blanks": [
+        {
+          "options": [
+            "incited",
+            "forestalled",
+            "quashed"
+          ],
+          "answers": [
+            "incited"
+          ]
+        },
+        {
+          "options": [
+            "induced",
+            "goaded",
+            "deterred"
+          ],
+          "answers": [
+            "induced"
+          ]
+        }
+      ],
+      "words": [
+        "incite",
+        "induce"
+      ],
+      "explanation": "The evidence offered — no speeches, no agitators — is evidence about stirring a crowd to act, so the charge being denied is incitement; forestalled and quashed would mean the owners stopped the strike, which no such evidence would address. The second blank takes a person plus an infinitive and an inducement (promotion) doing the work, which is induce; goaded would require needling a man's temper rather than dangling a reward, and deterred reverses the sense and cannot govern \"to name.\"",
+      "id": "gregmat36__b3__tc2__03",
+      "unit": "gregmat36__b3",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Crown prosecutors insisted that the pamphlet, with its lurid engravings of the massacre and its printed list of magistrates' addresses, had done more than record the unrest in the port: it had {1} it.",
+      "blanks": [
+        {
+          "options": [
+            "incited",
+            "fomented",
+            "forestalled",
+            "quashed",
+            "catalogued",
+            "deplored"
+          ],
+          "answers": [
+            "incited",
+            "fomented"
+          ]
+        }
+      ],
+      "words": [
+        "incite"
+      ],
+      "explanation": "\"Done more than record\" demands a verb of stirring up, and incited and fomented both make the pamphlet the cause of the unrest rather than its chronicle. Catalogued and deplored are grammatically and tonally at home but leave the pamphlet a mere observer, which the sentence explicitly rules out; forestalled and quashed make it a brake on the very violence the prosecution blames it for.",
+      "id": "gregmat36__b3__se__04",
+      "unit": "gregmat36__b3",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Prosecutors alleged no long campaign of agitation; their entire case rested on the twenty minutes the defendant spent at the microphone before the crowd turned toward the customs house, and the indictment accordingly charged him with {1} a riot.",
+      "blanks": [
+        {
+          "options": [
+            "inciting",
+            "fomenting",
+            "goading",
+            "chronicling",
+            "deterring"
+          ],
+          "answers": [
+            "inciting"
+          ]
+        }
+      ],
+      "words": [
+        "incite"
+      ],
+      "explanation": "One speech, a crowd, and an immediate unlawful deed is the shape of incitement, and it is the charge the law actually names. Fomenting is the near-miss — it implies stirring kept up over weeks, which the clause \"no long campaign of agitation\" rules out — while goading works on a single person's temper, chronicling makes him a recorder, and deterring reverses the accusation.",
+      "id": "gregmat36__b3__cloze__05",
+      "unit": "gregmat36__b3",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the objection was to phrasing rather than to fact, the editor spoke of {1} rather than of errors — a courtesy that {2} the author to accept cuts he would otherwise have fought line by line.",
+      "blanks": [
+        {
+          "options": [
+            "infelicities",
+            "gaffes",
+            "gaucheries"
+          ],
+          "answers": [
+            "infelicities"
+          ]
+        },
+        {
+          "options": [
+            "induced",
+            "incited",
+            "obviated"
+          ],
+          "answers": [
+            "induced"
+          ]
+        }
+      ],
+      "words": [
+        "infelicity",
+        "induce"
+      ],
+      "explanation": "Infelicity is the courteous term for wording that lands badly, which is precisely why an editor reaches for it \"rather than errors\"; gaffes and gaucheries both carry embarrassment and belong to blunders committed by a person, not to phrases on a page, so neither could function as the concession the sentence describes. The second blank needs a verb that leads a willing man into doing something by offering him something — the courtesy is the inducement — whereas incited demands a crowd and a violent act, and obviated cannot take a person plus an infinitive at all.",
+      "id": "gregmat36__b3__tc2__06",
+      "unit": "gregmat36__b3",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": [
+    {
+      "why": "structure: needs 1 blank",
+      "problem": null,
+      "stem": "The committee's report is factually unimpeachable; what makes it hard going is a steady drizzle of {1} — \"utilize\" for \"use,\" a metaphor about harvests three sentences after one about voyages — that no proofreader thought to smooth away."
+    }
+  ]
+}

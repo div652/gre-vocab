@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat30__b5",
+  "gregmat_group": 30,
+  "words": [
+    "plucky",
+    "precocious",
+    "remuneration",
+    "slovenly"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "No one denied that the flotilla was {1} — in twenty years it had lost no engagement in those waters, and its reputation alone was enough to make enemy captains alter course — yet it was the requisitioned trawlers the newspapers loved, praising the {2} skippers who ran into shellfire in boats built for herring.",
+      "blanks": [
+        {
+          "options": [
+            "redoubtable",
+            "mettlesome",
+            "skittish"
+          ],
+          "answers": [
+            "redoubtable"
+          ]
+        },
+        {
+          "options": [
+            "plucky",
+            "timorous",
+            "craven"
+          ],
+          "answers": [
+            "plucky"
+          ]
+        }
+      ],
+      "words": [
+        "plucky"
+      ],
+      "explanation": "The flotilla is described by its record and the fear it inspires, which is exactly what redoubtable means — formidable, to be reckoned with; mettlesome would praise its eagerness, not its standing, and nothing in the clause is about spirit. The trawler skippers are small, outgunned and admired from above, the one situation plucky requires, while timorous and craven reverse the sense of running into shellfire.",
+      "id": "gregmat30__b5__tc2__00",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Nobody expected the town's amateur eleven to survive the opening round, and that they took the eventual champions to extra time earned the {1} side a standing ovation at home and a sympathetic paragraph in the national press.",
+      "blanks": [
+        {
+          "options": [
+            "plucky",
+            "mettlesome",
+            "craven",
+            "timorous",
+            "diffident",
+            "feckless"
+          ],
+          "answers": [
+            "plucky",
+            "mettlesome"
+          ]
+        }
+      ],
+      "words": [
+        "plucky"
+      ],
+      "explanation": "An outmatched amateur team that fights hard and still goes out is the textbook case for plucky, and mettlesome — spirited, full of fight — yields a sentence of the same force. Craven, timorous and diffident all deny the courage the extra time demonstrates, and feckless faults the side for uselessness rather than praising it, so none of the four can pair with anything.",
+      "id": "gregmat30__b5__se__01",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Set to Greek at three and to political economy at thirteen, Mill was {1} to a degree his father's friends found less charming than alarming, and the memoirs he wrote at fifty counted the cost of it.",
+      "blanks": [
+        {
+          "options": [
+            "precocious",
+            "precipitate",
+            "plucky",
+            "punctilious",
+            "desultory"
+          ],
+          "answers": [
+            "precocious"
+          ]
+        }
+      ],
+      "words": [
+        "precocious"
+      ],
+      "explanation": "The sentence measures attainment against age — Greek at three, economy at thirteen — which is precisely what precocious registers, together with the faint unease the clause about alarm supplies. Precipitate would fault the pace of an action as rash rather than describe a child's early maturity, and punctilious and desultory concern care and method, not age.",
+      "id": "gregmat30__b5__cloze__02",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "Signed at fourteen after a run of wins over grandmasters twice her age, the {1} champion was promised {2} — appearance fees, a salary, a share of prize money — that dwarfed what the federation gave its senior coaches, a package that unsettled officials less for its size than for the age of its recipient.",
+      "blanks": [
+        {
+          "options": [
+            "precocious",
+            "seasoned",
+            "dilatory"
+          ],
+          "answers": [
+            "precocious"
+          ]
+        },
+        {
+          "options": [
+            "remuneration",
+            "restitution",
+            "gratuity"
+          ],
+          "answers": [
+            "remuneration"
+          ]
+        }
+      ],
+      "words": [
+        "precocious",
+        "remuneration"
+      ],
+      "explanation": "A fourteen-year-old beating players twice her age is precocious by definition; seasoned contradicts the stated youth, which the closing clause underlines. The itemised list of fees, salary and prize share is a whole contracted pay package, the specific sense of remuneration, whereas restitution repays a loss and a gratuity is a voluntary tip, neither of which a federation negotiates in advance.",
+      "id": "gregmat30__b5__tc2__03",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "The committee's report dwelt less on what the chief executive had achieved in his six years than on the {1} he had drawn for it: a base salary, options exercisable on departure, and a pension the auditors declined to price.",
+      "blanks": [
+        {
+          "options": [
+            "remuneration",
+            "emolument",
+            "gratuity",
+            "restitution",
+            "subsidy",
+            "largesse"
+          ],
+          "answers": [
+            "remuneration",
+            "emolument"
+          ]
+        }
+      ],
+      "words": [
+        "remuneration"
+      ],
+      "explanation": "Salary, options and pension together are the formal whole of what an office pays its holder, which is what both remuneration and emolument name in exactly this boardroom register. A gratuity is discretionary and given after the fact, restitution restores something lost, and a subsidy or largesse is a grant or gift rather than a return owed for services.",
+      "id": "gregmat30__b5__se__04",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "After a decade of teaching Latin in a school that paid her a pittance, she moved into patent translation, a far more {1} use of the same skills — though she admitted, years later, that she missed the classroom every September.",
+      "blanks": [
+        {
+          "options": [
+            "remunerative",
+            "meritorious",
+            "punctilious",
+            "desultory",
+            "ostentatious"
+          ],
+          "answers": [
+            "remunerative"
+          ]
+        }
+      ],
+      "words": [
+        "remuneration"
+      ],
+      "explanation": "The pittance sets money as the axis of comparison, and the concession that she missed teaching confirms that what she gained was pay rather than worth, so remunerative — paying well — is required. Meritorious would claim the new work was more deserving, which the wistful final clause pointedly denies.",
+      "id": "gregmat30__b5__cloze__05",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "The herbal is a study in contradiction: the plates are {1}, every stamen counted and set in its place, while the Latin running beneath them is so {2} that whole clauses collapse into blots and half-formed abbreviations.",
+      "blanks": [
+        {
+          "options": [
+            "punctilious",
+            "cursory",
+            "haphazard"
+          ],
+          "answers": [
+            "punctilious"
+          ]
+        },
+        {
+          "options": [
+            "slovenly",
+            "scrupulous",
+            "fastidious"
+          ],
+          "answers": [
+            "slovenly"
+          ]
+        }
+      ],
+      "words": [
+        "slovenly"
+      ],
+      "explanation": "Counting and placing every stamen is exact attention to small detail, which punctilious names and which cursory and haphazard both contradict. The contradiction the sentence announces then demands a term of careless, disdained sloppiness for the prose — slovenly reaches beyond dress to slapdash writing — whereas scrupulous and fastidious would praise the Latin and destroy the contrast.",
+      "id": "gregmat30__b5__tc2__06",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Reviewers granted that the argument was sound, but its {1} presentation — misnumbered tables, footnotes broken off mid-citation, a bibliography kept in three incompatible styles — cost the study the committee's confidence.",
+      "blanks": [
+        {
+          "options": [
+            "slovenly",
+            "slipshod",
+            "punctilious",
+            "scrupulous",
+            "cursory",
+            "desultory"
+          ],
+          "answers": [
+            "slovenly",
+            "slipshod"
+          ]
+        }
+      ],
+      "words": [
+        "slovenly"
+      ],
+      "explanation": "The listed faults are all evidence of habitual carelessness in execution, and slovenly and slipshod are the two options that deliver that verdict with the same disdain. Punctilious and scrupulous praise care the study plainly lacks; cursory would fault the work for being superficial or hasty and desultory for being aimless, neither of which describes finished-but-botched tables and footnotes.",
+      "id": "gregmat30__b5__se__07",
+      "unit": "gregmat30__b5",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,134 @@
+{
+  "unit": "gregmat33__b7",
+  "gregmat_group": 33,
+  "words": [
+    "unravel",
+    "withstand"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The end of the ceasefire came not all at once but by accretion — a border incident discrediting the monitors, their silence in turn emboldening the militias — until an accord that had {1} a decade of provocations at last began to {2}.",
+      "blanks": [
+        {
+          "options": [
+            "withstood",
+            "vanquished",
+            "circumvented"
+          ],
+          "answers": [
+            "withstood"
+          ]
+        },
+        {
+          "options": [
+            "unravel",
+            "rupture",
+            "calcify"
+          ],
+          "answers": [
+            "unravel"
+          ]
+        }
+      ],
+      "words": [
+        "withstand",
+        "unravel"
+      ],
+      "explanation": "Withstood is the only verb that takes the provocations as a force pressing on the accord and reports that the force failed; vanquished would mean the accord defeated an enemy outright, and circumvented (evaded) is contradicted by an agreement that stood through ten years of them. For the second blank, the sentence insists the end came \"not all at once but by accretion,\" which is exactly unravel's slow, self-accelerating disintegration; rupture names the sudden break the sentence explicitly denies, and calcify (harden) describes no collapse at all.",
+      "id": "gregmat33__b7__tc2__00",
+      "unit": "gregmat33__b7",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "se",
+      "stem": "Whatever else the memoirs disclose, they show a man able to {1} the temptation to settle scores with the journalists who had hounded him from office: not one of them is so much as named.",
+      "blanks": [
+        {
+          "options": [
+            "withstand",
+            "resist",
+            "indulge",
+            "rationalize",
+            "court",
+            "dramatize"
+          ],
+          "answers": [
+            "withstand",
+            "resist"
+          ]
+        }
+      ],
+      "words": [
+        "withstand"
+      ],
+      "explanation": "The evidence given — no journalist is even named — shows a pressure that pushed and failed, which is precisely withstand and resist; both treat the temptation as an external force held off. Indulge and rationalize fit the grammar and the memoirist's register but reverse the outcome, and court (to seek out) and dramatize describe attitudes toward the temptation rather than a refusal of it.",
+      "id": "gregmat33__b7__se__01",
+      "unit": "gregmat33__b7",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "cloze",
+      "stem": "Her hypothesis was audacious, but she had framed it narrowly enough to {1} the statistical scrutiny that destroyed its more ambitious rivals.",
+      "blanks": [
+        {
+          "options": [
+            "withstand",
+            "unravel",
+            "vanquish",
+            "invite",
+            "corroborate"
+          ],
+          "answers": [
+            "withstand"
+          ]
+        }
+      ],
+      "words": [
+        "withstand"
+      ],
+      "explanation": "Scrutiny is the force applied, and the hypothesis's narrow framing means that force failed against it — the outward-facing, event-shaped sense that belongs to withstand. Invite is the trap: it fits tonally but says she attracted the scrutiny rather than survived it, while vanquish absurdly makes a hypothesis conquer an adversary, and corroborate reverses who confirms whom.",
+      "id": "gregmat33__b7__cloze__02",
+      "unit": "gregmat33__b7",
+      "verified": true,
+      "gregmat_group": 33
+    },
+    {
+      "type": "tc2",
+      "stem": "The cryptanalysts at Bletchley did not {1} Enigma by any stroke of inspiration; their decisive advantage was procedural, since German operators' habitual pleasantries and stock phrasings lent the daily settings a {2} that patient statistical drudgery could exploit.",
+      "blanks": [
+        {
+          "options": [
+            "unravel",
+            "withstand",
+            "ratify"
+          ],
+          "answers": [
+            "unravel"
+          ]
+        },
+        {
+          "options": [
+            "regularity",
+            "opacity",
+            "resilience"
+          ],
+          "answers": [
+            "regularity"
+          ]
+        }
+      ],
+      "words": [
+        "unravel"
+      ],
+      "explanation": "The second blank is fixed by \"habitual\" and \"stock,\" and by the fact that something exploitable must be a pattern: regularity, not opacity (which would defeat the analysts) or resilience (which is not what statistics exploits). That pattern is what makes the first blank unravel — the transitive, thread-by-thread untangling of a tangle that was always solvable; withstand would put the cryptanalysts on the receiving end of Enigma's force, and ratify belongs to treaties, not codes.",
+      "id": "gregmat33__b7__tc2__03",
+      "unit": "gregmat33__b7",
+      "verified": true,
+      "gregmat_group": 33
+    }
+  ],
+  "rejects": []
+}

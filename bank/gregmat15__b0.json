@@ -1,0 +1,180 @@
+{
+  "unit": "gregmat15__b0",
+  "gregmat_group": 15,
+  "words": [
+    "alienate",
+    "apathy",
+    "apropos",
+    "apt"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Rather than {1} his critics in the manner of his predecessor, who openly relished a quarrel, the governor {2} them by degrees — a decade of unreturned calls and small slights — until the party's old guard simply stopped appearing at his rallies.",
+      "blanks": [
+        {
+          "options": [
+            "antagonizing",
+            "quarantining",
+            "subsuming"
+          ],
+          "answers": [
+            "antagonizing"
+          ]
+        },
+        {
+          "options": [
+            "alienated",
+            "banished",
+            "relegated"
+          ],
+          "answers": [
+            "alienated"
+          ]
+        }
+      ],
+      "words": [
+        "alienate"
+      ],
+      "explanation": "The first blank names the deliberate provocation the governor avoided, which only antagonizing supplies; quarantining and subsuming describe isolation and absorption, not picking fights. The second blank must be cumulative, unintended, and measured in withdrawal — the old guard stops showing up rather than fighting back — which is exactly alienated; banished and relegated are decisive acts of expulsion or demotion performed at a stroke, not over a decade of slights.",
+      "id": "gregmat15__b0__tc2__00",
+      "unit": "gregmat15__b0",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "Far from provoking outrage, the party's new economic program {1} a generation of younger supporters, who mounted no protest whatever and simply stopped turning out to vote.",
+      "blanks": [
+        {
+          "options": [
+            "alienated",
+            "estranged",
+            "antagonized",
+            "subsumed",
+            "relegated",
+            "banished"
+          ],
+          "answers": [
+            "alienated",
+            "estranged"
+          ]
+        }
+      ],
+      "words": [
+        "alienate"
+      ],
+      "explanation": "The supporters drift away without hostility, so the verb must denote lost sympathy and distance: alienated and estranged both yield that sense. Antagonized is excluded outright by \"Far from provoking outrage,\" since it requires provoked anger; subsumed (absorbed), relegated (demoted), and banished (expelled by decree) all describe something done to the supporters' position rather than the quiet forfeiture of their allegiance.",
+      "id": "gregmat15__b0__se__01",
+      "unit": "gregmat15__b0",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "cloze",
+      "stem": "The entail was drafted to guard against improvidence: no heir could {1} so much as an acre of the estate without the written consent of the family trustees.",
+      "blanks": [
+        {
+          "options": [
+            "alienate",
+            "immure",
+            "amalgamate",
+            "relegate",
+            "quarantine"
+          ],
+          "answers": [
+            "alienate"
+          ]
+        }
+      ],
+      "words": [
+        "alienate"
+      ],
+      "explanation": "In its legal sense alienate means to transfer property or rights to another owner, which is precisely what an entail restrains an heir from doing. Amalgamate would mean merging the acre with other holdings rather than parting with it, and immure, relegate, and quarantine describe confining or demoting, none of which a consent clause about land conveyance would govern.",
+      "id": "gregmat15__b0__cloze__02",
+      "unit": "gregmat15__b0",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "se",
+      "stem": "What defeated the referendum was not opposition but {1}: the pamphlets went unread and the debates unattended, and the question struck voters not as tiresome but simply as no business of theirs.",
+      "blanks": [
+        {
+          "options": [
+            "apathy",
+            "indifference",
+            "ennui",
+            "fervor",
+            "nonchalance",
+            "rancor"
+          ],
+          "answers": [
+            "apathy",
+            "indifference"
+          ]
+        }
+      ],
+      "words": [
+        "apathy"
+      ],
+      "explanation": "The electorate is neither hostile nor bored but wholly unengaged, and apathy and indifference are the two words for that blank absence of concern. Ennui is ruled out by \"not as tiresome,\" since it names weariness with what one already knows too well; nonchalance implies a studied, casual coolness in someone who is aware of the stakes, while fervor and rancor supply the heat the sentence explicitly denies.",
+      "id": "gregmat15__b0__se__03",
+      "unit": "gregmat15__b0",
+      "verified": true,
+      "gregmat_group": 15
+    },
+    {
+      "type": "tc2",
+      "stem": "Commentators who mistake a constituency's silence for {1} are {2} to be surprised on election night, since the quiet of voters who have long since made up their minds sounds much like the quiet of voters who have stopped caring altogether.",
+      "blanks": [
+        {
+          "options": [
+            "apathy",
+            "fervor",
+            "enmity"
+          ],
+          "answers": [
+            "apathy"
+          ]
+        },
+        {
+          "options": [
+            "apt",
+            "loath",
+            "eager"
+          ],
+          "answers": [
+            "apt"
+          ]
+        }
+      ],
+      "words": [
+        "apathy",
+        "apt"
+      ],
+      "explanation": "The closing clause glosses the first blank for us — voters \"who have stopped caring\" are the apathetic ones — while fervor and enmity would both describe silences full of feeling. The second blank reports a neutral likelihood following from the commentators' error, which is exactly what apt to does; loath reverses the sense to unwillingness, and eager absurdly makes the surprise something they desire.",
+      "id": "gregmat15__b0__tc2__04",
+      "unit": "gregmat15__b0",
+      "verified": true,
+      "gregmat_group": 15
+    }
+  ],
+  "rejects": [
+    {
+      "why": "verifier answered differently: ['apposite'] vs ['apropos']",
+      "problem": "Not unique: three options (apropos, apposite, germane) are near-synonyms in the \"relevant/fitting\" cluster. The concession (\"Everything was pertinent, yet only one was genuinely ___\") eliminates the bare synonym germane, plus extraneous (reversal) and perfunctory (wrong sense), but leaves apposite and apropos both fully defensible. Worse, the supporting clause emphasizes timing — \"arrived at the precise moment\" — which matches apropos's core sense (\"at once opportune and to the point\") at least as well as apposite's \"strikingly apt.\" A careful test-taker choosing apropos on the strongest textual cue would be marked wrong. Fix by either removing the timing detail and cueing aptness of phrasing (making apposite uniquely correct), or dropping apposite from the option set.",
+      "stem": "Everything in the speech was pertinent to the crisis, yet only one sentence was genuinely {1}: the appeal for calm arrived at the precise moment the crowd outside had begun to press against the doors."
+    },
+    {
+      "why": "verifier answered differently: ['germane', 'felicitous'] vs ['apropos', 'germane']",
+      "problem": "Blank 1 is clean: the semicolon contrast plus \"to the question of funding\" requires relevance, so \"germane\" is the only fit (\"extraneous\"/\"incidental\" would make the second clause's contrast incoherent). Blank 2 is not unique. The clause after \"since\" supplies a *timing* defect (objections raised after the votes), so the blank needs a word meaning \"apt/well-suited to the occasion, i.e. timely.\" Both \"felicitous\" (well suited to the occasion, happily chosen) and \"apropos\" satisfy that: Merriam-Webster defines the adjective \"apropos\" as \"being both relevant and opportune,\" which is precisely the relevant-but-ill-timed distinction the sentence turns on. A test-taker picking \"apropos\" has a dictionary-backed case and would be marked wrong. Only \"apposite\" is cleanly excludable, since it is a pure synonym of \"germane\" and would contradict blank 1. To repair, replace \"apropos\" with a distractor that carries no temporal sense (e.g. \"pertinent,\" \"cogent\"), or sharpen blank 2's cue toward felicity of expression rather than timing.",
+      "stem": "Everything Lang told the board was {1} to the question of funding; almost nothing he told them was {2}, since he raised each of his objections only after the relevant vote had already been taken."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence needs \"fitting/appropriate\" (the label names both aspects of the movement, so it describes them well). \"Apt\" is the best fit, but \"apropos\" is a genuine synonym — Merriam-Webster defines it as \"both relevant and opportune,\" and \"the most apropos label\" is idiomatic enough that a strong test-taker could reasonably select it. The other three (adept, adroit, inept) are sound-alike distractors describing skill in a person, not fitness of a label, so they are correctly excluded — but with two defensible keys among five options, the question is not uniquely answerable. Fix by replacing \"apropos\" with a non-synonymous near-homophone (e.g., \"apostate,\" \"adamant\") or by adding a nuance in the sentence that only \"apt\" satisfies.",
+      "stem": "Of the many labels attached to the movement, \"reluctant modernism\" has proved over the decades the most {1}: it names both the ambition and the embarrassment that attended every one of its manifestos."
+    }
+  ]
+}

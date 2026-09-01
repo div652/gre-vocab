@@ -1,0 +1,231 @@
+{
+  "unit": "gregmat30__b3",
+  "gregmat_group": 30,
+  "words": [
+    "gratuitous",
+    "grovel",
+    "indecorous",
+    "intrigue"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Defenders of the film argued that its battlefield carnage was {1} to the anti-war case it was making, since to soften the killing would be to falsify the very thing being condemned; its detractors saw only {2} brutality, lingered over with a relish that no argument required.",
+      "blanks": [
+        {
+          "options": [
+            "intrinsic",
+            "superfluous",
+            "extraneous"
+          ],
+          "answers": [
+            "intrinsic"
+          ]
+        },
+        {
+          "options": [
+            "gratuitous",
+            "fortuitous",
+            "imperative"
+          ],
+          "answers": [
+            "gratuitous"
+          ]
+        }
+      ],
+      "words": [
+        "gratuitous"
+      ],
+      "explanation": "The clause \"to soften it would be to falsify\" makes the carnage structurally necessary, so only intrinsic works; superfluous and extraneous assert the opposite. In the second blank, \"lingered over with a relish that no argument required\" indicts the director's motive and taste, which is exactly gratuitous — fortuitous (lucky, by chance) is only a lookalike, and imperative would contradict the detractors' complaint.",
+      "id": "gregmat30__b3__tc2__00",
+      "unit": "gregmat30__b3",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Saint-Simon reserved his sharpest contempt for the courtiers who spent their days {1} at Versailles, trading whatever dignity remained to them for the promise of a pension.",
+      "blanks": [
+        {
+          "options": [
+            "fawning",
+            "grovelling",
+            "intriguing",
+            "dissembling",
+            "bridling",
+            "demurring"
+          ],
+          "answers": [
+            "fawning",
+            "grovelling"
+          ]
+        }
+      ],
+      "words": [
+        "grovel"
+      ],
+      "explanation": "\"Trading whatever dignity remained\" plus the memoirist's contempt fixes the sense as self-abasement performed upward, which fawning and grovelling both name. Intriguing (plotting) and dissembling (concealing one's real views) are perfectly at home at Versailles but describe cunning rather than lost dignity, and bridling or demurring would have the courtiers resisting rather than abasing themselves.",
+      "id": "gregmat30__b3__se__01",
+      "unit": "gregmat30__b3",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Summoned before the board after the memo leaked, the chief executive did not simply apologize; he {1}, cataloguing his own failings at such length that even the directors who had demanded his resignation looked away in embarrassment.",
+      "blanks": [
+        {
+          "options": [
+            "grovelled",
+            "supplicated",
+            "temporized",
+            "expostulated",
+            "demurred"
+          ],
+          "answers": [
+            "grovelled"
+          ]
+        }
+      ],
+      "words": [
+        "grovel"
+      ],
+      "explanation": "The contrast with \"did not simply apologize\" and the onlookers' embarrassment mark an apology that overshot into self-abasement, which is precisely grovelled. Supplicated would require a humble petition for something granted, not a recitation of one's own faults; temporized, expostulated and demurred all describe stalling or objecting, the opposite of what he does.",
+      "id": "gregmat30__b3__cloze__02",
+      "unit": "gregmat30__b3",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "Cellini's memoirs alternate between two registers: the {1} of a papal court where alliances were formed behind a raised hand and undone by a whisper, and the spectacle of a great artist reduced to {2} before a patron he had libelled in print.",
+      "blanks": [
+        {
+          "options": [
+            "intrigue",
+            "decorum",
+            "candour"
+          ],
+          "answers": [
+            "intrigue"
+          ]
+        },
+        {
+          "options": [
+            "grovelling",
+            "deference",
+            "disdain"
+          ],
+          "answers": [
+            "grovelling"
+          ]
+        }
+      ],
+      "words": [
+        "intrigue",
+        "grovel"
+      ],
+      "explanation": "Alliances made behind a raised hand and undone by a whisper describe covert scheming as an atmosphere — intrigue — whereas decorum concerns observable good form and candour is its opposite. \"Reduced to\" and \"spectacle,\" following a libel, demand humiliating self-abasement: deference is dignified yielding and no spectacle at all, and disdain reverses the direction of the relation.",
+      "id": "gregmat30__b3__tc2__03",
+      "unit": "gregmat30__b3",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "cloze",
+      "stem": "Raised at Versailles though he was, the young duke proved temperamentally unfit for its {1}: he could neither keep a confidence nor pretend friendship to a man he meant to displace.",
+      "blanks": [
+        {
+          "options": [
+            "intrigue",
+            "decorum",
+            "enchantment",
+            "deference",
+            "candour"
+          ],
+          "answers": [
+            "intrigue"
+          ]
+        }
+      ],
+      "words": [
+        "intrigue"
+      ],
+      "explanation": "The two disabilities named — inability to keep a secret and inability to feign friendship toward a target — are the working skills of covert scheming, the GRE's preferred sense of intrigue. Decorum would be tested by manners rather than by secrecy and pretence, enchantment invokes the flattering \"fascinate\" sense that the evidence does not support, and candour is the quality he actually has.",
+      "id": "gregmat30__b3__cloze__04",
+      "unit": "gregmat30__b3",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "tc2",
+      "stem": "The reviewer's objection was not to the novel's frankness about the marriage, which the plot plainly required, but to a late chapter dwelling on the husband's disfigurement at a length nothing in the story demanded: a {1} cruelty, and, in a book dedicated to the man's widow, a distinctly {2} one.",
+      "blanks": [
+        {
+          "options": [
+            "gratuitous",
+            "fortuitous",
+            "requisite"
+          ],
+          "answers": [
+            "gratuitous"
+          ]
+        },
+        {
+          "options": [
+            "indecorous",
+            "urbane",
+            "discreet"
+          ],
+          "answers": [
+            "indecorous"
+          ]
+        }
+      ],
+      "words": [
+        "gratuitous",
+        "indecorous"
+      ],
+      "explanation": "\"At a length nothing in the story demanded\" strips the cruelty of any justification, which is what gratuitous asserts; requisite would repeat the concession already made about the marriage, and fortuitous merely resembles the word. The dedication to the widow shifts the charge from justification to propriety, so the second blank needs indecorous — urbane and discreet would praise the chapter the reviewer is condemning.",
+      "id": "gregmat30__b3__tc2__06",
+      "unit": "gregmat30__b3",
+      "verified": true,
+      "gregmat_group": 30
+    },
+    {
+      "type": "se",
+      "stem": "Historians of the regency describe a decade of ceaseless court {1}, in which no appointment was ever settled in council that had not already been arranged in a corridor beforehand.",
+      "blanks": [
+        {
+          "options": [
+            "intrigue",
+            "scheming",
+            "decorum",
+            "deference",
+            "indolence",
+            "conciliation"
+          ],
+          "answers": [
+            "intrigue",
+            "scheming"
+          ]
+        }
+      ],
+      "words": [
+        "intrigue"
+      ],
+      "explanation": "Business transacted in corridors rather than in council is covert manoeuvring, and intrigue and scheming are equivalent names for it. Decorum and deference describe the court's outward forms rather than its hidden politics, indolence would contradict \"ceaseless\" arrangement, and conciliation implies reconciling rivals rather than outflanking them.",
+      "id": "gregmat30__b3__se__07",
+      "unit": "gregmat30__b3",
+      "verified": true,
+      "gregmat_group": 30
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Three options, not two, fit the sentence. \"Unseemly\" and \"indecorous\" are the tightest synonym pair (both = improper for the occasion), but \"gauche\" — lacking social grace, tactless, badly judged in a social setting — is fully idiomatic for a jocular tone in a funeral chapel and produces essentially the same meaning (\"struck them as gauche\" reads naturally). A test-taker could defensibly select unseemly + gauche or indecorous + gauche and be marked wrong. The sentence gives no cue that discriminates \"violating decorum\" from \"socially graceless,\" so the distractor needs to be replaced (e.g. with something clearly off-meaning) for the item to be usable. The other three are safe: \"mawkish\" (over-sentimental) contradicts jocular, \"perfunctory\" (going through the motions) is unrelated, and \"impolitic\" (strategically unwise) misses the offense-to-propriety sense.",
+      "stem": "What scandalized the congregation was not the substance of the eulogy — the facts were accurate and kindly meant — but its jocular tone, which in a funeral chapel struck them as {1}."
+    }
+  ]
+}

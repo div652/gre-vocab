@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat08__b4",
+  "gregmat_group": 8,
+  "words": [
+    "obviate",
+    "omnipresent",
+    "oust",
+    "palpable"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Good drainage design does not merely soften the consequences of a storm; done properly it {1} the need for emergency works altogether, whereas the improvised culverts of the previous decade actually {2} the very failures they had been installed to prevent.",
+      "blanks": [
+        {
+          "options": [
+            "obviates",
+            "redresses",
+            "deters"
+          ],
+          "answers": [
+            "obviates"
+          ]
+        },
+        {
+          "options": [
+            "precipitated",
+            "precluded",
+            "averted"
+          ],
+          "answers": [
+            "precipitated"
+          ]
+        }
+      ],
+      "words": [
+        "obviate"
+      ],
+      "explanation": "The first clause rules out after-the-fact repair (\"does not merely soften the consequences\"), and the object is an abstract need, so only obviates works: it cancels the requirement in advance. Redresses is precisely the repair sense the sentence disowns, and deters needs a person or agent to be discouraged, not a need. In the second half, \"the very failures they had been installed to prevent\" demands a reversal, so the culverts brought the failures on — precipitated — while precluded or averted would say they succeeded.",
+      "id": "gregmat08__b4__tc2__00",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "In the final month of the campaign the challenger's face was {1} — on billboards, on the sides of buses, on every screen in every airport lounge in the country.",
+      "blanks": [
+        {
+          "options": [
+            "ubiquitous",
+            "omnipresent",
+            "sporadic",
+            "endemic",
+            "rampant",
+            "scant"
+          ],
+          "answers": [
+            "ubiquitous",
+            "omnipresent"
+          ]
+        }
+      ],
+      "words": [
+        "omnipresent"
+      ],
+      "explanation": "The list of venues establishes total saturation, and ubiquitous and omnipresent both yield \"everywhere at once,\" the omnipresent version carrying a faint note of inescapability. Sporadic and scant reverse the meaning outright; endemic would mean native to or regularly established in a particular region, which a campaign image is not, and rampant requires something spreading unchecked and harmful, such as corruption or disease, not a portrait.",
+      "id": "gregmat08__b4__se__01",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "By the third day of testimony the dread in the small courtroom had become {1}: jurors said afterward that it pressed on the chest like a physical weight, though of course nothing of the kind appears in the transcript.",
+      "blanks": [
+        {
+          "options": [
+            "palpable",
+            "corporeal",
+            "empirical",
+            "discernible",
+            "illusory"
+          ],
+          "answers": [
+            "palpable"
+          ]
+        }
+      ],
+      "words": [
+        "palpable"
+      ],
+      "explanation": "The subject is a collective atmosphere so intense that it seems to have physical presence, which is exactly palpable's figurative job. Corporeal would claim the dread literally had a body, and empirical would make it a matter of measured evidence, which the last clause denies; discernible says only that it could be detected, far too weak for something described as a weight on the chest, and illusory contradicts the jurors' report.",
+      "id": "gregmat08__b4__cloze__02",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "The colonel who in 1919 had been {1} as the republic's savior — his portrait hung in every schoolroom, his birthday kept as a holiday — was {2} eight years later by a cabal of the very officers who had once carried him through the streets on their shoulders.",
+      "blanks": [
+        {
+          "options": [
+            "lionized",
+            "belittled",
+            "relegated"
+          ],
+          "answers": [
+            "lionized"
+          ]
+        },
+        {
+          "options": [
+            "ousted",
+            "anointed",
+            "venerated"
+          ],
+          "answers": [
+            "ousted"
+          ]
+        }
+      ],
+      "words": [
+        "oust"
+      ],
+      "explanation": "Portraits and a national holiday describe public exaltation, so lionized fits, while belittled and relegated both diminish him and contradict \"savior.\" The second blank must reverse that exaltation at the hands of his own subordinates: ousted names the forced removal from his post without specifying the method, whereas anointed and venerated would have the plotters honoring him.",
+      "id": "gregmat08__b4__tc2__03",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "Within a year of the disputed succession the boy-king had been {1} by his own regents, and his uncle was sitting on the throne in his place.",
+      "blanks": [
+        {
+          "options": [
+            "ousted",
+            "deposed",
+            "banished",
+            "relegated",
+            "canonized",
+            "anointed"
+          ],
+          "answers": [
+            "ousted",
+            "deposed"
+          ]
+        }
+      ],
+      "words": [
+        "oust"
+      ],
+      "explanation": "What the sentence reports is the loss of an office, confirmed by someone else's occupying the throne, and ousted and deposed both name exactly that removal from power. Banished concerns expulsion from a place rather than from a post and so produces a different claim with no partner among the options; relegated implies demotion to a lower rank rather than removal, and canonized and anointed both elevate rather than depose.",
+      "id": "gregmat08__b4__se__04",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "tc2",
+      "stem": "Where the earlier regime had relied on informers who were merely {1} — two or three in each factory, reporting once a month — the new ministry aspired to a surveillance that would be {2}: one unblinking apparatus, never off duty, from which no citizen could be alone even for an hour.",
+      "blanks": [
+        {
+          "options": [
+            "sporadic",
+            "rampant",
+            "endemic"
+          ],
+          "answers": [
+            "sporadic"
+          ]
+        },
+        {
+          "options": [
+            "omnipresent",
+            "sparse",
+            "evanescent"
+          ],
+          "answers": [
+            "omnipresent"
+          ]
+        }
+      ],
+      "words": [
+        "omnipresent"
+      ],
+      "explanation": "\"Two or three in each factory, reporting once a month\" defines occasional, scattered coverage, which is sporadic; rampant would mean spreading unchecked and endemic would mean firmly established in the population, neither of which is a matter of frequency. The contrast then requires a single system present the whole time and impossible to escape, which is omnipresent; sparse repeats the thin coverage being rejected and evanescent would make the surveillance fleeting.",
+      "id": "gregmat08__b4__tc2__05",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "cloze",
+      "stem": "Because the alloy re-forms its own protective oxide layer wherever the surface is scratched, the new decking {1} the need for the annual repainting that older bridge steels demanded.",
+      "blanks": [
+        {
+          "options": [
+            "obviates",
+            "averts",
+            "deters",
+            "precipitates",
+            "engenders"
+          ],
+          "answers": [
+            "obviates"
+          ]
+        }
+      ],
+      "words": [
+        "obviate"
+      ],
+      "explanation": "The object is a requirement rather than an event, and the self-healing layer cancels that requirement outright, which is what obviates means. Averts takes a threatened event such as a collapse or a disaster, not a need, and deters requires a person who can be discouraged; precipitates and engenders would have the decking create the need for repainting instead of eliminating it.",
+      "id": "gregmat08__b4__cloze__06",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    },
+    {
+      "type": "se",
+      "stem": "The account collapsed the moment the ledger was produced: the insistence that no payment had ever been made was a {1} falsehood, and the jurors' faces showed that they knew it.",
+      "blanks": [
+        {
+          "options": [
+            "palpable",
+            "manifest",
+            "ostensible",
+            "tenuous",
+            "arcane",
+            "inadvertent"
+          ],
+          "answers": [
+            "palpable",
+            "manifest"
+          ]
+        }
+      ],
+      "words": [
+        "palpable"
+      ],
+      "explanation": "With the documentary proof in hand, the lie is not merely doubtful but plainly and grossly evident, and palpable and manifest are interchangeable in this idiom of obviousness. Tenuous would say the claim was flimsy rather than exposed as false, ostensible would make it only apparent rather than actual, arcane reverses the sense to obscure, and inadvertent addresses intent, which the ledger says nothing about.",
+      "id": "gregmat08__b4__se__07",
+      "unit": "gregmat08__b4",
+      "verified": true,
+      "gregmat_group": 8
+    }
+  ],
+  "rejects": []
+}

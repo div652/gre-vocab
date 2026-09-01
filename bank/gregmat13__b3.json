@@ -1,0 +1,245 @@
+{
+  "unit": "gregmat13__b3",
+  "gregmat_group": 13,
+  "words": [
+    "exhilarating",
+    "extraneous",
+    "fervor",
+    "futile"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The first riders to descend the Galibier on wooden rims found the run {1} — the cold air, the speed, the whole body suddenly awake — even though they understood that any attempt to brake on such a gradient was {2}, the rims merely glazing over under the pads.",
+      "blanks": [
+        {
+          "options": [
+            "exhilarating",
+            "elated",
+            "euphoric"
+          ],
+          "answers": [
+            "exhilarating"
+          ]
+        },
+        {
+          "options": [
+            "futile",
+            "efficacious",
+            "feasible"
+          ],
+          "answers": [
+            "futile"
+          ]
+        }
+      ],
+      "words": [
+        "exhilarating",
+        "futile"
+      ],
+      "explanation": "The first blank describes the run, not the rider, so only exhilarating is grammatically available: elated and euphoric name the state of the person who feels, never the cause that produces it. The second blank is fixed by the glazing rims, which explain that braking could not work at all rather than merely being hard — efficacious and feasible both assert the opposite of what the clause reports.",
+      "id": "gregmat13__b3__tc2__00",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "tc2",
+      "stem": "Gibbon's editors cut from the manuscript whatever they judged {1} to the argument — dinner-party anecdotes, jabs at rival antiquarians — but left untouched the pages where his {2} for the republican ideal boils over, since that warmth is exactly what carries a reader through six volumes.",
+      "blanks": [
+        {
+          "options": [
+            "extraneous",
+            "germane",
+            "indispensable"
+          ],
+          "answers": [
+            "extraneous"
+          ]
+        },
+        {
+          "options": [
+            "fervor",
+            "apathy",
+            "ennui"
+          ],
+          "answers": [
+            "fervor"
+          ]
+        }
+      ],
+      "words": [
+        "extraneous",
+        "fervor"
+      ],
+      "explanation": "Material that is cut is by definition not bearing on the argument, so germane and indispensable invert the logic; extraneous is the precise word for matter that came from outside and never belonged. The second blank must name the intensity that \"boils over\" and sustains the reader, which apathy and ennui, both names for the absence of feeling, cannot do.",
+      "id": "gregmat13__b3__tc2__01",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Correspondents at the 1979 rallies were struck less by the substance of the speeches than by the {1} of the crowds, who went on chanting in freezing rain for hours after the loudspeakers had failed.",
+      "blanks": [
+        {
+          "options": [
+            "ardor",
+            "fervor",
+            "apathy",
+            "ennui",
+            "lassitude",
+            "nonchalance"
+          ],
+          "answers": [
+            "ardor",
+            "fervor"
+          ]
+        }
+      ],
+      "words": [
+        "fervor"
+      ],
+      "explanation": "Chanting for hours in freezing rain after the sound system dies is evidence of emotional heat, and ardor and fervor are the two nouns here that name that heat, yielding sentences of the same meaning. Apathy, ennui, lassitude and nonchalance all fit the slot grammatically and would read naturally in a report on a crowd, but each denies the very intensity the behavior demonstrates.",
+      "id": "gregmat13__b3__se__02",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "Every attempt to shore up the levee with sandbags proved {1}: the current had already scoured out the foundation, and no amount of work at the surface could have altered what followed.",
+      "blanks": [
+        {
+          "options": [
+            "futile",
+            "unavailing",
+            "efficacious",
+            "feasible",
+            "tenable",
+            "salutary"
+          ],
+          "answers": [
+            "futile",
+            "unavailing"
+          ]
+        }
+      ],
+      "words": [
+        "futile"
+      ],
+      "explanation": "The colon explains that the failure was structural — the foundation was gone before the sandbagging began — so the sentence needs a verdict that the effort could never have worked, which futile and unavailing deliver identically. Efficacious and salutary claim the work did good, while feasible and tenable claim it was workable; all four are ordinary words for engineering prose and all four contradict the second clause.",
+      "id": "gregmat13__b3__se__03",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "se",
+      "stem": "The judge struck the testimony as {1} to the question of intent, since the witness's long account of the defendant's childhood spoke to character and not at all to the events of that night.",
+      "blanks": [
+        {
+          "options": [
+            "extraneous",
+            "immaterial",
+            "germane",
+            "pertinent",
+            "apposite",
+            "indispensable"
+          ],
+          "answers": [
+            "extraneous",
+            "immaterial"
+          ]
+        }
+      ],
+      "words": [
+        "extraneous"
+      ],
+      "explanation": "Evidence that bears on character rather than on the night in question has no connection to the issue being tried, and extraneous and immaterial are the two options that say exactly that, producing equivalent sentences. Germane, pertinent and apposite are the standard courtroom words for the opposite finding and would make the striking of the testimony incoherent, while indispensable is stronger still in the wrong direction.",
+      "id": "gregmat13__b3__se__04",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Test pilots who flew the X-15 reported that the unpowered glide back through the stratosphere was {1} — eight minutes of silence and speed that left them more awake on the runway than they had been at launch.",
+      "blanks": [
+        {
+          "options": [
+            "exhilarating",
+            "elated",
+            "euphoric",
+            "ebullient",
+            "exhilarated"
+          ],
+          "answers": [
+            "exhilarating"
+          ]
+        }
+      ],
+      "words": [
+        "exhilarating"
+      ],
+      "explanation": "The blank modifies the glide, which is the cause of the feeling, and exhilarating is the only member of this family that attaches to the cause; elated, euphoric, ebullient and exhilarated all describe the person doing the feeling. The detail about being physically more awake afterward also points to the bodily charge that distinguishes this word from mere gladness.",
+      "id": "gregmat13__b3__cloze__05",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "Having lost on identical facts before the same appellate panel two years earlier, counsel judged a second petition {1} and urged the client to accept the settlement instead.",
+      "blanks": [
+        {
+          "options": [
+            "futile",
+            "fallow",
+            "barren",
+            "fanciful",
+            "efficacious"
+          ],
+          "answers": [
+            "futile"
+          ]
+        }
+      ],
+      "words": [
+        "futile"
+      ],
+      "explanation": "An identical prior loss makes the outcome of the second petition a foregone conclusion, so the sentence calls for a judgment that the attempt could achieve nothing — futile, with its implied advice to stop. Fallow and barren belong to soil and fertility rather than to actions, fanciful would say the petition was imaginative rather than doomed, and efficacious asserts the reverse.",
+      "id": "gregmat13__b3__cloze__06",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    },
+    {
+      "type": "cloze",
+      "stem": "What alarmed the ambassador was not the government's stated policy but the {1} of the street demonstrations, a nationalistic temperature no ministry seemed able to lower once it had been raised.",
+      "blanks": [
+        {
+          "options": [
+            "fervor",
+            "apathy",
+            "nonchalance",
+            "lassitude",
+            "alacrity"
+          ],
+          "answers": [
+            "fervor"
+          ]
+        }
+      ],
+      "words": [
+        "fervor"
+      ],
+      "explanation": "The appositive describes a temperature that rises and will not come down, so the blank must name the collective emotional heat of a crowd, which is precisely fervor's work as a noun. Apathy, nonchalance and lassitude name its absence, and alacrity denotes brisk willingness to act rather than the burning intensity that would worry a diplomat.",
+      "id": "gregmat13__b3__cloze__07",
+      "unit": "gregmat13__b3",
+      "verified": true,
+      "gregmat_group": 13
+    }
+  ],
+  "rejects": []
+}

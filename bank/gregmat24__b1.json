@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat24__b1",
+  "gregmat_group": 24,
+  "words": [
+    "buttress",
+    "condone",
+    "contravene",
+    "denounce"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Far from letting the archival record speak for itself, Vance {1} her central thesis with a hundred pages of statistical appendices — a tacit concession that the claim, left unaided, would {2} under the first serious challenge.",
+      "blanks": [
+        {
+          "options": [
+            "buttressed",
+            "undercut",
+            "championed"
+          ],
+          "answers": [
+            "buttressed"
+          ]
+        },
+        {
+          "options": [
+            "collapse",
+            "prevail",
+            "stiffen"
+          ],
+          "answers": [
+            "collapse"
+          ]
+        }
+      ],
+      "words": [
+        "buttress"
+      ],
+      "explanation": "The second blank must name what happens to an unsupported structure under pressure — collapse — and that in turn forces a first blank meaning \"propped up from outside,\" which is exactly buttress. Undercut reverses the logic (she is adding support, not removing it), and champion means to fight publicly on something's behalf; it neither takes evidence as its instrument nor carries the implication of structural weakness that the \"tacit concession\" clause requires.",
+      "id": "gregmat24__b1__tc2__00",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Rather than introducing evidence of its own, the ambassador's lengthy statement served only to {1} a legal position the tribunal had already found persuasive.",
+      "blanks": [
+        {
+          "options": [
+            "bolster",
+            "buttress",
+            "corroborate",
+            "substantiate",
+            "undermine",
+            "vitiate"
+          ],
+          "answers": [
+            "bolster",
+            "buttress"
+          ]
+        }
+      ],
+      "words": [
+        "buttress"
+      ],
+      "explanation": "Bolster and buttress both mean to strengthen a position that is already standing, and both attach naturally to \"a legal position.\" Corroborate and substantiate are excluded by \"rather than introducing evidence of its own\": both require independent evidential support, which the statement explicitly lacks. Undermine and vitiate fit the grammar and the register but invert the meaning.",
+      "id": "gregmat24__b1__se__01",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "The commission was careful to distinguish approval from acquiescence: the director who says nothing while his subordinates falsify the safety logs may not applaud the fraud, but he plainly {1} it, and it is exactly this silence that the new statute treats as a species of {2}.",
+      "blanks": [
+        {
+          "options": [
+            "condones",
+            "denounces",
+            "extenuates"
+          ],
+          "answers": [
+            "condones"
+          ]
+        },
+        {
+          "options": [
+            "complicity",
+            "dissent",
+            "obeisance"
+          ],
+          "answers": [
+            "complicity"
+          ]
+        }
+      ],
+      "words": [
+        "condone"
+      ],
+      "explanation": "Condone is the one word that means to let a known wrong pass without protest — stopping short of approval, exactly as \"may not applaud\" requires — and silence from someone empowered to act is its classic form; the second blank must therefore name shared guilt, complicity. Denounce contradicts \"says nothing,\" and extenuate requires the director to actively offer excuses, which a silent man does not do.",
+      "id": "gregmat24__b1__tc2__02",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "Defenders of the amnesty called it a necessary price for peace; its critics replied that a state which declines to prosecute torture in effect {1} it.",
+      "blanks": [
+        {
+          "options": [
+            "condones",
+            "denounces",
+            "impugns",
+            "censures",
+            "contravenes"
+          ],
+          "answers": [
+            "condones"
+          ]
+        }
+      ],
+      "words": [
+        "condone"
+      ],
+      "explanation": "To condone is to tolerate an acknowledged wrong by declining to act against it, which is precisely what a refusal to prosecute amounts to. Denounce, impugn, and censure all name active condemnation, the opposite of what the critics allege; contravene would require the state to be breaking a written provision rather than failing to enforce one.",
+      "id": "gregmat24__b1__cloze__03",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the waiver had been issued by an agency acting squarely within its delegated authority, the tribunal concluded that the measure did not {1} the treaty at all, however plainly it {2} the spirit of the agreement.",
+      "blanks": [
+        {
+          "options": [
+            "contravene",
+            "ratify",
+            "vindicate"
+          ],
+          "answers": [
+            "contravene"
+          ]
+        },
+        {
+          "options": [
+            "flouted",
+            "embodied",
+            "adjudicated"
+          ],
+          "answers": [
+            "flouted"
+          ]
+        }
+      ],
+      "words": [
+        "contravene"
+      ],
+      "explanation": "The letter-versus-spirit structure requires a first blank meaning \"violate the written text\" — contravene, the cool procedural word whose object is a document — and a second meaning \"openly disregarded,\" flouted. Ratify and vindicate would make the concessive clause incoherent, and embodied reverses the contrast the sentence is built on.",
+      "id": "gregmat24__b1__tc2__04",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "cloze",
+      "stem": "The isotope ratios recovered from the ice core, which record three distinct warm intervals, {1} the long-standing assumption that the region's glaciers advanced without interruption through the medieval period.",
+      "blanks": [
+        {
+          "options": [
+            "contravene",
+            "corroborate",
+            "buttress",
+            "condone",
+            "denounce"
+          ],
+          "answers": [
+            "contravene"
+          ]
+        }
+      ],
+      "words": [
+        "contravene"
+      ],
+      "explanation": "This is contravene in its abstract sense: evidence conflicting with a stated claim, with no wrongdoer involved. Corroborate and buttress would require the data to agree with the assumption, which three warm intervals plainly do not; condone and denounce need a moral agent and a censurable act, neither of which an isotope ratio supplies.",
+      "id": "gregmat24__b1__cloze__05",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "se",
+      "stem": "Editorials across the continent {1} the deportation order as an affront to every principle the union claimed to embody.",
+      "blanks": [
+        {
+          "options": [
+            "decried",
+            "denounced",
+            "condoned",
+            "deprecated",
+            "extolled",
+            "ratified"
+          ],
+          "answers": [
+            "decried",
+            "denounced"
+          ]
+        }
+      ],
+      "words": [
+        "denounce"
+      ],
+      "explanation": "Decry and denounce both name loud, public condemnation aimed at an audience, which is what editorials framing the order as an \"affront\" are doing. Deprecate registers only mild disapproval and so changes the sentence's heat rather than preserving it; condone, extol, and ratify all point toward acceptance or praise, which the appositive contradicts.",
+      "id": "gregmat24__b1__se__06",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the diaries suggests that Meyer objected to the arrests in public; his {1} were confined to private letters — and they ceased altogether once an ambitious deputy {2} him to the ministry as a subversive.",
+      "blanks": [
+        {
+          "options": [
+            "reproaches",
+            "encomiums",
+            "obeisances"
+          ],
+          "answers": [
+            "reproaches"
+          ]
+        },
+        {
+          "options": [
+            "denounced",
+            "exculpated",
+            "condoned"
+          ],
+          "answers": [
+            "denounced"
+          ]
+        }
+      ],
+      "words": [
+        "denounce"
+      ],
+      "explanation": "The first blank must name private expressions of disapproval, reproaches, since the sentence contrasts them with the public objection Meyer never made; encomiums are praise and obeisances are gestures of submission. The second blank uses denounce in its betrayal sense — to inform against someone to the authorities — which the phrase \"to the ministry as a subversive\" fixes; exculpate and condone would both leave Meyer unharmed and cannot explain why his letters stopped.",
+      "id": "gregmat24__b1__tc2__07",
+      "unit": "gregmat24__b1",
+      "verified": true,
+      "gregmat_group": 24
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,250 @@
+{
+  "unit": "gregmat03__b6",
+  "gregmat_group": 3,
+  "words": [
+    "diffident",
+    "dilatory",
+    "equivocate",
+    "polarize"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Colleagues who knew Hazlitt only through his published prose — combative, {1} in its claims, contemptuous of hedging — were startled to meet a man so {2} in person that he apologized for taking up the seminar's time.",
+      "blanks": [
+        {
+          "options": [
+            "audacious",
+            "plodding",
+            "sedulous"
+          ],
+          "answers": [
+            "audacious"
+          ]
+        },
+        {
+          "options": [
+            "diffident",
+            "coy",
+            "craven"
+          ],
+          "answers": [
+            "diffident"
+          ]
+        }
+      ],
+      "words": [
+        "diffident"
+      ],
+      "explanation": "\"Combative\" and \"contemptuous of hedging\" fix blank 1 as nerve on the page, which \"audacious\" supplies; \"plodding\" and \"sedulous\" describe pace and diligence, not boldness. The surprise turns on the contrast, so blank 2 must be self-doubt shown as reserve — diffident. Coy implies shyness put on for effect, and craven implies fear of danger or cowardice under pressure, whereas apologizing for occupying the room is simply underrating one's own claim.",
+      "id": "gregmat03__b6__tc2__00",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Though her data were decisive, Franklin remained too {1} to press the claim in public, mentioning the result only when a colleague asked her directly; she appears to have genuinely believed the work too slight to announce.",
+      "blanks": [
+        {
+          "options": [
+            "diffident",
+            "timorous",
+            "coy",
+            "skittish",
+            "brazen",
+            "assertive"
+          ],
+          "answers": [
+            "diffident",
+            "timorous"
+          ]
+        }
+      ],
+      "words": [
+        "diffident"
+      ],
+      "explanation": "The sentence describes someone who will not advance her own claim despite having the evidence, which both diffident and timorous convey — hanging back rather than speaking up. Coy is ruled out by \"genuinely believed,\" since coyness is affected reticence rather than real self-doubt, and skittish suggests being easily startled by external threat; brazen and assertive reverse the sense entirely.",
+      "id": "gregmat03__b6__se__01",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "What the board took for mere {1} — a laggard's temperament, nothing more — the tribunal read as design: each extension the firm requested was {2}, timed so that the claimants' funding would run out before the hearing opened.",
+      "blanks": [
+        {
+          "options": [
+            "indolence",
+            "alacrity",
+            "temerity"
+          ],
+          "answers": [
+            "indolence"
+          ]
+        },
+        {
+          "options": [
+            "dilatory",
+            "feckless",
+            "expeditious"
+          ],
+          "answers": [
+            "dilatory"
+          ]
+        }
+      ],
+      "words": [
+        "dilatory"
+      ],
+      "explanation": "\"A laggard's temperament\" defines blank 1 as constitutional laziness, so indolence fits, while alacrity is its opposite and temerity concerns nerve rather than pace. Blank 2 must name delay as deliberate tactic — the contrast is temperament versus design — and only dilatory carries that charge of avoidable, calculated postponement; feckless implies ineffectual irresponsibility, not timing, and expeditious contradicts the sentence.",
+      "id": "gregmat03__b6__tc2__02",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Counsel filed a fourth motion to amend the pleadings, which the judge struck as purely {1}: it corrected nothing of substance and served only to push the trial past the date on which the prosecution's chief expert was to retire.",
+      "blanks": [
+        {
+          "options": [
+            "dilatory",
+            "indolent",
+            "desultory",
+            "sluggish",
+            "slovenly"
+          ],
+          "answers": [
+            "dilatory"
+          ]
+        }
+      ],
+      "words": [
+        "dilatory"
+      ],
+      "explanation": "A filing made in order to stall is the textbook use of dilatory, which in legal register accuses the delay of being both avoidable and intentional. Indolent and sluggish describe a person's or a process's slowness rather than an instrument of strategy, desultory would mean aimless and unmethodical, and slovenly would fault the motion's carelessness, not its timing.",
+      "id": "gregmat03__b6__cloze__03",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "se",
+      "stem": "Asked directly whether the ministry had known of the leak before the election, the spokesman {1}, producing a formula that could afterward be read either as a denial or as an admission, depending on who needed which.",
+      "blanks": [
+        {
+          "options": [
+            "equivocated",
+            "prevaricated",
+            "demurred",
+            "averred",
+            "capitulated",
+            "elaborated"
+          ],
+          "answers": [
+            "equivocated",
+            "prevaricated"
+          ]
+        }
+      ],
+      "words": [
+        "equivocate"
+      ],
+      "explanation": "A statement engineered to be readable both ways is exactly what equivocated and prevaricated describe: dodging commitment without stating an outright falsehood. Demurred would mean he objected or declined to answer, averred means he asserted something flatly, and capitulated and elaborated both fit the grammar while contradicting the described evasion.",
+      "id": "gregmat03__b6__se__04",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Rather than deny the newspaper's account outright, the chancellor {1}, telling the House that the government had \"no present plans\" for such a levy — a phrase his aides later noted had never been meant to cover the following year's budget.",
+      "blanks": [
+        {
+          "options": [
+            "equivocated",
+            "capitulated",
+            "averred",
+            "expostulated",
+            "demurred"
+          ],
+          "answers": [
+            "equivocated"
+          ]
+        }
+      ],
+      "words": [
+        "equivocate"
+      ],
+      "explanation": "The quoted phrase is technically defensible yet designed to be misheard as a denial, which is the craft that equivocated names. Averred and expostulated describe forthright assertion or protest, capitulated means yielding, and demurred would require an expressed objection rather than a sentence built to carry two readings.",
+      "id": "gregmat03__b6__cloze__05",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "tc2",
+      "stem": "The referendum had so {1} the country that no middle position remained sayable in public; small wonder that the prime minister took to {2} at every rally, phrasing each answer so that both camps could hear their own convictions endorsed.",
+      "blanks": [
+        {
+          "options": [
+            "polarized",
+            "coalesced",
+            "subsumed"
+          ],
+          "answers": [
+            "polarized"
+          ]
+        },
+        {
+          "options": [
+            "equivocating",
+            "averring",
+            "capitulating"
+          ],
+          "answers": [
+            "equivocating"
+          ]
+        }
+      ],
+      "words": [
+        "polarize",
+        "equivocate"
+      ],
+      "explanation": "\"No middle position remained\" is the signature of polarize — the moderates migrate to the extremes and the middle vanishes — whereas coalesced and subsumed describe merging rather than splitting. The vanished middle then explains blank 2: with no safe centrist answer available, the speaker crafts utterances readable two ways, which is equivocating rather than averring (asserting plainly) or capitulating (giving in to one side).",
+      "id": "gregmat03__b6__tc2__06",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    },
+    {
+      "type": "cloze",
+      "stem": "Few civic monuments have {1} a city so completely: within a year residents were either petitioning for the sculpture's removal or defending it as something close to sacred, and almost no one would confess to indifference.",
+      "blanks": [
+        {
+          "options": [
+            "polarized",
+            "amalgamated",
+            "subsumed",
+            "clustered",
+            "dispersed"
+          ],
+          "answers": [
+            "polarized"
+          ]
+        }
+      ],
+      "words": [
+        "polarize"
+      ],
+      "explanation": "The detail that nobody remains lukewarm identifies the process by which a population is pulled into two opposed camps, which is what polarized names. Amalgamated, subsumed, and clustered all describe combination or grouping, and dispersed describes scattering in many directions rather than hardening into exactly two.",
+      "id": "gregmat03__b6__cloze__07",
+      "unit": "gregmat03__b6",
+      "verified": true,
+      "gregmat_group": 3
+    }
+  ],
+  "rejects": []
+}

@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat31__b4",
+  "gregmat_group": 31,
+  "words": [
+    "perspicacious",
+    "ponderous",
+    "recluse",
+    "retaliate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though her superiors at the embassy dismissed her as merely {1}, a young woman too new to read a foreign court, her dispatches reveal a remarkably {2} judge of motive: she had named the likely instigators of the coup months before the ministers she served suspected anything.",
+      "blanks": [
+        {
+          "options": [
+            "ingenuous",
+            "imperious",
+            "obdurate"
+          ],
+          "answers": [
+            "ingenuous"
+          ]
+        },
+        {
+          "options": [
+            "perspicacious",
+            "pertinacious",
+            "pernicious"
+          ],
+          "answers": [
+            "perspicacious"
+          ]
+        }
+      ],
+      "words": [
+        "perspicacious"
+      ],
+      "explanation": "The concession \"Though ... dismissed her as merely\" demands that the first blank name the opposite of the insight the second blank supplies, so ingenuous (artless, easily taken in) is required; imperious and obdurate are dismissive but say nothing about discernment. Perspicacious is praise for penetrating judgement of people and motives, which is exactly what naming the instigators early demonstrates; pertinacious means stubbornly persistent and pernicious means destructive — lookalikes with no bearing on insight.",
+      "id": "gregmat31__b4__tc2__00",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers agreed that the biography was {1}: the prose advanced by inches, each paragraph dragging its freight of parish records and land surveys, so that even admirers of the subject confessed to finding the middle chapters {2}.",
+      "blanks": [
+        {
+          "options": [
+            "ponderous",
+            "trenchant",
+            "nimble"
+          ],
+          "answers": [
+            "ponderous"
+          ]
+        },
+        {
+          "options": [
+            "soporific",
+            "exhilarating",
+            "penetrating"
+          ],
+          "answers": [
+            "soporific"
+          ]
+        }
+      ],
+      "words": [
+        "ponderous"
+      ],
+      "explanation": "Prose that \"advanced by inches\" while \"dragging its freight\" is weighed down by its own material — the definition of ponderous; trenchant (incisive) and nimble (light and quick) describe the opposite quality. The second blank must register the consequence for a sympathetic reader, which is tedium, so soporific fits, while exhilarating reverses the sense and penetrating praises the book the first clause has just faulted.",
+      "id": "gregmat31__b4__tc2__01",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "Success had not embittered him so much as emptied him: within five years of the novel's triumph he had sold the house in town and become a {1}, and the few friends who still wrote found their letters answered, when at all, in a tone of studied {2}.",
+      "blanks": [
+        {
+          "options": [
+            "recluse",
+            "raconteur",
+            "dilettante"
+          ],
+          "answers": [
+            "recluse"
+          ]
+        },
+        {
+          "options": [
+            "aloofness",
+            "conviviality",
+            "vivacity"
+          ],
+          "answers": [
+            "aloofness"
+          ]
+        }
+      ],
+      "words": [
+        "recluse"
+      ],
+      "explanation": "The sentence describes a man who had a public life and left it — the recluse's characteristic arc — whereas a raconteur is a teller of stories in company and a dilettante a dabbler, neither of which follows from selling the house and vanishing. The second blank must extend that withdrawal into his correspondence, so aloofness is required; conviviality and vivacity describe warmth and sparkle in company and contradict letters answered rarely and coldly.",
+      "id": "gregmat31__b4__tc2__02",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "tc2",
+      "stem": "For two years the smaller republic chose to {1}, absorbing each border provocation without public response; when it finally did {2}, the scale of the strike surprised even the allies who had spent those years urging it to act.",
+      "blanks": [
+        {
+          "options": [
+            "forbear",
+            "retrench",
+            "equivocate"
+          ],
+          "answers": [
+            "forbear"
+          ]
+        },
+        {
+          "options": [
+            "retaliate",
+            "relent",
+            "condone"
+          ],
+          "answers": [
+            "retaliate"
+          ]
+        }
+      ],
+      "words": [
+        "retaliate"
+      ],
+      "explanation": "\"Absorbing each provocation without public response\" defines the first blank as deliberate restraint, which is forbear; retrench means to cut back spending and equivocate means to speak ambiguously, neither of which is a policy of absorbing blows. The second blank is the reversal that produces a strike, so retaliate — the cool, responsive counter-blow — is necessary, while relent (to soften) and condone (to overlook an offense) would both continue the restraint rather than end it.",
+      "id": "gregmat31__b4__tc2__03",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Hindsight has been kind to the ambassador's 1938 cables: what the Foreign Office filed away as alarmist now reads as the work of a remarkably {1} observer of a government most of Europe still preferred to appease.",
+      "blanks": [
+        {
+          "options": [
+            "perspicacious",
+            "sagacious",
+            "pertinacious",
+            "impertinent",
+            "pernicious",
+            "ingenuous"
+          ],
+          "answers": [
+            "perspicacious",
+            "sagacious"
+          ]
+        }
+      ],
+      "words": [
+        "perspicacious"
+      ],
+      "explanation": "The cables were right about a regime everyone else misread, so the blank must praise penetrating judgement: perspicacious and sagacious both yield an observer of unusual discernment. Pertinacious (doggedly persistent) and impertinent (insolent) describe how he behaved rather than how well he saw, ingenuous reverses the meaning entirely, and pernicious would condemn rather than vindicate him.",
+      "id": "gregmat31__b4__se__04",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "se",
+      "stem": "Chapters that ought to have carried the reader forward instead advance by inches, weighed down at every turn by digressions on land tenure and inheritance law; the effect is {1} rather than grand.",
+      "blanks": [
+        {
+          "options": [
+            "ponderous",
+            "plodding",
+            "trenchant",
+            "florid",
+            "bombastic",
+            "laconic"
+          ],
+          "answers": [
+            "ponderous",
+            "plodding"
+          ]
+        }
+      ],
+      "words": [
+        "ponderous"
+      ],
+      "explanation": "The evidence is about pace and weight — chapters that creep forward under a load — so ponderous and plodding both name a narrative that has mass but no momentum. Florid and bombastic fault ornament and inflation, faults of excess rather than of drag; trenchant is praise, and laconic (terse) contradicts a book full of digressions.",
+      "id": "gregmat31__b4__se__05",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "Trade economists observe that the threat of automatic countermeasures is often more useful than their exercise: a state that has credibly committed itself to {1} against any new subsidy is rarely called upon to do so.",
+      "blanks": [
+        {
+          "options": [
+            "retaliate",
+            "avenge",
+            "condone",
+            "relent",
+            "forbear"
+          ],
+          "answers": [
+            "retaliate"
+          ]
+        }
+      ],
+      "words": [
+        "retaliate"
+      ],
+      "explanation": "Retaliate is the cool, transactional verb of tariffs and sanctions — a measured counter-move triggered by a prior act, which is precisely what an announced trade policy promises. Avenge is moral and elevated and takes a wrong as its object rather than pairing with \"against\"; condone, relent, and forbear all describe declining to strike back, which would destroy the deterrent the sentence describes.",
+      "id": "gregmat31__b4__cloze__06",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    },
+    {
+      "type": "cloze",
+      "stem": "She had once kept a draper's shop on the square; after the fire she saw no one for forty years, and the town, unable to accept that a person might simply withdraw from a life she had already led, invented a series of private griefs to explain the {1} behind the locked gate.",
+      "blanks": [
+        {
+          "options": [
+            "recluse",
+            "introvert",
+            "ascetic",
+            "misanthrope",
+            "eccentric"
+          ],
+          "answers": [
+            "recluse"
+          ]
+        }
+      ],
+      "words": [
+        "recluse"
+      ],
+      "explanation": "A recluse is a physical fact rather than a temperament — someone who had a life among others and left it, which is why the word invites the town's search for a reason. An introvert merely recharges alone, an ascetic renounces comfort for principle, a misanthrope actively hates humankind rather than simply withdrawing, and eccentric describes oddity of manner, not seclusion.",
+      "id": "gregmat31__b4__cloze__07",
+      "unit": "gregmat31__b4",
+      "verified": true,
+      "gregmat_group": 31
+    }
+  ],
+  "rejects": []
+}

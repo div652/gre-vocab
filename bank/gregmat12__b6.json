@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat12__b6",
+  "gregmat_group": 12,
+  "words": [
+    "tempestuous",
+    "tenable",
+    "transgression",
+    "urbane"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Biographers have never quite reconciled the two men: the conductor of the {1} public life — the affairs, the feuds, the quarrels with patrons carried on at full volume in hotel lobbies — and the private companion so {2} that guests at his country house mistook his composure for indifference.",
+      "blanks": [
+        {
+          "options": [
+            "tempestuous",
+            "quiescent",
+            "cerebral"
+          ],
+          "answers": [
+            "tempestuous"
+          ]
+        },
+        {
+          "options": [
+            "phlegmatic",
+            "restive",
+            "fraught"
+          ],
+          "answers": [
+            "phlegmatic"
+          ]
+        }
+      ],
+      "words": [
+        "tempestuous"
+      ],
+      "explanation": "The catalogue of affairs, feuds and shouted quarrels demands a word for a life of sustained emotional storm, which is tempestuous; cerebral would describe an intellectual life, not a loud one, and quiescent contradicts the evidence outright. The second blank must name the calm that could be misread as indifference, so phlegmatic fits, while restive (fidgety, unwilling to be still) and fraught (tense with trouble) would both give the guests something to notice rather than nothing.",
+      "id": "gregmat12__b6__tc2__00",
+      "unit": "gregmat12__b6",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Their twenty-year partnership at the keyboard was as {1} as the marriage that underwrote it: screaming matches in the rehearsal room, a whole season of refusing to speak, and then a duet recorded in one rapturous afternoon.",
+      "blanks": [
+        {
+          "options": [
+            "tempestuous",
+            "turbulent",
+            "histrionic",
+            "frenetic",
+            "mawkish",
+            "phlegmatic"
+          ],
+          "answers": [
+            "tempestuous",
+            "turbulent"
+          ]
+        }
+      ],
+      "words": [
+        "tempestuous"
+      ],
+      "explanation": "Only tempestuous and turbulent describe a long relationship convulsed by violent swings of feeling, and in this context they are interchangeable. Histrionic is the nearest trap, but it means emotion staged for an audience, which the private rehearsal-room fights are not; frenetic would describe hurried activity rather than emotional violence, and mawkish and phlegmatic point in the wrong direction entirely.",
+      "id": "gregmat12__b6__se__01",
+      "unit": "gregmat12__b6",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "No one has yet produced evidence that would refute her dating of the manuscript, so that claim remains {1} for the moment; the twelve-week timetable she proposes for collating every folio, however, is hardly {2} with a staff of two.",
+      "blanks": [
+        {
+          "options": [
+            "tenable",
+            "efficacious",
+            "fanciful"
+          ],
+          "answers": [
+            "tenable"
+          ]
+        },
+        {
+          "options": [
+            "feasible",
+            "quixotic",
+            "salutary"
+          ],
+          "answers": [
+            "feasible"
+          ]
+        }
+      ],
+      "words": [
+        "tenable"
+      ],
+      "explanation": "The first blank is licensed only by the failure of anyone to refute the dating — that is exactly the modest claim tenable makes, whereas efficacious would say the dating produces results and fanciful reverses the logic. The second blank turns on resources rather than attack: a schedule that two people cannot execute is not feasible, and 'hardly quixotic' would praise the plan as realistic, which the staffing detail forbids.",
+      "id": "gregmat12__b6__tc2__02",
+      "unit": "gregmat12__b6",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "cloze",
+      "stem": "After three days of cross-examination the defense's reconstruction of that evening proved unexpectedly {1}: every attempt to demolish it broke on some detail of the phone records, even though the jury never came to believe it was what had actually happened.",
+      "blanks": [
+        {
+          "options": [
+            "tenable",
+            "feasible",
+            "efficacious",
+            "quixotic",
+            "fanciful"
+          ],
+          "answers": [
+            "tenable"
+          ]
+        }
+      ],
+      "words": [
+        "tenable"
+      ],
+      "explanation": "Tenable is the word for a position that survives assault without thereby being shown true, which is precisely the gap the final clause insists on. Feasible is the nearest miss: it asks whether something can be carried out, and a reconstruction of past events is not a plan to be executed; efficacious, quixotic and fanciful all misdescribe an account that withstood attack.",
+      "id": "gregmat12__b6__cloze__03",
+      "unit": "gregmat12__b6",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "The novel refuses to treat the stolen loaf as a {1}, an appetite forgivable in a starving man; it insists on naming the theft a {2}, an act that cut him off from a community whose covenant he had sworn before God to keep.",
+      "blanks": [
+        {
+          "options": [
+            "peccadillo",
+            "turpitude",
+            "depravity"
+          ],
+          "answers": [
+            "peccadillo"
+          ]
+        },
+        {
+          "options": [
+            "transgression",
+            "infraction",
+            "impropriety"
+          ],
+          "answers": [
+            "transgression"
+          ]
+        }
+      ],
+      "words": [
+        "transgression"
+      ],
+      "explanation": "The first blank is defined by 'forgivable' and must therefore name a trivial fault, which is what peccadillo does; turpitude and depravity name settled moral corruption and would make the clause self-contradictory. The second blank needs the moral gravity of a sworn covenant broken before God, so transgression is required, while infraction is bureaucratic and impropriety concerns manners and decorum rather than conscience.",
+      "id": "gregmat12__b6__tc2__04",
+      "unit": "gregmat12__b6",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "tc2",
+      "stem": "Colleagues found the contrast at the Vienna congress bewildering: on the platform he was {1}, turning aside the most hostile questions with a joke at his own expense, while at dinner he became {2}, talking over the waiters and sneering audibly at the wine.",
+      "blanks": [
+        {
+          "options": [
+            "urbane",
+            "churlish",
+            "indecorous"
+          ],
+          "answers": [
+            "urbane"
+          ]
+        },
+        {
+          "options": [
+            "boorish",
+            "decorous",
+            "discreet"
+          ],
+          "answers": [
+            "boorish"
+          ]
+        }
+      ],
+      "words": [
+        "urbane"
+      ],
+      "explanation": "The first blank describes hostile questions deflected by light self-deprecating wit — the smooth conversational poise of urbane; churlish and indecorous both name failures of manner and would destroy the contrast the sentence is built on. The second blank must supply that contrast with coarse behavior, so boorish is required, whereas decorous and discreet would describe a man behaving well.",
+      "id": "gregmat12__b6__tc2__06",
+      "unit": "gregmat12__b6",
+      "verified": true,
+      "gregmat_group": 12
+    },
+    {
+      "type": "se",
+      "stem": "Even the columnists who loathed his politics conceded that the ambassador was {1}: he met the evening's rudest question with a joke against himself and had the table laughing before his host could intervene.",
+      "blanks": [
+        {
+          "options": [
+            "urbane",
+            "suave",
+            "cordial",
+            "discreet",
+            "cosmopolitan",
+            "boorish"
+          ],
+          "answers": [
+            "urbane",
+            "suave"
+          ]
+        }
+      ],
+      "words": [
+        "urbane"
+      ],
+      "explanation": "Urbane and suave both name the polished, unruffled ease of manner the anecdote illustrates, and here they are interchangeable. Cosmopolitan is the trap: it praises breadth of experience and travel, not performance in a room, and nothing in the sentence establishes worldliness; cordial names warmth rather than polish, discreet names restraint about what one reveals, and boorish is the opposite.",
+      "id": "gregmat12__b6__se__07",
+      "unit": "gregmat12__b6",
+      "verified": true,
+      "gregmat_group": 12
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence gives no discriminating clue for the blank. The only constraints are that the congregation witnesses something belonging to the offender and that pardon must afterward be sought — which is satisfied equally well by \"transgression\" (the offense itself), \"turpitude\" (moral baseness, and \"moral turpitude\" is the standard collocation for public shaming of offenders), and \"depravity\" (which fits a Puritan sermonic register naturally: \"witness to the offender's depravity\"). \"Contravention\" is weaker only because it usually takes an \"of X\" complement, and \"peccadillo\" is ruled out by the severity implied by bodily punishment and the need for pardon — but that still leaves at least three defensible fills. Nothing in the sentence signals whether the blank should name the act (transgression) or the moral quality (turpitude/depravity), so a reasonable test-taker choosing turpitude or depravity would be marked wrong without cause. To repair it, add a cue that fixes one reading, e.g. \"the offender's single, well-documented ___\" (forcing an act) or \"the offender's ingrained ___\" (forcing a character trait).",
+      "stem": "In Puritan New England the stocks punished the body, but the sentence drew its real force from publicity: the whole congregation was made witness to the offender's {1}, and pardon had afterward to be sought from the town as well as from God."
+    }
+  ]
+}

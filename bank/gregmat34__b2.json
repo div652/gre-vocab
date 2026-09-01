@@ -1,0 +1,234 @@
+{
+  "unit": "gregmat34__b2",
+  "gregmat_group": 34,
+  "words": [
+    "counterfeit",
+    "denigrate",
+    "disciple",
+    "extol"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The dealers who had once {1} the psalter as the crown of the collection went quiet when spectroscopy dated its ink to the 1920s: what they had sold was not a devotional copy made in tribute to a lost original but a {2}, manufactured expressly to be passed off as twelfth-century work.",
+      "blanks": [
+        {
+          "options": [
+            "extolled",
+            "denigrated",
+            "impugned"
+          ],
+          "answers": [
+            "extolled"
+          ]
+        },
+        {
+          "options": [
+            "counterfeit",
+            "replica",
+            "homage"
+          ],
+          "answers": [
+            "counterfeit"
+          ]
+        }
+      ],
+      "words": [
+        "extol",
+        "counterfeit"
+      ],
+      "explanation": "The dealers were selling the book as a treasure, so the first blank must be loud public praise: extolled. The second blank is fixed by \"manufactured expressly to be passed off as\" — a replica is an honest copy and a homage is tribute (already ruled out by \"not a devotional copy made in tribute\"), while counterfeit is the only word that requires both a genuine original and the intent to deceive.",
+      "id": "gregmat34__b2__tc2__00",
+      "unit": "gregmat34__b2",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Trained under Boas and for two decades his most faithful {1}, carrying the master's methods into a dozen departments, Herskovits astonished colleagues with a late memoir that {2} the very fieldwork tradition he had spent his career transmitting, dismissing as amateurish the procedures he had once taught.",
+      "blanks": [
+        {
+          "options": [
+            "disciple",
+            "neophyte",
+            "detractor"
+          ],
+          "answers": [
+            "disciple"
+          ]
+        },
+        {
+          "options": [
+            "denigrated",
+            "extolled",
+            "delineated"
+          ],
+          "answers": [
+            "denigrated"
+          ]
+        }
+      ],
+      "words": [
+        "disciple",
+        "denigrate"
+      ],
+      "explanation": "\"Trained under\" a named master and \"carrying the master's methods\" into other departments describes absorbed doctrine and onward transmission — a disciple; a neophyte is a beginner (contradicted by two decades) and a detractor is the opposite of faithful. \"Dismissing as amateurish\" makes the second blank an unfair talking-down of the tradition's worth, which is denigrated; delineated (merely to describe or outline) is the lookalike trap and extolled reverses the sense.",
+      "id": "gregmat34__b2__tc2__01",
+      "unit": "gregmat34__b2",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "The party's official chronicle is a study in retrospective double standards: it {1} the founder's every improvisation as far-sighted statecraft while {2} the identical improvisations of his rivals as mere opportunism.",
+      "blanks": [
+        {
+          "options": [
+            "extols",
+            "impugns",
+            "delineates"
+          ],
+          "answers": [
+            "extols"
+          ]
+        },
+        {
+          "options": [
+            "denigrating",
+            "burnishing",
+            "canonizing"
+          ],
+          "answers": [
+            "denigrating"
+          ]
+        }
+      ],
+      "words": [
+        "extol",
+        "denigrate"
+      ],
+      "explanation": "\"Double standards\" and the parallel \"while\" require the two blanks to point in opposite directions, and \"far-sighted statecraft\" versus \"mere opportunism\" fixes which is which: high public praise (extols) for the founder, unfair belittling (denigrating) for the rivals. Burnishing and canonizing would both elevate the rivals, destroying the contrast, and delineates is merely neutral description.",
+      "id": "gregmat34__b2__tc2__02",
+      "unit": "gregmat34__b2",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "At the centenary dinner, speaker after speaker {1} the founder's legendary frugality, until an heir rose to observe that the virtue had been practiced chiefly on the payroll.",
+      "blanks": [
+        {
+          "options": [
+            "extolled",
+            "lauded",
+            "catalogued",
+            "denigrated",
+            "disputed",
+            "misremembered"
+          ],
+          "answers": [
+            "extolled",
+            "lauded"
+          ]
+        }
+      ],
+      "words": [
+        "extol"
+      ],
+      "explanation": "The ceremonial setting and the heir's deflating rejoinder establish that the speakers were praising the founder at length and in public, which extolled and lauded both deliver. Catalogued and misremembered fit the grammar and the tone but describe listing or faulty recall rather than praise, and denigrated and disputed invert the sense the final clause depends on.",
+      "id": "gregmat34__b2__se__03",
+      "unit": "gregmat34__b2",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Critics who cannot fault the novel's prose instead {1} its ambitions, recasting a sustained meditation on bereavement as sentimental melodrama.",
+      "blanks": [
+        {
+          "options": [
+            "denigrate",
+            "disparage",
+            "extol",
+            "delineate",
+            "misconstrue",
+            "exaggerate"
+          ],
+          "answers": [
+            "denigrate",
+            "disparage"
+          ]
+        }
+      ],
+      "words": [
+        "denigrate"
+      ],
+      "explanation": "The critics are talking the book's worth down beyond what it deserves — the unfairness is built into denigrate, and disparage is its near-exact equivalent here. Misconstrue is the strongest trap because it fits the recasting clause, but it charges only misunderstanding rather than belittlement and pairs with nothing; exaggerate and delineate change the meaning entirely, and extol reverses it.",
+      "id": "gregmat34__b2__se__04",
+      "unit": "gregmat34__b2",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Having rehearsed his expressions of sorrow before the mirror all morning, the heir still could not {1} grief convincingly, and the mourners noted his dry eyes and drier voice.",
+      "blanks": [
+        {
+          "options": [
+            "counterfeit",
+            "feign",
+            "articulate",
+            "suppress",
+            "sustain",
+            "denigrate"
+          ],
+          "answers": [
+            "counterfeit",
+            "feign"
+          ]
+        }
+      ],
+      "words": [
+        "counterfeit"
+      ],
+      "explanation": "The rehearsal before the mirror tells us the emotion is absent and must be manufactured, so the verb has to mean to simulate a feeling: counterfeit and feign are exact equivalents in this use. Articulate and sustain presuppose real grief that is being expressed or maintained, suppress reverses the situation, and denigrate does not take an emotion as its object in this sense.",
+      "id": "gregmat34__b2__se__05",
+      "unit": "gregmat34__b2",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "The law draws a line the market routinely blurs: a bag sold openly as a thirty-dollar copy is merely an imitation, whereas one bearing a cloned serial number and a duplicated certificate of authenticity is {1}, and trafficking in it is a felony.",
+      "blanks": [
+        {
+          "options": [
+            "counterfeit",
+            "apocryphal",
+            "derivative",
+            "meretricious",
+            "ostentatious"
+          ],
+          "answers": [
+            "counterfeit"
+          ]
+        }
+      ],
+      "words": [
+        "counterfeit"
+      ],
+      "explanation": "The cloned serial number, the duplicated certificate and the felony charge supply exactly what counterfeit requires: a genuine original plus the intent to pass the copy off as it, which is why the word names a crime rather than a mere verdict. Apocryphal concerns doubtful authorship of texts and stories, derivative attacks originality, meretricious means flashy but cheap, and ostentatious describes display — none of them turns on deception about provenance.",
+      "id": "gregmat34__b2__cloze__07",
+      "unit": "gregmat34__b2",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"acolyte\" is a second fully defensible answer. It also denotes a devoted follower of a person or doctrine, takes the same \"of Bentham\" complement, and matches \"less an independent thinker than\" at least as well as \"disciple.\" Nothing in the sentence — absorbing the calculus whole, carrying it into print, later dissenting — distinguishes a disciple from an acolyte, so a test-taker choosing \"acolyte\" would be wrongly marked incorrect. (Neophyte, apologist, and contemporary are properly excluded.) Fix by removing one of the two synonyms or adding a cue that separates formal pupilage from mere devoted attendance.",
+      "stem": "In his twenties Mill was less an independent thinker than a {1} of Bentham, absorbing the felicific calculus whole and carrying it into print for a decade before he began to dissent from it."
+    }
+  ]
+}

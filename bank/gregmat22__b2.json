@@ -1,0 +1,179 @@
+{
+  "unit": "gregmat22__b2",
+  "gregmat_group": 22,
+  "words": [
+    "extrapolate",
+    "falter",
+    "fervent",
+    "foment"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The ice cores span barely four centuries, so any reconstruction that {1} their measured trend into the preceding millennium remains {2}, however smooth the resulting curve appears.",
+      "blanks": [
+        {
+          "options": [
+            "extrapolates",
+            "corroborates",
+            "attenuates"
+          ],
+          "answers": [
+            "extrapolates"
+          ]
+        },
+        {
+          "options": [
+            "conjectural",
+            "definitive",
+            "exhaustive"
+          ],
+          "answers": [
+            "conjectural"
+          ]
+        }
+      ],
+      "words": [
+        "extrapolate"
+      ],
+      "explanation": "Blank 1 needs the verb for pushing an existing trend past the data into territory the cores do not cover: extrapolates. Corroborates would mean the trend confirms something (there is nothing to confirm beyond the record) and attenuates means weakens. Because the second clause describes what such a projection is worth, only conjectural fits — definitive and exhaustive are precisely what a leap past the evidence cannot be.",
+      "id": "gregmat22__b2__tc2__00",
+      "unit": "gregmat22__b2",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Working from a single quarter of unusually strong sales, the analysts {1} a decade of uninterrupted expansion — a conclusion the company's own engineers thought reckless.",
+      "blanks": [
+        {
+          "options": [
+            "extrapolated",
+            "projected",
+            "surmised",
+            "tabulated",
+            "disputed",
+            "discounted"
+          ],
+          "answers": [
+            "extrapolated",
+            "projected"
+          ]
+        }
+      ],
+      "words": [
+        "extrapolate"
+      ],
+      "explanation": "The analysts had real data (one quarter) and pushed its direction forward, which is exactly extrapolated or projected; the two yield the same sentence. Surmised describes a guess with no method or trend behind it, and tabulated, disputed and discounted all fit grammatically while reversing or trivializing what the analysts did with the figures.",
+      "id": "gregmat22__b2__se__01",
+      "unit": "gregmat22__b2",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "cloze",
+      "stem": "Reading the casualty lists aloud at the memorial, the prime minister {1} only once — a single break in an otherwise unbroken hour — and then read steadily to the end.",
+      "blanks": [
+        {
+          "options": [
+            "faltered",
+            "prevailed",
+            "languished",
+            "digressed",
+            "demurred"
+          ],
+          "answers": [
+            "faltered"
+          ]
+        }
+      ],
+      "words": [
+        "falter"
+      ],
+      "explanation": "The appositive defines the event as a break in something already underway that then resumes, which is precisely faltered. Digressed would mean wandering from the text rather than losing steadiness, demurred means objecting, and prevailed and languished describe outcomes over a whole course of events, not one momentary lapse.",
+      "id": "gregmat22__b2__cloze__03",
+      "unit": "gregmat22__b2",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "tc2",
+      "stem": "Newman's letters record a hope so {1} that even skeptical readers are moved by it, and yet the prose that carries it stays {2}, refusing every ornament the sentiment might have licensed.",
+      "blanks": [
+        {
+          "options": [
+            "fervent",
+            "florid",
+            "perfunctory"
+          ],
+          "answers": [
+            "fervent"
+          ]
+        },
+        {
+          "options": [
+            "austere",
+            "effusive",
+            "mercenary"
+          ],
+          "answers": [
+            "austere"
+          ]
+        }
+      ],
+      "words": [
+        "fervent"
+      ],
+      "explanation": "A hope that moves even skeptics is sincere and deeply felt — fervent; perfunctory is its opposite, and florid describes ornate style, which the second clause explicitly denies. That denial of ornament makes austere the only fit for blank 2, since effusive would contradict \"refusing every ornament\" and mercenary is about motive rather than manner.",
+      "id": "gregmat22__b2__tc2__04",
+      "unit": "gregmat22__b2",
+      "verified": true,
+      "gregmat_group": 22
+    },
+    {
+      "type": "se",
+      "stem": "Her {1} wish that the manuscripts survive the war runs through every letter she sent from Kraków, unembarrassed by its own intensity and repeated almost as a prayer.",
+      "blanks": [
+        {
+          "options": [
+            "fervent",
+            "ardent",
+            "tepid",
+            "calculated",
+            "conventional",
+            "guarded"
+          ],
+          "answers": [
+            "fervent",
+            "ardent"
+          ]
+        }
+      ],
+      "words": [
+        "fervent"
+      ],
+      "explanation": "\"Unembarrassed by its own intensity\" and \"almost as a prayer\" call for burning sincerity, which fervent and ardent both supply in equivalent measure. Tepid and guarded fit the noun grammatically but drain the heat the sentence insists on, while calculated and conventional impute strategy or mere convention to a feeling the letters present as genuine.",
+      "id": "gregmat22__b2__se__05",
+      "unit": "gregmat22__b2",
+      "verified": true,
+      "gregmat_group": 22
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} is cleanly determined: only \"surmounted\" can take \"the passes\" as an object in a sense consistent with completing the route (\"regressed\" is intransitive/wrong-meaning, \"obstructed\" reverses the agent). Blank {1} is not cleanly determined. The sentence only requires a word meaning \"lost momentum / went slowly,\" which the \"persistence over pace\" framing and the concessive \"yet\" set up. \"Faltered\" is the idiomatic and best choice, but \"languished\" (grew feeble, lost vigor, made no headway) also genuinely fits the same slot — a columns that languished on every ascent yet still cleared the passes in time is exactly the same slow-but-persistent contrast. The only thing separating the two is collocational polish (\"faltered on an ascent\" is natural; \"languished on an ascent\" is stilted), not meaning, so a reasonable test-taker choosing \"languished\" would be marked wrong on idiom alone. Only \"disbanded\" is a clean distractor. To fix, replace \"languished\" with a word that contradicts the persistence framing (e.g. \"prevailed\" or \"surged\"), or add a detail that requires momentary stumbling rather than sustained enfeeblement.",
+      "stem": "Accounts of the retreat stress persistence over pace: the columns {1} on nearly every ascent, yet almost all of them {2} the passes before the snows closed the route."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {1} offers two defensible synonyms. \"Fomenting\" and \"inciting\" both mean stirring up, and both fit \"resentment\" idiomatically; only \"forestalling\" is excluded by the contrast with the governor's \"spontaneous\" framing. The intended discriminator seems to be that \"foment\" suits slow cultivation over eight months while \"incite\" suggests a sudden trigger, but that nuance is too fine to eliminate \"inciting resentment,\" which is standard English. A test-taker picking \"inciting\" would be marked wrong on no firm textual basis. Fix by replacing one distractor with a genuine near-miss (e.g., \"publicizing\" or \"documenting\") so only one stirring-up verb remains. Blank {2} is sound: \"carefully ___ any single confrontation that might have brought troops in early\" forces prevention, so \"averting\" is uniquely correct and \"precipitating\"/\"provoking\" are both cleanly inverted.",
+      "stem": "The governor's report cast the strike as spontaneous, but the union ledgers show that outside organizers had spent eight months {1} resentment in the mill towns while carefully {2} any single confrontation that might have brought troops in early."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence clearly requires \"stir up discord\" (opposed to \"conquer,\" explained by funding rival chieftains so no confederation forms), which eliminates quash, avert, and exhort. But two options remain defensible: \"foment\" and \"incite\" are both standard verbs for stirring up discord, and \"incite discord\" is idiomatic English. The intended discriminator is presumably that \"foment\" carries the durative, slow-nurturing sense matching \"a patient business ... decade after decade,\" whereas \"incite\" suggests a sudden trigger — but that is a fine shade of connotation, not an exclusion: one can perfectly well incite discord repeatedly over decades. A reasonable test-taker who picks \"incite\" would be marked wrong on a distinction the sentence does not actually enforce. Fix by removing \"incite\" as a distractor, or by adding wording that positively demands the slow-cultivation sense (e.g. \"not to spark but to slowly ___ discord\").",
+      "stem": "Rome's frontier policy was less to conquer than to {1} discord among the tribes beyond the Rhine — a patient business of funding rival chieftains decade after decade, so that no confederation could ever form."
+    }
+  ]
+}

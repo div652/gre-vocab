@@ -1,0 +1,237 @@
+{
+  "unit": "gregmat05__b2",
+  "gregmat_group": 5,
+  "words": [
+    "extravagant",
+    "fanciful",
+    "frivolous",
+    "heterogeneous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though he is scrupulous with dates and documents, the biographer becomes {1} the moment he turns to his subject's inner life, advancing {2} claims about motive that the surviving letters cannot begin to support.",
+      "blanks": [
+        {
+          "options": [
+            "unmoored",
+            "fastidious",
+            "reticent"
+          ],
+          "answers": [
+            "unmoored"
+          ]
+        },
+        {
+          "options": [
+            "extravagant",
+            "profligate",
+            "exorbitant"
+          ],
+          "answers": [
+            "extravagant"
+          ]
+        }
+      ],
+      "words": [
+        "extravagant"
+      ],
+      "explanation": "The concessive \"though ... scrupulous\" demands a word for lost discipline, so \"unmoored\" fits while \"fastidious\" merely repeats the concession and \"reticent\" contradicts \"advancing claims.\" For the second blank, only \"extravagant\" leaves money behind: it judges proportion, saying the claims overshoot the evidence, whereas \"profligate\" condemns wasteful spending and \"exorbitant\" describes a grossly high price or demand — neither can be said of a claim about motive.",
+      "id": "gregmat05__b2__tc2__00",
+      "unit": "gregmat05__b2",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "So {1} was the praise that greeted the young pianist's debut — one critic invoked Liszt within the first paragraph — that his later, more disciplined performances were received almost as disappointments.",
+      "blanks": [
+        {
+          "options": [
+            "extravagant",
+            "lavish",
+            "profligate",
+            "perfunctory",
+            "grudging",
+            "tepid"
+          ],
+          "answers": [
+            "extravagant",
+            "lavish"
+          ]
+        }
+      ],
+      "words": [
+        "extravagant"
+      ],
+      "explanation": "The Liszt comparison and the subsequent letdown require praise poured out far beyond the occasion, which both \"extravagant\" and \"lavish\" convey (the first faults the disproportion, the second admires the abundance, but the sentences mean the same thing here). \"Profligate\" is confined to ruinous spending, and \"perfunctory,\" \"grudging,\" and \"tepid\" all fit the noun comfortably but reverse the logic — stinted praise would not make later performances seem a comedown.",
+      "id": "gregmat05__b2__se__01",
+      "unit": "gregmat05__b2",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Wegener's proposal that the continents had once been joined was long dismissed as {1} — a picture too tidy and too pleasing to be true — and only the discovery of magnetic striping on the sea floor, which at last supplied a mechanism, made the idea {2} enough for geologists to build upon.",
+      "blanks": [
+        {
+          "options": [
+            "fanciful",
+            "futile",
+            "efficacious"
+          ],
+          "answers": [
+            "fanciful"
+          ]
+        },
+        {
+          "options": [
+            "tenable",
+            "quixotic",
+            "illusory"
+          ],
+          "answers": [
+            "tenable"
+          ]
+        }
+      ],
+      "words": [
+        "fanciful"
+      ],
+      "explanation": "The appositive says the idea was charming but unsupported by any mechanism, which is exactly \"fanciful\" — dreamed up rather than reasoned out; \"futile\" would fault its ineffectiveness, not its ungroundedness, and \"efficacious\" is the reverse. Supplying a mechanism makes a hypothesis \"tenable\" (defensible, able to be held), whereas \"quixotic\" and \"illusory\" would restate the old objection the discovery removed.",
+      "id": "gregmat05__b2__tc2__02",
+      "unit": "gregmat05__b2",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "cloze",
+      "stem": "Gaudí crowned the roof of the Casa Milà with a crowd of {1} chimneys — twisted into knights' helmets, scaled over with broken tile — that turned a purely functional structure into playful sculpture.",
+      "blanks": [
+        {
+          "options": [
+            "fanciful",
+            "frivolous",
+            "austere",
+            "opulent",
+            "quixotic"
+          ],
+          "answers": [
+            "fanciful"
+          ]
+        }
+      ],
+      "words": [
+        "fanciful"
+      ],
+      "explanation": "In its second sense \"fanciful\" is a compliment about imaginative, playfully inventive design, which matches \"turned ... into playful sculpture.\" \"Frivolous\" is a verdict of worthlessness rather than a description of invention, and the admiring tone forbids it; \"austere\" is the opposite, \"opulent\" would require costly richness rather than broken tile, and \"quixotic\" describes impractical idealism in a pursuit, not ornament.",
+      "id": "gregmat05__b2__cloze__03",
+      "unit": "gregmat05__b2",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "Her contemporaries, charmed by her wit but misled by her devotion to masquerade and faro, wrote the Duchess off as {1}; the political correspondence recovered in 1968, dense with shrewd calculation, has obliged historians to {2} that verdict.",
+      "blanks": [
+        {
+          "options": [
+            "frivolous",
+            "vapid",
+            "staid"
+          ],
+          "answers": [
+            "frivolous"
+          ]
+        },
+        {
+          "options": [
+            "revise",
+            "corroborate",
+            "echo"
+          ],
+          "answers": [
+            "revise"
+          ]
+        }
+      ],
+      "words": [
+        "frivolous"
+      ],
+      "explanation": "Applied to a person, \"frivolous\" means given to trifles and not to be trusted with anything grave, which is precisely what a life of masquerade and cards suggested; \"vapid\" means insipid and dull and is ruled out by \"charmed by her wit,\" and \"staid\" contradicts the whole picture. Since the recovered letters show calculation the contemporaries missed, historians must \"revise\" the verdict rather than \"corroborate\" or \"echo\" it.",
+      "id": "gregmat05__b2__tc2__04",
+      "unit": "gregmat05__b2",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "se",
+      "stem": "The reviewers abandoned the planned meta-analysis after concluding that the twelve trials — differing in dosage, in duration, and in the very definition of recovery — were too {1} for their results to be pooled meaningfully.",
+      "blanks": [
+        {
+          "options": [
+            "heterogeneous",
+            "disparate",
+            "homogeneous",
+            "fungible",
+            "eclectic",
+            "analogous"
+          ],
+          "answers": [
+            "heterogeneous",
+            "disparate"
+          ]
+        }
+      ],
+      "words": [
+        "heterogeneous"
+      ],
+      "explanation": "Pooling fails when the studies are unlike one another in kind, which both \"heterogeneous\" (a compositional measurement of the whole set) and \"disparate\" (unlike each other) express, yielding equivalent sentences. \"Homogeneous,\" \"fungible,\" and \"analogous\" all assert the sameness that would license pooling, and \"eclectic\" praises a deliberately varied selection rather than flagging the statistical obstacle.",
+      "id": "gregmat05__b2__se__06",
+      "unit": "gregmat05__b2",
+      "verified": true,
+      "gregmat_group": 5
+    },
+    {
+      "type": "tc2",
+      "stem": "The imperial census of 1897 proceeded as though the population were {1}, countable by one rule and canvassed in one language; today's demographers, facing a body of subjects so {2} that no single questionnaire reaches them all, disaggregate before they add anything up.",
+      "blanks": [
+        {
+          "options": [
+            "homogeneous",
+            "heterodox",
+            "eclectic"
+          ],
+          "answers": [
+            "homogeneous"
+          ]
+        },
+        {
+          "options": [
+            "heterogeneous",
+            "fungible",
+            "incongruous"
+          ],
+          "answers": [
+            "heterogeneous"
+          ]
+        }
+      ],
+      "words": [
+        "heterogeneous"
+      ],
+      "explanation": "One rule and one language presuppose a uniform population, so \"homogeneous\" is required; \"heterodox\" means unorthodox in belief and is only a lookalike, while \"eclectic\" would assert the variety the census ignored. The contrasting clause needs the compositional term for a whole made of unlike parts — \"heterogeneous\" — whereas \"fungible\" means interchangeable (the opposite of the problem) and \"incongruous\" describes a mismatch between things rather than the mixed makeup of a population.",
+      "id": "gregmat05__b2__tc2__07",
+      "unit": "gregmat05__b2",
+      "verified": true,
+      "gregmat_group": 5
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Trifling\" is a genuinely defensible second answer: dictionaries define trifling as \"lacking in significance or solid worth: frivolous, trivial,\" so it overlaps directly with the intended key. The sentence's result clause (\"no court would even set it down for argument\") and the budget irony both work equally well with a suit that is trivial/of no worth as with one that is legally meritless, so nothing in the sentence forces \"frivolous\" over \"trifling.\" \"Paltry\" is a weaker but not absurd third possibility. To make the item unique, the sentence would need a cue pointing specifically at lack of legal merit rather than smallness (e.g., \"so ___ that its central claim had no basis in law\").",
+      "stem": "Legislators were told that the agency had spent a quarter of its annual litigation budget pursuing a suit so {1} that no court would even set it down for argument."
+    }
+  ]
+}

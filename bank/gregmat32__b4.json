@@ -1,0 +1,229 @@
+{
+  "unit": "gregmat32__b4",
+  "gregmat_group": 32,
+  "words": [
+    "malevolent",
+    "mediate",
+    "occlude",
+    "pacify"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Historians of the reign still dispute whether the chancellor was genuinely {1}, privately relishing the ruin of rivals he never actually moved against, or merely {2}, unmoved by suffering he had no particular wish to cause.",
+      "blanks": [
+        {
+          "options": [
+            "malevolent",
+            "magnanimous",
+            "munificent"
+          ],
+          "answers": [
+            "malevolent"
+          ]
+        },
+        {
+          "options": [
+            "callous",
+            "sadistic",
+            "beneficent"
+          ],
+          "answers": [
+            "callous"
+          ]
+        }
+      ],
+      "words": [
+        "malevolent"
+      ],
+      "explanation": "The first blank needs a settled inner wish for others' harm that produced no deed — precisely malevolent, whereas magnanimous and munificent are the bene- side of the pair. The second blank is the milder alternative on the same scale: callous is indifference to suffering, while sadistic would mean he enjoyed causing it, contradicting \"no particular wish to cause.\"",
+      "id": "gregmat32__b4__tc2__00",
+      "unit": "gregmat32__b4",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "Offering a month of free service, the company hoped to {1} subscribers enraged by the outage, but the gesture struck many as an attempt to purchase quiet rather than to explain the failure.",
+      "blanks": [
+        {
+          "options": [
+            "pacify",
+            "placate",
+            "indulge",
+            "rebuke",
+            "incite",
+            "embolden"
+          ],
+          "answers": [
+            "pacify",
+            "placate"
+          ]
+        }
+      ],
+      "words": [
+        "pacify"
+      ],
+      "explanation": "The company wants the anger switched off, and \"purchase quiet\" points to pacify and placate, which are interchangeable here. Indulge and rebuke fit the grammar and the corporate register but change the meaning entirely, while incite and embolden reverse the direction of the sentence.",
+      "id": "gregmat32__b4__se__02",
+      "unit": "gregmat32__b4",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "The general's dispatches described a province thoroughly {1}, a term that tidily concealed the burned villages and mass deportations by which the quiet had been obtained.",
+      "blanks": [
+        {
+          "options": [
+            "pacified",
+            "mediated",
+            "propitiated",
+            "mollified",
+            "reconciled"
+          ],
+          "answers": [
+            "pacified"
+          ]
+        }
+      ],
+      "words": [
+        "pacify"
+      ],
+      "explanation": "Only pacify scales up from a person's anger to a territory forced into submission, which is exactly why it functions as the euphemism the sentence exposes. Mollified and propitiated soothe an offended party rather than subdue a region, and mediated or reconciled would imply an agreement the deportations plainly preclude.",
+      "id": "gregmat32__b4__cloze__03",
+      "unit": "gregmat32__b4",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Because the commission was empowered only to {1} the border dispute rather than to decide it, the settlement it eventually produced had no force beyond the two governments' own {2}.",
+      "blanks": [
+        {
+          "options": [
+            "mediate",
+            "arbitrate",
+            "adjudicate"
+          ],
+          "answers": [
+            "mediate"
+          ]
+        },
+        {
+          "options": [
+            "consent",
+            "intransigence",
+            "jurisdiction"
+          ],
+          "answers": [
+            "consent"
+          ]
+        }
+      ],
+      "words": [
+        "mediate"
+      ],
+      "explanation": "\"Rather than to decide it\" strips the commission of ruling power, which is the defining limit of a mediator; an arbitrator or an adjudicator issues a binding decision. The second blank follows from the first: a settlement no one was compelled to accept rests entirely on the parties' consent, not on their intransigence or their jurisdiction.",
+      "id": "gregmat32__b4__tc2__04",
+      "unit": "gregmat32__b4",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "cloze",
+      "stem": "The trial found that the antidepressant's effect on mood was largely {1} by improvements in sleep: patients whose sleep did not change showed almost no benefit.",
+      "blanks": [
+        {
+          "options": [
+            "mediated",
+            "occluded",
+            "precluded",
+            "pacified",
+            "reconciled"
+          ],
+          "answers": [
+            "mediated"
+          ]
+        }
+      ],
+      "words": [
+        "mediate"
+      ],
+      "explanation": "This is the flat academic sense of mediated by, meaning transmitted through — sleep is the middle term the drug's benefit must pass through. Precluded would mean the improvement prevented the effect, which the data contradict, and occluded describes a sealed passage or a blocked line of sight, not a causal pathway.",
+      "id": "gregmat32__b4__cloze__05",
+      "unit": "gregmat32__b4",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "tc2",
+      "stem": "Radiologists prize the new angiographic method because it renders vessels so nearly {1} that older scanners read them as simply absent, and it does so without the contrast agents that {2} the surrounding tissue and complicate every reading.",
+      "blanks": [
+        {
+          "options": [
+            "occluded",
+            "eclipsed",
+            "dilated"
+          ],
+          "answers": [
+            "occluded"
+          ]
+        },
+        {
+          "options": [
+            "obscure",
+            "elucidate",
+            "delineate"
+          ],
+          "answers": [
+            "obscure"
+          ]
+        }
+      ],
+      "words": [
+        "occlude"
+      ],
+      "explanation": "A vessel sealed shut enough to vanish from an older scan is occluded — the clinical word for a closed passage; eclipsed concerns being outshone or hidden by an intervening body, and dilated reverses the sense. The second blank must name a drawback the new method avoids, so it takes obscure rather than elucidate or delineate, which would be virtues no one boasts of doing without.",
+      "id": "gregmat32__b4__tc2__06",
+      "unit": "gregmat32__b4",
+      "verified": true,
+      "gregmat_group": 32
+    },
+    {
+      "type": "se",
+      "stem": "From the cheapest seats a steel pillar {1} half the stage, so that entrances from the left were audible for a full second before anyone could be seen making them.",
+      "blanks": [
+        {
+          "options": [
+            "occluded",
+            "obscured",
+            "framed",
+            "dominated",
+            "elucidated",
+            "delineated"
+          ],
+          "answers": [
+            "occluded",
+            "obscured"
+          ]
+        }
+      ],
+      "words": [
+        "occlude"
+      ],
+      "explanation": "Something physically interposed cuts off the line of sight, and here occluded and obscured yield the same sentence. Framed and dominated are perfectly idiomatic about a pillar and a stage but describe composition or visual weight rather than blockage, and elucidated and delineated would make the pillar clarify what it in fact hides.",
+      "id": "gregmat32__b4__se__07",
+      "unit": "gregmat32__b4",
+      "verified": true,
+      "gregmat_group": 32
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only constrains the blank to \"hostile / ill-willed,\" and the option set contains two words that both satisfy that: \"malevolent\" and \"malicious.\" Nothing in the clause \"a wordless insistence that they be gone\" discriminates between wishing ill (malevolent) and intending harm/spite (malicious) — a test-taker picking \"malicious\" has a fully defensible reading and would be marked wrong. The other three options (munificent, benign, sordid) are easy throwaways, so the item is effectively a coin flip between two synonyms. To fix, replace \"malicious\" with a non-hostile distractor, or add a cue that requires the specific shade of one word (e.g., petty/spiteful mischief vs. brooding ill will).",
+      "stem": "Nothing in the old rectory could be called an event — no slamming doors, no sudden chill — and yet every visitor reported a {1} presence, a wordless insistence that they be gone."
+    }
+  ]
+}

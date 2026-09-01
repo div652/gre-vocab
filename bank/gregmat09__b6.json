@@ -1,0 +1,203 @@
+{
+  "unit": "gregmat09__b6",
+  "gregmat_group": 9,
+  "words": [
+    "precarious",
+    "quirky",
+    "repudiate",
+    "tact"
+  ],
+  "questions": [
+    {
+      "type": "se",
+      "stem": "The coalition's majority was {1}: it rested on two independents who exacted fresh concessions for every vote and could withdraw their support the moment the concessions stopped.",
+      "blanks": [
+        {
+          "options": [
+            "precarious",
+            "perilous",
+            "fraught",
+            "tenuous",
+            "unassailable",
+            "entrenched"
+          ],
+          "answers": [
+            "precarious",
+            "tenuous"
+          ]
+        }
+      ],
+      "words": [
+        "precarious"
+      ],
+      "explanation": "A majority that holds only until two men choose otherwise is precarious, and tenuous gives the same sense of a hold that could part at any moment. Perilous would mean the majority endangers others rather than being itself unstable, and fraught describes an atmosphere of tension, not a support that can be withdrawn; entrenched and unassailable state the opposite.",
+      "id": "gregmat09__b6__se__01",
+      "unit": "gregmat09__b6",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "Critics arriving in expectation of an {1} assault on the conventions of the realist novel found instead a book whose departures from them were merely {2}: a narrator who counts streetlamps, chapters that break off mid-sentence, a running joke about cheese.",
+      "blanks": [
+        {
+          "options": [
+            "iconoclastic",
+            "idiosyncratic",
+            "decorous"
+          ],
+          "answers": [
+            "iconoclastic"
+          ]
+        },
+        {
+          "options": [
+            "radical",
+            "quirky",
+            "abrasive"
+          ],
+          "answers": [
+            "quirky"
+          ]
+        }
+      ],
+      "words": [
+        "quirky"
+      ],
+      "explanation": "The sentence is built on a let-down between an expected attack on convention and what was actually there, so the first blank needs the tradition-smashing word, iconoclastic; idiosyncratic merely means personally distinctive and mounts no assault. The second blank, governed by merely and by three small endearing examples, needs quirky, while radical would restore the very force the sentence denies and abrasive imports an unpleasantness the examples contradict.",
+      "id": "gregmat09__b6__tc2__03",
+      "unit": "gregmat09__b6",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Within a month of taking office the junta announced that it would {1} the border treaty its predecessors had signed, insisting that no obligation contracted by a corrupt regime could bind the nation.",
+      "blanks": [
+        {
+          "options": [
+            "repudiate",
+            "forgo",
+            "renounce",
+            "recant",
+            "ratify",
+            "eschew"
+          ],
+          "answers": [
+            "repudiate",
+            "renounce"
+          ]
+        }
+      ],
+      "words": [
+        "repudiate"
+      ],
+      "explanation": "An inherited treaty is a tie the state formally and publicly cuts, which repudiate and renounce both express with equivalent force. Recant would require the junta to be taking back its own earlier statement rather than another government's act; eschew and forgo mean to abstain from or do without something, not to disown a standing obligation, and ratify is its opposite.",
+      "id": "gregmat09__b6__se__04",
+      "unit": "gregmat09__b6",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "cloze",
+      "stem": "Etiquette manuals were of no use to her that evening: what the situation demanded was {1} — the judgement to know which of the truths she owed him could be told, and in which order, before the guests arrived.",
+      "blanks": [
+        {
+          "options": [
+            "decorum",
+            "tact",
+            "propriety",
+            "deference",
+            "candor"
+          ],
+          "answers": [
+            "tact"
+          ]
+        }
+      ],
+      "words": [
+        "tact"
+      ],
+      "explanation": "The dismissal of the manuals rules out decorum and propriety, which are precisely the codified rules anyone can look up; what remains is live judgement exercised on someone with feelings at stake, which is tact. Candor names the willingness to speak plainly rather than the skill of choosing what and when, and deference is mere yielding to another's standing.",
+      "id": "gregmat09__b6__cloze__05",
+      "unit": "gregmat09__b6",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "tc2",
+      "stem": "The truce was {1} enough that a single ill-chosen phrase at the press conference might have undone it, and the envoy's achievement lay less in the terms he extracted than in the {2} with which he announced them, granting each side its dignity without granting a clause.",
+      "blanks": [
+        {
+          "options": [
+            "protracted",
+            "inviolable",
+            "precarious"
+          ],
+          "answers": [
+            "precarious"
+          ]
+        },
+        {
+          "options": [
+            "bravado",
+            "tact",
+            "erudition"
+          ],
+          "answers": [
+            "tact"
+          ]
+        }
+      ],
+      "words": [
+        "precarious",
+        "tact"
+      ],
+      "explanation": "An arrangement that one sentence could destroy is holding only until something withdraws its support, so the first blank is precarious; protracted describes duration and inviolable asserts the very stability the clause denies. The second blank is about delivery — the right words to two wounded parties at the exact moment — which is tact, whereas bravado would inflame them and erudition has nothing to do with how a statement lands.",
+      "id": "gregmat09__b6__tc2__06",
+      "unit": "gregmat09__b6",
+      "verified": true,
+      "gregmat_group": 9
+    },
+    {
+      "type": "se",
+      "stem": "Colleagues remembered him as the only doctor on the ward who could give a family the worst news with any {1}: he seemed to know which words they could take, and in what order.",
+      "blanks": [
+        {
+          "options": [
+            "candor",
+            "tact",
+            "forbearance",
+            "delicacy",
+            "detachment",
+            "decorum"
+          ],
+          "answers": [
+            "tact",
+            "delicacy"
+          ]
+        }
+      ],
+      "words": [
+        "tact"
+      ],
+      "explanation": "The second clause defines the quality as an instinct for which words a grieving family can absorb, which tact and delicacy both name in this context. Candor would praise bluntness instead of judgement, detachment would praise distance from the family's feelings, and decorum and forbearance describe outward propriety and patient restraint rather than the choosing of words at the moment of delivery.",
+      "id": "gregmat09__b6__se__07",
+      "unit": "gregmat09__b6",
+      "verified": true,
+      "gregmat_group": 9
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 1 is clean (precarious). Blank 2 is not fully constrained: the sentence only requires \"a risky action a fragile government would avoid,\" and it never indicates whether the two propping provincial parties favor or oppose the agreement. Because signing and ratifying are distinct steps, \"the trade agreement its predecessor had signed\" leaves ratification genuinely open, so \"ratify\" yields a coherent sentence (backbenchers loudly demand ratification; the government can't risk it). \"Repudiate\" is the better, more idiomatic answer given the emphasis on the inherited deal, but \"ratify\" is defensible enough to trap a reasonable test-taker. Adding a cue about the provincial parties' support for the deal, or saying the agreement was already in force, would fix it.",
+      "stem": "Because the new government's hold on power was so {1} — it survived only by the forbearance of two provincial parties — it could not afford to {2} the trade agreement its predecessor had signed, however loudly its own backbenchers demanded that it do so."
+    },
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"eccentric\" is also fully defensible. The sentence only establishes that the oddness is mild rather than stare-worthy, which excludes \"bizarre\" (too strong) and the two doctrine words (\"iconoclastic,\" \"heterodox,\" which concern challenging orthodox belief, not decorative charm) — but it does not discriminate between \"quirky\" and \"eccentric,\" which are near-synonyms on the same axis. Indeed \"merely eccentric\" is a standard downgrading collocation, and the listed details (a tortoise by the till, closing whenever it rains) are as readily called eccentricities as quirks. A test-taker choosing \"eccentric\" would be marked wrong on an unstated intensity gradation. To fix, either drop \"eccentric\" from the options or add a cue that forces the milder/more endearing reading (e.g., \"too small-scale to count as genuine eccentricity; its appeal is merely ___\").",
+      "stem": "Nothing in the bookshop is odd enough to make a passerby stare; its appeal is merely {1} — hand-lettered shelf labels, a tortoise asleep by the till, a policy of closing whenever it rains."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat34__b7",
+  "gregmat_group": 34,
+  "words": [
+    "propitiate",
+    "recapitulate"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Since the tribunal could revoke the colony's charter at whim, the governor's annual shipments of silver were less negotiation than tribute, an attempt to {1} a body that owed him nothing; the settlers, by contrast, he assumed could be {2} with a proclamation and a public dinner.",
+      "blanks": [
+        {
+          "options": [
+            "propitiate",
+            "recapitulate",
+            "precipitate"
+          ],
+          "answers": [
+            "propitiate"
+          ]
+        },
+        {
+          "options": [
+            "mollified",
+            "distilled",
+            "perpetuated"
+          ],
+          "answers": [
+            "mollified"
+          ]
+        }
+      ],
+      "words": [
+        "propitiate"
+      ],
+      "explanation": "The first blank needs a word for buying back the favour of a power one cannot resist, and the tribute-not-negotiation framing supplies exactly the upward hierarchy and costly offering that propitiate carries; precipitate (to hasten or hurl down) and recapitulate (to sum up ground already covered) are lookalikes with no relevant sense. The second blank describes merely soothing a mood cheaply, which is mollify's work rather than the paying-upward of the first blank, and neither distilled nor perpetuated says anything about anger.",
+      "id": "gregmat34__b7__tc2__00",
+      "unit": "gregmat34__b7",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "cloze",
+      "stem": "Convinced that the three-year drought was a punishment, the villagers slaughtered the last of their oxen at the water's edge in the hope of {1} the offended river-god.",
+      "blanks": [
+        {
+          "options": [
+            "propitiating",
+            "precipitating",
+            "capitulating",
+            "recapitulating",
+            "presaging"
+          ],
+          "answers": [
+            "propitiating"
+          ]
+        }
+      ],
+      "words": [
+        "propitiate"
+      ],
+      "explanation": "A sacrifice offered to an angry deity is the paradigm case of propitiating: winning back the favour of a superior power by giving something up. Precipitating would mean bringing the god on suddenly, capitulating is intransitive surrender rather than something done to a god, and recapitulating and presaging concern summary and foretelling, not appeasement.",
+      "id": "gregmat34__b7__cloze__01",
+      "unit": "gregmat34__b7",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "se",
+      "stem": "Nothing in the final chapter is new: it {1} the argument of the preceding six, compressing into ten pages what the reader has already followed at length.",
+      "blanks": [
+        {
+          "options": [
+            "recapitulates",
+            "summarizes",
+            "anticipates",
+            "vindicates",
+            "complicates",
+            "supersedes"
+          ],
+          "answers": [
+            "recapitulates",
+            "summarizes"
+          ]
+        }
+      ],
+      "words": [
+        "recapitulate"
+      ],
+      "explanation": "The sentence supplies both halves of the definition, material already covered and now compressed, so recapitulates and summarizes yield sentences of the same meaning. Anticipates contradicts \"nothing is new,\" complicates contradicts the compression, and vindicates and supersedes describe defending or replacing the earlier chapters rather than condensing them.",
+      "id": "gregmat34__b7__se__02",
+      "unit": "gregmat34__b7",
+      "verified": true,
+      "gregmat_group": 34
+    },
+    {
+      "type": "tc2",
+      "stem": "Her opening slide was almost aggressively {1}, boiling a decade of fieldwork down to five bullet points before a word of evidence had been offered; only in the closing minutes did she {2} the argument, retracing for a tired audience the very steps they had just been walked through.",
+      "blanks": [
+        {
+          "options": [
+            "synoptic",
+            "reiterative",
+            "redundant"
+          ],
+          "answers": [
+            "synoptic"
+          ]
+        },
+        {
+          "options": [
+            "recapitulate",
+            "distill",
+            "precipitate"
+          ],
+          "answers": [
+            "recapitulate"
+          ]
+        }
+      ],
+      "words": [
+        "recapitulate"
+      ],
+      "explanation": "The two blanks turn on the same distinction from opposite ends: a compression offered before the evidence is synoptic, while the closing pass back over ground the audience has already covered is a recapitulation, the re- being load-bearing. Reiterative and redundant fail because nothing has yet been said to repeat, and distill, like synoptic, can open a work but carries no sense of retracing an earlier sequence.",
+      "id": "gregmat34__b7__tc2__03",
+      "unit": "gregmat34__b7",
+      "verified": true,
+      "gregmat_group": 34
+    }
+  ],
+  "rejects": []
+}

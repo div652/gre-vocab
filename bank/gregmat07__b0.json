@@ -1,0 +1,247 @@
+{
+  "unit": "gregmat07__b0",
+  "gregmat_group": 7,
+  "words": [
+    "appease",
+    "arbitrary",
+    "archaic",
+    "clamorous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Facing a {1} press corps that would not disperse from the ministry steps until it had a name, the minister tried to {2} it by offering up a single clerk from the middle ranks — a concession that only sharpened the demand for someone senior.",
+      "blanks": [
+        {
+          "options": [
+            "clamorous",
+            "taciturn",
+            "subdued"
+          ],
+          "answers": [
+            "clamorous"
+          ]
+        },
+        {
+          "options": [
+            "appease",
+            "antagonize",
+            "alienate"
+          ],
+          "answers": [
+            "appease"
+          ]
+        }
+      ],
+      "words": [
+        "clamorous",
+        "appease"
+      ],
+      "explanation": "The refusal to disperse until a name is produced makes this a mass of voices pressing one demand, which is precisely clamorous; taciturn and subdued describe the opposite condition. Appease is required in the second blank because the minister buys quiet by yielding something the crowd wants, and the yielding predictably enlarges the demand — antagonize and alienate would reverse the direction of the concession.",
+      "id": "gregmat07__b0__tc2__00",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "The annual shipments of grain and silver to the frontier chieftains were less diplomacy than tribute, an attempt to {1} a neighbor whose raiding parties could not be stopped by force.",
+      "blanks": [
+        {
+          "options": [
+            "appease",
+            "propitiate",
+            "antagonize",
+            "subjugate",
+            "supplant",
+            "rebuke"
+          ],
+          "answers": [
+            "appease",
+            "propitiate"
+          ]
+        }
+      ],
+      "words": [
+        "appease"
+      ],
+      "explanation": "Both appease and propitiate name the purchase of peace by handing over something the other party wants, which is exactly what tribute-in-all-but-name does. Subjugate and antagonize are grammatically and tonally at home in a sentence about hostile neighbors but reverse the policy described, and supplant and rebuke describe actions no gift of grain could accomplish.",
+      "id": "gregmat07__b0__se__01",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "tc2",
+      "stem": "The fee had been levied at the same rate on every applicant since 1798, so it could not fairly be called capricious; it was {1} nonetheless, since no official could state the principle it served, and, the guild it once policed having dissolved generations ago, {2} into the bargain.",
+      "blanks": [
+        {
+          "options": [
+            "arbitrary",
+            "mercurial",
+            "equitable"
+          ],
+          "answers": [
+            "arbitrary"
+          ]
+        },
+        {
+          "options": [
+            "archaic",
+            "nascent",
+            "contentious"
+          ],
+          "answers": [
+            "archaic"
+          ]
+        }
+      ],
+      "words": [
+        "arbitrary",
+        "archaic"
+      ],
+      "explanation": "The first clause concedes perfect consistency, which eliminates mercurial and is the point of the item: a rule can be wholly stable and still be arbitrary, because the defect is a missing justification rather than instability, and equitable contradicts the criticism outright. The second blank needs archaic, a rule surviving in disuse after the thing it governed vanished; nascent inverts the chronology and contentious describes disputes, not desuetude.",
+      "id": "gregmat07__b0__tc2__02",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "Montesquieu's complaint against the sultan was not that his decrees were unpredictable — many were models of consistency, reissued unaltered for decades — but that they were {1}, subject to no statute, no council, and no appeal beyond the ruler's own will.",
+      "blanks": [
+        {
+          "options": [
+            "arbitrary",
+            "despotic",
+            "capricious",
+            "mercurial",
+            "draconian",
+            "judicious"
+          ],
+          "answers": [
+            "arbitrary",
+            "despotic"
+          ]
+        }
+      ],
+      "words": [
+        "arbitrary"
+      ],
+      "explanation": "At full strength arbitrary means power answerable to nothing but its own say-so, which is what despotic also names, so the two yield equivalent sentences here. Capricious and mercurial are the trap: they attribute changeability, which the sentence has explicitly disclaimed, and draconian would import a harshness the passage never mentions.",
+      "id": "gregmat07__b0__se__03",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "The editors defended the hundred-page ceiling as a practical necessity, but privately conceded that it was {1}: nothing in the nature of the material recommended one hundred pages over ninety or over a hundred and ten.",
+      "blanks": [
+        {
+          "options": [
+            "arbitrary",
+            "capricious",
+            "mercurial",
+            "tendentious",
+            "draconian"
+          ],
+          "answers": [
+            "arbitrary"
+          ]
+        }
+      ],
+      "words": [
+        "arbitrary"
+      ],
+      "explanation": "A fixed cutoff that no principle recommends is the textbook case of arbitrary — chosen without a reason anyone can name. Capricious and mercurial both require whim expressed as change, and the ceiling is stable; tendentious would mean the limit served a hidden agenda, and draconian would mean it was punitively severe.",
+      "id": "gregmat07__b0__cloze__04",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "The court's forms of address — \"your most humble and obedient servant\" and the like — had become {1} long before the last clerks stopped copying them out, preserved by sheer habit rather than by any living usage.",
+      "blanks": [
+        {
+          "options": [
+            "archaic",
+            "obsolete",
+            "hidebound",
+            "nascent",
+            "opaque",
+            "mandatory"
+          ],
+          "answers": [
+            "archaic",
+            "obsolete"
+          ]
+        }
+      ],
+      "words": [
+        "archaic"
+      ],
+      "explanation": "Archaic and obsolete both mean fallen out of active use, which is exactly what \"no living usage\" establishes, and both are at home describing formulas of speech. Hidebound and opaque fit the register and would each yield a sensible sentence, but they charge the formulas with rigidity of outlook and unintelligibility rather than disuse; nascent reverses the timeline.",
+      "id": "gregmat07__b0__se__05",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "cloze",
+      "stem": "By noon the square outside the ministry had grown {1}: several thousand pensioners, chanting the same three words in unison, pressed against the barricades and refused to be moved.",
+      "blanks": [
+        {
+          "options": [
+            "clamorous",
+            "boisterous",
+            "strident",
+            "cacophonous",
+            "querulous"
+          ],
+          "answers": [
+            "clamorous"
+          ]
+        }
+      ],
+      "words": [
+        "clamorous"
+      ],
+      "explanation": "Clamorous is the noise of many voices converging on a single demand, which is what a chanting crowd at a barricade produces. Cacophonous is ruled out by the unison — the sound is not discordant; boisterous implies rowdy high spirits rather than pressure, strident describes a single harsh voice or tone, and querulous suggests peevish complaint rather than mass insistence.",
+      "id": "gregmat07__b0__cloze__06",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    },
+    {
+      "type": "se",
+      "stem": "The public gallery grew steadily more {1} as the hour of the vote approached, until the chair's repeated calls for order were lost beneath demands that the bill be read aloud in full.",
+      "blanks": [
+        {
+          "options": [
+            "clamorous",
+            "vociferous",
+            "fractious",
+            "boisterous",
+            "querulous",
+            "decorous"
+          ],
+          "answers": [
+            "clamorous",
+            "vociferous"
+          ]
+        }
+      ],
+      "words": [
+        "clamorous"
+      ],
+      "explanation": "Clamorous and vociferous both describe voices raised loudly and insistently in support of a demand, and either produces the same sentence about a gallery shouting over the chair. Fractious and boisterous fit grammatically but shift the charge to quarrelsome unruliness and rowdy high spirits respectively, neither of which captures a crowd pressing a specific demand; decorous is the reverse.",
+      "id": "gregmat07__b0__se__07",
+      "unit": "gregmat07__b0",
+      "verified": true,
+      "gregmat_group": 7
+    }
+  ],
+  "rejects": []
+}

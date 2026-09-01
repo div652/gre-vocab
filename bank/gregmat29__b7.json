@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat29__b7",
+  "gregmat_group": 29,
+  "words": [
+    "sadistic",
+    "zenith"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The prosecutor allowed that most defendants who injure their victims are merely {1}, indifferent to the suffering they cause while pursuing some other end; this defendant, who prolonged the ordeal to no practical purpose and resumed it whenever his captive grew calm, was {2}, the terror itself being his whole reward.",
+      "blanks": [
+        {
+          "options": [
+            "callous",
+            "empathetic",
+            "benevolent"
+          ],
+          "answers": [
+            "callous"
+          ]
+        },
+        {
+          "options": [
+            "sadistic",
+            "malevolent",
+            "inimical"
+          ],
+          "answers": [
+            "sadistic"
+          ]
+        }
+      ],
+      "words": [
+        "sadistic"
+      ],
+      "explanation": "Blank 1 is defined by its own appositive, \"indifferent to the suffering they cause\" — that is callous, hardened rather than hostile, and both empathetic and benevolent invert the sense. Blank 2 must name what is different in kind from indifference, and the clause \"the terror itself being his whole reward\" specifies enjoyment of the victim's pain, which is sadistic; malevolent would only assert ill will as a motive, and inimical merely hostility, neither of which registers the savouring that the sentence insists on.",
+      "id": "gregmat29__b7__tc2__00",
+      "unit": "gregmat29__b7",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "tc2",
+      "stem": "By 1683 the sultanate stood at the {1} of its power, its writ running unbroken from Buda to Basra; two centuries later its revenues had sunk to a {2} so dire that European commissioners were installed in Istanbul to collect the sultan's taxes for him.",
+      "blanks": [
+        {
+          "options": [
+            "zenith",
+            "nadir",
+            "fulcrum"
+          ],
+          "answers": [
+            "zenith"
+          ]
+        },
+        {
+          "options": [
+            "nadir",
+            "apogee",
+            "prime"
+          ],
+          "answers": [
+            "nadir"
+          ]
+        }
+      ],
+      "words": [
+        "zenith"
+      ],
+      "explanation": "The second clause is fixed by \"sunk to\" and by the humiliation of foreign tax collectors, so blank 2 must be the low point, nadir; apogee and prime both name a high point and contradict the collapse. That decline in turn forces blank 1 to be the matching height of power and empire, which is zenith — the word that looks straight up and is reserved for fame and dominion — whereas fulcrum names a pivot, not a summit.",
+      "id": "gregmat29__b7__tc2__01",
+      "unit": "gregmat29__b7",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "se",
+      "stem": "Gibbon fixes the empire's {1} in the age of the Antonines, and everything after that chapter — the barracks emperors, the debased coinage, the frontiers bought off year by year — he narrates as decline.",
+      "blanks": [
+        {
+          "options": [
+            "zenith",
+            "apogee",
+            "nadir",
+            "eclipse",
+            "fulcrum",
+            "crescendo"
+          ],
+          "answers": [
+            "zenith",
+            "apogee"
+          ]
+        }
+      ],
+      "words": [
+        "zenith"
+      ],
+      "explanation": "Because all subsequent history is narrated as decline, the Antonine age must be the high point, and zenith and apogee are the two words in the list that name it, producing sentences of equivalent meaning. Nadir and eclipse fit the grammar and the historical register but assert the opposite, a low point or a fading; fulcrum names a pivot and crescendo a swelling toward something, neither of which is a summit already attained.",
+      "id": "gregmat29__b7__se__02",
+      "unit": "gregmat29__b7",
+      "verified": true,
+      "gregmat_group": 29
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the warden's conduct suggests mere indifference: he attended every flogging in person, spun out the intervals between strokes, and, as three independent witnesses attest, smiled throughout. Historians of the prison have found no gentler word for him than {1}.",
+      "blanks": [
+        {
+          "options": [
+            "sadistic",
+            "callous",
+            "misanthropic",
+            "obdurate",
+            "malevolent"
+          ],
+          "answers": [
+            "sadistic"
+          ]
+        }
+      ],
+      "words": [
+        "sadistic"
+      ],
+      "explanation": "The stem rules out callous by denying indifference, and the smile during the drawn-out punishment supplies the one thing sadistic requires: pleasure taken in the victim's pain. Misanthropic names a general contempt for humanity and obdurate an unbending hardness, neither of which involves enjoyment; malevolent names ill will but stops short of savouring it, which is why \"no gentler word\" points past it to the heaviest term in the family.",
+      "id": "gregmat29__b7__cloze__03",
+      "unit": "gregmat29__b7",
+      "verified": true,
+      "gregmat_group": 29
+    }
+  ],
+  "rejects": []
+}

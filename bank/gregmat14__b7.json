@@ -1,0 +1,90 @@
+{
+  "unit": "gregmat14__b7",
+  "gregmat_group": 14,
+  "words": [
+    "versatile",
+    "wayward"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Engineers prized the new alloy not for its strength but for its {1} character: it could be drawn into wire, cast into housings, or rolled into foil, whereas the older compound, too {2} at high temperatures to be handled safely, was confined to a single application.",
+      "blanks": [
+        {
+          "options": [
+            "versatile",
+            "voluble",
+            "resourceful"
+          ],
+          "answers": [
+            "versatile"
+          ]
+        },
+        {
+          "options": [
+            "volatile",
+            "wayward",
+            "incongruous"
+          ],
+          "answers": [
+            "volatile"
+          ]
+        }
+      ],
+      "words": [
+        "versatile"
+      ],
+      "explanation": "The three listed uses establish that the alloy performs competently in several distinct roles, which is exactly what versatile claims; voluble describes speech, and resourceful requires an agent who improvises, not an inert material. The contrast marked by whereas demands that the second blank name the property that limits the older compound to one use, and only volatile — unstable and apt to vaporize under heat — supplies that reason.",
+      "id": "gregmat14__b7__tc2__00",
+      "unit": "gregmat14__b7",
+      "verified": true,
+      "gregmat_group": 14
+    },
+    {
+      "type": "tc2",
+      "stem": "The preacher's tone was less {1} than sorrowful, for his subject was not the parishioner who defies the church outright but the {2} one, who has drifted from it almost inadvertently and may still be coaxed back.",
+      "blanks": [
+        {
+          "options": [
+            "denunciatory",
+            "equivocal",
+            "sanguine"
+          ],
+          "answers": [
+            "denunciatory"
+          ]
+        },
+        {
+          "options": [
+            "wayward",
+            "restive",
+            "outlandish"
+          ],
+          "answers": [
+            "wayward"
+          ]
+        }
+      ],
+      "words": [
+        "wayward"
+      ],
+      "explanation": "Because the second blank names someone who strays inadvertently and might yet return, the sermon's tone is sorrowful rather than condemning, which fixes the first blank as denunciatory; equivocal and sanguine are not the qualities that sorrow displaces. Restive would make the parishioner resistant to control, contradicting the drift described, and outlandish concerns bizarreness rather than straying, leaving wayward as the only fit.",
+      "id": "gregmat14__b7__tc2__03",
+      "unit": "gregmat14__b7",
+      "verified": true,
+      "gregmat_group": 14
+    }
+  ],
+  "rejects": [
+    {
+      "why": "structure: stem has no {1}",
+      "problem": null,
+      "stem": "Hurston resists easy summary: novelist, folklorist, anthropologist and playwright by turns, she was a _ figure whose accomplishment in any one of those fields would have sufficed to make a career."
+    },
+    {
+      "why": "structure: stem has no {1}",
+      "problem": null,
+      "stem": "The novel reserves its sympathy for its _ hero, who never sets himself against the values of his village so much as he quietly drifts away from them, and whose eventual homecoming the narrator has plainly been hoping for from the first page."
+    }
+  ]
+}

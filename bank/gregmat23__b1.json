@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat23__b1",
+  "gregmat_group": 23,
+  "words": [
+    "curb",
+    "decry",
+    "duress",
+    "evoke"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Faced with an industry no one seriously proposed to {1}, the ministry settled for a licensing scheme meant to {2} the harvest: enough boats to keep the ports alive, too few to empty the banks.",
+      "blanks": [
+        {
+          "options": [
+            "eradicate",
+            "temper",
+            "bolster"
+          ],
+          "answers": [
+            "eradicate"
+          ]
+        },
+        {
+          "options": [
+            "curb",
+            "quash",
+            "abet"
+          ],
+          "answers": [
+            "curb"
+          ]
+        }
+      ],
+      "words": [
+        "curb"
+      ],
+      "explanation": "The structure is \"no one proposed X, so they settled for Y\": blank 1 must be the extreme nobody wanted (eradicate, abolition), and blank 2 the moderate alternative. Temper fails in blank 1 because it already means moderation, leaving nothing for the ministry to settle for; quash fails in blank 2 because the gloss (\"enough boats... too few\") describes an activity that continues at an acceptable rate, which is exactly what curb, not total suppression, names.",
+      "id": "gregmat23__b1__tc2__00",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "In editorial after editorial he {1} the university's growing habit of treating research chiefly as a revenue stream, a shift he regarded as a betrayal of its founding purpose.",
+      "blanks": [
+        {
+          "options": [
+            "decried",
+            "denounced",
+            "condoned",
+            "countenanced",
+            "chronicled",
+            "extolled"
+          ],
+          "answers": [
+            "decried",
+            "denounced"
+          ]
+        }
+      ],
+      "words": [
+        "decry"
+      ],
+      "explanation": "\"Betrayal\" and the repeated public forum of the editorial page demand loud, public condemnation, which decried and denounced both supply, and here the object is a trend rather than a person, so the two are interchangeable. Condoned, countenanced and extolled all reverse the writer's evident hostility, and chronicled merely records the shift without the moral stand the second clause insists on.",
+      "id": "gregmat23__b1__se__01",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "The occupying authority insisted that no {1} had been applied, since the delegates walked into the hall unescorted and signed of their own accord; the exiled parliament answered that a treaty signed with foreign garrisons at every door is signed under {2}, and binds no one.",
+      "blanks": [
+        {
+          "options": [
+            "coercion",
+            "opprobrium",
+            "indictment"
+          ],
+          "answers": [
+            "coercion"
+          ]
+        },
+        {
+          "options": [
+            "duress",
+            "sanction",
+            "censure"
+          ],
+          "answers": [
+            "duress"
+          ]
+        }
+      ],
+      "words": [
+        "duress"
+      ],
+      "explanation": "Blank 1 is the pressure described from the side of the party accused of applying it, which is coercion; opprobrium (public disgrace) and indictment (a formal charge) are not things one \"applies\" to a signatory. Blank 2 is the same fact seen from the signer's chair, where the point is that consent was manufactured and the instrument therefore void, which is precisely the excusing force of duress.",
+      "id": "gregmat23__b1__tc2__02",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "Medieval canonists disagreed about whether an oath sworn under {1} bound the swearer at all, and the majority held that a promise obtained at swordpoint was void from the moment it was uttered.",
+      "blanks": [
+        {
+          "options": [
+            "duress",
+            "censure",
+            "sanction",
+            "approbation",
+            "dictate"
+          ],
+          "answers": [
+            "duress"
+          ]
+        }
+      ],
+      "words": [
+        "duress"
+      ],
+      "explanation": "The sentence turns on unlawful threat voiding consent, which is the legal home of duress. Censure and approbation are forms of disapproval and approval rather than force; sanction is a penalty or an authorization; and dictate names the command itself, not the condition of compulsion the oath was sworn under.",
+      "id": "gregmat23__b1__cloze__03",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "tc2",
+      "stem": "Where the earlier documentary set out to {1} the regime in explicit terms, naming its victims and demanding a reckoning, the new film merely {2} those years: a stopped clock, an orchard gone wild, and the audience's own memory left to supply the rest.",
+      "blanks": [
+        {
+          "options": [
+            "decry",
+            "chronicle",
+            "countenance"
+          ],
+          "answers": [
+            "decry"
+          ]
+        },
+        {
+          "options": [
+            "evokes",
+            "elicits",
+            "provokes"
+          ],
+          "answers": [
+            "evokes"
+          ]
+        }
+      ],
+      "words": [
+        "decry",
+        "evoke"
+      ],
+      "explanation": "\"Demanding a reckoning\" makes blank 1 an act of open public condemnation, so decry fits where chronicle (neutral recording) and countenance (tolerate) do not. Blank 2 needs the verb for conjuring an atmosphere indirectly from what is already latent in the viewer: elicit would require a specific response drawn out of someone, and provoke would push a reaction outward, whereas the film only suggests and lets memory finish the work.",
+      "id": "gregmat23__b1__tc2__04",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "The central bank's aim was never to end speculative borrowing but to {1} it: rates rose enough to make the riskiest bets unattractive while ordinary credit went untouched.",
+      "blanks": [
+        {
+          "options": [
+            "curb",
+            "check",
+            "quash",
+            "eradicate",
+            "underwrite",
+            "monitor"
+          ],
+          "answers": [
+            "curb",
+            "check"
+          ]
+        }
+      ],
+      "words": [
+        "curb"
+      ],
+      "explanation": "The colon defines the blank as restraint short of abolition, which curb and check both express: the activity continues, but at a rate held down. Quash and eradicate name exactly the elimination the sentence disclaims, underwrite would encourage the borrowing, and monitor implies mere observation rather than the rate rise described.",
+      "id": "gregmat23__b1__se__05",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "cloze",
+      "stem": "In the survey, the smell of diesel {1} the evacuation of 1994 so vividly for some residents that they had to leave the room.",
+      "blanks": [
+        {
+          "options": [
+            "evoked",
+            "elicited",
+            "provoked",
+            "precipitated",
+            "induced"
+          ],
+          "answers": [
+            "evoked"
+          ]
+        }
+      ],
+      "words": [
+        "evoke"
+      ],
+      "explanation": "A smell summoning a memory that was already dormant in the person is the core case of evoke, which works by association with no request made and no one addressed. Elicit would require a response drawn out in a transaction, such as an answer or a confession, while precipitated and induced would mean the smell caused the 1994 evacuation itself, which the chronology forbids.",
+      "id": "gregmat23__b1__cloze__06",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    },
+    {
+      "type": "se",
+      "stem": "The score's spare, repeated fourths {1} a landscape the film never shows: wind, distance, a horizon of grass.",
+      "blanks": [
+        {
+          "options": [
+            "evoke",
+            "conjure",
+            "elicit",
+            "provoke",
+            "precipitate",
+            "mimic"
+          ],
+          "answers": [
+            "evoke",
+            "conjure"
+          ]
+        }
+      ],
+      "words": [
+        "evoke"
+      ],
+      "explanation": "Because the landscape is never shown, the music must summon it by suggestion, and evoke and conjure are interchangeable in exactly that critical idiom. Elicit and provoke would require a reaction drawn or pushed out of an audience rather than an unseen scene called up, precipitate would mean the music brought the landscape about, and mimic would claim literal imitation of sounds rather than the atmosphere the sentence describes.",
+      "id": "gregmat23__b1__se__07",
+      "unit": "gregmat23__b1",
+      "verified": true,
+      "gregmat_group": 23
+    }
+  ],
+  "rejects": []
+}
