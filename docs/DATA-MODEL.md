@@ -157,6 +157,22 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-qdue` | "only ask what's due" toggle |
 | `gre-vocab-gemini-key` | user's own Gemini API key (never leaves the device except to Google) |
 | `gre-vocab-gemini-model` | chosen model id |
+| `gre-vocab-prefs-v1` | `{theme, scale, voice, rate}` — appearance and reading voice |
+
+### Signed-in storage — Google Drive
+
+When signed in, the same three progress keys are mirrored to a single file,
+`gre-vocab-progress.json`, in the Drive **`appDataFolder`** — a hidden per-user
+folder the app can only see its own files in, never the user's real Drive.
+
+```json
+{ "marks": {...}, "srs": {...}, "seenq": [...], "updatedAt": 1756..., "v": 1 }
+```
+
+Merge is **per key, not last-writer-wins on the blob**: marks are unioned with
+local winning ties, and each word's SRS record is taken from whichever side has
+the higher `seen` count. Two devices used on the same day would otherwise
+silently discard one of them. Pushes are debounced 4s after a progress change.
 
 `due` is a **day number** (`floor(Date.now() / 86400000)`), not a timestamp.
 

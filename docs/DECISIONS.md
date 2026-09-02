@@ -203,6 +203,43 @@ Regenerable, but these are the documents actually read and pasted into Slite, an
 
 ---
 
+### D-33 — Accounts without a backend: Drive `appDataFolder`
+Rejected: Firebase and Supabase. Both give a central queryable database, but both
+add a hosted dependency to a project whose defining property is having none, and
+both would make the owner custodian of other people's study data. With
+`appDataFolder` each user's progress lives in **their own Drive**, so accounts
+exist and PHILOSOPHY § 8 survives intact.
+
+The OAuth **web client id is public by design** and is committed. There is no
+client secret and there must not be one — a client secret in a static app is
+neither secret nor necessary.
+
+### D-34 — Five themes, Aqua default; scale is a CSS variable
+Text size is `--scale` multiplying a single `html` font-size, so **all** sizing is
+in `rem` and grows together. Rejected: browser zoom (owner asked for an in-app
+control) and per-element font sizes (they drift apart).
+
+### D-35 — Prosody by chunking, since the Web Speech API ignores SSML
+`<emphasis>` markup does nothing in practice, so stress is produced by *splitting*
+instead: the `**bolded**` target word is spoken as its own utterance at rate .68
+and pitch 1.22, section boundaries get real pauses by driving the queue manually,
+and the voice is chosen by ranking installed voices rather than taking index 0.
+
+The emphasis is **derived from the card data**, not guessed — the bold markers
+were already there for the cloze generator. Do not strip them.
+
+Ceiling worth knowing: this is concatenative synthesis and will sound like a good
+screen reader, not a person. If natural narration is ever wanted, pre-generating
+cloud TTS audio at build time keeps the app offline; calling a TTS API at runtime
+does not.
+
+### D-36 — `.hidden` needs `!important`
+`.hidden{display:none}` and `.sheet{display:grid}` are both single-class
+selectors, so the later one won and the settings sheet was open on every load.
+Equal specificity plus source order is a real hazard in a single-file stylesheet.
+
+---
+
 ## Corrections worth remembering
 
 Three times a *detector* was wrong rather than the data:

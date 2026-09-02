@@ -141,6 +141,23 @@ vendored copy, or the repo stops reproducing its own output.
 
 ---
 
+## Google sign-in setup
+
+Already configured, recorded so it can be rebuilt. In Google Cloud Console:
+
+1. Enable the **Google Drive API**.
+2. **Credentials → OAuth client ID → Web application**.
+3. Authorised JavaScript origin: `https://div652.github.io`
+4. Scopes requested at runtime: `openid email profile` plus
+   `https://www.googleapis.com/auth/drive.appdata`.
+
+The client id is embedded in `build_app.py` as `GOOGLE_CLIENT_ID`. That is
+correct and safe — web OAuth client ids are public identifiers, not secrets.
+**Never add a client secret**; a static app cannot keep one.
+
+Adding a new origin (a custom domain, a local test server) means adding it to the
+authorised origins list, or sign-in fails with `redirect_uri_mismatch`.
+
 ## Deployment
 
 Both targets are automatic on push to `main`.

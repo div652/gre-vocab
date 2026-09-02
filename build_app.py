@@ -41,132 +41,230 @@ TEMPLATE = r"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>GRE Vocab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{
-  --bg:#12131a; --panel:#1a1c26; --panel2:#22252f; --line:#2e3240;
-  --ink:#e8e9ee; --dim:#9aa0b0; --accent:#7aa2f7;
-  --easy:#5fbf7f; --medium:#e0b354; --hard:#e06a6a;
-}
+/* ============================================================
+   Design tokens. Five themes; every colour flows from these.
+   --scale drives ALL sizing - not browser zoom, so layout holds
+   together and only type and spacing grow.
+   ============================================================ */
+:root[data-theme="aqua"]{
+  --bg:#eef7fa; --panel:#fff; --panel2:#e3f0f5; --line:#cbe2ea;
+  --ink:#0f2a33; --ink2:#2c4a54; --dim:#6b8c98;
+  --accent:#0d8fa8; --accent-soft:rgba(13,143,168,.12);
+  --easy:#118a63; --medium:#a1741a; --hard:#c04a3d;
+  --shadow:0 1px 2px rgba(10,60,75,.06),0 8px 24px rgba(10,60,75,.07); }
+:root[data-theme="midnight"]{
+  --bg:#0f1117; --panel:#171a23; --panel2:#1e222d; --line:#2a2f3d;
+  --ink:#e9ebf0; --ink2:#b9c0cf; --dim:#7f8799;
+  --accent:#8ab4ff; --accent-soft:rgba(138,180,255,.14);
+  --easy:#5ec98a; --medium:#e3b55f; --hard:#ec7272;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.24); }
+:root[data-theme="forest"]{
+  --bg:#0e1512; --panel:#152019; --panel2:#1c2a22; --line:#26382d;
+  --ink:#e6efe8; --ink2:#b4c6ba; --dim:#7b9384;
+  --accent:#68d19b; --accent-soft:rgba(104,209,155,.14);
+  --easy:#68d19b; --medium:#d8b45f; --hard:#e37b72;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.22); }
+:root[data-theme="paper"]{
+  --bg:#f7f6f3; --panel:#fff; --panel2:#f0eeea; --line:#e0ddd6;
+  --ink:#1d1c1a; --ink2:#403d38; --dim:#7d786f;
+  --accent:#2f5fd0; --accent-soft:rgba(47,95,208,.10);
+  --easy:#1f8a4c; --medium:#a8760c; --hard:#c0392b;
+  --shadow:0 1px 2px rgba(30,25,15,.06),0 8px 24px rgba(30,25,15,.06); }
+:root[data-theme="sepia"]{
+  --bg:#efe6d6; --panel:#faf3e6; --panel2:#f0e6d2; --line:#ded0b6;
+  --ink:#2b2317; --ink2:#4a3f2d; --dim:#857755;
+  --accent:#9a5b1e; --accent-soft:rgba(154,91,30,.12);
+  --easy:#4a7c3f; --medium:#96702a; --hard:#a83c2b;
+  --shadow:0 1px 2px rgba(80,60,20,.08),0 8px 24px rgba(80,60,20,.08); }
+
+:root{ --scale:1; --radius:14px;
+  --ui:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  --read:"Source Serif 4",Georgia,"Times New Roman",serif; }
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);
-  font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
-header{position:sticky;top:0;z-index:10;background:var(--panel);
-  border-bottom:1px solid var(--line);padding:10px 16px;
-  display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-h1{font-size:15px;margin:0 8px 0 0;font-weight:650;letter-spacing:.3px}
-input,select,button{font:inherit;background:var(--panel2);color:var(--ink);
-  border:1px solid var(--line);border-radius:7px;padding:6px 10px}
-input:focus,select:focus{outline:1px solid var(--accent)}
-button{cursor:pointer}
-button:hover{border-color:var(--accent)}
-button.on{background:var(--accent);color:#0d0f16;border-color:var(--accent);font-weight:600}
-#search{min-width:200px;flex:1;max-width:340px}
+html{font-size:calc(16px*var(--scale))}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--ui);
+  font-size:1rem;line-height:1.65;-webkit-font-smoothing:antialiased;
+  transition:background .2s,color .2s}
+
+header{position:sticky;top:0;z-index:30;
+  background:color-mix(in srgb,var(--panel) 92%,transparent);
+  backdrop-filter:blur(12px);border-bottom:1px solid var(--line);
+  padding:.55rem .9rem;display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
+h1{font-size:1rem;margin:0 .3rem 0 0;font-weight:700;letter-spacing:-.01em}
+.tabs{display:flex;gap:.15rem;background:var(--panel2);padding:.18rem;border-radius:11px}
+button{cursor:pointer;font:inherit}
+.tab{border:0;background:none;color:var(--dim);font-weight:600;font-size:.87rem;
+  padding:.4rem .8rem;border-radius:8px}
+.tab.on{background:var(--panel);color:var(--ink);box-shadow:var(--shadow)}
+input,select{font:inherit;background:var(--panel2);color:var(--ink);
+  border:1px solid var(--line);border-radius:9px;padding:.42rem .65rem;font-size:.9rem}
+input:focus,select:focus{outline:2px solid var(--accent-soft);border-color:var(--accent)}
+.btn{background:var(--panel);color:var(--ink);border:1px solid var(--line);
+  border-radius:9px;padding:.42rem .8rem;font-size:.87rem;font-weight:600}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.btn.on,.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+.icon{border:1px solid var(--line);background:var(--panel);color:var(--ink2);
+  width:2.1rem;height:2.1rem;border-radius:9px;display:grid;place-items:center;font-size:.95rem}
+.icon:hover{border-color:var(--accent);color:var(--accent)}
+#search{min-width:11rem;flex:1;max-width:20rem}
 .spacer{flex:1}
-.stats{color:var(--dim);font-size:13px;white-space:nowrap}
-.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:4px}
-main{max-width:860px;margin:0 auto;padding:20px 16px 80px}
+.stats{color:var(--dim);font-size:.8rem;white-space:nowrap}
+.dot{display:inline-block;width:.5rem;height:.5rem;border-radius:50%;margin-right:.25rem}
+.fontctl{display:flex;align-items:center;gap:.2rem;background:var(--panel2);
+  border-radius:10px;padding:.15rem .3rem}
+.fontctl button{border:0;background:none;color:var(--ink2);font-weight:700;
+  padding:.22rem .42rem;border-radius:7px}
+.fontctl button:hover{background:var(--panel);color:var(--accent)}
+.fontctl .sm{font-size:.72rem}.fontctl .lg{font-size:1.05rem}
+.fontctl output{font-size:.72rem;color:var(--dim);min-width:2.5rem;text-align:center;
+  font-variant-numeric:tabular-nums}
+main{max-width:46rem;margin:0 auto;padding:1.3rem 1rem 6rem}
+/* !important because .sheet sets display:grid later in the file and would
+   otherwise win on equal specificity, leaving the settings sheet always open. */
+.hidden{display:none!important}
+.sep{border:0;border-top:1px solid var(--line);margin:1.1rem 0}
 
-/* ---- browse ---- */
-.row{display:flex;align-items:baseline;gap:10px;padding:9px 12px;
-  border:1px solid var(--line);border-left-width:3px;border-radius:8px;
-  margin-bottom:6px;cursor:pointer;background:var(--panel)}
+.row{display:flex;align-items:baseline;gap:.7rem;padding:.65rem .85rem;
+  border:1px solid var(--line);border-left-width:3px;border-radius:10px;
+  margin-bottom:.4rem;cursor:pointer;background:var(--panel)}
 .row:hover{border-color:var(--accent)}
-.row .w{font-weight:650;min-width:150px}
-.row .g{color:var(--dim);font-size:13px;flex:1}
-.row .tag{color:var(--dim);font-size:11px;border:1px solid var(--line);
-  border-radius:20px;padding:1px 8px}
-.d-easy{border-left-color:var(--easy)} .d-medium{border-left-color:var(--medium)}
-.d-hard{border-left-color:var(--hard)} .d-none{border-left-color:var(--line)}
+.row .w{font-weight:650;min-width:9rem;font-family:var(--read);font-size:1.05rem}
+.row .g{color:var(--dim);font-size:.86rem;flex:1}
+.row .tag{color:var(--dim);font-size:.7rem;border:1px solid var(--line);
+  border-radius:20px;padding:.05rem .55rem}
+.d-easy{border-left-color:var(--easy)}.d-medium{border-left-color:var(--medium)}
+.d-hard{border-left-color:var(--hard)}.d-none{border-left-color:var(--line)}
 
-/* ---- card ---- */
-.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;
-  padding:22px 26px;margin-bottom:14px}
-.card h2{margin:0;font-size:26px;font-weight:700}
-.card .pos{color:var(--dim);font-weight:400;font-style:italic;font-size:17px}
-.card .pron{color:var(--accent);font-weight:650;font-size:19px;margin-left:8px}
-.card .note{color:var(--dim);font-style:italic;font-size:13px;margin-top:4px}
-h3{font-size:12px;text-transform:uppercase;letter-spacing:1.2px;color:var(--dim);
-  margin:22px 0 8px;font-weight:650}
-blockquote{margin:10px 0;padding:10px 16px;border-left:3px solid var(--accent);
-  background:var(--panel2);border-radius:0 8px 8px 0}
-ol,ul{margin:8px 0;padding-left:22px} li{margin:5px 0}
-strong{color:#fff} em{color:var(--dim)}
-.sep{border:0;border-top:1px solid var(--line);margin:18px 0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:1.5rem 1.6rem;margin-bottom:.9rem;box-shadow:var(--shadow)}
+.card h2{margin:0;font-family:var(--read);font-size:2rem;font-weight:700;
+  letter-spacing:-.02em;line-height:1.2;display:inline}
+.card .pos{color:var(--dim);font-weight:400;font-style:italic;font-size:1rem;margin-left:.4rem}
+.card .pron{color:var(--accent);font-weight:600;font-size:1.02rem;margin-left:.45rem;
+  background:var(--accent-soft);padding:.1rem .5rem;border-radius:7px;white-space:nowrap}
+.card .note{color:var(--dim);font-style:italic;font-size:.85rem;margin-top:.35rem}
+h3{font-size:.7rem;text-transform:uppercase;letter-spacing:.14em;color:var(--dim);
+  margin:1.4rem 0 .5rem;font-weight:700;display:flex;align-items:center;gap:.5rem}
+h3::after{content:"";flex:1;height:1px;background:var(--line)}
+.card p,.card li{font-family:var(--read);font-size:1.05rem;line-height:1.72;color:var(--ink2)}
+.card strong,strong{color:var(--ink);font-weight:600}
+em{color:var(--dim)}
+blockquote{font-family:var(--read);margin:.6rem 0;padding:.8rem 1.1rem;
+  border-left:3px solid var(--accent);background:var(--accent-soft);
+  border-radius:0 10px 10px 0;font-size:1.05rem}
+ol,ul{margin:.5rem 0;padding-left:1.3rem}li{margin:.45rem 0}
+code{background:var(--panel2);padding:.05rem .3rem;border-radius:5px;font-size:.9em}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.5rem}
+.chip{font-size:.76rem;border:1px solid var(--line);border-radius:20px;
+  padding:.18rem .7rem;color:var(--dim);background:var(--panel2);cursor:pointer}
+.chip b{color:var(--accent);font-weight:600}
+.chip:hover{border-color:var(--accent)}
 
-/* ---- drill ---- */
-.drill{min-height:340px}
-.drill .front{text-align:center;padding:46px 0 30px}
-.drill .front h2{font-size:42px}
-.hidden{display:none}
-.marks{display:flex;gap:10px;justify-content:center;margin-top:20px}
-.marks button{padding:10px 22px;font-weight:600;min-width:104px}
+.speak{border:1px solid var(--line);background:var(--panel2);color:var(--accent);
+  border-radius:50%;width:1.9rem;height:1.9rem;display:inline-grid;place-items:center;
+  font-size:.85rem;flex:0 0 auto;vertical-align:middle;margin-left:.4rem;padding:0}
+.speak:hover{background:var(--accent);color:var(--panel);border-color:var(--accent)}
+.speaking{background:var(--accent-soft);border-radius:6px;
+  box-shadow:0 0 0 .35rem var(--accent-soft)}
+.readbar{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.8rem;
+  background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:.6rem .8rem;box-shadow:var(--shadow)}
+.readbar label{font-size:.74rem;color:var(--dim);font-weight:600}
+
+.drill{min-height:20rem}
+.drill .front{text-align:center;padding:3rem 0 2rem}
+.drill .front h2{font-size:2.8rem}
+.marks{display:flex;gap:.6rem;justify-content:center;margin-top:1.2rem;flex-wrap:wrap}
+.marks button{padding:.6rem 1.3rem;font-weight:600;min-width:6rem;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--ink)}
 .mk-hard{border-color:var(--hard);color:var(--hard)}
 .mk-medium{border-color:var(--medium);color:var(--medium)}
 .mk-easy{border-color:var(--easy);color:var(--easy)}
-.mk-hard:hover{background:var(--hard);color:#12131a}
-.mk-medium:hover{background:var(--medium);color:#12131a}
-.mk-easy:hover{background:var(--easy);color:#12131a}
+.mk-hard:hover{background:var(--hard);color:var(--panel)}
+.mk-medium:hover{background:var(--medium);color:var(--panel)}
+.mk-easy:hover{background:var(--easy);color:var(--panel)}
 .nav{display:flex;justify-content:space-between;align-items:center;
-  margin-top:16px;color:var(--dim);font-size:13px}
-.empty{text-align:center;color:var(--dim);padding:60px 20px}
-
-/* ---- quiz ---- */
-.q{max-width:660px;margin:0 auto}
-.qhead{display:flex;justify-content:space-between;align-items:baseline;
-  color:var(--dim);font-size:13px;margin-bottom:12px}
-.qtype{color:var(--accent);text-transform:uppercase;letter-spacing:1.1px;font-size:11px;font-weight:650}
-.qstem{background:var(--panel);border:1px solid var(--line);border-radius:12px;
-  padding:22px 24px;font-size:17px;line-height:1.7}
-.qstem .blank{color:var(--accent);font-weight:700;letter-spacing:1px}
-.opts{display:flex;flex-direction:column;gap:8px;margin-top:16px}
-.opt{text-align:left;padding:12px 16px;font-size:15px;border-radius:9px;
-  background:var(--panel);border:1px solid var(--line);color:var(--ink);cursor:pointer}
-.opt:hover:not(:disabled){border-color:var(--accent)}
-.opt:disabled{cursor:default}
-.opt.correct{border-color:var(--easy);background:rgba(95,191,127,.12)}
-.opt.wrong{border-color:var(--hard);background:rgba(224,106,106,.12)}
-.opt .why{display:block;color:var(--dim);font-size:13px;margin-top:5px;line-height:1.5}
-#typed{width:100%;padding:12px 16px;font-size:17px;margin-top:16px}
-.verdict{margin-top:16px;padding:14px 18px;border-radius:10px;background:var(--panel2);
-  border-left:3px solid var(--accent)}
-.verdict h4{margin:0 0 6px;font-size:14px}
-.qfoot{display:flex;justify-content:space-between;align-items:center;margin-top:18px}
-.score{color:var(--dim);font-size:13px}
-.due{color:var(--accent);font-weight:600}
-.setup{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px 24px}
-.setup h3{margin-top:0}
-.setup label{display:flex;gap:9px;align-items:flex-start;margin:9px 0;cursor:pointer}
-.setup input[type=checkbox]{margin-top:4px;accent-color:var(--accent)}
-.setup .hint{color:var(--dim);font-size:13px}
-.blankgrp{margin-top:16px}
-.blankgrp h5{margin:0 0 7px;font-size:11px;letter-spacing:1.1px;
-  text-transform:uppercase;color:var(--accent);font-weight:650}
-.blankgrp .opts{margin-top:0}
-.opt.picked{border-color:var(--accent);background:rgba(122,162,247,.12)}
-.opt.missed{border-color:var(--easy);border-style:dashed}
-
-/* ---- groups ---- */
-.row.grow{border-left-color:var(--accent)}
-.tag.kind{min-width:112px;text-align:center;color:var(--accent);
-  border-color:var(--accent);flex:0 0 auto}
-ul.nuance{list-style:none;padding-left:0;margin:14px 0 0}
-ul.nuance li{border-left:3px solid var(--line);padding:5px 0 5px 12px;margin:9px 0}
-.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}
-.chip{font-size:12px;border:1px solid var(--line);border-radius:20px;
-  padding:3px 11px;cursor:pointer;color:var(--dim);background:var(--panel2)}
-.chip b{color:var(--accent);font-weight:600}
-.chip:hover{border-color:var(--accent)}
-.bar{height:3px;background:var(--panel2);border-radius:2px;overflow:hidden;margin-top:12px}
+  margin-top:1rem;color:var(--dim);font-size:.83rem}
+.empty{text-align:center;color:var(--dim);padding:3.5rem 1rem}
+.bar{height:3px;background:var(--panel2);border-radius:2px;overflow:hidden;margin-top:.7rem}
 .bar div{height:100%;background:var(--accent);transition:width .2s}
+
+.q{max-width:42rem;margin:0 auto}
+.qhead{display:flex;justify-content:space-between;align-items:baseline;
+  color:var(--dim);font-size:.8rem;margin-bottom:.7rem;gap:.6rem;flex-wrap:wrap}
+.qtype{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;
+  font-size:.7rem;font-weight:700}
+.qstem{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:1.3rem 1.45rem;font-family:var(--read);font-size:1.12rem;line-height:1.78;
+  box-shadow:var(--shadow)}
+.qstem p{margin:.4rem 0}
+.qstem .blank{color:var(--accent);font-weight:700;letter-spacing:.05em}
+.opts{display:flex;flex-direction:column;gap:.45rem;margin-top:.85rem}
+.opt{text-align:left;padding:.75rem 1rem;font-size:.98rem;border-radius:11px;
+  background:var(--panel);border:1px solid var(--line);color:var(--ink);
+  transition:border-color .12s,transform .06s}
+.opt:hover:not(:disabled){border-color:var(--accent);transform:translateX(2px)}
+.opt:disabled{cursor:default}
+.opt.correct{border-color:var(--easy);background:color-mix(in srgb,var(--easy) 12%,var(--panel))}
+.opt.wrong{border-color:var(--hard);background:color-mix(in srgb,var(--hard) 12%,var(--panel))}
+.opt.picked{border-color:var(--accent);background:var(--accent-soft)}
+.opt.missed{border-color:var(--easy);border-style:dashed}
+.opt .why{display:block;color:var(--dim);font-size:.83rem;margin-top:.3rem;line-height:1.5}
+#typed{width:100%;padding:.8rem 1rem;font-size:1.05rem;margin-top:.9rem;font-family:var(--read)}
+.verdict{margin-top:.9rem;padding:.9rem 1.1rem;border-radius:11px;background:var(--panel2);
+  border-left:3px solid var(--accent);font-family:var(--read)}
+.verdict h4{margin:0 0 .35rem;font-size:.9rem;font-family:var(--ui)}
+.qfoot{display:flex;justify-content:space-between;align-items:center;
+  margin-top:1rem;gap:.6rem;flex-wrap:wrap}
+.score{color:var(--dim);font-size:.8rem}
+.due{color:var(--accent);font-weight:600}
+.setup{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:1.4rem 1.5rem;box-shadow:var(--shadow)}
+.setup h3{margin-top:0}.setup h3::after{display:none}
+.setup label{display:flex;gap:.6rem;align-items:flex-start;margin:.6rem 0;cursor:pointer}
+.setup input[type=checkbox]{margin-top:.3rem;accent-color:var(--accent)}
+.setup .hint{color:var(--dim);font-size:.85rem}
+.blankgrp{margin-top:1rem}
+.blankgrp h5{margin:0 0 .45rem;font-size:.7rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--accent);font-weight:700}
+.blankgrp .opts{margin-top:0}
+
+.row.grow{border-left-color:var(--accent)}
+.tag.kind{min-width:7rem;text-align:center;color:var(--accent);
+  border-color:var(--accent);flex:0 0 auto}
+ul.nuance{list-style:none;padding-left:0;margin:.9rem 0 0}
+ul.nuance li{border-left:3px solid var(--line);padding:.3rem 0 .3rem .8rem;margin:.6rem 0}
+
+.sheet{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:50;
+  display:grid;place-items:center;padding:1rem}
+.sheet .inner{background:var(--panel);border:1px solid var(--line);border-radius:16px;
+  padding:1.5rem 1.6rem;max-width:26rem;width:100%;box-shadow:var(--shadow);
+  max-height:85vh;overflow:auto}
+.acct{display:flex;align-items:center;gap:.7rem;margin-bottom:1rem}
+.avatar{width:2.3rem;height:2.3rem;border-radius:50%;background:var(--accent);
+  color:var(--panel);display:grid;place-items:center;font-weight:700;flex:0 0 auto}
+.swatches{display:flex;gap:.45rem;flex-wrap:wrap;margin:.5rem 0 1rem}
+.sw{border:2px solid var(--line);border-radius:10px;padding:.4rem .7rem;
+  font-size:.8rem;font-weight:600;display:flex;align-items:center;gap:.4rem;
+  background:var(--panel);color:var(--ink)}
+.sw.on{border-color:var(--accent)}
+.sw i{width:.85rem;height:.85rem;border-radius:50%;display:inline-block}
 </style></head><body>
 
 <header>
   <h1>GRE Vocab</h1>
-  <button id="mBrowse" class="on">Browse</button>
-  <button id="mDrill">Drill</button>
-  <button id="mQuiz">Quiz</button>
-  <button id="mGroups">Groups</button>
-  <input id="search" placeholder="search word, meaning, root, tag…">
+  <div class="tabs">
+    <button id="mBrowse" class="tab on">Browse</button>
+    <button id="mDrill" class="tab">Drill</button>
+    <button id="mQuiz" class="tab">Quiz</button>
+    <button id="mGroups" class="tab">Groups</button>
+  </div>
+  <input id="search" placeholder="search word, meaning, root, tag...">
   <select id="group"></select>
   <select id="diff">
     <option value="">all marks</option>
@@ -175,11 +273,15 @@ ul.nuance li{border-left:3px solid var(--line);padding:5px 0 5px 12px;margin:9px
     <option value="medium">medium</option>
     <option value="easy">easy</option>
   </select>
-  <button id="shuffle" title="Shuffle drill order">⤨</button>
+  <button id="shuffle" class="icon" title="Shuffle drill order">&#8646;</button>
   <div class="spacer"></div>
   <div class="stats" id="stats"></div>
-  <button id="exp" title="Save your difficulty marks to a file">Export</button>
-  <button id="imp" title="Load difficulty marks from a file">Import</button>
+  <div class="fontctl" title="Text size">
+    <button class="sm" id="fdown">A</button>
+    <output id="fpct">100%</output>
+    <button class="lg" id="fup">A</button>
+  </div>
+  <button id="openSettings" class="icon" title="Settings">&#9881;</button>
   <input type="file" id="file" accept=".json" class="hidden">
 </header>
 
@@ -189,6 +291,33 @@ ul.nuance li{border-left:3px solid var(--line);padding:5px 0 5px 12px;margin:9px
   <div id="quiz" class="hidden"></div>
   <div id="groups" class="hidden"></div>
 </main>
+
+<div id="sheet" class="sheet hidden"><div class="inner">
+  <div style="display:flex;align-items:center;justify-content:space-between">
+    <h3 style="margin:0">Settings</h3>
+    <button id="closeSettings" class="icon">&times;</button>
+  </div>
+
+  <h3>Account</h3>
+  <div id="acctBox"></div>
+
+  <h3>Theme</h3>
+  <div class="swatches" id="swatches"></div>
+
+  <h3>Reading voice</h3>
+  <label style="display:block"><span class="hint">Voice</span>
+    <select id="vsel" style="width:100%;margin-top:.3rem"></select></label>
+  <label style="display:block;margin-top:.6rem"><span class="hint">Speed <output id="rateOut">1.00x</output></span>
+    <input type="range" id="rate" min=".6" max="1.4" step=".05" value="1" style="width:100%"></label>
+
+  <h3>Progress</h3>
+  <p class="hint" style="margin-top:0">Difficulty marks and review schedule. Kept out of the
+     card data, so regenerating cards never touches them.</p>
+  <div style="display:flex;gap:.5rem;flex-wrap:wrap">
+    <button id="exp" class="btn">Export</button>
+    <button id="imp" class="btn">Import</button>
+  </div>
+</div></div>
 
 <script>
 const CARDS = __DATA__;
@@ -230,7 +359,8 @@ function md(src){
    .replace(/`([^`]+)`/g, "<code>$1</code>");
 }
 
-function save(){ localStorage.setItem(KEY, JSON.stringify(marks)); renderStats(); }
+function save(){ localStorage.setItem(KEY, JSON.stringify(marks)); renderStats();
+  if(typeof queueSync === "function") queueSync(); }
 function mark(w,d){ if(d) marks[w]=d; else delete marks[w]; save(); }
 
 function filtered(){
@@ -250,6 +380,7 @@ function cardHTML(c, front){
   let h = `<div class="card"><h2>${esc(c.word)} <span class="pos">${esc(c.pos||"")}</span>`;
   if(c.pron) h += `<span class="pron">${esc(c.pron)}</span>`;
   h += `</h2>`;
+  h += `<button class="speak" data-speak="${esc(c.word)}" title="Read the whole card aloud">&#9654;</button>`;
   if(c.pron_note) h += `<div class="note">${md(c.pron_note)}</div>`;
   if(front) return h + `</div>`;
   h += `<h3>Means</h3>${md(c.means)}`;
@@ -380,7 +511,8 @@ function renderStats(){
 
 const SRS_KEY = "gre-vocab-srs-v1";
 let srs = JSON.parse(localStorage.getItem(SRS_KEY) || "{}");
-const saveSrs = () => localStorage.setItem(SRS_KEY, JSON.stringify(srs));
+const saveSrs = () => { localStorage.setItem(SRS_KEY, JSON.stringify(srs));
+  if(typeof queueSync === "function") queueSync(); };
 const DAY = 86400000;
 const today = () => Math.floor(Date.now() / DAY);
 
@@ -935,6 +1067,280 @@ function setMode(m){ go("/" + m); }
 
 window.addEventListener("popstate", () => applyRoute(location.hash.slice(1) || "/browse"));
 
+/* ============================================================
+   Appearance: theme + text scale. One CSS variable drives all sizing, so
+   this is not browser zoom - the layout holds and only type grows.
+   ============================================================ */
+const THEMES = [["aqua","Aqua","#0d8fa8"],["midnight","Midnight","#8ab4ff"],
+                ["forest","Forest","#68d19b"],["paper","Paper","#2f5fd0"],
+                ["sepia","Sepia","#9a5b1e"]];
+const PREF = "gre-vocab-prefs-v1";
+let prefs = Object.assign({theme:"aqua", scale:1, voice:null, rate:1},
+                          JSON.parse(localStorage.getItem(PREF) || "{}"));
+const savePrefs = () => localStorage.setItem(PREF, JSON.stringify(prefs));
+
+function applyTheme(t){
+  prefs.theme = t; savePrefs();
+  document.documentElement.dataset.theme = t;
+  document.querySelectorAll(".sw").forEach(b => b.classList.toggle("on", b.dataset.t === t));
+}
+function applyScale(v){
+  prefs.scale = Math.min(1.6, Math.max(.8, +v.toFixed(2))); savePrefs();
+  document.documentElement.style.setProperty("--scale", prefs.scale);
+  $("fpct").textContent = Math.round(prefs.scale * 100) + "%";
+}
+
+/* ============================================================
+   Speech. The Web Speech API ignores SSML, so prosody has to come from how
+   the text is CHOPPED rather than from markup:
+     - the **bolded** target word is split out and spoken slower and higher,
+       which is audibly stress, and it comes from the card data itself
+     - real pauses between sections, by driving the queue ourselves
+     - the best installed voice is ranked and chosen, not index 0
+   ============================================================ */
+const V = {voice:null, rate:1};
+function rankVoice(v){
+  return (/natural|neural|premium|enhanced/i.test(v.name) ? 8 : 0)
+       + (/google/i.test(v.name) ? 4 : 0)
+       + (/microsoft/i.test(v.name) ? 2 : 0)
+       + (/^en-(GB|US)/i.test(v.lang) ? 1 : 0);
+}
+function loadVoices(){
+  if(!window.speechSynthesis) return;
+  const vs = speechSynthesis.getVoices().filter(v => /^en/i.test(v.lang));
+  if(!vs.length) return;
+  vs.sort((a,b) => rankVoice(b) - rankVoice(a));
+  V.voice = vs.find(v => v.name === prefs.voice) || vs[0];
+  const sel = $("vsel");
+  if(sel){
+    sel.innerHTML = vs.map(v => `<option${v.name===V.voice.name?" selected":""}>${esc(v.name)}</option>`).join("");
+    sel.onchange = () => { V.voice = vs.find(v => v.name === sel.value); prefs.voice = sel.value; savePrefs(); };
+  }
+}
+if(window.speechSynthesis) speechSynthesis.onvoiceschanged = loadVoices;
+
+const speechText = t => (t||"")
+  .replace(/\*\*(.+?)\*\*/g, "$1").replace(/\*(.+?)\*/g, "$1")
+  .replace(/`([^`]+)`/g, "$1")
+  .replace(/[←-⇿☀-➿\uD83C-􏰀-\uDFFF]/g, " ")
+  .replace(/[—–]/g, ", ").replace(/\s+/g, " ").trim();
+
+/* split at **bold** and stress those pieces */
+function emphasised(md){
+  return String(md||"").split(/(\*\*[^*]+\*\*)/g).filter(Boolean).map(part =>
+    part.startsWith("**")
+      ? {text: speechText(part), rate:.68, pitch:1.22, pause:110}
+      : {text: speechText(part), rate:1, pitch:1, pause:0}
+  ).filter(x => x.text);
+}
+
+let sQueue = [], sIdx = 0, sPlaying = false;
+function stopSpeech(){
+  sPlaying = false;
+  if(window.speechSynthesis) speechSynthesis.cancel();
+  document.querySelectorAll(".speak.on").forEach(b => b.classList.remove("on"));
+}
+function sStep(){
+  if(!sPlaying || sIdx >= sQueue.length){ stopSpeech(); return; }
+  const seg = sQueue[sIdx];
+  const u = new SpeechSynthesisUtterance(seg.text);
+  if(V.voice) u.voice = V.voice;
+  u.rate = Math.min(2, (seg.rate === undefined ? 1 : seg.rate) * V.rate);
+  u.pitch = seg.pitch === undefined ? 1 : seg.pitch;
+  const gap = (seg.pause === undefined ? 120 : seg.pause) / V.rate;
+  u.onend = () => { sIdx++; setTimeout(sStep, gap); };
+  u.onerror = () => { sIdx++; setTimeout(sStep, 60); };
+  speechSynthesis.speak(u);
+}
+function speak(segs){
+  if(!window.speechSynthesis){ alert("This browser has no speech support."); return; }
+  stopSpeech(); sQueue = segs.filter(x => x && x.text); sIdx = 0; sPlaying = true; sStep();
+}
+
+/* the whole card, in reading order */
+function cardSegments(c){
+  const seg = [{text:c.word, rate:.72, pitch:1.05, pause:520},
+               {text:speechText(c.pos||""), rate:.95, pause:400}];
+  const section = (label, md) => {
+    if(!md) return;
+    seg.push({text:label, rate:.9, pitch:.92, pause:260});
+    seg.push(...emphasised(md));
+    seg.push({text:" ", pause:480});
+  };
+  section("Means.", c.means);
+  if(c.trap) section("Careful.", c.trap);
+  if(c.trick_line) section("A trick to lock it in.", c.trick_line + ". " + (c.trick_unpack||""));
+  if(c.sentences && c.sentences.length){
+    seg.push({text:"In sentences.", rate:.9, pitch:.92, pause:300});
+    c.sentences.forEach(x => { seg.push(...emphasised(x)); seg.push({text:" ", pause:420}); });
+  }
+  if(c.in_the_wild) section("In the wild.", c.in_the_wild);
+  if(c.etymology) section("Where it comes from.", c.etymology);
+  return seg;
+}
+
+/* ============================================================
+   Accounts and sync.
+
+   Two modes, deliberately: Guest keeps everything in localStorage and needs no
+   network at all, and signing in with Google syncs progress to a hidden folder
+   in the user's OWN Drive.
+
+   The appDataFolder scope is the narrow one - it can only see files this app
+   created, never the user's actual Drive contents. Nothing is stored on any
+   server we run, because there isn't one. That is what lets accounts exist
+   without breaking the zero-backend architecture.
+
+   The client id is public by design; OAuth web client ids ship in client code
+   and are not secrets. There is no client secret here and there must not be.
+   ============================================================ */
+const GOOGLE_CLIENT_ID =
+  "482453347232-uggskn8e9eeuaamsephh7t108nherqo7.apps.googleusercontent.com";
+const DRIVE_SCOPE = "https://www.googleapis.com/auth/drive.appdata";
+const SYNC_FILE = "gre-vocab-progress.json";
+
+const AUTH = {token:null, expires:0, profile:null, fileId:null, status:"guest", last:null};
+let tokenClient = null;
+
+function authed(){ return AUTH.token && Date.now() < AUTH.expires; }
+
+function gsiReady(){ return typeof google !== "undefined" && google.accounts && google.accounts.oauth2; }
+
+function signIn(){
+  if(!gsiReady()){ alert("Google sign-in library did not load. Check your connection."); return; }
+  if(!tokenClient){
+    tokenClient = google.accounts.oauth2.initTokenClient({
+      client_id: GOOGLE_CLIENT_ID,
+      scope: "openid email profile " + DRIVE_SCOPE,
+      callback: async resp => {
+        if(resp.error){ AUTH.status = "guest"; renderAccount(); return; }
+        AUTH.token = resp.access_token;
+        AUTH.expires = Date.now() + (resp.expires_in ? resp.expires_in * 1000 : 3500000);
+        AUTH.status = "syncing"; renderAccount();
+        try{
+          AUTH.profile = await gFetch("https://www.googleapis.com/oauth2/v3/userinfo");
+          await syncNow();
+          AUTH.status = "on";
+        }catch(e){ AUTH.status = "error"; AUTH.last = e.message; }
+        renderAccount(); render();
+      },
+    });
+  }
+  tokenClient.requestAccessToken({prompt: AUTH.profile ? "" : "consent"});
+}
+
+function signOut(){
+  if(AUTH.token && gsiReady()) google.accounts.oauth2.revoke(AUTH.token, () => {});
+  Object.assign(AUTH, {token:null, expires:0, profile:null, fileId:null, status:"guest", last:null});
+  renderAccount();
+}
+
+async function gFetch(url, opts){
+  const r = await fetch(url, Object.assign({}, opts, {
+    headers: Object.assign({Authorization: "Bearer " + AUTH.token}, (opts||{}).headers)}));
+  if(!r.ok) throw new Error((await r.text()).slice(0, 160) || ("HTTP " + r.status));
+  return r.status === 204 ? null : r.json();
+}
+
+async function findFile(){
+  if(AUTH.fileId) return AUTH.fileId;
+  const q = encodeURIComponent("name='" + SYNC_FILE + "'");
+  const j = await gFetch("https://www.googleapis.com/drive/v3/files?spaces=appDataFolder&q=" + q + "&fields=files(id)");
+  AUTH.fileId = (j.files && j.files[0] && j.files[0].id) || null;
+  return AUTH.fileId;
+}
+
+/* Per-key merge, not last-writer-wins on the whole blob: two devices used on
+   the same day would otherwise silently discard one of them. */
+function mergeProgress(remote){
+  const rM = (remote && remote.marks) || {}, rS = (remote && remote.srs) || {};
+  Object.keys(rM).forEach(w => { if(!marks[w]) marks[w] = rM[w]; });
+  Object.keys(rS).forEach(w => {
+    const a = srs[w], b = rS[w];
+    if(!a || (b.seen || 0) > (a.seen || 0)) srs[w] = b;
+  });
+  const rSeen = (remote && remote.seenq) || [];
+  rSeen.forEach(id => seenQ.add(id));
+  save(); saveSrs();
+  localStorage.setItem(SEEN_KEY, JSON.stringify([...seenQ]));
+}
+
+async function syncNow(){
+  const id = await findFile();
+  if(id){
+    try{
+      const r = await fetch("https://www.googleapis.com/drive/v3/files/" + id + "?alt=media",
+        {headers:{Authorization: "Bearer " + AUTH.token}});
+      if(r.ok) mergeProgress(await r.json());
+    }catch(e){ /* a corrupt remote must not block writing a good local copy */ }
+  }
+  const body = JSON.stringify({marks, srs, seenq:[...seenQ], updatedAt: Date.now(), v:1});
+  const meta = {name: SYNC_FILE, mimeType: "application/json"};
+  if(!id) meta.parents = ["appDataFolder"];
+  const boundary = "gvb" + Math.random().toString(36).slice(2);
+  const multipart =
+    "--" + boundary + "\r\nContent-Type: application/json; charset=UTF-8\r\n\r\n" +
+    JSON.stringify(meta) +
+    "\r\n--" + boundary + "\r\nContent-Type: application/json\r\n\r\n" + body +
+    "\r\n--" + boundary + "--";
+  const url = id
+    ? "https://www.googleapis.com/upload/drive/v3/files/" + id + "?uploadType=multipart"
+    : "https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart";
+  const j = await gFetch(url, {method: id ? "PATCH" : "POST", body: multipart,
+    headers: {"Content-Type": "multipart/related; boundary=" + boundary}});
+  if(j && j.id) AUTH.fileId = j.id;
+  AUTH.last = new Date().toLocaleTimeString();
+}
+
+/* Progress changes constantly while drilling; push on a trailing debounce. */
+let syncTimer = null;
+function queueSync(){
+  if(!authed()) return;
+  clearTimeout(syncTimer);
+  syncTimer = setTimeout(() => {
+    AUTH.status = "syncing"; renderAccount();
+    syncNow().then(() => { AUTH.status = "on"; })
+             .catch(e => { AUTH.status = "error"; AUTH.last = e.message; })
+             .finally(renderAccount);
+  }, 4000);
+}
+
+function renderAccount(){
+  const box = $("acctBox");
+  if(!box) return;
+  const p = AUTH.profile;
+  if(authed() && p){
+    const label = {on:"Synced to your Google Drive", syncing:"Syncing...",
+                   error:"Sync failed: " + (AUTH.last||"")}[AUTH.status] || "Signed in";
+    box.innerHTML = `<div class="acct">
+        <div class="avatar">${esc((p.name||p.email||"?")[0].toUpperCase())}</div>
+        <div style="flex:1">
+          <div style="font-weight:600">${esc(p.name || p.email || "Signed in")}</div>
+          <div class="hint"><span class="dot" style="background:var(--${AUTH.status==="error"?"hard":"easy"})"></span>${esc(label)}${AUTH.last&&AUTH.status==="on"?" &middot; "+esc(AUTH.last):""}</div>
+        </div>
+        <button class="btn" id="soBtn">Sign out</button>
+      </div>
+      <button class="btn" id="syncBtn" style="width:100%">Sync now</button>`;
+    $("soBtn").onclick = signOut;
+    $("syncBtn").onclick = () => { AUTH.status="syncing"; renderAccount();
+      syncNow().then(()=>{AUTH.status="on";}).catch(e=>{AUTH.status="error";AUTH.last=e.message;})
+               .finally(()=>{renderAccount(); render();}); };
+  } else {
+    box.innerHTML = `<div class="acct">
+        <div class="avatar" style="background:var(--panel2);color:var(--dim)">?</div>
+        <div style="flex:1">
+          <div style="font-weight:600">Guest</div>
+          <div class="hint">Progress saved on this device only</div>
+        </div>
+      </div>
+      <button class="btn primary" id="siBtn" style="width:100%">Sign in with Google</button>
+      <p class="hint" style="margin-bottom:0">Syncs your marks and review schedule to a hidden
+        folder in your own Google Drive. The app can only see files it created there, never the
+        rest of your Drive.</p>`;
+    $("siBtn").onclick = signIn;
+  }
+}
+
 /* ---- wiring ---- */
 const groups = [...new Set(CARDS.flatMap(c=>c.groups||[]))].sort((a,b)=>a-b);
 $("group").innerHTML = `<option value="">all groups</option>` +
@@ -942,6 +1348,42 @@ $("group").innerHTML = `<option value="">all groups</option>` +
 
 ["search","group","diff"].forEach(id =>
   $(id).addEventListener("input", () => { idx=0; revealed=false; render(); }));
+
+applyTheme(prefs.theme);
+applyScale(prefs.scale);
+V.rate = prefs.rate || 1;
+loadVoices();
+
+$("fup").onclick   = () => applyScale(prefs.scale + .1);
+$("fdown").onclick = () => applyScale(prefs.scale - .1);
+
+$("swatches").innerHTML = THEMES.map(([id,label,col]) =>
+  `<button class="sw" data-t="${id}"><i style="background:${col}"></i>${label}</button>`).join("");
+document.querySelectorAll(".sw").forEach(b => b.onclick = () => applyTheme(b.dataset.t));
+applyTheme(prefs.theme);
+
+$("openSettings").onclick = () => { $("sheet").classList.remove("hidden"); renderAccount(); loadVoices(); };
+renderAccount();
+$("closeSettings").onclick = () => $("sheet").classList.add("hidden");
+$("sheet").onclick = e => { if(e.target.id === "sheet") $("sheet").classList.add("hidden"); };
+if($("rate")){
+  $("rate").value = V.rate;
+  $("rateOut").textContent = V.rate.toFixed(2) + "x";
+  $("rate").oninput = e => { V.rate = +e.target.value; prefs.rate = V.rate; savePrefs();
+    $("rateOut").textContent = V.rate.toFixed(2) + "x"; };
+}
+
+/* any element carrying data-speak reads that word's whole card */
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-speak]");
+  if(!b) return;
+  e.stopPropagation();
+  if(sPlaying){ stopSpeech(); return; }
+  const c = CARDS.find(x => x.word.toLowerCase() === b.dataset.speak.toLowerCase());
+  if(!c) return;
+  b.classList.add("on");
+  speak(cardSegments(c));
+});
 
 $("mBrowse").onclick = () => setMode("browse");
 $("mDrill").onclick  = () => setMode("drill");
