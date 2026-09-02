@@ -1,0 +1,166 @@
+{
+  "unit": "gregmat38__b0",
+  "gregmat_group": 38,
+  "words": [
+    "check",
+    "phony",
+    "querulous"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The framers never imagined that the legislature could {1} executive ambition altogether; they meant only to {2} it, leaving the presidency vigorous but forever straining against a counterweight it could not overpower.",
+      "blanks": [
+        {
+          "options": [
+            "extinguish",
+            "abet",
+            "ratify"
+          ],
+          "answers": [
+            "extinguish"
+          ]
+        },
+        {
+          "options": [
+            "check",
+            "quash",
+            "embolden"
+          ],
+          "answers": [
+            "check"
+          ]
+        }
+      ],
+      "words": [
+        "check"
+      ],
+      "explanation": "The clause after the semicolon promises something weaker than what the first blank denies, and the tail — vigorous, straining, not overpowered — describes a force held rather than destroyed, which is precisely to check it. Quash would crush the ambition outright and so contradict \"vigorous ... straining,\" while extinguish supplies the absolute alternative the sentence rejects; abet and ratify would have the legislature encouraging the very ambition it is meant to oppose.",
+      "id": "gregmat38__b0__tc2__00",
+      "unit": "gregmat38__b0",
+      "verified": true,
+      "gregmat_group": 38
+    },
+    {
+      "type": "cloze",
+      "stem": "Marlborough's pursuit was {1} at the Danube: the French line held, and the allied cavalry, still full of fight, came to rest within sight of the enemy camp.",
+      "blanks": [
+        {
+          "options": [
+            "checked",
+            "quashed",
+            "suppressed",
+            "circumscribed",
+            "hampered"
+          ],
+          "answers": [
+            "checked"
+          ]
+        }
+      ],
+      "words": [
+        "check"
+      ],
+      "explanation": "An advance stopped by an opposing force that leaves the advancing army intact and eager is checked — the word for forward motion arrested by a counterforce. Quashed and suppressed would mean the pursuit was crushed rather than merely halted, contradicting \"still full of fight\"; hampered implies slowed but not stopped, and circumscribed would mean confined within limits rather than brought to a standstill.",
+      "id": "gregmat38__b0__cloze__01",
+      "unit": "gregmat38__b0",
+      "verified": true,
+      "gregmat_group": 38
+    },
+    {
+      "type": "cloze",
+      "stem": "Salinger's narrator has no interest in words like \"hypocrite\" or \"dissembler\"; his term for the adults he despises is {1}, a schoolyard verdict that reveals less about them than about a wounded boy convinced he alone has seen through the act.",
+      "blanks": [
+        {
+          "options": [
+            "phony",
+            "charlatan",
+            "mountebank",
+            "sophist",
+            "apostate"
+          ],
+          "answers": [
+            "phony"
+          ]
+        }
+      ],
+      "words": [
+        "phony"
+      ],
+      "explanation": "The sentence asks for an informal noun for an insincere person, one whose use exposes the speaker's own sense of having been taken in — that is a phony. Charlatan and mountebank name someone falsely claiming expertise or peddling quack remedies, a specific fraud rather than a general pose, and both are too bookish for the \"schoolyard\" register the sentence insists on; sophist and apostate concern bad argument and abandoned belief.",
+      "id": "gregmat38__b0__cloze__03",
+      "unit": "gregmat38__b0",
+      "verified": true,
+      "gregmat_group": 38
+    },
+    {
+      "type": "se",
+      "stem": "As his emphysema worsened, Carlyle's letters lost their old thunder and grew merely {1}, filled with small grievances about drafts, careless servants, and the noise from the street.",
+      "blanks": [
+        {
+          "options": [
+            "querulous",
+            "petulant",
+            "stoic",
+            "irascible",
+            "laconic",
+            "magisterial"
+          ],
+          "answers": [
+            "querulous",
+            "petulant"
+          ]
+        }
+      ],
+      "words": [
+        "querulous"
+      ],
+      "explanation": "\"Merely\" plus a catalogue of trivial grievances calls for peevish, whining complaint, which querulous and petulant both supply. Irascible would mean quick to anger — precisely the \"old thunder\" the letters have lost — while stoic names silent endurance, laconic contradicts \"filled with,\" and magisterial claims an authority the diminished tone denies.",
+      "id": "gregmat38__b0__se__04",
+      "unit": "gregmat38__b0",
+      "verified": true,
+      "gregmat_group": 38
+    },
+    {
+      "type": "tc2",
+      "stem": "The complaint itself was perfectly {1} — the ward really was understaffed — but the old man's {2} delivery, half sigh and half whine, ensured that the nurses heard a nuisance rather than an argument.",
+      "blanks": [
+        {
+          "options": [
+            "cogent",
+            "tendentious",
+            "oblique"
+          ],
+          "answers": [
+            "cogent"
+          ]
+        },
+        {
+          "options": [
+            "querulous",
+            "indignant",
+            "laconic"
+          ],
+          "answers": [
+            "querulous"
+          ]
+        }
+      ],
+      "words": [
+        "querulous"
+      ],
+      "explanation": "The dash confirms the grievance was well founded, so the first blank must concede its validity — cogent — and the contrast falls entirely on manner. Querulous names the whine in the voice that makes a reasonable complaint sound pitiable; indignant would carry the moral force that \"a nuisance rather than an argument\" denies, and laconic describes brevity rather than tone.",
+      "id": "gregmat38__b0__tc2__05",
+      "unit": "gregmat38__b0",
+      "verified": true,
+      "gregmat_group": 38
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank {2} has two defensible answers. \"Phony\" and \"spurious\" are near-exact synonyms here (both = fake/not genuine), and the sentence supplies no cue — semantic, tonal, or collocational — that rules out \"spurious.\" \"Spurious emotion/sentiment\" is standard usage, so a test-taker choosing the more formal-sounding word is marked wrong arbitrarily. The distractor \"austere\" is the only true wrong option, leaving the blank effectively 50/50. Blank {1} is fine: the colon-clause pins \"posturing,\" and \"diffidence\"/\"virtuosity\" both fail. To fix, replace \"spurious\" with a word that is wrong on meaning (e.g. \"impromptu\", \"understated\") rather than merely wrong on register.",
+      "stem": "What the reviewers attacked was not the singer's technique but her {1}: every catch in the voice seemed calculated and every tear timed, until even her admirers had begun calling the whole performance {2}."
+    }
+  ]
+}

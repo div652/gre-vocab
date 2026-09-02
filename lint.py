@@ -137,12 +137,31 @@ def leaks(answer: str, stem: str) -> bool:
     a = answer.strip().lower()
     if len(a) < 4:
         return False
+    # y -> i before a suffix: vilify / vilified, rely / relied.
+    stems = {a} | ({a[:-1] + "i"} if a.endswith("y") else set())
+
+    def inflection(long: str, short: str) -> bool:
+        rest = long[len(short):]
+        if rest in INFLECTIONS:
+            return True
+        # doubled final consonant: abet / abetted, omit / omitted.
+        return bool(rest) and rest[0] == short[-1] and rest[1:] in INFLECTIONS
+
     for tok in re.findall(r"[a-z]+", stem.lower()):
         if len(tok) < 4:
             continue
-        if tok.startswith(a) or (a.startswith(tok) and len(tok) >= len(a) - 2):
-            return True
+        for st in stems:
+            long, short = (tok, st) if len(tok) >= len(st) else (st, tok)
+            # Prefix containment alone is not enough: "determined" starts with
+            # "deter" but is a different lemma and gives nothing away. The
+            # leftover has to be an actual inflection.
+            if long.startswith(short) and inflection(long, short):
+                return True
     return False
+
+
+INFLECTIONS = {"", "s", "es", "d", "ed", "ing", "ly", "r", "er", "est",
+               "ment", "ness", "ion", "tion", "ance", "ence", "ity"}
 
 
 def check_bank() -> int:

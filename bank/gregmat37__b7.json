@@ -1,0 +1,133 @@
+{
+  "unit": "gregmat37__b7",
+  "gregmat_group": 37,
+  "words": [
+    "wanting",
+    "willful"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Auditors found the firm's documentation of the design phase {1}, but its record of the subsequent safety inspections was {2} — and it was that gap, rather than any flaw in the engineering, that sank the company's defense.",
+      "blanks": [
+        {
+          "options": [
+            "copious",
+            "scant",
+            "erratic"
+          ],
+          "answers": [
+            "copious"
+          ]
+        },
+        {
+          "options": [
+            "wanting",
+            "exhaustive",
+            "unimpeachable"
+          ],
+          "answers": [
+            "wanting"
+          ]
+        }
+      ],
+      "words": [
+        "wanting"
+      ],
+      "explanation": "The dash clause identifies a \"gap\" in the inspection record, so the second blank must report a shortfall measured against a standard — the auditors' verdict, wanting. \"Exhaustive\" and \"unimpeachable\" would leave no gap at all. The contrastive \"but\" then forces the first blank to be positive in the same dimension of adequacy: copious, not scant or erratic, both of which would make the two halves agree rather than contrast.",
+      "id": "gregmat37__b7__tc2__00",
+      "unit": "gregmat37__b7",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "Measured against the exacting standard set by the composer's own recordings, the young virtuoso's phrasing, for all its dazzling speed, was {1}.",
+      "blanks": [
+        {
+          "options": [
+            "wanting",
+            "lacking",
+            "scant",
+            "sparse",
+            "paltry",
+            "impeccable"
+          ],
+          "answers": [
+            "wanting",
+            "lacking"
+          ]
+        }
+      ],
+      "words": [
+        "wanting"
+      ],
+      "explanation": "\"Measured against\" an exacting standard sets up a verdict, and the concessive \"for all its dazzling speed\" signals that the verdict is unfavorable: the phrasing fell short, so it was wanting or lacking. \"Impeccable\" reverses the concession, while scant, sparse, and paltry are quantity words — they describe how little of something there is, whereas phrasing fails in quality, not in amount.",
+      "id": "gregmat37__b7__se__01",
+      "unit": "gregmat37__b7",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "The tribunal distinguished sharply between the clerk's {1} misfiling of the ledgers and the executive's {2} destruction of them: only the second act, carried out in full knowledge of the subpoena, drew a criminal charge.",
+      "blanks": [
+        {
+          "options": [
+            "inadvertent",
+            "willful",
+            "meticulous"
+          ],
+          "answers": [
+            "inadvertent"
+          ]
+        },
+        {
+          "options": [
+            "willful",
+            "negligent",
+            "unwitting"
+          ],
+          "answers": [
+            "willful"
+          ]
+        }
+      ],
+      "words": [
+        "willful"
+      ],
+      "explanation": "\"In full knowledge of the subpoena\" is the classic ground for the second blank: willful means done deliberately with blame attached, which is exactly what converts an act into a crime here. \"Negligent\" and \"unwitting\" both concede the absence of that knowledge and so cannot be the distinguishing term. The colon makes the first blank the contrasting case, hence inadvertent; \"meticulous\" misfiling is incoherent.",
+      "id": "gregmat37__b7__tc2__02",
+      "unit": "gregmat37__b7",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Even as a child the future empress was notoriously {1}: she would take no correction from her tutors, doing as she pleased in open defiance of them, and the trait only hardened once she had a court to command.",
+      "blanks": [
+        {
+          "options": [
+            "willful",
+            "restive",
+            "obdurate",
+            "intransigent",
+            "pertinacious"
+          ],
+          "answers": [
+            "willful"
+          ]
+        }
+      ],
+      "words": [
+        "willful"
+      ],
+      "explanation": "The child refuses to be instructed or steered and insists on her own way, which is precisely willful in its headstrong sense. \"Intransigent\" requires a dispute in which one side refuses to compromise, and \"obdurate\" describes hardness against pleas or pity; neither is about resisting authority as such. \"Pertinacious\" praises dogged persistence in a purpose, and \"restive\" suggests fidgeting under restraint rather than the deliberate defiance described.",
+      "id": "gregmat37__b7__cloze__03",
+      "unit": "gregmat37__b7",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": []
+}

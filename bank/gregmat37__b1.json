@@ -1,0 +1,251 @@
+{
+  "unit": "gregmat37__b1",
+  "gregmat_group": 37,
+  "words": [
+    "compound",
+    "deter",
+    "dexterous",
+    "dictum"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The initial misreading of the storm-surge data was, most inquiries agreed, {1} — the models really were ambiguous that week — but the mayor's later decision to suppress the corrected forecast {2} an error of judgment into a career-ending scandal.",
+      "blanks": [
+        {
+          "options": [
+            "excusable",
+            "calculated",
+            "unprecedented"
+          ],
+          "answers": [
+            "excusable"
+          ]
+        },
+        {
+          "options": [
+            "compounded",
+            "mitigated",
+            "forestalled"
+          ],
+          "answers": [
+            "compounded"
+          ]
+        }
+      ],
+      "words": [
+        "compound"
+      ],
+      "explanation": "The dash-clause (\"the models really were ambiguous\") licenses only excusable; calculated contradicts a misreading, and unprecedented is unsupported by that explanation. The second blank needs a verb for a separate, deliberate act piled on the first mistake and multiplying it — compounded; mitigated reverses the direction, and forestalled would mean the scandal was headed off, which the sentence denies.",
+      "id": "gregmat37__b1__tc2__00",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "Far from restoring confidence, the bank's abrupt freeze on credit lines {1} the very shortage that its own earlier lending spree had brought about.",
+      "blanks": [
+        {
+          "options": [
+            "compounded",
+            "exacerbated",
+            "mitigated",
+            "forestalled",
+            "obscured",
+            "deferred"
+          ],
+          "answers": [
+            "compounded",
+            "exacerbated"
+          ]
+        }
+      ],
+      "words": [
+        "compound"
+      ],
+      "explanation": "\"Far from restoring confidence\" forces a worsening verb, and only compounded and exacerbated deliver it — compounded adds the flavor of a second act feeding the first, which fits a bank aggravating a shortage it created. Mitigated points the opposite way; forestalled, obscured, and deferred each fit the grammar but say the shortage was prevented, hidden, or postponed rather than made worse, and none of them pairs with another option.",
+      "id": "gregmat37__b1__se__01",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "The doctrine never pretended to argue anyone out of anything: a second-strike force could not physically stop a launch, its architects conceded, but the certainty of annihilation would {1} any rational adversary from ordering one.",
+      "blanks": [
+        {
+          "options": [
+            "deter",
+            "dissuade",
+            "preclude",
+            "forestall",
+            "incite"
+          ],
+          "answers": [
+            "deter"
+          ]
+        }
+      ],
+      "words": [
+        "deter"
+      ],
+      "explanation": "Deter is prevention through fear of cost, working on a mind that remains perfectly free to act — exactly the logic of a threat that leaves the launch possible. Dissuade would mean persuasion by reasons, which the opening clause explicitly disclaims; preclude and forestall would mean the act was made impossible or headed off in advance, which the sentence denies, and incite reverses the sense.",
+      "id": "gregmat37__b1__cloze__02",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "Steep tolls and conspicuous patrols were meant to {1} casual joyriders, though anyone truly determined to race across the bridge could still pay the price and do it.",
+      "blanks": [
+        {
+          "options": [
+            "deter",
+            "dissuade",
+            "apprehend",
+            "penalize",
+            "preclude",
+            "foment"
+          ],
+          "answers": [
+            "deter",
+            "dissuade"
+          ]
+        }
+      ],
+      "words": [
+        "deter"
+      ],
+      "explanation": "Deter and dissuade both mean to turn would-be actors away from an act that remains open to them, which is just what the concessive clause insists on. Preclude would make the crossing impossible; apprehend (catch after the fact) and penalize (punish) are tonally at home in the sentence but describe what happens to those who go ahead rather than why they refrain, and foment reverses the direction.",
+      "id": "gregmat37__b1__se__03",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewing the surveillance footage, the detective granted that the pickpocket was uncommonly {1} — his fingers moved faster than the camera could resolve — yet hardly {2}, since the man had never once talked his way past a suspicious constable.",
+      "blanks": [
+        {
+          "options": [
+            "dexterous",
+            "gauche",
+            "feckless"
+          ],
+          "answers": [
+            "dexterous"
+          ]
+        },
+        {
+          "options": [
+            "adroit",
+            "nimble",
+            "proficient"
+          ],
+          "answers": [
+            "adroit"
+          ]
+        }
+      ],
+      "words": [
+        "dexterous"
+      ],
+      "explanation": "The first blank is praise for fine motor speed, so dexterous fits and its opposites gauche and feckless cannot. The second must name the skill he lacks, and the evidence is verbal and social failure — adroit is the option that drifts toward social and conversational cleverness; nimble and proficient would contradict the first clause, since the sentence has just credited him with quick, capable hands.",
+      "id": "gregmat37__b1__tc2__04",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "Restorers still speak of the {1} touch with which she lifted flakes of pigment no wider than a hair from the cracked panel and set them back in place.",
+      "blanks": [
+        {
+          "options": [
+            "dexterous",
+            "deft",
+            "meticulous",
+            "ponderous",
+            "tentative",
+            "imperious"
+          ],
+          "answers": [
+            "dexterous",
+            "deft"
+          ]
+        }
+      ],
+      "words": [
+        "dexterous"
+      ],
+      "explanation": "The task described is pure fine motor control, and dexterous and deft are the two options that praise skill in the hand itself. Meticulous fits the tone but praises painstaking care rather than manual skill, and it has no partner among the remaining choices; ponderous, tentative, and imperious are each plausible as descriptions of a manner yet reverse or misdirect the compliment.",
+      "id": "gregmat37__b1__se__05",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "\"Less is more\" is no {1}, anonymous and worn smooth by centuries of common use; it is a {2}, weighty in large part because everyone knows which architect first pronounced it.",
+      "blanks": [
+        {
+          "options": [
+            "proverb",
+            "edict",
+            "decree"
+          ],
+          "answers": [
+            "proverb"
+          ]
+        },
+        {
+          "options": [
+            "dictum",
+            "platitude",
+            "bromide"
+          ],
+          "answers": [
+            "dictum"
+          ]
+        }
+      ],
+      "words": [
+        "dictum"
+      ],
+      "explanation": "The first blank must name a saying with no author, which is a proverb; an edict or decree is by definition issued by a named authority and so cannot be called anonymous. The second must name a saying whose force comes from the standing of its known speaker — that is a dictum, whereas a platitude or bromide would be dismissed as stale and empty, contradicting \"weighty.\"",
+      "id": "gregmat37__b1__tc2__06",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the line is witty, and no one would repeat it for pleasure; it survives in the casebooks solely because it was the Chief Justice who set it down, and such a {1}, however flat, can settle a question that years of argument could not.",
+      "blanks": [
+        {
+          "options": [
+            "dictum",
+            "aphorism",
+            "platitude",
+            "bromide",
+            "adage"
+          ],
+          "answers": [
+            "dictum"
+          ]
+        }
+      ],
+      "words": [
+        "dictum"
+      ],
+      "explanation": "A dictum draws its weight from the standing of whoever issued it, so it can be unquotable and still authoritative — precisely the case described. Aphorism requires the wit the sentence denies; adage requires anonymous, long-worn currency; and platitude and bromide are terms of dismissal that could not describe something capable of settling a question.",
+      "id": "gregmat37__b1__cloze__07",
+      "unit": "gregmat37__b1",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": []
+}

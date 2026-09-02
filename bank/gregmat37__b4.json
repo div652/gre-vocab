@@ -1,0 +1,257 @@
+{
+  "unit": "gregmat37__b4",
+  "gregmat_group": 37,
+  "words": [
+    "hypocrite",
+    "impolitic",
+    "insidious",
+    "intermediary"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Her biographers insist that the distinction matters: the reformer's sermons on frugality were not {1}, for she believed every syllable of them, yet her account books — an unbroken record of extravagance — expose her as a {2}.",
+      "blanks": [
+        {
+          "options": [
+            "disingenuous",
+            "salutary",
+            "didactic"
+          ],
+          "answers": [
+            "disingenuous"
+          ]
+        },
+        {
+          "options": [
+            "hypocrite",
+            "dissembler",
+            "miser"
+          ],
+          "answers": [
+            "hypocrite"
+          ]
+        }
+      ],
+      "words": [
+        "hypocrite"
+      ],
+      "explanation": "\"She believed every syllable\" clears her of insincerity, so the first blank must be the falsehood word she is acquitted of: disingenuous. That acquittal is exactly what rules out dissembler in the second blank, since a dissembler must be lying; hypocrite is the one charge that needs no falsehood — the principle is sound and only the conduct betrays it. Miser would describe someone whose life matched the sermons, not someone the ledgers indict.",
+      "id": "gregmat37__b4__tc2__00",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "The columnist who spent a decade denouncing the tax avoidance of the rich, and who was later found to have routed his own royalties through a shell company in Jersey, is the textbook {1}: the principle he preached was unimpeachable, and only his conduct betrayed it.",
+      "blanks": [
+        {
+          "options": [
+            "hypocrite",
+            "dissembler",
+            "pedant",
+            "sycophant",
+            "misanthrope"
+          ],
+          "answers": [
+            "hypocrite"
+          ]
+        }
+      ],
+      "words": [
+        "hypocrite"
+      ],
+      "explanation": "The sentence stipulates that the stated principle was sound, so the fault lies in the living of it — precisely what hypocrite names, and it requires that the person have preached first. A dissembler conceals his true beliefs, which is ruled out here because his beliefs were never in question; pedant, sycophant and misanthrope name unrelated failings.",
+      "id": "gregmat37__b4__cloze__01",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the ambassador's phrasing was {1} — his courtesy was, as ever, flawless — but conceding the disputed border publicly, before negotiations had even opened, was {2} in the extreme, and it cost his government its only bargaining chip.",
+      "blanks": [
+        {
+          "options": [
+            "indecorous",
+            "mendacious",
+            "salutary"
+          ],
+          "answers": [
+            "indecorous"
+          ]
+        },
+        {
+          "options": [
+            "impolitic",
+            "unseemly",
+            "insidious"
+          ],
+          "answers": [
+            "impolitic"
+          ]
+        }
+      ],
+      "words": [
+        "impolitic"
+      ],
+      "explanation": "\"His courtesy was flawless\" supports only a manners word in the first blank, so indecorous is the one it negates; mendacity is about honesty, which courtesy does not speak to. The second blank must therefore name a fault other than bad manners — a misjudgement that damages one's own position — which is impolitic; unseemly merely repeats the charge just dismissed, and insidious would require slow, concealed harm rather than a self-inflicted public blunder.",
+      "id": "gregmat37__b4__tc2__02",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "Publishing the memo may have been within his rights and was perfectly civil in tone, but it was {1}: it handed his opponents the one piece of evidence they had been unable to obtain for themselves.",
+      "blanks": [
+        {
+          "options": [
+            "impolitic",
+            "injudicious",
+            "indecorous",
+            "unseemly",
+            "gauche",
+            "mendacious"
+          ],
+          "answers": [
+            "impolitic",
+            "injudicious"
+          ]
+        }
+      ],
+      "words": [
+        "impolitic"
+      ],
+      "explanation": "The sentence faults calculation, not conduct: the act was civil and lawful yet weakened his own hand, so impolitic and injudicious both yield \"badly judged\" and are equivalent here. Indecorous, unseemly and gauche all fault manners or breeding, which the clause \"perfectly civil in tone\" explicitly clears, and mendacious would require a falsehood that is nowhere alleged.",
+      "id": "gregmat37__b4__se__03",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Historians of propaganda distinguish the {1} campaign, whose menace is advertised and therefore braced against, from the {2} one, which shifts what an audience takes for granted so gradually that no one thinks to resist at all.",
+      "blanks": [
+        {
+          "options": [
+            "sinister",
+            "insipid",
+            "furtive"
+          ],
+          "answers": [
+            "sinister"
+          ]
+        },
+        {
+          "options": [
+            "insidious",
+            "invidious",
+            "conspicuous"
+          ],
+          "answers": [
+            "insidious"
+          ]
+        }
+      ],
+      "words": [
+        "insidious"
+      ],
+      "explanation": "The first blank needs a word for menace that announces itself: sinister does, while furtive means the opposite and insipid concerns flavourlessness. The contrast then fixes the second blank as the harm that advances slowly and unseen — insidious; invidious means provoking resentment or unfair discrimination, and conspicuous would contradict \"no one thinks to resist.\"",
+      "id": "gregmat37__b4__tc2__04",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Regulators worried less about the loan's advertised rate than about its {1} architecture: a servicing fee compounded monthly and buried in an appendix, which had quietly doubled the balance owed before a single borrower thought to complain.",
+      "blanks": [
+        {
+          "options": [
+            "insidious",
+            "invidious",
+            "insipid",
+            "vapid",
+            "intrepid"
+          ],
+          "answers": [
+            "insidious"
+          ]
+        }
+      ],
+      "words": [
+        "insidious"
+      ],
+      "explanation": "Concealment plus gradual accumulation of damage discovered only after the fact is the definition of insidious. Invidious would mean the terms provoked resentment or singled someone out unfairly, which is not what the compounding fee illustrates; insipid and vapid describe dullness, and intrepid is simply fearless.",
+      "id": "gregmat37__b4__cloze__05",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Protocol {1} the two courts from corresponding directly, so every note passed through the Genoese consul, who served as {2} — proposing no terms of his own, pressing for no concessions, and settling nothing.",
+      "blanks": [
+        {
+          "options": [
+            "barred",
+            "absolved",
+            "exempted"
+          ],
+          "answers": [
+            "barred"
+          ]
+        },
+        {
+          "options": [
+            "an intermediary",
+            "a mediator",
+            "an arbitrator"
+          ],
+          "answers": [
+            "an intermediary"
+          ]
+        }
+      ],
+      "words": [
+        "intermediary"
+      ],
+      "explanation": "Only a prohibition explains why the notes had to travel through a third party, so barred is required; absolved and exempted would relieve the courts of an obligation rather than block them. Because the consul proposed nothing and settled nothing, he occupies a position without exercising a function: an intermediary, not a mediator (who works to settle the dispute) or an arbitrator (who decides it).",
+      "id": "gregmat37__b4__tc2__06",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The platform's whole appeal is that borrowers deal with the people who actually supply the capital, eliminating the {1} whose fee had long been the price of an introduction.",
+      "blanks": [
+        {
+          "options": [
+            "intermediary",
+            "middleman",
+            "mediator",
+            "arbitrator",
+            "guarantor",
+            "benefactor"
+          ],
+          "answers": [
+            "intermediary",
+            "middleman"
+          ]
+        }
+      ],
+      "words": [
+        "intermediary"
+      ],
+      "explanation": "The party removed is one that merely stands between two sides and charges for the passage, so intermediary and middleman are interchangeable here. A mediator works to settle a dispute and an arbitrator decides one, but no dispute is described; a guarantor assumes risk and a benefactor gives rather than collects, so both change the sentence's meaning.",
+      "id": "gregmat37__b4__se__07",
+      "unit": "gregmat37__b4",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": []
+}

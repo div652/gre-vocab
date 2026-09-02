@@ -1,0 +1,232 @@
+{
+  "unit": "gregmat36__b6",
+  "gregmat_group": 36,
+  "words": [
+    "sacrosanct",
+    "shrewd",
+    "unadorned",
+    "valedictory"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The charter was reissued every decade, but the clause guaranteeing the founding members' tenure had long since become {1}, and any delegate who proposed reopening it was dismissed as an {2} nuisance rather than answered on the merits.",
+      "blanks": [
+        {
+          "options": [
+            "sacrosanct",
+            "provisional",
+            "numinous"
+          ],
+          "answers": [
+            "sacrosanct"
+          ]
+        },
+        {
+          "options": [
+            "iconoclastic",
+            "ingenuous",
+            "valedictory"
+          ],
+          "answers": [
+            "iconoclastic"
+          ]
+        }
+      ],
+      "words": [
+        "sacrosanct"
+      ],
+      "explanation": "The clause has been placed beyond argument by its defenders, and the sentence's faint mockery of that fact is exactly what sacrosanct carries; provisional reverses the sense, and numinous would claim the clause radiates divine awe rather than institutional privilege. Blank 2 must name someone attacking a protected object, so iconoclastic follows; ingenuous (naive, guileless) would explain the delegate away rather than accuse him.",
+      "id": "gregmat36__b6__tc2__00",
+      "unit": "gregmat36__b6",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "The founder's original open-plan seating scheme for the newsroom was treated as {1}: editors who had never met the man defended it against consultants with a fervor that had nothing to do with how anyone actually worked.",
+      "blanks": [
+        {
+          "options": [
+            "sacrosanct",
+            "inviolate",
+            "numinous",
+            "utilitarian",
+            "quaint",
+            "negotiable"
+          ],
+          "answers": [
+            "sacrosanct",
+            "inviolate"
+          ]
+        }
+      ],
+      "words": [
+        "sacrosanct"
+      ],
+      "explanation": "Both sacrosanct and inviolate say the scheme has been ruled off-limits to change, which is what the editors' fervor establishes. Numinous would attribute a sense of the divine to a floor plan, and negotiable and quaint are grammatically comfortable but reverse or trivialize the defense the sentence describes.",
+      "id": "gregmat36__b6__se__01",
+      "unit": "gregmat36__b6",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "The memoir's style is deliberately {1} — no scenes reconstructed, no invented dialogue, no adjective doing work a fact could do — and yet it is plainly the record of a {2} observer, one who never fails to register which person in a room controls the money.",
+      "blanks": [
+        {
+          "options": [
+            "unadorned",
+            "florid",
+            "ostentatious"
+          ],
+          "answers": [
+            "unadorned"
+          ]
+        },
+        {
+          "options": [
+            "shrewd",
+            "artless",
+            "valedictory"
+          ],
+          "answers": [
+            "shrewd"
+          ]
+        }
+      ],
+      "words": [
+        "unadorned",
+        "shrewd"
+      ],
+      "explanation": "The catalogue of things left out defines blank 1 as prose with nothing added, which is unadorned rather than its opposites florid and ostentatious. The \"and yet\" demands that plainness of surface coexist with sharpness of perception about money and power, so shrewd fits and artless — which would make her incapable of such reading — contradicts it.",
+      "id": "gregmat36__b6__tc2__03",
+      "unit": "gregmat36__b6",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Tacitus's account of the emperor's last hours is {1}: he sets down the sequence of events, one after another, and declines to supply the moralizing flourishes his readers had every reason to expect.",
+      "blanks": [
+        {
+          "options": [
+            "unadorned",
+            "unembellished",
+            "ornate",
+            "florid",
+            "tendentious",
+            "sanctimonious"
+          ],
+          "answers": [
+            "unadorned",
+            "unembellished"
+          ]
+        }
+      ],
+      "words": [
+        "unadorned"
+      ],
+      "explanation": "The point is that nothing decorative was added to the bare sequence, which unadorned and unembellished say identically. Ornate and florid describe the flourishes he refused, while tendentious and sanctimonious sound apt for a historian of morals but attribute exactly the editorializing the sentence says he withheld.",
+      "id": "gregmat36__b6__se__04",
+      "unit": "gregmat36__b6",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "cloze",
+      "stem": "Though its author would live and write for another decade, Prospero's speech about drowning his book has been read almost since the theater reopened as {1} — Shakespeare, on this reading, taking formal leave of the stage he had dominated.",
+      "blanks": [
+        {
+          "options": [
+            "valedictory",
+            "apocryphal",
+            "iconoclastic",
+            "sacrosanct",
+            "extemporaneous"
+          ],
+          "answers": [
+            "valedictory"
+          ]
+        }
+      ],
+      "words": [
+        "valedictory"
+      ],
+      "explanation": "The gloss supplies the definition: a formal, deliberate farewell that looks back over a career, which is what valedictory names. Apocryphal would question the speech's authorship rather than its function, and extemporaneous would deny it the ceremony the reading depends on.",
+      "id": "gregmat36__b6__cloze__05",
+      "unit": "gregmat36__b6",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "tc2",
+      "stem": "The talk had been announced as merely the last of the season, but its tone was unmistakably {1}: Bohr spent an hour recounting how the field had begun and naming the students he expected to {2} the work he was now setting down.",
+      "blanks": [
+        {
+          "options": [
+            "valedictory",
+            "extemporaneous",
+            "sacrosanct"
+          ],
+          "answers": [
+            "valedictory"
+          ]
+        },
+        {
+          "options": [
+            "inherit",
+            "repudiate",
+            "catalogue"
+          ],
+          "answers": [
+            "inherit"
+          ]
+        }
+      ],
+      "words": [
+        "valedictory"
+      ],
+      "explanation": "The contrast between a talk that is simply the last one and a talk that knows it is the last — surveying the beginnings, passing something on — is precisely valedictory rather than merely final. That handing-on then fixes blank 2 as inherit; repudiate would have him name successors in order to disown them, and catalogue makes the students archivists of work he is still relinquishing to them.",
+      "id": "gregmat36__b6__tc2__06",
+      "unit": "gregmat36__b6",
+      "verified": true,
+      "gregmat_group": 36
+    },
+    {
+      "type": "se",
+      "stem": "Having grown up behind the counter of her father's shop, she was a {1} judge of which customers would settle their accounts and which would merely promise to.",
+      "blanks": [
+        {
+          "options": [
+            "shrewd",
+            "canny",
+            "ingenuous",
+            "credulous",
+            "unsparing",
+            "indulgent"
+          ],
+          "answers": [
+            "shrewd",
+            "canny"
+          ]
+        }
+      ],
+      "words": [
+        "shrewd"
+      ],
+      "explanation": "Shrewd and canny both describe practical, hard-to-fool judgment about people and money learned from experience, which the shop-counter upbringing sets up. Ingenuous and credulous name the opposite disposition, and unsparing and indulgent fit the grammar while describing her severity or leniency toward debtors rather than her accuracy in predicting them.",
+      "id": "gregmat36__b6__se__07",
+      "unit": "gregmat36__b6",
+      "verified": true,
+      "gregmat_group": 36
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Two options genuinely fit. \"Shrewd\" and \"sagacious\" are near-synonyms for keen discernment; the only distinction is connotation (shrewd = practical/cunning, sagacious = wise/far-seeing). The sentence's \"no theorist... read little\" mildly favors the practical shrewd over the more learned-sounding sagacious, and the empire-building-from-overlooked-clauses detail leans toward cunning — but neither cue is decisive. A reasonable test-taker could select \"sagacious\" and be marked wrong. The other three (ingenuous, artless, gullible) are all naive-cluster distractors and are clearly excluded, so the item effectively has two live keys.",
+      "stem": "Moses was no theorist of cities and read little that was not a statute, yet he was a {1} reader of legislative language, and he built an empire out of clauses his rivals had signed without troubling to examine."
+    }
+  ]
+}

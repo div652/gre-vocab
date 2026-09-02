@@ -1,0 +1,225 @@
+{
+  "unit": "gregmat37__b2",
+  "gregmat_group": 37,
+  "words": [
+    "dutiful",
+    "empathetic",
+    "ensue",
+    "fathom"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Her letters to her father are models of filial correctness — {1} bulletins on health, weather, and the price of coal — while those to her sister, alert to every worry the sister never quite states, show how {2} she could be once the writing was not owed to anyone.",
+      "blanks": [
+        {
+          "options": [
+            "dutiful",
+            "buoyant",
+            "callous"
+          ],
+          "answers": [
+            "dutiful"
+          ]
+        },
+        {
+          "options": [
+            "empathetic",
+            "obdurate",
+            "apathetic"
+          ],
+          "answers": [
+            "empathetic"
+          ]
+        }
+      ],
+      "words": [
+        "dutiful",
+        "empathetic"
+      ],
+      "explanation": "The father's letters are correct but affectless — performed because they are owed — which is exactly \"dutiful\"; \"callous\" is impossible next to \"models of filial correctness,\" and \"buoyant\" describes mood, not obligation. The sister's letters register feelings that are never stated aloud, the defining act of the empathetic reader, whereas \"obdurate\" and \"apathetic\" would contradict the contrast the sentence sets up.",
+      "id": "gregmat37__b2__tc2__00",
+      "unit": "gregmat37__b2",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Trained to be {1} — to register a caller's panic from the inside rather than to note it clinically — the crisis-line volunteers were nonetheless warned that if they carried every call home with them, burnout would inevitably {2}.",
+      "blanks": [
+        {
+          "options": [
+            "empathetic",
+            "dutiful",
+            "obdurate"
+          ],
+          "answers": [
+            "empathetic"
+          ]
+        },
+        {
+          "options": [
+            "ensue",
+            "precede",
+            "abate"
+          ],
+          "answers": [
+            "ensue"
+          ]
+        }
+      ],
+      "words": [
+        "empathetic",
+        "ensue"
+      ],
+      "explanation": "The dash defines the first blank outright — entering another's feeling rather than merely observing it — so \"dutiful,\" which describes correct conduct without feeling, is too weak and \"obdurate\" is the opposite. \"Ensue\" supplies the causal consequence the warning requires; \"precede\" inverts the causation and \"abate\" would make the warning meaningless.",
+      "id": "gregmat37__b2__tc2__02",
+      "unit": "gregmat37__b2",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The audience gave the visiting deputy minister the {1} applause owed to any official guest — brief, evenly spaced, ending on cue — and then turned back to their conversations.",
+      "blanks": [
+        {
+          "options": [
+            "dutiful",
+            "perfunctory",
+            "rapturous",
+            "spontaneous",
+            "derisive",
+            "protracted"
+          ],
+          "answers": [
+            "dutiful",
+            "perfunctory"
+          ]
+        }
+      ],
+      "words": [
+        "dutiful"
+      ],
+      "explanation": "\"Owed to any official guest\" plus the metronomic description marks applause performed as an obligation with the feeling absent, which is what \"dutiful\" and \"perfunctory\" both convey. \"Rapturous\" and \"protracted\" contradict \"brief\" and \"ending on cue,\" \"spontaneous\" contradicts \"owed,\" and \"derisive\" would make the crowd hostile rather than merely correct.",
+      "id": "gregmat37__b2__se__03",
+      "unit": "gregmat37__b2",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "What made her an exceptional hospice nurse was not technical skill, which any ward could supply, but something harder to teach: a {1} attention that seemed to enter her patients' fear instead of merely noting it on a chart.",
+      "blanks": [
+        {
+          "options": [
+            "empathetic",
+            "compassionate",
+            "callous",
+            "meticulous",
+            "imperturbable",
+            "self-effacing"
+          ],
+          "answers": [
+            "empathetic",
+            "compassionate"
+          ]
+        }
+      ],
+      "words": [
+        "empathetic"
+      ],
+      "explanation": "\"Enter her patients' fear instead of merely noting it\" is the definition of feeling with someone from the inside, so \"empathetic\" and \"compassionate\" yield equivalent sentences. \"Meticulous\" is excluded because the sentence has already set this quality against technical skill, \"imperturbable\" and \"self-effacing\" name unrelated virtues, and \"callous\" reverses the meaning.",
+      "id": "gregmat37__b2__se__04",
+      "unit": "gregmat37__b2",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The letters survive intact and their prose is perfectly plain; what her biographers still cannot {1} is her decision to leave the most damaging of them unburned.",
+      "blanks": [
+        {
+          "options": [
+            "fathom",
+            "grasp",
+            "decipher",
+            "condone",
+            "chronicle",
+            "anticipate"
+          ],
+          "answers": [
+            "fathom",
+            "grasp"
+          ]
+        }
+      ],
+      "words": [
+        "fathom"
+      ],
+      "explanation": "Because the text is intact and plain, the difficulty lies in the depth of the motive rather than in any obscurity of the document, so \"fathom\" and \"grasp\" are the equivalent pair. \"Decipher\" would require something illegible or coded, which the first clause denies; \"condone\" turns the failure into moral disapproval, \"chronicle\" into a failure of record-keeping, and \"anticipate\" into foresight about an act already long past.",
+      "id": "gregmat37__b2__se__05",
+      "unit": "gregmat37__b2",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "The bank failure of 1857 was itself a matter of weeks; the credit famine that {1} lasted three years, closed a quarter of the country's mills, and brought down two governments.",
+      "blanks": [
+        {
+          "options": [
+            "ensued",
+            "elapsed",
+            "presaged",
+            "subsided",
+            "abated"
+          ],
+          "answers": [
+            "ensued"
+          ]
+        }
+      ],
+      "words": [
+        "ensue"
+      ],
+      "explanation": "The famine both follows the failure and results from it, which is exactly the causal sequence \"ensued\" reports, and the deadpan register suits a historian's summary. \"Presaged\" would make the famine precede and foretell the failure, while \"subsided\" and \"abated\" contradict a three-year crisis and \"elapsed\" can be said only of time itself.",
+      "id": "gregmat37__b2__cloze__06",
+      "unit": "gregmat37__b2",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Historians have reconstructed the campaign down to its forage requisitions, and not one surviving order is ambiguous; what they cannot {1} is why a commander so scrupulous about supply lines should have ignored the calendar.",
+      "blanks": [
+        {
+          "options": [
+            "fathom",
+            "decipher",
+            "construe",
+            "corroborate",
+            "dispute"
+          ],
+          "answers": [
+            "fathom"
+          ]
+        }
+      ],
+      "words": [
+        "fathom"
+      ],
+      "explanation": "Every fact is available and legible, so the obstacle is the sheer depth of the motive — the case in which English idiom reaches for \"cannot fathom.\" \"Decipher\" and \"construe\" both presuppose an obscure or ambiguous text, which the sentence explicitly excludes, and \"corroborate\" and \"dispute\" concern the truth of evidence rather than the intelligibility of a decision.",
+      "id": "gregmat37__b2__cloze__07",
+      "unit": "gregmat37__b2",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "Blank 2 is not uniquely constrained. \"Fathom\" is the intended word (the record is explicitly not ambiguous, so the gap is in comprehending a motive, not in decoding a text), but \"decipher\" is standard idiomatic English for \"work out why someone did something\" and fits the sentence as written; the opening clause only weakly disfavors it by implicature. Only \"jettison\" is clearly excluded. Blank 1 is fine — \"ensued\" is the sole option that works grammatically and temporally.",
+      "stem": "Nothing in the record is missing or ambiguous: the minutes note the vote and the mass resignation that {1} within the hour; they simply leave the reader unable to {2} why a chairman holding a comfortable majority abandoned the merger he had spent four years assembling."
+    }
+  ]
+}

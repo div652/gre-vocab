@@ -1,0 +1,253 @@
+{
+  "unit": "gregmat37__b5",
+  "gregmat_group": 37,
+  "words": [
+    "passive",
+    "raillery",
+    "ramble",
+    "resent"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The memoir presents her occupation years as wholly {1} — she neither assisted the German administrators nor obstructed them — yet the diaries recovered in 1998 show a woman who {2} each small compromise she was forced into, brooding over them for the rest of her life.",
+      "blanks": [
+        {
+          "options": [
+            "passive",
+            "amenable",
+            "tractable"
+          ],
+          "answers": [
+            "passive"
+          ]
+        },
+        {
+          "options": [
+            "resented",
+            "condoned",
+            "rationalized"
+          ],
+          "answers": [
+            "resented"
+          ]
+        }
+      ],
+      "words": [
+        "passive",
+        "resent"
+      ],
+      "explanation": "The clause \"neither assisted nor obstructed\" describes the absence of any action at all, which is what passive names; amenable and tractable both describe a person who does go along with what is asked, and so are contradicted by \"neither assisted.\" In the second blank, \"brooding over them for the rest of her life\" demands the slow, stored, silent bitterness of resent — condoned and rationalized would both mean she had settled the matter, which is exactly what the brooding denies.",
+      "id": "gregmat37__b5__tc2__00",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The correspondence between the two novelists is filled with the affectionate {1} of friends who took pleasure in each other's quickness, not the contempt their later editors were so determined to find in it.",
+      "blanks": [
+        {
+          "options": [
+            "raillery",
+            "banter",
+            "derision",
+            "ridicule",
+            "censure",
+            "flattery"
+          ],
+          "answers": [
+            "raillery",
+            "banter"
+          ]
+        }
+      ],
+      "words": [
+        "raillery"
+      ],
+      "explanation": "Raillery and banter both denote witty teasing exchanged warmly between people who like each other, which is what \"affectionate\" and \"took pleasure in each other's quickness\" establish. Derision and ridicule are mockery from contempt — precisely what the final clause rules out — while censure is formal disapproval and flattery reverses the sense of teasing altogether.",
+      "id": "gregmat37__b5__se__01",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Reviewers agreed that the biography's failing was {1} rather than factual: the research was impeccable, but the narrative {2} through decades of minor correspondence before it arrived at the quarrel that had shaped its subject's career.",
+      "blanks": [
+        {
+          "options": [
+            "organizational",
+            "evidentiary",
+            "moral"
+          ],
+          "answers": [
+            "organizational"
+          ]
+        },
+        {
+          "options": [
+            "rambled",
+            "cohered",
+            "hastened"
+          ],
+          "answers": [
+            "rambled"
+          ]
+        }
+      ],
+      "words": [
+        "ramble"
+      ],
+      "explanation": "\"Rather than factual\" plus \"the research was impeccable\" excludes an evidentiary fault and points to a fault of arrangement, and the second half of the sentence — drifting through minor material before reaching the central matter — is exactly the structural drift that rambled names. Cohered would describe the opposite of a fault, and hastened would name a different failing altogether (rushing), which the leisurely \"decades of minor correspondence\" contradicts.",
+      "id": "gregmat37__b5__tc2__02",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "The rota was fair enough on its face, and he never once complained of it aloud; but he {1} it quietly for a decade, and it colored everything he later said about the department.",
+      "blanks": [
+        {
+          "options": [
+            "resented",
+            "condoned",
+            "exonerated",
+            "relished",
+            "disputed"
+          ],
+          "answers": [
+            "resented"
+          ]
+        }
+      ],
+      "words": [
+        "resent"
+      ],
+      "explanation": "Resent is the only option that combines duration, silence, and a sense of unfairness, all of which the sentence supplies: \"quietly for a decade\" and a grievance that still colors his speech years later. Disputed is the nearest trap, but it requires an open objection, which \"never once complained aloud\" forbids; condoned and exonerated mean he let the matter go, and relished reverses the feeling.",
+      "id": "gregmat37__b5__cloze__03",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The Senate proved so {1} under the emergency decrees that it neither ratified them nor moved to challenge them, letting each take effect through sheer inaction.",
+      "blanks": [
+        {
+          "options": [
+            "passive",
+            "supine",
+            "amenable",
+            "tractable",
+            "obdurate",
+            "fractious"
+          ],
+          "answers": [
+            "passive",
+            "supine"
+          ]
+        }
+      ],
+      "words": [
+        "passive"
+      ],
+      "explanation": "Passive and supine both describe a body that simply fails to act, which is what \"neither ratified nor challenged\" and \"sheer inaction\" specify. Amenable and tractable would mean the Senate obligingly went along — but a compliant Senate would have ratified, and it did not; obdurate and fractious describe resistance, which the sentence equally denies.",
+      "id": "gregmat37__b5__se__04",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Their Sunday habit was a long {1} over the chalk downs, undertaken with no destination in mind and abandoned the moment the light began to go.",
+      "blanks": [
+        {
+          "options": [
+            "ramble",
+            "trek",
+            "pilgrimage",
+            "expedition",
+            "foray"
+          ],
+          "answers": [
+            "ramble"
+          ]
+        }
+      ],
+      "words": [
+        "ramble"
+      ],
+      "explanation": "A ramble is a leisurely walk taken for its own sake, and \"no destination in mind\" makes aimlessness the defining feature rather than a defect. A pilgrimage and an expedition are both defined by their objective, a trek implies arduous length, and a foray is a brief incursion into hostile or unfamiliar territory.",
+      "id": "gregmat37__b5__cloze__05",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "What had for thirty years been {1} — the affectionate needling of two men who trusted each other to give as good as they got — curdled after the directorship was announced into something the older of them never mentioned aloud but plainly {2}.",
+      "blanks": [
+        {
+          "options": [
+            "raillery",
+            "invective",
+            "derision"
+          ],
+          "answers": [
+            "raillery"
+          ]
+        },
+        {
+          "options": [
+            "resented",
+            "condoned",
+            "relished"
+          ],
+          "answers": [
+            "resented"
+          ]
+        }
+      ],
+      "words": [
+        "raillery",
+        "resent"
+      ],
+      "explanation": "The appositive defines the first blank as warm, mutual teasing between equals who expect it returned, which is raillery; invective is abusive attack and derision is mockery from contempt, neither of which can be \"affectionate\" or reciprocal by design. The second blank must be a grievance that is lasting and unspoken — \"never mentioned aloud\" — which is resent's signature; condoned and relished both contradict \"curdled.\"",
+      "id": "gregmat37__b5__tc2__06",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "He congratulated her warmly at the ceremony and never raised the matter again, yet colleagues could tell from his silences that he {1} the appointment for years afterward.",
+      "blanks": [
+        {
+          "options": [
+            "resented",
+            "begrudged",
+            "condoned",
+            "contested",
+            "extolled",
+            "overlooked"
+          ],
+          "answers": [
+            "resented",
+            "begrudged"
+          ]
+        }
+      ],
+      "words": [
+        "resent"
+      ],
+      "explanation": "Resented and begrudged both name a bitterness at another's good fortune that is nursed privately over time, which \"from his silences\" and \"for years afterward\" require. Contested is the tempting wrong answer because it fits the grammar and the theme of a disputed promotion, but it demands an open challenge that \"never raised the matter again\" excludes; condoned, extolled, and overlooked all describe a man who had made his peace with it.",
+      "id": "gregmat37__b5__se__07",
+      "unit": "gregmat37__b5",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": []
+}

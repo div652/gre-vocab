@@ -1,0 +1,230 @@
+{
+  "unit": "gregmat37__b3",
+  "gregmat_group": 37,
+  "words": [
+    "frank",
+    "germane",
+    "grumble",
+    "hidebound"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Where her predecessor had {1} whenever the subject of layoffs arose, the new chief executive was {2}: she named the number, the date, and the departments, and let the room absorb it.",
+      "blanks": [
+        {
+          "options": [
+            "equivocated",
+            "averred",
+            "expounded"
+          ],
+          "answers": [
+            "equivocated"
+          ]
+        },
+        {
+          "options": [
+            "frank",
+            "tacit",
+            "allusive"
+          ],
+          "answers": [
+            "frank"
+          ]
+        }
+      ],
+      "words": [
+        "frank"
+      ],
+      "explanation": "The contrast \"Where her predecessor had... the new chief executive was...\" demands a dodge in blank 1 and its opposite in blank 2, and naming the number, date, and departments on a painful subject is the definition of frank. Averred (asserted positively) and expounded (explained at length) are not evasions, so they destroy the contrast; tacit means unspoken and allusive means hinting, both of which are refuted by the explicit list that follows.",
+      "id": "gregmat37__b3__tc2__00",
+      "unit": "gregmat37__b3",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Defenders of the practice insisted that the auditor's remarks about the chairman's private investments, however damaging, were {1} to a review of the pension fund's solvency; the tribunal disagreed, holding that money had passed between the two accounts and that the chairman's holdings were therefore {2}.",
+      "blanks": [
+        {
+          "options": [
+            "extraneous",
+            "pertinent",
+            "felicitous"
+          ],
+          "answers": [
+            "extraneous"
+          ]
+        },
+        {
+          "options": [
+            "germane",
+            "tangential",
+            "incidental"
+          ],
+          "answers": [
+            "germane"
+          ]
+        }
+      ],
+      "words": [
+        "germane"
+      ],
+      "explanation": "The defenders are trying to rule the remarks out of the inquiry, so blank 1 must mean off the point, while \"the tribunal disagreed\" plus the flow of money between accounts forces the opposite in blank 2: the holdings genuinely attach to this question. Pertinent would make the defenders argue against themselves; tangential and incidental repeat the defenders' position rather than the tribunal's, and felicitous praises aptness of expression, not relevance.",
+      "id": "gregmat37__b3__tc2__01",
+      "unit": "gregmat37__b3",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "The new director met no open revolt; the {1} bureaucracy she had inherited registered its resistance in nothing louder than a {2}, complying with every directive while contriving to change nothing.",
+      "blanks": [
+        {
+          "options": [
+            "hidebound",
+            "fractious",
+            "heterodox"
+          ],
+          "answers": [
+            "hidebound"
+          ]
+        },
+        {
+          "options": [
+            "grumble",
+            "denunciation",
+            "remonstrance"
+          ],
+          "answers": [
+            "grumble"
+          ]
+        }
+      ],
+      "words": [
+        "hidebound",
+        "grumble"
+      ],
+      "explanation": "An institution that obeys on paper while ensuring nothing actually changes is hidebound — unthinkingly rigid — whereas fractious means quarrelsome and unruly and heterodox means departing from orthodoxy, both contradicted by \"no open revolt\" and by the clerks' preservation of the status quo. Blank 2 is fixed by \"nothing louder than\" and by the compliance: a grumble is the muttered complaint of someone who does the thing anyway, while a denunciation or remonstrance is addressed loudly to someone.",
+      "id": "gregmat37__b3__tc2__02",
+      "unit": "gregmat37__b3",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "Though the stokers {1} ceaselessly about the water ration, not one of them refused an order, and their complaints never rose above a mutter aimed at nobody in particular.",
+      "blanks": [
+        {
+          "options": [
+            "grumbled",
+            "groused",
+            "fretted",
+            "seethed",
+            "protested",
+            "agonized"
+          ],
+          "answers": [
+            "grumbled",
+            "groused"
+          ]
+        }
+      ],
+      "words": [
+        "grumble"
+      ],
+      "explanation": "Grumbled and groused both name low, half-audible complaining that coexists with obedience, which is exactly what the mutter and the unrefused orders establish. Protested implies a complaint pressed on someone in authority, contradicting \"aimed at nobody in particular\"; fretted and agonized substitute anxiety for complaint, and seethed describes anger kept in, not voiced.",
+      "id": "gregmat37__b3__se__03",
+      "unit": "gregmat37__b3",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The ministry that had once pioneered public-health reform was by 1970 so {1} that a claim form unaltered since the war survived a decade of attempts at revision, each defeated by the observation that the form had always been so.",
+      "blanks": [
+        {
+          "options": [
+            "hidebound",
+            "ossified",
+            "doctrinaire",
+            "venerable",
+            "insular",
+            "byzantine"
+          ],
+          "answers": [
+            "hidebound",
+            "ossified"
+          ]
+        }
+      ],
+      "words": [
+        "hidebound"
+      ],
+      "explanation": "Only hidebound and ossified name rigidity that has hardened past the capacity to change, which is what a rule defended purely on the ground that it is old demonstrates. Doctrinaire would require an ideology rather than mere inherited habit, byzantine describes procedural complexity rather than resistance to reform, insular describes narrowness of outlook, and venerable is a compliment the sentence's contempt cannot support.",
+      "id": "gregmat37__b3__se__04",
+      "unit": "gregmat37__b3",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Counsel objected that the witness's long account of the defendant's boyhood, affecting though it was, could not be {1} to the single question the jury had been empaneled to settle: who signed the invoice.",
+      "blanks": [
+        {
+          "options": [
+            "germane",
+            "tangential",
+            "extraneous",
+            "peripheral",
+            "felicitous"
+          ],
+          "answers": [
+            "germane"
+          ]
+        }
+      ],
+      "words": [
+        "germane"
+      ],
+      "explanation": "The objection is that the testimony fails to bear on the question at issue, and since the blank sits under a negation, it must be the positive term: germane. Tangential, extraneous, and peripheral all already mean off the point, so negating them would assert the testimony's relevance and gut the objection; felicitous praises happy phrasing and does not take \"to\" in this sense.",
+      "id": "gregmat37__b3__cloze__06",
+      "unit": "gregmat37__b3",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Nothing in the letters suggests real bitterness: he {1} about the damp, the trams, and his publisher's long silences, and then went cheerfully back to work.",
+      "blanks": [
+        {
+          "options": [
+            "grumbled",
+            "fulminated",
+            "railed",
+            "remonstrated",
+            "inveighed"
+          ],
+          "answers": [
+            "grumbled"
+          ]
+        }
+      ],
+      "words": [
+        "grumble"
+      ],
+      "explanation": "The trivial catalogue of irritations and the cheerful return to work call for the mildest, most muttered form of complaint, which is grumbled. Fulminated, railed, and inveighed all denote vehement public denunciation, which \"nothing suggests real bitterness\" excludes, and remonstrated requires a person addressed and an argument pressed, not damp weather muttered at.",
+      "id": "gregmat37__b3__cloze__07",
+      "unit": "gregmat37__b3",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "The sentence only constrains the blank to \"directly honest about flaws\" (set up by the \"and yet ... attentive to the author's dignity\" contrast, and by \"writers thanked her for the criticism\" implying real criticism was delivered). Both \"frank\" and \"blunt\" satisfy that. \"Blunt\" is arguably the better fit for the concessive \"yet,\" since bluntness is the trait that would ordinarily wound dignity, while \"frank\" carries no such tension and makes the contrast weaker. Nothing in the sentence — no hedge like \"tactfully\" or \"never harsh,\" no diction cue — rules either out, so a test-taker choosing \"blunt\" would be defensibly correct. The other three (allusive, evasive, ingenuous) are clearly wrong, so the item is a two-way coin flip rather than a solvable question. To repair it, add a discriminator, e.g. \"unfailingly ___ about a manuscript's weaknesses, never softening a verdict, and yet so attentive...\" (favors blunt) or \"...never wounding, and yet so...\" (favors frank).",
+      "stem": "Younger novelists sought her out as a reader precisely because she was unfailingly {1} about a manuscript's weaknesses and yet so attentive to the author's dignity that writers thanked her for the criticism."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "unit": "gregmat37__b0",
+  "gregmat_group": 37,
+  "words": [
+    "attribute",
+    "calamitous",
+    "censor",
+    "champion"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "The ministry's decision to {1} every dispatch from the front proved {2}: with no printed account against which to check them, rumors of annihilation ran far ahead of the truth, and within a week the resulting panic had emptied the capital's banks.",
+      "blanks": [
+        {
+          "options": [
+            "censor",
+            "divulge",
+            "disseminate"
+          ],
+          "answers": [
+            "censor"
+          ]
+        },
+        {
+          "options": [
+            "calamitous",
+            "fortuitous",
+            "providential"
+          ],
+          "answers": [
+            "calamitous"
+          ]
+        }
+      ],
+      "words": [
+        "censor",
+        "calamitous"
+      ],
+      "explanation": "The clause \"with no printed account\" requires that the dispatches were suppressed, not released, so divulge and disseminate produce the opposite situation; censor is precisely suppression of material by an authority. The second blank is a verdict on a decision whose consequence was a bank run, which rules out the two luck-words: fortuitous and providential would make the outcome a happy accident rather than the ruin the sentence describes.",
+      "id": "gregmat37__b0__tc2__00",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "The pamphlet is {1} to Paine on no stronger evidence than the cadence of its opening paragraph; whoever actually wrote it, at any rate, {2} the colonists' position at a moment when arguing for it in print was itself an act of treason.",
+      "blanks": [
+        {
+          "options": [
+            "attributed",
+            "relegated",
+            "consigned"
+          ],
+          "answers": [
+            "attributed"
+          ]
+        },
+        {
+          "options": [
+            "championed",
+            "lionized",
+            "censored"
+          ],
+          "answers": [
+            "championed"
+          ]
+        }
+      ],
+      "words": [
+        "attribute",
+        "champion"
+      ],
+      "explanation": "\"On no stronger evidence than\" signals a claim about authorship made under uncertainty, which is exactly what attribute does; relegated and consigned take the same preposition but mean demoted or handed over, not credited to. In the second blank the writer publicly fought for a cause at personal risk, which is champion; lionize takes a person as its object and treats him as a celebrity, and censor would mean suppressing the position rather than defending it.",
+      "id": "gregmat37__b0__tc2__01",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "Nothing in the young member's early record suggested that obstinacy would come to be seen as his essential {1} rather than an occasional lapse of temper; yet it was precisely his refusal to bend on the tariff that made his final session so {2} for the party he had served for thirty years.",
+      "blanks": [
+        {
+          "options": [
+            "attribute",
+            "mannerism",
+            "foible"
+          ],
+          "answers": [
+            "attribute"
+          ]
+        },
+        {
+          "options": [
+            "calamitous",
+            "adverse",
+            "providential"
+          ],
+          "answers": [
+            "calamitous"
+          ]
+        }
+      ],
+      "words": [
+        "attribute",
+        "calamitous"
+      ],
+      "explanation": "The contrast with \"an occasional lapse\" demands a word for a quality that is constitutive rather than incidental, which is what an attribute is; a mannerism is a habitual gesture and a foible a minor weakness, both of them precisely the incidental things being denied. The second blank measures the wreckage a single choice inflicted on a party, so calamitous fits; adverse means merely unfavorable and is far too weak, while providential reverses the sense.",
+      "id": "gregmat37__b0__tc2__02",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The order to divide the army before the river crossing proved {1}: within a fortnight both halves had been destroyed piecemeal, and nothing remained with which to defend the capital.",
+      "blanks": [
+        {
+          "options": [
+            "adverse",
+            "calamitous",
+            "catastrophic",
+            "fortuitous",
+            "hapless",
+            "providential"
+          ],
+          "answers": [
+            "calamitous",
+            "catastrophic"
+          ]
+        }
+      ],
+      "words": [
+        "calamitous"
+      ],
+      "explanation": "Only calamitous and catastrophic name ruin on an irreversible scale, which is what the loss of an entire army and an undefended capital amount to. Fortuitous and providential form a tempting pair, but they mean luckily timed and so contradict the sentence; adverse is far too mild for total destruction, and hapless describes unlucky persons, not the decision that ruined them.",
+      "id": "gregmat37__b0__se__03",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "For two decades, and at considerable cost to her standing in the party, she {1} the cause of prison reform, introducing the same bill session after session and speaking for it when no colleague would.",
+      "blanks": [
+        {
+          "options": [
+            "advocated",
+            "bolstered",
+            "burnished",
+            "championed",
+            "deprecated",
+            "lionized"
+          ],
+          "answers": [
+            "advocated",
+            "championed"
+          ]
+        }
+      ],
+      "words": [
+        "champion"
+      ],
+      "explanation": "Sustained public argument on behalf of a cause, made at personal cost, is what both championed and advocated describe. Bolstered would mean she strengthened a cause already standing rather than fought for it, burnished means to polish a reputation, lionize takes a celebrated person as its object rather than a legislative cause, and deprecated reverses the sense.",
+      "id": "gregmat37__b0__se__04",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "The Lord Chamberlain's office did not ban the play outright; it merely {1} it, striking two scenes and a dozen lines before granting the license under which it ran for three seasons.",
+      "blanks": [
+        {
+          "options": [
+            "censored",
+            "suppressed",
+            "cloaked",
+            "occluded",
+            "disseminated"
+          ],
+          "answers": [
+            "censored"
+          ]
+        }
+      ],
+      "words": [
+        "censor"
+      ],
+      "explanation": "An official body cutting objectionable material while allowing the remainder to appear is the definition of censoring. Suppressed is the nearest trap, but it means keeping the whole work from the public, which \"did not ban outright\" and \"ran for three seasons\" explicitly rule out; cloaked and occluded describe concealment rather than authorized excision, and disseminated is the opposite.",
+      "id": "gregmat37__b0__cloze__05",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "When the entire faculty senate had turned against her, a single colleague {1} her, arguing her case in print and refusing to add his name to the joint letter demanding her resignation.",
+      "blanks": [
+        {
+          "options": [
+            "championed",
+            "lionized",
+            "bolstered",
+            "touted",
+            "burnished"
+          ],
+          "answers": [
+            "championed"
+          ]
+        }
+      ],
+      "words": [
+        "champion"
+      ],
+      "explanation": "To take up someone's cause publicly and absorb the cost of doing so is to champion her. Lionized would mean treating her as a celebrity, which the hostility of the senate excludes; bolstered and burnished take abstract objects such as a case or a reputation rather than a person under attack, and touted implies boosterish promotion rather than defense.",
+      "id": "gregmat37__b0__cloze__06",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "Keynes's verdict on the 1925 restoration of sterling to its prewar parity was unsparing: by pricing British coal and steel out of every foreign market and forcing a decade of wage-cutting at home, the chancellor's choice was, he argued, {1} for the very industries it was meant to reassure.",
+      "blanks": [
+        {
+          "options": [
+            "calamitous",
+            "fortuitous",
+            "providential",
+            "serendipitous",
+            "hapless"
+          ],
+          "answers": [
+            "calamitous"
+          ]
+        }
+      ],
+      "words": [
+        "calamitous"
+      ],
+      "explanation": "The sentence describes ruin on a national scale traced back to a single decision and a chancellor who should have known better, which is exactly the judgement calamitous delivers. Fortuitous, providential, and serendipitous all attribute good luck to the outcome, and hapless would describe an unlucky person rather than the policy that wrecked the industries.",
+      "id": "gregmat37__b0__cloze__07",
+      "unit": "gregmat37__b0",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": []
+}

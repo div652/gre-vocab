@@ -1,0 +1,225 @@
+{
+  "unit": "gregmat37__b6",
+  "gregmat_group": 37,
+  "words": [
+    "residual",
+    "resolve",
+    "surrogate",
+    "vilify"
+  ],
+  "questions": [
+    {
+      "type": "tc2",
+      "stem": "Though the 1978 accord formally {1} the boundary dispute, the {2} mistrust it left behind was potent enough to stall trade negotiations for another decade.",
+      "blanks": [
+        {
+          "options": [
+            "resolved",
+            "impugned",
+            "belittled"
+          ],
+          "answers": [
+            "resolved"
+          ]
+        },
+        {
+          "options": [
+            "residual",
+            "vestigial",
+            "extant"
+          ],
+          "answers": [
+            "residual"
+          ]
+        }
+      ],
+      "words": [
+        "resolve",
+        "residual"
+      ],
+      "explanation": "\"Formally\" plus the concessive \"though\" demands a verb of final settlement, and only resolve claims that finality; impugn and belittle are attacks on standing, and a treaty does neither to a dispute. For the second blank, residual names the measured leftover a process failed to consume and says nothing about the leftover being feeble — vestigial would insist the mistrust had shrunk into a functionless trace, which the clause \"potent enough to stall trade\" flatly contradicts, and extant merely asserts continued existence (of documents, species) without the sense of remaining after.",
+      "id": "gregmat37__b6__tc2__00",
+      "unit": "gregmat37__b6",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "tc2",
+      "stem": "With the candidate herself confined to a hospital bed for the final month, her staff sent out her brother as a {1}; rivals who could not decently attack an invalid {2} him instead, night after night, as the true cynic behind the family name.",
+      "blanks": [
+        {
+          "options": [
+            "surrogate",
+            "protege",
+            "dissident"
+          ],
+          "answers": [
+            "surrogate"
+          ]
+        },
+        {
+          "options": [
+            "vilified",
+            "extolled",
+            "exonerated"
+          ],
+          "answers": [
+            "vilified"
+          ]
+        }
+      ],
+      "words": [
+        "surrogate",
+        "vilify"
+      ],
+      "explanation": "The brother is dispatched to fill a role that rightfully belongs to the absent candidate and to speak in her voice, which is exactly what a surrogate does; a protege is being trained by a mentor, and a dissident opposes the side he belongs to. The second blank needs sustained, public character assassination — \"night after night\" on the air, painting him as wicked — which is vilify's signature; extol and exonerate both improve a reputation, and the rivals' motive is to damage one.",
+      "id": "gregmat37__b6__tc2__01",
+      "unit": "gregmat37__b6",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "The regimen destroys the bulk of the tumour within weeks; it is the {1} tissue, undetectable on most scans, that oncologists spend the following decade watching.",
+      "blanks": [
+        {
+          "options": [
+            "residual",
+            "remaining",
+            "vestigial",
+            "dormant",
+            "malignant",
+            "necrotic"
+          ],
+          "answers": [
+            "residual",
+            "remaining"
+          ]
+        }
+      ],
+      "words": [
+        "residual"
+      ],
+      "explanation": "The sentence contrasts \"the bulk\" destroyed with the small part that survived the treatment, so the blank must mean left over after the greater part was removed: residual and remaining are interchangeable here, residual simply adding the clinical, quantified flavour. Vestigial would make the tissue an atrophied evolutionary relic rather than a survival of therapy, and dormant, malignant and necrotic each describe the tissue's state rather than its status as a remainder, so none of them pairs with another option.",
+      "id": "gregmat37__b6__se__02",
+      "unit": "gregmat37__b6",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "Six months of blockade had thinned the garrison's ranks and its rations, but not its {1}: every offer of honourable surrender was returned unopened.",
+      "blanks": [
+        {
+          "options": [
+            "resolve",
+            "resolution",
+            "irresolution",
+            "ingenuity",
+            "discipline",
+            "ferocity"
+          ],
+          "answers": [
+            "resolve",
+            "resolution"
+          ]
+        }
+      ],
+      "words": [
+        "resolve"
+      ],
+      "explanation": "Refusing terms under prolonged hardship is a display of settled determination that has survived the temptation to yield, and resolve and resolution are exact equivalents in that noun sense. Irresolution reverses the meaning, while ingenuity, discipline and ferocity are each plausible military virtues that would change what the blockade failed to erode — and none of them has a synonym among the other options.",
+      "id": "gregmat37__b6__se__03",
+      "unit": "gregmat37__b6",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "se",
+      "stem": "For thirty years after the trial he was {1} in the popular press as a traitor to his class, though the documents that might have cleared him lay unread in a provincial archive.",
+      "blanks": [
+        {
+          "options": [
+            "vilified",
+            "maligned",
+            "belittled",
+            "dismissed",
+            "lionized",
+            "shunned"
+          ],
+          "answers": [
+            "vilified",
+            "maligned"
+          ]
+        }
+      ],
+      "words": [
+        "vilify"
+      ],
+      "explanation": "A three-decade press campaign branding a man wicked, when the evidence would have acquitted him, is precisely the sustained and unjust reputational attack that vilify and malign both name. Belittle and dismiss fit the grammar and the tone but only deny him importance rather than paint him as evil; lionize reverses the sense, and shunned describes social avoidance rather than what the press published.",
+      "id": "gregmat37__b6__se__04",
+      "unit": "gregmat37__b6",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "At this aperture the pair blurs into a single smear of light; only the two-metre instrument on the ridge can {1} it into distinct stars.",
+      "blanks": [
+        {
+          "options": [
+            "resolve",
+            "dissolve",
+            "supersede",
+            "refract",
+            "magnify"
+          ],
+          "answers": [
+            "resolve"
+          ]
+        }
+      ],
+      "words": [
+        "resolve"
+      ],
+      "explanation": "In optics, to resolve is to separate what appears to be one thing into its constituent parts, which is exactly what the larger telescope does to the blurred double star. Dissolve shares the same root but runs the other way, breaking a thing down into a formless solution rather than distinguishing its components; supersede replaces, refract bends light without separating one image into two, and magnifying a blur only yields a larger blur.",
+      "id": "gregmat37__b6__cloze__06",
+      "unit": "gregmat37__b6",
+      "verified": true,
+      "gregmat_group": 37
+    },
+    {
+      "type": "cloze",
+      "stem": "A regression is only as trustworthy as its {1}: if the gaps between the predicted and the observed values fan out as the fitted values grow, the model's assumptions have failed.",
+      "blanks": [
+        {
+          "options": [
+            "residuals",
+            "vestiges",
+            "proxies",
+            "surrogates",
+            "remainders"
+          ],
+          "answers": [
+            "residuals"
+          ]
+        }
+      ],
+      "words": [
+        "residual"
+      ],
+      "explanation": "As a noun, a residual is the quantified leftover a process could not account for — in statistics, precisely the gap between prediction and observation that the second clause describes. Vestiges are faded traces of a former state, proxies and surrogates are stand-ins for something else, and remainder is the arithmetic term for what is left after division, none of which names the error a fitted model leaves behind.",
+      "id": "gregmat37__b6__cloze__07",
+      "unit": "gregmat37__b6",
+      "verified": true,
+      "gregmat_group": 37
+    }
+  ],
+  "rejects": [
+    {
+      "why": "not unique / low confidence",
+      "problem": "\"Surrogate\" is clearly the intended answer — \"surrogate father/parent\" is the fixed collocation, and the appositive gloss (indulgent, attentive, yet never filling the empty place) describes exactly a stand-in parent. The three throwaway distractors (fungible, vestigial, residual) are all nonsense here, but \"proxy\" is a genuine near-synonym of surrogate (\"substitute, stand-in, deputy\") and is listed as such in standard thesauri; nothing in the sentence semantically excludes \"a proxy father.\" The only thing separating the two is idiom/register — proxy leans formal-delegated (proxy vote, proxy war) while surrogate is the word English actually uses for family substitution — which is a distinction of usage frequency, not of meaning the sentence tests. A reasonable test-taker who reads \"stand-in father\" and picks \"proxy\" would be marked wrong on a collocational technicality. Either replace \"proxy\" with a distractor that is semantically wrong (e.g. \"titular,\" \"paternal,\" \"avuncular\") or add a clause that requires the emotional/substitute-parent sense specifically rather than mere substitution.",
+      "stem": "Orphaned at nine and taken into his uncle's household, the boy came to treat the elderly painter as a {1} father: indulgent, attentive, and yet never quite able to occupy the place that had been left empty."
+    }
+  ]
+}
