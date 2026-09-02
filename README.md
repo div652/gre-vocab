@@ -3,6 +3,22 @@
 1112 GRE words, each explained in a fixed, hand-calibrated card format, generated
 once into JSON and rendered into study documents and an offline flashcard app.
 
+## Documentation
+
+**[`docs/`](docs/) is the handover pack** — written so an AI agent with no history
+here can take the project over. Start at [docs/README.md](docs/README.md).
+
+| | |
+|---|---|
+| [PHILOSOPHY](docs/PHILOSOPHY.md) | the invariants, and why each exists |
+| [ARCHITECTURE](docs/ARCHITECTURE.md) | pipeline, transport, app internals |
+| [DATA-MODEL](docs/DATA-MODEL.md) | every schema, storage key and route |
+| [DECISIONS](docs/DECISIONS.md) | 32 decisions with rejected alternatives |
+| [OPERATIONS](docs/OPERATIONS.md) | how to run it, real costs, known failure modes |
+| [MAINTAINING-DOCS](docs/MAINTAINING-DOCS.md) | how to keep all of the above true |
+
+`python docs_check.py` verifies the docs still match the repository.
+
 ## The idea
 
 The card format was tuned interactively over a couple of dozen words until it was
