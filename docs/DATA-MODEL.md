@@ -155,9 +155,33 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-route` | last route, so reopening returns you where you were |
 | `gre-vocab-qtypes` | enabled quiz types |
 | `gre-vocab-qdue` | "only ask what's due" toggle |
+| `gre-vocab-qscope-v1` | array of selected quiz scope ids — see below |
 | `gre-vocab-gemini-key` | user's own Gemini API key (never leaves the device except to Google) |
 | `gre-vocab-gemini-model` | chosen model id |
 | `gre-vocab-prefs-v1` | `{theme, scale, voice, rate}` — appearance and reading voice |
+
+### Quiz scopes
+
+Two unrelated taxonomies are quizzable and the picker mixes them freely, so
+`build_app.py` normalises both into one shape at load:
+
+```js
+{ id, kind, title, words: [{word}] }
+```
+
+- **GregMat lists** are derived in the browser from each card's `groups: [n]`
+  field. Their ids are `list:<n>` (`list:12`), prefixed so they can never
+  collide with a group slug. 38 of them, ~30 words each.
+- **Semantic groups** are the `groups/` files, used as-is. 655 of them.
+
+`gre-vocab-qscope-v1` holds ids from either taxonomy in one flat array. Ids that
+no longer resolve are dropped on load, so a stale selection from an older build
+degrades quietly instead of producing an empty quiz.
+
+The selection is **not** in the URL. `/quiz/<groupId>` still works as a shortcut
+— it sets the scope to that one group and rewrites itself to `/quiz` — but
+twenty group slugs in a hash would be unreadable, and the selection has to
+survive a reload regardless.
 
 ### Signed-in storage — Google Drive
 
@@ -192,10 +216,15 @@ Hash routes, pushed to history so Back works and the last one is persisted.
 ```
 /browse            /browse/<word>
 /drill
-/quiz              /quiz/<groupId>     group-scoped quiz
-/groups            /groups/<groupId>
+/quiz              /quiz/<groupId>     shortcut: scope to one group, then
+/groups            /groups/<groupId>   rewrites itself to /quiz
 ```
 
-`<groupId>` is a semantic group `id`. A group-scoped quiz draws both its target
-words and its distractors from that group, and disables "only what's due"
-(a five-word group would otherwise almost always be empty).
+The quiz has one route. `/quiz/<groupId>` — what the "quiz just these words"
+button on a group emits — sets the scope to that single group, `replaceState`s
+back to `/quiz`, and is gone from history; the scope itself lives in
+`gre-vocab-qscope-v1`.
+
+"Only ask what's due" applies inside a selection, but **falls back to the whole
+selection when nothing in it is due**, so a five-word group never dead-ends on
+an empty screen.

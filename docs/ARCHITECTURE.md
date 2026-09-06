@@ -169,11 +169,13 @@ correct by construction:
 
 Three come from the verified bank: `tc2`, `se`, `fresh`.
 
-**Distractor selection is tiered, and the tiers must be exhausted in order:** the
-group being quizzed, then any group the word belongs to, then random. An earlier
-version added scoped words to a pool and then shuffled the whole pool together,
-which let a random word beat an in-cluster one — precisely what makes a question
-too easy.
+**Distractor selection is tiered, and the tiers must be exhausted in order:** any
+group the word itself belongs to, then anywhere in the deck. An earlier version
+added both tiers to a pool and shuffled the whole pool together, which let a
+random word beat an in-cluster one — precisely what makes a question too easy.
+
+The tiers are **independent of the quiz scope** (D-38). Selecting groups narrows
+which words get asked, not what they compete against.
 
 ### Android
 

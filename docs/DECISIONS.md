@@ -238,6 +238,39 @@ does not.
 selectors, so the later one won and the settings sheet was open on every load.
 Equal specificity plus source order is a real hazard in a single-file stylesheet.
 
+### D-37 — Quiz scope is a set, and lives in storage rather than the URL
+The quiz was scoped to at most one group (`quizGroup`, routed as
+`/quiz/<groupId>`). It is now a **set** of scopes, `quizSel`, mixing the 38
+GregMat lists and the 655 semantic groups in one picker — 693 tickable scopes,
+which is why the picker is searchable and tab-filtered rather than a plain list
+of checkboxes.
+
+Three things follow:
+
+- **Deduplication is what shuffles the groups together.** `scopedCards()`
+  collects into a `Set` of words before filtering `CARDS`, so a word in three
+  selected groups is one pool entry, not three. Without that, overlapping
+  selections would silently over-weight whichever words sit in the most groups.
+- **The tabs filter the view, not the selection.** "Select all" adds only what
+  is currently shown, so it composes with the search box instead of dumping all
+  693 in.
+- **`/quiz/<groupId>` survives as a shortcut**, not a mode: it sets the scope to
+  that one group and `replaceState`s back to `/quiz`. One route for the quiz
+  keeps the back button honest.
+
+### D-38 — Distractors ignore the quiz scope
+Wrong options are drawn from the word's own semantic groups first, then from
+anywhere in the deck — deliberately **independent of what is selected**.
+
+Selecting groups narrows which words get *asked*, not what they compete against.
+The earlier behaviour drew distractors from the scope, which meant that
+quizzing a GregMat list — an arbitrary 30 words with no semantic relation —
+filled every question with unrelated options and made it trivially easy.
+
+Keep the tiering. Shuffling near-synonyms together with random words would let
+a random word beat an in-cluster one, which is exactly what makes a question
+easy.
+
 ---
 
 ## Corrections worth remembering

@@ -190,6 +190,39 @@ code{background:var(--panel2);padding:.05rem .3rem;border-radius:5px;font-size:.
 .setup label{display:flex;gap:.6rem;align-items:flex-start;margin:.6rem 0;cursor:pointer}
 .setup input[type=checkbox]{margin-top:.3rem;accent-color:var(--accent)}
 .setup .hint{color:var(--dim);font-size:.85rem}
+
+/* Scope picker. 693 tickable scopes is far too many for ordinary stacked
+   checkbox rows, so it is a dense, searchable, self-scrolling panel. */
+.seclabel{margin:1.2rem 0 .4rem;font-size:.7rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--accent);font-weight:700}
+.scopes{border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.scopebar{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;
+  padding:.5rem .6rem;border-bottom:1px solid var(--line);background:var(--panel2)}
+.scopebar input[type=search]{flex:1 1 9rem;min-width:7rem}
+.scopetabs{display:flex;gap:.3rem;flex-wrap:wrap}
+.scopetab{font-size:.76rem;font-family:inherit;border:1px solid var(--line);
+  border-radius:20px;padding:.2rem .7rem;cursor:pointer;color:var(--ink2);
+  background:var(--panel)}
+.scopetab.on{background:var(--accent-soft);border-color:var(--accent);
+  color:var(--accent);font-weight:600}
+.scopelist{max-height:44vh;overflow:auto;background:var(--panel)}
+.scopelist label{display:flex;gap:.55rem;align-items:center;margin:0;
+  padding:.4rem .7rem;border-bottom:1px solid var(--line);font-size:.9rem}
+.scopelist label:last-child{border-bottom:0}
+.scopelist label:hover{background:var(--panel2)}
+.scopelist input[type=checkbox]{margin:0;flex:0 0 auto}
+.scopelist .st{flex:0 0 auto;min-width:5.6rem;text-align:center;font-size:.64rem;
+  letter-spacing:.07em;text-transform:uppercase;color:var(--accent);
+  border:1px solid var(--line);border-radius:4px;padding:.08rem .3rem}
+.scopelist .sn{flex:1 1 auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.scopelist .sc{flex:0 0 auto;color:var(--dim);font-size:.78rem;min-width:2rem;text-align:right}
+.scopefoot{padding:.5rem .7rem;border-top:1px solid var(--line);
+  background:var(--panel2);color:var(--dim);font-size:.82rem}
+.linkish{background:none;border:0;padding:0;font-family:inherit;font-size:.78rem;
+  color:var(--accent);cursor:pointer;text-decoration:underline}
+.linkish:hover{opacity:.75}
+/* the qtype run is uppercase and letter-spaced; the change link should not be */
+.qtype .linkish{margin-left:.6rem;text-transform:none;letter-spacing:0;font-size:.72rem}
 .blankgrp{margin-top:1rem}
 .blankgrp h5{margin:0 0 .45rem;font-size:.7rem;letter-spacing:.13em;
   text-transform:uppercase;color:var(--accent);font-weight:700}
@@ -288,13 +321,34 @@ const KINDLABEL = {"meaning": "Meaning cluster", "lookalike": "Lookalike", "seco
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
 let mode = "browse", order = [], idx = 0, revealed = false,
-    openWord = null, openGroup = null, quizGroup = null;
+    openWord = null, openGroup = null;
 
 /* word -> the groups it belongs to, so a card can show its neighbourhoods */
 const GROUPS_OF = {};
 GROUPS.forEach(g => g.words.forEach(w => {
   (GROUPS_OF[w.word.toLowerCase()] ||= []).push(g);
 }));
+
+/* ---- selectable quiz scopes ---------------------------------------------
+   Two unrelated taxonomies are quizzable: the 38 GregMat lists a card carries
+   in c.groups, and the semantic clusters in GROUPS. The picker lets them be
+   mixed freely, so they are normalised into one shape here - {id,kind,title,
+   words:[{word}]} - and everything downstream stops caring which is which.
+   List ids are prefixed so they can never collide with a group slug. */
+const LISTS = (() => {
+  const by = new Map();
+  CARDS.forEach(c => (c.groups || []).forEach(n => {
+    if(!by.has(n)) by.set(n, []);
+    by.get(n).push({word: c.word});
+  }));
+  return [...by.keys()].sort((a, b) => a - b).map(n => ({
+    id: "list:" + n, kind: "list", title: "GregMat list " + n, words: by.get(n),
+  }));
+})();
+const SCOPES = [...LISTS, ...GROUPS];
+const SCOPE_BY_ID = {};
+SCOPES.forEach(s => { SCOPE_BY_ID[s.id] = s; });
+const scopeById = id => SCOPE_BY_ID[id] || null;
 
 const $ = id => document.getElementById(id);
 const esc = s => (s||"").replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
@@ -504,39 +558,56 @@ function maskWord(text, word){
 /* Groups a word sits in, largest first, so distractors come from a real cluster. */
 const groupsFor = w => (GROUPS_OF[w.toLowerCase()] || []);
 /* Distractors in strict preference order, each tier exhausted before the next:
-   the group being quizzed, then any group the word belongs to, then random.
+   any group the word itself belongs to, then anywhere in the deck.
    Shuffling the tiers together would let a random word beat an in-cluster one,
-   which is exactly what makes a question easy. */
+   which is exactly what makes a question easy.
+
+   Deliberately independent of the quiz scope: wrong options are drawn from the
+   whole vocabulary, so selecting a handful of groups narrows which words get
+   ASKED without narrowing what they compete against. */
 function distractors(card, n){
   const self = card.word.toLowerCase();
   const take = (src, seen) => shuffled([...new Set(src)]
       .filter(w => w.toLowerCase() !== self && !seen.has(w.toLowerCase())));
 
-  const scoped = quizGroup && groupById(quizGroup);
-  const tier1 = scoped ? scoped.words.map(m => m.word) : [];
-  const tier2 = groupsFor(card.word).flatMap(g => g.words.map(m => m.word));
+  const kin = groupsFor(card.word).flatMap(g => g.words.map(m => m.word));
 
   const out = [], seen = new Set();
-  for(const tier of [tier1, tier2]){
-    for(const w of take(tier, seen)){
-      if(out.length >= n) break;
-      out.push(w); seen.add(w.toLowerCase());
-    }
+  for(const w of take(kin, seen)){
+    if(out.length >= n) break;
+    out.push(w); seen.add(w.toLowerCase());
   }
-  for(let i = 0; out.length < n && i < 400; i++){   // last resort: random
+  for(let i = 0; out.length < n && i < 400; i++){   // then anywhere in the deck
     const r = pick(CARDS).word;
     if(r.toLowerCase() !== self && !seen.has(r.toLowerCase())){ out.push(r); seen.add(r.toLowerCase()); }
   }
   return out;
 }
 const glossOf = w => (CARDS.find(c => c.word.toLowerCase() === w.toLowerCase()) || {}).one_line || "";
-const groupById = id => GROUPS.find(g => g.id === id);
-/* Words of the group the quiz is scoped to, or null when quizzing everything. */
+/* The words of every selected scope, or null when quizzing everything.
+   Collecting into a Set first is what shuffles the selection together: a word
+   in three of the chosen groups is one entry, not three, so no group is
+   over-weighted and questions arrive in no particular group order. */
 function scopedCards(){
-  const g = quizGroup && groupById(quizGroup);
-  if(!g) return null;
-  const want = new Set(g.words.map(m => m.word.toLowerCase()));
+  if(!quizSel.length) return null;
+  const want = new Set();
+  quizSel.forEach(id => (scopeById(id)?.words || [])
+    .forEach(m => want.add(m.word.toLowerCase())));
+  if(!want.size) return null;
   return CARDS.filter(c => want.has(c.word.toLowerCase()));
+}
+/* How the current scope reads in a heading. */
+function scopeLabel(){
+  if(!quizSel.length) return "";
+  if(quizSel.length === 1) return scopeById(quizSel[0])?.title || "";
+  return quizSel.length + " groups";
+}
+/* Nuance, odd-one-out and intensity questions already name their group, so
+   appending a one-group scope would print the same title twice. */
+function scopeSuffix(label){
+  const s = scopeLabel();
+  if(!s || (label || "").toLowerCase().includes(s.toLowerCase())) return "";
+  return " · " + esc(s);
 }
 
 /* ---- question generators: each returns {type,label,stem,options,answer,why} or null ---- */
@@ -742,12 +813,21 @@ ${near || "(none recorded)"}`;
 let quizTypes = JSON.parse(localStorage.getItem("gre-vocab-qtypes") ||
   '["tc2","se","fresh","cloze","nuance","odd","strongest","connotation","recall"]');
 let quizOnlyDue = JSON.parse(localStorage.getItem("gre-vocab-qdue") || "true");
+/* The chosen scopes, persisted so the selection survives a reload and does not
+   have to be encoded into the URL - twenty group slugs would be unreadable. */
+const QSEL_KEY = "gre-vocab-qscope-v1";
+let quizSel = (JSON.parse(localStorage.getItem(QSEL_KEY) || "[]"))
+                .filter(id => SCOPE_BY_ID[id]);   // drop ids from an older build
+let quizSelAtStart = "";
 let q = null, qAnswered = false, qScore = {right:0, total:0}, qStarted = false;
+const saveSel = () => localStorage.setItem(QSEL_KEY, JSON.stringify(quizSel));
 
 function nextQuestion(){
   let pool = scopedCards() || filtered();
-  // A group is small, so "only what's due" would usually empty it. Scope wins.
-  if(quizOnlyDue && !quizGroup){ const d = pool.filter(isDue); if(d.length) pool = d; }
+  // Spaced repetition still applies inside a selection, but a small selection
+  // can easily have nothing due - fall back to the whole scope rather than
+  // dead-ending on an empty screen.
+  if(quizOnlyDue){ const d = pool.filter(isDue); if(d.length) pool = d; }
   if(!pool.length){ q = null; return; }
   for(let i=0;i<40;i++){
     const c = pick(pool);
@@ -786,10 +866,65 @@ function answerQuestion(choice){
   renderQuiz();
 }
 
+/* ---- scope picker ------------------------------------------------------
+   693 selectable scopes is far too many for a plain checkbox list, so the
+   picker is searchable and the tabs filter what is shown without touching
+   what is selected - a GregMat list and a meaning cluster can be ticked in
+   the same quiz. The list re-renders on its own so typing in the filter does
+   not rebuild the whole setup screen underneath it. */
+let scopeTab = "all", scopeQuery = "";
+
+function scopeMatches(){
+  const q = scopeQuery.trim().toLowerCase();
+  return SCOPES.filter(s => {
+    if(scopeTab === "list" && s.kind !== "list") return false;
+    if(scopeTab === "sem"  && s.kind === "list") return false;
+    if(!q) return true;
+    return (s.title + " " + s.words.map(m => m.word).join(" ")).toLowerCase().includes(q);
+  });
+}
+
+function selectedWords(){
+  const w = new Set();
+  quizSel.forEach(id => (scopeById(id)?.words || [])
+    .forEach(m => w.add(m.word.toLowerCase())));
+  return w;
+}
+
+function renderScopeFoot(){
+  const f = $("scopefoot");
+  if(!f) return;
+  const n = quizSel.length, w = selectedWords().size;
+  f.innerHTML = n
+    ? `<strong>${n}</strong> group${n === 1 ? "" : "s"} ·
+       <strong>${w}</strong> distinct word${w === 1 ? "" : "s"} · shuffled together`
+    : `Nothing selected — the quiz draws on all ${CARDS.length} words.`;
+}
+
+function renderScopeList(){
+  const list = scopeMatches(), sel = new Set(quizSel);
+  const box = $("scopelist");
+  if(!box) return;
+  box.innerHTML = list.length
+    ? list.map(s => `<label data-sid="${esc(s.id)}">
+        <input type="checkbox" class="sx" ${sel.has(s.id) ? "checked" : ""}>
+        <span class="st">${esc(s.kind === "list" ? "list" : (KINDLABEL[s.kind] || s.kind))}</span>
+        <span class="sn">${esc(s.title)}</span>
+        <span class="sc">${s.words.length}</span></label>`).join("")
+    : `<div class="hint" style="padding:1rem">No group matches that.</div>`;
+  box.querySelectorAll("label").forEach(l => l.querySelector(".sx").onchange = e => {
+    const id = l.dataset.sid;
+    quizSel = e.target.checked ? [...new Set([...quizSel, id])]
+                               : quizSel.filter(x => x !== id);
+    saveSel(); renderScopeFoot();
+  });
+  $("scount").textContent = list.length;
+  renderScopeFoot();
+}
+
 function renderQuiz(){
   const el = $("quiz");
   if(!qStarted){
-    const scoped = quizGroup && groupById(quizGroup);
     const labels = {
       tc2:"Two-blank Text Completion from the verified bank. The real exam format, and the closest practice you have to the test itself.",
       se:"Sentence Equivalence from the bank — six options, pick the two that mean the same thing here.",
@@ -800,14 +935,24 @@ function renderQuiz(){
       strongest:"Pick the strongest word on an intensity scale.",
       connotation:"Positive, neutral or negative — the thing Sentence Equivalence turns on.",
       recall:"Produce the word from its definition. Hardest, and worth several passive reviews."};
+    const TABS = [["all","All"],["list","GregMat lists"],["sem","Semantic groups"]];
     el.innerHTML = `<div class="q"><div class="setup">
-      <h3>Quiz${scoped ? ": " + esc(scoped.title) : ""}</h3>
-      ${scoped
-        ? `<p class="hint">${scoped.words.length} words in this group — ${scoped.words.map(m=>esc(m.word)).join(" · ")}<br>
-             <span class="chip" id="qall">quiz all ${CARDS.length} words instead</span></p>`
-        : `<p class="hint">${dueCount()} of ${CARDS.length} words are due for review today.</p>`}
-      <label style="${scoped?"opacity:.5":""}"><input type="checkbox" id="qdue" ${quizOnlyDue?"checked":""} ${scoped?"disabled":""}>
-        <span><strong>Only ask what's due</strong><br><span class="hint">Spaced repetition. Uncheck to drill everything.</span></span></label>
+      <h3>Quiz</h3>
+      <p class="hint">${dueCount()} of ${CARDS.length} words are due for review today.</p>
+      <div class="seclabel">Scope — tick any number of groups</div>
+      <div class="scopes">
+        <div class="scopebar">
+          <div class="scopetabs">${TABS.map(([k,t]) =>
+            `<button class="scopetab ${scopeTab===k?"on":""}" data-tab="${k}">${t}</button>`).join("")}</div>
+          <input type="search" id="sq" placeholder="Filter groups" value="${esc(scopeQuery)}">
+          <button class="linkish" id="sall">select all <span id="scount"></span></button>
+          <button class="linkish" id="sclr">clear</button>
+        </div>
+        <div class="scopelist" id="scopelist"></div>
+        <div class="scopefoot" id="scopefoot"></div>
+      </div>
+      <label><input type="checkbox" id="qdue" ${quizOnlyDue?"checked":""}>
+        <span><strong>Only ask what's due</strong><br><span class="hint">Spaced repetition. If nothing in your selection is due, it quizzes the whole selection anyway.</span></span></label>
       <hr class="sep">
       ${Object.keys(GEN).map(k=>`<label><input type="checkbox" class="qt" value="${k}" ${quizTypes.includes(k)?"checked":""}>
         <span><strong>${k}</strong><br><span class="hint">${labels[k]}</span></span></label>`).join("")}
@@ -833,6 +978,21 @@ function renderQuiz(){
       <div style="margin-top:18px"><button id="qstart" class="on">Start</button></div>
     </div></div>`;
 
+    renderScopeList();
+    el.querySelectorAll(".scopetab").forEach(b => b.onclick = () => {
+      scopeTab = b.dataset.tab;
+      el.querySelectorAll(".scopetab").forEach(x => x.classList.toggle("on", x === b));
+      renderScopeList();
+    });
+    $("sq").oninput = e => { scopeQuery = e.target.value; renderScopeList(); };
+    // "select all" adds only what is currently shown, so it composes with the
+    // filter instead of dumping all 693 scopes in.
+    $("sall").onclick = () => {
+      quizSel = [...new Set([...quizSel, ...scopeMatches().map(s => s.id)])];
+      saveSel(); renderScopeList();
+    };
+    $("sclr").onclick = () => { quizSel = []; saveSel(); renderScopeList(); };
+
     const gsel = $("gmodel"), gst = $("gstatus");
     const fillModels = list => {
       gsel.innerHTML = list.map(m => `<option ${m===gemModel()?"selected":""}>${esc(m)}</option>`).join("");
@@ -857,16 +1017,17 @@ function renderQuiz(){
       quizOnlyDue = $("qdue").checked;
       localStorage.setItem("gre-vocab-qtypes", JSON.stringify(quizTypes));
       localStorage.setItem("gre-vocab-qdue", JSON.stringify(quizOnlyDue));
+      quizSelAtStart = quizSel.join("|");
       qStarted = true; qScore = {right:0,total:0}; nextQuestion(); renderQuiz();
     };
-    if($("qall")) $("qall").onclick = () => go("/quiz");
     return;
   }
   if(!q){ el.innerHTML = `<div class="empty">Nothing due. Uncheck "only what's due" to keep drilling.</div>`; return; }
 
   const pct = qScore.total ? Math.round(qScore.right/qScore.total*100) : 0;
   let h = `<div class="q">
-    <div class="qhead"><span class="qtype">${esc(q.label)}${quizGroup && groupById(quizGroup) ? " · " + esc(groupById(quizGroup).title) : ""}</span>
+    <div class="qhead"><span class="qtype">${esc(q.label)}${scopeSuffix(q.label)}
+        <button class="linkish" id="qrescope" title="Change which groups this quiz draws on">change</button></span>
       <span class="score">${qScore.right}/${qScore.total}${qScore.total?` · ${pct}%`:""} · <span class="due">${dueCount()} due</span></span></div>
     <div class="qstem">${q.stem}</div>`;
 
@@ -931,6 +1092,8 @@ function renderQuiz(){
   if(t && !qAnswered){ t.focus(); t.onkeydown = e => { if(e.key==="Enter" && t.value.trim()) answerQuestion(t.value); }; }
   const nx = $("qnext");
   if(nx) nx.onclick = () => { nextQuestion(); renderQuiz(); };
+  const rs = $("qrescope");
+  if(rs) rs.onclick = () => { qStarted = false; renderQuiz(); };
   const fr = $("qfresh");
   if(fr) fr.onclick = async () => {
     fr.disabled = true; fr.textContent = "generating…";
@@ -974,6 +1137,11 @@ document.addEventListener("click", e => {
 
    Routes:  /browse  /browse/<word>  /drill  /quiz  /quiz/<groupId>
             /groups  /groups/<groupId>
+
+   /quiz/<groupId> is a shortcut, not a separate mode: it sets the scope to
+   that one group and rewrites itself to /quiz. The selection lives in
+   localStorage rather than the URL because twenty group slugs in a hash would
+   be unreadable, and it has to survive a reload anyway.
    ========================================================================== */
 
 const ROUTE_KEY = "gre-vocab-route";
@@ -983,7 +1151,6 @@ function currentRoute(){
   let r = "/" + mode;
   if(mode === "browse" && openWord)  r += "/" + encodeURIComponent(openWord);
   if(mode === "groups" && openGroup) r += "/" + encodeURIComponent(openGroup);
-  if(mode === "quiz"   && quizGroup) r += "/" + encodeURIComponent(quizGroup);
   return r;
 }
 
@@ -994,24 +1161,32 @@ function applyRoute(route){
   const arg = bits[2] ? decodeURIComponent(bits[2]) : null;
   if(!MODES.some(([k]) => k === m)) m = "browse";
 
-  const prevMode = mode, prevQuizGroup = quizGroup;
+  const prevMode = mode;
   mode = m;
   openWord  = m === "browse" ? arg : null;
   openGroup = m === "groups" ? arg : null;
-  quizGroup = m === "quiz"   ? arg : null;
+  // A group id in the quiz route means "quiz exactly this one" - it replaces
+  // whatever was selected, then drops out of the URL.
+  if(m === "quiz" && arg && SCOPE_BY_ID[arg]){
+    quizSel = [arg]; saveSel();
+    route = "/quiz";
+    history.replaceState({route}, "", "#" + route);
+  }
 
   MODES.forEach(([k, id]) => {
     $(id).classList.toggle("on", k === m);
     $(k).classList.toggle("hidden", k !== m);
   });
   if(m === "drill") revealed = false;
-  // Re-show the quiz setup when entering the quiz fresh or switching scope, so
-  // a group-scoped quiz doesn't silently continue the previous session.
-  if(m === "quiz" && (prevMode !== "quiz" || prevQuizGroup !== quizGroup)) qStarted = false;
+  // Re-show the setup when entering the quiz fresh, or when the scope changed
+  // under a quiz that was already running, so it doesn't silently keep asking
+  // from the old selection.
+  if(m === "quiz" && (prevMode !== "quiz" || quizSel.join("|") !== quizSelAtStart))
+    qStarted = false;
 
   localStorage.setItem(ROUTE_KEY, route);
   render();
-  if(arg) setTimeout(() => {
+  if(arg && (m === "browse" || m === "groups")) setTimeout(() => {
     const sel = m === "browse" ? `#browse .row[data-w="${CSS.escape(arg)}"]`
                                : `#groups .grow[data-gid="${CSS.escape(arg)}"]`;
     document.querySelector(sel)?.scrollIntoView({block:"center"});
