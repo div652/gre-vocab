@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Adaptive-icon foreground: three text lines of decreasing width, reading as
-     a word list. 108dp canvas, artwork kept inside the 72dp safe zone. -->
+<!-- Adaptive-icon foreground: the same serif V as the browser tab icon, drawn
+     as a path so it does not depend on a font being present. 108dp canvas.
+
+     Sized so the SERIF TIPS clear the 66dp safe circle, not just the bounding
+     box: a V puts ink in its top corners, so the constraint is the corner
+     radius (32.0 <= 33), not the width. A round launcher mask clipped the
+     serifs at the obvious size.
+     Doubles as the <monochrome> layer, which Android tints itself. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp" android:height="108dp"
     android:viewportWidth="108" android:viewportHeight="108">
-    <path android:fillColor="#7AA2F7"
-        android:pathData="M32,40 h44 a4,4 0 0 1 0,8 h-44 a4,4 0 0 1 0,-8 z" />
-    <path android:fillColor="#7AA2F7" android:fillAlpha="0.75"
-        android:pathData="M32,52 h32 a4,4 0 0 1 0,8 h-32 a4,4 0 0 1 0,-8 z" />
-    <path android:fillColor="#7AA2F7" android:fillAlpha="0.5"
-        android:pathData="M32,64 h20 a4,4 0 0 1 0,8 h-20 a4,4 0 0 1 0,-8 z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M28.6,34.6 H50.4 V40.7 H46.1 L56.4,61.3 L67.3,40.7 H62.5 V34.6 H79.4 V40.7 H73.4 L58.1,73.4 H52.8 L34.6,40.7 H28.6 Z" />
 </vector>
