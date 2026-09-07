@@ -4,9 +4,9 @@
 
      Sized so the SERIF TIPS clear the 66dp safe circle, not just the bounding
      box: a V puts ink in its top corners, so the constraint is the corner
-     radius (32.0 <= 33), not the width. A round launcher mask clipped the
-     serifs at the obvious size.
-     Doubles as the <monochrome> layer, which Android tints itself. -->
+     radius (32.0, against a limit of 33), not the width. A round launcher
+     mask clipped the serifs at the obvious size.
+     Doubles as the monochrome layer, which Android tints itself. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp" android:height="108dp"
     android:viewportWidth="108" android:viewportHeight="108">

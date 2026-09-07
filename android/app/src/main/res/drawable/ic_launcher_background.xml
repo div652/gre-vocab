@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Aqua, the app's default accent (--accent in the aqua theme). -->
+<!-- Aqua: the accent colour of the app's default theme.
+     Note for editors: XML forbids a double hyphen inside a comment, so the CSS
+     variable this mirrors cannot be written here by name. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp" android:height="108dp"
     android:viewportWidth="108" android:viewportHeight="108">

@@ -21,6 +21,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Two seconds here instead of seventy in Gradle. aapt only reaches the
+      # resource files well into the build, so a malformed one costs a whole
+      # toolchain setup to discover - which is exactly how a double hyphen in
+      # an XML comment (illegal, and easy to write) once broke this job.
+      - name: Check Android XML is well-formed
+        run: |
+          python3 - <<'PY'
+          import sys, pathlib, xml.etree.ElementTree as ET
+          bad = 0
+          for p in sorted(pathlib.Path("android").rglob("*.xml")):
+              try:
+                  ET.parse(p)
+              except Exception as e:
+                  bad += 1
+                  print(f"::error file={p}::{e}")
+          print(f"checked {len(list(pathlib.Path('android').rglob('*.xml')))} files, {bad} malformed")
+          sys.exit(1 if bad else 0)
+          PY
+
       - name: Bundle the web app into the APK
         run: |
           test -f out/flashcards.html || { echo "out/flashcards.html missing"; exit 1; }
