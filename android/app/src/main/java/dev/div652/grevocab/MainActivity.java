@@ -16,6 +16,9 @@ import android.webkit.WebViewClient;
 import android.widget.Toast;
 
 import androidx.activity.OnBackPressedCallback;
+import androidx.activity.result.ActivityResultLauncher;
+import androidx.activity.result.IntentSenderRequest;
+import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
@@ -24,10 +27,20 @@ import androidx.core.view.WindowCompat;
 import androidx.core.view.WindowInsetsCompat;
 import androidx.webkit.WebViewAssetLoader;
 
+import com.google.android.gms.auth.api.identity.AuthorizationRequest;
+import com.google.android.gms.auth.api.identity.AuthorizationResult;
+import com.google.android.gms.auth.api.identity.Identity;
+import com.google.android.gms.common.api.Scope;
+
+import org.json.JSONObject;
+
+import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;
 import java.nio.charset.StandardCharsets;
+import java.util.Arrays;
+import java.util.Collections;
 
 /**
  * A thin shell around the same self-contained flashcards.html that the web app
@@ -43,15 +56,33 @@ import java.nio.charset.StandardCharsets;
  * 2. Export uses a JS bridge. A blob: download inside a WebView is silently
  *    dropped by DownloadManager, so the web build calls AndroidBridge.saveText
  *    when it is present and falls back to a blob elsewhere.
+ *
+ * 3. Sign-in cannot use the web flow. Google rejects OAuth inside an embedded
+ *    WebView (disallowed_useragent), and custom URI schemes are no longer
+ *    accepted for Android OAuth clients, which closes the Custom Tabs route
+ *    too. Play Services authorizes natively and hands the token to the page.
+ *    Nothing identifies the app in code - Google matches it by package name
+ *    plus signing certificate, registered as an Android OAuth client.
  */
 public class MainActivity extends AppCompatActivity {
 
     private static final String ORIGIN = "https://appassets.androidplatform.net";
     private static final String START_URL = ORIGIN + "/assets/flashcards.html";
 
+    /** The only hosts the WebView may reach. Everything else - web fonts, the
+     *  Google sign-in script the browser build uses - is refused, so a guest
+     *  session touches the network exactly zero times. */
+    private static final String[] NET_ALLOW = {
+            "https://www.googleapis.com/",
+            "https://oauth2.googleapis.com/",
+    };
+
+    private static final String DRIVE_APPDATA = "https://www.googleapis.com/auth/drive.appdata";
+
     private WebView web;
     private ValueCallback<Uri[]> filePicker;
     private static final int PICK_FILE = 1001;
+    private ActivityResultLauncher<IntentSenderRequest> authLauncher;
 
     @Override
     protected void onCreate(@Nullable Bundle saved) {
@@ -88,7 +119,16 @@ public class MainActivity extends AppCompatActivity {
         web.setWebViewClient(new WebViewClient() {
             @Override
             public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest req) {
-                return loader.shouldInterceptRequest(req.getUrl());
+                Uri u = req.getUrl();
+                String s = u.toString();
+                if (s.startsWith(ORIGIN)) return loader.shouldInterceptRequest(u);
+                for (String ok : NET_ALLOW) {
+                    if (s.startsWith(ok)) return null;      // null = let it through
+                }
+                // Refused rather than fetched. The page is one self-contained
+                // file; anything else it references is optional decoration.
+                return new WebResourceResponse("text/plain", "utf-8", 204, "Blocked",
+                        Collections.emptyMap(), new ByteArrayInputStream(new byte[0]));
             }
 
             @Override
@@ -124,6 +164,18 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        // Consent, when it is needed, arrives as a PendingIntent to launch.
+        authLauncher = registerForActivityResult(
+                new ActivityResultContracts.StartIntentSenderForResult(), result -> {
+                    try {
+                        AuthorizationResult r = Identity.getAuthorizationClient(this)
+                                .getAuthorizationResultFromIntent(result.getData());
+                        deliverToken(r.getAccessToken(), null);
+                    } catch (Exception e) {
+                        deliverToken(null, msg(e, "sign-in cancelled"));
+                    }
+                });
+
         web.addJavascriptInterface(new Bridge(), "AndroidBridge");
         web.loadUrl(START_URL);
 
@@ -148,7 +200,51 @@ public class MainActivity extends AppCompatActivity {
         filePicker = null;
     }
 
+    /** Ask Play Services for a Drive appdata token, prompting only if needed. */
+    private void startAuthorize() {
+        AuthorizationRequest req = AuthorizationRequest.builder()
+                .setRequestedScopes(Arrays.asList(
+                        new Scope(DRIVE_APPDATA), new Scope("email"), new Scope("profile")))
+                .build();
+        Identity.getAuthorizationClient(this).authorize(req)
+                .addOnSuccessListener(r -> {
+                    if (r.hasResolution() && r.getPendingIntent() != null) {
+                        try {
+                            authLauncher.launch(new IntentSenderRequest.Builder(
+                                    r.getPendingIntent().getIntentSender()).build());
+                        } catch (Exception e) {
+                            deliverToken(null, msg(e, "could not open the consent screen"));
+                        }
+                    } else {
+                        deliverToken(r.getAccessToken(), null);   // already granted
+                    }
+                })
+                .addOnFailureListener(e -> deliverToken(null, msg(e, "sign-in failed")));
+    }
+
+    /** Hand the result to the page, which then behaves exactly as on the web. */
+    private void deliverToken(@Nullable String token, @Nullable String error) {
+        JSONObject o = new JSONObject();
+        try {
+            if (token != null) o.put("access_token", token);
+            if (error != null) o.put("error", error);
+        } catch (Exception ignored) {
+        }
+        final String js = "window.__androidAuth && window.__androidAuth(" + o + ")";
+        runOnUiThread(() -> web.evaluateJavascript(js, null));
+    }
+
+    private static String msg(Exception e, String fallback) {
+        return e.getMessage() == null || e.getMessage().isEmpty() ? fallback : e.getMessage();
+    }
+
     private class Bridge {
+        /** Called by the page's "Sign in with Google" button. */
+        @JavascriptInterface
+        public void signIn() {
+            runOnUiThread(MainActivity.this::startAuthorize);
+        }
+
         /** Write exported marks somewhere the user can actually find them. */
         @JavascriptInterface
         public void saveText(String name, String content) {

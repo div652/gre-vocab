@@ -1445,31 +1445,51 @@ function authed(){ return AUTH.token && Date.now() < AUTH.expires; }
 
 function gsiReady(){ return typeof google !== "undefined" && google.accounts && google.accounts.oauth2; }
 
+/* Android cannot use the browser flow at all: Google rejects OAuth inside an
+   embedded WebView, and custom URI schemes are no longer accepted for Android
+   OAuth clients, so redirecting back out of a Custom Tab is closed too. The
+   shell authorizes natively through Play Services and calls __androidAuth with
+   the same {access_token} | {error} shape the web callback receives, so
+   everything after the token is identical on both platforms. */
+const ANDROID_AUTH = typeof AndroidBridge !== "undefined" && !!AndroidBridge.signIn;
+
+async function onToken(resp){
+  if(!resp || resp.error){
+    AUTH.status = "guest"; AUTH.last = resp && resp.error || null;
+    renderAccount(); return;
+  }
+  AUTH.token = resp.access_token;
+  AUTH.expires = Date.now() + (resp.expires_in ? resp.expires_in * 1000 : 3500000);
+  AUTH.status = "syncing"; renderAccount();
+  try{
+    AUTH.profile = await gFetch("https://www.googleapis.com/oauth2/v3/userinfo");
+    await syncNow();
+    AUTH.status = "on";
+  }catch(e){ AUTH.status = "error"; AUTH.last = e.message; }
+  renderAccount(); render();
+}
+window.__androidAuth = onToken;
+
 function signIn(){
+  if(ANDROID_AUTH){ AUTH.status = "syncing"; renderAccount(); AndroidBridge.signIn(); return; }
   if(!gsiReady()){ alert("Google sign-in library did not load. Check your connection."); return; }
   if(!tokenClient){
     tokenClient = google.accounts.oauth2.initTokenClient({
       client_id: GOOGLE_CLIENT_ID,
       scope: "openid email profile " + DRIVE_SCOPE,
-      callback: async resp => {
-        if(resp.error){ AUTH.status = "guest"; renderAccount(); return; }
-        AUTH.token = resp.access_token;
-        AUTH.expires = Date.now() + (resp.expires_in ? resp.expires_in * 1000 : 3500000);
-        AUTH.status = "syncing"; renderAccount();
-        try{
-          AUTH.profile = await gFetch("https://www.googleapis.com/oauth2/v3/userinfo");
-          await syncNow();
-          AUTH.status = "on";
-        }catch(e){ AUTH.status = "error"; AUTH.last = e.message; }
-        renderAccount(); render();
-      },
+      callback: onToken,
     });
   }
   tokenClient.requestAccessToken({prompt: AUTH.profile ? "" : "consent"});
 }
 
 function signOut(){
-  if(AUTH.token && gsiReady()) google.accounts.oauth2.revoke(AUTH.token, () => {});
+  // GIS is absent in the app, so revoke over HTTP there. Same endpoint either way.
+  if(AUTH.token){
+    if(gsiReady()) google.accounts.oauth2.revoke(AUTH.token, () => {});
+    else fetch("https://oauth2.googleapis.com/revoke?token=" +
+               encodeURIComponent(AUTH.token), {method:"POST"}).catch(() => {});
+  }
   Object.assign(AUTH, {token:null, expires:0, profile:null, fileId:null, status:"guest", last:null});
   renderAccount();
 }
@@ -1573,6 +1593,7 @@ function renderAccount(){
         </div>
       </div>
       <button class="btn primary" id="siBtn" style="width:100%">Sign in with Google</button>
+      ${AUTH.last ? `<p class="hint" style="color:var(--hard)">Sign-in failed: ${esc(AUTH.last)}</p>` : ""}
       <p class="hint" style="margin-bottom:0">Syncs your marks and review schedule to a hidden
         folder in your own Google Drive. The app can only see files it created there, never the
         rest of your Drive.</p>`;

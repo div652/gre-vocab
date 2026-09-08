@@ -294,6 +294,28 @@ stoplist that strips "Essential Adjectives" from a title also contained
 *sophisticated*, which is a card word. Any stoplist here must be diffed against
 the word list.
 
+### D-41 — Android sign-in is native, after the chosen approach became illegal
+Chrome Custom Tabs was picked deliberately, for parity with the web. It is no
+longer buildable: Google **withdrew custom URI scheme support for Android OAuth
+clients**, so a Custom Tab has no legal way to hand the result back. The
+alternative, App Links, needs `assetlinks.json` at the **domain root** —
+`div652.github.io/.well-known/`, which is a different Pages repository from
+`div652.github.io/gre-vocab`.
+
+So: Play Services `AuthorizationClient`. No browser, no redirect, no domain to
+own. The app carries no client ID; Google identifies it by package name plus
+signing certificate. **Only APKs signed with the registered key can sign in.**
+
+### D-42 — `INTERNET`, then an allowlist to undo it
+The app advertised "no permissions, nothing is ever fetched". Sync needs
+`INTERNET`, and once granted, the page's Google Fonts and sign-in script would
+have started loading on every launch — for guests too.
+
+`NET_ALLOW` in `MainActivity` refuses every host except Google's auth and Drive
+endpoints, which keeps the original property true in the form that actually
+matters: **a guest session makes no network requests.** Both font stacks already
+had offline fallbacks, so refusing fonts costs nothing.
+
 ---
 
 ## Corrections worth remembering

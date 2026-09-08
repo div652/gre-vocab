@@ -213,6 +213,29 @@ which words get asked, not what they compete against.
 
 `android/` is a thin WebView shell. Two details are load-bearing:
 
+**Sign-in is native, not browser-based.** Google refuses OAuth inside an
+embedded WebView (`disallowed_useragent`), and custom URI schemes are no longer
+accepted for Android OAuth clients — which closes the Chrome Custom Tabs route
+as well, since there is no longer a legal way to redirect back into the app.
+The remaining option that does not require owning a domain root is Play
+Services' `AuthorizationClient`: an account picker, a consent sheet, an access
+token, no browser at all.
+
+Nothing identifies the app in code. Google matches it by **package name plus
+signing certificate**, registered as an Android OAuth client. A consequence
+worth knowing: only APKs signed with the registered key can sign in, so a
+locally-built debug APK needs its own SHA-1 added.
+
+The token is handed to the page through the same JS bridge as export, shaped
+like the web callback's `{access_token}` / `{error}`, so every line after the
+token is shared between platforms.
+
+**The WebView is on a network allowlist.** `INTERNET` had to be added for sync,
+which broke the app's "fetches nothing, ever" property. `NET_ALLOW` restores it:
+only `www.googleapis.com` and `oauth2.googleapis.com` are reachable, so a guest
+session still makes zero requests. Web fonts are refused too — both font stacks
+fall back to Roboto and a system serif.
+
 **Assets are served through `WebViewAssetLoader` on an `https://` origin**, not
 loaded as `file:///android_asset/`. `localStorage` on a `file://` origin is
 unreliable across WebView versions, and `localStorage` holds the user's progress.

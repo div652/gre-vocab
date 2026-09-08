@@ -65,4 +65,9 @@ dependencies {
     implementation("androidx.webkit:webkit:1.12.1")
     implementation("androidx.core:core:1.13.1")
     implementation("androidx.activity:activity:1.9.3")
+    // Sign-in. Google blocks OAuth in embedded WebViews (disallowed_useragent),
+    // and custom URI schemes are no longer accepted for Android OAuth clients,
+    // so the browser-redirect route is closed at both ends. Play Services does
+    // it natively instead: account picker, consent, access token, no browser.
+    implementation("com.google.android.gms:play-services-auth:22.0.0")
 }
