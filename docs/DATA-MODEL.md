@@ -160,6 +160,31 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-gemini-model` | chosen model id |
 | `gre-vocab-prefs-v1` | `{theme, scale, voice, rate}` — appearance and reading voice |
 
+### `videos.json`
+
+Word → up to two iswearenglish videos, built by `videos.py` and kept **out** of
+the card files: the cards are what the model wrote under the frozen prompt, and
+mixing scraped data into them muddies that. It also means re-crawling the
+channel rewrites one file instead of all 1112.
+
+```json
+{
+  "beguile": [
+    {"id": "VQeUPWZLx1U", "kind": "dedicated", "subjects": ["Beguile"]},
+    {"id": "AbgbD958s5o", "kind": "group",
+     "subjects": ["Cajole", "Wheedle", "Entice", "Induce", "Beguile"]}
+  ]
+}
+```
+
+`videos/catalogue.json` is the raw crawl (19,786 id → title pairs), committed so
+the match is reproducible without re-crawling. 1015 of 1112 words match; the
+other 97 render a channel-search link instead.
+
+Links appear inside **Means**, between the one-line definition and the nuance
+paragraph — so `build_app.py` splits `means` on its first blank line rather than
+rendering it whole.
+
 ### Quiz scopes
 
 Two unrelated taxonomies are quizzable and the picker mixes them freely, so

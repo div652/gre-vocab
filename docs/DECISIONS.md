@@ -271,6 +271,29 @@ Keep the tiering. Shuffling near-synonyms together with random words would let
 a random word beat an in-cluster one, which is exactly what makes a question
 easy.
 
+### D-39 — Video links live outside the cards
+`videos.json` is keyed by word and loaded alongside `groups/` and `bank/`, rather
+than adding a field to each card. Cards are model-authored under a frozen prompt;
+scraped data in them would blur what the generation loop is accountable for. The
+practical payoff is that re-crawling the channel touches one file.
+
+### D-40 — Exact-form matching, and literature videos excluded
+Two filters carry the precision, and both were added after seeing real failures:
+
+- **Exact surface form only.** Morphological matching gained 20 words and lost
+  about half of them to nonsense: *commence* → a video on Spanish elections (via
+  "Comment"), *universal* → "University", *passable* → "Pass".
+- **No literature videos.** The channel also does poetry analysis. Raising the
+  subject cap to admit the big synonym round-ups ("Moan Groan Bellyache Grumble
+  Grouse…", genuinely the best group videos) also admitted "Bright Star Would I
+  Were Steadfast Thou Art - John Keats - Analysis", where every proper noun
+  parses as a subject.
+
+A third failure is worth remembering because it was self-inflicted: the category
+stoplist that strips "Essential Adjectives" from a title also contained
+*sophisticated*, which is a card word. Any stoplist here must be diffed against
+the word list.
+
 ---
 
 ## Corrections worth remembering

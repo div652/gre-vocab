@@ -2,7 +2,7 @@
 
 ## The pipeline
 
-Five stages. Each writes files; each is resumable; each can be re-run
+Six stages. Each writes files; each is resumable; each can be re-run
 independently. Nothing holds state in memory across items.
 
 ```
@@ -10,13 +10,15 @@ independently. Nothing holds state in memory across items.
  2. CARDS       generate.py         words.json ─────► cards/<word>.json   (1 file per word)
  3. GROUPS      group.py            cards/ ─────────► groups/<kind>/*.json (655 groups, 7 kinds)
  4. BANK        quizgen.py          cards/+groups/ ─► bank/<unit>.json    (2010 questions)
- 5. RENDER      render.py           cards/+groups/ ─► out/group_NN.md
+ 5. VIDEOS      videos.py           youtube ────────► videos/catalogue.json (19786 videos)
+                videos.py           cards/+catalogue► videos.json          (1015 words linked)
+ 6. RENDER      render.py           cards/+groups/ ─► out/group_NN.md
                 group.py render     groups/ ────────► out/groups.md
                 build_app.py        all three ──────► out/flashcards.html
                 export_anki.py      cards/+groups/ ─► out/anki.tsv
 ```
 
-Deployment is downstream of stage 5 and fully automatic:
+Deployment is downstream of stage 6 and fully automatic:
 
 ```
  git push ──► GitHub Pages rebuild        (serves index.html + out/)
@@ -113,6 +115,36 @@ The resolution is that the two grouping systems do different jobs:
 Then every question is **blind re-solved** by an independent call, as described
 in PHILOSOPHY § 5. About 10% are rejected; rejects are recorded in the batch file
 rather than discarded, so you can see what the check is catching.
+
+---
+
+## Stage 5 — video links
+
+`videos.py` crawls the iswearenglish channel and matches each card word to its
+videos. The channel is why the card format looks the way it does, so a card that
+links to the actual video closes the loop.
+
+Two things about it are load-bearing:
+
+**Titles have a grammar, and the boilerplate must be stripped per TOKEN, not per
+segment.** They read `Word Meaning - Word Examples - Define Word - Category`, so
+dropping every segment containing "Meaning" throws away the word being searched
+for. That mistake scores 25%; stripping tokens scores 91%.
+
+**Matching is exact-surface-form only.** Allowing morphological variants added 20
+words and about half were wrong — *commence* matched a video on Spanish
+elections via "Comment", *universal* matched "University". A variant still
+matches when the video names both forms, which is how *aberrant* reaches the
+Aberration video.
+
+Videos are classified `dedicated` (one word, possibly several inflections of it)
+or `group` (several distinct words), by whether the subject stems share a
+4-character prefix. The group ones are the more valuable: they are the channel
+teaching a whole confusable cluster at once.
+
+Literature videos are excluded outright — "Bright Star Would I Were Steadfast
+Thou Art - John Keats - Analysis" is not a video about *steadfast*, and every
+proper noun in such a title parses as a subject.
 
 ---
 

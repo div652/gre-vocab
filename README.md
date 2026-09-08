@@ -59,6 +59,7 @@ Three consequences worth naming:
 | `lint.py` | Drift detector. Run after every generation pass. |
 | `render.py` | `cards/*.json` → markdown, one file per group. |
 | `build_app.py` | `cards/*.json` → `out/flashcards.html`, a self-contained offline app. |
+| `videos.py` | Crawls the iswearenglish channel and matches each card word to its videos. |
 | `sync_skill.py` | Keeps `skill/` in step with the live skill. |
 | `cards/` | One JSON file per word. The source of truth. |
 

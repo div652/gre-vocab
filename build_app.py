@@ -20,6 +20,7 @@ HERE = Path(__file__).parent
 CARDS = HERE / "cards"
 GROUPS = HERE / "groups"
 BANK = HERE / "bank"
+VIDEOS = HERE / "videos.json"
 OUT = HERE / "out"
 
 # Order the group kinds by study value, most useful first.
@@ -168,6 +169,16 @@ code{background:var(--panel2);padding:.05rem .3rem;border-radius:5px;font-size:.
   padding:.18rem .7rem;color:var(--dim);background:var(--panel2);cursor:pointer}
 .chip b{color:var(--accent);font-weight:600}
 .chip:hover{border-color:var(--accent)}
+
+/* iswearenglish links, sitting inside the Means section between the one-line
+   definition and the nuance. Sans, not the reading serif: they are chrome. */
+.vids{display:flex;flex-wrap:wrap;gap:.4rem;margin:.75rem 0 1rem}
+.vchip{font-family:var(--ui);font-size:.76rem;line-height:1.5;text-decoration:none;
+  border:1px solid var(--line);border-radius:20px;padding:.2rem .75rem;
+  color:var(--accent);background:var(--accent-soft);white-space:nowrap;
+  max-width:100%;overflow:hidden;text-overflow:ellipsis}
+.vchip:hover{border-color:var(--accent);text-decoration:none}
+.vchip.dim{color:var(--dim);background:var(--panel2)}
 
 .speak{border:1px solid var(--line);background:var(--panel2);color:var(--accent);
   border-radius:50%;width:1.9rem;height:1.9rem;display:inline-grid;place-items:center;
@@ -361,6 +372,7 @@ const CARDS = __DATA__;
 const GROUPS = __GROUPS__;
 const BANK = __BANK__;
 const KINDLABEL = __KINDLABEL__;
+const VIDEOS = __VIDEOS__;
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
 let mode = "browse", order = [], idx = 0, revealed = false,
@@ -434,6 +446,54 @@ function filtered(){
   });
 }
 
+/* ---- iswearenglish video links ----------------------------------------
+   This channel is why the card format looks the way it does, so each card
+   points at the actual video. 1012 of 1112 words have one; the rest fall back
+   to a channel search, which is the user's call - a search page that may come
+   back empty still beats silently pretending nothing was looked for.
+
+   Videos come in two shapes. A dedicated one is about this word (sometimes
+   under a sister form: "aberrant" lives on the Aberration video). A group one
+   teaches it alongside its confusables, which is the more valuable of the two
+   and is labelled by the company it keeps. */
+const VIDEO_SEARCH = "https://www.youtube.com/@iswearenglish/search?query=";
+
+function andList(xs){
+  return xs.length < 2 ? (xs[0] || "")
+       : xs.slice(0, -1).join(", ") + " and " + xs[xs.length - 1];
+}
+
+function videoHTML(word){
+  const vids = VIDEOS[word] || [];
+  let chips = vids.map(v => {
+    const others = v.subjects.filter(s => s.toLowerCase() !== word.toLowerCase());
+    let label;
+    if(v.kind === "dedicated" || !others.length){
+      label = v.subjects.find(s => s.toLowerCase() === word.toLowerCase()) || v.subjects[0];
+    } else {
+      // A six-word group would blow out the chip, so name three and count the rest.
+      label = "with " + (others.length > 4
+        ? andList(others.slice(0, 3)) + " +" + (others.length - 3)
+        : andList(others));
+    }
+    return `<a class="vchip" href="https://youtu.be/${esc(v.id)}" target="_blank"
+      rel="noopener" title="${esc(v.subjects.join(" · "))}">&#9654; ${esc(label)}</a>`;
+  });
+  if(!chips.length) chips = [`<a class="vchip dim" target="_blank" rel="noopener"
+      href="${VIDEO_SEARCH}${encodeURIComponent(word)}"
+      title="No video matched this word - search the channel">&#9654; search iswearenglish</a>`];
+  return `<div class="vids">${chips.join("")}</div>`;
+}
+
+/* The video links sit between the one-line definition and the nuance that
+   follows it, so `means` is rendered as its first block, then the links, then
+   the rest. */
+function meansHTML(c){
+  const blocks = String(c.means || "").split(/\n\s*\n/);
+  const first = blocks.shift() || "";
+  return md(first) + videoHTML(c.word) + (blocks.length ? md(blocks.join("\n\n")) : "");
+}
+
 function cardHTML(c, front){
   let h = `<div class="card"><h2>${esc(c.word)} <span class="pos">${esc(c.pos||"")}</span>`;
   if(c.pron) h += `<span class="pron">${esc(c.pron)}</span>`;
@@ -441,7 +501,7 @@ function cardHTML(c, front){
   h += `<button class="speak" data-speak="${esc(c.word)}" title="Read the whole card aloud">&#9654;</button>`;
   if(c.pron_note) h += `<div class="note">${md(c.pron_note)}</div>`;
   if(front) return h + `</div>`;
-  h += `<h3>Means</h3>${md(c.means)}`;
+  h += `<h3>Means</h3>${meansHTML(c)}`;
   if(c.trap) h += md(c.trap);
   if(c.trick_line){
     h += `<h3>Trick to lock it in</h3><blockquote>${md(c.trick_line).replace(/<\/?p>/g,"")}</blockquote>`;
@@ -1661,12 +1721,20 @@ def main() -> int:
                          ("id", "type", "stem", "blanks", "words", "explanation")
                          if k in q} | {"g": q.get("gregmat_group")})
 
+    # iswearenglish links, keyed by word. Built separately by videos.py so the
+    # model-authored cards stay free of scraped data, and so re-crawling the
+    # channel updates one file instead of all 1112 cards.
+    videos = {}
+    if VIDEOS.exists():
+        videos = json.loads(VIDEOS.read_text(encoding="utf-8"))
+
     OUT.mkdir(exist_ok=True)
     html = (TEMPLATE
             .replace("__DATA__", json.dumps(data, ensure_ascii=False))
             .replace("__GROUPS__", json.dumps(groups, ensure_ascii=False))
             .replace("__BANK__", json.dumps(bank, ensure_ascii=False))
-            .replace("__KINDLABEL__", json.dumps(KIND_LABEL, ensure_ascii=False)))
+            .replace("__KINDLABEL__", json.dumps(KIND_LABEL, ensure_ascii=False))
+            .replace("__VIDEOS__", json.dumps(videos, ensure_ascii=False)))
     dest = OUT / "flashcards.html"
     dest.write_text(html, encoding="utf-8")
 
