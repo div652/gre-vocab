@@ -70,11 +70,16 @@ public class MainActivity extends AppCompatActivity {
     private static final String START_URL = ORIGIN + "/assets/flashcards.html";
 
     /** The only hosts the WebView may reach. Everything else - web fonts, the
-     *  Google sign-in script the browser build uses - is refused, so a guest
-     *  session touches the network exactly zero times. */
+     *  Google sign-in script the browser build uses - is refused.
+     *
+     *  i.ytimg.com serves the iswearenglish thumbnails on each card. It is the
+     *  one entry a guest can trigger without signing in, and it was added
+     *  deliberately: bundling 1116 thumbnails would have added 23 MB to a
+     *  5.9 MB app. They load lazily and fail to a text label offline. */
     private static final String[] NET_ALLOW = {
             "https://www.googleapis.com/",
             "https://oauth2.googleapis.com/",
+            "https://i.ytimg.com/",
     };
 
     private static final String DRIVE_APPDATA = "https://www.googleapis.com/auth/drive.appdata";

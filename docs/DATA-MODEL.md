@@ -183,7 +183,9 @@ other 97 render a channel-search link instead.
 
 Links appear inside **Means**, between the one-line definition and the nuance
 paragraph — so `build_app.py` splits `means` on its first blank line rather than
-rendering it whole.
+rendering it whole. They render as two 16:9 thumbnails from
+`i.ytimg.com/vi/<id>/mqdefault.jpg`, fetched lazily rather than bundled (D-43);
+a word with no match gets a channel-search chip instead.
 
 ### Quiz scopes
 

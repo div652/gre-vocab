@@ -316,6 +316,21 @@ endpoints, which keeps the original property true in the form that actually
 matters: **a guest session makes no network requests.** Both font stacks already
 had offline fallbacks, so refusing fonts costs nothing.
 
+### D-43 — Thumbnails are fetched, not bundled
+Video thumbnails render as two 16:9 images inside **Means**. Bundling them was
+priced and rejected: 1116 thumbnails is 17 MB raw and 23 MB base64-inlined,
+against a 5.9 MB app. Even the 120x90 size would have doubled the file.
+
+So they load from `i.ytimg.com`, lazily, and `i.ytimg.com` joins the Android
+allowlist. This knowingly weakens D-42 — a guest who never signs in now does
+fetch images — and that trade was made explicitly, against the alternative of
+thumbnails on the web only. Offline they fail to their text label, which still
+links.
+
+Why images rather than the text chips they replaced: **the channel puts the word
+itself in the thumbnail in large type**, so a group video announces its whole
+cluster ("CAJOLE BEGUILE ENTICE INDUCE") before you click it.
+
 ---
 
 ## Corrections worth remembering
@@ -330,3 +345,15 @@ Three times a *detector* was wrong rather than the data:
    `abet`/"abetted" (consonant doubling). Only a two-directional test caught it.
 
 **Always look at the flagged item before changing the data.**
+
+A fourth, found only by rendering a card at full size in a preview:
+
+4. The app's markdown converter matched bold as `\*\*([^*]+)\*\*`, which cannot
+   span an inner italic. `**Beguile hides *guile* behind a *smile*.**` therefore
+   rendered with literal asterisks — and so did **206 other fields**, mostly the
+   mnemonics, which are the lines most worth reading. The character class is
+   now "any non-newline, non-greedy": inner `*` allowed, newlines still
+   excluded so an unpaired `**` cannot bleed across blocks.
+
+   Nothing detected this. `lint.py` checks the card data, which was always
+   correct; the bug was in rendering, and rendering had never been diffed.

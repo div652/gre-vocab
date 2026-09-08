@@ -131,7 +131,16 @@ code{background:var(--panel2);padding:.05rem .3rem;border-radius:5px;font-size:.
 .chip:hover{border-color:var(--accent)}
 
 /* iswearenglish links, sitting inside the Means section between the one-line
-   definition and the nuance. Sans, not the reading serif: they are chrome. */
+   definition and the nuance. Sans, not the reading serif: they are chrome.
+   Two fixed columns rather than auto-fit, so a word with one video gets a
+   half-width thumbnail instead of a full-width slab. */
+.vgrid{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;margin:.85rem 0 1.15rem}
+.vgrid a{text-decoration:none;color:inherit}
+.vgrid img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;display:block;
+  border-radius:9px;background:var(--panel2);border:1px solid var(--line)}
+.vgrid a:hover img{border-color:var(--accent)}
+.vgrid .c{font-family:var(--ui);font-size:.78rem;font-weight:600;color:var(--accent);
+  margin-top:.35rem;line-height:1.35}
 .vids{display:flex;flex-wrap:wrap;gap:.4rem;margin:.75rem 0 1rem}
 .vchip{font-family:var(--ui);font-size:.76rem;line-height:1.5;text-decoration:none;
   border:1px solid var(--line);border-radius:20px;padding:.2rem .75rem;
@@ -384,7 +393,11 @@ function md(src){
     else html = "<p>" + lines.join("<br>") + "</p>";
     return html;
   }).join("")
-   .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+   // [^\n]+? rather than [^*]+ : bold routinely contains italics, as in
+   // "**Beguile hides *guile* behind a *smile*.**". Excluding * meant those
+   // never matched and 206 fields rendered with literal asterisks. Newlines
+   // stay excluded so an unpaired ** cannot bleed across blocks.
+   .replace(/\*\*([^\n]+?)\*\*/g, "<strong>$1</strong>")
    .replace(/(^|[^*])\*([^*\n]+)\*/g, "$1<em>$2</em>")
    .replace(/`([^`]+)`/g, "<code>$1</code>");
 }
@@ -423,26 +436,29 @@ function andList(xs){
        : xs.slice(0, -1).join(", ") + " and " + xs[xs.length - 1];
 }
 
+function videoLabel(word, v){
+  const others = v.subjects.filter(s => s.toLowerCase() !== word.toLowerCase());
+  if(v.kind === "dedicated" || !others.length)
+    return v.subjects.find(s => s.toLowerCase() === word.toLowerCase()) || v.subjects[0];
+  return "with " + (others.length > 4
+    ? andList(others.slice(0, 3)) + " +" + (others.length - 3)
+    : andList(others));
+}
+
 function videoHTML(word){
   const vids = VIDEOS[word] || [];
-  let chips = vids.map(v => {
-    const others = v.subjects.filter(s => s.toLowerCase() !== word.toLowerCase());
-    let label;
-    if(v.kind === "dedicated" || !others.length){
-      label = v.subjects.find(s => s.toLowerCase() === word.toLowerCase()) || v.subjects[0];
-    } else {
-      // A six-word group would blow out the chip, so name three and count the rest.
-      label = "with " + (others.length > 4
-        ? andList(others.slice(0, 3)) + " +" + (others.length - 3)
-        : andList(others));
-    }
-    return `<a class="vchip" href="https://youtu.be/${esc(v.id)}" target="_blank"
-      rel="noopener" title="${esc(v.subjects.join(" · "))}">&#9654; ${esc(label)}</a>`;
-  });
-  if(!chips.length) chips = [`<a class="vchip dim" target="_blank" rel="noopener"
+  if(!vids.length) return `<div class="vids"><a class="vchip dim" target="_blank" rel="noopener"
       href="${VIDEO_SEARCH}${encodeURIComponent(word)}"
-      title="No video matched this word - search the channel">&#9654; search iswearenglish</a>`];
-  return `<div class="vids">${chips.join("")}</div>`;
+      title="No video matched this word - search the channel">&#9654; search iswearenglish</a></div>`;
+  // The channel puts the word itself in the thumbnail, in large type, so these
+  // read as a summary of the video rather than as decoration. onerror hides a
+  // broken image offline and leaves the label, which still links.
+  return `<div class="vgrid">` + vids.map(v => `<a href="https://youtu.be/${esc(v.id)}"
+      target="_blank" rel="noopener" title="${esc(v.subjects.join(" · "))}">
+      <img loading="lazy" width="320" height="180" alt=""
+           src="https://i.ytimg.com/vi/${esc(v.id)}/mqdefault.jpg"
+           onerror="this.style.display='none'">
+      <div class="c">${esc(videoLabel(word, v))}</div></a>`).join("") + `</div>`;
 }
 
 /* The video links sit between the one-line definition and the nuance that

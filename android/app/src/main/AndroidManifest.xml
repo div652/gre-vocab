@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- The flashcards live in assets/ and the app works fully offline. INTERNET
-         exists only so a signed-in user can sync progress to their Drive; the
-         WebView blocks every host except Google's auth and Drive endpoints, so
-         a guest still fetches nothing. See MainActivity.NET_ALLOW. -->
+    <!-- The flashcards live in assets/ and every word works offline. INTERNET is
+         needed for two things: syncing a signed-in user's progress to Drive, and
+         the video thumbnails on each card. The WebView refuses every other host
+         - see MainActivity.NET_ALLOW - and both uses degrade gracefully with no
+         connection. -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
