@@ -286,6 +286,105 @@ code{background:var(--panel2);padding:.05rem .3rem;border-radius:5px;font-size:.
 .linkish:hover{opacity:.75}
 /* the qtype run is uppercase and letter-spaced; the change link should not be */
 .qtype .linkish{margin-left:.6rem;text-transform:none;letter-spacing:0;font-size:.72rem}
+/* ============================================================
+   Vocab Mountain. The only part of the app designed phone-first: the card
+   fills the viewport, flips in 3D, and takes swipes.
+   ============================================================ */
+.gpick{display:grid;grid-template-columns:repeat(auto-fill,minmax(74px,1fr));gap:.4rem;margin:.6rem 0}
+.gchip{position:relative;overflow:hidden;font-family:var(--ui);border:1px solid var(--line);
+  background:var(--panel2);color:var(--ink2);border-radius:12px;padding:.45rem .2rem .55rem;
+  text-align:center;cursor:pointer;display:block}
+.gchip b{display:block;font-size:.95rem;font-weight:700}
+.gchip u{display:block;text-decoration:none;font-size:.62rem;color:var(--dim);margin-top:.1rem}
+.gchip i{position:absolute;left:0;bottom:0;height:3px;background:var(--accent);opacity:.5}
+.gchip.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.gchip.on u{color:var(--accent)}
+.rowbtns{display:flex;gap:.5rem;flex-wrap:wrap}
+.rowbtns .btn{flex:1;min-width:6rem}
+
+.climb{display:flex;flex-direction:column;gap:.8rem;
+  height:calc(100dvh - var(--hh,132px));min-height:26rem}
+.mhead{position:relative;display:flex;align-items:center;gap:.6rem}
+svg.mt{flex:1;height:38px;display:block}
+svg.mt .mbase{fill:none;stroke:var(--line);stroke-width:2.5;stroke-linejoin:round}
+svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:round;
+  stroke-linecap:round;transition:stroke-dasharray .35s ease}
+.mlbl{font-size:.72rem;font-weight:700;color:var(--dim);white-space:nowrap}
+
+.deck{flex:1;position:relative;perspective:1400px;min-height:0;touch-action:pan-y}
+.deck .flip{position:absolute;inset:0;transform-style:preserve-3d;cursor:pointer;
+  transition:transform .45s cubic-bezier(.2,.7,.3,1)}
+.deck .flip.on{transform:rotateY(180deg)}
+.deck .face{position:absolute;inset:0;backface-visibility:hidden;
+  -webkit-backface-visibility:hidden;background:var(--panel);border:1px solid var(--line);
+  border-radius:20px;box-shadow:var(--shadow);padding:1.3rem;overflow:auto;
+  display:flex;flex-direction:column}
+.deck .face.front{align-items:center;justify-content:center;text-align:center}
+.deck .face.back{transform:rotateY(180deg)}
+.deck.know .face{border-color:var(--easy);box-shadow:0 0 0 3px var(--easy)}
+.deck.no .face{border-color:var(--hard);box-shadow:0 0 0 3px var(--hard)}
+.mw{font-family:var(--read);font-size:2.2rem;font-weight:700;line-height:1.12}
+.mw.sm{font-size:1.5rem}
+.taphint{margin-top:1.2rem;font-size:.76rem;color:var(--dim)}
+.gloss{font-family:var(--read);font-size:1.1rem;line-height:1.6;color:var(--ink2);margin:.6rem 0 0}
+.more{margin-top:.9rem;width:100%;font-family:var(--ui);font-size:.8rem;font-weight:600;
+  border:1px solid var(--line);background:var(--panel2);color:var(--accent);
+  border-radius:12px;padding:.6rem;cursor:pointer}
+.mdetail{display:none;margin-top:.5rem}
+.mdetail.on{display:block}
+.mdetail h4{font-family:var(--ui);font-size:.64rem;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--accent);margin:.9rem 0 .3rem;font-weight:700}
+.mdetail p,.mdetail li{font-family:var(--read);font-size:1rem;line-height:1.6;color:var(--ink2)}
+
+.mctl{display:flex;gap:.7rem;align-items:center;justify-content:center;flex:0 0 auto}
+.mctl .big{width:70px;height:70px;border-radius:50%;border:2px solid var(--line);
+  background:var(--panel);font-size:1.8rem;line-height:1;cursor:pointer;display:grid;
+  place-items:center;box-shadow:var(--shadow);transition:transform .12s}
+.mctl .big:active{transform:scale(.9)}
+.mctl .big.no{color:var(--hard)}
+.mctl .big.yes{color:var(--easy)}
+.mctl .arrow{width:44px;height:44px;border-radius:50%;border:1px solid var(--line);
+  background:var(--panel);color:var(--dim);font-size:1.05rem;cursor:pointer;
+  display:grid;place-items:center}
+.mcount{font-size:.78rem;font-weight:700;color:var(--dim);min-width:4.2rem;text-align:center}
+
+.mpanel .res{display:flex;gap:.6rem;margin:.2rem 0 .9rem}
+.mpanel .stat{flex:1;background:var(--panel2);border-radius:14px;padding:.7rem;text-align:center}
+.mpanel .stat b{display:block;font-family:var(--read);font-size:1.5rem}
+.mpanel .stat span{font-size:.7rem;color:var(--dim)}
+.mh4{font-family:var(--ui);font-size:.66rem;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--accent);margin:.6rem 0 .4rem}
+.wrongs{border:1px solid var(--line);border-radius:14px;overflow:hidden;max-height:44dvh;overflow-y:auto}
+.wrongs div{display:flex;gap:.6rem;padding:.55rem .7rem;border-bottom:1px solid var(--line);
+  cursor:pointer}
+.wrongs div:last-child{border-bottom:0}
+.wrongs div:hover{background:var(--panel2)}
+.wrongs b{font-family:var(--read);min-width:7rem;font-size:.95rem}
+.wrongs span{color:var(--dim);font-size:.82rem;flex:1;line-height:1.4}
+
+/* The header's filters belong to Browse and Drill. In the mountain they are
+   dead weight - and on a phone they were 452px of an 812px screen, which left
+   the card less room than the controls below it. */
+body.mtn-mode #search,
+body.mtn-mode #group,
+body.mtn-mode #diff,
+body.mtn-mode #shuffle,
+body.mtn-mode .stats{display:none}
+
+@media (max-width:640px){
+  header{padding:.5rem .7rem;gap:.4rem}
+  header h1{font-size:1rem}
+  .tabs{order:2;flex:1 0 100%;overflow-x:auto;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{white-space:nowrap}
+  body.mtn-mode .fontctl{display:none}
+  .climb{height:calc(100dvh - var(--hh,180px))}
+  .mw{font-size:1.9rem}
+  .deck .face{padding:1rem;border-radius:16px}
+  .mctl .big{width:62px;height:62px;font-size:1.6rem}
+  .mctl .arrow{width:40px;height:40px}
+}
+
 .blankgrp{margin-top:1rem}
 .blankgrp h5{margin:0 0 .45rem;font-size:.7rem;letter-spacing:.13em;
   text-transform:uppercase;color:var(--accent);font-weight:700}
@@ -318,6 +417,7 @@ ul.nuance li{border-left:3px solid var(--line);padding:.3rem 0 .3rem .8rem;margi
   <div class="tabs">
     <button id="mBrowse" class="tab on">Browse</button>
     <button id="mDrill" class="tab">Drill</button>
+    <button id="mMountain" class="tab">Mountain</button>
     <button id="mQuiz" class="tab">Quiz</button>
     <button id="mGroups" class="tab">Groups</button>
   </div>
@@ -345,9 +445,12 @@ ul.nuance li{border-left:3px solid var(--line);padding:.3rem 0 .3rem .8rem;margi
 <main>
   <div id="browse"></div>
   <div id="drill" class="hidden"></div>
+  <div id="mountain" class="hidden"></div>
   <div id="quiz" class="hidden"></div>
   <div id="groups" class="hidden"></div>
 </main>
+
+<div id="msheet" class="sheet hidden"><div class="inner mpanel"></div></div>
 
 <div id="sheet" class="sheet hidden"><div class="inner">
   <div style="display:flex;align-items:center;justify-content:space-between">
@@ -632,6 +735,248 @@ function renderStats(){
      <span class="dot" style="background:var(--medium)"></span>${n.medium}
      <span class="dot" style="background:var(--easy)"></span>${n.easy}
      &nbsp;· ${done}/${CARDS.length} marked`;
+}
+
+/* ==========================================================================
+   Vocab Mountain
+   --------------------------------------------------------------------------
+   A recognition pass over whole GregMat lists: one card at a time, tap to
+   reveal, know or don't. Phone-first - the card fills the screen, it flips,
+   and it takes swipes - but the same markup works with a keyboard.
+
+   Known/unknown is its OWN state, deliberately kept out of `marks` and `srs`.
+   A fast recognition sweep and a considered easy/medium/hard judgement are
+   different claims, and letting the sweep overwrite the judgement would flatten
+   months of marking in one session.
+   ========================================================================== */
+
+const MTN_KEY = "gre-vocab-mountain-v1", MSEL_KEY = "gre-vocab-mtn-sel-v1";
+let mtn = JSON.parse(localStorage.getItem(MTN_KEY) || "{}");
+let mSel = new Set(JSON.parse(localStorage.getItem(MSEL_KEY) || "[]"));
+let mDeck = [], mIdx = 0, mVerdict = {}, mFlip = false, mDetail = false, mRunning = false;
+
+function saveMtn(){
+  localStorage.setItem(MTN_KEY, JSON.stringify(mtn));
+  if(typeof queueSync === "function") queueSync();
+}
+const saveMSel = () => localStorage.setItem(MSEL_KEY, JSON.stringify([...mSel]));
+
+const GNUMS = [...new Set(CARDS.flatMap(c => c.groups || []))].sort((a,b) => a-b);
+const wordsInGroups = gs => CARDS.filter(c => (c.groups||[]).some(g => gs.has(g)));
+
+/* ---- setup screen: which lists, and how far up each one you are ---- */
+function mountainSetup(){
+  const rows = GNUMS.map(g => {
+    const ws = CARDS.filter(c => (c.groups||[]).includes(g));
+    const known = ws.filter(c => mtn[c.word] && mtn[c.word].k).length;
+    const pct = Math.round(100 * known / (ws.length || 1));
+    return `<button class="gchip ${mSel.has(g) ? "on" : ""}" data-g="${g}">
+        <b>${g}</b><i style="width:${pct}%"></i><u>${known}/${ws.length}</u></button>`;
+  }).join("");
+  const picked = wordsInGroups(mSel);
+  const fresh = picked.filter(c => !mtn[c.word]).length;
+  $("mountain").innerHTML = `<div class="q"><div class="setup">
+      <h3>Vocab Mountain</h3>
+      <p class="hint">Pick the lists to climb. One word at a time: reveal it, then say
+         whether you knew it. Nothing here touches your easy/medium/hard marks.</p>
+      <div class="gpick">${rows}</div>
+      <div class="rowbtns">
+        <button class="btn" id="mAll">All ${GNUMS.length}</button>
+        <button class="btn" id="mNone">Clear</button>
+        <button class="btn" id="mRange">Range…</button>
+      </div>
+      <hr class="sep">
+      <label><input type="checkbox" id="mOnlyNew" checked>
+        <span><strong>Only words I haven't judged yet</strong><br>
+        <span class="hint">Skips the ones already marked known or unknown here.</span></span></label>
+      <p class="hint" id="mCount">${picked.length} words selected · ${fresh} not yet judged</p>
+      <div style="margin-top:14px"><button id="mStart" class="on"
+        ${picked.length ? "" : "disabled"}>Start climbing</button></div>
+    </div></div>`;
+
+  const refresh = () => {
+    const p = wordsInGroups(mSel), f = p.filter(c => !mtn[c.word]).length;
+    $("mCount").textContent = `${p.length} words selected · ${f} not yet judged`;
+    $("mStart").disabled = !p.length;
+  };
+  $("mountain").querySelectorAll(".gchip").forEach(b => b.onclick = () => {
+    const g = +b.dataset.g;
+    mSel.has(g) ? mSel.delete(g) : mSel.add(g);
+    b.classList.toggle("on", mSel.has(g)); saveMSel(); refresh();
+  });
+  $("mAll").onclick  = () => { mSel = new Set(GNUMS); saveMSel(); renderMountain(); };
+  $("mNone").onclick = () => { mSel.clear(); saveMSel(); renderMountain(); };
+  $("mRange").onclick = () => {
+    const s = prompt("Which lists? e.g.  3, 6, 12-14", [...mSel].sort((a,b)=>a-b).join(", "));
+    if(s === null) return;
+    const next = new Set();
+    s.split(",").forEach(part => {
+      const m = part.trim().match(/^(\d+)\s*(?:-|–|to)\s*(\d+)$/);
+      if(m){ for(let g = +m[1]; g <= +m[2]; g++) if(GNUMS.includes(g)) next.add(g); }
+      else if(/^\d+$/.test(part.trim()) && GNUMS.includes(+part)) next.add(+part);
+    });
+    mSel = next; saveMSel(); renderMountain();
+  };
+  $("mStart").onclick = () => {
+    let pool = wordsInGroups(mSel);
+    if($("mOnlyNew").checked){
+      const f = pool.filter(c => !mtn[c.word]);
+      if(f.length) pool = f;                    // fall back rather than start empty
+    }
+    mDeck = shuffled(pool); mIdx = 0; mVerdict = {};
+    mFlip = false; mDetail = false; mRunning = true;
+    renderMountain();
+  };
+}
+
+/* ---- the climb: a polyline whose filled length is how far you have got ---- */
+function mountainSVG(done, total){
+  const f = total ? Math.min(1, done/total) : 0;
+  return `<svg class="mt" viewBox="0 0 300 40" preserveAspectRatio="none" aria-hidden="true">
+      <path class="mbase" d="M2 37 L90 20 L150 6 L215 22 L298 37"/>
+      <path class="mfill" d="M2 37 L90 20 L150 6 L215 22 L298 37"
+            pathLength="1" stroke-dasharray="${f} 1"/>
+    </svg><span class="mlbl">${done} / ${total}</span>`;
+}
+
+function renderMountain(){
+  if(!mRunning) return mountainSetup();
+  const c = mDeck[mIdx];
+  if(!c){ mRunning = false; return mountainSetup(); }
+  const done = Object.keys(mVerdict).length;
+  const v = mVerdict[c.word];
+
+  $("mountain").innerHTML = `<div class="climb">
+    <div class="mhead">${mountainSVG(done, mDeck.length)}
+      <button class="linkish" id="mQuit">end session</button></div>
+    <div class="deck ${v === true ? "know" : v === false ? "no" : ""}" id="mDeckEl">
+      <div class="flip ${mFlip ? "on" : ""}" id="mFlip">
+        <div class="face front">
+          <div class="mw">${esc(c.word)}</div>
+          ${c.pron ? `<div class="pron">${esc(c.pron)}</div>` : ""}
+          <div class="taphint">tap to reveal</div>
+        </div>
+        <div class="face back">
+          <div class="mw sm">${esc(c.word)} <span class="pos">${esc(c.pos||"")}</span></div>
+          <p class="gloss">${esc(c.one_line||"")}</p>
+          <button class="more" id="mMore">Detailed meaning and synonyms</button>
+          <div class="mdetail ${mDetail ? "on" : ""}" id="mDet">${mDetailHTML(c)}</div>
+        </div>
+      </div>
+    </div>
+    <div class="mctl">
+      <button class="arrow" id="mPrev" title="Previous (left arrow)">&#8592;</button>
+      <button class="big no"  id="mNo"  title="Didn't know it">&#10007;</button>
+      <span class="mcount">${mIdx+1} / ${mDeck.length}</span>
+      <button class="big yes" id="mYes" title="Knew it">&#10003;</button>
+      <button class="arrow" id="mNext" title="Next (right arrow)">&#8594;</button>
+    </div></div>`;
+
+  $("mFlip").onclick = e => {
+    if(e.target.closest("#mMore") || e.target.closest("a")) return;
+    mFlip = !mFlip; renderMountain();
+  };
+  $("mMore").onclick = e => { e.stopPropagation(); mDetail = !mDetail;
+    $("mDet").classList.toggle("on", mDetail); };
+  $("mPrev").onclick = () => mStep(-1);
+  $("mNext").onclick = () => mStep(1);
+  $("mYes").onclick  = () => mJudge(true);
+  $("mNo").onclick   = () => mJudge(false);
+  $("mQuit").onclick = () => mFinish();
+  mWireSwipe($("mDeckEl"));
+}
+
+function mDetailHTML(c){
+  let h = md(c.means);
+  if(c.trap) h += md(c.trap);
+  if(c.trick_line) h += `<h4>Trick</h4><blockquote>${md(c.trick_line).replace(/<\/?p>/g,"")}</blockquote>`;
+  const syn = [...new Set([].concat(c.root_family||[], c.confusables||[]))].slice(0, 10);
+  if(syn.length) h += `<h4>Related</h4><div class="chips">` +
+      syn.map(s => `<span class="chip">${esc(s)}</span>`).join("") + `</div>`;
+  if((c.sentences||[]).length) h += `<h4>In sentences</h4><ol>` +
+      c.sentences.map(s => `<li>${md(s).replace(/<\/?p>/g,"")}</li>`).join("") + `</ol>`;
+  const gs = GROUPS_OF[c.word.toLowerCase()] || [];
+  if(gs.length) h += `<h4>Also sits in</h4><div class="chips">` + gs.slice(0,4).map(g =>
+      `<span class="chip" data-gid="${esc(g.id)}"><b>${esc(KINDLABEL[g.kind]||g.kind)}</b> ${esc(g.title)}</span>`
+    ).join("") + `</div>`;
+  const v = (VIDEOS[c.word] || [])[0];
+  if(v) h += `<h4>Watch</h4><div class="vgrid"><a href="https://youtu.be/${esc(v.id)}"
+      target="_blank" rel="noopener"><img loading="lazy" width="320" height="180" alt=""
+      src="https://i.ytimg.com/vi/${esc(v.id)}/mqdefault.jpg"
+      onerror="this.style.display='none'"><div class="c">${esc(videoLabel(c.word, v))}</div></a></div>`;
+  return h;
+}
+
+function mStep(d){
+  if(!mDeck.length) return;
+  mIdx = (mIdx + d + mDeck.length) % mDeck.length;
+  mFlip = false; mDetail = false; renderMountain();
+}
+
+function mJudge(ok){
+  const c = mDeck[mIdx];
+  if(!c) return;
+  mVerdict[c.word] = ok;
+  mtn[c.word] = {k: ok ? 1 : 0, t: Date.now()};
+  saveMtn();
+  renderMountain();                                    // paint the verdict colour
+  setTimeout(() => {
+    if(Object.keys(mVerdict).length >= mDeck.length) mFinish();
+    else if(mIdx >= mDeck.length - 1) mFinish();
+    else mStep(1);
+  }, 190);
+}
+
+/* Left = previous, right = next, as asked for. */
+function mWireSwipe(el){
+  let x0 = null, y0 = null;
+  el.addEventListener("touchstart", e => {
+    x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
+  }, {passive:true});
+  el.addEventListener("touchend", e => {
+    if(x0 === null) return;
+    const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
+    x0 = null;
+    if(Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy)) mStep(dx < 0 ? -1 : 1);
+  }, {passive:true});
+}
+
+/* ---- end of session: the point of the whole thing is this list ---- */
+function mFinish(){
+  const seen = Object.entries(mVerdict);
+  const missed = seen.filter(x => !x[1]).map(x => x[0]);
+  const knew = seen.length - missed.length;
+  const full = seen.length >= mDeck.length && mDeck.length > 0;
+  $("msheet").querySelector(".mpanel").innerHTML = `
+    <h3>${full ? "Summit" : "Stopped part-way"}</h3>
+    <div class="res">
+      <div class="stat"><b>${knew}</b><span>knew</span></div>
+      <div class="stat"><b>${missed.length}</b><span>didn't</span></div>
+      <div class="stat"><b>${Math.round(100*seen.length/(mDeck.length||1))}%</b><span>of the climb</span></div>
+    </div>
+    <h4 class="mh4">Words to go back to</h4>
+    <div class="wrongs">${missed.length
+      ? missed.map(w => { const c = CARDS.find(x => x.word === w) || {};
+          return `<div data-w="${esc(w)}"><b>${esc(w)}</b><span>${esc(c.one_line||"")}</span></div>`;
+        }).join("")
+      : `<div><span>Nothing missed.</span></div>`}</div>
+    <div class="rowbtns" style="margin-top:14px">
+      ${missed.length ? `<button class="btn on" id="mAgain">Drill those ${missed.length} again</button>` : ""}
+      <button class="btn" id="mDone">Done</button>
+    </div>`;
+  $("msheet").classList.remove("hidden");
+  $("mDone").onclick = () => {
+    $("msheet").classList.add("hidden"); mRunning = false; renderMountain();
+  };
+  if($("mAgain")) $("mAgain").onclick = () => {
+    $("msheet").classList.add("hidden");
+    mDeck = shuffled(CARDS.filter(c => missed.includes(c.word)));
+    mIdx = 0; mVerdict = {}; mFlip = false; mDetail = false; mRunning = true;
+    renderMountain();
+  };
+  $("msheet").querySelectorAll(".wrongs div[data-w]").forEach(el =>
+    el.onclick = () => { $("msheet").classList.add("hidden"); mRunning = false;
+      go("/browse/" + encodeURIComponent(el.dataset.w)); });
 }
 
 /* ==========================================================================
@@ -1233,6 +1578,7 @@ function renderQuiz(){
 function render(){
   if(mode === "browse") renderBrowse();
   else if(mode === "drill") renderDrill();
+  else if(mode === "mountain") renderMountain();
   else if(mode === "quiz") renderQuiz();
   else renderGroups();
   renderStats();
@@ -1264,7 +1610,8 @@ document.addEventListener("click", e => {
    ========================================================================== */
 
 const ROUTE_KEY = "gre-vocab-route";
-const MODES = [["browse","mBrowse"],["drill","mDrill"],["quiz","mQuiz"],["groups","mGroups"]];
+const MODES = [["browse","mBrowse"],["drill","mDrill"],["mountain","mMountain"],
+               ["quiz","mQuiz"],["groups","mGroups"]];
 
 function currentRoute(){
   let r = "/" + mode;
@@ -1296,6 +1643,8 @@ function applyRoute(route){
     $(id).classList.toggle("on", k === m);
     $(k).classList.toggle("hidden", k !== m);
   });
+  document.body.classList.toggle("mtn-mode", m === "mountain");
+  if(typeof measureHeader === "function") setTimeout(measureHeader, 0);
   if(m === "drill") revealed = false;
   // Re-show the setup when entering the quiz fresh, or when the scope changed
   // under a quiz that was already running, so it doesn't silently keep asking
@@ -1536,8 +1885,17 @@ function mergeProgress(remote){
   });
   const rSeen = (remote && remote.seenq) || [];
   rSeen.forEach(id => seenQ.add(id));
+  // Mountain verdicts: newest judgement per word wins, since "I know this now"
+  // genuinely supersedes "I didn't last week". Unlike marks, this one is a
+  // timestamped observation rather than a considered label.
+  const rMtn = (remote && remote.mountain) || {};
+  Object.keys(rMtn).forEach(w => {
+    const a = mtn[w], b = rMtn[w];
+    if(!a || (b && (b.t||0) > (a.t||0))) mtn[w] = b;
+  });
   save(); saveSrs();
   localStorage.setItem(SEEN_KEY, JSON.stringify([...seenQ]));
+  localStorage.setItem(MTN_KEY, JSON.stringify(mtn));
 }
 
 async function syncNow(){
@@ -1549,7 +1907,8 @@ async function syncNow(){
       if(r.ok) mergeProgress(await r.json());
     }catch(e){ /* a corrupt remote must not block writing a good local copy */ }
   }
-  const body = JSON.stringify({marks, srs, seenq:[...seenQ], updatedAt: Date.now(), v:1});
+  const body = JSON.stringify({marks, srs, seenq:[...seenQ], mountain: mtn,
+                               updatedAt: Date.now(), v:2});
   const meta = {name: SYNC_FILE, mimeType: "application/json"};
   if(!id) meta.parents = ["appDataFolder"];
   const boundary = "gvb" + Math.random().toString(36).slice(2);
@@ -1663,6 +2022,16 @@ document.addEventListener("click", e => {
 
 $("mBrowse").onclick = () => setMode("browse");
 $("mDrill").onclick  = () => setMode("drill");
+$("mMountain").onclick = () => setMode("mountain");
+
+/* The mountain card is sized against the viewport, so it needs the real header
+   height rather than a guess - the header wraps to two rows on a phone. */
+function measureHeader(){
+  const h = document.querySelector("header");
+  if(h) document.documentElement.style.setProperty("--hh", (h.offsetHeight + 46) + "px");
+}
+measureHeader();
+addEventListener("resize", measureHeader);
 $("mQuiz").onclick   = () => setMode("quiz");
 $("mGroups").onclick = () => setMode("groups");
 
@@ -1700,7 +2069,16 @@ $("file").onchange = e => {
 go(location.hash.slice(1) || localStorage.getItem(ROUTE_KEY) || "/browse", true);
 
 document.addEventListener("keydown", e => {
-  if(mode!=="drill" || /input|select/i.test(e.target.tagName)) return;
+  if(/input|select|textarea/i.test(e.target.tagName)) return;
+  if(mode === "mountain" && mRunning){
+    if(e.key === " " || e.key === "Enter"){ e.preventDefault(); mFlip = !mFlip; renderMountain(); }
+    if(e.key === "ArrowLeft")  mStep(-1);
+    if(e.key === "ArrowRight") mStep(1);
+    if(e.key === "y" || e.key === "1") mJudge(true);
+    if(e.key === "n" || e.key === "0") mJudge(false);
+    return;
+  }
+  if(mode!=="drill") return;
   if(e.key===" "){ e.preventDefault(); revealed=true; renderDrill(); }
   if(e.key==="1") document.querySelector(".mk-hard")?.click();
   if(e.key==="2") document.querySelector(".mk-medium")?.click();

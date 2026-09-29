@@ -331,6 +331,28 @@ Why images rather than the text chips they replaced: **the channel puts the word
 itself in the thumbnail in large type**, so a group video announces its whole
 cluster ("CAJOLE BEGUILE ENTICE INDUCE") before you click it.
 
+### D-44 — Vocab Mountain is a fifth mode, and keeps its own state
+A phone-first recognition pass over whole GregMat lists: pick lists (including
+by range, "3, 6, 12-14"), get one card at a time, tap to flip, tick or cross,
+swipe between cards. It sits beside Drill rather than replacing it, so the
+desktop keyboard flow survives.
+
+Known/unknown is its own key, not `marks`. See DATA-MODEL § Mountain verdicts —
+the short version is that a fast sweep must not overwrite a slow judgement.
+
+The session ends in a **list of the words you missed**, on early exit as well as
+on completion, with each word clickable through to its card. That list is the
+actual point of the mode; the climb bar is decoration.
+
+### D-45 — The header hides its filters in the Mountain
+Search, the group and mark filters, shuffle and the stats readout belong to
+Browse and Drill. Measured on a 375px viewport they made the header **452px of
+an 812px screen**, leaving the card 290px — less room than the controls beneath
+it. Hidden in mountain mode, the header is 98px and the card 542px.
+
+This is also where the app got its **first media queries**. Everything before
+this rendered the desktop layout inside the phone's WebView.
+
 ---
 
 ## Corrections worth remembering

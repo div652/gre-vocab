@@ -159,6 +159,8 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-gemini-key` | user's own Gemini API key (never leaves the device except to Google) |
 | `gre-vocab-gemini-model` | chosen model id |
 | `gre-vocab-prefs-v1` | `{theme, scale, voice, rate}` — appearance and reading voice |
+| `gre-vocab-mountain-v1` | `{ word: {k: 0\|1, t: ms} }` — Vocab Mountain known/unknown |
+| `gre-vocab-mtn-sel-v1` | array of GregMat list numbers selected in the Mountain |
 
 ### `videos.json`
 
@@ -186,6 +188,24 @@ paragraph — so `build_app.py` splits `means` on its first blank line rather th
 rendering it whole. They render as two 16:9 thumbnails from
 `i.ytimg.com/vi/<id>/mqdefault.jpg`, fetched lazily rather than bundled (D-43);
 a word with no match gets a channel-search chip instead.
+
+### Mountain verdicts
+
+`gre-vocab-mountain-v1` is **deliberately separate from `marks`**. A recognition
+sweep ("did I know this word, yes or no") and a considered easy/medium/hard
+judgement are different claims; letting a fast pass overwrite the slow one would
+flatten months of marking in a single session. Nothing in Vocab Mountain writes
+`marks` or `srs`.
+
+It carries a timestamp because its merge rule differs from every other key: the
+**newest judgement per word wins**, since "I know this now" genuinely supersedes
+"I didn't last week". Marks merge local-wins; mountain verdicts merge
+newest-wins.
+
+The Drive payload is now `v: 2` — `{marks, srs, seenq, mountain, updatedAt, v}`.
+A client old enough to write `v: 1` would drop the `mountain` key on its next
+push. That is tolerated rather than solved: the data is one session's worth of
+recognition and regenerates, unlike marks.
 
 ### Quiz scopes
 
