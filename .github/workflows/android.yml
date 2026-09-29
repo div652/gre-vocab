@@ -52,7 +52,14 @@ jobs:
           distribution: temurin
           java-version: "17"
 
+      # The action's default package list is "tools platform-tools", and Google
+      # has removed the obsolete "tools" package from the SDK repository, so the
+      # default now fails with "Failed to find package 'tools'". Nothing here
+      # needs it: cmdline-tools replaced it, and AGP fetches the build-tools and
+      # platform it wants on its own.
       - uses: android-actions/setup-android@v3
+        with:
+          packages: platform-tools
 
       - uses: gradle/actions/setup-gradle@v4
         with:
