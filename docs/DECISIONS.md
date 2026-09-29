@@ -344,6 +344,28 @@ The session ends in a **list of the words you missed**, on early exit as well as
 on completion, with each word clickable through to its card. That list is the
 actual point of the mode; the climb bar is decoration.
 
+### D-46 — The Mountain is a grid, and density is pure layout
+Rebuilt after seeing a screenshot of GregMat's actual Android app, which the
+first research pass had missed: it researched the *web* tool, which is a
+different design again (a dense colour-by-hand grid of every word, no cards at
+all).
+
+The app shows 1, 2, 4 or 6 cards at once. The important consequence is that
+**each card carries its own cross / detail / tick** — at six-up there is no
+single "current" card for a shared button row to act on. So the card markup is
+identical at every density and the control is pure CSS grid, which is what keeps
+it to one component instead of two layouts.
+
+Two things follow from the grid that did not apply to a single card:
+
+- **Judging repaints one card, not the page.** A full re-render mid-sweep would
+  throw away the other five cards' flip states.
+- **The detail view is a sheet over the grid**, not an expander inside the card.
+  A full card does not fit beside five others.
+
+Three states, not two — knew, forgot, blank — matching the real tool's G / R / W
+keys. Blank is the absence of a key, so re-tapping a verdict clears it.
+
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to
 Browse and Drill. Measured on a 375px viewport they made the header **452px of

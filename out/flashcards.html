@@ -271,42 +271,60 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
   stroke-linecap:round;transition:stroke-dasharray .35s ease}
 .mlbl{font-size:.72rem;font-weight:700;color:var(--dim);white-space:nowrap}
 
-.deck{flex:1;position:relative;perspective:1400px;min-height:0;touch-action:pan-y}
-.deck .flip{position:absolute;inset:0;transform-style:preserve-3d;cursor:pointer;
-  transition:transform .45s cubic-bezier(.2,.7,.3,1)}
-.deck .flip.on{transform:rotateY(180deg)}
-.deck .face{position:absolute;inset:0;backface-visibility:hidden;
-  -webkit-backface-visibility:hidden;background:var(--panel);border:1px solid var(--line);
-  border-radius:20px;box-shadow:var(--shadow);padding:1.3rem;overflow:auto;
-  display:flex;flex-direction:column}
-.deck .face.front{align-items:center;justify-content:center;text-align:center}
-.deck .face.back{transform:rotateY(180deg)}
-.deck.know .face{border-color:var(--easy);box-shadow:0 0 0 3px var(--easy)}
-.deck.no .face{border-color:var(--hard);box-shadow:0 0 0 3px var(--hard)}
-.mw{font-family:var(--read);font-size:2.2rem;font-weight:700;line-height:1.12}
-.mw.sm{font-size:1.5rem}
-.taphint{margin-top:1.2rem;font-size:.76rem;color:var(--dim)}
-.gloss{font-family:var(--read);font-size:1.1rem;line-height:1.6;color:var(--ink2);margin:.6rem 0 0}
-.more{margin-top:.9rem;width:100%;font-family:var(--ui);font-size:.8rem;font-weight:600;
-  border:1px solid var(--line);background:var(--panel2);color:var(--accent);
-  border-radius:12px;padding:.6rem;cursor:pointer}
+/* The grid. One card or six, same card markup - density is pure layout. */
+.mgrid{flex:1;display:grid;gap:.6rem;min-height:0;touch-action:pan-y}
+.mgrid.d1{grid-template-columns:1fr;grid-template-rows:1fr}
+.mgrid.d2{grid-template-columns:1fr;grid-template-rows:1fr 1fr}
+.mgrid.d4{grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr}
+.mgrid.d6{grid-template-columns:1fr 1fr;grid-template-rows:repeat(3,1fr)}
+.mcard{position:relative;display:flex;flex-direction:column;min-height:0;overflow:hidden;
+  background:var(--panel);border:1px solid var(--line);border-radius:16px;
+  box-shadow:var(--shadow);transition:background .18s,border-color .18s}
+.mcard.k{background:var(--easy);border-color:var(--easy)}
+.mcard.n{background:var(--hard);border-color:var(--hard)}
+.mfa{flex:1;min-height:0;perspective:900px;cursor:pointer}
+.mfi{position:relative;width:100%;height:100%;transform-style:preserve-3d;
+  transition:transform .4s cubic-bezier(.2,.7,.3,1)}
+.mcard.flipped .mfi{transform:rotateY(180deg)}
+.mside{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;padding:.6rem;gap:.35rem;overflow:auto}
+.mside.back{transform:rotateY(180deg)}
+.mcw{font-family:var(--read);font-weight:700;line-height:1.15;font-size:1.15rem}
+.mgl{font-family:var(--read);font-size:.85rem;line-height:1.4;color:var(--ink2)}
+.mcard.k .mcw,.mcard.n .mcw,.mcard.k .mgl,.mcard.n .mgl{color:#fff}
+.mgrid.d1 .mcw{font-size:2.4rem}
+.mgrid.d1 .mgl{font-size:1.2rem;max-width:22rem}
+.mgrid.d2 .mcw{font-size:1.75rem}
+.mgrid.d2 .mgl{font-size:1rem}
+.mgrid.d4 .mcw{font-size:1.35rem}
+.mbtns{display:flex;flex:0 0 auto;border-top:1px solid var(--line);background:rgba(0,0,0,.03)}
+.mcard.k .mbtns,.mcard.n .mbtns{border-top-color:rgba(255,255,255,.28);background:rgba(0,0,0,.10)}
+.mb{flex:1;border:0;background:none;cursor:pointer;padding:.45rem 0;font-size:1.05rem;
+  line-height:1;color:var(--dim)}
+.mb.x{color:var(--hard)} .mb.t{color:var(--easy)}
+.mcard.k .mb,.mcard.n .mb{color:rgba(255,255,255,.92)}
+.mb:active{transform:scale(.88)}
+
+.mfoot{display:flex;align-items:center;font-size:.72rem;font-weight:600;color:var(--dim);
+  flex:0 0 auto;gap:.5rem}
+.mfoot .sp{flex:1}
+#mSlider{width:100%;flex:0 0 auto;accent-color:var(--accent)}
+#mDenSel{padding:.15rem .3rem;font-size:.78rem}
+.arrow.sm{width:32px;height:32px;font-size:1rem;flex:0 0 auto}
+.arrow.sm.on{color:var(--accent);border-color:var(--accent);background:var(--accent-soft)}
+.mdethead{display:flex;align-items:center;gap:.4rem;margin-bottom:.6rem}
+.mdethead b{font-family:var(--read);font-size:1.3rem}
+.mdethead .sp{flex:1}
 .mdetail{display:none;margin-top:.5rem}
 .mdetail.on{display:block}
 .mdetail h4{font-family:var(--ui);font-size:.64rem;letter-spacing:.13em;text-transform:uppercase;
   color:var(--accent);margin:.9rem 0 .3rem;font-weight:700}
 .mdetail p,.mdetail li{font-family:var(--read);font-size:1rem;line-height:1.6;color:var(--ink2)}
 
-.mctl{display:flex;gap:.7rem;align-items:center;justify-content:center;flex:0 0 auto}
-.mctl .big{width:70px;height:70px;border-radius:50%;border:2px solid var(--line);
-  background:var(--panel);font-size:1.8rem;line-height:1;cursor:pointer;display:grid;
-  place-items:center;box-shadow:var(--shadow);transition:transform .12s}
-.mctl .big:active{transform:scale(.9)}
-.mctl .big.no{color:var(--hard)}
-.mctl .big.yes{color:var(--easy)}
-.mctl .arrow{width:44px;height:44px;border-radius:50%;border:1px solid var(--line);
+.arrow{width:44px;height:44px;border-radius:50%;border:1px solid var(--line);
   background:var(--panel);color:var(--dim);font-size:1.05rem;cursor:pointer;
   display:grid;place-items:center}
-.mcount{font-size:.78rem;font-weight:700;color:var(--dim);min-width:4.2rem;text-align:center}
 
 .mpanel .res{display:flex;gap:.6rem;margin:.2rem 0 .9rem}
 .mpanel .stat{flex:1;background:var(--panel2);border-radius:14px;padding:.7rem;text-align:center}
@@ -710,10 +728,13 @@ function renderStats(){
    months of marking in one session.
    ========================================================================== */
 
-const MTN_KEY = "gre-vocab-mountain-v1", MSEL_KEY = "gre-vocab-mtn-sel-v1";
+const MTN_KEY = "gre-vocab-mountain-v1", MSEL_KEY = "gre-vocab-mtn-sel-v1",
+      MDEN_KEY = "gre-vocab-mtn-density-v1";
 let mtn = JSON.parse(localStorage.getItem(MTN_KEY) || "{}");
 let mSel = new Set(JSON.parse(localStorage.getItem(MSEL_KEY) || "[]"));
-let mDeck = [], mIdx = 0, mVerdict = {}, mFlip = false, mDetail = false, mRunning = false;
+let mDen = +localStorage.getItem(MDEN_KEY) || 6;      // cards per screen: 1, 2, 4, 6
+let mDeck = [], mPage = 0, mVerdict = {}, mRunning = false, mShuffled = true;
+const mFlipped = new Set();                            // words currently showing their meaning
 
 function saveMtn(){
   localStorage.setItem(MTN_KEY, JSON.stringify(mtn));
@@ -783,8 +804,8 @@ function mountainSetup(){
       const f = pool.filter(c => !mtn[c.word]);
       if(f.length) pool = f;                    // fall back rather than start empty
     }
-    mDeck = shuffled(pool); mIdx = 0; mVerdict = {};
-    mFlip = false; mDetail = false; mRunning = true;
+    mDeck = mShuffled ? shuffled(pool) : pool.slice();
+    mPage = 0; mVerdict = {}; mFlipped.clear(); mRunning = true;
     renderMountain();
   };
 }
@@ -799,51 +820,105 @@ function mountainSVG(done, total){
     </svg><span class="mlbl">${done} / ${total}</span>`;
 }
 
-function renderMountain(){
-  if(!mRunning) return mountainSetup();
-  const c = mDeck[mIdx];
-  if(!c){ mRunning = false; return mountainSetup(); }
-  const done = Object.keys(mVerdict).length;
-  const v = mVerdict[c.word];
+/* A page of cards. One card per screen or six - the card itself is identical,
+   which is what lets the density control be a pure layout switch. Each card
+   carries its own cross / detail / tick, because at six-up there is no single
+   "current" card for a shared button row to act on. */
+const mPages = () => Math.max(1, Math.ceil(mDeck.length / mDen));
 
-  $("mountain").innerHTML = `<div class="climb">
-    <div class="mhead">${mountainSVG(done, mDeck.length)}
-      <button class="linkish" id="mQuit">end session</button></div>
-    <div class="deck ${v === true ? "know" : v === false ? "no" : ""}" id="mDeckEl">
-      <div class="flip ${mFlip ? "on" : ""}" id="mFlip">
-        <div class="face front">
-          <div class="mw">${esc(c.word)}</div>
-          ${c.pron ? `<div class="pron">${esc(c.pron)}</div>` : ""}
-          <div class="taphint">tap to reveal</div>
-        </div>
-        <div class="face back">
-          <div class="mw sm">${esc(c.word)} <span class="pos">${esc(c.pos||"")}</span></div>
-          <p class="gloss">${esc(c.one_line||"")}</p>
-          <button class="more" id="mMore">Detailed meaning and synonyms</button>
-          <div class="mdetail ${mDetail ? "on" : ""}" id="mDet">${mDetailHTML(c)}</div>
-        </div>
+function mCardHTML(c){
+  const st = mtn[c.word], cls = !st ? "" : st.k ? "k" : "n";
+  const showBack = mFlipped.has(c.word);
+  return `<div class="mcard ${cls} ${showBack ? "flipped" : ""}" data-w="${esc(c.word)}">
+    <div class="mfa">
+      <div class="mfi">
+        <div class="mside front"><span class="mcw">${esc(c.word)}</span>
+          ${mDen <= 2 && c.pron ? `<span class="pron">${esc(c.pron)}</span>` : ""}</div>
+        <div class="mside back"><span class="mgl">${esc(c.one_line||"")}</span></div>
       </div>
     </div>
-    <div class="mctl">
-      <button class="arrow" id="mPrev" title="Previous (left arrow)">&#8592;</button>
-      <button class="big no"  id="mNo"  title="Didn't know it">&#10007;</button>
-      <span class="mcount">${mIdx+1} / ${mDeck.length}</span>
-      <button class="big yes" id="mYes" title="Knew it">&#10003;</button>
-      <button class="arrow" id="mNext" title="Next (right arrow)">&#8594;</button>
+    <div class="mbtns">
+      <button class="mb x" data-act="no"  title="Didn't know it">&#10007;</button>
+      <button class="mb i" data-act="det" title="Detailed meaning and synonyms">&#9707;</button>
+      <button class="mb t" data-act="yes" title="Knew it">&#10003;</button>
     </div></div>`;
+}
 
-  $("mFlip").onclick = e => {
-    if(e.target.closest("#mMore") || e.target.closest("a")) return;
-    mFlip = !mFlip; renderMountain();
-  };
-  $("mMore").onclick = e => { e.stopPropagation(); mDetail = !mDetail;
-    $("mDet").classList.toggle("on", mDetail); };
+function renderMountain(){
+  if(!mRunning) return mountainSetup();
+  if(!mDeck.length){ mRunning = false; return mountainSetup(); }
+  if(mPage >= mPages()) mPage = mPages() - 1;
+  const start = mPage * mDen;
+  const page = mDeck.slice(start, start + mDen);
+  const done = Object.keys(mVerdict).length;
+  const gs = [...new Set(page.flatMap(c => c.groups || []))].sort((a,b) => a-b);
+
+  $("mountain").innerHTML = `<div class="climb">
+    <div class="mhead">
+      <button class="arrow sm" id="mPrev" title="Previous page">&#8249;</button>
+      ${mountainSVG(done, mDeck.length)}
+      <button class="arrow sm" id="mNext" title="Next page">&#8250;</button>
+      <button class="arrow sm ${mShuffled ? "on" : ""}" id="mShuf"
+              title="Shuffle the deck">&#8646;</button>
+      <select id="mDenSel" title="Cards per screen">
+        ${[1,2,4,6].map(n => `<option value="${n}" ${n===mDen?"selected":""}>${n}</option>`).join("")}
+      </select>
+      <button class="linkish" id="mQuit">end</button>
+    </div>
+    <div class="mgrid d${mDen}" id="mGrid">${page.map(mCardHTML).join("")}</div>
+    <div class="mfoot">
+      <span>${gs.length ? "Group " + gs.join(", ") : ""}</span>
+      <span class="sp"></span>
+      <span>${start+1}&ndash;${Math.min(start+mDen, mDeck.length)} of ${mDeck.length}</span>
+    </div>
+    <input type="range" id="mSlider" min="0" max="${mPages()-1}" value="${mPage}"
+           ${mPages() < 2 ? "disabled" : ""}>
+  </div>`;
+
+  $("mGrid").querySelectorAll(".mcard").forEach(el => {
+    const w = el.dataset.w;
+    el.querySelector(".mfa").onclick = () => {
+      mFlipped.has(w) ? mFlipped.delete(w) : mFlipped.add(w);
+      el.classList.toggle("flipped", mFlipped.has(w));
+    };
+    el.querySelectorAll(".mb").forEach(b => b.onclick = e => {
+      e.stopPropagation();
+      const a = b.dataset.act;
+      if(a === "det") return mShowDetail(w);
+      mJudge(w, a === "yes", el);
+    });
+  });
   $("mPrev").onclick = () => mStep(-1);
   $("mNext").onclick = () => mStep(1);
-  $("mYes").onclick  = () => mJudge(true);
-  $("mNo").onclick   = () => mJudge(false);
   $("mQuit").onclick = () => mFinish();
-  mWireSwipe($("mDeckEl"));
+  $("mShuf").onclick = () => {
+    mShuffled = !mShuffled;
+    mDeck = mShuffled ? shuffled(mDeck)
+                      : mDeck.slice().sort((a,b) =>
+                          ((a.groups||[])[0]||0) - ((b.groups||[])[0]||0) ||
+                          a.word.localeCompare(b.word));
+    mPage = 0; renderMountain();
+  };
+  $("mDenSel").onchange = e => {
+    const first = mPage * mDen;                       // keep the same word on screen
+    mDen = +e.target.value; localStorage.setItem(MDEN_KEY, mDen);
+    mPage = Math.floor(first / mDen); renderMountain();
+  };
+  $("mSlider").oninput = e => { mPage = +e.target.value; renderMountain(); };
+  mWireSwipe($("mGrid"));
+}
+
+/* The detailed card does not fit beside five others, so it opens over them. */
+function mShowDetail(word){
+  const c = CARDS.find(x => x.word === word);
+  if(!c) return;
+  $("msheet").querySelector(".mpanel").innerHTML =
+    `<div class="mdethead"><b>${esc(c.word)}</b> <span class="pos">${esc(c.pos||"")}</span>
+       ${c.pron ? `<span class="pron">${esc(c.pron)}</span>` : ""}
+       <span class="sp"></span><button class="linkish" id="mdClose">close</button></div>
+     <div class="mdetail on">${mDetailHTML(c)}</div>`;
+  $("msheet").classList.remove("hidden");
+  $("mdClose").onclick = () => $("msheet").classList.add("hidden");
 }
 
 function mDetailHTML(c){
@@ -867,24 +942,43 @@ function mDetailHTML(c){
   return h;
 }
 
-function mStep(d){
-  if(!mDeck.length) return;
-  mIdx = (mIdx + d + mDeck.length) % mDeck.length;
-  mFlip = false; mDetail = false; renderMountain();
+/* Repaint the progress bar in place; a full re-render would drop the flips. */
+function mClimb(){
+  const done = Object.keys(mVerdict).length;
+  const lbl = document.querySelector("#mountain .mlbl");
+  if(lbl) lbl.textContent = done + " / " + mDeck.length;
+  const fill = document.querySelector("#mountain svg.mt .mfill");
+  if(fill) fill.setAttribute("stroke-dasharray",
+    Math.min(1, done / (mDeck.length || 1)) + " 1");
 }
 
-function mJudge(ok){
-  const c = mDeck[mIdx];
-  if(!c) return;
-  mVerdict[c.word] = ok;
-  mtn[c.word] = {k: ok ? 1 : 0, t: Date.now()};
+function mStep(d){
+  const n = mPages();
+  if(n < 2) return;
+  mPage = (mPage + d + n) % n;
+  renderMountain();
+}
+
+/* Repaint the one card rather than the page: at six-up a full re-render would
+   throw away the other five flips mid-sweep. */
+function mJudge(word, ok, el){
+  // Three states, as in the real tool: knew, forgot, and blank. Tapping the
+  // verdict you already gave clears it rather than needing a third button.
+  const cur = mVerdict[word];
+  if(cur === ok){
+    delete mVerdict[word]; delete mtn[word]; saveMtn();
+    if(el) el.classList.remove("k","n");
+    mClimb();
+    return;
+  }
+  mVerdict[word] = ok;
+  mtn[word] = {k: ok ? 1 : 0, t: Date.now()};
   saveMtn();
-  renderMountain();                                    // paint the verdict colour
-  setTimeout(() => {
-    if(Object.keys(mVerdict).length >= mDeck.length) mFinish();
-    else if(mIdx >= mDeck.length - 1) mFinish();
-    else mStep(1);
-  }, 190);
+  if(el){ el.classList.remove("k","n"); el.classList.add(ok ? "k" : "n"); }
+  mClimb();
+  if(Object.keys(mVerdict).length >= mDeck.length) setTimeout(mFinish, 220);
+  // One card per screen behaves like a stack: judging moves you on.
+  else if(mDen === 1) setTimeout(() => mStep(1), 190);
 }
 
 /* Left = previous, right = next, as asked for. */
@@ -931,7 +1025,7 @@ function mFinish(){
   if($("mAgain")) $("mAgain").onclick = () => {
     $("msheet").classList.add("hidden");
     mDeck = shuffled(CARDS.filter(c => missed.includes(c.word)));
-    mIdx = 0; mVerdict = {}; mFlip = false; mDetail = false; mRunning = true;
+    mPage = 0; mVerdict = {}; mFlipped.clear(); mRunning = true;
     renderMountain();
   };
   $("msheet").querySelectorAll(".wrongs div[data-w]").forEach(el =>
@@ -2031,11 +2125,21 @@ go(location.hash.slice(1) || localStorage.getItem(ROUTE_KEY) || "/browse", true)
 document.addEventListener("keydown", e => {
   if(/input|select|textarea/i.test(e.target.tagName)) return;
   if(mode === "mountain" && mRunning){
-    if(e.key === " " || e.key === "Enter"){ e.preventDefault(); mFlip = !mFlip; renderMountain(); }
+    // At one-up there is an unambiguous current card, so the keyboard can drive
+    // it. Above that, flipping and judging need a target, so only paging works.
+    const solo = mDen === 1 ? mDeck[mPage] : null;
+    if(e.key === " " || e.key === "Enter"){
+      e.preventDefault();
+      if(solo){ mFlipped.has(solo.word) ? mFlipped.delete(solo.word) : mFlipped.add(solo.word);
+                renderMountain(); }
+    }
     if(e.key === "ArrowLeft")  mStep(-1);
     if(e.key === "ArrowRight") mStep(1);
-    if(e.key === "y" || e.key === "1") mJudge(true);
-    if(e.key === "n" || e.key === "0") mJudge(false);
+    if(solo && (e.key === "y" || e.key === "1"))
+      mJudge(solo.word, true, document.querySelector("#mountain .mcard"));
+    if(solo && (e.key === "n" || e.key === "0"))
+      mJudge(solo.word, false, document.querySelector("#mountain .mcard"));
+    if(e.key === "d" && solo) mShowDetail(solo.word);
     return;
   }
   if(mode!=="drill") return;

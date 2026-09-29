@@ -161,6 +161,7 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-prefs-v1` | `{theme, scale, voice, rate}` — appearance and reading voice |
 | `gre-vocab-mountain-v1` | `{ word: {k: 0\|1, t: ms} }` — Vocab Mountain known/unknown |
 | `gre-vocab-mtn-sel-v1` | array of GregMat list numbers selected in the Mountain |
+| `gre-vocab-mtn-density-v1` | cards per screen in the Mountain: 1, 2, 4 or 6 |
 
 ### `videos.json`
 
@@ -196,6 +197,10 @@ sweep ("did I know this word, yes or no") and a considered easy/medium/hard
 judgement are different claims; letting a fast pass overwrite the slow one would
 flatten months of marking in a single session. Nothing in Vocab Mountain writes
 `marks` or `srs`.
+
+A word can be in three states, not two: knew, forgot, and blank. Blank is the
+absence of a key, so tapping a verdict you already gave deletes it rather than
+needing a third button.
 
 It carries a timestamp because its merge rule differs from every other key: the
 **newest judgement per word wins**, since "I know this now" genuinely supersedes
