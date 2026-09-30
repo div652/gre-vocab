@@ -13,6 +13,8 @@ import android.webkit.WebResourceResponse;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.view.ViewGroup;
+import android.widget.FrameLayout;
 import android.widget.Toast;
 
 import androidx.activity.OnBackPressedCallback;
@@ -25,6 +27,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowCompat;
 import androidx.core.view.WindowInsetsCompat;
+import androidx.core.view.WindowInsetsControllerCompat;
 import androidx.webkit.WebViewAssetLoader;
 
 import com.google.android.gms.auth.api.identity.AuthorizationRequest;
@@ -85,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String DRIVE_APPDATA = "https://www.googleapis.com/auth/drive.appdata";
 
     private WebView web;
+    private FrameLayout root;
     private ValueCallback<Uri[]> filePicker;
     private static final int PICK_FILE = 1001;
     private ActivityResultLauncher<IntentSenderRequest> authLauncher;
@@ -97,14 +101,24 @@ public class MainActivity extends AppCompatActivity {
         // without this the header slides under the status bar.
         WindowCompat.setDecorFitsSystemWindows(getWindow(), false);
 
+        // The WebView goes inside a plain container, and the CONTAINER takes the
+        // insets. Padding the WebView directly left its own white background
+        // showing through behind the status bar - and on some devices the page
+        // drew under the bar entirely, putting the clock on top of the header.
+        // With a container, the padded strip is a view we control and can paint.
+        root = new FrameLayout(this);
         web = new WebView(this);
-        setContentView(web);
-        ViewCompat.setOnApplyWindowInsetsListener(web, (v, windowInsets) -> {
+        root.addView(web, new FrameLayout.LayoutParams(
+                ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
+        setContentView(root);
+
+        ViewCompat.setOnApplyWindowInsetsListener(root, (v, windowInsets) -> {
             Insets bars = windowInsets.getInsets(
                     WindowInsetsCompat.Type.systemBars() | WindowInsetsCompat.Type.displayCutout());
             v.setPadding(bars.left, bars.top, bars.right, bars.bottom);
             return WindowInsetsCompat.CONSUMED;
         });
+        ViewCompat.requestApplyInsets(root);
 
         WebSettings s = web.getSettings();
         s.setJavaScriptEnabled(true);
@@ -243,7 +257,40 @@ public class MainActivity extends AppCompatActivity {
         return e.getMessage() == null || e.getMessage().isEmpty() ? fallback : e.getMessage();
     }
 
+    /**
+     * Paint the system-bar strips to match the page, and flip the status-bar
+     * icons to whichever of black/white is legible against it.
+     *
+     * Without this the strip is whatever the window background happens to be.
+     * On a phone using a system-wide dark theme the clock and battery are drawn
+     * white, so against our light themes they vanished completely.
+     */
+    private void applyChrome(String hex, boolean dark) {
+        int c;
+        try {
+            c = android.graphics.Color.parseColor(hex);
+        } catch (Exception e) {
+            c = dark ? 0xFF11141A : 0xFFFFFFFF;
+        }
+        final int colour = c;
+        runOnUiThread(() -> {
+            root.setBackgroundColor(colour);
+            web.setBackgroundColor(colour);
+            WindowInsetsControllerCompat w =
+                    WindowCompat.getInsetsController(getWindow(), getWindow().getDecorView());
+            // "light bars" means light BACKGROUND, so dark icons.
+            w.setAppearanceLightStatusBars(!dark);
+            w.setAppearanceLightNavigationBars(!dark);
+        });
+    }
+
     private class Bridge {
+        /** The page reports its theme so the bars can match it. */
+        @JavascriptInterface
+        public void setChrome(String hex, boolean dark) {
+            applyChrome(hex, dark);
+        }
+
         /** Called by the page's "Sign in with Google" button. */
         @JavascriptInterface
         public void signIn() {

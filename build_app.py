@@ -40,7 +40,8 @@ KEEP = ("word", "pos", "pron", "pron_note", "means", "trap", "trick_line",
 
 TEMPLATE = r"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#ffffff">
 <title>GRE Vocab</title>
 <!-- Tab icon: a serif V, drawn as a path rather than <text> so it does not
      depend on the viewer having Georgia installed. Inline as a data URI so
@@ -313,8 +314,12 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 
 /* The grid. One card or six, same card markup - density is pure layout. */
 .mgrid{flex:1;display:grid;gap:.6rem;min-height:0;touch-action:pan-y}
-.mgrid.d1{grid-template-columns:1fr;grid-template-rows:1fr}
-.mgrid.d2{grid-template-columns:1fr;grid-template-rows:1fr 1fr}
+/* One-up is a card floating in space, not a slab filling the viewport - the
+   reference app leaves a lot of air around it and it reads much calmer. */
+.mgrid.d1{grid-template-columns:1fr;grid-template-rows:1fr;place-items:center}
+.mgrid.d1 .mcard{width:min(100%,27rem);height:min(100%,24rem)}
+.mgrid.d2{grid-template-columns:1fr;grid-template-rows:1fr 1fr;place-items:center}
+.mgrid.d2 .mcard{width:min(100%,27rem);height:100%}
 .mgrid.d4{grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr}
 .mgrid.d6{grid-template-columns:1fr 1fr;grid-template-rows:repeat(3,1fr)}
 .mcard{position:relative;display:flex;flex-direction:column;min-height:0;overflow:hidden;
@@ -338,13 +343,25 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mgrid.d2 .mcw{font-size:1.75rem}
 .mgrid.d2 .mgl{font-size:1rem}
 .mgrid.d4 .mcw{font-size:1.35rem}
-.mbtns{display:flex;flex:0 0 auto;border-top:1px solid var(--line);background:rgba(0,0,0,.03)}
-.mcard.k .mbtns,.mcard.n .mbtns{border-top-color:rgba(255,255,255,.28);background:rgba(0,0,0,.10)}
-.mb{flex:1;border:0;background:none;cursor:pointer;padding:.45rem 0;font-size:1.05rem;
-  line-height:1;color:var(--dim)}
+/* Four controls. A wide card takes them in a row; a narrow one wraps to 2x2,
+   which is what the six-up layout needs and what the reference app does. */
+.mbtns{display:grid;flex:0 0 auto;gap:.1rem;padding:.3rem .35rem .45rem;
+  grid-template-columns:repeat(4,1fr)}
+.mgrid.d4 .mbtns,.mgrid.d6 .mbtns{grid-template-columns:1fr 1fr}
+.mgrid.d4 .mb,.mgrid.d6 .mb{padding:.3rem 0}
+/* keep the pairing sane when wrapped: speak + book on top, verdicts beneath */
+.mgrid.d4 .mb.s,.mgrid.d6 .mb.s{order:1}
+.mgrid.d4 .mb.i,.mgrid.d6 .mb.i{order:2}
+.mgrid.d4 .mb.x,.mgrid.d6 .mb.x{order:3}
+.mgrid.d4 .mb.t,.mgrid.d6 .mb.t{order:4}
+.mb{border:0;background:none;cursor:pointer;padding:.45rem 0;font-size:1.1rem;
+  line-height:1;color:var(--dim);border-radius:10px;transition:transform .1s,background .12s}
 .mb.x{color:var(--hard)} .mb.t{color:var(--easy)}
-.mcard.k .mb,.mcard.n .mb{color:rgba(255,255,255,.92)}
-.mb:active{transform:scale(.88)}
+.mb.s,.mb.i{filter:grayscale(1) opacity(.65)}
+.mcard.k .mb,.mcard.n .mb{color:#fff}
+.mcard.k .mb.s,.mcard.k .mb.i,.mcard.n .mb.s,.mcard.n .mb.i{filter:grayscale(1) brightness(3)}
+.mb:hover{background:rgba(127,127,127,.14)}
+.mb:active{transform:scale(.86)}
 
 .mfoot{display:flex;align-items:center;font-size:.72rem;font-weight:600;color:var(--dim);
   flex:0 0 auto;gap:.5rem}
@@ -353,6 +370,17 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 #mDenSel{padding:.15rem .3rem;font-size:.78rem}
 .arrow.sm{width:32px;height:32px;font-size:1rem;flex:0 0 auto}
 .arrow.sm.on{color:var(--accent);border-color:var(--accent);background:var(--accent-soft)}
+.resume{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:.2rem 0 1rem;
+  padding:.7rem .8rem;border:1px solid var(--accent);background:var(--accent-soft);
+  border-radius:12px}
+.resume > div{flex:1;min-width:11rem}
+.runs{border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.runs div{display:flex;gap:.6rem;align-items:baseline;padding:.5rem .7rem;
+  border-bottom:1px solid var(--line);cursor:pointer}
+.runs div:last-child{border-bottom:0}
+.runs div:hover{background:var(--panel2)}
+.runs b{font-family:var(--read);font-size:1rem;min-width:3.6rem}
+.runs span{font-size:.75rem;color:var(--dim);line-height:1.4}
 .mdethead{display:flex;align-items:center;gap:.4rem;margin-bottom:.6rem}
 .mdethead b{font-family:var(--read);font-size:1.3rem}
 .mdethead .sp{flex:1}
@@ -390,12 +418,22 @@ body.mtn-mode #shuffle,
 body.mtn-mode .stats{display:none}
 
 @media (max-width:640px){
-  header{padding:.5rem .7rem;gap:.4rem}
-  header h1{font-size:1rem}
-  .tabs{order:2;flex:1 0 100%;overflow-x:auto;scrollbar-width:none}
+  /* The header was designed for a desktop row and wrapped into four rows on a
+     phone, overlapping itself. Two rows: identity and tabs, then the filters. */
+  header{padding:.45rem .6rem;gap:.35rem}
+  header h1{font-size:.95rem;flex:0 0 auto}
+  .tabs{order:2;flex:1 0 100%;overflow-x:auto;scrollbar-width:none;gap:.15rem}
   .tabs::-webkit-scrollbar{display:none}
-  .tab{white-space:nowrap}
+  .tab{white-space:nowrap;padding:.3rem .6rem;font-size:.82rem}
+  header #search{order:3;flex:1 1 100%;min-width:0;font-size:.85rem}
+  header #group,header #diff{order:4;flex:1 1 40%;min-width:0;font-size:.8rem}
+  header #shuffle,header #openSettings{order:5;flex:0 0 auto}
+  .stats{order:6;flex:1 1 100%;font-size:.72rem;justify-content:flex-start}
+  .fontctl{order:5;flex:0 0 auto;transform:scale(.88);transform-origin:right center}
   body.mtn-mode .fontctl{display:none}
+  /* With the filters hidden, the gear was left alone on a third row. */
+  body.mtn-mode header h1{flex:1}
+  body.mtn-mode #openSettings{order:1;margin-left:auto}
   .climb{height:calc(100dvh - var(--hh,180px))}
   .mw{font-size:1.9rem}
   .deck .face{padding:1rem;border-radius:16px}
@@ -769,12 +807,44 @@ function renderStats(){
    ========================================================================== */
 
 const MTN_KEY = "gre-vocab-mountain-v1", MSEL_KEY = "gre-vocab-mtn-sel-v1",
-      MDEN_KEY = "gre-vocab-mtn-density-v1";
+      MDEN_KEY = "gre-vocab-mtn-density-v1", MRUN_KEY = "gre-vocab-mtn-runs-v1",
+      MSESS_KEY = "gre-vocab-mtn-session-v1";
 let mtn = JSON.parse(localStorage.getItem(MTN_KEY) || "{}");
 let mSel = new Set(JSON.parse(localStorage.getItem(MSEL_KEY) || "[]"));
 let mDen = +localStorage.getItem(MDEN_KEY) || 6;      // cards per screen: 1, 2, 4, 6
+let mRuns = JSON.parse(localStorage.getItem(MRUN_KEY) || "[]");
 let mDeck = [], mPage = 0, mVerdict = {}, mRunning = false, mShuffled = true;
 const mFlipped = new Set();                            // words currently showing their meaning
+
+/* A run in progress is written on every verdict and every page turn, so
+   backing out of the app - or out of the tab - loses nothing. Leaving the
+   mode is a pause, not an abandon. */
+function mSaveSession(){
+  if(!mRunning){ localStorage.removeItem(MSESS_KEY); return; }
+  localStorage.setItem(MSESS_KEY, JSON.stringify({
+    words: mDeck.map(c => c.word), page: mPage, verdict: mVerdict,
+    den: mDen, shuf: mShuffled, groups: [...mSel], t: Date.now(),
+  }));
+}
+function mLoadSession(){
+  let s;
+  try{ s = JSON.parse(localStorage.getItem(MSESS_KEY) || "null"); }catch(e){ return null; }
+  if(!s || !s.words || !s.words.length) return null;
+  const by = {};
+  CARDS.forEach(c => { by[c.word] = c; });
+  const deck = s.words.map(w => by[w]).filter(Boolean);
+  return deck.length ? {...s, deck} : null;
+}
+
+/* Finished runs are kept. Losing a score to a stray back press is exactly the
+   failure this is here to prevent, so the record is written before the summary
+   is shown, not when it is dismissed. */
+function mSaveRun(run){
+  mRuns.unshift(run);
+  mRuns = mRuns.slice(0, 60);
+  localStorage.setItem(MRUN_KEY, JSON.stringify(mRuns));
+  if(typeof queueSync === "function") queueSync();
+}
 
 function saveMtn(){
   localStorage.setItem(MTN_KEY, JSON.stringify(mtn));
@@ -796,8 +866,17 @@ function mountainSetup(){
   }).join("");
   const picked = wordsInGroups(mSel);
   const fresh = picked.filter(c => !mtn[c.word]).length;
+  const held = mLoadSession();
+  const runs = mRuns.slice(0, 8);
   $("mountain").innerHTML = `<div class="q"><div class="setup">
       <h3>Vocab Mountain</h3>
+      ${held ? `<div class="resume">
+          <div><strong>Session in progress</strong><br>
+            <span class="hint">${Object.keys(held.verdict||{}).length} of ${held.deck.length} judged
+              &middot; groups ${(held.groups||[]).join(", ") || "-"}</span></div>
+          <button class="btn on" id="mResume">Resume</button>
+          <button class="btn" id="mDrop">Discard</button>
+        </div>` : ""}
       <p class="hint">Pick the lists to climb. One word at a time: reveal it, then say
          whether you knew it. Nothing here touches your easy/medium/hard marks.</p>
       <div class="gpick">${rows}</div>
@@ -813,7 +892,25 @@ function mountainSetup(){
       <p class="hint" id="mCount">${picked.length} words selected · ${fresh} not yet judged</p>
       <div style="margin-top:14px"><button id="mStart" class="on"
         ${picked.length ? "" : "disabled"}>Start climbing</button></div>
+      ${runs.length ? `<hr class="sep"><div class="seclabel">Past runs</div>
+        <div class="runs">${runs.map((r, i) => `<div data-r="${i}">
+            <b>${r.knew}/${r.total}</b>
+            <span>${r.missed.length} missed &middot; groups ${(r.groups||[]).join(", ") || "-"}
+              &middot; ${new Date(r.t).toLocaleString([], {dateStyle:"medium", timeStyle:"short"})}
+              ${r.done ? "" : " &middot; ended early"}</span></div>`).join("")}</div>` : ""}
     </div></div>`;
+
+  if(held){
+    $("mResume").onclick = () => {
+      mDeck = held.deck; mPage = held.page || 0; mVerdict = held.verdict || {};
+      mDen = held.den || mDen; mShuffled = held.shuf !== false;
+      mSel = new Set(held.groups || [...mSel]);
+      mFlipped.clear(); mRunning = true; renderMountain();
+    };
+    $("mDrop").onclick = () => { localStorage.removeItem(MSESS_KEY); renderMountain(); };
+  }
+  $("mountain").querySelectorAll(".runs div[data-r]").forEach(el =>
+    el.onclick = () => mShowRun(mRuns[+el.dataset.r]));
 
   const refresh = () => {
     const p = wordsInGroups(mSel), f = p.filter(c => !mtn[c.word]).length;
@@ -866,21 +963,25 @@ function mountainSVG(done, total){
    "current" card for a shared button row to act on. */
 const mPages = () => Math.max(1, Math.ceil(mDeck.length / mDen));
 
+/* The card. Word on the front, concise meaning on the back, and the back keeps
+   whatever colour the verdict gave it. The buttons sit inside the card and do
+   not flip - four of them, wrapping to 2x2 once the card is too narrow for a
+   row, which is what the density classes switch. */
 function mCardHTML(c){
   const st = mtn[c.word], cls = !st ? "" : st.k ? "k" : "n";
   const showBack = mFlipped.has(c.word);
   return `<div class="mcard ${cls} ${showBack ? "flipped" : ""}" data-w="${esc(c.word)}">
     <div class="mfa">
       <div class="mfi">
-        <div class="mside front"><span class="mcw">${esc(c.word)}</span>
-          ${mDen <= 2 && c.pron ? `<span class="pron">${esc(c.pron)}</span>` : ""}</div>
+        <div class="mside front"><span class="mcw">${esc(c.word)}</span></div>
         <div class="mside back"><span class="mgl">${esc(c.one_line||"")}</span></div>
       </div>
     </div>
     <div class="mbtns">
-      <button class="mb x" data-act="no"  title="Didn't know it">&#10007;</button>
-      <button class="mb i" data-act="det" title="Detailed meaning and synonyms">&#9707;</button>
-      <button class="mb t" data-act="yes" title="Knew it">&#10003;</button>
+      <button class="mb x" data-act="no"  aria-label="Didn't know it">&#10007;</button>
+      <button class="mb s" data-act="say" aria-label="Say the word">&#128266;</button>
+      <button class="mb i" data-act="det" aria-label="Detailed meaning and synonyms">&#128214;</button>
+      <button class="mb t" data-act="yes" aria-label="Knew it">&#10003;</button>
     </div></div>`;
 }
 
@@ -925,6 +1026,7 @@ function renderMountain(){
       e.stopPropagation();
       const a = b.dataset.act;
       if(a === "det") return mShowDetail(w);
+      if(a === "say") return speakWord(w);
       mJudge(w, a === "yes", el);
     });
   });
@@ -996,6 +1098,7 @@ function mStep(d){
   const n = mPages();
   if(n < 2) return;
   mPage = (mPage + d + n) % n;
+  mSaveSession();          // where you are is part of the session, not just what you judged
   renderMountain();
 }
 
@@ -1016,12 +1119,15 @@ function mJudge(word, ok, el){
   saveMtn();
   if(el){ el.classList.remove("k","n"); el.classList.add(ok ? "k" : "n"); }
   mClimb();
-  if(Object.keys(mVerdict).length >= mDeck.length) setTimeout(mFinish, 220);
-  // One card per screen behaves like a stack: judging moves you on.
-  else if(mDen === 1) setTimeout(() => mStep(1), 190);
+  mSaveSession();
+  // Judging never advances. Moving on is the swipe's job, so a mis-tap stays
+  // fixable and the colour you just set stays on screen to be seen.
+  if(Object.keys(mVerdict).length >= mDeck.length) setTimeout(mFinish, 260);
 }
 
-/* Left = previous, right = next, as asked for. */
+/* Swipe left goes forward, swipe right goes back - the page follows the finger,
+   which is the convention everywhere else. (An earlier build had this inverted
+   because the first spec said so; it read wrong in the hand.) */
 function mWireSwipe(el){
   let x0 = null, y0 = null;
   el.addEventListener("touchstart", e => {
@@ -1031,7 +1137,7 @@ function mWireSwipe(el){
     if(x0 === null) return;
     const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
     x0 = null;
-    if(Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy)) mStep(dx < 0 ? -1 : 1);
+    if(Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy)) mStep(dx < 0 ? 1 : -1);
   }, {passive:true});
 }
 
@@ -1039,14 +1145,30 @@ function mWireSwipe(el){
 function mFinish(){
   const seen = Object.entries(mVerdict);
   const missed = seen.filter(x => !x[1]).map(x => x[0]);
-  const knew = seen.length - missed.length;
-  const full = seen.length >= mDeck.length && mDeck.length > 0;
+  const run = {
+    t: Date.now(), groups: [...mSel].sort((a,b) => a-b),
+    total: mDeck.length, seen: seen.length, knew: seen.length - missed.length,
+    missed, done: seen.length >= mDeck.length && mDeck.length > 0,
+  };
+  mSaveRun(run);                      // recorded BEFORE the sheet is rendered
+  mRunning = false;
+  localStorage.removeItem(MSESS_KEY);
+  mShowRun(run);
+}
+
+/* One renderer for the summary, whether it has just happened or is being
+   re-opened from the history weeks later. */
+function mShowRun(run){
+  if(!run) return;
+  const missed = run.missed || [];
   $("msheet").querySelector(".mpanel").innerHTML = `
-    <h3>${full ? "Summit" : "Stopped part-way"}</h3>
+    <h3>${run.done ? "Summit" : "Stopped part-way"}
+      <span class="hint" style="font-family:var(--ui);font-size:.72rem">
+        ${new Date(run.t).toLocaleString([], {dateStyle:"medium", timeStyle:"short"})}</span></h3>
     <div class="res">
-      <div class="stat"><b>${knew}</b><span>knew</span></div>
+      <div class="stat"><b>${run.knew}</b><span>knew</span></div>
       <div class="stat"><b>${missed.length}</b><span>didn't</span></div>
-      <div class="stat"><b>${Math.round(100*seen.length/(mDeck.length||1))}%</b><span>of the climb</span></div>
+      <div class="stat"><b>${Math.round(100*(run.seen||0)/(run.total||1))}%</b><span>of the climb</span></div>
     </div>
     <h4 class="mh4">Words to go back to</h4>
     <div class="wrongs">${missed.length
@@ -1054,6 +1176,8 @@ function mFinish(){
           return `<div data-w="${esc(w)}"><b>${esc(w)}</b><span>${esc(c.one_line||"")}</span></div>`;
         }).join("")
       : `<div><span>Nothing missed.</span></div>`}</div>
+    <p class="hint" style="margin:.5rem 0 0">Kept under <strong>Past runs</strong> on the
+       start screen &mdash; this list is not lost when you leave.</p>
     <div class="rowbtns" style="margin-top:14px">
       ${missed.length ? `<button class="btn on" id="mAgain">Drill those ${missed.length} again</button>` : ""}
       <button class="btn" id="mDone">Done</button>
@@ -1066,7 +1190,7 @@ function mFinish(){
     $("msheet").classList.add("hidden");
     mDeck = shuffled(CARDS.filter(c => missed.includes(c.word)));
     mPage = 0; mVerdict = {}; mFlipped.clear(); mRunning = true;
-    renderMountain();
+    mSaveSession(); renderMountain();
   };
   $("msheet").querySelectorAll(".wrongs div[data-w]").forEach(el =>
     el.onclick = () => { $("msheet").classList.add("hidden"); mRunning = false;
@@ -1777,10 +1901,30 @@ let prefs = Object.assign({theme:"aqua", scale:1, voice:null, rate:1},
                           JSON.parse(localStorage.getItem(PREF) || "{}"));
 const savePrefs = () => localStorage.setItem(PREF, JSON.stringify(prefs));
 
+const DARK_THEMES = ["midnight", "forest"];
+
 function applyTheme(t){
   prefs.theme = t; savePrefs();
   document.documentElement.dataset.theme = t;
   document.querySelectorAll(".sw").forEach(b => b.classList.toggle("on", b.dataset.t === t));
+  syncChrome();
+}
+
+/* Tell the Android shell what colour the page's chrome is, so the status and
+   navigation bars can match it and pick legible icons. On a phone set to a
+   dark system theme the clock is drawn white, which disappeared entirely
+   against the light themes. Harmless no-op in a browser. */
+function syncChrome(){
+  let panel = getComputedStyle(document.documentElement)
+                .getPropertyValue("--panel").trim() || "#ffffff";
+  // Aqua's panel is "#fff"; Android's Color.parseColor rejects 3-digit hex.
+  if(/^#[0-9a-f]{3}$/i.test(panel)) panel = "#" + panel.slice(1).split("").map(x => x + x).join("");
+  const dark = DARK_THEMES.includes(prefs.theme);
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if(meta) meta.setAttribute("content", panel);
+  if(window.AndroidBridge && AndroidBridge.setChrome){
+    try{ AndroidBridge.setChrome(panel, dark); }catch(e){}
+  }
 }
 function applyScale(v){
   prefs.scale = Math.min(1.6, Math.max(.8, +v.toFixed(2))); savePrefs();
@@ -1853,6 +1997,14 @@ function sStep(){
 function speak(segs){
   if(!window.speechSynthesis){ alert("This browser has no speech support."); return; }
   stopSpeech(); sQueue = segs.filter(x => x && x.text); sIdx = 0; sPlaying = true; sStep();
+}
+
+/* Just the word, for the Mountain's speaker button - reading the whole card
+   there would talk over the point of the exercise. */
+function speakWord(w){
+  const c = CARDS.find(x => x.word === w);
+  if(!c) return;
+  speak([{text: c.word, rate: .82, pitch: 1.02, pause: 0}]);
 }
 
 /* the whole card, in reading order */

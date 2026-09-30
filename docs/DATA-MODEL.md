@@ -162,6 +162,8 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-mountain-v1` | `{ word: {k: 0\|1, t: ms} }` — Vocab Mountain known/unknown |
 | `gre-vocab-mtn-sel-v1` | array of GregMat list numbers selected in the Mountain |
 | `gre-vocab-mtn-density-v1` | cards per screen in the Mountain: 1, 2, 4 or 6 |
+| `gre-vocab-mtn-session-v1` | the run in progress, so leaving the mode is a pause |
+| `gre-vocab-mtn-runs-v1` | last 60 finished runs: score and the words missed |
 
 ### `videos.json`
 
@@ -211,6 +213,26 @@ The Drive payload is now `v: 2` — `{marks, srs, seenq, mountain, updatedAt, v}
 A client old enough to write `v: 1` would drop the `mountain` key on its next
 push. That is tolerated rather than solved: the data is one session's worth of
 recognition and regenerates, unlike marks.
+
+### Mountain sessions and runs
+
+Two separate records, because they answer different questions.
+
+`gre-vocab-mtn-session-v1` is the run **in progress** — the deck as a word list,
+the page, the verdicts so far, the density. It is rewritten on every verdict and
+every page turn, so closing the app or backing out of the mode loses nothing;
+re-entering offers Resume. Finishing a run deletes it.
+
+`gre-vocab-mtn-runs-v1` is the last 60 **finished** runs:
+
+```json
+{"t": 1790792733751, "groups": [3, 6], "total": 60, "seen": 60,
+ "knew": 48, "missed": ["arcane", "contend"], "done": true}
+```
+
+Written **before** the summary sheet is rendered, not when it is dismissed —
+losing a score to a stray back press is the specific failure this exists to
+prevent. The start screen lists them and any one can be reopened.
 
 ### Quiz scopes
 

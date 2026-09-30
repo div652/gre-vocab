@@ -366,6 +366,33 @@ Two things follow from the grid that did not apply to a single card:
 Three states, not two — knew, forgot, blank — matching the real tool's G / R / W
 keys. Blank is the absence of a key, so re-tapping a verdict clears it.
 
+### D-47 — A verdict never advances the card
+Tapping the tick used to move to the next card at one-up. Removed on the owner's
+instruction: advancing is the swipe's job. A mis-tap stays fixable, and the
+colour you just set stays on screen long enough to register.
+
+Swipe direction was also inverted. The first spec said "swipe left for previous",
+which was built literally and read wrong in the hand; it is now the convention —
+dragging right-to-left goes forward.
+
+### D-48 — Runs are recorded before the summary is shown
+The owner lost a finished score to a stray back press. A run is now written to
+`gre-vocab-mtn-runs-v1` inside `mFinish()`, **before** the sheet renders, and the
+start screen keeps the last 60 with their missed-word lists. The in-progress run
+is a separate key, saved on every verdict and page turn, so leaving the mode is
+a pause rather than an abandon.
+
+### D-49 — The Android shell takes its bar colours from the page
+The status bar showed the WebView's own white background, and on a phone set to
+a system-wide dark theme the clock and battery are drawn white — so they
+vanished. The page now reports its `--panel` colour and whether the theme is
+dark through the JS bridge; the shell paints the inset strips to match and flips
+the bar icons to whichever of black/white is legible.
+
+The WebView also moved inside a container that takes the insets, because padding
+the WebView directly still left its own background behind the bar, and on some
+devices the page drew under the bar entirely.
+
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to
 Browse and Drill. Measured on a 375px viewport they made the header **452px of
