@@ -274,6 +274,16 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 
 /* The grid. One card or six, same card markup - density is pure layout. */
 .mgrid{flex:1;display:grid;gap:.6rem;min-height:0;touch-action:pan-y}
+/* Paging slides the new page in from the side you swiped towards, so the
+   motion agrees with the finger instead of the page just blinking. */
+@keyframes mInRight{from{transform:translateX(22%);opacity:0}to{transform:none;opacity:1}}
+@keyframes mInLeft{from{transform:translateX(-22%);opacity:0}to{transform:none;opacity:1}}
+.mgrid.in-right{animation:mInRight .24s cubic-bezier(.22,.7,.28,1) both}
+.mgrid.in-left{animation:mInLeft .24s cubic-bezier(.22,.7,.28,1) both}
+@media (prefers-reduced-motion:reduce){
+  .mgrid.in-right,.mgrid.in-left{animation:none}
+  .deck .flip,.mfi{transition:none}
+}
 /* One-up is a card floating in space, not a slab filling the viewport - the
    reference app leaves a lot of air around it and it reads much calmer. */
 .mgrid.d1{grid-template-columns:1fr;grid-template-rows:1fr;place-items:center}
@@ -327,8 +337,9 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mb{border:0;background:none;cursor:pointer;padding:.4rem 0;line-height:0;
   color:var(--dim);border-radius:10px;display:grid;place-items:center;
   transition:transform .1s,background .12s}
-.mb svg{width:24px;height:24px;display:block}
-.mgrid.d4 .mb svg,.mgrid.d6 .mb svg{width:21px;height:21px}
+.mb svg{width:34px;height:34px;display:block}
+.mgrid.d4 .mb svg{width:30px;height:30px}
+.mgrid.d6 .mb svg{width:27px;height:27px}
 .mb.x{color:var(--hard)} .mb.t{color:var(--easy)}
 .mcard.k .mb,.mcard.n .mb{color:#fff}
 .mb:hover{background:rgba(127,127,127,.14)}
@@ -391,16 +402,25 @@ body.mtn-mode .stats{display:none}
 @media (max-width:640px){
   /* The header was designed for a desktop row and wrapped into four rows on a
      phone, overlapping itself. Two rows: identity and tabs, then the filters. */
-  header{padding:.45rem .6rem;gap:.35rem}
-  header h1{font-size:.95rem;flex:0 0 auto}
-  .tabs{order:2;flex:1 0 100%;overflow-x:auto;scrollbar-width:none;gap:.15rem}
+  /* Phone-sized, not shrunken. An earlier pass squeezed everything to stop the
+     header wrapping into four overlapping rows; it stopped the overlap and
+     made the whole thing too small to hit or read. Two rows, full size. */
+  header{padding:.6rem .7rem;gap:.45rem}
+  header h1{font-size:1.25rem;flex:0 0 auto}
+  .tabs{order:2;flex:1 0 100%;overflow-x:auto;scrollbar-width:none;gap:.08rem;padding:.16rem}
   .tabs::-webkit-scrollbar{display:none}
-  .tab{white-space:nowrap;padding:.3rem .6rem;font-size:.82rem}
-  header #search{order:3;flex:1 1 100%;min-width:0;font-size:.85rem}
-  header #group,header #diff{order:4;flex:1 1 40%;min-width:0;font-size:.8rem}
+  /* Five tabs at a readable size only just fit 375px; the strip still scrolls
+     if the text scales up, but at 100% none of them is hidden. */
+  .tab{white-space:nowrap;padding:.5rem .58rem;font-size:.98rem}
+  header #search{order:3;flex:1 1 100%;min-width:0;font-size:1rem;padding:.5rem .7rem}
+  header #group,header #diff{order:4;flex:1 1 40%;min-width:0;font-size:.92rem;padding:.45rem .5rem}
   header #shuffle,header #openSettings{order:5;flex:0 0 auto}
-  .stats{order:6;flex:1 1 100%;font-size:.72rem;justify-content:flex-start}
-  .fontctl{order:5;flex:0 0 auto;transform:scale(.88);transform-origin:right center}
+  .icon{width:2.7rem;height:2.7rem;font-size:1.25rem;border-radius:11px}
+  .stats{order:6;flex:1 1 100%;font-size:.85rem;justify-content:flex-start}
+  .fontctl{order:5;flex:0 0 auto}
+  .fontctl button{padding:.35rem .5rem}
+  .fontctl .sm{font-size:.85rem}.fontctl .lg{font-size:1.25rem}
+  .fontctl output{font-size:.82rem}
   body.mtn-mode .fontctl{display:none}
   /* With the filters hidden, the gear was left alone on a third row. */
   body.mtn-mode header h1{flex:1}
@@ -1101,6 +1121,8 @@ function mStep(d){
   mPage = (mPage + d + n) % n;
   mSaveSession();          // where you are is part of the session, not just what you judged
   renderMountain();
+  const g = $("mGrid");
+  if(g) g.classList.add(d > 0 ? "in-right" : "in-left");
 }
 
 /* Repaint the one card rather than the page: at six-up a full re-render would
