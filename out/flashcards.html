@@ -272,8 +272,17 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
   stroke-linecap:round;transition:stroke-dasharray .35s ease}
 .mlbl{font-size:.72rem;font-weight:700;color:var(--dim);white-space:nowrap}
 
+/* A three-page track inside a clipping viewport: previous, current, next. The
+   track is what the finger drags, so the outgoing and incoming pages move
+   together and mid-gesture states are real positions rather than a canned
+   animation played after the fact. */
+.mviewport{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:pan-y}
+.mtrack{display:flex;height:100%;transform:translateX(-100%);will-change:transform}
+.mtrack.snap{transition:transform .24s cubic-bezier(.22,.7,.28,1)}
+.mtrack > .mgrid{flex:0 0 100%;width:100%;height:100%}
+
 /* The grid. One card or six, same card markup - density is pure layout. */
-.mgrid{flex:1;display:grid;gap:.6rem;min-height:0;touch-action:pan-y}
+.mgrid{display:grid;gap:.6rem;min-height:0}
 /* Paging slides the new page in from the side you swiped towards, so the
    motion agrees with the finger instead of the page just blinking. */
 @keyframes mInRight{from{transform:translateX(22%);opacity:0}to{transform:none;opacity:1}}
@@ -984,6 +993,16 @@ function denIcon(n){
    "current" card for a shared button row to act on. */
 const mPages = () => Math.max(1, Math.ceil(mDeck.length / mDen));
 
+/* The page either side is rendered too, so a drag has something real to pull
+   into view. They are decoration until they become current - only the middle
+   grid gets its handlers wired. */
+function mPageCards(i){
+  const n = mPages();
+  if(n < 2) return [];
+  const p = (i + n) % n;
+  return mDeck.slice(p * mDen, p * mDen + mDen);
+}
+
 /* The card. Word on the front, concise meaning on the back, and the back keeps
    whatever colour the verdict gave it. The buttons sit inside the card and do
    not flip - four of them, wrapping to 2x2 once the card is too narrow for a
@@ -1026,7 +1045,11 @@ function renderMountain(){
               aria-label="Cards per screen">${denIcon(mDen)}</button>
       <button class="linkish" id="mQuit">end</button>
     </div>
-    <div class="mgrid d${mDen}" id="mGrid">${page.map(mCardHTML).join("")}</div>
+    <div class="mviewport" id="mView"><div class="mtrack" id="mTrack">
+      <div class="mgrid d${mDen}">${mPageCards(mPage - 1).map(mCardHTML).join("")}</div>
+      <div class="mgrid d${mDen}" id="mGrid">${page.map(mCardHTML).join("")}</div>
+      <div class="mgrid d${mDen}">${mPageCards(mPage + 1).map(mCardHTML).join("")}</div>
+    </div></div>
     <div class="mfoot">
       <span>${gs.length ? "Group " + gs.join(", ") : ""}</span>
       <span class="sp"></span>
@@ -1039,6 +1062,7 @@ function renderMountain(){
   $("mGrid").querySelectorAll(".mcard").forEach(el => {
     const w = el.dataset.w;
     el.querySelector(".mfa").onclick = () => {
+      if(mDragged) return;                 // a drag that ended on a card is not a tap
       mFlipped.has(w) ? mFlipped.delete(w) : mFlipped.add(w);
       el.classList.toggle("flipped", mFlipped.has(w));
     };
@@ -1068,7 +1092,7 @@ function renderMountain(){
     mPage = Math.floor(first / mDen); mSaveSession(); renderMountain();
   };
   $("mSlider").oninput = e => { mPage = +e.target.value; renderMountain(); };
-  mWireSwipe($("mGrid"));
+  mWireSwipe($("mView"));
 }
 
 /* The detailed card does not fit beside five others, so it opens over them. */
@@ -1115,14 +1139,17 @@ function mClimb(){
     Math.min(1, done / (mDeck.length || 1)) + " 1");
 }
 
-function mStep(d){
+/* animate=false when a drag has already moved the track there by hand. */
+function mStep(d, animate){
   const n = mPages();
   if(n < 2) return;
   mPage = (mPage + d + n) % n;
   mSaveSession();          // where you are is part of the session, not just what you judged
   renderMountain();
-  const g = $("mGrid");
-  if(g) g.classList.add(d > 0 ? "in-right" : "in-left");
+  if(animate !== false){
+    const g = $("mGrid");
+    if(g) g.classList.add(d > 0 ? "in-right" : "in-left");
+  }
 }
 
 /* Repaint the one card rather than the page: at six-up a full re-render would
@@ -1148,20 +1175,57 @@ function mJudge(word, ok, el){
   if(Object.keys(mVerdict).length >= mDeck.length) setTimeout(mFinish, 260);
 }
 
-/* Swipe left goes forward, swipe right goes back - the page follows the finger,
-   which is the convention everywhere else. (An earlier build had this inverted
-   because the first spec said so; it read wrong in the hand.) */
-function mWireSwipe(el){
-  let x0 = null, y0 = null;
-  el.addEventListener("touchstart", e => {
+/* The track follows the finger. Dragging left pulls the next page in from the
+   right and pushes the current one out, live, at whatever fraction of the
+   gesture you have made; releasing past a threshold completes the move and
+   releasing short of it springs back. An earlier version only played a
+   canned slide after the gesture ended, which did not feel connected. */
+let mDragged = false;
+
+function mWireSwipe(view){
+  const track = $("mTrack");
+  if(!view || !track || mPages() < 2) return;
+  let x0 = null, y0 = null, dragging = false, w = view.clientWidth || 1;
+
+  const start = e => {
     x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
-  }, {passive:true});
-  el.addEventListener("touchend", e => {
+    dragging = false; mDragged = false;
+    w = view.clientWidth || 1;
+    track.classList.remove("snap");
+  };
+  const move = e => {
     if(x0 === null) return;
-    const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
+    const dx = e.touches[0].clientX - x0, dy = e.touches[0].clientY - y0;
+    if(!dragging){
+      if(Math.abs(dx) < 8) return;
+      if(Math.abs(dx) < Math.abs(dy)){ x0 = null; return; }   // let the page scroll
+      dragging = true; mDragged = true;
+    }
+    track.style.transform = `translateX(calc(-100% + ${dx}px))`;
+  };
+  const end = e => {
+    if(x0 === null){ dragging = false; return; }
+    const dx = (e.changedTouches && e.changedTouches[0] ? e.changedTouches[0].clientX : x0) - x0;
     x0 = null;
-    if(Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy)) mStep(dx < 0 ? 1 : -1);
-  }, {passive:true});
+    track.classList.add("snap");
+    const far = Math.abs(dx) > Math.min(95, w * 0.2);
+    if(dragging && far){
+      const d = dx < 0 ? 1 : -1;
+      track.style.transform = `translateX(${d > 0 ? "-200%" : "0%"})`;
+      // Re-render once the slide has landed; the fresh track sits back at -100%
+      // showing the new page, so there is nothing to see in the swap.
+      setTimeout(() => mStep(d, false), 240);
+    } else {
+      track.style.transform = "";                             // spring back
+    }
+    dragging = false;
+    setTimeout(() => { mDragged = false; }, 60);              // let the tap be ignored
+  };
+
+  view.addEventListener("touchstart", start, {passive:true});
+  view.addEventListener("touchmove", move, {passive:true});
+  view.addEventListener("touchend", end, {passive:true});
+  view.addEventListener("touchcancel", end, {passive:true});
 }
 
 /* ---- end of session: the point of the whole thing is this list ---- */
