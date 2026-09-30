@@ -305,7 +305,7 @@ code{background:var(--panel2);padding:.05rem .3rem;border-radius:5px;font-size:.
 
 .climb{display:flex;flex-direction:column;gap:.8rem;
   height:calc(100dvh - var(--hh,132px));min-height:26rem}
-.mhead{position:relative;display:flex;align-items:center;gap:.6rem}
+.mhead{position:relative;display:flex;align-items:center;gap:.5rem;flex:0 0 auto}
 svg.mt{flex:1;height:38px;display:block}
 svg.mt .mbase{fill:none;stroke:var(--line);stroke-width:2.5;stroke-linejoin:round}
 svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:round;
@@ -322,27 +322,37 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mgrid.d2 .mcard{width:min(100%,27rem);height:100%}
 .mgrid.d4{grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr}
 .mgrid.d6{grid-template-columns:1fr 1fr;grid-template-rows:repeat(3,1fr)}
+/* No border. The reference cards are a fill against the page, nothing more;
+   a hairline outline on every tile made the grid read as a table. */
 .mcard{position:relative;display:flex;flex-direction:column;min-height:0;overflow:hidden;
-  background:var(--panel);border:1px solid var(--line);border-radius:16px;
-  box-shadow:var(--shadow);transition:background .18s,border-color .18s}
-.mcard.k{background:var(--easy);border-color:var(--easy)}
-.mcard.n{background:var(--hard);border-color:var(--hard)}
+  background:var(--panel);border:0;border-radius:20px;
+  box-shadow:var(--shadow);transition:background .18s}
+.mgrid.d1 .mcard,.mgrid.d2 .mcard{border-radius:24px}
+/* --easy and --hard are picked to be legible as TEXT on the page background.
+   As a fill behind white text they are too light, so darken them here only. */
+.mcard.k{background:color-mix(in srgb, var(--easy) 80%, #06231a)}
+.mcard.n{background:color-mix(in srgb, var(--hard) 82%, #2a0b06)}
 .mfa{flex:1;min-height:0;perspective:900px;cursor:pointer}
 .mfi{position:relative;width:100%;height:100%;transform-style:preserve-3d;
   transition:transform .4s cubic-bezier(.2,.7,.3,1)}
 .mcard.flipped .mfi{transform:rotateY(180deg)}
 .mside{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
   display:flex;flex-direction:column;align-items:center;justify-content:center;
-  text-align:center;padding:.6rem;gap:.35rem;overflow:auto}
+  text-align:center;padding:.9rem .8rem;gap:.35rem;overflow:auto}
+.mgrid.d1 .mside,.mgrid.d2 .mside{padding:1.2rem 1.4rem}
 .mside.back{transform:rotateY(180deg)}
-.mcw{font-family:var(--read);font-weight:700;line-height:1.15;font-size:1.15rem}
-.mgl{font-family:var(--read);font-size:.85rem;line-height:1.4;color:var(--ink2)}
+/* Sans on the card, not the reading serif. A bare word on a tile is a label,
+   not prose, and the serif read as decoration beside the reference app. */
+.mcw{font-family:var(--ui);font-weight:500;line-height:1.2;font-size:1.25rem;
+  overflow-wrap:anywhere;letter-spacing:-.01em}
+.mgl{font-family:var(--ui);font-weight:400;font-size:.88rem;line-height:1.45;color:var(--ink2)}
 .mcard.k .mcw,.mcard.n .mcw,.mcard.k .mgl,.mcard.n .mgl{color:#fff}
-.mgrid.d1 .mcw{font-size:2.4rem}
-.mgrid.d1 .mgl{font-size:1.2rem;max-width:22rem}
-.mgrid.d2 .mcw{font-size:1.75rem}
-.mgrid.d2 .mgl{font-size:1rem}
-.mgrid.d4 .mcw{font-size:1.35rem}
+.mgrid.d1 .mcw{font-size:2.7rem}
+.mgrid.d1 .mgl{font-size:1.25rem;max-width:20rem;line-height:1.5}
+.mgrid.d2 .mcw{font-size:2rem}
+.mgrid.d2 .mgl{font-size:1.05rem}
+.mgrid.d4 .mcw{font-size:1.5rem}
+.mgrid.d4 .mgl{font-size:.95rem}
 /* Four controls. A wide card takes them in a row; a narrow one wraps to 2x2,
    which is what the six-up layout needs and what the reference app does. */
 .mbtns{display:grid;flex:0 0 auto;gap:.1rem;padding:.3rem .35rem .45rem;
@@ -354,12 +364,13 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mgrid.d4 .mb.i,.mgrid.d6 .mb.i{order:2}
 .mgrid.d4 .mb.x,.mgrid.d6 .mb.x{order:3}
 .mgrid.d4 .mb.t,.mgrid.d6 .mb.t{order:4}
-.mb{border:0;background:none;cursor:pointer;padding:.45rem 0;font-size:1.1rem;
-  line-height:1;color:var(--dim);border-radius:10px;transition:transform .1s,background .12s}
+.mb{border:0;background:none;cursor:pointer;padding:.4rem 0;line-height:0;
+  color:var(--dim);border-radius:10px;display:grid;place-items:center;
+  transition:transform .1s,background .12s}
+.mb svg{width:24px;height:24px;display:block}
+.mgrid.d4 .mb svg,.mgrid.d6 .mb svg{width:21px;height:21px}
 .mb.x{color:var(--hard)} .mb.t{color:var(--easy)}
-.mb.s,.mb.i{filter:grayscale(1) opacity(.65)}
 .mcard.k .mb,.mcard.n .mb{color:#fff}
-.mcard.k .mb.s,.mcard.k .mb.i,.mcard.n .mb.s,.mcard.n .mb.i{filter:grayscale(1) brightness(3)}
 .mb:hover{background:rgba(127,127,127,.14)}
 .mb:active{transform:scale(.86)}
 
@@ -957,6 +968,36 @@ function mountainSVG(done, total){
     </svg><span class="mlbl">${done} / ${total}</span>`;
 }
 
+/* Line icons rather than emoji. Emoji render in colour and at the font's whim -
+   on the card they read as stickers, where the reference app uses flat
+   monochrome strokes that take the card's own colour. */
+const svgIcon = body =>
+  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1"
+        stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${body}</svg>`;
+const ICON = {
+  cross:   svgIcon(`<path d="M6 6l12 12M18 6L6 18"/>`),
+  tick:    svgIcon(`<path d="M4.5 12.5l5 5L19.5 7"/>`),
+  speaker: svgIcon(`<path d="M4 9.5h3.2L12 5.5v13l-4.8-4H4z" stroke-linejoin="round"/>
+                    <path d="M16 9.2a4 4 0 010 5.6"/><path d="M18.6 6.6a7.6 7.6 0 010 10.8"/>`),
+  book:    svgIcon(`<path d="M5.5 3.5h13v17h-13a1.5 1.5 0 01-1.5-1.5V5a1.5 1.5 0 011.5-1.5z"/>
+                    <path d="M9.5 3.5v7l2.4-1.9 2.4 1.9v-7"/>`),
+};
+
+/* The density control draws the layout it selects, like the reference app:
+   one square, two rows, a 2x2, a 2x3. Tapping cycles. */
+const DEN_CYCLE = [1, 2, 4, 6];
+function denIcon(n){
+  const cells = {1: [[0,0,10,10]],
+                 2: [[0,0,10,4.4],[0,5.6,10,4.4]],
+                 4: [[0,0,4.4,4.4],[5.6,0,4.4,4.4],[0,5.6,4.4,4.4],[5.6,5.6,4.4,4.4]],
+                 6: [[0,0,4.4,2.6],[5.6,0,4.4,2.6],[0,3.7,4.4,2.6],
+                     [5.6,3.7,4.4,2.6],[0,7.4,4.4,2.6],[5.6,7.4,4.4,2.6]]}[n] || [];
+  return `<svg viewBox="0 0 10 10" width="15" height="15" aria-hidden="true">` +
+    cells.map(([x,y,w,h]) =>
+      `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="1" fill="currentColor"/>`
+    ).join("") + `</svg>`;
+}
+
 /* A page of cards. One card per screen or six - the card itself is identical,
    which is what lets the density control be a pure layout switch. Each card
    carries its own cross / detail / tick, because at six-up there is no single
@@ -978,10 +1019,10 @@ function mCardHTML(c){
       </div>
     </div>
     <div class="mbtns">
-      <button class="mb x" data-act="no"  aria-label="Didn't know it">&#10007;</button>
-      <button class="mb s" data-act="say" aria-label="Say the word">&#128266;</button>
-      <button class="mb i" data-act="det" aria-label="Detailed meaning and synonyms">&#128214;</button>
-      <button class="mb t" data-act="yes" aria-label="Knew it">&#10003;</button>
+      <button class="mb x" data-act="no"  aria-label="Didn't know it">${ICON.cross}</button>
+      <button class="mb s" data-act="say" aria-label="Say the word">${ICON.speaker}</button>
+      <button class="mb i" data-act="det" aria-label="Detailed meaning and synonyms">${ICON.book}</button>
+      <button class="mb t" data-act="yes" aria-label="Knew it">${ICON.tick}</button>
     </div></div>`;
 }
 
@@ -996,14 +1037,13 @@ function renderMountain(){
 
   $("mountain").innerHTML = `<div class="climb">
     <div class="mhead">
-      <button class="arrow sm" id="mPrev" title="Previous page">&#8249;</button>
+      <button class="arrow sm" id="mPrev" aria-label="Previous page">&#8249;</button>
       ${mountainSVG(done, mDeck.length)}
-      <button class="arrow sm" id="mNext" title="Next page">&#8250;</button>
+      <button class="arrow sm" id="mNext" aria-label="Next page">&#8250;</button>
       <button class="arrow sm ${mShuffled ? "on" : ""}" id="mShuf"
-              title="Shuffle the deck">&#8646;</button>
-      <select id="mDenSel" title="Cards per screen">
-        ${[1,2,4,6].map(n => `<option value="${n}" ${n===mDen?"selected":""}>${n}</option>`).join("")}
-      </select>
+              aria-label="Shuffle the deck">&#8646;</button>
+      <button class="arrow sm" id="mDenBtn"
+              aria-label="Cards per screen">${denIcon(mDen)}</button>
       <button class="linkish" id="mQuit">end</button>
     </div>
     <div class="mgrid d${mDen}" id="mGrid">${page.map(mCardHTML).join("")}</div>
@@ -1041,10 +1081,11 @@ function renderMountain(){
                           a.word.localeCompare(b.word));
     mPage = 0; renderMountain();
   };
-  $("mDenSel").onchange = e => {
+  $("mDenBtn").onclick = () => {
     const first = mPage * mDen;                       // keep the same word on screen
-    mDen = +e.target.value; localStorage.setItem(MDEN_KEY, mDen);
-    mPage = Math.floor(first / mDen); renderMountain();
+    mDen = DEN_CYCLE[(DEN_CYCLE.indexOf(mDen) + 1) % DEN_CYCLE.length];
+    localStorage.setItem(MDEN_KEY, mDen);
+    mPage = Math.floor(first / mDen); mSaveSession(); renderMountain();
   };
   $("mSlider").oninput = e => { mPage = +e.target.value; renderMountain(); };
   mWireSwipe($("mGrid"));
