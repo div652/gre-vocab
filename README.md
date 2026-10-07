@@ -60,6 +60,7 @@ Three consequences worth naming:
 | `render.py` | `cards/*.json` → markdown, one file per group. |
 | `build_app.py` | `cards/*.json` → `out/flashcards.html`, a self-contained offline app. |
 | `videos.py` | Crawls the iswearenglish channel and matches each card word to its videos. |
+| `synonyms.py` | Tops up each word's synonyms from a dictionary into `synonyms.json`. |
 | `sync_skill.py` | Keeps `skill/` in step with the live skill. |
 | `cards/` | One JSON file per word. The source of truth. |
 

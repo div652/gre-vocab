@@ -234,6 +234,22 @@ Written **before** the summary sheet is rendered, not when it is dismissed —
 losing a score to a stray back press is the specific failure this exists to
 prevent. The start screen lists them and any one can be reopened.
 
+### `synonyms.json`
+
+Word -> up to eight extra synonyms, built by `synonyms.py` from Datamuse. An
+**optional top-up**, merged beneath the meaning and intensity clusters rather
+than replacing them: the clusters were written to separate near-synonyms, which
+is more use for the GRE than a dictionary's undifferentiated pile.
+
+Together they cover 1092 of 1112 words (98%); the clusters alone cover 924
+(83%), so the pass rescues 168 words that had no cluster at all.
+
+`synonyms.py` also accepts `MW_KEY` to merge Merriam-Webster's Collegiate
+Thesaurus. Scraping merriam-webster.com directly is not possible - it returns
+403 to anything that is not a real browser, on both /dictionary and /thesaurus -
+so the supported route is their API at dictionaryapi.com, which needs a free
+key.
+
 ### Quiz scopes
 
 Two unrelated taxonomies are quizzable and the picker mixes them freely, so
