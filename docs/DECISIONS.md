@@ -393,6 +393,28 @@ The WebView also moved inside a container that takes the insets, because padding
 the WebView directly still left its own background behind the bar, and on some
 devices the page drew under the bar entirely.
 
+### D-50 — A run's colours are the run's, not all time
+Cards used to take their colour from `mtn`, the all-time record, so climbing the
+same lists again showed every verdict already filled in and there was no way to
+start clean. Colour now comes from the current session; `mtn` survives and still
+drives per-list progress and the "not yet judged" filter, and shows on an
+unjudged card as a small dot rather than a fill.
+
+`Reset marks` is the heavier option, for zeroing the record on the selected
+lists. Past runs are never touched by it.
+
+### D-51 — "Synonyms" means the meaning and intensity clusters
+The detail sheet had a "Related" row built from `root_family` + `confusables`,
+which are a shared etymology and words that merely look alike — neither is a
+synonym, and mixing them under one heading was quietly misleading. Synonyms now
+come from the `meaning` and `intensity` groups, which exist precisely to hold
+words that mean nearly the same thing: 924 of 1112 words, median four each.
+Root and look-alike material survives under an honest heading, lower down.
+
+Placement matters as much as content: synonyms sit directly under the one-line
+definition, above the nuance paragraph, because that is what the sheet is opened
+for. `synonyms.json` is an optional top-up keyed by word, merged on top.
+
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to
 Browse and Drill. Measured on a 375px viewport they made the header **452px of

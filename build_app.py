@@ -21,6 +21,7 @@ CARDS = HERE / "cards"
 GROUPS = HERE / "groups"
 BANK = HERE / "bank"
 VIDEOS = HERE / "videos.json"
+SYNONYMS = HERE / "synonyms.json"
 OUT = HERE / "out"
 
 # Order the group kinds by study value, most useful first.
@@ -351,6 +352,13 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
    As a fill behind white text they are too light, so darken them here only. */
 .mcard.k{background:color-mix(in srgb, var(--easy) 80%, #06231a)}
 .mcard.n{background:color-mix(in srgb, var(--hard) 82%, #2a0b06)}
+/* What you said about this word LAST time, on a card you have not judged yet
+   this run. A dot, not a fill - the fill means "this run". */
+.prevdot{position:absolute;top:.5rem;right:.5rem;width:.5rem;height:.5rem;
+  border-radius:50%;z-index:1;opacity:.85}
+.prevdot.pk{background:var(--easy)}
+.prevdot.pn{background:var(--hard)}
+.chips.syn .chip{color:var(--accent);border-color:var(--accent);background:var(--accent-soft)}
 .mfa{flex:1;min-height:0;perspective:900px;cursor:pointer}
 .mfi{position:relative;width:100%;height:100%;transform-style:preserve-3d;
   transition:transform .4s cubic-bezier(.2,.7,.3,1)}
@@ -581,6 +589,7 @@ const GROUPS = __GROUPS__;
 const BANK = __BANK__;
 const KINDLABEL = __KINDLABEL__;
 const VIDEOS = __VIDEOS__;
+const MWSYN = __MWSYN__;     // word -> extra synonyms; empty until synonyms.json exists
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
 let mode = "browse", order = [], idx = 0, revealed = false,
@@ -924,6 +933,7 @@ function mountainSetup(){
         <button class="btn" id="mAll">All ${GNUMS.length}</button>
         <button class="btn" id="mNone">Clear</button>
         <button class="btn" id="mRange">Range…</button>
+        <button class="btn" id="mWipe" title="Forget the known/unknown record for these lists">Reset marks</button>
       </div>
       <hr class="sep">
       <label><input type="checkbox" id="mOnlyNew" checked>
@@ -962,6 +972,17 @@ function mountainSetup(){
     mSel.has(g) ? mSel.delete(g) : mSel.add(g);
     b.classList.toggle("on", mSel.has(g)); saveMSel(); refresh();
   });
+  // Every run already starts uncoloured; this is the heavier reset, for when
+  // you also want the per-list progress and the "not yet judged" filter back
+  // to zero on these lists.
+  $("mWipe").onclick = () => {
+    const ws = wordsInGroups(mSel);
+    if(!ws.length) return;
+    if(!confirm(`Forget the known/unknown record for ${ws.length} words in lists `
+      + [...mSel].sort((a,b)=>a-b).join(", ") + `?\n\nPast runs are kept.`)) return;
+    ws.forEach(c => delete mtn[c.word]);
+    saveMtn(); renderMountain();
+  };
   $("mAll").onclick  = () => { mSel = new Set(GNUMS); saveMSel(); renderMountain(); };
   $("mNone").onclick = () => { mSel.clear(); saveMSel(); renderMountain(); };
   $("mRange").onclick = () => {
@@ -1048,9 +1069,17 @@ function mPageCards(i){
    not flip - four of them, wrapping to 2x2 once the card is too narrow for a
    row, which is what the density classes switch. */
 function mCardHTML(c){
-  const st = mtn[c.word], cls = !st ? "" : st.k ? "k" : "n";
+  // Colour comes from THIS run, not from all time, so the same groups can be
+  // climbed again from scratch. The all-time record lives on in `mtn` - it
+  // drives the per-list progress and the "not yet judged" filter - and shows
+  // here only as a small dot on cards you have not judged yet this run.
+  const v = mVerdict[c.word];
+  const cls = v === undefined ? "" : v ? "k" : "n";
+  const prev = mtn[c.word];
+  const dot = (prev && v === undefined)
+    ? `<i class="prevdot ${prev.k ? "pk" : "pn"}" title="Last time: ${prev.k ? "knew it" : "didn't"}"></i>` : "";
   const showBack = mFlipped.has(c.word);
-  return `<div class="mcard ${cls} ${showBack ? "flipped" : ""}" data-w="${esc(c.word)}">
+  return `<div class="mcard ${cls} ${showBack ? "flipped" : ""}" data-w="${esc(c.word)}">${dot}
     <div class="mfa">
       <div class="mfi">
         <div class="mside front"><span class="mcw">${esc(c.word)}</span></div>
@@ -1148,13 +1177,37 @@ function mShowDetail(word){
   $("mdClose").onclick = () => $("msheet").classList.add("hidden");
 }
 
+/* Near-synonyms, from the meaning and intensity clusters: those are the groups
+   built to hold words that mean nearly the same thing. root_family and
+   confusables are NOT synonyms - one is a shared etymology, the other is
+   words that merely look alike - and the old "Related" row quietly mixed all
+   three together. MWSYN tops this up where a word has no cluster. */
+function synonymsFor(word){
+  const self = word.toLowerCase(), out = new Set();
+  (GROUPS_OF[self] || []).forEach(g => {
+    if(g.kind !== "meaning" && g.kind !== "intensity") return;
+    g.words.forEach(m => { if(m.word.toLowerCase() !== self) out.add(m.word); });
+  });
+  (MWSYN[word] || MWSYN[self] || []).forEach(s => {
+    if(String(s).toLowerCase() !== self) out.add(s);
+  });
+  return [...out];
+}
+
 function mDetailHTML(c){
-  let h = md(c.means);
+  // Concise meaning, then synonyms, then everything else. They were previously
+  // most of a screen down, under the nuance paragraph and the trap.
+  const blocks = String(c.means || "").split(/\n\s*\n/);
+  let h = md(blocks.shift() || "");
+  const syn = synonymsFor(c.word);
+  if(syn.length) h += `<h4>Synonyms</h4><div class="chips syn">` +
+      syn.slice(0, 14).map(s => `<span class="chip">${esc(s)}</span>`).join("") + `</div>`;
+  if(blocks.length) h += md(blocks.join("\n\n"));
   if(c.trap) h += md(c.trap);
   if(c.trick_line) h += `<h4>Trick</h4><blockquote>${md(c.trick_line).replace(/<\/?p>/g,"")}</blockquote>`;
-  const syn = [...new Set([].concat(c.root_family||[], c.confusables||[]))].slice(0, 10);
-  if(syn.length) h += `<h4>Related</h4><div class="chips">` +
-      syn.map(s => `<span class="chip">${esc(s)}</span>`).join("") + `</div>`;
+  const kin = [...new Set([].concat(c.root_family||[], c.confusables||[]))].slice(0, 10);
+  if(kin.length) h += `<h4>Same root or look-alike</h4><div class="chips">` +
+      kin.map(s => `<span class="chip">${esc(s)}</span>`).join("") + `</div>`;
   if((c.sentences||[]).length) h += `<h4>In sentences</h4><ol>` +
       c.sentences.map(s => `<li>${md(s).replace(/<\/?p>/g,"")}</li>`).join("") + `</ol>`;
   const gs = GROUPS_OF[c.word.toLowerCase()] || [];
@@ -2526,13 +2579,20 @@ def main() -> int:
     if VIDEOS.exists():
         videos = json.loads(VIDEOS.read_text(encoding="utf-8"))
 
+    # Extra synonyms, if a dictionary pass has been run. Optional by design:
+    # the meaning and intensity clusters already cover 83% of the list.
+    mwsyn = {}
+    if SYNONYMS.exists():
+        mwsyn = json.loads(SYNONYMS.read_text(encoding="utf-8"))
+
     OUT.mkdir(exist_ok=True)
     html = (TEMPLATE
             .replace("__DATA__", json.dumps(data, ensure_ascii=False))
             .replace("__GROUPS__", json.dumps(groups, ensure_ascii=False))
             .replace("__BANK__", json.dumps(bank, ensure_ascii=False))
             .replace("__KINDLABEL__", json.dumps(KIND_LABEL, ensure_ascii=False))
-            .replace("__VIDEOS__", json.dumps(videos, ensure_ascii=False)))
+            .replace("__VIDEOS__", json.dumps(videos, ensure_ascii=False))
+            .replace("__MWSYN__", json.dumps(mwsyn, ensure_ascii=False)))
     dest = OUT / "flashcards.html"
     dest.write_text(html, encoding="utf-8")
 
