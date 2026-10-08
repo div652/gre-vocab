@@ -341,18 +341,22 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mgrid.d4 .mgl{font-size:.95rem}
 /* Four controls. A wide card takes them in a row; a narrow one wraps to 2x2,
    which is what the six-up layout needs and what the reference app does. */
-.mbtns{display:grid;flex:0 0 auto;gap:.1rem;padding:.3rem .35rem .45rem;
+/* Tap targets. The cells are contiguous - no gap - so every pixel between two
+   icons belongs to one button or the other, and each is at least 48px tall
+   (44 at six-up, where the card simply has not got the height). Measured
+   before this: 37px at six-up, which is a miss waiting to happen. */
+.mbtns{display:grid;flex:0 0 auto;gap:0;padding:.15rem .2rem .25rem;
   grid-template-columns:repeat(4,1fr)}
 .mgrid.d4 .mbtns,.mgrid.d6 .mbtns{grid-template-columns:1fr 1fr}
-.mgrid.d4 .mb,.mgrid.d6 .mb{padding:.3rem 0}
+.mb{min-height:48px}
 /* keep the pairing sane when wrapped: speak + book on top, verdicts beneath */
 .mgrid.d4 .mb.s,.mgrid.d6 .mb.s{order:1}
 .mgrid.d4 .mb.i,.mgrid.d6 .mb.i{order:2}
 .mgrid.d4 .mb.x,.mgrid.d6 .mb.x{order:3}
 .mgrid.d4 .mb.t,.mgrid.d6 .mb.t{order:4}
-.mb{border:0;background:none;cursor:pointer;padding:.4rem 0;line-height:0;
+.mb{border:0;background:none;cursor:pointer;padding:.2rem 0;line-height:0;
   color:var(--dim);border-radius:10px;display:grid;place-items:center;
-  transition:transform .1s,background .12s}
+  transition:transform .1s,background .12s;-webkit-tap-highlight-color:transparent}
 .mb svg{width:34px;height:34px;display:block}
 .mgrid.d4 .mb svg{width:30px;height:30px}
 .mgrid.d6 .mb svg{width:27px;height:27px}
