@@ -438,6 +438,37 @@ on a timer after the first paint. Racing that with `requestAnimationFrame`
 produced a card sized against a stale height on first entry but correct after
 any later navigation — the kind of bug that looks intermittent.
 
+### D-53 — Cards goes genuinely full screen, and turns the device
+One tap anywhere on the card lifts all three veils; uncovering them one at a
+time was fiddly and nobody wants two of three. Lists mix and shuffle like the
+Mountain's.
+
+The mode hides the app entirely — header, tabs, everything — and sits on black.
+Where the device can be turned it is turned for real: `AndroidBridge
+.setLandscape` on the phone, the Screen Orientation API plus fullscreen in a
+browser, and rotating the card with CSS only as the fallback. The swipe axis
+follows: when the card is turned by CSS the phone is still upright, so the next
+card is *up* the screen; when the device itself turned, it is across.
+
+Three layout traps, all of the same family — a property that changes what a
+later property means:
+
+- `writing-mode: vertical-rl` on the stats panel flipped its flex axis, because
+  "column" runs horizontally in a vertical writing mode. The panel left the
+  screen. The writing mode belongs on the text, not the container.
+- `min-width: auto` (the flex default) let that panel's intrinsic size override
+  its basis and take a third of the screen from the card.
+- A rotated element keeps its **unrotated** box for layout, so the card has to
+  be centred by absolute position or it is clipped.
+
+### D-54 — The veil is frosted, not filled
+The covers started as dashed outlines with uppercase labels, which read as
+placeholder boxes pasted onto the artwork. They are now `backdrop-filter`
+panels: the brick and the sign frame stay visible through them, so a covered
+region reads as part of the card being withheld. There is an `@supports`
+fallback to a near-opaque tint, because without the blur a translucent panel
+would simply leave the answer readable.
+
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to
 Browse and Drill. Measured on a 375px viewport they made the header **452px of

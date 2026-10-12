@@ -407,28 +407,70 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mb:hover{background:rgba(127,127,127,.14)}
 .mb:active{transform:scale(.86)}
 
-/* ---- Cards: the flashcard images ---- */
-.fcvp{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:pan-y}
+/* ---- Cards: the flashcard images -------------------------------------
+   Immersive: the card on black, nothing else on the glass. The app chrome is
+   hidden rather than restyled, because a 16:9 card wants the whole screen. */
+body.fc-immersive{background:#000}
+body.fc-immersive header,
+body.fc-immersive #browse,body.fc-immersive #drill,body.fc-immersive #mountain,
+body.fc-immersive #quiz,body.fc-immersive #groups{display:none!important}
+body.fc-immersive main{padding:0;max-width:none;margin:0}
+body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
+
+.fcstage{position:absolute;inset:0;display:flex;align-items:stretch;background:#000}
+.fcvp{flex:1;min-width:0;min-height:0;position:relative;overflow:hidden;touch-action:none}
 .fctrack{display:flex;height:100%;transform:translateX(-100%);will-change:transform}
 .fctrack.snap{transition:transform .24s cubic-bezier(.22,.7,.28,1)}
 .fcslide{flex:0 0 100%;width:100%;height:100%;position:relative;overflow:hidden}
 /* Centred by absolute position, not by flow: a rotated element keeps its
    UNROTATED box for layout, so a card wide enough to fill the screen when
-   turned overflows its container and gets clipped if it is centred normally.
-   translate(-50%,-50%) runs before rotate, so it uses that unrotated box and
-   lands the centre where it belongs. */
+   turned overflows its container and gets clipped if centred normally. */
 .fcrot{position:absolute;top:50%;left:50%;width:var(--fcw,100%);aspect-ratio:16/9;
-  border-radius:10px;overflow:hidden;background:#101114;box-shadow:var(--shadow);
+  border-radius:8px;overflow:hidden;background:#0c0d10;cursor:pointer;
   transform:translate(-50%,-50%)}
-.fcvp.rot .fcrot{transform:translate(-50%,-50%) rotate(90deg)}
+.fcstage.rot .fcrot{transform:translate(-50%,-50%) rotate(90deg)}
 .fcrot img{width:100%;display:block}
-.fcmask{position:absolute;cursor:pointer;border-radius:7px;background:#15171c;
-  border:1px dashed rgba(255,255,255,.22);display:grid;place-items:center;
-  transition:opacity .22s}
-.fcmask span{font-family:var(--ui);font-size:.6rem;font-weight:700;letter-spacing:.08em;
-  text-transform:uppercase;color:rgba(255,255,255,.5)}
-.fcmask.gone{opacity:0;pointer-events:none}
-#fcSlider{width:100%;flex:0 0 auto;accent-color:var(--accent)}
+
+/* The veil. Frosted rather than filled: the brick and the sign frame stay
+   visible through it, so a covered region reads as part of the card being
+   withheld instead of a grey box pasted on top. */
+.fcveil{position:absolute;border-radius:6px;pointer-events:none;
+  background:rgba(14,15,18,.55);
+  -webkit-backdrop-filter:blur(13px) saturate(.5) brightness(.75);
+  backdrop-filter:blur(13px) saturate(.5) brightness(.75);
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.05),
+             inset 0 1px 0 rgba(255,255,255,.05);
+  transition:opacity .3s ease, backdrop-filter .3s ease}
+.fcveil.gone{opacity:0}
+/* Without backdrop-filter the blur does nothing, so fall back to a flat tint
+   rather than leaving the answer legible through a transparent panel. */
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+  .fcveil{background:rgba(16,17,21,.97)}
+}
+
+.fcside{flex:0 0 clamp(86px,21vw,132px);display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:1rem;position:relative;padding:.6rem .4rem;
+  background:#000;color:#8a8f99;
+  /* min-width:auto is the flex default, so a vertical-writing-mode child's
+     intrinsic size overrode the basis and the panel took a third of the
+     screen away from the card. */
+  min-width:0;overflow:hidden}
+/* vertical-rl on the PANEL would flip its flex axis - in a vertical writing
+   mode "column" runs horizontally - and push it off screen. The writing mode
+   belongs on the text that has to read along with the turned card. */
+.fcstage.rot .fcstat,.fcstage.rot .fcword{writing-mode:vertical-rl}
+.fcx{flex:0 0 auto;width:34px;height:34px;border-radius:50%;
+  border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.06);
+  color:#cfd4dd;font-size:.9rem;line-height:1;cursor:pointer;display:grid;
+  place-items:center;writing-mode:horizontal-tb}
+.fcstat{text-align:center;line-height:1.1}
+.fcstat b{display:block;font-family:var(--read);font-size:1.45rem;color:#eef1f6;
+  white-space:nowrap}
+.fcstat b i{font-style:normal;font-size:.8rem;color:#737a86}
+.fcstat.sm b{font-size:1rem;color:#aeb4c0}
+.fcstat span{font-size:.6rem;letter-spacing:.09em;text-transform:uppercase;color:#6b7280}
+.fcword{font-family:var(--read);font-size:.95rem;color:#7d848f;
+  max-height:9rem;overflow:hidden;text-overflow:ellipsis}
 
 .mfoot{display:flex;align-items:center;font-size:.72rem;font-weight:600;color:var(--dim);
   flex:0 0 auto;gap:.5rem}
@@ -1426,20 +1468,28 @@ function mShowRun(run){
    of the image, so they rotate with it and need no recalculation.
    ========================================================================== */
 
-const FCSEL_KEY = "gre-vocab-fc-sel-v1";
+const FCSEL_KEY = "gre-vocab-fc-sel-v1", FCSHUF_KEY = "gre-vocab-fc-shuffle-v1";
 const FC_REGIONS = [
-  {key: "art",  label: "image",    l: 65.5, t: 20.5, w: 32,   h: 46},
-  {key: "mean", label: "meaning",  l: 5.2,  t: 42.5, w: 50.5, h: 19.5},
-  {key: "mean", label: "synonyms", l: 2.6,  t: 64.5, w: 72,   h: 21.5},
+  {key: "art",  l: 65.5, t: 20.5, w: 32,   h: 46},
+  {key: "mean", l: 5.2,  t: 42.5, w: 50.5, h: 19.5},
+  {key: "mean", l: 2.6,  t: 64.5, w: 72,   h: 21.5},
 ];
 
-let fcSel = +localStorage.getItem(FCSEL_KEY) || 0;   // 0 = no list chosen yet
-let fcDeck = [], fcIdx = 0, fcRot = true, fcRO = null;
-const fcShown = {};                                   // word -> Set of revealed keys
+// The previous build stored a single list number under this key; new Set(1)
+// throws, so anything that is not an array is discarded.
+let fcSel = new Set((() => {
+  try{ const v = JSON.parse(localStorage.getItem(FCSEL_KEY) || "[]");
+       return Array.isArray(v) ? v.filter(n => typeof n === "number") : []; }
+  catch(e){ return []; }
+})());
+let fcShuf = JSON.parse(localStorage.getItem(FCSHUF_KEY) || "true");
+let fcDeck = [], fcIdx = 0, fcRO = null;
+let fcImmersive = false, fcNative = false;   // fcNative: the device really turned
+const fcShown = {};                           // word -> true once revealed
 
 const FC_DAYS = [...new Set(Object.values(FCARDS).map(v => v.d))].sort((a,b) => a-b);
-const fcWordsFor = day =>
-  CARDS.filter(c => FCARDS[c.word] && FCARDS[c.word].d === day);
+const fcWordsFor = day => CARDS.filter(c => FCARDS[c.word] && FCARDS[c.word].d === day);
+const saveFcSel = () => localStorage.setItem(FCSEL_KEY, JSON.stringify([...fcSel]));
 
 function renderCards(){
   if(!Object.keys(FCARDS).length){
@@ -1448,102 +1498,169 @@ function renderCards(){
          Run <code>python flashcards.py</code> to add them.</p></div></div>`;
     return;
   }
-  if(!fcSel) return fcPicker();
-  fcDeck = fcWordsFor(fcSel);
-  if(!fcDeck.length){ fcSel = 0; return fcPicker(); }
+  if(!fcImmersive) return fcPicker();
+  if(!fcDeck.length){ fcExit(); return; }
   if(fcIdx >= fcDeck.length) fcIdx = 0;
   fcRun();
 }
 
+/* ---- setup: which lists, same mix-and-match as the Mountain ---- */
 function fcPicker(){
+  const picked = fcSelected();
   $("cards").innerHTML = `<div class="q"><div class="setup">
     <h3>Cards</h3>
-    <p class="hint">${Object.keys(FCARDS).length} illustrated flashcards.
-       Pick a list: each card opens showing only the word, and you uncover the
-       picture, the meaning and the synonyms as you want them.</p>
+    <p class="hint">${Object.keys(FCARDS).length} illustrated flashcards. Pick any
+       number of lists; the card opens showing only the word and one tap uncovers
+       the rest. Goes full screen and turns sideways so the card fills the phone.</p>
     <div class="gpick">${FC_DAYS.map(d => {
-      const n = fcWordsFor(d).length;
-      return `<button class="gchip" data-d="${d}"><b>${d}</b><u>${n}</u></button>`;
-    }).join("")}</div></div></div>`;
+      const ws = fcWordsFor(d), seen = ws.filter(c => fcShown[c.word]).length;
+      const pct = Math.round(100 * seen / (ws.length || 1));
+      return `<button class="gchip ${fcSel.has(d) ? "on" : ""}" data-d="${d}">
+          <b>${d}</b><i style="width:${pct}%"></i><u>${ws.length}</u></button>`;
+    }).join("")}</div>
+    <div class="rowbtns">
+      <button class="btn" id="fcAllG">All ${FC_DAYS.length}</button>
+      <button class="btn" id="fcNoneG">Clear</button>
+      <button class="btn" id="fcRangeG">Range…</button>
+    </div>
+    <hr class="sep">
+    <label><input type="checkbox" id="fcShufBox" ${fcShuf ? "checked" : ""}>
+      <span><strong>Shuffle</strong><br><span class="hint">Mix the chosen lists
+      together instead of running them in order.</span></span></label>
+    <p class="hint" id="fcCount">${picked.length} cards selected</p>
+    <div style="margin-top:14px"><button id="fcGo" class="on"
+      ${picked.length ? "" : "disabled"}>Start</button></div>
+  </div></div>`;
+
+  const refresh = () => {
+    const n = fcSelected().length;
+    $("fcCount").textContent = `${n} cards selected`;
+    $("fcGo").disabled = !n;
+  };
   $("cards").querySelectorAll(".gchip").forEach(b => b.onclick = () => {
-    fcSel = +b.dataset.d; fcIdx = 0;
-    localStorage.setItem(FCSEL_KEY, fcSel);
-    renderCards();
+    const d = +b.dataset.d;
+    fcSel.has(d) ? fcSel.delete(d) : fcSel.add(d);
+    b.classList.toggle("on", fcSel.has(d)); saveFcSel(); refresh();
   });
+  $("fcAllG").onclick  = () => { fcSel = new Set(FC_DAYS); saveFcSel(); renderCards(); };
+  $("fcNoneG").onclick = () => { fcSel.clear(); saveFcSel(); renderCards(); };
+  $("fcRangeG").onclick = () => {
+    const s = prompt("Which lists? e.g.  3, 6, 12-14", [...fcSel].sort((a,b)=>a-b).join(", "));
+    if(s === null) return;
+    const next = new Set();
+    s.split(",").forEach(part => {
+      const m = part.trim().match(/^(\d+)\s*(?:-|–|to)\s*(\d+)$/);
+      if(m){ for(let d = +m[1]; d <= +m[2]; d++) if(FC_DAYS.includes(d)) next.add(d); }
+      else if(/^\d+$/.test(part.trim()) && FC_DAYS.includes(+part)) next.add(+part);
+    });
+    fcSel = next; saveFcSel(); renderCards();
+  };
+  $("fcShufBox").onchange = e => {
+    fcShuf = e.target.checked;
+    localStorage.setItem(FCSHUF_KEY, JSON.stringify(fcShuf));
+  };
+  $("fcGo").onclick = () => fcEnter();
+}
+
+function fcSelected(){
+  const out = [];
+  [...fcSel].sort((a,b) => a-b).forEach(d => out.push(...fcWordsFor(d)));
+  return out;
+}
+
+/* ---- immersive: full screen, turned sideways, nothing else on the glass ---- */
+async function fcEnter(){
+  fcDeck = fcShuf ? shuffled(fcSelected()) : fcSelected();
+  if(!fcDeck.length) return;
+  fcIdx = 0;
+  fcImmersive = true;
+  document.body.classList.add("fc-immersive");
+
+  // Turn the device for real where that is possible; rotating the card with
+  // CSS is the fallback, and the swipe axis follows whichever we got.
+  fcNative = false;
+  if(window.AndroidBridge && AndroidBridge.setLandscape){
+    try{ AndroidBridge.setLandscape(true); fcNative = true; }catch(e){}
+  } else {
+    try{
+      if(document.documentElement.requestFullscreen)
+        await document.documentElement.requestFullscreen({navigationUI:"hide"});
+      if(screen.orientation && screen.orientation.lock){
+        await screen.orientation.lock("landscape");
+        fcNative = true;
+      }
+    }catch(e){ /* desktop, or the browser refused: fall back to rotating */ }
+  }
+  fcRun();
+}
+
+function fcExit(){
+  fcImmersive = false;
+  document.body.classList.remove("fc-immersive");
+  if(fcRO){ fcRO.disconnect(); fcRO = null; }
+  if(window.AndroidBridge && AndroidBridge.setLandscape){
+    try{ AndroidBridge.setLandscape(false); }catch(e){}
+  }
+  try{ if(screen.orientation && screen.orientation.unlock) screen.orientation.unlock(); }catch(e){}
+  try{ if(document.fullscreenElement) document.exitFullscreen(); }catch(e){}
+  fcNative = false;
+  renderCards();
 }
 
 function fcSlide(n){
   const c = fcDeck[(n + fcDeck.length) % fcDeck.length];
   if(!c) return `<div class="fcslide"></div>`;
-  const open = fcShown[c.word] || (fcShown[c.word] = new Set());
-  return `<div class="fcslide"><div class="fcrot">
+  const open = !!fcShown[c.word];
+  return `<div class="fcslide"><div class="fcrot ${open ? "open" : ""}">
     <img src="fc/${esc(FCARDS[c.word].f)}.webp" alt="${esc(c.word)}" decoding="async">
-    ${FC_REGIONS.map(r => `<div class="fcmask ${open.has(r.key) ? "gone" : ""}"
-        data-key="${r.key}"
-        style="left:${r.l}%;top:${r.t}%;width:${r.w}%;height:${r.h}%"
-        ><span>${r.label}</span></div>`).join("")}
+    ${FC_REGIONS.map(r => `<div class="fcveil ${open ? "gone" : ""}"
+        style="left:${r.l}%;top:${r.t}%;width:${r.w}%;height:${r.h}%"></div>`).join("")}
   </div></div>`;
 }
 
 function fcRun(){
   const c = fcDeck[fcIdx];
-  const open = fcShown[c.word] || new Set();
-  $("cards").innerHTML = `<div class="climb">
-    <div class="mhead">
-      <button class="arrow sm" id="fcBack" aria-label="Choose another list">&#8592;</button>
-      <span class="mlbl">List ${fcSel}</span>
-      <span class="hsp"></span>
-      <button class="arrow sm ${fcRot ? "on" : ""}" id="fcRot"
-              aria-label="Turn the card">&#8635;</button>
-      <button class="linkish" id="fcAll">${open.size >= 2 ? "hide all" : "reveal all"}</button>
-    </div>
-    <div class="fcvp ${fcRot ? "rot" : ""}" id="fcVp"><div class="fctrack" id="fcTrack">
+  if(!c) return;
+  const rot = !fcNative;
+  $("cards").innerHTML = `<div class="fcstage ${rot ? "rot" : ""}">
+    <div class="fcvp" id="fcVp"><div class="fctrack" id="fcTrack">
       ${fcSlide(fcIdx-1)}${fcSlide(fcIdx)}${fcSlide(fcIdx+1)}
     </div></div>
-    <div class="mfoot"><span>${esc(c.word)}</span><span class="sp"></span>
-      <span>${fcIdx+1} of ${fcDeck.length}</span></div>
-    <input type="range" id="fcSlider" min="0" max="${fcDeck.length-1}" value="${fcIdx}"
-           ${fcDeck.length < 2 ? "disabled" : ""}>
+    <aside class="fcside">
+      <button class="fcx" id="fcClose" aria-label="Leave the cards">&#10005;</button>
+      <div class="fcstat"><b>${fcIdx+1}<i>/${fcDeck.length}</i></b></div>
+      <div class="fcstat sm"><b>${FCARDS[c.word].d}</b><span>list</span></div>
+      <div class="fcstat sm"><b>${fcDeck.filter(x => fcShown[x.word]).length}</b><span>seen</span></div>
+      <div class="fcword">${esc(c.word)}</div>
+    </aside>
   </div>`;
 
   fcFit();
-  // The header's height is measured on a timer and changes --hh, which resizes
-  // this viewport AFTER the first fit. Racing that with rAF is unreliable;
-  // watch the element instead and refit whenever it actually changes size.
   if(window.ResizeObserver){
     if(fcRO) fcRO.disconnect();
     fcRO = new ResizeObserver(() => fcFit());
     fcRO.observe($("fcVp"));
-  } else {
-    setTimeout(fcFit, 60);
-  }
-  const mid = $("fcTrack").children[1];
-  mid.querySelectorAll(".fcmask").forEach(m => m.onclick = () => {
+  } else setTimeout(fcFit, 60);
+
+  // One tap anywhere on the card lifts every veil at once.
+  $("fcTrack").children[1].onclick = () => {
     if(mDragged) return;
-    (fcShown[c.word] || (fcShown[c.word] = new Set())).add(m.dataset.key);
-    mid.querySelectorAll('.fcmask[data-key="' + m.dataset.key + '"]')
-       .forEach(x => x.classList.add("gone"));
-    const b = $("fcAll");
-    if(b && (fcShown[c.word].size >= 2)) b.textContent = "hide all";
-  });
-  $("fcBack").onclick = () => { fcSel = 0; localStorage.setItem(FCSEL_KEY, 0); renderCards(); };
-  $("fcRot").onclick  = () => { fcRot = !fcRot; fcRun(); };
-  $("fcAll").onclick  = () => {
-    const s = fcShown[c.word] || (fcShown[c.word] = new Set());
-    if(s.size >= 2) s.clear(); else { s.add("art"); s.add("mean"); }
-    fcRun();
+    fcShown[c.word] = true;
+    $("fcTrack").children[1].querySelectorAll(".fcveil")
+      .forEach(v => v.classList.add("gone"));
   };
-  $("fcSlider").oninput = e => { fcIdx = +e.target.value; fcRun(); };
-  fcWireSwipe();
+  $("fcClose").onclick = () => fcExit();
+  fcWireSwipe(rot);
 }
 
-/* The rotated card is sized by hand: turned 90 degrees, its width maps to the
-   viewport's height, so the limiting dimension swaps over. */
+/* Rotated, the card's width maps to the viewport's height, so the limiting
+   dimension swaps over. */
 function fcFit(){
   const vp = $("fcVp");
   if(!vp) return;
   const W = vp.clientWidth, H = vp.clientHeight;
-  const w = fcRot ? Math.min(H, W * 16 / 9) : Math.min(W, H * 16 / 9);
+  const rot = $("cards").querySelector(".fcstage.rot");
+  const w = rot ? Math.min(H, W * 16 / 9) : Math.min(W, H * 16 / 9);
   vp.style.setProperty("--fcw", Math.floor(w) + "px");
 }
 
@@ -1553,31 +1670,40 @@ function fcStep(d){
   fcRun();
 }
 
-function fcWireSwipe(){
+/* Both axes move the deck. When the card is turned by CSS the phone is still
+   upright, so "the next card" is up the screen rather than across it; when the
+   device itself has turned, across is across. Taking whichever axis the finger
+   actually used means it is right either way. */
+function fcWireSwipe(rot){
   const vp = $("fcVp"), track = $("fcTrack");
   if(!vp || !track || fcDeck.length < 2) return;
-  let x0 = null, y0 = null, drag = false, w = vp.clientWidth || 1;
+  let x0 = null, y0 = null, drag = false, span = 1;
+  const along = (dx, dy) => rot ? -dy : dx;        // positive = toward the next card
+
   vp.addEventListener("touchstart", e => {
     x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
-    drag = false; mDragged = false; w = vp.clientWidth || 1;
+    drag = false; mDragged = false;
+    span = rot ? (vp.clientHeight || 1) : (vp.clientWidth || 1);
     track.classList.remove("snap");
   }, {passive:true});
   vp.addEventListener("touchmove", e => {
     if(x0 === null) return;
     const dx = e.touches[0].clientX - x0, dy = e.touches[0].clientY - y0;
+    const main = along(dx, dy), cross = rot ? dx : dy;
     if(!drag){
-      if(Math.abs(dx) < 8) return;
-      if(Math.abs(dx) < Math.abs(dy)){ x0 = null; return; }
+      if(Math.abs(main) < 8) return;
+      if(Math.abs(main) < Math.abs(cross)){ x0 = null; return; }
       drag = true; mDragged = true;
     }
-    track.style.transform = `translateX(calc(-100% + ${dx}px))`;
+    track.style.transform = `translateX(calc(-100% + ${-main}px))`;
   }, {passive:true});
   const end = e => {
     if(x0 === null){ drag = false; return; }
-    const dx = (e.changedTouches && e.changedTouches[0] ? e.changedTouches[0].clientX : x0) - x0;
+    const t = e.changedTouches && e.changedTouches[0];
+    const main = along((t ? t.clientX : x0) - x0, (t ? t.clientY : y0) - y0);
     x0 = null; track.classList.add("snap");
-    if(drag && Math.abs(dx) > Math.min(95, w * 0.2)){
-      const d = dx < 0 ? 1 : -1;
+    if(drag && Math.abs(main) > Math.min(95, span * 0.2)){
+      const d = main > 0 ? 1 : -1;
       track.style.transform = `translateX(${d > 0 ? "-200%" : "0%"})`;
       setTimeout(() => fcStep(d), 240);
     } else track.style.transform = "";

@@ -2,6 +2,7 @@ package dev.div652.grevocab;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -284,7 +285,36 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * Turn the device for the flashcards and hide the system bars. A 16:9 card
+     * fills about a quarter of a portrait phone; landscape it fills it. The
+     * activity declares orientation in configChanges, so this re-lays out
+     * rather than recreating and the WebView keeps its state.
+     */
+    private void setLandscape(boolean on) {
+        runOnUiThread(() -> {
+            setRequestedOrientation(on
+                    ? ActivityInfo.SCREEN_ORIENTATION_SENSOR_LANDSCAPE
+                    : ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED);
+            WindowInsetsControllerCompat w =
+                    WindowCompat.getInsetsController(getWindow(), getWindow().getDecorView());
+            if (on) {
+                w.hide(WindowInsetsCompat.Type.systemBars());
+                w.setSystemBarsBehavior(WindowInsetsControllerCompat
+                        .BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE);
+            } else {
+                w.show(WindowInsetsCompat.Type.systemBars());
+            }
+        });
+    }
+
     private class Bridge {
+        /** Full-screen landscape for the flashcards, and back again. */
+        @JavascriptInterface
+        public void setLandscape(boolean on) {
+            MainActivity.this.setLandscape(on);
+        }
+
         /** The page reports its theme so the bars can match it. */
         @JavascriptInterface
         public void setChrome(String hex, boolean dark) {

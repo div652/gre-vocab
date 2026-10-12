@@ -164,7 +164,8 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-mtn-density-v1` | cards per screen in the Mountain: 1, 2, 4 or 6 |
 | `gre-vocab-mtn-session-v1` | the run in progress, so leaving the mode is a pause |
 | `gre-vocab-mtn-runs-v1` | last 60 finished runs: score and the words missed |
-| `gre-vocab-fc-sel-v1` | the flashcard list last open in Cards |
+| `gre-vocab-fc-sel-v1` | array of flashcard lists selected in Cards |
+| `gre-vocab-fc-shuffle-v1` | whether Cards mixes the chosen lists together |
 
 ### `videos.json`
 
