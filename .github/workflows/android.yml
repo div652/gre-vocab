@@ -45,7 +45,14 @@ jobs:
           test -f out/flashcards.html || { echo "out/flashcards.html missing"; exit 1; }
           mkdir -p android/app/src/main/assets
           cp out/flashcards.html android/app/src/main/assets/flashcards.html
-          ls -lh android/app/src/main/assets/
+          # The flashcard images, so Cards works with no connection like the
+          # rest of the app. Relative URLs resolve the same under the asset
+          # loader's https origin as they do on Pages.
+          if [ -d out/fc ]; then
+            cp -r out/fc android/app/src/main/assets/fc
+            echo "bundled $(ls out/fc | wc -l) flashcard images, $(du -sh out/fc | cut -f1)"
+          fi
+          du -sh android/app/src/main/assets/
 
       - uses: actions/setup-java@v4
         with:

@@ -415,6 +415,29 @@ Placement matters as much as content: synonyms sit directly under the one-line
 definition, above the nuance paragraph, because that is what the sheet is opened
 for. `synonyms.json` is an optional top-up keyed by word, merged on top.
 
+### D-52 — Cards: images bundled, and the card is turned on its side
+A sixth mode showing the GregMat flashcard images, one list at a time, each
+opening with only the word visible.
+
+**Bundled, not fetched.** 19 MB committed and copied into the APK, taking it
+from about 9 MB to roughly 28 MB. The alternative — serving them from Pages
+like the video thumbnails — keeps the APK small but makes the whole feature
+useless on a commute, which is where it would mostly be used.
+
+**The card is rotated 90 degrees.** A 16:9 flashcard fills about a quarter of a
+portrait phone; turned, it fills roughly two thirds. Two things make that work:
+the masks are positioned in percentages of the image, so they rotate with it
+and need no recalculation; and the card is centred by absolute position rather
+than by flow, because a rotated element keeps its **unrotated** box for layout
+and a card wide enough to fill the screen when turned otherwise overflows its
+container and is clipped.
+
+**Sizing is driven by a ResizeObserver, not a timer.** The card is measured
+against a viewport whose height comes from `--hh`, which `measureHeader()` sets
+on a timer after the first paint. Racing that with `requestAnimationFrame`
+produced a card sized against a stale height on first entry but correct after
+any later navigation — the kind of bug that looks intermittent.
+
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to
 Browse and Drill. Measured on a 375px viewport they made the header **452px of

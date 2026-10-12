@@ -30,9 +30,11 @@ difficulty.json
 # Group write-ups are regenerable from cards/ via group.py
 groups/*.tmp
 
-# The web app is copied into the APK at build time by CI; committing a second
-# 4 MB copy would be pure duplication.
+# The web app and the flashcard images are copied into the APK at build time by
+# CI; committing a second copy of either would be pure duplication - and the
+# images are 19 MB.
 android/app/src/main/assets/flashcards.html
+android/app/src/main/assets/fc/
 android/.gradle/
 android/build/
 android/app/build/

@@ -1,0 +1,4066 @@
+{
+"abound": {
+"f": "abound",
+"d": 1
+},
+"amorphous": {
+"f": "amorphous",
+"d": 1
+},
+"austere": {
+"f": "austere",
+"d": 1
+},
+"belie": {
+"f": "belie",
+"d": 1
+},
+"capricious": {
+"f": "capricious",
+"d": 1
+},
+"cerebral": {
+"f": "cerebral",
+"d": 1
+},
+"congenial": {
+"f": "congenial",
+"d": 1
+},
+"conspicuous": {
+"f": "conspicuous",
+"d": 1
+},
+"cursory": {
+"f": "cursory",
+"d": 1
+},
+"daunting": {
+"f": "daunting",
+"d": 1
+},
+"deify": {
+"f": "deify",
+"d": 1
+},
+"didactic": {
+"f": "didactic",
+"d": 1
+},
+"disseminate": {
+"f": "disseminate",
+"d": 1
+},
+"feasible": {
+"f": "feasible",
+"d": 1
+},
+"flout": {
+"f": "flout",
+"d": 1
+},
+"homogeneous": {
+"f": "homogeneous",
+"d": 1
+},
+"humdrum": {
+"f": "humdrum",
+"d": 1
+},
+"insipid": {
+"f": "insipid",
+"d": 1
+},
+"loquacious": {
+"f": "loquacious",
+"d": 1
+},
+"misanthropic": {
+"f": "misanthropic",
+"d": 1
+},
+"misnomer": {
+"f": "misnomer",
+"d": 1
+},
+"negligent": {
+"f": "negligent",
+"d": 1
+},
+"obsequious": {
+"f": "obsequious",
+"d": 1
+},
+"placate": {
+"f": "placate",
+"d": 1
+},
+"proclivity": {
+"f": "proclivity",
+"d": 1
+},
+"puerile": {
+"f": "puerile",
+"d": 1
+},
+"quixotic": {
+"f": "quixotic",
+"d": 1
+},
+"spendthrift": {
+"f": "spendthrift",
+"d": 1
+},
+"taciturn": {
+"f": "taciturn",
+"d": 1
+},
+"wary": {
+"f": "wary",
+"d": 1
+},
+"adulterate": {
+"f": "adulterate",
+"d": 2
+},
+"advocate": {
+"f": "advocate",
+"d": 2
+},
+"aggrandize": {
+"f": "aggrandize",
+"d": 2
+},
+"alacrity": {
+"f": "alacrity",
+"d": 2
+},
+"ambivalent": {
+"f": "ambivalent",
+"d": 2
+},
+"ameliorate": {
+"f": "ameliorate",
+"d": 2
+},
+"amenable": {
+"f": "amenable",
+"d": 2
+},
+"anachronistic": {
+"f": "anachronistic",
+"d": 2
+},
+"audacious": {
+"f": "audacious",
+"d": 2
+},
+"avaricious": {
+"f": "avaricious",
+"d": 2
+},
+"banal": {
+"f": "banal",
+"d": 2
+},
+"benign": {
+"f": "benign",
+"d": 2
+},
+"brazen": {
+"f": "brazen",
+"d": 2
+},
+"calumny": {
+"f": "calumny",
+"d": 2
+},
+"candid": {
+"f": "candid",
+"d": 2
+},
+"castigate": {
+"f": "castigate",
+"d": 2
+},
+"caustic": {
+"f": "caustic",
+"d": 2
+},
+"construe": {
+"f": "construe",
+"d": 2
+},
+"contrite": {
+"f": "contrite",
+"d": 2
+},
+"convoluted": {
+"f": "convoluted",
+"d": 2
+},
+"covet": {
+"f": "covet",
+"d": 2
+},
+"craven": {
+"f": "craven",
+"d": 2
+},
+"decorum": {
+"f": "decorum",
+"d": 2
+},
+"deft": {
+"f": "deft",
+"d": 2
+},
+"demur": {
+"f": "demur",
+"d": 2
+},
+"derivative": {
+"f": "derivative",
+"d": 2
+},
+"desiccate": {
+"f": "desiccate",
+"d": 2
+},
+"diatribe": {
+"f": "diatribe",
+"d": 2
+},
+"incredulous": {
+"f": "incredulous",
+"d": 2
+},
+"ingenuous": {
+"f": "ingenuous",
+"d": 2
+},
+"abate": {
+"f": "abate",
+"d": 3
+},
+"abjure": {
+"f": "abjure",
+"d": 3
+},
+"anomalous": {
+"f": "anomalous",
+"d": 3
+},
+"antipathy": {
+"f": "antipathy",
+"d": 3
+},
+"arcane": {
+"f": "arcane",
+"d": 3
+},
+"arduous": {
+"f": "arduous",
+"d": 3
+},
+"artless": {
+"f": "artless",
+"d": 3
+},
+"ascetic": {
+"f": "ascetic",
+"d": 3
+},
+"assuage": {
+"f": "assuage",
+"d": 3
+},
+"betray": {
+"f": "betray",
+"d": 3
+},
+"bucolic": {
+"f": "bucolic",
+"d": 3
+},
+"burgeon": {
+"f": "burgeon",
+"d": 3
+},
+"cacophonous": {
+"f": "cacophonous",
+"d": 3
+},
+"canonize": {
+"f": "canonize",
+"d": 3
+},
+"censure": {
+"f": "censure",
+"d": 3
+},
+"chicanery": {
+"f": "chicanery",
+"d": 3
+},
+"coalesce": {
+"f": "coalesce",
+"d": 3
+},
+"cogent": {
+"f": "cogent",
+"d": 3
+},
+"compelling": {
+"f": "compelling",
+"d": 3
+},
+"contend": {
+"f": "contend",
+"d": 3
+},
+"copious": {
+"f": "copious",
+"d": 3
+},
+"cosmopolitan": {
+"f": "cosmopolitan",
+"d": 3
+},
+"deference": {
+"f": "deference",
+"d": 3
+},
+"desultory": {
+"f": "desultory",
+"d": 3
+},
+"diffident": {
+"f": "diffident",
+"d": 3
+},
+"dilatory": {
+"f": "dilatory",
+"d": 3
+},
+"equivocate": {
+"f": "equivocate",
+"d": 3
+},
+"polarize": {
+"f": "polarize",
+"d": 3
+},
+"prodigal": {
+"f": "prodigal",
+"d": 3
+},
+"verbose": {
+"f": "verbose",
+"d": 3
+},
+"abstain": {
+"f": "abstain",
+"d": 4
+},
+"approbation": {
+"f": "approbation",
+"d": 4
+},
+"cherish": {
+"f": "cherish",
+"d": 4
+},
+"corroborate": {
+"f": "corroborate",
+"d": 4
+},
+"disparate": {
+"f": "disparate",
+"d": 4
+},
+"emulate": {
+"f": "emulate",
+"d": 4
+},
+"enervate": {
+"f": "enervate",
+"d": 4
+},
+"ephemeral": {
+"f": "ephemeral",
+"d": 4
+},
+"fervid": {
+"f": "fervid",
+"d": 4
+},
+"garrulous": {
+"f": "garrulous",
+"d": 4
+},
+"incendiary": {
+"f": "incendiary",
+"d": 4
+},
+"inimical": {
+"f": "inimical",
+"d": 4
+},
+"intimate": {
+"f": "intimate",
+"d": 4
+},
+"invigorate": {
+"f": "invigorate",
+"d": 4
+},
+"mitigate": {
+"f": "mitigate",
+"d": 4
+},
+"obsolete": {
+"f": "obsolete",
+"d": 4
+},
+"opaque": {
+"f": "opaque",
+"d": 4
+},
+"paradigmatic": {
+"f": "paradigmatic",
+"d": 4
+},
+"pedantic": {
+"f": "pedantic",
+"d": 4
+},
+"placid": {
+"f": "placid",
+"d": 4
+},
+"polemical": {
+"f": "polemical",
+"d": 4
+},
+"precipitate": {
+"f": "precipitate",
+"d": 4
+},
+"profundity": {
+"f": "profundity",
+"d": 4
+},
+"prophetic": {
+"f": "prophetic",
+"d": 4
+},
+"prudent": {
+"f": "prudent",
+"d": 4
+},
+"punctilious": {
+"f": "punctilious",
+"d": 4
+},
+"recondite": {
+"f": "recondite",
+"d": 4
+},
+"scrupulous": {
+"f": "scrupulous",
+"d": 4
+},
+"tranquil": {
+"f": "tranquil",
+"d": 4
+},
+"vacillate": {
+"f": "vacillate",
+"d": 4
+},
+"aloof": {
+"f": "aloof",
+"d": 5
+},
+"clangor": {
+"f": "clangor",
+"d": 5
+},
+"conventional": {
+"f": "conventional",
+"d": 5
+},
+"debunk": {
+"f": "debunk",
+"d": 5
+},
+"diminutive": {
+"f": "diminutive",
+"d": 5
+},
+"discernible": {
+"f": "discernible",
+"d": 5
+},
+"enigmatic": {
+"f": "enigmatic",
+"d": 5
+},
+"estranged": {
+"f": "estranged",
+"d": 5
+},
+"extravagant": {
+"f": "extravagant",
+"d": 5
+},
+"fanciful": {
+"f": "fanciful",
+"d": 5
+},
+"frivolous": {
+"f": "frivolous",
+"d": 5
+},
+"heterogeneous": {
+"f": "heterogeneous",
+"d": 5
+},
+"imperious": {
+"f": "imperious",
+"d": 5
+},
+"impertinent": {
+"f": "impertinent",
+"d": 5
+},
+"invasive": {
+"f": "invasive",
+"d": 5
+},
+"irresolute": {
+"f": "irresolute",
+"d": 5
+},
+"laudable": {
+"f": "laudable",
+"d": 5
+},
+"lax": {
+"f": "lax",
+"d": 5
+},
+"marginalize": {
+"f": "marginalize",
+"d": 5
+},
+"panache": {
+"f": "panache",
+"d": 5
+},
+"plodding": {
+"f": "plodding",
+"d": 5
+},
+"prosaic": {
+"f": "prosaic",
+"d": 5
+},
+"remedial": {
+"f": "remedial",
+"d": 5
+},
+"restive": {
+"f": "restive",
+"d": 5
+},
+"sporadic": {
+"f": "sporadic",
+"d": 5
+},
+"stigmatize": {
+"f": "stigmatize",
+"d": 5
+},
+"undermine": {
+"f": "undermine",
+"d": 5
+},
+"utterly": {
+"f": "utterly",
+"d": 5
+},
+"weary": {
+"f": "weary",
+"d": 5
+},
+"zealous": {
+"f": "zealous",
+"d": 5
+},
+"admonish": {
+"f": "admonish",
+"d": 6
+},
+"aesthetic": {
+"f": "aesthetic",
+"d": 6
+},
+"affectation": {
+"f": "affectation",
+"d": 6
+},
+"alleviate": {
+"f": "alleviate",
+"d": 6
+},
+"analogous": {
+"f": "analogous",
+"d": 6
+},
+"bolster": {
+"f": "bolster",
+"d": 6
+},
+"chauvinistic": {
+"f": "chauvinistic",
+"d": 6
+},
+"connoisseur": {
+"f": "connoisseur",
+"d": 6
+},
+"dissemble": {
+"f": "dissemble",
+"d": 6
+},
+"dogged": {
+"f": "dogged",
+"d": 6
+},
+"dupe": {
+"f": "dupe",
+"d": 6
+},
+"empirical": {
+"f": "empirical",
+"d": 6
+},
+"engender": {
+"f": "engender",
+"d": 6
+},
+"entitled": {
+"f": "entitled",
+"d": 6
+},
+"pertinacious": {
+"f": "pertinacious",
+"d": 6
+},
+"presumptuous": {
+"f": "presumptuous",
+"d": 6
+},
+"probity": {
+"f": "probity",
+"d": 6
+},
+"proliferate": {
+"f": "proliferate",
+"d": 6
+},
+"specious": {
+"f": "specious",
+"d": 6
+},
+"spurious": {
+"f": "spurious",
+"d": 6
+},
+"subjective": {
+"f": "subjective",
+"d": 6
+},
+"subvert": {
+"f": "subvert",
+"d": 6
+},
+"timorous": {
+"f": "timorous",
+"d": 6
+},
+"tortuous": {
+"f": "tortuous",
+"d": 6
+},
+"tractable": {
+"f": "tractable",
+"d": 6
+},
+"transient": {
+"f": "transient",
+"d": 6
+},
+"ubiquitous": {
+"f": "ubiquitous",
+"d": 6
+},
+"underscore": {
+"f": "underscore",
+"d": 6
+},
+"venal": {
+"f": "venal",
+"d": 6
+},
+"venerate": {
+"f": "venerate",
+"d": 6
+},
+"appease": {
+"f": "appease",
+"d": 7
+},
+"arbitrary": {
+"f": "arbitrary",
+"d": 7
+},
+"archaic": {
+"f": "archaic",
+"d": 7
+},
+"clamorous": {
+"f": "clamorous",
+"d": 7
+},
+"dearth": {
+"f": "dearth",
+"d": 7
+},
+"explicable": {
+"f": "explicable",
+"d": 7
+},
+"hyperbole": {
+"f": "hyperbole",
+"d": 7
+},
+"immutable": {
+"f": "immutable",
+"d": 7
+},
+"indefatigable": {
+"f": "indefatigable",
+"d": 7
+},
+"indolent": {
+"f": "indolent",
+"d": 7
+},
+"insular": {
+"f": "insular",
+"d": 7
+},
+"intransigent": {
+"f": "intransigent",
+"d": 7
+},
+"intrepid": {
+"f": "intrepid",
+"d": 7
+},
+"irreverent": {
+"f": "irreverent",
+"d": 7
+},
+"loathe": {
+"f": "loathe",
+"d": 7
+},
+"malign": {
+"f": "malign",
+"d": 7
+},
+"malleable": {
+"f": "malleable",
+"d": 7
+},
+"neophyte": {
+"f": "neophyte",
+"d": 7
+},
+"plastic": {
+"f": "plastic",
+"d": 7
+},
+"platitude": {
+"f": "platitude",
+"d": 7
+},
+"prescient": {
+"f": "prescient",
+"d": 7
+},
+"pristine": {
+"f": "pristine",
+"d": 7
+},
+"reproach": {
+"f": "reproach",
+"d": 7
+},
+"robust": {
+"f": "robust",
+"d": 7
+},
+"salubrious": {
+"f": "salubrious",
+"d": 7
+},
+"sanction": {
+"f": "sanction",
+"d": 7
+},
+"sedulous": {
+"f": "sedulous",
+"d": 7
+},
+"soporific": {
+"f": "soporific",
+"d": 7
+},
+"stern": {
+"f": "stern",
+"d": 7
+},
+"tendentious": {
+"f": "tendentious",
+"d": 7
+},
+"accentuate": {
+"f": "accentuate",
+"d": 8
+},
+"conjectural": {
+"f": "conjectural",
+"d": 8
+},
+"convivial": {
+"f": "convivial",
+"d": 8
+},
+"decadent": {
+"f": "decadent",
+"d": 8
+},
+"egregious": {
+"f": "egregious",
+"d": 8
+},
+"evanescent": {
+"f": "evanescent",
+"d": 8
+},
+"flamboyant": {
+"f": "flamboyant",
+"d": 8
+},
+"forestall": {
+"f": "forestall",
+"d": 8
+},
+"gainsay": {
+"f": "gainsay",
+"d": 8
+},
+"galvanize": {
+"f": "galvanize",
+"d": 8
+},
+"indiscriminate": {
+"f": "indiscriminate",
+"d": 8
+},
+"innocuous": {
+"f": "innocuous",
+"d": 8
+},
+"momentary": {
+"f": "momentary",
+"d": 8
+},
+"mundane": {
+"f": "mundane",
+"d": 8
+},
+"nettlesome": {
+"f": "nettlesome",
+"d": 8
+},
+"nullify": {
+"f": "nullify",
+"d": 8
+},
+"obviate": {
+"f": "obviate",
+"d": 8
+},
+"omnipresent": {
+"f": "omnipresent",
+"d": 8
+},
+"oust": {
+"f": "oust",
+"d": 8
+},
+"palpable": {
+"f": "palpable",
+"d": 8
+},
+"perfidy": {
+"f": "perfidy",
+"d": 8
+},
+"profuse": {
+"f": "profuse",
+"d": 8
+},
+"pugnacious": {
+"f": "pugnacious",
+"d": 8
+},
+"sagacious": {
+"f": "sagacious",
+"d": 8
+},
+"sanguine": {
+"f": "sanguine",
+"d": 8
+},
+"scant": {
+"f": "scant",
+"d": 8
+},
+"skullduggery": {
+"f": "skullduggery",
+"d": 8
+},
+"trivial": {
+"f": "trivial",
+"d": 8
+},
+"utilitarian": {
+"f": "utilitarian",
+"d": 8
+},
+"vapid": {
+"f": "vapid",
+"d": 8
+},
+"boorish": {
+"f": "boorish",
+"d": 9
+},
+"brook": {
+"f": "brook",
+"d": 9
+},
+"circumspect": {
+"f": "circumspect",
+"d": 9
+},
+"comity": {
+"f": "comity",
+"d": 9
+},
+"commensurate": {
+"f": "commensurate",
+"d": 9
+},
+"cordial": {
+"f": "cordial",
+"d": 9
+},
+"deleterious": {
+"f": "deleterious",
+"d": 9
+},
+"dichotomy": {
+"f": "dichotomy",
+"d": 9
+},
+"edify": {
+"f": "edify",
+"d": 9
+},
+"elicit": {
+"f": "elicit",
+"d": 9
+},
+"erudite": {
+"f": "erudite",
+"d": 9
+},
+"fecund": {
+"f": "fecund",
+"d": 9
+},
+"feeble": {
+"f": "feeble",
+"d": 9
+},
+"felicitous": {
+"f": "felicitous",
+"d": 9
+},
+"forbear": {
+"f": "forbear",
+"d": 9
+},
+"haphazard": {
+"f": "haphazard",
+"d": 9
+},
+"hodgepodge": {
+"f": "hodgepodge",
+"d": 9
+},
+"impede": {
+"f": "impede",
+"d": 9
+},
+"impetuous": {
+"f": "impetuous",
+"d": 9
+},
+"irascible": {
+"f": "irascible",
+"d": 9
+},
+"mercenary": {
+"f": "mercenary",
+"d": 9
+},
+"meticulous": {
+"f": "meticulous",
+"d": 9
+},
+"mordant": {
+"f": "mordant",
+"d": 9
+},
+"outstrip": {
+"f": "outstrip",
+"d": 9
+},
+"precarious": {
+"f": "precarious",
+"d": 9
+},
+"quirky": {
+"f": "quirky",
+"d": 9
+},
+"repudiate": {
+"f": "repudiate",
+"d": 9
+},
+"tact": {
+"f": "tact",
+"d": 9
+},
+"trifling": {
+"f": "trifling",
+"d": 9
+},
+"turbulent": {
+"f": "turbulent",
+"d": 9
+},
+"acumen": {
+"f": "acumen",
+"d": 10
+},
+"antithesis": {
+"f": "antithesis",
+"d": 10
+},
+"ascribe": {
+"f": "ascribe",
+"d": 10
+},
+"befuddled": {
+"f": "befuddled",
+"d": 10
+},
+"eschew": {
+"f": "eschew",
+"d": 10
+},
+"esoteric": {
+"f": "esoteric",
+"d": 10
+},
+"evasive": {
+"f": "evasive",
+"d": 10
+},
+"exculpate": {
+"f": "exculpate",
+"d": 10
+},
+"fastidious": {
+"f": "fastidious",
+"d": 10
+},
+"feign": {
+"f": "feign",
+"d": 10
+},
+"furtive": {
+"f": "furtive",
+"d": 10
+},
+"hamper": {
+"f": "hamper",
+"d": 10
+},
+"indispensable": {
+"f": "indispensable",
+"d": 10
+},
+"lament": {
+"f": "lament",
+"d": 10
+},
+"myopic": {
+"f": "myopic",
+"d": 10
+},
+"nonchalant": {
+"f": "nonchalant",
+"d": 10
+},
+"partial": {
+"f": "partial",
+"d": 10
+},
+"pensive": {
+"f": "pensive",
+"d": 10
+},
+"portend": {
+"f": "portend",
+"d": 10
+},
+"provincial": {
+"f": "provincial",
+"d": 10
+},
+"rudimentary": {
+"f": "rudimentary",
+"d": 10
+},
+"salutary": {
+"f": "salutary",
+"d": 10
+},
+"sever": {
+"f": "sever",
+"d": 10
+},
+"slight": {
+"f": "slight",
+"d": 10
+},
+"somnolent": {
+"f": "somnolent",
+"d": 10
+},
+"stoic": {
+"f": "stoic",
+"d": 10
+},
+"supersede": {
+"f": "supersede",
+"d": 10
+},
+"tout": {
+"f": "tout",
+"d": 10
+},
+"wane": {
+"f": "wane",
+"d": 10
+},
+"abhor": {
+"f": "abhor",
+"d": 11
+},
+"boisterous": {
+"f": "boisterous",
+"d": 11
+},
+"chivalrous": {
+"f": "chivalrous",
+"d": 11
+},
+"churlish": {
+"f": "churlish",
+"d": 11
+},
+"clandestine": {
+"f": "clandestine",
+"d": 11
+},
+"complacent": {
+"f": "complacent",
+"d": 11
+},
+"cumbersome": {
+"f": "cumbersome",
+"d": 22
+},
+"debilitating": {
+"f": "debilitating",
+"d": 11
+},
+"deliberate": {
+"f": "deliberate",
+"d": 11
+},
+"droll": {
+"f": "droll",
+"d": 11
+},
+"eccentric": {
+"f": "eccentric",
+"d": 11
+},
+"fractious": {
+"f": "fractious",
+"d": 11
+},
+"limpid": {
+"f": "limpid",
+"d": 11
+},
+"mawkish": {
+"f": "mawkish",
+"d": 11
+},
+"obeisance": {
+"f": "obeisance",
+"d": 11
+},
+"ostentatious": {
+"f": "ostentatious",
+"d": 11
+},
+"panacea": {
+"f": "panacea",
+"d": 11
+},
+"perfunctory": {
+"f": "perfunctory",
+"d": 11
+},
+"perilous": {
+"f": "perilous",
+"d": 11
+},
+"pervasive": {
+"f": "pervasive",
+"d": 11
+},
+"preclude": {
+"f": "preclude",
+"d": 11
+},
+"predilection": {
+"f": "predilection",
+"d": 11
+},
+"rapacious": {
+"f": "rapacious",
+"d": 11
+},
+"relish": {
+"f": "relish",
+"d": 11
+},
+"satirical": {
+"f": "satirical",
+"d": 11
+},
+"sham": {
+"f": "sham",
+"d": 11
+},
+"skirt": {
+"f": "skirt",
+"d": 11
+},
+"sluggish": {
+"f": "sluggish",
+"d": 11
+},
+"spartan": {
+"f": "spartan",
+"d": 11
+},
+"truculent": {
+"f": "truculent",
+"d": 11
+},
+"acrimonious": {
+"f": "acrimonious",
+"d": 12
+},
+"belligerent": {
+"f": "belligerent",
+"d": 12
+},
+"beneficent": {
+"f": "beneficent",
+"d": 12
+},
+"canny": {
+"f": "canny",
+"d": 12
+},
+"cavalier": {
+"f": "cavalier",
+"d": 12
+},
+"distressed": {
+"f": "distressed",
+"d": 12
+},
+"dwindling": {
+"f": "dwindling",
+"d": 12
+},
+"eclipse": {
+"f": "eclipse",
+"d": 12
+},
+"encyclopedic": {
+"f": "encyclopedic",
+"d": 12
+},
+"exacerbate": {
+"f": "exacerbate",
+"d": 12
+},
+"exasperated": {
+"f": "exasperated",
+"d": 12
+},
+"fungible": {
+"f": "fungible",
+"d": 12
+},
+"hackneyed": {
+"f": "hackneyed",
+"d": 12
+},
+"incongruous": {
+"f": "incongruous",
+"d": 12
+},
+"interchangeable": {
+"f": "interchangeable",
+"d": 12
+},
+"laconic": {
+"f": "laconic",
+"d": 12
+},
+"lucrative": {
+"f": "lucrative",
+"d": 12
+},
+"magisterial": {
+"f": "magisterial",
+"d": 12
+},
+"onerous": {
+"f": "onerous",
+"d": 12
+},
+"opprobrium": {
+"f": "opprobrium",
+"d": 12
+},
+"parsimonious": {
+"f": "parsimonious",
+"d": 12
+},
+"peripheral": {
+"f": "peripheral",
+"d": 12
+},
+"provocative": {
+"f": "provocative",
+"d": 12
+},
+"renounce": {
+"f": "renounce",
+"d": 12
+},
+"tempestuous": {
+"f": "tempestuous",
+"d": 12
+},
+"tenable": {
+"f": "tenable",
+"d": 12
+},
+"transgression": {
+"f": "transgression",
+"d": 12
+},
+"urbane": {
+"f": "urbane",
+"d": 12
+},
+"verisimilitude": {
+"f": "verisimilitude",
+"d": 12
+},
+"vitiate": {
+"f": "vitiate",
+"d": 12
+},
+"affinity": {
+"f": "affinity",
+"d": 13
+},
+"altruistic": {
+"f": "altruistic",
+"d": 13
+},
+"baroque": {
+"f": "baroque",
+"d": 13
+},
+"byzantine": {
+"f": "byzantine",
+"d": 13
+},
+"compromise": {
+"f": "compromise",
+"d": 13
+},
+"conciliatory": {
+"f": "conciliatory",
+"d": 13
+},
+"countenance": {
+"f": "countenance",
+"d": 13
+},
+"covert": {
+"f": "covert",
+"d": 13
+},
+"credible": {
+"f": "credible",
+"d": 13
+},
+"diffuse": {
+"f": "diffuse",
+"d": 13
+},
+"documentary": {
+"f": "documentary",
+"d": 13
+},
+"exhaustive": {
+"f": "exhaustive",
+"d": 13
+},
+"exhilarating": {
+"f": "exhilarating",
+"d": 13
+},
+"extraneous": {
+"f": "extraneous",
+"d": 13
+},
+"fervor": {
+"f": "fervor",
+"d": 13
+},
+"futile": {
+"f": "futile",
+"d": 13
+},
+"illusory": {
+"f": "illusory",
+"d": 13
+},
+"invidious": {
+"f": "invidious",
+"d": 13
+},
+"lethargic": {
+"f": "lethargic",
+"d": 13
+},
+"metaphorical": {
+"f": "metaphorical",
+"d": 13
+},
+"mimic": {
+"f": "mimic",
+"d": 13
+},
+"numinous": {
+"f": "numinous",
+"d": 13
+},
+"obscure": {
+"f": "obscure",
+"d": 13
+},
+"overt": {
+"f": "overt",
+"d": 13
+},
+"pellucid": {
+"f": "pellucid",
+"d": 13
+},
+"perpetuate": {
+"f": "perpetuate",
+"d": 13
+},
+"rational": {
+"f": "rational",
+"d": 13
+},
+"scathing": {
+"f": "scathing",
+"d": 13
+},
+"subtle": {
+"f": "subtle",
+"d": 13
+},
+"superficial": {
+"f": "superficial",
+"d": 13
+},
+"acquiesce": {
+"f": "acquiesce",
+"d": 14
+},
+"adroit": {
+"f": "adroit",
+"d": 14
+},
+"amend": {
+"f": "amend",
+"d": 14
+},
+"animus": {
+"f": "animus",
+"d": 14
+},
+"apologist": {
+"f": "apologist",
+"d": 14
+},
+"astringent": {
+"f": "astringent",
+"d": 14
+},
+"collaborate": {
+"f": "collaborate",
+"d": 14
+},
+"competent": {
+"f": "competent",
+"d": 14
+},
+"correlate": {
+"f": "correlate",
+"d": 14
+},
+"deride": {
+"f": "deride",
+"d": 14
+},
+"dictate": {
+"f": "dictate",
+"d": 14
+},
+"discreet": {
+"f": "discreet",
+"d": 14
+},
+"divorced": {
+"f": "divorced",
+"d": 14
+},
+"elitist": {
+"f": "elitist",
+"d": 14
+},
+"exacting": {
+"f": "exacting",
+"d": 14
+},
+"flummoxed": {
+"f": "flummoxed",
+"d": 14
+},
+"fruitful": {
+"f": "fruitful",
+"d": 14
+},
+"inborn": {
+"f": "inborn",
+"d": 14
+},
+"polymath": {
+"f": "polymath",
+"d": 14
+},
+"reticent": {
+"f": "reticent",
+"d": 14
+},
+"stringent": {
+"f": "stringent",
+"d": 14
+},
+"subservient": {
+"f": "subservient",
+"d": 14
+},
+"surreptitious": {
+"f": "surreptitious",
+"d": 14
+},
+"tantalizing": {
+"f": "tantalizing",
+"d": 14
+},
+"tantamount": {
+"f": "tantamount",
+"d": 14
+},
+"torpor": {
+"f": "torpor",
+"d": 14
+},
+"trenchant": {
+"f": "trenchant",
+"d": 14
+},
+"umbrage": {
+"f": "umbrage",
+"d": 14
+},
+"versatile": {
+"f": "versatile",
+"d": 14
+},
+"wayward": {
+"f": "wayward",
+"d": 14
+},
+"alienate": {
+"f": "alienate",
+"d": 15
+},
+"apathy": {
+"f": "apathy",
+"d": 15
+},
+"apropos": {
+"f": "apropos",
+"d": 15
+},
+"apt": {
+"f": "apt",
+"d": 15
+},
+"cloak": {
+"f": "cloak",
+"d": 15
+},
+"consensus": {
+"f": "consensus",
+"d": 15
+},
+"distort": {
+"f": "distort",
+"d": 15
+},
+"divergent": {
+"f": "divergent",
+"d": 15
+},
+"elated": {
+"f": "elated",
+"d": 15
+},
+"enchant": {
+"f": "enchant",
+"d": 15
+},
+"entrenched": {
+"f": "entrenched",
+"d": 15
+},
+"exotic": {
+"f": "exotic",
+"d": 15
+},
+"exploitative": {
+"f": "exploitative",
+"d": 15
+},
+"foreseeable": {
+"f": "foreseeable",
+"d": 15
+},
+"forsake": {
+"f": "forsake",
+"d": 15
+},
+"gratify": {
+"f": "gratify",
+"d": 15
+},
+"heed": {
+"f": "heed",
+"d": 15
+},
+"judicious": {
+"f": "judicious",
+"d": 15
+},
+"lucid": {
+"f": "lucid",
+"d": 15
+},
+"pertinent": {
+"f": "pertinent",
+"d": 15
+},
+"propriety": {
+"f": "propriety",
+"d": 15
+},
+"scintillating": {
+"f": "scintillating",
+"d": 15
+},
+"sensational": {
+"f": "sensational",
+"d": 15
+},
+"sophisticated": {
+"f": "sophisticated",
+"d": 15
+},
+"strife": {
+"f": "strife",
+"d": 15
+},
+"understated": {
+"f": "understated",
+"d": 15
+},
+"unscrupulous": {
+"f": "unscrupulous",
+"d": 15
+},
+"veracity": {
+"f": "veracity",
+"d": 15
+},
+"virulent": {
+"f": "virulent",
+"d": 15
+},
+"antedate": {
+"f": "antedate",
+"d": 16
+},
+"banish": {
+"f": "banish",
+"d": 16
+},
+"bridle": {
+"f": "bridle",
+"d": 16
+},
+"comply": {
+"f": "comply",
+"d": 16
+},
+"crestfallen": {
+"f": "crestfallen",
+"d": 16
+},
+"curtail": {
+"f": "curtail",
+"d": 16
+},
+"elucidate": {
+"f": "elucidate",
+"d": 16
+},
+"evade": {
+"f": "evade",
+"d": 16
+},
+"feckless": {
+"f": "feckless",
+"d": 16
+},
+"fester": {
+"f": "fester",
+"d": 16
+},
+"iconoclastic": {
+"f": "iconoclastic",
+"d": 16
+},
+"immure": {
+"f": "immure",
+"d": 16
+},
+"improvise": {
+"f": "improvise",
+"d": 16
+},
+"inhibit": {
+"f": "inhibit",
+"d": 16
+},
+"inscrutable": {
+"f": "inscrutable",
+"d": 16
+},
+"lionize": {
+"f": "lionize",
+"d": 16
+},
+"monotonous": {
+"f": "monotonous",
+"d": 16
+},
+"peculiar": {
+"f": "peculiar",
+"d": 16
+},
+"premeditate": {
+"f": "premeditate",
+"d": 16
+},
+"profligate": {
+"f": "profligate",
+"d": 16
+},
+"reconcile": {
+"f": "reconcile",
+"d": 16
+},
+"refine": {
+"f": "refine",
+"d": 16
+},
+"relinquish": {
+"f": "relinquish",
+"d": 16
+},
+"ruminate": {
+"f": "ruminate",
+"d": 16
+},
+"skittish": {
+"f": "skittish",
+"d": 16
+},
+"superfluous": {
+"f": "superfluous",
+"d": 16
+},
+"synoptic": {
+"f": "synoptic",
+"d": 16
+},
+"thorough": {
+"f": "thorough",
+"d": 16
+},
+"visionary": {
+"f": "visionary",
+"d": 16
+},
+"vociferous": {
+"f": "vociferous",
+"d": 16
+},
+"acclaim": {
+"f": "acclaim",
+"d": 17
+},
+"ascertain": {
+"f": "ascertain",
+"d": 17
+},
+"assertive": {
+"f": "assertive",
+"d": 17
+},
+"bogus": {
+"f": "bogus",
+"d": 17
+},
+"cataclysmic": {
+"f": "cataclysmic",
+"d": 17
+},
+"circumscribe": {
+"f": "circumscribe",
+"d": 17
+},
+"complementary": {
+"f": "complementary",
+"d": 17
+},
+"contentious": {
+"f": "contentious",
+"d": 17
+},
+"disingenuous": {
+"f": "disingenuous",
+"d": 17
+},
+"divulge": {
+"f": "divulge",
+"d": 17
+},
+"dogmatic": {
+"f": "dogmatic",
+"d": 17
+},
+"fallacious": {
+"f": "fallacious",
+"d": 17
+},
+"foolhardy": {
+"f": "foolhardy",
+"d": 17
+},
+"hinder": {
+"f": "hinder",
+"d": 17
+},
+"impair": {
+"f": "impair",
+"d": 17
+},
+"impugn": {
+"f": "impugn",
+"d": 17
+},
+"incessant": {
+"f": "incessant",
+"d": 17
+},
+"inclined": {
+"f": "inclined",
+"d": 17
+},
+"inveterate": {
+"f": "inveterate",
+"d": 17
+},
+"miserly": {
+"f": "miserly",
+"d": 17
+},
+"patent": {
+"f": "patent",
+"d": 17
+},
+"petulant": {
+"f": "petulant",
+"d": 17
+},
+"pithy": {
+"f": "pithy",
+"d": 17
+},
+"pliant": {
+"f": "pliant",
+"d": 17
+},
+"sanctimonious": {
+"f": "sanctimonious",
+"d": 17
+},
+"sound": {
+"f": "sound",
+"d": 17
+},
+"tarnish": {
+"f": "tarnish",
+"d": 17
+},
+"tepid": {
+"f": "tepid",
+"d": 17
+},
+"upbraid": {
+"f": "upbraid",
+"d": 17
+},
+"vexation": {
+"f": "vexation",
+"d": 17
+},
+"abet": {
+"f": "abet",
+"d": 18
+},
+"accessible": {
+"f": "accessible",
+"d": 18
+},
+"acquisitive": {
+"f": "acquisitive",
+"d": 18
+},
+"amalgamate": {
+"f": "amalgamate",
+"d": 18
+},
+"attenuate": {
+"f": "attenuate",
+"d": 18
+},
+"augment": {
+"f": "augment",
+"d": 18
+},
+"aversion": {
+"f": "aversion",
+"d": 18
+},
+"blithe": {
+"f": "blithe",
+"d": 18
+},
+"contempt": {
+"f": "contempt",
+"d": 18
+},
+"dawdle": {
+"f": "dawdle",
+"d": 18
+},
+"deflect": {
+"f": "deflect",
+"d": 18
+},
+"discount": {
+"f": "discount",
+"d": 18
+},
+"dissident": {
+"f": "dissident",
+"d": 18
+},
+"efficacious": {
+"f": "efficacious",
+"d": 18
+},
+"equitable": {
+"f": "equitable",
+"d": 18
+},
+"erratic": {
+"f": "erratic",
+"d": 18
+},
+"industrious": {
+"f": "industrious",
+"d": 18
+},
+"inform": {
+"f": "inform",
+"d": 18
+},
+"irksome": {
+"f": "irksome",
+"d": 18
+},
+"manacle": {
+"f": "manacle",
+"d": 18
+},
+"modest": {
+"f": "modest",
+"d": 18
+},
+"noxious": {
+"f": "noxious",
+"d": 18
+},
+"pernicious": {
+"f": "pernicious",
+"d": 18
+},
+"predicament": {
+"f": "predicament",
+"d": 18
+},
+"proficient": {
+"f": "proficient",
+"d": 18
+},
+"prolix": {
+"f": "prolix",
+"d": 18
+},
+"scorn": {
+"f": "scorn",
+"d": 18
+},
+"subordinate": {
+"f": "subordinate",
+"d": 18
+},
+"unseemly": {
+"f": "unseemly",
+"d": 18
+},
+"veritable": {
+"f": "veritable",
+"d": 18
+},
+"acolyte": {
+"f": "acolyte",
+"d": 19
+},
+"anoint": {
+"f": "anoint",
+"d": 19
+},
+"base": {
+"f": "base",
+"d": 19
+},
+"coercion": {
+"f": "coercion",
+"d": 19
+},
+"coin": {
+"f": "coin",
+"d": 19
+},
+"cunning": {
+"f": "cunning",
+"d": 19
+},
+"discomfit": {
+"f": "discomfit",
+"d": 19
+},
+"dissent": {
+"f": "dissent",
+"d": 19
+},
+"distill": {
+"f": "distill",
+"d": 19
+},
+"dubious": {
+"f": "dubious",
+"d": 19
+},
+"ebullient": {
+"f": "ebullient",
+"d": 19
+},
+"facetious": {
+"f": "facetious",
+"d": 19
+},
+"fallible": {
+"f": "fallible",
+"d": 19
+},
+"florid": {
+"f": "florid",
+"d": 19
+},
+"gawky": {
+"f": "gawky",
+"d": 19
+},
+"inveigle": {
+"f": "inveigle",
+"d": 19
+},
+"jettison": {
+"f": "jettison",
+"d": 19
+},
+"mendacity": {
+"f": "mendacity",
+"d": 19
+},
+"munificent": {
+"f": "munificent",
+"d": 19
+},
+"naive": {
+"f": "naive",
+"d": 19
+},
+"noble": {
+"f": "noble",
+"d": 19
+},
+"parochial": {
+"f": "parochial",
+"d": 19
+},
+"pedestrian": {
+"f": "pedestrian",
+"d": 19
+},
+"prevaricate": {
+"f": "prevaricate",
+"d": 19
+},
+"prime": {
+"f": "prime",
+"d": 19
+},
+"radical": {
+"f": "radical",
+"d": 19
+},
+"recrudescent": {
+"f": "recrudescent",
+"d": 19
+},
+"temporal": {
+"f": "temporal",
+"d": 19
+},
+"transitory": {
+"f": "transitory",
+"d": 19
+},
+"viable": {
+"f": "viable",
+"d": 19
+},
+"abreast": {
+"f": "abreast",
+"d": 20
+},
+"confound": {
+"f": "confound",
+"d": 20
+},
+"digression": {
+"f": "digression",
+"d": 20
+},
+"discrepancy": {
+"f": "discrepancy",
+"d": 20
+},
+"duplicitous": {
+"f": "duplicitous",
+"d": 20
+},
+"expedient": {
+"f": "expedient",
+"d": 20
+},
+"fabricate": {
+"f": "fabricate",
+"d": 20
+},
+"glum": {
+"f": "glum",
+"d": 20
+},
+"harbinger": {
+"f": "harbinger",
+"d": 20
+},
+"intrinsic": {
+"f": "intrinsic",
+"d": 20
+},
+"largesse": {
+"f": "largesse",
+"d": 20
+},
+"libertine": {
+"f": "libertine",
+"d": 20
+},
+"malfeasance": {
+"f": "malfeasance",
+"d": 20
+},
+"manifest": {
+"f": "manifest",
+"d": 20
+},
+"minute": {
+"f": "minute",
+"d": 20
+},
+"modish": {
+"f": "modish",
+"d": 20
+},
+"nascent": {
+"f": "nascent",
+"d": 20
+},
+"perennial": {
+"f": "perennial",
+"d": 20
+},
+"pious": {
+"f": "pious",
+"d": 20
+},
+"providential": {
+"f": "providential",
+"d": 20
+},
+"prowess": {
+"f": "prowess",
+"d": 20
+},
+"schism": {
+"f": "schism",
+"d": 20
+},
+"slander": {
+"f": "slander",
+"d": 20
+},
+"stalwart": {
+"f": "stalwart",
+"d": 20
+},
+"supplicate": {
+"f": "supplicate",
+"d": 20
+},
+"terse": {
+"f": "terse",
+"d": 20
+},
+"tirade": {
+"f": "tirade",
+"d": 20
+},
+"universal": {
+"f": "universal",
+"d": 20
+},
+"vanquish": {
+"f": "vanquish",
+"d": 20
+},
+"woeful": {
+"f": "woeful",
+"d": 20
+},
+"abject": {
+"f": "abject",
+"d": 21
+},
+"amicable": {
+"f": "amicable",
+"d": 21
+},
+"animosity": {
+"f": "animosity",
+"d": 21
+},
+"aver": {
+"f": "aver",
+"d": 21
+},
+"barrage": {
+"f": "barrage",
+"d": 21
+},
+"cathartic": {
+"f": "cathartic",
+"d": 21
+},
+"decipher": {
+"f": "decipher",
+"d": 21
+},
+"delusion": {
+"f": "delusion",
+"d": 21
+},
+"dispense": {
+"f": "dispense",
+"d": 21
+},
+"eloquent": {
+"f": "eloquent",
+"d": 21
+},
+"enthrall": {
+"f": "enthrall",
+"d": 21
+},
+"eradicate": {
+"f": "eradicate",
+"d": 21
+},
+"fledgling": {
+"f": "fledgling",
+"d": 21
+},
+"fortitude": {
+"f": "fortitude",
+"d": 21
+},
+"fortuitous": {
+"f": "fortuitous",
+"d": 21
+},
+"goad": {
+"f": "goad",
+"d": 21
+},
+"imminent": {
+"f": "imminent",
+"d": 21
+},
+"incontrovertible": {
+"f": "incontrovertible",
+"d": 21
+},
+"itinerant": {
+"f": "itinerant",
+"d": 21
+},
+"magnanimous": {
+"f": "magnanimous",
+"d": 21
+},
+"meritorious": {
+"f": "meritorious",
+"d": 21
+},
+"mutiny": {
+"f": "mutiny",
+"d": 21
+},
+"paradoxical": {
+"f": "paradoxical",
+"d": 21
+},
+"perseverance": {
+"f": "perseverance",
+"d": 21
+},
+"render": {
+"f": "render",
+"d": 21
+},
+"repertoire": {
+"f": "repertoire",
+"d": 21
+},
+"resilient": {
+"f": "resilient",
+"d": 21
+},
+"resolute": {
+"f": "resolute",
+"d": 21
+},
+"supple": {
+"f": "supple",
+"d": 21
+},
+"valor": {
+"f": "valor",
+"d": 21
+},
+"arresting": {
+"f": "arresting",
+"d": 22
+},
+"chastise": {
+"f": "chastise",
+"d": 22
+},
+"economy": {
+"f": "economy",
+"d": 22
+},
+"elementary": {
+"f": "elementary",
+"d": 22
+},
+"embellish": {
+"f": "embellish",
+"d": 22
+},
+"euphoric": {
+"f": "euphoric",
+"d": 22
+},
+"exonerate": {
+"f": "exonerate",
+"d": 22
+},
+"extrapolate": {
+"f": "extrapolate",
+"d": 22
+},
+"falter": {
+"f": "falter",
+"d": 22
+},
+"fervent": {
+"f": "fervent",
+"d": 22
+},
+"foment": {
+"f": "foment",
+"d": 22
+},
+"gaffe": {
+"f": "gaffe",
+"d": 22
+},
+"heterodox": {
+"f": "heterodox",
+"d": 22
+},
+"histrionic": {
+"f": "histrionic",
+"d": 22
+},
+"implicit": {
+"f": "implicit",
+"d": 22
+},
+"inviolate": {
+"f": "inviolate",
+"d": 22
+},
+"liability": {
+"f": "liability",
+"d": 22
+},
+"obstinate": {
+"f": "obstinate",
+"d": 22
+},
+"painstaking": {
+"f": "painstaking",
+"d": 22
+},
+"phlegmatic": {
+"f": "phlegmatic",
+"d": 22
+},
+"prodigious": {
+"f": "prodigious",
+"d": 22
+},
+"propensity": {
+"f": "propensity",
+"d": 22
+},
+"qualm": {
+"f": "qualm",
+"d": 22
+},
+"renege": {
+"f": "renege",
+"d": 22
+},
+"stinting": {
+"f": "stinting",
+"d": 22
+},
+"temper": {
+"f": "temper",
+"d": 22
+},
+"tentative": {
+"f": "tentative",
+"d": 22
+},
+"unprecedented": {
+"f": "unprecedented",
+"d": 22
+},
+"vivacious": {
+"f": "vivacious",
+"d": 22
+},
+"allusive": {
+"f": "allusive",
+"d": 23
+},
+"astute": {
+"f": "astute",
+"d": 23
+},
+"commence": {
+"f": "commence",
+"d": 23
+},
+"convalescent": {
+"f": "convalescent",
+"d": 23
+},
+"curb": {
+"f": "curb",
+"d": 23
+},
+"decry": {
+"f": "decry",
+"d": 23
+},
+"duress": {
+"f": "duress",
+"d": 23
+},
+"evoke": {
+"f": "evoke",
+"d": 23
+},
+"fawn": {
+"f": "fawn",
+"d": 23
+},
+"fret": {
+"f": "fret",
+"d": 23
+},
+"glib": {
+"f": "glib",
+"d": 23
+},
+"headstrong": {
+"f": "headstrong",
+"d": 23
+},
+"intermittent": {
+"f": "intermittent",
+"d": 23
+},
+"ire": {
+"f": "ire",
+"d": 23
+},
+"languid": {
+"f": "languid",
+"d": 23
+},
+"lull": {
+"f": "lull",
+"d": 23
+},
+"mettlesome": {
+"f": "mettlesome",
+"d": 23
+},
+"mollify": {
+"f": "mollify",
+"d": 23
+},
+"neutralize": {
+"f": "neutralize",
+"d": 23
+},
+"nonplussed": {
+"f": "nonplussed",
+"d": 23
+},
+"precipitous": {
+"f": "precipitous",
+"d": 23
+},
+"pretentious": {
+"f": "pretentious",
+"d": 23
+},
+"profound": {
+"f": "profound",
+"d": 23
+},
+"propagate": {
+"f": "propagate",
+"d": 23
+},
+"recourse": {
+"f": "recourse",
+"d": 23
+},
+"refute": {
+"f": "refute",
+"d": 23
+},
+"regress": {
+"f": "regress",
+"d": 23
+},
+"repercussion": {
+"f": "repercussion",
+"d": 23
+},
+"replenish": {
+"f": "replenish",
+"d": 23
+},
+"vigilant": {
+"f": "vigilant",
+"d": 23
+},
+"assail": {
+"f": "assail",
+"d": 24
+},
+"benevolent": {
+"f": "benevolent",
+"d": 24
+},
+"berate": {
+"f": "berate",
+"d": 24
+},
+"buoyant": {
+"f": "buoyant",
+"d": 24
+},
+"buttress": {
+"f": "buttress",
+"d": 24
+},
+"condone": {
+"f": "condone",
+"d": 24
+},
+"contravene": {
+"f": "contravene",
+"d": 24
+},
+"denounce": {
+"f": "denounce",
+"d": 24
+},
+"despotic": {
+"f": "despotic",
+"d": 24
+},
+"deviate": {
+"f": "deviate",
+"d": 24
+},
+"disinterested": {
+"f": "disinterested",
+"d": 24
+},
+"escalate": {
+"f": "escalate",
+"d": 24
+},
+"exorcise": {
+"f": "exorcise",
+"d": 24
+},
+"finicky": {
+"f": "finicky",
+"d": 24
+},
+"foil": {
+"f": "foil",
+"d": 24
+},
+"intertwined": {
+"f": "intertwined",
+"d": 24
+},
+"inundate": {
+"f": "inundate",
+"d": 24
+},
+"ironclad": {
+"f": "ironclad",
+"d": 24
+},
+"jeopardize": {
+"f": "jeopardize",
+"d": 24
+},
+"mercurial": {
+"f": "mercurial",
+"d": 24
+},
+"oblivious": {
+"f": "oblivious",
+"d": 24
+},
+"perpetrate": {
+"f": "perpetrate",
+"d": 24
+},
+"plaintive": {
+"f": "plaintive",
+"d": 24
+},
+"poignant": {
+"f": "poignant",
+"d": 24
+},
+"quiescent": {
+"f": "quiescent",
+"d": 24
+},
+"reiterate": {
+"f": "reiterate",
+"d": 24
+},
+"subside": {
+"f": "subside",
+"d": 24
+},
+"subsume": {
+"f": "subsume",
+"d": 24
+},
+"surmount": {
+"f": "surmount",
+"d": 24
+},
+"tangential": {
+"f": "tangential",
+"d": 24
+},
+"adept": {
+"f": "adept",
+"d": 25
+},
+"adverse": {
+"f": "adverse",
+"d": 25
+},
+"appropriate": {
+"f": "appropriate",
+"d": 25
+},
+"archetype": {
+"f": "archetype",
+"d": 25
+},
+"articulate": {
+"f": "articulate",
+"d": 25
+},
+"auspicious": {
+"f": "auspicious",
+"d": 25
+},
+"bereft": {
+"f": "bereft",
+"d": 25
+},
+"captious": {
+"f": "captious",
+"d": 25
+},
+"conclusive": {
+"f": "conclusive",
+"d": 25
+},
+"conspire": {
+"f": "conspire",
+"d": 25
+},
+"delineate": {
+"f": "delineate",
+"d": 25
+},
+"disentangle": {
+"f": "disentangle",
+"d": 25
+},
+"exhort": {
+"f": "exhort",
+"d": 25
+},
+"frailty": {
+"f": "frailty",
+"d": 25
+},
+"grievance": {
+"f": "grievance",
+"d": 25
+},
+"harangue": {
+"f": "harangue",
+"d": 25
+},
+"ploy": {
+"f": "ploy",
+"d": 25
+},
+"poise": {
+"f": "poise",
+"d": 25
+},
+"pomposity": {
+"f": "pomposity",
+"d": 25
+},
+"proxy": {
+"f": "proxy",
+"d": 25
+},
+"relent": {
+"f": "relent",
+"d": 25
+},
+"rhetoric": {
+"f": "rhetoric",
+"d": 25
+},
+"rigor": {
+"f": "rigor",
+"d": 25
+},
+"sparse": {
+"f": "sparse",
+"d": 25
+},
+"steadfast": {
+"f": "steadfast",
+"d": 25
+},
+"suspect": {
+"f": "suspect",
+"d": 25
+},
+"tedious": {
+"f": "tedious",
+"d": 25
+},
+"vitality": {
+"f": "vitality",
+"d": 25
+},
+"whimsical": {
+"f": "whimsical",
+"d": 25
+},
+"yield": {
+"f": "yield",
+"d": 25
+},
+"apprehension": {
+"f": "apprehension",
+"d": 26
+},
+"ardent": {
+"f": "ardent",
+"d": 26
+},
+"axiomatic": {
+"f": "axiomatic",
+"d": 26
+},
+"cease": {
+"f": "cease",
+"d": 26
+},
+"conducive": {
+"f": "conducive",
+"d": 26
+},
+"corporeal": {
+"f": "corporeal",
+"d": 26
+},
+"doctrinaire": {
+"f": "doctrinaire",
+"d": 26
+},
+"eclectic": {
+"f": "eclectic",
+"d": 26
+},
+"equanimity": {
+"f": "equanimity",
+"d": 26
+},
+"exorbitant": {
+"f": "exorbitant",
+"d": 26
+},
+"fickle": {
+"f": "fickle",
+"d": 26
+},
+"figurative": {
+"f": "figurative",
+"d": 26
+},
+"flustered": {
+"f": "flustered",
+"d": 26
+},
+"gullible": {
+"f": "gullible",
+"d": 26
+},
+"idiosyncratic": {
+"f": "idiosyncratic",
+"d": 26
+},
+"incidental": {
+"f": "incidental",
+"d": 26
+},
+"ingrained": {
+"f": "ingrained",
+"d": 26
+},
+"insolent": {
+"f": "insolent",
+"d": 26
+},
+"lampoon": {
+"f": "lampoon",
+"d": 26
+},
+"lavish": {
+"f": "lavish",
+"d": 26
+},
+"lugubrious": {
+"f": "lugubrious",
+"d": 26
+},
+"macabre": {
+"f": "macabre",
+"d": 26
+},
+"morose": {
+"f": "morose",
+"d": 26
+},
+"officious": {
+"f": "officious",
+"d": 26
+},
+"ramification": {
+"f": "ramification",
+"d": 26
+},
+"serene": {
+"f": "serene",
+"d": 26
+},
+"supplant": {
+"f": "supplant",
+"d": 26
+},
+"tacit": {
+"f": "tacit",
+"d": 26
+},
+"transcend": {
+"f": "transcend",
+"d": 26
+},
+"treatise": {
+"f": "treatise",
+"d": 26
+},
+"antagonize": {
+"f": "antagonize",
+"d": 27
+},
+"barren": {
+"f": "barren",
+"d": 27
+},
+"bombastic": {
+"f": "bombastic",
+"d": 27
+},
+"cajole": {
+"f": "cajole",
+"d": 27
+},
+"chary": {
+"f": "chary",
+"d": 27
+},
+"curmudgeon": {
+"f": "curmudgeon",
+"d": 27
+},
+"dirge": {
+"f": "dirge",
+"d": 27
+},
+"estimable": {
+"f": "estimable",
+"d": 27
+},
+"euphemism": {
+"f": "euphemism",
+"d": 27
+},
+"excoriate": {
+"f": "excoriate",
+"d": 27
+},
+"exigent": {
+"f": "exigent",
+"d": 27
+},
+"haughty": {
+"f": "haughty",
+"d": 27
+},
+"heady": {
+"f": "heady",
+"d": 27
+},
+"imperturbable": {
+"f": "imperturbable",
+"d": 27
+},
+"implacable": {
+"f": "implacable",
+"d": 27
+},
+"lambaste": {
+"f": "lambaste",
+"d": 27
+},
+"miscreant": {
+"f": "miscreant",
+"d": 27
+},
+"peccadillo": {
+"f": "peccadillo",
+"d": 27
+},
+"philistine": {
+"f": "philistine",
+"d": 27
+},
+"relegate": {
+"f": "relegate",
+"d": 27
+},
+"repugnant": {
+"f": "repugnant",
+"d": 27
+},
+"sentimental": {
+"f": "sentimental",
+"d": 27
+},
+"squander": {
+"f": "squander",
+"d": 27
+},
+"swindle": {
+"f": "swindle",
+"d": 27
+},
+"tangible": {
+"f": "tangible",
+"d": 27
+},
+"turpitude": {
+"f": "turpitude",
+"d": 27
+},
+"unalloyed": {
+"f": "unalloyed",
+"d": 27
+},
+"undercut": {
+"f": "undercut",
+"d": 27
+},
+"wheedle": {
+"f": "wheedle",
+"d": 27
+},
+"xenophobic": {
+"f": "xenophobic",
+"d": 27
+},
+"abeyance": {
+"f": "abeyance",
+"d": 28
+},
+"abstract": {
+"f": "abstract",
+"d": 28
+},
+"affront": {
+"f": "affront",
+"d": 28
+},
+"agitate": {
+"f": "agitate",
+"d": 28
+},
+"august": {
+"f": "august",
+"d": 28
+},
+"burnish": {
+"f": "burnish",
+"d": 28
+},
+"coy": {
+"f": "coy",
+"d": 28
+},
+"deprecate": {
+"f": "deprecate",
+"d": 28
+},
+"disdain": {
+"f": "disdain",
+"d": 28
+},
+"disperse": {
+"f": "disperse",
+"d": 28
+},
+"distend": {
+"f": "distend",
+"d": 28
+},
+"endemic": {
+"f": "endemic",
+"d": 28
+},
+"enmity": {
+"f": "enmity",
+"d": 28
+},
+"gauche": {
+"f": "gauche",
+"d": 28
+},
+"hysterical": {
+"f": "hysterical",
+"d": 28
+},
+"impudent": {
+"f": "impudent",
+"d": 28
+},
+"inchoate": {
+"f": "inchoate",
+"d": 28
+},
+"penchant": {
+"f": "penchant",
+"d": 28
+},
+"quandary": {
+"f": "quandary",
+"d": 28
+},
+"quarantine": {
+"f": "quarantine",
+"d": 28
+},
+"quash": {
+"f": "quash",
+"d": 28
+},
+"quibble": {
+"f": "quibble",
+"d": 28
+},
+"ravage": {
+"f": "ravage",
+"d": 28
+},
+"recant": {
+"f": "recant",
+"d": 28
+},
+"redoubtable": {
+"f": "redoubtable",
+"d": 28
+},
+"retiring": {
+"f": "retiring",
+"d": 28
+},
+"shrill": {
+"f": "shrill",
+"d": 28
+},
+"sophistry": {
+"f": "sophistry",
+"d": 28
+},
+"substantiate": {
+"f": "substantiate",
+"d": 28
+},
+"wily": {
+"f": "wily",
+"d": 28
+},
+"abscond": {
+"f": "abscond",
+"d": 29
+},
+"apogee": {
+"f": "apogee",
+"d": 29
+},
+"aspersion": {
+"f": "aspersion",
+"d": 29
+},
+"bawdy": {
+"f": "bawdy",
+"d": 29
+},
+"chagrin": {
+"f": "chagrin",
+"d": 29
+},
+"collude": {
+"f": "collude",
+"d": 29
+},
+"commiserate": {
+"f": "commiserate",
+"d": 29
+},
+"conflagration": {
+"f": "conflagration",
+"d": 29
+},
+"contretemps": {
+"f": "contretemps",
+"d": 29
+},
+"conviction": {
+"f": "conviction",
+"d": 29
+},
+"croon": {
+"f": "croon",
+"d": 29
+},
+"depose": {
+"f": "depose",
+"d": 29
+},
+"dowdy": {
+"f": "dowdy",
+"d": 29
+},
+"echelon": {
+"f": "echelon",
+"d": 29
+},
+"ennui": {
+"f": "ennui",
+"d": 29
+},
+"expatiate": {
+"f": "expatiate",
+"d": 29
+},
+"fraught": {
+"f": "fraught",
+"d": 29
+},
+"fulcrum": {
+"f": "fulcrum",
+"d": 29
+},
+"imbroglio": {
+"f": "imbroglio",
+"d": 29
+},
+"jocund": {
+"f": "jocund",
+"d": 29
+},
+"languish": {
+"f": "languish",
+"d": 29
+},
+"nadir": {
+"f": "nadir",
+"d": 29
+},
+"nimble": {
+"f": "nimble",
+"d": 29
+},
+"ominous": {
+"f": "ominous",
+"d": 29
+},
+"outlandish": {
+"f": "outlandish",
+"d": 29
+},
+"propitious": {
+"f": "propitious",
+"d": 29
+},
+"prurient": {
+"f": "prurient",
+"d": 29
+},
+"sadistic": {
+"f": "sadistic",
+"d": 29
+},
+"zenith": {
+"f": "zenith",
+"d": 29
+},
+"aberrant": {
+"f": "aberrant",
+"d": 30
+},
+"abide": {
+"f": "abide",
+"d": 30
+},
+"bravado": {
+"f": "bravado",
+"d": 30
+},
+"callow": {
+"f": "callow",
+"d": 30
+},
+"capitulate": {
+"f": "capitulate",
+"d": 30
+},
+"cogitate": {
+"f": "cogitate",
+"d": 30
+},
+"deportment": {
+"f": "deportment",
+"d": 30
+},
+"extemporize": {
+"f": "extemporize",
+"d": 30
+},
+"factious": {
+"f": "factious",
+"d": 30
+},
+"fallow": {
+"f": "fallow",
+"d": 30
+},
+"feint": {
+"f": "feint",
+"d": 30
+},
+"flagrant": {
+"f": "flagrant",
+"d": 30
+},
+"gratuitous": {
+"f": "gratuitous",
+"d": 30
+},
+"grovel": {
+"f": "grovel",
+"d": 30
+},
+"indecorous": {
+"f": "indecorous",
+"d": 30
+},
+"intrigue": {
+"f": "intrigue",
+"d": 30
+},
+"nominal": {
+"f": "nominal",
+"d": 30
+},
+"obdurate": {
+"f": "obdurate",
+"d": 30
+},
+"obstreperous": {
+"f": "obstreperous",
+"d": 30
+},
+"odious": {
+"f": "odious",
+"d": 30
+},
+"plucky": {
+"f": "plucky",
+"d": 30
+},
+"precocious": {
+"f": "precocious",
+"d": 30
+},
+"remuneration": {
+"f": "remuneration",
+"d": 30
+},
+"slovenly": {
+"f": "slovenly",
+"d": 30
+},
+"soliloquy": {
+"f": "soliloquy",
+"d": 30
+},
+"spurn": {
+"f": "spurn",
+"d": 30
+},
+"stolid": {
+"f": "stolid",
+"d": 30
+},
+"temerity": {
+"f": "temerity",
+"d": 30
+},
+"tenuous": {
+"f": "tenuous",
+"d": 30
+},
+"verve": {
+"f": "verve",
+"d": 30
+},
+"abrogate": {
+"f": "abrogate",
+"d": 31
+},
+"aghast": {
+"f": "aghast",
+"d": 31
+},
+"apprise": {
+"f": "apprise",
+"d": 31
+},
+"beguile": {
+"f": "beguile",
+"d": 31
+},
+"boon": {
+"f": "boon",
+"d": 31
+},
+"callous": {
+"f": "callous",
+"d": 31
+},
+"coddle": {
+"f": "coddle",
+"d": 31
+},
+"crescendo": {
+"f": "crescendo",
+"d": 31
+},
+"extenuating": {
+"f": "extenuating",
+"d": 31
+},
+"frenetic": {
+"f": "frenetic",
+"d": 31
+},
+"fringe": {
+"f": "fringe",
+"d": 31
+},
+"hapless": {
+"f": "hapless",
+"d": 31
+},
+"immaculate": {
+"f": "immaculate",
+"d": 31
+},
+"obfuscate": {
+"f": "obfuscate",
+"d": 31
+},
+"ossify": {
+"f": "ossify",
+"d": 31
+},
+"pastiche": {
+"f": "pastiche",
+"d": 31
+},
+"perspicacious": {
+"f": "perspicacious",
+"d": 31
+},
+"ponderous": {
+"f": "ponderous",
+"d": 31
+},
+"recluse": {
+"f": "recluse",
+"d": 31
+},
+"retaliate": {
+"f": "retaliate",
+"d": 31
+},
+"rhapsody": {
+"f": "rhapsody",
+"d": 31
+},
+"serendipitous": {
+"f": "serendipitous",
+"d": 31
+},
+"shirk": {
+"f": "shirk",
+"d": 31
+},
+"sinecure": {
+"f": "sinecure",
+"d": 31
+},
+"sinuous": {
+"f": "sinuous",
+"d": 31
+},
+"sordid": {
+"f": "sordid",
+"d": 31
+},
+"stanch": {
+"f": "stanch",
+"d": 31
+},
+"surfeit": {
+"f": "surfeit",
+"d": 31
+},
+"ulterior": {
+"f": "ulterior",
+"d": 31
+},
+"voluble": {
+"f": "voluble",
+"d": 31
+},
+"abstruse": {
+"f": "abstruse",
+"d": 32
+},
+"auxiliary": {
+"f": "auxiliary",
+"d": 32
+},
+"caricature": {
+"f": "caricature",
+"d": 32
+},
+"depravity": {
+"f": "depravity",
+"d": 32
+},
+"dilettante": {
+"f": "dilettante",
+"d": 32
+},
+"effrontery": {
+"f": "effrontery",
+"d": 32
+},
+"encroach": {
+"f": "encroach",
+"d": 32
+},
+"endow": {
+"f": "endow",
+"d": 32
+},
+"entreat": {
+"f": "entreat",
+"d": 32
+},
+"gregarious": {
+"f": "gregarious",
+"d": 32
+},
+"indictment": {
+"f": "indictment",
+"d": 32
+},
+"indignant": {
+"f": "indignant",
+"d": 32
+},
+"ineluctable": {
+"f": "ineluctable",
+"d": 32
+},
+"inquisitive": {
+"f": "inquisitive",
+"d": 32
+},
+"latitude": {
+"f": "latitude",
+"d": 32
+},
+"levity": {
+"f": "levity",
+"d": 32
+},
+"malevolent": {
+"f": "malevolent",
+"d": 32
+},
+"mediate": {
+"f": "mediate",
+"d": 32
+},
+"occlude": {
+"f": "occlude",
+"d": 32
+},
+"pacify": {
+"f": "pacify",
+"d": 32
+},
+"paragon": {
+"f": "paragon",
+"d": 32
+},
+"patronize": {
+"f": "patronize",
+"d": 32
+},
+"penurious": {
+"f": "penurious",
+"d": 32
+},
+"piquant": {
+"f": "piquant",
+"d": 32
+},
+"rampant": {
+"f": "rampant",
+"d": 32
+},
+"remote": {
+"f": "remote",
+"d": 32
+},
+"reprobate": {
+"f": "reprobate",
+"d": 32
+},
+"turbid": {
+"f": "turbid",
+"d": 32
+},
+"turgid": {
+"f": "turgid",
+"d": 32
+},
+"vacuous": {
+"f": "vacuous",
+"d": 32
+},
+"affluent": {
+"f": "affluent",
+"d": 33
+},
+"allegorical": {
+"f": "allegorical",
+"d": 33
+},
+"allude": {
+"f": "allude",
+"d": 33
+},
+"amplify": {
+"f": "amplify",
+"d": 33
+},
+"catastrophic": {
+"f": "catastrophic",
+"d": 33
+},
+"contemporary": {
+"f": "contemporary",
+"d": 33
+},
+"conundrum": {
+"f": "conundrum",
+"d": 33
+},
+"defame": {
+"f": "defame",
+"d": 33
+},
+"detract": {
+"f": "detract",
+"d": 33
+},
+"detrimental": {
+"f": "detrimental",
+"d": 33
+},
+"devious": {
+"f": "devious",
+"d": 33
+},
+"dormant": {
+"f": "dormant",
+"d": 33
+},
+"draconian": {
+"f": "draconian",
+"d": 33
+},
+"egalitarian": {
+"f": "egalitarian",
+"d": 33
+},
+"elusive": {
+"f": "elusive",
+"d": 33
+},
+"erstwhile": {
+"f": "erstwhile",
+"d": 33
+},
+"gloat": {
+"f": "gloat",
+"d": 33
+},
+"harrowing": {
+"f": "harrowing",
+"d": 33
+},
+"indefinite": {
+"f": "indefinite",
+"d": 33
+},
+"ingenious": {
+"f": "ingenious",
+"d": 33
+},
+"keen": {
+"f": "keen",
+"d": 33
+},
+"multifaceted": {
+"f": "multifaceted",
+"d": 33
+},
+"omniscient": {
+"f": "omniscient",
+"d": 33
+},
+"remarkable": {
+"f": "remarkable",
+"d": 33
+},
+"sober": {
+"f": "sober",
+"d": 33
+},
+"stem from": {
+"f": "stem_from",
+"d": 33
+},
+"subdued": {
+"f": "subdued",
+"d": 33
+},
+"token": {
+"f": "token",
+"d": 33
+},
+"unravel": {
+"f": "unravel",
+"d": 33
+},
+"withstand": {
+"f": "withstand",
+"d": 33
+},
+"abrasive": {
+"f": "abrasive",
+"d": 34
+},
+"artful": {
+"f": "artful",
+"d": 34
+},
+"avert": {
+"f": "avert",
+"d": 34
+},
+"avid": {
+"f": "avid",
+"d": 34
+},
+"brevity": {
+"f": "brevity",
+"d": 34
+},
+"bromide": {
+"f": "bromide",
+"d": 34
+},
+"circumstantial": {
+"f": "circumstantial",
+"d": 34
+},
+"cloying": {
+"f": "cloying",
+"d": 34
+},
+"counterfeit": {
+"f": "counterfeit",
+"d": 34
+},
+"denigrate": {
+"f": "denigrate",
+"d": 34
+},
+"disciple": {
+"f": "disciple",
+"d": 34
+},
+"extol": {
+"f": "extol",
+"d": 34
+},
+"forebode": {
+"f": "forebode",
+"d": 34
+},
+"ideologue": {
+"f": "ideologue",
+"d": 34
+},
+"impediment": {
+"f": "impediment",
+"d": 34
+},
+"imperative": {
+"f": "imperative",
+"d": 34
+},
+"impulsive": {
+"f": "impulsive",
+"d": 34
+},
+"interminable": {
+"f": "interminable",
+"d": 34
+},
+"intuitive": {
+"f": "intuitive",
+"d": 34
+},
+"lassitude": {
+"f": "lassitude",
+"d": 34
+},
+"omit": {
+"f": "omit",
+"d": 34
+},
+"ornate": {
+"f": "ornate",
+"d": 34
+},
+"paltry": {
+"f": "paltry",
+"d": 34
+},
+"pejorative": {
+"f": "pejorative",
+"d": 34
+},
+"prefigure": {
+"f": "prefigure",
+"d": 34
+},
+"presage": {
+"f": "presage",
+"d": 34
+},
+"prescribe": {
+"f": "prescribe",
+"d": 34
+},
+"prevail": {
+"f": "prevail",
+"d": 34
+},
+"propitiate": {
+"f": "propitiate",
+"d": 34
+},
+"recapitulate": {
+"f": "recapitulate",
+"d": 34
+}
+}

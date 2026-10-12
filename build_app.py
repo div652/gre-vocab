@@ -22,6 +22,7 @@ GROUPS = HERE / "groups"
 BANK = HERE / "bank"
 VIDEOS = HERE / "videos.json"
 SYNONYMS = HERE / "synonyms.json"
+FLASHCARDS = HERE / "flashcards.json"
 OUT = HERE / "out"
 
 # Order the group kinds by study value, most useful first.
@@ -406,6 +407,29 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mb:hover{background:rgba(127,127,127,.14)}
 .mb:active{transform:scale(.86)}
 
+/* ---- Cards: the flashcard images ---- */
+.fcvp{flex:1;min-height:0;position:relative;overflow:hidden;touch-action:pan-y}
+.fctrack{display:flex;height:100%;transform:translateX(-100%);will-change:transform}
+.fctrack.snap{transition:transform .24s cubic-bezier(.22,.7,.28,1)}
+.fcslide{flex:0 0 100%;width:100%;height:100%;position:relative;overflow:hidden}
+/* Centred by absolute position, not by flow: a rotated element keeps its
+   UNROTATED box for layout, so a card wide enough to fill the screen when
+   turned overflows its container and gets clipped if it is centred normally.
+   translate(-50%,-50%) runs before rotate, so it uses that unrotated box and
+   lands the centre where it belongs. */
+.fcrot{position:absolute;top:50%;left:50%;width:var(--fcw,100%);aspect-ratio:16/9;
+  border-radius:10px;overflow:hidden;background:#101114;box-shadow:var(--shadow);
+  transform:translate(-50%,-50%)}
+.fcvp.rot .fcrot{transform:translate(-50%,-50%) rotate(90deg)}
+.fcrot img{width:100%;display:block}
+.fcmask{position:absolute;cursor:pointer;border-radius:7px;background:#15171c;
+  border:1px dashed rgba(255,255,255,.22);display:grid;place-items:center;
+  transition:opacity .22s}
+.fcmask span{font-family:var(--ui);font-size:.6rem;font-weight:700;letter-spacing:.08em;
+  text-transform:uppercase;color:rgba(255,255,255,.5)}
+.fcmask.gone{opacity:0;pointer-events:none}
+#fcSlider{width:100%;flex:0 0 auto;accent-color:var(--accent)}
+
 .mfoot{display:flex;align-items:center;font-size:.72rem;font-weight:600;color:var(--dim);
   flex:0 0 auto;gap:.5rem}
 .mfoot .sp{flex:1}
@@ -451,9 +475,9 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .wrongs b{font-family:var(--read);min-width:7rem;font-size:.95rem}
 .wrongs span{color:var(--dim);font-size:.82rem;flex:1;line-height:1.4}
 
-/* The header's filters belong to Browse and Drill. In the mountain they are
-   dead weight - and on a phone they were 452px of an 812px screen, which left
-   the card less room than the controls below it. */
+/* The header's filters belong to Browse and Drill. In the full-screen card
+   modes - Mountain and Cards - they are dead weight, and on a phone they were
+   452px of an 812px screen, leaving the card less room than its own controls. */
 body.mtn-mode #search,
 body.mtn-mode #group,
 body.mtn-mode #diff,
@@ -526,6 +550,7 @@ ul.nuance li{border-left:3px solid var(--line);padding:.3rem 0 .3rem .8rem;margi
     <button id="mBrowse" class="tab on">Browse</button>
     <button id="mDrill" class="tab">Drill</button>
     <button id="mMountain" class="tab">Mountain</button>
+    <button id="mCards" class="tab">Cards</button>
     <button id="mQuiz" class="tab">Quiz</button>
     <button id="mGroups" class="tab">Groups</button>
   </div>
@@ -554,6 +579,7 @@ ul.nuance li{border-left:3px solid var(--line);padding:.3rem 0 .3rem .8rem;margi
   <div id="browse"></div>
   <div id="drill" class="hidden"></div>
   <div id="mountain" class="hidden"></div>
+  <div id="cards" class="hidden"></div>
   <div id="quiz" class="hidden"></div>
   <div id="groups" class="hidden"></div>
 </main>
@@ -593,6 +619,7 @@ const GROUPS = __GROUPS__;
 const BANK = __BANK__;
 const KINDLABEL = __KINDLABEL__;
 const VIDEOS = __VIDEOS__;
+const FCARDS = __FCARDS__;
 const MWSYN = __MWSYN__;     // word -> extra synonyms; empty until synonyms.json exists
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
@@ -1382,6 +1409,186 @@ function mShowRun(run){
 }
 
 /* ==========================================================================
+   Cards — the GregMat flashcard images
+   --------------------------------------------------------------------------
+   One image per word, laid out identically on every card: a hanging sign with
+   the word above its definition, an illustration to the right, then synonyms
+   and an example sentence underneath. Three of those are coverable, so the
+   card opens showing only the word and you reveal the rest a piece at a time.
+
+   The regions are fixed percentages because the template never varies. They
+   are masks laid OVER the image rather than crops of it, which keeps the sign
+   frame and the brick intact and means a region can be revealed without
+   reflowing anything.
+
+   A 16:9 card fills about a quarter of a portrait phone, so the card is turned
+   on its side to fill the screen instead. Masks are positioned in percentages
+   of the image, so they rotate with it and need no recalculation.
+   ========================================================================== */
+
+const FCSEL_KEY = "gre-vocab-fc-sel-v1";
+const FC_REGIONS = [
+  {key: "art",  label: "image",    l: 65.5, t: 20.5, w: 32,   h: 46},
+  {key: "mean", label: "meaning",  l: 5.2,  t: 42.5, w: 50.5, h: 19.5},
+  {key: "mean", label: "synonyms", l: 2.6,  t: 64.5, w: 72,   h: 21.5},
+];
+
+let fcSel = +localStorage.getItem(FCSEL_KEY) || 0;   // 0 = no list chosen yet
+let fcDeck = [], fcIdx = 0, fcRot = true, fcRO = null;
+const fcShown = {};                                   // word -> Set of revealed keys
+
+const FC_DAYS = [...new Set(Object.values(FCARDS).map(v => v.d))].sort((a,b) => a-b);
+const fcWordsFor = day =>
+  CARDS.filter(c => FCARDS[c.word] && FCARDS[c.word].d === day);
+
+function renderCards(){
+  if(!Object.keys(FCARDS).length){
+    $("cards").innerHTML = `<div class="q"><div class="setup"><h3>Cards</h3>
+      <p class="hint">No flashcard images are bundled in this build.
+         Run <code>python flashcards.py</code> to add them.</p></div></div>`;
+    return;
+  }
+  if(!fcSel) return fcPicker();
+  fcDeck = fcWordsFor(fcSel);
+  if(!fcDeck.length){ fcSel = 0; return fcPicker(); }
+  if(fcIdx >= fcDeck.length) fcIdx = 0;
+  fcRun();
+}
+
+function fcPicker(){
+  $("cards").innerHTML = `<div class="q"><div class="setup">
+    <h3>Cards</h3>
+    <p class="hint">${Object.keys(FCARDS).length} illustrated flashcards.
+       Pick a list: each card opens showing only the word, and you uncover the
+       picture, the meaning and the synonyms as you want them.</p>
+    <div class="gpick">${FC_DAYS.map(d => {
+      const n = fcWordsFor(d).length;
+      return `<button class="gchip" data-d="${d}"><b>${d}</b><u>${n}</u></button>`;
+    }).join("")}</div></div></div>`;
+  $("cards").querySelectorAll(".gchip").forEach(b => b.onclick = () => {
+    fcSel = +b.dataset.d; fcIdx = 0;
+    localStorage.setItem(FCSEL_KEY, fcSel);
+    renderCards();
+  });
+}
+
+function fcSlide(n){
+  const c = fcDeck[(n + fcDeck.length) % fcDeck.length];
+  if(!c) return `<div class="fcslide"></div>`;
+  const open = fcShown[c.word] || (fcShown[c.word] = new Set());
+  return `<div class="fcslide"><div class="fcrot">
+    <img src="fc/${esc(FCARDS[c.word].f)}.webp" alt="${esc(c.word)}" decoding="async">
+    ${FC_REGIONS.map(r => `<div class="fcmask ${open.has(r.key) ? "gone" : ""}"
+        data-key="${r.key}"
+        style="left:${r.l}%;top:${r.t}%;width:${r.w}%;height:${r.h}%"
+        ><span>${r.label}</span></div>`).join("")}
+  </div></div>`;
+}
+
+function fcRun(){
+  const c = fcDeck[fcIdx];
+  const open = fcShown[c.word] || new Set();
+  $("cards").innerHTML = `<div class="climb">
+    <div class="mhead">
+      <button class="arrow sm" id="fcBack" aria-label="Choose another list">&#8592;</button>
+      <span class="mlbl">List ${fcSel}</span>
+      <span class="hsp"></span>
+      <button class="arrow sm ${fcRot ? "on" : ""}" id="fcRot"
+              aria-label="Turn the card">&#8635;</button>
+      <button class="linkish" id="fcAll">${open.size >= 2 ? "hide all" : "reveal all"}</button>
+    </div>
+    <div class="fcvp ${fcRot ? "rot" : ""}" id="fcVp"><div class="fctrack" id="fcTrack">
+      ${fcSlide(fcIdx-1)}${fcSlide(fcIdx)}${fcSlide(fcIdx+1)}
+    </div></div>
+    <div class="mfoot"><span>${esc(c.word)}</span><span class="sp"></span>
+      <span>${fcIdx+1} of ${fcDeck.length}</span></div>
+    <input type="range" id="fcSlider" min="0" max="${fcDeck.length-1}" value="${fcIdx}"
+           ${fcDeck.length < 2 ? "disabled" : ""}>
+  </div>`;
+
+  fcFit();
+  // The header's height is measured on a timer and changes --hh, which resizes
+  // this viewport AFTER the first fit. Racing that with rAF is unreliable;
+  // watch the element instead and refit whenever it actually changes size.
+  if(window.ResizeObserver){
+    if(fcRO) fcRO.disconnect();
+    fcRO = new ResizeObserver(() => fcFit());
+    fcRO.observe($("fcVp"));
+  } else {
+    setTimeout(fcFit, 60);
+  }
+  const mid = $("fcTrack").children[1];
+  mid.querySelectorAll(".fcmask").forEach(m => m.onclick = () => {
+    if(mDragged) return;
+    (fcShown[c.word] || (fcShown[c.word] = new Set())).add(m.dataset.key);
+    mid.querySelectorAll('.fcmask[data-key="' + m.dataset.key + '"]')
+       .forEach(x => x.classList.add("gone"));
+    const b = $("fcAll");
+    if(b && (fcShown[c.word].size >= 2)) b.textContent = "hide all";
+  });
+  $("fcBack").onclick = () => { fcSel = 0; localStorage.setItem(FCSEL_KEY, 0); renderCards(); };
+  $("fcRot").onclick  = () => { fcRot = !fcRot; fcRun(); };
+  $("fcAll").onclick  = () => {
+    const s = fcShown[c.word] || (fcShown[c.word] = new Set());
+    if(s.size >= 2) s.clear(); else { s.add("art"); s.add("mean"); }
+    fcRun();
+  };
+  $("fcSlider").oninput = e => { fcIdx = +e.target.value; fcRun(); };
+  fcWireSwipe();
+}
+
+/* The rotated card is sized by hand: turned 90 degrees, its width maps to the
+   viewport's height, so the limiting dimension swaps over. */
+function fcFit(){
+  const vp = $("fcVp");
+  if(!vp) return;
+  const W = vp.clientWidth, H = vp.clientHeight;
+  const w = fcRot ? Math.min(H, W * 16 / 9) : Math.min(W, H * 16 / 9);
+  vp.style.setProperty("--fcw", Math.floor(w) + "px");
+}
+
+function fcStep(d){
+  if(fcDeck.length < 2) return;
+  fcIdx = (fcIdx + d + fcDeck.length) % fcDeck.length;
+  fcRun();
+}
+
+function fcWireSwipe(){
+  const vp = $("fcVp"), track = $("fcTrack");
+  if(!vp || !track || fcDeck.length < 2) return;
+  let x0 = null, y0 = null, drag = false, w = vp.clientWidth || 1;
+  vp.addEventListener("touchstart", e => {
+    x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
+    drag = false; mDragged = false; w = vp.clientWidth || 1;
+    track.classList.remove("snap");
+  }, {passive:true});
+  vp.addEventListener("touchmove", e => {
+    if(x0 === null) return;
+    const dx = e.touches[0].clientX - x0, dy = e.touches[0].clientY - y0;
+    if(!drag){
+      if(Math.abs(dx) < 8) return;
+      if(Math.abs(dx) < Math.abs(dy)){ x0 = null; return; }
+      drag = true; mDragged = true;
+    }
+    track.style.transform = `translateX(calc(-100% + ${dx}px))`;
+  }, {passive:true});
+  const end = e => {
+    if(x0 === null){ drag = false; return; }
+    const dx = (e.changedTouches && e.changedTouches[0] ? e.changedTouches[0].clientX : x0) - x0;
+    x0 = null; track.classList.add("snap");
+    if(drag && Math.abs(dx) > Math.min(95, w * 0.2)){
+      const d = dx < 0 ? 1 : -1;
+      track.style.transform = `translateX(${d > 0 ? "-200%" : "0%"})`;
+      setTimeout(() => fcStep(d), 240);
+    } else track.style.transform = "";
+    drag = false;
+    setTimeout(() => { mDragged = false; }, 60);
+  };
+  vp.addEventListener("touchend", end, {passive:true});
+  vp.addEventListener("touchcancel", end, {passive:true});
+}
+
+/* ==========================================================================
    Spaced repetition (SM-2) + quiz
    --------------------------------------------------------------------------
    Recognition — "yes, I know that one" — is the weakest thing you can do with a
@@ -1981,6 +2188,7 @@ function render(){
   if(mode === "browse") renderBrowse();
   else if(mode === "drill") renderDrill();
   else if(mode === "mountain") renderMountain();
+  else if(mode === "cards") renderCards();
   else if(mode === "quiz") renderQuiz();
   else renderGroups();
   renderStats();
@@ -2013,7 +2221,7 @@ document.addEventListener("click", e => {
 
 const ROUTE_KEY = "gre-vocab-route";
 const MODES = [["browse","mBrowse"],["drill","mDrill"],["mountain","mMountain"],
-               ["quiz","mQuiz"],["groups","mGroups"]];
+               ["cards","mCards"],["quiz","mQuiz"],["groups","mGroups"]];
 
 function currentRoute(){
   let r = "/" + mode;
@@ -2045,7 +2253,7 @@ function applyRoute(route){
     $(id).classList.toggle("on", k === m);
     $(k).classList.toggle("hidden", k !== m);
   });
-  document.body.classList.toggle("mtn-mode", m === "mountain");
+  document.body.classList.toggle("mtn-mode", m === "mountain" || m === "cards");
   if(typeof measureHeader === "function") setTimeout(measureHeader, 0);
   if(m === "drill") revealed = false;
   // Re-show the setup when entering the quiz fresh, or when the scope changed
@@ -2453,15 +2661,19 @@ document.addEventListener("click", e => {
 $("mBrowse").onclick = () => setMode("browse");
 $("mDrill").onclick  = () => setMode("drill");
 $("mMountain").onclick = () => setMode("mountain");
+$("mCards").onclick = () => setMode("cards");
 
 /* The mountain card is sized against the viewport, so it needs the real header
    height rather than a guess - the header wraps to two rows on a phone. */
 function measureHeader(){
   const h = document.querySelector("header");
   if(h) document.documentElement.style.setProperty("--hh", (h.offsetHeight + 46) + "px");
+  // --hh drives the card viewport's height, so anything sized against that
+  // viewport has to be recomputed here rather than before it.
+  if(typeof fcFit === "function" && mode === "cards") fcFit();
 }
 measureHeader();
-addEventListener("resize", measureHeader);
+addEventListener("resize", () => { measureHeader(); if(mode === "cards") fcFit(); });
 $("mQuiz").onclick   = () => setMode("quiz");
 $("mGroups").onclick = () => setMode("groups");
 
@@ -2516,6 +2728,13 @@ document.addEventListener("keydown", e => {
     if(solo && (e.key === "n" || e.key === "0"))
       mJudge(solo.word, false, document.querySelector("#mountain .mcard"));
     if(e.key === "d" && solo) mShowDetail(solo.word);
+    return;
+  }
+  if(mode === "cards" && fcSel){
+    if(e.key === "ArrowRight") fcStep(1);
+    if(e.key === "ArrowLeft")  fcStep(-1);
+    if(e.key === " " || e.key === "Enter"){ e.preventDefault(); $("fcAll")?.click(); }
+    if(e.key === "r") $("fcRot")?.click();
     return;
   }
   if(mode!=="drill") return;
@@ -2589,6 +2808,11 @@ def main() -> int:
     if SYNONYMS.exists():
         mwsyn = json.loads(SYNONYMS.read_text(encoding="utf-8"))
 
+    # GregMat flashcard images, built by flashcards.py into out/fc/.
+    fcards = {}
+    if FLASHCARDS.exists():
+        fcards = json.loads(FLASHCARDS.read_text(encoding="utf-8"))
+
     OUT.mkdir(exist_ok=True)
     html = (TEMPLATE
             .replace("__DATA__", json.dumps(data, ensure_ascii=False))
@@ -2596,7 +2820,8 @@ def main() -> int:
             .replace("__BANK__", json.dumps(bank, ensure_ascii=False))
             .replace("__KINDLABEL__", json.dumps(KIND_LABEL, ensure_ascii=False))
             .replace("__VIDEOS__", json.dumps(videos, ensure_ascii=False))
-            .replace("__MWSYN__", json.dumps(mwsyn, ensure_ascii=False)))
+            .replace("__MWSYN__", json.dumps(mwsyn, ensure_ascii=False))
+            .replace("__FCARDS__", json.dumps(fcards, ensure_ascii=False)))
     dest = OUT / "flashcards.html"
     dest.write_text(html, encoding="utf-8")
 

@@ -164,6 +164,7 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-mtn-density-v1` | cards per screen in the Mountain: 1, 2, 4 or 6 |
 | `gre-vocab-mtn-session-v1` | the run in progress, so leaving the mode is a pause |
 | `gre-vocab-mtn-runs-v1` | last 60 finished runs: score and the words missed |
+| `gre-vocab-fc-sel-v1` | the flashcard list last open in Cards |
 
 ### `videos.json`
 
@@ -249,6 +250,38 @@ Thesaurus. Scraping merriam-webster.com directly is not possible - it returns
 403 to anything that is not a real browser, on both /dictionary and /thesaurus -
 so the supported route is their API at dictionaryapi.com, which needs a free
 key.
+
+### `flashcards.json` and `out/fc/`
+
+The GregMat flashcard images, one per word, built by `flashcards.py`.
+
+```json
+{ "abound": {"f": "abound", "d": 1} }
+```
+
+`f` is the slug of `out/fc/<slug>.webp`; `d` is the GregMat list the image was
+filed under. 1016 of 1112 words have one.
+
+The sources are 1920x1080 JPEGs, about **110 MB** for the full 1020. Re-encoded
+to 1000px WebP they come to **19 MB**, which is small enough to commit and to
+bundle in the APK, so Cards works offline like everything else. 1000px is
+already oversampled - the card is never shown wider than ~700px - and going
+lower starts to cost the example sentence, the smallest text on the card.
+
+**Every card uses the same template**, which is what makes the reveal possible:
+a hanging sign with the word above its definition, an illustration right, then
+synonyms and an example sentence. The three coverable regions are therefore
+fixed percentages, defined in `FC_REGIONS`:
+
+| region | left | top | width | height |
+|---|---|---|---|---|
+| illustration | 65.5% | 20.5% | 32% | 46% |
+| definition | 5.2% | 42.5% | 50.5% | 19.5% |
+| synonyms + sentence | 2.6% | 64.5% | 72% | 21.5% |
+
+They are masks laid **over** the image, not crops of it, so the sign frame and
+the brick stay intact and revealing one reflows nothing. The last two share a
+key, so one tap uncovers both.
 
 ### Quiz scopes
 

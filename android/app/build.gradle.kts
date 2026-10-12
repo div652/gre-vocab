@@ -46,7 +46,9 @@ android {
 
     // The 4 MB HTML is already one file; compressing it again buys nothing and
     // slows first paint.
-    androidResources { noCompress += listOf("html") }
+    // WebP is already compressed; zipping it again only costs build time and
+    // forces the whole file to be inflated before the WebView can draw it.
+    androidResources { noCompress += listOf("html", "webp") }
 }
 
 // androidx drags in Kotlin's stdlib transitively even though this app is pure
