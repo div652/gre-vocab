@@ -376,6 +376,12 @@ body.fc-immersive main{padding:0;max-width:none;margin:0}
 body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
 
 .fcstage{position:absolute;inset:0;background:#000}
+.fcrotor{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
+/* The ROTOR turns, not the card. Turning only the card left the track sliding
+   along screen-X while the finger moved along screen-Y: the gesture and the
+   motion were perpendicular. Rotating the whole viewport puts the track's own
+   axis under the finger. */
+.fcstage.rot .fcrotor{transform:translate(-50%,-50%) rotate(90deg)}
 .fcvp{position:absolute;inset:0;overflow:hidden;touch-action:none}
 .fctrack{display:flex;height:100%;transform:translateX(-100%);will-change:transform}
 .fctrack.snap{transition:transform .24s cubic-bezier(.22,.7,.28,1)}
@@ -388,7 +394,6 @@ body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
   -webkit-tap-highlight-color:transparent;
   transform:translate(-50%,-50%) scale(var(--press,1));
   transition:transform .18s cubic-bezier(.2,.8,.3,1)}
-.fcstage.rot .fcrot{transform:translate(-50%,-50%) rotate(90deg) scale(var(--press,1))}
 .fcrot:active{--press:.978}
 .fcrot img{width:100%;display:block}
 
@@ -1607,9 +1612,10 @@ function fcRun(){
   if(!c) return;
   const rot = !fcNative;
   $("cards").innerHTML = `<div class="fcstage ${rot ? "rot" : ""}">
+    <div class="fcrotor" id="fcRotor">
     <div class="fcvp" id="fcVp"><div class="fctrack" id="fcTrack">
       ${fcSlide(fcIdx-1)}${fcSlide(fcIdx)}${fcSlide(fcIdx+1)}
-    </div></div>
+    </div></div></div>
     <aside class="fcside">
       <button class="fcx" id="fcClose" aria-label="Leave the cards">&#10005;</button>
       <div class="fcstat"><b>${fcIdx+1}</b><i>/${fcDeck.length}</i></div>
@@ -1640,17 +1646,23 @@ function fcRun(){
 /* Rotated, the card's width maps to the viewport's height, so the limiting
    dimension swaps over. */
 function fcFit(){
-  const vp = $("fcVp");
-  if(!vp) return;
+  const stage = $("cards").querySelector(".fcstage");
+  const rotor = $("fcRotor"), vp = $("fcVp");
+  if(!stage || !rotor || !vp) return;
   // The stats float over the right-hand gutter, so leave that much clear on
-  // BOTH sides - otherwise the card is centred in the space beside the panel
-  // rather than on the screen, and reads as shoved to one side.
-  const side = $("cards").querySelector(".fcside");
-  const gutter = side ? side.getBoundingClientRect().width : 0;
-  const W = Math.max(80, vp.clientWidth - gutter * 2), H = vp.clientHeight;
-  const rot = $("cards").querySelector(".fcstage.rot");
-  const w = rot ? Math.min(H, W * 16 / 9) : Math.min(W, H * 16 / 9);
-  vp.style.setProperty("--fcw", Math.floor(w) + "px");
+  // BOTH sides - otherwise the card centres in the space beside the panel and
+  // reads as shoved to one side.
+  const side = stage.querySelector(".fcside");
+  const g = side ? side.getBoundingClientRect().width : 0;
+  const W = stage.clientWidth, H = stage.clientHeight;
+  const rot = stage.classList.contains("rot");
+  const across = Math.max(80, W - g * 2);
+  // the rotor's box BEFORE rotation: turned, its width lies along the screen's
+  // height, so the two swap over
+  const rw = rot ? H : across, rh = rot ? across : H;
+  rotor.style.width = rw + "px";
+  rotor.style.height = rh + "px";
+  vp.style.setProperty("--fcw", Math.floor(Math.min(rw, rh * 16 / 9)) + "px");
 }
 
 function fcStep(d){
@@ -1659,40 +1671,41 @@ function fcStep(d){
   fcRun();
 }
 
-/* Both axes move the deck. When the card is turned by CSS the phone is still
-   upright, so "the next card" is up the screen rather than across it; when the
-   device itself has turned, across is across. Taking whichever axis the finger
-   actually used means it is right either way. */
+/* The finger drags the track along the rotor's own X axis. Turned, the rotor's
+   +X points down the screen, so a drag from the bottom upwards is -X - and -X
+   is where the next card lives. Upright, that same axis is screen-X and a drag
+   leftwards does the same job, matching the Mountain. */
 function fcWireSwipe(rot){
   const vp = $("fcVp"), track = $("fcTrack");
   if(!vp || !track || fcDeck.length < 2) return;
   let x0 = null, y0 = null, drag = false, span = 1;
-  const along = (dx, dy) => rot ? dy : -dx;        // positive = toward the next card
+  const alongAxis = (dx, dy) => rot ? dy : dx;      // movement in rotor space
+  const acrossAxis = (dx, dy) => rot ? dx : dy;
 
   vp.addEventListener("touchstart", e => {
     x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
     drag = false; mDragged = false;
-    span = rot ? (vp.clientHeight || 1) : (vp.clientWidth || 1);
+    span = rot ? (vp.clientWidth || 1) : (vp.clientWidth || 1);
     track.classList.remove("snap");
   }, {passive:true});
   vp.addEventListener("touchmove", e => {
     if(x0 === null) return;
     const dx = e.touches[0].clientX - x0, dy = e.touches[0].clientY - y0;
-    const main = along(dx, dy), cross = rot ? dx : dy;
+    const main = alongAxis(dx, dy), cross = acrossAxis(dx, dy);
     if(!drag){
       if(Math.abs(main) < 8) return;
       if(Math.abs(main) < Math.abs(cross)){ x0 = null; return; }
       drag = true; mDragged = true;
     }
-    track.style.transform = `translateX(calc(-100% + ${-main}px))`;
+    track.style.transform = `translateX(calc(-100% + ${main}px))`;
   }, {passive:true});
   const end = e => {
     if(x0 === null){ drag = false; return; }
     const t = e.changedTouches && e.changedTouches[0];
-    const main = along((t ? t.clientX : x0) - x0, (t ? t.clientY : y0) - y0);
+    const main = alongAxis((t ? t.clientX : x0) - x0, (t ? t.clientY : y0) - y0);
     x0 = null; track.classList.add("snap");
     if(drag && Math.abs(main) > Math.min(95, span * 0.2)){
-      const d = main > 0 ? 1 : -1;
+      const d = main < 0 ? 1 : -1;                  // away along -X = forward
       track.style.transform = `translateX(${d > 0 ? "-200%" : "0%"})`;
       setTimeout(() => fcStep(d), 240);
     } else track.style.transform = "";
@@ -1702,6 +1715,7 @@ function fcWireSwipe(rot){
   vp.addEventListener("touchend", end, {passive:true});
   vp.addEventListener("touchcancel", end, {passive:true});
 }
+
 
 /* ==========================================================================
    Spaced repetition (SM-2) + quiz

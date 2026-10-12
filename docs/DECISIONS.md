@@ -463,6 +463,11 @@ later property means:
   one inline run now.
 - A rotated element keeps its **unrotated** box for layout, so the card has to
   be centred by absolute position or it is clipped.
+- Rotating only the CARD left the track sliding along screen-X while the finger
+  moved along screen-Y: gesture and motion perpendicular, which reads as the
+  swipe being broken rather than merely reversed. The **whole viewport** turns
+  now, so the track's own axis lies under the finger and the card follows it
+  1:1. A drag from the bottom upwards goes forward.
 
 ### D-54 — The veil is frosted, not filled, and lifts rather than blinks
 The covers started as dashed outlines with uppercase labels, which read as
