@@ -458,16 +458,28 @@ later property means:
   screen. The writing mode belongs on the text, not the container.
 - `min-width: auto` (the flex default) let that panel's intrinsic size override
   its basis and take a third of the screen from the card.
+- Block children stack **horizontally** in a vertical writing mode, so a stat's
+  value and its label took two columns of width and were clipped. Each stat is
+  one inline run now.
 - A rotated element keeps its **unrotated** box for layout, so the card has to
   be centred by absolute position or it is clipped.
 
-### D-54 — The veil is frosted, not filled
+### D-54 — The veil is frosted, not filled, and lifts rather than blinks
 The covers started as dashed outlines with uppercase labels, which read as
 placeholder boxes pasted onto the artwork. They are now `backdrop-filter`
 panels: the brick and the sign frame stay visible through them, so a covered
 region reads as part of the card being withheld. There is an `@supports`
 fallback to a near-opaque tint, because without the blur a translucent panel
 would simply leave the answer readable.
+
+Revealing is a gesture, not a state change: the card dips under the press, then
+the three veils scale up and fade in sequence 50ms apart, so it reads as the
+card opening. The blue wash that used to cover the screen on tap was the
+browser's own `-webkit-tap-highlight-color`, not anything we drew.
+
+The stats float over the gutter rather than taking a flex column, and the card
+is sized leaving that gutter clear on **both** sides — otherwise it centres in
+the space next to the panel and sits visibly off to one side.
 
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to

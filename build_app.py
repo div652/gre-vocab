@@ -417,18 +417,21 @@ body.fc-immersive #quiz,body.fc-immersive #groups{display:none!important}
 body.fc-immersive main{padding:0;max-width:none;margin:0}
 body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
 
-.fcstage{position:absolute;inset:0;display:flex;align-items:stretch;background:#000}
-.fcvp{flex:1;min-width:0;min-height:0;position:relative;overflow:hidden;touch-action:none}
+.fcstage{position:absolute;inset:0;background:#000}
+.fcvp{position:absolute;inset:0;overflow:hidden;touch-action:none}
 .fctrack{display:flex;height:100%;transform:translateX(-100%);will-change:transform}
 .fctrack.snap{transition:transform .24s cubic-bezier(.22,.7,.28,1)}
-.fcslide{flex:0 0 100%;width:100%;height:100%;position:relative;overflow:hidden}
+.fcslide{flex:0 0 100%;width:100%;height:100%;position:relative;overflow:hidden;-webkit-tap-highlight-color:transparent}
 /* Centred by absolute position, not by flow: a rotated element keeps its
    UNROTATED box for layout, so a card wide enough to fill the screen when
    turned overflows its container and gets clipped if centred normally. */
 .fcrot{position:absolute;top:50%;left:50%;width:var(--fcw,100%);aspect-ratio:16/9;
   border-radius:8px;overflow:hidden;background:#0c0d10;cursor:pointer;
-  transform:translate(-50%,-50%)}
-.fcstage.rot .fcrot{transform:translate(-50%,-50%) rotate(90deg)}
+  -webkit-tap-highlight-color:transparent;
+  transform:translate(-50%,-50%) scale(var(--press,1));
+  transition:transform .18s cubic-bezier(.2,.8,.3,1)}
+.fcstage.rot .fcrot{transform:translate(-50%,-50%) rotate(90deg) scale(var(--press,1))}
+.fcrot:active{--press:.978}
 .fcrot img{width:100%;display:block}
 
 /* The veil. Frosted rather than filled: the brick and the sign frame stay
@@ -440,17 +443,24 @@ body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
   backdrop-filter:blur(13px) saturate(.5) brightness(.75);
   box-shadow:inset 0 0 0 1px rgba(255,255,255,.05),
              inset 0 1px 0 rgba(255,255,255,.05);
-  transition:opacity .3s ease, backdrop-filter .3s ease}
-.fcveil.gone{opacity:0}
+  transform:scale(1);transform-origin:center;
+  transition:opacity .36s cubic-bezier(.2,.85,.25,1),
+             transform .36s cubic-bezier(.2,.85,.25,1),
+             backdrop-filter .36s ease}
+/* Lift them in sequence rather than all at once: the card reads as opening
+   rather than flickering. */
+.fcveil:nth-of-type(2){transition-delay:.05s}
+.fcveil:nth-of-type(3){transition-delay:.1s}
+.fcveil.gone{opacity:0;transform:scale(1.07);backdrop-filter:blur(0px)}
 /* Without backdrop-filter the blur does nothing, so fall back to a flat tint
    rather than leaving the answer legible through a transparent panel. */
 @supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
   .fcveil{background:rgba(16,17,21,.97)}
 }
 
-.fcside{flex:0 0 clamp(86px,21vw,132px);display:flex;flex-direction:column;
-  align-items:center;justify-content:center;gap:1rem;position:relative;padding:.6rem .4rem;
-  background:#000;color:#8a8f99;
+.fcside{position:absolute;top:0;right:0;bottom:0;width:clamp(46px,12vw,74px);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:1rem;padding:.6rem .4rem;color:#8a8f99;z-index:2;pointer-events:none;
   /* min-width:auto is the flex default, so a vertical-writing-mode child's
      intrinsic size overrode the basis and the panel took a third of the
      screen away from the card. */
@@ -459,17 +469,21 @@ body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
    mode "column" runs horizontally - and push it off screen. The writing mode
    belongs on the text that has to read along with the turned card. */
 .fcstage.rot .fcstat,.fcstage.rot .fcword{writing-mode:vertical-rl}
-.fcx{flex:0 0 auto;width:34px;height:34px;border-radius:50%;
+.fcx{flex:0 0 auto;width:30px;height:30px;border-radius:50%;pointer-events:auto;
   border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.06);
   color:#cfd4dd;font-size:.9rem;line-height:1;cursor:pointer;display:grid;
   place-items:center;writing-mode:horizontal-tb}
 .fcstat{text-align:center;line-height:1.1}
-.fcstat b{display:block;font-family:var(--read);font-size:1.45rem;color:#eef1f6;
-  white-space:nowrap}
-.fcstat b i{font-style:normal;font-size:.8rem;color:#737a86}
-.fcstat.sm b{font-size:1rem;color:#aeb4c0}
-.fcstat span{font-size:.6rem;letter-spacing:.09em;text-transform:uppercase;color:#6b7280}
-.fcword{font-family:var(--read);font-size:.95rem;color:#7d848f;
+/* inline, not block: in a vertical writing mode block children stack
+   HORIZONTALLY, so a value and its label took two columns of width and the
+   panel clipped them. One run each keeps every stat a single column. */
+.fcstat b{display:inline;font-family:var(--read);font-size:1.15rem;color:#eef1f6;
+  white-space:nowrap;font-weight:600}
+.fcstat i{font-style:normal;font-size:.78rem;color:#737a86}
+.fcstat.sm b{font-size:.78rem;color:#9aa1ad;font-weight:500;letter-spacing:.04em}
+
+.fcstat{white-space:nowrap}
+.fcword{font-family:var(--read);font-size:.82rem;color:#7d848f;
   max-height:9rem;overflow:hidden;text-overflow:ellipsis}
 
 .mfoot{display:flex;align-items:center;font-size:.72rem;font-weight:600;color:var(--dim);
@@ -1579,6 +1593,7 @@ async function fcEnter(){
   // Turn the device for real where that is possible; rotating the card with
   // CSS is the fallback, and the swipe axis follows whichever we got.
   fcNative = false;
+  fcChrome("#000000", true);
   if(window.AndroidBridge && AndroidBridge.setLandscape){
     try{ AndroidBridge.setLandscape(true); fcNative = true; }catch(e){}
   } else {
@@ -1604,7 +1619,18 @@ function fcExit(){
   try{ if(screen.orientation && screen.orientation.unlock) screen.orientation.unlock(); }catch(e){}
   try{ if(document.fullscreenElement) document.exitFullscreen(); }catch(e){}
   fcNative = false;
+  syncChrome();                       // back to the theme's own bar colour
   renderCards();
+}
+
+/* The system bars are painted from the page's panel colour; on black they have
+   to be told, or a light theme leaves a white strip above a black screen. */
+function fcChrome(hex, dark){
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if(meta) meta.setAttribute("content", hex);
+  if(window.AndroidBridge && AndroidBridge.setChrome){
+    try{ AndroidBridge.setChrome(hex, dark); }catch(e){}
+  }
 }
 
 function fcSlide(n){
@@ -1628,9 +1654,9 @@ function fcRun(){
     </div></div>
     <aside class="fcside">
       <button class="fcx" id="fcClose" aria-label="Leave the cards">&#10005;</button>
-      <div class="fcstat"><b>${fcIdx+1}<i>/${fcDeck.length}</i></b></div>
-      <div class="fcstat sm"><b>${FCARDS[c.word].d}</b><span>list</span></div>
-      <div class="fcstat sm"><b>${fcDeck.filter(x => fcShown[x.word]).length}</b><span>seen</span></div>
+      <div class="fcstat"><b>${fcIdx+1}</b><i>/${fcDeck.length}</i></div>
+      <div class="fcstat sm"><b>list ${FCARDS[c.word].d}</b></div>
+      <div class="fcstat sm"><b>seen ${fcDeck.filter(x => fcShown[x.word]).length}</b></div>
       <div class="fcword">${esc(c.word)}</div>
     </aside>
   </div>`;
@@ -1658,7 +1684,12 @@ function fcRun(){
 function fcFit(){
   const vp = $("fcVp");
   if(!vp) return;
-  const W = vp.clientWidth, H = vp.clientHeight;
+  // The stats float over the right-hand gutter, so leave that much clear on
+  // BOTH sides - otherwise the card is centred in the space beside the panel
+  // rather than on the screen, and reads as shoved to one side.
+  const side = $("cards").querySelector(".fcside");
+  const gutter = side ? side.getBoundingClientRect().width : 0;
+  const W = Math.max(80, vp.clientWidth - gutter * 2), H = vp.clientHeight;
   const rot = $("cards").querySelector(".fcstage.rot");
   const w = rot ? Math.min(H, W * 16 / 9) : Math.min(W, H * 16 / 9);
   vp.style.setProperty("--fcw", Math.floor(w) + "px");
@@ -1678,7 +1709,7 @@ function fcWireSwipe(rot){
   const vp = $("fcVp"), track = $("fcTrack");
   if(!vp || !track || fcDeck.length < 2) return;
   let x0 = null, y0 = null, drag = false, span = 1;
-  const along = (dx, dy) => rot ? -dy : dx;        // positive = toward the next card
+  const along = (dx, dy) => rot ? dy : -dx;        // positive = toward the next card
 
   vp.addEventListener("touchstart", e => {
     x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
