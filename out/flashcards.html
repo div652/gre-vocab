@@ -396,16 +396,16 @@ body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
 /* The press belongs to the thing being opened, not to the whole card: only
    the still-covered regions dip and brighten under the finger. */
 .fcrot:active .fcveil:not(.gone){transform:scale(.966);
-  background:rgba(22,24,29,.62);transition-duration:.1s}
+  background:rgba(22,24,29,.8);transition-duration:.1s}
 .fcrot img{width:100%;display:block}
 
 /* The veil. Frosted rather than filled: the brick and the sign frame stay
    visible through it, so a covered region reads as part of the card being
    withheld instead of a grey box pasted on top. */
 .fcveil{position:absolute;border-radius:6px;pointer-events:none;
-  background:rgba(14,15,18,.55);
-  -webkit-backdrop-filter:blur(13px) saturate(.5) brightness(.75);
-  backdrop-filter:blur(13px) saturate(.5) brightness(.75);
+  background:rgba(14,15,18,.74);
+  -webkit-backdrop-filter:blur(15px) saturate(.45) brightness(.7);
+  backdrop-filter:blur(15px) saturate(.45) brightness(.7);
   box-shadow:inset 0 0 0 1px rgba(255,255,255,.05),
              inset 0 1px 0 rgba(255,255,255,.05);
   transform:scale(1);transform-origin:center;
