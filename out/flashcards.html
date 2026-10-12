@@ -375,14 +375,14 @@ body.fc-immersive #quiz,body.fc-immersive #groups{display:none!important}
 body.fc-immersive main{padding:0;max-width:none;margin:0}
 body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
 
-.fcstage{position:absolute;inset:0;background:#000}
+.fcstage{position:absolute;inset:0;background:#000;touch-action:none}
 .fcrotor{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
 /* The ROTOR turns, not the card. Turning only the card left the track sliding
    along screen-X while the finger moved along screen-Y: the gesture and the
    motion were perpendicular. Rotating the whole viewport puts the track's own
    axis under the finger. */
 .fcstage.rot .fcrotor{transform:translate(-50%,-50%) rotate(90deg)}
-.fcvp{position:absolute;inset:0;overflow:hidden;touch-action:none}
+.fcvp{position:absolute;inset:0;overflow:hidden}
 .fctrack{display:flex;height:100%;transform:translateX(-100%);will-change:transform}
 .fctrack.snap{transition:transform .24s cubic-bezier(.22,.7,.28,1)}
 .fcslide{flex:0 0 100%;width:100%;height:100%;position:relative;overflow:hidden;-webkit-tap-highlight-color:transparent}
@@ -1683,19 +1683,26 @@ function fcStep(d){
    is where the next card lives. Upright, that same axis is screen-X and a drag
    leftwards does the same job, matching the Mountain. */
 function fcWireSwipe(rot){
+  // Listen on the STAGE, not the viewport: the viewport is only as big as the
+  // card, so the black gutters either side of it - a natural place to put a
+  // thumb - were swallowing the gesture entirely.
+  const stage = $("cards").querySelector(".fcstage");
   const vp = $("fcVp"), track = $("fcTrack");
-  if(!vp || !track || fcDeck.length < 2) return;
-  let x0 = null, y0 = null, drag = false, span = 1;
+  if(!stage || !vp || !track || fcDeck.length < 2) return;
+  let x0 = null, y0 = null, drag = false, span = 1, onCard = false;
   const alongAxis = (dx, dy) => rot ? dy : dx;      // movement in rotor space
   const acrossAxis = (dx, dy) => rot ? dx : dy;
 
-  vp.addEventListener("touchstart", e => {
+  stage.addEventListener("touchstart", e => {
     x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
     drag = false; mDragged = false;
-    span = rot ? (vp.clientWidth || 1) : (vp.clientWidth || 1);
+    // A tap only reveals when it lands on the card; a tap on the gutter is
+    // just a missed swipe and should do nothing.
+    onCard = !!(e.target.closest && e.target.closest(".fcrot"));
+    span = vp.clientWidth || 1;
     track.classList.remove("snap");
   }, {passive:true});
-  vp.addEventListener("touchmove", e => {
+  stage.addEventListener("touchmove", e => {
     if(x0 === null) return;
     const dx = e.touches[0].clientX - x0, dy = e.touches[0].clientY - y0;
     const main = alongAxis(dx, dy), cross = acrossAxis(dx, dy);
@@ -1722,7 +1729,7 @@ function fcWireSwipe(rot){
       track.style.transform = "";
       // Barely moved: that was a tap, not an abandoned drag. Deciding it here
       // rather than letting `click` do it is what makes one tap enough.
-      if(Math.abs(main) < 12 && Math.abs(cross) < 12 && e.type === "touchend"){
+      if(onCard && Math.abs(main) < 12 && Math.abs(cross) < 12 && e.type === "touchend"){
         fcTapAt = Date.now();
         fcReveal(fcDeck[fcIdx] && fcDeck[fcIdx].word);
       }
@@ -1730,8 +1737,8 @@ function fcWireSwipe(rot){
     drag = false;
     setTimeout(() => { mDragged = false; }, 60);
   };
-  vp.addEventListener("touchend", end, {passive:true});
-  vp.addEventListener("touchcancel", end, {passive:true});
+  stage.addEventListener("touchend", end, {passive:true});
+  stage.addEventListener("touchcancel", end, {passive:true});
 }
 
 
