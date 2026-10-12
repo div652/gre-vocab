@@ -477,9 +477,15 @@ region reads as part of the card being withheld. There is an `@supports`
 fallback to a near-opaque tint, because without the blur a translucent panel
 would simply leave the answer readable.
 
-Revealing is a gesture, not a state change: the card dips under the press, then
-the three veils scale up and fade in sequence 50ms apart, so it reads as the
-card opening. The blue wash that used to cover the screen on tap was the
+Revealing is a gesture, not a state change: the still-covered regions dip and
+darken under the finger, then scale up and fade in sequence 50ms apart, so it
+reads as the card opening. The press belongs to the thing being opened — an
+earlier version dipped the whole card, which felt like pressing the card rather
+than pressing the cover off it.
+
+The tap is detected in the touch handler, not left to `click`: a tap that
+drifts a few pixels classifies as a drag, and the suppressed click was why it
+took two taps to reveal. The blue wash that used to cover the screen on tap was the
 browser's own `-webkit-tap-highlight-color`, not anything we drew.
 
 The stats float over the gutter rather than taking a flex column, and the card

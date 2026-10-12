@@ -434,9 +434,11 @@ body.fc-immersive #cards{position:fixed;inset:0;z-index:40;background:#000}
 .fcrot{position:absolute;top:50%;left:50%;width:var(--fcw,100%);aspect-ratio:16/9;
   border-radius:8px;overflow:hidden;background:#0c0d10;cursor:pointer;
   -webkit-tap-highlight-color:transparent;
-  transform:translate(-50%,-50%) scale(var(--press,1));
-  transition:transform .18s cubic-bezier(.2,.8,.3,1)}
-.fcrot:active{--press:.978}
+  transform:translate(-50%,-50%)}
+/* The press belongs to the thing being opened, not to the whole card: only
+   the still-covered regions dip and brighten under the finger. */
+.fcrot:active .fcveil:not(.gone){transform:scale(.966);
+  background:rgba(22,24,29,.62);transition-duration:.1s}
 .fcrot img{width:100%;display:block}
 
 /* The veil. Frosted rather than filled: the brick and the sign frame stay
@@ -1504,6 +1506,13 @@ let fcSel = new Set((() => {
 let fcShuf = JSON.parse(localStorage.getItem(FCSHUF_KEY) || "true");
 let fcDeck = [], fcIdx = 0, fcRO = null;
 let fcImmersive = false, fcNative = false;   // fcNative: the device really turned
+let fcTapAt = 0;                              // when the touch path last revealed
+
+function fcReveal(word){
+  fcShown[word] = true;
+  const mid = $("fcTrack") && $("fcTrack").children[1];
+  if(mid) mid.querySelectorAll(".fcveil").forEach(v => v.classList.add("gone"));
+}
 const fcShown = {};                           // word -> true once revealed
 
 const FC_DAYS = [...new Set(Object.values(FCARDS).map(v => v.d))].sort((a,b) => a-b);
@@ -1677,9 +1686,7 @@ function fcRun(){
   // One tap anywhere on the card lifts every veil at once.
   $("fcTrack").children[1].onclick = () => {
     if(mDragged) return;
-    fcShown[c.word] = true;
-    $("fcTrack").children[1].querySelectorAll(".fcveil")
-      .forEach(v => v.classList.add("gone"));
+    fcReveal(c.word);
   };
   $("fcClose").onclick = () => fcExit();
   fcWireSwipe(rot);
@@ -1744,13 +1751,24 @@ function fcWireSwipe(rot){
   const end = e => {
     if(x0 === null){ drag = false; return; }
     const t = e.changedTouches && e.changedTouches[0];
-    const main = alongAxis((t ? t.clientX : x0) - x0, (t ? t.clientY : y0) - y0);
+    // Both deltas are taken BEFORE x0 is cleared; computing one of them after
+    // made it (clientX - null), which is just clientX.
+    const dx = (t ? t.clientX : x0) - x0, dy = (t ? t.clientY : y0) - y0;
+    const main = alongAxis(dx, dy), cross = acrossAxis(dx, dy);
     x0 = null; track.classList.add("snap");
     if(drag && Math.abs(main) > Math.min(95, span * 0.2)){
       const d = main < 0 ? 1 : -1;                  // away along -X = forward
       track.style.transform = `translateX(${d > 0 ? "-200%" : "0%"})`;
       setTimeout(() => fcStep(d), 240);
-    } else track.style.transform = "";
+    } else {
+      track.style.transform = "";
+      // Barely moved: that was a tap, not an abandoned drag. Deciding it here
+      // rather than letting `click` do it is what makes one tap enough.
+      if(Math.abs(main) < 12 && Math.abs(cross) < 12 && e.type === "touchend"){
+        fcTapAt = Date.now();
+        fcReveal(fcDeck[fcIdx] && fcDeck[fcIdx].word);
+      }
+    }
     drag = false;
     setTimeout(() => { mDragged = false; }, 60);
   };
