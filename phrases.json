@@ -1,123 +1,58 @@
 [
 {
-"p": "rather than",
+"p": "although",
 "t": "Contrast",
-"s": "He chose to rest rather than push himself and risk injury."
+"s": "Although she is very talented, she lacks experience."
 },
 {
-"p": "would have",
-"t": "Not / No",
-"s": "I would have won the fight. = I did not fight."
+"p": "began",
+"t": "Contrast",
+"s": "Her mother's coldness towards her husband began to decrease as they got to know each other."
 },
 {
-"p": "nothing but",
-"t": "Logic Unchanged",
-"s": "He is nothing but happy. = He is happy."
+"p": "but",
+"t": "Contrast",
+"s": "The presentation was informative but overly long and tedious."
 },
 {
-"p": "not only…but also",
-"t": "Support",
-"s": "She is not only a brilliant scientist but also a compassionate mentor."
+"p": "by contrast",
+"t": "Contrast",
+"s": "The new software is user-friendly; by contrast, the old version was complicated and slow."
 },
 {
-"p": "as well as",
-"t": "Support",
-"s": "She excels in mathematics as well as dominates the basketball court."
+"p": "despite",
+"t": "Contrast",
+"s": "Despite the rain, the outdoor concert was a huge success."
 },
 {
-"p": "could have",
-"t": "Not / No",
-"s": "I could have passed the test. = I didn't pass the test."
+"p": "even as",
+"t": "Contrast",
+"s": "Even as he struggled, he remained optimistic."
 },
 {
-"p": "seem like",
-"t": "Support",
-"s": "The improved policy changes seem like a step in the right direction."
+"p": "even if",
+"t": "Contrast",
+"s": "She plans to attend the event even if she feels unwell."
 },
 {
-"p": "virtually",
-"t": "Logic Unchanged",
-"s": "The task is virtually complete. = The task is complete."
+"p": "even in",
+"t": "Contrast",
+"s": "Even in difficult times, she found reasons to smile."
 },
 {
-"p": "anything but",
-"t": "Not / No",
-"s": "He is anything but happy. = He is not happy."
+"p": "even though",
+"t": "Contrast",
+"s": "Even though the weather was terrible, we had a wonderful time."
 },
 {
-"p": "extremely",
-"t": "Logic Unchanged",
-"s": "Dogs are extremely cool. = Dogs are cool."
+"p": "even when",
+"t": "Contrast",
+"s": "She stays calm even when faced with challenges."
 },
 {
-"p": "leads to/leading to/led to",
-"t": "Support",
-"s": "Their thorough planning led to a flawless execution of the event."
-},
-{
-"p": "just as",
-"t": "Support",
-"s": "Just as a well-tended garden flourishes, so does a community thrive with care and cooperation."
-},
-{
-"p": "hardly",
-"t": "Not / No",
-"s": "This could hardly be described as good. = This cannot be described as good."
-},
-{
-"p": "without question",
-"t": "Logic Unchanged",
-"s": "She is without question beautiful. = She is beautiful."
-},
-{
-"p": "but a",
-"t": "Logic Unchanged",
-"s": "It is but a rose. = It is a rose."
-},
-{
-"p": "no choice but to",
-"t": "Support",
-"s": "The failing business had no choice but to declare bankruptcy and close its doors."
-},
-{
-"p": "nothing but",
-"t": "Logic Unchanged",
-"s": "John is nothing but awesome. = John is awesome."
-},
-{
-"p": "very",
-"t": "Logic Unchanged",
-"s": "I am very sleepy. = I am sleepy."
-},
-{
-"p": "such as",
-"t": "Support",
-"s": "She noted numerous flaws in the writing, such as grammatical errors and awkward phrasing."
-},
-{
-"p": "so…that",
-"t": "Support",
-"s": "The movie was so captivating that everyone was on the edge of their seats."
-},
-{
-"p": "in light of",
-"t": "Support",
-"s": "In light of recent successes, the company is expanding its operations."
-},
-{
-"p": "scarcely",
-"t": "Not / No",
-"s": "Aditya scarcely remembers others' names. Aditya doesn't remember other's names."
-},
-{
-"p": "hardly ever",
-"t": "Not / No",
-"s": "Sarah hardly ever sleeps early. Sarah doesn't sleep early."
-},
-{
-"p": "the more (adjective), the more (adjective)",
-"t": "Support",
-"s": "The more diligent you are, the more successful you will become."
+"p": "even with",
+"t": "Contrast",
+"s": "Even with her busy schedule, she managed to excel in her studies."
 },
 {
 "p": "far from",
@@ -125,24 +60,9 @@
 "s": "Far from being a failure, the project turned out to be a great success"
 },
 {
-"p": "in order to",
-"t": "Support",
-"s": "She trained rigorously in order to win the championship."
-},
-{
-"p": "on the other hand",
+"p": "for all the",
 "t": "Contrast",
-"s": "The project was delivered on time; on the other hand, the quality was subpar."
-},
-{
-"p": "simply",
-"t": "Logic Unchanged",
-"s": "He is simply hungry. = He is hungry."
-},
-{
-"p": "might have",
-"t": "Not / No",
-"s": "I might have accomplished much. = I did not accomplish much."
+"s": "For all the benefits of remote work, it can also lead to feelings of isolation."
 },
 {
 "p": "force to",
@@ -150,99 +70,9 @@
 "s": "The bullies who tormented kids were forced to apologize to the entire school."
 },
 {
-"p": "rarely",
-"t": "Not / No",
-"s": "This rarely succeeds. = This will not succeed."
-},
-{
-"p": "stark contrast",
+"p": "however",
 "t": "Contrast",
-"s": "The serene countryside was in stark contrast to the bustling city."
-},
-{
-"p": "for this reason",
-"t": "Support",
-"s": "The weather was severe; for this reason, the event was canceled."
-},
-{
-"p": "merely",
-"t": "Logic Unchanged",
-"s": "It was merely a suggestion. = It was a suggestion."
-},
-{
-"p": "to be sure",
-"t": "Contrast",
-"s": "The task is difficult, to be sure, but it's not impossible."
-},
-{
-"p": "as (adjective) as it is (adjective)",
-"t": "Support",
-"s": "The solution is as effective as it is simple."
-},
-{
-"p": "turn into",
-"t": "Contrast",
-"s": "The peaceful protest turned into a chaotic scene when violence erupted."
-},
-{
-"p": "in spite of",
-"t": "Contrast",
-"s": "In spite of the challenges, they managed to achieve their goals."
-},
-{
-"p": "for all the",
-"t": "Contrast",
-"s": "For all the benefits of remote work, it can also lead to feelings of isolation."
-},
-{
-"p": "taken a turn",
-"t": "Contrast",
-"s": "The weather had been pleasant but suddenly taken a turn for the worse."
-},
-{
-"p": "just",
-"t": "Logic Unchanged",
-"s": "He is just a child. = He is a child."
-},
-{
-"p": "from this",
-"t": "Support",
-"s": "From this valuable experience, we learned how to tackle the next situation."
-},
-{
-"p": "not without",
-"t": "Logic Unchanged",
-"s": "The task was not without challenges. = The task had challenges."
-},
-{
-"p": "serves to",
-"t": "Support",
-"s": "His dedication serves to inspire others to work harder."
-},
-{
-"p": "little more than",
-"t": "Logic Unchanged",
-"s": "She is little more than a bully. = She is a bully."
-},
-{
-"p": "no more than",
-"t": "Logic Unchanged",
-"s": "He is no more than a beginning. = He is a beginner."
-},
-{
-"p": "a little",
-"t": "Logic Unchanged",
-"s": "I have a little money. = I have money."
-},
-{
-"p": "not unlike",
-"t": "Logic Unchanged",
-"s": "This is not unlike you. = This is like you."
-},
-{
-"p": "no matter",
-"t": "Contrast",
-"s": "No matter how hard he tried, he couldn't solve the problem."
+"s": "The trip was exhausting; however, the experiences were unforgettable."
 },
 {
 "p": "I do acknowledge",
@@ -250,69 +80,9 @@
 "s": "I do acknowledge her hard work, even if the results were not perfect."
 },
 {
-"p": "beyond doubt",
-"t": "Logic Unchanged",
-"s": "He is beyond doubt a nice guy. = He is a nice guy."
-},
-{
-"p": "nothing more than",
-"t": "Logic Unchanged",
-"s": "You are nothing more than a friend. = You are a friend."
-},
-{
-"p": "in fact",
-"t": "Contrast",
-"s": "The project seemed daunting at first; in fact, it turned out to be quite manageable."
-},
-{
-"p": "transform",
-"t": "Contrast",
-"s": "Her guidance helped transform a struggling student into a top performer."
-},
-{
-"p": "have a tendency toward",
-"t": "Support",
-"s": "The old building has a tendency toward frequent plumbing issues and structural weaknesses."
-},
-{
-"p": "less",
-"t": "Not / No",
-"s": "John is less greedy. = John is not greedy."
-},
-{
-"p": "in addition",
-"t": "Support",
-"s": "The team received praise for their innovation; in addition, they were awarded a substantial bonus."
-},
-{
-"p": "little",
-"t": "Not / No",
-"s": "He has little money. = He has no money."
-},
-{
-"p": "if only",
-"t": "Support",
-"s": "If only he had studied harder, he would have passed the exam."
-},
-{
-"p": "tends to",
-"t": "Support",
-"s": "The dedicated team tends to consistently exceed their project goals and deliver outstanding results."
-},
-{
-"p": "only to",
-"t": "Contrast",
-"s": "She worked hard on the project only to find out it was canceled."
-},
-{
 "p": "I do admit",
 "t": "Contrast",
 "s": "I do admit the movie had some good scenes, but overall it was disappointing."
-},
-{
-"p": "a few",
-"t": "Logic Unchanged",
-"s": "I have a few friends. = I have friends."
 },
 {
 "p": "I do concede",
@@ -320,24 +90,34 @@
 "s": "I do concede that he is talented, although his methods are unorthodox."
 },
 {
-"p": "few",
-"t": "Not / No",
-"s": "She has few problems. = She has no problems."
+"p": "in fact",
+"t": "Contrast",
+"s": "The project seemed daunting at first; in fact, it turned out to be quite manageable."
 },
 {
-"p": "only with",
-"t": "Support",
-"s": "Only with hard work and determination can success be achieved."
+"p": "in spite of",
+"t": "Contrast",
+"s": "In spite of the challenges, they managed to achieve their goals."
 },
 {
-"p": "yet to",
-"t": "Not / No",
-"s": "We have yet to clean the bathroom. = We have not cleaned the bathroom."
+"p": "instead",
+"t": "Contrast",
+"s": "He was supposed to study; instead, he watched movies all night."
 },
 {
-"p": "everything but",
-"t": "Not / No",
-"s": "James is everything but nice. = James is not nice."
+"p": "nevertheless",
+"t": "Contrast",
+"s": "The task was daunting; nevertheless, they succeeded."
+},
+{
+"p": "no matter",
+"t": "Contrast",
+"s": "No matter how hard he tried, he couldn't solve the problem."
+},
+{
+"p": "notwithstanding",
+"t": "Contrast",
+"s": "Notwithstanding the difficulties, they completed the project on time."
 },
 {
 "p": "on the contrary",
@@ -345,14 +125,29 @@
 "s": "He thought the exam would be easy; on the contrary, it was extremely difficult."
 },
 {
-"p": "only by",
-"t": "Support",
-"s": "Only by working together can we achieve our goals."
+"p": "on the other hand",
+"t": "Contrast",
+"s": "The project was delivered on time; on the other hand, the quality was subpar."
 },
 {
-"p": "resulting from",
-"t": "Support",
-"s": "The confusion resulting from the miscommunication caused delays."
+"p": "only to",
+"t": "Contrast",
+"s": "She worked hard on the project only to find out it was canceled."
+},
+{
+"p": "rather",
+"t": "Contrast",
+"s": "She chose to rest rather than finish the assignment."
+},
+{
+"p": "rather than",
+"t": "Contrast",
+"s": "He chose to rest rather than push himself and risk injury."
+},
+{
+"p": "regardless (of)",
+"t": "Contrast",
+"s": "Regardless of the obstacles, they achieved their goal."
 },
 {
 "p": "sharp contrast",
@@ -360,8 +155,493 @@
 "s": "The vibrant artwork was in sharp contrast to the dull surroundings."
 },
 {
-"p": "by contrast",
+"p": "stark contrast",
 "t": "Contrast",
-"s": "The new software is user-friendly; by contrast, the old version was complicated and slow."
+"s": "The serene countryside was in stark contrast to the bustling city."
+},
+{
+"p": "taken a turn",
+"t": "Contrast",
+"s": "The weather had been pleasant but suddenly taken a turn for the worse."
+},
+{
+"p": "than",
+"t": "Contrast",
+"s": "The new software is more user-friendly than its outdated predecessor."
+},
+{
+"p": "though",
+"t": "Contrast",
+"s": "He is highly skilled though often unreliable."
+},
+{
+"p": "to be sure",
+"t": "Contrast",
+"s": "The task is difficult, to be sure, but it's not impossible."
+},
+{
+"p": "transform",
+"t": "Contrast",
+"s": "Her guidance helped transform a struggling student into a top performer."
+},
+{
+"p": "turn into",
+"t": "Contrast",
+"s": "The peaceful protest turned into a chaotic scene when violence erupted."
+},
+{
+"p": "unless",
+"t": "Contrast",
+"s": "The project will fail unless everyone commits to working together."
+},
+{
+"p": "unlike",
+"t": "Contrast",
+"s": "Unlike his sister, who is diligent, he tends to procrastinate."
+},
+{
+"p": "whatever",
+"t": "Contrast",
+"s": "Whatever criticisms you throw at us, we will stay positive."
+},
+{
+"p": "while",
+"t": "Contrast",
+"s": "The product is high-quality while the customer service is lacking."
+},
+{
+"p": "without",
+"t": "Contrast",
+"s": "Without his guidance, the team felt lost."
+},
+{
+"p": "yet",
+"t": "Contrast",
+"s": "The book was boring yet incredibly insightful in its final chapters."
+},
+{
+"p": "a few",
+"t": "Logic Unchanged",
+"s": "I have a few friends. = I have friends."
+},
+{
+"p": "a little",
+"t": "Logic Unchanged",
+"s": "I have a little money. = I have money."
+},
+{
+"p": "beyond doubt",
+"t": "Logic Unchanged",
+"s": "He is beyond doubt a nice guy. = He is a nice guy."
+},
+{
+"p": "but a",
+"t": "Logic Unchanged",
+"s": "It is but a rose. = It is a rose."
+},
+{
+"p": "extremely",
+"t": "Logic Unchanged",
+"s": "Dogs are extremely cool. = Dogs are cool."
+},
+{
+"p": "just",
+"t": "Logic Unchanged",
+"s": "He is just a child. = He is a child."
+},
+{
+"p": "little more than",
+"t": "Logic Unchanged",
+"s": "She is little more than a bully. = She is a bully."
+},
+{
+"p": "merely",
+"t": "Logic Unchanged",
+"s": "It was merely a suggestion. = It was a suggestion."
+},
+{
+"p": "no more than",
+"t": "Logic Unchanged",
+"s": "He is no more than a beginning. = He is a beginner."
+},
+{
+"p": "not unlike",
+"t": "Logic Unchanged",
+"s": "This is not unlike you. = This is like you."
+},
+{
+"p": "not without",
+"t": "Logic Unchanged",
+"s": "The task was not without challenges. = The task had challenges."
+},
+{
+"p": "nothing but",
+"t": "Logic Unchanged",
+"s": "He is nothing but happy. = He is happy."
+},
+{
+"p": "nothing more than",
+"t": "Logic Unchanged",
+"s": "You are nothing more than a friend. = You are a friend."
+},
+{
+"p": "simply",
+"t": "Logic Unchanged",
+"s": "He is simply hungry. = He is hungry."
+},
+{
+"p": "very",
+"t": "Logic Unchanged",
+"s": "I am very sleepy. = I am sleepy."
+},
+{
+"p": "virtually",
+"t": "Logic Unchanged",
+"s": "The task is virtually complete. = The task is complete."
+},
+{
+"p": "without question",
+"t": "Logic Unchanged",
+"s": "She is without question beautiful. = She is beautiful."
+},
+{
+"p": "Words that don't change the logic",
+"t": "Logic Unchanged",
+"s": "These two sentences are equal in meaning."
+},
+{
+"p": "anything but",
+"t": "Not / No",
+"s": "He is anything but happy. = He is not happy."
+},
+{
+"p": "could have",
+"t": "Not / No",
+"s": "I could have passed the test. = I didn't pass the test."
+},
+{
+"p": "everything but",
+"t": "Not / No",
+"s": "James is everything but nice. = James is not nice."
+},
+{
+"p": "few",
+"t": "Not / No",
+"s": "She has few problems. = She has no problems."
+},
+{
+"p": "hardly",
+"t": "Not / No",
+"s": "This could hardly be described as good. = This cannot be described as good."
+},
+{
+"p": "hardly ever",
+"t": "Not / No",
+"s": "Sarah hardly ever sleeps early. Sarah doesn't sleep early."
+},
+{
+"p": "less",
+"t": "Not / No",
+"s": "John is less greedy. = John is not greedy."
+},
+{
+"p": "little",
+"t": "Not / No",
+"s": "He has little money. = He has no money."
+},
+{
+"p": "might have",
+"t": "Not / No",
+"s": "I might have accomplished much. = I did not accomplish much."
+},
+{
+"p": "rarely",
+"t": "Not / No",
+"s": "This rarely succeeds. = This will not succeed."
+},
+{
+"p": "scarcely",
+"t": "Not / No",
+"s": "Aditya scarcely remembers others' names. Aditya doesn't remember other's names."
+},
+{
+"p": "would have",
+"t": "Not / No",
+"s": "I would have won the fight. = I did not fight."
+},
+{
+"p": "yet to",
+"t": "Not / No",
+"s": "We have yet to clean the bathroom. = We have not cleaned the bathroom."
+},
+{
+"p": "after",
+"t": "Support",
+"s": "We celebrated after finishing the project successfully."
+},
+{
+"p": "also",
+"t": "Support",
+"s": "He is a talented musician. Also, he is an an excellent cook."
+},
+{
+"p": "and",
+"t": "Support",
+"s": "She is an excellent musician and a talented artist."
+},
+{
+"p": "as",
+"t": "Support",
+"s": "He couldn’t come to the party as he was feeling unwell."
+},
+{
+"p": "as (adjective) as it is (adjective)",
+"t": "Support",
+"s": "The solution is as effective as it is simple."
+},
+{
+"p": "as well as",
+"t": "Support",
+"s": "She excels in mathematics as well as dominates the basketball court."
+},
+{
+"p": "because",
+"t": "Support",
+"s": "I love pizza because it is great."
+},
+{
+"p": "by",
+"t": "Support",
+"s": "By studying hard, she was able to pass the exam."
+},
+{
+"p": "equally",
+"t": "Support",
+"s": "Her chemistry teacher is strict; her biology teacher is equally demanding."
+},
+{
+"p": "for",
+"t": "Support",
+"s": "She took an umbrella for it looked like rain."
+},
+{
+"p": "for this reason",
+"t": "Support",
+"s": "The weather was severe; for this reason, the event was canceled."
+},
+{
+"p": "from this",
+"t": "Support",
+"s": "From this valuable experience, we learned how to tackle the next situation."
+},
+{
+"p": "given",
+"t": "Support",
+"s": "Given his expertise, he was the perfect candidate for the job."
+},
+{
+"p": "have a tendency toward",
+"t": "Support",
+"s": "The old building has a tendency toward frequent plumbing issues and structural weaknesses."
+},
+{
+"p": "if",
+"t": "Support",
+"s": "If you invest your money each month, you'll likely be rich in retirement."
+},
+{
+"p": "if only",
+"t": "Support",
+"s": "If only he had studied harder, he would have passed the exam."
+},
+{
+"p": "in",
+"t": "Support",
+"s": "In problematic instances such as these, it's important we assess the damage."
+},
+{
+"p": "in addition",
+"t": "Support",
+"s": "The team received praise for their innovation; in addition, they were awarded a substantial bonus."
+},
+{
+"p": "in light of",
+"t": "Support",
+"s": "In light of recent successes, the company is expanding its operations."
+},
+{
+"p": "in order to",
+"t": "Support",
+"s": "She trained rigorously in order to win the championship."
+},
+{
+"p": "indeed",
+"t": "Support",
+"s": "The food was delicious; indeed, it was all gone in less than an hour."
+},
+{
+"p": "just as",
+"t": "Support",
+"s": "Just as a well-tended garden flourishes, so does a community thrive with care and cooperation."
+},
+{
+"p": "leads to/leading to/led to",
+"t": "Support",
+"s": "Their thorough planning led to a flawless execution of the event."
+},
+{
+"p": "like (examples)",
+"t": "Support",
+"s": "Let's look at the successful cases, like the strongest tech companies."
+},
+{
+"p": "like (similarity)",
+"t": "Support",
+"s": "Like a peaceful lake on a beautiful day, her mind was calm."
+},
+{
+"p": "likewise",
+"t": "Support",
+"s": "She enjoys hiking; likewise, her brother is an outdoor enthusiast."
+},
+{
+"p": "moreover",
+"t": "Support",
+"s": "The proposal is costly. Moreover, it’s impractical."
+},
+{
+"p": "no choice but to",
+"t": "Support",
+"s": "The failing business had no choice but to declare bankruptcy and close its doors."
+},
+{
+"p": "not only…but also",
+"t": "Support",
+"s": "She is not only a brilliant scientist but also a compassionate mentor."
+},
+{
+"p": "only by",
+"t": "Support",
+"s": "Only by working together can we achieve our goals."
+},
+{
+"p": "only with",
+"t": "Support",
+"s": "Only with hard work and determination can success be achieved."
+},
+{
+"p": "resulting from",
+"t": "Support",
+"s": "The confusion resulting from the miscommunication caused delays."
+},
+{
+"p": "seem like",
+"t": "Support",
+"s": "The improved policy changes seem like a step in the right direction."
+},
+{
+"p": "seems",
+"t": "Support",
+"s": "The community garden initiative seems poised to bring joy."
+},
+{
+"p": "serves to",
+"t": "Support",
+"s": "His dedication serves to inspire others to work harder."
+},
+{
+"p": "since",
+"t": "Support",
+"s": "I started exercising regularly since it improves my health."
+},
+{
+"p": "so",
+"t": "Support",
+"s": "He trained hard, so he won the race."
+},
+{
+"p": "so…that",
+"t": "Support",
+"s": "The movie was so captivating that everyone was on the edge of their seats."
+},
+{
+"p": "such as",
+"t": "Support",
+"s": "She noted numerous flaws in the writing, such as grammatical errors and awkward phrasing."
+},
+{
+"p": "tends to",
+"t": "Support",
+"s": "The dedicated team tends to consistently exceed their project goals and deliver outstanding results."
+},
+{
+"p": "that",
+"t": "Support",
+"s": "He was so exhausted that he fell asleep immediately."
+},
+{
+"p": "the more (adjective), the more (adjective)",
+"t": "Support",
+"s": "The more diligent you are, the more successful you will become."
+},
+{
+"p": "then",
+"t": "Support",
+"s": "John exerted much effort in improving his grades. He then graduated with honors."
+},
+{
+"p": "therefore",
+"t": "Support",
+"s": "It started raining; therefore we canceled the picnic."
+},
+{
+"p": "through",
+"t": "Support",
+"s": "He was able to overcome his fears through beneficial therapy sessions."
+},
+{
+"p": "thus",
+"t": "Support",
+"s": "The experiment failed; thus, we need to reconsider our approach."
+},
+{
+"p": "to be words",
+"t": "Support",
+"s": "The abandoned factory is a breeding ground for unsafe conditions."
+},
+{
+"p": "when",
+"t": "Support",
+"s": "When you eat right and exercise three times a week, your health is bound to improve."
+},
+{
+"p": "where",
+"t": "Support",
+"s": "We found ourselves in a difficult situation where communication broke down."
+},
+{
+"p": "whereby",
+"t": "Support",
+"s": "They developed an efficient workflow, whereby productivity increased."
+},
+{
+"p": "which",
+"t": "Support",
+"s": "She avoided unhealthy habits, which led to a healthy and productive life."
+},
+{
+"p": "who",
+"t": "Support",
+"s": "The company is looking to promote an individual who exudes excellence."
+},
+{
+"p": "whose",
+"t": "Support",
+"s": "Let's recruit the successful people whose proven track records can help our firm."
+},
+{
+"p": "with",
+"t": "Support",
+"s": "With determination and effort, they achieved their goals."
 }
 ]

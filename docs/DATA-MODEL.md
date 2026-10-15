@@ -288,15 +288,24 @@ key, so one tap uncovers both.
 
 ### `phrases.json` — TC/SE signal phrases
 
-73 phrases from the strategy-series workbook, built by `phrases.py`.
+129 phrases, built by `phrases.py` from two sources: the strategy-series
+workbook and a Google Sheet (fetched by id as xlsx, so the build is
+reproducible without a local copy).
 
 ```json
 [ {"p": "on the contrary", "t": "Contrast",
    "s": "He thought the exam would be easy; on the contrary, it was difficult."} ]
 ```
 
-`t` is one of **Contrast**, **Support**, **Logic Unchanged**, **Not / No** — what
-the phrase does to a sentence's logic, which is the thing being tested.
+`t` is one of **Contrast** (44), **Support** (54), **Logic Unchanged** (18),
+**Not / No** (13) — what the phrase does to a sentence's logic, which is the
+thing being tested.
+
+Sources come in two shapes and `SHEETS` maps sheet names to types rather than
+guessing: some sheets carry the type in a column, others *are* a type. The same
+map excludes the punctuation sheet — a semicolon is a real signal, but not
+something you can put on the front of a flashcard and recall. Phrases are
+deduplicated across sources, keeping whichever copy has an example.
 
 They are loaded as **card-shaped objects** (`word`, `one_line`, `means`,
 `sentences`), which is what lets the entire Mountain run on them untouched: the
