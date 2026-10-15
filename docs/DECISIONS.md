@@ -506,6 +506,20 @@ The shuffle button now always deals a new order rather than toggling back to
 sorted. Breaking an order you have begun to memorise is the whole point of it,
 and a toggle only did that every second press.
 
+### D-56 — Phrases are keyed apart from vocabulary
+A phrase's state key is its text prefixed with `¶`, not the text itself.
+**belie** is both a word on the GregMat list and a contrast signal; sharing a
+key meant sharing one known/unknown verdict and overwriting each other in the
+lookup index.
+
+The rule that keeps this straight: **verdicts, sessions and `data-w` key on
+`keyOf(card)`; only display text uses `card.word`.** The missed-word list has
+to translate back, and a missed phrase has no Browse entry to link to.
+
+Worth noticing that the collision arrived with a later source, not the first
+one — the first 73 phrases had no overlap at all. Adding sources is the normal
+way this project grows, so the keying has to hold rather than happen to work.
+
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to
 Browse and Drill. Measured on a 375px viewport they made the header **452px of

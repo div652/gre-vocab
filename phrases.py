@@ -43,6 +43,8 @@ SHEETS = {
     "support words": "Support",
     "contrast phrases": "Contrast",
     "contrast words": "Contrast",
+    "less obvious support words": "Support",
+    "less obvious contrast words": "Contrast",
     "words that dont change the logi": "Logic Unchanged",
     "words that don't change the logic": "Logic Unchanged",
     'words that mean "not" or "no"': "Not / No",
@@ -53,6 +55,7 @@ DEFAULT_SOURCES = [
     str(pathlib.Path.home() / "Downloads" /
         "(2024) TC and SE Strategy Series - Session 2 Support_Contrast Words.xlsx"),
     "1IHTug3lVoAIHogqpaD-E3LbRb8-a1q_ghS3wHecgHDM",
+    "1nwySPN-iTYp6e131mUTnIZZAU4A6JGhdotgtl2I4Thg",
 ]
 
 UA = "gre-vocab/1.0 (personal study project)"

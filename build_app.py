@@ -973,11 +973,17 @@ const PHRASE_CARDS = PHRASES.map(p => ({
   // sheet renders both and the sentence was appearing twice.
   means: p.t,
   sentences: p.s ? [p.s] : [], groups: [], phrase: true,
+  // Keyed apart from the vocabulary. "belie" is both a word on the list and a
+  // contrast signal; without this they would share one known/unknown verdict
+  // and overwrite each other in the lookup.
+  key: "¶" + p.p,
 }));
+/* Verdicts, sessions and the DOM all key on this, never on the display text. */
+const keyOf = c => c.key || c.word;
 const PHRASE_KINDS = [...new Set(PHRASE_CARDS.map(c => c.one_line))].sort();
 const BY_WORD = {};
 CARDS.forEach(c => { BY_WORD[c.word] = c; });
-PHRASE_CARDS.forEach(c => { BY_WORD[c.word] = c; });
+PHRASE_CARDS.forEach(c => { BY_WORD[c.key] = c; });
 const cardByWord = w => BY_WORD[w] || null;
 
 const MTN_KEY = "gre-vocab-mountain-v1", MSEL_KEY = "gre-vocab-mtn-sel-v1",
@@ -1007,7 +1013,7 @@ const mFlipped = new Set();                            // words currently showin
 function mSaveSession(){
   if(!mRunning){ localStorage.removeItem(MSESS_KEY); return; }
   localStorage.setItem(MSESS_KEY, JSON.stringify({
-    words: mDeck.map(c => c.word), page: mPage, verdict: mVerdict,
+    words: mDeck.map(keyOf), page: mPage, verdict: mVerdict,
     den: mDen, shuf: mShuffled, groups: [...mSel], src: mSrc,
     kinds: [...mKinds], t: Date.now(),
   }));
@@ -1018,6 +1024,14 @@ function mLoadSession(){
   if(!s || !s.words || !s.words.length) return null;
   const deck = s.words.map(cardByWord).filter(Boolean);
   return deck.length ? {...s, deck} : null;
+}
+
+/* How a run describes what it covered. A phrase run has kinds, not lists. */
+function runScope(r){
+  if(r && r.src === "phrases")
+    return (r.kinds && r.kinds.length) ? "phrases: " + r.kinds.join(", ") : "all phrases";
+  const g = (r && r.groups) || [];
+  return g.length ? "lists " + g.join(", ") : "all lists";
 }
 
 /* Finished runs are kept. Losing a score to a stray back press is exactly the
@@ -1043,20 +1057,20 @@ const wordsInGroups = gs => CARDS.filter(c => (c.groups||[]).some(g => gs.has(g)
 function mountainSetup(){
   const rows = GNUMS.map(g => {
     const ws = CARDS.filter(c => (c.groups||[]).includes(g));
-    const known = ws.filter(c => mtn[c.word] && mtn[c.word].k).length;
+    const known = ws.filter(c => mtn[keyOf(c)] && mtn[keyOf(c)].k).length;
     const pct = Math.round(100 * known / (ws.length || 1));
     return `<button class="gchip ${mSel.has(g) ? "on" : ""}" data-g="${g}">
         <b>${g}</b><i style="width:${pct}%"></i><u>${known}/${ws.length}</u></button>`;
   }).join("");
   const kindRows = PHRASE_KINDS.map(k => {
     const ws = PHRASE_CARDS.filter(c => c.one_line === k);
-    const known = ws.filter(c => mtn[c.word] && mtn[c.word].k).length;
+    const known = ws.filter(c => mtn[keyOf(c)] && mtn[keyOf(c)].k).length;
     return `<button class="gchip wide ${mKinds.has(k) ? "on" : ""}" data-k="${esc(k)}">
         <b>${esc(k)}</b><i style="width:${Math.round(100*known/(ws.length||1))}%"></i>
         <u>${known}/${ws.length}</u></button>`;
   }).join("");
   const picked = mPool();
-  const fresh = picked.filter(c => !mtn[c.word]).length;
+  const fresh = picked.filter(c => !mtn[keyOf(c)]).length;
   const phr = mSrc === "phrases";
   const held = mLoadSession();
   const runs = mRuns.slice(0, 8);
@@ -1065,7 +1079,7 @@ function mountainSetup(){
       ${held ? `<div class="resume">
           <div><strong>Session in progress</strong><br>
             <span class="hint">${Object.keys(held.verdict||{}).length} of ${held.deck.length} judged
-              &middot; groups ${(held.groups||[]).join(", ") || "-"}</span></div>
+              &middot; ${runScope(held)}</span></div>
           <button class="btn on" id="mResume">Resume</button>
           <button class="btn" id="mDrop">Discard</button>
         </div>` : ""}
@@ -1101,7 +1115,7 @@ function mountainSetup(){
       ${runs.length ? `<hr class="sep"><div class="seclabel">Past runs</div>
         <div class="runs">${runs.map((r, i) => `<div data-r="${i}">
             <b>${r.knew}/${r.total}</b>
-            <span>${r.missed.length} missed &middot; groups ${(r.groups||[]).join(", ") || "-"}
+            <span>${r.missed.length} missed &middot; ${runScope(r)}
               &middot; ${new Date(r.t).toLocaleString([], {dateStyle:"medium", timeStyle:"short"})}
               ${r.done ? "" : " &middot; ended early"}</span></div>`).join("")}</div>` : ""}
     </div></div>`;
@@ -1121,7 +1135,7 @@ function mountainSetup(){
     el.onclick = () => mShowRun(mRuns[+el.dataset.r]));
 
   const refresh = () => {
-    const pool = mPool(), f = pool.filter(c => !mtn[c.word]).length;
+    const pool = mPool(), f = pool.filter(c => !mtn[keyOf(c)]).length;
     $("mCount").textContent = `${pool.length} ${mSrc === "phrases" ? "phrases" : "words"}`
       + ` selected · ${f} not yet judged`;
     $("mStart").disabled = !pool.length;
@@ -1149,7 +1163,7 @@ function mountainSetup(){
     if(!ws.length) return;
     if(!confirm(`Forget the known/unknown record for ${ws.length} words in lists `
       + [...mSel].sort((a,b)=>a-b).join(", ") + `?\n\nPast runs are kept.`)) return;
-    ws.forEach(c => delete mtn[c.word]);
+    ws.forEach(c => delete mtn[keyOf(c)]);
     saveMtn(); renderMountain();
   };
   if($("mAll")) $("mAll").onclick = () => { mSel = new Set(GNUMS); saveMSel(); renderMountain(); };
@@ -1168,7 +1182,7 @@ function mountainSetup(){
   $("mStart").onclick = () => {
     let pool = mPool();
     if($("mOnlyNew").checked){
-      const f = pool.filter(c => !mtn[c.word]);
+      const f = pool.filter(c => !mtn[keyOf(c)]);
       if(f.length) pool = f;                    // fall back rather than start empty
     }
     mDeck = mShuffled ? shuffled(pool) : pool.slice();
@@ -1242,13 +1256,14 @@ function mCardHTML(c){
   // climbed again from scratch. The all-time record lives on in `mtn` - it
   // drives the per-list progress and the "not yet judged" filter - and shows
   // here only as a small dot on cards you have not judged yet this run.
-  const v = mVerdict[c.word];
+  const k = keyOf(c);
+  const v = mVerdict[k];
   const cls = v === undefined ? "" : v ? "k" : "n";
-  const prev = mtn[c.word];
+  const prev = mtn[k];
   const dot = (prev && v === undefined)
     ? `<i class="prevdot ${prev.k ? "pk" : "pn"}" title="Last time: ${prev.k ? "knew it" : "didn't"}"></i>` : "";
-  const showBack = mFlipped.has(c.word);
-  return `<div class="mcard ${cls} ${showBack ? "flipped" : ""}" data-w="${esc(c.word)}">${dot}
+  const showBack = mFlipped.has(k);
+  return `<div class="mcard ${cls} ${showBack ? "flipped" : ""}" data-w="${esc(k)}">${dot}
     <div class="mfa">
       <div class="mfi">
         <div class="mside front"><span class="mcw">${esc(c.word)}</span></div>
@@ -1495,6 +1510,7 @@ function mFinish(){
   const missed = seen.filter(x => !x[1]).map(x => x[0]);
   const run = {
     t: Date.now(), src: mSrc, groups: [...mSel].sort((a,b) => a-b),
+    kinds: [...mKinds],
     total: mDeck.length, seen: seen.length, knew: seen.length - missed.length,
     missed, done: seen.length >= mDeck.length && mDeck.length > 0,
   };
@@ -1521,7 +1537,8 @@ function mShowRun(run){
     <h4 class="mh4">Words to go back to</h4>
     <div class="wrongs">${missed.length
       ? missed.map(w => { const c = cardByWord(w) || {};
-          return `<div data-w="${esc(w)}"><b>${esc(w)}</b><span>${esc(c.one_line||"")}</span></div>`;
+          return `<div data-w="${esc(w)}" data-nav="${esc(c.phrase ? "" : (c.word || ""))}">
+            <b>${esc(c.word || w)}</b><span>${esc(c.one_line||"")}</span></div>`;
         }).join("")
       : `<div><span>Nothing missed.</span></div>`}</div>
     <p class="hint" style="margin:.5rem 0 0">Kept under <strong>Past runs</strong> on the
@@ -1541,8 +1558,11 @@ function mShowRun(run){
     mSaveSession(); renderMountain();
   };
   $("msheet").querySelectorAll(".wrongs div[data-w]").forEach(el =>
-    el.onclick = () => { $("msheet").classList.add("hidden"); mRunning = false;
-      go("/browse/" + encodeURIComponent(el.dataset.w)); });
+    el.onclick = () => {
+      if(!el.dataset.nav) return;          // a phrase has no Browse entry
+      $("msheet").classList.add("hidden"); mRunning = false;
+      go("/browse/" + encodeURIComponent(el.dataset.nav));
+    });
 }
 
 /* ==========================================================================

@@ -1,13 +1,28 @@
 [
 {
+"p": "admittedly",
+"t": "Contrast",
+"s": "Pizza is amazing. Admittedly, it is unhealthy."
+},
+{
 "p": "although",
 "t": "Contrast",
 "s": "Although she is very talented, she lacks experience."
 },
 {
+"p": "balance",
+"t": "Contrast",
+"s": "The humor in the story balances well with its sadness."
+},
+{
 "p": "began",
 "t": "Contrast",
 "s": "Her mother's coldness towards her husband began to decrease as they got to know each other."
+},
+{
+"p": "belie",
+"t": "Contrast",
+"s": "His calm demeanor belies his underlying anxiety."
 },
 {
 "p": "but",
@@ -18,6 +33,21 @@
 "p": "by contrast",
 "t": "Contrast",
 "s": "The new software is user-friendly; by contrast, the old version was complicated and slow."
+},
+{
+"p": "counter",
+"t": "Contrast",
+"s": "His cautious approach counters his frequent reckless decisions."
+},
+{
+"p": "counterintuitive",
+"t": "Contrast",
+"s": "It’s counterintuitive that exercise can increase your energy levels when you’re tired."
+},
+{
+"p": "curious",
+"t": "Contrast",
+"s": "It's curious that the more he eats, the thinner he gets."
 },
 {
 "p": "despite",
@@ -60,14 +90,29 @@
 "s": "Far from being a failure, the project turned out to be a great success"
 },
 {
+"p": "fight",
+"t": "Contrast",
+"s": "When good fights evil..."
+},
+{
 "p": "for all the",
 "t": "Contrast",
 "s": "For all the benefits of remote work, it can also lead to feelings of isolation."
 },
 {
+"p": "force",
+"t": "Contrast",
+"s": "Students who insist on not studying sometimes must be forced to study hard."
+},
+{
 "p": "force to",
 "t": "Contrast",
 "s": "The bullies who tormented kids were forced to apologize to the entire school."
+},
+{
+"p": "hope",
+"t": "Contrast",
+"s": "Frank hoped that he'd be rich; his small apartment was a reminder that he wasn't."
 },
 {
 "p": "however",
@@ -105,6 +150,11 @@
 "s": "He was supposed to study; instead, he watched movies all night."
 },
 {
+"p": "ironic/ironically",
+"t": "Contrast",
+"s": "Ironically, the safest car on the market had the most recalls."
+},
+{
 "p": "nevertheless",
 "t": "Contrast",
 "s": "The task was daunting; nevertheless, they succeeded."
@@ -118,6 +168,11 @@
 "p": "notwithstanding",
 "t": "Contrast",
 "s": "Notwithstanding the difficulties, they completed the project on time."
+},
+{
+"p": "odd/oddly",
+"t": "Contrast",
+"s": "Oddly, the simplest solution was the hardest to find."
 },
 {
 "p": "on the contrary",
@@ -135,6 +190,36 @@
 "s": "She worked hard on the project only to find out it was canceled."
 },
 {
+"p": "opposition",
+"t": "Contrast",
+"s": "There is significant opposition between economic growth and environmental protection."
+},
+{
+"p": "oscillate",
+"t": "Contrast",
+"s": "His mood oscillates between happiness and despair."
+},
+{
+"p": "paradox/paradoxically",
+"t": "Contrast",
+"s": "Paradoxically, the more he learns, the less confident he feels."
+},
+{
+"p": "pendulum",
+"t": "Contrast",
+"s": "His decisions swing like a pendulum between caution and recklessness."
+},
+{
+"p": "prevent (and similar type words)",
+"t": "Contrast",
+"s": "Lack of funding prevents the project from moving forward."
+},
+{
+"p": "puzzling",
+"t": "Contrast",
+"s": "It is puzzling that he excels in practice but struggles during actual games."
+},
+{
 "p": "rather",
 "t": "Contrast",
 "s": "She chose to rest rather than finish the assignment."
@@ -150,6 +235,11 @@
 "s": "Regardless of the obstacles, they achieved their goal."
 },
 {
+"p": "remarkable/remarkably",
+"t": "Contrast",
+"s": "Remarkably, the smallest player on the team scored the most goals."
+},
+{
 "p": "sharp contrast",
 "t": "Contrast",
 "s": "The vibrant artwork was in sharp contrast to the dull surroundings."
@@ -158,6 +248,16 @@
 "p": "stark contrast",
 "t": "Contrast",
 "s": "The serene countryside was in stark contrast to the bustling city."
+},
+{
+"p": "supposed",
+"t": "Contrast",
+"s": "He was supposed to be the expert, but he didn't know the basics."
+},
+{
+"p": "surprise/suprising/surprisingly",
+"t": "Contrast",
+"s": "Surprisingly, the least experienced candidate performed the best."
 },
 {
 "p": "taken a turn",
@@ -190,6 +290,16 @@
 "s": "The peaceful protest turned into a chaotic scene when violence erupted."
 },
 {
+"p": "typically",
+"t": "Contrast",
+"s": "Typically he is sad; today, he is happy."
+},
+{
+"p": "unexpectedly",
+"t": "Contrast",
+"s": "Unexpectedly, the quietest person in the room had the most to say."
+},
+{
 "p": "unless",
 "t": "Contrast",
 "s": "The project will fail unless everyone commits to working together."
@@ -200,6 +310,11 @@
 "s": "Unlike his sister, who is diligent, he tends to procrastinate."
 },
 {
+"p": "versus",
+"t": "Contrast",
+"s": "It's a classic case of quality versus quantity."
+},
+{
 "p": "whatever",
 "t": "Contrast",
 "s": "Whatever criticisms you throw at us, we will stay positive."
@@ -208,6 +323,11 @@
 "p": "while",
 "t": "Contrast",
 "s": "The product is high-quality while the customer service is lacking."
+},
+{
+"p": "wish",
+"t": "Contrast",
+"s": "John wished that he would never experience war; the war began the next day."
 },
 {
 "p": "without",
@@ -415,6 +535,11 @@
 "s": "By studying hard, she was able to pass the exam."
 },
 {
+"p": "demonstrate/demonstrating",
+"t": "Support",
+"s": "She ignored the warnings, demonstrating her disregard for safety."
+},
+{
 "p": "equally",
 "t": "Support",
 "s": "Her chemistry teacher is strict; her biology teacher is equally demanding."
@@ -443,6 +568,11 @@
 "p": "have a tendency toward",
 "t": "Support",
 "s": "The old building has a tendency toward frequent plumbing issues and structural weaknesses."
+},
+{
+"p": "have/has",
+"t": "Support",
+"s": "He studied hard, having realized the importance of the exam."
 },
 {
 "p": "if",
@@ -505,6 +635,11 @@
 "s": "She enjoys hiking; likewise, her brother is an outdoor enthusiast."
 },
 {
+"p": "make/made",
+"t": "Support",
+"s": "She smiled warmly, making everyone in the room feel welcome."
+},
+{
 "p": "moreover",
 "t": "Support",
 "s": "The proposal is costly. Moreover, it’s impractical."
@@ -530,6 +665,16 @@
 "s": "Only with hard work and determination can success be achieved."
 },
 {
+"p": "poses",
+"t": "Support",
+"s": "The broken bridge poses a serious risk to travelers."
+},
+{
+"p": "render/has rendered",
+"t": "Support",
+"s": "The software malfunction renders the system useless."
+},
+{
 "p": "resulting from",
 "t": "Support",
 "s": "The confusion resulting from the miscommunication caused delays."
@@ -550,6 +695,11 @@
 "s": "His dedication serves to inspire others to work harder."
 },
 {
+"p": "show/showing",
+"t": "Support",
+"s": "He hid the report, showing his lack of honesty."
+},
+{
 "p": "since",
 "t": "Support",
 "s": "I started exercising regularly since it improves my health."
@@ -568,6 +718,11 @@
 "p": "such as",
 "t": "Support",
 "s": "She noted numerous flaws in the writing, such as grammatical errors and awkward phrasing."
+},
+{
+"p": "suggest",
+"t": "Support",
+"s": "His constant lateness suggests a lack of commitment."
 },
 {
 "p": "tends to",
@@ -603,6 +758,11 @@
 "p": "thus",
 "t": "Support",
 "s": "The experiment failed; thus, we need to reconsider our approach."
+},
+{
+"p": "to",
+"t": "Support",
+"s": "He stayed late at the office to finish the project."
 },
 {
 "p": "to be words",

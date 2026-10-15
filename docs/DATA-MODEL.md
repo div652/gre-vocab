@@ -288,8 +288,8 @@ key, so one tap uncovers both.
 
 ### `phrases.json` — TC/SE signal phrases
 
-129 phrases, built by `phrases.py` from two sources: the strategy-series
-workbook and a Google Sheet (fetched by id as xlsx, so the build is
+161 phrases, built by `phrases.py` from three sources: the strategy-series
+workbook and two Google Sheets (fetched by id as xlsx, so the build is
 reproducible without a local copy).
 
 ```json
@@ -297,7 +297,7 @@ reproducible without a local copy).
    "s": "He thought the exam would be easy; on the contrary, it was difficult."} ]
 ```
 
-`t` is one of **Contrast** (44), **Support** (54), **Logic Unchanged** (18),
+`t` is one of **Contrast** (68), **Support** (62), **Logic Unchanged** (18),
 **Not / No** (13) — what the phrase does to a sentence's logic, which is the
 thing being tested.
 
@@ -313,8 +313,11 @@ grid, the flip, the verdicts, the saved runs, the density. What a phrase signals
 stands in for the definition; its example sentence goes in `sentences` and not
 also into `means`, or the detail sheet renders it twice.
 
-`BY_WORD` indexes vocabulary and phrases together, so a lookup by word resolves
-either.
+`BY_WORD` indexes vocabulary and phrases together, and a phrase's key is its
+text prefixed with `¶`. That prefix is load-bearing: **belie** is both a word on
+the list and a contrast signal, and without it the two would share one
+known/unknown verdict and overwrite each other in the index. Verdicts, sessions
+and `data-w` all key on `keyOf(card)`; only the display text uses `card.word`.
 
 ### Quiz scopes
 
