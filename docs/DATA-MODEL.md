@@ -161,6 +161,8 @@ All keys are versioned. **None of this is ever written into generated data.**
 | `gre-vocab-prefs-v1` | `{theme, scale, voice, rate}` — appearance and reading voice |
 | `gre-vocab-mountain-v1` | `{ word: {k: 0\|1, t: ms} }` — Vocab Mountain known/unknown |
 | `gre-vocab-mtn-sel-v1` | array of GregMat list numbers selected in the Mountain |
+| `gre-vocab-mtn-src-v1` | which deck the Mountain is on: `lists` or `phrases` |
+| `gre-vocab-mtn-kinds-v1` | phrase kinds selected, when on the phrases deck |
 | `gre-vocab-mtn-density-v1` | cards per screen in the Mountain: 1, 2, 4 or 6 |
 | `gre-vocab-mtn-session-v1` | the run in progress, so leaving the mode is a pause |
 | `gre-vocab-mtn-runs-v1` | last 60 finished runs: score and the words missed |
@@ -283,6 +285,27 @@ fixed percentages, defined in `FC_REGIONS`:
 They are masks laid **over** the image, not crops of it, so the sign frame and
 the brick stay intact and revealing one reflows nothing. The last two share a
 key, so one tap uncovers both.
+
+### `phrases.json` — TC/SE signal phrases
+
+73 phrases from the strategy-series workbook, built by `phrases.py`.
+
+```json
+[ {"p": "on the contrary", "t": "Contrast",
+   "s": "He thought the exam would be easy; on the contrary, it was difficult."} ]
+```
+
+`t` is one of **Contrast**, **Support**, **Logic Unchanged**, **Not / No** — what
+the phrase does to a sentence's logic, which is the thing being tested.
+
+They are loaded as **card-shaped objects** (`word`, `one_line`, `means`,
+`sentences`), which is what lets the entire Mountain run on them untouched: the
+grid, the flip, the verdicts, the saved runs, the density. What a phrase signals
+stands in for the definition; its example sentence goes in `sentences` and not
+also into `means`, or the detail sheet renders it twice.
+
+`BY_WORD` indexes vocabulary and phrases together, so a lookup by word resolves
+either.
 
 ### Quiz scopes
 

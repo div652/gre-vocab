@@ -23,6 +23,7 @@ BANK = HERE / "bank"
 VIDEOS = HERE / "videos.json"
 SYNONYMS = HERE / "synonyms.json"
 FLASHCARDS = HERE / "flashcards.json"
+PHRASEFILE = HERE / "phrases.json"
 OUT = HERE / "out"
 
 # Order the group kinds by study value, most useful first.
@@ -294,6 +295,15 @@ code{background:var(--panel2);padding:.05rem .3rem;border-radius:5px;font-size:.
    fills the viewport, flips in 3D, and takes swipes.
    ============================================================ */
 .gpick{display:grid;grid-template-columns:repeat(auto-fill,minmax(74px,1fr));gap:.4rem;margin:.6rem 0}
+/* Four named kinds rather than 38 numbers, so they get room to be read. */
+.gpick.kinds{grid-template-columns:repeat(auto-fit,minmax(9rem,1fr))}
+.gchip.wide b{font-size:.84rem;line-height:1.25}
+.srcpick{display:flex;gap:.4rem;margin:.2rem 0 .9rem}
+.srctab{flex:1;font-family:var(--ui);font-size:.86rem;font-weight:600;cursor:pointer;
+  border:1px solid var(--line);background:var(--panel2);color:var(--ink2);
+  border-radius:12px;padding:.55rem .6rem}
+.srctab.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.srctab span{display:inline-block;margin-left:.35rem;font-size:.72rem;opacity:.7}
 .gchip{position:relative;overflow:hidden;font-family:var(--ui);border:1px solid var(--line);
   background:var(--panel2);color:var(--ink2);border-radius:12px;padding:.45rem .2rem .55rem;
   text-align:center;cursor:pointer;display:block}
@@ -683,6 +693,7 @@ const BANK = __BANK__;
 const KINDLABEL = __KINDLABEL__;
 const VIDEOS = __VIDEOS__;
 const FCARDS = __FCARDS__;
+const PHRASES = __PHRASES__;
 const MWSYN = __MWSYN__;     // word -> extra synonyms; empty until synonyms.json exists
 const KEY = "gre-vocab-difficulty-v1";
 let marks = JSON.parse(localStorage.getItem(KEY) || "{}");
@@ -949,6 +960,23 @@ function renderStats(){
    months of marking in one session.
    ========================================================================== */
 
+/* The phrases are given the shape of a card - word, one_line, means - so the
+   whole Mountain works on them unchanged: the grid, the flip, the verdicts,
+   the saved runs, the density. What a phrase SIGNALS stands in for the
+   definition, and its example sentence for the extended meaning. */
+const PHRASE_CARDS = PHRASES.map(p => ({
+  word: p.p, pos: "", one_line: p.t,
+  // The example goes in `sentences`, not into `means` as well - the detail
+  // sheet renders both and the sentence was appearing twice.
+  means: p.t,
+  sentences: p.s ? [p.s] : [], groups: [], phrase: true,
+}));
+const PHRASE_KINDS = [...new Set(PHRASE_CARDS.map(c => c.one_line))].sort();
+const BY_WORD = {};
+CARDS.forEach(c => { BY_WORD[c.word] = c; });
+PHRASE_CARDS.forEach(c => { BY_WORD[c.word] = c; });
+const cardByWord = w => BY_WORD[w] || null;
+
 const MTN_KEY = "gre-vocab-mountain-v1", MSEL_KEY = "gre-vocab-mtn-sel-v1",
       MDEN_KEY = "gre-vocab-mtn-density-v1", MRUN_KEY = "gre-vocab-mtn-runs-v1",
       MSESS_KEY = "gre-vocab-mtn-session-v1";
@@ -957,6 +985,17 @@ let mSel = new Set(JSON.parse(localStorage.getItem(MSEL_KEY) || "[]"));
 let mDen = +localStorage.getItem(MDEN_KEY) || 6;      // cards per screen: 1, 2, 4, 6
 let mRuns = JSON.parse(localStorage.getItem(MRUN_KEY) || "[]");
 let mDeck = [], mPage = 0, mVerdict = {}, mRunning = false, mShuffled = true;
+const MSRC_KEY = "gre-vocab-mtn-src-v1";
+let mSrc = localStorage.getItem(MSRC_KEY) || "lists";    // "lists" | "phrases"
+let mKinds = new Set(JSON.parse(localStorage.getItem("gre-vocab-mtn-kinds-v1") || "[]"));
+const saveKinds = () =>
+  localStorage.setItem("gre-vocab-mtn-kinds-v1", JSON.stringify([...mKinds]));
+/* Whatever the chosen source currently offers. */
+function mPool(){
+  if(mSrc === "phrases")
+    return PHRASE_CARDS.filter(c => !mKinds.size || mKinds.has(c.one_line));
+  return wordsInGroups(mSel);
+}
 const mFlipped = new Set();                            // words currently showing their meaning
 
 /* A run in progress is written on every verdict and every page turn, so
@@ -966,16 +1005,15 @@ function mSaveSession(){
   if(!mRunning){ localStorage.removeItem(MSESS_KEY); return; }
   localStorage.setItem(MSESS_KEY, JSON.stringify({
     words: mDeck.map(c => c.word), page: mPage, verdict: mVerdict,
-    den: mDen, shuf: mShuffled, groups: [...mSel], t: Date.now(),
+    den: mDen, shuf: mShuffled, groups: [...mSel], src: mSrc,
+    kinds: [...mKinds], t: Date.now(),
   }));
 }
 function mLoadSession(){
   let s;
   try{ s = JSON.parse(localStorage.getItem(MSESS_KEY) || "null"); }catch(e){ return null; }
   if(!s || !s.words || !s.words.length) return null;
-  const by = {};
-  CARDS.forEach(c => { by[c.word] = c; });
-  const deck = s.words.map(w => by[w]).filter(Boolean);
+  const deck = s.words.map(cardByWord).filter(Boolean);
   return deck.length ? {...s, deck} : null;
 }
 
@@ -1007,8 +1045,16 @@ function mountainSetup(){
     return `<button class="gchip ${mSel.has(g) ? "on" : ""}" data-g="${g}">
         <b>${g}</b><i style="width:${pct}%"></i><u>${known}/${ws.length}</u></button>`;
   }).join("");
-  const picked = wordsInGroups(mSel);
+  const kindRows = PHRASE_KINDS.map(k => {
+    const ws = PHRASE_CARDS.filter(c => c.one_line === k);
+    const known = ws.filter(c => mtn[c.word] && mtn[c.word].k).length;
+    return `<button class="gchip wide ${mKinds.has(k) ? "on" : ""}" data-k="${esc(k)}">
+        <b>${esc(k)}</b><i style="width:${Math.round(100*known/(ws.length||1))}%"></i>
+        <u>${known}/${ws.length}</u></button>`;
+  }).join("");
+  const picked = mPool();
   const fresh = picked.filter(c => !mtn[c.word]).length;
+  const phr = mSrc === "phrases";
   const held = mLoadSession();
   const runs = mRuns.slice(0, 8);
   $("mountain").innerHTML = `<div class="q"><div class="setup">
@@ -1020,20 +1066,33 @@ function mountainSetup(){
           <button class="btn on" id="mResume">Resume</button>
           <button class="btn" id="mDrop">Discard</button>
         </div>` : ""}
-      <p class="hint">Pick the lists to climb. One word at a time: reveal it, then say
-         whether you knew it. Nothing here touches your easy/medium/hard marks.</p>
-      <div class="gpick">${rows}</div>
+      <div class="srcpick">
+        <button class="srctab ${phr ? "" : "on"}" data-src="lists">Vocabulary lists</button>
+        <button class="srctab ${phr ? "on" : ""}" data-src="phrases">Signal phrases
+          <span>${PHRASE_CARDS.length}</span></button>
+      </div>
+      <p class="hint">${phr
+        ? `What each phrase signals in a sentence &mdash; whether it carries the logic
+           on, reverses it, negates it, or changes nothing. Reveal the phrase, say
+           what it does, then mark yourself.`
+        : `Pick the lists to climb. One word at a time: reveal it, then say
+           whether you knew it. Nothing here touches your easy/medium/hard marks.`}</p>
+      <div class="gpick${phr ? " kinds" : ""}">${phr ? kindRows : rows}</div>
       <div class="rowbtns">
-        <button class="btn" id="mAll">All ${GNUMS.length}</button>
-        <button class="btn" id="mNone">Clear</button>
-        <button class="btn" id="mRange">Range…</button>
-        <button class="btn" id="mWipe" title="Forget the known/unknown record for these lists">Reset marks</button>
+        ${phr
+          ? `<button class="btn" id="mAllK">All ${PHRASE_KINDS.length} kinds</button>
+             <button class="btn" id="mNoneK">Clear</button>`
+          : `<button class="btn" id="mAll">All ${GNUMS.length}</button>
+             <button class="btn" id="mNone">Clear</button>
+             <button class="btn" id="mRange">Range…</button>`}
+        <button class="btn" id="mWipe" title="Forget the known/unknown record for this selection">Reset marks</button>
       </div>
       <hr class="sep">
       <label><input type="checkbox" id="mOnlyNew" checked>
-        <span><strong>Only words I haven't judged yet</strong><br>
+        <span><strong>Only ${phr ? "phrases" : "words"} I haven't judged yet</strong><br>
         <span class="hint">Skips the ones already marked known or unknown here.</span></span></label>
-      <p class="hint" id="mCount">${picked.length} words selected · ${fresh} not yet judged</p>
+      <p class="hint" id="mCount">${picked.length} ${phr ? "phrases" : "words"} selected
+         &middot; ${fresh} not yet judged</p>
       <div style="margin-top:14px"><button id="mStart" class="on"
         ${picked.length ? "" : "disabled"}>Start climbing</button></div>
       ${runs.length ? `<hr class="sep"><div class="seclabel">Past runs</div>
@@ -1049,6 +1108,8 @@ function mountainSetup(){
       mDeck = held.deck; mPage = held.page || 0; mVerdict = held.verdict || {};
       mDen = held.den || mDen; mShuffled = held.shuf !== false;
       mSel = new Set(held.groups || [...mSel]);
+      if(held.src){ mSrc = held.src; localStorage.setItem(MSRC_KEY, mSrc); }
+      if(held.kinds) mKinds = new Set(held.kinds);
       mFlipped.clear(); mRunning = true; renderMountain();
     };
     $("mDrop").onclick = () => { localStorage.removeItem(MSESS_KEY); renderMountain(); };
@@ -1057,11 +1118,22 @@ function mountainSetup(){
     el.onclick = () => mShowRun(mRuns[+el.dataset.r]));
 
   const refresh = () => {
-    const p = wordsInGroups(mSel), f = p.filter(c => !mtn[c.word]).length;
-    $("mCount").textContent = `${p.length} words selected · ${f} not yet judged`;
-    $("mStart").disabled = !p.length;
+    const pool = mPool(), f = pool.filter(c => !mtn[c.word]).length;
+    $("mCount").textContent = `${pool.length} ${mSrc === "phrases" ? "phrases" : "words"}`
+      + ` selected · ${f} not yet judged`;
+    $("mStart").disabled = !pool.length;
   };
-  $("mountain").querySelectorAll(".gchip").forEach(b => b.onclick = () => {
+  $("mountain").querySelectorAll(".srctab").forEach(b => b.onclick = () => {
+    mSrc = b.dataset.src; localStorage.setItem(MSRC_KEY, mSrc); renderMountain();
+  });
+  $("mountain").querySelectorAll(".gchip[data-k]").forEach(b => b.onclick = () => {
+    const k = b.dataset.k;
+    mKinds.has(k) ? mKinds.delete(k) : mKinds.add(k);
+    b.classList.toggle("on", mKinds.has(k)); saveKinds(); refresh();
+  });
+  if($("mAllK")) $("mAllK").onclick = () => { mKinds = new Set(PHRASE_KINDS); saveKinds(); renderMountain(); };
+  if($("mNoneK")) $("mNoneK").onclick = () => { mKinds.clear(); saveKinds(); renderMountain(); };
+  $("mountain").querySelectorAll(".gchip[data-g]").forEach(b => b.onclick = () => {
     const g = +b.dataset.g;
     mSel.has(g) ? mSel.delete(g) : mSel.add(g);
     b.classList.toggle("on", mSel.has(g)); saveMSel(); refresh();
@@ -1077,9 +1149,9 @@ function mountainSetup(){
     ws.forEach(c => delete mtn[c.word]);
     saveMtn(); renderMountain();
   };
-  $("mAll").onclick  = () => { mSel = new Set(GNUMS); saveMSel(); renderMountain(); };
-  $("mNone").onclick = () => { mSel.clear(); saveMSel(); renderMountain(); };
-  $("mRange").onclick = () => {
+  if($("mAll")) $("mAll").onclick = () => { mSel = new Set(GNUMS); saveMSel(); renderMountain(); };
+  if($("mNone")) $("mNone").onclick = () => { mSel.clear(); saveMSel(); renderMountain(); };
+  if($("mRange")) $("mRange").onclick = () => {
     const s = prompt("Which lists? e.g.  3, 6, 12-14", [...mSel].sort((a,b)=>a-b).join(", "));
     if(s === null) return;
     const next = new Set();
@@ -1091,7 +1163,7 @@ function mountainSetup(){
     mSel = next; saveMSel(); renderMountain();
   };
   $("mStart").onclick = () => {
-    let pool = wordsInGroups(mSel);
+    let pool = mPool();
     if($("mOnlyNew").checked){
       const f = pool.filter(c => !mtn[c.word]);
       if(f.length) pool = f;                    // fall back rather than start empty
@@ -1240,13 +1312,12 @@ function renderMountain(){
   $("mPrev").onclick = () => mStep(-1);
   $("mNext").onclick = () => mStep(1);
   $("mQuit").onclick = () => mFinish();
+  // Always a fresh deal, never a toggle: the point is to break the order you
+  // have started to memorise, and toggling back to sorted did not do that.
   $("mShuf").onclick = () => {
-    mShuffled = !mShuffled;
-    mDeck = mShuffled ? shuffled(mDeck)
-                      : mDeck.slice().sort((a,b) =>
-                          ((a.groups||[])[0]||0) - ((b.groups||[])[0]||0) ||
-                          a.word.localeCompare(b.word));
-    mPage = 0; renderMountain();
+    mShuffled = true;
+    mDeck = shuffled(mDeck);
+    mPage = 0; mFlipped.clear(); mSaveSession(); renderMountain();
   };
   $("mDenBtn").onclick = () => {
     const first = mPage * mDen;                       // keep the same word on screen
@@ -1260,7 +1331,7 @@ function renderMountain(){
 
 /* The detailed card does not fit beside five others, so it opens over them. */
 function mShowDetail(word){
-  const c = CARDS.find(x => x.word === word);
+  const c = cardByWord(word);
   if(!c) return;
   $("msheet").querySelector(".mpanel").innerHTML =
     `<div class="mdethead"><b>${esc(c.word)}</b> <span class="pos">${esc(c.pos||"")}</span>
@@ -1420,7 +1491,7 @@ function mFinish(){
   const seen = Object.entries(mVerdict);
   const missed = seen.filter(x => !x[1]).map(x => x[0]);
   const run = {
-    t: Date.now(), groups: [...mSel].sort((a,b) => a-b),
+    t: Date.now(), src: mSrc, groups: [...mSel].sort((a,b) => a-b),
     total: mDeck.length, seen: seen.length, knew: seen.length - missed.length,
     missed, done: seen.length >= mDeck.length && mDeck.length > 0,
   };
@@ -1446,7 +1517,7 @@ function mShowRun(run){
     </div>
     <h4 class="mh4">Words to go back to</h4>
     <div class="wrongs">${missed.length
-      ? missed.map(w => { const c = CARDS.find(x => x.word === w) || {};
+      ? missed.map(w => { const c = cardByWord(w) || {};
           return `<div data-w="${esc(w)}"><b>${esc(w)}</b><span>${esc(c.one_line||"")}</span></div>`;
         }).join("")
       : `<div><span>Nothing missed.</span></div>`}</div>
@@ -1462,7 +1533,7 @@ function mShowRun(run){
   };
   if($("mAgain")) $("mAgain").onclick = () => {
     $("msheet").classList.add("hidden");
-    mDeck = shuffled(CARDS.filter(c => missed.includes(c.word)));
+    mDeck = shuffled(missed.map(cardByWord).filter(Boolean));
     mPage = 0; mVerdict = {}; mFlipped.clear(); mRunning = true;
     mSaveSession(); renderMountain();
   };
@@ -3009,6 +3080,11 @@ def main() -> int:
     if FLASHCARDS.exists():
         fcards = json.loads(FLASHCARDS.read_text(encoding="utf-8"))
 
+    # TC/SE signal phrases. Built by phrases.py from the strategy workbook.
+    phrases = []
+    if PHRASEFILE.exists():
+        phrases = json.loads(PHRASEFILE.read_text(encoding="utf-8"))
+
     OUT.mkdir(exist_ok=True)
     html = (TEMPLATE
             .replace("__DATA__", json.dumps(data, ensure_ascii=False))
@@ -3017,7 +3093,8 @@ def main() -> int:
             .replace("__KINDLABEL__", json.dumps(KIND_LABEL, ensure_ascii=False))
             .replace("__VIDEOS__", json.dumps(videos, ensure_ascii=False))
             .replace("__MWSYN__", json.dumps(mwsyn, ensure_ascii=False))
-            .replace("__FCARDS__", json.dumps(fcards, ensure_ascii=False)))
+            .replace("__FCARDS__", json.dumps(fcards, ensure_ascii=False))
+            .replace("__PHRASES__", json.dumps(phrases, ensure_ascii=False)))
     dest = OUT / "flashcards.html"
     dest.write_text(html, encoding="utf-8")
 

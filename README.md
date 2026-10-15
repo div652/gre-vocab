@@ -62,6 +62,7 @@ Three consequences worth naming:
 | `videos.py` | Crawls the iswearenglish channel and matches each card word to its videos. |
 | `synonyms.py` | Tops up each word's synonyms from a dictionary into `synonyms.json`. |
 | `flashcards.py` | Converts the GregMat flashcard images into `out/fc/` and indexes them. |
+| `phrases.py` | Pulls the TC/SE signal phrases out of the strategy workbook into `phrases.json`. |
 | `sync_skill.py` | Keeps `skill/` in step with the live skill. |
 | `cards/` | One JSON file per word. The source of truth. |
 

@@ -492,6 +492,20 @@ The stats float over the gutter rather than taking a flex column, and the card
 is sized leaving that gutter clear on **both** sides — otherwise it centres in
 the space next to the panel and sits visibly off to one side.
 
+### D-55 — Signal phrases live inside the Mountain, not in a tab of their own
+The 73 TC/SE phrases are a second deck on the Mountain's start screen rather
+than a seventh tab. The tab strip already overflowed 375px by 63px at six tabs,
+so a seventh would have put two of them off screen.
+
+Hosting them there costs nothing and gains everything the Mountain already
+does: tick/cross kept out of `marks`, saved runs with the missed list, resume,
+and the 1/2/4/6 density. It works because the phrases are **given the shape of
+a card** — the mode never learns they are different.
+
+The shuffle button now always deals a new order rather than toggling back to
+sorted. Breaking an order you have begun to memorise is the whole point of it,
+and a toggle only did that every second press.
+
 ### D-45 — The header hides its filters in the Mountain
 Search, the group and mark filters, shuffle and the stats readout belong to
 Browse and Drill. Measured on a 375px viewport they made the header **452px of
