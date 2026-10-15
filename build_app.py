@@ -377,20 +377,23 @@ svg.mt .mfill{fill:none;stroke:var(--accent);stroke-width:3.5;stroke-linejoin:ro
 .mside{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
   display:flex;flex-direction:column;align-items:center;justify-content:center;
   text-align:center;padding:.9rem .8rem;gap:.35rem;overflow:auto}
+/* At four- and six-up the back face is only ~64px tall, and the default
+   padding was eating nearly half of it. */
+.mgrid.d4 .mside,.mgrid.d6 .mside{padding:.4rem .45rem}
 .mgrid.d1 .mside,.mgrid.d2 .mside{padding:1.2rem 1.4rem}
 .mside.back{transform:rotateY(180deg)}
 /* Sans on the card, not the reading serif. A bare word on a tile is a label,
    not prose, and the serif read as decoration beside the reference app. */
 .mcw{font-family:var(--ui);font-weight:500;line-height:1.2;font-size:1.25rem;
   overflow-wrap:anywhere;letter-spacing:-.01em}
-.mgl{font-family:var(--ui);font-weight:400;font-size:.88rem;line-height:1.45;color:var(--ink2)}
+.mgl{font-family:var(--ui);font-weight:400;font-size:1.02rem;line-height:1.4;color:var(--ink2)}
 .mcard.k .mcw,.mcard.n .mcw,.mcard.k .mgl,.mcard.n .mgl{color:#fff}
 .mgrid.d1 .mcw{font-size:2.7rem}
-.mgrid.d1 .mgl{font-size:1.25rem;max-width:20rem;line-height:1.5}
+.mgrid.d1 .mgl{font-size:1.7rem;max-width:22rem;line-height:1.45}
 .mgrid.d2 .mcw{font-size:2rem}
-.mgrid.d2 .mgl{font-size:1.05rem}
+.mgrid.d2 .mgl{font-size:1.35rem;line-height:1.45}
 .mgrid.d4 .mcw{font-size:1.5rem}
-.mgrid.d4 .mgl{font-size:.95rem}
+.mgrid.d4 .mgl{font-size:1.12rem}
 /* Four controls. A wide card takes them in a row; a narrow one wraps to 2x2,
    which is what the six-up layout needs and what the reference app does. */
 /* Tap targets. The cells are contiguous - no gap - so every pixel between two
